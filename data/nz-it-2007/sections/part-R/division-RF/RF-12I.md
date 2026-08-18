@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section RF 12H to describe what is meant by indirect associated funding arrangements and funding through non-resident owning bodies.
+**(1)** This section applies for the purposes of section RF 12H to describe what is meant by indirect associated funding arrangements and funding through non-resident owning bodies.
 
 **Indirect associated funding arrangements**
 
-**(2)**  An indirect associated funding arrangement exists when—
+**(2)** An indirect associated funding arrangement exists when—
 
 - (a) a non-resident person (the indirect lender) provides funds or pays money, directly or indirectly, to another person (the direct lender) who provides funds to a third person (the borrower)—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Non-resident owning bodies**
 
-**(3)**  A non-resident owning body is treated as associated with a borrower when the ownership interest, within the meaning set out in paragraph (a) of the definition of that term, in the borrower of all the members of the non-resident owning body is 50% or more.
+**(3)** A non-resident owning body is treated as associated with a borrower when the ownership interest, within the meaning set out in paragraph (a) of the definition of that term, in the borrower of all the members of the non-resident owning body is 50% or more.
 
 *Defined in this Act: arrangement, associated person, interest, non-resident, non-resident owning body, non-resident passive income, ownership interest, pay, related-party debt*
 

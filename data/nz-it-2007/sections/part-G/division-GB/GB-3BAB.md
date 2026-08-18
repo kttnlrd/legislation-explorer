@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person (person A) enters into an arrangement with another person (person B); and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Treatment of injected income**
 
-**(2)**  The amount is schedular income of the company for the tax year corresponding to the income year.
+**(2)** The amount is schedular income of the company for the tax year corresponding to the income year.
 
 *Defined in this Act: amount, arrangement, assessable income, associated person, company, income year, schedular income, tax avoidance, tax loss component, tax year*
 

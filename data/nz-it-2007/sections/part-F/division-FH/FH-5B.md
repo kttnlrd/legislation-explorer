@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when expenditure meets the requirements of section FH 5(2)﻿(a) and (b).
+**(1)** This section applies when expenditure meets the requirements of section FH 5(2)﻿(a) and (b).
 
 **Supply to payer depending on supply to payee or group**
 
-**(2)**  For the purposes of section FH 5(2)﻿(c), a supply of goods or services by the person who is the payee for the purposes of that section (the payee) to the person who is the payer for the purposes of that section (the payer) meets the requirements of this subsection if—
+**(2)** For the purposes of section FH 5(2)﻿(c), a supply of goods or services by the person who is the payee for the purposes of that section (the payee) to the person who is the payer for the purposes of that section (the payer) meets the requirements of this subsection if—
 
 - (a) a prerequisite for the supply is a supply of goods or services (the prerequisite group supply) received and paid for by the payee or by a person who is a member of the payee's control group and is resident in the payee jurisdiction; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Expenditure excluded from being mismatch amount**
 
-**(3)**  The amount of the consideration for a supply that meets the requirements of subsection (2) (the payer supply) that is an amount excluded from being a mismatch amount (the excluded amount) and is linked for the purposes of paragraph (a) or subsection (4) to a prerequisite group supply is,—
+**(3)** The amount of the consideration for a supply that meets the requirements of subsection (2) (the payer supply) that is an amount excluded from being a mismatch amount (the excluded amount) and is linked for the purposes of paragraph (a) or subsection (4) to a prerequisite group supply is,—
 
 - (a) if the payer supply is the sole payer supply to the payer by the payee, or by a member of the payee's control group, that occurs in or before the income year in which the payer supply is made, and the prerequisite group supply is the sole prerequisite group supply for the payer supply, the amount that is the lesser of—
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **More than 1 payer supply and more than 1 prerequisite group supply**
 
-**(4)**  If the requirements of subsection (3)﻿(a) are not met for a payer supply and a prerequisite group supply, the excluded amount for the payer supply, together with excluded amounts for other payer supplies, must meet the following requirements:
+**(4)** If the requirements of subsection (3)﻿(a) are not met for a payer supply and a prerequisite group supply, the excluded amount for the payer supply, together with excluded amounts for other payer supplies, must meet the following requirements:
 
 - (a) for a payer supply, the total of the excluded amounts linked to prerequisite group supplies must not exceed the consideration for the payer supply; and
 

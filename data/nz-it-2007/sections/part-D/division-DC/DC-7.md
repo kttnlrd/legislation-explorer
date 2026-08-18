@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  An employer is allowed a deduction for a superannuation contribution to an employees' superannuation scheme.
+**(1)** An employer is allowed a deduction for a superannuation contribution to an employees' superannuation scheme.
 
 **Timing of deduction**
 
-**(2)**  The deduction is allocated to the income year in which the employer makes the contribution.
+**(2)** The deduction is allocated to the income year in which the employer makes the contribution.
 
 **Relationship with section EJ 21**
 
-**(3)**  Subsection (2) is overridden by section EJ 21 (Contributions to employees' superannuation schemes).
+**(3)** Subsection (2) is overridden by section EJ 21 (Contributions to employees' superannuation schemes).
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(4)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: capital limitation, deduction, employee, employer, general limitation, general permission, income year, superannuation contribution, superannuation scheme, tax credit*
 

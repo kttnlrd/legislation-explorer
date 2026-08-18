@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person is required to calculate a base price adjustment under section EW 29(14) in their private capacity; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Consideration limited to owner's interests**
 
-**(2)**  The person is treated as—
+**(2)** The person is treated as—
 
 - (a) having paid all the consideration paid, or that is or will be payable, by them for or under the relevant financial arrangement, multiplied by the proportion of their owner's interests or partner's interests in the financial arrangement in their non-private capacity; and
 

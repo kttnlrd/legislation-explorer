@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Subgroup of trans-Tasman imputation group**
 
-**(1)**  The resident imputation subgroup of a trans-Tasman imputation group must record in its imputation credit account the credits and debits described in subsection (2).
+**(1)** The resident imputation subgroup of a trans-Tasman imputation group must record in its imputation credit account the credits and debits described in subsection (2).
 
 **Eligible credits and debits**
 
-**(2)**  The credits and debits referred to in subsection (1) are those that arise in the imputation credit account of the subgroup's trans-Tasman imputation group in relation to a company that—
+**(2)** The credits and debits referred to in subsection (1) are those that arise in the imputation credit account of the subgroup's trans-Tasman imputation group in relation to a company that—
 
 - (a) will be part of the subgroup if the credit or debit arises before the subgroup is formed; or
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Opening balances**
 
-**(3)**  The opening balance of the imputation credit account is an amount equal to the sum of the opening balances of each company that is part of the resident imputation subgroup.
+**(3)** The opening balance of the imputation credit account is an amount equal to the sum of the opening balances of each company that is part of the resident imputation subgroup.
 
 *Defined in this Act: amount, company, imputation credit account, imputation group, resident imputation subgroup, trans-Tasman imputation group*
 

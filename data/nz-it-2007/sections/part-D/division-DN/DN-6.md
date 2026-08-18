@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General rule**
 
-**(1)**  A person has a FIF loss in an income year if,—
+**(1)** A person has a FIF loss in an income year if,—
 
 - (a) at any time in the year, the person has—
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Look-through calculation methods**
 
-**(2)**  Despite subsection (1), if the calculation method is the attributable FIF income method,—
+**(2)** Despite subsection (1), if the calculation method is the attributable FIF income method,—
 
 - (a) FIF loss arises in the income year only if the relevant accounting period of the FIF ends during the year; and
 
@@ -88,11 +88,11 @@ compilation_date: 2026-06-06
 
 **FIF loss from CFC with FIF interest**
 
-**(3)**  FIF loss also includes an amount of additional FIF loss that a person with an income interest of 10% or more in a CFC has in an income year under section EX 58 (Additional FIF income or loss if CFC owns FIF), regardless of whether the CFC is a non-attributing active CFC under section EX 21B (Non-attributing active CFCs) or a non-attributing Australian CFC under section EX 22 (Non-attributing Australian CFCs).
+**(3)** FIF loss also includes an amount of additional FIF loss that a person with an income interest of 10% or more in a CFC has in an income year under section EX 58 (Additional FIF income or loss if CFC owns FIF), regardless of whether the CFC is a non-attributing active CFC under section EX 21B (Non-attributing active CFCs) or a non-attributing Australian CFC under section EX 22 (Non-attributing Australian CFCs).
 
 **Requirements for trustees**
 
-**(4)**  Subsection (1)﻿(e) applies to the trustee of a trust for an income year if—
+**(4)** Subsection (1)﻿(e) applies to the trustee of a trust for an income year if—
 
 - (a) the trust is of the estate of a deceased person and the income year begins on or before the day that is 5 years after the person's death:
 

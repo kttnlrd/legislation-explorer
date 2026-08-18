@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(1)**  A person whose assessable income for an income year includes an imputation credit has a tax credit for the tax year corresponding to the income year of an amount equal to the sum of the amount of the imputation credit and any credit carried forward from an earlier tax year. Section OZ 11 (Tax credits for imputation credits) may apply to modify this section.
+**(1)** A person whose assessable income for an income year includes an imputation credit has a tax credit for the tax year corresponding to the income year of an amount equal to the sum of the amount of the imputation credit and any credit carried forward from an earlier tax year. Section OZ 11 (Tax credits for imputation credits) may apply to modify this section.
 
 **Multi-rate PIEs and their investors**
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  For a returning share transfer, a share user does not have a tax credit for an imputation credit attached to a dividend derived in a period in which they hold a share acquired under the transfer. However, a person providing a share under a returning share transfer is allowed a tax credit for the amount of an imputation credit recorded in the credit transfer notice, see section LE 7 except if the person is related to the share user or the returning share transfer is a structured arrangement, see section FH 4(5) (Receipts under financial instruments producing deduction without income).
+**(2)** For a returning share transfer, a share user does not have a tax credit for an imputation credit attached to a dividend derived in a period in which they hold a share acquired under the transfer. However, a person providing a share under a returning share transfer is allowed a tax credit for the amount of an imputation credit recorded in the credit transfer notice, see section LE 7 except if the person is related to the share user or the returning share transfer is a structured arrangement, see section FH 4(5) (Receipts under financial instruments producing deduction without income).
 
 **When amount altered**
 
-**(3)**  The amount of the person's credit in subsection (1) may be reduced or increased if any of sections LE 4 to LE 10 apply.
+**(3)** The amount of the person's credit in subsection (1) may be reduced or increased if any of sections LE 4 to LE 10 apply.
 
 **FIF income**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Arrangements for tax advantage**
 
-**(5)**  A person's credit under this section is extinguished if any of the following sections apply:
+**(5)** A person's credit under this section is extinguished if any of the following sections apply:
 
 - (a) section GB 36 (Reconstruction of imputation arrangements to obtain tax advantage):
 

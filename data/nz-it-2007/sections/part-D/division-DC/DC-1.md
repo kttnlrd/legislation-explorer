@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person who carries on a business is allowed a deduction for a lump sum paid as a bonus, gratuity, or retiring allowance to an employee on retirement.
+**(1)** A person who carries on a business is allowed a deduction for a lump sum paid as a bonus, gratuity, or retiring allowance to an employee on retirement.
 
 **Inclusions**
 
-**(2)**  For the purposes of subsection (1), a lump sum paid on retirement includes a lump sum paid to—
+**(2)** For the purposes of subsection (1), a lump sum paid on retirement includes a lump sum paid to—
 
 - (a) an employee when they end their employment or service through redundancy, loss of office, or similar circumstances:
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(3)**  This section does not apply to the extent to which the person has accepted a liability, as described in section DC 10(1)﻿(c), to pay an amount of employment income.
+**(3)** This section does not apply to the extent to which the person has accepted a liability, as described in section DC 10(1)﻿(c), to pay an amount of employment income.
 
 **Timing of deduction**
 
-**(4)**  The deduction is allocated to the income year in which the lump sum is paid.
+**(4)** The deduction is allocated to the income year in which the lump sum is paid.
 
 **Link with subpart DA**
 
-**(5)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(5)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: amount, business, capital limitation, deduction, employee, employment income, general limitation, general permission, income year, pay, supplement*
 

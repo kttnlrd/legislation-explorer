@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction for payment**
 
-**(1)**  A person is allowed a deduction of the amount set out in section EK 7 (Deduction for payment) if the person has made a payment for an income year to the Commissioner under section EK 2 (Persons who may make payment to environmental restoration account) and the amount is not refunded under section EK 9 (Refund of payment if excess, lacking details).
+**(1)** A person is allowed a deduction of the amount set out in section EK 7 (Deduction for payment) if the person has made a payment for an income year to the Commissioner under section EK 2 (Persons who may make payment to environmental restoration account) and the amount is not refunded under section EK 9 (Refund of payment if excess, lacking details).
 
 **Timing of deduction**
 
-**(2)**  The deduction under subsection (1) is allocated to the income year referred to in section EK 7.
+**(2)** The deduction under subsection (1) is allocated to the income year referred to in section EK 7.
 
 **Deduction for transfer**
 
-**(3)**  A person is allowed a deduction for an income year of the amount set out in section EK 8 (Deduction for transfer) if in an income year the person receives—
+**(3)** A person is allowed a deduction for an income year of the amount set out in section EK 8 (Deduction for transfer) if in an income year the person receives—
 
 - (a) a transfer under section EK 15 (Transfer on application) that is treated under section EK 15(3) as being a payment by the person:
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(4)**  A deduction under subsection (3) is allocated to the income year referred to in section EK 8.
+**(4)** A deduction under subsection (3) is allocated to the income year referred to in section EK 8.
 
 **Link with subpart DA**
 
-**(5)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(5)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: apply, capital limitation, deduction, general limitation, general permission, income year, pay, supplement*
 

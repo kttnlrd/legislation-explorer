@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person (the buyer) enters into an unconditional contract to buy an item of depreciable property; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Buyer treated as owner**
 
-**(2)**  The buyer is treated as owning, and the seller is treated as not owning, the item from the later of the following times:
+**(2)** The buyer is treated as owning, and the seller is treated as not owning, the item from the later of the following times:
 
 - (a) the time at which the buyer enters into the contract; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Buyer ceases to be treated as owner**
 
-**(3)**  Subsection (2) ceases to apply when 1 of the following occurs:
+**(3)** Subsection (2) ceases to apply when 1 of the following occurs:
 
 - (a) title to the item passes to the buyer; or
 

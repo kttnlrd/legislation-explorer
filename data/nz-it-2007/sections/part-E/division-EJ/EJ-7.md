@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **New Zealand films**
 
-**(1)**  A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section if—
+**(1)** A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section if—
 
 - (a) the film is not one for which a large budget film grant is made; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Timing of deduction: up to completion of film**
 
-**(2)**  A deduction for film production expenditure incurred in or before the income year in which the film is completed is allocated to the income year in which the film is completed.
+**(2)** A deduction for film production expenditure incurred in or before the income year in which the film is completed is allocated to the income year in which the film is completed.
 
 **Timing of deduction: after completion of film**
 
-**(3)**  A deduction for film production expenditure incurred after the film is completed is allocated to the income year in which it is incurred.
+**(3)** A deduction for film production expenditure incurred after the film is completed is allocated to the income year in which it is incurred.
 
 *Defined in this Act: completed, deduction, film, film production expenditure, income year, large budget film grant, New Zealand*
 

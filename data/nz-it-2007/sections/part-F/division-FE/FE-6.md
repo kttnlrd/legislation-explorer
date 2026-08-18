@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  This section applies to an excess debt entity or a natural person if section FE 5 requires the entity or person to apportion their interest expenditure for an income year under this section or the entity or person has a debt percentage equal to zero under section FE 12(3) because the relevant New Zealand group's non-debt liabilities equal or exceed its assets. A natural person is treated as an excess debt entity for the purposes of this section other than in the item threshold amount.
+**(1)** This section applies to an excess debt entity or a natural person if section FE 5 requires the entity or person to apportion their interest expenditure for an income year under this section or the entity or person has a debt percentage equal to zero under section FE 12(3) because the relevant New Zealand group's non-debt liabilities equal or exceed its assets. A natural person is treated as an excess debt entity for the purposes of this section other than in the item threshold amount.
 
 **General formula**
 
-**(2)**  An excess debt entity having a worldwide group that is not given by section FE 31D is treated under section CH 9 (Interest apportionment: excess debt entity) as deriving in the income year an amount of income calculated for the income year using the formula— (total deduction − mismatch + FRD − adjust) × (total debt − concession) ÷ total debt× group debt factor.
+**(2)** An excess debt entity having a worldwide group that is not given by section FE 31D is treated under section CH 9 (Interest apportionment: excess debt entity) as deriving in the income year an amount of income calculated for the income year using the formula— (total deduction − mismatch + FRD − adjust) × (total debt − concession) ÷ total debt× group debt factor.
 
 **Items in formula**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) total deduction is the whole amount of the excess debt entity's deduction for interest that would be allowed, in the absence of subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements), under any of sections DB 6 to DB 8 (which relate to deductions for interest expenditure) less—
 
@@ -112,11 +112,11 @@ compilation_date: 2026-06-06
 
 **Alternative calculation**
 
-**(4)**  If a company that is in the same wholly-owned group of companies as the excess debt entity has a deduction for interest under any of sections DB 6 to DB 8, the company may choose to be treated as deriving the income that the excess debt entity would otherwise, under subsection (2) or (3B), be treated as deriving for the income year. The amount of income is not calculated using the formula in subsection (2) or (3B) but is limited as set out in subsection (5).
+**(4)** If a company that is in the same wholly-owned group of companies as the excess debt entity has a deduction for interest under any of sections DB 6 to DB 8, the company may choose to be treated as deriving the income that the excess debt entity would otherwise, under subsection (2) or (3B), be treated as deriving for the income year. The amount of income is not calculated using the formula in subsection (2) or (3B) but is limited as set out in subsection (5).
 
 **Limitation on election amount**
 
-**(5)**  The amount of income for which the company may make the election under subsection (4), when added to any other income that the company chooses to treat itself as deriving under subsection (4), must not exceed—
+**(5)** The amount of income for which the company may make the election under subsection (4), when added to any other income that the company chooses to treat itself as deriving under subsection (4), must not exceed—
 
 - (a) the total amount of deductions that the company has for interest in the income year, except if paragraph (b) applies; or
 

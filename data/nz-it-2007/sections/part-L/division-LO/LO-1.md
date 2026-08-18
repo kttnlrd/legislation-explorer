@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(1)**  A person who derives a taxable Maori authority distribution in a tax year has a tax credit for the tax year equal to the amount of the Maori authority credit attached to the distribution.
+**(1)** A person who derives a taxable Maori authority distribution in a tax year has a tax credit for the tax year equal to the amount of the Maori authority credit attached to the distribution.
 
 **Amount altered**
 
-**(2)**  The amount of the person's credit in subsection (1) may be reduced or increased if any of sections LO 2 to LO 4 apply.
+**(2)** The amount of the person's credit in subsection (1) may be reduced or increased if any of sections LO 2 to LO 4 apply.
 
 **Arrangements for tax advantage**
 
-**(3)**  A person's credit under this section is extinguished if sections GB 42 and GB 43 (which relate to Maori authority arrangements to obtain tax advantage) apply.
+**(3)** A person's credit under this section is extinguished if sections GB 42 and GB 43 (which relate to Maori authority arrangements to obtain tax advantage) apply.
 
 *Defined in this Act: amount, Maori authority credit, tax credit, tax year, taxable Maori authority distribution*
 

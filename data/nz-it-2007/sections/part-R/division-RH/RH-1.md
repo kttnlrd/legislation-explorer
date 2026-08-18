@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  The RSCT rules means—
+**(1)** The RSCT rules means—
 
 - (a) this subpart; and
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(2)**  The RSCT rules apply to a retirement scheme contributor who makes a retirement scheme contribution.
+**(2)** The RSCT rules apply to a retirement scheme contributor who makes a retirement scheme contribution.
 
 *Defined in this Act: retirement scheme contribution, retirement scheme contributor, RSCT rules*
 

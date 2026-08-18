@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  An amount of income derived by a tertiary education institution or a tertiary education subsidiary is exempt income.
+**(1)** An amount of income derived by a tertiary education institution or a tertiary education subsidiary is exempt income.
 
 **Tertiary education subsidiary**
 
-**(2)**  In this section, a tertiary education subsidiary, for a tertiary education institution, means a company—
+**(2)** In this section, a tertiary education subsidiary, for a tertiary education institution, means a company—
 
 - (a) in which the tertiary education institution, alone or together with other tertiary education institutions, holds—
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **Control over company**
 
-**(3)**  For the purposes of subsection (2)﻿(b), for an income year, a person is treated as having some control over the company and as being able to direct or divert amounts from the company if, in the corresponding tax year, they are described in section CW 42(5)﻿(a) and (b).
+**(3)** For the purposes of subsection (2)﻿(b), for an income year, a person is treated as having some control over the company and as being able to direct or divert amounts from the company if, in the corresponding tax year, they are described in section CW 42(5)﻿(a) and (b).
 
 **No control over company**
 
-**(4)**  For the purposes of subsection (2)﻿(b), a person described in section CW 42(7)﻿(a) and (b) is not treated as having some control over the company merely because of the factors in section CW 42(7)﻿(a) and (b).
+**(4)** For the purposes of subsection (2)﻿(b), a person described in section CW 42(7)﻿(a) and (b) is not treated as having some control over the company merely because of the factors in section CW 42(7)﻿(a) and (b).
 
 **Benefit or advantage**
 
-**(5)**  For the purposes of subsection (2)﻿(b), a benefit or advantage is one that would be a benefit or advantage under section CW 42(1)﻿(c) and (8).
+**(5)** For the purposes of subsection (2)﻿(b), a benefit or advantage is one that would be a benefit or advantage under section CW 42(1)﻿(c) and (8).
 
 *Defined in this Act: amount, company, exempt income, income, market value circumstance, market value interest, tertiary education institution, tertiary education subsidiary, voting interest*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an instalment by way of tax credit under—
+**(1)** This section applies for an instalment by way of tax credit under—
 
 - (a) section MD 1 (Abating WFF tax credit):
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **How to calculate instalment: period**
 
-**(2)**  The Commissioner must calculate the amount of the instalment as if the calculation period referred to in section MF 3 were a relationship period.
+**(2)** The Commissioner must calculate the amount of the instalment as if the calculation period referred to in section MF 3 were a relationship period.
 
 **How to calculate instalment: amount**
 
-**(3)**  The Commissioner must calculate the amount of the instalment using—
+**(3)** The Commissioner must calculate the amount of the instalment using—
 
 - (a) a value for family scheme income as directed by section MF 3(2)﻿(c); and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Instalment shown in complete dollars**
 
-**(4)**  The instalment is to be shown in a notice of entitlement in complete dollars.
+**(4)** The instalment is to be shown in a notice of entitlement in complete dollars.
 
 *Defined in this Act: amount, Best Start credit abatement, Best Start tax credit, child tax credit, Commissioner, family credit abatement, family scheme income, family tax credit, in-work tax credit, minimum family tax credit, notice of entitlement, parental tax credit, pay, relationship period, tax credit, tax year*
 

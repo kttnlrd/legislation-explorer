@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Entitlement to acquire or extinguish**
 
-**(1)**  For the purposes of section EX 5, a person is treated as holding something if they are entitled to acquire it or extinguish it.
+**(1)** For the purposes of section EX 5, a person is treated as holding something if they are entitled to acquire it or extinguish it.
 
 **Entitlement arises in various ways**
 
-**(2)**  A person is entitled to acquire or extinguish something if the entitlement is absolute or contingent and whether the entitlement—
+**(2)** A person is entitled to acquire or extinguish something if the entitlement is absolute or contingent and whether the entitlement—
 
 - (a) arises under a company's constitution; or
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Standard security arrangements**
 
-**(3)**  Despite subsections (1) and (2), a person is not treated as being entitled to acquire something if—
+**(3)** Despite subsections (1) and (2), a person is not treated as being entitled to acquire something if—
 
 - (a) the entitlement arises under a security arrangement; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **No double counting**
 
-**(4)**  Despite subsections (1) and (2), for the purpose of determining whether a foreign company is a CFC, each of the percentage holdings described in section EX 5 may be counted only once.
+**(4)** Despite subsections (1) and (2), for the purpose of determining whether a foreign company is a CFC, each of the percentage holdings described in section EX 5 may be counted only once.
 
 *Defined in this Act: arrangement, CFC, company, convertible note, direct control interest, foreign company, security arrangement*
 

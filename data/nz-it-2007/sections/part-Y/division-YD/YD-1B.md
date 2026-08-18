@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section contains the rules for determining when a person is a non-resident visitor and when they cease to be a non-resident visitor.
+**(1)** This section contains the rules for determining when a person is a non-resident visitor and when they cease to be a non-resident visitor.
 
 **Meaning of non-resident visitor**
 
-**(2)**  A person who visits New Zealand is a non-resident visitor if—
+**(2)** A person who visits New Zealand is a non-resident visitor if—
 
 - (a) they are a natural person; and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Ending non-resident visitor status: unlawful presence**
 
-**(3)**  If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(g),—
+**(3)** If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(g),—
 
 - (a) for the purposes of determining the person's liabilities and obligations under this Act, the person stops being a non-resident visitor and is treated as if they were never a non-resident visitor:
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Ending non-resident visitor status: change of residency or citizenship status**
 
-**(4)**  If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(h), the person stops being a non-resident visitor on the date the event that causes the cessation of residency or liability to tax occurs, regardless of whether the laws of that foreign country or territory treat the person's cessation of residency or liability to tax as having occurred on an earlier date.
+**(4)** If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(h), the person stops being a non-resident visitor on the date the event that causes the cessation of residency or liability to tax occurs, regardless of whether the laws of that foreign country or territory treat the person's cessation of residency or liability to tax as having occurred on an earlier date.
 
 **Ending non-resident visitor status: other requirements**
 
-**(5)**  If a person who is a non-resident visitor ceases to meet 1 or more of the requirements in subsection (2)﻿(a) to (f), the person stops being a non-resident visitor on the date the cessation occurs.
+**(5)** If a person who is a non-resident visitor ceases to meet 1 or more of the requirements in subsection (2)﻿(a) to (f), the person stops being a non-resident visitor on the date the cessation occurs.
 
 *Defined in this Act: business, civil union partner, de facto partner, family scheme, income, natural person, New Zealand, New Zealand resident, non-resident, non-resident visitor, resident in New Zealand, spouse, tax, transitional resident*
 

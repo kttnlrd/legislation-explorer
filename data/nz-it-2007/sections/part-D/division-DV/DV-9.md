@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(1)**  A person who derives beneficiary income is denied a deduction for expenditure or loss that a trustee incurs in deriving the income.
+**(1)** A person who derives beneficiary income is denied a deduction for expenditure or loss that a trustee incurs in deriving the income.
 
 **Trustee income**
 
-**(2)**  For the purpose of determining the deductions that a trustee is allowed in an income year, beneficiary income of beneficiaries of the trust in the income year is treated as trustee income.
+**(2)** For the purpose of determining the deductions that a trustee is allowed in an income year, beneficiary income of beneficiaries of the trust in the income year is treated as trustee income.
 
 **Link with subpart DA**
 
-**(3)**  The link between this section and subpart DA (General rules) is as follows:
+**(3)** The link between this section and subpart DA (General rules) is as follows:
 
 - (a) subsection (1) overrides the general permission:
 

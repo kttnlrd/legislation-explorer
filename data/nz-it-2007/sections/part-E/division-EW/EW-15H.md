@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Required methods**
 
-**(1)**  Section EW 15C(1) does not apply when any of the following determinations apply to a person and a financial arrangement:
+**(1)** Section EW 15C(1) does not apply when any of the following determinations apply to a person and a financial arrangement:
 
 - (a) Determination G5C: Mandatory conversion convertible notes:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Succeeding determinations**
 
-**(2)**  For the purposes of this section, the determinations set out in subsection (1)﻿(a) and (c) include a determination that succeeds the determination.
+**(2)** For the purposes of this section, the determinations set out in subsection (1)﻿(a) and (c) include a determination that succeeds the determination.
 
 *Defined in this Act: amount, financial arrangement, financial arrangements rules, income year*
 

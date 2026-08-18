@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to livestock that is donated, or supplied for consideration with a value that is less than the market value of the livestock, to a recipient—
+**(1)** This section applies to livestock that is donated, or supplied for consideration with a value that is less than the market value of the livestock, to a recipient—
 
 - (a) for use in a farming or agricultural business that is affected by a self-assessed adverse event; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Treatment by donor or supplier**
 
-**(2)**  The donor or supplier must treat the livestock as having, on the day of the transfer of the livestock,—
+**(2)** The donor or supplier must treat the livestock as having, on the day of the transfer of the livestock,—
 
 - (a) no value, if the livestock is donated to the recipient:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Treatment by recipient**
 
-**(3)**  The recipient must treat the livestock as having, on the day of the transfer of the livestock,—
+**(3)** The recipient must treat the livestock as having, on the day of the transfer of the livestock,—
 
 - (a) no value, if the livestock is donated to the recipient:
 

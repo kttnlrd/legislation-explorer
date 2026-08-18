@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **General outline**
 
-**(1)**  This section outlines the provisions of this subpart that may be brought into effect to provide tax relief to a person in response to an emergency event.
+**(1)** This section outlines the provisions of this subpart that may be brought into effect to provide tax relief to a person in response to an emergency event.
 
 **Specific provisions**
 
-**(2)**  The provisions in this subpart provide—
+**(2)** The provisions in this subpart provide—
 
 - (a) rollover relief for certain affected property that is—
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Definitions**
 
-**(3)**  Section FP 3 contains the definitions relevant for this subpart.
+**(3)** Section FP 3 contains the definitions relevant for this subpart.
 
 *Defined in this Act: affected property, depreciable property, emergency event, exempt income, fringe benefit, land*
 

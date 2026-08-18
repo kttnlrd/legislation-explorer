@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When subsection (2) applies**
 
-**(1)**  Subsection (2) applies if—
+**(1)** Subsection (2) applies if—
 
 - (a) a person disposes of an attributing interest in a foreign investment fund (FIF); and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Disposal treated as at market value**
 
-**(2)**  The person is treated as having disposed of the interest for an amount equal to its market value at the time.
+**(2)** The person is treated as having disposed of the interest for an amount equal to its market value at the time.
 
 **When subsection (4) applies**
 
-**(3)**  Subsection (4) applies if—
+**(3)** Subsection (4) applies if—
 
 - (a) a person acquires an attributing interest in a FIF; and
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Acquisition treated as at market value**
 
-**(4)**  The person is treated as having acquired the interest for an amount equal to its market value at the time.
+**(4)** The person is treated as having acquired the interest for an amount equal to its market value at the time.
 
 *Defined in this Act: attributing interest, comparative value method, cost method, deemed rate of return method, fair dividend rate method, FIF, FIF income, FIF loss, market value, revenue account method*
 

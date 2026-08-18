@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When subsection (3) applies**
 
-**(1)**  Subsection (3) applies if a company (the initial parent) enters into an arrangement described in subsection (2).
+**(1)** Subsection (3) applies if a company (the initial parent) enters into an arrangement described in subsection (2).
 
 **Description of arrangement**
 
-**(2)**  The description of the arrangement for the purposes of subsection (1) is as follows:
+**(2)** The description of the arrangement for the purposes of subsection (1) is as follows:
 
 - (a) the initial parent is a limited attribution company that is treated under section YC 11(3) and (4) as holding ownership interests (the included ownership interests) that are not excluded preference shares in another company before the arrangement is entered into; and
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Loss balance and credit account continuity**
 
-**(3)**  For the purposes of the tests of ownership and control in Part I and subparts LP, OA, OB, OC, and OP (which relate to loss balances, tax credits, and memorandum accounts), starting from when the initial parent is first treated under section YC 11(3) and (4) as holding the included ownership interests in another company, the new parent is treated as—
+**(3)** For the purposes of the tests of ownership and control in Part I and subparts LP, OA, OB, OC, and OP (which relate to loss balances, tax credits, and memorandum accounts), starting from when the initial parent is first treated under section YC 11(3) and (4) as holding the included ownership interests in another company, the new parent is treated as—
 
 - (a) existing and having the shareholders it has immediately after the arrangement's implementation:
 
@@ -46,11 +46,11 @@ compilation_date: 2026-06-06
 
 **Effect of subsection (3)**
 
-**(4)**  Subsection (3) does not prevent a change in shareholders, the holdings of included ownership interests, or other circumstances, after the implementation of the arrangement from having an effect on the application of the continuity provisions and the provisions described in subsection (3) after the implementation of the arrangement.
+**(4)** Subsection (3) does not prevent a change in shareholders, the holdings of included ownership interests, or other circumstances, after the implementation of the arrangement from having an effect on the application of the continuity provisions and the provisions described in subsection (3) after the implementation of the arrangement.
 
 **Definitions**
 
-**(5)**  In this section,—
+**(5)** In this section,—
 
 - (b) excluded preference share means a share that is disregarded, under section 703–37 of the Income Tax Assessment Act 1997 (Aust), in determining whether a company can be a subsidiary member of a consolidated group for the purposes of that Act.
 

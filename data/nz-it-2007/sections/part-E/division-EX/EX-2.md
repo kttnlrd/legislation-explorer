@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Separate categories**
 
-**(1)**  Under section EX 5(1), a direct control interest in a foreign company can arise in each of 4 separate categories of rights.
+**(1)** Under section EX 5(1), a direct control interest in a foreign company can arise in each of 4 separate categories of rights.
 
 **List of categories**
 
-**(2)**  The 4 categories are—
+**(2)** The 4 categories are—
 
 - (a) shareholding in the foreign company:
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Detailed calculation rules**
 
-**(3)**  In each category, more detailed calculation rules appear in section EX 5.
+**(3)** In each category, more detailed calculation rules appear in section EX 5.
 
 **Four categories of control interests**
 
-**(4)**  Accordingly, the rules in section EX 3 for calculating control interests by totalling various direct and indirect control interests and associated parties' interests are applied on a category by category basis, by reference to those categories of direct control interest.
+**(4)** Accordingly, the rules in section EX 3 for calculating control interests by totalling various direct and indirect control interests and associated parties' interests are applied on a category by category basis, by reference to those categories of direct control interest.
 
 *Defined in this Act: associated person, control interest, direct control interest, foreign company, income, shareholder decision-making right*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a foreign investment PIE has an investment consisting of shares in a company resident in New Zealand; and
 
@@ -22,15 +22,15 @@ compilation_date: 2026-06-06
 
 **Notification by PIE**
 
-**(2)**  The PIE must notify the company of the investors referred to in subsection (1)﻿(b) who have an investor interest in the PIE on the date on which ownership of the shares determines a legal entitlement to the dividend. The PIE must provide the information before the date of payment of the dividend.
+**(2)** The PIE must notify the company of the investors referred to in subsection (1)﻿(b) who have an investor interest in the PIE on the date on which ownership of the shares determines a legal entitlement to the dividend. The PIE must provide the information before the date of payment of the dividend.
 
 **Sufficient information**
 
-**(3)**  The information provided by the PIE about the investor must be sufficient to enable the calculation and payment of a supplementary dividend to the PIE in relation to the investor.
+**(3)** The information provided by the PIE about the investor must be sufficient to enable the calculation and payment of a supplementary dividend to the PIE in relation to the investor.
 
 **Calculation and payment of supplementary dividend**
 
-**(4)**  The company must use the information provided by the PIE in calculating and paying the supplementary dividend.
+**(4)** The company must use the information provided by the PIE in calculating and paying the supplementary dividend.
 
 *Defined in this Act: company, dividend, foreign investment PIE, investor interest, non-resident, notified foreign investor, pay, resident in New Zealand, share, supplementary dividend*
 

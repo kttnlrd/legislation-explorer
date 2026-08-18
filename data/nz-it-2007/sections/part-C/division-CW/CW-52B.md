@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  An amount of income derived by or on behalf of a person or their carer is exempt income of the relevant person if the amount is paid by Health New Zealand, the Ministry of Disabled People, or the Ministry of Health for the purpose of the purchase of disability support services in relation to the person.
+**(1)** An amount of income derived by or on behalf of a person or their carer is exempt income of the relevant person if the amount is paid by Health New Zealand, the Ministry of Disabled People, or the Ministry of Health for the purpose of the purchase of disability support services in relation to the person.
 
 **Meaning**
 
-**(2)**  In this section, disability support services has the meaning given in section 4 of the Pae Ora (Healthy Futures) Act 2022.
+**(2)** In this section, disability support services has the meaning given in section 4 of the Pae Ora (Healthy Futures) Act 2022.
 
 *Defined in this Act: exempt income, income, pay, person*
 

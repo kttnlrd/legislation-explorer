@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Petroleum mining operations means an activity included in those described in subsection (2) and not excluded by subsection (3).
+**(1)** Petroleum mining operations means an activity included in those described in subsection (2) and not excluded by subsection (3).
 
 **Activities: inclusions**
 
-**(2)**  The activities are those carried out in connection with—
+**(2)** The activities are those carried out in connection with—
 
 - (a) prospecting or exploring for petroleum:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Activities: exclusions**
 
-**(3)**  The activities do not include further treatment to which all the following apply:
+**(3)** The activities do not include further treatment to which all the following apply:
 
 - (a) it occurs after the well stream has been separated and stabilised into crude oil, condensate, or natural gas; and
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person has entered into a financial arrangement in the ordinary course of their business and the person is not in the business of dealing in relation to the financial arrangement; and
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Method chosen**
 
-**(2)**  The person must use the fair value method, modified so that the following are not required to be allocated to an income year:
+**(2)** The person must use the fair value method, modified so that the following are not required to be allocated to an income year:
 
 - (a) an amount allocated by the person to equity, equity reserves, or other comprehensive income under IFRSs for the financial arrangement:
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Some financial arrangements with amounts allocated to equity reserves**
 
-**(3)**  A person who is a member of a wholly-owned group and of a group consolidated under IFRSs (the consolidated group) must use the modified fair value method for a financial arrangement if—
+**(3)** A person who is a member of a wholly-owned group and of a group consolidated under IFRSs (the consolidated group) must use the modified fair value method for a financial arrangement if—
 
 - (a) the person or the consolidated group allocates an amount to equity, equity reserves, or other comprehensive income under IFRSs for the financial arrangement; and
 

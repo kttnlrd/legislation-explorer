@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies: generally**
 
-**(1)**  This section applies when a person who carries on a fishing business in New Zealand is allowed a deduction for expenditure incurred in making repairs or alterations required by Part 19 or 21 of the Maritime Rules made under the Maritime Transport Act 1994 to the equipment, hull, or machinery of a fishing boat used wholly for the purposes of the business.
+**(1)** This section applies when a person who carries on a fishing business in New Zealand is allowed a deduction for expenditure incurred in making repairs or alterations required by Part 19 or 21 of the Maritime Rules made under the Maritime Transport Act 1994 to the equipment, hull, or machinery of a fishing boat used wholly for the purposes of the business.
 
 **When subsection (3) applies**
 
-**(2)**  Subsection (3) applies when the person does not cease to carry on the business before the end of the fourth tax year following the tax year in which the expenditure is incurred.
+**(2)** Subsection (3) applies when the person does not cease to carry on the business before the end of the fourth tax year following the tax year in which the expenditure is incurred.
 
 **Business not ceasing within 4 years**
 
-**(3)**  The person may do 1 of the following to the total amount of expenditure allowed as a deduction:
+**(3)** The person may do 1 of the following to the total amount of expenditure allowed as a deduction:
 
 - (a) deduct it in the income year in which the expenditure is incurred; or
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **When subsection (5) applies**
 
-**(4)**  Subsection (5) applies when the person ceases to carry on the business before the end of the fourth tax year following the tax year in which the expenditure is incurred.
+**(4)** Subsection (5) applies when the person ceases to carry on the business before the end of the fourth tax year following the tax year in which the expenditure is incurred.
 
 **Business ceasing within 4 years**
 
-**(5)**  The person may do 1 of the following to the total amount of expenditure allowed as a deduction:
+**(5)** The person may do 1 of the following to the total amount of expenditure allowed as a deduction:
 
 - (a) deduct it, or any part of it that has not already been deducted, in the income year in which the person ceases to carry on the business; or
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(6)**  In this section,— fishing boat— (a) means a boat registered as a fishing vessel under section 103 of the Fisheries Act 1996; and (b) includes a small boat belonging to any boat that is so registered fishing business means a business of catching or taking fish, including crustaceans and shellfish, for the purposes of sale or exchange.
+**(6)** In this section,— fishing boat— (a) means a boat registered as a fishing vessel under section 103 of the Fisheries Act 1996; and (b) includes a small boat belonging to any boat that is so registered fishing business means a business of catching or taking fish, including crustaceans and shellfish, for the purposes of sale or exchange.
 
 *Defined in this Act: amount, business, deduction, fishing boat, fishing business, income year, New Zealand, tax year*
 

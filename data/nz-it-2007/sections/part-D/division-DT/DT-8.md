@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When expenditure for petroleum mining assets incurred**
 
-**(1)**  The consideration that a person pays to acquire a petroleum mining asset, excluding a privilege or permit referred to in subsection (2), from a petroleum miner is incurred in the income year in which the petroleum miner disposes of the petroleum mining asset to the person.
+**(1)** The consideration that a person pays to acquire a petroleum mining asset, excluding a privilege or permit referred to in subsection (2), from a petroleum miner is incurred in the income year in which the petroleum miner disposes of the petroleum mining asset to the person.
 
 **Privileges and permits**
 
-**(2)**  For the purposes of subsection (1) for a person, a privilege or permit is excluded if—
+**(2)** For the purposes of subsection (1) for a person, a privilege or permit is excluded if—
 
 - (a) the consideration that the person pays to acquire the privilege or permit is petroleum exploration expenditure; and
 

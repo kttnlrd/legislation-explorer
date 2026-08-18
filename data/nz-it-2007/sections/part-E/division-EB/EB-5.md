@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in an income year to trading stock held by a company that is part of a wholly-owned group of companies, when—
+**(1)** This section applies in an income year to trading stock held by a company that is part of a wholly-owned group of companies, when—
 
 - (a) a group company (company A) originally acquires and holds the trading stock; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Choice of treatment**
 
-**(2)**  Company B may choose to value the closing stock at the cost of the trading stock to company A.
+**(2)** Company B may choose to value the closing stock at the cost of the trading stock to company A.
 
 **When company stops being part of group**
 
-**(3)**  If the companies stop being part of the same wholly-owned group, company B is treated as disposing of and reacquiring the trading stock for its market value at the time. If the market value of the trading stock cannot be determined separately from other property, its market value at the time company B acquired it is treated as its value.
+**(3)** If the companies stop being part of the same wholly-owned group, company B is treated as disposing of and reacquiring the trading stock for its market value at the time. If the market value of the trading stock cannot be determined separately from other property, its market value at the time company B acquired it is treated as its value.
 
 *Defined in this Act: business, closing stock, Commissioner, company, cost, income year, market value, net income, resident in New Zealand, trading stock, wholly-owned group of companies*
 

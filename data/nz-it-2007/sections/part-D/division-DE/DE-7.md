@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Test period**
 
-**(1)**  When a logbook is used to establish the proportion of business use of a motor vehicle, a person must select a start date, and keep the logbook for at least 90 consecutive days at a time that represents, or is likely to represent, the average proportion of travel by the vehicle for business use during the logbook term.
+**(1)** When a logbook is used to establish the proportion of business use of a motor vehicle, a person must select a start date, and keep the logbook for at least 90 consecutive days at a time that represents, or is likely to represent, the average proportion of travel by the vehicle for business use during the logbook term.
 
 **Record of reasons for, and distance of, journeys**
 
-**(2)**  The logbook must record—
+**(2)** The logbook must record—
 
 - (a) the start and end of the 90 day test period; and
 

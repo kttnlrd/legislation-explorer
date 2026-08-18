@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  For the purposes of section MG 1(3)﻿(b) the person's Best Start credit abatement for the entitlement period is calculated using the formula— full-year abatement × days ÷ 365.
+**(1)** For the purposes of section MG 1(3)﻿(b) the person's Best Start credit abatement for the entitlement period is calculated using the formula— full-year abatement × days ÷ 365.
 
 **Definition of items in formula**
 
-**(2)**  In the formula,—
+**(2)** In the formula,—
 
 - (a) full-year abatement is,—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Order in Council increasing amount**
 
-**(3)**  The amounts in subsection (2)﻿(a) may be changed as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
+**(3)** The amounts in subsection (2)﻿(a) may be changed as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
 *Defined in this Act: amount, Best Start credit abatement, Best Start tax credit, civil union partner, de facto partner, dependent child, entitlement period, family scheme income, protected Best Start tax credit, relationship period, spouse*
 

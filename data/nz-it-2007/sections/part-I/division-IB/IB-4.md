@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Period**
 
-**(1)**  The period referred to in section IB 3(2)﻿(b), for an ownership continuity breach and a tax loss component of a company, is the period beginning immediately before the ownership continuity breach occurs and ending on,—
+**(1)** The period referred to in section IB 3(2)﻿(b), for an ownership continuity breach and a tax loss component of a company, is the period beginning immediately before the ownership continuity breach occurs and ending on,—
 
 - (a) for a company for which the amount calculated using the formula in subsection (2) is 0.50 or greater, the last day of the income year that corresponds to the tax year in which the company uses the tax loss component; or
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(2)**  The formula is— (bad debt deductions – bad debt repayment income) ÷ (total deductions – bad debt repayment income).
+**(2)** The formula is— (bad debt deductions – bad debt repayment income) ÷ (total deductions – bad debt repayment income).
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) bad debt deductions is the total amount of deductions that the company has been allowed under section DB 31(3) (Bad debts) for income years between the 2013–14 income year and the income year corresponding to the tax year immediately preceding the ownership continuity breach, both income years inclusive, in which a tax loss component included in the company's tax loss for that tax year arose:
 

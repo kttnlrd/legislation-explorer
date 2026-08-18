@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person derives income as a retirement scheme contribution in an income year; and
 
@@ -22,15 +22,15 @@ compilation_date: 2026-06-06
 
 **Tax credit: New Zealand resident**
 
-**(2)**  If the person is resident in New Zealand, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
+**(2)** If the person is resident in New Zealand, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
 
 **Tax credit: non-resident**
 
-**(3)**  If the person is not resident in New Zealand, they have a tax credit for the tax year corresponding to the income year of an amount equal to the excess of RSCT withheld over NRWT paid in relation to the contribution.
+**(3)** If the person is not resident in New Zealand, they have a tax credit for the tax year corresponding to the income year of an amount equal to the excess of RSCT withheld over NRWT paid in relation to the contribution.
 
 **When contribution is taxable Maori authority distribution**
 
-**(4)**  If the person is not resident in New Zealand and the retirement scheme contribution is a taxable Maori authority distribution, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
+**(4)** If the person is not resident in New Zealand and the retirement scheme contribution is a taxable Maori authority distribution, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
 
 *Defined in this Act: amount, excluded income, income, income year, non-resident, NRWT, pay, resident in New Zealand, retirement scheme contribution, retirement scheme contributor, RSCT, tax credit, tax year*
 

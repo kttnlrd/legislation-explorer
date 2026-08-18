@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Natural persons and trustees: inbound, not described in section FE 2(1)﻿(g)**
 
-**(1)**  This subpart applies to a natural person or trustee not described in section FE 2(1)﻿(g) with the following modifications:
+**(1)** This subpart applies to a natural person or trustee not described in section FE 2(1)﻿(g) with the following modifications:
 
 - (a) the New Zealand group of a natural person is made up of the person and all associated persons who—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Natural persons and trustees: outbound, described in section FE 2(1)﻿(g)**
 
-**(2)**  This subpart applies to a natural person or trustee described in section FE 2(1)﻿(g) with the following modifications:
+**(2)** This subpart applies to a natural person or trustee described in section FE 2(1)﻿(g) with the following modifications:
 
 - (a) the New Zealand group of the natural person or trustee is made up of the natural person or trustee and all associated persons who are not excess debt outbound companies and are not included in a New Zealand group of an excess debt outbound company, and who—
 

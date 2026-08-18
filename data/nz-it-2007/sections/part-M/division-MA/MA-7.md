@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Weekly employment: full-time earner**
 
-**(1)**  In subparts MB to MG and MZ, a full-time earner means a person who, for a week,—
+**(1)** In subparts MB to MG and MZ, a full-time earner means a person who, for a week,—
 
 - (a) is employed for 20 hours or more and does not have a spouse, civil union partner, or de facto partner during the week; or
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Modifications to weekly employment**
 
-**(2)**  For the purposes of subsections (1) and (1B),—
+**(2)** For the purposes of subsections (1) and (1B),—
 
 - (a) a person who is employed in a pay period that is longer than 1 week is treated as undertaking the employment activities to a uniform daily extent for the period:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Incapacity**
 
-**(3)**  The incapacity referred to in subsection (2)﻿(b) and (d) is an incapacity due to—
+**(3)** The incapacity referred to in subsection (2)﻿(b) and (d) is an incapacity due to—
 
 - (a) personal injury by accident for which an accident compensation earnings-related payment has been, is being, or will be paid:
 

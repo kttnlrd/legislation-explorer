@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General rule**
 
-**(1)**  A person has FIF income in an income year if—
+**(1)** A person has FIF income in an income year if—
 
 - (a) at any time in the year, the person has—
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Look-through calculation methods**
 
-**(2)**  Despite subsection (1), if the calculation method is the attributable FIF income method,—
+**(2)** Despite subsection (1), if the calculation method is the attributable FIF income method,—
 
 - (a) FIF income arises in the income year only if the relevant accounting period of the FIF ends during the year; and
 
@@ -88,15 +88,15 @@ compilation_date: 2026-06-06
 
 **FIF income from CFC with FIF interest**
 
-**(3)**  FIF income also includes an additional amount that a person with an income interest of 10% or more in a CFC has in an income year under section EX 58 (Additional FIF income or loss if CFC owns FIF), regardless of whether the CFC is a non-attributing active CFC under section EX 21B (Non-attributing active CFCs) or a non-attributing Australian CFC under section EX 22 (Non-attributing Australian CFCs).
+**(3)** FIF income also includes an additional amount that a person with an income interest of 10% or more in a CFC has in an income year under section EX 58 (Additional FIF income or loss if CFC owns FIF), regardless of whether the CFC is a non-attributing active CFC under section EX 21B (Non-attributing active CFCs) or a non-attributing Australian CFC under section EX 22 (Non-attributing Australian CFCs).
 
 **Treated as derived while person New Zealand resident**
 
-**(4)**  FIF income of a person who has stopped being a New Zealand resident is treated as being derived while the person was a New Zealand resident.
+**(4)** FIF income of a person who has stopped being a New Zealand resident is treated as being derived while the person was a New Zealand resident.
 
 **Requirements for trustees**
 
-**(5)**  Subsection (1)﻿(e) applies to the trustee of a trust for an income year if—
+**(5)** Subsection (1)﻿(e) applies to the trustee of a trust for an income year if—
 
 - (a) the trust is of the estate of a deceased person and the income year begins on or before the day that is 5 years after the person's death:
 

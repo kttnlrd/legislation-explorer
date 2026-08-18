@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Order of application for sections disallowing deductions**
 
-**(1)**  If more than 1 provision in this subpart may deny an amount of expenditure or loss as a deduction or identify the amount as a mismatch amount in a situation, the provisions are applied in the order given by the sections, which is—
+**(1)** If more than 1 provision in this subpart may deny an amount of expenditure or loss as a deduction or identify the amount as a mismatch amount in a situation, the provisions are applied in the order given by the sections, which is—
 
 - (a) section FH 3:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Order of application for sections treating receipts as assessable income**
 
-**(2)**  If more than 1 provision in this subpart may identify an amount received as a mismatch amount in a situation, the provisions are applied in the order given by the sections, which is—
+**(2)** If more than 1 provision in this subpart may identify an amount received as a mismatch amount in a situation, the provisions are applied in the order given by the sections, which is—
 
 - (a) section FH 4:
 

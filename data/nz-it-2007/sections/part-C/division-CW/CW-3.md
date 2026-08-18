@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a forestry company or a Maori investment company issues a qualifying debenture.
+**(1)** This section applies when a forestry company or a Maori investment company issues a qualifying debenture.
 
 **Exempt income**
 
-**(2)**  Interest derived from the qualifying debenture is exempt income to the extent to which it is paid by the issue of a further qualifying debenture.
+**(2)** Interest derived from the qualifying debenture is exempt income to the extent to which it is paid by the issue of a further qualifying debenture.
 
 *Defined in this Act: exempt income, forestry company, interest, Maori investment company, pay, qualifying debenture*
 

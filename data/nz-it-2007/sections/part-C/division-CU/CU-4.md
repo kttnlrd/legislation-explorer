@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a mineral miner incurs an amount of mining exploration expenditure in relation to their mining operations or associated mining operations; and
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The mineral miner is treated as deriving income to the extent of the amount of expenditure that resulted in, produced, or generated the asset. However, the amount must not be more than the amount of the deduction referred to in subsection (1)﻿(b).
+**(2)** The mineral miner is treated as deriving income to the extent of the amount of expenditure that resulted in, produced, or generated the asset. However, the amount must not be more than the amount of the deduction referred to in subsection (1)﻿(b).
 
 **Timing**
 
-**(3)**  The income is allocated to the income year in which the mineral miner uses the asset for, or in relation to, the commercial production of the mineral.
+**(3)** The income is allocated to the income year in which the mineral miner uses the asset for, or in relation to, the commercial production of the mineral.
 
 *Defined in this Act: amount, associated mining operations, commercial production, deduction, income, income year, interest, land, listed industrial mineral, mineral, mineral miner, mining exploration expenditure, mining operations*
 

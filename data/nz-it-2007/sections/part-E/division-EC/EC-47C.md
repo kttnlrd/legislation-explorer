@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Prospective breeders treated as being in breeding business**
 
-**(1)**  A prospective bloodstock breeder is treated as having, and carrying on, a bloodstock breeding business on and from the day on which the prospective bloodstock breeder acquires stud-founding bloodstock until the earliest of the following days:
+**(1)** A prospective bloodstock breeder is treated as having, and carrying on, a bloodstock breeding business on and from the day on which the prospective bloodstock breeder acquires stud-founding bloodstock until the earliest of the following days:
 
 - (a) the day on which the prospective bloodstock breeder commences a bloodstock breeding business using the stud-founding bloodstock:
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Other bloodstock not part of breeding business**
 
-**(2)**  Despite subsection (1), if the prospective bloodstock breeder owns bloodstock that are not stud-founding bloodstock during the period of time described in that subsection, those bloodstock are not treated as part of the prospective bloodstock breeder's bloodstock breeding business.
+**(2)** Despite subsection (1), if the prospective bloodstock breeder owns bloodstock that are not stud-founding bloodstock during the period of time described in that subsection, those bloodstock are not treated as part of the prospective bloodstock breeder's bloodstock breeding business.
 
 *Defined in this Act: bloodstock, business, Commissioner, prospective bloodstock breeder, stud-founding bloodstock*
 

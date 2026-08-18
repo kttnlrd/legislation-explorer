@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Financial arrangements rules**
 
-**(1)**  This subpart contains most of the financial arrangements rules.
+**(1)** This subpart contains most of the financial arrangements rules.
 
 **Meaning of financial arrangements rules**
 
-**(2)**  Financial arrangements rules means—
+**(2)** Financial arrangements rules means—
 
 - (a) the sections in this subpart; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Purposes of financial arrangements rules**
 
-**(3)**  The purposes of the financial arrangements rules are—
+**(3)** The purposes of the financial arrangements rules are—
 
 - (a) to require the parties to a financial arrangement to accrue over the term of the arrangement a fair and reasonable amount of income derived or expenditure incurred under the arrangement, and so to prevent the deferral of income or the advancement of expenditure; and
 

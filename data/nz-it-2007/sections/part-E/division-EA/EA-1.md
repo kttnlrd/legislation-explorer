@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Property subject to matching rules**
 
-**(1)**  The matching rules described in this section apply to each of the following kinds of property:
+**(1)** The matching rules described in this section apply to each of the following kinds of property:
 
 - (a) trading stock valued under subpart EB (Valuation of trading stock (including dealer's livestock)):
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Application of section CH 1**
 
-**(2)**  When a person has any of those kinds of property at the end of an income year, its value is income of the person in the income year under section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements).
+**(2)** When a person has any of those kinds of property at the end of an income year, its value is income of the person in the income year under section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements).
 
 **Application of section DB 49**
 
-**(3)**  When a person has any of those kinds of property at the start of an income year, they are allowed a deduction for its value in the income year under section DB 49 (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements).
+**(3)** When a person has any of those kinds of property at the start of an income year, they are allowed a deduction for its value in the income year under section DB 49 (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements).
 
 **Determination of values**
 
-**(4)**  The values are determined under—
+**(4)** The values are determined under—
 
 - (a) section EB 3 (Valuation of trading stock); and
 

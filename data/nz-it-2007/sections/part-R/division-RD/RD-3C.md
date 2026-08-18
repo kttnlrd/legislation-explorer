@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an income year for a person who is a shareholder and an employee of a company that is not a look-through company and is a close company or has 25 or fewer shareholders if the person elects to apply this section and—
+**(1)** This section applies for an income year for a person who is a shareholder and an employee of a company that is not a look-through company and is a close company or has 25 or fewer shareholders if the person elects to apply this section and—
 
 - (a) the person derives as an employee payments of salary or wages of a regular amount for regular pay periods; but
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **PAYE**
 
-**(3)**  All amounts described in subsection (1)﻿(a) paid to the person in the income year and in later income years in their capacity as employee of the company are PAYE income payments.
+**(3)** All amounts described in subsection (1)﻿(a) paid to the person in the income year and in later income years in their capacity as employee of the company are PAYE income payments.
 
 **Income other than PAYE**
 
-**(4)**  All amounts described in subsection (1)﻿(b) paid to the person in the income year and in later income years in their capacity as employee of the company are treated as income other than from a PAYE income payment.
+**(4)** All amounts described in subsection (1)﻿(b) paid to the person in the income year and in later income years in their capacity as employee of the company are treated as income other than from a PAYE income payment.
 
 *Defined in this Act: amount, close company, employee, income, income year, pay, pay period, PAYE income payment, salary or wages, shareholder*
 

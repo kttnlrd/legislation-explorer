@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when, under sections GB 27 to GB 29 (which relate to the attribution rule), a person is required to attribute an amount to another person.
+**(1)** This section applies when, under sections GB 27 to GB 29 (which relate to the attribution rule), a person is required to attribute an amount to another person.
 
 **Income**
 
-**(2)**  The amount attributed is income of the person to whom it is attributed.
+**(2)** The amount attributed is income of the person to whom it is attributed.
 
 **Timing of income**
 
-**(3)**  The amount is allocated to the income year in which it is attributed.
+**(3)** The amount is allocated to the income year in which it is attributed.
 
 *Defined in this Act: amount, income, income year*
 

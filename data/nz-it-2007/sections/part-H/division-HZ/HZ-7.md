@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When, and extent to which, this section applies**
 
-**(1)**  This section applies when, and to the extent to which,—
+**(1)** This section applies when, and to the extent to which,—
 
 - (a) before the commencement of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009—
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Ruling about new law**
 
-**(2)**  The binding ruling continues to exist despite the intended change referred to in subsection (1)﻿(c)﻿(ii) from the commencement of this Act to the date on which the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 receives the Royal assent.
+**(2)** The binding ruling continues to exist despite the intended change referred to in subsection (1)﻿(c)﻿(ii) from the commencement of this Act to the date on which the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 receives the Royal assent.
 
 **No confirmation rulings**
 
-**(3)**  To the extent to which a binding ruling continued by subsection (2) exists and applies to an arrangement, or to a person and an arrangement, the Commissioner must not make a binding ruling in the period that starts on the date of the commencement of this Act and ends on the date on which the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 receives the Royal assent on how—
+**(3)** To the extent to which a binding ruling continued by subsection (2) exists and applies to an arrangement, or to a person and an arrangement, the Commissioner must not make a binding ruling in the period that starts on the date of the commencement of this Act and ends on the date on which the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 receives the Royal assent on how—
 
 - (a) the new law applies to the arrangement or to the person and the arrangement; or
 

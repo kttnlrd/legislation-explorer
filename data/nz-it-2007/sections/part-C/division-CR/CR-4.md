@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies for—
+**(1)** This section applies for—
 
 - (a) an insurer who—
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Formula for insurer's OCR income**
 
-**(2)**  For an income year (the current year), an insurer has income of the amount by which zero is less than the amount calculated using the formula— opening outstanding claims reserve − closing outstanding claims reserve.
+**(2)** For an income year (the current year), an insurer has income of the amount by which zero is less than the amount calculated using the formula— opening outstanding claims reserve − closing outstanding claims reserve.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) opening outstanding claims reserve is the total for the general insurance contracts of—
 

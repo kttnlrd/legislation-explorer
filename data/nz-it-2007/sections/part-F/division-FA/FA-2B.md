@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When subsection (2) applies**
 
-**(1)**  Subsection (2) applies when—
+**(1)** Subsection (2) applies when—
 
 - (a) a company has issued a debt security; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Stapled debt treated as equity**
 
-**(2)**  The stapled debt security is treated as a share issued by the company and—
+**(2)** The stapled debt security is treated as a share issued by the company and—
 
 - (a) interest payable under the stapled debt security is treated as a dividend; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Stapled securities aggregated**
 
-**(3)**  A stapled debt security and a share to which it is stapled are treated as a single share for the purposes of applying—
+**(3)** A stapled debt security and a share to which it is stapled are treated as a single share for the purposes of applying—
 
 - (a) the definition of non-participating redeemable share in section CD 22(9) (Returns of capital: off-market share cancellations); and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Meaning of debt security**
 
-**(4)**  In this section, debt security means a financial arrangement if—
+**(4)** In this section, debt security means a financial arrangement if—
 
 - (a) the financial arrangement provides funds to the company; and
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Meaning of stapled**
 
-**(5)**  In this section, a debt security is stapled to a share if—
+**(5)** In this section, a debt security is stapled to a share if—
 
 - (a) the debt security can, or ordinarily can, be disposed of only together with the share; and
 
@@ -60,11 +60,11 @@ compilation_date: 2026-06-06
 
 **Exclusion: small company shareholder agreements**
 
-**(6)**  This section does not apply if the debt security is stapled to the share using a shareholder agreement for a company that is not a widely-held company.
+**(6)** This section does not apply if the debt security is stapled to the share using a shareholder agreement for a company that is not a widely-held company.
 
 **Exclusion: stapling before 25 February 2008**
 
-**(7)**  This section does not apply if the debt security was stapled to the share before 25 February 2008.
+**(7)** This section does not apply if the debt security was stapled to the share before 25 February 2008.
 
 *Defined in this Act: amount, associated person, company, debt security, deduction, dividend, financial arrangement, fixed-rate share, interest, non-contingent fee, share, shareholder agreement, stapled, widely-held company*
 

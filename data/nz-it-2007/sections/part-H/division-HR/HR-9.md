@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies for the purposes of establishing the liabilities and obligations under an Inland Revenue Act when an originator of a debt funding special purpose vehicle has made an election under section HR 9BA or HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent) in relation to—
+**(1)** This section applies for the purposes of establishing the liabilities and obligations under an Inland Revenue Act when an originator of a debt funding special purpose vehicle has made an election under section HR 9BA or HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent) in relation to—
 
 - (a) an asset transferred to the special purpose vehicle by the originator (the transferred asset); or
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **What this section does not apply to**
 
-**(2)**  Despite subsection (1), this section does not apply to liabilities and obligations arising under sections EW 24 to EW 25B (which relate to the consistency of use of spreading methods for financial arrangements).
+**(2)** Despite subsection (1), this section does not apply to liabilities and obligations arising under sections EW 24 to EW 25B (which relate to the consistency of use of spreading methods for financial arrangements).
 
 **Treatment of originators**
 
-**(3)**  For the purposes of this section, the originator is treated as—
+**(3)** For the purposes of this section, the originator is treated as—
 
 - (a) carrying on an activity carried on by the special purpose vehicle to the extent to which the activity relates to a transferred asset or an attributed asset, as applicable; and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Treatment of special purpose vehicles**
 
-**(4)**  For the purposes of this section, the special purpose vehicle is treated as not carrying on the activity, not having the status, intention, or purpose, not holding the property, not being party to the arrangement, and not doing the thing or being entitled to the thing.
+**(4)** For the purposes of this section, the special purpose vehicle is treated as not carrying on the activity, not having the status, intention, or purpose, not holding the property, not being party to the arrangement, and not doing the thing or being entitled to the thing.
 
 *Defined in this Act: arrangement, debt funding special purpose vehicle, income tax liability, income year, Inland Revenue Acts, originator*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person (the payee) is the owner of—
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount is income of the payee.
+**(2)** The amount is income of the payee.
 
 **Exception for tenant or licensee of residential premises**
 
-**(3)**  The amount is not income if the payee is a natural person and derives the amount as a tenant or licensee of residential premises whose expenditure on the residential premises does not meet the requirements of the general permission.
+**(3)** The amount is not income if the payee is a natural person and derives the amount as a tenant or licensee of residential premises whose expenditure on the residential premises does not meet the requirements of the general permission.
 
 *Defined in this Act: amount, general permission, income, land, leasehold estate, own*
 

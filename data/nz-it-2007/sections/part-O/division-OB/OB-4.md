@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  An ICA company has an imputation credit for an amount of income tax or provisional tax paid or an amount of excess tax transferred under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b) (Wholly-owned groups of companies). Subsection (3) overrides this subsection.
+**(1)** An ICA company has an imputation credit for an amount of income tax or provisional tax paid or an amount of excess tax transferred under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b) (Wholly-owned groups of companies). Subsection (3) overrides this subsection.
 
 **Table reference**
 
-**(2)**  The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 2 (provisional tax or income tax paid), row 2B (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)), row 2C (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)), and row 2D (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)).
+**(2)** The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 2 (provisional tax or income tax paid), row 2B (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)), row 2C (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)), and row 2D (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)).
 
 **No credit**
 
-**(3)**  An ICA company does not have an imputation credit for an amount of—
+**(3)** An ICA company does not have an imputation credit for an amount of—
 
 - (a) a transfer from a tax pooling account to a tax account with the Commissioner; or
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Credit date**
 
-**(4)**  The credit date is—
+**(4)** The credit date is—
 
 - (a) for an amount of income tax or provisional tax paid other than an amount referred to in paragraph (c), the day the tax is paid:
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Limitation on credits**
 
-**(5)**  No amount may give rise to more than 1 imputation credit.
+**(5)** No amount may give rise to more than 1 imputation credit.
 
 *Defined in this Act: amount, category A income, Commissioner, company, further income tax, ICA company, imputation credit, imputation credit account, income, income tax, life insurer, notice, pay, provisional tax, research and development tax credit, schedular income tax liability, schedular policyholder base income, tax account with the Commissioner, tax credit, tax pooling account, tax year, trustee*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  The NRWT rules means—
+**(1)** The NRWT rules means—
 
 - (a) this subpart; and
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(2)**  The NRWT rules apply to a person who makes a payment that consists of non-resident passive income.
+**(2)** The NRWT rules apply to a person who makes a payment that consists of non-resident passive income.
 
 **What this section does not apply to**
 
-**(3)**  This section does not apply to an amount referred to in section CC 1(2)﻿(a) to (d) (Land) to which section CC 9 (Royalties) applies.
+**(3)** This section does not apply to an amount referred to in section CC 1(2)﻿(a) to (d) (Land) to which section CC 9 (Royalties) applies.
 
 **Exception: certain income from land**
 
-**(4)**  Despite subsection (3), this section does apply to non-resident passive income that is an amount paid for—
+**(4)** Despite subsection (3), this section does apply to non-resident passive income that is an amount paid for—
 
 - (a) the exploitation of, or right to exploit, plant material or a naturally occurring material or mineral arising in or on the land:
 

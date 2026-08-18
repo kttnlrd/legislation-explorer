@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person's right to take timber (the old right) is extinguished, and new rights (the new rights) to take timber are granted to the person in place of the old right, if—
+**(1)** This section applies when a person's right to take timber (the old right) is extinguished, and new rights (the new rights) to take timber are granted to the person in place of the old right, if—
 
 - (a) the sole reason for the new rights replacing the old right is to facilitate a Treaty of Waitangi claim settlement process; and
 
@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(2)**  An amount under section CB 24(1)﻿(b) (Disposal of timber or right to take timber) for the extinguishing of the old right, or for the granting of the new rights, is exempt income of the relevant person. The amount is not income under that section.
+**(2)** An amount under section CB 24(1)﻿(b) (Disposal of timber or right to take timber) for the extinguishing of the old right, or for the granting of the new rights, is exempt income of the relevant person. The amount is not income under that section.
 
 **Exception**
 
-**(3)**  Subsection (2) does not apply to an amount to the extent it is compensation paid, for the new rights replacing the old right, to the person who is granted the new rights.
+**(3)** Subsection (2) does not apply to an amount to the extent it is compensation paid, for the new rights replacing the old right, to the person who is granted the new rights.
 
 **Relationship with section DP 9B**
 
-**(4)**  Section DP 9B (Treaty of Waitangi claim settlements: rights to take timber) deals with the cost of the new rights for the person who is granted them.
+**(4)** Section DP 9B (Treaty of Waitangi claim settlements: rights to take timber) deals with the cost of the new rights for the person who is granted them.
 
 *Defined in this Act: amount, exempt income, income, pay, person, right to take timber*
 

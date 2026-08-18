@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What is a resident's restricted amalgamation?**
 
-**(1)**  In the amalgamation rules, an amalgamation is a resident's restricted amalgamation if, at the time of the amalgamation, each of the amalgamating companies and the amalgamated company—
+**(1)** In the amalgamation rules, an amalgamation is a resident's restricted amalgamation if, at the time of the amalgamation, each of the amalgamating companies and the amalgamated company—
 
 - (a) is resident in New Zealand; and
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Qualifying companies**
 
-**(2)**  If the amalgamated company is a qualifying company immediately after the amalgamation, each of the amalgamating companies must be a qualifying company at the time of the amalgamation.
+**(2)** If the amalgamated company is a qualifying company immediately after the amalgamation, each of the amalgamating companies must be a qualifying company at the time of the amalgamation.
 
 **Companies deriving exempt income**
 
-**(4)**  For the purposes of subsection (1)﻿(c), a company that derives only exempt income includes a local authority that is not a council-controlled organisation.
+**(4)** For the purposes of subsection (1)﻿(c), a company that derives only exempt income includes a local authority that is not a council-controlled organisation.
 
 **Companies opting out**
 
-**(5)**  Even if they meet the requirements of subsection (1), the companies may choose that the amalgamation will not be treated as a resident's restricted amalgamation by notifying the Commissioner in the way set out in section 75 of the Tax Administration Act 1994.
+**(5)** Even if they meet the requirements of subsection (1), the companies may choose that the amalgamation will not be treated as a resident's restricted amalgamation by notifying the Commissioner in the way set out in section 75 of the Tax Administration Act 1994.
 
 *Defined in this Act: amalgamated company, amalgamating company, amalgamation, amalgamation rules, Commissioner, company, council-controlled organisation, double tax agreement, exempt income, local authority, New Zealand, notify, qualifying company, resident in New Zealand, resident's restricted amalgamation*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(1)**  For the purposes of section LK 1(1) and (1B), the amount of a tax credit for a tax year for a person is equal to an amount calculated using the formula— section EX 18 income interest × (tax paid − excluded foreign tax).
+**(1)** For the purposes of section LK 1(1) and (1B), the amount of a tax credit for a tax year for a person is equal to an amount calculated using the formula— section EX 18 income interest × (tax paid − excluded foreign tax).
 
 **Definition of items in formula**
 
-**(2)**  In the formula,—
+**(2)** In the formula,—
 
 - (a) section EX 18 income interest is the income interest of the person used to calculate attributed CFC income under section EX 18 (Formula for calculating attributed CFC income or loss) for the accounting period corresponding to the tax year:
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Modifications to formula: section LK 1(1)﻿(d)**
 
-**(3)**  For the purposes of the formula in this section, when section LK 1(1)﻿(d) applies to provide a tax credit for a tax year when foreign income tax is paid by the person in relation to the CFC from which the income is derived, the calculation of the amount of the tax credit is made under subsection (1), ignoring the section EX 18 income interest in subsection (2)﻿(a).
+**(3)** For the purposes of the formula in this section, when section LK 1(1)﻿(d) applies to provide a tax credit for a tax year when foreign income tax is paid by the person in relation to the CFC from which the income is derived, the calculation of the amount of the tax credit is made under subsection (1), ignoring the section EX 18 income interest in subsection (2)﻿(a).
 
 **Modifications to formula: section LK 1(1B)**
 
-**(4)**  For the purposes of the formula in this section, when section LK 1(1B) applies to provide a tax credit for a tax year to a group company, the calculation of the amount of the tax credit is made under subsection (1), ignoring the section EX 18 income interest in subsection (2)﻿(a).
+**(4)** For the purposes of the formula in this section, when section LK 1(1B) applies to provide a tax credit for a tax year to a group company, the calculation of the amount of the tax credit is made under subsection (1), ignoring the section EX 18 income interest in subsection (2)﻿(a).
 
 *Defined in this Act: accounting period, amount, attributed CFC income, CFC, company, foreign income tax, group of companies, income, income interest, income tax, pay, tax credit, tax year*
 

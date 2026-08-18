@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Natural persons, certain trustees, and qualifying companies**
 
-**(1)**  A shareholder in a qualifying company must be 1 of the following:
+**(1)** A shareholder in a qualifying company must be 1 of the following:
 
 - (a) a natural person; or
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Dividends derived by trustees**
 
-**(2)**  For the purposes of subsection (1)﻿(b), all dividends that the trustee of a trust derives from a qualifying company in an income year must be beneficiary income of 1 or more persons who are not trustees or companies other than qualifying companies. However, this subsection does not apply to non-cash dividends other than taxable bonus issues.
+**(2)** For the purposes of subsection (1)﻿(b), all dividends that the trustee of a trust derives from a qualifying company in an income year must be beneficiary income of 1 or more persons who are not trustees or companies other than qualifying companies. However, this subsection does not apply to non-cash dividends other than taxable bonus issues.
 
 **Special shareholding rules**
 
-**(3)**  When the shares in a qualifying company that has 5 or fewer shareholders are held by relatives, other companies, and trustees, the following special rules apply:
+**(3)** When the shares in a qualifying company that has 5 or fewer shareholders are held by relatives, other companies, and trustees, the following special rules apply:
 
 - (a) if a shareholder in a qualifying company is connected within the first degree of relationship to another shareholder in the company by either blood relationship, marriage, civil union or de facto relationship, they are treated as a single shareholder, and this treatment continues while they remain a shareholder in the company despite any later death or dissolution:
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Shareholder continuity requirements**
 
-**(4)**  For the application of shareholder continuity requirements to the memorandum accounts of qualifying companies, see section OA 8(3B) (Shareholder continuity requirements).
+**(4)** For the application of shareholder continuity requirements to the memorandum accounts of qualifying companies, see section OA 8(3B) (Shareholder continuity requirements).
 
 *Defined in this Act: beneficiary income, company, dividend, income year, memorandum account, non-cash dividend, qualifying company, relative, share, shareholder, taxable bonus issue, trustee*
 

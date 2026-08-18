@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if a person is using the revenue account method to calculate FIF income or loss from an attributing interest in a FIF for an income year.
+**(1)** This section applies if a person is using the revenue account method to calculate FIF income or loss from an attributing interest in a FIF for an income year.
 
 **Dividend income**
 
-**(2)**  The amount of any dividends derived by the person from the interest in the income year, including any foreign withholding tax or other amount that the person is allowed as a credit under section LE 1 (Tax credits for imputation credits) or LJ 2 (Tax credits for foreign income tax) in relation to those dividends, is FIF income of the person for the income year.
+**(2)** The amount of any dividends derived by the person from the interest in the income year, including any foreign withholding tax or other amount that the person is allowed as a credit under section LE 1 (Tax credits for imputation credits) or LJ 2 (Tax credits for foreign income tax) in relation to those dividends, is FIF income of the person for the income year.
 
 **FIF income or loss on disposal**
 
-**(3)**  If the person disposes of the interest in the income year, the amount (the net disposal amount) calculated under subsection (4) or (10) is—
+**(3)** If the person disposes of the interest in the income year, the amount (the net disposal amount) calculated under subsection (4) or (10) is—
 
 - (a) FIF income of the person if the amount is a positive number:
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Net disposal amount: standard calculation**
 
-**(4)**  The net disposal amount is the amount calculated using the formula— (disposal proceeds − cost − foreign accruals) × 0.7.
+**(4)** The net disposal amount is the amount calculated using the formula— (disposal proceeds − cost − foreign accruals) × 0.7.
 
 **Items in formula in subsection (4)**
 
-**(5)**  In the formula in subsection (4),—
+**(5)** In the formula in subsection (4),—
 
 - (a) disposal proceeds is the amount received by the person from disposing, or being treated as disposing, of the interest, including any foreign withholding tax or other amount that the person is allowed as a credit under section LJ 2 in relation to that amount received, determined under subsection (6):
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Disposal proceeds**
 
-**(6)**  For the purposes of subsections (5)﻿(a) and (11)﻿(a), the disposal proceeds is,—
+**(6)** For the purposes of subsections (5)﻿(a) and (11)﻿(a), the disposal proceeds is,—
 
 - (a) if the person has disposed of the interest during the income year, the amount received by the person from disposing of the interest, unless section GC 4 (Disposals and acquisitions of FIF attributing interests) applies; or
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Foreign accruals**
 
-**(7)**  For the purpose of subsection (5)﻿(c), the foreign accruals for an interest for a period the person held the interest as a non-resident or a New Zealand resident who is treated as a non-resident under a double tax agreement or is a transitional resident is,—
+**(7)** For the purpose of subsection (5)﻿(c), the foreign accruals for an interest for a period the person held the interest as a non-resident or a New Zealand resident who is treated as a non-resident under a double tax agreement or is a transitional resident is,—
 
 - (a) if the period is the period in which the person acquired the interest before first becoming a New Zealand resident who is not treated as a non-resident under a double tax agreement and is not a transitional resident (a RAM resident), the market value of the interest on the date (the first residence date) the person first becomes a RAM resident less the cost of the interest; or
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **When market value must be obtained**
 
-**(8)**  For the purpose of subsection (7), the market value of the interest must be obtained before the later of—
+**(8)** For the purpose of subsection (7), the market value of the interest must be obtained before the later of—
 
 - (a) the due date of the return for the income year in which the first residence date, the residence date, or the non-residence date, as applicable, falls; and
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **When subsection (10) applies**
 
-**(9)**  Despite subsection (4), the net disposal amount is the amount calculated using the formula in subsection (10) if the interest is not a share that is listed on a recognised exchange and—
+**(9)** Despite subsection (4), the net disposal amount is the amount calculated using the formula in subsection (10) if the interest is not a share that is listed on a recognised exchange and—
 
 - (a) the person is unable to obtain a market value of the interest before the relevant date in subsection (8); or
 
@@ -74,11 +74,11 @@ compilation_date: 2026-06-06
 
 **Net disposal amount: time-based apportionment**
 
-**(10)**  The net disposal amount is the amount calculated using the formula— ((disposal proceeds − cost) ÷ ownership period × FIF period) × 0.7.
+**(10)** The net disposal amount is the amount calculated using the formula— ((disposal proceeds − cost) ÷ ownership period × FIF period) × 0.7.
 
 **Items in formula in subsection (10)**
 
-**(11)**  In the formula in subsection (10),—
+**(11)** In the formula in subsection (10),—
 
 - (a) disposal proceeds is the amount received by the person from disposing, or being treated as disposing, of the interest, including any foreign withholding tax or other amount that the person is allowed as a credit under section LJ 2 in relation to that amount received, determined under subsection (6):
 
@@ -90,15 +90,15 @@ compilation_date: 2026-06-06
 
 **Treatment as disposal on leaving New Zealand**
 
-**(12)**  Subject to subsection (16), if the person ceases to be New Zealand resident, the person is treated as having disposed of the interest immediately before the change in residence for an amount equal to its market value at that time.
+**(12)** Subject to subsection (16), if the person ceases to be New Zealand resident, the person is treated as having disposed of the interest immediately before the change in residence for an amount equal to its market value at that time.
 
 **When subsection (14) applies**
 
-**(13)**  Subsection (14) applies if the person has an amount of FIF income or loss under subsection (3) for an income year (the departure year) that arises because the person is treated as having disposed of the interest under subsection (12).
+**(13)** Subsection (14) applies if the person has an amount of FIF income or loss under subsection (3) for an income year (the departure year) that arises because the person is treated as having disposed of the interest under subsection (12).
 
 **Suspended recognition of FIF income or loss**
 
-**(14)**  The amount of FIF income or loss is an amount of income or loss under section CQ 5 (When FIF income arises) or DN 6 (When FIF loss arises) for the person for the departure year only if the person actually disposes of the interest before the earlier of—
+**(14)** The amount of FIF income or loss is an amount of income or loss under section CQ 5 (When FIF income arises) or DN 6 (When FIF loss arises) for the person for the departure year only if the person actually disposes of the interest before the earlier of—
 
 - (a) the date the person becomes New Zealand resident again; and
 
@@ -106,11 +106,11 @@ compilation_date: 2026-06-06
 
 **Extension of time bar**
 
-**(15)**  If subsection (14) applies and the disposal referred to in that subsection takes place in an income year (the disposal year) that is later than the departure year, despite the time bar, the Commissioner may amend the person's assessment for the departure year to the extent to which it relates to the person's liability for tax on the FIF income or loss arising under subsection (3) at any time in the period that ends 4 years after the end of the disposal year.
+**(15)** If subsection (14) applies and the disposal referred to in that subsection takes place in an income year (the disposal year) that is later than the departure year, despite the time bar, the Commissioner may amend the person's assessment for the departure year to the extent to which it relates to the person's liability for tax on the FIF income or loss arising under subsection (3) at any time in the period that ends 4 years after the end of the disposal year.
 
 **No treatment as disposal if no actual disposal**
 
-**(16)**  The person is not treated as having disposed of the interest under subsection (12) if the person does not actually dispose of the interest before the earlier of—
+**(16)** The person is not treated as having disposed of the interest under subsection (12) if the person does not actually dispose of the interest before the earlier of—
 
 - (a) the date the person becomes New Zealand resident again; and
 
@@ -118,7 +118,7 @@ compilation_date: 2026-06-06
 
 **Treatment of attributing interests subject to returning share transfer**
 
-**(17)**  For a person using the revenue account method to calculate FIF income or loss for an attributing interest in a FIF that is an original share subject to a returning share transfer, the attributing interest is treated as being held by the share supplier, except if—
+**(17)** For a person using the revenue account method to calculate FIF income or loss for an attributing interest in a FIF that is an original share subject to a returning share transfer, the attributing interest is treated as being held by the share supplier, except if—
 
 - (a) the share user is related to the share supplier:
 
@@ -126,7 +126,7 @@ compilation_date: 2026-06-06
 
 **Dividends and disposals for extended RAM taxpayers**
 
-**(18)**  For the purposes of subsections (2) and (3) and a person who is an extended RAM taxpayer, if, in the absence of this subsection, the person would have an amount of FIF income or loss under subsection (2) or (3) from deriving a dividend from, or disposing of, the interest,—
+**(18)** For the purposes of subsections (2) and (3) and a person who is an extended RAM taxpayer, if, in the absence of this subsection, the person would have an amount of FIF income or loss under subsection (2) or (3) from deriving a dividend from, or disposing of, the interest,—
 
 - (a) the person is only treated as having derived a dividend from, or disposed of, the interest if the laws of the country or territory outside New Zealand in which the person is liable to tax in accordance with section EX 46B(10)﻿(a)﻿(iii) treats the person as having derived a dividend from, or disposed of, the interest; and
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person has a spouse, civil union partner, or de facto partner throughout an entitlement period, and during the period—
+**(1)** This section applies when a person has a spouse, civil union partner, or de facto partner throughout an entitlement period, and during the period—
 
 - (a) the person meets the criteria in sections MC 3 to MC 5 in relation to 1 or more dependent children; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Single person**
 
-**(2)**  In the circumstances described in subsection (1),—
+**(2)** In the circumstances described in subsection (1),—
 
 - (a) this section applies as if—
 

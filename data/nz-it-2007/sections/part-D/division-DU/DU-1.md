@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A mineral miner is allowed a deduction for the following expenditure:
+**(1)** A mineral miner is allowed a deduction for the following expenditure:
 
 - (a) mining prospecting expenditure:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(2)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(2)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: capital limitation, deduction, general limitation, general permission, mineral miner, mining exploration expenditure, mining prospecting expenditure*
 

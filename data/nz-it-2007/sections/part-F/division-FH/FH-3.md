@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the payer) is a party to a financial instrument (the payment instrument) under which the person makes a payment and—
+**(1)** This section applies when a person (the payer) is a party to a financial instrument (the payment instrument) under which the person makes a payment and—
 
 - (a) the person incurs in an income year an amount that relates to the payment instrument and does not arise from a fluctuation in the value of a currency; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Amount not recognised**
 
-**(2)**  The tax treatment of a payment under the payment instrument meets the requirements of this subsection if—
+**(2)** The tax treatment of a payment under the payment instrument meets the requirements of this subsection if—
 
 - (a) no country or territory recognises an amount of the payment (the unrecognised amount) as giving rise to ordinary income of the payee under subsection (9); and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Delayed recognition of amount**
 
-**(3)**  The tax treatment of a payment under the payment instrument meets the requirements of this subsection if—
+**(3)** The tax treatment of a payment under the payment instrument meets the requirements of this subsection if—
 
 - (a) an amount of the payment is recognised as giving rise to ordinary income of the payee under subsection (9); and
 
@@ -44,11 +44,11 @@ compilation_date: 2026-06-06
 
 **Amount of deduction denied**
 
-**(4)**  The payer is denied a deduction for expenditure incurred under the financial instrument equal to the greater of zero and the amount calculated using the formula— incurred amount × (1 − payee tax ÷ ordinary tax).
+**(4)** The payer is denied a deduction for expenditure incurred under the financial instrument equal to the greater of zero and the amount calculated using the formula— incurred amount × (1 − payee tax ÷ ordinary tax).
 
 **Definition of items in formula**
 
-**(5)**  In the formula in subsection (4),—
+**(5)** In the formula in subsection (4),—
 
 - (a) incurred amount is the amount of the expenditure incurred by the payer relating to the payment instrument and the payee:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Timing of recognised income**
 
-**(6)**  The timing of the recognition by a tax jurisdiction of an amount meets the requirements of this subsection if the amount is, or is reasonably expected to be, recognised as being derived—
+**(6)** The timing of the recognition by a tax jurisdiction of an amount meets the requirements of this subsection if the amount is, or is reasonably expected to be, recognised as being derived—
 
 - (a) over a period of time during which the amount can reasonably be treated as accruing:
 
@@ -70,15 +70,15 @@ compilation_date: 2026-06-06
 
 **Effect of delayed recognition**
 
-**(7)**  If an amount of the payment for which a deduction has been denied under subsection (4) is recognised as income of the payee derived at a time not meeting the requirements of subsection (6), the payer is allowed a deduction, when the amount is recognised, equal to the denied deduction.
+**(7)** If an amount of the payment for which a deduction has been denied under subsection (4) is recognised as income of the payee derived at a time not meeting the requirements of subsection (6), the payer is allowed a deduction, when the amount is recognised, equal to the denied deduction.
 
 **Payer deriving income from financial instrument: excluded income**
 
-**(8)**  If a payer that derives income (the affected income) in an income year from a financial instrument would, as a consequence of unrecognised amounts under subsection (2) of payments, be denied by subsection (4) a deduction for a fraction (the affected fraction) of expenditure incurred by the payer in the income year under the financial instrument, an amount of the payer's affected income, calculated by multiplying the affected income by the affected fraction, is excluded income of the payer.
+**(8)** If a payer that derives income (the affected income) in an income year from a financial instrument would, as a consequence of unrecognised amounts under subsection (2) of payments, be denied by subsection (4) a deduction for a fraction (the affected fraction) of expenditure incurred by the payer in the income year under the financial instrument, an amount of the payer's affected income, calculated by multiplying the affected income by the affected fraction, is excluded income of the payer.
 
 **Ordinary income**
 
-**(9)**  An amount of income is ordinary income under this subsection for a country or territory and a person or entity if the income is—
+**(9)** An amount of income is ordinary income under this subsection for a country or territory and a person or entity if the income is—
 
 - (a) taxed by the country or territory at the full marginal rate of the person or other entity for the income from financial instruments; and
 

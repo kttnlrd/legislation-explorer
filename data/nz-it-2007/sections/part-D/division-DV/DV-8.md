@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an incorporated or unincorporated organisation—
+**(1)** This section applies when an incorporated or unincorporated organisation—
 
 - (a) does not have the purpose of making a profit for a proprietor, member, or shareholder; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction**
 
-**(2)**  The organisation is allowed a deduction for the lesser of—
+**(2)** The organisation is allowed a deduction for the lesser of—
 
 - (a) $1,000; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission. The general limitations still apply.
+**(3)** This section supplements the general permission. The general limitations still apply.
 
 *Defined in this Act: amount, deduction, general limitation, general permission, net income, shareholder, supplement*
 

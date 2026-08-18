@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person has, under section EG 2(2)﻿(a) or (3)﻿(a) (Adjustment for changes to accounting practice), an amount owing to them or an amount owed by them as quantified in those paragraphs.
+**(1)** This section applies when a person has, under section EG 2(2)﻿(a) or (3)﻿(a) (Adjustment for changes to accounting practice), an amount owing to them or an amount owed by them as quantified in those paragraphs.
 
 **Income**
 
-**(2)**  An amount quantified and allocated under section EG 2(2)﻿(a) or (3)﻿(a) is income of the person.
+**(2)** An amount quantified and allocated under section EG 2(2)﻿(a) or (3)﻿(a) is income of the person.
 
 *Defined in this Act: amount, income*
 

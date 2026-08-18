@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  A group of companies means 2 or more companies, none of which is a multi-rate PIE or a listed PIE, in relation to which a group of persons holds—
+**(1)** A group of companies means 2 or more companies, none of which is a multi-rate PIE or a listed PIE, in relation to which a group of persons holds—
 
 - (a) common voting interests that add up to at least 66%; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Part of group at time or for period**
 
-**(2)**  A company is treated as part of a group of companies at a particular time or for a particular period if the minimum common interests referred to in subsection (1) exist at the relevant time or are kept for the whole of the relevant period. But it is not necessary that the group of persons holding the interests stays the same for the whole of the relevant period.
+**(2)** A company is treated as part of a group of companies at a particular time or for a particular period if the minimum common interests referred to in subsection (1) exist at the relevant time or are kept for the whole of the relevant period. But it is not necessary that the group of persons holding the interests stays the same for the whole of the relevant period.
 
 **Restriction for mixed-ownership enterprises**
 
@@ -52,15 +52,15 @@ compilation_date: 2026-06-06
 
 **Measuring common voting interests**
 
-**(3)**  In subsection (1)﻿(a) and section IC 4(1)﻿(a), a person's common voting interest in the relevant companies at a particular time is the percentage of their voting interests under sections YC 2, YC 4(1) to (3), YC 5, and YC 6 (which relate to voting interests) in each of the companies at the time.
+**(3)** In subsection (1)﻿(a) and section IC 4(1)﻿(a), a person's common voting interest in the relevant companies at a particular time is the percentage of their voting interests under sections YC 2, YC 4(1) to (3), YC 5, and YC 6 (which relate to voting interests) in each of the companies at the time.
 
 **Measuring common market value interests**
 
-**(4)**  In subsection (1)﻿(b), a person's common market value interest in the relevant companies at a particular time is the percentage of their market value interests under sections YC 3, YC 4(1) to (3), YC 5, and YC 6 (which relate to market value interests) in each of the companies at the time.
+**(4)** In subsection (1)﻿(b), a person's common market value interest in the relevant companies at a particular time is the percentage of their market value interests under sections YC 3, YC 4(1) to (3), YC 5, and YC 6 (which relate to market value interests) in each of the companies at the time.
 
 **Common interest percentages**
 
-**(5)**  For the purposes of this section, in measuring a person's common voting interest or common market value interest in 2 or more companies at a particular time,—
+**(5)** For the purposes of this section, in measuring a person's common voting interest or common market value interest in 2 or more companies at a particular time,—
 
 - (a) for percentages that are the same in relation to each company, the person's percentage interest at the time:
 

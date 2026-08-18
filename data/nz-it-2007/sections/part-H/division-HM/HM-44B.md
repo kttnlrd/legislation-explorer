@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a foreign investment PIE—
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Excluding amount from calculation**
 
-**(2)**  In determining the net amount for notified foreign investors under sections HM 35 and HM 36, to the extent to which the amount represents either an unimputed portion of the dividend, or a dividend together with a related supplementary dividend, as applicable, the amount is not included in—
+**(2)** In determining the net amount for notified foreign investors under sections HM 35 and HM 36, to the extent to which the amount represents either an unimputed portion of the dividend, or a dividend together with a related supplementary dividend, as applicable, the amount is not included in—
 
 - (a) the item assessable income in section HM 35(3):
 
@@ -48,15 +48,15 @@ compilation_date: 2026-06-06
 
 **Non-resident passive income**
 
-**(3)**  The NRWT rules apply to the amount paid to the extent to which the amount represents either an unimputed portion of the dividend, or a dividend together with a related supplementary dividend, as applicable.
+**(3)** The NRWT rules apply to the amount paid to the extent to which the amount represents either an unimputed portion of the dividend, or a dividend together with a related supplementary dividend, as applicable.
 
 **Relationship with section CX 56B**
 
-**(4)**  Despite section CX 56B (Distributions to investors in multi-rate PIEs), the amount is not excluded income of the notified foreign investor.
+**(4)** Despite section CX 56B (Distributions to investors in multi-rate PIEs), the amount is not excluded income of the notified foreign investor.
 
 **Relationship with section HM 35(8)**
 
-**(5)**  When a foreign investment PIE derives a dividend and related supplementary dividend as described in subsection (1B), the allocation rule set out in section HM 35(8) does not apply. The dividend and related supplementary dividend are treated as having been allocated on the date on which ownership of the shares determines a legal entitlement to the dividend.
+**(5)** When a foreign investment PIE derives a dividend and related supplementary dividend as described in subsection (1B), the allocation rule set out in section HM 35(8) does not apply. The dividend and related supplementary dividend are treated as having been allocated on the date on which ownership of the shares determines a legal entitlement to the dividend.
 
 *Defined in this Act: amount, company, dividend, excluded income, foreign investment PIE, imputation credit, income tax liability, multi-rate PIE, non-resident passive income, notified foreign investor, NRWT rules, pay, resident in New Zealand, supplementary dividend*
 

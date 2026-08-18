@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a company resident in New Zealand pays a dividend and a related supplementary dividend to—
+**(1)** This section applies when a company resident in New Zealand pays a dividend and a related supplementary dividend to—
 
 - (a) a non-resident, if—
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(2)**  For the tax year corresponding to the income year in which the company pays the dividend, the company has a tax credit equal to an amount calculated using the formula— credit amount × 54 ÷ 119.
+**(2)** For the tax year corresponding to the income year in which the company pays the dividend, the company has a tax credit equal to an amount calculated using the formula— credit amount × 54 ÷ 119.
 
 **Definition of item in formula**
 
-**(3)**  In the formula, credit amount is the imputation credit that would, in the absence of this subpart, be attached to the dividend.
+**(3)** In the formula, credit amount is the imputation credit that would, in the absence of this subpart, be attached to the dividend.
 
 **When dividends derived by foreign investment PIEs**
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section OZ 12**
 
-**(7)**  Section OZ 12 (Tax credits for non-resident investors) may apply to modify subsection (2).
+**(7)** Section OZ 12 (Tax credits for non-resident investors) may apply to modify subsection (2).
 
 *Defined in this Act: amount, associated person, company, consolidated group, corresponding income year, direct voting interest, dividend, imputation credit, non-resident, notify, pay, post-treaty tax rate, resident in New Zealand, supplementary dividend, tax credit, tax year*
 

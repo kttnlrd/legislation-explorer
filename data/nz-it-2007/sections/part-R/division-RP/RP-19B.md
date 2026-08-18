@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  This section applies to a person who—
+**(1)** This section applies to a person who—
 
 - (a) expects to have an income tax or provisional tax liability other than under the AIM method for a tax year; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Using funds**
 
-**(2)**  The person may choose to use the funds towards the payment of the liability for the tax year on meeting all the requirements of this section.
+**(2)** The person may choose to use the funds towards the payment of the liability for the tax year on meeting all the requirements of this section.
 
 **Requirements at time of making request**
 
-**(3)**  At the time of making the request, the person must—
+**(3)** At the time of making the request, the person must—
 
 - (a) for an income tax liability, have met all their return filing requirements for earlier tax years:
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Effective date of transfer**
 
-**(4)**  The effective date that the person nominates for the transfer of funds must correspond to the relevant instalment date set out in schedule 3, part A (Payment of provisional tax and terminal tax).
+**(4)** The effective date that the person nominates for the transfer of funds must correspond to the relevant instalment date set out in schedule 3, part A (Payment of provisional tax and terminal tax).
 
 **Refunds**
 
-**(5)**  If an overpayment arises as a result of a transfer under this section, the amount of the overpayment is treated as follows:
+**(5)** If an overpayment arises as a result of a transfer under this section, the amount of the overpayment is treated as follows:
 
 - (a) first, the amount is transferred to meet a liability of the person for—
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section RP 17B**
 
-**(6)**  This section overrides section RP 17B(7)﻿(a).
+**(6)** This section overrides section RP 17B(7)﻿(a).
 
 *Defined in this Act: amount, apply, Commissioner, instalment date, provisional tax, provisional tax rules, request, return of income, tax pooling account, tax year, terminal tax*
 

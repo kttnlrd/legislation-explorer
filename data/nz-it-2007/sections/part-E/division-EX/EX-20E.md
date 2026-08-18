@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section determines the relative debt-asset ratio of a CFC for the purposes of section EX 20D(2)﻿(b) by determining an amount (the group debt-asset ratio) for the CFC's group and comparing that amount with the debt-asset ratio of the CFC determined under section EX 20D(4).
+**(1)** This section determines the relative debt-asset ratio of a CFC for the purposes of section EX 20D(2)﻿(b) by determining an amount (the group debt-asset ratio) for the CFC's group and comparing that amount with the debt-asset ratio of the CFC determined under section EX 20D(4).
 
 **Members of CFC's group and calculations for group**
 
-**(2)**  For the purposes of subsections (3) to (8),—
+**(2)** For the purposes of subsections (3) to (8),—
 
 - (a) the members of a CFC's group are—
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Formula for CFC's group debt-asset ratio**
 
-**(3)**  The formula for the CFC's group debt-asset ratio is— total group debts ÷ (total group assets − total group non-debt liabilities).
+**(3)** The formula for the CFC's group debt-asset ratio is— total group debts ÷ (total group assets − total group non-debt liabilities).
 
 **Definition of items in formula**
 
-**(4)**  The items in the formula in subsection (3) are defined in subsections (5), (6), and (6B).
+**(4)** The items in the formula in subsection (3) are defined in subsections (5), (6), and (6B).
 
 **Total group debts**
 
-**(5)**  Total group debts is the total amount, consolidated under generally accepted accounting practice for the CFC's group and the accounting period, of the outstanding balances of—
+**(5)** Total group debts is the total amount, consolidated under generally accepted accounting practice for the CFC's group and the accounting period, of the outstanding balances of—
 
 - (a) financial arrangements entered by the group's members, each of which—
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Total group assets**
 
-**(6)**  Total group assets is the total value, consolidated under generally accepted accounting practice for the accounting period, of the assets of the CFC's group.
+**(6)** Total group assets is the total value, consolidated under generally accepted accounting practice for the accounting period, of the assets of the CFC's group.
 
 **Total group non-debt liabilities**
 
@@ -62,11 +62,11 @@ compilation_date: 2026-06-06
 
 **Formula for CFC's relative debt-asset ratio**
 
-**(7)**  The formula for the CFC's relative debt-asset ratio is— CFC's debt-asset ratio ÷ group debt-asset ratio.
+**(7)** The formula for the CFC's relative debt-asset ratio is— CFC's debt-asset ratio ÷ group debt-asset ratio.
 
 **Definition of items in formula**
 
-**(8)**  In the formula in subsection (7),—
+**(8)** In the formula in subsection (7),—
 
 - (a) CFC's debt-asset ratio is the CFC's debt-asset ratio under section EX 20D(4):
 

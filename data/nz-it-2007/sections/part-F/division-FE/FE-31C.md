@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a natural person or trustee described in section FE 2(1)﻿(g) has—
+**(1)** This section applies when a natural person or trustee described in section FE 2(1)﻿(g) has—
 
 - (a) a 50% or more ownership interest in an excess debt outbound company that is a member of a worldwide group (worldwide group A); and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Transfer**
 
-**(2)**  The CFC is part of the worldwide group A.
+**(2)** The CFC is part of the worldwide group A.
 
 **Ownership interests**
 
-**(3)**  For the purposes of this section, ownership interests are determined under sections FE 38 to FE 41.
+**(3)** For the purposes of this section, ownership interests are determined under sections FE 38 to FE 41.
 
 *Defined in this Act: attributable FIF income method, CFC, excess debt outbound company, FIF, income interest, New Zealand, non-resident, ownership interest*
 

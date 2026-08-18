@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a petroleum miner incurs exploratory well expenditure; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Treatment of expenditure**
 
-**(2)**  An amount equal to the amount that is treated as income is treated as petroleum development expenditure—
+**(2)** An amount equal to the amount that is treated as income is treated as petroleum development expenditure—
 
 - (a) incurred by the petroleum miner in the income year in which commercial production from the well starts; and
 

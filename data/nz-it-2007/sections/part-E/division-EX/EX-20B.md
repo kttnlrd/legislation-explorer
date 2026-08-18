@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount**
 
-**(1)**  Attributable CFC amount, for an accounting period and a CFC, means the amount calculated under the rules in section EX 21 using the formula— gross + arrangement − apportioned funding income.
+**(1)** Attributable CFC amount, for an accounting period and a CFC, means the amount calculated under the rules in section EX 21 using the formula— gross + arrangement − apportioned funding income.
 
 **Definition of items in formula**
 
-**(2)**  The items in the formula in subsection (1) are defined in subsections (3) to (4B).
+**(2)** The items in the formula in subsection (1) are defined in subsections (3) to (4B).
 
 **Gross**
 
-**(3)**  Gross is the total amount of income derived in the accounting period by the CFC that is 1 or more of the following:
+**(3)** Gross is the total amount of income derived in the accounting period by the CFC that is 1 or more of the following:
 
 - (a) a dividend that is paid in relation to rights that are a direct income interest in a foreign company, meet the requirements of neither section EX 34 nor section EX 35, and are excluded from being an attributing interest by—
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Arrangement**
 
-**(4)**  Arrangement is the total for the CFC and the accounting period of amounts of income under section CC 3 (Financial arrangements) for—
+**(4)** Arrangement is the total for the CFC and the accounting period of amounts of income under section CC 3 (Financial arrangements) for—
 
 - (a) an arrangement that—
 
@@ -132,7 +132,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: royalties**
 
-**(5)**  A royalty derived by a CFC is included in an attributable CFC amount under subsection (3)﻿(d) if none of the following are satisfied:
+**(5)** A royalty derived by a CFC is included in an attributable CFC amount under subsection (3)﻿(d) if none of the following are satisfied:
 
 - (a) the CFC is regularly engaged in creating, developing, or adding value to property that produces royalties and the royalty is—
 
@@ -168,7 +168,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: rent**
 
-**(6)**  Rent derived by a CFC is included in an attributable CFC amount under subsection (3)﻿(e) if the rent is not of a type referred to in subsection (7) and is from—
+**(6)** Rent derived by a CFC is included in an attributable CFC amount under subsection (3)﻿(e) if the rent is not of a type referred to in subsection (7) and is from—
 
 - (a) a lease or sublease of land:
 
@@ -180,7 +180,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: exclusions from rent**
 
-**(7)**  Rent derived by a CFC from a source referred to in subsection (6) is not included in an attributable CFC amount under subsection (3)﻿(e) if the rent is—
+**(7)** Rent derived by a CFC from a source referred to in subsection (6) is not included in an attributable CFC amount under subsection (3)﻿(e) if the rent is—
 
 - (a) from land in a country or territory with which the CFC has a taxed CFC connection:
 
@@ -202,7 +202,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: income from life insurance contract**
 
-**(8)**  Income from a life insurance policy is included in an attributable CFC amount under subsection (3)﻿(g) if the income is not included in a calculation of FIF income or loss and is—
+**(8)** Income from a life insurance policy is included in an attributable CFC amount under subsection (3)﻿(g) if the income is not included in a calculation of FIF income or loss and is—
 
 - (a) a distribution, if the life insurance policy is not intended to compensate the CFC for financial losses arising from the death or extended incapacity of a specified employee or member involved in the CFC's business:
 
@@ -212,7 +212,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: income from personal services**
 
-**(9)**  Income derived by a CFC from the supply of personal services is included in an attributable CFC amount under subsection (3)﻿(h) if the personal services are performed by another person (the working person) and—
+**(9)** Income derived by a CFC from the supply of personal services is included in an attributable CFC amount under subsection (3)﻿(h) if the personal services are performed by another person (the working person) and—
 
 - (a) the working person is a New Zealand resident; and
 
@@ -228,7 +228,7 @@ compilation_date: 2026-06-06
 
 **Exclusions from attributable CFC amount: shares**
 
-**(10)**  Income derived by a CFC from the disposal of a share that is revenue account property is not included in an attributable CFC amount under subsection (3)﻿(i) if the CFC's FIF income or loss from the share in the period ending with the disposal is calculated using—
+**(10)** Income derived by a CFC from the disposal of a share that is revenue account property is not included in an attributable CFC amount under subsection (3)﻿(i) if the CFC's FIF income or loss from the share in the period ending with the disposal is calculated using—
 
 - (a) the comparative value method:
 
@@ -240,7 +240,7 @@ compilation_date: 2026-06-06
 
 **Exclusions from attributable CFC amount: telecommunications services in New Zealand**
 
-**(11)**  Income of a CFC from a telecommunications service physically performed in New Zealand is not included in an attributable CFC amount under subsection (3)﻿(n) if—
+**(11)** Income of a CFC from a telecommunications service physically performed in New Zealand is not included in an attributable CFC amount under subsection (3)﻿(n) if—
 
 - (a) the service is the transmission, emission, or reception of information between New Zealand and a country or territory with which the CFC has a taxed CFC connection; and
 
@@ -264,7 +264,7 @@ compilation_date: 2026-06-06
 
 **Exclusions from attributable CFC amount: income from financial arrangements other than derivative instruments**
 
-**(12)**  Income of a CFC from a financial arrangement or excepted financial arrangement that is referred to in subsection (4)﻿(a)﻿(i) is not included in an attributable CFC amount under subsection (4)﻿(a) if the financial arrangement or agreement is—
+**(12)** Income of a CFC from a financial arrangement or excepted financial arrangement that is referred to in subsection (4)﻿(a)﻿(i) is not included in an attributable CFC amount under subsection (4)﻿(a) if the financial arrangement or agreement is—
 
 - (a) an agreement by the CFC to lend money to a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (5)﻿(c) and (7)﻿(c):
 
@@ -276,7 +276,7 @@ compilation_date: 2026-06-06
 
 **Royalties: property linked to New Zealand**
 
-**(13)**  Property giving rise to a royalty is linked to New Zealand at a time in an accounting period for the purposes of subsection (5) if the property meets the requirements of subsection (14) at a time in the period—
+**(13)** Property giving rise to a royalty is linked to New Zealand at a time in an accounting period for the purposes of subsection (5) if the property meets the requirements of subsection (14) at a time in the period—
 
 - (a) beginning—
 
@@ -288,7 +288,7 @@ compilation_date: 2026-06-06
 
 **Situations creating link with New Zealand**
 
-**(14)**  Property owned by a CFC has a link with New Zealand if the property—
+**(14)** Property owned by a CFC has a link with New Zealand if the property—
 
 - (a) has been owned by a New Zealand resident:
 
@@ -310,7 +310,7 @@ compilation_date: 2026-06-06
 
 **Situations breaking link with New Zealand**
 
-**(15)**  There is no link between property and New Zealand for a CFC when the property is owned by a non-resident who—
+**(15)** There is no link between property and New Zealand for a CFC when the property is owned by a non-resident who—
 
 - (a) is not a CFC and is not associated with the CFC; and
 

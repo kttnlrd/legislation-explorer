@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section DU 6 (Deduction for certain mining expenditure spread over assumed life of mine) when a mineral miner—
+**(1)** This section applies for the purposes of section DU 6 (Deduction for certain mining expenditure spread over assumed life of mine) when a mineral miner—
 
 - (a) incurs an amount of mining development expenditure or mining exploration expenditure as described in that section; and
 
@@ -22,15 +22,15 @@ compilation_date: 2026-06-06
 
 **Spreading rule**
 
-**(2)**  The mineral miner is allowed a deduction for an income year that falls within the spreading period referred to in section EJ 20C calculated using the formula— rate × value.
+**(2)** The mineral miner is allowed a deduction for an income year that falls within the spreading period referred to in section EJ 20C calculated using the formula— rate × value.
 
 **Definition of items in formula**
 
-**(3)**  The items in the formula are defined in subsections (4) and (5).
+**(3)** The items in the formula are defined in subsections (4) and (5).
 
 **Rate**
 
-**(4)**  Rate is—
+**(4)** Rate is—
 
 - (a) the straight-line rate set out in schedule 12, column 2 (Old banded rates of depreciation) that is nearest to the rate calculated for the expenditure using the formula in section EJ 20D(2), if the mineral miner chooses to use the straight-line method:
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Value**
 
-**(5)**  Value is—
+**(5)** Value is—
 
 - (a) the adjusted tax value of the expenditure, if the mineral miner chooses to use the straight-line method:
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Allocation to mines**
 
-**(6)**  For the purposes of this section, a mineral miner may allocate expenditure for an income year under this section in relation to a mine rather than in relation to a mining permit area, but only if—
+**(6)** For the purposes of this section, a mineral miner may allocate expenditure for an income year under this section in relation to a mine rather than in relation to a mining permit area, but only if—
 
 - (a) the mineral miner uses IFRS rules to prepare their financial statements; and
 

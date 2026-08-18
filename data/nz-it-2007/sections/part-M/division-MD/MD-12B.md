@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person is entitled under section MD 11 to a parental tax credit for a parental entitlement period; and
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Amount of additional parental tax credit**
 
-**(2)**  An additional amount of parental tax credit is calculated for the tax year of the birth using the formula— daily parental tax credit amount × extra entitlement days.
+**(2)** An additional amount of parental tax credit is calculated for the tax year of the birth using the formula— daily parental tax credit amount × extra entitlement days.
 
 **Definition of items in formula**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) daily parental tax credit amount is the amount of parental tax credit that the person would be entitled to for an entitlement period consisting of—
 

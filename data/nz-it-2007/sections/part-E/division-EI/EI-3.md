@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person—
+**(1)** This section applies when a person—
 
 - (a) is the author of a literary, dramatic, musical, or artistic work; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Timing of income: lump sum payment**
 
-**(2)**  If some or all of the consideration is a lump sum payment that would be income in 1 tax year, the person may allocate the income equally between the income year in which they receive it and—
+**(2)** If some or all of the consideration is a lump sum payment that would be income in 1 tax year, the person may allocate the income equally between the income year in which they receive it and—
 
 - (a) the income year before that income year, if they made the work over a period of 2 years or less; or
 
@@ -34,15 +34,15 @@ compilation_date: 2026-06-06
 
 **Timing of income: other payments**
 
-**(3)**  If some or all of the consideration is not a lump sum payment, would be income in 1 tax year, and is received by the person within 2 years after the first publication of the work, the person may allocate the income equally between the income year in which they receive it and the previous income year.
+**(3)** If some or all of the consideration is not a lump sum payment, would be income in 1 tax year, and is received by the person within 2 years after the first publication of the work, the person may allocate the income equally between the income year in which they receive it and the previous income year.
 
 **Self-publication**
 
-**(4)**  Subsection (3) applies to income that the person derives from being the publisher of their work.
+**(4)** Subsection (3) applies to income that the person derives from being the publisher of their work.
 
 **Application**
 
-**(5)**  The following provisions apply to an allocation for the purposes of subsections (2) and (3):
+**(5)** The following provisions apply to an allocation for the purposes of subsections (2) and (3):
 
 - (a) for an allocation under subsection (2), the person must apply to the Commissioner no later than 6 years after the end of the income year in which they receive the payment; and
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(6)**  In this section,— author includes a joint author first publication means the first occasion on which the work or a reproduction of it is published, performed, or exhibited lump sum payment includes an advance on account of royalties.
+**(6)** In this section,— author includes a joint author first publication means the first occasion on which the work or a reproduction of it is published, performed, or exhibited lump sum payment includes an advance on account of royalties.
 
 *Defined in this Act: apply, author, Commissioner, first publication, income, income year, lump sum payment, pay, royalty, tax year, year*
 

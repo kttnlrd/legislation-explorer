@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Purpose**
 
-**(1)**  The purpose of this subpart is to—
+**(1)** The purpose of this subpart is to—
 
 - (a) provide a tax credit (a research and development tax credit) as an incentive to a person for performing, or contracting for the performance of, activities to create new knowledge, or new or improved processes, services, or goods; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **General structure of this subpart**
 
-**(2)**  In this subpart—
+**(2)** In this subpart—
 
 - (a) research and development activity is defined in section LY 2, along with other key terms:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Tax credit**
 
-**(3)**  A person has a tax credit for the tax year equal to the total of—
+**(3)** A person has a tax credit for the tax year equal to the total of—
 
 - (a) their credit calculated under section LY 4; and
 
@@ -44,15 +44,15 @@ compilation_date: 2026-06-06
 
 **Tax credit: joint venturers' apportionment**
 
-**(4)**  Despite subsection (3), a person who is a member of a joint venture in relation to research and development activities has a tax credit for the tax year equal to their proportion of their interest in the joint venture.
+**(4)** Despite subsection (3), a person who is a member of a joint venture in relation to research and development activities has a tax credit for the tax year equal to their proportion of their interest in the joint venture.
 
 **Anti-avoidance**
 
-**(5)**  Section GB 56 (Arrangements involving research and development tax credits) provides a specific anti-avoidance provision.
+**(5)** Section GB 56 (Arrangements involving research and development tax credits) provides a specific anti-avoidance provision.
 
 **Expenditure or loss: GST**
 
-**(6)**  For the purposes of calculating the amount of a person's expenditure or loss, section DB 2 (Goods and services tax) is applied to the amounts.
+**(6)** For the purposes of calculating the amount of a person's expenditure or loss, section DB 2 (Goods and services tax) is applied to the amounts.
 
 *Defined in this Act: amount, goods, income year, research and development activity, research and development tax credit, services, tax year*
 

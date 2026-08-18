@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the exiting owner) disposes of some or all of their owner's interests (the current interests) for a look-through company, if the amount calculated using the formula is less than zero— disposal payment + previous payments− (gross tax value − liabilities) − $50,000.
+**(1)** This section applies when a person (the exiting owner) disposes of some or all of their owner's interests (the current interests) for a look-through company, if the amount calculated using the formula is less than zero— disposal payment + previous payments− (gross tax value − liabilities) − $50,000.
 
 **Definition of items in formula**
 
-**(2)**  In the formula,—
+**(2)** In the formula,—
 
 - (a) disposal payment is the total amount of consideration paid or payable to the exiting owner for the current interests:
 
@@ -32,23 +32,23 @@ compilation_date: 2026-06-06
 
 **Exiting owner: excluded payment**
 
-**(3)**  The disposal payment described in subsection (2)﻿(a) is excluded income of the exiting owner.
+**(3)** The disposal payment described in subsection (2)﻿(a) is excluded income of the exiting owner.
 
 **Exiting owner: no deduction**
 
-**(4)**  The exiting owner is denied a deduction in relation to the current interests for the income year in which the disposal of the interests occurs and later income years to the extent to which the entering owner is allowed a deduction because of subsection (6).
+**(4)** The exiting owner is denied a deduction in relation to the current interests for the income year in which the disposal of the interests occurs and later income years to the extent to which the entering owner is allowed a deduction because of subsection (6).
 
 **Entering owner: no deduction**
 
-**(5)**  An entering owner is denied a deduction for the disposal payment described in subsection (2)﻿(a).
+**(5)** An entering owner is denied a deduction for the disposal payment described in subsection (2)﻿(a).
 
 **Entering owner: stepping in**
 
-**(6)**  For the purposes of calculating the income and deductions of an entering owner for the part of the income year after the disposal of the interests occurs and later income years (the post-disposal periods), the entering owner is treated for the post-disposal periods as if they had originally acquired and held the current interests, not the exiting owner. However, this subsection does not apply to a deduction carried forward under section HB 12.
+**(6)** For the purposes of calculating the income and deductions of an entering owner for the part of the income year after the disposal of the interests occurs and later income years (the post-disposal periods), the entering owner is treated for the post-disposal periods as if they had originally acquired and held the current interests, not the exiting owner. However, this subsection does not apply to a deduction carried forward under section HB 12.
 
 **Relationship with section HB 4**
 
-**(7)**  Section HB 4 overrides this section.
+**(7)** Section HB 4 overrides this section.
 
 *Defined in this Act: deduction, depreciable property, dispose, entering owner, excluded income, financial arrangement, income tax liability, look-through company, owner's interests, pay, return of income, revenue account property, year*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Applicable accounting standard**
 
-**(1)**  A person (the interest holder) who chooses to determine under this section whether a CFC is a non-attributing active CFC for the person for an accounting period must use an accounting standard (the applicable accounting standard) permitted by section EX 21C.
+**(1)** A person (the interest holder) who chooses to determine under this section whether a CFC is a non-attributing active CFC for the person for an accounting period must use an accounting standard (the applicable accounting standard) permitted by section EX 21C.
 
 **CFC as part of test group**
 
-**(2)**  The interest holder may choose to apply this section for the CFC as a member of a group (a test group) if—
+**(2)** The interest holder may choose to apply this section for the CFC as a member of a group (a test group) if—
 
 - (a) the group consists of companies required under the applicable accounting standard to consolidate, whether or not with companies that are not in the group; and
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Threshold ratio**
 
-**(3)**  A CFC is a non-attributing active CFC under section EX 21B(2)﻿(b) for an accounting period and an interest holder if, under subsection (4),—
+**(3)** A CFC is a non-attributing active CFC under section EX 21B(2)﻿(b) for an accounting period and an interest holder if, under subsection (4),—
 
 - (a) the amount calculated using the formula in subsection (5) is less than 0.05; and
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Application of formula**
 
-**(4)**  In using the formula in subsection (5),—
+**(4)** In using the formula in subsection (5),—
 
 - (a) each item in the formula is—
 
@@ -110,15 +110,15 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(5)**  The amount that determines whether the CFC is a non-attributing active CFC is calculated using the formula— (reported passive + added passive − removed passive)÷ (reported revenue + added revenue − removed revenue)
+**(5)** The amount that determines whether the CFC is a non-attributing active CFC is calculated using the formula— (reported passive + added passive − removed passive)÷ (reported revenue + added revenue − removed revenue)
 
 **Definition of items in formula**
 
-**(6)**  The items in the formula are defined in subsections (7) to (12).
+**(6)** The items in the formula are defined in subsections (7) to (12).
 
 **Reported passive**
 
-**(7)**  Reported passive is the total amount of—
+**(7)** Reported passive is the total amount of—
 
 - (a) income from a dividend:
 
@@ -154,7 +154,7 @@ compilation_date: 2026-06-06
 
 **Added passive**
 
-**(8)**  Added passive is the total of amounts not included in the item reported passive for the accounting period that are 1 or more of the following:
+**(8)** Added passive is the total of amounts not included in the item reported passive for the accounting period that are 1 or more of the following:
 
 - (a) income from a life insurance policy that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(g):
 
@@ -172,7 +172,7 @@ compilation_date: 2026-06-06
 
 **Removed passive**
 
-**(9)**  Removed passive is zero if the interest holder does not choose to include an amount for this item or is the total of amounts that are included in the item reported passive or added passive for the accounting period and are in a category included in categories chosen by the interest holder from the following:
+**(9)** Removed passive is zero if the interest holder does not choose to include an amount for this item or is the total of amounts that are included in the item reported passive or added passive for the accounting period and are in a category included in categories chosen by the interest holder from the following:
 
 - (a) a dividend that is not included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(a) to (c):
 
@@ -190,7 +190,7 @@ compilation_date: 2026-06-06
 
 **Reported revenue**
 
-**(10)**  Reported revenue is the total amount that is—
+**(10)** Reported revenue is the total amount that is—
 
 - (a) included under the applicable accounting standard in—
 
@@ -226,7 +226,7 @@ compilation_date: 2026-06-06
 
 **Added revenue**
 
-**(11)**  Added revenue is zero if the interest holder does not choose to include an amount for this item or is the total of amounts that are not included in the item reported revenue for the accounting period and are either or both of the following:
+**(11)** Added revenue is zero if the interest holder does not choose to include an amount for this item or is the total of amounts that are not included in the item reported revenue for the accounting period and are either or both of the following:
 
 - (a) income from a life insurance policy that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(g):
 
@@ -238,7 +238,7 @@ compilation_date: 2026-06-06
 
 **Removed revenue**
 
-**(12)**  Removed revenue is the total of amounts that are included under the applicable accounting standard in the item reported revenue or added revenue for the accounting period and are 1 or more of the following:
+**(12)** Removed revenue is the total of amounts that are included under the applicable accounting standard in the item reported revenue or added revenue for the accounting period and are 1 or more of the following:
 
 - (a) an amount included in the item removed passive under subsection (9)﻿(d):
 
@@ -282,7 +282,7 @@ compilation_date: 2026-06-06
 
 **Compliance with accounting standards**
 
-**(13)**  If accounts meet the requirements of section EX 21C for the relevant accounting standard—
+**(13)** If accounts meet the requirements of section EX 21C for the relevant accounting standard—
 
 - (a) the accounts are treated as complying with the relevant accounting standard for the purposes of subsection (2):
 

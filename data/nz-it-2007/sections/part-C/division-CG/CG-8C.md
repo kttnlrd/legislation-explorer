@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person who is a prospective bloodstock breeder (person A) disposes of high-priced bloodstock to a non-resident (person B) for consideration before the high-priced bloodstock has been—
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount described in subsection (3) is income of person A.
+**(2)** The amount described in subsection (3) is income of person A.
 
 **Amount of income**
 
-**(3)**  The amount is the greater of—
+**(3)** The amount is the greater of—
 
 - (a) the amount of consideration receivable by person A for disposing of the high-priced bloodstock; and
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(4)**  For the purposes of subsection (3)﻿(b), the amount is calculated using the formula— ownership disposal percentage × total deductions.
+**(4)** For the purposes of subsection (3)﻿(b), the amount is calculated using the formula— ownership disposal percentage × total deductions.
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) ownership disposal percentage is the percentage of person A's total share or interest in the high-priced bloodstock that they have disposed of to person B:
 
@@ -52,11 +52,11 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(6)**  The income is allocated to the income year in which the high-priced bloodstock is disposed of.
+**(6)** The income is allocated to the income year in which the high-priced bloodstock is disposed of.
 
 **Relationship with section CB 2**
 
-**(7)**  This section overrides section CB 2(2).
+**(7)** This section overrides section CB 2(2).
 
 *Defined in this Act: amount, deduction, dispose, high-priced bloodstock, income, income year, New Zealand, prospective bloodstock breeder*
 

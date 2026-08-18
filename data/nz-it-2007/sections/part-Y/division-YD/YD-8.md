@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if—
+**(1)** This section applies if—
 
 - (a) a premium is paid under a contract of insurance; and
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Ten percent of premium from source in New Zealand**
 
-**(2)**  Ten percent of the gross premium is treated as having a source in New Zealand and the remainder of the gross premium is treated as not having a source in New Zealand.
+**(2)** Ten percent of the gross premium is treated as having a source in New Zealand and the remainder of the gross premium is treated as not having a source in New Zealand.
 
 **Special rules**
 
-**(3)**  The following provisions apply in relation to taxation of the 10% amount:
+**(3)** The following provisions apply in relation to taxation of the 10% amount:
 
 - (a) the insurer is denied a deduction for expenditure or loss incurred, under section DW 3 (Non-resident general insurers and shippers):
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Types of insurance**
 
-**(4)**  The types of insurance referred to in subsection (1)﻿(b) are—
+**(4)** The types of insurance referred to in subsection (1)﻿(b) are—
 
 - (a) general insurance:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Connection with New Zealand**
 
-**(5)**  The premium is connected with New Zealand if—
+**(5)** The premium is connected with New Zealand if—
 
 - (a) the insurance contract from which the premium is derived is offered or entered into in New Zealand:
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **No connection if all risk offshore**
 
-**(6)**  Despite subsection (5), the premium is treated as not connected with New Zealand if—
+**(6)** Despite subsection (5), the premium is treated as not connected with New Zealand if—
 
 - (a) all risk covered by the premium is located outside New Zealand; and
 

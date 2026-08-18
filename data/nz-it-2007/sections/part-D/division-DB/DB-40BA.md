@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person who incurs expenditure for the purpose of applying for the grant of plant variety rights and does not obtain the grant because the application is not lodged or is withdrawn, or because the grant is refused, is allowed a deduction for the expenditure—
+**(1)** A person who incurs expenditure for the purpose of applying for the grant of plant variety rights and does not obtain the grant because the application is not lodged or is withdrawn, or because the grant is refused, is allowed a deduction for the expenditure—
 
 - (a) that the person incurs in relation to the application or intended application; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(2)**  The deduction is allocated to the income year in which the person decides not to lodge the application, withdraws the application, or is refused the grant of plant variety rights.
+**(2)** The deduction is allocated to the income year in which the person decides not to lodge the application, withdraws the application, or is refused the grant of plant variety rights.
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(3)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: capital limitation, deduction, fixed life intangible property, general limitation, general permission, income year, plant variety rights*
 

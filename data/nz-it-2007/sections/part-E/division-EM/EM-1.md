@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Application of this subpart**
 
-**(1)**  This subpart applies to determine the income and expenditure for a person's hedges, to the extent to which their hedges have a fair dividend rate hedge portion (see: subsection (2) below, and sections EM 5 to EM 7), and their hedges hedge—
+**(1)** This subpart applies to determine the income and expenditure for a person's hedges, to the extent to which their hedges have a fair dividend rate hedge portion (see: subsection (2) below, and sections EM 5 to EM 7), and their hedges hedge—
 
 - (a) Australian non-attributing shares for which—
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Specific rules**
 
-**(2)**  In this subpart,—
+**(2)** In this subpart,—
 
 - (a) section EM 2 provides rules for who this subpart applies to:
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Relationship with financial arrangements rules**
 
-**(3)**  This subpart, and not subpart EW (Financial arrangements rules), determines a person's income and expenditure for their fair dividend rate hedge portions. However, subpart EW determines a person's income and expenditure for the portion of a hedge that is not a fair dividend rate hedge portion.
+**(3)** This subpart, and not subpart EW (Financial arrangements rules), determines a person's income and expenditure for their fair dividend rate hedge portions. However, subpart EW determines a person's income and expenditure for the portion of a hedge that is not a fair dividend rate hedge portion.
 
 *Defined in this Act: attributing interests, Australian non-attributing shares, eligible hedge, excluded income, fair dividend rate hedge portion, fair dividend rate method, FIF, hedge, income*
 

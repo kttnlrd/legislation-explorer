@@ -12,23 +12,23 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if a company that is part of a consolidated group has under section IQ 1B an attributed CFC net loss or FIF net loss carried forward to a tax year.
+**(1)** This section applies if a company that is part of a consolidated group has under section IQ 1B an attributed CFC net loss or FIF net loss carried forward to a tax year.
 
 **First use**
 
-**(2)**  The first use of the amount must be by the company under subsection (3) or (4) in making the amount available to the consolidated group to subtract from its net income, so far as it extends, for the tax year.
+**(2)** The first use of the amount must be by the company under subsection (3) or (4) in making the amount available to the consolidated group to subtract from its net income, so far as it extends, for the tax year.
 
 **CFC net losses**
 
-**(3)**  If the amount is an attributed CFC net loss, it may be used only to the extent to which it is no more than the attributed CFC income that the consolidated group derives in the tax year from a CFC resident in the country in which the loss arose.
+**(3)** If the amount is an attributed CFC net loss, it may be used only to the extent to which it is no more than the attributed CFC income that the consolidated group derives in the tax year from a CFC resident in the country in which the loss arose.
 
 **FIF net losses**
 
-**(4)**  If the amount is a FIF net loss, it may be used only to the extent to which it is no more than the FIF income that the consolidated group derives in the tax year from a FIF resident in the country in which the loss arose.
+**(4)** If the amount is a FIF net loss, it may be used only to the extent to which it is no more than the FIF income that the consolidated group derives in the tax year from a FIF resident in the country in which the loss arose.
 
 **Second use**
 
-**(5)**  If, after applying subsection (2), some of the amount remains, the company may—
+**(5)** If, after applying subsection (2), some of the amount remains, the company may—
 
 - (a) subtract the remaining amount from its net income for the tax year; or
 

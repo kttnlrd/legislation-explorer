@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Payments treated as received or derived**
 
-**(1)**  An amount withheld from a payment under this Part, unless a provision in this Part states otherwise,—
+**(1)** An amount withheld from a payment under this Part, unless a provision in this Part states otherwise,—
 
 - (a) is treated as received—
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  Subsection (1) does not apply to a replacement payment under a share-lending arrangement.
+**(2)** Subsection (1) does not apply to a replacement payment under a share-lending arrangement.
 
 *Defined in this Act: amount, combined tax and earner-related payment, pay, replacement payment, share-lending arrangement*
 

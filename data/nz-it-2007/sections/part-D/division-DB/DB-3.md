@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for expenditure that they incur in connection with the following matters:
+**(1)** A person is allowed a deduction for expenditure that they incur in connection with the following matters:
 
 - (a) calculating or determining their income tax liability for a tax year:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  This section does not apply to expenditure that a person incurs in connection with the following matters:
+**(2)** This section does not apply to expenditure that a person incurs in connection with the following matters:
 
 - (a) a matter arising from a return of income or a return under the Goods and Services Tax Act 1985 that was fraudulent or wilfully misleading:
 
@@ -44,11 +44,11 @@ compilation_date: 2026-06-06
 
 **Taxable activity**
 
-**(3)**  In this section, taxable activity is defined in section 6 of the Goods and Services Tax Act 1985.
+**(3)** In this section, taxable activity is defined in section 6 of the Goods and Services Tax Act 1985.
 
 **Link with subpart DA**
 
-**(4)**  This section supplements the general permission and overrides the capital limitation, the private limitation, and the employment limitation. The other general limitations still apply.
+**(4)** This section supplements the general permission and overrides the capital limitation, the private limitation, and the employment limitation. The other general limitations still apply.
 
 *Defined in this Act: amount, assessment, business, capital limitation, deduction, employment limitation, general limitation, general permission, GST, GST payable, income tax liability, Inland Revenue Acts, pay, private limitation, return of income, supplement, tax year, taxable activity, taxable period*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  A dividend from a foreign company is exempt income if derived by a company that is resident in New Zealand.
+**(1)** A dividend from a foreign company is exempt income if derived by a company that is resident in New Zealand.
 
 **Exclusions**
 
-**(2)**  Subsection (1) does not apply to a dividend if the dividend is paid in relation to rights that are—
+**(2)** Subsection (1) does not apply to a dividend if the dividend is paid in relation to rights that are—
 
 - (a) a direct income interest that meets the requirements of neither section EX 34 (CFC rules exemption) nor section EX 35 (Exemption for interest in FIF resident in Australia) and is excluded from being an attributing interest by—
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Non-application to certain dividends**
 
-**(3)**  This section does not apply to a dividend—
+**(3)** This section does not apply to a dividend—
 
 - (a) derived by a portfolio investment entity:
 

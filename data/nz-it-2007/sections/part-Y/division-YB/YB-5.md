@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Association**
 
-**(1)**  Two persons (person A and person B) are associated persons if person A is the trustee of a trust under which a person associated under section YB 4 with person B has benefited or is eligible to benefit.
+**(1)** Two persons (person A and person B) are associated persons if person A is the trustee of a trust under which a person associated under section YB 4 with person B has benefited or is eligible to benefit.
 
 **Land provisions**
 
-**(2)**  This section does not apply for the purposes of the land provisions.
+**(2)** This section does not apply for the purposes of the land provisions.
 
 *Defined in this Act: associated person, land provisions, trustee*
 

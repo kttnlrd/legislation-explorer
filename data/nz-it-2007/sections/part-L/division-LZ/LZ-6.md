@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when, in a tax year, a person derives interest in relation to a home vendor mortgage.
+**(1)** This section applies when, in a tax year, a person derives interest in relation to a home vendor mortgage.
 
 **Exclusions**
 
-**(2)**  This section does not apply to—
+**(2)** This section does not apply to—
 
 - (a) an absentee; or
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Tax credit**
 
-**(3)**  The person is entitled to a tax credit equal to an amount calculated using the formula— interest × 0.020.
+**(3)** The person is entitled to a tax credit equal to an amount calculated using the formula— interest × 0.020.
 
 **Definition of item in formula**
 
-**(4)**  In the formula, interest means the amount of interest in complete dollars that the person derives in the tax year in relation to a home vendor mortgage.
+**(4)** In the formula, interest means the amount of interest in complete dollars that the person derives in the tax year in relation to a home vendor mortgage.
 
 **Relationship to section LZ 7**
 
-**(5)**  This section is overridden by section LZ 7.
+**(5)** This section is overridden by section LZ 7.
 
 *Defined in this Act: absentee, amount, company, distribution, home vendor mortgage, income tax, interest, Maori authority, public authority, tax credit, tax year, trustee*
 

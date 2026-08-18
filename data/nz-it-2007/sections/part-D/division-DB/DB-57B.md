@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction denied**
 
-**(1)**  An amount is not a deduction of a person if the deduction is denied under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements).
+**(1)** An amount is not a deduction of a person if the deduction is denied under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements).
 
 **Deduction**
 
-**(2)**  An amount treated as a deduction of a person under subpart FH is a deduction of the person.
+**(2)** An amount treated as a deduction of a person under subpart FH is a deduction of the person.
 
 **Link with subpart DA**
 
-**(3)**  Subsection (1) overrides, and subsection (2) supplements, the general permission. The general limitations still apply.
+**(3)** Subsection (1) overrides, and subsection (2) supplements, the general permission. The general limitations still apply.
 
 *Defined in this Act: amount, deduction, general limitation, general permission*
 

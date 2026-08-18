@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Market value**
 
-**(1)**  The transfer of property in circumstances described in section FC 1(1) is treated as a disposal by the transferor and an acquisition by the transferee at the market value of the item for the transferor. The disposal is treated as occurring on the date of the transaction.
+**(1)** The transfer of property in circumstances described in section FC 1(1) is treated as a disposal by the transferor and an acquisition by the transferee at the market value of the item for the transferor. The disposal is treated as occurring on the date of the transaction.
 
 **Date of transfer of estate of deceased person**
 
-**(2)**  For property referred to in section FC 1(1)﻿(a), the disposal and acquisition is treated as occurring immediately before the death of the person.
+**(2)** For property referred to in section FC 1(1)﻿(a), the disposal and acquisition is treated as occurring immediately before the death of the person.
 
 **Exceptions to general rule**
 
-**(3)**  Sections ED 2B (Transfers to shareholders by ASX-listed Australian company of shares in subsidiary) and FC 3 to FC 9, FC 10, FD 1, and FD 2 override this section.
+**(3)** Sections ED 2B (Transfers to shareholders by ASX-listed Australian company of shares in subsidiary) and FC 3 to FC 9, FC 10, FD 1, and FD 2 override this section.
 
 **Relationship with settlements and distributions for trusts**
 
-**(4)**  Subsection (1) does not apply for the purposes of determining whether a transfer of property is—
+**(4)** Subsection (1) does not apply for the purposes of determining whether a transfer of property is—
 
 - (a) a settlement on a trust:
 

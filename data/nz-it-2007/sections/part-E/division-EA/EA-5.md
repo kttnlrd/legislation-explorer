@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person—
+**(1)** This section applies when a person—
 
 - (a) is a share user under a returning share transfer; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Allocation of income**
 
-**(2)**  The amount of income derived by the person may be allocated to the later income year.
+**(2)** The amount of income derived by the person may be allocated to the later income year.
 
 *Defined in this Act: amount, associated person, deduction, identical share, income, income year, original share, returning share transfer, share supplier, share user*
 

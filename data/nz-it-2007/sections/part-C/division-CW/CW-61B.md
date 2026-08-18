@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  An amount derived by a natural person from the supply of excess electricity generated at a dwelling occupied as a residence by the person is exempt income.
+**(1)** An amount derived by a natural person from the supply of excess electricity generated at a dwelling occupied as a residence by the person is exempt income.
 
 **Meaning of excess electricity**
 
-**(2)**  For the purposes of this section, excess electricity means electricity generated at a dwelling that is not consumed at the dwelling and is supplied to an electricity retailer.
+**(2)** For the purposes of this section, excess electricity means electricity generated at a dwelling that is not consumed at the dwelling and is supplied to an electricity retailer.
 
 *Defined in this Act: amount, dwelling, excess electricity, exempt income, natural person*
 

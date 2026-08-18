@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for—
+**(1)** This section applies for—
 
 - (a) an insurer who—
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **No deduction on account of claims**
 
-**(2)**  For an insurer's general insurance contracts, the insurer is denied a deduction relating to the insurer's outstanding claims liability or for a claim's expenditure or loss, except as provided by this section.
+**(2)** For an insurer's general insurance contracts, the insurer is denied a deduction relating to the insurer's outstanding claims liability or for a claim's expenditure or loss, except as provided by this section.
 
 **Formula for insurer's OCR deduction**
 
-**(3)**  For an income year (the current year), an insurer is allowed a deduction for the amount by which zero is greater than the amount calculated using the formula— opening outstanding claims reserve − closing outstanding claims reserve.
+**(3)** For an income year (the current year), an insurer is allowed a deduction for the amount by which zero is greater than the amount calculated using the formula— opening outstanding claims reserve − closing outstanding claims reserve.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) opening outstanding claims reserve is—
 
@@ -80,11 +80,11 @@ compilation_date: 2026-06-06
 
 **Deduction for payments of current claims**
 
-**(5)**  The insurer is allowed a deduction for the amount of expenditure or loss of a claim paid to an insured under a general insurance contract for the income year.
+**(5)** The insurer is allowed a deduction for the amount of expenditure or loss of a claim paid to an insured under a general insurance contract for the income year.
 
 **Link with subpart DA**
 
-**(6)**  This section supplements the general permission. The general limitations still apply, except that the capital limitation does not apply for general insurance contracts after they are transferred to an insurer.
+**(6)** This section supplements the general permission. The general limitations still apply, except that the capital limitation does not apply for general insurance contracts after they are transferred to an insurer.
 
 *Defined in this Act: actuarially determined, amount, best estimate assumptions, capital limitation, deduction, general insurance, general limitation, general permission, IFRS 4, IFRS 17, income year, insurer, life insurer, New Zealand resident, non-resident, outstanding claims reserve, pay, present value (gross)*
 

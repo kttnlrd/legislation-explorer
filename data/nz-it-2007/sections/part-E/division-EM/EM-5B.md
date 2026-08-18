@@ -12,23 +12,23 @@ compilation_date: 2026-06-06
 
 **Fair dividend rate hedge portions**
 
-**(1)**  This section calculates the fair dividend rate hedge portions for a person's eligible hedges on a portfolio basis under an election provided by section EM 4.
+**(1)** This section calculates the fair dividend rate hedge portions for a person's eligible hedges on a portfolio basis under an election provided by section EM 4.
 
 **Lowest amount**
 
-**(2)**  The fair dividend rate hedge portion is the lowest of the amounts described in subsections (4) and (6).
+**(2)** The fair dividend rate hedge portion is the lowest of the amounts described in subsections (4) and (6).
 
 **Period calculation**
 
-**(3)**  The fair dividend rate hedge portion is applied for a period of 1 month or less, as chosen by the person, for all of their eligible hedges. The fair dividend rate hedge portion is calculated before the start of the elected period, and the elected period is irrevocable, and is applied for all of their eligible hedges post-election, for the income year.
+**(3)** The fair dividend rate hedge portion is applied for a period of 1 month or less, as chosen by the person, for all of their eligible hedges. The fair dividend rate hedge portion is calculated before the start of the elected period, and the elected period is irrevocable, and is applied for all of their eligible hedges post-election, for the income year.
 
 **First formula**
 
-**(4)**  For the purposes of subsection (2), the amount is calculated using formula— 1 − (non-eligible assets ÷ portfolio hedges amount).
+**(4)** For the purposes of subsection (2), the amount is calculated using formula— 1 − (non-eligible assets ÷ portfolio hedges amount).
 
 **Definition of items in formula**
 
-**(5)**  In the formula in subsection (4), all items are expressed in New Zealand currency, and—
+**(5)** In the formula in subsection (4), all items are expressed in New Zealand currency, and—
 
 - (a) non-eligible assets is the total market value of non-eligible assets:
 
@@ -36,11 +36,11 @@ compilation_date: 2026-06-06
 
 **Second formula**
 
-**(6)**  For the purposes of subsection (2), the amount is calculated using the formula— (1.05 × eligible assets) ÷ portfolio hedges amount.
+**(6)** For the purposes of subsection (2), the amount is calculated using the formula— (1.05 × eligible assets) ÷ portfolio hedges amount.
 
 **Definition of items in formula**
 
-**(7)**  In the formula in subsection (6), all items are expressed in New Zealand currency, and—
+**(7)** In the formula in subsection (6), all items are expressed in New Zealand currency, and—
 
 - (a) eligible assets is the total market value of assets described in section EM 1(1)﻿(a) and (b) that the person owns directly, and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)﻿(a) and (b):
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a mineral miner—
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **No deduction (with exception)**
 
-**(2)**  The mineral miner is denied a deduction for the expenditure except to the extent quantified and allocated under section EJ 20B (Certain mining expenditure spread over assumed life of mine).
+**(2)** The mineral miner is denied a deduction for the expenditure except to the extent quantified and allocated under section EJ 20B (Certain mining expenditure spread over assumed life of mine).
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(3)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: amount, associated mining operations, capital limitation, deduction, general limitation, general permission, income, income year, mineral miner, mining development expenditure, mining exploration expenditure, mining operations, permit area*
 

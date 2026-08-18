@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When section applies**
 
-**(1)**  This section applies when a person has a liability for terminal tax (the resulting liability)—
+**(1)** This section applies when a person has a liability for terminal tax (the resulting liability)—
 
 - (a) for an income year beginning on or after 1 July 2009; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **No liability for interest for period**
 
-**(2)**  The person is not liable to pay interest under Part 7 of the Tax Administration Act 1994 in relation to the resulting liability for the period beginning with 1 July 2009 and ending on the later of—
+**(2)** The person is not liable to pay interest under Part 7 of the Tax Administration Act 1994 in relation to the resulting liability for the period beginning with 1 July 2009 and ending on the later of—
 
 - (a) 30 June 2012:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Relationship with Tax Administration Act 1994**
 
-**(3)**  This section overrides Part 7 of the Tax Administration Act 1994.
+**(3)** This section overrides Part 7 of the Tax Administration Act 1994.
 
 *Defined in this Act: Commissioner, income year, return of income, terminal tax*
 

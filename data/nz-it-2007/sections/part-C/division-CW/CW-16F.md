@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) the employment duties of an employee require them to work on an ongoing basis at more than 1 workplace; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  This section does not apply—
+**(2)** This section does not apply—
 
 - (a) to an amount that is the value provided or the payment by the employer when, under the terms of their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(3)**  The amount that is the value provided or the payment by the employer is exempt income of the employee.
+**(3)** The amount that is the value provided or the payment by the employer is exempt income of the employee.
 
 *Defined in this Act: accommodation, amount, distant workplace, employee, employer, employment, employment income, exempt income, pay, workplace*
 

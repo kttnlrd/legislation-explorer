@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person who is a principal caregiver expects to be entitled, throughout a selected period, to a WFF tax credit; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(2)**  The person may ask the Commissioner to pay the tax credit by instalment to them.
+**(2)** The person may ask the Commissioner to pay the tax credit by instalment to them.
 
 **Meaning of selected period**
 
-**(3)**  Selected period is a relationship period chosen by the person for the purposes of this section and sections 80KA to 80KG of the Tax Administration Act 1994.
+**(3)** Selected period is a relationship period chosen by the person for the purposes of this section and sections 80KA to 80KG of the Tax Administration Act 1994.
 
 *Defined in this Act: ask, Commissioner, pay, principal caregiver, relationship period, selected period, tax credit, tax year*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person derives, in a tax year, income in anticipation from fines, premiums, a payment of goodwill on the grant of a lease, or in another similar way.
+**(1)** This section applies when a person derives, in a tax year, income in anticipation from fines, premiums, a payment of goodwill on the grant of a lease, or in another similar way.
 
 **Timing of income**
 
-**(2)**  The person may choose to—
+**(2)** The person may choose to—
 
 - (a) divide the income into 6 equal portions; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Notice**
 
-**(3)**  The following provisions apply to an allocation for the purposes of subsection (2):
+**(3)** The following provisions apply to an allocation for the purposes of subsection (2):
 
 - (a) the person must notify the Commissioner of their election:
 
@@ -36,11 +36,11 @@ compilation_date: 2026-06-06
 
 **Cancellation of allocation**
 
-**(4)**  If the Commissioner cancels the allocation, the income allocated to the income year in which the cancellation occurs and to future income years is allocated to the income year before the income year in which the cancellation occurs.
+**(4)** If the Commissioner cancels the allocation, the income allocated to the income year in which the cancellation occurs and to future income years is allocated to the income year before the income year in which the cancellation occurs.
 
 **Transitional provision: 2015–16 and later income years**
 
-**(5)**  Despite subsection (2), when a person has derived an amount of income to which this section applies before the 2015–16 income year, and all or part of that amount remains unallocated at the start of that income year, the person must—
+**(5)** Despite subsection (2), when a person has derived an amount of income to which this section applies before the 2015–16 income year, and all or part of that amount remains unallocated at the start of that income year, the person must—
 
 - (a) if the period of 5 income years after the income year of derivation has expired by the start of the 2015–16 income year, allocate the remaining amount to the 2015–16 income year; or
 

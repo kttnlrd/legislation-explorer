@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Formula and rules for calculation**
 
-**(1)**  The attributed CFC income or loss of a person (an interest holder) holding an income interest in a CFC, for the purposes of the general rules in sections CQ 2(1) and DN 2(1)(which relate to attributed CFC income or loss), is found for the CFC and an accounting period from—
+**(1)** The attributed CFC income or loss of a person (an interest holder) holding an income interest in a CFC, for the purposes of the general rules in sections CQ 2(1) and DN 2(1)(which relate to attributed CFC income or loss), is found for the CFC and an accounting period from—
 
 - (a) the formula in section EX 18, which uses the interest holder's income interest and the CFC's net attributable CFC income or loss determined as described in subsection (2):
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Determination of attributed CFC income or loss from attributable CFC amount**
 
-**(2)**  An interest holder with an income interest of a fraction (the fraction) in a CFC with an attributable CFC amount under section EX 20B for an accounting period has under section EX 18, for the CFC and accounting period,—
+**(2)** An interest holder with an income interest of a fraction (the fraction) in a CFC with an attributable CFC amount under section EX 20B for an accounting period has under section EX 18, for the CFC and accounting period,—
 
 - (a) attributed CFC income or loss equal to the fraction of the CFC's net attributable CFC income or loss under sections EX 20C to EX 20E and the rules in sections EX 21 and EX 24 to EX 27, if paragraph (b) does not apply:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Non-attributing active CFCs**
 
-**(3)**  Whether a CFC is a non-attributing active CFC is determined under section EX 21B using—
+**(3)** Whether a CFC is a non-attributing active CFC is determined under section EX 21B using—
 
 - (a) a test in—
 

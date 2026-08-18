@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Excepted financial arrangement means an arrangement described in any of subsections (2) to (25). However,—
+**(1)** Excepted financial arrangement means an arrangement described in any of subsections (2) to (25). However,—
 
 - (a) an arrangement described in any of subsections (18) to (20) may cease to be an excepted financial arrangement through the operation of section EW 7:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Annuity**
 
-**(2)**  Each of the following is an excepted financial arrangement to the extent to which it is not life financial reinsurance:
+**(2)** Each of the following is an excepted financial arrangement to the extent to which it is not life financial reinsurance:
 
 - (a) an annuity for a term contingent on human life:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Bet**
 
-**(3)**  A bet on any of the following is an excepted financial arrangement:
+**(3)** A bet on any of the following is an excepted financial arrangement:
 
 - (a) a race, as defined in section 5(1) of the Racing Industry Act 2020:
 
@@ -64,31 +64,31 @@ compilation_date: 2026-06-06
 
 **Employment contract**
 
-**(4)**  An employment contract is an excepted financial arrangement.
+**(4)** An employment contract is an excepted financial arrangement.
 
 **Farm-out arrangement**
 
-**(5)**  A farm-out arrangement is an excepted financial arrangement.
+**(5)** A farm-out arrangement is an excepted financial arrangement.
 
 **Group investment fund**
 
-**(6)**  An interest in a group investment fund is an excepted financial arrangement.
+**(6)** An interest in a group investment fund is an excepted financial arrangement.
 
 **Hire purchase: livestock or bloodstock**
 
-**(7)**  A hire purchase agreement for livestock or bloodstock is an excepted financial arrangement.
+**(7)** A hire purchase agreement for livestock or bloodstock is an excepted financial arrangement.
 
 **Insurance contract**
 
-**(8)**  An insurance contract to the extent to which it is not life financial reinsurance is an excepted financial arrangement.
+**(8)** An insurance contract to the extent to which it is not life financial reinsurance is an excepted financial arrangement.
 
 **Lease not finance lease**
 
-**(9)**  A lease that is not a finance lease is an excepted financial arrangement.
+**(9)** A lease that is not a finance lease is an excepted financial arrangement.
 
 **Loan in New Zealand currency**
 
-**(10)**  A loan to which all the following apply is an excepted financial arrangement for the lender:
+**(10)** A loan to which all the following apply is an excepted financial arrangement for the lender:
 
 - (a) the loan is in New Zealand currency; and
 
@@ -98,7 +98,7 @@ compilation_date: 2026-06-06
 
 **Partnership or joint venture**
 
-**(11)**  An interest in a partnership or a joint venture is an excepted financial arrangement.
+**(11)** An interest in a partnership or a joint venture is an excepted financial arrangement.
 
 **Look-through companies**
 
@@ -110,11 +110,11 @@ compilation_date: 2026-06-06
 
 **Share-lending arrangement**
 
-**(12)**  A share-lending arrangement is an excepted financial arrangement.
+**(12)** A share-lending arrangement is an excepted financial arrangement.
 
 **Share or option**
 
-**(13)**  A share, or an option to acquire or to dispose of shares, is an excepted financial arrangement, if the share is acquired, or the person becomes a party to the option, on or after 20 May 1999. This subsection does not apply to a withdrawable share or to an option to acquire or to dispose of withdrawable shares.
+**(13)** A share, or an option to acquire or to dispose of shares, is an excepted financial arrangement, if the share is acquired, or the person becomes a party to the option, on or after 20 May 1999. This subsection does not apply to a withdrawable share or to an option to acquire or to dispose of withdrawable shares.
 
 **Option over cryptocurrency**
 
@@ -122,19 +122,19 @@ compilation_date: 2026-06-06
 
 **Specified preference share**
 
-**(14)**  A specified preference share to which section FZ 1 (Deduction for dividends paid on certain preference shares) of the Income Tax Act 2004 applies is an excepted financial arrangement.
+**(14)** A specified preference share to which section FZ 1 (Deduction for dividends paid on certain preference shares) of the Income Tax Act 2004 applies is an excepted financial arrangement.
 
 **Superannuation**
 
-**(15)**  A membership of a superannuation scheme is an excepted financial arrangement.
+**(15)** A membership of a superannuation scheme is an excepted financial arrangement.
 
 **Warranty**
 
-**(16)**  A warranty for goods or services is an excepted financial arrangement.
+**(16)** A warranty for goods or services is an excepted financial arrangement.
 
 **Certain arrangements to which transitional resident is party**
 
-**(17)**  An arrangement to which a transitional resident is a party is an excepted financial arrangement for the transitional resident if—
+**(17)** An arrangement to which a transitional resident is a party is an excepted financial arrangement for the transitional resident if—
 
 - (a) no other party to the arrangement is a New Zealand resident; and
 
@@ -142,7 +142,7 @@ compilation_date: 2026-06-06
 
 **Loan in foreign currency: private or domestic purpose**
 
-**(18)**  A loan to which all the following apply is an excepted financial arrangement for the borrower:
+**(18)** A loan to which all the following apply is an excepted financial arrangement for the borrower:
 
 - (a) the loan is in foreign currency; and
 
@@ -152,11 +152,11 @@ compilation_date: 2026-06-06
 
 **Option: private or domestic purpose**
 
-**(19)**  An option to acquire or dispose of property, other than an interest in a financial arrangement, is an excepted financial arrangement for a person who becomes a party to the option for a private or a domestic purpose.
+**(19)** An option to acquire or dispose of property, other than an interest in a financial arrangement, is an excepted financial arrangement for a person who becomes a party to the option for a private or a domestic purpose.
 
 **Private or domestic agreement for the sale and purchase of property or services**
 
-**(20)**  An agreement for the sale and purchase of property or services entered into by a person, or a specified option granted to or by a person, is an excepted financial arrangement for the person if,—
+**(20)** An agreement for the sale and purchase of property or services entered into by a person, or a specified option granted to or by a person, is an excepted financial arrangement for the person if,—
 
 - (a) first,—
 
@@ -180,7 +180,7 @@ compilation_date: 2026-06-06
 
 **Agreement for the sale and purchase of property or services**
 
-**(21)**  An agreement for the sale and purchase of property or services is an excepted financial arrangement, except for a party who makes an election under section EW 8, if—
+**(21)** An agreement for the sale and purchase of property or services is an excepted financial arrangement, except for a party who makes an election under section EW 8, if—
 
 - (a) all a party's sales or purchases under the agreement are prepaid; and
 
@@ -188,19 +188,19 @@ compilation_date: 2026-06-06
 
 **Short-term agreement for sale and purchase**
 
-**(22)**  A short-term agreement for sale and purchase is an excepted financial arrangement, except for a party who makes an election under section EW 8.
+**(22)** A short-term agreement for sale and purchase is an excepted financial arrangement, except for a party who makes an election under section EW 8.
 
 **Short-term option**
 
-**(23)**  A short-term option is an excepted financial arrangement, except for a party who makes an election under section EW 8.
+**(23)** A short-term option is an excepted financial arrangement, except for a party who makes an election under section EW 8.
 
 **Travellers' cheques**
 
-**(24)**  Travellers' cheques are excepted financial arrangements, except for a party who makes an election under section EW 8.
+**(24)** Travellers' cheques are excepted financial arrangements, except for a party who makes an election under section EW 8.
 
 **Variable principal debt instrument**
 
-**(25)**  A variable principal debt instrument is an excepted financial arrangement if the total value on every day in an income year for all variable principal debt instruments to which a person is a party is $100,000 or less, except when the person who is a party to the financial arrangement—
+**(25)** A variable principal debt instrument is an excepted financial arrangement if the total value on every day in an income year for all variable principal debt instruments to which a person is a party is $100,000 or less, except when the person who is a party to the financial arrangement—
 
 - (a) makes an election under section EW 8; or
 

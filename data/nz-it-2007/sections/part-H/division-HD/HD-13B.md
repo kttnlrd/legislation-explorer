@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a company—
+**(1)** This section applies when a company—
 
 - (a) uses the AIM provisional tax method; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Agency**
 
-**(2)**  The company is treated as agent for the shareholder-employee for the purposes of the definition of residual income tax.
+**(2)** The company is treated as agent for the shareholder-employee for the purposes of the definition of residual income tax.
 
 **Relationship with subject matter**
 
-**(3)**  Section HD 2 does not apply to the agency, unless the agency does not arise only under this section.
+**(3)** Section HD 2 does not apply to the agency, unless the agency does not arise only under this section.
 
 *Defined in this Act: company, employment income, pay, shareholder-employee, tax*
 

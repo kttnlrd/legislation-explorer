@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of public project asset**
 
-**(1)**  Public project asset means an interest in an asset in New Zealand—
+**(1)** Public project asset means an interest in an asset in New Zealand—
 
 - (a) arising from a project performed under a contract—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Meaning of public project debt**
 
-**(2)**  Public project debt, for an excess debt entity and a project, means a total amount of debt, each part of which is for a loan to the excess debt entity, that—
+**(2)** Public project debt, for an excess debt entity and a project, means a total amount of debt, each part of which is for a loan to the excess debt entity, that—
 
 - (a) is applied by the excess debt entity to—
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Meaning of public project participant debt**
 
-**(3)**  Public project participant debt, for an excess debt entity and a project, means an amount of a loan that is—
+**(3)** Public project participant debt, for an excess debt entity and a project, means an amount of a loan that is—
 
 - (a) public project debt for the project; and
 

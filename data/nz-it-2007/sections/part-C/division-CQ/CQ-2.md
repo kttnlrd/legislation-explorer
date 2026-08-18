@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General rule**
 
-**(1)**  A person has attributed CFC income from a foreign company in an income year if—
+**(1)** A person has attributed CFC income from a foreign company in an income year if—
 
 - (a) the foreign company is a CFC at any time during 1 of its accounting periods, under sections EX 1 to EX 7 (which relate to the definition of a controlled foreign company); and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Special rule: taxable distributions under the attributable FIF income method**
 
-**(2)**  A person also has attributed CFC income if section EX 50(5) (Attributable FIF income method) applies because—
+**(2)** A person also has attributed CFC income if section EX 50(5) (Attributable FIF income method) applies because—
 
 - (a) the person has an attributing interest in a foreign investment fund (FIF); and
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Treated as derived while person New Zealand resident**
 
-**(3)**  Attributed CFC income of a person who has stopped being a New Zealand resident is treated as being derived while the person was a New Zealand resident.
+**(3)** Attributed CFC income of a person who has stopped being a New Zealand resident is treated as being derived while the person was a New Zealand resident.
 
 *Defined in this Act: accounting period, attributable CFC amount, attributed CFC income, attributable FIF income method, attributing interest, CFC, distribution, dividend, FIF, FIF income, foreign company, grey list, income, income interest, income year, net attributable CFC income, New Zealand resident, non-attributing active CFC, non-attributing Australian CFC, non-complying trust, portfolio investment entity, taxable distribution, transitional resident*
 

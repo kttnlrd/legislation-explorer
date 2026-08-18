@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section CB 24 (Disposal of timber or right to take timber) when timber, or a right to take timber, is transferred on a settlement of relationship property.
+**(1)** This section applies for the purposes of section CB 24 (Disposal of timber or right to take timber) when timber, or a right to take timber, is transferred on a settlement of relationship property.
 
 **Transfer at cost of timber at date of transfer**
 
-**(2)**  The transfer is treated as if—
+**(2)** The transfer is treated as if—
 
 - (a) it were a disposal and acquisition for consideration; and
 

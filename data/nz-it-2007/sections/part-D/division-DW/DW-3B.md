@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **No deductions**
 
-**(1)**  Lloyd's of London is denied a deduction for expenditure incurred in deriving income under section CR 3B (Lloyd's of London: income from life insurance premiums).
+**(1)** Lloyd's of London is denied a deduction for expenditure incurred in deriving income under section CR 3B (Lloyd's of London: income from life insurance premiums).
 
 **Link with subpart DA**
 
-**(2)**  This section overrides the general permission.
+**(2)** This section overrides the general permission.
 
 *Defined in this Act: deduction, general permission, income, Lloyd's of London, premium*
 

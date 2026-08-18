@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Common voting interests**
 
-**(1)**  Two companies are associated persons if a group of persons exists whose total voting interests in each company are 50% or more.
+**(1)** Two companies are associated persons if a group of persons exists whose total voting interests in each company are 50% or more.
 
 **Common market value interests**
 
-**(2)**  Two companies are associated persons if—
+**(2)** Two companies are associated persons if—
 
 - (a) a market value circumstance exists for either company; and
 
@@ -24,19 +24,19 @@ compilation_date: 2026-06-06
 
 **Common control by other means**
 
-**(3)**  Two companies are associated persons if a group of persons exists who control both companies by any other means.
+**(3)** Two companies are associated persons if a group of persons exists who control both companies by any other means.
 
 **General aggregation rule**
 
-**(4)**  For the purposes of subsections (1) to (3), and if subsection (5) does not apply, if a person (person A) and another person (person B) are associated under any of sections YB 4 to YB 14, person A is treated as holding anything held by person B.
+**(4)** For the purposes of subsections (1) to (3), and if subsection (5) does not apply, if a person (person A) and another person (person B) are associated under any of sections YB 4 to YB 14, person A is treated as holding anything held by person B.
 
 **Aggregation rule for land provisions**
 
-**(5)**  For the purposes of subsections (1) to (3) and the land provisions, if a person (person A) and another person (person B) are associated under any of sections YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, and YB 10 to YB 14, person A is treated as holding anything held by person B.
+**(5)** For the purposes of subsections (1) to (3) and the land provisions, if a person (person A) and another person (person B) are associated under any of sections YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, and YB 10 to YB 14, person A is treated as holding anything held by person B.
 
 **Exception for certain government entities**
 
-**(6)**  Subsection (3) does not apply to 2 companies if either or both are—
+**(6)** Subsection (3) does not apply to 2 companies if either or both are—
 
 - (a) a state enterprise:
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Exception for international tax rules**
 
-**(7)**  In the international tax rules, 2 companies are not associated persons if 1, but not both, is a non-resident.
+**(7)** In the international tax rules, 2 companies are not associated persons if 1, but not both, is a non-resident.
 
 **Exception for managed funds**
 
-**(8)**  For the purposes of the land provisions, 2 companies are not associated persons if either or both are—
+**(8)** For the purposes of the land provisions, 2 companies are not associated persons if either or both are—
 
 - (a) a portfolio investment entity:
 

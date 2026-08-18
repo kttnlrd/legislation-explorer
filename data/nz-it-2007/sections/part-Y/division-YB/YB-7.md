@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Association**
 
-**(1)**  A trustee of a trust and a trustee of another trust are associated persons if the same person is a settlor of both trusts.
+**(1)** A trustee of a trust and a trustee of another trust are associated persons if the same person is a settlor of both trusts.
 
 **Treatment of spouses and partners**
 
-**(2)**  For the purposes of this section, 2 persons who are married, in a civil union, or in a de facto relationship are treated as the same single person.
+**(2)** For the purposes of this section, 2 persons who are married, in a civil union, or in a de facto relationship are treated as the same single person.
 
 *Defined in this Act: associated person, settlor, trustee*
 

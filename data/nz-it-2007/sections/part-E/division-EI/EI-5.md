@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a lessor receives an amount of income under section CC 2 (Non-compliance with covenant for repair).
+**(1)** This section applies when a lessor receives an amount of income under section CC 2 (Non-compliance with covenant for repair).
 
 **Timing of income: if election made**
 
-**(2)**  The lessor may choose to allocate the income between the income year in which they receive the amount and any 1 or more of the following 4 income years.
+**(2)** The lessor may choose to allocate the income between the income year in which they receive the amount and any 1 or more of the following 4 income years.
 
 **Timing of income: if election not made**
 
-**(3)**  Any part of the amount that the lessor does not allocate as described in subsection (2) is allocated to the fourth income year following the income year in which they receive the amount.
+**(3)** Any part of the amount that the lessor does not allocate as described in subsection (2) is allocated to the fourth income year following the income year in which they receive the amount.
 
 **Notice**
 
-**(4)**  The following provisions apply to an allocation for the purposes of subsection (2):
+**(4)** The following provisions apply to an allocation for the purposes of subsection (2):
 
 - (a) the lessor must give a notice to the Commissioner that specifies how the income has been allocated; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections CC 2 and EI 6**
 
-**(5)**  This section overrides section CC 2(2) and is overridden by section EI 6.
+**(5)** This section overrides section CC 2(2) and is overridden by section EI 6.
 
 *Defined in this Act: amount, Commissioner, income, income year, notice, return of income*
 

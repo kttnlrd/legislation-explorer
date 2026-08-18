@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Interest, dividends, and certain distributions**
 
-**(1)**  Resident passive income means an amount paid to a person to the extent to which it consists of—
+**(1)** Resident passive income means an amount paid to a person to the extent to which it consists of—
 
 - (a) interest:
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Exclusions and inclusions**
 
-**(2)**  Subsections (3) to (5) override subsection (1).
+**(2)** Subsections (3) to (5) override subsection (1).
 
 **Exclusions from interest**
 
-**(3)**  The following amounts are excluded from interest under this section:
+**(3)** The following amounts are excluded from interest under this section:
 
 - (a) exempt interest:
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Inclusions in interest**
 
-**(4)**  For the purposes of this section, the following amounts are treated as interest and not as a dividend:
+**(4)** For the purposes of this section, the following amounts are treated as interest and not as a dividend:
 
 - (a) a dividend that a building society pays to a member in relation to a withdrawable share in the society:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Exclusions from dividends**
 
-**(5)**  The following amounts are excluded from a dividend under this section:
+**(5)** The following amounts are excluded from a dividend under this section:
 
 - (a) a dividend that is exempt income—
 
@@ -104,15 +104,15 @@ compilation_date: 2026-06-06
 
 **Beneficiary income**
 
-**(6)**  If a person derives an amount described in this section in their capacity as trustee and the amount is beneficiary income, the amount is treated as not derived by the trustee.
+**(6)** If a person derives an amount described in this section in their capacity as trustee and the amount is beneficiary income, the amount is treated as not derived by the trustee.
 
 **Trustees' RWT substitution payment**
 
-**(7)**  A trustee may pay an amount of money (the RWT substitution payment) to the relevant beneficiary that is equal to or less than the amount of RWT withheld for an amount to which subsection (6) applies (the RPI beneficiary income).
+**(7)** A trustee may pay an amount of money (the RWT substitution payment) to the relevant beneficiary that is equal to or less than the amount of RWT withheld for an amount to which subsection (6) applies (the RPI beneficiary income).
 
 **Effect of RWT substitution payment**
 
-**(8)**  The RWT substitution payment is treated as an amount of resident passive income that is beneficiary income, with the same nature as the RPI beneficiary income. There is no liability or obligation to withhold RWT in relation to the RWT substitution payment.
+**(8)** The RWT substitution payment is treated as an amount of resident passive income that is beneficiary income, with the same nature as the RPI beneficiary income. There is no liability or obligation to withhold RWT in relation to the RWT substitution payment.
 
 *Defined in this Act: amount, association rebate, beneficiary, beneficiary income, building society, Commissioner, company, dividend, excluded income, exempt income, exempt interest, friendly society, fully imputed, group investment fund, group of companies, imputation ratio, inflation-indexed instrument, interest, New Zealand, non-cash dividend, non-resident, non-resident passive income, pay, portfolio investment entity, replacement payment, resident passive income, RWT, RWT-exempt status, RWT proxy, RWT substitution payment, share, share-lending arrangement, source in New Zealand, tax pooling account, taxable Maori authority distribution, trustee, unit trust, withdrawable share*
 

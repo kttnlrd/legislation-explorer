@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an employer chooses to pay fringe benefit tax (FBT) under sections RD 47 to RD 53 (which relate to attributed fringe benefits and non-attributed fringe benefits).
+**(1)** This section applies when an employer chooses to pay fringe benefit tax (FBT) under sections RD 47 to RD 53 (which relate to attributed fringe benefits and non-attributed fringe benefits).
 
 **Result of calculations**
 
-**(2)**  If the result of the calculations of FBT on attributed fringe benefits or non-attributed fringe benefits is negative, the Commissioner must refund to the employer an amount equal to the deficiency.
+**(2)** If the result of the calculations of FBT on attributed fringe benefits or non-attributed fringe benefits is negative, the Commissioner must refund to the employer an amount equal to the deficiency.
 
 *Defined in this Act: amount, Commissioner, employer, FBT, pay*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(1)**  Two or more companies may choose to form an imputation group of companies if the companies are, at the time,—
+**(1)** Two or more companies may choose to form an imputation group of companies if the companies are, at the time,—
 
 - (a) a wholly-owned group of companies; and
 
@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 **Notifying Commissioner**
 
-**(2)**  The Commissioner must be notified of an election under subsection (1).
+**(2)** The Commissioner must be notified of an election under subsection (1).
 
 **Nominated company**
 
-**(3)**  A notice under subsection (2) must nominate 1 of the companies in the imputation group as its agent for the purposes of the imputation rules. In this subpart, the company is called the nominated company.
+**(3)** A notice under subsection (2) must nominate 1 of the companies in the imputation group as its agent for the purposes of the imputation rules. In this subpart, the company is called the nominated company.
 
 **Consolidated group companies**
 
-**(4)**  A nominated company of a consolidated group may notify the Commissioner that, having met the eligibility criteria in section FN 4, all the group companies have chosen—
+**(4)** A nominated company of a consolidated group may notify the Commissioner that, having met the eligibility criteria in section FN 4, all the group companies have chosen—
 
 - (a) to form an imputation group with eligible companies that are not part of the consolidated group; or
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Effective date**
 
-**(5)**  A notice under subsection (1) or (4) has effect from the start of the tax year in which the Commissioner receives the notice.
+**(5)** A notice under subsection (1) or (4) has effect from the start of the tax year in which the Commissioner receives the notice.
 
 *Defined in this Act: agent, Commissioner, company, consolidated group, imputation group, imputation rules, nominated company, notice, notify, tax year, wholly-owned group*
 

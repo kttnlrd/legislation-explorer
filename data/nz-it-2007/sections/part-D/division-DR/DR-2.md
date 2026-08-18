@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  If, but for this section, a life insurer has an amount of shareholder base allowable deduction for an income year and that amount is neither a deduction under this Part nor denied as a deduction under this Part, the amount is a deduction of the life insurer for the income year.
+**(1)** If, but for this section, a life insurer has an amount of shareholder base allowable deduction for an income year and that amount is neither a deduction under this Part nor denied as a deduction under this Part, the amount is a deduction of the life insurer for the income year.
 
 **No cross-deducting**
 
-**(2)**  A shareholder base allowable deduction is not allowed against policyholder base income.
+**(2)** A shareholder base allowable deduction is not allowed against policyholder base income.
 
 **Link with subpart DA**
 
-**(3)**  Subsections (1) and (2) override the general permission.
+**(3)** Subsections (1) and (2) override the general permission.
 
 *Defined in this Act: amount, deduction, general permission, income year, life insurer, policyholder base income, shareholder base allowable deduction*
 

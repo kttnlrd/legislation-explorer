@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  This section applies to a person who disposes of a fishing quota emissions unit other than by surrender.
+**(1)** This section applies to a person who disposes of a fishing quota emissions unit other than by surrender.
 
 **Excluded income: disposal**
 
-**(2)**  An amount of income that the person derives from the disposal is excluded income if, at the time of the disposal, the person would not derive income, other than exempt income or excluded income, from a disposal of the individual transferable quota to which the emissions unit relates.
+**(2)** An amount of income that the person derives from the disposal is excluded income if, at the time of the disposal, the person would not derive income, other than exempt income or excluded income, from a disposal of the individual transferable quota to which the emissions unit relates.
 
 *Defined in this Act: amount, emissions unit, excluded income, exempt income, fishing quota emissions unit*
 

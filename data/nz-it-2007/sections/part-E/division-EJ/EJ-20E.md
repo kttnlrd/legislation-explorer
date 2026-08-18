@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section DU 7 (Deduction for certain mining expenditure spread on basis of units of production) when a mineral miner—
+**(1)** This section applies for the purposes of section DU 7 (Deduction for certain mining expenditure spread on basis of units of production) when a mineral miner—
 
 - (a) incurs expenditure described in section DU 6(1)﻿(a) (Deduction for certain mining expenditure spread over assumed life of mine) on or in relation to their mining operations or associated mining operations in a mining permit area; and
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(2)**  The mineral miner may make an election to apply this section in relation to the permit area in a return of income for an income year that is the first year in which the miner's commercial production of a listed industrial mineral from the mining permit area starts. The election is irrevocable and applies only to expenditure referred to in subsection (1)﻿(a).
+**(2)** The mineral miner may make an election to apply this section in relation to the permit area in a return of income for an income year that is the first year in which the miner's commercial production of a listed industrial mineral from the mining permit area starts. The election is irrevocable and applies only to expenditure referred to in subsection (1)﻿(a).
 
 **Reserve depletion method**
 
-**(3)**  The deduction for the expenditure incurred by the mineral miner and allocated to an income year is calculated using the formula— (reserve expenditure − previous expenditure)× reserve depletion for the year ÷ proven and probable reserves.
+**(3)** The deduction for the expenditure incurred by the mineral miner and allocated to an income year is calculated using the formula— (reserve expenditure − previous expenditure)× reserve depletion for the year ÷ proven and probable reserves.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) reserve expenditure is the total amount of the mineral miner's expenditure described in section DU 6(1)﻿(a) for the permit area for the income year and earlier income years to which this section applies:
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Appropriate units of measure**
 
-**(5)**  In subsection (4)﻿(c) and (d), the amount must be expressed in an appropriate unit of measure as set out in the mineral miner's reserve statement, and must be the same measure used in the formula for the items defined in those paragraphs.
+**(5)** In subsection (4)﻿(c) and (d), the amount must be expressed in an appropriate unit of measure as set out in the mineral miner's reserve statement, and must be the same measure used in the formula for the items defined in those paragraphs.
 
 **Mines and mining permit areas**
 
-**(6)**  For the purposes of this section, a mineral miner may allocate expenditure for an income year under this section in relation to a mine rather than in relation to a mining permit area, but only if—
+**(6)** For the purposes of this section, a mineral miner may allocate expenditure for an income year under this section in relation to a mine rather than in relation to a mining permit area, but only if—
 
 - (a) the mineral miner uses IFRS rules to prepare their financial statements; and
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Transitional provision for existing mines**
 
-**(7)**  Despite subsection (2), a mineral miner may make an election to apply this section in relation to an existing permit area for the 2014–15 income year. The election is irrevocable and applies to expenditure incurred by the mineral miner in the permit area for the income year and later income years.
+**(7)** Despite subsection (2), a mineral miner may make an election to apply this section in relation to an existing permit area for the 2014–15 income year. The election is irrevocable and applies to expenditure incurred by the mineral miner in the permit area for the income year and later income years.
 
 *Defined in this Act: amount, associated mining operations, commercial production, Commissioner, deduction, financial statements, general permission, IFRS, income, income year, listed industrial mineral, mineral miner, mining operations, permit area, return of income*
 

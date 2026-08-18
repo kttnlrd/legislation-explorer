@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  The provisional tax rules means—
+**(1)** The provisional tax rules means—
 
 - (a) this subpart; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(2)**  The provisional tax rules apply to a person who is required or who chooses to pay provisional tax.
+**(2)** The provisional tax rules apply to a person who is required or who chooses to pay provisional tax.
 
 *Defined in this Act: provisional tax, provisional tax rules*
 

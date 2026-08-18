@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Transfers of company value from company**
 
-**(1)**  A transfer of company value from a company to a person is a dividend if—
+**(1)** A transfer of company value from a company to a person is a dividend if—
 
 - (a) the cause of the transfer is a shareholding in the company, as described in section CD 6; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Calculation rules**
 
-**(2)**  Sections CD 38 to CD 42 apply for the purposes of calculating the amount of the dividend.
+**(2)** Sections CD 38 to CD 42 apply for the purposes of calculating the amount of the dividend.
 
 *Defined in this Act: company, dividend, transfer of company value*
 

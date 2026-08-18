@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an entering partner has acquired specified livestock that includes female breeding livestock for which section HG 10 (Disposal of livestock) applies, and the partners use the cost price method or the national standard cost scheme.
+**(1)** This section applies when an entering partner has acquired specified livestock that includes female breeding livestock for which section HG 10 (Disposal of livestock) applies, and the partners use the cost price method or the national standard cost scheme.
 
 **Existing cost base**
 
-**(2)**  For the specified livestock, the entering partner is treated as having the same existing cost base that the exiting partner would have had for the purposes of the cost price method or national standard cost scheme for an income year, if they had not disposed of the interests.
+**(2)** For the specified livestock, the entering partner is treated as having the same existing cost base that the exiting partner would have had for the purposes of the cost price method or national standard cost scheme for an income year, if they had not disposed of the interests.
 
 **Addition to cost base**
 
-**(3)**  For the purposes of determining the value of the specified livestock at the end of an income year for the purposes of section EC 2, the entering partner must add to the existing cost base, described in subsection (2), the amount for the income year (the current year) calculated using the following formula: livestock cost base difference × current year count ÷ allowed years.
+**(3)** For the purposes of determining the value of the specified livestock at the end of an income year for the purposes of section EC 2, the entering partner must add to the existing cost base, described in subsection (2), the amount for the income year (the current year) calculated using the following formula: livestock cost base difference × current year count ÷ allowed years.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) livestock cost base difference is the cost base that the entering partner would have for the specified livestock at the end of the income year in which the acquisition of the specified livestock occurred, ignoring subsection (2) reduced by the entering partner's existing cost base for the specified livestock at the end of that year, described in subsection (2). It must be a positive number:
 

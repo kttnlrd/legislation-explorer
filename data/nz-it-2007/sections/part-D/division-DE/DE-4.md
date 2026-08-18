@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person has not maintained actual records to show the proportion of business use of a motor vehicle; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction**
 
-**(2)**  The deduction under section DE 2 for expenditure or loss incurred is limited to the lesser of—
+**(2)** The deduction under section DE 2 for expenditure or loss incurred is limited to the lesser of—
 
 - (a) the proportion of actual business use of the vehicle; and
 

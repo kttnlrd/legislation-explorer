@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **How much tax?**
 
-**(1)**  The total amount (RLWT) that the relevant person described in section RL 2 or RL 3 must pay or withhold for residential land purchase amounts is equal to the lesser of the amounts described in subsections (2), (4), and (6). The RLWT is paid or withheld for each residential land purchase amount, up to the maximum of the relevant residential land purchase amount. All amounts in this section are GST exclusive.
+**(1)** The total amount (RLWT) that the relevant person described in section RL 2 or RL 3 must pay or withhold for residential land purchase amounts is equal to the lesser of the amounts described in subsections (2), (4), and (6). The RLWT is paid or withheld for each residential land purchase amount, up to the maximum of the relevant residential land purchase amount. All amounts in this section are GST exclusive.
 
 **Calculation of amount**
 
-**(2)**  For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula— RLWT rate × (current purchase price − vendor's acquisition cost).
+**(2)** For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula— RLWT rate × (current purchase price − vendor's acquisition cost).
 
 **Definition of items in formula**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) RLWT rate means the rate provided in schedule 1, part A, clause 1, table 1, row 5 or, if the vendor is a company that is not acting as a trustee, the rate provided in schedule 1, part A, clause 2:
 
@@ -30,19 +30,19 @@ compilation_date: 2026-06-06
 
 **Calculation of amount**
 
-**(4)**  For the purposes of subsection (1), the amount is calculated using the formula— 0.10 × current purchase price.
+**(4)** For the purposes of subsection (1), the amount is calculated using the formula— 0.10 × current purchase price.
 
 **Definition of item in formula**
 
-**(5)**  In the formula in subsection (4), current purchase price has the same meaning as in subsection (3)﻿(b).
+**(5)** In the formula in subsection (4), current purchase price has the same meaning as in subsection (3)﻿(b).
 
 **Calculation of amount**
 
-**(6)**  For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula— current purchase price − security discharge amount − outstanding rates.
+**(6)** For the purposes of subsection (1), the amount is the greater of zero and the amount calculated using the formula— current purchase price − security discharge amount − outstanding rates.
 
 **Definition of items in formula**
 
-**(7)**  In the formula in subsection (6),—
+**(7)** In the formula in subsection (6),—
 
 - (a) current purchase price has the same meaning as in subsection (3)﻿(b):
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **A definition**
 
-**(8)**  In this section, licensed security holder means a person who has a mortgage or other security over the relevant residential land, if that person is—
+**(8)** In this section, licensed security holder means a person who has a mortgage or other security over the relevant residential land, if that person is—
 
 - (a) a registered bank:
 

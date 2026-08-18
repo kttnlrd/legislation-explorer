@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Threshold for excess debt entity**
 
-**(1)**  An excess debt entity must apportion its interest expenditure for an income year under section FE 6 if,—
+**(1)** An excess debt entity must apportion its interest expenditure for an income year under section FE 6 if,—
 
 - (a) the excess debt entity is none of an excess debt outbound company, an excess debt entity with a worldwide group given by section FE 31D, and a trustee who is described in section FE 2(1)﻿(g), and—
 
@@ -112,7 +112,7 @@ compilation_date: 2026-06-06
 
 **Threshold for reporting bank**
 
-**(2)**  A reporting bank must apportion its interest expenditure for an income year under section FE 7 if—
+**(2)** A reporting bank must apportion its interest expenditure for an income year under section FE 7 if—
 
 - (a) the New Zealand net equity of its New Zealand banking group for a tax year is less than its equity threshold; and
 
@@ -120,7 +120,7 @@ compilation_date: 2026-06-06
 
 **Threshold for natural person**
 
-**(3)**  A natural person must apportion their interest expenditure for an income year under section FE 6 if,—
+**(3)** A natural person must apportion their interest expenditure for an income year under section FE 6 if,—
 
 - (a) they are not described in section FE 2(1)﻿(g), and the debt percentage of their New Zealand group for the income year is more than 60%; or
 
@@ -128,11 +128,11 @@ compilation_date: 2026-06-06
 
 **Debt percentages**
 
-**(4)**  The debt percentage of a New Zealand group is calculated under sections FE 14 to FE 16. The debt percentage of a worldwide group is calculated under sections FE 17 and FE 18.
+**(4)** The debt percentage of a New Zealand group is calculated under sections FE 14 to FE 16. The debt percentage of a worldwide group is calculated under sections FE 17 and FE 18.
 
 **Equity threshold, net equity, group funding debt**
 
-**(5)**  The calculations that a reporting bank must make for the purposes of section FE 7 are set out as follows:
+**(5)** The calculations that a reporting bank must make for the purposes of section FE 7 are set out as follows:
 
 - (a) for the banking group's equity threshold, see section FE 19:
 

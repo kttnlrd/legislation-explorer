@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Withholding amount of tax**
 
-**(1)**  A person who makes a payment of non-resident passive income must withhold the amount of tax for the payment and pay it to the Commissioner. The obligation to withhold arises under section RA 6(2) (Withholding and payment obligations for passive income) at the time of payment.
+**(1)** A person who makes a payment of non-resident passive income must withhold the amount of tax for the payment and pay it to the Commissioner. The obligation to withhold arises under section RA 6(2) (Withholding and payment obligations for passive income) at the time of payment.
 
 **Payments derived by non-resident partners**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  Despite subsection (1), no obligation to withhold NRWT arises in relation to an amount treated as a dividend under section GB 1(3) (Arrangements involving dividend stripping).
+**(2)** Despite subsection (1), no obligation to withhold NRWT arises in relation to an amount treated as a dividend under section GB 1(3) (Arrangements involving dividend stripping).
 
 *Defined in this Act: amount, amount of tax, Commissioner, dividend, interest, limited partner, limited partnership, New Zealand, non-resident, non-resident passive income, NRWT, pay*
 

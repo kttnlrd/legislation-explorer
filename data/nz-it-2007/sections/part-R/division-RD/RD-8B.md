@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an employer pays an amount (a PAYE-related overpayment) to an employee and—
+**(1)** This section applies when an employer pays an amount (a PAYE-related overpayment) to an employee and—
 
 - (a) the amount is paid—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Treatment of amount**
 
-**(2)**  To the extent to which the amount is an unrepaid PAYE income overpayment, the amount is treated as follows:
+**(2)** To the extent to which the amount is an unrepaid PAYE income overpayment, the amount is treated as follows:
 
 - (a) as salary or wages, if the amount is treated as described in subsection (1)﻿(b)﻿(i):
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Meaning of unrepaid PAYE income overpayment**
 
-**(3)**  An unrepaid PAYE income overpayment—
+**(3)** An unrepaid PAYE income overpayment—
 
 - (a) means an amount that—
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Amounts repayable under breached repayment agreements**
 
-**(4)**  For the purposes of subsection (3)﻿(a)﻿(iii), an amount that is repayable to the employer by the employee under an agreement (the agreement) between them is treated as an amount that is not repayable to the employer by the employee under an agreement between them if—
+**(4)** For the purposes of subsection (3)﻿(a)﻿(iii), an amount that is repayable to the employer by the employee under an agreement (the agreement) between them is treated as an amount that is not repayable to the employer by the employee under an agreement between them if—
 
 - (a) the employee breaches the agreement and does not remedy the breach within 2 months:
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(5)**  An amount referred to in subsection (1) does not include—
+**(5)** An amount referred to in subsection (1) does not include—
 
 - (a) an amount that is income of the employee under section CB 32 (Property obtained by theft):
 
@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 **Employers who use PAYE intermediaries**
 
-**(6)**  In this section, employer includes a PAYE intermediary.
+**(6)** In this section, employer includes a PAYE intermediary.
 
 *Defined in this Act: amount, employee, employer, exempt income, extra pay, pay, PAYE intermediary, PAYE-related overpayment, salary or wages, schedular payment, unrepaid PAYE income overpayment*
 

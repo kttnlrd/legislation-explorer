@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person calculates FIF income from an attributing interest in a FIF for an income year (the current year) under the fair dividend rate method.
+**(1)** This section applies when a person calculates FIF income from an attributing interest in a FIF for an income year (the current year) under the fair dividend rate method.
 
 **When person must use fair dividend rate periodic method**
 
-**(2)**  A person must use the fair dividend rate periodic method under section EX 53 for the attributing interest for the current year if the person—
+**(2)** A person must use the fair dividend rate periodic method under section EX 53 for the attributing interest for the current year if the person—
 
 - (a) is a unit trust or other entity that—
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **When person must use fair dividend rate annual method**
 
-**(3)**  A person must use the fair dividend rate annual method for the attributing interest for the current year if the person uses for the attributing interest—
+**(3)** A person must use the fair dividend rate annual method for the attributing interest for the current year if the person uses for the attributing interest—
 
 - (a) the fair dividend rate annual method for the income year ending before the beginning of the current year; and
 

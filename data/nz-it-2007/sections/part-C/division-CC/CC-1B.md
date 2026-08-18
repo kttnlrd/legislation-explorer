@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the payee) derives an amount—
+**(1)** This section applies when a person (the payee) derives an amount—
 
 - (a) in relation to a right (the land right) that is—
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount is income of the payee.
+**(2)** The amount is income of the payee.
 
 **Exception for payment as consideration for transfer of land right**
 
-**(3)**  The amount is not income of the payee if—
+**(3)** The amount is not income of the payee if—
 
 - (a) the payee is the holder of the land right; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Exception for tenant or licensee of residential premises**
 
-**(4)**  The amount is not income of the payee if the payee—
+**(4)** The amount is not income of the payee if the payee—
 
 - (a) is a natural person and derives the amount as a tenant or licensee of residential premises whose expenditure on the residential premises does not meet the requirements of the general permission; and
 
@@ -52,11 +52,11 @@ compilation_date: 2026-06-06
 
 **Exception for payment of capital contribution**
 
-**(5)**  The amount is not income of the payee if the amount is derived as a capital contribution.
+**(5)** The amount is not income of the payee if the amount is derived as a capital contribution.
 
 **Exception for payment as consideration for grant of permanent easement**
 
-**(6)**  The amount is not income of the payee if—
+**(6)** The amount is not income of the payee if—
 
 - (a) the payee is the owner of a fee simple estate in land; and
 

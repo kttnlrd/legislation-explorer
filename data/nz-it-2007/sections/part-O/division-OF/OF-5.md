@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(1)**  An ASC account company may choose that some or all of the credit balance in the company's ASC account is transferred to the company's imputation credit account.
+**(1)** An ASC account company may choose that some or all of the credit balance in the company's ASC account is transferred to the company's imputation credit account.
 
 **Debit and credit**
 
-**(2)**  The amount of the credit balance transferred is—
+**(2)** The amount of the credit balance transferred is—
 
 - (a) an ASC debit for the full amount of the credit balance transferred; and
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Table references**
 
-**(3)**  The ASC debit in subsection (2)﻿(a) is referred to in table O12: ASC debits, row 2 (transfer to imputation credit account). The imputation credit in subsection (2)﻿(b) is referred to in table O1: imputation credits, row 16 (transfer from ASC account).
+**(3)** The ASC debit in subsection (2)﻿(a) is referred to in table O12: ASC debits, row 2 (transfer to imputation credit account). The imputation credit in subsection (2)﻿(b) is referred to in table O1: imputation credits, row 16 (transfer from ASC account).
 
 **Amount**
 
-**(4)**  The amount of the credit to the imputation credit account is calculated using the formula— credit balance × maximum imputation ratio.
+**(4)** The amount of the credit to the imputation credit account is calculated using the formula— credit balance × maximum imputation ratio.
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) credit balance is some or all of the credit balance in the company's ASC account that the ASC account company chooses to use:
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Timing of election**
 
-**(6)**  An election under subsection (1) may be made at any time when the company is an imputation credit account (ICA) company.
+**(6)** An election under subsection (1) may be made at any time when the company is an imputation credit account (ICA) company.
 
 **Manner of election**
 
-**(7)**  A company makes an election under subsection (1) by recording the credit balance transferred as—
+**(7)** A company makes an election under subsection (1) by recording the credit balance transferred as—
 
 - (a) a debit in the company's ASC account; and
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Debit date**
 
-**(8)**  The debit date is—
+**(8)** The debit date is—
 
 - (a) the day of election; or
 

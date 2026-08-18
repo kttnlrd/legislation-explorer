@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a company that is part of a consolidated group derives an amount that would not be income of the company in the absence of this section, but would be income of the consolidated group if it were 1 company either—
+**(1)** This section applies when a company that is part of a consolidated group derives an amount that would not be income of the company in the absence of this section, but would be income of the consolidated group if it were 1 company either—
 
 - (a) because of a purpose for which an item of property was acquired; or
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount is income of the company under section CV 2 (Consolidated groups: income of company in group).
+**(2)** The amount is income of the company under section CV 2 (Consolidated groups: income of company in group).
 
 **Relationship with sections CB 15C and CB 15D**
 
-**(3)**  This section is overridden by sections CB 15C(2) and CB 15D(2) (which apply to bodies linked or associated with a local authority or companies in the same wholly-owned group as Kāinga Ora–Homes and Communities).
+**(3)** This section is overridden by sections CB 15C(2) and CB 15D(2) (which apply to bodies linked or associated with a local authority or companies in the same wholly-owned group as Kāinga Ora–Homes and Communities).
 
 *Defined in this Act: amount, business, company, consolidated group, income*
 

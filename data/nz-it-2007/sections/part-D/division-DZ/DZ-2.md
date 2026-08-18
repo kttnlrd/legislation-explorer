@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a life insurer started carrying on the business of providing life insurance on or before the last day of the 1988–89 income year; and
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(2)**  The life insurer is allowed a deduction for the amount quantified in section EZ 1 (Life insurers acquiring property before 1 April 1988).
+**(2)** The life insurer is allowed a deduction for the amount quantified in section EZ 1 (Life insurers acquiring property before 1 April 1988).
 
 **Meaning of superannuation policy**
 
-**(3)**  Superannuation policy means a life insurance policy—
+**(3)** Superannuation policy means a life insurance policy—
 
 - (a) that—
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(4)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: amount, business, capital limitation, deduction, depreciation loss, financial arrangements rules, general limitation, general permission, income year, life insurance, Life Insurance Fund, life insurance policy, life insurer, old financial arrangements rules, pay, property, superannuation category 1 scheme, superannuation fund, superannuation policy, superannuation scheme*
 

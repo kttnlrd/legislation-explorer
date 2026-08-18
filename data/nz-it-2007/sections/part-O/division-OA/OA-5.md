@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section defines the credits that arise under this Part in a memorandum account.
+**(1)** This section defines the credits that arise under this Part in a memorandum account.
 
 **Imputation credits**
 
-**(2)**  A credit is an imputation credit if it is an amount—
+**(2)** A credit is an imputation credit if it is an amount—
 
 - (a) set out in any of sections OA 7, OB 4 to OB 29, and OP 7 to OP 27:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Branch equivalent tax credits**
 
-**(5)**  A credit is a branch equivalent tax credit if it is an amount, for a BETA person,—
+**(5)** A credit is a branch equivalent tax credit if it is an amount, for a BETA person,—
 
 - (a) set out in section OA 7 or OE 19:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **ASC credits**
 
-**(6)**  A credit is an ASC credit if it is an amount—
+**(6)** A credit is an ASC credit if it is an amount—
 
 - (a) set out in section OA 7 or OF 4:
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Maori authority credits**
 
-**(8)**  A credit is a Maori authority credit if it is an amount—
+**(8)** A credit is a Maori authority credit if it is an amount—
 
 - (a) set out in any of sections OA 7 and OK 2 to OK 9:
 

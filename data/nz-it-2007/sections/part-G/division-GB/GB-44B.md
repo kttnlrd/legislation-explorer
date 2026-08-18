@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person enters into an arrangement; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Credit reduced**
 
-**(2)**  A tax credit under subpart MH is reduced to the amount the Commissioner considers would have arisen had the arrangement not occurred.
+**(2)** A tax credit under subpart MH is reduced to the amount the Commissioner considers would have arisen had the arrangement not occurred.
 
 *Defined in this Act: amount, arrangement, Commissioner, tax credit*
 

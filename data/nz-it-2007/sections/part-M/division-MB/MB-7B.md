@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purpose of determining the amount that represents the family scheme income of a person to whom section MB 8 does not apply for an income year when the person has an employer who makes available—
+**(1)** This section applies for the purpose of determining the amount that represents the family scheme income of a person to whom section MB 8 does not apply for an income year when the person has an employer who makes available—
 
 - (a) a motor vehicle for the person's private use when, under the terms of the person's employment, the person would be entitled to a greater amount of employment income should the person choose, or have chosen, not to receive the benefit of the motor vehicle:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **What is included in family scheme income**
 
-**(2)**  The person's family scheme income for the income year includes an amount equal to the total for the person and the income year of amounts, each of which is—
+**(2)** The person's family scheme income for the income year includes an amount equal to the total for the person and the income year of amounts, each of which is—
 
 - (a) the amount by which the employment income of the person would be greater in the absence of a benefit referred to in subsection (1)﻿(a):
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Calculating fringe benefit tax on benefit**
 
-**(3)**  In calculating under subsection (2)﻿(b) the amount of fringe benefit tax on a benefit, the person may use—
+**(3)** In calculating under subsection (2)﻿(b) the amount of fringe benefit tax on a benefit, the person may use—
 
 - (a) the rate of fringe benefit tax used by the person's employer in calculating the fringe benefit tax payable on the benefit:
 

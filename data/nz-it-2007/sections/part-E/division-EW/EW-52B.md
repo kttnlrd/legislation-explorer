@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to an arrangement that is an excepted financial arrangement under section EW 5(11C) and under which—
+**(1)** This section applies to an arrangement that is an excepted financial arrangement under section EW 5(11C) and under which—
 
 - (a) the holder (the unit holder) of a pre-1990 forest land emissions unit (the original unit) is required to make an assignment of the original unit (the security assignment) to a person who is not an associated person (the lender); and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Unit holder treated as continuing to hold pre-1990 forest land emissions unit**
 
-**(2)**  The unit holder is treated as continuing to hold a pre-1990 forest land emissions unit for the period beginning with the day on which the arrangement begins and ending with the day given by subsection (3) for the security assignment, subject to subsections (4) and (5).
+**(2)** The unit holder is treated as continuing to hold a pre-1990 forest land emissions unit for the period beginning with the day on which the arrangement begins and ending with the day given by subsection (3) for the security assignment, subject to subsections (4) and (5).
 
 **Timely security return**
 
-**(3)**  Subsection (4) applies if the security return occurs on or before the day that is the earlier of—
+**(3)** Subsection (4) applies if the security return occurs on or before the day that is the earlier of—
 
 - (a) the day on which the security return is required under the arrangement:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Effect of timely security return**
 
-**(4)**  If the unit holder receives a returned unit under the arrangement on or before the day given by subsection (3),—
+**(4)** If the unit holder receives a returned unit under the arrangement on or before the day given by subsection (3),—
 
 - (a) the returned unit is treated as being the original unit; and
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Effect of failure to make timely security return**
 
-**(5)**  If the unit holder does not receive a returned unit under the arrangement on or before the day given by subsection (3),—
+**(5)** If the unit holder does not receive a returned unit under the arrangement on or before the day given by subsection (3),—
 
 - (a) the original unit is treated as being assigned to the lender on the day of the security assignment; and
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section ED 1**
 
-**(6)**  Subsections (4)﻿(c) and (d) and (5)﻿(c) override sections EA 1(4)﻿(c) and ED 1 (which relate to the valuation of excepted financial arrangements).
+**(6)** Subsections (4)﻿(c) and (d) and (5)﻿(c) override sections EA 1(4)﻿(c) and ED 1 (which relate to the valuation of excepted financial arrangements).
 
 *Defined in this Act: arrangement, associated person, emissions unit, excepted financial arrangement, New Zealand emissions unit, pre-1990 forest land emissions unit*
 

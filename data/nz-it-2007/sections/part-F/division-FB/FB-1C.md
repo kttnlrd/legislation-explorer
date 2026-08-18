@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Obligations relating to period before transfer**
 
-**(1)**  A transferor of property on a settlement of relationship property remains responsible for all tax obligations relating to the property and the period ending immediately before the transfer.
+**(1)** A transferor of property on a settlement of relationship property remains responsible for all tax obligations relating to the property and the period ending immediately before the transfer.
 
 **Obligations relating to period from transfer**
 
-**(2)**  In determining the tax obligations relating to property transferred on a settlement of relationship property and the period beginning with the transfer,—
+**(2)** In determining the tax obligations relating to property transferred on a settlement of relationship property and the period beginning with the transfer,—
 
 - (a) the transferee is treated as—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections FB 2 to FB 21**
 
-**(3)**  Sections FB 2 to FB 21 override this section.
+**(3)** Sections FB 2 to FB 21 override this section.
 
 *Defined in this Act: property, settlement of relationship property, tax*
 

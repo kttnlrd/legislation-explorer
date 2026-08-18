@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of asset**
 
-**(1)**  For the purposes of this subpart, an asset, for an income year, means an item of property described in subsection (2) held by a person described in subsection (3) to the extent to which the item—
+**(1)** For the purposes of this subpart, an asset, for an income year, means an item of property described in subsection (2) held by a person described in subsection (3) to the extent to which the item—
 
 - (a) is used by the person in the income year partly to derive income and partly for private use; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **What items of property?**
 
-**(2)**  Subsection (1) applies to an asset that, in the complete form in which the person uses it for income-earning purposes,—
+**(2)** Subsection (1) applies to an asset that, in the complete form in which the person uses it for income-earning purposes,—
 
 - (a) is 1 of the following:
 
@@ -44,11 +44,11 @@ compilation_date: 2026-06-06
 
 **Which persons?**
 
-**(3)**  A person excludes a company other than a close company.
+**(3)** A person excludes a company other than a close company.
 
 **Exclusions**
 
-**(4)**  Despite subsection (2), an asset is excluded from the operation of the rules in this subpart if—
+**(4)** Despite subsection (2), an asset is excluded from the operation of the rules in this subpart if—
 
 - (a) the use of the asset meets the following criteria:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Meaning of market value**
 
-**(5)**  For the purposes of this subpart, other than subsection (2)﻿(b)﻿(ii), market value means the price at which the asset is provided for use at a particular time or for a particular season—
+**(5)** For the purposes of this subpart, other than subsection (2)﻿(b)﻿(ii), market value means the price at which the asset is provided for use at a particular time or for a particular season—
 
 - (a) in the open market; and
 
@@ -74,11 +74,11 @@ compilation_date: 2026-06-06
 
 **Partnerships and look-through companies**
 
-**(6)**  For the purposes of this section, if the asset is held through a partnership or a look-through company, the value of the interests in the asset held by all the partners in the partnership or all the shareholders in the look-through company, as applicable, is aggregated.
+**(6)** For the purposes of this section, if the asset is held through a partnership or a look-through company, the value of the interests in the asset held by all the partners in the partnership or all the shareholders in the look-through company, as applicable, is aggregated.
 
 **What constitutes use**
 
-**(7)**  For the purposes of this subpart, the use of an asset is the active use of the asset for its intended purpose.
+**(7)** For the purposes of this subpart, the use of an asset is the active use of the asset for its intended purpose.
 
 *Defined in this Act: amount, asset, business, close company, company, deduction, fringe benefit tax, income, income tax, income year, land, look-through company, market value, partnership, private use, shareholder, tax, trustee, working day*
 

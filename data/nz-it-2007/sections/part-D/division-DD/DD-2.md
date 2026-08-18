@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What rule applies to**
 
-**(1)**  The expenditure to which the limitation rule applies is expenditure on the forms of entertainment described in subsections (2) to (6).
+**(1)** The expenditure to which the limitation rule applies is expenditure on the forms of entertainment described in subsections (2) to (6).
 
 **Corporate boxes**
 
-**(2)**  The limitation rule—
+**(2)** The limitation rule—
 
 - (a) applies to deductions for expenditure on corporate boxes, corporate marquees or tents, or other exclusive areas, whether temporary or permanent, at—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Holiday accommodation**
 
-**(3)**  The limitation rule—
+**(3)** The limitation rule—
 
 - (a) applies to deductions for expenditure on accommodation in a holiday home, time-share apartment, or similar leisure venue; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Pleasure craft**
 
-**(4)**  The limitation rule—
+**(4)** The limitation rule—
 
 - (a) applies to deductions for expenditure on yachts or other pleasure craft; and
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Entertainment off premises**
 
-**(5)**  The limitation rule applies to deductions for expenditure on food and drink that a person provides off their business premises.
+**(5)** The limitation rule applies to deductions for expenditure on food and drink that a person provides off their business premises.
 
 **Entertainment on premises**
 
-**(6)**  The limitation rule applies to deductions for expenditure on food and drink that a person provides, other than light refreshments such as a morning tea and whether or not guests are present,—
+**(6)** The limitation rule applies to deductions for expenditure on food and drink that a person provides, other than light refreshments such as a morning tea and whether or not guests are present,—
 
 - (a) on their business premises at a celebration meal, party, reception, or other similar social function:
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Meaning of expenditure**
 
-**(7)**  Expenditure includes,—
+**(7)** Expenditure includes,—
 
 - (a) in subsections (2) to (4),—
 

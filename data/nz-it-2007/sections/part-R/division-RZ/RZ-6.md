@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **ICA companies**
 
-**(1)**  If an imputation credit account (ICA) company has a refund of income tax, and an amount paid in excess is dealt with under section RM 16(2)﻿(c) (Treatment of amounts not refunded), the amount may be used only for a tax year commencing after the 1988–89 tax year, whether that is before or after the year of that entitlement.
+**(1)** If an imputation credit account (ICA) company has a refund of income tax, and an amount paid in excess is dealt with under section RM 16(2)﻿(c) (Treatment of amounts not refunded), the amount may be used only for a tax year commencing after the 1988–89 tax year, whether that is before or after the year of that entitlement.
 
 **Maori authorities**
 
-**(2)**  If a Maori authority has a refund of income tax, and an amount paid in excess is dealt with under section RM 22(4)﻿(b) (Limits on refunds for Maori authorities), the amount may be used only for a tax year commencing after the 2004–05 tax year, whether that is before or after the year of that entitlement.
+**(2)** If a Maori authority has a refund of income tax, and an amount paid in excess is dealt with under section RM 22(4)﻿(b) (Limits on refunds for Maori authorities), the amount may be used only for a tax year commencing after the 2004–05 tax year, whether that is before or after the year of that entitlement.
 
 *Defined in this Act: amount, ICA company, income tax, Maori authority, tax year*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a mineral miner—
+**(1)** This section applies when a mineral miner—
 
 - (a) incurs expenditure described in section DU 6(1)﻿(a) on or in relation to their mining operations or associated mining operations in a mining permit area; and
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **No deduction (with exception)**
 
-**(2)**  The mineral miner is denied a deduction for the expenditure except to the extent quantified and allocated under section EJ 20E.
+**(2)** The mineral miner is denied a deduction for the expenditure except to the extent quantified and allocated under section EJ 20E.
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(3)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: associated mining operations, capital limitation, Commissioner, deduction, financial statement, general limitation, general permission, IFRS, income, mineral miner, mining operations, permit area*
 

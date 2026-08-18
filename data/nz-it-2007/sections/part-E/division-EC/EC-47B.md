@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) high-priced bloodstock is removed from New Zealand before being—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Treatment as disposal**
 
-**(2)**  The person is treated as having disposed of the high-priced bloodstock.
+**(2)** The person is treated as having disposed of the high-priced bloodstock.
 
 *Defined in this Act: deduction, high-priced bloodstock, New Zealand, prospective bloodstock breeder*
 

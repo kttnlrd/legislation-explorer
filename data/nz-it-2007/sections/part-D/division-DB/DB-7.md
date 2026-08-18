@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A company is allowed a deduction for interest incurred.
+**(1)** A company is allowed a deduction for interest incurred.
 
 **Exclusion: qualifying company**
 
-**(2)**  Subsection (1) does not apply to a qualifying company.
+**(2)** Subsection (1) does not apply to a qualifying company.
 
 **Exclusion: exempt income**
 
-**(3)**  If a company (company A) derives exempt income or another company (company B) that is part of the same wholly-owned group of companies derives exempt income, subsection (1) applies to company A only if all the exempt income is 1 or more of the following:
+**(3)** If a company (company A) derives exempt income or another company (company B) that is part of the same wholly-owned group of companies derives exempt income, subsection (1) applies to company A only if all the exempt income is 1 or more of the following:
 
 - (a) dividends:
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Exclusion: non-resident company**
 
-**(4)**  If a company is a non-resident company, subsection (1) applies only to the extent to which the company incurs interest in the course of carrying on a business through a fixed establishment in New Zealand.
+**(4)** If a company is a non-resident company, subsection (1) applies only to the extent to which the company incurs interest in the course of carrying on a business through a fixed establishment in New Zealand.
 
 **Exclusion: interest related to tax**
 
-**(5)**  Subsection (1) does not apply to interest for which a person is denied a deduction under section DB 1.
+**(5)** Subsection (1) does not apply to interest for which a person is denied a deduction under section DB 1.
 
 **Consolidated groups**
 
-**(6)**  Section FM 12 (Expenditure when deduction would be denied to consolidated group) may apply to allow a deduction under this section to a company that is part of a consolidated group.
+**(6)** Section FM 12 (Expenditure when deduction would be denied to consolidated group) may apply to allow a deduction under this section to a company that is part of a consolidated group.
 
 **Relationship with subpart DE**
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(8)**  This section supplements the general permission and overrides the capital limitation, the exempt income limitation, and the withholding tax limitation. The other general limitations still apply.
+**(8)** This section supplements the general permission and overrides the capital limitation, the exempt income limitation, and the withholding tax limitation. The other general limitations still apply.
 
 *Defined in this Act: business, capital limitation, close company, company, consolidated group, deduction, dividend, exempt income, exempt income limitation, FBT rules, fixed establishment, general limitation, general permission, income, interest, New Zealand, non-resident company, qualifying company, supplement, wholly-owned group of companies, withholding tax limitation*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  A person who uses IFRSs to prepare financial statements and to report for financial arrangements must use 1 of the following methods for the financial arrangement:
+**(1)** A person who uses IFRSs to prepare financial statements and to report for financial arrangements must use 1 of the following methods for the financial arrangement:
 
 - (a) the IFRS financial reporting method in section EW 15D:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  Subsection (1) does not apply in the circumstances set out in sections EW 15H and EW 15I.
+**(2)** Subsection (1) does not apply in the circumstances set out in sections EW 15H and EW 15I.
 
 *Defined in this Act: fair value method, financial arrangement, financial statements, IFRS*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an excess debt entity is required under section FE 7B (Interest on public project debt for certain excess debt entities) to apportion its interest expenditure arising from public project debt.
+**(1)** This section applies when an excess debt entity is required under section FE 7B (Interest on public project debt for certain excess debt entities) to apportion its interest expenditure arising from public project debt.
 
 **Income**
 
-**(2)**  The amount calculated under section FE 7B(3) is income of the excess debt entity for the income year.
+**(2)** The amount calculated under section FE 7B(3) is income of the excess debt entity for the income year.
 
 *Defined in this Act: amount, excess debt entity, income, income year, interest, public project debt*
 

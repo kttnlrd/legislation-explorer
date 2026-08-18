@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section identifies the subparts in this Act that deal with exempt income and excluded income.
+**(1)** This section identifies the subparts in this Act that deal with exempt income and excluded income.
 
 **Exempt income**
 
-**(2)**  An amount of income of a person is exempt income if it is their exempt income under a provision in subpart CW (Exempt income) or CZ (Terminating provisions).
+**(2)** An amount of income of a person is exempt income if it is their exempt income under a provision in subpart CW (Exempt income) or CZ (Terminating provisions).
 
 **Excluded income**
 
-**(3)**  An amount of income of a person is excluded income if—
+**(3)** An amount of income of a person is excluded income if—
 
 - (a) it is their excluded income under a provision in subpart CX (Excluded income) or CZ; and
 

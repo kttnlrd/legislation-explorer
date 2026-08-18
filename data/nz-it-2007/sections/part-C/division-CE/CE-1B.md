@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Value of accommodation**
 
-**(1)**  The value of accommodation provided to a person is income of the person when it is provided in relation to their employment or service. The value is an amount equal to the market rental value of the accommodation.
+**(1)** The value of accommodation provided to a person is income of the person when it is provided in relation to their employment or service. The value is an amount equal to the market rental value of the accommodation.
 
 **Value of accommodation allowances**
 
-**(2)**  The value of an accommodation allowance provided to a person is income of the person when it is provided in relation to their employment or service. The value is equal to the amount of the allowance paid to the person.
+**(2)** The value of an accommodation allowance provided to a person is income of the person when it is provided in relation to their employment or service. The value is equal to the amount of the allowance paid to the person.
 
 **Payments and reimbursements**
 
-**(3)**  An amount paid for or towards the provision of accommodation for a person, whether as expenditure on account of an employee or as a reimbursement, is income of the person when it is paid in relation to their employment or service.
+**(3)** An amount paid for or towards the provision of accommodation for a person, whether as expenditure on account of an employee or as a reimbursement, is income of the person when it is paid in relation to their employment or service.
 
 **Adjustments to values**
 
-**(4)**  The value under subsection (1) may be adjusted as follows:
+**(4)** The value under subsection (1) may be adjusted as follows:
 
 - (a) when more than 1 person referred to in that subsection shares in the accommodation provided, the amount may be—
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Adjustments: allowances and amounts paid**
 
-**(5)**  Subsection (4)﻿(b) and (c) may apply to adjust the value of an accommodation allowance or an amount paid for or towards the provision of accommodation under subsections (2) and (3).
+**(5)** Subsection (4)﻿(b) and (c) may apply to adjust the value of an accommodation allowance or an amount paid for or towards the provision of accommodation under subsections (2) and (3).
 
 **Exceptions**
 
-**(6)**  Sections CE 1C and CE 1E override this section.
+**(6)** Sections CE 1C and CE 1E override this section.
 
 *Defined in this Act: accommodation, amount, business, employer, employment, expenditure on account of an employee, income, pay*
 

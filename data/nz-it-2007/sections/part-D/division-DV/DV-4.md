@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) the expenditure treated as being incurred by the master superannuation fund, under section DV 2(3), is more than the maximum amount for which it is allowed a deduction, as calculated under section DV 3, so there is surplus expenditure; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Surplus carried forward**
 
-**(3)**  The member superannuation fund carries the surplus expenditure forward to the next income year and takes the following steps:
+**(3)** The member superannuation fund carries the surplus expenditure forward to the next income year and takes the following steps:
 
 - (a) it gets the combined expenditure by adding the surplus expenditure to the expenditure, if any, incurred by it in the income year that it chooses to treat as being incurred by the master superannuation fund:
 
@@ -46,27 +46,27 @@ compilation_date: 2026-06-06
 
 **Surplus dealt with until gone**
 
-**(4)**  The member superannuation fund repeats the steps in subsection (3) for the following income years until all surplus expenditure is deducted.
+**(4)** The member superannuation fund repeats the steps in subsection (3) for the following income years until all surplus expenditure is deducted.
 
 **Deduction allowed to master superannuation fund**
 
-**(5)**  Expenditure treated under subsection (3)﻿(c)﻿(i) as incurred by the master superannuation fund in deriving income is allowed as a deduction in the income year in which it is so treated. The amount of the deduction is limited by subsection (6).
+**(5)** Expenditure treated under subsection (3)﻿(c)﻿(i) as incurred by the master superannuation fund in deriving income is allowed as a deduction in the income year in which it is so treated. The amount of the deduction is limited by subsection (6).
 
 **Amount of deduction**
 
-**(6)**  The maximum amount of a deduction under subsection (5) is the maximum deduction for the income year, calculated using the formula in section DV 3.
+**(6)** The maximum amount of a deduction under subsection (5) is the maximum deduction for the income year, calculated using the formula in section DV 3.
 
 **Deducted expenditure not incurred by member superannuation fund**
 
-**(7)**  Expenditure for which the master superannuation fund is allowed a deduction is treated as not being incurred by the member superannuation fund.
+**(7)** Expenditure for which the master superannuation fund is allowed a deduction is treated as not being incurred by the member superannuation fund.
 
 **Sequential deductions**
 
-**(8)**  Expenditure for which the master superannuation fund is allowed a deduction must be deducted in sequence according to the income year in which the member superannuation fund incurred it.
+**(8)** Expenditure for which the master superannuation fund is allowed a deduction must be deducted in sequence according to the income year in which the member superannuation fund incurred it.
 
 **Link with subpart DA**
 
-**(9)**  The link between this section and subpart DA (General rules) is as follows:
+**(9)** The link between this section and subpart DA (General rules) is as follows:
 
 - (a) subsection (5) supplements the general permission and overrides the capital limitation; the other general limitations still apply:
 

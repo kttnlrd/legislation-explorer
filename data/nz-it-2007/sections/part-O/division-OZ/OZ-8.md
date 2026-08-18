@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a company pays a dividend in the transitional period; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Rate applying for transitional period**
 
-**(2)**  If the amount of the imputation credit attached to the dividend is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the company may choose to treat the item tax rate in the formula in section OA 18(2) as 30%.
+**(2)** If the amount of the imputation credit attached to the dividend is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the company may choose to treat the item tax rate in the formula in section OA 18(2) as 30%.
 
 *Defined in this Act: amount, company, dividend, imputation credit, imputation credit account, income, maximum permitted ratio, tax credit, tax year, transitional period*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) an amount is paid or payable in a currency other than New Zealand currency; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Use of spot exchange rate**
 
-**(2)**  The amount must be converted into New Zealand currency by applying the close of trading spot exchange rate on the date at which the amount is required to be measured or calculated.
+**(2)** The amount must be converted into New Zealand currency by applying the close of trading spot exchange rate on the date at which the amount is required to be measured or calculated.
 
 **Alternative use of monthly average rates**
 
-**(3)**  Despite subsection (2), the amount may be converted into New Zealand currency by applying the average of the close of trading spot exchange rates for the 15th day of each complete month that falls in the relevant period if—
+**(3)** Despite subsection (2), the amount may be converted into New Zealand currency by applying the average of the close of trading spot exchange rates for the 15th day of each complete month that falls in the relevant period if—
 
 - (a) the Commissioner allows it:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **General conversion rates and calculation methods approved by Commissioner**
 
-**(5)**  Despite subsection (2), the amount may be converted into New Zealand currency by applying a rate—
+**(5)** Despite subsection (2), the amount may be converted into New Zealand currency by applying a rate—
 
 - (a) set by the Commissioner for general use for the purposes of this section:
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Specific conversion rates and calculation methods approved by Commissioner**
 
-**(6)**  Despite subsection (2), a person may convert the amount into New Zealand currency by applying a rate—
+**(6)** Despite subsection (2), a person may convert the amount into New Zealand currency by applying a rate—
 
 - (a) approved by the Commissioner for use in the circumstances of the person:
 

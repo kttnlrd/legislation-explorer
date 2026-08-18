@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section sets out when a person may choose to use the revenue account method to calculate FIF income or loss from an attributing interest in a FIF for an income year.
+**(1)** This section sets out when a person may choose to use the revenue account method to calculate FIF income or loss from an attributing interest in a FIF for an income year.
 
 **Revenue account method**
 
-**(2)**  A person may use the revenue account method to calculate FIF income or loss from an attributing interest in a FIF only if—
+**(2)** A person may use the revenue account method to calculate FIF income or loss from an attributing interest in a FIF only if—
 
 - (a) either—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Revenue account method for previously held interests**
 
-**(3)**  Despite subsection (2), a person may also use the revenue account method to calculate FIF income or loss from an attributing interest in a FIF if—
+**(3)** Despite subsection (2), a person may also use the revenue account method to calculate FIF income or loss from an attributing interest in a FIF if—
 
 - (a) the person is a New Zealand resident who is not treated as non-resident under a double tax agreement and is not a transitional resident (a returning resident); and
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Revenue account method for certain transferred interests**
 
-**(4)**  Despite subsection (2), a person may also use the revenue account method to calculate FIF income or loss from an attributing interest in a FIF if—
+**(4)** Despite subsection (2), a person may also use the revenue account method to calculate FIF income or loss from an attributing interest in a FIF if—
 
 - (a) the person is a natural person; and
 
@@ -66,11 +66,11 @@ compilation_date: 2026-06-06
 
 **Revenue account method for previously eligible RAM interests**
 
-**(5)**  Despite subsection (2), if a person holds an attributing interest in a FIF that is a RAM interest for which they use the revenue account method to calculate the FIF income or loss of the interest and that interest ceases to be a RAM interest, the person may continue to use the revenue account method to calculate the FIF income or loss of that interest.
+**(5)** Despite subsection (2), if a person holds an attributing interest in a FIF that is a RAM interest for which they use the revenue account method to calculate the FIF income or loss of the interest and that interest ceases to be a RAM interest, the person may continue to use the revenue account method to calculate the FIF income or loss of that interest.
 
 **Meaning of RAM interest**
 
-**(6)**  RAM interest, for a person,—
+**(6)** RAM interest, for a person,—
 
 - (a) means an attributing interest in a FIF if—
 
@@ -96,7 +96,7 @@ compilation_date: 2026-06-06
 
 **Meaning of extended RAM interest**
 
-**(7)**  Extended RAM interest, for a person who is an extended RAM taxpayer, means an attributing interest in a FIF—
+**(7)** Extended RAM interest, for a person who is an extended RAM taxpayer, means an attributing interest in a FIF—
 
 - (a) that is a share in a foreign company; and
 
@@ -104,7 +104,7 @@ compilation_date: 2026-06-06
 
 **Meaning of excluded RAM interest**
 
-**(8)**  Excluded RAM interest, for a person, means a RAM interest or extended RAM interest for which the person—
+**(8)** Excluded RAM interest, for a person, means a RAM interest or extended RAM interest for which the person—
 
 - (a) chooses to use the attributable FIF income method under section EX 46(3); or
 
@@ -112,7 +112,7 @@ compilation_date: 2026-06-06
 
 **Meaning of RAM taxpayer**
 
-**(9)**  RAM taxpayer means—
+**(9)** RAM taxpayer means—
 
 - (a) a natural person who—
 
@@ -136,7 +136,7 @@ compilation_date: 2026-06-06
 
 **Meaning of extended RAM taxpayer**
 
-**(10)**  Extended RAM taxpayer means—
+**(10)** Extended RAM taxpayer means—
 
 - (a) a natural person who—
 
@@ -160,7 +160,7 @@ compilation_date: 2026-06-06
 
 **Transitional provision for transitional residents before 1 April 2024**
 
-**(11)**  For the purposes of subsections (9)﻿(a)﻿(ii) and (10)﻿(a)﻿(ii), a person is treated as becoming New Zealand resident on or after 1 April 2024 if the person became New Zealand resident before that date but was a transitional resident and only stopped being a transitional resident on or after 1 April 2024.
+**(11)** For the purposes of subsections (9)﻿(a)﻿(ii) and (10)﻿(a)﻿(ii), a person is treated as becoming New Zealand resident on or after 1 April 2024 if the person became New Zealand resident before that date but was a transitional resident and only stopped being a transitional resident on or after 1 April 2024.
 
 *Defined in this Act: amount, attributing interest, comparative value method, complying trust, deemed rate of return method, double tax agreement, excluded RAM interest, exempt income, extended RAM interest, extended RAM taxpayer, FIF, FIF income, FIF loss, foreign company, gifting settlor, income, income year, loss, natural person, New Zealand, New Zealand resident, non-resident, principal settlor, RAM interest, RAM taxpayer, recognised exchange, revenue account method, share, superannuation scheme, tax, transitional resident, trustee*
 

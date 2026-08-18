@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person (the payer) incurs an amount of expenditure as consideration for the agreement by another person (the payee) to the grant, renewal, extension, or transfer of a right (the land right) that is a leasehold estate not including a perpetual right of renewal, or is a licence to use land; and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(2)**  The payer is allowed a deduction for the amount.
+**(2)** The payer is allowed a deduction for the amount.
 
 **Relationship with subpart DA**
 
-**(3)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(3)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: amount, capital limitation, deduction, estate, general limitation, general permission, land, leasehold estate, own*
 

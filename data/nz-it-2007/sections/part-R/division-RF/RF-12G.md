@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the first income year in which the borrower is party to a financial arrangement described in section RF 2C(1)﻿(b).
+**(1)** This section applies for the first income year in which the borrower is party to a financial arrangement described in section RF 2C(1)﻿(b).
 
 **Elections related to de minimis**
 
-**(2)**  The borrower may choose to disregard the application of the related-party de minimis referred to in section RF 2C(3).
+**(2)** The borrower may choose to disregard the application of the related-party de minimis referred to in section RF 2C(3).
 
 **Elections related to deferral calculation**
 
-**(3)**  Despite section RF 2C(4), if the result of the deferral calculation by the borrower is, or is treated as, more than 90%, they may choose to disregard the application of the calculation for an arrangement—
+**(3)** Despite section RF 2C(4), if the result of the deferral calculation by the borrower is, or is treated as, more than 90%, they may choose to disregard the application of the calculation for an arrangement—
 
 - (a) that is for a period of more than 12 months; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Making elections**
 
-**(4)**  The election must be made by notifying the Commissioner by the earlier of—
+**(4)** The election must be made by notifying the Commissioner by the earlier of—
 
 - (a) the first day on which interest described in section RF 2(1)﻿(a)﻿(iv) is paid:
 

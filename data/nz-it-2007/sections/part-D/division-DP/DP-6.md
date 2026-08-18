@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(1)**  A person who has made a forestry encouragement agreement under the Forestry Encouragement Act 1962 is denied a deduction for an amount equal to the amount from which they are relieved in the following circumstances:
+**(1)** A person who has made a forestry encouragement agreement under the Forestry Encouragement Act 1962 is denied a deduction for an amount equal to the amount from which they are relieved in the following circumstances:
 
 - (a) an advance is made to the person under the agreement; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(2)**  This section overrides the general permission.
+**(2)** This section overrides the general permission.
 
 *Defined in this Act: amount, deduction, exempt income, general permission, pay*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  In section DO 6, replaced area fraction, for a planting and an income year, means the amount calculated using the formula— (replacement area ÷ plot area) × 100%.
+**(1)** In section DO 6, replaced area fraction, for a planting and an income year, means the amount calculated using the formula— (replacement area ÷ plot area) × 100%.
 
 **Definition of items in formula**
 
-**(2)**  In the formula in subsection (1),—
+**(2)** In the formula in subsection (1),—
 
 - (a) replacement area is the area, at the end of the income year, of the part of the plot on which listed horticultural plants in the planting are planted or regrafted during the income year as replacement plants:
 

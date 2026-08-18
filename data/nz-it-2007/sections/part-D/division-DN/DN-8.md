@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction: FIF not elective attributing FIF**
 
-**(1)**  The deduction that a person is allowed in an income year for a FIF loss from a FIF (the first FIF) that is not an elective attributing FIF for the person in the income year is no more than the total of—
+**(1)** The deduction that a person is allowed in an income year for a FIF loss from a FIF (the first FIF) that is not an elective attributing FIF for the person in the income year is no more than the total of—
 
 - (a) total attributed CFC income of the person for the income year from CFCs, each of which is resident in the same country as the first FIF for the relevant accounting period:
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Income only once**
 
-**(2)**  When subsection (1) or (1B) is applied to a FIF loss, an amount of attributed CFC income or FIF income may be used only to the extent to which the income is not used when applying—
+**(2)** When subsection (1) or (1B) is applied to a FIF loss, an amount of attributed CFC income or FIF income may be used only to the extent to which the income is not used when applying—
 
 - (a) subsection (1) or (1B) to another FIF loss; or
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section IQ 3**
 
-**(3)**  Any excess not able to be deducted because of subsection (1) or (1B) is a FIF net loss able to be used under section IQ 3 (Ring-fencing cap on FIF net losses).
+**(3)** Any excess not able to be deducted because of subsection (1) or (1B) is a FIF net loss able to be used under section IQ 3 (Ring-fencing cap on FIF net losses).
 
 *Defined in this Act: accounting period, amount, attributed CFC income, attributable FIF income method, attributed CFC loss, CFC, deduction, election commencement year, elective attributing CFC, elective attributing FIF, FIF, FIF income, FIF loss, FIF net loss, income year*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for expenditure that they incur in acquiring a film right, if the film is completed, whether it is completed before, at the time, or after the film right is acquired.
+**(1)** A person is allowed a deduction for expenditure that they incur in acquiring a film right, if the film is completed, whether it is completed before, at the time, or after the film right is acquired.
 
 **Exclusion**
 
-**(2)**  This section does not apply to expenditure that a person incurs in acquiring a film right if—
+**(2)** This section does not apply to expenditure that a person incurs in acquiring a film right if—
 
 - (a) the person operates a television station, a television network, or a cable television system, and the film right is acquired mainly to enable the film to be broadcast in New Zealand; or
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(3)**  The deduction is allocated under section EJ 4 (Expenditure incurred in acquiring film rights in feature films) or EJ 5 (Expenditure incurred in acquiring film rights in films other than feature films).
+**(3)** The deduction is allocated under section EJ 4 (Expenditure incurred in acquiring film rights in feature films) or EJ 5 (Expenditure incurred in acquiring film rights in films other than feature films).
 
 **No other deduction**
 
-**(4)**  No other deduction for expenditure incurred in acquiring a film right is allowed under a provision of this Act other than section DS 2B.
+**(4)** No other deduction for expenditure incurred in acquiring a film right is allowed under a provision of this Act other than section DS 2B.
 
 **Avoidance arrangements**
 
-**(5)**  The amount of the deduction may be reduced under—
+**(5)** The amount of the deduction may be reduced under—
 
 - (a) section GB 17 (Excessive amounts for film rights or production expenditure):
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(6)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(6)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: arrangement, capital limitation, completed, deduction, film, film production expenditure, film right, general limitation, general permission, New Zealand*
 

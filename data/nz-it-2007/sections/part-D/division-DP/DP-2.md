@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies: first case**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person incurs expenditure on acquiring, on or after 1 April 1975, plant or machinery; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **When this section applies: second case**
 
-**(2)**  This section also applies when—
+**(2)** This section also applies when—
 
 - (a) a person carrying on a forestry business on land in New Zealand incurs expenditure on acquiring, on or after 1 April 1975, plant or machinery; and
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(3)**  The person is allowed a deduction for an amount of depreciation loss for the plant or machinery.
+**(3)** The person is allowed a deduction for an amount of depreciation loss for the plant or machinery.
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(4)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: acquire, amount, business, capital limitation, deduction, depreciation loss, forestry business, general limitation, general permission, New Zealand*
 

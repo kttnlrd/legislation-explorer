@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Financial arrangement means an arrangement described in any of subsections (2) to (4).
+**(1)** Financial arrangement means an arrangement described in any of subsections (2) to (4).
 
 **Money received for money provided**
 
-**(2)**  A financial arrangement is an arrangement under which a person receives money in consideration for that person, or another person, providing money to any person—
+**(2)** A financial arrangement is an arrangement under which a person receives money in consideration for that person, or another person, providing money to any person—
 
 - (a) at a future time; or
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Examples of money received for money provided**
 
-**(3)**  Without limiting subsection (2), each of the following is a financial arrangement:
+**(3)** Without limiting subsection (2), each of the following is a financial arrangement:
 
 - (a) a debt, including a debt that arises by law:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Excepted financial arrangement ceasing to be excepted**
 
-**(4)**  For sections EW 7 and EW 8,—
+**(4)** For sections EW 7 and EW 8,—
 
 - (a) an excepted financial arrangement that ceases to be an excepted financial arrangement through the operation of section EW 7 is a financial arrangement:
 

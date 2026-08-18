@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **No deduction for premiums under certain policies**
 
-**(1)**  A life insurer is denied a deduction for life reinsurance premiums they incur if the relevant life reinsurance policy,—
+**(1)** A life insurer is denied a deduction for life reinsurance premiums they incur if the relevant life reinsurance policy,—
 
 - (a) was not offered in New Zealand; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **No deduction for premiums to certain life reinsurers**
 
-**(2)**  A life insurer is denied a deduction for a life reinsurance premium incurred under a life reinsurance policy with a life reinsurer who is resident in a country or territory outside New Zealand if the life reinsurance premium is excluded from taxation by New Zealand under a double tax agreement between New Zealand and the country or territory.
+**(2)** A life insurer is denied a deduction for a life reinsurance premium incurred under a life reinsurance policy with a life reinsurer who is resident in a country or territory outside New Zealand if the life reinsurance premium is excluded from taxation by New Zealand under a double tax agreement between New Zealand and the country or territory.
 
 *Defined in this Act: deduction, double tax agreement, life insurer, life reinsurance, life reinsurance policy, life reinsurer, New Zealand*
 

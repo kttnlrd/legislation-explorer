@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person (person A) gives an undertaking that restricts, or is intended to restrict, their ability to perform services as an employee, office holder, or independent contractor, whether or not the undertaking is legally enforceable; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount is income of person A.
+**(2)** The amount is income of person A.
 
 **Exclusion**
 
-**(3)**  Subsection (2) does not apply if—
+**(3)** Subsection (2) does not apply if—
 
 - (a) person A derives the amount because person A or an associated person sells a business to another person (person B); and
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Sale of all shares in company**
 
-**(4)**  For the purposes of subsection (3),—
+**(4)** For the purposes of subsection (3),—
 
 - (a) the sale of a business includes the sale of shares in a company, but only if the sale is of all the shares in the company held by person A or an associated person and the company—
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Sale of part of business**
 
-**(5)**  For the purposes of subsection (3), the sale of a business includes the sale of part of a business, if the part can be operated separately.
+**(5)** For the purposes of subsection (3), the sale of a business includes the sale of part of a business, if the part can be operated separately.
 
 **Avoidance arrangements**
 
-**(6)**  Section GB 30 (Arrangements to avoid taxation of restrictive covenant payments) may apply to treat an amount as income under this section.
+**(6)** Section GB 30 (Arrangements to avoid taxation of restrictive covenant payments) may apply to treat an amount as income under this section.
 
 *Defined in this Act: amount, arrangement, associated person, business, company, employee, income, share*
 

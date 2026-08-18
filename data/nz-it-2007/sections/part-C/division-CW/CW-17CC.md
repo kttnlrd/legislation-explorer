@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  An amount that an employer pays to or on behalf of an employee for distinctive work clothing for the employee is exempt income of the employee.
+**(1)** An amount that an employer pays to or on behalf of an employee for distinctive work clothing for the employee is exempt income of the employee.
 
 **Distinctive work clothing**
 
-**(2)**  For the purposes of this section, distinctive work clothing has the meaning set out in section CX 30 (Distinctive work clothing).
+**(2)** For the purposes of this section, distinctive work clothing has the meaning set out in section CX 30 (Distinctive work clothing).
 
 **Certain plain clothes included**
 
-**(3)**  Despite subsection (2), for the purposes of subsection (4), the wearing of distinctive work clothing by an employee includes the wearing of plain clothes that would normally be worn for private purposes if—
+**(3)** Despite subsection (2), for the purposes of subsection (4), the wearing of distinctive work clothing by an employee includes the wearing of plain clothes that would normally be worn for private purposes if—
 
 - (a) their employer provides a uniform to employees; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Exempt amount**
 
-**(4)**  The amount that the employer pays to or on behalf of the employee as an allowance for the plain clothes is exempt income of the employee.
+**(4)** The amount that the employer pays to or on behalf of the employee as an allowance for the plain clothes is exempt income of the employee.
 
 *Defined in this Act: amount, distinctive work clothing, employee, employer, employment, exempt income, pay*
 

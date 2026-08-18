@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Trustees treated as notional single person**
 
-**(1)**  All the trustees of a trust holding a share or an option over a share in a company under the trust are treated as the same notional single person that is—
+**(1)** All the trustees of a trust holding a share or an option over a share in a company under the trust are treated as the same notional single person that is—
 
 - (a) not a company; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exception to subsection (1)**
 
-**(2)**  Subsection (1) does not apply if any of the following has a purpose or effect of defeating the intent and application of a continuity provision:
+**(2)** Subsection (1) does not apply if any of the following has a purpose or effect of defeating the intent and application of a continuity provision:
 
 - (a) the establishment of the trust:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Change in ownership of corporate trustee**
 
-**(3)**  Subsection (4) applies if—
+**(3)** Subsection (4) applies if—
 
 - (a) any share in a company (the first company) or option over a share in the first company is held by a trustee; and
 
@@ -52,11 +52,11 @@ compilation_date: 2026-06-06
 
 **Trustee treated as disposing of share or option**
 
-**(4)**  The trustee is treated as having disposed of the share or option in the first company, at the time of the disposal, issue, or grant, to an unrelated person and having immediately reacquired the share or option.
+**(4)** The trustee is treated as having disposed of the share or option in the first company, at the time of the disposal, issue, or grant, to an unrelated person and having immediately reacquired the share or option.
 
 **Avoidance**
 
-**(5)**  Section GB 5 (Arrangements involving trust beneficiaries) may apply to treat a share or option held by a trustee as being disposed of at the time of a change in trust beneficiaries.
+**(5)** Section GB 5 (Arrangements involving trust beneficiaries) may apply to treat a share or option held by a trustee as being disposed of at the time of a change in trust beneficiaries.
 
 *Defined in this Act: company, continuity provisions, market value interest, share, statutory trustee company, trustee, voting interest*
 

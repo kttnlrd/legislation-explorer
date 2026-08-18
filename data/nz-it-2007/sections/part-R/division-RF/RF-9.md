@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections RF 8, RF 10, RF 11B, and RF 11BB to determine the extent to which a dividend is fully imputed.
+**(1)** This section applies for the purposes of sections RF 8, RF 10, RF 11B, and RF 11BB to determine the extent to which a dividend is fully imputed.
 
 **Fully imputed**
 
-**(2)**  The extent to which a dividend is fully imputed is calculated using the formula— (imputation credit amount + supplementary dividend amount)× (1 − tax rate) ÷ tax rate.
+**(2)** The extent to which a dividend is fully imputed is calculated using the formula— (imputation credit amount + supplementary dividend amount)× (1 − tax rate) ÷ tax rate.
 
 **Definition of items in formula**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) imputation credit amount is the amount of an imputation credit attached to the dividend:
 

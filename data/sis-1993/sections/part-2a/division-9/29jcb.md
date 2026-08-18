@@ -18,16 +18,16 @@ source_pdf: "part1.pdf"
 approval
 
 <a id="s29JCB-1"></a>
-**(1)**  A person commits an offence if:
+**(1)** A person commits an offence if:
 
 > <a id="s29JCB-1-a"></a>
-> **(a)**  the person holds a controlling stake in an RSE licensee; and
+> **(a)** the person holds a controlling stake in an RSE licensee; and
 
 > <a id="s29JCB-1-b"></a>
-> **(b)**  the person does not have approval under section 29HD to hold a controlling stake in the RSE licensee. Penalty: 400 penalty units for each day on which the person holds a controlling stake in the RSE licensee without approval.
+> **(b)** the person does not have approval under section 29HD to hold a controlling stake in the RSE licensee. Penalty: 400 penalty units for each day on which the person holds a controlling stake in the RSE licensee without approval.
 
 <a id="s29JCB-2"></a>
-**(2)**  Strict liability applies to subsection (1).
+**(2)** Strict liability applies to subsection (1).
 
 ---
 *Last updated: 2025-01-09 (Compilation 126)*

@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person who has a tax credit under section LE 1 is the beneficiary of a trust and, in that capacity, derives a dividend with an imputation credit attached.
+**(1)** This section applies when a person who has a tax credit under section LE 1 is the beneficiary of a trust and, in that capacity, derives a dividend with an imputation credit attached.
 
 **Limitation on amount of credit**
 
-**(2)**  The person's credit and imputation credit is limited to an amount calculated using the formula— (person's distributions ÷ trust distributions)× (total beneficiary credits − person's supplementary dividend).
+**(2)** The person's credit and imputation credit is limited to an amount calculated using the formula— (person's distributions ÷ trust distributions)× (total beneficiary credits − person's supplementary dividend).
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) person's distributions is the total distributions for the tax year made to the person in their capacity as beneficiary of the trust:
 

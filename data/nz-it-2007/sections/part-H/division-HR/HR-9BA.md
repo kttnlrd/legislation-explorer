@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **How elections made**
 
-**(1)**  An originator makes an election referred to in section HR 9 by—
+**(1)** An originator makes an election referred to in section HR 9 by—
 
 - (a) after the formation of the debt funding special purpose vehicle and before the return of income referred to in paragraph (b), notifying the Commissioner that the originator chooses to have the liabilities and obligations referred to in section HR 9 that the special purpose vehicle would have in the absence of the election; or
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Effect of election**
 
-**(2)**  An election under this section—
+**(2)** An election under this section—
 
 - (a) cannot be revoked; and
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section HZ 9**
 
-**(3)**  This section is overridden by section HZ 9.
+**(3)** This section is overridden by section HZ 9.
 
 *Defined in this Act: company, debt funding special purpose vehicle, income, originator, return of income, trustee*
 

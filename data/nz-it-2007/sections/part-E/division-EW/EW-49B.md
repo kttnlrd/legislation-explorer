@@ -12,23 +12,23 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a guarantor pays an amount under a guarantee (a guarantee payment) for an associated person's debt (the debtor) to the debtor's creditor.
+**(1)** This section applies when a guarantor pays an amount under a guarantee (a guarantee payment) for an associated person's debt (the debtor) to the debtor's creditor.
 
 **Repayment**
 
-**(2)**  For the debtor, the amount of the guarantee payment is treated as consideration paid or payable by the debtor for the debt.
+**(2)** For the debtor, the amount of the guarantee payment is treated as consideration paid or payable by the debtor for the debt.
 
 **New debt**
 
-**(3)**  If the guarantor has recourse to the debtor in relation to the guarantee payment, the guarantor is treated as providing the debtor with an interest-free loan for the amount of the guarantee payment.
+**(3)** If the guarantor has recourse to the debtor in relation to the guarantee payment, the guarantor is treated as providing the debtor with an interest-free loan for the amount of the guarantee payment.
 
 **No consideration paid**
 
-**(4)**  For the guarantor, the guarantee payment is treated as not being consideration paid or payable by the guarantor.
+**(4)** For the guarantor, the guarantee payment is treated as not being consideration paid or payable by the guarantor.
 
 **Repayment: income and deduction**
 
-**(5)**  If the debtor later repays the guarantor more than the guarantee payment, the excess paid by the debtor is—
+**(5)** If the debtor later repays the guarantor more than the guarantee payment, the excess paid by the debtor is—
 
 - (a) income, under section CC 3(1) (Financial arrangements), of the guarantor; and
 

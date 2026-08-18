@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections YC 2 to YC 6 to a company that is a special corporate entity.
+**(1)** This section applies for the purposes of sections YC 2 to YC 6 to a company that is a special corporate entity.
 
 **Company treated as issuing shares**
 
-**(2)**  If no shares have been issued by the special corporate entity, it is treated as having issued shares that carry all shareholder decision-making rights and all other rights of ownership in relation to the special corporate entity.
+**(2)** If no shares have been issued by the special corporate entity, it is treated as having issued shares that carry all shareholder decision-making rights and all other rights of ownership in relation to the special corporate entity.
 
 **Who is treated as shareholder?**
 
-**(3)**  The shares are treated as held by—
+**(3)** The shares are treated as held by—
 
 - (a) the members for the time being of the special corporate entity, if any:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Persons also treated as holding related rights**
 
-**(4)**  The persons treated under subsection (3) as holding the shares are also treated as holding—
+**(4)** The persons treated under subsection (3) as holding the shares are also treated as holding—
 
 - (a) any options over the shares; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Shareholders treated as notional single person existing with entity**
 
-**(5)**  The members, directors, or Ministers are treated as holding their shares and related rights—
+**(5)** The members, directors, or Ministers are treated as holding their shares and related rights—
 
 - (a) in their capacity as members, directors, or Ministers; and
 

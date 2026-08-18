@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a retirement scheme contributor or retirement savings scheme does not withhold an amount of tax for a retirement scheme contribution under section RH 2(4).
+**(1)** This section applies when a retirement scheme contributor or retirement savings scheme does not withhold an amount of tax for a retirement scheme contribution under section RH 2(4).
 
 **Calculation of amount**
 
-**(2)**  The amount is calculated using the formula— (tax rate ÷ (1 − tax rate) × contribution to scheme) − tax already paid.
+**(2)** The amount is calculated using the formula— (tax rate ÷ (1 − tax rate) × contribution to scheme) − tax already paid.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) tax rate is the rate of RSCT for the person set out in schedule 1, part D, clause 7 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **New Zealand resident**
 
-**(1)**  A company that is resident in New Zealand is a company (an ICA company) that must establish and maintain an imputation credit account for a tax year. Subsection (2) overrides this subsection.
+**(1)** A company that is resident in New Zealand is a company (an ICA company) that must establish and maintain an imputation credit account for a tax year. Subsection (2) overrides this subsection.
 
 **Exclusions**
 
-**(2)**  A company that is resident in New Zealand is excluded from being an ICA company if it is—
+**(2)** A company that is resident in New Zealand is excluded from being an ICA company if it is—
 
 - (a) a company that—
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section lists the types of income that are treated as having a source in New Zealand for the purposes of this Act.
+**(1)** This section lists the types of income that are treated as having a source in New Zealand for the purposes of this Act.
 
 **Business in New Zealand**
 
-**(2)**  Income derived from a business has a source in New Zealand if—
+**(2)** Income derived from a business has a source in New Zealand if—
 
 - (a) the business is wholly carried on in New Zealand:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Contracts made or performed in New Zealand**
 
-**(3)**  Income derived by a person from a contract has a source in New Zealand if the contract is—
+**(3)** Income derived by a person from a contract has a source in New Zealand if the contract is—
 
 - (a) made in New Zealand, except to the extent to which the person wholly or partly performs the contract outside New Zealand, and the income is apportioned to a source outside New Zealand under section YD 5:
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Personal services in New Zealand**
 
-**(4)**  An amount that is income under section CE 1 (Amounts derived in connection with employment) has a source in New Zealand if the amount is earned in New Zealand, even if the employer is not a New Zealand resident.
+**(4)** An amount that is income under section CE 1 (Amounts derived in connection with employment) has a source in New Zealand if the amount is earned in New Zealand, even if the employer is not a New Zealand resident.
 
 **Accident compensation payments**
 
-**(5)**  An accident compensation payment as defined in section CF 1(2) (Benefits, pensions, compensation, and government grants) has a source in New Zealand.
+**(5)** An accident compensation payment as defined in section CF 1(2) (Benefits, pensions, compensation, and government grants) has a source in New Zealand.
 
 **Pensions**
 
-**(6)**  The following amounts have a source in New Zealand:
+**(6)** The following amounts have a source in New Zealand:
 
 - (a) a pension or annuity payable by the government of New Zealand:
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Income from land owned in New Zealand**
 
-**(7)**  Income derived by a person as the owner of land in New Zealand has a source in New Zealand.
+**(7)** Income derived by a person as the owner of land in New Zealand has a source in New Zealand.
 
 **Income from use in New Zealand of personal property**
 
-**(8)**  Income, other than a royalty, derived as consideration for the use of, or right to use, personal property in New Zealand has a source in New Zealand if the income is—
+**(8)** Income, other than a royalty, derived as consideration for the use of, or right to use, personal property in New Zealand has a source in New Zealand if the income is—
 
 - (a) paid by a New Zealand resident:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Royalties**
 
-**(9)**  A royalty has a source in New Zealand if it is—
+**(9)** A royalty has a source in New Zealand if it is—
 
 - (a) paid by a New Zealand resident and not made in connection with a business they carry on outside New Zealand through a fixed establishment outside New Zealand:
 
@@ -70,11 +70,11 @@ compilation_date: 2026-06-06
 
 **Dividends**
 
-**(10)**  Income derived from shares in, or membership of, a company resident in New Zealand has a source in New Zealand.
+**(10)** Income derived from shares in, or membership of, a company resident in New Zealand has a source in New Zealand.
 
 **Income from debt instruments**
 
-**(11)**  The following amounts have a source in New Zealand—
+**(11)** The following amounts have a source in New Zealand—
 
 - (a) interest or a redemption payment derived from money lent in New Zealand:
 
@@ -92,27 +92,27 @@ compilation_date: 2026-06-06
 
 **Income from disposal of New Zealand property**
 
-**(12)**  Income derived from the disposal of property situated in New Zealand has a source in New Zealand.
+**(12)** Income derived from the disposal of property situated in New Zealand has a source in New Zealand.
 
 **Beneficiary income**
 
-**(13)**  Income derived by a beneficiary from a trust has a source in New Zealand to the extent to which the income of the trust fund has a source in New Zealand.
+**(13)** Income derived by a beneficiary from a trust has a source in New Zealand to the extent to which the income of the trust fund has a source in New Zealand.
 
 **Income from air transport**
 
-**(14)**  Income derived from transporting people or property by air has a source in New Zealand if the transportation leaves from New Zealand.
+**(14)** Income derived from transporting people or property by air has a source in New Zealand if the transportation leaves from New Zealand.
 
 **Income from sea transport**
 
-**(15)**  Income derived from transporting people or property by sea has a source in New Zealand if the transportation leaves from New Zealand to the extent to which the income is apportioned to a New Zealand source under section YD 6.
+**(15)** Income derived from transporting people or property by sea has a source in New Zealand if the transportation leaves from New Zealand to the extent to which the income is apportioned to a New Zealand source under section YD 6.
 
 **Non-resident general insurers**
 
-**(16)**  A premium for general insurance paid to a non-resident general insurer of the type described in section YD 8 has a source in New Zealand to the extent set out in section YD 8(2).
+**(16)** A premium for general insurance paid to a non-resident general insurer of the type described in section YD 8 has a source in New Zealand to the extent set out in section YD 8(2).
 
 **Non-resident life insurers: policies in New Zealand**
 
-**(17)**  Income of a non-resident life insurer calculated under section EY 48 (Non-resident life insurers with life insurance policies in New Zealand) has a source in New Zealand.
+**(17)** Income of a non-resident life insurer calculated under section EY 48 (Non-resident life insurers with life insurance policies in New Zealand) has a source in New Zealand.
 
 **Income from New Zealand partnerships**
 
@@ -146,7 +146,7 @@ compilation_date: 2026-06-06
 
 **Any other source in New Zealand**
 
-**(18)**  Income derived directly or indirectly from any other source in New Zealand has a source in New Zealand.
+**(18)** Income derived directly or indirectly from any other source in New Zealand has a source in New Zealand.
 
 *Defined in this Act: accident compensation payment, amount, business, company, debenture, deduction, dispose, dividend, double tax agreement, employer, fixed establishment, foreign company, general insurance, income, interest, life insurer, local authority, money lent, New Zealand, New Zealand partnership, New Zealand resident, non-resident, non-resident visitor, partner, pay, pension, permanent establishment, public authority, redemption payment, revenue account property, royalty, share, source in New Zealand, superannuation scheme*
 

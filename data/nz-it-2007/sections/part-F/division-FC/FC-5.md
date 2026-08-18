@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when land is transferred on a person's death to a close relative of the person.
+**(1)** This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when land is transferred on a person's death to a close relative of the person.
 
 **Land**
 
-**(2)**  Sections CB 9 to CB 11 and CB 14 (which relate to the disposal of land) do not apply to the transfer of land, including any intervening transfer to an executor or administrator that, if it had been disposed of by the deceased person, would have resulted in income under any of those sections.
+**(2)** Sections CB 9 to CB 11 and CB 14 (which relate to the disposal of land) do not apply to the transfer of land, including any intervening transfer to an executor or administrator that, if it had been disposed of by the deceased person, would have resulted in income under any of those sections.
 
 **Cost of land**
 
-**(3)**  If the land is transferred to a person who disposes of it within 10 years of its acquisition by the deceased person, and the person derives income under any of sections CB 9 to CB 11 and CB 14, the cost of land to the person is—
+**(3)** If the land is transferred to a person who disposes of it within 10 years of its acquisition by the deceased person, and the person derives income under any of sections CB 9 to CB 11 and CB 14, the cost of land to the person is—
 
 - (a) the cost of the land incurred by the deceased person; and
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Excluded income**
 
-**(1)**  A retirement scheme contribution is excluded income of a person if they are—
+**(1)** A retirement scheme contribution is excluded income of a person if they are—
 
 - (a) the person for whose benefit the contribution is made to the extent to which the contribution is an amount of—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  Subsection (1)﻿(a) does not apply if the person for whose benefit the contribution is made—
+**(2)** Subsection (1)﻿(a) does not apply if the person for whose benefit the contribution is made—
 
 - (a) is non-resident, and the contribution is non-resident passive income:
 

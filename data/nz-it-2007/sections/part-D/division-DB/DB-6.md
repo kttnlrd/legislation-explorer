@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for interest incurred.
+**(1)** A person is allowed a deduction for interest incurred.
 
 **Exclusion**
 
-**(2)**  Subsection (1) does not apply to interest for which a person is denied a deduction under section DB 1.
+**(2)** Subsection (1) does not apply to interest for which a person is denied a deduction under section DB 1.
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(4)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: capital limitation, deduction, general limitation, general permission, interest*
 

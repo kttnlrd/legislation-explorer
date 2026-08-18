@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person and an income year (the current year) before the 2024–25 income year when the person,—
+**(1)** This section applies for a person and an income year (the current year) before the 2024–25 income year when the person,—
 
 - (a) in or before the current year, derives for buildings or land (the affected property), all of which is revenue account property, insurance or compensation, if a Hurunui/Kaikōura earthquake as that term is defined in section 4 of the Hurunui/Kaikōura Earthquakes Recovery Act 2016 damages the land and damages each building, or the neighbourhood of the building, causing the building to be useless for the purpose of deriving income and consequently to be demolished or abandoned for later demolition; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Suspended recovery income**
 
-**(2)**  The amount (the excess recovery) by which the insurance income referred to in subsection (1)﻿(b) exceeds the deductions referred to in subsection (1)﻿(b) is not income of the person except to the extent of the amount (the suspended recovery income) remaining after adjustment under subsection (3) that is attributed to an income year by subsection (5).
+**(2)** The amount (the excess recovery) by which the insurance income referred to in subsection (1)﻿(b) exceeds the deductions referred to in subsection (1)﻿(b) is not income of the person except to the extent of the amount (the suspended recovery income) remaining after adjustment under subsection (3) that is attributed to an income year by subsection (5).
 
 **Effect of purchase of replacement property**
 
-**(3)**  If the person incurs expenditure (the replacement cost) to acquire replacement property,—
+**(3)** If the person incurs expenditure (the replacement cost) to acquire replacement property,—
 
 - (a) for the purposes of determining the value of the replacement property for section EA 2 (Other revenue account property), the amount of the person's expenditure on the replacement property is reduced by—
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Requirements for replacement property**
 
-**(4)**  For an item of affected property, replacement property must be a building or land that is revenue account property—
+**(4)** For an item of affected property, replacement property must be a building or land that is revenue account property—
 
 - (a) acquired in or before the person's 2023–24 income year; and
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Amount remaining at end of 2023–24 income year or when person changes intentions, is liquidated, or becomes bankrupt**
 
-**(5)**  The person has an amount of income for the affected property in the current year equal to the amount of suspended recovery income when—
+**(5)** The person has an amount of income for the affected property in the current year equal to the amount of suspended recovery income when—
 
 - (a) the current year ends, if the current year is the 2023–24 income year:
 
@@ -68,11 +68,11 @@ compilation_date: 2026-06-06
 
 **Notice of election for affected property**
 
-**(6)**  A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance for affected property must notify the Commissioner.
+**(6)** A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance for affected property must notify the Commissioner.
 
 **Contents of notice of election**
 
-**(7)**  A notice under subsection (6) must—
+**(7)** A notice under subsection (6) must—
 
 - (a) describe the affected property; and
 
@@ -84,7 +84,7 @@ compilation_date: 2026-06-06
 
 **Relationship to section CG 6**
 
-**(8)**  This section overrides section CG 6.
+**(8)** This section overrides section CG 6.
 
 *Defined in this Act: amount, deduction, income, income year, notice, notify*
 

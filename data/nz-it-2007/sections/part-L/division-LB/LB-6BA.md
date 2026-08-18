@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in a tax year when a transfer scheme provides the Commissioner with investment income information that shows an amount of TSWT withheld from an assessable withdrawal amount of a person.
+**(1)** This section applies in a tax year when a transfer scheme provides the Commissioner with investment income information that shows an amount of TSWT withheld from an assessable withdrawal amount of a person.
 
 **Amount of credit**
 
-**(2)**  The person has a tax credit for the tax year equal to the amount of TSWT shown as withheld.
+**(2)** The person has a tax credit for the tax year equal to the amount of TSWT shown as withheld.
 
 **Use of credit**
 
-**(3)**  The person must only use the tax credit to satisfy their income tax liability on the assessable withdrawal amount.
+**(3)** The person must only use the tax credit to satisfy their income tax liability on the assessable withdrawal amount.
 
 *Defined in this Act: amount, assessable withdrawal amount, Commissioner, income tax liability, tax credit, tax year, transfer scheme, TSWT*
 

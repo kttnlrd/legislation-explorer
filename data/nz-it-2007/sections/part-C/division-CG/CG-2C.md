@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a company that is part of a group of companies (company A) is allowed a deduction for an amount that it is liable to pay; and
 
@@ -28,19 +28,19 @@ compilation_date: 2026-06-06
 
 **Income of profit company**
 
-**(2)**  An amount equal to the amount remitted or cancelled is income of company B.
+**(2)** An amount equal to the amount remitted or cancelled is income of company B.
 
 **Timing of income**
 
-**(3)**  Company B is treated as deriving the income on the date on which company A is liquidated, struck off, or otherwise removed from the register of companies.
+**(3)** Company B is treated as deriving the income on the date on which company A is liquidated, struck off, or otherwise removed from the register of companies.
 
 **No application to financial arrangements**
 
-**(4)**  This section does not apply to a liability that is a financial arrangement, whether or not the liability has been remitted or cancelled.
+**(4)** This section does not apply to a liability that is a financial arrangement, whether or not the liability has been remitted or cancelled.
 
 **Relationship with other provisions**
 
-**(5)**  This section—
+**(5)** This section—
 
 - (a) overrides section CG 2:
 

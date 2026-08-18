@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (person A) who is a person listed in a paragraph in section 32E(2)﻿(a) to (h) of the Tax Administration Act 1994—
+**(1)** This section applies when a person (person A) who is a person listed in a paragraph in section 32E(2)﻿(a) to (h) of the Tax Administration Act 1994—
 
 - (a) receives an amount from another person (person B); or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **No obligation if unreasonable**
 
-**(2)**  For the purposes of determining whether person A is required under section RE 4 to withhold RWT, the payment is treated as not consisting of resident passive income of person B to the extent to which—
+**(2)** For the purposes of determining whether person A is required under section RE 4 to withhold RWT, the payment is treated as not consisting of resident passive income of person B to the extent to which—
 
 - (a) person A could not reasonably be expected to be aware that the payment was resident passive income; or
 

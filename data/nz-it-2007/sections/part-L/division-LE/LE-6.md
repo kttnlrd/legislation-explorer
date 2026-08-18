@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person who has a tax credit under section LE 1 is a partner in a partnership and, through the partnership, derives a dividend with an imputation credit attached.
+**(1)** This section applies when a person who has a tax credit under section LE 1 is a partner in a partnership and, through the partnership, derives a dividend with an imputation credit attached.
 
 **Limitation on amount of credit**
 
-**(2)**  The person's credit is limited to an amount calculated using the formula— (partner's income ÷ partnership income)× (partnership imputation credits − partner's supplementary dividend).
+**(2)** The person's credit is limited to an amount calculated using the formula— (partner's income ÷ partnership income)× (partnership imputation credits − partner's supplementary dividend).
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) partner's income is the total assessable income of the person for the tax year derived as a partner of the partnership excluding—
 

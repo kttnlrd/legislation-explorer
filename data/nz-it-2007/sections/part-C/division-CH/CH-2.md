@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person has, under section EA 3 (Prepayments), an unexpired amount of expenditure at the end of an income year.
+**(1)** This section applies when a person has, under section EA 3 (Prepayments), an unexpired amount of expenditure at the end of an income year.
 
 **Income**
 
-**(2)**  The unexpired amount is income of the person in the income year.
+**(2)** The unexpired amount is income of the person in the income year.
 
 *Defined in this Act: amount, income, income year*
 

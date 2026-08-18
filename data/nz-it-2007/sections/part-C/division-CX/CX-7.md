@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the application of the fringe benefit tax (FBT) rules to an agreement or arrangement—
+**(1)** This section applies for the application of the fringe benefit tax (FBT) rules to an agreement or arrangement—
 
 - (a) between an employer, or a person associated with the employer, and an employee, or a person associated with the employee; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Person treated as having right to use vehicle**
 
-**(2)**  The employer or associated person is treated as having a right to use the motor vehicle for a period during which the employee—
+**(2)** The employer or associated person is treated as having a right to use the motor vehicle for a period during which the employee—
 
 - (a) uses the vehicle privately:
 

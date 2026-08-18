@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to the amount of a dividend derived from shares that are revenue account property of a person when—
+**(1)** This section applies to the amount of a dividend derived from shares that are revenue account property of a person when—
 
 - (a) the payment of the dividend realises or recovers the price the person paid for the shares; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Treatment of amount derived**
 
-**(2)**  The dividend is treated as an amount derived on a sale of the shares to the extent to which the actual amount realised by the person on the disposal of the shares is less than the cost to the person of acquiring the shares.
+**(2)** The dividend is treated as an amount derived on a sale of the shares to the extent to which the actual amount realised by the person on the disposal of the shares is less than the cost to the person of acquiring the shares.
 
 **Dividend**
 
-**(3)**  Despite subsection (2), a dividend taken into account under this section remains a dividend derived by the person in the income year.
+**(3)** Despite subsection (2), a dividend taken into account under this section remains a dividend derived by the person in the income year.
 
 *Defined in this Act: amount, dividend, income year, pay, revenue account property, share*
 

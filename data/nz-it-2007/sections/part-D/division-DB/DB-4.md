@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for expenditure incurred on dues levied under the Chatham Islands Council Act 1995 that relate to goods that the person uses in connection with carrying on a business.
+**(1)** A person is allowed a deduction for expenditure incurred on dues levied under the Chatham Islands Council Act 1995 that relate to goods that the person uses in connection with carrying on a business.
 
 **Timing of deduction**
 
-**(2)**  The deduction is allocated to the income year in which the dues are paid.
+**(2)** The deduction is allocated to the income year in which the dues are paid.
 
 **Exclusion of expenditure: other deductions**
 
-**(3)**  Expenditure to which subsection (1) applies must not be taken into account in calculating the cost of the goods for the purpose of a deduction relating to the goods under any other provision of this Act.
+**(3)** Expenditure to which subsection (1) applies must not be taken into account in calculating the cost of the goods for the purpose of a deduction relating to the goods under any other provision of this Act.
 
 **Link with subpart DA**
 
-**(4)**  The link between this section and subpart DA (General rules) is as follows:
+**(4)** The link between this section and subpart DA (General rules) is as follows:
 
 - (a) subsection (1) supplements the general permission and overrides the capital limitation; the other general limitations still apply:
 

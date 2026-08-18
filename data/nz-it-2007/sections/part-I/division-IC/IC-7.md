@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Incorporation or carrying on business**
 
-**(1)**  Company A, for the commonality period, must be either—
+**(1)** Company A, for the commonality period, must be either—
 
 - (a) incorporated in New Zealand; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section IZ 7**
 
-**(3)**  Section IZ 7(4) (Grouping tax losses for tax years before 1981–82 and between 1981–82 and 1991–92) overrides this section.
+**(3)** Section IZ 7(4) (Grouping tax losses for tax years before 1981–82 and between 1981–82 and 1991–92) overrides this section.
 
 *Defined in this Act: business, commonality period, company, fixed establishment, New Zealand*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Income: party to financial arrangement**
 
-**(1)**  If a person who is a party to a financial arrangement is treated as deriving an amount of income under the financial arrangement under subpart EW (Financial arrangements rules), the amount is income of the person.
+**(1)** If a person who is a party to a financial arrangement is treated as deriving an amount of income under the financial arrangement under subpart EW (Financial arrangements rules), the amount is income of the person.
 
 **Income: trustee**
 
-**(2)**  Income derived by a trustee in the circumstances described in section EW 50 (Income when debt forgiven to trustee) is income of the trustee.
+**(2)** Income derived by a trustee in the circumstances described in section EW 50 (Income when debt forgiven to trustee) is income of the trustee.
 
 *Defined in this Act: amount, financial arrangement, income, trustee*
 

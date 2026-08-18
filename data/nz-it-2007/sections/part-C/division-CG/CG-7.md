@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies, for the purposes of section FA 5 (Assets acquired and disposed of after deduction of payments under lease) when—
+**(1)** This section applies, for the purposes of section FA 5 (Assets acquired and disposed of after deduction of payments under lease) when—
 
 - (a) a person leases, rents, or hires an asset that is—
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount described in subsection (3) is income of the person.
+**(2)** The amount described in subsection (3) is income of the person.
 
 **Consideration less payments or total deductions**
 
-**(3)**  The amount is the lesser of the amount by which the consideration on disposal is more than—
+**(3)** The amount is the lesser of the amount by which the consideration on disposal is more than—
 
 - (a) the sum of the payments made; or
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(4)**  The income is allocated to the income year of the disposal of the asset.
+**(4)** The income is allocated to the income year of the disposal of the asset.
 
 *Defined in this Act: amount, deduction, dispose, income, income year, motor vehicle, pay, temporary building*
 

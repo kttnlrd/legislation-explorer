@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person carries on a farming or agricultural business on land in New Zealand; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Deduction: expenditure: owner of land**
 
-**(2)**  A person who owns the land is allowed a deduction for expenditure to which all the following apply:
+**(2)** A person who owns the land is allowed a deduction for expenditure to which all the following apply:
 
 - (a) it is incurred on making the improvement; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Deduction: expenditure: non-owner of land**
 
-**(3)**  A person who does not own the land is allowed a deduction for expenditure to which all the following apply:
+**(3)** A person who does not own the land is allowed a deduction for expenditure to which all the following apply:
 
 - (a) it is incurred on making the improvement; and
 
@@ -54,11 +54,11 @@ compilation_date: 2026-06-06
 
 **Amount, and timing, of deduction**
 
-**(4)**  The amount of the deduction is calculated using the formula— schedule 20 percentage × diminished value.
+**(4)** The amount of the deduction is calculated using the formula— schedule 20 percentage × diminished value.
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) schedule 20 percentage is the percentage set out opposite the description of the improvement in schedule 20, part A:
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Amount, and timing, for non-listed horticultural plants**
 
-**(6)**  When non-listed horticultural plants described in schedule 20, part A, clause 9 have ceased to exist, or to be used in deriving income, on or after 16 December 1991,—
+**(6)** When non-listed horticultural plants described in schedule 20, part A, clause 9 have ceased to exist, or to be used in deriving income, on or after 16 December 1991,—
 
 - (a) subsection (4) does not apply; and
 
@@ -76,15 +76,15 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(7)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(7)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 **Amendment of schedule 20 by Order in Council**
 
-**(8)**  The Governor-General may by Order in Council make regulations amending schedule 20 to vary the categories of improvements and percentages of diminished value of those improvements allowed as a deduction.
+**(8)** The Governor-General may by Order in Council make regulations amending schedule 20 to vary the categories of improvements and percentages of diminished value of those improvements allowed as a deduction.
 
 **Secondary legislation**
 
-**(9)**  An Order in Council under subsection (8) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+**(9)** An Order in Council under subsection (8) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 *Defined in this Act: amount, business, capital limitation, deduction, diminished value, general limitation, general permission, income, income year, New Zealand, non-listed horticultural plant, own*
 

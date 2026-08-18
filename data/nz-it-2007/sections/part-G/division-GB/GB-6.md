@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a share in a company has been subject to an arrangement at a time; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Company treated as not qualifying company**
 
-**(2)**  The relevant company is treated as not being a qualifying company at that time.
+**(2)** The relevant company is treated as not being a qualifying company at that time.
 
 *Defined in this Act: arrangement, company, qualifying company, share*
 

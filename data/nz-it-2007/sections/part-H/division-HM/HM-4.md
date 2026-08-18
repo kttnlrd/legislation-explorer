@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of investor**
 
-**(1)**  An investor in a PIE or foreign PIE equivalent means—
+**(1)** An investor in a PIE or foreign PIE equivalent means—
 
 - (a) for an entity that is a company, a shareholder in a company:
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Consequences of not providing tax file number**
 
-**(2)**  An investor in a multi-rate PIE who is required under section 28B of the Tax Administration Act 1994 to provide a tax file number to the PIE and fails to do so within the time limit set out in that section is treated as an investor whose interest has reached the exit level.
+**(2)** An investor in a multi-rate PIE who is required under section 28B of the Tax Administration Act 1994 to provide a tax file number to the PIE and fails to do so within the time limit set out in that section is treated as an investor whose interest has reached the exit level.
 
 *Defined in this Act: company, exit level, foreign PIE equivalent, investor, life fund PIE, life insurance policy, multi-rate PIE, PIE, share, shareholder, tax file number*
 

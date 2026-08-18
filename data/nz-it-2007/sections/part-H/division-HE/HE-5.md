@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an association that enters into mutual transactions with members pays an association rebate to 1 or more members through—
+**(1)** This section applies when an association that enters into mutual transactions with members pays an association rebate to 1 or more members through—
 
 - (a) issuing fully or partly paid-up shares in the association; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Not bonus issue**
 
-**(2)**  The amount, or the relevant part of it, is not treated as a bonus issue.
+**(2)** The amount, or the relevant part of it, is not treated as a bonus issue.
 
 *Defined in this Act: amount, association, association rebate, bonus issue, member, mutual transaction, pay, share*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person chooses in a return of income to use a determination alternative to IFRS for a financial arrangement; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **General IFRS rules**
 
-**(2)**  The person must use 1 of the following methods modified, as applicable, under subsection (3) or (3B):
+**(2)** The person must use 1 of the following methods modified, as applicable, under subsection (3) or (3B):
 
 - (aa) Determination G3: Yield to maturity, but only if the financial arrangement is denominated in New Zealand currency and is not a derivative instrument. When applying Determination G3, Determination G25: Variation in the terms of a financial arrangement must be used:
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Modifications**
 
-**(3)**  For a determination alternative that is Determination G9C or G14B, the allocation is modified as follows:
+**(3)** For a determination alternative that is Determination G9C or G14B, the allocation is modified as follows:
 
 - (a) the term forward contract is treated as including a conditional or unconditional agreement to pay or be paid an amount calculated by reference to the price of property or services, without the property being delivered or the services being performed:
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **Succeeding determinations**
 
-**(4)**  For the purposes of this section, the determinations set out in subsection (2)﻿(a) to (c) include a determination that succeeds the determination.
+**(4)** For the purposes of this section, the determinations set out in subsection (2)﻿(a) to (c) include a determination that succeeds the determination.
 
 *Defined in this Act: amount, binding ruling, Commissioner, company, derivative instrument, financial arrangement, financial arrangements rules, group of companies, IFRS, income year, New Zealand, notify, pay, return of income*
 

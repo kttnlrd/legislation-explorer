@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section, and sections RF 12D to RF 12J, apply for the purposes of the NRWT rules when—
+**(1)** This section, and sections RF 12D to RF 12J, apply for the purposes of the NRWT rules when—
 
 - (a) a person (the borrower) is—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Meaning of non-resident financial arrangement income**
 
-**(2)**  Non-resident financial arrangement income, for a financial arrangement and an income year, means an amount having a source in New Zealand that is accrued on a related-party debt and derived by a lender in the income year when—
+**(2)** Non-resident financial arrangement income, for a financial arrangement and an income year, means an amount having a source in New Zealand that is accrued on a related-party debt and derived by a lender in the income year when—
 
 - (a) non-resident financial arrangement income was derived in relation to the arrangement by a lender in an earlier income year; or
 
@@ -42,15 +42,15 @@ compilation_date: 2026-06-06
 
 **Related-party de minimis**
 
-**(3)**  The de minimis applies when the total expenditure on all related-party debt incurred in the previous income year under the financial arrangements rules by the borrower, and all companies that are in the same group of companies as the borrower, is $40,000 or less.
+**(3)** The de minimis applies when the total expenditure on all related-party debt incurred in the previous income year under the financial arrangements rules by the borrower, and all companies that are in the same group of companies as the borrower, is $40,000 or less.
 
 **Deferral calculation**
 
-**(4)**  Subject to subsection (6), the deferral calculation referred to in subsection (2)﻿(b)﻿(ii) is the percentage calculated using the formula— accumulated payments ÷ (accumulated accruals − hybrid deductions).
+**(4)** Subject to subsection (6), the deferral calculation referred to in subsection (2)﻿(b)﻿(ii) is the percentage calculated using the formula— accumulated payments ÷ (accumulated accruals − hybrid deductions).
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) accumulated payments for the income year is the total interest paid in relation to the financial arrangement by the borrower for the period that—
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 **When calculation treated as more than 90%**
 
-**(6)**  For the purposes of the calculation in subsection (4), the result of the formula is treated as more than 90% if—
+**(6)** For the purposes of the calculation in subsection (4), the result of the formula is treated as more than 90% if—
 
 - (a) the item accumulated accruals is equal to the item hybrid deductions:
 
@@ -76,15 +76,15 @@ compilation_date: 2026-06-06
 
 **NRFAI due date**
 
-**(7)**  The NRFAI due date, for a financial arrangement, is the due date for the payment of NRWT for the period that ends on the last day of the second month following the end of an income year.
+**(7)** The NRFAI due date, for a financial arrangement, is the due date for the payment of NRWT for the period that ends on the last day of the second month following the end of an income year.
 
 **Foreign exchange movements**
 
-**(8)**  For the purposes of subsections (4) and (5), the calculation of total interest and total expenditure must be made in the currency of the financial arrangement.
+**(8)** For the purposes of subsections (4) and (5), the calculation of total interest and total expenditure must be made in the currency of the financial arrangement.
 
 **Choosing to disregard de minimis and deferral calculation**
 
-**(9)**  See section RF 12G for elections to disregard the related-party de minimis and the deferral calculation.
+**(9)** See section RF 12G for elections to disregard the related-party de minimis and the deferral calculation.
 
 *Defined in this Act: amount, amount of tax, arrangement, associated person, company, financial arrangement, financial arrangements rules, fixed establishment, income year, interest, money lent, non-resident, non-resident financial arrangement income, non-resident passive income, New Zealand, New Zealand banking group, NRFAI due date, NRWT, NRWT rules, pay, related-party debt, resident in New Zealand, ring-fenced tax loss, source in New Zealand*
 

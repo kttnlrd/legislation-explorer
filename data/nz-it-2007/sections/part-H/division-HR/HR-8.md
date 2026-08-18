@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Provisions under which transitional resident treated as non-resident**
 
-**(1)**  When a foreign-sourced amount is derived by a transitional resident, the following provisions apply to produce a result for income tax purposes that is the same as if the transitional resident were non-resident:
+**(1)** When a foreign-sourced amount is derived by a transitional resident, the following provisions apply to produce a result for income tax purposes that is the same as if the transitional resident were non-resident:
 
 - (a) sections CD 45, CE 2, CF 3, CQ 2, CQ 5, and CW 27 (which relate to income):
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Meaning of transitional resident**
 
-**(2)**  A person is a transitional resident if—
+**(2)** A person is a transitional resident if—
 
 - (a) they are a natural person; and
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Period of transitional residence**
 
-**(3)**  The period for a person—
+**(3)** The period for a person—
 
 - (a) begins on the first day of the residence required by subsection (2)﻿(b); and
 
@@ -68,11 +68,11 @@ compilation_date: 2026-06-06
 
 **Choosing not to be transitional resident**
 
-**(4)**  A person who would otherwise be a transitional resident in an income year may choose by notice to the Commissioner or by notice under subsection (5) not to be a transitional resident on and after a date nominated by the person, which may be on or after the start of the income year.
+**(4)** A person who would otherwise be a transitional resident in an income year may choose by notice to the Commissioner or by notice under subsection (5) not to be a transitional resident on and after a date nominated by the person, which may be on or after the start of the income year.
 
 **Applying for tax credits**
 
-**(5)**  An application under section 41 of the Tax Administration Act 1994 by a person who is eligible to be a transitional resident for a tax credit under subparts MA to MG and MZ (which relate to tax credits for families) for an income year is treated for the period of the application as—
+**(5)** An application under section 41 of the Tax Administration Act 1994 by a person who is eligible to be a transitional resident for a tax credit under subparts MA to MG and MZ (which relate to tax credits for families) for an income year is treated for the period of the application as—
 
 - (a) a notice of election under subsection (4) by the person if they have not made one; and
 
@@ -80,11 +80,11 @@ compilation_date: 2026-06-06
 
 **Election irrevocable**
 
-**(6)**  An election under subsection (4) is irrevocable.
+**(6)** An election under subsection (4) is irrevocable.
 
 **Notice of election**
 
-**(7)**  A notice under subsection (4) to stop being a transitional resident must be received by the Commissioner by—
+**(7)** A notice under subsection (4) to stop being a transitional resident must be received by the Commissioner by—
 
 - (a) the time within which the person's return of income must be filed under section 37 of the Tax Administration Act 1994; or
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  To the extent to which it is applied for the purposes set out in the Te Urewera Act 2014, income derived by Te Urewera Board is exempt income.
+**(1)** To the extent to which it is applied for the purposes set out in the Te Urewera Act 2014, income derived by Te Urewera Board is exempt income.
 
 **Definition**
 
-**(2)**  In this section, Te Urewera Board has the meaning given in section 7 of that Act.
+**(2)** In this section, Te Urewera Board has the meaning given in section 7 of that Act.
 
 ---
 *NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

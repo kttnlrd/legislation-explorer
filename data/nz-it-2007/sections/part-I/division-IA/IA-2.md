@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **What is a tax loss?**
 
-**(1)**  A person's tax loss for a tax year is found by adding together the amounts referred to in subsections (2) to (4).
+**(1)** A person's tax loss for a tax year is found by adding together the amounts referred to in subsections (2) to (4).
 
 **Loss balances carried forward**
 
-**(2)**  If the person has a loss balance carried forward under section IA 3(4) to the tax year, the amount is included in their tax loss for the tax year to the extent to which it is not subtracted under section IA 4(1)﻿(a) from their net income for the tax year.
+**(2)** If the person has a loss balance carried forward under section IA 3(4) to the tax year, the amount is included in their tax loss for the tax year to the extent to which it is not subtracted under section IA 4(1)﻿(a) from their net income for the tax year.
 
 **Net losses**
 
-**(3)**  If the person has a net loss under section BC 4 (Net income and net loss) for the tax year, the amount is a tax loss component included in their tax loss for the tax year.
+**(3)** If the person has a net loss under section BC 4 (Net income and net loss) for the tax year, the amount is a tax loss component included in their tax loss for the tax year.
 
 **Additional amounts**
 
-**(4)**  If the person is described in 1 or more of the following paragraphs and has the amount described in the paragraph, the amount is included as a tax loss component in their tax loss for the tax year:
+**(4)** If the person is described in 1 or more of the following paragraphs and has the amount described in the paragraph, the amount is included as a tax loss component in their tax loss for the tax year:
 
 - (a) a member fund that incurs excess expenditure:
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Ring-fenced amounts**
 
-**(5)**  This section, and sections IA 3 and IA 4, do not apply to the amounts referred to in section IA 7, which are subject to particular rules in other Parts or subparts that limit the way in which a person may use them.
+**(5)** This section, and sections IA 3 and IA 4, do not apply to the amounts referred to in section IA 7, which are subject to particular rules in other Parts or subparts that limit the way in which a person may use them.
 
 **Meaning of tax loss component**
 
-**(7)**  A tax loss component, for a tax year,—
+**(7)** A tax loss component, for a tax year,—
 
 - (a) means an amount included in a tax loss for the tax year under subsection (3) or (4):
 

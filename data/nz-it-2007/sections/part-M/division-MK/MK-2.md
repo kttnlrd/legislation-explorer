@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Requirements for person**
 
-**(1)**  For the purposes of section MK 1(1), the requirements for the person for the tax credit year are the following:
+**(1)** For the purposes of section MK 1(1), the requirements for the person for the tax credit year are the following:
 
 - (a) they must be 16 years or older; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Evidence**
 
-**(2)**  For the purposes of subsection (1)﻿(d)﻿(i) and (ii), the person must give the fund provider written evidence that they meet the requirements, and of the period in which they meet the requirements.
+**(2)** For the purposes of subsection (1)﻿(d)﻿(i) and (ii), the person must give the fund provider written evidence that they meet the requirements, and of the period in which they meet the requirements.
 
 *Defined in this Act: amount, complying superannuation fund, creditable membership, employee, fund provider, KiwiSaver scheme, New Zealand, tax credit, tax credit year*
 

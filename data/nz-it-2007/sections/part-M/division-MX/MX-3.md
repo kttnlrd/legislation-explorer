@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Wage intensity criteria**
 
-**(1)**  For the purposes of section MX 1(1)﻿(f), a person meets the wage intensity criteria for an income year if, for the income year or for the part of the income year for which the person exists (the part-year) if that is not the whole income year,—
+**(1)** For the purposes of section MX 1(1)﻿(f), a person meets the wage intensity criteria for an income year if, for the income year or for the part of the income year for which the person exists (the part-year) if that is not the whole income year,—
 
 - (a) the amount calculated for the person using the formula in subsection (2) is 0.2 or more; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(2)**  The formula is— total R&D labour expenditure ÷ total labour expenditure.
+**(2)** The formula is— total R&D labour expenditure ÷ total labour expenditure.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) total R&D labour expenditure for a person, or an R&D group of which the person is a member, is the total, for amounts incurred in the income year or the part-year, of—
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Amount for optional inclusion in total R&D labour expenditure and total labour expenditure**
 
-**(4)**  For the purposes of subsection (3)﻿(a)﻿(iii) and (b)﻿(iii), the expenditure of an employer for an employee that the person may choose to include in the items total R&D labour expenditure and total labour expenditure is the total of all—
+**(4)** For the purposes of subsection (3)﻿(a)﻿(iii) and (b)﻿(iii), the expenditure of an employer for an employee that the person may choose to include in the items total R&D labour expenditure and total labour expenditure is the total of all—
 
 - (a) the employer's superannuation cash contributions for the employee that are not salary or wages:
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Meaning of contractor R&D consideration**
 
-**(5)**  In this Act, contractor R&D consideration means—
+**(5)** In this Act, contractor R&D consideration means—
 
 - (a) for a person, an amount, excluding GST, paid by the person to another person (the contractor) who is not a member of an R&D group that includes the person and is not employed by the person or by a member of an R&D group that includes the person, as consideration for R&D material provided by the contractor to the person:
 

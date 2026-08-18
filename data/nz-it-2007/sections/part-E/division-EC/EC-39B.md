@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of stud-founding bloodstock**
 
-**(1)**  Stud-founding bloodstock means high-priced bloodstock that a prospective bloodstock breeder owns if—
+**(1)** Stud-founding bloodstock means high-priced bloodstock that a prospective bloodstock breeder owns if—
 
 - (a) the prospective bloodstock breeder acquires the high-priced bloodstock before it is 2 years of age; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Meaning of high-priced bloodstock**
 
-**(2)**  High-priced bloodstock means bloodstock that—
+**(2)** High-priced bloodstock means bloodstock that—
 
 - (a) is sold, when a yearling, at a premier yearling sale for an amount greater than the relevant national minimum price threshold for the calendar year in which the sale occurs; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Meaning of prospective bloodstock breeder**
 
-**(3)**  A prospective bloodstock breeder means a person who acquires bloodstock—
+**(3)** A prospective bloodstock breeder means a person who acquires bloodstock—
 
 - (a) when they do not have an existing bloodstock breeding business; and
 
@@ -46,11 +46,11 @@ compilation_date: 2026-06-06
 
 **Meaning of premier yearling sale**
 
-**(4)**  A premier yearling sale means a sale of bloodstock yearlings that is listed in schedule 18B (Premier yearling sales).
+**(4)** A premier yearling sale means a sale of bloodstock yearlings that is listed in schedule 18B (Premier yearling sales).
 
 **Meaning of national minimum price threshold**
 
-**(5)**  National minimum price threshold, for a class of bloodstock and for a calendar year, means the national minimum price threshold set under section EC 39C or by section EZ 6B (National minimum price threshold for 2019 calendar year), as applicable, for bloodstock of the class for the calendar year.
+**(5)** National minimum price threshold, for a class of bloodstock and for a calendar year, means the national minimum price threshold set under section EC 39C or by section EZ 6B (National minimum price threshold for 2019 calendar year), as applicable, for bloodstock of the class for the calendar year.
 
 *Defined in this Act: bloodstock, business, Commissioner, high-priced bloodstock, national minimum price threshold, New Zealand, premier yearling sale, prospective bloodstock breeder, stud-founding bloodstock*
 

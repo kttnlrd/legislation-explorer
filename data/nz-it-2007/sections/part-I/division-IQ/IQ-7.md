@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if—
+**(1)** This section applies if—
 
 - (a) a company that is part of a consolidated group has a ring-fenced tax loss consisting of either an attributed CFC net loss or FIF net loss, or both, that is carried forward to a tax year and must be used under section IQ 6; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Limit on amount**
 
-**(2)**  The amount that may be subtracted from the net income of the consolidated group in the tax year under section ID 2(2) must be no more than the total of—
+**(2)** The amount that may be subtracted from the net income of the consolidated group in the tax year under section ID 2(2) must be no more than the total of—
 
 - (a) the amount of ring-fenced tax loss referred to in subsection (1) that the company could use to reduce its net income in the tax year under section IQ 2 or IQ 3 as applicable, if it were not in the tax year part of a consolidated group; and
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Relationship with section FM 3**
 
-**(3)**  In subsection (2), the amount of net income must be calculated in accordance with section FM 3 (Liability of consolidated groups and group companies).
+**(3)** In subsection (2), the amount of net income must be calculated in accordance with section FM 3 (Liability of consolidated groups and group companies).
 
 **Meaning of loss period**
 
-**(4)**  In this section, the loss period means the tax year in which the ring-fenced tax loss arose and any tax years falling between that tax year and the tax year in which the amount is subtracted from net income.
+**(4)** In this section, the loss period means the tax year in which the ring-fenced tax loss arose and any tax years falling between that tax year and the tax year in which the amount is subtracted from net income.
 
 *Defined in this Act: amount, attributed CFC net loss, company, consolidated group, FIF net loss, loss period, net income, ring-fenced tax loss, tax loss, tax year*
 

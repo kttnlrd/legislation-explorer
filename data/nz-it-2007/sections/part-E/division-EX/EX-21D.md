@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **CFC as part of test group**
 
-**(1)**  A person (the interest holder) with an interest in a CFC may choose to apply this section for the CFC as a member of a group (a test group) if the group consists of companies—
+**(1)** A person (the interest holder) with an interest in a CFC may choose to apply this section for the CFC as a member of a group (a test group) if the group consists of companies—
 
 - (a) each of which is subject to the laws of the same country or territory and—
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Threshold ratio**
 
-**(2)**  A CFC is a non-attributing active CFC under section EX 21B(2)﻿(a) for an accounting period and a person if the amount calculated under subsection (3) using the formula in subsection (4)—
+**(2)** A CFC is a non-attributing active CFC under section EX 21B(2)﻿(a) for an accounting period and a person if the amount calculated under subsection (3) using the formula in subsection (4)—
 
 - (a) is less than 0.05; and
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Application of formula**
 
-**(3)**  In using the formula in subsection (4)—
+**(3)** In using the formula in subsection (4)—
 
 - (a) each item in the formula is determined—
 
@@ -88,19 +88,19 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(4)**  The amount that determines whether the CFC is a non-attributing active CFC is calculated using the formula— (attributable − attributable adjustments) ÷ (gross − gross adjustments).
+**(4)** The amount that determines whether the CFC is a non-attributing active CFC is calculated using the formula— (attributable − attributable adjustments) ÷ (gross − gross adjustments).
 
 **Definition of items in formula**
 
-**(5)**  The items in the formula are defined in subsections (6) to (9).
+**(5)** The items in the formula are defined in subsections (6) to (9).
 
 **Attributable**
 
-**(6)**  Attributable is the attributable CFC amount for the accounting period.
+**(6)** Attributable is the attributable CFC amount for the accounting period.
 
 **Attributable adjustments**
 
-**(7)**  Attributable adjustments is the total of amounts included in the item attributable, in subsection (6), that are—
+**(7)** Attributable adjustments is the total of amounts included in the item attributable, in subsection (6), that are—
 
 - (a) if the interest holder chooses that this paragraph apply, income derived from the supply of personal services—
 
@@ -116,11 +116,11 @@ compilation_date: 2026-06-06
 
 **Gross**
 
-**(8)**  Gross is the annual gross income for the accounting period in the absence of income under subpart CQ (Attributed income from foreign equity).
+**(8)** Gross is the annual gross income for the accounting period in the absence of income under subpart CQ (Attributed income from foreign equity).
 
 **Gross adjustments**
 
-**(9)**  Gross adjustments is the total of the following amounts for the accounting period:
+**(9)** Gross adjustments is the total of the following amounts for the accounting period:
 
 - (a) the amount of the item "attributable adjustments" in subsection (7):
 

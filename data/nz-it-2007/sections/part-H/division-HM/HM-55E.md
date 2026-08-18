@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person who is a notified foreign investor in a foreign investment PIE—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Time for changing treatment**
 
-**(2)**  The PIE must change the treatment of the person as soon as reasonably practicable. But, at the latest, the change must be made from the start of the following tax year.
+**(2)** The PIE must change the treatment of the person as soon as reasonably practicable. But, at the latest, the change must be made from the start of the following tax year.
 
 *Defined in this Act: foreign investment PIE, non-resident, notified foreign investor, resident in New Zealand, tax year*
 

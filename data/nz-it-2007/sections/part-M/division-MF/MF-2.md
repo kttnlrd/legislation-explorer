@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **No entitlement**
 
-**(2)**  The person is not entitled to apply under section MF 1 for the payment of the tax credit by instalment for the relationship period.
+**(2)** The person is not entitled to apply under section MF 1 for the payment of the tax credit by instalment for the relationship period.
 
 *Defined in this Act: abating WFF tax credit, apply, ask, Best Start tax credit, chief executive, Commissioner, main benefit, notice of entitlement, pay, relationship period, tax credit, WFF tax credit*
 

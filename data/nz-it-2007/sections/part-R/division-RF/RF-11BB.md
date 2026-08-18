@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a company makes a payment of non-resident passive income in the form of a dividend to a New Zealand resident company (the recipient) that is treated under a double tax agreement as not being resident in New Zealand to the extent to which the dividend is not fully imputed, if—
+**(1)** This section applies when a company makes a payment of non-resident passive income in the form of a dividend to a New Zealand resident company (the recipient) that is treated under a double tax agreement as not being resident in New Zealand to the extent to which the dividend is not fully imputed, if—
 
 - (a) the requirements of section CW 10(1)﻿(b) to (d), (5), and (6) (Dividend within New Zealand wholly-owned group) are met; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Amount of tax**
 
-**(2)**  The amount of tax is the lesser of—
+**(2)** The amount of tax is the lesser of—
 
 - (a) the amount of tax that the payer would be required to withhold and pay in the absence of this section; and
 

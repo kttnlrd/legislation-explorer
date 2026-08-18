@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to the calculation of a person's provisional tax liability, when section RC 5 (Methods for calculating provisional tax liability) applies,—
+**(1)** This section applies to the calculation of a person's provisional tax liability, when section RC 5 (Methods for calculating provisional tax liability) applies,—
 
 - (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year and for instalments for the 2011–12 and 2012–13 income years, if the person is a new personal tax rate person:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Standard method modified: for 5% uplift**
 
-**(2)**  The standard method under section RC 5(2) is modified so that—
+**(2)** The standard method under section RC 5(2) is modified so that—
 
 - (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, instead of using 105%, the amount of provisional tax payable is calculated using 95%, if the person is a new personal tax rate person:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Standard method modified: for 10% uplift**
 
-**(3)**  The standard method under section RC 5(3) is modified so that—
+**(3)** The standard method under section RC 5(3) is modified so that—
 
 - (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, instead of using 110%, the amount of provisional tax payable is calculated using 95%, if the person is a new personal tax rate person:
 

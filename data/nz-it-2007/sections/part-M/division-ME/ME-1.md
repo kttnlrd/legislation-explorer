@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Tax credit**
 
-**(1)**  A person who qualifies under sections MC 3 to MC 6 (which relate to the qualifying criteria) is entitled to a tax credit (the minimum family tax credit) for an entitlement period equal to an amount calculated using the formula in subsection (2).
+**(1)** A person who qualifies under sections MC 3 to MC 6 (which relate to the qualifying criteria) is entitled to a tax credit (the minimum family tax credit) for an entitlement period equal to an amount calculated using the formula in subsection (2).
 
 **Formula**
 
-**(2)**  The formula is— (prescribed amount − net family scheme income) × weekly periods ÷ 52.
+**(2)** The formula is— (prescribed amount − net family scheme income) × weekly periods ÷ 52.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) prescribed amount is $36,604:
 
@@ -36,11 +36,11 @@ compilation_date: 2026-06-06
 
 **Order in Council increasing amount**
 
-**(4)**  In subsection (3)﻿(a), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
+**(4)** In subsection (3)﻿(a), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
 **Relationship with section 80KW of the Tax Administration Act 1994**
 
-**(5)**  This section is overridden by section 80KW of the Tax Administration Act 1994.
+**(5)** This section is overridden by section 80KW of the Tax Administration Act 1994.
 
 *Defined in this Act: amount, civil union partner, de facto partner, entitlement period, full-time earner, minimum family tax credit, net family scheme income, relationship period, spouse, tax credit*
 

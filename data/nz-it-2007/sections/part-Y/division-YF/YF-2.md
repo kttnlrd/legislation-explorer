@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a provision other than section YF 1 provides a rate or method for currency conversion; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Representative rates**
 
-**(2)**  The Commissioner may set a representative conversion rate that the person may use, instead of the rate or method referred to in subsection (1)﻿(a), in converting the amount into New Zealand currency.
+**(2)** The Commissioner may set a representative conversion rate that the person may use, instead of the rate or method referred to in subsection (1)﻿(a), in converting the amount into New Zealand currency.
 
 *Defined in this Act: amount, Commissioner, New Zealand*
 

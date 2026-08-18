@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person—
+**(1)** This section applies when a person—
 
 - (a) has a business of manufacturing or producing trading stock; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Apportionment of difference required**
 
-**(2)**  If any difference arises between the estimated costs of production included in the financial statements of the business for the income year and the actual costs of production, the person must apportion the difference between the cost of trading stock sold or exchanged during the income year and the closing stock.
+**(2)** If any difference arises between the estimated costs of production included in the financial statements of the business for the income year and the actual costs of production, the person must apportion the difference between the cost of trading stock sold or exchanged during the income year and the closing stock.
 
 *Defined in this Act: business, closing stock, cost, financial statements, income year, low-turnover trader, trading stock*
 

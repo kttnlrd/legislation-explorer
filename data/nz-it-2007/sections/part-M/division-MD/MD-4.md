@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Requirements**
 
-**(1)**  A person is entitled to an in-work tax credit for a child if, for an entitlement period, the person meets the 5 requirements of sections MD 5 to MD 9.
+**(1)** A person is entitled to an in-work tax credit for a child if, for an entitlement period, the person meets the 5 requirements of sections MD 5 to MD 9.
 
 **When another person entitled to in-work tax credit or child tax credit**
 
-**(2)**  If 2 persons are entitled to an in-work tax credit or a child tax credit for a child for an entitlement period, the entitlement of each is not affected by the entitlement of the other person.
+**(2)** If 2 persons are entitled to an in-work tax credit or a child tax credit for a child for an entitlement period, the entitlement of each is not affected by the entitlement of the other person.
 
 *Defined in this Act: child, entitlement period, in-work tax credit*
 

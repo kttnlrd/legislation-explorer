@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a public authority makes a payment to a person for a project if—
+**(1)** This section applies when a public authority makes a payment to a person for a project if—
 
 - (a) the payment is not in the nature of a grant or subsidy; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Excluded income**
 
-**(2)**  The payment is excluded income of the person.
+**(2)** The payment is excluded income of the person.
 
 *Defined in this Act: excluded income, government screen production payment, grant-related suspensory loan, pay, public authority*
 

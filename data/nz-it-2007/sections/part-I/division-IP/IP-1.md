@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Breaches of continuity and commonality**
 
-**(1)**  This subpart applies if 1 or more of the following breaches occur:
+**(1)** This subpart applies if 1 or more of the following breaches occur:
 
 - (a) when commonality of ownership required by section IC 5(1)﻿(a) (Company B using company A's tax loss) is not met during a tax year (a commonality breach):
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Relationship with subparts IA, IB, IC, and ID: part-year calculations**
 
-**(2)**  The general rules for the treatment of tax losses in subparts IA, IB, IC, and ID (which relate to the general use and grouping of tax losses) apply, as modified or overridden by the provisions of this subpart, to—
+**(2)** The general rules for the treatment of tax losses in subparts IA, IB, IC, and ID (which relate to the general use and grouping of tax losses) apply, as modified or overridden by the provisions of this subpart, to—
 
 - (a) a part-year tax loss as if it were a tax loss for a tax year:
 

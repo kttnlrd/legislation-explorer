@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of the item (the CFC's cost fraction) in section EX 20C(11) to a CFC that is excessively debt funded under subsection (2) in relation to a person (the interest holder) with an income interest in the CFC.
+**(1)** This section applies for the purposes of the item (the CFC's cost fraction) in section EX 20C(11) to a CFC that is excessively debt funded under subsection (2) in relation to a person (the interest holder) with an income interest in the CFC.
 
 **Excessive debt funding**
 
-**(2)**  A CFC is excessively debt funded under this section if—
+**(2)** A CFC is excessively debt funded under this section if—
 
 - (a) the amount (the CFC's debt-asset ratio) calculated using the formula in subsection (4) is more than 0.75; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Calculations for CFC**
 
-**(3)**  For the purposes of subsections (4) to (8), the debts and assets of the CFC are determined under sections FE 8 to FE 11 (which contain rules for determining the apportionment of interest) as if the CFC were—
+**(3)** For the purposes of subsections (4) to (8), the debts and assets of the CFC are determined under sections FE 8 to FE 11 (which contain rules for determining the apportionment of interest) as if the CFC were—
 
 - (a) an excess debt outbound company; and
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Formula for debt-asset ratio of CFC**
 
-**(4)**  The formula for the CFC's debt-asset ratio referred to in subsection (2)﻿(a) is— (total CFC's debts − group funding) ÷ (total CFC's assets − total CFC's non-debt liabilities − group funding).
+**(4)** The formula for the CFC's debt-asset ratio referred to in subsection (2)﻿(a) is— (total CFC's debts − group funding) ÷ (total CFC's assets − total CFC's non-debt liabilities − group funding).
 
 **Definition of items in formula**
 
-**(5)**  The items in the formula in subsection (4) are defined in subsections (6) to (8B).
+**(5)** The items in the formula in subsection (4) are defined in subsections (6) to (8B).
 
 **Total CFC's debts**
 
-**(6)**  Total CFC's debts is the total amount for the CFC and the accounting period, determined under generally accepted accounting practice, of the outstanding balances of—
+**(6)** Total CFC's debts is the total amount for the CFC and the accounting period, determined under generally accepted accounting practice, of the outstanding balances of—
 
 - (a) financial arrangements entered by the CFC, each of which—
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Group funding**
 
-**(7)**  Group funding is—
+**(7)** Group funding is—
 
 - (a) if paragraph (b) does not apply, zero; or
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Total CFC's assets**
 
-**(8)**  Total CFC's assets is the total value of the CFC's assets determined under generally accepted accounting practice.
+**(8)** Total CFC's assets is the total value of the CFC's assets determined under generally accepted accounting practice.
 
 **Total CFC's non-debt liabilities**
 
@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 **Cost fraction for excessively debt funded CFC**
 
-**(9)**  For a CFC that is excessively debt funded, the item cost fraction for the purposes of this section is the amount calculated using the formula in subsection (10) and determining the debts and assets of a CFC under sections FE 8 to FE 11 as if the CFC were—
+**(9)** For a CFC that is excessively debt funded, the item cost fraction for the purposes of this section is the amount calculated using the formula in subsection (10) and determining the debts and assets of a CFC under sections FE 8 to FE 11 as if the CFC were—
 
 - (a) an excess debt outbound company; and
 
@@ -82,15 +82,15 @@ compilation_date: 2026-06-06
 
 **Formula for cost fraction**
 
-**(10)**  The formula for the CFC's cost fraction is— attributable foreign company assets ÷ total foreign company assets.
+**(10)** The formula for the CFC's cost fraction is— attributable foreign company assets ÷ total foreign company assets.
 
 **Definition of items in formula**
 
-**(11)**  The items in the formula in subsection (10) are defined in subsections (12) and (13).
+**(11)** The items in the formula in subsection (10) are defined in subsections (12) and (13).
 
 **Attributable foreign company assets**
 
-**(12)**  Attributable foreign company assets is the total value of assets, consolidated under generally accepted accounting practice for the accounting period, of all the interest holder's CFCs and of all the FIFs for which the interest holder uses the attributable FIF income method, to the extent to which each asset is—
+**(12)** Attributable foreign company assets is the total value of assets, consolidated under generally accepted accounting practice for the accounting period, of all the interest holder's CFCs and of all the FIFs for which the interest holder uses the attributable FIF income method, to the extent to which each asset is—
 
 - (a) used for the purpose of deriving an attributable CFC amount or an amount that is included in net attributable FIF income or loss; and
 
@@ -98,7 +98,7 @@ compilation_date: 2026-06-06
 
 **Total foreign company assets**
 
-**(13)**  Total foreign company assets is the total value of assets, consolidated under generally accepted accounting practice for the accounting period, of all the interest holder's CFCs and of all the FIFs for which the interest holder uses the attributable FIF income method.
+**(13)** Total foreign company assets is the total value of assets, consolidated under generally accepted accounting practice for the accounting period, of all the interest holder's CFCs and of all the FIFs for which the interest holder uses the attributable FIF income method.
 
 *Defined in this Act: accounting period, attributable FIF income method, CFC, deductible foreign equity distribution, deduction, excess debt outbound company, financial arrangement, fixed-rate foreign equity, generally accepted accounting practice, loss, net attributable FIF income, New Zealand resident*
 

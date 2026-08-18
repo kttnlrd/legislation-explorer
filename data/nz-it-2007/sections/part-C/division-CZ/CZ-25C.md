@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person and an income year (the current year) before the 2028–29 income year when the person,—
+**(1)** This section applies for a person and an income year (the current year) before the 2028–29 income year when the person,—
 
 - (a) in or before the current year, derives for buildings or land (the affected property), all of which is revenue account property under section CB 6, CB 7, CB 12, or CB 13 (which relate to income from certain disposals of land), insurance, a government or local authority buy-out or other compensation, or a combination of these, if a North Island flooding event damages the land or the building, or the neighbourhood of the building, causing the building to be useless for the purpose of deriving income and consequently to be demolished or abandoned for later demolition; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Suspended recovery income**
 
-**(2)**  The amount (the excess recovery) by which the insurance income referred to in subsection (1)﻿(b) exceeds the deductions referred to in subsection (1)﻿(b) is not income of the person except to the extent of the amount (the suspended recovery income) remaining after adjustment under subsection (3) that is attributed to an income year by subsection (5).
+**(2)** The amount (the excess recovery) by which the insurance income referred to in subsection (1)﻿(b) exceeds the deductions referred to in subsection (1)﻿(b) is not income of the person except to the extent of the amount (the suspended recovery income) remaining after adjustment under subsection (3) that is attributed to an income year by subsection (5).
 
 **Effect of purchase of replacement property**
 
-**(3)**  If the person incurs expenditure (the replacement cost) to acquire replacement property,—
+**(3)** If the person incurs expenditure (the replacement cost) to acquire replacement property,—
 
 - (a) for the purposes of determining the value of the replacement property for section EA 2 (Other revenue account property), the amount of the person's expenditure on the replacement property is reduced by—
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Requirements for replacement property**
 
-**(4)**  For an item of affected property, replacement property must be a building or land that is revenue account property—
+**(4)** For an item of affected property, replacement property must be a building or land that is revenue account property—
 
 - (a) acquired in or before the person's 2027–28 income year; and
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Amount remaining at end of 2027–28 income year or when person changes intentions, is liquidated, or becomes bankrupt**
 
-**(5)**  The person has an amount of income for the affected property in the current year equal to the amount of suspended recovery income when—
+**(5)** The person has an amount of income for the affected property in the current year equal to the amount of suspended recovery income when—
 
 - (a) the current year ends, if the current year is the 2027–28 income year:
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Notice of election for affected property**
 
-**(6)**  A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance for affected property must notify the Commissioner—
+**(6)** A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance for affected property must notify the Commissioner—
 
 - (a) by the later of 30 April 2024 and the date on which the return of income is filed for the earliest income year (the estimate year) in which the amount of the insurance for the affected property can be reasonably estimated; and
 
@@ -76,11 +76,11 @@ compilation_date: 2026-06-06
 
 **Later deadline for notice of election**
 
-**(7)**  The Commissioner may allow the person to file the notice under subsection (6) at a later time if the Commissioner considers there are exceptional circumstances.
+**(7)** The Commissioner may allow the person to file the notice under subsection (6) at a later time if the Commissioner considers there are exceptional circumstances.
 
 **Contents of notice of election**
 
-**(8)**  A notice under subsection (6) must—
+**(8)** A notice under subsection (6) must—
 
 - (a) describe the affected property; and
 
@@ -92,7 +92,7 @@ compilation_date: 2026-06-06
 
 **Relationship to other sections**
 
-**(9)**  This section overrides sections CB 6, CB 7, CB 12, CB 13, and CG 6.
+**(9)** This section overrides sections CB 6, CB 7, CB 12, CB 13, and CG 6.
 
 *Defined in this Act: amount, Commissioner, deduction, income, income year, land, liquidation, New Zealand, North Island flooding events, notice, notify, return of income, revenue account property*
 

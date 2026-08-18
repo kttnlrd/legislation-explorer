@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections HD 8 to HD 27 in relation to all income derived by a principal through an agent.
+**(1)** This section applies for the purposes of sections HD 8 to HD 27 in relation to all income derived by a principal through an agent.
 
 **Assessments, returns, and payment of tax**
 
-**(2)**  The agent must—
+**(2)** The agent must—
 
 - (a) make the assessments that their principal is required to make; and
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Joint and several liability**
 
-**(3)**  If 2 or more persons are liable as agents in relation to the same tax, the liability is joint and several.
+**(3)** If 2 or more persons are liable as agents in relation to the same tax, the liability is joint and several.
 
 **Agent as separate person**
 
-**(4)**  The agent is treated in that capacity as a separate person, and may claim in relation to the agency income only those tax credits or exemptions to which the principal is entitled.
+**(4)** The agent is treated in that capacity as a separate person, and may claim in relation to the agency income only those tax credits or exemptions to which the principal is entitled.
 
 *Defined in this Act: agent, assessment, income, income tax liability, return of income, tax, tax credit*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person—
+**(1)** This section applies when a person—
 
 - (a) has made a payment to which section DC 1 (Lump sum payments on retirement) would otherwise apply in the absence of this section; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Savings provision**
 
-**(2)**  Despite the express wording used in section DC 1, section DF 5 continues to apply for the person in relation to the tax position in the same manner as it applied immediately before the repeal of the Income Tax Act 1994 by the Income Tax Act 2004.
+**(2)** Despite the express wording used in section DC 1, section DF 5 continues to apply for the person in relation to the tax position in the same manner as it applied immediately before the repeal of the Income Tax Act 1994 by the Income Tax Act 2004.
 
 *Defined in this Act: deduction, income year, pay, tax position*
 

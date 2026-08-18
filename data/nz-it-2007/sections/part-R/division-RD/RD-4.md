@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Payments monthly or twice-monthly**
 
-**(1)**  An employer or PAYE intermediary who withholds an amount of tax for a PAYE income payment must pay the amount to the Commissioner as follows:
+**(1)** An employer or PAYE intermediary who withholds an amount of tax for a PAYE income payment must pay the amount to the Commissioner as follows:
 
 - (a) on a monthly basis, if they are an employer to whom subsection (2) applies:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Monthly payments**
 
-**(2)**  For the purposes of subsection (1)﻿(a), an employer must pay the amount of tax withheld by the 20th day of the month following the month in which the PAYE income payment is made if they are—
+**(2)** For the purposes of subsection (1)﻿(a), an employer must pay the amount of tax withheld by the 20th day of the month following the month in which the PAYE income payment is made if they are—
 
 - (a) an employer who—
 
@@ -32,19 +32,19 @@ compilation_date: 2026-06-06
 
 **Twice-monthly payments**
 
-**(3)**  An employer to whom subsection (1)﻿(b) applies must pay the amount of tax withheld to the Commissioner by the dates referred to in section RA 15(2) (Payment dates for interim and other tax payments).
+**(3)** An employer to whom subsection (1)﻿(b) applies must pay the amount of tax withheld to the Commissioner by the dates referred to in section RA 15(2) (Payment dates for interim and other tax payments).
 
 **Liability when amount not withheld**
 
-**(4)**  If some or all of the amount of tax for a PAYE income payment is not withheld under subsection (1), the employee in relation to whom the payment is required to have been made must pay to the Commissioner under section RD 21 an amount equal to the amount of tax by the 20th day of the month following the month in which the PAYE income payment was made.
+**(4)** If some or all of the amount of tax for a PAYE income payment is not withheld under subsection (1), the employee in relation to whom the payment is required to have been made must pay to the Commissioner under section RD 21 an amount equal to the amount of tax by the 20th day of the month following the month in which the PAYE income payment was made.
 
 **Amounts aggregated for threshold purposes**
 
-**(5)**  For the purposes of determining whether a threshold referred to in subsection (2)﻿(a)﻿(ii) and (b) is reached, if the employer ends their business and starts a new business, or operates 2 or more businesses at the same time, all amounts of tax withheld must be aggregated.
+**(5)** For the purposes of determining whether a threshold referred to in subsection (2)﻿(a)﻿(ii) and (b) is reached, if the employer ends their business and starts a new business, or operates 2 or more businesses at the same time, all amounts of tax withheld must be aggregated.
 
 **Persons treated as single employers**
 
-**(6)**  For the purposes of this section, the following are treated as 1 employer:
+**(6)** For the purposes of this section, the following are treated as 1 employer:
 
 - (a) 2 or more companies if they are part of a group of companies at a time in the relevant tax year:
 
@@ -64,9 +64,9 @@ compilation_date: 2026-06-06
 
 **Threshold changes by Order in Council**
 
-**(7)**  The Governor-General may, on the recommendation of the Minister of Revenue, make an Order in Council amending the threshold amount referred to in subsection (2). Before making the recommendation, the Minister must undertake consultation on the proposed amendment that is appropriate and reasonable for the purposes of this section.
+**(7)** The Governor-General may, on the recommendation of the Minister of Revenue, make an Order in Council amending the threshold amount referred to in subsection (2). Before making the recommendation, the Minister must undertake consultation on the proposed amendment that is appropriate and reasonable for the purposes of this section.
 
-**(8)**  An Order in Council under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+**(8)** An Order in Council under subsection (7) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 *Defined in this Act: amount, amount of tax, business, Commissioner, company, employee, employer, gross, group of companies, partner, partnership, pay, PAYE income payment, PAYE intermediary, payment period, tax year, trustee*
 

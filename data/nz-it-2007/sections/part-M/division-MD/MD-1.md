@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Tax credit**
 
-**(1)**  A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to a tax credit (the abating WFF tax credit) equal to an amount calculated using the formula in subsection (2).
+**(1)** A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to a tax credit (the abating WFF tax credit) equal to an amount calculated using the formula in subsection (2).
 
 **Formula**
 
-**(2)**  The formula is— family tax credit + (in-work tax credit or child tax credit) + parental tax credit − credit abatement.
+**(2)** The formula is— family tax credit + (in-work tax credit or child tax credit) + parental tax credit − credit abatement.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) family tax credit is the family tax credit for the entitlement period calculated using the formula in section MD 3:
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Extra instalment**
 
-**(4)**  This section is overridden by section 80KW of the Tax Administration Act 1994.
+**(4)** This section is overridden by section 80KW of the Tax Administration Act 1994.
 
 *Defined in this Act: abating WFF tax credit, amount, child tax credit, entitlement period, family credit abatement, family tax credit, in-work tax credit, parental tax credit, tax credit*
 

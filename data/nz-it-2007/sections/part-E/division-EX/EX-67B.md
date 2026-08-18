@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person inherited, before 1 April 2007, an interest in a FIF that was a grey list company when the interest was inherited; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Treatment as disposal and reacquisition**
 
-**(2)**  The person is treated as having—
+**(2)** The person is treated as having—
 
 - (a) disposed of the interest immediately before this section applied to the person and the interest; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Cost of inherited interest for purposes of tax liability**
 
-**(3)**  For determining a tax liability of the person arising from the disposal, the cost of the interest for the person at the time of the inheritance is treated as being the lesser of—
+**(3)** For determining a tax liability of the person arising from the disposal, the cost of the interest for the person at the time of the inheritance is treated as being the lesser of—
 
 - (a) the market value of the interest at the time of the inheritance:
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Payment of tax liability arising from revaluation**
 
-**(4)**  A person who is liable to pay an amount of income tax (the amount of tax) because of a disposal in an income year, and related acquisition, treated as occurring under this section—
+**(4)** A person who is liable to pay an amount of income tax (the amount of tax) because of a disposal in an income year, and related acquisition, treated as occurring under this section—
 
 - (a) may satisfy the liability by paying to the Commissioner—
 

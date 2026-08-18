@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  An amount that a person derives from a business is income of the person.
+**(1)** An amount that a person derives from a business is income of the person.
 
 **Exclusion**
 
-**(2)**  Subsection (1) does not apply to an amount that is of a capital nature.
+**(2)** Subsection (1) does not apply to an amount that is of a capital nature.
 
 *Defined in this Act: amount, business, income*
 

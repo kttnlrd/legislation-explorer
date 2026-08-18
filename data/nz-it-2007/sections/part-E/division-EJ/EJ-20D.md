@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section EJ 20B(4)﻿(a) for the item rate in the formula that determines the amount of the deduction a mineral miner is allowed for an income year that falls in the spreading period described in section EJ 20C.
+**(1)** This section applies for the purposes of section EJ 20B(4)﻿(a) for the item rate in the formula that determines the amount of the deduction a mineral miner is allowed for an income year that falls in the spreading period described in section EJ 20C.
 
 **Formula for straight-line rate**
 
-**(2)**  The formula for the straight-line rate is— 100% ÷ assumed life.
+**(2)** The formula for the straight-line rate is— 100% ÷ assumed life.
 
 **Definition of item in formula**
 
-**(3)**  In the formula, assumed life, for an amount of expenditure and an income year, is the period that is the lesser of the following periods:
+**(3)** In the formula, assumed life, for an amount of expenditure and an income year, is the period that is the lesser of the following periods:
 
 - (a) the period that—
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Reassessment of life of mine**
 
-**(4)**  A mineral miner must reassess the assumed life of the mine for the purposes of this section and sections DU 11 (Meaning of mining development expenditure) and EJ 20C. A reassessment must be made at the end of each income year that falls within the period, and applies from the start of the next income year for all remaining income years in the period in relation to all outstanding expenditure for which no deduction has yet been allowed.
+**(4)** A mineral miner must reassess the assumed life of the mine for the purposes of this section and sections DU 11 (Meaning of mining development expenditure) and EJ 20C. A reassessment must be made at the end of each income year that falls within the period, and applies from the start of the next income year for all remaining income years in the period in relation to all outstanding expenditure for which no deduction has yet been allowed.
 
 *Defined in this Act: commercial production, deduction, income year, listed industrial mineral, mineral miner, permit area, straight-line rate*
 

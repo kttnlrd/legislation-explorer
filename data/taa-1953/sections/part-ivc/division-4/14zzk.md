@@ -18,16 +18,16 @@ source_pdf: "vol01.pdf"
 On an application for review of a reviewable objection decision:
 
 > <a id="s14ZZK-a"></a>
-> **(a)**  the applicant is, unless the ART orders otherwise, limited to the grounds stated in the taxation objection to which the decision relates; and
+> **(a)** the applicant is, unless the ART orders otherwise, limited to the grounds stated in the taxation objection to which the decision relates; and
 
 > <a id="s14ZZK-b"></a>
-> **(b)**  the applicant has the burden of proving:
+> **(b)** the applicant has the burden of proving:
 
 > > <a id="s14ZZK-i"></a>
-> > **(i)**  if the taxation decision concerned is an assessment— that the assessment is excessive or otherwise incorrect and what the assessment should have been; or
+> > **(i)** if the taxation decision concerned is an assessment— that the assessment is excessive or otherwise incorrect and what the assessment should have been; or
 
 > > <a id="s14ZZK-ii"></a>
-> > **(ii)**  in any other case—that the taxation decision concerned should not have been made or should have been made differently.
+> > **(ii)** in any other case—that the taxation decision concerned should not have been made or should have been made differently.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

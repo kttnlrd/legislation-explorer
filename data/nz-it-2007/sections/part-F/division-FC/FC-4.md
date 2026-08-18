@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in the circumstances described in section FC 1(1)﻿(b) when tax-base property is transferred on a person's death if—
+**(1)** This section applies in the circumstances described in section FC 1(1)﻿(b) when tax-base property is transferred on a person's death if—
 
 - (a) each beneficiary of the deceased person is described in subsection (2); and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Beneficiaries of deceased**
 
-**(2)**  A beneficiary of the deceased person must be—
+**(2)** A beneficiary of the deceased person must be—
 
 - (a) a close relative of the deceased person:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Income from estate must be distributed**
 
-**(3)**  While the administration of the estate is continuing, the net income of the estate is distributed to the extent allowed—
+**(3)** While the administration of the estate is continuing, the net income of the estate is distributed to the extent allowed—
 
 - (a) under the will or the rules governing intestacy; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Transfer subject to subpart FB**
 
-**(4)**  The transfer is treated as a transfer of property on a settlement of relationship property under subpart FB (Transfers of relationship property).
+**(4)** The transfer is treated as a transfer of property on a settlement of relationship property under subpart FB (Transfers of relationship property).
 
 *Defined in this Act: close relative, net income, property, settlement of relationship property, tax-base property, trustee*
 

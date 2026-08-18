@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of determining the amount that is included in the family scheme income of a person for an income year when the person is a major shareholder in a close company (the company) on the last day of the company's income year.
+**(1)** This section applies for the purposes of determining the amount that is included in the family scheme income of a person for an income year when the person is a major shareholder in a close company (the company) on the last day of the company's income year.
 
 **Income amount**
 
-**(2)**  The amount included in the person's family scheme income is the greater of—
+**(2)** The amount included in the person's family scheme income is the greater of—
 
 - (a) zero; and
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **First formula: family scheme income**
 
-**(3)**  For the purposes of subsection (2), the relevant amount is calculated using the formula— (person's interest + attributed interest) × (income − dividends).
+**(3)** For the purposes of subsection (2), the relevant amount is calculated using the formula— (person's interest + attributed interest) × (income − dividends).
 
 **Definition of items in formula in subsection (3)**
 
-**(4)**  In the formula in subsection (3),—
+**(4)** In the formula in subsection (3),—
 
 - (a) person's interest is the percentage voting interests for the company held, on the last day of the company's income year, by the person:
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Second formula: attributed interest**
 
-**(5)**  For the purposes of the item attributed interest in subsection (4)﻿(b), the relevant amount is calculated using the formula— dependent child interest ÷ relevant major shareholders.
+**(5)** For the purposes of the item attributed interest in subsection (4)﻿(b), the relevant amount is calculated using the formula— dependent child interest ÷ relevant major shareholders.
 
 **Definition of items in formula in subsection (5)**
 
-**(6)**  In the formula in subsection (5),—
+**(6)** In the formula in subsection (5),—
 
 - (a) dependent child interest is the total percentage voting interests for the company held, on the last day of the company's income year, by—
 
@@ -62,11 +62,11 @@ compilation_date: 2026-06-06
 
 **Main income equalisation deposits**
 
-**(7)**  For the purposes of subsection (2)﻿(b), if the company makes a main income equalisation deposit for the company's income year, the amount of the deposit is added to the item income in the formula in subsection (3).
+**(7)** For the purposes of subsection (2)﻿(b), if the company makes a main income equalisation deposit for the company's income year, the amount of the deposit is added to the item income in the formula in subsection (3).
 
 **Main income equalisation refunds**
 
-**(8)**  For the purposes of subsection (2)﻿(b), if the company receives a main income equalisation refund for the company's income year, the amount of the refund is subtracted from the item income in the formula in subsection (3).
+**(8)** For the purposes of subsection (2)﻿(b), if the company receives a main income equalisation refund for the company's income year, the amount of the refund is subtracted from the item income in the formula in subsection (3).
 
 *Defined in this Act: amount, civil union partner, close company, de facto partner, dependent child, dividend, family scheme income, income year, main income equalisation account, main income equalisation deposit, main income equalisation refund, major shareholder, net income, principal caregiver, share, spouse, voting interest*
 

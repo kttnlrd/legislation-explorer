@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A petroleum miner is allowed a deduction for expenditure that they incur before 16 December 1991 in drilling, testing, completing, and abandoning an exploratory well if—
+**(1)** A petroleum miner is allowed a deduction for expenditure that they incur before 16 December 1991 in drilling, testing, completing, and abandoning an exploratory well if—
 
 - (a) the miner seals and abandons the well before commercial production from the well starts; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Sealing and abandoning well**
 
-**(2)**  To seal and abandon an exploratory well, a petroleum miner must make a declaration under the Oaths and Declarations Act 1957 that they do not intend—
+**(2)** To seal and abandon an exploratory well, a petroleum miner must make a declaration under the Oaths and Declarations Act 1957 that they do not intend—
 
 - (a) to use the exploratory well in petroleum mining operations; or
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(3)**  The deduction is allocated to the income year in which the well is sealed and abandoned.
+**(3)** The deduction is allocated to the income year in which the well is sealed and abandoned.
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(4)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: capital limitation, commercial production, deduction, existing privilege, exploratory well, general limitation, general permission, income year, petroleum miner, petroleum mining operations, seal and abandonment*
 

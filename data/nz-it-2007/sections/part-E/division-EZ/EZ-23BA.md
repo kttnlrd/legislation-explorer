@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person, before the 2017–18 income year, acquires an aircraft engine or an aircraft including an unpriced aircraft engine; and
 
@@ -24,19 +24,19 @@ compilation_date: 2026-06-06
 
 **Base value reduced by cost of overhaul**
 
-**(2)**  The item base value referred to in subsection (1)﻿(c) for the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the included amount referred to in that paragraph.
+**(2)** The item base value referred to in subsection (1)﻿(c) for the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the included amount referred to in that paragraph.
 
 **Adjusted tax value reduced by depreciated cost of overhaul**
 
-**(3)**  The adjusted tax value of the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the proportion of the adjusted tax value that corresponds to the depreciated cost to the person of the aircraft engine overhaul referred to in subsection (1)﻿(c).
+**(3)** The adjusted tax value of the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the proportion of the adjusted tax value that corresponds to the depreciated cost to the person of the aircraft engine overhaul referred to in subsection (1)﻿(c).
 
 **Total deductions increased by reduction in base value**
 
-**(4)**  For the purposes of section EE 60, an amount equal to the difference between the reduction required by subsection (2) and the reduction required by subsection (3) is included as a decrease in the item total deductions for the aircraft engine or aircraft.
+**(4)** For the purposes of section EE 60, an amount equal to the difference between the reduction required by subsection (2) and the reduction required by subsection (3) is included as a decrease in the item total deductions for the aircraft engine or aircraft.
 
 **Fair and reasonable proportion of base value and adjusted tax value**
 
-**(5)**  For the purposes of subsections (2) and (3), the proportion of the base value or adjusted tax value that corresponds to the cost or depreciated cost to the person of the aircraft engine overhaul is the amount that is fair and reasonable, taking into consideration—
+**(5)** For the purposes of subsections (2) and (3), the proportion of the base value or adjusted tax value that corresponds to the cost or depreciated cost to the person of the aircraft engine overhaul is the amount that is fair and reasonable, taking into consideration—
 
 - (a) the principles used in determining the amount of a deduction allowed under section DW 5 (Aircraft operators: aircraft engines and aircraft engine overhauls) for an aircraft engine or aircraft in the 2017–18 or a later income year:
 

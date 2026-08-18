@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in certain circumstances when an employer pays a PAYE income payment to a cross-border employee who provides services in New Zealand. For this purpose, the payment may include an amount paid to the person after they have left New Zealand that is a payment for services provided by the person while they were in New Zealand.
+**(1)** This section applies in certain circumstances when an employer pays a PAYE income payment to a cross-border employee who provides services in New Zealand. For this purpose, the payment may include an amount paid to the person after they have left New Zealand that is a payment for services provided by the person while they were in New Zealand.
 
 **Amounts treated as derived 20 days after payment**
 
-**(2)**  When the employee remains on the employer's payroll system in a country or territory outside New Zealand, the PAYE income payment is treated as derived by them on the 20th day after payment when the employer chooses to deliver their employment income information under section 23J(3) of the Tax Administration Act 1994.
+**(2)** When the employee remains on the employer's payroll system in a country or territory outside New Zealand, the PAYE income payment is treated as derived by them on the 20th day after payment when the employer chooses to deliver their employment income information under section 23J(3) of the Tax Administration Act 1994.
 
 **Employees undertaking tax obligations**
 
-**(3)**  When an amount of tax is not withheld or when payment is insufficient as described in section RD 21, RD 62B, or RD 71B, as applicable, and the employee must undertake the relevant tax obligations in relation to employment, they must do so as if an employer, and, for this purpose, may pay the initial amount of tax for the payment as a lump sum.
+**(3)** When an amount of tax is not withheld or when payment is insufficient as described in section RD 21, RD 62B, or RD 71B, as applicable, and the employee must undertake the relevant tax obligations in relation to employment, they must do so as if an employer, and, for this purpose, may pay the initial amount of tax for the payment as a lump sum.
 
 **Meeting or correcting employment-related tax obligations**
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Meaning of cross-border employee**
 
-**(4)**  For the purposes of this section and sections CE 1(3B), RA 15(4B), RD 62B, RD 65, and RD 71B, and sections 23IB, 120B, and 141ED of the Tax Administration Act 1994, a cross-border employee—
+**(4)** For the purposes of this section and sections CE 1(3B), RA 15(4B), RD 62B, RD 65, and RD 71B, and sections 23IB, 120B, and 141ED of the Tax Administration Act 1994, a cross-border employee—
 
 - (a) means—
 

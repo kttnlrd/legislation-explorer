@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person owns a commercial building and the building is depreciable property with an annual rate of 0% in an income year; and
 
@@ -26,27 +26,27 @@ compilation_date: 2026-06-06
 
 **Deduction for commercial fit-out**
 
-**(2)**  Except as provided in subsection (4), the person is treated as having a loss for the income year equal to the amount calculated using the formula— starting pool × 0.015 × whole months ÷ 12.
+**(2)** Except as provided in subsection (4), the person is treated as having a loss for the income year equal to the amount calculated using the formula— starting pool × 0.015 × whole months ÷ 12.
 
 **Calculation of starting pool**
 
-**(3)**  Starting pool is the amount given by the formula— (0.15 × building atv) − fit-out atv.
+**(3)** Starting pool is the amount given by the formula— (0.15 × building atv) − fit-out atv.
 
 **Deduction limited to value of starting pool**
 
-**(4)**  Despite subsection (2), if the amount given by the formula in subsection (2) is more than the amount given by the formula in subsection (5), then the person is treated as having a loss for the income year equal to the amount given by the formula in subsection (5).
+**(4)** Despite subsection (2), if the amount given by the formula in subsection (2) is more than the amount given by the formula in subsection (5), then the person is treated as having a loss for the income year equal to the amount given by the formula in subsection (5).
 
 **Calculation of deduction limit**
 
-**(5)**  For the purposes of subsection (4), the formula is— starting pool − historical fit-out deductions − fit-out deductions − imputed deductions.
+**(5)** For the purposes of subsection (4), the formula is— starting pool − historical fit-out deductions − fit-out deductions − imputed deductions.
 
 **Imputed deductions**
 
-**(6)**  The amount of the imputed deductions is— starting pool × 0.015 × 4.
+**(6)** The amount of the imputed deductions is— starting pool × 0.015 × 4.
 
 **Definition of items in formulas**
 
-**(7)**  In the formulas in subsections (2), (3), (5), and (6), as applicable, —
+**(7)** In the formulas in subsections (2), (3), (5), and (6), as applicable, —
 
 - (a) starting pool is the amount given by the formula in subsection (3):
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 **Treatment of amounts under specific and general rules for deductions**
 
-**(8)**  The capital limitation does not apply to a loss under this section merely because the item of property is itself of a capital nature.
+**(8)** The capital limitation does not apply to a loss under this section merely because the item of property is itself of a capital nature.
 
 *Defined in this Act: adjusted tax value, amount, assessable income, capital limitation, commercial building, commercial fit-out, deduction, depreciable property, depreciation loss, income year*
 

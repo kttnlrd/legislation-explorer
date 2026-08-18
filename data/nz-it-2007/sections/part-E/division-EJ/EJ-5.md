@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Films other than feature films**
 
-**(1)**  A deduction for expenditure that a person incurs in acquiring a film right is allocated under this section if the film is not a feature film and—
+**(1)** A deduction for expenditure that a person incurs in acquiring a film right is allocated under this section if the film is not a feature film and—
 
 - (a) the deduction is allowed under section DS 1 (Acquiring film rights):
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Timing of deduction: retention of film right**
 
-**(2)**  If the person has the film right at the end of an income year,—
+**(2)** If the person has the film right at the end of an income year,—
 
 - (a) the deduction that is allocated to the income year in which the film right is acquired or the film is completed, whichever is later, is—
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Timing of deduction: disposal of film right**
 
-**(3)**  If the person disposes of the film right during an income year, and does not have a film right in the film at the end of the income year, the remaining deduction is allocated to the income year.
+**(3)** If the person disposes of the film right during an income year, and does not have a film right in the film at the end of the income year, the remaining deduction is allocated to the income year.
 
 **Meaning of remaining deduction**
 
-**(4)**  In this section, remaining deduction means, for an income year, the amount of the deduction that has not been allocated to an earlier income year.
+**(4)** In this section, remaining deduction means, for an income year, the amount of the deduction that has not been allocated to an earlier income year.
 
 *Defined in this Act: amount, completed, deduction, feature film, film, film income, film right, income year, large budget film grant, remaining deduction*
 

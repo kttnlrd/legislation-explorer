@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person holds rights that cease to be an attributing interest in a FIF because an entity ceases to be a FIF.
+**(1)** This section applies when a person holds rights that cease to be an attributing interest in a FIF because an entity ceases to be a FIF.
 
 **Treatment as disposal and reacquisition**
 
-**(2)**  The person is treated as having,—
+**(2)** The person is treated as having,—
 
 - (a) immediately before the change, disposed of the interest to an unrelated person; and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Calculation of reduction in FIF income or loss**
 
-**(3)**  If the change occurs during an accounting period of the FIF and the person uses the attributable FIF income method to calculate FIF income or FIF loss from the rights for that period, section EX 24 does not apply and the FIF income or FIF loss is reduced by subtracting the amount calculated using the formula— FIF income or loss × days after change ÷ days in period.
+**(3)** If the change occurs during an accounting period of the FIF and the person uses the attributable FIF income method to calculate FIF income or FIF loss from the rights for that period, section EX 24 does not apply and the FIF income or FIF loss is reduced by subtracting the amount calculated using the formula— FIF income or loss × days after change ÷ days in period.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) FIF income or loss is the FIF income or FIF loss of the person from the rights for the period before allowing for the reduction:
 

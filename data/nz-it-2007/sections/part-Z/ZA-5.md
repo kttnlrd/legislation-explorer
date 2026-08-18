@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When, and extent to which, this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a determination has been made before the beginning of the 2008–09 income year under—
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Determination about new law**
 
-**(2)**  The determination is treated as if it were made about the new law, so that the effect of the determination at the commencement of this Act is the same as its effect before the commencement.
+**(2)** The determination is treated as if it were made about the new law, so that the effect of the determination at the commencement of this Act is the same as its effect before the commencement.
 
 **No confirmation determinations**
 
-**(3)**  To the extent to which a determination continued by subsection (2) applies, the Commissioner must not make a determination on how the new law applies.
+**(3)** To the extent to which a determination continued by subsection (2) applies, the Commissioner must not make a determination on how the new law applies.
 
 *Defined in this Act: commencement of this Act, Commissioner, taxation law*
 

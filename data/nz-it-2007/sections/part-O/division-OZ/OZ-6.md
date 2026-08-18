@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  The section applies when a public unit trust or a group investment fund that derives category A income—
+**(1)** The section applies when a public unit trust or a group investment fund that derives category A income—
 
 - (a) redeems a share within the meaning in paragraphs (c) and (d) of the definition of share in section YA 1 (Definitions); and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(2)**  The company may choose to establish an ASC account, and the only ASC credit arising in the account is an ASC credit for an opening balance calculated under section OZ 5(5).
+**(2)** The company may choose to establish an ASC account, and the only ASC credit arising in the account is an ASC credit for an opening balance calculated under section OZ 5(5).
 
 **Closing balance**
 
-**(3)**  An opening balance under subsection (2) is treated as the closing balance of the account.
+**(3)** An opening balance under subsection (2) is treated as the closing balance of the account.
 
 *Defined in this Act: ASC account, ASC credit, category A income, complying trust, group investment fund, public unit trust, share*
 

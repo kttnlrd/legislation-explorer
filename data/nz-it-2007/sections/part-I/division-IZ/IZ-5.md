@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Loss balances carried forward**
 
-**(1)**  A company's loss balance for a tax year before the 1991–92 tax year may be used under section IA 4 (Using loss balances carried forward to tax year) if—
+**(1)** A company's loss balance for a tax year before the 1991–92 tax year may be used under section IA 4 (Using loss balances carried forward to tax year) if—
 
 - (a) the company would have been entitled to have some or all of the tax loss under section 188 of the Income Tax Act 1976 carried forward to a later tax year, if that section had continued to apply in the later tax year, as modified by section 188AA of that Act and as if the continuity percentage referred to in section 188(7) of that Act were always 40%; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Market value circumstances and minimum interests**
 
-**(2)**  For the purposes of subsection (1)﻿(b),—
+**(2)** For the purposes of subsection (1)﻿(b),—
 
 - (a) if, during the period a market value circumstance exists for the company, the group of persons must also hold for the period total minimum market value interests in the company that add up to at least 49%:
 

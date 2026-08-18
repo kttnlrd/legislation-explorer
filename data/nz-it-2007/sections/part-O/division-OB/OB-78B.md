@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(1)**  On meeting the requirements of subsection (2), a co-operative company that is an ICA company may choose, for an income year, to attach an imputation credit to a cash distribution paid to the members of a group of the company's shareholders and be denied a deduction for the payment by section DV 18 (Statutory producer boards and co-operative companies).
+**(1)** On meeting the requirements of subsection (2), a co-operative company that is an ICA company may choose, for an income year, to attach an imputation credit to a cash distribution paid to the members of a group of the company's shareholders and be denied a deduction for the payment by section DV 18 (Statutory producer boards and co-operative companies).
 
 **Requirements**
 
-**(2)**  A co-operative company may make an election under subsection (1) if—
+**(2)** A co-operative company may make an election under subsection (1) if—
 
 - (a) the company is registered under the Co-operative Companies Act 1996; and
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Total credit attached**
 
-**(3)**  The total amount of imputation credit attached to the distribution is calculated using the formula— total net dividend × tax rate ÷ (1 − tax rate).
+**(3)** The total amount of imputation credit attached to the distribution is calculated using the formula— total net dividend × tax rate ÷ (1 − tax rate).
 
 **Definition of items in formula**
 
-**(4)**  In the formula in subsection (3),—
+**(4)** In the formula in subsection (3),—
 
 - (a) total net dividend is the total amount of the distribution excluding the amount of imputation credit:
 
@@ -46,11 +46,11 @@ compilation_date: 2026-06-06
 
 **Shareholder's credit**
 
-**(5)**  The amount of a shareholder's share of the imputation credit attached as described in subsection (3) is calculated using the formula— shareholder's distribution ÷ total distribution × total imputation credit attached.
+**(5)** The amount of a shareholder's share of the imputation credit attached as described in subsection (3) is calculated using the formula— shareholder's distribution ÷ total distribution × total imputation credit attached.
 
 **Definition of items in formula**
 
-**(6)**  In the formula in subsection (5),—
+**(6)** In the formula in subsection (5),—
 
 - (a) shareholder's distribution is the amount that is the shareholder's share of the distribution, excluding the amount of imputation credit:
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section OZ 15**
 
-**(7)**  Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (3).
+**(7)** Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (3).
 
 *Defined in this Act: amount, Commissioner, co-operative company, deduction, dividend, ICA company, imputation credit, income tax, income year, notify, pay, produce transactions, shareholder*
 

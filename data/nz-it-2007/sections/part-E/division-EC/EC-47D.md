@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person owns high-priced bloodstock that they acquired as a prospective bloodstock breeder; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Treatment as disposal at market value**
 
-**(2)**  The person is treated as having disposed of the high-priced bloodstock. The disposal is treated as having occurred at the high-priced bloodstock's market value on the day on which the person's expectation or intention first changed.
+**(2)** The person is treated as having disposed of the high-priced bloodstock. The disposal is treated as having occurred at the high-priced bloodstock's market value on the day on which the person's expectation or intention first changed.
 
 *Defined in this Act: deduction, high-priced bloodstock, prospective bloodstock breeder*
 

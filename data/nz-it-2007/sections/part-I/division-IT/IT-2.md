@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to the amount of a life insurer's tax loss to be carried forward to a tax year corresponding to an income year that includes 1 July 2010 and later tax years.
+**(1)** This section applies to the amount of a life insurer's tax loss to be carried forward to a tax year corresponding to an income year that includes 1 July 2010 and later tax years.
 
 **Cancellation of life insurer's tax loss**
 
-**(2)**  When the life insurer has for an income year a policyholder base allowable deduction as provided by section EZ 61 (Allowance for cancelled amount: spreading), an equal amount—
+**(2)** When the life insurer has for an income year a policyholder base allowable deduction as provided by section EZ 61 (Allowance for cancelled amount: spreading), an equal amount—
 
 - (a) is removed from the life insurer's available tax loss for the tax year corresponding to the income year; and
 

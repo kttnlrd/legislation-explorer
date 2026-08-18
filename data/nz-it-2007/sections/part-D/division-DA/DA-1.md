@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Nexus with income**
 
-**(1)**  A person is allowed a deduction for an amount of expenditure or loss, including an amount of depreciation loss, to the extent to which the expenditure or loss is—
+**(1)** A person is allowed a deduction for an amount of expenditure or loss, including an amount of depreciation loss, to the extent to which the expenditure or loss is—
 
 - (a) incurred by them in deriving—
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **General permission**
 
-**(2)**  Subsection (1) is called the general permission.
+**(2)** Subsection (1) is called the general permission.
 
 **Avoidance arrangements**
 
-**(3)**  Section GB 33 (Arrangements involving depreciation loss) may apply to override the general permission in relation to an amount of depreciation loss.
+**(3)** Section GB 33 (Arrangements involving depreciation loss) may apply to override the general permission in relation to an amount of depreciation loss.
 
 *Defined in this Act: amount, assessable income, business, deduction, depreciation loss, excluded income, general permission, loss*
 

@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when the Commissioner considers that the amount of a tax credit under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit) set off or refunded to a person for a tax year is more than the proper amount.
+**(1)** This section applies when the Commissioner considers that the amount of a tax credit under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit) set off or refunded to a person for a tax year is more than the proper amount.
 
 **Recovery of overpayment**
 
-**(2)**  The Commissioner may recover the excess as if it were income tax payable by the person. However, if, throughout the tax year, the person is in a relationship with a spouse, civil union partner, or de facto partner, the person and that spouse or partner are jointly and severally liable for the payment of the excess.
+**(2)** The Commissioner may recover the excess as if it were income tax payable by the person. However, if, throughout the tax year, the person is in a relationship with a spouse, civil union partner, or de facto partner, the person and that spouse or partner are jointly and severally liable for the payment of the excess.
 
 **Shortfall penalties**
 
-**(3)**  The person is not liable for a shortfall penalty under Part 9 of the Tax Administration Act 1994 in relation to an amount that the Commissioner may recover under this section if the amount set off or refunded is more than the proper amount because the person—
+**(3)** The person is not liable for a shortfall penalty under Part 9 of the Tax Administration Act 1994 in relation to an amount that the Commissioner may recover under this section if the amount set off or refunded is more than the proper amount because the person—
 
 - (a) applied for a tax credit under section 41 of that Act before 1 April 2007; and
 

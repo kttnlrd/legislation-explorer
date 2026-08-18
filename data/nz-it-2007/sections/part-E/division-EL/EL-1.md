@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General outline**
 
-**(1)**  The provisions in this subpart, in general,—
+**(1)** The provisions in this subpart, in general,—
 
 - (a) limit a person's deductions for expenditure incurred in relation to residential land to income derived from the land; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Allocation rules**
 
-**(2)**  Separate allocation rules apply for—
+**(2)** Separate allocation rules apply for—
 
 - (a) residential rental property, see the outline in section EL 2(1) to (6):
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Valuation at cost**
 
-**(1)**  A person may determine the value of their closing stock at cost. If the person chooses this method, they must include and allocate costs under generally accepted accounting practice or as described in subsection (1B)﻿(b).
+**(1)** A person may determine the value of their closing stock at cost. If the person chooses this method, they must include and allocate costs under generally accepted accounting practice or as described in subsection (1B)﻿(b).
 
 **Valuation at cost: agricultural produce**
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Whether valuation correct**
 
-**(2)**  For the purposes of subsection (1), the person has not complied with generally accepted accounting practice if the value of closing stock is materially different from the value obtained by applying, to the closing stock, NZIAS 2 or an equivalent standard issued in its place.
+**(2)** For the purposes of subsection (1), the person has not complied with generally accepted accounting practice if the value of closing stock is materially different from the value obtained by applying, to the closing stock, NZIAS 2 or an equivalent standard issued in its place.
 
 **Definition**
 
-**(3)**  In this section, NZIAS 41 means New Zealand Equivalent to International Accounting Standard 41, in effect under the Financial Reporting Act 2013 as amended from time to time, or an equivalent standard issued in its place.
+**(3)** In this section, NZIAS 41 means New Zealand Equivalent to International Accounting Standard 41, in effect under the Financial Reporting Act 2013 as amended from time to time, or an equivalent standard issued in its place.
 
 *Defined in this Act: closing stock, cost, generally accepted accounting practice, NZIAS 2, NZIAS 41*
 

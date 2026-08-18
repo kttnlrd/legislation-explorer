@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Valuation methods for excepted financial arrangements**
 
-**(1)**  A person who has revenue account property that is an excepted financial arrangement must determine the value of the arrangement at the end of each income year at cost.
+**(1)** A person who has revenue account property that is an excepted financial arrangement must determine the value of the arrangement at the end of each income year at cost.
 
 **Valuation method for right to acquire share under share-lending arrangement**
 
-**(2)**  Despite subsection (1), a share supplier's share-lending right has the value at the end of each income year that is equal to the amount described in subsection (4).
+**(2)** Despite subsection (1), a share supplier's share-lending right has the value at the end of each income year that is equal to the amount described in subsection (4).
 
 **Valuation method for share acquired by share supplier under share-lending arrangement**
 
-**(3)**  Despite subsection (1), the original share or an identical share acquired by a share supplier from a share user under a share-lending arrangement has the value at the end of each income year that is equal to the amount described in subsection (4).
+**(3)** Despite subsection (1), the original share or an identical share acquired by a share supplier from a share user under a share-lending arrangement has the value at the end of each income year that is equal to the amount described in subsection (4).
 
 **Amount**
 
-**(4)**  For subsections (2) and (3), the amount is the value of the original share at cost, determined by applying this section to the share immediately before the share supplier's disposal of the share under the relevant share-lending arrangement.
+**(4)** For subsections (2) and (3), the amount is the value of the original share at cost, determined by applying this section to the share immediately before the share supplier's disposal of the share under the relevant share-lending arrangement.
 
 **Valuation when disposal of shares acquired under taxable bonus issue**
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Cost-flow methods**
 
-**(5)**  The person must use 1 of the following cost-flow methods to allocate costs:
+**(5)** The person must use 1 of the following cost-flow methods to allocate costs:
 
 - (a) the first-in first-out cost method; or
 
@@ -72,11 +72,11 @@ compilation_date: 2026-06-06
 
 **Persons complying with generally accepted accounting practice**
 
-**(6)**  A person who complies with generally accepted accounting practice must comply with the consistency and disclosure requirements of NZIAS 8 or an equivalent standard issued in its place.
+**(6)** A person who complies with generally accepted accounting practice must comply with the consistency and disclosure requirements of NZIAS 8 or an equivalent standard issued in its place.
 
 **Other persons**
 
-**(7)**  A person who does not comply with generally accepted accounting practice—
+**(7)** A person who does not comply with generally accepted accounting practice—
 
 - (a) must be consistent from 1 income year to the next in their choice of 1 of the cost-flow methods described in subsection (5); and
 
@@ -110,11 +110,11 @@ compilation_date: 2026-06-06
 
 **Worthless arrangements**
 
-**(8)**  If an excepted financial arrangement has no present or likely future market value and has been written off as worthless, its closing value is zero.
+**(8)** If an excepted financial arrangement has no present or likely future market value and has been written off as worthless, its closing value is zero.
 
 **Use of value**
 
-**(9)**  The value determined under this section is—
+**(9)** The value determined under this section is—
 
 - (a) the closing value of the excepted financial arrangement for the purposes of section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements); and
 

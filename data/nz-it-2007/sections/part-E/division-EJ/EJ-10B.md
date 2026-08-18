@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in relation to an operating lease of a personal property lease asset (the IFRS lease), if—
+**(1)** This section applies in relation to an operating lease of a personal property lease asset (the IFRS lease), if—
 
 - (a) the person, as lessee, uses NZ IFRS 16 in their financial statements for the IFRS lease; and
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Deduction: de minimis**
 
-**(2)**  If the initial right of use asset under NZ IFRS 16 is $100,000 or less and the remaining term of the IFRS lease under NZ IFRS 16 is 4 years or less initially and immediately after any extension starts, then the person, as lessee for the IFRS lease, is allowed, for an income year, a deduction for a positive amount, and has income for a negative amount, for the total amount recognised by the person through their profit and loss account for the IFRS lease for the income year, if the amount is in accordance with NZ IFRS 16.
+**(2)** If the initial right of use asset under NZ IFRS 16 is $100,000 or less and the remaining term of the IFRS lease under NZ IFRS 16 is 4 years or less initially and immediately after any extension starts, then the person, as lessee for the IFRS lease, is allowed, for an income year, a deduction for a positive amount, and has income for a negative amount, for the total amount recognised by the person through their profit and loss account for the IFRS lease for the income year, if the amount is in accordance with NZ IFRS 16.
 
 **Deduction: formula**
 
-**(3)**  If subsection (2) does not apply, then the person, as lessee for the IFRS lease, is allowed, for an income year, a deduction for a positive amount, and has income for a negative amount, for amounts calculated using the formula— accounting amount − add-back adjustment + impairment and revaluation adjustment − make-good and direct costs adjustment.
+**(3)** If subsection (2) does not apply, then the person, as lessee for the IFRS lease, is allowed, for an income year, a deduction for a positive amount, and has income for a negative amount, for amounts calculated using the formula— accounting amount − add-back adjustment + impairment and revaluation adjustment − make-good and direct costs adjustment.
 
 **Definition of items in formula**
 
-**(4)**  In the formula in subsection (3),—
+**(4)** In the formula in subsection (3),—
 
 - (a) accounting amount is the total amount recognised by the person through their profit and loss account for the IFRS lease for the income year, if the amount is in accordance with NZ IFRS 16:
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Deduction: incurred**
 
-**(5)**  The person, as lessee, is allowed a deduction for the IFRS lease for—
+**(5)** The person, as lessee, is allowed a deduction for the IFRS lease for—
 
 - (a) make-good costs, described in subsection (4)﻿(d)﻿(i), for the income year that they incur the costs:
 
@@ -60,11 +60,11 @@ compilation_date: 2026-06-06
 
 **Wash-up: income or deduction**
 
-**(6)**  The person, as lessee, has income for a positive amount, and is allowed a deduction for a negative amount, for the income year in which the IFRS lease ends or does not meet a requirement in subsection (1)﻿(a), (b), or (c), calculated using the formula— IFRS deductions − IFRS income − expenditure.
+**(6)** The person, as lessee, has income for a positive amount, and is allowed a deduction for a negative amount, for the income year in which the IFRS lease ends or does not meet a requirement in subsection (1)﻿(a), (b), or (c), calculated using the formula— IFRS deductions − IFRS income − expenditure.
 
 **Definition of items in formula**
 
-**(7)**  In the formula in subsection (6),—
+**(7)** In the formula in subsection (6),—
 
 - (a) IFRS deductions is the total amount deducted for the IFRS lease for all income years, including when the person has not applied this section:
 
@@ -74,11 +74,11 @@ compilation_date: 2026-06-06
 
 **Transitional deduction: retrospective treatment spread forward**
 
-**(8)**  If the person has applied NZ IFRS 16 retrospectively for the IFRS lease or has not applied this section for the IFRS lease while they have applied NZ IFRS 16 for it, then the person is allowed a deduction for a positive amount and has income for a negative amount, spread in equal proportions over the income year and the following 4 income years, calculated using the formula— retrospective accounting expenditure − retrospective tax adjustments − previous tax deductions.
+**(8)** If the person has applied NZ IFRS 16 retrospectively for the IFRS lease or has not applied this section for the IFRS lease while they have applied NZ IFRS 16 for it, then the person is allowed a deduction for a positive amount and has income for a negative amount, spread in equal proportions over the income year and the following 4 income years, calculated using the formula— retrospective accounting expenditure − retrospective tax adjustments − previous tax deductions.
 
 **Definition of items in formula**
 
-**(9)**  In the formula in subsection (8),—
+**(9)** In the formula in subsection (8),—
 
 - (a) retrospective accounting expenditure is the total amount of expenditure or loss recognised under NZ IFRS 16 for the IFRS lease for the income years that the person has applied NZ IFRS 16 retrospectively for the IFRS lease or has not applied this section for the IFRS lease while they have applied NZ IFRS 16 for it, if the amount is in accordance with NZ IFRS 16:
 

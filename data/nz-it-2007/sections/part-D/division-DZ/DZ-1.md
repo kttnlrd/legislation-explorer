@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction if they acquire a commercial bill from another person, other than under a relationship agreement, and derive income under section CZ 6 (Commercial bills before 31 July 1986) on the redemption or disposal of the commercial bill.
+**(1)** A person is allowed a deduction if they acquire a commercial bill from another person, other than under a relationship agreement, and derive income under section CZ 6 (Commercial bills before 31 July 1986) on the redemption or disposal of the commercial bill.
 
 **Amount of deduction**
 
-**(2)**  The amount of the deduction is the value of the commercial bill on the date on which the person acquired it.
+**(2)** The amount of the deduction is the value of the commercial bill on the date on which the person acquired it.
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission. The general limitations still apply.
+**(3)** This section supplements the general permission. The general limitations still apply.
 
 *Defined in this Act: amount, commercial bill, deduction, general limitation, general permission, income, relationship agreement, supplement*
 

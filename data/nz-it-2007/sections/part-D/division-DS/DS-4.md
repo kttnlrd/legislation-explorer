@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Film reimbursement scheme means an arrangement to which subsections (2) to (4) apply.
+**(1)** Film reimbursement scheme means an arrangement to which subsections (2) to (4) apply.
 
 **Deduction allowed**
 
-**(2)**  The first requirement for a film reimbursement scheme is that it is a scheme under which a person may incur expenditure for which they are allowed a deduction under—
+**(2)** The first requirement for a film reimbursement scheme is that it is a scheme under which a person may incur expenditure for which they are allowed a deduction under—
 
 - (a) section DS 1 or DS 2, or would be allowed a deduction in the absence of section DS 3:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Disposal of property**
 
-**(3)**  The second requirement for a film reimbursement scheme is that 1 of the following applies:
+**(3)** The second requirement for a film reimbursement scheme is that 1 of the following applies:
 
 - (a) it enables the person or an associated person to dispose of property; or
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Consideration not film income**
 
-**(4)**  The third requirement for a film reimbursement scheme is that it is a scheme under which some or all of the consideration for the property would not be film income.
+**(4)** The third requirement for a film reimbursement scheme is that it is a scheme under which some or all of the consideration for the property would not be film income.
 
 *Defined in this Act: amount, arrangement, associated person, deduction, film income, film reimbursement scheme, film right, income, shareholder*
 

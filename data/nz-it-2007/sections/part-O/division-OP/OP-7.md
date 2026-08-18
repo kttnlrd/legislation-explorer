@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  A consolidated imputation group has an imputation credit for a payment of income tax. Subsection (3) overrides this subsection.
+**(1)** A consolidated imputation group has an imputation credit for a payment of income tax. Subsection (3) overrides this subsection.
 
 **Table reference**
 
-**(2)**  The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 2 (payment of tax).
+**(2)** The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 2 (payment of tax).
 
 **No credit**
 
-**(3)**  A consolidated imputation group does not have an imputation credit for an amount of—
+**(3)** A consolidated imputation group does not have an imputation credit for an amount of—
 
 - (a) income tax paid as a trustee, unless paid on category A income; or
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Credit date**
 
-**(4)**  The credit date is the day the tax is paid.
+**(4)** The credit date is the day the tax is paid.
 
 *Defined in this Act: amount, category A income, Commissioner, company, consolidated imputation group, further income tax, ICA company, imputation credit, imputation credit account, income, income tax, life insurer, pay, provisional tax, research and development tax credit, schedular income tax liability, schedular policyholder base income, tax account with the Commissioner, tax pooling account, tax year, trustee*
 

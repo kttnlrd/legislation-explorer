@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Third requirement**
 
-**(1)**  The third requirement is that—
+**(1)** The third requirement is that—
 
 - (a) the person referred to in section MC 2 or the child referred to in section MC 4 meets the residence requirements of subsections (2) and (3), as applicable:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **When person meets residence requirements**
 
-**(2)**  The person meets the residence requirements of subsection (1)﻿(a) if the person—
+**(2)** The person meets the residence requirements of subsection (1)﻿(a) if the person—
 
 - (a) has been—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **When child meets residence requirements**
 
-**(3)**  The child meets the residence requirements of subsection (1)﻿(a) if the child is both a New Zealand resident and present in New Zealand for the entitlement period.
+**(3)** The child meets the residence requirements of subsection (1)﻿(a) if the child is both a New Zealand resident and present in New Zealand for the entitlement period.
 
 *Defined in this Act: child, civil union partner, de facto partner, entitlement period, New Zealand, New Zealand resident, spouse, tax credit, transitional resident*
 

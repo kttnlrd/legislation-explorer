@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  An amount that a person derives from disposing of land is income of the person if they acquired the land—
+**(1)** An amount that a person derives from disposing of land is income of the person if they acquired the land—
 
 - (a) for 1 or more purposes that included the purpose of disposing of it:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  Subsection (1) is overridden by the exclusions for residential land in section CB 16 and for business premises in section CB 19.
+**(2)** Subsection (1) is overridden by the exclusions for residential land in section CB 16 and for business premises in section CB 19.
 
 *Defined in this Act: amount, business, dispose, income, land*
 

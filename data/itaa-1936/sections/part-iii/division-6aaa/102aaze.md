@@ -18,19 +18,19 @@ source_pdf: "vol02.pdf"
 An amount is not to be included in the assessable income of the taxpayer of a year of income under section 102AAZD in relation to a trust estate that is a listed country trust estate in relation to the year of income if the amount obtained by:
 
 > <a id="s102AAZE-a"></a>
-> **(a)**  identifying each trust estate in relation to which the taxpayer is an attributable taxpayer in relation to the year of income; and
+> **(a)** identifying each trust estate in relation to which the taxpayer is an attributable taxpayer in relation to the year of income; and
 
 > <a id="s102AAZE-b"></a>
-> **(b)**  calculating the attributable income of the year of income of each such trust estate; and
+> **(b)** calculating the attributable income of the year of income of each such trust estate; and
 
 > <a id="s102AAZE-c"></a>
-> **(c)**  adding the amounts calculated under paragraph (b); does not exceed the lesser of the following amounts:
+> **(c)** adding the amounts calculated under paragraph (b); does not exceed the lesser of the following amounts:
 
 > <a id="s102AAZE-d"></a>
-> **(d)**  $20,000;
+> **(d)** $20,000;
 
 > <a id="s102AAZE-e"></a>
-> **(e)**  10% of the total of the net incomes of each of those trust estates of the year of income.
+> **(e)** 10% of the total of the net incomes of each of those trust estates of the year of income.
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

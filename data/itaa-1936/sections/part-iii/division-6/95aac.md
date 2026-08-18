@@ -17,31 +17,31 @@ source_pdf: "vol02.pdf"
 
 
 <a id="s95AAC-1"></a>
-**(1)**  Subsection (2) applies if an amount in respect of which a trustee of a trust estate is liable to be assessed (and pay tax) under section 98 in respect of the beneficiary is increased because of Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997.
+**(1)** Subsection (2) applies if an amount in respect of which a trustee of a trust estate is liable to be assessed (and pay tax) under section 98 in respect of the beneficiary is increased because of Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997.
 
 <a id="s95AAC-2"></a>
-**(2)**  For the purposes of a provision of this Act (other than a provision mentioned in subsection (5)), treat the amount of the increase as being an amount in respect of which the trustee is liable to be assessed (and pay tax) under section 98 in respect of the beneficiary’s interest in or share of the net income of the trust estate.
+**(2)** For the purposes of a provision of this Act (other than a provision mentioned in subsection (5)), treat the amount of the increase as being an amount in respect of which the trustee is liable to be assessed (and pay tax) under section 98 in respect of the beneficiary's interest in or share of the net income of the trust estate.
 
 <a id="s95AAC-3"></a>
-**(3)**  Subsection (4) applies if an amount in respect of which a trustee of a trust estate is liable to be assessed (and pay tax) under section 99 or 99A is increased because of Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997.
+**(3)** Subsection (4) applies if an amount in respect of which a trustee of a trust estate is liable to be assessed (and pay tax) under section 99 or 99A is increased because of Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997.
 
 <a id="s95AAC-4"></a>
-**(4)**  For the purposes of a provision of this Act (other than a provision mentioned in subsection (5)), treat the amount of the increase as being an amount in respect of which the trustee is liable to be assessed (and pay tax) under section 99 or 99A in respect of the net income of the trust estate.
+**(4)** For the purposes of a provision of this Act (other than a provision mentioned in subsection (5)), treat the amount of the increase as being an amount in respect of which the trustee is liable to be assessed (and pay tax) under section 99 or 99A in respect of the net income of the trust estate.
 
 <a id="s95AAC-5"></a>
-**(5)**  The provisions are as follows:
+**(5)** The provisions are as follows:
 
 > <a id="s95AAC-5-a"></a>
-> **(a)**  sections 97, 98A (other than subsection 98A(2)) and 100 (other than subsections 100(2) and (3));
+> **(a)** sections 97, 98A (other than subsection 98A(2)) and 100 (other than subsections 100(2) and (3));
 
 > <a id="s95AAC-5-b"></a>
-> **(b)**  sections 98, 99 and 99A;
+> **(b)** sections 98, 99 and 99A;
 
 > <a id="s95AAC-5-c"></a>
-> **(c)**  Subdivisions 115-C and 207-B of the Income Tax Assessment Act 1997.
+> **(c)** Subdivisions 115-C and 207-B of the Income Tax Assessment Act 1997.
 
 <a id="s95AAC-6"></a>
-**(6)**  To avoid doubt, subsections (2) and (4) apply despite subsection 6(1AA).
+**(6)** To avoid doubt, subsections (2) and (4) apply despite subsection 6(1AA).
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

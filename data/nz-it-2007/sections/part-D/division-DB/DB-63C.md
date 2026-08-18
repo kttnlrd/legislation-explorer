@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A company is allowed a deduction for expenditure incurred in holding an annual meeting of the shareholders of the company to consider the affairs of the company.
+**(1)** A company is allowed a deduction for expenditure incurred in holding an annual meeting of the shareholders of the company to consider the affairs of the company.
 
 **No deduction**
 
-**(2)**  A company is denied a deduction for expenditure incurred in holding a special or extraordinary meeting of the shareholders of the company.
+**(2)** A company is denied a deduction for expenditure incurred in holding a special or extraordinary meeting of the shareholders of the company.
 
 **Link with subpart DA**
 
-**(3)**  Subsection (1) supplements the general permission and overrides the capital limitation. Subsection (2) overrides the general permission. The other general limitations still apply.
+**(3)** Subsection (1) supplements the general permission and overrides the capital limitation. Subsection (2) overrides the general permission. The other general limitations still apply.
 
 *Defined in this Act: capital limitation, company, deduction, general limitation, general permission, shareholder*
 

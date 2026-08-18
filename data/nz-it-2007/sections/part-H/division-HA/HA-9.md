@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Dollar limit**
 
-**(1)**  The foreign non-dividend income of a qualifying company in an income year must be no more than $10,000 after subtracting the lesser of—
+**(1)** The foreign non-dividend income of a qualifying company in an income year must be no more than $10,000 after subtracting the lesser of—
 
 - (a) any income under section CC 3 (Financial arrangements); or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Change in threshold**
 
-**(2)**  The Governor-General may make an Order in Council increasing the sum set out in subsection (1). The order may apply—
+**(2)** The Governor-General may make an Order in Council increasing the sum set out in subsection (1). The order may apply—
 
 - (a) from the start of the income year in which it is made; or
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Secondary legislation**
 
-**(3)**  An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+**(3)** An Order in Council under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 *Defined in this Act: amount, foreign non-dividend income, gross, income, income year, qualifying company*
 

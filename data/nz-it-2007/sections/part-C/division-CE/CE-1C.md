@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Relevant local rental**
 
-**(1)**  Despite section CE 1B, if accommodation is provided at or near a work location that is overseas, the value of the accommodation is an amount equal to the relevant market rental value of accommodation in New Zealand. The relevant market rental value is determined taking into account—
+**(1)** Despite section CE 1B, if accommodation is provided at or near a work location that is overseas, the value of the accommodation is an amount equal to the relevant market rental value of accommodation in New Zealand. The relevant market rental value is determined taking into account—
 
 - (a) the location where the person would be likely to work for their employer in New Zealand; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **When overseas rental is less than New Zealand equivalent**
 
-**(2)**  For the purposes of subsection (1), if the value of the accommodation in the overseas location is less than the New Zealand equivalent market rental value, the value that must be used is the value in the overseas location.
+**(2)** For the purposes of subsection (1), if the value of the accommodation in the overseas location is less than the New Zealand equivalent market rental value, the value that must be used is the value in the overseas location.
 
 **When location in New Zealand is uncertain**
 
-**(3)**  For the purposes of subsection (1)﻿(a), if the location where the person would be likely to work for their employer in New Zealand is uncertain, the relevant market rental value is taken as either the average market rental value or the median market rental value, as applicable, for the whole of New Zealand.
+**(3)** For the purposes of subsection (1)﻿(a), if the location where the person would be likely to work for their employer in New Zealand is uncertain, the relevant market rental value is taken as either the average market rental value or the median market rental value, as applicable, for the whole of New Zealand.
 
 *Defined in this Act: accommodation, amount, New Zealand*
 

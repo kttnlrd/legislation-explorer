@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for an amount of interest they are liable to pay under Part 7 of the Tax Administration Act 1994.
+**(1)** A person is allowed a deduction for an amount of interest they are liable to pay under Part 7 of the Tax Administration Act 1994.
 
 **Timing of deduction**
 
-**(2)**  The deduction is allocated under section EF 5 (Use of money interest payable by person).
+**(2)** The deduction is allocated under section EF 5 (Use of money interest payable by person).
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission and overrides the capital limitation, the private limitation, and the employment limitation. The other general limitations still apply.
+**(3)** This section supplements the general permission and overrides the capital limitation, the private limitation, and the employment limitation. The other general limitations still apply.
 
 *Defined in this Act: amount, capital limitation, deduction, employment limitation, general limitation, general permission, private limitation*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person receives a resale royalty in respect of the resale of an original visual artwork under section 18 of the Resale Right for Visual Artists Act 2023; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount of the resale royalty retained by the collection agency under section 20 of the Resale Right for Visual Artists Act 2023 is treated as income of the person.
+**(2)** The amount of the resale royalty retained by the collection agency under section 20 of the Resale Right for Visual Artists Act 2023 is treated as income of the person.
 
 *Defined in this Act: collection agency, income, resale royalty*
 

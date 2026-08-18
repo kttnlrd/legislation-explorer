@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **No deduction without approval**
 
-**(1)**  A person is denied a deduction for a payment to their spouse, civil union partner, or de facto partner for services without the Commissioner's approval.
+**(1)** A person is denied a deduction for a payment to their spouse, civil union partner, or de facto partner for services without the Commissioner's approval.
 
 **When Commissioner can give consent**
 
-**(2)**  The Commissioner may approve the deduction only if—
+**(2)** The Commissioner may approve the deduction only if—
 
 - (a) the Commissioner considers that the payment is for services rendered; and
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Relationship with section GB 23**
 
-**(3)**  This section is overridden by section GB 23 (Excessive remuneration to relatives).
+**(3)** This section is overridden by section GB 23 (Excessive remuneration to relatives).
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the general permission.
+**(4)** This section overrides the general permission.
 
 *Defined in this Act: assessable income, Commissioner, deduction, general permission, pay*
 

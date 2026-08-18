@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Degree of relationship**
 
-**(1)**  Two persons are associated persons if—
+**(1)** Two persons are associated persons if—
 
 - (a) they are within 2 degrees of blood relationship:
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Exception: blood relationships**
 
-**(2)**  For the purposes of the land provisions and sections EB 13 (Low turnover valuation) and EC 5 (Transfer of livestock because of self-assessed adverse event), subsection (1)﻿(a) and (c) does not apply, and persons are associated persons because of a blood relationship only if 1 is the infant child of the other.
+**(2)** For the purposes of the land provisions and sections EB 13 (Low turnover valuation) and EC 5 (Transfer of livestock because of self-assessed adverse event), subsection (1)﻿(a) and (c) does not apply, and persons are associated persons because of a blood relationship only if 1 is the infant child of the other.
 
 **Exception**
 
-**(4)**  A person is not associated with another person under this section if the person cannot reasonably be expected to know that—
+**(4)** A person is not associated with another person under this section if the person cannot reasonably be expected to know that—
 
 - (a) the other person exists:
 

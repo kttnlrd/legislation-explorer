@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person (person A) disposes of trading stock for—
 
@@ -30,19 +30,19 @@ compilation_date: 2026-06-06
 
 **Market value consideration**
 
-**(2)**  Person A is treated as deriving an amount equal to the market value of the trading stock at the time of the disposal.
+**(2)** Person A is treated as deriving an amount equal to the market value of the trading stock at the time of the disposal.
 
 **Market value expenditure**
 
-**(3)**  If person A disposes of the trading stock to another person, an amount equal to the market value of the trading stock at the time of the disposal is treated as expenditure incurred by the other person in acquiring the trading stock.
+**(3)** If person A disposes of the trading stock to another person, an amount equal to the market value of the trading stock at the time of the disposal is treated as expenditure incurred by the other person in acquiring the trading stock.
 
 **Shares in trading stock**
 
-**(4)**  In this section, trading stock includes an interest in trading stock.
+**(4)** In this section, trading stock includes an interest in trading stock.
 
 **Exclusions**
 
-**(5)**  This section does not apply to a disposal of trading stock—
+**(5)** This section does not apply to a disposal of trading stock—
 
 - (a) to a donee organisation:
 

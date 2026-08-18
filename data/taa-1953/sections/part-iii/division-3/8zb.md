@@ -17,10 +17,10 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s8ZB-1"></a>
-**(1)**  A prosecution for a taxation offence may be commenced at any time.
+**(1)** A prosecution for a taxation offence may be commenced at any time.
 
 <a id="s8ZB-2"></a>
-**(2)**  Subsection (1) has effect notwithstanding anything contained in section 15B of the Crimes Act 1914.
+**(2)** Subsection (1) has effect notwithstanding anything contained in section 15B of the Crimes Act 1914.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

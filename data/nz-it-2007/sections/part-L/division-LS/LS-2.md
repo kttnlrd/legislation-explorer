@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) an investor has attributed PIE income from a multi-rate PIE for a tax year; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(2)**  The investor has a tax credit for the income year in which the PIE's tax year ends. The amount of the credit is equal to the amount of income tax liability satisfied by the PIE in relation to the attributed PIE income, and may be used to satisfy the investor's income tax liability for the tax year.
+**(2)** The investor has a tax credit for the income year in which the PIE's tax year ends. The amount of the credit is equal to the amount of income tax liability satisfied by the PIE in relation to the attributed PIE income, and may be used to satisfy the investor's income tax liability for the tax year.
 
 **Relationship with section HM 36B**
 
-**(3)**  Despite subsection (2), when the amount of an investor's tax credit is taken into account in calculating an adjustment for PIE schedular income under section HM 36B (Calculating PIE schedular income adjustments for natural person investors), the amount of the credit is extinguished for any other purpose.
+**(3)** Despite subsection (2), when the amount of an investor's tax credit is taken into account in calculating an adjustment for PIE schedular income under section HM 36B (Calculating PIE schedular income adjustments for natural person investors), the amount of the credit is extinguished for any other purpose.
 
 *Defined in this Act: amount, attributed PIE income, excluded income, income, income year, investor, multi-rate PIE, PIE, PIE schedular income, prescribed investor rate, tax credit, tax year*
 

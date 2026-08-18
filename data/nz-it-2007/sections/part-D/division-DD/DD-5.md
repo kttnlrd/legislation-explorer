@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Sponsored promotions**
 
-**(1)**  The limitation rule does not apply to a deduction for expenditure on entertainment if—
+**(1)** The limitation rule does not apply to a deduction for expenditure on entertainment if—
 
 - (a) the entertainment is sponsored mainly to advertise or promote a person's business, goods, or services to the public; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Incidental costs of promotion**
 
-**(2)**  The limitation rule does not apply to a deduction for expenditure on entertainment that is merely an incidental part of—
+**(2)** The limitation rule does not apply to a deduction for expenditure on entertainment that is merely an incidental part of—
 
 - (a) a trade display mainly held to advertise or promote a business, goods, or services:
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Samples**
 
-**(3)**  The limitation rule does not apply to a deduction for expenditure on samples that a person provides for promotion or advertising purposes to anyone who is not an employee of or associated with the person.
+**(3)** The limitation rule does not apply to a deduction for expenditure on samples that a person provides for promotion or advertising purposes to anyone who is not an employee of or associated with the person.
 
 **Entertainment for review**
 
-**(4)**  The limitation rule does not apply to a deduction for expenditure on entertainment that a person provides to a person who is reviewing the entertainment for a book, magazine, paper, or other medium of communication.
+**(4)** The limitation rule does not apply to a deduction for expenditure on entertainment that a person provides to a person who is reviewing the entertainment for a book, magazine, paper, or other medium of communication.
 
 *Defined in this Act: associated person, business, business contacts, deduction, employee, limitation rule*
 

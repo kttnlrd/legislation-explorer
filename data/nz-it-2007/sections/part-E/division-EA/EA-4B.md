@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to shares issued or transferred under an employee share scheme by a company that is not—
+**(1)** This section applies to shares issued or transferred under an employee share scheme by a company that is not—
 
 - (a) a listed company:
 
@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 **Designation**
 
-**(2)**  The employer may, at the time the shares are issued or transferred, designate the shares issued or transferred to an employee share scheme beneficiary as employee deferred shares. If the employer makes that designation, the employer must notify both the Commissioner and the employee share scheme beneficiary of that designation within 20 days after the date of issue or transfer, or by a later date allowed by the Commissioner.
+**(2)** The employer may, at the time the shares are issued or transferred, designate the shares issued or transferred to an employee share scheme beneficiary as employee deferred shares. If the employer makes that designation, the employer must notify both the Commissioner and the employee share scheme beneficiary of that designation within 20 days after the date of issue or transfer, or by a later date allowed by the Commissioner.
 
 **Consequences of deferral**
 
-**(3)**  If the employer chooses to designate shares as employee deferred shares under subsection (2), the share scheme taxing date for those shares is deferred to the liquidity event date in accordance with section CE 7B(3) (Meaning of share scheme taxing date).
+**(3)** If the employer chooses to designate shares as employee deferred shares under subsection (2), the share scheme taxing date for those shares is deferred to the liquidity event date in accordance with section CE 7B(3) (Meaning of share scheme taxing date).
 
 **Meaning of liquidity event date**
 
-**(4)**  Liquidity event date,—
+**(4)** Liquidity event date,—
 
 - (a) subject to paragraph (b), means the earliest of the following dates:
 

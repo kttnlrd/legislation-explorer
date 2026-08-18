@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a mineral miner acquires land or an interest in land for the purposes of current or intended mining operations or associated mining operations; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  An amount that the mineral miner derives from disposing of the land or interest in land is income of the mineral miner for the income year of disposal.
+**(2)** An amount that the mineral miner derives from disposing of the land or interest in land is income of the mineral miner for the income year of disposal.
 
 *Defined in this Act: amount, associated mining operations, income, income year, interest, land, mineral miner, mining operations, permit area*
 

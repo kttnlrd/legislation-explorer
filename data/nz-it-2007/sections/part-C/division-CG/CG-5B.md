@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person receives an amount of insurance, indemnity, or compensation for an interruption or impairment of business activities resulting from an event.
+**(1)** This section applies when a person receives an amount of insurance, indemnity, or compensation for an interruption or impairment of business activities resulting from an event.
 
 **Income**
 
-**(2)**  The amount is income of the person to the extent to which it is attributable to income (the replaced income) that—
+**(2)** The amount is income of the person to the extent to which it is attributable to income (the replaced income) that—
 
 - (a) the person would have derived if not for the event:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(3)**  The income is allocated to the later of—
+**(3)** The income is allocated to the later of—
 
 - (a) the income year to which the replaced income relates:
 

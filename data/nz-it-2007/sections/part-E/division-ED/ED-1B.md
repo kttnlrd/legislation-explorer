@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to emissions units held by a person in an income year that—
+**(1)** This section applies to emissions units held by a person in an income year that—
 
 - (a) are transferred to the person at a price of zero—
 
@@ -30,15 +30,15 @@ compilation_date: 2026-06-06
 
 **Value of units transferred to person if no earlier emissions unit shortfall year**
 
-**(2)**  If an emissions unit is transferred to the person in the income year and there is no earlier income year that is an emissions unit shortfall year for the person under subsections (9) and (10), the emissions unit is assigned a value of zero at the time of the transfer.
+**(2)** If an emissions unit is transferred to the person in the income year and there is no earlier income year that is an emissions unit shortfall year for the person under subsections (9) and (10), the emissions unit is assigned a value of zero at the time of the transfer.
 
 **Value of units transferred to person in income year after emissions unit shortfall year**
 
-**(3)**  If an earlier income year is an emissions unit shortfall year for the person immediately before an emissions unit (the transferred unit) is transferred to the person in the income year, the value of the transferred unit at the time of the transfer is given by the application of the paragraphs in subsection (4) in alphabetical order to transferred units until all the transferred units are assigned a value.
+**(3)** If an earlier income year is an emissions unit shortfall year for the person immediately before an emissions unit (the transferred unit) is transferred to the person in the income year, the value of the transferred unit at the time of the transfer is given by the application of the paragraphs in subsection (4) in alphabetical order to transferred units until all the transferred units are assigned a value.
 
 **Valuation method at transfer for transferred units**
 
-**(4)**  If emissions units are transferred to the person in an income year when there is a unit shortfall under subsections (9) and (10) for an earlier emissions unit shortfall year,—
+**(4)** If emissions units are transferred to the person in an income year when there is a unit shortfall under subsections (9) and (10) for an earlier emissions unit shortfall year,—
 
 - (a) for each emissions unit shortfall year in date order, transferred units, up to the number corresponding to the unit shortfall relating to the emissions unit shortfall year, are each assigned a value equal to the market value of an emissions unit at the end of the emissions unit shortfall year:
 
@@ -46,15 +46,15 @@ compilation_date: 2026-06-06
 
 **Value of units with zero value immediately before end of income year**
 
-**(5)**  If the value of an emissions unit (the revalued unit) held by the person immediately before the end of the income year is zero, the value of the revalued unit at the end of the year is given by the application of the paragraphs in subsection (8) in alphabetical order to revalued units until all the revalued units are assigned a value.
+**(5)** If the value of an emissions unit (the revalued unit) held by the person immediately before the end of the income year is zero, the value of the revalued unit at the end of the year is given by the application of the paragraphs in subsection (8) in alphabetical order to revalued units until all the revalued units are assigned a value.
 
 **Limit on application of subsection (8)﻿(a)**
 
-**(6)**  The maximum number of units valued under subsection (8)﻿(a) for the income year is the greater of zero and the number calculated using the formula— unit entitlement − disposals at zero value.
+**(6)** The maximum number of units valued under subsection (8)﻿(a) for the income year is the greater of zero and the number calculated using the formula— unit entitlement − disposals at zero value.
 
 **Definition of items in formula**
 
-**(7)**  In the formula,—
+**(7)** In the formula,—
 
 - (a) unit entitlement is the total for the income year of amounts, each of which the person would have for the period of overlap between a calendar year ending 31 December and the income year if the period of overlap were treated as a year, of—
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **Valuation method at end of income year for revalued units**
 
-**(8)**  If the person holds revalued units immediately before the end of the income year, the units are each assigned a value—
+**(8)** If the person holds revalued units immediately before the end of the income year, the units are each assigned a value—
 
 - (a) equal to the market value of an emissions unit at the end of the income year:
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Emissions unit shortfall year**
 
-**(9)**  If the number of units assigned a market value for an income year under subsection (8)﻿(a) is less than the maximum number given by subsection (6) for the income year, at the end of the income year—
+**(9)** If the number of units assigned a market value for an income year under subsection (8)﻿(a) is less than the maximum number given by subsection (6) for the income year, at the end of the income year—
 
 - (a) the income year is an emissions unit shortfall year and has 2 numbers (the unit shortfall and the unit shortfall value) associated with it:
 
@@ -90,7 +90,7 @@ compilation_date: 2026-06-06
 
 **Reductions in unit shortfall and unit shortfall value**
 
-**(10)**  When an emissions unit held by a person is assigned a value under subsection (4)﻿(a) in relation to a year that is an emissions unit shortfall year for the person,—
+**(10)** When an emissions unit held by a person is assigned a value under subsection (4)﻿(a) in relation to a year that is an emissions unit shortfall year for the person,—
 
 - (a) the unit shortfall relating to that year is reduced by the number of emissions units assigned a value in relation to that year:
 
@@ -100,7 +100,7 @@ compilation_date: 2026-06-06
 
 **Unit shortfall values treated as values of additional emissions units for purposes of adjustments**
 
-**(11)**  For the purposes of sections CH 1 and DB 49 (which relate to adjustments for values of excepted financial arrangements), the person is treated as holding at the end of the income year additional emissions units with a value equal to the total of the unit shortfall values relating to emissions unit shortfall years for the person.
+**(11)** For the purposes of sections CH 1 and DB 49 (which relate to adjustments for values of excepted financial arrangements), the person is treated as holding at the end of the income year additional emissions units with a value equal to the total of the unit shortfall values relating to emissions unit shortfall years for the person.
 
 *Defined in this Act: amount, emissions unit, emissions unit shortfall year, fishing quota emissions units, forest land emissions units, income year, public authority, replacement forest land emissions units, year*
 

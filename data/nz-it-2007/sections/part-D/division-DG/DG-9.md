@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section provides the formula for use where it is referred to in section DG 8 to calculate the way in which an amount of expenditure or loss that a person incurs in relation to an asset is apportioned between its income-earning use and its private or other use.
+**(1)** This section provides the formula for use where it is referred to in section DG 8 to calculate the way in which an amount of expenditure or loss that a person incurs in relation to an asset is apportioned between its income-earning use and its private or other use.
 
 **Formula**
 
-**(2)**  The apportionment formula is— expenditure × income-earning days ÷ (income-earning days + counted days).
+**(2)** The apportionment formula is— expenditure × income-earning days ÷ (income-earning days + counted days).
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) expenditure is the total expenditure or loss that is incurred by the person for an income year in relation to the asset, other than expenditure that is related solely to—
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Other units of measurement**
 
-**(4)**  A unit of measurement of time other than days, whether relating to hours, or nights, or anything else, is to be used in the formula and in subsection (3)﻿(b) and (c), if it achieves a more appropriate apportionment. For this purpose, the same unit must be used in relation to both items in subsection (3)﻿(b) and (c).
+**(4)** A unit of measurement of time other than days, whether relating to hours, or nights, or anything else, is to be used in the formula and in subsection (3)﻿(b) and (c), if it achieves a more appropriate apportionment. For this purpose, the same unit must be used in relation to both items in subsection (3)﻿(b) and (c).
 
 *Defined in this Act: amount, asset, deduction, exempt income, fringe benefit tax, income, income year, market value, private use*
 

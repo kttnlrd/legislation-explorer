@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Entitlement**
 
-**(1)**  A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to an amount of family tax credit calculated using the formula in subsection (2).
+**(1)** A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to an amount of family tax credit calculated using the formula in subsection (2).
 
 **Formula**
 
-**(2)**  The formula is— prescribed amount × days ÷ 365.
+**(2)** The formula is— prescribed amount × days ÷ 365.
 
 **Definition of items in formula**
 
-**(3)**  The items in the formula are defined in subsections (4) and (5).
+**(3)** The items in the formula are defined in subsections (4) and (5).
 
 **Prescribed amount**
 
-**(4)**  Prescribed amount is the sum of the following amounts:
+**(4)** Prescribed amount is the sum of the following amounts:
 
 - (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $7,921; and
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Days**
 
-**(5)**  Days is the number of days in the entitlement period.
+**(5)** Days is the number of days in the entitlement period.
 
 **Order in Council increasing amount**
 
-**(6)**  In subsection (4)﻿(a) and (b), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
+**(6)** In subsection (4)﻿(a) and (b), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
 **When another person cares for dependent child**
 
-**(7)**  A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2.
+**(7)** A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2.
 
 *Defined in this Act: amount, child, dependent child, entitlement period, family tax credit, principal caregiver*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section FO 7 (Income derived after amalgamation) when an amount is derived by the amalgamated company after an amalgamation as a result of something that an amalgamating company did or did not do.
+**(1)** This section applies for the purposes of section FO 7 (Income derived after amalgamation) when an amount is derived by the amalgamated company after an amalgamation as a result of something that an amalgamating company did or did not do.
 
 **Income**
 
-**(2)**  The amount is income of the amalgamated company in the income year in which it is derived if it would have been income of an amalgamating company but for the amalgamation.
+**(2)** The amount is income of the amalgamated company in the income year in which it is derived if it would have been income of an amalgamating company but for the amalgamation.
 
 *Defined in this Act: amalgamated company, amalgamating company, amount, income, income year*
 

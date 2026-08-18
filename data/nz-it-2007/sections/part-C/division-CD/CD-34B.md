@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to a distribution by a co-operative company, or by a company (a subsidiary) in which the co-operative company has a voting interest of 100%, if—
+**(1)** This section applies to a distribution by a co-operative company, or by a company (a subsidiary) in which the co-operative company has a voting interest of 100%, if—
 
 - (a) the distribution is made after the co-operative company has notified the Commissioner that they have elected to apply this section; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **General rule: co-operative company distributions not dividends**
 
-**(2)**  If the requirements in subsection (4) are met, a distribution by a co-operative company, or by a subsidiary, to a member of the co-operative company is not a dividend, to the extent to which the distribution is for their—
+**(2)** If the requirements in subsection (4) are met, a distribution by a co-operative company, or by a subsidiary, to a member of the co-operative company is not a dividend, to the extent to which the distribution is for their—
 
 - (a) transaction shares:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Exception: distributions for excess shareholdings**
 
-**(3)**  Subsection (2)﻿(c) is ignored,—
+**(3)** Subsection (2)﻿(c) is ignored,—
 
 - (a) for a distribution to a member, if the member holds shares in the co-operative company that—
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Requirements**
 
-**(4)**  For the purposes of subsection (2), the requirements are—
+**(4)** For the purposes of subsection (2), the requirements are—
 
 - (a) the co-operative company is resident in New Zealand for the period to which the distribution relates; and
 
@@ -64,11 +64,11 @@ compilation_date: 2026-06-06
 
 **Meaning of transaction shares**
 
-**(5)**  In this section, transaction shares means the number of shares in the co-operative company that the member holds for trading transactions that occurred in the period to which the distribution relates. The number of shares must determine the value of the trading transactions.
+**(5)** In this section, transaction shares means the number of shares in the co-operative company that the member holds for trading transactions that occurred in the period to which the distribution relates. The number of shares must determine the value of the trading transactions.
 
 **Meaning of limited non-transaction shares**
 
-**(6)**  In this section, limited non-transaction shares means the member's shares that are not the member's transaction shares or their projected transactions shareholding, and that may entitle the member to enter trading transactions, if the number of those shares is less than or equal to the greater of the following:
+**(6)** In this section, limited non-transaction shares means the member's shares that are not the member's transaction shares or their projected transactions shareholding, and that may entitle the member to enter trading transactions, if the number of those shares is less than or equal to the greater of the following:
 
 - (a) 20% of the member's transaction shares on the date of entitlement for the distribution under section 125 of the Companies Act 1993:
 
@@ -76,11 +76,11 @@ compilation_date: 2026-06-06
 
 **Meaning of projected transactions shareholding**
 
-**(7)**  In this section, projected transactions shareholding means the number of shares in the co-operative company that the member would have had to hold if the trading transactions actually had occurred that the member had projected, using reasonable assumptions, would occur in the period to which the distribution relates. The number of shares must determine the value of the trading transactions.
+**(7)** In this section, projected transactions shareholding means the number of shares in the co-operative company that the member would have had to hold if the trading transactions actually had occurred that the member had projected, using reasonable assumptions, would occur in the period to which the distribution relates. The number of shares must determine the value of the trading transactions.
 
 **Meaning of trading transactions**
 
-**(8)**  In this section, trading transactions means transactions between the member and the co-operative company or subsidiary that are—
+**(8)** In this section, trading transactions means transactions between the member and the co-operative company or subsidiary that are—
 
 - (a) the disposal and acquisition of trading stock of the vendor that is not intangible property; and
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 **Companies Act 1993**
 
-**(9)**  The 20 working day rule for fixing a date in section 125(2) of the Companies Act 1993 does not apply to members' entitlements to receive distributions that are for transaction shares, projected transaction shareholdings, limited non-transaction shares, or shares described in subsection (3), if—
+**(9)** The 20 working day rule for fixing a date in section 125(2) of the Companies Act 1993 does not apply to members' entitlements to receive distributions that are for transaction shares, projected transaction shareholdings, limited non-transaction shares, or shares described in subsection (3), if—
 
 - (a) the co-operative company or the subsidiary, as the case may be, has given a copy of the election described in subsection (1) to the Registrar of Companies before the relevant distributions are paid; and
 

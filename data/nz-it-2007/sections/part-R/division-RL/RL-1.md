@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this subpart does**
 
-**(1)**  This subpart imposes an obligation to pay a tax called residential land withholding tax (RLWT).
+**(1)** This subpart imposes an obligation to pay a tax called residential land withholding tax (RLWT).
 
 **When this subpart applies**
 
-**(2)**  This subpart applies for a residential land purchase amount in relation to a disposal of residential land located in New Zealand by a person (the vendor) to another person (the purchaser) if—
+**(2)** This subpart applies for a residential land purchase amount in relation to a disposal of residential land located in New Zealand by a person (the vendor) to another person (the purchaser) if—
 
 - (a) the relevant residential land purchase amount would be income of the vendor under section CB 6A (Disposal within 2 years: bright-line test for residential land) ignoring sections CB 6A(5)﻿(b)﻿(i) and CB 16A (Main home exclusion for disposal within 2 years); and
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **How this subpart applies to joint owners**
 
-**(3)**  For the purposes of this subpart, vendors who are co-owners are treated as disposing of separate residential land on the basis of an appropriate split of the underlying residential land and the consideration for its disposal.
+**(3)** For the purposes of this subpart, vendors who are co-owners are treated as disposing of separate residential land on the basis of an appropriate split of the underlying residential land and the consideration for its disposal.
 
 **When this subpart does not apply**
 
-**(4)**  This subpart does not apply if the vendor holds an RLWT certificate of exemption that applies for the disposal of the relevant residential land. Section 54E of the Tax Administration Act 1994 provides for the issue of RLWT certificates of exemption to vendors.
+**(4)** This subpart does not apply if the vendor holds an RLWT certificate of exemption that applies for the disposal of the relevant residential land. Section 54E of the Tax Administration Act 1994 provides for the issue of RLWT certificates of exemption to vendors.
 
 **When this subpart does not apply: relationship property**
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Specific rules**
 
-**(5)**  In this subpart,—
+**(5)** In this subpart,—
 
 - (a) section RL 2 provides rules for vendors and conveyancers in relation to who must pay RLWT and satisfy RLWT liability:
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Return and information provisions in Tax Administration Act 1994**
 
-**(6)**  Sections 54B, 54C, and 54D of the Tax Administration Act 1994 provide for the giving of returns and information in relation to RLWT obligations.
+**(6)** Sections 54B, 54C, and 54D of the Tax Administration Act 1994 provide for the giving of returns and information in relation to RLWT obligations.
 
 *Defined in this Act: dispose, land, offshore RLWT person, residential land, residential land purchase amount, RLWT, RLWT certificate of exemption*
 

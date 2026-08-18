@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a Maori authority makes a taxable Maori authority distribution in the transitional period referred to in section OZ 7.
+**(1)** This section applies when a Maori authority makes a taxable Maori authority distribution in the transitional period referred to in section OZ 7.
 
 **Application of modified sections OZ 8 to OZ 15**
 
-**(2)**  Sections OZ 8 to OZ 11 and OZ 13 apply for the transitional period to the Maori authority and the taxable Maori authority distribution as if,—
+**(2)** Sections OZ 8 to OZ 11 and OZ 13 apply for the transitional period to the Maori authority and the taxable Maori authority distribution as if,—
 
 - (a) for each section,—
 

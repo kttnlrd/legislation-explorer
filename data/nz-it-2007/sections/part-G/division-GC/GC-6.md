@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Purpose of rules**
 
-**(1)**  The purpose of this section and sections GC 7 to GC 14 is to substitute an arm's length consideration in the calculation of a person's net income if the person's net income is reduced by the conditions of a cross-border arrangement—
+**(1)** The purpose of this section and sections GC 7 to GC 14 is to substitute an arm's length consideration in the calculation of a person's net income if the person's net income is reduced by the conditions of a cross-border arrangement—
 
 - (a) with an associated person or with a party to a financial arrangement that is a cross-border related borrowing of the person under subsection (3B); and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **What is a transfer pricing arrangement?**
 
-**(2)**  An arrangement is a transfer pricing arrangement if—
+**(2)** An arrangement is a transfer pricing arrangement if—
 
 - (a) the arrangement involves the supply and acquisition of goods, services, money, other intangible property, or anything else; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **When arrangement is cross-border arrangement**
 
-**(3)**  An arrangement is a cross-border arrangement if the requirements of any of the following paragraphs is met:
+**(3)** An arrangement is a cross-border arrangement if the requirements of any of the following paragraphs is met:
 
 - (a) the supplier and acquirer are a New Zealand resident and non-resident, unless the requirements of both of the following subparagraphs are met:
 
@@ -94,7 +94,7 @@ compilation_date: 2026-06-06
 
 **Application of sections**
 
-**(4)**  Section GC 7, GC 8, GC 9, or GC 10 can apply to an arrangement under section GB 2 (Arrangements involving transfer pricing).
+**(4)** Section GC 7, GC 8, GC 9, or GC 10 can apply to an arrangement under section GB 2 (Arrangements involving transfer pricing).
 
 *Defined in this Act: acquisition, arrangement, associated person, cross-border related borrowing, fixed establishment, financial arrangement, net income, New Zealand, New Zealand resident, non-resident, non-resident owning body , OECD transfer pricing guidelines, ownership interest, supply, transfer pricing arrangement*
 

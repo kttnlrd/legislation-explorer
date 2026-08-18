@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When mutual transactions arise**
 
-**(1)**  In this subpart, and sections CB 33, CB 34, and DV 19 (which relate to income and deductions relating to mutual transactions), a mutual transaction arises when an association—
+**(1)** In this subpart, and sections CB 33, CB 34, and DV 19 (which relate to income and deductions relating to mutual transactions), a mutual transaction arises when an association—
 
 - (a) enters into a transaction with members of the association, or a transaction with members of the association and other persons; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Types of transaction**
 
-**(2)**  For the purposes of subsection (1), a transaction between an association and its member includes 1 or more of the following:
+**(2)** For the purposes of subsection (1), a transaction between an association and its member includes 1 or more of the following:
 
 - (a) the borrowing by the association of money from 1 or more members, to the extent to which the money is applied as a loan to a member:
 

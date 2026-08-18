@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person carrying on a forestry business on land in New Zealand is allowed a deduction for expenditure that they incur on—
+**(1)** A person carrying on a forestry business on land in New Zealand is allowed a deduction for expenditure that they incur on—
 
 - (a) administrative overheads, rates, rent, insurance premiums, or other expenses of the same kinds:
 
@@ -42,11 +42,11 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(2)**  Although timber is revenue account property, a deduction for expenditure described in subsection (1) is not allocated under section EA 2(2) (Other revenue account property) but under section BD 4(2) (Allocation of deductions to particular income years).
+**(2)** Although timber is revenue account property, a deduction for expenditure described in subsection (1) is not allocated under section EA 2(2) (Other revenue account property) but under section BD 4(2) (Allocation of deductions to particular income years).
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(3)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: business, capital limitation, deduction, forestry business, general limitation, general permission, interest, New Zealand, revenue account property, standing timber, timber*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an income year (the current income year) when a person—
+**(1)** This section applies for an income year (the current income year) when a person—
 
 - (a) disposes of the last of the properties in their residential portfolio; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Disposal of fully-taxed portfolio: excess amounts released**
 
-**(2)**  If the person derives income under the land sales provisions for the current income year or for an earlier income year from the disposal of each of the properties in their residential portfolio, any unused excess amount relating to the portfolio is released from the application of the limited allocation rule in section EL 4(2) for the current income year. However, this subsection does not apply in relation to an unused excess amount transferred from another property, see subsections (5) and (6).
+**(2)** If the person derives income under the land sales provisions for the current income year or for an earlier income year from the disposal of each of the properties in their residential portfolio, any unused excess amount relating to the portfolio is released from the application of the limited allocation rule in section EL 4(2) for the current income year. However, this subsection does not apply in relation to an unused excess amount transferred from another property, see subsections (5) and (6).
 
 **Disposal of incompletely-taxed portfolios: excess amounts carried forward**
 
-**(3)**  If the person does not derive income under the land sales provisions for the current income year or for an earlier income year from the disposal of each of the properties in their residential portfolio, any unused excess amount relating to the portfolio—
+**(3)** If the person does not derive income under the land sales provisions for the current income year or for an earlier income year from the disposal of each of the properties in their residential portfolio, any unused excess amount relating to the portfolio—
 
 - (a) is an amount to which section EL 4(3) continues to apply for income years in which the person derives residential income; and
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Basis of allocation**
 
-**(4)**  For the purposes of subsection (3)﻿(b), it does not matter whether the allocation of the transferred amount is made on a portfolio basis or on a property-by-property basis.
+**(4)** For the purposes of subsection (3)﻿(b), it does not matter whether the allocation of the transferred amount is made on a portfolio basis or on a property-by-property basis.
 
 **When subsection (6) applies**
 
-**(5)**  Subsection (6) applies in relation to a disposal described in subsection (2) when—
+**(5)** Subsection (6) applies in relation to a disposal described in subsection (2) when—
 
 - (a) an unused excess amount was transferred to the portfolio from another of the person's properties that was not included in the portfolio; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Reduction and transfer to another residential rental property**
 
-**(6)**  An unused excess amount that would otherwise be released under subsection (2) is—
+**(6)** An unused excess amount that would otherwise be released under subsection (2) is—
 
 - (a) reduced by an amount equal to the total unused excess amount transferred from the other property; and
 

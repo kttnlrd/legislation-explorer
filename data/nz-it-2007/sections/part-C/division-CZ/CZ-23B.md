@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  Income derived by an employee from an employer is exempt income to the extent given by subsection (2) if the income—
+**(1)** Income derived by an employee from an employer is exempt income to the extent given by subsection (2) if the income—
 
 - (a) would be assessable income in the absence of this section; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Extent of exemption**
 
-**(2)**  Income satisfying subsection (1) is exempt income to the extent to which the income is—
+**(2)** Income satisfying subsection (1) is exempt income to the extent to which the income is—
 
 - (a) accommodation:
 

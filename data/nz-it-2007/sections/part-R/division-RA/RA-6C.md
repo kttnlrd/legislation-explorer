@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **RLWT: vendors**
 
-**(1)**  A person described in section RL 2 (Vendors: who must pay, and how?) must pay RLWT for a residential land purchase amount to the Commissioner under subpart RL (Residential land withholding tax) by the due date.
+**(1)** A person described in section RL 2 (Vendors: who must pay, and how?) must pay RLWT for a residential land purchase amount to the Commissioner under subpart RL (Residential land withholding tax) by the due date.
 
 **RLWT: associated persons**
 
-**(2)**  A person described in section RL 3 (Associated persons: who must pay, and how?) must withhold and pay RLWT for a residential land purchase amount to the Commissioner under subpart RL by the due date.
+**(2)** A person described in section RL 3 (Associated persons: who must pay, and how?) must withhold and pay RLWT for a residential land purchase amount to the Commissioner under subpart RL by the due date.
 
 *Defined in this Act: pay, residential land purchase amount, RLWT*
 

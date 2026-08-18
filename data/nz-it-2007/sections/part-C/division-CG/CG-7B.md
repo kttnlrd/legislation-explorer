@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person—
+**(1)** This section applies when a person—
 
 - (a) has a deduction under section DB 19, DB 37, or DB 40BA (which relate to expenditure on abortive or failed applications) for expenditure; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Income: affecting cost in section EE 25, base value in section EE 57**
 
-**(2)**  The person has income of the amount described in—
+**(2)** The person has income of the amount described in—
 
 - (a) subsection (3), if the application property is disposed of for consideration, in the income year of the disposal; or
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Lesser of total deductions and consideration from disposal**
 
-**(3)**  The amount is—
+**(3)** The amount is—
 
 - (a) the amount of the consideration derived for the disposal that is not income under another provision of this Act, if that amount is less than the total amount of deductions referred to in subsection (1)﻿(a); or
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Deductions in acquiring property**
 
-**(4)**  The amount is the total amount of deductions referred to in subsection (1)﻿(a) for expenditure incurred in acquiring the application property.
+**(4)** The amount is the total amount of deductions referred to in subsection (1)﻿(a) for expenditure incurred in acquiring the application property.
 
 *Defined in this Act: deduction, design registration application, dispose, income, plant variety rights*
 

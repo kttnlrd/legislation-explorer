@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) the employment duties of an employee require them to attend a work-related meeting, conference, or training course that entails an overnight stay; and
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  This section does not apply to an amount that is the value provided or expenditure incurred by the employer when, under the terms of their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount.
+**(2)** This section does not apply to an amount that is the value provided or expenditure incurred by the employer when, under the terms of their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount.
 
 **Exempt income**
 
-**(3)**  The amount that is the value provided or expenditure incurred by the employer is exempt income of the employee.
+**(3)** The amount that is the value provided or expenditure incurred by the employer is exempt income of the employee.
 
 **Extended meaning of period of continuous work**
 
-**(4)**  For the purposes of this section, a period of continuous work may include a period in which an employee's duties of employment require them to stay for 1 or more nights at a location that is not distant from their regular workplace.
+**(4)** For the purposes of this section, a period of continuous work may include a period in which an employee's duties of employment require them to stay for 1 or more nights at a location that is not distant from their regular workplace.
 
 *Defined in this Act: accommodation, amount, employee, employer, employment, employment income, exempt income, period of continuous work*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person who owns or carries on a business has mixed-age cows on hand at the start of an income year (the cull year) before the 2028–29 income year that they—
 
@@ -34,15 +34,15 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(2)**  The person may choose to allocate the amount of income calculated using the formula in subsection (5) equally between the 6 income years following the cull year.
+**(2)** The person may choose to allocate the amount of income calculated using the formula in subsection (5) equally between the 6 income years following the cull year.
 
 **Timing of deduction**
 
-**(3)**  When a person makes an election under subsection (2), part of any deduction that the person is allowed for the value that their livestock valued under subpart EC (Valuation of livestock) had at the end of the income year before the cull year, as calculated under section EC 2 (Valuation of livestock), is allocated equally between the 6 income years following the cull year. The part must reflect the value, as calculated under that section at the end of the income year before the cull year using whichever of the national standard cost scheme or the cost price method the person used in the income year before the cull year, of the same number of each class of livestock to which the amount of income allocated under subsection (2) relates.
+**(3)** When a person makes an election under subsection (2), part of any deduction that the person is allowed for the value that their livestock valued under subpart EC (Valuation of livestock) had at the end of the income year before the cull year, as calculated under section EC 2 (Valuation of livestock), is allocated equally between the 6 income years following the cull year. The part must reflect the value, as calculated under that section at the end of the income year before the cull year using whichever of the national standard cost scheme or the cost price method the person used in the income year before the cull year, of the same number of each class of livestock to which the amount of income allocated under subsection (2) relates.
 
 **Business ceasing**
 
-**(4)**  If the person stops owning or carrying on the business in an income year (the cessation year) before the seventh income year following the cull year, to the extent to which it has not been allocated to income years before the cessation year,—
+**(4)** If the person stops owning or carrying on the business in an income year (the cessation year) before the seventh income year following the cull year, to the extent to which it has not been allocated to income years before the cessation year,—
 
 - (a) the amount of income calculated using the formula in subsection (5) is allocated to the cessation year; and
 
@@ -50,15 +50,15 @@ compilation_date: 2026-06-06
 
 **First formula**
 
-**(5)**  The formula referred to in subsections (2) and (4) is— Σ(number × (sale proceeds + compensation) ÷ culled stock).
+**(5)** The formula referred to in subsections (2) and (4) is— Σ(number × (sale proceeds + compensation) ÷ culled stock).
 
 **Definition of items in formula**
 
-**(6)**  The items in the formula in subsection (5) are defined in subsections (7) to (11).
+**(6)** The items in the formula in subsection (5) are defined in subsections (7) to (11).
 
 **Σ**
 
-**(7)**  Σ is the symbol for the summation of the amounts calculated using the formula in the brackets that follow that symbol for each of the following classes of each of the beef cattle and dairy cattle types of livestock:
+**(7)** Σ is the symbol for the summation of the amounts calculated using the formula in the brackets that follow that symbol for each of the following classes of each of the beef cattle and dairy cattle types of livestock:
 
 - (a) rising 1 year heifers:
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **Number**
 
-**(8)**  Number, for a class of livestock, is the number that is the lesser of the following 2 numbers, or the first number if they are the same:
+**(8)** Number, for a class of livestock, is the number that is the lesser of the following 2 numbers, or the first number if they are the same:
 
 - (a) the number that is the greater of zero and the number calculated using the formula in subsection (12):
 
@@ -82,11 +82,11 @@ compilation_date: 2026-06-06
 
 **Sale proceeds**
 
-**(9)**  Sale proceeds, for a class of livestock, is the amount of income the person derives as consideration for the disposal of livestock of that class, including their carcasses, that are part of the destroyed cattle.
+**(9)** Sale proceeds, for a class of livestock, is the amount of income the person derives as consideration for the disposal of livestock of that class, including their carcasses, that are part of the destroyed cattle.
 
 **Compensation**
 
-**(10)**  Compensation, for a class of livestock, is the amount of income the person derives that is compensation to which the person is entitled under section 162A of the Biosecurity Act 1993 and that the person receives by the end of the income year following the cull year, but only to the extent to which that compensation is for—
+**(10)** Compensation, for a class of livestock, is the amount of income the person derives that is compensation to which the person is entitled under section 162A of the Biosecurity Act 1993 and that the person receives by the end of the income year following the cull year, but only to the extent to which that compensation is for—
 
 - (a) any excess of the value of the destroyed cattle that belong to that class used in the calculation of that compensation over the amount of income described in subsection (9) for that class; and
 
@@ -94,15 +94,15 @@ compilation_date: 2026-06-06
 
 **Culled stock**
 
-**(11)**  Culled stock, for a class of livestock, is the number of livestock of that class that are part of the destroyed cattle.
+**(11)** Culled stock, for a class of livestock, is the number of livestock of that class that are part of the destroyed cattle.
 
 **Second formula**
 
-**(12)**  The formula referred to in subsection (8) is— valuation method breeding stock + culled stock – opening stock.
+**(12)** The formula referred to in subsection (8) is— valuation method breeding stock + culled stock – opening stock.
 
 **Definition of items in second formula**
 
-**(13)**  In the formula in subsection (12), for a class of livestock,—
+**(13)** In the formula in subsection (12), for a class of livestock,—
 
 - (a) valuation method breeding stock is the number of livestock of that class that—
 
@@ -116,7 +116,7 @@ compilation_date: 2026-06-06
 
 **How elections made**
 
-**(14)**  A person makes an election under subsection (2) by notifying the Commissioner,—
+**(14)** A person makes an election under subsection (2) by notifying the Commissioner,—
 
 - (a) if the cull year is the 2020–21 income year or an earlier income year, by the date of filing their return of income for the 2020–21 income year; or
 
@@ -124,15 +124,15 @@ compilation_date: 2026-06-06
 
 **Elections irrevocable**
 
-**(15)**  An election made under subsection (2) cannot be revoked.
+**(15)** An election made under subsection (2) cannot be revoked.
 
 **When election treated as never having been made**
 
-**(16)**  A person who makes an election under subsection (2) is treated as never having made the election if the number of mixed-age cows valued under the national standard cost scheme or the cost price method that the person has on hand at the end of the income year following the cull year is less than 75% of the number of mixed-age cows valued under the national standard cost scheme or the cost price method that the person had on hand at the start of the cull year.
+**(16)** A person who makes an election under subsection (2) is treated as never having made the election if the number of mixed-age cows valued under the national standard cost scheme or the cost price method that the person has on hand at the end of the income year following the cull year is less than 75% of the number of mixed-age cows valued under the national standard cost scheme or the cost price method that the person had on hand at the start of the cull year.
 
 **Relationship with sections CG 6 and DB 49**
 
-**(17)**  This section overrides sections CG 6 (Receipts from insurance, indemnity, or compensation for trading stock) and DB 49 (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements).
+**(17)** This section overrides sections CG 6 (Receipts from insurance, indemnity, or compensation for trading stock) and DB 49 (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements).
 
 *Defined in this Act: amount, business, class, Commissioner, cost price, deduction, income, income year, national standard cost scheme, notify, return of income*
 

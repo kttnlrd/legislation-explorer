@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What may be done by Order in Council**
 
-**(1)**  The Governor-General may, by Order in Council,—
+**(1)** The Governor-General may, by Order in Council,—
 
 - (a) increase the amounts in section MD 3(4)﻿(a) and (b) (Calculation of family tax credit) by amounts that—
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Order in Council under subsection (1)﻿(a): requirements**
 
-**(2)**  An Order in Council under subsection (1)﻿(a),—
+**(2)** An Order in Council under subsection (1)﻿(a),—
 
 - (b) in the case of the first Order in Council made under subsection (1)﻿(a) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent, must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on 1 October 2021 is 5% or more:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Timing of Order in Council**
 
-**(3)**  An Order in Council made under this section must be published under the Legislation Act 2019 no later than 1 December in each year and must apply from 1 April following that date.
+**(3)** An Order in Council made under this section must be published under the Legislation Act 2019 no later than 1 December in each year and must apply from 1 April following that date.
 
 **Secondary legislation**
 
@@ -70,11 +70,11 @@ compilation_date: 2026-06-06
 
 **Review of in-work tax credit**
 
-**(4)**  The Minister responsible for the Inland Revenue Department, in consultation with the Minister responsible for the department currently responsible for administering the Social Security Act 2018, must cause a review to be undertaken of the amounts of the in-work tax credit allowable under subparts MB to MF and MZ.
+**(4)** The Minister responsible for the Inland Revenue Department, in consultation with the Minister responsible for the department currently responsible for administering the Social Security Act 2018, must cause a review to be undertaken of the amounts of the in-work tax credit allowable under subparts MB to MF and MZ.
 
 **Timing of review**
 
-**(5)**  A review undertaken under subsection (4) must occur,—
+**(5)** A review undertaken under subsection (4) must occur,—
 
 - (a) in the case of the first review, not later than 30 June 2008; and
 
@@ -82,7 +82,7 @@ compilation_date: 2026-06-06
 
 **Definitions**
 
-**(6)**  In this section, Consumers Price Index (all groups) means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
+**(6)** In this section, Consumers Price Index (all groups) means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 
 *Defined in this Act: amount, family tax credit, in-work tax credit, minimum family tax credit, quarter*
 

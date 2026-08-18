@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a company (company A) in a group of companies has a tax credit under section LK 1 in relation to an income interest in a CFC (company B) of an amount other than a quarantined amount.
+**(1)** This section applies when a company (company A) in a group of companies has a tax credit under section LK 1 in relation to an income interest in a CFC (company B) of an amount other than a quarantined amount.
 
 **Making credit available**
 
-**(2)**  Company A may choose to make the amount of the tax credit available to another company (company C) that is part of the group of companies for the tax year in which the credit is available to the company if the requirements of subsections (3) and (4) are met.
+**(2)** Company A may choose to make the amount of the tax credit available to another company (company C) that is part of the group of companies for the tax year in which the credit is available to the company if the requirements of subsections (3) and (4) are met.
 
 **Amount limited**
 
-**(3)**  The amount of the credit must not be more than the amount that would be company C's income tax liability if that company's only assessable income were the attributed CFC income derived in the corresponding income year from a CFC resident in the same country in which company B was resident in the accounting period in which the income tax giving rise to the credit was paid or payable.
+**(3)** The amount of the credit must not be more than the amount that would be company C's income tax liability if that company's only assessable income were the attributed CFC income derived in the corresponding income year from a CFC resident in the same country in which company B was resident in the accounting period in which the income tax giving rise to the credit was paid or payable.
 
 **Use limited**
 
-**(4)**  Company A may make an amount of a tax credit available to company C to use only if the amount would be able to be used under subpart IC (Grouping tax losses), reading the subpart by substituting—
+**(4)** Company A may make an amount of a tax credit available to company C to use only if the amount would be able to be used under subpart IC (Grouping tax losses), reading the subpart by substituting—
 
 - (a) a wholly-owned group of companies for a group of companies:
 

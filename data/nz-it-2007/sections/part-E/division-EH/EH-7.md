@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person is allowed a deduction under section DQ 1 (Main income equalisation scheme).
+**(1)** This section applies when a person is allowed a deduction under section DQ 1 (Main income equalisation scheme).
 
 **Amount of deduction**
 
-**(2)**  The amount of the deduction is the lesser of—
+**(2)** The amount of the deduction is the lesser of—
 
 - (a) the total of the person's deposits for the accounting year; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(3)**  The person is allowed the deduction in the accounting year.
+**(3)** The person is allowed the deduction in the accounting year.
 
 *Defined in this Act: accounting year, amount, corresponding income year, deduction, deposit, main maximum deposit, person*
 

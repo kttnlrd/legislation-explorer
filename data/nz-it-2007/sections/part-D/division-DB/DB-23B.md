@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a company that is part of a consolidated group at a time during an income year derives an amount of income from a transaction or arrangement with another company in the consolidated group at the same time; and
 
@@ -26,15 +26,15 @@ compilation_date: 2026-06-06
 
 **No deduction for expenditure incurred**
 
-**(2)**  Despite section DB 23, the company is denied a deduction for expenditure incurred in relation to the excepted financial arrangement as the cost of revenue account property.
+**(2)** Despite section DB 23, the company is denied a deduction for expenditure incurred in relation to the excepted financial arrangement as the cost of revenue account property.
 
 **No deduction for closing value**
 
-**(3)**  Despite section DB 49, the company is denied a deduction for the value that the excepted financial arrangement had at the end of the previous income year.
+**(3)** Despite section DB 49, the company is denied a deduction for the value that the excepted financial arrangement had at the end of the previous income year.
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the general permission. The other general limitations still apply.
+**(4)** This section overrides the general permission. The other general limitations still apply.
 
 *Defined in this Act: amalgamation, amount, arrangement, cancellation, company, consolidated group, deduction, excepted financial arrangement, excluded income, general permission, income, income year, liquidation, revenue account property*
 

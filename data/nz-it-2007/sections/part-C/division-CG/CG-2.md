@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person is allowed a deduction in an income year of an amount that the person is liable to pay; and
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount to which the remission or cancellation applies is income of the person.
+**(2)** The amount to which the remission or cancellation applies is income of the person.
 
 **Timing of income**
 
-**(3)**  The income is allocated to the income year in which the remission or cancellation occurs.
+**(3)** The income is allocated to the income year in which the remission or cancellation occurs.
 
 **How remission or cancellation occurs**
 
-**(4)**  Remission or cancellation occurs, for the purposes of this section, in 1 of the following ways:
+**(4)** Remission or cancellation occurs, for the purposes of this section, in 1 of the following ways:
 
 - (a) a liability is remitted to the extent to which the person is discharged from it without fully adequate consideration in money or money's worth:
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections CG 2C to CG 2E**
 
-**(5)**  Sections CG 2C to CG 2E override this section.
+**(5)** Sections CG 2C to CG 2E override this section.
 
 *Defined in this Act: amount, deduction, dividend, income, income year, New Zealand, pay*
 

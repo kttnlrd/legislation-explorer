@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When section GC 1 applies**
 
-**(1)**  Section GC 1 applies to each of the following disposals as if it were a disposal of trading stock—
+**(1)** Section GC 1 applies to each of the following disposals as if it were a disposal of trading stock—
 
 - (a) a grant of a right to take timber, other than in favour of the grantor:
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  Subsection (1) does not apply to a disposal of land with standing timber if the disposal is within 1 of the exclusions in section CB 25(2) (Disposal of land with standing timber).
+**(2)** Subsection (1) does not apply to a disposal of land with standing timber if the disposal is within 1 of the exclusions in section CB 25(2) (Disposal of land with standing timber).
 
 **Limitation**
 
-**(3)**  Section GC 1(4) does not apply if the disposal is of land with standing timber subject to a right to take timber.
+**(3)** Section GC 1(4) does not apply if the disposal is of land with standing timber subject to a right to take timber.
 
 *Defined in this Act: timber, trading stock*
 

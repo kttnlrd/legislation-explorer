@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Types of account in this Part**
 
-**(1)**  The following accounts are dealt with in this Part:
+**(1)** The following accounts are dealt with in this Part:
 
 - (a) an imputation credit account, see subparts OB and OP:
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Role of accounts**
 
-**(2)**  A memorandum account is an account listed in subsection (1) that provides a record of the credits and debits arising in the account.
+**(2)** A memorandum account is an account listed in subsection (1) that provides a record of the credits and debits arising in the account.
 
 **Tax year**
 
-**(3)**  A memorandum account is maintained for a tax year and each subsequent tax year unless a provision in this Part expressly states otherwise.
+**(3)** A memorandum account is maintained for a tax year and each subsequent tax year unless a provision in this Part expressly states otherwise.
 
 **Tables**
 
-**(4)**  The credits and debits that arise in a memorandum account are listed in tables in each of the subparts. The tables—
+**(4)** The credits and debits that arise in a memorandum account are listed in tables in each of the subparts. The tables—
 
 - (a) state the credits and the debits; and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Determination**
 
-**(5)**  The Commissioner may issue a determination under section 104B of the Tax Administration Act 1994 adjusting the amount of a credit or debit, or a credit date or debit date recorded in a memorandum account if the Commissioner considers the amount or date is not correct. The determination may be reviewed in challenge proceedings under Part 8A of that Act.
+**(5)** The Commissioner may issue a determination under section 104B of the Tax Administration Act 1994 adjusting the amount of a credit or debit, or a credit date or debit date recorded in a memorandum account if the Commissioner considers the amount or date is not correct. The determination may be reviewed in challenge proceedings under Part 8A of that Act.
 
 *Defined in this Act: ASC account, branch equivalent tax account, Commissioner, CTR account, imputation credit account, Maori authority credit account, memorandum account, tax year*
 

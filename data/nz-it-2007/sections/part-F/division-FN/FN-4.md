@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When company eligible**
 
-**(1)**  A company is eligible to be part of an imputation group at a particular time if, at the time,—
+**(1)** A company is eligible to be part of an imputation group at a particular time if, at the time,—
 
 - (a) it is resident in New Zealand or resident in Australia; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Consolidated group companies**
 
-**(2)**  A company that is part of a consolidated group is eligible to be part of an imputation group at a particular time if, at the time,—
+**(2)** A company that is part of a consolidated group is eligible to be part of an imputation group at a particular time if, at the time,—
 
 - (a) all companies in the consolidated group meet the criteria set out in subsection (1) and are part of or would be part of the imputation group; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Restriction when company of certain type**
 
-**(3)**  Despite subsections (1) and (2), if a company that is part of an imputation group is 1 of the following types of company, all companies in the imputation group at the time must be the same type as that company:
+**(3)** Despite subsections (1) and (2), if a company that is part of an imputation group is 1 of the following types of company, all companies in the imputation group at the time must be the same type as that company:
 
 - (a) a qualifying company; or
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Anti-avoidance measure**
 
-**(5)**  A company is not eligible to be part of an imputation group if, for a purpose of enabling a company to be part of an imputation group so as to defeat the intent and application of the imputation rules, the company's shares—
+**(5)** A company is not eligible to be part of an imputation group if, for a purpose of enabling a company to be part of an imputation group so as to defeat the intent and application of the imputation rules, the company's shares—
 
 - (a) are subject to an arrangement or to a series of related or connected arrangements; or
 

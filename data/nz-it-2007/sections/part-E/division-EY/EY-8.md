@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Life insurance means insurance under which—
+**(1)** Life insurance means insurance under which—
 
 - (a) person A (the life insurer) is liable to provide person B (the policyholder) with a benefit described in subsection (2); and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Benefits**
 
-**(2)**  The benefits are—
+**(2)** The benefits are—
 
 - (a) a benefit whose payment is contingent on the death of 1 or more human beings, including an annuity whose term is contingent on human life; or
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Exclusion: death benefits provided under accident or medical insurance**
 
-**(3)**  Life insurance does not include accident or medical insurance under which—
+**(3)** Life insurance does not include accident or medical insurance under which—
 
 - (a) 1 or more benefits are payable for the death of the person whose life is insured; and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Exclusion: death benefits provided by superannuation funds**
 
-**(4)**  Life insurance does not include an arrangement in which—
+**(4)** Life insurance does not include an arrangement in which—
 
 - (a) a superannuation fund is liable to pay, as a benefit to a beneficiary of the fund, a lump sum on—
 

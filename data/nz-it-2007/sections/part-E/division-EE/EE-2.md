@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Kinds of ownership**
 
-**(1)**  Own, for the ownership of depreciable property,—
+**(1)** Own, for the ownership of depreciable property,—
 
 - (a) means legal or equitable ownership; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Shared ownership**
 
-**(2)**  When more than 1 person owns an item of depreciable property, own means the interest that the person has in the item.
+**(2)** When more than 1 person owns an item of depreciable property, own means the interest that the person has in the item.
 
 *Defined in this Act: depreciable property, own*
 

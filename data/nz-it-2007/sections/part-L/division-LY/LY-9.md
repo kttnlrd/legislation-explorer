@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Purpose**
 
-**(1)**  The purpose of subsection (2) is to provide a power to maintain the intent of the research and development tax credit regime in accordance with its stated purpose in section LY 1(1).
+**(1)** The purpose of subsection (2) is to provide a power to maintain the intent of the research and development tax credit regime in accordance with its stated purpose in section LY 1(1).
 
 **Order in Council**
 
-**(2)**  The Governor-General may, by Order in Council made on the joint recommendation of the Minister of Revenue and the Minister of Science, Innovation, and Technology,—
+**(2)** The Governor-General may, by Order in Council made on the joint recommendation of the Minister of Revenue and the Minister of Science, Innovation, and Technology,—
 
 - (a) add the description of an activity or of an expenditure or loss, as applicable, to—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Recommendation**
 
-**(3)**  Before making a recommendation referred to in subsection (2), the Ministers must be satisfied that—
+**(3)** Before making a recommendation referred to in subsection (2), the Ministers must be satisfied that—
 
 - (a) they have consulted with persons they consider to be appropriate in light of the relevant addition or removal; and
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Application for future tax years**
 
-**(4)**  An addition or removal by Order in Council under this section must apply for the income year corresponding to the tax year after the tax year in which it is made, and subsequent income years.
+**(4)** An addition or removal by Order in Council under this section must apply for the income year corresponding to the tax year after the tax year in which it is made, and subsequent income years.
 
 **Secondary legislation**
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Sunset**
 
-**(5)**  An Order in Council under this section expires on the date that is 3 years after the last day of the tax year that the Order first applies for.
+**(5)** An Order in Council under this section expires on the date that is 3 years after the last day of the tax year that the Order first applies for.
 
 *Defined in this Act: eligible research and development expenditure, income year, loss, research and development activity, research and development tax credit, tax year*
 

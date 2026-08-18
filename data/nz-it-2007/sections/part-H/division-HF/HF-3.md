@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Relationship with provisions generally**
 
-**(1)**  A provision in the Maori authority rules overrides any other provision in this Act that may apply to a Maori authority unless a provision specifically provides otherwise.
+**(1)** A provision in the Maori authority rules overrides any other provision in this Act that may apply to a Maori authority unless a provision specifically provides otherwise.
 
 **Relationship with company rules**
 
-**(2)**  A Maori authority must not—
+**(2)** A Maori authority must not—
 
 - (a) amalgamate with a company that is not a Maori authority; or
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Treatment of tax losses**
 
-**(3)**  Under section IA 6 (Restrictions on companies grouping tax losses) and subpart IC (Grouping tax losses),—
+**(3)** Under section IA 6 (Restrictions on companies grouping tax losses) and subpart IC (Grouping tax losses),—
 
 - (a) a Maori authority may subtract from its net income some or all of a tax loss component or loss balance only of another Maori authority:
 

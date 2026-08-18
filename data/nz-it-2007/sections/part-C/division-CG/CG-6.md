@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person receives an amount of insurance, indemnity, or compensation for the loss or destruction of, or damage to,—
+**(1)** This section applies when a person receives an amount of insurance, indemnity, or compensation for the loss or destruction of, or damage to,—
 
 - (a) trading stock:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The part of the insurance, indemnity, or compensation that is attributable to the asset is income if—
+**(2)** The part of the insurance, indemnity, or compensation that is attributable to the asset is income if—
 
 - (a) the person is allowed a deduction in an income year for the cost of the asset; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(3)**  The income is allocated to the income year in which the amount is received.
+**(3)** The income is allocated to the income year in which the amount is received.
 
 *Defined in this Act: amount, business, deduction, depreciation loss, income, income year, trading stock*
 

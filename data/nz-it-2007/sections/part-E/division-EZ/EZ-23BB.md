@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person and an income year (the current year) before the 2024–25 income year when the person,—
+**(1)** This section applies for a person and an income year (the current year) before the 2024–25 income year when the person,—
 
 - (a) in or before the current year, receives insurance or compensation (the earthquake compensation) for items of depreciable property (the affected property), each of which is—
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Suspended recovery income**
 
-**(2)**  For a replacement interest, the amount that may be depreciation recovery income of the person in or after the current year (the suspended recovery income) is the excess recovery, for the affected property with which the replacement interest is linked under subsections (10) and (11), that remains at the beginning of the current year after—
+**(2)** For a replacement interest, the amount that may be depreciation recovery income of the person in or after the current year (the suspended recovery income) is the excess recovery, for the affected property with which the replacement interest is linked under subsections (10) and (11), that remains at the beginning of the current year after—
 
 - (a) adjustment under subsections (3), (8), and (9) for an earlier income year; and
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Effect of acquiring interest in replacement property if suspended recovery income from affected class**
 
-**(3)**  If the person acquires a replacement interest and links the replacement interest with an affected class, the amount calculated using the formula in subsection (4)—
+**(3)** If the person acquires a replacement interest and links the replacement interest with an affected class, the amount calculated using the formula in subsection (4)—
 
 - (a) is an amount of suspended recovery income for the replacement interest; and
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Suspended recovery income for replacement interest and reduction of suspended recovery income for affected class**
 
-**(4)**  The amount under subsection (3)﻿(a) and (b) for a replacement interest and affected class is—
+**(4)** The amount under subsection (3)﻿(a) and (b) for a replacement interest and affected class is—
 
 - (a) zero, if the cost of the affected property in the affected class equals or is less than the total of the fractional interest values for other replacement interests acquired by the person before the replacement interest; or
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) limited replacement cost is the lesser of—
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Requirements for replacement property**
 
-**(6)**  An item of replacement property for a person or owning company must—
+**(6)** An item of replacement property for a person or owning company must—
 
 - (a) be included in the same category under subsection (11)﻿(b) as the affected class with which the person links the item, if the affected class is described in subsection (11)﻿(b)﻿(i) or (ii); and
 
@@ -88,11 +88,11 @@ compilation_date: 2026-06-06
 
 **Depreciation recovery income and suspended recovery income**
 
-**(7)**  The amount of suspended recovery income for a person's replacement interest is not depreciation recovery income for the person arising from the replacement interest unless it is attributed to an income year by subsections (8) and (9).
+**(7)** The amount of suspended recovery income for a person's replacement interest is not depreciation recovery income for the person arising from the replacement interest unless it is attributed to an income year by subsections (8) and (9).
 
 **Depreciation recovery income: disposal of replacement property by owning company**
 
-**(8)**  If the owning company in which a person has a replacement interest disposes of the replacement property in an income year, and subsection (9) does not apply earlier,—
+**(8)** If the owning company in which a person has a replacement interest disposes of the replacement property in an income year, and subsection (9) does not apply earlier,—
 
 - (a) the person has, in the income year for the replacement interest, an amount of depreciation recovery income equal to the fractional interest value of the replacement interest calculated under subsection (12); and
 
@@ -100,7 +100,7 @@ compilation_date: 2026-06-06
 
 **Depreciation recovery income: other events**
 
-**(9)**  The person has, in an income year, an amount of depreciation recovery income equal to the suspended recovery income for a replacement interest and affected property, and the suspended recovery income for the replacement interest and affected property is reduced to zero,—
+**(9)** The person has, in an income year, an amount of depreciation recovery income equal to the suspended recovery income for a replacement interest and affected property, and the suspended recovery income for the replacement interest and affected property is reduced to zero,—
 
 - (a) at the end of the income year, if—
 
@@ -116,7 +116,7 @@ compilation_date: 2026-06-06
 
 **Notice of election for affected property**
 
-**(10)**  A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from earthquake compensation must give notice under this section, or under section EZ 23B for years before the current year, to the Commissioner—
+**(10)** A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from earthquake compensation must give notice under this section, or under section EZ 23B for years before the current year, to the Commissioner—
 
 - (a) for the earliest income year (the estimate year) in which the amount of the earthquake compensation for the affected property can be reasonably estimated, by the later of 31 January 2012 and the date on which the return of income is filed for the estimate year; and
 
@@ -128,7 +128,7 @@ compilation_date: 2026-06-06
 
 **Contents of notice of election**
 
-**(11)**  A notice under subsection (10) for the current year must—
+**(11)** A notice under subsection (10) for the current year must—
 
 - (a) describe the affected property; and
 
@@ -152,11 +152,11 @@ compilation_date: 2026-06-06
 
 **Formula for calculating fractional interest value**
 
-**(12)**  For a person with a replacement interest in replacement property, the fractional interest value of the replacement interest for the purposes of this section is the value calculated using the formula— person's fractional interest × replacement expenditure.
+**(12)** For a person with a replacement interest in replacement property, the fractional interest value of the replacement interest for the purposes of this section is the value calculated using the formula— person's fractional interest × replacement expenditure.
 
 **Definition of items in formula**
 
-**(13)**  In the formula,—
+**(13)** In the formula,—
 
 - (a) person's fractional interest is—
 
@@ -168,11 +168,11 @@ compilation_date: 2026-06-06
 
 **Order of acquisition for items acquired at same time**
 
-**(14)**  If items of replacement property are acquired at the same time and the effect of this section depends on the order in which the items are acquired, the items are treated as being acquired in the order chosen by the person in the first return of income for which the order of acquisition is taken into account.
+**(14)** If items of replacement property are acquired at the same time and the effect of this section depends on the order in which the items are acquired, the items are treated as being acquired in the order chosen by the person in the first return of income for which the order of acquisition is taken into account.
 
 **Relationship to subpart EE**
 
-**(15)**  This section overrides subpart EE (Depreciation).
+**(15)** This section overrides subpart EE (Depreciation).
 
 *Defined in this Act: adjusted tax value, amount, assessable income, building, commercial building, commercial fit-out, depreciable property, depreciation loss, depreciation recovery income, income year, liquidation, notice, notify, return of income, settlor*
 

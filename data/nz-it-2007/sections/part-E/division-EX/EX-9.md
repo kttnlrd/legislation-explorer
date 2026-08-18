@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Categories of direct income interest**
 
-**(1)**  A person has a direct income interest in a CFC at any time if they hold—
+**(1)** A person has a direct income interest in a CFC at any time if they hold—
 
 - (a) any of the shares in the foreign company:
 
@@ -32,23 +32,23 @@ compilation_date: 2026-06-06
 
 **Percentage of total is counted**
 
-**(2)**  The person's direct income interest is the percentage of the total that the person holds.
+**(2)** The person's direct income interest is the percentage of the total that the person holds.
 
 **Varying percentages**
 
-**(3)**  However, if the percentage varies between the different categories, the person's direct income interest is the highest.
+**(3)** However, if the percentage varies between the different categories, the person's direct income interest is the highest.
 
 **Measurement of available subscribed capital**
 
-**(4)**  When the direct income interest in the category in subsection (1)﻿(a) is calculated, the percentage is the total of the available subscribed capital per share calculated under the slice rule of the shares held as a percentage of the total available subscribed capital per share calculated under the slice rule of all shares in the company.
+**(4)** When the direct income interest in the category in subsection (1)﻿(a) is calculated, the percentage is the total of the available subscribed capital per share calculated under the slice rule of the shares held as a percentage of the total available subscribed capital per share calculated under the slice rule of all shares in the company.
 
 **Varying decision-making rights**
 
-**(5)**  When the direct income interest in the category in subsection (1)﻿(b) is calculated, if the percentage varies between the rights described in the different paragraphs of the definition of shareholder decision-making rights in section YA 1 (Definitions), the highest percentage is taken.
+**(5)** When the direct income interest in the category in subsection (1)﻿(b) is calculated, if the percentage varies between the rights described in the different paragraphs of the definition of shareholder decision-making rights in section YA 1 (Definitions), the highest percentage is taken.
 
 **Income distribution rights: assumptions**
 
-**(6)**  When the direct income interest in the category in subsection (1)﻿(c) is calculated, it is assumed that—
+**(6)** When the direct income interest in the category in subsection (1)﻿(c) is calculated, it is assumed that—
 
 - (a) the income is distributed on the last day of the accounting period; and
 

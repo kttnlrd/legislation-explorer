@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the payer) incurs an amount of expenditure (the incurred amount) in an income year relating to an amount of a payment to a person (the payee) that exists under the law of a country or territory outside New Zealand (the payee jurisdiction) and—
+**(1)** This section applies when a person (the payer) incurs an amount of expenditure (the incurred amount) in an income year relating to an amount of a payment to a person (the payee) that exists under the law of a country or territory outside New Zealand (the payee jurisdiction) and—
 
 - (a) the incurred amount would be allowed as a deduction for the payer in the absence of this section and sections FH 8 to FH 11; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction denied**
 
-**(2)**  The payer is denied a deduction for the incurred amount and, if the payment is made under a financial instrument denominated in the currency of a country or territory other than New Zealand, for amounts arising from a fluctuation in the value of the currency in relation to New Zealand currency.
+**(2)** The payer is denied a deduction for the incurred amount and, if the payment is made under a financial instrument denominated in the currency of a country or territory other than New Zealand, for amounts arising from a fluctuation in the value of the currency in relation to New Zealand currency.
 
 *Defined in this Act: amount, CFC, control group, deduction, financial instrument, income, New Zealand, pay, structured arrangement*
 

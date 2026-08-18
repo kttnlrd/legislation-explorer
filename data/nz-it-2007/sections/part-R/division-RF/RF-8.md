@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person makes a payment of non-resident passive income that consists of a dividend, except to the extent to which the payment is—
+**(1)** This section applies when a person makes a payment of non-resident passive income that consists of a dividend, except to the extent to which the payment is—
 
 - (a) an investment society dividend; or
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Calculation of amount of tax**
 
-**(2)**  The amount of tax is calculated using the formula— dividend payment × 0.3.
+**(2)** The amount of tax is calculated using the formula— dividend payment × 0.3.
 
 *Defined in this Act: amount of tax, dividend, foreign investment PIE, fully imputed, investment society dividend, non-resident passive income, notified foreign investor, pay, supplementary dividend*
 

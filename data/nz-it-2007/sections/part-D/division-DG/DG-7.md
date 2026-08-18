@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Expenditure on certain business and regulatory requirements**
 
-**(1)**  A person is allowed a deduction for expenditure or loss, including an amount of depreciation loss, to the extent to which the amount incurred—
+**(1)** A person is allowed a deduction for expenditure or loss, including an amount of depreciation loss, to the extent to which the amount incurred—
 
 - (a) relates solely to the use of an asset for deriving income of the person, other than exempt income; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Expenditure that must be apportioned**
 
-**(2)**  Despite subsection (1) and for the avoidance of doubt, all expenditure on repairs and maintenance incurred in relation to an asset must be treated as expenditure that is limited under section DG 8. However, this subsection does not apply to the cost of repairing damage described in section DG 4(4).
+**(2)** Despite subsection (1) and for the avoidance of doubt, all expenditure on repairs and maintenance incurred in relation to an asset must be treated as expenditure that is limited under section DG 8. However, this subsection does not apply to the cost of repairing damage described in section DG 4(4).
 
 *Defined in this Act: amount, asset, associated person, company, deduction, depreciation loss, exempt income, income*
 

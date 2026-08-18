@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When subsections (2), (3), and (4) apply**
 
-**(1)**  Subsections (2), (3), and (4) apply for an income year when, in relation to a debt funding special purpose vehicle and an asset referred to in section HR 9(1) or an arrangement, including any liability under that arrangement, described in section HR 9(3)﻿(d),—
+**(1)** Subsections (2), (3), and (4) apply for an income year when, in relation to a debt funding special purpose vehicle and an asset referred to in section HR 9(1) or an arrangement, including any liability under that arrangement, described in section HR 9(3)﻿(d),—
 
 - (a) an originator (the first originator) stops being an originator at a particular date in the income year (the breach date); and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Treatment of second originators**
 
-**(2)**  For the purposes of section HR 9, and for the special purpose vehicle and an originator for the income year and later income years, the second originator is treated as if—
+**(2)** For the purposes of section HR 9, and for the special purpose vehicle and an originator for the income year and later income years, the second originator is treated as if—
 
 - (a) they acquired and held the assets, were party to the arrangements, or incurred the liabilities of the first originator, each on the same basis as the first originator:
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Treatment of first originators for section HR 9**
 
-**(3)**  For the purposes of section HR 9, and for the special purpose vehicle and an originator for the income year and later income years, the first originator is treated from the originator transition date as if they were not an originator for the assets, arrangements, or liabilities referred to in subsection (2).
+**(3)** For the purposes of section HR 9, and for the special purpose vehicle and an originator for the income year and later income years, the first originator is treated from the originator transition date as if they were not an originator for the assets, arrangements, or liabilities referred to in subsection (2).
 
 **Treatment of first originators**
 
-**(4)**  For the purposes of section HR 9, the first originator is treated from the originator transition date as not—
+**(4)** For the purposes of section HR 9, the first originator is treated from the originator transition date as not—
 
 - (a) acquiring or holding the assets:
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Base price adjustments**
 
-**(5)**  In relation to a debt funding special purpose vehicle and an asset, arrangement, or liability referred to in section HR 9(1), for the income year that includes the breach date, the first originator is treated from the originator transition date as a party that is not required to calculate a base price adjustment, despite section EW 29 (When calculation of base price adjustment required).
+**(5)** In relation to a debt funding special purpose vehicle and an asset, arrangement, or liability referred to in section HR 9(1), for the income year that includes the breach date, the first originator is treated from the originator transition date as a party that is not required to calculate a base price adjustment, despite section EW 29 (When calculation of base price adjustment required).
 
 **Meaning of originator transition date**
 
@@ -72,15 +72,15 @@ compilation_date: 2026-06-06
 
 **Relationship with section HR 10**
 
-**(6)**  Section HR 10 overrides this section.
+**(6)** Section HR 10 overrides this section.
 
 **Group members**
 
-**(7)**  For the purposes of this section, a beneficiary or shareholder includes a member of the same wholly-owned group of companies as a beneficiary or shareholder.
+**(7)** For the purposes of this section, a beneficiary or shareholder includes a member of the same wholly-owned group of companies as a beneficiary or shareholder.
 
 **Relationship with subject matter**
 
-**(8)**  Subsections (2), (3), and (4) do not give rise to a supply of goods or services under the Goods and Services Tax Act 1985 or otherwise result in any deemed disposal or transfer of any assets, arrangements, or liabilities by the first originator for the purposes of any Inland Revenue Act.
+**(8)** Subsections (2), (3), and (4) do not give rise to a supply of goods or services under the Goods and Services Tax Act 1985 or otherwise result in any deemed disposal or transfer of any assets, arrangements, or liabilities by the first originator for the purposes of any Inland Revenue Act.
 
 *Defined in this Act: amount, debt funding special purpose vehicle, excepted financial arrangement, financial arrangement, income tax liability, income year, originator, originator transition date, shareholder, wholly-owned group of companies*
 

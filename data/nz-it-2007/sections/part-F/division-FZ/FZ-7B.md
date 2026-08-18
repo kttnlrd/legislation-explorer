@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections FE 16 (Total group assets) and FE 18 (Measurement of debts and assets of worldwide group) and a person if—
+**(1)** This section applies for the purposes of sections FE 16 (Total group assets) and FE 18 (Measurement of debts and assets of worldwide group) and a person if—
 
 - (a) an asset of the person's New Zealand group is damaged as a result of a North Island flooding event; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Optional treatment of insurance**
 
-**(2)**  The person may choose to include an amount of the insurance, corresponding to the amount of the impairment or the derecognised value of the asset, in the value of the total group assets of the person's New Zealand group during the period—
+**(2)** The person may choose to include an amount of the insurance, corresponding to the amount of the impairment or the derecognised value of the asset, in the value of the total group assets of the person's New Zealand group during the period—
 
 - (a) beginning with the impairment or derecognition of the asset; and
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Corresponding treatment for worldwide group**
 
-**(3)**  If a person includes an amount under subsection (2) in the value of the total group assets of the person's New Zealand group for a period, the person must include the amount in the value of the total group assets of the person's worldwide group for the period.
+**(3)** If a person includes an amount under subsection (2) in the value of the total group assets of the person's New Zealand group for a period, the person must include the amount in the value of the total group assets of the person's worldwide group for the period.
 
 **Notice to Commissioner**
 
-**(4)**  A person choosing to apply subsection (2) for an income year must give notice to the Commissioner of the following:
+**(4)** A person choosing to apply subsection (2) for an income year must give notice to the Commissioner of the following:
 
 - (a) that the person has applied this section for the income year; and
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Form and timing of notice**
 
-**(5)**  The information required by subsection (4) must be given—
+**(5)** The information required by subsection (4) must be given—
 
 - (a) in the form and by the means prescribed by the Commissioner; and
 

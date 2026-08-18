@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  For the income year in which an asset becomes a new investment asset, a person is allowed a deduction for the amount calculated using the following formula: 0.2 × (expenditure − contribution).
+**(1)** For the income year in which an asset becomes a new investment asset, a person is allowed a deduction for the amount calculated using the following formula: 0.2 × (expenditure − contribution).
 
 **Definition of items in formula**
 
-**(2)**  In the formula,—
+**(2)** In the formula,—
 
 - (a) expenditure is the amount of expenditure the person incurs in acquiring the asset, excluding expenditure to which this subpart does not apply (see section DI 2(2)):
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Link with subject matter**
 
-**(3)**  The person is allowed the deduction under this section despite section DF 1(2).
+**(3)** The person is allowed the deduction under this section despite section DF 1(2).
 
 **Link with subpart DA**
 
-**(4)**  Subsection (1) overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(4)** Subsection (1) overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: amount, capital contribution, capital limitation, deduction, general limitation, general permission, income year, new investment asset*
 

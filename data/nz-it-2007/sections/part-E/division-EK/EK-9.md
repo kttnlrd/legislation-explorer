@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person's payment under section EK 2 for an income year is—
+**(1)** This section applies when a person's payment under section EK 2 for an income year is—
 
 - (a) more than the person's maximum payment for the income year:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Refund**
 
-**(2)**  As soon as practicable after the date on which the payment is received, the Commissioner must refund to the person—
+**(2)** As soon as practicable after the date on which the payment is received, the Commissioner must refund to the person—
 
 - (a) the excess, if the payment is more than the person's maximum payment for the income year:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **No interest payable by Commissioner**
 
-**(3)**  No interest is payable by the Commissioner under section EK 6 on the amount of the payment.
+**(3)** No interest is payable by the Commissioner under section EK 6 on the amount of the payment.
 
 *Defined in this Act: Commissioner, income year, interest, maximum payment, pay*
 

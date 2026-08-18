@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Amount paid**
 
-**(1)**  An amount of non-resident financial arrangement income is treated as paid on the last day of the second month following the end of the borrower's income year.
+**(1)** An amount of non-resident financial arrangement income is treated as paid on the last day of the second month following the end of the borrower's income year.
 
 **When debt matures, ends, or no longer qualifies**
 
-**(2)**  Despite subsection (1), if a related-party debt matures, ends, or no longer qualifies as a related-party debt during the borrower's income year, the non-resident financial arrangement income is treated as paid on the last day of the second month following the relevant event.
+**(2)** Despite subsection (1), if a related-party debt matures, ends, or no longer qualifies as a related-party debt during the borrower's income year, the non-resident financial arrangement income is treated as paid on the last day of the second month following the relevant event.
 
 *Defined in this Act: amount, income year, non-resident financial arrangement income, pay, related-party debt*
 

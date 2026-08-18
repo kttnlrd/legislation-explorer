@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for film production expenditure if—
+**(1)** A person is allowed a deduction for film production expenditure if—
 
 - (a) the film is completed; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Inclusions**
 
-**(2)**  For the purposes of subsection (1),—
+**(2)** For the purposes of subsection (1),—
 
 - (a) if a person (person A) reimburses another person (person B) for film production expenditure that person B incurs, and does it before the film is completed, the reimbursement is treated as film production expenditure incurred by person A; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(3)**  This section does not apply to film production expenditure if the film—
+**(3)** This section does not apply to film production expenditure if the film—
 
 - (a) is produced mainly for broadcast in New Zealand by a person who operates a television station, a television network, or a cable television system:
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(4)**  The deduction is allocated under—
+**(4)** The deduction is allocated under—
 
 - (a) section EJ 4 or EJ 5 (which relate to expenditure incurred in acquiring film rights) if the film is one for which a large budget film grant is made; or
 
@@ -52,11 +52,11 @@ compilation_date: 2026-06-06
 
 **No other deduction**
 
-**(5)**  No other deduction for film production expenditure is allowed under a provision of this Act other than section DS 2B.
+**(5)** No other deduction for film production expenditure is allowed under a provision of this Act other than section DS 2B.
 
 **Avoidance arrangements**
 
-**(6)**  The amount of the deduction may be reduced or the timing of the deduction may be delayed under—
+**(6)** The amount of the deduction may be reduced or the timing of the deduction may be delayed under—
 
 - (a) section GB 17 (Excessive amounts for film rights or production expenditure):
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(7)**  The link between this section and subpart DA (General rules) is as follows:
+**(7)** The link between this section and subpart DA (General rules) is as follows:
 
 - (a) it overrides the capital limitation; and
 

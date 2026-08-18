@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  This subpart sets out the circumstances in which a person is treated for the purposes of this Act and the Tax Administration Act 1994 as an agent of another person in relation to the tax obligations of that other person.
+**(1)** This subpart sets out the circumstances in which a person is treated for the purposes of this Act and the Tax Administration Act 1994 as an agent of another person in relation to the tax obligations of that other person.
 
 **Provisions relating to agents**
 
-**(2)**  The following provisions in other subparts of this Act set up certain agency relationships for income tax purposes, or provide certain tax consequences and requirements of an agency relationship:
+**(2)** The following provisions in other subparts of this Act set up certain agency relationships for income tax purposes, or provide certain tax consequences and requirements of an agency relationship:
 
 - (a) section EY 49(5) (Non-resident life insurer becoming resident):
 

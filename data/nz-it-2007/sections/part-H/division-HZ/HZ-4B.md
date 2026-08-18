@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a QCP transitional process is carried out for a qualifying company or companies for the first or second income year that starts on or after 1 April 2011, whichever is relevant (the transitional income year).
+**(1)** This section applies when a QCP transitional process is carried out for a qualifying company or companies for the first or second income year that starts on or after 1 April 2011, whichever is relevant (the transitional income year).
 
 **QCP transitional process: retrospective rule**
 
-**(2)**  From the first day of the transitional income year to the first day of existence for the partnership that effectively replaces the qualifying company or companies under a QCP transitional process, the partnership is treated as existing and having the assets and liabilities of the qualifying company or companies, and associated rights and obligations, for that period. On and after the first day of the transitional year, the existence of the qualifying company or companies is ignored for the purposes of the Inland Revenue Acts except to the extent necessary to give effect to this section.
+**(2)** From the first day of the transitional income year to the first day of existence for the partnership that effectively replaces the qualifying company or companies under a QCP transitional process, the partnership is treated as existing and having the assets and liabilities of the qualifying company or companies, and associated rights and obligations, for that period. On and after the first day of the transitional year, the existence of the qualifying company or companies is ignored for the purposes of the Inland Revenue Acts except to the extent necessary to give effect to this section.
 
 **Taxation continuity**
 
-**(3)**  The moving to the partnership of the assets, liabilities, and associated rights and obligations, under a QCP transitional process is treated for the purposes of the Inland Revenue Acts as a unique form of transference for such assets, liabilities, rights, and obligations, with the following effects:
+**(3)** The moving to the partnership of the assets, liabilities, and associated rights and obligations, under a QCP transitional process is treated for the purposes of the Inland Revenue Acts as a unique form of transference for such assets, liabilities, rights, and obligations, with the following effects:
 
 - (a) the moving to the partnership of the assets, liabilities, and associated legal rights and obligations, is treated as not being a transfer of such assets, liabilities, rights, and obligations:
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Transparency**
 
-**(4)**  Subsections (2) and (3) are applied immediately before section HG 2 (Partnerships are transparent) applies.
+**(4)** Subsections (2) and (3) are applied immediately before section HG 2 (Partnerships are transparent) applies.
 
 **Initial basis**
 
-**(5)**  For the purposes of applying sections HG 11 and HG 12 (which relate to limited partnership deduction rules) to the partners of a limited partnership described in subsection (2) for the transitional income year and later years, all of the partners must choose 1 of the 2 following methods for calculating their partner's basis under section HG 11(3):
+**(5)** For the purposes of applying sections HG 11 and HG 12 (which relate to limited partnership deduction rules) to the partners of a limited partnership described in subsection (2) for the transitional income year and later years, all of the partners must choose 1 of the 2 following methods for calculating their partner's basis under section HG 11(3):
 
 - (a) for calculating amounts under section HG 11(5)﻿(a) for shares that were held at the end of the income year (the last year) before the transitional income year, they may choose to use the market value or the accounting book value of those shares as at the end of the last year. Calculations under section HG 11(7)﻿(b) and (8)﻿(b) are changed to account for the valuation under this paragraph; or
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Initial basis not less than zero**
 
-**(6)**  If the application of sections HG 11 and HG 12, as modified by this section, calculates a partner's basis as less than zero, then the partner's basis is treated as being zero.
+**(6)** If the application of sections HG 11 and HG 12, as modified by this section, calculates a partner's basis as less than zero, then the partner's basis is treated as being zero.
 
 **Meaning of QCP transitional process**
 
-**(7)**  QCP transitional process means a process, for which all outcomes are achieved in an income year (the transitional income year), by which a company or companies that are all qualifying companies at the end of the income year before the transitional income year transform into a partnership. The process must have the following outcomes:
+**(7)** QCP transitional process means a process, for which all outcomes are achieved in an income year (the transitional income year), by which a company or companies that are all qualifying companies at the end of the income year before the transitional income year transform into a partnership. The process must have the following outcomes:
 
 - (a) the Commissioner receives a notice from the qualifying company or companies before the day that is 6 months after the start of the transitional income year, stating an intention to revoke the company's or companies' qualifying company status and to complete the QCP transitional process relating to the partnership for the transitional income year; and
 

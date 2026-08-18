@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a company pays a dividend in the transitional period; and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **When ratio treated as same as ratio for benchmark dividend**
 
-**(2)**  If, in the cases set out in subsection (3), the imputation ratio of the later dividend is less than that of the relevant benchmark dividend, the ratio is treated as the same as that of the relevant benchmark dividend.
+**(2)** If, in the cases set out in subsection (3), the imputation ratio of the later dividend is less than that of the relevant benchmark dividend, the ratio is treated as the same as that of the relevant benchmark dividend.
 
 **Cases**
 
-**(3)**  The cases referred to in subsection (2) are the following:
+**(3)** The cases referred to in subsection (2) are the following:
 
 - (a) in the case of a benchmark dividend described in subsection (1)﻿(c)﻿(i), section OZ 8 does not apply to the later dividend through the lack of a relevant credit balance described in section OZ 8(1)﻿(b):
 

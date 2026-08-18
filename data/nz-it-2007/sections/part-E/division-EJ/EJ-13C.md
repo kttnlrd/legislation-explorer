@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) the petroleum miner has petroleum development expenditure for a well that, in an income year—
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Allocation**
 
-**(2)**  The part of the deduction described in subsection (1) is allocated to the income year.
+**(2)** The part of the deduction described in subsection (1) is allocated to the income year.
 
 *Defined in this Act: amount, deduction, income year, petroleum development expenditure*
 

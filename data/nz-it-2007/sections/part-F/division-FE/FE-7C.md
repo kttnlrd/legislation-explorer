@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies, for a person and an income year, when the person—
+**(1)** This section applies, for a person and an income year, when the person—
 
 - (a) meets the requirements of section FE 2(1)﻿(b), (c), or (cc); and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Non-application of subpart**
 
-**(2)**  Subpart FE does not apply to an eligible infrastructure entity except to the extent necessary to give effect to this section.
+**(2)** Subpart FE does not apply to an eligible infrastructure entity except to the extent necessary to give effect to this section.
 
 **Amounts relating to eligible infrastructure entity excluded**
 
-**(3)**  For the purposes of applying this subpart to any other person, the following are excluded:
+**(3)** For the purposes of applying this subpart to any other person, the following are excluded:
 
 - (a) the debt, interest, assets, and non-debt liabilities of the eligible infrastructure entity; and
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(4)**  If the eligible infrastructure entity incurs interest on debt that is not qualifying infrastructure debt or issues fixed-rate foreign equity or fixed-rate shares, the person is treated as deriving an amount of income under section CH 10C (Interest apportionment: non-qualifying infrastructure debt) calculated using the following formula: non-QID interest + FRD.
+**(4)** If the eligible infrastructure entity incurs interest on debt that is not qualifying infrastructure debt or issues fixed-rate foreign equity or fixed-rate shares, the person is treated as deriving an amount of income under section CH 10C (Interest apportionment: non-qualifying infrastructure debt) calculated using the following formula: non-QID interest + FRD.
 
 **Items in formula**
 
-**(5)**  In the formula in subsection (4),—
+**(5)** In the formula in subsection (4),—
 
 - (a) non-QID interest is the total amount of interest incurred by the eligible infrastructure entity for the income year on debt that is not qualifying infrastructure debt:
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Qualifying infrastructure group**
 
-**(6)**  A qualifying infrastructure group is treated as a single person for the purposes of this section if, for the income year, the group, treated as if it were a single entity and disregarding intra-group balances, meets the definition of eligible infrastructure entity, except for paragraph (d).
+**(6)** A qualifying infrastructure group is treated as a single person for the purposes of this section if, for the income year, the group, treated as if it were a single entity and disregarding intra-group balances, meets the definition of eligible infrastructure entity, except for paragraph (d).
 
 **Definition of eligible infrastructure entity**
 
-**(7)**  In this section and section FE 2, eligible infrastructure entity means a person—
+**(7)** In this section and section FE 2, eligible infrastructure entity means a person—
 
 - (a) that carries on a business or project consisting of—
 
@@ -94,7 +94,7 @@ compilation_date: 2026-06-06
 
 **Definition of qualifying infrastructure asset**
 
-**(8)**  In this section, qualifying infrastructure asset—
+**(8)** In this section, qualifying infrastructure asset—
 
 - (a) means a tangible asset located in New Zealand that provides, or is integral to providing, essential services to the public or a class of users on a shared-use basis that is similar in nature to the following types of assets, and includes the following types of assets:
 
@@ -126,7 +126,7 @@ compilation_date: 2026-06-06
 
 **Definition of qualifying infrastructure debt**
 
-**(9)**  In this section, qualifying infrastructure debt means, for the eligible infrastructure entity, debt for which, for the income year, all the following are satisfied:
+**(9)** In this section, qualifying infrastructure debt means, for the eligible infrastructure entity, debt for which, for the income year, all the following are satisfied:
 
 - (a) the debt is applied to the eligible infrastructure entity's business or project; and
 
@@ -136,7 +136,7 @@ compilation_date: 2026-06-06
 
 **Definition of third-party debt**
 
-**(10)**  In this section, third-party debt—
+**(10)** In this section, third-party debt—
 
 - (a) means debt where the funds are provided by a person who is not—
 
@@ -164,7 +164,7 @@ compilation_date: 2026-06-06
 
 **Definition of limited-recourse debt**
 
-**(11)**  In this section, limited-recourse debt means debt that, in the event of default, the lender's recourse is limited to—
+**(11)** In this section, limited-recourse debt means debt that, in the event of default, the lender's recourse is limited to—
 
 - (a) the assets and income of the eligible infrastructure entity, including—
 
@@ -188,11 +188,11 @@ compilation_date: 2026-06-06
 
 **Definition of non-debt liabilities**
 
-**(12)**  In this section, non-debt liabilities means the portion of the total group non-debt liabilities calculated under section FE 16B(1) or (2), as applicable, to the extent to which they relate to the eligible infrastructure entity.
+**(12)** In this section, non-debt liabilities means the portion of the total group non-debt liabilities calculated under section FE 16B(1) or (2), as applicable, to the extent to which they relate to the eligible infrastructure entity.
 
 **Definition of qualifying infrastructure group**
 
-**(13)**  In this section, qualifying infrastructure group means—
+**(13)** In this section, qualifying infrastructure group means—
 
 - (a) a wholly-owned group of companies:
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in relation to a person if an arrangement has a purpose or effect of defeating the intent and application of—
+**(1)** This section applies in relation to a person if an arrangement has a purpose or effect of defeating the intent and application of—
 
 - (a) section GC 7 (Excess amount payable by person):
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Possible examples**
 
-**(2)**  Without limiting the generality of subsection (1), the following collateral arrangements may result in that purpose or effect:
+**(2)** Without limiting the generality of subsection (1), the following collateral arrangements may result in that purpose or effect:
 
 - (a) a collateral arrangement with an associated person who is a non-resident:
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Application of sections GC 7 to GC 10**
 
-**(3)**  Section GC 7, GC 8, GC 9, or GC 10, as applicable, applies to require the substitution of an arm's length amount of consideration, despite section GC 6(2) and (3) (Purpose and application of rules and nature of arrangements).
+**(3)** Section GC 7, GC 8, GC 9, or GC 10, as applicable, applies to require the substitution of an arm's length amount of consideration, despite section GC 6(2) and (3) (Purpose and application of rules and nature of arrangements).
 
 *Defined in this Act: arrangement, associated person, non-resident*
 

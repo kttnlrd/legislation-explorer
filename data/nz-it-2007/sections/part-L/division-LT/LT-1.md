@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an income year if a petroleum miner or a farm-in party—
+**(1)** This section applies for an income year if a petroleum miner or a farm-in party—
 
 - (a) has—
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Tax credits**
 
-**(2)**  The petroleum miner or farm-in party has a tax credit for the tax year corresponding to the income year less than or equal to the amount (the current loss credit) calculated using the formula— amount of loss × tax rate.
+**(2)** The petroleum miner or farm-in party has a tax credit for the tax year corresponding to the income year less than or equal to the amount (the current loss credit) calculated using the formula— amount of loss × tax rate.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) amount of loss is the amount of the net loss described in subsection (1)﻿(c) to the extent to which the amount does not exceed the total of the amounts for the deductions referred to in subsection (1)﻿(a)﻿(i) to (iii):
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Maximum amounts**
 
-**(4)**  The amount of the credit must not be more than the lesser of—
+**(4)** The amount of the credit must not be more than the lesser of—
 
 - (a) the amount of total tax given by subsection (4B); and
 
@@ -86,11 +86,11 @@ compilation_date: 2026-06-06
 
 **Consolidated groups**
 
-**(5)**  For the purposes of subsections (4B) and (4D), the amount of income tax paid by the consolidated group includes income tax paid on net income derived for tax years before the petroleum miner or farm-in party joined the group.
+**(5)** For the purposes of subsections (4B) and (4D), the amount of income tax paid by the consolidated group includes income tax paid on net income derived for tax years before the petroleum miner or farm-in party joined the group.
 
 **Treatment of trustees**
 
-**(6)**  For the purposes of subsections (4B) and (4D), if the petroleum miner or farm-in party is a trustee of a trust, the amount of tax paid for each earlier tax year is determined—
+**(6)** For the purposes of subsections (4B) and (4D), if the petroleum miner or farm-in party is a trustee of a trust, the amount of tax paid for each earlier tax year is determined—
 
 - (a) first, by reference to the amount of income tax paid under the obligations of a trustee under section HC 32 (Liability of trustee as agent); and
 
@@ -100,19 +100,19 @@ compilation_date: 2026-06-06
 
 **Calculations on year-by-year basis**
 
-**(7)**  In subsections (4B), (4D), and (6)﻿(c) a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the current loss credit.
+**(7)** In subsections (4B), (4D), and (6)﻿(c) a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the current loss credit.
 
 **Treatment of tax losses**
 
-**(8)**  To the extent to which the petroleum miner or farm-in party has a tax credit under this section, the amount of the net loss giving rise to the credit does not form part of a tax loss component for the petroleum miner or farm-in party.
+**(8)** To the extent to which the petroleum miner or farm-in party has a tax credit under this section, the amount of the net loss giving rise to the credit does not form part of a tax loss component for the petroleum miner or farm-in party.
 
 **Nature of tax credits**
 
-**(9)**  The tax credit is available for use under section LA 6(2) (Remaining refundable credits: PAYE, RWT, and certain other items).
+**(9)** The tax credit is available for use under section LA 6(2) (Remaining refundable credits: PAYE, RWT, and certain other items).
 
 **Relationship with other sections**
 
-**(10)**  Subsection (8) overrides section IA 2 (Tax losses).
+**(10)** Subsection (8) overrides section IA 2 (Tax losses).
 
 *Defined in this Act: amount, amount of tax, Commissioner, consolidated group, decommissioning, deduction, farm-in party, income, income tax, income year, interest, net income, net loss, pay, permit area, petroleum miner, petroleum mining operations, petroleum permit, notify, return of income, tax credit, tax loss, tax loss component, tax year, trustee, trustee income*
 

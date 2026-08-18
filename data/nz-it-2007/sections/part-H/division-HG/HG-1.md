@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when 2 or more people derive income jointly or have deductions jointly, and they are not partners in the same partnership.
+**(1)** This section applies when 2 or more people derive income jointly or have deductions jointly, and they are not partners in the same partnership.
 
 **Separate shares**
 
-**(2)**  Each person must calculate their net income for a tax year taking into account their share of the joint income and deductions.
+**(2)** Each person must calculate their net income for a tax year taking into account their share of the joint income and deductions.
 
 **Exclusion**
 
-**(3)**  This section does not apply to the income derived by and the deductions of an airport operator from activities that are activities undertaken as an airport operator.
+**(3)** This section does not apply to the income derived by and the deductions of an airport operator from activities that are activities undertaken as an airport operator.
 
 *Defined in this Act: airport operator, deduction, income, net income, partner, partnership, tax year*
 

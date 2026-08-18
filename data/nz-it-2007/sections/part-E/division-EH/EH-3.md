@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of farmer, fisher, and forester for main income equalisation scheme**
 
-**(1)**  The main income equalisation scheme applies to—
+**(1)** The main income equalisation scheme applies to—
 
 - (a) a farmer, which means a person carrying on a farming or agricultural business on land in New Zealand; or
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Meaning of person for main income equalisation scheme**
 
-**(2)**  In the main income equalisation scheme, person means a farmer, fisher, or forester.
+**(2)** In the main income equalisation scheme, person means a farmer, fisher, or forester.
 
 *Defined in this Act: business, company, farmer, fisher, fishing business, forester, income from forestry, main income equalisation scheme, Maori authority, New Zealand, person, public authority*
 

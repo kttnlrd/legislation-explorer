@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections RC 5(5B), RC 7B, RC 9(4B), RC 10B, and RM 6B (Refunds for overpaid AIM method instalments) when—
+**(1)** This section applies for the purposes of sections RC 5(5B), RC 7B, RC 9(4B), RC 10B, and RM 6B (Refunds for overpaid AIM method instalments) when—
 
 - (a) a company uses the AIM method to calculate and pay a provisional tax liability; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Overpaid amounts credited to shareholders**
 
-**(2)**  The company may ask the Commissioner to credit the overpaid amount to the account of a shareholder-employee of the company, treating the amount as—
+**(2)** The company may ask the Commissioner to credit the overpaid amount to the account of a shareholder-employee of the company, treating the amount as—
 
 - (a) a payment of tax for the shareholder-employee:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Maximum amount**
 
-**(3)**  The amount that may be credited under subsection (2) must be no more than the least of the following:
+**(3)** The amount that may be credited under subsection (2) must be no more than the least of the following:
 
 - (a) an amount chosen by the company; and
 

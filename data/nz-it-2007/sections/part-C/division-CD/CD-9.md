@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Interest absolutely vested in unit holder**
 
-**(1)**  If a beneficial interest in money or property of a unit trust that is a foreign company vests absolutely in a unit holder, the money or property is a dividend for the unit holder.
+**(1)** If a beneficial interest in money or property of a unit trust that is a foreign company vests absolutely in a unit holder, the money or property is a dividend for the unit holder.
 
 **Amount of dividend**
 
-**(2)**  The amount of the dividend is the value of the money or property.
+**(2)** The amount of the dividend is the value of the money or property.
 
 *Defined in this Act: dividend, foreign company, unit holder, unit trust*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a New Zealand resident derives a benefit (a foreign superannuation withdrawal) that is not a pension or annuity and arises from an interest in a foreign superannuation scheme (the scheme) that—
+**(1)** This section applies when a New Zealand resident derives a benefit (a foreign superannuation withdrawal) that is not a pension or annuity and arises from an interest in a foreign superannuation scheme (the scheme) that—
 
 - (a) is not a FIF superannuation interest and is acquired—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The foreign superannuation withdrawal is income of the person if the benefit is in the form of—
+**(2)** The foreign superannuation withdrawal is income of the person if the benefit is in the form of—
 
 - (a) an amount derived by the person as a member or beneficiary of the scheme:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Exception**
 
-**(3)**  A foreign superannuation withdrawal is not income of the person under subsection (2)﻿(d) if—
+**(3)** A foreign superannuation withdrawal is not income of the person under subsection (2)﻿(d) if—
 
 - (a) the benefit is an interest of the person in the scheme that is withdrawn on the death of the person or under a relationship agreement arising from an event (the relationship cessation) that occurs when,—
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Amounts within other provisions**
 
-**(4)**  A foreign superannuation withdrawal derived by a resident is subject to—
+**(4)** A foreign superannuation withdrawal derived by a resident is subject to—
 
 - (a) section CW 28B (Foreign superannuation withdrawal in initial period of residency), if the person—
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **Eligibility for exemption period**
 
-**(5)**  A person has an exemption period referred to in subsection (6) for an interest in the scheme, other than a low-value FIF superannuation interest, if the person—
+**(5)** A person has an exemption period referred to in subsection (6) for an interest in the scheme, other than a low-value FIF superannuation interest, if the person—
 
 - (a) does not have, before acquiring the interest, an exemption period for an interest in a foreign superannuation scheme; and
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Exemption period**
 
-**(6)**  The period (the exemption period) in which a foreign superannuation withdrawal may be exempt income of the person under section CW 28B is the period from the exemption commencement to the earlier of—
+**(6)** The period (the exemption period) in which a foreign superannuation withdrawal may be exempt income of the person under section CW 28B is the period from the exemption commencement to the earlier of—
 
 - (a) the end of the period of 48 months beginning after the month in which the person meets the requirements of section YD 1(2) or (3) ignoring the rule in section YD 1(4):
 
@@ -88,11 +88,11 @@ compilation_date: 2026-06-06
 
 **Assessable withdrawal amount**
 
-**(7)**  The assessable withdrawal amount of the person, being the amount of a foreign superannuation withdrawal that is treated as not being exempt income, depends on the total period (the assessable period) referred to in subsection (8) for the person and the interest in the scheme.
+**(7)** The assessable withdrawal amount of the person, being the amount of a foreign superannuation withdrawal that is treated as not being exempt income, depends on the total period (the assessable period) referred to in subsection (8) for the person and the interest in the scheme.
 
 **Assessable period**
 
-**(8)**  The assessable period for the person and a foreign superannuation withdrawal arising from an interest in the foreign superannuation scheme—
+**(8)** The assessable period for the person and a foreign superannuation withdrawal arising from an interest in the foreign superannuation scheme—
 
 - (a) if the person is a non-resident when they acquire the interest, begins on the later of—
 
@@ -110,7 +110,7 @@ compilation_date: 2026-06-06
 
 **Methods for determining assessable withdrawal amount**
 
-**(9)**  The assessable withdrawal amount for a foreign superannuation withdrawal derived by the person is calculated for—
+**(9)** The assessable withdrawal amount for a foreign superannuation withdrawal derived by the person is calculated for—
 
 - (a) the schedule method under subsection (10), if paragraph (b) does not apply; or
 
@@ -132,11 +132,11 @@ compilation_date: 2026-06-06
 
 **Schedule method: assessable withdrawal amount**
 
-**(10)**  The assessable withdrawal amount under the schedule method is calculated using the formula— (super withdrawal − contributions left) × schedule year fraction.
+**(10)** The assessable withdrawal amount under the schedule method is calculated using the formula— (super withdrawal − contributions left) × schedule year fraction.
 
 **Definition of items in formula in subsection (10)**
 
-**(11)**  In the formula in subsection (10),—
+**(11)** In the formula in subsection (10),—
 
 - (a) super withdrawal is the amount of the foreign superannuation withdrawal:
 
@@ -154,11 +154,11 @@ compilation_date: 2026-06-06
 
 **Formula method: distributed gain**
 
-**(12)**  Under the formula method, the part (the distributed gain) of a foreign superannuation withdrawal that is treated as consisting of gains made by the scheme during the assessable period is calculated using the formula— (super withdrawal × calculated gains fraction) − other gains.
+**(12)** Under the formula method, the part (the distributed gain) of a foreign superannuation withdrawal that is treated as consisting of gains made by the scheme during the assessable period is calculated using the formula— (super withdrawal × calculated gains fraction) − other gains.
 
 **Definition of items in formula in subsection (12)**
 
-**(13)**  In the formula in subsection (12),—
+**(13)** In the formula in subsection (12),—
 
 - (a) super withdrawal is the amount of the foreign superannuation withdrawal:
 
@@ -166,11 +166,11 @@ compilation_date: 2026-06-06
 
 **Formula method: calculated gains fraction**
 
-**(14)**  In the formula in subsection (12), calculated gains fraction is the greater of zero and the amount calculated using the formula— (predistribution + withdrawals − value − contributions) ÷ predistribution.
+**(14)** In the formula in subsection (12), calculated gains fraction is the greater of zero and the amount calculated using the formula— (predistribution + withdrawals − value − contributions) ÷ predistribution.
 
 **Definition of items in formula in subsection (14)**
 
-**(15)**  In the formula in subsection (14),—
+**(15)** In the formula in subsection (14),—
 
 - (a) predistribution is the value of the interest in the scheme immediately before the distribution time:
 
@@ -182,15 +182,15 @@ compilation_date: 2026-06-06
 
 **Formula method: assessable withdrawal amount**
 
-**(16)**  The assessable withdrawal amount under the formula method is the amount calculated using the formula— gain × (grow rate − 1) × tax rate × (assessable years − 1) + gain.
+**(16)** The assessable withdrawal amount under the formula method is the amount calculated using the formula— gain × (grow rate − 1) × tax rate × (assessable years − 1) + gain.
 
 **Formula method: grow rate**
 
-**(17)**  In the formula in subsection (16), grow rate is the amount calculated using the formula— (accrued total ÷ value) (1 ÷ assessable years).
+**(17)** In the formula in subsection (16), grow rate is the amount calculated using the formula— (accrued total ÷ value) (1 ÷ assessable years).
 
 **Definition of other items in formulas in subsections (16) and (17)**
 
-**(18)**  In the formulas in subsections (16) and (17),—
+**(18)** In the formulas in subsections (16) and (17),—
 
 - (a) gain is the amount of the distributed gain referred to in subsection (12) for the foreign superannuation withdrawal:
 
@@ -204,7 +204,7 @@ compilation_date: 2026-06-06
 
 **Recognised contributions**
 
-**(19)**  The value of a payment to the scheme is taken into account in the formulas in subsections (10), (14), and (17) as a contribution (a recognised contribution) if the payment—
+**(19)** The value of a payment to the scheme is taken into account in the formulas in subsections (10), (14), and (17) as a contribution (a recognised contribution) if the payment—
 
 - (a) is made when the person is a New Zealand resident who is treated as a New Zealand resident under all applicable double tax agreements; and
 
@@ -216,11 +216,11 @@ compilation_date: 2026-06-06
 
 **Interests in superannuation scheme**
 
-**(20)**  For the purposes of this section, if a person acquires, under an arrangement with a foreign superannuation scheme that provides for contributions to the superannuation scheme by or for the person, rights (benefit rights) in the foreign superannuation scheme to benefit as a member or beneficiary from distributions by the superannuation scheme, the person holds an interest in the foreign superannuation scheme under the arrangement for the period beginning when the person acquires benefit rights under the arrangement and ending when the arrangement ends.
+**(20)** For the purposes of this section, if a person acquires, under an arrangement with a foreign superannuation scheme that provides for contributions to the superannuation scheme by or for the person, rights (benefit rights) in the foreign superannuation scheme to benefit as a member or beneficiary from distributions by the superannuation scheme, the person holds an interest in the foreign superannuation scheme under the arrangement for the period beginning when the person acquires benefit rights under the arrangement and ending when the arrangement ends.
 
 **When person acquires rights**
 
-**(21)**  In determining when a person who acquires rights in a foreign superannuation scheme acquires an interest in the foreign superannuation scheme,—
+**(21)** In determining when a person who acquires rights in a foreign superannuation scheme acquires an interest in the foreign superannuation scheme,—
 
 - (a) if none of paragraphs (b) to (d) apply, the person is treated as acquiring the rights when the first contribution is made to the superannuation scheme, in relation to the rights, by or for the person; or
 
@@ -242,7 +242,7 @@ compilation_date: 2026-06-06
 
 **Relationship with rest of Act**
 
-**(22)**  If the assessable period for a person and an interest begins before 1 April 2014, this section overrides any provision of this Act that would otherwise quantify and allocate income of the person, from the part of the interest unaffected by withdrawals derived before 1 April 2014,—
+**(22)** If the assessable period for a person and an interest begins before 1 April 2014, this section overrides any provision of this Act that would otherwise quantify and allocate income of the person, from the part of the interest unaffected by withdrawals derived before 1 April 2014,—
 
 - (a) for the period of ownership before 1 April 2014; and
 

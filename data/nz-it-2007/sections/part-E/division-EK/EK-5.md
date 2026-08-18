@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Notice and details required**
 
-**(1)**  A person making a payment to an environmental restoration account must provide the Commissioner with a notice, in a form prescribed by the Commissioner, giving—
+**(1)** A person making a payment to an environmental restoration account must provide the Commissioner with a notice, in a form prescribed by the Commissioner, giving—
 
 - (a) the name of the person; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Time for providing information**
 
-**(2)**  The person must provide the information required by subsection (1) within 2 working days from the day of the payment.
+**(2)** The person must provide the information required by subsection (1) within 2 working days from the day of the payment.
 
 *Defined in this Act: Commissioner, environmental restoration account, income year, maximum payment, notice, pay, working day*
 

@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  This subpart applies when, in deriving income, a person incurs expenditure on entertainment that provides both a private and a business benefit.
+**(1)** This subpart applies when, in deriving income, a person incurs expenditure on entertainment that provides both a private and a business benefit.
 
 **No deduction (with exception)**
 
-**(2)**  The person is denied a deduction for expenditure that they incur on the forms of entertainment set out in section DD 2, except for 50% of the amount that they would have been allowed in the absence of this subsection.
+**(2)** The person is denied a deduction for expenditure that they incur on the forms of entertainment set out in section DD 2, except for 50% of the amount that they would have been allowed in the absence of this subsection.
 
 **Meaning of limitation rule**
 
-**(3)**  Limitation rule means the rule described in subsection (2).
+**(3)** Limitation rule means the rule described in subsection (2).
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the general permission.
+**(4)** This section overrides the general permission.
 
 *Defined in this Act: amount, business, deduction, general permission, income, limitation rule*
 

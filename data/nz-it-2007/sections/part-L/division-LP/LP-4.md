@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section LA 5(3) (Treatment of remaining credits) when a company has an amount of a tax credit that must be carried forward under section LP 3(4).
+**(1)** This section applies for the purposes of section LA 5(3) (Treatment of remaining credits) when a company has an amount of a tax credit that must be carried forward under section LP 3(4).
 
 **Minimum interests required**
 
-**(2)**  The amount is available for use under section LP 3(4) if a group of persons exists that has, for the continuity period,—
+**(2)** The amount is available for use under section LP 3(4) if a group of persons exists that has, for the continuity period,—
 
 - (a) minimum voting interests in the company that add up to 49% or more; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(3)**  In this section,— continuity period means the period that starts on the first day of the income year that corresponds to the tax year in which the tax credit first arises and ends on the last day of the income year that corresponds to the tax year to which the amount of the credit has been carried forward minimum market value interest means the lowest market value interest that a person has in the company for the continuity period minimum voting interest means the lowest voting interest that a person has in the company for the continuity period.
+**(3)** In this section,— continuity period means the period that starts on the first day of the income year that corresponds to the tax year in which the tax credit first arises and ends on the last day of the income year that corresponds to the tax year to which the amount of the credit has been carried forward minimum market value interest means the lowest market value interest that a person has in the company for the continuity period minimum voting interest means the lowest voting interest that a person has in the company for the continuity period.
 
 *Defined in this Act: amount, company, continuity period, corresponding income year, group of persons, income year, market value circumstance, market value interest, minimum market value interest, minimum voting interest, tax credit, tax loss component, tax year, voting interest*
 

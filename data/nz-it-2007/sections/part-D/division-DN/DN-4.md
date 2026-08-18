@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction: CFC not elective attributing CFC**
 
-**(1)**  The deduction that a person is allowed in an income year for an attributed CFC loss from a CFC (the first CFC) that is not an elective attributing CFC for the person in the income year is no more than the total of—
+**(1)** The deduction that a person is allowed in an income year for an attributed CFC loss from a CFC (the first CFC) that is not an elective attributing CFC for the person in the income year is no more than the total of—
 
 - (a) total attributed CFC income of the person for the income year from other CFCs, each of which is resident in the same country as the first CFC for the relevant accounting period:
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Income only once**
 
-**(2)**  When subsection (1) or (1B) is applied to an attributed CFC loss, an amount of attributed CFC income or FIF income may be used only to the extent to which the income is not used when—
+**(2)** When subsection (1) or (1B) is applied to an attributed CFC loss, an amount of attributed CFC income or FIF income may be used only to the extent to which the income is not used when—
 
 - (a) subsection (1) or (1B) is applied to another attributed CFC loss; or
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Relationship with subpart IQ**
 
-**(3)**  Any excess not able to be deducted because of subsection (1) or (1B) is an attributed CFC net loss able to be used under sections IQ 2, IQ 4, and IQ 9 (which relate to the use of attributed CFC net losses).
+**(3)** Any excess not able to be deducted because of subsection (1) or (1B) is an attributed CFC net loss able to be used under sections IQ 2, IQ 4, and IQ 9 (which relate to the use of attributed CFC net losses).
 
 *Defined in this Act: accounting period, amount, attributed CFC income, attributed CFC loss, attributed CFC net loss, attributable FIF income method, CFC, deduction, election commencement year, elective attributing CFC, elective attributing FIF, FIF, FIF income, FIF loss, income year*
 

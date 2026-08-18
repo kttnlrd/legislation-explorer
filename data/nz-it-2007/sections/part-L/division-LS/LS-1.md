@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Tax credit**
 
-**(1)**  A multi-rate PIE has a tax credit for a tax year for the amount determined—
+**(1)** A multi-rate PIE has a tax credit for a tax year for the amount determined—
 
 - (a) under sections HM 51 and HM 53 (which relate to certain tax credits) for an imputation credit or a credit for tax paid or withheld:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **When this section does not apply**
 
-**(2)**  This section does not apply—
+**(2)** This section does not apply—
 
 - (a) in relation to—
 
@@ -34,15 +34,15 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(3)**  The amount of the tax credit equals the amount determined under the relevant section.
+**(3)** The amount of the tax credit equals the amount determined under the relevant section.
 
 **Timing**
 
-**(4)**  The PIE has the tax credit for the tax year in which the relevant calculation period falls.
+**(4)** The PIE has the tax credit for the tax year in which the relevant calculation period falls.
 
 **Exception: timing under exit calculation option**
 
-**(5)**  If the PIE calculates its income tax liability using the exit calculation option under section HM 42 (Exit calculation option), the amount of a credit attributable to an investor is able to be used to satisfy a tax obligation relating to the investor.
+**(5)** If the PIE calculates its income tax liability using the exit calculation option under section HM 42 (Exit calculation option), the amount of a credit attributable to an investor is able to be used to satisfy a tax obligation relating to the investor.
 
 *Defined in this Act: amount, calculation period, foreign investment PIE, imputation credit, income tax liability, investor, multi-rate PIE, notified foreign investor, pay, PIE, provisional tax, tax credit, tax loss, tax year, zero-rated investor*
 

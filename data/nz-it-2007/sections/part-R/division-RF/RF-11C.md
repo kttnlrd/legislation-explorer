@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in relation to an amount of non-resident passive income that consists of interest and is paid—
+**(1)** This section applies in relation to an amount of non-resident passive income that consists of interest and is paid—
 
 - (a) by a company that is resident in a country or territory outside New Zealand for the purposes of a double tax agreement; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Application of double tax agreement and NRWT rules to amount**
 
-**(2)**  The double tax agreement and the NRWT rules apply to the amount as being interest, despite any provision in the double tax agreement that would otherwise require the amount to be treated as being a dividend.
+**(2)** The double tax agreement and the NRWT rules apply to the amount as being interest, despite any provision in the double tax agreement that would otherwise require the amount to be treated as being a dividend.
 
 *Defined in this Act: amount, company, dividend, double tax agreement, interest, New Zealand, non-resident passive income, NRWT rules, pay, tax*
 

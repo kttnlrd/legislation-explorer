@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to a person for a payment (the multi-year support payment) that is made in a lump sum and relates to a period of more than 365 consecutive days for the person and is—
+**(1)** This section applies to a person for a payment (the multi-year support payment) that is made in a lump sum and relates to a period of more than 365 consecutive days for the person and is—
 
 - (a) an accident compensation earnings-related payment, except to the extent to which the payment is the conversion of weekly compensation to an aggregated payment under schedule 1, part 4, clause 67 of the Accident Compensation Act 2001; or
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Tax rate for payment and income year**
 
-**(2)**  The tax rate given by subsection (3) applies to the multi-year support payment for the income year in which the person derives the payment.
+**(2)** The tax rate given by subsection (3) applies to the multi-year support payment for the income year in which the person derives the payment.
 
 **Tax rate**
 
-**(3)**  The tax rate referred to in subsection (2) is—
+**(3)** The tax rate referred to in subsection (2) is—
 
 - (a) 10.5%, if the rate given by the formula in subsection (4) (the average basic tax rate) is less than 10.5% and paragraph (c) does not apply; or
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Formula for average basic tax rate**
 
-**(4)**  The person's average basic tax rate for this section is calculated over the period of the 4 income years (the rate averaging period) ending before the income year in which the person derives the multi-year support payment using the formula— total basic rates ÷ number of income years.
+**(4)** The person's average basic tax rate for this section is calculated over the period of the 4 income years (the rate averaging period) ending before the income year in which the person derives the multi-year support payment using the formula— total basic rates ÷ number of income years.
 
 **Definition of items in formula**
 
-**(5)**  In the formula in subsection (4),—
+**(5)** In the formula in subsection (4),—
 
 - (a) total basic rates is the sum of the person's basic tax rate calculated under schedule 1, part A, clause 1 for each of the income years in the rate averaging period for which that rate is known by the Commissioner:
 
@@ -52,11 +52,11 @@ compilation_date: 2026-06-06
 
 **Withholding from payment**
 
-**(6)**  For the purposes of section RA 5 (Tax obligations for employment-related taxes), if the multi-year support payment is an accident compensation earnings-related payment, the person making the payment must withhold an amount of tax from the payment at the rate given by subsection (7).
+**(6)** For the purposes of section RA 5 (Tax obligations for employment-related taxes), if the multi-year support payment is an accident compensation earnings-related payment, the person making the payment must withhold an amount of tax from the payment at the rate given by subsection (7).
 
 **Rate of withholding**
 
-**(7)**  The rate referred to in subsection (6) is,—
+**(7)** The rate referred to in subsection (6) is,—
 
 - (a) if the person's average basic tax rate is less than 10.5%, 10.5%; or
 

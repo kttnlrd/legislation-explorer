@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) an amount of income is treated as having been derived by a company under section CG 2C or CG 2D; and
 
@@ -20,19 +20,19 @@ compilation_date: 2026-06-06
 
 **Apportionment**
 
-**(2)**  The company that is treated as deriving the income may choose to apportion the income among other companies in the group.
+**(2)** The company that is treated as deriving the income may choose to apportion the income among other companies in the group.
 
 **Limited amount**
 
-**(3)**  The amount of the income referred to in subsection (2) must be no more than the total tax loss referred to in section CG 2C(1)﻿(e) or CG 2D(1)﻿(d), as applicable, for all previous tax years.
+**(3)** The amount of the income referred to in subsection (2) must be no more than the total tax loss referred to in section CG 2C(1)﻿(e) or CG 2D(1)﻿(d), as applicable, for all previous tax years.
 
 **Default apportionment**
 
-**(4)**  If the company that is treated as deriving the income does not make an apportionment under subsection (2), the income must be divided equally among the companies in the group.
+**(4)** If the company that is treated as deriving the income does not make an apportionment under subsection (2), the income must be divided equally among the companies in the group.
 
 **Companies in group**
 
-**(5)**  For the purposes of subsections (2) and (4),—
+**(5)** For the purposes of subsections (2) and (4),—
 
 - (a) the company that made the tax loss available is treated as excluded from the group:
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Application to consolidated groups**
 
-**(6)**  This section does not apply to a company that is part of a consolidated group of companies, for which, see section FM 5(3) to (5) (Liability when company leaves consolidated group).
+**(6)** This section does not apply to a company that is part of a consolidated group of companies, for which, see section FM 5(3) to (5) (Liability when company leaves consolidated group).
 
 *Defined in this Act: amount, company, consolidated group, group of companies, income, tax loss, tax year*
 

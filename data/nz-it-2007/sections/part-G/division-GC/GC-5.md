@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in relation to leases of real and personal property if and to the extent to which—
+**(1)** This section applies in relation to leases of real and personal property if and to the extent to which—
 
 - (a) a property is leased; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Types of leases**
 
-**(2)**  The following types of leases are subject to this section:
+**(2)** The following types of leases are subject to this section:
 
 - (a) a lease by a company:
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Lease treated as having adequate rent**
 
-**(3)**  The lessee is treated as paying, and the lessor is treated as deriving as income, an adequate rent determined by the Commissioner.
+**(3)** The lessee is treated as paying, and the lessor is treated as deriving as income, an adequate rent determined by the Commissioner.
 
 **Timing**
 
-**(4)**  The adequate rent is treated as—
+**(4)** The adequate rent is treated as—
 
 - (a) paid on the rent payment dates set out in the lease, if any; and
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(5)**  In this section,— lease means a tenancy of any duration, including a sublease or bailment related company means a company that is associated with— (a) in the case of a single lessor, the lessor, 1 or more relatives of the lessor, or a combination of them: (b) in the case of multiple lessors, including a partnership, any of the lessors, 1 or more relatives of any of the lessors, or a combination of them rent includes a premium or other consideration for the lease.
+**(5)** In this section,— lease means a tenancy of any duration, including a sublease or bailment related company means a company that is associated with— (a) in the case of a single lessor, the lessor, 1 or more relatives of the lessor, or a combination of them: (b) in the case of multiple lessors, including a partnership, any of the lessors, 1 or more relatives of any of the lessors, or a combination of them rent includes a premium or other consideration for the lease.
 
 *Defined in this Act: asset, Commissioner, company, income, lease, related company, relative, rent*
 

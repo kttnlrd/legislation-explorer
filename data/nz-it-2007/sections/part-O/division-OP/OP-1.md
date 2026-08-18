@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Single company**
 
-**(1)**  For the purposes of this Part, a consolidated group is treated as if it were a single company, and subpart FM (Consolidated groups of companies) applies to the consolidated group.
+**(1)** For the purposes of this Part, a consolidated group is treated as if it were a single company, and subpart FM (Consolidated groups of companies) applies to the consolidated group.
 
 **Consolidated group accounts**
 
-**(2)**  A consolidated group may be—
+**(2)** A consolidated group may be—
 
 - (a) required to maintain a memorandum account for a tax year; or
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Separate accounts**
 
-**(3)**  A consolidated group's memorandum account is separate from the memorandum account of each company in the consolidated group.
+**(3)** A consolidated group's memorandum account is separate from the memorandum account of each company in the consolidated group.
 
 **General rules**
 
-**(4)**  The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to a memorandum account of a consolidated group.
+**(4)** The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to a memorandum account of a consolidated group.
 
 **Tables**
 
-**(5)**  The credits and debits that arise in a memorandum account are listed in tables set out at the end of this subpart. The tables—
+**(5)** The credits and debits that arise in a memorandum account are listed in tables set out at the end of this subpart. The tables—
 
 - (a) state the credits and the debits; and
 

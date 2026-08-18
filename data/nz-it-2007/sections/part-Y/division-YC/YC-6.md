@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections YC 2 to YC 5 if—
+**(1)** This section applies for the purposes of sections YC 2 to YC 5 if—
 
 - (a) a company has issued an excluded fixed rate security:
 
@@ -22,15 +22,15 @@ compilation_date: 2026-06-06
 
 **Security treated as not issued or granted**
 
-**(2)**  The excluded fixed rate security, excluded option, or pre-1991 budget security is treated as never having been issued or granted.
+**(2)** The excluded fixed rate security, excluded option, or pre-1991 budget security is treated as never having been issued or granted.
 
 **Holder treated as not holding security**
 
-**(3)**  The holder of the excluded fixed rate security, excluded option, or pre-1991 budget security is treated as never having held it.
+**(3)** The holder of the excluded fixed rate security, excluded option, or pre-1991 budget security is treated as never having held it.
 
 **Credit account continuity provisions: excluded fixed return securities counted**
 
-**(4)**  This section is overridden by section YC 20.
+**(4)** This section is overridden by section YC 20.
 
 *Defined in this Act: company, excluded fixed rate security, excluded option, pre-1991 budget security, share*
 

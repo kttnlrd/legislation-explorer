@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When fringe benefit arises**
 
-**(1)**  A fringe benefit arises when—
+**(1)** A fringe benefit arises when—
 
 - (a) a motor vehicle is made available to an employee for their private use; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Exclusion: work-related vehicles**
 
-**(2)**  Subsection (1) does not apply when the vehicle is a work-related vehicle.
+**(2)** Subsection (1) does not apply when the vehicle is a work-related vehicle.
 
 **Exclusion: election by close company**
 
@@ -34,15 +34,15 @@ compilation_date: 2026-06-06
 
 **Exclusion: emergency calls**
 
-**(3)**  Subsection (1) does not apply when the vehicle is used for an emergency call.
+**(3)** Subsection (1) does not apply when the vehicle is used for an emergency call.
 
 **Exclusion: absences from home**
 
-**(4)**  Subsection (1) does not apply when the employee is absent from home, with the vehicle, for a period of at least 24 hours continuously, if the employee is required, in the performance of their duties, to use a vehicle and regularly to be absent from home.
+**(4)** Subsection (1) does not apply when the employee is absent from home, with the vehicle, for a period of at least 24 hours continuously, if the employee is required, in the performance of their duties, to use a vehicle and regularly to be absent from home.
 
 **Use on part of day**
 
-**(5)**  For the purposes of subsections (3) and (4), the whole of the day on which a motor vehicle is used as described in the applicable subsection is treated as a day on which the vehicle is not available for private use.
+**(5)** For the purposes of subsections (3) and (4), the whole of the day on which a motor vehicle is used as described in the applicable subsection is treated as a day on which the vehicle is not available for private use.
 
 *Defined in this Act: close company, emergency call, employee, FBT rules, fringe benefit, lease, motor vehicle, private use, shareholder-employee, work-related vehicle*
 

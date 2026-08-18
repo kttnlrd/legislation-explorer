@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person and an income year (the current year) before the 2024–25 income year when the person,—
+**(1)** This section applies for a person and an income year (the current year) before the 2024–25 income year when the person,—
 
 - (a) in or before the current year, receives insurance or compensation (the earthquake compensation) for items of depreciable property (the affected property), each of which is—
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Suspended recovery income**
 
-**(2)**  For an affected class, the amount that may be depreciation recovery income of the person in or after the current year (the suspended recovery income) is the excess recovery that remains at the beginning of the current year after—
+**(2)** For an affected class, the amount that may be depreciation recovery income of the person in or after the current year (the suspended recovery income) is the excess recovery that remains at the beginning of the current year after—
 
 - (a) adjustment under subsections (3) and (6) for an earlier income year; and
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Effect of acquiring item of replacement property if suspended recovery income from affected property not in pool**
 
-**(3)**  If the person acquires an item of replacement property (the replacement item) and links the replacement item with an affected class of affected property for which the person does not use the pool method, the amount given by subsection (4)—
+**(3)** If the person acquires an item of replacement property (the replacement item) and links the replacement item with an affected class of affected property for which the person does not use the pool method, the amount given by subsection (4)—
 
 - (a) is treated as not being included in the amount of the person's expenditure on the replacement item, for the purposes of determining—
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Amount of reduction: expenditure on replacement item and suspended recovery income**
 
-**(4)**  The amount of the reduction under subsection (3)﻿(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
+**(4)** The amount of the reduction under subsection (3)﻿(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
 
 - (a) zero, if the cost of the affected class equals or is less than the person's total expenditure in acquiring, before the replacement item, other replacement property linked with the affected class; or
 
@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) limited replacement cost is the lesser of the following:
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 **Effect of acquiring item of replacement property if suspended recovery income from affected property in pool**
 
-**(6)**  If the person acquires an item of replacement property (the replacement item) and links the replacement item with an affected class of affected property for which the person uses the pool method,—
+**(6)** If the person acquires an item of replacement property (the replacement item) and links the replacement item with an affected class of affected property for which the person uses the pool method,—
 
 - (a) the amount of the person's expenditure on the replacement item is treated as being reduced, by the amount equal to the lesser of the amount of expenditure on the replacement item and the amount of suspended recovery income for the affected property after the acquisition of other replacement property before the replacement item, for the purposes of determining—
 
@@ -102,7 +102,7 @@ compilation_date: 2026-06-06
 
 **Requirements for replacement property**
 
-**(7)**  An item of replacement property for a person must—
+**(7)** An item of replacement property for a person must—
 
 - (c) be included in the same category under subsection (10)﻿(b) as the affected class with which the person links the item, if the affected class is described in subsection (10)﻿(b)﻿(i) or (ii); and
 
@@ -110,7 +110,7 @@ compilation_date: 2026-06-06
 
 **Attribution of suspended recovery income to income year: other events**
 
-**(8)**  The person has, in the current year, an amount of depreciation recovery income for an affected class equal to the amount of suspended recovery income for the affected class—
+**(8)** The person has, in the current year, an amount of depreciation recovery income for an affected class equal to the amount of suspended recovery income for the affected class—
 
 - (a) at the end of the current year, if that year is the 2023–24 income year and neither of paragraphs (b) and (c) apply earlier; or
 
@@ -120,7 +120,7 @@ compilation_date: 2026-06-06
 
 **Notice of election for affected property**
 
-**(9)**  A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance or compensation for affected property must notify the Commissioner—
+**(9)** A person choosing to rely on this section to suspend in a current year the recognition of suspended recovery income from the insurance or compensation for affected property must notify the Commissioner—
 
 - (a) for the earliest income year (the estimate year) in which the amount of the insurance or compensation for the affected property can be reasonably estimated, by the later of 31 January 2012 and the date on which the return of income is filed for the estimate year; and
 
@@ -132,7 +132,7 @@ compilation_date: 2026-06-06
 
 **Contents of notice of election**
 
-**(10)**  A notice under subsection (9) must—
+**(10)** A notice under subsection (9) must—
 
 - (a) describe the items of affected property; and
 
@@ -154,7 +154,7 @@ compilation_date: 2026-06-06
 
 **Disposal of replacement property: reduction in cost treated as depreciation loss**
 
-**(11)**  For the purposes of section EE 48, the amount by which a person's expenditure on a replacement item is treated as being reduced under subsection (3) or (6) is an amount of depreciation loss for the item for which the person has been allowed a deduction.
+**(11)** For the purposes of section EE 48, the amount by which a person's expenditure on a replacement item is treated as being reduced under subsection (3) or (6) is an amount of depreciation loss for the item for which the person has been allowed a deduction.
 
 **Removal of link by election under section EZ 23BB**
 
@@ -170,7 +170,7 @@ compilation_date: 2026-06-06
 
 **Relationship to subpart EE**
 
-**(12)**  This section overrides subpart EE (Depreciation).
+**(12)** This section overrides subpart EE (Depreciation).
 
 *Defined in this Act: adjusted tax value, amount, assessable income, building, commercial building, commercial fit-out, depreciable intangible property, depreciable property, depreciation loss, depreciation recovery income, income year, liquidation, notice, notify, pool, pool method, return of income, straight-line method*
 

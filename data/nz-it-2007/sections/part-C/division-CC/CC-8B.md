@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a non-resident holder of a commercial bill who is required to calculate and allocate income and expenditure under neither the financial arrangements rules nor the old financial arrangements rules because of the application of section EW 9(2) to (4) or EZ 45(e) (which relate to the application of the rules)—
+**(1)** This section applies when a non-resident holder of a commercial bill who is required to calculate and allocate income and expenditure under neither the financial arrangements rules nor the old financial arrangements rules because of the application of section EW 9(2) to (4) or EZ 45(e) (which relate to the application of the rules)—
 
 - (a) disposes of the commercial bill other than by redemption; or
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Income: disposal**
 
-**(2)**  The value of the commercial bill on the day the non-resident holder disposes of it is income of the person.
+**(2)** The value of the commercial bill on the day the non-resident holder disposes of it is income of the person.
 
 **Income: redemption**
 
-**(3)**  The amount that the non-resident holder receives on redemption is income of the person.
+**(3)** The amount that the non-resident holder receives on redemption is income of the person.
 
 *Defined in this Act: amount, commercial bill, financial arrangements rules, income, non-resident, old financial arrangements rules*
 

@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person who has made a deposit for a tax year is allowed a deduction of the amount quantified in section EH 7(2) (Deduction of deposit).
+**(1)** A person who has made a deposit for a tax year is allowed a deduction of the amount quantified in section EH 7(2) (Deduction of deposit).
 
 **Timing of deduction**
 
-**(2)**  The deduction is allocated to the income year corresponding to the tax year described in section EH 7(3).
+**(2)** The deduction is allocated to the income year corresponding to the tax year described in section EH 7(3).
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(3)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: amount, capital limitation, deduction, deposit, general limitation, general permission, income year, main income equalisation scheme, person, supplement, tax year*
 

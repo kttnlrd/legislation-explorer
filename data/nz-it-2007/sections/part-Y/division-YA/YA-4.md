@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General rules**
 
-**(1)**  Sections 14 to 14G of the Tax Administration Act 1994 apply for the purposes of this Act, unless the context requires otherwise, when a person gives information to, or communicates with, another person by—
+**(1)** Sections 14 to 14G of the Tax Administration Act 1994 apply for the purposes of this Act, unless the context requires otherwise, when a person gives information to, or communicates with, another person by—
 
 - (a) asking or requesting:
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Overriding provisions**
 
-**(2)**  Section 14E of that Act sets out the ways in which specific provisions may override the general rules.
+**(2)** Section 14E of that Act sets out the ways in which specific provisions may override the general rules.
 
 **Delivery**
 
-**(3)**  Sections 14F and 14G of that Act set out the options available for communicating by personal delivery, post, or electronic means.
+**(3)** Sections 14F and 14G of that Act set out the options available for communicating by personal delivery, post, or electronic means.
 
 *Defined in this Act: apply, ask, inform, notify, request*
 

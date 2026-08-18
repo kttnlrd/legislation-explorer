@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Quantifying amounts of depreciation loss and depreciation recovery income**
 
-**(1)**  This subpart—
+**(1)** This subpart—
 
 - (a) quantifies the amount of depreciation loss for which a person is allowed a deduction if the provisions of Part D (Deductions) are met; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **When amount of depreciation loss arises**
 
-**(2)**  A person has an amount of depreciation loss for an item for an income year if—
+**(2)** A person has an amount of depreciation loss for an item for an income year if—
 
 - (a) the person owns an item of property, as described in sections EE 2 to EE 5; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **When amount of depreciation recovery income arises**
 
-**(3)**  A person has an amount of depreciation recovery income for an item for an income year if—
+**(3)** A person has an amount of depreciation recovery income for an item for an income year if—
 
 - (a) the person owns an item of property, as described in sections EE 2 to EE 5; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Amounts of loss incurred and income derived**
 
-**(4)**  To avoid doubt,—
+**(4)** To avoid doubt,—
 
 - (a) an amount of depreciation loss is treated as being incurred in the income year for which it is calculated; and
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Allocation of deduction for depreciation loss**
 
-**(5)**  A person who in an income year uses an item for research or development or for market development that gives rise to a deduction allocated under section EJ 22 (Deductions for market development: product of research, development), and as a result has an amount of depreciation loss for the item for the income year, may choose to allocate all or part of the deduction for the depreciation loss—
+**(5)** A person who in an income year uses an item for research or development or for market development that gives rise to a deduction allocated under section EJ 22 (Deductions for market development: product of research, development), and as a result has an amount of depreciation loss for the item for the income year, may choose to allocate all or part of the deduction for the depreciation loss—
 
 - (a) to an income year after the income year for which the person has the depreciation loss; and
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Partial income-producing use**
 
-**(6)**  Subpart DE (Motor vehicle expenditure) and section EE 50 contain rules for calculating the amount of deduction available for depreciation loss in circumstances in which an item of property is only partly used or available for use in a way that satisfies the general permission.
+**(6)** Subpart DE (Motor vehicle expenditure) and section EE 50 contain rules for calculating the amount of deduction available for depreciation loss in circumstances in which an item of property is only partly used or available for use in a way that satisfies the general permission.
 
 *Defined in this Act: amount, deduction, depreciable property, depreciation loss, depreciation recovery income, development, dispose, general permission, income, income year, own, property, research*
 

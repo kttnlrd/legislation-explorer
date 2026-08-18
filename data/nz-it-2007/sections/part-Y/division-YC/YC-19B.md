@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a trust established for the sole benefit of the New Zealand government or an overseas government is terminated; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Date of acquisition of shares**
 
-**(2)**  The government beneficiary is treated as acquiring the ownership interests transferred by the trustees on the date the trustees acquired the ownership interests.
+**(2)** The government beneficiary is treated as acquiring the ownership interests transferred by the trustees on the date the trustees acquired the ownership interests.
 
 *Defined in this Act: company, New Zealand, ownership interest, trustee*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General test**
 
-**(1)**  A transfer of company value from a company to a person (the recipient) is caused by a shareholding in the company if—
+**(1)** A transfer of company value from a company to a person (the recipient) is caused by a shareholding in the company if—
 
 - (a) the recipient at any relevant time—
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Indication that test met**
 
-**(2)**  One indication that a transfer is caused by a shareholding is if the terms of the arrangement that results in the transfer are different from the terms on which the company would enter into a similar arrangement if no shareholding were involved.
+**(2)** One indication that a transfer is caused by a shareholding is if the terms of the arrangement that results in the transfer are different from the terms on which the company would enter into a similar arrangement if no shareholding were involved.
 
 **Deductible distributions of producer boards**
 
-**(3)**  Despite subsection (1), a transfer of company value by a statutory producer board to a member is not caused by a shareholding if—
+**(3)** Despite subsection (1), a transfer of company value by a statutory producer board to a member is not caused by a shareholding if—
 
 - (a) the transfer is a cash distribution; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Deductible distributions of co-operative companies**
 
-**(4)**  Despite subsection (1), a transfer of company value by a co-operative company to a shareholder is not caused by a shareholding if—
+**(4)** Despite subsection (1), a transfer of company value by a co-operative company to a shareholder is not caused by a shareholding if—
 
 - (a) the transfer is a cash distribution; and
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections DV 18 and DV 19**
 
-**(5)**  For the purposes of subsections (3)﻿(b) and (4)﻿(b), section DV 19 is not overridden by section DV 18 (Statutory producer boards and co-operative companies).
+**(5)** For the purposes of subsections (3)﻿(b) and (4)﻿(b), section DV 19 is not overridden by section DV 18 (Statutory producer boards and co-operative companies).
 
 *Defined in this Act: arrangement, associated person, company, co-operative company, deduction, share, shareholder, statutory producer board, transfer of company value, trustee*
 

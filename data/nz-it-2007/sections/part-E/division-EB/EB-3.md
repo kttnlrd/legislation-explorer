@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Valuation method**
 
-**(1)**  A person who carries on a business must determine the value of their trading stock at the end of each income year by a method that is available under this subpart for them to use.
+**(1)** A person who carries on a business must determine the value of their trading stock at the end of each income year by a method that is available under this subpart for them to use.
 
 **Use of value**
 
-**(2)**  The value determined under subsection (1) is—
+**(2)** The value determined under subsection (1) is—
 
 - (a) the closing value of the trading stock for the income year for the purposes of section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements); and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Excepted financial arrangements valued at cost**
 
-**(3)**  Despite anything in this subpart, the value of any trading stock that is an excepted financial arrangement must be determined under subpart ED (Valuation of excepted financial arrangements).
+**(3)** Despite anything in this subpart, the value of any trading stock that is an excepted financial arrangement must be determined under subpart ED (Valuation of excepted financial arrangements).
 
 *Defined in this Act: business, excepted financial arrangement, income year, trading stock*
 

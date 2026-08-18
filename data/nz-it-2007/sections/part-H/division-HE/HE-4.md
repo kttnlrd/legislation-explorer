@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an association takes into account transactions with both members and non-members.
+**(1)** This section applies when an association takes into account transactions with both members and non-members.
 
 **Apportioning expenditure or loss**
 
-**(2)**  In determining its net income or net loss for an income year under section BC 4 (Net income and net loss), the association must apportion the expenditure or loss that it incurs in the income year between those transactions with members, and those with persons who are not members.
+**(2)** In determining its net income or net loss for an income year under section BC 4 (Net income and net loss), the association must apportion the expenditure or loss that it incurs in the income year between those transactions with members, and those with persons who are not members.
 
 *Defined in this Act: association, income year, loss, member, net income, net loss*
 

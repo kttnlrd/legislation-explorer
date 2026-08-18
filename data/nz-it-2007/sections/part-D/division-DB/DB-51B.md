@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an adjustment made under section FA 11 (Adjustments for leases that become finance leases) is negative.
+**(1)** This section applies when an adjustment made under section FA 11 (Adjustments for leases that become finance leases) is negative.
 
 **Deduction**
 
-**(2)**  The amount of the adjustment is a deduction of the lessor or the lessee, as applicable, in the income year in which the lease becomes a finance lease.
+**(2)** The amount of the adjustment is a deduction of the lessor or the lessee, as applicable, in the income year in which the lease becomes a finance lease.
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission. The general limitations still apply.
+**(3)** This section supplements the general permission. The general limitations still apply.
 
 *Defined in this Act: deduction, finance lease, general limitation, general permission, income year, lease*
 

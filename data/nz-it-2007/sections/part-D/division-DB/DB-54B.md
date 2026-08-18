@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a foreign investment PIE incurs expenditure or loss in deriving income attributable to—
+**(1)** This section applies when a foreign investment PIE incurs expenditure or loss in deriving income attributable to—
 
 - (a) a notified foreign investor in the PIE:
 
@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(2)**  The PIE is denied a deduction for the amount of the expenditure or loss.
+**(2)** The PIE is denied a deduction for the amount of the expenditure or loss.
 
 **Relationship with section DB 7**
 
-**(3)**  This section overrides section DB 7 (Interest: most companies need no nexus with income).
+**(3)** This section overrides section DB 7 (Interest: most companies need no nexus with income).
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the general permission.
+**(4)** This section overrides the general permission.
 
 *Defined in this Act: amount, deduction, foreign investment PIE, general permission, income, loss, notified foreign investor, prescribed investor rate, transitional resident*
 

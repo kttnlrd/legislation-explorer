@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Non-attributing active CFC**
 
-**(1)**  Non-attributing active CFC, for an accounting period and a person (the interest holder), means a CFC—
+**(1)** Non-attributing active CFC, for an accounting period and a person (the interest holder), means a CFC—
 
 - (a) for which the interest holder is not affected by an election under section EX 73 for the accounting period; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **CFC meeting test in section EX 21D or EX 21E**
 
-**(2)**  A CFC is a non-attributing active CFC—
+**(2)** A CFC is a non-attributing active CFC—
 
 - (a) under section EX 21D, if the CFC meets the requirements of that section and paragraph (b) does not apply:
 
@@ -34,15 +34,15 @@ compilation_date: 2026-06-06
 
 **Insurer meeting requirements of determination**
 
-**(3)**  A CFC that is an insurer meeting the requirements of a determination made by the Commissioner under section 91AAQ of the Tax Administration Act 1994 is a non-attributing active CFC.
+**(3)** A CFC that is an insurer meeting the requirements of a determination made by the Commissioner under section 91AAQ of the Tax Administration Act 1994 is a non-attributing active CFC.
 
 **Single test for each CFC**
 
-**(4)**  In determining whether CFCs are non-attributing active CFCs for an accounting period under a test in section EX 21D or EX 21E, an interest holder must not use the result of a test applied to a test group that includes a CFC if the person, or a member of a wholly-owned group to which the person belongs, uses for the period a result of the same or a different test applied to the CFC, alone or as part of a different test group.
+**(4)** In determining whether CFCs are non-attributing active CFCs for an accounting period under a test in section EX 21D or EX 21E, an interest holder must not use the result of a test applied to a test group that includes a CFC if the person, or a member of a wholly-owned group to which the person belongs, uses for the period a result of the same or a different test applied to the CFC, alone or as part of a different test group.
 
 **Part-period calculations**
 
-**(5)**  Section EX 21F sets out the requirements for a non-attributing active CFC when an interest holder holds an income interest for only part of an accounting period.
+**(5)** Section EX 21F sets out the requirements for a non-attributing active CFC when an interest holder holds an income interest for only part of an accounting period.
 
 *Defined in this Act: accounting period, CFC, group of companies, income interest, non-attributing active CFC*
 

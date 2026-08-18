@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Excluded income**
 
-**(1)**  For the purposes of the flat-rate credit, as defined in section 2(1) of the Goods and Services Tax Act 1985, the amount of the credit is excluded income of the person receiving the credit, whether or not the person is a registered person.
+**(1)** For the purposes of the flat-rate credit, as defined in section 2(1) of the Goods and Services Tax Act 1985, the amount of the credit is excluded income of the person receiving the credit, whether or not the person is a registered person.
 
 **When credits not excluded income**
 
-**(2)**  Subsection (1) does not apply to a person who, for an income year,—
+**(2)** Subsection (1) does not apply to a person who, for an income year,—
 
 - (a) is an underlying supplier; and
 

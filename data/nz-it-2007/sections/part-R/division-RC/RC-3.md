@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Threshold or election**
 
-**(1)**  A person who is liable to pay provisional tax for a tax year is—
+**(1)** A person who is liable to pay provisional tax for a tax year is—
 
 - (a) a person whose residual income tax for the tax year is more than $5,000; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  Despite subsection (1), the following persons do not pay provisional tax:
+**(2)** Despite subsection (1), the following persons do not pay provisional tax:
 
 - (a) a company that does not have a fixed establishment in New Zealand and is not treated as resident in New Zealand:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **No obligation**
 
-**(3)**  A person has no obligation to pay provisional tax for a tax year if their residual income tax for the preceding tax year is $5,000 or less.
+**(3)** A person has no obligation to pay provisional tax for a tax year if their residual income tax for the preceding tax year is $5,000 or less.
 
 *Defined in this Act: Commissioner, company, fixed establishment, multi-rate PIE, New Zealand, non-resident, non-resident contractor, pay, provisional tax, resident in New Zealand, residual income tax, tax year, VCF*
 

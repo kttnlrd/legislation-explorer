@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(1)**  A person listed in subsection (2) is denied a deduction for expenditure incurred in deriving the income described in the relevant section.
+**(1)** A person listed in subsection (2) is denied a deduction for expenditure incurred in deriving the income described in the relevant section.
 
 **Persons**
 
-**(2)**  The persons referred to in subsection (1) are—
+**(2)** The persons referred to in subsection (1) are—
 
 - (a) a non-resident person who derives income under section CR 3 (Income of non-resident general insurer):
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Non-resident shipper's expenditure on depreciation**
 
-**(3)**  The non-resident person referred to in subsection (2)﻿(b) has no amount of depreciation loss in relation to that income.
+**(3)** The non-resident person referred to in subsection (2)﻿(b) has no amount of depreciation loss in relation to that income.
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the general permission.
+**(4)** This section overrides the general permission.
 
 *Defined in this Act: amount, deduction, depreciation loss, film, general permission, income, insurer, New Zealand, non-resident*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Calculation of adjustment**
 
-**(1)**  If a person's income is calculated for a period that is less or more than a year, their family scheme income must be adjusted by an amount calculated using the formula— person's family scheme income × 365 ÷ days.
+**(1)** If a person's income is calculated for a period that is less or more than a year, their family scheme income must be adjusted by an amount calculated using the formula— person's family scheme income × 365 ÷ days.
 
 **Definition of items in formula**
 
-**(2)**  In the formula,—
+**(2)** In the formula,—
 
 - (a) person's family scheme income is the person's income calculated under subparts MB to MG and MZ:
 

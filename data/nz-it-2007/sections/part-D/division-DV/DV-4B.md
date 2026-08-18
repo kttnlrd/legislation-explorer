@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a master fund that is a multi-rate PIE has a deduction under section DV 2(8B) for an income year for expenditure transferred to it by a member fund; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Member fund carrying expenditure forward**
 
-**(2)**  The member fund may carry forward the surplus expenditure for transfer under section DV 2(8B) in a later income year.
+**(2)** The member fund may carry forward the surplus expenditure for transfer under section DV 2(8B) in a later income year.
 
 **Expenditure as loss balance**
 
-**(3)**  If the member fund carries forward surplus expenditure in an income year, the member fund may treat some or all of the expenditure as a loss balance for the corresponding tax year.
+**(3)** If the member fund carries forward surplus expenditure in an income year, the member fund may treat some or all of the expenditure as a loss balance for the corresponding tax year.
 
 *Defined in this Act: amount, deduction, income year, loss balance, master fund, multi-rate PIE, tax year*
 

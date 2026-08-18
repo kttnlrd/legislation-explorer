@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Income: disposal of exploratory material**
 
-**(1)**  The consideration that a petroleum miner derives from disposing of exploratory material is income of the petroleum miner.
+**(1)** The consideration that a petroleum miner derives from disposing of exploratory material is income of the petroleum miner.
 
 **Income: disposal of petroleum mining asset**
 
-**(2)**  The consideration that a petroleum miner derives from disposing of a petroleum mining asset is income of the petroleum miner.
+**(2)** The consideration that a petroleum miner derives from disposing of a petroleum mining asset is income of the petroleum miner.
 
 **Relationship with section CX 43**
 
-**(3)**  This section is overridden by section CX 43 (Farm-out arrangements for mining operations).
+**(3)** This section is overridden by section CX 43 (Farm-out arrangements for mining operations).
 
 **Relationship with section CZ 32**
 
-**(4)**  Section CZ 32 (Treatment of certain petroleum storage facilities) overrides subsection (2).
+**(4)** Section CZ 32 (Treatment of certain petroleum storage facilities) overrides subsection (2).
 
 *Defined in this Act: consideration, dispose, exploratory material, income, petroleum miner, petroleum mining asset*
 

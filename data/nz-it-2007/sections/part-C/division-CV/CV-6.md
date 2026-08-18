@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  An amount that a Crown Research Institute derives is income of the institute if the amount is provided to the institute for the purposes of—
+**(1)** An amount that a Crown Research Institute derives is income of the institute if the amount is provided to the institute for the purposes of—
 
 - (a) any 1 or more of the activities listed in section 7 of the Research, Science, and Technology Act 2010; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(2)**  In this section, public good science and technology means science or technology—
+**(2)** In this section, public good science and technology means science or technology—
 
 - (a) that is likely to increase knowledge or understanding of the physical, biological, or social environment; or
 

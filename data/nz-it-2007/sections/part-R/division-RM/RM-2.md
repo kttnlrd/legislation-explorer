@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Amount more than required**
 
-**(1)**  The Commissioner must refund an amount of tax that a person has paid if—
+**(1)** The Commissioner must refund an amount of tax that a person has paid if—
 
 - (a) the amount is more than the tax required to be paid by the person under this Part; and
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Amounts arising on treatment of some backdated payments as exempt income**
 
-**(3)**  Subsection (1A) applies for an amended assessment arising from the treatment of a payment as being exempt income under section CZ 36 (Treatment of backdated payments for social rehabilitation: 2008–09 to 2017–18 income years).
+**(3)** Subsection (1A) applies for an amended assessment arising from the treatment of a payment as being exempt income under section CZ 36 (Treatment of backdated payments for social rehabilitation: 2008–09 to 2017–18 income years).
 
 *Defined in this Act: amount, amount of tax, ancillary tax, assessment, Commissioner, notice, pay, refundable tax credit, tax*
 

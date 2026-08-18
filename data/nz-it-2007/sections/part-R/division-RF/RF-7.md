@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to a payment of non-resident passive income other than a payment to which sections RF 8 to RF 12 apply.
+**(1)** This section applies to a payment of non-resident passive income other than a payment to which sections RF 8 to RF 12 apply.
 
 **Calculation of amount of tax**
 
-**(2)**  The amount of tax is calculated using the formula— payment × 0.15.
+**(2)** The amount of tax is calculated using the formula— payment × 0.15.
 
 *Defined in this Act: amount of tax, non-resident passive income, NRWT, pay*
 

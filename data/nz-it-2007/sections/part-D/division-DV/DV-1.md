@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a superannuation fund incurs expenditure to which all the following apply:
+**(1)** This section applies when a superannuation fund incurs expenditure to which all the following apply:
 
 - (a) it is incurred in developing, marketing, selling, promoting, or advertising the fund; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(2)**  The superannuation fund is allowed a deduction for the expenditure.
+**(2)** The superannuation fund is allowed a deduction for the expenditure.
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission and overrides the capital limitation and the exempt income limitation. The other general limitations still apply.
+**(3)** This section supplements the general permission and overrides the capital limitation and the exempt income limitation. The other general limitations still apply.
 
 *Defined in this Act: assessable income, capital limitation, deduction, exempt income limitation, general limitation, general permission, superannuation fund, supplement*
 

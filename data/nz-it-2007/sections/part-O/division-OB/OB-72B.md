@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) an ICA company joins a wholly-owned group of companies (the new group) from another group of companies (the former group); and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Restricted refund amount for company and new group**
 
-**(2)**  Subsections (3) to (8) apply to an amount (the restricted refund amount) for the ICA company and the new group that is greater than zero and calculated using the formula— refund amount − ICA credit balance.
+**(2)** Subsections (3) to (8) apply to an amount (the restricted refund amount) for the ICA company and the new group that is greater than zero and calculated using the formula— refund amount − ICA credit balance.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) refund amount is the total of the following amounts, determined immediately before the ICA company joins the new group:
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Payment to Commissioner**
 
-**(4)**  If the restricted refund amount is greater than the amount referred to in subsection (3)﻿(a)﻿(ii), the ICA company must pay to the Commissioner an amount equal to the excess and the Commissioner must hold the amount with the balance of the restricted refund amount as if the excess were a refund to which the company were entitled under section RM 2 (Refunds for overpaid tax).
+**(4)** If the restricted refund amount is greater than the amount referred to in subsection (3)﻿(a)﻿(ii), the ICA company must pay to the Commissioner an amount equal to the excess and the Commissioner must hold the amount with the balance of the restricted refund amount as if the excess were a refund to which the company were entitled under section RM 2 (Refunds for overpaid tax).
 
 **Use of restricted refund amount: former group wholly-owned**
 
-**(5)**  If the former group is a wholly-owned group of companies, the Commissioner must hold the restricted refund amount for the ICA company and the new group subject to the restriction that the amount—
+**(5)** If the former group is a wholly-owned group of companies, the Commissioner must hold the restricted refund amount for the ICA company and the new group subject to the restriction that the amount—
 
 - (a) may be refunded for an imputation credit only if the ICA company satisfies the Commissioner that the credit—
 
@@ -76,11 +76,11 @@ compilation_date: 2026-06-06
 
 **Restriction additional to other requirements**
 
-**(6)**  The restriction imposed by subsection (5) or (5B) on the use of a restricted refund amount is in addition to the requirements under other provisions of the Act for a refund or the satisfaction of a tax liability from an amount to which the ICA company is entitled under section RM 2 or RM 4.
+**(6)** The restriction imposed by subsection (5) or (5B) on the use of a restricted refund amount is in addition to the requirements under other provisions of the Act for a refund or the satisfaction of a tax liability from an amount to which the ICA company is entitled under section RM 2 or RM 4.
 
 **Reducing restricted refund amount**
 
-**(7)**  The restricted refund amount for the ICA company and a group is reduced by the amount of—
+**(7)** The restricted refund amount for the ICA company and a group is reduced by the amount of—
 
 - (a) a refund permitted under subsection (5)﻿(a) or (5B)﻿(a) relating to the restricted refund amount:
 
@@ -92,7 +92,7 @@ compilation_date: 2026-06-06
 
 **Liability for imputation additional tax**
 
-**(8)**  The ICA company is liable for an amount of imputation additional tax equal to the restricted refund amount for the company and a wholly-owned group of companies (the old group) determined immediately after a change in the holding of voting interests in the ICA company if, immediately after the change, a group of people hold common voting interests in the ICA company that exceed, by 67% or more, the common voting interests—
+**(8)** The ICA company is liable for an amount of imputation additional tax equal to the restricted refund amount for the company and a wholly-owned group of companies (the old group) determined immediately after a change in the holding of voting interests in the ICA company if, immediately after the change, a group of people hold common voting interests in the ICA company that exceed, by 67% or more, the common voting interests—
 
 - (a) in the group of companies to which the company belonged immediately before the company joined the old group; and
 

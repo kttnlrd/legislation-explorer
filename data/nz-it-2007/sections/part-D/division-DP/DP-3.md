@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person carries on a forestry business on land in New Zealand; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Deduction: expenditure: owner of land**
 
-**(2)**  A person who owns the land is allowed a deduction for expenditure to which all the following apply:
+**(2)** A person who owns the land is allowed a deduction for expenditure to which all the following apply:
 
 - (a) it is incurred on making the improvement; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Deduction: expenditure: non-owner of land**
 
-**(3)**  A person who does not own the land is allowed a deduction for expenditure to which all the following apply:
+**(3)** A person who does not own the land is allowed a deduction for expenditure to which all the following apply:
 
 - (a) it is incurred on making the improvement; and
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Amount, and timing, of deduction**
 
-**(4)**  The amount of the deduction is calculated using the formula— schedule 20 percentage × diminished value.
+**(4)** The amount of the deduction is calculated using the formula— schedule 20 percentage × diminished value.
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) schedule 20 percentage is the percentage set out opposite the description of the improvement in schedule 20, part G:
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(6)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(6)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: amount, business, capital limitation, deduction, diminished value, forestry business, general limitation, general permission, income year, New Zealand, own*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  In relation to a debt funding special purpose vehicle, originator means a person who is a New Zealand resident who—
+**(1)** In relation to a debt funding special purpose vehicle, originator means a person who is a New Zealand resident who—
 
 - (a) has transferred an asset to the special purpose vehicle and the person otherwise meets the requirements set out in subsection (2); or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **When assets transferred by companies**
 
-**(2)**  For the purposes of subsection (1)﻿(a), the person must be a company that has transferred assets to the special purpose vehicle and all the transferred assets are—
+**(2)** For the purposes of subsection (1)﻿(a), the person must be a company that has transferred assets to the special purpose vehicle and all the transferred assets are—
 
 - (a) treated for financial reporting purposes as the person's assets; or
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Other assets**
 
-**(3)**  For the purposes of subsection (1)﻿(b), the person must be a beneficiary or shareholder of the special purpose vehicle and a person who—
+**(3)** For the purposes of subsection (1)﻿(b), the person must be a beneficiary or shareholder of the special purpose vehicle and a person who—
 
 - (a) is treated for financial reporting purposes as holding assets of the special purpose vehicle to which subsection (1)﻿(a) does not apply; or
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Group members**
 
-**(4)**  For the purposes of this section, a beneficiary or shareholder includes a member of the same wholly-owned group of companies as a beneficiary or shareholder.
+**(4)** For the purposes of this section, a beneficiary or shareholder includes a member of the same wholly-owned group of companies as a beneficiary or shareholder.
 
 *Defined in this Act: company, debt funding special purpose vehicle, financial statements, New Zealand resident, originator, shareholder, trustee, wholly-owned group of companies*
 

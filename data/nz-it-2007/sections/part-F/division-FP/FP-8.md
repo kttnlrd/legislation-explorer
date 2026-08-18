@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person and a current year when the person—
+**(1)** This section applies for a person and a current year when the person—
 
 - (a) owns 1 or more items of affected depreciable property that are in the same affected class; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Depreciation recovery income**
 
-**(2)**  The person has, in the current year, an amount of depreciation recovery income under section CG 1 (Amount of depreciation recovery income) for an affected class equal to the amount of suspended recovery income for the affected class—
+**(2)** The person has, in the current year, an amount of depreciation recovery income under section CG 1 (Amount of depreciation recovery income) for an affected class equal to the amount of suspended recovery income for the affected class—
 
 - (a) at the end of the current year, if the current year is the final income year of the emergency event period; or
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Relationship to subpart EE**
 
-**(3)**  This section overrides subpart EE (Depreciation).
+**(3)** This section overrides subpart EE (Depreciation).
 
 *Defined in this Act: acquire, affected class, affected depreciable property, affected depreciation loss, affected depreciation recovery income, amount, Commissioner, compensation, current year, depreciation recovery income, emergency event period, income year, liquidation, notify, replacement property, suspended recovery income*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Exempt ESS**
 
-**(1)**  Exempt ESS means—
+**(1)** Exempt ESS means—
 
 - (a) a scheme that had the Commissioner's approval under section DC 12 (Loans to employees under share purchase schemes) before that section's repeal by the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Purchase of shares**
 
-**(2)**  The arrangement must provide that—
+**(2)** The arrangement must provide that—
 
 - (a) the shares are available for no more than their market value at the date of purchase or subscription; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Eligibility**
 
-**(3)**  The arrangement must provide that—
+**(3)** The arrangement must provide that—
 
 - (a) a full-time permanent employee to whom an offer under the arrangement is made is eligible to participate in the arrangement, on an equal basis with 90% or more of other full-time permanent employees to whom an offer under the arrangement is not subject to foreign security disclosure rules; and
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Payments**
 
-**(4)**  The arrangement must provide that—
+**(4)** The arrangement must provide that—
 
 - (a) if it requires that an employee must buy the shares for more than nominal consideration,—
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Serious hardship**
 
-**(5)**  The arrangement must provide, in the case of serious hardship that results or may result from an employee's continued participation in the exempt ESS, that, with the employee's agreement,—
+**(5)** The arrangement must provide, in the case of serious hardship that results or may result from an employee's continued participation in the exempt ESS, that, with the employee's agreement,—
 
 - (a) any regular instalments and any other terms related to payment by the employee may be varied; or
 
@@ -88,11 +88,11 @@ compilation_date: 2026-06-06
 
 **Withdrawal**
 
-**(6)**  The arrangement must provide that the employee may withdraw from the arrangement on giving 1 month's notice to the relevant party. Any shares must be bought from the employee for the lesser of their market value on the day of withdrawal and their cost to the employee, subject to the repayment of any outstanding loan.
+**(6)** The arrangement must provide that the employee may withdraw from the arrangement on giving 1 month's notice to the relevant party. Any shares must be bought from the employee for the lesser of their market value on the day of withdrawal and their cost to the employee, subject to the repayment of any outstanding loan.
 
 **Period of restriction**
 
-**(7)**  The arrangement must provide that,—
+**(7)** The arrangement must provide that,—
 
 - (a) if the employee has not acquired the shares for market value, there is a period of restriction during which the shares must not be disposed of other than as part of a takeover or similar share reorganisation, and that period of restriction is the shorter of—
 
@@ -108,7 +108,7 @@ compilation_date: 2026-06-06
 
 **End of period of restriction: first option**
 
-**(8)**  The arrangement may provide, when the period of restriction provided by subsection (7) ends, that the shares are transferred to the employee if they have not already been transferred or, if the employee chooses, that the shares are acquired from the employee or trustee for the lesser of—
+**(8)** The arrangement may provide, when the period of restriction provided by subsection (7) ends, that the shares are transferred to the employee if they have not already been transferred or, if the employee chooses, that the shares are acquired from the employee or trustee for the lesser of—
 
 - (a) the cost of the shares to the employee:
 
@@ -132,7 +132,7 @@ compilation_date: 2026-06-06
 
 **End of period of restriction: certain cases**
 
-**(9)**  Despite subsections (8) and (8B), when a period of restriction ends because the employee's employment ends through their death, accident, sickness, redundancy, or retirement at normal retiring age, the arrangement must provide that—
+**(9)** Despite subsections (8) and (8B), when a period of restriction ends because the employee's employment ends through their death, accident, sickness, redundancy, or retirement at normal retiring age, the arrangement must provide that—
 
 - (a) the shares are transferred to the former employee if they have not already been transferred, or transferred to the legal representative of the employee's estate, as appropriate; or
 

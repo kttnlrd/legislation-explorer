@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person enters into an arrangement and the purpose or effect of the arrangement is to defeat the intent and application of the definition of employee share scheme or the definition of share scheme taxing date in relation to an employee share scheme.
+**(1)** This section applies when a person enters into an arrangement and the purpose or effect of the arrangement is to defeat the intent and application of the definition of employee share scheme or the definition of share scheme taxing date in relation to an employee share scheme.
 
 **Reconstruction**
 
-**(2)**  The Commissioner may classify the arrangement or set a share scheme taxing date as the Commissioner considers appropriate to counteract a tax advantage obtained by the person from or under the agreement.
+**(2)** The Commissioner may classify the arrangement or set a share scheme taxing date as the Commissioner considers appropriate to counteract a tax advantage obtained by the person from or under the agreement.
 
 *Defined in this Act: arrangement, Commissioner, employee share scheme, share, share scheme taxing date*
 

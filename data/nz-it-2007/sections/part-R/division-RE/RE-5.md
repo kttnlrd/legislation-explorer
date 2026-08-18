@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (person A)—
+**(1)** This section applies when a person (person A)—
 
 - (a) pays an amount to another person (person B); or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **No obligation if person B exempt**
 
-**(2)**  For the purposes of determining whether person A is required under section RE 4 to withhold RWT, the payment is treated as not consisting of resident passive income if person A has established that person B has RWT-exempt status under section RE 27.
+**(2)** For the purposes of determining whether person A is required under section RE 4 to withhold RWT, the payment is treated as not consisting of resident passive income if person A has established that person B has RWT-exempt status under section RE 27.
 
 **No obligation in relation to non-cash dividends**
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **No obligation if person B transitional resident**
 
-**(3)**  If person A receives an amount of resident passive income while acting as agent or bare trustee for person B, they are not required to withhold RWT in relation to the amount when—
+**(3)** If person A receives an amount of resident passive income while acting as agent or bare trustee for person B, they are not required to withhold RWT in relation to the amount when—
 
 - (a) person B notifies person A that—
 

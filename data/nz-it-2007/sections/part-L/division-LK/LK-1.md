@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(1)**  A person who has an amount of attributed CFC income for an income year has a tax credit for the tax year corresponding to the income year equal to the following amounts paid or payable in relation to the attributed CFC income:
+**(1)** A person who has an amount of attributed CFC income for an income year has a tax credit for the tax year corresponding to the income year equal to the following amounts paid or payable in relation to the attributed CFC income:
 
 - (a) an amount of income tax paid by the CFC from which the income is derived:
 
@@ -34,19 +34,19 @@ compilation_date: 2026-06-06
 
 **Amount adjusted**
 
-**(2)**  The amount of the person's credit in subsection (1) may be reduced or increased if section LK 7 applies.
+**(2)** The amount of the person's credit in subsection (1) may be reduced or increased if section LK 7 applies.
 
 **Limitation to quarantined amount**
 
-**(3)**  The person's use under section LA 2 (Satisfaction of income tax liability) of a credit referred to in subsection (1) is limited to the amount (the quarantined amount) that would be their income tax liability for the tax year if their only assessable income were attributed CFC income derived from a CFC resident in the foreign country or territory referred to in subsection (1) in the accounting period in which the amount of tax giving rise to the credit was paid or payable.
+**(3)** The person's use under section LA 2 (Satisfaction of income tax liability) of a credit referred to in subsection (1) is limited to the amount (the quarantined amount) that would be their income tax liability for the tax year if their only assessable income were attributed CFC income derived from a CFC resident in the foreign country or territory referred to in subsection (1) in the accounting period in which the amount of tax giving rise to the credit was paid or payable.
 
 **Tax withheld**
 
-**(4)**  In subsections (1) and (1B), a payment of income tax or foreign income tax by the CFC or person, as applicable, includes an amount of tax withheld from income in New Zealand or another country or territory.
+**(4)** In subsections (1) and (1B), a payment of income tax or foreign income tax by the CFC or person, as applicable, includes an amount of tax withheld from income in New Zealand or another country or territory.
 
 **When subsection (7) applies**
 
-**(5)**  Subsection (7) applies when—
+**(5)** Subsection (7) applies when—
 
 - (a) a person has a credit under subsection (1) in relation to an amount of income tax or foreign income tax; and
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **When refund received before assessment**
 
-**(6)**  If the person receives the refund before they assess their income tax liability for a tax year, the amount of tax credit for the tax paid is reduced by the lesser of—
+**(6)** If the person receives the refund before they assess their income tax liability for a tax year, the amount of tax credit for the tax paid is reduced by the lesser of—
 
 - (a) the amount of the refund:
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Credit repayable or extinguished**
 
-**(7)**  The amount of the credit—
+**(7)** The amount of the credit—
 
 - (a) must be paid to the Commissioner if it has been used under section LA 2:
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **Date for payment**
 
-**(8)**  In subsection (7)﻿(a), the date for payment is 30 days after the later of—
+**(8)** In subsection (7)﻿(a), the date for payment is 30 days after the later of—
 
 - (a) the date on which the person who paid the tax receives the refund:
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Associated persons**
 
-**(9)**  For the purposes of subsections (5) to (8), the refund is treated as received by the person, whether it is received by the person, a person who paid the foreign income tax, or a person associated with either of them.
+**(9)** For the purposes of subsections (5) to (8), the refund is treated as received by the person, whether it is received by the person, a person who paid the foreign income tax, or a person associated with either of them.
 
 *Defined in this Act: accounting period, amount, amount of tax, assessable income, assessment, associated person, attributed CFC income, CFC, Commissioner, company, controlled foreign company, corresponding income year, foreign income tax, group of companies, income, income tax, income tax liability, income year, international tax rules, New Zealand tax, notice, NRWT, pay, quarantined amount, segment of foreign-sourced income, tax credit, tax withheld, tax year*
 

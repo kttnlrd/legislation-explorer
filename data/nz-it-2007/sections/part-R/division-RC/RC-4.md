@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(1)**  A person, when first providing a return of income for a tax year, may choose to pay provisional tax for the tax year if—
+**(1)** A person, when first providing a return of income for a tax year, may choose to pay provisional tax for the tax year if—
 
 - (a) they have paid provisional tax of more than $5,000 on or before—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  This section does not apply to a person described in section RC 3(2).
+**(2)** This section does not apply to a person described in section RC 3(2).
 
 *Defined in this Act: corresponding income year, final instalment, instalment date, pay, provisional tax, return of income, tax year, transitional year*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When section GC 1 applies**
 
-**(1)**  Section GC 1 applies to a disposal of an emissions unit as if the emissions unit were trading stock.
+**(1)** Section GC 1 applies to a disposal of an emissions unit as if the emissions unit were trading stock.
 
 **Exclusions**
 
-**(2)**  Section GC 1 does not apply to a disposal of an emissions unit if the disposal is—
+**(2)** Section GC 1 does not apply to a disposal of an emissions unit if the disposal is—
 
 - (a) the surrender of the unit under the Climate Change Response Act 2002:
 

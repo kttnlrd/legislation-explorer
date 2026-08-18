@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person when—
+**(1)** This section applies for a person when—
 
 - (a) the person carries on a business involving the operation of an aircraft that includes an aircraft engine; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Deduction for aircraft engine overhaul**
 
-**(2)**  For expenditure incurred by the person in carrying out an aircraft engine overhaul of an aircraft engine—
+**(2)** For expenditure incurred by the person in carrying out an aircraft engine overhaul of an aircraft engine—
 
 - (a) the person has a deduction to the extent to which the process does not produce a significant increase in the performance of the aircraft engine by comparison with the aircraft engine's performance specifications before the aircraft engine overhaul:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Deduction for aircraft engine when acquired for price**
 
-**(3)**  A person who acquires an aircraft engine for use with an aircraft, other than as an unpriced aircraft engine with the aircraft, has a deduction of an amount given by subsection (4)—
+**(3)** A person who acquires an aircraft engine for use with an aircraft, other than as an unpriced aircraft engine with the aircraft, has a deduction of an amount given by subsection (4)—
 
 - (a) for expenditure incurred in acquiring the aircraft engine, if the aircraft engine is acquired other than under a finance lease; or
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction under subsection (3)**
 
-**(4)**  The amount of the person's deduction under subsection (3) is—
+**(4)** The amount of the person's deduction under subsection (3) is—
 
 - (a) equal to the estimated cost of an aircraft engine overhaul for the aircraft engine at the time of the acquisition, if—
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Deduction for unpriced aircraft engine when acquired**
 
-**(5)**  A person who acquires an aircraft including an unpriced aircraft engine has a deduction of an amount given by subsection (6)—
+**(5)** A person who acquires an aircraft including an unpriced aircraft engine has a deduction of an amount given by subsection (6)—
 
 - (a) for part of the expenditure incurred in acquiring the aircraft, if the aircraft is acquired other than under a finance lease; or
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction under subsection (5)**
 
-**(6)**  The amount of the person's deduction under subsection (5) is—
+**(6)** The amount of the person's deduction under subsection (5) is—
 
 - (a) equal to the estimated cost of an aircraft engine overhaul for the aircraft engine at the time of the acquisition, based on market prices, if the aircraft engine, when acquired, has not been used significantly since being manufactured or having an aircraft engine overhaul; or
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **Exception: person making election under section EJ 26**
 
-**(7)**  If a person has made an election under section EJ 26 (Allocation of expenditure on aircraft engine overhauls: election by operator of single aircraft),—
+**(7)** If a person has made an election under section EJ 26 (Allocation of expenditure on aircraft engine overhauls: election by operator of single aircraft),—
 
 - (a) the person is not allowed a deduction referred to in subsection (3) or (5); and
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Expenditure on piece fitted to aircraft in aircraft engine overhaul**
 
-**(8)**  The amount of expenditure incurred by a person, in carrying out an aircraft engine overhaul, for a piece that is fitted as a replacement piece to the aircraft as part of the aircraft engine overhaul is—
+**(8)** The amount of expenditure incurred by a person, in carrying out an aircraft engine overhaul, for a piece that is fitted as a replacement piece to the aircraft as part of the aircraft engine overhaul is—
 
 - (a) the adjusted tax value of the piece for the person before the piece is fitted, if the piece is an item of depreciable property before being fitted:
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(9)**  This section overrides the capital limitation. The other general limitations still apply.
+**(9)** This section overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: adjusted tax value, aircraft engine, aircraft engine overhaul, business, capital limitation, deduction, depreciable property, finance lease, general limitation, scheduled overhaul period, unpriced aircraft engine*
 

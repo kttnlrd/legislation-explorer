@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Requirements for entitlement period**
 
-**(1)**  To receive entitlements and tax credits under the family scheme, a person who meets the qualifying criteria set out in sections MC 3 to MC 7 must also meet the following requirements throughout the entitlement period:
+**(1)** To receive entitlements and tax credits under the family scheme, a person who meets the qualifying criteria set out in sections MC 3 to MC 7 must also meet the following requirements throughout the entitlement period:
 
 - (a) the person meets the qualifying criteria on each day of the period; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section MD 6(2)**
 
-**(2)**  Section MD 6(2) (Second requirement: principal care) overrides this section in relation to the in-work tax credit.
+**(2)** Section MD 6(2) (Second requirement: principal care) overrides this section in relation to the in-work tax credit.
 
 *Defined in this Act: child, civil union partner, de facto partner, dependent child, entitlement period, family scheme, in-work tax credit, principal caregiver, protected family tax credit, spouse, tax credit, WFF tax credit*
 

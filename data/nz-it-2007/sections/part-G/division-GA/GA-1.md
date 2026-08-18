@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if an arrangement is void under section BG 1 (Tax avoidance).
+**(1)** This section applies if an arrangement is void under section BG 1 (Tax avoidance).
 
 **Commissioner's general power**
 
-**(2)**  The Commissioner may adjust the taxable income of a person affected by the arrangement in a way the Commissioner thinks appropriate, in order to counteract a tax advantage obtained by the person from or under the arrangement.
+**(2)** The Commissioner may adjust the taxable income of a person affected by the arrangement in a way the Commissioner thinks appropriate, in order to counteract a tax advantage obtained by the person from or under the arrangement.
 
 **Commissioner's specific power over tax credits**
 
-**(3)**  The Commissioner may—
+**(3)** The Commissioner may—
 
 - (a) disallow some or all of a tax credit of a person affected by the arrangement; or
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Commissioner's identification of hypothetical situation**
 
-**(4)**  When applying subsections (2) and (3), the Commissioner may have regard to 1 or more of the amounts listed in subsection (5) which, in the Commissioner's opinion, had the arrangement not occurred, the person—
+**(4)** When applying subsections (2) and (3), the Commissioner may have regard to 1 or more of the amounts listed in subsection (5) which, in the Commissioner's opinion, had the arrangement not occurred, the person—
 
 - (a) would have had; or
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Reconstructed amounts**
 
-**(5)**  The amounts referred to in subsection (4) are—
+**(5)** The amounts referred to in subsection (4) are—
 
 - (a) an amount of income of the person:
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **No double counting**
 
-**(6)**  When applying subsection (2), if the Commissioner includes an amount of income or deduction in calculating the taxable income of the person, it must not be included in calculating the taxable income of another person.
+**(6)** When applying subsection (2), if the Commissioner includes an amount of income or deduction in calculating the taxable income of the person, it must not be included in calculating the taxable income of another person.
 
 **Meaning of tax credit**
 
-**(7)**  In this section, tax credit means a reduction in the tax a person must pay because of—
+**(7)** In this section, tax credit means a reduction in the tax a person must pay because of—
 
 - (a) a credit allowed for a payment by the person of an amount of tax or of another item; or
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person carries on a farming or agricultural business, including a horticultural business, on land in New Zealand; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Deduction and timing**
 
-**(2)**  For an income year in which the planting benefits the business and for which subsection (3) does not apply, the person is allowed a deduction relating to expenditure incurred by the person, or by another person, in developing the land.
+**(2)** For an income year in which the planting benefits the business and for which subsection (3) does not apply, the person is allowed a deduction relating to expenditure incurred by the person, or by another person, in developing the land.
 
 **Income year in which no deduction**
 
-**(3)**  The person is denied a deduction under subsection (2) for an income year in which—
+**(3)** The person is denied a deduction under subsection (2) for an income year in which—
 
 - (a) if the person owns the land, the person disposes of the land:
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Amount of deduction other than under subsections (6) and (7)**
 
-**(4)**  For expenditure to which subsections (6) and (7) do not apply for the income year, the amount of the deduction under subsection (2) is calculated using the formula— rate × diminished value.
+**(4)** For expenditure to which subsections (6) and (7) do not apply for the income year, the amount of the deduction under subsection (2) is calculated using the formula— rate × diminished value.
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) rate is the percentage rate determined for the kind of listed horticultural plant by the Commissioner under section 91AAB of the Tax Administration Act 1994:
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Deduction: expenditure on replaced plant if no deduction under section DO 6**
 
-**(6)**  If a listed horticultural plant in a planting of the person ceases in an income year to exist or to be used in deriving assessable income and the person has no deduction under section DO 6 for the income year for the expenditure incurred in replacing the listed horticultural plant,—
+**(6)** If a listed horticultural plant in a planting of the person ceases in an income year to exist or to be used in deriving assessable income and the person has no deduction under section DO 6 for the income year for the expenditure incurred in replacing the listed horticultural plant,—
 
 - (a) the person is allowed a deduction:
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Treatment of expenditure on replaced plant if deduction under section DO 6**
 
-**(7)**  If a listed horticultural plant in a planting of the person ceases in an income year to exist or to be used in deriving assessable income and the person is allowed a deduction under section DO 6 for the income year for all or some of the expenditure incurred in replacing the listed horticultural plant,—
+**(7)** If a listed horticultural plant in a planting of the person ceases in an income year to exist or to be used in deriving assessable income and the person is allowed a deduction under section DO 6 for the income year for all or some of the expenditure incurred in replacing the listed horticultural plant,—
 
 - (a) the person is not allowed a deduction under this section; and
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(8)**  This section overrides the general permission and the capital limitation. The other general limitations still apply.
+**(8)** This section overrides the general permission and the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: assessable income, business, capital limitation, deduction, diminished value, general limitation, general permission, income year, listed horticultural plant, planting, return of income*
 

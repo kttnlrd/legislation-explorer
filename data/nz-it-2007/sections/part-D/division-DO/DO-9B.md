@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  In section DB 46 (Avoiding, remedying, or mitigating effects of discharge of contaminant or making of noise), sections DO 4, DO 5, DO 11, DO 12, DO 13, DP 3, DP 4, DZ 17, DZ 18, and schedule 20 (which relate to improvements to land and aquacultural business), diminished value, for an income year, means the amount calculated using the formula— amount of expenditure + income derived − deductions allowed.
+**(1)** In section DB 46 (Avoiding, remedying, or mitigating effects of discharge of contaminant or making of noise), sections DO 4, DO 5, DO 11, DO 12, DO 13, DP 3, DP 4, DZ 17, DZ 18, and schedule 20 (which relate to improvements to land and aquacultural business), diminished value, for an income year, means the amount calculated using the formula— amount of expenditure + income derived − deductions allowed.
 
 **Definition of items in formula**
 
-**(2)**  In the formula in subsection (1),—
+**(2)** In the formula in subsection (1),—
 
 - (a) amount of expenditure is the amount of expenditure incurred—
 

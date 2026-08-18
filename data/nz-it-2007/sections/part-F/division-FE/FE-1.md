@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Interest adjustment**
 
-**(1)**  This subpart applies to adjust the effective level of interest deductions for a New Zealand taxpayer by treating the taxpayer as deriving income—
+**(1)** This subpart applies to adjust the effective level of interest deductions for a New Zealand taxpayer by treating the taxpayer as deriving income—
 
 - (a) if the taxpayer is not a foreign-owned bank and the level of debt in New Zealand of the taxpayer's New Zealand group (identified in sections FE 3 or FE 25 to FE 30) is disproportionately high, either by comparison with the total level of debt worldwide of the taxpayer's worldwide group (identified in sections FE 31 to FE 32) or, in some situations, by comparison with the level of the taxpayer's debt in New Zealand arising from debt funding provided by third parties, and the taxpayer—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Structure of subpart**
 
-**(2)**  This subpart sets out—
+**(2)** This subpart sets out—
 
 - (a) the persons to whom the interest apportionment rules may apply:
 

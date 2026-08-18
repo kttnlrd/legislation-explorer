@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of mining operations**
 
-**(1)**  Mining operations means operations that—
+**(1)** Mining operations means operations that—
 
 - (a) are carried on by a mineral miner in a permit area in New Zealand for the purpose of deriving income; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Meaning of associated mining operations**
 
-**(2)**  Associated mining operations means operations that—
+**(2)** Associated mining operations means operations that—
 
 - (a) are carried on in New Zealand in association with mining operations; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Meaning of initial treatment**
 
-**(3)**  For the purposes of subsection (2)﻿(b)﻿(ii), initial treatment—
+**(3)** For the purposes of subsection (2)﻿(b)﻿(ii), initial treatment—
 
 - (a) means—
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Background, scheme, and effect of subpart**
 
-**(1)**  This section and section FH 2 are intended to be a guide to the background and general scheme and effect of this subpart.
+**(1)** This section and section FH 2 are intended to be a guide to the background and general scheme and effect of this subpart.
 
 **OECD recommendations**
 
-**(2)**  This subpart implements recommendations, for the domestic law of countries and territories, that are made by the OECD in the hybrid mismatch report and the branch mismatch report (the reports) and are intended to be implemented as rules neutralising certain mismatches—
+**(2)** This subpart implements recommendations, for the domestic law of countries and territories, that are made by the OECD in the hybrid mismatch report and the branch mismatch report (the reports) and are intended to be implemented as rules neutralising certain mismatches—
 
 - (a) arising from arrangements called hybrid mismatch arrangements and branch mismatch arrangements in the reports; and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Recommendations for primary and defensive rules**
 
-**(3)**  If 2 rules are recommended by a report for a situation, the recommended rules are called primary and defensive by the report, which states that the defensive rule should not apply to the situation except if the country or territory in the position to apply the recommended primary rule has not implemented the recommendation.
+**(3)** If 2 rules are recommended by a report for a situation, the recommended rules are called primary and defensive by the report, which states that the defensive rule should not apply to the situation except if the country or territory in the position to apply the recommended primary rule has not implemented the recommendation.
 
 **Implementation of individual recommendations**
 
-**(4)**  In this subpart,—
+**(4)** In this subpart,—
 
 - (a) section FH 3 implements the primary version of the rule for recommendation 1 of the hybrid mismatch report, called the hybrid financial instrument rule in the report:
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Additional rules**
 
-**(5)**  In addition to the recommended rules,—
+**(5)** In addition to the recommended rules,—
 
 - (a) section FH 12 provides for the setting off, against amounts called surplus assessable income, of amounts called mismatch amounts that arise under several of the sections and, until set off, represent deductions denied or assessable income derived:
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Definitions**
 
-**(6)**  Section FH 15 contains definitions for the purpose of the Act of some terms used in the reports and of terms used in the Act that differ from terms used in the reports, including—
+**(6)** Section FH 15 contains definitions for the purpose of the Act of some terms used in the reports and of terms used in the Act that differ from terms used in the reports, including—
 
 - (a) "deducting branch", which refers to the activities to which the recommendations of the branch mismatch report are intended to apply:
 
@@ -76,7 +76,7 @@ compilation_date: 2026-06-06
 
 **Variations of recommendations**
 
-**(7)**  Variations of the implementing provisions from details of the recommendations in the report are intended to assist in the implementation and application of the recommendations.
+**(7)** Variations of the implementing provisions from details of the recommendations in the report are intended to assist in the implementation and application of the recommendations.
 
 *Defined in this Act: arrangement, assessable income, deducting branch, deduction, financial arrangement, hybrid entity, hybrid mismatch report, income, mismatch amount, mismatch situation, share, surplus assessable income*
 

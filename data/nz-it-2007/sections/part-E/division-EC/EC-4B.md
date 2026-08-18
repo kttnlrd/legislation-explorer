@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if, in an income year (the current year), a person (the transferor) disposes of livestock of a type for which they use the herd scheme (the transfer) to an associated person (the transferee), and the transfer is not in the ordinary course of business.
+**(1)** This section applies if, in an income year (the current year), a person (the transferor) disposes of livestock of a type for which they use the herd scheme (the transfer) to an associated person (the transferee), and the transfer is not in the ordinary course of business.
 
 **When this section does not apply**
 
-**(2)**  This section does not apply to the transfer of livestock if,—
+**(2)** This section does not apply to the transfer of livestock if,—
 
 - (a) the transferor and the transferee would not be associated if the transferee or an associate were not the descendants in relation to the transferor or an associate of the transferor; and
 
@@ -30,19 +30,19 @@ compilation_date: 2026-06-06
 
 **When this section does not apply: deceased treated as alive and transferor**
 
-**(3)**  This section does not apply if it would not apply treating a transfer of livestock to or from the estate of a deceased or under a will of a deceased as a transfer made by the deceased immediately before their death to the relevant transferee. However, this subsection does not apply if the will of the deceased creates a life interest in the relevant livestock.
+**(3)** This section does not apply if it would not apply treating a transfer of livestock to or from the estate of a deceased or under a will of a deceased as a transfer made by the deceased immediately before their death to the relevant transferee. However, this subsection does not apply if the will of the deceased creates a life interest in the relevant livestock.
 
 **Compulsory use of herd scheme method**
 
-**(4)**  Despite sections EC 7(2), EC 12(1), EC 22(1), and EC 25(1), the transferee is treated as choosing and giving a notice of election, with application beginning for the current year, to use the herd scheme for a type of livestock, if the formula in subsection (5) calculates zero or a positive amount for a class in the type of livestock.
+**(4)** Despite sections EC 7(2), EC 12(1), EC 22(1), and EC 25(1), the transferee is treated as choosing and giving a notice of election, with application beginning for the current year, to use the herd scheme for a type of livestock, if the formula in subsection (5) calculates zero or a positive amount for a class in the type of livestock.
 
 **Formula**
 
-**(5)**  The formula, for the purposes of subsections (1) and (4), is— hypothetical end herd scheme amount − minimum herd scheme amount.
+**(5)** The formula, for the purposes of subsections (1) and (4), is— hypothetical end herd scheme amount − minimum herd scheme amount.
 
 **Definition of items in formula**
 
-**(6)**  In the formula,—
+**(6)** In the formula,—
 
 - (a) hypothetical end herd scheme amount is the lesser of the following 2 amounts, or the first amount if they are the same:
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Definitions**
 
-**(7)**  In this section,—
+**(7)** In this section,—
 
 - (a) descendant means the son, daughter, or grandchild of the transferor or of an associate of the transferor:
 

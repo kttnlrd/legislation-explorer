@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section supplements the general rules relating to the grouping of net losses when, for a tax year (the current tax year), a company (company A) that is part of a group of companies has an amount—
+**(1)** This section supplements the general rules relating to the grouping of net losses when, for a tax year (the current tax year), a company (company A) that is part of a group of companies has an amount—
 
 - (a) of attributed CFC net loss for the current tax year or carried forward from an earlier tax year, or FIF net loss for the current tax year or carried forward from an earlier tax year; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Modifications to general rules for grouping net losses**
 
-**(2)**  For determining whether company A may make available an amount of attributed CFC net loss or FIF net loss to another company (company B) in the group of companies, the general rules relating to the grouping of net losses are modified as follows:
+**(2)** For determining whether company A may make available an amount of attributed CFC net loss or FIF net loss to another company (company B) in the group of companies, the general rules relating to the grouping of net losses are modified as follows:
 
 - (a) the group of companies must be a wholly-owned group of companies; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Ring-fencing cap rule modified**
 
-**(3)**  The amount of attributed CFC net loss or FIF net loss that company A may make available to company B in the tax year is limited by the following:
+**(3)** The amount of attributed CFC net loss or FIF net loss that company A may make available to company B in the tax year is limited by the following:
 
 - (a) the total amount made available by company A to group companies must not exceed the amount referred to in subsection (1); and
 

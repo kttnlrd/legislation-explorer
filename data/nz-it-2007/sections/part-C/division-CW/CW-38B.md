@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Exempt income: sinking funds**
 
-**(1)**  An amount of income derived from sinking funds relating to the debt of a public purpose Crown-controlled company is exempt income.
+**(1)** An amount of income derived from sinking funds relating to the debt of a public purpose Crown-controlled company is exempt income.
 
 **Exempt income: other income**
 
-**(2)**  Any other amount of income derived by a public purpose Crown-controlled company is exempt income.
+**(2)** Any other amount of income derived by a public purpose Crown-controlled company is exempt income.
 
 **Orders in Council**
 
-**(4)**  The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, amend schedule 35—
+**(4)** The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, amend schedule 35—
 
 - (a) to add the name of a company that meets the following criteria:
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **When Minister of Revenue must recommend Order in Council under subsection (4)﻿(c)**
 
-**(5)**  The Minister of Revenue must recommend that an Order in Council be made to remove the name of a company from schedule 35 if the Minister is satisfied that—
+**(5)** The Minister of Revenue must recommend that an Order in Council be made to remove the name of a company from schedule 35 if the Minister is satisfied that—
 
 - (a) the company has been removed from the register of companies kept under the Companies Act 1993; or
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Secondary legislation**
 
-**(6)**  An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+**(6)** An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 *Defined in this Act: amount, company, exempt income, group of persons, income, income tax, local authority, public purpose Crown-controlled company, trustee, voting interest*
 

@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person makes a forestry encouragement agreement under the Forestry Encouragement Act 1962.
+**(1)** This section applies when a person makes a forestry encouragement agreement under the Forestry Encouragement Act 1962.
 
 **Exempt income: advance**
 
-**(2)**  An amount of income advanced to the person under the agreement is exempt income, even if the person is later relieved from some or all of their liability to repay the principal.
+**(2)** An amount of income advanced to the person under the agreement is exempt income, even if the person is later relieved from some or all of their liability to repay the principal.
 
 **Exempt income: interest**
 
-**(3)**  The amount from which the person is relieved in the circumstances described in subsection (4) is exempt income.
+**(3)** The amount from which the person is relieved in the circumstances described in subsection (4) is exempt income.
 
 **Circumstances for purposes of subsection (3)**
 
-**(4)**  The circumstances are that—
+**(4)** The circumstances are that—
 
 - (a) the person is liable to pay interest on an advance made under the agreement; and
 

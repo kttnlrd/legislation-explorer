@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person incurs expenditure relating to a building.
+**(1)** This section applies when a person incurs expenditure relating to a building.
 
 **Determining whether expenditure of capital nature**
 
-**(2)**  For the purpose of determining whether the expenditure is capital in nature, expenditure relating to an item of commercial fit-out for the building is treated as not relating to the building.
+**(2)** For the purpose of determining whether the expenditure is capital in nature, expenditure relating to an item of commercial fit-out for the building is treated as not relating to the building.
 
 *Defined in this Act: commercial fit-out*
 

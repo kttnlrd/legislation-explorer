@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a lessee of land incurs expenditure during the period during which the land is leased to the lessee in erecting a fixture on the land or making an improvement to the land; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Ownership of fixture or improvement**
 
-**(2)**  The following apply to the ownership of the fixture or improvement:
+**(2)** The following apply to the ownership of the fixture or improvement:
 
 - (a) in the period during which the land is leased to the lessee,—
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section CB 25 (Disposal of land with standing timber) when—
+**(1)** This section applies for the purposes of section CB 25 (Disposal of land with standing timber) when—
 
 - (a) land with standing timber on it is transferred on a settlement of relationship property; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Transfer at cost of timber at date of transfer**
 
-**(2)**  The transfer is treated as if—
+**(2)** The transfer is treated as if—
 
 - (a) it were a disposal and acquisition for consideration; and
 

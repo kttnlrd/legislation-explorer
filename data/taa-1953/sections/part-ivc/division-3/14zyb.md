@@ -17,20 +17,20 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s14ZYB-1"></a>
-**(1)**  This section applies if the taxation objection is an objection under subsection 155-30(2) or 359-50(3) in Schedule 1 and the Commissioner has not made an objection decision by the end of 60 days after the later of these days:
+**(1)** This section applies if the taxation objection is an objection under subsection 155-30(2) or 359-50(3) in Schedule 1 and the Commissioner has not made an objection decision by the end of 60 days after the later of these days:
 
 > <a id="s14ZYB-1-a"></a>
-> **(a)**  the day on which the taxation objection was lodged with the Commissioner;
+> **(a)** the day on which the taxation objection was lodged with the Commissioner;
 
 > <a id="s14ZYB-1-b"></a>
-> **(b)**  if the Commissioner decides under section 14ZX to agree to a request in relation to the taxation objection—the day on which the decision was made.
+> **(b)** if the Commissioner decides under section 14ZX to agree to a request in relation to the taxation objection—the day on which the decision was made.
 
-> **Note:** Subsection 155-30(2) provides for objections against the Commissioner’s failure to make an assessment of an assessable amount.
+> **Note:** Subsection 155-30(2) provides for objections against the Commissioner's failure to make an assessment of an assessable amount.
 
-> **Note:** Subsection 359-50(3) provides for objections against the Commissioner’s failure to make a private ruling.
+> **Note:** Subsection 359-50(3) provides for objections against the Commissioner's failure to make a private ruling.
 
 <a id="s14ZYB-2"></a>
-**(2)**  The Commissioner is taken, at the end of that 60 day period, to have disallowed the objection.
+**(2)** The Commissioner is taken, at the end of that 60 day period, to have disallowed the objection.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

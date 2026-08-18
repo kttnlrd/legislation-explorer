@@ -12,23 +12,23 @@ compilation_date: 2026-06-06
 
 **Asset by asset**
 
-**(1)**  The rules in this subpart apply on an asset by asset basis.
+**(1)** The rules in this subpart apply on an asset by asset basis.
 
 **Relationship with sections DB 5, DB 7, and DB 8**
 
-**(2)**  The rules in this subpart override sections DB 5, DB 7, and DB 8 (which relate to deductions for financing expenditure) in relation to expenditure that this subpart applies to.
+**(2)** The rules in this subpart override sections DB 5, DB 7, and DB 8 (which relate to deductions for financing expenditure) in relation to expenditure that this subpart applies to.
 
 **Relationship with subpart DD**
 
-**(3)**  Subpart DD (Entertainment expenditure) does not apply to expenditure incurred in relation to the private use of an asset to which this subpart applies.
+**(3)** Subpart DD (Entertainment expenditure) does not apply to expenditure incurred in relation to the private use of an asset to which this subpart applies.
 
 **Relationship with FBT rules and dividend rules**
 
-**(4)**  No liability to pay fringe benefit tax arises from the private use of an asset to which this subpart applies. In circumstances where section CX 17 (Benefits provided to employees who are shareholders or investors) applies to a company to which this subpart also applies, the company must choose to treat a non-cash benefit referred to in that section as a dividend.
+**(4)** No liability to pay fringe benefit tax arises from the private use of an asset to which this subpart applies. In circumstances where section CX 17 (Benefits provided to employees who are shareholders or investors) applies to a company to which this subpart also applies, the company must choose to treat a non-cash benefit referred to in that section as a dividend.
 
 **Application to groups of and interests in companies**
 
-**(5)**  For the purposes of this subpart,—
+**(5)** For the purposes of this subpart,—
 
 - (a) a group of companies is treated as a wholly-owned group of companies:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Rules for identifying voting and market value interests**
 
-**(6)**  In this subpart,—
+**(6)** In this subpart,—
 
 - (a) for the purposes of determining the extent to which a company (company A) has a voting interest or market value interest in another company (company B), the look-through rule in section YC 4 (Look-through rule for corporate shareholders) does not apply to treat company A's voting interest or market value interest as held by company A's shareholders or anyone else; and
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies and section EW 15C(1) does not apply when—
+**(1)** This section applies and section EW 15C(1) does not apply when—
 
 - (a) a person is not required to use a method under section EW 15H for a financial arrangement; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Methods**
 
-**(2)**  The person must use 1 of the following methods to allocate an amount to an income year if the method is available under its terms for the person to use:
+**(2)** The person must use 1 of the following methods to allocate an amount to an income year if the method is available under its terms for the person to use:
 
 - (a) the yield to maturity method:
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Meaning of equity instrument**
 
-**(3)**  For the purposes of this section, equity instrument has the same meaning as in NZIAS 32.
+**(3)** For the purposes of this section, equity instrument has the same meaning as in NZIAS 32.
 
 *Defined in this Act: agreement for the sale and purchase of property or services, amount, binding ruling, Commissioner, equity instrument, excepted financial arrangement, financial arrangement, financial arrangements rules, foreign ASAP, IFRS, income year, issue, life financial reinsurance, NZ IFRS 16, NZIAS 32*
 

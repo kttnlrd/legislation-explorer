@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person is paid an annuity under a life insurance policy offered or entered into in New Zealand by a life insurer; or
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(2)**  The annuity is exempt income.
+**(2)** The annuity is exempt income.
 
 **Excluded annuities**
 
-**(3)**  An annuity that is excluded income of a superannuation fund under section CX 40 (Superannuation fund deriving amount from life insurance policy) is not also exempt income of the fund under this section.
+**(3)** An annuity that is excluded income of a superannuation fund under section CX 40 (Superannuation fund deriving amount from life insurance policy) is not also exempt income of the fund under this section.
 
 *Defined in this Act: excluded income, exempt income, life insurance policy, life insurer, New Zealand, offered or entered into in New Zealand, pay, resident in New Zealand, superannuation fund*
 

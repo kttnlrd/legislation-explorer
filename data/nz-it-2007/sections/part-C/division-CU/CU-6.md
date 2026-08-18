@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Mineral miner means a person to which 1 of the following applies:
+**(1)** Mineral miner means a person to which 1 of the following applies:
 
 - (a) the person's only source of income is the business described in subsection (2); or
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Business**
 
-**(2)**  The business referred to in subsection (1)﻿(a) and (b) is the business of mining a listed industrial mineral in New Zealand.
+**(2)** The business referred to in subsection (1)﻿(a) and (b) is the business of mining a listed industrial mineral in New Zealand.
 
 **Activities**
 
-**(3)**  The activities referred to in subsection (1)﻿(c), (d), and (e) are—
+**(3)** The activities referred to in subsection (1)﻿(c), (d), and (e) are—
 
 - (a) exploring, searching, or mining for a listed industrial mineral in New Zealand; or
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Service for reward**
 
-**(4)**  An activity described in subsection (3) does not include an activity done or to be done as a service to another person for reward unless the reward—
+**(4)** An activity described in subsection (3) does not include an activity done or to be done as a service to another person for reward unless the reward—
 
 - (a) is wholly or mainly related to and dependent on the production of the listed industrial mineral; or
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Financial statements required from company: section IP 3**
 
-**(1)**  For the purposes of this subpart, a company must provide the Commissioner with adequate financial statements under section IP 3(2)﻿(c) and (4)﻿(b) relating to the continuity period.
+**(1)** For the purposes of this subpart, a company must provide the Commissioner with adequate financial statements under section IP 3(2)﻿(c) and (4)﻿(b) relating to the continuity period.
 
 **Financial statements required from company: section IP 3B**
 
@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 **Financial statements required from company A: section IP 4**
 
-**(2)**  For the purposes of this subpart, company A must provide the Commissioner with adequate financial statements under section IP 4(2)﻿(c) relating to the common span, calculating the amount of the tax loss component, determined on a fair and reasonable basis of attribution.
+**(2)** For the purposes of this subpart, company A must provide the Commissioner with adequate financial statements under section IP 4(2)﻿(c) relating to the common span, calculating the amount of the tax loss component, determined on a fair and reasonable basis of attribution.
 
 **Financial statements required from company B: sections IP 4 and IP 5**
 
-**(3)**  For the purposes of this subpart, company B must provide the Commissioner with adequate financial statements under sections IP 4(2)﻿(c) and IP 5(2)﻿(c) relating to the common span, calculating the amount of the net income in the common span, determined on a fair and reasonable basis of attribution.
+**(3)** For the purposes of this subpart, company B must provide the Commissioner with adequate financial statements under sections IP 4(2)﻿(c) and IP 5(2)﻿(c) relating to the common span, calculating the amount of the net income in the common span, determined on a fair and reasonable basis of attribution.
 
 **Different balance dates**
 
-**(4)**  For the purposes of subsections (2) and (3), if the balance dates of company A and company B differ, the common span is taken as the period of time in the tax year in which the tax loss or loss balance is used—
+**(4)** For the purposes of subsections (2) and (3), if the balance dates of company A and company B differ, the common span is taken as the period of time in the tax year in which the tax loss or loss balance is used—
 
 - (a) that includes, but is not limited to, all or part of the tax year in which company A is in the same group of companies as company B; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Applying provisions to part-year periods**
 
-**(5)**  In preparing the financial statements described in this section, the company must, to the extent possible, apply the provisions of this Act to the common span as if it were a tax year.
+**(5)** In preparing the financial statements described in this section, the company must, to the extent possible, apply the provisions of this Act to the common span as if it were a tax year.
 
 *Defined in this Act: amount, Commissioner, common span, company, continuity period, group of companies, loss balance, net income, notify, tax loss, tax loss component, tax year*
 

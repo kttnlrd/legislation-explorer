@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person (the interest holder) with an interest in a CFC is applying section EX 21E (Non-attributing active CFC: Test based on accounting standard) for an accounting period to determine whether the CFC is a non-attributing active CFC for the person; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Former generally accepted accounting practice without IFRS for CFC**
 
-**(2)**  The interest holder may use former generally accepted accounting practice without IFRS for the CFC and the accounting period if the interest holder or another person is a company resident in New Zealand that—
+**(2)** The interest holder may use former generally accepted accounting practice without IFRS for the CFC and the accounting period if the interest holder or another person is a company resident in New Zealand that—
 
 - (a) has no revenue under former Financial Reporting Standard 34 and former Financial Reporting Standard 35; and
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Former generally accepted accounting practice without IFRS for CFC's test group**
 
-**(3)**  The interest holder may use former generally accepted accounting practice without IFRS for the CFC's test group under section EX 21D(1) (Non-attributing active CFC: default test) if the interest holder or another person is a company resident in New Zealand that—
+**(3)** The interest holder may use former generally accepted accounting practice without IFRS for the CFC's test group under section EX 21D(1) (Non-attributing active CFC: default test) if the interest holder or another person is a company resident in New Zealand that—
 
 - (a) has no revenue under former Financial Reporting Standard 34 and former Financial Reporting Standard 35; and
 
@@ -76,7 +76,7 @@ compilation_date: 2026-06-06
 
 **Terms relating to generally accepted accounting practice before repeal of Financial Reporting Act 1993**
 
-**(4)**  In this section and section EX 21E,— former Financial Reporting Act means the Financial Reporting Act 1993— (a) as it was before being repealed under the Financial Reporting Act 2013; and (b) treated as if it applied to resident companies for the purposes of this section and section EX 21E former Financial Reporting Standard 34 means the Financial Reporting Standard 34 issued under the former Financial Reporting Act as the standard was before the repeal of the Financial Reporting Act 1993 under the Financial Reporting Act 2013 former Financial Reporting Standard 35 means the Financial Reporting Standard 35 issued under the former Financial Reporting Act as the standard was before the repeal of the Financial Reporting Act 1993 under the Financial Reporting Act 2013 former financial reporting standards without IFRS means the financial reporting standards, other than IFRSs, approved or issued under the former Financial Reporting Act 1993 as the standards were before the repeal of the Financial Reporting Act 1993 under the Financial Reporting Act 2013 former generally accepted accounting practice without IFRS means the generally accepted accounting practice in New Zealand,— (a) as the practice was before the repeal of the Financial Reporting Act 1993 under the Financial Reporting Act 2013; and (b) for persons who under the former Financial Reporting Act are not required to use IFRS but are required to comply with the former financial reporting standards without IFRS generally accepted accounting practice with IFRS means the generally accepted accounting practice in New Zealand including IFRSs and the framework for differential reporting for entities applying the New Zealand equivalents to the international financial standards reporting regime.
+**(4)** In this section and section EX 21E,— former Financial Reporting Act means the Financial Reporting Act 1993— (a) as it was before being repealed under the Financial Reporting Act 2013; and (b) treated as if it applied to resident companies for the purposes of this section and section EX 21E former Financial Reporting Standard 34 means the Financial Reporting Standard 34 issued under the former Financial Reporting Act as the standard was before the repeal of the Financial Reporting Act 1993 under the Financial Reporting Act 2013 former Financial Reporting Standard 35 means the Financial Reporting Standard 35 issued under the former Financial Reporting Act as the standard was before the repeal of the Financial Reporting Act 1993 under the Financial Reporting Act 2013 former financial reporting standards without IFRS means the financial reporting standards, other than IFRSs, approved or issued under the former Financial Reporting Act 1993 as the standards were before the repeal of the Financial Reporting Act 1993 under the Financial Reporting Act 2013 former generally accepted accounting practice without IFRS means the generally accepted accounting practice in New Zealand,— (a) as the practice was before the repeal of the Financial Reporting Act 1993 under the Financial Reporting Act 2013; and (b) for persons who under the former Financial Reporting Act are not required to use IFRS but are required to comply with the former financial reporting standards without IFRS generally accepted accounting practice with IFRS means the generally accepted accounting practice in New Zealand including IFRSs and the framework for differential reporting for entities applying the New Zealand equivalents to the international financial standards reporting regime.
 
 *Defined in this Act: accounting period, CFC, company, former Financial Reporting Act, former Financial Reporting Standard 34, former Financial Reporting Standard 35, former financial reporting standards without IFRS, former generally accepted accounting practice without IFRS, generally accepted accounting practice, generally accepted accounting practice with IFRS, IFRS, non-attributing active CFC, resident in New Zealand*
 

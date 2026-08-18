@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a company that is part of a wholly-owned group of companies (company A) transfers to another company in the same group (company B) an excepted financial arrangement that is revenue account property of company A; and
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Transfer at cost**
 
-**(2)**  The consideration for the transfer is treated as being equal to the cost of the excepted financial arrangement to company A.
+**(2)** The consideration for the transfer is treated as being equal to the cost of the excepted financial arrangement to company A.
 
 **Company stops being part of group**
 
-**(3)**  If company B stops being part of the wholly-owned group, the company is treated as disposing of and reacquiring the excepted financial arrangement at its market value at the time the company stops being part of the group.
+**(3)** If company B stops being part of the wholly-owned group, the company is treated as disposing of and reacquiring the excepted financial arrangement at its market value at the time the company stops being part of the group.
 
 **Not dividend**
 
-**(4)**  A transfer of an excepted financial arrangement to which this section applies does not give rise to a dividend.
+**(4)** A transfer of an excepted financial arrangement to which this section applies does not give rise to a dividend.
 
 *Defined in this Act: company, dividend, excepted financial arrangement, resident in New Zealand, revenue account property, wholly-owned group of companies*
 

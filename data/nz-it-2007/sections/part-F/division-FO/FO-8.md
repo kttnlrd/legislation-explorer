@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an amalgamating company ends its existence on a resident's restricted amalgamation, and the amalgamated company at any time—
+**(1)** This section applies when an amalgamating company ends its existence on a resident's restricted amalgamation, and the amalgamated company at any time—
 
 - (a) writes off as bad the amount of a debt that it acquires from the amalgamating company at the time of the amalgamation; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Deduction of amalgamated company**
 
-**(2)**  The amalgamated company is allowed a deduction under section DV 15(2) (Amalgamated companies: property passing on resident's restricted amalgamation) for the amount if—
+**(2)** The amalgamated company is allowed a deduction under section DV 15(2) (Amalgamated companies: property passing on resident's restricted amalgamation) for the amount if—
 
 - (a) the amalgamating company would have been allowed the deduction but for the amalgamation; and
 

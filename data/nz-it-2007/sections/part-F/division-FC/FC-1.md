@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Types of distributions and gifts**
 
-**(1)**  This subpart provides a value for property that is disposed of under the transactions referred to in section FC 10 and under transactions that are—
+**(1)** This subpart provides a value for property that is disposed of under the transactions referred to in section FC 10 and under transactions that are—
 
 - (a) the transfer of a person's estate to an executor or administrator on the death of the person:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(2)**  In this subpart,— close relative, in relation to a transfer from a person's estate, means— (a) a surviving spouse, civil union partner, or de facto partner of the deceased person: (b) a person who is within the second degree of relationship to the deceased person property includes a look-through interest for a look-through company tax-base property means— (a) revenue account property: (b) an attributing interest in a foreign investment fund (FIF): (c) a financial arrangement other than an arrangement for which the deceased person, or their trustee, was a cash basis person: (d) an item for which a deduction for an amount of depreciation loss arises.
+**(2)** In this subpart,— close relative, in relation to a transfer from a person's estate, means— (a) a surviving spouse, civil union partner, or de facto partner of the deceased person: (b) a person who is within the second degree of relationship to the deceased person property includes a look-through interest for a look-through company tax-base property means— (a) revenue account property: (b) an attributing interest in a foreign investment fund (FIF): (c) a financial arrangement other than an arrangement for which the deceased person, or their trustee, was a cash basis person: (d) an item for which a deduction for an amount of depreciation loss arises.
 
 *Defined in this Act: amount, attributing interest, cash basis person, company, deduction, de facto partner, depreciation loss, FIF, financial arrangement, look-through company, look-through interest, property, revenue account property, settlement, trading stock, transfer of company value, trustee*
 

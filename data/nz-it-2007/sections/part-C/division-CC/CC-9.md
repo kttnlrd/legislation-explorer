@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  A royalty derived by a person is income of the person.
+**(1)** A royalty derived by a person is income of the person.
 
 **Meaning of royalty**
 
-**(2)**  Royalty includes a payment of any kind derived as consideration for—
+**(2)** Royalty includes a payment of any kind derived as consideration for—
 
 - (a) the use of, or right to use, a copyright, patent, plant variety rights, trademark, design or model, plan, secret formula or process, or other similar property or right:
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Relevance of description of payment**
 
-**(3)**  For the purposes of subsection (2), none of the following is relevant:
+**(3)** For the purposes of subsection (2), none of the following is relevant:
 
 - (a) how the payment is described or computed:
 

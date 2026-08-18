@@ -17,16 +17,16 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s8AAB-1"></a>
-**(1)**  There are certain provisions of this Act and other Acts that make persons liable to pay the general interest charge. Subsection (4) lists the provisions.
+**(1)** There are certain provisions of this Act and other Acts that make persons liable to pay the general interest charge. Subsection (4) lists the provisions.
 
 <a id="s8AAB-2"></a>
-**(2)**  A person is only liable to pay the charge on an amount if a provision specifies that the person is liable to pay the charge on the amount.
+**(2)** A person is only liable to pay the charge on an amount if a provision specifies that the person is liable to pay the charge on the amount.
 
 <a id="s8AAB-3"></a>
-**(3)**  The charge does not apply to the Commonwealth or an authority of the Commonwealth.
+**(3)** The charge does not apply to the Commonwealth or an authority of the Commonwealth.
 
 <a id="s8AAB-4"></a>
-**(4)**  The following table is an index of the laws that deal with liability to the charge.
+**(4)** The following table is an index of the laws that deal with liability to the charge.
 
 **Liability to general interest charge**
 
@@ -97,11 +97,11 @@ source_pdf: "vol01.pdf"
 | 28 | 49 | Superannuation Guarantee (Administration) Act 1992 | payment of superannuation guarantee charge |
 | 29 | 15DC | Superannuation (Self Managed Superannuation Funds) Taxation Act 1987 | payment of superannuation (self managed superannuation funds) supervisory levy |
 | 30 | 17A | Superannuation (Unclaimed Money and Lost Members) Act 1999 | payment of unclaimed money |
-| 31 | 18C | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner’s payment that cannot be credited to an account |
+| 31 | 18C | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner's payment that cannot be credited to an account |
 | 32 | 20F | Superannuation (Unclaimed Money and Lost Members) Act 1999 | payment of unclaimed superannuation of former temporary residents |
-| 33 | 20M | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner’s payment for former temporary resident that cannot be credited to an account |
+| 33 | 20M | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner's payment for former temporary resident that cannot be credited to an account |
 | 33A | 20QE | Superannuation (Unclaimed Money and Lost Members) Act 1999 | payment in respect of inactive low-balance accounts |
-| 33B | 20QL | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner’s payment in respect of inactive low-balance accounts that cannot |
+| 33B | 20QL | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner's payment in respect of inactive low-balance accounts that cannot |
 
 
 **Liability to general interest charge**
@@ -109,11 +109,11 @@ source_pdf: "vol01.pdf"
 | Item | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- | --- |
 | 33C | 21D | Superannuation (Unclaimed Money and Lost Members) Act 1999 | payment in respect of eligible rollover fund accounts |
-| 33D | 21H | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner’s payment in respect of eligible rollover fund accounts that cannot be credited to an account |
-| 33E | 22F | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner’s payment in respect of payments that cannot be credited to an account |
+| 33D | 21H | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner's payment in respect of eligible rollover fund accounts that cannot be credited to an account |
+| 33E | 22F | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner's payment in respect of payments that cannot be credited to an account |
 | 34 | 24F | Superannuation (Unclaimed Money and Lost Members) Act 1999 | payment in respect of lost member accounts |
-| 35 | 24L | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner’s payment for former lost member that cannot be credited to an account |
-| 35A | 24NB | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner’s payment for inactive low-balance accounts that cannot be credited to an active account |
+| 35 | 24L | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner's payment for former lost member that cannot be credited to an account |
+| 35A | 24NB | Superannuation (Unclaimed Money and Lost Members) Act 1999 | repayment of Commissioner's payment for inactive low-balance accounts that cannot be credited to an active account |
 | 36 | 8AAZF | Taxation Administration Act 1953 | RBA deficit debts |
 | 37 | 8AAZN | Taxation Administration Act 1953 | overpayments made by the Commissioner |
 | 38 | 16-80 in Schedule 1 | Taxation Administration Act 1953 | payment of PAYG withholding amounts |
@@ -129,7 +129,7 @@ source_pdf: "vol01.pdf"
 | 41 | 45-232 in Schedule 1 | Taxation Administration Act 1953 | shortfall in quarterly PAYG instalments worked out on the basis of estimated benchmark tax |
 | 42 | 45-235 in Schedule 1 | Taxation Administration Act 1953 | shortfall in annual PAYG instalments |
 | 43 | 45-600 and 45-620 in Schedule 1 | Taxation Administration Act 1953 | tax benefits relating to PAYG instalments |
-| 44 | 45-870 and 45-875 in Schedule 1 | Taxation Administration Act 1953 | head company’s liability on shortfall in quarterly PAYG instalments |
+| 44 | 45-870 and 45-875 in Schedule 1 | Taxation Administration Act 1953 | head company's liability on shortfall in quarterly PAYG instalments |
 | 45 | 105-80 in Schedule 1 | Taxation Administration Act 1953 | payment of a net fuel amount or an amount of indirect tax |
 | 45A | 115-10 in Schedule 1 | Taxation Administration Act 1953 | payment of major bank levy |
 | 45B | 125-10 in Schedule 1 | Taxation Administration Act 1953 | payment of Laminaria and Corallina decommissioning levy or shortfall interest charge |

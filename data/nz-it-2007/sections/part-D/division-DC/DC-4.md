@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person who is a partner in a partnership is allowed a deduction for their share of a payment made under a contract of service to a partner who personally and actively performs duties that—
+**(1)** A person who is a partner in a partnership is allowed a deduction for their share of a payment made under a contract of service to a partner who personally and actively performs duties that—
 
 - (a) are required to be performed in carrying on the business of the partnership; and
 
@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  This section does not apply to a partnership that is engaged wholly or mainly in investing money or in holding, or dealing in, shares, securities, investments, or estates or interests in land.
+**(2)** This section does not apply to a partnership that is engaged wholly or mainly in investing money or in holding, or dealing in, shares, securities, investments, or estates or interests in land.
 
 **Amount of deduction**
 
-**(3)**  The amount of the deduction is limited to the amount of the payment authorised by the contract of service and any bonus, whether or not the payment of a bonus is authorised by the contract.
+**(3)** The amount of the deduction is limited to the amount of the payment authorised by the contract of service and any bonus, whether or not the payment of a bonus is authorised by the contract.
 
 **Relationship with section GB 23**
 
-**(4)**  This section is overridden by section GB 23 (Excessive remuneration to relatives).
+**(4)** This section is overridden by section GB 23 (Excessive remuneration to relatives).
 
 **Relationship with section HG 2**
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Meaning of contract of service**
 
-**(5)**  In this section, contract of service, for a partner and a partnership, means an agreement that—
+**(5)** In this section, contract of service, for a partner and a partnership, means an agreement that—
 
 - (a) specifies the terms and conditions of the services to be performed by the partner; and
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(6)**  This section supplements the general permission. The general limitations still apply.
+**(6)** This section supplements the general permission. The general limitations still apply.
 
 *Defined in this Act: amount, business, contract of service, deduction, estate, general limitation, general permission, interest, land, pay, share, supplement*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to an amount of income derived by a non-resident visitor from performing personal or professional services in New Zealand or an amount of income derived by a non-resident person that has a source in New Zealand under section YD 4(2) or (3) (Classes of income treated as having New Zealand source) if—
+**(1)** This section applies to an amount of income derived by a non-resident visitor from performing personal or professional services in New Zealand or an amount of income derived by a non-resident person that has a source in New Zealand under section YD 4(2) or (3) (Classes of income treated as having New Zealand source) if—
 
 - (a) the amount is not liable to tax in a country or territory outside New Zealand in accordance with section CW 22B(1)﻿(b) or CW 22C(1)﻿(b), as applicable, because the non-resident visitor has ceased to be either resident in that country or territory or liable to tax on the basis of citizenship; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Amount treated as liable to tax in foreign country or territory**
 
-**(2)**  For the purposes of section CW 22B(1)﻿(b) or CW 22C(1)﻿(b), as applicable, the amount derived is treated as being liable to tax in the country or territory outside New Zealand.
+**(2)** For the purposes of section CW 22B(1)﻿(b) or CW 22C(1)﻿(b), as applicable, the amount derived is treated as being liable to tax in the country or territory outside New Zealand.
 
 *Defined in this Act: amount, income, New Zealand, non-resident, non-resident visitor, tax*
 

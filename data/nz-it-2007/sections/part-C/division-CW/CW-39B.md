@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  An amount of income derived by a trustee of the Auckland Future Fund is exempt income.
+**(1)** An amount of income derived by a trustee of the Auckland Future Fund is exempt income.
 
 **Exclusion: certain amounts from commercial undertakings**
 
-**(2)**  Subsection (1) does not apply to an amount of income that—
+**(2)** Subsection (1) does not apply to an amount of income that—
 
 - (a) is derived by a trustee of the Auckland Future Fund from—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Meaning of Auckland Future Fund**
 
-**(3)**  In this section, Auckland Future Fund—
+**(3)** In this section, Auckland Future Fund—
 
 - (a) means the fund established by Auckland Council as part of its Long-term plan 2024–2034; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Meaning of Auckland Council**
 
-**(4)**  In this section, Auckland Council means the territorial authority established by section 6(1) of the Local Government (Auckland Council) Act 2009 as the Auckland Council.
+**(4)** In this section, Auckland Council means the territorial authority established by section 6(1) of the Local Government (Auckland Council) Act 2009 as the Auckland Council.
 
 *Defined in this Act: amount, Auckland Council, Auckland Future Fund, council-controlled organisation, dividend, exempt income, income, trustee*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  Fifty percent of the interest that a person derives from a mortgage securing a loan made by a seller of a farm is exempt income, if—
+**(1)** Fifty percent of the interest that a person derives from a mortgage securing a loan made by a seller of a farm is exempt income, if—
 
 - (a) the Rural Banking and Finance Corporation of New Zealand approves the mortgage; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  This section does not apply if the person is—
+**(2)** This section does not apply if the person is—
 
 - (a) an absentee; or
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections LZ 6 to LZ 8**
 
-**(3)**  A person who derives interest that is exempt income under this section is not entitled to a tax credit for the interest under sections LZ 6 to LZ 8 (which relate to interest on home vendor mortgages).
+**(3)** A person who derives interest that is exempt income under this section is not entitled to a tax credit for the interest under sections LZ 6 to LZ 8 (which relate to interest on home vendor mortgages).
 
 *Defined in this Act: absentee, Commissioner, company, exempt income, income tax, interest, Maori authority, mortgage, notice, public authority, trustee*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When sections EW 15C to EW 15I apply**
 
-**(1)**  Sections EW 15C to EW 15I apply when a person who is a party to a financial arrangement uses IFRSs to prepare financial statements and to report for financial arrangements.
+**(1)** Sections EW 15C to EW 15I apply when a person who is a party to a financial arrangement uses IFRSs to prepare financial statements and to report for financial arrangements.
 
 **Certain methods available for use and certain mandatory**
 
-**(2)**  Sections EW 15C to EW 15I set out—
+**(2)** Sections EW 15C to EW 15I set out—
 
 - (a) the methods available to the person to use for calculating and allocating income and expenditure under a financial arrangement:
 
@@ -24,19 +24,19 @@ compilation_date: 2026-06-06
 
 **Functional currency**
 
-**(3)**  Even if another currency may be used as the functional currency under IFRSs, the methods must be applied using New Zealand dollars.
+**(3)** Even if another currency may be used as the functional currency under IFRSs, the methods must be applied using New Zealand dollars.
 
 **Financial statements**
 
-**(4)**  Unless the context otherwise requires, references to IFRSs in sections EW 15D to EW 15I are references to IFRS rules used to prepare the person's financial statements.
+**(4)** Unless the context otherwise requires, references to IFRSs in sections EW 15D to EW 15I are references to IFRS rules used to prepare the person's financial statements.
 
 **Agreed spreading methods for life financial reinsurance**
 
-**(5)**  A life insurer who, in an income year, is a party to a life financial reinsurance contract (the reinsurance contract) and to a deed of settlement under section 6A of the Tax Administration Act 1994 with the Commissioner that meets the requirements of subsection (6), must use the agreed spreading method referred to in subsection (6)﻿(b) for the reinsurance contract and the income year.
+**(5)** A life insurer who, in an income year, is a party to a life financial reinsurance contract (the reinsurance contract) and to a deed of settlement under section 6A of the Tax Administration Act 1994 with the Commissioner that meets the requirements of subsection (6), must use the agreed spreading method referred to in subsection (6)﻿(b) for the reinsurance contract and the income year.
 
 **Deed of settlement requirements**
 
-**(6)**  The deed of settlement must—
+**(6)** The deed of settlement must—
 
 - (a) be entered into by the life insurer and the Commissioner before 1 January 2023; and
 

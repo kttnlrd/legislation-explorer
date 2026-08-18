@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Rules about entitlements under family scheme**
 
-**(1)**  This subpart provides the rules for determining whether a person and their spouse, civil union partner, or de facto partner are entitled to WFF tax credits as entitlements and tax credits under the family scheme.
+**(1)** This subpart provides the rules for determining whether a person and their spouse, civil union partner, or de facto partner are entitled to WFF tax credits as entitlements and tax credits under the family scheme.
 
 **WFF tax credits**
 
-**(2)**  The WFF tax credit is the amount of a person's entitlement and tax credit made up of—
+**(2)** The WFF tax credit is the amount of a person's entitlement and tax credit made up of—
 
 - (a) the family tax credit calculated under section MD 3 (Calculation of family tax credit):
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Classification of credits**
 
-**(3)**  For the purposes of the calculation of an amount of a WFF tax credit, entitlements and tax credits under the family scheme are divided into—
+**(3)** For the purposes of the calculation of an amount of a WFF tax credit, entitlements and tax credits under the family scheme are divided into—
 
 - (a) abating WFF tax credits, made up of the family tax credit, in-work tax credit or child tax credit, and the parental tax credit:
 

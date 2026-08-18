@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of core research and development activity**
 
-**(1)**  Core research and development activity—
+**(1)** Core research and development activity—
 
 - (a) means an activity that—
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Meaning of research and development activity**
 
-**(2)**  Research and development activity, for a person, means an activity that is—
+**(2)** Research and development activity, for a person, means an activity that is—
 
 - (a) a core research and development activity:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Meaning of supporting research and development activity**
 
-**(3)**  Supporting research and development activity—
+**(3)** Supporting research and development activity—
 
 - (a) means an activity that has the only or main purpose of, is required for, and integral to, conducting a person's core research and development activity; but
 

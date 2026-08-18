@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **References to income, tax losses, tax payable, and credits**
 
-**(1)**  For the purposes of the consolidation rules, the following amounts are determined on the basis of a single assessment:
+**(1)** For the purposes of the consolidation rules, the following amounts are determined on the basis of a single assessment:
 
 - (a) income, assessable income, net income, or taxable income of a consolidated group:
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Shares**
 
-**(2)**  For the purposes of applying the consolidation rules to particular provisions in this Act, the shares or options over shares of a consolidated group are treated as comprising all the shares or options over shares of the companies in the consolidated group at the relevant time.
+**(2)** For the purposes of applying the consolidation rules to particular provisions in this Act, the shares or options over shares of a consolidated group are treated as comprising all the shares or options over shares of the companies in the consolidated group at the relevant time.
 
 **Dividends**
 
-**(3)**  A dividend that 1 company that is part of a consolidated group pays to another group company continues to be taken into account for the purposes of—
+**(3)** A dividend that 1 company that is part of a consolidated group pays to another group company continues to be taken into account for the purposes of—
 
 - (a) the imputation rules:
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **International tax rules**
 
-**(4)**  The international tax rules apply, modified as necessary, as if the consolidated group were a single company.
+**(4)** The international tax rules apply, modified as necessary, as if the consolidated group were a single company.
 
 **Balance of imputation credit account**
 
-**(5)**  Sections OA 3 (General rules for maintaining memorandum accounts) and YA 2(7) (Meaning of income tax varied) apply for the purposes of section GB 38, subpart OP, and section 74 of the Tax Administration Act 1994 as if the references to the imputation rules were references to sections OP 3 to OP 50.
+**(5)** Sections OA 3 (General rules for maintaining memorandum accounts) and YA 2(7) (Meaning of income tax varied) apply for the purposes of section GB 38, subpart OP, and section 74 of the Tax Administration Act 1994 as if the references to the imputation rules were references to sections OP 3 to OP 50.
 
 *Defined in this Act: amount, assessable income, assessment, attributed CFC net loss, company, consolidated group, consolidation rules, dividend, FIF net loss, imputation credit account, imputation rules, income, income tax, international tax rules, loss balance, net income, pay, share, tax, tax credit, tax loss, tax loss component, taxable income*
 

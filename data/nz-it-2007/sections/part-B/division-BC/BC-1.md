@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Non-filing taxpayer**
 
-**(1)**  The income tax liability of a non-filing taxpayer for a tax year is the total tax withheld from amounts of income included in the taxpayer's annual gross income for the year.
+**(1)** The income tax liability of a non-filing taxpayer for a tax year is the total tax withheld from amounts of income included in the taxpayer's annual gross income for the year.
 
 **Filing taxpayer**
 
-**(2)**  The income tax liability of a filing taxpayer for a tax year is calculated under sections BC 2 to BC 6.
+**(2)** The income tax liability of a filing taxpayer for a tax year is calculated under sections BC 2 to BC 6.
 
 **Filing taxpayer with schedular income**
 
-**(3)**  If a filing taxpayer has schedular income, their income tax liability calculation is modified by section BC 7.
+**(3)** If a filing taxpayer has schedular income, their income tax liability calculation is modified by section BC 7.
 
 *Defined in this Act: amount, annual gross income, filing taxpayer, income, income tax liability, non-filing taxpayer, schedular income, tax, tax year*
 

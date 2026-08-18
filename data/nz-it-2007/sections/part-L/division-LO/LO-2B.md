@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Retirement scheme contributions**
 
-**(1)**  A retirement scheme contributor who attaches a Maori authority credit to a retirement scheme contribution for a person in an income year has a credit of RSCT equal to the lesser of—
+**(1)** A retirement scheme contributor who attaches a Maori authority credit to a retirement scheme contribution for a person in an income year has a credit of RSCT equal to the lesser of—
 
 - (a) the amount of the Maori authority credit:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **When credit more than liability**
 
-**(2)**  If the amount of the Maori authority credit is more than the liability of the contributor for RSCT on the contribution,—
+**(2)** If the amount of the Maori authority credit is more than the liability of the contributor for RSCT on the contribution,—
 
 - (a) the amount of the excess is treated as a Maori authority credit attached to a taxable Maori authority distribution from the contributor to the person; and
 

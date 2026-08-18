@@ -12,23 +12,23 @@ compilation_date: 2026-06-06
 
 **PAYE income payments**
 
-**(1)**  A person who makes a PAYE income payment must withhold an amount from the payment under the PAYE rules.
+**(1)** A person who makes a PAYE income payment must withhold an amount from the payment under the PAYE rules.
 
 **Resident passive income**
 
-**(2)**  A person who makes a payment of resident passive income must withhold an amount from the payment under the RWT rules.
+**(2)** A person who makes a payment of resident passive income must withhold an amount from the payment under the RWT rules.
 
 **Non-resident passive income**
 
-**(3)**  A person who makes a payment of non-resident passive income must withhold an amount from the payment under the NRWT rules.
+**(3)** A person who makes a payment of non-resident passive income must withhold an amount from the payment under the NRWT rules.
 
 **Fringe benefits**
 
-**(4)**  A person who provides a fringe benefit to another person must pay fringe benefit tax under the FBT rules.
+**(4)** A person who provides a fringe benefit to another person must pay fringe benefit tax under the FBT rules.
 
 **Employer's superannuation cash contributions**
 
-**(5)**  A person who makes an employer's superannuation cash contribution must pay ESCT under the ESCT rules.
+**(5)** A person who makes an employer's superannuation cash contribution must pay ESCT under the ESCT rules.
 
 **Retirement scheme contributions**
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Residential land purchase amount**
 
-**(6)**  A person described in section RL 3 (Associated persons: who must pay, and how?) must withhold an amount from a residential land purchase amount under the RLWT rules.
+**(6)** A person described in section RL 3 (Associated persons: who must pay, and how?) must withhold an amount from a residential land purchase amount under the RLWT rules.
 
 *Defined in this Act: amount, dividend, employer's superannuation cash contribution, ESCT, ESCT rules, FBT rules, fringe benefit, fringe benefit tax, non-resident passive income, NRWT rules, pay, PAYE income payment, PAYE rules, resident passive income, residential land purchase amount, retirement savings scheme, retirement scheme contribution, RLWT rules, RSCT, RSCT rules, RWT rules, superannuation fund*
 

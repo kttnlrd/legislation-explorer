@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  Despite section CE 1B(1) and to the extent described in subsection (2), the value of accommodation that is provided to a person who is a minister of religion is income of the person when the property in which the accommodation is provided is supplied by the religious society or organisation of which they are a minister.
+**(1)** Despite section CE 1B(1) and to the extent described in subsection (2), the value of accommodation that is provided to a person who is a minister of religion is income of the person when the property in which the accommodation is provided is supplied by the religious society or organisation of which they are a minister.
 
 **Limited amount**
 
-**(2)**  The amount of income for an income year is calculated using the formula— remuneration × (1 − adjustment) + excess rental.
+**(2)** The amount of income for an income year is calculated using the formula— remuneration × (1 − adjustment) + excess rental.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) remuneration is the amount that equals 10% of the remuneration that the person receives for the income year for the performance of their duties as a minister from the religious society or organisation of which they are a minister:
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Adjustments**
 
-**(4)**  An adjustment referred to in subsection (3)﻿(b) is as follows:
+**(4)** An adjustment referred to in subsection (3)﻿(b) is as follows:
 
 - (a) if the person to whom the accommodation is provided uses part of the accommodation wholly or mainly for work purposes related to their duties as a minister, the amount is apportioned between that business use and private use:
 
@@ -46,11 +46,11 @@ compilation_date: 2026-06-06
 
 **Part-year**
 
-**(5)**  For the purposes of this section, if accommodation is provided for part of an income year, the reference to income year is read as a reference to the relevant part of the income year.
+**(5)** For the purposes of this section, if accommodation is provided for part of an income year, the reference to income year is read as a reference to the relevant part of the income year.
 
 **Meaning of minister of religion**
 
-**(6)**  For the purposes of this section, minister of religion—
+**(6)** For the purposes of this section, minister of religion—
 
 - (a) means a person—
 

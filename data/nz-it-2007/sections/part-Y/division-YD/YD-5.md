@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person carries on business partly in New Zealand and partly outside New Zealand; or
 
@@ -36,19 +36,19 @@ compilation_date: 2026-06-06
 
 **Apportionment**
 
-**(2)**  Subject to subsection (4), the amount of income derived from the business or under the contract, and the amount of expenditure incurred in deriving the income, must be apportioned between New Zealand and sources outside New Zealand to the extent necessary to achieve the result in subsection (3).
+**(2)** Subject to subsection (4), the amount of income derived from the business or under the contract, and the amount of expenditure incurred in deriving the income, must be apportioned between New Zealand and sources outside New Zealand to the extent necessary to achieve the result in subsection (3).
 
 **Necessary effect of apportionment**
 
-**(3)**  The result of the apportionment, to the extent consistent with subsection (2), must be that the person's net income or net loss, in relation to the business or contract, is the same as a separate and independent person would have if they were carrying out only the person's activities in New Zealand and dealing at arm's length.
+**(3)** The result of the apportionment, to the extent consistent with subsection (2), must be that the person's net income or net loss, in relation to the business or contract, is the same as a separate and independent person would have if they were carrying out only the person's activities in New Zealand and dealing at arm's length.
 
 **First formula: Apportionment of income from interest or redemption payment**
 
-**(4)**  Subject to subsections (6) and (7), interest or a redemption payment derived as described in subsection (1)﻿(d) is apportioned to a source in New Zealand using the formula— loan ratio × amount.
+**(4)** Subject to subsections (6) and (7), interest or a redemption payment derived as described in subsection (1)﻿(d) is apportioned to a source in New Zealand using the formula— loan ratio × amount.
 
 **Definition of items in formula**
 
-**(5)**  In the formula in subsection (4),—
+**(5)** In the formula in subsection (4),—
 
 - (a) loan ratio is calculated by applying the formula in subsection (8) to the business described in subsection (1)﻿(d):
 
@@ -56,19 +56,19 @@ compilation_date: 2026-06-06
 
 **Apportionment if loan ratio 0.05 or less**
 
-**(6)**  If the loan ratio calculated by applying the formula in subsection (8) to a business is 0.05 or less, then none of the interest or redemption payment is treated as having a source in New Zealand.
+**(6)** If the loan ratio calculated by applying the formula in subsection (8) to a business is 0.05 or less, then none of the interest or redemption payment is treated as having a source in New Zealand.
 
 **Apportionment if loan ratio 0.95 or more**
 
-**(7)**  If the loan ratio calculated by applying the formula in subsection (8) to a business is 0.95 or more, then all of the interest or redemption payment is treated as having a source in New Zealand.
+**(7)** If the loan ratio calculated by applying the formula in subsection (8) to a business is 0.95 or more, then all of the interest or redemption payment is treated as having a source in New Zealand.
 
 **Second formula: loan ratio**
 
-**(8)**  The item loan ratio in subsection (4) is calculated using the formula— financial arrangements producing New Zealand income ÷ total assets.
+**(8)** The item loan ratio in subsection (4) is calculated using the formula— financial arrangements producing New Zealand income ÷ total assets.
 
 **Definition of items in formula**
 
-**(9)**  In the formula in subsection (8),—
+**(9)** In the formula in subsection (8),—
 
 - (a) financial arrangements producing New Zealand income, for a business, means the value of the business's assets that are financial arrangements that produce income having a source in New Zealand as at—
 

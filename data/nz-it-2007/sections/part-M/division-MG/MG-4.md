@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Requirements**
 
-**(1)**  For the purposes of section MG 3(2)﻿(b)﻿(ii), a person who receives protected Best Start tax credit for a calendar month in an entitlement period, is a person who, in the calendar month,—
+**(1)** For the purposes of section MG 3(2)﻿(b)﻿(ii), a person who receives protected Best Start tax credit for a calendar month in an entitlement period, is a person who, in the calendar month,—
 
 - (a) has no spouse, civil union partner, or de facto partner, receives a main benefit, and derives family scheme income that is less than the amount set out in section MG 3(2)﻿(a)﻿(i):
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Annualised equivalent**
 
-**(2)**  Section MB 2 (Adjustment for period that is less or more than 1 year) applies to adjust the amount of family scheme income to provide an annualised equivalent.
+**(2)** Section MB 2 (Adjustment for period that is less or more than 1 year) applies to adjust the amount of family scheme income to provide an annualised equivalent.
 
 *Defined in this Act: amount, Best Start tax credit, civil union partner, de facto partner, entitlement period, family scheme income, main benefit, protected Best Start tax credit, spouse*
 

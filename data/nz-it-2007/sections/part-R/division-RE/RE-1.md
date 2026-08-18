@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  The RWT rules means—
+**(1)** The RWT rules means—
 
 - (a) this subpart; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(2)**  The RWT rules apply to a person who pays an amount of resident passive income.
+**(2)** The RWT rules apply to a person who pays an amount of resident passive income.
 
 *Defined in this Act: amount, pay, resident passive income, RWT rules*
 

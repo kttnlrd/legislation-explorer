@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a PAYE intermediary pays to the Commissioner an amount of tax for a PAYE income payment for an employer—
+**(1)** This section applies when a PAYE intermediary pays to the Commissioner an amount of tax for a PAYE income payment for an employer—
 
 - (a) relying on a payment made to the trust account of the intermediary—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Refund to intermediary**
 
-**(2)**  The Commissioner must refund the amount of tax to the intermediary.
+**(2)** The Commissioner must refund the amount of tax to the intermediary.
 
 *Defined in this Act: amount of tax, Commissioner, employer, pay, PAYE intermediary, PAYE income payment*
 

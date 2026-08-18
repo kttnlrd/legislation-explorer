@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person who is a party to an excepted financial arrangement described in any of section EW 5(18) to (20) stops using it for a private or a domestic purpose.
+**(1)** This section applies when a person who is a party to an excepted financial arrangement described in any of section EW 5(18) to (20) stops using it for a private or a domestic purpose.
 
 **Excepted financial arrangement becomes financial arrangement**
 
-**(2)**  On and after the date on which the person stops using the excepted financial arrangement for a private or a domestic purpose,—
+**(2)** On and after the date on which the person stops using the excepted financial arrangement for a private or a domestic purpose,—
 
 - (a) it ceases to be an excepted financial arrangement for the person; and
 

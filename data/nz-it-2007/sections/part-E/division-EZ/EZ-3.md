@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(1)**  Expenditure that is allowed as a deduction under section DZ 3 (Petroleum mining: development expenditure from 1 October 1990 to 15 December 1991) must be deducted in equal amounts over the 10 years starting with the later of—
+**(1)** Expenditure that is allowed as a deduction under section DZ 3 (Petroleum mining: development expenditure from 1 October 1990 to 15 December 1991) must be deducted in equal amounts over the 10 years starting with the later of—
 
 - (a) the income year in which commercial production starts; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Petroleum mining operations outside New Zealand**
 
-**(2)**  This section applies with any necessary modifications to a petroleum miner who undertakes petroleum mining operations that are—
+**(2)** This section applies with any necessary modifications to a petroleum miner who undertakes petroleum mining operations that are—
 
 - (a) outside New Zealand and undertaken through a branch or a controlled foreign company; and
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Partnership interests**
 
-**(3)**  For the purposes of this section, a partner is treated as having a share or interest in a petroleum permit or other property of a partnership to the extent of their income interest in the partnership.
+**(3)** For the purposes of this section, a partner is treated as having a share or interest in a petroleum permit or other property of a partnership to the extent of their income interest in the partnership.
 
 **Disposal of part of asset**
 
-**(4)**  For the purposes of this section, references to the disposal of an asset apply equally to the disposal of part of an asset.
+**(4)** For the purposes of this section, references to the disposal of an asset apply equally to the disposal of part of an asset.
 
 *Defined in this Act: amount, commercial production, controlled foreign company, deduction, dispose, income year, New Zealand, petroleum, petroleum miner, petroleum mining operations, petroleum permit*
 

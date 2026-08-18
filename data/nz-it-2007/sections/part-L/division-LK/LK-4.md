@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section LA 5(2) (Treatment of remaining credits) when a person has a tax credit remaining for a tax year after applying section LA 4(1) (When total tax credit more than income tax liability).
+**(1)** This section applies for the purposes of section LA 5(2) (Treatment of remaining credits) when a person has a tax credit remaining for a tax year after applying section LA 4(1) (When total tax credit more than income tax liability).
 
 **Amount carried forward**
 
-**(2)**  The amount is carried forward to the next tax year as a credit carried forward.
+**(2)** The amount is carried forward to the next tax year as a credit carried forward.
 
 *Defined in this Act: amount, tax credit, tax year*
 

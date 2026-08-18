@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Balances carried forward**
 
-**(1)**  The opening balance of a memorandum account at the start of a tax year or income year, as applicable, is the closing balance of the account in the previous tax year or income year, as applicable.
+**(1)** The opening balance of a memorandum account at the start of a tax year or income year, as applicable, is the closing balance of the account in the previous tax year or income year, as applicable.
 
 **Credits and debits forming opening balances**
 
-**(2)**  The amount of each credit or debit that forms part of the opening balance of a memorandum account is treated as recorded in the relevant memorandum account on the date on which it was originally recorded.
+**(2)** The amount of each credit or debit that forms part of the opening balance of a memorandum account is treated as recorded in the relevant memorandum account on the date on which it was originally recorded.
 
 **First year**
 
-**(3)**  If a consolidated group, company, or person starts a memorandum account during a tax year, the treatment of existing credits and debits is set out as follows:
+**(3)** If a consolidated group, company, or person starts a memorandum account during a tax year, the treatment of existing credits and debits is set out as follows:
 
 - (a) when the companies of 2 or more consolidated imputation groups choose to combine to form, or to join, an imputation group, see section OP 3(2) (Changes in consolidated imputation groups):
 

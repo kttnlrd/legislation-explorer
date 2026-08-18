@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  A Maori authority has a Maori authority credit for the amount of a Maori authority credit attached to a distribution derived by the Maori authority.
+**(1)** A Maori authority has a Maori authority credit for the amount of a Maori authority credit attached to a distribution derived by the Maori authority.
 
 **Table reference**
 
-**(2)**  The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 5 (distribution with Maori authority credit).
+**(2)** The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 5 (distribution with Maori authority credit).
 
 **Credit date**
 
-**(3)**  The credit date is the day the distribution is made.
+**(3)** The credit date is the day the distribution is made.
 
 *Defined in this Act: amount, distribution, Maori authority, Maori authority credit*
 

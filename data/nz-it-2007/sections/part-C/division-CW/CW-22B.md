@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  Income a non-resident visitor derives from performing personal or professional services in New Zealand during a visit is exempt income if—
+**(1)** Income a non-resident visitor derives from performing personal or professional services in New Zealand during a visit is exempt income if—
 
 - (a) the services are performed for or on behalf of a person who is not resident in New Zealand; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  This section does not apply to the income of a public entertainer.
+**(2)** This section does not apply to the income of a public entertainer.
 
 *Defined in this Act: amount, exempt income, income, New Zealand, non-resident, non-resident visitor, public entertainer, resident in New Zealand, tax*
 

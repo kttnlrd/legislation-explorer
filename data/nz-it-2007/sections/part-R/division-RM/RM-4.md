@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Assessment increasing tax**
 
-**(1)**  The Commissioner must refund an amount of tax that a person has paid if—
+**(1)** The Commissioner must refund an amount of tax that a person has paid if—
 
 - (a) the person paid the amount as a result of an amendment to an assessment increasing the amount of tax payable by the person; and
 

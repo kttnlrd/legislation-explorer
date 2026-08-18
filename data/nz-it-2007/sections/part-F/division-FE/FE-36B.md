@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Entities included in group**
 
-**(1)**  The New Zealand banking group of a registered bank consists of the entities given by this section if—
+**(1)** The New Zealand banking group of a registered bank consists of the entities given by this section if—
 
 - (a) each voting interest in the registered bank is held by—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Registered bank and person with direct voting interest of 100%**
 
-**(2)**  The banking group includes—
+**(2)** The banking group includes—
 
 - (a) the registered bank:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Resident member of financial reporting group under Financial Reporting Act 2013**
 
-**(3)**  A resident person is included in the banking group if the person,—
+**(3)** A resident person is included in the banking group if the person,—
 
 - (a) under the Financial Reporting Act 2013, or under section 55 of that Act and the Financial Reporting Act 1993, is a member of the group for which the registered bank is the reporting entity:
 

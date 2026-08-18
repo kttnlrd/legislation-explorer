@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  An extra pay—
+**(1)** An extra pay—
 
 - (a) means a payment that—
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Remedial payments for certain entitlements**
 
-**(3)**  A remedial payment made in relation to 1 or more of a person's entitlements under the Holidays Act 2003, an employment agreement, or both, is treated as an extra pay if—
+**(3)** A remedial payment made in relation to 1 or more of a person's entitlements under the Holidays Act 2003, an employment agreement, or both, is treated as an extra pay if—
 
 - (a) the payment is made to a person in connection with their employment; and
 
@@ -62,11 +62,11 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(4)**  A payment made to a person to address some or all of a failure to pay the person any salary or wages for a pay period is excluded from a remedial payment under subsection (3). If more than 1 payment is made to the person to address the failure, this subsection applies to exclude only the first of these payments.
+**(4)** A payment made to a person to address some or all of a failure to pay the person any salary or wages for a pay period is excluded from a remedial payment under subsection (3). If more than 1 payment is made to the person to address the failure, this subsection applies to exclude only the first of these payments.
 
 **Meaning of employment agreement**
 
-**(5)**  For the purposes of subsection (3), an employment agreement has the meaning given by section 5 of the Employment Relations Act 2000 except that—
+**(5)** For the purposes of subsection (3), an employment agreement has the meaning given by section 5 of the Employment Relations Act 2000 except that—
 
 - (a) it includes an individual employment contract continued in force by section 242(1) of that Act; and
 

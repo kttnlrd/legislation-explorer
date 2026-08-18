@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Ownership of airport assets**
 
-**(1)**  An airport operator is treated as owning each of its airport assets.
+**(1)** An airport operator is treated as owning each of its airport assets.
 
 **Time of acquisition**
 
-**(2)**  An airport operator is treated as having acquired an asset at the time—
+**(2)** An airport operator is treated as having acquired an asset at the time—
 
 - (a) it acquired it other than by way of purchase:
 
@@ -26,15 +26,15 @@ compilation_date: 2026-06-06
 
 **Cost of acquisition**
 
-**(3)**  An airport operator is treated as having incurred, in acquiring an asset, its market value at the time of acquisition.
+**(3)** An airport operator is treated as having incurred, in acquiring an asset, its market value at the time of acquisition.
 
 **Ceasing to be airport asset**
 
-**(4)**  If an asset ceases to be an airport asset of the airport operator, other than on sale, the airport operator is treated as having sold it, at the time, for a price equal to its market value at the time.
+**(4)** If an asset ceases to be an airport asset of the airport operator, other than on sale, the airport operator is treated as having sold it, at the time, for a price equal to its market value at the time.
 
 **Disputes concerning value or timing**
 
-**(5)**  Subsection (6) applies if a question arises concerning—
+**(5)** Subsection (6) applies if a question arises concerning—
 
 - (a) the market value of an asset:
 
@@ -44,11 +44,11 @@ compilation_date: 2026-06-06
 
 **Resolved by agreement or Commissioner**
 
-**(6)**  The question must be resolved by agreement between the airport operator and the Commissioner or, failing agreement, by the Commissioner.
+**(6)** The question must be resolved by agreement between the airport operator and the Commissioner or, failing agreement, by the Commissioner.
 
 **Meaning of airport asset**
 
-**(7)**  In this section, for an airport operator, airport asset means—
+**(7)** In this section, for an airport operator, airport asset means—
 
 - (a) an asset that, under the joint venture agreement and for the purposes of the airport operator's activities, the airport authority—
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(8)**  Subsection (7)﻿(a) does not apply to an asset that—
+**(8)** Subsection (7)﻿(a) does not apply to an asset that—
 
 - (a) the airport operator has—
 

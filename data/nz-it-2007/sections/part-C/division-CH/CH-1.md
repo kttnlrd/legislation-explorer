@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person has some or all of the following at the end of an income year:
+**(1)** This section applies when a person has some or all of the following at the end of an income year:
 
 - (a) trading stock valued under subpart EB (Valuation of trading stock (including dealer's livestock)):
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Income: closing value of trading stock**
 
-**(2)**  The value of the trading stock, calculated under section EB 3 (Valuation of trading stock), is income of the person in the income year.
+**(2)** The value of the trading stock, calculated under section EB 3 (Valuation of trading stock), is income of the person in the income year.
 
 **Income: closing value of livestock**
 
-**(3)**  The value of the livestock, calculated under section EC 2 (Valuation of livestock), is income of the person in the income year.
+**(3)** The value of the livestock, calculated under section EC 2 (Valuation of livestock), is income of the person in the income year.
 
 **Income: closing value of excepted financial arrangements**
 
-**(4)**  The value of the excepted financial arrangements or share-lending right, calculated under section ED 1 (Valuation of excepted financial arrangements), is income of the person in the income year.
+**(4)** The value of the excepted financial arrangements or share-lending right, calculated under section ED 1 (Valuation of excepted financial arrangements), is income of the person in the income year.
 
 *Defined in this Act: excepted financial arrangement, income, income year, original share, revenue account property, share-lending right, share supplier, trading stock*
 

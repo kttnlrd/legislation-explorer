@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for expenditure that they incur that is income of another person under section CE 9 (Restrictive covenants) or CE 10 (Exit inducements).
+**(1)** A person is allowed a deduction for expenditure that they incur that is income of another person under section CE 9 (Restrictive covenants) or CE 10 (Exit inducements).
 
 **Exclusion**
 
-**(2)**  This section does not apply if—
+**(2)** This section does not apply if—
 
 - (a) the other person performs services for the person; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(3)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: amount, capital limitation, general limitation, general permission, income*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an originator transferred any of their assets to a debt funding special purpose vehicle or an originator has attributed assets as described in section HR 9BAA(3) before the day after the date on which the Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025 receives the Royal assent.
+**(1)** This section applies when an originator transferred any of their assets to a debt funding special purpose vehicle or an originator has attributed assets as described in section HR 9BAA(3) before the day after the date on which the Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025 receives the Royal assent.
 
 **How elections made**
 
-**(2)**  An originator makes an election referred to in section HR 9 (Debt funding special purpose vehicles are transparent if election made by originator) for an income year starting on or after 18 March 2019 by,—
+**(2)** An originator makes an election referred to in section HR 9 (Debt funding special purpose vehicles are transparent if election made by originator) for an income year starting on or after 18 March 2019 by,—
 
 - (a) before the return of income referred to in paragraph (b), notifying the Commissioner that the originator chooses to have the liabilities and obligations referred to in section HR 9 that the special purpose vehicle would have in the absence of the election; or
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Effect of election**
 
-**(3)**  An election under this section—
+**(3)** An election under this section—
 
 - (a) cannot be revoked; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section HR 9BA**
 
-**(4)**  This section overrides section HR 9BA (Elections to treat debt funding special purpose vehicles as transparent).
+**(4)** This section overrides section HR 9BA (Elections to treat debt funding special purpose vehicles as transparent).
 
 *Defined in this Act: company, debt funding special purpose vehicle, income, income year, originator, return of income, trustee*
 

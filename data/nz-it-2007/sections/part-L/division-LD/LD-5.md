@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Employer's responsibility**
 
-**(1)**  The employer of a person who makes a payroll donation in a pay period must calculate the amount of the person's tax credit for the pay period under section LD 4, and include the amount in the particulars described in section LD 4(1)﻿(a).
+**(1)** The employer of a person who makes a payroll donation in a pay period must calculate the amount of the person's tax credit for the pay period under section LD 4, and include the amount in the particulars described in section LD 4(1)﻿(a).
 
 **Credit extinguished**
 
-**(2)**  The tax credit is extinguished if—
+**(2)** The tax credit is extinguished if—
 
 - (a) the Commissioner does not receive the employment income information relating to the relevant payroll donation:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When matters corrected**
 
-**(3)**  Despite subsection (2), the credit is restored to the person if the relevant matter is corrected and, for the purposes of this section, it is as if the error had never been made.
+**(3)** Despite subsection (2), the credit is restored to the person if the relevant matter is corrected and, for the purposes of this section, it is as if the error had never been made.
 
 *Defined in this Act: amount, Commissioner, employer, employment income information, pay period, payroll donation, tax credit*
 

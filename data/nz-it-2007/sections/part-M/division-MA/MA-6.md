@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Arrangements involving tax credits for families**
 
-**(1)**  Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MG and MZ.
+**(1)** Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MG and MZ.
 
 **Arrangements involving FamilyBoost tax credits**
 
-**(2)**  Section GB 44B (Arrangements involving FamilyBoost tax credits) may apply to reduce a tax credit under subpart MH (FamilyBoost tax credits).
+**(2)** Section GB 44B (Arrangements involving FamilyBoost tax credits) may apply to reduce a tax credit under subpart MH (FamilyBoost tax credits).
 
 *Defined in this Act: tax credit*
 

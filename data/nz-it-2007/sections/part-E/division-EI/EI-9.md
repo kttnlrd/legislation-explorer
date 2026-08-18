@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Matching if company allowed deduction**
 
-**(1)**  If a company is allowed a deduction for expenditure on employment income that is paid or is payable to a shareholder-employee under section CE 1 (Amounts derived in connection with employment), the income is allocated in the way set out in subsections (2) and (3).
+**(1)** If a company is allowed a deduction for expenditure on employment income that is paid or is payable to a shareholder-employee under section CE 1 (Amounts derived in connection with employment), the income is allocated in the way set out in subsections (2) and (3).
 
 **Allocation to deduction year unless unexpired**
 
-**(2)**  The income is allocated to the income year to which the deduction allowed to the company is allocated, except for an amount equal to any unexpired portion for the income year of the company's expenditure under section EA 4 (Deferred payment of employment income).
+**(2)** The income is allocated to the income year to which the deduction allowed to the company is allocated, except for an amount equal to any unexpired portion for the income year of the company's expenditure under section EA 4 (Deferred payment of employment income).
 
 **Allocation when no longer treated as unexpired**
 
-**(3)**  The remaining income is allocated to the income year or years in which the corresponding amount of the company's expenditure on the income is no longer treated as an unexpired portion.
+**(3)** The remaining income is allocated to the income year or years in which the corresponding amount of the company's expenditure on the income is no longer treated as an unexpired portion.
 
 *Defined in this Act: amount, company, deduction, employment income, income year, pay, shareholder-employee*
 

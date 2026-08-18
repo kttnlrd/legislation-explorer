@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Requirements for entity**
 
-**(1)**  An entity is a retirement savings scheme for a person if the entity—
+**(1)** An entity is a retirement savings scheme for a person if the entity—
 
 - (a) is a portfolio investment entity; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Requirements for rules**
 
-**(2)**  The rules must provide that—
+**(2)** The rules must provide that—
 
 - (a) the availability of a distribution to the person is restricted before the person reaches an age of retirement set out in the rules:
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person has, before 1 April 2014, an interest in a foreign superannuation scheme and—
+**(1)** This section applies when a person has, before 1 April 2014, an interest in a foreign superannuation scheme and—
 
 - (a) the interest would be an attributing interest in the absence of this provision; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **No FIF income or loss from interest**
 
-**(2)**  The person is treated as having no FIF income or loss from the interest for the period before 1 April 2014.
+**(2)** The person is treated as having no FIF income or loss from the interest for the period before 1 April 2014.
 
 *Defined in this Act: attributing interest, Commissioner, FIF income, FIF superannuation interest, foreign superannuation scheme, income year, loss, return of income*
 

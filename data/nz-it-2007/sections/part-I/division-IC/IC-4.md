@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Interests held**
 
-**(1)**  A wholly-owned group of companies means 2 or more companies in relation to which a group of persons holds, for the relevant period,—
+**(1)** A wholly-owned group of companies means 2 or more companies in relation to which a group of persons holds, for the relevant period,—
 
 - (a) common voting interests that add up to 100%; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exempt employee share schemes**
 
-**(2)**  In subsection (1), company shares held by the trustee of, or by employees or former employees of the company as a consequence of the operation of, an exempt ESS are disregarded to the extent to which they represent voting interests in the company that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%.
+**(2)** In subsection (1), company shares held by the trustee of, or by employees or former employees of the company as a consequence of the operation of, an exempt ESS are disregarded to the extent to which they represent voting interests in the company that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%.
 
 *Defined in this Act: common market value interest, common voting interest, company, employee, exempt ESS, group of companies, group of persons, market value circumstance, market value interest, share, trustee, voting interest, wholly-owned group of companies*
 

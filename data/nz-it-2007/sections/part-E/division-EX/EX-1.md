@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Tests of control**
 
-**(1)**  A foreign company is a controlled foreign company (CFC) if any of the following tests is met:
+**(1)** A foreign company is a controlled foreign company (CFC) if any of the following tests is met:
 
 - (a) there is a group of 5 or fewer New Zealand residents whose total control interests in the company are more than 50% in any one of the control interest categories:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Exception**
 
-**(2)**  Even if a test in subsection (1) is met, a foreign company is not a CFC if—
+**(2)** Even if a test in subsection (1) is met, a foreign company is not a CFC if—
 
 - (a) the foreign company is a foreign PIE equivalent; and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Status applies for whole accounting period**
 
-**(3)**  If any of the tests in subsection (1) is met at any time in a foreign company's accounting period and the exception in subsection (2) does not apply at the time, the company is treated as a CFC for the whole of the accounting period.
+**(3)** If any of the tests in subsection (1) is met at any time in a foreign company's accounting period and the exception in subsection (2) does not apply at the time, the company is treated as a CFC for the whole of the accounting period.
 
 *Defined in this Act: accounting period, associated person, CFC, company, control interest, control interest category, foreign company, foreign investment vehicle, life insurance, New Zealand resident, portfolio investment entity, shareholder decision-making right*
 

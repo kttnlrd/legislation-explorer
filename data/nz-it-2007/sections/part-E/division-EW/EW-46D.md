@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a company is a debtor; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Consideration**
 
-**(2)**  The debtor or person A, as applicable, is treated as—
+**(2)** The debtor or person A, as applicable, is treated as—
 
 - (a) not having paid, directly or indirectly, the amount of the debtor's debt to the creditor; and
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(3)**  The formula is— shares' market value × repayment ÷ total consideration.
+**(3)** The formula is— shares' market value × repayment ÷ total consideration.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) shares' market value is the market value of the shares issued to person B at the time they were issued:
 

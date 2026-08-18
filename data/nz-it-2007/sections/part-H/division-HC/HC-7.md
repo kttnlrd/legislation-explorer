@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  To the extent to which it is not beneficiary income, an amount of income derived by a trustee of a trust is trustee income.
+**(1)** To the extent to which it is not beneficiary income, an amount of income derived by a trustee of a trust is trustee income.
 
 **Minors' beneficiary income**
 
-**(2)**  An amount of beneficiary income to which section HC 35 applies that is derived in an income year by a person who is a minor is—
+**(2)** An amount of beneficiary income to which section HC 35 applies that is derived in an income year by a person who is a minor is—
 
 - (a) treated as trustee income for the purposes of who pays the tax and who provides the return of income; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Exclusions from corpus**
 
-**(3)**  The trustee of a trust has, from a property settlement that is referred to in section HC 4(3) to (5) and made in an income year, an amount of trustee income for the income year equal to the market value of the property settlement reduced by the amount of the market value that the trustee treats as beneficiary income, or as a taxable distribution made by the trustee, in the income year.
+**(3)** The trustee of a trust has, from a property settlement that is referred to in section HC 4(3) to (5) and made in an income year, an amount of trustee income for the income year equal to the market value of the property settlement reduced by the amount of the market value that the trustee treats as beneficiary income, or as a taxable distribution made by the trustee, in the income year.
 
 *Defined in this Act: amount, beneficiary income, corpus, income, income year, minor, pay, return of income, settlement, tax, taxable distribution, trustee, trustee income*
 

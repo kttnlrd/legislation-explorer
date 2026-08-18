@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Trading stock means property that a person who owns or carries on a business has for the purpose of selling or exchanging in the ordinary course of the business.
+**(1)** Trading stock means property that a person who owns or carries on a business has for the purpose of selling or exchanging in the ordinary course of the business.
 
 **Inclusions**
 
-**(2)**  Trading stock includes—
+**(2)** Trading stock includes—
 
 - (a) work of the following kinds that would be trading stock under subsection (1) if it were completed:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(3)**  Trading stock does not include—
+**(3)** Trading stock does not include—
 
 - (a) land:
 

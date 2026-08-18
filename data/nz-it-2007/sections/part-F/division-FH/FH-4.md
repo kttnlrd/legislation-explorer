@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the payee) receives a payment under a financial instrument (the payment instrument) of an amount and—
+**(1)** This section applies when a person (the payee) receives a payment under a financial instrument (the payment instrument) of an amount and—
 
 - (a) the payment would not give rise to assessable income of the payee in the absence of this section and section FH 6 or gives rise to assessable income of the payee that would not be allocated to a period meeting the requirements of subsection (7); and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Amount not recognised**
 
-**(2)**  A payment received by the payee meets the requirements of this subsection if—
+**(2)** A payment received by the payee meets the requirements of this subsection if—
 
 - (a) an amount of the payment does not give rise to assessable income of the payee; and
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Delayed recognition of amount**
 
-**(3)**  A payment received by the payee under a financial instrument meets the requirements of this subsection if—
+**(3)** A payment received by the payee under a financial instrument meets the requirements of this subsection if—
 
 - (a) the payment gives rise to assessable income of the payee that, in the absence of this section, would be allocated to a period that does not meet the requirements of subsection (7); and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Assessable income**
 
-**(4)**  The payee derives assessable income from the payment—
+**(4)** The payee derives assessable income from the payment—
 
 - (a) equal to the amount that would be assessable income of the payee if the classification of the payment or payment instrument were varied, for a payment meeting the requirements of subsection (2):
 
@@ -52,11 +52,11 @@ compilation_date: 2026-06-06
 
 **Imputation credit not included and not available**
 
-**(5)**  If the payment received by the payee is a replacement payment under a returning share transfer, the amount of an imputation credit attached to the replacement payment is not included in the assessable income under subsection (4) and is not available as a tax credit under section LE 1 (Tax credits for imputation credits).
+**(5)** If the payment received by the payee is a replacement payment under a returning share transfer, the amount of an imputation credit attached to the replacement payment is not included in the assessable income under subsection (4) and is not available as a tax credit under section LE 1 (Tax credits for imputation credits).
 
 **Timing of derivation under subsection (4)**
 
-**(6)**  The assessable income under subsection (4) is allocated to the income year in which—
+**(6)** The assessable income under subsection (4) is allocated to the income year in which—
 
 - (a) income from the payment would be derived if the classification of the payment or payment instrument were varied, for a payment meeting the requirements of subsection (2):
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Timing of recognised income**
 
-**(7)**  The period to which an amount of income is allocated meets the requirements of this subsection if the income is, or is reasonably expected to be, derived in an accounting period beginning within 24 months of the end of the accounting period to which a deduction or tax credit of the payer for the incurred expenditure is attributed.
+**(7)** The period to which an amount of income is allocated meets the requirements of this subsection if the income is, or is reasonably expected to be, derived in an accounting period beginning within 24 months of the end of the accounting period to which a deduction or tax credit of the payer for the incurred expenditure is attributed.
 
 *Defined in this Act: accounting period, amount, assessable income, financial instrument, hybrid mismatch legislation, imputation credit, income, income year, pay, related, replacement payment, returning share transfer, structured arrangement, tax credit*
 

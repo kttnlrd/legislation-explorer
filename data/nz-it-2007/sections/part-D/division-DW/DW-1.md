@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **No deduction (with exception)**
 
-**(1)**  An airport operator is denied a deduction for expenditure or loss to the extent to which the expenditure or loss is, in terms of the joint venture agreement that relates to the airport operator, a charge against any part of the joint income of the parties to the agreement that has been allocated or distributed to any party.
+**(1)** An airport operator is denied a deduction for expenditure or loss to the extent to which the expenditure or loss is, in terms of the joint venture agreement that relates to the airport operator, a charge against any part of the joint income of the parties to the agreement that has been allocated or distributed to any party.
 
 **Meaning of expenditure**
 
-**(2)**  In subsection (1), expenditure includes a provision that is treated as expenditure or loss in the nature of interest under sections HR 5 and HR 6 (which relate to airport operators).
+**(2)** In subsection (1), expenditure includes a provision that is treated as expenditure or loss in the nature of interest under sections HR 5 and HR 6 (which relate to airport operators).
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the general permission.
+**(3)** This section overrides the general permission.
 
 *Defined in this Act: airport operator, deduction, expenditure, general permission, income, joint venture agreement*
 

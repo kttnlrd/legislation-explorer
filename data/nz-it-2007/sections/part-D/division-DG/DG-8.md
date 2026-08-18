@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Limited deduction**
 
-**(1)**  A person is allowed a deduction for expenditure or loss, including an amount of depreciation loss, that they incur in relation to the income-earning use of an asset to the extent of the amount calculated using the formula in section DG 9(2).
+**(1)** A person is allowed a deduction for expenditure or loss, including an amount of depreciation loss, that they incur in relation to the income-earning use of an asset to the extent of the amount calculated using the formula in section DG 9(2).
 
 **Depreciation recovery and loss on disposal**
 
-**(2)**  In the treatment of assets generally,—
+**(2)** In the treatment of assets generally,—
 
 - (a) if some or all of the expenditure on an asset is apportioned for tax purposes on the basis of space, floor area, or on another similar basis, that method of apportionment overrides the rules in this subpart to the extent of the amount of the deduction:
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Relationship with other sections**
 
-**(3)**  This section—
+**(3)** This section—
 
 - (a) supplements the general permission and overrides the capital limitation and the private limitation, but the other limitations still apply:
 

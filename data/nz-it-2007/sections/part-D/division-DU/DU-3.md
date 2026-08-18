@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A mineral miner is allowed a deduction for expenditure incurred in acquiring land or an interest in land for the purposes of their mining operations or associated mining operations.
+**(1)** A mineral miner is allowed a deduction for expenditure incurred in acquiring land or an interest in land for the purposes of their mining operations or associated mining operations.
 
 **Exclusions**
 
-**(2)**  Subsection (1) does not apply to the following expenditure:
+**(2)** Subsection (1) does not apply to the following expenditure:
 
 - (a) expenditure incurred on or in relation to land that—
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(3)**  The deduction is allocated to the income year in which the mineral miner disposes of the land or interest in land.
+**(3)** The deduction is allocated to the income year in which the mineral miner disposes of the land or interest in land.
 
 **Treatment of losses on disposal of land**
 
-**(4)**  If the mineral miner has a net mining loss for a tax year after taking into account the amount derived from the disposal of the land or interest in land, they may have a tax credit for the amount of the loss on disposal under section LU 1 (Tax credits for mineral miners) for the corresponding income year.
+**(4)** If the mineral miner has a net mining loss for a tax year after taking into account the amount derived from the disposal of the land or interest in land, they may have a tax credit for the amount of the loss on disposal under section LU 1 (Tax credits for mineral miners) for the corresponding income year.
 
 **Link with subpart DA**
 
-**(5)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(5)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: amount, associated mining operations, capital limitation, deduction, general limitation, general permission, interest, income year, land, mineral miner, mining operations, net mining loss, permit area, residual expenditure, tax credit, tax year*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **No deduction: forestry company**
 
-**(1)**  A forestry company is denied a deduction for interest to which both the following apply:
+**(1)** A forestry company is denied a deduction for interest to which both the following apply:
 
 - (a) it is paid by the company under a qualifying debenture issued by the company; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **No deduction: Maori investment company**
 
-**(2)**  A Maori investment company is denied a deduction for interest to which both the following apply:
+**(2)** A Maori investment company is denied a deduction for interest to which both the following apply:
 
 - (a) it is paid by the company under a qualifying debenture issued by the company; and
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Relationship with section FA 2B**
 
-**(3)**  Section FA 2B (Stapled debt securities) does not apply to a qualifying debenture.
+**(3)** Section FA 2B (Stapled debt securities) does not apply to a qualifying debenture.
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the general permission.
+**(4)** This section overrides the general permission.
 
 *Defined in this Act: business, deduction, exempt income, forestry business, forestry company, general permission, holding company, interest, Maori investment company, Maori owners, pay, qualifying debenture*
 

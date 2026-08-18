@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  Despite section HM 12, the income derived by a foreign investment zero-rate PIE must consist of no amount other than—
+**(1)** Despite section HM 12, the income derived by a foreign investment zero-rate PIE must consist of no amount other than—
 
 - (a) a foreign-sourced amount:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Residence**
 
-**(2)**  A foreign investment zero-rate PIE is resident in New Zealand for the purposes of section HM 8 if it—
+**(2)** A foreign investment zero-rate PIE is resident in New Zealand for the purposes of section HM 8 if it—
 
 - (a) is a unit trust; and
 

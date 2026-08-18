@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for—
+**(1)** A person is allowed a deduction for—
 
 - (a) expenditure that they incur for the business use of a motor vehicle:
 
@@ -34,15 +34,15 @@ compilation_date: 2026-06-06
 
 **Amount, and timing, of deduction: expenditure**
 
-**(2)**  The amount of the deduction allowed in an income year for the expenditure for the business use of the vehicle is calculated using the formula— expenditure × business proportion.
+**(2)** The amount of the deduction allowed in an income year for the expenditure for the business use of the vehicle is calculated using the formula— expenditure × business proportion.
 
 **Definition of item in formula**
 
-**(3)**  In the formula in subsection (2), business proportion is the proportion of business use of the motor vehicle for the income year, expressed as a decimal, calculated under sections DE 3 to DE 11.
+**(3)** In the formula in subsection (2), business proportion is the proportion of business use of the motor vehicle for the income year, expressed as a decimal, calculated under sections DE 3 to DE 11.
 
 **Amount, and timing, of deduction: depreciation loss**
 
-**(4)**  The amount of the deduction allowed in an income year for the amount of depreciation loss for the business use of the vehicle is calculated—
+**(4)** The amount of the deduction allowed in an income year for the amount of depreciation loss for the business use of the vehicle is calculated—
 
 - (a) using the formula in subsection (5), except in a case to which paragraph (b) or (c) applies; or
 
@@ -52,11 +52,11 @@ compilation_date: 2026-06-06
 
 **Calculation of deduction: depreciation loss generally**
 
-**(5)**  The formula referred to in subsection (4)﻿(a) is— standard calculation × business proportion.
+**(5)** The formula referred to in subsection (4)﻿(a) is— standard calculation × business proportion.
 
 **Definition of items in formula**
 
-**(6)**  In the formula in subsection (5),—
+**(6)** In the formula in subsection (5),—
 
 - (a) standard calculation is the amount resulting from a calculation made for the motor vehicle under section EE 16 (Amount resulting from standard calculation):
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **When subsection (8) applies**
 
-**(7)**  Subsection (8) applies when—
+**(7)** Subsection (8) applies when—
 
 - (a) the amount of depreciation loss results from a calculation made for the motor vehicle under section EE 48(2) (Effect of disposal or event); and
 
@@ -72,11 +72,11 @@ compilation_date: 2026-06-06
 
 **Calculation of deduction: depreciation loss on disposal**
 
-**(8)**  The formula referred to in subsection (4)﻿(b) is— disposal depreciation loss × all deductions ÷ (base value − adjusted tax value).
+**(8)** The formula referred to in subsection (4)﻿(b) is— disposal depreciation loss × all deductions ÷ (base value − adjusted tax value).
 
 **Definition of items in formula**
 
-**(9)**  In the formula in subsection (8),—
+**(9)** In the formula in subsection (8),—
 
 - (a) disposal depreciation loss is the amount resulting from a calculation made for the vehicle under section EE 48(2):
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 **When subsection (11) applies**
 
-**(10)**  Subsection (11) applies when—
+**(10)** Subsection (11) applies when—
 
 - (a) the amount of depreciation loss results from a calculation made for the motor vehicle under section EE 48(2); and
 
@@ -96,11 +96,11 @@ compilation_date: 2026-06-06
 
 **Calculation of deduction: depreciation loss on disposal after business use**
 
-**(11)**  The formula referred to in subsection (4)﻿(c) is— disposal depreciation loss × business proportion.
+**(11)** The formula referred to in subsection (4)﻿(c) is— disposal depreciation loss × business proportion.
 
 **Definition of items in formula**
 
-**(12)**  In the formula in subsection (11),—
+**(12)** In the formula in subsection (11),—
 
 - (a) disposal depreciation loss is the amount resulting from a calculation made for the vehicle under section EE 48(2):
 
@@ -108,7 +108,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(13)**  This section supplements the general permission and overrides the private limitation. The other general limitations still apply.
+**(13)** This section supplements the general permission and overrides the private limitation. The other general limitations still apply.
 
 *Defined in this Act: adjusted tax value, amount, business use, deduction, depreciation loss, general limitation, general permission, income year, motor vehicle, own, private limitation, supplement*
 

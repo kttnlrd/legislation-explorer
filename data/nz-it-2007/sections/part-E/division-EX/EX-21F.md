@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections EX 21B, EX 21C, and EX 21E when an interest holder holds an income interest for only part of an accounting period (the part-period).
+**(1)** This section applies for the purposes of sections EX 21B, EX 21C, and EX 21E when an interest holder holds an income interest for only part of an accounting period (the part-period).
 
 **Requirements**
 
-**(2)**  The interest holder may determine that a CFC is a non-attributing active CFC if—
+**(2)** The interest holder may determine that a CFC is a non-attributing active CFC if—
 
 - (a) the CFC meets the requirements of section EX 21C for the use of applicable accounting standard in the application of section EX 21E; and
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Determination for interest holders**
 
-**(3)**  A determination under subsection (2) applies for the interest holder and no other person.
+**(3)** A determination under subsection (2) applies for the interest holder and no other person.
 
 **Alternative default method**
 
-**(4)**  If the requirements of subsection (2) are not met, the interest holder must use the default test set out in section EX 21D, applying the test to the full accounting period.
+**(4)** If the requirements of subsection (2) are not met, the interest holder must use the default test set out in section EX 21D, applying the test to the full accounting period.
 
 *Defined in this Act: accounting period, CFC, company, group of companies, income interest, non-attributing active CFC*
 

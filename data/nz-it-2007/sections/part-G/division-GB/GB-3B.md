@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a share in a company (the loss company) or another company has been subject to an arrangement, including an arrangement directly or indirectly altering rights attached to the shares; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Company treated as not meeting requirements**
 
-**(2)**  The loss company is treated as not meeting the requirements of section IZ 8 in relation to the shares.
+**(2)** The loss company is treated as not meeting the requirements of section IZ 8 in relation to the shares.
 
 *Defined in this Act: arrangement, company, share*
 

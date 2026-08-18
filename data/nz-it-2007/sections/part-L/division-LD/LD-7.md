@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section LD 4 when the amount of a payroll donation is, for whatever reason, returned to the person.
+**(1)** This section applies for the purposes of section LD 4 when the amount of a payroll donation is, for whatever reason, returned to the person.
 
 **Treatment of credit**
 
-**(2)**  The tax credit is extinguished.
+**(2)** The tax credit is extinguished.
 
 **Consequences when credit extinguished**
 
-**(3)**  The consequences that arise when a tax credit is extinguished under subsection (2) are—
+**(3)** The consequences that arise when a tax credit is extinguished under subsection (2) are—
 
 - (a) the amount of the credit is removed from the person's tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
 

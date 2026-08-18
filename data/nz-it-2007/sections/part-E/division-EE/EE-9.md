@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Depreciation methods**
 
-**(1)**  Sections EE 12 to EE 24 deal with the methods of calculating an amount of depreciation loss. The methods are—
+**(1)** Sections EE 12 to EE 24 deal with the methods of calculating an amount of depreciation loss. The methods are—
 
 - (a) the straight-line method, which is dealt with in sections EE 13 to EE 19; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Depreciation rates**
 
-**(2)**  Sections EE 26 to EE 36 deal with the rates of depreciation. The rates are—
+**(2)** Sections EE 26 to EE 36 deal with the rates of depreciation. The rates are—
 
 - (a) the economic rate, which is dealt with in section EE 26; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Improvements, low value items, and items no longer used**
 
-**(3)**  Sections EE 37 to EE 39 deal with the cases of—
+**(3)** Sections EE 37 to EE 39 deal with the cases of—
 
 - (a) an improvement made to an item of depreciable property; and
 
@@ -42,15 +42,15 @@ compilation_date: 2026-06-06
 
 **Transfers**
 
-**(4)**  Sections EE 40 to EE 43 deal with the transfer of items of depreciable property in certain amalgamations and between associated persons.
+**(4)** Sections EE 40 to EE 43 deal with the transfer of items of depreciable property in certain amalgamations and between associated persons.
 
 **Disposals and similar events**
 
-**(5)**  Sections EE 44 to EE 52 deal with disposals of property and events that involve property and are similar to disposal.
+**(5)** Sections EE 44 to EE 52 deal with disposals of property and events that involve property and are similar to disposal.
 
 **Interpretation provisions**
 
-**(6)**  Sections EE 54 to EE 67 deal with the following interpretation matters:
+**(6)** Sections EE 54 to EE 67 deal with the following interpretation matters:
 
 - (a) section EE 54 deals with the effect of goods and services tax (GST) on cost; and
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections EZ 9 to EZ 28**
 
-**(7)**  Sections EZ 9 to EZ 28 (which relate to depreciation) deal with items acquired in periods before 24 September 1997.
+**(7)** Sections EZ 9 to EZ 28 (which relate to depreciation) deal with items acquired in periods before 24 September 1997.
 
 *Defined in this Act: adjusted tax value, amount, annual rate, associated person, depreciable property, depreciation loss, depreciation method, diminishing value method, dispose, economic rate, GST, improvement, pool method, property, provisional rate, special rate, straight-line method*
 

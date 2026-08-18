@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  For the purposes of this Act, for property to which both the following apply, the amount of the deduction is the market value of the property on the last day of the 1989–90 income year:
+**(1)** For the purposes of this Act, for property to which both the following apply, the amount of the deduction is the market value of the property on the last day of the 1989–90 income year:
 
 - (a) the property is land or buildings acquired on or before the last day of the 1989–90 income year; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(2)**  For the purposes of this Act, for property to which both the following apply, the amount of the deduction is the specified base cost for 1983 income year property:
+**(2)** For the purposes of this Act, for property to which both the following apply, the amount of the deduction is the specified base cost for 1983 income year property:
 
 - (a) the property was acquired on or before the last day of the 1982–83 income year; and
 

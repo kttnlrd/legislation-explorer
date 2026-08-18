@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person disposes of shares in a company in an income year; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **When amount substitutes for dividend**
 
-**(2)**  An amount derived by the person is in substitution for a dividend if it is equivalent to or substitutes for a dividend that, but for the arrangement, the person—
+**(2)** An amount derived by the person is in substitution for a dividend if it is equivalent to or substitutes for a dividend that, but for the arrangement, the person—
 
 - (a) would have derived; or
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Substitute treated as dividend**
 
-**(3)**  The amount derived in substitution for a dividend is treated as a dividend derived by the person in the income year in which the disposal occurs.
+**(3)** The amount derived in substitution for a dividend is treated as a dividend derived by the person in the income year in which the disposal occurs.
 
 *Defined in this Act: arrangement, company, dispose, dividend, income year, tax avoidance arrangement*
 

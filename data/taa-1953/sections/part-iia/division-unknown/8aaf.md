@@ -17,10 +17,10 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s8AAF-1"></a>
-**(1)**  The Commissioner may give notice to a person liable to pay the charge of the amount of the charge for a particular day or days.
+**(1)** The Commissioner may give notice to a person liable to pay the charge of the amount of the charge for a particular day or days.
 
 <a id="s8AAF-4"></a>
-**(4)**  A notice given to a person by the Commissioner under this section is prima facie evidence of the matters stated in the notice.
+**(4)** A notice given to a person by the Commissioner under this section is prima facie evidence of the matters stated in the notice.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

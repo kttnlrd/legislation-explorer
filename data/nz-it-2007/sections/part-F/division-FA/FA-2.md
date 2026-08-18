@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Treatment of debenture and interest**
 
-**(1)**  A profit-related debenture is treated for tax purposes as a share described in paragraph (b) of the definition of share in section YA 1 (Definitions), and the interest payable under the debenture is treated as a dividend.
+**(1)** A profit-related debenture is treated for tax purposes as a share described in paragraph (b) of the definition of share in section YA 1 (Definitions), and the interest payable under the debenture is treated as a dividend.
 
 **No deduction**
 
-**(2)**  A company issuing a profit-related debenture is denied a deduction under section DB 10 (Interest or expenditure connected to profit-related debentures) for—
+**(2)** A company issuing a profit-related debenture is denied a deduction under section DB 10 (Interest or expenditure connected to profit-related debentures) for—
 
 - (a) interest payable under the debenture; or
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Profit-related debenture**
 
-**(4)**  A profit-related debenture—
+**(4)** A profit-related debenture—
 
 - (a) means a debenture with a rate of interest that is set from time to time by reference to—
 
@@ -46,11 +46,11 @@ compilation_date: 2026-06-06
 
 **Terminating provisions**
 
-**(8)**  For the treatment of debentures issued before 8 pm New Zealand standard time on 23 October 1986, see section FZ 1.
+**(8)** For the treatment of debentures issued before 8 pm New Zealand standard time on 23 October 1986, see section FZ 1.
 
 **Relationship with agency rules**
 
-**(9)**  Section HD 14 (Companies issuing debentures) does not apply to a profit-related debenture described in this section, or to an amount paid or payable under it.
+**(9)** Section HD 14 (Companies issuing debentures) does not apply to a profit-related debenture described in this section, or to an amount paid or payable under it.
 
 *Defined in this Act: amount, available subscribed capital, company, convertible note, debenture, deduction, dividend, interest, liquidation, loss, pay, profit-related debenture, share, shareholder, slice rule, tax*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income: overtime meals**
 
-**(1)**  An amount that an employer pays to or on behalf of an employee for a meal for the employee when the employee is working overtime is exempt income of the employee.
+**(1)** An amount that an employer pays to or on behalf of an employee for a meal for the employee when the employee is working overtime is exempt income of the employee.
 
 **Exempt income: certain sustenance allowances**
 
-**(2)**  An amount that an employer pays to an employee as a sustenance allowance for the employee for a day is exempt income of the employee if—
+**(2)** An amount that an employer pays to an employee as a sustenance allowance for the employee for a day is exempt income of the employee if—
 
 - (a) the employee works a minimum of 7 hours on the day; and
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Eligibility requirements: overtime meals**
 
-**(3)**  Subsection (1) applies only if—
+**(3)** Subsection (1) applies only if—
 
 - (a) the employee has worked at least 2 hours' overtime on the day of the meal; and
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Eligibility requirements: sustenance allowances**
 
-**(4)**  Subsection (2) applies only if the employer has an established policy or practice of paying a sustenance allowance.
+**(4)** Subsection (2) applies only if the employer has an established policy or practice of paying a sustenance allowance.
 
 **Actual cost or reasonable estimate**
 
-**(5)**  The amount paid must be—
+**(5)** The amount paid must be—
 
 - (a) the actual cost to the employee, and for an overtime meal referred to in subsection (1), with documentation required for amounts over $20 per meal; or
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Meaning of overtime**
 
-**(6)**  For the purposes of this section, overtime, for a person and a day, means time worked for an employer on the day beyond the person's ordinary hours of work as set out in their employment agreement.
+**(6)** For the purposes of this section, overtime, for a person and a day, means time worked for an employer on the day beyond the person's ordinary hours of work as set out in their employment agreement.
 
 *Defined in this Act: amount, employee, employer, exempt income, overtime, pay*
 

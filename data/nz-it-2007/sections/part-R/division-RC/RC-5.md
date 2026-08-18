@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Choice of method**
 
-**(1)**  A person liable to pay provisional tax must calculate the amount payable for a tax year using 1 of the methods described in subsections (2) to (7).
+**(1)** A person liable to pay provisional tax must calculate the amount payable for a tax year using 1 of the methods described in subsections (2) to (7).
 
 **Standard method: 5% uplift**
 
-**(2)**  Under the standard method, the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 105% of the person's residual income tax for the preceding tax year, determined under section RC 6. Subsection (3) overrides this subsection.
+**(2)** Under the standard method, the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 105% of the person's residual income tax for the preceding tax year, determined under section RC 6. Subsection (3) overrides this subsection.
 
 **Standard method: 10% uplift**
 
-**(3)**  Despite subsection (2), the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 110% of the person's residual income tax for the tax year before the preceding tax year if—
+**(3)** Despite subsection (2), the amount of provisional tax payable for the tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section RC 9, 110% of the person's residual income tax for the tax year before the preceding tax year if—
 
 - (a) they are required to provide a return of income for the preceding tax year; and
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Relationships and modification of standard method**
 
-**(4)**  Subsections (5) to (7) override subsection (3). Sections RC 10(5), RZ 3 (Standard method: 2010–11 to 2012–13 income years) and RZ 5D (Standard method or GST method: transition for Maori authorities) modify subsections (2) and (3).
+**(4)** Subsections (5) to (7) override subsection (3). Sections RC 10(5), RZ 3 (Standard method: 2010–11 to 2012–13 income years) and RZ 5D (Standard method or GST method: transition for Maori authorities) modify subsections (2) and (3).
 
 **Truncation**
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Estimation method**
 
-**(5)**  The person may estimate their provisional tax liability for the tax year under section RC 7.
+**(5)** The person may estimate their provisional tax liability for the tax year under section RC 7.
 
 **AIM method**
 
@@ -80,15 +80,15 @@ compilation_date: 2026-06-06
 
 **GST ratio method**
 
-**(6)**  A person who is eligible under section RC 16 and not excluded by section RC 17 may choose to use a goods and services tax (GST) ratio under section RC 8 to determine their provisional tax liability for the tax year.
+**(6)** A person who is eligible under section RC 16 and not excluded by section RC 17 may choose to use a goods and services tax (GST) ratio under section RC 8 to determine their provisional tax liability for the tax year.
 
 **Commissioner's determination**
 
-**(7)**  If the Commissioner determines a person's provisional tax liability under section 119 of the Tax Administration Act 1994, the amount or liability is that last determined by the Commissioner and notified to the person at least 30 days before the instalment date. The 30-day requirement does not apply in a case to which section 119(1)﻿(d) of that Act applies (which relates to an estimate of residual income tax that is not fair and reasonable).
+**(7)** If the Commissioner determines a person's provisional tax liability under section 119 of the Tax Administration Act 1994, the amount or liability is that last determined by the Commissioner and notified to the person at least 30 days before the instalment date. The 30-day requirement does not apply in a case to which section 119(1)﻿(d) of that Act applies (which relates to an estimate of residual income tax that is not fair and reasonable).
 
 **Life insurance business**
 
-**(8)**  A person who carries on a business of providing life insurance and who is liable for income tax under the rules for life insurers, must at the time they determine their provisional tax liability provide the Commissioner with details of the calculation of that liability. In particular, they must detail the extent to which the amount of provisional tax relates to the policyholder base.
+**(8)** A person who carries on a business of providing life insurance and who is liable for income tax under the rules for life insurers, must at the time they determine their provisional tax liability provide the Commissioner with details of the calculation of that liability. In particular, they must detail the extent to which the amount of provisional tax relates to the policyholder base.
 
 *Defined in this Act: AIM-capable accounting system, amount, annual gross income, business, Commissioner, corresponding income year, GST ratio, income tax, instalment date, large business AIM-capable system, life insurance, notify, pay, policyholder base, provisional tax, residual income tax, return of income, shortfall penalty, tax year, taxpayer, transitional year*
 

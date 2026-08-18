@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(1)**  A person is denied a deduction for expenditure or loss that they incur—
+**(1)** A person is denied a deduction for expenditure or loss that they incur—
 
 - (a) on the racing of bloodstock; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **No deduction (with exception)**
 
-**(2)**  A person is denied a deduction for expenditure or loss that they incur in preparing bloodstock for racing, except, first, when—
+**(2)** A person is denied a deduction for expenditure or loss that they incur in preparing bloodstock for racing, except, first, when—
 
 - (a) the person is in the business of breeding bloodstock; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **No deduction (with exception)**
 
-**(3)**  A person is denied a deduction for expenditure or loss that they incur in preparing bloodstock for racing, except, second, when—
+**(3)** A person is denied a deduction for expenditure or loss that they incur in preparing bloodstock for racing, except, second, when—
 
 - (a) the person incurs the expenditure or loss in preparing the bloodstock for racing; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(4)**  This section overrides the general permission.
+**(4)** This section overrides the general permission.
 
 *Defined in this Act: bloodstock, business, deduction, general permission, income, loss*
 

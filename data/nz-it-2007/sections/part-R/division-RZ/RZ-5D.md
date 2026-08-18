@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when the provisional tax liability of a Maori authority is calculated for the 2011–12 and 2012–13 income years (the transitional period).
+**(1)** This section applies when the provisional tax liability of a Maori authority is calculated for the 2011–12 and 2012–13 income years (the transitional period).
 
 **Application of modified sections RZ 3 to RZ 5**
 
-**(2)**  Sections RZ 3 to RZ 5 apply for the transitional period to the Maori authority and the Maori authority's provisional tax liability as if—
+**(2)** Sections RZ 3 to RZ 5 apply for the transitional period to the Maori authority and the Maori authority's provisional tax liability as if—
 
 - (a) the Maori authority were a new company tax rate person:
 

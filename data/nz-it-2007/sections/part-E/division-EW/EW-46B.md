@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a party to a financial arrangement—
+**(1)** This section applies when a party to a financial arrangement—
 
 - (a) changes from the fair value method to another method; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Consideration**
 
-**(2)**  The person is treated as having been paid an amount equal to the market value of the financial arrangement at the end of the first income year for which the replacement method is used for the financial arrangement.
+**(2)** The person is treated as having been paid an amount equal to the market value of the financial arrangement at the end of the first income year for which the replacement method is used for the financial arrangement.
 
 *Defined in this Act: amount, fair value method, financial arrangement*
 

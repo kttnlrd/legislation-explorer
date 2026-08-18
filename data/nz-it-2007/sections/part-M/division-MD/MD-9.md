@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Normally earner**
 
-**(1)**  The fifth requirement for an entitlement to an in-work tax credit is that either or both the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, is normally an earner (the earner). Also, the earner must—
+**(1)** The fifth requirement for an entitlement to an in-work tax credit is that either or both the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, is normally an earner (the earner). Also, the earner must—
 
 - (a) derive income as set out in subsections (2) and (3) as an earner, or derive an amount of compensation described in subsection (4), or not derive income but meet the alternative requirements in subsection (6); or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The income referred to in subsection (1)﻿(a) is—
+**(2)** The income referred to in subsection (1)﻿(a) is—
 
 - (a) a PAYE income payment that is—
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Exclusions from income**
 
-**(3)**  The following PAYE income payments are excluded from income under subsection (2):
+**(3)** The following PAYE income payments are excluded from income under subsection (2):
 
 - (a) a payment referred to in paragraphs (a) to (c) of the definition of accident compensation earnings-related payment:
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Compensation payments for incapacities suffered between 1 January 2006 and 31 March 2006**
 
-**(4)**  A person meets the fifth requirement if—
+**(4)** A person meets the fifth requirement if—
 
 - (a) they received a child tax credit for an entitlement period ending on 31 March 2006; and
 
@@ -70,11 +70,11 @@ compilation_date: 2026-06-06
 
 **Absence from work due to birth of child**
 
-**(5)**  Despite subsection (1), a person also meets the fifth requirement if they normally derive income as set out in subsections (2) and (3) as a full-time earner but, in a 1-week period, they do not work, or work less than, the number of hours required to be a full-time earner because of the birth of a child. However, this subsection applies only if the person is entitled to receive the parental tax credit for the child.
+**(5)** Despite subsection (1), a person also meets the fifth requirement if they normally derive income as set out in subsections (2) and (3) as a full-time earner but, in a 1-week period, they do not work, or work less than, the number of hours required to be a full-time earner because of the birth of a child. However, this subsection applies only if the person is entitled to receive the parental tax credit for the child.
 
 **14 day concession**
 
-**(6)**  A person meets the fifth requirement if they do not derive income or otherwise do not meet the fifth requirement, but have met the fifth requirement within the last 14 days.
+**(6)** A person meets the fifth requirement if they do not derive income or otherwise do not meet the fifth requirement, but have met the fifth requirement within the last 14 days.
 
 *Defined in this Act: amount, business, child, child tax credit, civil union partner, close company, contract activity or service, contract payment, de facto partner, earner, entitlement period, full-time earner, income, income from employment, income year, in-work tax credit, major shareholder, non-resident contractor, parental tax credit, pay, PAYE income payment, schedular payment, spouse, tax credit*
 

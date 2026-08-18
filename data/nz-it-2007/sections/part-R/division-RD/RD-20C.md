@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to a person for a payment (the recalculated main benefit payment) that is made in a lump sum in an income year and arises from a recalculation of the amount of main benefit payable to the person for 1 or more earlier income years.
+**(1)** This section applies to a person for a payment (the recalculated main benefit payment) that is made in a lump sum in an income year and arises from a recalculation of the amount of main benefit payable to the person for 1 or more earlier income years.
 
 **Tax rate for payment**
 
-**(2)**  The rate of income tax given by subsection (3) applies to the recalculated main benefit payment for the income year in which the person derives the payment.
+**(2)** The rate of income tax given by subsection (3) applies to the recalculated main benefit payment for the income year in which the person derives the payment.
 
 **Formula for tax rate**
 
-**(3)**  The rate of income tax referred to in subsection (2) is the rate calculated using the formula— tax deduction ÷ (received amount + tax deduction).
+**(3)** The rate of income tax referred to in subsection (2) is the rate calculated using the formula— tax deduction ÷ (received amount + tax deduction).
 
 **Definition of items in formula**
 
-**(4)**  In the formula in subsection (3),—
+**(4)** In the formula in subsection (3),—
 
 - (a) tax deduction is the amount paid to the Commissioner by the department of State responsible for the administration of the Social Security Act 2018 (the MSD) as the amount for income tax payable on the recalculated main benefit payment:
 

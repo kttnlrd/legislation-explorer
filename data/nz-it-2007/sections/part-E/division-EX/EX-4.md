@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Non-resident relatives**
 
-**(1)**  For the purposes of section EX 3, a New Zealand resident is associated with a non-resident relative only if the New Zealand resident holds a direct control interest or indirect control interest in the foreign company.
+**(1)** For the purposes of section EX 3, a New Zealand resident is associated with a non-resident relative only if the New Zealand resident holds a direct control interest or indirect control interest in the foreign company.
 
 **No double counting**
 
-**(2)**  Despite section EX 3(1)﻿(b) and (d), for the purposes of determining whether a foreign company is a CFC, a direct control interest or indirect control interest may be counted only once.
+**(2)** Despite section EX 3(1)﻿(b) and (d), for the purposes of determining whether a foreign company is a CFC, a direct control interest or indirect control interest may be counted only once.
 
 *Defined in this Act: associated person, CFC, control interest, direct control interest, foreign company, New Zealand resident, non-resident, relative*
 

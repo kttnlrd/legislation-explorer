@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person who is a lessor of land derives an amount for non-compliance by the lessee with an obligation under a lease of the land—
+**(1)** This section applies when a person who is a lessor of land derives an amount for non-compliance by the lessee with an obligation under a lease of the land—
 
 - (a) to maintain the land; or
 
@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount is income of the lessor.
+**(2)** The amount is income of the lessor.
 
 **Timing of income**
 
-**(3)**  The income is allocated to the income year in which the lessor receives the amount.
+**(3)** The income is allocated to the income year in which the lessor receives the amount.
 
 **Relationship with sections EI 5 and EI 6**
 
-**(4)**  Subsection (3) is overridden by sections EI 5 (Amount paid to lessor for non-compliance with covenant for repair) and EI 6 (Amount paid for non-compliance: when lessor ceases to own land).
+**(4)** Subsection (3) is overridden by sections EI 5 (Amount paid to lessor for non-compliance with covenant for repair) and EI 6 (Amount paid for non-compliance: when lessor ceases to own land).
 
 *Defined in this Act: amount, income, income year, lease, repairs*
 

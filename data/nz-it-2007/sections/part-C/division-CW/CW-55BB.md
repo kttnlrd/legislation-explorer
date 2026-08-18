@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a tax year to a person, other than an absentee, when the person is—
+**(1)** This section applies for a tax year to a person, other than an absentee, when the person is—
 
 - (a) younger than 15:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Exempt income—if less than limit**
 
-**(2)**  An amount of income derived by the person in the tax year is exempt income if—
+**(2)** An amount of income derived by the person in the tax year is exempt income if—
 
 - (a) the income is none of—
 

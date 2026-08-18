@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **General rule**
 
-**(1)**  Section EL 4 does not apply to residential land of a person for an income year if more than 50% of the land is used for most of the income year by the person as their main home.
+**(1)** Section EL 4 does not apply to residential land of a person for an income year if more than 50% of the land is used for most of the income year by the person as their main home.
 
 **Beneficiaries**
 
-**(2)**  Subsection (1) applies to trust property when—
+**(2)** Subsection (1) applies to trust property when—
 
 - (a) more than 50% of the land is used for most of the income year by a beneficiary of the trust as their main home; and
 

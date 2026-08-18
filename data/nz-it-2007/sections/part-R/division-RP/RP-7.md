@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an employer who meets the requirements of sections RP 8 to RP 11 arranges to transfer their PAYE obligations in relation to an employee and a pay period to a PAYE intermediary.
+**(1)** This section applies when an employer who meets the requirements of sections RP 8 to RP 11 arranges to transfer their PAYE obligations in relation to an employee and a pay period to a PAYE intermediary.
 
 **PAYE liabilities**
 
-**(2)**  The employer is not liable under the PAYE rules in relation to the employee and the pay period. However, the employer remains liable for the payment to the employee of the salary or wages for the pay period.
+**(2)** The employer is not liable under the PAYE rules in relation to the employee and the pay period. However, the employer remains liable for the payment to the employee of the salary or wages for the pay period.
 
 **ESCT liabilities**
 
-**(3)**  If the PAYE intermediary assumes the employer's obligations under the ESCT rules, the employer is not liable under the ESCT rules in relation to the employee and the pay period. However, the employer remains liable for the payment to the employee of the employer's superannuation cash contribution made on the employee's behalf.
+**(3)** If the PAYE intermediary assumes the employer's obligations under the ESCT rules, the employer is not liable under the ESCT rules in relation to the employee and the pay period. However, the employer remains liable for the payment to the employee of the employer's superannuation cash contribution made on the employee's behalf.
 
 *Defined in this Act: employee, employer, employer's superannuation cash contribution, ESCT rules, pay period, PAYE, PAYE intermediary, PAYE rules, salary or wages*
 

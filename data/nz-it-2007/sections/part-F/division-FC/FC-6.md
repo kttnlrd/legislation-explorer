@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when forestry assets are transferred on a person's death to a close relative of the person.
+**(1)** This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when forestry assets are transferred on a person's death to a close relative of the person.
 
 **Forestry assets**
 
-**(2)**  A transfer of a forestry asset, including any intervening transfer to an executor or administrator, is treated as a transfer of property on a settlement of relationship property—
+**(2)** A transfer of a forestry asset, including any intervening transfer to an executor or administrator, is treated as a transfer of property on a settlement of relationship property—
 
 - (a) under section FB 6 (Timber or right to take timber), when the forestry asset is timber or a right to take timber:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Meaning of forestry assets**
 
-**(3)**  In this section, forestry assets means timber, standing timber, or a right to take timber.
+**(3)** In this section, forestry assets means timber, standing timber, or a right to take timber.
 
 *Defined in this Act: close relative, forestry assets, right to take timber, settlement of relationship property, standing timber, timber*
 

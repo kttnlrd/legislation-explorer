@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to a premium that is treated as having a source in New Zealand under section YD 8 (Apportionment of premiums derived by non-resident general insurers) if—
+**(1)** This section applies to a premium that is treated as having a source in New Zealand under section YD 8 (Apportionment of premiums derived by non-resident general insurers) if—
 
 - (a) an insured person pays the premium to an insurer for insurance of any of the kinds described in subsection (3); and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Amount of income**
 
-**(2)**  Ten percent of the gross premium derived by the insurer is income of the insurer.
+**(2)** Ten percent of the gross premium derived by the insurer is income of the insurer.
 
 **Kinds of insurance**
 
-**(3)**  The kinds of insurance referred to in subsection (1)﻿(a) are—
+**(3)** The kinds of insurance referred to in subsection (1)﻿(a) are—
 
 - (a) general insurance:
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Conditions for premium**
 
-**(4)**  The premium referred to in subsection (1)﻿(b) is—
+**(4)** The premium referred to in subsection (1)﻿(b) is—
 
 - (a) a premium derived by an insurer who is not resident in New Zealand when they derive it:
 

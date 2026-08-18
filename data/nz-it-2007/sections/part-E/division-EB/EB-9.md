@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Valuation at discounted selling price**
 
-**(1)**  A person may determine the value of their closing stock at its discounted selling price if they use discounted selling price for their trading stock in their financial statements.
+**(1)** A person may determine the value of their closing stock at its discounted selling price if they use discounted selling price for their trading stock in their financial statements.
 
 **Retailers**
 
-**(2)**  If the person is a retailer, the discounted selling price for each department or category of goods is the total of the retail selling prices of the goods minus the normal gross profit margin for the department or category of goods. This subsection is overridden by subsection (4).
+**(2)** If the person is a retailer, the discounted selling price for each department or category of goods is the total of the retail selling prices of the goods minus the normal gross profit margin for the department or category of goods. This subsection is overridden by subsection (4).
 
 **Normal gross profit margin for purposes of subsection (2)**
 
-**(3)**  For the purposes of subsection (2), the person must—
+**(3)** For the purposes of subsection (2), the person must—
 
 - (a) calculate the normal gross profit margin for the department or category of goods under NZIAS 2 or an equivalent standard issued in its place; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Retailers with turnover of $1,000,000 or less**
 
-**(4)**  A trader who is a retailer whose turnover is $1,000,000 or less may determine the discounted selling price of all closing stock valued under this method in an income year by discounting the total of the retail selling prices of the stock by the average gross profit margin for all closing stock valued under this method in the income year.
+**(4)** A trader who is a retailer whose turnover is $1,000,000 or less may determine the discounted selling price of all closing stock valued under this method in an income year by discounting the total of the retail selling prices of the stock by the average gross profit margin for all closing stock valued under this method in the income year.
 
 **Increase in specified sum**
 
-**(5)**  The Governor-General may make an Order in Council increasing the sum specified in subsection (4).
+**(5)** The Governor-General may make an Order in Council increasing the sum specified in subsection (4).
 
 **Secondary legislation**
 
@@ -42,11 +42,11 @@ compilation_date: 2026-06-06
 
 **Not retailers**
 
-**(6)**  If the person is not a retailer, the discounted selling price for each category of goods is the total market selling value of the goods minus the normal gross profit margin for the category of goods.
+**(6)** If the person is not a retailer, the discounted selling price for each category of goods is the total market selling value of the goods minus the normal gross profit margin for the category of goods.
 
 **Normal gross profit margin for purposes of subsection (6)**
 
-**(7)**  For the purposes of subsection (6), the person must—
+**(7)** For the purposes of subsection (6), the person must—
 
 - (a) calculate the normal gross profit margin for each income year for each category of goods; and
 

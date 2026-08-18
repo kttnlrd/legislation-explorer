@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of the international tax rules to determine the country in which a foreign company is treated as resident for an accounting period.
+**(1)** This section applies for the purposes of the international tax rules to determine the country in which a foreign company is treated as resident for an accounting period.
 
 **Liability to income tax**
 
-**(2)**  The company is treated as resident in a country if, at any time during the accounting period, it is liable to income tax in the country because any of the following is located in the country—
+**(2)** The company is treated as resident in a country if, at any time during the accounting period, it is liable to income tax in the country because any of the following is located in the country—
 
 - (a) its domicile:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Further rule: first application**
 
-**(3)**  Subsection (4) applies if the application of subsection (2) for an accounting period means that—
+**(3)** Subsection (4) applies if the application of subsection (2) for an accounting period means that—
 
 - (a) the company is resident in 2 or more countries:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Applying New Zealand rules**
 
-**(4)**  Subject to section YD 2(1C), the company is treated as resident in the country in which—
+**(4)** Subject to section YD 2(1C), the company is treated as resident in the country in which—
 
 - (a) it is incorporated:
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Further rule: second application**
 
-**(5)**  The company is treated as resident in the country in which its centre of management is located for the accounting period if no 1 country of residence is identified under subsection (4).
+**(5)** The company is treated as resident in the country in which its centre of management is located for the accounting period if no 1 country of residence is identified under subsection (4).
 
 **Final rule**
 
-**(6)**  The Commissioner must determine the country of residence if no 1 country of residence is identified under subsection (5).
+**(6)** The Commissioner must determine the country of residence if no 1 country of residence is identified under subsection (5).
 
 *Defined in this Act: accounting period, Commissioner, company, director, foreign company, international tax rules*
 

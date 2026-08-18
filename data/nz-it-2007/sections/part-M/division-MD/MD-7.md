@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Third requirement**
 
-**(1)**  The third requirement for an entitlement to an in-work tax credit is that the person or child referred to in section MD 4 meet the residence requirements of subsections (2) and (3), as applicable.
+**(1)** The third requirement for an entitlement to an in-work tax credit is that the person or child referred to in section MD 4 meet the residence requirements of subsections (2) and (3), as applicable.
 
 **When person meets residence requirements**
 
-**(2)**  The person meets the residence requirements of subsection (1) if the person—
+**(2)** The person meets the residence requirements of subsection (1) if the person—
 
 - (a) has been—
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **When child meets residence requirements**
 
-**(3)**  The child meets the residence requirements of subsection (1) if the child is both resident and present in New Zealand for the entitlement period.
+**(3)** The child meets the residence requirements of subsection (1) if the child is both resident and present in New Zealand for the entitlement period.
 
 *Defined in this Act: child, civil union partner, de facto partner, entitlement period, in-work tax credit, New Zealand, New Zealand resident, spouse, tax credit, transitional resident*
 

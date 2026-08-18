@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) an amount is paid to a person (person A) who is acting as trustee for another person (person B) at the time; and
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Obligation to withhold**
 
-**(2)**  At the time the payment is made and to the extent to which it has not already been withheld, person A must withhold RWT for the payment and pay it to the Commissioner.
+**(2)** At the time the payment is made and to the extent to which it has not already been withheld, person A must withhold RWT for the payment and pay it to the Commissioner.
 
 **Relationship with section RE 9**
 
-**(3)**  Section RE 9 overrides this section.
+**(3)** Section RE 9 overrides this section.
 
 *Defined in this Act: amount, Commissioner, nominee, pay, replacement payment, resident passive income, RWT, RWT-exempt status, share-lending arrangement, taxable activity, trustee*
 

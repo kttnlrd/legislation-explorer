@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person is allowed a deduction for expenditure or loss; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount derived is, to the extent of the deduction, income of the person.
+**(2)** The amount derived is, to the extent of the deduction, income of the person.
 
 **Timing of income**
 
-**(3)**  The income is allocated to the later of—
+**(3)** The income is allocated to the later of—
 
 - (a) the income year in which the expenditure or loss is incurred:
 

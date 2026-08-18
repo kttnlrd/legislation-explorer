@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Lessee treated as owner**
 
-**(1)**  The lessee under a finance lease is treated as the owner of the personal property lease asset for the purposes of subpart EE (Depreciation).
+**(1)** The lessee under a finance lease is treated as the owner of the personal property lease asset for the purposes of subpart EE (Depreciation).
 
 **Lessor not treated as owner**
 
-**(2)**  The lessor under a finance lease is not treated as the owner of the personal property lease asset for the purposes of subpart EE.
+**(2)** The lessor under a finance lease is not treated as the owner of the personal property lease asset for the purposes of subpart EE.
 
 *Defined in this Act: finance lease, lessee, lessor, personal property lease asset*
 

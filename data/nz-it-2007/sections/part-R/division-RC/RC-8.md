@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Using GST ratio**
 
-**(1)**  A person liable to pay provisional tax who meets the requirements of section RC 16 and is not excluded by section RC 17 may choose to use a GST ratio to determine the amount of provisional tax payable for a tax year.
+**(1)** A person liable to pay provisional tax who meets the requirements of section RC 16 and is not excluded by section RC 17 may choose to use a GST ratio to determine the amount of provisional tax payable for a tax year.
 
 **Meaning of GST ratio**
 
-**(2)**  The person's GST ratio is the percentage figure that is obtained by dividing their residual income tax for the preceding tax year by their total taxable supplies for the corresponding income year. The amount of residual income tax and the amount of total taxable supplies are called base amounts for the purposes of this section.
+**(2)** The person's GST ratio is the percentage figure that is obtained by dividing their residual income tax for the preceding tax year by their total taxable supplies for the corresponding income year. The amount of residual income tax and the amount of total taxable supplies are called base amounts for the purposes of this section.
 
 **When amounts based on tax year before preceding tax year**
 
-**(3)**  If a base amount for the preceding tax year or corresponding income year is not known, the GST ratio is the percentage based on the assessment for the tax year and corresponding income year that are just before the preceding tax year and corresponding income year.
+**(3)** If a base amount for the preceding tax year or corresponding income year is not known, the GST ratio is the percentage based on the assessment for the tax year and corresponding income year that are just before the preceding tax year and corresponding income year.
 
 **When no assessment for tax year before preceding tax year**
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Commissioner's calculation**
 
-**(4)**  The Commissioner must calculate a person's GST ratio, informing them by—
+**(4)** The Commissioner must calculate a person's GST ratio, informing them by—
 
 - (a) including the percentage figure on the person's preprinted GST return form; or
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Adjustment to GST ratio**
 
-**(5)**  The Commissioner must adjust a person's GST ratio if a base amount is revised through, among other reasons,—
+**(5)** The Commissioner must adjust a person's GST ratio if a base amount is revised through, among other reasons,—
 
 - (a) an assessment or an amended assessment of the person's income tax return for the preceding tax year; or
 
@@ -60,11 +60,11 @@ compilation_date: 2026-06-06
 
 **New GST ratio**
 
-**(6)**  When subsection (5) applies, the Commissioner must inform the person of the new GST ratio. The new ratio applies in relation to the relevant instalment dates that occur 30 days after the date on which the person is informed.
+**(6)** When subsection (5) applies, the Commissioner must inform the person of the new GST ratio. The new ratio applies in relation to the relevant instalment dates that occur 30 days after the date on which the person is informed.
 
 **Transitional years**
 
-**(7)**  If a person has paid instalments of provisional tax in a transitional year, for the tax year that follows the transitional year, for the purposes of this section and section RC 11, they must—
+**(7)** If a person has paid instalments of provisional tax in a transitional year, for the tax year that follows the transitional year, for the purposes of this section and section RC 11, they must—
 
 - (a) ignore the transitional year when determining their residual income tax or total taxable supplies; and
 
@@ -90,11 +90,11 @@ compilation_date: 2026-06-06
 
 **Total taxable supplies**
 
-**(8)**  In subsections (2), (5), and (7), and in sections RC 11, RC 19, and RC 31, total taxable supplies, for a person and a period, means the amount that is the total value of taxable supplies by the person for the period. The amount includes the GST charged on the supplies.
+**(8)** In subsections (2), (5), and (7), and in sections RC 11, RC 19, and RC 31, total taxable supplies, for a person and a period, means the amount that is the total value of taxable supplies by the person for the period. The amount includes the GST charged on the supplies.
 
 **Modification**
 
-**(9)**  Sections RZ 4 (GST ratio method: 2010–11 to 2013–14 income years) and RZ 5D (Standard method or GST method: transition for Maori authorities) modify this section.
+**(9)** Sections RZ 4 (GST ratio method: 2010–11 to 2013–14 income years) and RZ 5D (Standard method or GST method: transition for Maori authorities) modify this section.
 
 *Defined in this Act: amount, assessment, base amount, Commissioner, corresponding income year, GST, GST ratio, income tax, inform, instalment date, pay, provisional tax, residual income tax, return, tax year, taxable supply, total taxable supplies, transitional year*
 

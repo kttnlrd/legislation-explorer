@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Description**
 
-**(1)**  An income equalisation scheme allows a person to reduce their net income for a tax year by making a deposit with the Commissioner for the corresponding income year.
+**(1)** An income equalisation scheme allows a person to reduce their net income for a tax year by making a deposit with the Commissioner for the corresponding income year.
 
 **Two schemes**
 
-**(2)**  The 2 income equalisation schemes are—
+**(2)** The 2 income equalisation schemes are—
 
 - (a) the main income equalisation scheme, described in sections EH 3 to EH 36 and EZ 80:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Meaning of terms**
 
-**(3)**  Terms used in the 2 schemes are defined as follows:
+**(3)** Terms used in the 2 schemes are defined as follows:
 
 - (a) terms used specifically in the main income equalisation scheme are defined in sections EH 34 to EH 36:
 

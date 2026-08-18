@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Assessment as authority**
 
-**(1)**  The Commissioner's assessment is, as between principal and agent, sufficient authority for the payment of tax by the agent.
+**(1)** The Commissioner's assessment is, as between principal and agent, sufficient authority for the payment of tax by the agent.
 
 **Recovering payment**
 
-**(2)**  On paying tax, an agent is entitled to be reimbursed by the principal, and may—
+**(2)** On paying tax, an agent is entitled to be reimbursed by the principal, and may—
 
 - (a) recover the amount from the principal; or
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Retaining funds**
 
-**(3)**  For the purposes of paying tax in relation to which an agent is or may become liable, the agent may retain from money that belongs or is payable to the principal an amount that is reasonably sufficient to pay the tax. This subsection applies at a time in an income year in which the tax is due or in a later income year.
+**(3)** For the purposes of paying tax in relation to which an agent is or may become liable, the agent may retain from money that belongs or is payable to the principal an amount that is reasonably sufficient to pay the tax. This subsection applies at a time in an income year in which the tax is due or in a later income year.
 
 **Hardship**
 
-**(4)**  The Commissioner may set a new due date for an agent to pay a tax liability if—
+**(4)** The Commissioner may set a new due date for an agent to pay a tax liability if—
 
 - (a) the agent—
 

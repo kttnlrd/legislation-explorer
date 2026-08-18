@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Standard valuation**
 
-**(1)**  The standard valuation methods for trading stock are—
+**(1)** The standard valuation methods for trading stock are—
 
 - (a) cost:
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Low-turnover valuation**
 
-**(2)**  A person who is a low-turnover trader may value closing stock by a method described in section EB 14.
+**(2)** A person who is a low-turnover trader may value closing stock by a method described in section EB 14.
 
 **Low value trading stock**
 
-**(3)**  In certain circumstances, a person may value closing stock under section EB 23.
+**(3)** In certain circumstances, a person may value closing stock under section EB 23.
 
 *Defined in this Act: closing stock, cost, low-turnover trader, trading stock*
 

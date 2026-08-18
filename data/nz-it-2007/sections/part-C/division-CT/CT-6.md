@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Petroleum miner, for a permit area, means a person who undertakes petroleum mining operations or decommissioning in the permit area.
+**(1)** Petroleum miner, for a permit area, means a person who undertakes petroleum mining operations or decommissioning in the permit area.
 
 **Exclusion**
 
-**(2)**  Petroleum miner does not include a person who undertakes petroleum mining operations or decommissioning for consideration that is not in the form of, or contingent on,—
+**(2)** Petroleum miner does not include a person who undertakes petroleum mining operations or decommissioning for consideration that is not in the form of, or contingent on,—
 
 - (a) the production of petroleum from the permit area; or
 

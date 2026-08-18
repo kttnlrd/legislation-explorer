@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies, for a person and an attributing interest in a FIF, if—
+**(1)** This section applies, for a person and an attributing interest in a FIF, if—
 
 - (a) the person became New Zealand resident on or after 1 April 2024 and before 1 April 2025; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Treated as meeting tests for election of RAM method on 1 April 2025**
 
-**(2)**  For the purposes of section EX 46B(2)﻿(b), the person is treated as first meeting the tests in section CQ 5 or DN 6 for that interest on 1 April 2025.
+**(2)** For the purposes of section EX 46B(2)﻿(b), the person is treated as first meeting the tests in section CQ 5 or DN 6 for that interest on 1 April 2025.
 
 *Defined in this Act: attributable FIF income method, attributing interest, comparative value method, deemed rate of return method, extended RAM interest, extended RAM taxpayer, FIF, FIF income, FIF loss, income year, New Zealand resident, RAM interest, RAM taxpayer*
 

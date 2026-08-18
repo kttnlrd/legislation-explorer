@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  An ICA company has an imputation credit for an amount of further income tax paid under section OB 65 or OB 66.
+**(1)** An ICA company has an imputation credit for an amount of further income tax paid under section OB 65 or OB 66.
 
 **Table reference**
 
-**(2)**  The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 5 (payment of further income tax).
+**(2)** The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 5 (payment of further income tax).
 
 **Credit date**
 
-**(3)**  The credit date is the day the further income tax is paid.
+**(3)** The credit date is the day the further income tax is paid.
 
 *Defined in this Act: amount, further income tax, ICA company, imputation credit, pay*
 

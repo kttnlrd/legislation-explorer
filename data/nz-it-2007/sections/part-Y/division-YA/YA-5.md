@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Trustees acting in separate capacity**
 
-**(1)**  A person who is acting as a trustee of a trust is acting in a capacity that is separate from their other capacities.
+**(1)** A person who is acting as a trustee of a trust is acting in a capacity that is separate from their other capacities.
 
 **Other capacities**
 
-**(2)**  The other capacities of the person referred to in subsection (1) may include—
+**(2)** The other capacities of the person referred to in subsection (1) may include—
 
 - (a) their personal capacity:
 

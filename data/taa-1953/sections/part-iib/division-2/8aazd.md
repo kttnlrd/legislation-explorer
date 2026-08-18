@@ -17,7 +17,7 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s8AAZD-1"></a>
-**(1)**  The Commissioner may allocate a primary tax debt to an RBA that has been established for that type of tax debt.
+**(1)** The Commissioner may allocate a primary tax debt to an RBA that has been established for that type of tax debt.
 
 > **Note:** General interest charge on an RBA deficit debt is not allocated to the RBA: it accrues automatically under section 8AAZF. Running balance accounts, application of payments and credits, and related matters Part IIB Running Balance Accounts (or RBAs) Division 2 Section 8AAZF Separate RBAs for one entity
 
@@ -27,13 +27,13 @@ source_pdf: "vol01.pdf"
 > **Note:** Separate RBAs may be established for different businesses or undertakings conducted by the same entity, for different parts of the same business or undertaking or for different periods: see subsection 8AAZC(5). Definition
 
 <a id="s8AAZD-2"></a>
-**(2)**  In this section: primary tax debt does not include:
+**(2)** In this section: primary tax debt does not include:
 
 > <a id="s8AAZD-2-a"></a>
-> **(a)**  general interest charge; or
+> **(a)** general interest charge; or
 
 > <a id="s8AAZD-2-b"></a>
-> **(b)**  an RBA deficit debt.
+> **(b)** an RBA deficit debt.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

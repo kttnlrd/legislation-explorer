@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to an entity that—
+**(1)** This section applies to an entity that—
 
 - (a) is, or is eligible to become, a multi-rate PIE; and
 
@@ -22,15 +22,15 @@ compilation_date: 2026-06-06
 
 **Foreign investment zero-rate PIEs**
 
-**(2)**  The entity may choose to become a foreign investment zero-rate PIE if it meets the requirements of section HM 19B.
+**(2)** The entity may choose to become a foreign investment zero-rate PIE if it meets the requirements of section HM 19B.
 
 **Foreign investment variable-rate PIEs**
 
-**(3)**  An entity may choose to become a foreign investment variable-rate PIE if it meets the requirements of section HM 19C.
+**(3)** An entity may choose to become a foreign investment variable-rate PIE if it meets the requirements of section HM 19C.
 
 **Election to become foreign investment PIE**
 
-**(4)**  The entity makes the election by advising the Commissioner. If the entity is not an existing multi-rate PIE, the entity must notify the Commissioner under section 31B of the Tax Administration Act 1994.
+**(4)** The entity makes the election by advising the Commissioner. If the entity is not an existing multi-rate PIE, the entity must notify the Commissioner under section 31B of the Tax Administration Act 1994.
 
 *Defined in this Act: Commissioner, foreign investment PIE, foreign investment variable-rate PIE, foreign investment zero-rate PIE, income tax liability, multi-rate PIE, notify, resident in New Zealand*
 

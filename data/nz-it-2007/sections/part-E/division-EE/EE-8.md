@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Item acquired**
 
-**(1)**  A person may choose that an item of property they acquire not be depreciable property even though, in the absence of the election, it would be depreciable property.
+**(1)** A person may choose that an item of property they acquire not be depreciable property even though, in the absence of the election, it would be depreciable property.
 
 **Item changing use**
 
-**(2)**  A person may choose that an item of property they own ceases to be depreciable property if—
+**(2)** A person may choose that an item of property they own ceases to be depreciable property if—
 
 - (a) the use of the item changes; and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Retrospective election**
 
-**(3)**  A person who has deducted none of the amounts of depreciation loss for which they were allowed a deduction for an item of property, in the income year in which they acquired it and in each later year, may retrospectively choose that the item not be depreciable property.
+**(3)** A person who has deducted none of the amounts of depreciation loss for which they were allowed a deduction for an item of property, in the income year in which they acquired it and in each later year, may retrospectively choose that the item not be depreciable property.
 
 **How elections made**
 
-**(4)**  An election under this section is made as follows:
+**(4)** An election under this section is made as follows:
 
 - (a) a person makes an election under subsection (1) by giving the Commissioner notice of it in their return of income for the income year in which they acquire the item; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Effect of election**
 
-**(5)**  An election under this section has effect for the person for—
+**(5)** An election under this section has effect for the person for—
 
 - (a) the income year for which they make the election; and
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Retrospective effect of election**
 
-**(6)**  An election made under subsection (3) also has retrospective effect for the person for—
+**(6)** An election made under subsection (3) also has retrospective effect for the person for—
 
 - (a) the income year in which they acquire the property; and
 

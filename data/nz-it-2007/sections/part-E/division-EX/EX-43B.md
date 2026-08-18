@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a share user—
+**(1)** This section applies when a share user—
 
 - (a) acquires an original share under a returning share transfer; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Exemption**
 
-**(2)**  The share user's rights in the original share and the identical share are not attributing interests in a FIF in an income year.
+**(2)** The share user's rights in the original share and the identical share are not attributing interests in a FIF in an income year.
 
 **Exclusion**
 
-**(3)**  Subsection (2) does not apply if—
+**(3)** Subsection (2) does not apply if—
 
 - (a) the share user is related to the share supplier:
 

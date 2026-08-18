@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person, in an income year, derives an amount that is income under section CC 1B (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence), or incurs an amount of expenditure that is allowed as a deduction under section DB 20B (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence), and the amount is incurred or derived—
+**(1)** This section applies when a person, in an income year, derives an amount that is income under section CC 1B (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence), or incurs an amount of expenditure that is allowed as a deduction under section DB 20B (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence), and the amount is incurred or derived—
 
 - (a) in relation to a right (the land right) that is a leasehold estate or a licence to use land; and
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Exception for amount of income under section CC 1 or CG 8**
 
-**(2)**  This section does not apply to an amount that is income under section CC 1 or CG 8 (which relate to income from land or capital contributions).
+**(2)** This section does not apply to an amount that is income under section CC 1 or CG 8 (which relate to income from land or capital contributions).
 
 **Timing of income and deductions for land right with spreading period**
 
-**(3)**  If the amount is incurred or derived—
+**(3)** If the amount is incurred or derived—
 
 - (a) before the end of the spreading period, the amount is allocated in equal portions to each month that—
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Effect for income of person ceasing to have estate in land**
 
-**(4)**  If an amount of income would be allocated to a spreading period of a land right under subsection (3) for a person in the absence of this subsection, the amount is allocated to an income year (the balance year) ending before the end of the spreading period, if—
+**(4)** If an amount of income would be allocated to a spreading period of a land right under subsection (3) for a person in the absence of this subsection, the amount is allocated to an income year (the balance year) ending before the end of the spreading period, if—
 
 - (a) at the beginning of the balance year, the person holds the land right, or the estate in land from which the land right is granted; and
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Effect for deduction of person ceasing to have leasehold estate or licence**
 
-**(5)**  If an amount of a deduction would be allocated to a spreading period of a land right under subsection (3) for a person (the affected person) in the absence of this subsection, the amount is allocated to an income year (the balance year) ending before the end of the spreading period, if—
+**(5)** If an amount of a deduction would be allocated to a spreading period of a land right under subsection (3) for a person (the affected person) in the absence of this subsection, the amount is allocated to an income year (the balance year) ending before the end of the spreading period, if—
 
 - (a) at the beginning of the balance year, either or both of the land right and the estate in land from which the land right is granted are held by the affected person or a person associated with the affected person; and
 
@@ -78,7 +78,7 @@ compilation_date: 2026-06-06
 
 **Relationship between subsections**
 
-**(6)**  Subsections (4), (5), and (5B) override subsection (3).
+**(6)** Subsections (4), (5), and (5B) override subsection (3).
 
 *Defined in this Act: amount, associated, deduction, estate, income, income year, land, leasehold estate, own*
 

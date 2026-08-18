@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Separate accounting for additional listed horticultural plants if deduction under section DO 6**
 
-**(1)**  A person to whom section DO 5 applies must, for an income year and for later income years for which subsection (2) does not apply, account separately under sections DO 5 and DO 6 for listed horticultural plants if—
+**(1)** A person to whom section DO 5 applies must, for an income year and for later income years for which subsection (2) does not apply, account separately under sections DO 5 and DO 6 for listed horticultural plants if—
 
 - (a) the person has had a deduction under section DO 6 for 1 or both of the 2 income years preceding the income year; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Combined accounting for listed horticultural plants if no deduction under section DO 6**
 
-**(2)**  Despite subsection (1), a person may account under sections DO 5 and DO 6 for listed horticultural plants as 1 planting for an income year and later income years if the person has had no deduction under section DO 6 for both of the 2 income years preceding the income year.
+**(2)** Despite subsection (1), a person may account under sections DO 5 and DO 6 for listed horticultural plants as 1 planting for an income year and later income years if the person has had no deduction under section DO 6 for both of the 2 income years preceding the income year.
 
 *Defined in this Act: deduction, income year, listed horticultural plant, planting, replacement plant*
 

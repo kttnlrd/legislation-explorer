@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to a person and an arrangement if—
+**(1)** This section applies to a person and an arrangement if—
 
 - (a) the person may incur expenditure under the arrangement and would be allowed a deduction for the expenditure under section DT 1; and
 
@@ -34,15 +34,15 @@ compilation_date: 2026-06-06
 
 **Amount of deduction**
 
-**(2)**  The person is allowed a deduction in an income year for the expenditure described in subsection (1)﻿(a) but only to the extent of an amount equal to the greater of zero and the amount calculated using the formula— expenditure − (consideration − lesser amount).
+**(2)** The person is allowed a deduction in an income year for the expenditure described in subsection (1)﻿(a) but only to the extent of an amount equal to the greater of zero and the amount calculated using the formula— expenditure − (consideration − lesser amount).
 
 **Exclusion**
 
-**(3)**  If consideration for the property is derived in an income year, the person's deductions in earlier income years for the expenditure described in subsection (1)﻿(a) are reduced so that the total of those deductions is equal to the greater of zero and the amount calculated using the formula— previous expenditure − consideration.
+**(3)** If consideration for the property is derived in an income year, the person's deductions in earlier income years for the expenditure described in subsection (1)﻿(a) are reduced so that the total of those deductions is equal to the greater of zero and the amount calculated using the formula— previous expenditure − consideration.
 
 **Definition of items in formulas**
 
-**(4)**  In the formulas in subsections (2) and (3),—
+**(4)** In the formulas in subsections (2) and (3),—
 
 - (a) expenditure is the amount of expenditure for which the person would be allowed a deduction in the income year under section DT 1(1):
 
@@ -58,23 +58,23 @@ compilation_date: 2026-06-06
 
 **Order of reduction**
 
-**(5)**  When an adjustment under subsection (3) is being made, deductions are treated as denied in the same order in time as they would have been allowed under section DT 1(1).
+**(5)** When an adjustment under subsection (3) is being made, deductions are treated as denied in the same order in time as they would have been allowed under section DT 1(1).
 
 **Application of Tax Administration Act 1994**
 
-**(6)**  Section 44A of the Tax Administration Act 1994 applies to a person to whom this section applies.
+**(6)** Section 44A of the Tax Administration Act 1994 applies to a person to whom this section applies.
 
 **Amendment of assessment**
 
-**(7)**  Despite the time bar, the Commissioner may amend an assessment at any time in order to give effect to this section.
+**(7)** Despite the time bar, the Commissioner may amend an assessment at any time in order to give effect to this section.
 
 **Relationship with section DT 1**
 
-**(8)**  This section overrides section DT 1.
+**(8)** This section overrides section DT 1.
 
 **Link with subpart DA**
 
-**(9)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(9)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: amount, arrangement, assessment, associated person, Commissioner, consideration, deduction, dispose, exploration permit, exploratory material, income year, petroleum, petroleum exploration expenditure, prospecting permit, supplement, time bar*
 

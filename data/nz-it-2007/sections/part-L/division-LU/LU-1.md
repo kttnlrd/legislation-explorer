@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an income year when—
+**(1)** This section applies for an income year when—
 
 - (a) either—
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Tax credit**
 
-**(2)**  The mineral miner has a tax credit for the tax year corresponding to the income year for an amount calculated using the formula— expenditure or loss × tax rate.
+**(2)** The mineral miner has a tax credit for the tax year corresponding to the income year for an amount calculated using the formula— expenditure or loss × tax rate.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) expenditure or loss is the excess amount referred to in subsection (1)﻿(b) to the extent to which it consists of the amounts referred to in subsection (1)﻿(a)﻿(i) to (iii):
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Maximum**
 
-**(4)**  Despite subsection (2), the maximum amount of the credit must not be more than the lesser of—
+**(4)** Despite subsection (2), the maximum amount of the credit must not be more than the lesser of—
 
 - (a) the result of the formula; and
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Treatment of trustees**
 
-**(5)**  For the purposes of subsection (4), if the mineral miner is a trustee of a trust, the amount of tax paid for each earlier tax year is determined—
+**(5)** For the purposes of subsection (4), if the mineral miner is a trustee of a trust, the amount of tax paid for each earlier tax year is determined—
 
 - (a) first, by reference to the amount of income tax paid under the obligations of a trustee under section HC 32 (Liability of trustee as agent); and
 
@@ -60,23 +60,23 @@ compilation_date: 2026-06-06
 
 **Treatment of individuals**
 
-**(6)**  For the purposes of subsection (4), if the mineral miner is an individual, the amount of tax paid for earlier tax years is calculated on a year-by-year basis and aggregated, as if their only income were income derived from the mining permit area.
+**(6)** For the purposes of subsection (4), if the mineral miner is an individual, the amount of tax paid for earlier tax years is calculated on a year-by-year basis and aggregated, as if their only income were income derived from the mining permit area.
 
 **Calculated on a year-by-year basis**
 
-**(7)**  In subsections (4)﻿(b), (5)﻿(c) and (6), a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the amount referred to in subsection (4)﻿(a).
+**(7)** In subsections (4)﻿(b), (5)﻿(c) and (6), a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the amount referred to in subsection (4)﻿(a).
 
 **Treatment of tax loss**
 
-**(8)**  To the extent to which the mineral miner has a tax credit under this section, the amount of the net mining loss giving rise to the credit does not form part of either a tax loss component or a net mining loss for the mineral miner.
+**(8)** To the extent to which the mineral miner has a tax credit under this section, the amount of the net mining loss giving rise to the credit does not form part of either a tax loss component or a net mining loss for the mineral miner.
 
 **Nature of tax credit**
 
-**(9)**  The tax credit is available for use under section LA 6(2) (Remaining refundable credits: PAYE, RWT, and certain other items).
+**(9)** The tax credit is available for use under section LA 6(2) (Remaining refundable credits: PAYE, RWT, and certain other items).
 
 **Relationship with other sections**
 
-**(10)**  Subsection (8) overrides sections IA 2 and IA 7 (which relate to losses generally) and IS 1, IS 2, and IS 6 (which relate to tax losses for mineral mining).
+**(10)** Subsection (8) overrides sections IA 2 and IA 7 (which relate to losses generally) and IS 1, IS 2, and IS 6 (which relate to tax losses for mineral mining).
 
 *Defined in this Act: amount, income, income year, interest, land, mineral miner, mining development expenditure, mining rehabilitation expenditure, net income, net mining loss, pay, permit area, tax credit, tax loss, tax loss component, tax year*
 

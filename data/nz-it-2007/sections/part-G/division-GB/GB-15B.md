@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a CFC makes a supply—
+**(1)** This section applies when a CFC makes a supply—
 
 - (a) to a person who would not meet the requirements of section EX 21D(1)﻿(a) to (c) (Non-attributing active CFC: default test) for the person to be a member of a test group, under that section, with the CFC; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Income from supply included in gross adjustment**
 
-**(2)**  The income from the supply is included in the item gross adjustments in section EX 21D(9)﻿(d).
+**(2)** The income from the supply is included in the item gross adjustments in section EX 21D(9)﻿(d).
 
 *Defined in this Act: CFC*
 

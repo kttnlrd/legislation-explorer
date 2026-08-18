@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of this subpart.
+**(1)** This section applies for the purposes of this subpart.
 
 **Formula**
 
-**(2)**  Net family scheme income, for a person and a relationship period, means the amount calculated using the formula— adjusted income − adjusted liability + amount received − amount paid.
+**(2)** Net family scheme income, for a person and a relationship period, means the amount calculated using the formula— adjusted income − adjusted liability + amount received − amount paid.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) adjusted income is—
 

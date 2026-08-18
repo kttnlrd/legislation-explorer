@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purpose of determining the amount that represents the family scheme income of a person for an income year when the person is the settlor of a trust (the person's trust) at a time in the income year, other than solely as a result of providing personal services for less than market value in the administration of the trust or the maintenance of trust property.
+**(1)** This section applies for the purpose of determining the amount that represents the family scheme income of a person for an income year when the person is the settlor of a trust (the person's trust) at a time in the income year, other than solely as a result of providing personal services for less than market value in the administration of the trust or the maintenance of trust property.
 
 **Exception for some trusts**
 
-**(2)**  This section does not apply if—
+**(2)** This section does not apply if—
 
 - (a) the trustee of the person's trust is registered as a charitable entity under the Charities Act 2005:
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **First formula: family scheme income**
 
-**(3)**  For the purposes of subsection (2B), the relevant amount is calculated using the formula— (trustee's adjusted net income + companies income) ÷ settlor number.
+**(3)** For the purposes of subsection (2B), the relevant amount is calculated using the formula— (trustee's adjusted net income + companies income) ÷ settlor number.
 
 **Definition of items in formula in subsection (3)**
 
-**(4)**  In the formula in subsection (3),—
+**(4)** In the formula in subsection (3),—
 
 - (a) trustee's adjusted net income is the net income of the trustee of the person's trust for the income year reduced, to not less than zero, by the amount of the trustee's income that vests or is paid by the trustee as beneficiary income for the income year:
 
@@ -48,11 +48,11 @@ compilation_date: 2026-06-06
 
 **Second formula: companies income**
 
-**(5)**  For the purposes of the item companies income in subsection (4)﻿(b), an amount to be totalled is, for each relevant company, calculated using the formula— trustee's interest × (income − dividends).
+**(5)** For the purposes of the item companies income in subsection (4)﻿(b), an amount to be totalled is, for each relevant company, calculated using the formula— trustee's interest × (income − dividends).
 
 **Definition of items in formula in subsection (5)**
 
-**(6)**  In the formula in subsection (5),—
+**(6)** In the formula in subsection (5),—
 
 - (a) trustee's interest is the percentage voting interests for the relevant company held, on the last day of the company's income year, by the trustee:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Main income equalisation deposits**
 
-**(7)**  For the purposes of subsection (2B), if the trustee or a company described in subsection (4)﻿(b) makes a main income equalisation deposit for an income year, the amount of the deposit is added to—
+**(7)** For the purposes of subsection (2B), if the trustee or a company described in subsection (4)﻿(b) makes a main income equalisation deposit for an income year, the amount of the deposit is added to—
 
 - (a) the item trustee's adjusted net income in the formula in subsection (3), if the trustee makes the deposit:
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **Main income equalisation refunds**
 
-**(8)**  For the purposes of subsection (2B), if the trustee or a company described in subsection (4)﻿(b) receives a main income equalisation refund for an income year, the amount of the refund is subtracted from—
+**(8)** For the purposes of subsection (2B), if the trustee or a company described in subsection (4)﻿(b) receives a main income equalisation refund for an income year, the amount of the refund is subtracted from—
 
 - (a) the item trustee's adjusted net income in the formula in subsection (3), if the trustee receives the refund:
 

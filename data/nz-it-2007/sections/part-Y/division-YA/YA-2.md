@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **DTA and time bar provisions: ancillary tax**
 
-**(1)**  The term income tax includes ancillary tax in—
+**(1)** The term income tax includes ancillary tax in—
 
 - (b) section BH 1 (Double tax agreements):
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **DTA provisions: tax recovery agreements**
 
-**(2)**  The term income tax includes a tax that is prescribed in a tax recovery agreement made under Part 10A of the Tax Administration Act 1994 in section BH 1 (Double tax agreements).
+**(2)** The term income tax includes a tax that is prescribed in a tax recovery agreement made under Part 10A of the Tax Administration Act 1994 in section BH 1 (Double tax agreements).
 
 **General tax avoidance provisions: ancillary tax**
 
-**(3)**  The term income tax includes ancillary tax, but not excluded ancillary tax, in—
+**(3)** The term income tax includes ancillary tax, but not excluded ancillary tax, in—
 
 - (b) sections BG 1 (Tax avoidance), GA 1 (Commissioner's power to adjust), and GB 54 (Arrangements involving establishments):
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Modified application of section GA 1**
 
-**(4)**  When section GA 1 is applied in the case of an ancillary tax,—
+**(4)** When section GA 1 is applied in the case of an ancillary tax,—
 
 - (a) the words "taxable income" in section GA 1(2) are treated as replaced by the words "liability to the ancillary tax"; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Tax of other countries**
 
-**(5)**  The term income tax, when specifically used in relation to tax of another country, whether imposed by a central, state, or local government,—
+**(5)** The term income tax, when specifically used in relation to tax of another country, whether imposed by a central, state, or local government,—
 
 - (a) means a tax of substantially the same nature as income tax imposed under section BB 1 (Imposition of income tax); and
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Imputation and BETA rules**
 
-**(7)**  The term income tax, in relation to tax that has been paid by a person, includes provisional tax in—
+**(7)** The term income tax, in relation to tax that has been paid by a person, includes provisional tax in—
 
 - (b) the imputation rules:
 

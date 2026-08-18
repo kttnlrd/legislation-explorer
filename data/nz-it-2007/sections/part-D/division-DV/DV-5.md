@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a group investment fund that derives category A income, a public unit trust, or a superannuation fund (the member fund) invests some or all of its funds in a master fund; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Expenditure described**
 
-**(2)**  The expenditure is expenditure for which the member fund is allowed a deduction,—
+**(2)** The expenditure is expenditure for which the member fund is allowed a deduction,—
 
 - (a) including expenditure on a financial arrangement that is denominated in New Zealand dollars and for which expenditure is allocated using the yield to maturity method set out in subpart EW (Financial arrangements rules); and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **When expenditure becomes master fund's**
 
-**(3)**  The expenditure incurred by the member fund may be transferred to the master fund, subject to the following conditions:
+**(3)** The expenditure incurred by the member fund may be transferred to the master fund, subject to the following conditions:
 
 - (a) the member fund and the master fund must agree to the transfer of the expenditure; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Income year in which investment stops**
 
-**(4)**  In an income year in which the member fund stops investing in the master fund,—
+**(4)** In an income year in which the member fund stops investing in the master fund,—
 
 - (a) neither the master fund nor the member fund is allowed a deduction for expenditure that would otherwise be transferable; and
 
@@ -52,11 +52,11 @@ compilation_date: 2026-06-06
 
 **When expenditure incurred**
 
-**(5)**  The expenditure referred to in subsection (3) is treated as being incurred by the master fund in the income year in which it is transferred by the member fund.
+**(5)** The expenditure referred to in subsection (3) is treated as being incurred by the master fund in the income year in which it is transferred by the member fund.
 
 **Deduction allowed to master fund**
 
-**(6)**  The master fund is allowed a deduction for the expenditure, subject to the following conditions:
+**(6)** The master fund is allowed a deduction for the expenditure, subject to the following conditions:
 
 - (a) a master fund that is a group investment fund that derives category A income may deduct expenditure only from its category A income; and
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Amount of deduction**
 
-**(7)**  The formula in section DV 6 is used to calculate the maximum deduction that the master fund is allowed for expenditure of the member fund treated as being incurred by the master fund.
+**(7)** The formula in section DV 6 is used to calculate the maximum deduction that the master fund is allowed for expenditure of the member fund treated as being incurred by the master fund.
 
 **Amount of deduction when master fund is multi-rate PIE**
 
@@ -72,15 +72,15 @@ compilation_date: 2026-06-06
 
 **Additional transfer**
 
-**(8)**  If, after the date on which the master fund has filed its return of income, the master fund is able to deduct more than the amount actually deducted, the Commissioner may allow the member fund to transfer expenditure to the extent of the difference after the return of income has been filed.
+**(8)** If, after the date on which the master fund has filed its return of income, the master fund is able to deduct more than the amount actually deducted, the Commissioner may allow the member fund to transfer expenditure to the extent of the difference after the return of income has been filed.
 
 **Deducted expenditure not incurred by member fund**
 
-**(9)**  The expenditure for which the master fund is allowed a deduction is treated as not being incurred by the member fund.
+**(9)** The expenditure for which the master fund is allowed a deduction is treated as not being incurred by the member fund.
 
 **Link with subpart DA**
 
-**(10)**  The link between this section and subpart DA (General rules) is as follows:
+**(10)** The link between this section and subpart DA (General rules) is as follows:
 
 - (a) subsection (6) supplements the general permission and overrides the capital limitation; the other general limitations still apply:
 

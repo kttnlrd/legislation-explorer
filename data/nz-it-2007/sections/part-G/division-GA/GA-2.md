@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if—
+**(1)** This section applies if—
 
 - (a) an arrangement is void under section BG 1 (Tax avoidance); and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Commissioner's power in relation to excluded income**
 
-**(2)**  The Commissioner may adjust the excluded income under section CX 3 (Excluded income) of a person affected by the arrangement in a way the Commissioner thinks appropriate, in order to counteract a tax advantage obtained by the person from or under the arrangement.
+**(2)** The Commissioner may adjust the excluded income under section CX 3 (Excluded income) of a person affected by the arrangement in a way the Commissioner thinks appropriate, in order to counteract a tax advantage obtained by the person from or under the arrangement.
 
 **Commissioner's identification of hypothetical situation**
 
-**(3)**  When applying subsection (2), the Commissioner may have regard to 1 or more of the amounts listed in subsection (4) which, in the Commissioner's opinion, had the arrangement not occurred, the person—
+**(3)** When applying subsection (2), the Commissioner may have regard to 1 or more of the amounts listed in subsection (4) which, in the Commissioner's opinion, had the arrangement not occurred, the person—
 
 - (a) would have had; or
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Reconstructed amounts**
 
-**(4)**  The amounts referred to in subsection (3) are—
+**(4)** The amounts referred to in subsection (3) are—
 
 - (a) an amount of excluded income of the person:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **No double counting**
 
-**(5)**  If the Commissioner includes an amount of excluded income in calculating the taxable income of the person, it must not be included in calculating the taxable income of another person.
+**(5)** If the Commissioner includes an amount of excluded income in calculating the taxable income of the person, it must not be included in calculating the taxable income of another person.
 
 *Defined in this Act: amount, arrangement, Commissioner, excluded income, FBT, fringe benefit tax, taxable income*
 

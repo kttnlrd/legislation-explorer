@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  An amount of income derived by a non-resident person that has a source in New Zealand under section YD 4(2) or (3) (Classes of income treated as having New Zealand source) is exempt income if—
+**(1)** An amount of income derived by a non-resident person that has a source in New Zealand under section YD 4(2) or (3) (Classes of income treated as having New Zealand source) is exempt income if—
 
 - (a) the income has a source in New Zealand only because a person who is a non-resident visitor is physically present in New Zealand; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  This section does not apply to the income of a public entertainer.
+**(2)** This section does not apply to the income of a public entertainer.
 
 *Defined in this Act: amount, exempt income, income, New Zealand, non-resident, non-resident visitor, public entertainer, tax*
 

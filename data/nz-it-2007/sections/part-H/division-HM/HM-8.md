@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Requirements**
 
-**(1)**  The entity must be—
+**(1)** The entity must be—
 
 - (a) resident in New Zealand; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Foreign investment zero-rate PIEs**
 
-**(2)**  Section HM 19B(2) modifies this section.
+**(2)** Section HM 19B(2) modifies this section.
 
 *Defined in this Act: double tax agreement, foreign investment zero-rate PIE, resident in New Zealand*
 

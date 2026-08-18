@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  This subpart applies to a person for an income year when—
+**(1)** This subpart applies to a person for an income year when—
 
 - (a) the person chooses that the subpart apply to the person for the income year; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Meaning of R&D group**
 
-**(2)**  R&D group means a group of entities for which—
+**(2)** R&D group means a group of entities for which—
 
 - (a) each member of the group is a company, look-through company, or limited partnership; and
 

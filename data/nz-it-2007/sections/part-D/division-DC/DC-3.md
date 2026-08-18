@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person is a partner in a partnership; or
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  This section does not apply to a partnership or a business that is engaged wholly or mainly in investing money or in holding, or dealing in, shares, securities, investments, or estates or interests in land.
+**(2)** This section does not apply to a partnership or a business that is engaged wholly or mainly in investing money or in holding, or dealing in, shares, securities, investments, or estates or interests in land.
 
 **Deduction**
 
-**(3)**  The person is allowed a deduction for their share of an amount, to the extent to which the amount is reasonable, paid as a pension to a former partner, or to the spouse, civil union partner, or de facto partner of a deceased former partner, if—
+**(3)** The person is allowed a deduction for their share of an amount, to the extent to which the amount is reasonable, paid as a pension to a former partner, or to the spouse, civil union partner, or de facto partner of a deceased former partner, if—
 
 - (a) the partnership in which the former partner was a partner (the old partnership) carried on the same business as that now carried on either by the partnership that is paying the pension or by the person in business who is paying the pension; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(4)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(4)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: amount, business, capital limitation, deduction, estate, general limitation, general permission, interest, land, pay, share, supplement*
 

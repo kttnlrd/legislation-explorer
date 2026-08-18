@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section IA 4 (Using loss balances carried forward to tax year) if a breach occurs in the requirements for continuity of ownership of section IA 5 (Restrictions on companies' loss balances carried forward: continuity of ownership) that enable a tax loss component included in a company's loss balance to be carried forward to or from a tax year.
+**(1)** This section applies for the purposes of section IA 4 (Using loss balances carried forward to tax year) if a breach occurs in the requirements for continuity of ownership of section IA 5 (Restrictions on companies' loss balances carried forward: continuity of ownership) that enable a tax loss component included in a company's loss balance to be carried forward to or from a tax year.
 
 **Tax loss components for earlier income years**
 
-**(2)**  Despite the breach, a tax loss component arising in an earlier income year is carried forward to a tax year (year A) to the extent to which—
+**(2)** Despite the breach, a tax loss component arising in an earlier income year is carried forward to a tax year (year A) to the extent to which—
 
 - (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year of the company that corresponds to year A; and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Limit on tax loss components carried forward to year A**
 
-**(3)**  The total tax loss components carried forward under subsection (2) must be no more than the amount calculated under subsection (2)﻿(b) and (c), although the amount may be increased if section IP 5 applies.
+**(3)** The total tax loss components carried forward under subsection (2) must be no more than the amount calculated under subsection (2)﻿(b) and (c), although the amount may be increased if section IP 5 applies.
 
 **Tax loss components of year of breach**
 
-**(4)**  Despite the breach, a tax loss component is carried forward to the tax year (year B) from year A to the extent to which—
+**(4)** Despite the breach, a tax loss component is carried forward to the tax year (year B) from year A to the extent to which—
 
 - (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year that corresponds to year A; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Limit on tax loss components carried forward to year B**
 
-**(5)**  The amount of the tax loss component carried forward under subsection (4) must be the least of—
+**(5)** The amount of the tax loss component carried forward under subsection (4) must be the least of—
 
 - (a) the part-year net loss calculated under subsection (4)﻿(b):
 

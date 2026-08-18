@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person has foreign source income or foreign expenditure that is taken into account in determining the income tax, not merely the withholding tax, payable by them in a foreign country or territory; and
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **Election to allocate**
 
-**(2)**  If the person has not already included the foreign source income or foreign expenditure in their return of income for the previous tax year, they may choose to allocate the foreign source income or the foreign expenditure to the income year referred to in subsection (1)﻿(c).
+**(2)** If the person has not already included the foreign source income or foreign expenditure in their return of income for the previous tax year, they may choose to allocate the foreign source income or the foreign expenditure to the income year referred to in subsection (1)﻿(c).
 
 **How election made**
 
-**(3)**  The person makes the election by including the foreign source income or foreign expenditure in their return of income for the income year referred to in subsection (1)﻿(c).
+**(3)** The person makes the election by including the foreign source income or foreign expenditure in their return of income for the income year referred to in subsection (1)﻿(c).
 
 **What election applies to**
 
-**(4)**  The election applies to all the person's foreign source income and foreign expenditure to which subsection (1) applies, except for—
+**(4)** The election applies to all the person's foreign source income and foreign expenditure to which subsection (1) applies, except for—
 
 - (a) income or expenditure under the financial arrangements rules, unless the Commissioner notifies the person that the election can apply; or
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(5)**  The foreign source income and foreign expenditure to which the election applies is allocated to the income year referred to in subsection (1)﻿(c).
+**(5)** The foreign source income and foreign expenditure to which the election applies is allocated to the income year referred to in subsection (1)﻿(c).
 
 **Election treated as continuing**
 
-**(6)**  An election made by a person under subsection (2) applies for the income year referred to in subsection (1)﻿(c) and all later income years, unless—
+**(6)** An election made by a person under subsection (2) applies for the income year referred to in subsection (1)﻿(c) and all later income years, unless—
 
 - (a) the person seeks the Commissioner's agreement to revoke the election, and the Commissioner notifies them that they may revoke the election; or
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Net income of more than $100,000**
 
-**(7)**  If subsection (6)﻿(b) applies,—
+**(7)** If subsection (6)﻿(b) applies,—
 
 - (a) foreign source income and foreign expenditure is allocated to the income year referred to in subsection (1)﻿(c) only if it was derived or incurred in that year; and
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **Factors considered**
 
-**(8)**  In deciding whether to agree to an election applying to income or expenditure under the financial arrangements rules or dividends, the Commissioner must consider—
+**(8)** In deciding whether to agree to an election applying to income or expenditure under the financial arrangements rules or dividends, the Commissioner must consider—
 
 - (a) whether the person is likely to incur significant compliance costs if the Commissioner does not agree to the election; and
 
@@ -82,7 +82,7 @@ compilation_date: 2026-06-06
 
 **Person ceasing to be, or becoming, resident**
 
-**(9)**  If the person ceases to be, or becomes, resident in New Zealand, this section applies in the same way as for other persons except that—
+**(9)** If the person ceases to be, or becomes, resident in New Zealand, this section applies in the same way as for other persons except that—
 
 - (a) it does not apply to income or expenditure that is allocated, other than under this section, to a period when the person is not resident in New Zealand; and
 
@@ -94,7 +94,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(10)**  In this section,— annual income tax balance date includes a date that is substantially equivalent to an annual income tax balance date foreign expenditure means expenditure that is incurred in deriving foreign source income foreign source income means income that does not have a source in New Zealand and that is not exempt income.
+**(10)** In this section,— annual income tax balance date includes a date that is substantially equivalent to an annual income tax balance date foreign expenditure means expenditure that is incurred in deriving foreign source income foreign source income means income that does not have a source in New Zealand and that is not exempt income.
 
 *Defined in this Act: annual income tax balance date, assessable income, attributed CFC income, attributing interest, Commissioner, company, deduction, dividend, exempt income, FIF income, financial arrangements rules, foreign expenditure, foreign source income, income, income tax, income year, net income, notify, pay, resident in New Zealand, return of income, source in New Zealand, tax year*
 

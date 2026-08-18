@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  An ICA company has an imputation credit for the amount of an imputation credit attached to a dividend derived by the company.
+**(1)** An ICA company has an imputation credit for the amount of an imputation credit attached to a dividend derived by the company.
 
 **Table reference**
 
-**(2)**  The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 7 (dividend derived with imputation credit).
+**(2)** The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 7 (dividend derived with imputation credit).
 
 **Credit date**
 
-**(3)**  The credit date is the day the dividend is paid to the company.
+**(3)** The credit date is the day the dividend is paid to the company.
 
 *Defined in this Act: amount, dividend, ICA company, imputation credit, pay*
 

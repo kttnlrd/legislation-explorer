@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Taxable income of consolidated group**
 
-**(1)**  For the purposes of calculating the income tax liability for a tax year of a consolidated group under subpart BC (Calculating and satisfying income tax liabilities), the taxable income of a consolidated group for a tax year is the sum of the amounts calculated under subsection (2) for each company in the consolidated group for all or part of the corresponding income year.
+**(1)** For the purposes of calculating the income tax liability for a tax year of a consolidated group under subpart BC (Calculating and satisfying income tax liabilities), the taxable income of a consolidated group for a tax year is the sum of the amounts calculated under subsection (2) for each company in the consolidated group for all or part of the corresponding income year.
 
 **Calculation for each company in consolidated group**
 
-**(2)**  Each company that is part of a consolidated group for all or part of an income year must calculate the amount that would be its taxable income under subpart BC, as modified by this section and sections FM 4 to FM 13, for all or part of the income year in which the company is part of the consolidated group.
+**(2)** Each company that is part of a consolidated group for all or part of an income year must calculate the amount that would be its taxable income under subpart BC, as modified by this section and sections FM 4 to FM 13, for all or part of the income year in which the company is part of the consolidated group.
 
 **Returns and assessment by consolidated group**
 
-**(3)**  The nominated company of a consolidated group must—
+**(3)** The nominated company of a consolidated group must—
 
 - (a) provide a single return of income for a tax year for the companies in the consolidated group in the corresponding income year under section 33 of the Tax Administration Act 1994; and
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **No separate returns or assessment (with exception)**
 
-**(4)**  A group company cannot make a separate assessment or return for the tax year unless it is, for part of the corresponding income year, not part of the consolidated group.
+**(4)** A group company cannot make a separate assessment or return for the tax year unless it is, for part of the corresponding income year, not part of the consolidated group.
 
 **Joint and several liability**
 
-**(5)**  Each company that is part of a consolidated group is jointly and severally liable for the amount of income tax assessed for the consolidated group in relation to its taxable income.
+**(5)** Each company that is part of a consolidated group is jointly and severally liable for the amount of income tax assessed for the consolidated group in relation to its taxable income.
 
 **Individual liability**
 
-**(6)**  The joint and several liability of each company that is part of a consolidated group is substituted for their individual income tax liability, but only to the extent—
+**(6)** The joint and several liability of each company that is part of a consolidated group is substituted for their individual income tax liability, but only to the extent—
 
 - (a) of the income tax liability of the consolidated group for the period of the income year in which the company is in the consolidated group; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Withholding and payment obligations of companies**
 
-**(7)**  Each company that is part of a consolidated group is liable to comply with its obligations under the PAYE rules, the FBT rules, the ESCT rules, the RWT rules, and the NRWT rules.
+**(7)** Each company that is part of a consolidated group is liable to comply with its obligations under the PAYE rules, the FBT rules, the ESCT rules, the RWT rules, and the NRWT rules.
 
 *Defined in this Act: amount, assessment, company, consolidated group, corresponding income year, ESCT rules, FBT rules, income tax, income tax liability, income year, nominated company, NRWT rules, pay, PAYE rules, return of income, RWT rules, tax year, taxable income*
 

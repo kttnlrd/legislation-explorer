@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in relation to a New Zealand resident company that—
+**(1)** This section applies in relation to a New Zealand resident company that—
 
 - (a) either—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Treatment of company**
 
-**(2)**  Immediately before the company stops being a New Zealand resident, the company is treated as—
+**(2)** Immediately before the company stops being a New Zealand resident, the company is treated as—
 
 - (a) disposing of its property to a person, and reacquiring the property from the person, for consideration equal to the market value of the property at the time; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Treatment of shareholders**
 
-**(3)**  Immediately before the company stops being a New Zealand resident, each shareholder of the company is treated as being paid a distribution in money as a dividend of the amount the shareholder would be entitled to at the time if the company were treated as going into liquidation.
+**(3)** Immediately before the company stops being a New Zealand resident, each shareholder of the company is treated as being paid a distribution in money as a dividend of the amount the shareholder would be entitled to at the time if the company were treated as going into liquidation.
 
 *Defined in this Act: amount, company, dividend, double tax agreement, liquidation, market value, New Zealand resident, pay, shareholder*
 

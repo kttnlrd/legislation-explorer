@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General test**
 
-**(1)**  A transfer of company value from a company to a person occurs when—
+**(1)** A transfer of company value from a company to a person occurs when—
 
 - (a) the company provides money or money's worth to the person; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Release of debt**
 
-**(2)**  A company (the creditor) provides money's worth to a person (the debtor) if the debtor is released from an obligation to pay money to the creditor, either by agreement or by operation of law, except to the extent to which—
+**(2)** A company (the creditor) provides money's worth to a person (the debtor) if the debtor is released from an obligation to pay money to the creditor, either by agreement or by operation of law, except to the extent to which—
 
 - (a) the obligation the debtor is released from is an amount of debt to which section EW 46C(4) (Consideration when debt remitted within economic group) applies; and
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Provision of services for less than market value**
 
-**(3)**  Despite subsection (1), a transfer of company value does not occur to the extent to which the money's worth provided by the company is only the provision of services.
+**(3)** Despite subsection (1), a transfer of company value does not occur to the extent to which the money's worth provided by the company is only the provision of services.
 
 **Limit to subsection (3)**
 
-**(4)**  Subsection (3) does not apply to the provision of services by a company that is a close company, if the provision is the benefit of expenditure of the company.
+**(4)** Subsection (3) does not apply to the provision of services by a company that is a close company, if the provision is the benefit of expenditure of the company.
 
 *Defined in this Act: arrangement, close company, company, market value, pay, services, share, shareholder, transfer of company value, wholly-owned group of companies*
 

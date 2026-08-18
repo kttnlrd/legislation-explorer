@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in a tax year when—
+**(1)** This section applies in a tax year when—
 
 - (a) a company (company A) that is part of a consolidated group has a loss balance to which section ID 2 applies; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Limit on amount available**
 
-**(2)**  The amount made available under section ID 2(2) to the consolidated group is limited as follows:
+**(2)** The amount made available under section ID 2(2) to the consolidated group is limited as follows:
 
 - (a) if all the companies, including company A, in the consolidated group meet the requirements of section IC 6(1) (Common ownership for period): the amount available is limited to the amount of the loss balance to the extent of the net income of the consolidated group for the tax year:
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Relationship with section FM 3**
 
-**(3)**  In subsection (2), the calculation of the consolidated group's net income must be made in accordance with section FM 3 (Liability of consolidated groups and group companies).
+**(3)** In subsection (2), the calculation of the consolidated group's net income must be made in accordance with section FM 3 (Liability of consolidated groups and group companies).
 
 **Relationship with section ID 2**
 
-**(4)**  This section overrides section ID 2.
+**(4)** This section overrides section ID 2.
 
 *Defined in this Act: amount, company, consolidated group, continuity period, group of companies, loss balance, net income, tax loss component, tax year*
 

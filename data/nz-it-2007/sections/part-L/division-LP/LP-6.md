@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Class of shares**
 
-**(1)**  The payment of a supplementary dividend on only some shares in a class of shares does not constitute a breach of—
+**(1)** The payment of a supplementary dividend on only some shares in a class of shares does not constitute a breach of—
 
 - (a) section 53 of the Companies Act 1993; or
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Trusts**
 
-**(2)**  If a trustee derives a dividend and is required under the terms of a trust to distribute it as beneficiary income to a beneficiary, the trustee's distribution of a supplementary dividend does not breach the terms of the trust.
+**(2)** If a trustee derives a dividend and is required under the terms of a trust to distribute it as beneficiary income to a beneficiary, the trustee's distribution of a supplementary dividend does not breach the terms of the trust.
 
 *Defined in this Act: beneficiary income, company, distribution, dividend, pay, share, supplementary dividend, trustee*
 

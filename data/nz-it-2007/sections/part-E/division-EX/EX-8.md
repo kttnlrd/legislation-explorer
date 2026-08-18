@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Calculation of income interest**
 
-**(1)**  A person's income interest in a CFC at any time is the total of the following:
+**(1)** A person's income interest in a CFC at any time is the total of the following:
 
 - (a) any direct income interest that the person holds in the CFC:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Avoidance arrangements**
 
-**(2)**  Any of the following sections may apply to the calculation of a person's income interest:
+**(2)** Any of the following sections may apply to the calculation of a person's income interest:
 
 - (a) section GB 9 (Temporary disposals of direct control or income interests):
 

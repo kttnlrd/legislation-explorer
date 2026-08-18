@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  This subpart applies to the valuation of livestock when—
+**(1)** This subpart applies to the valuation of livestock when—
 
 - (a) a person who owns or carries on a farming business, other than a livestock dealing business, holds livestock for the purposes of farming that livestock in the ordinary course of carrying on the farming business:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Groups of livestock**
 
-**(2)**  For the purposes of this subpart, livestock is divided into—
+**(2)** For the purposes of this subpart, livestock is divided into—
 
 - (a) specified livestock:
 

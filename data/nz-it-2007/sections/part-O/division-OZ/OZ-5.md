@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a public unit trust or a group investment fund that derives category A income—
+**(1)** This section applies when a public unit trust or a group investment fund that derives category A income—
 
 - (a) is in existence between 17 October 2002 and 30 September 2003 (both dates inclusive); and
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Calculating opening balance**
 
-**(2)**  The trust or fund may choose for the period to calculate an opening credit balance using 1 of the methods set out in subsections (3) and (4).
+**(2)** The trust or fund may choose for the period to calculate an opening credit balance using 1 of the methods set out in subsections (3) and (4).
 
 **Method 1**
 
-**(3)**  Method 1 requires the trust or fund to calculate the actual amount of available subscribed capital lost, that is the difference, in total, between the amount paid on subscription for a unit and the amount paid on redemption of the unit.
+**(3)** Method 1 requires the trust or fund to calculate the actual amount of available subscribed capital lost, that is the difference, in total, between the amount paid on subscription for a unit and the amount paid on redemption of the unit.
 
 **Method 2**
 
-**(4)**  Method 2 requires the trust or fund to make a calculation for the notional winding up of the trust or fund by taking the following steps:
+**(4)** Method 2 requires the trust or fund to make a calculation for the notional winding up of the trust or fund by taking the following steps:
 
 - (a) step 1: determine the total amount of income tax that would be payable on liquidation, treating the value of assets and liabilities as determined at their market value at the date of the notional liquidation according to provisions applying at that date:
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Opening balance**
 
-**(5)**  The amount of the opening balance is—
+**(5)** The amount of the opening balance is—
 
 - (a) the amount of the difference for method 1; and
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Certain causes of shortfalls**
 
-**(6)**  For the purposes of subsection (4), the structural features of the taxation and imputation systems that would allow a company that does not issue shares on terms subject to section CD 22(4) (Returns of capital: off-market share cancellations) to fully impute a distribution made on the liquidation of the company, include the tax effects of—
+**(6)** For the purposes of subsection (4), the structural features of the taxation and imputation systems that would allow a company that does not issue shares on terms subject to section CD 22(4) (Returns of capital: off-market share cancellations) to fully impute a distribution made on the liquidation of the company, include the tax effects of—
 
 - (a) non-taxable gains and losses, including exempt income; and
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Date of notional liquidation, orderly calculations**
 
-**(7)**  For the purposes of this section,—
+**(7)** For the purposes of this section,—
 
 - (a) the date of notional liquidation is the date chosen by the trust or fund falling in the period referred to in subsection (1)﻿(a):
 

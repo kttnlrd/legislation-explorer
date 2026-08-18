@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section HM 35 when—
+**(1)** This section applies for the purposes of section HM 35 when—
 
 - (a) a multi-rate PIE—
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Future amounts**
 
-**(2)**  For the purposes of determining a net amount under section HM 35(2) for an attribution period, a multi-rate PIE may take account of an amount of future income or future expenditure or loss that is—
+**(2)** For the purposes of determining a net amount under section HM 35(2) for an attribution period, a multi-rate PIE may take account of an amount of future income or future expenditure or loss that is—
 
 - (a) for future income, an amount that, when derived, would be assessable income under section HM 35(3)﻿(a):
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Reasonable estimation**
 
-**(3)**  For the purposes of subsection (2), the PIE must make a reasonable estimate of the amount and must be able to demonstrate, if required, the reasonableness of the estimation by—
+**(3)** For the purposes of subsection (2), the PIE must make a reasonable estimate of the amount and must be able to demonstrate, if required, the reasonableness of the estimation by—
 
 - (a) explaining why and when the income is likely to be derived or the expense is likely to be incurred, as applicable; and
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Credit impairment provisions**
 
-**(4)**  A multi-rate PIE may take account of a credit impairment provision under this section but only if the provision is counted as a credit impairment provision under IFRS 9. However, the time limit set out in subsection (2)﻿(b)﻿(i) does not apply in relation to a credit impairment provision.
+**(4)** A multi-rate PIE may take account of a credit impairment provision under this section but only if the provision is counted as a credit impairment provision under IFRS 9. However, the time limit set out in subsection (2)﻿(b)﻿(i) does not apply in relation to a credit impairment provision.
 
 *Defined in this Act: amount, attribution period, deduction, identical share, IFRS 9, income, investor interest, multi-rate PIE, returning share transfer, tax year*
 

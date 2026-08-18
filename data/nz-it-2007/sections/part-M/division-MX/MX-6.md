@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person who has an R&D loss tax credit for a tax year (the credit year) before a tax year (the current year) for which the basic tax rate for a company is increased (the rate increase) if the rate increase results in a basic tax rate for a company that is greater than the basic tax rate for—
+**(1)** This section applies for a person who has an R&D loss tax credit for a tax year (the credit year) before a tax year (the current year) for which the basic tax rate for a company is increased (the rate increase) if the rate increase results in a basic tax rate for a company that is greater than the basic tax rate for—
 
 - (a) the latest tax year, before the current year, corresponding to an income year for which the person received a deduction under this section relating to the R&D loss tax credit; or
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(2)**  The person has a deduction, for the current year, of an amount calculated for each credit year using the formula— tax credits × (new rate – old rate) ÷ (new rate × old rate).
+**(2)** The person has a deduction, for the current year, of an amount calculated for each credit year using the formula— tax credits × (new rate – old rate) ÷ (new rate × old rate).
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) tax credits is the greater of zero and the amount calculated from the total amount of the company's R&D loss tax credits, for tax years before and including the credit year, minus the total amount of—
 

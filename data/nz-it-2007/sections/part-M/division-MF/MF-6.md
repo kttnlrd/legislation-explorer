@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections LA 3 and LA 4 (which relate to the treatment of a person's total tax credits) when—
+**(1)** This section applies for the purposes of sections LA 3 and LA 4 (which relate to the treatment of a person's total tax credits) when—
 
 - (a) a person has an entitlement to a tax credit under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit); and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Overpayment**
 
-**(2)**  For an overpayment of the person's entitlement, an amount equal to the excess is—
+**(2)** For an overpayment of the person's entitlement, an amount equal to the excess is—
 
 - (a) added to the tax payable by the person for the tax year; and
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Underpayment**
 
-**(3)**  For an underpayment of the entitlement, an amount equal to the shortfall is used to satisfy the person's income tax liability, and any balance remaining is treated as tax paid in excess and available for use under section LA 7(2) (Remaining refundable credits: tax credits for social policy and other initiatives).
+**(3)** For an underpayment of the entitlement, an amount equal to the shortfall is used to satisfy the person's income tax liability, and any balance remaining is treated as tax paid in excess and available for use under section LA 7(2) (Remaining refundable credits: tax credits for social policy and other initiatives).
 
 **Treatment when tax credits paid by chief executive to certain persons**
 
-**(4)**  The Commissioner may, in relation to a person referred to in subsection (1)﻿(b)﻿(ii), choose to treat the amount of the tax credit paid to the person for the tax year as equal to the person's entitlement for the tax year.
+**(4)** The Commissioner may, in relation to a person referred to in subsection (1)﻿(b)﻿(ii), choose to treat the amount of the tax credit paid to the person for the tax year as equal to the person's entitlement for the tax year.
 
 *Defined in this Act: amount, apply, Commissioner, family scheme, income tax liability, notice of entitlement, pay, tax, tax credit, tax year*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Look-through in accordance with share**
 
-**(1)**  For the purposes of a partner's liabilities and obligations under this Act in their capacity of partner of a partnership, unless the context requires otherwise,—
+**(1)** For the purposes of a partner's liabilities and obligations under this Act in their capacity of partner of a partnership, unless the context requires otherwise,—
 
 - (a) the partner is treated as carrying on an activity carried on by the partnership, and having a status, intention, and purpose of the partnership, and the partnership is treated as not carrying on the activity or having the status, intention, or purpose:
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **No streaming**
 
-**(2)**  Despite subsection (1), for a partner in their capacity of partner of a partnership, the amount of income, tax credit, rebate, gain, expenditure, or loss that they have from a particular source, or of a particular nature, is calculated by multiplying the total income, tax credit, rebate, gain, expenditure, or loss of the partners of the partnership from the particular source or of the particular nature by the partner's partnership share in the partnership's income.
+**(2)** Despite subsection (1), for a partner in their capacity of partner of a partnership, the amount of income, tax credit, rebate, gain, expenditure, or loss that they have from a particular source, or of a particular nature, is calculated by multiplying the total income, tax credit, rebate, gain, expenditure, or loss of the partners of the partnership from the particular source or of the particular nature by the partner's partnership share in the partnership's income.
 
 **Expenditure or loss previously incurred**
 
-**(3)**  A partner of a partnership may be treated as incurring an expenditure or loss which the partnership incurs ignoring this section, despite the partner not being a partner at the time the expenditure or loss is incurred. This subsection does not allow 2 deductions for 1 expenditure or loss.
+**(3)** A partner of a partnership may be treated as incurring an expenditure or loss which the partnership incurs ignoring this section, despite the partner not being a partner at the time the expenditure or loss is incurred. This subsection does not allow 2 deductions for 1 expenditure or loss.
 
 **Excluded amounts**
 
-**(4)**  Subsection (2) does not apply to the following amounts:
+**(4)** Subsection (2) does not apply to the following amounts:
 
 - (a) expenditure or loss that relates to a person entering a partnership by acquiring partner's interests disposed of by another partner, to the extent to which sections HG 5 to HG 10 do not apply to the partner's interests:
 

@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in a tax year when a company that meets the requirements of section IA 5(2) and (3) or IB 3(2) (which relate to the carrying forward of tax losses for companies) and is part of a consolidated group has a pre-consolidation loss balance carried forward to the tax year.
+**(1)** This section applies in a tax year when a company that meets the requirements of section IA 5(2) and (3) or IB 3(2) (which relate to the carrying forward of tax losses for companies) and is part of a consolidated group has a pre-consolidation loss balance carried forward to the tax year.
 
 **First use**
 
-**(2)**  The first use of the loss balance must be to make the amount of the loss balance available to the consolidated group to subtract from its net income, so far as it extends, for the tax year.
+**(2)** The first use of the loss balance must be to make the amount of the loss balance available to the consolidated group to subtract from its net income, so far as it extends, for the tax year.
 
 **Second use**
 
-**(3)**  If, after subsection (2) is applied, some of the loss balance remains, the company may choose to do 1 or more of the following:
+**(3)** If, after subsection (2) is applied, some of the loss balance remains, the company may choose to do 1 or more of the following:
 
 - (a) subtract the remaining amount from its net income for the tax year:
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Third use**
 
-**(4)**  If, after subsections (2) and (3) are applied, a loss balance remains, the remaining amount is carried forward to the next tax year.
+**(4)** If, after subsections (2) and (3) are applied, a loss balance remains, the remaining amount is carried forward to the next tax year.
 
 **Relationship with sections IA 3, IA 4, IC 5, and provisions in this subpart**
 
-**(5)**  This section overrides sections IA 3, IA 4, and IC 5 (which relate to the general use and grouping of tax losses). Sections ID 3 to ID 5 override this section.
+**(5)** This section overrides sections IA 3, IA 4, and IC 5 (which relate to the general use and grouping of tax losses). Sections ID 3 to ID 5 override this section.
 
 *Defined in this Act: amount, company, consolidated group, net income, loss balance, tax year*
 

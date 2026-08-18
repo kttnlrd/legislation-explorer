@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) 2 or more persons who are New Zealand residents enter into an arrangement; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Interest treated as held by residents**
 
-**(2)**  The control interest is treated as being held by the New Zealand residents in equal proportions, for the purposes of determining whether the company is a CFC.
+**(2)** The control interest is treated as being held by the New Zealand residents in equal proportions, for the purposes of determining whether the company is a CFC.
 
 *Defined in this Act: arrangement, CFC, control interest, foreign company, New Zealand resident*
 

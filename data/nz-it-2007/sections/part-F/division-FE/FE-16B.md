@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning for New Zealand group**
 
-**(1)**  In this subpart, for a New Zealand group, total group non-debt liabilities for an income year means the total of the outstanding balances of liabilities shown in the financial statements of a natural person, or an excess debt entity, or another member of the New Zealand group, reduced by the total of liabilities shown in the financial statements, each of which is—
+**(1)** In this subpart, for a New Zealand group, total group non-debt liabilities for an income year means the total of the outstanding balances of liabilities shown in the financial statements of a natural person, or an excess debt entity, or another member of the New Zealand group, reduced by the total of liabilities shown in the financial statements, each of which is—
 
 - (a) included in the calculation of total group debt under section FE 15:
 
@@ -46,11 +46,11 @@ compilation_date: 2026-06-06
 
 **Meaning for worldwide group**
 
-**(2)**  In this subpart, for a worldwide group, total group non-debt liabilities for an income year means the total of the outstanding balances of liabilities shown in the financial statements of the worldwide group, reduced by the total of liabilities that are included in the total group debt and the total of liabilities under financial arrangements that are removed under section FE 18(3B) from the measurement of total group debt.
+**(2)** In this subpart, for a worldwide group, total group non-debt liabilities for an income year means the total of the outstanding balances of liabilities shown in the financial statements of the worldwide group, reduced by the total of liabilities that are included in the total group debt and the total of liabilities under financial arrangements that are removed under section FE 18(3B) from the measurement of total group debt.
 
 **Equity group treated as single shareholder and provider of funds**
 
-**(3)**  If a shareholder is a company,—
+**(3)** If a shareholder is a company,—
 
 - (a) for the purposes of subsection (1)﻿(b) and (c), the shareholder's equity group is treated as the shareholder for all the shares held by members of the equity group; and
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Trustee treated as single shareholder and provider of funds**
 
-**(4)**  If a shareholder is a trustee of a trust,—
+**(4)** If a shareholder is a trustee of a trust,—
 
 - (a) for the purposes of subsection (1)﻿(b) and (c), the trustee is treated as the shareholder for all the shares held by a settlor of the trust and relatives of the settlor, if the settlor and relatives have made at least 90% of the settlements made on the trust; and
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Meaning of equity group**
 
-**(5)**  In this section, for a shareholder, equity group—
+**(5)** In this section, for a shareholder, equity group—
 
 - (a) means the members of the wholly-owned group if the shareholder is a member of the wholly-owned group, or the shareholder company itself:
 

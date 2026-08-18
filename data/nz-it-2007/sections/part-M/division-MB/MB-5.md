@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person receives a distribution from a superannuation scheme in an income year; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **When this section does not apply**
 
-**(2)**  This section does not apply to a person who receives a distribution from a superannuation scheme—
+**(2)** This section does not apply to a person who receives a distribution from a superannuation scheme—
 
 - (a) as a result of and on or after the person's retirement from employment with an employer who was a contributor to the scheme:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Assessable income**
 
-**(3)**  For the purposes of calculating family scheme income, the distribution referred to in subsection (1) is assessable income of the person derived in the tax year or years that corresponds to the income year or years in which the contributions were made. The amount does not include an amount attributable to a contribution by the person as a member of the superannuation scheme.
+**(3)** For the purposes of calculating family scheme income, the distribution referred to in subsection (1) is assessable income of the person derived in the tax year or years that corresponds to the income year or years in which the contributions were made. The amount does not include an amount attributable to a contribution by the person as a member of the superannuation scheme.
 
 *Defined in this Act: assessable income, complying superannuation fund, corresponding income year, employer, employment, family scheme income, income year, KiwiSaver scheme, superannuation scheme, tax year*
 

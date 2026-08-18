@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a forestry company acquires land with standing timber on it from a seller who is the Crown, the Maori owners, or a holding company of the forestry company.
+**(1)** This section applies when a forestry company acquires land with standing timber on it from a seller who is the Crown, the Maori owners, or a holding company of the forestry company.
 
 **Sellers of Maori land**
 
-**(2)**  For the purposes of subsection (1),—
+**(2)** For the purposes of subsection (1),—
 
 - (a) land disposed of to the forestry company by the Maori Trustee or by a trustee for a Maori owner is treated as if it had been disposed of by the beneficial owners:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Cost of acquiring timber**
 
-**(3)**  The cost to the forestry company of acquiring the timber is the lesser of—
+**(3)** The cost to the forestry company of acquiring the timber is the lesser of—
 
 - (a) the cost of the timber to the seller at the date of the disposal; and
 

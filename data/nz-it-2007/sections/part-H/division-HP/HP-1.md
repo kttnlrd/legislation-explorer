@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Payment of tax**
 
-**(1)**  A constituent entity, other than a securitisation entity, (entity A) that is required to pay an amount of tax for a fiscal year under the applied global anti-base erosion rules must pay the amount to the Commissioner.
+**(1)** A constituent entity, other than a securitisation entity, (entity A) that is required to pay an amount of tax for a fiscal year under the applied global anti-base erosion rules must pay the amount to the Commissioner.
 
 **Joint and several liability**
 
-**(2)**  Each constituent entity, other than a securitisation entity, that is located in New Zealand under the applied global anti-base erosion rules and that is a member of the same MNE group as entity A is jointly and severally liable with entity A for the amount of tax for the fiscal year payable by entity A under the applied global anti-base erosion rules.
+**(2)** Each constituent entity, other than a securitisation entity, that is located in New Zealand under the applied global anti-base erosion rules and that is a member of the same MNE group as entity A is jointly and severally liable with entity A for the amount of tax for the fiscal year payable by entity A under the applied global anti-base erosion rules.
 
 **Member leaving MNE group**
 
-**(3)**  If a constituent entity (entity B) that is a member of the same MNE group as entity A leaves the MNE group, entity B is relieved from liability under subsection (2) for a fiscal year if—
+**(3)** If a constituent entity (entity B) that is a member of the same MNE group as entity A leaves the MNE group, entity B is relieved from liability under subsection (2) for a fiscal year if—
 
 - (a) the assessment of entity A's multinational top-up tax liability for the fiscal year is made after entity B leaves the MNE group; and
 

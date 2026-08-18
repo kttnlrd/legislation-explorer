@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  The PAYE rules means—
+**(1)** The PAYE rules means—
 
 - (a) section BC 1 (Non-filing and filing taxpayers); and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(2)**  The PAYE rules apply to a person who makes or is required to make a PAYE income payment and, in certain circumstances, to the person to whom the PAYE income payment is made.
+**(2)** The PAYE rules apply to a person who makes or is required to make a PAYE income payment and, in certain circumstances, to the person to whom the PAYE income payment is made.
 
 **Deceased employers**
 
-**(3)**  The executor or administrator of a deceased employer must complete any uncompleted PAYE obligations of the employer.
+**(3)** The executor or administrator of a deceased employer must complete any uncompleted PAYE obligations of the employer.
 
 *Defined in this Act: employer, PAYE income payment, PAYE rules*
 

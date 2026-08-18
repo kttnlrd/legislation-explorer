@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person described in subsection (2) has an amount of tax credit remaining for a tax year under section LA 5(4) (Treatment of remaining credits):
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Certain persons only**
 
-**(2)**  The person referred to in subsection (1)﻿(a) must be—
+**(2)** The person referred to in subsection (1)﻿(a) must be—
 
 - (a) a company that is not a life insurer; or
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Calculating amount of tax loss component**
 
-**(3)**  The person or the life insurer, as applicable, has a tax loss component for the corresponding income year equal to an amount calculated using the formula— person's remaining credit ÷ tax rate.
+**(3)** The person or the life insurer, as applicable, has a tax loss component for the corresponding income year equal to an amount calculated using the formula— person's remaining credit ÷ tax rate.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) person's remaining credit is the amount of the tax credit remaining for the tax year under section LA 5(4), but, for a life insurer, only to the extent to which the amount is for their shareholder base:
 

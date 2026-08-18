@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Double tax agreement means an agreement that—
+**(1)** Double tax agreement means an agreement that—
 
 - (a) has been negotiated for 1 or more of the purposes set out in subsection (2); and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Purposes**
 
-**(2)**  The following are the purposes for which a double tax agreement may be negotiated:
+**(2)** The following are the purposes for which a double tax agreement may be negotiated:
 
 - (a) to provide relief from double taxation:
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Entry into force**
 
-**(3)**  An agreement to which subsection (1)﻿(a) and (b) apply comes into force as declared by the Governor-General by Order in Council and on the date determined under the agreement.
+**(3)** An agreement to which subsection (1)﻿(a) and (b) apply comes into force as declared by the Governor-General by Order in Council and on the date determined under the agreement.
 
 **Secondary legislation**
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Overriding effect**
 
-**(4)**  Despite anything in this Act, except the provisions listed in subsection (4B), or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 2020, a double tax agreement has effect in relation to—
+**(4)** Despite anything in this Act, except the provisions listed in subsection (4B), or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 2020, a double tax agreement has effect in relation to—
 
 - (a) income tax:
 
@@ -84,7 +84,7 @@ compilation_date: 2026-06-06
 
 **Agreement for recovery of tax**
 
-**(5)**  An agreement that provides for the recovery of unpaid tax is subject to Part 10A of the Tax Administration Act 1994.
+**(5)** An agreement that provides for the recovery of unpaid tax is subject to Part 10A of the Tax Administration Act 1994.
 
 **Foreign account information-sharing agreements**
 
@@ -92,11 +92,11 @@ compilation_date: 2026-06-06
 
 **Reference to profits**
 
-**(6)**  A reference in a double tax agreement to the profits of an activity or business is to be read, if possible, as a reference to the amount that would be a person's net income if that activity or business were their only activity or business.
+**(6)** A reference in a double tax agreement to the profits of an activity or business is to be read, if possible, as a reference to the amount that would be a person's net income if that activity or business were their only activity or business.
 
 **Reference to unrelated persons**
 
-**(7)**  A reference in a double tax agreement to 2 persons being unrelated is to be read, if possible, as a reference to 2 persons being not associated.
+**(7)** A reference in a double tax agreement to 2 persons being unrelated is to be read, if possible, as a reference to 2 persons being not associated.
 
 *Defined in this Act: associated, business, double tax agreement, income, income tax, Inland Revenue Acts, multinational top-up tax, net income, New Zealand, New Zealand resident, non-resident, pay, source in New Zealand, tax*
 

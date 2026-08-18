@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Daily, 3-monthly, or annual basis for excess debt entity**
 
-**(1)**  An excess debt entity must measure the amount of total group debt, total group assets, and total group non-debt liabilities of its New Zealand group for an income year using 1 of the following methods:
+**(1)** An excess debt entity must measure the amount of total group debt, total group assets, and total group non-debt liabilities of its New Zealand group for an income year using 1 of the following methods:
 
 - (a) the average amount at the end of each day of the income year; or
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Different balance dates**
 
-**(2)**  For the purposes of subsection (1), if the members of the entity's New Zealand group do not have the same balance date, the alternatives in subsection (1) apply as if the entity has the same balance date as that of the New Zealand parent.
+**(2)** For the purposes of subsection (1), if the members of the entity's New Zealand group do not have the same balance date, the alternatives in subsection (1) apply as if the entity has the same balance date as that of the New Zealand parent.
 
 **Daily, monthly, or quarterly for reporting bank**
 
-**(3)**  A reporting bank must measure both the equity threshold and the net equity of its New Zealand banking group for an income year on 1 of the following dates:
+**(3)** A reporting bank must measure both the equity threshold and the net equity of its New Zealand banking group for an income year on 1 of the following dates:
 
 - (a) each day of the income year; or
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Change in identity of reporting bank**
 
-**(4)**  If the identity of the reporting bank changes, the first measurement period for the new reporting bank begins on the day after the last measurement date of the former reporting bank.
+**(4)** If the identity of the reporting bank changes, the first measurement period for the new reporting bank begins on the day after the last measurement date of the former reporting bank.
 
 *Defined in this Act: amount, excess debt entity, income year, New Zealand, New Zealand banking group, quarter, reporting bank, total group assets, total group debt, total group non-debt liabilities*
 

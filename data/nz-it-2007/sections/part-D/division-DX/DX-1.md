@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) property is subject to the payment of an annuity—
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(2)**  The owner of the property, or the substituted property, is allowed a deduction for an amount that they pay on account of the annuity.
+**(2)** The owner of the property, or the substituted property, is allowed a deduction for an amount that they pay on account of the annuity.
 
 **Exclusion**
 
-**(3)**  The owner is denied a deduction—
+**(3)** The owner is denied a deduction—
 
 - (a) if the owner is not a beneficiary but a person who has acquired the property subject to the condition that they assume the liability for the annuity, or a part of it:
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Amount of deduction**
 
-**(4)**  The deduction is limited in an income year to the amount that would be the net income of the owner for the corresponding tax year if the owner's only income in the income year were from the property, or the substituted property.
+**(4)** The deduction is limited in an income year to the amount that would be the net income of the owner for the corresponding tax year if the owner's only income in the income year were from the property, or the substituted property.
 
 **Meaning of beneficiary**
 
-**(5)**  In this section, beneficiary—
+**(5)** In this section, beneficiary—
 
 - (a) means—
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(6)**  This section supplements the general permission and overrides the private limitation. The other general limitations still apply.
+**(6)** This section supplements the general permission and overrides the private limitation. The other general limitations still apply.
 
 *Defined in this Act: amount, arrangement, beneficiary, deduction, general limitation, general permission, income, income year, net income, pay, private limitation, supplement, tax year*
 

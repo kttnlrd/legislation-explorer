@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to the amount of a life insurer's tax loss to be carried forward to the tax year corresponding to the income year that includes 1 July 2010 (the tax year), to the extent to which the amount (the cancelled amount) would be a ring-fenced tax loss for policyholder net losses under section IA 7(3) (Restrictions relating to ring-fenced losses) if the enactment of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 were ignored.
+**(1)** This section applies to the amount of a life insurer's tax loss to be carried forward to the tax year corresponding to the income year that includes 1 July 2010 (the tax year), to the extent to which the amount (the cancelled amount) would be a ring-fenced tax loss for policyholder net losses under section IA 7(3) (Restrictions relating to ring-fenced losses) if the enactment of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 were ignored.
 
 **Cancellation of life insurer's policyholder net losses**
 
-**(2)**  The cancelled amount—
+**(2)** The cancelled amount—
 
 - (a) is removed from the life insurer's available tax loss for the tax year, except as provided by section EY 5(2) (Part-year tax calculations) for the first part-year; and
 

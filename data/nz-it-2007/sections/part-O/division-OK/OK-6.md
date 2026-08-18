@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  A Maori authority has a Maori authority credit for the amount of an imputation credit attached to a dividend derived by the Maori authority.
+**(1)** A Maori authority has a Maori authority credit for the amount of an imputation credit attached to a dividend derived by the Maori authority.
 
 **Table reference**
 
-**(2)**  The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 6 (dividend derived with imputation credit).
+**(2)** The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 6 (dividend derived with imputation credit).
 
 **Credit date**
 
-**(3)**  The credit date is the day the dividend is paid.
+**(3)** The credit date is the day the dividend is paid.
 
 *Defined in this Act: amount, dividend, imputation credit, Maori authority, Maori authority credit, pay*
 

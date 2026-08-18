@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Company becoming Maori authority**
 
-**(1)**  If a company becomes a Maori authority in a tax year, the company must apply table H1, row 1.
+**(1)** If a company becomes a Maori authority in a tax year, the company must apply table H1, row 1.
 
 **Trust becoming Maori authority**
 
-**(2)**  If a trust becomes a Maori authority in a tax year, the trustee must apply table H1, row 2.
+**(2)** If a trust becomes a Maori authority in a tax year, the trustee must apply table H1, row 2.
 
 **Maori authority becoming company**
 
-**(3)**  If a Maori authority is a company that stops being a Maori authority in a tax year, it must apply table H1, row 3.
+**(3)** If a Maori authority is a company that stops being a Maori authority in a tax year, it must apply table H1, row 3.
 
 **Maori authority becoming trust**
 
-**(4)**  If a Maori authority is a trust that stops being a Maori authority in a tax year, the trustee must apply table H1, row 4.
+**(4)** If a Maori authority is a trust that stops being a Maori authority in a tax year, the trustee must apply table H1, row 4.
 
 *Defined in this Act: company, Maori authority, tax year, trustee*
 

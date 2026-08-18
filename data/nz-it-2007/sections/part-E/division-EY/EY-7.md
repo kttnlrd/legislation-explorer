@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning in rules for life insurers**
 
-**(1)**  In the rules for life insurers, claim—
+**(1)** In the rules for life insurers, claim—
 
 - (a) means the amount that a life insurer is liable to pay under a life insurance policy because the contingency against which the life insured is covered under the policy has occurred; subsections (2) to (5) expand on "the amount that a life insurer is liable to pay":
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Cash and non-cash benefits**
 
-**(2)**  For the purposes of subsection (1)﻿(a), the amount that a life insurer is liable to pay includes—
+**(2)** For the purposes of subsection (1)﻿(a), the amount that a life insurer is liable to pay includes—
 
 - (a) a payment on the death of a life insured:
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Advance or amount in actuarial reserves**
 
-**(3)**  For the purposes of subsection (1)﻿(a), the amount that a life insurer is liable to pay does not include—
+**(3)** For the purposes of subsection (1)﻿(a), the amount that a life insurer is liable to pay does not include—
 
 - (a) an advance against the security of the policy; or
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Amount before certain subtractions**
 
-**(4)**  For the purposes of subsection (1)﻿(a), the amount that a life insurer is liable to pay means the amount before the subtraction of the following amounts payable to the life insurer:
+**(4)** For the purposes of subsection (1)﻿(a), the amount that a life insurer is liable to pay means the amount before the subtraction of the following amounts payable to the life insurer:
 
 - (a) an advance against the security of the policy; and
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Amount zero**
 
-**(5)**  For the purposes of subsection (1)﻿(a), the amount that a life insurer is liable to pay may be zero.
+**(5)** For the purposes of subsection (1)﻿(a), the amount that a life insurer is liable to pay may be zero.
 
 *Defined in this Act: actuarial reserves, amount, business, claim, interest, life insurance, life insurance policy, life insured, life insurer, pay, premium*
 

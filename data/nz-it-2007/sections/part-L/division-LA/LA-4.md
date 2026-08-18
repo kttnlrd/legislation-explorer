@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Satisfied income tax liability**
 
-**(1)**  If a person's total tax credit for a tax year is greater than their income tax liability for the tax year, the person must use their total tax credit, including the credits listed in paragraphs (a) to (d), to satisfy their income tax liability by using—
+**(1)** If a person's total tax credit for a tax year is greater than their income tax liability for the tax year, the person must use their total tax credit, including the credits listed in paragraphs (a) to (d), to satisfy their income tax liability by using—
 
 - (a) first, a non-refundable tax credit:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Remaining tax credits**
 
-**(2)**  A person who has satisfied their income tax liability under subsection (1) must deal with their remaining tax credits for the tax year under section LA 5.
+**(2)** A person who has satisfied their income tax liability under subsection (1) must deal with their remaining tax credits for the tax year under section LA 5.
 
 *Defined in this Act: imputation credit, income tax liability, non-refundable tax credit, refundable tax credit, research and development tax credit, supplementary dividend, tax credit, tax year, total tax credit*
 

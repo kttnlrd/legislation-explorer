@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Treating bonus issues as dividends**
 
-**(1)**  A bonus issue that is not a bonus issue in lieu or a share issued under a profit distribution plan is a dividend if—
+**(1)** A bonus issue that is not a bonus issue in lieu or a share issued under a profit distribution plan is a dividend if—
 
 - (a) the bonus issue—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Form of election**
 
-**(2)**  A company chooses to treat a bonus issue as a dividend by—
+**(2)** A company chooses to treat a bonus issue as a dividend by—
 
 - (a) resolving, when it makes the bonus issue, that it is a dividend; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Amount of dividend**
 
-**(3)**  The amount of the dividend is the amount chosen by the company.
+**(3)** The amount of the dividend is the amount chosen by the company.
 
 *Defined in this Act: amount, bonus issue, bonus issue in lieu, Commissioner, company, dividend, notice, pay, profit distribution plan, share*
 

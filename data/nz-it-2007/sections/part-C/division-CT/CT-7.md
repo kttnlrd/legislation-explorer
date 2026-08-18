@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Petroleum mining asset means—
+**(1)** Petroleum mining asset means—
 
 - (a) a petroleum permit:
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  Petroleum mining asset does not include—
+**(2)** Petroleum mining asset does not include—
 
 - (a) land:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Activities: inclusions**
 
-**(3)**  The activities are those carried out in connection with—
+**(3)** The activities are those carried out in connection with—
 
 - (a) developing a permit area for producing petroleum:
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Activities: exclusions**
 
-**(4)**  The activities do not include further treatment to which all the following apply:
+**(4)** The activities do not include further treatment to which all the following apply:
 
 - (a) it occurs after the well stream has been separated and stabilised into crude oil, condensate, or natural gas; and
 

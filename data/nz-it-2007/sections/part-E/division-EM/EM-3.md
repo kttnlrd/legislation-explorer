@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General rule**
 
-**(1)**  This subpart applies to a person's hedge (an eligible hedge) if section EM 1 applies to the hedge, and the hedge—
+**(1)** This subpart applies to a person's hedge (an eligible hedge) if section EM 1 applies to the hedge, and the hedge—
 
 - (a) is a contract to conditionally or unconditionally acquire or dispose of foreign exchange in return for New Zealand currency, or is a swap with one leg denominated in a foreign currency and the other leg denominated in New Zealand currency; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Exception**
 
-**(2)**  Despite subsection (1), this subpart applies and a person's hedge is an eligible hedge, if section EM 1 applies to the hedge, the person has not chosen to use section EM 5(4) and (5) for the hedge, and the hedge—
+**(2)** Despite subsection (1), this subpart applies and a person's hedge is an eligible hedge, if section EM 1 applies to the hedge, the person has not chosen to use section EM 5(4) and (5) for the hedge, and the hedge—
 
 - (a) is a contract to conditionally or unconditionally acquire or dispose of any currency in return for any other currency, or is a swap with legs denominated in any currency; and
 

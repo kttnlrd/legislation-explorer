@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(1)**  A person is denied a deduction for the following:
+**(1)** A person is denied a deduction for the following:
 
 - (a) income tax:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Some ancillary tax excluded**
 
-**(2)**  Subsection (1) does not apply to—
+**(2)** Subsection (1) does not apply to—
 
 - (a) pay-as-you-earn (PAYE):
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the general permission.
+**(3)** This section overrides the general permission.
 
 *Defined in this Act: ancillary tax, deduction, ESCT, FBT, general permission, global anti-base erosion model rules, income tax, multinational top-up tax, New Zealand, NRWT, pay, PAYE, RWT, tax*
 

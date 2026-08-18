@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Trustees**
 
-**(1)**  An amount derived by a person is exempt income of the person if they are—
+**(1)** An amount derived by a person is exempt income of the person if they are—
 
 - (a) the trustee of the Niue International Trust Fund:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Distributions**
 
-**(2)**  An amount derived by a person is exempt income of the person if the income is a distribution by—
+**(2)** An amount derived by a person is exempt income of the person if the income is a distribution by—
 
 - (a) the trustee of the Niue International Trust Fund:
 

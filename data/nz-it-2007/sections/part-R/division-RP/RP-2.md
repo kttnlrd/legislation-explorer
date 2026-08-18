@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Transferring obligations**
 
-**(1)**  An employer may arrange to transfer their pay-as-you-earn (PAYE) and employer's superannuation contribution tax (ESCT) obligations to a person approved under section 124I or 124L of the Tax Administration Act 1994 as a PAYE intermediary.
+**(1)** An employer may arrange to transfer their pay-as-you-earn (PAYE) and employer's superannuation contribution tax (ESCT) obligations to a person approved under section 124I or 124L of the Tax Administration Act 1994 as a PAYE intermediary.
 
 **Paying amounts of tax and filing returns**
 
-**(2)**  A PAYE intermediary must, on behalf of an employer who has transferred an obligation to them under subsection (1),—
+**(2)** A PAYE intermediary must, on behalf of an employer who has transferred an obligation to them under subsection (1),—
 
 - (a) withhold and pay to the Commissioner the amount of tax for a payment under the PAYE rules and the ESCT rules; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When person no longer intermediary**
 
-**(3)**  A person who stops being a PAYE intermediary for an employer has the rights and obligations under the PAYE rules and ESCT rules of a PAYE intermediary in relation to funds that—
+**(3)** A person who stops being a PAYE intermediary for an employer has the rights and obligations under the PAYE rules and ESCT rules of a PAYE intermediary in relation to funds that—
 
 - (a) the employer pays to the person as intermediary; and
 

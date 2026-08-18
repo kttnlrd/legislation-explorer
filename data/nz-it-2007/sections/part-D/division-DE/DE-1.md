@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Apportions motor vehicle expenditure**
 
-**(1)**  This subpart sets out the rules for determining the proportion of business use of a motor vehicle to its total use when a person uses a motor vehicle partly for business use and partly for other uses.
+**(1)** This subpart sets out the rules for determining the proportion of business use of a motor vehicle to its total use when a person uses a motor vehicle partly for business use and partly for other uses.
 
 **Exclusions**
 
-**(2)**  This subpart does not apply—
+**(2)** This subpart does not apply—
 
 - (a) to a company, unless the company is a close company to which section CX 17(4B)﻿(b) and (c) (Benefits provided to employees who are shareholders or investors) applies:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Application of subpart to close companies**
 
-**(3)**  When this subpart applies to a close company to which section CX 17(4B)﻿(b) and (c) (Benefits provided to employees who are shareholders or investors) applies, business use of a motor vehicle by a shareholder-employee of the close company is treated as being business use by the close company.
+**(3)** When this subpart applies to a close company to which section CX 17(4B)﻿(b) and (c) (Benefits provided to employees who are shareholders or investors) applies, business use of a motor vehicle by a shareholder-employee of the close company is treated as being business use by the close company.
 
 *Defined in this Act: business use, close company, company, fringe benefit, income, income from employment, motor vehicle*
 

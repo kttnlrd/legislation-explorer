@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to a remaining tax credit referred to in section LA 4(2).
+**(1)** This section applies to a remaining tax credit referred to in section LA 4(2).
 
 **Non-refundable credits**
 
-**(2)**  A non-refundable tax credit is extinguished. However, this subsection does not apply to a tax credit for income tax and foreign income tax paid in relation to foreign attributed income used under section LK 4 (Use of remaining credits) or to a tax credit for TSWT refundable under section RM 8B (Overpaid TSWT).
+**(2)** A non-refundable tax credit is extinguished. However, this subsection does not apply to a tax credit for income tax and foreign income tax paid in relation to foreign attributed income used under section LK 4 (Use of remaining credits) or to a tax credit for TSWT refundable under section RM 8B (Overpaid TSWT).
 
 **Credits for supplementary dividends**
 
-**(3)**  A person uses a tax credit for a supplementary dividend by applying section LP 3 (Use of remaining credits).
+**(3)** A person uses a tax credit for a supplementary dividend by applying section LP 3 (Use of remaining credits).
 
 **Credits for imputation credits**
 
-**(4)**  A person uses a tax credit for an imputation credit by applying section LE 2, LE 2B, or LE 3 (which relate to the use of remaining tax credits).
+**(4)** A person uses a tax credit for an imputation credit by applying section LE 2, LE 2B, or LE 3 (which relate to the use of remaining tax credits).
 
 **Research and development tax credits**
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Refundable credits**
 
-**(5)**  The Commissioner refunds a refundable tax credit by applying section LA 6, LA 7, or LA 8.
+**(5)** The Commissioner refunds a refundable tax credit by applying section LA 6, LA 7, or LA 8.
 
 **Meaning of refundability cap**
 

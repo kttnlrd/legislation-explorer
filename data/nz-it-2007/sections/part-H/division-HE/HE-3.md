@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  In this subpart, and in sections CB 34 and DV 19 (which relate to income and deductions relating to mutual transactions), an association rebate means a payment by an association to a member that is made—
+**(1)** In this subpart, and in sections CB 34 and DV 19 (which relate to income and deductions relating to mutual transactions), an association rebate means a payment by an association to a member that is made—
 
 - (a) through a distribution of profits of the association; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(2)**  An association rebate does not include—
+**(2)** An association rebate does not include—
 
 - (a) a cash distribution in relation to which the association has made an election under section OB 73(1) or OB 78(1) (which relate to imputation credits of statutory producer boards or co-operative companies); or
 

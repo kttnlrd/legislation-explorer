@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(1)**  Every amount of income must be allocated to an income year under this section.
+**(1)** Every amount of income must be allocated to an income year under this section.
 
 **General rule**
 
-**(2)**  An amount of income is allocated to the income year in which the amount is derived, unless a provision in any of Parts C or E to I provides for allocation on another basis.
+**(2)** An amount of income is allocated to the income year in which the amount is derived, unless a provision in any of Parts C or E to I provides for allocation on another basis.
 
 **Interpretation of derive**
 
-**(3)**  When the time of derivation of an amount of income is being determined, regard must be had to case law, which—
+**(3)** When the time of derivation of an amount of income is being determined, regard must be had to case law, which—
 
 - (a) requires some people to recognise income on an accrual basis; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Income credited in account**
 
-**(4)**  Despite subsection (3), income that has not previously been derived by a person is treated as being derived when it is credited in their account or, in some other way, dealt with in their interest or on their behalf.
+**(4)** Despite subsection (3), income that has not previously been derived by a person is treated as being derived when it is credited in their account or, in some other way, dealt with in their interest or on their behalf.
 
 **Role of Part E**
 
-**(5)**  Part E (Timing and quantifying rules) contains a number of provisions that—
+**(5)** Part E (Timing and quantifying rules) contains a number of provisions that—
 
 - (a) specifically modify the allocation of income or have the effect of modifying the allocation of income; or
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Single allocation**
 
-**(6)**  An amount of income may be allocated only once.
+**(6)** An amount of income may be allocated only once.
 
 *Defined in this Act: amount, income, income year*
 

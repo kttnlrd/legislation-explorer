@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to—
+**(1)** This section applies to—
 
 - (a) a person who meets the requirements of section RC 5(5B); and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **AIM method**
 
-**(2)**  A person must use an AIM-capable accounting system for the calculation of provisional tax payable for a tax year.
+**(2)** A person must use an AIM-capable accounting system for the calculation of provisional tax payable for a tax year.
 
 **Meaning of AIM-capable accounting system**
 
-**(3)**  AIM-capable accounting system means a double-entry accounting system that is an approved AIM provider's product, and uses a core software package from an approved AIM provider, if the system has the following features:
+**(3)** AIM-capable accounting system means a double-entry accounting system that is an approved AIM provider's product, and uses a core software package from an approved AIM provider, if the system has the following features:
 
 - (a) a core software accounting package and connected packages that provide the ability to—
 

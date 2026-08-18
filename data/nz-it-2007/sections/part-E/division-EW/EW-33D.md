@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Assets and liabilities**
 
-**(1)**  For a foreign ASAP, in relation to the sale and purchase of a business combination by way of sale and purchase of the combination's assets and liabilities, an amount of contingent consideration under the ASAP is credited or debited, as applicable, against goodwill to the extent to which—
+**(1)** For a foreign ASAP, in relation to the sale and purchase of a business combination by way of sale and purchase of the combination's assets and liabilities, an amount of contingent consideration under the ASAP is credited or debited, as applicable, against goodwill to the extent to which—
 
 - (a) section EW 32(2B) applies to the ASAP and the amount of contingent consideration is realised and has not been accounted for initially:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Shares**
 
-**(2)**  For a foreign ASAP, in relation to the sale and purchase of a business combination by way of sale and purchase of the combination's shares, an amount of contingent consideration under the ASAP is credited or debited, as applicable, against the shares if—
+**(2)** For a foreign ASAP, in relation to the sale and purchase of a business combination by way of sale and purchase of the combination's shares, an amount of contingent consideration under the ASAP is credited or debited, as applicable, against the shares if—
 
 - (a) section EW 32(2B) applies to the ASAP and the amount of contingent consideration is realised and has not been accounted for initially:
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person (the creditor) provides financial assistance to or for the benefit of another person (the debtor) with an obligation (the debtor obligation) that the debtor could meet, if performance of the obligation were demanded immediately after the time of the provision, by paying an amount (the debt amount) and—
+**(1)** This section applies when a person (the creditor) provides financial assistance to or for the benefit of another person (the debtor) with an obligation (the debtor obligation) that the debtor could meet, if performance of the obligation were demanded immediately after the time of the provision, by paying an amount (the debt amount) and—
 
 - (a) the debtor does not pay to the creditor, for a period for which the debtor has the debtor obligation, interest on the debt amount at a rate equal to the prescribed rate of interest or the market rate; and
 
@@ -30,15 +30,15 @@ compilation_date: 2026-06-06
 
 **When this section does not apply**
 
-**(2)**  This section does not apply to a situation in the application of section HC 27(6) to the situation.
+**(2)** This section does not apply to a situation in the application of section HC 27(6) to the situation.
 
 **Valuation**
 
-**(3)**  The value transferred by the creditor during a period for which the debtor obligation exists is the amount calculated for the debt amount, treated as a loan, using the formula— benchmark interest – interest paid.
+**(3)** The value transferred by the creditor during a period for which the debtor obligation exists is the amount calculated for the debt amount, treated as a loan, using the formula— benchmark interest – interest paid.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) benchmark interest is the amount of interest that would have accrued on the debt amount that is unpaid during the period if the interest had been calculated on the daily balance of the loan at a rate that is equal to whichever the debtor chooses of the prescribed rate of interest and the market rate:
 

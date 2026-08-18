@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Credits only in group account**
 
-**(1)**  A credit listed in subsection (2) arises only in the imputation credit account of a consolidated imputation group and not in the imputation credit account of a group company.
+**(1)** A credit listed in subsection (2) arises only in the imputation credit account of a consolidated imputation group and not in the imputation credit account of a group company.
 
 **Particular credits**
 
-**(2)**  The credit referred to in subsection (1) is a credit under the following sections and described in the following rows of table O19: imputation credits of consolidated imputation groups:
+**(2)** The credit referred to in subsection (1) is a credit under the following sections and described in the following rows of table O19: imputation credits of consolidated imputation groups:
 
 - (a) section OP 7, row 2 (payment of tax):
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Debits only in the group account**
 
-**(3)**  A debit listed in subsection (4) arises only in the imputation credit account of a consolidated imputation group and not in the imputation credit account of a group company.
+**(3)** A debit listed in subsection (4) arises only in the imputation credit account of a consolidated imputation group and not in the imputation credit account of a group company.
 
 **Particular debits**
 
-**(4)**  The debit referred to in subsection (3) is a debit under the following sections and described in the following rows of table O20: imputation debits of consolidated imputation groups:
+**(4)** The debit referred to in subsection (3) is a debit under the following sections and described in the following rows of table O20: imputation debits of consolidated imputation groups:
 
 - (a) section OP 28, row 2 (payment of dividend):
 

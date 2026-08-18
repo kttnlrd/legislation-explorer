@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a petroleum miner disposes of a petroleum mining asset to—
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(2)**  The miner is denied a deduction for the amount that section EJ 16(2) prevents from being allocated to the income year in which the miner disposes of the asset.
+**(2)** The miner is denied a deduction for the amount that section EJ 16(2) prevents from being allocated to the income year in which the miner disposes of the asset.
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the general permission.
+**(3)** This section overrides the general permission.
 
 *Defined in this Act: amount, associated person, deduction, dispose, general permission, income year, petroleum miner, petroleum mining asset*
 

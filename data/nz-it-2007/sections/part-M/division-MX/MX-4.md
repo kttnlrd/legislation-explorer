@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Amount of tax credit**
 
-**(1)**  For a tax year, the person has a tax credit equal to the least of the following:
+**(1)** For a tax year, the person has a tax credit equal to the least of the following:
 
 - (a) $500,000 multiplied by the basic tax rate for a company, if the tax year is the 2015–16 tax year:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Related provision in Tax Administration Act 1994**
 
-**(2)**  Section 70C of the Tax Administration Act 1994 applies for an R&D loss tax credit.
+**(2)** Section 70C of the Tax Administration Act 1994 applies for an R&D loss tax credit.
 
 *Defined in this Act: basic tax rate, company, net loss, R&D expenditure, R&D labour expenditure, R&D loss tax credit, tax year*
 

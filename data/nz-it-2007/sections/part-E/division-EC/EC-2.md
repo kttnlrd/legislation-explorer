@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Valuation method**
 
-**(1)**  A person must determine the value of their livestock at the end of each income year by a method that is available under this subpart for them to use.
+**(1)** A person must determine the value of their livestock at the end of each income year by a method that is available under this subpart for them to use.
 
 **Use of value**
 
-**(2)**  The value determined under subsection (1) is—
+**(2)** The value determined under subsection (1) is—
 
 - (a) the closing value of the livestock for the income year for the purposes of section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements); and
 

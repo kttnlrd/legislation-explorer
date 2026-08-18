@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Intention of new law**
 
-**(1)**  The PIE rules are the provisions of the Income Tax Act 2007 relating to portfolio investment entities in rewritten form, and are intended to have the same effect as the relevant corresponding provisions of the Income Tax Act 2007. Subsection (3) overrides this subsection.
+**(1)** The PIE rules are the provisions of the Income Tax Act 2007 relating to portfolio investment entities in rewritten form, and are intended to have the same effect as the relevant corresponding provisions of the Income Tax Act 2007. Subsection (3) overrides this subsection.
 
 **Using old law as interpretation guide**
 
-**(2)**  Unless subsection (3) applies, in circumstances where the meaning of a PIE rule (the new law) is unclear or gives rise to absurdity—
+**(2)** Unless subsection (3) applies, in circumstances where the meaning of a PIE rule (the new law) is unclear or gives rise to absurdity—
 
 - (a) the wording of the provisions of the Income Tax Act 2007 relating to portfolio investment entities that correspond to and are replaced by the PIE rules (the old law) must be used to determine the correct meaning of the new law; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Limits to subsections (1) and (2)**
 
-**(3)**  Subsections (1) and (2) do not apply in the case of—
+**(3)** Subsections (1) and (2) do not apply in the case of—
 
 - (a) a PIE rule that repeals an old law and replaces it with a new law:
 

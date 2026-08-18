@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning generally**
 
-**(1)**  The PAYE rules apply to a PAYE income payment which—
+**(1)** The PAYE rules apply to a PAYE income payment which—
 
 - (a) means—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **If questions arise**
 
-**(5)**  If a question arises whether the PAYE rules apply to all or part of a PAYE income payment, other than an amount referred to in section RD 3B or RD 3C, the Commissioner must determine the matter.
+**(5)** If a question arises whether the PAYE rules apply to all or part of a PAYE income payment, other than an amount referred to in section RD 3B or RD 3C, the Commissioner must determine the matter.
 
 *Defined in this Act: amount, annual gross income, Commissioner, employee, extra pay, income, income year, pay, pay period, PAYE income payment, PAYE rules, salary or wages, schedular payment, shareholder-employee, tax year*
 

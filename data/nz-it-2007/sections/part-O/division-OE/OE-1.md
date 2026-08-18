@@ -14,13 +14,13 @@ compilation_date: 2026-06-06
 
 **BETA person**
 
-**(2)**  A person resident in New Zealand who is not a company may choose to be a BETA person with a branch equivalent tax account.
+**(2)** A person resident in New Zealand who is not a company may choose to be a BETA person with a branch equivalent tax account.
 
 **General rules: BETA company**
 
 **General rules: BETA person**
 
-**(4)**  Sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to a BETA person and their branch equivalent tax account as if references in those sections to a tax year were references to an income year.
+**(4)** Sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to a BETA person and their branch equivalent tax account as if references in those sections to a tax year were references to an income year.
 
 *Defined in this Act: BETA person, branch equivalent tax account, company, income year, memorandum account, resident in New Zealand, tax year*
 

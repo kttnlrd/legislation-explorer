@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Income: redemption**
 
-**(1)**  The amount that a person receives on the redemption of a commercial bill owned by the person is income of the person.
+**(1)** The amount that a person receives on the redemption of a commercial bill owned by the person is income of the person.
 
 **Income: disposal**
 
-**(2)**  The value of a commercial bill on the day its owner disposes of it is income of the owner. This subsection does not apply if the disposal is a transfer under a relationship agreement.
+**(2)** The value of a commercial bill on the day its owner disposes of it is income of the owner. This subsection does not apply if the disposal is a transfer under a relationship agreement.
 
 *Defined in this Act: amount, commercial bill, income, relationship agreement*
 

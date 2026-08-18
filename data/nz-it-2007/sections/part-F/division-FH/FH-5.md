@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person or entity (the payer) incurs an amount of expenditure in an income year relating to a payment to another person and meeting the requirements of subsection (2), or incurs in an income year a charge meeting the requirements of subsection (3), and—
+**(1)** This section applies when a person or entity (the payer) incurs an amount of expenditure in an income year relating to a payment to another person and meeting the requirements of subsection (2), or incurs in an income year a charge meeting the requirements of subsection (3), and—
 
 - (b) the amount or charge would be allowed as a deduction in the income year for the payer in the absence of this section and sections FH 7 to FH 11; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Expenditure relating to payment made under structured arrangement or to member of payer's control group**
 
-**(2)**  Expenditure relating to a payment by a payer that is a New Zealand resident, or a New Zealand deducting branch of a non-resident, to a payee meets the requirement of this subsection if—
+**(2)** Expenditure relating to a payment by a payer that is a New Zealand resident, or a New Zealand deducting branch of a non-resident, to a payee meets the requirement of this subsection if—
 
 - (a) the payee is a non-resident who receives the payment other than through a New Zealand deducting branch of the payee; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Charge by non-resident to New Zealand deducting branch**
 
-**(3)**  A charge of an amount meets the requirements of this subsection if the amount—
+**(3)** A charge of an amount meets the requirements of this subsection if the amount—
 
 - (a) is charged by a non-resident to a New Zealand deducting branch of the non-resident; and
 
@@ -56,11 +56,11 @@ compilation_date: 2026-06-06
 
 **Mismatch amount**
 
-**(4)**  The payer is denied a deduction for the expenditure or for the amount of the charge that exceeds the expenditure or loss referred to in subsection (3)﻿(d).
+**(4)** The payer is denied a deduction for the expenditure or for the amount of the charge that exceeds the expenditure or loss referred to in subsection (3)﻿(d).
 
 **Deductions denied for mismatch amounts until offset**
 
-**(5)**  The expenditure or loss for which a deduction is denied under subsection (4) is a mismatch amount from a mismatch situation until the mismatch amount is set off under section FH 12 against surplus assessable income under that section from the mismatch situation.
+**(5)** The expenditure or loss for which a deduction is denied under subsection (4) is a mismatch amount from a mismatch situation until the mismatch amount is set off under section FH 12 against surplus assessable income under that section from the mismatch situation.
 
 *Defined in this Act: amount, attributed CFC income, CFC, control group, deducting branch, deduction, financial instrument, loss, mismatch amount, New Zealand, New Zealand resident, non-resident, pay, structured arrangement*
 

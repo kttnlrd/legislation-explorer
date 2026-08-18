@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person incurs film production expenditure or expenditure in acquiring a film right; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(2)**  The person is allowed a deduction for the amount of the expenditure allocated under section EA 2 (Other revenue account property).
+**(2)** The person is allowed a deduction for the amount of the expenditure allocated under section EA 2 (Other revenue account property).
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(3)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: amount, capital limitation, deduction, film, film production expenditure, film right, general limitation, general permission*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections RE 4 and RF 4 (Non-resident passive income received by agents and others) when—
+**(1)** This section applies for the purposes of sections RE 4 and RF 4 (Non-resident passive income received by agents and others) when—
 
 - (a) a person who is a custodial institution receives a payment of investment income; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **When this section does not apply**
 
-**(2)**  This section does not apply to a custodial institution that is the specified operator of a designated FMI to the extent that the designated FMI is a settlement system. The exclusion extends to a nominee or agent of the specified operator.
+**(2)** This section does not apply to a custodial institution that is the specified operator of a designated FMI to the extent that the designated FMI is a settlement system. The exclusion extends to a nominee or agent of the specified operator.
 
 **Meaning of settlement system and other terms**
 
@@ -40,19 +40,19 @@ compilation_date: 2026-06-06
 
 **Obligation to withhold**
 
-**(3)**  At the time the payment or transfer is made and to the extent to which the amount of tax has not already been withheld, the custodial institution that makes the payment to the end investor must withhold the amount of tax for the payment and pay it to the Commissioner.
+**(3)** At the time the payment or transfer is made and to the extent to which the amount of tax has not already been withheld, the custodial institution that makes the payment to the end investor must withhold the amount of tax for the payment and pay it to the Commissioner.
 
 **Agreements to transfer withholding obligations: outsourcing withholding**
 
-**(4)**  A custodial institution that is required to withhold an amount of tax for a payment may, before the date on which the payment is received by the institution, enter into an agreement with another person (person B) for person B to withhold the amount of tax and pay it to the Commissioner. However, if person B does not withhold the amount of tax and pay it to the Commissioner, the withholding obligation remains with the custodial institution.
+**(4)** A custodial institution that is required to withhold an amount of tax for a payment may, before the date on which the payment is received by the institution, enter into an agreement with another person (person B) for person B to withhold the amount of tax and pay it to the Commissioner. However, if person B does not withhold the amount of tax and pay it to the Commissioner, the withholding obligation remains with the custodial institution.
 
 **Agreements to transfer withholding obligations: passing obligation to other custodial institutions**
 
-**(5)**  When a payment of investment income is paid on or transferred through interposed custodial institutions before being paid to an end investor, the custodial institution that is last in the chain may enter into an agreement with another custodial institution that precedes them in the chain, for the latter institution to withhold the amount of tax for the payment and pay it to the Commissioner. In this case, the withholding obligation passes to the latter institution, and the final custodial institution's obligation is discharged.
+**(5)** When a payment of investment income is paid on or transferred through interposed custodial institutions before being paid to an end investor, the custodial institution that is last in the chain may enter into an agreement with another custodial institution that precedes them in the chain, for the latter institution to withhold the amount of tax for the payment and pay it to the Commissioner. In this case, the withholding obligation passes to the latter institution, and the final custodial institution's obligation is discharged.
 
 **Meaning of custodial institution**
 
-**(6)**  For the purposes of this section and sections RE 4 and RF 4, a custodial institution means an entity—
+**(6)** For the purposes of this section and sections RE 4 and RF 4, a custodial institution means an entity—
 
 - (a) that holds financial assets or financial instruments as a bare trustee on account for another person; and
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Meaning of end investor**
 
-**(7)**  For the purposes of this section and sections RE 4 and RF 4, an end investor—
+**(7)** For the purposes of this section and sections RE 4 and RF 4, an end investor—
 
 - (a) means an investor to whom a payment of investment income is made who is—
 
@@ -76,7 +76,7 @@ compilation_date: 2026-06-06
 
 **Meaning of investment income**
 
-**(8)**  For the purposes of this section, and sections RE 4 and RF 4, investment income means—
+**(8)** For the purposes of this section, and sections RE 4 and RF 4, investment income means—
 
 - (a) resident passive income under section RE 2(1)﻿(a) to (c) subject to the withholding obligations set out in sections RE 3 and RE 4:
 
@@ -86,7 +86,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections RE 7 and RE 8**
 
-**(9)**  This section overrides sections RE 7 and RE 8 (which relate to amounts paid to trustees and nominees).
+**(9)** This section overrides sections RE 7 and RE 8 (which relate to amounts paid to trustees and nominees).
 
 *Defined in this Act: amount, amount of tax, attributed PIE income, business, Commissioner, custodial institution, designated FMI, end investor, fixed establishment, FMI settlement, investment income, New Zealand, non-resident, non-resident passive income, pay, portfolio investment entity, resident, resident passive income, rules, RWT, RWT-exempt status, settlement instruction, settlement system, specified operator*
 

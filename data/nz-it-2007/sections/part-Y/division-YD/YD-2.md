@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Four bases for residence**
 
-**(1)**  A company is a New Zealand resident for the purposes of this Act if—
+**(1)** A company is a New Zealand resident for the purposes of this Act if—
 
 - (a) it is incorporated in New Zealand:
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **International tax rules**
 
-**(2)**  Despite subsection (1), for the purpose of the international tax rules, a company is treated as remaining resident in New Zealand if it becomes a foreign company but is resident in New Zealand again within 183 days afterwards.
+**(2)** Despite subsection (1), for the purpose of the international tax rules, a company is treated as remaining resident in New Zealand if it becomes a foreign company but is resident in New Zealand again within 183 days afterwards.
 
 **Cook Islands National Superannuation Fund trustee**
 
-**(3)**  Despite subsection (1), the trustee of the Cook Islands National Superannuation Fund, established by the Cook Islands National Superannuation Fund Deed under the Cook Islands National Superannuation Scheme Act 2000 (Cook Islands), is not a New Zealand resident.
+**(3)** Despite subsection (1), the trustee of the Cook Islands National Superannuation Fund, established by the Cook Islands National Superannuation Fund Deed under the Cook Islands National Superannuation Scheme Act 2000 (Cook Islands), is not a New Zealand resident.
 
 *Defined in this Act: company, director, foreign company, New Zealand, New Zealand resident, non-resident visitor, trustee*
 

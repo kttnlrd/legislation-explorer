@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person carries on a farming or agricultural business on land in New Zealand, whether or not the business is the principal business carried on on the land.
+**(1)** This section applies when a person carries on a farming or agricultural business on land in New Zealand, whether or not the business is the principal business carried on on the land.
 
 **Deduction**
 
-**(2)**  The person is allowed a deduction for expenditure that they incur in planting or maintaining trees or plants, whether or not on the land, for the purpose of—
+**(2)** The person is allowed a deduction for expenditure that they incur in planting or maintaining trees or plants, whether or not on the land, for the purpose of—
 
 - (a) preventing or combating erosion of the land:
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(3)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: business, capital limitation, deduction, general limitation, general permission, New Zealand*
 

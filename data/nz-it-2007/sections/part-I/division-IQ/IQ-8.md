@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies if a company joins a consolidated group in a tax year with a ring-fenced tax loss consisting of an attributed CFC net loss or FIF net loss, or both, carried forward to the tax year, which must be used in the tax year under section IQ 6.
+**(1)** This section applies if a company joins a consolidated group in a tax year with a ring-fenced tax loss consisting of an attributed CFC net loss or FIF net loss, or both, carried forward to the tax year, which must be used in the tax year under section IQ 6.
 
 **Limit on amount**
 
-**(2)**  The amount that may be subtracted from the net income of the consolidated group for the tax year under section ID 2(2) is the lesser of—
+**(2)** The amount that may be subtracted from the net income of the consolidated group for the tax year under section ID 2(2) is the lesser of—
 
 - (a) the amount of ring-fenced tax loss referred to in section IQ 7(1) that the company could subtract from—
 

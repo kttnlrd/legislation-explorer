@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person derives income from the use of an asset described in section DG 3 (Meaning of asset for this subpart).
+**(1)** This section applies when a person derives income from the use of an asset described in section DG 3 (Meaning of asset for this subpart).
 
 **When person opts out of assets expenditure rules**
 
-**(2)**  Income that the person derives from the use of the asset is exempt income if—
+**(2)** Income that the person derives from the use of the asset is exempt income if—
 
 - (a) they meet the requirements of section DG 21 (Opting out of treatment under this subpart); and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Below-market use and use by associates**
 
-**(3)**  An amount of income that the person derives in relation to the private use of an asset as described in section DG 4(1) (Meaning of private use for this subpart) is exempt income.
+**(3)** An amount of income that the person derives in relation to the private use of an asset as described in section DG 4(1) (Meaning of private use for this subpart) is exempt income.
 
 *Defined in this Act: amount, asset, exempt income, income*
 

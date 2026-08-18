@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  Sections RC 3 to RC 39 apply, for the purposes of the provisional tax rules, to provide—
+**(1)** Sections RC 3 to RC 39 apply, for the purposes of the provisional tax rules, to provide—
 
 - (a) the circumstances in which a person has a provisional tax obligation:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Instalment dates**
 
-**(2)**  In this subpart, a reference to an instalment classified by the alphanumeric designations A to F1 is a reference to a date in the table in schedule 3, part A (Payment of provisional tax and terminal tax) on which an instalment of provisional tax is payable for an income year corresponding to a tax year.
+**(2)** In this subpart, a reference to an instalment classified by the alphanumeric designations A to F1 is a reference to a date in the table in schedule 3, part A (Payment of provisional tax and terminal tax) on which an instalment of provisional tax is payable for an income year corresponding to a tax year.
 
 *Defined in this Act: amount, corresponding income year, income year, instalment date, pay, provisional tax, provisional tax rules, shortfall penalty, tax year, transitional year*
 

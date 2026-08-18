@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when, for shares under an employee share scheme,—
+**(1)** This section applies when, for shares under an employee share scheme,—
 
 - (a) the shares were granted or acquired under the employee share scheme before the date that is 6 months after the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent, and—
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Grandparenting**
 
-**(2)**  The new ESS provisions do not apply for the shares. Instead, the provisions of this Act that would apply ignoring the enactment of the new ESS provisions apply for the shares.
+**(2)** The new ESS provisions do not apply for the shares. Instead, the provisions of this Act that would apply ignoring the enactment of the new ESS provisions apply for the shares.
 
 *Defined in this Act: employee share scheme, income, share, share scheme taxing date*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  This subpart applies for a person for an income year, if—
+**(1)** This subpart applies for a person for an income year, if—
 
 - (a) the person or a joint venture of which the person is a member performs a core research and development activity in New Zealand, or, if the person does not perform a core research and development activity in New Zealand, a research and development contractor performs a core research and development activity in New Zealand on behalf of the person as part of a business that the contractor carries on in New Zealand through a fixed establishment in New Zealand; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **When this subpart does not apply**
 
-**(2)**  Despite subsection (1), this subpart does not apply for a person, for an income year,—
+**(2)** Despite subsection (1), this subpart does not apply for a person, for an income year,—
 
 - (a) if they fail to file a return of income for the income year on or before the date that is 1 year after the latest date for them to file the return of income for the year under section 37 of the Tax Administration Act 1994:
 
@@ -54,15 +54,15 @@ compilation_date: 2026-06-06
 
 **Exception: carry forward**
 
-**(3)**  Despite subsection (1), sections LY 1(3)﻿(b) and LY 8 may apply to carry forward a person's research and development tax credit.
+**(3)** Despite subsection (1), sections LY 1(3)﻿(b) and LY 8 may apply to carry forward a person's research and development tax credit.
 
 **Special rule: levy body researcher**
 
-**(4)**  For the purposes of subsection (1), a person that is a levy body researcher is treated as carrying on a business in New Zealand through a fixed establishment in New Zealand.
+**(4)** For the purposes of subsection (1), a person that is a levy body researcher is treated as carrying on a business in New Zealand through a fixed establishment in New Zealand.
 
 **Relationship with subject matter**
 
-**(5)**  Section LZ 13 (Part-year override of section LY 3(2)﻿(b)) overrides subsection (2)﻿(c) for the 2020–21 income year.
+**(5)** Section LZ 13 (Part-year override of section LY 3(2)﻿(b)) overrides subsection (2)﻿(c) for the 2020–21 income year.
 
 *Defined in this Act: associated, business, core research and development activity, exempt income, fixed establishment, group of companies, levy body researcher, look-through company, New Zealand, owner's interests, partner, partnership, research and development contractor, return of income*
 

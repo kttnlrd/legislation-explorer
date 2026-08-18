@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a petroleum miner has had an amount of petroleum development expenditure treated as income under section CT 5B (Resuming commercial production).
+**(1)** This section applies when a petroleum miner has had an amount of petroleum development expenditure treated as income under section CT 5B (Resuming commercial production).
 
 **Amount of income treated as petroleum development expenditure**
 
-**(2)**  An amount equal to the amount that is treated as income under section CT 5B is treated as petroleum development expenditure—
+**(2)** An amount equal to the amount that is treated as income under section CT 5B is treated as petroleum development expenditure—
 
 - (a) incurred by the petroleum miner in the income year referred to in section CT 5B; and
 

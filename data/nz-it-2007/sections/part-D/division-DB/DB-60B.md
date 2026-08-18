@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person incurs a liability—
+**(1)** This section applies when a person incurs a liability—
 
 - (a) under the Climate Change Response Act 2002 for emissions relating to post-1989 forest land or pre-1990 forest land:
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(2)**  The person is denied a deduction for the liability.
+**(2)** The person is denied a deduction for the liability.
 
 **Link with subpart DA**
 
-**(3)**  Subsection (2) overrides the general permission.
+**(3)** Subsection (2) overrides the general permission.
 
 *Defined in this Act: amount, deduction, emissions unit, general permission, permanent forestry scheme, post-1989 forest land, pre-1990 forest land*
 

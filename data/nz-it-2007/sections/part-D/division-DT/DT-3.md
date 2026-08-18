@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When expenditure for privileges or permits incurred**
 
-**(1)**  The consideration that a person pays to acquire a privilege or permit referred to in subsection (2) from a petroleum miner is incurred in the income year in which the petroleum miner disposes of the privilege or permit to the person.
+**(1)** The consideration that a person pays to acquire a privilege or permit referred to in subsection (2) from a petroleum miner is incurred in the income year in which the petroleum miner disposes of the privilege or permit to the person.
 
 **Privileges and permits**
 
-**(2)**  Subsection (1) applies to the person and a privilege or permit if—
+**(2)** Subsection (1) applies to the person and a privilege or permit if—
 
 - (a) the consideration that the person pays to acquire the privilege or permit is petroleum exploration expenditure; and
 

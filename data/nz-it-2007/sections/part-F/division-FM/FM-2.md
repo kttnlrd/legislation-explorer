@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Purpose**
 
-**(1)**  The consolidation rules are intended to ensure that, unless a provision of this Act expressly provides otherwise or the context requires another result, this Act applies to companies that are part of a consolidated group as if they were a single company, including its treatment for the following purposes:
+**(1)** The consolidation rules are intended to ensure that, unless a provision of this Act expressly provides otherwise or the context requires another result, this Act applies to companies that are part of a consolidated group as if they were a single company, including its treatment for the following purposes:
 
 - (a) to determine whether a tax credit may be used to satisfy the income tax liability of a consolidated group for a tax year:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(2)**  The consolidation rules means the following:
+**(2)** The consolidation rules means the following:
 
 - (a) this subpart:
 

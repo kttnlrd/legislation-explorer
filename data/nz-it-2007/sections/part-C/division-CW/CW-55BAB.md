@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to a person having an attributing interest in a foreign investment fund when—
+**(1)** This section applies to a person having an attributing interest in a foreign investment fund when—
 
 - (a) the FIF pays fees to another person; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(2)**  The amount of the rebate is exempt income.
+**(2)** The amount of the rebate is exempt income.
 
 *Defined in this Act: attributing interest, comparative value method, deduction, exempt income, FIF, foreign investment fund, loss, pay*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Avoidance arrangement void**
 
-**(1)**  A tax avoidance arrangement is void as against the Commissioner for income tax purposes.
+**(1)** A tax avoidance arrangement is void as against the Commissioner for income tax purposes.
 
 **Reconstruction**
 
-**(2)**  Under Part G (Avoidance and non-market transactions), the Commissioner may counteract a tax advantage that a person has obtained from or under a tax avoidance arrangement.
+**(2)** Under Part G (Avoidance and non-market transactions), the Commissioner may counteract a tax advantage that a person has obtained from or under a tax avoidance arrangement.
 
 *Defined in this Act: Commissioner, income tax, tax avoidance arrangement*
 

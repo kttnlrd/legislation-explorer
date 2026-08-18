@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an amalgamated company, and the tax year (the amalgamation tax year) corresponding to the income year in which the amalgamation takes place, when the amalgamated company has, for the part of the amalgamation tax year (the pre-amalgamation part year) that corresponds to the part of the income year ending with the date of the amalgamation, tax loss components (the pre-amalgamation loss) that—
+**(1)** This section applies for an amalgamated company, and the tax year (the amalgamation tax year) corresponding to the income year in which the amalgamation takes place, when the amalgamated company has, for the part of the amalgamation tax year (the pre-amalgamation part year) that corresponds to the part of the income year ending with the date of the amalgamation, tax loss components (the pre-amalgamation loss) that—
 
 - (a) arise from the pre-amalgamation part year:
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Requirements for tax loss components to be used or made available before amalgamation**
 
-**(2)**  A tax loss component included in the pre-amalgamation loss may be used or made available by the amalgamated company for subtraction from net income calculated for the pre-amalgamation part year, if the requirements of sections IA 5, IB 3, IC 2, and IC 5 (which relate to the use and grouping of tax losses) for the use or availability are met.
+**(2)** A tax loss component included in the pre-amalgamation loss may be used or made available by the amalgamated company for subtraction from net income calculated for the pre-amalgamation part year, if the requirements of sections IA 5, IB 3, IC 2, and IC 5 (which relate to the use and grouping of tax losses) for the use or availability are met.
 
 **Requirements for amounts to be used or made available after amalgamation**
 
-**(3)**  A tax loss component included in the pre-amalgamation loss may be used or made available by the amalgamated company for subtraction from net income calculated for the part of the amalgamation tax year (the post-amalgamation part year) that corresponds to the part of the income year beginning from the date of amalgamation, if—
+**(3)** A tax loss component included in the pre-amalgamation loss may be used or made available by the amalgamated company for subtraction from net income calculated for the part of the amalgamation tax year (the post-amalgamation part year) that corresponds to the part of the income year beginning from the date of amalgamation, if—
 
 - (a) section IA 5 or IB 3 allows the tax loss component to be carried forward from the pre-amalgamation part year to the post-amalgamation part year; and
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Treatment of part years**
 
-**(4)**  The pre-amalgamation part year and the post-amalgamation part year are treated as separate tax years for the purposes of applying this section.
+**(4)** The pre-amalgamation part year and the post-amalgamation part year are treated as separate tax years for the purposes of applying this section.
 
 **Relationship with sections IA 3, IA 4, IA 5, and IB 3**
 
-**(5)**  This section overrides—
+**(5)** This section overrides—
 
 - (a) sections IA 3 and IA 4 (which relate to the general use of tax losses); and
 

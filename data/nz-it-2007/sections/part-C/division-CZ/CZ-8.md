@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Excluded income**
 
-**(1)**  Excess expenditure under a farm-out arrangement entered into before 16 December 1991 is excluded income of the transferor.
+**(1)** Excess expenditure under a farm-out arrangement entered into before 16 December 1991 is excluded income of the transferor.
 
 **Some definitions**
 
-**(2)**  In subsection (1), excess expenditure, farm-out arrangement, and transferor have the same meanings as in section 214D of the Income Tax Act 1976 immediately before its repeal by section 15 of the Income Tax Amendment Act (No 5) 1992.
+**(2)** In subsection (1), excess expenditure, farm-out arrangement, and transferor have the same meanings as in section 214D of the Income Tax Act 1976 immediately before its repeal by section 15 of the Income Tax Amendment Act (No 5) 1992.
 
 *Defined in this Act: excess expenditure, excluded income, farm-out arrangement, transferor*
 

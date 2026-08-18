@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person and an income year (the current year) before the 2028–29 income year when the person,—
+**(1)** This section applies for a person and an income year (the current year) before the 2028–29 income year when the person,—
 
 - (a) in or before the current year, receives an amount of insurance or compensation for improvements to land subject to section DO 4 or DO 5 (which relate to improvements to land) (the affected property) that was damaged or destroyed by a North Island flooding event; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Insurance or compensation not income**
 
-**(2)**  The amount of the insurance or compensation is not income unless subsection (3) or (6) applies.
+**(2)** The amount of the insurance or compensation is not income unless subsection (3) or (6) applies.
 
 **Income where insurance or compensation proceeds exceed replacement cost**
 
-**(3)**  Where the person incurs expenditure (the replacement cost) in the current year to acquire replacement property and the amount of the insurance or compensation exceeds the replacement cost,—
+**(3)** Where the person incurs expenditure (the replacement cost) in the current year to acquire replacement property and the amount of the insurance or compensation exceeds the replacement cost,—
 
 - (a) the amount of the insurance or compensation is income in the current year to the extent to which it exceeds the replacement cost; but
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Value of replacement property**
 
-**(4)**  If the person acquires replacement property, the value attributed to the expenditure to acquire the replacement property for the purposes of section DO 4 or DO 5, as applicable, is,—
+**(4)** If the person acquires replacement property, the value attributed to the expenditure to acquire the replacement property for the purposes of section DO 4 or DO 5, as applicable, is,—
 
 - (a) if the insurance income is equal to or greater than the replacement cost, zero:
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Requirements for replacement property**
 
-**(5)**  For an item of affected property, replacement property must be an improvement to farm land as described in schedule 20, part A (Expenditure on farming, horticultural, aquacultural, and forestry improvements) or a listed horticultural plant—
+**(5)** For an item of affected property, replacement property must be an improvement to farm land as described in schedule 20, part A (Expenditure on farming, horticultural, aquacultural, and forestry improvements) or a listed horticultural plant—
 
 - (a) acquired in or before the person's 2027–28 income year; and
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Income if replacement property not acquired by end of 2027–28 income year or when person changes intentions, is liquidated, or becomes bankrupt**
 
-**(6)**  The person has an amount of income for the affected property in the current year equal to the insurance income when—
+**(6)** The person has an amount of income for the affected property in the current year equal to the insurance income when—
 
 - (a) the current year ends, if the current year is the 2027–28 income year:
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 **Notice of election for affected property**
 
-**(7)**  A person choosing to rely on this section to suspend in a current year the recognition of income from the insurance for affected property must notify the Commissioner—
+**(7)** A person choosing to rely on this section to suspend in a current year the recognition of income from the insurance for affected property must notify the Commissioner—
 
 - (a) by the later of 30 April 2024 and the date on which the return of income is filed for the earliest income year (the estimate year) in which the amount of the insurance for the affected property can be reasonably estimated; and
 
@@ -80,11 +80,11 @@ compilation_date: 2026-06-06
 
 **Later deadline for notice of election**
 
-**(8)**  The Commissioner may allow the person to file the notice under subsection (7) at a later time if the Commissioner considers there are exceptional circumstances.
+**(8)** The Commissioner may allow the person to file the notice under subsection (7) at a later time if the Commissioner considers there are exceptional circumstances.
 
 **Contents of notice of election**
 
-**(9)**  A notice under subsection (7) must—
+**(9)** A notice under subsection (7) must—
 
 - (a) describe the affected property; and
 
@@ -96,7 +96,7 @@ compilation_date: 2026-06-06
 
 **Relationship to section CG 4**
 
-**(10)**  This section overrides section CG 4.
+**(10)** This section overrides section CG 4.
 
 *Defined in this Act: amount, Commissioner, deduction, income, income year, land, liquidation, New Zealand, North Island flooding events, notice, notify, return of income*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to a person's tax credit remaining for a tax year under section LA 5(5) if it is a tax credit under—
+**(1)** This section applies to a person's tax credit remaining for a tax year under section LA 5(5) if it is a tax credit under—
 
 - (a) section LB 1 (Tax credits for PAYE income payments):
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Use of credits**
 
-**(2)**  The Commissioner must—
+**(2)** The Commissioner must—
 
 - (a) first, use a tax credit to satisfy the person's income tax liability for a tax year that is before the tax year referred to in subsection (1):
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Time bar**
 
-**(3)**  The Commissioner may amend an assessment or a determination to give effect to this section despite the time bar.
+**(3)** The Commissioner may amend an assessment or a determination to give effect to this section despite the time bar.
 
 *Defined in this Act: assessment, Commissioner, income tax liability, PAYE, PIE schedular income, provisional tax, RWT, tax credit, tax year, time bar*
 

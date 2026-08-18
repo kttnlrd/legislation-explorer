@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a company that is part of a group of companies (company C) is allowed a deduction for an amount that it is liable to pay; and
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Income of profit company**
 
-**(2)**  An amount equal to the amount of the unpaid liability referred to in subsection (1)﻿(f) is income of company D.
+**(2)** An amount equal to the amount of the unpaid liability referred to in subsection (1)﻿(f) is income of company D.
 
 **Timing of income**
 
-**(3)**  Company D is treated as deriving the income immediately before the date on which either company C or company D, or both, leaves the group.
+**(3)** Company D is treated as deriving the income immediately before the date on which either company C or company D, or both, leaves the group.
 
 **When subsection (5) applies**
 
-**(4)**  Subsection (5) applies for the purposes of subsection (1)﻿(e)﻿(ii) when—
+**(4)** Subsection (5) applies for the purposes of subsection (1)﻿(e)﻿(ii) when—
 
 - (a) a transaction results in an amount being received by a creditor of company C within a period of 2 years before either company C or company D, or both, leaves the group; and
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Commissioner's discretion**
 
-**(5)**  The Commissioner may treat company C as not satisfying the solvency test set out in section 4 of the Companies Act 1993 if the Commissioner considers—
+**(5)** The Commissioner may treat company C as not satisfying the solvency test set out in section 4 of the Companies Act 1993 if the Commissioner considers—
 
 - (a) the amount is paid when company C is insolvent; and
 
@@ -56,11 +56,11 @@ compilation_date: 2026-06-06
 
 **No application to financial arrangements**
 
-**(6)**  This section does not apply to a liability that is a financial arrangement, whether or not the liability has been remitted or cancelled.
+**(6)** This section does not apply to a liability that is a financial arrangement, whether or not the liability has been remitted or cancelled.
 
 **Relationship with other provisions**
 
-**(7)**  This section—
+**(7)** This section—
 
 - (a) overrides section CG 2:
 

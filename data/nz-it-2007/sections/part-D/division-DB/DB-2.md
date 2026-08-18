@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(1)**  A registered person is denied a deduction for the following:
+**(1)** A registered person is denied a deduction for the following:
 
 - (a) input tax on a supply of goods or services to them:
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(2)**  A registered person is allowed a deduction for deductible output tax but only to the extent to which—
+**(2)** A registered person is allowed a deduction for deductible output tax but only to the extent to which—
 
 - (a) they are allowed a deduction for expenditure that they incur in acquiring or producing the goods or services; or
 
@@ -34,15 +34,15 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(3)**  Subsection (2) does not apply to an adjustment made in relation to a capital asset.
+**(3)** Subsection (2) does not apply to an adjustment made in relation to a capital asset.
 
 **Depreciable property**
 
-**(4)**  The provisions that apply when an amount of depreciation loss is quantified by reference to the cost of an item of depreciable property to a person are in section EE 54 (Cost: GST).
+**(4)** The provisions that apply when an amount of depreciation loss is quantified by reference to the cost of an item of depreciable property to a person are in section EE 54 (Cost: GST).
 
 **Link with subpart DA**
 
-**(5)**  The link between this section and subpart DA (General rules) is as follows:
+**(5)** The link between this section and subpart DA (General rules) is as follows:
 
 - (a) subsection (1) overrides the general permission:
 

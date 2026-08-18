@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when the Commissioner calculates the amounts making up the family tax credit, the in-work tax credit, the child tax credit, and the parental tax credit that relate to a period under this subpart.
+**(1)** This section applies when the Commissioner calculates the amounts making up the family tax credit, the in-work tax credit, the child tax credit, and the parental tax credit that relate to a period under this subpart.
 
 **Calculating net contributions**
 
-**(2)**  The Commissioner must—
+**(2)** The Commissioner must—
 
 - (a) treat the family tax credit, the in-work tax credit, the child tax credit, and the parental tax credit as tax credits corresponding to the period; and
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Calculation for parental tax credit**
 
-**(3)**  For the purposes of subsection (2)﻿(c)﻿(iii) and sections MD 1(3)﻿(d)﻿(i) and MD 16(3)﻿(a), the amount of family credit abatement for an entitlement period applied to reduce the amount of parental tax credit for that entitlement period is calculated using the formula— (entitlement period abatement amount − amount used) × 365 ÷ 70.
+**(3)** For the purposes of subsection (2)﻿(c)﻿(iii) and sections MD 1(3)﻿(d)﻿(i) and MD 16(3)﻿(a), the amount of family credit abatement for an entitlement period applied to reduce the amount of parental tax credit for that entitlement period is calculated using the formula— (entitlement period abatement amount − amount used) × 365 ÷ 70.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) entitlement period abatement amount is the family credit abatement for the entitlement period within the parental entitlement period calculated using the formula in section MD 13(2):
 

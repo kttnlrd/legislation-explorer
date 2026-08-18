@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to revenue account property that is not—
+**(1)** This section applies to revenue account property that is not—
 
 - (a) trading stock valued under subpart EB (Valuation of trading stock (including dealer's livestock)):
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(2)**  A deduction for the cost of revenue account property of a person is allocated to the earlier of—
+**(2)** A deduction for the cost of revenue account property of a person is allocated to the earlier of—
 
 - (a) the income year in which the person disposes of the property; and
 

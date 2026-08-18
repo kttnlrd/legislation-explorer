@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a company that is part of a consolidated group derives an amount of income from a transaction or arrangement with another company in the same consolidated group, and the amount would not be income if the consolidated group were 1 company.
+**(1)** This section applies when a company that is part of a consolidated group derives an amount of income from a transaction or arrangement with another company in the same consolidated group, and the amount would not be income if the consolidated group were 1 company.
 
 **Excluded income**
 
-**(2)**  The amount is excluded income of the company under section CX 60 (Intra-group transactions).
+**(2)** The amount is excluded income of the company under section CX 60 (Intra-group transactions).
 
 **Exclusion of certain amounts**
 
-**(3)**  Despite subsection (2), this section does not apply to—
+**(3)** Despite subsection (2), this section does not apply to—
 
 - (a) an amount arising from the disposal of the company's trading stock; or
 

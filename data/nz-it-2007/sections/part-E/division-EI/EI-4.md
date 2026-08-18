@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person derives income under section CB 30 (Disposal of patent applications or patent rights).
+**(1)** This section applies when a person derives income under section CB 30 (Disposal of patent applications or patent rights).
 
 **Timing of income**
 
-**(2)**  The person may allocate the income equally between the income year in which they derive it and the following 2 income years.
+**(2)** The person may allocate the income equally between the income year in which they derive it and the following 2 income years.
 
 *Defined in this Act: income, income year, patent right*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a cross-border employee receives a fringe benefit in relation to a period when they are providing employment services in New Zealand.
+**(1)** This section applies when a cross-border employee receives a fringe benefit in relation to a period when they are providing employment services in New Zealand.
 
 **Employees' obligations**
 
-**(2)**  If the employer and employee agree and record in a document that the employee is liable for employment-related tax obligations, the employee must—
+**(2)** If the employer and employee agree and record in a document that the employee is liable for employment-related tax obligations, the employee must—
 
 - (a) treat the value of the fringe benefit as a PAYE income payment and withhold and pay tax as if an employer; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When person exempt**
 
-**(3)**  Subsection (2)﻿(a) does not apply if the employee is exempt from paying the amount of the liability.
+**(3)** Subsection (2)﻿(a) does not apply if the employee is exempt from paying the amount of the liability.
 
 *Defined in this Act: amount, Commissioner, cross-border employee, fringe benefit, New Zealand, pay*
 

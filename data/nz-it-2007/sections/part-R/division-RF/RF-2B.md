@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section applies for the purposes of sections RF 2C and RF 12D to RF 12J to provide an outline of the provisions relating to the taxation of non-resident financial arrangement income and to describe the key terms used in the provisions. This section—
+**(1)** This section applies for the purposes of sections RF 2C and RF 12D to RF 12J to provide an outline of the provisions relating to the taxation of non-resident financial arrangement income and to describe the key terms used in the provisions. This section—
 
 - (a) operates only as an aid to understanding; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Purpose**
 
-**(2)**  The purpose of the rules for non-resident financial arrangement income is to ensure that the payment of NRWT on interest derived by a related-party lender is aligned with deductions for expenditure that a borrower has under the financial arrangements rules.
+**(2)** The purpose of the rules for non-resident financial arrangement income is to ensure that the payment of NRWT on interest derived by a related-party lender is aligned with deductions for expenditure that a borrower has under the financial arrangements rules.
 
 **Key concepts**
 
-**(3)**  The following are the key concepts:
+**(3)** The following are the key concepts:
 
 - (a) non-resident financial arrangement income, which is the equivalent of interest derived by a lender, see section RF 2C:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **When does a lender derive non-resident financial arrangement income?**
 
-**(4)**  An offshore lender will derive non-resident financial arrangement income when—
+**(4)** An offshore lender will derive non-resident financial arrangement income when—
 
 - (a) they are associated with or related to a borrower who is resident in New Zealand; and
 
@@ -48,15 +48,15 @@ compilation_date: 2026-06-06
 
 **How is the income calculated?**
 
-**(5)**  The non-resident financial arrangement income of a lender is aligned with the amount of the expenditure incurred by the borrower on related-party debt, see section RF 12D.
+**(5)** The non-resident financial arrangement income of a lender is aligned with the amount of the expenditure incurred by the borrower on related-party debt, see section RF 12D.
 
 **What are first year adjustments?**
 
-**(6)**  An adjustment is made for the first year in which a lender derives non-resident financial arrangement income. The lender is treated as having derived an additional amount that is sufficient to reverse the deferral described in subsection (4)﻿(c), see section RF 12F.
+**(6)** An adjustment is made for the first year in which a lender derives non-resident financial arrangement income. The lender is treated as having derived an additional amount that is sufficient to reverse the deferral described in subsection (4)﻿(c), see section RF 12F.
 
 **How is the income taxed?**
 
-**(7)**  The lender's income is non-resident passive income from which NRWT must be withheld, see section RF 2.
+**(7)** The lender's income is non-resident passive income from which NRWT must be withheld, see section RF 2.
 
 *Defined in this Act: amount, associated person, deduction, financial arrangement, financial arrangements rules, interest, non-resident financial arrangement income, non-resident passive income, NRWT, pay, related-party debt, resident in New Zealand*
 

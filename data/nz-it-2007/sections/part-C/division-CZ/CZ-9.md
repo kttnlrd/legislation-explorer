@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Section CD 44(7)﻿(e)**
 
-**(1)**  For the purposes of section CD 44(7)﻿(e) (Available capital distribution amount), a company derives a capital gain amount if—
+**(1)** For the purposes of section CD 44(7)﻿(e) (Available capital distribution amount), a company derives a capital gain amount if—
 
 - (a) before 1 April 1988, a net profit or gain was derived by the company to which section 4(5) of the Income Tax Act 1976 applied immediately before that provision was repealed by section 31(1) of the Income Tax Amendment Act (No 5) 1988; or
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Section CD 44(14)﻿(b)**
 
-**(2)**  For the purposes of section CD 44(14)﻿(b),—
+**(2)** For the purposes of section CD 44(14)﻿(b),—
 
 - (a) the amount has been excluded by section 4(3) of the Land and Income Tax Act 1954 from treatment as a dividend; or
 

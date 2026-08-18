@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Intended effects for entity**
 
-**(1)**  The intended effects for an entity that is using funds supplied by investors to make investments of certain types and that meets the requirements for multi-rate PIE status are that—
+**(1)** The intended effects for an entity that is using funds supplied by investors to make investments of certain types and that meets the requirements for multi-rate PIE status are that—
 
 - (a) in relation to proceeds of the investments that are attributed to investors who are natural persons or certain trustees, the PIE has a tax liability—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Intended effects for investors**
 
-**(2)**  The intended effects for an investor in the multi-rate PIE are that—
+**(2)** The intended effects for an investor in the multi-rate PIE are that—
 
 - (a) the investor has no tax liability on income arising from proceeds for which the PIE has a tax liability, unless—
 

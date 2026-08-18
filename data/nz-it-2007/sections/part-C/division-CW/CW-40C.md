@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  An amount of income derived by Te Pou Tupua (as defined in the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017) is exempt income.
+**(1)** An amount of income derived by Te Pou Tupua (as defined in the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017) is exempt income.
 
 **Exclusion**
 
-**(2)**  However, subsection (1) does not apply for an amount of income under section CH 11 (Te Awa Tupua and Te Pou Tupua).
+**(2)** However, subsection (1) does not apply for an amount of income under section CH 11 (Te Awa Tupua and Te Pou Tupua).
 
 *Defined in this Act: amount, exempt income, income*
 

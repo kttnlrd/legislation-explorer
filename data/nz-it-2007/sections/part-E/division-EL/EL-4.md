@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an income year when a person is allowed a deduction for expenditure or loss incurred in relation to 1 or more properties in their residential portfolio, excluding any amount of a deduction under section DB 23 (Cost of revenue account property).
+**(1)** This section applies for an income year when a person is allowed a deduction for expenditure or loss incurred in relation to 1 or more properties in their residential portfolio, excluding any amount of a deduction under section DB 23 (Cost of revenue account property).
 
 **Limited allocation**
 
-**(2)**  The amount of the deduction that may be allocated to the income year must be no more than the amount of the person's residential income for the income year. An amount identified as a person's residential income may be counted only once in making an allocation under this subpart.
+**(2)** The amount of the deduction that may be allocated to the income year must be no more than the amount of the person's residential income for the income year. An amount identified as a person's residential income may be counted only once in making an allocation under this subpart.
 
 **Excess amounts carried forward**
 
-**(3)**  To the extent to which the amount of the person's deduction is more than their residential income, the excess amount is—
+**(3)** To the extent to which the amount of the person's deduction is more than their residential income, the excess amount is—
 
 - (a) suspended as a deduction for the income year; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections EL 5, EL 6, and EL 7**
 
-**(4)**  The application is modified by—
+**(4)** The application is modified by—
 
 - (a) section EL 6 when a person chooses to apply the rules in this subpart on a property-by-property basis:
 

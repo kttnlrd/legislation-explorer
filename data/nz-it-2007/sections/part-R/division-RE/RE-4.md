@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Requirements**
 
-**(1)**  A person referred to in section RE 3(1)﻿(a) meets the requirements of this section for an obligation to withhold an amount of tax if they meet at least 1 requirement of each of subsections (2) and (3) in relation to a payment of resident passive income.
+**(1)** A person referred to in section RE 3(1)﻿(a) meets the requirements of this section for an obligation to withhold an amount of tax if they meet at least 1 requirement of each of subsections (2) and (3) in relation to a payment of resident passive income.
 
 **Requirement for person**
 
-**(2)**  The person must be, at the time the payment is made,—
+**(2)** The person must be, at the time the payment is made,—
 
 - (a) resident in New Zealand; or
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Requirements for person and payment**
 
-**(3)**  In addition to meeting a requirement of subsection (2), 1 of the following requirements must be met at the time the payment is made:
+**(3)** In addition to meeting a requirement of subsection (2), 1 of the following requirements must be met at the time the payment is made:
 
 - (a) the person has RWT-exempt status under section RE 27:
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **When person not treated as resident or carrying on taxable activity**
 
-**(4)**  For the purposes of subsection (2), a person who is not resident in New Zealand and is carrying on a taxable activity in New Zealand through a fixed establishment in New Zealand, is treated as not meeting the requirements of the subsection if they establish that, at the time the payment is made,—
+**(4)** For the purposes of subsection (2), a person who is not resident in New Zealand and is carrying on a taxable activity in New Zealand through a fixed establishment in New Zealand, is treated as not meeting the requirements of the subsection if they establish that, at the time the payment is made,—
 
 - (a) for an amount payable in relation to money lent or to shares issued by another person,—
 
@@ -56,11 +56,11 @@ compilation_date: 2026-06-06
 
 **Currency conversion**
 
-**(5)**  A person who is required to withhold RWT in relation to a payment of resident passive income that is in a currency other than New Zealand currency may withhold and pay the amount of the RWT in the foreign currency.
+**(5)** A person who is required to withhold RWT in relation to a payment of resident passive income that is in a currency other than New Zealand currency may withhold and pay the amount of the RWT in the foreign currency.
 
 **Conversion rates: credit**
 
-**(6)**  For the purposes of subsection (5), in the calculation of the amount of RWT to be credited against income tax, the amount must be converted to New Zealand currency at the option of the person deriving the resident passive income at either—
+**(6)** For the purposes of subsection (5), in the calculation of the amount of RWT to be credited against income tax, the amount must be converted to New Zealand currency at the option of the person deriving the resident passive income at either—
 
 - (a) the close of trading spot exchange rate on the day the RWT is paid; or
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 **Conversion rates: payment**
 
-**(7)**  For the purposes of subsection (5), in the calculation of the amount of RWT to be paid to the Commissioner, the amount must be converted to New Zealand currency either at—
+**(7)** For the purposes of subsection (5), in the calculation of the amount of RWT to be paid to the Commissioner, the amount must be converted to New Zealand currency either at—
 
 - (a) the close of trading spot exchange rate on the first working day of the month after the month in which the day the RWT is withheld; or
 

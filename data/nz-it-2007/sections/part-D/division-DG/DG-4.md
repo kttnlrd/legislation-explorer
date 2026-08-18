@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What is private use?**
 
-**(1)**  For the purposes of this subpart, private use of an asset—
+**(1)** For the purposes of this subpart, private use of an asset—
 
 - (a) means the use of the asset by a person described in subsection (2), whether or not—
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Use by natural persons**
 
-**(2)**  The person referred to in subsection (1)﻿(a) is a natural person who—
+**(2)** The person referred to in subsection (1)﻿(a) is a natural person who—
 
 - (a) owns, leases, licenses, or otherwise has the asset:
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Ordinary business use**
 
-**(3)**  The use of an asset is not private use if—
+**(3)** The use of an asset is not private use if—
 
 - (a) the asset is used to derive income for a particular period; and
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Repairs**
 
-**(4)**  The use of an asset is not private use if—
+**(4)** The use of an asset is not private use if—
 
 - (a) the asset is used to derive income for a particular period; and
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Relocation expenses**
 
-**(5)**  The use of an asset is not private use if—
+**(5)** The use of an asset is not private use if—
 
 - (a) the asset is used to derive income for a particular period in an income year; and
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(6)**  Subsections (3) to (5) do not apply if the person derives an amount of exempt income in relation to the use of the asset. For the treatment of certain amounts of income derived from the use of assets as described in this section, see section CW 8B (Certain amounts derived from use of assets).
+**(6)** Subsections (3) to (5) do not apply if the person derives an amount of exempt income in relation to the use of the asset. For the treatment of certain amounts of income derived from the use of assets as described in this section, see section CW 8B (Certain amounts derived from use of assets).
 
 *Defined in this Act: amount, asset, associated person, business, exempt income, income, lease, market value, pay, private use*
 

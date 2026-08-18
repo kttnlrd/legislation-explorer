@@ -18,16 +18,16 @@ source_pdf: "vol01.pdf"
 RBA surpluses
 
 <a id="s8AAZLC-1"></a>
-**(1)**  If an RBA surplus is allocated or applied under this Division, the Commissioner must reduce by the same amount excess non-RBA credits that relate to the RBA. Excess non-RBA credits
+**(1)** If an RBA surplus is allocated or applied under this Division, the Commissioner must reduce by the same amount excess non-RBA credits that relate to the RBA. Excess non-RBA credits
 
 <a id="s8AAZLC-2"></a>
-**(2)**  If, under this Division, an excess non-RBA credit that relates to an RBA (the related RBA) is:
+**(2)** If, under this Division, an excess non-RBA credit that relates to an RBA (the related RBA) is:
 
 > <a id="s8AAZLC-2-a"></a>
-> **(a)**  allocated to an RBA; or
+> **(a)** allocated to an RBA; or
 
 > <a id="s8AAZLC-2-b"></a>
-> **(b)**  applied against a non-RBA tax debt; the related RBA is adjusted in the Commissioner’s favour by the same amount.
+> **(b)** applied against a non-RBA tax debt; the related RBA is adjusted in the Commissioner's favour by the same amount.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

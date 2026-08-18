@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  An ICA company has an imputation credit for an amount representing an entitlement to funds held in a tax pooling account if the intermediary transfers the entitlement from another person to the company.
+**(1)** An ICA company has an imputation credit for an amount representing an entitlement to funds held in a tax pooling account if the intermediary transfers the entitlement from another person to the company.
 
 **Table reference**
 
-**(2)**  The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 4 (transfer from tax pooling account).
+**(2)** The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 4 (transfer from tax pooling account).
 
 **Credit date**
 
-**(3)**  The credit date is,—
+**(3)** The credit date is,—
 
 - (a) for an entitlement to funds that are transferred by the intermediary from the tax pooling account to the company's tax account with the Commissioner, the credit date under section RP 19 (Transfers from tax pooling accounts) for the amount transferred; or
 

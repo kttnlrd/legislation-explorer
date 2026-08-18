@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(1)**  Every deduction must be allocated to an income year under this section.
+**(1)** Every deduction must be allocated to an income year under this section.
 
 **General rule**
 
-**(2)**  A deduction for an amount of expenditure or loss is allocated to the income year in which the expenditure or loss is incurred, unless a provision in any of Parts D to I provides for allocation on another basis.
+**(2)** A deduction for an amount of expenditure or loss is allocated to the income year in which the expenditure or loss is incurred, unless a provision in any of Parts D to I provides for allocation on another basis.
 
 **Interpretation of incur**
 
-**(3)**  When the time of incurrence of an amount of expenditure or loss is being determined, regard must be had to case law, which—
+**(3)** When the time of incurrence of an amount of expenditure or loss is being determined, regard must be had to case law, which—
 
 - (a) requires some people to recognise expenditure or loss on an accrual basis; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Role of Part E**
 
-**(4)**  Part E (Timing and quantifying rules) contains a number of provisions that—
+**(4)** Part E (Timing and quantifying rules) contains a number of provisions that—
 
 - (a) specifically modify the allocation of deductions or have the effect of modifying the allocation of deductions; or
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Allocation**
 
-**(5)**  If an expenditure or loss gives rise to more than 1 deduction, the deductions are allocated to income years to the extent that their total is no more than the amount of the expenditure or loss.
+**(5)** If an expenditure or loss gives rise to more than 1 deduction, the deductions are allocated to income years to the extent that their total is no more than the amount of the expenditure or loss.
 
 *Defined in this Act: amount, deduction, income year, loss*
 

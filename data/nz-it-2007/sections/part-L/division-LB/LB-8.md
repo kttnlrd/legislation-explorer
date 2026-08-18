@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person is paid under the Accident Compensation Act 2001 a personal service rehabilitation payment for a period for a key aspect of social rehabilitation referred to in the definition of personal service rehabilitation payment; and
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Tax credit**
 
-**(2)**  The person has a tax credit for the tax year corresponding to the income year in which the period falls to the extent of the amount calculated using the formula— total tax withheld − (amount paid × tax rate ÷ (1 − tax rate)).
+**(2)** The person has a tax credit for the tax year corresponding to the income year in which the period falls to the extent of the amount calculated using the formula— total tax withheld − (amount paid × tax rate ÷ (1 − tax rate)).
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) total tax withheld is the total amount of tax withheld from the personal service rehabilitation payment paid to the person for the period:
 

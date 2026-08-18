@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Calculation of amount of tax**
 
-**(1)**  For an interest payment under an inflation-indexed instrument, the payer is obliged, in addition to withholding under section RE 12, to withhold and pay to the Commissioner the lesser of the following amounts of tax:
+**(1)** For an interest payment under an inflation-indexed instrument, the payer is obliged, in addition to withholding under section RE 12, to withhold and pay to the Commissioner the lesser of the following amounts of tax:
 
 - (a) the net amount of the interest payment (the current coupon payment) remaining after the withholding of RWT under section RE 12:
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Formula for subsection (1)﻿(b)**
 
-**(2)**  The formula for the purposes of subsection (1)﻿(b) is: CV increase × tax rate.
+**(2)** The formula for the purposes of subsection (1)﻿(b) is: CV increase × tax rate.
 
 **Definition of items in formula in subsection (2)**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) CV increase is the amount calculated under the formula in subsection (4), if it is positive:
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Formula for subsection (3)﻿(a)**
 
-**(4)**  The formula for the purposes of subsection (3)﻿(a) is: CV current coupon payment − CV previous coupon payment.
+**(4)** The formula for the purposes of subsection (3)﻿(a) is: CV current coupon payment − CV previous coupon payment.
 
 **Definition of items in formula in subsection (4)**
 
-**(5)**  In the formula in subsection (4),—
+**(5)** In the formula in subsection (4),—
 
 - (a) CV current coupon payment is an amount that is or will be payable for the money lent under the instrument, to the extent to which the amount has accrued at the time of the current coupon payment and the amount is determined by a fixed relationship to 1 or more indices of general price inflation in New Zealand:
 

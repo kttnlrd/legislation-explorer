@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) or, as applicable, sections MD 1 and ME 1 (Minimum family tax credit) for the period starting on 31 July 2024 and finishing on 31 March 2025.
+**(1)** This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) or, as applicable, sections MD 1 and ME 1 (Minimum family tax credit) for the period starting on 31 July 2024 and finishing on 31 March 2025.
 
 **In-work tax credit formula: section MD 10**
 
-**(2)**  The instalments for the relevant tax credit are calculated using, for the calculation of the in-work tax credit, the formula— (amount A + amount B × (children − 3)) × weekly periods ÷ 52.
+**(2)** The instalments for the relevant tax credit are calculated using, for the calculation of the in-work tax credit, the formula— (amount A + amount B × (children − 3)) × weekly periods ÷ 52.
 
 **Definition of items in formula**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) amount A is $5,070:
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Minimum family tax credit formula: section ME 1**
 
-**(4)**  The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the formula— (prescribed amount − net family scheme income) × weekly periods ÷ 52.
+**(4)** The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the formula— (prescribed amount − net family scheme income) × weekly periods ÷ 52.
 
 **Definition of items in formula**
 
-**(5)**  In the formula in subsection (4),—
+**(5)** In the formula in subsection (4),—
 
 - (a) prescribed amount is $35,316:
 

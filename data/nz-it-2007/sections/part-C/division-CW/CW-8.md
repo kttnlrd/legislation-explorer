@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies to—
+**(1)** This section applies to—
 
 - (a) interest derived from money lent under a binding contract entered into on or after 29 July 1983; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(2)**  Interest or a redemption payment that is payable outside New Zealand is exempt income if—
+**(2)** Interest or a redemption payment that is payable outside New Zealand is exempt income if—
 
 - (a) it is derived by a person who is a non-resident; and
 

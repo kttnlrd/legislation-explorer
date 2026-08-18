@@ -17,19 +17,19 @@ source_pdf: "part1.pdf"
 
 
 <a id="s29JCA-1"></a>
-**(1)**  A person commits an offence if:
+**(1)** A person commits an offence if:
 
 > <a id="s29JCA-1-a"></a>
-> **(a)**  the person makes a representation; and
+> **(a)** the person makes a representation; and
 
 > <a id="s29JCA-1-b"></a>
-> **(b)**  the representation is that the person is, or is a member of a group that is, an RSE licensee; and
+> **(b)** the representation is that the person is, or is a member of a group that is, an RSE licensee; and
 
 > <a id="s29JCA-1-c"></a>
-> **(c)**  the representation is false. Penalty: 60 penalty units.
+> **(c)** the representation is false. Penalty: 60 penalty units.
 
 <a id="s29JCA-2"></a>
-**(2)**  Strict liability applies to subsection (1).
+**(2)** Strict liability applies to subsection (1).
 
 > **Note:** For strict liability, see section 6.1 of the Criminal Code.
 

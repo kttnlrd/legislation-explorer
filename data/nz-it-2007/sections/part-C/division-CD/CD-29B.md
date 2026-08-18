@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Issue of rights to subscribe for shares**
 
-**(1)**  The issue by a company to a shareholder of a right to subscribe for a share, or to sell or otherwise dispose of a share in the company to the company, is not a dividend.
+**(1)** The issue by a company to a shareholder of a right to subscribe for a share, or to sell or otherwise dispose of a share in the company to the company, is not a dividend.
 
 **Issue of shares under rights to subscribe for shares**
 
-**(2)**  The issue by a company of a share to a person for consideration less than the market value, immediately before the issue, of a share in the same class of shares, is not a dividend if—
+**(2)** The issue by a company of a share to a person for consideration less than the market value, immediately before the issue, of a share in the same class of shares, is not a dividend if—
 
 - (a) the person subscribes for the share under a right (a subscription right) issued by the company to a shareholder holding shares before the issue of the right; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Premiums from issue of rights to subscribe for shares**
 
-**(3)**  A distribution by a company to a shareholder is not a dividend if—
+**(3)** A distribution by a company to a shareholder is not a dividend if—
 
 - (a) the company issues to the shareholder a right (the shareholder right) to subscribe for, or dispose of to the company, a share in the company at a given price (the shareholder price); and
 

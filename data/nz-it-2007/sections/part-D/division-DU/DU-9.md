@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of mining prospecting expenditure**
 
-**(1)**  Mining prospecting expenditure—
+**(1)** Mining prospecting expenditure—
 
 - (a) means expenditure that a mineral miner incurs directly in relation to the acquisition of—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Meaning of mining prospecting information**
 
-**(2)**  Mining prospecting information means geological, geophysical, or technical information—
+**(2)** Mining prospecting information means geological, geophysical, or technical information—
 
 - (a) that is about the presence, absence, extent, or volume of listed industrial minerals in an area; or
 

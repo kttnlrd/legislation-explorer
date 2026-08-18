@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Refund**
 
-**(1)**  The Commissioner must refund to a person the amount given by the formula in subsection (2), if the person uses the AIM method for a tax year and gives the Commissioner the required information in the form prescribed under section 45 of the Tax Administration Act 1994 (the form).
+**(1)** The Commissioner must refund to a person the amount given by the formula in subsection (2), if the person uses the AIM method for a tax year and gives the Commissioner the required information in the form prescribed under section 45 of the Tax Administration Act 1994 (the form).
 
 **Formula**
 
-**(2)**  For the purposes of subsection (1) the refund amount is— AIM payments year to date − AIM year to date.
+**(2)** For the purposes of subsection (1) the refund amount is— AIM payments year to date − AIM year to date.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) AIM payments year to date means the amount of provisional tax paid by the person for the tax year on and before the last day of the instalment period that the form relates to:
 

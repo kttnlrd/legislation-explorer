@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Making elections**
 
-**(1)**  A company that meets the requirements of sections HA 6 to HA 9 may be a qualifying company only if all the directors of the company and every shareholder in the company with legal capacity, choose, before the start of the grandparenting income year, that the company is to become a qualifying company. Every director and every shareholder with legal capacity must sign a notice of election and give it to the Commissioner.
+**(1)** A company that meets the requirements of sections HA 6 to HA 9 may be a qualifying company only if all the directors of the company and every shareholder in the company with legal capacity, choose, before the start of the grandparenting income year, that the company is to become a qualifying company. Every director and every shareholder with legal capacity must sign a notice of election and give it to the Commissioner.
 
 **Extension of time in some cases**
 
@@ -28,19 +28,19 @@ compilation_date: 2026-06-06
 
 **Elections remaining in effect**
 
-**(2)**  The elections referred to in subsection (1) must remain in effect and must not have been revoked before the end of the relevant income year.
+**(2)** The elections referred to in subsection (1) must remain in effect and must not have been revoked before the end of the relevant income year.
 
 **Director at time**
 
-**(3)**  For the purposes of an election, a person is considered a director of a company if they hold the office at the time the notice is provided.
+**(3)** For the purposes of an election, a person is considered a director of a company if they hold the office at the time the notice is provided.
 
 **Elections**
 
-**(4)**  The elections referred to in this section are dealt with in sections HA 28 to HA 39.
+**(4)** The elections referred to in this section are dealt with in sections HA 28 to HA 39.
 
 **Meaning of grandparenting income year**
 
-**(5)**  In this section, grandparenting income year means the income year before the first income year that starts on or after 1 April 2011.
+**(5)** In this section, grandparenting income year means the income year before the first income year that starts on or after 1 April 2011.
 
 *Defined in this Act: Commissioner, company, director, grandparenting income year, income year, notice, qualifying company, shareholder*
 

@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(1)**  A deduction that an employer or self-employed person is allowed for an Accident Compensation Corporation (ACC) levy or premium is allocated to the income year in which it becomes due and payable, except as provided in subsection (2) or (3).
+**(1)** A deduction that an employer or self-employed person is allowed for an Accident Compensation Corporation (ACC) levy or premium is allocated to the income year in which it becomes due and payable, except as provided in subsection (2) or (3).
 
 **Earlier income year**
 
-**(2)**  If a deduction for an ACC levy or premium has been allocated to an income year earlier than the income year in which the levy or premium becomes due and payable and, because of the time bar or for another reason, the Commissioner cannot lawfully amend the assessment for the income year, the deduction is allocated to the income year in which it was allowed.
+**(2)** If a deduction for an ACC levy or premium has been allocated to an income year earlier than the income year in which the levy or premium becomes due and payable and, because of the time bar or for another reason, the Commissioner cannot lawfully amend the assessment for the income year, the deduction is allocated to the income year in which it was allowed.
 
 **Balance dates between 1 October and 6 April**
 
-**(3)**  If a person's income year ends on a balance date falling between 1 October and 6 April (both dates inclusive), an ACC levy or premium that is due on a date in schedule 3, part A, column H (Payment of provisional tax and terminal tax) is treated as if it were due and payable on the relevant date in schedule 3, part A, column G for the person's corresponding income year.
+**(3)** If a person's income year ends on a balance date falling between 1 October and 6 April (both dates inclusive), an ACC levy or premium that is due on a date in schedule 3, part A, column H (Payment of provisional tax and terminal tax) is treated as if it were due and payable on the relevant date in schedule 3, part A, column G for the person's corresponding income year.
 
 **References to dates in schedule 3**
 
-**(4)**  For the purposes of subsection (3), references to the date in schedule 3, part A, columns G and H (which refer to months only and not days) are references to the day in the relevant month that is fixed by the following:
+**(4)** For the purposes of subsection (3), references to the date in schedule 3, part A, columns G and H (which refer to months only and not days) are references to the day in the relevant month that is fixed by the following:
 
 - (a) the definition of instalment date in section YA 1 (Definitions); and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Meaning of ACC levy or premium**
 
-**(5)**  In this section, ACC levy or premium means any of the following levies, premiums, or penalties:
+**(5)** In this section, ACC levy or premium means any of the following levies, premiums, or penalties:
 
 - (a) the following levy or premium:
 

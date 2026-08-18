@@ -12,31 +12,31 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an exiting partner disposes of some or all of their partner's interests in a partnership to an entering partner, to the extent to which those interests include a short-term agreement for sale and purchase.
+**(1)** This section applies when an exiting partner disposes of some or all of their partner's interests in a partnership to an entering partner, to the extent to which those interests include a short-term agreement for sale and purchase.
 
 **Exiting partner: excluded payment**
 
-**(2)**  The amount of consideration paid or payable to the exiting partner for the short-term agreement for sale and purchase is excluded income of the exiting partner.
+**(2)** The amount of consideration paid or payable to the exiting partner for the short-term agreement for sale and purchase is excluded income of the exiting partner.
 
 **Exiting partner: no deduction**
 
-**(3)**  The exiting partner is denied any deduction in relation to the short-term agreement for sale and purchase, to the extent to which the entering partner is allowed a deduction because of subsection (5).
+**(3)** The exiting partner is denied any deduction in relation to the short-term agreement for sale and purchase, to the extent to which the entering partner is allowed a deduction because of subsection (5).
 
 **Entering partner: no deduction**
 
-**(4)**  The entering partner is denied any deduction for the amount of consideration paid or payable to the exiting partner for the short-term agreement for sale and purchase.
+**(4)** The entering partner is denied any deduction for the amount of consideration paid or payable to the exiting partner for the short-term agreement for sale and purchase.
 
 **Entering partner: stepping in**
 
-**(5)**  For the purposes of calculating the income tax liability of an entering partner for the part of the income year after the disposal of the short-term agreement for sale and purchase occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had originally acquired and held the short-term agreement for sale and purchase, not the exiting partner.
+**(5)** For the purposes of calculating the income tax liability of an entering partner for the part of the income year after the disposal of the short-term agreement for sale and purchase occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had originally acquired and held the short-term agreement for sale and purchase, not the exiting partner.
 
 **Exclusion by election**
 
-**(6)**  This section does not apply for the partners of a small partnership if section HG 3(2) applies.
+**(6)** This section does not apply for the partners of a small partnership if section HG 3(2) applies.
 
 **Exclusion: final dissolution**
 
-**(7)**  This section does not apply for the partners of a partnership if section HG 3(1) applies.
+**(7)** This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
 *Defined in this Act: amount, deduction, dispose, entering partner, excluded income, exiting partner, income tax liability, income year, partner, partner's interests, partnership, pay, short-term agreement for sale and purchase, small partnership*
 

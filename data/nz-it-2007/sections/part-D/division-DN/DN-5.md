@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for a FIF loss.
+**(1)** A person is allowed a deduction for a FIF loss.
 
 **Ring-fencing rule for loss calculated under attributable FIF income method**
 
-**(2)**  The deduction for a FIF loss calculated under the attributable FIF income method is subject to the jurisdictional ring-fencing rule in section DN 8.
+**(2)** The deduction for a FIF loss calculated under the attributable FIF income method is subject to the jurisdictional ring-fencing rule in section DN 8.
 
 **Ring-fencing rule for loss calculated under revenue account method**
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(3)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: attributable FIF income method, calculation method, capital limitation, deduction, FIF loss, general limitation, general permission, revenue account method, supplement*
 

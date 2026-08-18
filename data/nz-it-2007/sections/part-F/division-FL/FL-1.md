@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  This subpart applies when a company that is a New Zealand resident (the emigrating company)—
+**(1)** This subpart applies when a company that is a New Zealand resident (the emigrating company)—
 
 - (a) stops being a New Zealand resident; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Tax effects**
 
-**(2)**  For tax purposes, the effects on an emigrating company and its shareholders, when an emigrating company becomes non-resident, or if a specified event occurs after an emigrating company starts being treated under a double tax agreement as not being a New Zealand resident, reflect the effects that would have resulted if,—
+**(2)** For tax purposes, the effects on an emigrating company and its shareholders, when an emigrating company becomes non-resident, or if a specified event occurs after an emigrating company starts being treated under a double tax agreement as not being a New Zealand resident, reflect the effects that would have resulted if,—
 
 - (a) immediately before the time of emigration,—
 

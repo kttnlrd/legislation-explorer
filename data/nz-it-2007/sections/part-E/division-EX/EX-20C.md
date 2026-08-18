@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **CFC's net attributable CFC income or loss**
 
-**(1)**  For the purpose of calculating the attributed CFC income or loss for an accounting period of a person (the interest holder) with an income interest in a CFC,—
+**(1)** For the purpose of calculating the attributed CFC income or loss for an accounting period of a person (the interest holder) with an income interest in a CFC,—
 
 - (a) the CFC's net attributable CFC income for the accounting period is the greater of zero and the amount calculated using the formula in subsection (2):
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Formula for net attributable CFC income or loss**
 
-**(2)**  The amount of a CFC's net attributable CFC income or loss for an accounting period is calculated using the rules in section EX 21 and the formula— attributable CFC − apportioned funding costs − other deductions.
+**(2)** The amount of a CFC's net attributable CFC income or loss for an accounting period is calculated using the rules in section EX 21 and the formula— attributable CFC − apportioned funding costs − other deductions.
 
 **Definition of items in formula**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) attributable CFC is the CFC's attributable CFC amount for the accounting period:
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Definition of items in formula**
 
-**(4)**  The items in the formula in subsection (3)﻿(c) are defined in subsections (6), (10), and (11).
+**(4)** The items in the formula in subsection (3)﻿(c) are defined in subsections (6), (10), and (11).
 
 **Funding fraction**
 
-**(6)**  Funding fraction is equal to,—
+**(6)** Funding fraction is equal to,—
 
 - (a) if the item funding in subsection (7)﻿(a) is zero, 1; or
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Definition of items in formula**
 
-**(7)**  In the formula in subsection (6),—
+**(7)** In the formula in subsection (6),—
 
 - (a) funding is the total of amounts, each of which is the outstanding balance for—
 
@@ -68,11 +68,11 @@ compilation_date: 2026-06-06
 
 **Asset fraction**
 
-**(8)**  Asset fraction is the amount calculated using the formula— (attributable CFC's assets − group funding)÷ (total CFC's assets − group funding).
+**(8)** Asset fraction is the amount calculated using the formula— (attributable CFC's assets − group funding)÷ (total CFC's assets − group funding).
 
 **Definition of items in formula**
 
-**(9)**  In the formula in subsection (8),—
+**(9)** In the formula in subsection (8),—
 
 - (a) attributable CFC's assets is the total of amounts for the CFC's assets, each of which is the value of an asset to the extent to which the asset is used for the purpose of deriving an attributable CFC amount and not used for the purpose of deriving an amount that is not an attributable CFC amount:
 
@@ -86,7 +86,7 @@ compilation_date: 2026-06-06
 
 **Funding costs**
 
-**(10)**  Funding costs is the total of amounts in the accounting period, each of which—
+**(10)** Funding costs is the total of amounts in the accounting period, each of which—
 
 - (a) would be a deduction of the CFC relating to a financial arrangement to which the CFC is a party and which provides funds for the CFC:
 
@@ -94,7 +94,7 @@ compilation_date: 2026-06-06
 
 **Cost fraction**
 
-**(11)**  Cost fraction is,—
+**(11)** Cost fraction is,—
 
 - (a) if the CFC is not excessively debt funded under section EX 20D, the amount of the item asset fraction referred to in subsection (8); or
 
@@ -106,7 +106,7 @@ compilation_date: 2026-06-06
 
 **Determining debts and assets of CFC**
 
-**(12)**  For the items referred to in subsection (9), the debts and assets of the CFC are determined under sections FE 8 to FE 11 (which contain rules for determining the apportionment of interest) as if the CFC were—
+**(12)** For the items referred to in subsection (9), the debts and assets of the CFC are determined under sections FE 8 to FE 11 (which contain rules for determining the apportionment of interest) as if the CFC were—
 
 - (a) an excess debt outbound company; and
 
@@ -114,7 +114,7 @@ compilation_date: 2026-06-06
 
 **Requirements for item other deductions**
 
-**(13)**  Amounts of expenditure or loss contribute to the item other deductions to the extent to which—
+**(13)** Amounts of expenditure or loss contribute to the item other deductions to the extent to which—
 
 - (a) the amounts do not relate to a financial arrangement or share and—
 

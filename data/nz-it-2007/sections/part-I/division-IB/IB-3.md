@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an ownership continuity breach occurs for a company.
+**(1)** This section applies when an ownership continuity breach occurs for a company.
 
 **Tax loss components for earlier income years carried forward**
 
-**(2)**  Despite the ownership continuity breach, a tax loss component arising in an earlier income year is carried forward to a tax year in a loss balance under section IA 3(4) (Using tax losses in tax year) if—
+**(2)** Despite the ownership continuity breach, a tax loss component arising in an earlier income year is carried forward to a tax year in a loss balance under section IA 3(4) (Using tax losses in tax year) if—
 
 - (a) the earlier income year is the 2013–14 income year or a later income year; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Tax loss components for earlier income years not carried forward**
 
-**(3)**  The tax loss component is not carried forward to the tax year if—
+**(3)** The tax loss component is not carried forward to the tax year if—
 
 - (a) before the beginning of the business continuity period,—
 
@@ -46,11 +46,11 @@ compilation_date: 2026-06-06
 
 **Major change: factor that must be taken into account**
 
-**(4)**  For the purposes of subsection (2), without limiting the factors that may be taken into account in determining whether a major change in the nature of the business activities carried on by the company has occurred during the business continuity period, the extent to which the assets used in deriving the company's assessable income have remained the same or similar over the business continuity period must be taken into account.
+**(4)** For the purposes of subsection (2), without limiting the factors that may be taken into account in determining whether a major change in the nature of the business activities carried on by the company has occurred during the business continuity period, the extent to which the assets used in deriving the company's assessable income have remained the same or similar over the business continuity period must be taken into account.
 
 **Permitted major changes**
 
-**(5)**  A major change in the nature of the business activities carried on by the company during the business continuity period does not breach the requirement set out in subsection (2)﻿(c) if the major change is—
+**(5)** A major change in the nature of the business activities carried on by the company during the business continuity period does not breach the requirement set out in subsection (2)﻿(c) if the major change is—
 
 - (a) made to increase the efficiency of a business activity that the company carried on immediately before the beginning of the business continuity period:
 
@@ -66,11 +66,11 @@ compilation_date: 2026-06-06
 
 **Avoidance arrangements**
 
-**(6)**  Section GB 3BA (Arrangements for carrying forward loss balances: companies' business activities) may apply to treat a company as not meeting the requirements of subsection (2).
+**(6)** Section GB 3BA (Arrangements for carrying forward loss balances: companies' business activities) may apply to treat a company as not meeting the requirements of subsection (2).
 
 **A definition**
 
-**(7)**  In subsection (5), asset does not include land other than buildings and fixtures.
+**(7)** In subsection (5), asset does not include land other than buildings and fixtures.
 
 *Defined in this Act: amount, assessable income, asset, business, company, income year, land, loss balance, ownership continuity breach, tax loss component, tax year*
 

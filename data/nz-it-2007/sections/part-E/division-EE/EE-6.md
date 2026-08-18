@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Description**
 
-**(1)**  Depreciable property is property that, in normal circumstances, might reasonably be expected to decline in value while it is used or available for use— Subsections (2) to (4) expand on this subsection.
+**(1)** Depreciable property is property that, in normal circumstances, might reasonably be expected to decline in value while it is used or available for use— Subsections (2) to (4) expand on this subsection.
 
 - (a) in deriving assessable income; or
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Property: tangible**
 
-**(2)**  An item of tangible property is depreciable property if—
+**(2)** An item of tangible property is depreciable property if—
 
 - (a) it is described by subsection (1); and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Property: intangible**
 
-**(3)**  An item of intangible property is depreciable property if—
+**(3)** An item of intangible property is depreciable property if—
 
 - (a) it is within the definition of depreciable intangible property; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Property: geothermal wells**
 
-**(4)**  For the purposes of this subpart, a person who owns a geothermal well is, for the geothermal energy proving period, treated as acquiring the well as property that declines in value and is to be available for use in carrying on a business for the purpose of deriving assessable income.
+**(4)** For the purposes of this subpart, a person who owns a geothermal well is, for the geothermal energy proving period, treated as acquiring the well as property that declines in value and is to be available for use in carrying on a business for the purpose of deriving assessable income.
 
 *Defined in this Act: acquire, assessable income, business, depreciable intangible property, depreciable property, geothermal energy proving period, geothermal well, property, research and development activity, utilities distribution asset*
 

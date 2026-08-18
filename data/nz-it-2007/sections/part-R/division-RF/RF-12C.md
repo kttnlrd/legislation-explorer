@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an amount of non-resident passive income is—
+**(1)** This section applies when an amount of non-resident passive income is—
 
 - (a) derived by a life insurer from a company resident in New Zealand; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Zero-rating**
 
-**(2)**  The rate of NRWT payable on the amount is 0%.
+**(2)** The rate of NRWT payable on the amount is 0%.
 
 *Defined in this Act: amount, apply, company, life insurer, New Zealand, non-resident passive income, NRWT, pay, resident in New Zealand*
 

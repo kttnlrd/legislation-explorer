@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income and allocation**
 
-**(1)**  The treatment of amounts derived by mutual associations and from mutual associations is dealt with in—
+**(1)** The treatment of amounts derived by mutual associations and from mutual associations is dealt with in—
 
 - (a) section CB 33 (Amounts derived by mutual associations); and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Deductions and allocation**
 
-**(2)**  The treatment of association rebates that a mutual association pays to a member is dealt with in section DV 19 (Association rebates).
+**(2)** The treatment of association rebates that a mutual association pays to a member is dealt with in section DV 19 (Association rebates).
 
 *Defined in this Act: amount, association, association rebate, member*
 

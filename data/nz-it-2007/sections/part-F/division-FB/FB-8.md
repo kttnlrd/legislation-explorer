@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections CB 30 and DB 38 to DB 40 (which relate to patent applications and patent rights) when a patent application with complete specifications or a patent right is transferred on a settlement of relationship property.
+**(1)** This section applies for the purposes of sections CB 30 and DB 38 to DB 40 (which relate to patent applications and patent rights) when a patent application with complete specifications or a patent right is transferred on a settlement of relationship property.
 
 **Transfer: part of expenditure or cost of rights**
 
-**(2)**  The transfer is treated as a disposal and acquisition for an amount that equals, as applicable,—
+**(2)** The transfer is treated as a disposal and acquisition for an amount that equals, as applicable,—
 
 - (a) expenditure referred to in section DB 38 (Patent rights: devising patented inventions) for which the transferor is denied a deduction; or
 

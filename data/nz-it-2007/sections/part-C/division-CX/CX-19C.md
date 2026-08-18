@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Travel between home and work**
 
-**(1)**  A fare that an employer subsidises mainly for the purposes of an employee travelling between their home and place of work is not a fringe benefit if the fare—
+**(1)** A fare that an employer subsidises mainly for the purposes of an employee travelling between their home and place of work is not a fringe benefit if the fare—
 
 - (a) is a public transport fare for 1 or more of the following:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Meaning of bus service**
 
-**(2)**  Bus service means a service for the carriage of passengers for hire or reward by means of a motor vehicle, but does not include—
+**(2)** Bus service means a service for the carriage of passengers for hire or reward by means of a motor vehicle, but does not include—
 
 - (a) a service that can be reserved for use by a single person or a self-selected group of people:
 
@@ -36,11 +36,11 @@ compilation_date: 2026-06-06
 
 **Meaning of public transport fare**
 
-**(3)**  Public transport fare means the money paid for a journey on a means of transport that is available to the public and for which set fares are charged.
+**(3)** Public transport fare means the money paid for a journey on a means of transport that is available to the public and for which set fares are charged.
 
 **Meaning of rail vehicle**
 
-**(4)**  Rail vehicle has the same meaning as in section 4(1) of the Railways Act 2005.
+**(4)** Rail vehicle has the same meaning as in section 4(1) of the Railways Act 2005.
 
 *Defined in this Act: bus service, employee, fringe benefit, public transport fare, rail vehicle*
 

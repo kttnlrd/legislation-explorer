@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the first income year in which a lender derives non-resident financial arrangement income under a financial arrangement. It increases the lender's income by adding an amount that the lender would have derived if the financial arrangement had always given rise to non-resident financial arrangement income.
+**(1)** This section applies for the first income year in which a lender derives non-resident financial arrangement income under a financial arrangement. It increases the lender's income by adding an amount that the lender would have derived if the financial arrangement had always given rise to non-resident financial arrangement income.
 
 **Formula**
 
-**(2)**  The amount is calculated using the formula— total accrual income − total interest.
+**(2)** The amount is calculated using the formula— total accrual income − total interest.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) total accrual income is the total expenditure incurred by the borrower under the arrangement to the extent to which the arrangement is held by a non-resident person for the period that—
 

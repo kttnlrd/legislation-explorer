@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section applies for a foreign investment PIE for the purposes of the calculations that must be made under sections HM 36 and HM 47 in relation to the income attributed to a notified foreign investor in the PIE or the income tax liability of the PIE.
+**(1)** This section applies for a foreign investment PIE for the purposes of the calculations that must be made under sections HM 36 and HM 47 in relation to the income attributed to a notified foreign investor in the PIE or the income tax liability of the PIE.
 
 **Foreign investment zero-rate PIEs**
 
-**(2)**  A foreign investment zero-rate PIE must apply a prescribed investor rate of 0% under schedule 6, table 1, row 9 (Prescribed rates: PIE investments and retirement scheme contributions) to all amounts attributed to the investor.
+**(2)** A foreign investment zero-rate PIE must apply a prescribed investor rate of 0% under schedule 6, table 1, row 9 (Prescribed rates: PIE investments and retirement scheme contributions) to all amounts attributed to the investor.
 
 **Foreign investment variable-rate PIEs**
 
-**(3)**  A foreign investment variable-rate PIE must, for all amounts attributed to the investor,—
+**(3)** A foreign investment variable-rate PIE must, for all amounts attributed to the investor,—
 
 - (a) identify the income source of each amount; and
 

@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Fair dividend rate hedge portions**
 
-**(1)**  This section calculates the maximum fair dividend rate hedge portions for a person's eligible hedges on a hedge-by-hedge basis under an election provided by section EM 4, or the minimum fair dividend rate hedge portions for hedges that are a hedge of a hedge.
+**(1)** This section calculates the maximum fair dividend rate hedge portions for a person's eligible hedges on a hedge-by-hedge basis under an election provided by section EM 4, or the minimum fair dividend rate hedge portions for hedges that are a hedge of a hedge.
 
 **Choice of methods**
 
-**(3)**  A person may choose to use either the method in subsections (4) and (5), or the method in subsections (9) to (10D), to calculate the maximum or minimum, as the case may be, fair dividend rate hedge portions for all of the person's eligible hedges when the relevant hedge is first entered into or acquired. They may not choose to use, for example, the method in subsections (4) and (5) for some hedges and the method in subsections (9) to (10D) for other hedges.
+**(3)** A person may choose to use either the method in subsections (4) and (5), or the method in subsections (9) to (10D), to calculate the maximum or minimum, as the case may be, fair dividend rate hedge portions for all of the person's eligible hedges when the relevant hedge is first entered into or acquired. They may not choose to use, for example, the method in subsections (4) and (5) for some hedges and the method in subsections (9) to (10D) for other hedges.
 
 **First method**
 
-**(4)**  The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the lesser of 100% and the amount, expressed as a percentage, calculated, using the formula in this subsection, when the hedge is first entered into or acquired. Subsection (8) overrides this subsection. The formula is— (1.05 × (eligible currency assets + proxied currency assets) − FDR hedges amount) ÷ calculation hedge amount.
+**(4)** The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the lesser of 100% and the amount, expressed as a percentage, calculated, using the formula in this subsection, when the hedge is first entered into or acquired. Subsection (8) overrides this subsection. The formula is— (1.05 × (eligible currency assets + proxied currency assets) − FDR hedges amount) ÷ calculation hedge amount.
 
 **Definition of items in formula**
 
-**(5)**  In the formula in subsection (4), all items are expressed in the calculation currency (see: eligible currency assets), and—
+**(5)** In the formula in subsection (4), all items are expressed in the calculation currency (see: eligible currency assets), and—
 
 - (a) eligible currency assets is the total market value of,—
 
@@ -46,15 +46,15 @@ compilation_date: 2026-06-06
 
 **Exception for more than 100% non-eligible currency asset hedges**
 
-**(8)**  If the amount calculated under subsection (4) or (9) is less than zero, then the maximum or minimum, as the case may be, fair dividend rate hedge portion for the relevant calculation hedge is zero.
+**(8)** If the amount calculated under subsection (4) or (9) is less than zero, then the maximum or minimum, as the case may be, fair dividend rate hedge portion for the relevant calculation hedge is zero.
 
 **Second method**
 
-**(9)**  The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the amount, expressed as a percentage, calculated using the following formula when the hedge is first entered into or acquired: FDR gross amount × apportioned current hedge amount ÷ calculation hedge amount.
+**(9)** The maximum or minimum, as the case may be, fair dividend rate hedge portion for a person's eligible hedge (the calculation hedge) is the amount, expressed as a percentage, calculated using the following formula when the hedge is first entered into or acquired: FDR gross amount × apportioned current hedge amount ÷ calculation hedge amount.
 
 **Definition of items in formula**
 
-**(10)**  In the formula in subsection (9), all items are expressed in New Zealand currency, and—
+**(10)** In the formula in subsection (9), all items are expressed in New Zealand currency, and—
 
 - (a) FDR gross amount is the amount given by subsection (10B):
 
@@ -98,7 +98,7 @@ compilation_date: 2026-06-06
 
 **Relationship with subject matter**
 
-**(11)**  Section EM 7 overrides this section.
+**(11)** Section EM 7 overrides this section.
 
 *Defined in this Act: eligible hedge, fair dividend rate hedge portion, hedge, income, non-eligible assets*
 

@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Profit distribution plan shares**
 
-**(1)**  A share issued by a company under a profit distribution plan is a dividend.
+**(1)** A share issued by a company under a profit distribution plan is a dividend.
 
 **Amount of dividend**
 
-**(2)**  The amount of the dividend is the amount offered by the company for the repurchase of the share.
+**(2)** The amount of the dividend is the amount offered by the company for the repurchase of the share.
 
 **Relationship with section CD 22**
 
-**(3)**  Section CD 22 does not apply in relation to a share issued under a profit distribution plan and repurchased by the company as part of the plan.
+**(3)** Section CD 22 does not apply in relation to a share issued under a profit distribution plan and repurchased by the company as part of the plan.
 
 *Defined in this Act: amount, company, dividend, profit distribution plan, RWT, share*
 

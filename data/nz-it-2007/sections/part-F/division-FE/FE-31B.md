@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Members of worldwide group**
 
-**(1)**  For an income year, a worldwide group for an excess debt outbound company is made up of—
+**(1)** For an income year, a worldwide group for an excess debt outbound company is made up of—
 
 - (a) the company; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Worldwide GAAP group**
 
-**(2)**  An excess debt outbound company's worldwide GAAP group is made up of all non-residents who are required to be included with the company in consolidated financial statements under generally accepted accounting practice.
+**(2)** An excess debt outbound company's worldwide GAAP group is made up of all non-residents who are required to be included with the company in consolidated financial statements under generally accepted accounting practice.
 
 *Defined in this Act: excess debt outbound company, generally accepted accounting practice, income year, non-resident*
 

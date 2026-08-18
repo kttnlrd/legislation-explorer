@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to a person who is liable to pay provisional tax under section RC 5(5) and to the calculation of the amount of their provisional tax payable for a tax year under the estimation method.
+**(1)** This section applies to a person who is liable to pay provisional tax under section RC 5(5) and to the calculation of the amount of their provisional tax payable for a tax year under the estimation method.
 
 **Fair and reasonable estimate**
 
-**(2)**  On or before an instalment date, the person may make a fair and reasonable estimate of their residual income tax for the tax year by informing the Commissioner of the estimate. The amount of provisional tax payable for a tax year is the amount of the estimated residual income tax.
+**(2)** On or before an instalment date, the person may make a fair and reasonable estimate of their residual income tax for the tax year by informing the Commissioner of the estimate. The amount of provisional tax payable for a tax year is the amount of the estimated residual income tax.
 
 **Revising estimates**
 
-**(3)**  On or before an instalment date, the person may choose to revise an estimate made under subsection (2). The amount last estimated is the amount taken into account under section RC 5(5).
+**(3)** On or before an instalment date, the person may choose to revise an estimate made under subsection (2). The amount last estimated is the amount taken into account under section RC 5(5).
 
 **Exception for person making election under section IZ 8**
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **Reasonable care in making and maintaining assessment**
 
-**(4)**  A person who makes an estimate under subsection (2) must take reasonable care in making it, and must revise the estimate for the tax year if, at some time in the tax year, the amount estimated is no longer fair and reasonable.
+**(4)** A person who makes an estimate under subsection (2) must take reasonable care in making it, and must revise the estimate for the tax year if, at some time in the tax year, the amount estimated is no longer fair and reasonable.
 
 **Estimation higher than provisional tax payable**
 
-**(5)**  If a person's estimate is more than the provisional tax that is payable for the tax year, they are treated as having taken reasonable care in making the estimate.
+**(5)** If a person's estimate is more than the provisional tax that is payable for the tax year, they are treated as having taken reasonable care in making the estimate.
 
 **Changing calculation method from GST ratio**
 
-**(6)**  If, under section RC 18(5), a person changes the way they determine the amount of provisional tax after the date of an instalment, they must estimate their residual income tax for their corresponding income year, and must pay provisional tax on whichever of the following instalment dates for the income year occur after 30 days from their last ratio instalment date:
+**(6)** If, under section RC 18(5), a person changes the way they determine the amount of provisional tax after the date of an instalment, they must estimate their residual income tax for their corresponding income year, and must pay provisional tax on whichever of the following instalment dates for the income year occur after 30 days from their last ratio instalment date:
 
 - (a) C and F for changes to a 6-monthly GST taxable period:
 

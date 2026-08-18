@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a member superannuation fund incurs expenditure that is more than—
+**(1)** This section applies when a member superannuation fund incurs expenditure that is more than—
 
 - (a) the member fund and master fund agree can be transferred; or
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Expenditure as loss balance**
 
-**(2)**  If the member fund carries forward expenditure in an income year, the member fund may treat some or all of the expenditure as a loss balance for the corresponding tax year.
+**(2)** If the member fund carries forward expenditure in an income year, the member fund may treat some or all of the expenditure as a loss balance for the corresponding tax year.
 
 *Defined in this Act: income year, loss balance, master fund, tax year*
 

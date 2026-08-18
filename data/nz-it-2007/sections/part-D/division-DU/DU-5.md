@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a farm-in party under a farm-out arrangement incurs farm-in expenditure that, if it were incurred by the farm-out party, would fall into 1 of the classes of mining expenditure referred to in section DU 8(1).
+**(1)** This section applies when a farm-in party under a farm-out arrangement incurs farm-in expenditure that, if it were incurred by the farm-out party, would fall into 1 of the classes of mining expenditure referred to in section DU 8(1).
 
 **Treatment of farm-in expenditure**
 
-**(2)**  The farm-in expenditure is treated as if it were the applicable class of mining expenditure.
+**(2)** The farm-in expenditure is treated as if it were the applicable class of mining expenditure.
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(3)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: capital limitation, farm-in expenditure, farm-out arrangement, general limitation, general permission*
 

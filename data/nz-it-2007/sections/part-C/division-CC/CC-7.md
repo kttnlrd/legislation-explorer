@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a lender provides money to a borrower for use in a business that the borrower carries on in New Zealand; and
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount described in subsection (3) is income of the lender.
+**(2)** The amount described in subsection (3) is income of the lender.
 
 **Amount of income**
 
-**(3)**  The amount is the interest that the borrower would have been liable to pay if the lender had lent the money to the borrower in consideration of the payment of interest at the current commercial rate, given the nature and term of the loan, reduced by the amount of any interest that the borrower pays.
+**(3)** The amount is the interest that the borrower would have been liable to pay if the lender had lent the money to the borrower in consideration of the payment of interest at the current commercial rate, given the nature and term of the loan, reduced by the amount of any interest that the borrower pays.
 
 *Defined in this Act: amount, business, income, interest, New Zealand, pay*
 

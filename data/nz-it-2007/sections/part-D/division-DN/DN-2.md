@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **General rule**
 
-**(1)**  A person has an attributed CFC loss from a foreign company in an income year if—
+**(1)** A person has an attributed CFC loss from a foreign company in an income year if—
 
 - (a) the foreign company is a CFC at any time during 1 of its accounting periods, under sections EX 1 to EX 7 (which relate to the definition of a controlled foreign company); and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Special rule: Attributable CFC amount from personal services**
 
-**(2)**  If a person and a non-attributing active CFC or non-attributing Australian CFC meet the requirements of subsection (1)﻿(a) to (e) and the CFC derives income from personal services that is an attributable CFC amount under section EX 20B(3)﻿(h) (Attributable CFC amount), the person has attributed CFC loss from the CFC equal to the product of—
+**(2)** If a person and a non-attributing active CFC or non-attributing Australian CFC meet the requirements of subsection (1)﻿(a) to (e) and the CFC derives income from personal services that is an attributable CFC amount under section EX 20B(3)﻿(h) (Attributable CFC amount), the person has attributed CFC loss from the CFC equal to the product of—
 
 - (a) the person's income interest in the CFC:
 

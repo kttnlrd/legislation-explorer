@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section applies to determine the treatment of a non-resident person who is an investor in a multi-rate PIE that chooses under section HM 71B to become a foreign investment PIE. This section overrides section HM 32(1).
+**(1)** This section applies to determine the treatment of a non-resident person who is an investor in a multi-rate PIE that chooses under section HM 71B to become a foreign investment PIE. This section overrides section HM 32(1).
 
 **Notification**
 
-**(2)**  If the person meets the requirements of subsections (3) and (4), they may notify the PIE that they wish to be treated as a notified foreign investor.
+**(2)** If the person meets the requirements of subsections (3) and (4), they may notify the PIE that they wish to be treated as a notified foreign investor.
 
 **Status requirements**
 
-**(3)**  The person must not be—
+**(3)** The person must not be—
 
 - (a) resident in New Zealand; or
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Information requirements**
 
-**(4)**  The person must provide the PIE with the information set out in section 28D(1) of the Tax Administration Act 1994.
+**(4)** The person must provide the PIE with the information set out in section 28D(1) of the Tax Administration Act 1994.
 
 **Non-residents' rates**
 
-**(5)**  If the person does not meet the requirements of subsections (3) and (4), the PIE must treat them as a non-resident person to whom schedule 6, table 1, row 2 (Prescribed rates: PIE investments and retirement scheme contributions) applies.
+**(5)** If the person does not meet the requirements of subsections (3) and (4), the PIE must treat them as a non-resident person to whom schedule 6, table 1, row 2 (Prescribed rates: PIE investments and retirement scheme contributions) applies.
 
 **PIE relying on notification**
 
-**(6)**  Despite subsection (5), the PIE may rely on the notification given by a person and treat them as a notified foreign investor in the following circumstances:
+**(6)** Despite subsection (5), the PIE may rely on the notification given by a person and treat them as a notified foreign investor in the following circumstances:
 
 - (a) the person notifies the PIE that they wish to be treated as a notified foreign investor, but they have misrepresented their eligibility for notified foreign investor status:
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **When status may be disregarded**
 
-**(7)**  The Commissioner may advise a PIE to disregard notification by an investor under subsection (2) if the Commissioner considers on reasonable grounds that the person does not meet or no longer meets the requirements of subsections (3) and (4). As soon as reasonably practicable after receiving the advice, the PIE must treat the investor as a non-resident person described in subsection (5).
+**(7)** The Commissioner may advise a PIE to disregard notification by an investor under subsection (2) if the Commissioner considers on reasonable grounds that the person does not meet or no longer meets the requirements of subsections (3) and (4). As soon as reasonably practicable after receiving the advice, the PIE must treat the investor as a non-resident person described in subsection (5).
 
 **Cancelling status**
 
-**(8)**  A notified foreign investor who wishes to have their notified foreign investor status cancelled, must notify the PIE. The status may be cancelled at any time.
+**(8)** A notified foreign investor who wishes to have their notified foreign investor status cancelled, must notify the PIE. The status may be cancelled at any time.
 
 **Cancelling status of trustee after election under section HC 33**
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Transitional residents**
 
-**(9)**  Despite subsection (3)﻿(a), a transitional resident who is an investor in a foreign investment zero-rate PIE may choose the prescribed investor rate set out in schedule 6, table 1, row 10.
+**(9)** Despite subsection (3)﻿(a), a transitional resident who is an investor in a foreign investment zero-rate PIE may choose the prescribed investor rate set out in schedule 6, table 1, row 10.
 
 *Defined in this Act: CFC, Commissioner, excluded income, FIF, foreign investment PIE, foreign trust, income interest, multi-rate PIE, non-resident, notified foreign investor, notify, resident in New Zealand, transitional resident, trustee*
 

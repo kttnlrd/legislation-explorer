@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an employee receives from an employer a benefit that—
+**(1)** This section applies when an employee receives from an employer a benefit that—
 
 - (a) would be a fringe benefit in the absence of this section; and
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Benefits with known value for employee**
 
-**(2)**  Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could estimate, are not fringe benefits to the extent to which their total value as fringe benefits for the period would be less than or equal to the amount by which $5,000 exceeds the income that is—
+**(2)** Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could estimate, are not fringe benefits to the extent to which their total value as fringe benefits for the period would be less than or equal to the amount by which $5,000 exceeds the income that is—
 
 - (a) exempt under section CZ 23B(2)﻿(b); and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Benefits without known value for employee**
 
-**(3)**  Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could not estimate, are not fringe benefits.
+**(3)** Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could not estimate, are not fringe benefits.
 
 *Defined in this Act: associated person, employee, employer, exempt income, fringe benefit, income, PAYE income payment, North Island flooding event*
 

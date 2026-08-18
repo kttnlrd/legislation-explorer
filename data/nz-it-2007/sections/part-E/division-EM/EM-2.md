@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Who does this subpart apply to?**
 
-**(1)**  This subpart applies to a person if section EM 1 applies to the person, to the extent to which the person—
+**(1)** This subpart applies to a person if section EM 1 applies to the person, to the extent to which the person—
 
 - (a) is listed in schedule 29, part A or B (Portfolio investment entities: listed investors), but is not a life insurer:
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Combining people and investor interests**
 
-**(2)**  For the purposes of applying subsection (1)﻿(d)﻿(i) and (ii), if a person is associated with another person, they are treated as 1 person who holds their combined investor interests, if their combined investor interests total 5% or more of the total investor interests for the fund or trust. Subsection (3) overrides this subsection.
+**(2)** For the purposes of applying subsection (1)﻿(d)﻿(i) and (ii), if a person is associated with another person, they are treated as 1 person who holds their combined investor interests, if their combined investor interests total 5% or more of the total investor interests for the fund or trust. Subsection (3) overrides this subsection.
 
 **Exception to combining people and investor interests**
 
-**(3)**  Subsection (2) does not apply to make 2 associated people into 1 person, or to combine investor interests of 2 associated persons, if 1 of them is a listed person.
+**(3)** Subsection (2) does not apply to make 2 associated people into 1 person, or to combine investor interests of 2 associated persons, if 1 of them is a listed person.
 
 *Defined in this Act: associated person, exempt income, group investment fund, income, investor class, investor interest, life insurance policies, life insurer, superannuation fund, unit trust*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  An amount that a company derives in an income year and that would not otherwise be income of the company is treated as its income if—
+**(1)** An amount that a company derives in an income year and that would not otherwise be income of the company is treated as its income if—
 
 - (a) the company is for that income year part of a wholly-owned group of companies; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections CB 15D and CB 15E**
 
-**(2)**  Subsection (1) is overridden by sections CB 15D (Kāinga Ora–Homes and Communities and wholly-owned group) and CB 15E (Disposals of land subject to section CW 3C).
+**(2)** Subsection (1) is overridden by sections CB 15D (Kāinga Ora–Homes and Communities and wholly-owned group) and CB 15E (Disposals of land subject to section CW 3C).
 
 *Defined in this Act: amount, company, income, income year, wholly-owned group of companies*
 

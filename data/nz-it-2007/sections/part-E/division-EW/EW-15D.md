@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **General IFRS rules**
 
-**(1)**  Under the IFRS financial reporting method, a person must allocate an amount to an income year under IFRS rules modified, as applicable, under subsection (2).
+**(1)** Under the IFRS financial reporting method, a person must allocate an amount to an income year under IFRS rules modified, as applicable, under subsection (2).
 
 **Modifications**
 
-**(2)**  The allocation is modified as follows:
+**(2)** The allocation is modified as follows:
 
 - (a) if the financial arrangement is a financial asset, an amount arising from an impaired credit adjustment under IFRSs is not allocated to an income year. However, when the fair value method is used, adjustments for financial arrangements held by the person are excluded from this paragraph, if the financial arrangements are not derivative instruments and the person's business includes dealing in those financial arrangements:
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Meaning of impaired credit adjustment**
 
-**(3)**  For the purposes of this section, impaired credit adjustment means—
+**(3)** For the purposes of this section, impaired credit adjustment means—
 
 - (a) for a financial arrangement accounted for under the fair value method, a movement in fair value—
 

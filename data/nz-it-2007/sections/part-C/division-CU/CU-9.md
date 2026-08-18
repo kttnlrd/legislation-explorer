@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of mineral mining asset**
 
-**(1)**  Mineral mining asset means—
+**(1)** Mineral mining asset means—
 
 - (a) a mining or prospecting right:
 
@@ -22,15 +22,15 @@ compilation_date: 2026-06-06
 
 **Inclusion for particular purpose**
 
-**(2)**  For the purposes of section GB 20 (Arrangements involving petroleum and mineral mining), a mineral mining asset also includes an asset that is acquired by a mineral miner for the purposes of their mining operations or associated mining operations.
+**(2)** For the purposes of section GB 20 (Arrangements involving petroleum and mineral mining), a mineral mining asset also includes an asset that is acquired by a mineral miner for the purposes of their mining operations or associated mining operations.
 
 **Exclusion**
 
-**(3)**  A mineral mining asset does not include land.
+**(3)** A mineral mining asset does not include land.
 
 **Meaning of mining or prospecting right**
 
-**(4)**  For the purposes of this section, mining or prospecting right—
+**(4)** For the purposes of this section, mining or prospecting right—
 
 - (a) means an authority, concession, easement, lease, licence, option, permit, privilege, right, or title relating to exploring, searching, or mining for, or carrying on an operation to recover, a listed industrial mineral; and
 

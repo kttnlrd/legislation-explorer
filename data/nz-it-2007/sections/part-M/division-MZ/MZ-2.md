@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Entitlement**
 
-**(1)**  A person who meets the requirements of section MZ 1 is entitled to a child tax credit calculated using the formula in subsection (2).
+**(1)** A person who meets the requirements of section MZ 1 is entitled to a child tax credit calculated using the formula in subsection (2).
 
 **Formula**
 
-**(2)**  The formula is— $780 × dependent children × days in entitlement period ÷ 365.
+**(2)** The formula is— $780 × dependent children × days in entitlement period ÷ 365.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) dependent children is the number of dependent children for whom the person is a principal caregiver during the entitlement period:
 

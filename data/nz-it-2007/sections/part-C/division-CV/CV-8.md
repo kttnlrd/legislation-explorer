@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Order in Council**
 
-**(1)**  For the purpose of enabling the Commissioner to administer the entitlement of New Zealand resident wine producers to Australian wine producer rebates for wine produced in New Zealand, the Governor-General may by Order in Council make regulations relating to—
+**(1)** For the purpose of enabling the Commissioner to administer the entitlement of New Zealand resident wine producers to Australian wine producer rebates for wine produced in New Zealand, the Governor-General may by Order in Council make regulations relating to—
 
 - (a) the claim by a New Zealand resident wine producer for payment of an Australian wine producer rebate for wine produced in New Zealand that is sold in Australia:
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Force and effect**
 
-**(2)**  An Order in Council under subsection (1)—
+**(2)** An Order in Council under subsection (1)—
 
 - (a) has force and effect despite any provision in this Act or any other Inland Revenue Act:
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Definitions**
 
-**(3)**  In this section,— Australian financial year means a year starting on and including 1 July wine has the meaning given in section 31-1 of A New Tax System (Wine Equalisation Tax) Act 1999 (Aust) and regulations made under that Act.
+**(3)** In this section,— Australian financial year means a year starting on and including 1 July wine has the meaning given in section 31-1 of A New Tax System (Wine Equalisation Tax) Act 1999 (Aust) and regulations made under that Act.
 
 **Secondary legislation**
 
-**(4)**  An Order in Council under subsection (1)—
+**(4)** An Order in Council under subsection (1)—
 
 - (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
 

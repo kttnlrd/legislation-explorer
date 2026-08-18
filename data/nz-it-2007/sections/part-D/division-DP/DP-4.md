@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when, in an income year of a person,—
+**(1)** This section applies when, in an income year of a person,—
 
 - (a) the person operates a forestry business on land, to which there has been made an improvement; and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Deduction: diminished value of expenditure**
 
-**(2)**  The person is allowed a deduction of the amount of the diminished value, for the income year, of the expenditure on the improvement.
+**(2)** The person is allowed a deduction of the amount of the diminished value, for the income year, of the expenditure on the improvement.
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the general permission and the capital limitation. The other general limitations still apply.
+**(3)** This section overrides the general permission and the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: business, capital limitation, deduction, diminished value, forestry business, general limitation, general permission, income, income year, tax year*
 

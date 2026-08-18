@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  An amount derived by a person in undertaking a voluntary activity is income of the person.
+**(1)** An amount derived by a person in undertaking a voluntary activity is income of the person.
 
 **Relationship with section CW 62B**
 
-**(2)**  This section is overridden by section CW 62B (Voluntary activities).
+**(2)** This section is overridden by section CW 62B (Voluntary activities).
 
 *Defined in this Act: amount, income*
 

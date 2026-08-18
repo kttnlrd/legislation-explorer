@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purpose of determining the amount that represents the family scheme income of a person for an income year when—
+**(1)** This section applies for the purpose of determining the amount that represents the family scheme income of a person for an income year when—
 
 - (a) the person is an employee of a company in which the person and associated person hold, on the last day of the income year, voting interests of 50% or more; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **What is included in family scheme income**
 
-**(2)**  The person's family scheme income for the income year includes an amount equal to the total of the following amounts:
+**(2)** The person's family scheme income for the income year includes an amount equal to the total of the following amounts:
 
 - (a) the taxable value of the fringe benefits that the company must attribute to the person under sections RD 47 to RD 49 for the income year; and
 

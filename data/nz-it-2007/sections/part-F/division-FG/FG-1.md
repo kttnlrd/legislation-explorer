@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  This subpart applies, for the purposes of the NRWT rules and the Stamp and Cheque Duties Act 1971, when—
+**(1)** This subpart applies, for the purposes of the NRWT rules and the Stamp and Cheque Duties Act 1971, when—
 
 - (a) an amount is made available by a foreign bank (the bank) to a business carried on in New Zealand through a fixed establishment of the bank in New Zealand (the branch); and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Meaning of foreign bank**
 
-**(2)**  In this subpart, foreign bank means a non-resident that is—
+**(2)** In this subpart, foreign bank means a non-resident that is—
 
 - (a) a registered bank; and
 

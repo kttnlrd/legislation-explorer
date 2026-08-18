@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person receives a distribution of a retirement scheme contribution from a retirement savings scheme in an income year; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Assessable income**
 
-**(2)**  For the purposes of calculating family scheme income, the distribution is assessable income of the person derived in the income year in which the distribution is made.
+**(2)** For the purposes of calculating family scheme income, the distribution is assessable income of the person derived in the income year in which the distribution is made.
 
 *Defined in this Act: assessable income, family scheme income, income year, New Zealand superannuation, retirement savings scheme, retirement scheme contribution, retirement scheme contributor, RSCT*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Associated person rules and nominee rules**
 
-**(1)**  This subpart sets out the rules that—
+**(1)** This subpart sets out the rules that—
 
 - (a) define when 2 persons are associated persons; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Other references**
 
-**(2)**  If a rule in this subpart states that 2 persons are associated persons for 1 or more provisions in this Act, a reference in the relevant provision to persons who are associated with each other includes those persons.
+**(2)** If a rule in this subpart states that 2 persons are associated persons for 1 or more provisions in this Act, a reference in the relevant provision to persons who are associated with each other includes those persons.
 
 **Tests**
 
-**(3)**  The tests of association are categorised as follows:
+**(3)** The tests of association are categorised as follows:
 
 - (a) two companies, see section YB 2:
 
@@ -52,15 +52,15 @@ compilation_date: 2026-06-06
 
 **Application**
 
-**(4)**  The sections in this subpart relating to associated persons apply for the purposes of the whole Act unless a section expressly states otherwise.
+**(4)** The sections in this subpart relating to associated persons apply for the purposes of the whole Act unless a section expressly states otherwise.
 
 **Low-turnover traders**
 
-**(6)**  A special rule applies for the purposes of subpart EB (Valuation of trading stock (including dealer's livestock)) to determine when a low-turnover trader is associated with a company, see section EB 13(2) (Low-turnover valuation).
+**(6)** A special rule applies for the purposes of subpart EB (Valuation of trading stock (including dealer's livestock)) to determine when a low-turnover trader is associated with a company, see section EB 13(2) (Low-turnover valuation).
 
 **Control interests in foreign companies**
 
-**(7)**  A special rule applies for the purposes of section EX 3 (Control interests: total of direct, indirect, and associated person interests) to determine when a New Zealand resident is associated with a non-resident relative, see section EX 4(1) (Limits to requirement to include associated person interests).
+**(7)** A special rule applies for the purposes of section EX 3 (Control interests: total of direct, indirect, and associated person interests) to determine when a New Zealand resident is associated with a non-resident relative, see section EX 4(1) (Limits to requirement to include associated person interests).
 
 *Defined in this Act: associated person, company, look-through company, low-turnover trader, New Zealand resident, nominee, non-resident, partner, partnership, relative, settlor, trustee*
 

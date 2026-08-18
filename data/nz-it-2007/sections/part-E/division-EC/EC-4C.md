@@ -12,23 +12,23 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to a transfer (the transfer) of specified livestock that section EC 4B applies to.
+**(1)** This section applies to a transfer (the transfer) of specified livestock that section EC 4B applies to.
 
 **Same tax year**
 
-**(2)**  If the transfer occurs in the same tax year for both the transferor and transferee, then the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the end of the transferor's corresponding income year.
+**(2)** If the transfer occurs in the same tax year for both the transferor and transferee, then the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the end of the transferor's corresponding income year.
 
 **Different tax year**
 
-**(3)**  If the transfer occurs in different tax years for the transferor and transferee, then subsection (4) or (5) applies.
+**(3)** If the transfer occurs in different tax years for the transferor and transferee, then subsection (4) or (5) applies.
 
 **Different tax year: transferee earlier**
 
-**(4)**  If the transferee acquires the relevant livestock in a tax year earlier than the tax year in which the transferor disposes of it, then the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the beginning of the transferor's corresponding income year.
+**(4)** If the transferee acquires the relevant livestock in a tax year earlier than the tax year in which the transferor disposes of it, then the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the beginning of the transferor's corresponding income year.
 
 **Different tax year: transferee later**
 
-**(5)**  If the transferee acquires the relevant livestock in a tax year (the later tax year) later than the tax year in which the transferor disposes of it, then—
+**(5)** If the transferee acquires the relevant livestock in a tax year (the later tax year) later than the tax year in which the transferor disposes of it, then—
 
 - (a) the transfer is treated as a disposal and acquisition at the value of the relevant livestock under the herd scheme at the end of the transferor's corresponding income year:
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Purpose**
 
-**(1)**  The main purpose of this subpart is to allow a person a deduction in relation to expenditure on a new investment asset, effectively accelerating depreciation or amortisation, as applicable, for that asset.
+**(1)** The main purpose of this subpart is to allow a person a deduction in relation to expenditure on a new investment asset, effectively accelerating depreciation or amortisation, as applicable, for that asset.
 
 **Outline**
 
-**(2)**  In this subpart,—
+**(2)** In this subpart,—
 
 - (a) section DI 2 provides rules for when this subpart applies and does not apply:
 

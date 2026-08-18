@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  Interest payable by the Commissioner to a person under Part 7 of the Tax Administration Act 1994 is income of the person.
+**(1)** Interest payable by the Commissioner to a person under Part 7 of the Tax Administration Act 1994 is income of the person.
 
 **Timing of income**
 
-**(2)**  Interest to which this section applies is allocated under section EF 4 (Use of money interest payable by Commissioner).
+**(2)** Interest to which this section applies is allocated under section EF 4 (Use of money interest payable by Commissioner).
 
 **Relationship with financial arrangements rules**
 
-**(3)**  Interest to which this section applies is disregarded for the purposes of the financial arrangements rules.
+**(3)** Interest to which this section applies is disregarded for the purposes of the financial arrangements rules.
 
 *Defined in this Act: Commissioner, financial arrangements rules, income, interest, pay*
 

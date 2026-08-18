@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Listed industrial mineral—
+**(1)** Listed industrial mineral—
 
 - (a) means alumina minerals (for example, bauxite, corundum, diaspore, and gibbsite), aluminous refractory clays containing over 30% alumina in the fired state, aluminous refractory fireclays containing over 30% alumina in the fired state, andalusite, antimony, asbestos, barite, bentonite (except bentonite mined in the area formerly known as Malvern County), bituminous shale, chromite, copper, diatomite, dolomite, feldspar, fluorite, gold, halloysite, kaolin, kyanite, lead, magnesite, manganese, mercury, mica, molybdenite, nickel, perlite, phosphate, platinum group, pyrite, silica in lump form used only in producing silicon carbide or silicon metal or ferro silicon, silica in sand form used only in producing silicon carbide, sillimanite, silver, sodium chloride, sulphur, talc, tin, titanium, titanomagnetite, tungsten, uranium, wollastonite, zeolite, zinc, and zircon:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Minister to consider**
 
-**(2)**  Before giving a notice about a particular mineral, the Minister must consider whether the mineral is or is likely to be of importance—
+**(2)** Before giving a notice about a particular mineral, the Minister must consider whether the mineral is or is likely to be of importance—
 
 - (a) in the industrial development of New Zealand:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Secondary legislation**
 
-**(3)**  A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+**(3)** A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 *Defined in this Act: listed industrial mineral, mineral, Minister, New Zealand*
 

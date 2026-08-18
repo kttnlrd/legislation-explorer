@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person has entered into a financial arrangement in the ordinary course of their business and the person is not in the business of dealing in relation to the financial arrangement; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Method chosen**
 
-**(2)**  The person must use a method that—
+**(2)** The person must use a method that—
 
 - (a) has the features of an expected value approach described in Determinations G9C and G14B; and
 

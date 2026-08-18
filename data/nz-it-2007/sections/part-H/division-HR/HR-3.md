@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Category A income**
 
-**(1)**  Category A income, for a group investment fund other than a designated group investment fund in an income year, means the amount of income derived from the investments and funds of the group investment fund that is calculated using the formula— ((last day value − designated source investments − pre-1983 investments)÷ last day value) × income.
+**(1)** Category A income, for a group investment fund other than a designated group investment fund in an income year, means the amount of income derived from the investments and funds of the group investment fund that is calculated using the formula— ((last day value − designated source investments − pre-1983 investments)÷ last day value) × income.
 
 **Definitions for items in formula**
 
-**(2)**  In the formula,—
+**(2)** In the formula,—
 
 - (a) last day value is the current value of all investments and funds of the group investment fund on the last day of the income year:
 
@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Category B income**
 
-**(3)**  Category B income, for a group investment fund other than a designated group investment fund, means the income derived from investments and funds of the group investment fund that is not category A income for the income year.
+**(3)** Category B income, for a group investment fund other than a designated group investment fund, means the income derived from investments and funds of the group investment fund that is not category A income for the income year.
 
 **Current value**
 
-**(4)**  Current value, for a group investment fund and a day in an income year, means the capital value, as defined by the Trustee Companies Act 1967 or the Public Trust Act 2001, of the investments and funds of the group investment fund that is—
+**(4)** Current value, for a group investment fund and a day in an income year, means the capital value, as defined by the Trustee Companies Act 1967 or the Public Trust Act 2001, of the investments and funds of the group investment fund that is—
 
 - (a) either—
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Designated sources**
 
-**(5)**  Designated sources, for a group investment fund, means a trust, other than the trust under which the fund is established, whose trustee is a trustee of the group investment fund, that—
+**(5)** Designated sources, for a group investment fund, means a trust, other than the trust under which the fund is established, whose trustee is a trustee of the group investment fund, that—
 
 - (a) is created—
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Designated group investment fund**
 
-**(6)**  Designated group investment fund means a group investment fund whose investments and funds are invested wholly—
+**(6)** Designated group investment fund means a group investment fund whose investments and funds are invested wholly—
 
 - (a) in authorised investments; or
 
@@ -94,11 +94,11 @@ compilation_date: 2026-06-06
 
 **Designated source investments**
 
-**(7)**  Designated source investments, for a group investment fund at any time, means investments and funds from designated sources invested at the time in the group investment fund.
+**(7)** Designated source investments, for a group investment fund at any time, means investments and funds from designated sources invested at the time in the group investment fund.
 
 **Pre-1983 investments**
 
-**(8)**  Pre-1983 investments, for a group investment fund at any time, means investments and funds that were invested in the group investment fund at 22 June 1983, other than designated source investments, as if those investments and funds had continued to be invested at the time, including—
+**(8)** Pre-1983 investments, for a group investment fund at any time, means investments and funds that were invested in the group investment fund at 22 June 1983, other than designated source investments, as if those investments and funds had continued to be invested at the time, including—
 
 - (a) money deposited between 15 June and 23 June 1983 with the trustee of the group investment fund for investment in the fund; and
 

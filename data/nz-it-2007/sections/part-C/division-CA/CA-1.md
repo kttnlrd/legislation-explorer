@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Amounts specifically identified**
 
-**(1)**  An amount is income of a person if it is their income under a provision in this Part.
+**(1)** An amount is income of a person if it is their income under a provision in this Part.
 
 **Ordinary meaning**
 
-**(2)**  An amount is also income of a person if it is their income under ordinary concepts.
+**(2)** An amount is also income of a person if it is their income under ordinary concepts.
 
 *Defined in this Act: amount, income*
 

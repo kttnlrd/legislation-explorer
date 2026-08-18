@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Family scheme income: derivation**
 
-**(1)**  The calculation of an entitlement and tax credit under the family scheme is based on a person's family scheme income. A person's family scheme income is an amount based on their net income, and is adjusted as provided by this subpart. The following paragraphs apply in relation to assessable income derived by the person in a relationship period in an income year:
+**(1)** The calculation of an entitlement and tax credit under the family scheme is based on a person's family scheme income. A person's family scheme income is an amount based on their net income, and is adjusted as provided by this subpart. The following paragraphs apply in relation to assessable income derived by the person in a relationship period in an income year:
 
 - (a) to the extent to which the income is derived from employment during all or part of the income year, it is treated as derived at a uniform daily rate during the period of the employment; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Exempt income included**
 
-**(2)**  For the purposes of subsection (1), an amount derived by the person in the income year is not treated as exempt income if it is—
+**(2)** For the purposes of subsection (1), an amount derived by the person in the income year is not treated as exempt income if it is—
 
 - (a) an amount referred to in section CW 28(2)﻿(a) or CW 32 (which relate to overseas pensions and maintenance payments):
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(3)**  For the purposes of subsection (1), the person is allowed a deduction for—
+**(3)** For the purposes of subsection (1), the person is allowed a deduction for—
 
 - (a) the amount of any payment, made by the person during the income year, of the kind referred to in section CW 32 (Maintenance payments); and
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Income from portfolio investment entities**
 
-**(5)**  For the purposes of subsection (1),—
+**(5)** For the purposes of subsection (1),—
 
 - (a) an amount of income attributed by a portfolio investment entity to the person for an income year—
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **Transitional adjustments**
 
-**(7)**  The amounts described in section MZ 2 (Calculation of child tax credit) are not included in the person's family scheme income.
+**(7)** The amounts described in section MZ 2 (Calculation of child tax credit) are not included in the person's family scheme income.
 
 *Defined in this Act: amount, assessable income, business, Commissioner, deduction, depreciation loss, excluded income, exempt income, family scheme, family scheme income, income, income from employment, income tax, income year, listed PIE, main benefit, main income equalisation account, main income equalisation deposit, main income equalisation refund, net income, pay, portfolio investment entity, qualifying company, relationship period, retirement savings scheme, retirement scheme contribution, salary or wages, shareholder, superannuation fund, tax credit, tax loss, tax year*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person and a current year when the person—
+**(1)** This section applies for a person and a current year when the person—
 
 - (a) owns affected revenue property; and
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Suspended recovery income**
 
-**(2)**  The person has an amount of income under section CC 2B (Compensation for land or buildings affected by emergency events) for the amount of the suspended recovery income for the affected revenue property for the current year when—
+**(2)** The person has an amount of income under section CC 2B (Compensation for land or buildings affected by emergency events) for the amount of the suspended recovery income for the affected revenue property for the current year when—
 
 - (a) the current year ends, if the current year is the final income year of the emergency event period; or
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Relationship to other sections**
 
-**(3)**  This section overrides sections CB 6, CB 7, CB 12, and CB 13 (which relate to income from certain disposals of land), and CG 6 (Receipts from insurance, indemnity, and compensation for trading stock).
+**(3)** This section overrides sections CB 6, CB 7, CB 12, and CB 13 (which relate to income from certain disposals of land), and CG 6 (Receipts from insurance, indemnity, and compensation for trading stock).
 
 *Defined in this Act: acquire, affected revenue property, amount, Commissioner, compensation, cost deductions, current year, emergency event period, income, income year, liquidation, notify, replacement cost, replacement property, suspended recovery income*
 

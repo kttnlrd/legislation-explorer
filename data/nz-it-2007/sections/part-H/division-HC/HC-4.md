@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of corpus**
 
-**(1)**  In the trust rules, corpus for a trust means the settlement value under subsection (1B) of property settled on the trust that is not excluded by subsection (2).
+**(1)** In the trust rules, corpus for a trust means the settlement value under subsection (1B) of property settled on the trust that is not excluded by subsection (2).
 
 **Settlement value of settled property**
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Settlements excluded from corpus**
 
-**(2)**  Corpus does not include an amount equal to the market value of the property settlements described in subsections (3) to (5).
+**(2)** Corpus does not include an amount equal to the market value of the property settlements described in subsections (3) to (5).
 
 **Settlements on other trusts**
 
-**(3)**  A property settlement by a trustee of another trust is excluded from corpus to the extent to which the property—
+**(3)** A property settlement by a trustee of another trust is excluded from corpus to the extent to which the property—
 
 - (a) is not first distributed to a beneficiary, resident in New Zealand, of the other trust; and
 
@@ -36,11 +36,11 @@ compilation_date: 2026-06-06
 
 **Deductions**
 
-**(4)**  A property settlement for which the settlor is allowed a deduction is excluded from corpus.
+**(4)** A property settlement for which the settlor is allowed a deduction is excluded from corpus.
 
 **Income or dividend**
 
-**(5)**  A property settlement is excluded from corpus if, but for the fact of the settlement,—
+**(5)** A property settlement is excluded from corpus if, but for the fact of the settlement,—
 
 - (a) it would be income of the settlor; or
 

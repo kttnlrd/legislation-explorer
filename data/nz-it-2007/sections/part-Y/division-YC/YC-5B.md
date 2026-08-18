@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # YC 5B  Treatment of mixed-ownership enterprises
 
-**(1)**  Section YC 5 applies to the Crown's interest in a mixed-ownership enterprise in the same way as it does to the Crown's interest in a special corporate entity to determine—
+**(1)** Section YC 5 applies to the Crown's interest in a mixed-ownership enterprise in the same way as it does to the Crown's interest in a special corporate entity to determine—
 
 - (a) who is treated as holding those shares and related rights that represent the Crown's interest in the enterprise:
 
@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **Transitional provision for changes in status**
 
-**(2)**  If a special corporate entity changes its status to become a mixed-ownership enterprise, no breach of shareholding arises in relation to the Crown's interest.
+**(2)** If a special corporate entity changes its status to become a mixed-ownership enterprise, no breach of shareholding arises in relation to the Crown's interest.
 
 *Defined in this Act: mixed-ownership enterprise, share, special corporate entity*
 

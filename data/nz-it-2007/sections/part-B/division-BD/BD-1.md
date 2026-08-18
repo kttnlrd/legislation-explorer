@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Amounts of income**
 
-**(1)**  An amount is income of a person if it is their income under a provision in Part C (Income).
+**(1)** An amount is income of a person if it is their income under a provision in Part C (Income).
 
 **Exempt income**
 
-**(2)**  An amount of income of a person is exempt income if it is their exempt income under a provision in subpart CW (Exempt income) or CZ (Terminating provisions).
+**(2)** An amount of income of a person is exempt income if it is their exempt income under a provision in subpart CW (Exempt income) or CZ (Terminating provisions).
 
 **Excluded income**
 
-**(3)**  An amount of income of a person is excluded income if—
+**(3)** An amount of income of a person is excluded income if—
 
 - (a) it is their excluded income under a provision in subpart CX (Excluded income) or CZ; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Non-residents' foreign-sourced income**
 
-**(4)**  An amount of income of a person is non-residents' foreign-sourced income if—
+**(4)** An amount of income of a person is non-residents' foreign-sourced income if—
 
 - (a) the amount is a foreign-sourced amount; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Assessable income**
 
-**(5)**  An amount of income of a person is assessable income in the calculation of their annual gross income if it is not income of any of the following kinds:
+**(5)** An amount of income of a person is assessable income in the calculation of their annual gross income if it is not income of any of the following kinds:
 
 - (a) their exempt income:
 

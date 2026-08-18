@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a transfer scheme withholds and pays to the Commissioner an amount of TSWT and that amount is more than the amount required to be paid under this Part.
+**(1)** This section applies when a transfer scheme withholds and pays to the Commissioner an amount of TSWT and that amount is more than the amount required to be paid under this Part.
 
 **Refund to transfer scheme**
 
-**(2)**  The Commissioner must refund the amount of the overpayment to the transfer scheme.
+**(2)** The Commissioner must refund the amount of the overpayment to the transfer scheme.
 
 *Defined in this Act: amount, Commissioner, transfer scheme, TSWT*
 

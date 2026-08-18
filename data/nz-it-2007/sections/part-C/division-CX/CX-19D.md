@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Self-powered or low-powered vehicles**
 
-**(1)**  A vehicle that an employer provides to an employee for the main purpose of the employee travelling between their home and place of work is not a fringe benefit if the vehicle is—
+**(1)** A vehicle that an employer provides to an employee for the main purpose of the employee travelling between their home and place of work is not a fringe benefit if the vehicle is—
 
 - (a) a bicycle:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Payment of vehicle-share service costs**
 
-**(2)**  A benefit that an employer provides to an employee in the form of assistance with the payment of the employee's costs of using a vehicle-share service for the main purpose of an employee travelling between their home and place of work is not a fringe benefit if the vehicle-share service provides use of 1 or more of the following vehicles to the employee:
+**(2)** A benefit that an employer provides to an employee in the form of assistance with the payment of the employee's costs of using a vehicle-share service for the main purpose of an employee travelling between their home and place of work is not a fringe benefit if the vehicle-share service provides use of 1 or more of the following vehicles to the employee:
 
 - (a) a bicycle:
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Regulations**
 
-**(3)**  For the purposes of subsections (1) and (2), the Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, make regulations specifying—
+**(3)** For the purposes of subsections (1) and (2), the Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, make regulations specifying—
 
 - (a) the maximum allowable cost of the vehicle referred to in subsection (1); and
 
@@ -56,11 +56,11 @@ compilation_date: 2026-06-06
 
 **Meaning of vehicle-share service**
 
-**(4)**  In this section, vehicle-share service means a transport service that allows users to hire a vehicle for a point-to-point trip through a mobile communication device.
+**(4)** In this section, vehicle-share service means a transport service that allows users to hire a vehicle for a point-to-point trip through a mobile communication device.
 
 **Secondary legislation**
 
-**(5)**  Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+**(5)** Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 *Defined in this Act: employee, employer, fringe benefit*
 

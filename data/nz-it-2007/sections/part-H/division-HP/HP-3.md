@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section provides for the application of the global anti-base erosion model rules in determining the obligations of a person under the Inland Revenue Acts.
+**(1)** This section provides for the application of the global anti-base erosion model rules in determining the obligations of a person under the Inland Revenue Acts.
 
 **Modifications to global anti-base erosion model rules**
 
-**(2)**  For the purposes of determining the obligations of a person under the Inland Revenue Acts, the global anti-base erosion model rules are modified in the ways specified in schedule 25B (Items modifying global anti-base erosion model rules).
+**(2)** For the purposes of determining the obligations of a person under the Inland Revenue Acts, the global anti-base erosion model rules are modified in the ways specified in schedule 25B (Items modifying global anti-base erosion model rules).
 
 **Application of global anti-base erosion model rules**
 
-**(3)**  Subject to any regulations made under section 226G of the Tax Administration Act 1994, the global anti-base erosion model rules apply for a fiscal year—
+**(3)** Subject to any regulations made under section 226G of the Tax Administration Act 1994, the global anti-base erosion model rules apply for a fiscal year—
 
 - (a) as modified by subsection (2); and
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Commentary or guidance prevails**
 
-**(4)**  For the purposes of subsection (3)﻿(b), if there is a conflict between the global anti-base erosion model rules and commentary or guidance described in that paragraph, the commentary or guidance prevails.
+**(4)** For the purposes of subsection (3)﻿(b), if there is a conflict between the global anti-base erosion model rules and commentary or guidance described in that paragraph, the commentary or guidance prevails.
 
 **Relationship between provisions**
 
-**(5)**  Subsection (4) does not limit or affect any of the modifications to the global anti-base erosion model rules made by subsection (2).
+**(5)** Subsection (4) does not limit or affect any of the modifications to the global anti-base erosion model rules made by subsection (2).
 
 *Defined in this Act: global anti-base erosion model rules, Inland Revenue Acts*
 

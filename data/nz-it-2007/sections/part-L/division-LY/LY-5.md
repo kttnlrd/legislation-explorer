@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Eligible research and development expenditure**
 
-**(1)**  For the purposes of this subpart, eligible research and development expenditure—
+**(1)** For the purposes of this subpart, eligible research and development expenditure—
 
 - (a) means expenditure or loss, described in schedule 21B, part A, if, for the income year, the expenditure or loss—
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Modification of eligible research and development expenditure**
 
-**(2)**  Despite subsection (1), for an amount that is otherwise eligible research and development expenditure,—
+**(2)** Despite subsection (1), for an amount that is otherwise eligible research and development expenditure,—
 
 - (a) an amount that is for a research and development contractor to perform research and development activities for the person is only eligible research and development expenditure to the extent to which section LY 6 provides:
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **No double dip for contractors and others**
 
-**(3)**  A person does not have eligible research and development expenditure to the extent to which the relevant expenditure or loss is eligible research and development expenditure of another person.
+**(3)** A person does not have eligible research and development expenditure to the extent to which the relevant expenditure or loss is eligible research and development expenditure of another person.
 
 *Defined in this Act: amount, eligible research and development expenditure, income year, loss, New Zealand, non-resident, pay, research and development activity, research and development contractor, salary or wages*
 

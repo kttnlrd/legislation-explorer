@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of section EJ 20B(3) to determine the length of the spreading period for certain mining expenditure of a mineral miner related to a mining permit area.
+**(1)** This section applies for the purposes of section EJ 20B(3) to determine the length of the spreading period for certain mining expenditure of a mineral miner related to a mining permit area.
 
 **Start and end dates**
 
-**(2)**  The spreading period is the number of income years that represents the assumed life of the mine referred to in section EJ 20D that comprises the mining permit area,—
+**(2)** The spreading period is the number of income years that represents the assumed life of the mine referred to in section EJ 20D that comprises the mining permit area,—
 
 - (a) starting from the later of—
 

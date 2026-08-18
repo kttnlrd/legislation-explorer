@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Purpose**
 
-**(1)**  The purpose of subsection (2) is to provide a power to expand eligibility to, or increase the amount of, the FamilyBoost tax credit payable to a person under this subpart.
+**(1)** The purpose of subsection (2) is to provide a power to expand eligibility to, or increase the amount of, the FamilyBoost tax credit payable to a person under this subpart.
 
 **What may be done by Order in Council**
 
-**(2)**  The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue,—
+**(2)** The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue,—
 
 - (a) increase the percentage of licensed early childhood service fees able to be claimed as a FamilyBoost tax credit in section MH 3(2):
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Application of Order in Council**
 
-**(3)**  An Order in Council made under subsection (2) applies to tax credit quarters starting on or after the first day of a quarter and cannot apply earlier than the quarter in which the order is made.
+**(3)** An Order in Council made under subsection (2) applies to tax credit quarters starting on or after the first day of a quarter and cannot apply earlier than the quarter in which the order is made.
 
 **Secondary legislation**
 
-**(4)**  An Order in Council made under subsection (2)—
+**(4)** An Order in Council made under subsection (2)—
 
 - (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
 

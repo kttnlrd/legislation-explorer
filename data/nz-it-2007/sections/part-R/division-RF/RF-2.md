@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Interest, certain dividends, and royalties**
 
-**(1)**  Non-resident passive income means income having a source in New Zealand that—
+**(1)** Non-resident passive income means income having a source in New Zealand that—
 
 - (a) a non-resident derives and that consists of—
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Exclusions: non-residents**
 
-**(2)**  The following amounts derived by a non-resident are excluded from non-resident passive income:
+**(2)** The following amounts derived by a non-resident are excluded from non-resident passive income:
 
 - (a) an amount of exempt income:
 
@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 **When subsection (4) applies**
 
-**(3)**  Subsection (4) applies in an income year when a person derives non-resident passive income consisting of—
+**(3)** Subsection (4) applies in an income year when a person derives non-resident passive income consisting of—
 
 - (a) a dividend other than an investment society dividend:
 
@@ -88,11 +88,11 @@ compilation_date: 2026-06-06
 
 **Final withholding**
 
-**(4)**  If the person is a filing taxpayer, the schedular income tax liability for the corresponding tax year under section BC 7 (Income tax liability of person with schedular income) for non-resident passive income referred to in subsection (3) is determined by the amount of tax required to be withheld under this Part.
+**(4)** If the person is a filing taxpayer, the schedular income tax liability for the corresponding tax year under section BC 7 (Income tax liability of person with schedular income) for non-resident passive income referred to in subsection (3) is determined by the amount of tax required to be withheld under this Part.
 
 **Exception: minimum amount**
 
-**(5)**  Despite subsection (4), if a person derives non-resident passive income consisting of interest, investment society dividends, or a royalty other than those described in subsection (3), the person's income tax liability for the corresponding tax year is the greater of—
+**(5)** Despite subsection (4), if a person derives non-resident passive income consisting of interest, investment society dividends, or a royalty other than those described in subsection (3), the person's income tax liability for the corresponding tax year is the greater of—
 
 - (a) the sum of the total non-resident withholding tax (NRWT) for which they are liable and the amount that would be their income tax liability for the tax year if they had not derived non-resident passive income in the tax year:
 
@@ -100,15 +100,15 @@ compilation_date: 2026-06-06
 
 **Company deriving minimum amount**
 
-**(6)**  For the purposes of subsection (5) for a company, if the total amount of non-resident passive income and other income derived by the company in the corresponding tax year is not more than $1,000, the income tax liability of the company for the tax year is the sum referred to in subsection (5)﻿(a).
+**(6)** For the purposes of subsection (5) for a company, if the total amount of non-resident passive income and other income derived by the company in the corresponding tax year is not more than $1,000, the income tax liability of the company for the tax year is the sum referred to in subsection (5)﻿(a).
 
 **Application of financial arrangements rules**
 
-**(7)**  The financial arrangements rules do not apply to the calculation of an amount of non-resident passive income except to the extent to which the amount is non-resident financial arrangement income or an amount to which subpart FG (Treatment of notional loans to New Zealand branches of foreign banks) applies.
+**(7)** The financial arrangements rules do not apply to the calculation of an amount of non-resident passive income except to the extent to which the amount is non-resident financial arrangement income or an amount to which subpart FG (Treatment of notional loans to New Zealand branches of foreign banks) applies.
 
 **Interest payable by Commissioner**
 
-**(8)**  For interest payable under Part 7 of the Tax Administration Act 1994, NRWT withheld by the Commissioner is treated as paid on the date it is withheld. Section 100 and Part 9 of that Act do not apply to the Commissioner and that interest, but the other provisions of the NRWT rules do apply.
+**(8)** For interest payable under Part 7 of the Tax Administration Act 1994, NRWT withheld by the Commissioner is treated as paid on the date it is withheld. Section 100 and Part 9 of that Act do not apply to the Commissioner and that interest, but the other provisions of the NRWT rules do apply.
 
 *Defined in this Act: amount, amount of tax, associated person, business, Commissioner, company, dividend, double tax agreement, excluded income, exempt income, filing taxpayer, financial arrangements rules, fixed establishment, income, income tax liability, income year, inflation-indexed instrument, interest, investment society dividend, life insurer, money lent, New Zealand, New Zealand banking group, New Zealand resident, non-resident, non-resident financial arrangement income, non-resident passive income, NRWT, NRWT rules, pay, registered bank, resident in New Zealand, royalty, schedular income, schedular income tax liability, source in New Zealand, tax year*
 

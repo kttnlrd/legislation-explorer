@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A listed company is allowed a deduction for expenditure incurred as periodic fees of a recognised exchange for maintaining the registration of the company on the exchange.
+**(1)** A listed company is allowed a deduction for expenditure incurred as periodic fees of a recognised exchange for maintaining the registration of the company on the exchange.
 
 **Link with subpart DA**
 
-**(2)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(2)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: capital limitation, company, deduction, general limitation, general permission, listed company, recognised exchange*
 

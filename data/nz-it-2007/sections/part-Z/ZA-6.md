@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Schedule 52**
 
-**(1)**  Schedule 52 (Comparative tables of old and rewritten provisions) sets out corresponding provisions in the Income Tax Act 2004, the Income Tax Act 1994, the Tax Administration Act 1994, and this Act at the commencement of this Act.
+**(1)** Schedule 52 (Comparative tables of old and rewritten provisions) sets out corresponding provisions in the Income Tax Act 2004, the Income Tax Act 1994, the Tax Administration Act 1994, and this Act at the commencement of this Act.
 
 **Parts of schedule**
 
-**(2)**  The schedule has the following 4 parts:
+**(2)** The schedule has the following 4 parts:
 
 - (a) part A lists each provision in the Income Tax Act 2004 and—
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Purpose of schedule**
 
-**(3)**  The schedule is provided to assist readers to identify corresponding provisions but must not be interpreted as a definitive guide to the correspondence of provisions.
+**(3)** The schedule is provided to assist readers to identify corresponding provisions but must not be interpreted as a definitive guide to the correspondence of provisions.
 
 *Defined in this Act: commencement of this Act*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Exclusion from application of some land provisions: kinds of associated persons**
 
-**(1)**  Sections CB 9(2), CB 10(2), and CB 11(1)﻿(b)﻿(ii) do not apply to a person (person A) despite the activities of an associated person (person B) if—
+**(1)** Sections CB 9(2), CB 10(2), and CB 11(1)﻿(b)﻿(ii) do not apply to a person (person A) despite the activities of an associated person (person B) if—
 
 - (a) person A is a local authority or—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Exclusion from application of some land provisions: members of consolidated group**
 
-**(2)**  If person A and person B are members of a consolidated group, and subsection (1) applies to prevent an amount from being income of person A, the amount is not income of person A under section CV 2 (Consolidated groups: income of company in group).
+**(2)** If person A and person B are members of a consolidated group, and subsection (1) applies to prevent an amount from being income of person A, the amount is not income of person A under section CV 2 (Consolidated groups: income of company in group).
 
 *Defined in this Act: associated person, consolidated group, council-controlled organisation, local authority*
 

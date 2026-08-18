@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  A dividend derived by a person is income of the person.
+**(1)** A dividend derived by a person is income of the person.
 
 **Timing of income: dividends other than non-cash dividends**
 
-**(2)**  The income is allocated to the income year in which the person receives the dividend if the dividend is a dividend other than a non-cash dividend.
+**(2)** The income is allocated to the income year in which the person receives the dividend if the dividend is a dividend other than a non-cash dividend.
 
 **Exception: certain dividends derived by dual resident companies**
 
-**(3)**  Despite subsection (2), the income is allocated to the income year of the person in which the DRCD deferral date falls if the dividend—
+**(3)** Despite subsection (2), the income is allocated to the income year of the person in which the DRCD deferral date falls if the dividend—
 
 - (a) is derived by a New Zealand resident company that is treated under a double tax agreement as not being resident in New Zealand; and
 

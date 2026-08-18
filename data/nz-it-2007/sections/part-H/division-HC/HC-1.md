@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this subpart does**
 
-**(1)**  This subpart, together with the trust rules,—
+**(1)** This subpart, together with the trust rules,—
 
 - (a) provides for the taxation of distributions from trusts, for this purpose defining—
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Excluded: certain funds and distributions**
 
-**(2)**  The trust rules do not apply to—
+**(2)** The trust rules do not apply to—
 
 - (a) a unit trust:
 
@@ -48,15 +48,15 @@ compilation_date: 2026-06-06
 
 **Disclosure requirements: non-resident trustees**
 
-**(3)**  Section 59 of the Tax Administration Act 1994 requires the disclosure of a settlement on a trust with a non-resident trustee.
+**(3)** Section 59 of the Tax Administration Act 1994 requires the disclosure of a settlement on a trust with a non-resident trustee.
 
 **Avoidance arrangements**
 
-**(4)**  Section GB 22 (Arrangements involving trust beneficiary income) may apply to treat a beneficiary as receiving property, or enjoying services or benefits, in fact received, or enjoyed, by another person.
+**(4)** Section GB 22 (Arrangements involving trust beneficiary income) may apply to treat a beneficiary as receiving property, or enjoying services or benefits, in fact received, or enjoyed, by another person.
 
 **Superannuation funds entering trust rules**
 
-**(5)**  A superannuation scheme that is treated as a company because it is a unit trust and then becomes a superannuation fund is treated as—
+**(5)** A superannuation scheme that is treated as a company because it is a unit trust and then becomes a superannuation fund is treated as—
 
 - (a) liquidated under section CD 12 (Superannuation schemes entering trust rules) immediately before the date on which it becomes a superannuation fund; and
 

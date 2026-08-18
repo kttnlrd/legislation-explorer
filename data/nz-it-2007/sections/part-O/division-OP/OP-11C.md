@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  A consolidated imputation group has an imputation credit for the amount of research and development tax credit that a group company is entitled to.
+**(1)** A consolidated imputation group has an imputation credit for the amount of research and development tax credit that a group company is entitled to.
 
 **Table reference**
 
-**(2)**  The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 6C (Research and development tax credits).
+**(2)** The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 6C (Research and development tax credits).
 
 **Credit date**
 
-**(3)**  The credit date is the date the group company files its return of income for the income year.
+**(3)** The credit date is the date the group company files its return of income for the income year.
 
 *Defined in this Act: amount, company, consolidated imputation group, imputation credit, research and development tax credit*
 

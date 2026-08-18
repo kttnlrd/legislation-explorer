@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Films other than New Zealand films**
 
-**(1)**  A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section if—
+**(1)** A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section if—
 
 - (a) the film is not one for which a large budget film grant is made; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Timing of deduction: up to completion of film**
 
-**(2)**  If the person has a film right at the end of the income year in which the film is completed, the deduction for film production expenditure incurred in or before the income year is allocated as follows:
+**(2)** If the person has a film right at the end of the income year in which the film is completed, the deduction for film production expenditure incurred in or before the income year is allocated as follows:
 
 - (a) to the income year in which the film is completed,—
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Timing of deduction: after completion of film**
 
-**(3)**  If the person has a film right in an income year after the film is completed, a deduction for film production expenditure incurred after the film is completed is allocated to the income year in which it is incurred.
+**(3)** If the person has a film right in an income year after the film is completed, a deduction for film production expenditure incurred after the film is completed is allocated to the income year in which it is incurred.
 
 **Timing of deduction: disposal of film right**
 
-**(4)**  If the person disposes of a film right in the income year in which the film is completed, and does not have a film right in the film at the end of the income year, the remaining deduction is allocated to the income year.
+**(4)** If the person disposes of a film right in the income year in which the film is completed, and does not have a film right in the film at the end of the income year, the remaining deduction is allocated to the income year.
 
 **Meaning of remaining deduction**
 
-**(5)**  In this section, remaining deduction means, for an income year, the amount of the deduction for film production expenditure that has not been allocated to an earlier income year.
+**(5)** In this section, remaining deduction means, for an income year, the amount of the deduction for film production expenditure that has not been allocated to an earlier income year.
 
 *Defined in this Act: amount, completed, deduction, film, film income, film production expenditure, film right, income year, large budget film grant, New Zealand, remaining deduction*
 

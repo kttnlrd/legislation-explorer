@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When, and extent to which, this section applies**
 
-**(1)**  This section applies when, and to the extent to which,—
+**(1)** This section applies when, and to the extent to which,—
 
 - (a) either—
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Ruling about new law**
 
-**(2)**  The binding ruling is treated as if it were made about the new law, so that the effect of the ruling at the commencement of this Act is the same as its effect before the commencement.
+**(2)** The binding ruling is treated as if it were made about the new law, so that the effect of the ruling at the commencement of this Act is the same as its effect before the commencement.
 
 **No confirmation rulings**
 
-**(3)**  To the extent to which a binding ruling continued by subsection (2) exists and applies to an arrangement, or to a person and an arrangement, the Commissioner must not make a binding ruling on how—
+**(3)** To the extent to which a binding ruling continued by subsection (2) exists and applies to an arrangement, or to a person and an arrangement, the Commissioner must not make a binding ruling on how—
 
 - (a) the new law applies to the arrangement or to the person and the arrangement; or
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to the extent to which an amount of debt is remitted and—
+**(1)** This section applies to the extent to which an amount of debt is remitted and—
 
 - (a) the creditor is a member of the same wholly-owned group of companies as the debtor and—
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Some points about this section**
 
-**(2)**  For the purposes of this section,—
+**(2)** For the purposes of this section,—
 
 - (a) the means by which an amount of debt is remitted is immaterial:
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **When this section does not apply**
 
-**(3)**  This section does not apply if—
+**(3)** This section does not apply if—
 
 - (a) the creditor and debtor are members of the same wholly-owned group of companies; and
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Consideration: debtor**
 
-**(4)**  The debtor is treated as having paid the amount of debt on the date on which it is remitted,—
+**(4)** The debtor is treated as having paid the amount of debt on the date on which it is remitted,—
 
 - (a) if the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **Consideration: creditor**
 
-**(5)**  Unless subsection (5C) applies, the creditor is treated as having been paid the amount of debt on the date on which it is remitted,—
+**(5)** Unless subsection (5C) applies, the creditor is treated as having been paid the amount of debt on the date on which it is remitted,—
 
 - (a) if the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
 
@@ -96,7 +96,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(6)**  For the purposes of this section,— nominal shares are shares held by the trustee of an exempt ESS, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3% proportional debt ratio means, for a creditor and an amount of debt, the percentage that the creditor's amount bears to the total amounts of debt to which this section applies remitted at the time the creditor's debt is remitted proportional ownership ratio means the creditor's percentage of the ownership interests or, as applicable, market value interests, total partner's interests, or total effective look-through interests for the debtor, ignoring nominal shares.
+**(6)** For the purposes of this section,— nominal shares are shares held by the trustee of an exempt ESS, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3% proportional debt ratio means, for a creditor and an amount of debt, the percentage that the creditor's amount bears to the total amounts of debt to which this section applies remitted at the time the creditor's debt is remitted proportional ownership ratio means the creditor's percentage of the ownership interests or, as applicable, market value interests, total partner's interests, or total effective look-through interests for the debtor, ignoring nominal shares.
 
 *Defined in this Act: amount, consideration, employee, exempt ESS, generally accepted accounting practice, group of persons, income, look-through company, look-through interest, market value interest, New Zealand resident, nominal share, non-resident, partnership, partner's interests, pay, proportional debt ratio, proportional ownership ratio, share, trustee, voting interest, wholly-owned group of companies*
 

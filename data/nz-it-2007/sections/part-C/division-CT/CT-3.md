@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a petroleum miner uses an exploratory well for commercial production of petroleum, whether or not the well has been sealed and abandoned previously.
+**(1)** This section applies when a petroleum miner uses an exploratory well for commercial production of petroleum, whether or not the well has been sealed and abandoned previously.
 
 **Income**
 
-**(2)**  An amount equal to the amount of expenditure described in subsection (3) is treated as income of the petroleum miner.
+**(2)** An amount equal to the amount of expenditure described in subsection (3) is treated as income of the petroleum miner.
 
 **Exploratory well expenditure**
 
-**(3)**  The expenditure is exploratory well expenditure to which all the following apply:
+**(3)** The expenditure is exploratory well expenditure to which all the following apply:
 
 - (a) it is directly attributable to drilling or acquiring the exploratory well; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(4)**  The amount is allocated to the income year in which commercial production from the well starts.
+**(4)** The amount is allocated to the income year in which commercial production from the well starts.
 
 **Part interest**
 
-**(5)**  If the petroleum miner has a part interest in the exploratory well when that well is first used for commercial production, the amount of expenditure treated as income under this section must bear the same proportion to the exploratory well expenditure specified in subsection (3) as that part interest bears to all interests in the well.
+**(5)** If the petroleum miner has a part interest in the exploratory well when that well is first used for commercial production, the amount of expenditure treated as income under this section must bear the same proportion to the exploratory well expenditure specified in subsection (3) as that part interest bears to all interests in the well.
 
 *Defined in this Act: amount, commercial production, deduction, exploratory well, exploratory well expenditure, income, income year, permit, petroleum, petroleum exploration expenditure, petroleum miner, seal and abandonment*
 

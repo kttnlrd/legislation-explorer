@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  For the purposes of the calculation of a minimum family tax credit, employment in the definition of full-time earner, means the activity of a person that gives rise, or will give rise, to an entitlement to a PAYE income payment other than—
+**(1)** For the purposes of the calculation of a minimum family tax credit, employment in the definition of full-time earner, means the activity of a person that gives rise, or will give rise, to an entitlement to a PAYE income payment other than—
 
 - (a) a payment of any of the kinds referred to in section RD 5(3) and (6)﻿(b), (bb), (bc), (bd), and (c) (Salary or wages):
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **When subsections (3) and (4) apply**
 
-**(2)**  Subsections (3) and (4) apply when a person—
+**(2)** Subsections (3) and (4) apply when a person—
 
 - (a) receives a PAYE income payment; and
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Commissioner's determination**
 
-**(3)**  The Commissioner may treat the person as having undertaken the employment or performed the activity that would have given rise to the PAYE income payment.
+**(3)** The Commissioner may treat the person as having undertaken the employment or performed the activity that would have given rise to the PAYE income payment.
 
 **Considerations**
 
-**(4)**  The Commissioner must have regard to—
+**(4)** The Commissioner must have regard to—
 
 - (a) the date of receipt of the PAYE income payment; and
 

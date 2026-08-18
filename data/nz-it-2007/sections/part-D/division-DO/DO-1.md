@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for expenditure that they incur on the following in carrying on a farming or agricultural business on land in New Zealand:
+**(1)** A person is allowed a deduction for expenditure that they incur on the following in carrying on a farming or agricultural business on land in New Zealand:
 
 - (a) the destruction of weeds or plants detrimental to the land:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Link with subpart DA**
 
-**(2)**  This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+**(2)** This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 *Defined in this Act: business, capital limitation, deduction, general limitation, general permission, New Zealand, significant capital activity*
 

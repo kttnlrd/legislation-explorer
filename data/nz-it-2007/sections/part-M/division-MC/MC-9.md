@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **For person aged 18**
 
-**(1)**  A person is entitled to a tax credit under sections MD 1 (Abating WFF tax credit) and ME 1 (Minimum family tax credit) for a person aged 18 who—
+**(1)** A person is entitled to a tax credit under sections MD 1 (Abating WFF tax credit) and ME 1 (Minimum family tax credit) for a person aged 18 who—
 
 - (a) is not financially independent; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Determining period**
 
-**(2)**  The Commissioner must determine the period for which a person is entitled to an abating WFF tax credit or a minimum family tax credit for a person who is 18 years of age.
+**(2)** The Commissioner must determine the period for which a person is entitled to an abating WFF tax credit or a minimum family tax credit for a person who is 18 years of age.
 
 **When period expires**
 
-**(3)**  The period determined by the Commissioner ends on or before the first day fixed by the Commissioner for payments of instalments of tax credits under section 80KI of the Tax Administration Act 1994 in the calendar year following that in which the person turns 18 years of age.
+**(3)** The period determined by the Commissioner ends on or before the first day fixed by the Commissioner for payments of instalments of tax credits under section 80KI of the Tax Administration Act 1994 in the calendar year following that in which the person turns 18 years of age.
 
 *Defined in this Act: abating WFF tax credit, Commissioner, family tax credit, financially independent, minimum family tax credit, pay, tax credit, year*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in the case of a permanent emigration from New Zealand when a person for whom a tax credit has been paid asks their fund provider after their emigration to withdraw or transfer from their KiwiSaver scheme or complying superannuation fund under schedule 1, clause 14 of the KiwiSaver Act 2006 for a KiwiSaver scheme or under a provision equivalent to that one for a complying superannuation fund.
+**(1)** This section applies in the case of a permanent emigration from New Zealand when a person for whom a tax credit has been paid asks their fund provider after their emigration to withdraw or transfer from their KiwiSaver scheme or complying superannuation fund under schedule 1, clause 14 of the KiwiSaver Act 2006 for a KiwiSaver scheme or under a provision equivalent to that one for a complying superannuation fund.
 
 **Payment to Commissioner**
 
-**(2)**  The fund provider must pay to the Commissioner as soon as practicable the lesser of—
+**(2)** The fund provider must pay to the Commissioner as soon as practicable the lesser of—
 
 - (a) the amount of the tax credit paid for the person and held by the provider:
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Recovery**
 
-**(3)**  If the fund provider does not pay the amount under subsection (2) as soon as practicable, they are treated as having an amount of tax credit paid in excess of that properly payable.
+**(3)** If the fund provider does not pay the amount under subsection (2) as soon as practicable, they are treated as having an amount of tax credit paid in excess of that properly payable.
 
 *Defined in this Act: amount, ask, Commissioner, complying superannuation fund, employee's superannuation accumulation, fund provider, KiwiSaver scheme, New Zealand, pay, tax credit*
 

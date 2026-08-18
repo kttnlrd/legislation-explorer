@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person has, under section EA 4 (Deferred payment of employment income), an unpaid amount of expenditure on employment income that is to be treated as income in an income year.
+**(1)** This section applies when a person has, under section EA 4 (Deferred payment of employment income), an unpaid amount of expenditure on employment income that is to be treated as income in an income year.
 
 **Income**
 
-**(2)**  The unpaid amount is income of the person in the income year.
+**(2)** The unpaid amount is income of the person in the income year.
 
 *Defined in this Act: amount, employment income, income, income year, pay*
 

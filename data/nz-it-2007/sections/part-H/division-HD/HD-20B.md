@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  This section applies to a person who—
+**(1)** This section applies to a person who—
 
 - (a) in New Zealand carries on a business in a partnership that is not a limited partnership:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Person treated as agent**
 
-**(2)**  If the person carries on the business with an absentee or, as a general partner, is responsible for the management of a limited partnership in which a limited partner is an absentee, the person is treated as the agent of the relevant absentee in relation to the absentee's partnership share of the partnership's income under section HG 2.
+**(2)** If the person carries on the business with an absentee or, as a general partner, is responsible for the management of a limited partnership in which a limited partner is an absentee, the person is treated as the agent of the relevant absentee in relation to the absentee's partnership share of the partnership's income under section HG 2.
 
 *Defined in this Act: absentee, agent, business, general partner, income, limited partner, limited partnership, New Zealand, partnership, partnership share*
 

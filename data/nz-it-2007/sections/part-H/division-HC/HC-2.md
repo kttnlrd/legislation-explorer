@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies for the purposes of the obligations imposed by section BB 2 (Main obligations) on 2 or more persons who derive income jointly as trustees of a trust.
+**(1)** This section applies for the purposes of the obligations imposed by section BB 2 (Main obligations) on 2 or more persons who derive income jointly as trustees of a trust.
 
 **Single person**
 
-**(2)**  The trustees of the trust are treated in that capacity as if they were a notional single person and are jointly and severally liable to satisfy the obligations imposed by section BB 2 on the notional single person.
+**(2)** The trustees of the trust are treated in that capacity as if they were a notional single person and are jointly and severally liable to satisfy the obligations imposed by section BB 2 on the notional single person.
 
 **Residence**
 
-**(3)**  If no election under section HC 33 is made for the trust, the notional single person referred to in subsection (2) is—
+**(3)** If no election under section HC 33 is made for the trust, the notional single person referred to in subsection (2) is—
 
 - (a) a New Zealand resident when 1 or more of the trustees is resident in New Zealand:
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Association**
 
-**(1)**  A trustee of a trust and a settlor of the trust are associated persons.
+**(1)** A trustee of a trust and a settlor of the trust are associated persons.
 
 **Exclusion**
 
-**(2)**  This section does not apply if the trust is a tax charity.
+**(2)** This section does not apply if the trust is a tax charity.
 
 *Defined in this Act: associated person, settlor, tax charity, trustee*
 

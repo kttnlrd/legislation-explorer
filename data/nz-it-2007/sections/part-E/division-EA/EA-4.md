@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person is allowed a deduction in an income year for an amount of expenditure on employment income; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Unpaid amount**
 
-**(2)**  The unpaid amount is—
+**(2)** The unpaid amount is—
 
 - (a) income of the person in the income year under section CH 3 (Adjustment for deferred payment of employment income); and
 
@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Extension of payment period for shareholder-employee**
 
-**(3)**  For employment income paid to a shareholder-employee, the 63 day period for payment in subsection (1)﻿(b)﻿(i) is extended until the last date by which the person could file a return of income for the income year if the time for filing were extended to its maximum under section 37(5) of the Tax Administration Act 1994.
+**(3)** For employment income paid to a shareholder-employee, the 63 day period for payment in subsection (1)﻿(b)﻿(i) is extended until the last date by which the person could file a return of income for the income year if the time for filing were extended to its maximum under section 37(5) of the Tax Administration Act 1994.
 
 **Disposal of business: obligations transferred to non-associates**
 
-**(4)**  For the purposes of this section, a person (the seller) who disposes of a business, or a part of a business, to another person (the buyer) is treated as paying, at the time of the disposal, an amount of employment income of an employee working in the business if—
+**(4)** For the purposes of this section, a person (the seller) who disposes of a business, or a part of a business, to another person (the buyer) is treated as paying, at the time of the disposal, an amount of employment income of an employee working in the business if—
 
 - (a) the seller and the buyer are not associated persons at the time of the disposal; and
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Disposal of business: obligations transferred to associates**
 
-**(5)**  If subsection (4) would have applied but for the fact that the seller and the buyer are associated at the time of the disposal,—
+**(5)** If subsection (4) would have applied but for the fact that the seller and the buyer are associated at the time of the disposal,—
 
 - (a) the amount of employment income is not treated as income of the seller in any income year following the disposal, despite subsection (2)﻿(a) and section CH 3; and
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **No disposal: obligations transferred to associates**
 
-**(6)**  If section DC 11 (Transfers of employment income obligations to associates) applies,—
+**(6)** If section DC 11 (Transfers of employment income obligations to associates) applies,—
 
 - (a) the amount of employment income is not treated as income of the transferor (person A) in any income year following the disposal, despite subsection (2)﻿(a) and section CH 3; and
 
@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 **Accounting treatment of transferred obligations**
 
-**(7)**  For the purposes of this section, the buyer of a business, or a part of a business, who assumes at the time of the disposal an obligation to pay an amount of employment income—
+**(7)** For the purposes of this section, the buyer of a business, or a part of a business, who assumes at the time of the disposal an obligation to pay an amount of employment income—
 
 - (a) may account for the amount in a way that treats the relevant employee individually or treats the buyer's employees as a group; and
 

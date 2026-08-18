@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) an employer makes an employer's superannuation contribution to a superannuation scheme for their employee's benefit; and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount recovered or received is, to the extent of the deduction, income of the employer.
+**(2)** The amount recovered or received is, to the extent of the deduction, income of the employer.
 
 **Timing of income**
 
-**(3)**  The income is allocated to the income year in which the amount is recovered or received.
+**(3)** The income is allocated to the income year in which the amount is recovered or received.
 
 *Defined in this Act: amount, deduction, employee, employer, employer's superannuation contribution, income, income year, pay, superannuation scheme*
 

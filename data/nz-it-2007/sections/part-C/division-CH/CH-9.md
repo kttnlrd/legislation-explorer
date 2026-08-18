@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when an excess debt entity is required under section FE 6 (Apportionment of interest by excess debt entity) to apportion its interest expenditure.
+**(1)** This section applies when an excess debt entity is required under section FE 6 (Apportionment of interest by excess debt entity) to apportion its interest expenditure.
 
 **Income**
 
-**(2)**  The amount calculated under section FE 6(2) is treated as income of the excess debt entity for the income year.
+**(2)** The amount calculated under section FE 6(2) is treated as income of the excess debt entity for the income year.
 
 *Defined in this Act: amount, excess debt entity, income, income year, interest*
 

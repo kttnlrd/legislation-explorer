@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning of related-party debt**
 
-**(1)**  Related-party debt means a financial arrangement under which—
+**(1)** Related-party debt means a financial arrangement under which—
 
 - (a) a person (the lender) is party to an arrangement that provides funds to another person (the borrower) when—
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **New Zealand banking group exclusion**
 
-**(2)**  Subsection (1), other than paragraph (a)﻿(ii), does not apply to a financial arrangement to which a member of a New Zealand banking group as determined under section FE 33 (New Zealand banking group) is party.
+**(2)** Subsection (1), other than paragraph (a)﻿(ii), does not apply to a financial arrangement to which a member of a New Zealand banking group as determined under section FE 33 (New Zealand banking group) is party.
 
 **Associated persons**
 
-**(3)**  When subsection (1)﻿(a)﻿(iii) applies, the borrower and the member of the non-resident owning body are treated as if they were associated for the purposes of this section, and sections RF 2C, RF 12, RF 12D to RF 12G, RF 12I, and RF 12J and section 32M of the Tax Administration Act 1994.
+**(3)** When subsection (1)﻿(a)﻿(iii) applies, the borrower and the member of the non-resident owning body are treated as if they were associated for the purposes of this section, and sections RF 2C, RF 12, RF 12D to RF 12G, RF 12I, and RF 12J and section 32M of the Tax Administration Act 1994.
 
 *Defined in this Act: amount, associated person, deduction, financial arrangement, income year, New Zealand banking group, non-resident owning body, related-party debt*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Excluded income**
 
-**(1)**  An amount of income derived by an investor in a multi-rate PIE as a distribution of or dividend of the PIE is excluded income of the investor.
+**(1)** An amount of income derived by an investor in a multi-rate PIE as a distribution of or dividend of the PIE is excluded income of the investor.
 
 **Treatment as non-resident passive income**
 
-**(2)**  Despite subsection (1), an amount paid by a foreign investment PIE to a notified foreign investor in the PIE is not excluded income under this section to the extent to which it is treated under section HM 44B (NRWT calculation option) as non-resident passive income.
+**(2)** Despite subsection (1), an amount paid by a foreign investment PIE to a notified foreign investor in the PIE is not excluded income under this section to the extent to which it is treated under section HM 44B (NRWT calculation option) as non-resident passive income.
 
 *Defined in this Act: amount, dividend, excluded income, foreign investment PIE, income, investor, multi-rate PIE, non-resident passive income, notified foreign investor*
 

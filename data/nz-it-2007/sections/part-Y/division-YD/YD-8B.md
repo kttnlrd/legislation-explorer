@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a premium is paid under a life insurance policy; and
 
@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Ten percent of premium from source in New Zealand**
 
-**(2)**  Ten percent of the gross premium is treated as having a source in New Zealand and the remainder of the gross premium is treated as not having a source in New Zealand.
+**(2)** Ten percent of the gross premium is treated as having a source in New Zealand and the remainder of the gross premium is treated as not having a source in New Zealand.
 
 **Special rules**
 
-**(3)**  The following provisions apply in relation to taxation of the 10% amount:
+**(3)** The following provisions apply in relation to taxation of the 10% amount:
 
 - (a) Lloyd's of London is denied a deduction for expenditure or loss incurred, under section DW 3B (Lloyd's of London: deductions for life insurance business):
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Types of life insurance policies**
 
-**(4)**  The life insurance policy referred to in subsection (1) is a life insurance policy that—
+**(4)** The life insurance policy referred to in subsection (1) is a life insurance policy that—
 
 - (a) is made available to the general public; and
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Schedule 48**
 
-**(1)**  The enactments listed in schedule 48 (Enactments repealed) are repealed.
+**(1)** The enactments listed in schedule 48 (Enactments repealed) are repealed.
 
 **Repeals effective only for 2008–09 income year and later**
 
-**(2)**  However, unless the context requires otherwise, the repeals listed in schedule 48 apply only in relation to the tax on income derived in the 2008–09 income year and later income years.
+**(2)** However, unless the context requires otherwise, the repeals listed in schedule 48 apply only in relation to the tax on income derived in the 2008–09 income year and later income years.
 
 *Defined in this Act: income, income year, tax*
 

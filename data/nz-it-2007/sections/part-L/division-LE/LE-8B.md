@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person has assessable income for the purposes of section LE 1 because section LE 1(4B) applies (the LE 1(4B) income), and the LE 1(4B) income includes an imputation credit.
+**(1)** This section applies when a person has assessable income for the purposes of section LE 1 because section LE 1(4B) applies (the LE 1(4B) income), and the LE 1(4B) income includes an imputation credit.
 
 **Tax credit limited**
 
-**(2)**  The person's tax credit for the imputation credit is limited to the lesser of the imputation credit and the following amount: imputation ratio × FIF income.
+**(2)** The person's tax credit for the imputation credit is limited to the lesser of the imputation credit and the following amount: imputation ratio × FIF income.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) imputation ratio is the imputation ratio referred to in section OB 60 (Imputation credits attached to dividends) if the relevant amount of LE 1(4B) income is treated as a dividend, and the imputation credit is attached to it.
 

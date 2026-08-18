@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Paying RLWT**
 
-**(1)**  A person who is required to pay or withhold RLWT must pay the amount of tax to the Commissioner under section RA 15 (Payment dates for interim and other tax payments).
+**(1)** A person who is required to pay or withhold RLWT must pay the amount of tax to the Commissioner under section RA 15 (Payment dates for interim and other tax payments).
 
 **Basis for payment of RLWT**
 
-**(2)**  For the purposes of section RA 6C (Withholding and payment obligations for residential land), the person must pay the amount of tax on a monthly basis.
+**(2)** For the purposes of section RA 6C (Withholding and payment obligations for residential land), the person must pay the amount of tax on a monthly basis.
 
 *Defined in this Act: amount of tax, Commissioner, RLWT*
 

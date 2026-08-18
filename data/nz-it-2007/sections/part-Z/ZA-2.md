@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Schedules 49 and 50**
 
-**(1)**  The enactments listed in schedules 49 (Enactments amended) and 50 (Amendments to the Tax Administration Act 1994) are amended in the manner indicated in the schedule.
+**(1)** The enactments listed in schedules 49 (Enactments amended) and 50 (Amendments to the Tax Administration Act 1994) are amended in the manner indicated in the schedule.
 
 **Amendments effective only for 2008–09 income year and later**
 
-**(2)**  However, unless the context requires otherwise, the amendments to the Tax Administration Act 1994 apply only in relation to the tax on income derived in the 2008–09 income year and later income years.
+**(2)** However, unless the context requires otherwise, the amendments to the Tax Administration Act 1994 apply only in relation to the tax on income derived in the 2008–09 income year and later income years.
 
 *Defined in this Act: income, income year, tax*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  The following amounts derived by a person in connection with their employment or service are income of the person:
+**(1)** The following amounts derived by a person in connection with their employment or service are income of the person:
 
 - (a) salary or wages or an allowance, bonus, extra pay, or gratuity:
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Meaning of accommodation**
 
-**(2)**  For the purposes of this section, and sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CW 19B, CZ 23, CZ 23B, CZ 29 to CZ 30, and FP 22 (which relate to accommodation provided in connection with employment), accommodation—
+**(2)** For the purposes of this section, and sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CW 19B, CZ 23, CZ 23B, CZ 29 to CZ 30, and FP 22 (which relate to accommodation provided in connection with employment), accommodation—
 
 - (a) includes—
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
 **Meaning of employer**
 
-**(3)**  Employer,—
+**(3)** Employer,—
 
 - (a) in this section, in sections CE 1B, CW 16B to CW 16F, CZ 23B, CZ 29 to CZ 30, and FP 22 (which relate to accommodation provided in connection with employment), and in the definition of employee, paragraph (e), includes a person, whether resident or non-resident, who, in connection with the employment or service of an employee of the employer,—
 
@@ -100,11 +100,11 @@ compilation_date: 2026-06-06
 
 **Amendment of exclusions by Order in Council**
 
-**(4)**  For the purposes of subsection (2), the Governor-General may by Order in Council make regulations to add to the types of accommodation that are excluded by paragraph (b) of the definition of accommodation from the rules relating to accommodation provided in connection with employment.
+**(4)** For the purposes of subsection (2), the Governor-General may by Order in Council make regulations to add to the types of accommodation that are excluded by paragraph (b) of the definition of accommodation from the rules relating to accommodation provided in connection with employment.
 
 **Application of Order in Council**
 
-**(5)**  An Order in Council under subsection (4) may—
+**(5)** An Order in Council under subsection (4) may—
 
 - (a) come into force on a date that is not earlier than 1 April 2015:
 
@@ -112,7 +112,7 @@ compilation_date: 2026-06-06
 
 **Secondary legislation**
 
-**(6)**  An Order in Council under subsection (4)—
+**(6)** An Order in Council under subsection (4)—
 
 - (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
 

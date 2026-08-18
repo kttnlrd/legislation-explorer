@@ -17,10 +17,10 @@ source_pdf: "vol01.pdf"
 
 
 <a id="s8AAZAA-1"></a>
-**(1)**  The Commissioner may make a written determination that specifies that an amount paid under the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 to an entity is a credit for the purposes of subparagraph (a)(iii) of the definition of credit in section 8AAZA.
+**(1)** The Commissioner may make a written determination that specifies that an amount paid under the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 to an entity is a credit for the purposes of subparagraph (a)(iii) of the definition of credit in section 8AAZA.
 
 <a id="s8AAZAA-2"></a>
-**(2)**  A determination under subsection (1) is not a legislative instrument.
+**(2)** A determination under subsection (1) is not a legislative instrument.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

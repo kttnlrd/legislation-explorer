@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Who is a Maori authority?**
 
-**(1)**  A Maori authority is a person eligible under section HF 2 who has made an election under section HF 11.
+**(1)** A Maori authority is a person eligible under section HF 2 who has made an election under section HF 11.
 
 **Maori authority rules**
 
-**(2)**  The Maori authority rules means the following:
+**(2)** The Maori authority rules means the following:
 
 - (a) this subpart:
 

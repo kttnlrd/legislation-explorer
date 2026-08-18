@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section provides the rules that a person must use to calculate the amount of New Zealand tax for an income year in relation to each segment of foreign-sourced income of the person that is allocated to the income year.
+**(1)** This section provides the rules that a person must use to calculate the amount of New Zealand tax for an income year in relation to each segment of foreign-sourced income of the person that is allocated to the income year.
 
 **Calculation for single segment**
 
-**(2)**  If the person has a notional income tax liability of more than zero, the amount of New Zealand tax for the income year relating to the allocated segment is calculated using the following formula, the result of which can not be less than zero: ((segment − person's deductions) ÷ person's net income) × notional liability.
+**(2)** If the person has a notional income tax liability of more than zero, the amount of New Zealand tax for the income year relating to the allocated segment is calculated using the following formula, the result of which can not be less than zero: ((segment − person's deductions) ÷ person's net income) × notional liability.
 
 **Definition of items in formula**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) segment is the amount of the segment of foreign-sourced income for the income year:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **When subsection (4B) applies**
 
-**(4)**  Subsection (4B) applies for the income year when the total amount of New Zealand tax for all segments of foreign-sourced income of the person calculated under subsection (2) is more than the notional income tax liability.
+**(4)** Subsection (4B) applies for the income year when the total amount of New Zealand tax for all segments of foreign-sourced income of the person calculated under subsection (2) is more than the notional income tax liability.
 
 **Modification to results of formula for single segment**
 
@@ -44,11 +44,11 @@ compilation_date: 2026-06-06
 
 **Person's notional income tax liability**
 
-**(5)**  For the purposes of this section, a person's notional income tax liability for a tax year is calculated using the formula— (person's net income − losses) × tax rate.
+**(5)** For the purposes of this section, a person's notional income tax liability for a tax year is calculated using the formula— (person's net income − losses) × tax rate.
 
 **Definition of items in formula**
 
-**(6)**  In the formula in subsection (5),—
+**(6)** In the formula in subsection (5),—
 
 - (a) person's net income is the person's net income for the tax year:
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Deductions for beneficiaries**
 
-**(7)**  If the person is a beneficiary of a trust and has a segment of foreign-sourced income (the foreign income) that was received by the trust and is beneficiary income of the person, the person is treated for the purposes of this section as having the amount of deductions relating to the foreign income that a trustee of the trust would have had if the trustee were calculating their New Zealand tax for the foreign income under this section.
+**(7)** If the person is a beneficiary of a trust and has a segment of foreign-sourced income (the foreign income) that was received by the trust and is beneficiary income of the person, the person is treated for the purposes of this section as having the amount of deductions relating to the foreign income that a trustee of the trust would have had if the trustee were calculating their New Zealand tax for the foreign income under this section.
 
 *Defined in this Act: amount, beneficiary income, deduction, income tax, income tax liability, loss balance, net income, New Zealand, New Zealand tax, segment of foreign-sourced income, tax loss component, tax year, trustee*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Transfer pricing arrangements**
 
-**(1)**  An amount treated as income of a person under section GC 8 (Insufficient amount receivable by person) is income of the person.
+**(1)** An amount treated as income of a person under section GC 8 (Insufficient amount receivable by person) is income of the person.
 
 **Disposal at below market value**
 
-**(2)**  A person may be treated as deriving an amount—
+**(2)** A person may be treated as deriving an amount—
 
 - (a) on disposal of trading stock under section GC 1 (Certain disposals of trading stock at below market value):
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person who has a tax credit under section LO 1 derives a taxable Maori authority distribution that has a Maori authority credit ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios).
+**(1)** This section applies when a person who has a tax credit under section LO 1 derives a taxable Maori authority distribution that has a Maori authority credit ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios).
 
 **Amount of reduction**
 
-**(2)**  The person's credit is reduced by an amount equal to the amount by which the credit is greater than the maximum permitted ratio.
+**(2)** The person's credit is reduced by an amount equal to the amount by which the credit is greater than the maximum permitted ratio.
 
 *Defined in this Act: amount, Maori authority credit ratio, maximum permitted ratio, tax credit, taxable Maori authority distribution*
 

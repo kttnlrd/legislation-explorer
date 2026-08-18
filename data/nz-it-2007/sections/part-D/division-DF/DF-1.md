@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a local authority, a public authority, or a public purpose Crown-controlled company makes a payment to a person for a business that the person carries on; and
 
@@ -44,11 +44,11 @@ compilation_date: 2026-06-06
 
 **No deduction (with exception)**
 
-**(2)**  The person is denied, to the extent of the amount of the payment, the deduction that they would have been allowed in the absence of this section.
+**(2)** The person is denied, to the extent of the amount of the payment, the deduction that they would have been allowed in the absence of this section.
 
 **When subsection (4) applies**
 
-**(3)**  Subsection (4) applies when—
+**(3)** Subsection (4) applies when—
 
 - (a) expenditure by the person in the acquisition, construction, installation, or extension of an item of depreciable property is expenditure to which the payment by the local authority, public authority, or public purpose Crown-controlled company corresponds; and
 
@@ -56,15 +56,15 @@ compilation_date: 2026-06-06
 
 **Amount of depreciation loss**
 
-**(4)**  For the purpose of quantifying the amount of depreciation loss, the amount of the expenditure is reduced by the amount of the payment.
+**(4)** For the purpose of quantifying the amount of depreciation loss, the amount of the expenditure is reduced by the amount of the payment.
 
 **Amendment of assessment**
 
-**(5)**  Despite the time bar, the Commissioner may amend an assessment at any time in order to give effect to this section.
+**(5)** Despite the time bar, the Commissioner may amend an assessment at any time in order to give effect to this section.
 
 **Link with subpart DA**
 
-**(7)**  This section overrides the general permission.
+**(7)** This section overrides the general permission.
 
 *Defined in this Act: amount, assessment, business, Commissioner, deduction, depreciable property, depreciation loss, general permission, grant-related suspensory loan, local authority, pay, public authority, public purpose Crown-controlled company, R&D loss tax credit, research and development loan scheme, small business cashflow scheme, time bar*
 

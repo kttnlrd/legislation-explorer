@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a company has issued a share to a shareholder under a profit distribution plan and the shareholder exercises the option to have the share repurchased by the company.
+**(1)** This section applies when a company has issued a share to a shareholder under a profit distribution plan and the shareholder exercises the option to have the share repurchased by the company.
 
 **Amount paid**
 
-**(2)**  The amount paid by the company to repurchase the share is not a dividend.
+**(2)** The amount paid by the company to repurchase the share is not a dividend.
 
 *Defined in this Act: amount, company, dividend, pay, profit distribution plan, share, shareholder*
 

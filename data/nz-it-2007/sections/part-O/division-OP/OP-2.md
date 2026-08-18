@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Credits only in group account**
 
-**(1)**  A credit may arise only in the memorandum account of a consolidated group and not in the memorandum account of a group company, unless another provision expressly states otherwise.
+**(1)** A credit may arise only in the memorandum account of a consolidated group and not in the memorandum account of a group company, unless another provision expressly states otherwise.
 
 **Debits only in group account**
 
-**(2)**  A debit may arise only in the memorandum account of a consolidated group and not in the memorandum account of a group company, unless another provision expressly states otherwise.
+**(2)** A debit may arise only in the memorandum account of a consolidated group and not in the memorandum account of a group company, unless another provision expressly states otherwise.
 
 **Particular credits and debits**
 
-**(3)**  The credit referred to in subsection (1) and the debit referred to in subsection (2) are listed in provisions in this subpart.
+**(3)** The credit referred to in subsection (1) and the debit referred to in subsection (2) are listed in provisions in this subpart.
 
 **Company's obligation overridden**
 
-**(4)**  This section applies despite—
+**(4)** This section applies despite—
 
 - (a) the obligation that a group company may have under this Part to record a credit or debit; and
 

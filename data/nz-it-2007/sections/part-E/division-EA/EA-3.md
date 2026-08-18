@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person has been allowed a deduction for expenditure under this Act or an earlier Act; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)**  This section does not apply to expenditure incurred on—
+**(2)** This section does not apply to expenditure incurred on—
 
 - (a) revenue account property to which section EA 2 applies:
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Unexpired portion**
 
-**(3)**  The unexpired portion of a person's expenditure at the end of an income year—
+**(3)** The unexpired portion of a person's expenditure at the end of an income year—
 
 - (a) is income of the person in the income year under section CH 2 (Adjustment for prepayments); and
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Unexpired portion: expenditure on goods**
 
-**(4)**  An amount of expenditure on goods is unexpired at the end of an income year if, by the end of the income year,—
+**(4)** An amount of expenditure on goods is unexpired at the end of an income year if, by the end of the income year,—
 
 - (a) the person has not used up the goods in deriving income; and
 
@@ -66,19 +66,19 @@ compilation_date: 2026-06-06
 
 **Unexpired portion: expenditure on services**
 
-**(5)**  An amount of expenditure on services is unexpired at the end of an income year if the services have not been performed by the end of the income year.
+**(5)** An amount of expenditure on services is unexpired at the end of an income year if the services have not been performed by the end of the income year.
 
 **Unexpired portion: expenditure on choses in action**
 
-**(6)**  An amount of expenditure on a chose in action is unexpired at the end of an income year if the amount relates to a period of enforceability of the chose in action falling after the income year.
+**(6)** An amount of expenditure on a chose in action is unexpired at the end of an income year if the amount relates to a period of enforceability of the chose in action falling after the income year.
 
 **Allowances reimbursing employees**
 
-**(7)**  In the case of expenditure subject to sections CW 16B to CW 16F, CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees), this section applies on the basis that the relevant services were performed in the income year in which the employee's expenditure is expected to occur.
+**(7)** In the case of expenditure subject to sections CW 16B to CW 16F, CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees), this section applies on the basis that the relevant services were performed in the income year in which the employee's expenditure is expected to occur.
 
 **Commissioner's discretionary relief**
 
-**(8)**  The Commissioner may excuse a person from complying with this section under section 91AAC of the Tax Administration Act 1994.
+**(8)** The Commissioner may excuse a person from complying with this section under section 91AAC of the Tax Administration Act 1994.
 
 *Defined in this Act: aircraft engine, aircraft engine overhaul, amount, Commissioner, deduction, employee, film, film right, goods, income, income year, land, leasehold estate, pay, revenue account property, services*
 

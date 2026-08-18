@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Persons to whom interest apportionment rules may apply**
 
-**(1)**  The interest apportionment rules in sections FE 6 and FE 7 may apply to the following persons if, at a time in an income year, they are:
+**(1)** The interest apportionment rules in sections FE 6 and FE 7 may apply to the following persons if, at a time in an income year, they are:
 
 - (a) a non-resident who is not a company:
 
@@ -90,21 +90,21 @@ compilation_date: 2026-06-06
 
 **Ownership interests**
 
-**(2)**  Ownership interests in a company are determined under sections FE 38 to FE 41.
+**(2)** Ownership interests in a company are determined under sections FE 38 to FE 41.
 
 **Treatment of foreign companies**
 
-**(3)**  For the purposes of this section, a company resident in New Zealand is treated as being a non-resident company if it is treated under a double tax agreement as not being resident in New Zealand.
+**(3)** For the purposes of this section, a company resident in New Zealand is treated as being a non-resident company if it is treated under a double tax agreement as not being resident in New Zealand.
 
 **Association between person and non-resident relative for subsection (1)**
 
-**(4)**  A resident of New Zealand and a relative who is a non-resident are not associated persons—
+**(4)** A resident of New Zealand and a relative who is a non-resident are not associated persons—
 
 - (a) in relation to a company for the purposes of subsection (1)﻿(b)﻿(ii), if the non-resident does not have a direct or indirect ownership interest in the company.
 
 **New Zealand banking group of Crown-owned registered bank**
 
-**(5)**  If the members of the New Zealand banking group of a registered bank are given by section FE 36B, the interests held by a member of the group for the purposes of subsection (1)﻿(e) and (f) do not include interests held by an associated person who is not a member of the group.
+**(5)** If the members of the New Zealand banking group of a registered bank are given by section FE 36B, the interests held by a member of the group for the purposes of subsection (1)﻿(e) and (f) do not include interests held by an associated person who is not a member of the group.
 
 *Defined in this Act: associated person, attributable FIF income method, CFC, company, double tax agreement, eligible infrastructure entity, FIF, income interest, income year, interest, New Zealand, New Zealand banking group, non-complying trust, non-resident, non-resident company, non-resident owning body, ownership interest, public project debt, relative, resident in New Zealand, settlement, trustee*
 

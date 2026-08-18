@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this subpart applies**
 
-**(1)**  This subpart applies for a person and a new investment asset acquired by them if, subject to subsection (1B), the following conditions are met:
+**(1)** This subpart applies for a person and a new investment asset acquired by them if, subject to subsection (1B), the following conditions are met:
 
 - (a) if the asset is depreciable property, it first becomes available for use in New Zealand by the person on or after 22 May 2025; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **When this subpart does not apply**
 
-**(2)**  This subpart does not apply to expenditure the person incurs before 22 May 2025 in relation to a new investment asset that is not depreciable property.
+**(2)** This subpart does not apply to expenditure the person incurs before 22 May 2025 in relation to a new investment asset that is not depreciable property.
 
 *Defined in this Act: depreciable property, income year, new investment asset, New Zealand, return of income, trading stock*
 

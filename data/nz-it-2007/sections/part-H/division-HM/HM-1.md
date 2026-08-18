@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Subpart HM**
 
-**(1)**  This subpart sets out—
+**(1)** This subpart sets out—
 
 - (a) the entry and exit rules for portfolio investment entities, see sections HM 7 to HM 30:
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Relationship with Parts C and D**
 
-**(2)**  The following sections apply to portfolio investment entities:
+**(2)** The following sections apply to portfolio investment entities:
 
 - (a) section CB 26 (Disposal of certain shares by portfolio investment entities):
 
@@ -128,7 +128,7 @@ compilation_date: 2026-06-06
 
 **Relationship with subpart LS**
 
-**(3)**  Subpart LS (Tax credits for multi-rate PIEs and investors) contains the rules relating to the amount and use of a tax credit arising under this subpart.
+**(3)** Subpart LS (Tax credits for multi-rate PIEs and investors) contains the rules relating to the amount and use of a tax credit arising under this subpart.
 
 *Defined in this Act: amount, investor, investor class, multi-rate PIE, PIE, portfolio investment entity, tax credit*
 

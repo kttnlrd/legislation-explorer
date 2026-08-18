@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  Expenditure on account of an employee means a payment made by an employer relating to expenditure incurred by an employee or to be incurred by an employee.
+**(1)** Expenditure on account of an employee means a payment made by an employer relating to expenditure incurred by an employee or to be incurred by an employee.
 
 **Exclusions**
 
-**(3)**  Expenditure on account of an employee does not include—
+**(3)** Expenditure on account of an employee does not include—
 
 - (a) expenditure for the benefit of an employee, or a payment made to reimburse an employee, under section CW 17 (Expenditure on account, and reimbursement, of employees):
 

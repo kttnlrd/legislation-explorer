@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  An amount described in subsection (2) is income of the owner of land if they derive the amount from—
+**(1)** An amount described in subsection (2) is income of the owner of land if they derive the amount from—
 
 - (a) a lease, licence, or easement affecting the land; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Amounts**
 
-**(2)**  The amounts are—
+**(2)** The amounts are—
 
 - (a) rent:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section GC 5**
 
-**(3)**  The treatment of leases of property to related parties for less than an adequate rent is dealt with in section GC 5 (Leases for inadequate rent).
+**(3)** The treatment of leases of property to related parties for less than an adequate rent is dealt with in section GC 5 (Leases for inadequate rent).
 
 *Defined in this Act: amount, business, income, lease, own, pay*
 

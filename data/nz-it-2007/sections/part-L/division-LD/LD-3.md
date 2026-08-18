@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  For the purposes of sections DB 41 and DV 12 (which relate to deductions for gifts of money), and this subpart, a charitable or other public benefit gift—
+**(1)** For the purposes of sections DB 41 and DV 12 (which relate to deductions for gifts of money), and this subpart, a charitable or other public benefit gift—
 
 - (a) means a gift of money of $5 or more that is paid to a society, institution, association, organisation, trust, or fund (the entity), if—
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Description of organisations**
 
-**(2)**  The following are the entities referred to in subsection (1)﻿(a) and (b):
+**(2)** The following are the entities referred to in subsection (1)﻿(a) and (b):
 
 - (a) a society, institution, association, organisation, or trust that is not carried on for the private pecuniary profit of an individual, and whose funds are applied wholly or mainly to charitable, benevolent, philanthropic, or cultural purposes within New Zealand:
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Exception for certain entities**
 
-**(3)**  Despite subsection (2)﻿(a), (b), (c), and (d), a society, institution, association, organisation, trust, or fund is not a relevant entity for the purposes of subsection (1) if the society, institution, association, organisation, trust, or fund,—
+**(3)** Despite subsection (2)﻿(a), (b), (c), and (d), a society, institution, association, organisation, trust, or fund is not a relevant entity for the purposes of subsection (1) if the society, institution, association, organisation, trust, or fund,—
 
 - (a) is not a tax charity, because it is not registered as a charitable entity under the Charities Act 2005; and
 

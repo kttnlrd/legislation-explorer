@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  A prize received by a person under section 31A of the Building Societies Act 1965 is income of the person, whether they take it as cash or as an advance.
+**(1)** A prize received by a person under section 31A of the Building Societies Act 1965 is income of the person, whether they take it as cash or as an advance.
 
 **Timing of income**
 
-**(2)**  The income is allocated as follows:
+**(2)** The income is allocated as follows:
 
 - (a) a cash prize is allocated to the day on which the bonus ballot giving rise to the prize is held; and
 

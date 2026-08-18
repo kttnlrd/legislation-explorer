@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  This section applies to a person who, under the Goods and Services Tax Act 1985,—
+**(1)** This section applies to a person who, under the Goods and Services Tax Act 1985,—
 
 - (a) is an underlying supplier of goods and services; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The amount of the credit received by the person is income of the person for the income year.
+**(2)** The amount of the credit received by the person is income of the person for the income year.
 
 *Defined in this Act: amount, assessable income, income, income year*
 

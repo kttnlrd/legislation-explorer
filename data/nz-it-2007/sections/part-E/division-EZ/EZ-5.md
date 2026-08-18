@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Bloodstock to which this section applies**
 
-**(1)**  This section applies to bloodstock that—
+**(1)** This section applies to bloodstock that—
 
 - (a) was not used for breeding in New Zealand before 16 December 1991; and
 
@@ -30,19 +30,19 @@ compilation_date: 2026-06-06
 
 **Stallion**
 
-**(2)**  For the purposes of sections EC 39 and EC 40 (which relate to bloodstock), the reduction applying to the value of a stallion is 25% of the cost price of the stallion unless person A chooses to value the stallion by the reducing value method.
+**(2)** For the purposes of sections EC 39 and EC 40 (which relate to bloodstock), the reduction applying to the value of a stallion is 25% of the cost price of the stallion unless person A chooses to value the stallion by the reducing value method.
 
 **Stallion valued by reducing value method**
 
-**(3)**  When person A chooses to value the stallion by the reducing value method, the reduction applying to the value of the stallion is 37.5% of its cost price in the first income year and 37.5% of its opening value in each later income year. Person A must give notice to the Commissioner of their election in their return of income for the first income year.
+**(3)** When person A chooses to value the stallion by the reducing value method, the reduction applying to the value of the stallion is 37.5% of its cost price in the first income year and 37.5% of its opening value in each later income year. Person A must give notice to the Commissioner of their election in their return of income for the first income year.
 
 **Broodmare when first used before 1 April 2001**
 
-**(4)**  For the purposes of sections EC 39 and EC 40, the reduction applying to the value of a broodmare is calculated using the formula— 1.25 × cost price of broodmare ÷ (15 − age of broodmare).
+**(4)** For the purposes of sections EC 39 and EC 40, the reduction applying to the value of a broodmare is calculated using the formula— 1.25 × cost price of broodmare ÷ (15 − age of broodmare).
 
 **Definition of item in formula**
 
-**(5)**  In the formula in subsection (4), age of broodmare is—
+**(5)** In the formula in subsection (4), age of broodmare is—
 
 - (a) 12 years of age; or
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Broodmare when first used on or after 1 April 2001 but before 1 August 2006**
 
-**(6)**  For the purposes of sections EC 39 and EC 40, the reduction applying to the value of a broodmare to which section EC 39(2) applies is calculated using the formula— 1.25 × cost price of broodmare ÷ (11 − age of broodmare).
+**(6)** For the purposes of sections EC 39 and EC 40, the reduction applying to the value of a broodmare to which section EC 39(2) applies is calculated using the formula— 1.25 × cost price of broodmare ÷ (11 − age of broodmare).
 
 **Definition of item in formula**
 
-**(7)**  In the formula in subsection (6), age of broodmare is—
+**(7)** In the formula in subsection (6), age of broodmare is—
 
 - (a) 8 years of age; or
 

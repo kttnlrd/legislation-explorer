@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an income year when a foreign PIE equivalent incurs expenditure or loss in deriving an amount to which section CX 55B (Proceeds from disposal of certain shares and financial arrangements) applies.
+**(1)** This section applies for an income year when a foreign PIE equivalent incurs expenditure or loss in deriving an amount to which section CX 55B (Proceeds from disposal of certain shares and financial arrangements) applies.
 
 **No deduction**
 
-**(2)**  The foreign PIE equivalent is denied a deduction for the amount of the expenditure or loss.
+**(2)** The foreign PIE equivalent is denied a deduction for the amount of the expenditure or loss.
 
 **Link with subpart DA**
 
-**(3)**  This section overrides the general permission.
+**(3)** This section overrides the general permission.
 
 *Defined in this Act: amount, deduction, foreign PIE equivalent, general permission, income year*
 

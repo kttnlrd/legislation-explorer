@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Investment types**
 
-**(1)**  Despite section HM 11(1)﻿(a) and (b), no investment of a foreign investment variable-rate PIE may include an interest in land in New Zealand or a right or option in relation to land in New Zealand.
+**(1)** Despite section HM 11(1)﻿(a) and (b), no investment of a foreign investment variable-rate PIE may include an interest in land in New Zealand or a right or option in relation to land in New Zealand.
 
 **Income sources**
 
-**(2)**  Despite section HM 12(1)﻿(a) and (b)﻿(iv) and (v), the income derived by a foreign investment variable-rate PIE must not include an amount derived from—
+**(2)** Despite section HM 12(1)﻿(a) and (b)﻿(iv) and (v), the income derived by a foreign investment variable-rate PIE must not include an amount derived from—
 
 - (a) an interest in land in New Zealand:
 

@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) for the 2026–27 tax year if section 105(2) of the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026 comes into force on a date (the change date) that is set by Order in Council under section 2(43) of that Act.
+**(1)** This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) for the 2026–27 tax year if section 105(2) of the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026 comes into force on a date (the change date) that is set by Order in Council under section 2(43) of that Act.
 
 **In-work tax credit formula: section MD 10**
 
-**(2)**  The instalments for the tax credit under section MD 1, for the calculation of the in-work tax credit, are calculated using the formula— (amount A + amount B × (children − 3)) × weekly periods ÷ 52.
+**(2)** The instalments for the tax credit under section MD 1, for the calculation of the in-work tax credit, are calculated using the formula— (amount A + amount B × (children − 3)) × weekly periods ÷ 52.
 
 **Items in formula**
 
-**(3)**  In the formula in subsection (2),—
+**(3)** In the formula in subsection (2),—
 
 - (a) amount A is—
 

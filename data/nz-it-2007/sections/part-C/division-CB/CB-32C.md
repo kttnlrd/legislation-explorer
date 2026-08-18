@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for an income year when, in the income year, the person has—
+**(1)** This section applies for an income year when, in the income year, the person has—
 
 - (a) an effective look-through interest for a look-through company (LTC) on the first day of that year, and the company existed in the previous income year, but was not a look-through company in that previous year:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  The person has an amount of income under—
+**(2)** The person has an amount of income under—
 
 - (a) subsection (4); or
 
@@ -32,15 +32,15 @@ compilation_date: 2026-06-06
 
 **Dividend**
 
-**(3)**  An amount of income under subsection (4) or (8) is treated as a dividend including an attached imputation credit, as provided by the relevant subsection.
+**(3)** An amount of income under subsection (4) or (8) is treated as a dividend including an attached imputation credit, as provided by the relevant subsection.
 
 **Formula**
 
-**(4)**  For the purposes of subsection (2)﻿(a), the amount of income is a positive amount calculated using the formula— (untaxed reserves + reserves imputation credit) × effective interest.
+**(4)** For the purposes of subsection (2)﻿(a), the amount of income is a positive amount calculated using the formula— (untaxed reserves + reserves imputation credit) × effective interest.
 
 **Definition of items in formula**
 
-**(5)**  In the formula in subsection (4),—
+**(5)** In the formula in subsection (4),—
 
 - (a) untaxed reserves is the amount given by the formula in subsection (6):
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(6)**  For the purposes of subsection (5)﻿(a), the amount of untaxed reserves is calculated using the formula— dividends – assessable income – exit exemption.
+**(6)** For the purposes of subsection (5)﻿(a), the amount of untaxed reserves is calculated using the formula— dividends – assessable income – exit exemption.
 
 **Definition of items in formula**
 
-**(7)**  In the formula in subsection (6),—
+**(7)** In the formula in subsection (6),—
 
 - (a) dividends is the sum of the amounts that would be dividends if the following events occurred for the company or the amalgamating company (the company), immediately before it became an LTC or amalgamated with an LTC:
 
@@ -82,11 +82,11 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(8)**  For the purposes of subsection (2)﻿(b), the amount of income is a positive amount calculated using the formula— ((balances ÷ tax rate – balances) + balances imputation credit) × effective interest.
+**(8)** For the purposes of subsection (2)﻿(b), the amount of income is a positive amount calculated using the formula— ((balances ÷ tax rate – balances) + balances imputation credit) × effective interest.
 
 **Definition of items in formula**
 
-**(9)**  In the formula in subsection (8),—
+**(9)** In the formula in subsection (8),—
 
 - (a) balances is the sum of the following amounts:
 
@@ -102,7 +102,7 @@ compilation_date: 2026-06-06
 
 **Relevant day**
 
-**(10)**  In this section, the relevant day for measuring relevant items in the formulas is—
+**(10)** In this section, the relevant day for measuring relevant items in the formulas is—
 
 - (a) the last day of the income year before the income year described in subsection (1)﻿(a), as applicable; or
 
@@ -110,7 +110,7 @@ compilation_date: 2026-06-06
 
 **Income tax and refund**
 
-**(11)**  For the purposes of subsections (7C)﻿(b) and (9)﻿(a)﻿(ii),—
+**(11)** For the purposes of subsections (7C)﻿(b) and (9)﻿(a)﻿(ii),—
 
 - (a) income tax payable is income tax that would, when paid, give rise to a credit in the company's imputation credit account under sections OB 4 to OB 29 (which relate to imputation credits):
 

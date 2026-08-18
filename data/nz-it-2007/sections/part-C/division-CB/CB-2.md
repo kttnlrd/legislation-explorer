@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in an income year when—
+**(1)** This section applies in an income year when—
 
 - (a) a person (person A) who owns or carries on a business disposes of some or all of the assets of the business to another person (person B); and
 
@@ -22,15 +22,15 @@ compilation_date: 2026-06-06
 
 **Assessable income of person A**
 
-**(2)**  An amount that person A receives from the disposal of the trading stock is taken into account in determining their income for the income year. The amount is derived at the time of disposal referred to in subsection (1).
+**(2)** An amount that person A receives from the disposal of the trading stock is taken into account in determining their income for the income year. The amount is derived at the time of disposal referred to in subsection (1).
 
 **Price of acquisition by person B**
 
-**(3)**  In the calculation of the taxable income of person B for the income year or a later income year, person B is treated as acquiring the trading stock for the amount of the disposal referred to in subsection (2).
+**(3)** In the calculation of the taxable income of person B for the income year or a later income year, person B is treated as acquiring the trading stock for the amount of the disposal referred to in subsection (2).
 
 **Disposal**
 
-**(4)**  In this section, a disposal—
+**(4)** In this section, a disposal—
 
 - (a) includes the passing of property by an exchange, gift, distribution under a will or on intestacy; and
 
@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section CB 1**
 
-**(5)**  This section overrides section CB 1.
+**(5)** This section overrides section CB 1.
 
 *Defined in this Act: amount, assessable income, business, dispose, distribution, income year, market value, property, taxable income, trading stock*
 

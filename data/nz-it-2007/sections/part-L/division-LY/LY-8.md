@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Carry forward**
 
-**(1)**  For the purposes of section LA 5(4B) (Treatment of remaining credits), a person's remaining research and development tax credit for a tax year is carried forward to the next tax year and credited under section LY 1(3)﻿(b) for that next tax year.
+**(1)** For the purposes of section LA 5(4B) (Treatment of remaining credits), a person's remaining research and development tax credit for a tax year is carried forward to the next tax year and credited under section LY 1(3)﻿(b) for that next tax year.
 
 **Carry forward: exception**
 
-**(2)**  Despite subsection (1), if the person is a company, the remaining tax credit is extinguished and must not be carried forward and credited, unless the continuity rules in subsection (3) are met. This subsection is subject to subsections (4B) to (6).
+**(2)** Despite subsection (1), if the person is a company, the remaining tax credit is extinguished and must not be carried forward and credited, unless the continuity rules in subsection (3) are met. This subsection is subject to subsections (4B) to (6).
 
 **Carry forward: another exception**
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Continuity rules**
 
-**(3)**  For a company, the remaining tax credit is carried forward and credited if a group of persons exists that has, for the continuity period,—
+**(3)** For a company, the remaining tax credit is carried forward and credited if a group of persons exists that has, for the continuity period,—
 
 - (a) minimum voting interests in the company that total 49% or more; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(4)**  In this section,— continuity period means the period that starts on the first day of the income year that corresponds to the tax year in which the research and development tax credit first arises and ends on the last day of the income year that corresponds to the tax year to which the credit is being carried forward and credited to: minimum market value interest means the lowest market value interest that a person has in the company for the continuity period: minimum voting interest means the lowest voting interest that a person has in the company for the continuity period.
+**(4)** In this section,— continuity period means the period that starts on the first day of the income year that corresponds to the tax year in which the research and development tax credit first arises and ends on the last day of the income year that corresponds to the tax year to which the credit is being carried forward and credited to: minimum market value interest means the lowest market value interest that a person has in the company for the continuity period: minimum voting interest means the lowest voting interest that a person has in the company for the continuity period.
 
 **Breach of continuity**
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Credits for earlier income years**
 
-**(5)**  Despite a breach of continuity under subsection (3), a person's remaining research and development tax credit for an earlier tax year may be carried forward to a tax year (year A) and credited under section LY 1(3)﻿(b) to the extent to which—
+**(5)** Despite a breach of continuity under subsection (3), a person's remaining research and development tax credit for an earlier tax year may be carried forward to a tax year (year A) and credited under section LY 1(3)﻿(b) to the extent to which—
 
 - (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year of the company that corresponds to year A; and
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Credits for year of breach**
 
-**(6)**  Despite a breach of continuity under subsection (3), a person's remaining research and development tax credit may be carried forward to the tax year (year B) from year A and credited under section LY 1(3)﻿(b) to the extent to which—
+**(6)** Despite a breach of continuity under subsection (3), a person's remaining research and development tax credit may be carried forward to the tax year (year B) from year A and credited under section LY 1(3)﻿(b) to the extent to which—
 
 - (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year of the company that corresponds to year A; and
 

@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  A Maori authority that is an investor in a multi-rate PIE has a Maori authority credit for the amount of an imputation credit attributed to it under section HM 54 (Use of tax credits other than foreign tax credits by investors).
+**(1)** A Maori authority that is an investor in a multi-rate PIE has a Maori authority credit for the amount of an imputation credit attributed to it under section HM 54 (Use of tax credits other than foreign tax credits by investors).
 
 **Table reference**
 
-**(2)**  The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 6B (attributed PIE income with imputation credit).
+**(2)** The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 6B (attributed PIE income with imputation credit).
 
 **Credit date**
 
-**(3)**  The credit date is the day the amount is attributed.
+**(3)** The credit date is the day the amount is attributed.
 
 *Defined in this Act: amount, attributed PIE income, imputation credit, multi-rate PIE*
 

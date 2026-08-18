@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a company (the splitting company) is an ASX-listed Australian company under subsection (8); and
 
@@ -28,15 +28,15 @@ compilation_date: 2026-06-06
 
 **Cost of shares in splitting company after transfer**
 
-**(3)**  The cost for a shareholder of the shares in the splitting company that are held by the shareholder after the share transfer is the amount calculated using the formula— cost before transfer × value after transfer ÷ (value acquired shares + value after transfer).
+**(3)** The cost for a shareholder of the shares in the splitting company that are held by the shareholder after the share transfer is the amount calculated using the formula— cost before transfer × value after transfer ÷ (value acquired shares + value after transfer).
 
 **Cost of shares in new company**
 
-**(4)**  The cost for a shareholder of the shares acquired in the share transfer is the amount calculated using the formula— cost before transfer × value acquired shares ÷ (value acquired shares + value after transfer).
+**(4)** The cost for a shareholder of the shares acquired in the share transfer is the amount calculated using the formula— cost before transfer × value acquired shares ÷ (value acquired shares + value after transfer).
 
 **Definition of items in formulas**
 
-**(5)**  In the formulas in subsections (3) and (4),—
+**(5)** In the formulas in subsections (3) and (4),—
 
 - (a) cost before transfer is the cost for the shareholder, immediately before the share transfer, of the shares in the splitting company held by the shareholder immediately after the share transfer:
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Available subscribed capital amounts**
 
-**(6)**  Immediately after the share transfer, the available subscribed capital,—
+**(6)** Immediately after the share transfer, the available subscribed capital,—
 
 - (a) for each share held in the subsidiary, is—
 
@@ -58,11 +58,11 @@ compilation_date: 2026-06-06
 
 **Not dividend**
 
-**(7)**  The transfer of the shares in the subsidiary to the shareholders in the splitting company is not a dividend.
+**(7)** The transfer of the shares in the subsidiary to the shareholders in the splitting company is not a dividend.
 
 **Meaning of ASX-listed Australian company**
 
-**(8)**  ASX-listed Australian company means a company that—
+**(8)** ASX-listed Australian company means a company that—
 
 - (a) is resident in Australia; and
 

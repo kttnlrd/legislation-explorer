@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Resident investors**
 
-**(1)**  If an investor in a listed PIE derives an amount in an income year as a distribution by or dividend of the PIE, the amount is excluded income of the investor if they—
+**(1)** If an investor in a listed PIE derives an amount in an income year as a distribution by or dividend of the PIE, the amount is excluded income of the investor if they—
 
 - (a) are resident in New Zealand; and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Imputed dividends**
 
-**(2)**  If subsection (1)﻿(a) to (c) does not apply to the investor, the amount is excluded income to the extent to which the amount of the distribution or dividend is more than the amount that is fully credited as described in section CD 43(26) (Available subscribed capital amount).
+**(2)** If subsection (1)﻿(a) to (c) does not apply to the investor, the amount is excluded income to the extent to which the amount of the distribution or dividend is more than the amount that is fully credited as described in section CD 43(26) (Available subscribed capital amount).
 
 *Defined in this Act: amount, dividend, excluded income, income year, investor, listed PIE, PIE, resident in New Zealand, return of income, trustee*
 

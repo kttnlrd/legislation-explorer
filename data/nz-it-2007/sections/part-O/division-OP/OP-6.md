@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Single company, tax liabilities**
 
-**(1)**  The provisions listed in subsection (2) apply, modified as necessary, to a consolidated imputation group and to the imputation credit account of the group as if—
+**(1)** The provisions listed in subsection (2) apply, modified as necessary, to a consolidated imputation group and to the imputation credit account of the group as if—
 
 - (a) the group were a single company; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Other provisions**
 
-**(2)**  The provisions are—
+**(2)** The provisions are—
 
 - (a) section OB 61 (ICA benchmark dividend rules); and
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Consolidation provisions**
 
-**(3)**  Sections FM 4 and FM 5 (which relate to the liabilities of group companies) override subsection (1)﻿(b).
+**(3)** Sections FM 4 and FM 5 (which relate to the liabilities of group companies) override subsection (1)﻿(b).
 
 **Tax advantage arrangements and determinations**
 
-**(4)**  Sections GB 35 and GB 36 (which relate to tax advantage arrangements), LE 1(5) (Tax credits for imputation credits), OA 2(5) (Memorandum accounts), and sections 90AF and 104B of the Tax Administration Act 1994 apply, modified as necessary, in a case that involves accounts of a consolidated imputation group as if—
+**(4)** Sections GB 35 and GB 36 (which relate to tax advantage arrangements), LE 1(5) (Tax credits for imputation credits), OA 2(5) (Memorandum accounts), and sections 90AF and 104B of the Tax Administration Act 1994 apply, modified as necessary, in a case that involves accounts of a consolidated imputation group as if—
 
 - (a) the group were a single company; and
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Refunds for overpaid amounts**
 
-**(5)**  Sections RM 13 to RM 17, RM 32, and RZ 6 (which relate to limits on refunds) apply, modified as necessary, in relation to income tax paid by a consolidated imputation group as if—
+**(5)** Sections RM 13 to RM 17, RM 32, and RZ 6 (which relate to limits on refunds) apply, modified as necessary, in relation to income tax paid by a consolidated imputation group as if—
 
 - (a) the group were a single company; and
 
@@ -54,11 +54,11 @@ compilation_date: 2026-06-06
 
 **Limits on refunds**
 
-**(6)**  Despite subsection (5), sections RM 13 to RM 17, RM 32, and RZ 6 do not apply to limit a refund payable to a company that is part of a consolidated imputation group in relation to income tax paid individually by the company to the extent to which those sections would not have limited the refund if it had been a refund payable to the group in relation to income tax paid by the group. However, if an amount is refunded and would not have been payable but for this subsection, section RM 15(1) (Changes in credit balances) applies as if the refund were made in relation to income tax paid by the group.
+**(6)** Despite subsection (5), sections RM 13 to RM 17, RM 32, and RZ 6 do not apply to limit a refund payable to a company that is part of a consolidated imputation group in relation to income tax paid individually by the company to the extent to which those sections would not have limited the refund if it had been a refund payable to the group in relation to income tax paid by the group. However, if an amount is refunded and would not have been payable but for this subsection, section RM 15(1) (Changes in credit balances) applies as if the refund were made in relation to income tax paid by the group.
 
 **Applying for refunds**
 
-**(7)**  If a company that is part of an imputation group is entitled to a refund under section RM 2 or RM 4 (which relate to refunds for overpaid income tax), the company must apply for a refund by notifying the Commissioner. Sections RM 13 to RM 17, RM 32, and RZ 6 apply to the entitlement as if—
+**(7)** If a company that is part of an imputation group is entitled to a refund under section RM 2 or RM 4 (which relate to refunds for overpaid income tax), the company must apply for a refund by notifying the Commissioner. Sections RM 13 to RM 17, RM 32, and RZ 6 apply to the entitlement as if—
 
 - (a) the imputation credit account of the group were the imputation credit account of the company:
 

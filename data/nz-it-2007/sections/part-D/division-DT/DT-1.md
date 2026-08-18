@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Deduction**
 
-**(1)**  A person is allowed a deduction for petroleum exploration expenditure incurred by them.
+**(1)** A person is allowed a deduction for petroleum exploration expenditure incurred by them.
 
 **Relationship with section DT 2**
 
-**(2)**  This section is overridden by section DT 2.
+**(2)** This section is overridden by section DT 2.
 
 **Link with subpart DA**
 
-**(3)**  This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+**(3)** This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
 *Defined in this Act: capital limitation, deduction, general limitation, general permission, petroleum exploration expenditure, supplement*
 

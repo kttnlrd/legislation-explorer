@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when the Commissioner receives an application under section MF 1 and is required under section 80KD(2) of the Tax Administration Act 1994 to determine the amount of the tax credit to which the person applying would be entitled.
+**(1)** This section applies when the Commissioner receives an application under section MF 1 and is required under section 80KD(2) of the Tax Administration Act 1994 to determine the amount of the tax credit to which the person applying would be entitled.
 
 **Method for determining family assistance credit**
 
-**(2)**  The Commissioner must—
+**(2)** The Commissioner must—
 
 - (a) calculate an amount (the annual amount) using the formula in subsection (3); and
 
@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(3)**  The formula is— attributed net income × 365 ÷ days.
+**(3)** The formula is— attributed net income × 365 ÷ days.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) attributed net income is equal to such amount of the family scheme income expected to be attributable to the part of the tax year that is the part (the calculation period) for which the Commissioner determines that a tax credit is allowable to the person:
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)**  This section applies, in the circumstances described in section FC 1(1)﻿(a) or (b), to a transfer of property on a person's death for which the deceased person has, in the year of transfer, an unexpired portion of expenditure under section EA 3 (Prepayments).
+**(1)** This section applies, in the circumstances described in section FC 1(1)﻿(a) or (b), to a transfer of property on a person's death for which the deceased person has, in the year of transfer, an unexpired portion of expenditure under section EA 3 (Prepayments).
 
 **Unexpired prepayments**
 
-**(2)**  If section EA 3 applies to the property transferred, the property must be valued under section EA 3(4) to (7), as if the date of transfer were the end of an income year.
+**(2)** If section EA 3 applies to the property transferred, the property must be valued under section EA 3(4) to (7), as if the date of transfer were the end of an income year.
 
 *Defined in this Act: income year, property, year*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) a person (the taxpayer) is a party to a transfer pricing arrangement with another person; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Paying arm's length amount**
 
-**(2)**  For the purposes of calculating the taxpayer's income tax liability, the amount paid by them in the compensating acquisition arrangement is treated for the corresponding tax year as an amount equal to the arm's length amount determined under section GC 13.
+**(2)** For the purposes of calculating the taxpayer's income tax liability, the amount paid by them in the compensating acquisition arrangement is treated for the corresponding tax year as an amount equal to the arm's length amount determined under section GC 13.
 
 *Defined in this Act: acquisition, amount, arrangement, income tax liability, tax year, transfer pricing arrangement*
 

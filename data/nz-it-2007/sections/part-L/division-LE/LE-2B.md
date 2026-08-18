@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to a life insurer who has an amount of tax credit remaining for a tax year (the surplus credit year) under section LA 5(4) (Treatment of remaining credits), but only to the extent to which the amount is for their policyholder base.
+**(1)** This section applies to a life insurer who has an amount of tax credit remaining for a tax year (the surplus credit year) under section LA 5(4) (Treatment of remaining credits), but only to the extent to which the amount is for their policyholder base.
 
 **Policyholder base allowable deduction**
 
-**(2)**  The life insurer has a deduction included as their policyholder base allowable deduction, for the income year corresponding to the tax year after the surplus credit year equal to an amount calculated using the formula— policyholder remaining credit ÷ policyholder rate.
+**(2)** The life insurer has a deduction included as their policyholder base allowable deduction, for the income year corresponding to the tax year after the surplus credit year equal to an amount calculated using the formula— policyholder remaining credit ÷ policyholder rate.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) policyholder remaining credit is the amount of the tax credit remaining for the surplus credit year under section LA 5(4), but only to the extent to which the amount is for the life insurer's policyholder base:
 

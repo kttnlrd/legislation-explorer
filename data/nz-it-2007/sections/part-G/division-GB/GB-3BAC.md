@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) tax loss components of a company are carried forward under section IB 3(2) (When tax loss components of companies carried forward despite ownership continuity breach) to a tax year; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Treatment of company**
 
-**(2)**  The company is treated as having incurred the amount of expenditure or loss—
+**(2)** The company is treated as having incurred the amount of expenditure or loss—
 
 - (a) in the course of carrying on a business for the purpose of deriving assessable income; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Treatment of other person**
 
-**(3)**  The person referred to in subsection (1)﻿(d) that is not the company is treated as not having incurred the amount of expenditure or loss.
+**(3)** The person referred to in subsection (1)﻿(d) that is not the company is treated as not having incurred the amount of expenditure or loss.
 
 *Defined in this Act: amount, arrangement, assessable income, associated person, business, company, deduction, income year, loss, tax avoidance, tax loss component, tax year*
 

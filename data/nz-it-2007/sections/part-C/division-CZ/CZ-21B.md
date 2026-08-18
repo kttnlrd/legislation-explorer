@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person—
+**(1)** This section applies when a person—
 
 - (a) derives an amount from a foreign superannuation scheme as a withdrawal other than a pension or annuity, or applies for the withdrawal of such an amount, in the period beginning on 1 January 2000 and ending with 31 March 2014; and
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Amount of income**
 
-**(2)**  The person is treated as deriving, in the return year, from the omitted withdrawals an amount of assessable income (the withdrawal income) equal to 15% of the total amount of the omitted withdrawals.
+**(2)** The person is treated as deriving, in the return year, from the omitted withdrawals an amount of assessable income (the withdrawal income) equal to 15% of the total amount of the omitted withdrawals.
 
 **Tax on omitted withdrawal**
 
-**(3)**  The amount of the liability of the person for income tax (the withdrawal tax liability) arising from the omitted withdrawals is the difference between the person's income tax liability for the return year, with the withdrawal income included in the person's assessable income for that year, and the income tax liability that the person would have for the return year if the withdrawal income were not included in the person's assessable income for that year.
+**(3)** The amount of the liability of the person for income tax (the withdrawal tax liability) arising from the omitted withdrawals is the difference between the person's income tax liability for the return year, with the withdrawal income included in the person's assessable income for that year, and the income tax liability that the person would have for the return year if the withdrawal income were not included in the person's assessable income for that year.
 
 **Relationship with law otherwise applicable to withdrawal and interest in scheme**
 
-**(4)**  This section overrides—
+**(4)** This section overrides—
 
 - (a) section CF 3 (Withdrawals from foreign superannuation scheme):
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)**  This section sets out the persons eligible to choose under section HF 11 to become a Maori authority.
+**(1)** This section sets out the persons eligible to choose under section HF 11 to become a Maori authority.
 
 **Companies**
 
-**(2)**  The following are eligible to make an election:
+**(2)** The following are eligible to make an election:
 
 - (a) a company established by an order made under Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993):
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Trusts**
 
-**(3)**  The following are eligible to make an election:
+**(3)** The following are eligible to make an election:
 
 - (a) the trustees of a trust established by an order made under Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993):
 
@@ -54,23 +54,23 @@ compilation_date: 2026-06-06
 
 **Maori Trustee**
 
-**(4)**  The Maori Trustee in the Maori Trustee's capacity as an agent for an owner of land that is subject to Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993) is eligible to make an election.
+**(4)** The Maori Trustee in the Maori Trustee's capacity as an agent for an owner of land that is subject to Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993) is eligible to make an election.
 
 **Maori Trust Board**
 
-**(5)**  A Maori Trust Board, as defined in section 2 of the Maori Trust Boards Act 1955, is eligible to make an election.
+**(5)** A Maori Trust Board, as defined in section 2 of the Maori Trust Boards Act 1955, is eligible to make an election.
 
 **Crown Forestry Rental Trust**
 
-**(6)**  The Crown Forestry Rental Trust, established by deed in accordance with section 34 of the Crown Forest Assets Act 1989, is eligible to make an election.
+**(6)** The Crown Forestry Rental Trust, established by deed in accordance with section 34 of the Crown Forest Assets Act 1989, is eligible to make an election.
 
 **Te Ohu Kai Moana Trustee Limited**
 
-**(7)**  Te Ohu Kai Moana Trustee Limited, established under section 33 of the Maori Fisheries Act 2004, is eligible to make an election.
+**(7)** Te Ohu Kai Moana Trustee Limited, established under section 33 of the Maori Fisheries Act 2004, is eligible to make an election.
 
 **Aotearoa Fisheries Limited**
 
-**(8)**  Aotearoa Fisheries Limited, established under section 60 of the Maori Fisheries Act 2004, is eligible to make an election.
+**(8)** Aotearoa Fisheries Limited, established under section 60 of the Maori Fisheries Act 2004, is eligible to make an election.
 
 *Defined in this Act: agent, company, Maori authority, trustee*
 

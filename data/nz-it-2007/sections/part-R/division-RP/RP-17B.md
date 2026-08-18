@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  A tax pooling account means a trust account into which a tax pooling intermediary pays an amount that they receive from a person in their role as intermediary.
+**(1)** A tax pooling account means a trust account into which a tax pooling intermediary pays an amount that they receive from a person in their role as intermediary.
 
 **Use of funds in tax pooling accounts**
 
-**(2)**  An amount held in a tax pooling account on behalf of a person may be refunded, transferred, sold, or used to satisfy a person's liability for—
+**(2)** An amount held in a tax pooling account on behalf of a person may be refunded, transferred, sold, or used to satisfy a person's liability for—
 
 - (a) provisional tax other than under the AIM method:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **When original liability increased**
 
-**(3)**  For the purposes of this section, an increased amount of tax—
+**(3)** For the purposes of this section, an increased amount of tax—
 
 - (a) arises when a person's previous assessed liability is increased after—
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **Transfers for provisional tax or terminal tax**
 
-**(4)**  A person who chooses to use funds in a tax pooling account to satisfy an obligation for provisional tax (other than under the AIM method) for a tax year, terminal tax for a tax year, or interest under Part 7 of the Tax Administration Act 1994 on the provisional tax or terminal tax may ask the tax pooling intermediary to arrange the transfer of an amount to their tax account with the Commissioner as follows:
+**(4)** A person who chooses to use funds in a tax pooling account to satisfy an obligation for provisional tax (other than under the AIM method) for a tax year, terminal tax for a tax year, or interest under Part 7 of the Tax Administration Act 1994 on the provisional tax or terminal tax may ask the tax pooling intermediary to arrange the transfer of an amount to their tax account with the Commissioner as follows:
 
 - (a) on a day that—
 
@@ -92,15 +92,15 @@ compilation_date: 2026-06-06
 
 **Transfer within 60 days for increased amounts and use of money interest**
 
-**(5)**  If a person chooses to use funds in a tax pooling account to satisfy an obligation for an increased amount of tax as described in subsection (3)﻿(a) to (ac), or for interest under Part 7 of the Tax Administration Act 1994 on the increased amount of tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the Commissioner issues the notice of assessment increasing the amount to transfer the amount to the person's tax account with the Commissioner.
+**(5)** If a person chooses to use funds in a tax pooling account to satisfy an obligation for an increased amount of tax as described in subsection (3)﻿(a) to (ac), or for interest under Part 7 of the Tax Administration Act 1994 on the increased amount of tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the Commissioner issues the notice of assessment increasing the amount to transfer the amount to the person's tax account with the Commissioner.
 
 **Transfer within 60 days for deferrable tax, agreed delay tax, and use of money interest**
 
-**(6)**  If a person chooses to use funds in a tax pooling account to satisfy an obligation for deferrable tax under subsection (3)﻿(b), for agreed delay tax referred to in subsection (3)﻿(bb), or for interest under Part 7 of the Tax Administration Act 1994 on deferrable tax or agreed delay tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the court proceedings are finally determined to transfer the amount to the person's tax account with the Commissioner. For the purposes of this subsection, court proceedings include proceedings before the Taxation Review Authority.
+**(6)** If a person chooses to use funds in a tax pooling account to satisfy an obligation for deferrable tax under subsection (3)﻿(b), for agreed delay tax referred to in subsection (3)﻿(bb), or for interest under Part 7 of the Tax Administration Act 1994 on deferrable tax or agreed delay tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the court proceedings are finally determined to transfer the amount to the person's tax account with the Commissioner. For the purposes of this subsection, court proceedings include proceedings before the Taxation Review Authority.
 
 **Maximum amount of transfer**
 
-**(7)**  The maximum amount that a person may ask a tax pooling intermediary to transfer to meet an obligation to pay tax is—
+**(7)** The maximum amount that a person may ask a tax pooling intermediary to transfer to meet an obligation to pay tax is—
 
 - (a) for a transfer under subsection (4)﻿(a) or (b), the total of—
 
@@ -124,7 +124,7 @@ compilation_date: 2026-06-06
 
 **Extended meaning for increased amount of tax and deferrable tax**
 
-**(8)**  For the purposes of sections RP 17 to RP 21, an increased amount of tax or deferrable tax includes an amount relating to—
+**(8)** For the purposes of sections RP 17 to RP 21, an increased amount of tax or deferrable tax includes an amount relating to—
 
 - (a) tax paid or payable under the PAYE rules, ESCT rules, RSCT rules, RWT rules, or NRWT rules:
 
@@ -132,7 +132,7 @@ compilation_date: 2026-06-06
 
 **When funds may be used to meet new liability for tax or interest**
 
-**(12)**  Subsection (13) applies when—
+**(12)** Subsection (13) applies when—
 
 - (a) a person is liable for an increased amount of a tax in a category referred to in subsection (14), or of interest under Part 7 of the Tax Administration Act 1994 (the Part 7 interest) on an increase in the amount of such a tax; and
 
@@ -152,11 +152,11 @@ compilation_date: 2026-06-06
 
 **Commissioner's discretion to allow use of funds to meet new liability**
 
-**(13)**  On application by the person, the Commissioner may notify the person that the person may use funds in a tax pooling account to meet the new liability, if the Commissioner is satisfied that the new liability did not arise as a result of a choice by the person not to comply with the person's obligations under the Inland Revenue Acts or as a result of a failure by the person to take reasonable care to comply with those obligations.
+**(13)** On application by the person, the Commissioner may notify the person that the person may use funds in a tax pooling account to meet the new liability, if the Commissioner is satisfied that the new liability did not arise as a result of a choice by the person not to comply with the person's obligations under the Inland Revenue Acts or as a result of a failure by the person to take reasonable care to comply with those obligations.
 
 **Categories of tax that may be included in new liability**
 
-**(14)**  The categories of tax that may be included in a new liability for the purposes of subsection (12) are—
+**(14)** The categories of tax that may be included in a new liability for the purposes of subsection (12) are—
 
 - (aa) approved issuer levy:
 

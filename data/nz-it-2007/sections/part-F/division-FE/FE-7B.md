@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Who this section applies to**
 
-**(1)**  This section applies for a project to an excess debt entity that—
+**(1)** This section applies for a project to an excess debt entity that—
 
 - (a) is a person meeting the requirements of section FE 2(1)﻿(b), (c), (e), or (f); and
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Debt percentages for public project debt**
 
-**(2)**  Debt percentages relating to the excess debt entity and the public project debt are determined under this subpart as if—
+**(2)** Debt percentages relating to the excess debt entity and the public project debt are determined under this subpart as if—
 
 - (a) the excess debt entity has no debt other than the public project debt for the project, no assets other than the public project assets for the project and assets used in performing the project, and no non-debt liabilities other than non-debt liabilities that relate to the project; and
 
@@ -30,11 +30,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(3)**  If the debt percentage of the excess debt entity's New Zealand group exceeds the threshold debt percentage given by section FE 5(1), the excess debt entity is treated as deriving an amount of income under section CH 10B (Interest apportionment: public project debt) that is calculated, treating the value of a fraction with a zero denominator as being zero, using the formula— (unrestricted interest × unrestricted excess ÷ unrestricted debt) + (member interest × member excess ÷ member debt).
+**(3)** If the debt percentage of the excess debt entity's New Zealand group exceeds the threshold debt percentage given by section FE 5(1), the excess debt entity is treated as deriving an amount of income under section CH 10B (Interest apportionment: public project debt) that is calculated, treating the value of a fraction with a zero denominator as being zero, using the formula— (unrestricted interest × unrestricted excess ÷ unrestricted debt) + (member interest × member excess ÷ member debt).
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) unrestricted interest is the amount of interest expenditure incurred by the excess debt entity from the amount of public project debt referred to in the item unrestricted debt:
 
@@ -62,11 +62,11 @@ compilation_date: 2026-06-06
 
 **Public projects treated separately**
 
-**(5)**  This section applies separately to each project of an excess debt entity for which the excess debt entity has public project debt.
+**(5)** This section applies separately to each project of an excess debt entity for which the excess debt entity has public project debt.
 
 **Public project debt, interest, assets, and non-debt liabilities, excluded for other applications**
 
-**(6)**  Public project debt, interest on public project debt, public project assets and other assets, and non-debt liabilities, taken into account in the application of this section to an excess debt entity for a project are excluded from the debt, interest, assets, and non-debt liabilities, of the excess debt entity taken into account in the apportionment of interest expenditure for another project or under another section of this subpart.
+**(6)** Public project debt, interest on public project debt, public project assets and other assets, and non-debt liabilities, taken into account in the application of this section to an excess debt entity for a project are excluded from the debt, interest, assets, and non-debt liabilities, of the excess debt entity taken into account in the apportionment of interest expenditure for another project or under another section of this subpart.
 
 *Defined in this Act: amount, company, excess debt entity, excess debt outbound company, income, income year, interest, public project asset, public project debt, public project participant debt*
 

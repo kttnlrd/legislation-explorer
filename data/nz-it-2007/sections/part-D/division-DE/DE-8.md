@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Meaning of logbook term**
 
-**(1)**  A logbook term is a period to which the proportion of business use of a motor vehicle established by the logbook applies. The term lasts up to 3 years and starts and ends as described in subsections (2) and (3).
+**(1)** A logbook term is a period to which the proportion of business use of a motor vehicle established by the logbook applies. The term lasts up to 3 years and starts and ends as described in subsections (2) and (3).
 
 **Start of term**
 
-**(2)**  A logbook term starts on the date that is the latest of the following days:
+**(2)** A logbook term starts on the date that is the latest of the following days:
 
 - (a) the first day of the income year in which a person starts to keep a logbook:
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **End of term**
 
-**(3)**  The logbook term ends on the date that is the earliest of the following days:
+**(3)** The logbook term ends on the date that is the earliest of the following days:
 
 - (a) the day that a person disposes of the motor vehicle without replacing it:
 

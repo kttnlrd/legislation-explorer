@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for the purposes of sections HB 4 to HB 10 (which relate to transfers of interests) when a look-through interest for a look-through company is transferred on a settlement of relationship property.
+**(1)** This section applies for the purposes of sections HB 4 to HB 10 (which relate to transfers of interests) when a look-through interest for a look-through company is transferred on a settlement of relationship property.
 
 **Transferee treated as holding interest**
 
-**(2)**  The transferee is treated as having acquired the look-through interest on the date it was acquired by the transferor, and to have held it at all times up to the date of transfer.
+**(2)** The transferee is treated as having acquired the look-through interest on the date it was acquired by the transferor, and to have held it at all times up to the date of transfer.
 
 *Defined in this Act: date of transfer, look-through company, look-through interest, settlement of relationship property*
 

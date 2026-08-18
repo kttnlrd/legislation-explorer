@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Amount subtracted: losses not from elective attributing CFCs or elective attributing FIFs**
 
-**(1)**  The total amount of attributed CFC net loss and FIF net loss, relating to a CFC or FIF (the loss entity) resident in the jurisdiction when the loss arises and not an elective attributing CFC or elective attributing FIF, that is subtracted from the person's net income for the tax year is the lesser of—
+**(1)** The total amount of attributed CFC net loss and FIF net loss, relating to a CFC or FIF (the loss entity) resident in the jurisdiction when the loss arises and not an elective attributing CFC or elective attributing FIF, that is subtracted from the person's net income for the tax year is the lesser of—
 
 - (a) the total amount of attributed CFC income, and FIF income calculated under the attributable FIF income method or branch equivalent method, that the person derives in the tax year in relation to a CFC or FIF that is resident in the jurisdiction for the accounting period corresponding to the tax year:
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 **Income only once**
 
-**(2)**  In subsection (1), the person may take into account an amount of attributed CFC income or FIF income only to the extent to which they have not accounted for it in—
+**(2)** In subsection (1), the person may take into account an amount of attributed CFC income or FIF income only to the extent to which they have not accounted for it in—
 
 - (a) calculating a deduction under sections DN 4 or DN 8 (which relate to ring-fencing caps); or
 
@@ -78,7 +78,7 @@ compilation_date: 2026-06-06
 
 **Treatment of excess**
 
-**(3)**  If the person cannot use all of the maximum amount referred to in subsection (1) because there is insufficient net income, the surplus is no longer available to them as a CFC net loss, but becomes a tax loss component under section IA 2(4) (Tax losses).
+**(3)** If the person cannot use all of the maximum amount referred to in subsection (1) because there is insufficient net income, the surplus is no longer available to them as a CFC net loss, but becomes a tax loss component under section IA 2(4) (Tax losses).
 
 *Defined in this Act: amount, attributable FIF income method, attributed CFC income, attributed CFC net loss, branch equivalent method, CFC, company, deduction, elective attributing CFC, elective attributing FIF, FIF, FIF income, FIF net loss, income year, net income, tax loss component, tax year*
 

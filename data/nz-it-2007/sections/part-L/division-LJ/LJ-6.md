@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person who is a beneficiary of a trust and resident in New Zealand derives a taxable distribution in their capacity as beneficiary of the trust.
+**(1)** This section applies when a person who is a beneficiary of a trust and resident in New Zealand derives a taxable distribution in their capacity as beneficiary of the trust.
 
 **When credit not allowed**
 
-**(2)**  The person is not allowed a tax credit in relation to any foreign income tax paid on the taxable distribution unless the tax has substantially the same nature as non-resident withholding tax (NRWT).
+**(2)** The person is not allowed a tax credit in relation to any foreign income tax paid on the taxable distribution unless the tax has substantially the same nature as non-resident withholding tax (NRWT).
 
 **Amount of credit**
 
-**(3)**  The person's tax credit is equal to an amount calculated using the formula— (person's taxable distribution ÷ total distribution) × foreign tax paid.
+**(3)** The person's tax credit is equal to an amount calculated using the formula— (person's taxable distribution ÷ total distribution) × foreign tax paid.
 
 **Definition of items in formula**
 
-**(4)**  In the formula,—
+**(4)** In the formula,—
 
 - (a) person's taxable distribution is the amount of the taxable distribution derived by the person in their capacity as beneficiary of the trust, including a payment of tax that meets the requirements of subsection (2):
 

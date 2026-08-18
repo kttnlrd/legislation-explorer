@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person is required to withhold and pay to the Commissioner an amount of resident withholding tax (RWT) or non-resident withholding tax (NRWT), and the amount is more than the amount required to be paid under this Part.
+**(1)** This section applies when a person is required to withhold and pay to the Commissioner an amount of resident withholding tax (RWT) or non-resident withholding tax (NRWT), and the amount is more than the amount required to be paid under this Part.
 
 **Refund to person deriving payment or person withholding amount**
 
-**(2)**  The Commissioner must refund the amount of the overpayment to—
+**(2)** The Commissioner must refund the amount of the overpayment to—
 
 - (a) the person who derives the payment from which the amount of tax was withheld; or
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When subsections (4) and (5) apply**
 
-**(3)**  Subsections (4) and (5) apply when—
+**(3)** Subsections (4) and (5) apply when—
 
 - (a) a holder of an attributing interest in a FIF receives a distribution from which an amount of tax for resident passive income has been withheld; and
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Certain FIF income: application by holder**
 
-**(4)**  The holder may apply for a refund if—
+**(4)** The holder may apply for a refund if—
 
 - (a) they apply before the next 31 March after the date on which the amount was withheld, with supporting information to show that the threshold referred to in section CQ 5(1)﻿(d) (When FIF income arises) has been exceeded for their corresponding income year; and
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Certain FIF income: application by payer**
 
-**(5)**  The person making the distribution may apply for a refund if—
+**(5)** The person making the distribution may apply for a refund if—
 
 - (a) they apply before the next 31 March after the date on which the amount was withheld, with supporting information to show the payment has been made to the holder without any subtraction permitted by section RA 12(5) and (6) (Adjustment to correct errors: certain excess amounts); and
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Use of refund**
 
-**(6)**  An amount of a refund paid under subsection (4) or (5) may be used under section RM 10 to satisfy a liability under the Inland Revenue Acts.
+**(6)** An amount of a refund paid under subsection (4) or (5) may be used under section RM 10 to satisfy a liability under the Inland Revenue Acts.
 
 *Defined in this Act: amount, amount of tax, apply, attributing interest, Commissioner, corresponding income year, FIF, Inland Revenue Acts, investment income information, notify, NRWT, pay, resident passive income, RWT*
 

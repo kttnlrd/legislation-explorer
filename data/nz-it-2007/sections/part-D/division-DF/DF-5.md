@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a public authority makes a payment (the funding payment) to a person for expenditure incurred in a project if—
+**(1)** This section applies when a public authority makes a payment (the funding payment) to a person for expenditure incurred in a project if—
 
 - (a) the funding payment is not in the nature of a grant or subsidy; and
 
@@ -26,15 +26,15 @@ compilation_date: 2026-06-06
 
 **No deduction for expenditure**
 
-**(2)**  The person is denied, to the extent of the amount of the funding payment, the deduction for the expenditure that would be allowed in the absence of this section.
+**(2)** The person is denied, to the extent of the amount of the funding payment, the deduction for the expenditure that would be allowed in the absence of this section.
 
 **Deduction for payments to public authority**
 
-**(3)**  The person is allowed a deduction for the amount of a payment (the return payment) made to the public authority to the extent to which the return payment is required by the arrangement under which the funding payment is made.
+**(3)** The person is allowed a deduction for the amount of a payment (the return payment) made to the public authority to the extent to which the return payment is required by the arrangement under which the funding payment is made.
 
 **Links with subpart DA**
 
-**(4)**  In this section—
+**(4)** In this section—
 
 - (a) subsection (2) overrides the general permission; and
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Business travel expenditure**
 
-**(1)**  The limitation rule does not apply to a deduction for expenditure on food or drink consumed by a person while travelling in the course of business or for their employment duties. However, the limitation rule applies if—
+**(1)** The limitation rule does not apply to a deduction for expenditure on food or drink consumed by a person while travelling in the course of business or for their employment duties. However, the limitation rule applies if—
 
 - (a) the travel is mainly for the purpose of enjoying entertainment; or
 
@@ -22,11 +22,11 @@ compilation_date: 2026-06-06
 
 **Conference expenditure**
 
-**(2)**  The limitation rule does not apply to a deduction for expenditure on light refreshments at a conference or educational course or similar event, nor to food or drink consumed at such an event lasting for at least 4 consecutive hours, excluding meal times. However, the limitation rule applies if the event is mainly for the purpose of entertainment.
+**(2)** The limitation rule does not apply to a deduction for expenditure on light refreshments at a conference or educational course or similar event, nor to food or drink consumed at such an event lasting for at least 4 consecutive hours, excluding meal times. However, the limitation rule applies if the event is mainly for the purpose of entertainment.
 
 **Relocation expenses, employees' meals, and sustenance allowances**
 
-**(3)**  The limitation rule does not apply to a deduction for expenditure on—
+**(3)** The limitation rule does not apply to a deduction for expenditure on—
 
 - (a) an amount that is exempt income of an employee under sections CW 17B, CW 17C, and CW 17CB (which relate to relocation expenses and expenditure on meals):
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Timing of deduction**
 
-**(1)**  A deduction for interest payable by a person to the Commissioner under Part 7 of the Tax Administration Act 1994 is allocated to the income year in which the person pays the interest.
+**(1)** A deduction for interest payable by a person to the Commissioner under Part 7 of the Tax Administration Act 1994 is allocated to the income year in which the person pays the interest.
 
 *Defined in this Act: Commissioner, deduction, income year, pay*
 

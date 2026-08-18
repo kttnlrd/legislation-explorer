@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(1)**  Income that is interest payable by the Commissioner to a person under Part 7 of the Tax Administration Act 1994 is allocated to the income year in which the Commissioner pays the interest.
+**(1)** Income that is interest payable by the Commissioner to a person under Part 7 of the Tax Administration Act 1994 is allocated to the income year in which the Commissioner pays the interest.
 
 *Defined in this Act: Commissioner, income, income year, interest, pay*
 

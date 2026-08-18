@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Accounts**
 
-**(1)**  A Maori authority must maintain a Maori authority credit account for a tax year. The account is a record of Maori authority credits and Maori authority debits that arise in the account during the tax year. Subsection (2) overrides this subsection.
+**(1)** A Maori authority must maintain a Maori authority credit account for a tax year. The account is a record of Maori authority credits and Maori authority debits that arise in the account during the tax year. Subsection (2) overrides this subsection.
 
 **Exclusion**
 
-**(2)**  Subsection (1) does not apply for a period in which—
+**(2)** Subsection (1) does not apply for a period in which—
 
 - (a) the constitution or rules of the Maori authority prohibit a distribution of any kind to a member; or
 
@@ -24,15 +24,15 @@ compilation_date: 2026-06-06
 
 **Credits**
 
-**(3)**  Credits include an amount of income tax paid during a tax year and an imputation credit attached to a dividend derived by the Maori authority.
+**(3)** Credits include an amount of income tax paid during a tax year and an imputation credit attached to a dividend derived by the Maori authority.
 
 **Debits**
 
-**(4)**  Debits may include a refund of income tax and a Maori authority credit attached to a taxable Maori authority distribution paid by the Maori authority.
+**(4)** Debits may include a refund of income tax and a Maori authority credit attached to a taxable Maori authority distribution paid by the Maori authority.
 
 **General rules**
 
-**(5)**  The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to Maori authority credit accounts.
+**(5)** The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to Maori authority credit accounts.
 
 *Defined in this Act: amount, dividend, exempt income, imputation credit, income tax, Maori authority, Maori authority credit, Maori authority credit account, Maori authority debit, member, memorandum account, pay, tax year, taxable Maori authority distribution*
 

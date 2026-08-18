@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)**  The consideration that a mineral miner derives from disposing of a mineral mining asset is income of the mineral miner.
+**(1)** The consideration that a mineral miner derives from disposing of a mineral mining asset is income of the mineral miner.
 
 **Relationship with section CX 43**
 
-**(2)**  This section is overridden by section CX 43 (Farm-out arrangements for mining operations).
+**(2)** This section is overridden by section CX 43 (Farm-out arrangements for mining operations).
 
 *Defined in this Act: income, mineral miner, mineral mining asset*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when—
+**(1)** This section applies when—
 
 - (a) an amount of money lent is outstanding at the end of the lender's current income year; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Increase treated as credited**
 
-**(2)**  If the difference is an increase, the increase is treated as having been credited in account and capitalised by the borrower for the benefit of the lender on— This subsection is overridden by subsection (3).
+**(2)** If the difference is an increase, the increase is treated as having been credited in account and capitalised by the borrower for the benefit of the lender on— This subsection is overridden by subsection (3).
 
 - (a) the day following the day on which the level of the relevant index at the end of the lender's current income year becomes public knowledge; or
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Increase not treated as credited**
 
-**(3)**  An increase is not treated as having been credited to the extent to which—
+**(3)** An increase is not treated as having been credited to the extent to which—
 
 - (a) the money lent has been repaid:
 

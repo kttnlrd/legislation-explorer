@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Meaning**
 
-**(1)**  A schedular payment—
+**(1)** A schedular payment—
 
 - (a) means—
 
@@ -42,11 +42,11 @@ compilation_date: 2026-06-06
 
 **Protected payments**
 
-**(2)**  The fact that a schedular payment may be protected against assignment or charge does not override a person's obligation to withhold the amount of tax for the payment.
+**(2)** The fact that a schedular payment may be protected against assignment or charge does not override a person's obligation to withhold the amount of tax for the payment.
 
 **Determination of expenditure incurred**
 
-**(3)**  The Commissioner may determine from time to time the amount or proportion of expenditure that a person incurs in deriving a particular schedular payment or class of schedular payments.
+**(3)** The Commissioner may determine from time to time the amount or proportion of expenditure that a person incurs in deriving a particular schedular payment or class of schedular payments.
 
 *Defined in this Act: agricultural, horticultural, or viticultural company, amount, amount of tax, Commissioner, company, contract activity or service, contract payment, double tax agreement, exempt income, extra pay, local authority, Maori authority, New Zealand, non-resident, non-resident contractor, non-resident entertainer, non-resident visitor, pay, public authority, salary or wages, schedular payment, unrepaid PAYE income overpayment*
 

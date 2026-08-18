@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for calculating the amount of an instalment by way of tax credit under section ME 1 (Minimum family tax credit) for the period starting on 1 April 2021 and finishing on 30 June 2021.
+**(1)** This section applies for calculating the amount of an instalment by way of tax credit under section ME 1 (Minimum family tax credit) for the period starting on 1 April 2021 and finishing on 30 June 2021.
 
 **Minimum family tax credit formula: section ME 1**
 
-**(2)**  The instalments for the tax credit under section ME 1 are calculated using the formula— (prescribed amount − net family scheme income) × weekly periods ÷ 52.
+**(2)** The instalments for the tax credit under section ME 1 are calculated using the formula— (prescribed amount − net family scheme income) × weekly periods ÷ 52.
 
 **Definition of items in formula**
 
-**(3)**  In the formula,—
+**(3)** In the formula,—
 
 - (a) prescribed amount is $30,576:
 

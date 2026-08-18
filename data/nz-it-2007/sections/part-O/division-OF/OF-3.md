@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Election**
 
-**(1)**  A company may choose to become an ASC account company if—
+**(1)** A company may choose to become an ASC account company if—
 
 - (a) it is a public unit trust or a group investment fund that derives category A income; and
 
@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Notifying Commissioner**
 
-**(2)**  A company that makes an election under subsection (1) must notify the Commissioner of the election no later than the day on which the company is required to file a return of income for the tax year that corresponds to the income year in which the election is made.
+**(2)** A company that makes an election under subsection (1) must notify the Commissioner of the election no later than the day on which the company is required to file a return of income for the tax year that corresponds to the income year in which the election is made.
 
 **Effect of election**
 
-**(3)**  An ASC account company must maintain the ASC account referred to in section OF 1(2) from the day the company chooses to become an ASC account company.
+**(3)** An ASC account company must maintain the ASC account referred to in section OF 1(2) from the day the company chooses to become an ASC account company.
 
 *Defined in this Act: ASC account company, category A income, Commissioner, company, group investment fund, income year, notify, public unit trust, return of income, share, tax year*
 

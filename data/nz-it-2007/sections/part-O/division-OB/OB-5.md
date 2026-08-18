@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  An ICA company has an imputation credit for an amount provided by it and paid by an intermediary into a tax pooling account.
+**(1)** An ICA company has an imputation credit for an amount provided by it and paid by an intermediary into a tax pooling account.
 
 **Table reference**
 
-**(2)**  The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 3 (deposit in tax pooling account).
+**(2)** The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 3 (deposit in tax pooling account).
 
 **Credit date**
 
-**(3)**  The credit date is the day the amount is deposited.
+**(3)** The credit date is the day the amount is deposited.
 
 *Defined in this Act: amount, ICA company, imputation credit, imputation credit account, intermediary, pay, tax pooling account*
 

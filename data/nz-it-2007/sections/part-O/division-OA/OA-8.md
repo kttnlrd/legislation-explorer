@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a company or a consolidated group maintains a memorandum account.
+**(1)** This section applies when a company or a consolidated group maintains a memorandum account.
 
 **Shareholder continuity requirement**
 
-**(2)**  An amount that is a credit in the account may be carried forward from a credit date to a later time only if the company or consolidated group that has the credit maintains a 66% continuity of shareholding under subsection (7) from the credit date to the later time. Subsections (3B) to (5) override this subsection.
+**(2)** An amount that is a credit in the account may be carried forward from a credit date to a later time only if the company or consolidated group that has the credit maintains a 66% continuity of shareholding under subsection (7) from the credit date to the later time. Subsections (3B) to (5) override this subsection.
 
 **Continuity**
 
-**(3)**  A credit is treated as continuing to exist to the extent to which it is not reduced by an earlier or later debit arising in the account.
+**(3)** A credit is treated as continuing to exist to the extent to which it is not reduced by an earlier or later debit arising in the account.
 
 **Exclusions: qualifying companies**
 
@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **Exclusion: ASC accounts**
 
-**(4)**  Subsection (2) does not apply to a person who maintains an ASC account.
+**(4)** Subsection (2) does not apply to a person who maintains an ASC account.
 
 **When continuity lost**
 
-**(6)**  For a memorandum account and for a company or consolidated group that maintains the account when the continuity of shareholding required by subsection (7) is lost, a debit arises under the relevant section in each subpart only to the extent to which an unused amount of credit remains in the memorandum account. The relevant sections are—
+**(6)** For a memorandum account and for a company or consolidated group that maintains the account when the continuity of shareholding required by subsection (7) is lost, a debit arises under the relevant section in each subpart only to the extent to which an unused amount of credit remains in the memorandum account. The relevant sections are—
 
 - (a) section OB 41 (ICA debit for loss of shareholder continuity):
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Shareholder continuity requirement**
 
-**(7)**  The shareholder continuity requirement is that, while some or all of the credit still exists, a group of persons must continue to hold—
+**(7)** The shareholder continuity requirement is that, while some or all of the credit still exists, a group of persons must continue to hold—
 
 - (a) aggregate minimum voting interests in a company or consolidated group of at least 66%; and
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Modifications**
 
-**(8)**  The following rules apply for the purposes of subsection (7):
+**(8)** The following rules apply for the purposes of subsection (7):
 
 - (a) the minimum interest referred to in subsection (7)﻿(a) or (b) of a person must be counted if their interests change after the credit arises; and
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a trustee of an estate of a deceased person receives an amount in an income year that is not income that the person derived during their lifetime, but would have been included in the person's income had they been alive when it was received.
+**(1)** This section applies when a trustee of an estate of a deceased person receives an amount in an income year that is not income that the person derived during their lifetime, but would have been included in the person's income had they been alive when it was received.
 
 **Reportable income received within 28 days after person's death**
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)**  An amount not treated as being derived by the person under subsection (1B) is treated under section CV 12 (Trustees: amounts received after person's death) as income derived by the trustee in the income year.
+**(2)** An amount not treated as being derived by the person under subsection (1B) is treated under section CV 12 (Trustees: amounts received after person's death) as income derived by the trustee in the income year.
 
 *Defined in this Act: amount, income, income year, reportable income, trustee*
 

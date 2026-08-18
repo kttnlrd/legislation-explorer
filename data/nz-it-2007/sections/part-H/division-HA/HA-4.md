@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Becoming and continuing as qualifying company**
 
-**(1)**  The requirements of sections HA 5 to HA 9 are preconditions of, and ongoing conditions for, qualifying companies. For a company to become and to continue as a qualifying company, the requirements of those sections must be met.
+**(1)** The requirements of sections HA 5 to HA 9 are preconditions of, and ongoing conditions for, qualifying companies. For a company to become and to continue as a qualifying company, the requirements of those sections must be met.
 
 **Losing status**
 
-**(2)**  Section HA 11 applies in relation to a failure to maintain the requirements and avoidance arrangements.
+**(2)** Section HA 11 applies in relation to a failure to maintain the requirements and avoidance arrangements.
 
 **Avoidance**
 
-**(3)**  Section GB 6 (Arrangements involving qualifying companies) may apply to treat a company as not being a qualifying company.
+**(3)** Section GB 6 (Arrangements involving qualifying companies) may apply to treat a company as not being a qualifying company.
 
 *Defined in this Act: arrangement, company, qualifying company*
 

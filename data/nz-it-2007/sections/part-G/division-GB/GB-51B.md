@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when there is an increase or decrease in a value that affects, or would affect, the result of a calculation (the affected calculation) under subpart FE (Interest apportionment on thin capitalisation) and the increase or decrease is—
+**(1)** This section applies when there is an increase or decrease in a value that affects, or would affect, the result of a calculation (the affected calculation) under subpart FE (Interest apportionment on thin capitalisation) and the increase or decrease is—
 
 - (a) caused by an action or omission that has, or would have, a purpose or effect of defeating the intent and application of subpart FE:
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Increase or decrease excluded from calculation**
 
-**(2)**  The effect on the affected calculation of the increase or decrease in the value is disregarded for the purposes of subpart FE.
+**(2)** The effect on the affected calculation of the increase or decrease in the value is disregarded for the purposes of subpart FE.
 
 *Defined in this Act: arrangement, income year*
 

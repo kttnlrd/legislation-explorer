@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies for a person and an income year (the current year) before the 2028–29 income year when—
+**(1)** This section applies for a person and an income year (the current year) before the 2028–29 income year when—
 
 - (a) the person has an income-earning activity in New Zealand immediately before a North Island flooding event; and
 
@@ -26,15 +26,15 @@ compilation_date: 2026-06-06
 
 **Deduction for interruption expenditure**
 
-**(2)**  The person is allowed a deduction for the interruption expenditure.
+**(2)** The person is allowed a deduction for the interruption expenditure.
 
 **Timing of deduction**
 
-**(3)**  The deduction is allocated to the resumption year.
+**(3)** The deduction is allocated to the resumption year.
 
 **Link with subpart DA**
 
-**(4)**  This section supplements the general permission. The general limitations still apply.
+**(4)** This section supplements the general permission. The general limitations still apply.
 
 *Defined in this Act: deduction, general limitation, general permission, income year, loss, New Zealand, North Island flooding events, supplement*
 

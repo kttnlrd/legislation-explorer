@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Value to lessor**
 
-**(1)**  For a lessor under a finance lease, the amount of the loan is determined under section EW 32 (Consideration for agreement for sale and purchase of property or services, hire purchase agreement, specified option, or finance lease).
+**(1)** For a lessor under a finance lease, the amount of the loan is determined under section EW 32 (Consideration for agreement for sale and purchase of property or services, hire purchase agreement, specified option, or finance lease).
 
 **Value to lessee**
 
-**(2)**  For a lessee under a finance lease, the amount of the loan is determined under sections EW 32 and EW 33 (which relate to the value of consideration under the financial arrangements rules).
+**(2)** For a lessee under a finance lease, the amount of the loan is determined under sections EW 32 and EW 33 (which relate to the value of consideration under the financial arrangements rules).
 
 *Defined in this Act: amount, finance lease, lessee, lessor*
 

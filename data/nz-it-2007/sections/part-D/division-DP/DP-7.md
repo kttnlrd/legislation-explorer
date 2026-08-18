@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **No deduction**
 
-**(1)**  A person who derives income under section CB 24 (Disposal of timber or right to take timber) or CB 25 (Disposal of land with standing timber) is denied a deduction for expenditure that they incur on land contouring in the course of deriving the income.
+**(1)** A person who derives income under section CB 24 (Disposal of timber or right to take timber) or CB 25 (Disposal of land with standing timber) is denied a deduction for expenditure that they incur on land contouring in the course of deriving the income.
 
 **Link with subpart DA**
 
-**(2)**  This section overrides the general permission.
+**(2)** This section overrides the general permission.
 
 *Defined in this Act: deduction, general permission, income*
 

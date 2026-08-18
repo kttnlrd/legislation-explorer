@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Election to be Australian ICA company**
 
-**(1)**  A company that is resident in Australia may choose, by notifying the Commissioner, to be obliged to establish and maintain an imputation credit account.
+**(1)** A company that is resident in Australia may choose, by notifying the Commissioner, to be obliged to establish and maintain an imputation credit account.
 
 **Ineligibility**
 
-**(2)**  Despite meeting the residency requirements, a company is not eligible to make an election referred to in subsection (1) if—
+**(2)** Despite meeting the residency requirements, a company is not eligible to make an election referred to in subsection (1) if—
 
 - (a) the company—
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **When electing company becomes Australian ICA company**
 
-**(3)**  A company making an election under subsection (1) must maintain an imputation credit account from the following date, as applicable:
+**(3)** A company making an election under subsection (1) must maintain an imputation credit account from the following date, as applicable:
 
 - (a) the first day of the tax year in which the Commissioner is notified:
 
@@ -46,19 +46,19 @@ compilation_date: 2026-06-06
 
 **Joint and several liability**
 
-**(4)**  A company that is part of the same wholly-owned group of companies as an Australian ICA company may have joint and several liability with the Australian ICA company for further income tax, civil penalties, and interest under Part 7 of the Tax Administration Act 1994 imposed on the Australian ICA company for a breach by the Australian ICA company of the imputation rules.
+**(4)** A company that is part of the same wholly-owned group of companies as an Australian ICA company may have joint and several liability with the Australian ICA company for further income tax, civil penalties, and interest under Part 7 of the Tax Administration Act 1994 imposed on the Australian ICA company for a breach by the Australian ICA company of the imputation rules.
 
 **Exclusion**
 
-**(5)**  Despite subsection (4), no joint and several liability arises if the Australian ICA company is prohibited by an independent regulatory body from being subject to the liability.
+**(5)** Despite subsection (4), no joint and several liability arises if the Australian ICA company is prohibited by an independent regulatory body from being subject to the liability.
 
 **Dividend in Australian currency**
 
-**(6)**  An Australian ICA company that pays a dividend in Australian currency must make a currency conversion under section OB 60(6).
+**(6)** An Australian ICA company that pays a dividend in Australian currency must make a currency conversion under section OB 60(6).
 
 **How status ends**
 
-**(7)**  A company ends its status as an Australian ICA company if—
+**(7)** A company ends its status as an Australian ICA company if—
 
 - (a) the company ceases to be resident in Australia or meets a requirement of subsection (2)﻿(a) or (b); or
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **When status ends**
 
-**(8)**  For the purposes of subsection (7), the company ends its status as an Australian ICA company—
+**(8)** For the purposes of subsection (7), the company ends its status as an Australian ICA company—
 
 - (a) from the day on which the relevant circumstance of ineligibility in subsection (2) applies; or
 
@@ -84,7 +84,7 @@ compilation_date: 2026-06-06
 
 **Outstanding obligations**
 
-**(9)**  A company that stops being an Australian ICA company for a tax year must nevertheless satisfy all obligations that the company had as an Australian ICA company.
+**(9)** A company that stops being an Australian ICA company for a tax year must nevertheless satisfy all obligations that the company had as an Australian ICA company.
 
 *Defined in this Act: Australian ICA company, Commissioner, company, dividend, double tax agreement, imputation credit account, imputation rules, income, New Zealand, notice, notify, pay, resident in Australia, resident in New Zealand, tax year, wholly-owned group of companies*
 

@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(1)**  An amount of income derived by a community housing entity is exempt income.
+**(1)** An amount of income derived by a community housing entity is exempt income.
 
 **Definition**
 
-**(2)**  In this section and section LD 3 (Meaning of charitable or other public benefit gift), community housing entity means a trustee or company (the entity) whose activities involve the provision of housing or housing assistance (the activities), and—
+**(2)** In this section and section LD 3 (Meaning of charitable or other public benefit gift), community housing entity means a trustee or company (the entity) whose activities involve the provision of housing or housing assistance (the activities), and—
 
 - (aa) the entity is a registered community housing provider under the Public and Community Housing Management Act 1992; and
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Definition: exception**
 
-**(3)**  Despite subsection (2), community housing entity does not include a trustee or company (the entity) if—
+**(3)** Despite subsection (2), community housing entity does not include a trustee or company (the entity) if—
 
 - (a) more than 15% of the people who become beneficiaries or clients of the entity on a date that is or is after 14 April 2014 have, on that date, income or assets exceeding a value (the entry threshold) set out in schedule 34 (Community housing trusts and companies: income and assets of beneficiaries and clients) that is relevant to the beneficiary or client:
 
@@ -48,15 +48,15 @@ compilation_date: 2026-06-06
 
 **Control over activities**
 
-**(4)**  For the purposes of subsection (2)﻿(c), for an income year, a person is treated as having some control over the activities, and as being able to direct or divert amounts from the activities if, in the tax year, they are described in section CW 42(5)﻿(a) and (b) and (6) (Charities: business income).
+**(4)** For the purposes of subsection (2)﻿(c), for an income year, a person is treated as having some control over the activities, and as being able to direct or divert amounts from the activities if, in the tax year, they are described in section CW 42(5)﻿(a) and (b) and (6) (Charities: business income).
 
 **No control**
 
-**(5)**  For the purposes of subsection (2)﻿(c), a person described in section CW 42(7)﻿(a) and (b) is not treated as having some control merely because of the factors in section CW 42(7)﻿(a) and (b).
+**(5)** For the purposes of subsection (2)﻿(c), a person described in section CW 42(7)﻿(a) and (b) is not treated as having some control merely because of the factors in section CW 42(7)﻿(a) and (b).
 
 **Benefit or advantage**
 
-**(6)**  For the purposes of subsection (2)﻿(c), a benefit or advantage to a person includes a benefit or advantage included under section CW 42(8).
+**(6)** For the purposes of subsection (2)﻿(c), a benefit or advantage to a person includes a benefit or advantage included under section CW 42(8).
 
 *Defined in this Act: amount, charitable purpose, community housing entity, exempt income, income, income year, tax charity*
 

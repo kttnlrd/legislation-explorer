@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies to a shareholder in a company in relation to an off-market cancellation of shares by the company under section CD 22 (Returns of capital: off-market share cancellations) when—
+**(1)** This section applies to a shareholder in a company in relation to an off-market cancellation of shares by the company under section CD 22 (Returns of capital: off-market share cancellations) when—
 
 - (a) the shareholder holds the share as revenue account property; and
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **When whole amount treated as dividend**
 
-**(2)**  If the whole of the amount that the shareholder receives for the cancellation is treated as a dividend, the following paragraphs apply:
+**(2)** If the whole of the amount that the shareholder receives for the cancellation is treated as a dividend, the following paragraphs apply:
 
 - (a) the shareholder is not regarded as having disposed of the cancelled share, except for the purpose of determining whether they have derived a dividend; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Below market value of shares**
 
-**(3)**  If subsection (2) does not apply, and the amount paid by the company is less than the market value of the shares at the time when notice is first given of the cancellation either by the shareholder or the company, the following paragraphs apply:
+**(3)** If subsection (2) does not apply, and the amount paid by the company is less than the market value of the shares at the time when notice is first given of the cancellation either by the shareholder or the company, the following paragraphs apply:
 
 - (a) an amount calculated using the formula in subsection (4) is added to the cost of the shareholder's remaining shares of the same class under subsection (6); and
 
@@ -38,11 +38,11 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(4)**  The formula referred to in subsection (3)﻿(a) is— share cost − (cost pre-cancellation × amount from cancellation ÷ market value).
+**(4)** The formula referred to in subsection (3)﻿(a) is— share cost − (cost pre-cancellation × amount from cancellation ÷ market value).
 
 **Definition of items in formula**
 
-**(5)**  In the formula,—
+**(5)** In the formula,—
 
 - (a) share cost is the cost of the cancelled share to the shareholder:
 
@@ -54,11 +54,11 @@ compilation_date: 2026-06-06
 
 **When subsection (7) applies**
 
-**(6)**  Subsection (7) applies at a time after the cancellation when the cost of the remaining shares is taken into account under subpart EB (Valuation of trading stock (including dealer's livestock)), or otherwise.
+**(6)** Subsection (7) applies at a time after the cancellation when the cost of the remaining shares is taken into account under subpart EB (Valuation of trading stock (including dealer's livestock)), or otherwise.
 
 **Adding amount to cost of shares**
 
-**(7)**  The amount referred to in subsection (2)﻿(b) or (3)﻿(a) must be fairly divided among, and added to, the cost of the shareholder's remaining shares of the same class.
+**(7)** The amount referred to in subsection (2)﻿(b) or (3)﻿(a) must be fairly divided among, and added to, the cost of the shareholder's remaining shares of the same class.
 
 *Defined in this Act: amount, company, deduction, dividend, market value, notice, off-market cancellation, revenue account property, share, shareholder, shares of the same class, trading stock*
 

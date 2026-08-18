@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies when a person's deposits for an accounting year are more than their main maximum deposit for the accounting year.
+**(1)** This section applies when a person's deposits for an accounting year are more than their main maximum deposit for the accounting year.
 
 **Refund**
 
-**(2)**  The Commissioner must refund the excess to the person as soon as practicable after the date the deposit ends.
+**(2)** The Commissioner must refund the excess to the person as soon as practicable after the date the deposit ends.
 
 *Defined in this Act: accounting year, Commissioner, date the deposit ends, deposit, main maximum deposit, person*
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Shareholder base income**
 
-**(1)**  A life insurer has shareholder base income,—
+**(1)** A life insurer has shareholder base income,—
 
 - (a) for policies that are not profit participation policies, under section EY 19: see also subsection (3), for reserves:
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Shareholder base allowable deductions**
 
-**(2)**  A life insurer has shareholder base allowable deductions,—
+**(2)** A life insurer has shareholder base allowable deductions,—
 
 - (a) for policies that are not profit participation policies, under section EY 20: see also subsection (3), for reserves:
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Reserves**
 
-**(3)**  Under sections EY 23 to EY 27, a life insurer calculates reserving amounts for life insurance policies, other than annuities, that have a life risk component and are not profit participation policies. A reserving amount may be income included in their shareholder base income, or a deduction that is included in their shareholder base allowable deduction, as provided by the relevant sections.
+**(3)** Under sections EY 23 to EY 27, a life insurer calculates reserving amounts for life insurance policies, other than annuities, that have a life risk component and are not profit participation policies. A reserving amount may be income included in their shareholder base income, or a deduction that is included in their shareholder base allowable deduction, as provided by the relevant sections.
 
 *Defined in this Act: deduction, life insurance, life insurance policy, life insurer, life risk, profit participation policy, savings product policy, shareholder base allowable deduction, shareholder base income*
 

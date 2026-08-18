@@ -12,15 +12,15 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)**  A Maori authority has a Maori authority credit for a payment of income tax or provisional tax, or for an amount of excess tax transferred under section 173L of the Tax Administration Act 1994. Subsection (3) overrides this subsection.
+**(1)** A Maori authority has a Maori authority credit for a payment of income tax or provisional tax, or for an amount of excess tax transferred under section 173L of the Tax Administration Act 1994. Subsection (3) overrides this subsection.
 
 **Table reference**
 
-**(2)**  The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 2 (provisional tax and income tax paid), row 2B (transfer under section 173L of the Tax Administration Act 1994), row 2C (transfer under section 173L of the Tax Administration Act 1994), and row 2D (transfer under section 173L of the Tax Administration Act 1994).
+**(2)** The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 2 (provisional tax and income tax paid), row 2B (transfer under section 173L of the Tax Administration Act 1994), row 2C (transfer under section 173L of the Tax Administration Act 1994), and row 2D (transfer under section 173L of the Tax Administration Act 1994).
 
 **No credit**
 
-**(3)**  No credit under subsection (1) arises for—
+**(3)** No credit under subsection (1) arises for—
 
 - (a) income tax paid for a tax year before the 2004–05 tax year; or
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Credit date**
 
-**(4)**  The credit date is—
+**(4)** The credit date is—
 
 - (a) for a payment of income tax or provisional tax, the day on which the tax is paid; or
 

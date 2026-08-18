@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)**  This section applies in an income year (the year of change) when a person changes from—
+**(1)** This section applies in an income year (the year of change) when a person changes from—
 
 - (a) a cash accounting method to an accrual accounting method of calculating their income tax liability; or
 
@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **From cash to accrual accounting method**
 
-**(2)**  If subsection (1)﻿(a) applies,—
+**(2)** If subsection (1)﻿(a) applies,—
 
 - (a) an amount owed to the person on the last day of the income year before the year of change is income of the person in the year of change; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **From accrual to cash accounting method**
 
-**(3)**  If subsection (1)﻿(b) applies,—
+**(3)** If subsection (1)﻿(b) applies,—
 
 - (a) an amount equal to the total of all amounts owing by the person in the year of change that have been allowed as a deduction in earlier income years is income of the person in the year of change; and
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Some definitions**
 
-**(4)**  In this section,— accrual accounting method means a method of accounting that is regarded as accrual accounting under generally accepted accounting practice cash accounting method means a method of accounting by which the income tax liability of a person is calculated by reference to cash receipts or outgoings.
+**(4)** In this section,— accrual accounting method means a method of accounting that is regarded as accrual accounting under generally accepted accounting practice cash accounting method means a method of accounting by which the income tax liability of a person is calculated by reference to cash receipts or outgoings.
 
 *Defined in this Act: accrual accounting method, amount, cash accounting method, deduction, generally accepted accounting practice, income, income tax liability, income year*
 
