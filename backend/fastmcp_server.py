@@ -19,6 +19,7 @@ from mcp.server.transport_security import TransportSecuritySettings
 from backend.config import DATA_DIR, TREATIES_DIR
 from backend.mcp_token_manager import token_manager
 from backend.routes.api import VERSION, CHANGELOG
+from backend.services.graph_alias import lookup as alias_lookup
 from backend.services.data_loader import (
     load_tree,
     load_rulings,
@@ -473,7 +474,22 @@ async def resolve_alias(reference: str) -> str:
                 "resolved_by": "unhyphenated_section_pattern",
             }, indent=2)
 
-    # -- Step 3: Fallback to full-text search --
+    # -- Step 3: Entity alias map (21,548 LLM-mapped refs, e.g. "FBTAA section 49",
+    #    "Glenn v Federal Commissioner of Land Tax") — verified against graph.db --
+    try:
+        key = alias_lookup(ref)
+        if key:
+            return json.dumps({
+                "reference": ref,
+                "graph_key": key,
+                "resolved_by": "entity_alias_map",
+                "note": "Resolved via entity alias map (pipeline.entity_backstop). "
+                        "Use graph_neighbourhood for the node's context block.",
+            }, indent=2)
+    except Exception:
+        pass
+
+    # -- Step 4: Fallback to full-text search --
     try:
         result = fts_search(ref, None, limit=5)
         hits = result.get("results", [])
@@ -1865,6 +1881,20 @@ async def report_issue(
     Returns:
         JSON with ticket, status, and duplicate_of keys.
     """
+    # ── guard: reject if nothing meaningful was provided ─────────────────────
+    has_content = any(
+        str(v).strip()
+        for v in (tool, note, expected, actual)
+        if v is not None
+    )
+    if params not in (None, "", {}, []):
+        has_content = True
+    if not has_content:
+        return json.dumps({
+            "error": "report_issue requires at least one of tool, params, expected, actual, note",
+            "ticket": None,
+            "status": "rejected",
+        })
     # ── compute param_hash (includes note to avoid hash collision) ────────
     raw_hash = ""
     if tool:
@@ -1978,6 +2008,125 @@ async def list_issues(
             "tool": tool,
         },
     }, indent=2)
+
+
+@mcp.tool()
+async def graph_neighbourhood(key: str, depth: int = 1) -> str:
+    """Return the graph context block for a node (graph spec §6.2).
+
+    Gives an LLM the compact neighbourhood of any graph node without
+    fetching full document text: per-edge-type counts + top exemplars.
+
+    Args:
+        key:    canonical graph key, e.g. "section:itaa-1997:118-110",
+                "public_ruling:TR 2025/1", "case:[2015] HCA 48",
+                "private_ruling:EV/1052514149928", "commentary:MTG:ch12".
+                Accepts the resolved_by graph_key from resolve_alias.
+        depth:  1 = node neighbourhood (~80 tokens); 2 = + aggregated
+                neighbourhood-of-neighbourhood (<=400 tokens). Default 1.
+
+    Returns:
+        JSON {key, label, depth, tokens, text} where `text` is the
+        token-lean block (header + lines like "INTERPRETED_BY: 4 rulings
+        (TR 2025/1 | TD 2024/2)"). Unknown keys return an error object.
+    """
+    if depth not in (1, 2):
+        return json.dumps({"error": "depth must be 1 or 2"}, indent=2)
+    from backend.services.graph_serialize import serialize as _serialize
+
+    out = _serialize(key, depth=depth)
+    if out is None:
+        return json.dumps({
+            "error": f"unknown graph key: {key}",
+            "hint": "Try resolve_alias first, or /api/graph/data on the REST API.",
+        }, indent=2)
+    return json.dumps(out, indent=2)
+
+
+@mcp.tool()
+async def graph_path(from_key: str, to_key: str, max_hops: int = 10) -> str:
+    """Find the shortest path between two graph nodes (graph spec §6.3).
+
+    Answers "how does this connect to that?" — e.g. the chain of
+    rulings/cases/commentary linking a private ruling to a High Court case.
+
+    Args:
+        from_key: canonical graph key, e.g. "private_ruling:EV/1052514149928".
+        to_key:   canonical graph key, e.g. "case:[1986] HCA 45".
+        max_hops: hop cap (1-20, default 10).
+
+    Returns:
+        JSON {from, to, hops, path, edges} — path is the ordered node list
+        (key + label per hop), edges give the typed connection per hop.
+        Unreachable pairs return path: null with a reason.
+    """
+    import sqlite3 as _sqlite3
+    from pathlib import Path as _Path
+
+    from backend.services.graph_path import (
+        FRONTIER_CAP,
+        FrontierExceeded,
+        find_path as _find_path,
+    )
+
+    max_hops = max(1, min(int(max_hops), 20))
+    graph_db = _Path(__file__).resolve().parents[1] / "data" / "graph.db"
+    conn = _sqlite3.connect(str(graph_db))
+    try:
+        def _resolve(k: str) -> int | None:
+            row = conn.execute("SELECT id FROM nodes WHERE key=?", (k,)).fetchone()
+            if row is None:
+                row = conn.execute(
+                    "SELECT id FROM nodes WHERE lower(key)=?", (k.lower(),)).fetchone()
+            return row[0] if row else None
+
+        f_id = _resolve(from_key)
+        t_id = _resolve(to_key)
+        if f_id is None or t_id is None:
+            missing = from_key if f_id is None else to_key
+            return json.dumps({
+                "error": f"unknown graph key: {missing}",
+                "hint": "Try resolve_alias first, or /api/graph/data on the REST API.",
+            }, indent=2)
+
+        try:
+            path, hops = _find_path(conn, f_id, t_id, max_hops=max_hops)
+        except FrontierExceeded as exc:
+            return json.dumps({
+                "from": from_key, "to": to_key, "path": None, "hops": None,
+                "reason": f"frontier exceeded {exc} nodes at a level (cap {FRONTIER_CAP})",
+            }, indent=2)
+
+        if path is None:
+            return json.dumps({
+                "from": from_key, "to": to_key, "path": None, "hops": None,
+                "reason": f"no path within {max_hops} hops",
+            }, indent=2)
+
+        ids = [nid for nid, _ in path]
+        meta: dict[int, tuple[str, str]] = {}
+        if ids:
+            ph = ",".join("?" * len(ids))
+            meta = {r[0]: (r[1], r[2]) for r in conn.execute(
+                f"SELECT id, key, label FROM nodes WHERE id IN ({ph})", ids).fetchall()}
+
+        return json.dumps({
+            "from": from_key,
+            "to": to_key,
+            "hops": hops,
+            "path": [
+                {"key": meta.get(nid, (None, str(nid)))[0],
+                 "label": meta.get(nid, (None, str(nid)))[1]}
+                for nid in ids
+            ],
+            "edges": [
+                {"type": et, "from": i, "to": i + 1}
+                for i, (_, et) in enumerate(path[1:], start=0)
+                if et is not None
+            ],
+        }, indent=2)
+    finally:
+        conn.close()
 
 
 
