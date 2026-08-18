@@ -57,7 +57,10 @@ PR_JSON = Path.home() / ".hermes" / "private_rulings" / "data" / "json"
 
 # ── Artifact patterns ────────────────────────────────────────────────────────
 HTML_ENTITY_RE = re.compile(r"&(?:bull|#\d{2,4}|amp|nbsp|ldquo|rdquo|lsquo|rsquo|mdash|ndash|copy|sect|hellip|times);", re.I)
-JS_CHROME_RE = re.compile(r"GoogleAnalytics|function\s*\(\s*i\s*,\s*s\s*,\s*o\s*,\s*g|bazadebezolkohpepadr|dataLayer|window\.", re.I)
+JS_CHROME_RE = re.compile(
+    r"GoogleAnalytics|function\s*\(\s*i\s*,\s*s\s*,\s*o\s*,\s*g|bazadebezolkohpepadr|dataLayer|"
+    r"window\.(?:dataLayer|ga\b|google|jQuery|onload|addEventListener|performance)", re.I
+)
 PAGE_HEADER_RE = re.compile(
     r"^(?:Income Tax Assessment Act 1997\s+\d+|Authorised Version C\d+|"
     r"Compilation No\.\s+\d+|Prepared by the Office of Parliamentary Counsel|"
