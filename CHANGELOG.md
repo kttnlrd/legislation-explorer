@@ -1,3 +1,27 @@
+# Changelog
+
+## 3.0.1 — 18 Aug 2026
+
+**Bugs fixed**
+- **CDN-0118** — s 83A-45 ITAA 1997 truncated mid-(3)(c)(iii), subsections (4)–(6) missing. Recovered full subsections (1)–(7) via TOC-dump truncation repair (190 files affected corpus-wide; 14 sections restored).
+- **CDN-0119** — `[2026] HCA 18` bench reported as unanimous single set of reasons; corrected to actual 5:2 split with judges/dissent/bench_size.
+- **CDN-0120** — cases_cited year-collision: `[1961] HCA 18` resolved to "Bendel [2026] HCA 18" because name resolution matched court + judgment number while ignoring year. Join corrected.
+- **CDN-0123** — `list_rulings` returned the entire ruling text in the `title` field. Rulings corpus chrome-stripped (11,930 files) + titles backfilled; PR 2014/6 returns clean title + metadata.
+
+**Data integrity pass** (all four domains, gate re-run clean)
+- Sections: duplicate anchors suffixed (4,458 collisions / 609 files), TOC-dump truncation repaired, 438 junk cleanups, verifier false-positive on "Meaning of X" titles fixed.
+- Rulings: JS analytics + HTML entities stripped; citation lines preserved.
+- Cases: 7,359 titles backfilled from `case_name`; error-stubs treated as honest records.
+- Private rulings: already clean (57,608 JSONs, 0 critical).
+- 0.0% critical error rate across 97,183 records; baseline diff mode (`--baseline`) added.
+
+**New features**
+- `PATCH /api/issues/{id}` — update issue status (open/known/fixed) and note; sets `fixed` timestamp on transition to fixed. Previously no update path existed (405).
+
+**Verified**
+- Integrity gate: 4/4 domains pass, 0 critical, 1,554 sampled (seed 42).
+- Endpoint sweep: 9/9 healthy; `type=private-rulings` returns 5 PRs citing 106-60; 83A-45 returns subsections 1–7.
+
 ## 3.0 — 18 Aug 2026
 
 **New features**

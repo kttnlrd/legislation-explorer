@@ -56,6 +56,55 @@ def list_issues(status: str | None = None):
     return {"issues": rows, "total": len(rows)}
 
 
+@router.patch("/api/issues/{issue_id}")
+def update_issue(
+    issue_id: int,
+    status: str | None = Body(None),
+    note: str | None = Body(None),
+):
+    """Update an issue's status and/or note.
+
+    Body:
+      status: open | known | fixed
+      note: replacement note.
+    """
+    valid = {"open", "known", "fixed"}
+    if status is not None and status not in valid:
+        raise HTTPException(
+            status_code=422,
+            detail=f"status must be one of {sorted(valid)}",
+        )
+
+    existing = _sql_dict(
+        ["id", "status", "note"],
+        f"SELECT id, status, note FROM issues WHERE id = {int(issue_id)}",
+    )
+    if not existing:
+        raise HTTPException(status_code=404, detail="Issue not found")
+    row = existing[0]
+
+    sets = []
+    if status is not None:
+        sets.append(f"status = {_esc(status)}")
+        if status == "fixed" and row.get("status") != "fixed":
+            sets.append("fixed = NOW()::text")
+    if note is not None:
+        sets.append(f"note = {_esc(note)}")
+
+    if not sets:
+        raise HTTPException(status_code=422, detail="Nothing to update")
+
+    _sql_write(
+        f"UPDATE issues SET {', '.join(sets)} WHERE id = {int(issue_id)}"
+    )
+    updated = _sql_dict(
+        ["id", "ticket", "status", "note", "fixed"],
+        f"SELECT id, ticket, status, LEFT(COALESCE(note, ''), 200)::text, fixed "
+        f"FROM issues WHERE id = {int(issue_id)}",
+    )[0]
+    return updated
+
+
 @router.post("/api/issues")
 def create_issue(
     category: str = "bug",

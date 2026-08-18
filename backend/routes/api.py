@@ -46,7 +46,7 @@ router.include_router(treaties_router)
 router.include_router(workflows_router)
 
 
-VERSION = "3.0"
+VERSION = "3.0.1"
 
 CHANGELOG = [
     {
