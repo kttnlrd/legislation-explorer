@@ -1,28 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2006/174
-==================================================
-
-Goods and Services Tax
- Refund of GST when supply cancelled after deregistering entity for GST from 1 July 2006
- FOI status: may be released
-
-This ATO ID is withdrawn as it is a simple statement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Must the Commissioner refund to the entity, a supplier that is no longer registered for goods and services tax (GST), the amount of GST the entity remitted to the Tax Office for a supply when:
-
-•the supply was cancelled after the entity ceased to be registered for GST, and
-•the entity refunded the full amount that it received to the unregistered customer?
-
-Decision
+================================================== Goods and Services Tax Refund of GST when supply cancelled after deregistering entity for GST from 1 July 2006 FOI status: may be released This ATO ID is withdrawn as it is a simple statement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Must the Commissioner refund to the entity, a supplier that is no longer registered for goods and services tax (GST), the amount of GST the entity remitted to the Tax Office for a supply when: •the supply was cancelled after the entity ceased to be registered for GST, and
+•the entity refunded the full amount that it received to the unregistered customer? Decision
 Yes, under section 8AAZLF of the Taxation Administration Act 1953 (TAA) the Commissioner must refund the amount of GST to the entity provided that there are no other taxation liabilities against which it will be off-set and provided that the making of the refund is not restricted under section 105-65 in Schedule 1 to the TAA.
 Facts
 The entity is a supplier that is no longer registered for GST. In its concluding tax period, the entity entered into an agreement to make a supply to a customer. The entity issued an invoice for the supply (which included an amount in respect of GST) and received payment from the customer. In accordance with section 29-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), the entity attributed the GST on this supply to that tax period.
@@ -33,59 +14,10 @@ As the entity is no longer registered for GST when the supply is cancelled, it n
 Although the entity cannot make an adjustment under Division 19 of the GST Act, the net amount for the entity's concluding tax period is overstated. Section 9-40 of the GST Act states that you must pay the GST payable on any taxable supply that you make. As the entity's supply was cancelled by the customer, there is no supply from which a GST liability, under section 9-40 of the GST Act, arises.
 Therefore, to rectify this position, the entity can revise its business activity statement (BAS) for its concluding tax period to take into account the fact that this supply was never made. When the entity lodges the revised BAS, the revision will be reflected in its running balance account (RBA).
 Under section 8AAZLF in Division 3A of the TAA, the Commissioner must refund to an entity so much of an RBA surplus, or credit in the entity's favour that the Commissioner does not allocate or apply under Division 3 of the TAA.
-However, subsection 105-65(1) in Schedule 1 to the TAA provides that, in certain circumstances, the Commissioner need not give an entity a refund, or apply the amount under Division 3 or 3A of the TAA unless:
-
-•the Commissioner is satisfied that the entity has reimbursed a corresponding amount to the recipient of the supply, and
-•the recipient is neither registered nor required to be registered.
-
-The entity refunded the total amount invoiced (including the GST component) to the customer and the customer is neither registered nor required to be registered for GST. Therefore, there is no restriction on the refund under subsection 105-65(1) in Schedule 1 to the TAA.
-As such, provided that there are no other taxation liabilities against which it will be off-set, the Commissioner must refund the amount of GST for the cancelled supply to the entity under section 8AAZLF of the TAA.
-
-Note: if an entity has not refunded the amount of GST to the recipient of the supply, or the recipient is registered for GST, refer to Law Administration Practice Statement PS LA 2002/12 which outlines when the Commissioner may allow a refund.
-
-Date of decision:
-  5 July 2006
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-40   Division 19   section 29-5
-Taxation Administration Act 1953   Division 3   Division 3A   section 8AAZLF   Schedule 1 subsection 105-65(1)
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2005/332
-
-Other References:
-
-Law Administration Practice Statement PS LA 2002/12
-
-Keywords
-
-Goods and services tax
- GST refunds
- GST returns, payments & refunds
-
-Business Line:
-  GST
-
-Date of publication:
-  21 July 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 July 2006
-Original statement
-
-You are here
+However, subsection 105-65(1) in Schedule 1 to the TAA provides that, in certain circumstances, the Commissioner need not give an entity a refund, or apply the amount under Division 3 or 3A of the TAA unless: •the Commissioner is satisfied that the entity has reimbursed a corresponding amount to the recipient of the supply, and
+•the recipient is neither registered nor required to be registered. The entity refunded the total amount invoiced (including the GST component) to the customer and the customer is neither registered nor required to be registered for GST. Therefore, there is no restriction on the refund under subsection 105-65(1) in Schedule 1 to the TAA.
+As such, provided that there are no other taxation liabilities against which it will be off-set, the Commissioner must refund the amount of GST for the cancelled supply to the entity under section 8AAZLF of the TAA. Note: if an entity has not refunded the amount of GST to the recipient of the supply, or the recipient is registered for GST, refer to Law Administration Practice Statement PS LA 2002/12 which outlines when the Commissioner may allow a refund. Date of decision: 5 July 2006 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-40 Division 19 section 29-5
+Taxation Administration Act 1953 Division 3 Division 3A section 8AAZLF Schedule 1 subsection 105-65(1) ATO Interpretative Decisions overturned by this decision ATO ID 2005/332 Other References: Law Administration Practice Statement PS LA 2002/12 Keywords Goods and services tax GST refunds GST returns, payments & refunds Business Line: GST Date of publication: 21 July 2006 ISSN: 1445-2782 history Date: Version: 5 July 2006
+Original statement You are here
 20 July 2007
 Archived

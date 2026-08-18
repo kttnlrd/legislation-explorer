@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/225
-==================================================
-
-Income Tax
- Fixed trust - foreign resident beneficiary - capital gain disregarded when CGT event for fixed trust estate happens prior to 21 March 2005
- FOI status: may be released
-
-This ATO ID is withdrawn as section 768-605 of the Income Tax Assessment Act 1997 has been repealed by Act 168 of 2006 effective in respect of CGT events that happen on or after 12 December 2006. This repeal was undertaken in conjunction with the implementation of Division 855 of the Income Tax Assessment Act 1997 (capital gains and foreign residents).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Fixed trust - foreign resident beneficiary - capital gain disregarded when CGT event for fixed trust estate happens prior to 21 March 2005 FOI status: may be released This ATO ID is withdrawn as section 768-605 of the Income Tax Assessment Act 1997 has been repealed by Act 168 of 2006 effective in respect of CGT events that happen on or after 12 December 2006. This repeal was undertaken in conjunction with the implementation of Division 855 of the Income Tax Assessment Act 1997 (capital gains and foreign residents). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 768-605(2) of the Income Tax Assessment Act 1997 (ITAA 1997) disregard a capital gain made in the 2004-05 income year, by a foreign resident beneficiary in respect of their interest in a fixed trust estate, where the underlying CGT event happened before 21 March 2005 to a CGT asset of the trust estate which does not have the necessary connection with Australia?
 Decision
 Yes, provided the fixed trust estate's year of income ends on or after 21 March 2005. Subsection 768-605(2) of the ITAA 1997 applies to beneficiary capital gains made on or after 21 March 2005 that are attributable to CGT events happening to CGT assets of the fixed trust estate which do not have the necessary connection with Australia.
@@ -27,70 +12,17 @@ Subdivision 115-C of the ITAA 1997 treats the beneficiary as having a capital ga
 The net capital gain of the fixed trust estate for the year of income ending on or after 21 March 2005 included a capital gain made before 21 March 2005 from a CGT event happening to a CGT asset which did not have the necessary connection with Australia.
 Reasons for Decision
 The New International Tax Arrangements (Managed Funds and Other Measures) Act 2005 provides that subsection 768-605(2) of the ITAA 1997 applies to capital gains made on or after the day on which the Act receives Royal Assent. The Act received Royal Assent on 21 March 2005.
-Subsection 768-605(2) of the ITAA 1997 states:
-
-A *capital gain you make in respect of your interest in a *fixed trust estate is disregarded if:
-
-(a)you are a foreign resident when you make the gain; and
+Subsection 768-605(2) of the ITAA 1997 states: A *capital gain you make in respect of your interest in a *fixed trust estate is disregarded if: (a)you are a foreign resident when you make the gain; and
 (b)the gain is attributable to a *CGT event happening to a *CGT asset of that trust estate or of another fixed trust estate in which that trust estate has an interest (directly, or indirectly through a *chain of fixed trust estates); and
-(c)either:
-
-(i)the asset does not have the *necessary connection with Australia at the time of the CGT event; or
-(ii)the asset is an interest in a fixed trust estate and the conditions in section 768-610 are satisfied.
-
-Note:
-
-Section 115-215 treats a portion of a trust estate's capital gain as a capital gain made by a beneficiary, and applies the CGT discount to that portion as if the gain were made directly by the beneficiary
-
-Subsection 768-605(2) of the ITAA 1997 disregards a capital gain made by a foreign resident beneficiary in respect of their interest in a fixed trust estate. This provision applies to certain capital gains made by beneficiaries which are attributable to CGT events happening to CGT assets of a fixed trust estate. The 21 March 2005 start date in this provision applies to the capital gain made by the beneficiary of a fixed trust estate rather than the related capital gain of the fixed trust estate.
+(c)either: (i)the asset does not have the *necessary connection with Australia at the time of the CGT event; or
+(ii)the asset is an interest in a fixed trust estate and the conditions in section 768-610 are satisfied. Note: Section 115-215 treats a portion of a trust estate's capital gain as a capital gain made by a beneficiary, and applies the CGT discount to that portion as if the gain were made directly by the beneficiary Subsection 768-605(2) of the ITAA 1997 disregards a capital gain made by a foreign resident beneficiary in respect of their interest in a fixed trust estate. This provision applies to certain capital gains made by beneficiaries which are attributable to CGT events happening to CGT assets of a fixed trust estate. The 21 March 2005 start date in this provision applies to the capital gain made by the beneficiary of a fixed trust estate rather than the related capital gain of the fixed trust estate.
 The end of the income year of the fixed trust estate is the time that the beneficiary is treated as having capital gains under Subdivision 115-C of the ITAA 1997 to which the exemption provided by subsection 768-605(2) of the ITAA 1997 may apply.
 Section 115-215 of the ITAA 1997 includes in the assessable income of a beneficiary 'extra capital gains' in relation to the capital gains included in the net income of the trust estate.
 The net income of the trust estate calculated in accordance with section 95 of the ITAA 1936 is broadly the total assessable income of the trust estate for the income year less all allowable deductions for that income year. A net capital gain made by the trust estate may be included in net income. This amount can only be determined at the end of the income year. Accordingly, under section 115-215 of the ITAA 1997 a beneficiary is treated as having a capital gain at the end of the income year of the fixed trust estate.
 As subsection 768-605(2) of the ITAA 1997 applies to the foreign resident beneficiary's capital gain, and as this capital gain under subsection 115-215(3) of the ITAA 1997 arises at the end of the income year of the fixed trust estate, this capital gain is disregarded.
-Date of decision:
-  29 June 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 95
-Income Tax Assessment Act 1997   Division 102   Subdivision 115-C   section 115-215   subsection 115-215(3)   section 768-605   subsection 768-605(2)   section 768-610
-New International Tax Arrangements (Managed Funds and Other Measures) Act 2005   The Act
-
-Keywords
-
-Capital gains tax
- CGT trust distributions
- Extra capital gains
- Net income of a trust
- Non resident beneficiaries
- Trust beneficiaries
- Trust income
- Trusts
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  5 August 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-29 June 2005
-Original statement
-
-You are here
+Date of decision: 29 June 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 section 95
+Income Tax Assessment Act 1997 Division 102 Subdivision 115-C section 115-215 subsection 115-215(3) section 768-605 subsection 768-605(2) section 768-610
+New International Tax Arrangements (Managed Funds and Other Measures) Act 2005 The Act Keywords Capital gains tax CGT trust distributions Extra capital gains Net income of a trust Non resident beneficiaries Trust beneficiaries Trust income Trusts Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 5 August 2005 ISSN: 1445-2782 history Date: Version: 29 June 2005
+Original statement You are here
 15 January 2010
 Archived

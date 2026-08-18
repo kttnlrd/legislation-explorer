@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/334
-==================================================
-
-Income Tax
- Disposal of an investment by a subsidiary of an insurance company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Disposal of an investment by a subsidiary of an insurance company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the net profit on disposal of an asset held by a subsidiary of an insurance company included in its assessable under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The net profit from the disposal of the investment asset held by the subsidiary of the insurance company is not included in assessable income under section 6-5 of the ITAA 1997.
@@ -22,11 +11,7 @@ The parent company included the value of its shareholding in the subsidiary comp
 The illiquid nature of the investment was further supported by the accounting treatment that recognised the investment as long-term.
 After an extended period of participation in the joint venture the subsidiary received an offer to purchase its interest in the asset from one of the other joint venture participant. Because the terms contained in the joint venture agreement were restrictive it was unlikely that the asset could be disposed of to outside parties. Therefore, if the offer was rejected it would be some time before another opportunity for disposal would arise. Consequently it was decided that this provided a suitable opportunity to dispose of the asset.
 The disposal resulted in a net gain to the subsidiary which was used in part to repay its outstanding loan and pay a dividend to the parent company.
-Reasons for Decision
-
-Review of cases re profits on disposal by subsidiaries of insurance companies
-
-The net profit or loss on realisation of an investment by a subsidiary of an insurance company will be on revenue account if the subsidiary's activities are integral to the parent company's insurance business (GRE Insurance Limited v. Commissioner of Taxation (1992) 34 FCR 160; 92 ATC 4089; (1992) 23 ATR 88; Unitraders Investments Pty Limited v. FC of T 91 ATC 4454; (1991) 22 ATR 83 (GRE Unitraders)).
+Reasons for Decision Review of cases re profits on disposal by subsidiaries of insurance companies The net profit or loss on realisation of an investment by a subsidiary of an insurance company will be on revenue account if the subsidiary's activities are integral to the parent company's insurance business (GRE Insurance Limited v. Commissioner of Taxation (1992) 34 FCR 160; 92 ATC 4089; (1992) 23 ATR 88; Unitraders Investments Pty Limited v. FC of T 91 ATC 4454; (1991) 22 ATR 83 (GRE Unitraders)).
 However, in GRE Unitraders the Full Court of the Federal Court accepted as fact, that the subsidiary had been introduced to preserve the benefits of the rebate under former section 46 of the Income Tax Assessment Act 1936 (ITAA 1936). The activities of the subsidiary were therefore integral to the business of the parent insurance company, and the profit on disposal was assessable under section 25 of the ITAA 1936 (see now section 6-5 of the ITAA 1997).
 Unlike in GRE Unitraders, the taxpayer was not a special purpose company interposed for the purpose of preserving the section 46 rebate as the subsidiary did not hold any securities which yielded dividends.
 Other factors that may be crucial in determining the proper characterisation of the profit or loss on disposal are whether the funds made available to the subsidiary formed part of the parent company's circulating capital (or were surplus to its needs), and whether the inclusion of the subsidiary's assets, via its shareholding value, in the parent company's statutory solvency calculation is sufficient to taint the asset as integral to the parent's company's business of insurance.
@@ -41,66 +26,9 @@ In the present case, the parent insurance company had available capital that was
 The loan history reveals that at all times during the joint-venture involvement the subsidiary had an outstanding balance. Whilst the quantum of the loans fluctuated the repayments reflected the ability of the subsidiary to settle its obligations to its parent insurance company. At no time during the course of the joint venture was there a role reversal so that the parent company became a net borrower and the subsidiary the lender. Thus there is no evidence of the parent company having treated the assets of the subsidiary as readily available for its business of insurance.
 Woodward J in CMI Services continued, to explore the nature of the investments that had been acquired and found that because of the nature of the assets and the time needed to sell them made them impracticable to meet insurance claims.
 The subsidiary's investment in the asset was limited to an interest in an infrastructure project. By its nature, the asset was not readily realisable, firstly because of the nature of the asset, and secondly because of the terms contained in the joint venture. Whilst assets that are not easily realisable were held to be assessable in Australasian Catholic Assurance Co Limited v. Federal Commissioner of Taxation (1959) 100 CLR 502; (1959) 11 ATD 577; (1959) 7 AITR 440 that case can be distinguished as the investments were directly owned by an insurance company and not via a subsidiary.
-Another aspect that requires examination is the necessity that an insurance company maintain liquidity in order to conduct business. In AGC (Investments) Limited v. F C of T 92 ATC 4239; (1992) 23 ATR 287 the Full Court of the Federal Court examined liquidity and inferred that the liquidity of an insurance company could only be maintained by a regular turnover of easily realisable assets. This was also recognised in RAC Insurance when the Full Court of the Federal Court acknowledged that an asset acquired in the course of carrying on insurance business must 'be available for realisation as and when required'.
-
-Application of insurance subsidiary cases to the facts
-
-Having regard to the following factors:
-
-•the subsidiary's asset had been acquired demonstrably for the production of an income stream rather than for capital gain
+Another aspect that requires examination is the necessity that an insurance company maintain liquidity in order to conduct business. In AGC (Investments) Limited v. F C of T 92 ATC 4239; (1992) 23 ATR 287 the Full Court of the Federal Court examined liquidity and inferred that the liquidity of an insurance company could only be maintained by a regular turnover of easily realisable assets. This was also recognised in RAC Insurance when the Full Court of the Federal Court acknowledged that an asset acquired in the course of carrying on insurance business must 'be available for realisation as and when required'. Application of insurance subsidiary cases to the facts Having regard to the following factors: •the subsidiary's asset had been acquired demonstrably for the production of an income stream rather than for capital gain
 •there were significant restrictive covenants affecting the ready disposition of the subsidiary's asset; these supported the contention that the asset was not acquired with predominantly for the purpose of profit making by sale
 •the existence of the restrictive covenants prevented ready access by the parent company to the asset of the subsidiary company to support the business of insurance, and
-•in the event the insurance parent company required funds to meet its liabilities to policyholders, it would have relied on other realisable and more liquid assets. Although the parent insurance company's shareholding in the subsidiary (which reflected the value of the investment held by the subsidiary) may have added to its liquidity strength, there was no necessity that it be relied on to meet policyholders' liability
-
-the asset lacked the necessary connection to the business of insurance carried on by its parent insurance company to determine that it was held as part of that business. The profit made on disposition was therefore not assessable to the subsidiary under section 6-5 of the ITAA 1997. Rather, the subsidiary made a capital gain on the disposal.
-Date of decision:
-  8 November 2005
-
-Year of income:
-  Year ended 31 December 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5
-Income Tax Assessment Act 1936   section 46   section 25
-
-Case References:
-
-GRE Insurance Limited v. Commissioner of Taxation   (1992) 34 FCR 160   92 ATC 4089   (1992) 23 ATR 88
-
-Unitraders Investments Pty Limited v. FC of T   91 ATC 4454   (1991) 22 ATR 83
-
-RAC Insurance Pty Limited v. F C of T   90 ATC 4737   (1990) 21 ATR 709
-
-CMI Services v. F C of T    89 ATC 4847   (1989) 20 ATR 1152
-
-Australasian Catholic Assurance Co Limited v. Federal Commissioner of Taxation   (1959) 100 CLR 502   (1959) 11 ATD 577   (1959) 7 AITR 440
-
-AGC (Investments) Limited v. F C of T    91 ATC 4180   (1991) 21 ATR 1379
-
-AGC (Investments) Limited v. F C of T    92 ATC 4239   (1992) 23 ATR 287
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2276
-
-Keywords
-
-Insurance
- Insurance & insurance industry
- Life insurance company
- Disposal of assets
- Subsidiary companies
- Wholly owned subsidiary
-
-Siebel/TDMS Reference Number:
-  3153074
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 November 2005
-
-ISSN:
- 1445-2782
+•in the event the insurance parent company required funds to meet its liabilities to policyholders, it would have relied on other realisable and more liquid assets. Although the parent insurance company's shareholding in the subsidiary (which reflected the value of the investment held by the subsidiary) may have added to its liquidity strength, there was no necessity that it be relied on to meet policyholders' liability the asset lacked the necessary connection to the business of insurance carried on by its parent insurance company to determine that it was held as part of that business. The profit made on disposition was therefore not assessable to the subsidiary under section 6-5 of the ITAA 1997. Rather, the subsidiary made a capital gain on the disposal.
+Date of decision: 8 November 2005 Year of income: Year ended 31 December 2000 Legislative References: Income Tax Assessment Act 1997 section 6-5
+Income Tax Assessment Act 1936 section 46 section 25 Case References: GRE Insurance Limited v. Commissioner of Taxation (1992) 34 FCR 160 92 ATC 4089 (1992) 23 ATR 88 Unitraders Investments Pty Limited v. FC of T 91 ATC 4454 (1991) 22 ATR 83 RAC Insurance Pty Limited v. F C of T 90 ATC 4737 (1990) 21 ATR 709 CMI Services v. F C of T 89 ATC 4847 (1989) 20 ATR 1152 Australasian Catholic Assurance Co Limited v. Federal Commissioner of Taxation (1959) 100 CLR 502 (1959) 11 ATD 577 (1959) 7 AITR 440 AGC (Investments) Limited v. F C of T 91 ATC 4180 (1991) 21 ATR 1379 AGC (Investments) Limited v. F C of T 92 ATC 4239 (1992) 23 ATR 287 Related Public Rulings (including Determinations) Taxation Ruling IT 2276 Keywords Insurance Insurance & insurance industry Life insurance company Disposal of assets Subsidiary companies Wholly owned subsidiary Siebel/TDMS Reference Number: 3153074 Business Line: Public Groups and International Date of publication: 25 November 2005 ISSN: 1445-2782

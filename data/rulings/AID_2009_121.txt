@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/121
-==================================================
-
-Income Tax
- Tax cost setting amount: leaving time - membership interests that also constitute liabilities under accounting standards
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Tax cost setting amount: leaving time - membership interests that also constitute liabilities under accounting standards FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 At the time a subsidiary member of a consolidated group leaves the group, are membership interests in the leaving member that are also liabilities in accordance with accounting standards, included at step 4 under subsection 711-20(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 The membership interests are not included at step 4 under subsection 711-20(1) of the ITAA 1997 at the leaving time.
@@ -20,107 +9,10 @@ Facts
 The head company (Head Co) of a consolidated group holds certain membership interests (the membership interests) in a subsidiary member (Sub Co). These membership interests also constitute liabilities in accordance with accounting standards. On entry into the consolidated group, the cost of the membership interests was included in the step 1 amount of the allocable cost amount (ACA) calculation. In accordance with Taxation Determination TD 2004/74, the membership interests were not added as a liability at step 2. At a future date, Sub Co ceases to be a subsidiary member of Head Co's tax consolidated group.
 Reasons for Decision
 When Sub Co ceases to be a subsidiary member, the tax cost setting amount of Head Co's membership interests in Sub Co will be set under subsection 701-15(3) of the ITAA 1997. Item 2 of the table in section 701-60 of the ITAA 1997 will apply such that the tax cost setting amount of the membership interests will be determined in accordance with section 711-15 of the ITAA 1997.
-Step 4 of the table in subsection 711-20(1) of the ITAA 1997 refers to the amount worked out under section 711-45 of the ITAA 1997. Relevantly, subsection 711-45(1) of the ITAA 1997 provides:
-
-For the purposes of step 4 in the table in subsection
- 711-20(1
- ), the step 4
- amount
- is worked out by adding up the amounts of each thing (an
- accounting liability
-) that, in accordance with *
- accounting standards
- , or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability of the leaving
- entity
- at the leaving time that can or must be identified in the
- entity
-
-'s
- statement of financial position.
-
-On one view, subsection 711-45(1) of the ITAA 1997 is an addition of all 'accounting liabilities' notwithstanding that certain liabilities may also constitute membership interests.
+Step 4 of the table in subsection 711-20(1) of the ITAA 1997 refers to the amount worked out under section 711-45 of the ITAA 1997. Relevantly, subsection 711-45(1) of the ITAA 1997 provides: For the purposes of step 4 in the table in subsection 711-20(1 ), the step 4 amount is worked out by adding up the amounts of each thing (an accounting liability
+) that, in accordance with * accounting standards , or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability of the leaving entity at the leaving time that can or must be identified in the entity 's statement of financial position. On one view, subsection 711-45(1) of the ITAA 1997 is an addition of all 'accounting liabilities' notwithstanding that certain liabilities may also constitute membership interests.
 The better view, however, is that subsection 711-45(1) of the ITAA 1997 does not contemplate liabilities which also constitute membership interests in the leaving entity. In determining the proper construction of subsection 711-45(1) in this respect, it is necessary to consider its text and context including a consideration of the surrounding provisions.
-The provision expressly refers to 'for the purposes of step 4 in the table in subsection 711-20(1)'. Regard must be given to the broader object underpinning the process in the table in subsection 711-20(1) of the ITAA 1997. Subsection 711-5(2) of the ITAA 1997 states the object of Division 711 of the ITAA 1997:
-
-Object
-
-711-5(2
- )
-
-The object of this Division is, when entities cease to be *
- subsidiary
- members, to preserve the alignment of the *
- head company
-
-'s
- costs for *membership interests in entities and their assets that is established when entities become
- subsidiary
- members.
-
-Note
- : The reasons for preserving this alignment are set out in subsection
- 705-10(3
- ).
-
-711-5(3
- )
-
-This is achieved by recognising the *
- head company
-
-'s
- cost for those interests, just before the leaving time, as an
- amount
- equal to the cost of the leaving
- entity
-
-'s
- assets at the leaving time reduced by the
- amount
- of its liabilities.
-
-711-5(4
- )
-
-If multiple entities cease to be *
- subsidiary
- members at the same time, the cost of any *membership interests that one holds in another is treated in a similar way.
-
-Under Taxation Determination TD 2004/74, the membership interests in the present scenario would be included at step 1 and not recognised at step 2 of the entry ACA calculation. If the object upon exit, as set out in section 711-5 of the ITAA 1997, is to preserve the alignment of the head company's costs for membership interests in entities and their assets, it would follow that such membership interests should not be included at step 4 of the exit ACA calculation.
+The provision expressly refers to 'for the purposes of step 4 in the table in subsection 711-20(1)'. Regard must be given to the broader object underpinning the process in the table in subsection 711-20(1) of the ITAA 1997. Subsection 711-5(2) of the ITAA 1997 states the object of Division 711 of the ITAA 1997: Object 711-5(2 ) The object of this Division is, when entities cease to be * subsidiary members, to preserve the alignment of the * head company 's costs for *membership interests in entities and their assets that is established when entities become subsidiary members. Note : The reasons for preserving this alignment are set out in subsection 705-10(3 ). 711-5(3 ) This is achieved by recognising the * head company 's cost for those interests, just before the leaving time, as an amount equal to the cost of the leaving entity 's assets at the leaving time reduced by the amount of its liabilities. 711-5(4 ) If multiple entities cease to be * subsidiary members at the same time, the cost of any *membership interests that one holds in another is treated in a similar way. Under Taxation Determination TD 2004/74, the membership interests in the present scenario would be included at step 1 and not recognised at step 2 of the entry ACA calculation. If the object upon exit, as set out in section 711-5 of the ITAA 1997, is to preserve the alignment of the head company's costs for membership interests in entities and their assets, it would follow that such membership interests should not be included at step 4 of the exit ACA calculation.
 Furthermore, the language in subsections 711-5(2) and 711-5(3) of the ITAA 1997 also suggests that membership interests and liabilities are mutually exclusive.
 Accordingly, it is considered that the 'accounting liabilities' under subsection 711-45(1) of the ITAA 1997 do not contemplate liabilities constituting membership interests in Sub Co. They are therefore not included at step 4 of the table in section 711-20 of the ITAA 1997.
-Date of decision:
-  29 September 2009
-
-Year of income:
-  Year ended 30 September 2009 Year ended 30 September 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 701-15   subsection 701-15(3)   section 711-5   subsection 711-5(2)   subsection 711-5(3)   section 711-15   section 711-20   subsection 711-20(1)   section 711-45   subsection 711-45(1)
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2004/74
-
-Related ATO Interpretative Decisions
-
- ATO ID - 2009/120
-
-Keywords
-
-Accounting liabilities
- Cost of membership interests
- Leaving entity
-
-Siebel/TDMS Reference Number:
-  6249712
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  30 October 2009
-
-ISSN:
- 1445 - 2782
+Date of decision: 29 September 2009 Year of income: Year ended 30 September 2009 Year ended 30 September 2010 Legislative References: Income Tax Assessment Act 1997 section 701-15 subsection 701-15(3) section 711-5 subsection 711-5(2) subsection 711-5(3) section 711-15 section 711-20 subsection 711-20(1) section 711-45 subsection 711-45(1) Related Public Rulings (including Determinations) Taxation Determination TD 2004/74 Related ATO Interpretative Decisions ATO ID - 2009/120 Keywords Accounting liabilities Cost of membership interests Leaving entity Siebel/TDMS Reference Number: 6249712 Business Line: Consolidation Centre of Expertise Date of publication: 30 October 2009 ISSN: 1445 - 2782

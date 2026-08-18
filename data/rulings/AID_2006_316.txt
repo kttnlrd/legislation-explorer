@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/316
-==================================================
-
-Income Tax
- Income Tax: franking credits - Taxation consequences on an exempting entity ceasing to be effectively owned by prescribed persons
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-
-Will subsection 208-50(2) of the Income Tax Assessment Act 1997 (ITAA 1997) apply so that an exempting entity, which has ceased to be effectively owned by prescribed persons within 12 months of it becoming an exempting entity, not be taken to become a former exempting entity, where that same entity has previously ceased to be an exempting entity (that is it was previously a former exempting entity)?
+================================================== Income Tax Income Tax: franking credits - Taxation consequences on an exempting entity ceasing to be effectively owned by prescribed persons FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue Will subsection 208-50(2) of the Income Tax Assessment Act 1997 (ITAA 1997) apply so that an exempting entity, which has ceased to be effectively owned by prescribed persons within 12 months of it becoming an exempting entity, not be taken to become a former exempting entity, where that same entity has previously ceased to be an exempting entity (that is it was previously a former exempting entity)?
 Decision
 No. If a corporate tax entity becomes effectively owned by prescribed persons and, within 12 months, there is a change in ownership so that it ceases to be so owned, then that change in ownership does not result in the company becoming a former exempting entity. However, where a corporate tax entity ceases to be an exempting entity on more than one occasion, only the first cessation referred to in subsection 208-50(2) of the ITAA 1997 is ignored. If a former exempting entity becomes an exempting entity, but ceases to be an exempting entity within 12 months, it will again become a former exempting entity.
 Facts
@@ -26,86 +13,23 @@ Following changes in the shareholding of Company A, the company became effective
 As at 14 March 2006, Company A had reduced its franking surplus to $41,000 as a result of a distribution to which $7,000 of franking credits were allocated.
 Following changes in the shareholding of Company A, the company ceased to be effectively owned by prescribed persons on 15 March 2006. The taxation consequences to this cessation are addressed in the reasons for decision.
 Reasons for Decision
-The franking rules in Part 3-6 of the ITAA 1997 apply from 1 July 2002 onwards. These rules provide limitations in the use of franking credits by exempting entities, with subsection 208-5(1) of the ITAA 1997 providing:
-
-An exempting entity is a corporate tax entity that is effectively owned by entities that, either because they are not Australian residents .... , would not be able to fully utilise franking credits on distributions by the corporate tax entity.
-
-The primary purpose of Division 208 of the ITAA 1997 is explained in section 6.2 of the Explanatory Memorandum to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Act 2002, as follows:
-
-Broadly speaking, these provisions are concerned with limiting franking credits available for trading by:
-
-•prescribing that franked distributions paid by corporate tax entities, which are effectively owned by non-residents or tax exempt entities, will provide franking benefits to members in limited circumstances only; and
-•quarantining the franking surpluses of corporate tax entities which were formerly effectively owned by non-residents or tax exempt entities.
-
-This is reflected in section 208-15 of the ITAA 1997, specifically, paragraph (b) which seeks to:
-
-Quarantine those credits by moving them into a separate account, called the exempting account, when the entity ceases to be an exempting entity.
-
-Section 208-20 of the ITAA 1997 defines an exempting entity, stating:
-
-A corporate tax entity is an exempting entity at a particular time if, at that time, the entity is effectively owned by prescribed persons.
-
-Subsection 208-40(1) of the ITAA 1997 provides that a company is a prescribed person in relation to another corporate tax entity if the company is a foreign resident.
+The franking rules in Part 3-6 of the ITAA 1997 apply from 1 July 2002 onwards. These rules provide limitations in the use of franking credits by exempting entities, with subsection 208-5(1) of the ITAA 1997 providing: An exempting entity is a corporate tax entity that is effectively owned by entities that, either because they are not Australian residents .... , would not be able to fully utilise franking credits on distributions by the corporate tax entity. The primary purpose of Division 208 of the ITAA 1997 is explained in section 6.2 of the Explanatory Memorandum to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Act 2002, as follows: Broadly speaking, these provisions are concerned with limiting franking credits available for trading by: •prescribing that franked distributions paid by corporate tax entities, which are effectively owned by non-residents or tax exempt entities, will provide franking benefits to members in limited circumstances only; and
+•quarantining the franking surpluses of corporate tax entities which were formerly effectively owned by non-residents or tax exempt entities. This is reflected in section 208-15 of the ITAA 1997, specifically, paragraph (b) which seeks to: Quarantine those credits by moving them into a separate account, called the exempting account, when the entity ceases to be an exempting entity. Section 208-20 of the ITAA 1997 defines an exempting entity, stating: A corporate tax entity is an exempting entity at a particular time if, at that time, the entity is effectively owned by prescribed persons. Subsection 208-40(1) of the ITAA 1997 provides that a company is a prescribed person in relation to another corporate tax entity if the company is a foreign resident.
 Section 208-25 of the ITAA 1997 states in part that an entity is effectively owned by prescribed persons at a particular time if, at that time, not less than 95% of the accountable membership interests in the entity are held by, or held indirectly for the benefit of, prescribed persons.
 Therefore, if a foreign resident owns not less than 95% of the ordinary shares of a resident Australian company, the Australian company will be an exempting entity.
-While section 208-10 of the ITAA 1997 provides the following broad definition of a former exempting entity:
-
-When an entity ceases to be an exempting entity, it becomes a former exempting entity.
-
-Section 208-50 of the ITAA 1997 provides an exception to this definition of a former exempting entity:
-
-208-50(1) Subject to subsection (2), a corporate tax entity is a former exempting entity if it has, at any time, ceased to be an exempting entity and is not again an exempting entity.
-
-208-50(2) If an entity that, at any time, becomes effectively owned by prescribed persons ceases to be so effectively owned within 12 months after that time, the entity is not taken, by so ceasing, to become a former exempting entity.
-
-Where a corporate tax entity ceases to be an exempting entity on more than one occasion, only the cessation referred to in subsection 208-50(2) of the ITAA 1997 is disregarded. If a former exempting entity becomes an exempting entity, but ceases to be an exempting entity within 12 months, it will again become a former exempting entity. This is because there would have been an earlier cessation that did not fall within subsection 208-50(2) of the ITAA 1997 (that is, the cessation that resulted in the entity being a former exempting entity in the first instance).
+While section 208-10 of the ITAA 1997 provides the following broad definition of a former exempting entity: When an entity ceases to be an exempting entity, it becomes a former exempting entity. Section 208-50 of the ITAA 1997 provides an exception to this definition of a former exempting entity: 208-50(1) Subject to subsection (2), a corporate tax entity is a former exempting entity if it has, at any time, ceased to be an exempting entity and is not again an exempting entity. 208-50(2) If an entity that, at any time, becomes effectively owned by prescribed persons ceases to be so effectively owned within 12 months after that time, the entity is not taken, by so ceasing, to become a former exempting entity. Where a corporate tax entity ceases to be an exempting entity on more than one occasion, only the cessation referred to in subsection 208-50(2) of the ITAA 1997 is disregarded. If a former exempting entity becomes an exempting entity, but ceases to be an exempting entity within 12 months, it will again become a former exempting entity. This is because there would have been an earlier cessation that did not fall within subsection 208-50(2) of the ITAA 1997 (that is, the cessation that resulted in the entity being a former exempting entity in the first instance).
 Section 208-110 of the ITAA 1997 provides that each former exempting entity has an exempting account.
 Item 1 of section 208-115 of the ITAA 1997 sets out when a credit arises in the exempting account of a former exempting entity where the entity has a franking surplus at the time it became a former exempting entity. The item states:
-Exempting Credits:
-
-Item
+Exempting Credits: Item
 If:
 A credit of:
-Arises:
-
-1
-The entity had a franking surplus at the time it became a former exempting entity (at the time of its transition)
-
-An amount equal to:
+Arises: 1
+The entity had a franking surplus at the time it became a former exempting entity (at the time of its transition) An amount equal to:
 in a case not covered by paragraph (b) - the franking surplus; or
 if the entity has been a former exempting entity at any time within a period of 12 months before its transition - so much of the franking surplus as would have been the entity's exempting surplus had it remained a former exempting entity throughout the period
-Immediately after its transition
-
-Therefore, if a former exempting entity becomes an exempting entity for less than twelve months, upon its reversion to a former exempting entity, instead of converting the whole of its franking surplus or deficit to an equivalent exempting amount, the company will be able to retain the franking surplus or deficit it would have had if it remained a former exempting entity instead of becoming an exempting entity for the relevant period: the remainder is to be converted to an exempting amount.
+Immediately after its transition Therefore, if a former exempting entity becomes an exempting entity for less than twelve months, upon its reversion to a former exempting entity, instead of converting the whole of its franking surplus or deficit to an equivalent exempting amount, the company will be able to retain the franking surplus or deficit it would have had if it remained a former exempting entity instead of becoming an exempting entity for the relevant period: the remainder is to be converted to an exempting amount.
 Applying these provisions to the cessation that occurred on 15 March 2006 (that is Company A ceasing to be effectively owned by prescribed persons):
 pursuant to subsection 208-50(1) of the ITAA 1997, as at 15 March 2006, Company A ceased to be an exempting entity and became a former exempting entity. Subsection 208-50(2) of the ITAA 1997 will not apply to this cessation as Company A has previously been a former exempting entity. That is, the cessation that occurred on 1 October 2003 and resulted in Company A being a former exempting entity in the first instance did not fall within section 208-50 of the ITAA 1997 as it was longer than 12 months.
 Despite the fact that subsection 208-50(2) of the ITAA 1997 does not apply, Company A will be able to apply item 1 of section 208-115 of the ITAA 1997. Company A became a former exempting entity on 1 October 2003, and then it became an exempting entity on 1 July 2005 for a period of less than twelve months. Upon its reversion to a former exempting entity on 15 March 2006, Company A will be able to retain its franking surplus as if it remained a former exempting entity for the period from 1 July 2005 to 14 March 2006.
 Therefore, taking into account the franking debit of $7,000 attributed to the payment of a distribution during the period from 1 July 2005 to 14 March 2006, Company A will have, at 15 March 2006, an exempting surplus of $26,000 and a franking surplus $15,000. These amounts are attributed to the position of Company A as if it had remained a former exempting entity during the period from 1 July 2005 and 14 March 2006.
-Date of decision:
-  8 November 2006
-
-Year of income:
-  30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 208-5   section 208-10   section 208-15   section 208-20   section 208-25   subsection 208-40(1)   section 208-50   section 208-110   section 208-115 (Item 1)
-
-Keywords
-
-Franking Credits
-
-Siebel/TDMS Reference Number:
-  5375543; 1-BSWYBHF
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  24 November 2006
-
-Date reviewed:
-  26 June 2017
-
-ISSN:
- 1445-2782
+Date of decision: 8 November 2006 Year of income: 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 208-5 section 208-10 section 208-15 section 208-20 section 208-25 subsection 208-40(1) section 208-50 section 208-110 section 208-115 (Item 1) Keywords Franking Credits Siebel/TDMS Reference Number: 5375543; 1-BSWYBHF Business Line: Private Groups and High Wealth Individuals Date of publication: 24 November 2006 Date reviewed: 26 June 2017 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/246
-==================================================
-
-Income Tax
- Foreign Tax Credits: distributions from a USA Limited Liability Company
- FOI status: may be released
-
-This ATO ID is withdrawn as it is superseded by Taxation Ruling TR 2009/6.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign Tax Credits: distributions from a USA Limited Liability Company FOI status: may be released This ATO ID is withdrawn as it is superseded by Taxation Ruling TR 2009/6. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an Australian resident individual taxpayer who is a member of a United States of America (US) Limited Liability Company (LLC) that has elected to be treated as partnership in the US, entitled to a foreign tax credit under section 160AF of the Income Tax Assessment Act 1936 (ITAA 1936) for tax imposed by the US on distributions from the LLC?
 Decision
 Yes. The Australian resident individual taxpayer is entitled to a foreign tax credit under section 160AF of the ITAA 1936 for tax imposed by the US on distributions from the LLC.
@@ -32,79 +17,16 @@ In determining liability to Australian tax on foreign sourced income received by
 Section 4 of the Agreements Act incorporates that Act with the ITAA 1936 and the Income Tax Assessment Act 1997 (ITAA 1997) so that those Acts are read as one. The Agreements Act effectively overrides the ITAA 1936 and ITAA 1997 where there are inconsistent provisions (except for some limited provisions).
 Schedule 2 to the Agreements Act contains the agreement between Australia and the United States of America (the US Convention).
 The US Convention operates to avoid the double taxation of income received by Australian and US residents.
-Article 10 of the US Convention deals with the taxation of dividends and provides that dividends paid by a US company to an Australian resident may be taxed by Australia. Paragraph (3) of Article 10 of the US Convention provides that:
-
-The term 'dividend' in this Article means income from shares and other income assimilated to income from shares by the taxation law of the Contracting States of which the company making the distribution is a resident for the purposes of its tax.
-
-Paragraph (2) of Article 22 of the US Convention provides that a credit against Australian tax for tax paid in the US shall be allowed where tax has been paid under US law and in accordance with the US Convention.
+Article 10 of the US Convention deals with the taxation of dividends and provides that dividends paid by a US company to an Australian resident may be taxed by Australia. Paragraph (3) of Article 10 of the US Convention provides that: The term 'dividend' in this Article means income from shares and other income assimilated to income from shares by the taxation law of the Contracting States of which the company making the distribution is a resident for the purposes of its tax. Paragraph (2) of Article 22 of the US Convention provides that a credit against Australian tax for tax paid in the US shall be allowed where tax has been paid under US law and in accordance with the US Convention.
 Article 10 of the US Convention does not apply as the distribution is not classified as a dividend for US tax purposes. As there has not been any US tax paid in respect of the dividend income, no tax has been imposed in accordance with the Convention. For that reason, no tax relief is required to be provided by Australia.
-This interpretation conforms with the treatment of fiscally transparent entities expressed by the OECD. Paragraph 6.2 of Article 1 of the OECD Commentary explains that:
-
-6.2 ...Where, for instance, the State of source treats a domestic partnership as fiscally transparent and therefore taxes the partners on their share of the income of the partnership, a partner that is resident of a State that taxes partnerships as companies would not be able to claim the benefits of the Convention between the two States with respect to the share of the partnership's income that the State of source taxes in his hands since that income, though allocated to the person claiming the benefits of the Convention under the laws of the State of source, is not similarly allocated for purposes of determining the liability to tax on that item of income in the State of residence of that person.
-
-Australia is therefore not required to provide tax relief under the US Convention.
+This interpretation conforms with the treatment of fiscally transparent entities expressed by the OECD. Paragraph 6.2 of Article 1 of the OECD Commentary explains that: 6.2 ...Where, for instance, the State of source treats a domestic partnership as fiscally transparent and therefore taxes the partners on their share of the income of the partnership, a partner that is resident of a State that taxes partnerships as companies would not be able to claim the benefits of the Convention between the two States with respect to the share of the partnership's income that the State of source taxes in his hands since that income, though allocated to the person claiming the benefits of the Convention under the laws of the State of source, is not similarly allocated for purposes of determining the liability to tax on that item of income in the State of residence of that person. Australia is therefore not required to provide tax relief under the US Convention.
 Australian tax law treats the distributions received by the taxpayer as dividends and are included in the taxpayer's assessable income under section 44 of the ITAA 1936. These dividends are derived from sources in the US and are foreign income (subsection 6AB(1) of the ITAA 1936).
 Subsection 160AF(1) of the ITAA 1936 provides that a taxpayer is entitled to a foreign tax credit where the assessable income of a resident taxpayer includes foreign income and the taxpayer has paid foreign tax for which they are personally liable in respect of that income.
 The amount of the credit is the lesser of the foreign tax paid or the Australian tax payable in respect of that foreign income.
 The taxpayer has had amounts of tax withheld from distributions received from the LLC. The taxpayer is considered to have paid tax in the US. This tax has been paid in respect of the same income that is subject to tax as dividends in Australia. As the taxpayer was assessed in the US on the distribution, the taxpayer, not the LLC, was personally liable for the payment of the tax.
 As the taxpayer's assessable income includes foreign income and foreign tax paid for which the taxpayer was personally liable in respect of that income, the taxpayer is entitled to a foreign tax credit under section 160AF of the ITAA 1936.
-Note: The US Convention does not preclude entitlement to a foreign tax credit under Australia's foreign tax credit rules (see paragraphs 41 and 44 of Taxation Ruling IT 2445).
-
-Notes:
-
-1.	The US Convention does not preclude entitlement to a foreign tax credit under Australia's foreign tax credit rules (see paragraphs 41 and 44 of Taxation Ruling IT 2445).
-
-2.	This ATO ID reflects the law as enacted at 30 June 2002. It is still current in instances where the US LLC is not a foreign hybrid company for the purposes of section 830-15 of the ITAA 1997. However, this ATOID does not consider Division 830 of the ITAA 1997 which treats a US LLC that is a foreign hybrid company as if it were a partnership.
-
-Date of decision:
-  19 March 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6AB(1)   section 44   section 160AF   subsection 160AF(1)
-   Income Tax Assessment Act 1997
-International Tax Agreement Act 1953   section 4   Schedule 2   Schedule 2, Article 10   Schedule 2, Article 10, paragraph (3)   Schedule 2, Article 22, paragraph (2)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2445
-
-Other References:
-
-Paragraph 6.2 of Article 1 of the OECD Commentary
-
-Keywords
-
-International tax
- Double tax agreements
- Foreign tax credits
- Limited liability
- United States
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  11 April 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 March 2003
-Original statement
-
-You are here
+Note: The US Convention does not preclude entitlement to a foreign tax credit under Australia's foreign tax credit rules (see paragraphs 41 and 44 of Taxation Ruling IT 2445). Notes: 1.	The US Convention does not preclude entitlement to a foreign tax credit under Australia's foreign tax credit rules (see paragraphs 41 and 44 of Taxation Ruling IT 2445). 2.	This ATO ID reflects the law as enacted at 30 June 2002. It is still current in instances where the US LLC is not a foreign hybrid company for the purposes of section 830-15 of the ITAA 1997. However, this ATOID does not consider Division 830 of the ITAA 1997 which treats a US LLC that is a foreign hybrid company as if it were a partnership. Date of decision: 19 March 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 6AB(1) section 44 section 160AF subsection 160AF(1) Income Tax Assessment Act 1997
+International Tax Agreement Act 1953 section 4 Schedule 2 Schedule 2, Article 10 Schedule 2, Article 10, paragraph (3) Schedule 2, Article 22, paragraph (2) Related Public Rulings (including Determinations) Taxation Ruling IT 2445 Other References: Paragraph 6.2 of Article 1 of the OECD Commentary Keywords International tax Double tax agreements Foreign tax credits Limited liability United States Business Line: Public Groups and International Date of publication: 11 April 2003 ISSN: 1445-2782 history Date: Version: 19 March 2003
+Original statement You are here
 23 October 2009
 Archived

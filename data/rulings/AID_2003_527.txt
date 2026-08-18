@@ -1,96 +1,26 @@
 ATO Interpretative Decision
 ATO ID 2003/527
-==================================================
-
-Income Tax
- Redeemable preference shares: debt interest under Division 974
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Redeemable preference shares: debt interest under Division 974 FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do redeemable preference shares issued by a taxpayer company give rise to a debt interest under Division 974 of the Income Tax Assessment Act (ITAA 1997) if the term to maturity is less than 10 years?
 Decision
 Yes. Redeemable preference shares issued by a taxpayer company give rise to a debt interest under Division 974 of the ITAA 1997 provided all of the requirements of the test for a debt interest are satisfied.
 Facts
 The taxpayer is an Australian resident company which issued redeemable preference shares ('RPS') to a non-resident investor.
-Under the terms of the RPS, the holder of a RPS is entitled to a cumulative dividend in respect of each dividend period. The payment of a dividend is subject to:
-
-•the directors, at their discretion, declaring the dividend to be payable; and
-•there being funds legally available for the payment of dividends.
-
-The RPS have a maturity date of five years after the issue date. The amount that must be redeemed at maturity is the issue price plus any accrued dividends outstanding on the RPS on the redemption date.
+Under the terms of the RPS, the holder of a RPS is entitled to a cumulative dividend in respect of each dividend period. The payment of a dividend is subject to: •the directors, at their discretion, declaring the dividend to be payable; and
+•there being funds legally available for the payment of dividends. The RPS have a maturity date of five years after the issue date. The amount that must be redeemed at maturity is the issue price plus any accrued dividends outstanding on the RPS on the redemption date.
 Reasons for Decision
 For the issue of RPS to give rise to a debt interest under Division 974 of the ITAA 1997 it must be a scheme that, at the time the scheme comes into existence, satisfies the debt test in subsection 974-20(1) of the ITAA 1997. The subscription for, and issue of, RPS in the taxpayer company constitutes a scheme under the broadly defined meaning of that term.
-The debt test is satisfied if all of the following five criteria are satisfied:
-
-(a)the scheme is a financing arrangement for the entity:
-
-Under subsection 974-20(1) of the ITAA 1997, this requirement does not have to be met if the entity is a company and item 1 of the table in subsection 974-75(1) of the ITAA 1997 is satisfied.
-A scheme satisfies item 1 of the table in subsection 974-75(1) of the ITAA 1997 if it gives rise to an interest in the company as a member or stockholder of the company. A member of a company includes a shareholder or stockholder (section 995-1 of the ITAA 1997). The taxpayer is a company and the interest arising from the scheme, that is, RPS, will give rise to an interest in the company as a member of the company. Therefore, item 1 of the table in subsection 974-75(1) is satisfied.
-
-(b)the entity, or a connected entity of the entity, receives, or will receive, a financial benefit or benefits under the scheme:
-
-The concept of financial benefit is defined in section 974-160 of the ITAA 1997.
+The debt test is satisfied if all of the following five criteria are satisfied: (a)the scheme is a financing arrangement for the entity: Under subsection 974-20(1) of the ITAA 1997, this requirement does not have to be met if the entity is a company and item 1 of the table in subsection 974-75(1) of the ITAA 1997 is satisfied.
+A scheme satisfies item 1 of the table in subsection 974-75(1) of the ITAA 1997 if it gives rise to an interest in the company as a member or stockholder of the company. A member of a company includes a shareholder or stockholder (section 995-1 of the ITAA 1997). The taxpayer is a company and the interest arising from the scheme, that is, RPS, will give rise to an interest in the company as a member of the company. Therefore, item 1 of the table in subsection 974-75(1) is satisfied. (b)the entity, or a connected entity of the entity, receives, or will receive, a financial benefit or benefits under the scheme: The concept of financial benefit is defined in section 974-160 of the ITAA 1997.
 A financial benefit was conferred on the taxpayer company by the provision of money by the non-resident investor in subscribing for the RPS.
-The taxpayer company has therefore received a financial benefit under the scheme.
-
-(c)the entity has an effectively non-contingent obligation under the scheme to provide a financial benefit or benefits to one or more entities after the time when the financial benefit referred to in paragraph (b) is received:
-
-The concept of an effectively non-contingent obligation (ENCO) is defined by section 974-135 of the ITAA 1997. There is an ENCO to provide a financial benefit if, having regard to the pricing, terms and conditions of the scheme there is in substance an ENCO to provide such a benefit (subsection 974-135(1)).
+The taxpayer company has therefore received a financial benefit under the scheme. (c)the entity has an effectively non-contingent obligation under the scheme to provide a financial benefit or benefits to one or more entities after the time when the financial benefit referred to in paragraph (b) is received: The concept of an effectively non-contingent obligation (ENCO) is defined by section 974-135 of the ITAA 1997. There is an ENCO to provide a financial benefit if, having regard to the pricing, terms and conditions of the scheme there is in substance an ENCO to provide such a benefit (subsection 974-135(1)).
 The ENCO criterion applies to both the provision of financial benefits under the scheme and to the termination of the scheme (subsection 974-135(2) of the ITAA 1997). Redemption of a preference share is not taken to be contingent merely because of a requirement of corporations law (see section 254K of the Corporations Act 2001) for the redemption to be financed out of profits or a fresh issue of shares (subsection 974-135(5)).
 The payment of dividends on the RPS is not effectively non-contingent because that payment is dependent on there being sufficient profits available and the exercise, by directors, of their discretion to declare a dividend.
 However, under the terms of the RPS issue, the issue price of the RPS plus any accrued dividends is payable on the maturity date.
-Therefore, under the terms of the RPS and having regard to subsection 974-135(5) of the ITAA 1997, the taxpayer has, on redemption of the RPS, an ENCO to provide a financial benefit to the parent company.
-
-(d)it is substantially more likely than not that the value provided (worked out under subsection 974-20(2) of the ITAA 1997) will be at least equal to the value received (worked out under subsection 974-20(3)):
-
-The general rules for the valuation of financial benefits are contained in section 974-35 of the ITAA 1997. The value of the financial benefit is calculated in nominal terms if the performance period for the interest is 10 years or less (subparagraph 974-35(1)(a)(i)).
+Therefore, under the terms of the RPS and having regard to subsection 974-135(5) of the ITAA 1997, the taxpayer has, on redemption of the RPS, an ENCO to provide a financial benefit to the parent company. (d)it is substantially more likely than not that the value provided (worked out under subsection 974-20(2) of the ITAA 1997) will be at least equal to the value received (worked out under subsection 974-20(3)): The general rules for the valuation of financial benefits are contained in section 974-35 of the ITAA 1997. The value of the financial benefit is calculated in nominal terms if the performance period for the interest is 10 years or less (subparagraph 974-35(1)(a)(i)).
 The period within which the taxpayer's ENCO is to be satisfied is five years.
-The value of the financial benefit to be provided by the taxpayer company on the maturity date is at least equal to the value of the financial benefit received by the taxpayer company.
-
-(e)the value provided (worked out under subsection 974-20 (2) of the ITAA 1997) and the value received (worked out under subsection 974-20 (3)) are not both nil:
-
-Both the value received and value provided are positive amounts.
+The value of the financial benefit to be provided by the taxpayer company on the maturity date is at least equal to the value of the financial benefit received by the taxpayer company. (e)the value provided (worked out under subsection 974-20 (2) of the ITAA 1997) and the value received (worked out under subsection 974-20 (3)) are not both nil: Both the value received and value provided are positive amounts.
 As all the debt test requirements are satisfied in relation to the RPS scheme, the RPS give rise to a debt interest.
-Date of decision:
-  16 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 974-20(1)   section 974-35   subsection 974-75(1)   section 974-135   section 974-160   section 995-1
-Corporations Act 2001   section 254K
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/528
- ATO ID 2003/529
- ATO ID 2003/530
-
-Keywords
-
-Debt equity borderline
- Redeemable preference share
- Debt test
- Effectively non-contingent obligation
-
-Siebel/TDMS Reference Number:
-  3558768
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 July 2003
-
-ISSN:
- 1445-2782
+Date of decision: 16 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 974-20(1) section 974-35 subsection 974-75(1) section 974-135 section 974-160 section 995-1
+Corporations Act 2001 section 254K Related ATO Interpretative Decisions ATO ID 2003/528 ATO ID 2003/529 ATO ID 2003/530 Keywords Debt equity borderline Redeemable preference share Debt test Effectively non-contingent obligation Siebel/TDMS Reference Number: 3558768 Business Line: Public Groups and International Date of publication: 4 July 2003 ISSN: 1445-2782

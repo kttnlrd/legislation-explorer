@@ -1,29 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2010/5
-==================================================
-
-Income Tax
- Complying superannuation fund: deduction for increased amount of superannuation lump sum death benefit
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that does not apply to lump sum death benefits paid because of the death of a person on or after 1 July 2017 or to such benefits paid on or after 1 July 2019. Despite its withdrawal, this ATOID continues to be a precedential ATO view in respect of such benefits paid because of the death of a person before 1 July 2017 or to such benefits paid before 1 July 2019.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Complying superannuation fund: deduction for increased amount of superannuation lump sum death benefit FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that does not apply to lump sum death benefits paid because of the death of a person on or after 1 July 2017 or to such benefits paid on or after 1 July 2019. Despite its withdrawal, this ATOID continues to be a precedential ATO view in respect of such benefits paid because of the death of a person before 1 July 2017 or to such benefits paid before 1 July 2019. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the Commissioner accept the method set out below as a means of calculating the 'tax saving amount' in subsection 295-485(3) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes. The Commissioner will accept the following method of calculating the 'tax saving amount' in subsection 295-485(3) of the ITAA 1997:
-
-(0.15*P) / (R-0.15*P)*C
-
-Where:
+Yes. The Commissioner will accept the following method of calculating the 'tax saving amount' in subsection 295-485(3) of the ITAA 1997: (0.15*P) / (R-0.15*P)*C Where:
 P = The number of days in component R that occur after 30 June 1988.
 R = the total number of days in the service period as defined in section 307-400 of the ITAA 1997 that occur after 30 June 1983.
 C = The taxable component of the lump sum calculated under sections 307-120 and 307-125 of the ITAA 1997, as if no deduction under subsection 295-485(2) of the ITAA 1997 were allowed, after excluding the actual (if any) insured amount for which deductions have been claimed under sections 295-465 or 295-470 of the ITAA 1997.
@@ -33,79 +14,16 @@ Member benefits are the sum of contributions and investment income earned on tho
 The Fund's records do not track the effect of fund tax on the accounts of individual members. In order to determine the effect of fund tax on the accounts of individual members, the Fund would have to reconstruct those accounts from its records over the membership period.
 The Fund is a taxed superannuation fund. There are no elements untaxed in the Fund. Members may transfer superannuation benefits from other superannuation funds to the Fund.
 Reasons for Decision
-Section 295-485 of the ITAA 1997 allows a deduction to a complying superannuation fund or a complying approved deposit fund when:
-
-•it pays a superannuation lump sum because of the death of a person to the trustee of the deceased's estate or an individual who was a spouse, former spouse or child of the deceased at the time of death or payment (paragraph 295-485(1)(a) of the ITAA 1997); and
-•it increases the lump sum by an amount, or does not reduce the lump sum by an amount (the
- tax saving amount
- ) so that the amount of the lump sum is the amount that the fund could have paid if no tax were payable on amounts included in assessable income under Subdivision 295-C of the ITAA 1997 and former section 274 of the Income Tax Assessment Act 1936 (ITAA 1936) (paragraph 295-485(1)(b) of the ITAA 1997 and section 295-485 of the Income Tax (Transitional Provisions) Act 1997).
-
-In other words, a fund can ensure that the amount of a lump sum death benefit paid (directly or indirectly via the trustee of the deceased's estate) to a spouse, former spouse or child of the deceased is not reduced as a result of contributions being taxed in the fund.
-Subsection 295-485(3) of the ITAA 1997 provides that the amount a fund can deduct is calculated by the formula:
-
-Tax saving amount / Low tax component rate
-
-where:
-
-low tax component rate
- is the rate of tax imposed on the low tax component of the fund's taxable income for the income year (i.e. 15%)
-
-Section 295-485 of the ITAA 1997 is a rewrite of former section 279D of the ITAA 1936. Section 279D applied to payments made before 1 July 2007.
+Section 295-485 of the ITAA 1997 allows a deduction to a complying superannuation fund or a complying approved deposit fund when: •it pays a superannuation lump sum because of the death of a person to the trustee of the deceased's estate or an individual who was a spouse, former spouse or child of the deceased at the time of death or payment (paragraph 295-485(1)(a) of the ITAA 1997); and
+•it increases the lump sum by an amount, or does not reduce the lump sum by an amount (the tax saving amount ) so that the amount of the lump sum is the amount that the fund could have paid if no tax were payable on amounts included in assessable income under Subdivision 295-C of the ITAA 1997 and former section 274 of the Income Tax Assessment Act 1936 (ITAA 1936) (paragraph 295-485(1)(b) of the ITAA 1997 and section 295-485 of the Income Tax (Transitional Provisions) Act 1997). In other words, a fund can ensure that the amount of a lump sum death benefit paid (directly or indirectly via the trustee of the deceased's estate) to a spouse, former spouse or child of the deceased is not reduced as a result of contributions being taxed in the fund.
+Subsection 295-485(3) of the ITAA 1997 provides that the amount a fund can deduct is calculated by the formula: Tax saving amount / Low tax component rate where: low tax component rate is the rate of tax imposed on the low tax component of the fund's taxable income for the income year (i.e. 15%) Section 295-485 of the ITAA 1997 is a rewrite of former section 279D of the ITAA 1936. Section 279D applied to payments made before 1 July 2007.
 Section 279D of the ITAA 1936 allowed a deduction to a superannuation fund which paid a death benefit to a dependant of the deceased member where the fund increased the benefit to the amount that would have been paid had there been no tax on contributions. The Explanatory Memorandum (EM) to the Taxation Laws Amendment (Superannuation) Bill 1989, which inserted section 279D, prescribed a method of calculation which would provide an acceptable basis for determining the amount that could be deducted under section 279D. This formula provided an alternative to the calculation of the relevant amount by the auditor of the fund where the fund was not a defined benefit fund.
 ATO ID 2006/290 gave approval to a method of calculation of the deduction under section 279D of the ITAA 1936. The method endorsed in ATO ID 2006/290 provided an updated version of the formula contained within the EM and was more appropriate than that formula in the situation of an accumulation fund.
 The method of calculation contained within ATO ID 2006/290 was updated in ATO ID 2007/219 to take into account the amendments to the income tax legislation affecting superannuation funds that apply after 30 June 2007. ATO ID 2007/219 referred to the situation where the superannuation fund could not calculate the tax paid on amounts in the member's accounts as the fund's records 'do not track the effect of fund tax on individual accounts over the membership period'.
 However, the formula in ATO ID 2007/219 is also appropriate in situations where the Fund's records do not track the effect of fund tax on the accounts of individual members but the Fund may have been able to calculate the amount of tax paid on amounts in these accounts if it was to reconstruct those accounts from its records to take into account the effect of fund tax on the individual accounts over the membership period.
 The calculation method stated above is consistent with the formula in ATO ID 2007/219 and calculates an approximate 'tax saving amount' so as to give effect to the intention of section 295-485 of the ITAA 1997.
-Date of decision:
-  17 December 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 274   section 279D
-Income Tax Assessment Act 1997   Subdivision 295-C   section 295-465   section 295-470   section 295-485   paragraph 295-485(1)(a)   paragraph 295-485(1)(b)   subsection 295-485(2)   subsection 295-485(3)   section 307-120   section 307-125   section 307-400
-Income Tax (Transitional Provisions) Act 1997   section 295-485
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/290
- ATO ID 2007/219
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment (Superannuation) Bill 1989
-
-Keywords
-
-Superannuation fund expenses
- Superannuation fund potential detriment payments
-
-Siebel/TDMS Reference Number:
-  6312563, 1-G2LYCDZ
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 January 2010
-
-ISSN:
- 1445 - 2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-17 December 2009
-Original statement
-
-You are here
- 4 October 2018
+Date of decision: 17 December 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 section 274 section 279D
+Income Tax Assessment Act 1997 Subdivision 295-C section 295-465 section 295-470 section 295-485 paragraph 295-485(1)(a) paragraph 295-485(1)(b) subsection 295-485(2) subsection 295-485(3) section 307-120 section 307-125 section 307-400
+Income Tax (Transitional Provisions) Act 1997 section 295-485 Related ATO Interpretative Decisions ATO ID 2006/290 ATO ID 2007/219 Other References: Explanatory Memorandum to the Taxation Laws Amendment (Superannuation) Bill 1989 Keywords Superannuation fund expenses Superannuation fund potential detriment payments Siebel/TDMS Reference Number: 6312563, 1-G2LYCDZ Business Line: Public Groups and International Date of publication: 8 January 2010 ISSN: 1445 - 2782 history Date: Version: 17 December 2009
+Original statement You are here 4 October 2018
 Archived

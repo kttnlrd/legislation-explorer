@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/765
-==================================================
-
-Capital Gains Tax
- Capital gains tax: Buy-Sell Agreement - Time of CGT Event A1
- FOI status: may be released
-
-This document is withdrawn and replaced by ATO ID 2004/668.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Capital Gains Tax Capital gains tax: Buy-Sell Agreement - Time of CGT Event A1 FOI status: may be released This document is withdrawn and replaced by ATO ID 2004/668. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the capital gains tax (CGT) event A1 (section 104-10 of the Income Tax Assessment Act 1997 (ITAA 1997)) happen at the time a Buy-Sell Agreement is entered into by the shareholders of the company?
 Decision
 No. CGT event A1 (section 104-10 of the ITAA 1997) does not happen until the precondition of the agreement happens.
@@ -25,75 +10,17 @@ A Buy-Sell Agreement has been entered between a private limited company and its 
 The precondition of the agreement is that the provisions do not come into force or effect until one of the parties dies.
 Reasons for Decision
 Buy-sell agreements are recognised as appropriate to business succession planning. If a proprietor (shareholder) dies or becomes unable to continue in business in circumstances contemplated by the arrangement (ie. by disablement). The agreement ensures that the business is preserved for the remaining proprietors and the estate of the outgoing proprietor receives an amount equivalent to the worth of the proprietor's equity in the business. The ultimate transfer of business interests is funded by insurance proceeds.
-Buy-sell agreements have two key components:
-
-(a)The transfer agreement
-(b)The funding agreement.
-
-The funding agreement is critical to buy-sell agreements because it obliges the proprietors to take out insurance cover for the contingency that each proprietor may die (or become disabled) during the existence of the business, and the insurance policies provide the funding to support the ultimate transfer of the business interests when, and if, it occurs.
+Buy-sell agreements have two key components: (a)The transfer agreement
+(b)The funding agreement. The funding agreement is critical to buy-sell agreements because it obliges the proprietors to take out insurance cover for the contingency that each proprietor may die (or become disabled) during the existence of the business, and the insurance policies provide the funding to support the ultimate transfer of the business interests when, and if, it occurs.
 Time of CGT event A1
-Subsection 104-10(1) of the ITAA 1997 provides that CGT event A1 happens on the disposal of a CGT asset. A disposal will occur with this change of ownership. Subsection 104-10(3) ITAA 1997 sets the time of CGT event A1 as:
-
-(c)when you enter into the contract for the disposal; or
-(d)if there is no contract - when the change of ownership occurs.
-
-Buy-sell agreements are by their very nature contracts for the disposal of business interests.
+Subsection 104-10(1) of the ITAA 1997 provides that CGT event A1 happens on the disposal of a CGT asset. A disposal will occur with this change of ownership. Subsection 104-10(3) ITAA 1997 sets the time of CGT event A1 as: (c)when you enter into the contract for the disposal; or
+(d)if there is no contract - when the change of ownership occurs. Buy-sell agreements are by their very nature contracts for the disposal of business interests.
 The CGT provisions take the general law as it stands and this means the date 'you enter' the contract must be the date the contract comes into existence for general law purposes.
 An agreement, however, can be a conditional contract. It might only proceed if a specified condition is fulfilled. The condition may be a condition precedent or a condition subsequent.
 A buy-sell agreement is a contract of condition precedent. The condition precedent may be a condition precedent to the performance of the contract or a condition precedent to the formation of the contract. The distinction is important for CGT purposes.
-As Gibbs CJ noted in Perri v. Coolangatta Investments Pty Ltd (1982) 149 CLR 537; (1982) 56 ALJR 445; (1982) 41 ALR 441
-
-' ... It has sometimes proved difficult to decide whether a particular condition of a contract should be classified as a condition precedent or a condition subsequent, ... . However, provided the effect of the condition is clearly understood, its classification may be merely a matter of words. ... '
-
-And later
-
-' In Zieme v. Gregory [1963] V.R. 214, and Tait v. Bonnice [1975] V.R. 102 conditions making the contract conditional upon the purchaser containing a loan were held to be conditions subsequent, whereas in Scott v. Rania [1966] N.Z.L.R. a similar condition was held to be a condition precedent to the formation of a binding contract.'
-
-Whether a binding contract comes into existence before or after a condition is fulfilled depends on the particular terms of the contract. In the agreement, it is considered that the parties would not be bound by their contract from the date it is signed. In the event of death of a party is a condition precedent to the formation of the contract. Unless, and until, one of the events occurs, there is no certainty there will be a disposal of the sort contemplated by the agreement nor who will be buying and who will be selling.
+As Gibbs CJ noted in Perri v. Coolangatta Investments Pty Ltd (1982) 149 CLR 537; (1982) 56 ALJR 445; (1982) 41 ALR 441 ' ... It has sometimes proved difficult to decide whether a particular condition of a contract should be classified as a condition precedent or a condition subsequent, ... . However, provided the effect of the condition is clearly understood, its classification may be merely a matter of words. ... ' And later ' In Zieme v. Gregory [1963] V.R. 214, and Tait v. Bonnice [1975] V.R. 102 conditions making the contract conditional upon the purchaser containing a loan were held to be conditions subsequent, whereas in Scott v. Rania [1966] N.Z.L.R. a similar condition was held to be a condition precedent to the formation of a binding contract.' Whether a binding contract comes into existence before or after a condition is fulfilled depends on the particular terms of the contract. In the agreement, it is considered that the parties would not be bound by their contract from the date it is signed. In the event of death of a party is a condition precedent to the formation of the contract. Unless, and until, one of the events occurs, there is no certainty there will be a disposal of the sort contemplated by the agreement nor who will be buying and who will be selling.
 If it is the parties intention that the agreement does not become binding until the date of death of one of them, then the time of the contract for the purposes of CGT event A1, paragraph 104-10(3)(a) of the ITAA 1997, is that date of death.
-Date of decision:
-  3 June 2002
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 104-10(1)   paragraph 104-10(3)(a)
-
-Case References:
-
-Perri v. Coolangatta Investments Pty Ltd   (1982) 149 CLR 537   (1982) 56 ALJR 445   (1982) 41 ALR 441
-
-Keywords
-
-Capital gains tax
- Deaths
- Private companies
- Shareholders
- Shareholder payments
-
-Business Line:
-  Centres of Expertise Capital Gains Tax
-
-Date of publication:
-  31 July 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 3 June 2002
-Original statement
-
-You are here
+Date of decision: 3 June 2002 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 subsection 104-10(1) paragraph 104-10(3)(a) Case References: Perri v. Coolangatta Investments Pty Ltd (1982) 149 CLR 537 (1982) 56 ALJR 445 (1982) 41 ALR 441 Keywords Capital gains tax Deaths Private companies Shareholders Shareholder payments Business Line: Centres of Expertise Capital Gains Tax Date of publication: 31 July 2002 ISSN: 1445-2782 history Date: Version: 3 June 2002
+Original statement You are here
 13 August 2004
 Archived

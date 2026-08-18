@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/217
-==================================================
-
-Income Tax
- Capital gains tax: roll-over relief: exchange of share owned jointly for shares owned individually in an interposed company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: roll-over relief: exchange of share owned jointly for shares owned individually in an interposed company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is roll-over relief available under Subdivision 124-G of the Income Tax Assessment Act 1997 (ITAA 1997) where the joint owners of a share in an original company do not own a share jointly in the interposed company just after the reorganisation of the original company is completed?
 Decision
 No. The requirement in paragraph 124-365(2)(b) of the ITAA 1997 can only be satisfied if the joint owners hold a share jointly in the interposed company just after the reorganisation of the original company is completed.
@@ -30,39 +19,4 @@ Each exchanging member owns a whole number of shares in the interposed company j
 Further, the requirement in paragraph 124-365(2)(b) of the ITAA 1997 can be satisfied in relation to shareholders C, D and E. This is because they each own 25% of the total shares issued in the interposed company to all exchanging members and this is the same as their individual ownership interest in the original company's shares disposed of under the scheme.
 However, the requirement in paragraph 124-365(2)(b) of the ITAA 1997 cannot be satisfied in relation to shareholder A. The percentage of total shares that A owns in the interposed company just after the reorganisation (that is, one-eighth which equals 12.5%) is not the same as the percentage of shares that it owned (jointly with B) in the original company (that is, 1/4 which equals 25%). On the same basis, paragraph 124-365(2)(b) cannot be satisfied in respect of shareholder B.
 As the condition in paragraph 124-365(2)(b) of the ITAA 1997 cannot be satisfied in respect of each exchanging member, roll-over will not be available to any of the shareholders of the original company.
-Date of decision:
-  22 July 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 124-G   paragraph 124-360(1)   paragraph 124-365(2)(a)   paragraph 124-365(2)(b)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 97/18
-
-Keywords
-
-Capital gains tax
- CGT event A1 - disposal of CGT asset
- CGT exchange of shares in one company for shares in another company (124-G)
- CGT replacement asset roll-over
- CGT roll-over relief
- Interposed companies
- Joint interests
- Member of an entity
-
-Siebel/TDMS Reference Number:
-  4390619
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 July 2005
-
-ISSN:
- 1445-2782
+Date of decision: 22 July 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 Subdivision 124-G paragraph 124-360(1) paragraph 124-365(2)(a) paragraph 124-365(2)(b) Related Public Rulings (including Determinations) Taxation Ruling TR 97/18 Keywords Capital gains tax CGT event A1 - disposal of CGT asset CGT exchange of shares in one company for shares in another company (124-G) CGT replacement asset roll-over CGT roll-over relief Interposed companies Joint interests Member of an entity Siebel/TDMS Reference Number: 4390619 Business Line: Public Groups and International Date of publication: 29 July 2005 ISSN: 1445-2782

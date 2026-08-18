@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1180
-==================================================
-
-Income Tax
- Consolidation - entity rules - not subsidiary for whole year
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation - entity rules - not subsidiary for whole year FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is there a de minimis period in respect of section 701-30 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. There is no de minimis period in respect of section 701-30 of ITAA 1997. If an entity is not a member of the consolidated group for the whole of the income year the entity is obliged to calculate its income tax position for the non-membership period even if that period is only one day.
@@ -21,37 +10,8 @@ Subsidiary company has been in existence for some years.
 Subsidiary company becomes a subsidiary member of the consolidated group on 2 July 2004.
 Both the head company and the subsidiary company are 30 June balancing companies.
 Reasons for Decision
-Subsection 701-30(2) of the ITAA 1997 states that it has effect for the entity core purposes if:
-
-'a)the entity is a *subsidiary member of the group for some but not all of an income year; and
-(b)there are one or more periods in the income year (each of which is a
- non-membership period
-) during which the entity is not a subsidiary member of any *consolidated group.'* denotes a term defined in section 995-1 of the ITAA 1997
-
-Subsidiary company is not a member of the consolidated group on 1 July 2004. Thus, it has a non-membership period of one day, as it was not a subsidiary member of the group for the entire income year.
+Subsection 701-30(2) of the ITAA 1997 states that it has effect for the entity core purposes if: 'a)the entity is a *subsidiary member of the group for some but not all of an income year; and
+(b)there are one or more periods in the income year (each of which is a non-membership period
+) during which the entity is not a subsidiary member of any *consolidated group.'* denotes a term defined in section 995-1 of the ITAA 1997 Subsidiary company is not a member of the consolidated group on 1 July 2004. Thus, it has a non-membership period of one day, as it was not a subsidiary member of the group for the entire income year.
 There is no provision in section 701-30 that allows for a de minimis period or creates an exception to the non-membership period as defined in paragraph 701-30(2)(b) of the ITAA 1997. Accordingly, the subsidiary company will be required to calculate its tax position in respect of the period of the year in which it was not a member of a consolidated group.
-Date of decision:
-  26 September 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 701-30   subsection 701-30(2)   paragraph 701-30(2)(b)
-
-Keywords
-
-Consolidation
- Entity rules
- Membership
- Non-membership period
-
-Siebel/TDMS Reference Number:
-  3755351
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  24 December 2003
-
-ISSN:
- 1445-2782
+Date of decision: 26 September 2003 Legislative References: Income Tax Assessment Act 1997 section 701-30 subsection 701-30(2) paragraph 701-30(2)(b) Keywords Consolidation Entity rules Membership Non-membership period Siebel/TDMS Reference Number: 3755351 Business Line: Consolidation Centre of Expertise Date of publication: 24 December 2003 ISSN: 1445-2782

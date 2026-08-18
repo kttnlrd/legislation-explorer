@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/59
-==================================================
-
-Income Tax
- Trust Losses: control test - whether a group begins to control a trust after the death of an individual
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Trust Losses: control test - whether a group begins to control a trust after the death of an individual FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a 'group' begin to control a trust for the purposes of section 267-45 of Schedule 2F to the Income Tax Assessment Act 1936 (ITAA 1936) immediately after the death of the individual who was a co-director of the trustee company and the co-appointor and co-guardian of the trust?
 Decision
 No. Provided the death of the individual does not trigger the materialisation of a 'new' group that begins to control the trust directly or indirectly.
@@ -25,75 +12,17 @@ Decisions by the directors of Trustee Co are on the basis of a majority vote, in
 The three individuals A, B and C did not at any time constitute a 'group' for the purposes of paragraphs 269-95(5)(b) and 269-95(5)(c) of Schedule 2F to the ITAA 1936 because none of them were associates under section 318 of the ITAA 1936.
 During the 2005-06 income year, C died and was not replaced as a director of Trustee Co. The Trust Deed permits the trust to continue with only two appointors and two guardians, so the deceased was also not replaced in those offices.
 Prior to the death of C, neither A, B or C satisfied any of the control conditions in subsection 269-95(1) of Schedule 2F to the ITAA 1936 in their respective capacities as directors, appointors or guardians. This was due to the inability of the individuals to achieve either a majority vote or a unanimous vote (as the case required) in their own right.
-The trust is seeking to deduct a prior year tax loss in the 2005-06 income year.
-
-Reasons for decision
+The trust is seeking to deduct a prior year tax loss in the 2005-06 income year. Reasons for decision
 Section 267-45 of Schedule 2F to the ITAA 1936 provides that a group must not begin to control the trust directly or indirectly during the test period.
 A group controls a non-fixed trust pursuant to subsection 269-95(1) of Schedule 2F to the ITAA 1936.
 The individuals A, B and C each constituted a separate group, as a person, in accordance with paragraph 269-95(5)(a) of Schedule 2F to the ITAA 1936, up until the death of C.
 After the death of C, the remaining two 'groups' (A and B as persons in their roles as directors, appointors and guardians) arguably have altered capacities in their respective individual roles. For example, the voting arrangements as directors of Trustee Co now require both A and B to unanimously agree to all decisions, rather than the previous situation where a majority of any two (of the three) directors could have made decisions.
-However, as neither A nor B can achieve either a majority vote or a unanimous vote (as the case requires) by themselves, no group begins to control the trust during the test period and section 267-45 of Schedule 2F to the ITAA 1936 will not apply.
-
-Amendment History
-
-Date of Amendment
+However, as neither A nor B can achieve either a majority vote or a unanimous vote (as the case requires) by themselves, no group begins to control the trust during the test period and section 267-45 of Schedule 2F to the ITAA 1936 will not apply. Amendment History Date of Amendment
 Part
-Comment
-
-13 February 2015
+Comment 13 February 2015
 Decision
-Insert the word 'new' before 'group'
-
-Reasons for Decision
-Correct minor grammatical errors
-
-Date of decision:
-  14 March 2007
-
-Year of income:
-  30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 318   Schedule 2F   section 267-45   section 269-95   subsection 269-95(1)   subsection 269-95(5)   paragraph 269-95(5)(a)   paragraph 269-95(5)(b)   paragraph 269-95(5)(c)
-
-Keywords
-
-Change in control
- Control of a non-fixed trust
- Control test
- Deductions & expenses
- Losses
- Trust loss tests
- Trust losses
-
-Siebel/TDMS Reference Number:
-  5355836; 1-CVH87JF
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  23 March 2007
-
-Date reviewed:
-  12 June 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 March 2007
-Original statement
-
-You are here
+Insert the word 'new' before 'group' Reasons for Decision
+Correct minor grammatical errors Date of decision: 14 March 2007 Year of income: 30 June 2006 Legislative References: Income Tax Assessment Act 1936 section 318 Schedule 2F section 267-45 section 269-95 subsection 269-95(1) subsection 269-95(5) paragraph 269-95(5)(a) paragraph 269-95(5)(b) paragraph 269-95(5)(c) Keywords Change in control Control of a non-fixed trust Control test Deductions & expenses Losses Trust loss tests Trust losses Siebel/TDMS Reference Number: 5355836; 1-CVH87JF Business Line: Private Groups and High Wealth Individuals Date of publication: 23 March 2007 Date reviewed: 12 June 2018 ISSN: 1445-2782 history Date: Version: 14 March 2007
+Original statement You are here
 13 February 2015
 Updated statement

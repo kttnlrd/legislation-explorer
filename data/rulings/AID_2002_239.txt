@@ -1,25 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2002/239
-==================================================
-
-Income Tax
- Capital gains tax: scrip for scrip roll over: member of wholly owned group of companies
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: scrip for scrip roll over: member of wholly owned group of companies FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is Acquiring Co a member of a wholly-owned group of companies for the purposes of paragraph 124-780(2)(a) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes. For the purposes of subparagraph 124-780(2)(a)(ii) of the ITAA 1997 Acquiring Co is a member of a wholly-owned group of companies just before it first increases the percentage of voting shares that it
- owns
- in Target Co under the scrip for scrip arrangement. This is different from the time when Acquiring Co
- acquires
- the Target Co shares for the purposes of the CGT provisions.
+Yes. For the purposes of subparagraph 124-780(2)(a)(ii) of the ITAA 1997 Acquiring Co is a member of a wholly-owned group of companies just before it first increases the percentage of voting shares that it owns in Target Co under the scrip for scrip arrangement. This is different from the time when Acquiring Co acquires the Target Co shares for the purposes of the CGT provisions.
 Facts
 Parent Co owned 85% of the shares in Acquiring Co. On 31 July 2001, Parent Co acquired the remaining shares in Acquiring Co.
 On 1 July 2001, Acquiring Co made an offer to the shareholders of Target Co to exchange their Target Co shares for shares in Parent Co. The offer was accepted by 100% of Target Co shareholders during July 2000 but settlement did not occur until 1 August 2001.
@@ -29,30 +14,4 @@ If the acquiring entity is not a member of a wholly owned group, it must issue t
 In this case, Acquiring Co was a member of the wholly owned group (of which Parent Co was the ultimate holding company) just before 1 August 2001, the date of settlement, when Acquiring Co first increased the percentage of shares that it owned in Target Co. Accordingly for the target shareholders to qualify for scrip for scrip roll-over their replacement shares must be in Parent Co.
 The fact that Acquiring Co was not a member of the wholly owned group of companies when the offer was made to the Target Co shareholders (1 July 2001) or when they accepted the offer is not relevant for the purposes of the roll-over.
 Providing all the other conditions in Subdivision 124-M of the ITAA 1997 are satisfied, scrip for scrip roll-over will be available for the original shareholders of Target Co because they acquired shares in the ultimate holding company of the wholly owned group as required by subparagraph 124-780(3)(c)(ii) of the ITAA 1997.
-Date of decision:
-  22 January 2001
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 124-M   section 124-780   subsection 124-780(2)   paragraph 124-780(2)(a)   subparagraph 124-780(2)(a)(i)   subparagraph 124-780(2)(a)(ii)   subsection 124-780(3)   subparagraph 124-780(3)(c)(i)   subparagraph 124-780(3)(c)(ii)
-
-Keywords
-
-Scrip for scrip roll-over
- Arrangement
- CGT companies in the same wholly owned group
-
-Siebel/TDMS Reference Number:
-  CRS71791
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 March 2002
-
-ISSN:
- 1445-2782
+Date of decision: 22 January 2001 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Subdivision 124-M section 124-780 subsection 124-780(2) paragraph 124-780(2)(a) subparagraph 124-780(2)(a)(i) subparagraph 124-780(2)(a)(ii) subsection 124-780(3) subparagraph 124-780(3)(c)(i) subparagraph 124-780(3)(c)(ii) Keywords Scrip for scrip roll-over Arrangement CGT companies in the same wholly owned group Siebel/TDMS Reference Number: CRS71791 Business Line: Public Groups and International Date of publication: 22 March 2002 ISSN: 1445-2782

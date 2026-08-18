@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/804
-==================================================
-
-Income Tax
- Capital gains tax: property held on trust - absolute entitlement - pre-CGT asset
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in draft ruling TR 2004/D25.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: property held on trust - absolute entitlement - pre-CGT asset FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in draft ruling TR 2004/D25. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When is a beneficiary of a trust taken to have acquired a CGT asset of the trust if the beneficiary has always been absolutely entitled to the asset as against the trustee?
 Decision
 The beneficiary is taken to have acquired the asset when the trustee acquires it, rather than when the beneficiary obtains legal title to it. This is the effect of section 106-50 of the Income Tax Assessment Act 1997 (ITAA 1997).
@@ -29,56 +14,12 @@ On this basis, the friend acquired a property pursuant to a contract entered int
 In 1993 legal title in the property was transferred to the taxpayer. The taxpayer intends selling the property.
 Reasons for Decision
 Generally, a CGT asset is acquired when the taxpayer becomes its owner: subsection 109-5(1) of the ITAA 1997. Alternatively, if the CGT asset was acquired as a result of a CGT event happening, the asset is acquired at the time set out in the table in subsection 109-5(2).
-The trustee in this case acquired the asset as a result of CGT event A1 happening. Therefore, the trustee would otherwise have acquired the asset when they entered into the contract to acquire the asset: table in subsection 109-5(2) of the ITAA 1997.
-
-When is a beneficiary absolutely entitled to a CGT asset?
-
-It is considered that a beneficiary is absolutely entitled to a CGT asset of a trust as against the trustee if the beneficiary is:
-
-•absolutely entitled in equity to the asset and thus has a vested, indefeasible and absolute interest in the asset, and
-•able to direct how that asset shall be dealt with.
-
-Absolute entitlement is not precluded because of the existence of a trustee's lien to enforce a right of indemnity, or where a loan must be discharged before transferring legal title.
+The trustee in this case acquired the asset as a result of CGT event A1 happening. Therefore, the trustee would otherwise have acquired the asset when they entered into the contract to acquire the asset: table in subsection 109-5(2) of the ITAA 1997. When is a beneficiary absolutely entitled to a CGT asset? It is considered that a beneficiary is absolutely entitled to a CGT asset of a trust as against the trustee if the beneficiary is: •absolutely entitled in equity to the asset and thus has a vested, indefeasible and absolute interest in the asset, and
+•able to direct how that asset shall be dealt with. Absolute entitlement is not precluded because of the existence of a trustee's lien to enforce a right of indemnity, or where a loan must be discharged before transferring legal title.
 Under the trust arrangement in this case, the taxpayer had a vested, indefeasible and absolute interest in the asset from the day it was purchased and was able to direct how it should be dealt with. Therefore, the taxpayer was absolutely entitled to the property as against the trustee.
 Because the beneficiary was always absolutely entitled to the property as against the trustee, everything done by the trustee in relation to the property, including its acquisition is taken to have been done by the beneficiary: section 106-50 of the ITAA 1997. Therefore, for the purposes of the capital gains tax provisions in Parts 3-1 and 3-3 of the ITAA 1997, the beneficiary acquires the asset before 1985, rather than when legal title was obtained in 1993. This means that the property is a pre-CGT asset in the taxpayer's hands and any capital gain or capital loss made by them when they sell the property is disregarded.
 Note: The fact that the taxpayer was absolutely entitled to the asset as against the trustee also means that no CGT event happened when legal title in the asset was transferred to the taxpayer. A CGT event would only have happened if the transfer constituted a change of ownership. But section 106-50 of the ITAA 1997 also treats that transfer as an act done by the beneficiary (that is, the taxpayer). As the taxpayer was also the transferee, there was no change of ownership from one entity to another.
-Date of decision:
-  18 August 2003
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 106-50   subsection 109-5(1)   subsection 109-5(2)
-
-Keywords
-
-Capital gains tax
- CGT events E1-E9 - trusts
- Pre-CGT assets
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  5 September 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-18 August 2003
-Original statement
-
-You are here
+Date of decision: 18 August 2003 Year of income: Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 106-50 subsection 109-5(1) subsection 109-5(2) Keywords Capital gains tax CGT events E1-E9 - trusts Pre-CGT assets Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 5 September 2003 ISSN: 1445-2782 history Date: Version: 18 August 2003
+Original statement You are here
 12 March 2010
 Archived

@@ -1,22 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2002/1113
-==================================================
-
-Income Tax
- Convertible Notes - Non-Share Distribution as a Frankable Non-Share Dividend
- FOI status: may be released
-
-This Interpretative Decision was originally issued as ATO ID 2002/1113, however it was inadvertantly loaded as ATO ID 2002/1054. This error has been corrected so that the decision is now displayed as 2002/1113.
+================================================== Income Tax Convertible Notes - Non-Share Distribution as a Frankable Non-Share Dividend FOI status: may be released This Interpretative Decision was originally issued as ATO ID 2002/1113, however it was inadvertantly loaded as ATO ID 2002/1054. This error has been corrected so that the decision is now displayed as 2002/1113.
 This ATOID has equal application to section 202-40 of the Income Tax Assessment Act 1997 (ITAA 1997). All reference to section 160APA of the Income Tax Assessment Act 1936 (ITAA 1936) should therefore be taken as including reference to section 202-40.
-This ATOID has equal application to Subdivision 215-B of the ITAA 1997. All reference to section 160APAAAB of the ITAA 1936 should therefore be taken as including reference to subdivision 215-B. Please note the part concerning Class C franking debits (i.e. subsection 160APAAAB(8)-(10)of the ITAA 1936) was repealed with no replacement. Any discussion in this ATOID that refers to Class C franking debits ceased to be applicable from 14 September 2006.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+This ATOID has equal application to Subdivision 215-B of the ITAA 1997. All reference to section 160APAAAB of the ITAA 1936 should therefore be taken as including reference to subdivision 215-B. Please note the part concerning Class C franking debits (i.e. subsection 160APAAAB(8)-(10)of the ITAA 1936) was repealed with no replacement. Any discussion in this ATOID that refers to Class C franking debits ceased to be applicable from 14 September 2006. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a scheme of arrangement alters the character of a convertible note from a debt interest to a non-share equity interest, will subsequent non-share distributions made by a non-bank issuer be treated as frankable non-share dividends under section 160APA of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. A non-share distribution paid by a non-bank issuer on the convertible note will be a frankable dividend as defined in section 160APA of the ITAA 1936 where: (i) the distribution is paid in respect of the convertible note when it is a non-share equity interest is a non-share dividend and not a distribution of non-share capital; and (ii) the non-share dividend is not a non-share dividend to which subsection 160APA(gb) of the ITAA 1936 applies.
@@ -27,34 +14,5 @@ A frankable dividend is defined in section 160APA of the ITAA 1936 to include...
 A non-share dividend for the purposes of the ITAA 1997 takes its definition from subsection 995-1(1) of the ITAA 1997. This definition provides that a non-share dividend has the meaning given by section 974-120 of the ITAA 1997. Section 974-120 of the ITAA 1997 provides that all non-share distributions are non-share dividends to the extent to which those distributions do not represent a return of non-share capital or share capital. In turn, section 974-115 of the ITAA 1997 provides that a non-share distribution arises where you hold a non-share equity interest in a company and the company, as a result of you being a non-share equity interest holder, distributes money to you, distributes other property to you or credits an amount to you.
 In the present case, the distributions on the non-share equity interest would give rise to a non-share distribution because the distributions would be paid as a result of the note holder being a holder of a non-share equity interest. Those non-share distributions - the regular interest payments on the convertible note - would not represent distributions of non-share capital or share capital. Accordingly, the distributions paid on the non-share equity interest [the convertible note] would be non-share dividends as defined pursuant to the operation of sections 974-115 and 974-120 of the ITAA 1997.
 Section 160APA of the ITAA 1936 would, by virtue of the definition contained in subsection 160APA(aa) of the ITAA 1936, treat the non-share dividends as a frankable dividend, subject to section 160APAAAB not applying to treat the non-share dividend as a non-frankable non-share dividend. Section 160APAAAB of the ITAA 1936 will apply to treat a non-share dividend as a non-frankable non-share dividend where the 'available frankable profits' requirements set out in that section are not satisfied.
-Date of decision:
-  18 March 2002
-
-Year of income:
-  Other/Substituted Accounting Period 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 974 -115   section 974-120   subsection 995-1(1)
-Income Tax Assessment Act 1936   section 160APA   section 160APAAAB
-
-Other References:
-
- Explanatory Memorandum: New Business Tax System (Debt and Equity) Act 2001
-
-Keywords
-
-Convertible notes
- Debt equity borderline
-
-Siebel/TDMS Reference Number:
-  DW410267-5
-
-Business Line:
-  Office of the Chief Tax Counsel
-
-Date of publication:
-  30 November 2002
-
-ISSN:
- 1445-2782
+Date of decision: 18 March 2002 Year of income: Other/Substituted Accounting Period 2004 Legislative References: Income Tax Assessment Act 1997 section 974 -115 section 974-120 subsection 995-1(1)
+Income Tax Assessment Act 1936 section 160APA section 160APAAAB Other References: Explanatory Memorandum: New Business Tax System (Debt and Equity) Act 2001 Keywords Convertible notes Debt equity borderline Siebel/TDMS Reference Number: DW410267-5 Business Line: Office of the Chief Tax Counsel Date of publication: 30 November 2002 ISSN: 1445-2782

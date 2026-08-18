@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/149
-==================================================
-
-Income Tax
- Classification of a Bermudan Exempted Limited Partnership for Australian income tax purposes
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Classification of a Bermudan Exempted Limited Partnership for Australian income tax purposes FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a Bermudan exempted limited partnership a corporate limited partnership under Division 5A of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. A Bermudan exempted limited partnership is a corporate limited partnership under Division 5A of the ITAA 1936.
@@ -22,72 +11,23 @@ The relevant Limited Partnership Agreement (LPA) provides for one partner to be 
 The limited partnership was formed in an income year later than the 1995-96 income years by the General Partner and the Initial Limited Partner.
 The partnership was established for the purpose of investing in real estate and real estate related assets.
 Reasons for Decision
-The definition of a partnership in section 995-1 of the Income Tax Assessment Act 1997 (ITAA 1997) includes a limited partnership. A limited partnership is further defined in section 995-1 of the ITAA 1997 as:
-
-(a)an association of persons (other than a company) carrying on a business as partners or in receipt of *ordinary income or *statutory income jointly, where the liability of at least one of those persons is limited; or
+The definition of a partnership in section 995-1 of the Income Tax Assessment Act 1997 (ITAA 1997) includes a limited partnership. A limited partnership is further defined in section 995-1 of the ITAA 1997 as: (a)an association of persons (other than a company) carrying on a business as partners or in receipt of *ordinary income or *statutory income jointly, where the liability of at least one of those persons is limited; or
 (b)an association of persons (other than one referred to in paragraph (a)) with legal personality separate from those persons that was formed solely for the purpose of becoming a *VCLP, *AFOF or a *VCMP and to carry on activities that are carried on by a body of that kind.
-* denotes a term defined in section 995-1 of the ITAA 1997
-
-Therefore, an association of persons in receipt of ordinary income may be a limited partnership provided the liability of at least one person is limited. Other definitions in section 995-1 of the ITAA 1997 refer to the liability of the partners. A General Partner is a partner of a limited partnership whose liability in relation to the partnership is unlimited. A Limited Partner is a partner whose liability in relation to the partnership is limited.
+* denotes a term defined in section 995-1 of the ITAA 1997 Therefore, an association of persons in receipt of ordinary income may be a limited partnership provided the liability of at least one person is limited. Other definitions in section 995-1 of the ITAA 1997 refer to the liability of the partners. A General Partner is a partner of a limited partnership whose liability in relation to the partnership is unlimited. A Limited Partner is a partner whose liability in relation to the partnership is limited.
 As the LPA provides for one partner to be the General Partner and the other partners to be Limited Partners, the Bermudan Exempted Limited Partnership will be a limited partnership.
 A 'corporate limited partnership' however, is separately defined in Division 5A of the ITAA 1936 so that such an entity is treated as a company for Australian income tax purposes.
 A 'corporate limited partnership' is defined in section 94D of the ITAA 1936 to include limited partnerships formed in the 1995-96 or later years of income, but subsection 94D(2) of the ITAA 1936 specifically excludes a VCLP, AFOF or venture capital management partnership. In this context a VCLP is a Venture Capital Limited Partnership and AFOF means an Australian Venture Capital Fund of Funds.
-A VCLP is defined by reference to the Venture Capital Act 2002. The Bermudan Exempted Limited Partnership will not be excluded from the definition of a corporate limited partnership as subsection 9-1(1) of the Venture Capital Act requires of a VCLP that:
-
-(a)the partnership was established by or under a law in force in, or any part of Australia or a listed country or any other foreign country prescribed by the regulations; and
-(b)the general partner must be resident of either Australia or one of the listed countries or any other foreign country prescribed by the regulations.
-
-The Bermudan Exempted Limited Partnership is not established under Australian law, but instead under Bermudan law which is not a listed country nor a country prescribed in the regulations of the Venture Capital Act. Therefore, the Bermudan Exempted Limited Partnership will not be a VCLP.
+A VCLP is defined by reference to the Venture Capital Act 2002. The Bermudan Exempted Limited Partnership will not be excluded from the definition of a corporate limited partnership as subsection 9-1(1) of the Venture Capital Act requires of a VCLP that: (a)the partnership was established by or under a law in force in, or any part of Australia or a listed country or any other foreign country prescribed by the regulations; and
+(b)the general partner must be resident of either Australia or one of the listed countries or any other foreign country prescribed by the regulations. The Bermudan Exempted Limited Partnership is not established under Australian law, but instead under Bermudan law which is not a listed country nor a country prescribed in the regulations of the Venture Capital Act. Therefore, the Bermudan Exempted Limited Partnership will not be a VCLP.
 Similar problems exist with the Bermudan Exempted Limited Partnership being either an AFOF or a venture capital management partnership. A limited partnership may not be either an AFOF or a venture capital management partnership without being an Australian resident. The Bermudan Exempted Limited Partnership is not an Australian resident.
 Therefore, the Bermudan Exempted Limited Partnership is a limited partnership which is not excluded from the definition of corporate limited partnership because of subsection 94D(2) of the ITAA 1936.
 A limited partnership can also be a foreign hybrid entity (for example, a foreign hybrid limited partnership) under Division 830 of the ITAA 1997. A limited partnership that is a foreign hybrid limited partnership is excluded from being a corporate limited partnership via subsection 94D(4) of the ITAA 1936. A 'foreign hybrid limited partnership' is defined in section 830-10 of the ITAA 1997.
 Paragraph 830-10(1)(b) of the ITAA 1997 requires that foreign tax must be imposed under the law of the foreign country on the partners, not the partnership. Bermuda as the foreign country in question does not impose any tax on income, profits, dividends or wealth. Therefore, Bermuda does not impose tax on the partners and as a result, this paragraph will not be satisfied.
 Also, paragraph 830-10(1)(e) of the ITAA 1997 requires that the limited partnership be a controlled foreign company (CFC) at the end of a statutory accounting period and that at the end of the statutory accounting period, there is a taxpayer that is an attributable taxpayer in relation to the CFC with an attribution percentage greater than nil. In situations where a Bermudan Exempted Limited Partnership fails to be a CFC, then the partnership will also fail to satisfy the requirements of paragraph 830-10(1)(e) of the ITAA 1997.
 Therefore, as the Bermudan Exempted Limited Partnership fails to satisfy the requirements of paragraph 830-10(1)(b) of the ITAA 1997, and where it is not a CFC it will neither satisfy paragraph 830-10(1)(e) of the ITAA 1997, then as a result it will fail to satisfy the definition of a 'foreign hybrid limited partnership' in subsection 830-10(1) of the ITAA 1997. Therefore, it would not be excluded from being a corporate limited partnership pursuant to subsection 94D(4) of the ITAA 1936.
-Consequently, the Bermudan Exempted Limited Partnership:
-
-•satisfies the Australian income tax definition of a 'limited partnership', and
+Consequently, the Bermudan Exempted Limited Partnership: •satisfies the Australian income tax definition of a 'limited partnership', and
 •does not satisfy the exclusions in subsection 94D(2) of the ITAA 1936, and
-•is not a foreign hybrid limited partnership under subsection 830-10(1) of the ITAA 1997.
-
-In conclusion, the Bermudan Exempted Limited Partnership will be a 'corporate limited partnership' for Australian income tax purposes as per the definition in section 94D of the ITAA 1936.
-Date of decision:
-  18th May 2006
-
-Year of income:
-  Year ending 30 September 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 5A   section 94D
-Income Tax Assessment Act 1997   subsection 830-10(1)   section 995-1
-Venture Capital Act 2002   subsection 9-1(1)
-
-Other References:
-
-The Limited Partnership Act 1883 (Bermuda)
- The Exempted Partnerships Act 1992 (Bermuda)
- The Partnership Act 1902 (Bermuda)
-
-Keywords
-
-Bermuda
- Controlled foreign companies
- Foreign hybrid limited partnership
- Foreign hybrids
- International tax
- Limited partnerships
- Ownership, interests, control & rights
- Tracing of ownership & interests
-
-Siebel/TDMS Reference Number:
-  5203102
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 June 2006
-
-ISSN:
- 1445-2782
+•is not a foreign hybrid limited partnership under subsection 830-10(1) of the ITAA 1997. In conclusion, the Bermudan Exempted Limited Partnership will be a 'corporate limited partnership' for Australian income tax purposes as per the definition in section 94D of the ITAA 1936.
+Date of decision: 18th May 2006 Year of income: Year ending 30 September 2006 Legislative References: Income Tax Assessment Act 1936 Division 5A section 94D
+Income Tax Assessment Act 1997 subsection 830-10(1) section 995-1
+Venture Capital Act 2002 subsection 9-1(1) Other References: The Limited Partnership Act 1883 (Bermuda) The Exempted Partnerships Act 1992 (Bermuda) The Partnership Act 1902 (Bermuda) Keywords Bermuda Controlled foreign companies Foreign hybrid limited partnership Foreign hybrids International tax Limited partnerships Ownership, interests, control & rights Tracing of ownership & interests Siebel/TDMS Reference Number: 5203102 Business Line: Public Groups and International Date of publication: 9 June 2006 ISSN: 1445-2782

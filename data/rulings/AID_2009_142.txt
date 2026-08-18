@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/142
-==================================================
-
-Income Tax
- Taxation of Financial Arrangements: financial arrangement - is a forward purchase contract 'cash settlable' under paragraph 230-45(2)(e) of the Income Tax Assessment Act 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of Financial Arrangements: financial arrangement - is a forward purchase contract 'cash settlable' under paragraph 230-45(2)(e) of the Income Tax Assessment Act 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a forward purchase contract under which a taxpayer receives physical delivery of a commodity and which incorporates a 'dealer's margin' meet the definition of 'cash settlable' under paragraph 230-45(2)(e) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The words 'you deal with the right or obligation, or with similar rights or obligations' in paragraph 230-45(2)(e) of the ITAA 1997 require that a taxpayer must deal with the rights and/or obligations in relation to the commodity rather than deal with the commodity itself.
@@ -28,38 +17,6 @@ Whether a right to receive or obligation to provide a financial benefit is cash 
 Under the forward purchase contract, the taxpayer has a right to receive the commodity from the supplier and an obligation to pay the contracted price. Both the commodity and the contracted price satisfy the definition of financial benefit (defined in subsection 955-1(1) of the ITAA 1997 by reference to subsection 974-160(1) of the ITAA 1997 as, amongst other things, 'anything of economic value'). It is then relevant to consider whether the right to receive the commodity and the obligation to pay the contracted price are a cash settlable right and obligation as defined in subsection 230-45(2) of the ITAA 1997.
 The taxpayer's obligation to pay the contracted price under the forward purchase contract satisfies the definition of cash settlable pursuant to paragraph 230-45(2)(a) of the ITAA 1997 as the obligation is in relation to a financial benefit that is a sum of money.
 However, the taxpayer's right to receive the commodity from the supplier under the forward purchase contract will not satisfy paragraph 230-45(2)(a) of the ITAA 1997. The right to receive the commodity under the forward purchase contract is not money or a money equivalent as defined. The issue is whether the right to receive the commodity satisfies the requirements of paragraph 230-45(2)(e) of the ITAA 1997 on the basis that, under the forward purchase contract, the taxpayer deals with the right in order to generate a profit from short-term fluctuations in price, from a 'dealer's margin', or from both.
-The phrase 'deal with the right or obligation' is not defined; therefore it will take its ordinary meaning. The phrase clearly requires you to deal with the 'right or obligation' rather than deal with the commodity itself. In order to satisfy the requirements of paragraph 230-45(2)(e) of the ITAA 1997, what has to be dealt with in the relevant sense is the actual right(s) and obligation(s) themselves, that is, the intangible right(s) and obligation(s), as distinct from the physical piece of property represented by the commodity. This interpretation is consistent with paragraph 2 81 of the Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 which states:
-
-Note that the relevant dealing, for the purposes of this aspect of the definition of 'cash settlable', must be with the relevant rights and obligations themselves, and not in respect of the particular non-monetary financial benefits that the taxpayer has the right to receive, or obligation to provide. This means, for example, that a dealing by a taxpayer with a physical item of trading stock it has a right to receive or a taxpayer's dealings in items of trading stock similar to that which it has a right to receive, would not be relevant dealings for the purpose of this aspect of the definition of cash settlable.
-
-The sort of dealer's margin in view in paragraph 230-45(2)(e) of the ITAA 1997 is a reference to the sort of margin that someone who deals in the right or obligation has, rather than to the sort of margin that someone who deals in the commodity itself has.
+The phrase 'deal with the right or obligation' is not defined; therefore it will take its ordinary meaning. The phrase clearly requires you to deal with the 'right or obligation' rather than deal with the commodity itself. In order to satisfy the requirements of paragraph 230-45(2)(e) of the ITAA 1997, what has to be dealt with in the relevant sense is the actual right(s) and obligation(s) themselves, that is, the intangible right(s) and obligation(s), as distinct from the physical piece of property represented by the commodity. This interpretation is consistent with paragraph 2 81 of the Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 which states: Note that the relevant dealing, for the purposes of this aspect of the definition of 'cash settlable', must be with the relevant rights and obligations themselves, and not in respect of the particular non-monetary financial benefits that the taxpayer has the right to receive, or obligation to provide. This means, for example, that a dealing by a taxpayer with a physical item of trading stock it has a right to receive or a taxpayer's dealings in items of trading stock similar to that which it has a right to receive, would not be relevant dealings for the purpose of this aspect of the definition of cash settlable. The sort of dealer's margin in view in paragraph 230-45(2)(e) of the ITAA 1997 is a reference to the sort of margin that someone who deals in the right or obligation has, rather than to the sort of margin that someone who deals in the commodity itself has.
 In this case, the taxpayer is not dealing in the relevant right to the commodity itself in order to generate a profit. That there is an amount which is called a 'dealer's margin', paid as part of a transaction dealing in 'the commodity' to generate a profit, does not satisfy paragraph 230-45(2)(e) of the ITAA 1997. Accordingly, the financial benefit constituted by the taxpayer's right to receive the commodity under the forward purchase contract does not meet the definition of 'cash settlable' under paragraph 230-45(2)(e).
-Date of decision:
-  16 November 2009
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 230-45   paragraph 230-45(1)(a)   paragraph 230-45(1)(b)   subsection 230-45(2)   paragraph 230-45(2)(a)   paragraph 230-45(2)(e)   section 230-50   section 230-55   subsection 230-55(4)   subsection 974-160(1)   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/115
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008
-
-Siebel/TDMS Reference Number:
-  6269867
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  20 November 2009
-
-ISSN:
- 1445-2782
+Date of decision: 16 November 2009 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 230-45 paragraph 230-45(1)(a) paragraph 230-45(1)(b) subsection 230-45(2) paragraph 230-45(2)(a) paragraph 230-45(2)(e) section 230-50 section 230-55 subsection 230-55(4) subsection 974-160(1) subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2009/115 Other References: Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 Siebel/TDMS Reference Number: 6269867 Business Line: Finance and Investment Centre of Expertise Date of publication: 20 November 2009 ISSN: 1445-2782

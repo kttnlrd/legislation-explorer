@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/825
-==================================================
-
-Income Tax
- Capital Allowances: balancing adjustment event for a depreciating asset that is no longer used
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: balancing adjustment event for a depreciating asset that is no longer used FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a balancing adjustment event occur under paragraph 40-295(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997), for a depreciating asset, which the taxpayer stopped using prior to 1 July 2001, and expected never to use again?
 Decision
 Yes. Division 40 of the ITAA 1997 applies to the asset and a balancing adjustment event occurred under paragraph 40-295(1)(b) of the ITAA 1997 for the depreciating asset.
@@ -26,72 +13,13 @@ For a balancing adjustment event that occurs under paragraph 40-295(1)(b) of the
 Where you have deducted or could have deducted amounts for plant under Division 42 of the ITAA 1997, Division 40 of the Income Tax (Transitional Provisions) Act 1997 ensures that Division 40 of the ITAA 1997 applies to the asset that you held on or before 1 July 2001.
 Therefore, a balancing adjustment event occurred under paragraph 40-295(1)(b) of the ITAA 1997 for the unsold machines at some time in the 2001-02 income year when the taxpayer decided it would never use them again.
 The termination value of the machines is equal to their market value at the time the taxpayer stopped using them, which was zero.
-A further balancing adjustment event could arise under paragraph 40-295(1)(a) of the ITAA 1997 when the taxpayer stops holding the machines.
-
-Amendment History
-
-Date of Amendment
+A further balancing adjustment event could arise under paragraph 40-295(1)(a) of the ITAA 1997 when the taxpayer stops holding the machines. Amendment History Date of Amendment
 Part
-Comment
-
-26 May 2017
+Comment 26 May 2017
 Reasons for decision
-Delete abbreviation in 3rd paragraph as it is not necessary.
-
-Related ATO Interpretative Decisions
-ATO ID 2003/457 was withdrawn 1 July 2005 and replaced by ATO ID 2005/190.
-
-Date of decision:
-  22 August 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   paragraph 40-295(1)(a)   paragraph 40-295(1)(b)   Division 40   Division 42
-Income Tax (Transitional Provisions) Act 1997   Division 40
-
-Related ATO Interpretative Decisions
-
- ATO ID 2005/190
-
-Keywords
-
-Balancing adjustments
- Balancing adjustment event
- Depreciating assets
- Hold a depreciating asset
- Termination value
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  3419984, 1-BC0UTEN
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  12 September 2003
-
-Date reviewed:
-  9 May 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-22 August 2003
-Original statement
-
-You are here
+Delete abbreviation in 3rd paragraph as it is not necessary. Related ATO Interpretative Decisions
+ATO ID 2003/457 was withdrawn 1 July 2005 and replaced by ATO ID 2005/190. Date of decision: 22 August 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 paragraph 40-295(1)(a) paragraph 40-295(1)(b) Division 40 Division 42
+Income Tax (Transitional Provisions) Act 1997 Division 40 Related ATO Interpretative Decisions ATO ID 2005/190 Keywords Balancing adjustments Balancing adjustment event Depreciating assets Hold a depreciating asset Termination value Uniform capital allowances system Siebel/TDMS Reference Number: 3419984, 1-BC0UTEN Business Line: Private Groups and High Wealth Individuals Date of publication: 12 September 2003 Date reviewed: 9 May 2017 ISSN: 1445-2782 history Date: Version: 22 August 2003
+Original statement You are here
 26 May 2017
 Updated statement

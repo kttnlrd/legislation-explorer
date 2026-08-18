@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/27
-==================================================
-
-Capital Gains Tax
- Commercial Debt Forgiveness: Applying total net forgiven amount - individual Debtor
- FOI status: may be released
-
-This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Capital Gains Tax Commercial Debt Forgiveness: Applying total net forgiven amount - individual Debtor FOI status: may be released This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where an arm's length 'commercial debt' is forgiven for the income year ended 30 June 2001, does section 245-105 of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936) operate to apply the 'total net forgiven amount' in successively reducing the debtor's deductible revenue losses, deductible net capital losses, deductible expenditures and the cost base of certain CGT assets?
 Decision
 Yes. The individual debtor is required to make reductions in accordance with section 245-105 of Schedule 2C to the ITAA 1936 for the income year ended 30 June 2001 being the 'forgiveness year of income'.
@@ -24,87 +9,30 @@ Facts
 An individual entered into an arm's length contract with a company for the purchase of trading stock on 1 September 1999 for $800. At this time, the individual had the capacity to pay for the stock.
 Later, the individual experienced financial difficulties and was unable to repay the debt. The company chose to forgive the full amount of the debt in July 2000.
 The forgiveness of the debt resulted in a net forgiven amount of $800. This was the only debt forgiven in favour of that individual in the forgiveness year.
-Prior to lodging a tax return for the income year ended 30 June 2001, being the year in which the forgiveness of the debt occurred (the 'forgiveness year of income'), the individual had the following deductible revenue losses and deductible net capital losses available:
-
-Income year ended[rg1]
+Prior to lodging a tax return for the income year ended 30 June 2001, being the year in which the forgiveness of the debt occurred (the 'forgiveness year of income'), the individual had the following deductible revenue losses and deductible net capital losses available: Income year ended[rg1]
 Deductible revenue losses
-Deductible net capital losses
-
-30 June 1999
+Deductible net capital losses 30 June 1999
 $400
-$150
-
-30 June 2000
-$100
-
-30 June 2001
-
-$450
-
-The individual's only deductible expenditure in the forgiveness year of income was in respect of a single item of depreciable plant. The plant was acquired on 1 July 1998 at a cost of $400 and has been depreciated at a rate of 10% applying the diminishing value method.
-Details of depreciation claimed were as follows:
-
-Year ended 30 June 1999
-$40
-
-Year ended 30 June 2000
-$36
-
-The opening undeducted cost for the income year ended 30 June 2001 was $324.
+$150 30 June 2000
+$100 30 June 2001 $450 The individual's only deductible expenditure in the forgiveness year of income was in respect of a single item of depreciable plant. The plant was acquired on 1 July 1998 at a cost of $400 and has been depreciated at a rate of 10% applying the diminishing value method.
+Details of depreciation claimed were as follows: Year ended 30 June 1999
+$40 Year ended 30 June 2000
+$36 The opening undeducted cost for the income year ended 30 June 2001 was $324.
 The cost base of all the individual's CGT assets at the commencement of the forgiveness year of income was $60.
 Reasons for Decision
 Where commercial debts owed by an individual are forgiven on or after 27 June 1996, the total net forgiven amount for a particular income year must be applied, in accordance with the commercial debt forgiveness provisions of Schedule 2C to the ITAA 1936, to successively[rg2] reduce the individual's deductible revenue losses, deductible net capital losses, deductible expenditure and the cost base of certain CGT assets.
 The 'total net forgiven amount', as per subsection 245-105(1) of Schedule 2C to the ITAA 1936, is the sum of all net forgiven amounts of the debtor, calculated in accordance with Subdivision 245-D of the ITAA 1936, for the particular income year.
 As there is only one net forgiven amount for this individual in the income year, the total net forgiven amount is $800.
-Subsections 245-105(5) to (8) of Schedule 2C to the ITAA 1936 provide that the total net forgiven amount must be applied, to the maximum extent possible, to make reductions in the order listed hereunder:
-
-(1) deductible revenue losses (if any) incurred by the debtor before the forgiveness year;
+Subsections 245-105(5) to (8) of Schedule 2C to the ITAA 1936 provide that the total net forgiven amount must be applied, to the maximum extent possible, to make reductions in the order listed hereunder: (1) deductible revenue losses (if any) incurred by the debtor before the forgiveness year;
 (2) where there is any unapplied total net forgiven amount (referred to as the 'residual forgiven amount'), reduce deductible net capital losses (if any) incurred by the debtor before the forgiveness year;
 (3) where there is any residual forgiven amount, reduce deductible expenditure taken into account in the debtor's tax return for the forgiveness year and future income years;
-(4) where there is any residual forgiven amount, reduce the relevant cost bases of certain assets of the debtor at the beginning of the forgiveness year.
-
-The individual has total deductible revenue losses of $500 from prior years. These losses are reduced to nil. The residual forgiven amount for the purposes of section 245-125 of Schedule 2C to the ITAA 1936 is $800 less $500 = $300.
+(4) where there is any residual forgiven amount, reduce the relevant cost bases of certain assets of the debtor at the beginning of the forgiveness year. The individual has total deductible revenue losses of $500 from prior years. These losses are reduced to nil. The residual forgiven amount for the purposes of section 245-125 of Schedule 2C to the ITAA 1936 is $800 less $500 = $300.
 The individual has deductible net capital losses of $150 from a prior year. These losses are reduced to nil. The residual forgiven amount for the purposes of subsection 245-140(1) of Schedule 2C to the ITAA 1936 is $300 less $150 = $150.
 The individual's deductible net capital loss of $450 for the income year ended 30 June 2001 is not reduced as it is not a deductible net capital loss of an income year prior to the forgiveness year as required by section 245-125 of Schedule 2C to the ITAA 1936.
 The individual has deductible expenditure in respect of the item of plant acquired on 1 July 1998. As the plant is subject to depreciation, applying the diminishing value method, the residual forgiven amount of $150 is taken as having been allowed as a depreciation deduction before the forgiveness year of income in accordance with subsection 245-155(2) of Schedule 2C to the ITAA 1936[rg3].
 The undeducted cost of $324 in respect of the item of plant at the start of the forgiveness year of income is therefore reduced to $174.
 As the full amount of the 'total net forgiven amount' has been applied for the purposes of section 245-105 of Schedule 2C to the ITAA 1936, it is not necessary to consider any relevant cost base adjustments to the CGT assets held by the individual in the forgiveness year.
-Date of decision:
-  11 November 2002
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Subdivision 245-D   section 245-105   section 245-125   subsection 245-105(1)   subsection 245-105(5)   subsection 245-105 (6)   subsection 245-105 (7)   subsection 245-105 (8)   subsection 245-140(1)   subsection 245-155(2)   Schedule 2C
-
-Keywords
-
-Debt waivers
- Debt forgiveness
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  14 February 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-11 November 2002
-Original statement
-
-You are here
+Date of decision: 11 November 2002 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 Subdivision 245-D section 245-105 section 245-125 subsection 245-105(1) subsection 245-105(5) subsection 245-105 (6) subsection 245-105 (7) subsection 245-105 (8) subsection 245-140(1) subsection 245-155(2) Schedule 2C Keywords Debt waivers Debt forgiveness Business Line: Losses and CGT Centre of Expertise Date of publication: 14 February 2003 ISSN: 1445-2782 history Date: Version: 11 November 2002
+Original statement You are here
 21 November 2008
 Archived

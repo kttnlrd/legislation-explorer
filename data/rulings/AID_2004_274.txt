@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/274
-==================================================
-
-Income Tax
- Assessable income: repayment arrangement - amounts not yet repaid
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessable income: repayment arrangement - amounts not yet repaid FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an amount received by a taxpayer which is subject to a repayment arrangement, but has not yet been repaid, treated as 'not assessable income' under section 59-30 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. An amount received by a taxpayer which is subject to a repayment arrangement, but has not yet been repaid, is not treated as 'not assessable income' under section 59-30 of the ITAA 1997.
@@ -24,44 +13,8 @@ The taxpayer has agreed to repay the grant in monthly instalments over a period 
 The taxpayer is not entitled to a deduction for any of the amounts repaid or to be repaid.
 Reasons for Decision
 Subsection 59-30(1) of the ITAA 1997 states that:
-An amount you receive is not assessable income, and is not exempt income, for an income year if:
-
-(a) you must repay it; and
+An amount you receive is not assessable income, and is not exempt income, for an income year if: (a) you must repay it; and
 (b) you repay it in a later income year; and
-(c) you cannot deduct the repayment for any income year.
-
-The first requirement is that the taxpayer must 'repay' the grant. The term repay is not defined in income tax legislation. It is appropriate therefore to look at the ordinary meaning of the term repay.
+(c) you cannot deduct the repayment for any income year. The first requirement is that the taxpayer must 'repay' the grant. The term repay is not defined in income tax legislation. It is appropriate therefore to look at the ordinary meaning of the term repay.
 The Australian Oxford Dictionary, 1999, Oxford University Press, Melbourne, defines the term as 'pay back (money) ... make payment (to a person) ... make payment'. It follows that the term requires the actual transfer of money rather than merely a promise or requirement to make a payment in the future.
-The taxpayer will only satisfy this requirement that they repay the amount, in relation to the amount of the instalments actually paid. For any amounts that are required to be paid, but as yet have not been, the requirement is not satisfied. Therefore these amounts are not treated as 'not assessable income' under section 59-30 of the ITAA 1997.
-
-Note: Section 59-30 of the ITAA 1997 replaced section 22-5 of the ITAA 1997. As the terms of section 22-5 of the ITAA 1997 were identical to those in section 59-30 of the ITAA 1997 this ATO ID has equal application to the operation of section 22-5 of the ITAA 1997.
-
-Date of decision:
-  20 February 2004
-
-Year of income:
-  Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 22-5   section 59-30   subsection 59-30(1)
-
-Other References:
-
-The Australian Oxford Dictionary, 1999, Oxford University Press, Melbourne
-
-Keywords
-
-repayments
-
-Siebel/TDMS Reference Number:
-  3811109
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  26 March 2004
-
-ISSN:
- 1445-2782
+The taxpayer will only satisfy this requirement that they repay the amount, in relation to the amount of the instalments actually paid. For any amounts that are required to be paid, but as yet have not been, the requirement is not satisfied. Therefore these amounts are not treated as 'not assessable income' under section 59-30 of the ITAA 1997. Note: Section 59-30 of the ITAA 1997 replaced section 22-5 of the ITAA 1997. As the terms of section 22-5 of the ITAA 1997 were identical to those in section 59-30 of the ITAA 1997 this ATO ID has equal application to the operation of section 22-5 of the ITAA 1997. Date of decision: 20 February 2004 Year of income: Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 22-5 section 59-30 subsection 59-30(1) Other References: The Australian Oxford Dictionary, 1999, Oxford University Press, Melbourne Keywords repayments Siebel/TDMS Reference Number: 3811109 Business Line: Small Business/Individual Taxpayers Date of publication: 26 March 2004 ISSN: 1445-2782

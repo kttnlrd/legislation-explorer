@@ -1,103 +1,26 @@
 ATO Interpretative Decision
 ATO ID 2003/665
-==================================================
-
-Income Tax
- Redeemable preference shares: interaction between sections 974-20 and 974-30 of the ITAA 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Redeemable preference shares: interaction between sections 974-20 and 974-30 of the ITAA 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the redeemable preference share (RPS) issued by a Subsidiary Company (Sub Co) to the Holding Company (Hold Co) classified for the purposes of the debt/equity rules as a debt interest? It is recognised that an issue for the purposes of the debt test in section 974-20 of the Income Tax Assessment Act 1997 (ITAA 1997) is what financial benefits are received and provided on the issue of the RPS.
 Decision
 Yes. The RPS issued by Sub Co to the Hold Co would be classified as a debt interest under section 974-20 of the ITAA 1997.
 Whilst the RPS will also satisfy the the requirements of item 1 of the table in section 974-75 of the ITAA 1997, the RPS will not give rise to an equity interest test as a scheme cannot give rise to an equity interest where it is also characterised as a debt interest (refer to subsection 974-70(1)(b) of the ITAA 1997).
 Facts
-Sub Co issues shares to a connected entity, Hold Co, in exchange for cash of $100. The terms of the instrument are as follows:
-
-Instrument:
-redeemable preference share
-
-Issue price:
-$100
-
-Issue date:
-1/1/2003
-
-Periodical payments:
-dividends at 5% per annum, contingent on profits
-
-Redemption:
-$100 on 31/12/2007, contingent only on Corporations Act 2001 requirements of being out of a fresh issue of shares or profits
-
-Issuer:
-Sub Co, a subsidiary of Hold Co
-
-Holder:
-Hold Co, the holding company of Sub Co
-
-The redemption payment is contingent solely on the Corporations Act requirements and is otherwise effectively non-contingent.
+Sub Co issues shares to a connected entity, Hold Co, in exchange for cash of $100. The terms of the instrument are as follows: Instrument:
+redeemable preference share Issue price:
+$100 Issue date:
+1/1/2003 Periodical payments:
+dividends at 5% per annum, contingent on profits Redemption:
+$100 on 31/12/2007, contingent only on Corporations Act 2001 requirements of being out of a fresh issue of shares or profits Issuer:
+Sub Co, a subsidiary of Hold Co Holder:
+Hold Co, the holding company of Sub Co The redemption payment is contingent solely on the Corporations Act requirements and is otherwise effectively non-contingent.
 Reasons for Decision
 The RPS is an equity interest as defined in subsection 974-70(1) of the ITAA 1997 because the issue of the RPS is a scheme (as defined in subsection 995-1(1)), that gives rise to an interest set out in the table contained in subsection 974-75(1). Specifically, a RPS is an interest as a member or shareholder of the issuing company as the interest is in the form of a share. It therefore satisfies the requirements of Item 1 of the table in subsection 974-75(1).
-Subsection 974-20(1) of the ITAA 1997 outlines the test to be used to determine if a scheme gives rise to a debt interest. The scheme in this case is the arrangement between Sub Co and Hold Co for the issue of the RPS in return for the investment of $100.
-
-1. Is the scheme a financing arrangement?
-
-Yes. The arrangement between Sub Co and Hold Co for the issue of the RPS in return for the investment of $100 is a scheme that is entered into to raise finance for Sub Co. The finance raised is $100 for each RPS.
-
-2. Does Sub Co receive a financial benefit under the arrangement?
-
-Yes. Sub Co receives a financial benefit under the arrangement. The value of the financial benefit is the price paid by Hold Co for the RPS, being $100.
-
-3. Does Sub Co have an effectively non-contingent obligation to provide a financial benefit in the future?
-
-Yes. The redemption date of the RPS is 31/12/2007. The redemption is contingent only on Corporations Act requirements of being out of a fresh issue of shares or profits (section 254K of Chapter 2H of Part 2H.2 of the Corporations Act). It is otherwise effectively non-contingent.
+Subsection 974-20(1) of the ITAA 1997 outlines the test to be used to determine if a scheme gives rise to a debt interest. The scheme in this case is the arrangement between Sub Co and Hold Co for the issue of the RPS in return for the investment of $100. 1. Is the scheme a financing arrangement? Yes. The arrangement between Sub Co and Hold Co for the issue of the RPS in return for the investment of $100 is a scheme that is entered into to raise finance for Sub Co. The finance raised is $100 for each RPS. 2. Does Sub Co receive a financial benefit under the arrangement? Yes. Sub Co receives a financial benefit under the arrangement. The value of the financial benefit is the price paid by Hold Co for the RPS, being $100. 3. Does Sub Co have an effectively non-contingent obligation to provide a financial benefit in the future? Yes. The redemption date of the RPS is 31/12/2007. The redemption is contingent only on Corporations Act requirements of being out of a fresh issue of shares or profits (section 254K of Chapter 2H of Part 2H.2 of the Corporations Act). It is otherwise effectively non-contingent.
 Subsection 974-135(5) of the ITAA 1997 states that an obligation to redeem a preference share is not contingent merely because there is a legislative requirement for the redemption amount to be met out of profits or a fresh issue of equity interests.
-In this case, there is an effectively non-contingent obligation by Sub Co to pay Hold Co $100 on redemption on 31/12/2007.
-
-4. Is the value of the financial benefit provided greater than or equal to the value of the financial benefit received?
-
-Yes. The performance period of the scheme must end no later than 10 years after the interest arising from the scheme is issued. Therefore, pursuant to subsection 974-35(1)(a)(i) of the ITAA 1997, the value of the financial benefit is calculated in nominal terms. As the redemption amount is $100 and it is equal to the financial benefit received, the test is satisfied. It can be said that it is substantially more likely than not that the value of the financial benefits provided will equal or exceed the value of the financial benefit received.
-The issue of the RPS by Sub Co to the Hold Co would therefore be classified as a debt interest under section 974-20 of the ITAA 1997 as:
-
-•it is a scheme that is a financing arrangement under which Sub Co receives a financial benefit of $100 (on issue of the RPS), and
-•Sub Co has an effectively non-contingent obligation to provide Hold Co with a financial benefit of $100 at the redemption date.
-
-Although the issue of the RPS also satisifies item 1 of the table in subsection 974-75(1) of the ITAA 1997, the RPS cannot give rise to an equity interest as the RPS is characterised as a debt interest (refer to subsection 974-70(1)(b) of the ITAA 1997).
-Date of decision:
-  24 June 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 974-5(4)   subsection 974-15(1)   section 974-20   subsection 974-20(1)   paragraph 974-20(1)(b)   paragraph 974-20(1)(c)   paragraph 974-20(4)(b)   section 974-30   paragraph 974-30(1)(b)   subsection 974-70(1)   paragraph 974-70(1)   section 974-75   subsection 974-135(5)   subsection 974-75(1)   subsection 995-1(1)
-Corporations Act 2001   section 254K
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/200
-
-Keywords
-
-Debt test
- Debt equity borderline
- Redeemable preference shares
-
-Siebel/TDMS Reference Number:
-  3575600
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  1 August 2003
-
-ISSN:
- 1445-2782
+In this case, there is an effectively non-contingent obligation by Sub Co to pay Hold Co $100 on redemption on 31/12/2007. 4. Is the value of the financial benefit provided greater than or equal to the value of the financial benefit received? Yes. The performance period of the scheme must end no later than 10 years after the interest arising from the scheme is issued. Therefore, pursuant to subsection 974-35(1)(a)(i) of the ITAA 1997, the value of the financial benefit is calculated in nominal terms. As the redemption amount is $100 and it is equal to the financial benefit received, the test is satisfied. It can be said that it is substantially more likely than not that the value of the financial benefits provided will equal or exceed the value of the financial benefit received.
+The issue of the RPS by Sub Co to the Hold Co would therefore be classified as a debt interest under section 974-20 of the ITAA 1997 as: •it is a scheme that is a financing arrangement under which Sub Co receives a financial benefit of $100 (on issue of the RPS), and
+•Sub Co has an effectively non-contingent obligation to provide Hold Co with a financial benefit of $100 at the redemption date. Although the issue of the RPS also satisifies item 1 of the table in subsection 974-75(1) of the ITAA 1997, the RPS cannot give rise to an equity interest as the RPS is characterised as a debt interest (refer to subsection 974-70(1)(b) of the ITAA 1997).
+Date of decision: 24 June 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 974-5(4) subsection 974-15(1) section 974-20 subsection 974-20(1) paragraph 974-20(1)(b) paragraph 974-20(1)(c) paragraph 974-20(4)(b) section 974-30 paragraph 974-30(1)(b) subsection 974-70(1) paragraph 974-70(1) section 974-75 subsection 974-135(5) subsection 974-75(1) subsection 995-1(1)
+Corporations Act 2001 section 254K Related ATO Interpretative Decisions ATO ID 2003/200 Keywords Debt test Debt equity borderline Redeemable preference shares Siebel/TDMS Reference Number: 3575600 Business Line: Finance and Investment Centre of Expertise Date of publication: 1 August 2003 ISSN: 1445-2782

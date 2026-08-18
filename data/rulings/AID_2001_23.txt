@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/23
-==================================================
-
-Income Tax
- Income: Isolated Transactions
- FOI status: may be released
-
-This ATO ID is withdrawn and has been included within TR 92/3 Income tax: whether profits on isolated transactions are income.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income: Isolated Transactions FOI status: may be released This ATO ID is withdrawn and has been included within TR 92/3 Income tax: whether profits on isolated transactions are income. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether the entering into of a bona fide futures contract by the taxpayer who has never carried on a business is an 'isolated transaction' of the type contemplated by Taxation Ruling TR 92/3 so that the profit or gain realised on the transaction is income.
 Decision
 The entering into of a bona fide futures contract by the taxpayer is an 'isolated transaction' of the type contemplated by Taxation Ruling TR 92/3, so that the profit or gain realised on the transaction is income.
@@ -24,64 +9,12 @@ Facts
 The taxpayer entered into a futures contract with a futures broker (a member of a recognised futures exchange) and made a substantial profit when the contract was closed four months later. No other contracts were entered into by the taxpayer during the year and the taxpayer has never carried on any type of business.
 Reasons For Decision
 The term 'isolated transaction', in relation to a non-business taxpayer refers to any transaction entered into by the taxpayer. Taxation Ruling TR 92/3 discusses the circumstances under which profits or gains from isolated transactions are income and hence assessable under s25(1) of the Income Tax Assessment Act 1936.
-A profit from an isolated transaction entered into by a non-business taxpayer is regarded as income if:
-
-(i) the intention or purpose of the taxpayer in entering into the transaction was to make a profit or gain, and
-(ii) the transaction was entered into, and the profit or gain was made, in the course of carrying out a commercial operation.
-
-The determination of the taxpayer's intention or purpose is made after an objective consideration of the relevant facts and circumstances. Where money is speculated on a futures contract there is a degree of inevitability in the conclusion that the intention of the taxpayer entering into the transaction is to make a profit (Income Tax Ruling IT 2228). In such a case profit making is the very essence of the transaction.
+A profit from an isolated transaction entered into by a non-business taxpayer is regarded as income if: (i) the intention or purpose of the taxpayer in entering into the transaction was to make a profit or gain, and
+(ii) the transaction was entered into, and the profit or gain was made, in the course of carrying out a commercial operation. The determination of the taxpayer's intention or purpose is made after an objective consideration of the relevant facts and circumstances. Where money is speculated on a futures contract there is a degree of inevitability in the conclusion that the intention of the taxpayer entering into the transaction is to make a profit (Income Tax Ruling IT 2228). In such a case profit making is the very essence of the transaction.
 Whether the acquisition of a futures contract is a commercial operation is determined by whether the transaction is commercial in character (Taxation Ruling TR 92/3).
 The futures contract is entered into, and the profit is made, in the course of carrying out a commercial operation. The act of engaging a futures broker to acquire a futures contract required the taxpayer to enter a commercial market. Furthermore, by contracting with a futures broker, the taxpayer entered into a relationship of principal and agent with the broker creating rights and obligations of a commercial nature. Finally, the fact that the contract was closed quickly to realise the profit also supports the conclusion that the transaction is of a commercial character.
 As the futures contract is acquired for a profit making purpose and is acquired as part of a commercial operation, it is an isolated transaction of the type contemplated by Taxation Ruling TR 92/3, and the profit or gain on the transaction is assessable income.
-Date of decision:
-  20 April 1998
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 25(1)
-
-Case References:
-
-Cooper v Stubbs   [1925] All ER 643
-
-AAT Case 6286   (1990) 21 ATR 3728
- Case X85   90 ATC 615
-
-Related Public Rulings (including Determinations)
-
-TR 92/3
-IT 2228
-
-Keywords
-
-Income
- Futures
- Windfall gains
-
-Siebel/TDMS Reference Number:
-  NEW80208; 1-BKTYCYB
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  4 June 2001
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 April 1998
-Original statement
-
-You are here
- 6 August 2018
+Date of decision: 20 April 1998 Legislative References: Income Tax Assessment Act 1936 section 25(1) Case References: Cooper v Stubbs [1925] All ER 643 AAT Case 6286 (1990) 21 ATR 3728 Case X85 90 ATC 615 Related Public Rulings (including Determinations) TR 92/3
+IT 2228 Keywords Income Futures Windfall gains Siebel/TDMS Reference Number: NEW80208; 1-BKTYCYB Business Line: Small Business/Individual Taxpayers Date of publication: 4 June 2001 ISSN: 1445-2782 history Date: Version: 20 April 1998
+Original statement You are here 6 August 2018
 Archived

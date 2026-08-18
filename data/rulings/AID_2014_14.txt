@@ -1,21 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2014/14
-==================================================
-
-Income Tax
- Cost base of pre-CGT assets acquired by a company subject to a roll-over under Subdivision 122-A of the Income Tax Assessment Act 1997
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 (ITAA 1997) that was found to be incorrect by the Full Federal Court in Financial Synergy Holdings Pty Ltd v FC of T [2016] FCAFC 31. The deeming rule in subsection 122-70(3) of the ITAA 1997 only applies for the purpose of exempting a pre-CGT asset from the operation of the CGT provisions. Subsection 122-70(3) does not determine the acquisition time of a pre-CGT asset for the purpose of calculating its cost base under paragraph 110-25(2)(b) of the 1997 Act.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Cost base of pre-CGT assets acquired by a company subject to a roll-over under Subdivision 122-A of the Income Tax Assessment Act 1997 This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 (ITAA 1997) that was found to be incorrect by the Full Federal Court in Financial Synergy Holdings Pty Ltd v FC of T [2016] FCAFC 31. The deeming rule in subsection 122-70(3) of the ITAA 1997 only applies for the purpose of exempting a pre-CGT asset from the operation of the CGT provisions. Subsection 122-70(3) does not determine the acquisition time of a pre-CGT asset for the purpose of calculating its cost base under paragraph 110-25(2)(b) of the 1997 Act. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the cost base of pre-CGT assets acquired by a company from an individual or trustee equal to the market value of the shares issued as consideration for the pre-CGT assets worked out as at the time of the transfer where the individual or trustee has chosen a roll-over under Subdivision 122-A of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. When an individual or trustee chooses a roll-over under Subdivision 122-A of the ITAA 1997 for the disposal of pre-CGT assets to a company, the cost base of the pre-CGT assets acquired by the company is worked out based on an acquisition time of before 20 September 1985 and not the day the pre-CGT assets were transferred. The cost base of the pre-CGT assets acquired by the company is the market value of the shares before 20 September 1985.
@@ -30,64 +16,11 @@ All the conditions for the availability of the replacement asset CGT roll-over u
 Reasons for Decision
 CGT event A1 happens when the trustee disposes the pre-CGT units in the unit trust for newly issued shares in the company (section 104-10 of the ITAA 1997).
 The trustee can choose a CGT roll-over under Subdivision 122-A of the ITAA 1997 in respect of the disposal of the pre-CGT units. Where the CGT roll-over is chosen, the shares issued by the company are taken to have been acquired by the trustee before 20 September 1985.
-There are also consequences for the company (section 122-5 of the ITAA 1997). The cost base of the units in the unit trust acquired by the company is worked out under Division 110 of the ITAA 1997. Subsection 110-25(2) of the ITAA 1997 provides that:
-
-The first element is the total of:
-
-(a)the money you paid, or are required to pay, in respect of acquiring it, and
-(b)the market value of any other property you gave, or are required to give, in respect of acquiring it (worked out as at the time of the acquisition).
-
-In this case, the company issued shares to the trustee in respect of acquiring the units in the unit trust. It is therefore the value of these shares that is relevant to determining the cost base of the units at the time of the acquisition.
-Where the CGT roll-over has been chosen, there are other specific acquisition rules in section 122-70 of the ITAA 1997 in respect of the time of acquisition of the rolled-over asset (item 8 in the table in section 109-55 of the ITAA 1997). Subsection 122-70(3) modifies the acquisition time as follows:
-
-If you acquired the asset before 20 September 1985, the company is taken to have acquired it before that day.
-
-Therefore, the relevant time of acquisition referred to in paragraph 110-25(2)(b) of the ITAA 1997 for the purposes of determining the market value of the shares issued to the trustee is before 20 September 1985.
+There are also consequences for the company (section 122-5 of the ITAA 1997). The cost base of the units in the unit trust acquired by the company is worked out under Division 110 of the ITAA 1997. Subsection 110-25(2) of the ITAA 1997 provides that: The first element is the total of: (a)the money you paid, or are required to pay, in respect of acquiring it, and
+(b)the market value of any other property you gave, or are required to give, in respect of acquiring it (worked out as at the time of the acquisition). In this case, the company issued shares to the trustee in respect of acquiring the units in the unit trust. It is therefore the value of these shares that is relevant to determining the cost base of the units at the time of the acquisition.
+Where the CGT roll-over has been chosen, there are other specific acquisition rules in section 122-70 of the ITAA 1997 in respect of the time of acquisition of the rolled-over asset (item 8 in the table in section 109-55 of the ITAA 1997). Subsection 122-70(3) modifies the acquisition time as follows: If you acquired the asset before 20 September 1985, the company is taken to have acquired it before that day. Therefore, the relevant time of acquisition referred to in paragraph 110-25(2)(b) of the ITAA 1997 for the purposes of determining the market value of the shares issued to the trustee is before 20 September 1985.
 Accordingly, the cost base of the units in the unit trust acquired by the company will be the market value of the issued shares determined before 20 September 1985.
-Date of decision:
-  1 April 2014
-
-Year of income:
-  Year ended 2014
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-10   section 109-55   Division 110   subsection 110-25(2)   Subdivision 122-A   subsection 122-70(3)
-
-Keywords
-
-Capital gains tax
- CGT event A1 - disposal of a CGT asset
- CGT cost base
- CGT cost base modification rules
- CGT roll-over relief
- Pre-CGT assets
- Wholly owned
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  11 April 2014
-
-Date reviewed:
-  27 October 2015
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 1 April 2014
-Original statement
-
-You are here
+Date of decision: 1 April 2014 Year of income: Year ended 2014 Legislative References: Income Tax Assessment Act 1997 section 104-10 section 109-55 Division 110 subsection 110-25(2) Subdivision 122-A subsection 122-70(3) Keywords Capital gains tax CGT event A1 - disposal of a CGT asset CGT cost base CGT cost base modification rules CGT roll-over relief Pre-CGT assets Wholly owned Business Line: Private Groups and High Wealth Individuals Date of publication: 11 April 2014 Date reviewed: 27 October 2015 ISSN: 1445-2782 history Date: Version: 1 April 2014
+Original statement You are here
 13 January 2017
 Archived

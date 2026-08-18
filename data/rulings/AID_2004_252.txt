@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/252
-==================================================
-
-Income Tax
- Capital Allowances: hold - application of item 6 of the hold table
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: hold - application of item 6 of the hold table FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the taxpayer, who possesses and uses a depreciating asset under a genuine lease agreement immediately before entering into a hire purchase arrangement for the asset, hold the asset under item 6 of the table in section 40-40 of the Income Tax Assessment Act (ITAA 1997) during the term of the lease?
 Decision
 No. The taxpayer does not hold the depreciating asset under item 6 of the table in section 40-40 of the ITAA 1997 during the term of the lease because the lease agreement does not provide the taxpayer with sufficient rights to enable them to become a holder under any item of the table in section 40-40.
@@ -20,43 +9,8 @@ Facts
 The taxpayer (the lessee) possesses and uses a tangible depreciating asset under a genuine lease agreement (that is, the lease satisfies all of the requirements of Taxation Ruling IT 28). Within the lease agreement the lessor acknowledges and agrees, provided no event of default occurs, that on the expiry of the lease they will immediately grant to the lessee a new hire of the depreciating asset under a hire purchase arrangement on such terms as are agreed between the lessor and the lessee. The lease agreement does not impact on the purchase price to be financed under the hire purchase arrangement - it continues to be the market value of the asset at the time the hire purchase arrangement is entered into. The interim lease was entered into because the financing arrangements for the asset were not settled by the time the asset was required for use by the lessee.
 Reason for Decision
 Broadly speaking, Division 40 of the ITAA 1997 provides a deduction for the decline in value of a depreciating asset a taxpayer holds to the extent the asset is used for a taxable purpose (section 40-25 of the ITAA 1997). The table in section 40-40 of the ITAA 1997 identifies a holder of a depreciating asset in any particular circumstance. The default rule is that a taxpayer holds an asset if they are the owner of it (item 10 of the table in section 40-40 of the ITAA 1997). However, there are items in the table that identify a taxpayer as a holder in various other circumstances even though they are not the asset's owner.
-One of these other circumstances is contained in item 6 of the table in section 40-40 of the ITAA 1997 and applies where:
-
-• a taxpayer has possession, or an immediate right to possession, of the asset combined with a right, the exercise of which would make it a holder (for example, an option to acquire), and
-• it is 'reasonable to expect' that the taxpayer will become a holder by exercising that right or that the asset will be disposed of at their direction and for their benefit.
-
-It is accepted that the taxpayer possesses the asset under the lease agreement. It is not accepted, however, that the lease agreement provides the taxpayer with the requisite right to become a holder of the asset. The lease agreement creates mutual rights and obligations on each party to enter into a hire purchase arrangement at the end of the lease term but those rights (and obligations) do not, of themselves, amount to a right to become a holder of the asset. That right may, however, exist in the hire purchase arrangement. In these circumstances, it is not accepted that the potential inclusion of the requisite right in a subsequent hire purchase arrangement that is yet to be finalised is sufficient to say that such a right exists under the lease agreement.
+One of these other circumstances is contained in item 6 of the table in section 40-40 of the ITAA 1997 and applies where: • a taxpayer has possession, or an immediate right to possession, of the asset combined with a right, the exercise of which would make it a holder (for example, an option to acquire), and
+• it is 'reasonable to expect' that the taxpayer will become a holder by exercising that right or that the asset will be disposed of at their direction and for their benefit. It is accepted that the taxpayer possesses the asset under the lease agreement. It is not accepted, however, that the lease agreement provides the taxpayer with the requisite right to become a holder of the asset. The lease agreement creates mutual rights and obligations on each party to enter into a hire purchase arrangement at the end of the lease term but those rights (and obligations) do not, of themselves, amount to a right to become a holder of the asset. That right may, however, exist in the hire purchase arrangement. In these circumstances, it is not accepted that the potential inclusion of the requisite right in a subsequent hire purchase arrangement that is yet to be finalised is sufficient to say that such a right exists under the lease agreement.
 The lease agreement is a genuine one under which the payments reflect the use only of the asset by the taxpayer and in no any way relate to the purchase price of the asset. In addition, the need to enter into the lease agreement arose out of a genuine timing difficulty in financing the asset and was not designed to transfer tax benefits as between the parties.
 Item 6 of the table in section 40-40 of the ITAA 1997 also requires the reasonable expectation test to be satisfied. For similar reasons to those outlined above in respect of the existence of a right to become a holder, this test can only be satisfied on its second application. That is, the test in relation to the lease agreement could only be met if it was reasonable to expect that the taxpayer would become a holder of the asset under the hire purchase arrangement. It is not possible to come to a reasonable expectation about what will happen under an arrangement that has not been finalised.
-Date of decision:
-  16 March 2004
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 40-25   Section 40-40
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 28
-
-Keywords
-
-Capital Allowances CoE
- Hire purchase
- Hold a depreciating asset
- Uniform capital allowance system
-
-Siebel/TDMS Reference Number:
-  394879
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  26 March 2004
-
-ISSN:
- 1445-2782
+Date of decision: 16 March 2004 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Section 40-25 Section 40-40 Related Public Rulings (including Determinations) Taxation Ruling IT 28 Keywords Capital Allowances CoE Hire purchase Hold a depreciating asset Uniform capital allowance system Siebel/TDMS Reference Number: 394879 Business Line: Public Groups and International Date of publication: 26 March 2004 ISSN: 1445-2782

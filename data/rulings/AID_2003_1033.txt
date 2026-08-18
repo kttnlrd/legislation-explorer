@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2003/1033
-==================================================
-
-Income Tax
- Assessability of Australian sourced Eligible Termination Payment paid to resident of the Czech Republic aged over 55: post-June 83 component
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of Australian sourced Eligible Termination Payment paid to resident of the Czech Republic aged over 55: post-June 83 component FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an Eligible Termination Payment (ETP) paid to a non resident aged over 55 years of age that consists of a post-June 83 component, assessable under subsection 6-10(5) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The ETP paid to a non resident that consists of a post-June 83 component is assessable under subsection 6-10(5) of the ITAA 1997.
@@ -43,35 +30,6 @@ However, Article 21(2) of the Czech Agreement provides that income received by a
 As the ETP received by the taxpayer is from an Australian source, the ETP may be taxed by Australia under Article 21(2) of the Czech Agreement.
 As the ETP consists wholly of a taxed element of a post-June 83 component, the ETP received by the taxpayer will be assessable under subsection 6-10(5) of the ITAA 1997 as it is included in assessable income by section 27B of the ITAA 1936.
 Note: As the taxpayer is over 55 years of age, section 159SA of the ITAA 1936 provides a rebate to the taxpayer to ensure that the maximum rate of tax payable on the ETP will be 0%.
-Date of decision:
-  10 November 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 27A   section 27AA   section 27B   section 27H   section 159SA
-Income Tax Assessment Act 1997   subsection 6-10(5)   section 10-5
-International Tax Agreements Act 1953   section 4   Schedule 40   Schedule 40, Article 15   Schedule 40, Article 15(1)   Schedule 40, Article 18   Schedule 40, Article 18(1)   Schedule 40, Article 21(1)   Schedule 40, Article 21(2)
-
-Keywords
-
-Double tax agreement
- Czech Republic
- Other income
- Lump sum payments
- Superannuation
- Non-resident
-
-Siebel/TDMS Reference Number:
-  3709800
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  21 November 2003
-
-ISSN:
- 1445-2782
+Date of decision: 10 November 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 27A section 27AA section 27B section 27H section 159SA
+Income Tax Assessment Act 1997 subsection 6-10(5) section 10-5
+International Tax Agreements Act 1953 section 4 Schedule 40 Schedule 40, Article 15 Schedule 40, Article 15(1) Schedule 40, Article 18 Schedule 40, Article 18(1) Schedule 40, Article 21(1) Schedule 40, Article 21(2) Keywords Double tax agreement Czech Republic Other income Lump sum payments Superannuation Non-resident Siebel/TDMS Reference Number: 3709800 Business Line: Public Groups and International Date of publication: 21 November 2003 ISSN: 1445-2782

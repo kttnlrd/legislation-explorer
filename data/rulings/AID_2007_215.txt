@@ -1,114 +1,26 @@
 ATO Interpretative Decision
 ATO ID 2007/215
-==================================================
-
-Income Tax
- Division 7A: mortgage over a Crown lease and no registration in accordance with State law
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Division 7A: mortgage over a Crown lease and no registration in accordance with State law FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a mortgage over a Crown lease in the State of Victoria which is ineligible for registration with Lands Victoria, and not otherwise registered in accordance with a Victorian statute, satisfy the requirements of subparagraph 109N(3)(a)(i) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. A mortgage over a Crown lease in the State of Victoria which is ineligible for registration with Lands Victoria, and not otherwise registered in accordance with a Victorian statute, does not satisfy the requirements of subparagraph 109N(3)(a)(i) of the ITAA 1936.
 Facts
 In the income year, a private company loaned the taxpayer a sum of $1,000,000 which was secured by a mortgage over a Crown lease held by the taxpayer over land in the State of Victoria. The taxpayer is a shareholder of the private company.
 The mortgage is ineligible for registration with Lands Victoria, as administrator of the Transfer of Land Act 1958 (Vic), because a proper survey of the Crown land has never been undertaken.
-The Victorian statute which governs the Crown lease over this portion of land does not require any register of mortgages be maintained by the responsible regulatory body.
-
-Reasons for Decision
+The Victorian statute which governs the Crown lease over this portion of land does not require any register of mortgages be maintained by the responsible regulatory body. Reasons for Decision
 A private company is taken to pay a dividend to a shareholder under subsection 109D(1) of the ITAA 1936 if the private company makes a loan to a shareholder during the income year, the loan is not fully repaid by the private company's lodgment day for that income year, and subdivision D of Division 7A of Part III of the ITAA 1936 does not prevent the private company from being taken to pay a dividend.
 Subsection 109N(1) of the ITAA 1936 prevents a private company from being taken to pay a dividend under section 109D of the ITAA 1936 if the loan is put under a written agreement before the private company's lodgment day for the income year in which the loan is made, the rate of interest payable on the loan equals or exceeds the benchmark interest rate, and the term of the loan does not exceed the 'maximum term' for that kind of loan.
-Subsection 109N(3) of the ITAA 1936 defines the 'maximum term' as:
-
-(a)25 years for a loan if:
-
-(i)100% of the value of the loan is secured by a mortgage over real property that has been
- registered in accordance with a law of a State or Territory
- ; and
-(ii)when the loan is first made, the market value of that real property (less the amounts of any other liabilities secured over that property in priority to the loan) is at least 110% of the amount of the loan; and
-
-(b)7 years for any other loan. (emphasis added)
-
-The words 'registered' and 'accordance' in subparagraph 109N(3)(a)(i) of the ITAA 1936 are not defined and therefore adopt their ordinary meanings. The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW provides the following definitions in the relevant context:
-
-registered
- "1. recorded, as in a register or book;"
-
-accordance
- "1. agreement; conformity."
-
-The phrase, 'registered in accordance with a law of a State or Territory' therefore literally means:
-
-recorded in a register in conformity with a law of a State or Territory.
-
-Division 7A of the ITAA 1936 was inserted by Taxation Laws Amendment Act (No. 3) 1998. The Explanatory Memorandum to Taxation Laws Amendment Bill (No. 3) 1998 does not indicate subparagraph 109N(3)(a)(i) of the ITAA 1936 should be read narrowly to restrict qualifying registration to cases under a deeds registration statute or Torrens statute of a State or Territory. Hence, if registration is required under another statute, such as one which governs administration of a Crown lease then that registration may satisfy the requirements of subparagraph 109N(3)(a)(i) of the ITAA 1936.
+Subsection 109N(3) of the ITAA 1936 defines the 'maximum term' as: (a)25 years for a loan if: (i)100% of the value of the loan is secured by a mortgage over real property that has been registered in accordance with a law of a State or Territory ; and
+(ii)when the loan is first made, the market value of that real property (less the amounts of any other liabilities secured over that property in priority to the loan) is at least 110% of the amount of the loan; and (b)7 years for any other loan. (emphasis added) The words 'registered' and 'accordance' in subparagraph 109N(3)(a)(i) of the ITAA 1936 are not defined and therefore adopt their ordinary meanings. The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW provides the following definitions in the relevant context: registered "1. recorded, as in a register or book;" accordance "1. agreement; conformity." The phrase, 'registered in accordance with a law of a State or Territory' therefore literally means: recorded in a register in conformity with a law of a State or Territory. Division 7A of the ITAA 1936 was inserted by Taxation Laws Amendment Act (No. 3) 1998. The Explanatory Memorandum to Taxation Laws Amendment Bill (No. 3) 1998 does not indicate subparagraph 109N(3)(a)(i) of the ITAA 1936 should be read narrowly to restrict qualifying registration to cases under a deeds registration statute or Torrens statute of a State or Territory. Hence, if registration is required under another statute, such as one which governs administration of a Crown lease then that registration may satisfy the requirements of subparagraph 109N(3)(a)(i) of the ITAA 1936.
 However, in the present case, the statute governing administration of the Crown lease does not require any register of mortgages be maintained by the responsible regulatory body.
 Therefore, in the circumstances here, the mortgage over the Crown lease is not registered in accordance with a law of a State or Territory as required by subparagraph 109N(3)(a)(i) of the ITAA 1936. Therefore, the maximum term of the loan under paragraph 109N(1)(c) of the ITAA 1936 is seven years.
 This means that if the loan is put under a written agreement before the private company's lodgment day, specifying both a rate of interest which equals or exceeds the benchmark interest rate, and a maximum term of seven years, the loan will be an excluded loan under Subdivision D of Division 7A of Part III of the ITAA 1936, and no deemed dividend will arise under section 109D of the ITAA 1936 for the income year in which the loan is made.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-6 March 2015
+Comment 6 March 2015
 Facts
-Sentence addition to add clarity
-
-Reason for Decision
-Correct reference to subsection 109N(3)(a)(ii) of the ITAA 1936
-
-Date of decision:
-  19 November 2007
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 109D   subsection 109D(1)   Subdivision D of Division 7A of Part III   subsection 109N(1)   paragraph 109N(1)(c)   subsection 109N(3)   subparagraph 109N(3)(a)(i)
-
-Other References:
-
-The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW
-
-Keywords
-
-Deemed dividends
- Private company distributions
-
-Siebel/TDMS Reference Number:
-  4114735; 1-5CWTQ8U
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  30 November 2007
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 November 2007
-Original statement
-
-You are here
- 6 March 2015
+Sentence addition to add clarity Reason for Decision
+Correct reference to subsection 109N(3)(a)(ii) of the ITAA 1936 Date of decision: 19 November 2007 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 section 109D subsection 109D(1) Subdivision D of Division 7A of Part III subsection 109N(1) paragraph 109N(1)(c) subsection 109N(3) subparagraph 109N(3)(a)(i) Other References: The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW Keywords Deemed dividends Private company distributions Siebel/TDMS Reference Number: 4114735; 1-5CWTQ8U Business Line: Private Groups and High Wealth Individuals Date of publication: 30 November 2007 ISSN: 1445-2782 history Date: Version: 19 November 2007
+Original statement You are here 6 March 2015
 Updated statement

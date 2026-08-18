@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/819
-==================================================
-
-Income Tax
- Excepted Trust Income - investment of personal injury compensation
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Excepted Trust Income - investment of personal injury compensation FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the income the taxpayer receives from the Public Trustee as a result of the investment of a court awarded personal injury compensation amount, 'excepted trust income' pursuant to subsection 102AG(2) of the Income Tax Assessment Act 1936 ('ITAA 1936')?
 Decision
 Yes. The income the taxpayer receives from the Public Trustee as a result of the investment of a court awarded personal injury compensation amount is 'excepted trust income' pursuant to subsection 102AG(2) of the ITAA 1936.
@@ -29,36 +18,5 @@ As the taxpayer is less than 18 years of age and is not an 'excepted person' as 
 Sub-subparagraph 102AG(2)(c)(i)(B) of the ITAA 1936 includes as 'excepted trust income' any income derived by the trustee of the trust from the investment of compensation monies for personal injury awarded to the beneficiary. However, subsection 102AG(2A) of the ITAA 1936 excludes such income unless the beneficiary will acquire the trust property when the trust ends.
 The money held by the Public Trustee on the taxpayer's behalf comprises funds received as compensation for personal injury. The income derived by the Public Trustee is income that has resulted from the investment of the compensation amount.
 In accordance with sub-subparagraph 102AG(2)(c)(i)(B), the taxpayer's income is 'excepted trust income'. As the taxpayer is entitled to the compensation funds when they attain 18 years of age, the exclusion under subsection 102AG(2A) of the ITAA 1936 does not apply. Therefore, the income received by the taxpayer as a result of the investment of the court awarded personal injury compensation amount is 'excepted trust income' pursuant to subsection 102AG(2) of the ITAA 1936 and will be taxed at normal rates.
-Date of decision:
-  11 April 2002
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 6AA   subsection 102AC(1)   subsection 102AC(2)   section 102AG   subsection 102AG(2)   sub-subparagraph 102AG(2)(c)(i)(B)   subsection 102AG(2A)
-Income Tax Rates Act 1986   1
-
-Keywords
-
-Children's income
- Compensation for injury
- Excepted income
- Minor beneficiaries
- Trust income
-
-Siebel/TDMS Reference Number:
-  DW433044; 1-A4EJEZL
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  22 August 2002
-
-Date reviewed:
-  27 October 2016
-
-ISSN:
- 1445-2782
+Date of decision: 11 April 2002 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1936 Division 6AA subsection 102AC(1) subsection 102AC(2) section 102AG subsection 102AG(2) sub-subparagraph 102AG(2)(c)(i)(B) subsection 102AG(2A)
+Income Tax Rates Act 1986 1 Keywords Children's income Compensation for injury Excepted income Minor beneficiaries Trust income Siebel/TDMS Reference Number: DW433044; 1-A4EJEZL Business Line: Private Groups and High Wealth Individuals Date of publication: 22 August 2002 Date reviewed: 27 October 2016 ISSN: 1445-2782

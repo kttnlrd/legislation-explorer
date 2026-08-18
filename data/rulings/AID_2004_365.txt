@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/365
-==================================================
-
-Income Tax
- Posting of franking credits in respect of income tax paid by Pooled Development Funds
- FOI status: may be released
-
-This ATO ID is withdrawn due to amendments to the law.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Posting of franking credits in respect of income tax paid by Pooled Development Funds FOI status: may be released This ATO ID is withdrawn due to amendments to the law. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do the imputation effects vary between Part IIIAA of the Income Tax Assessment Act 1936 (ITAA 1936) and Part 3-6 of the Income Tax Assessment Act 1997 (ITAA 1997) in relation to income tax paid by a Pooled Development Fund (PDF) in respect of unregulated investments?
 Decision
 No. The imputation effects do not vary between Part IIIAA of the ITAA 1936 and Part 3-6 of the ITAA 1997 in relation to income tax paid by a PDF in respect of unregulated investments.
@@ -39,66 +24,17 @@ Pursuant to Item 2 of section 205-15 of the ITAA 1997, if a franking entity pays
 Pursuant to Item 1 of section 205-30 of the ITAA 1997, when the PDF distributes the remainder of the after-tax profits of $75 to its shareholder in the 2003-04 income year and franks that distribution, a franking debit will arise equal to the amount of the franking credit on the distribution. According to the facts, the PDF desires to bring its franking account balance to nil after payment of the distribution. Accordingly, the amount of the franking credit on the distribution is $25. The franking percentage is therefore 77.78% ($25/$32.14 x 100), where $32.14 represents the maximum franking credit calculated in accordance with subsection 202-60(2) of the ITAA 1997 utilising a corporate tax rate of 30%.
 In terms of the shareholder, pursuant to section 207-20 of the ITAA 1997, the gross-up and franking rebate each equal $25 since this is the amount of the franking credit on the distribution.
 In conclusion, as seen from the above analysis, it is clear that both the former and new imputation system yield the same result since they both reduce the PDF's franking account balance to zero while providing the shareholder with the same gross-up and franking rebate amounts.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-23 January 2015
+Comment 23 January 2015
 Legislative References
 Remove reference to section 160ASED of the ITAA 1936
 Include reference to section 160APA of the ITAA 1936
 Remove reference to section 210-105 of the ITAA 1997
 Include reference to section 202-5 of the ITAA 1997
 Include reference to subsection 202-60(2) of the ITAA 1997
-Include reference to section 205-15 of the ITAA 1997
-
-Date of decision:
-  22 April 2004
-
-Year of income:
-  Year ended 30 June 1999 Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160APA   section 160APMG   subsection 160AQB(3)   subsection 160AQF(1AAA)   subsection 160AQT(1AB)   subsection 160AQU(1)
-Income Tax Assessment Act 1997   section 202-5   subsection 202-60(2)   section 205-15   section 205-30   section 207-20
-
-Keywords
-
-Imputation credits
- Imputation system
- Pooled development funds
-
-Siebel/TDMS Reference Number:
-  3933837, 1-5QRWP69; 1-CR5H4WF
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  30 April 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-22 April 2004
-Original statement
-
- 
-23 January 2015
-Updated statement
-
-You are here
- 7 August 2018
+Include reference to section 205-15 of the ITAA 1997 Date of decision: 22 April 2004 Year of income: Year ended 30 June 1999 Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 160APA section 160APMG subsection 160AQB(3) subsection 160AQF(1AAA) subsection 160AQT(1AB) subsection 160AQU(1)
+Income Tax Assessment Act 1997 section 202-5 subsection 202-60(2) section 205-15 section 205-30 section 207-20 Keywords Imputation credits Imputation system Pooled development funds Siebel/TDMS Reference Number: 3933837, 1-5QRWP69; 1-CR5H4WF Business Line: Private Groups and High Wealth Individuals Date of publication: 30 April 2004 ISSN: 1445-2782 history Date: Version: 22 April 2004
+Original statement 23 January 2015
+Updated statement You are here 7 August 2018
 Archived

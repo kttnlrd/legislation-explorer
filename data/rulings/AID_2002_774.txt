@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/774
-==================================================
-
-Superannuation
- Superannuation Guarantee Scheme: attributed personal services income
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in ATO ID 2015/9.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Superannuation Guarantee Scheme: attributed personal services income FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in ATO ID 2015/9. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does attributed personal services income attract superannuation guarantee obligations on the part of the relevant personal services entity?
 Decision
 No, except for salary or wages that are part of the earnings base in the year of income but which are reported as attributed personal services income because they were paid more than 14 days after the end of the Pay-As-You-Go (PAYG) period in which the relevant amount was derived as income of the personal services entity.
@@ -25,109 +10,27 @@ The taxpayer is a personal services entity.
 A person (the personal services provider) working on behalf of the taxpayer has attributed personal services income in respect of the taxpayer in respect of the year ended 30 June 2003.
 The worker is an employee of the taxpayer for the purposes of the Superannuation Guarantee (Administration) Act 1992 (SGAA).
 The earnings base that applies to the worker under the SGAA is ordinary time earnings.
-Reasons for Decision
-
-Attributed Personal Services Income
-
-Part 2-42 of the Income Tax Assessment Act 1997 (ITAA 1997) deals with personal services income (PSI). Section 84-5 defines what personal services income is. Subsection 84-5(1) reads as follows:
-
-'Your ordinary income or statutory income, or the ordinary income or statutory income of any other entity, is your personal services income if the income is mainly a reward for your personal efforts or skills (or would mainly be such a reward if it was your income).'
-
-A personal services entity is a company, partnership or trust whose income includes the personal services income of one or more individuals.
+Reasons for Decision Attributed Personal Services Income Part 2-42 of the Income Tax Assessment Act 1997 (ITAA 1997) deals with personal services income (PSI). Section 84-5 defines what personal services income is. Subsection 84-5(1) reads as follows: 'Your ordinary income or statutory income, or the ordinary income or statutory income of any other entity, is your personal services income if the income is mainly a reward for your personal efforts or skills (or would mainly be such a reward if it was your income).' A personal services entity is a company, partnership or trust whose income includes the personal services income of one or more individuals.
 In certain circumstances, under section 86-15 of the ITAA 1997, an amount of income derived by a personal services entity from the personal services (principal work) provided by an individual may be included in the assessable income of the individual. Such amounts included in the assessable income of an individual are known as attributed personal services income.
 Prompt payments of salary or wages by the personal services entity to the personal services provider who is performing principal work are deductible to the personal services entity and therefore reduce the amount that would otherwise be attributable personal services income (due to the operation of subsection 86-15(4) of the ITAA 1997).
-However, the treatment of salary or wages that are paid to the personal services provider more than 14 days after the end of a PAYG period in which the amount became ordinary or statutory income of the personal services entity is different. These amounts are not included as salary or wages on a personal service provider's tax return but are instead reported as attributed personal services income.
-
-Superannuation Guarantee
-
-The obligation to make superannuation contributions (or incur the SG Charge) hinges upon the receipt by an employee of payment in return for work or services.
+However, the treatment of salary or wages that are paid to the personal services provider more than 14 days after the end of a PAYG period in which the amount became ordinary or statutory income of the personal services entity is different. These amounts are not included as salary or wages on a personal service provider's tax return but are instead reported as attributed personal services income. Superannuation Guarantee The obligation to make superannuation contributions (or incur the SG Charge) hinges upon the receipt by an employee of payment in return for work or services.
 'Employee' for these purposes is defined in section 12 of the SGAA. The term has its ordinary meaning, but subsections 12(2) to 12 (10) of the SGAA list a number of further persons who are also treated as employees.
 If the worker (the personal services provider) was not an employee of the personal services entity for the purposes of the SGAA, then the personal services entity would not have an obligation to make superannuation contributions on behalf of the worker under the SGAA.
 The Superannuation Guarantee (SG) system works by imposing the Superannuation Guarantee Charge (SGC) on an employer's SG shortfall, in respect of individual eligible employees, for a given year.
 The employer's superannuation guarantee shortfall in respect of an employee may be reduced where the employer makes superannuation contributions for the employee. To reduce the shortfall to nil, contributions that are equal to the amount given by multiplying the 'charge percentage' by the employee's 'notional earnings base' would need to be made.
 The 'charge percentage' for the year ended 30 June 2002 is 8%. The charge percentage for the year ended 30 June 2003 and later years is 9%.
 The 'notional earnings base' may be defined in a number of ways. It may, for instance, be defined in an industrial award, in statute or in the trust deed of a superannuation fund. If an earnings base is not specified then the default earnings base of 'ordinary time earnings' applies.
-'Ordinary time earnings' is defined in subsection 6(1) of the SGAA as follows:
-
-"ordinary time earnings", in relation to an employee means:
-
-(a)the total of:
-
-(i)earnings in respect of ordinary hours of work other than earnings consisting of a lump sum payment of any of the following kinds made to the employee on termination of his or her employment:
-
-(A)a payment in lieu of unused sick leave;
+'Ordinary time earnings' is defined in subsection 6(1) of the SGAA as follows: "ordinary time earnings", in relation to an employee means: (a)the total of: (i)earnings in respect of ordinary hours of work other than earnings consisting of a lump sum payment of any of the following kinds made to the employee on termination of his or her employment: (A)a payment in lieu of unused sick leave;
 (B)a payment in lieu of unused annual leave within the meaning of subsection 26AC(1) of the Income Tax Assessment Act 1936;
-(C)a payment in lieu of unused long service leave within the meaning of subsection 26AD(1) of the Income Tax Assessment Act 1936; and
-
-(ii)earnings consisting of over-award payments, shift-loading or commission; or
-
-(b)if the total ascertained in accordance with paragraph (a) would be greater than the maximum contribution base for the contribution period - the maximum contribution base;'
-
-The issue in this case is whether attributed personal services income can be considered to be 'earnings in respect of ordinary hours of work'.
-
-Is attributed personal services income 'earnings in respect of ordinary hours of work'?
-
-'Earnings in respect of ordinary hours of work' carries with it the notion of receipt. Therefore, if the Commissioner cannot be satisfied that a payment has occurred, the attributed amount can not be included in ordinary time earnings.
+(C)a payment in lieu of unused long service leave within the meaning of subsection 26AD(1) of the Income Tax Assessment Act 1936; and (ii)earnings consisting of over-award payments, shift-loading or commission; or (b)if the total ascertained in accordance with paragraph (a) would be greater than the maximum contribution base for the contribution period - the maximum contribution base;' The issue in this case is whether attributed personal services income can be considered to be 'earnings in respect of ordinary hours of work'. Is attributed personal services income 'earnings in respect of ordinary hours of work'? 'Earnings in respect of ordinary hours of work' carries with it the notion of receipt. Therefore, if the Commissioner cannot be satisfied that a payment has occurred, the attributed amount can not be included in ordinary time earnings.
 There can be no argument that attributed personal services income does relate to the performance of work (otherwise it couldn't be personal services income) but, generally, there is no actual payment of the attributed amounts to the personal services provider.
 If there is no payment, the attributed amount cannot be considered to be earnings in respect of ordinary hours of work.
-An exception arises where the personal services income includes an amount of salary or wages paid more than 14 days after the end of a PAYG period in which the amount became ordinary or statutory income of the personal services entity (i.e. salary and wages paid too late for the purposes of subsection 86-15(4) of the ITAA 1997). In such a situation the money has been received by the personal services provider as salary or wages, but under section 86-15 of the ITAA 1997 the amount is still included as attributed personal services income.
-
-Conclusion
-
-Attributed personal services income will not generally give rise to an SG obligation. This is because the amounts of attributed personal services income are generally not paid to the personal services provider and the obligation to provide superannuation under the SGAA hinges upon the notion of receipt of payment for work.
+An exception arises where the personal services income includes an amount of salary or wages paid more than 14 days after the end of a PAYG period in which the amount became ordinary or statutory income of the personal services entity (i.e. salary and wages paid too late for the purposes of subsection 86-15(4) of the ITAA 1997). In such a situation the money has been received by the personal services provider as salary or wages, but under section 86-15 of the ITAA 1997 the amount is still included as attributed personal services income. Conclusion Attributed personal services income will not generally give rise to an SG obligation. This is because the amounts of attributed personal services income are generally not paid to the personal services provider and the obligation to provide superannuation under the SGAA hinges upon the notion of receipt of payment for work.
 The exception to this rule is for salary or wages that have been paid too late for the purposes of subsection 86-15(4) of the ITAA 1997 and therefore treated as attributed personal services income. These amounts will give rise to an SG obligation to the extent that the payment falls within the definition of the relevant earnings base. The types of payments that fall within the meaning of 'ordinary time earnings' is described in Superannuation Guarantee Ruling SGR 94/4.
 It should be noted that, should an employer have an SG shortfall, the calculation of the SG charge payable by the employer is calculated by multiplying the individual shortfall percentage by the total salary or wages paid to the worker for the relevant period. Payments that fall within the meaning of salary or wages for SG purposes are described in Superannuation Guarantee Ruling SGR 94/5.
-As the SGAA imposes obligations only in respect of amounts paid in the relevant year, any amount of late salary or wages paid in a subsequent year but reported as attributed personal services income for the current year under section 86-40 of the ITAA 1997 will not give rise to an SG obligation in the current year (though it may give rise to an SG obligation in the subsequent year).
-
-Notes:
-
-Because of amendments of the SGAA which apply from 1 July 2003, an employer's superannuation guarantee shortfall is now calculated in respect of a quarter rather than a year.
-
-Also, because of amendments of the SGAA which apply from 1 July 2008, OTE is now the only (rather than the default) base used in determining the minimum amount of superannuation contributions required to be made by an employer.
-
-As a consequence of other legislative amendments, the definition of 'ordinary time earnings' in subsection 6(1) of the SGAA has also changed since the decision in this case was made.
-
-Finally, SGR 94/4 and SGR 94/5 (cited below) have been withdrawn and replaced by SGR 2009/2.
-
-Date of decision:
-  19 June 2002
-
-Legislative References:
-
-Superannuation Guarantee (Administration) Act 1992   section 11   section 12   section 19   section 22   section 23   subsection 6(1)
-Income Tax Assessment Act 1997   subsection 84-5(1)   section 86-15   subsection 86-15(1)   subsection 86-15(4)
-
-Related Public Rulings (including Determinations)
-
-Superannuation Guarantee Ruling SGR 94/4
-Superannuation Guarantee Ruling SGR 94/5
-
-Keywords
-
-Superannuation guarantee scheme
- Alienated personal services payments
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  31 July 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 June 2002
-Original statement
-
-You are here
+As the SGAA imposes obligations only in respect of amounts paid in the relevant year, any amount of late salary or wages paid in a subsequent year but reported as attributed personal services income for the current year under section 86-40 of the ITAA 1997 will not give rise to an SG obligation in the current year (though it may give rise to an SG obligation in the subsequent year). Notes: Because of amendments of the SGAA which apply from 1 July 2003, an employer's superannuation guarantee shortfall is now calculated in respect of a quarter rather than a year. Also, because of amendments of the SGAA which apply from 1 July 2008, OTE is now the only (rather than the default) base used in determining the minimum amount of superannuation contributions required to be made by an employer. As a consequence of other legislative amendments, the definition of 'ordinary time earnings' in subsection 6(1) of the SGAA has also changed since the decision in this case was made. Finally, SGR 94/4 and SGR 94/5 (cited below) have been withdrawn and replaced by SGR 2009/2. Date of decision: 19 June 2002 Legislative References: Superannuation Guarantee (Administration) Act 1992 section 11 section 12 section 19 section 22 section 23 subsection 6(1)
+Income Tax Assessment Act 1997 subsection 84-5(1) section 86-15 subsection 86-15(1) subsection 86-15(4) Related Public Rulings (including Determinations) Superannuation Guarantee Ruling SGR 94/4
+Superannuation Guarantee Ruling SGR 94/5 Keywords Superannuation guarantee scheme Alienated personal services payments Business Line: Superannuation Date of publication: 31 July 2002 ISSN: 1445-2782 history Date: Version: 19 June 2002
+Original statement You are here
 17 April 2015
 Archived

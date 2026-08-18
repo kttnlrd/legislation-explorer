@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/912
-==================================================
-
-Income Tax
- Portfolio transfer of general insurance liabilities: deduction for consideration paid in respect of indirect settlement costs
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Portfolio transfer of general insurance liabilities: deduction for consideration paid in respect of indirect settlement costs FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a general insurance company claim a deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for the indirect claims settlement component of the consideration given to cede its outstanding claims liabilities under a portfolio transfer?
 Decision
 Yes. A general insurance company can claim a deduction under section 8-1 of the ITAA 1997 for the indirect claims settlement component of the consideration given to cede its outstanding claims liabilities under a portfolio transfer.
@@ -24,69 +13,9 @@ Under the portfolio transfer, the taxpayer is required to give consideration to 
 Indirect claims settlement costs are the general expenses of running and administering a general insurance company's claims department.
 Reasons for Decision
 Section 8-1 of the ITAA 1997 states that a loss or outgoing is deductible provided that it is 'necessarily incurred in carrying on a business for the purpose of gaining or producing your assessable income.' A loss or outgoing is not deductible under section 8-1 of the ITAA 1997 if it is denied under paragraph 8-1(2)(a) of the ITAA 1997 because it is a loss or outgoing of a capital nature.
-The deductibility of the payment for indirect settlement costs can be determined in light of the High Court's decision in G.P. International Pipecoaters Pty Ltd v. Federal Commissioner of Taxation (1990) 170 CLR 124; 90 ATC 4413; (1990) 21 ATR 1 (Pipecoaters). In the Pipecoaters decision the court stated:
-
-The character of expenditure is ordinarily determined by reference to the nature of the asset acquired or the liability discharged by the making of the expenditure, for the character of the advantage sought by the making of the expenditure is the chief, if not the critical, factor in determining the character of what is paid.
-
-The character of a payment will 'take the quality of an outgoing of a capital nature or of an outgoing on account of revenue from the cause or the purpose of incurring the expenditure' (Dixon J in Hallstroms Pty Limited v. Federal Commissioner of Taxation (1946) 72 CLR 634 (1946) 8 ATD 190; (1946) 3 AITR 436).
+The deductibility of the payment for indirect settlement costs can be determined in light of the High Court's decision in G.P. International Pipecoaters Pty Ltd v. Federal Commissioner of Taxation (1990) 170 CLR 124; 90 ATC 4413; (1990) 21 ATR 1 (Pipecoaters). In the Pipecoaters decision the court stated: The character of expenditure is ordinarily determined by reference to the nature of the asset acquired or the liability discharged by the making of the expenditure, for the character of the advantage sought by the making of the expenditure is the chief, if not the critical, factor in determining the character of what is paid. The character of a payment will 'take the quality of an outgoing of a capital nature or of an outgoing on account of revenue from the cause or the purpose of incurring the expenditure' (Dixon J in Hallstroms Pty Limited v. Federal Commissioner of Taxation (1946) 72 CLR 634 (1946) 8 ATD 190; (1946) 3 AITR 436).
 Accordingly, the payment for indirect settlement costs takes on the character from the purpose for which the expenditure was incurred. The purpose of the expenditure is to allow the taxpayer to transfer its insurance related liabilities, which are on revenue account. This indicates that the expenditure is of a revenue nature.
 The nature of a payment as a one off payment does not prejudice treatment as an outgoing on revenue account under section 8-1 of the ITAA 1997 (McTiernan J in Foley Bros Pty Ltd v. FC of T (1965) 13 ATD 474; (1965) 3 AITR 436).
 Accordingly, the indirect claims settlement component of the consideration paid by the taxpayer to cede its outstanding claims liabilities under a portfolio transfer is deductible under section 8-1 of the ITAA 1997.
-Date of decision:
-  1 November 2004
-
-Year of income:
-  Year ended 31 December 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1   paragraph 8-1(2)(a)   section 995-1
-Insurance Act 1973   the Act
-
-Case References:
-
-G P International Pipecoaters Pty Ltd v. Federal Commissioner of Taxation   (1990) 170 CLR 124   90 ATC 4413   21 ATR 1
-
-Hallstroms Pty Ltd v. Federal Commissioner of Taxation    (1946) 72 CLR 634   (1946) 8 ATD 190
-
-Foley Bros Pty Ltd v. FC of T    (1965) 13 ATD 474   (1965) 9 AITR 635
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/910
- ATO ID 2004/911
- ATO ID 2004/913
- ATO ID 2004/914
- ATO ID 2004/915
- ATO ID 2004/916
- ATO ID 2004/917
- ATO ID 2004/918
- ATO ID 2004/919
- ATO ID 2004/920
- ATO ID 2004/921
- ATO ID 2004/922
- ATO ID 2004/923
- ATO ID 2004/924
- ATO ID 2004/925
- ATO ID 2004/926
- ATO ID 2004/927
- ATO ID 2004/928
- ATO ID 2004/929
- ATO ID 2004/930
-
-Keywords
-
-General insurance
- General insurance industry
-
-Siebel/TDMS Reference Number:
-  4068632
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  19 November 2004
-
-ISSN:
- 1445-2782
+Date of decision: 1 November 2004 Year of income: Year ended 31 December 2004 Legislative References: Income Tax Assessment Act 1997 section 8-1 paragraph 8-1(2)(a) section 995-1
+Insurance Act 1973 the Act Case References: G P International Pipecoaters Pty Ltd v. Federal Commissioner of Taxation (1990) 170 CLR 124 90 ATC 4413 21 ATR 1 Hallstroms Pty Ltd v. Federal Commissioner of Taxation (1946) 72 CLR 634 (1946) 8 ATD 190 Foley Bros Pty Ltd v. FC of T (1965) 13 ATD 474 (1965) 9 AITR 635 Related ATO Interpretative Decisions ATO ID 2004/910 ATO ID 2004/911 ATO ID 2004/913 ATO ID 2004/914 ATO ID 2004/915 ATO ID 2004/916 ATO ID 2004/917 ATO ID 2004/918 ATO ID 2004/919 ATO ID 2004/920 ATO ID 2004/921 ATO ID 2004/922 ATO ID 2004/923 ATO ID 2004/924 ATO ID 2004/925 ATO ID 2004/926 ATO ID 2004/927 ATO ID 2004/928 ATO ID 2004/929 ATO ID 2004/930 Keywords General insurance General insurance industry Siebel/TDMS Reference Number: 4068632 Business Line: Public Groups and International Date of publication: 19 November 2004 ISSN: 1445-2782

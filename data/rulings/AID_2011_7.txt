@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/7
-==================================================
-
-Income Tax
- Application of section 295-85 of the ITAA 1997: where a complying superannuation fund is a partner in a venture capital limited partnership
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Application of section 295-85 of the ITAA 1997: where a complying superannuation fund is a partner in a venture capital limited partnership FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the modifications in subsection 295-85(2) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to a venture capital limited partnership when a complying superannuation fund is a partner in the partnership?
 Decision
 Yes, the modifications in subsection 295-85(2) of the ITAA 1997 can apply to a venture capital limited partnership when a complying superannuation fund is a partner in the partnership such that gains flowing to the complying superannuation fund by reason of being a partner are taxed as capital gains.
@@ -29,53 +18,12 @@ Subsection 295-85(1) of the ITAA 1997 states that the modifications in subsectio
 Subsection 295-85(2) of the ITAA 1997 does not explicitly state that its operation is limited to taxpayers referred to in subsection 295-85(1) of the ITAA 1997. Rather, it merely lists the modifications that apply to the ITAA 1997 and the ITAA 1936 if a CGT event happens to a CGT asset owned by an entity listed in subsection 295-85(1).
 In the present case the interest the CSF partner has in the asset of the VCLP that is disposed of by the limited partnership is itself a CGT asset. Furthermore the disposal of the VCLP's asset necessarily involves a disposal by the CSF partner of its interest in the asset. As such, disposal of the partnership asset results in a CGT event happening to the CGT asset of the CSF partner.
 Accordingly, the modifications in subsection 295-85(2) of the ITAA 1997 will apply to the VCLP insofar as the disposal of its asset represents a disposal of the CSF partner's interest in the asset.
-This view is supported by an examination of the EM to the Taxation Laws Amendment (Venture Capital) Bill 2002. In particular paragraphs 2.20 and 2.21 contain the following discussion of section 304 of the ITAA 1936 (the predecessor to section 295-85 of the ITAA 1997):
-
-Capital gains
-
-2.20 Capital gains made on assets held by a VCLP, an AFOF* or a VCMP* will be taxable to a partner in the same way as interests on assets held by an ordinary partnership.
- For example, as the CGT provisions are the primary code for taxing gains and losses made by superannuation funds, approved deposit funds and pooled superannuation trusts (section 304 of the ITAA 1936
- ),
- gains flowing to any of these entities as a limited partner in a VCLP or AFOF will be taxed as capital gains
- . [emphasis added]
-
-2.21 Any capital gain or loss on the realisation of assets held by the VCLP or AFOF, including the carried interest distributed by a VCMP, will be taxed according to the partner's tax status. Thus, individuals who are partners in a VCMP will qualify for the CGT discount on the carried interest if they satisfy the other requirements for the discount.
-
-(* note AFOF = Australian venture capital fund of funds, VCMP = venture capital management partnership).
+This view is supported by an examination of the EM to the Taxation Laws Amendment (Venture Capital) Bill 2002. In particular paragraphs 2.20 and 2.21 contain the following discussion of section 304 of the ITAA 1936 (the predecessor to section 295-85 of the ITAA 1997): Capital gains 2.20 Capital gains made on assets held by a VCLP, an AFOF* or a VCMP* will be taxable to a partner in the same way as interests on assets held by an ordinary partnership. For example, as the CGT provisions are the primary code for taxing gains and losses made by superannuation funds, approved deposit funds and pooled superannuation trusts (section 304 of the ITAA 1936 ), gains flowing to any of these entities as a limited partner in a VCLP or AFOF will be taxed as capital gains . [emphasis added] 2.21 Any capital gain or loss on the realisation of assets held by the VCLP or AFOF, including the carried interest distributed by a VCMP, will be taxed according to the partner's tax status. Thus, individuals who are partners in a VCMP will qualify for the CGT discount on the carried interest if they satisfy the other requirements for the discount. (* note AFOF = Australian venture capital fund of funds, VCMP = venture capital management partnership).
 This illustrates that there was a specific intent for section 304 of the ITAA 1936 (now section 295-85 of the ITAA 1997) to find application in relation to a venture capital limited partnership that had a CSF as a partner.
 Accordingly, the modifications in subsection 295-85(2) of the ITAA 1997 can apply to a VCLP when a CSF is a partner in the partnership.
 The effect of this approach is that amounts attributable to the CGT event happening to the CGT asset of the CSF partner are excluded from any amount determined under the provisions listed in subsection 295-85(2) of the ITAA 1997 in relation to the partnership, where the other conditions of section 295-85 of the ITAA 1997 are met.
 Accordingly, in this case section 6-5 of the ITAA 1997 (being one of the provisions listed in subsection 295-85(2) of the ITAA 1997) will not apply to the partnership in relation to the CSF's interest in the asset. Any gain on disposal in relation to the CSF's interest in the asset will therefore not be taken into account in calculating the net income of the partnership under section 90 of the ITAA 1936, but rather will fall for consideration under the CGT rules at the level of the CSF partner.
-Date of decision:
-  21 December 2010
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5   section 8-1   subsection 108-5(2)   section 295-85   subsection 295-85(1)   subsection 295-85(2)
-Income Tax Assessment Act 1936   section 90   subsection 94D(2)   section 304   Division 5 of Part III   Division 5A of Part III
-Partnership Act 1892 (NSW)   The Act
-Venture Capital Act 2002   section 13-1
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment (Venture Capital) Bill 2002
-
-Keywords
-
-Complying superannuation funds
- Partnerships
-
-Siebel/TDMS Reference Number:
-  1-2F3EVX4
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  14 January 2011
-
-ISSN:
- 1445-2782
+Date of decision: 21 December 2010 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 section 6-5 section 8-1 subsection 108-5(2) section 295-85 subsection 295-85(1) subsection 295-85(2)
+Income Tax Assessment Act 1936 section 90 subsection 94D(2) section 304 Division 5 of Part III Division 5A of Part III
+Partnership Act 1892 (NSW) The Act
+Venture Capital Act 2002 section 13-1 Other References: Explanatory Memorandum to the Taxation Laws Amendment (Venture Capital) Bill 2002 Keywords Complying superannuation funds Partnerships Siebel/TDMS Reference Number: 1-2F3EVX4 Business Line: Public Groups and International Date of publication: 14 January 2011 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/131
-==================================================
-
-Goods and Services Tax
- GST and supply of potential residential land subdivided from land on which a farming business was carried on that is not GST-free
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and supply of potential residential land subdivided from land on which a farming business was carried on that is not GST-free FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity making a GST-free supply under section 38-475 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it supplies land that is subdivided from land on which a farming business was carried on for at least 5 years but not up until commencement of the subdivision?
 Decision
 No. In these circumstances, the entity is not making a GST-free supply under section 38-475 of the GST Act.
@@ -21,54 +10,10 @@ The entity is an owner of land that is 'potential residential land' as defined i
 The potential residential land is subdivided from land on which the entity carried on a farming business for at least 5 years, but not up until commencement of the subdivision. The entity had ceased the farming business and used the land for non-farming purposes for a period of time before subdividing the land.
 The entity is registered for GST and the supply of the land to the associate satisfies the other positive limbs of section 9-5 of the GST Act. The supply is not GST-free or input taxed under any other provision of the GST Act.
 Reasons for Decision
-Subsection 38-475(1) of the GST Act provides that the supply of a freehold interest in potential residential land is GST-free if:
-
-(a)the land is subdivided from land on which a farming business has been carried on for at least 5 years; and
-(b)the supply is made to an associate of the supplier of the land without consideration or for consideration that is less than the GST inclusive market value of the supply.
-
-On the facts, paragraph 38-475(1)(b) of the GST Act is clearly satisfied.
+Subsection 38-475(1) of the GST Act provides that the supply of a freehold interest in potential residential land is GST-free if: (a)the land is subdivided from land on which a farming business has been carried on for at least 5 years; and
+(b)the supply is made to an associate of the supplier of the land without consideration or for consideration that is less than the GST inclusive market value of the supply. On the facts, paragraph 38-475(1)(b) of the GST Act is clearly satisfied.
 The question is whether paragraph 38-475(1)(a) of the GST Act is satisfied. That is, whether the potential residential land that the entity is supplying to its associate 'is subdivided from land on which a farming business has been carried on for at least 5 years' if the subdivision commenced some time after the entity had ceased the farming business and used the land for non-farming purposes.
 The use of the perfect tense in the phrase 'land on which a farming business has been carried on for at least 5 years' and the placement of that phrase next to the words 'is subdivided from' indicate a temporal connection is required between the carrying on of the business and the time of subdividing the land (see note 1 below). This means that to satisfy paragraph 38-475(1)(a) of the GST Act, the potential residential land must be subdivided from land on which a farming business continued to be carried on for at least 5 years up until commencement of the subdivision.
 In this case, paragraph 38-475(1)(a) of the GST Act is not satisfied. While the entity carried on a farming business for at least 5 years on the land from which the potential residential land was subdivided, it did not carry on the farming business up until commencement of the subdivision.
 Therefore, the supply of the potential residential land by the entity to its associate is not a GST-free supply under section 38-475 of the GST Act.
-As section 9-5 of the GST Act is satisfied, and the supply is also not GST-free or input taxed under any other provision of the GST Act, the supply is a taxable supply.
-
-Note 1: in the phrase, the words 'has been carried on' are expressed in the perfect tense. It is to be contrasted with the simple past tense expression 'was carried on'. The grammatical use of the perfect tense in relation to a time period is to describe an action or event beginning in that period in the past and continuing up until a specified reference point. Whereas, the simple past tense is used to describe something that occurred and finished in the past. (See Greenbaum, S 1996, The Oxford English Grammar, Oxford University Press, New York; Biber, D and others 1999, Longman Grammar of Spoken and Written English, Pearson Education Limited, England; and Huddleston, R 1984, Introduction to the Grammar of English, Cambridge University Press, Cambridge.)
-
-Note 2: if the associate of the entity is not registered or required to be registered for GST or is acquiring the potential residential land for a non-creditable purpose, the application of section 72-70 of the GST Act needs to be considered. Section 72-70 of the GST Act is about the value of taxable supplies made to an associate for inadequate consideration.
-
-Date of decision:
-  12 October 2009
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 38-475   subsection 38-475(1)   paragraph 38-475(1)(a)   paragraph 38-475(1)(b)   section 72-70
-
-Other References:
-
-Greenbaum, S 1996, The Oxford English Grammar, Oxford University Press, New York.
- Biber, D and others 1999, Longman Grammar of Spoken and Written English, Pearson Education Limited, England.
- Huddleston, R 1984, Introduction to the Grammar of English, Cambridge University Press, Cambridge.
-
-Keywords
-
-Farming business
- Goods and services tax
- GST associates
- GST farm land
- GST free
- Potential residential land
- Subdivided farm land
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  3691452
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  6 November 2009
-
-ISSN:
- 1445 - 2782
+As section 9-5 of the GST Act is satisfied, and the supply is also not GST-free or input taxed under any other provision of the GST Act, the supply is a taxable supply. Note 1: in the phrase, the words 'has been carried on' are expressed in the perfect tense. It is to be contrasted with the simple past tense expression 'was carried on'. The grammatical use of the perfect tense in relation to a time period is to describe an action or event beginning in that period in the past and continuing up until a specified reference point. Whereas, the simple past tense is used to describe something that occurred and finished in the past. (See Greenbaum, S 1996, The Oxford English Grammar, Oxford University Press, New York; Biber, D and others 1999, Longman Grammar of Spoken and Written English, Pearson Education Limited, England; and Huddleston, R 1984, Introduction to the Grammar of English, Cambridge University Press, Cambridge.) Note 2: if the associate of the entity is not registered or required to be registered for GST or is acquiring the potential residential land for a non-creditable purpose, the application of section 72-70 of the GST Act needs to be considered. Section 72-70 of the GST Act is about the value of taxable supplies made to an associate for inadequate consideration. Date of decision: 12 October 2009 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 38-475 subsection 38-475(1) paragraph 38-475(1)(a) paragraph 38-475(1)(b) section 72-70 Other References: Greenbaum, S 1996, The Oxford English Grammar, Oxford University Press, New York. Biber, D and others 1999, Longman Grammar of Spoken and Written English, Pearson Education Limited, England. Huddleston, R 1984, Introduction to the Grammar of English, Cambridge University Press, Cambridge. Keywords Farming business Goods and services tax GST associates GST farm land GST free Potential residential land Subdivided farm land Taxable supply Siebel/TDMS Reference Number: 3691452 Business Line: Indirect Tax Date of publication: 6 November 2009 ISSN: 1445 - 2782

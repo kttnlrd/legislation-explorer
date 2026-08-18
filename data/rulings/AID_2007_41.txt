@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/41
-==================================================
-
-Income tax
- Life insurance company: assessment of premiums 'paid' to the company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Life insurance company: assessment of premiums 'paid' to the company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a life insurance risk premium that is due, but remains unpaid to a life insurance company at the end of the income year, included in assessable income under paragraph 320-15(1)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) as an amount that has been 'paid to the company'?
 Decision
 Yes. A life insurance risk premium that is due, but remains unpaid to a life insurance company at the end of the income year, is included in assessable income under paragraph 320-15(1)(a) of the ITAA 1997 as an amount that has been 'paid to the company'.
@@ -26,20 +15,8 @@ Paragraph 320-15(1)(a) of the ITAA 1997 provides that the assessable income of a
 Accordingly, in determining whether a life insurance premium is assessable it is necessary to determine the meaning of the word 'paid' in paragraph 320-15(1)(a) of the ITAA 1997.
 As the word 'paid' is not defined in the ITAA 1997 it should be interpreted having regard to its ordinary meaning in the context in which it is used.
 The meaning of the word 'paid' was considered in Allen v. Thorn Electrical Industries Limited [1968] 1 QB 487; [1967] 2 All ER 1137 (Allen's case) in the context of the Prices and Incomes Act 1966 (UK) which had placed a freeze on wages. The employer company contended that the word meant 'actually paid' whilst the employees contended that it meant 'contracted to be paid'.
-In Allen's case Lord Denning said at QB 503; All ER 1142:
-
-In my opinion, therefore, in these sections the words, "the rate of remuneration paid for the same kind of work" before a particular date, mean "the rate of remuneration contracted to be paid for the same kind of work done" before that date.
-
-The word 'paid' is a descriptive term rather than a technical term that, as Allen's case demonstrates, can be interpreted in certain contexts to be broader than just amounts that have actually been paid.
-In Newcastle City Council v. GIO General Limited (1997) 191 CLR 85; McHugh J observed at CLR 112
-
-...a court is permitted to have regard to the words used in the legislature in their legal and historical context and, in appropriate cases, to give them meaning that will give effect to any purpose of the legislation that can be deduced from that context.
-
-The approach of interpreting words in their context so as to give effect to the purpose of a provision is given legislative support in section 15AA of the Acts Interpretation Act 1901 which provides:
-
-In the interpretation of a provision of an Act, a construction that would promote the purpose or object underlying the Act (whether that purpose or object is expressly stated in the Act or not) shall be preferred to a construction that would not promote that purpose or object.
-
-The context in which the word 'paid' must be considered is Division 320 of the ITAA 1997. The object of the Division is given in section 320-5 of the ITAA 1997 as providing a basis for taxing life insurance companies in a way that is broadly comparable to the way that other entities that derive similar kinds of income are taxed. To achieve this object Division 320 identifies certain amounts that are included in the assessable income and certain amounts that a life insurance company can deduct.
+In Allen's case Lord Denning said at QB 503; All ER 1142: In my opinion, therefore, in these sections the words, "the rate of remuneration paid for the same kind of work" before a particular date, mean "the rate of remuneration contracted to be paid for the same kind of work done" before that date. The word 'paid' is a descriptive term rather than a technical term that, as Allen's case demonstrates, can be interpreted in certain contexts to be broader than just amounts that have actually been paid.
+In Newcastle City Council v. GIO General Limited (1997) 191 CLR 85; McHugh J observed at CLR 112 ...a court is permitted to have regard to the words used in the legislature in their legal and historical context and, in appropriate cases, to give them meaning that will give effect to any purpose of the legislation that can be deduced from that context. The approach of interpreting words in their context so as to give effect to the purpose of a provision is given legislative support in section 15AA of the Acts Interpretation Act 1901 which provides: In the interpretation of a provision of an Act, a construction that would promote the purpose or object underlying the Act (whether that purpose or object is expressly stated in the Act or not) shall be preferred to a construction that would not promote that purpose or object. The context in which the word 'paid' must be considered is Division 320 of the ITAA 1997. The object of the Division is given in section 320-5 of the ITAA 1997 as providing a basis for taxing life insurance companies in a way that is broadly comparable to the way that other entities that derive similar kinds of income are taxed. To achieve this object Division 320 identifies certain amounts that are included in the assessable income and certain amounts that a life insurance company can deduct.
 The approach adopted in Division 320 of the ITAA 1997 to achieve this object includes matching cash flows with the corresponding changes in liabilities. The correct reflex of the year's activities for risk policies emerges from comparing premium income with the corresponding changes in policy liabilities, and policy benefits with the corresponding change in policy liabilities. Under the Division 320 model, paragraph 320-15(1)(a) of the ITAA 1997 operates to assess premiums, while movements in the net risk components of life insurance policies are assessable under paragraph 320-15(1)(h) of the ITAA 1997 or deductible under section 320-85 of the ITAA 1997.
 This matching process was judicially recognised in RACV Insurance Pty Ltd v. Federal Commissioner of Taxation 74 ATC 4169; (1974) 4 ATR 610 as the appropriate basis for the taxation of insurance business prior to the enactment of specific rules for the taxation of insurance businesses. It is clear from the structure and scheme of Division 320 of the ITAA 1997 that these statutory rules were intended to preserve and reinforce, rather than vary or detract from, these principles.
 The relevant provisions of Division 320 of the ITAA 1997 use terms such as 'paid' and 'received or recovered' in relation to cash flows. For risk business, the movements in liabilities under the net risk component of polices are deductible and assessable. It is the net effect of cash flows and liability changes in an income year which reveals the tax law outcome. Recognising amounts such as premiums, claims and recoveries only on a cash basis would mean that in some cases cash flows would be taken into account in a different income year from the related increases or decreases in the corresponding policy liabilities.
@@ -49,41 +26,5 @@ Division 320 of the ITAA 1997 does not require that either a cash or accruals re
 Applying these principles to the life insurance company's risk policy, the appropriate taxable income position emerges when cash flows are recognised in a way that is consistent with the calculation of the corresponding liabilities under the net risk components of the policy.
 The net risk component of the life insurance company's life insurance policy was calculated on an 'accruals' basis, and in particular, the premium that was due and payable to the life insurance company at the end of the income year was not included in the liability calculations as an anticipated future cash flow. Therefore, a correct reflex of the taxable income only arises when the life insurance premium that is due and payable at the end of the income year is included in assessable income of the life insurance company for the year ended 30 June 2006 under paragraph 320-15(1)(a) of the ITAA 1997.
 Accordingly, the premiums paid to the life insurance company for the purposes of paragraph 320-15(1)(a) of the ITAA 1997 include the life insurance premium that was due and payable to the life insurance company at the end of the income year, as this results in an appropriate matching of the premium to the movement in net risk liabilities of the life insurance company under Division 320 of the ITAA 1997.
-Date of decision:
-  25 January 2007
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 320   section 320-5   paragraph 320-15(1)(a)   paragraph 320-15(1)(h)   section 320-85   subsection 320-85(4)
-Acts Interpretation Act 1901   section 15AA
-
-Case References:
-
-Allen v. Thorn Electrical Industries Ltd.   [1968] 1 QB 487   [1967] 2 All ER 1137
-
-Newcastle City Council v. GIO General Limited   (1997) 191 CLR 85   (1997) 72 ALJR 97   (1997) 149 ALR 623
-
-RACV Insurance Pty Ltd v. Federal Commissioner of Taxation   74 ATC 4169   (1974) 4 ATR 610
-
-Keywords
-
-Insurance & insurance industry
- Life insurance policies
- Life insurance company
- Accrual basis accounting
- Cash basis accounting
-
-Siebel/TDMS Reference Number:
-  5049102
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 March 2007
-
-ISSN:
- 1445-2782
+Date of decision: 25 January 2007 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 Division 320 section 320-5 paragraph 320-15(1)(a) paragraph 320-15(1)(h) section 320-85 subsection 320-85(4)
+Acts Interpretation Act 1901 section 15AA Case References: Allen v. Thorn Electrical Industries Ltd. [1968] 1 QB 487 [1967] 2 All ER 1137 Newcastle City Council v. GIO General Limited (1997) 191 CLR 85 (1997) 72 ALJR 97 (1997) 149 ALR 623 RACV Insurance Pty Ltd v. Federal Commissioner of Taxation 74 ATC 4169 (1974) 4 ATR 610 Keywords Insurance & insurance industry Life insurance policies Life insurance company Accrual basis accounting Cash basis accounting Siebel/TDMS Reference Number: 5049102 Business Line: Public Groups and International Date of publication: 2 March 2007 ISSN: 1445-2782

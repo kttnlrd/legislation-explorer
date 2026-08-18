@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/223
-==================================================
-
-Goods and Services Tax
- GST and concentrated lactofermented whey
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and concentrated lactofermented whey FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies concentrated lactofermented whey?
 Decision
 No, the entity is not making a GST-free supply under section 38-2 of the GST Act, when it supplies concentrated lactofermented whey. The entity is making a taxable supply under section 9-5 of the GST Act.
@@ -25,12 +14,8 @@ A supply of food is GST-free under section 38-2 of the GST Act if it satisfies t
 The meaning of food in section 38-4 of the GST Act includes ingredients for beverages for human consumption (paragraph 38-4(1)(d) of the GST Act). As the concentrated lactofermented whey is a liquid that is added to other beverages for consumption, it is an ingredient for a beverage which meets the definition of food in paragraph 38-4(1)(d) of the GST Act.
 However, under paragraph 38-3(1)(d) of the GST Act, a supply of an ingredient for a beverage is not GST-free unless it is an ingredient for a beverage, of a kind specified in the table in clause 1 of Schedule 2 to the GST Act (Schedule 2).
 Concentrated lactofermented whey is not specifically listed in Schedule 2. As such, it must be determined whether concentrated lactofermented whey is a beverage or an ingredient for a beverage, of a kind specified in Schedule 2.
-The items from Schedule 2 that are of relevance are:
-
-•item 1(c) - whey, whey powder or whey paste;
-•item 2 - beverages consisting of products referred to in item 1 (or a combination of those products), to the extent of at least 95%, but not including flavoured beverages.
-
-In relation to item 1(c) in Schedule 2 (Item 1(c)), the terms 'whey', 'whey powder' and 'whey paste' are not defined in the GST Act. Therefore, it is necessary to rely on the ordinary meanings of those words.
+The items from Schedule 2 that are of relevance are: •item 1(c) - whey, whey powder or whey paste;
+•item 2 - beverages consisting of products referred to in item 1 (or a combination of those products), to the extent of at least 95%, but not including flavoured beverages. In relation to item 1(c) in Schedule 2 (Item 1(c)), the terms 'whey', 'whey powder' and 'whey paste' are not defined in the GST Act. Therefore, it is necessary to rely on the ordinary meanings of those words.
 The Macquarie Dictionary (1997) defines 'whey' as 'milk serum, separating as a watery liquid from the curd after coagulation, as in cheese making'. Accordingly, 'whey powder' and 'whey paste' are taken to be the powdered and paste versions of this substance.
 The product in question is described as 'concentrated lactofermented whey'. As the concentrated lactofermented whey is supplied in a liquid form, it is neither whey powder nor whey paste. As such, it is necessary to determine whether 'whey' includes concentrated lactofermented whey.
 An accepted principle of statutory interpretation (the noscitur a sociis rule) states that words take their meaning from the words with which they are associated ( Fox v. Warde [1978] VR 362: Supreme Court of Victoria). As such, aid in understanding the meaning of the word 'whey' can be obtained from the context of the surrounding words used in the items in the category 'milk products' in Schedule 2.
@@ -38,38 +23,4 @@ Item 1(a) in Schedule 2 (Item 1(a)) lists 'milk, skim milk or buttermilk (whethe
 Item 2 in Schedule 2 (Item 2) provides that the supply of beverages consisting of products referred to in Item 1 in Schedule 2 (or a combination of those products), to the extent of at least 95%, but not including flavoured beverages, are GST-free. For the reasons expressed above, the concentrated lactofermented whey is not covered by any of the products listed in item 1 in Schedule 2. Therefore, it is not included in Item 2.
 Although concentrated lactofermented whey is an ingredient for a beverage, it is not an ingredient of a kind specified in Schedule 2. Therefore, the entity is not making a GST-free supply under section 38-2 of the GST Act when it sells concentrated lactofermented whey.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the supply of concentrated lactofermented whey is a taxable supply under section 9-5 of the GST Act.
-Date of decision:
-  28 September 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   section 38-2   section 38-3   paragraph 38-3(1)(d)   section 38-4   paragraph 38-4(1)(c)   Division 40   Schedule 2 clause 1   Schedule 2 clause 1 table item 1   Schedule 2 clause 1 table item 1 paragraph (a)   Schedule 2 clause 1 table item 1 paragraph (c)   Schedule 2 clause 1 table item 2
-
-Case References:
-
-Fox v. Warde   [1978] VR 362: Supreme Court of Victoria
-
-Other References:
-
-The Macquarie Dictionary, 1997, 3rd Edition, The Macquarie Library Pty Ltd, New South Wales
-
-Keywords
-
-Goods & services tax
- GST free
- GST food
- Ingredients for beverages
- GST supplies & acquisitions
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  CW236994
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  7 March 2002
-
-ISSN:
- 1445-2782
+Date of decision: 28 September 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 Division 38 section 38-2 section 38-3 paragraph 38-3(1)(d) section 38-4 paragraph 38-4(1)(c) Division 40 Schedule 2 clause 1 Schedule 2 clause 1 table item 1 Schedule 2 clause 1 table item 1 paragraph (a) Schedule 2 clause 1 table item 1 paragraph (c) Schedule 2 clause 1 table item 2 Case References: Fox v. Warde [1978] VR 362: Supreme Court of Victoria Other References: The Macquarie Dictionary, 1997, 3rd Edition, The Macquarie Library Pty Ltd, New South Wales Keywords Goods & services tax GST free GST food Ingredients for beverages GST supplies & acquisitions Taxable supply Siebel/TDMS Reference Number: CW236994 Business Line: Indirect Tax Date of publication: 7 March 2002 ISSN: 1445-2782

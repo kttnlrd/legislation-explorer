@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/657
-==================================================
-
-Income Tax
- Deduction: tax indemnity payment
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deduction: tax indemnity payment FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a deduction allowable under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for payments made under a tax indemnity clause in a contract for sale of shares in the year in which the expenditure was incurred?
 Decision
 No. A deduction is not allowable under section 8-1 of the ITAA 1997 as the payments are capital or of a capital nature.
@@ -26,33 +15,4 @@ Section 8-1 of the ITAA 1997 allows a deduction for all losses and outgoings to 
 The Full Federal Court in Federal Commissioner of Taxation v. Email Ltd [1999] FCA 1177; (1999) 42 ATR 698; 99 ATC 4868 (Email) considered the deductibility of payments made pursuant to indemnities. In that case a holding company, in the seven years following the sale of shares by its subsidiary, paid amounts under indemnities it had granted on the sale of the shares.
 The Court held that the indemnity payments were not deductible. The occasion for the outgoings was found in the giving of the indemnity, not directly in the outgoings themselves. The immediate advantage which the indemnity was calculated to effect was the sale of the shares at the maximum price possible. The advantage to the taxpayer was an increase in the value of its shares in its subsidiary, which went to the dividend yielding structure of the taxpayer rather than to the process by which the dividends were earned and was thus of a capital nature.
 In the circumstances here the outgoings were paid under the tax indemnity given by the taxpayer to the purchaser and which was contained in the Sale Agreement. It is considered that the decision in Email applies to these circumstances. The occasion for the outgoings is to be found in the giving of the tax indemnity which goes to achieving the sale and enhancing the sale price of the shares in the subsidiary. Accordingly the amounts are outgoings of capital or of a capital nature and are not allowable deductions under section 8-1 of the ITAA 1997.
-Date of decision:
-  8 June 2004
-
-Year of income:
-  year ended 30 June 2001 year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1
-
-Case References:
-
-Federal Commissioner of Taxation v. Email Ltd    [1999] FCA 1177   (1999) 42 ATR 698   99 ATC 4868
-
-Keywords
-
-Deductions
- Indemnity
-
-Siebel/TDMS Reference Number:
-  4095755
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  6 August 2004
-
-ISSN:
- 1445-2782
+Date of decision: 8 June 2004 Year of income: year ended 30 June 2001 year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 8-1 Case References: Federal Commissioner of Taxation v. Email Ltd [1999] FCA 1177 (1999) 42 ATR 698 99 ATC 4868 Keywords Deductions Indemnity Siebel/TDMS Reference Number: 4095755 Business Line: Small Business/Individual Taxpayers Date of publication: 6 August 2004 ISSN: 1445-2782

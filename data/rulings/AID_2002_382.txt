@@ -1,84 +1,20 @@
 ATO Interpretative Decision
 ATO ID 2002/382
-==================================================
-
-Income Tax
- Deductions for losses on sale of assets between companies within the same wholly-owned group
- FOI status: may be released
-
-This ATO ID is withdrawn as it does not reflect the ATO view due to legislative changes contained in the New Business Tax System (Consolidation) Act (No. 1) 2002.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deductions for losses on sale of assets between companies within the same wholly-owned group FOI status: may be released This ATO ID is withdrawn as it does not reflect the ATO view due to legislative changes contained in the New Business Tax System (Consolidation) Act (No. 1) 2002. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does Subdivision 170 D of the Income Tax Assessment Act 1997 (ITAA 1997) apply where Company A makes a balancing adjustment loss on the disposal of a unit of plant to Company B, which is within the same wholly owned group?
 Decision
 Yes. Subdivision 170-D of the ITAA 1997 applies to defer the deduction for the loss made by Company A until the happening of one of the events listed in section 170-275 of the ITAA 1997 (e.g. where the plant was sold outside of the group).
 Facts
 Company A is a member of a wholly-owned group of Australian resident companies that includes Company B. Company A dispose of a unit of plant to company B during the income year ended 30 June 2001. The market value of the unit of plant is for $30,000. The undeducted cost of the unit at the time of sale was $50,000. As a result of the disposal, Company A has a balancing adjustment loss of $20,000.
 Reasons for Decision
-Section 42-195 of the ITAA 1997 allows a deduction on the sale of a unit of plant where the termination value for the unit is less than its undeducted cost. However, Subdivision 170-D of the ITAA 1997 applies to defer such a deduction if the conditions in section 170-255 of the ITAA 1997 are met. The conditions relevant to the facts provided are:
-
-•There is an event (the deferral event) involving a company (the originating company), and another entity (i.e. Company B) as per paragraph 170-255(1)(a) of the ITAA 1997.
+Section 42-195 of the ITAA 1997 allows a deduction on the sale of a unit of plant where the termination value for the unit is less than its undeducted cost. However, Subdivision 170-D of the ITAA 1997 applies to defer such a deduction if the conditions in section 170-255 of the ITAA 1997 are met. The conditions relevant to the facts provided are: •There is an event (the deferral event) involving a company (the originating company), and another entity (i.e. Company B) as per paragraph 170-255(1)(a) of the ITAA 1997.
 •The deferral event would have resulted in the originating company (Company A) becoming entitled to a deduction in respect of the disposal of a CGT asset as per subparagraph 170-255(1)(b)(ii) of the ITAA 1997.
 •The originating company is a resident at the time of the deferral event.
-•At the time of the deferral event, the originating company is a member of a linked group and the other entity is also a member of that linked group as per subparagraph 170-255(1)(e)(i) of the ITAA 1997.
-
-Applying these conditions to the facts:-
-
-(a)there would be an event involving a company (Company A) and another entity (Company B), namely, the sale of the item of plant;
+•At the time of the deferral event, the originating company is a member of a linked group and the other entity is also a member of that linked group as per subparagraph 170-255(1)(e)(i) of the ITAA 1997. Applying these conditions to the facts:- (a)there would be an event involving a company (Company A) and another entity (Company B), namely, the sale of the item of plant;
 (b)this deferral event would have resulted in the originating company (Company A) becoming entitled to a deduction (a balancing adjustment deduction of $20,000) in respect of the disposal of a CGT asset (the item of plant);
 (c)the originating company (Company A) is a resident at the time of the deferral event; and
-(d)at the time of the deferral event, Company A would be a member of a linked group and the other group company also would be a member of that linked group (two members of a wholly-owned company group would fall within the definition of "linked group" under section 170-260 of the ITAA 1997).
-
-Accordingly, the conditions for application of Subdivision 170-D of the ITAA 1997 would be met in these circumstances. The immediate consequence of the application of the Subdivision would be to disregard the relevant deduction as per section 170-270 of the ITAA 1997. In other words, the balancing adjustment deduction could not be claimed by Company A and would effectively be deferred until immediately before the happening of one of the events listed in section 170-275 of the ITAA 1997.
-Date of decision:
-  11 March 2002
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 42-195   Subdivision 170-D   section 170-255   section 170-260   section 170-270   section 170-275
-
-Keywords
-
-Group company transfers
- Group company loss transfers
- Balancing adjustment rollover relief
- Capital Allowances CoE
- Additional balancing adjustment amount
- Balancing adjustment event
- Balancing adjustment offset
-
-Business Line:
-  Centres of Expertise Capital Allowances
-
-Date of publication:
-  28 March 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-11 March 2002
-Original statement
-
-You are here
- 3 November 2006
+(d)at the time of the deferral event, Company A would be a member of a linked group and the other group company also would be a member of that linked group (two members of a wholly-owned company group would fall within the definition of "linked group" under section 170-260 of the ITAA 1997). Accordingly, the conditions for application of Subdivision 170-D of the ITAA 1997 would be met in these circumstances. The immediate consequence of the application of the Subdivision would be to disregard the relevant deduction as per section 170-270 of the ITAA 1997. In other words, the balancing adjustment deduction could not be claimed by Company A and would effectively be deferred until immediately before the happening of one of the events listed in section 170-275 of the ITAA 1997.
+Date of decision: 11 March 2002 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 section 42-195 Subdivision 170-D section 170-255 section 170-260 section 170-270 section 170-275 Keywords Group company transfers Group company loss transfers Balancing adjustment rollover relief Capital Allowances CoE Additional balancing adjustment amount Balancing adjustment event Balancing adjustment offset Business Line: Centres of Expertise Capital Allowances Date of publication: 28 March 2002 ISSN: 1445-2782 history Date: Version: 11 March 2002
+Original statement You are here 3 November 2006
 Archived

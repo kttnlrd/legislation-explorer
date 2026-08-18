@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1119
-==================================================
-
-Income Tax
- Timing of deductions for prepaid interest on money borrowed to acquire instalment warrants over stapled securities
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Timing of deductions for prepaid interest on money borrowed to acquire instalment warrants over stapled securities FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will subsection 82KZME(5) of the Income Tax Assessment Act 1936 (ITAA 1936) apply to prepaid interest expenditure incurred in respect of an investment in instalment warrants over stapled securities so that the expenditure is excluded from the tax shelter rules contained in sections 82KZME and 82KZMF of the ITAA 1936?
 Decision
 Yes. Prepaid interest on money borrowed to acquire instalment warrants over stapled securities falls within the exception contained in subsection 82KZME(5) of the ITAA 1936 and is excluded from the operation of sections 82KZME and 82KZMF of the ITAA 1936.
@@ -36,32 +25,5 @@ Subsection 82KZME(5) of the ITAA 1936 provides an exception from the tax shelter
 The shares and units that constitute the stapled securities are quoted jointly on ASX. That is, instead of the two securities being quoted and traded separately on ASX they are quoted and traded jointly.
 A requirement for quotation is that the entities whose securities are stapled are admitted to the official list of ASX. Although ASX allows the entities to meet the listing requirements collectively each entity is admitted to the official list. Accordingly, the shares that, in part, constitute the stapled securities are listed for quotation in the official list of ASX.
 As the prepaid interest is incurred in acquiring units in a trust that has at least 300 beneficiaries and is a widely held unit trust as defined in section 272-105 in Schedule 2F to the ITAA 1936 and shares that are listed for quotation (albeit jointly) in the official list of ASX the prepaid interest is excluded from the operation of the tax shelter rules.
-Date of decision:
-  3 December 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 82KZM   section 82KZME   section 82KZMF   section 272-105
-Income Tax Assessment Act 1997   section 8-1
-
-Keywords
-
-Advance expenses & payments
- Advanced payments expense post 20/9/99
- Instalment warrants
- Interest expenses
-
-Siebel/TDMS Reference Number:
-  3836693
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 December 2003
-
-ISSN:
- 1445-2782
+Date of decision: 3 December 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 82KZM section 82KZME section 82KZMF section 272-105
+Income Tax Assessment Act 1997 section 8-1 Keywords Advance expenses & payments Advanced payments expense post 20/9/99 Instalment warrants Interest expenses Siebel/TDMS Reference Number: 3836693 Business Line: Public Groups and International Date of publication: 12 December 2003 ISSN: 1445-2782

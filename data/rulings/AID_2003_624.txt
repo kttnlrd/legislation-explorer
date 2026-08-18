@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/624
-==================================================
-
-Income Tax
- Applicability of paragraph 45-5(5)(c) of the ITAA 1997 to disposal by a partnership of its interest in a leased asset to a company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Applicability of paragraph 45-5(5)(c) of the ITAA 1997 to disposal by a partnership of its interest in a leased asset to a company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does paragraph 45-5(5)(c) of the Income Tax Assessment Act 1997 (ITAA 1997) apply in respect of the disposal by the partnership of a partnership asset in circumstances where roll-over relief would be available under section 40-340 of the ITAA 1997?
 Decision
 Yes. Paragraph 45-5(5)(c) of the ITAA 1997 applies to the partnership to the extent that roll-over relief was available to the partnership under section 40-340 of the ITAA 1997 when the partnership asset was disposed of to a wholly-owned company.
@@ -28,34 +17,4 @@ The explanatory memorandum relating to the New Business Tax System (Integrity an
 Amounts will not be included in assessable income under Division 45 to the extent that they are already directly included in assessable income by another provision (eg as a balancing charge), or would be included except for specific relieving provisions (eg where it is subject to roll-over relief to a related entity).
 Section 45-10 of the ITAA 1997 is concerned with disposals by the partners of their interests. The disposal of an interest in a partnership or partnership asset by a partner is not in itself subject to roll-over relief under Division 40 of the ITAA 1997. The table at section 40-340 of the ITAA 1997 is concerned only with a disposal by a 'partnership' of an asset to a wholly owned company, (Item 2). This is consistent with the approach in Division 40 of the ITAA 1997 that the 'holder' for capital allowance purposes is the partnership and not the individual partners, (section 40-40 of the ITAA 1997, at Item 7 of the table).
 Accordingly, paragraph 45-5(5)(c) of the ITAA 1997 will apply to the partnership to the extent that roll-over relief was available to the partnership under section 40-340 of the ITAA 1997 when the partnership asset was disposed of to a wholly-owned company.
-Date of decision:
-  24 June 2003
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 45-5   Section 45-10   Section 40-340
-
-Keywords
-
-Disposal of partnership interest in plant
- Partnership asset
- Plant balancing adjustment roll-over relief
- Termination of leases
-
-Siebel/TDMS Reference Number:
-  3255414; 1-5UVE5EU; 1-DAU1CPZ
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  25 July 2003
-
-Date reviewed:
-  16 January 2018
-
-ISSN:
- 1445-2782
+Date of decision: 24 June 2003 Year of income: Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Section 45-5 Section 45-10 Section 40-340 Keywords Disposal of partnership interest in plant Partnership asset Plant balancing adjustment roll-over relief Termination of leases Siebel/TDMS Reference Number: 3255414; 1-5UVE5EU; 1-DAU1CPZ Business Line: Private Groups and High Wealth Individuals Date of publication: 25 July 2003 Date reviewed: 16 January 2018 ISSN: 1445-2782

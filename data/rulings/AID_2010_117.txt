@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/117
-==================================================
-
-Income Tax
- Exempt income: overseas employment income of employees of a charitable organisation - income earned after 1 July 2009
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 which was modified by the introduction of paragraph 23AG(1AA)(a), effective from 1 July 2016. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2016 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Exempt income: overseas employment income of employees of a charitable organisation - income earned after 1 July 2009 FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 which was modified by the introduction of paragraph 23AG(1AA)(a), effective from 1 July 2016. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2016 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do employees engaged in foreign service for an employer operating a developing country relief fund satisfy paragraph 23AG(1AA)(b) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes, so long as their foreign service is directly related to aid or charitable activities undertaken by their employer in operating the developing country relief fund, the employees engaged in such foreign service satisfy paragraph 23AG(1AA)(b) of the ITAA 1936.
@@ -27,118 +12,11 @@ This charitable organisation operates a public fund covered by item 9.1.1 of the
 The taxpayers perform foreign service as technical personnel in a number of foreign countries for the charitable organisation.
 This foreign service was performed on or after 1 July 2009 and the earnings from this foreign service were derived on or after 1 July 2009.
 Reasons for Decision
-Subsection 23AG(1) of the ITAA 1936 provides that, where Australian resident individuals are engaged in foreign service for a continuous period of not less than 91 days, foreign earnings derived from this foreign service are exempt from Australian tax. New subsection 23AG(1AA) of the ITAA 1936, which took effect from 1 July 2009, now restricts the exemption to specific employment activities. It relevantly states:
-
-However, those foreign earnings are not exempt from tax under this section unless the continuous period of foreign service is directly attributable to any of the following:
-
-...
-
-(b)the activities of the person's employer in operating a public fund covered by item 9.1.1 or 9.1.2 of the table in subsection 30-80(1) of the Income Tax Assessment Act 1997 (international affairs deductible gift recipients);
-
-Continuous foreign service directly attributable to certain activities
-
-The opening words of subsection 23AG(1AA) contain a requirement applicable to all the employment activities in that subsection. That is, they state that the relevant foreign service must be 'directly attributable to' any of the employment activities listed in the subsection. Section 23AG of the ITAA 1936 does not specify what this means. However, the Explanatory Memorandum (EM) which accompanied Tax Laws Amendment (2009 Budget Measures No. 1) Bill 2009 introducing subsection 23AG(1AA) of the ITAA 1936, provides guidance on this (see subparagraph 15AB(1)(b)(i) and paragraph 15AB(2)(e) of the Acts Interpretation Act 1901). The relevant paragraphs appear below:
-
-1.35 Subsection 23AG(1AA) will apply where an individual undertakes a continuous period of foreign service of 91 days or more and the foreign service
- relates to
- more than one of the activities listed in paragraphs (a) to (e).
-
-Example 1.5
-
-Lisa is an APS employee employed by AusAID. On 1 July 2009 Lisa is posted to Tonga for 45 days, as a project advisor on an Australian ODA project.
-
-At the end of the 45 day posting, Lisa resigns from AusAID and takes up a position as an aid worker in Tonga, employed by a prescribed charitable institution covered by paragraph 23AG(1AA)(c). Lisa remains in her new position for another 100 days.
-
-Lisa's continuous period of foreign service for the purpose of subsection 23AG(1AA) is 145 days and her foreign earnings are eligible for exemption pursuant to section 23AG, subject to the conditions contained in subsection 23AG(2).
-
-Example 1.6
-
-As in the above example, Lisa resigns from AusAID at the end of her 45 day posting. However, rather than commencing work as an aid worker, Lisa takes up permanent employment with a bank in Tonga.
-
-Lisa's continuous period of foreign service in Tonga exceeds 91 days but none of her foreign earnings are eligible for exemption because she did not attain 91 days of continuous foreign service
- in relation to
- an activity covered by subsection 23AG(1AA).
-
-(Emphasis added.)
-
-The words 'attributable to' have commonly been interpreted to require a causal connection (see Federal Commissioner of Taxation v. Sun Alliance Investments Pty Ltd (in Liquidation) (2005) 225 CLR 488 at 514-515; (2005) 60 ATR 560; 2005 ATC 4955). However, these paragraphs in the EM suggest they bear a different meaning in this context. Specifically, they suggest that the words 'attributable to' in the context of subsection 23AG(1AA) of the ITAA 1936 mean 'related to'. Accordingly, for paragraph 23AG(1AA)(b) of the ITAA 1936 to apply, an individual's foreign service must be directly (that is, in a direct manner) related to the activities of their employer in operating a public fund covered by item 9.1.1 or 9.1.2 of the table in subsection 30-80(1) of the ITAA 1997.
-
-Employer operating a public fund
-
-The following paragraphs in the EM provide guidance on the scope and meaning of paragraph 23AG(1AA)(b) of the ITAA 1936:
-
-1.23 A person's foreign earnings will be eligible for exemption if they are directly attributable to their employer's activities in operating a public fund covered by item 9.1.1 or 9.1.2 of the table in subsection 30-80(1) of the ITAA 1997. [Schedule 1, item 1, paragraph 23AG(1AA)(b)]
-
-1.24 Item 9.1.1 of subsection 30-80(1) of the ITAA 1997 applies to a public fund declared by the Treasurer to be a developing country relief fund. Item 9.1.2 of subsection 30-80(1) applies to a public fund operated by a public benevolent institution solely to provide relief to people of a developing country who are in distress as a result of a disaster (a public disaster relief fund). Gifts or donations made to these public funds are tax deductible for income tax purposes to the donor.
-
-1.25 A developing country relief fund is a fund established by an organisation solely for the purpose of providing relief to people of a developing country. The organisation must be an approved organisation as declared by the Minister for Foreign Affairs and the country must be a developing country as declared by the Minister for Foreign Affairs. These conditions are contained in paragraphs 30-85(2)(a) and (b) of the ITAA 1997 respectively.
-
-1.26 A public disaster relief fund is a fund established and operated by a public benevolent institution in response to an event recognised as a disaster by the Minister for Foreign Affairs. The recognition requirement is contained in section 30-86 of the ITAA 1997.
-
-1.27 Paragraph 23AG(1AA)(b) ensures that employees of recognised organisations that
- undertake aid or charitable activities,
- that do not form part of Australian ODA, are eligible for exemption on their relevant foreign employment income.
-
-Example 1.4
-
-Kate is a social worker employed by a charitable organisation that operates a fund approved as a developing country relief fund by the Treasurer.
-
-Kate is posted to Nigeria for 120 days to help provide relief to people in distress.
-
-Kate's foreign earnings are eligible for exemption pursuant to section 23AG, subject to the conditions contained in subsection 23AG(2).
-
-(Emphasis added.)
-
-This reveals that a continuous period of foreign service that is directly related to aid or charitable activities undertaken by the person's employer in operating the relevant public fund, will satisfy paragraph 23AG(1AA)(b) of the ITAA 1936.
+Subsection 23AG(1) of the ITAA 1936 provides that, where Australian resident individuals are engaged in foreign service for a continuous period of not less than 91 days, foreign earnings derived from this foreign service are exempt from Australian tax. New subsection 23AG(1AA) of the ITAA 1936, which took effect from 1 July 2009, now restricts the exemption to specific employment activities. It relevantly states: However, those foreign earnings are not exempt from tax under this section unless the continuous period of foreign service is directly attributable to any of the following: ... (b)the activities of the person's employer in operating a public fund covered by item 9.1.1 or 9.1.2 of the table in subsection 30-80(1) of the Income Tax Assessment Act 1997 (international affairs deductible gift recipients); Continuous foreign service directly attributable to certain activities The opening words of subsection 23AG(1AA) contain a requirement applicable to all the employment activities in that subsection. That is, they state that the relevant foreign service must be 'directly attributable to' any of the employment activities listed in the subsection. Section 23AG of the ITAA 1936 does not specify what this means. However, the Explanatory Memorandum (EM) which accompanied Tax Laws Amendment (2009 Budget Measures No. 1) Bill 2009 introducing subsection 23AG(1AA) of the ITAA 1936, provides guidance on this (see subparagraph 15AB(1)(b)(i) and paragraph 15AB(2)(e) of the Acts Interpretation Act 1901). The relevant paragraphs appear below: 1.35 Subsection 23AG(1AA) will apply where an individual undertakes a continuous period of foreign service of 91 days or more and the foreign service relates to more than one of the activities listed in paragraphs (a) to (e). Example 1.5 Lisa is an APS employee employed by AusAID. On 1 July 2009 Lisa is posted to Tonga for 45 days, as a project advisor on an Australian ODA project. At the end of the 45 day posting, Lisa resigns from AusAID and takes up a position as an aid worker in Tonga, employed by a prescribed charitable institution covered by paragraph 23AG(1AA)(c). Lisa remains in her new position for another 100 days. Lisa's continuous period of foreign service for the purpose of subsection 23AG(1AA) is 145 days and her foreign earnings are eligible for exemption pursuant to section 23AG, subject to the conditions contained in subsection 23AG(2). Example 1.6 As in the above example, Lisa resigns from AusAID at the end of her 45 day posting. However, rather than commencing work as an aid worker, Lisa takes up permanent employment with a bank in Tonga. Lisa's continuous period of foreign service in Tonga exceeds 91 days but none of her foreign earnings are eligible for exemption because she did not attain 91 days of continuous foreign service in relation to an activity covered by subsection 23AG(1AA). (Emphasis added.) The words 'attributable to' have commonly been interpreted to require a causal connection (see Federal Commissioner of Taxation v. Sun Alliance Investments Pty Ltd (in Liquidation) (2005) 225 CLR 488 at 514-515; (2005) 60 ATR 560; 2005 ATC 4955). However, these paragraphs in the EM suggest they bear a different meaning in this context. Specifically, they suggest that the words 'attributable to' in the context of subsection 23AG(1AA) of the ITAA 1936 mean 'related to'. Accordingly, for paragraph 23AG(1AA)(b) of the ITAA 1936 to apply, an individual's foreign service must be directly (that is, in a direct manner) related to the activities of their employer in operating a public fund covered by item 9.1.1 or 9.1.2 of the table in subsection 30-80(1) of the ITAA 1997. Employer operating a public fund The following paragraphs in the EM provide guidance on the scope and meaning of paragraph 23AG(1AA)(b) of the ITAA 1936: 1.23 A person's foreign earnings will be eligible for exemption if they are directly attributable to their employer's activities in operating a public fund covered by item 9.1.1 or 9.1.2 of the table in subsection 30-80(1) of the ITAA 1997. [Schedule 1, item 1, paragraph 23AG(1AA)(b)] 1.24 Item 9.1.1 of subsection 30-80(1) of the ITAA 1997 applies to a public fund declared by the Treasurer to be a developing country relief fund. Item 9.1.2 of subsection 30-80(1) applies to a public fund operated by a public benevolent institution solely to provide relief to people of a developing country who are in distress as a result of a disaster (a public disaster relief fund). Gifts or donations made to these public funds are tax deductible for income tax purposes to the donor. 1.25 A developing country relief fund is a fund established by an organisation solely for the purpose of providing relief to people of a developing country. The organisation must be an approved organisation as declared by the Minister for Foreign Affairs and the country must be a developing country as declared by the Minister for Foreign Affairs. These conditions are contained in paragraphs 30-85(2)(a) and (b) of the ITAA 1997 respectively. 1.26 A public disaster relief fund is a fund established and operated by a public benevolent institution in response to an event recognised as a disaster by the Minister for Foreign Affairs. The recognition requirement is contained in section 30-86 of the ITAA 1997. 1.27 Paragraph 23AG(1AA)(b) ensures that employees of recognised organisations that undertake aid or charitable activities, that do not form part of Australian ODA, are eligible for exemption on their relevant foreign employment income. Example 1.4 Kate is a social worker employed by a charitable organisation that operates a fund approved as a developing country relief fund by the Treasurer. Kate is posted to Nigeria for 120 days to help provide relief to people in distress. Kate's foreign earnings are eligible for exemption pursuant to section 23AG, subject to the conditions contained in subsection 23AG(2). (Emphasis added.) This reveals that a continuous period of foreign service that is directly related to aid or charitable activities undertaken by the person's employer in operating the relevant public fund, will satisfy paragraph 23AG(1AA)(b) of the ITAA 1936.
 As the employer is a charitable organisation operating a developing country relief fund covered by item 9.1.1 of the table in subsection 30-80(1) the ITAA 1997, the employees will satisfy paragraph 23AG(1AA)(b) of the ITAA 1936 provided their foreign service is directly related to aid or charitable activities undertaken by their employer in operating the developing country relief fund.
-Date of decision:
-  20 April 2010
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 23AG   subsection 23AG(1)   subsection 23AG(1AA)   paragraph 23AG(1AA)(b)
-Income Tax Assessment Act 1997   subsection 30-80(1)
-Acts Interpretation Act 1901   subparagraph 15AB(1)(b)(i)   paragraph 15AB(2)(e)
-
-Case References:
-
-Federal Commissioner of Taxation v Sun Alliance Investments Pty Ltd (in Liquidation)   (2005) 225 CLR 488   (2005) 60 ATR 560   2005 ATC 4955
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (2009 Budget Measures No. 1) Bill 2009
-
-Keywords
-
-Exempt income
- Foreign income
- Income
- International tax
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  14 May 2010
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 April 2010
-Original statement
-
-You are here
+Date of decision: 20 April 2010 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 section 23AG subsection 23AG(1) subsection 23AG(1AA) paragraph 23AG(1AA)(b)
+Income Tax Assessment Act 1997 subsection 30-80(1)
+Acts Interpretation Act 1901 subparagraph 15AB(1)(b)(i) paragraph 15AB(2)(e) Case References: Federal Commissioner of Taxation v Sun Alliance Investments Pty Ltd (in Liquidation) (2005) 225 CLR 488 (2005) 60 ATR 560 2005 ATC 4955 Other References: Explanatory Memorandum to the Tax Laws Amendment (2009 Budget Measures No. 1) Bill 2009 Keywords Exempt income Foreign income Income International tax Business Line: Small Business/Individual Taxpayers Date of publication: 14 May 2010 ISSN: 1445-2782 history Date: Version: 20 April 2010
+Original statement You are here
 11 April 2017
 Archived

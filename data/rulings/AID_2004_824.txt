@@ -1,27 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2004/824
-==================================================
-
-Goods and Services Tax
- GST and supply of goods by a non-resident supplier to a resident distributor where the non-resident supplier is responsible for the installation of goods when the resident distributor on-sells the goods to an end-user
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is the entity, a non-resident, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when:
-
-•the entity supplies goods, inclusive of installation services, to a resident distributor
+================================================== Goods and Services Tax GST and supply of goods by a non-resident supplier to a resident distributor where the non-resident supplier is responsible for the installation of goods when the resident distributor on-sells the goods to an end-user FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is the entity, a non-resident, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when: •the entity supplies goods, inclusive of installation services, to a resident distributor
 •the resident distributor imports and on-sells the goods to an end-user, and
-•the entity's Australian branch installs the goods for the third party?
-
-Decision
+•the entity's Australian branch installs the goods for the third party? Decision
 Yes, the entity is making a taxable supply under section 9-5 of the GST Act as the supply of goods and installation services is connected with Australia.
 Facts
 The entity is a non-resident that is registered for goods and services tax (GST).
@@ -30,67 +13,15 @@ The distributor on-sells the goods to end-users in Australia however, the entity
 There is no agency relation between the distributor and the entity. The entity's branch is not registered as a GST branch under Division 54 of the GST Act. There is no separate agreement executed directly between the non-resident supplier and the end-user.
 The entity's supply of goods is not a GST-free supply or an input taxed supply.
 Reasons for Decision
-Under section 9-5 of the GST Act, an entity makes a taxable supply if:
-
-•it makes the supply for consideration
+Under section 9-5 of the GST Act, an entity makes a taxable supply if: •it makes the supply for consideration
 •it makes the supply in the course or furtherance of an enterprise that it carries on
 •the supply is connected with Australia, and
-•it is registered, or required to be registered for GST.
-
-However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
+•it is registered, or required to be registered for GST. However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
 The entity supplies goods to its Australian distributor for consideration. The supply is in the course of an enterprise that it carries on and it is registered for GST. Furthermore, the supply is not GST-free or input taxed. Therefore, if the entity's supply is connected with Australia, it will be a taxable supply under section 9-5 of the GST Act.
 Section 9-25 of the GST Act defines when a supply is 'connected with Australia' and makes a distinction between a supply of goods, a supply of real property and a supply of anything other than goods or real property.
 The entity is supplying goods, inclusive of installation services, to the distributor.
-Subsection 9-25(3) of the GST Act provides that a supply of goods that involves the goods being brought to Australia is connected with Australia if the supplier either:
-
-•imports the goods into Australia, or
-•installs or assembles the goods in Australia.
-
-Under the terms of the agreement, the entity ships the goods on a FOB basis and the distributor is named as the owner of the goods for Customs purposes and makes taxable importation of the goods. As such, it is the distributor and not the entity who imports the goods into Australia and paragraph 9-25(3)(a) of the GST Act does not apply.
+Subsection 9-25(3) of the GST Act provides that a supply of goods that involves the goods being brought to Australia is connected with Australia if the supplier either: •imports the goods into Australia, or
+•installs or assembles the goods in Australia. Under the terms of the agreement, the entity ships the goods on a FOB basis and the distributor is named as the owner of the goods for Customs purposes and makes taxable importation of the goods. As such, it is the distributor and not the entity who imports the goods into Australia and paragraph 9-25(3)(a) of the GST Act does not apply.
 Although the distributor subsequently supplies the goods to an end-user, it is the entity's Australian branch that actually installs the goods for the end-user. There is no additional consideration paid to the entity's branch, by either the resident distributor or the end-user for the installation of the goods as the cost of the installation is embedded in the price paid by the distributor to the entity for the goods.
 Notwithstanding that the goods are actually installed only when they are subsequently supplied by the distributor to the end-user, it is the entity, through its Australian branch, that installs the goods that it has supplied and which have been brought into Australia. As such, the supply of goods by the entity satisfies the requirement under paragraph 9-25(3)(b) of the GST Act and is connected with Australia.
-Therefore, the entity's supply is connected with Australia and the entity is making a taxable supply under 9-5 of the GST Act.
-
-Note 1. Under section 9-40 of the GST Act, the entity is liable to pay the GST payable on the consideration received from the distributor for the supply of goods inclusive of the installation services. As the supply to the distributor is taxable, the distributor may be entitled to an input tax credit in respect of the acquisition if it is a creditable under Division 11 of the GST Act.
-
-Note 2. Under section 13-15 of the GST Act, the distributor is liable to pay the GST payable on the taxable importation it makes. However, the distributor may be entitled to input tax credits on the taxable importation if it is creditable importation under Division 15 of the GST Act.
-
-Note 3. When the distributor on-sells the goods, inclusive of the installation services, the distributor will be making a taxable supply where all the requirements of section 9-5 of the GST Act are satisfied. If this is so, the distributor is liable to pay the GST payable on the consideration it receives from the end-user for the supply of goods inclusive of the installation services under section 9-40 of the GST Act.
-
-Date of decision:
-  21 June 2004
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 9-25   subsection 9-25(3)   paragraph 9-25(3)(a)   paragraph 9-25(3)(b)   paragraph 9-25(5)(a)   section 9-40   section 11-20   section 13-15   Division 15
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2000/31
-
-Keywords
-
-Goods and services tax
- GST imports
- Creditable importations
- Taxable importations
- GST imports and exports
- Input tax credits
- GST international services
- Connected with Australia
- GST supplies & acquisitions
- Creditable purpose
- GST supply
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  3983749
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  15 October 2004
-
-ISSN:
- 1445-2782
+Therefore, the entity's supply is connected with Australia and the entity is making a taxable supply under 9-5 of the GST Act. Note 1. Under section 9-40 of the GST Act, the entity is liable to pay the GST payable on the consideration received from the distributor for the supply of goods inclusive of the installation services. As the supply to the distributor is taxable, the distributor may be entitled to an input tax credit in respect of the acquisition if it is a creditable under Division 11 of the GST Act. Note 2. Under section 13-15 of the GST Act, the distributor is liable to pay the GST payable on the taxable importation it makes. However, the distributor may be entitled to input tax credits on the taxable importation if it is creditable importation under Division 15 of the GST Act. Note 3. When the distributor on-sells the goods, inclusive of the installation services, the distributor will be making a taxable supply where all the requirements of section 9-5 of the GST Act are satisfied. If this is so, the distributor is liable to pay the GST payable on the consideration it receives from the end-user for the supply of goods inclusive of the installation services under section 9-40 of the GST Act. Date of decision: 21 June 2004 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 9-25 subsection 9-25(3) paragraph 9-25(3)(a) paragraph 9-25(3)(b) paragraph 9-25(5)(a) section 9-40 section 11-20 section 13-15 Division 15 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2000/31 Keywords Goods and services tax GST imports Creditable importations Taxable importations GST imports and exports Input tax credits GST international services Connected with Australia GST supplies & acquisitions Creditable purpose GST supply Taxable supply Siebel/TDMS Reference Number: 3983749 Business Line: Indirect Tax Date of publication: 15 October 2004 ISSN: 1445-2782

@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/305
-==================================================
-
-Income tax
- Withholding tax: deduction from consideration paid for qualifying securities when first brought on shore
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Withholding tax: deduction from consideration paid for qualifying securities when first brought on shore FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When a qualifying security with no Australian connection is brought on shore, does section 128AA of the Income Tax Assessment Act 1936 (ITAA 1936) apply to deem the growth in value to be interest subject to withholding tax?
 Decision
 No. Section 128AA of the ITAA 1936 does not apply to deem the growth in value to be interest subject to withholding tax.
@@ -27,119 +14,21 @@ The OBU will continue trading activities, buying and selling bonds in the ordina
 Reasons for Decision
 The liability for interest withholding tax is determined by virtue of section 128B of the ITAA 1936.
 Subsection 128B(2) of the ITAA 1936 generally applies where there is a flow of interest from an Australian resident or non-resident Australian permanent establishment (PE) to a non-resident.
-Section 128AA of the ITAA 1936 deems the accrued interest or increase in value of the qualifying security incorporated into the purchase price of the transferee to be interest, as provided in subsection 128AA(1):
-
-128AA(1)
-
-Where:
-
-(a)a person transfers a qualifying security; and
-(b)the transfer price of the security exceeds the issue price or, where the security has been partially redeemed, the reduced issue price of the security,
-
-so much of the transfer price as equals the excess referred to in paragraph (b) shall, for the purposes of this Division, be deemed to be income that consists of interest.
-
-Section 128AA of the ITAA 1936, introduced in 1986 as an anti-avoidance measure, was designed to prevent non-residents disposing of Australian qualifying securities before their maturity date, so that the accrued interest was converted into a business profit, thus avoiding the deduction of interest withholding tax by the Australian resident (or non resident Australian PE) issuer.
-These changes to the withholding tax legislation were introduced into Parliament by Taxation Laws Amendment Bill (No 2) 1986 and Income Tax (Securities and Agreements) (Withholding Tax Recoupment) Bill 1986. The scope of section 128AA is addressed in the Explanatory Memorandum (EM) and the Second Reading Speech of the Bill on 4 June 1986 which states:
-
-Interest Withholding Tax
-
-I turn now to the proposal also announced by the Treasurer in December 1984 to
- strengthen the interest withholding tax provisions
- of the income tax law.
-
-In recent years, there has been a move away from the more conventional means by which overseas finance is provided.
-
-This has been with the aim of avoiding the non-resident lender's liability to Australian withholding tax.
-
-Some of the arrangements involve the use of discounted and other deferred interest securities, including capital-indexed securities of the kind I have just spoken about.
-
-A typical arrangement involves securities which, instead of being held by a non-resident until redemption - at which time withholding tax would apply to the payment of the discount or deferred interest - are sold to a resident just prior to maturity.
-
-This means that, while the resident purchaser is usually liable to tax on the excess of the redemption price over the purchase price, the balance of the discount, which effectively passes to the non-resident as part of the proceeds from the sale of the security, is not subject to withholding tax. Further, the arrangements are often structured so that the profit has an ex-Australian source.
-
-In these cases the profit derived by the non-resident cannot be taxed by assessment.
-
-The proposed amendments will overcome this avoidance technique
- by ensuring that the tax will apply to the difference between the sale price of the security and its issue price. [emphasis added]
-
-This transfer of bonds from the non-resident subsidiary of a foreign banking group to its Australian branch OBU[1] is not the kind of arrangement which the above amendment was designed to address. This is because the bonds in question have had no connection with Australia until they were transferred to the Australian branch in this transaction.
-The contemporary principle of statutory interpretation is that it is necessary to consider legislation in its context (per Brennan CJ, Dawson, Toohey and Gummow JJ in CIC Insurance v. Bankstown Football Club Ltd (1997) 187 CLR 384 at p408
-
-.....that the context be considered in the first instance, not merely at some later stage when ambiguity might be thought to arise, and (b) uses "context" in its widest sense to include such things as the existing state of the law and the mischief which, by legitimate means such as those just mentioned, one may discern the statute was intended to remedy (47). Instances of general words in a statute being so constrained by their context are numerous. In particular, as McHugh JA pointed out in Isherwood v. Butler Pollnow Pty Ltd (48), if the apparently plain words of a provision are read in the light of the mischief which the statute was designed to overcome and of the objects of the legislation, they may wear a very different appearance. Further, inconvenience or improbability of result may assist the court in preferring to the literal meaning an alternative construction which, by the steps identified above, is reasonably open and more closely conforms to the legislative intent (49).
-
-Section 128AA of the ITAA 1936 is an anti-avoidance measure and therefore should be interpreted with reference to the broader legislative scheme and the mischief it was intended to overcome (see also Chief Executive Officer of Customs v. Adelaide Brighton Cement Ltd (2004) 139 FCR 147; [2004] FCAFC 183; (2004) 56 ATR 267).
+Section 128AA of the ITAA 1936 deems the accrued interest or increase in value of the qualifying security incorporated into the purchase price of the transferee to be interest, as provided in subsection 128AA(1): 128AA(1) Where: (a)a person transfers a qualifying security; and
+(b)the transfer price of the security exceeds the issue price or, where the security has been partially redeemed, the reduced issue price of the security, so much of the transfer price as equals the excess referred to in paragraph (b) shall, for the purposes of this Division, be deemed to be income that consists of interest. Section 128AA of the ITAA 1936, introduced in 1986 as an anti-avoidance measure, was designed to prevent non-residents disposing of Australian qualifying securities before their maturity date, so that the accrued interest was converted into a business profit, thus avoiding the deduction of interest withholding tax by the Australian resident (or non resident Australian PE) issuer.
+These changes to the withholding tax legislation were introduced into Parliament by Taxation Laws Amendment Bill (No 2) 1986 and Income Tax (Securities and Agreements) (Withholding Tax Recoupment) Bill 1986. The scope of section 128AA is addressed in the Explanatory Memorandum (EM) and the Second Reading Speech of the Bill on 4 June 1986 which states: Interest Withholding Tax I turn now to the proposal also announced by the Treasurer in December 1984 to strengthen the interest withholding tax provisions of the income tax law. In recent years, there has been a move away from the more conventional means by which overseas finance is provided. This has been with the aim of avoiding the non-resident lender's liability to Australian withholding tax. Some of the arrangements involve the use of discounted and other deferred interest securities, including capital-indexed securities of the kind I have just spoken about. A typical arrangement involves securities which, instead of being held by a non-resident until redemption - at which time withholding tax would apply to the payment of the discount or deferred interest - are sold to a resident just prior to maturity. This means that, while the resident purchaser is usually liable to tax on the excess of the redemption price over the purchase price, the balance of the discount, which effectively passes to the non-resident as part of the proceeds from the sale of the security, is not subject to withholding tax. Further, the arrangements are often structured so that the profit has an ex-Australian source. In these cases the profit derived by the non-resident cannot be taxed by assessment. The proposed amendments will overcome this avoidance technique by ensuring that the tax will apply to the difference between the sale price of the security and its issue price. [emphasis added] This transfer of bonds from the non-resident subsidiary of a foreign banking group to its Australian branch OBU[1] is not the kind of arrangement which the above amendment was designed to address. This is because the bonds in question have had no connection with Australia until they were transferred to the Australian branch in this transaction.
+The contemporary principle of statutory interpretation is that it is necessary to consider legislation in its context (per Brennan CJ, Dawson, Toohey and Gummow JJ in CIC Insurance v. Bankstown Football Club Ltd (1997) 187 CLR 384 at p408 .....that the context be considered in the first instance, not merely at some later stage when ambiguity might be thought to arise, and (b) uses "context" in its widest sense to include such things as the existing state of the law and the mischief which, by legitimate means such as those just mentioned, one may discern the statute was intended to remedy (47). Instances of general words in a statute being so constrained by their context are numerous. In particular, as McHugh JA pointed out in Isherwood v. Butler Pollnow Pty Ltd (48), if the apparently plain words of a provision are read in the light of the mischief which the statute was designed to overcome and of the objects of the legislation, they may wear a very different appearance. Further, inconvenience or improbability of result may assist the court in preferring to the literal meaning an alternative construction which, by the steps identified above, is reasonably open and more closely conforms to the legislative intent (49). Section 128AA of the ITAA 1936 is an anti-avoidance measure and therefore should be interpreted with reference to the broader legislative scheme and the mischief it was intended to overcome (see also Chief Executive Officer of Customs v. Adelaide Brighton Cement Ltd (2004) 139 FCR 147; [2004] FCAFC 183; (2004) 56 ATR 267).
 Section 128AA of the ITAA 1936 is intended to ensure that a particular arrangement, or form of an arrangement does not escape withholding tax. In setting the context and ambit of the provision, both the EM and Second Reading Speech draw a comparison with the situation where the non-resident held the security until maturity. In this context, the section is directed towards preserving the proper operation of the interest withholding tax rules in the face of arrangements intended to take certain securities outside the Division before a liability is crystallised.
 In each arrangement it will be necessary to examine all the facts and circumstances to determine whether section 128AA of the ITAA 1936 appropriately applies, having regard to its purpose and object.
 The Commissioner is satisfied that section 128AA does not extend to the arrangement in question, as, unlike the arrangement described in the second reading speech (above) there is no transaction to which interest withholding tax should apply until the Australian branch acquires the bonds issued by the non-residents, which were held until then by non-residents. Therefore, it is only at the time when the securities are first brought on shore that any liability to tax arises. Any liability which does arise will relate only to income derived from that time.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-12 October 2021
+Comment 12 October 2021
 Reasons for Decision
-Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
-
- Date of effect 13 September 2021
-
-[1]
-The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year.
-
-Date of decision:
-  6 October 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 11A of Part III   section 128AA   section 128B   section 128GB   section 128F(1B)
-
-Case References:
-
-CIC Insurance v. Bankstown Football Club Ltd   (1997) 187 CLR 384
-
-Chief Executive Officer of Customs v. Adelaide Brighton Cement Ltd   (2004) 139 FCR 147   [2004] FCAFC 183   (2004) 56 ATR 267
-
-Other References:
-
-Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 2) of 1986 (Cth)
+Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs. Date of effect 13 September 2021 [1]
+The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year. Date of decision: 6 October 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 Division 11A of Part III section 128AA section 128B section 128GB section 128F(1B) Case References: CIC Insurance v. Bankstown Football Club Ltd (1997) 187 CLR 384 Chief Executive Officer of Customs v. Adelaide Brighton Cement Ltd (2004) 139 FCR 147 [2004] FCAFC 183 (2004) 56 ATR 267 Other References: Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 2) of 1986 (Cth)
 Explanatory Memorandum to the Income Tax (Securities and Agreements) (Withholding Tax Recoupment) Bill of 1986 (Cth)
-Explanatory Memorandum to Taxation Laws Amendment Act (No 1) 2003
-
-Keywords
-
-Non resident interest withholding tax
- Offshore banking activities
-
-Siebel/TDMS Reference Number:
-  4338664
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 November 2005
-
-Date reviewed:
-  12 October 2021
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 6 October 2005
-Original statement
-
-You are here
+Explanatory Memorandum to Taxation Laws Amendment Act (No 1) 2003 Keywords Non resident interest withholding tax Offshore banking activities Siebel/TDMS Reference Number: 4338664 Business Line: Public Groups and International Date of publication: 4 November 2005 Date reviewed: 12 October 2021 ISSN: 1445-2782 history Date: Version: 6 October 2005
+Original statement You are here
 12 October 2021
 Updated statement

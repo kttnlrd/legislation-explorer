@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/402
-==================================================
-
-Goods and Services Tax
- GST and supply of chattels included in the sale of residential premises
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and supply of chattels included in the sale of residential premises FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a property vendor, making a separate supply that is taxable under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it includes chattels in its input taxed supply of residential premises?
 Decision
 Yes, the entity is making a separate supply that is taxable under section 9-5 of the GST Act when it includes chattels in its input taxed supply of residential premises.
@@ -28,62 +15,14 @@ To determine the GST status of a supply, it is first necessary to establish what
 The entity is selling a residential premises including a number of chattels. Unlike fixtures that form part of the building they are affixed to, chattels are separate items to the building they are contained in and title to them does not automatically pass to a purchaser. Therefore, the entity's sale comprises two parts, the residential premises and the chattels.
 Goods and Services Tax Ruling GSTR 2001/8 provides that where a supply consists of more than one part, the supply could be either a mixed or a composite supply. Where a supply contains a dominant part and also something that is integral, ancillary or incidental to that part, the supply is composite. A composite supply is treated as a single supply and takes its GST status from the dominant component of the supply. Where the supply has separately identifiable parts, the supply is a mixed supply. The GST status of the component parts of a mixed supply are determined separately.
 The entity's sale comprises of residential premises and chattels. The supply of chattels is not integral, ancillary or incidental to the supply of residential premises. As such, the entity is making a mixed supply and the GST status of the supply of chattels is determined separately from the supply of the residential premises.
-Under section 9-5 of the GST Act, an entity makes a taxable supply if:
-
-• it makes a supply for consideration
+Under section 9-5 of the GST Act, an entity makes a taxable supply if: • it makes a supply for consideration
 • the supply is made in the course or furtherance of an enterprise that it carries on
 • the supply is connected with Australia, and
-• the entity is registered or required to be registered for GST.
-
-However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
+• the entity is registered or required to be registered for GST. However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
 The entity is registered for GST and the supply of the chattels satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act.
 However, subsection 9-30(4) of the GST Act provides that an entity's supply is input taxed if it is a supply of anything (other than new residential premises) that it has used solely in connection with its supplies that are input taxed but are not financial supplies.
 For the purposes of subsection 9-30(4) of the GST Act, the thing being supplied must be connected with previous supplies an entity made that were input taxed. For example, if chattels had been previously supplied to tenants who rented residential premises, an entity would have used the chattels in connection with supplies that were input taxed.
 The entity purchased chattels to furnish the renovated residential premises that it is selling. The entity has not used the chattels for any other purpose. Therefore, the chattels included in the sale of the renovated property have not been previously used by the entity in connection with the making of input taxed supplies. As such, the entity's supply of the chattels is not input taxed under subsection 9-30(4) of the GST Act.
-Therefore, the entity is making a separate supply that is taxable under section 9-5 of the GST Act when it includes chattels in its input taxed supply of residential premises.
-
-Note 1. The entity must apportion the consideration it receives for the mixed supply of chattels and residential premises as GST is payable on the taxable supply of the chattels.
-
-Subsection 9-80(2) of the GST Act provides that the value of the mixed supply that represents the taxable supply is calculated in accordance with the following formula:
-
-(Price of the supply * 10) / (10 + Taxable proportion)
-
-where: 'Taxable proportion' is the proportion of the value of the supply that represents the value of the taxable supply, as expressed as a number between '0' and '1'.
+Therefore, the entity is making a separate supply that is taxable under section 9-5 of the GST Act when it includes chattels in its input taxed supply of residential premises. Note 1. The entity must apportion the consideration it receives for the mixed supply of chattels and residential premises as GST is payable on the taxable supply of the chattels. Subsection 9-80(2) of the GST Act provides that the value of the mixed supply that represents the taxable supply is calculated in accordance with the following formula: (Price of the supply * 10) / (10 + Taxable proportion) where: 'Taxable proportion' is the proportion of the value of the supply that represents the value of the taxable supply, as expressed as a number between '0' and '1'.
 GSTR 2001/8 provides guidance on the apportionment of consideration for a supply that includes taxable and non-taxable parts.
-Date of decision:
-  30 April 2004
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 9-30(4)   subsection 9-80(2)   Division 38   Division 40   section 40-65
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2001/8
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/401
-
-Keywords
-
-Goods and services tax
- GST property & construction
- GST residential premises
- GST sale of real property
- GST supplies & acquisitions
- GST enterprise
- GST supply
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  4050792
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  7 May 2004
-
-ISSN:
- 1445-2782
+Date of decision: 30 April 2004 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 9-30(4) subsection 9-80(2) Division 38 Division 40 section 40-65 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2001/8 Related ATO Interpretative Decisions ATO ID 2004/401 Keywords Goods and services tax GST property & construction GST residential premises GST sale of real property GST supplies & acquisitions GST enterprise GST supply Taxable supply Siebel/TDMS Reference Number: 4050792 Business Line: Indirect Tax Date of publication: 7 May 2004 ISSN: 1445-2782

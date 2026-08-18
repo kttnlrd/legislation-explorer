@@ -1,59 +1,18 @@
 ATO Interpretative Decision
 ATO ID 2003/666
-==================================================
-
-Income Tax
- Meaning of 'equity interest' in paragraph 974-30(1)(b) of the ITAA 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Meaning of 'equity interest' in paragraph 974-30(1)(b) of the ITAA 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the term 'equity interest' in paragraph 974-30(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) have its general legal meaning or the meaning given to the term in Subdivision 974-C of the ITAA 1997?
 Decision
 The meaning of the term 'equity interest' in paragraph 974-30(1)(b) of the ITAA 1997 is the meaning given to the term in Subdivision 974-C.
 Facts
 A company issues redeemable preference shares to a connected entity in exchange for an amount of cash. The redeemable preference shares have a term of five years and redemption for that same amount of cash is contingent only on Corporations Act 2001 requirements of the redemption being out of a fresh issue of shares or profits.
 Reasons for Decision
-Subdivision 2-C of the ITAA 97 explains how to identify defined terms and how to find the associated definitions. Section 2-10 of the ITAA 1997 provides:
-
-(1) Many of the terms used in income tax law are defined.
-(2) Most defined terms in this Act are identified by an asterisk appearing at the start of the term...
-
-However, not all defined terms are identified in this way. Section 15 of Subdivision 2-C of the ITAA 1997 outlines in what circumstances terms are not identified by an asterisk. Subsection 2-15(1) states: 'Once a defined term has been identified by an asterisk, later occurrences of the term in the same subsection are not usually asterisked.'
+Subdivision 2-C of the ITAA 97 explains how to identify defined terms and how to find the associated definitions. Section 2-10 of the ITAA 1997 provides: (1) Many of the terms used in income tax law are defined.
+(2) Most defined terms in this Act are identified by an asterisk appearing at the start of the term... However, not all defined terms are identified in this way. Section 15 of Subdivision 2-C of the ITAA 1997 outlines in what circumstances terms are not identified by an asterisk. Subsection 2-15(1) states: 'Once a defined term has been identified by an asterisk, later occurrences of the term in the same subsection are not usually asterisked.'
 This raises the question as to whether the context in which the term 'equity interest' is used in subsection 974-30(1)(b) of the ITAA 1997 leads to the conclusion that the term should not have the meaning it would bear were it to be asterisked, that is, the meaning given to it in Subdivision 974-C of the ITAA 1997.
 An examination of that context clearly indicates that the term 'equity interest' ought to bear the meaning given to it in Subdivision 974-C of the ITAA 1997.
 It is clear that 974-30(1)(b) of the ITAA 1997 is intended to operate with 974-30(1)(a) to ensure that, broadly, neither the issue of, nor an amount to be applied in respect of the issue of, a Subdivision 974-C 'equity interest' can be a 'financial benefit' for, inter alia, the purposes of the debt test. Subsection 974-30(1)(b) was enacted to prevent the policy expressed in subsection 974-30(1)(a) being circumvented by an amount being applied in respect of the issue of a Subdivision 974-C 'equity interest', rather than a Subdivision 974-C 'equity interest' being directly issued.
 Subsection 974-10(2) of the ITAA 1997 states that '[a]nother object of the Division is that the test referred to in subsection (1) is to operate on the basis of the economic substance of the rights and obligations arising under the *scheme or schemes rather than merely on the basis of the legal form of the scheme or schemes.'
 Therefore, the meaning of the term 'equity interest' in paragraph 974-30(1)(b) of the ITAA 1997 is the meaning given to the term in Subdivision 974-C of the ITAA 1997.
-Date of decision:
-  24 June 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 2-10   subsection 2-15(1)   Division 974   subsection 974-10(2)   paragraph 974-30(1)(a)   paragraph 974-30(1)(b)
-
-Keywords
-
-Equity test
- Debt equity borderline
- Redeemable preference shares
-
-Siebel/TDMS Reference Number:
-  3575600
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  1 August 2003
-
-ISSN:
- 1445-2782
+Date of decision: 24 June 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 2-10 subsection 2-15(1) Division 974 subsection 974-10(2) paragraph 974-30(1)(a) paragraph 974-30(1)(b) Keywords Equity test Debt equity borderline Redeemable preference shares Siebel/TDMS Reference Number: 3575600 Business Line: Finance and Investment Centre of Expertise Date of publication: 1 August 2003 ISSN: 1445-2782

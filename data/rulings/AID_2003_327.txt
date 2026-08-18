@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/327
-==================================================
-
-Income Tax
- Convertible Notes and the debt/equity borderline
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Convertible Notes and the debt/equity borderline FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In the absence of subsection 974-15(2) of the Income Tax Assessment Act 1997 (ITAA 1997) applying, will a convertible debenture that pays interest at the discretion of the issuer and which may convert into an equity interest but has no effectively non-contingent obligations to provide a financial benefit to the holder, or a connected entity of the holder, be characterised as an equity interest under section 974-70 of the ITAA 1997?
 Decision
 Yes. In the absence of subsection 974-15(2) of the ITAA 1997 applying, a convertible debenture that pays interest at the discretion of the issuer and which may convert into an equity interest but has no effectively non-contingent obligations to provide a financial benefit to the holder, or a connected entity of the holder, will be characterised as an equity interest under section 974-70 of the ITAA 1997.
@@ -31,31 +20,4 @@ a) interest will only be paid where a committee has declared interest be payable
 b) X Corporation does not have an effectively non-contingent obligation to redeem the convertible debenture. The obligation to redeem is contingent on the occurrence of an event, condition or situation;
 c) the only obligation on X Corporation upon the occurrence of a Conversion Event, is to convert the convertible debenture into a share. Subsection 974-30(1) of the ITAA 1997 provides that the issue of an equity interest in the entity or a connected entity of the entity, or an amount that is to be applied in respect the issue of an equity interest in the entity or a connected entity of the entity, does not constitute the provision of a financial benefit; and
 d) the pricing terms and conditions of the share to which the convertible debenture will or may convert are not such that the payment of interest on the convertible debenture would become in substance an effectively non-contingent obligation.
-Date of decision:
-  30 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 974-15(2)   subsection 974-30(1)   subsection 974-75(1)   section 995-1
-
-Keywords
-
-Convertible notes
- Debt equity borderline
- Debt test
- Effectively non-contingent obligation
-
-Siebel/TDMS Reference Number:
-  3550574
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  15 May 2003
-
-ISSN:
- 1445-2782
+Date of decision: 30 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 974-15(2) subsection 974-30(1) subsection 974-75(1) section 995-1 Keywords Convertible notes Debt equity borderline Debt test Effectively non-contingent obligation Siebel/TDMS Reference Number: 3550574 Business Line: Finance and Investment Centre of Expertise Date of publication: 15 May 2003 ISSN: 1445-2782

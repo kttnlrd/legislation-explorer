@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/290
-==================================================
-
-Goods and Services Tax
- GST and Tax Invoices
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and Tax Invoices FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a solicitor, required to issue a tax invoice under subsection 29-70(2) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) to an insurer, where the insurer requests a tax invoice in respect of legal services provided by the entity to an injured worker?
 Decision
 No, the entity is not required to issue a tax invoice under subsection 29-70(2) of the GST Act, to an insurer where the insurer requests a tax invoice in respect of legal services provided by the entity to an injured worker.
@@ -25,33 +14,4 @@ Reasons for Decision
 One of the requirements for a recipient of a supply to claim an input tax credit is that they must hold a tax invoice (subsection 29-10(3) of the GST Act). Under subsection 29-70(2) of the GST Act, the supplier of a taxable supply must give a tax invoice, for the supply, to the recipient of the supply, if requested by the recipient to do so.
 Therefore, in order to determine whether the entity is required to issue a tax invoice to the insurer, it is necessary to establish who is the recipient of the entity's services.
 Section 195-1 of the GST Act defines recipient, in relation to a supply, as the entity to which the supply was made.
-In this case, the entity is making a taxable supply of legal services to the injured worker. Therefore, although the employer's insurer is, in effect, paying the legal fees of the injured worker, the recipient of the supply is the injured worker. Therefore, as the insurer is not the recipient of the supply, the entity is not required to issue a tax invoice under subsection 29-70(2) of the GST Act, to the insurer.
-
-[Note 1: If the injured worker requested a tax invoice, the entity would be required to issue the injured worker with a tax invoice within 28 days of the request (subsection 29-70(2) of the GST Act).
-
-Note 2: The GST treatment of court ordered costs or costs negotiated in a settlement and input tax credits is discussed in paragraphs 145 to 148 of GSTR 2001/4. Refer to footnote 70 in GSTR 2001/4 for a discussion of Workers Compensation cases and input tax credits.]
-
-Date of decision:
-  30 July 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 29-10(3)   subsection 29-70(2)   section 195-1
-
-Keywords
-
-Goods and services tax
- GST invoices
- Tax invoices
-
-Siebel/TDMS Reference Number:
-  CW228911
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  8 September 2001
-
-ISSN:
- 1445-2782
+In this case, the entity is making a taxable supply of legal services to the injured worker. Therefore, although the employer's insurer is, in effect, paying the legal fees of the injured worker, the recipient of the supply is the injured worker. Therefore, as the insurer is not the recipient of the supply, the entity is not required to issue a tax invoice under subsection 29-70(2) of the GST Act, to the insurer. [Note 1: If the injured worker requested a tax invoice, the entity would be required to issue the injured worker with a tax invoice within 28 days of the request (subsection 29-70(2) of the GST Act). Note 2: The GST treatment of court ordered costs or costs negotiated in a settlement and input tax credits is discussed in paragraphs 145 to 148 of GSTR 2001/4. Refer to footnote 70 in GSTR 2001/4 for a discussion of Workers Compensation cases and input tax credits.] Date of decision: 30 July 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 29-10(3) subsection 29-70(2) section 195-1 Keywords Goods and services tax GST invoices Tax invoices Siebel/TDMS Reference Number: CW228911 Business Line: Indirect Tax Date of publication: 8 September 2001 ISSN: 1445-2782

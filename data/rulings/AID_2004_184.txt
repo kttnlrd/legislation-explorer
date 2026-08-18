@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/184
-==================================================
-
-Goods and Services Tax
- GST and attribution of input tax credit to the tax period in which the payment provided is the return of a 'core deposit'
- FOI status: may be released
-
-The ATO view for this issue is covered in Fact Sheet - GST and sale of reconditioned parts (NAT 13259).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and attribution of input tax credit to the tax period in which the payment provided is the return of a 'core deposit' FOI status: may be released The ATO view for this issue is covered in Fact Sheet - GST and sale of reconditioned parts (NAT 13259). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Under subsection 29-10(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), does the entity, a supplier of reconditioned motor vehicle parts, attribute the input tax credit for its acquisition of a used motor vehicle part to the tax period in which it purchases that part when the payment provided by the entity is the return of an amount called a 'core deposit'?
 Decision
 Yes, under section 29-10(1) of the GST Act, the entity attributes the input tax credit for its acquisition of a used motor vehicle part to the tax period in which it purchases that part and provides payment by returning an amount called a 'core deposit'.
@@ -26,55 +11,12 @@ The 'core deposit' is an amount that the entity agreed to repay the customer if 
 The customer supplied their used motor vehicle part to the entity. The customer's supply was a taxable supply under section 9-5 of the GST Act and occurred in a later tax period to the entity's original supply. The entity paid the customer the amount of the 'core deposit'. The amount of the 'core deposit' is less than $55. The customer does not issue a tax invoice.
 The entity is registered for goods and services tax (GST) and accounts for GST on a non-cash basis. The entity's acquisition of the used motor vehicle part was a creditable acquisition.
 Reasons for Decision
-Under subsection 29-10(1) of the GST Act, an entity that accounts for GST on a non-cash basis attributes an input tax credit for a creditable acquisition to:
-
-the tax period in which it provides any of the consideration for the acquisition; orif, before it provides any of the consideration, an invoice is issued relating to the acquisition - the tax period in which the invoice is issued.
-
-The entity pays the customer the amount of the 'core deposit' in the tax period in which it purchases the used motor vehicle part. Accordingly, under subsection 29-10(1) of the GST Act, the entity is entitled to attribute the input tax credit to the tax period it which it purchases the used motor vehicle part.
+Under subsection 29-10(1) of the GST Act, an entity that accounts for GST on a non-cash basis attributes an input tax credit for a creditable acquisition to: the tax period in which it provides any of the consideration for the acquisition; orif, before it provides any of the consideration, an invoice is issued relating to the acquisition - the tax period in which the invoice is issued. The entity pays the customer the amount of the 'core deposit' in the tax period in which it purchases the used motor vehicle part. Accordingly, under subsection 29-10(1) of the GST Act, the entity is entitled to attribute the input tax credit to the tax period it which it purchases the used motor vehicle part.
 Under subsection 29-10(3) of the GST Act, if an entity does not hold a tax invoice for an acquisition when it submits a GST return for that tax period, the input tax credit for that acquisition is not attributable to that tax period. However, under subsection 29-80(1) of the GST Act, a tax invoice is not required for a taxable supply the value of which does not exceed $50 (that is, the GST-inclusive price does not exceed $55).
 The amount of the 'core deposit' that the entity pays the customer for the used motor vehicle part represents the price for the motor vehicle part. This is less than $55. In accordance with subsection 29-80(1) of the GST Act, the entity does not require a tax invoice. As such, subsection 29-10(3) of the GST Act does not apply.
 Therefore, under subsection 29-10(1) of the GST Act, the entity attributes the input tax credit for its acquisition of a used motor vehicle part to the tax period in which it purchases the part and provides payment by returning an amount called a 'core deposit'.
 Note 1: If the value of the supply by the customer is more than $50 (that is the GST-inclusive price exceeds $55), the entity is required to hold a tax invoice when it submits a GST return for the tax period in which the input tax credit is attributable.
-Date of decision:
-  23 December 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act   section 9-5   subsection 29-10(1)   subsection 29-10(3)   subsection 29-80(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/180
-
-Keywords
-
-Goods and services tax
- GST tax periods
- Attribution rules
- Non cash basis
- GST input tax credits & creditable acquisitions
-
-Business Line:
-  GST
-
-Date of publication:
-  27 February 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 December 2002
-Original statement
-
-You are here
+Date of decision: 23 December 2002 Legislative References: A New Tax System (Goods and Services Tax) Act section 9-5 subsection 29-10(1) subsection 29-10(3) subsection 29-80(1) Related ATO Interpretative Decisions ATO ID 2004/180 Keywords Goods and services tax GST tax periods Attribution rules Non cash basis GST input tax credits & creditable acquisitions Business Line: GST Date of publication: 27 February 2004 ISSN: 1445-2782 history Date: Version: 23 December 2002
+Original statement You are here
 16 December 2005
 Archived

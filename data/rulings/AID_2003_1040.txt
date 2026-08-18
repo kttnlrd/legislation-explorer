@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1040
-==================================================
-
-Income Tax
- Debt/Equity: whether short term trade finance gives rise to debt interest under Division 974
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Debt/Equity: whether short term trade finance gives rise to debt interest under Division 974 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will trade finance borrowings under a short-term trade finance facility give rise to a debt interest in the taxpayer entity as defined in Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The trade finance borrowings under a short-term trade finance facility will give rise to a debt interest in the taxpayer entity under Division 974 of the ITAA 1997.
@@ -22,53 +11,13 @@ The short-term trade finance facility allows the taxpayer to direct the financie
 The trade finance facility between the taxpayer and the financier limits the term of the borrowing to no more than 180 days.
 Reasons for Decision
 Division 974 of the ITAA 1997 sets out the tests that determine whether an interest is characterised as debt or equity.
-Subsection 974-15(1) of the ITAA 1997 provides that a 'scheme' gives rise to a 'debt interest' if all the requirements of the debt test, as set out in subsection 974-20(1) of the ITAA 1997, are met. These requirements are:
-
-(a) the scheme is a financing arrangement for the entity, and
+Subsection 974-15(1) of the ITAA 1997 provides that a 'scheme' gives rise to a 'debt interest' if all the requirements of the debt test, as set out in subsection 974-20(1) of the ITAA 1997, are met. These requirements are: (a) the scheme is a financing arrangement for the entity, and
 (b) the entity, or a connected entity of the entity, receives, or will receive, a financial benefit or benefits under the scheme, and
 (c) the entity has an effectively non-contingent obligation under the scheme to provide a financial benefit or benefits to one or more entities after the time when the financial benefit referred to in paragraph (b) is received, and
 (d) it is substantially more likely than not that the value provided (worked out under subsection 974-20(2) of the ITAA 1997) will be at least equal to the value received (worked out under subsection 974-20(3) of the ITAA 1997), and
-(e) the value provided (worked out under subsection 970-20(2) of the ITAA 1997) and the value received (worked out under subsection 970-20(3) of the ITAA 1997) are not both nil.
-
-Under subsection 974-150(1) of the ITAA 1997, the term 'scheme' has the meaning given in subsection 995-1(1) of the ITAA 1997. Under subsection 995-1(1) of the ITAA 1997, the term scheme is defined to mean 'any arrangement, or any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise'. In the present case, the trade finance borrowings the taxpayer acquires under the trade finance facility would be a scheme pursuant to that definition.
-The trade finance borrowings are classified as a debt interest as those borrowings satisfy all the requirements of the debt test. That is:
-
-(a) The scheme is a financing arrangement for the taxpayer. A financing arrangement is a scheme entered into or undertaken to raise finance for the entity (paragraph 974-130(1)(a) of the ITAA 1997). The arrangement is entered into to raise finance for the taxpayer through the issue of the letters of credit by its banker for its benefit and the ability to draw down trade finance borrowings.
+(e) the value provided (worked out under subsection 970-20(2) of the ITAA 1997) and the value received (worked out under subsection 970-20(3) of the ITAA 1997) are not both nil. Under subsection 974-150(1) of the ITAA 1997, the term 'scheme' has the meaning given in subsection 995-1(1) of the ITAA 1997. Under subsection 995-1(1) of the ITAA 1997, the term scheme is defined to mean 'any arrangement, or any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise'. In the present case, the trade finance borrowings the taxpayer acquires under the trade finance facility would be a scheme pursuant to that definition.
+The trade finance borrowings are classified as a debt interest as those borrowings satisfy all the requirements of the debt test. That is: (a) The scheme is a financing arrangement for the taxpayer. A financing arrangement is a scheme entered into or undertaken to raise finance for the entity (paragraph 974-130(1)(a) of the ITAA 1997). The arrangement is entered into to raise finance for the taxpayer through the issue of the letters of credit by its banker for its benefit and the ability to draw down trade finance borrowings.
 (b) The taxpayer receives a financial benefit under the scheme. Financial benefit means anything of economic value, including property and services (in subsection 974-160(1) of the ITAA 1997). A financial benefit will exist even though under the transaction that confers the benefit on an entity, might also place that entity under an obligation. In applying the definition of a 'financial benefit', the benefits and obligations under a transaction are analysed separately (subsection 974-160(2) of the ITAA 1997). Each time the taxpayer acquires trade finance borrowings (obtains a letter of credit) under the trade finance facility, the taxpayer receives a financial benefit in the form of the amount of money its banker pays to the supplier in respect of the goods that the taxpayer has purchased from the supplier. The taxpayer is taken to have received a financial benefit because the money has been provided by its banker on its behalf (paragraphs 974-30(2)(a) or 974-30(2)(b) of the ITAA 1997).
 (c) The taxpayer has an effectively non-contingent obligation to provide a financial benefit (section 974-135 of the ITAA 1997). In particular, an obligation is non-contingent if it is not contingent on any event, condition or situation (including the economic performance of the entity), other than the ability or willingness of the entity to meet that obligation (subsection 974-135(3) of the ITAA 1997). Each time the taxpayer draws down trade finance borrowings, having regard to the pricing, terms and conditions of the scheme, in substance or effect, the taxpayer has an obligation to repay any advances, interest and fees to the banker within 180 days of the funds being advanced. The taxpayer is required to make payment to the banker within this period. Therefore, this obligation is not contingent on any event condition, or situation, other than the ability or willingness of the taxpayer to meet that obligation.
 (d) It is substantially more likely than not that the financial benefit to be provided will at least equal the value of the financial benefit received by the taxpayer. Only those financial benefits that the issuer has an effectively non-contingent obligation to provide are required to be taken into account under the debt test (subsection 974-20(4) of the ITAA 1997). Under the terms and conditions of a trade finance facility, the trade finance borrowings cannot be re-financed for a term greater than 180 days. As a result, nominal values are required to be used in determining the value of the financial benefits provided and received in respect of the borrowings (subparagraph 974-35(1)(a)(i) of the ITAA 1997). The total nominal value of the financial benefits to be provided by the taxpayer (being the interest, fees and principal payment on the borrowing) will exceed the value of the financial benefits received in respect of the trade finance borrowings.
-(e) Both the value of the benefit provided and received are both not nil.
-
-Date of decision:
-  20 October 2003
-
-Year of income:
-  Year ended 31 December 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 974-15   section 974-20   section 974-30   section 974-35   section 974-130   section 974-135   section 974-150   section 974-160   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/1041
- ATO ID 2003/1042
-
-Keywords
-
-Debt equity borderline
- Debt test
- Financing arrangement
- Short term schemes
-
-Siebel/TDMS Reference Number:
-  3718376
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  21 November 2003
-
-ISSN:
- 1445-2782
+(e) Both the value of the benefit provided and received are both not nil. Date of decision: 20 October 2003 Year of income: Year ended 31 December 2002 Legislative References: Income Tax Assessment Act 1997 section 974-15 section 974-20 section 974-30 section 974-35 section 974-130 section 974-135 section 974-150 section 974-160 subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2003/1041 ATO ID 2003/1042 Keywords Debt equity borderline Debt test Financing arrangement Short term schemes Siebel/TDMS Reference Number: 3718376 Business Line: Finance and Investment Centre of Expertise Date of publication: 21 November 2003 ISSN: 1445-2782

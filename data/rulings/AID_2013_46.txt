@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/46
-==================================================
-
-Income Tax
- Consolidation: residual tax cost setting rules: pre rules: deductibility under section 8-1 of the ITAA 1997 of the tax cost setting amount of a commodity swap contract in the joining time income year
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: residual tax cost setting rules: pre rules: deductibility under section 8-1 of the ITAA 1997 of the tax cost setting amount of a commodity swap contract in the joining time income year CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the head company of a consolidated group claim a deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for the tax cost setting amount of a commodity swap contract held by a joining entity in the joining income year if the pre rules version of subsection 701-55(6) of the ITAA 1997 applies in the circumstances described below?
 Decision
 No, the head company of a consolidated group cannot claim a deduction under section 8-1 of the ITAA 1997 for the tax cost setting amount of a commodity swap contract held by a joining entity in the joining income year when the pre rules version of subsection 701-55(6) of the ITAA 1997 applies. Subsection 701-55(6) of the pre rules does not deem a loss or outgoing equal to the tax cost setting amount to have been incurred at the joining time. Therefore the requirements for deductibility under section 8-1 of the ITAA 1997 are not satisfied at that time. Furthermore, the 'cost' of the commodity swap contract is not the subject of a deduction under section 8-1 of the ITAA 1997.
@@ -27,59 +17,13 @@ An amount will be deductible under section 8-1 if it is a loss or outgoing incur
 In Federal Commissioner of Taxation v. Visy Industries USA Pty Ltd (2012) 205 FCR 317; [2012] FCAFC 106; 2012 ATC 20-340 (Visy), the Full Federal Court considered whether an amount expended in entering into or acquiring a hedge contract would be deductible under section 8-1. The Court found that where an amount of expenditure was made to enter into an indemnity, which hedged against potential losses on another profit-making transaction, then that amount would be deductible under section 8-1, on the basis that the hedge was entered into in the course of carrying on the taxpayer's business (albeit not in the ordinary course of that business) (at [52], [60] and [75]).
 The Court also found that where such an amount satisfies the requirements of section 8-1, the amount will be deductible in the year it is incurred, regardless of whether it is part of a wider profit-making transaction.
 When the entity joined the consolidated group, Part 3-90 operated to deem certain facts in relation to the swap contract.
-For the purpose of working out the head company's income tax liability:
-
-•the single entity rule (section 701-1) applies to deem the entity to be part of the head company, rather than a separate entity; and
-•the entry history rule (section 701-5) applies to deem everything that happened in relation to the entity to have happened in relation to the head company.
-
-In addition, the tax cost of the swap contract is set at its tax cost setting amount under section 701-10.
+For the purpose of working out the head company's income tax liability: •the single entity rule (section 701-1) applies to deem the entity to be part of the head company, rather than a separate entity; and
+•the entry history rule (section 701-5) applies to deem everything that happened in relation to the entity to have happened in relation to the head company. In addition, the tax cost of the swap contract is set at its tax cost setting amount under section 701-10.
 Under the entry history rule, the swap contract is taken to have been entered into and held by the head company under the same circumstances as it was entered into and held by the entity before the joining time. Consequently, the head company is taken to have entered into the swap contract in the ordinary course of its business, for the purpose of hedging the financial risks of movements in the spot price of a commodity associated with its business.
 In accordance with Visy, if any amount can be said to have been incurred by the head company in entering into or acquiring the swap contract, it would be deductible under section 8-1 at that time.
 If section 8-1 was to apply in relation to the swap contract, subsection 701-55(6) would operate to deem each swap contract's 'cost' to be equal to its tax cost setting amount. However, subsection 701-55(6) does not deem a loss or outgoing equal to the tax cost setting amount of the swap contract to have been incurred by the head company at the joining time nor, even if it did, does it deem the tax cost setting amount to have been incurred to acquire the swap contract. It is a principle of statutory interpretation that deeming provisions must be construed strictly and only for the purpose for which they are resorted to (Federal Commissioner of Taxation v. Comber (1986) 10 FCR 88 at 96). It is not a necessary implication of deeming an asset to have a 'cost' at the joining time equal to the asset's tax cost setting amount that there has been a loss or outgoing incurred at the joining time equal to that amount or that the amount was incurred to acquire the asset.
 Furthermore, subsection 701-55(6) only operates where another provision is to apply in relation to the asset, that is, will apply independently of subsection 701-55(6), and then it operates to substitute the tax cost setting amount for the cost of the asset. If the cost of the asset is not material to the operation of the relevant provision, subsection 701-55(6) has no effect.
 In this case, section 8-1 has no application to the asset as such; would not apply apart from subsection 701-55(6); and insofar as it can be said to apply at all, applies to losses and outgoings incurred under the swap contract and not its cost. Therefore, section 8-1 cannot be said to apply to the swap contract, and subsection 701-55(6) does not operate.
 Consequently, section 8-1 does not allow a deduction for the tax cost setting amount of the swap contract in the income year that the entity joined the consolidated group.
-Date of decision:
-  12 August 2013
-
-Year of income:
-  Year ending 30 June 2007 Year ending 30 June 2008 Year ending 30 June 2009 Year ending 30 June 2010 Year ending 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1   section 701-1   section 701-5   section 701-10   subsection 701-55(6)
-
-Case References:
-
-Federal Commissioner of Taxation v. Comber   (1986) 64 ALR 451   (1986) 10 FCR 88   (1986) 17 ATR 413   86 ATC 4171
-
-Federal Commissioner of Taxation v. Visy Industries USA Pty Ltd   [2012] FCAFC 106   2012 ATC 20-340
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2050
-Taxation Ruling IT 2682
-
-Related ATO Interpretative Decisions
-
- ATO ID 2013/47
-
-Keywords
-
-assets
- consolidation-joining
- financial derivatives
- swaps
- tax cost set amount
-
-Siebel/TDMS Reference Number:
-  1-4K38TT4
-
-Business Line:
-  Interpretative Assistance, Public Groups and International
-
-Date of publication:
-  6 September 2013
-
-ISSN:
- 1445 2782
+Date of decision: 12 August 2013 Year of income: Year ending 30 June 2007 Year ending 30 June 2008 Year ending 30 June 2009 Year ending 30 June 2010 Year ending 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 8-1 section 701-1 section 701-5 section 701-10 subsection 701-55(6) Case References: Federal Commissioner of Taxation v. Comber (1986) 64 ALR 451 (1986) 10 FCR 88 (1986) 17 ATR 413 86 ATC 4171 Federal Commissioner of Taxation v. Visy Industries USA Pty Ltd [2012] FCAFC 106 2012 ATC 20-340 Related Public Rulings (including Determinations) Taxation Ruling IT 2050
+Taxation Ruling IT 2682 Related ATO Interpretative Decisions ATO ID 2013/47 Keywords assets consolidation-joining financial derivatives swaps tax cost set amount Siebel/TDMS Reference Number: 1-4K38TT4 Business Line: Interpretative Assistance, Public Groups and International Date of publication: 6 September 2013 ISSN: 1445 2782

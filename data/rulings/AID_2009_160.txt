@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/160
-==================================================
-
-Income Tax
- Consolidation: tax cost setting rules - acquisition of a consolidated group
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: tax cost setting rules - acquisition of a consolidated group FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does Subdivision 705-C of the Income Tax Assessment Act 1997 (ITAA 1997) apply where a single entity, that is not a member of a consolidated group, acquires all the membership interests in the head company of a consolidated group and immediately makes a choice to form a consolidated group?
 Decision
 No. Subdivision 705-C of the ITAA 1997 does not apply where a single entity, that is not a member of a consolidated group, acquires all the membership interests in the head company of a consolidated group and immediately makes a choice to form a consolidated group.
@@ -23,57 +12,10 @@ X Co chooses, under section 703-50 of the ITAA 1997, to form, with immediate eff
 Reasons for Decision
 Division 705 of the ITAA 1997 sets out the tax cost setting rules for the assets of an entity that becomes a subsidiary member of a consolidated group. Subdivision 705-C of the ITAA 1997 contains specific rules for when an existing consolidated group is acquired by another consolidated group.
 Subdivision 705-C of the ITAA 1997 modifies Division 701 of the ITAA 1997 (the core rules) and Subdivision 705-A of the ITAA 1997 (tax cost setting amount where a single entity joins a consolidated group) so that the tax cost setting amount for assets of an acquired consolidated group that become those of an acquiring consolidated group reflects the cost to the latter group of acquiring the former.
-Subsection 705-175(1) of the ITAA 1997 sets out the circumstances in which Subdivision 705-C of the ITAA 1997 applies:
-
-This Subdivision applies if all of the *members of a *consolidated group (the
- acquired group
-) become members of another consolidated group (the
- acquiring group
-) at a particular time (the
- acquisition time
-) as a result of the *acquisition of *membership interests in the *head company of the acquired group..
-
-Subsection 705-175(1) of the ITAA 1997 applies only where an existing consolidated group acquires all the membership interests in the acquired group. The words 'become members of
- another
- consolidated group' (emphasis added) indicate that there must be an existing consolidated group as the acquiring entity. This view is supported by the Guide to Subdivision 705-C and the Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.1) 2002 (see paragraph 1.16).
+Subsection 705-175(1) of the ITAA 1997 sets out the circumstances in which Subdivision 705-C of the ITAA 1997 applies: This Subdivision applies if all of the *members of a *consolidated group (the acquired group
+) become members of another consolidated group (the acquiring group
+) at a particular time (the acquisition time
+) as a result of the *acquisition of *membership interests in the *head company of the acquired group.. Subsection 705-175(1) of the ITAA 1997 applies only where an existing consolidated group acquires all the membership interests in the acquired group. The words 'become members of another consolidated group' (emphasis added) indicate that there must be an existing consolidated group as the acquiring entity. This view is supported by the Guide to Subdivision 705-C and the Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.1) 2002 (see paragraph 1.16).
 Subsection 705-175(1) of the ITAA 1997 does not apply where the members of the acquired group become members of a consolidated group that forms because a choice is made to consolidate the consolidatable group arising from the acquisition of the acquired group. Although that choice may have effect from the date on which the acquired group is acquired, it is not sufficient to satisfy the requirements of subsection 705-175(1) of the ITAA 1997.
 X Co is not a member of a consolidated group at the time it acquires the membership interests in B Co, the head company of the acquired consolidated group. The consolidated group formed with X Co as the head company and all the former members of the B Co consolidated group as subsidiary members, only comes into existence when X Co makes a choice, under section 703-50 of the ITAA 1997, to consolidate the group. This choice may have effect from the date on which the B Co consolidated group is acquired, but it is not sufficient to satisfy the requirements of subsection 705-175(1) of the ITAA 1997.
-Accordingly, where a single entity, that is not a member of a consolidated group, acquires all the membership interests in a consolidated group and then makes the choice to form a consolidated group, the tax cost setting modifications in Subdivision 705-C of the ITAA 1997 will not apply.
-
-[Note: when B Co consolidated group is acquired by X Co, B Co consolidated group will deconsolidate and Division 711 of the ITAA 1997 will apply to set the tax cost of the membership interests in the subsidiary members of the B Co consolidated group; and Subdivision 705-B of the ITAA 1997 will apply on the formation of the X Co consolidated group]
-
-Date of decision:
-  16 December 2009
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 701   section 703-50   Division 705   Subdivision 705-A   Subdivision 705-B   Subdivision 705-C   subsection 705-175(1)   Division 711
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2006/74
-
-Keywords
-
-Consolidated group
- Head Company
- Tax cost setting rules
- Consolidation
- Consolidation - formation
- Consolidation - joining
- Subsidiary member of a consolidated group
-
-Siebel/TDMS Reference Number:
-  1-1RF51M4
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  18 December 2009
-
-ISSN:
- 1445-2782
+Accordingly, where a single entity, that is not a member of a consolidated group, acquires all the membership interests in a consolidated group and then makes the choice to form a consolidated group, the tax cost setting modifications in Subdivision 705-C of the ITAA 1997 will not apply. [Note: when B Co consolidated group is acquired by X Co, B Co consolidated group will deconsolidate and Division 711 of the ITAA 1997 will apply to set the tax cost of the membership interests in the subsidiary members of the B Co consolidated group; and Subdivision 705-B of the ITAA 1997 will apply on the formation of the X Co consolidated group] Date of decision: 16 December 2009 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 Division 701 section 703-50 Division 705 Subdivision 705-A Subdivision 705-B Subdivision 705-C subsection 705-175(1) Division 711 Related Public Rulings (including Determinations) Taxation Determination TD 2006/74 Keywords Consolidated group Head Company Tax cost setting rules Consolidation Consolidation - formation Consolidation - joining Subsidiary member of a consolidated group Siebel/TDMS Reference Number: 1-1RF51M4 Business Line: Consolidation Centre of Expertise Date of publication: 18 December 2009 ISSN: 1445-2782

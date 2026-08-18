@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2007/159
-==================================================
-
-Goods and Services Tax
- GST and cheques issued by a non-authorised deposit-taking institution
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and cheques issued by a non-authorised deposit-taking institution FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a GST registered entity, that is not an authorised deposit-taking institution (ADI), making an input taxed financial supply under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it issues a cheque to a client in exchange for the same amount of cash, together with a fee for doing so?
 Decision
 Yes, the entity is making an input taxed financial supply under subsection 40-5(1) of the GST Act when it issues a cheque to a client in exchange for the same amount of cash, together with a fee for doing so.
@@ -26,81 +11,22 @@ The entity is registered for goods and services tax (GST) and operates as a mone
 Cheques the entity issues to clients are drawn on a specific account in the entity's name and held with its bank.
 To acquire a cheque from the entity, a client provides a cash payment equal to the face value of the cheque the client requires. In addition, the client is required to pay the entity a fee.
 Reasons for Decision
-A cheque is a document that complies with the definition set out in section 10 of the Cheques Act 1986, as follows:
-
-1. A cheque is an unconditional order in writing that:
-
-(a)is addressed by a person to another person, being a financial institution; and
+A cheque is a document that complies with the definition set out in section 10 of the Cheques Act 1986, as follows: 1. A cheque is an unconditional order in writing that: (a)is addressed by a person to another person, being a financial institution; and
 (b)is signed by the person giving it; and
-(c)requires the financial institution to pay on demand a sum certain in money.
-
-2. An instrument that does not comply with subsection (1), or that orders any act to be done in addition to the payment of money, is not a cheque.
-
-A cheque is a negotiable instrument that is used or intended for use or circulation as money. Subsection 39(1) of the Cheques Act states that every cheque may be transferred by negotiation until it is discharged.
-A cheque is also a bill of exchange, as defined in subsection 8(1) of the Bills of Exchange Act 1909. This subsection states:
-
-A bill of exchange is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person, or to bearer.
-
-As a negotiable instrument or bill of exchange, a cheque falls within the definition of 'money' in section 195-1 of the GST Act. Under this definition, money includes:
-
-(a)currency (whether of Australia or any other country); and
+(c)requires the financial institution to pay on demand a sum certain in money. 2. An instrument that does not comply with subsection (1), or that orders any act to be done in addition to the payment of money, is not a cheque. A cheque is a negotiable instrument that is used or intended for use or circulation as money. Subsection 39(1) of the Cheques Act states that every cheque may be transferred by negotiation until it is discharged.
+A cheque is also a bill of exchange, as defined in subsection 8(1) of the Bills of Exchange Act 1909. This subsection states: A bill of exchange is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person, or to bearer. As a negotiable instrument or bill of exchange, a cheque falls within the definition of 'money' in section 195-1 of the GST Act. Under this definition, money includes: (a)currency (whether of Australia or any other country); and
 (b)promissory notes and bills of exchange; and
 (c)any negotiable instrument used or circulated, or intended for use or circulation, as currency (whether of Australia or of any other country); and
-(d)postal notes and money orders; and......
-
-In issuing a cheque in exchange for cash, the entity is providing money, in exchange for money in another form (cash) provided by the client, together with the fee to be paid by the client.
-Subsection 9-10(4) of the GST Act states:
-
-However, a supply does not include a supply of money unless the money is provided as consideration for a supply that is a supply of money.
-
-As each party to the transaction is supplying money to the other, and each supply of money is provided as consideration for the other supply of money, each supply is a 'supply' for GST purposes.
+(d)postal notes and money orders; and...... In issuing a cheque in exchange for cash, the entity is providing money, in exchange for money in another form (cash) provided by the client, together with the fee to be paid by the client.
+Subsection 9-10(4) of the GST Act states: However, a supply does not include a supply of money unless the money is provided as consideration for a supply that is a supply of money. As each party to the transaction is supplying money to the other, and each supply of money is provided as consideration for the other supply of money, each supply is a 'supply' for GST purposes.
 Subdivision 40-A of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) is about financial supplies. Central to the operation of this subdivision is the concept of 'an interest', which is defined in regulation 40-5.02 of the GST Regulations as 'anything that is recognised at law or in equity as property in any form'.
-Subregulation 40-5.09(1) of the GST Regulations states that the provision, acquisition or disposal of an interest mentioned in subrequlation 40-5.09(3) of the GST Regulations is a financial supply if:
-
-(a)the provision, acquisition or disposal is:
-
-i. for consideration; and
+Subregulation 40-5.09(1) of the GST Regulations states that the provision, acquisition or disposal of an interest mentioned in subrequlation 40-5.09(3) of the GST Regulations is a financial supply if: (a)the provision, acquisition or disposal is: i. for consideration; and
 ii. in the course or furtherance of an enterprise; and
-iii. connected with Australia; and
-
-(b)the supplier is:
-
-i. registered or required to be registered; and
-ii. a financial supply provider in relation to the supply of the interest.
-
-Subregulation 40-5.09(3) of the GST Regulations lists those interests, the provision, acquisition or disposal of which may be financial supplies. While 'money' is not separately listed here, cash (which includes Australian currency) falls under item 9 in the table in subregulation 40-5.09(3).
+iii. connected with Australia; and (b)the supplier is: i. registered or required to be registered; and
+ii. a financial supply provider in relation to the supply of the interest. Subregulation 40-5.09(3) of the GST Regulations lists those interests, the provision, acquisition or disposal of which may be financial supplies. While 'money' is not separately listed here, cash (which includes Australian currency) falls under item 9 in the table in subregulation 40-5.09(3).
 Item 10 in the table in subregulation 40-5.09(3) of the GST Regulations is about interests in securities. A non-exhaustive list of examples of item 10 interests is set out in Part 8 of Schedule 7 of the GST Regulations. This list includes promissory notes and bills of exchange. It follows that a cheque is a security for the purposes of item 10 in the table in subregulation 40-5.09(3).
 The provision of the cheque by the registered entity is a financial supply, as the requirements set out above are satisfied in relation to it. The provision of the cash equivalent of the cheque by the client, together with the fee paid, will be a financial supply by the client if the client is registered or required to be registered.
 Subsection 40-5(1) of the GST Act provides that a financial supply is input taxed.
-Date of decision:
-  26 September 2006
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 9-10(4)   subsection 40-5(1)   section 195-1
-A New Tax System (Goods and Services Tax) Regulations 1999   Subdivision 40-A   regulation 40-5.02   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 9   subregulation 40-5.09(3) table item 10   Schedule 7, Part 8
-Cheques Act 1986   section 10   subsection 39(1)
- Bills of Exchange Act 1909   subsection 8(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2007/146
-
-Keywords
-
-Cheques
- GST financial supplies
- GST money
- Input taxed supplies
-
-Siebel/TDMS Reference Number:
-  5431771
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  20 July 2007
-
-ISSN:
- 1445-2782
+Date of decision: 26 September 2006 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 9-10(4) subsection 40-5(1) section 195-1
+A New Tax System (Goods and Services Tax) Regulations 1999 Subdivision 40-A regulation 40-5.02 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 9 subregulation 40-5.09(3) table item 10 Schedule 7, Part 8
+Cheques Act 1986 section 10 subsection 39(1) Bills of Exchange Act 1909 subsection 8(1) Related ATO Interpretative Decisions ATO ID 2007/146 Keywords Cheques GST financial supplies GST money Input taxed supplies Siebel/TDMS Reference Number: 5431771 Business Line: Indirect Tax Date of publication: 20 July 2007 ISSN: 1445-2782

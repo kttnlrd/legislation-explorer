@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/100
-==================================================
-
-Income Tax
- Assessable Income: gain made from the buying of Notes at a discount
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessable Income: gain made from the buying of Notes at a discount FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the gain made by a financial institution from the buying back of its own Notes at a discount to their face value assessable income under subsection 6-5(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The gain made by a financial institution from the buying back of its own Notes at a discount to their face value is assessable income under subsection 6-5(1) of the ITAA 1997.
@@ -29,79 +18,13 @@ Reasons for Decision
 Subsection 6-5(1) of ITAA 1997 provides that a taxpayer's assessable income includes income according to ordinary concepts which is called ordinary income. Income from carrying on a business has generally been held as 'ordinary income'.
 For the purpose of determining whether the gain made on the Notes is of a revenue or capital nature, one has to 'make both a wide survey and an exact scrutiny of the taxpayer's activities' (Western Gold Mines No Liability v. Commissioner of Taxation (WA) (1937-1938) 59 CLR 729 at 740; 4 ATD 453 at 462).
 In the present case, the taxpayer is a financial institution that was in the business of borrowing funds from various sources, lending it to its clients and repaying the borrowed funds when required.
-In considering whether the transactions entered into by a finance company were a loss or outgoing of a revenue character, the majority of the High Court in Coles Myer Finance Limited v. Federal Commissioner of Taxation (1993) 176 CLR 640; [1993] HCA 29 (Coles Myer) referred to the decision in AVCO Financial Services Limited v. Federal Commissioner of Taxation (1982) 150 CLR 510; [1982] HCA 36 (AVCO) and made the following observation at CLR 663-664; HCA 29 at paragraph 32:
-
-... transactions by a finance company are properly to be regarded as transactions on capital account, the relevant gains and losses are nevertheless to be regarded as revenue gains and losses. That is because the gains and losses were incurred in the course of and as an incident of making repayments of the borrowed money with which the taxpayer carried on its business as a finance company. The losses or outgoings were incurred in the day-to-day conduct of the business and for the purpose of carrying it on as a going concern.
-
-Where a gain is made on the discharge of a borrowing and the purpose of the borrowing was to acquire an asset that is turned over in the ordinary course of business, as a trading company, that gain is assessable as ordinary income. (See for example; International Nickel Australia Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 347; 77 ATC 4383; (1977) 7 ATR 739, Thiess Toyota Pty Ltd v. FC of T (1978) [1978] 1 NSWLR 723; 78 ATC 4463; 9 ATR 11 and FC of T v. Cadbury-Fry Pascall (Australia) Ltd (1979) 37 FLR 126; 79 ATC 4346; (1979) 10 ATR 55). [0]However, in the present case, the gain was made by a financial institution, where its business includes making gains or incurring losses on repayment of its borrowings.
+In considering whether the transactions entered into by a finance company were a loss or outgoing of a revenue character, the majority of the High Court in Coles Myer Finance Limited v. Federal Commissioner of Taxation (1993) 176 CLR 640; [1993] HCA 29 (Coles Myer) referred to the decision in AVCO Financial Services Limited v. Federal Commissioner of Taxation (1982) 150 CLR 510; [1982] HCA 36 (AVCO) and made the following observation at CLR 663-664; HCA 29 at paragraph 32: ... transactions by a finance company are properly to be regarded as transactions on capital account, the relevant gains and losses are nevertheless to be regarded as revenue gains and losses. That is because the gains and losses were incurred in the course of and as an incident of making repayments of the borrowed money with which the taxpayer carried on its business as a finance company. The losses or outgoings were incurred in the day-to-day conduct of the business and for the purpose of carrying it on as a going concern. Where a gain is made on the discharge of a borrowing and the purpose of the borrowing was to acquire an asset that is turned over in the ordinary course of business, as a trading company, that gain is assessable as ordinary income. (See for example; International Nickel Australia Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 347; 77 ATC 4383; (1977) 7 ATR 739, Thiess Toyota Pty Ltd v. FC of T (1978) [1978] 1 NSWLR 723; 78 ATC 4463; 9 ATR 11 and FC of T v. Cadbury-Fry Pascall (Australia) Ltd (1979) 37 FLR 126; 79 ATC 4346; (1979) 10 ATR 55). [0]However, in the present case, the gain was made by a financial institution, where its business includes making gains or incurring losses on repayment of its borrowings.
 The decisions in AVCO and Coles Myer support the proposition that gains and losses made on the repayment of borrowings by finance companies are generally revenue in nature. The decisions in Federal Commissioner of Taxation v. Unilever Australia Securities Ltd (1995) 56 FCR 152; 95 ATC 4117; (1995) 30 ATR 134 and Federal Commissioner of Taxation v. Consolidated Press Holdings Limited (No 2) (1999) 91 FCR 574; [1999] FCA 1229; 99 ATC 4988 further support this view.
-However not all gains or losses made on the repayment of a borrowing by a financial institution will be revenue in nature. Mason, Aickin and Wilson JJ said in AVCO at CLR 532; HCA 36 at paragraph 46:
-
-A distinction is to be drawn between moneys borrowed by a finance company in the ordinary course of its business and moneys borrowed for some special purpose which excludes the use of the money in the ordinary course of the finance company's business, e.g. for on-lending or for the repayment of a loan the proceeds of which have been employed in the ordinary course of its business. CAGA was an instance of a borrowing for a special purpose, the company undertaking not to use the funds for on-lending and to employ them in such a way that they could be regarded as part of the permanent capital structure of the business.
-
-In Commercial and General Acceptance Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 373; 77 ATC 4375; (1977) 7 ATR 716 (CAGA), the court held that the gain due to exchange rate fluctuations on repayment of the borrowing by a finance company on a special loan with a foreign financial institution was of a capital nature, as it was not part of the process by which the company operated to obtain regular returns. The funds borrowed were used to strengthen the business entity structure. See also the decision in St George Bank Ltd v. Federal Commissioner of Taxation (2009) 176 FCR 424; [2009] FCAFC 62; 2009 ATC 20-103 (St George Bank) where interest expenses relating to debentures issued to meet certain capital adequacy requirements were found to be capital, as they were part of the overall transaction to achieve a structural advantage for St George.
+However not all gains or losses made on the repayment of a borrowing by a financial institution will be revenue in nature. Mason, Aickin and Wilson JJ said in AVCO at CLR 532; HCA 36 at paragraph 46: A distinction is to be drawn between moneys borrowed by a finance company in the ordinary course of its business and moneys borrowed for some special purpose which excludes the use of the money in the ordinary course of the finance company's business, e.g. for on-lending or for the repayment of a loan the proceeds of which have been employed in the ordinary course of its business. CAGA was an instance of a borrowing for a special purpose, the company undertaking not to use the funds for on-lending and to employ them in such a way that they could be regarded as part of the permanent capital structure of the business. In Commercial and General Acceptance Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 373; 77 ATC 4375; (1977) 7 ATR 716 (CAGA), the court held that the gain due to exchange rate fluctuations on repayment of the borrowing by a finance company on a special loan with a foreign financial institution was of a capital nature, as it was not part of the process by which the company operated to obtain regular returns. The funds borrowed were used to strengthen the business entity structure. See also the decision in St George Bank Ltd v. Federal Commissioner of Taxation (2009) 176 FCR 424; [2009] FCAFC 62; 2009 ATC 20-103 (St George Bank) where interest expenses relating to debentures issued to meet certain capital adequacy requirements were found to be capital, as they were part of the overall transaction to achieve a structural advantage for St George.
 In CAGA and St George Bank, the reasons for the borrowings and the usage of the funds were relevant considerations in reaching the decision that the gain or expenses relating to those borrowings were of a capital nature. In both cases, the funds were borrowed and used for the purpose of strengthening the business structure of the relevant entities.
 In the present case, the net proceeds from the issue of Notes were employed in the general operations of the taxpayer's business and not for the purpose of strengthening the profit making structure of the taxpayer as was the case in CAGA. The gain was made 'in the course of and as an incident of' repaying the borrowed money with which the taxpayer carried on its business as a financial institution.
 Although the funds raised by the taxpayer from the issue of the Notes satisfied the regulatory capital requirements, it does not necessarily mean the gain realised on buying back of the Notes are for that reason on capital account. Funds that qualify as regulatory capital are often used in the general operations of a financial institution like any other ordinary borrowings. The borrowing and lending of money is an integral part of the ordinary operation of the taxpayer's business as a financial institution so as to represent a matter of revenue rather than capital.
-In Mutual Acceptance Limited v. Federal Commissioner of Taxation (1984) 81 FLR 209; 84 ATC 4831; (1984) 15 ATR 1238 (Mutual Acceptance), a finance company, which was engaged in the business of making loans to its customers, agreed to redeem a number of debentures before their maturity date even though it was under no obligation to do so. Enderby J held that the gain on redemption was assessable income. His Honour said at (FCR 228; ATC 4845; ATR 1255):
-
-In my opinion... the "gain" resulting from the redemption was a "gain" in the nature of income. The decision whether to redeem or not was an exercise in judgment exercised by the appellant's officers. It was part of the ongoing business of producing revenue from the lending of money.
-
-It was in the nature of that business that application for redemption would from time to time be received. They were contemplated in the prospectuses. It was part of the trade of the appellant and sufficiently recurrent.
-
-Repaying of funds employed in the general operations is part of the ordinary course of a business of a financial institution. In the present case, a change in market conditions presented an opportunity for the taxpayer's officers to exercise their judgment to realise a gain by discharging a liability as was the case in Mutual Acceptance.
+In Mutual Acceptance Limited v. Federal Commissioner of Taxation (1984) 81 FLR 209; 84 ATC 4831; (1984) 15 ATR 1238 (Mutual Acceptance), a finance company, which was engaged in the business of making loans to its customers, agreed to redeem a number of debentures before their maturity date even though it was under no obligation to do so. Enderby J held that the gain on redemption was assessable income. His Honour said at (FCR 228; ATC 4845; ATR 1255): In my opinion... the "gain" resulting from the redemption was a "gain" in the nature of income. The decision whether to redeem or not was an exercise in judgment exercised by the appellant's officers. It was part of the ongoing business of producing revenue from the lending of money. It was in the nature of that business that application for redemption would from time to time be received. They were contemplated in the prospectuses. It was part of the trade of the appellant and sufficiently recurrent. Repaying of funds employed in the general operations is part of the ordinary course of a business of a financial institution. In the present case, a change in market conditions presented an opportunity for the taxpayer's officers to exercise their judgment to realise a gain by discharging a liability as was the case in Mutual Acceptance.
 Accordingly, the gain made from the buying back of the Notes at a discount to its face value is assessable income under subsection 6-5(1) of the ITAA 1997.
-Date of decision:
-  27 September 2011
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 16K
-Income Tax Assessment Act 1997   subsection 6-5(1)
-
-Case References:
-
-AVCO Financial Services Ltd v Federal Commissioner of Taxation   (1982) 150 CLR 510   [1982] HCA 36   13 ATR 63   82 ATC 4246
-
-Coles Myer Finance Ltd v Federal Commissioner of Taxation   (1993) 176 CLR 640   [1993] HCA 29   25 ATR 95   93 ATC 4214
-
-Commercial and General Acceptance Ltd v Federal Commissioner of Taxation   (1977) 137 CLR 373   77 ATC 4375   (1977) 7 ATR 716
-
-Federal Commissioner of Taxation v Cadbury-Fry Pascall (Australia) Ltd   (1979) 37 FLR 126   79 ATC 4346   (1979) 10 ATR 55
-
-Federal Commissioner of Taxation v Consolidated Press Holdings Limited (No 2)   (1999) 91 FCR 574   [1999] FCA 1229   99 ATC 4988   42 ATR 554
-
-Federal Commissioner of Taxation v Unilever Australia Securities Ltd   (1995) 56 FCR 152   95 ATC 4117   (1995) 30 ATR 134
-
-International Nickel Australia Ltd v Federal Commissioner of Taxation   (1977) 137 CLR 347   77 ATC 4383   (1977) 7 ATR 739
-
-Mutual Acceptance Limited v Federal Commissioner of Taxation   (1984) 81 FLR 209   84 ATC 4831   (1984) 15 ATR 1238
-
-St George Bank Ltd v Federal Commissioner of Taxation   (2009) 176 FCR 424   2009 ATC 20-103   (2009) 73 ATR 148
-
-Thiess Toyota Pty Ltd v FC of T   (1978) 1 NSWLR 723   78 ATC 4463   (1978) 9 ATR 11
-
-Western Gold Mines NL v Commissioner of Taxation (WA)   (1938) 59 CLR 729   (1938) 4 ATD 453   (1938) 1 AITR 248
-
-Keywords
-
-Income
- Borrowings & loans
- Financial institutions
- Financial instruments
- Financial instrument transactions
-
-Siebel/TDMS Reference Number:
-  1-3JS1UCY
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 December 2011
-
-ISSN:
- 1445-2782
+Date of decision: 27 September 2011 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 Division 16K
+Income Tax Assessment Act 1997 subsection 6-5(1) Case References: AVCO Financial Services Ltd v Federal Commissioner of Taxation (1982) 150 CLR 510 [1982] HCA 36 13 ATR 63 82 ATC 4246 Coles Myer Finance Ltd v Federal Commissioner of Taxation (1993) 176 CLR 640 [1993] HCA 29 25 ATR 95 93 ATC 4214 Commercial and General Acceptance Ltd v Federal Commissioner of Taxation (1977) 137 CLR 373 77 ATC 4375 (1977) 7 ATR 716 Federal Commissioner of Taxation v Cadbury-Fry Pascall (Australia) Ltd (1979) 37 FLR 126 79 ATC 4346 (1979) 10 ATR 55 Federal Commissioner of Taxation v Consolidated Press Holdings Limited (No 2) (1999) 91 FCR 574 [1999] FCA 1229 99 ATC 4988 42 ATR 554 Federal Commissioner of Taxation v Unilever Australia Securities Ltd (1995) 56 FCR 152 95 ATC 4117 (1995) 30 ATR 134 International Nickel Australia Ltd v Federal Commissioner of Taxation (1977) 137 CLR 347 77 ATC 4383 (1977) 7 ATR 739 Mutual Acceptance Limited v Federal Commissioner of Taxation (1984) 81 FLR 209 84 ATC 4831 (1984) 15 ATR 1238 St George Bank Ltd v Federal Commissioner of Taxation (2009) 176 FCR 424 2009 ATC 20-103 (2009) 73 ATR 148 Thiess Toyota Pty Ltd v FC of T (1978) 1 NSWLR 723 78 ATC 4463 (1978) 9 ATR 11 Western Gold Mines NL v Commissioner of Taxation (WA) (1938) 59 CLR 729 (1938) 4 ATD 453 (1938) 1 AITR 248 Keywords Income Borrowings & loans Financial institutions Financial instruments Financial instrument transactions Siebel/TDMS Reference Number: 1-3JS1UCY Business Line: Public Groups and International Date of publication: 23 December 2011 ISSN: 1445-2782

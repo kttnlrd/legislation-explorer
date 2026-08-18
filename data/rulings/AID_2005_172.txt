@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/172
-==================================================
-
-Income Tax
- Franking of Dividends: holding period and related payments - unit trust - qualified person
- FOI status: may be released
-
-Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Franking of Dividends: holding period and related payments - unit trust - qualified person FOI status: may be released Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a unitholder in a unit trust whose trust deed permits the issue of new units at the trustee's discretion and at a price determined by the trustee, a qualified person for the purposes of paragraph 207-150(1)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) in relation to dividends that flow indirectly where the trustee has held the shares at risk for more than 45 days in the absence of a family trust election?
 Decision
 No. The unit holder will not be taken to have held their interest in the shares at risk.
@@ -28,38 +15,5 @@ Section 160APHL of the ITAA 1936 will apply as the shares were acquired after 31
 Unless there is a family trust election in place (or exceptions relating to deceased estates or employee share schemes are satisfied), subsection 160APHL(10) of the ITAA 1936 attributes additional positions to the beneficiary. It gives rise to a short position equal to the beneficiary's long position determined under subsection 160APHL(7) of the ITAA 1936 and a long position equal to so much of the taxpayer's interest in the trust holding as is a fixed interest. For the purposes of subsection 160APHL(10), the beneficiary's interest in the trust holding will be taken to be a fixed interest to the extent that the interest represents a vested and indefeasible interest in so much of the corpus of the trust as is comprised by the trust holding.
 In this case, the unitholder will have a long position with a delta of +1 under subsection 160APHL(7) of the ITAA 1936 and a short position with a delta of -1 under subsection 160APHL(10) of the ITAA 1936. In the absence of any other long positions, this will leave the unit holder with a net position of zero and a materially diminished risk of loss or opportunity for gain in accordance with subsection 160APHM(2) of the ITAA 1936. However, a long position will arise in respect of the unit holder's interest in the trust holding as is a fixed interest to the extent that the interest is constituted by an indefeasible vested interest in so much of the corpus of the trust as is comprised by the trust holding.
 In the present circumstances where the trustee may at its discretion issue further units at a price determined by the trustee, the interest will under subsection 160APHL(12) of the ITAA 1936 be taken to be defeasible if the issue of new units has the effect of materially reducing the value of the relevant interest. However, where the issue is conducted in accordance with subsection 160APHL(13) of the ITAA 1936, no material reduction in the value of the interest will be taken to have occurred and the interest will not be taken to be defeasible. However, as the trustee is at liberty to determine the issue price of any new units that may be issued, subsection 160APHL(13) will not apply should the trustee determine the issue price of the units in contravention of the requirements of subsection 160APHL(13). Consequently, the unit holder will have no additional long position and therefore will not be a qualified person in relation to the dividend paid on the shares.
-Date of decision:
-  14 June 2005
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   paragraph 207-150(1)(a)
-Income Tax Assessment Act 1936   subsection 160APHG(3)   section 160APHL   subsection 160APHL(5)   subsection 160APHL(7)   subsection 160APHL(10)   subsection 160APHL(13)
-
-Keywords
-
-Imputation system
- Franked dividends
- Franking credits
- Trust beneficiaries
- Unit trusts
- Dividend income
- Imputation credits
-
-Siebel/TDMS Reference Number:
-  3353386; 1-9W7QJO6
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  24 June 2005
-
-Date reviewed:
-  10 October 2016
-
-ISSN:
- 1445-2782
+Date of decision: 14 June 2005 Year of income: Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1997 paragraph 207-150(1)(a)
+Income Tax Assessment Act 1936 subsection 160APHG(3) section 160APHL subsection 160APHL(5) subsection 160APHL(7) subsection 160APHL(10) subsection 160APHL(13) Keywords Imputation system Franked dividends Franking credits Trust beneficiaries Unit trusts Dividend income Imputation credits Siebel/TDMS Reference Number: 3353386; 1-9W7QJO6 Business Line: Private Groups and High Wealth Individuals Date of publication: 24 June 2005 Date reviewed: 10 October 2016 ISSN: 1445-2782

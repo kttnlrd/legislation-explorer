@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/652
-==================================================
-
-Income Tax
- Return of Capital: not a dividend
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Return of Capital: not a dividend FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a return of capital paid by a company to its shareholders fall within the definition of dividend in subsection 6(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. A return of capital paid by a company to its shareholders falls within the exclusion in paragraph (d) in the definition of dividend in subsection 6(1) of the ITAA 1936.
@@ -24,79 +11,14 @@ The return of capital was debited to the company's share capital account and fun
 The company had not transferred any amount to its share capital account that could constitute the tainting of the share capital account.
 Reasons for Decision
 The distribution was debited against an amount standing to the credit of the company's share capital account.
-The definition of a 'dividend' contained in subsection 6(1) of the ITAA 1936
- includes
- any distribution made by a company to any of its shareholders but
- excludes
- moneys debited against an amount standing to the credit of the share capital account.
+The definition of a 'dividend' contained in subsection 6(1) of the ITAA 1936 includes any distribution made by a company to any of its shareholders but excludes moneys debited against an amount standing to the credit of the share capital account.
 By virtue of paragraph (d) of the definition of a dividend contained in subsection 6(1) of the ITAA 1936, moneys debited against an amount standing to the credit of the share capital account are not defined as dividends except to the extent that subsection 6(4) of the ITAA 1936 excludes those monies from this definition.
-In this instance the paragraph (d) exclusion does not apply as the arrangement is not one that triggers the operation of subsection 6(4) of the ITAA 1936, that is, the capital reduction is not part of an arrangement where:
-
-• a person pays or credits any money or gives property to the company and the company credits its share capital account with the amount of the money or the value of the property; and
-• the company pays or credits any money, or distributes property to another person, and debits its share capital account with the amount of the money or the value of the property so paid, credited or distributed.
-
-As subsection 6(4) of the ITAA 1936 does not apply to negate the effect of paragraph (d) of the definition of 'dividend' in subsection 6(1) of the ITAA 1936, the moneys paid by the company to its shareholders as a capital return do not constitute a dividend under subsection 6(1) of the ITAA 1936.
-
-Amendment History
-
-Date of Amendment
+In this instance the paragraph (d) exclusion does not apply as the arrangement is not one that triggers the operation of subsection 6(4) of the ITAA 1936, that is, the capital reduction is not part of an arrangement where: • a person pays or credits any money or gives property to the company and the company credits its share capital account with the amount of the money or the value of the property; and
+• the company pays or credits any money, or distributes property to another person, and debits its share capital account with the amount of the money or the value of the property so paid, credited or distributed. As subsection 6(4) of the ITAA 1936 does not apply to negate the effect of paragraph (d) of the definition of 'dividend' in subsection 6(1) of the ITAA 1936, the moneys paid by the company to its shareholders as a capital return do not constitute a dividend under subsection 6(1) of the ITAA 1936. Amendment History Date of Amendment
 Part
-Comment
-
-9 June 2017
+Comment 9 June 2017
 Reasons for decision
-Add "1936" after "subsection 6(4) of the ITAA" in paragraph three.
-
-Date reviewed
-Change from "25 September 2014" to "2 June 2017".
-
-Date of decision:
-  08 April 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   subsection 6(4)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/860
-
-Keywords
-
-Share capital
- Capital reductions
- Dividend income
-
-Siebel/TDMS Reference Number:
-  3973112; 1-5TG4CI8
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  6 August 2004
-
-Date reviewed:
-  2 June 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 8 April 2004
-Original statement
-
-You are here
- 9 June 2017
+Add "1936" after "subsection 6(4) of the ITAA" in paragraph three. Date reviewed
+Change from "25 September 2014" to "2 June 2017". Date of decision: 08 April 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) subsection 6(4) Related ATO Interpretative Decisions ATO ID 2002/860 Keywords Share capital Capital reductions Dividend income Siebel/TDMS Reference Number: 3973112; 1-5TG4CI8 Business Line: Private Groups and High Wealth Individuals Date of publication: 6 August 2004 Date reviewed: 2 June 2017 ISSN: 1445-2782 history Date: Version: 8 April 2004
+Original statement You are here 9 June 2017
 Updated statement

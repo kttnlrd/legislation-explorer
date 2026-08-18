@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/846
-==================================================
-
-Income Tax
- CGT small business concessions: net asset test - connected entities - Commissioner's discretion to determine control of entity
- FOI status: may be released
-
-This ATO ID is withdrawn as the ATO view on this matter is now reflected in the publication Advanced guide to capital gains tax concessions for small business.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT small business concessions: net asset test - connected entities - Commissioner's discretion to determine control of entity FOI status: may be released This ATO ID is withdrawn as the ATO view on this matter is now reflected in the publication Advanced guide to capital gains tax concessions for small business. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If one shareholder in a company has a control percentage under paragraph 152-30(2)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) of at least 40% but less than 50%, can the Commissioner determine under subsection 152-30(3) of the ITAA 1997 that that shareholder does not control the company if there is no other shareholder with a control percentage of at least 40%?
 Decision
 No. If one shareholder in a company has a control percentage of at least 40% but less than 50%, the Commissioner cannot determine under subsection 152-30(3) of the ITAA 1997 that that shareholder does not control the company if there is no other shareholder with a control percentage of at least 40%.
@@ -28,12 +13,8 @@ The net value of company B's CGT assets exceeds $5 million.
 Company A sold an asset and made a capital gain.
 Reasons for Decision
 One of the basic conditions that must be satisfied to qualify for small business relief in Division 152 of the ITAA 1997 is the maximum net asset value test in section 152-15 of the ITAA 1997.
-A taxpayer will satisfy the maximum net asset value test if, just before the CGT event that results in the capital gain, the net value of the CGT assets of the taxpayer and the following entities does not exceed $5 million:
-
-• any entities connected with the taxpayer,
-• any small business CGT affiliates of the taxpayer and any entities connected with a small business CGT affiliate of the taxpayer (subject to certain exclusions).
-
-An entity is connected with another entity if either entity controls the other or both entities are controlled by the same third entity (subsection 152-30(1) of the ITAA 1997).
+A taxpayer will satisfy the maximum net asset value test if, just before the CGT event that results in the capital gain, the net value of the CGT assets of the taxpayer and the following entities does not exceed $5 million: • any entities connected with the taxpayer,
+• any small business CGT affiliates of the taxpayer and any entities connected with a small business CGT affiliate of the taxpayer (subject to certain exclusions). An entity is connected with another entity if either entity controls the other or both entities are controlled by the same third entity (subsection 152-30(1) of the ITAA 1997).
 An entity controls a company if it, its small business CGT affiliate or both of them together beneficially own, or have the right to acquire beneficial ownership of, shares in the company that give at least 40% (the control percentage) of the voting power in the company (paragraph 152-30(2)(b) of the ITAA 1997).
 If an entity's control percentage in a company is at least 40% but less than 50%, the Commissioner may determine under subsection 152-30(3) of the ITAA 1997 that the first entity does not control the company if the Commissioner is satisfied, or thinks it reasonable to assume, that the company is controlled by a third entity (other than a small business CGT affiliate of the first entity).
 For the company to be controlled by a third entity the third entity must have a control percentage of at least 40% in the company. That is, it must control the company in the way described in subsection 152-30(2) of the ITAA 1997. The interests of several entities are not added together to determine this control percentage (apart from the interests of any small business CGT affiliates of the third entity).
@@ -41,45 +22,7 @@ In other words, for the Commissioner to be able to consider the exercise of the 
 If there was a third entity with a control percentage of at least 40% (that is, there were two shareholders with a control percentage of at least 40%) it would then be necessary to consider additional factors such as who is responsible for the day to day and strategic running of the company to determine if the third entity controls it. In this situation it is possible that both of the entities having a control percentage of at least 40% may control the company if such responsibilities are shared.
 In this particular case, the next largest shareholder in company A after company B holds 20%, and none of the shareholders are small business CGT affiliates of each other. As there is no third entity with a control percentage of at least 40%, the Commissioner is not able to determine that company B does not control company A.
 Company B is therefore connected with company A and the net value of its CGT assets must be included in the maximum net asset value test for company A. As the net value of company B's CGT assets by itself exceeds $5 million, company A does not satisfy the maximum net asset value test, and accordingly the small business CGT concessions are not available.
-Date of decision:
-  21 August 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 152-15   section 152-30   subsection 152-30(1)   subsection 152-30(2)   paragraph 152-30(2)(b)   subsection 152-30(3)
-
-Keywords
-
-Basic conditions for relief
- Capital gains tax
- CGT small business relief
- Connected entity
- Maximum net asset value test
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  19 September 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-21 August 2003
-Original statement
-
-You are here
+Date of decision: 21 August 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 152-15 section 152-30 subsection 152-30(1) subsection 152-30(2) paragraph 152-30(2)(b) subsection 152-30(3) Keywords Basic conditions for relief Capital gains tax CGT small business relief Connected entity Maximum net asset value test Business Line: Losses and CGT Centre of Expertise Date of publication: 19 September 2003 ISSN: 1445-2782 history Date: Version: 21 August 2003
+Original statement You are here
 11 March 2005
 Archived

@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2002/181
-==================================================
-
-Income Tax
- Non-resident in receipt of Australian sourced employment income
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Non-resident in receipt of Australian sourced employment income FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a non-resident taxpayer's employment income assessable under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997) where the taxpayer only works intermittently in Australia.
 Decision
 Yes. Only the Australian sourced employment income will be included in the taxpayer's assessable income under section 6-5 of the ITAA 1997.
@@ -30,47 +17,9 @@ Generally, Australian courts have held that the source of employment income is w
 In determining the liability to tax on Australian sourced income received by a non resident, it is necessary to consider not only the income tax laws but also any applicable double tax agreement contained in the International Tax Agreements Act 1953 (the Agreements Act).
 Schedule 2 to the Agreements Act contains the double tax agreement between Australia and the USA (the United States Convention). The United States Convention operates to avoid the double taxation of income received by Australian and USA residents.
 Paragraph (1) of Article 15 of the United States Convention provides that salary and wages derived by a USA resident for employment exercised in Australia may be taxed in Australia.
-However paragraph (2) of Article 15 of the United States Convention provides that the income will only be taxed in the USA if:
-
-(a)the taxpayer is present in Australia for a period or periods not exceeding 183 days in the Australian income year;
+However paragraph (2) of Article 15 of the United States Convention provides that the income will only be taxed in the USA if: (a)the taxpayer is present in Australia for a period or periods not exceeding 183 days in the Australian income year;
 (b)the remuneration is paid by, or on behalf of, an employer or company who is not a resident of Australia; and
-(c)the remuneration is not deductible in determining taxable profits of a permanent establishment, a fixed base or a trade or business which the employer or company has in Australia.
-
-As the taxpayer's employer is an Australian resident for tax purposes, the conditions for this exception to operate will not be met.
+(c)the remuneration is not deductible in determining taxable profits of a permanent establishment, a fixed base or a trade or business which the employer or company has in Australia. As the taxpayer's employer is an Australian resident for tax purposes, the conditions for this exception to operate will not be met.
 The non resident taxpayer receives salary and wage income for intermittent periods of employment in Australia. Under the United States Convention, the salary and wages paid by the taxpayer's Australian employer may be taxed in Australia. The employment income will need to be apportioned and the Australian component included in the taxpayer's assessable income under section 6-5 of the ITAA 1997.
-Date of decision:
-  30 January 2002
-
-Year of income:
-  Year ended 30 June 2001 Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5   subsection 6-5(3)
-International Tax Agreements Act 1953   Schedule 2   Schedule 2, Article 15(1)   Schedule 2, Article 15(2)
-
-Case References:
-
-C of T (NSW) v. Cam and Sons Ltd    (1936) 36 SR (NSW) 544   4 ATD 32
-
-FC of T v. French   (1957) 98 CLR 398    (1957) 7 AITR 76   11 ATD 288
-
-Keywords
-
-Double tax agreements
- United States
- Foreign source income
- Personal exertion income
- Personal services income
-
-Siebel/TDMS Reference Number:
-  DW226152
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  28 February 2002
-
-ISSN:
- 1445-2782
+Date of decision: 30 January 2002 Year of income: Year ended 30 June 2001 Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 6-5 subsection 6-5(3)
+International Tax Agreements Act 1953 Schedule 2 Schedule 2, Article 15(1) Schedule 2, Article 15(2) Case References: C of T (NSW) v. Cam and Sons Ltd (1936) 36 SR (NSW) 544 4 ATD 32 FC of T v. French (1957) 98 CLR 398 (1957) 7 AITR 76 11 ATD 288 Keywords Double tax agreements United States Foreign source income Personal exertion income Personal services income Siebel/TDMS Reference Number: DW226152 Business Line: Small Business/Individual Taxpayers Date of publication: 28 February 2002 ISSN: 1445-2782

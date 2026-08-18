@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/428
-==================================================
-
-Goods and Services Tax
- GST and the supply of technical support services to Australian based customers of a non-resident company operating overseas
- FOI status: may be released
-
-The ATO View on this issue is covered in Goods and Services Tax Ruling GSTR 2000/31C, Goods and Services Tax Ruling GSTR 2003/7 and Goods and Services Tax Ruling GSTR 2004/7.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and the supply of technical support services to Australian based customers of a non-resident company operating overseas FOI status: may be released The ATO View on this issue is covered in Goods and Services Tax Ruling GSTR 2000/31C, Goods and Services Tax Ruling GSTR 2003/7 and Goods and Services Tax Ruling GSTR 2004/7. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of services, making a GST-free supply under item 2 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when, under an agreement with a non-resident company, the entity provides technical support services to Australian based customers of the non-resident company?
 Decision
 No, the entity is not making a GST-free supply under item 2 in the table in subsection 38-190(1) of the GST Act when, under an agreement with a non-resident company, the entity provides technical support services to Australian based customers of the company.
@@ -28,60 +13,13 @@ The entity is registered for goods and services tax (GST). The supply satisfies 
 Reasons for Decision
 Under section 38-190 of the GST Act, certain supplies of things other than goods or real property, for consumption outside of Australia, are GST-free.
 The entity provides technical support services for computer software to a non-resident company that operates overseas. As the supply of these services is not considered to be a supply of goods or real property, the GST status of the services is appropriately considered under section 38-190 of the GST Act.
-Paragraph (a) of item 2 in the table in subsection 38-190(1) of the GST Act (Item 2) provides that a supply, other than a supply of goods or real property is GST-free where:
-
-•it is made to a non-resident who is not in Australia when the thing supplied is done; and
-•it is not a supply of work physically performed on goods situated in Australia when the work is done and it is not a supply directly connected with real property situated in Australia.
-
-The supply of the technical support services satisfies the above requirements.
-However, subsection 38-190(3) of the GST Act provides that a supply which is covered by Item 2 is not GST-free if:
-
-•it is a supply under an agreement entered into, whether directly or indirectly with a non-resident; and
-•the supply is provided, or the agreement requires it to be provided, to another entity in Australia.
-
-The supply of the technical support services is made under an agreement entered into between the entity and the non-resident company. In addition, under this agreement, the supply of the services is to be provided to customers who are located in Australia. Accordingly, subsection 38-190(3) of the GST Act excludes the supply of technical support services as a GST-free supply under Item 2.
+Paragraph (a) of item 2 in the table in subsection 38-190(1) of the GST Act (Item 2) provides that a supply, other than a supply of goods or real property is GST-free where: •it is made to a non-resident who is not in Australia when the thing supplied is done; and
+•it is not a supply of work physically performed on goods situated in Australia when the work is done and it is not a supply directly connected with real property situated in Australia. The supply of the technical support services satisfies the above requirements.
+However, subsection 38-190(3) of the GST Act provides that a supply which is covered by Item 2 is not GST-free if: •it is a supply under an agreement entered into, whether directly or indirectly with a non-resident; and
+•the supply is provided, or the agreement requires it to be provided, to another entity in Australia. The supply of the technical support services is made under an agreement entered into between the entity and the non-resident company. In addition, under this agreement, the supply of the services is to be provided to customers who are located in Australia. Accordingly, subsection 38-190(3) of the GST Act excludes the supply of technical support services as a GST-free supply under Item 2.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under any other provision in Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply, when under an agreement with a non-resident company, the entity provides technical support services to Australian based customers of the non-resident company.
-Date of decision:
-  31 October 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   section 38-190   subsection 38-190(1), item 2   subsection 38-190(1), item 2, paragraph (a)   subsection 38-190(3)   Division 40
-
-Related Public Rulings (including Determinations)
-
-GSTR 2003/7
-GSTR 2000/31
-
-Keywords
-
-Goods & services tax
- GST international services
- GST offshore supplies
- GST supplies & acquisitions
- Taxable supply
-
-Business Line:
-  GST
-
-Date of publication:
-  6 June 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-31 October 2001
-Original statement
-
-You are here
+Date of decision: 31 October 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 Division 38 section 38-190 subsection 38-190(1), item 2 subsection 38-190(1), item 2, paragraph (a) subsection 38-190(3) Division 40 Related Public Rulings (including Determinations) GSTR 2003/7
+GSTR 2000/31 Keywords Goods & services tax GST international services GST offshore supplies GST supplies & acquisitions Taxable supply Business Line: GST Date of publication: 6 June 2003 ISSN: 1445-2782 history Date: Version: 31 October 2001
+Original statement You are here
 12 August 2005
 Archived

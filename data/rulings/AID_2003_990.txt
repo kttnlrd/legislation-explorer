@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/990
-==================================================
-
-Income Tax
- Research and Development: additional deduction for incremental expenditure where a group member company has a substituted accounting period
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development: additional deduction for incremental expenditure where a group member company has a substituted accounting period FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If an eligible company is grouped with another company that has a different accounting period, is the 'year of income' referred to in paragraph (b) of the definition of 'R&D spend' in subsection 73P(2) of the Income Tax Assessment Act 1936 (ITAA 1936) that of the eligible company, and not that of the group member?
 Decision
 Yes. The eligible company's 'year of income' is used when calculating an amount under paragraph (b) of the definition of 'R&D spend' in subsection 73P(2) of the ITAA 1936, for the purposes of sections 73U, 73V, 73W and 73Y of the ITAA 1936.
@@ -24,69 +13,13 @@ The company which is grouped with the eligible company, has a substituted accoun
 Reasons for Decision
 Calculation of the amount of the additional deduction allowable under section 73Y of the ITAA 1936 requires working out the eligible company's 'premium amount' under section 73W of the ITAA 1936, as well as any apportionment of the premium amount under section 73X of the ITAA 1936.
 It is not possible however, to calculate the premium amount without also calculating the eligible company's 'running average' for the deduction year, under section 73U of the ITAA 1936. In section 73U of the ITAA 1936 the deduction year is referred to as the 'Y0 year of income', which 'is the year of income for which an eligible company is working out its assessable income and deductions' (refer to the definitions of particular years of income identified by 'Y' and a further identifier in subsection 73P(6) of the ITAA 1936).
-In order to work out the eligible company's premium amount for the Y0 year of income, under section 73W of the ITAA 1936, it needs to calculate, for this year of income, its:
-
-• R&D spend
+In order to work out the eligible company's premium amount for the Y0 year of income, under section 73W of the ITAA 1936, it needs to calculate, for this year of income, its: • R&D spend
 • running average; and
-• any 'adjustment balance', as calculated under section 73V of the ITAA 1936.
-
-Under subsection 73U(1) of the ITAA 1936, calculation of the eligible company's running average requires calculating one third of the sum of its R&D spend for each of the 'Y-1', 'Y-2', and 'Y-3' years of income. The 'Y-1' year of income of the eligible company is the year of income immediately before the Y0 year of income, the 'Y-2' year of income is the year of income 2 years before, and the 'Y-3' year of income is the year of income 3 years before, as in the definitions in subsection 73P(6) of the ITAA 1936.
-The definition of R&D spend in subsection 73P(2) of the ITAA 1936 is therefore critical to the calculation of the amount of the additional deduction allowable under section 73Y of the ITAA 1936. This definition states:
-
-R&D spend of an eligible company for a
- year of income
- means the sum of:
-
-the incremental expenditure of the eligible company for the year of income incurred during its group membership period; and
-
-the incremental expenditure of
- each group member
- of the eligible company
- for the year of income
- incurred during its group membership period.' [emphasis added]
-
-In this case, there is another company which is a group member of the eligible company. This other company has a substituted accounting period, which means that, unlike the position of the eligible company, its year of income ends on a date other than 30 June (refer to section 18 of the ITAA 1936, and the subsection 6(1), ITAA 1936 definition of year of income). As well, this other company, as a condition of being allowed to adopt the substituted accounting period, has lodged a return of income for a period greater than 12 months, in relation to the comparable year immediately before the eligible company's deduction year or Y0 year of income.
-Two questions therefore arise:
-
-(1) whose year of income is used in calculating the incremental expenditure of the group member under paragraph (b) of the definition of R&D spend; and
-(2) can this year of income for any of Y-1, Y-2, or Y-3, be a period of less than 12 months.
-
-A key feature of the scheme of sections 73Q to 73Y, in calculating the amount of any additional deduction relating to changes in incremental expenditure when compared to a running average, concerns examining the position of the eligible company. Consistent with this scheme is the fact that when the term 'year of income' is used in the definition of R&D spend, it refers to the year of income of the eligible company (for example, in section 73W of the ITAA 1936, the R&D spend for the 'Y0' year of income is referred to, and the 'Y0' year of income is that of the eligible company in paragraph 73P(6)(a) of the ITAA 1936).
+• any 'adjustment balance', as calculated under section 73V of the ITAA 1936. Under subsection 73U(1) of the ITAA 1936, calculation of the eligible company's running average requires calculating one third of the sum of its R&D spend for each of the 'Y-1', 'Y-2', and 'Y-3' years of income. The 'Y-1' year of income of the eligible company is the year of income immediately before the Y0 year of income, the 'Y-2' year of income is the year of income 2 years before, and the 'Y-3' year of income is the year of income 3 years before, as in the definitions in subsection 73P(6) of the ITAA 1936.
+The definition of R&D spend in subsection 73P(2) of the ITAA 1936 is therefore critical to the calculation of the amount of the additional deduction allowable under section 73Y of the ITAA 1936. This definition states: R&D spend of an eligible company for a year of income means the sum of: the incremental expenditure of the eligible company for the year of income incurred during its group membership period; and the incremental expenditure of each group member of the eligible company for the year of income incurred during its group membership period.' [emphasis added] In this case, there is another company which is a group member of the eligible company. This other company has a substituted accounting period, which means that, unlike the position of the eligible company, its year of income ends on a date other than 30 June (refer to section 18 of the ITAA 1936, and the subsection 6(1), ITAA 1936 definition of year of income). As well, this other company, as a condition of being allowed to adopt the substituted accounting period, has lodged a return of income for a period greater than 12 months, in relation to the comparable year immediately before the eligible company's deduction year or Y0 year of income.
+Two questions therefore arise: (1) whose year of income is used in calculating the incremental expenditure of the group member under paragraph (b) of the definition of R&D spend; and
+(2) can this year of income for any of Y-1, Y-2, or Y-3, be a period of less than 12 months. A key feature of the scheme of sections 73Q to 73Y, in calculating the amount of any additional deduction relating to changes in incremental expenditure when compared to a running average, concerns examining the position of the eligible company. Consistent with this scheme is the fact that when the term 'year of income' is used in the definition of R&D spend, it refers to the year of income of the eligible company (for example, in section 73W of the ITAA 1936, the R&D spend for the 'Y0' year of income is referred to, and the 'Y0' year of income is that of the eligible company in paragraph 73P(6)(a) of the ITAA 1936).
 Therefore, the year of income to be used each time in calculating the relevant amount of R&D spend of the group member, is that of the eligible company. The substituted accounting period of the group member will not be relevant when the eligible company is calculating the amount it claims as an additional deduction under section 73Y of the ITAA 1936.
 The meaning of 'year of income' in this context means the same as it does elsewhere in the ITAA 1936, that is, a period of 12 months (see Norwich Superannuation Services Pty Ltd v. F C of T (1998) 41 ATR 1091; 99 ATC 2015).
 Note: The same result would also arise if the group member, lodged a return of income for the comparable year of the eligible company's deduction year or any of the three prior years for a substituted accounting period or a period greater than or less than 12 months.
-Date of decision:
-  10 October 2003
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 73B   subsection 73B(1)   section 73L   section 73P   subsection 73P(2)   subsection 73P(6)   section 73Q   subsection 73Q(1)   section 73U   section 73V   section 73W   section 73X   section 73Y
-
-Case References:
-
-Norwich Superannuation Services Pty Ltd v. FC of T   (1998) 41 ATR 1091   99 ATC 2015
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/989
- ATO ID 2003/991
-
-Keywords
-
-Research & development segment
- Substituted accounting period
-
-Siebel/TDMS Reference Number:
-  3662174
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 November 2003
-
-ISSN:
- 1445-2782
+Date of decision: 10 October 2003 Year of income: Year ended 30 June 2003 Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 73B subsection 73B(1) section 73L section 73P subsection 73P(2) subsection 73P(6) section 73Q subsection 73Q(1) section 73U section 73V section 73W section 73X section 73Y Case References: Norwich Superannuation Services Pty Ltd v. FC of T (1998) 41 ATR 1091 99 ATC 2015 Related ATO Interpretative Decisions ATO ID 2003/989 ATO ID 2003/991 Keywords Research & development segment Substituted accounting period Siebel/TDMS Reference Number: 3662174 Business Line: Public Groups and International Date of publication: 7 November 2003 ISSN: 1445-2782

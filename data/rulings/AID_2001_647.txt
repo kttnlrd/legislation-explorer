@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/647
-==================================================
-
-Income Tax
- Assessable Income - Reinvestment of Unit Trust Distributions
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessable Income - Reinvestment of Unit Trust Distributions FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Has the taxpayer derived assessable income, pursuant to sections 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997), in respect of a unit trust distribution that was automatically reinvested on the taxpayer's instructions into additional units in the unit trust?
 Decision
 Yes. The taxpayer derived assessable income in respect of a unit trust distribution that was automatically reinvested into additional units in the unit trust. The income was applied or dealt with as the taxpayer directed.
@@ -23,36 +12,6 @@ Each time a distribution was made, the trust unit holder received a statement wh
 After the end of the income year, the taxpayer received a trust unit holder statement with details of the net amount distributed, tax credit (if any), imputation credits (if any) and gross assessable income paid to the taxpayer during the preceding income year.
 Reasons for Decision
 Subsection 6-5(2) of the ITAA 1997 provides that the assessable income of a resident taxpayer includes ordinary income derived directly from all sources during the income year. An example of ordinary income is interest income .
-Subsection 6-5(4) of the ITAA 1997 states that a taxpayer derives an amount of ordinary income when the amount is:
-
-•received by the taxpayer; or
-•dealt with in any way on the taxpayer's behalf or as the taxpayer directs.
-
-The taxpayer receives a trust distribution consisting of ordinary income. The taxpayer acquires additional units in the unit trust from the proceeds of the distribution from the trust. Accordingly, when the taxpayer directs the trustee of the unit trust to reinvest the taxpayer's distribution into additional units in the unit trust, the taxpayer is taken to have received the trust distribution during the relevant year and derived assessable income pursuant to sections 6-5 of the ITAA 1997.
-Date of decision:
-  5 September 2001
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5   subsection 6-5(2)   subsection 6-5(4)
-
-Keywords
-
-dividend
- unit trust distributions
- reinvestment
-
-Siebel/TDMS Reference Number:
-  DW280070
-
-Business Line:
-  Business and Personal Taxes
-
-Date of publication:
-  29 November 2001
-
-ISSN:
- 1445-2782
+Subsection 6-5(4) of the ITAA 1997 states that a taxpayer derives an amount of ordinary income when the amount is: •received by the taxpayer; or
+•dealt with in any way on the taxpayer's behalf or as the taxpayer directs. The taxpayer receives a trust distribution consisting of ordinary income. The taxpayer acquires additional units in the unit trust from the proceeds of the distribution from the trust. Accordingly, when the taxpayer directs the trustee of the unit trust to reinvest the taxpayer's distribution into additional units in the unit trust, the taxpayer is taken to have received the trust distribution during the relevant year and derived assessable income pursuant to sections 6-5 of the ITAA 1997.
+Date of decision: 5 September 2001 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 section 6-5 subsection 6-5(2) subsection 6-5(4) Keywords dividend unit trust distributions reinvestment Siebel/TDMS Reference Number: DW280070 Business Line: Business and Personal Taxes Date of publication: 29 November 2001 ISSN: 1445-2782

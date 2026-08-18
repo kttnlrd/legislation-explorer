@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/390
-==================================================
-
-Goods and Services Tax
- GST and psychology services
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and psychology services FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of health services, making a GST-free supply under subsection 38-10(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies psychology services in a group therapy session?
 Decision
 Yes, the entity is making a GST-free supply under subsection 38-10(1) of the GST Act when it supplies psychology services in a group therapy session.
@@ -23,43 +12,12 @@ The therapy services provided in the group session are considered by the psychol
 The entity assesses each patient and determines that group therapy is an appropriate form of treatment for each of those patients. The group session is for treatment purposes and is not a general information session.
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
-Subsection 38-10(1) of the GST Act provides that a supply of other health services is GST-free if:
-
-(a) it is a service of a kind specified in the table in subsection 38-10(1) of the GST Act; and
+Subsection 38-10(1) of the GST Act provides that a supply of other health services is GST-free if: (a) it is a service of a kind specified in the table in subsection 38-10(1) of the GST Act; and
 (b) the supplier is a recognised professional in relation to the supply of services of that kind; and
-(c) the supply would generally be accepted, in that profession associated with supplying services of that kind, as being necessary for the appropriate treatment of the recipient of the supply.
-
-For the purposes of paragraph 38-10 (1)(a) of the GST Act, the service must be of a kind specified in the table in the subsection. Psychology services are listed at item 16 of the table contained in subsection 38-10(1) of the GST Act.
+(c) the supply would generally be accepted, in that profession associated with supplying services of that kind, as being necessary for the appropriate treatment of the recipient of the supply. For the purposes of paragraph 38-10 (1)(a) of the GST Act, the service must be of a kind specified in the table in the subsection. Psychology services are listed at item 16 of the table contained in subsection 38-10(1) of the GST Act.
 For the purposes of paragraph 38-10(1)(b) of the GST Act, a recognised professional must provide the service.
 Section 195-1 of the GST Act provides that a person is a recognised professional, in relation to a supply of services of a kind specified in subsection 38-10(1) of the GST Act (psychology services), if:
 '(a) the service is supplied in a State or Territory in which the person has permission or approval, or is registered, under a State law or a Territory law prohibiting the supply of services of that kind without such permission, approval or registration'.
 A person practicing in psychology is a 'recognised professional' if they are registered under a State or Territory law prohibiting the supply of psychology services without such registration. In this case, the entity is registered as a psychologist by a State law. As such, the psychologist is a recognised professional under paragraph 38-10(1)(b) of the GST Act.
 For the purposes of paragraph 38-10(1)(c) of the GST Act, the psychologist must provide the service, and the psychology profession would need to consider the service as being necessary for the appropriate treatment of the recipient of the supply in these circumstances.
-In this case, the group therapy services are conducted by a registered psychologist and are generally accepted in the psychology profession as being necessary for the appropriate treatment of the recipient of the supply. Therefore, the entity is making a GST-free supply under subsection 38-10(1) of the GST Act when it supplies psychology services in a group therapy session.
-
-[Note: In comparison, attendance at a seminar providing general information is not considered to be treatment and therefore is not GST-free under subsection 38-10(1) of the GST Act.]
-
-Date of decision:
-  6 August 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 38-10(1)   paragraph 38-10(1)(a)   paragraph 38-10(1)(b)   paragraph 38-10(1)(c)   section 195-1
-
-Keywords
-
-Goods & services tax
- GST free
- GST health
-
-Siebel/TDMS Reference Number:
-  CW226433
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  29 September 2001
-
-ISSN:
- 1445-2782
+In this case, the group therapy services are conducted by a registered psychologist and are generally accepted in the psychology profession as being necessary for the appropriate treatment of the recipient of the supply. Therefore, the entity is making a GST-free supply under subsection 38-10(1) of the GST Act when it supplies psychology services in a group therapy session. [Note: In comparison, attendance at a seminar providing general information is not considered to be treatment and therefore is not GST-free under subsection 38-10(1) of the GST Act.] Date of decision: 6 August 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 38-10(1) paragraph 38-10(1)(a) paragraph 38-10(1)(b) paragraph 38-10(1)(c) section 195-1 Keywords Goods & services tax GST free GST health Siebel/TDMS Reference Number: CW226433 Business Line: Indirect Tax Date of publication: 29 September 2001 ISSN: 1445-2782

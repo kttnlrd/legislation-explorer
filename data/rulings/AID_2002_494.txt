@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/494
-==================================================
-
-Income Tax
- CGT small business concessions - retirement exemption - making an eligible termination payment years later.
- FOI status: may be released
-
-This ATO ID has been amended by replacing in the Status of Decision field "Decision Current" with "Decision current for CGT events that occur before the end of the 2005-06 income year where the payment is made before 30 June 2007.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT small business concessions - retirement exemption - making an eligible termination payment years later. FOI status: may be released This ATO ID has been amended by replacing in the Status of Decision field "Decision Current" with "Decision current for CGT events that occur before the end of the 2005-06 income year where the payment is made before 30 June 2007. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the taxpayer, a private company, make an eligible termination payment under subsection 152-325(1) of the Income Tax Assessment Act 1997 (ITAA 1997) in relation to a CGT concession stakeholder several years after the CGT concession stakeholder ceased to be an employee of the taxpayer?
 Decision
 Yes. The taxpayer can make an eligible termination payment under subsection 152-325(1) of ITAA 1997 in relation to a CGT concession stakeholder who was an employee of the taxpayer several years after the employment was terminated provided the payment is made in consequence of the termination of that employment.
@@ -26,36 +13,5 @@ A company can choose to disregard all or part of a capital gain under the small 
 Subsection 152-325(1) of ITAA 1997 requires a company to make an eligible termination payment in relation to a CGT concession stakeholder each time it receives an amount of capital proceeds from a CGT event for which it has chosen the retirement exemption.
 An eligible termination payment in relation to a person means any payment made in respect of the person in consequence of the termination of any employment of the person. Employment includes the holding of an office (subsection 27A(1) of the Income Tax Assessment Act 1936). If the termination of an employment is either a cause or an antecedent of the payment the payment is made in consequence of that termination.
 A gap of several years between the termination of the employment and the making of the payment will not destroy this connection. In these circumstances the entitlement to the payment was not dependent upon the occurrence of any other event or upon the consent of any other person. An employment has terminated and that termination is the reason for the payment. Consequently the payment is an eligible termination payment.
-Date of decision:
-  12 February 2002
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 27A(1)
-Income Tax Assessment Act 1997   Subdivision 152-A   section 152-325   subsection 152-325(1)
-
-Keywords
-
-Capital gains tax
- CGT concession stakeholder
- Eligible termination payments
- Sale by instalments
- Small business retirement exemption
-
-Siebel/TDMS Reference Number:
-  DW300278; 1-5CE66XO; 1-ANU3V07
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  30 April 2002
-
-Date reviewed:
-  31 January 2017
-
-ISSN:
- 1445-2782
+Date of decision: 12 February 2002 Year of income: Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1936 subsection 27A(1)
+Income Tax Assessment Act 1997 Subdivision 152-A section 152-325 subsection 152-325(1) Keywords Capital gains tax CGT concession stakeholder Eligible termination payments Sale by instalments Small business retirement exemption Siebel/TDMS Reference Number: DW300278; 1-5CE66XO; 1-ANU3V07 Business Line: Private Groups and High Wealth Individuals Date of publication: 30 April 2002 Date reviewed: 31 January 2017 ISSN: 1445-2782

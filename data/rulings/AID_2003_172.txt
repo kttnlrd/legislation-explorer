@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/172
-==================================================
-
-Income Tax
- Capital allowances: non existence of the 'replacement basis' for claiming decline in value deductions
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital allowances: non existence of the 'replacement basis' for claiming decline in value deductions FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Following the discontinuance of the 'replacement basis' of claiming depreciation deductions for certain units of plant under former Division 42 of the Income Tax Assessment Act 1997 (ITAA 1997), can the taxpayer now claim a deduction for decline in value under Division 40 of the ITAA 1997 in respect of the cost of the plant initially purchased?
 Decision
 No. The taxpayer cannot claim a deduction under Division 40 of the ITAA 1997 in respect of the cost of the plant initially purchased.
@@ -23,43 +12,9 @@ There was a longstanding Tax Office practice that permitted taxpayers to treat t
 In 1991, the law was amended to allow an immediate write-off for units of plant costing $300 or less or having an effective life of less than three years. At that time, the Tax Office discontinued its administrative practice of allowing a deduction on a replacement basis for plant that was otherwise immediately deductible because of these new provisions (see paragraph 63 of Taxation Ruling IT 2685).
 For some taxpayers, the $300 immediate write-off provisions were replaced with a new system of deductions which applied from 1 July 2000 (see former Subdivision 42-M of the ITAA 1997). That system allowed certain taxpayers to pool units of plant costing less than $1,000 each and to write off the pool value under the diminishing value method using an effective life of four years.
 From 1 July 2001, the uniform capital allowance system (UCA) applies to most depreciating assets, including those acquired before that date. The UCA continues to provide an immediate deduction for certain assets costing $300 or less (see subsection 40-80(2) of the ITAA 1997) and a substantially similar pooling mechanism to the former Subdivision 42-M of the ITAA 1997 (see Subdivision 40-E of the ITAA 1997).
-In addition, the Simplified Tax System (STS) is available to certain small business taxpayers from 1 July 2001. The STS allows eligible taxpayers who decide to use it an immediate write-off for depreciating assets costing less than $1000 and pooling arrangements for other depreciating assets (see Subdivision 328-D of the ITAA 1997).
-
-Note: the STS was replaced by the small business entity regime after the 2006-07 income year.
-
-Because of these various changes in the law that now provide a variety of alternative treatments for depreciating assets of low cost, the remaining part of the replacement practice was discontinued for assets first used (or installed ready for use) for the purpose of producing assessable income after 30 June 2000 (see paragraph 76 of Taxation Ruling TR 2000/18).
+In addition, the Simplified Tax System (STS) is available to certain small business taxpayers from 1 July 2001. The STS allows eligible taxpayers who decide to use it an immediate write-off for depreciating assets costing less than $1000 and pooling arrangements for other depreciating assets (see Subdivision 328-D of the ITAA 1997). Note: the STS was replaced by the small business entity regime after the 2006-07 income year. Because of these various changes in the law that now provide a variety of alternative treatments for depreciating assets of low cost, the remaining part of the replacement practice was discontinued for assets first used (or installed ready for use) for the purpose of producing assessable income after 30 June 2000 (see paragraph 76 of Taxation Ruling TR 2000/18).
 Broadly speaking, the UCA provides a deduction for the decline in value of depreciating assets that are held and used for a taxable purpose. In the present case, it is accepted that the nature of the assets and the context of their use would require them to be regularly replaced. While records of individual plant items were not kept, it is reasonable to conclude that none of the items initially purchased are still held because of the passage of time and of their nature and use. A deduction under Division 40 of the ITAA 1997 would not, therefore, be available because the assets are no longer held. It follows that they also could not be used for a taxable purpose.
 In any event, when a taxpayer adopted the replacement basis in order to claim an immediate deduction for the cost of replacement plant an essential element of the practice was to treat the plant initially purchased as not depreciable. In effect, the taxpayer relinquished any entitlement to depreciation deductions in respect of the plant initially purchased when the replacement basis was adopted. Accordingly, there is no entitlement to claim a deduction for the decline in value of the plant initially purchased by reference to its purchase price.
 Due to the passage of time, it is also considered impractical and inappropriate to amend all of the taxpayer's income tax assessments, where this is otherwise available under the law, since the inception of the business to allow a depreciation deduction in respect of the cost of the plant initially purchased. This would also require the disallowance of all the immediate deductions allowed for the replacement items and substituting a depreciation deduction based on the effective lives of those replacement items.
-Date of decision:
-  14 October 2002
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 40   Subsection 40-80(2)   Subdivision 40-E   Division 42   Subdivision 42-M   Subdivision 328-D
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2685
-Taxation Ruling TR 2000/18
-
-Keywords
-
-Effective life
- Depreciable plant & articles
- Capital Allowances CoE
-
-Siebel/TDMS Reference Number:
-  CW3148909
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 March 2003
-
-ISSN:
- 1445-2782
+Date of decision: 14 October 2002 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Division 40 Subsection 40-80(2) Subdivision 40-E Division 42 Subdivision 42-M Subdivision 328-D Related Public Rulings (including Determinations) Taxation Ruling IT 2685
+Taxation Ruling TR 2000/18 Keywords Effective life Depreciable plant & articles Capital Allowances CoE Siebel/TDMS Reference Number: CW3148909 Business Line: Public Groups and International Date of publication: 28 March 2003 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/169
-==================================================
-
-Income Tax
- Capital Allowances: depreciating asset - rights under the law of a foreign country in respect of a licence to exploit a patented invention
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: depreciating asset - rights under the law of a foreign country in respect of a licence to exploit a patented invention FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the rights that company A has the benefit of under the law of a foreign country in respect of a licence to exploit a patented invention 'intellectual property' as defined in subsection 995-1(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The rights that company A has the benefit of under the law of a foreign country in respect of a licence to exploit a patented invention are 'intellectual property' as defined in subsection 995-1(1) of the ITAA 1997.
@@ -22,67 +11,16 @@ The rights company A has the benefit of under the law of a foreign country in re
 Reasons for Decision
 To work out a balancing adjustment amount under section 40-285 of the ITAA 1997, a depreciating asset for which the balancing adjustment event occurred needs to be identified.
 Paragraph 40-30(2)(c) of the ITAA 1997 provides that items of intellectual property are depreciating assets provided they are not trading stock.
-Intellectual property is defined in subsection 995-1(1) of the ITAA 1997. The definition states:
-
-...an item of intellectual property consists of the rights (including equitable rights) that an entity holds under a Commonwealth law as:
-
-(a)the patentee, or a licensee, of a patent; or
+Intellectual property is defined in subsection 995-1(1) of the ITAA 1997. The definition states: ...an item of intellectual property consists of the rights (including equitable rights) that an entity holds under a Commonwealth law as: (a)the patentee, or a licensee, of a patent; or
 (b)the owner, or a licensee, of a registered design; or
-(c)the owner, or a licensee, of a copyright;
-
-or of equivalent rights under a foreign law.
-
-Under this definition, rights under a foreign law will constitute an item of intellectual property if they are equivalent to rights (including equitable rights) that an entity holds as the patentee or a licensee of a patent under an act of an Australian Parliament.
-The definition of 'intellectual property' in subsection 995-1(1) of the ITAA 1997 is a rewrite of the definition of 'unit of industrial property' contained in former subsection 124K(1) of the Income Tax assessment Act 1936 (ITAA 1936). Under the former subsection 124K(1) of the ITAA 1936, a 'unit of industrial property' was defined as:
-
-(a)rights possessed by a person under a law of Australia as:
-
-(i)the grantee or proprietor of a patent for an invention; or
+(c)the owner, or a licensee, of a copyright; or of equivalent rights under a foreign law. Under this definition, rights under a foreign law will constitute an item of intellectual property if they are equivalent to rights (including equitable rights) that an entity holds as the patentee or a licensee of a patent under an act of an Australian Parliament.
+The definition of 'intellectual property' in subsection 995-1(1) of the ITAA 1997 is a rewrite of the definition of 'unit of industrial property' contained in former subsection 124K(1) of the Income Tax assessment Act 1936 (ITAA 1936). Under the former subsection 124K(1) of the ITAA 1936, a 'unit of industrial property' was defined as: (a)rights possessed by a person under a law of Australia as: (i)the grantee or proprietor of a patent for an invention; or
 (ii)the owner of a copyright; or
 (iii)the owner of a registered design; or
-(iv)a licensee under such a patent, copyright or design;and includes equitable rights in respect of such a patent, copyright or design or in respect of a licence under such a patent, copyright or design; or
-
-(b)rights possessed by a person under a law of a foreign country that are equivalent to the rights referred to in paragraph (a).
-
-Under the Patents Act 1990, a patent confers exclusive rights on the proprietor to prevent others from exploiting the invention subject to the patent. On the other hand, the right of a licensee to exploit a patented invention is not generally determined under the Patents Act but from the terms and conditions expressed or implied in each licence.
+(iv)a licensee under such a patent, copyright or design;and includes equitable rights in respect of such a patent, copyright or design or in respect of a licence under such a patent, copyright or design; or (b)rights possessed by a person under a law of a foreign country that are equivalent to the rights referred to in paragraph (a). Under the Patents Act 1990, a patent confers exclusive rights on the proprietor to prevent others from exploiting the invention subject to the patent. On the other hand, the right of a licensee to exploit a patented invention is not generally determined under the Patents Act but from the terms and conditions expressed or implied in each licence.
 However, where a patent owner enters into a specifically enforceable contract to grant a licence in a patent to a licensee, an equitable interest is created. Pending payment of the licence fee, the licensee in the patent has an equitable interest in the patent which reflects the extent to which equitable remedies are available to protect his contractual rights and the vendor is under obligations in equity which attach to the patent (see commentary on equitable interests in Kern Corp Ltd v. Walter Reid Trading Pty Ltd (1987) 163 CLR 164 at 191-192 and Stern v. McArthur (1988) 165 CLR 489 at 521-522)). Consequentially, a licensee of a patent has equitable rights in respect of the licence in the patent which qualify as 'a unit of industrial property' as defined in former subsection 124K(1) of the ITAA 1936.
 The words in the definition of intellectual property contained in ITAA 1997 have expressed the same idea in a different form of words to those contained in the definition of 'unit of industrial property' in subsection 124K(1) of the ITAA 1936. In this regard, the ideas are not different just because different forms of words were used (subsection 1-3(2) of the ITAA 1997).
 In this case, the rights company A has the benefit of under foreign law in respect of the licence are similar to the rights that would have been available to it in Australia for such an agreement between an Australian licensee and a non-resident patentee.
 Therefore, the equitable rights enjoyed by company A under the licence in the foreign jurisdiction are 'intellectual property' under the definition in subsection 995-1(1) of the ITAA 1997.
-Date of decision:
-  30 May 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 124K(1)
-Income Tax Assessment Act 1997   subsection 1-3(2)   subsection 40-30(1)   subsection 40-30(2)   paragraph 40-30(2)(c)   section 40-285   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/493
- ATO ID 2006/167
- ATO ID 2006/168
-
-Keywords
-
-Balancing adjustment event
- Balancing adjustments
- Depreciating assets
- Intellectual property rights
- Patents
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  5122547
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 July 2006
-
-ISSN:
- 1445-2782
+Date of decision: 30 May 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 subsection 124K(1)
+Income Tax Assessment Act 1997 subsection 1-3(2) subsection 40-30(1) subsection 40-30(2) paragraph 40-30(2)(c) section 40-285 subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2004/493 ATO ID 2006/167 ATO ID 2006/168 Keywords Balancing adjustment event Balancing adjustments Depreciating assets Intellectual property rights Patents Uniform capital allowances system Siebel/TDMS Reference Number: 5122547 Business Line: Public Groups and International Date of publication: 7 July 2006 ISSN: 1445-2782

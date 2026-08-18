@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/78
-==================================================
-
-Goods and Services Tax
- GST and input tax credits for payment of superannuation supervisory levy
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and input tax credits for payment of superannuation supervisory levy FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a trustee of a superannuation fund, entitled to an input tax credit (reduced or otherwise) under Division 11 or Division 70 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it pays the annual superannuation supervisory levy?
 Decision
 No, the entity is not entitled to an input tax credit (reduced or otherwise) under section Division 11 or Division 70 of the GST Act when it pays the annual superannuation supervisory levy.
@@ -26,34 +15,5 @@ Subsection 81-5(2) of the GST Act provides that the payment of any Australian ta
 When the entity pays the superannuation supervisory levy, the entity is making a payment of an Australian tax, fee or charge, as the entity is paying a fee imposed under an Australian law and payable to an Australian government agency (section 195-1 of the GST Act).
 The superannuation supervisory levy is listed at item 14.22 in the table in part 1 (Commonwealth) of Schedule 1 of the A New Tax System (Goods and Services Tax) (Exempt Taxes Fees and Charges) Determination 2008 (No. 1).
 As such, the payment of the superannuation supervisory levy does not represent the provision of consideration for a supply due to the operation of subsection 81-5(2) of the GST Act. Therefore, the entity is not providing, nor is the entity liable to provide consideration for a supply. The entity is not making a creditable acquisition under section 11-5 of the GST, and is therefore not entitled to any amount of input tax credit under Division 11 or Division 70 of the GST Act when it pays the superannuation supervisory levy.
-Date of decision:
-  30 August 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 11   section 11-5   paragraph 11-5(c)   section 11-20   Division 70   subsection 81-5(2)   section 195-1
-Superannuation Industry (Supervision) Act 1993   The Act
-
-Other References:
-
-A New Tax System (Goods and Services Tax) (Exempt Taxes Fees and Charges) Determination 2008 (No. 1) Schedule 1 Part 1 table item 14.22
-
-Keywords
-
-Goods & services tax
- Reduced credit acquisitions
- Input taxed supplies
- GST financial supplies
- Creditable acquisition
-
-Siebel/TDMS Reference Number:
-  CW233101
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  25 January 2002
-
-ISSN:
- 1445-2782
+Date of decision: 30 August 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 11 section 11-5 paragraph 11-5(c) section 11-20 Division 70 subsection 81-5(2) section 195-1
+Superannuation Industry (Supervision) Act 1993 The Act Other References: A New Tax System (Goods and Services Tax) (Exempt Taxes Fees and Charges) Determination 2008 (No. 1) Schedule 1 Part 1 table item 14.22 Keywords Goods & services tax Reduced credit acquisitions Input taxed supplies GST financial supplies Creditable acquisition Siebel/TDMS Reference Number: CW233101 Business Line: Indirect Tax Date of publication: 25 January 2002 ISSN: 1445-2782

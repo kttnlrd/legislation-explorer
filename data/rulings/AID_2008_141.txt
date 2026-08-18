@@ -1,29 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2008/141
-==================================================
-
-Income Tax
- Division 719: MEC Groups - Special Conversion Event
- FOI status: may be released
-
-This ATO ID has been withdrawn as the legislation has been amended by Tax Laws Amendment (2010 Measures No. 1) Act 2010 (No. 56 of 2010) (schedule 5, Part 2, item 13). Paragraph 719-65 (3)(d) of the Income Tax Assessment Act 1997 no longer requires that the company appointed as the replacement provisional head company (PHC) to have been a member of the MEC group since the start of the income year of the former PHC. Instead, the company need only be a member of the MEC group from the day that group is created from a consolidated group. The amendment has effect from 1 July 2002.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Division 719: MEC Groups - Special Conversion Event FOI status: may be released This ATO ID has been withdrawn as the legislation has been amended by Tax Laws Amendment (2010 Measures No. 1) Act 2010 (No. 56 of 2010) (schedule 5, Part 2, item 13). Paragraph 719-65 (3)(d) of the Income Tax Assessment Act 1997 no longer requires that the company appointed as the replacement provisional head company (PHC) to have been a member of the MEC group since the start of the income year of the former PHC. Instead, the company need only be a member of the MEC group from the day that group is created from a consolidated group. The amendment has effect from 1 July 2002. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where, in an income year, a cessation event happens to the provisional head company (PHC) of a multiple entry consolidated (MEC) group which came into existence as a result of a special conversion event (SCE) earlier in the same income year, can any eligible tier-1 company member of the group satisfy the requirements in paragraphs 719-65(3)(d) and 719-65(3)(e) of the Income Tax Assessment Act 1997 (ITAA 1997) to be a replacement PHC?
 Decision
-No. The requirements in paragraphs 719-65(3)(d) and 719-65(3)(e) of the ITAA 1997 that the company appointed as the replacement PHC must have been a member of the MEC group since the start of the income year of the former PHC, cannot be met by any member of the MEC group. The earliest that any company becomes a member of the MEC group is when the SCE happens. No company could have been a member of the MEC group since the start of the former PHC's income year if the SCE happens later during that income year.
-
-Note: as no company qualifies to replace the former PHC, the MEC group will cease to exist.
-
-Facts
+No. The requirements in paragraphs 719-65(3)(d) and 719-65(3)(e) of the ITAA 1997 that the company appointed as the replacement PHC must have been a member of the MEC group since the start of the income year of the former PHC, cannot be met by any member of the MEC group. The earliest that any company becomes a member of the MEC group is when the SCE happens. No company could have been a member of the MEC group since the start of the former PHC's income year if the SCE happens later during that income year. Note: as no company qualifies to replace the former PHC, the MEC group will cease to exist. Facts
 On 1 July 2004, A Co and B Co are the head companies of two separate consolidated groups (CG1 and CG2 respectively).
 CG1 and CG2 are both foreign-held groups, and are also potential MEC groups.
 A Co is an eligible tier-1 company of the potential MEC group of which X Co is the top company.
@@ -44,55 +25,8 @@ B Co and C Co are both eligible tier-1 companies of X Co and no membership inter
 However, the start of the income year of A Co in which the cessation event happens is 1 July 2004. Neither B Co, nor C Co, is eligible to be a replacement PHC unless either company has been a member of MEC1 since that time.
 B Co and C Co have only been members of MEC1 since 1 January 2005, when the group came into existence. Therefore, neither company is eligible to be the replacement PHC of the MEC group at the time of A Co's cessation event.
 As neither of the remaining eligible tier-1 companies is eligible to be a replacement PHC, the MEC1 group will cease to exist when the cessation event happens to A Co (subsection 719-5(7) of the ITAA 1997).
-Date of decision:
-  18 September 2008
-
-Year of income:
-  Year ended 31 May 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 18
-Income Tax Assessment Act 1997   subsection 4-10(2)   subsection 719-5(7)   subsection 719-65(1)   paragraph 719-65(3)(d)   paragraph 719-65(3)(e)   section 995-1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/145
- ATO ID 2006/146
-
-Keywords
-
-Consolidation
- Consolidation - multiple entry consolidated group
- Eligible tier-1 company
- Foreign holding company
- Foreign-owned group
- Potential MEC group
- Special conversion event
- Subsidiary member of a MEC group
- Top company
-
-Business Line:
-  Consolidations Centre of Expertise
-
-Date of publication:
-  31 October 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-18 September 2008
-Original statement
-
-You are here
+Date of decision: 18 September 2008 Year of income: Year ended 31 May 2008 Legislative References: Income Tax Assessment Act 1936 section 18
+Income Tax Assessment Act 1997 subsection 4-10(2) subsection 719-5(7) subsection 719-65(1) paragraph 719-65(3)(d) paragraph 719-65(3)(e) section 995-1 Related ATO Interpretative Decisions ATO ID 2006/145 ATO ID 2006/146 Keywords Consolidation Consolidation - multiple entry consolidated group Eligible tier-1 company Foreign holding company Foreign-owned group Potential MEC group Special conversion event Subsidiary member of a MEC group Top company Business Line: Consolidations Centre of Expertise Date of publication: 31 October 2008 ISSN: 1445-2782 history Date: Version: 18 September 2008
+Original statement You are here
 18 June 2010
 Archived

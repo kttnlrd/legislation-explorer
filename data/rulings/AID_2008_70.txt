@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/70
-==================================================
-
-Income Tax
- Offshore Banking Units: Application of paragraph 128AE(2)(d) to the head company of a consolidated group
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Offshore Banking Units: Application of paragraph 128AE(2)(d) to the head company of a consolidated group FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the head company of a consolidated group, which is treated as if it were a life insurance company pursuant to section 713-505 of the Income Tax Assessment Act 1997 (ITAA 1997), eligible to be declared to be an offshore banking unit (OBU) under paragraph 128AE(2)(d) of Division 11A of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The head company of a consolidated group, which is treated as if it were a life insurance company pursuant to section 713-505 of the ITAA 1997, is not eligible to be declared to be an OBU under paragraph 128AE(2)(d) of Division 11A of the ITAA 1936.
@@ -23,82 +10,15 @@ H Co is the head company of a consolidated group.
 H Co is not a life insurance company registered under the Life Insurance Act 1995.
 Sub Co, which is a subsidiary member of the consolidated group, is a life insurance company registered under the Life Insurance Act.
 Reasons for Decision
-Section 713-505 of the ITAA 1997 provides that:
-
-This Act, and the Income Tax Rates Act 1986, apply to the *head company of a *consolidated group as if it were a *life insurance company for an income year if one or more life insurance companies are *subsidiary members of the group at any time during that year.
-
-* denotes a term defined in section 995-1 of the ITAA 1997
-
-Section 713-505 of the ITAA 1997 applies to H Co (as head company of the consolidated group) because Sub Co (being a subsidiary member of the consolidated group) is a life insurance company.
-Paragraph 128AE (2)(d) of Division 11A of the ITAA 1936 provides that:
-
-The Treasurer may, by notice published in the Gazette, declare a person being:
-
-...
-
-(d) a life insurance company registered under the Life Insurance Act 1995; ...
-
-to be an offshore banking unit for the purposes of this Division.
-
-Paragraph 128AE(2)(d) of the ITAA 1936 expressly requires that the relevant person must actually be a life insurance company registered under the Life Insurance Act to be eligible for declaration as an OBU.
+Section 713-505 of the ITAA 1997 provides that: This Act, and the Income Tax Rates Act 1986, apply to the *head company of a *consolidated group as if it were a *life insurance company for an income year if one or more life insurance companies are *subsidiary members of the group at any time during that year. * denotes a term defined in section 995-1 of the ITAA 1997 Section 713-505 of the ITAA 1997 applies to H Co (as head company of the consolidated group) because Sub Co (being a subsidiary member of the consolidated group) is a life insurance company.
+Paragraph 128AE (2)(d) of Division 11A of the ITAA 1936 provides that: The Treasurer may, by notice published in the Gazette, declare a person being: ... (d) a life insurance company registered under the Life Insurance Act 1995; ... to be an offshore banking unit for the purposes of this Division. Paragraph 128AE(2)(d) of the ITAA 1936 expressly requires that the relevant person must actually be a life insurance company registered under the Life Insurance Act to be eligible for declaration as an OBU.
 H Co does not satisfy the requirements of paragraph 128AE(2)(d) of the ITAA 1936 as it is not a life insurance company registered under the Life Insurance Act. Therefore H Co is not eligible for declaration as an OBU pursuant to paragraph 128AE(2)(d).
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-12 October 2021
+Comment 12 October 2021
 Reasons for Decision
-Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
-
- Date of effect 13 September 2021
-
-Date of decision:
-  7 May 2008
-
-Year of income:
-  Year ending 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 713-505
-Income Tax Assessment Act 1936   Paragraph 128AE(2)(d)
-
-Keywords
-
-Consolidation
- Head company
- Life insurance company
- Offshore banking units
-
-Siebel/TDMS Reference Number:
-  5959014
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  16 May 2008
-
-Date reviewed:
-  12 October 2021
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 7 May 2008
-Original statement
-
-You are here
+Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs. Date of effect 13 September 2021 Date of decision: 7 May 2008 Year of income: Year ending 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 713-505
+Income Tax Assessment Act 1936 Paragraph 128AE(2)(d) Keywords Consolidation Head company Life insurance company Offshore banking units Siebel/TDMS Reference Number: 5959014 Business Line: International Centre of Expertise Date of publication: 16 May 2008 Date reviewed: 12 October 2021 ISSN: 1445-2782 history Date: Version: 7 May 2008
+Original statement You are here
 12 October 2021
 Updated statement

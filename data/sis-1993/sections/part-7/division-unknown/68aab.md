@@ -127,7 +127,7 @@ accounts
 > <a id="s68AAB-6-b"></a>
 > **(b)**  that fixed term begins before the time at which a trustee of the fund is required under subsection (1) to ensure that a benefit is not provided to, or in respect of, the member under a choice product or MySuper product held by the member by taking out or maintaining insurance. 68AAC Benefits provided by taking out insurance—members under 25 years old
 
-<a id="s68AAB-1"></a>
+<a id="s68AAB-1-2"></a>
 **(1)**  Each trustee of a regulated superannuation fund must ensure that a benefit is not provided by the fund to, or in respect of, a member of the fund under a choice product or MySuper product held by the member by taking out or maintaining insurance if:
 
 ---

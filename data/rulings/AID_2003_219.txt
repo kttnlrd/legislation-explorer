@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/219
-==================================================
-
-Income Tax
- Capital Allowances: termination value - amalgamation of incorporated associations
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: termination value - amalgamation of incorporated associations FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the amount taken to have been received under Item 1 of the table in paragraph 40-305(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) nil if, on the amalgamation of two existing incorporated associations into one new incorporated association under the Associations Incorporation Act 1981 (Qld) (AIA (Qld)), no amount is received by the existing associations for transferring their assets to the new association?
 Decision
 Yes. The amount taken to have been received under Item 1 of the table in paragraph 40-305(1)(b) of the ITAA 1997 on the amalgamation of the existing associations is nil if no amount is received by them for the transfer of their depreciating assets. However, other items in the table in paragraph 40-305(1)(b) of the ITAA 1997 may also apply.
@@ -28,40 +17,5 @@ The termination value of a depreciating asset under a balancing adjustment event
 As no item in the table in subsection 40-300(2) of the ITAA 1997 applies, the termination value is worked out under section 40-305 of the ITAA 1997. The termination value under section 40-305 of the ITAA 1997 is taken to be the greater of the sum of the applicable amounts set out in paragraphs 40-305(1)(a) or (b) of the ITAA 1997. Item 1 of the table in paragraph 40-305(1)(b) of the ITAA 1997 includes in termination value an amount received under a balancing adjustment event.
 Section 86 of the AIA (Qld) provides that upon the incorporation of a new association as a result of an amalgamation of old associations, the assets and liabilities of the old associations become the assets and liabilities of the new association. This means that no amount is received by A and B for the transfer of their depreciating assets to C.
 As no amount is received under the balancing adjustment event, the termination value under Item 1 of paragraph 40-305(1)(b) of the ITAA 1997 is nil. However, Item 2 of the table in paragraph 40-305(1)(b) of the ITAA 1997 may also apply.
-Date of decision:
-  20 December 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   paragraph 40-295(1)(a)   section 40-300   subsection 40-300(1)   subsection 40-300(2)   section 40-305   paragraph 40-305(1)(a)   paragraph 40-305(1)(b)
-Associations Incorporation Act 1981(Qld)   Part 9, Division 2   section 79   section 86
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/1016
- ATO ID 2003/218
- ATO ID 2003/220
- ATO ID 2003/221
-
-Keywords
-
-Balancing adjustment event
- Capital allowances CoE
- Depreciating assets
- Termination value
- Uniform capital allowance system
-
-Siebel/TDMS Reference Number:
-  447777
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 April 2003
-
-ISSN:
- 1445-2782
+Date of decision: 20 December 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 paragraph 40-295(1)(a) section 40-300 subsection 40-300(1) subsection 40-300(2) section 40-305 paragraph 40-305(1)(a) paragraph 40-305(1)(b)
+Associations Incorporation Act 1981(Qld) Part 9, Division 2 section 79 section 86 Related ATO Interpretative Decisions ATO ID 2002/1016 ATO ID 2003/218 ATO ID 2003/220 ATO ID 2003/221 Keywords Balancing adjustment event Capital allowances CoE Depreciating assets Termination value Uniform capital allowance system Siebel/TDMS Reference Number: 447777 Business Line: Public Groups and International Date of publication: 4 April 2003 ISSN: 1445-2782

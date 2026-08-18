@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/162
-==================================================
-
-Income Tax
- Public Trading Trust - meaning of control
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Public Trading Trust - meaning of control FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the power of veto give a trustee control or the ability to control, directly or indirectly, the affairs or operations of another person in respect of the carrying on by that other person of a trading business for the purpose of paragraph 102N(b) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The power of veto does give a trustee control or the ability to control, directly or indirectly, the affairs or operations of another person in respect of the carrying on by that other person of a trading business for the purpose of paragraph 102N(b) of the ITAA 1936.
@@ -23,62 +12,11 @@ The private company was carrying on a trading business.
 Under an agreement between the shareholders of the private company, written consent must be obtained from the trustee before the company can take certain actions in relation to the business. In particular, the trustee's consent is necessary for any decision which will change how the company operates it's business.
 The agreement takes precedence over the company's constitution in the event of any inconsistency.
 Reasons for Decision
-Paragraph 102N(b) of the ITAA 1936 provides that:
-
-For the purposes of this Division, a unit trust is a trading trust in relation to a year of income if, at any time during the year of income, the trustee:
-
-...; or
-
-controlled, or was able to control, directly or indirectly, the affairs or operations of another person in respect of the carrying on by that other person of a trading business.
-
-There is no definition of the terms 'controlled' or 'able to control' in Division 6C of the ITAA 1936.
+Paragraph 102N(b) of the ITAA 1936 provides that: For the purposes of this Division, a unit trust is a trading trust in relation to a year of income if, at any time during the year of income, the trustee: ...; or controlled, or was able to control, directly or indirectly, the affairs or operations of another person in respect of the carrying on by that other person of a trading business. There is no definition of the terms 'controlled' or 'able to control' in Division 6C of the ITAA 1936.
 The Macquarie Dictionary, Revised 3rd Edition, 2001, defines 'control' as '1. to exercise restraint or direction over; dominate, command. 2. to hold in check; curb'.
-In Re Application of News Corp Ltd (1987) 15 FCR 227 the Federal Court was concerned with the meaning of the phrase 'being in a position to exercise control directly or indirectly of a company' for the purposes of subsections 90G(1) and 92D(1) of the Broadcasting and Television Act 1942. Bowen CJ, with whom Lockhart J agreed, said (at FCR 242-3)
-
-It was argued that a power of veto does not constitute control in the relevant sense. Control, it was said, exists only where there is a power to get one's own will. I do not agree that the concept of control is so limited. The Oxford English Dictionary defines "control" as to "exercise restraint or direction". A power to veto is a power to restrain, and hence control.
-
-In this case, the agreement effectively gives the trustee the power of veto over decisions in relation to the operation of the company's business. This is a power to restrain and comes within the ordinary meaning of 'control'.
+In Re Application of News Corp Ltd (1987) 15 FCR 227 the Federal Court was concerned with the meaning of the phrase 'being in a position to exercise control directly or indirectly of a company' for the purposes of subsections 90G(1) and 92D(1) of the Broadcasting and Television Act 1942. Bowen CJ, with whom Lockhart J agreed, said (at FCR 242-3) It was argued that a power of veto does not constitute control in the relevant sense. Control, it was said, exists only where there is a power to get one's own will. I do not agree that the concept of control is so limited. The Oxford English Dictionary defines "control" as to "exercise restraint or direction". A power to veto is a power to restrain, and hence control. In this case, the agreement effectively gives the trustee the power of veto over decisions in relation to the operation of the company's business. This is a power to restrain and comes within the ordinary meaning of 'control'.
 Paragraph 102N(b) of the ITAA 1936 requires control '...in respect of the carrying on by that other person of a trading business'
 Normally the carrying on of a company's business is controlled by the directors (Federal Commissioner of Taxation v. Commonwealth Aluminium Corp Ltd (1980) 143 CLR 646; 80 ATC 4371; (1980) 11 ATR 42).
 However, the agreement takes precedence over the constitution of the company and requires that the directors must obtain the approval of the taxpayer before making key decisions in relation to the operation of the business. In these circumstances the taxpayer has control in respect of the carrying on, by the company, of their business for the purposes of paragraph 102N(b) of the ITAA 1936.
-Date of decision:
-  20 February 2003
-
-Year of income:
-  Year ended 30 June 2001 Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   paragraph 102N(b)   Division 6C
-Broadcasting and Television Act 1942   subsection 90G(1)   subsection 92D(1)
-
-Case References:
-
-Re Application of News Corp Ltd   (1987) 15 FCR 227
-
-Federal Commissioner of Taxation v. Commonwealth Aluminium Corp Ltd   (1980) 143 CLR 646   80 ATC 4371    (1980)11 ATR 42
-
-Other References:
-
-Macquarie Dictionary, Revised 3rd Edition, 2001
-
-Keywords
-
-Eligible investment business
- Entities & taxpayer groups
- Public trading trusts
- Trading trusts
- Trusts
- Unit trusts
-
-Siebel/TDMS Reference Number:
-  3409405
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 March 2003
-
-ISSN:
- 1445-2782
+Date of decision: 20 February 2003 Year of income: Year ended 30 June 2001 Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 paragraph 102N(b) Division 6C
+Broadcasting and Television Act 1942 subsection 90G(1) subsection 92D(1) Case References: Re Application of News Corp Ltd (1987) 15 FCR 227 Federal Commissioner of Taxation v. Commonwealth Aluminium Corp Ltd (1980) 143 CLR 646 80 ATC 4371 (1980)11 ATR 42 Other References: Macquarie Dictionary, Revised 3rd Edition, 2001 Keywords Eligible investment business Entities & taxpayer groups Public trading trusts Trading trusts Trusts Unit trusts Siebel/TDMS Reference Number: 3409405 Business Line: Public Groups and International Date of publication: 28 March 2003 ISSN: 1445-2782

@@ -1,95 +1,23 @@
 ATO Interpretative Decision
 ATO ID 2004/394
-==================================================
-
-Income Tax
- Capital gains tax: CGT event E2 - same beneficiary exception
- FOI status: may be released
-
-This ATO ID has been withdrawn as the ATO view on this matter now appears in Taxation Ruling TR 2005/D15
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: CGT event E2 - same beneficiary exception FOI status: may be released This ATO ID has been withdrawn as the ATO view on this matter now appears in Taxation Ruling TR 2005/D15 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the exception to CGT event E2 in paragraph 104-60(5)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) apply, if an asset is transferred from one trust to another trust and the ultimate beneficiaries of both trusts are the same, but their direct beneficiaries are different?
 Decision
 No. For the exception in paragraph 104-60(5)(b) of the ITAA 1997 to apply, the direct beneficiaries of both trusts must be the same.
 Facts
-Each trust in the following trust structure is a fixed trust and the terms of all trusts are the same. X Co is the trustee of both Trust A and Trust B. The beneficiaries of Head Trust are individuals.
-
-An arrangement is proposed under which the assets of Trust A are to be transferred to Head Trust and the assets of Trust 1 are to be transferred to Trust 2.
+Each trust in the following trust structure is a fixed trust and the terms of all trusts are the same. X Co is the trustee of both Trust A and Trust B. The beneficiaries of Head Trust are individuals. An arrangement is proposed under which the assets of Trust A are to be transferred to Head Trust and the assets of Trust 1 are to be transferred to Trust 2.
 The trustee of Trust A considers that the exception in paragraph 104-60(5)(b) of the ITAA 1997 will apply, because the ultimate beneficiaries of Trust A and Head Trust are the same individuals. The trustee of Trust 1 also considers that the exception will apply because X Co is the beneficiary of both Trust 1 and Trust 2.
 Reasons for Decision
 CGT event E2 in section 104-60 of the ITAA 1997 happens if an asset is transferred from one trust to another trust. However paragraph 104-60(5)(b) provides that CGT event E2 does not happen if the beneficiaries and terms of both trusts are the same.
 The term 'beneficiary' is not defined for the purposes of paragraph 104-60(5)(b) of the ITAA 1997 and must be construed having regard to its general meaning and the context in which it is used.
 A beneficiary is a person who is entitled to enforce the trust against the trustee. That is, a person with a right to see that the trust is administered in accordance with its terms and to bring an action against the trustee for a breach of trust if it is not. That person is usually the direct beneficiary, rather than the ultimate beneficiary.
-Jacobs' Law of Trusts in Australia, 6th edn, Butterworths, Australia, at p. 699 in discussing the rule in Saunders v. Vautier (1841) Cr & Ph 240; 49 ER 282 says:
-
-A sub-trust will arise if A, a beneficiary under a trust, declares himself trustee of it for B under a trust imposing active duties on A; the head trustee will owe his duties to A who will continue to hold a beneficial interest and A will owe distinct duties to B who will also acquire a beneficial interest. Even if B's interest be vested absolutely and B be sui juris, there will not be between B and the head trustee the precise co-incidence of right and duty necessary to B to invoke the rule in Saunders v. Vautier and require a conveyance of the legal title to him.
-
-In the context of the ITAA, where a provision is intended to apply to ultimate beneficiaries or owners, this is generally done so specifically, and tracing rules are provided. See for example:
-
-• the trust loss rules in Schedule 2F to the Income Tax Assessment Act 1936, and
-• the definition of 'ultimate owner' in subsection 149-15(3) of the ITAA 1997, also picked up in the value shifting provisions in section 727-410 of the ITAA 1997.
-
-Paragraph 104-60(5)(b) of the ITAA 1997 does not refer to an 'ultimate' beneficiary or make reference to tracing through one or more interposed entities.
+Jacobs' Law of Trusts in Australia, 6th edn, Butterworths, Australia, at p. 699 in discussing the rule in Saunders v. Vautier (1841) Cr & Ph 240; 49 ER 282 says: A sub-trust will arise if A, a beneficiary under a trust, declares himself trustee of it for B under a trust imposing active duties on A; the head trustee will owe his duties to A who will continue to hold a beneficial interest and A will owe distinct duties to B who will also acquire a beneficial interest. Even if B's interest be vested absolutely and B be sui juris, there will not be between B and the head trustee the precise co-incidence of right and duty necessary to B to invoke the rule in Saunders v. Vautier and require a conveyance of the legal title to him. In the context of the ITAA, where a provision is intended to apply to ultimate beneficiaries or owners, this is generally done so specifically, and tracing rules are provided. See for example: • the trust loss rules in Schedule 2F to the Income Tax Assessment Act 1936, and
+• the definition of 'ultimate owner' in subsection 149-15(3) of the ITAA 1997, also picked up in the value shifting provisions in section 727-410 of the ITAA 1997. Paragraph 104-60(5)(b) of the ITAA 1997 does not refer to an 'ultimate' beneficiary or make reference to tracing through one or more interposed entities.
 Accordingly, having regard to the general meaning of beneficiary and the context in which the term is used in paragraph 104-60(5)(b) of the ITAA 1997, the term refers only to a direct beneficiary. Therefore, the exception to CGT event E2 will not apply to the transfer of assets from Trust A to Head Trust because, even though the ultimate beneficiaries of both trusts are the same (that is, the individual beneficiaries of Head Trust), their direct beneficiaries are different (that is, the beneficiary of Trust A is the trustee of Head Trust and the beneficiaries of Head Trust are individuals).
 The exception to CGT event E2 also does not apply to the transfer of assets from Trust 1 to Trust 2. Again, the ultimate beneficiaries of both trusts are the same (that is the individual beneficiaries of Head Trust) but their direct beneficiaries are different (that is, the beneficiary of Trust 1 is X Co as trustee of Trust A and the beneficiary of Trust 2 is X Co as trustee of Trust B). Although X Co is the beneficiary of both Trust 1 and Trust 2, X Co is acting in a different capacity in respect of each trust. Subsection 960-100(3) of the ITAA 1997 provides that in each capacity in which a person does things, the person is taken to be a different entity for tax purposes.
-Date of decision:
-  20 April 2004
-
-Year of income:
-  Year ending 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2F
-Income Tax Assessment Act 1997   section 104-60   paragraph 104-60(5)(b)   subsection 149-15(3)   section 727-410   subsection 960-100(3)
-
-Case References:
-
-Saunders v. Vautier   (1841) Cr & Ph 240   (1841) 49 ER 282
-
-Other References:
-
-Jacobs' Law of Trusts in Australia 6th edn, Butterworths, Australia
-
-Keywords
-
-capital gains tax
- CGT events E1-E9 - trusts
- trust beneficiaries
- trustees
- trusts
- ultimate beneficiary
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  7 May 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 April 2004
-Original statement
-
-You are here
+Date of decision: 20 April 2004 Year of income: Year ending 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Schedule 2F
+Income Tax Assessment Act 1997 section 104-60 paragraph 104-60(5)(b) subsection 149-15(3) section 727-410 subsection 960-100(3) Case References: Saunders v. Vautier (1841) Cr & Ph 240 (1841) 49 ER 282 Other References: Jacobs' Law of Trusts in Australia 6th edn, Butterworths, Australia Keywords capital gains tax CGT events E1-E9 - trusts trust beneficiaries trustees trusts ultimate beneficiary Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 7 May 2004 ISSN: 1445-2782 history Date: Version: 20 April 2004
+Original statement You are here
 28 September 2005
 Archived

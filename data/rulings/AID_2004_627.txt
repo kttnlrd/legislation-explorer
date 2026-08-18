@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/627
-==================================================
-
-Income Tax
- Interest on debentures issued by a limited partnership and the definition of a 'company' for the purposes of the interest withholding tax exemption
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest on debentures issued by a limited partnership and the definition of a 'company' for the purposes of the interest withholding tax exemption FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a limited partnership that is also a 'corporate limited partnership' satisfy the definition of 'company' for the purposes of the interest withholding tax exemption in subsection 128F(2) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. A limited partnership that is also a 'corporate limited partnership' satisfies the definition of 'company' for the purposes of the interest withholding tax exemption in subsection 128F(2) of the ITAA 1936.
@@ -22,9 +11,7 @@ LP proposes to raise funds by issuing certain debentures offshore and has reques
 It is assumed for present purposes that apart from the question whether LP is a 'company' for the purposes of subsection 128F(2) of the ITAA 1936, all other relevant requirements for the exemption will be met.
 Reasons for Decision
 Subsection 128F(2) of the ITAA 1936 exempts from withholding tax the interest paid in respect of certain publicly offered debentures. One of the conditions of the exemption is that the interest is paid by a 'company' (subsections 128F(1) and 128F(1A)).
-In ITAA 1936, unless the contrary intention appears, 'company includes all bodies or associations corporate or unincorporated,
- but does not include partnerships
- or non-entity joint ventures' (emphasis added) (subsection 6(1) of the ITAA 1936.)
+In ITAA 1936, unless the contrary intention appears, 'company includes all bodies or associations corporate or unincorporated, but does not include partnerships or non-entity joint ventures' (emphasis added) (subsection 6(1) of the ITAA 1936.)
 In ITAA 1936, unless the contrary intention appears, 'partnership' means 'an association of persons carrying business as partners, or in receipt of income jointly, but does not include a company'; and 'limited partnership' means 'a partnership where the liability of at least one of the partners is limited'.
 In terms of these definitions LP would apart from section 94K of the ITAA 1936 (see below) be both a 'partnership' and a 'limited partnership', not a 'company'.
 However Division 5A of the ITAA 1936 modifies these definitions by extending the definition of company to include certain limited partnerships. The object of the Division is, indeed, to provide for certain limited partnerships to be treated as companies for tax purposes (section 94A of the ITAA 1936).
@@ -32,31 +19,4 @@ For the purposes of Division 5A of the ITAA 1936 a limited partnership is a 'cor
 Section 94H of the ITAA 1936 provides, further, that if a partnership is a corporate limited partnership in relation to a year of income the 'income tax law' has effect, in relation to the partnership and in relation to the year of income, subject to the changes set out in Subdivision C of Division 5A of the ITAA 1936. The term 'income tax law', as used in the division, is defined in section 94B of the ITAA 1936 to relevantly include the ITAA 1936.
 Subdivision C of the ITAA 1936 comprises sections 94H to 94Y of the ITAA 1936 inclusive. Section 94J of the ITAA 1936, in particular, relevantly states that '[a] reference in the income tax law ... to a company or a body corporate includes a reference to [a corporate limited] partnership', while section 94K of the ITAA 1936 provides that '[a] reference in the income tax law to a partnership does not include a reference to [a corporate limited] partnership'.
 Thus, by virtue of the provisions of Division 5A of the ITAA 1936 a reference in section 128F of the ITAA 1936 to a 'company' is taken to include a reference to a corporate limited partnership. Accordingly, LP, a corporate limited partnership for Division 5A purposes, is a 'company' and not a partnership for the purposes of section 128F.
-Date of decision:
-  15 July 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 94B   section 94D   section 94H   section 94J   section 94K   section 128F   subsection 128F(1)   subsection 128F(1A)   subsection 128F(2)
-
-Keywords
-
-Debentures
- Limited partnerships
- Loan securities
- Withholding tax exemptions
-
-Siebel/TDMS Reference Number:
-  4045533
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  30 July 2004
-
-ISSN:
- 1445-2782
+Date of decision: 15 July 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 94B section 94D section 94H section 94J section 94K section 128F subsection 128F(1) subsection 128F(1A) subsection 128F(2) Keywords Debentures Limited partnerships Loan securities Withholding tax exemptions Siebel/TDMS Reference Number: 4045533 Business Line: Public Groups and International Date of publication: 30 July 2004 ISSN: 1445-2782

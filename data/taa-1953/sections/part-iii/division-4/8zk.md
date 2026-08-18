@@ -32,10 +32,10 @@ A witness called on behalf of the Commissioner in any prosecution for a prescrib
 > <a id="s8ZK-b"></a>
 > **(b)**  if the witness is an officer, to produce any reports:
 
-> > <a id="s8ZK-i"></a>
+> > <a id="s8ZK-i-2"></a>
 > > **(i)**  made or received by the witness confidentially in the witness’ official capacity; or
 
-> > <a id="s8ZK-ii"></a>
+> > <a id="s8ZK-ii-2"></a>
 > > **(ii)**  containing confidential information.
 
 ---

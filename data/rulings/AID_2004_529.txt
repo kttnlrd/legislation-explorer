@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/529
-==================================================
-
-Income Tax
- Capital gains tax: CGT discount: capital gain from disposal of shares owned for less than 12 months - shares acquired under arrangement for which Subdivision 124-G rollover chosen
- FOI status: may be released
-
-This ATOID is withdrawn following the insertion by Act No. 56 of 2010 of section 115-32 of the ITAA 1997 (applicable to assessments for the income years including 21 September 1999 and for later years in relation to CGT events happening after 11:45 am by legal time in the Australian Capital Territory on that day). Section 115-32 provides a special rule, about the application of the tests in section 115-45 of the ITAA 1997, for certain replacement asset roll-overs including roll-over under Subdivision 124-G of the ITAA 1997.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: CGT discount: capital gain from disposal of shares owned for less than 12 months - shares acquired under arrangement for which Subdivision 124-G rollover chosen FOI status: may be released This ATOID is withdrawn following the insertion by Act No. 56 of 2010 of section 115-32 of the ITAA 1997 (applicable to assessments for the income years including 21 September 1999 and for later years in relation to CGT events happening after 11:45 am by legal time in the Australian Capital Territory on that day). Section 115-32 provides a special rule, about the application of the tests in section 115-45 of the ITAA 1997, for certain replacement asset roll-overs including roll-over under Subdivision 124-G of the ITAA 1997. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a capital gain from the disposal of a share acquired under an arrangement that satisfied the requirements for roll-over in Subdivision 124-G of the Income Tax Assessment Act 1997 (ITAA 1997), a discount capital gain for the purposes of Subdivision 115-A of the ITAA 1997, if the share was owned for less than 12 months but the taxpayer's original shares were owned for more than 12 months?
 Decision
 No. The capital gain is not a discount capital gain because section 115-45 of the ITAA 1997 applies to deny the discount.
@@ -27,73 +12,17 @@ In October 2003 the taxpayer sold their shares in Company B and made a capital g
 Reasons for Decision
 A capital gain can only be a discount capital gain if it meets certain requirements (section 115-5 of the ITAA 1997). One of the requirements is that the capital gain must result from a CGT event happening to an asset that was acquired at least 12 months before the CGT event that resulted in the capital gain (subsection 115-25(1) of the ITAA 1997). If the asset was acquired as a result of a replacement asset roll-over, there are special rules which treat it as being acquired at the time the original asset was acquired (item 2 of the table in subsection 115-30(1) of the ITAA 1997).
 Although a capital gain may satisfy the requirements in section 115-5 of the ITAA 1997, it will not be a discount capital gain if section 115-45 of the ITAA 1997 applies. Broadly, that section prevents a capital gain on a share from being a discount capital gain if the owner of the share, assuming they owned the assets underlying the share and had sold them rather than the share, would not have had discount capital gains on the majority of CGT assets (by cost and value) underlying the share.
-Specifically, subsection 115-45(2) of the ITAA 1997 provides that a capital gain made from a CGT event happening to a share in a company is not a discount capital gain if the following conditions are satisfied:
-
-•before the CGT event the taxpayer and their associates owned at least 10% by value of the shares in the company (subsection 115-45(3) of the ITAA 1997)
+Specifically, subsection 115-45(2) of the ITAA 1997 provides that a capital gain made from a CGT event happening to a share in a company is not a discount capital gain if the following conditions are satisfied: •before the CGT event the taxpayer and their associates owned at least 10% by value of the shares in the company (subsection 115-45(3) of the ITAA 1997)
 •the total cost bases of CGT assets that the company owned at the time of the CGT event and had acquired less than 12 months before then is more than half the total of the cost bases of all the CGT assets the company owned at the time of the event (subsection 115-45(4) of the ITAA 1997), and
-•the notional net capital gain of the company worked out under subsection 115-45(6) of the ITAA 1997 is more than half of the notional net capital gain worked out under subsection 115-45(7) of the ITAA 1997 (subsection 115-45(5) of the ITAA 1997).
-
-The notional net capital gain worked out under subsection 115-45(6) of the ITAA 1997 is calculated as if:
-
-•just before the CGT event (that happened to the shares), the company had disposed of all of the CGT assets that it owned and had acquired less than 12 months before the CGT event
+•the notional net capital gain of the company worked out under subsection 115-45(6) of the ITAA 1997 is more than half of the notional net capital gain worked out under subsection 115-45(7) of the ITAA 1997 (subsection 115-45(5) of the ITAA 1997). The notional net capital gain worked out under subsection 115-45(6) of the ITAA 1997 is calculated as if: •just before the CGT event (that happened to the shares), the company had disposed of all of the CGT assets that it owned and had acquired less than 12 months before the CGT event
 •the company received the market value of those assets for the disposal
 •the company did not have any other capital gains or capital losses, and
-•the company did not have a net capital loss for an earlier income year.
-
-The notional net capital gain worked out under subsection 115-45(7) of the ITAA 1997 is calculated in a similar manner except it is assumed that:
-
-•the company had disposed of all of the CGT assets that it owned just before the CGT event (rather than just those it acquired less than 12 months before the event), and
-•all of the capital gains and capital losses from those assets were taken into account in working out the net capital gain, despite any rules providing that one or more of those capital gains or capital losses are not to be taken into account in working out a net capital gain.
-
-As all of the CGT assets owned by Company A are post-CGT assets, the shares that Company B acquired in Company A under the reorganisation are taken to have been acquired at the time CGT event A1 happened to the taxpayer's shares in Company A (subsections 124-385(1) and 109-5(2) of the ITAA 1997).
-In this case all of the conditions in subsection 115-45(2) of the ITAA 1997 are satisfied because:
-
-•the taxpayer owned 50% of the shares in Company B just before they were sold and CGT event A1 happened to them
+•the company did not have a net capital loss for an earlier income year. The notional net capital gain worked out under subsection 115-45(7) of the ITAA 1997 is calculated in a similar manner except it is assumed that: •the company had disposed of all of the CGT assets that it owned just before the CGT event (rather than just those it acquired less than 12 months before the event), and
+•all of the capital gains and capital losses from those assets were taken into account in working out the net capital gain, despite any rules providing that one or more of those capital gains or capital losses are not to be taken into account in working out a net capital gain. As all of the CGT assets owned by Company A are post-CGT assets, the shares that Company B acquired in Company A under the reorganisation are taken to have been acquired at the time CGT event A1 happened to the taxpayer's shares in Company A (subsections 124-385(1) and 109-5(2) of the ITAA 1997).
+In this case all of the conditions in subsection 115-45(2) of the ITAA 1997 are satisfied because: •the taxpayer owned 50% of the shares in Company B just before they were sold and CGT event A1 happened to them
 •all of the assets Company B owned at that time (that is, the shares in Company A) were acquired less than 12 months before the CGT event happened to the taxpayer's shares, and
-•the net capital gain of the company worked out under subsection 115-45(6) of the ITAA 1997 is more than half the net capital gain worked out under subsection 115-45(7) of the ITAA 1997.
-
-Accordingly, the capital gain the taxpayer made from the disposal of their shares in Company B will not be a discount capital gain.
-Date of decision:
-  17 June 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 109-5(2)   Subdivision 115-A   section 115-5   subsection 115-25(1)   subsection 115-30(1)   section 115-45   subsection 115-45(2)   subsection 115-45(3)   subsection 115-45(4)   subsection 115-45(5)   subsection 115-45(6)   subsection 115-45(7)   Subdivision 124-G   subsection 124-385(1)
-
-Keywords
-
-capital gains
- capital gains tax
- CGT discount
- CGT event A1-disposal of a CGT asset
- CGT exchange of shares in one company for shares in another company (124-G)
- CGT replacement asset roll-over
- CGT roll-over relief
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  25 June 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-17 June 2004
-Original statement
-
-You are here
+•the net capital gain of the company worked out under subsection 115-45(6) of the ITAA 1997 is more than half the net capital gain worked out under subsection 115-45(7) of the ITAA 1997. Accordingly, the capital gain the taxpayer made from the disposal of their shares in Company B will not be a discount capital gain.
+Date of decision: 17 June 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 subsection 109-5(2) Subdivision 115-A section 115-5 subsection 115-25(1) subsection 115-30(1) section 115-45 subsection 115-45(2) subsection 115-45(3) subsection 115-45(4) subsection 115-45(5) subsection 115-45(6) subsection 115-45(7) Subdivision 124-G subsection 124-385(1) Keywords capital gains capital gains tax CGT discount CGT event A1-disposal of a CGT asset CGT exchange of shares in one company for shares in another company (124-G) CGT replacement asset roll-over CGT roll-over relief Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 25 June 2004 ISSN: 1445-2782 history Date: Version: 17 June 2004
+Original statement You are here
 10 November 2011
 Archived

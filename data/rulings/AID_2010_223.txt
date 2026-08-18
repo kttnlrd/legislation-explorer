@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/223
-==================================================
-
-Excise
- Fuel tax credits: GST groups - applications for private rulings
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Excise Fuel tax credits: GST groups - applications for private rulings FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 70-5 of the Fuel Tax Act 2006 (FTA) prevent an entity that is a member of a GST group, but is not the representative member of the group, from applying for a private ruling in relation to transactions they enter into that affect the net fuel amount of the group?
 Decision
 Yes. Section 70-5 of the FTA prevents an entity that is a member of a GST group, but is not the representative member of that group, from applying for a private ruling in relation to transactions they enter into that affect the net fuel amount of the group because the right to seek the ruling has transferred to the representative member of the group.
@@ -26,47 +15,13 @@ Subsection 359-5(1) of Schedule 1 to the TAA explains that the Commissioner may,
 The combined effect of the above provisions is that rulings can be sought and provided in relation to the application of schemes insofar as they relate to the applicant's net fuel amount (or the administration, collection or payment of the applicant's net fuel amount).
 Section 70-5 of the FTA explains the application of the fuel tax law to GST groups and joint ventures. Subsection 70-5(1) of the FTA provides that the entities listed in column 1 of the table in the section are treated as a single entity for the fuel tax law. Subsection 70-5(2) of the FTA provides that the entities listed in column 2 of the table have all the rights, powers and obligations under the fuel tax law instead of each entity in column 1 of the table having those rights, powers and obligations.
 Column 1 of item 1 of the table in subsection 70-5(2) of the FTA stipulates that the members of a GST group are treated as a single entity for the purposes of the fuel tax law. Column 2 of item 1 then stipulates that the representative member of the GST group has all the rights, powers and obligations of the single entity under the fuel tax law.
-The fuel tax law is defined in section 110-5 of the FTA as:
-
-fuel tax law
- means:
+The fuel tax law is defined in section 110-5 of the FTA as: fuel tax law means:
 a)this Act; and
 b)the Fuel Tax (Consequential and Transitional Provisions) Act 2006; and
 c)the Taxation Administration Act 1953, so far as it relates to any Act covered by paragraphs (a) and (b); and
 d)any other Act, so far as it relates to any Act covered by paragraphs (a) to (c) (or to so much of that Act as is covered); and
-e)regulations under any Act, so far as they relate to any Act covered by paragraphs (a) to (d) (or to so much of that Act as is covered).
-
-As the ability to seek a private ruling in relation to fuel tax matters, and the Commissioner's ability to issue a ruling, are provided for under the TAA, the provisions relating to private rulings are 'fuel tax law' insofar as they relate to fuel tax.
+e)regulations under any Act, so far as they relate to any Act covered by paragraphs (a) to (d) (or to so much of that Act as is covered). As the ability to seek a private ruling in relation to fuel tax matters, and the Commissioner's ability to issue a ruling, are provided for under the TAA, the provisions relating to private rulings are 'fuel tax law' insofar as they relate to fuel tax.
 As explained above, the effect of the private rulings provisions in the TAA is that an entity has the power to seek a private ruling in relation to schemes they enter into that affect their net fuel amount.
 However, section 70-5 of the FTA treats all the members of a GST group as a single entity, and gives the representative member all the rights, powers and obligations of the single entity. It follows that where a transaction has been entered into that affects the net fuel amount of the single entity (being the GST group), it is the representative member, and not the individual entity that entered into the transaction, that is able to seek a private ruling.
-Date of decision:
-  3 December 2010
-
-Legislative References:
-
-Fuel Tax Act 2006   section 70-5   section 110-5
-Taxation Administration Act 1953   Division 357 of Schedule 1   paragraph 357-55(i) of Schedule 1   subsection 359-5(1) of Schedule 1   subsection 359-10(1) of Schedule 1
-
-Keywords
-
-Fuel tax credits
- FTC general
- FTC fuel tax
- FTC fuel tax law
- FTC net fuel amount
- FTC indirect tax ruling
- FTC indirect tax law
- Private ruling
- Private rulings
-
-Siebel/TDMS Reference Number:
-  1-2BVERJI
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  10 December 2010
-
-ISSN:
- 1445-2782
+Date of decision: 3 December 2010 Legislative References: Fuel Tax Act 2006 section 70-5 section 110-5
+Taxation Administration Act 1953 Division 357 of Schedule 1 paragraph 357-55(i) of Schedule 1 subsection 359-5(1) of Schedule 1 subsection 359-10(1) of Schedule 1 Keywords Fuel tax credits FTC general FTC fuel tax FTC fuel tax law FTC net fuel amount FTC indirect tax ruling FTC indirect tax law Private ruling Private rulings Siebel/TDMS Reference Number: 1-2BVERJI Business Line: Indirect Tax Date of publication: 10 December 2010 ISSN: 1445-2782

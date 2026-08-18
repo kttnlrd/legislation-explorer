@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/507
-==================================================
-
-Income Tax
- Simplified Tax System (STS) and hire purchase payments
- FOI status: may be released
-
-This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2006-07 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Simplified Tax System (STS) and hire purchase payments FOI status: may be released This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2006-07 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When calculating the value of business supplies made by an entity for the purposes of determining eligibility to enter the Simplified Tax System (STS) as set out in Division 328 of the Income Tax Assessment Act 1997 (ITAA 1997), does the exclusion for loan repayments in paragraph 328-375(3)(b) of the ITAA 1997 also apply to repayments made under hire purchase arrangements?
 Decision
 Yes. When calculating the value of business supplies made by an entity for the purposes of determining eligibility to enter the STS the exclusion for loan repayments in paragraph 328-375(3)(b) of the ITAA 1997 also excludes the capital component of any repayment made under hire purchase arrangements.
@@ -26,117 +11,18 @@ The taxpayer has supplied goods on a hire purchase arrangement.
 Reasons for Decision
 In order to be eligible for the STS as set out in Division 328 of the ITAA 1997, along with certain other requirements, a taxpayer's STS average turnover must be less than $1 million.
 A taxpayer will normally calculate their average turnover using any three of the last four years (the look back method), but there are special rules for some other cases.
-'STS average turnover' for an income year is defined in subsection 328-370(1) of the ITAA 1997 as the sum of the relevant STS group turnovers divided by the number of averaging years over three of the last four years:
-
-Your
- STS average turnover
- for an income year (the
- present year
-) is:,
-
-Sum of relevant STS group turnovers
-
-Number of averaging years
-
-where:
-
-number of averaging years
- is:
-
-(a)3; or
-(b)the number of years you take into account under paragraph (b) of the definition of sum of relevant STS group turnovers.
-
-sum of relevant STS turnovers
- is:
-
-(a)the sum of your STS group turnovers for any 3 of the previous 4 years; or
-(b)if you did not carry on a business in each of those last 4 years - the sum of your STS group turnovers for each of those years in which you carried on a business.
-
-Subsection 328-375(1) of the ITAA 1997 defines 'STS group turnover' for an income year as the sum of:
-
-(a)the 'value of business supplies' you made in the income year; and
-(b)the value of the business supplies made in the income year by grouped entities while they were grouped with you;
-
-reduced by:
-
-(c)the value of the business supplies you made in the income year to entities grouped with you while they were grouped with you; and
+'STS average turnover' for an income year is defined in subsection 328-370(1) of the ITAA 1997 as the sum of the relevant STS group turnovers divided by the number of averaging years over three of the last four years: Your STS average turnover for an income year (the present year
+) is:, Sum of relevant STS group turnovers Number of averaging years where: number of averaging years is: (a)3; or
+(b)the number of years you take into account under paragraph (b) of the definition of sum of relevant STS group turnovers. sum of relevant STS turnovers is: (a)the sum of your STS group turnovers for any 3 of the previous 4 years; or
+(b)if you did not carry on a business in each of those last 4 years - the sum of your STS group turnovers for each of those years in which you carried on a business. Subsection 328-375(1) of the ITAA 1997 defines 'STS group turnover' for an income year as the sum of: (a)the 'value of business supplies' you made in the income year; and
+(b)the value of the business supplies made in the income year by grouped entities while they were grouped with you; reduced by: (c)the value of the business supplies you made in the income year to entities grouped with you while they were grouped with you; and
 (d)the value of the business supplies entities grouped with you made in the income year to you while you were grouped with them; and
-(e)the value of the business supplies another entity made in the income year to a third entity while the other entity and the third entity were grouped with you.
-
-Subsection 328-375(3) of the ITAA 1997 explains how in calculating the value of business supplies made by the entity, the following is disregarded:
-
-(a)....
-(b)to the extent that a supply is constituted by a loan - any repayment of principal, and any obligation to repay principal.
-
-Division 240 of the ITAA 1997 and hire purchase
-
-Division 240 of the ITAA 1997 concerns arrangements that are treated as sales and loans. According to section 240-1 of the ITAA 1997:
-
-For income tax purposes, some arrangements (such as hire purchase agreements) are recharacterised as a sale of property, combined with a loan, by the notional seller to the notional buyer, to finance the purchase price.
-
-The notional loan is for an amount which is called the 'notional loan principal' which is equal to the amount of consideration for the property less any amount paid or credited by the notional buyer prior to the arrangement: subsection 240-25(3) of the ITAA 1997.
-Section 240-3 of the ITAA 1997 states how the recharacterisation affects the notional seller:
-
-Effect of notional sale
-
-(1) The consideration for the notional sale is either the price stated as the cost or value of the property or its arm's length value. If the notional seller is disposing of the property as trading stock, the normal consequences of disposing of trading stock follow. In particular, the notional seller will be assessed on the sale price.
-(2) Where the property is not trading stock the notional seller's assessable income will include any profit made by the notional seller on the notional sale or on the sale of the property after a notional re-acquisition.
-
-Effect of notional loan
-
-(3) The notional seller's assessable income will include notional interest over the period of the loan.
-
-Other effects
-
-(4) These effects displace the income tax consequences that would otherwise arise from the arrangement. For example, the actual payments to the notional seller are not included in its assessable income. Also, the notional seller loses the right to deduct amounts under Division 40 (about capital allowances).
-
-Therefore, in line with Division 240 of the ITAA 1997, hire purchase arrangements are recharacterised as loans for income tax purposes. For the purposes of paragraph 328-375(3)(b) of the ITAA 1997, the portion of the hire purchase amount that relates to a repayment of capital will be excluded from the 'value of business supplies' and thus STS group turnover in the same way that repayments of principal of a loan are excluded.
-Date of decision:
-  16 June 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 328-360   subsection 328-370(1)   subsection 328-370(2)   subsection 328-370(3)   subsection 328-375(1)   subsection 328-375(3)   paragraph 328-375(3)(b)   section 240-1   subsection 240-17(1)   subsection 240-17(2)   subsection 240-25(3)   subsection 240-60(1)   section 240-3
-A New Tax System (Goods and Services Tax) Act 1999   section 9-10
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2002/6
-
-Keywords
-
-Could reasonably be expected (STS grouping)
- Hire purchase
- Notional loan
- Simplified tax system
- STS average turnover
- STS group turnover
- STS taxpayers
-
-Business Line:
-  Business and Personal Taxes Centre of Expertise
-
-Date of publication:
-  25 June 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-16 June 2004
-Original statement
-
-You are here
+(e)the value of the business supplies another entity made in the income year to a third entity while the other entity and the third entity were grouped with you. Subsection 328-375(3) of the ITAA 1997 explains how in calculating the value of business supplies made by the entity, the following is disregarded: (a)....
+(b)to the extent that a supply is constituted by a loan - any repayment of principal, and any obligation to repay principal. Division 240 of the ITAA 1997 and hire purchase Division 240 of the ITAA 1997 concerns arrangements that are treated as sales and loans. According to section 240-1 of the ITAA 1997: For income tax purposes, some arrangements (such as hire purchase agreements) are recharacterised as a sale of property, combined with a loan, by the notional seller to the notional buyer, to finance the purchase price. The notional loan is for an amount which is called the 'notional loan principal' which is equal to the amount of consideration for the property less any amount paid or credited by the notional buyer prior to the arrangement: subsection 240-25(3) of the ITAA 1997.
+Section 240-3 of the ITAA 1997 states how the recharacterisation affects the notional seller: Effect of notional sale (1) The consideration for the notional sale is either the price stated as the cost or value of the property or its arm's length value. If the notional seller is disposing of the property as trading stock, the normal consequences of disposing of trading stock follow. In particular, the notional seller will be assessed on the sale price.
+(2) Where the property is not trading stock the notional seller's assessable income will include any profit made by the notional seller on the notional sale or on the sale of the property after a notional re-acquisition. Effect of notional loan (3) The notional seller's assessable income will include notional interest over the period of the loan. Other effects (4) These effects displace the income tax consequences that would otherwise arise from the arrangement. For example, the actual payments to the notional seller are not included in its assessable income. Also, the notional seller loses the right to deduct amounts under Division 40 (about capital allowances). Therefore, in line with Division 240 of the ITAA 1997, hire purchase arrangements are recharacterised as loans for income tax purposes. For the purposes of paragraph 328-375(3)(b) of the ITAA 1997, the portion of the hire purchase amount that relates to a repayment of capital will be excluded from the 'value of business supplies' and thus STS group turnover in the same way that repayments of principal of a loan are excluded.
+Date of decision: 16 June 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 328-360 subsection 328-370(1) subsection 328-370(2) subsection 328-370(3) subsection 328-375(1) subsection 328-375(3) paragraph 328-375(3)(b) section 240-1 subsection 240-17(1) subsection 240-17(2) subsection 240-25(3) subsection 240-60(1) section 240-3
+A New Tax System (Goods and Services Tax) Act 1999 section 9-10 Related Public Rulings (including Determinations) Taxation Ruling TR 2002/6 Keywords Could reasonably be expected (STS grouping) Hire purchase Notional loan Simplified tax system STS average turnover STS group turnover STS taxpayers Business Line: Business and Personal Taxes Centre of Expertise Date of publication: 25 June 2004 ISSN: 1445-2782 history Date: Version: 16 June 2004
+Original statement You are here
 30 November 2007
 Archived

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/21
-==================================================
-
-Company tax
- Group company loss transfers: companies wholly-owned by the same individuals
- FOI status: may be released
-
-This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Company tax Group company loss transfers: companies wholly-owned by the same individuals FOI status: may be released This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997) enable a loss transfer agreement to be made between two companies that are both owned in equal proportions by the same two individuals?
 Decision
 No. The two companies are not members of the same 'wholly-owned group' as defined within Subdivision 975-W of the ITAA 1997. As a result, subsection 170-30(2) of the ITAA 1997 operates to deny these companies the ability to make a loss transfer agreement.
@@ -25,58 +10,10 @@ The shares of two Australian resident companies have been owned in equal proport
 Reasons for Decision
 The requirements to enable a tax loss to be transferred from a loss company to an income company include a requirement that both companies be members of the same wholly-owned group during the relevant period: subsection 170-30(2) of the ITAA 1997.
 Section 975-500 of the ITAA 1997 defines 'wholly-owned group' as follows:
-'Two companies are members of the same
- wholly-owned group
- if:
-
-(a)one of the companies is a 100 per cent subsidiary of the other company; or
-(b)each of the companies is a 100 per cent subsidiary of the same third company.'
-
-As the shareholders of both the loss company and the income company are individuals, it follows that neither company can be a 100 per cent subsidiary of another company, and they cannot be members of the same 'wholly-owned group' as defined.
+'Two companies are members of the same wholly-owned group if: (a)one of the companies is a 100 per cent subsidiary of the other company; or
+(b)each of the companies is a 100 per cent subsidiary of the same third company.' As the shareholders of both the loss company and the income company are individuals, it follows that neither company can be a 100 per cent subsidiary of another company, and they cannot be members of the same 'wholly-owned group' as defined.
 For that reason, the requirement of subsection 170-30(2) of the ITAA 1997 is not satisfied and no tax loss can be transferred from the loss company to the income company.
-Date of decision:
-  12 November 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 975-500.   subsection 170-30(2).
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/18
- ATO ID 2003/19
- ATO ID 2003/22
- ATO ID 2003/23
-
-Keywords
-
-Group company loss transfers
- Company losses
-
-Business Line:
-  Office of the Chief Tax Counsel
-
-Date of publication:
-  14 February 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 November 2002
-Original statement
-
-You are here
+Date of decision: 12 November 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 975-500. subsection 170-30(2). Related ATO Interpretative Decisions ATO ID 2003/18 ATO ID 2003/19 ATO ID 2003/22 ATO ID 2003/23 Keywords Group company loss transfers Company losses Business Line: Office of the Chief Tax Counsel Date of publication: 14 February 2003 ISSN: 1445-2782 history Date: Version: 12 November 2002
+Original statement You are here
 15 January 2010
 Archived

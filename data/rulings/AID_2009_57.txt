@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/57
-==================================================
-
-Income Tax
- Exchange Traded Options: derivation of premiums receivable
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Exchange Traded Options: derivation of premiums receivable FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where an individual taxpayer carries on the business of trading in exchange traded options (ETOs), are the premiums receivable from that activity derived under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997) at the time an ETO is registered with the Australian Clearing House Pty Ltd (ACH)?
 Decision
 Yes. Where an individual taxpayer carries on the business of trading in ETOs, the premiums receivable from that activity are derived as assessable income under section 6-5 of the ITAA 1997 at the time an ETO is registered with the ACH.
@@ -22,61 +11,7 @@ The taxpayer uses a broker to trade in ETOs.
 After writing an ETO contract it is registered with the ACH. On registration the taxpayer becomes entitled to receive a premium.
 Reasons for Decision
 Subsection 6-5(2) of the ITAA 1997 provides that the assessable income of an Australian resident taxpayer includes ordinary income derived directly or indirectly from all sources during the income year.
-In Brent v. Federal Commissioner of Taxation (1971) 125 CLR 418 at 427-428; 71 ATC 4195 at 4200; (1971) 2 ATR 563 at 569-570, Gibbs J, in considering the meaning of the word 'derived' said:
-
-The word 'derived' is not necessarily equivalent in meaning to 'earned'. 'Derive' in its ordinary sense, according to the Oxford English Dictionary, means 'to draw, fetch, get, gain, obtain (a thing from a source)'. It has become well established that unless the Act makes some specific provision on the point the amount of income derived is to be determined by the application of ordinary business and commercial principles and that the method of accounting to be adopted is that which 'is calculated to give a substantially correct reflex of the taxpayer's true income' (Commissioner of Taxes (South Australia) v Executor, Trustee and Agency Company of South Australia Limited (Carden's Case) (1938), 63 CLR 108, at pp 152-4; 1 AITR 416, at pp 441-2). . . . In the course of a judgment with which Rich and McTiernan, JJ., concurred, Dixon, J., as he then was, said (at 63 CLR, p 155; 1 AITR, at p 442): 'Speaking generally, in the assessment of income the object is to discover what gains have during the period of account come home to the taxpayer in a realized or immediately realizable form'.
-
-The taxpayer's business involves the routine and systematic taking and writing of ETO contracts with the expectation of profit. The premiums received from these repetitious and recurring transactions represent ordinary income derived from the carrying on of a business of dealing in options. As these activities amount to the carrying on of a business, it is appropriate to account for the premiums received on a gross-receipts basis (see Investment and Merchant Finance Corporation Limited v. Federal Commissioner of Taxation (1971) 125 CLR 249 at 264; 71 ATC 4140 at 4147; (1971) 2 ATR 361 at 369).
+In Brent v. Federal Commissioner of Taxation (1971) 125 CLR 418 at 427-428; 71 ATC 4195 at 4200; (1971) 2 ATR 563 at 569-570, Gibbs J, in considering the meaning of the word 'derived' said: The word 'derived' is not necessarily equivalent in meaning to 'earned'. 'Derive' in its ordinary sense, according to the Oxford English Dictionary, means 'to draw, fetch, get, gain, obtain (a thing from a source)'. It has become well established that unless the Act makes some specific provision on the point the amount of income derived is to be determined by the application of ordinary business and commercial principles and that the method of accounting to be adopted is that which 'is calculated to give a substantially correct reflex of the taxpayer's true income' (Commissioner of Taxes (South Australia) v Executor, Trustee and Agency Company of South Australia Limited (Carden's Case) (1938), 63 CLR 108, at pp 152-4; 1 AITR 416, at pp 441-2). . . . In the course of a judgment with which Rich and McTiernan, JJ., concurred, Dixon, J., as he then was, said (at 63 CLR, p 155; 1 AITR, at p 442): 'Speaking generally, in the assessment of income the object is to discover what gains have during the period of account come home to the taxpayer in a realized or immediately realizable form'. The taxpayer's business involves the routine and systematic taking and writing of ETO contracts with the expectation of profit. The premiums received from these repetitious and recurring transactions represent ordinary income derived from the carrying on of a business of dealing in options. As these activities amount to the carrying on of a business, it is appropriate to account for the premiums received on a gross-receipts basis (see Investment and Merchant Finance Corporation Limited v. Federal Commissioner of Taxation (1971) 125 CLR 249 at 264; 71 ATC 4140 at 4147; (1971) 2 ATR 361 at 369).
 Upon registration of an ETO with the ACH, the taxpayer becomes entitled to receive a non-refundable premium. It is at this point that a recoverable debt comes into existence.
 For the purposes of section 6-5 of the ITAA 1997, the gross amount of the premium is derived when the ETO contract is registered with the ACH. This is the time when the amount has come home to the taxpayer in a realisable form (see The Commissioner of Taxes (S.A.) v. Executor Trustee and Agency Co. of South Australia Ltd (1938) 63 CLR 108 at 155; (1938 ) 5 ATD 98 at 132; (1938) 1 AITR 416 at 442).
-Date of decision:
-  30 June 2009
-
-Year of income:
-  Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5   subsection 6-5(2)
-
-Case References:
-
-Brent v. Federal Commissioner of Taxation   (1971) 125 CLR 418   71 ATC 4195   (1971) 2 ATR 563
-
-Investment and Merchant Finance Corporation Limited v. Federal Commissioner of Taxation   (1971) 125 CLR 249   71 ATC 4140   (1971) 2 ATR 361
-
-The Commissioner of Taxes (S.A.) v. Executor Trustee and Agency Co. of South Australia Ltd   (1938) 63 CLR 108    (1938 ) 5 ATD 98   (1938) 1 AITR 416
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/58
- ATO ID 2009/59
-
-Keywords
-
-Acquisition of shares
- Call options
- Carrying on a business
- Deductions & expenses
- Derived
- Income
- Put options
-
-Siebel/TDMS Reference Number:
-  3986679; 1-5RXR4W4; 1-BY388LF
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  10 July 2009
-
-Date reviewed:
-  14 August 2017
-
-ISSN:
- 1445-2782
+Date of decision: 30 June 2009 Year of income: Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 6-5 subsection 6-5(2) Case References: Brent v. Federal Commissioner of Taxation (1971) 125 CLR 418 71 ATC 4195 (1971) 2 ATR 563 Investment and Merchant Finance Corporation Limited v. Federal Commissioner of Taxation (1971) 125 CLR 249 71 ATC 4140 (1971) 2 ATR 361 The Commissioner of Taxes (S.A.) v. Executor Trustee and Agency Co. of South Australia Ltd (1938) 63 CLR 108 (1938 ) 5 ATD 98 (1938) 1 AITR 416 Related Public Rulings (including Determinations) Taxation Ruling TR 98/1 Related ATO Interpretative Decisions ATO ID 2009/58 ATO ID 2009/59 Keywords Acquisition of shares Call options Carrying on a business Deductions & expenses Derived Income Put options Siebel/TDMS Reference Number: 3986679; 1-5RXR4W4; 1-BY388LF Business Line: Private Groups and High Wealth Individuals Date of publication: 10 July 2009 Date reviewed: 14 August 2017 ISSN: 1445-2782

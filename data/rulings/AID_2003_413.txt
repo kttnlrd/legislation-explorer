@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/413
-==================================================
-
-Income Tax
- Deferred capital loss or deduction: ceases to exist - relevant (intangible) CGT asset redeemed - new event
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deferred capital loss or deduction: ceases to exist - relevant (intangible) CGT asset redeemed - new event FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where CGT event C2 happens to an intangible CGT asset that is redeemed, can it also be taken that it 'ceases to exist' for the purposes of paragraph 170-275(1)(a) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. Where CGT event C2 happens to an intangible CGT asset that is redeemed it 'ceases to exist' for the purposes of paragraph 170-275(1)(a) of the ITAA 1997.
@@ -27,36 +16,4 @@ The term 'ceases to exist' is not defined in the ITAA 1997 and must be interpret
 Where the relevant (intangible) CGT asset is redeemed such that CGT event C2 of the ITAA 1997 happens, it 'ceases to exist' for the purposes of paragraph 170-275(1)(a) of the ITAA 1997.
 Note that subsection 170-280(1) of the ITAA 1997 may apply if a further event occurs within 4 years. If subsection 170-280(1) of the ITAA 1997 applies the effect of subsection 170-280(2) of the ITAA 1997 is that the originating company will be taken not to have made the capital loss allowed by section 170-275 of the ITAA 1997.
 Note also that the term 'ceases to exist' in paragraph 170-280(3)(a) of the ITAA 1997 is to be interpreted consistently with the interpretation used in applying paragraph 170-275(1)(a) of the ITAA 1997.
-Date of decision:
-  11 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-25   Subdivision 170-D   section 170-255   paragraph 170-255(1)(a)   section 170-270   section 170-275   subsection 170-275(1)   paragraph 170-275(1)(a)   subsection 170-280(1)   subsection 170-280(2)   paragraph 170-280(3)(a)
-
-Keywords
-
-Capital losses
- Deferral event
- Deferred capital losses
- Disregarded capital loss
- Losses CoE
- Net capital losses
- New event
- Originating company
- Relevant CGT asset
-
-Siebel/TDMS Reference Number:
-  3479901
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  30 May 2003
-
-ISSN:
- 1445-2782
+Date of decision: 11 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 104-25 Subdivision 170-D section 170-255 paragraph 170-255(1)(a) section 170-270 section 170-275 subsection 170-275(1) paragraph 170-275(1)(a) subsection 170-280(1) subsection 170-280(2) paragraph 170-280(3)(a) Keywords Capital losses Deferral event Deferred capital losses Disregarded capital loss Losses CoE Net capital losses New event Originating company Relevant CGT asset Siebel/TDMS Reference Number: 3479901 Business Line: Public Groups and International Date of publication: 30 May 2003 ISSN: 1445-2782

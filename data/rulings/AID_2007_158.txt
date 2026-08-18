@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2007/158
-==================================================
-
-Goods and Services Tax
- GST and finance leases and securitisation arrangements
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and finance leases and securitisation arrangements FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a lessor of goods providing an interest in or under a debt under item 2 in the table in subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) when it assigns its right to the receivables arising from its finance lease agreements, together with all its interests in the underlying leased goods, to a special purpose vehicle (SPV) under a securitisation arrangement?
 Decision
 Yes, the entity is providing an interest in or under a debt under item 2 in the table in subregulation 40-5.09(3) of the GST Regulations when it assigns its right to the receivables arising from its finance lease agreements, together with its interests in the underlying leased goods, to a SPV under a securitisation arrangement.
@@ -26,101 +11,28 @@ The lessor is a GST registered entity (the entity) in the business of leasing ce
 The entity enters into finance lease agreements with its customers.
 The entity has entered into an arrangement with a SPV to securitise its receivables (payments to be made by lessees) arising from the lease agreements.
 Under the arrangement the lessor entity assigns, to the SPV, its rights to the receivables together with all of its interest in the leased goods.
-Under the securitisation arrangement, the entity is to be:
-
-•a manager for the purpose of the securitisation arrangement
+Under the securitisation arrangement, the entity is to be: •a manager for the purpose of the securitisation arrangement
 •a servicer for the purpose of the securitisation arrangement, and
-•a custodian for the purpose of the securitisation arrangement.
-
-The assignment of the receivables to the SPV is equitable only. The SPV does not take any steps to perfect its title to the assigned receivables, unless a title perfection event occurs-in which case the SPV would register its ownership and notify the entity's customers to direct payments to it.
+•a custodian for the purpose of the securitisation arrangement. The assignment of the receivables to the SPV is equitable only. The SPV does not take any steps to perfect its title to the assigned receivables, unless a title perfection event occurs-in which case the SPV would register its ownership and notify the entity's customers to direct payments to it.
 The entity's right to the receivables and its interests in the leased goods will be assigned to the SPV at an agreed price. There is no allocation of prices between the assigned receivables and other interests in the goods.
 The SPV will fund the acquisition of the receivables by issuing debt instruments.
 The SPV would not normally register its interest in either the receivables or the underlying goods in government security registers.
-Reasons for decision:
-
-The legislation
-
-Under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that a financial supply has the meaning given in the GST Regulations.
-Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if:
-
-(a)the provision, acquisition or disposal of that interest is:
-
-•for consideration; and
+Reasons for decision: The legislation Under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that a financial supply has the meaning given in the GST Regulations.
+Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if: (a)the provision, acquisition or disposal of that interest is: •for consideration; and
 •in the course or furtherance of an enterprise; and
-•connected with Australia, and
-
-(b)the supplier is:
-
-•registered or required to be registered for GST, and
-•a financial supply provider in relation to the supply of the interest.
-
-Item 2 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 2) lists an interest in or under a debt, credit arrangement or right to credit, including a letter of credit.
-
-Securitisation arrangements
-
-The Glossary to Goods and Services Tax Ruling GSTR 2002/2 Goods and services tax: treatment of financial supplies and related supplies and acquisitions, states that a securitisation arrangement is the process whereby an entity packages and converts legal or beneficial title, to future receivables and kindred assets, into marketable debt securities which are traded in the capital market.
-Paragraph 18 of Goods and Services Tax Ruling GSTR 2004/4 Goods and services tax: assignment of payment streams including under a typical securitisation arrangement, states that the main feature of a securitisation arrangement is the establishment of a SPV under either trust or corporations law. The purpose of the SPV is to acquire a pool of receivables and any associated collateral rights from an originating institution. The SPV pays for the assets by issuing debt securities (or notes) backed by the asset pool.
-
-The receivables
-
-Paragraph 30 of GSTR 2004/4 states:
-
-Provided there has been an effective legal or equitable assignment of a right to all or part of a payment stream, or an agreement to assign the right to a payment stream that arises in the future there will be the supply of an interest in or under a debt. This is a financial supply under item 2 of subregulation 40-5.09(3) provided the requirements of subregulation 40-5.09(1) are also satisfied.
-
-In the current case, whilst the receivables arising from the financing agreements may not be due and payable at the time that the assignment occurs, it is accepted that the due dates specified in the relevant agreements are effective in ensuring that a payment stream arises in the future. As such, the assignment of the right to this payment stream constitutes an assignment of an interest in a debt.
-
-Other interests in the financed equipment
-
-As well as assigning the receivables arising from the lease agreements, the entity also assigns all of its interests in the underlying goods.
+•connected with Australia, and (b)the supplier is: •registered or required to be registered for GST, and
+•a financial supply provider in relation to the supply of the interest. Item 2 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 2) lists an interest in or under a debt, credit arrangement or right to credit, including a letter of credit. Securitisation arrangements The Glossary to Goods and Services Tax Ruling GSTR 2002/2 Goods and services tax: treatment of financial supplies and related supplies and acquisitions, states that a securitisation arrangement is the process whereby an entity packages and converts legal or beneficial title, to future receivables and kindred assets, into marketable debt securities which are traded in the capital market.
+Paragraph 18 of Goods and Services Tax Ruling GSTR 2004/4 Goods and services tax: assignment of payment streams including under a typical securitisation arrangement, states that the main feature of a securitisation arrangement is the establishment of a SPV under either trust or corporations law. The purpose of the SPV is to acquire a pool of receivables and any associated collateral rights from an originating institution. The SPV pays for the assets by issuing debt securities (or notes) backed by the asset pool. The receivables Paragraph 30 of GSTR 2004/4 states: Provided there has been an effective legal or equitable assignment of a right to all or part of a payment stream, or an agreement to assign the right to a payment stream that arises in the future there will be the supply of an interest in or under a debt. This is a financial supply under item 2 of subregulation 40-5.09(3) provided the requirements of subregulation 40-5.09(1) are also satisfied. In the current case, whilst the receivables arising from the financing agreements may not be due and payable at the time that the assignment occurs, it is accepted that the due dates specified in the relevant agreements are effective in ensuring that a payment stream arises in the future. As such, the assignment of the right to this payment stream constitutes an assignment of an interest in a debt. Other interests in the financed equipment As well as assigning the receivables arising from the lease agreements, the entity also assigns all of its interests in the underlying goods.
 At the time of entering into a finance lease, the lessor entity retains legal title in the underlying goods and there is no clause in the lease agreement that provides the lessee with an option to obtain ownership of the goods. During the term of the finance lease, there is only a supply of the right to use the goods.
 When considering all of the circumstances surrounding the assignment, it is concluded that the assignment of the entity's interests in the underlying goods does not result in a sale of the goods by the entity to the SPV for GST purposes. The assignment of any interests in the underlying goods effectively operates as a security for the SPV's right to the payment stream.
-This conclusion is based on the following facts:
-
-•In the context of the securitisation arrangement, there is no intention for the SPV to conduct an enterprise of leasing goods. The enterprise of the SPV is to fund the purchase of rights to payment streams by issuing debt instruments. The context of the arrangement suggests that the transfer of the lessor's interest in the goods only operates as a form of security.
+This conclusion is based on the following facts: •In the context of the securitisation arrangement, there is no intention for the SPV to conduct an enterprise of leasing goods. The enterprise of the SPV is to fund the purchase of rights to payment streams by issuing debt instruments. The context of the arrangement suggests that the transfer of the lessor's interest in the goods only operates as a form of security.
 •In the normal course of events there is no perfection of legal title to the underlying goods upon their assignment to the SPV.
-•The entity's intention not to make a supply of the underlying goods is consistent with the SPV not registering its interest in the underlying goods on government securities registers.
-
-This conclusion is also consistent with the accounting treatment of finance lease agreements. Paragraph 21 of Accounting Standard, AASB 117 Leases, states that in substance, the lessee has acquired the economic benefits of the use of the underlying equipment for the major part of its economic life by entering into an obligation to pay for that right. The amount it will pay will approximate, at the inception of the lease, the fair value of the underlying equipment and the related finance charge. This indicates that by entering into a finance lease agreement with its customer, the entity has transferred substantially all the risks and rewards of ownership of the equipment to the lessee. It follows that neither the lessor, nor any other entity to whom the lessor assigns its interest in the goods, has any intention of taking on any of the risks or rewards of ownership.
-
-GST consequences of the assignment
-
-As previously stated, the entity's assignment of its right to the receivables arising from the finance lease agreements, together with all its interests in the underlying goods, is effectively an assignment of the right to a payment stream together with security interests over that payment stream.
+•The entity's intention not to make a supply of the underlying goods is consistent with the SPV not registering its interest in the underlying goods on government securities registers. This conclusion is also consistent with the accounting treatment of finance lease agreements. Paragraph 21 of Accounting Standard, AASB 117 Leases, states that in substance, the lessee has acquired the economic benefits of the use of the underlying equipment for the major part of its economic life by entering into an obligation to pay for that right. The amount it will pay will approximate, at the inception of the lease, the fair value of the underlying equipment and the related finance charge. This indicates that by entering into a finance lease agreement with its customer, the entity has transferred substantially all the risks and rewards of ownership of the equipment to the lessee. It follows that neither the lessor, nor any other entity to whom the lessor assigns its interest in the goods, has any intention of taking on any of the risks or rewards of ownership. GST consequences of the assignment As previously stated, the entity's assignment of its right to the receivables arising from the finance lease agreements, together with all its interests in the underlying goods, is effectively an assignment of the right to a payment stream together with security interests over that payment stream.
 As the assignment contains two parts, that is, the right to a payment stream and some security interests, the GST consequence of such an assignment will depend on whether these two parts need to be recognised separately or if they are components of a single supply.
 Goods and Services Tax Ruling GSTR 2001/8 Goods and services tax: apportioning the consideration for a supply that includes taxable and non-taxable parts, provides the Commissioner's view on how to determine whether parts in a supply should be separately recognised for GST purposes or if in fact they are integral, ancillary and incidental to a dominant supply.
 Applying the principles provided in GSTR 2001/8 to the current circumstances, it is considered that the entity's assignment of its right to the receivables arising from the finance lease agreements, together with all its interests in the underlying leased goods, involves a composite supply of a right to a payment stream with related security interests being incidental or integral to the right to the payment stream. This view is based on the analysis of the arrangement as a whole, taking into account all circumstances and indicators surrounding the transaction.
 The composite supply of a right to a payment stream is a supply of an interest in a debt. If the other requirements of subregulation 40-5.09(1) of the GST Regulations are satisfied, the entity will make an input taxed financial supply when it assigns its rights to the receivables arising from the finance lease agreements together with its rights in the underlying leased goods.
-Date of decision:
-  21 May 2007
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 40-5(1)   subsection 40-5(2)
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 40-5.09   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 2
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2001/8
+Date of decision: 21 May 2007 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 40-5(1) subsection 40-5(2)
+A New Tax System (Goods and Services Tax) Regulations 1999 regulation 40-5.09 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 2 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2001/8
 Goods and Services Tax Ruling GSTR 2002/2
-Goods and Services Tax Ruling GSTR 2004/4
-
-Other References:
-
-Accounting Standard AASB 117 Leases
-
-Keywords
-
-Goods and services tax
- GST financial supplies
- Input taxed supplies
-
-Siebel/TDMS Reference Number:
-  5558870
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  20 July 2007
-
-ISSN:
- 1445-2782
+Goods and Services Tax Ruling GSTR 2004/4 Other References: Accounting Standard AASB 117 Leases Keywords Goods and services tax GST financial supplies Input taxed supplies Siebel/TDMS Reference Number: 5558870 Business Line: Indirect Tax Date of publication: 20 July 2007 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1024
-==================================================
-
-Income Tax
- Capital gains tax: creation of trust - shares in a company in administration
- FOI status: may be released
-
-This ATO ID is withdrawn. Guidance on the issue contained in this ATO ID can be found in Taxation Determination TD 2004/13 Income tax: capital gains: can CGT event E1 in section 104-55 of the Income Tax Assessment Act 1997 happen to a shareholder in a company in voluntary administration under Part 5.3A of the Corporations Act 2001 who declares a trust over their shares?
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: creation of trust - shares in a company in administration FOI status: may be released This ATO ID is withdrawn. Guidance on the issue contained in this ATO ID can be found in Taxation Determination TD 2004/13 Income tax: capital gains: can CGT event E1 in section 104-55 of the Income Tax Assessment Act 1997 happen to a shareholder in a company in voluntary administration under Part 5.3A of the Corporations Act 2001 who declares a trust over their shares? This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does CGT event E1 in section 104-55 of the Income Tax Assessment Act 1997 (ITAA 1997) happen if the owner of a share in a company in administration creates a trust over the share by declaration or settlement?
 Decision
 Yes. CGT event E1 in section 104-55 of the ITAA 1997 happens in these circumstances as the creation of the trust is not rendered illegal by the scheme of the Corporations Act 2001 (Corporations Act).
@@ -29,82 +14,14 @@ The market value of the shares, at the time of completion of the transfer form, 
 Reasons for Decision
 CGT event E1 in section 104-55 of the ITAA 1997 happens if a trust is created over a CGT asset by declaration or settlement.
 The elements for the creation of an express trust over the shares appear to be satisfied. The taxpayer intended to create a trust over the shares and there is also certainty of the terms of the trust, the trust property (the shares) and the object of the trust (the intending purchaser).
-However it is not certain that a trust can be created in respect of an asset if there exists a legal impediment to the transfer of the asset's legal title. There are cases where equity will not recognise interests created over an asset that is not freely transferable at law. However, McHugh J said in Nelson v. Nelson (1995) 184 CLR 538 at 613
-
-[Courts] should not refuse to enforce legal or equitable rights simply because they arose out of or were associated with an unlawful purpose unless:
-
-(a)the statute discloses an intention that those rights should be unenforceable in all circumstances; or
-(b)
-
-(i) the sanction of refusing to enforce those rights is not disproportionate to the seriousness of the unlawful conduct
+However it is not certain that a trust can be created in respect of an asset if there exists a legal impediment to the transfer of the asset's legal title. There are cases where equity will not recognise interests created over an asset that is not freely transferable at law. However, McHugh J said in Nelson v. Nelson (1995) 184 CLR 538 at 613 [Courts] should not refuse to enforce legal or equitable rights simply because they arose out of or were associated with an unlawful purpose unless: (a)the statute discloses an intention that those rights should be unenforceable in all circumstances; or
+(b) (i) the sanction of refusing to enforce those rights is not disproportionate to the seriousness of the unlawful conduct
 (ii) the imposition of the sanction is necessary, having regard to the terms of the statute, to protect its objects and policies; and
-(iii) the statute does not disclose an intention that the sanctions and remedies contained in the statute are to be the only legal consequences of a breach of the statute or the frustration of its policies.
-
-The declaration of trust by the legal owner of shares in a company in administration does not fit within any of the exceptions outlined by McHugh J. Section 437F of the Corporations Act provides that:
-
-a transfer of shares in a company, or an alteration in the status of members of a company, that is made during the administration of the company is void except so far as the Court otherwise orders.
-
-It is considered that this provision does not absolutely prohibit dealings in, or the creation of rights in respect of, shares in a company in administration.
-In McPherson's Law of Company Liquidation (Keay, A 1999, 4th ed, 239-40) it is pointed out that the object of comparable liquidation provisions (subsections 468(1) and 493(2) of the Corporations Act) is:
-
-...to prevent the transfer of a share to an impecunious entity to avoid liabilities that may arise in respect of that share...[is] sufficiently served by avoiding only the transfer itself. A mere contract to transfer shares is not rendered illegal or void by the statute so that, as between the parties themselves, the purchaser would be entitled to any dividends declared, and bound to pay calls made upon those shares after the contract was entered into.
-
-It is considered that the object of the provisions is also not frustrated by a declaration of trust, as the legal owner of the shares (as the trustee) remains principally liable in respect of the liabilities that attach to the shares.
+(iii) the statute does not disclose an intention that the sanctions and remedies contained in the statute are to be the only legal consequences of a breach of the statute or the frustration of its policies. The declaration of trust by the legal owner of shares in a company in administration does not fit within any of the exceptions outlined by McHugh J. Section 437F of the Corporations Act provides that: a transfer of shares in a company, or an alteration in the status of members of a company, that is made during the administration of the company is void except so far as the Court otherwise orders. It is considered that this provision does not absolutely prohibit dealings in, or the creation of rights in respect of, shares in a company in administration.
+In McPherson's Law of Company Liquidation (Keay, A 1999, 4th ed, 239-40) it is pointed out that the object of comparable liquidation provisions (subsections 468(1) and 493(2) of the Corporations Act) is: ...to prevent the transfer of a share to an impecunious entity to avoid liabilities that may arise in respect of that share...[is] sufficiently served by avoiding only the transfer itself. A mere contract to transfer shares is not rendered illegal or void by the statute so that, as between the parties themselves, the purchaser would be entitled to any dividends declared, and bound to pay calls made upon those shares after the contract was entered into. It is considered that the object of the provisions is also not frustrated by a declaration of trust, as the legal owner of the shares (as the trustee) remains principally liable in respect of the liabilities that attach to the shares.
 Therefore, CGT event E1 happens to the taxpayer when the trust is created: subsection 104-55(2) of the ITAA 1997. In this case, as the market value of the shares at that time is less than their reduced cost bases at that time, the taxpayer will make a capital loss: subsection 104-55(3) of the ITAA 1997.
-Date of decision:
-  24 October 2003
-
-Year of income:
-  year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-55   subsection 104-55(2)   subsection 104-55(3)
-Corporations Act 2001   section 437F   subsection 468(1)   subsection 493(2)
-
-Case References:
-
-Nelson v. Nelson    (1995) 184 CLR 538
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/865
-
-Other References:
-
-Keay, A 1999, McPherson's Law of Company Liquidation, 4th ed, 239-40
-
-Keywords
-
-Capital gains tax
- CGT events E1 - E9 - trusts
- Shares
- Voluntary administration
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  14 November 2003
-
-Date reviewed:
-  3 April 2014
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-24 October 2003
-Original statement
-
-You are here
+Date of decision: 24 October 2003 Year of income: year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 104-55 subsection 104-55(2) subsection 104-55(3)
+Corporations Act 2001 section 437F subsection 468(1) subsection 493(2) Case References: Nelson v. Nelson (1995) 184 CLR 538 Related ATO Interpretative Decisions ATO ID 2003/865 Other References: Keay, A 1999, McPherson's Law of Company Liquidation, 4th ed, 239-40 Keywords Capital gains tax CGT events E1 - E9 - trusts Shares Voluntary administration Business Line: Private Groups and High Wealth Individuals Date of publication: 14 November 2003 Date reviewed: 3 April 2014 ISSN: 1445-2782 history Date: Version: 24 October 2003
+Original statement You are here
 26 August 2016
 Archived

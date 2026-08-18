@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/389
-==================================================
-
-Income Tax
- Consolidation - modified market value and a third party debt/equity swap
- FOI status: may be released
-
-This ATO ID has been updated to improve clarity, and to remove references to related ATO ID 2004/387 and related ATO ID 2004/388 as these have been withdrawn. A reference to TR 2004/9 has been added as this explains the Commissioner's view on the meaning of the phrase 'injection of capital' and also contains analysis of debt/equity swaps.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation - modified market value and a third party debt/equity swap FOI status: may be released This ATO ID has been updated to improve clarity, and to remove references to related ATO ID 2004/387 and related ATO ID 2004/388 as these have been withdrawn. A reference to TR 2004/9 has been added as this explains the Commissioner's view on the meaning of the phrase 'injection of capital' and also contains analysis of debt/equity swaps. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a debt/equity swap, undertaken between 3 parties, constitute an event for the debtor under paragraph 707-325(4)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) for the purpose of the rule to prevent the inflation of modified market value ('anti-inflation rule')?
 Decision
 Yes. A debt/equity swap undertaken between 3 parties is considered to be an event for the debtor as described in paragraph 707-325(4)(a) of the ITAA 1997.
@@ -39,44 +26,6 @@ This arrangement is considered to be an event as described in paragraph 707-325(
 As Head Co has issued shares to Bank Co, an event of an injection of capital into Head Co has occurred. The event triggers the anti-inflation rule with regard to Fin Co as the injection occurs in Head Co (an associate of Fin Co under section 318 of the Income Tax Assessment Act 1936) and had the effect of increasing Fin Co's modified market value at the joining time over what it would have been had the transaction not taken place. As the transaction took place after 8 December 2000 and in the four years prior to Head Co forming a consolidated group, this event is not disregarded for purposes of the anti-inflation rule.
 A reduction in the modified market value of Fin Co may be required under subsection 707-325(2) of the ITAA 1997.
 This arrangement also constitutes an event with regard to Head Co. However, in the absence of any other events involving Head Co, the anti-inflation rule is not triggered for Head Co as its modified market value at the joining time is not greater than it would otherwise have been had the arrangement not taken place. The value attributable to Head Co beneficially owning Fin Co (where the increase in value is reflected) is disregarded in determining Head Co's modified market value by paragraph 707-325(1)(c) of the ITAA 1997.
-Date of decision:
-  23 April 2004
-
-Year of income:
-  Income year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 707-325   subsection 707-325(1)   paragraph 707-325(1)(c)   subsection 707-325(2)   subsection 707-325(3)   subsection 707-325(4)   paragraph 707-325(4)(a)   subsection 707-325(5)   paragraph 707-325(5)(a)   paragraph 707-325(5)(b)
-Income Tax Assessment Act 1936   section 318
-Income Tax (Transitional Provisions) Act 1997   section 707-329
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2004/9
-
-Keywords
-
-Acquisition of shares
- Associate
- Consolidatable group
- Consolidation
- Consolidation - event
- Consolidation - losses
- Consolidation - reduction
- Debt waivers
- Injection of capital
- Joining entity
- Modified market value
-
-Siebel/TDMS Reference Number:
-  4019360
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  7 May 2004
-
-ISSN:
- 1445-2782
+Date of decision: 23 April 2004 Year of income: Income year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 707-325 subsection 707-325(1) paragraph 707-325(1)(c) subsection 707-325(2) subsection 707-325(3) subsection 707-325(4) paragraph 707-325(4)(a) subsection 707-325(5) paragraph 707-325(5)(a) paragraph 707-325(5)(b)
+Income Tax Assessment Act 1936 section 318
+Income Tax (Transitional Provisions) Act 1997 section 707-329 Related Public Rulings (including Determinations) Taxation Ruling TR 2004/9 Keywords Acquisition of shares Associate Consolidatable group Consolidation Consolidation - event Consolidation - losses Consolidation - reduction Debt waivers Injection of capital Joining entity Modified market value Siebel/TDMS Reference Number: 4019360 Business Line: Consolidation Centre of Expertise Date of publication: 7 May 2004 ISSN: 1445-2782

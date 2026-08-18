@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/837
-==================================================
-
-Income Tax
- Division 7A: 'Maximum term' of loan where private company takes security over a previously unsecured loan
- FOI status: may be released
-
-This ATO ID is withdrawn from 1 July 2007 following introduction of subsections 109E(3A) and (3B) by Tax Laws Amendment (2007 Measures No. 3) Act 2007 No. 79, 2007. Despite its withdrawal, this ATO ID continues to be the ATO view in respect of 2006 and earlier income years except for the reference to paragraph 109D(1)(b) which was amended by Tax Laws Amendment (2004 Measures No. 7) Act 2005 No. 41, 2005.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Division 7A: 'Maximum term' of loan where private company takes security over a previously unsecured loan FOI status: may be released This ATO ID is withdrawn from 1 July 2007 following introduction of subsections 109E(3A) and (3B) by Tax Laws Amendment (2007 Measures No. 3) Act 2007 No. 79, 2007. Despite its withdrawal, this ATO ID continues to be the ATO view in respect of 2006 and earlier income years except for the reference to paragraph 109D(1)(b) which was amended by Tax Laws Amendment (2004 Measures No. 7) Act 2005 No. 41, 2005. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a private company secures a previously unsecured loan made to a shareholder, by taking a registered mortgage over real property which satisfies the criteria in paragraph 109N(3)(a) of the Income Tax Assessment Act 1936 (ITAA 1936), but does not create a new loan, does this extend the 'maximum term' of the loan to 25 years?
 Decision
 No. The taking of security by the private company over the previously unsecured loan, where a new loan is not created, does not extend the 'maximum term' of the loan under subsection 109N(3) of the ITAA 1936.
@@ -27,58 +12,14 @@ During the income year ended 30 June 2002, the private company secured 100% of t
 Reasons for Decision
 A private company is taken to pay a dividend to a shareholder under subsection 109D(1) of the ITAA 1936 if the private company makes a loan to a shareholder during the income year, the loan is not fully repaid by the end of that income year, and subdivision D of Division 7A of Part III of the ITAA 1936 does not prevent the private company from being taken to pay a dividend.
 Subsection 109N(1) of Subdivision D of Division 7A of Part III of the ITAA 1936 prevents a private company from being taken to pay a dividend under section 109D of the ITAA 1936 if the loan is made under a written agreement, the rate of interest payable on the loan equals or exceeds the benchmark interest rate, and the term of the loan does not exceed the 'maximum term' for that kind of loan.
-Subsection 109N(3) of the ITAA 1936 defines the 'maximum term' as:
-
-•25 years for a loan if 100% of the value of the loan is secured by a mortgage over real property that has been registered under State or Territory law and, when the loan is first made, the market value of the real property (less the amounts of any other liabilities secured in priority over the property) is at least 110% of the amount of the loan; or
-•7 years for any other loan.
-
-The maximum term is calculated from the year the loan is made. Subsection 109D(4) of the ITAA 1936 states that a loan is made when the amount of the loan is paid to the shareholder.
+Subsection 109N(3) of the ITAA 1936 defines the 'maximum term' as: •25 years for a loan if 100% of the value of the loan is secured by a mortgage over real property that has been registered under State or Territory law and, when the loan is first made, the market value of the real property (less the amounts of any other liabilities secured in priority over the property) is at least 110% of the amount of the loan; or
+•7 years for any other loan. The maximum term is calculated from the year the loan is made. Subsection 109D(4) of the ITAA 1936 states that a loan is made when the amount of the loan is paid to the shareholder.
 Subsection 109E(1) of the ITAA 1936 provides that, in the years following the income year a loan is made, the private company may be taken to pay a dividend to its shareholder if the loan is not repaid and the 'minimum yearly repayment' has not been made.
 In this case, the unsecured loan made by the private company to the shareholder during the income year ended 30 June 2000 satisfies the conditions in subsection 109N(1) of the ITAA 1936. Accordingly, the private company is not taken to pay a dividend to the shareholder under subsection 109D(1) of the ITAA 1936.
 Nor is the private company taken to pay a dividend to the shareholder during the income year ended 30 June 2001 under subsection 109E(1) of the ITAA 1936, as the shareholder made the minimum yearly repayment in respect of the loan.
 During the income year ended 30 June 2002, the private company secured 100% of the outstanding balance of the loan by taking a registered mortgage over real property which satisfied the criteria in subsection 109N(3) of the ITAA 1936. If the loan was a new loan, the maximum term would be 25 years. However, a new loan agreement was not entered into and so the maximum term of the loan is calculated from the year the loan was made (that is, the year ended 30 June 2000). The loan was not secured in that year and so the maximum term of the loan is 7 years.
 Therefore, the maximum term of the loan under subsection 109N(3) of the ITAA 1936 is not extended to 25 years as a result of the private company taking security over the previously unsecured loan.
-Date of decision:
-  22 August 2003
-
-Year of income:
-  Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 109D(1)   subsection 109D(4)   subsection 109E(1)   subsection 109E(5)   subsection 109N(1)   subsection 109N(2)   subsection 109N(3)
-
-Keywords
-
-Deemed dividends
- Mortgages
- Private companies
- Shareholder loans
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  19 September 2003
-
-Date reviewed:
-  26 June 2014
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-22 August 2003
-Original statement
-
-You are here
+Date of decision: 22 August 2003 Year of income: Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 109D(1) subsection 109D(4) subsection 109E(1) subsection 109E(5) subsection 109N(1) subsection 109N(2) subsection 109N(3) Keywords Deemed dividends Mortgages Private companies Shareholder loans Business Line: Private Groups and High Wealth Individuals Date of publication: 19 September 2003 Date reviewed: 26 June 2014 ISSN: 1445-2782 history Date: Version: 22 August 2003
+Original statement You are here
 28 July 2017
 Archived

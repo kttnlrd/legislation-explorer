@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/562
-==================================================
-
-Income Tax
- Foreign Income and Foreign Losses: income derived from trading shares on the United States stock exchange
- FOI status: may be released
-
-This ATO Interpretative Decision is withdrawn because section 79D of the Income Tax Assessment Act 1936 does not apply for income years commencing on or after 1 July 2008. Despite its withdrawal, this ATO Interpretative Decision continues to be a precedential view in respect of decisions for income years up to, and including, the 2007-08 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign Income and Foreign Losses: income derived from trading shares on the United States stock exchange FOI status: may be released This ATO Interpretative Decision is withdrawn because section 79D of the Income Tax Assessment Act 1936 does not apply for income years commencing on or after 1 July 2008. Despite its withdrawal, this ATO Interpretative Decision continues to be a precedential view in respect of decisions for income years up to, and including, the 2007-08 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a deduction for prior year foreign losses allowable under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) against an Australian resident taxpayer's income derived from trading shares listed on the United States (US) stock exchange?
 Decision
 Yes. A deduction for prior year foreign losses is allowable under section 8-1 of the ITAA 1997 against an Australian resident taxpayer's income derived from trading shares listed on the US stock exchange as the income is foreign assessable income which is of the same class as the foreign losses.
@@ -33,14 +18,10 @@ Section 160AFD(9) of the ITAA 1936 defines 'foreign income deduction' in relatio
 The phrase 'any deduction ... allowed or allowable' in section 160AFD(9) of the ITAA 1936 refers to any deduction allowable under the ITAA 1936 or the ITAA 1997 - both general (section 8-1 of the ITAA 1997) and specific deductions (section 8-5 of the ITAA 1997).
 To be allowable the foreign income deduction must relate to assessable foreign income of the same class. The term 'assessable foreign income' is defined in section 160AFD(9) of the ITAA 1936 to include foreign income which is included in the assessable income of the taxpayer.
 Subsection 6AB(1) of the ITAA 1936 provides that a reference to 'foreign income' is a reference to income derived from sources in a foreign country or foreign countries.
-Under subsection 160AFD(8) of the ITAA 1936, each of the following kinds of assessable foreign income constitutes a single class:
-
-•interest income
+Under subsection 160AFD(8) of the ITAA 1936, each of the following kinds of assessable foreign income constitutes a single class: •interest income
 •modified passive income
 •offshore banking income, and
-•all other assessable foreign income.
-
-The question under consideration is whether prior year foreign losses accumulated from share trading activities can be applied against income derived from the trading of shares listed on the US stock exchange in accordance with section 160AFD of the ITAA 1936.
+•all other assessable foreign income. The question under consideration is whether prior year foreign losses accumulated from share trading activities can be applied against income derived from the trading of shares listed on the US stock exchange in accordance with section 160AFD of the ITAA 1936.
 In determining whether, for the purposes of section 6AB of the ITAA 1936, income, and hence losses which have been incurred in the same manner, have been derived from a source in a foreign country, no legislative rules are provided in section 6AB itself.
 Apart from certain rules prescribed for statutory income (for example, royalties, interest and dividends), there are no statutory guidelines in the Income Tax Legislation for determining the source of income or losses. The Double Tax Agreement between the US and Australia (the US Convention) does not provide guidance in relation to the source of the income in question.
 In the absence of statutory source rules, reliance is placed on the general common law source rules as they relate to income.
@@ -50,58 +31,8 @@ In Australian Machinery and Investments Company Ltd v. Deputy Commissioner of Ta
 In the above cases the courts have taken the view that where the immediate cause of the derivation of income is the contract under which the right to the relevant income arises, the source of that income is the contract itself. As such losses incurred relating to the derivation of such income will have the same source as the income derived.
 In the present case, the contracts for the purchase and sale of the shares are made in the US. The income arising from the sale of the shares is attributed to the jurisdiction in which the contracts are concluded. Losses incurred in the derivation of such income will also have their source in the jurisdiction where the contracts are concluded. The income is foreign income as defined in section 6AB of the ITAA 1936.
 Prior year foreign losses carried forward relate to income from the same class as defined in subsection 160AFD(8) of the ITAA 1936. Accordingly, the taxpayer can apply the losses incurred in prior years against income derived from buying and selling shares pursuant to section 160AFD of the ITAA 1936 and section 8-1 of the ITAA 1997.
-Date of decision:
-  21st June 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1   section 8-5   subsection 8-5(2)   section 12-5
-Income Tax Assessment Act 1936   section 6AB   subsection 6AB(1)   section 79D   subsection 79D(2)   section 160AFD   subsection 160AFD(2)   subsection 160AFD(8)   subsection 160AFD(9)
-
-Case References:
-
-Nathan v. Federal Commissioner of Taxation    (1918) 25 CLR 183
-
-FC of T v. Efstathakis   79 ATC 4256   (1979) 9 ATR 867
-
-Cliffs International Inc v. FC of T   85 ATC 4374   (1985) 16 ATR 601
-
-Australian Machinery & Investment Co. Ltd. v. Deputy Commissioner of Taxation   (1946) 180 CLR 9   (1946) 8 ATD 81   (1946) 3 AITR 359
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/903
-
-Keywords
-
-Foreign income
- Foreign losses
- Quarantining of foreign losses
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 July 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-21 June 2004
-Original statement
-
-You are here
+Date of decision: 21st June 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 8-1 section 8-5 subsection 8-5(2) section 12-5
+Income Tax Assessment Act 1936 section 6AB subsection 6AB(1) section 79D subsection 79D(2) section 160AFD subsection 160AFD(2) subsection 160AFD(8) subsection 160AFD(9) Case References: Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183 FC of T v. Efstathakis 79 ATC 4256 (1979) 9 ATR 867 Cliffs International Inc v. FC of T 85 ATC 4374 (1985) 16 ATR 601 Australian Machinery & Investment Co. Ltd. v. Deputy Commissioner of Taxation (1946) 180 CLR 9 (1946) 8 ATD 81 (1946) 3 AITR 359 Related ATO Interpretative Decisions ATO ID 2002/903 Keywords Foreign income Foreign losses Quarantining of foreign losses Business Line: Public Groups and International Date of publication: 9 July 2004 ISSN: 1445-2782 history Date: Version: 21 June 2004
+Original statement You are here
 19 June 2009
 Archived

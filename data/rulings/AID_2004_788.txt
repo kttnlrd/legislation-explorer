@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/788
-==================================================
-
-Income tax
- Capital Gains Tax: becoming an Australian resident - assets having the necessary connection with Australia - private company shares
- FOI status: may be released
-
-This ATOID concerns provisions in Division 136 which was repealed by Act 168 of 2006. The new law, Division 855, applicable to CGT events that happen on or after 12 December 2006, differs in a material way.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital Gains Tax: becoming an Australian resident - assets having the necessary connection with Australia - private company shares FOI status: may be released This ATOID concerns provisions in Division 136 which was repealed by Act 168 of 2006. The new law, Division 855, applicable to CGT events that happen on or after 12 December 2006, differs in a material way. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If an individual who owns shares in a private company becomes a resident of Australia, and as a consequence the private company becomes a resident, will the shares have the necessary connection with Australia under section 136-25 of the Income Tax Assessment Act 1997 (ITAA 1997) just before that time, such that the exception in paragraph 136-40(1)(a) of the ITAA 1997 applies?
 Decision
 No. If an individual who owns shares in a private company becomes a resident of Australia, and as a consequence the private company becomes a resident, the shares will not have the necessary connection with Australia under section 136-25 of the ITAA 1997 just before that time.
@@ -28,51 +13,10 @@ As a general rule, you acquire a CGT asset when you become its owner (section 10
 However, more specific provisions in section 136-40 of the ITAA 1997 apply in respect of assets that do not have the necessary connection with Australia, are acquired on or after 20 September 1985, and are owned by a non-resident just before that person becomes a resident of Australia.
 The special acquisition rule in section 136-40 of the ITAA 1997 treats the non-resident taxpayer as having acquired the assets at the time they become a resident of Australia, at market value (subsection 136-40(2)). This is because, generally speaking, gains in respect of those assets accruing prior to the change of residency fall outside the Australian capital gains tax provisions
 However, paragraph 136-40(1)(a) of the ITAA 1997 excepts from this acquisition rule any CGT assets having the necessary connection with Australia just before that time. This is because, generally speaking, these assets are already within the ambit of the Australian capital gains tax provisions, and already have an acquisition date and cost base.
-Shares in a private company have the necessary connection with Australia if they are '... in a company which is an Australian resident ...
- for the income year in which the CGT event happens
- ' (section 136-25 category 3 of the ITAA 1997). Even though these highlighted words may fit neatly when reference is made to section 136-25 in determining the correct outcome in respect of a CGT event, they are incongruous when reference is made to that section in determining the correct outcome in respect of the potential operation of paragraph 136-40(1)(a) of the ITAA 1997 (because there is no CGT event).
+Shares in a private company have the necessary connection with Australia if they are '... in a company which is an Australian resident ... for the income year in which the CGT event happens ' (section 136-25 category 3 of the ITAA 1997). Even though these highlighted words may fit neatly when reference is made to section 136-25 in determining the correct outcome in respect of a CGT event, they are incongruous when reference is made to that section in determining the correct outcome in respect of the potential operation of paragraph 136-40(1)(a) of the ITAA 1997 (because there is no CGT event).
 To give effect to the policy intent within section 136-40 of the ITAA 1997, it is necessary to simply disregard the final words highlighted above when considering section 136-25 category 3 of the ITAA 1997 in the context of paragraph 136-40(1)(a).
 Just before the individual's change of residency the company was not an Australian resident. As such, and pursuant to the preferred reading of section 136-25 category 3 of the ITAA 1997, the individual's shares did not have the necessary connection with Australia at that time.
-Date of decision:
-  8 May 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 109-5   section 136-25   section 136-40   paragraph 136-40(1)(a)   subsection 136-40(2)
-
-Keywords
-
-Acquisition of CGT assets
- Capital gains tax
- CGT asset with the necessary connection with Australia
- CGT cost base
- CGT reduced cost base
- CGT taxable Australian assets
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  24 September 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 8 May 2003
-Original statement
-
-You are here
+Date of decision: 8 May 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 109-5 section 136-25 section 136-40 paragraph 136-40(1)(a) subsection 136-40(2) Keywords Acquisition of CGT assets Capital gains tax CGT asset with the necessary connection with Australia CGT cost base CGT reduced cost base CGT taxable Australian assets Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 24 September 2004 ISSN: 1445-2782 history Date: Version: 8 May 2003
+Original statement You are here
 18 December 2009
 Archived

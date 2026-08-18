@@ -1,19 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/20
-==================================================
-
-Goods and Services Tax
- GST and supply of goods and the transport of those goods into Australia
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and supply of goods and the transport of those goods into Australia With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a non-resident supplier of goods to a recipient in Australia, making a GST-free supply of international transport under paragraph (b) of item 5 in the table in subsection 38-355(1) of the A New Tax System Goods and Services Tax Act 1999 (GST Act) when it delivers the goods to the recipient in Australia?
 Decision
 No. The entity is not making a GST-free supply of international transport under paragraph (b) of item 5 in subsection 38-355(1) of the GST Act. Rather they are making a composite supply of delivered goods to the recipient in Australia.
@@ -23,91 +11,28 @@ The entity sells goods to Australian based recipients on 'deliver at place' (DAP
 Additionally, as per DAP terms of trade the recipient has agreed to be responsible for any customs formalities, including the payment of duty and GST (if any) on the import of those goods into Australia.
 As per the terms and conditions the recipient is not entitled to make their own delivery arrangements to bring the goods into Australia.
 The value of the transport does not exceed $50,000.
-Reasons for decision
-
-Background
-
-Division 38 of the GST Act sets out supplies that are GST-free.
+Reasons for decision Background Division 38 of the GST Act sets out supplies that are GST-free.
 Relevantly, section 38-355 of the GST Act specifies when supplies of transport and related matters will be GST-free. In particular, paragraph (b) of item 5 in the table in subsection 38-355(1) (Item 5) of the GST Act provides that, subject to subsection 38-355(2), the supply of international transport of goods from a place outside Australia to their place of consignment in Australia will be GST-free.
 Goods and Services Tax Ruling GSTR 2001/8 provides that where a supply consists of more than one part, such as with goods and delivery (that is, transport), the supply could be either a mixed or a composite supply.
 If the delivery services are integral, ancillary or incidental to the supply of goods, the supply is a composite supply of delivered goods. A composite supply of delivered goods is treated as a single supply and takes its GST status from the dominant part of the supply, being the goods. If this is the case then Item 5 of the GST Act will not be relevant and therefore will not apply.
-However, if the supply of goods and delivery has separately identifiable parts that require individual recognition due to their relative significance in the supply, the supply is a mixed supply. A supply is also a mixed supply where the GST Act requires you to treat a part of a supply in a particular way. The GST status of the component parts of a mixed supply, being the goods and delivery, is determined separately. If the supply is a mixed supply then the delivery services can be considered separately to determine if that part of the supply meets the requirements of being GST-free under Item 5 of the GST Act.
-
-Is delivery part of a mixed supply or composite supply?
-
-Paragraph 59 of GSTR 2001/8 provides that no single factor (by itself) will provide the sole test for determining whether a part of a supply is integral, ancillary or incidental to the dominant part of the supply. All relevant circumstances should be taken into account, including for example, whether the transport contributes to the proper performance of the contract to supply the dominant part.
+However, if the supply of goods and delivery has separately identifiable parts that require individual recognition due to their relative significance in the supply, the supply is a mixed supply. A supply is also a mixed supply where the GST Act requires you to treat a part of a supply in a particular way. The GST status of the component parts of a mixed supply, being the goods and delivery, is determined separately. If the supply is a mixed supply then the delivery services can be considered separately to determine if that part of the supply meets the requirements of being GST-free under Item 5 of the GST Act. Is delivery part of a mixed supply or composite supply? Paragraph 59 of GSTR 2001/8 provides that no single factor (by itself) will provide the sole test for determining whether a part of a supply is integral, ancillary or incidental to the dominant part of the supply. All relevant circumstances should be taken into account, including for example, whether the transport contributes to the proper performance of the contract to supply the dominant part.
 Paragraph 2 of GSTD 2002/3 provides that a delivery service is significant where it is an aim in itself. That is, where the recipient has a genuine choice under the contract as to whether the supplier delivers the goods.
-A choice is indicated where:
-
-•the recipient is not obliged to use the delivery services; and
-•the supplier provides reasonable access, at no extra charge, to recipients who choose to make their own arrangements to collect the goods.
-
-In this case, we consider that delivery is integral, ancillary or incidental to the dominant supply of goods and accordingly, is a composite supply of delivered goods, as indicated by the following factors:
-
-•the recipient is not able to make their own delivery arrangements to bring the goods into Australia
+A choice is indicated where: •the recipient is not obliged to use the delivery services; and
+•the supplier provides reasonable access, at no extra charge, to recipients who choose to make their own arrangements to collect the goods. In this case, we consider that delivery is integral, ancillary or incidental to the dominant supply of goods and accordingly, is a composite supply of delivered goods, as indicated by the following factors: •the recipient is not able to make their own delivery arrangements to bring the goods into Australia
 •a single contract has been entered into that requires the goods to be delivered to the recipient in Australia
 •the supplier bears all risks in respect of the goods until they are delivered to the recipient
-•delivery is a means necessary for the recipient to receive the goods, but is not an aim in itself.
-
-Does the GST Act require you to treat the delivery part of a supply of delivered goods as a mixed supply for the purposes of item 5 in the table in subsection 38-355(1) of the GST Act?
-
-At paragraph 23 of GSTR 2001/8, a supply may be considered to be a mixed supply where a particular provision of the GST Act requires you to treat a part of a supply in a particular way, regardless of its scale or connection with the supply.
+•delivery is a means necessary for the recipient to receive the goods, but is not an aim in itself. Does the GST Act require you to treat the delivery part of a supply of delivered goods as a mixed supply for the purposes of item 5 in the table in subsection 38-355(1) of the GST Act? At paragraph 23 of GSTR 2001/8, a supply may be considered to be a mixed supply where a particular provision of the GST Act requires you to treat a part of a supply in a particular way, regardless of its scale or connection with the supply.
 For example, a supply of food as part of an excursion or field trip may otherwise be considered to be integral, ancillary or incidental to the supply of the excursion or field trip, but paragraph 38-90(2)(b) of the GST Act specifies that such food as part of the excursion or field trip is not GST-free. This means that the consideration for the field trip requires apportionment.
 We do not consider paragraph (b) of item 5 of the GST Act specifically requires a supply that is characterised as a composite supply of delivered goods to be treated as a mixed supply of goods and transport services.
 In paragraph 38-90(2)(b) of the GST Act, there is a specific reference and requirement to treat a supply of food as part of the excursion or field trip as GST-free. By contrast, item 5 of the GST Act refers only to supplies of international transport of goods, rather than transport specifically supplied as part of a supply of goods.
 Additionally, this interpretation of paragraph (b) of item 5 of the GST Act is considered to produce an appropriate outcome that is consistent with the policy intent having regard to section 13-20 of the GST Act. We consider the policy intent is that the international transport provisions under Item 5 of the GST Act and the value of the taxable importation (VoTI) provisions under section 13-20 of the GST Act operate in conjunction with each other to make international transport of goods subject to GST, if the goods are a taxable importation.
-Item 5 of the GST Act was amended in 2010. Paragraph 1.13 and 1.17 of the Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 3) Bill 2010 states:
-
-1.13 In certain circumstances, the liability for GST on the Australian leg of the international transport of imported goods is shifted from transport service suppliers to the importer of the goods. This is achieved by adding the importer's cost from the primary agreement for the Australian leg of the international transport of those to the 'value of the taxable importation' used to calculate the GST liability on importation.
-
-...
-
-1.17 The inclusion of the amount paid or payable for certain Australian legs of international transport in the value of taxable importations results in GST on the Australian transport of imported goods being collected at a single point at the border.
-
-Under these amendments, international transport suppliers (as opposed to suppliers of goods) can treat their supply of transport as GST-free when their transport costs are included in the VoTI.
+Item 5 of the GST Act was amended in 2010. Paragraph 1.13 and 1.17 of the Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 3) Bill 2010 states: 1.13 In certain circumstances, the liability for GST on the Australian leg of the international transport of imported goods is shifted from transport service suppliers to the importer of the goods. This is achieved by adding the importer's cost from the primary agreement for the Australian leg of the international transport of those to the 'value of the taxable importation' used to calculate the GST liability on importation. ... 1.17 The inclusion of the amount paid or payable for certain Australian legs of international transport in the value of taxable importations results in GST on the Australian transport of imported goods being collected at a single point at the border. Under these amendments, international transport suppliers (as opposed to suppliers of goods) can treat their supply of transport as GST-free when their transport costs are included in the VoTI.
 If the supplier of the 'delivered goods' makes the taxable importation, claims a creditable importation and is also entitled to treat their supply as a mixed supply of goods and GST-free international transport, this would undermine the intent of capturing the relevant GST on the transport services through the goods. As such, it is consistent with the policy intent that the international transport of goods is treated in the same manner as the goods.
 Another provision of the GST Act that could require the supply of delivered goods to be treated as separate supplies is Division 96. As such, item 5 of the GST Act may apply to provide GST-free treatment on the separate supply of transport. In this instance, we do not consider Division 96 applies because of the application of subsection 96-5(4) of the GST Act.
 Section 96-5 of the GST Act provides that if, because a supply (the actual supply) is a supply of more than one of these kinds; a supply of goods, a supply of real property, a telecommunication supply and a supply of anything, other than goods or real property, that is not a telecommunication supply; only part of the actual supply is connected with Australia, then the actual supply is to be treated as if it were separate supplies.
 However, subsection 96-5(4) of the GST Act provides an exclusion for the requirement to treat the parts as a separate supply if one of the kinds of supply that forms part of the actual supply may reasonably be regarded as incidental to the other kind of supply or one (but not both) of the other kinds of supply that form part of the actual supply, and its value (if it were a separate taxable supply) would not exceed $50,000.
 If the conditions in subsection 96-5(4) of the GST Act are met, the incidental part of the actual supply is treated as part of that other kind of supply, rather than a separate supply.
-In Saga Holidays Limited v. Federal Commissioner of Taxation [2006] FCAFC 191, the meaning of 'incidental' for the purposes of subsection 96-5(4) of the GST Act is discussed by Stone J (at paragraph 49):
-
-49. There is no definition of "incidental" in the Act. Of the meanings given by the Shorter Oxford English Dictionary and the Macquarie Dictionary respectively, the following meanings are the most apposite to s 96-5: "occurring as something ... of secondary importance" and "happening or likely to happen in fortuitous or subordinate conjunction with something else".
-
-As previously outlined, we consider that delivery is integral, ancillary or incidental to the dominant supply of goods. The value of the transport does not exceed $50,000. The conditions in subsection 96-5(4) of the GST Act are met and the transport component of the supply is not treated as if it were a separate supply under section 96-5 of the GST Act.
+In Saga Holidays Limited v. Federal Commissioner of Taxation [2006] FCAFC 191, the meaning of 'incidental' for the purposes of subsection 96-5(4) of the GST Act is discussed by Stone J (at paragraph 49): 49. There is no definition of "incidental" in the Act. Of the meanings given by the Shorter Oxford English Dictionary and the Macquarie Dictionary respectively, the following meanings are the most apposite to s 96-5: "occurring as something ... of secondary importance" and "happening or likely to happen in fortuitous or subordinate conjunction with something else". As previously outlined, we consider that delivery is integral, ancillary or incidental to the dominant supply of goods. The value of the transport does not exceed $50,000. The conditions in subsection 96-5(4) of the GST Act are met and the transport component of the supply is not treated as if it were a separate supply under section 96-5 of the GST Act.
 Conclusion
 As such, we consider the entity in this case is making a composite supply of delivered goods to the recipient in Australia and therefore paragraph (b) of item 5 of the GST Act does not apply to provide GST-free treatment to the international transport.
-Date of decision:
-  22 April 2013
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 13-20   Item 5 in the table in subsection 38-355(1)   paragraph (b) of item 5 in the table in subsection 38-355(1)   subsection 38-355(2)   paragraph 38-90(2)(b)   section 96-5   subsection 96-5(4)
-
-Case References:
-
-Saga Holidays Limited v Federal Commissioner of Taxation   [2006] FCAFC 191   2006 ATC 4841   64 ATR 602
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 3) Bill 2010
-
-Keywords
-
-Goods and services tax
- GST international services
- GST Transport
- Transport of goods
- Partly connected with Australia
-
-Siebel/TDMS Reference Number:
-  1-4FV8LTZ
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  1 April 2013
-
-ISSN:
- 1445-2782
+Date of decision: 22 April 2013 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 13-20 Item 5 in the table in subsection 38-355(1) paragraph (b) of item 5 in the table in subsection 38-355(1) subsection 38-355(2) paragraph 38-90(2)(b) section 96-5 subsection 96-5(4) Case References: Saga Holidays Limited v Federal Commissioner of Taxation [2006] FCAFC 191 2006 ATC 4841 64 ATR 602 Other References: Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 3) Bill 2010 Keywords Goods and services tax GST international services GST Transport Transport of goods Partly connected with Australia Siebel/TDMS Reference Number: 1-4FV8LTZ Business Line: Indirect Tax Date of publication: 1 April 2013 ISSN: 1445-2782

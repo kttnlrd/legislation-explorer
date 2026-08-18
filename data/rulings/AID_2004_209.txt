@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/209
-==================================================
-
-Income Tax
- Simplified Tax System (STS): effective life of a depreciating asset
- FOI status: may be released
-
-This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2006-07 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Simplified Tax System (STS): effective life of a depreciating asset FOI status: may be released This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2006-07 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Should a taxpayer allocate a long life asset, which they owned prior to becoming an STS taxpayer, to their long life pool for the purposes of section 328-185 of the Income Tax Assessment Act 1997 (ITAA 1997) where that asset has a remaining effective life of less than 25 years?
 Decision
 Yes. The asset should be allocated to the long life pool for the purposes of section 328-185 of the ITAA 1997.
@@ -27,64 +12,17 @@ At the time of purchase, the asset had an effective life of over 25 years.
 Some years after purchasing the asset, the taxpayer entered the Simplified Tax System (STS).
 The depreciating asset was purchased after 1 July 2001.
 Reasons for Decision
-An STS taxpayer must deduct amounts for their depreciating assets through a pool. Subsection 328-185(2) of the ITAA 1997 states that there are two kinds of pools:
-
-(a) a general STS pool to which depreciating assets having effective lives of less than 25 years are allocated; and
-(b) a long life STS pool to which depreciating assets having effective lives of 25 years or more are allocated.
-
-Subsection 328-185(3) of the ITAA 1997 automatically allocates a depreciating asset which
-
-(a) is held by an STS taxpayer just before and at the start of the first income year for which the taxpayer became an STS taxpayer; and
+An STS taxpayer must deduct amounts for their depreciating assets through a pool. Subsection 328-185(2) of the ITAA 1997 states that there are two kinds of pools: (a) a general STS pool to which depreciating assets having effective lives of less than 25 years are allocated; and
+(b) a long life STS pool to which depreciating assets having effective lives of 25 years or more are allocated. Subsection 328-185(3) of the ITAA 1997 automatically allocates a depreciating asset which (a) is held by an STS taxpayer just before and at the start of the first income year for which the taxpayer became an STS taxpayer; and
 (b) has deductions calculated under this Subdivision instead of Division 40; and
 (c) has not been allocated previously to either of the above two pools; and
-(d) is used or installed ready for use for a taxable purpose;
-
-to the respective pools according to the asset's effective life.
+(d) is used or installed ready for use for a taxable purpose; to the respective pools according to the asset's effective life.
 The definition of 'effective life' in section 995-1 of the ITAA 1997 states that 'the effective life of a depreciating asset is worked out under sections 40-95, 40-100, 40-102, 40-105 and 40-110 (all of the ITAA 1997)'.
 Subsection 40-95(1) of the ITAA 1997 states that you can either use the effective life determined by the Commissioner under section 40-100, or work out the effective life yourself under section 40-105.
 Subsection 40-95(3) of the ITAA 1997 states that 'you must make the choice for the income year in which the asset's start time occurs'. 'Start time' is defined in subsection 40-60(2) as: 'The start time of a depreciating asset is when you first use it, or have it installed ready for use, for any purpose'.
 Subsection 40-110(1) of the ITAA 1997 allows a taxpayer to recalculate the effective life where the 'effective life you have been using is no longer accurate because of changed circumstances relating to the nature of the use of the asset.' Examples of such changed circumstances, which concentrate on the asset becoming either redundant or less rigorously used, are listed after the subsection. The taxpayer's entry into the simplified tax system does not fit into this category of changed use of the asset. Accordingly, section 40-110 would not allow the taxpayer to recalculate the effective life of their long life depreciating asset when they become an STS taxpayer.
 The effective life of the asset is therefore the one the taxpayer determined in the year that they first used it or had it installed ready for use for any purpose. As the effective life of the asset when they first used it was greater than 25 years then, when the taxpayer elects to enter the STS, the asset will retain that effective life of greater than 25 years. The taxpayer will therefore allocate the asset into the long life pool when they join the STS.
-Date of decision:
-  23 December 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 328-185   section 40-95   section 40-105   section 40-100   section 40-110
-
-Keywords
-
-Capital allowances for STS taxpayers
- Depreciating assets
- Effective life
- General STS pool
- Long life STS pool
- Simplified tax system
-
-Business Line:
-  Business and Personal Taxes Centre of Expertise
-
-Date of publication:
-  5 March 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 December 2003
-Original statement
-
-You are here
+Date of decision: 23 December 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 328-185 section 40-95 section 40-105 section 40-100 section 40-110 Keywords Capital allowances for STS taxpayers Depreciating assets Effective life General STS pool Long life STS pool Simplified tax system Business Line: Business and Personal Taxes Centre of Expertise Date of publication: 5 March 2004 ISSN: 1445-2782 history Date: Version: 23 December 2003
+Original statement You are here
 30 November 2007
 Archived

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/864
-==================================================
-
-Goods and Services Tax
- GST and walking frames
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and walking frames FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of medical aids and appliances, making a GST-free supply under subsection 38-45(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a walking frame?
 Decision
 Yes, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies a walking frame.
@@ -22,59 +11,17 @@ The walking frames are specifically designed for people with an illness or disab
 There is no agreement between the entity and the recipient that the supply is not to be treated as a GST-free supply.
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
-Under subsection 38-45(1) of the GST Act, the supply of a medical aid or appliance is GST-free where the medical aid or appliance:
-
-•is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
+Under subsection 38-45(1) of the GST Act, the supply of a medical aid or appliance is GST-free where the medical aid or appliance: •is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
 •is specifically designed for people with an illness or disability; and
-•is not widely used by people without an illness or disability.
-
-Items of relevance in Schedule 3 are:
-
-•item 98 in Schedule 3 (Item 98) 'walking frames - standard adult';
+•is not widely used by people without an illness or disability. Items of relevance in Schedule 3 are: •item 98 in Schedule 3 (Item 98) 'walking frames - standard adult';
 •item 99 in Schedule 3 (Item 99) 'walking frames - standard child'; and
-•item 100 in Schedule 3 (Item 100) ' walking frames - specialised'.
-
-Standard walking frames for adults and children are frames designed to support adults and children while they are walking. Specialised walking frames are frames that have additional special characteristics or functions, or have been made or adapted to the specific illness or disability of a particular person.
+•item 100 in Schedule 3 (Item 100) ' walking frames - specialised'. Standard walking frames for adults and children are frames designed to support adults and children while they are walking. Specialised walking frames are frames that have additional special characteristics or functions, or have been made or adapted to the specific illness or disability of a particular person.
 The entity's walking frames do not have any special characteristics nor have they been adapted to the specific illness or disability of a particular patient. Therefore, they are not considered to be specialised walking frames under Item 100.
 The walking frames in question are designed to support adults and children whilst they are walking. As such, the walking frames designed for adults are covered by Item 98 and the frames designed for children are covered by Item 99.
 In addition, the walking frames are specifically designed for people with an illness or disability and are not widely used by people without an illness or disability. As such, the requirements in subsection 38-45(1) of the GST Act are met.
-Therefore, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies a walking frame for an adult or child.
-
-[Note: As the entity's supply of the walking frame is GST-free, the importation of the walking frame is a non-taxable importation as defined in section 13-10 of the GST Act.]
-
-Amendment History
-
-Date of Amendment
+Therefore, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies a walking frame for an adult or child. [Note: As the entity's supply of the walking frame is GST-free, the importation of the walking frame is a non-taxable importation as defined in section 13-10 of the GST Act.] Amendment History Date of Amendment
 Part
-Comment
-
-9 April 2019
+Comment 9 April 2019
 Throughout
-Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019.
-
-Date of decision:
-  1 May 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 13-10   subsection 38-45(1)   Schedule 3   Schedule 3 table item 98   Schedule 3 table item 99   Schedule 3 table item 100
-A New Tax System (Goods and Services Tax) Regulations 2019   The Regulations
-
-Keywords
-
-Goods and services tax
- GST free
- GST health
- Section 38-45 - medical aids & appliances
-
-Siebel/TDMS Reference Number:
-  CW247336
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  27 August 2002
-
-ISSN:
- 1445-2782
+Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019. Date of decision: 1 May 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 13-10 subsection 38-45(1) Schedule 3 Schedule 3 table item 98 Schedule 3 table item 99 Schedule 3 table item 100
+A New Tax System (Goods and Services Tax) Regulations 2019 The Regulations Keywords Goods and services tax GST free GST health Section 38-45 - medical aids & appliances Siebel/TDMS Reference Number: CW247336 Business Line: Indirect Tax Date of publication: 27 August 2002 ISSN: 1445-2782

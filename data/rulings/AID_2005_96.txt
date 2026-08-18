@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/96
-==================================================
-
-Income Tax
- Capital gains tax: assets having necessary connection with Australia: foreign resident company becoming Australian resident
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply to CGT events that happen on or after 12 December 2006. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for CGT events up to, but excluding, 12 December 2006.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: assets having necessary connection with Australia: foreign resident company becoming Australian resident FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply to CGT events that happen on or after 12 December 2006. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for CGT events up to, but excluding, 12 December 2006. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a foreign resident be taken to have disposed of assets having the necessary connection with Australia under category number 3 in the table in section 136-25 of the Income Tax Assessment Act 1997 (ITAA 1997) if they dispose of all the shares in a foreign resident private company which becomes an Australian resident immediately after the time of the disposal?
 Decision
 No. The foreign resident will not be taken to have disposed of assets having the necessary connection with Australia under category number 3 in the table in section 136-25 of the ITAA 1997 in these circumstances because the company was not an Australian resident just before the CGT event happened to the shares.
@@ -27,59 +12,12 @@ Reasons for Decision
 CGT event A1 happens if a taxpayer disposes of a CGT asset: subsection 104-10(1) of the ITAA 1997.
 Where a foreign resident taxpayer disposes of shares in a company, the taxpayer will only make a capital gain or capital loss if the shares have the necessary connection with Australia: section 136-10 of the ITAA 1997.
 Shares in a private company will have the necessary connection with Australia if category number 3 in the table in section 136-25 of the ITAA 1997 is satisfied.
-Category number 3 requires, as one of its tests, that the shares be held in a company that:
-
-is an Australian resident...for the income year in which the CGT event happens.
-
-In this case while the foreign resident company became a resident of Australia during the income year in which the CGT event (that is, CGT event A1 in section 104-10 of the ITAA 1997) happened, it did not become an Australian resident until immediately after the CGT event happened.
+Category number 3 requires, as one of its tests, that the shares be held in a company that: is an Australian resident...for the income year in which the CGT event happens. In this case while the foreign resident company became a resident of Australia during the income year in which the CGT event (that is, CGT event A1 in section 104-10 of the ITAA 1997) happened, it did not become an Australian resident until immediately after the CGT event happened.
 Generally speaking, CGT assets that do not have the necessary connection with Australia fall outside the scope of the capital gains tax provisions if held by a foreign resident taxpayer. However, if a foreign resident taxpayer becomes an Australian resident, these assets are brought within the scope of the provisions by section 136-40 of the ITAA 1997. At that time, the assets are granted a market value cost base on the basis that gains or losses in respect of those assets accruing prior to the change of residency fall outside the capital gains tax provisions.
 Therefore, to give effect to this policy intent, it is considered that shares will have the necessary connection with Australia for the purposes of category number 3 in the table in section 136-25 of the ITAA 1997 only if they are in a company that is an Australian resident just before the CGT event happened.
 In this case, when the foreign resident disposed of their shares in the company CGT event A1 happened. Until the event happened, the foreign resident owned all the shares in the company and the company was not an Australian resident for income tax purposes. Therefore, it is considered that the shares would not have had the necessary connection with Australia for the purposes of category number 3 in the table in section 136-25 of the ITAA 1997.
-Date of decision:
-  25 February 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)
-Income Tax Assessment Act 1997   section 104-10   subsection 104-10(1)   section 136-10   section 136-25   section 136-40
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/788
-
-Keywords
-
-CGT assets
- CGT asset with the necessary connection with Australia
- CGT event A1 -disposal of a CGT asset
- Capital gains tax
- Non resident companies
- Non resident entities
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  8 April 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-25 February 2005
-Original statement
-
-You are here
+Date of decision: 25 February 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 subsection 6(1)
+Income Tax Assessment Act 1997 section 104-10 subsection 104-10(1) section 136-10 section 136-25 section 136-40 Related ATO Interpretative Decisions ATO ID 2004/788 Keywords CGT assets CGT asset with the necessary connection with Australia CGT event A1 -disposal of a CGT asset Capital gains tax Non resident companies Non resident entities Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 8 April 2005 ISSN: 1445-2782 history Date: Version: 25 February 2005
+Original statement You are here
 11 December 2009
 Archived

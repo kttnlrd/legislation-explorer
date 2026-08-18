@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/30
-==================================================
-
-Goods and Services Tax
- GST: revocation of approval of membership in a GST group of a company that goes into liquidation on or after 4 December 2009
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST: revocation of approval of membership in a GST group of a company that goes into liquidation on or after 4 December 2009 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the entity, a member of a GST group, have its GST group membership approval revoked by the Commissioner under subsection 48-70(2) of the A New Tax System (Goods and Services) Act 1999 (GST Act) when the entity and no other GST group member goes into liquidation, on or after 4 December 2009, and the representative member of the GST group makes no election under subsection 48-73(1) of the GST Act?
 Decision
 Yes, the entity will have its GST group membership revoked by the Commissioner under subsection 48-70(2) of the GST Act when the entity and no other GST group member goes into liquidation, on or after 4 December 2009, and the representative member of the GST group makes no election under subsection 48-73(1) of the GST Act.
@@ -24,39 +13,5 @@ Under subsection 48-70(2) of the GST Act, the Commissioner must revoke the appro
 Section 48-10 of the GST Act sets out the membership requirements for GST groups. One of the membership requirements that must be satisfied is that a group member must have the same tax periods applying to it as the tax periods applying to all the other members of the GST group (paragraph 48-10(1)(d) of the GST Act).
 Effective from 4 December 2009, subsection 27-39(1) of the GST Act provides that where an entity becomes an incapacitated entity (which includes an entity in liquidation), the entity's tax period at the time is taken to have ended at the end of the day before the entity becomes incapacitated.
 The entity becomes incapacitated, and as such, its tax period at the time is taken to have ended at the end of the day before it becomes incapacitated. Therefore, the entity does not continue to have the same tax periods as the other members of the GST group and does not satisfy the membership requirements for GST groups as set out in section 48-10 of the GST Act.
-Therefore, the approval of the entity's GST group membership must be revoked under subsection 48-70(2) of the GST Act.
-
-Notes:
-
-1.Under subsection 48-73(1) of the GST Act, the representative member of the GST group may elect to have the tax period that applies to group members cease at the same time as the incapacitated entity's tax period ceases. If this election is made then the tax period applying to all group members will be the same. Thus the group member that is in liquidation will not be required to exit the group on the basis that it has different tax periods to other members of the GST group.
-2.This ATO ID applies where a company goes into liquidation on or after 4 December 2009. Because of changes to Division 48 of the GST Act that apply to tax periods starting on or after 1 July 2010, the ATO ID does not apply to tax periods commencing on or after 1 July 2010.
-
-Date of decision:
-  17 June 2010
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 27-39(1)   section 48-10   paragraph 48-10(1)(d)   subsection 48-70(2)   paragraph 48-70(1)(b)   subsection 48-70(1A)   subsection 48-73(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/693 - for date of effect of revocation
- ATO ID 2004/676 - for liquidations occurring prior to 4 December 2009
-
-Keywords
-
-Goods and services tax
- GST special rules
- GST groups
-
-Siebel/TDMS Reference Number:
-  4183269
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  21 April 2011
-
-ISSN:
- 1445-2782
+Therefore, the approval of the entity's GST group membership must be revoked under subsection 48-70(2) of the GST Act. Notes: 1.Under subsection 48-73(1) of the GST Act, the representative member of the GST group may elect to have the tax period that applies to group members cease at the same time as the incapacitated entity's tax period ceases. If this election is made then the tax period applying to all group members will be the same. Thus the group member that is in liquidation will not be required to exit the group on the basis that it has different tax periods to other members of the GST group.
+2.This ATO ID applies where a company goes into liquidation on or after 4 December 2009. Because of changes to Division 48 of the GST Act that apply to tax periods starting on or after 1 July 2010, the ATO ID does not apply to tax periods commencing on or after 1 July 2010. Date of decision: 17 June 2010 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 27-39(1) section 48-10 paragraph 48-10(1)(d) subsection 48-70(2) paragraph 48-70(1)(b) subsection 48-70(1A) subsection 48-73(1) Related ATO Interpretative Decisions ATO ID 2004/693 - for date of effect of revocation ATO ID 2004/676 - for liquidations occurring prior to 4 December 2009 Keywords Goods and services tax GST special rules GST groups Siebel/TDMS Reference Number: 4183269 Business Line: Indirect Tax Date of publication: 21 April 2011 ISSN: 1445-2782

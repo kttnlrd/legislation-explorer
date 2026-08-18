@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/82
-==================================================
-
-Excise
- Fuel Tax Credits: requirement for tax invoice to claim fuel tax credit
- FOI status: may be released
-
-This ATOID is withdrawn. Guidance on this issue is covered by web content.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Excise Fuel Tax Credits: requirement for tax invoice to claim fuel tax credit FOI status: may be released This ATOID is withdrawn. Guidance on this issue is covered by web content. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an entity, which is registered for goods and services tax (GST), required to hold a tax invoice at the time it claims a fuel tax credit in respect of taxable fuel pursuant to subsection 65-5(1) of the Fuel Tax Act 2006 (FTA).
 Decision
 Yes, an entity, which is registered for GST, is required to hold a tax invoice at the time it claims a fuel tax credit in respect of taxable fuel pursuant to subsection 65-5(1) of the FTA.
@@ -31,56 +16,11 @@ The entity received a tax invoice after it had lodged its business activity stat
 Reasons for Decision
 Division 65 of the FTA sets out the attribution rules for fuel tax credits and fuel tax adjustments.
 Subsection 65-5(1) of the FTA provides that a fuel tax credit is attributable to the same tax period to which the input tax credit for the fuel is attributable under the GST Act. This means that the timing of the attribution of a fuel tax credit is subject to the same attribution rules that exist for GST.
-Subsection 29-10(1) of the GST Act provides that the input tax credit for a creditable acquisition made by an entity that accounts for GST on a non-cash basis is attributable to either:
-
-•the tax period in which any of the consideration is provided, or
-•the tax period, if before any of the consideration is received, an invoice is issued relating to the supply.
-
-The entity paid for the fuel and received an invoice (not a tax invoice) in the month it acquired the fuel. Therefore, under paragraph 29-10(1)(a) of the GST Act, the input tax credit would be attributable to that month (tax period).
+Subsection 29-10(1) of the GST Act provides that the input tax credit for a creditable acquisition made by an entity that accounts for GST on a non-cash basis is attributable to either: •the tax period in which any of the consideration is provided, or
+•the tax period, if before any of the consideration is received, an invoice is issued relating to the supply. The entity paid for the fuel and received an invoice (not a tax invoice) in the month it acquired the fuel. Therefore, under paragraph 29-10(1)(a) of the GST Act, the input tax credit would be attributable to that month (tax period).
 However, subsection 29-10(3) of the GST Act delays attribution of input tax credits to the tax period in which an entity holds a tax invoice for a creditable acquisition. Subsection 29-10(3) of the GST Act provides that the input tax credit is not attributable to the tax period that would otherwise apply under paragraph 29-10(1)(a) of the GST Act, and is attributable to the first tax period for which the entity gives the Commissioner a GST return at a time when it holds the relevant tax invoice. The entity should attribute the input tax credit to the tax period in which it holds the relevant tax invoice - the month after it acquired the fuel.
-As subsection 65-5(1) of the FTA provides that a fuel tax credit is attributable to the same tax period to which the input tax credit is attributable under the GST Act, it follows that the entity's fuel tax credit is attributable to the tax period in which it holds the relevant a tax invoice.
-
-Note: Subsection 65-5(4) of the FTA provides that if an entity's return does not take into account a fuel tax credit that is attributable to the tax period under subsections 65-5(1), 65-5(2) or 65-5(3) of the FTA, then the credit ceases to be attributable to that period and becomes attributable to the first period for which the entity gives the Commissioner a return that does take it into account.
-
-Date of decision:
-  23 April 2007
-
-Legislative References:
-
-Fuel Tax Act 2006   section 41-5   subsection 65-5(1)   subsection 65-5(4)
-A New Tax System (Goods and Services Tax) Act 1999   subsection 29-10(1)   paragraph 29-10(1)(a)   subsection 29-10(3)
-
-Keywords
-
-Fuel Tax Credits
- Attribution rules
- Input tax credit
- GST tax periods
-
-Siebel/TDMS Reference Number:
-  5534190; 1-G7T1IGE
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  4 May 2007
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 April 2007
-Original statement
-
-You are here
+As subsection 65-5(1) of the FTA provides that a fuel tax credit is attributable to the same tax period to which the input tax credit is attributable under the GST Act, it follows that the entity's fuel tax credit is attributable to the tax period in which it holds the relevant a tax invoice. Note: Subsection 65-5(4) of the FTA provides that if an entity's return does not take into account a fuel tax credit that is attributable to the tax period under subsections 65-5(1), 65-5(2) or 65-5(3) of the FTA, then the credit ceases to be attributable to that period and becomes attributable to the first period for which the entity gives the Commissioner a return that does take it into account. Date of decision: 23 April 2007 Legislative References: Fuel Tax Act 2006 section 41-5 subsection 65-5(1) subsection 65-5(4)
+A New Tax System (Goods and Services Tax) Act 1999 subsection 29-10(1) paragraph 29-10(1)(a) subsection 29-10(3) Keywords Fuel Tax Credits Attribution rules Input tax credit GST tax periods Siebel/TDMS Reference Number: 5534190; 1-G7T1IGE Business Line: Indirect Tax Date of publication: 4 May 2007 ISSN: 1445-2782 history Date: Version: 23 April 2007
+Original statement You are here
 11 October 2018
 Archived

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/86
-==================================================
-
-Income Tax
- Research and Development Tax Offset: 'R&D group turnover' where ownership of interests in an eligible company by an entity in capacity as trustee
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development Tax Offset: 'R&D group turnover' where ownership of interests in an eligible company by an entity in capacity as trustee FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where an eligible company is controlled by a person in a capacity as trustee, is the 'value of supplies' made by this person, as defined by subsection 73H(2) of the Income Tax Assessment Act 1936 (ITAA 1936), based only on those supplies made by it as trustee?
 Decision
 Yes. The 'value of supplies' made by the person in its capacity as trustee, to be included in the 'R&D group turnover' of the eligible company under section 73K of the ITAA 1936, is based only on those supplies made by this person as trustee of the relevant trust estate.
@@ -24,60 +13,17 @@ The unit trust has not made any distributions in the last four years of income a
 The eligible company does not own interests in any company under subsection 73L(3) of the ITAA 1936 and does not control any trust estate or partnership under subsections 73L(3), 73L(4) or 73L(5) of the ITAA 1936. Nor is the eligible company affiliated with any person(s) under section 73M of the ITAA 1936.
 Reasons for Decision
 In addition to the other eligibility criteria set out in section 73J of the ITAA 1936, paragraph 73J(1)(d) of the ITAA 1936 states that an eligible company is eligible to choose the tax offset for the tax offset year, being the 2003-04 income year, if the R&D group turnover of the company for that year is less than $5,000,000.
-'R&D group turnover' is defined by section 73K of the ITAA 1936, as the sum of:
-
-(a)the value of supplies the company made in the year of income; and
-(b)the value of supplies made in the year of income by other persons while they were grouped with the company;
-
-reduced by [not presently relevant]:
-
-'Value of supplies' is defined in section 73H of the ITAA 1936.
+'R&D group turnover' is defined by section 73K of the ITAA 1936, as the sum of: (a)the value of supplies the company made in the year of income; and
+(b)the value of supplies made in the year of income by other persons while they were grouped with the company; reduced by [not presently relevant]: 'Value of supplies' is defined in section 73H of the ITAA 1936.
 Section 73L of the ITAA 1936 determines whether a person is grouped with another person, for the purposes of paragraph (d) of subsection 73J(1) of the ITAA 1936 and section 73K of the ITAA 1936.
-Under subsection 73L(1) of the ITAA 1936, a person is grouped with another person at a time in a year of income if, at that time:
-
-(a)either person controls the other person in the way described in this section;
+Under subsection 73L(1) of the ITAA 1936, a person is grouped with another person at a time in a year of income if, at that time: (a)either person controls the other person in the way described in this section;
 (b)both persons are controlled in the same way by the same third person; or
-(c)the persons are affiliates of each other.
-
-The eligible company does not own any interests in any other person within the meaning of subsection 73L(3) of the ITAA 1936. Nor does it control any trust estate or partnership under subsections 73L(3), 73L(4) or 73L(5) of the ITAA 1936. Further, the eligible company is not an affiliate of any person under section 73M of the ITAA 1936. The question therefore is to determine whether any person controls the eligible company under subsection 73L(3) of the ITAA 1936.
-Subsection 73L(3) of the ITAA 1936 states that:
-
-A person controls another person if the first person, or the first person together with the first person's affiliates:
-
-(a)legally or beneficially own, or have the right to acquire the legal or beneficial ownership of, interests in the other person that carry between them the right to receive more than 50% of any distribution of income or capital by the other person; or
-(b)if the other person is a company - legally or beneficially own or have the right to acquire the legal or beneficial ownership of, interests in the company that carry between them the right to exercise or control the exercise of, more than 50% of the voting power in the company.
-
-Under the terms of the trust deed, no unit holder has any rights in relation to the voting power of the eligible company, nor does any unit holder have any rights with regard to distributions of income or capital by the eligible company.
+(c)the persons are affiliates of each other. The eligible company does not own any interests in any other person within the meaning of subsection 73L(3) of the ITAA 1936. Nor does it control any trust estate or partnership under subsections 73L(3), 73L(4) or 73L(5) of the ITAA 1936. Further, the eligible company is not an affiliate of any person under section 73M of the ITAA 1936. The question therefore is to determine whether any person controls the eligible company under subsection 73L(3) of the ITAA 1936.
+Subsection 73L(3) of the ITAA 1936 states that: A person controls another person if the first person, or the first person together with the first person's affiliates: (a)legally or beneficially own, or have the right to acquire the legal or beneficial ownership of, interests in the other person that carry between them the right to receive more than 50% of any distribution of income or capital by the other person; or
+(b)if the other person is a company - legally or beneficially own or have the right to acquire the legal or beneficial ownership of, interests in the company that carry between them the right to exercise or control the exercise of, more than 50% of the voting power in the company. Under the terms of the trust deed, no unit holder has any rights in relation to the voting power of the eligible company, nor does any unit holder have any rights with regard to distributions of income or capital by the eligible company.
 Trustee Company does own relevant interests concerning the eligible company and is therefore the relevant person for the purposes of subsection 73L(3) of the ITAA 1936. Under this subsection Trustee Company does control the eligible company as its ownership of these interests entitles it to greater than the required percentage of distributions of income or capital by the eligible company.
 However, the question of whose turnover should be included for the purposes of section 73K of the ITAA 1936 remains.
 Trustee Company owns the relevant interests in the eligible company as trustee of the unit trust and not in any private or other capacity. For that reason, the value of supplies relevant for section 73K of the ITAA 1997 purposes are those made by Trustee Company as trustee for the unit trust. It is therefore the value of supplies of the unit trust made by Trustee Company as trustee, that is included in the R&D group turnover of the eligible company. The value of supplies made by Trustee Company in any capacity other than as trustee for the unit trust is not relevant here.
 A further step is to determine whether any other person is grouped with Trustee Company as trustee of the unit trust, so as to affect the calculation of the eligible company's 'R&D group turnover'. That is, whether any other person controls or is otherwise grouped with the unit trust. On the facts, no other person is grouped with the unit trust under subsection 73L(4) of the ITAA 1936 and Trustee Company does not control the unit trust under subsection 73L(4) of the ITAA 1936. Therefore, the value of supplies made by Parent will not be included in the eligible company's 'R&D Group turnover'.
 In conclusion, the 'R&D group turnover' of the eligible company, is the sum of the value of supplies made by it together with the value of supplies made by Trustee Company as trustee of the unit trust.
-Date of decision:
-  14 March 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   paragraph 73J(1)(d)   section 73H   section 73K   section 73L
-
-Keywords
-
-Grouped entities for research and development
- Grouped taxpayers for R&D - control
- Research & development group turnover
- Research & development tax offset
-
-Siebel/TDMS Reference Number:
-  4465692
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  1 April 2005
-
-ISSN:
- 1445-2782
+Date of decision: 14 March 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 paragraph 73J(1)(d) section 73H section 73K section 73L Keywords Grouped entities for research and development Grouped taxpayers for R&D - control Research & development group turnover Research & development tax offset Siebel/TDMS Reference Number: 4465692 Business Line: Public Groups and International Date of publication: 1 April 2005 ISSN: 1445-2782

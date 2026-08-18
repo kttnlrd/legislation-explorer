@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/520
-==================================================
-
-Goods and Services Tax
- GST and attribution of GST payable on a packaged supply of advertising services
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and attribution of GST payable on a packaged supply of advertising services FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of advertising services, able to attribute all of the goods and services tax (GST) payable on a supply in accordance with Division 156 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it makes a supply of a packaged advertising service consisting of two parts, only one of which is supplied on a progressive or periodic basis?
 Decision
 No, the entity is not able to attribute all of the GST payable on the supply in accordance with Division 156 of the GST Act when it makes a supply of packaged advertising services consisting of two parts, only one of which is supplied on a progressive or periodic basis. However, it can attribute GST payable on the part that is supplied on a progressive or periodic basis in accordance with Division 156 of the GST Act.
@@ -24,52 +13,14 @@ In some cases, the entity supplies online advertising services and print adverti
 The entity is registered for GST.
 Reasons for Decision
 Division 156 of the GST Act sets out special rules relating to supplies and acquisitions made on a progressive or periodic basis.
-Under subsection 156-5(1) of the GST Act, the GST payable by an entity on a taxable supply that is made:
-
-•for a period or on a progressive basis; and
-•for consideration that is to be provided on a progressive or periodic basis;
-
-is attributable, in accordance with section 29-5 of the GST Act, as if each progressive or periodic component of the supply were a separate supply.
-The entity receives one payment each month for its supply of the packaged advertising services. Therefore, the consideration for the taxable supply is being provided on a periodic basis. However, the supply consists of two parts, one of which is a supply made on a progressive or periodic basis (ie the online advertising services) and the other which is not made on a progressive or periodic basis (ie the one-off print advertisement). As such, it needs to be determined whether the entity is making either:
-
-•a single supply, all of which is made on a progressive or periodic basis; or
-•a supply which consists of separate parts, only one of which is made on a progressive or periodic basis, that need to be treated differently for GST attribution purposes.
-
-In determining whether a supply has separately identifiable parts, it is necessary to objectively assess the characteristics of the supply.
-In relation to whether various parts of a supply are separately identifiable, Millet LJ stated in Customs and Excise Commissioners v Wellington Private Hospital Ltd (1997) BVC 251 at 266 that:
-
-'The proper inquiry is whether one element of the transaction is so dominated by another element as to lose any separate identity as a supply for fiscal purposes, leaving the latter, the dominant element of the transaction, as the only supply. If the elements of the transaction are not in this relationship with each other, each remains as a supply in its own right with its own separate fiscal consequences.'
-
-Millet LJ (at p 266) also found that courts need to ask whether one part is connected with the other, or whether the two parts are 'physically and economically dissociable'.
+Under subsection 156-5(1) of the GST Act, the GST payable by an entity on a taxable supply that is made: •for a period or on a progressive basis; and
+•for consideration that is to be provided on a progressive or periodic basis; is attributable, in accordance with section 29-5 of the GST Act, as if each progressive or periodic component of the supply were a separate supply.
+The entity receives one payment each month for its supply of the packaged advertising services. Therefore, the consideration for the taxable supply is being provided on a periodic basis. However, the supply consists of two parts, one of which is a supply made on a progressive or periodic basis (ie the online advertising services) and the other which is not made on a progressive or periodic basis (ie the one-off print advertisement). As such, it needs to be determined whether the entity is making either: •a single supply, all of which is made on a progressive or periodic basis; or
+•a supply which consists of separate parts, only one of which is made on a progressive or periodic basis, that need to be treated differently for GST attribution purposes. In determining whether a supply has separately identifiable parts, it is necessary to objectively assess the characteristics of the supply.
+In relation to whether various parts of a supply are separately identifiable, Millet LJ stated in Customs and Excise Commissioners v Wellington Private Hospital Ltd (1997) BVC 251 at 266 that: 'The proper inquiry is whether one element of the transaction is so dominated by another element as to lose any separate identity as a supply for fiscal purposes, leaving the latter, the dominant element of the transaction, as the only supply. If the elements of the transaction are not in this relationship with each other, each remains as a supply in its own right with its own separate fiscal consequences.' Millet LJ (at p 266) also found that courts need to ask whether one part is connected with the other, or whether the two parts are 'physically and economically dissociable'.
 In this case, the separate parts of the packaged advertising services can be supplied on their own, and in fact, in some cases are. Therefore, neither part of the packaged advertising service is so dominated by the other part as to lose any separate identity it may have. Furthermore, the online advertising is physically separable from the print advertising, and as the entity can value each part, the separate parts are also economically separable.
 Therefore, each part of the supply of the packaged advertising service remains a supply in its own right and each part must be treated according to whether it is a supply made for a period or on a progressive basis for the purposes of Division 156 of the GST Act.
 The online advertising part of the packaged supply is a supply to which Division 156 of the GST Act applies. As such, the GST payable on the consideration which can be attributed to the supply of online services must be attributed in accordance with Division 156 of the GST Act. As a one-off print advertisement is not supplied for a period or on a progressive basis, Division 156 of the GST Act does not apply to this part of the advertising package. Therefore, the GST payable on the consideration that relates to the print advertising must be attributed in accordance with Division 29 of the GST Act.
 The entity is not able to attribute all of the GST payable on the supply in accordance with Division 156 of the GST Act when it makes a supply of packaged advertising services consisting of two parts, only one of which is supplied for a period or on a progressive basis.
-Date of decision:
-  30 May 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 29   Division 156   subsection 156-5(1)
-
-Related Public Rulings (including Determinations)
-
-GSTR 2000/35
-GSTR 2001/8
-
-Keywords
-
-Goods & services tax
- GST attribution rules
-
-Siebel/TDMS Reference Number:
-  CW205217
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  31 May 2002
-
-ISSN:
- 1445-2782
+Date of decision: 30 May 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 29 Division 156 subsection 156-5(1) Related Public Rulings (including Determinations) GSTR 2000/35
+GSTR 2001/8 Keywords Goods & services tax GST attribution rules Siebel/TDMS Reference Number: CW205217 Business Line: Indirect Tax Date of publication: 31 May 2002 ISSN: 1445-2782

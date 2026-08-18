@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/458
-==================================================
-
-Income Tax
- Capital Gains Tax: CGT event K3 - assets pass to a tax exempt testamentary trust
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: CGT event K3 - assets pass to a tax exempt testamentary trust FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does CGT event K3 in section 104-215 of the Income Tax Assessment Act 1997 (ITAA 1997) happen if assets, owned by a deceased person at the date of their death, pass to a trust established under their will which is an exempt entity and, under the terms of the trust, the assets are to be held in the trust in perpetuity with the trust income to be applied for public charitable purposes?
 Decision
 Yes. CGT event K3 happens if assets owned by a deceased person at the date of their death pass to a beneficiary in their estate that is an exempt entity when the assets pass. In the circumstances of this case, the testamentary trust is a beneficiary of the estate.
@@ -31,100 +18,20 @@ An asset passes to a beneficiary in an estate if the beneficiary becomes the own
 In the circumstances, it is considered that the charitable trust set up under the deceased's will is a beneficiary in the deceased's estate. The trust is a 'purpose' trust in that the assets will be held by the trust in perpetuity and the income of the trust will be used for public charitable purposes. That is, there are no other persons to whom the assets of the trust will eventually pass. Therefore, the testamentary trust is the beneficiary.
 The trust will commence at the completion of the administration of the estate. As the trust is an exempt entity from its commencement, CGT event K3 happens when the assets pass to it. The time of the event is just before the deceased died.
 Note 1: Law Administration Practice Statement PS LA 2003/12 sets out the Commissioner's practice for 'treating the trustee of a testamentary trust in the same way as a legal representative for capital gains tax purposes'. PS LA 2003/12 has no application in this case because the trust created under the will of the deceased is itself the ultimate beneficiary. In any event, PS LA 2003/12 contains the proviso that the practice is subject to the normal operation of CGT event K3.
-Note 2: Any capital gain or loss made as a result of CGT event K3 happening may be disregarded if the testamentary trust is a deductible gift recipient: section 118-60 of the ITAA 1997.
-
-Amendment History
-
-Date
+Note 2: Any capital gain or loss made as a result of CGT event K3 happening may be disregarded if the testamentary trust is a deductible gift recipient: section 118-60 of the ITAA 1997. Amendment History Date
 Part
-Comment
-
-9 June 2017
+Comment 9 June 2017
 Reason for Decision
-Minor punctuation
-
-Legislative references
-section 118-60(1) updated to section 118-60
-
-13 April 2017
+Minor punctuation Legislative references
+section 118-60(1) updated to section 118-60 13 April 2017
 All
-Changed references to 'Tax Office' to 'ATO' as per the ATO Style Guide
-
-Reasons for Decision
-Pinpointed legislative references
-
- Updated reference in PS LA 2003/12 to reflect the current Practice Statement
-
-1 September 2014
+Changed references to 'Tax Office' to 'ATO' as per the ATO Style Guide Reasons for Decision
+Pinpointed legislative references Updated reference in PS LA 2003/12 to reflect the current Practice Statement 1 September 2014
 Facts
-Remove and update terms from superseded legislation
-
-Reasons for Decision
-Remove and update terms from superseded legislation
-
-Legislative references
-Remove reference to superseded legislation
-
-Date of decision:
-  14 May 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 50   Subdivision 50-B   section 50-52   section 104-215   subsection 104-215(1)(a)   subsection 104-215(3)   section 118-60   section 128-10   subsection 128-20(1)   subsection 995-1(1)
-
-Other References:
-
- Law Administration Practice Statement PS LA 2003/12
-
-Keywords
-
-Capital gains
- Capital gains tax
- Capital losses
- CGT assets
- CGT deceased estates
- CGT events K1-K6 - other events
- Charitable trusts
- Deductible gift recipients
-
-Siebel/TDMS Reference Number:
-  4070489 / 1-B43N542 / 1-BHVMWF7
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  4 June 2004
-
-Date reviewed:
-  2 June 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 May 2004
-Original statement
-
- 
- 1 September 2014
-Updated statement
-
- 
-13 April 2017
-Updated statement
-
-You are here
- 9 June 2017
+Remove and update terms from superseded legislation Reasons for Decision
+Remove and update terms from superseded legislation Legislative references
+Remove reference to superseded legislation Date of decision: 14 May 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Division 50 Subdivision 50-B section 50-52 section 104-215 subsection 104-215(1)(a) subsection 104-215(3) section 118-60 section 128-10 subsection 128-20(1) subsection 995-1(1) Other References: Law Administration Practice Statement PS LA 2003/12 Keywords Capital gains Capital gains tax Capital losses CGT assets CGT deceased estates CGT events K1-K6 - other events Charitable trusts Deductible gift recipients Siebel/TDMS Reference Number: 4070489 / 1-B43N542 / 1-BHVMWF7 Business Line: Private Groups and High Wealth Individuals Date of publication: 4 June 2004 Date reviewed: 2 June 2017 ISSN: 1445-2782 history Date: Version: 14 May 2004
+Original statement 1 September 2014
+Updated statement 13 April 2017
+Updated statement You are here 9 June 2017
 Updated statement

@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2004/729
-==================================================
-
-Goods and Services Tax
- GST and calculating the margin on a taxable supply of real property after the purchaser exercises a call option and purchases the property
- FOI status: may be released
-
-ATO ID 2004/729 is withdrawn and has been replaced by GSTD 2014/2 - Goods and services tax: where real property is acquired following the exercise of a call option, does the call option fee form part of the consideration for the acquisition for the purposes of subsection 75-10(2) of the A New Tax System (Goods and Services Tax) Act 1999?
-This ATO ID has been amended to take into account the amendments to the margin scheme enacted under the Tax Laws Amendment (2005 Measures No 2) Act 2005 and under the Tax Laws Amendment (2008 Measures No 5) Act 2008.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and calculating the margin on a taxable supply of real property after the purchaser exercises a call option and purchases the property FOI status: may be released ATO ID 2004/729 is withdrawn and has been replaced by GSTD 2014/2 - Goods and services tax: where real property is acquired following the exercise of a call option, does the call option fee form part of the consideration for the acquisition for the purposes of subsection 75-10(2) of the A New Tax System (Goods and Services Tax) Act 1999?
+This ATO ID has been amended to take into account the amendments to the margin scheme enacted under the Tax Laws Amendment (2005 Measures No 2) Act 2005 and under the Tax Laws Amendment (2008 Measures No 5) Act 2008. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entity, a supplier of real property, include the call option fee as part of the consideration for a supply of real property in calculating the margin for the purposes of the margin scheme under Division 75 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when the purchaser has exercised the call option to purchase the property?
 Decision
 No, the entity does not include the call option fee as consideration for a supply of real property in calculating the margin for the purposes of the margin scheme under Division 75 of the GST Act when the purchaser has exercised the call option to purchase the property.
@@ -26,18 +11,10 @@ The entity is a supplier of real property and is registered for goods and servic
 Before the sale, the entity granted the purchaser a call option over the property and charged the purchaser a call option fee. If the purchaser subsequently takes up the option to purchase the property, the call option fee that has been paid will be applied to the purchase price of the property (that is at the time of supply, the purchaser will only pay the difference between the agreed purchase price and the amount of the option fee). The supply of the call option by the entity was a taxable supply under section 9-5 of the GST Act.
 The purchaser exercised the option to purchase the real property from the entity. The entity's sale of the real property to the purchaser was made under a contract entered into on or after 29 June 2005 and was not made pursuant to a right or option granted before that day. The supply was a taxable supply under section 9-5 of the GST Act.
 The entity and the purchaser agreed in writing before the supply that the margin scheme was to apply. The supply of the real property satisfies the other requirements of section 75-5 of the GST Act for the margin scheme to apply.
-The circumstances specified in the items in the table in subsection 75-10(3) of the GST Act are not applicable to the supply of the real property by the entity. The circumstances specified in section 75-11 of the GST Act are also not applicable as the entity did not acquire the real property it sold from:
-
-•a member of a GST group the entity was a member of;
+The circumstances specified in the items in the table in subsection 75-10(3) of the GST Act are not applicable to the supply of the real property by the entity. The circumstances specified in section 75-11 of the GST Act are also not applicable as the entity did not acquire the real property it sold from: •a member of a GST group the entity was a member of;
 •the joint venture operator of a GST joint venture the entity was a participant in; or
-•an associate of the entity,
-
-nor did the entity:
-
-•inherit the real property from a deceased estate; or
-•acquire the real property under a GST-free supply of farmland or going concern.
-
-Reasons for Decision
+•an associate of the entity, nor did the entity: •inherit the real property from a deceased estate; or
+•acquire the real property under a GST-free supply of farmland or going concern. Reasons for Decision
 The sale of the real property by the entity satisfies the requirements of section 75-5 of the GST Act and the entity and purchaser have agreed in writing to apply the margin scheme in working out the amount of GST on the taxable supply. To determine its GST liability, the entity must calculate the margin for the supply.
 Subsection 75-10(1) of the GST Act provides that the amount of GST on a taxable supply of real property made under the margin scheme is 1/11th of the margin for the supply. Accordingly, to determine the amount of GST, the entity must calculate the margin for the supply.
 The margin for a supply of real property is calculated in accordance with either section 75-10 of the GST Act or section 75-11 of the GST Act. However, as the circumstances specified in both the items in the table in subsection 75-10(3) of the GST Act and section 75-11 are not applicable to the entity, the margin for the supply in this instance is calculated in accordance with subsection 75-10(2) of the GST Act.
@@ -46,49 +23,6 @@ The entity granted the purchaser a call option over the property and charged the
 Subparagraph 9-15(3)(a)(i) of the GST Act provides that, if a right or option to acquire a thing is granted then the consideration for the supply of the thing on the exercise of the right or option is limited to any additional consideration provided either for the supply or in connection with the exercise of the right or option.
 Although the call option fee is applied to the purchase price of the property, the supply of the real property, on the exercise of the option, is a distinct and separate supply from the supply of the option.
 As such, due to the operation of subparagraph 9-15(3)(a)(i) of the GST Act, the consideration for the supply of the real property, on the exercise of the option, is limited to the additional amount that the purchaser pays, after the call option fee is applied to the purchase price of the property (that is the difference between the agreed purchase price and the amount of the option fee). The call option fee is consideration for the call option over the property rather than for the supply of the property itself.
-Therefore, the entity does not include the call option fee as part of the consideration for the supply of the real property in calculating the margin under either section 75-10 of the GST Act or section 75-11 of the GST Act when the purchaser has exercised the call option to purchase the property.
-
-Note 1: In addition, if the purchaser later sells the real property and the margin scheme is applied to that sale, then the consideration that the purchaser provided for the acquisition of the real property does not include the amount paid for the option.
-
-Note 2: Where a taxable supply of real property was made pursuant to contracts entered into prior to 29 June 2005 or made pursuant to rights and options granted before that day, the margin scheme could be applied if the supplier chose to apply the margin scheme and the supplier did not acquire the real property through a taxable supply on which the GST was worked out without applying the margin scheme.
-
-Date of decision:
-  8 October 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subparagraph 9-15(3)(a)(i)   Division 75   section 75-5   section 75-10   subsection 75-10(1)   subsection 75-10(2)   subsection 75-10(3)   section 75-11
-
-Keywords
-
-Goods and services tax
- GST property & construction
- GST margin scheme
- GST sale of real property
- GST supplies & acquisitions
- Taxable supply
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  3 September 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 8 October 2003
-Original statement
-
-You are here
- 5 February 2014
+Therefore, the entity does not include the call option fee as part of the consideration for the supply of the real property in calculating the margin under either section 75-10 of the GST Act or section 75-11 of the GST Act when the purchaser has exercised the call option to purchase the property. Note 1: In addition, if the purchaser later sells the real property and the margin scheme is applied to that sale, then the consideration that the purchaser provided for the acquisition of the real property does not include the amount paid for the option. Note 2: Where a taxable supply of real property was made pursuant to contracts entered into prior to 29 June 2005 or made pursuant to rights and options granted before that day, the margin scheme could be applied if the supplier chose to apply the margin scheme and the supplier did not acquire the real property through a taxable supply on which the GST was worked out without applying the margin scheme. Date of decision: 8 October 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subparagraph 9-15(3)(a)(i) Division 75 section 75-5 section 75-10 subsection 75-10(1) subsection 75-10(2) subsection 75-10(3) section 75-11 Keywords Goods and services tax GST property & construction GST margin scheme GST sale of real property GST supplies & acquisitions Taxable supply Business Line: Indirect Tax Date of publication: 3 September 2004 ISSN: 1445-2782 history Date: Version: 8 October 2003
+Original statement You are here 5 February 2014
 Archived

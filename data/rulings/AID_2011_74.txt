@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/74
-==================================================
-
-Income Tax
- Definition of 'public company': company controlled by a Government - tracing an interest held through a chain of subsidiaries
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Definition of 'public company': company controlled by a Government - tracing an interest held through a chain of subsidiaries FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can an interest in a company amount to a 'controlling interest' for the purpose of subparagraph 103A(2)(d)(iv) of the Income Tax Assessment Act 1936 (ITAA 1936) where the interest is held indirectly through a chain of subsidiary companies?
 Decision
 Yes. An interest in a company can amount to a 'controlling interest' for the purpose of subparagraph 103A(2)(d)(iv) of the ITAA 1936 where the interest is held indirectly through a chain of subsidiary companies.
@@ -23,75 +12,9 @@ Reasons for Decision
 Division 7 of Part III of the ITAA 1936 draws a distinction, for the purposes of that Division, between public companies and private companies.
 Subsection 103A(1) of the ITAA 1936 provides the definition of 'private company' and states that, for the purposes of Division 7 of Part III of the ITAA 1936, a company is a private company in relation to an income year if the company is not a public company for that year.
 Subsection 103A(2) of the ITAA 1936 states that, subject to the succeeding provisions of section 103A (which are not relevant in this case), a company will be a public company for the purposes of subsection 103A(1) if it falls within any of the categories listed in subsection 103A(2).
-Paragraph 103A(2)(d) of the ITAA 1936 relevantly stipulates that a company will be a public company if:
-
-(d)the company is:
-
-(iv)a company in which a Government ... had a controlling interest on the last day of the year of income;
-
-The term 'controlling interest' is not defined in Australia's income tax legislation. It therefore takes its ordinary meaning.
+Paragraph 103A(2)(d) of the ITAA 1936 relevantly stipulates that a company will be a public company if: (d)the company is: (iv)a company in which a Government ... had a controlling interest on the last day of the year of income; The term 'controlling interest' is not defined in Australia's income tax legislation. It therefore takes its ordinary meaning.
 The High Court has considered the term 'controlling interest' in the context of other provisions of the income tax legislation and concluded that the ordinary meaning of the term can include an interest held through a chain of subsidiary companies.
-In Mendes v. Commissioner of Probate Duties (Victoria) (1967) 122 CLR 152 at 162 Kitto J stated:
-
-...a company A, which by virtue of its voting power in a general meeting of company B controls that company, has a controlling interest in company C if company B holds the majority of votes in the general meeting of company C.
-
-Mason J in Kolotex Hosiery (Australia) Pty. Ltd. v. Federal Commissioner of Taxation (1973) 130 CLR 64 adopted that statement of Kitto J and said at 78:
-
-It is now beyond question that company A has a controlling interest in company C if, having control of company B, it has the majority voting power in company C by means of the votes attaching to its shares in company C and those attaching to the shares held in company C by company B. It is consistent with this approach to say that a parent company has a controlling interest in another company, its sub-subsidiary, even though it holds no shares in the sub-subsidiary, provided that it controls the majority in voting power in its subsidiary which in turn controls the majority voting power in the sub-subsidiary.
-
-This tracing approach to determine whether a controlling interest exists was also applied in Cooper Brookes (Wollongong) Pty. Limited v. Federal Commissioner of Taxation (1981) 147 CLR 297 where Aickin J stated at 326:
-
-The ordinary meaning of "controlling interest'' in a company includes the interest of a holding company not only in its direct subsidiaries but in all companies in a chain of subsidiaries, however long. The same is true of each subsidiary in the chain in respect of all subsidiaries below it...
-
-Subsequently, a number of Explanatory Memoranda demonstrate that the ordinary meaning of the term 'controlling interest' includes interests held directly and interests held through a chain of subsidiary companies, where those interests are sufficient to amount to a controlling interest.
-For instance, the controlled foreign companies provisions in Part X of the ITAA 1936 and the thin capitalisation provisions in Division 820 of the Income Tax Assessment Act 1997 relate to control of other entities, and they apply to interests which are held directly as well as interests which are held indirectly through chains of interposed entities. Although the term 'controlling interest' does not appear in the relevant legislation, the related Explanatory Memoranda use that term to refer to all interests which are the subject of those provisions. For example, the Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 8) 1999 provides the following explanation of the controlled foreign companies (CFC) regime:
-
-1.9 The CFC measures require Australian taxpayers to pay tax, on a current year basis, on income or gains earned by foreign companies in which they have a controlling interest, even though the income or gains have not yet been derived by the taxpayers...
-
-Since the ordinary meaning of the term 'controlling interest' can include an interest held through a chain of subsidiaries, any interest that the government holds in Company D through the chain of subsidiary companies can amount to a 'controlling interest' for the purpose of subparagraph 103A(2)(d)(iv) of the ITAA 1936. However, to satisfy subparagraph 103A(2)(d)(iv), the interest held through the chain of subsidiary companies must also be sufficient to amount to a controlling interest and that control must be held by the government on the last day of the year of income.
-Date of decision:
-  7 September 2011
-
-Year of income:
-  Year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 7 of Part III   section 103A   subsection 103A(1)   subsection 103A(2)   paragraph 103A(2)(d)   subparagraph 103A(2)(d)(iv)   Part X
-Income Tax Assessment Act 1997   Division 820
-
-Case References:
-
-Kolotex Hosiery (Australia) Pty Ltd v Federal Commissioner of Taxation   (1973) 130 CLR 64   (1973) 73 ATC 4094   (1973) 4 ATR 24
-
-Mendes v Commissioner of Probate Duties (Victoria)   (1967) 122 CLR 152   [1967] HCA 23
-
-Cooper Brookes (Wollongong) Pty Limited v Federal Commissioner of Taxation   (1981) 147 CLR 297   81 ATC 4292   (1981) 11 ATR 949
-
-Related ATO Interpretative Decisions
-
- ATO ID 2011/73
-
-Other References:
-
- House of Representatives Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 8) 1999
- House of Representatives Explanatory Memorandum to the New International Tax Arrangements Bill 2003
- House of Representatives Explanatory Memorandum to the New International Tax Arrangements (Participation Exemption and Other Measures) Bill 2004
- House of Representatives Explanatory Memorandum to the New Business Tax System (Thin Capitalisation) Bill 2001
-
-Keywords
-
-Control of a company
- Public companies
-
-Siebel/TDMS Reference Number:
-  1-3FEZXDJ
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 September 2011
-
-ISSN:
- 1445-2782
+In Mendes v. Commissioner of Probate Duties (Victoria) (1967) 122 CLR 152 at 162 Kitto J stated: ...a company A, which by virtue of its voting power in a general meeting of company B controls that company, has a controlling interest in company C if company B holds the majority of votes in the general meeting of company C. Mason J in Kolotex Hosiery (Australia) Pty. Ltd. v. Federal Commissioner of Taxation (1973) 130 CLR 64 adopted that statement of Kitto J and said at 78: It is now beyond question that company A has a controlling interest in company C if, having control of company B, it has the majority voting power in company C by means of the votes attaching to its shares in company C and those attaching to the shares held in company C by company B. It is consistent with this approach to say that a parent company has a controlling interest in another company, its sub-subsidiary, even though it holds no shares in the sub-subsidiary, provided that it controls the majority in voting power in its subsidiary which in turn controls the majority voting power in the sub-subsidiary. This tracing approach to determine whether a controlling interest exists was also applied in Cooper Brookes (Wollongong) Pty. Limited v. Federal Commissioner of Taxation (1981) 147 CLR 297 where Aickin J stated at 326: The ordinary meaning of "controlling interest'' in a company includes the interest of a holding company not only in its direct subsidiaries but in all companies in a chain of subsidiaries, however long. The same is true of each subsidiary in the chain in respect of all subsidiaries below it... Subsequently, a number of Explanatory Memoranda demonstrate that the ordinary meaning of the term 'controlling interest' includes interests held directly and interests held through a chain of subsidiary companies, where those interests are sufficient to amount to a controlling interest.
+For instance, the controlled foreign companies provisions in Part X of the ITAA 1936 and the thin capitalisation provisions in Division 820 of the Income Tax Assessment Act 1997 relate to control of other entities, and they apply to interests which are held directly as well as interests which are held indirectly through chains of interposed entities. Although the term 'controlling interest' does not appear in the relevant legislation, the related Explanatory Memoranda use that term to refer to all interests which are the subject of those provisions. For example, the Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 8) 1999 provides the following explanation of the controlled foreign companies (CFC) regime: 1.9 The CFC measures require Australian taxpayers to pay tax, on a current year basis, on income or gains earned by foreign companies in which they have a controlling interest, even though the income or gains have not yet been derived by the taxpayers... Since the ordinary meaning of the term 'controlling interest' can include an interest held through a chain of subsidiaries, any interest that the government holds in Company D through the chain of subsidiary companies can amount to a 'controlling interest' for the purpose of subparagraph 103A(2)(d)(iv) of the ITAA 1936. However, to satisfy subparagraph 103A(2)(d)(iv), the interest held through the chain of subsidiary companies must also be sufficient to amount to a controlling interest and that control must be held by the government on the last day of the year of income.
+Date of decision: 7 September 2011 Year of income: Year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1936 Division 7 of Part III section 103A subsection 103A(1) subsection 103A(2) paragraph 103A(2)(d) subparagraph 103A(2)(d)(iv) Part X
+Income Tax Assessment Act 1997 Division 820 Case References: Kolotex Hosiery (Australia) Pty Ltd v Federal Commissioner of Taxation (1973) 130 CLR 64 (1973) 73 ATC 4094 (1973) 4 ATR 24 Mendes v Commissioner of Probate Duties (Victoria) (1967) 122 CLR 152 [1967] HCA 23 Cooper Brookes (Wollongong) Pty Limited v Federal Commissioner of Taxation (1981) 147 CLR 297 81 ATC 4292 (1981) 11 ATR 949 Related ATO Interpretative Decisions ATO ID 2011/73 Other References: House of Representatives Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 8) 1999 House of Representatives Explanatory Memorandum to the New International Tax Arrangements Bill 2003 House of Representatives Explanatory Memorandum to the New International Tax Arrangements (Participation Exemption and Other Measures) Bill 2004 House of Representatives Explanatory Memorandum to the New Business Tax System (Thin Capitalisation) Bill 2001 Keywords Control of a company Public companies Siebel/TDMS Reference Number: 1-3FEZXDJ Business Line: Public Groups and International Date of publication: 23 September 2011 ISSN: 1445-2782

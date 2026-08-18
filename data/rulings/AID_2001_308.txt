@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/308
-==================================================
-
-Income Tax
- Sale of Company via Share Cancellation
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Sale of Company via Share Cancellation FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether an amount received or receivable from a 'third party' in respect of a share cancellation (i.e., not from the company in which the shares are being cancelled), is capital proceeds in respect of CGT event C2 contained in section 104-25 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Depending on the facts, an amount received or receivable from a third party may be capital proceeds in respect of CGT event C2. If the amount is not capital proceeds in respect of CGT event C2, it may constitute capital proceeds in respect of CGT events D1 or H2.
@@ -26,29 +15,4 @@ In this case the Sale Agreement establishes a nexus between the payment of the m
 Is any other CGT event relevant?
 In this situation, it could be argued that CGT events D1 or H2, sections 104-35 and 104-155 respectively of the ITAA 1997, may happen at the time of cancellation of the shares.
 However, in accordance with section 102-25 of the ITAA 1997, those events will only apply if no other CGT event applies. As previously outlined, the money received in this case will constitute capital proceeds in respect of CGT event C2. Therefore, it is unnecessary to consider whether the money gives rise to a capital gain from any other CGT event.
-Date of decision:
-  28 May 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 102-25   Section 104-25   Subsection 104-25(3)   Paragraph 104-25(1)(a)   Section 104-35   Section 104-155   Subsection 116-20(1)
-
-Keywords
-
-Return of capital on shares
- Disposal of business
- Cancellation of shares
- Capital reductions
- Issue of shares
-
-Siebel/TDMS Reference Number:
-  DW205254
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 September 2001
-
-ISSN:
- 1445-2782
+Date of decision: 28 May 2001 Legislative References: Income Tax Assessment Act 1997 Section 102-25 Section 104-25 Subsection 104-25(3) Paragraph 104-25(1)(a) Section 104-35 Section 104-155 Subsection 116-20(1) Keywords Return of capital on shares Disposal of business Cancellation of shares Capital reductions Issue of shares Siebel/TDMS Reference Number: DW205254 Business Line: Public Groups and International Date of publication: 8 September 2001 ISSN: 1445-2782

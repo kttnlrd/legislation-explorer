@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/391
-==================================================
-
-Income Tax
- Deducting tax loss: saving rule - reflected effects on direct and indirect equity interests to be combined
- FOI status: may be released
-
-This ATO ID has been amended to clarify legislative changes repealed by the Tax Laws Amendment (2007 Measures No 4) Act of 2007 with effect from 24 September 2007.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deducting tax loss: saving rule - reflected effects on direct and indirect equity interests to be combined FOI status: may be released This ATO ID has been amended to clarify legislative changes repealed by the Tax Laws Amendment (2007 Measures No 4) Act of 2007 with effect from 24 September 2007. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In applying subsection 165-12(7) of the Income Tax Assessment 1997 (ITAA 1997), is the 'less than 50% of the tax loss' test to be done separately for indirect equity interests, and direct equity interests, in determining the extent that a loss company's tax loss has been 'reflected'.
 Decision
 No. A condition in subsection 165-12(2), (3) or (4) of the ITAA 1997 will only be taken by subsection 165-12(7) of the ITAA 1997 to have been satisfied where less than 50% of a tax loss has been reflected in indirect equity interests and direct equity interests combined, not separately.
@@ -29,53 +16,5 @@ Because of the happening of CGT event A1, Company R became entitled to a capital
 Company R's capital loss reflected 40% of Loss Company's tax loss.
 Neither Company K's nor Company R's capital loss is taken to be disregarded under Subdivision 170-D of the ITAA 1997 or any other provision.
 Reasons for Decision
-Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied because of the operation of section 165-165 of the ITAA 1997, that the condition can be taken as being satisfied where:
-
-the company has information from which it would be reasonable to assume that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct equity interests or *indirect equity interests in the company during the *ownership test period.
-
-*denotes a term defined in subsection 995-1(1) of the ITAA 1997.
-
-In applying the 'less than 50%' test in subsection 165-12(7) of the ITAA 1997, the extent that Loss Company's tax loss has been reflected is ascertained by determining the extent of reflection in indirect equity interests
- and
- direct equity interests.
-As 70% of Loss company's tax loss has been reflected, subsection 165-12(7) of the ITAA 1997 will not deem that Loss Company has satisfied the conditions in subsections 165-12(2), (3) or (4) of the ITAA 1997. Accordingly, Loss Company cannot deduct the relevant tax loss under section 165-12 of the ITAA 1997.
-
-[HISTORY: This ATOID has been amended to include the (*) asterisk in subsection 165-12(7) that is a minor amendment to the provisions providing useful interpretation with reference to direct equity interests and indirect equity interests by making them defined terms under subsection 995-1(1) of ITAA 1997. The amendment also removes from the ATO ID any reference to subsection 165-12(9) repealed by the Tax Laws Amendment (2007 Measures No 4) Act 2007 with effect from 24 September 2007.]
-
-Date of decision:
-  28 March 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 104-10(2)   section 165-12   subsection 165-12(2)   subsection 165-12(3)   subsection 165-12(4)   subsection 165-12(7)   section 165-165   subsection 995-1(1)
-
-Keywords
-
-Accumulated tax losses
- Capital gains tax
- Capital losses
- CGT event A1 - disposal of a CGT asset
- CGT events
- Companies
- Deductions & expenses
- Entities & taxpayer groups
- Group companies
- Group companies loss transfers
- Group companies transfers
- Losses
- Prior year losses
-
-Siebel/TDMS Reference Number:
-  3533057
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 May 2003
-
-ISSN:
- 1445-2782
+Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied because of the operation of section 165-165 of the ITAA 1997, that the condition can be taken as being satisfied where: the company has information from which it would be reasonable to assume that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct equity interests or *indirect equity interests in the company during the *ownership test period. *denotes a term defined in subsection 995-1(1) of the ITAA 1997. In applying the 'less than 50%' test in subsection 165-12(7) of the ITAA 1997, the extent that Loss Company's tax loss has been reflected is ascertained by determining the extent of reflection in indirect equity interests and direct equity interests.
+As 70% of Loss company's tax loss has been reflected, subsection 165-12(7) of the ITAA 1997 will not deem that Loss Company has satisfied the conditions in subsections 165-12(2), (3) or (4) of the ITAA 1997. Accordingly, Loss Company cannot deduct the relevant tax loss under section 165-12 of the ITAA 1997. [HISTORY: This ATOID has been amended to include the (*) asterisk in subsection 165-12(7) that is a minor amendment to the provisions providing useful interpretation with reference to direct equity interests and indirect equity interests by making them defined terms under subsection 995-1(1) of ITAA 1997. The amendment also removes from the ATO ID any reference to subsection 165-12(9) repealed by the Tax Laws Amendment (2007 Measures No 4) Act 2007 with effect from 24 September 2007.] Date of decision: 28 March 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 subsection 104-10(2) section 165-12 subsection 165-12(2) subsection 165-12(3) subsection 165-12(4) subsection 165-12(7) section 165-165 subsection 995-1(1) Keywords Accumulated tax losses Capital gains tax Capital losses CGT event A1 - disposal of a CGT asset CGT events Companies Deductions & expenses Entities & taxpayer groups Group companies Group companies loss transfers Group companies transfers Losses Prior year losses Siebel/TDMS Reference Number: 3533057 Business Line: Public Groups and International Date of publication: 23 May 2003 ISSN: 1445-2782

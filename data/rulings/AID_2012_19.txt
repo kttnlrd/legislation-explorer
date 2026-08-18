@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/19
-==================================================
-
-Income Tax
- Taxation of financial arrangements: application of subsection 230-15(5) of the Income Tax Assessment Act 1997 to a dividend on a debt interest
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of financial arrangements: application of subsection 230-15(5) of the Income Tax Assessment Act 1997 to a dividend on a debt interest FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can subsection 230-15(5) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to limit deductions under subsection 230-15(4A) of the ITAA 1997 for a loss that is a dividend on a redeemable preference share (RPS) which is a debt interest under Division 974 of the ITAA 1997?
 Decision
 Yes. Where a loss that is a dividend on a RPS, which is a debt interest for the purposes of Division 974 of the ITAA 1997, exceeds the benchmark rate of return for the debt interest increased by 150 basis points, subsection 230-15(5) of the ITAA 1997 can apply to limit the deductions allowable under subsection 230-15(4A) of the ITAA 1997.
@@ -24,11 +13,7 @@ Reasons for Decision
 All legislative references are to the ITAA 1997 unless otherwise indicated.
 Subsection 230-15(2) provides the general test for deductibility of a loss under Division 230. The deduction will be available to the extent the loss is made in gaining or producing the relevant taxpayer's assessable income or is necessarily made in carrying on a business for that purpose.
 Where a loss is made to secure a permanent or enduring benefit it may not have the requisite nexus to gaining or producing of assessable income or carrying on a business for that purpose (see for example Macquarie Finance Ltd v. Commissioner of Taxation (2005) 146 FCR 77; 2005 ATC 4829; (2005) 61 ATR 1.
-Similarly a loss may not be deductible where it is in substance a distribution of profit as the liability to pay the amount will be contingent on the existence of profits, rather than being incurred in the course of deriving income. Therefore such a loss does not have the requisite nexus to gaining or producing assessable income as it constitutes the application of profits already derived. As stated by Dixon J in Federal Commissioner of Taxation v. The Midland Railway Co of Western Australia Ltd (1952) 85 CLR 306; (1952) 9 ATD 372; at CLR 316:
-
-...a distribution of the share of profits has not been considered to be an outgoing incurred for the purpose of earning profits and so to be antecedently deductible as a trade expense before the ascertainment of the taxable fund...
-
-Subsection 230-15(4) modifies the operation of subsection 230-15(2), effectively removing these two obstacles to deductibility. Subsection 230-15(4) does this by stating that these characteristics (on their own) will not prevent a loss from being deductible under subsection 230-15(2). The loss must still otherwise satisfy the requirements of subsection 230-15(2) to be deductible under this provision. In the case of a distribution of profits, even disregarding the fact that the liability to make the payment is dependent on the availability of profits, it is not possible to otherwise identify an actual nexus to gaining or producing assessable income.
+Similarly a loss may not be deductible where it is in substance a distribution of profit as the liability to pay the amount will be contingent on the existence of profits, rather than being incurred in the course of deriving income. Therefore such a loss does not have the requisite nexus to gaining or producing assessable income as it constitutes the application of profits already derived. As stated by Dixon J in Federal Commissioner of Taxation v. The Midland Railway Co of Western Australia Ltd (1952) 85 CLR 306; (1952) 9 ATD 372; at CLR 316: ...a distribution of the share of profits has not been considered to be an outgoing incurred for the purpose of earning profits and so to be antecedently deductible as a trade expense before the ascertainment of the taxable fund... Subsection 230-15(4) modifies the operation of subsection 230-15(2), effectively removing these two obstacles to deductibility. Subsection 230-15(4) does this by stating that these characteristics (on their own) will not prevent a loss from being deductible under subsection 230-15(2). The loss must still otherwise satisfy the requirements of subsection 230-15(2) to be deductible under this provision. In the case of a distribution of profits, even disregarding the fact that the liability to make the payment is dependent on the availability of profits, it is not possible to otherwise identify an actual nexus to gaining or producing assessable income.
 Subsection 230-15(4A) contains rules to facilitate the deductibility of a loss where that loss can be said to be a dividend on a debt interest. The scope of the deduction is determined by the assumptions in paragraphs 230-15(4A)(a) to 230-15(4A)(c) and the test in subsection 230-15(2). That is, a loss that can be said to be a dividend on a debt interest will be deductible to the extent that a deduction would be available under subsection 230-15(2) if the payment of the dividend was the incurring of an equivalent amount of interest on the same finance.
 The deductibility of an amount of interest is typically determined through an examination of the purpose of the borrowing and the use to which the borrowed funds are put (Federal Commissioner of Taxation v. Munro (1926) 38 CLR 153; Fletcher & Ors v. Federal Commissioner of Taxation (1991) 173 CLR 1; 91 ATC 4950; (1991) 22 ATR 613). Therefore if the funds in respect of which the dividend was paid or provided were used in, or borrowed for the purpose of, gaining or producing assessable income (or carrying on a business for that purpose), the assumptions in subsection 230-15(4A) prima facie supply a nexus for the purposes of subsection 230-15(2).
 It is clear from the structure of section 230-15 that the extent to which a loss is deductible under subsection 230-15(2) will be affected by the benchmark rate of return rule in subsection 230-15(5) if subsection 230-15(4) is relied upon to enable the nexus in subsection 230-15(2) to be satisfied.
@@ -37,39 +22,4 @@ The assumptions in subsection 230-15(4A) do not overcome the fact that the divid
 The reference to subsection 230-15(4) in paragraph 230-15(4A)(c) supports the conclusion that a deduction under subsection 230-15(4A) inherently requires the application of subsection 230-15(4) (and incorporates the latter through the reference to subsection 230-15(2)).
 Subsection 230-15(5) imposes a 'cap' on deductions for a loss on a debt interest to the extent that the compounded internal rate of return exceeds the benchmark rate of return for the debt interest increased by 150 basis points. This is done by 'turning off' subsection 230-15(4), and its effect of removing obstacles to deductibility under subsection 230-15(2). Although subsection 230-15(5) on its terms only expressly affects the application of subsection 230-15(4), the interrelationship between the subsections is such that deductibility of an amount under subsection 230-15(4A) must be compared with the position under subsection 230-15(2), as affected by subsections 230-15(4) and 230-15(5).
 As such, where the dividends on the RPS result in the return on the RPS exceeding the benchmark rate of return increased by 150 basis points, the cap in subsection 230-15(5) can apply in determining a deduction for such losses under subsection 230-15(4A).
-Date of decision:
-  19 March 2012
-
-Year of income:
-  Year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 230   subsection 230-15(2)   subsection 230-15(4)   subsection 230-15(4A)   paragraph 230-15(4A)(a)   paragraph 230-15(4A)(b)   paragraph 230-15(4A)(c)   subsection 230-15(5)   section 230-45   Division 974
-
-Case References:
-
-Federal Commissioner of Taxation v Munro   (1926) 38 CLR 153
-
-Federal Commissioner of Taxation v The Midland Railway Co of Western Australia Ltd   (1952) 85 CLR 306   (1952) 9 ATD 372
-
-Fletcher & Ors v Federal Commissioner of Taxation   (1991) 173 CLR 1   91 ATC 4950   (1991) 22 ATR 613
-
-Macquarie Finance Ltd v Commissioner of Taxation   (2005) 146 FCR 77   2005 ATC 4829   (2005) 61 ATR 1
-
-Keywords
-
-Income tax
- Taxation of Financial Arrangements CoE
-
-Siebel/TDMS Reference Number:
-  1-3PUYGO2
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  30 March 2012
-
-ISSN:
- 1445-2782
+Date of decision: 19 March 2012 Year of income: Year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1997 Division 230 subsection 230-15(2) subsection 230-15(4) subsection 230-15(4A) paragraph 230-15(4A)(a) paragraph 230-15(4A)(b) paragraph 230-15(4A)(c) subsection 230-15(5) section 230-45 Division 974 Case References: Federal Commissioner of Taxation v Munro (1926) 38 CLR 153 Federal Commissioner of Taxation v The Midland Railway Co of Western Australia Ltd (1952) 85 CLR 306 (1952) 9 ATD 372 Fletcher & Ors v Federal Commissioner of Taxation (1991) 173 CLR 1 91 ATC 4950 (1991) 22 ATR 613 Macquarie Finance Ltd v Commissioner of Taxation (2005) 146 FCR 77 2005 ATC 4829 (2005) 61 ATR 1 Keywords Income tax Taxation of Financial Arrangements CoE Siebel/TDMS Reference Number: 1-3PUYGO2 Business Line: Finance and Investment Centre of Expertise Date of publication: 30 March 2012 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/331
-==================================================
-
-Income Tax
- Assessability of annual leave loading
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of annual leave loading FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a salary and wage earner assessable on an amount of annual leave loading under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. A salary and wages earner is assessable on an amount of annual leave loading under section 6-5 of the ITAA 1997.
@@ -23,30 +12,4 @@ Reasons for Decision
 Section 6-5 of the ITAA 1997 provides that a taxpayer's assessable income includes income according to ordinary concepts, which is called ordinary income.
 Remuneration received for personal services in the capacity of employee, such as salary and wages, is considered income according to ordinary concepts. Amounts paid for annual leave including any additional payment for leave loading is also income according to ordinary concepts.
 Therefore, the amount of annual leave loading is income according to ordinary concepts and is assessable under section 6-5 of the ITAA 1997.
-Date of decision:
-  11 October 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5
-
-Keywords
-
-Leave bonus
- Salary
- Salary and wages income
-
-Siebel/TDMS Reference Number:
-  DW297243
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  28 March 2002
-
-Date reviewed:
-  3 December 2013
-
-ISSN:
- 1445-2782
+Date of decision: 11 October 2001 Legislative References: Income Tax Assessment Act 1997 section 6-5 Keywords Leave bonus Salary Salary and wages income Siebel/TDMS Reference Number: DW297243 Business Line: Small Business/Individual Taxpayers Date of publication: 28 March 2002 Date reviewed: 3 December 2013 ISSN: 1445-2782

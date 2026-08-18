@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/305
-==================================================
-
-Income Tax
- Withholding tax obligation: royalty paid to an Australian agent of a non-resident licensor
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Withholding tax obligation: royalty paid to an Australian agent of a non-resident licensor FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an Australian entity acting as agent for a non-resident licensor required, under section 12-285 of Schedule 1 to the Taxation Administration Act 1953 (TAA), to withhold tax from royalty payments it receives in Australia on behalf of the non-resident licensor?
 Decision
 Yes. The Australian entity acting as agent for a non-resident licensor is required, under section 12-285 of Schedule 1 to the TAA, to withhold tax from royalty payments it receives in Australia on behalf of the non-resident licensor.
@@ -24,82 +11,18 @@ Pursuant to the agreement the licensee, in carrying on its business in Australia
 The payments are royalties for purposes of the Income Tax Assessment Act 1936 (ITAA 1936) and the relevant double tax agreement allows tax to be withheld in Australia.
 Reasons for Decision
 Under subsection 128B(2B) of the ITAA 1936 royalties derived by a non-resident are subject to withholding tax unless an exemption applies. Withholding tax applies where the royalties are paid by a resident, except where they are outgoings wholly incurred by the payer in carrying on a business outside Australia at or through a permanent establishment of the resident outside Australia.
-Section 12-280 of Schedule 1 to the TAA provides that 'payers' of royalties are required to withhold tax if:
-
-•the recipient or any of the recipients has an overseas address according to any record that is in the payer's possession, or is kept or maintained on the payer's behalf, about the transaction to which the royalty relates; or
-•the payer is authorised to pay the royalty at a place outside Australia (whether to the recipient or any of the recipients or to anyone else).
-
-Subsection 12-285(1) of Schedule 1 to the TAA provides that that an entity that 'receives' a payment of a royalty must withhold an amount from the payment if the entity is a person in Australia or an Australian government agency; and the foreign resident is or becomes entitled:
-
-•to receive the royalty or part of it from the entity, or to receive the amount of the royalty or of part of it from the entity; or
-•to have the entity credit to the foreign resident, or otherwise deal with on the resident's behalf or as the foreign resident directs, the royalty or part of it, or the amount of the royalty or part of it.
-
-Section 12-280 of Schedule 1 to the TAA and section 12-285 of Schedule 1 to the TAA are designed to apply to different situations. It is not intended that both the payer and the entity that receives the payment must withhold. Therefore, the question at issue is whether the licensee (the payer of the royalty) or the Australian resident agent (the recipient of the payment) is required to withhold.
+Section 12-280 of Schedule 1 to the TAA provides that 'payers' of royalties are required to withhold tax if: •the recipient or any of the recipients has an overseas address according to any record that is in the payer's possession, or is kept or maintained on the payer's behalf, about the transaction to which the royalty relates; or
+•the payer is authorised to pay the royalty at a place outside Australia (whether to the recipient or any of the recipients or to anyone else). Subsection 12-285(1) of Schedule 1 to the TAA provides that that an entity that 'receives' a payment of a royalty must withhold an amount from the payment if the entity is a person in Australia or an Australian government agency; and the foreign resident is or becomes entitled: •to receive the royalty or part of it from the entity, or to receive the amount of the royalty or of part of it from the entity; or
+•to have the entity credit to the foreign resident, or otherwise deal with on the resident's behalf or as the foreign resident directs, the royalty or part of it, or the amount of the royalty or part of it. Section 12-280 of Schedule 1 to the TAA and section 12-285 of Schedule 1 to the TAA are designed to apply to different situations. It is not intended that both the payer and the entity that receives the payment must withhold. Therefore, the question at issue is whether the licensee (the payer of the royalty) or the Australian resident agent (the recipient of the payment) is required to withhold.
 The Australian resident agent is an entity in Australia that receives the royalty payments. It follows that section 12-285 of Schedule 1 to the TAA is the relevant provision. Therefore, it is the Australian resident agent that is required to withhold tax from the royalty payments it receives on behalf of the non-resident licensor.
-Section 12-280 of Schedule 1 to the TAA is intended to apply where the entity actually receiving the royalty payment is outside Australia or has an address outside Australia. Under the facts here, the entity actually receiving the payment is an entity in Australia - the Australian resident acting as agent in Australia for the non-resident licensor. It follows that the licensee (the payer) is not required to withhold under section 12-280 of Schedule 1 to the TAA.
-
-Amendment History
-
-Date of Amendment
+Section 12-280 of Schedule 1 to the TAA is intended to apply where the entity actually receiving the royalty payment is outside Australia or has an address outside Australia. Under the facts here, the entity actually receiving the payment is an entity in Australia - the Australian resident acting as agent in Australia for the non-resident licensor. It follows that the licensee (the payer) is not required to withhold under section 12-280 of Schedule 1 to the TAA. Amendment History Date of Amendment
 Part
-Comment
-
-22 September 2017
+Comment 22 September 2017
 Issue
 Facts
 Keywords
-Minor grammatical and spelling corrections
-
-Date of decision:
-  31 October 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 128B(2B)
-Tax Administration Act 1953   section 12-280 of Schedule 1   section 12-285 of Schedule 1   subsection 12-285(1) of Schedule 1
-
-Other References:
-
-Fact Sheet - PAYG withholding from interest, dividends and royalties to non-residents
-
-Keywords
-
-Non-resident entities
- Non-resident royalty withholding tax
- PAYG system
- PAYG withholding
- PAYG withholding under dividend, interest & royalty payment category
-
-Siebel/TDMS Reference Number:
-  5512898; 1-5UH1AGP
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  10 November 2006
-
-Date reviewed:
-  31 August 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-31 October 2006
-Original statement
-
-You are here
+Minor grammatical and spelling corrections Date of decision: 31 October 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 subsection 128B(2B)
+Tax Administration Act 1953 section 12-280 of Schedule 1 section 12-285 of Schedule 1 subsection 12-285(1) of Schedule 1 Other References: Fact Sheet - PAYG withholding from interest, dividends and royalties to non-residents Keywords Non-resident entities Non-resident royalty withholding tax PAYG system PAYG withholding PAYG withholding under dividend, interest & royalty payment category Siebel/TDMS Reference Number: 5512898; 1-5UH1AGP Business Line: Private Groups and High Wealth Individuals Date of publication: 10 November 2006 Date reviewed: 31 August 2017 ISSN: 1445-2782 history Date: Version: 31 October 2006
+Original statement You are here
 22 September 2017
 Updated statement

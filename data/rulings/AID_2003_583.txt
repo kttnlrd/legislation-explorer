@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/583
-==================================================
-
-Income Tax
- Withholding Tax Exemption: Interest on notes - public offer test
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Withholding Tax Exemption: Interest on notes - public offer test FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the company entitled to an exemption from withholding tax under section 128F of the Income Tax Assessment Act 1936 (ITAA 1936) for interest on notes issued by the company?
 Decision
 Yes. The company is entitled to an exemption from withholding tax under section 128F of the ITAA 1936 for interest on notes issued by the company as the company was a resident of Australia when the notes were issued and interest paid, and the company also satisfied one of the public offer tests.
@@ -22,61 +11,16 @@ The company appointed an overseas bank to act as manager for a note issue. The m
 A subscription and issue agreement governs the note issue. The notes are debentures in registered form. The interest on the notes is at market floating rate based on LIBOR plus a margin.
 Notes were issued to several financiers.
 Reasons for Decision
-Section 128F of the ITAA 1936 exempts from withholding tax, interest on certain publicly offered debentures. Subsection 128F(1) of the ITAA 1936 states that withholding tax is not payable on interest paid by a company in respect of a debenture if:
-
-•the company was a resident of Australia when it issued the debenture
+Section 128F of the ITAA 1936 exempts from withholding tax, interest on certain publicly offered debentures. Subsection 128F(1) of the ITAA 1936 states that withholding tax is not payable on interest paid by a company in respect of a debenture if: •the company was a resident of Australia when it issued the debenture
 •the company is a resident of Australia when the interest is paid; and
-•the issue of the debenture satisfied a public offer test set out in subsections 128F(3) or 128F(4) of the ITAA 1936.
-
-'Debenture' is defined in subsection 128F(9) of the ITAA 1936 as including a promissory note or a bill of exchange, in addition to the instruments mentioned in the definition of debenture contained in subsection 6(1) of the ITAA 1936.
+•the issue of the debenture satisfied a public offer test set out in subsections 128F(3) or 128F(4) of the ITAA 1936. 'Debenture' is defined in subsection 128F(9) of the ITAA 1936 as including a promissory note or a bill of exchange, in addition to the instruments mentioned in the definition of debenture contained in subsection 6(1) of the ITAA 1936.
 Subsection 6(1) of the ITAA 1936 defines 'debenture' as including 'debenture stock, bonds, notes and any other securities of the company, whether constituting a charge on the assets of the company or not'.
 The notes are therefore debentures for the purposes of section 128F of the ITAA 1936.
-Paragraph 128F(1)(a) of the ITAA 1936 requires the resident company to have 'issued' the debenture. The Explanatory Memorandum to Taxation Laws Amendment Act (No 2) 1997 (EM), which introduced amendments to section 128F of the ITAA 1936, discusses the term in the context of repealed paragraph 128F(1)(c) of the ITAA 1936. The EM cites Chitty J in Levy v. Abercorris Slate and Slab Company (1887) 37 Ch D 260, in which he states at 264:
-
-"issued" is not a technical term, it is a mercantile term well understood; "issue" here means the delivery over by the company to the person who has the charge.
-
-The EM further states that although the term 'issue' is not defined in the proposed legislation, the term will be taken to mean 'to put out or deliver debentures to subscribers or purchasers in an offshore market'.
+Paragraph 128F(1)(a) of the ITAA 1936 requires the resident company to have 'issued' the debenture. The Explanatory Memorandum to Taxation Laws Amendment Act (No 2) 1997 (EM), which introduced amendments to section 128F of the ITAA 1936, discusses the term in the context of repealed paragraph 128F(1)(c) of the ITAA 1936. The EM cites Chitty J in Levy v. Abercorris Slate and Slab Company (1887) 37 Ch D 260, in which he states at 264: "issued" is not a technical term, it is a mercantile term well understood; "issue" here means the delivery over by the company to the person who has the charge. The EM further states that although the term 'issue' is not defined in the proposed legislation, the term will be taken to mean 'to put out or deliver debentures to subscribers or purchasers in an offshore market'.
 The company has effectively 'issued' the debentures (notes). The company is an Australian resident company and has continued to be a resident of Australia when the interest was paid. Accordingly, the residency requirements in section 128F of the ITAA 1936 are also satisfied.
 Subsection 128F(3) of the ITAA 1936 contains five public offer tests. One of these tests or a further test contained in subsection 128F(4) of the ITAA 1936 must be satisfied in order for the company to obtain the withholding tax exemption.
-The first public offer test is contained in paragraph 128F(3)(a) of the ITAA 1936 which provides that the test will be satisfied if the issue resulting from the debenture being offered for issue is to at least 10 persons, each of whom:
-
-•was carrying on a business of providing finance, or investing or dealing in securities in the course of operating in financial markets; and
-•was not known, or suspected, by the company to be an associate of any of those other persons.
-
-The EM states that if the Australian company offers its debentures to 10 banks or pensions funds operating in an overseas financial market, the public offer test will be satisfied.
+The first public offer test is contained in paragraph 128F(3)(a) of the ITAA 1936 which provides that the test will be satisfied if the issue resulting from the debenture being offered for issue is to at least 10 persons, each of whom: •was carrying on a business of providing finance, or investing or dealing in securities in the course of operating in financial markets; and
+•was not known, or suspected, by the company to be an associate of any of those other persons. The EM states that if the Australian company offers its debentures to 10 banks or pensions funds operating in an overseas financial market, the public offer test will be satisfied.
 The company offered the notes to at least 10 financial institutions that were in the business of providing finance. Further, the financial institutions are not associates of the company and the source of the loan monies was from overseas. The first public offer test is therefore satisfied.
 Accordingly, as the residency requirements and public offer test are satisfied for the interest on the notes paid by the company, the withholding tax exemption under section 128F of the ITAA 1936 will apply to that interest.
-Date of decision:
-  25 March 2003
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 128F   subsection 128F(1)   paragraph 128F(1)(a)   subsection 128F(3)   paragraph 128F(3)(a)   subsection 128F(4)
-
-Case References:
-
-Levy v. Abercorris Slate and Slab Company   (1887) 37 Ch D 260
-
-Other References:
-
- Explanatory Memorandum to Taxation Laws Amendment Act (No 2) 1997
-
-Keywords
-
-Non resident interest withholding tax
- Withholding tax exemptions
-
-Siebel/TDMS Reference Number:
-  3490747
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 July 2003
-
-ISSN:
- 1445-2782
+Date of decision: 25 March 2003 Year of income: Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 128F subsection 128F(1) paragraph 128F(1)(a) subsection 128F(3) paragraph 128F(3)(a) subsection 128F(4) Case References: Levy v. Abercorris Slate and Slab Company (1887) 37 Ch D 260 Other References: Explanatory Memorandum to Taxation Laws Amendment Act (No 2) 1997 Keywords Non resident interest withholding tax Withholding tax exemptions Siebel/TDMS Reference Number: 3490747 Business Line: Public Groups and International Date of publication: 18 July 2003 ISSN: 1445-2782

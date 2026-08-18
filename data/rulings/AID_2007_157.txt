@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/157
-==================================================
-
-Income Tax
- Withholding Tax: income that is equivalent to the payment of interest on a loan
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Withholding Tax: income that is equivalent to the payment of interest on a loan FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a fixed rate of dividend paid on a preference share be reasonably regarded as 'equivalent to the payment of interest on a loan' for the purposes of subsection 128B(3A) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. When regard is had to the matters set out in subsection 128B(3C) of the ITAA 1936, a fixed rate of dividend paid on a preference share may reasonably be regarded as equivalent to the payment of interest on a loan.
@@ -28,57 +17,11 @@ Reasons for Decision
 Subdivision A of Division 11 of Part III of the ITAA 1936 applies to dividends paid to non-residents. Subsection 128A(3) of the ITAA 1936 provides, to the extent relevant, that a beneficiary who is presently entitled to a dividend included in the income of a trust estate is deemed to have derived dividend income at the time of entitlement.
 Whilst withholding tax is generally imposed on dividends paid by a resident company to a non-resident, subparagraph 128B(3)(ga)(i) of the ITAA 1936 excludes from withholding tax franked dividends.
 Subsection 128B(3A) of the ITAA 1936 provides that this exclusion does not apply to a dividend which, inter alia, 'may reasonably be regarded as equivalent to the payment of interest on a loan'.
-Subsection 128B(3C) of the ITAA 1936 states:
-
-In determining for the purposes of subsection (3A) the extent (if any) to which an amount may reasonably be regarded as equivalent to the payment of interest on a loan, regard is to be had to:
-
-(a)the way in which the amount was calculated; and
+Subsection 128B(3C) of the ITAA 1936 states: In determining for the purposes of subsection (3A) the extent (if any) to which an amount may reasonably be regarded as equivalent to the payment of interest on a loan, regard is to be had to: (a)the way in which the amount was calculated; and
 (b)the conditions applying to the payment or application of the amount; and
-(c)any other relevant matters.
-
-Subsections 128B(3A) to 128B(3C) of the ITAA 1936, and the now repealed section 45ZA, of the ITAA 1936 were inserted by Taxation Laws Amendment Act (No. 2) 1999. All these provisions were part of a legislative scheme designed to treat dividends which were in the nature of interest as interest. The paragraphs of the Explanatory Memorandum (EM) to Taxation Laws Amendment Bill (No. 2) 1999 discussing former section 45ZA are relevant to understanding the requirements of subsection 128B(3C). Paragraph 7.13 of the EM explains that anything which has the commercial effect of providing a borrower with the use of capital for a term may be equivalent to a loan. In the present case, the Y Trust units issued to Z Co are to be redeemed in eight years at the original issue price. This obligation to repay is considered equivalent to a loan.
-In Federal Commissioner of Taxation v. Radilo Enterprises Pty Ltd (1997) 72 FCR 300; 97 ATC 4151; (1997) 34 ATR 635 (Radilo), the Full Federal Court considered the question of whether a dividend paid on a non-redeemable, non-cumulative converting preference share was a debt dividend. In determining this issue, the court considered whether the dividend could be reasonably regarded as equivalent to the payment of interest on a loan for the purposes of paragraph 46D(2)(c) of the ITAA 1936. In their joint judgment, Sackville and Lehane JJ said:
-
-A loan involves an obligation on the borrower to repay the sum borrowed. The matter is put this way by Dr Pannam:
-
-A loan of money may be defined, in general terms, as a simple contract whereby one person ('the lender') pays or agrees to pay a sum of money in consideration of a promise by another person ('the borrower') to repay the money upon demand or at a fixed date. The promise of repayment may or may not be coupled with a promise to pay interest on the money so paid. The essence of the transaction is the promise of repayment. ...
-
-In Radilo, it was held that there was no relationship of lender and borrower. Nor was there anything present that could be regarded as equivalent to such a relationship existing. However, the present case can be distinguished. Here, there is a promise that the subscribed monies will be repaid in full. It is considered that this promise of repayment is sufficient to draw a conclusion that the payment may reasonably be regarded as equivalent to the payment of interest
- on a loan
- .
-Having concluded the arrangement is analogous to a loan, it must be determined whether the dividend distributed is equivalent to interest on the loan. Paragraph 7.21 of the EM discusses whether a distribution is equivalent to the payment of interest on a loan. It states:
-
-For example, if the distributed amount is calculated as a percentage of the sum subscribed for the interest of the ... beneficiary in the trust ... at a rate fixed at the time of subscription, so that the manner of calculation of the distributed amount corresponds with the calculation of interest, that would be a factor pointing clearly to equivalence to the payment of interest. ... Thus if a taxpayer subscribed money to a unit trust, and was entitled after 5 years to have his units redeemed for the amount subscribed (or bought at an equivalent price), and in the interim to receive distributions consisting of dividends at a certain rate with respect to the amount subscribed, it would be concluded that the distributed amount was equivalent to interest on a loan.
-
-In the present case the dividend from W Co is fixed at 5% per annum of the sum subscribed for the shares. The amount of annual dividend lacks any relationship to the profits of W Co, but rather corresponds to a calculation of interest payable. The manner in which the amount of dividend was calculated and paid is considered equivalent to that adopted in the payment of interest on a loan. The payment of the dividend is made at regular periods throughout the term of the arrangement. The dividend from W Co is paid to Y Trust and then distributed to Z Co. Z Co knows from the outset of the arrangement how much each distribution will be during the period that it holds the units in Y Trust. Accordingly the distribution is akin to the payment of interest on a loan.
+(c)any other relevant matters. Subsections 128B(3A) to 128B(3C) of the ITAA 1936, and the now repealed section 45ZA, of the ITAA 1936 were inserted by Taxation Laws Amendment Act (No. 2) 1999. All these provisions were part of a legislative scheme designed to treat dividends which were in the nature of interest as interest. The paragraphs of the Explanatory Memorandum (EM) to Taxation Laws Amendment Bill (No. 2) 1999 discussing former section 45ZA are relevant to understanding the requirements of subsection 128B(3C). Paragraph 7.13 of the EM explains that anything which has the commercial effect of providing a borrower with the use of capital for a term may be equivalent to a loan. In the present case, the Y Trust units issued to Z Co are to be redeemed in eight years at the original issue price. This obligation to repay is considered equivalent to a loan.
+In Federal Commissioner of Taxation v. Radilo Enterprises Pty Ltd (1997) 72 FCR 300; 97 ATC 4151; (1997) 34 ATR 635 (Radilo), the Full Federal Court considered the question of whether a dividend paid on a non-redeemable, non-cumulative converting preference share was a debt dividend. In determining this issue, the court considered whether the dividend could be reasonably regarded as equivalent to the payment of interest on a loan for the purposes of paragraph 46D(2)(c) of the ITAA 1936. In their joint judgment, Sackville and Lehane JJ said: A loan involves an obligation on the borrower to repay the sum borrowed. The matter is put this way by Dr Pannam: A loan of money may be defined, in general terms, as a simple contract whereby one person ('the lender') pays or agrees to pay a sum of money in consideration of a promise by another person ('the borrower') to repay the money upon demand or at a fixed date. The promise of repayment may or may not be coupled with a promise to pay interest on the money so paid. The essence of the transaction is the promise of repayment. ... In Radilo, it was held that there was no relationship of lender and borrower. Nor was there anything present that could be regarded as equivalent to such a relationship existing. However, the present case can be distinguished. Here, there is a promise that the subscribed monies will be repaid in full. It is considered that this promise of repayment is sufficient to draw a conclusion that the payment may reasonably be regarded as equivalent to the payment of interest on a loan .
+Having concluded the arrangement is analogous to a loan, it must be determined whether the dividend distributed is equivalent to interest on the loan. Paragraph 7.21 of the EM discusses whether a distribution is equivalent to the payment of interest on a loan. It states: For example, if the distributed amount is calculated as a percentage of the sum subscribed for the interest of the ... beneficiary in the trust ... at a rate fixed at the time of subscription, so that the manner of calculation of the distributed amount corresponds with the calculation of interest, that would be a factor pointing clearly to equivalence to the payment of interest. ... Thus if a taxpayer subscribed money to a unit trust, and was entitled after 5 years to have his units redeemed for the amount subscribed (or bought at an equivalent price), and in the interim to receive distributions consisting of dividends at a certain rate with respect to the amount subscribed, it would be concluded that the distributed amount was equivalent to interest on a loan. In the present case the dividend from W Co is fixed at 5% per annum of the sum subscribed for the shares. The amount of annual dividend lacks any relationship to the profits of W Co, but rather corresponds to a calculation of interest payable. The manner in which the amount of dividend was calculated and paid is considered equivalent to that adopted in the payment of interest on a loan. The payment of the dividend is made at regular periods throughout the term of the arrangement. The dividend from W Co is paid to Y Trust and then distributed to Z Co. Z Co knows from the outset of the arrangement how much each distribution will be during the period that it holds the units in Y Trust. Accordingly the distribution is akin to the payment of interest on a loan.
 Having regard to the fact that the amount of $10 million subscribed for the units in Y Trust must be repaid within eight years, the manner in which the amount is calculated and the conditions and other matters applying to the payment of the dividend, it is considered the dividend may reasonably be regarded as equivalent to the payment of interest on a loan. Accordingly subparagraph 128B(3)(ga)(i) of the ITAA 1936 will not apply to exclude the dividend amount from the withholding tax provisions.
-Date of decision:
-  5 July 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 128A(3)   subparagraph 128B(3)(ga)(i)   subsection 128B(3A)   subsection 128B(3B)   subsection 128B(3C)
-Income Tax Assessment Act 1997   Division 974   subsection 974-20(1)
-
-Case References:
-
-Federal Commissioner of Taxation v. Radilo Enterprises Pty Ltd   (1997) 72 FCR 300   97 ATC 4151   (1997) 34 ATR 635
-
-Keywords
-
-Withholding taxes
-
-Siebel/TDMS Reference Number:
-  5294017; 1-5UHK05U
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  20 July 2007
-
-Date reviewed:
-  20 January 2015
-
-ISSN:
- 1445-2782
+Date of decision: 5 July 2007 Legislative References: Income Tax Assessment Act 1936 subsection 128A(3) subparagraph 128B(3)(ga)(i) subsection 128B(3A) subsection 128B(3B) subsection 128B(3C)
+Income Tax Assessment Act 1997 Division 974 subsection 974-20(1) Case References: Federal Commissioner of Taxation v. Radilo Enterprises Pty Ltd (1997) 72 FCR 300 97 ATC 4151 (1997) 34 ATR 635 Keywords Withholding taxes Siebel/TDMS Reference Number: 5294017; 1-5UHK05U Business Line: Private Groups and High Wealth Individuals Date of publication: 20 July 2007 Date reviewed: 20 January 2015 ISSN: 1445-2782

@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2011/35
-==================================================
-
-Income Tax
- Permanent Establishment of a US Limited Liability Company
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Permanent Establishment of a US Limited Liability Company FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer's share of business income, derived through a US permanent establishment of a US Limited Liability Company that is a foreign hybrid company for Australian income tax purposes, non-assessable non-exempt income of the taxpayer under section 23AH of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The taxpayer's share of business income, derived through a US permanent establishment of a US Limited Liability Company that is treated as a foreign hybrid for Australian income tax purposes, is non-assessable non-exempt income under section 23AH of the ITAA 1936.
@@ -29,124 +16,25 @@ These profits are foreign income for the purposes of subsection 23AH(15) of the 
 The income of the US LLC is neither adjusted tainted income nor eligible designated concession income.
 The US LLC is a foreign hybrid company under section 830-15 of the Income Tax Assessment Act 1997 (ITAA 1997).
 Reasons for Decision
-The objects of section 23AH of the ITAA 1936 are stated in subsection 23AH(1) as follows:
-
-(a)to ensure that active foreign branch income derived by a resident company, and capital gains made by a resident company in disposing of non-tainted assets used in deriving foreign branch income ... are not assessable income or exempt income of the company; and
+The objects of section 23AH of the ITAA 1936 are stated in subsection 23AH(1) as follows: (a)to ensure that active foreign branch income derived by a resident company, and capital gains made by a resident company in disposing of non-tainted assets used in deriving foreign branch income ... are not assessable income or exempt income of the company; and
 (b)to include in the assessable income of a resident company that part of its income and capital gains derived through a branch in a foreign country that is comparable to the amounts that would be included in an attributable taxpayer's assessable income for income and capital gains derived by a CFC resident in the same foreign country; and
-(c)to get the same outcomes where one or more partnerships or trusts are interposed between a resident company and a foreign branch.
-
-The operative provision is in subsection 23AH(2) of the ITAA 1936, which provides:
-
-Subject to this section, foreign income derived by a company, at a time when the company is a resident in carrying on a business, at or through a PE of the company in a listed country or unlisted country is not assessable income, and is not exempt income, of the company.
-
-Therefore, for subsection 23AH(2) of the ITAA 1936 to apply, the taxpayer must be a resident company that:
-
-•derives foreign income;
+(c)to get the same outcomes where one or more partnerships or trusts are interposed between a resident company and a foreign branch. The operative provision is in subsection 23AH(2) of the ITAA 1936, which provides: Subject to this section, foreign income derived by a company, at a time when the company is a resident in carrying on a business, at or through a PE of the company in a listed country or unlisted country is not assessable income, and is not exempt income, of the company. Therefore, for subsection 23AH(2) of the ITAA 1936 to apply, the taxpayer must be a resident company that: •derives foreign income;
 •at or through a permanent establishment (PE) in a listed or unlisted country; and
-•is carrying on business through that PE.
-
-As the profits of the US LLC are 'foreign income' and the US is a 'listed country' as defined in subsection 23AH(15) of the ITAA 1936, it is necessary to determine whether the taxpayer derives its share of that foreign income of the US LLC in carrying on a business at or through a PE for the purposes of subsection 23AH(2).
+•is carrying on business through that PE. As the profits of the US LLC are 'foreign income' and the US is a 'listed country' as defined in subsection 23AH(15) of the ITAA 1936, it is necessary to determine whether the taxpayer derives its share of that foreign income of the US LLC in carrying on a business at or through a PE for the purposes of subsection 23AH(2).
 Section 830-20 of the ITAA 1997 provides that the 'foreign hybrid tax provisions', which include section 23AH of the ITAA 1936, apply to the US LLC, a foreign hybrid company, as if that company were a partnership (a defined term). Section 830-25 then provides that the taxpayer, as a shareholder in the US LLC, is a partner in a partnership.
 It is important to note that the purpose of the subsection 995-1(1) of the ITAA 1997 definition of partnership is to identify the types of arrangements to which the taxation treatment set out in Division 5 of Part III of the ITAA 1936 then applies. That is, the definition is merely serving to secure a particular taxing result. That definition includes arrangements that would qualify as general law partnerships and also includes arrangements that would not so qualify. Merely by being brought within the term 'partnership' as it is used in the tax law does not imbue the arrangement with all the characteristics of a general law partnership and no assumption or deeming is required to achieve the intended result of taxation under Division 5 (see for example AAT Case 12/95 95 ATC 175 at 181; 10,079 (1995) 30 ATR 1169 at 1175, Re Commissioner of Taxation v. Peter Joseph Walsh and Beatrice Joan Walsh As Trustees of Lisa Marie Walsh Trust [1983] FCA 132; 83 ATC 4415 at 4436; (1983) 14 ATR 399 per Fitzgerald J and Taxation Ruling TR 95/25 paragraphs 8-11 and 37).
 The effect of section 830-20 of the ITAA 1997, therefore, is that the specified income tax provisions apply 'as if' the US LLC were a (tax law) partnership; that is, the section serves only to extend the list of arrangements that fall within the definition of 'partnership' in subsection 995-1(1) of the ITAA 1997 for the purpose of securing a method of taxation in respect of foreign hybrid companies that applies to other tax law partnerships.
 Thus, section 830-20 of the ITAA 1997 does not deem the US LLC to satisfy any or all of the requirements of the definition of 'partnership' in subsection 995-1(1) of the ITAA 1997. In particular, it does not serve to deem the US LLC to be 'an association of persons carrying on business as partners' nor does it require any fictional assumption that the US LLC and its shareholders have all the characteristics and relationships of a general law partnership.
 It follows, therefore, that while it may be considered that a partner in a general law partnership has a PE where the partnership has a PE because of the nature of the partnership relationship (see paragraph 3.12 of Taxation Ruling TR 2001/11, Johnston v. Commissioner of Internal Revenue (United States), (1955) 24 T.C. 920, Donroy, Ltd. v. United States (1962) 301 F.2d 200 and Unger v. Commissioner of Internal Revenue (1991) 936 F.2d 1316,1319), the same conclusion does not follow where the entity is treated 'as if' it were a (tax law) partnership only to secure taxation as a partnership. Whether or not the shareholder in the US LLC, treated as a partner in a partnership for tax purposes, carries on the business of the US LLC through the PE of the US LLC will depend on the facts.
-In this case there is no evidence that the taxpayer does anything more than hold shares in the US LLC. Accordingly, the taxpayer will not prima facie satisfy subsection 23AH(2) of the ITAA 1936, as its share of the income of the LLC is not income derived by the taxpayer in carrying on a business.
-
-Application of subsection 23AH(10)
-
-For the purposes of section 23AH of the ITAA 1936, subsection 23AH(10) provides that:
+In this case there is no evidence that the taxpayer does anything more than hold shares in the US LLC. Accordingly, the taxpayer will not prima facie satisfy subsection 23AH(2) of the ITAA 1936, as its share of the income of the LLC is not income derived by the taxpayer in carrying on a business. Application of subsection 23AH(10) For the purposes of section 23AH of the ITAA 1936, subsection 23AH(10) provides that:
 This section applies to any indirect interest (through one or more partnerships or trust estates) of a company in foreign income derived by a partnership or trustee through a PE of the partnership or trustee in a listed country or unlisted country as if that indirect interest were foreign income derived by the company through a PE of the company in that country.
-Therefore, subsection 23AH(10) of the ITAA 1936 will apply if:
-
-•the taxpayer has an indirect interest (through the US LLC as a partnership) in foreign income; and
-•the foreign income is derived by the US LLC at or through a PE of the US LLC in a listed or unlisted country.
-
-Indirect interest in foreign income through the US LLC
-
-As the US LLC is treated as a partnership for the purposes of section 23AH of the ITAA 1936, and the taxpayer is a partner of the partnership, the taxpayer has an indirect interest, through the US LLC, in foreign income derived by a partnership within the meaning of subsection 23AH(10) of the ITAA 1936.
-
-US LLC derives foreign income at or through a PE
-
-The US LLC derives the foreign income from operations conducted through an office in the US. A 'PE' is defined in subsection 23AH(15) of the ITAA 1936 as having either the same meaning as in an applicable double tax agreement, or the meaning given by subsection 6(1) of the ITAA 1936, as the context requires.
+Therefore, subsection 23AH(10) of the ITAA 1936 will apply if: •the taxpayer has an indirect interest (through the US LLC as a partnership) in foreign income; and
+•the foreign income is derived by the US LLC at or through a PE of the US LLC in a listed or unlisted country. Indirect interest in foreign income through the US LLC As the US LLC is treated as a partnership for the purposes of section 23AH of the ITAA 1936, and the taxpayer is a partner of the partnership, the taxpayer has an indirect interest, through the US LLC, in foreign income derived by a partnership within the meaning of subsection 23AH(10) of the ITAA 1936. US LLC derives foreign income at or through a PE The US LLC derives the foreign income from operations conducted through an office in the US. A 'PE' is defined in subsection 23AH(15) of the ITAA 1936 as having either the same meaning as in an applicable double tax agreement, or the meaning given by subsection 6(1) of the ITAA 1936, as the context requires.
 In the present case, the applicable agreement is the USA Convention in Schedule 2 to the International Tax Agreements Act 1953 (Agreements Act). Article 5 of the USA Convention provides the relevant definition of a PE. Article 5(1) provides that the term PE means a 'fixed place of business through which the business of an enterprise is wholly or partly carried on'. As the US LLC carries on business of selling audiovisual materials to unrelated customers through a fixed place of business (an office) in the US, it has a PE in the US for the purposes of Article 5 of the USA Convention. Therefore, the foreign income derived by the US LLC through the PE will be derived by a 'partnership' through a PE of the partnership in a listed country for the purposes of subsection 23AH(10) of the ITAA 1936.
-Accordingly, as the taxpayer has an indirect interest in foreign income derived by a partnership, and that partnership derived the foreign income at or through a PE, subsection 23AH(10) of the ITAA 1936 is satisfied and subsection 23AH(2) of the ITAA 1936 will apply as if the taxpayer's indirect interest in the US LLC's foreign income is itself foreign income derived by the taxpayer at or through a PE of the taxpayer in the US.
-
-Carrying on business through that PE
-
-Subsection 23AH(2) of the ITAA 1936 also requires that the taxpayer has derived foreign income in 'carrying on a business' at or through the PE. Although subsection 23AH(10) of the ITAA 1936 deems the taxpayer to derive income at or through a PE of the US LLC, it does not explicitly deem the taxpayer to carry on business through that PE.
+Accordingly, as the taxpayer has an indirect interest in foreign income derived by a partnership, and that partnership derived the foreign income at or through a PE, subsection 23AH(10) of the ITAA 1936 is satisfied and subsection 23AH(2) of the ITAA 1936 will apply as if the taxpayer's indirect interest in the US LLC's foreign income is itself foreign income derived by the taxpayer at or through a PE of the taxpayer in the US. Carrying on business through that PE Subsection 23AH(2) of the ITAA 1936 also requires that the taxpayer has derived foreign income in 'carrying on a business' at or through the PE. Although subsection 23AH(10) of the ITAA 1936 deems the taxpayer to derive income at or through a PE of the US LLC, it does not explicitly deem the taxpayer to carry on business through that PE.
 However, paragraph 23AH(1)(c) of the ITAA 1936 provides that the interposition of a partnership or trust between a resident company and a PE should not prevent the exemption from applying in circumstances where it would apply if the PE was held directly by the resident company. Accordingly, where the partnership has derived foreign income in carrying on a business at or through a PE, subsection 23AH(10) of the ITAA 1936 has the effect that section 23AH applies as though the resident company was placed in the shoes of the partnership.
 In the present case, the partnership (US LLC) is carrying on business through a fixed place of business. Because the dual conditions of 'carrying on a business' and 'through a fixed place' are present, the definition of PE as contained in Article 5(1) of the US Convention is satisfied. As such, the business carried on by the US LLC at or through the PE is treated as if the taxpayer is carrying on that business at or through that PE by virtue of subsection 23AH(10) of the ITAA 1936.
-This interpretation accords with the intention as expressed in paragraph 2.39 of the EM to the New International Tax Arrangements (Participation Exemption and Other Measures) Bill 2004, which introduced the current version of section 23AH of the ITAA 1936:
-
-The general principle is that the amounts that are included in assessable income of a resident company are the amounts that would have been included had the business of the permanent establishment been carried on directly by the resident company taking into account the company's actual portion of the income. Further, the net income of a trust or partnership in relation to a resident company will not include the permanent establishment income that would not have been assessable nor exempt income if the company had derived that permanent establishment income directly.
-
-The EM to the Taxation Laws Amendment Bill (No. 7) 2003 also suggests that this treatment was intended to apply where companies derive income indirectly from a PE via an interposed foreign hybrid entity. Although the EM does not refer directly to subsection 23AH(10) of the ITAA 1936, it deals with the operation of subsection 23AH(11) which extends the operation of subsection 23AH(3) in respect of capital gains and losses to indirect interests in capital gains and losses made in relation to a partnership or trust asset in carrying on a business through a PE. In this regard, paragraphs 9.49 and 9.50 of that EM, in discussing the operation of section 830-75 of the ITAA 1997, indicate that section 23AH of the ITAA 1936 is intended to apply to taxpayers making a capital gain or loss indirectly via an interest in a foreign hybrid:
-
-9.49 ... In this case, the capital gain will be treated for the purposes of section 23AH and Part X of the ITAA 1936 as having been subject to tax in a listed country when the deemed disposal took place. Subject to the other conditions in section 23AH being met, any capital gain made by an Australian company member of the foreign hybrid will be exempt from Australian tax at that time. Any capital loss will be ignored in the same circumstances. ...
-
-9.50 Where there is an actual disposal of some or all of an existing partner's/member's interest in the foreign hybrid resulting in a capital gain, and the gain is subject to tax in a listed country, the capital gain under Australian law will be treated as being subject to tax in the listed country at that time. This again may result in the gain being exempt, or a loss ignored, under section 23AH ... .
-
-Accordingly, the Commissioner is satisfied that the effect of subsection 23AH(10) of the ITAA 1936 in this case is to deem the taxpayer to have derived foreign income in carrying on business at or through a PE for the purpose of subsection 23AH(2) of the ITAA 1936.
-
-Conclusion
-
-The business income derived by the taxpayer indirectly through a PE of the US LLC, which is treated as foreign hybrid for Australian income tax purposes, will be non-assessable non-exempt income of the taxpayer under subsection 23AH(2) of the ITAA 1936.
-
-Note
- : the exception in subsection 23AH(5) of the ITAA 1936 will not apply to the taxpayer in the present case, as the income derived by the taxpayer through the PE of the US LLC is neither adjusted tainted income nor eligible designated concession income.
-
-Date of decision:
-  20 May 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 23AH   subsection 23AH(1)   paragraph 23AH(1)(c)   subsection 23AH(2)   subsection 23AH(3)   subsection 23AH(5)   subsection 23AH(10)   subsection 23AH(11)   subsection 23AH(15)   Part III, Division 5   Part X
-Income Tax Assessment Act 1997   section 830-15   section 830-20   section 830-25   section 830-75   subsection 995-1(1)
-International Tax Agreements Act 1997   Schedule 2, Article 5
-
-Case References:
-
-AAT Case 12/95 AAT Case 10,079   (1995) 95 ATC 175   (1995) 30 ATR 1169
-
-Donroy, Ltd. v. United States of America (USA)   (1962) 301 F.2d 200
-
-Johnston v. Commissioner of Internal Revenue (USA)   (1955) 24 T.C. 920
-
-Re Commissioner of Taxation v. Peter Joseph Walsh and Beatrice Joan Walsh As Trustees of Lisa Marie Walsh Trust   [1983] FCA 132   (1983) 83 ATC 4415   (1983) 14 ATR 399
-
-Unger v. Commissioner of Internal Revenue (USA)   (1991) 936 F.2d 1316
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 95/25
-Taxation Ruling TR 2001/11
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2008/117
-
-Keywords
-
-Foreign hybrid company
- Foreign hybrids
- International tax
- Non-assessable non-exempt income
- Partnerships
- Permanent establishment
- Statutory interpretation
-
-Siebel/TDMS Reference Number:
-  1-30ZH5FC
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  27 May 2011
-
-ISSN:
- 1445-2782
+This interpretation accords with the intention as expressed in paragraph 2.39 of the EM to the New International Tax Arrangements (Participation Exemption and Other Measures) Bill 2004, which introduced the current version of section 23AH of the ITAA 1936: The general principle is that the amounts that are included in assessable income of a resident company are the amounts that would have been included had the business of the permanent establishment been carried on directly by the resident company taking into account the company's actual portion of the income. Further, the net income of a trust or partnership in relation to a resident company will not include the permanent establishment income that would not have been assessable nor exempt income if the company had derived that permanent establishment income directly. The EM to the Taxation Laws Amendment Bill (No. 7) 2003 also suggests that this treatment was intended to apply where companies derive income indirectly from a PE via an interposed foreign hybrid entity. Although the EM does not refer directly to subsection 23AH(10) of the ITAA 1936, it deals with the operation of subsection 23AH(11) which extends the operation of subsection 23AH(3) in respect of capital gains and losses to indirect interests in capital gains and losses made in relation to a partnership or trust asset in carrying on a business through a PE. In this regard, paragraphs 9.49 and 9.50 of that EM, in discussing the operation of section 830-75 of the ITAA 1997, indicate that section 23AH of the ITAA 1936 is intended to apply to taxpayers making a capital gain or loss indirectly via an interest in a foreign hybrid: 9.49 ... In this case, the capital gain will be treated for the purposes of section 23AH and Part X of the ITAA 1936 as having been subject to tax in a listed country when the deemed disposal took place. Subject to the other conditions in section 23AH being met, any capital gain made by an Australian company member of the foreign hybrid will be exempt from Australian tax at that time. Any capital loss will be ignored in the same circumstances. ... 9.50 Where there is an actual disposal of some or all of an existing partner's/member's interest in the foreign hybrid resulting in a capital gain, and the gain is subject to tax in a listed country, the capital gain under Australian law will be treated as being subject to tax in the listed country at that time. This again may result in the gain being exempt, or a loss ignored, under section 23AH ... . Accordingly, the Commissioner is satisfied that the effect of subsection 23AH(10) of the ITAA 1936 in this case is to deem the taxpayer to have derived foreign income in carrying on business at or through a PE for the purpose of subsection 23AH(2) of the ITAA 1936. Conclusion The business income derived by the taxpayer indirectly through a PE of the US LLC, which is treated as foreign hybrid for Australian income tax purposes, will be non-assessable non-exempt income of the taxpayer under subsection 23AH(2) of the ITAA 1936. Note : the exception in subsection 23AH(5) of the ITAA 1936 will not apply to the taxpayer in the present case, as the income derived by the taxpayer through the PE of the US LLC is neither adjusted tainted income nor eligible designated concession income. Date of decision: 20 May 2011 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 23AH subsection 23AH(1) paragraph 23AH(1)(c) subsection 23AH(2) subsection 23AH(3) subsection 23AH(5) subsection 23AH(10) subsection 23AH(11) subsection 23AH(15) Part III, Division 5 Part X
+Income Tax Assessment Act 1997 section 830-15 section 830-20 section 830-25 section 830-75 subsection 995-1(1)
+International Tax Agreements Act 1997 Schedule 2, Article 5 Case References: AAT Case 12/95 AAT Case 10,079 (1995) 95 ATC 175 (1995) 30 ATR 1169 Donroy, Ltd. v. United States of America (USA) (1962) 301 F.2d 200 Johnston v. Commissioner of Internal Revenue (USA) (1955) 24 T.C. 920 Re Commissioner of Taxation v. Peter Joseph Walsh and Beatrice Joan Walsh As Trustees of Lisa Marie Walsh Trust [1983] FCA 132 (1983) 83 ATC 4415 (1983) 14 ATR 399 Unger v. Commissioner of Internal Revenue (USA) (1991) 936 F.2d 1316 Related Public Rulings (including Determinations) Taxation Ruling TR 95/25
+Taxation Ruling TR 2001/11 ATO Interpretative Decisions overturned by this decision ATO ID 2008/117 Keywords Foreign hybrid company Foreign hybrids International tax Non-assessable non-exempt income Partnerships Permanent establishment Statutory interpretation Siebel/TDMS Reference Number: 1-30ZH5FC Business Line: Public Groups and International Date of publication: 27 May 2011 ISSN: 1445-2782

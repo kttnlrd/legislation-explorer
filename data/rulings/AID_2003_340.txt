@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/340
-==================================================
-
-Income Tax
- Capital Gains Tax: trust to company rollover - CGT assets retained by the trustee - availability of rollover
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: trust to company rollover - CGT assets retained by the trustee - availability of rollover FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the trust to company rollover under Subdivision 124-N of the Income Tax Assessment Act 1997 (ITAA 1997) available for CGT assets disposed of to the company, during the trust restructuring period, where those assets had initially been retained by the trust to pay existing or expected debts and remained after those debts had been finalised?
 Decision
 Yes. Rollover under Subdivision 124-N of the ITAA 1997 is available in relation to the CGT assets disposed of to the transferee company during the trust restructuring period.
@@ -24,35 +13,4 @@ All of the CGT assets owned by the transferor, the trust, must be disposed of to
 The trust restructuring period starts just before the first CGT asset is disposed of to the transferee, the company, under the trust restructure and ends when the last CGT asset of the transferor, the trust, is disposed of to the transferee (subsection 124-860(2) of the ITAA 1997).
 As a general rule, the trust must cease to exist within six months after the trust first disposed of a CGT asset to the company under a trust restructure otherwise the effect of the roll-over will be reversed (see the note to section 124-850 of the ITAA 1997 and CGT event J4, section 104-195 of the ITAA 1997).
 As it has now been determined that the remaining CGT assets are no longer required to pay the debts of the transferor the trust to company rollover under Subdivision 124-N of the ITAA 1997 is available for these CGT assets.
-Date of decision:
-  28 April 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-195   Subdivision 124-N   section 124-850   section 124-860   subsection 124-860(1)   subsection 124-860(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/955
-
-Keywords
-
-Capital gains tax
- Capital gains
- CGT assets
- Unit trust restructuring
-
-Siebel/TDMS Reference Number:
-  3511735
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 May 2003
-
-ISSN:
- 1445-2782
+Date of decision: 28 April 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 104-195 Subdivision 124-N section 124-850 section 124-860 subsection 124-860(1) subsection 124-860(2) Related ATO Interpretative Decisions ATO ID 2002/955 Keywords Capital gains tax Capital gains CGT assets Unit trust restructuring Siebel/TDMS Reference Number: 3511735 Business Line: Public Groups and International Date of publication: 15 May 2003 ISSN: 1445-2782

@@ -1,24 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2013/58
-==================================================
-
-Income Tax
- Interest withholding tax: Australian interest income paid to a single owner United States limited liability company disregarded as an entity separate from its owner
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Can Article 11(3)(b) of the Convention between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income [1983] ATS 16 and Protocol [2003] ATS 14 (the US Convention) apply to Australian interest income paid to a single owner US limited liability company (LLC) incorporated in the United States that:
-
-(a) is a disregarded entity; and
+================================================== Income Tax Interest withholding tax: Australian interest income paid to a single owner United States limited liability company disregarded as an entity separate from its owner CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Can Article 11(3)(b) of the Convention between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income [1983] ATS 16 and Protocol [2003] ATS 14 (the US Convention) apply to Australian interest income paid to a single owner US limited liability company (LLC) incorporated in the United States that: (a) is a disregarded entity; and
 (b) substantially derives its profits by raising debt finance in the financial markets or by taking deposits at interest and using those funds in carrying on a business or providing finance; and
-(c) is owned by a US Corporation which is a resident for the purposes of the US Convention and undertakes no other activities?
-
-Decision
+(c) is owned by a US Corporation which is a resident for the purposes of the US Convention and undertakes no other activities? Decision
 Yes. In these circumstances Article 11(3)(b) of the US Convention can apply to the interest income paid to the LLC providing all the other requirements in Article 11 are satisfied.
 Facts
 The LLC derives the majority of its income from raising debt finance in the financial markets and using those funds in carrying on a business of providing finance, and is a financial institution for the purpose of Article 11(3)(b) of the US Convention.
@@ -28,99 +14,15 @@ US Treasury Regulations, Subchapter F, § 301.7701-2(a) provides that, if an ent
 For US federal tax purposes the LLC's income and expenses are aggregated with the other income and expenses of its owner and the owner is taxed in the US as a resident of the US.
 The single owner of the LLC is a resident of the US for the purposes of the US Convention. The single owner undertakes no other activities.
 Reasons for Decision
-Article 11(3)(b) of the US Convention states that:
-
-(3)
- Notwithstanding paragraph (2), interest arising in one of the Contracting States to
- which a resident of the other Contracting State is beneficially entitled
- may not be taxed in the first-mentioned State if:
-
-...
-
-(b)
- the
- interest is derived by a financial institution
- which is unrelated to and dealing wholly independently with the payer. For the purposes of this Article, the term 'financial institution' means a bank or other enterprise substantially deriving its profits by raising debt finance in the financial markets or by taking deposits at interest and using those funds in carrying on a business of providing finance. (emphasis added)
-
-For the reasons set out in ATO ID 2010/188, a disregarded LLC is not a resident of the US for the purposes of the US Convention.
-Further, TR 2005/5 states at paragraph 36:
-
-It is the US or UK resident that is beneficially entitled to the interest that must meet the requirements of the Article. The term 'resident' in Article 11 derives its meaning from Articles 1, 3 and 4 of the Conventions. The effect of the definition of 'resident' in the Conventions in the case of corporate groups is that it refers to a particular company within the company group. As a corporate group is not a resident for the purposes of Article 11, the attributes of that Article cannot apply to it. Rather, it is the particular company that is beneficially entitled to the interest that must meet the requirements of Article 11(3), including the requirement to be a financial institution.
-
-The object and purpose of Article 11(3)(b) of the US Convention
-
-Paragraph 94 of Taxation Ruling TR 2001/13 comments, in relation to the interpretation of tax treaties, that:
-
-... the rules of construction will not be as detailed and rigid as they might be if the courts were to interpret domestic legislation or domestic instrumentsF72, and gaps, imprecision and ambiguities should be accepted as sometimes inevitable in such a text, and to some extent accommodated or 'smoothed over' in a way that addresses the context and meets the object and purpose of the DTA.
-
-Article 11(3)(b) of the US Convention was introduced by the International Tax Agreements Amendment Bill (No. 1) 2002. The House of Representatives Explanatory Memorandum to that Bill explains the purpose of Article 11(3)(b) as follows:
-
-2.46 The exemption for interest paid to financial institutions reflects that the current 10% rate on gross interest can be excessive given their cost of funds.
-
-Paragraphs 7.1 and 7.7 of the Commentary on Article 11 of the OECD Model Tax Convention expand on the reason for including an Article such as Article 11(3)(b) to prevent taxation by the source country. In short, source country taxation on the interest derived by a financial institution is likely to constitute an obstacle to international trade, because source country taxation is generally based on gross interest and does not take into account the borrowing costs.
-Where, because of domestic tax laws, the taxing point is shifted from one entity to another, such that the entity which is the financial institution is not taxed but another entity, a resident for treaty purposes, is taxed, it is consistent with the object and purpose of the above exemption to allow the exemption to apply to the interest income paid to the financial institution in appropriate circumstances.
-
-US treatment of the interest paid to the LLC
-
-Under US tax law, where an entity is disregarded, 'its activities are treated in the same manner as a sole proprietorship, branch, or division of the owner' (see US Treasury Regulations, Subchapter F, § 301.7701-2(a)). The IRS Instructions for the LLC Reference Guide Sheet further state '[a] though the LLC may be disregarded as a separate entity, it is not disregarded as an activity of its sole owner. Rather, the disregarded LLC's activities are treated as the activities of the owner.'
-In dealing with the inherent difficulties associated with the differing treatment of partnerships in different countries, paragraph 6.3 of the OECD Commentary on Article 1 of the OECD Model Tax Convention states the following principle:
-
-... the State of source should take into account, as part of the factual context in which the treaty is to be applied, the way in which an item of income, arising in its jurisdiction is treated in the jurisdiction of the person claiming the benefits of the Convention as a resident.
-
-This comment relates to partnerships. However, the principle is also applicable to a US LLC, which under Australian tax law is treated as a taxable entity (a company), while the US, for US tax law purposes, disregards the LLC and instead treats the activities of the LLC as the activities of the owner and imposes tax on the owner accordingly.
+Article 11(3)(b) of the US Convention states that: (3) Notwithstanding paragraph (2), interest arising in one of the Contracting States to which a resident of the other Contracting State is beneficially entitled may not be taxed in the first-mentioned State if: ... (b) the interest is derived by a financial institution which is unrelated to and dealing wholly independently with the payer. For the purposes of this Article, the term 'financial institution' means a bank or other enterprise substantially deriving its profits by raising debt finance in the financial markets or by taking deposits at interest and using those funds in carrying on a business of providing finance. (emphasis added) For the reasons set out in ATO ID 2010/188, a disregarded LLC is not a resident of the US for the purposes of the US Convention.
+Further, TR 2005/5 states at paragraph 36: It is the US or UK resident that is beneficially entitled to the interest that must meet the requirements of the Article. The term 'resident' in Article 11 derives its meaning from Articles 1, 3 and 4 of the Conventions. The effect of the definition of 'resident' in the Conventions in the case of corporate groups is that it refers to a particular company within the company group. As a corporate group is not a resident for the purposes of Article 11, the attributes of that Article cannot apply to it. Rather, it is the particular company that is beneficially entitled to the interest that must meet the requirements of Article 11(3), including the requirement to be a financial institution. The object and purpose of Article 11(3)(b) of the US Convention Paragraph 94 of Taxation Ruling TR 2001/13 comments, in relation to the interpretation of tax treaties, that: ... the rules of construction will not be as detailed and rigid as they might be if the courts were to interpret domestic legislation or domestic instrumentsF72, and gaps, imprecision and ambiguities should be accepted as sometimes inevitable in such a text, and to some extent accommodated or 'smoothed over' in a way that addresses the context and meets the object and purpose of the DTA. Article 11(3)(b) of the US Convention was introduced by the International Tax Agreements Amendment Bill (No. 1) 2002. The House of Representatives Explanatory Memorandum to that Bill explains the purpose of Article 11(3)(b) as follows: 2.46 The exemption for interest paid to financial institutions reflects that the current 10% rate on gross interest can be excessive given their cost of funds. Paragraphs 7.1 and 7.7 of the Commentary on Article 11 of the OECD Model Tax Convention expand on the reason for including an Article such as Article 11(3)(b) to prevent taxation by the source country. In short, source country taxation on the interest derived by a financial institution is likely to constitute an obstacle to international trade, because source country taxation is generally based on gross interest and does not take into account the borrowing costs.
+Where, because of domestic tax laws, the taxing point is shifted from one entity to another, such that the entity which is the financial institution is not taxed but another entity, a resident for treaty purposes, is taxed, it is consistent with the object and purpose of the above exemption to allow the exemption to apply to the interest income paid to the financial institution in appropriate circumstances. US treatment of the interest paid to the LLC Under US tax law, where an entity is disregarded, 'its activities are treated in the same manner as a sole proprietorship, branch, or division of the owner' (see US Treasury Regulations, Subchapter F, § 301.7701-2(a)). The IRS Instructions for the LLC Reference Guide Sheet further state '[a] though the LLC may be disregarded as a separate entity, it is not disregarded as an activity of its sole owner. Rather, the disregarded LLC's activities are treated as the activities of the owner.'
+In dealing with the inherent difficulties associated with the differing treatment of partnerships in different countries, paragraph 6.3 of the OECD Commentary on Article 1 of the OECD Model Tax Convention states the following principle: ... the State of source should take into account, as part of the factual context in which the treaty is to be applied, the way in which an item of income, arising in its jurisdiction is treated in the jurisdiction of the person claiming the benefits of the Convention as a resident. This comment relates to partnerships. However, the principle is also applicable to a US LLC, which under Australian tax law is treated as a taxable entity (a company), while the US, for US tax law purposes, disregards the LLC and instead treats the activities of the LLC as the activities of the owner and imposes tax on the owner accordingly.
 Thus, in applying the US Convention, Australia should take into account the US treatment of the interest paid to the LLC. Where it is necessary to do so in order to give effect to the object and purpose of a treaty, Australia may give due recognition to the fact that under US tax law, the activities and income of the LLC are treated as the activities and income of the US resident owner.
-Hence, where:
-
-• interest income is paid to a single owner LLC which is disregarded as an entity separate from its owner for US tax purposes, and
+Hence, where: • interest income is paid to a single owner LLC which is disregarded as an entity separate from its owner for US tax purposes, and
 • the LLC meets the definition of 'financial institution' in Article 11(3)(b), and
 • the single owner is a resident of the US for the purposes of the US Convention and is beneficially entitled to the interest income; and
-• the single owner undertakes no other activities
-
-it can be accepted that the interest income is income to which a resident of the US is beneficially entitled and is derived by financial institution for the purposes of Article 11(3)(b). Therefore, subject to the other requirements in Article 11 also being met, the interest income is not taxable in Australia.
+• the single owner undertakes no other activities it can be accepted that the interest income is income to which a resident of the US is beneficially entitled and is derived by financial institution for the purposes of Article 11(3)(b). Therefore, subject to the other requirements in Article 11 also being met, the interest income is not taxable in Australia.
 This treatment accords with the object and purpose of the exemption from tax in Article 11(3)(b) and is consistent with paragraph 36 of TR 2005/5 as, giving recognition to the US tax law treatment, the resident of the US satisfies the requirements of the Article.
-Date of decision:
-  5 October 2013
-
-Year of income:
-  Year ended 30 June 2012
-
-Related Public Rulings (including Determinations)
-
-TR 2001/13
-TR 2005/5
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/188
-
-Other References:
-
- US Convention [1983] ATS 16
- US Convention [1983] ATS 16, Article 4(1)(b)
- US Convention [1983] ATS 16, Article 11(3)(b)
- Protocol amending the US Convention [2003] ATS 14
- House of Representatives Explanatory Memorandum to the International Tax Agreements Amendment Bill (No. 1) 2002
- 2010 OECD Commentaries on the Articles of the Model Tax Convention
- US Treasury Regulations Subchapter F, § 301.7701-2(a)
- US Treasury Regulations Subchapter F, § 301.7701-3(b)(ii)
-
-Keywords
-
-international tax
- treaties
- interest income
- withholding taxes
- non-resident companies
- non-resident interest withholding tax
-
-Siebel/TDMS Reference Number:
-  1-53I67VG
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  1 November 2013
-
-ISSN:
- 1445-2782
+Date of decision: 5 October 2013 Year of income: Year ended 30 June 2012 Related Public Rulings (including Determinations) TR 2001/13
+TR 2005/5 Related ATO Interpretative Decisions ATO ID 2010/188 Other References: US Convention [1983] ATS 16 US Convention [1983] ATS 16, Article 4(1)(b) US Convention [1983] ATS 16, Article 11(3)(b) Protocol amending the US Convention [2003] ATS 14 House of Representatives Explanatory Memorandum to the International Tax Agreements Amendment Bill (No. 1) 2002 2010 OECD Commentaries on the Articles of the Model Tax Convention US Treasury Regulations Subchapter F, § 301.7701-2(a) US Treasury Regulations Subchapter F, § 301.7701-3(b)(ii) Keywords international tax treaties interest income withholding taxes non-resident companies non-resident interest withholding tax Siebel/TDMS Reference Number: 1-53I67VG Business Line: Public Groups and International Date of publication: 1 November 2013 ISSN: 1445-2782

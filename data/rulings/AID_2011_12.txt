@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2011/12
-==================================================
-
-Income Tax
- Interest withholding tax: interest arising in Australia paid to a New Zealand Limited Partnership - 'derived'
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest withholding tax: interest arising in Australia paid to a New Zealand Limited Partnership - 'derived' FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer's share (proportionate to its partnership interest as a limited partner in a New Zealand Limited Partnership (NZLP)) of interest arising in Australia and paid to NZLP, 'derived' by the taxpayer for the purposes of Article 11.3(a) of the tax treaty between Australia and New Zealand (2009 NZ Convention)?
 Decision
 Yes. The taxpayer's share of interest arising in Australia and paid to NZLP is derived by the taxpayer for the purposes of Article 11.3(a) of the 2009 NZ Convention.
@@ -33,63 +20,10 @@ In the present case, liability to Australian withholding tax is subject to the p
 Article 11 of the 2009 NZ Convention deals with interest. Relevantly, Article 11.3(a) of the 2009 NZ Convention provides that interest arising in Australia and beneficially owned by a resident of New Zealand may not be taxed in Australia if the interest is 'derived by a Contracting State or by a political sub-division or a local authority thereof (including a government investment fund)'.
 Accordingly, as the taxpayer is the beneficial owner of its share of the interest arising in Australia and also a government investment fund, it is necessary to determine whether the interest is 'derived' by the taxpayer for the purposes of Article 11.3(a) of the 2009 NZ Convention.
 The interest income that is paid to NZLP is allocated to the limited partners in proportion to their interest in the partnership, and is taxed in New Zealand as the income of the limited partners (rather than as the income of NZLP).
-In this regard, Article 1.2 of the 2009 NZ Convention is relevant. It states:
-
-In the case of an item of income (including profits or gains) derived by or through a person that is fiscally transparent with respect to that item of income under the laws of either State, such item shall be considered to be derived by a resident of a State to the extent that the item is treated for the purposes of the taxation law of such State as the income of a resident.
-
-Therefore, in order to determine whether Article 1.2 applies, it is necessary to establish whether NZLP is 'fiscally transparent' under the laws of New Zealand with respect to the relevant interest income, given that the taxpayer is a New Zealand resident for the purposes of the 2009 NZ Convention. The Explanatory Memorandum to the International Tax Agreements Amendment Bill (No.2) 2009 (EM) provides that, for the purposes of applying Article 1.2, it is irrelevant whether the source country (in this case Australia) also views NZLP as fiscally transparent.
+In this regard, Article 1.2 of the 2009 NZ Convention is relevant. It states: In the case of an item of income (including profits or gains) derived by or through a person that is fiscally transparent with respect to that item of income under the laws of either State, such item shall be considered to be derived by a resident of a State to the extent that the item is treated for the purposes of the taxation law of such State as the income of a resident. Therefore, in order to determine whether Article 1.2 applies, it is necessary to establish whether NZLP is 'fiscally transparent' under the laws of New Zealand with respect to the relevant interest income, given that the taxpayer is a New Zealand resident for the purposes of the 2009 NZ Convention. The Explanatory Memorandum to the International Tax Agreements Amendment Bill (No.2) 2009 (EM) provides that, for the purposes of applying Article 1.2, it is irrelevant whether the source country (in this case Australia) also views NZLP as fiscally transparent.
 The phrase 'fiscally transparent' is not defined for the purposes of the 2009 NZ Convention. However the phrase is used in the Commentary to the OECD Model Tax Convention on Income and on Capital to include partnerships that are 'ignored for tax purposes and the individual partners are taxed on their respective share of the partnership's income' (paragraph 3 of the 2010 OECD Commentary on Article 1).
-The EM also provides guidance in relation to the phrase 'fiscally transparent' that is consistent with the OECD Commentary, and elaborates on what Article 1.2 of the 2009 NZ Convention is intended to achieve. It relevantly provides that:
-
-2.8 Paragraph 2 addresses special issues arising in relation to income that is derived by or through entities, such as certain partnerships and trusts, that are fiscally transparent with respect to that income; that is, where the participants in the entity are liable to tax on the income, rather than the entity itself. The provision is intended to apply where one or more fiscally transparent entities is interposed between the income and the participant who is ultimately liable to tax on the income.
-
-2.9 ... The intention of paragraph 2 is to ensure that treaty benefits are available to residents who are participants in these entities where income derived through such entities is allocated to those members for tax purposes...
-
-Therefore, it is clear from the paragraphs quoted above that, in respect of interest income, NZLP is a fiscally transparent entity under the laws of New Zealand. That is, the income 'flows through' to the limited partners in proportion to their partnership interest and they are liable to tax in New Zealand on that income.
-Paragraph 2.16 of the EM confirms that, in this situation, where income is derived from sources in Australia through an entity organised and treated as fiscally transparent in New Zealand:
-
-... treaty residents who participate in the [fiscally transparent entity] will be eligible for treaty benefits in respect of items of income (including profits or gains) derived from the source country through that entity, to the extent that the other country treats the income as 'flowed-through' to those participants. Resident participants in the entity will be treated as having derived the income directly and may be entitled to treaty benefits...
-
-Accordingly, as the taxpayer is a limited partner in NZLP and is ultimately liable to tax in New Zealand on its share of the relevant interest that is paid to NZLP, Article 1.2 applies to treat the taxpayer as having derived that income for the purposes of Article 11.3(a) of the 2009 NZ Convention. This ensures that the benefit under Article 11.3(a) is available to the taxpayer in relation to its share of the interest even though NZLP is interposed between the taxpayer and the source of the interest.
-Date of decision:
-  10 February 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   subsection 128B(2)   subsection 128B(5)
-Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974   section 7
-International Tax Agreements Act 1953   Schedule 4 Article 1.2   Schedule 4 Article 11   Schedule 4 Article 11.3(a)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2011/14
- ATO ID 2011/13
-
-Other References:
-
-2010 OECD Model Tax Convention on Income and on Capital
- 2010 OECD Commentaries on the Articles of the Model Tax Convention
- Explanatory Memorandum to the International Agreements Amendment Bill (No. 2) 2009
-
-Keywords
-
-New Zealand
- Double tax agreements
- Non resident interest withholding tax
- Limited partnerships
- Derived
-
-Siebel/TDMS Reference Number:
-  1-2N72TGU
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 February 2011
-
-ISSN:
- 1445-2782
+The EM also provides guidance in relation to the phrase 'fiscally transparent' that is consistent with the OECD Commentary, and elaborates on what Article 1.2 of the 2009 NZ Convention is intended to achieve. It relevantly provides that: 2.8 Paragraph 2 addresses special issues arising in relation to income that is derived by or through entities, such as certain partnerships and trusts, that are fiscally transparent with respect to that income; that is, where the participants in the entity are liable to tax on the income, rather than the entity itself. The provision is intended to apply where one or more fiscally transparent entities is interposed between the income and the participant who is ultimately liable to tax on the income. 2.9 ... The intention of paragraph 2 is to ensure that treaty benefits are available to residents who are participants in these entities where income derived through such entities is allocated to those members for tax purposes... Therefore, it is clear from the paragraphs quoted above that, in respect of interest income, NZLP is a fiscally transparent entity under the laws of New Zealand. That is, the income 'flows through' to the limited partners in proportion to their partnership interest and they are liable to tax in New Zealand on that income.
+Paragraph 2.16 of the EM confirms that, in this situation, where income is derived from sources in Australia through an entity organised and treated as fiscally transparent in New Zealand: ... treaty residents who participate in the [fiscally transparent entity] will be eligible for treaty benefits in respect of items of income (including profits or gains) derived from the source country through that entity, to the extent that the other country treats the income as 'flowed-through' to those participants. Resident participants in the entity will be treated as having derived the income directly and may be entitled to treaty benefits... Accordingly, as the taxpayer is a limited partner in NZLP and is ultimately liable to tax in New Zealand on its share of the relevant interest that is paid to NZLP, Article 1.2 applies to treat the taxpayer as having derived that income for the purposes of Article 11.3(a) of the 2009 NZ Convention. This ensures that the benefit under Article 11.3(a) is available to the taxpayer in relation to its share of the interest even though NZLP is interposed between the taxpayer and the source of the interest.
+Date of decision: 10 February 2011 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) subsection 128B(2) subsection 128B(5)
+Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 section 7
+International Tax Agreements Act 1953 Schedule 4 Article 1.2 Schedule 4 Article 11 Schedule 4 Article 11.3(a) Related ATO Interpretative Decisions ATO ID 2011/14 ATO ID 2011/13 Other References: 2010 OECD Model Tax Convention on Income and on Capital 2010 OECD Commentaries on the Articles of the Model Tax Convention Explanatory Memorandum to the International Agreements Amendment Bill (No. 2) 2009 Keywords New Zealand Double tax agreements Non resident interest withholding tax Limited partnerships Derived Siebel/TDMS Reference Number: 1-2N72TGU Business Line: Public Groups and International Date of publication: 18 February 2011 ISSN: 1445-2782

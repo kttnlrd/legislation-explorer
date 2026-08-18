@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/578
-==================================================
-
-Goods and Services Tax
- GST and the subscription for Internet information services acquired from overseas
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and the subscription for Internet information services acquired from overseas FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a research organisation, liable to pay goods and services tax (GST) under subsection 84-10(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it subscribes to an information service that is delivered via the Internet by a non-resident overseas supplier?
 Decision
 No, the entity is not liable to pay GST under subsection 84-10(1) of the GST Act when it subscribes to an information service that is delivered via the Internet by a non-resident overseas supplier.
@@ -25,62 +12,14 @@ The supply of the information service is not done in Australia nor is it supplie
 The entity is registered for GST.
 Reasons for Decision
 Division 84 of the GST Act applies to supplies not connected with Australia.
-Subsection 9-25(5) of the GST Act provides that a supply of anything other than goods or real property is connected with Australia if either:
-
-(a) the thing is done in Australia; or
+Subsection 9-25(5) of the GST Act provides that a supply of anything other than goods or real property is connected with Australia if either: (a) the thing is done in Australia; or
 (b) the supplier makes the supply through an enterprise that the supplier carries on in Australia; or
-(c) all of the following apply:
-
-(i) neither paragraph (a) nor (b) applies in respect of the thing;
+(c) all of the following apply: (i) neither paragraph (a) nor (b) applies in respect of the thing;
 (ii) the thing is a right or option to acquire another thing;
-(iii) the supply of the other thing would be connected with Australia.
-
-The supply of information, including electronic copies of journals and periodicals, sent via the Internet, is an intangible supply and not a supply of goods or real property. Furthermore, the supply is not connected with Australia as it is not done in Australia nor is it supplied through an enterprise that the non-resident overseas supplier is carrying on in Australia nor is it a right or option to acquire another thing. Therefore, the supply is appropriately considered under Division 84 of the GST Act.
-Under section 84-5 of the GST Act, a supply of anything other than goods or real property that is a supply not connected with Australia, is a taxable supply if:
-
-• the recipient of the supply acquires the thing supplied solely or partly for the purpose of an enterprise that the recipient carries on in Australia, but not solely for a creditable purpose; and
+(iii) the supply of the other thing would be connected with Australia. The supply of information, including electronic copies of journals and periodicals, sent via the Internet, is an intangible supply and not a supply of goods or real property. Furthermore, the supply is not connected with Australia as it is not done in Australia nor is it supplied through an enterprise that the non-resident overseas supplier is carrying on in Australia nor is it a right or option to acquire another thing. Therefore, the supply is appropriately considered under Division 84 of the GST Act.
+Under section 84-5 of the GST Act, a supply of anything other than goods or real property that is a supply not connected with Australia, is a taxable supply if: • the recipient of the supply acquires the thing supplied solely or partly for the purpose of an enterprise that the recipient carries on in Australia, but not solely for a creditable purpose; and
 • the supply is for consideration; and
-• the recipient is registered, or required to be registered.
-
-However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
+• the recipient is registered, or required to be registered. However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
 Subsection 84-10(1) of the GST Act provides that where a supply is a taxable supply under section 84-5 of the GST Act, the GST amount payable on that supply is payable by the recipient of the supply.
-In this case, the entity acquires the information solely for a creditable purpose. As such, section 84-5 of the GST Act does not apply and the entity is not liable to pay any GST amount under subsection 84-10(1) of the GST Act when it subscribes to an information service that is delivered via the Internet by a non-resident overseas supplier.
-
-[HISTORY: This ATO ID was amended on 25 June 2007 to reflect changes in legislation]
-
-Date of decision:
-  4 May 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 9-25(5)   Division 84   subsection 84-5(1)   subsection 84-10(1)
-
-Related Public Rulings (including Determinations)
-
-GST Ruling GSTR 2000/31
-GST Ruling GSTR 2002/2
-
-Other References:
-
-Electronic Commerce Issues Register - Chapter 4
-
-Keywords
-
-Goods and services tax
- GST international services
- GST offshore supplies
- Connected with Australia
- Reverse charge on offshore intangible supplies
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  1192776
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  15 November 2001
-
-ISSN:
- 1445-2782
+In this case, the entity acquires the information solely for a creditable purpose. As such, section 84-5 of the GST Act does not apply and the entity is not liable to pay any GST amount under subsection 84-10(1) of the GST Act when it subscribes to an information service that is delivered via the Internet by a non-resident overseas supplier. [HISTORY: This ATO ID was amended on 25 June 2007 to reflect changes in legislation] Date of decision: 4 May 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 9-25(5) Division 84 subsection 84-5(1) subsection 84-10(1) Related Public Rulings (including Determinations) GST Ruling GSTR 2000/31
+GST Ruling GSTR 2002/2 Other References: Electronic Commerce Issues Register - Chapter 4 Keywords Goods and services tax GST international services GST offshore supplies Connected with Australia Reverse charge on offshore intangible supplies Taxable supply Siebel/TDMS Reference Number: 1192776 Business Line: Indirect Tax Date of publication: 15 November 2001 ISSN: 1445-2782

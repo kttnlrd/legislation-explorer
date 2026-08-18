@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/307
-==================================================
-
-Income Tax
- Assessability of dividend income of a South African / Australian dual resident
- FOI status: may be released
-
-ATO ID 2004/307 is to be withdrawn because it contains references to the Articles 4 & 10 of the tax treaty between Australia and South Africa that was amended by the protocol to the tax treaty (Schedule 42A) which entered into force on 12 November 2008. Despite its withdrawal, the ATO ID continues to be a precedential view for tax periods starting before 1 January 2009.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of dividend income of a South African / Australian dual resident FOI status: may be released ATO ID 2004/307 is to be withdrawn because it contains references to the Articles 4 & 10 of the tax treaty between Australia and South Africa that was amended by the protocol to the tax treaty (Schedule 42A) which entered into force on 12 November 2008. Despite its withdrawal, the ATO ID continues to be a precedential view for tax periods starting before 1 January 2009. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the Australian sourced dividends received by a South African / Australian dual resident assessable under subsection 6-10(4) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The Australian sourced dividends received by a South African / Australian dual resident are assessable under subsection 6-10(4) of the ITAA 1997.
@@ -36,71 +21,16 @@ In determining liability to tax on Australian sourced income, it is necessary to
 Section 4 of the Agreements Act incorporates that Act with the Income Tax Assessment Act 1936 (ITAA 1936) and ITAA 1997 so that those Acts are read as one.
 Schedule 42 to the Agreements Act contains the double tax agreement between Australia and the Government of the Republic of South Africa (the SA Agreement). The SA Agreement operates to avoid the double taxation of income received by Australian and SA residents.
 Article 4 of the SA Agreement provides the rules where an individual is a resident of Australia and South Africa for tax purposes (the 'tie breaker tests'). The tiebreaker tests ensure that the individual is only treated as a resident of one country for the purposes of applying the SA Agreement.
-Article 4(2) of the SA Agreement states that where an individual is a resident of Australia and South Africa, then their residency status shall be determined in accordance with the following rules:
-
-(a) they shall be deemed to be a resident solely of the country in which they have a permanent home available to them, or
-(b) if they have a permanent home available to them in both Australia and SA, they shall be deemed to be a resident solely of the country of which their personal or economic relations are the closer.
-
-The taxpayer has a permanent home available to them in both Australia and SA. The taxpayer derives income from both Australia and SA. The taxpayer also has family in Australia and in SA. The taxpayer has spent most of their life living in SA. The taxpayer does not intend to reside in Australia permanently and will still be spending part of each year in SA with their family there. As such, the taxpayer is considered to be a resident of SA for the purposes of the 'tie breaker' test.
+Article 4(2) of the SA Agreement states that where an individual is a resident of Australia and South Africa, then their residency status shall be determined in accordance with the following rules: (a) they shall be deemed to be a resident solely of the country in which they have a permanent home available to them, or
+(b) if they have a permanent home available to them in both Australia and SA, they shall be deemed to be a resident solely of the country of which their personal or economic relations are the closer. The taxpayer has a permanent home available to them in both Australia and SA. The taxpayer derives income from both Australia and SA. The taxpayer also has family in Australia and in SA. The taxpayer has spent most of their life living in SA. The taxpayer does not intend to reside in Australia permanently and will still be spending part of each year in SA with their family there. As such, the taxpayer is considered to be a resident of SA for the purposes of the 'tie breaker' test.
 Paragraph 66 of Taxation Ruling TR 98/17 states that where the tie breaker tests are used in determining the residence of an individual to a treaty partner country, the terms of the relevant double tax agreement should be referred to in determining the tax liability. TR 98/17 also states that where the tie breaker tests are used in determining the residence of an individual to a treaty partner country, the Australian resident status is not lost for the operation of the ITAA 1997 and the individual continues to be eligible, for example, for the tax-free threshold in respect of the Australian sourced income.
 This means that even though the taxpayer is a resident of SA under the tie breaker tests, their Australian resident status is not lost for the operation of the ITAA 1997.
-Article 10(1) of the SA Agreement provides that dividends paid by an Australian company to which a resident of SA is beneficially entitled may be taxed in SA. Article 10(2) of the SA Agreement provides that those dividends may also be subject to tax in Australia, however:
-
-(a) no tax shall be charged on dividends where those dividends are paid out of profits that have borne the normal rate of Australian company tax and where those dividends are paid to a company which holds directly at least 10% of the capital of the company paying the dividends, and
-(b) tax charged shall not exceed 15% of the gross amount of the dividends in all other cases.
-
-As the taxpayer is a South African resident individual in receipt of dividends from an Australian company, the dividends may be taxed in Australia and SA. However, the tax payable in Australia is limited to a maximum of 15% of the gross amount of the dividends.
+Article 10(1) of the SA Agreement provides that dividends paid by an Australian company to which a resident of SA is beneficially entitled may be taxed in SA. Article 10(2) of the SA Agreement provides that those dividends may also be subject to tax in Australia, however: (a) no tax shall be charged on dividends where those dividends are paid out of profits that have borne the normal rate of Australian company tax and where those dividends are paid to a company which holds directly at least 10% of the capital of the company paying the dividends, and
+(b) tax charged shall not exceed 15% of the gross amount of the dividends in all other cases. As the taxpayer is a South African resident individual in receipt of dividends from an Australian company, the dividends may be taxed in Australia and SA. However, the tax payable in Australia is limited to a maximum of 15% of the gross amount of the dividends.
 As the taxpayer is considered an Australian resident for the purposes of Australian domestic tax law, the dividends that they receive will also be assessable under subsection 6-10(4) of the ITAA 1997.
 Note: Article 23(3) of the SA Agreement provides that to avoid double taxation of residents of SA, SA shall allow as a deduction from South African tax due according to South African fiscal law, Australian tax paid in accordance with the SA Agreement. Broadly, the amount of this deduction shall be the lesser of the Australian tax payable and the South African tax payable.
-Date of decision:
-  29 January 2004
-
-Year of income:
-  Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 6-10(4)
-International Tax Agreements Act 1953   section 4   Schedule 42   Schedule 42, Article 4   Schedule 42, Article 4(2)   Schedule 42, Article 10(1)   Schedule 42, Article 10(2)   Schedule 42, Article 23(3)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/17
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/308
-
-Keywords
-
-Dividend income
- Double tax agreements
- Dual residence
- Frankable dividends
- International tax
- South Africa
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 April 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-29 January 2004
-Original statement
-
-You are here
+Date of decision: 29 January 2004 Year of income: Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 subsection 6-10(4)
+International Tax Agreements Act 1953 section 4 Schedule 42 Schedule 42, Article 4 Schedule 42, Article 4(2) Schedule 42, Article 10(1) Schedule 42, Article 10(2) Schedule 42, Article 23(3) Related Public Rulings (including Determinations) Taxation Ruling TR 98/17 Related ATO Interpretative Decisions ATO ID 2004/308 Keywords Dividend income Double tax agreements Dual residence Frankable dividends International tax South Africa Business Line: Public Groups and International Date of publication: 2 April 2004 ISSN: 1445-2782 history Date: Version: 29 January 2004
+Original statement You are here
 10 December 2010
 Archived

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/830
-==================================================
-
-Superannuation
- Superannuation Contributions Surcharge - apportioning the surcharge liability of a deceased member of a Constitutionally Protected Fund to the member's beneficiaries
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Superannuation Contributions Surcharge - apportioning the surcharge liability of a deceased member of a Constitutionally Protected Fund to the member's beneficiaries FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the surcharge debt be apportioned by the trustee of the super fund amongst two or more beneficiaries of a deceased member?
 Decision
 No, a surcharge debt can not be apportioned by the trustee of the super fund amongst two or more beneficiaries of a deceased member. Any surcharge liability payable would be assessed to the deceased member's estate. The trustee/executor of the estate would then distribute the remaining superannuation proceeds in accordance with the deceased's will.
@@ -24,33 +13,4 @@ Section 11 of the Superannuation Contributions Tax (Members of Constitutionally 
 The Commissioner will assess a member for any surcharge liability for all financial years prior to the financial year in which the member dies. The assessed liability will be a debt of the member and the Commissioner will seek to recover from the member or the member's estate where the member has died without paying the surcharge liability.
 The cap would also apply. If a member dies 'in office', the fund would report in line with subsection 15(6) of the SCT(CPF)A&C Act. The Commissioner would take this into account when calculating the amount required to be paid. The notice under subsection 15(7) of the SCT(CPF)A&C Act would be sent to the trustee/executor of the estate of the member.
 There will be no liability on a surviving beneficiary (or beneficiaries) as there is no provision in the law to shift the surcharge liability to a beneficiary. However, there may be issues if the member's estate is distributed without taking account of the surcharge liability - in cases such as this, the Commissioner may have a claim against the trustee/executor of the deceased estate.
-Date of decision:
-  8 September 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Superannuation Contribution Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997   Section 11   Subsection 15(6)   Subsection 15(7)
-
-Keywords
-
-Constitutionally protected superannuation funds
- Superannuation contributions surcharge
- Superannuation contributions tax
-
-Siebel/TDMS Reference Number:
-  3615913; 1-5FOYBFL; 1-FZRSRJG
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  12 September 2003
-
-Date reviewed:
-  7 August 2018
-
-ISSN:
- 1445-2782
+Date of decision: 8 September 2003 Year of income: Year ended 30 June 2003 Legislative References: Superannuation Contribution Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997 Section 11 Subsection 15(6) Subsection 15(7) Keywords Constitutionally protected superannuation funds Superannuation contributions surcharge Superannuation contributions tax Siebel/TDMS Reference Number: 3615913; 1-5FOYBFL; 1-FZRSRJG Business Line: Superannuation Date of publication: 12 September 2003 Date reviewed: 7 August 2018 ISSN: 1445-2782

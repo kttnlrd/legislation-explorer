@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2005/177
-==================================================
-
-Income tax
- Capital gains tax and foreign residents - meaning of 'happening to' an asset in Subdivision 768-H
- FOI status: may be released
-
-This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply from 12 December 2006. Despite its withdrawal from the database, this ATO Interpretative Decision continues to be a precedential view in respect of decisions for CGT events that happen before 12 December 2006.
-See ATO Interpretative Decision 2010/102 which reflects the same view in respect of the replacement or rewritten provision for decisions on or after 12 December 2006.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital gains tax and foreign residents - meaning of 'happening to' an asset in Subdivision 768-H FOI status: may be released This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply from 12 December 2006. Despite its withdrawal from the database, this ATO Interpretative Decision continues to be a precedential view in respect of decisions for CGT events that happen before 12 December 2006.
+See ATO Interpretative Decision 2010/102 which reflects the same view in respect of the replacement or rewritten provision for decisions on or after 12 December 2006. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is CGT event I2 in section 104-170 of Income Tax Assessment Act 1997 (ITAA 1997) 'a CGT event happening to a CGT asset' for the purposes of paragraph 768-605(2)(b) of the ITAA 1997?
 Decision
 Yes. CGT event I2 in section 104-170 of ITAA 1997 is 'a CGT event happening to a CGT asset' for the purposes of paragraph 768-605(2)(b) of ITAA 1997.
@@ -26,61 +11,10 @@ The taxpayer, a foreign resident funds manager owns 100% of the units of Austral
 Australian Trust will cease to be a resident trust for CGT purposes.
 The change of residency of Australian Trust will trigger CGT Event I2 under section 104-170 of ITAA 1997.
 Reasons for Decision
-Subsection 768-605(2) of ITAA 1997 disregards a capital gain made by a foreign resident in respect of that person's interest in a fixed trust if the capital gain relates to an asset that does not have a necessary connection with Australia. One of the eligibility tests for the exemption is contained in paragraph 768-605(2)(b) of ITAA 1997 which provides that:
-
-the gain is attributable to a *CGT event happening to a *CGT asset of that trust or of another fixed trust in which that trust has an interest (directly, or indirectly through a *chain of fixed trusts)
-
-* Denotes a term defined in section 995-1 of ITAA 1997
-
-To satisfy that eligibility test in respect of the facts in this case, CGT event I2 must give rise to a gain that is attributable to 'a CGT event
- happening to
- a CGT asset' of Australian Trust (emphasis added).
+Subsection 768-605(2) of ITAA 1997 disregards a capital gain made by a foreign resident in respect of that person's interest in a fixed trust if the capital gain relates to an asset that does not have a necessary connection with Australia. One of the eligibility tests for the exemption is contained in paragraph 768-605(2)(b) of ITAA 1997 which provides that: the gain is attributable to a *CGT event happening to a *CGT asset of that trust or of another fixed trust in which that trust has an interest (directly, or indirectly through a *chain of fixed trusts) * Denotes a term defined in section 995-1 of ITAA 1997 To satisfy that eligibility test in respect of the facts in this case, CGT event I2 must give rise to a gain that is attributable to 'a CGT event happening to a CGT asset' of Australian Trust (emphasis added).
 While CGT event I2 happens where Australian Trust stops being a resident for CGT purposes (subsection 104-170(1) of ITAA 1997), a CGT event I2 capital gain or loss is made only to extent that the trust owns CGT assets (subsection 104--170(3) of ITAA 1997). Subsection 104-170(3) requires the trustee to work out the capital gain or loss for each CGT asset owned. This means that a capital gain made as a result of CGT event I2 relates to a CGT asset.
 It follows that a capital gain made as a result of CGT event I2 is a gain that is attributable to "a *CGT event happening to a *CGT asset" for the purposes of paragraph 768-605(2)(b) of ITAA 1997.
-Date of decision:
-  30 May 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-170   subsection 104-170(1)   subsection 104-170(3)   Subdivision 768-H   section 768-605   subsection 768-605(2)   paragraph 768-605(2)(b)   section 995-1
-
-Keywords
-
-CGT asset with the necessary connection with Australia
- CGT events I1-I2 - Australian residency ends
- CGT exemptions
- Entity changes
- Foreign income
- International tax
- Ownership, interests, control & rights
- Relevant CGT asset
- Trust restructuring
- Unit trust restructuring
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 June 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-30 May 2005
-Original statement
-
-You are here
+Date of decision: 30 May 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 section 104-170 subsection 104-170(1) subsection 104-170(3) Subdivision 768-H section 768-605 subsection 768-605(2) paragraph 768-605(2)(b) section 995-1 Keywords CGT asset with the necessary connection with Australia CGT events I1-I2 - Australian residency ends CGT exemptions Entity changes Foreign income International tax Ownership, interests, control & rights Relevant CGT asset Trust restructuring Unit trust restructuring Business Line: Public Groups and International Date of publication: 24 June 2005 ISSN: 1445-2782 history Date: Version: 30 May 2005
+Original statement You are here
 30 April 2010
 Archived

@@ -1,31 +1,16 @@
 ATO Interpretative Decision
 ATO ID 2003/289
-==================================================
-
-Income Tax
- Foreign Investment Funds - Reduction of disposal consideration where amounts were previously attributed
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign Investment Funds - Reduction of disposal consideration where amounts were previously attributed FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 613 of the Income Tax Assessment Act 1936 (ITAA 1936) operate to reduce amounts that would otherwise be included in the assessable income of the taxpayer in respect of its share of the realised profits derived by unit trusts from the sale or redemption of the investments in non-exempt Foreign Investment Funds (FIFs) by amounts previously attributed from those FIFs, which have not been distributed.
 Decision
 Yes. Section 613 of the ITAA 1936 will operate to reduce those amounts.
 Facts
 The taxpayer is a company incorporated in Australia and is a unit holder in Australian resident fixed unit trusts.
-These unit trusts are not:
-
-•corporate unit trusts within the meaning of Division 6B of the ITAA 1936;
+These unit trusts are not: •corporate unit trusts within the meaning of Division 6B of the ITAA 1936;
 •public trading trusts within the meaning of Division 6C of the ITAA 1936;
 •eligible entities within the meaning of Part IX of the ITAA 1936; or
-•resident public unit trusts within the meaning of subsection 96A(4) of the ITAA 1936.
-
-The unit trusts invest in international property trusts and property stocks listed on foreign stock exchanges and in private equity real estate funds, which in turn invest in a diversified portfolio of real estate assets and real estate operating companies.
+•resident public unit trusts within the meaning of subsection 96A(4) of the ITAA 1936. The unit trusts invest in international property trusts and property stocks listed on foreign stock exchanges and in private equity real estate funds, which in turn invest in a diversified portfolio of real estate assets and real estate operating companies.
 A number of the investments held by the unit trusts are non-exempt FIF interests for the purposes of Part XI of the ITAA 1936. The unit trusts will sell or redeem their investments in the non-exempt FIFs either as a result of turning over their investment portfolio or as a result of the ultimate winding up of the unit trusts.
 The unit trusts will realise profits when they sell or redeem their investments in the non-exempt FIFs. The FIF income from these investments is calculated using the market value method or the deemed rate of return method.
 The taxpayer is assessable on its share of the net income of the unit trusts under section 97 of the ITAA 1936 (including its share of gains realised from the sale or redemption of investments in FIFs by the unit trusts).
@@ -36,29 +21,4 @@ To avoid double taxation, section 613 of the ITAA 1936 operates to deem the cons
 When the unit trusts sell or redeem their interests in the non-exempt FIFs for a profit or gain section 613 of the ITAA 1936 will operate to reduce the sale or redemption proceeds.
 The taxpayer's share of the profit or gain realised from the sale or redemption of investments in non-exempt FIFs by the unit trusts will be reduced under section 613 of the ITAA 1936.
 Note: The FIF attribution account balance will be reduced by the amount of the FIF attribution surplus that was taken into account in reducing the consideration or capital proceeds (subsection 605(8) of the ITAA 1936).
-Date of decision:
-  27 November 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 96A(4)   section 97   subsection 605(1)   subsection 605(8)   section 613   Division 6B   Division 6C   Part IX   Part XI
-
-Keywords
-
-Foreign investment funds
- Disposal of interest in a FIF
-
-Siebel/TDMS Reference Number:
-  3216233
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  16 May 2003
-
-ISSN:
- 1445-2782
+Date of decision: 27 November 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 96A(4) section 97 subsection 605(1) subsection 605(8) section 613 Division 6B Division 6C Part IX Part XI Keywords Foreign investment funds Disposal of interest in a FIF Siebel/TDMS Reference Number: 3216233 Business Line: Public Groups and International Date of publication: 16 May 2003 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/98
-==================================================
-
-Excise
- Determining compressed natural gas that is exempt from excise duty
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Excise Determining compressed natural gas that is exempt from excise duty FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purposes of section 77HA of the Excise Act 1901 is a licensed manufacturer able to determine whether a particular quantity of compressed natural gas (CNG) is exempt from excise duty at the time the CNG is delivered into home consumption?
 Decision
 Yes. For the purposes of section 77HA of the Excise Act, a licensed manufacturer may determine whether a particular quantity of CNG is exempt from excise duty at the time CNG is delivered into home consumption.
@@ -33,27 +22,5 @@ Since the manufacturer is unable to establish that a particular quantity of CNG 
 Paragraph 10(j) and subitem 10.19C of the Schedule to the Excise Tariff Act excludes goods covered by section 77HA of the Excise Act. Section 77HA of the Excise Act uses the words 'exempt from duty' rather than simply removing certain CNG from the ambit of subitem 10.19C of the Schedule to the Excise Tariff Act. The actual rate of duty payable on excisable goods is not determined at the point of manufacture or production but rather in accordance with section 59 of the Excise Act. Section 59 of the Excise Act specifies that the rate of duty payable on excisable goods is the rate in force when the goods are delivered under subsection 61C(2) of the Excise Act or when payment is made whichever is earlier. Section 77HA of the Excise Act can therefore provide that certain CNG is exempt from duty when determining the rate applicable at the relevant point in time.
 In summary, section 77HA of the Excise Act serves two roles. Firstly, it excludes CNG from paragraph 10(j) and subitem 10.19C of the Schedule to the Excise Tariff Act (and therefore from being excisable in the first place) where the manufacturer is able to ascertain at the time of compression that the CNG is intended for non-transport use (or meets any of the other requirements for exemption under section 77HA of the Excise Act). Secondly, it provides for exemption from duty where, at the time of delivery of CNG into home consumption, it can be ascertained that a particular quantity of CNG is exempt from duty.
 Therefore, even though at the time of compression section 77HA of the Excise Act may not serve to exclude certain CNG from item 10 of the Schedule to the Excise Tariff Act, the manufacturer is able to determine, at the time of delivery into home consumption, whether particular quantities of CNG are exempt from duty under section 77HA of the Excise Act.
-Date of decision:
-  1 December 2011
-
-Legislative References:
-
-Excise Act 1901   section 59   subsection 61C(2)   section 77HA   paragraph 77HA(a)   section 77HB
-Excise Tariff Act 1921   section 5   item 10 of the Schedule   subitem 10.19C of the Schedule   paragraph 10(j) of the Schedule
-
-Keywords
-
-Excise
- Excisable goods manufacture
-
-Siebel/TDMS Reference Number:
-  1-3L5DPFU
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  2 December 2011
-
-ISSN:
- :
+Date of decision: 1 December 2011 Legislative References: Excise Act 1901 section 59 subsection 61C(2) section 77HA paragraph 77HA(a) section 77HB
+Excise Tariff Act 1921 section 5 item 10 of the Schedule subitem 10.19C of the Schedule paragraph 10(j) of the Schedule Keywords Excise Excisable goods manufacture Siebel/TDMS Reference Number: 1-3L5DPFU Business Line: Indirect Tax Date of publication: 2 December 2011 ISSN: :

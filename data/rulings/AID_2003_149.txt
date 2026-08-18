@@ -1,87 +1,27 @@
 ATO Interpretative Decision
 ATO ID 2003/149
-==================================================
-
-Uniform capital allowances
- Capital Allowances: second application of 'reasonable to expect' test to hold a depreciating asset
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Uniform capital allowances Capital Allowances: second application of 'reasonable to expect' test to hold a depreciating asset FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the 'reasonable to expect' test contained in Item 6 of the hold table in section 40-40 of the Income Tax Assessment Act 1997 (ITAA 1997) satisfied by the particular call option the sublessee holds under their sublease if the lessee was treated as the holder of the asset under an earlier application of the test?
 Decision
 Yes. The 'reasonable to expect' test contained in Item 6 of the hold table in section 40-40 of the ITAA 1997 is satisfied by the particular call option held by the sublessee under their sublease because of the nature of the call option and the weighting of factors influencing the sublessee to exercise the option.
 Facts
 The taxpayer (the sublessee) purchased a depreciating asset which they immediately sold to an unrelated entity (the lessor). The lessor immediately leased the asset to an entity (the lessee) associated with the taxpayer and the lessee immediately subleased the asset to the taxpayer.
-Other relevant features of the arrangement are:
-
-•the taxpayer maintains possession of the asset at all times;
+Other relevant features of the arrangement are: •the taxpayer maintains possession of the asset at all times;
 •the asset is a chattel;
 •the lessee holds a call option over the asset which is exercisable at the end of the lease and the taxpayer has a right to exercise that option for the lessee;
 •it is reasonable to expect that the lessee's call option to purchase the asset will be exercised because either the lessee will exercise the option or the taxpayer will exercise it for the lessee;
 •the taxpayer holds a call option over the asset which is exercisable at the end of the sublease;
 •the asset is specifically adapted to the special requirements of the taxpayer;
 •the asset is likely to have a market value at the option time significantly in excess of the call option price; and
-•the taxpayer has a history of entering into similar arrangements for similar assets where the taxpayer has almost always exercised their call option to purchase the leased asset.
-
-Reason for Decision
+•the taxpayer has a history of entering into similar arrangements for similar assets where the taxpayer has almost always exercised their call option to purchase the leased asset. Reason for Decision
 Division 40 of the ITAA 1997 provides a deduction for the decline in value of a depreciating asset a taxpayer holds to the extent the asset is used for a taxable purpose (section 40-25 of the ITAA 1997). The table in section 40-40 of the ITAA 1997 identifies the holder of a depreciating asset in any particular circumstance. The basic (or default) rule is that the taxpayer holds when they are the owner of the asset (Item 10 of the table in section 40-40 of (ITAA 1997). However, there are items that identify a holder in various other circumstances even though they are not the asset's owner.
-One of these circumstances is contained in Item 6 of the table in section 40-40 of ITAA 1997 and applies where:
-
-•a taxpayer has possession, or an immediate right to possession, of the asset combined with a right, the exercise of which would make them the holder (e.g. an option to acquire); and
-•it is 'reasonable to expect' that the taxpayer will become the holder by exercising that right or that the asset will be disposed of at their direction and for their benefit.
-
-On the first application of Item 6 of the hold table in section 40-40 of the ITAA 1997, the lessee (and not the lessor) is the holder of the asset because:
-
-•the lessee has an immediate right to possess the asset;
+One of these circumstances is contained in Item 6 of the table in section 40-40 of ITAA 1997 and applies where: •a taxpayer has possession, or an immediate right to possession, of the asset combined with a right, the exercise of which would make them the holder (e.g. an option to acquire); and
+•it is 'reasonable to expect' that the taxpayer will become the holder by exercising that right or that the asset will be disposed of at their direction and for their benefit. On the first application of Item 6 of the hold table in section 40-40 of the ITAA 1997, the lessee (and not the lessor) is the holder of the asset because: •the lessee has an immediate right to possess the asset;
 •the lessee has a right, the exercise of which would make them the holder under Item 10 of the hold table; and
-•it is reasonable to expect the lessee will become the holder (for an instant in time) by the exercise of their purchase option.
-
-On a second application of Item 6 of the hold table, the taxpayer (and not the lessee) is the holder of the asset because:
-
-•the taxpayer has an immediate right to possess the asset;
+•it is reasonable to expect the lessee will become the holder (for an instant in time) by the exercise of their purchase option. On a second application of Item 6 of the hold table, the taxpayer (and not the lessee) is the holder of the asset because: •the taxpayer has an immediate right to possess the asset;
 •the taxpayer has a right, the exercise of which would make them the holder under Item 10 of the hold table; and
-•it is reasonable to expect the taxpayer will become the holder by exercising their purchase option.
-
-The reasonable to expect test is satisfied in the particular circumstances of the second application of the test because:
-
-•an independent assessment suggests that the asset is likely to have a market value at the option time significantly in excess of the call option price, particularly because of the favourable price at which the asset was first acquired;
+•it is reasonable to expect the taxpayer will become the holder by exercising their purchase option. The reasonable to expect test is satisfied in the particular circumstances of the second application of the test because: •an independent assessment suggests that the asset is likely to have a market value at the option time significantly in excess of the call option price, particularly because of the favourable price at which the asset was first acquired;
 •the taxpayer has a history of entering into similar lease arrangements for similar assets where the taxpayer has almost always exercised their call option to purchase the leased asset because of the taxpayer's operational requirements;
 •the taxpayer's operational requirements have been consistent over a considerable period of time and there is nothing to suggest this pattern will change; and
-•the second sequential application of Item 6 of the hold table in section 40-40 of the ITAA 1997 will ultimately treat the taxpayer, and not the lessee, as the holder.
-
-Date of decision:
-  11 December 2002
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 40-25   Item 6 of the table in section 40-40   Item 10 of the table tin section 40-40
-
-Keywords
-
-Capital Allowances CoE
- Economic holder
- Hold a depreciating asset
- Lease financing
- Reasonable to expect
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  3410437
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  21 March 2003
-
-ISSN:
- 1445-2782
+•the second sequential application of Item 6 of the hold table in section 40-40 of the ITAA 1997 will ultimately treat the taxpayer, and not the lessee, as the holder. Date of decision: 11 December 2002 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Section 40-25 Item 6 of the table in section 40-40 Item 10 of the table tin section 40-40 Keywords Capital Allowances CoE Economic holder Hold a depreciating asset Lease financing Reasonable to expect Uniform capital allowances system Siebel/TDMS Reference Number: 3410437 Business Line: Public Groups and International Date of publication: 21 March 2003 ISSN: 1445-2782

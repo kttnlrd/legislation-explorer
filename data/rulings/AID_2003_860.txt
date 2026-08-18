@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/860
-==================================================
-
-Income Tax
- Assessability of a lump sum withdrawal payment received by resident from a Japanese superannuation fund
- FOI status: may be released
-
-This ATO ID is withdrawn from 1 July 2007 as the position stated in the ATO ID is not current due to the superannuation law changes
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of a lump sum withdrawal payment received by resident from a Japanese superannuation fund FOI status: may be released This ATO ID is withdrawn from 1 July 2007 as the position stated in the ATO ID is not current due to the superannuation law changes This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a lump sum withdrawal payment from a Japanese superannuation fund paid to a taxpayer, who is a resident of Australia for income tax purposes, included in assessable income under subsection 6-10(4) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The lump sum withdrawal payment from a Japanese superannuation fund received by the taxpayer is not included in assessable income under subsection 6-10(4) of the ITAA 1997 as section 27CD of the Income Tax Assessment Act 1936 (ITAA 1936) provides that the taxpayer's assessable income does not include the amount.
@@ -34,14 +19,10 @@ Section 10-5 of the ITAA 1997 lists those provisions about assessable income. In
 Section 27CD of the ITAA 1936 provides that if an exempt non-resident foreign termination payment is made in relation to a taxpayer, the taxpayer's assessable income does not include that payment. Such payments are excluded under paragraph (ka) of the definition of 'eligible termination payment' in subsection 27A(1) of the ITAA 1936 and therefore are not statutory income.
 The meaning of an 'exempt non-resident foreign termination payment' is defined in subsection 27A(1) of the ITAA 1936 which covers two types of payments.
 The first type of payment under paragraph (a) of the definition does not apply as the payment was made because the taxpayer left Japan and not in consequence of the termination of the taxpayer's employment.
-The second type of payment under paragraph (b) of the definition contains four conditions that must be satisfied for a payment to be an 'exempt non-resident foreign termination payment':
-
-(i)the payment is made from an eligible non-resident non-complying superannuation fund within 6 months after the taxpayer became a resident of Australia;
+The second type of payment under paragraph (b) of the definition contains four conditions that must be satisfied for a payment to be an 'exempt non-resident foreign termination payment': (i)the payment is made from an eligible non-resident non-complying superannuation fund within 6 months after the taxpayer became a resident of Australia;
 (ii)had the fund been a superannuation fund, the payment would, apart from paragraphs (ka) and (ma) of the definition of "eligible termination payment" in subsection 27A(1), have been an eligible termination payment;
 (iii)the period to which the payment relates does not include any period other than a period in which the taxpayer was a non-resident or a period between the time when the taxpayer became a resident and the time when the taxpayer received the payment;
-(iv)the benefit does not exceed the amount that was properly payable out of the fund to the taxpayer at the time when the payment was made;
-
-The first condition is satisfied as the fund is an eligible non-resident non-complying superannuation fund and the taxpayer received the payment within 6 months of becoming a resident of Australia.
+(iv)the benefit does not exceed the amount that was properly payable out of the fund to the taxpayer at the time when the payment was made; The first condition is satisfied as the fund is an eligible non-resident non-complying superannuation fund and the taxpayer received the payment within 6 months of becoming a resident of Australia.
 As the payment is from an eligible non-resident non-complying superannuation fund it cannot be an eligible termination payment because paragraph (ma) of the definition of eligible termination payment in subsection 27A(1) of the ITAA 1936 expressly excludes it.
 However, had it not been for paragraph (ma) and had the fund been a superannuation fund as defined under subsection 27A(1) of the ITAA 1936, the payment would have been an eligible termination payment under paragraph (b) of the definition of 'eligible termination payment' in that subsection. None of the exclusions in that paragraph apply to the taxpayer. Therefore, the second condition is satisfied.
 As the period to which the payment relates only includes the period when the taxpayer was a non-resident, the third condition is satisfied.
@@ -53,51 +34,9 @@ Schedule 6 to the Agreements Act contains the double tax agreement and the proto
 The Japanese Agreement does not contain an Article dealing with payments of the kind received by the taxpayer nor does it contain an Article dealing with income not expressly mentioned in the Japanese Agreement.
 As the lump sum withdrawal payment is an exempt non-resident foreign termination payment, the payment is not included in assessable income under section 27CD of the ITAA 1936 and is excluded from the definition of an eligible termination payment in subsection 27A(1) of the ITAA 1936.
 Accordingly, the payment is not included in the taxpayer's assessable income under subsection 6-10(4) of the ITAA 1997. The payment is neither statutory income nor ordinary income.
-Date of decision:
-  4 September 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 27A   subsection 27A(1)   section 27CD
-Income Tax Assessment Act 1997   section 6-10   subsection 6-10(4)   subsection 6-15(1)
-International Tax Agreements Act   section 4   Schedule 6
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/134
-
-Keywords
-
-Foreign superannuation payments
- Foreign termination payments
- Japan
- Lump sum superannuation payments
- Non-resident superannuation funds
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  26 September 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 4 September 2003
-Original statement
-
-You are here
+Date of decision: 4 September 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 27A subsection 27A(1) section 27CD
+Income Tax Assessment Act 1997 section 6-10 subsection 6-10(4) subsection 6-15(1)
+International Tax Agreements Act section 4 Schedule 6 Related ATO Interpretative Decisions ATO ID 2002/134 Keywords Foreign superannuation payments Foreign termination payments Japan Lump sum superannuation payments Non-resident superannuation funds Business Line: Public Groups and International Date of publication: 26 September 2003 ISSN: 1445-2782 history Date: Version: 4 September 2003
+Original statement You are here
 26 October 2007
 Archived

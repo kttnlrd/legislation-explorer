@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/53
-==================================================
-
-Income Tax
- Imputation: benchmark rule and non-share equity interests
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Imputation: benchmark rule and non-share equity interests FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether a non-share equity interest for the purposes of Subdivision 974-C of the Income Tax Assessment Act 1997 (ITAA 1997) is treated as a membership interest for the purposes of Division 203 of the ITAA 1997.
 Decision
 Yes.
@@ -24,19 +13,9 @@ The instrument is not a share or stock in legal form and its holder is not entit
 Reasons for Decision
 Subdivision 709-A (including section 709-85) of the ITAA 1997 concerns how the franking accounts operate in relation to a tax consolidated group. Subsection 709-85(2) of the ITAA 1997 applies so that the imputation system in Part 3-6 of the ITAA 1997 (Divisions 200-220) operates as if a non-share distribution that is a frankable distribution made by a subsidiary member of a tax consolidated group to an entity that is not a member of the consolidated group were a frankable distribution made by the head company of the consolidated group to a member of the head company. That means the imputation and franking consequences flowing from the operation of the imputation rules will apply in respect of the distributions made by the subsidiary: refer paragraph 10.22 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002.
 A corporate tax entity (including a company) must frank all frankable distributions made within a particular franking period to the same extent. This is known as the benchmark rule: refer sections 203-5 and 203-25 of the ITAA 1997. It follows that any distributions on the instrument will be subject to the benchmark rule unless all of the criteria in subsection 203-20(1) of the ITAA 1997 are met by Head Co.
-Subsection 203-20(1) of the ITAA 1997 provides that:
-
-The *benchmark rule does not apply to a company in a *franking period if either:
-
-(a)the company satisfies each of the following criteria:
-
-(i)at all times during the franking period, the company is a *listed public company;
+Subsection 203-20(1) of the ITAA 1997 provides that: The *benchmark rule does not apply to a company in a *franking period if either: (a)the company satisfies each of the following criteria: (i)at all times during the franking period, the company is a *listed public company;
 (ii)the company cannot make a *distribution on one *membership interest during the franking period without making a distribution under the same resolution on all other membership interests;
-(iii)the company cannot *frank a distribution made on one membership interest during the franking period without franking distributions made on all other membership interests under the same resolution with a *franking credit worked out using the same *franking percentage; or
-
-(b)the entity is a *100% subsidiary of a company that satisfies the criteria set out in paragraph (a).
-
-A question arises, in determining whether the conditions in subparagraphs 203-20(1)(a)(ii) and (iii) of the ITAA 1997 are met, as to whether a non-share equity interest in a company, is treated as a 'membership interest' in that company for the purposes of section 203-20 of the ITAA 1997.
+(iii)the company cannot *frank a distribution made on one membership interest during the franking period without franking distributions made on all other membership interests under the same resolution with a *franking credit worked out using the same *franking percentage; or (b)the entity is a *100% subsidiary of a company that satisfies the criteria set out in paragraph (a). A question arises, in determining whether the conditions in subparagraphs 203-20(1)(a)(ii) and (iii) of the ITAA 1997 are met, as to whether a non-share equity interest in a company, is treated as a 'membership interest' in that company for the purposes of section 203-20 of the ITAA 1997.
 The term 'membership interest' in an entity is defined in subsection 995-1(1) of the ITAA 1997 to have the meaning given by section 960-135 of the ITAA 1997. Section 960-135 of the ITAA 1997 provides that if you are a member of an entity, (a) each interest, or set of interests, in the entity; or (b) each right, or set of rights, in relation to the entity, by virtue of which you are a member of the entity, is a membership interest of yours in the entity.
 The term 'member' in relation to an entity is defined in subsection 995-1(1) of the ITAA 1997 to have the meaning given by section 960-130 of the ITAA 1997. Item 1 of the table in section 960-130 of the ITAA 1997 provides that a member of a company is a member or stockholder of the company.
 On the facts of this case, X Co, the holder of the instrument that gives rise to the non-share equity interest in Sub Co, is not a member of Sub Co pursuant to section 960-130 of the ITAA 1997. As such, the non-share equity interest does not constitute a membership interest in Sub Co. However, it is considered that the non-share equity interest held by X Co is treated as a membership interest in Head Co for the purposes of Part 3-6 of the ITAA 1997 by virtue of subsection 709-85(2) of the ITAA 1997.
@@ -46,54 +25,4 @@ Section 215-1 was inserted into the ITAA 1997 by Act No. 48 of 2002. The provisi
 Furthermore, the non-share equity interest in Sub Co is treated as a non-share equity interest in Head Co for the purposes of Subdivision 974-C of the ITAA 1997: refer to the single entity rule in section 701-1 of the ITAA 1997 and Taxation Ruling TR 2004/11. The debt/equity rules in Division 974 of the ITAA 1997 determine whether the return on an interest in an entity may be frankable or deductible. The definition of equity interests and related concepts of equity holders and non-share dividends are generally used in all the provisions of the income tax law dealing with the taxation of returns on financing instruments, including the imputation provisions although an interest that is an equity interest under Division 974 of the ITAA 1997 may not necessarily be a membership interest for consolidation purposes. Refer paragraph 3.3 of the Explanatory Memorandum to the New Business Tax System (Debt and Equity) Bill 2001; and paragraph 3.70 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002.
 Having regard to the foregoing, it is considered that non-share equity interests in a company are subject to the benchmark rule in section 203-25 of the ITAA 1997 and are relevant in determining whether the conditions in subparagraphs 203-20(1)(a)(ii) and (iii) of the ITAA 1997 are met.
 Accordingly, the non-share equity interest held by X Co is treated as a membership interest in Head Co for the purposes of Division 203 of the ITAA 1997.
-Date of decision:
-  11 December 2009
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 203-5   section 203-20   subsection 203-20(1)   section 203-25   section 215-1   Subdivision 215-A   Part 3-6   section 701-1   section 709-85   subsection 709-85(1)   subsection 709-85(2)   Subdivision 709-A   section 960-130   section 960-135   section 974-75   subsection 974-75(1)   subsection 974-75(2)   Subdivision 974-C   Division 974   subsection 995-1(1)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2004/11
-
-Other References:
-
- ATO Practice Statement Law Administration PS LA 2001/8
- Explanatory Memorandum to the New Business Tax System (Debt and Equity) Bill 2001
- Explanatory Memorandum to the New Business Tax System (Imputation) Bill 2002
- Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002
-
-Keywords
-
-Consolidation
- Consolidation - franking
- Debt equity borderline
- Distributions
- Equity test
- Head company
- Imputation system
- Member of an entity
- Membership interest in an entity
- Non-equity share
- Non-share equity interest
- Shares
- Single entity rule
-
-Siebel/TDMS Reference Number:
-  1-1TSHUIY; 1-5T1Y6IX; 1-D5HW96L
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  5 March 2010
-
-Date reviewed:
-  27 February 2018
-
-ISSN:
- 1445-2782
+Date of decision: 11 December 2009 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 section 203-5 section 203-20 subsection 203-20(1) section 203-25 section 215-1 Subdivision 215-A Part 3-6 section 701-1 section 709-85 subsection 709-85(1) subsection 709-85(2) Subdivision 709-A section 960-130 section 960-135 section 974-75 subsection 974-75(1) subsection 974-75(2) Subdivision 974-C Division 974 subsection 995-1(1) Related Public Rulings (including Determinations) Taxation Ruling TR 2004/11 Other References: ATO Practice Statement Law Administration PS LA 2001/8 Explanatory Memorandum to the New Business Tax System (Debt and Equity) Bill 2001 Explanatory Memorandum to the New Business Tax System (Imputation) Bill 2002 Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002 Keywords Consolidation Consolidation - franking Debt equity borderline Distributions Equity test Head company Imputation system Member of an entity Membership interest in an entity Non-equity share Non-share equity interest Shares Single entity rule Siebel/TDMS Reference Number: 1-1TSHUIY; 1-5T1Y6IX; 1-D5HW96L Business Line: Private Groups and High Wealth Individuals Date of publication: 5 March 2010 Date reviewed: 27 February 2018 ISSN: 1445-2782

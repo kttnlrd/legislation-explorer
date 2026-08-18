@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/845
-==================================================
-
-Income tax
- Tax benefits from unused company tax losses
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Tax benefits from unused company tax losses FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will section 175-10 of the Income Tax Assessment Act 1997 (ITAA 1997) apply to deny a deduction to a company for losses carried forward against distributions of income received from a discretionary trust that is controlled by the shareholders (individuals) of the company?
 Decision
 No. Pursuant to subsection 175-10(2) of the ITAA 1997, it is considered to be fair and reasonable for the Commissioner to allow a deduction to the company for losses carried forward against distributions of income from a trust which is controlled by the shareholders (individuals) of the company.
@@ -29,36 +18,4 @@ Subsection 175-10(1) of the ITAA 1997 provides that the Commissioner may disallo
 The company has prior year losses and will claim deductions to the extent of these losses against distributions of income from a related trust.
 However, under subsection 175-10(2) of the ITAA 1997 the Commissioner cannot disallow a deduction for a prior year tax loss if the continuing shareholders will benefit from the derivation of the injected amount to an extent which the Commissioner considers is fair and reasonable. In determining this, the Commissioner must have regard to the continuing shareholders respective rights and interests in the company.
 There is to be no change in either the shareholders themselves or their 100 per cent continuous holding of shares in the company. The benefit from this injection of income will flow only to persons who were shareholders during the years in which the losses were incurred by the company (i.e., the continuing shareholders). This continuous shareholding is to remain unchanged for the period in which deductions for losses will be claimed.
-The Commissioner has determined that it is fair and reasonable to accept that the continuing shareholders will benefit from the injection of funds in proportion to their respective rights and interests in the company. Therefore subsection 175-10(1) of the ITAA 1997 cannot apply to enable the Commissioner to disallow a claim by the company for prior year tax losses.
-
-(Note : Subdivision 175-A sets out two cases where the Commissioner may disallow a tax loss. This ATO ID deals only with section 175-10. Section 175-15 of the ITAA 1997 must also be considered. See the related ATO ID on the operation of section 175-15 of the ITAA 1997.)
-
-Date of decision:
-  27 May 2002
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 175A   section 175-10   subsection 175-10(1)   subsection 175-10(2)   section 175-15
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/836
-
-Keywords
-
-Carry forward losses
-
-Siebel/TDMS Reference Number:
-  DW451247
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 August 2002
-
-ISSN:
- 1445-2782
+The Commissioner has determined that it is fair and reasonable to accept that the continuing shareholders will benefit from the injection of funds in proportion to their respective rights and interests in the company. Therefore subsection 175-10(1) of the ITAA 1997 cannot apply to enable the Commissioner to disallow a claim by the company for prior year tax losses. (Note : Subdivision 175-A sets out two cases where the Commissioner may disallow a tax loss. This ATO ID deals only with section 175-10. Section 175-15 of the ITAA 1997 must also be considered. See the related ATO ID on the operation of section 175-15 of the ITAA 1997.) Date of decision: 27 May 2002 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Subdivision 175A section 175-10 subsection 175-10(1) subsection 175-10(2) section 175-15 Related ATO Interpretative Decisions ATO ID 2002/836 Keywords Carry forward losses Siebel/TDMS Reference Number: DW451247 Business Line: Public Groups and International Date of publication: 23 August 2002 ISSN: 1445-2782

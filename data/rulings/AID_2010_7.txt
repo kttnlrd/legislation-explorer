@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/7
-==================================================
-
-Income Tax
- Self managed superannuation funds: tax treatment of futures contracts
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Self managed superannuation funds: tax treatment of futures contracts FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a self managed superannuation fund (SMSF) buys and sells ASX Mini Index Futures Contracts, are the gains and losses determined under the Capital Gains Tax (CGT) provisions?
 Decision
 Yes. Where an SMSF buys and sells ASX Mini Index Futures Contracts, the gains and losses are determined under the CGT provisions.
@@ -25,20 +14,12 @@ On closing out or expiry of the contract, a cash settlement amount is calculated
 Reasons for Decision
 The provisions relating to the taxation of complying superannuation funds (including SMSFs) are contained in Division 295 of the Income Tax Assessment Act 1997 (ITAA 1997).
 Section 295-85 of the ITAA 1997 makes the CGT rules the primary code for determining the tax treatment of the gains or losses generated on the disposal of an asset by a complying superannuation fund.
-Paragraph 295-85(2)(a) of the ITAA 1997 modifies the normal CGT rules so that a CGT event happening to a CGT asset of the Fund is not affected by the following provisions:
-
-•section 6-5 of the ITAA 1997 (ordinary income),
+Paragraph 295-85(2)(a) of the ITAA 1997 modifies the normal CGT rules so that a CGT event happening to a CGT asset of the Fund is not affected by the following provisions: •section 6-5 of the ITAA 1997 (ordinary income),
 •section 8-1 of the ITAA 1997 (amounts you can deduct), and
-•sections 15-15 and 25-40 of the ITAA 1997 (profit-making undertakings or plans);
-
-An exception to this treatment is contained in paragraph 295-85(3)(b) of the ITAA 1997 for CGT assets of the Fund that are:
-
-•debenture stock, a bond, debenture, certificate of entitlement, bill of exchange, promissory note or other security;
+•sections 15-15 and 25-40 of the ITAA 1997 (profit-making undertakings or plans); An exception to this treatment is contained in paragraph 295-85(3)(b) of the ITAA 1997 for CGT assets of the Fund that are: •debenture stock, a bond, debenture, certificate of entitlement, bill of exchange, promissory note or other security;
 •a deposit with a bank, building society or other financial institution;
 •a loan (secured or not); or
-•some other contract under which an entity is liable to pay an amount (whether the liability is secured or not).
-
-Therefore, unless a futures contract also falls within one of these exceptions, the CGT provisions will be the only provisions to apply.
+•some other contract under which an entity is liable to pay an amount (whether the liability is secured or not). Therefore, unless a futures contract also falls within one of these exceptions, the CGT provisions will be the only provisions to apply.
 A futures contract is not a deposit or a loan. Neither is it one of the specifically listed instruments in subparagraph 295-85(3)(b)(i) of the ITAA 1997.
 The phrase 'other security' in subparagraph 295-85(3)(b)(i) of the ITAA 1997 which is drafted to cover the same instruments as paragraph 159GP(1)(a) of the Income Tax Assessment Act 1936 (ITAA 1936), will only cover securities that are generally recognised as debt instruments (Taxation Ruling TR 96/14; ATO Interpretative Decision 2009/110; ATO Interpretative Decision 2009/111).
 As can be seen by the listed instruments in subparagraph 295-85(3)(b)(i) of the ITAA 1997, securities that are generally recognised as debt instruments are issued by a particular entity and represent a debtor/creditor relationship between that entity and another entity or entities.
@@ -54,51 +35,7 @@ As the cash settlement amount paid or received by the Fund is determined based o
 Therefore an index futures contract will not fall within any of the exclusions in paragraph 295-85(3)(b) of the ITAA 1997.
 Further, a futures contract is not trading stock (Income Tax Ruling IT 2228). Therefore, the exception for trading stock in subsection 295-85(4) of the ITAA 1997 will not apply.
 As none of the exceptions in either of subsections 295-85(3) or 295-85(4) of the ITAA 1997 apply, any gains or losses made by the Fund in relation to its dealings in futures contracts will be determined under the CGT provisions.
-Date of decision:
-  10 November 2009
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 159GP(1)   paragraph 159GP(1)(d)
-Income Tax Assessment Act 1997   section 295-85   paragraph 295-85(2)(a)   paragraph 295-85(3)(b)   subparagraph 295-85(3)(b)(i)   subparagraph 295-85(3)(b)(iv)   subsection 295-85(4)
-
-Related Public Rulings (including Determinations)
-
-Income Tax Ruling IT 2228
+Date of decision: 10 November 2009 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 subsection 159GP(1) paragraph 159GP(1)(d)
+Income Tax Assessment Act 1997 section 295-85 paragraph 295-85(2)(a) paragraph 295-85(3)(b) subparagraph 295-85(3)(b)(i) subparagraph 295-85(3)(b)(iv) subsection 295-85(4) Related Public Rulings (including Determinations) Income Tax Ruling IT 2228
 Taxation Ruling TR 96/14
-Taxation Determination TD 2006/25
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/110
- ATO ID 2009/111
-
-Other References:
-
-ASX Introduction to Index Futures and Options
- ASX Futures Contract Specifications
-
-Keywords
-
-Capital gains tax
- Futures
- Self managed superannuation funds
- SMSF investments
-
-Siebel/TDMS Reference Number:
-  1-1SQ4TE5; 1-6CKO5U3
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  8 January 2010
-
-Date reviewed:
-  27 March 2015
-
-ISSN:
- 1445-2782
+Taxation Determination TD 2006/25 Related ATO Interpretative Decisions ATO ID 2009/110 ATO ID 2009/111 Other References: ASX Introduction to Index Futures and Options ASX Futures Contract Specifications Keywords Capital gains tax Futures Self managed superannuation funds SMSF investments Siebel/TDMS Reference Number: 1-1SQ4TE5; 1-6CKO5U3 Business Line: Superannuation Date of publication: 8 January 2010 Date reviewed: 27 March 2015 ISSN: 1445-2782

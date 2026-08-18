@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/621
-==================================================
-
-Income Tax
- Capital Gains Tax: foreign currency converted into Australian currency at time of the transaction
- FOI status: may be released
-
-This ATOID is withdrawn because the ATO view on this matter is now included in the Guide to capital gains tax 2005-06 (page 20).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: foreign currency converted into Australian currency at time of the transaction FOI status: may be released This ATOID is withdrawn because the ATO view on this matter is now included in the Guide to capital gains tax 2005-06 (page 20). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a capital gain or capital loss arising from a CGT event in Division 104 of the Income Tax Assessment Act 1997 (ITAA 1997) be worked out in a foreign currency and converted to Australian currency at the time of the event if a transaction relevant to the event involved a foreign currency?
 Decision
 No. A capital gain or capital loss cannot be worked out in a foreign currency and converted to Australian currency.
@@ -29,53 +14,6 @@ The sale proceeds for each share were HKD150. As at the sale date, this converte
 Reasons for Decision
 Section 103-20 of the ITAA 1997 says that if a transaction or event involving an amount of money or the market value of other property is to be taken into account under the capital gains tax provisions in Part 3-1 or 3-3 of the ITAA 1997, and the money or value is in a foreign currency, the amount or value is converted into the equivalent amount of Australian currency at the time of the transaction or event.
 This means foreign currency must be converted to Australian currency at the time of each transaction or event. That is, amounts relevant to the calculation of a capital gain or capital loss (such as an amount included in an element of the cost base of an asset and capital proceeds) must be expressed in Australian currency before making the final gain or loss calculation.
-Therefore, the taxpayer does not calculate their capital gain in Hong Kong dollars and then convert it to Australian dollars (that is, HKD50 ÷ 5.3 = AUD9.40). Rather, they must calculate their capital gain by converting their acquisition cost and capital proceeds into Australian dollars at the acquisition and sale times respectively. Accordingly, a capital gain of AUD8.30 (that is, AUD28.30 - AUD20) will arise at the time of the disposal of each share.
-
-Note: The New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 repealed section 103-20 of the ITAA 1997 and replaced it with a similar translation rule that applies generally for the purposes of the Income Tax Assessment Act 1936 and the ITAA 1997. The rule is now contained in item 5 of the table in subsection 960-50(6) of the ITAA 1997. This provision applies to transactions or events that happen on or after 1 July 2003.
-
-Date of decision:
-  19 June 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 103-20
-
-Other References:
-
-The New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003
-
-Keywords
-
-Capital gains tax
- Capital gains
- Capital losses
- CGT capital proceeds
- CGT cost base
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  25 July 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 June 2003
-Original statement
-
-You are here
- 3 November 2006
+Therefore, the taxpayer does not calculate their capital gain in Hong Kong dollars and then convert it to Australian dollars (that is, HKD50 ÷ 5.3 = AUD9.40). Rather, they must calculate their capital gain by converting their acquisition cost and capital proceeds into Australian dollars at the acquisition and sale times respectively. Accordingly, a capital gain of AUD8.30 (that is, AUD28.30 - AUD20) will arise at the time of the disposal of each share. Note: The New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 repealed section 103-20 of the ITAA 1997 and replaced it with a similar translation rule that applies generally for the purposes of the Income Tax Assessment Act 1936 and the ITAA 1997. The rule is now contained in item 5 of the table in subsection 960-50(6) of the ITAA 1997. This provision applies to transactions or events that happen on or after 1 July 2003. Date of decision: 19 June 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 103-20 Other References: The New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 Keywords Capital gains tax Capital gains Capital losses CGT capital proceeds CGT cost base Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 25 July 2003 ISSN: 1445-2782 history Date: Version: 19 June 2003
+Original statement You are here 3 November 2006
 Archived

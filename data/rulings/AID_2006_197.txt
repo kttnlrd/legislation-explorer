@@ -1,26 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2006/197
-==================================================
-
-Fringe Benefits Tax
- Fringe Benefits Tax: in-house residual expense payment fringe benefit
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-If an employer re-imburses the private electricity expenses of its employees, which were incurred to an unrelated third party electricity retailer, can the benefits be valued as 'in house residual expense payment fringe benefits for the purposes of subsection 22A(2) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA)?
-
-Decision
-Yes. Where the electricity retailer purchases the electricity from a generating company that is an associate of the employer, the benefit will be valued as an 'in house residual expense payment fringe benefit for the purposes of subsection 22A(2) of the FBTAA.
-
-Facts
+================================================== Fringe Benefits Tax Fringe Benefits Tax: in-house residual expense payment fringe benefit FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+If an employer re-imburses the private electricity expenses of its employees, which were incurred to an unrelated third party electricity retailer, can the benefits be valued as 'in house residual expense payment fringe benefits for the purposes of subsection 22A(2) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA)? Decision
+Yes. Where the electricity retailer purchases the electricity from a generating company that is an associate of the employer, the benefit will be valued as an 'in house residual expense payment fringe benefit for the purposes of subsection 22A(2) of the FBTAA. Facts
 The employer is a participant in the electricity industry.
 There is an electricity generating company (the electricity generator) which 'is an associate' of the employer under the definition of 'associate' in subsection 136(1) of the FBTAA.
 The electricity generator is one of a number of generators that supply electricity into an electricity pool which is managed by an administrator on behalf of all generators and suppliers. Because one unit of electricity is indistinguishable from all other units, it is impossible to determine which generator produced which electricity.
@@ -29,92 +12,22 @@ The quantum of electricity produced by the electricity generator and supplied to
 The pool administrator calculates the financial liability of all electricity retailers on a daily basis. This involves the administrator collecting all money due for electricity purchased from the pool by electricity retailers, and forwarding payment to the electricity generators. The pool administrator does not have any possessory rights over the electricity in the pool.
 Section 156 of the FBTAA provides that the supply of electricity through a reticulation system shall be deemed not to constitute the provision of property. The supply of electricity to an employee's residence is a residual benefit.
 Both the electricity retailer (the residual benefit provider) and the electricity generator (the seller) carried on a business of supplying electricity that consisted of or included the provision of identical or similar benefits principally to outsiders.
-The employer reimburses their employees' private electricity expenses incurred to the electricity retailer. The employees provide their employer with a copy of the electricity retailers invoice for electricity consumed during the billing period prior to being reimbursed for electricity costs.
-
-Reasons for Decision
+The employer reimburses their employees' private electricity expenses incurred to the electricity retailer. The employees provide their employer with a copy of the electricity retailers invoice for electricity consumed during the billing period prior to being reimbursed for electricity costs. Reasons for Decision
 'In-house residual expense payment fringe benefit' is defined in subsection 136(1) of the FBTAA. In particular subparagraph (c)(i) of the definition requires that where the residual benefit provider is not the employer or the associate of the employer, that the provider will have purchased the benefit from the 'seller,' being the employer or an associate of the employer.
 It is therefore necessary to determine that the electricity retailer (residual benefit provider) has purchased electricity from the electricity generator (associate of the employer). Because of the nature of the electricity industry, it is impossible to distinguish which generator actually produced the electricity that is consumed by the employer's employees.
 One interpretation of this provision might conclude that a strict physical tracing and identification process must take place. In this regard, it would not be possible to trace the source of the electricity consumed by employees to the electricity produced by the electricity generator.
 However, regard should be had to the nature of the wholesale electricity market. The wholesale electricity market is distinctive because all electricity output from the generators is centrally pooled. In essence, the pool administrator merely acts as a facilitator by ensuring that electricity is supplied reliably and at the best market price. The residual benefit flows from the electricity generator directly to the electricity retailer. The arrangement is such that the electricity retailer makes an electricity settlement payment through the pool administrator which in turn passes the payment to the electricity generator.
-The Explanatory Memorandum to the Taxation Laws Amendment (Fringe Benefits and Substantiation) Act 1987 at Part A- Main Features: In-house fringe benefits (clauses 15, 17, 40, 48) describe the application of the new (property benefit) rules:
-
-A further category of fringe benefits will also now qualify for the in-house concessions. The new category will, broadly, comprise expense payment fringe benefits where the employee receives a reimbursement of expenditure incurred in respect of the purchase of goods, etc., of a kind supplied to the public in the ordinary course of the employer's business. For example, where an employee of a petroleum company purchases the company's brand of petrol from an independently owned retail outlet at the usual retail price and the employee subsequently receives a reimbursement of a percentage of that retail price from the employer, that reimbursement will qualify as an in-house expense payment fringe benefit.
-
-Note: The Explanatory Memorandum (EM) discusses petrol which is a property benefit. However, the EM makes it clear that they will apply irrespective of whether a benefit is provided as a property or residual fringe benefit.
-
-Whilst the EM contemplates a physical delivery of the employer's product, which is difficult to establish in the electricity industry, the EM does not indicate that a precise matching of the product is necessary. Further, whilst it may not be possible to establish that the specific electricity consumed by an employee was produced by electricity generator, it is however clear that a portion of the electricity sold by each electricity retailer will necessarily have been produced by this entity.
+The Explanatory Memorandum to the Taxation Laws Amendment (Fringe Benefits and Substantiation) Act 1987 at Part A- Main Features: In-house fringe benefits (clauses 15, 17, 40, 48) describe the application of the new (property benefit) rules: A further category of fringe benefits will also now qualify for the in-house concessions. The new category will, broadly, comprise expense payment fringe benefits where the employee receives a reimbursement of expenditure incurred in respect of the purchase of goods, etc., of a kind supplied to the public in the ordinary course of the employer's business. For example, where an employee of a petroleum company purchases the company's brand of petrol from an independently owned retail outlet at the usual retail price and the employee subsequently receives a reimbursement of a percentage of that retail price from the employer, that reimbursement will qualify as an in-house expense payment fringe benefit. Note: The Explanatory Memorandum (EM) discusses petrol which is a property benefit. However, the EM makes it clear that they will apply irrespective of whether a benefit is provided as a property or residual fringe benefit. Whilst the EM contemplates a physical delivery of the employer's product, which is difficult to establish in the electricity industry, the EM does not indicate that a precise matching of the product is necessary. Further, whilst it may not be possible to establish that the specific electricity consumed by an employee was produced by electricity generator, it is however clear that a portion of the electricity sold by each electricity retailer will necessarily have been produced by this entity.
 The EM indicates that the in-house rules were intended to be available for employers in an industry such as the petroleum industry. It is clear that the in-house provisions should generally be available to industries in Australia who produce goods or services which can be consumed by individuals including the employees. The in-house provisions should also necessarily include the utility industries. To deny access to the in-house provisions for participants in the Australian electricity industry because of the nature of the product and the method of its delivery would not be the intention of the fringe benefits tax provisions.
-It is therefore accepted that the electricity generator sells electricity to the electricity retailer that was in turn provided by the electricity retailer to the employees of the employer as residual benefits. Therefore, the benefits will be valued as 'in-house residual expense payment fringe benefits' for the purposes of subsection 22A(2) of the FBTAA.
-
-Amendment History
-
-Date of Amendment
+It is therefore accepted that the electricity generator sells electricity to the electricity retailer that was in turn provided by the electricity retailer to the employees of the employer as residual benefits. Therefore, the benefits will be valued as 'in-house residual expense payment fringe benefits' for the purposes of subsection 22A(2) of the FBTAA. Amendment History Date of Amendment
 Part
-Comment
-
-1 May 2026
+Comment 1 May 2026
 Reason for decision
-Punctuation corrections
-
-1 May 2026
+Punctuation corrections 1 May 2026
 Business Line
-Update to correct business line
-
-19 December 2014
+Update to correct business line 19 December 2014
 Reason for decision
-Corrected spelling error
-
-Date of decision:
-  25 July 2006
-
-Year of income:
-  Year ended 31 March 2007
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   subsection 136(1)   section 156   subsection 22A(2)
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment (Fringe Benefits and Substantiation) Act 1987
-
-Keywords
-
-Fringe benefits tax
- Fringe Benefit
- In-house residual expense payment fringe benefit
-
-Siebel/TDMS Reference Number:
-  5224273; 1-5T2LZDF
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  4 August 2006
-
-Date reviewed:
-  25 March 2026
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-25 July 2006
-Original statement
-
- 
-19 December 2014
-Updated statement
-
-You are here
- 1 May 2026
+Corrected spelling error Date of decision: 25 July 2006 Year of income: Year ended 31 March 2007 Legislative References: Fringe Benefits Tax Assessment Act 1986 subsection 136(1) section 156 subsection 22A(2) Other References: Explanatory Memorandum to the Taxation Laws Amendment (Fringe Benefits and Substantiation) Act 1987 Keywords Fringe benefits tax Fringe Benefit In-house residual expense payment fringe benefit Siebel/TDMS Reference Number: 5224273; 1-5T2LZDF Business Line: Superannuation and Employer Obligations Date of publication: 4 August 2006 Date reviewed: 25 March 2026 ISSN: 1445-2782 history Date: Version: 25 July 2006
+Original statement 19 December 2014
+Updated statement You are here 1 May 2026
 Updated statement

@@ -1,23 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2004/556
-==================================================
-
-Income Tax
- Group company loss transfer: income company must be resident throughout the deduction year
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Group company loss transfer: income company must be resident throughout the deduction year FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 170-40(1) of the Income Tax Assessment Act 1997 (ITAA 1997) require an income company to be an Australian resident throughout the deduction year before it can enter into an agreement to transfer a tax loss under Subdivision 170-A of the ITAA 1997?
 Decision
-Yes. An income company that is an Australian resident for only part of the deduction year may
- not
- enter into an agreement with another member of the same wholly-owned group to transfer a tax loss under Subdivision 170-A of the ITAA 1997.
+Yes. An income company that is an Australian resident for only part of the deduction year may not enter into an agreement with another member of the same wholly-owned group to transfer a tax loss under Subdivision 170-A of the ITAA 1997.
 Facts
 Loss company incurred a tax loss in the 2002-03 income year that it wished to transfer to Income company under Subdivision 170-A of the ITAA 1997 in that income year (the deduction year).
 Income company and Loss company were members of the same wholly-owned group under section 170-30 of the ITAA 1997 at all times during the 2002-03 income year.
@@ -29,44 +16,8 @@ Reasons for Decision
 Subsection 170-40(1) of the ITAA 1997 provides that an income company must be an Australian resident and not a prescribed dual resident.
 Paragraph 80G(6)(b) of the ITAA 1936, which was the predecessor of subsection 170-40(1) of the ITAA 1997, requires the income company to be a resident and not a prescribed dual resident in the income year.
 Section 1-3 of the ITAA 1997 provides that where an idea in the ITAA 1936 appears to have been expressed in a different form of words under the ITAA 1997 for the purposes of clarity or simplicity, the ideas are not to be taken to be different just because of the different form of words.
-Paragraph 36 of Taxation Ruling IT 2465 states in relation to paragraphs 80G(6)(a) and 80G(6)(b) of the ITAA 1936 that:
-
-The right to a deduction for a loss may be transferred from a loss company to an income company, where the relevant group relationship exists, only where the loss company was a resident as defined in subsection 6(1) of the Assessment Act in the year of income in which the loss was incurred and the income company is a resident in the year of income in which the right is to be transferred - paragraphs 80G(6)(a) and (b). Where, in a year of income, a resident company has incurred a loss, the right to a deduction for that loss will, subject to the other requirements of sections 80G being met, be transferable to any group company that is a resident in the year in which the loss is to be transferred. The residence of the loss company in a year of transfer that is subsequent to the loss year will not be relevant. Neither will the residence of the income company in a loss year (or any other year) preceding that in which the loss is to be transferred.
-
-Paragraph 24 of Taxation Ruling TR 98/12 states in relation to the issue of residence in respect of the transfer of company losses:
-
-The loss company must be a resident in the year of income in which the loss is incurred whilst the income company must be a resident in the year of income in respect of which the loss is transferred (subsection 80G(6) (subsections 170-35(1) and 170-40(1)).
-
-It is considered that under subsection 170-40(1) of the ITAA 1997 the income company must be an Australian resident throughout the deduction year. If it was intended that an income company only needs to be a resident for part of the year of income (deduction year), it is reasonable to expect that the legislation would have so provided.
+Paragraph 36 of Taxation Ruling IT 2465 states in relation to paragraphs 80G(6)(a) and 80G(6)(b) of the ITAA 1936 that: The right to a deduction for a loss may be transferred from a loss company to an income company, where the relevant group relationship exists, only where the loss company was a resident as defined in subsection 6(1) of the Assessment Act in the year of income in which the loss was incurred and the income company is a resident in the year of income in which the right is to be transferred - paragraphs 80G(6)(a) and (b). Where, in a year of income, a resident company has incurred a loss, the right to a deduction for that loss will, subject to the other requirements of sections 80G being met, be transferable to any group company that is a resident in the year in which the loss is to be transferred. The residence of the loss company in a year of transfer that is subsequent to the loss year will not be relevant. Neither will the residence of the income company in a loss year (or any other year) preceding that in which the loss is to be transferred. Paragraph 24 of Taxation Ruling TR 98/12 states in relation to the issue of residence in respect of the transfer of company losses: The loss company must be a resident in the year of income in which the loss is incurred whilst the income company must be a resident in the year of income in respect of which the loss is transferred (subsection 80G(6) (subsections 170-35(1) and 170-40(1)). It is considered that under subsection 170-40(1) of the ITAA 1997 the income company must be an Australian resident throughout the deduction year. If it was intended that an income company only needs to be a resident for part of the year of income (deduction year), it is reasonable to expect that the legislation would have so provided.
 As Income company was an Australian resident for only part of the deduction year, it is not able to enter into a loss transfer agreement with Loss company.
-Date of decision:
-  29 June 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 170-A   section 170-30   subsection 170-35(1)   subsection 170-40(1)
-Income Tax Assessment Act 1936   subsection 6(1)   section 80G   subsection 80G(6)   paragraph 80G(6)(a)   paragraph 80G(6)(b)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2465
-Taxation Ruling TR 98/12
-
-Keywords
-
-Group company loss transfers
-
-Siebel/TDMS Reference Number:
-  3896252
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 July 2004
-
-ISSN:
- 1445-2782
+Date of decision: 29 June 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Subdivision 170-A section 170-30 subsection 170-35(1) subsection 170-40(1)
+Income Tax Assessment Act 1936 subsection 6(1) section 80G subsection 80G(6) paragraph 80G(6)(a) paragraph 80G(6)(b) Related Public Rulings (including Determinations) Taxation Ruling IT 2465
+Taxation Ruling TR 98/12 Keywords Group company loss transfers Siebel/TDMS Reference Number: 3896252 Business Line: Public Groups and International Date of publication: 9 July 2004 ISSN: 1445-2782

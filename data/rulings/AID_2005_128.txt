@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/128
-==================================================
-
-Income Tax
- Deduction: payments for margin calls by an option trader
- FOI status: may be released
-
-This ATO ID is withdrawn as the issue is now dealt with in Taxation Determination 2006/25.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deduction: payments for margin calls by an option trader FOI status: may be released This ATO ID is withdrawn as the issue is now dealt with in Taxation Determination 2006/25. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, an option trader, entitled to a deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for payments made to a broker in respect of margin calls on exchange-traded options (ETOs)?
 Decision
 No. An option trader is not entitled to a deduction under section 8-1 of the ITAA 1997 for payments made to a broker in respect of margin calls on exchange-traded options.
@@ -33,57 +18,9 @@ Margins are recalculated daily and their level may go up or down depending on wh
 When a margin obligation ceases to exist, the amount held in the margin account is credited back to the taxpayer.
 Section 8-1 of the ITAA 1997 allows a deduction for losses or outgoings to the extent that they are incurred in gaining or producing assessable income or necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income provided the losses or outgoings are not capital, private or domestic in nature.
 Margins that are deposited with the broker remains the property of the taxpayer, the broker being allowed to draw on the funds to cover the taxpayer's obligation or potential obligation under the options contract. Margins deposited are no more than contributions of capital to a fund to provide for contingencies of the business rather than outgoings incurred in meeting such contingencies (see Ransburg Australia Pty Ltd v. FC of T 80 ATC 4114; (1980) 10 ATR 663 (Ransburg's Case )).
-Ransburg's Case concerns the deductibility of payments, under a provision that is equivalent to subsection 8-1 of the ITAA 1997, between related companies to secure 'indemnity' against future liability for employees' holiday and long service leave pay. The majority (Deane and Fisher JJ) of the Full Federal Court denied deductibility under subsection 51(1). Deane J at ATC 4116; ATR 664 said:
-
-The outgoings in the present case which were made to provide future funds which were intended to, but which need not necessarily, be applied in relation to such future payments to employees cannot, however, any more be properly so characterised than could a payment by a taxpayer to the credit of a savings bank account properly be characterised, for the purposes of s.51(1) of the Act, by reference to the object or objects to which the taxpayer proposed, at some future time, to apply the proceeds of the account.
-
-... They represented capital set aside to provide for revenue contingencies of the business rather than outgoings of revenue incurred in meeting such contingencies. They were not deductible pursuant to s.51(1) of the Act.
-
-Accordingly, the taxpayer is not entitled to a deduction under section 8-1 of the ITAA 1997 for margins deposited with the broker.
-Date of decision:
-  4 May 2005
-
-Year of income:
-  Year ending 30 June 2002 Year ending 30 June 2003 Year ending 30 June 2004 Year ending 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1
-Income Tax Assessment Act 1936   subsection 51(1)
-
-Case References:
-
-Ransburg Australia Pty Ltd v. FC of T   80 ATC 4114   10 ATR 663
-
-Keywords
-
-Call options
- Calls on capital
- Capital expenditure
- Deductions & expenses
- Securities rights & options
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  13 May 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 4 May 2005
-Original statement
-
-You are here
+Ransburg's Case concerns the deductibility of payments, under a provision that is equivalent to subsection 8-1 of the ITAA 1997, between related companies to secure 'indemnity' against future liability for employees' holiday and long service leave pay. The majority (Deane and Fisher JJ) of the Full Federal Court denied deductibility under subsection 51(1). Deane J at ATC 4116; ATR 664 said: The outgoings in the present case which were made to provide future funds which were intended to, but which need not necessarily, be applied in relation to such future payments to employees cannot, however, any more be properly so characterised than could a payment by a taxpayer to the credit of a savings bank account properly be characterised, for the purposes of s.51(1) of the Act, by reference to the object or objects to which the taxpayer proposed, at some future time, to apply the proceeds of the account. ... They represented capital set aside to provide for revenue contingencies of the business rather than outgoings of revenue incurred in meeting such contingencies. They were not deductible pursuant to s.51(1) of the Act. Accordingly, the taxpayer is not entitled to a deduction under section 8-1 of the ITAA 1997 for margins deposited with the broker.
+Date of decision: 4 May 2005 Year of income: Year ending 30 June 2002 Year ending 30 June 2003 Year ending 30 June 2004 Year ending 30 June 2005 Legislative References: Income Tax Assessment Act 1997 section 8-1
+Income Tax Assessment Act 1936 subsection 51(1) Case References: Ransburg Australia Pty Ltd v. FC of T 80 ATC 4114 10 ATR 663 Keywords Call options Calls on capital Capital expenditure Deductions & expenses Securities rights & options Business Line: Finance and Investment Centre of Expertise Date of publication: 13 May 2005 ISSN: 1445-2782 history Date: Version: 4 May 2005
+Original statement You are here
 12 May 2006
 Archived

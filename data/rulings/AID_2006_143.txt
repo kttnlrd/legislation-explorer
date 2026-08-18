@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/143
-==================================================
-
-Superannuation
- Deduction limit for employer defined benefit superannuation contributions
- FOI status: may be released
-
-This ATO ID is withdrawn from the database because it contains a view in respect of section 82AAC of the Income Tax Assessment Act 1936. That section does not apply for the 2007-08 income year and later income years. This ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2006-07 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Deduction limit for employer defined benefit superannuation contributions FOI status: may be released This ATO ID is withdrawn from the database because it contains a view in respect of section 82AAC of the Income Tax Assessment Act 1936. That section does not apply for the 2007-08 income year and later income years. This ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2006-07 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 How should the entity determine the deductible contribution limits for the defined benefit contributions it makes on behalf of its employees to an eligible superannuation fund under section 82AAC of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Where the entity makes contributions in respect of employees with defined benefits only, the deductible limit of the contributions for a year of income is the sum of the age based limits, in accordance with subsections 82AAC(2), 82AAC(2A) and 82AAC(2B) of the ITAA 1936, of each employee for whom contributions are being made.
@@ -30,72 +15,17 @@ Reasons for Decision
 Section 82AAC of the ITAA 1936 allows an employer to claim a deduction for contributions made to complying superannuation funds to provide superannuation benefits for employees.
 Subsection 82AAC(2) of the ITAA 1936 imposes a limit on the amount of contributions that may be claimed as a deduction based on the age of the employee. The construction of subsection 82AAC(2) of the ITAA 1936 requires that the limit be applied to the contributions of each employee on an individual basis, that is, if the contribution made for one employee is above the age based limit, the employer cannot claim a deduction for the excess of its contribution in respect of this employee, even if the contribution made in respect of another employee is below the relevant limit.
 The administrative difficulties in determining the amount of contributions made in respect of an individual employee where an employer contributes to a defined benefit fund were recognised in the Explanatory Memorandum to the Taxation Laws Amendment (Superannuation) Bill 1992 when the age based limits were introduced.
-The Explanatory Memorandum provides an example using the age based limit method such that where an employer makes contributions to a defined benefit fund, the deductible limit of the contributions for a year of income is determined by the sum of the age based limits of each employee for whom contributions were being made.
-
-Contributions made for employees with defined benefits only
-
-The Commissioner accepts that the example in the Explanatory Memorandum reflects the intention of the law where the entity makes contributions in respect of employees with defined benefits only, that is, the deductible limit of the contributions for a year of income is the sum of the age based limits, in accordance with subsections 82AAC(2), 82AAC(2A) and 82AAC(2B) of the ITAA 1936, of each employee for whom contributions are being made.
+The Explanatory Memorandum provides an example using the age based limit method such that where an employer makes contributions to a defined benefit fund, the deductible limit of the contributions for a year of income is determined by the sum of the age based limits of each employee for whom contributions were being made. Contributions made for employees with defined benefits only The Commissioner accepts that the example in the Explanatory Memorandum reflects the intention of the law where the entity makes contributions in respect of employees with defined benefits only, that is, the deductible limit of the contributions for a year of income is the sum of the age based limits, in accordance with subsections 82AAC(2), 82AAC(2A) and 82AAC(2B) of the ITAA 1936, of each employee for whom contributions are being made.
 For example, an employer contributes $200,000 in the income year ended 30 June 2006 to a defined benefit superannuation fund for the benefit of eight employees. Five employees are aged under 35 and three are aged between 35 and 49.
-The total deduction limit in respect of these employees is the sum of:
-
-•5 x $14,603 (the age based limit for employees aged under 35 for the income year ended 30 June 2006), and
-•3 x $40,560 (the age based limit for employees aged between 35 and 49 for the income year ended 30 June 2006)
-
-which equals $194,695.
-Therefore the total deduction limit in respect of these employees is $194,695 of the $200,000 contribution made. The remaining $5,305 is not deductible.
-
-Contributions made for employees with a combination of defined and accumulation benefits
-
-While the Explanatory Memorandum provides a basic example of how the deductible limit could be determined for defined benefit contributions, it does not provide clear guidance with respect to defined benefit funds which have different classes of members, or where accumulation benefits are provided in addition to the defined benefit.
+The total deduction limit in respect of these employees is the sum of: •5 x $14,603 (the age based limit for employees aged under 35 for the income year ended 30 June 2006), and
+•3 x $40,560 (the age based limit for employees aged between 35 and 49 for the income year ended 30 June 2006) which equals $194,695.
+Therefore the total deduction limit in respect of these employees is $194,695 of the $200,000 contribution made. The remaining $5,305 is not deductible. Contributions made for employees with a combination of defined and accumulation benefits While the Explanatory Memorandum provides a basic example of how the deductible limit could be determined for defined benefit contributions, it does not provide clear guidance with respect to defined benefit funds which have different classes of members, or where accumulation benefits are provided in addition to the defined benefit.
 To ensure an employer cannot claim a deduction for contributions in excess of the age based limit where the entity makes contributions for employees with a combination of defined and accumulation benefits, the deduction limit is determined by firstly applying the age based limit as required under subsections 82AAC(2), 82AAC(2A) and 82AAC(2B) of the ITAA 1936 to any accumulation benefit contributions made in respect of an individual employee.
 The deduction limit for contributions made by the entity in respect of the defined benefits is then determined by taking the total sum of the reduced age based limits for employees for whom defined benefit contributions are being made. The reduced age based limit for an employee is calculated by taking their age based limit and reducing it by the amount of contributions made in respect of accumulation benefits, for that employee, in the relevant year of income.
 For example, if an employer makes a contribution of $30,000 for a 40 year old employee (age based limit of $40,560 for the income year ended 30 June 2006) into an accumulation account of a hybrid fund, only $10,560 is allowable in determining the total allowable limit for employees in the defined benefit fund.
 Contributions in excess of the employee's age based limit are not deductible under subsection 82AAC(2) of the ITAA 1936. Therefore, where the deduction claimed in respect of the accumulation benefits has reached the age based limit, there is no further deduction available in respect of the defined benefit.
 For example, if the employer makes a contribution of $50,000 for another employee of the same age, the employer is then allowed a deduction of the maximum age based limit of $40,560 for that employee. A nil value applies in respect of the employee when determining the total allowable limit for employees in the defined benefit fund. The excess amount of $9,440 is not deductible and cannot be used to offset the deductible limit under the defined benefit fund.
-Date of decision:
-  25 May 2006
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 82AAC   subsection 82AAC(2)   subsection 82AAC(2A)   subsection 82AAC(2B)
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment (Superannuation) Bill 1992
-
-Keywords
-
-Contributions for employees - age based limits
- Contributions for employees - allowable deductions
- Defined benefit superannuation funds
- Superannuation case reports
- Superannuation contributions - deductions & rebates
- Superannuation contributions for employees
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  2 June 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-25 May 2006
-Original statement
-
-You are here
+Date of decision: 25 May 2006 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 section 82AAC subsection 82AAC(2) subsection 82AAC(2A) subsection 82AAC(2B) Other References: Explanatory Memorandum to the Taxation Laws Amendment (Superannuation) Bill 1992 Keywords Contributions for employees - age based limits Contributions for employees - allowable deductions Defined benefit superannuation funds Superannuation case reports Superannuation contributions - deductions & rebates Superannuation contributions for employees Business Line: Superannuation Date of publication: 2 June 2006 ISSN: 1445-2782 history Date: Version: 25 May 2006
+Original statement You are here
 12 December 2007
 Archived

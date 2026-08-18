@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/338
-==================================================
-
-Goods and Services Tax
- GST and entitlement to input tax credits for entertainment expenses incurred by an entity that cannot make income tax deductions
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and entitlement to input tax credits for entertainment expenses incurred by an entity that cannot make income tax deductions FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an overseas company that cannot make income tax deductions under the Income Tax Assessment Act 1997 (ITAA 1997), denied by section 69-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), from claiming input tax credits for acquisitions made in Australia for entertainment purposes?
 Decision
 Yes, the entity is denied from claiming input tax credits for acquisitions made for entertainment purposes.
@@ -22,38 +11,7 @@ The entity made acquisitions in Australia for entertainment purposes. These ente
 Reasons for Decision
 Under section 11-20 of the GST Act, an entity is entitled to an input tax credit for any creditable acquisition that it makes. However, Division 69 of the GST Act provides that some acquisitions that are not deductible under the ITAA 1997 are not creditable acquisitions.
 Subsection 69-5(1) of the GST Act provides that an acquisition is not a creditable acquisition to the extent that it is a 'non-deductible expense'. Subsection 69-5(3) of the GST Act provides that an acquisition will be a non-deductible expense if it is not deductible under Division 8 of the ITAA 1997 because of one of the specified statutory provisions in the ITAA 1997. Paragraph 69-5(3)(f) of the GST Act specifies Division 32 of the ITAA 1997 (which deals with entertainment expenses).
-The entity has made acquisitions that are of a type that Division 32 of the ITAA 1997 prohibits from being deductible under Division 8 of the ITAA 1997.
-
-[
- History
- : This ATO ID was amended on 20 December 2005. The last sentence in the third paragraph in the reasons for decision was removed as it was not relevant]
-
-When section 69-5 of the GST Act refers to an expense being not deductible under Division 8 of the ITAA 1997 because of one of the specified statutory provisions, it is referring to the requirements specified in the statutory provision and not to whether the claimant for an input tax credit would have been entitled to a deduction for income tax but for the statutory provision. That is, the words 'under Division 8 of the ITAA 1997' is a reference to the general deductibility provisions of the ITAA 1997 rather than the particular circumstances of an entity's case. Section 69-5 of the GST Act incorporates the income tax provisions into the GST Act only for the purpose of identifying non-deductible expenses which will not form part of a creditable acquisition or importation.
+The entity has made acquisitions that are of a type that Division 32 of the ITAA 1997 prohibits from being deductible under Division 8 of the ITAA 1997. [ History : This ATO ID was amended on 20 December 2005. The last sentence in the third paragraph in the reasons for decision was removed as it was not relevant] When section 69-5 of the GST Act refers to an expense being not deductible under Division 8 of the ITAA 1997 because of one of the specified statutory provisions, it is referring to the requirements specified in the statutory provision and not to whether the claimant for an input tax credit would have been entitled to a deduction for income tax but for the statutory provision. That is, the words 'under Division 8 of the ITAA 1997' is a reference to the general deductibility provisions of the ITAA 1997 rather than the particular circumstances of an entity's case. Section 69-5 of the GST Act incorporates the income tax provisions into the GST Act only for the purpose of identifying non-deductible expenses which will not form part of a creditable acquisition or importation.
 Therefore, as a result of the operation of section 69-5 of the GST Act, the entity cannot claim an input tax credit for its acquisitions made for entertainment purposes.
-Date of decision:
-  17 November 2005
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 11-20   section 69-5   subsection 69-5(1)   subsection 69-5(3)   paragraph 69-5(3)(f)
-Income Tax Assessment Act 1997   Division 8   Division 32
-
-Keywords
-
-Good and services tax
- GST special rules
- Non deductible expenses
- GST supplies & acquisitions
- Creditable acquisition
-
-Siebel/TDMS Reference Number:
-  4927408
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  25 November 2005
-
-ISSN:
- 1445-2782
+Date of decision: 17 November 2005 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 11-20 section 69-5 subsection 69-5(1) subsection 69-5(3) paragraph 69-5(3)(f)
+Income Tax Assessment Act 1997 Division 8 Division 32 Keywords Good and services tax GST special rules Non deductible expenses GST supplies & acquisitions Creditable acquisition Siebel/TDMS Reference Number: 4927408 Business Line: Indirect Tax Date of publication: 25 November 2005 ISSN: 1445-2782

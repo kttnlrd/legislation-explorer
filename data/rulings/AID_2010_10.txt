@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/10
-==================================================
-
-Goods and Services Tax
- GST and bill of exchange not honoured at maturity
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and bill of exchange not honoured at maturity FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Has an entity received consideration for a supply for the purposes of paragraph 21-5(1)(b) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), in accepting a bill of exchange with a future maturity date as payment for the supply when the bill, which it still holds, is not honoured at maturity?
 Decision
 No, the entity has not received consideration when a bill of exchange it accepted as payment and of which it remains the holder, has a future maturity date and the bill is not honoured at maturity.
@@ -23,83 +12,14 @@ The supplier is the drawer of the bill and remains the holder, that is, it has n
 The recipient of the supply fails to pay the bill upon its maturity and the entity later writes off the outstanding debt as bad.
 Reasons for Decision
 Division 21 of the GST Act deals with the writing off of bad debts on taxable supplies.
-Section 21-5 of the GST Act states:
-
-(1)You have a
- decreasing adjustment
- if:
-
-(a)you made a *taxable supply; and
+Section 21-5 of the GST Act states: (1)You have a decreasing adjustment if: (a)you made a *taxable supply; and
 (b)the whole or part of the *consideration for the supply has not been received; and
-(c)you write off as bad the whole or a part of the debt, or the whole or a part of the debt has been *overdue for 12 months or more.
-
-The amount of the decreasing adjustment is 1/11 of the amount written off, or 1/11 of the amount that has been overdue for 12 months or more, as the case requires.
+(c)you write off as bad the whole or a part of the debt, or the whole or a part of the debt has been *overdue for 12 months or more. The amount of the decreasing adjustment is 1/11 of the amount written off, or 1/11 of the amount that has been overdue for 12 months or more, as the case requires.
 (2)However, you cannot have an *adjustment under this section if you *account on a cash basis.
-(*denotes a defined term in the GST Act).
-
-All the elements of section 21-5 of the GST Act need to be satisfied before entitlement to a decreasing adjustment arises under this Division of the GST Act. The facts establish that, in regard to the debt owing under the bill of exchange, a taxable supply has been made and the relevant debt has been written off. Thus paragraphs 21-5(1)(a) and (c) of the GST Act have been satisfied. It is also known that the entity accounts on a non-cash basis so subsection 21-5(2) of the GST Act is also satisfied. Therefore it needs to be determined if the entity has received consideration for a supply under paragraph 21-5(1)(b) of the GST Act.
-
-Bills of Exchange
-
-A bill of exchange is defined in subsection 8(1) of the Bills of Exchange Act 1909. This subsection states:
-
-A bill of exchange is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person, or to bearer.
-
-In the Victorian Supreme Court case of Mobil Oil Australia Limited v. Caulfield Tyre Service Pty Ltd [1984] V.R. 440 (before Young C.J.), the status of a bill as a payment instrument and the obligations of the person to whom the bill is 'addressed' were considered. In the course of delivering his judgment in that case, the Chief Justice referred favourably to observations on the character of a bill made in several UK cases. These references include:
-
-The bill is itself a contract separate from the contract for sale. Its purpose is not merely to serve as a negotiable instrument; it is also to avoid postponement of the purchaser's liability to the vendor himself... (Nova (Jersey) Knit Ltd. V. Kammgarn Spinnerei G.m.b.H.[1977] 2 All E.R. 463)
-
-...the bona fide holder for value of a bill of exchange is entitled, save in truly exceptional circumstances, on its maturity, to have it treated as cash... (Cebora S. N. C. v. S. I. P. (Industrial Products) Ltd. [1976] 1 Lloyd's Rep. 271)
-
-Bills of exchange are treated as cash, and unless there are exceptional circumstances where there is an action between the immediate parties to a bill of exchange judgment will not be held up by virtue of a counterclaim by the defendant and execution will not be stayed. (Cebora S. N. C. v. S. I. P. (Industrial Products) Ltd. [1976] 1 Lloyd's Rep. 271)
-
-When one person buys goods from another ... He may demand payment in cash; but if the buyer cannot provide this at once, he may agree to take bills of exchange payable at future dates. These are taken as equivalent to deferred instalments of cash. (Nova (Jersey) Knit Ltd. V. Kammgarn Spinnerei G.m.b.H.[1977] 2 All E.R. 463)
-
-Effect of bill of exchange being dishonoured at maturity
-
-At the time that the entity supplied the goods, the recipient accepted the bill of exchange, due to mature on a future date. We take the view that in the circumstances given, if the bill had been honoured on its maturity, consideration would have been provided and received on the maturity date. This is similar to the treatment that would be afforded a post-dated cheque. A bill with a future maturity date has payment similarities to a post-dated cheque, and we consider this to be appropriately consistent treatment for GST purposes.
+(*denotes a defined term in the GST Act). All the elements of section 21-5 of the GST Act need to be satisfied before entitlement to a decreasing adjustment arises under this Division of the GST Act. The facts establish that, in regard to the debt owing under the bill of exchange, a taxable supply has been made and the relevant debt has been written off. Thus paragraphs 21-5(1)(a) and (c) of the GST Act have been satisfied. It is also known that the entity accounts on a non-cash basis so subsection 21-5(2) of the GST Act is also satisfied. Therefore it needs to be determined if the entity has received consideration for a supply under paragraph 21-5(1)(b) of the GST Act. Bills of Exchange A bill of exchange is defined in subsection 8(1) of the Bills of Exchange Act 1909. This subsection states: A bill of exchange is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person, or to bearer. In the Victorian Supreme Court case of Mobil Oil Australia Limited v. Caulfield Tyre Service Pty Ltd [1984] V.R. 440 (before Young C.J.), the status of a bill as a payment instrument and the obligations of the person to whom the bill is 'addressed' were considered. In the course of delivering his judgment in that case, the Chief Justice referred favourably to observations on the character of a bill made in several UK cases. These references include: The bill is itself a contract separate from the contract for sale. Its purpose is not merely to serve as a negotiable instrument; it is also to avoid postponement of the purchaser's liability to the vendor himself... (Nova (Jersey) Knit Ltd. V. Kammgarn Spinnerei G.m.b.H.[1977] 2 All E.R. 463) ...the bona fide holder for value of a bill of exchange is entitled, save in truly exceptional circumstances, on its maturity, to have it treated as cash... (Cebora S. N. C. v. S. I. P. (Industrial Products) Ltd. [1976] 1 Lloyd's Rep. 271) Bills of exchange are treated as cash, and unless there are exceptional circumstances where there is an action between the immediate parties to a bill of exchange judgment will not be held up by virtue of a counterclaim by the defendant and execution will not be stayed. (Cebora S. N. C. v. S. I. P. (Industrial Products) Ltd. [1976] 1 Lloyd's Rep. 271) When one person buys goods from another ... He may demand payment in cash; but if the buyer cannot provide this at once, he may agree to take bills of exchange payable at future dates. These are taken as equivalent to deferred instalments of cash. (Nova (Jersey) Knit Ltd. V. Kammgarn Spinnerei G.m.b.H.[1977] 2 All E.R. 463) Effect of bill of exchange being dishonoured at maturity At the time that the entity supplied the goods, the recipient accepted the bill of exchange, due to mature on a future date. We take the view that in the circumstances given, if the bill had been honoured on its maturity, consideration would have been provided and received on the maturity date. This is similar to the treatment that would be afforded a post-dated cheque. A bill with a future maturity date has payment similarities to a post-dated cheque, and we consider this to be appropriately consistent treatment for GST purposes.
 However, while the date on a post-dated cheque is the date that consideration will be received (per GSTR 2003/12), a subsequent dishonouring of the cheque may trigger a decreasing bad debt adjustment as explained in paragraph 49 of Goods and Services Tax Ruling 'GSTR 2000/19: making adjustments under Division 19 for adjustment events'.
 The judicial comment set out above, however, provides support for the view that a holder of a bill of exchange is entitled to have it treated as cash on its maturity and in the event that the recipient of the supply (the acceptor) fails to honour the bill at its maturity date, receipt of consideration simply does not occur.
 It follows that the entity has not received consideration for the supply for the purposes of paragraph 21-5(1)(b) of the GST Act and therefore will have a decreasing adjustment under section 21-5 of the GST Act.
-Date of decision:
-  22 December 2009
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   paragraph 21-5(1)(a)   paragraph 21-5(1)(b)   paragraph 21-5(1)(c)   section 21-5   subsection 21-5(1)   subsection 21-5(2)   Division 21
-Bills of Exchange Act 1909   subsection 8(1)
-
-Case References:
-
-Mobil Oil Australia Limited v Caulfield Tyre Service Pty Ltd   [1984] VR 440
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2000/19
-Goods and Services Tax Ruling GSTR 2003/12
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/11
-
-Keywords
-
-Decreasing adjustment
- Goods and services tax
- GST bad debts
- GST consideration
- GST net amounts & adjustments
- GST supplies & acquisitions
- Write off
-
-Siebel/TDMS Reference Number:
-  6214261
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  15 January 2010
-
-ISSN:
- 1445 - 2782
+Date of decision: 22 December 2009 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 paragraph 21-5(1)(a) paragraph 21-5(1)(b) paragraph 21-5(1)(c) section 21-5 subsection 21-5(1) subsection 21-5(2) Division 21
+Bills of Exchange Act 1909 subsection 8(1) Case References: Mobil Oil Australia Limited v Caulfield Tyre Service Pty Ltd [1984] VR 440 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2000/19
+Goods and Services Tax Ruling GSTR 2003/12 Related ATO Interpretative Decisions ATO ID 2010/11 Keywords Decreasing adjustment Goods and services tax GST bad debts GST consideration GST net amounts & adjustments GST supplies & acquisitions Write off Siebel/TDMS Reference Number: 6214261 Business Line: Indirect Tax Date of publication: 15 January 2010 ISSN: 1445 - 2782

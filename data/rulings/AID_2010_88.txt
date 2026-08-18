@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/88
-==================================================
-
-Income Tax
- Capital gains and foreign residents: meaning of 'holds' for the purposes of a foreign resident's direct participation interest in a Part X Australian company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains and foreign residents: meaning of 'holds' for the purposes of a foreign resident's direct participation interest in a Part X Australian company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a foreign resident company that enters into a contract for the disposal of part of its 'direct participation interest' in an Australian resident company within the meaning of section 960-190 of the Income Tax Assessment Act 1997 (ITAA 1997), continue to 'hold' that part of its interest until the completion of the contract for the purpose of determining a 12 month period within the meaning of subparagraph 855-25(1)(a)(ii) of the ITAA 1997?
 Decision
 Yes. A foreign resident company that enters into a contract for the disposal of part of its 'direct participation interest' in an Australian resident company within the meaning of section 960-190 of the ITAA 1997, continues to 'hold' that part of its interest until the completion of the contract, for the purpose of determining a 12 month period within the meaning of subparagraph 855-25(1)(a)(ii) of the ITAA 1997.
@@ -25,120 +14,17 @@ Until the completion of the contract for the disposal of 95% of the shares in Au
 The taxpayer disposed of the remaining 5% of the shares in Aus Co in September 2008. CGT event A1 happened at the time that the contract for the disposal of the remaining 5% shareholding was entered into, that is, in September 2008.
 Reasons for Decision
 The question at issue relates to whether a capital gain or capital loss from the CGT event that happened at the time of the disposal of the remaining 5% of the shares in Aus Co in September 2008, can be disregarded under subsection 855-10(1) of the ITAA 1997.
-For a capital gain or capital loss to be disregarded under subsection 855-10(1) of the ITAA 1997, the taxpayer must be a foreign resident just before the CGT event happens and the CGT event must happen in relation to a CGT asset that is
- not
- 'taxable Australian property'. 'Taxable Australian property' is defined in section 855-15 of the ITAA 1997 and includes an 'indirect Australian real property interest' which is defined in section 855-25 of the ITAA 1997.
-
-Indirect Australian real property interests
-
-Subsection 855-25(1) of the ITAA 1997 provides that a 'membership interest' held by an entity (the holding entity) in another entity (the test entity) at a time, is an 'indirect Australian real property interest' at that time - if the interest passes both:
-
-(a)the 'non-portfolio interest test' in section 960-195 of the ITAA 1997, at the times set out in paragraph 855-25(1)(a) of the ITAA 1997; and
-(b)the 'principal asset test' in section 855-30 of the ITAA 1997, at that time.
-
-As all of the taxpayer's shares in Aus Co are membership interests within the meaning of Subdivision 960-G of the ITAA 1997 and passed the 'principal asset test' at all times, these shares will come within the definition of an 'indirect Australian real property interest'
- if
- they pass the 'non-portfolio interest test' contained in paragraph 855-25(1)(a) of the ITAA 1997.
-
-Subparagraph 855-25(1)(a)(ii) - requires the 'non-portfolio interest test' to be passed throughout a 12 month period
-
-For present purposes, in order to be an 'indirect Australian real property interest' at a certain time (in this case, when CGT event A1 happened in September 2008), subparagraph 855-25(1)(a)(ii) of the ITAA 1997 requires a holding entity to 'hold' a 'membership interest' in a test entity (Aus Co) at that time - being an interest that passed the 'non-portfolio interest test' in section 960-195 of the ITAA 1997 'throughout a 12 month period that began no earlier than 24 months before that time and ended no later than that time'. Subparagraph 855-25(1)(a)(ii) of the ITAA 1997 is an integrity measure to counter 'staggered' sell downs.
-
-Non-portfolio interest test
-
-Section 960-195 of the ITAA 1997 provides that an interest held by an entity (the holding entity) in another entity (the test entity) passes the 'non-portfolio interest test' at a time, if the sum of the direct participation interests held by the holding entity and its associates in the test entity at that time is 10% or more.
-
-Direct participation interests
-
-Item 1 of the table in subsection 960-190(1) of the ITAA 1997 provides that if the test entity is a company within the meaning of Part X of the ITAA 1936, the 'direct participation interest' that the holding entity 'holds' in the test entity is the 'direct control interest' it 'holds' within the meaning of section 350 of Part X of the ITAA 1936.
-
-Direct control interest in section 350 of the ITAA 1936
-
-Paragraph 350(1)(a) of the ITAA 1936 relevantly provides that an entity 'holds a direct control interest in a company' at a particular time equal to the percentage that the entity 'holds' at that time, of the total paid-up share capital of the company.
-
-Meaning of
- '
- holds' for the purposes of the direct control interest
-
-The meaning of the term 'holds' is
- not
- defined for the purposes of applying section 350 of the ITAA 1936 (as modified for the present purposes by paragraph 855-25(2)(a) and subsection 960-190(2) of the ITAA 1997).
-Accordingly, the term 'holds' is given its
- ordinary meaning
- , unless this would lead to any absurdity or inconsistency within the context in which the term is used.
-The words 'hold' and 'held' in legislation relating to shares in companies has been examined judicially. In In re Wala Wynaad Indian Gold Mining Company (1882) 21 Ch. D. 849, Chitty J stated:
-
-Now what is the meaning of the word "held"? I think that the word "held" there has no specific technical meaning. I think it is sufficient that the shares have been registered in the contributory's name at the period mentioned ...
-
-That plainly shows that the term "held" has no specific force, but shares are held by the person in whose name they are registered. ...
-
-In the High Court decision in Avon Downs Pty. Ltd. v. Federal Commissioner of Taxation (1949) 78 CLR 353; (1949) 9 ATD 5: (1949) 4 AITR 195, Dixon J quoted with approval from Chitty J's judgement.
-Subsequently, in Dalgety Downs Pastoral Co Pty. Ltd. v. Federal Commissioner of Taxation (1952) 86 CLR 335; (1952) 10 ATD 55; (1952) 5 AITR 386, the High Court (Webb, Fullagar and Kitto JJ) relevantly stated (at CLR 341-342):
-
-Dixon J. so held in Avon Downs Pty. Ltd. v. Federal Commissioner of Taxation (1949) 78 CLR 353, basing his conclusion upon the view that in the terminology of company law shares are said to be "held" by the person who is registered as a shareholder in respect thereof, and that s. 80(5), being concerned with voting power, should be treated as using that terminology. We share this view. Indeed it is not too much to say that the verb "hold" and its variants, when used in relation to shares in companies, normally refers to the legal ownership of the shares according to the register of members. The Companies Acts of the United Kingdom and of the several States of the Commonwealth have uniformly used the word in this sense, and common usage has followed their example. Before a different meaning is accepted, some justification must be found in the context, or the subject-matter.
-
-See also the High Court decision in Federal Commissioner of Taxation v. Patcorp Investments Limited (1976) 140 CLR 247; 76 ATC 4225; (1976) 6 ATR 420.
-Consistent with the above cases, the majority of the High Court in Federal Commissioner of Taxation v. Linter Textiles Australia Ltd. (in liq) (2005) 220 CLR 592; [2005] HCA 20; 2005 ATC 4255; (2005) 59 ATR 177 stated:
-
-23. When used in relation to companies, "hold" normally refers to legal ownership established by reference to the register of members. ...
-
-57. The 1964 Act replaced "beneficially held" with "beneficially owned" as the criterion for determining substantial continuity of shareholding and the 1973 Act continued that criterion. Given the outcome in Dalgety Downs, the change evidently was made to assist the taxpayer, by allowing the taxpayer to go beyond the face of the share register.
-
-The Commissioner considers that the ordinary meaning of the term 'holds' as outlined above does not lead to any absurdity or inconsistency within the context in which the term is used for present purposes. See also paragraphs 55-61 of Taxation Ruling TR 2004/7. Accordingly, the term 'holds' for present purposes refers to legal ownership established by reference to the register of members.
+For a capital gain or capital loss to be disregarded under subsection 855-10(1) of the ITAA 1997, the taxpayer must be a foreign resident just before the CGT event happens and the CGT event must happen in relation to a CGT asset that is not 'taxable Australian property'. 'Taxable Australian property' is defined in section 855-15 of the ITAA 1997 and includes an 'indirect Australian real property interest' which is defined in section 855-25 of the ITAA 1997. Indirect Australian real property interests Subsection 855-25(1) of the ITAA 1997 provides that a 'membership interest' held by an entity (the holding entity) in another entity (the test entity) at a time, is an 'indirect Australian real property interest' at that time - if the interest passes both: (a)the 'non-portfolio interest test' in section 960-195 of the ITAA 1997, at the times set out in paragraph 855-25(1)(a) of the ITAA 1997; and
+(b)the 'principal asset test' in section 855-30 of the ITAA 1997, at that time. As all of the taxpayer's shares in Aus Co are membership interests within the meaning of Subdivision 960-G of the ITAA 1997 and passed the 'principal asset test' at all times, these shares will come within the definition of an 'indirect Australian real property interest' if they pass the 'non-portfolio interest test' contained in paragraph 855-25(1)(a) of the ITAA 1997. Subparagraph 855-25(1)(a)(ii) - requires the 'non-portfolio interest test' to be passed throughout a 12 month period For present purposes, in order to be an 'indirect Australian real property interest' at a certain time (in this case, when CGT event A1 happened in September 2008), subparagraph 855-25(1)(a)(ii) of the ITAA 1997 requires a holding entity to 'hold' a 'membership interest' in a test entity (Aus Co) at that time - being an interest that passed the 'non-portfolio interest test' in section 960-195 of the ITAA 1997 'throughout a 12 month period that began no earlier than 24 months before that time and ended no later than that time'. Subparagraph 855-25(1)(a)(ii) of the ITAA 1997 is an integrity measure to counter 'staggered' sell downs. Non-portfolio interest test Section 960-195 of the ITAA 1997 provides that an interest held by an entity (the holding entity) in another entity (the test entity) passes the 'non-portfolio interest test' at a time, if the sum of the direct participation interests held by the holding entity and its associates in the test entity at that time is 10% or more. Direct participation interests Item 1 of the table in subsection 960-190(1) of the ITAA 1997 provides that if the test entity is a company within the meaning of Part X of the ITAA 1936, the 'direct participation interest' that the holding entity 'holds' in the test entity is the 'direct control interest' it 'holds' within the meaning of section 350 of Part X of the ITAA 1936. Direct control interest in section 350 of the ITAA 1936 Paragraph 350(1)(a) of the ITAA 1936 relevantly provides that an entity 'holds a direct control interest in a company' at a particular time equal to the percentage that the entity 'holds' at that time, of the total paid-up share capital of the company. Meaning of ' holds' for the purposes of the direct control interest The meaning of the term 'holds' is not defined for the purposes of applying section 350 of the ITAA 1936 (as modified for the present purposes by paragraph 855-25(2)(a) and subsection 960-190(2) of the ITAA 1997).
+Accordingly, the term 'holds' is given its ordinary meaning , unless this would lead to any absurdity or inconsistency within the context in which the term is used.
+The words 'hold' and 'held' in legislation relating to shares in companies has been examined judicially. In In re Wala Wynaad Indian Gold Mining Company (1882) 21 Ch. D. 849, Chitty J stated: Now what is the meaning of the word "held"? I think that the word "held" there has no specific technical meaning. I think it is sufficient that the shares have been registered in the contributory's name at the period mentioned ... That plainly shows that the term "held" has no specific force, but shares are held by the person in whose name they are registered. ... In the High Court decision in Avon Downs Pty. Ltd. v. Federal Commissioner of Taxation (1949) 78 CLR 353; (1949) 9 ATD 5: (1949) 4 AITR 195, Dixon J quoted with approval from Chitty J's judgement.
+Subsequently, in Dalgety Downs Pastoral Co Pty. Ltd. v. Federal Commissioner of Taxation (1952) 86 CLR 335; (1952) 10 ATD 55; (1952) 5 AITR 386, the High Court (Webb, Fullagar and Kitto JJ) relevantly stated (at CLR 341-342): Dixon J. so held in Avon Downs Pty. Ltd. v. Federal Commissioner of Taxation (1949) 78 CLR 353, basing his conclusion upon the view that in the terminology of company law shares are said to be "held" by the person who is registered as a shareholder in respect thereof, and that s. 80(5), being concerned with voting power, should be treated as using that terminology. We share this view. Indeed it is not too much to say that the verb "hold" and its variants, when used in relation to shares in companies, normally refers to the legal ownership of the shares according to the register of members. The Companies Acts of the United Kingdom and of the several States of the Commonwealth have uniformly used the word in this sense, and common usage has followed their example. Before a different meaning is accepted, some justification must be found in the context, or the subject-matter. See also the High Court decision in Federal Commissioner of Taxation v. Patcorp Investments Limited (1976) 140 CLR 247; 76 ATC 4225; (1976) 6 ATR 420.
+Consistent with the above cases, the majority of the High Court in Federal Commissioner of Taxation v. Linter Textiles Australia Ltd. (in liq) (2005) 220 CLR 592; [2005] HCA 20; 2005 ATC 4255; (2005) 59 ATR 177 stated: 23. When used in relation to companies, "hold" normally refers to legal ownership established by reference to the register of members. ... 57. The 1964 Act replaced "beneficially held" with "beneficially owned" as the criterion for determining substantial continuity of shareholding and the 1973 Act continued that criterion. Given the outcome in Dalgety Downs, the change evidently was made to assist the taxpayer, by allowing the taxpayer to go beyond the face of the share register. The Commissioner considers that the ordinary meaning of the term 'holds' as outlined above does not lead to any absurdity or inconsistency within the context in which the term is used for present purposes. See also paragraphs 55-61 of Taxation Ruling TR 2004/7. Accordingly, the term 'holds' for present purposes refers to legal ownership established by reference to the register of members.
 The taxpayer was registered on Aus Co's register of members as a member in relation to all of the shares in Aus Co, including the 95% interest in respect of which the taxpayer entered into a contract of disposal in December 2007, until the completion of the contract for the disposal of this interest on 1 February 2008. Therefore, the taxpayer 'held' all of the shares in Aus Co, including the 95% interest to which CGT event A1 happened in December 2007, throughout the period from 15 December 2006 to 1 February 2008.
 Thus, the taxpayer held a 'direct control interest' and hence a 'direct participation interest' of 10% or more in Aus Co from 15 December 2006 to 1 February 2008. It follows that, in determining whether the 5% interest disposed of in September 2008 was an 'indirect Australian real property interest' at that time, the entire 100% interest held by the taxpayer in Aus Co passed the 'non-portfolio interest test' throughout a 12 month period that began no earlier than 24 months (that is, no earlier than September 2006) before September 2008 for the purposes of subparagraph 855-25(1)(a)(ii) of the ITAA 1997.
 This means that the taxpayer's remaining 5% interest in Aus Co was an 'indirect Australian real property interest', because this 5% interest passed the 'non-portfolio interest test' as set out in subparagraph 855-25(1)(a)(ii) of the ITAA 1997 as well as the principal asset test in section 855-30 of the ITAA 1997. As such, the taxpayer's 5% interest in Aus Co was 'taxable Australian property' at the time of its disposal in September 2008.
-Therefore, any capital gain or capital loss made by the taxpayer from the disposal of the 5% interest in Aus Co in September 2008
- cannot
- be disregarded under subsection 855-10(1) of the ITAA 1997.
+Therefore, any capital gain or capital loss made by the taxpayer from the disposal of the 5% interest in Aus Co in September 2008 cannot be disregarded under subsection 855-10(1) of the ITAA 1997.
 The taxpayer will have made a capital gain if the capital proceeds from the disposal of the shares in Aus Co were more than the cost base of the shares. Alternatively, the taxpayer will have made a capital loss if the capital proceeds from the disposal of the shares in Aus Co were less than the reduced cost base of the shares: subsection 104-10(4) of the ITAA 1997.
 The resulting capital gain or capital loss must be taken into account in working out the taxpayer's net capital gain or net capital loss for the income year in which the disposal of the 5% interest occurred.
-Date of decision:
-  31 March 2010
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-10   subsection 104-10(3)   subsection 104-10(4)   subsection 855-10(1)   section 855-15   section 855-25   subsection 855-25(1)   paragraph 855-25(1)(a)   subparagraph 855-25(1)(a)(ii)   paragraph 855-25(2)(a)   section 855-30   Subdivision 960-G   section 960-190   subsection 960-190(1)   subsection 960-190(2)   section 960-195
-Income Tax Assessment Act 1936   Part X   section 350   paragraph 350(1)(a)
-
-Case References:
-
-In Re Wala Wynaad Indian Gold Mining Company   (1882) 21 Ch D 849
-
-Avon Downs Pty Ltd v Federal Commissioner of Taxation   (1949) 78 CLR 353   (1949) 9 ATD 5   (1949) 4 AITR 195
-
-Dalgety Downs Pastoral Co Pty Ltd v Federal Commissioner of Taxation   (1952) 86 CLR 335   (1952) 10 ATD 55   (1952) 5 AITR 386
-
-Federal Commissioner of Taxation v Patcorp Investments Limited   (1976) 140 CLR 247   76 ATC 4225   (1976) 6 ATR 420
-
-Federal Commissioner of Taxation v Linter Textiles Australia Ltd (in liq)   (2005) 220 CLR 592   [2005] HCA 20   2005 ATC 4255   (2005) 59 ATR 177
-
-Related Public Rulings (including Determinations)
-
-TR 2004/7 - 'Income tax: capital gains: application of Division 149 of the Income Tax Assessment Act 1997 and Division 20 of Part IIIA of the Income Tax Assessment Act 1936 to public entities'
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/46
-
-Keywords
-
-Capital gains
- CGT
- Disposal of shares
- International tax
-
-Siebel/TDMS Reference Number:
-  6312340
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  16 April 2010
-
-ISSN:
- 1445 - 2782
+Date of decision: 31 March 2010 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 section 104-10 subsection 104-10(3) subsection 104-10(4) subsection 855-10(1) section 855-15 section 855-25 subsection 855-25(1) paragraph 855-25(1)(a) subparagraph 855-25(1)(a)(ii) paragraph 855-25(2)(a) section 855-30 Subdivision 960-G section 960-190 subsection 960-190(1) subsection 960-190(2) section 960-195
+Income Tax Assessment Act 1936 Part X section 350 paragraph 350(1)(a) Case References: In Re Wala Wynaad Indian Gold Mining Company (1882) 21 Ch D 849 Avon Downs Pty Ltd v Federal Commissioner of Taxation (1949) 78 CLR 353 (1949) 9 ATD 5 (1949) 4 AITR 195 Dalgety Downs Pastoral Co Pty Ltd v Federal Commissioner of Taxation (1952) 86 CLR 335 (1952) 10 ATD 55 (1952) 5 AITR 386 Federal Commissioner of Taxation v Patcorp Investments Limited (1976) 140 CLR 247 76 ATC 4225 (1976) 6 ATR 420 Federal Commissioner of Taxation v Linter Textiles Australia Ltd (in liq) (2005) 220 CLR 592 [2005] HCA 20 2005 ATC 4255 (2005) 59 ATR 177 Related Public Rulings (including Determinations) TR 2004/7 - 'Income tax: capital gains: application of Division 149 of the Income Tax Assessment Act 1997 and Division 20 of Part IIIA of the Income Tax Assessment Act 1936 to public entities' Related ATO Interpretative Decisions ATO ID 2008/46 Keywords Capital gains CGT Disposal of shares International tax Siebel/TDMS Reference Number: 6312340 Business Line: Public Groups and International Date of publication: 16 April 2010 ISSN: 1445 - 2782

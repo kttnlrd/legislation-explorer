@@ -1,128 +1,32 @@
 ATO Interpretative Decision
 ATO ID 2006/97
-==================================================
-
-Income tax
- Consolidation: income and deductions - restructure of membership interests supporting components of life insurance business
- FOI status: may be released
-
-The terms 'virtual PST', 'virtual PST asset' and 'virtual PST life insurance policy' were repealed by First Home Saver Accounts (Consequential Amendment) Act 2008, effective 26 June 2008. They were replaced by the terms 'complying superannuation/FSHA asset pool' 'complying superannuation/FSHA asset' and 'complying superannuation/FSHA life insurance policy' respectively. From this date, references to 'virtual PST life insurance policy liabilities' in the following document can also be replaced with the term 'complying superannuation/FSHA liabilities'.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Consolidation: income and deductions - restructure of membership interests supporting components of life insurance business FOI status: may be released The terms 'virtual PST', 'virtual PST asset' and 'virtual PST life insurance policy' were repealed by First Home Saver Accounts (Consequential Amendment) Act 2008, effective 26 June 2008. They were replaced by the terms 'complying superannuation/FSHA asset pool' 'complying superannuation/FSHA asset' and 'complying superannuation/FSHA life insurance policy' respectively. From this date, references to 'virtual PST life insurance policy liabilities' in the following document can also be replaced with the term 'complying superannuation/FSHA liabilities'. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 The head company of a consolidated group is treated as a life insurance company. The consolidated group includes two subsidiary members that are unit trusts. The first unit trust is held under the virtual PST of the head company. The underlying assets of this unit trust are segregated to support virtual PST life insurance policy liabilities. The underlying assets of the second unit trust are not segregated and form part of the ordinary assets of the head company. That unit trust can be said to be held under the 'ordinary component' of the head company.
 Each trust will issue an additional unit to the other component of the head company's life insurance business resulting in each trust ceasing to be a subsidiary member of the consolidated group.
-When these unit trusts cease to be subsidiary members of the consolidated group and the units are recognised for income tax purposes:
-
-(a)Will there be any taxable capital gains or losses under either CGT event A1, Division 320 of the Income Tax Assessment Act 1997 (ITAA 1997) or on application of any other CGT event arising from the disposal of the underlying assets by the head company as a result of the unit trusts leaving the consolidated group?
-(b)Will the head company derive any assessable income, or incur any deductible losses or outgoings (under ordinary concepts) in respect of the underlying assets as a result of the unit trusts leaving the consolidated group?
-
-Decision
-
-(a) No. There will not be any taxable capital gains or losses (under either CGT event A1, Division 320 or on application of any other CGT event) arising from the disposal of the underlying assets by the head company as a result of the unit trusts leaving the consolidated group.
-(b) No. The head company will not derive any assessable income, or incur any deductible losses or outgoings (under ordinary concepts), in respect of the underlying assets as a result of the unit trusts leaving the consolidated group.
-
-Facts
+When these unit trusts cease to be subsidiary members of the consolidated group and the units are recognised for income tax purposes: (a)Will there be any taxable capital gains or losses under either CGT event A1, Division 320 of the Income Tax Assessment Act 1997 (ITAA 1997) or on application of any other CGT event arising from the disposal of the underlying assets by the head company as a result of the unit trusts leaving the consolidated group?
+(b)Will the head company derive any assessable income, or incur any deductible losses or outgoings (under ordinary concepts) in respect of the underlying assets as a result of the unit trusts leaving the consolidated group? Decision (a) No. There will not be any taxable capital gains or losses (under either CGT event A1, Division 320 or on application of any other CGT event) arising from the disposal of the underlying assets by the head company as a result of the unit trusts leaving the consolidated group.
+(b) No. The head company will not derive any assessable income, or incur any deductible losses or outgoings (under ordinary concepts), in respect of the underlying assets as a result of the unit trusts leaving the consolidated group. Facts
 Head Co is the head company of a consolidated group. Under section 713-505 of the ITAA 1997, Head Co is treated as a life insurance company for the purposes of applying the income tax law.
-Investment policies are issued to trustees of superannuation funds and to ordinary (non-superannuation) policyholders. The assets supporting these policies are held through two subsidiary member unit trusts:
-
-•Trust V is held under the virtual PST. In accordance with Division 320 of the ITAA 1997, the underlying assets of this unit trust are segregated to support virtual PST life insurance policy liabilities, and
-•Trust O is held under the 'ordinary component'. The underlying assets of this unit trust are not segregated and form part of the ordinary assets of Head Co's life insurance business.
-
-It is proposed to issue an additional unit from each unit trust to other 'components' of Head Co for market value, namely:
-
-•One unit will be issued by Trust V to the 'ordinary component' of Head Co;
-•One unit will be issued by Trust O to the virtual PST of Head Co.
-
-Therefore, in accordance with subsection 713-510(2) of the ITAA 1997, Trust V and Trust O will cease to be subsidiary members of the consolidated group.
+Investment policies are issued to trustees of superannuation funds and to ordinary (non-superannuation) policyholders. The assets supporting these policies are held through two subsidiary member unit trusts: •Trust V is held under the virtual PST. In accordance with Division 320 of the ITAA 1997, the underlying assets of this unit trust are segregated to support virtual PST life insurance policy liabilities, and
+•Trust O is held under the 'ordinary component'. The underlying assets of this unit trust are not segregated and form part of the ordinary assets of Head Co's life insurance business. It is proposed to issue an additional unit from each unit trust to other 'components' of Head Co for market value, namely: •One unit will be issued by Trust V to the 'ordinary component' of Head Co;
+•One unit will be issued by Trust O to the virtual PST of Head Co. Therefore, in accordance with subsection 713-510(2) of the ITAA 1997, Trust V and Trust O will cease to be subsidiary members of the consolidated group.
 Reasons for Decision
-Section 6-1 of the ITAA 1997 provides that assessable income consists of:
-
-•Ordinary income, being income according to ordinary concepts (see section 6-5 of the ITAA 1997); and
-•Statutory income, being amounts included in assessable income by a specific provision of the Act (see section 6-10 of the ITAA 1997).
-
-CGT event A1
-
-Under subsection 104-10(1) of the ITAA 1997, CGT event A1 happens if you dispose of a CGT asset.
-Subsection 104-10(2) of the ITAA 1997 provides that:
-
-You dispose of a *CGT asset if a change of ownership occurs from you to another entity, whether because of some act or event or by operation of law...
-
-* denotes a term defined in section 995-1 of the ITAA 1997.
-
-When the unit trusts cease to be members of the consolidated group, the respective tax cost setting amounts for the group's membership interests in the unit trusts will be set by section 701-15 of the ITAA 1997.
+Section 6-1 of the ITAA 1997 provides that assessable income consists of: •Ordinary income, being income according to ordinary concepts (see section 6-5 of the ITAA 1997); and
+•Statutory income, being amounts included in assessable income by a specific provision of the Act (see section 6-10 of the ITAA 1997). CGT event A1 Under subsection 104-10(1) of the ITAA 1997, CGT event A1 happens if you dispose of a CGT asset.
+Subsection 104-10(2) of the ITAA 1997 provides that: You dispose of a *CGT asset if a change of ownership occurs from you to another entity, whether because of some act or event or by operation of law... * denotes a term defined in section 995-1 of the ITAA 1997. When the unit trusts cease to be members of the consolidated group, the respective tax cost setting amounts for the group's membership interests in the unit trusts will be set by section 701-15 of the ITAA 1997.
 This cost setting process does not set the tax costs of the underlying assets of a leaving entity but rather is a mechanism used to set the tax costs of membership interests in a leaving entity.
 Therefore, any unrealised gains or losses on the underlying assets of the unit trusts that exit the consolidated group will be reflected in any realised gains or losses on the future disposal of the membership interests (being the units in the unit trusts).
 The exit of the unit trusts from the consolidated group will not cause a change in ownership of the underlying assets of those unit trusts. Although the unit trusts will cease to be members of the consolidated group, the head company will continue to hold all the units in those trusts and will therefore continue to have a beneficial interest in the underlying assets of the unit trusts.
 CGT event A1 will only happen where there is a change in the ownership of the units in the unit trusts from a member of the consolidated group to another entity or person outside the group.
-No other CGT events apply in respect of the unit trusts ceasing to be subsidiary members of the consolidated group.
-
-Division 320 of the ITAA 1997
-
-Among other things, Subdivision 713-L of the ITAA 1997 sets out special rules for the head company of a consolidated group where a life insurance company is a subsidiary member of the group. In particular, section 713-505 treats the head company as a life insurance company. It states:
-
-This Act, and the Income Tax Rates Act 1986, apply to the head company of a consolidated group as if it were a life insurance company for an income year if one or more life insurance companies are subsidiary members of the group at any time during that year.
-
-This rule ensures that the special provisions in the income tax law (such as Division 320 of the ITAA 1997) that apply to life insurance companies will continue to apply to the consolidated group. (see paragraph 1.10 of Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No. 2) 2002)
+No other CGT events apply in respect of the unit trusts ceasing to be subsidiary members of the consolidated group. Division 320 of the ITAA 1997 Among other things, Subdivision 713-L of the ITAA 1997 sets out special rules for the head company of a consolidated group where a life insurance company is a subsidiary member of the group. In particular, section 713-505 treats the head company as a life insurance company. It states: This Act, and the Income Tax Rates Act 1986, apply to the head company of a consolidated group as if it were a life insurance company for an income year if one or more life insurance companies are subsidiary members of the group at any time during that year. This rule ensures that the special provisions in the income tax law (such as Division 320 of the ITAA 1997) that apply to life insurance companies will continue to apply to the consolidated group. (see paragraph 1.10 of Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No. 2) 2002)
 Section 320-15 of the ITAA 1997 specifically includes additional amounts in the assessable income of life insurance companies. Additionally, Subdivision 320-C specifies particular deductions that are available to a life insurance company.
 The exit of the unit trusts from the consolidated group and the recognition of the units for tax purposes, will not give rise to additional amounts (in respect of the underlying assets) being included in the assessable income of the head company by virtue of section 320-15 of the ITAA 1997.
 Similarly, the exit of the unit trusts will not give rise to particular deductions, in respect of the underlying assets, being available to the head company by virtue of Subdivision 320-C of the ITAA 1997.
 Despite the exit of the unit trusts from the consolidated group, the units in the trusts and any underlying assets held according to the terms of the trusts will continue to be beneficially owned by the head company.
 Whilst the exit of unit trusts from the consolidated group will not directly result in the production of assessable income or deductible losses or outgoings under Division 320 of the ITAA 1997, there may be Division 320 consequences arising under section 320-180 of the ITAA 1997 because of a valuation of virtual PST assets and virtual PST liabilities under section 320-175 of the ITAA 1997.
-The exit of the unit trusts will mean that the single entity rule under section 701-1 of the ITAA 1997 will no longer apply to those unit trusts. The membership interests in those unit trusts will be recognised for income tax purposes. Consequently, for the purposes of Division 320 and segregation of assets, the virtual PST assets of the head company will include the membership interests (being units) in the unit trusts.
-
-Assessable income and deductions according to ordinary concepts
-
-Under subsection 6-5(1) of the ITAA 1997, your assessable income includes income according to ordinary concepts, which is called ordinary income.
-In accordance with subsection 6-5(2) of the ITAA 1997:
-
-If you are an Australian resident, your assessable income includes the *ordinary income you derived directly or indirectly from all sources, whether or not in or out of Australia, during the income year.
-
-Subsection 8-1(1) of the ITAA 1997 provides that:
-
-You can deduct from your assessable income any loss or outgoing to the extent that:
-
-(a)it is incurred in gaining or producing your assessable income; or
-(b)it is necessarily incurred in carrying on a *business for the purpose of gaining or producing your assessable income.
-
-The exit of the unit trusts from the consolidated group will not produce any income assessable under subsection 6-5(1) of the ITAA 1997, nor will it produce any loss or outgoing deductible under subsection 8-1(1) in respect of the underlying assets.
+The exit of the unit trusts will mean that the single entity rule under section 701-1 of the ITAA 1997 will no longer apply to those unit trusts. The membership interests in those unit trusts will be recognised for income tax purposes. Consequently, for the purposes of Division 320 and segregation of assets, the virtual PST assets of the head company will include the membership interests (being units) in the unit trusts. Assessable income and deductions according to ordinary concepts Under subsection 6-5(1) of the ITAA 1997, your assessable income includes income according to ordinary concepts, which is called ordinary income.
+In accordance with subsection 6-5(2) of the ITAA 1997: If you are an Australian resident, your assessable income includes the *ordinary income you derived directly or indirectly from all sources, whether or not in or out of Australia, during the income year. Subsection 8-1(1) of the ITAA 1997 provides that: You can deduct from your assessable income any loss or outgoing to the extent that: (a)it is incurred in gaining or producing your assessable income; or
+(b)it is necessarily incurred in carrying on a *business for the purpose of gaining or producing your assessable income. The exit of the unit trusts from the consolidated group will not produce any income assessable under subsection 6-5(1) of the ITAA 1997, nor will it produce any loss or outgoing deductible under subsection 8-1(1) in respect of the underlying assets.
 Although the unit trusts will cease to be subsidiary members of the consolidated group, the units in the trusts and the underlying assets held according to the terms of the trusts will continue to be beneficially owned by the head company.
-Date of decision:
-  30 March 2006
-
-Year of income:
-  Year ended 30 June 2006 Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 701-1   Subdivision 713-L   section 713-505   subsection 713-510(2)   subsection 104-10(1)   subsection 104-10(2)   section 701-15   section 713-510   section 6-1   section 6-10   section 6-5   section 713-505   Division 320   Subdivision 320-C   section 320-15   section 320-175   section 320-180   subsection 6-5(1)   subsection 6-5(2)   subsection 8-1(1)
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No. 2) 2002
-
-Keywords
-
-CGT event A1-disposal of a CGT asset
- Consolidation
- Cost setting rules
- Life insurance company
- Virtual pooled superannuation trusts
- Complying superannuation funds
-
-Siebel/TDMS Reference Number:
-  4965171
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 April 2006
-
-ISSN:
- 1445-2782
+Date of decision: 30 March 2006 Year of income: Year ended 30 June 2006 Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1997 section 701-1 Subdivision 713-L section 713-505 subsection 713-510(2) subsection 104-10(1) subsection 104-10(2) section 701-15 section 713-510 section 6-1 section 6-10 section 6-5 section 713-505 Division 320 Subdivision 320-C section 320-15 section 320-175 section 320-180 subsection 6-5(1) subsection 6-5(2) subsection 8-1(1) Other References: Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No. 2) 2002 Keywords CGT event A1-disposal of a CGT asset Consolidation Cost setting rules Life insurance company Virtual pooled superannuation trusts Complying superannuation funds Siebel/TDMS Reference Number: 4965171 Business Line: Public Groups and International Date of publication: 7 April 2006 ISSN: 1445-2782

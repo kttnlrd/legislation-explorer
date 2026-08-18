@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/13
-==================================================
-
-Goods and Services Tax
- Amount of input tax credits relating to employee reimbursements
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax Amount of input tax credits relating to employee reimbursements FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity entitled, under section 111-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), to an amount of input tax credit (ITC) equal to 1/11 of the amount of reimbursement the entity makes to an employee if the reimbursement is consideration for a partly creditable acquisition?
 Decision
 No. The amount of the ITC for a creditable acquisition under section 111-10 of the GST Act is reduced under section 11-30 of the GST Act if the acquisition is partly creditable.
@@ -23,56 +12,11 @@ The reimbursement satisfies subsection 111-5(1) of the GST Act and is taken to b
 The acquisition taken to have been made by the entity is not precluded from being a creditable acquisition under subsection 111-5(3) of the GST Act.
 The entity's acquisition is only partly for a creditable purpose under section 11-15 of the GST Act as the acquisition partly relates to the making of input taxed supplies by the entity.
 Reasons for Decision
-Section 111-10 of the GST Act sets out how an amount of ITC is worked out for a creditable acquisition if the consideration for the acquisition is a reimbursement to which section 111-5 of the GST Act applies:
-
-•subsection 111-10(1) provides that the amount of the ITC is 1/11 of the reimbursement;
+Section 111-10 of the GST Act sets out how an amount of ITC is worked out for a creditable acquisition if the consideration for the acquisition is a reimbursement to which section 111-5 of the GST Act applies: •subsection 111-10(1) provides that the amount of the ITC is 1/11 of the reimbursement;
 •subsection 111-10(2) provides for a reduction of that amount of the ITC in certain situations which are not applicable in this case; and
-•subsection 111-10(3) provides that section 111-10 has effect despite section 11-25 of the GST Act.
-
-On the other hand, section 11-30 of the GST Act sets out how an amount of ITC is worked out for an acquisition that is partly creditable. Paragraph 11-30(1)(a) of the GST Act provides that an acquisition is partly creditable if it is made only partly for a 'creditable purpose' as defined in section 11-15 of the GST Act. This definition of 'creditable purpose' is not overridden by Division 111 of the GST Act. Therefore, to the extent that the acquisition for the reimbursement relates to making input taxed supplies, the acquisition is not creditable.
+•subsection 111-10(3) provides that section 111-10 has effect despite section 11-25 of the GST Act. On the other hand, section 11-30 of the GST Act sets out how an amount of ITC is worked out for an acquisition that is partly creditable. Paragraph 11-30(1)(a) of the GST Act provides that an acquisition is partly creditable if it is made only partly for a 'creditable purpose' as defined in section 11-15 of the GST Act. This definition of 'creditable purpose' is not overridden by Division 111 of the GST Act. Therefore, to the extent that the acquisition for the reimbursement relates to making input taxed supplies, the acquisition is not creditable.
 While section 111-10 of the GST Act has effect despite section 11-25 of the GST Act, there is nothing in the GST Act that provides that that section overrides section 11-30 of the GST Act. Therefore, an amount of ITC worked out under subsection 111-10(1) would be subject to the reduction provided by subsection 11-30(3) of the GST Act if the acquisition is partly creditable.
-If an acquisition is partly creditable under paragraph 11-30(1)(a) of the GST Act, subsection 11-30(3) of the GST Act relevantly provides that the amount of the ITC is worked out as:
-
-'full input tax credit' x 'extent of creditable purpose'
-
-Subsection 11-30(3) of the GST Act defines 'full input tax credit' and 'extent of creditable purpose' as follows:
-
-full input tax credit
- is what would have been the amount of the input tax credit for the acquisition if it had been made solely for a creditable purpose and you had provided, or had been liable to provide, all of the consideration for the acquisition
-
-extent of creditable purpose
- is the extent to which the creditable acquisition is for a creditable purpose, expressed as a percentage of the total purpose of the acquisition
-
-In this case, for the purposes of subsection 11-30(3) of the GST Act, the 'full input tax credit' is the amount of the ITC worked out under subsection 111-10(1) of the GST Act. Subsection 11-25 of the GST Act does not apply here.
+If an acquisition is partly creditable under paragraph 11-30(1)(a) of the GST Act, subsection 11-30(3) of the GST Act relevantly provides that the amount of the ITC is worked out as: 'full input tax credit' x 'extent of creditable purpose' Subsection 11-30(3) of the GST Act defines 'full input tax credit' and 'extent of creditable purpose' as follows: full input tax credit is what would have been the amount of the input tax credit for the acquisition if it had been made solely for a creditable purpose and you had provided, or had been liable to provide, all of the consideration for the acquisition extent of creditable purpose is the extent to which the creditable acquisition is for a creditable purpose, expressed as a percentage of the total purpose of the acquisition In this case, for the purposes of subsection 11-30(3) of the GST Act, the 'full input tax credit' is the amount of the ITC worked out under subsection 111-10(1) of the GST Act. Subsection 11-25 of the GST Act does not apply here.
 Goods and Services Tax Ruling GSTR 2006/4 determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose provides the Commissioner's view on the meaning of the phrase 'extent of creditable purpose'. Goods and Services Tax Ruling GSTR 2006/3 determining the extent of creditable purpose for providers of financial supplies explains the meaning of that phrase as it applies to providers of financial supplies.
-Date of decision:
-  8 March 2013
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 11-5   section 11-15   section 11-25   section 11-30   subsection 11-30(3)   paragraph 11-30(1)(a)   Division 111   section 111-5   subsection 111-5(1)   subsection 111-5(2)   subsection 111-5(3)   section 111-10   subsection 111-10(1)   subsection 111-10(2)   subsection 111-10(3)   Division 189
-
-Related Public Rulings (including Determinations)
-
-GSTR 2006/3
-GSTR 2006/4
-
-Keywords
-
-Goods and services tax
- Input tax credits
- Creditable acquisition
- GST financial supplies
- Creditable purpose
-
-Siebel/TDMS Reference Number:
-  1-4GYQPWL
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  15 March 2013
-
-ISSN:
- 1445-2782
+Date of decision: 8 March 2013 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 11-5 section 11-15 section 11-25 section 11-30 subsection 11-30(3) paragraph 11-30(1)(a) Division 111 section 111-5 subsection 111-5(1) subsection 111-5(2) subsection 111-5(3) section 111-10 subsection 111-10(1) subsection 111-10(2) subsection 111-10(3) Division 189 Related Public Rulings (including Determinations) GSTR 2006/3
+GSTR 2006/4 Keywords Goods and services tax Input tax credits Creditable acquisition GST financial supplies Creditable purpose Siebel/TDMS Reference Number: 1-4GYQPWL Business Line: Indirect Tax Date of publication: 15 March 2013 ISSN: 1445-2782

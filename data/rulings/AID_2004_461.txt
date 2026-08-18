@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/461
-==================================================
-
-Income Tax
- Div 7A: Court orders under the Family Law Act 1975
- FOI status: may be released
-
-This ATO ID is withdrawn as the issue is now covered by Taxation Ruling TR 2014/5, which issued on 30 July 2014.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Div 7A: Court orders under the Family Law Act 1975 FOI status: may be released This ATO ID is withdrawn as the issue is now covered by Taxation Ruling TR 2014/5, which issued on 30 July 2014. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a private company taken under subsection 109C(1) of the Income Tax Assessment Act 1936 (ITAA 1936) to have paid a dividend to a shareholder's spouse in relation to a transfer of property made by the private company to the shareholder's spouse because of a court order under section 79 of Part VIII of the Family Law Act 1975 (FLA 1975)?
 Decision
 Yes. A private company is taken under subsection 109C(1) of the ITAA 1936 to have paid a dividend to a shareholder's spouse in relation to a transfer of property made by the private company to the shareholder's spouse because of a court order under section 79 of Part VIII of the FLA 1975 .
@@ -29,12 +14,8 @@ Pursuant to a court order under section 79 of Part VIII of the FLA 1975 made as 
 The amount that would have been paid for the transfer by parties dealing at arm's length is $500,000. No consideration is given by the taxpayer for the transfer.
 None of the exclusions provided for in Subdivision D of Division 7A of Part III of the ITAA 1936 apply.
 Reasons for Decision
-Subsection 109C(1) of the ITAA 1936 provides that a private company is taken to pay a dividend to an entity if the private company pays an amount to the entity during the income year and:
-
-•the entity is a shareholder or associate of a shareholder in the company at the time of the payment, or
-•a reasonable person would conclude that the payment was made because the entity has been a shareholder or associate at some time.
-
-By virtue of section 109ZD of the ITAA 1936 'associate' for the purposes of Division 7A of Part III of the ITAA 1936 has the meaning given by section 318 of the ITAA 1936. Under paragraph 318(1)(a) of the ITAA 1936 an associate of a natural person includes a relative of the natural person. Paragraph (b) of the definition of 'relative' found in subsection 6(1) of the ITAA 1936 includes the spouse of that person.
+Subsection 109C(1) of the ITAA 1936 provides that a private company is taken to pay a dividend to an entity if the private company pays an amount to the entity during the income year and: •the entity is a shareholder or associate of a shareholder in the company at the time of the payment, or
+•a reasonable person would conclude that the payment was made because the entity has been a shareholder or associate at some time. By virtue of section 109ZD of the ITAA 1936 'associate' for the purposes of Division 7A of Part III of the ITAA 1936 has the meaning given by section 318 of the ITAA 1936. Under paragraph 318(1)(a) of the ITAA 1936 an associate of a natural person includes a relative of the natural person. Paragraph (b) of the definition of 'relative' found in subsection 6(1) of the ITAA 1936 includes the spouse of that person.
 Under the definition of 'spouse' in subsection 6(1) of the ITAA 1936 a 'spouse' in relation to a person includes another person who, although not legally married to the person, lives with the person on a bona fide domestic basis as the husband or wife of the person.
 Subsection 109C(2) of the ITAA 1936 provides that the amount of the dividend is the amount paid, subject to the private company's distributable surplus calculated under section 109Y of the ITAA 1936.
 By virtue of paragraph 109C(3)(c) of the ITAA 1936 the definition of 'payment' in subsection 109C(3) of the ITAA 1936 includes a transfer of property to the entity.
@@ -45,52 +26,8 @@ Therefore the private company's transfer of property to the taxpayer is a paymen
 The amount of the payment by virtue of subsection 109C(4) of the ITAA 1936 is $500,000 as this is the amount that would have been paid for the transfer by parties dealing at arm's length.
 Therefore subsection 109C(1) of the ITAA 1936 applies to treat the $500,000 payment as a dividend, subject to the private company's distributable surplus in the income year.
 Note : If at the time of the private company's transfer of property, E and the taxpayer were no longer associates, subsection 109C(1) of the ITAA 36 would still apply where a reasonable person would conclude the payment was made because the entity (that is, the taxpayer) had been an associate at some time.
-Date of decision:
-  14 May 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 7A   Subdivision D   subsection 6(1)   section 109C   subsection 109C(1)   subsection 109C(2)   subsection 109C(3)   paragraph 109C(3)(c)   subsection 109C(4)   section 109Y   section 109ZD   paragraph 318(1)(a)
-Family Law Act 1975   section 79
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/256
- ATO ID 2004/462
-
-Keywords
-
-Deemed dividends
- Private companies
- Shareholder payments
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  4 June 2004
-
-Date reviewed:
-  16 May 2014
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 May 2004
-Original statement
-
-You are here
+Date of decision: 14 May 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Division 7A Subdivision D subsection 6(1) section 109C subsection 109C(1) subsection 109C(2) subsection 109C(3) paragraph 109C(3)(c) subsection 109C(4) section 109Y section 109ZD paragraph 318(1)(a)
+Family Law Act 1975 section 79 Related ATO Interpretative Decisions ATO ID 2003/256 ATO ID 2004/462 Keywords Deemed dividends Private companies Shareholder payments Business Line: Private Groups and High Wealth Individuals Date of publication: 4 June 2004 Date reviewed: 16 May 2014 ISSN: 1445-2782 history Date: Version: 14 May 2004
+Original statement You are here
 11 April 2017
 Archived

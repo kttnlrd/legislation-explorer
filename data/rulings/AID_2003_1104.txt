@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1104
-==================================================
-
-Income Tax
- Exempting entities: 'accountable membership interests'
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Exempting entities: 'accountable membership interests' FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are C Class shares which are beneficially owned by a resident company but subject to a call option which has been exercised by a non-resident company 'accountable membership interests' within the meaning of subsection 208-30(2) of the Income Tax Assessment Act 1997 (ITAA 1997) for the purposes of Division 208 of the ITAA 1997?
 Decision
 No. The C Class Shares are not accountable membership interests within the meaning of subsection 208-30(2) of the ITAA 1997 because they are excluded membership interests under subsection 208-30(3) of the ITAA 1997 due to the exercise of the call option.
@@ -33,36 +22,4 @@ In other words, an interest is excluded if, upon weighing the factors listed in 
 The risks and opportunities that ordinarily arise from share ownership are those that expose the holder of the interest to the performance of the company. Some of the indicia of share ownership include that the holder has a right to dividends in the event the company is profitable and the directors declare them, the holder has voting rights in proportion with his or her interest in the company and that the value of the shares broadly track the performance of the company (that is, the holder is exposed to capital risk).
 In this case the effect of the contract of sale and call option is that the C Class Shares do not involve either Australian Purchaser or Non-resident bearing the risks or accruing the opportunities of ownership of the Entity that ordinarily attach to share ownership. Although Non-resident is exposed to the capital risk attaching to the interest, it does not benefit from the voting or dividend rights for five years. Similarly, Australian Purchaser does not participate to the same extent in the risks and opportunities of share ownership because the capital risk is borne by Non-resident. Australian Purchaser's capital investment in the Entity is effectively protected by the call option.
 Therefore, the C Class Shares are excluded membership/partial interests within the meaning of subsections 208-30(3) and 208-35(3) of the ITAA 1997 and therefore not accountable membership/partial interests for the purposes of Division 208 of the ITAA 1997.
-Date of decision:
-  1 December 2003
-
-Year of income:
-  Year ended 30 September 2002 Year ended 30 September 2003 Year ended 30 September 2004 Year ending 30 September 2005 Year ending 30 September 2006 Year ending 30 September 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 208   subsection 208-30(2)   subsection 208-30(3)   subsection 208-25(1)   subsection 208-35(2)   subsection 208-35(3)
-
-Case References:
-
-Chang v. Registrar of Titles    (1976) 137 CLR 177
-
-Keywords
-
-Company tax
- Franking accounts
- Franking credits
- Imputation system
- Call option
-
-Siebel/TDMS Reference Number:
-  3167122
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 December 2003
-
-ISSN:
- 1445-2782
+Date of decision: 1 December 2003 Year of income: Year ended 30 September 2002 Year ended 30 September 2003 Year ended 30 September 2004 Year ending 30 September 2005 Year ending 30 September 2006 Year ending 30 September 2007 Legislative References: Income Tax Assessment Act 1997 Division 208 subsection 208-30(2) subsection 208-30(3) subsection 208-25(1) subsection 208-35(2) subsection 208-35(3) Case References: Chang v. Registrar of Titles (1976) 137 CLR 177 Keywords Company tax Franking accounts Franking credits Imputation system Call option Siebel/TDMS Reference Number: 3167122 Business Line: Public Groups and International Date of publication: 12 December 2003 ISSN: 1445-2782

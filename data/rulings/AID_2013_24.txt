@@ -1,21 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/24
-==================================================
-
-Goods and Services Tax
- GST and increasing adjustments for unredeemed vouchers
-
-This ATO ID is withdrawn, as it is no longer necessary. The issue addressed in the ATO ID is covered by GSTR 2003/5 Goods and Services Tax: Vouchers
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and increasing adjustments for unredeemed vouchers This ATO ID is withdrawn, as it is no longer necessary. The issue addressed in the ATO ID is covered by GSTR 2003/5 Goods and Services Tax: Vouchers This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entity have an increasing adjustment under section 100-15 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) where it writes back to current income the unredeemed stated monetary value of expired gift vouchers, which could otherwise have been redeemed for GST-free supplies?
 Decision
 Yes, the entity has an increasing adjustment under section 100-15 of the GST Act where it writes back to current income the unredeemed stated monetary value of expired gift vouchers which could otherwise have been redeemed for GST-free supplies.
@@ -29,78 +15,23 @@ In accordance with the relevant accounting standards, the entity periodically wr
 The entity has historical records to show the extent to which vouchers were redeemed for GST-free supplies in a certain period.
 Reasons for Decision
 Under section 100-15 of the GST Act, an entity will have an increasing adjustment when the conditions set out in that section are met.
-The Commissioner's view on the application of section 100-15 of the GST Act is set out at paragraph 121 of Goods and Services Tax Ruling GSTR 2003/5. It states that the provision applies where:
-
-(a)a voucher was supplied for consideration;
+The Commissioner's view on the application of section 100-15 of the GST Act is set out at paragraph 121 of Goods and Services Tax Ruling GSTR 2003/5. It states that the provision applies where: (a)a voucher was supplied for consideration;
 (b)the voucher was a Face Value Voucher (FVV);
 (c)the voucher has not been fully redeemed; and
-(d)the supplier of the voucher writes back, for accounting purposes, to current income any reserves for the redemption of the voucher.
-
-In the present case, it is clear that the requirements in (a), (c) and (d) are satisfied. The issue remains whether the voucher is a FVV.
+(d)the supplier of the voucher writes back, for accounting purposes, to current income any reserves for the redemption of the voucher. In the present case, it is clear that the requirements in (a), (c) and (d) are satisfied. The issue remains whether the voucher is a FVV.
 For the voucher to be a FVV, it must satisfy the definition of voucher in section 100-25 of the GST Act and meet the further requirements in section 100-5.
 As the voucher is one that satisfies the definition of voucher in section 100-25 of the GST Act, it will be a FVV if it meets the requirements in section 100-5.
-Paragraph 56 of GSTR 2003/5 sets out the requirements of section 100-5 as follows:
-
-(i)the supply of the voucher would otherwise be a taxable supply;
+Paragraph 56 of GSTR 2003/5 sets out the requirements of section 100-5 as follows: (i)the supply of the voucher would otherwise be a taxable supply;
 (ii)the holder is entitled to supplies up to the monetary value of the voucher;
 (iii)the monetary value is stated on or incorporated in the voucher; and
-(iv)the voucher provides a reasonable choice and flexibility of supplies.
-
-As the relevant voucher meets the requirements set out in ii, iii, and iv above, it is necessary to consider whether the supply of the voucher would otherwise be a taxable supply for determining if the voucher is a FVV.
+(iv)the voucher provides a reasonable choice and flexibility of supplies. As the relevant voucher meets the requirements set out in ii, iii, and iv above, it is necessary to consider whether the supply of the voucher would otherwise be a taxable supply for determining if the voucher is a FVV.
 Relevantly, the supply of the voucher by the entity will be a taxable supply under section 9-5 of the GST Act unless it is GST-free or input taxed. The input tax aspect is irrelevant in the current case.
-Subsection 9-30(1) of the GST Act provides that a supply is GST-free if:
-
-(a)it is GST-free under Division 38 or under a provision of another Act; or
-(b)it is a supply of a right to receive a supply that would be GST-free under paragraph (a).
-
-The supply of the voucher is not GST-free under Division 38 of the GST Act or a provision of another Act.
+Subsection 9-30(1) of the GST Act provides that a supply is GST-free if: (a)it is GST-free under Division 38 or under a provision of another Act; or
+(b)it is a supply of a right to receive a supply that would be GST-free under paragraph (a). The supply of the voucher is not GST-free under Division 38 of the GST Act or a provision of another Act.
 It is considered that the voucher is a supply of a right to receive supplies in the future. In the present case, the voucher supplied by the entity entitles the holder to receive supplies of goods and services that could be taxable or GST-free. That is, the supply of the voucher is a supply of a right to receive supplies, the GST status of which is unknown. As such, paragraph 9-30(1)(b) of the GST Act is not satisfied and subsequently the supply of the voucher will otherwise be a taxable supply.
 Since the supply of the voucher is otherwise a taxable supply, it is a FVV for the purposes of Division 100 of the GST Act as all other requirements in section 100-5 are met.
 Accordingly, the supply of the vouchers is subject to the special rules in Division 100 of the GST Act, including the rules in section 100-15. As the requirements of this provision are met, the entity will have an increasing adjustment where it writes back to current income the reserve for the redemption of the unredeemed stated monetary value of the expired vouchers. The amount of the increasing adjustment is 1/11 of the unredeemed stated monetary value of the expired vouchers.
 This remains so even where historical data shows that some of these unredeemed vouchers could have been redeemed for GST-free supplies had they been redeemed for supplies. That is, once a voucher is a FVV and subject to the special rules in Division 100 of the GST Act, the existence and amount of the increasing adjustment for the purposes of section 100-15 of the GST Act does not have regard to whether the FVV could have been redeemed for GST-free supplies to any extent.
-Date of decision:
-  1 May 2013
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 9-30(1)   paragraph 9-30(1)(b)   Division 38   Division 100   section 100-5   section 100-15   section 100-25   subsection 100-25(1)
-
-Related Public Rulings (including Determinations)
-
-GSTR 2003/5
-
-Keywords
-
-goods and services tax
- GST special rules
- vouchers
- redemption of vouchers
- increasing adjustment
-
-Siebel/TDMS Reference Number:
-  1-4LMPMRB
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  1 May 2013
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 1 May 2013
-Original statement
-
-You are here
- 5 May 2022
+Date of decision: 1 May 2013 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 9-30(1) paragraph 9-30(1)(b) Division 38 Division 100 section 100-5 section 100-15 section 100-25 subsection 100-25(1) Related Public Rulings (including Determinations) GSTR 2003/5 Keywords goods and services tax GST special rules vouchers redemption of vouchers increasing adjustment Siebel/TDMS Reference Number: 1-4LMPMRB Business Line: Indirect Tax Date of publication: 1 May 2013 ISSN: 1445-2782 history Date: Version: 1 May 2013
+Original statement You are here 5 May 2022
 Archived

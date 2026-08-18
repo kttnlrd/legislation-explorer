@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/780
-==================================================
-
-Income Tax
- Deferred capital loss or deduction: whether deduction in respect of novation of a financial instrument is to be disregarded
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deferred capital loss or deduction: whether deduction in respect of novation of a financial instrument is to be disregarded FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a company incurs a deduction in respect of the novation of a financial instrument to another entity that is a member of the same 'linked group', is the deduction to be disregarded under section 170-270 of Subdivision 170-D of the Income Tax Assessment Act 1997?
 Decision
 No. As the novation of the financial instrument does not constitute the disposal of a CGT asset under subparagraph 170-255(1)(b)(ii) of the ITAA 1997, the deduction is not disregarded under Subdivision 170-D of the ITAA 1997.
@@ -24,39 +13,8 @@ The relevant novation agreement provided that the rights and obligations of Comp
 At the time of the novation (deferral event) the other entity was not a connected entity of Company X under section 170-265 of the ITAA 1997. Company X and the other entity were linked at this time under section 170-260 of the ITAA 1997.
 Reasons for Decision
 Where section 170-255 of the ITAA 1997 applies, a deduction (or capital loss) that would otherwise be allowable to an 'originating company' (Company X) is disregarded pursuant to section 170-270 of the ITAA 1997.
-For section 170-255 of the ITAA 1997 to apply such that a deduction may be disregarded, then subparagraph 170-255(1)(b)(ii) of the ITAA 1997 must apply as follows:
-
-the deferral event would have resulted in the originating company becoming entitled to a deduction in respect of the disposal of a CGT asset or of an interest in a CGT asset;
-
-The relevant novation agreement expressly provided that the original financial instrument between Company X and another entity was discharged, and in substitution, a new agreement on identical terms was created between the other entity and the other party to the original financial instrument.
+For section 170-255 of the ITAA 1997 to apply such that a deduction may be disregarded, then subparagraph 170-255(1)(b)(ii) of the ITAA 1997 must apply as follows: the deferral event would have resulted in the originating company becoming entitled to a deduction in respect of the disposal of a CGT asset or of an interest in a CGT asset; The relevant novation agreement expressly provided that the original financial instrument between Company X and another entity was discharged, and in substitution, a new agreement on identical terms was created between the other entity and the other party to the original financial instrument.
 As the novation agreement provided that the relevant CGT asset, being the original financial instrument, was discharged, rather than transferred to another entity, then no 'disposal' is taken to have occurred in respect of the CGT asset for the purposes of subparagraph 170-255(1)(b)(ii).
 Accordingly, Subdivision 170-D of the ITAA 1997 does not operate to disregard the relevant deduction.
 Note: This ATO Interpretative Decision is only interpreting the operation of Subdivision 170-D of the ITAA 1997 and is not interpreting the circumstances in which a deduction may arise in respect of the novation of a financial instrument.
-Date of decision:
-  17 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 170-D   section 170-255   subparagraph 170-255(1)(b)(ii)   section 170-260   section 170-265   section 170-270
-
-Keywords
-
-Deferral event
- Losses CoE
- Originating company
- CGT asset
-
-Siebel/TDMS Reference Number:
-  3553829
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 August 2003
-
-ISSN:
- 1445-2782
+Date of decision: 17 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Subdivision 170-D section 170-255 subparagraph 170-255(1)(b)(ii) section 170-260 section 170-265 section 170-270 Keywords Deferral event Losses CoE Originating company CGT asset Siebel/TDMS Reference Number: 3553829 Business Line: Public Groups and International Date of publication: 29 August 2003 ISSN: 1445-2782

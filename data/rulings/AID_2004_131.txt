@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/131
-==================================================
-
-Goods and Services Tax
- GST and reverse charging GST for training services provided by a non-resident company to the employees of an Australian financial institution
- FOI status: may be released
-
-This ATO ID is withdrawn as it is superseded by GSTR 2007/2.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and reverse charging GST for training services provided by a non-resident company to the employees of an Australian financial institution FOI status: may be released This ATO ID is withdrawn as it is superseded by GSTR 2007/2. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an Australian financial institution, liable for goods and services tax (GST) under subsection 84-10(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when a non-resident company supplies it with training services that are provided to the entity's employees, who are outside Australia?
 Decision
 No, the entity is not liable for GST under subsection 84-10(1) of the GST Act when a non-resident company supplies it with training services that are provided to the entity's employees, who are outside Australia, as the supply of training services is a GST-free supply under item 3 in the table in subsection 38-190(1) of the GST Act.
@@ -26,71 +11,22 @@ The entity acquires the training services for the purpose of its enterprise that
 The entity is registered for GST and provides consideration for the supply.
 Reasons for Decision
 Subsection 84-10(1) of the GST Act provides that the GST on a supply, that is a taxable supply because of section 84-5 of the GST Act, is payable by the recipient of the supply and not by the supplier.
-Under subsection 84-5(1) of the GST Act a supply of anything other than goods or real property, that is not connected with Australia, is a taxable supply if:
-
-• the recipient of the supply acquires the thing supplied solely or partly for the purpose of an enterprise that the recipient carries on in Australia but not solely for a creditable purpose
+Under subsection 84-5(1) of the GST Act a supply of anything other than goods or real property, that is not connected with Australia, is a taxable supply if: • the recipient of the supply acquires the thing supplied solely or partly for the purpose of an enterprise that the recipient carries on in Australia but not solely for a creditable purpose
 • the supply is made for consideration, and
-• the recipient is registered or required to be registered for GST.
-
-However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
+• the recipient is registered or required to be registered for GST. However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
 The supply of training services is a supply of something other than goods or real property. The supply is not connected with Australia. The entity acquires the training services for the purpose of its enterprise that it carries on in Australia. As the training services relate to the entity making supplies that are input taxed, the entity does not acquire the training services for a creditable purpose (subsection 11-15(2) of the GST Act). The entity provides consideration for the supply and is registered for GST. As such, the supply of the training services satisfies all of the positive requirements under subsection 84-5(1) of the GST Act.
 However subsection 84-5(1) of the GST Act further states that a supply is not a taxable supply to the extent that it is GST-free or input taxed. There is no provision in the GST Act that provides for a supply of training services to be input taxed.
-Section 38-190 of the GST Act provides that certain supplies of things other than goods or real property, for consumption outside Australia, are GST-free. Item 3 in the table in subsection 38-190(1) of the GST Act (Item 3) provides that a supply that is neither a supply of work physically performed on goods situated in Australia nor a supply directly connected with real property situated in Australia is GST-free if:
-
-• the supply is made to a recipient who is not in Australia when the thing supplied is done, and
-• the effective use or enjoyment takes place outside Australia.
-
-The supply of training services is neither a supply of work physically performed on goods situated in Australia nor a supply directly connected with real property situated in Australia.
-Subsection 38-190(4) of the GST Act provides that for the purpose of Item 3, a supply is considered to be made to a recipient who is not in Australia if:
-
-• it is a supply under an agreement entered into, whether directly or indirectly, with an Australian resident, and
-• the supply is provided, or the agreement requires it to be provided, to another entity outside Australia.
-
-The supply of training services is made under a contract entered into with the entity and the entity is an Australian resident. As such, the first requirement of subsection 38-190(4) of the GST Act is satisfied.
+Section 38-190 of the GST Act provides that certain supplies of things other than goods or real property, for consumption outside Australia, are GST-free. Item 3 in the table in subsection 38-190(1) of the GST Act (Item 3) provides that a supply that is neither a supply of work physically performed on goods situated in Australia nor a supply directly connected with real property situated in Australia is GST-free if: • the supply is made to a recipient who is not in Australia when the thing supplied is done, and
+• the effective use or enjoyment takes place outside Australia. The supply of training services is neither a supply of work physically performed on goods situated in Australia nor a supply directly connected with real property situated in Australia.
+Subsection 38-190(4) of the GST Act provides that for the purpose of Item 3, a supply is considered to be made to a recipient who is not in Australia if: • it is a supply under an agreement entered into, whether directly or indirectly, with an Australian resident, and
+• the supply is provided, or the agreement requires it to be provided, to another entity outside Australia. The supply of training services is made under a contract entered into with the entity and the entity is an Australian resident. As such, the first requirement of subsection 38-190(4) of the GST Act is satisfied.
 The term 'provided' is used in subsection 38-190(4) of the GST Act to differentiate from the term 'made' in item 3. The word 'provided' focuses on the doing of the thing to be supplied and the flow of the actual services or thing required to be supplied under the contractual arrangements. In contrast, the word 'made' identifies the contractual flow of the thing supplied - from the non-resident supplier to the Australian financial institution.
 The entity's employees receive the training. Section 195-1 of the GST Act defines 'entity' to have the meaning given by section 184-1 of the GST Act. An entity includes an individual. Employees are individuals and, therefore, are entities. Where a supply is made to an employer, and the thing supplied is provided, or required to be provided, to an employee that supply is provided to 'another entity'.
 The thing to be supplied under the contract is the training of the entity's employees. As it is the employees who actually receive the training and are trained, the training services are provided to the employees. As such, the supply is a supply made to another entity outside Australia. As both the requirements in subsection 38-190(4) of the GST Act are satisfied the supply of the training services is taken, for the purposes of Item 3, to be a supply made to a recipient who is not in Australia.
 The effective use or enjoyment of a supply is the actual use or enjoyment of the thing supplied and refers to the immediate act of using or enjoying the thing supplied. The entity's employees are receiving the training services and the training services are carried out overseas. The employees are using or enjoying the training at the time they are receiving it. Accordingly, the use and enjoyment of the training services is taking place outside Australia.
 The supply satisfies all the requirements in Item 3 and as such, the supply of the training services is GST-free.
 Therefore, the entity will not be liable for GST under Division 84 of the GST Act when it contracts with a non-resident company for training services to be provided to its employees, who are outside Australia, as the supply of training services by the non-resident company is a GST-free supply under item 3 in the table in subsection 38-190(1) of the GST Act.
-Date of decision:
-  15 September 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 11-15(2)   section 84-5   subsection 84-5(1)   subsection 84-10(1)   section 38-190   subsection 38-190(1) table item 3   subsection 38-190(4)   Division 84   section 184-1   section 195-1
-
-Keywords
-
-Goods and services tax
- GST international services
- Consumption outside Australia
- Reverse charge on offshore intangible supplies
- Supplies used or enjoyed outside Australia
- Input taxed supplies
- GST financial supplies
-
-Business Line:
-  GST
-
-Date of publication:
-  13 February 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-15 September 2003
-Original statement
-
-You are here
+Date of decision: 15 September 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 11-15(2) section 84-5 subsection 84-5(1) subsection 84-10(1) section 38-190 subsection 38-190(1) table item 3 subsection 38-190(4) Division 84 section 184-1 section 195-1 Keywords Goods and services tax GST international services Consumption outside Australia Reverse charge on offshore intangible supplies Supplies used or enjoyed outside Australia Input taxed supplies GST financial supplies Business Line: GST Date of publication: 13 February 2004 ISSN: 1445-2782 history Date: Version: 15 September 2003
+Original statement You are here
 20 July 2007
 Archived

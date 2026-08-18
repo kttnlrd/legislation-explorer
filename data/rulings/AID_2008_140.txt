@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2008/140
-==================================================
-
-Income Tax
- Royalty withholding tax: lease payments to United States tax treaty resident for hiring substantial equipment - royalty withholding tax
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Royalty withholding tax: lease payments to United States tax treaty resident for hiring substantial equipment - royalty withholding tax FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are lease payments made by an Australian resident company to a United States (US) resident company for the hire of substantial equipment subject to royalty withholding tax under section 128B of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No, these lease payments are not subject to royalty withholding tax under the ITAA 1936.
@@ -29,36 +16,6 @@ Under subsection 6(1) of the ITAA 1936, the definition of 'royalty' or 'royaltie
 With effect from 1 July 2003 for withholding taxes, the definition of 'royalties' in the Royalties Article of the US Convention (Article 12(4)) does not include 'payments for the use of or the right to use industrial, commercial or scientific equipment' Accordingly, the equipment lease payments are not 'royalties' for the purposes of Article 12(4) of the US Convention.
 Subparagraph 17A(5)(b) of the International Tax Agreements Act 1953 (the Agreements Act) provides that section 128B of the ITAA 1936 (which deals with liability to withholding tax) does not apply to payments that are royalties for the purposes of the Assessment Act (that is the ITAA 1936 and the ITAA 1997) where a tax treaty does not treat the payments as royalties.
 Therefore, as the equipment lease payments made by the Australian company to the taxpayer are not royalties for the purposes of Article 12(4) of the US Convention, the Convention does not treat those payments as royalties for the purposes of paragraph 17A(5)(b) of the Agreements Act. Accordingly, subsection 17A(5) of the Agreements Act applies and payments for the lease of industrial equipment made after 30 June 2003 are not subject to royalty withholding tax.
-Date of decision:
-  18 January 2008
-
-Year of income:
-  Year ended 31 March 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 6(1)   section 128B
-Income Tax Assessment Act 1997   section 995-1
-International Tax Agreements Act 1953   subparagraph 17A(5)(b)   Schedule 2
-
-Keywords
-
-Double tax agreements
- Equipment royalties
- International tax
- Non resident royalty withholding tax
- Royalties
- Royalty article
- Treaties
-
-Siebel/TDMS Reference Number:
-  5526364
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 October 2008
-
-ISSN:
- 1445-2782
+Date of decision: 18 January 2008 Year of income: Year ended 31 March 2008 Legislative References: Income Tax Assessment Act 1936 section 6(1) section 128B
+Income Tax Assessment Act 1997 section 995-1
+International Tax Agreements Act 1953 subparagraph 17A(5)(b) Schedule 2 Keywords Double tax agreements Equipment royalties International tax Non resident royalty withholding tax Royalties Royalty article Treaties Siebel/TDMS Reference Number: 5526364 Business Line: Public Groups and International Date of publication: 24 October 2008 ISSN: 1445-2782

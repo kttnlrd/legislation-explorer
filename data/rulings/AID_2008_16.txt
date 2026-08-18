@@ -1,30 +1,11 @@
 ATO Interpretative Decision
 ATO ID 2008/16
-==================================================
-
-Goods and Services Tax
- GST and claiming input tax credits where GST ceases to be payable
- FOI status: may be released
-
-This ATO ID was amended to clarify the ATO position and/or update legislative references.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is the entity, a recipient of a taxable supply, entitled to any amount of an input tax credit under Division 11 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it acquires a taxable supply from a supplier who:
-
-•treated the supply as non-taxable
+================================================== Goods and Services Tax GST and claiming input tax credits where GST ceases to be payable FOI status: may be released This ATO ID was amended to clarify the ATO position and/or update legislative references. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is the entity, a recipient of a taxable supply, entitled to any amount of an input tax credit under Division 11 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it acquires a taxable supply from a supplier who: •treated the supply as non-taxable
 •did not charge GST
 •either did not issue a tax invoice or issued an invoice showing that no GST was payable on the supply, and
-•is now not required to pay GST on the supply due to the application of section 105-50 of Schedule 1 to the Taxation Administration Act 1953 (TAA)?
-
-Decision
+•is now not required to pay GST on the supply due to the application of section 105-50 of Schedule 1 to the Taxation Administration Act 1953 (TAA)? Decision
 No, the entity is not entitled to any amount of an input tax credit under Division 11 of the GST Act, when it acquires a taxable supply from a supplier who treated the supply as non-taxable, did not charge GST, either did not issue a tax invoice or issued an invoice showing that no GST was payable on the supply, and is now not required to pay GST on that supply due to the application of section 105-50 of Schedule 1 to the TAA.
 While the entity may have been entitled to an input tax credit, the amount of the input tax credit is now zero due to the operation of section 11-25 of the GST Act.
 Facts
@@ -37,94 +18,23 @@ More than four years has elapsed since the transaction occurred and since the ne
 Although the transaction is a taxable supply, the supplier in this circumstance is not required to pay the unpaid GST to the Tax Office because the GST has ceased to be payable due to the operation of section 105-50 of Schedule 1 to the TAA.
 Reasons for Decision
 Under section 11-20 of the GST Act, you are entitled to the input tax credit for any creditable acquisition that you make.
-Section 11-5 of the GST Act provides that you make a creditable acquisition if:
-
-(a)you acquire anything solely or partly for a creditable purpose; and
+Section 11-5 of the GST Act provides that you make a creditable acquisition if: (a)you acquire anything solely or partly for a creditable purpose; and
 (b)the supply of the thing to you is a taxable supply; and
 (c)you provide, or are liable to provide, consideration for the supply; and
-(d)you are registered, or required to be registered.
-
-The acquisition was a creditable acquisition by the entity in that it was for a creditable purpose and the entity provided consideration for the supply.
+(d)you are registered, or required to be registered. The acquisition was a creditable acquisition by the entity in that it was for a creditable purpose and the entity provided consideration for the supply.
 Section 11-25 of the GST Act provides that the amount of the input tax credit for a creditable acquisition is equal to the GST payable on the supply.
-Section 105-50 of Schedule 1 to the TAA provides that any unpaid net amount or amount of indirect tax ceases to be payable four years after it became payable, unless the Commissioner:
-
-•has notified the entity of the unpaid amount within four years of the date it was payable, or
-•is satisfied that the payment of the amount was avoided due to fraud or evasion.
-
-As section 105-50 of Schedule 1 to the TAA applies to the supplier, any GST that was payable on the supply has now ceased to be payable.
-As there is now no GST payable on the supply due to the operation of section 105-50 of Schedule 1 to the TAA, and the amount of the input tax credit must be equal to the GST payable on the supply under section 11-25 of the GST Act, the amount of input tax credit the entity is entitled to claim is now zero.
-
-Note 1: Under section 29-10 of the GST Act, you cannot attribute input tax credits unless you hold a valid tax invoice. The entity has not and cannot attribute any input tax credit because the supplier has either not provided a tax invoice or provided a tax invoice on the basis that no GST was payable on the supply. If the entity, under subsection 29-70(2) of the GST Act, now asked the supplier for a tax invoice, the amount of GST that must be shown on the tax invoice issued is zero, as the supplier has charged no GST and the GST has now ceased to be payable because of the operation of section 105-50 of Schedule 1 to the TAA.
-
-Note 2: Section 105-50 of Schedule 1 to the TAA only applies to payments and refunds that (a) relate to tax periods that start before 1 July 2012 or (b) liabilities or entitlements that arose before 1 July 2012.
-
-Note 3: For tax periods starting on or after 1 July 2012, if an entitys input tax credit is not included in an assessment of a net amount within four years after the due date for lodgement of the activity statement to which the input tax credit is attributable under subsection 29-10(1) or (2) of the GST Act, entitlement to the credit ceases. (See section 93-5 of the GST Act.)
-
-Amendment History
-
-Date of amendment
+Section 105-50 of Schedule 1 to the TAA provides that any unpaid net amount or amount of indirect tax ceases to be payable four years after it became payable, unless the Commissioner: •has notified the entity of the unpaid amount within four years of the date it was payable, or
+•is satisfied that the payment of the amount was avoided due to fraud or evasion. As section 105-50 of Schedule 1 to the TAA applies to the supplier, any GST that was payable on the supply has now ceased to be payable.
+As there is now no GST payable on the supply due to the operation of section 105-50 of Schedule 1 to the TAA, and the amount of the input tax credit must be equal to the GST payable on the supply under section 11-25 of the GST Act, the amount of input tax credit the entity is entitled to claim is now zero. Note 1: Under section 29-10 of the GST Act, you cannot attribute input tax credits unless you hold a valid tax invoice. The entity has not and cannot attribute any input tax credit because the supplier has either not provided a tax invoice or provided a tax invoice on the basis that no GST was payable on the supply. If the entity, under subsection 29-70(2) of the GST Act, now asked the supplier for a tax invoice, the amount of GST that must be shown on the tax invoice issued is zero, as the supplier has charged no GST and the GST has now ceased to be payable because of the operation of section 105-50 of Schedule 1 to the TAA. Note 2: Section 105-50 of Schedule 1 to the TAA only applies to payments and refunds that (a) relate to tax periods that start before 1 July 2012 or (b) liabilities or entitlements that arose before 1 July 2012. Note 3: For tax periods starting on or after 1 July 2012, if an entitys input tax credit is not included in an assessment of a net amount within four years after the due date for lodgement of the activity statement to which the input tax credit is attributable under subsection 29-10(1) or (2) of the GST Act, entitlement to the credit ceases. (See section 93-5 of the GST Act.) Amendment History Date of amendment
 Part
-Comment
-
-21 December 2018
+Comment 21 December 2018
 Notes are numbered; Note 3 updated
-Note 3 updated to specify the date from which 4 year period starts
-
-4 April 2013
+Note 3 updated to specify the date from which 4 year period starts 4 April 2013
 Note Added
-Changes made in line with Bot 20 being changes to section 105.50 post 1 July 2008 and pre 1 July 2012.
-
-Note Added
-Amended for self assessment legislation effective from 1 July 2012.
-
-Date of decision:
-  8 January 2008
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 11   section 11-5   section 11-20   section 11-25   section 29-10   subsection 29-70(2)
-Tax Administration Act 1953   section 105-50   section 105-50(4)
-
-Keywords
-
-Creditable acquisition
- Goods and services tax
- GST input tax credits & creditable acquisitions
- GST supplies & acquisitions
- GST supply
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  5649148;GQD2VZZ
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  18 January 2008
-
-Date reviewed:
-  3 December 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 8 January 2008
-Original statement
-
- 
- 5 April 2013
-Updated statement
-
-You are here
+Changes made in line with Bot 20 being changes to section 105.50 post 1 July 2008 and pre 1 July 2012. Note Added
+Amended for self assessment legislation effective from 1 July 2012. Date of decision: 8 January 2008 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 11 section 11-5 section 11-20 section 11-25 section 29-10 subsection 29-70(2)
+Tax Administration Act 1953 section 105-50 section 105-50(4) Keywords Creditable acquisition Goods and services tax GST input tax credits & creditable acquisitions GST supplies & acquisitions GST supply Taxable supply Siebel/TDMS Reference Number: 5649148;GQD2VZZ Business Line: Indirect Tax Date of publication: 18 January 2008 Date reviewed: 3 December 2018 ISSN: 1445-2782 history Date: Version: 8 January 2008
+Original statement 5 April 2013
+Updated statement You are here
 21 December 2018
 Updated statement

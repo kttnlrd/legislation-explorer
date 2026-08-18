@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/85
-==================================================
-
-Income Tax
- Functional Currency Choice: A subsidiary member within a tax consolidated group cannot use a currency that is different from the 'applicable functional currency' chosen by the head company of that tax consolidated group, for the purposes of working out the head company's taxable income or tax loss
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Functional Currency Choice: A subsidiary member within a tax consolidated group cannot use a currency that is different from the 'applicable functional currency' chosen by the head company of that tax consolidated group, for the purposes of working out the head company's taxable income or tax loss FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can an eligible tier-1 company which is a subsidiary member of a Multiple Entry Consolidated (MEC) group, use the AUD for the purposes of working out the head company's taxable income or tax loss, when another eligible tier-1 company which is the head company of the MEC group has made a choice to use USD as its 'applicable functional currency' under Subdivision 960-D of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. An eligible tier-1 company which is a subsidiary member of a Multiple Entry Consolidated (MEC) group has no individual income tax identity and is treated as a part of the head company (rather than a separate entity) for head company and entity core purposes. The subsidiary member is covered by the head company's choice to use USD as its 'applicable functional currency' under Subdivision 960-D of the ITAA 1997.
@@ -26,102 +15,14 @@ Austco-1 wishes to make a functional currency choice under item 1 of the table i
 Reasons for Decision
 Section 701-1 of the ITAA 1997 provides the 'single entity rule' (SER) in Part 3-90 of the ITAA 1997, which is that the subsidiary members of a consolidated group are taken to be parts of the head company and not separate entities for the head company and entity core purposes (that is, for working out the liability to income tax and losses).
 Taxation Ruling TR 2004/11 explains in detail the SER and how it applies to members of a consolidated group - refer to paragraphs 3, 4 and 7 as shown below.
-The SER Principle:
-
-3. Section 701-1 of the ITAA 1997 is a key provision of the consolidation regime. It is the means by which the members of a consolidated group are treated as a single entity (being the head company) for income tax purposes.
-
-4. The SER operates for the purposes set out in subsections 701-1(2) and (3) of the ITAA 1997 (the core purposes). These purposes are to work out the amount of the head company and subsidiary member's liability for income tax and the amount of a loss for a relevant period. They include all matters relevant and incidental to those calculations. The intended operation of the SER is to apply the income tax laws to a consolidated group as if it were a single entity. ... .
-
-7. For income tax purposes the SER deems subsidiary members to be parts of the head company rather than separate entities during the period that they are members of the consolidated group.
-
-Under section 719-5 of the ITAA 1997, a MEC group is formed by 2 or more eligible tier-1 companies making an irrevocable choice to consolidate a potential MEC group derived from those eligible tier-1 companies. Subsection 719-60(1) of the ITAA 1997 provides that the eligible tier-1 companies must jointly nominate one of themselves to be the provisional head company of the MEC group. Here, Austco-1 has been jointly appointed as the provisional head company of the Austco consolidated group.
+The SER Principle: 3. Section 701-1 of the ITAA 1997 is a key provision of the consolidation regime. It is the means by which the members of a consolidated group are treated as a single entity (being the head company) for income tax purposes. 4. The SER operates for the purposes set out in subsections 701-1(2) and (3) of the ITAA 1997 (the core purposes). These purposes are to work out the amount of the head company and subsidiary member's liability for income tax and the amount of a loss for a relevant period. They include all matters relevant and incidental to those calculations. The intended operation of the SER is to apply the income tax laws to a consolidated group as if it were a single entity. ... . 7. For income tax purposes the SER deems subsidiary members to be parts of the head company rather than separate entities during the period that they are members of the consolidated group. Under section 719-5 of the ITAA 1997, a MEC group is formed by 2 or more eligible tier-1 companies making an irrevocable choice to consolidate a potential MEC group derived from those eligible tier-1 companies. Subsection 719-60(1) of the ITAA 1997 provides that the eligible tier-1 companies must jointly nominate one of themselves to be the provisional head company of the MEC group. Here, Austco-1 has been jointly appointed as the provisional head company of the Austco consolidated group.
 Item 1 of the table in subsection 960-60(1) of Subdivision 960-D of the ITAA 1997 provides that an Australian resident required to prepare financial reports under section 292 of the Corporations Act 2001 may choose to use the 'applicable functional currency' to work out its taxable income or tax loss. Taxation Determinations TD 2006/7 and TD 2007/24 consider the situation where the entity that is required to prepare financial reports under section 292 of the Corporations Act 2001 and wishes to make a functional currency choice, is the head company of a consolidated group.
-Taxation Determination TD 2006/7 notes that:
-
-1. The head company can make the choice to use the 'applicable functional currency', as defined in section 960-70 of the Income Tax Assessment Act 1997 (ITAA 1997), under item 1 of the table in subsection 960-60(1). The fact that it is the head company of a consolidated group does not affect its reporting obligations under the Corporations Act 2001.
-
-7. The choice of a head company under item 1 in the table in subsection 960-60(1) to use a non Australian currency as the 'applicable functional currency', means that the head company will work out its taxable income or tax loss as allowed under section 960-80 of the ITAA 1997. Under Part 3-90 of the ITAA 1997, this calculation will be one that applies to the head company as head company of the consolidated group.
-
-8. The views expressed in this Determination apply equally to a MEC (multiple entry consolidated) group where appropriate.
-
-Taxation Determination TD 2007/24 states that:
-
-6. The single entity rule in section 701-1 provides that if an entity is a subsidiary member of a consolidated group for any period, it and any other subsidiary member of the group are taken for 'head company core purposes' and 'entity core purposes' to be part of the head company, rather than separate entities for that period. The intended operation of the single entity rule is to apply the income tax laws for these purposes to a consolidated group, as if it was a single entity being the head company.
-
-7. Calculation of the head company's liability for income tax, where this involves an application of item 1 of subsection 960-60(1), will come within the meaning of 'head company core purposes' for the purposes of section 701-1. The single entity rule in this context, will therefore affect the meaning of 'applicable functional currency' in subsection 960-70(1).
-
-8. Accordingly, the term 'you' in subsection 960-70(1) refers, in such a case, to the head company of the consolidated group; including as parts of that entity all of the subsidiary members for the relevant period. ...
-
-9. The 'applicable functional currency' of the head company of a multiple entry consolidated (MEC) group is determined in the same way as that set out above for the head company of a non-MEC consolidated group. The single entity rule in section 701-1 applies equally to both head companies (refer paragraph 15 of Taxation Ruling TR 2004/11).
-
-As indicated above, a consequence of the SER is that the head company is the only consolidated group member recognised for head company and entity core purposes. As the provisions of Subdivision 960-D will have an impact on the head company's liability to income tax, they come within the head company core purposes. Consequently, for a choice under item 1 of subsection 960-60(1), the head company is the only entity recognised - and the functional currency provisions will apply to that entity in its capacity as the head company of the consolidated group. This means that, in our case, only Austco-1 will be able to make a functional currency choice under item 1 of subsection 960-60(1) to work out a taxable income or tax loss as specified under Subdivision 960-D.
+Taxation Determination TD 2006/7 notes that: 1. The head company can make the choice to use the 'applicable functional currency', as defined in section 960-70 of the Income Tax Assessment Act 1997 (ITAA 1997), under item 1 of the table in subsection 960-60(1). The fact that it is the head company of a consolidated group does not affect its reporting obligations under the Corporations Act 2001. 7. The choice of a head company under item 1 in the table in subsection 960-60(1) to use a non Australian currency as the 'applicable functional currency', means that the head company will work out its taxable income or tax loss as allowed under section 960-80 of the ITAA 1997. Under Part 3-90 of the ITAA 1997, this calculation will be one that applies to the head company as head company of the consolidated group. 8. The views expressed in this Determination apply equally to a MEC (multiple entry consolidated) group where appropriate. Taxation Determination TD 2007/24 states that: 6. The single entity rule in section 701-1 provides that if an entity is a subsidiary member of a consolidated group for any period, it and any other subsidiary member of the group are taken for 'head company core purposes' and 'entity core purposes' to be part of the head company, rather than separate entities for that period. The intended operation of the single entity rule is to apply the income tax laws for these purposes to a consolidated group, as if it was a single entity being the head company. 7. Calculation of the head company's liability for income tax, where this involves an application of item 1 of subsection 960-60(1), will come within the meaning of 'head company core purposes' for the purposes of section 701-1. The single entity rule in this context, will therefore affect the meaning of 'applicable functional currency' in subsection 960-70(1). 8. Accordingly, the term 'you' in subsection 960-70(1) refers, in such a case, to the head company of the consolidated group; including as parts of that entity all of the subsidiary members for the relevant period. ... 9. The 'applicable functional currency' of the head company of a multiple entry consolidated (MEC) group is determined in the same way as that set out above for the head company of a non-MEC consolidated group. The single entity rule in section 701-1 applies equally to both head companies (refer paragraph 15 of Taxation Ruling TR 2004/11). As indicated above, a consequence of the SER is that the head company is the only consolidated group member recognised for head company and entity core purposes. As the provisions of Subdivision 960-D will have an impact on the head company's liability to income tax, they come within the head company core purposes. Consequently, for a choice under item 1 of subsection 960-60(1), the head company is the only entity recognised - and the functional currency provisions will apply to that entity in its capacity as the head company of the consolidated group. This means that, in our case, only Austco-1 will be able to make a functional currency choice under item 1 of subsection 960-60(1) to work out a taxable income or tax loss as specified under Subdivision 960-D.
 Once a functional currency choice is made by the head company, all amounts that are not in the 'applicable functional currency' must be translated to this currency, under the provisions of subsection 960-80(1) or section 960-85 of the ITAA 1997. Thus, a head company that has made an effective functional currency choice under item 1 of subsection 960-60(1), is required to calculate its taxable income or tax loss (including the assessable income and allowable deductions of all of its subsidiary members) in the functional currency it has chosen.
 It follows that a head company cannot make a functional currency choice under item 1 of subsection 960-60(1) on behalf of only some subsidiary members of the consolidated group. A head company makes a choice under item 1 of subsection 960-60(1) as head company of all subsidiary members of the consolidated group. This is despite any previous choices that may have been made by a subsidiary member prior to joining (or to the formation of) the consolidated group. Once the head company has made the functional currency choice, a subsidiary member cannot use AUD and must use the chosen functional currency in working out the head company's taxable income or tax loss.
-Example:
-
-A foreign company owns 100% of the shareholding in 2 Australian companies, each of which own other Australian subsidiaries.
-
-Both Australian companies (ET-1 Co 1 and ET-1 Co 2) are eligible tier-1 companies for the purposes of the consolidation provisions.
-
-ET-1 Co 1 keeps its accounts in USD.
-
-ET-1 Co 2 keeps its accounts in AUD.
-
-Scenario 1:
-
-ET-1 Co 1 is nominated as the provisional head company of the MEC group.
-
-After looking at the 'accounts' of all the members of the consolidated group in accordance with TD 2007/24, a functional currency choice is made by ET-1 Co 1 to use USD as its 'applicable functional currency'.
-
-Subdivision 960-D applies. ET-1 Co 2 and any other MEC group entity are covered by the functional currency choice of ET-1 Co 1. ET-1 Co 2 is deemed to be a part of ET-1 Co 1, rather than a separate entity, for head company and entity core purposes. Consequently, ET-1 Co 2 does not have a taxable income or tax loss and ET-1 Co 2 cannot make a functional currency choice. As head company of the MEC group, ET-1 Co 1 calculates its taxable income or tax loss in USD, before translating that net amount to AUD for the purpose of calculating income tax payable. This includes assessable income that it is taken to have derived and allowable deductions it is taken to have incurred because of the operation of the SER.
-Scenario 2:
-
-ET-1 Co 2 is nominated as the head company.
-
-On the basis that the currency predominantly used for the basic record keeping of the consolidated group is AUD, ET-1 Co 2 does not make a functional currency choice and continues to use AUD for accounting and income tax purposes.
-
-Subdivision 960-C applies. ET-1 Co 1 and any other MEC group entity are covered by the lack of any choice (to use a functional currency) by ET-1 Co 2. ET-1 Co 1 is deemed to be a part of ET-1 Co 2 rather than a separate entity, for head company and entity core purposes. Consequently, ET-1 Co 1 does not have a taxable income or tax loss and ET-1 Co 1 cannot make a functional currency choice. As head company of the MEC group, ET-1 Co 2 calculates its taxable income or tax loss in AUD. This includes assessable income that it is taken to have derived and allowable deductions it is taken to have incurred because of the operation of the SER.
-
-Conclusion
-
-Only Austco-1 as the head company of the MEC group has a taxable income or a tax loss and is able to choose an 'applicable functional currency' under subsection 960-60(1). In order to do this, it needs to satisfy the requirement that the 'sole or predominant currency in which it keeps its accounts' is a currency other than AUD. This will require an examination of all the 'accounts' of the MEC group as a whole (see Taxation Determination TD 2007/24). If the head company has made an effective choice to use USD as its 'applicable functional currency', the functional currency choice will apply to all subsidiary members of the MEC group.
-Date of decision:
-  17 October 2011
-
-Year of income:
-  30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Part 3-90   section 701-1   subsection 701-1(2)   subsection 701-1(3)   section 719-5   subsection 719-60(1)   Subdivision 960-C   Subdivision 960-D   subsection 960-60(1)   section 960-70   subsection 960-70(1)   section 960-80   subsection 960-80(1)   section 960-85
-Corporations Act 2001   section 292
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2004/11
+Example: A foreign company owns 100% of the shareholding in 2 Australian companies, each of which own other Australian subsidiaries. Both Australian companies (ET-1 Co 1 and ET-1 Co 2) are eligible tier-1 companies for the purposes of the consolidation provisions. ET-1 Co 1 keeps its accounts in USD. ET-1 Co 2 keeps its accounts in AUD. Scenario 1: ET-1 Co 1 is nominated as the provisional head company of the MEC group. After looking at the 'accounts' of all the members of the consolidated group in accordance with TD 2007/24, a functional currency choice is made by ET-1 Co 1 to use USD as its 'applicable functional currency'. Subdivision 960-D applies. ET-1 Co 2 and any other MEC group entity are covered by the functional currency choice of ET-1 Co 1. ET-1 Co 2 is deemed to be a part of ET-1 Co 1, rather than a separate entity, for head company and entity core purposes. Consequently, ET-1 Co 2 does not have a taxable income or tax loss and ET-1 Co 2 cannot make a functional currency choice. As head company of the MEC group, ET-1 Co 1 calculates its taxable income or tax loss in USD, before translating that net amount to AUD for the purpose of calculating income tax payable. This includes assessable income that it is taken to have derived and allowable deductions it is taken to have incurred because of the operation of the SER.
+Scenario 2: ET-1 Co 2 is nominated as the head company. On the basis that the currency predominantly used for the basic record keeping of the consolidated group is AUD, ET-1 Co 2 does not make a functional currency choice and continues to use AUD for accounting and income tax purposes. Subdivision 960-C applies. ET-1 Co 1 and any other MEC group entity are covered by the lack of any choice (to use a functional currency) by ET-1 Co 2. ET-1 Co 1 is deemed to be a part of ET-1 Co 2 rather than a separate entity, for head company and entity core purposes. Consequently, ET-1 Co 1 does not have a taxable income or tax loss and ET-1 Co 1 cannot make a functional currency choice. As head company of the MEC group, ET-1 Co 2 calculates its taxable income or tax loss in AUD. This includes assessable income that it is taken to have derived and allowable deductions it is taken to have incurred because of the operation of the SER. Conclusion Only Austco-1 as the head company of the MEC group has a taxable income or a tax loss and is able to choose an 'applicable functional currency' under subsection 960-60(1). In order to do this, it needs to satisfy the requirement that the 'sole or predominant currency in which it keeps its accounts' is a currency other than AUD. This will require an examination of all the 'accounts' of the MEC group as a whole (see Taxation Determination TD 2007/24). If the head company has made an effective choice to use USD as its 'applicable functional currency', the functional currency choice will apply to all subsidiary members of the MEC group.
+Date of decision: 17 October 2011 Year of income: 30 June 2012 Legislative References: Income Tax Assessment Act 1997 Part 3-90 section 701-1 subsection 701-1(2) subsection 701-1(3) section 719-5 subsection 719-60(1) Subdivision 960-C Subdivision 960-D subsection 960-60(1) section 960-70 subsection 960-70(1) section 960-80 subsection 960-80(1) section 960-85
+Corporations Act 2001 section 292 Related Public Rulings (including Determinations) Taxation Ruling TR 2004/11
 Taxation Determination TD 2006/7
-Taxation Determination TD 2007/24
-
-Other References:
-
-Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates
-
-Keywords
-
-Accounts
- Applicable functional currency
- Consolidated group
- Multiple entry consolidated group
- Single entity rule
-
-Siebel/TDMS Reference Number:
-  1-2XFGXLM
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 October 2011
-
-ISSN:
- 1445-2782
+Taxation Determination TD 2007/24 Other References: Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates Keywords Accounts Applicable functional currency Consolidated group Multiple entry consolidated group Single entity rule Siebel/TDMS Reference Number: 1-2XFGXLM Business Line: Public Groups and International Date of publication: 28 October 2011 ISSN: 1445-2782

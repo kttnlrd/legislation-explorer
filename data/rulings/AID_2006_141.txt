@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/141
-==================================================
-
-Income Tax
- Interest Withholding Tax Exemption: United States limited liability company
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in ATO ID 2010/189
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest Withholding Tax Exemption: United States limited liability company FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in ATO ID 2010/189 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, a limited liability company (LLC) incorporated in the United States (US), exempt from interest withholding tax under Article 11(3)(a) of the Australia - US Double Taxation Convention on interest derived in Australia which flowed through the LLC to a US pension fund?
 Decision
 No. The LLC in the US is not exempt from interest withholding tax in Australia.
@@ -36,11 +21,7 @@ The tax treaty between Australia and the US (the US Convention) and the protocol
 Article 4(1)(b)(iii) of the US Convention treats the LLC as a US resident for treaty purposes where the income it receives is subject to US income tax in the hands of a partner or, in this case, where the income it receives is exempt from US tax other than because the partner is not a US person under US law.
 Article 11(3)(a) of the US Convention provides that Australia may not tax interest derived by the US or by a political or administrative sub-division or a local authority or by any other body exercising governmental functions in the US, or by a bank performing central banking functions in the US.
 Based on the wording of Article 11(3)(a) of the US Convention, Australia would examine the LLC to determine whether the treaty benefit conferred by Article 11(3)(a) is to be provided. Taxation Ruling TR 2001/13 discusses the Commissioner's views about interpreting tax treaties. Paragraph 104 of TR 2001/13 provides that the OECD Model Tax Convention and Commentary will often need to be considered in interpreting tax treaties.
-In relation to the treatment of partnerships, paragraph 6.3 of the OECD Commentary on Article 1 states the general principle that:
-
-...the State of source should take into account, as part of the factual context in which the Convention is to be applied, the way in which an item of income, arising in its jurisdiction, is treated in the jurisdiction of the person claiming the benefits of the Convention as a resident.
-
-The interest derived by the LLC flows through to the pension fund. Notwithstanding that the pension fund has a specific exemption from US income tax, the pension fund is still recognised as a person in the US. Accordingly, it is necessary to determine whether the pension fund, rather than the LLC or the pension funds, is 'any other body exercising governmental functions' for the purposes of Article 11(3)(a) of the US Convention. This is the case even though the LLC is a resident under Article 4(1)(b)(iii) of the US Convention and Australia treats the LLC as a company.
+In relation to the treatment of partnerships, paragraph 6.3 of the OECD Commentary on Article 1 states the general principle that: ...the State of source should take into account, as part of the factual context in which the Convention is to be applied, the way in which an item of income, arising in its jurisdiction, is treated in the jurisdiction of the person claiming the benefits of the Convention as a resident. The interest derived by the LLC flows through to the pension fund. Notwithstanding that the pension fund has a specific exemption from US income tax, the pension fund is still recognised as a person in the US. Accordingly, it is necessary to determine whether the pension fund, rather than the LLC or the pension funds, is 'any other body exercising governmental functions' for the purposes of Article 11(3)(a) of the US Convention. This is the case even though the LLC is a resident under Article 4(1)(b)(iii) of the US Convention and Australia treats the LLC as a company.
 Where the pension fund is a body exercising governmental functions, Australia is prevented from taxing interest that it paid to the LLC.
 In relation to Article 11(3)(a) of the US Convention, the phrase 'any other body exercising governmental functions' is not defined. Article 3(2) of the US Convention provides that any term not defined shall, unless the context otherwise requires, have the meaning it has under the law relating to taxes of the country applying the US Convention.
 Australian domestic tax law does not statutorily define what governmental functions are. Paragraph 68 of Taxation Ruling TR 2005/8 indicates that case law is not conclusive in providing a definitive domestic law meaning of that term in its tax treaty context.
@@ -50,61 +31,9 @@ Accordingly, for the above reasons, case law and TR 2005/8 is considered to be o
 In determining the meaning for Article 11 of the US Convention purposes, it is necessary to examine the words of the provision itself (Thiel v. Federal Commissioner of Taxation (1990) 171 CLR 338; 90 ATC 4717; (1990) 21 ATR 531). The provision also provides an exemption to the US, other political or administrative sub-divisions in the US and a bank performing central banking functions. The term 'any other body exercising governmental functions' in Article 11(3)(a) of the US Convention in concert with the other terms specified in the Article indicates that the exemption is limited to those bodies that are identifiable as being government or that are a statutory authority (that is, an entity of public character created by the laws of a Contracting State in which no other person other than the State itself, or a subdivision thereof, has an interest).
 Despite the pension fund being set up by a local government to benefit government employees, the fund itself is not identifiable as a body of government in the US nor set up to benefit only a body of government. Accordingly, Article 11(3)(a) of the US Convention will not apply.
 As there is no inconsistency between the application of the Article 11(3)(a) of the US Convention and subsection 128B(2) of the ITAA 1936, interest derived by the LLC is still subject to interest withholding tax.
-The LLC is therefore not exempt from interest withholding tax for interest income derived in Australia.
-
-Note: The Treasurer issued a press release No. 094 on 4 November 2005 advising that new legislation will be introduced to clarify the current practice of exempting foreign governments and their investment bodies from interest and dividend withholding taxes.
-
-Date of decision:
-  16 May 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 128B(2)
-International Tax Agreements Act 1953   section 4   Schedule 2 Article 3(2)   Schedule 2 Article 4(1)(b)(iii)   Schedule 2 Article 11(3)(a)   Schedule 2 Article 19   Schedule 2A
-
-Case References:
-
-Thiel v. Federal Commissioner of Taxation   (1990) 171 CLR 338   90 ATC 4717   (1990) 21 ATR 531
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/13
-Taxation Ruling TR 2005/8
-
-Keywords
-
-Double tax agreements
- United States
- Limited liability
- Withholding tax exemptions
- International tax
- Non resident entities
- Non resident interest withholding tax
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 June 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-16 May 2006
-Original statement
-
-You are here
+The LLC is therefore not exempt from interest withholding tax for interest income derived in Australia. Note: The Treasurer issued a press release No. 094 on 4 November 2005 advising that new legislation will be introduced to clarify the current practice of exempting foreign governments and their investment bodies from interest and dividend withholding taxes. Date of decision: 16 May 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 subsection 128B(2)
+International Tax Agreements Act 1953 section 4 Schedule 2 Article 3(2) Schedule 2 Article 4(1)(b)(iii) Schedule 2 Article 11(3)(a) Schedule 2 Article 19 Schedule 2A Case References: Thiel v. Federal Commissioner of Taxation (1990) 171 CLR 338 90 ATC 4717 (1990) 21 ATR 531 Related Public Rulings (including Determinations) Taxation Ruling TR 2001/13
+Taxation Ruling TR 2005/8 Keywords Double tax agreements United States Limited liability Withholding tax exemptions International tax Non resident entities Non resident interest withholding tax Business Line: Public Groups and International Date of publication: 2 June 2006 ISSN: 1445-2782 history Date: Version: 16 May 2006
+Original statement You are here
 15 October 2010
 Archived

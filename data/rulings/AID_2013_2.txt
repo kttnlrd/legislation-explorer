@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/2
-==================================================
-
-Income Tax
- Withholding tax: interest derived by an Australian resident in carrying on business at or through a permanent establishment outside of Australia
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is currently being reviewed.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Withholding tax: interest derived by an Australian resident in carrying on business at or through a permanent establishment outside of Australia FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is currently being reviewed. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is interest income derived by an Australian resident under a physical cash sweeping arrangement using funds both obtained from and derived through a foreign branch of the Australian resident, derived in carrying on business in a country outside Australia at or through a permanent establishment of the Australian resident - for the purpose of paragraph 128B(2A)(a) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The interest income is derived in carrying on business in a country outside Australia at or through the permanent establishment of the Australian resident, for the purpose of paragraph 128B(2A)(a) of the ITAA 1936.
@@ -32,105 +17,23 @@ The loan arrangement between the taxpayer and AusCo2 is entered into in Australi
 Under this loan arrangement, interest payments are made to the taxpayer by AusCo2.
 Reasons for Decision
 Under subsection 128B(5) of the ITAA 1936 a person is liable to interest withholding tax on income if the requirements of subsection 128B(2A) of the ITAA 1936 are satisfied in relation to that income.
-Subsection 128B(2A) of the ITAA 1936 states that:
-
-Subject to subsection (3), where income:
-
-(a)is, or has, after 2 July 1973, been, derived, or derived in part, by a person to whom this section applies in carrying on business in a country outside Australia at or through a permanent establishment of the person in that country; and
-(b)consists of interest that:
-
-(i)is or has been paid to the person by another person to whom this section applies and is not an outgoing wholly incurred by that other person in carrying on business in a country outside Australia at or through a permanent establishment of that other person in that country; or
-(ii)is or has been paid to the first-mentioned person by a person who is, or by persons each of whom is, not a resident and is, or is in part, an outgoing incurred by that last-mentioned person or those last-mentioned persons in carrying on business in Australia at or through a permanent establishment of that last-mentioned person or those last-mentioned persons in Australia;
-
-this section also applies to that income or to the part of that income so derived, as the case may be.
-
-Taxation Ruling TR 2001/11 deals with the operation of Australia's permanent establishment attribution rules. Paragraphs 3.16 and 3.18-3.19 of this ruling state that:
-
-3.16 'Attributable' in this context has the same meaning as under the business profits article. The OECD Commentary on Article 7 states that the approach to the attribution test preferred by most countries focuses on where the profits are generated, that is whether they are generated through the PE. This will be so where, in substance, the resources and activities at the relevant place are the source of the profit.
-
-3.18 Accordingly, income is attributable to activities conducted at or through a PE to the extent that those activities are, in substance, a contributing factor in generating the income or give rise to benefits from expenditure incurred.
-
-3.19 ... In the ITAA 1936, subsection 136AE(4) refers to the derivation of income or the incurring of expenditure being attributable to activities carried on by the taxpayer at or through the PE, section 23AH refers to foreign income derived in carrying on a business at or through a PE, and subparagraph 128B(3)(h)(ii) to interest derived by a non-resident in carrying on business in Australia at or through a PE of the non-resident in Australia (similar language occurs elsewhere in section 128B). Notwithstanding this variety of expression, the same operating idea of attribution applies in these and similar cases.
-
-Note that the word 'attributable' has been held to mean 'owing to' or 'produced by' (per Central Asbestos Co v. Dodd (1972) 2 All ER 1135, [1973] AC 518). It is synonymous with the phrases 'a contributory causal connection' per Walsh v. Rother District Council [1978] 1 All ER 510; [1978] ICR 1216 and a 'contributing cause' per the Full Federal Court in Repatriation Commission v. Law (1980) 31 ALR 140. See also paragraphs 37 and 108-109 of Taxation Ruling TR 2007/5 and paragraphs 255-258 of Taxation Ruling TR 2010/1.
+Subsection 128B(2A) of the ITAA 1936 states that: Subject to subsection (3), where income: (a)is, or has, after 2 July 1973, been, derived, or derived in part, by a person to whom this section applies in carrying on business in a country outside Australia at or through a permanent establishment of the person in that country; and
+(b)consists of interest that: (i)is or has been paid to the person by another person to whom this section applies and is not an outgoing wholly incurred by that other person in carrying on business in a country outside Australia at or through a permanent establishment of that other person in that country; or
+(ii)is or has been paid to the first-mentioned person by a person who is, or by persons each of whom is, not a resident and is, or is in part, an outgoing incurred by that last-mentioned person or those last-mentioned persons in carrying on business in Australia at or through a permanent establishment of that last-mentioned person or those last-mentioned persons in Australia; this section also applies to that income or to the part of that income so derived, as the case may be. Taxation Ruling TR 2001/11 deals with the operation of Australia's permanent establishment attribution rules. Paragraphs 3.16 and 3.18-3.19 of this ruling state that: 3.16 'Attributable' in this context has the same meaning as under the business profits article. The OECD Commentary on Article 7 states that the approach to the attribution test preferred by most countries focuses on where the profits are generated, that is whether they are generated through the PE. This will be so where, in substance, the resources and activities at the relevant place are the source of the profit. 3.18 Accordingly, income is attributable to activities conducted at or through a PE to the extent that those activities are, in substance, a contributing factor in generating the income or give rise to benefits from expenditure incurred. 3.19 ... In the ITAA 1936, subsection 136AE(4) refers to the derivation of income or the incurring of expenditure being attributable to activities carried on by the taxpayer at or through the PE, section 23AH refers to foreign income derived in carrying on a business at or through a PE, and subparagraph 128B(3)(h)(ii) to interest derived by a non-resident in carrying on business in Australia at or through a PE of the non-resident in Australia (similar language occurs elsewhere in section 128B). Notwithstanding this variety of expression, the same operating idea of attribution applies in these and similar cases. Note that the word 'attributable' has been held to mean 'owing to' or 'produced by' (per Central Asbestos Co v. Dodd (1972) 2 All ER 1135, [1973] AC 518). It is synonymous with the phrases 'a contributory causal connection' per Walsh v. Rother District Council [1978] 1 All ER 510; [1978] ICR 1216 and a 'contributing cause' per the Full Federal Court in Repatriation Commission v. Law (1980) 31 ALR 140. See also paragraphs 37 and 108-109 of Taxation Ruling TR 2007/5 and paragraphs 255-258 of Taxation Ruling TR 2010/1.
 As paragraph 128B(2A)(a) of the ITAA 1936 is worded sufficiently similarly to the expressions referred to in paragraph 3.19 of TR 2001/11, Australia's permanent establishment attribution rules apply equally in this instance. Therefore, consistent with paragraphs 3.18, 4.22-4.23 and 4.28-4.30 of TR 2001/11, it is necessary to determine the activities that are, in substance, a contributing or causal factor in generating the interest income - that is the economic activities that have given rise to the derivation of the interest income by the Australian resident taxpayer.
-TR 2001/11 does not provide any explicit guidance on attributing interest income within an entity, but does do so in respect of interest expense. We consider that the principles in determining the attribution of interest expense are equally applicable to attributing interest income. Therefore, of relevance to this issue is paragraph 3.42 of TR 2001/11 which states that:
-
-To the extent that funds borrowed by an entity are used in connection with the business carried on through its PE, the interest expense incurred by the entity on those borrowing's [sic] is attributable to the PE.
-
-The economic activities of the taxpayer that have given rise to the derivation of the interest income by the taxpayer, are the production and sale of goods through the taxpayer's permanent establishment in the foreign country, and the entering into of loans to AusCo2 in Australia.
+TR 2001/11 does not provide any explicit guidance on attributing interest income within an entity, but does do so in respect of interest expense. We consider that the principles in determining the attribution of interest expense are equally applicable to attributing interest income. Therefore, of relevance to this issue is paragraph 3.42 of TR 2001/11 which states that: To the extent that funds borrowed by an entity are used in connection with the business carried on through its PE, the interest expense incurred by the entity on those borrowing's [sic] is attributable to the PE. The economic activities of the taxpayer that have given rise to the derivation of the interest income by the taxpayer, are the production and sale of goods through the taxpayer's permanent establishment in the foreign country, and the entering into of loans to AusCo2 in Australia.
 As mentioned above, the loans to AusCo2 were made under an automated (zero balance physical) cash sweeping arrangement operating on the Australian bank account.
 In this case, entering into the loans in Australia is insignificant by comparison with the production and sales activities through the permanent establishment in the foreign country, which generated all of the money that was loaned by the taxpayer to AusCo2.
 This money (being income from production and sales) was solely attributable to the activities of the offshore permanent establishment.
 Accordingly, it is considered that the main contributing factor in generating the interest income is the activity of the permanent establishment which generated the principal from which the interest income is derived. Therefore, the interest income is derived in carrying on business in the foreign country at or through a permanent establishment of the taxpayer in that country.
 In other words, consistent with paragraphs 3.18, 3.42 and 4.22- 4.23 of TR 2001/11, where funds lent by the taxpayer are generated in connection with the business carried on through its permanent establishment, the interest income derived by the taxpayer from those funds is attributable to the permanent establishment - because it is caused or produced by the economically significant activities performed by the permanent establishment.
 Where none of the exceptions in section 128B of the ITAA 1936 apply and all of the requirements of subsection 128B(2A) of the ITAA 1936 are satisfied, interest payments on the loans from the taxpayer to AusCo2 will be liable for interest withholding tax.
-In this regard, section 12-255 of Schedule 1 to the Taxation Administration Act 1953 (TAA) requires a borrower to withhold from an interest payment on a loan where the interest is payable in Australia, but is derived by an Australian resident lender in carrying on a business through a permanent establishment in a country outside Australia. Note also that section 12-260 of Schedule 1 to the TAA requires the lender to facilitate this by giving a notice in writing to the borrower that the loan originated from a foreign branch of the lender.
-
-Note 1
- : working out a withholding tax liability where the entities paying and receiving the interest are members of the same consolidated group, is not one of the head company core purposes under subsection 701-1(2) of the Income Tax Assessment Act 1997 (ITAA 1997) nor is it one of the entity core purposes under subsection 701-1(3) of the ITAA 1997. The core purposes relate to working out a liability for income tax. As withholding tax does not come within the meaning of 'income tax' in subsection 995-1 of the ITAA 1997, the liability for withholding tax is not subject to the single entity rule.
-
-Note 2
- : subsection 128B(11) of the ITAA 1936 provides that income tax payable by virtue of subsection 128B(2A) of the ITAA 1936 is in addition to, and shall not be taken into account in arriving at the amount of, any other income tax payable in respect of the interest income.
-
-Date of decision:
-  19 December 2012
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 128B   subsection 128B(2A)   paragraph 128B(2A)(a)   subsection 128B(5)   subsection 128B(11)
-Income Tax Assessment Act 1997   subsection 701-1(2)   subsection 701-1(3)   subsection 995-1(1)
-Taxation Administration Act 1953   Schedule 1 section 12-255   Schedule 1 section 12-260
-
-Case References:
-
-Central Asbestos Co v Dodd   [1972] 2 All ER 1135   [1973] AC 518
-
-Repatriation Commission v Law   (1980) 31 ALR 140
-
-Walsh v Rother District Council   [1978] 1 All ER 510   [1978] ICR 1216
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/11
+In this regard, section 12-255 of Schedule 1 to the Taxation Administration Act 1953 (TAA) requires a borrower to withhold from an interest payment on a loan where the interest is payable in Australia, but is derived by an Australian resident lender in carrying on a business through a permanent establishment in a country outside Australia. Note also that section 12-260 of Schedule 1 to the TAA requires the lender to facilitate this by giving a notice in writing to the borrower that the loan originated from a foreign branch of the lender. Note 1 : working out a withholding tax liability where the entities paying and receiving the interest are members of the same consolidated group, is not one of the head company core purposes under subsection 701-1(2) of the Income Tax Assessment Act 1997 (ITAA 1997) nor is it one of the entity core purposes under subsection 701-1(3) of the ITAA 1997. The core purposes relate to working out a liability for income tax. As withholding tax does not come within the meaning of 'income tax' in subsection 995-1 of the ITAA 1997, the liability for withholding tax is not subject to the single entity rule. Note 2 : subsection 128B(11) of the ITAA 1936 provides that income tax payable by virtue of subsection 128B(2A) of the ITAA 1936 is in addition to, and shall not be taken into account in arriving at the amount of, any other income tax payable in respect of the interest income. Date of decision: 19 December 2012 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1936 section 128B subsection 128B(2A) paragraph 128B(2A)(a) subsection 128B(5) subsection 128B(11)
+Income Tax Assessment Act 1997 subsection 701-1(2) subsection 701-1(3) subsection 995-1(1)
+Taxation Administration Act 1953 Schedule 1 section 12-255 Schedule 1 section 12-260 Case References: Central Asbestos Co v Dodd [1972] 2 All ER 1135 [1973] AC 518 Repatriation Commission v Law (1980) 31 ALR 140 Walsh v Rother District Council [1978] 1 All ER 510 [1978] ICR 1216 Related Public Rulings (including Determinations) Taxation Ruling TR 2001/11
 Taxation Ruling TR 2006/9
 Taxation Ruling TR 2007/5
-Taxation Ruling TR 2010/1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/128
-
-Keywords
-
-International tax
- Withholding taxes
- PAYG withholding under dividend, interest & royalty payment category
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 January 2013
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 December 2012
-Original statement
-
-You are here
+Taxation Ruling TR 2010/1 Related ATO Interpretative Decisions ATO ID 2006/128 Keywords International tax Withholding taxes PAYG withholding under dividend, interest & royalty payment category Business Line: Public Groups and International Date of publication: 4 January 2013 ISSN: 1445-2782 history Date: Version: 19 December 2012
+Original statement You are here
 12 April 2013
 Archived

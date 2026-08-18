@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2010/92
-==================================================
-
-Income Tax
- Assessability of dividend income sourced in France received by an Australian resident individual
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of dividend income sourced in France received by an Australian resident individual FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are French sourced dividends received by an Australian resident individual assessable under subsection 6-10(4) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The French sourced dividends received by an Australian resident individual are assessable under subsection 6-10(4) of the ITAA 1997. However, if the Australian resident has paid French income tax not exceeding 15% of the gross amount of the dividend income, they are entitled to claim a foreign income tax offset.
@@ -32,39 +19,6 @@ Section 4 of the Agreements Act incorporates that Act with the ITAA 1936 and the
 Schedule 11 to the Agreements Act contains the tax treaty between Australia and France (the 2006 French Convention) which came into force on 1 June 2009 and, by virtue of Article 30(1)(a)(ii), applies to dividends derived after 1 July 2010. The 2006 French Convention operates to prevent fiscal evasion and avoid double taxation of income received by Australian and French residents.
 Article 10(1) of the 2006 French Convention provides that dividends paid by a company that is a resident of France, being dividends beneficially owned by a resident of Australia, may be taxed in Australia.
 However, Article 10(2)(c) of the 2006 French Convention allows France to also tax such dividends, at a rate not exceeding 15%, where the beneficial owner of the dividends is an individual.
-Hence, although the 2006 French Convention limits the rate of tax France can impose, it allows for this dividend income to be taxed by both countries. As the Convention does not prevent Australia taxing the dividend income received by the Australian resident individual, the dividend income is assessable in Australia under subsection 6-10(4) of the ITAA 1997.
-
-Note: as the country of residence of the taxpayer, Australia is obliged to provide relief from any double taxation of the dividends in accordance with Article 23(1) of the 2006 French Convention. Where France exercises its right under Article 10(2)(c) of the 2006 French Convention to tax the dividends, the taxpayer will be entitled to a foreign income tax offset under Division 770 of the ITAA 1997.
-
-Date of decision:
-  7 April 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 23AJ   section 23AI   section 23AK   section 128D   subsection 44(1)   paragraph 44(1)(a)
-Income Tax Assessment Act 1997   section 6-10   subsection 6-10(4)   section 10-5   Division 770
-International Tax Agreements Act 1953   section 4   Schedule 11   Schedule 11, Article 10(1)   Schedule 11, Article 10(2)(c)   Schedule 11, Article 23(1)   Schedule 11, Article 30(1)(a)(ii)
-
-Keywords
-
-Dividend income
- Double tax agreements
- Foreign income
- Foreign source income
- France
- International tax
-
-Siebel/TDMS Reference Number:
-  3948047
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  30 April 2010
-
-ISSN:
- 1445-2782
+Hence, although the 2006 French Convention limits the rate of tax France can impose, it allows for this dividend income to be taxed by both countries. As the Convention does not prevent Australia taxing the dividend income received by the Australian resident individual, the dividend income is assessable in Australia under subsection 6-10(4) of the ITAA 1997. Note: as the country of residence of the taxpayer, Australia is obliged to provide relief from any double taxation of the dividends in accordance with Article 23(1) of the 2006 French Convention. Where France exercises its right under Article 10(2)(c) of the 2006 French Convention to tax the dividends, the taxpayer will be entitled to a foreign income tax offset under Division 770 of the ITAA 1997. Date of decision: 7 April 2010 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 section 23AJ section 23AI section 23AK section 128D subsection 44(1) paragraph 44(1)(a)
+Income Tax Assessment Act 1997 section 6-10 subsection 6-10(4) section 10-5 Division 770
+International Tax Agreements Act 1953 section 4 Schedule 11 Schedule 11, Article 10(1) Schedule 11, Article 10(2)(c) Schedule 11, Article 23(1) Schedule 11, Article 30(1)(a)(ii) Keywords Dividend income Double tax agreements Foreign income Foreign source income France International tax Siebel/TDMS Reference Number: 3948047 Business Line: Public Groups and International Date of publication: 30 April 2010 ISSN: 1445-2782

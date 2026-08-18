@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/339
-==================================================
-
-Income Tax
- Interest deduction on funds borrowed to fund the redemption of redeemable preference shares
- FOI status: may be released
-
-This ATO ID is withdrawn from the database due to the repeal of Division 16G of the Income Tax Assessment Act 1936 which took effect from 1 July 2001. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions up to, and including, 30 June 2001.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest deduction on funds borrowed to fund the redemption of redeemable preference shares FOI status: may be released This ATO ID is withdrawn from the database due to the repeal of Division 16G of the Income Tax Assessment Act 1936 which took effect from 1 July 2001. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions up to, and including, 30 June 2001. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where the taxpayer, a resident company, borrowed funds from another company to redeem preference shares in itself and redeemed those shares, is the amount owing on the borrowed funds 'in connection with the acquisition of an asset by the taxpayer' for the purposes of former paragraph 159GZZE(1)(b) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The amount owing is not 'in connection with the acquisition of an asset by the taxpayer' for the purposes of former paragraph 159GZZE(1)(b) of the ITAA 1936 where the taxpayer borrowed funds from another company to redeem preference shares in itself and redeemed those shares.
@@ -28,87 +13,13 @@ Company B owns all the issued preference shares in company A, the taxpayer.
 Company A borrows an amount from company X in the 1998-99 income year to redeem the preference shares owned by company B. The preference shares were then redeemed by company A.
 Company A pays interest to company X on the money company A borrowed to redeem the preference shares.
 Reasons for Decision
-Former section 159GZZE of the ITAA 1936 provided that a deduction for interest was reduced where, amongst other things not relevant for present purposes, the interest (the amount of which would, apart from Division 16G of Part III of the ITAA 1936 (Debt Creation for Non-residents), be allowable as a deduction to the taxpayer) is:
-
-•in respect of an amount owing 'in connection with the acquisition of an asset by the taxpayer' from another company (the 'eligible seller').
-
-The 'amount owing' in former section 159GZZE of the ITAA 1936 is the amount borrowed to redeem the preference shares. Former section 159GZY of the ITAA 1936 defined an asset to be any form of property including, relevantly, a chose in action. A redeemable preference share is an asset for the purposes of former section 159GZY of the ITAA 1936 as a share is a chose in action. However, whether the amount owing is 'in connection with the acquisition of an asset by the taxpayer' depends on whether the redemption of the redeemable preference shares results in the taxpayer acquiring an asset.
+Former section 159GZZE of the ITAA 1936 provided that a deduction for interest was reduced where, amongst other things not relevant for present purposes, the interest (the amount of which would, apart from Division 16G of Part III of the ITAA 1936 (Debt Creation for Non-residents), be allowable as a deduction to the taxpayer) is: •in respect of an amount owing 'in connection with the acquisition of an asset by the taxpayer' from another company (the 'eligible seller'). The 'amount owing' in former section 159GZZE of the ITAA 1936 is the amount borrowed to redeem the preference shares. Former section 159GZY of the ITAA 1936 defined an asset to be any form of property including, relevantly, a chose in action. A redeemable preference share is an asset for the purposes of former section 159GZY of the ITAA 1936 as a share is a chose in action. However, whether the amount owing is 'in connection with the acquisition of an asset by the taxpayer' depends on whether the redemption of the redeemable preference shares results in the taxpayer acquiring an asset.
 Subsection 254J(1) of the Corporations Law and of the Corporations Act 2001 provides that redeemable preference shares are cancelled on redemption. 'Cancelled on redemption' is not defined.
 In respect of the word 'cancelled', paragraph 16 of Taxation Ruling TR 94/30 states that the cancellation of a share means that it ceases to exist.
-At common law, 'redemption' of redeemable preference shares has the effect as stated by Cohen J in Re Arrowfield Group Limited (1995) 13 ACLC 1187 at 1192:
-
-The ordinary meaning of redemption in these circumstances, ..., is to "buy back or to pay off". See Jowett, The Dictionary of English Law. The Macquarie Dictionary also refers to "recover (something pledged or mortgaged) by payment or other satisfaction" It might be thought that other satisfaction is the issue of ordinary shares. The general meaning however, in respect of the redemption of ... shares is to pay them off.
-
-The meaning(s) of the word 'on' from the Australian Concise Oxford English Dictionary 2004 Oxford University Press, Fourth Edition, p. 978 that is relevant for present purposes are:
-
-... 3. (of time) exactly at; contemporaneously with (.. on schedule .. on my return) ... 4. immediately after or before (I saw them on my return) 5. as a result of ...
-
-On the wording of subsection 254J(1) of the Corporations Act, the context in which the term 'on' is used is as a connector as to time for the words 'cancelled' and 'redemption'. Hence, from the ordinary meaning stated above, the Commissioner considers that this term refers to the precise point in time at which redemption occurs; the point in time the taxpayer makes payment to the eligible seller to redeem the preference shares. Accordingly, by operation of subsection 254J(1), the preference shares are cancelled and cease to exist at the point in time redemption occurs.
+At common law, 'redemption' of redeemable preference shares has the effect as stated by Cohen J in Re Arrowfield Group Limited (1995) 13 ACLC 1187 at 1192: The ordinary meaning of redemption in these circumstances, ..., is to "buy back or to pay off". See Jowett, The Dictionary of English Law. The Macquarie Dictionary also refers to "recover (something pledged or mortgaged) by payment or other satisfaction" It might be thought that other satisfaction is the issue of ordinary shares. The general meaning however, in respect of the redemption of ... shares is to pay them off. The meaning(s) of the word 'on' from the Australian Concise Oxford English Dictionary 2004 Oxford University Press, Fourth Edition, p. 978 that is relevant for present purposes are: ... 3. (of time) exactly at; contemporaneously with (.. on schedule .. on my return) ... 4. immediately after or before (I saw them on my return) 5. as a result of ... On the wording of subsection 254J(1) of the Corporations Act, the context in which the term 'on' is used is as a connector as to time for the words 'cancelled' and 'redemption'. Hence, from the ordinary meaning stated above, the Commissioner considers that this term refers to the precise point in time at which redemption occurs; the point in time the taxpayer makes payment to the eligible seller to redeem the preference shares. Accordingly, by operation of subsection 254J(1), the preference shares are cancelled and cease to exist at the point in time redemption occurs.
 As a result, there is no point in time where the taxpayer acquired an asset being the choses in action that were the preference shares prior to their redemption and cancellation.
 There is no acquisition of an asset by the taxpayer for the purposes of paragraph 159GZZE(1)(b) of the ITAA 1936 that can be connected to the amount owing.
-Accordingly, the former section 159GZZE of the ITAA 1936 has no application where the amount owing in paragraph 159GZZB(1)(b) of the ITAA 1936 is in respect of funds borrowed by the taxpayer from another company to redeem preference shares.
-
-Note: Division 16G of the ITAA 1936 was repealed effective from 1 July 2001.
-
-Date of decision:
-  12 December 2006
-
-Year of income:
-  Year ended 30 June 1999 Year ended 30 June 2000 Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 16G of Part III   section 159GZZE   paragraph 159GZZE(1)(b)   section 159GZY
-Corporations Act 2001 (Corporations Law)   subsection 254J(1)
-
-Case References:
-
-Re Arrowfield Group Limited    (1995) 13 ACLC 1187 at 1192
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 94/30
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2005/340
-
-Other References:
-
-The Dictionary of English Law, William Jowett: First supplement to the second edition Emlyn Williams London: Sweet & Maxwell 1981
- Australian Concise Oxford English Dictionary 2004 Fourth Edition. Oxford University Press p.978
-
-Keywords
-
-Accrued interest
- Acquisition of assets
- Debt interest
- Deductions & expenses
- Foreign controllers
- International tax
- Redeemable preference shares
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  22 December 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 December 2006
-Original statement
-
-You are here
- 4 March 2011
+Accordingly, the former section 159GZZE of the ITAA 1936 has no application where the amount owing in paragraph 159GZZB(1)(b) of the ITAA 1936 is in respect of funds borrowed by the taxpayer from another company to redeem preference shares. Note: Division 16G of the ITAA 1936 was repealed effective from 1 July 2001. Date of decision: 12 December 2006 Year of income: Year ended 30 June 1999 Year ended 30 June 2000 Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 Division 16G of Part III section 159GZZE paragraph 159GZZE(1)(b) section 159GZY
+Corporations Act 2001 (Corporations Law) subsection 254J(1) Case References: Re Arrowfield Group Limited (1995) 13 ACLC 1187 at 1192 Related Public Rulings (including Determinations) Taxation Ruling TR 94/30 ATO Interpretative Decisions overturned by this decision ATO ID 2005/340 Other References: The Dictionary of English Law, William Jowett: First supplement to the second edition Emlyn Williams London: Sweet & Maxwell 1981 Australian Concise Oxford English Dictionary 2004 Fourth Edition. Oxford University Press p.978 Keywords Accrued interest Acquisition of assets Debt interest Deductions & expenses Foreign controllers International tax Redeemable preference shares Business Line: International Centre of Expertise Date of publication: 22 December 2006 ISSN: 1445-2782 history Date: Version: 12 December 2006
+Original statement You are here 4 March 2011
 Archived

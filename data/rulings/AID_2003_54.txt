@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/54
-==================================================
-
-Goods and Services Tax
- GST and supply of taxidermy services
- FOI status: may be released
-
-The ATO view on this issue is covered in Goods and Services Tax Ruling GSTR 2003/7.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and supply of taxidermy services FOI status: may be released The ATO view on this issue is covered in Goods and Services Tax Ruling GSTR 2003/7. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an Australian resident taxidermist, making a GST-free supply under Division 38 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it performs taxidermy services on an animal in Australia and then sends that animal overseas to its non-resident owner?
 Decision
 No, the entity is not making a GST-free supply under Division 38 of the GST Act when it performs taxidermy services on an animal in Australia and then sends that animal overseas to its non-resident owner.
@@ -30,57 +15,15 @@ Reasons for Decision
 Division 38 of the GST Act sets out the supplies that are GST-free. Under section 38-185 of the GST Act, the export of goods, in certain circumstances, is GST-free. Under section 38-190 of the GST Act, certain supplies of things other than goods or real property, for consumption outside of Australia, are also GST-free. In order to determine whether a supply is GST-free under either of these sections, the characteristics of the supply must be examined.
 The entity's contract with the non-resident is to supply it with taxidermy services, that is, the preservation and mounting of the game animal for display. The entity is not supplying the game animal itself. The game animal remains the property of the non-resident at all times. Therefore, the supply made by the entity cannot be characterised as the export of goods. The entity is making a supply of services. As such, section 38-185 of the GST Act does not apply to the entity's supply. Section 38-190 of the GST Act is the relevant provision.
 Of relevance are item 2 in the table in subsection 38-190(1) of the GST Act (Item 2) and item 3 in the table in subsection 38-190(1) of the GST Act (Item 3).
-Item 2 provides that a supply is GST-free where it is made to a non-resident who is not in Australia when the thing supplied is done, and
-
-a) the supply is neither a supply of work physically performed on goods situated in Australia when the work is done nor a supply directly connected with real property situated in Australia; or
-b) the non-resident acquires the thing in carrying on the non-resident's enterprise, but is not registered or required to be registered.
-
-The non-resident is not in Australia when the entity carries out the taxidermy work. The supply of taxidermy work is the supply of a service that involves work physically performed on an animal. The animal is in Australia when the work is done. As such, the entity's supply is a 'supply of work physically performed on goods situated in Australia'. Therefore, paragraph (a) in Item 2 is not satisfied.
+Item 2 provides that a supply is GST-free where it is made to a non-resident who is not in Australia when the thing supplied is done, and a) the supply is neither a supply of work physically performed on goods situated in Australia when the work is done nor a supply directly connected with real property situated in Australia; or
+b) the non-resident acquires the thing in carrying on the non-resident's enterprise, but is not registered or required to be registered. The non-resident is not in Australia when the entity carries out the taxidermy work. The supply of taxidermy work is the supply of a service that involves work physically performed on an animal. The animal is in Australia when the work is done. As such, the entity's supply is a 'supply of work physically performed on goods situated in Australia'. Therefore, paragraph (a) in Item 2 is not satisfied.
 Paragraph (b) in Item 2 requires that the non-resident acquires the thing in carrying on its enterprise, but is not registered or required to be registered. The non-resident does not acquire the entity's services in carrying on its enterprise. As such, paragraph (b) in Item 2 is not satisfied.
 As neither paragraph (a) nor paragraph (b) in Item 2 are satisfied, the taxidermy service supplied by the entity is not GST-free under this item.
-Item 3 provides that a supply of a thing other than goods or real property is GST-free if it is a supply:
-
-a) that is made to a recipient who is not in Australia when the thing supplied is done; and
-b) the effective use or enjoyment of which takes place outside Australia;
-
-other than a supply of work physically performed on goods situated in Australia when the thing supplied is done, or a supply directly connected with real property situated in Australia.
+Item 3 provides that a supply of a thing other than goods or real property is GST-free if it is a supply: a) that is made to a recipient who is not in Australia when the thing supplied is done; and
+b) the effective use or enjoyment of which takes place outside Australia; other than a supply of work physically performed on goods situated in Australia when the thing supplied is done, or a supply directly connected with real property situated in Australia.
 As stated above, the entity's supply of the taxidermy work is a 'supply of work physically performed on goods situated in Australia'. As such, Item 3 is not satisfied. Therefore, the supply of the taxidermy service is not GST-free under section 38-190 of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it performs taxidermy services on an animal in Australia and then sends that animal overseas to its non-resident owner.
-Date of decision:
-  27 July 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   section 38-185   section 38-190   subsection 38-190(1) table item 2   subsection 38-190(1) table item 2 paragraph (a)   subsection 38-190(1) table item 2 paragraph (b)   subsection 38-190(1) table item 3   Division 40
-
-Keywords
-
-Goods and services tax
- GST exports
- GST supplies & acquisitions
- GST taxable supply
-
-Business Line:
-  GST
-
-Date of publication:
-  15 March 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 July 2002
-Original statement
-
-You are here
+Date of decision: 27 July 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 Division 38 section 38-185 section 38-190 subsection 38-190(1) table item 2 subsection 38-190(1) table item 2 paragraph (a) subsection 38-190(1) table item 2 paragraph (b) subsection 38-190(1) table item 3 Division 40 Keywords Goods and services tax GST exports GST supplies & acquisitions GST taxable supply Business Line: GST Date of publication: 15 March 2003 ISSN: 1445-2782 history Date: Version: 27 July 2002
+Original statement You are here
 19 August 2005
 Archived

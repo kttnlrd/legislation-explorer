@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/91
-==================================================
-
-Income Tax
- Income tax: deductibility of expenditure on cables and cable support equipment by a service provider
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income tax: deductibility of expenditure on cables and cable support equipment by a service provider FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is expenditure incurred by a taxpayer on cables and cable support equipment which it gives up in the course of connecting its network to another entity's network in order to obtain the use of the other entity's network, an allowable deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The expenditure incurred by the taxpayer on cables and cable support equipment which it gives up in the course of connecting its network to another entity's network in order to obtain the use of the other entity's network is not an allowable deduction under section 8-1 of the ITAA 1997. Such expenditure is capital in nature.
@@ -23,84 +12,15 @@ The taxpayer's rights of access to the use of the other entity's network lasts f
 Reasons for Decision
 A deduction is allowed under section 8-1 of the ITAA 1997 for losses or outgoings to the extent that the loss or outgoing is incurred in gaining or producing assessable income, or is necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income. However, a deduction is not allowed under section 8-1 of the ITAA 1997 where the loss or outgoing is of a capital, private or domestic nature, or is incurred in producing exempt income, or where another provision of the ITAA 1997 prevents a deduction.
 As the taxpayer is carrying on the business of a service provider, the expenditure incurred by the taxpayer on the cables and cable support equipment will be expenditure incurred in carrying on a business for the purpose of gaining or producing assessable income. The only relevant question then in determining whether a deduction is allowed under section 8-1 of the ITAA 1997 is whether the expenditure incurred by the taxpayer on the cables and cable support equipment is capital in nature.
-The decision of the High Court in Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation (1938) 61 CLR 337 (1938) 5 ATD 23; (1938) 1 AITR 403 (Sun Newspapers Case) is the leading authority on the distinction between revenue and capital expenditure. The general rule is found in the frequently quoted statement of Dixon J where he said:
-
-The distinction between expenditure and outgoings on revenue account and on capital account corresponds with the distinction between the business entity structure or organization set up or established for the earning of profit and the process by which such an organization operates to obtain regular returns by means of regular outlay ... As general conceptions it may not be difficult to distinguish between the profit yielding subject and the process of operating it. In the same way expenditure and outlay upon establishing, replacing and enlarging the profit-yielding subject may in a general way appear to be of a nature entirely different from the continual flow of working expenses which are or ought to be supplied continually out of the returns or revenue.
-
-In the Sun Newspapers Case, Dixon J stated that there are three matters to be considered when deciding whether expenditure incurred is revenue or capital in nature. These are:
-
-•the character of the advantage sought by the outgoing
+The decision of the High Court in Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation (1938) 61 CLR 337 (1938) 5 ATD 23; (1938) 1 AITR 403 (Sun Newspapers Case) is the leading authority on the distinction between revenue and capital expenditure. The general rule is found in the frequently quoted statement of Dixon J where he said: The distinction between expenditure and outgoings on revenue account and on capital account corresponds with the distinction between the business entity structure or organization set up or established for the earning of profit and the process by which such an organization operates to obtain regular returns by means of regular outlay ... As general conceptions it may not be difficult to distinguish between the profit yielding subject and the process of operating it. In the same way expenditure and outlay upon establishing, replacing and enlarging the profit-yielding subject may in a general way appear to be of a nature entirely different from the continual flow of working expenses which are or ought to be supplied continually out of the returns or revenue. In the Sun Newspapers Case, Dixon J stated that there are three matters to be considered when deciding whether expenditure incurred is revenue or capital in nature. These are: •the character of the advantage sought by the outgoing
 •the manner in which the advantage is to be used, relied upon or enjoyed by the taxpayer; and
-•the means adopted to obtain the advantage, such as by recurring payments.
-
-The character of the advantage sought provides important direction. It provides the best guidance as to the nature of the expenditure because it says the most about the essential character of the expenditure itself. The decision of the High Court in G P International Pipecoaters Pty Ltd v. Commissioner of Taxation (1990) 170 CLR 124 at 137; (1990) 90 ATC 4413 at 4419; (1990) 21 ATR 1 at 7 emphasised this, stating:
-
-The character of expenditure is ordinarily determined by reference to the nature of the asset acquired or the liability discharged by the making of the expenditure, for the character of the advantage sought by the making of the expenditure is the chief, if not the critical, factor in determining the character of what is paid: Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation (1938) 61 C.L.R 337, at p.363 ....
-
-In relation to the character of the advantage sought by the expenditure it is necessary to examine whether the expenditure secures an enduring benefit for the business. This test was outlined in British Insulated and Helsby Cables Ltd v. Atherton [1926] AC 205 at 213 - 214 by Viscount Cave where he stated:
-
-But when an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital.
-
-As noted above, when the matters stated by Dixon J in the Sun Newspapers Case are considered, the character of the advantage sought by the making of the expenditure is the chief, if not the critical, factor in determining the character of what is paid. The nature or character of the expenditure will therefore follow the advantage that is sought to be gained by incurring the expenditure. If the advantage to be gained is of a capital nature, then the expenditure incurred in gaining the advantage will also be of a capital nature.
+•the means adopted to obtain the advantage, such as by recurring payments. The character of the advantage sought provides important direction. It provides the best guidance as to the nature of the expenditure because it says the most about the essential character of the expenditure itself. The decision of the High Court in G P International Pipecoaters Pty Ltd v. Commissioner of Taxation (1990) 170 CLR 124 at 137; (1990) 90 ATC 4413 at 4419; (1990) 21 ATR 1 at 7 emphasised this, stating: The character of expenditure is ordinarily determined by reference to the nature of the asset acquired or the liability discharged by the making of the expenditure, for the character of the advantage sought by the making of the expenditure is the chief, if not the critical, factor in determining the character of what is paid: Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation (1938) 61 C.L.R 337, at p.363 .... In relation to the character of the advantage sought by the expenditure it is necessary to examine whether the expenditure secures an enduring benefit for the business. This test was outlined in British Insulated and Helsby Cables Ltd v. Atherton [1926] AC 205 at 213 - 214 by Viscount Cave where he stated: But when an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital. As noted above, when the matters stated by Dixon J in the Sun Newspapers Case are considered, the character of the advantage sought by the making of the expenditure is the chief, if not the critical, factor in determining the character of what is paid. The nature or character of the expenditure will therefore follow the advantage that is sought to be gained by incurring the expenditure. If the advantage to be gained is of a capital nature, then the expenditure incurred in gaining the advantage will also be of a capital nature.
 It is then appropriate for the nature of the expenditure incurred by the taxpayer on the cables and cable support equipment to be characterised by reference to the advantage that is sought to be gained by incurring the expenditure.
 In this case, the expenditure incurred by the taxpayer on the cables and cable support equipment is an integral part of achieving the connection between the taxpayer's network and the other entity's network. This connection secures the taxpayer's ability to provide its customers with access to a service capability and is not diminished by the fact that title in the cables and cable support equipment passes to the other entity upon installation.
 The advantage that is sought to be gained by the incurring of the expenditure is the taxpayer's ability to provide its customers with access to the service capability. This is a resource that the taxpayer can sell to create a customer base and also to expand the size of that customer base, thereby resulting in an enlargement of the profit yielding structure of its business.
 It is considered that the expenditure is correctly characterised as establishing and enlarging the profit-yielding structure of the taxpayer's business rather than being a working expense. As pointed out in the Sun Newspapers Case, expenditure incurred by a business that establishes or enlarges the profit yielding structure of the business is considered to be capital in nature.
 Further, it is considered that the expenditure incurred by the taxpayer on the cables and cable support infrastructure will secure an enduring benefit for the taxpayer's business. The enduring benefit obtained is the ongoing ability to provide access to a service capability which is a resource that the taxpayer can sell to establish and expand its customer base. This is an asset or an advantage for the enduring benefit of trade which continues to exist notwithstanding that property in and title to the cables and cable support equipment passes to the other entity upon installation.
 The advantage for which the expenditure on the cables and cable support equipment was paid is of a permanent and enduring character and an indispensable part of the profit-yielding structure of the taxpayer. The fact that the taxpayer's ability to provide the service capability lasts for the term of the agreement, as renewed, and is not everlasting does not alter this conclusion.
-This approach was confirmed by Latham CJ in the Sun Newspapers Case where he said:
-
-It is true that the payments did not result in obtaining a new capital asset of a material nature, but they did obtain a very real benefit or advantage for the companies, namely, the exclusion of what might have been serious competition. When the words "permanent" or "enduring" are used in this connection it is not meant that the advantage which will be obtained will last forever. The distinction which is drawn is that between more or less recurrent expenses involved in running a business and an expenditure for the benefit of the business as a whole.
-
-And Dixon J in the Sun Newspapers Case where he said:
-
-... the lasting character of the advantage is not necessarily a determining factor.
-
-The fact that the expenditure by the taxpayer on the cables and cable support equipment is not a once and for all payment, but is recurrent in the sense that expenditure on cables and cable support equipment is required in each of the relevant buildings of the other entity, will not prevent a conclusion that the expenditure in question is capital in nature.
-It is not appropriate to place much weight on the mere fact that a type of expenditure is recurrent. As pointed out by Dixon J in the Sun Newspapers Case:
-
-Recurrence is not a test, it is not more than a consideration the weight of which depends upon the nature of the expenditure.
-
-For these reasons, the expenditure incurred by the taxpayer on cables and cable support equipment will be capital in nature. Accordingly, the taxpayer will not be entitled to a deduction under section 8-1 of the ITAA 1997 for expenditure incurred by the taxpayer on cables and cable support equipment which it gives up in the course of connecting its network to another entity's network in order to obtain the use of the other entity's network.
-Date of decision:
-  27 July 2007
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1
-
-Case References:
-
-British Insulated and Helsby Cables Ltd v. Atherton     [1926] AC 205
-
-G P International Pipecoaters Pty Ltd v. Commissioner of Taxation    (1990) 170 CLR 124   (1990) 90 ATC 4413   (1990) 21 ATR 1
-
-Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation    (1938) 61 CLR 337   (1938) 5 ATD 23   (1938) 1 AITR 403
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/92
- ATO ID 2008/93
-
-Keywords
-
-Capital expenditure
- Deductions & expenses
-
-Siebel/TDMS Reference Number:
-  5667798; 1-5S8VUKE; 1-C5RRQOQ
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  20 June 2008
-
-Date reviewed:
-  4 August 2017
-
-ISSN:
- 1445-2782
+This approach was confirmed by Latham CJ in the Sun Newspapers Case where he said: It is true that the payments did not result in obtaining a new capital asset of a material nature, but they did obtain a very real benefit or advantage for the companies, namely, the exclusion of what might have been serious competition. When the words "permanent" or "enduring" are used in this connection it is not meant that the advantage which will be obtained will last forever. The distinction which is drawn is that between more or less recurrent expenses involved in running a business and an expenditure for the benefit of the business as a whole. And Dixon J in the Sun Newspapers Case where he said: ... the lasting character of the advantage is not necessarily a determining factor. The fact that the expenditure by the taxpayer on the cables and cable support equipment is not a once and for all payment, but is recurrent in the sense that expenditure on cables and cable support equipment is required in each of the relevant buildings of the other entity, will not prevent a conclusion that the expenditure in question is capital in nature.
+It is not appropriate to place much weight on the mere fact that a type of expenditure is recurrent. As pointed out by Dixon J in the Sun Newspapers Case: Recurrence is not a test, it is not more than a consideration the weight of which depends upon the nature of the expenditure. For these reasons, the expenditure incurred by the taxpayer on cables and cable support equipment will be capital in nature. Accordingly, the taxpayer will not be entitled to a deduction under section 8-1 of the ITAA 1997 for expenditure incurred by the taxpayer on cables and cable support equipment which it gives up in the course of connecting its network to another entity's network in order to obtain the use of the other entity's network.
+Date of decision: 27 July 2007 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 section 8-1 Case References: British Insulated and Helsby Cables Ltd v. Atherton [1926] AC 205 G P International Pipecoaters Pty Ltd v. Commissioner of Taxation (1990) 170 CLR 124 (1990) 90 ATC 4413 (1990) 21 ATR 1 Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation (1938) 61 CLR 337 (1938) 5 ATD 23 (1938) 1 AITR 403 Related ATO Interpretative Decisions ATO ID 2008/92 ATO ID 2008/93 Keywords Capital expenditure Deductions & expenses Siebel/TDMS Reference Number: 5667798; 1-5S8VUKE; 1-C5RRQOQ Business Line: Private Groups and High Wealth Individuals Date of publication: 20 June 2008 Date reviewed: 4 August 2017 ISSN: 1445-2782

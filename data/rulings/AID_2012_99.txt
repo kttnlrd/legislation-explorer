@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/99
-==================================================
-
-Income Tax
- Capital gains tax - direct small business participation percentage in a trust - meaning of 'distributions of income' and capital
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax - direct small business participation percentage in a trust - meaning of 'distributions of income' and capital FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When determining an entity's direct small business participation percentage in a trust under items 2 or 3 of the table in subsection 152-70(1) of the Income Tax Assessment Act 1997 (ITAA 1997), do the references to distributions of 'income' necessarily mean income according to ordinary concepts?
 Decision
 No. The references to distributions of 'income' in the context of determining an entity's direct small business participation percentage in a trust mean the income of the trust, determined according to the general law of trusts, to which a beneficiary could be entitled. Depending on the deed and/or actions of the trustee, this may be an amount that differs from the ordinary income of the trust.
@@ -23,76 +12,17 @@ The trustee has a power to appoint income of the trust among a range of discreti
 The trust deed does not define 'income' although the trustee does have a power to determine whether receipts are on capital or revenue account.
 Pursuant to the deed, the trustee validly resolves to treat the capital gain as income of the trust and to distribute it to beneficiary A.
 The trustee resolves to appoint the ordinary income to beneficiary B.
-Reasons for Decision
-
-Background
-
-The small business Capital Gains Tax (CGT) concessions will only potentially apply to a capital gain if the basic conditions in section 152-10 of the ITAA 1997 are met. Where that capital gain is made by a trust in respect of a share in a company, those basic conditions include the requirement that CGT concession stakeholders in that company together hold a small business participation percentage in the trust of at least 90 percent (paragraph 152-10(2)(b) of the ITAA 1997).
-
-Which entities have a small business participation percentage in the discretionary trust?
-
-An individual's direct small business participation percentage in a trust is worked out under either item 2 or item 3 of the table in subsection 152-70(1) of the ITAA 1997 depending on whether beneficiaries have or do not have entitlements to all of the income and capital of the trust.
-In this case the trust is a discretionary trust (beneficiaries do not have entitlements to all the income and capital of the trust) and so the relevant percentage is worked out under item 3 as follows:
-
-(a)if the trustee makes distributions of income during the income year....the percentage of the distributions to which the entity was beneficially entitled; or
-(b)if the trustee makes distributions of capital during the current year - the percentage of the distributions to which the entity was beneficially entitled;
-
-or, if 2 different percentages are applicable, the smaller.
-
-To make the calculation it must first be ascertained whether the amount treated by the trustee as income of the trust estate is 'income' for the purpose of paragraph (a) of item 3.
+Reasons for Decision Background The small business Capital Gains Tax (CGT) concessions will only potentially apply to a capital gain if the basic conditions in section 152-10 of the ITAA 1997 are met. Where that capital gain is made by a trust in respect of a share in a company, those basic conditions include the requirement that CGT concession stakeholders in that company together hold a small business participation percentage in the trust of at least 90 percent (paragraph 152-10(2)(b) of the ITAA 1997). Which entities have a small business participation percentage in the discretionary trust? An individual's direct small business participation percentage in a trust is worked out under either item 2 or item 3 of the table in subsection 152-70(1) of the ITAA 1997 depending on whether beneficiaries have or do not have entitlements to all of the income and capital of the trust.
+In this case the trust is a discretionary trust (beneficiaries do not have entitlements to all the income and capital of the trust) and so the relevant percentage is worked out under item 3 as follows: (a)if the trustee makes distributions of income during the income year....the percentage of the distributions to which the entity was beneficially entitled; or
+(b)if the trustee makes distributions of capital during the current year - the percentage of the distributions to which the entity was beneficially entitled; or, if 2 different percentages are applicable, the smaller. To make the calculation it must first be ascertained whether the amount treated by the trustee as income of the trust estate is 'income' for the purpose of paragraph (a) of item 3.
 Neither 'income' nor the expression 'distributions of income' is defined in that provision. However it is considered that when read in context income has the meaning which it has for the purposes of the general law of trusts.
 This is consistent with the decision in Commissioner of Taxation v. Bamford [2010] FCAFC 6; 2010 ATC 20-163 (Bamford). In that case, the High Court held that the expression 'income of the trust estate' as used in section 97 of the ITAA 1936 had a content found in the general law of trusts upon which Division 6 (including section 97) then operates. Section 97 is concerned with ascertaining whether a beneficiary is 'presently entitled to a share of the income of the trust estate' as a step in the process of determining the share of the trust's net income (calculated pursuant to subsection 95(1) of the ITAA 1936) included in the assessable income of the beneficiary.
 Item 3 of the table in subsection 152-70(1) provides a different legislative context. It is instead concerned with determining a beneficiary's entitlement to income distributions made by a trust for the purpose of determining the beneficiary's participation percentage in the trust. This is a step in the process of determining whether a capital gain made by the beneficiary on the disposal of its interest in the trust qualifies for any of the CGT small business concessions.
 While item 3 of the table in subsection 152-70(1) concerns a legislative enquiry that is different from that required by section 97, it is nonetheless considered that the reference in item 3 to 'income' also has a content found in the general law of trusts - albeit a content upon which item 3 then operates (in a different fashion from the operation of section 97).
 Accordingly, where a trust instrument, or the trustee acting in accordance with it, treats the whole or part of a receipt as income of a period and distributes that amount to a beneficiary entitled to income, that amount is a distribution of income within the meaning of paragraph (a) of item 3.
-In this case, it follows that in consequence of the trustee's valid resolution pursuant to the deed to treat the capital gain as income of the trust, that amount is 'income' for the purpose of paragraph (a) of item 3 of the table in subsection 152-70(1) of the ITAA 1997. As the trustee did not make a distribution of capital during the income year, beneficiary A has a direct small business participation percentage in the trust of 90% whereas B has a direct small business participation percentage in the trust of 10%.
-
-Is beneficiary A or beneficiary B a CGT concession stakeholder in the object company?
-
-An individual with a small business participation percentage in a company of at least 20% is a 'significant individual' in that entity and thereby qualifies as a CGT concession stakeholder of that entity (sections 152-55 and 152-60 of the ITAA 1997). The 20% can be made up of direct and indirect percentages (section 152-65 of the ITAA 1997).
+In this case, it follows that in consequence of the trustee's valid resolution pursuant to the deed to treat the capital gain as income of the trust, that amount is 'income' for the purpose of paragraph (a) of item 3 of the table in subsection 152-70(1) of the ITAA 1997. As the trustee did not make a distribution of capital during the income year, beneficiary A has a direct small business participation percentage in the trust of 90% whereas B has a direct small business participation percentage in the trust of 10%. Is beneficiary A or beneficiary B a CGT concession stakeholder in the object company? An individual with a small business participation percentage in a company of at least 20% is a 'significant individual' in that entity and thereby qualifies as a CGT concession stakeholder of that entity (sections 152-55 and 152-60 of the ITAA 1997). The 20% can be made up of direct and indirect percentages (section 152-65 of the ITAA 1997).
 Although the beneficiaries do not have a direct small business participation percentage in the company they have an indirect small business participation percentage calculated under section 152-75 of the ITAA 1997 of 45% and 5% respectively (as a consequence of the trust's 50% shareholding in the company immediately prior to the sale giving the trustee a direct small business participation percentage in the company of 50%).
 Beneficiary A is therefore a CGT concession stakeholder in the company (by virtue of holding an indirect small business participation percentage in the company of at least 20%). However, Beneficiary B is not a CGT concession stakeholder as its indirect small business participation percentage is only 5%.
-Despite beneficiary B not satisfying the significant individual test, the additional basic condition under paragraph 152-10(2)(b) will be met in respect of the capital gain made by the trustee from the disposal of the shares because beneficiary A is a CGT concession stakeholder in the object company and has a small business participation percentage in the trust of 90%.
-
-Note 1: The result would be different if the trustee had not resolved to treat the capital gain as income of the trust and had instead distributed the capital gain to beneficiary A as a capital distribution. The additional basic condition under paragraph 152-10(2)(b) would not be met because beneficiary A and B would each have a direct small business percentage in the trust worked out under item 3 of the table in subsection 152-70(1) of 0% (being the smaller percentage of the distributions of capital and income to which each beneficiary is beneficially entitled).
-
-Note 2: The reasoning in this ATOID would also broadly apply to the interpretation of income in subsection 328-125(4) of the ITAA 1997.
-
-Date of decision:
-  10 December 2012
-
-Year of income:
-  year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 97   section 102UI
-Income Tax Assessment Act 1997   section 152-10   subsection 152-10(2)   section 152-55   section 152-60   subsection 152-70(1)   subsection 328-125(4)
-Taxation Administration Act 1953   Schedule 1 section 12-180
-
-Case References:
-
-Commissioner of Taxation v Bamford   [2010] HCA 10   (2010) 240 CLR 481   2010 ATC 20-170   (2010) 75 ATR 1
-
-Keywords
-
-Capital gains
- CGT events
- CGT small business relief
- Trusts
- Trustees
- Discretionary trusts
- Trust income
- Trust deeds
-
-Siebel/TDMS Reference Number:
-  1-4E814A6
-
-Business Line:
-  Law and Practice
-
-Date of publication:
-  14 December 2012
-
-ISSN:
- 1445-2782
+Despite beneficiary B not satisfying the significant individual test, the additional basic condition under paragraph 152-10(2)(b) will be met in respect of the capital gain made by the trustee from the disposal of the shares because beneficiary A is a CGT concession stakeholder in the object company and has a small business participation percentage in the trust of 90%. Note 1: The result would be different if the trustee had not resolved to treat the capital gain as income of the trust and had instead distributed the capital gain to beneficiary A as a capital distribution. The additional basic condition under paragraph 152-10(2)(b) would not be met because beneficiary A and B would each have a direct small business percentage in the trust worked out under item 3 of the table in subsection 152-70(1) of 0% (being the smaller percentage of the distributions of capital and income to which each beneficiary is beneficially entitled). Note 2: The reasoning in this ATOID would also broadly apply to the interpretation of income in subsection 328-125(4) of the ITAA 1997. Date of decision: 10 December 2012 Year of income: year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1936 section 97 section 102UI
+Income Tax Assessment Act 1997 section 152-10 subsection 152-10(2) section 152-55 section 152-60 subsection 152-70(1) subsection 328-125(4)
+Taxation Administration Act 1953 Schedule 1 section 12-180 Case References: Commissioner of Taxation v Bamford [2010] HCA 10 (2010) 240 CLR 481 2010 ATC 20-170 (2010) 75 ATR 1 Keywords Capital gains CGT events CGT small business relief Trusts Trustees Discretionary trusts Trust income Trust deeds Siebel/TDMS Reference Number: 1-4E814A6 Business Line: Law and Practice Date of publication: 14 December 2012 ISSN: 1445-2782

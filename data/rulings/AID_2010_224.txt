@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/224
-==================================================
-
-Goods and Services Tax
- GST and mortgagees in possession: selling the property of a corporation
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and mortgagees in possession: selling the property of a corporation FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does Division 105 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) take precedence over Division 58 of the GST Act where a mortgagee in possession sells the property of a corporation?
 Decision
 Yes. Division 105 of the GST Act applies, to the exclusion of Division 58 of the GST Act, where a mortgagee in possession sells the property of a corporation.
@@ -23,101 +10,24 @@ A company borrows money from a lender to purchase a property. The lender obtains
 The company defaults on the loan repayments. The mortgagee takes possession of the property and sells it pursuant to the power of sale. The proceeds from the sale are applied towards the satisfaction of the outstanding debt. If the company had sold the property, the sale would have been a taxable supply.
 Reasons for Decision
 Division 58 of the GST Act applies to a taxable supply made by a representative of an incapacitated entity to the extent that the making of the supply is within the scope of the representative's responsibility or authority for managing the incapacitated entity's affairs.
-A representative of an incapacitated entity is defined in section 195-1 of the GST Act as:
-
-(a)a trustee in bankruptcy; or
+A representative of an incapacitated entity is defined in section 195-1 of the GST Act as: (a)a trustee in bankruptcy; or
 (b)a *liquidator; or
 (c)a receiver; or
 (ca)a controller (within the meaning of section 9 of the Corporations Act 2001); or
 (d)an administrator appointed to an entity under Division 2 of Part 5.3A of the Corporations Act 2001; or
 (e)a person appointed, or authorised, under an *Australian law to manage the affairs of an entity because it is unable to pay all its debts as and when they become due and payable; or
-(f)an administrator of a deed of company arrangement executed by the entity.
-
-Paragraph (ca) of the definition of a 'representative' includes a 'controller (within the meaning of section 9 of the Corporations Act 2001)'.
-Section 9 of the Corporations Act 2001 defines a 'controller' as follows:
-
-controller, in relation to the property of a corporation, means:
+(f)an administrator of a deed of company arrangement executed by the entity. Paragraph (ca) of the definition of a 'representative' includes a 'controller (within the meaning of section 9 of the Corporations Act 2001)'.
+Section 9 of the Corporations Act 2001 defines a 'controller' as follows: controller, in relation to the property of a corporation, means:
 a)a receiver, or receiver and manager, of that property; or
 b)anyone else who (whether or not as agent for the corporation) is in possession, or has control, of that property for the purpose of enforcing a charge;
-and has the meaning affected by paragraph 434F(b) (which deals with 2 or more persons appointed as controllers).
-
-'Charge' is defined quite broadly in section 9 of the Corporations Act 2001 as:
-
-Charge means a charge created in any way and includes a mortgage and an agreement to give or execute a charge or mortgage, whether on demand or otherwise.
-
-A mortgagee who takes possession of property of a corporation and sells it pursuant to the power of sale granted under the mortgage deed falls within paragraph (b) of the definition of a 'controller' as 'anyone else who ... is in possession, or has control, of that property for the purpose of enforcing a charge'.
+and has the meaning affected by paragraph 434F(b) (which deals with 2 or more persons appointed as controllers). 'Charge' is defined quite broadly in section 9 of the Corporations Act 2001 as: Charge means a charge created in any way and includes a mortgage and an agreement to give or execute a charge or mortgage, whether on demand or otherwise. A mortgagee who takes possession of property of a corporation and sells it pursuant to the power of sale granted under the mortgage deed falls within paragraph (b) of the definition of a 'controller' as 'anyone else who ... is in possession, or has control, of that property for the purpose of enforcing a charge'.
 As the mortgagee in possession of a property of a corporation is a 'representative', the sale of the property as a taxable supply falls within the ambit of Division 58 of the GST Act.
-However, the sale of the property made by the mortgagee in this case also meets the requirements of subsection 105-5(1) of the GST Act. Subsection 105-5(1) states:
-
-You make a
- taxable supply
- if:
-(a)you supply the property of another entity (the
- debtor
- ) to a third entity in or towards the satisfaction of a debt that the debtor owes to you; and
-(b)had the debtor made the supply, the supply would have been a *taxable supply.
-
-As the GST obligations of a mortgagee in possession fall within the ambit of both Divisions 58 and 105 of the GST Act, there is a need to determine which Division takes precedence because the obligations imposed under each Division are different. For instance, Division 58 requires the mortgagee to register separately on each occasion that it takes possession of property owned by a corporation, whereas Division 105 does not require separate registration.
-The accepted principle of statutory interpretation is that a general provision would give way to the more specific provision where there is conflict between the provisions (Pearce, DC &Geddes, RS, 2001, Statutory Interpretation In Australia, Butterworths, Sydney, p113). As stated by Deane J in Refrigerated Express Lines (A/Asia) Pty Limited v. Australian Meat and Live-stock Corp [1980] FCA 38:
-
-As a matter of general construction, where there is repugnancy between the general provision of a statute and provisions dealing with a particular subject matter, the latter must prevail and, to the extent of any such repugnancy, the general provisions will be inapplicable to the subject matter of the special provisions.
-
-The rule is that wherever there is a particular enactment and a general enactment in the same statute, and the latter, taken in its most comprehensive sense, would overrule the former, the particular enactment must be taken to be operative.... (per Romilly M.R., Pretty v. Solly [1859] EngR 249; (1859) 26 Beav. 606 at p. 610).
-
-Division 58 of the GST Act applies to a range of people who come within the definition of 'representative'. These people have varying degree of rights and obligations over the incapacitated entity's property. In contrast, Division 105 of the GST Act only applies to creditors who supply the debtor's property in or towards satisfaction of a debt owed to the creditor. As such, it is reasonable to conclude that Division 105 is a provision of more specific and limited application in comparison to Division 58. Division 58 applies in more general circumstances where a representative is appointed to manage the affairs of another entity.
-As Division 105 of the GST Act is more specific, it applies to the exclusion of Division 58 of the GST Act where a mortgagee supplies the property of a corporation pursuant to the power of sale in or towards the satisfaction of the outstanding debt.
-
-Note
- : the term 'property' is defined in section 9 of the Corporations Act 2001 and includes:
-
-Any legal or equitable estate or interest (whether present or future and whether vested or contingent) in a real or personal property of any description and includes a thing of action.
-
-as such the term 'property' in this ATO ID refers to both real and personal property. The latter can be secured by a chattel mortgage.
-
-Date of decision:
-  2 November 2010
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 58   Division 105   subsection 105-5(1)   section 195-1
-Corporations Act 2001   section 9
-
-Case References:
-
-Refrigerated Express Lines (A/Asia) Pty Limited v Australian Meat and Live-stock Corp   [1980] FCA 38
-
-Other References:
-
-Pearce, DC &Geddes, RS, 2001, Statutory Interpretation In Australia, Butterworths, Sydney
-
-Keywords
-
-Goods and services tax
- Insolvency
- Mortgagees in possession
- Concluding tax period
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  10 December 2010
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 2 November 2010
-Original statement
-
-You are here
+However, the sale of the property made by the mortgagee in this case also meets the requirements of subsection 105-5(1) of the GST Act. Subsection 105-5(1) states: You make a taxable supply if:
+(a)you supply the property of another entity (the debtor ) to a third entity in or towards the satisfaction of a debt that the debtor owes to you; and
+(b)had the debtor made the supply, the supply would have been a *taxable supply. As the GST obligations of a mortgagee in possession fall within the ambit of both Divisions 58 and 105 of the GST Act, there is a need to determine which Division takes precedence because the obligations imposed under each Division are different. For instance, Division 58 requires the mortgagee to register separately on each occasion that it takes possession of property owned by a corporation, whereas Division 105 does not require separate registration.
+The accepted principle of statutory interpretation is that a general provision would give way to the more specific provision where there is conflict between the provisions (Pearce, DC &Geddes, RS, 2001, Statutory Interpretation In Australia, Butterworths, Sydney, p113). As stated by Deane J in Refrigerated Express Lines (A/Asia) Pty Limited v. Australian Meat and Live-stock Corp [1980] FCA 38: As a matter of general construction, where there is repugnancy between the general provision of a statute and provisions dealing with a particular subject matter, the latter must prevail and, to the extent of any such repugnancy, the general provisions will be inapplicable to the subject matter of the special provisions. The rule is that wherever there is a particular enactment and a general enactment in the same statute, and the latter, taken in its most comprehensive sense, would overrule the former, the particular enactment must be taken to be operative.... (per Romilly M.R., Pretty v. Solly [1859] EngR 249; (1859) 26 Beav. 606 at p. 610). Division 58 of the GST Act applies to a range of people who come within the definition of 'representative'. These people have varying degree of rights and obligations over the incapacitated entity's property. In contrast, Division 105 of the GST Act only applies to creditors who supply the debtor's property in or towards satisfaction of a debt owed to the creditor. As such, it is reasonable to conclude that Division 105 is a provision of more specific and limited application in comparison to Division 58. Division 58 applies in more general circumstances where a representative is appointed to manage the affairs of another entity.
+As Division 105 of the GST Act is more specific, it applies to the exclusion of Division 58 of the GST Act where a mortgagee supplies the property of a corporation pursuant to the power of sale in or towards the satisfaction of the outstanding debt. Note : the term 'property' is defined in section 9 of the Corporations Act 2001 and includes: Any legal or equitable estate or interest (whether present or future and whether vested or contingent) in a real or personal property of any description and includes a thing of action. as such the term 'property' in this ATO ID refers to both real and personal property. The latter can be secured by a chattel mortgage. Date of decision: 2 November 2010 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 58 Division 105 subsection 105-5(1) section 195-1
+Corporations Act 2001 section 9 Case References: Refrigerated Express Lines (A/Asia) Pty Limited v Australian Meat and Live-stock Corp [1980] FCA 38 Other References: Pearce, DC &Geddes, RS, 2001, Statutory Interpretation In Australia, Butterworths, Sydney Keywords Goods and services tax Insolvency Mortgagees in possession Concluding tax period Business Line: Indirect Tax Date of publication: 10 December 2010 ISSN: 1445-2782 history Date: Version: 2 November 2010
+Original statement You are here
 16 November 2012
 Archived

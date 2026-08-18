@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/36
-==================================================
-
-Income Tax
- Company losses: continuity of ownership test - same persons must control the voting power or company must carry on same business
- FOI status: may be released
-
-This ATOID is withdrawn as it is a simple restatement of the law and does not contain an interpretative decision
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company losses: continuity of ownership test - same persons must control the voting power or company must carry on same business FOI status: may be released This ATOID is withdrawn as it is a simple restatement of the law and does not contain an interpretative decision This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a company required to calculate its taxable income and tax loss under Subdivision 165-B of the Income Tax Assessment Act 1997 (ITAA 1997) if, during the income year, a person begins to control, or becomes able to control, the voting power in the company for a purpose of obtaining a tax benefit for any person, unless the company satisfies the same business test (SBT) for the rest of the income year.
 Decision
 Yes. Section 165-40 of the ITAA 1997 provides that a company must calculate its taxable income and tax loss under Subdivision 165-B of the ITAA 1997 unless the same persons control the voting power throughout the income year, or the company carries on the same business for the rest of the income year following a change in control of its voting power.
@@ -26,60 +11,11 @@ During the relevant income year, there is a change of control of Subsidiary Comp
 Following the change of control, Subsidiary Company does not continue to carry on the same business for the rest of the relevant income year.
 New Persons began to control the voting power in Subsidiary Company for the purpose of obtaining tax benefits or advantages in terms of section 165-40 of the ITAA 1997 for themselves or for other persons. Following the date of change of control of Subsidiary Company, New Persons inject assessable income, in terms of section 175-20 of the ITAA 1997, from Family Trust into Subsidiary Company sufficient to offset the allowable deductions that are available to Subsidiary Company as at the date of change of control. New Persons are beneficiaries of Family Trust.
 Reasons for Decision
-Section 165-40 of the ITAA 1997 provides that:
-
-165-40(1)
- A company must calculate its taxable income and tax loss under this Subdivision if, during the income year, a person begins to control, or becomes able to control, the voting power in the company (whether directly, or indirectly through one or more interposed entities) for the purpose, or for purposes including the purpose, of:
-
-(a)getting some benefit or advantage in relation to how this Act applies; or
-(b)getting such a benefit or advantage for someone else.
-
-165-40(2)
- However, that person's control of the voting power, or ability to control it, does not require the company to calculate its taxable income under this Subdivision if the company satisfies the *same business test for the rest of the income year (the same business test period).
-
-165-40(3)
- Apply the *same business test to the *business that the company carried on immediately before the time (the test time) when the person began to control that voting power, or became able to control it.
-
-* denotes a term defined in section 995-1 of the ITAA 1997
-
-On the basis of the facts provided, section 165-40 of the ITAA 1997 applies to Subsidiary Company in the relevant income year. New Persons began to control the voting power in Subsidiary Company for the purpose of getting tax benefits or advantages. Subsidiary Company does not satisfy the SBT for the rest of the relevant income year.
+Section 165-40 of the ITAA 1997 provides that: 165-40(1) A company must calculate its taxable income and tax loss under this Subdivision if, during the income year, a person begins to control, or becomes able to control, the voting power in the company (whether directly, or indirectly through one or more interposed entities) for the purpose, or for purposes including the purpose, of: (a)getting some benefit or advantage in relation to how this Act applies; or
+(b)getting such a benefit or advantage for someone else. 165-40(2) However, that person's control of the voting power, or ability to control it, does not require the company to calculate its taxable income under this Subdivision if the company satisfies the *same business test for the rest of the income year (the same business test period). 165-40(3) Apply the *same business test to the *business that the company carried on immediately before the time (the test time) when the person began to control that voting power, or became able to control it. * denotes a term defined in section 995-1 of the ITAA 1997 On the basis of the facts provided, section 165-40 of the ITAA 1997 applies to Subsidiary Company in the relevant income year. New Persons began to control the voting power in Subsidiary Company for the purpose of getting tax benefits or advantages. Subsidiary Company does not satisfy the SBT for the rest of the relevant income year.
 Accordingly Subsidiary Company is required to divide the relevant income year into two periods in accordance with section 165-45 of the ITAA 1997. The first period starts at the start of the relevant income year and ends on the date of change of control. The second period is for the rest of the relevant income year.
 In accordance with section 165-50 of the ITAA 1997, Subsidiary Company is required to calculate the notional loss or notional taxable income for each of the two periods. Under section 165-65 of the ITAA 1997, any notional taxable income as determined will apply in the calculation of the taxable income of Subsidiary Company for the relevant income year. Equally, any notional loss as determined will apply in the calculation of the tax loss of Subsidiary Company for the relevant income year under section 165-70 of the ITAA 1997.
-Date of decision:
-  7 February 2006
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 165-B   section 165-40   subsection 165-40(1)   subsection 165-40(2)   subsection 165-40(3)   section 165-45   section 165-50   section 165-65   section 165-70   section 175-20
-
-Keywords
-
-Tax loss
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  10 February 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 7 February 2006
-Original statement
-
-You are here
+Date of decision: 7 February 2006 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1997 Subdivision 165-B section 165-40 subsection 165-40(1) subsection 165-40(2) subsection 165-40(3) section 165-45 section 165-50 section 165-65 section 165-70 section 175-20 Keywords Tax loss Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 10 February 2006 ISSN: 1445-2782 history Date: Version: 7 February 2006
+Original statement You are here
 12 March 2010
 Archived

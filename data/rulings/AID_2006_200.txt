@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/200
-==================================================
-
-Income tax
- Capital gains tax: balancing adjustment under CGT event K7 - partnership interest
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital gains tax: balancing adjustment under CGT event K7 - partnership interest FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are partners treated under section 106-5 of the Income Tax Assessment Act 1997 (ITAA 1997) as having an individual interest in a partnership CGT asset, where the asset is a depreciating asset and CGT event K7 in section 104-235 of the ITAA 1997 happens in relation to that asset?
 Decision
 No. Partners in a partnership are not treated as having an individual interest in the depreciating asset; the partners have an interest under section 106-5 of the ITAA 1997 in the capital gain or capital loss as worked out under sections 104-240 and 104-245 of the ITAA 1997 when CGT event K7 happens in relation to the depreciating asset.
@@ -31,82 +18,16 @@ However, subsection 118-24(2) of the ITAA 1997 states that the provision in subs
 CGT event K7 happens if a balancing adjustment event occurs for a depreciating asset you held and at some time when you held the asset, you used it, or had it installed ready for use, for a purpose other than a taxable purpose.
 Any capital gain or capital loss made from CGT event K7 happening is worked out under sections 104-240 and 104-245 of the ITAA 1997. The capital gain or capital loss is calculated by reference to the concepts found in Division 40 of the ITAA 1997 (for example, cost and termination value) and not from those found in the CGT provisions.
 Accordingly, the CGT concepts of cost base and capital proceeds are not relevant for calculating the capital gain or capital loss when CGT event K7 happens.
-Under Division 40 of the ITAA 1997, the partnership (and not the individual partners) is treated as the owner or holder of the depreciating asset (item 7 of the table in section 40-40 of the ITAA 1997). The Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill of 2001 explaining Division 40 states at paragraph 1.45 that:
-
-Where a depreciating asset is or becomes a partnership asset, it is appropriate to identify the partnership as being the economic owner of the asset. Thus, the partnership, and not any individual partner, is regarded as holding the asset. This is consistent with the structure of the income tax law, under which the partnership is a notional taxpayer arriving at a tax position which is then allocated out between the partners.
-
-Consequently, in this case, when CGT event K7 happens, the capital gain or capital loss is calculated by reference to the partnership as the holder of the depreciating asset, rather than by an individual partner.
+Under Division 40 of the ITAA 1997, the partnership (and not the individual partners) is treated as the owner or holder of the depreciating asset (item 7 of the table in section 40-40 of the ITAA 1997). The Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill of 2001 explaining Division 40 states at paragraph 1.45 that: Where a depreciating asset is or becomes a partnership asset, it is appropriate to identify the partnership as being the economic owner of the asset. Thus, the partnership, and not any individual partner, is regarded as holding the asset. This is consistent with the structure of the income tax law, under which the partnership is a notional taxpayer arriving at a tax position which is then allocated out between the partners. Consequently, in this case, when CGT event K7 happens, the capital gain or capital loss is calculated by reference to the partnership as the holder of the depreciating asset, rather than by an individual partner.
 Accordingly, under section 106-5 of the ITAA 1997, the partners have an interest in the capital gain or capital loss as calculated by reference to the partnership as the holder of the depreciating asset, rather than by having an individual interest in the depreciating asset.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-4 January 2019
+Comment 4 January 2019
 Reasons for Decision
-Minor punctuation change
-
-1 October 2014
+Minor punctuation change 1 October 2014
 Legislative references
-Include all references quoted in ATO ID.
-
-Other references
-Include reference to explanatory memorandum.
-
-Date of decision:
-  12 July 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 40   section 40-40   section 104-235   section 104-240   section 104-245   section 106-5   subsection 118-24(1)   subsection 118-24(2)
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001
-
-Keywords
-
-Capital gains tax
- Depreciating asset
- Partnership asset
- Balancing adjustment
- Economic owner
-
-Siebel/TDMS Reference Number:
-  5172945; 1-7SKCZB6; 1-DW1HJ1Y
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  4 August 2006
-
-Date reviewed:
-  3 January 2019
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-11 November 2005
-Original statement
-
- 
-12 July 2006
-Original statement
-
-You are here
- 4 January 2019
+Include all references quoted in ATO ID. Other references
+Include reference to explanatory memorandum. Date of decision: 12 July 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 Division 40 section 40-40 section 104-235 section 104-240 section 104-245 section 106-5 subsection 118-24(1) subsection 118-24(2) Other References: Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 Keywords Capital gains tax Depreciating asset Partnership asset Balancing adjustment Economic owner Siebel/TDMS Reference Number: 5172945; 1-7SKCZB6; 1-DW1HJ1Y Business Line: Private Groups and High Wealth Individuals Date of publication: 4 August 2006 Date reviewed: 3 January 2019 ISSN: 1445-2782 history Date: Version: 11 November 2005
+Original statement 12 July 2006
+Original statement You are here 4 January 2019
 Updated statement

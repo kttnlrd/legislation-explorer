@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/7
-==================================================
-
-Income Tax
- Tax losses: transferring a loss for consolidation purposes - choosing not to apply Subdivision 166-A of the Income Tax Assessment Act 1997 - no effect on the head company subsequently using Subdivision 166-A when trying to utilise the transferred loss
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Tax losses: transferring a loss for consolidation purposes - choosing not to apply Subdivision 166-A of the Income Tax Assessment Act 1997 - no effect on the head company subsequently using Subdivision 166-A when trying to utilise the transferred loss FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a joining entity (being a widely held company or an eligible Division 166 company) is seeking to transfer a loss to the head company of an income tax consolidated group (including itself) under Subdivision 707-A of the Income Tax Assessment Act 1997 (ITAA 1997), and chooses under section 166-15 of the ITAA 1997 that Subdivision 165-A of the ITAA 1997 is to apply to it for the trial year without the modifications made by Subdivision 166-A of the ITAA 1997, does this choice prevent the head company from applying Subdivision 166-A of the ITAA 1997 in a subsequent income year when the head company seeks to utilise the transferred loss?
 Decision
 No. The choice under section 166-15 of the ITAA 1997 applies on a year by year basis. The joining entity's choice under section 166-15 of the ITAA 1997 that Subdivision 165-A of the ITAA 1997 is to apply to it for the trial year without the modifications made by Subdivision 166-A of the ITAA 1997 is only relevant for the purpose of determining whether the loss can be transferred to the head company of an income tax consolidated group. If the loss is transferred, the joining entity's choice has no effect in a subsequent income year on the ability of the head company to apply Subdivision 166-A of the ITAA 1997 when the head company seeks to utilise the transferred loss.
@@ -34,60 +23,12 @@ However, if Subdivision 166-A would apply to the joining entity (Loss Company) f
 A joining entity must be a widely held company or an eligible Division 166 company for the income year in which it seeks to deduct a tax loss in order to apply Subdivision 166-A. Loss Company was an eligible Division 166 company for an income year consisting of the trial year, which subsection 707-120(1) deems to be a loss deduction year.
 Subsection 707-125(4) is worded in mandatory terms: 'If Subdivision 166-A would apply to the joining entity... work out whether the loss is transferred on the basis that...'
 The Note to subsection 707-125(4) states that a widely held company or an eligible Division 166 company can choose that Subdivision 165-A (which encompasses the SBT) is to apply to it for the income year without the modifications made by Subdivision 166-A. This choice is available under section 166-15.
-Section 166-15 (in Subdivision 166-A) states:
-
-166-15(1)
-
-The company can choose that Subdivision 165-A is to apply to it for the income year without the modifications made by this Subdivision [166-A].
-
-166-15(2)
-
-The company must choose on or before the day it lodges its *income tax return for the income year, or before a later day if the Commissioner allows.
-
-Widely held companies and eligible Division 166 companies have the benefit of applying Subdivision 166-A (which triggers the application of Subdivisions 166-D and 166-E). Companies only apply Subdivision 165-A when they seek to deduct a tax loss or (through Subdivision 165-CA) apply a net capital loss.
+Section 166-15 (in Subdivision 166-A) states: 166-15(1) The company can choose that Subdivision 165-A is to apply to it for the income year without the modifications made by this Subdivision [166-A]. 166-15(2) The company must choose on or before the day it lodges its *income tax return for the income year, or before a later day if the Commissioner allows. Widely held companies and eligible Division 166 companies have the benefit of applying Subdivision 166-A (which triggers the application of Subdivisions 166-D and 166-E). Companies only apply Subdivision 165-A when they seek to deduct a tax loss or (through Subdivision 165-CA) apply a net capital loss.
 Testing for the transfer of a loss from the joining entity to the head company of the joined group under Subdivision 707-A involves a hypothetical utilisation of the loss in the trial year under the rules in Subdivision 165-A, with certain modifications and on the basis of certain assumptions.
 For subsection 707-125(4) to be relevant to the transfer of a loss under the SBT, the requirement is that 'Subdivision 166-A would apply to the joining entity'.
-The Note to subsection 707-125(4) states (emphasis added):
-
-Subdivision 166-A applies to widely held companies and eligible Division 166 companies
- unless they choose that Subdivision 165-A apply to them without the modifications made by Subdivision 166-A
- .
-
-This Note strongly suggests that a joining entity should be able to opt out of Subdivision 166-A for loss transfer testing purposes under Subdivision 707-A. If a joining entity is a company to which Subdivision 166-A would not apply by virtue of having made a choice under section 166-15, subsection 707-125(4) would not be relevant to that joining entity. Subsection 707-125(2) would apply as the default provision.
+The Note to subsection 707-125(4) states (emphasis added): Subdivision 166-A applies to widely held companies and eligible Division 166 companies unless they choose that Subdivision 165-A apply to them without the modifications made by Subdivision 166-A . This Note strongly suggests that a joining entity should be able to opt out of Subdivision 166-A for loss transfer testing purposes under Subdivision 707-A. If a joining entity is a company to which Subdivision 166-A would not apply by virtue of having made a choice under section 166-15, subsection 707-125(4) would not be relevant to that joining entity. Subsection 707-125(2) would apply as the default provision.
 Under section 166-15, companies can choose not to apply the modifications made by Subdivision 166-A on a year by year basis. In one income year where they are applying Subdivision 165-A to determine whether they can deduct some or all of a tax loss or apply some or all of a net capital loss, a company does not have to apply Subdivision 166-A. In a subsequent income year they can apply Subdivision 166-A, even in respect of deducting some of the same tax loss or applying some of the same net capital loss.
 As testing for the transfer of a loss from the joining entity to the head company of the joined group under Subdivision 707-A involves a hypothetical utilisation of the loss by the joining entity in the trial year, the joining entity's choice under section 166-15 not to apply the modifications made by Subdivision 166-A is only relevant for the trial year. It does not affect any subsequent income year.
 Once a loss is transferred to the head company of the joined group, section 707-140 provides that, for income years ending after the transfer, the head company is deemed to have made the loss for the income year in which the transfer occurs. This means that only the head company of the joined group is allowed to utilise the loss (unless the loss is transferred to another head company).
 The joining entity's choice under section 166-15 not to apply the modifications made by Subdivision 166-A for loss transfer testing purposes under Subdivision 707-A is only relevant for the trial year. It does not affect any subsequent income year in respect of the utilisation of any part of the transferred loss.
-Date of decision:
-  19 November 2012
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ending 30 June 2013
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 165-A   section 165-12   section 165-13   Subdivision 165-CA   Subdivision 166-A   subsection 166-5(2)   section 166-15   subsection 166-15(1)   subsection 166-15(2)   Subdivision 166-D   Subdivision 166-E   Subdivision 707-A   section 707-120   subsection 707-120(1)   section 707-125   subsection 707-125(2)   subsection 707-125(4)   section 707-140
-
-Related Public Rulings (including Determinations)
-
-TR 1999/9
-
-Keywords
-
-Consolidation
- Loss
- Same business test
- Tax loss
- Transfer
-
-Siebel/TDMS Reference Number:
-  1-4DPXYRE
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 January 2013
-
-ISSN:
- 1445-2782
+Date of decision: 19 November 2012 Year of income: Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ending 30 June 2013 Legislative References: Income Tax Assessment Act 1997 Subdivision 165-A section 165-12 section 165-13 Subdivision 165-CA Subdivision 166-A subsection 166-5(2) section 166-15 subsection 166-15(1) subsection 166-15(2) Subdivision 166-D Subdivision 166-E Subdivision 707-A section 707-120 subsection 707-120(1) section 707-125 subsection 707-125(2) subsection 707-125(4) section 707-140 Related Public Rulings (including Determinations) TR 1999/9 Keywords Consolidation Loss Same business test Tax loss Transfer Siebel/TDMS Reference Number: 1-4DPXYRE Business Line: Public Groups and International Date of publication: 25 January 2013 ISSN: 1445-2782

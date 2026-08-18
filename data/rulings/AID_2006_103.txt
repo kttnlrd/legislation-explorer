@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/103
-==================================================
-
-Income Tax
- Performance period for a stapled instrument under Division 974 of the ITAA 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Performance period for a stapled instrument under Division 974 of the ITAA 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a financing arrangement that satisfies the related scheme provisions consists of an instrument with effectively non-contingent obligations and a term of 10 years, stapled to a perpetual instrument which has no effectively non-contingent obligations, are the financial benefits received or provided under the scheme calculated under section 974-35 of the Income Tax Assessment Act 1997 (ITAA 1997) using nominal terms?
 Decision
 Yes. The financial benefits received or provided under the related scheme will be calculated using nominal terms as subsection 974-35(3) of the ITAA 1997 provides that the performance period for the purposes of subsection 974-35(1) of the ITAA 1997 is the period within which, under the terms on which the interest is issued, the effectively non-contingent obligations of the issuer, and any connected entity of the issuer, to provide a financial benefit in relation to the interest have to be met.
@@ -26,30 +15,4 @@ Subsection 974-35(3) of the ITAA 1997 defines the performance period as:
 the period within which, under the terms on which the interest is issued, the effectively non-contingent obligations of the issuer, and any connected entity of the issuer, to provide a financial benefit in relation to the interest have to be met.
 As the only effectively non-contingent obligations are in relation to the redeemable preference shares, namely the return of at least the issue price at year 10, it is their performance period that is used to value the financial benefits provided and received under the related scheme. In drawing this conclusion it is noted that while the ordinary shares have a term of greater than 10 years, in that they are perpetual, they do not influence the performance period determination as there are no effectively non-contingent obligations on the issuer in relation to these ordinary shares.
 Thus, in accordance with subsection 974-35(3) of the ITAA 1997 as the performance period ends no later than 10 years after the interests arising from the notional scheme will be issued the effectively non-contingent financial benefits must be valued in nominal terms.
-Date of decision:
-  31 August 2005
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 974-35
-
-Keywords
-
-Debt equity borderline
- Debt test
- Equity test
-
-Siebel/TDMS Reference Number:
-  4555289
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  7 April 2006
-
-ISSN:
- 1445-2782
+Date of decision: 31 August 2005 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 section 974-35 Keywords Debt equity borderline Debt test Equity test Siebel/TDMS Reference Number: 4555289 Business Line: Finance and Investment Centre of Expertise Date of publication: 7 April 2006 ISSN: 1445-2782

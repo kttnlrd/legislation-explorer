@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2006/8
-==================================================
-
-Income tax
- Assessability of employment income received from an Australian resident employer by a New Zealand resident individual
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Assessability of employment income received from an Australian resident employer by a New Zealand resident individual FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a New Zealand resident's employment income (that is, an expense deductible to a New Zealand permanent establishment of an Australian resident employer) assessable under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997) where the taxpayer performed his duties in Australia for less than 183 days in an income year?
 Decision
 Yes. The employment income is assessable where a non-resident works in Australia for an Australian resident employer.
@@ -28,60 +15,17 @@ The taxpayer's employment in Australia is connected with the activities of the N
 Reasons for Decision
 Subsection 6-5(3) of the ITAA 1997 provides that the assessable income of a non-resident taxpayer includes ordinary income derived directly or indirectly from all Australian sources during the income year and other ordinary income that a provision includes as assessable income on some basis other than having an Australian source.
 Salary and wages are ordinary income under subsection 6-5(3) of the ITAA 1997.
-The source of remuneration for services rendered will depend on the facts of each case. However, the source is generally the place where those services are performed: see Federal Commissioner of Taxation v. French (1957) 98 CLR 398; (1957) 11 ATD 288; (1957) 7 AITR 76 where Williams J stated at CLR 414; ATD 296; AITR 85 that:
-
- ... the locality of the source of income derived from personal exertion in the capacity of employee or in relation to any services rendered surely must be where such personal exertion took place, and the locality of the source of the proceeds of any business where the activities of the business are carried on.
-
-In determining the liability to tax on employment income received by a non-resident, it is necessary to consider not only the income tax laws but also any applicable tax treaty contained in the International Tax Agreements Act 1953 (the Agreements Act).
+The source of remuneration for services rendered will depend on the facts of each case. However, the source is generally the place where those services are performed: see Federal Commissioner of Taxation v. French (1957) 98 CLR 398; (1957) 11 ATD 288; (1957) 7 AITR 76 where Williams J stated at CLR 414; ATD 296; AITR 85 that: ... the locality of the source of income derived from personal exertion in the capacity of employee or in relation to any services rendered surely must be where such personal exertion took place, and the locality of the source of the proceeds of any business where the activities of the business are carried on. In determining the liability to tax on employment income received by a non-resident, it is necessary to consider not only the income tax laws but also any applicable tax treaty contained in the International Tax Agreements Act 1953 (the Agreements Act).
 Section 4 of the Agreements Act incorporates the Income Tax Assessment Act 1936 (ITAA 1936) and ITAA 1997 so that those Acts are read as one with the Agreements Act. The Agreements Act effectively overrides the ITAA 1936 and ITAA 1997 where there are inconsistent provisions (except in specified situations).
 Schedule 4 of the Agreements Act contains the tax treaty between Australia and New Zealand (the New Zealand Agreement). The New Zealand Agreement operates to avoid the double taxation of income received by Australian and New Zealand residents.
-Article 15(1) of the New Zealand Agreement provides that salary and wages derived by a New Zealand resident for employment exercised in Australia may be taxed in Australia. However Article 15(2) of the New Zealand Agreement provides that the income will only be taxed in New Zealand if:
-
-a. the recipient is present in that other State for a period or periods not exceeding in the aggregate 183 days in any 12 month period commencing or ending in the year of income concerned; and
+Article 15(1) of the New Zealand Agreement provides that salary and wages derived by a New Zealand resident for employment exercised in Australia may be taxed in Australia. However Article 15(2) of the New Zealand Agreement provides that the income will only be taxed in New Zealand if: a. the recipient is present in that other State for a period or periods not exceeding in the aggregate 183 days in any 12 month period commencing or ending in the year of income concerned; and
 b. the remuneration is paid by, or on behalf of, an employer who is not a resident of that other State; and
 c. the remuneration is not deductible in determining taxable profits of a permanent establishment or fixed base which the employer has in that other State; and
-d. the remuneration is, or upon the application of this Article will be, subject to tax in the first mentioned State.
-
-For Article 15(2) to allocate sole taxing rights to New Zealand, the requirements in all paragraphs must be met.
+d. the remuneration is, or upon the application of this Article will be, subject to tax in the first mentioned State. For Article 15(2) to allocate sole taxing rights to New Zealand, the requirements in all paragraphs must be met.
 As the taxpayer exercises employment within Australia for a period of less than 183 days, Article 15(2)(a) is met.
 However, under Article 15(2)(b), the remuneration derived by the taxpayer is paid by, or on behalf of, an employer who is a resident of Australia.
 The key term in Article 15(2)(b) is the requirement for the employer to not be a resident of the Contracting State in which the employment is exercised. In this case, the employer of the taxpayer is an Australian resident. That remains so, notwithstanding that the taxpayer's activities are connected with the New Zealand permanent establishment and the remuneration derived from such activities is deductible in determining the taxable profits of the permanent establishment in New Zealand. At law, the permanent establishment is not a separate legal entity but is part of the resident company. As Article 15(2)(b) only refers to the residency status of the employer, it is concluded that the remuneration derived by the taxpayer from services performed in connection with the activity of the New Zealand permanent establishment is, nonetheless, remuneration paid by, or on behalf of, the Australian resident employer.
 Accordingly, condition (b) is not met. As one of the conditions in Article 15(2) is not met, the remuneration derived by the taxpayer from the exercise of employment in Australia may be taxed by Australia pursuant to Article 15(1) of the New Zealand Agreement.
 As the remuneration derived by the taxpayer from the exercise of employment in Australia is deemed to be from sources in Australia by virtue of Article 23 of the New Zealand Agreement, such income is included in the taxpayer's assessable income under subsection 6-5(3) of the ITAA 1997.
-Date of decision:
-  20 December 2005
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-International Tax Agreements Act 1953   Schedule 4-Article 15   Schedule 4-Article 23
-Income Tax Assessment Act 1997   subsection 6-5(3)
-
-Case References:
-
-Federal Commissioner of Taxation v. French   (1957) 98 CLR 398   (1957) 11 ATD 288   (1957) 7 AITR 76
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2003/11
-
-Keywords
-
-Double tax agreements
- Assessable Income
- Employment Income
- New Zealand
-
-Siebel/TDMS Reference Number:
-  4969386
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  13 January 2006
-
-ISSN:
- 1445-2782
+Date of decision: 20 December 2005 Year of income: Year ended 30 June 2006 Legislative References: International Tax Agreements Act 1953 Schedule 4-Article 15 Schedule 4-Article 23
+Income Tax Assessment Act 1997 subsection 6-5(3) Case References: Federal Commissioner of Taxation v. French (1957) 98 CLR 398 (1957) 11 ATD 288 (1957) 7 AITR 76 Related Public Rulings (including Determinations) Taxation Ruling TR 2003/11 Keywords Double tax agreements Assessable Income Employment Income New Zealand Siebel/TDMS Reference Number: 4969386 Business Line: Public Groups and International Date of publication: 13 January 2006 ISSN: 1445-2782

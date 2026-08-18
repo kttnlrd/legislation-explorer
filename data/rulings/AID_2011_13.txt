@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2011/13
-==================================================
-
-Income Tax
- Interest withholding tax: interest arising in Australia paid to a New Zealand Limited Partnership - 'beneficially owned'
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest withholding tax: interest arising in Australia paid to a New Zealand Limited Partnership - 'beneficially owned' FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer's share (proportionate to its partnership interest as a limited partner in a New Zealand Limited Partnership (NZLP)) of interest arising in Australia and paid to NZLP, 'beneficially owned' by the taxpayer for the purposes of Article 11.3 of the tax treaty between Australia and New Zealand (2009 NZ Convention)?
 Decision
 Yes. The taxpayer's share of interest arising in Australia and paid to NZLP is 'beneficially owned' by the taxpayer for the purposes of Article 11.3 of the 2009 NZ Convention.
@@ -31,71 +18,10 @@ In the present case, liability to Australian withholding tax is subject to the p
 Article 11 of the 2009 NZ Convention deals with interest. Relevantly, Article 11.3 of the 2009 NZ Convention provides that interest arising in Australia and 'beneficially owned' by a resident of New Zealand may not be taxed in Australia in certain circumstances.
 Therefore, it is necessary to determine whether the taxpayer's share of the interest income is 'beneficially owned' by the taxpayer for the purposes of Article 11.3 of the 2009 NZ Convention.
 The term 'beneficially owned' is not defined in the 2009 NZ Convention. Article 3.3 relevantly provides that any term not defined in the 2009 NZ Convention shall take its meaning under the domestic laws of the country applying the treaty, unless the context otherwise requires. Relevant context for the purposes of interpreting an Australian tax treaty includes the Commentaries on the OECD Model Tax Convention on Income and on Capital (the OECD Commentary). Paragraph 104 of Taxation Ruling TR 2001/13 states that the OECD Commentary provides important guidance on interpretation and application of the OECD Model Tax Convention and will often need to be considered as a matter of practice, in interpreting tax treaties, at least where the wording is ambiguous.
-Paragraph 9 of the 2010 OECD Commentary on Article 11 of the Model Tax Convention states:
-
-... The term 'beneficial owner' is not used in a narrow technical sense, rather, it should be understood in its context and in light of the object and purposes of the Convention, including avoiding double taxation and the prevention of fiscal evasion and avoidance.
-
-In the wider tax treaty context, the OECD Report titled The Application of the OECD Model Tax Convention on Partnerships (OECD Partnership Report) provides further guidance on the meaning of 'beneficial ownership' in relation to fiscally transparent partnerships.
+Paragraph 9 of the 2010 OECD Commentary on Article 11 of the Model Tax Convention states: ... The term 'beneficial owner' is not used in a narrow technical sense, rather, it should be understood in its context and in light of the object and purposes of the Convention, including avoiding double taxation and the prevention of fiscal evasion and avoidance. In the wider tax treaty context, the OECD Report titled The Application of the OECD Model Tax Convention on Partnerships (OECD Partnership Report) provides further guidance on the meaning of 'beneficial ownership' in relation to fiscally transparent partnerships.
 Paragraph 61 of the OECD Partnership Report states that where partners of a partnership are liable to tax in the country of residence on items of income, that income should be considered to be paid to the partners 'who should also be considered to be the beneficial owners of such income as these are the persons liable to tax on such income' in the country of residence. This approach 'is more likely to ensure that the benefits of the Convention accrue to the persons who are liable to tax on the income' and is consistent with the general object and purposes of the Convention of avoiding double taxation and preventing fiscal evasion and avoidance.
-In the case of the 2009 NZ Convention, the conclusion that the partners of a fiscally transparent partnership should be regarded as the 'beneficial owners' of items of income on which they are liable to tax is further reinforced by the inclusion of Article 1.2 which provides:
-
-In the case of an item of income (including profits or gains) derived by or through a person that is fiscally transparent with respect to that item of income under the laws of either State, such item shall be considered to be derived by a resident of a State to the extent that the item is treated for the purposes of the taxation law of such State as the income of a resident.
-
-Paragraph 2.9 of the Explanatory Memorandum to the International Tax Agreements Amendment Bill (No.2) 2009 provides that:
-
-.... The intention of paragraph 2 is to ensure that treaty benefits are available to residents who are participants in these entities where income derived through such entities is allocated to those members for tax purposes.
-
-It would be inconsistent with this purpose to adopt an interpretation of 'beneficial ownership' that denies treaty benefits to the partners of a fiscally transparent partnership.
+In the case of the 2009 NZ Convention, the conclusion that the partners of a fiscally transparent partnership should be regarded as the 'beneficial owners' of items of income on which they are liable to tax is further reinforced by the inclusion of Article 1.2 which provides: In the case of an item of income (including profits or gains) derived by or through a person that is fiscally transparent with respect to that item of income under the laws of either State, such item shall be considered to be derived by a resident of a State to the extent that the item is treated for the purposes of the taxation law of such State as the income of a resident. Paragraph 2.9 of the Explanatory Memorandum to the International Tax Agreements Amendment Bill (No.2) 2009 provides that: .... The intention of paragraph 2 is to ensure that treaty benefits are available to residents who are participants in these entities where income derived through such entities is allocated to those members for tax purposes. It would be inconsistent with this purpose to adopt an interpretation of 'beneficial ownership' that denies treaty benefits to the partners of a fiscally transparent partnership.
 For the purposes of the tax law of New Zealand in the present circumstances, a share of the interest paid to NZLP is allocated to the taxpayer in proportion to its interest in the partnership and the taxpayer is taxed on that income.
-Accordingly, for the purposes of Article 11.3 of the 2009 NZ Convention, the taxpayer is the beneficial owner of its share of the interest that is paid to NZLP on which it is liable to tax in New Zealand.
-
-Note
- : Australia will not have a taxing right over the amount of interest that is beneficially owned by the taxpayer only if either paragraph (a) or paragraph (b) of Article 11.3 of the 2009 NZ Convention is also satisfied.
-
-Date of decision:
-  10 February 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   subsection 128B(2)   subsection 128B(5)
-Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974   section 7
-International Tax Agreements Act 1953   Schedule 4 Article 1.2   Schedule 4 Article 3.3   Schedule 4 Article 11   Schedule 4 Article 11.3
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/13
-
-Related ATO Interpretative Decisions
-
- ATO ID 2011/12
- ATO ID 2011/14
-
-Other References:
-
-2010 OECD Model Tax Convention on Income and on Capital
- 2010 OECD Commentaries on the Articles of the Model Tax Convention
- The Application of the OECD Model Tax Convention to Partnerships (adopted by the OECD Committee on Fiscal Affairs on 20 January 1999)
- Explanatory Memorandum to the International Tax Agreements Amendment Bill (No.2) 2009
-
-Keywords
-
-New Zealand
- Double tax agreements
- Non resident interest withholding tax
- Limited partnerships
- OECD
-
-Siebel/TDMS Reference Number:
-  1-2N72THK
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 February 2011
-
-ISSN:
- 1445-2782
+Accordingly, for the purposes of Article 11.3 of the 2009 NZ Convention, the taxpayer is the beneficial owner of its share of the interest that is paid to NZLP on which it is liable to tax in New Zealand. Note : Australia will not have a taxing right over the amount of interest that is beneficially owned by the taxpayer only if either paragraph (a) or paragraph (b) of Article 11.3 of the 2009 NZ Convention is also satisfied. Date of decision: 10 February 2011 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) subsection 128B(2) subsection 128B(5)
+Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 section 7
+International Tax Agreements Act 1953 Schedule 4 Article 1.2 Schedule 4 Article 3.3 Schedule 4 Article 11 Schedule 4 Article 11.3 Related Public Rulings (including Determinations) Taxation Ruling TR 2001/13 Related ATO Interpretative Decisions ATO ID 2011/12 ATO ID 2011/14 Other References: 2010 OECD Model Tax Convention on Income and on Capital 2010 OECD Commentaries on the Articles of the Model Tax Convention The Application of the OECD Model Tax Convention to Partnerships (adopted by the OECD Committee on Fiscal Affairs on 20 January 1999) Explanatory Memorandum to the International Tax Agreements Amendment Bill (No.2) 2009 Keywords New Zealand Double tax agreements Non resident interest withholding tax Limited partnerships OECD Siebel/TDMS Reference Number: 1-2N72THK Business Line: Public Groups and International Date of publication: 18 February 2011 ISSN: 1445-2782

@@ -1,26 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2004/201
-==================================================
-
-Goods and Services Tax
- GST and grouping of two companies
- FOI status: may be released
-
-This ATO ID has been amended due to changes to Division 48 of the A New Tax System (Goods and Services Tax) Act 1999 which apply to tax periods starting on or after 1 July 2010
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Do the entities, company A and company B, satisfy the membership requirements of a GST group under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) where:
-
-• company A owns 50% of the total shares in company B, and
-• an individual owns the other 50% of the shares in company B, as a nominee shareholder of company A?
-
-Decision
+================================================== Goods and Services Tax GST and grouping of two companies FOI status: may be released This ATO ID has been amended due to changes to Division 48 of the A New Tax System (Goods and Services Tax) Act 1999 which apply to tax periods starting on or after 1 July 2010 CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Do the entities, company A and company B, satisfy the membership requirements of a GST group under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) where: • company A owns 50% of the total shares in company B, and
+• an individual owns the other 50% of the shares in company B, as a nominee shareholder of company A? Decision
 Yes, company A and company B satisfy the membership requirements of a GST group under section 48-10 of the GST Act as they belong to the same 90% owned group.
 Facts
 Company A and company B are registered for goods and services tax (GST), have the same tax periods and account for GST on the same basis. Company A and company B are not members of any other GST group and have no branches that are registered for GST.
@@ -28,52 +11,16 @@ The shares in Company B carry with them the right to vote, the right to receive 
 An individual owns the other 50% of the shares in company B as a nominee shareholder for company A. The declaration of trust by the individual stipulates that the individual must vote in respect of its shares as directed by company A and must account to company A for any distribution of dividends or capital.
 Company A notified the Commissioner, in the approved form, of the formation of a GST group and is nominated in that notice as representative member of the GST group.
 Reasons for Decision
-Section 48-10 of the GST Act sets out the membership requirements of a GST group that an entity must satisfy in order to form a GST group. If the entity is a company, it must:
-
-• be a company of the same 90% owned group as all the other members of the GST group that are also companies
+Section 48-10 of the GST Act sets out the membership requirements of a GST group that an entity must satisfy in order to form a GST group. If the entity is a company, it must: • be a company of the same 90% owned group as all the other members of the GST group that are also companies
 • be registered for GST
 • have the same tax periods applying to it as the tax periods applying to all the other members of the GST group
 • account on the same basis as all the other members of the GST group
 • not be a member of any other GST group, and
-• not have any branch that is registered under Division 54 of the GST Act.
-
-Company A and company B are registered for goods and services tax (GST), have the same tax periods and account for GST on the same basis. Company A and company B are not members of any other GST group and have no branches that are registered GST. Therefore, company A and company B will satisfy the membership requirements of a GST group if they are in the same 90% owned group.
+• not have any branch that is registered under Division 54 of the GST Act. Company A and company B are registered for goods and services tax (GST), have the same tax periods and account for GST on the same basis. Company A and company B are not members of any other GST group and have no branches that are registered GST. Therefore, company A and company B will satisfy the membership requirements of a GST group if they are in the same 90% owned group.
 Paragraph 190-1(a) the GST Act provides that two companies are members of the same 90% owned group if one of the companies has at least a 90% stake in the other company.
-Section 190-5 of the GST Act provides that a company (the holding company) has at least a 90% stake in another company (the subsidiary company) if the holding company:
-
-• controls, or is able to control, at least 90% of the voting power in the subsidiary company (whether directly, or indirectly through one or more interposed companies)
+Section 190-5 of the GST Act provides that a company (the holding company) has at least a 90% stake in another company (the subsidiary company) if the holding company: • controls, or is able to control, at least 90% of the voting power in the subsidiary company (whether directly, or indirectly through one or more interposed companies)
 • has the right to receive at least 90% of any dividends that the subsidiary company may pay (whether directly, or indirectly through one or more interposed companies), and
-• has the right to receive at least 90% of any distribution of capital of the subsidiary company (whether directly, or indirectly through one or more interposed companies).
-
-The words 'whether directly, or indirectly through one or more interposed companies' do not extend or restrict the opening words. Rather these words are illustrative as to how the control of the voting rights, the right to receive the dividends and a distribution of capital might be achieved. The words do not imply that the requisite controls and rights must be satisfied in the manner mentioned. As such, it is accepted that the controls and rights can be achieved through an interposed entity other than a company.
+• has the right to receive at least 90% of any distribution of capital of the subsidiary company (whether directly, or indirectly through one or more interposed companies). The words 'whether directly, or indirectly through one or more interposed companies' do not extend or restrict the opening words. Rather these words are illustrative as to how the control of the voting rights, the right to receive the dividends and a distribution of capital might be achieved. The words do not imply that the requisite controls and rights must be satisfied in the manner mentioned. As such, it is accepted that the controls and rights can be achieved through an interposed entity other than a company.
 Company A holds 50% of the shares in company B and controls the rights attached to these shares. The remaining 50% of the shares in company B are owned by an individual as a nominee shareholder for company A. The declaration of trust by the individual stipulates that the individual must vote in respect of the shares as directed by company A and must account to company A for any distribution of dividends or capital. Therefore, company A indirectly controls the voting rights and has the right to receive the dividends and any distribution of capital attached to the shares.
 Company A controls 50% of the rights directly, and 50% indirectly through the interposed entity that is the individual shareholder. As such, company A controls 100% of the voting rights in company B and has the right to receive 100% of the dividends and the distribution of the capital of company B.
-Therefore, company A and company B are members of the same 90% owned group and satisfy the membership requirements of a GST group under section 48-10 of the GST Act.
-
-[Note: Division 48 of the GST Act was amended with effect from tax periods starting on or after 1 July 2010. Prior to the amendments, entities were required to apply to the Commissioner for approval to form a GST group. As a result of these amendments, references to the Commissioner approving the formation of a GST group have been removed from this ATO ID.]
-
-Date of decision:
-  29 April 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 48-5   paragraph 48-5(1)(a)   section 48-10   Division 54   section 190-5   paragraph 190-1(a)
-
-Keywords
-
-Goods and services tax
- GST special rules
- GST groups
- GST tax periods
-
-Siebel/TDMS Reference Number:
-  3539720
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  5 March 2004
-
-ISSN:
- 1445-2782
+Therefore, company A and company B are members of the same 90% owned group and satisfy the membership requirements of a GST group under section 48-10 of the GST Act. [Note: Division 48 of the GST Act was amended with effect from tax periods starting on or after 1 July 2010. Prior to the amendments, entities were required to apply to the Commissioner for approval to form a GST group. As a result of these amendments, references to the Commissioner approving the formation of a GST group have been removed from this ATO ID.] Date of decision: 29 April 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 48-5 paragraph 48-5(1)(a) section 48-10 Division 54 section 190-5 paragraph 190-1(a) Keywords Goods and services tax GST special rules GST groups GST tax periods Siebel/TDMS Reference Number: 3539720 Business Line: Indirect Tax Date of publication: 5 March 2004 ISSN: 1445-2782

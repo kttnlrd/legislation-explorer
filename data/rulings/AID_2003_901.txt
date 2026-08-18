@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/901
-==================================================
-
-Income Tax
- Non-share equity interest
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Non-share equity interest FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If an equity interest in a company is composed of related interests where at least one of the interests is not a share, is the interest a 'non-share equity interest'?
 Decision
 Yes. Part of the interest is not a share and the interest is therefore a non-share equity interest.
@@ -25,33 +14,4 @@ A 'non-share equity interest' in a company is defined under subsection 995-1(1) 
 For the equity interest to be a non-share equity interest, it must be an interest that is not 'solely' a share. The ordinary meaning of the word 'solely' is defined in the Macquarie Dictionary to be - 'as the only one or ones; exclusively or only'.
 The equity interest in question is not solely a share because one of the related interests that comprise the equity interest issued by the company is not a share.
 Therefore, the equity interest in question is a 'non-share equity interest'.
-Date of decision:
-  26 September 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 995-1(1)
-
-Other References:
-
-Australian Macquarie Dictionary
-
-Keywords
-
-Non-share equity interest
- Debt equity borderline
-
-Siebel/TDMS Reference Number:
-  3760663
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  3 October 2003
-
-ISSN:
- 1445-2782
+Date of decision: 26 September 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 subsection 995-1(1) Other References: Australian Macquarie Dictionary Keywords Non-share equity interest Debt equity borderline Siebel/TDMS Reference Number: 3760663 Business Line: Public Groups and International Date of publication: 3 October 2003 ISSN: 1445-2782

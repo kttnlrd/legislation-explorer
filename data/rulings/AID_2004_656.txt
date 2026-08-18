@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/656
-==================================================
-
-Income Tax
- Capital v. Revenue: acquisition of a subscriber base
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital v. Revenue: acquisition of a subscriber base FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the cost to an Internet Service Provider (ISP) of acquiring a subscriber base, as part of the acquisition of another ISP business, an allowable deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The cost of acquiring a subscriber base is not an allowable deduction under section 8-1 of the ITAA 1997 as it is an outgoing of capital, or of a capital nature.
@@ -23,82 +12,17 @@ Under each acquisition agreement the taxpayer, for a single lump sum payment, ac
 Each agreement provided for an allocation of the total consideration to the separate assets acquired. A separate amount was allocated to that part of the consideration representing the subscriber base and, for accounting purposes, the cost of acquiring the subscriber base of competitors was reflected as goodwill and amortised over a specified period.
 Reasons for Decision
 Section 8-1 of the ITAA 1997 allows a deduction for any loss or outgoing incurred in gaining or producing assessable income, or that is necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income except to the extent that such loss or outgoing is, inter alia, of capital, or of a capital nature.
-The classic formulation of the matters to be considered in determining whether a loss or outgoing is of a capital or revenue nature is that of Dixon J in Sun Newspapers Ltd v. Federal Commissioner of Taxation (1938) 61 CLR 337; (1938) 5 ATD 87; (1938) 1 AITR 403 (Sun Newspapers) where his Honour said:
-
-There are, I think, three matters to be considered, (a) the character of the advantage sought, and in this its lasting qualities may play a part, (b) the manner in which it is to be used, relied upon or enjoyed, and in this and under the former head recurrence may play its part, and (c) the means adopted to obtain it; that is, by providing a periodical reward or outlay to cover its use or enjoyment for periods commensurate with the payment or by making a final provision or payment so as to secure future use or enjoyment.
-
-More recently in GP International Pipecoaters Pty Ltd v. Federal Commissioner of Taxation (1990) 170 CLR 124; 90 ATC 4413; (1990) 21 ATR 1 the High Court pointed out that the character of expenditure is ordinarily determined by reference to the nature of the asset acquired and that the character of the advantage sought by the making of the expenditure is a critical factor in determining the character of what is paid.
-In the present instance, from a practical and business point of view, the expenditure:
-
-•expanded the size of the subscriber base already held by the taxpayer thereby resulting in an enlargement of the profit yielding structure of the business
+The classic formulation of the matters to be considered in determining whether a loss or outgoing is of a capital or revenue nature is that of Dixon J in Sun Newspapers Ltd v. Federal Commissioner of Taxation (1938) 61 CLR 337; (1938) 5 ATD 87; (1938) 1 AITR 403 (Sun Newspapers) where his Honour said: There are, I think, three matters to be considered, (a) the character of the advantage sought, and in this its lasting qualities may play a part, (b) the manner in which it is to be used, relied upon or enjoyed, and in this and under the former head recurrence may play its part, and (c) the means adopted to obtain it; that is, by providing a periodical reward or outlay to cover its use or enjoyment for periods commensurate with the payment or by making a final provision or payment so as to secure future use or enjoyment. More recently in GP International Pipecoaters Pty Ltd v. Federal Commissioner of Taxation (1990) 170 CLR 124; 90 ATC 4413; (1990) 21 ATR 1 the High Court pointed out that the character of expenditure is ordinarily determined by reference to the nature of the asset acquired and that the character of the advantage sought by the making of the expenditure is a critical factor in determining the character of what is paid.
+In the present instance, from a practical and business point of view, the expenditure: •expanded the size of the subscriber base already held by the taxpayer thereby resulting in an enlargement of the profit yielding structure of the business
 •was undertaken to remove competitors from the taxpayer's market, and
-•was made in a single lump sum to secure the use and enjoyment of the business acquired, including its subscriber base. There was no requirement for the outlay to be repeated.
-
-In considering this issue, where the accounting treatment adopted by the taxpayer is not contrary to legal principle, the way the taxpayer records an item in its books of account can be considered a reflection of the character of the expenditure. Whilst not determinative, the accounting treatment may assist in ascertaining its true nature. It forms part of the overall picture which must be considered in determining the correct characterisation of the payments (see Travelodge Papua New Guinea Ltd v. Chief Collector of Taxes (1985) 16 ATR 867; 85 ATC 4432). In this instance, the taxpayer has treated the cost of acquiring the subscriber base as goodwill and amortised the expenditure over a specified period.
+•was made in a single lump sum to secure the use and enjoyment of the business acquired, including its subscriber base. There was no requirement for the outlay to be repeated. In considering this issue, where the accounting treatment adopted by the taxpayer is not contrary to legal principle, the way the taxpayer records an item in its books of account can be considered a reflection of the character of the expenditure. Whilst not determinative, the accounting treatment may assist in ascertaining its true nature. It forms part of the overall picture which must be considered in determining the correct characterisation of the payments (see Travelodge Papua New Guinea Ltd v. Chief Collector of Taxes (1985) 16 ATR 867; 85 ATC 4432). In this instance, the taxpayer has treated the cost of acquiring the subscriber base as goodwill and amortised the expenditure over a specified period.
 Taking into consideration all the factors above, the outgoing made by the taxpayer in acquiring a subscriber base, as part of the acquisition of an ISP business, is considered to be capital, or of a capital nature.
 This view is consistent with that expressed in Taxation Ruling TR 2000/1 which deals with the tax consequences of the acquisition and disposal of insurance registers. The registers are a record of the rights of an insurance agent to future income from renewals and also provide a record of policyholders that an agent has an exclusive right to deal with on behalf of an insurance company. Consequently, there are similarities to subscriber bases acquired by ISPs.
-Paragraph 13 of TR 2000/1 states:
-
-Expenditure incurred by an agent acquiring an insurance register would be of a capital nature ... irrespective of the legal form of the transaction and consequently not allowable as a deduction under section 8-1 of the Act.
-
-Further, at paragraph 85, in considering the capital-revenue distinction the Ruling has regard to the judgment of Latham J in Sun Newspapers where his Honour said at 355:
-
-It is true that the payments did not result in obtaining a new capital asset of a material nature, but they did obtain a very real benefit or advantage for the companies, namely, the exclusion of what might have been serious competition.
-
-Regard has also been had to the judgments in BP Australia Ltd v. Federal Commissioner of Taxation (1965) 112 CLR 386; (1965) 14 ATD 1; (1965) 9 AITR 615 (BP Australia) and National Australia Bank v. Federal Commissioner of Taxation (1997) 80 FCR 352; 97 ATC 5153; (1997) 37 ATR 378 (NAB).
+Paragraph 13 of TR 2000/1 states: Expenditure incurred by an agent acquiring an insurance register would be of a capital nature ... irrespective of the legal form of the transaction and consequently not allowable as a deduction under section 8-1 of the Act. Further, at paragraph 85, in considering the capital-revenue distinction the Ruling has regard to the judgment of Latham J in Sun Newspapers where his Honour said at 355: It is true that the payments did not result in obtaining a new capital asset of a material nature, but they did obtain a very real benefit or advantage for the companies, namely, the exclusion of what might have been serious competition. Regard has also been had to the judgments in BP Australia Ltd v. Federal Commissioner of Taxation (1965) 112 CLR 386; (1965) 14 ATD 1; (1965) 9 AITR 615 (BP Australia) and National Australia Bank v. Federal Commissioner of Taxation (1997) 80 FCR 352; 97 ATC 5153; (1997) 37 ATR 378 (NAB).
 In BP Australia the company claimed deductions for amounts paid as trade ties to service station proprietors so that those proprietors would deal exclusively in its products for a fixed period. The payments were calculated by reference to expected sales by the service stations. The Privy Council held that the real object of the outgoing was not the tied network but the orders that would flow from it. The tie agreements were a temporary solution that were of a recurrent nature. The advantage sought was the promotion of sales by up to date marketing methods which had become necessary and the expenditure was therefore deductible as being on revenue, rather than capital, account.
 In NAB the bank was required to pay a lump sum (but further amounts were payable if loan quotas were exceeded) to the Commonwealth in order to have the exclusive right to make advances to Australian Defence Force personnel for a 15 year period. The Full Federal Court held that the payment was of a revenue nature as it did not enlarge the framework within which the Bank carried on its activities. Rather, it was incurred as part of the process by which the Bank operated to obtain regular returns by means of regular outlay. The Full Court determined that the payment was in the nature of a marketing expense and had a revenue rather than capital aspect.
 Unlike the BP Australia and NAB cases, it could not be said the advantage sought by the taxpayer in this instance was in the nature of marketing. The expenditure outlaid by the taxpayer for a single lump sum payment on each acquisition served to enlarge its operations by increasing its market share and removing competitors, and not the process by which it operated to obtain regular returns by regular outlay.
 In L D Nathan & Co Ltd v. IRC (NZ) (1970) ATR 810 and Commissioner of Inland Revenue v. L. D. Nathan & Co. Ltd. (1971) 2 ATR 503, [1972] NZLR 209 (Court of appeal (NZ)), the taxpayer purchased the business of a competitor and sought to claim a deduction in respect of identified amounts paid under the purchase agreement for the list of their competitor's customers. The New Zealand Court of Appeal, relying on the authority of the Australian cases, Sun Newspapers and BP Australia, held that the cost was capital in nature.
 In determining whether an item of expenditure falls to be capital or revenue no one single factor is determinative. Rather, all relevant factors must be considered collectively. After examining all the relevant factors it is considered that the expenditure in acquiring the subscription bases of other ISPs is capital in nature.
-Date of decision:
-  27 April 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1
-
-Case References:
-
-Sun Newspapers v FCT   (1938) 61 CLR 337   (1938) 5 ATD 87   (1938) 1 AITR 403
-
-GP International Pipecoaters Pty Ltd v FCT   (1990) 170 CLR 124   90 ATC 4413   (1990) 21 ATR 1
-
-Travelodge Papua New Guinea Ltd v. Chief Collector of Taxes   (1985) 16 ATR 867   85 ATC 4432
-
-BP Australia Ltd v FCT   (1965) 112 CLR 386   (1965) 14 ATD 1   (1965) 9 AITR 615
-
-National Australia Bank Limited v Federal Commissioner of Taxation   (1997) 80 FCR 352   97 ATC 5153   (1997) 37 ATR 378
-
-L D Nathan & Co Ltd v IRC (NZ)   (1970) ATR 810
-
-Commissioner of Inland Revenue v L. D. Nathan & Co. Ltd.   (1971) 2 ATR 503   [1972] NZLR 209
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 1999/16
-Taxation Ruling TR 2000/1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/621
-
-Keywords
-
-Capital expenditure
- Deductions & expenses
-
-Siebel/TDMS Reference Number:
-  3941727
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  6 August 2004
-
-ISSN:
- 1445-2782
+Date of decision: 27 April 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 8-1 Case References: Sun Newspapers v FCT (1938) 61 CLR 337 (1938) 5 ATD 87 (1938) 1 AITR 403 GP International Pipecoaters Pty Ltd v FCT (1990) 170 CLR 124 90 ATC 4413 (1990) 21 ATR 1 Travelodge Papua New Guinea Ltd v. Chief Collector of Taxes (1985) 16 ATR 867 85 ATC 4432 BP Australia Ltd v FCT (1965) 112 CLR 386 (1965) 14 ATD 1 (1965) 9 AITR 615 National Australia Bank Limited v Federal Commissioner of Taxation (1997) 80 FCR 352 97 ATC 5153 (1997) 37 ATR 378 L D Nathan & Co Ltd v IRC (NZ) (1970) ATR 810 Commissioner of Inland Revenue v L. D. Nathan & Co. Ltd. (1971) 2 ATR 503 [1972] NZLR 209 Related Public Rulings (including Determinations) Taxation Ruling TR 1999/16
+Taxation Ruling TR 2000/1 Related ATO Interpretative Decisions ATO ID 2002/621 Keywords Capital expenditure Deductions & expenses Siebel/TDMS Reference Number: 3941727 Business Line: Public Groups and International Date of publication: 6 August 2004 ISSN: 1445-2782

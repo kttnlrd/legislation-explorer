@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/319
-==================================================
-
-Income tax
- Foreign exchange (forex) gains and losses: effect on grantor of lapsed foreign currency denominated call option
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Foreign exchange (forex) gains and losses: effect on grantor of lapsed foreign currency denominated call option FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a forex realisation gain made under subsection 775-55(4) of the Income Tax Assessment Act 1997 (ITAA 1997) when a foreign currency denominated call option a taxpayer has granted lapses?
 Decision
 Yes. A forex realisation gain is made under subsection 775-55(4) of the ITAA 1997 when a foreign currency denominated call option a taxpayer has granted lapses.
@@ -27,42 +16,4 @@ On granting the option, the taxpayer had an obligation to pay foreign currency i
 Under subsection 775-55(1) of the ITAA 1997, forex realisation event 4 (FRE 4) happens if an entity ceases to have the obligation to pay foreign currency. Subsection 775-55(2) of the ITAA 1997 provides that FRE 4 happens when an entity ceases to have the obligation. The taxpayer ceased to have the obligation to pay foreign currency when the option lapsed.
 The taxpayer made a forex realisation gain under subsection 775-55(4) of the ITAA 1997, as the option expired without having been exercised and, immediately before FRE 4 happened, had the option been exercised the taxpayer would have been obliged to pay the foreign currency.
 The forex realisation gain is the AUD 40,000 received by the taxpayer for granting the option (the premium received). This gain is included in the taxpayer's assessable income under subsection 775-15(1) of the ITAA 1997 in the income year ended 30 June 2005.
-Date of decision:
-  11 November 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 775-15(1)   subsection 775-55(1)   subsection 775-55(2)   subsection 775-55(4)   subsection 775-140(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2005/318
-
-Keywords
-
-Call options
- Financial derivatives
- Foreign currency
- Foreign currency obligations
- Foreign exchange gains and losses
- Forex realisation event
- Forex realisation gain
- Hedging
-
-Siebel/TDMS Reference Number:
-  4759339; 1-5TXNXUS; 1-CGWU9NG
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  25 November 2005
-
-Date reviewed:
-  4 September 2017
-
-ISSN:
- 1445-2782
+Date of decision: 11 November 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 subsection 775-15(1) subsection 775-55(1) subsection 775-55(2) subsection 775-55(4) subsection 775-140(2) Related ATO Interpretative Decisions ATO ID 2005/318 Keywords Call options Financial derivatives Foreign currency Foreign currency obligations Foreign exchange gains and losses Forex realisation event Forex realisation gain Hedging Siebel/TDMS Reference Number: 4759339; 1-5TXNXUS; 1-CGWU9NG Business Line: Private Groups and High Wealth Individuals Date of publication: 25 November 2005 Date reviewed: 4 September 2017 ISSN: 1445-2782

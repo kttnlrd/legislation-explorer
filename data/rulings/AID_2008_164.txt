@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/164
-==================================================
-
-Income Tax
- Step 2 of entry: allocable cost amount - deferred tax liabilities
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Step 2 of entry: allocable cost amount - deferred tax liabilities FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a deferred tax liability which is attributable to an exploration permit and which is measured by a head company of a consolidated group having regard to the deduction available following the application of subsection 40-80(1) of the Income Tax Assessment Act 1997 (ITAA 1997), an accounting liability for the purposes of section 705-70 of the ITAA 1997?
 Decision
 No. The amount of a deferred tax liability attributable to an exploration permit, measured by the head company by having regard to the $nil tax value of the asset that would arise after joining time following the application of subsection 40-80(1) of the ITAA 1997, is not an amount within the ambit of section 705-70 of the ITAA 1997.
@@ -27,61 +16,12 @@ ACo as the head company of the consolidated group claims a tax deduction of $10,
 AASB 1020 (1989) was adopted by both ACo and BCo. UIG Abstract 52 (December 2003) is the relevant accounting guidance on tax consolidation accounting.
 Reasons for Decision
 Section 705-60 of the ITAA 1997 sets out the steps to be followed when working out the allocable cost amount (ACA) for an entity joining a consolidated group. There are eight steps in the ACA calculation. It is step 2 of the calculation, the amount of a joining entity's liabilities, which needs to be considered in this situation. The step 2 amount is worked out under subsection 705-70(1) of the ITAA 1997, subject to adjustments under subsection 705-70(1A) and sections 705-75 to 705-85 of the ITAA 1997.
-Subsection 705-70(1) of the ITAA 1997 provides:
-
-For the purposes of step 2 in the table in section 705-60, the step 2 amount is worked out by adding up the amounts of each thing (an accounting liability) that, in accordance with *accounting standards, or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability of the joining entity at the joining time that can or must be recognised in the entity's statement of financial position.
-
-For an amount of an accounting liability to be counted under subsection 705-70(1) of the ITAA 1997, the liability must be an accounting liability of the joining entity at the joining time. Joining time in the context of subsection 705-70(1) is interpreted as if the single entity rule did not apply (paragraph 16 of Taxation Ruling TR 2004/14). In the present case, the joining time is the acquisition date of BCo on 2 March 2005.
-A deferred tax liability which is attributable to an asset held by the joining entity at the joining time can in certain circumstances constitute an accounting liability that is taken into account at step 2 of the ACA process under subsection 705-70(1A) of the ITAA 1997. Subsection 705-70(1A) states:
-
-Where liability valued differently for joined group
-
-However, if, in accordance with those *accounting standards or statements, the amount of an accounting liability of the joining entity would be different when it became an accounting liability of the joined group, the different amount is treated as the amount of the liability.
-
-An accounting liability that is referred to in subsection 705-70(1A) of the ITAA 1997 is a liability that is properly recognised and measured at the joining time in the joined group.
+Subsection 705-70(1) of the ITAA 1997 provides: For the purposes of step 2 in the table in section 705-60, the step 2 amount is worked out by adding up the amounts of each thing (an accounting liability) that, in accordance with *accounting standards, or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability of the joining entity at the joining time that can or must be recognised in the entity's statement of financial position. For an amount of an accounting liability to be counted under subsection 705-70(1) of the ITAA 1997, the liability must be an accounting liability of the joining entity at the joining time. Joining time in the context of subsection 705-70(1) is interpreted as if the single entity rule did not apply (paragraph 16 of Taxation Ruling TR 2004/14). In the present case, the joining time is the acquisition date of BCo on 2 March 2005.
+A deferred tax liability which is attributable to an asset held by the joining entity at the joining time can in certain circumstances constitute an accounting liability that is taken into account at step 2 of the ACA process under subsection 705-70(1A) of the ITAA 1997. Subsection 705-70(1A) states: Where liability valued differently for joined group However, if, in accordance with those *accounting standards or statements, the amount of an accounting liability of the joining entity would be different when it became an accounting liability of the joined group, the different amount is treated as the amount of the liability. An accounting liability that is referred to in subsection 705-70(1A) of the ITAA 1997 is a liability that is properly recognised and measured at the joining time in the joined group.
 Where the amount of the deferred tax liability in the joined group under subsection 705-70(1A) of the ITAA 1997 - measured by applying the same accounting standards and authoritative pronouncements and using the same accounting policies used to measure the amount of the deferred tax liability in the joining entity under subsection 705-70(1) of the ITAA 1997 - is different from the amount calculated under subsection 705-70(1), then it is the amount calculated under subsection 705-70(1A) that is relevant in determining step 2 of the ACA.
 When the accounting liability is a deferred tax liability recognised in the statement of financial position of the joining entity as attributable to an asset held by the joining entity at joining time, the amount of that deferred tax liability can be different from the amount of the deferred tax liability that would be attributed to the asset in the hands of the joined group simply because the relatives from which the deferred tax liability attributed to an asset is calculated - accounting value and tax value - can be different for the joining entity and the joined group.
 Subsequent to BCo joining ACo's tax consolidated group, ACo as the holder of the exploration permit because of the operation of the single entity rule has a depreciating asset for which a tax cost is set through the ACA process (sections 701-10 and 705-35 of the ITAA 1997).
 Subsection 701-55(2) of the ITAA 1997 gives meaning to the expression an 'asset's tax cost is set' for the purposes of specified capital allowance provisions. Under subsection 701-55(2), the exploration permit is taken to be acquired by the head company, ACo, at the tax cost setting amount at the joining time.
 As ACo has met the requirements of subsection 40-80(1) of the ITAA 1997, the decline in value of the depreciation asset (being the exploration permit) is equal to its cost. A deduction is available under subsection 40-25(1) of the ITAA 1997 to the head company of the joined group, ACo, as holder of the exploration permit, but that deduction does not occur at the joining time. Rather, a deduction is but a step in the calculation of taxable income for an income year: section 4-15 of the ITAA 1997. Any deduction for decline in value of the exploration permit acquired by ACo at the joining time is not relevant until after the joining time when it is taken into account in calculating the taxable income of ACo as head company for the year ended 30 June 2005.
 Therefore, a deferred tax liability of the joined group measured from a tax value of $nil which arises after the deduction under subsection 40-25(1) of the ITAA 1997 (following the application of subsection 40-80(1) of the ITAA 1997) is taken into account can only arise after joining time. No deferred tax liability of that amount would have been attributable to the exploration permit as an accounting liability of the joining entity, BCo, as at the joining time within the ambit of subsection 705-70(1) of the ITAA 1997. Nor would it have been the amount of the deferred tax liability when it became an accounting liability of the joined group within the ambit of subsection 705-70(1A) of the ITAA 1997.
-Date of decision:
-  25 November 2007
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 4-15   subsection 40-25(1)   subsection 40-80(1)   section 701-10   subsection 701-55(2)   section 705-35   section 705-60   subsection 705-70(1)   subsection 705-70(1A)   section 705-75   section 705-85
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2004/14
-
-Other References:
-
-AASB 1020 (1989)
- UIG Abstract 52 (December 2003)
-
-Keywords
-
-Accounting liabilities
- Allocable cost amount
- Consolidation
- Consolidated group
- Deferred tax liabilities
- Joining entity
- Joining time
-
-Siebel/TDMS Reference Number:
-  6005701
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  12 December 2008
-
-ISSN:
- 1445-2782
+Date of decision: 25 November 2007 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 section 4-15 subsection 40-25(1) subsection 40-80(1) section 701-10 subsection 701-55(2) section 705-35 section 705-60 subsection 705-70(1) subsection 705-70(1A) section 705-75 section 705-85 Related Public Rulings (including Determinations) Taxation Ruling TR 2004/14 Other References: AASB 1020 (1989) UIG Abstract 52 (December 2003) Keywords Accounting liabilities Allocable cost amount Consolidation Consolidated group Deferred tax liabilities Joining entity Joining time Siebel/TDMS Reference Number: 6005701 Business Line: Consolidation Centre of Expertise Date of publication: 12 December 2008 ISSN: 1445-2782

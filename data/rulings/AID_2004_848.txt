@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2004/848
-==================================================
-
-Income Tax
- Deductibility of an amount to a resident taxpayer who has not deducted withholding tax on an amount paid to a non-resident
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deductibility of an amount to a resident taxpayer who has not deducted withholding tax on an amount paid to a non-resident FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 26-25 of the Income Tax Assessment Act 1997 (ITAA 1997) apply to deny a deduction otherwise available under section 8-1 of the ITAA 1997 in respect of 'interest' payments made by the taxpayer to a non-resident entity?
 Decision
 No. Section 26-25 of the ITAA 1997 will not apply to deny a deduction otherwise available under section 8-1 of the ITAA 1997 in respect of 'interest' payments made by the taxpayer as the payments made to the non-resident are not interest as defined under Division 11A of Part III of the Income Tax Assessment Act 1936 (ITAA 1936).
@@ -31,89 +18,15 @@ Section 26-25 of the ITAA 1997 denies a deduction under section 8-1 of the ITAA 
 Section 12-245 of the TAA provides that an entity must withhold an amount from interest (within the meaning of Division 11A of Part III of the ITAA 1936) it pays to a non-resident entity.
 Generally, interest is an amount paid for the use of borrowed funds. The term interest, at least with respect to its ordinary meaning, is not specifically defined in Division 11A of Part III of the ITAA 1936. It is accordingly necessary to look elsewhere for that meaning of the term. However, subsection 128A(1A) of the ITAA 1936 extends the ordinary meaning of interest and includes amounts that are in the nature of interest (paragraph 128(1A)(a)).
 The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW defines interest as 'a payment, or a sum paid, for the use of money borrowed (the principal), or for the forbearance of a debt'. Similarly, the Australian Oxford Dictionary, 1999, Oxford University Press, Melbourne defines interest as 'money paid for use of money lent, or for not requiring repayment of debt'.
-There are several decided cases where the courts reveal a number of essential characteristics of interest. With reference to the decisions from these cases, it is possible to establish that an amount is interest if:
-
-•there is generally a relationship of debtor and creditor
+There are several decided cases where the courts reveal a number of essential characteristics of interest. With reference to the decisions from these cases, it is possible to establish that an amount is interest if: •there is generally a relationship of debtor and creditor
 •it is calculated with reference to a sum of money
 •it is payable for the use of money and is in the nature of compensation for deprivation of use of money, and
-•it accrues over time.
-
-(Re Euro Hotel (Belgravia) Ltd (1975) 51 TC 293, Riches v. Westminster Bank Limited [1947] AC 390 at 400; [1947] 1 All ER 469, Bennett v. Ogston (1930) 15 TC 374, Willingale (HM Inspector of Taxes) v. International Commercial Bank Limited (1978) 52 TC 242; [1978] 2 WLR 452, Chow Yoong Hong v. Choong Fah Rubber Manufactory [1961] 3 All 1163; [1962] AC 209)
-In this case it is necessary to decide whether these four conditions exist in order to establish that the amount in question is interest.
-
-Is there a relationship of debtor and creditor?
-
-There are no clauses in the agreement which imply that the taxpayer must pay the debit balance of the notional amount to the non-resident at any time or that the non-resident has any right to return the goods to recover monies. The non-resident is not a 'lender', nor is the taxpayer a creditor of the non-resident in respect of the debit balance of the notional amount.
-The non-resident pays for the products it acquires from the taxpayer in accordance with a complicated formula which ultimately allows the non-resident to make a profit which is calculated as a percentage of the ultimate sale price for on-selling the product plus a small profit calculated as 'interest' plus a fee for taking the credit risk in selling to the ultimate buyer.
-
-Is the 'interest' calculated with reference to a sum of money?
-
-It is clear from the method used to calculate the 'interest' set out in the contract that it is calculated with reference to a sum of money.
-
-Is the 'interest' payable for the use of money and in the nature of compensation for deprivation of use of money?
-
-It cannot be said that the 'interest charge' is payable for the use of money and in the nature of compensation for the deprivation of the use of money. The 'interest' is nothing more than a unit of calculation used to calculate the final price.
-
-Does the 'interest' accrue over time?
-
-The 'interest' in respect of each shipment which is the subject of the ruling is calculated by charging simple interest daily on any debit amount in the notional account. Clearly it does accrue over time.
-However, because there is no relationship of debtor and creditor and because the 'interest' is not payable for the use of money, nor is it in the nature of compensation for deprivation of use of money, the 'interest' in question is not interest in the ordinary meaning of the word.
-
-Is the 'interest' in the nature of interest?
-
-Paragraph 128A(1AB)(a) of the ITAA 1936 provides that the term interest includes amounts that are "in the nature of interest". This paragraph is directed at bringing into the interest withholding net amounts that are called something other than interest but are in fact interest.
-As the amount in question is not in fact interest, subsection 128A(1AB) of the ITAA 1936 has no application in the present case.
-
-Effect of any relevant double taxation agreement
-
-There is a double taxation agreement between Australia and the relevant country of the non-resident in this case. However, as the payments in question also fail to qualify as 'interest' for the purposes of the Article covering interest within that agreement, it has no additional bearing on this case.
-
-Conclusion
-
-As the 'interest' payments made under the agreement are not interest within the meaning of Division 11A of Part III of the ITAA 1936, the taxpayer has no obligation, under section 12-245 of the TAA, to withhold amounts from 'interest' payments it paid to the non-resident.
+•it accrues over time. (Re Euro Hotel (Belgravia) Ltd (1975) 51 TC 293, Riches v. Westminster Bank Limited [1947] AC 390 at 400; [1947] 1 All ER 469, Bennett v. Ogston (1930) 15 TC 374, Willingale (HM Inspector of Taxes) v. International Commercial Bank Limited (1978) 52 TC 242; [1978] 2 WLR 452, Chow Yoong Hong v. Choong Fah Rubber Manufactory [1961] 3 All 1163; [1962] AC 209)
+In this case it is necessary to decide whether these four conditions exist in order to establish that the amount in question is interest. Is there a relationship of debtor and creditor? There are no clauses in the agreement which imply that the taxpayer must pay the debit balance of the notional amount to the non-resident at any time or that the non-resident has any right to return the goods to recover monies. The non-resident is not a 'lender', nor is the taxpayer a creditor of the non-resident in respect of the debit balance of the notional amount.
+The non-resident pays for the products it acquires from the taxpayer in accordance with a complicated formula which ultimately allows the non-resident to make a profit which is calculated as a percentage of the ultimate sale price for on-selling the product plus a small profit calculated as 'interest' plus a fee for taking the credit risk in selling to the ultimate buyer. Is the 'interest' calculated with reference to a sum of money? It is clear from the method used to calculate the 'interest' set out in the contract that it is calculated with reference to a sum of money. Is the 'interest' payable for the use of money and in the nature of compensation for deprivation of use of money? It cannot be said that the 'interest charge' is payable for the use of money and in the nature of compensation for the deprivation of the use of money. The 'interest' is nothing more than a unit of calculation used to calculate the final price. Does the 'interest' accrue over time? The 'interest' in respect of each shipment which is the subject of the ruling is calculated by charging simple interest daily on any debit amount in the notional account. Clearly it does accrue over time.
+However, because there is no relationship of debtor and creditor and because the 'interest' is not payable for the use of money, nor is it in the nature of compensation for deprivation of use of money, the 'interest' in question is not interest in the ordinary meaning of the word. Is the 'interest' in the nature of interest? Paragraph 128A(1AB)(a) of the ITAA 1936 provides that the term interest includes amounts that are "in the nature of interest". This paragraph is directed at bringing into the interest withholding net amounts that are called something other than interest but are in fact interest.
+As the amount in question is not in fact interest, subsection 128A(1AB) of the ITAA 1936 has no application in the present case. Effect of any relevant double taxation agreement There is a double taxation agreement between Australia and the relevant country of the non-resident in this case. However, as the payments in question also fail to qualify as 'interest' for the purposes of the Article covering interest within that agreement, it has no additional bearing on this case. Conclusion As the 'interest' payments made under the agreement are not interest within the meaning of Division 11A of Part III of the ITAA 1936, the taxpayer has no obligation, under section 12-245 of the TAA, to withhold amounts from 'interest' payments it paid to the non-resident.
 As a result, section 26-25 of the ITAA 1997 will not apply to deny a deduction otherwise available under section 8-1 of the ITAA 1997.
-Date of decision:
-  23 December 2003
-
-Year of income:
-  Year ended 30 June 2001 Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 128A(1AB)   subsection 128A(1AC)   subsection 128A(1AD)   section 128B   subsection 128B(2)
-Income Tax Assessment Act 1997   section 26-25
-Taxation Administration Act 1953   paragraph 12-245(a)   paragraph 12-245(b)
-
-Case References:
-
-Riches v. Westminster Bank Limited   [1947] 1 All ER 469   [1947] 1 AC 390
-
-Bennett v. Ogston    (1930) 15 TC 374
-
-Willingale (HM Inspector of Taxes) v. International Commercial Bank Limited    (1978) 52 TC 242   [1978] AC 834
-
-Chow Yoong Hong v. Choong Fah Rubber Manufactory    [1961] 3 AllER 1163    [1962] 1 AC 209
-
-Re Euro Hotel (Belgravia) Ltd    (1975) 51 TC 293   [1975] 3 All ER 1075
-
-Other References:
-
-The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW
- The Australian Oxford Dictionary, 1999, Oxford University Press, Melbourne
-
-Keywords
-
-Double tax agreements
- Non resident interest withholding tax
-
-Siebel/TDMS Reference Number:
-  3840156
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 October 2004
-
-ISSN:
- 1445-2782
+Date of decision: 23 December 2003 Year of income: Year ended 30 June 2001 Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 128A(1AB) subsection 128A(1AC) subsection 128A(1AD) section 128B subsection 128B(2)
+Income Tax Assessment Act 1997 section 26-25
+Taxation Administration Act 1953 paragraph 12-245(a) paragraph 12-245(b) Case References: Riches v. Westminster Bank Limited [1947] 1 All ER 469 [1947] 1 AC 390 Bennett v. Ogston (1930) 15 TC 374 Willingale (HM Inspector of Taxes) v. International Commercial Bank Limited (1978) 52 TC 242 [1978] AC 834 Chow Yoong Hong v. Choong Fah Rubber Manufactory [1961] 3 AllER 1163 [1962] 1 AC 209 Re Euro Hotel (Belgravia) Ltd (1975) 51 TC 293 [1975] 3 All ER 1075 Other References: The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW The Australian Oxford Dictionary, 1999, Oxford University Press, Melbourne Keywords Double tax agreements Non resident interest withholding tax Siebel/TDMS Reference Number: 3840156 Business Line: Public Groups and International Date of publication: 29 October 2004 ISSN: 1445-2782

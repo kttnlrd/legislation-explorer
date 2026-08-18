@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/351
-==================================================
-
-Income Tax
- Group company loss transfers: net capital loss incurred during part of capital loss year after loss company became a member of a wholly-owned group
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Group company loss transfers: net capital loss incurred during part of capital loss year after loss company became a member of a wholly-owned group FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a net capital loss, incurred by a loss company during the part of the capital loss year after it became a member of a wholly-owned group, be transferred to a gain company within the same group under Subdivision 170-B of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. A net capital loss transfer is not permitted because the loss company was not a member of the same wholly-owned group as the gain company for the entire capital loss year, as required under subsection 170-130(2) of the ITAA 1997.
@@ -22,29 +11,4 @@ Reasons for Decision
 As a condition for transferring a net capital loss, subsection 170-130(2) of the ITAA 1997 requires that both the loss company and the gain company must be members of the same wholly-owned group at all times during the capital loss year, the application year and intervening years when both companies were in existence. The 'capital loss year' is the income year for which a loss company makes a net capital loss that is available for transfer. The 'application year' is the income year for which the transferred net capital loss can be applied.
 A company is said to be in existence, as defined in subsection 975-100(1) of the ITAA 1997, if it has been incorporated and has not been dissolved. The loss company in this case was in existence prior to becoming a member of the wholly-owned group during the capital loss year.
 The loss company only became a member of the wholly-owned group part way through the capital loss year, which means that it has not satisfied the requirement that it must be a member of the same wholly-owned group as the gain company for the whole of the capital loss year. It follows that no capital loss transfer is permitted even though the net capital loss was made during the part of the capital loss year after the loss company became a member of the group.
-Date of decision:
-  12 March 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 170-B   subsection 170-130(2)   subsection 975-100(1)
-
-Keywords
-
-Group company loss transfers
- Transferred losses
-
-Siebel/TDMS Reference Number:
-  3353282
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 May 2003
-
-ISSN:
- 1445-2782
+Date of decision: 12 March 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Subdivision 170-B subsection 170-130(2) subsection 975-100(1) Keywords Group company loss transfers Transferred losses Siebel/TDMS Reference Number: 3353282 Business Line: Public Groups and International Date of publication: 15 May 2003 ISSN: 1445-2782

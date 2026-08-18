@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/741
-==================================================
-
-Income Tax
- Consolidation - trading stock
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation - trading stock FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 701A-10 of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997) apply to a head company in respect of an asset that was an item of trading stock in the hands of the creator and which is transferred to a subsidiary member of the group who holds it as a depreciating asset before the group consolidates?
 Decision
 No. This section only applies to internally created assets which at the time of creation were depreciating assets. Trading stock is specifically excluded from being a depreciating asset under paragraph 40-30(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997).
@@ -25,37 +14,5 @@ Subsection 701A-10(1) of the IT(TP)A 1997 only applies to assets that were depre
 Therefore, paragraph 701A-10(1)(d) of the IT(TP)A 1997 only refers to expenditure incurred in constructing or creating a depreciating asset.
 Paragraph 40-30(1)(b) of the ITAA 1997 specifically excludes trading stock from the definition of a depreciating asset. Subsection 40-30(2) of the ITAA 1997 reiterates the exclusion of trading stock from the definition of a depreciating asset. Consequently, trading stock cannot be a depreciating asset and is not considered under section 701A-10 of the IT(TP)A 1997.
 In this instance, Company B's internally created asset was not a depreciating asset at the time of creation because of the operation of paragraph 40-30(1)(b) of the ITAA 1997. Accordingly, the conditions in paragraph 701A-10(1)(d) of the IT(TP)A 1997 are not met. Therefore, section 701A-10 of the IT(TP)A 1997 will not apply to the head company.
-Date of decision:
-  11 June 2003
-
-Year of income:
-  Year ending 30 June 2003 Year ending 30 June 2004
-
-Legislative References:
-
-Income Tax (Transitional Provisions) Act 1997   section 701A-10   subsection 701A-10(1)   paragraph 701A-10(1)(a)   paragraph 701A-10(1)(d)
-Income Tax Assessment Act 1997   section 40-340   paragraph 40-30(1)(b)   subsection 40-30(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/741
-
-Keywords
-
-Adjustable value of a depreciating asset
- Adjusted market value of the consolidated group
- Consolidation
- Consolidation - assets
- Consolidation - joining
-
-Siebel/TDMS Reference Number:
-  3571648
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  22 August 2003
-
-ISSN:
- 1445-2782
+Date of decision: 11 June 2003 Year of income: Year ending 30 June 2003 Year ending 30 June 2004 Legislative References: Income Tax (Transitional Provisions) Act 1997 section 701A-10 subsection 701A-10(1) paragraph 701A-10(1)(a) paragraph 701A-10(1)(d)
+Income Tax Assessment Act 1997 section 40-340 paragraph 40-30(1)(b) subsection 40-30(2) Related ATO Interpretative Decisions ATO ID 2003/741 Keywords Adjustable value of a depreciating asset Adjusted market value of the consolidated group Consolidation Consolidation - assets Consolidation - joining Siebel/TDMS Reference Number: 3571648 Business Line: Consolidation Centre of Expertise Date of publication: 22 August 2003 ISSN: 1445-2782

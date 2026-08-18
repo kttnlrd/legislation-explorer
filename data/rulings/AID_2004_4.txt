@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/4
-==================================================
-
-Income Tax
- Consolidation: Single entity rule - intra-group transfer of pre-consolidation debt
- FOI status: may be released
-
-This ATO ID has been withdrawn as it is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: Single entity rule - intra-group transfer of pre-consolidation debt FOI status: may be released This ATO ID has been withdrawn as it is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the effect of section 701-1 of the Income Tax Assessment Act 1997 (ITAA 1997) such that the post-consolidation transfer of a pre-consolidation debt asset from a subsidiary member of a consolidated group to the head company of that group has no consequences in terms of working out the income tax liability or losses of either member?
 Decision
 Yes. The effect of section 701-1 of the ITAA 1997 is such that the transfer of the debt asset will not have any consequences in terms of working out the amount of income tax liability or losses of either member of the consolidated group.
@@ -24,72 +9,12 @@ Facts
 On 1 July 2002 a consolidated group came into existence consisting of a head company and a subsidiary member. One of the assets held by the subsidiary member at that time was a debt owed by a third party. The subsidiary member now plans to transfer the debt asset to the head company.
 Reasons for Decision
 Section 701-1 of the ITAA 1997 contains the 'single entity rule' and embodies the principle that a consolidated group is treated as a single entity for income tax purposes.
-The key provision of the single entity rule is subsection 701-1(1) of the ITAA 1997 which states:
-
-'If an entity is a *subsidiary member of a *consolidated group for any period, it and any other subsidiary member of the group are taken for the purposes covered by subsections (2) and (3) to be parts of the *head company of the group, rather than separate entities, during that period.'
-
-* denotes a term defined in section 995-1 of the ITAA 1997
-
-The 'purposes covered by subsections (2) and (3)' are known as the core purposes and are:
+The key provision of the single entity rule is subsection 701-1(1) of the ITAA 1997 which states: 'If an entity is a *subsidiary member of a *consolidated group for any period, it and any other subsidiary member of the group are taken for the purposes covered by subsections (2) and (3) to be parts of the *head company of the group, rather than separate entities, during that period.' * denotes a term defined in section 995-1 of the ITAA 1997 The 'purposes covered by subsections (2) and (3)' are known as the core purposes and are:
 for the head company, working out its income tax liability or loss for any period during which it is the head company of a consolidated group, or any later income year (subsection 701-1(2) of the ITAA 1997)
 for a subsidiary member, working out its income tax liability or loss for any period during which it is a subsidiary member of a consolidated group, or any later income year (subsection 701-1(3) of the ITAA 1997)
-The effect of the single entity rule is summarised at paragraph 2.12 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002 which states:
-
-'The income tax treatment of a consolidated group flows from the rule that an entity is treated as part of the head company while it is a subsidiary member of a consolidated group. Actions of the subsidiaries are treated as actions of the head company, as this is the only entity the income tax law recognises for the purposes of working out the income tax liability or losses of a consolidated group. For example, a transfer of an asset from one subsidiary member to another is treated like a transfer from one division of a company to another division. Such a transaction could not have any income tax consequences, as no disposal between distinct entities would have occurred (an entity cannot transact with itself).'
-
-The discussion on the impact of the single entity rule on intra-group transactions is taken up further at paragraphs 2.18 and 2.19 which state:
-
-'2.18 Transactions between members of a consolidated group will be ignored for income tax purposes. For example, payment of management fees between group members will not be deductible or assessable for income tax purposes. In addition, intra-group dividends will not be assessable or subject to the franking regime.
-
-2.19 Assets can therefore be transferred between member entities without income tax consequences. ...'
-
-In relation to the question at hand, the transfer of the debt asset is to occur between the subsidiary member and the head company while they are members of the same consolidated group. The effect of the single entity rule of section 701-1 of the ITAA 1997 is that the head company is already deemed to hold the asset from the joining time of the subsidiary member for the purposes of determining the head company's tax liability or losses after the joining time.
+The effect of the single entity rule is summarised at paragraph 2.12 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002 which states: 'The income tax treatment of a consolidated group flows from the rule that an entity is treated as part of the head company while it is a subsidiary member of a consolidated group. Actions of the subsidiaries are treated as actions of the head company, as this is the only entity the income tax law recognises for the purposes of working out the income tax liability or losses of a consolidated group. For example, a transfer of an asset from one subsidiary member to another is treated like a transfer from one division of a company to another division. Such a transaction could not have any income tax consequences, as no disposal between distinct entities would have occurred (an entity cannot transact with itself).' The discussion on the impact of the single entity rule on intra-group transactions is taken up further at paragraphs 2.18 and 2.19 which state: '2.18 Transactions between members of a consolidated group will be ignored for income tax purposes. For example, payment of management fees between group members will not be deductible or assessable for income tax purposes. In addition, intra-group dividends will not be assessable or subject to the franking regime. 2.19 Assets can therefore be transferred between member entities without income tax consequences. ...' In relation to the question at hand, the transfer of the debt asset is to occur between the subsidiary member and the head company while they are members of the same consolidated group. The effect of the single entity rule of section 701-1 of the ITAA 1997 is that the head company is already deemed to hold the asset from the joining time of the subsidiary member for the purposes of determining the head company's tax liability or losses after the joining time.
 As a result of the single entity rule the transfer of the debt asset will be treated as if it were a transfer from one division to another division of the same company. Such a transaction will not have any consequences in terms of working out income tax liability or losses of either the head company or the subsidiary member.
-Date of decision:
-  19 December 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 701-1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/3
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002 paragraphs 2.12, 2.18, 2.19 and 2.26
-
-Keywords
-
-Consolidation
- Single entity rule
- Transfer of book debts
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  9 January 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 December 2003
-Original statement
-
-You are here
+Date of decision: 19 December 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Section 701-1 Related ATO Interpretative Decisions ATO ID 2004/3 Other References: Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002 paragraphs 2.12, 2.18, 2.19 and 2.26 Keywords Consolidation Single entity rule Transfer of book debts Business Line: Consolidation Centre of Expertise Date of publication: 9 January 2004 ISSN: 1445-2782 history Date: Version: 19 December 2003
+Original statement You are here
 14 May 2010
 Archived

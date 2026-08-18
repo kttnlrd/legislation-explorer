@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/34
-==================================================
-
-Income Tax
- Capital Gains Tax: main residence exemption - testamentary trust - CGT event brought about by individual to whom ownership interest passed
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: main residence exemption - testamentary trust - CGT event brought about by individual to whom ownership interest passed FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a capital gain or capital loss made by a testamentary trust on the transfer of an interest in a dwelling by the trustee to an individual beneficiary be disregarded under item 2(c) in the table in subsection 118-195(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. Item 2(c) in the table in subsection 118-195(1) of the ITAA 1997 can apply only if a relevant CGT event happens to an individual beneficiary to whom an ownership interest in a dwelling has passed.
@@ -29,124 +16,33 @@ The trustee sold the remaining 4/5th interest to that same beneficiary in accord
 Reasons for Decision
 CGT event A1 in section 104-10 of the ITAA 1997 happened when the trustee of the testamentary trust disposed of the 4/5th interest in the dwelling to the beneficiary under the trustee's power of sale.
 The capital gain from this CGT event happening is not disregarded under Division 128 of the ITAA 1997 as this interest in the dwelling did not pass to the beneficiary under the deceased's will in the ways set out in section 128-20 of the ITAA 1997. Subsection 128-20(2) of the ITAA 1997 provides that an asset does not pass to a beneficiary in your estate if it is transferred to them under a power of sale.
-Section 118-195 of the ITAA 1997 sets out the circumstances in which a full main residence exemption is available to an individual beneficiary or a trustee of a deceased estate. To determine if the trustee's capital gain qualifies for the exemption in section 118-195, both the meaning of 'trustee of a deceased estate' and the requirements set out in item 2(c) of the table in subsection 118-195(1) of the ITAA 1997 must be considered.
-
-Meaning of 'trustee of a deceased estate'
-
-The words 'trustee of a deceased estate' as used in section 118-195 of the ITAA 1997 are not limited to a legal personal representative but include the trustee of a testamentary trust.
-This view is supported by comments made in the Explanatory Memorandum to the Taxation Laws Amendment Bill 1990 which introduced changes to section 160ZZQ of the Income Tax Assessment Act 1936 (ITAA 1936) to provide an exemption for the period a dwelling was occupied by an individual under the terms of the deceased's will. The Explanatory Memorandum provided:
-
-The amendments are being made to allow the sole or principal residence exemption to apply to the dwelling of a deceased person for any period since the date of the deceased person's death during which the dwelling had been the sole or principal residence of the spouse of the deceased person or of a person who had the right to occupy the dwelling (life tenant) under the terms of the deceased person's will. At present no account is taken of the time during which a dwelling owned by a trustee of a deceased person's estate was the sole or principal residence of a life tenant.
-
-As a life tenancy would only arise after administration of an estate has been completed, the phrase 'trustee of a deceased estate' in section 118-195 of the ITAA 1997 must be interpreted as including the trustee of a testamentary trust to give effect to the intended policy.
-
-Main residence requirements in the table in subsection 118-195(1) of the ITAA 1997
-
-Item 2 in the table insubsection 118-195(1)of the ITAA 1997 provides that where the deceased owned the interest before 20 September 1985 an exemption is available if the dwelling was from the deceased's death until the ownership interest ends, the main residence of one or more of:
-
-Item 1 - the ownership interest ends within two years of the deceased's death, or within a longer period allowed by the Commissioner, or within a longer period allowed by the Commissioner, or
-
-Item 2 - the dwelling was from the deceased's death until the ownership interest ends, the main residence of one or more of:
-
-(a)the spouse of the deceased immediately before the death (except a spouse who was living permanently separately and apart from the deceased); or
+Section 118-195 of the ITAA 1997 sets out the circumstances in which a full main residence exemption is available to an individual beneficiary or a trustee of a deceased estate. To determine if the trustee's capital gain qualifies for the exemption in section 118-195, both the meaning of 'trustee of a deceased estate' and the requirements set out in item 2(c) of the table in subsection 118-195(1) of the ITAA 1997 must be considered. Meaning of 'trustee of a deceased estate' The words 'trustee of a deceased estate' as used in section 118-195 of the ITAA 1997 are not limited to a legal personal representative but include the trustee of a testamentary trust.
+This view is supported by comments made in the Explanatory Memorandum to the Taxation Laws Amendment Bill 1990 which introduced changes to section 160ZZQ of the Income Tax Assessment Act 1936 (ITAA 1936) to provide an exemption for the period a dwelling was occupied by an individual under the terms of the deceased's will. The Explanatory Memorandum provided: The amendments are being made to allow the sole or principal residence exemption to apply to the dwelling of a deceased person for any period since the date of the deceased person's death during which the dwelling had been the sole or principal residence of the spouse of the deceased person or of a person who had the right to occupy the dwelling (life tenant) under the terms of the deceased person's will. At present no account is taken of the time during which a dwelling owned by a trustee of a deceased person's estate was the sole or principal residence of a life tenant. As a life tenancy would only arise after administration of an estate has been completed, the phrase 'trustee of a deceased estate' in section 118-195 of the ITAA 1997 must be interpreted as including the trustee of a testamentary trust to give effect to the intended policy. Main residence requirements in the table in subsection 118-195(1) of the ITAA 1997 Item 2 in the table insubsection 118-195(1)of the ITAA 1997 provides that where the deceased owned the interest before 20 September 1985 an exemption is available if the dwelling was from the deceased's death until the ownership interest ends, the main residence of one or more of: Item 1 - the ownership interest ends within two years of the deceased's death, or within a longer period allowed by the Commissioner, or within a longer period allowed by the Commissioner, or Item 2 - the dwelling was from the deceased's death until the ownership interest ends, the main residence of one or more of: (a)the spouse of the deceased immediately before the death (except a spouse who was living permanently separately and apart from the deceased); or
 (b)an individual who had a right to occupy the dwelling under the deceased's will; or
-(c)if the CGT event was brought about by the individual to whom the ownership interest passed as a beneficiary - that individual.
-
-For item 2(b) purposes, 'under the deceased's will' is limited to circumstances where a right to occupy has been expressly granted under the terms of the will to an individual specifically named in the will. The phrase 'under the deceased will' does not extend to a right under a testamentary trust (or any other separate agreements) because the deceased's will is separate and distinct from a testamentary trust.
+(c)if the CGT event was brought about by the individual to whom the ownership interest passed as a beneficiary - that individual. For item 2(b) purposes, 'under the deceased's will' is limited to circumstances where a right to occupy has been expressly granted under the terms of the will to an individual specifically named in the will. The phrase 'under the deceased will' does not extend to a right under a testamentary trust (or any other separate agreements) because the deceased's will is separate and distinct from a testamentary trust.
 In this case, the issue is the proper construction of item 2(c).
 In rewriting the former section 160ZZQ of the ITAA 1936, section 118-195 of the ITAA 1997 combined exemptions for beneficiaries and trustees that had previously been dealt with in separate provisions. In particular, section 118-195 of the ITAA 1997 rewrote subsection 160ZZQ(15) and introduced item 2 (c) in the table. No exemption previously existed for a trustee in respect of a period that the dwelling was the sole or principal residence of a beneficiary. It is clear from the wording of the legislation that the changes were only intended to determine the beneficiary's eligibility for the main residence exemption.
 In this context and having regard to section 1-3 of the ITAA 1997, item 2(c) in the table in subsection 118-195(1) of the ITAA 1997 only applies to a CGT event which happens to an individual to whom the ownership interest 'passed' as a beneficiary, within the meaning of section 128-20 of the ITAA 1997. For example, if the beneficiary brings about the sale of the interest in the dwelling which has passed to them. A trustee would have no need to apply item 2(c) to a capital gain or loss that arises in respect of an ownership interest which passes to a beneficiary because it would be disregarded under Division 128 of the ITAA 1997, irrespective of who occupied the dwelling as their main residence from the date of the deceased's death.
 In any case,item 2(c) cannot apply to a trust capital gain, where the relevant ownership interest (the 4/5th interest) did not 'pass' to the individual as a beneficiary, but as a purchaser (see 128-20(2) of the ITAA 1997). The transfer of this interest was also not 'brought about' by that individual, but rather by the trustee and the other beneficiaries by agreement.
 For all these reasons, the capital gain made by the trustee on the sale of the 4/5th interest in the dwelling to the beneficiary is not disregarded.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-28 January 2026
+Comment 28 January 2026
 Item 2(b) in subsection 118-195(1) of the ITAA 1997
-Clarification of 'under the deceased's will'
-
-28 January 2026
+Clarification of 'under the deceased's will' 28 January 2026
 Other references
-Insert reference to Draft Taxation Determination TD 2026/D1
-
-8 April 2016
+Insert reference to Draft Taxation Determination TD 2026/D1 8 April 2016
 Main residence requirements in the table in subsection 118-195(1) of the ITAA 1997
-Update in legislation for Item 1 of subsection 118-195(1) ITAA 1997
-
-1 October 2014
+Update in legislation for Item 1 of subsection 118-195(1) ITAA 1997 1 October 2014
 Facts
-Include material fact; remove irrelevant fact.
-
-1 October 2014
+Include material fact; remove irrelevant fact. 1 October 2014
 Reasons for Decision
-Simplify explanation
-
-1 October 2014
+Simplify explanation 1 October 2014
 Other References
-Insert the reference to the Explanatory Memorandum
-
-Date of decision:
-  6 February 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160ZZQ   subsection 160ZZQ(15)
-Income Tax Assessment Act 1997   section 1-3   section 104-10   section 118-195   subsection 118-195(1)   Division 128   section 128-20   subsection 128-20(2)
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment Bill 1990
- Draft Taxation Determination TD 2026/D1 Income tax: deceased estates – meaning of 'right to occupy the dwelling under the deceased's will' in item 2(b) of column 3 of the table in subsection 118-195(1) of the Income Tax Assessment Act 1997
-
-Keywords
-
-Capital gains tax
- CGT deceased estates
- CGT events
- CGT main residence exemption
- Wills
-
-Siebel/TDMS Reference Number:
-  5031649; 1-7SLCJ2I; 1-E6W5EE2
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  10 February 2006
-
-Date reviewed:
-  13 January 2026
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 6 February 2006
-Original statement
-
- 
- 1 October 2014
-Updated statement
-
- 
- 8 April 2016
-Updated statement
-
-You are here
+Insert the reference to the Explanatory Memorandum Date of decision: 6 February 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 section 160ZZQ subsection 160ZZQ(15)
+Income Tax Assessment Act 1997 section 1-3 section 104-10 section 118-195 subsection 118-195(1) Division 128 section 128-20 subsection 128-20(2) Other References: Explanatory Memorandum to the Taxation Laws Amendment Bill 1990 Draft Taxation Determination TD 2026/D1 Income tax: deceased estates – meaning of 'right to occupy the dwelling under the deceased's will' in item 2(b) of column 3 of the table in subsection 118-195(1) of the Income Tax Assessment Act 1997 Keywords Capital gains tax CGT deceased estates CGT events CGT main residence exemption Wills Siebel/TDMS Reference Number: 5031649; 1-7SLCJ2I; 1-E6W5EE2 Business Line: Private Groups and High Wealth Individuals Date of publication: 10 February 2006 Date reviewed: 13 January 2026 ISSN: 1445-2782 history Date: Version: 6 February 2006
+Original statement 1 October 2014
+Updated statement 8 April 2016
+Updated statement You are here
 28 January 2026
 Updated statement

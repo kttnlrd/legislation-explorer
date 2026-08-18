@@ -1,19 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2015/8
-==================================================
-
-Income tax
- Income tax: CGT small business concessions: small business participation percentage - trust where entities have entitlement to all income and capital of the trust
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Income tax: CGT small business concessions: small business participation percentage - trust where entities have entitlement to all income and capital of the trust This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a trust, in relation to which a term of the trust deed gives the trustee the power to accumulate income or capital of the trust estate for a year of income, capable of being a trust where entities have entitlements to all the income and capital of the trust for the purposes of Item 2 of the table in subsection 152-70(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. A trust, in relation to which a term of the trust deed gives the trustee the power to accumulate income or capital of the trust estate for a year of income, is capable of being a trust where entities have entitlements to all the income and capital of the trust for the purposes of Item 2 of the table in subsection 152-70(1) of the ITAA 1997.
@@ -22,114 +10,29 @@ The XYZ Trust is a unit trust, in which two unit holders, U1 and U2, each hold 5
 Under the XYZ Trust Deed, unit holders are entitled to each year's income of the trust estate in proportion to their unit holdings. Upon vesting, or at an earlier time determined by the trustee, unit holders are also entitled to the capital of the trust estate in proportion to their unit holdings.
 The trustee has no discretion to allocate income or capital of the trust to unit holders other than in accordance with the share of income and capital represented by their units.
 The XYZ Trust Deed gives the trustee discretion to accumulate some, or all, of the income of the trust estate for a year of income such that it forms part of the capital of the trust fund.
-Each unit holder retains their interest in the share of accumulated income represented by their unit holdings.
-
-Reasons for Decision
+Each unit holder retains their interest in the share of accumulated income represented by their unit holdings. Reasons for Decision
 The small business Capital Gains Tax (CGT) concessions only apply to a capital gain if, amongst other things, the basic conditions in section 152-10 of the ITAA 1997 are met. Where that capital gain is made in respect of an interest in a trust or a share in a company, the additional basic condition in subsection 152-10(2) of the ITAA 1997 requires a determination of whether or not an individual is a CGT concession stakeholder and, in turn, a significant individual, in the trust or company just before the relevant CGT event (defined in sections 152-60 and 152-55 of the ITAA 1997, respectively).
 An individual is a significant individual in a trust at a time if, at that time, the individual has a small business participation percentage in the trust of at least 20% (section 152-55 of the ITAA 1997). An entity's small business participation percentage in another entity at a time is the percentage that is the sum of the entity's direct small business participation percentage and indirect small business participation percentage in the other entity at that time (section 152-65 of the ITAA 1997).
 An entity's direct small business participation percentage in a trust is calculated using the methodology in either item 2 or 3 of the table in subsection 152-70(1) of the ITAA 1997, depending on whether or not the trust is one in which entities have entitlements to all of the income and capital of the trust.
-Items 2 and 3 of the table in subsection 152-70(1) of the ITAA 1997 state:
-
-An entity's
-
-direct small business participation percentage
-
-In this entity:
-
-Is:
-
-1
+Items 2 and 3 of the table in subsection 152-70(1) of the ITAA 1997 state: An entity's direct small business participation percentage In this entity: Is: 1
 ...
-...
-
-2
+... 2
 A trust (where entities have entitlements to all the income and capital of the trust)
-This percentage:
-
-(a) the percentage of any distribution of income that the trustee may make to which the entity would be beneficially entitled; or
-(b) the percentage of any distribution of capital that the trustee may make to which the entity would be beneficially entitled;
-
-or, if they are different, the smaller.
-
-3
+This percentage: (a) the percentage of any distribution of income that the trustee may make to which the entity would be beneficially entitled; or
+(b) the percentage of any distribution of capital that the trustee may make to which the entity would be beneficially entitled; or, if they are different, the smaller. 3
 A trust (where entities do not have entitlements to all the income and capital of the trust)
-This percentage:
-
-(a) if the trustee makes distributions of income during the income year (the
- relevant year)
- in which that time occurs-the percentage of the distributions to which the entity was beneficially entitled; or
-(b) if the trustee makes distributions of capital during the relevant year-the percentage of the distributions to which the entity was beneficially entitled;
-
-or, if 2 different percentages are applicable, the smaller.
-
-Although 'income' is not relevantly defined, in context, it has the meaning which it has for the purposes of the general law of trusts (ATO Interpretative Decision ATO ID 2012/99). Similarly, it is considered that 'capital' has the meaning which it has for the purposes of the general law of trusts.
+This percentage: (a) if the trustee makes distributions of income during the income year (the relevant year) in which that time occurs-the percentage of the distributions to which the entity was beneficially entitled; or
+(b) if the trustee makes distributions of capital during the relevant year-the percentage of the distributions to which the entity was beneficially entitled; or, if 2 different percentages are applicable, the smaller. Although 'income' is not relevantly defined, in context, it has the meaning which it has for the purposes of the general law of trusts (ATO Interpretative Decision ATO ID 2012/99). Similarly, it is considered that 'capital' has the meaning which it has for the purposes of the general law of trusts.
 Accordingly, a determination of whether a trust is an entity to which item 2 or item 3 of the table in subsection 152-70(1) of the ITAA 1997 applies, depends on whether or not, on a proper construction of the trust instrument, there is any amount of income or capital of the trust to which no beneficiary is entitled at the relevant time.
 The 'relevant time' (as that phrase is used in subsection 152-70(1) of the ITAA 1997) for making the determination is, with respect to the additional basic conditions, 'just before the CGT event' (subsection 152-10(2) of the ITAA 1997).
-Accordingly, a trust instrument which gives the trustee discretion to appoint or distribute income or capital to one or more of a class of beneficiaries is a trust where entities
- do not
- have entitlements to all the income and capital of the trust. Although entities may become entitled to the income and capital of the trust as a result of the exercise of the trustee's discretion, those entitlements do not exist prior to that time.
+Accordingly, a trust instrument which gives the trustee discretion to appoint or distribute income or capital to one or more of a class of beneficiaries is a trust where entities do not have entitlements to all the income and capital of the trust. Although entities may become entitled to the income and capital of the trust as a result of the exercise of the trustee's discretion, those entitlements do not exist prior to that time.
 By contrast, whilst every case will turn on a proper construction of the trust instrument, the power in the trustee to accumulate income of the trust in the present case does not of itself cause the trust to be one in which beneficiaries do not have entitlements to all the income and capital of the trust. Generally, an accumulation clause gives the trustee a power to effectively cause part of the income of the trust estate to be capital of the trust estate.
 Provided that, under the trust instrument, one or more beneficiaries has, at the relevant time, an entitlement to all of the income and capital of the trust, including any accumulated income or capital, the trust will be a trust to which item 2 of the table in subsection 152-70(1) of the ITAA 1997 applies. For the purposes of determining whether or not a trust is a trust to which item 2 or item 3 of the table in subsection 152-70(1) applies, it doesn't matter whether the same beneficiary or beneficiaries have an entitlement to the accumulated income or capital.
-In the present case, the power in the trustee to accumulate some or all of the income of the trust estate in accordance with the terms of the trust deed does not change the fact that entities are, at all relevant times, entitled to all of the income and capital of the unit trust.
-
-Note:
- A number of other provisions in Division 152 of the ITAA 1997 are also conditional upon whether or not an individual is a concession stakeholder or significant individual (as defined in sections 152-60 and 152-55 of the ITAA 1997). In general, the 'relevant time' is 'just before the CGT event'. However, the '15-year exemption' in Subdivision 152-B contains a number of provisions that test whether a company or trust had a significant individual for 'a total of at least 15 years' (sections 152-105 and 152-110 of the ITAA 1997). The 'relevant time' in respect of those provisions is each point in time on which the test is being applied.
-
-Amendment History
-
-Date of Amendment
+In the present case, the power in the trustee to accumulate some or all of the income of the trust estate in accordance with the terms of the trust deed does not change the fact that entities are, at all relevant times, entitled to all of the income and capital of the unit trust. Note: A number of other provisions in Division 152 of the ITAA 1997 are also conditional upon whether or not an individual is a concession stakeholder or significant individual (as defined in sections 152-60 and 152-55 of the ITAA 1997). In general, the 'relevant time' is 'just before the CGT event'. However, the '15-year exemption' in Subdivision 152-B contains a number of provisions that test whether a company or trust had a significant individual for 'a total of at least 15 years' (sections 152-105 and 152-110 of the ITAA 1997). The 'relevant time' in respect of those provisions is each point in time on which the test is being applied. Amendment History Date of Amendment
 Part
-Comment
-
-27 February 2015
+Comment 27 February 2015
 Issue & Decision
-Updated for clarity.
-
-Date of decision:
-  10 February 2015
-
-Year of income:
-  Year ended 30 June 2014
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 152   Subdivision 152-B   section 152-10   subsection 152-10(2)   section 152-55   section 152-60   section 152-65   subsection 152-70(1)   subsection 152-70(2)   section 152-105   section 152-110
-
-Related ATO Interpretative Decisions
-
- ATO ID 2012/99
-
-Keywords
-
-Basic conditions for relief
- Capital gains tax
- CGT concession stakeholder
- CGT small business relief
-
-Siebel/TDMS Reference Number:
-  1-6CB6W4H
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  20 February 2015
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 February 2015
-Original statement
-
-You are here
+Updated for clarity. Date of decision: 10 February 2015 Year of income: Year ended 30 June 2014 Legislative References: Income Tax Assessment Act 1997 Division 152 Subdivision 152-B section 152-10 subsection 152-10(2) section 152-55 section 152-60 section 152-65 subsection 152-70(1) subsection 152-70(2) section 152-105 section 152-110 Related ATO Interpretative Decisions ATO ID 2012/99 Keywords Basic conditions for relief Capital gains tax CGT concession stakeholder CGT small business relief Siebel/TDMS Reference Number: 1-6CB6W4H Business Line: Small Business/Individual Taxpayers Date of publication: 20 February 2015 ISSN: 1445-2782 history Date: Version: 20 February 2015
+Original statement You are here
 27 February 2015
 Updated statement

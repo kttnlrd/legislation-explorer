@@ -1,35 +1,14 @@
 ATO Interpretative Decision
 ATO ID 2013/1
-==================================================
-
-Goods and Services Tax
- GST and points fee in a loyalty program
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is an entity, a loyalty program operator, making a taxable supply to a program partner where:
-
-•it allocates points to nominated customers of the loyalty program partner in return for a points fee; and
-•those points would be redeemed by the nominated customers for vouchers which are subject to the modified rules in Division 100 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
-
-Decision
+================================================== Goods and Services Tax GST and points fee in a loyalty program FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is an entity, a loyalty program operator, making a taxable supply to a program partner where: •it allocates points to nominated customers of the loyalty program partner in return for a points fee; and
+•those points would be redeemed by the nominated customers for vouchers which are subject to the modified rules in Division 100 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)? Decision
 Yes, the entity is making a taxable supply of points to the program partner to the extent that the points would be redeemed for Division 100 vouchers and those vouchers would not be redeemed for supplies which are GST-free or input-taxed.
 Facts
 The entity, a GST registered loyalty program operator, establishes a customer loyalty program where members of the loyalty program can accumulate loyalty points for their eligible purchases and redeem these points for rewards.
-The program contains the features of the loyalty program arrangements described at paragraphs 6 to 14 of Goods and Services Tax Ruling GSTR 2012/1. In particular:
-
-•The loyalty program operator enters into participation agreements with various program partners.
-•Under the participation agreement, the program partner agrees to pay a fee (known as a points fee) when it causes points to be credited by the program operator to a member of the loyalty program. The points are typically credited upon purchase of eligible goods or services by the member from the program partner.
-
-The points can be redeemed by the member for goods and services, as well as vouchers that can be later redeemed for goods and services.
+The program contains the features of the loyalty program arrangements described at paragraphs 6 to 14 of Goods and Services Tax Ruling GSTR 2012/1. In particular: •The loyalty program operator enters into participation agreements with various program partners.
+•Under the participation agreement, the program partner agrees to pay a fee (known as a points fee) when it causes points to be credited by the program operator to a member of the loyalty program. The points are typically credited upon purchase of eligible goods or services by the member from the program partner. The points can be redeemed by the member for goods and services, as well as vouchers that can be later redeemed for goods and services.
 The vouchers that are redeemed by members are subject to the modified rules in Division 100 of the GST Act.
 Reasons for Decision
 Section 9-5 of the GST Act lists the elements for a taxable supply, including that there is a supply for consideration. Sections 9-10 and 9-15 of the GST Act define 'supply' and 'consideration' very broadly.
@@ -42,31 +21,4 @@ It has been argued that the GST treatment of the supply of points should follow 
 However, as stated previously, the supply of points is characterised as a supply of rights rather than the underlying rewards provided to members and is a taxable supply to the extent that it is not otherwise GST free or input taxed.
 Where the supply of points would be redeemed for vouchers which, in turn, would be redeemed for supplies which are GST free or input taxed, such supply is GST free or input taxed to that extent because of paragraph 9-30(1)(b) or 9-30(2)(b) of the GST Act.
 Accordingly, the supply of points is a taxable supply to the extent that it would be redeemed for vouchers which are subject to the modified rules in Division 100 of the GST Act and those vouchers would not be redeemed for supplies which are GST free or input taxed.
-Date of decision:
-  4 January 2013
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-10   section 9-15   paragraph 9-30(1)(b)   paragraph 9-30(2)(b)   Division 38   Division 40   Division 100
-
-Related Public Rulings (including Determinations)
-
-GSTR 2012/1
-
-Keywords
-
-Goods and services tax
- Customer loyalty programs
- Vouchers
-
-Siebel/TDMS Reference Number:
-  1-4AF442U
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  4 January 2013
-
-ISSN:
- 1445-2782
+Date of decision: 4 January 2013 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-10 section 9-15 paragraph 9-30(1)(b) paragraph 9-30(2)(b) Division 38 Division 40 Division 100 Related Public Rulings (including Determinations) GSTR 2012/1 Keywords Goods and services tax Customer loyalty programs Vouchers Siebel/TDMS Reference Number: 1-4AF442U Business Line: Indirect Tax Date of publication: 4 January 2013 ISSN: 1445-2782

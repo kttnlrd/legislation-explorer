@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/359
-==================================================
-
-Income tax
- Division 7A: whether a trustee payment is attributable to an amount that is an unrealised gain
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Division 7A: whether a trustee payment is attributable to an amount that is an unrealised gain FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a trustee payment, made to discharge a present entitlement to an amount representing the proceeds from disposal of a trust investment, attributable to an amount that is an 'unrealised gain' within the meaning of paragraph 109XA(1)(b) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. A trustee payment, made to discharge a present entitlement to an amount representing the proceeds from disposal of a trust investment, is not attributable to an amount that is an 'unrealised gain' within the meaning of paragraph 109XA(1)(b) of the ITAA 1936.
@@ -25,138 +12,24 @@ During the course of the Y1 income year Trust A sells units in a unit trust for 
 Reasons for Decision
 Subdivision EA deems certain payments, loans or forgiven debts (made on or after 12 December 2002) by a trustee of a trust estate to a shareholder (or associate) of a private company, to be included in their assessable income as if it were a dividend, where the private company is presently entitled to an amount from the net income of the trust estate, and that amount has not been fully paid out before the 'lodgment day'.
 The 'lodgment day' is the earlier of the due date for lodgment and date of lodgment of the trust's tax return for the income year in which the payment, loan or debt forgiveness occurs.
-For a trustee payment to be included in assessable income under section 109XB of the ITAA 1936, it must meet the requirements of subsection 109XA(1) of the ITAA 1936 which provides as follows:
-
-(1) Section 109XB applies if:
-
-(a)a trustee makes a payment (including a payment through an interposed entity as described in section 109XF) to a shareholder or an associate of a shareholder of a private company (except a shareholder or associate that is a company) (the actual transaction); and
-(b)the payment is a discharge of or a reduction in a present entitlement of the shareholder or associate that is wholly or partly
- attributable to an amount that is an unrealised gain
- ; and
-(c).....[emphasis added]
-
-The word 'attributable' is not defined for the purposes of subsection 109XA(1) of the ITAA 1936 and therefore adopts its ordinary meaning. The New Shorter Oxford English Dictionary, ( 1993, 4th edn, The Clarendon Press, Oxford) defines 'attributable' as:
-
-attributable
- a. able to be attributed to, owing to
-
-Similarly, in Hartley v. Hartley [1986] 2 NZLR 64 at 75 Somers J held 'attributable' to mean:
-
-owing to or produced by
-
-A present entitlement will be attributable to an amount that is an 'unrealised gain', within the meaning of paragraph 109XA(1)(b) the ITAA 1936, where the trust deed empowers the trustee to declare present entitlement to an amount representing the 'unrealised gain', and the trustee has declared present entitlement to that amount.
-For the purposes of paragraph 109XA(1)(b) of the ITAA 1936 'unrealised gain' is defined in subsection 109XA(7) of the ITAA 1936 as:
-
-In this section:
-
-unrealised gain
-, in relation to a trust estate and an actual payment, means any unrealised gain, whether of a capital or income nature, but does not include an unrealised gain to the extent that it has been or would be included in assessable income of the trust, apart from this Division, for:
-
-(a)a year of income before the year in which the actual payment was made; or
+For a trustee payment to be included in assessable income under section 109XB of the ITAA 1936, it must meet the requirements of subsection 109XA(1) of the ITAA 1936 which provides as follows: (1) Section 109XB applies if: (a)a trustee makes a payment (including a payment through an interposed entity as described in section 109XF) to a shareholder or an associate of a shareholder of a private company (except a shareholder or associate that is a company) (the actual transaction); and
+(b)the payment is a discharge of or a reduction in a present entitlement of the shareholder or associate that is wholly or partly attributable to an amount that is an unrealised gain ; and
+(c).....[emphasis added] The word 'attributable' is not defined for the purposes of subsection 109XA(1) of the ITAA 1936 and therefore adopts its ordinary meaning. The New Shorter Oxford English Dictionary, ( 1993, 4th edn, The Clarendon Press, Oxford) defines 'attributable' as: attributable a. able to be attributed to, owing to Similarly, in Hartley v. Hartley [1986] 2 NZLR 64 at 75 Somers J held 'attributable' to mean: owing to or produced by A present entitlement will be attributable to an amount that is an 'unrealised gain', within the meaning of paragraph 109XA(1)(b) the ITAA 1936, where the trust deed empowers the trustee to declare present entitlement to an amount representing the 'unrealised gain', and the trustee has declared present entitlement to that amount.
+For the purposes of paragraph 109XA(1)(b) of the ITAA 1936 'unrealised gain' is defined in subsection 109XA(7) of the ITAA 1936 as: In this section: unrealised gain
+, in relation to a trust estate and an actual payment, means any unrealised gain, whether of a capital or income nature, but does not include an unrealised gain to the extent that it has been or would be included in assessable income of the trust, apart from this Division, for: (a)a year of income before the year in which the actual payment was made; or
 (b)the year in which the actual payment was made; or
-(c)the year of income following the year in which the actual payment was made.
-
-Subsection 109XA(7) of the ITAA 1936 carves out certain payments which are otherwise included in assessable income (within certain timeframes) and clarifies that both capital and income 'unrealised gains' are included.
+(c)the year of income following the year in which the actual payment was made. Subsection 109XA(7) of the ITAA 1936 carves out certain payments which are otherwise included in assessable income (within certain timeframes) and clarifies that both capital and income 'unrealised gains' are included.
 Apart from these matters, the phrase 'unrealised gain' is not defined for the purposes of Subdivision EA of the ITAA 1936 and adopts its ordinary meaning.
-The Macquarie Dictionary (3rd edition, 2001, The Macquarie Library, Australia) defines the words 'realise' and 'gain' in the relevant context as follows:
-
-realise
-
- ...
-6. to bring as proceeds, as from a sale; the goods realised $1000.
-
-gain
-
-8. profit; advantage.
-
-The ordinary meaning of the phrase 'realised gain' is therefore to have a profit or advantage that has materialised in the form of proceeds from a sale.
-The High Court in Read v. Commonwealth (1988) 167 CLR 57 at 66 expressed a similar meaning in distinguishing between a realised and unrealised gain of a capital nature where it was said:
-
-A capital gain is realised when an item of capital which has increased in value is ventured, either in whole or in part, in a transaction which returns that increase in value.
-
-The 'cash' and 'accrual' methods of accounting, however, recognise proceeds of sale at different times. The cash method recognises the proceeds when physical payment is received (Brent v. FC of T (1971) 125 CLR 418 at 429; 71 ATC 4195 at 4200; (1971) 2 ATR 563 at 571) whereas the accruals method recognises the proceeds when it constitutes a recoverable debt (Henderson v. FC of T (1970) 119 CLR 612; 70 ATC 4016; (1970) 1 ATR 596 and Barratt & Ors v. FC of T (1992) 23 ATR 339 at 344; 92 ATC 4275 at 4280).
-The Explanatory Memorandum to the Tax Laws Amendment (2004 Measures No. 1) Bill 2004 provides at paragraph 8.13:
-
-For the purposes of these rules, realisation will be taken to have occurred when a gain converts into a recoverable debt.
-
-The meaning of the phrase 'unrealised gain' can be summarised as:
-
-A gain is unrealised when an item which has increased in value has not been ventured, either in whole or in part, in a transaction to obtain a return that reflects that increase in value; or has been ventured into such a transaction but the return is yet to convert into a recoverable debt.
-
-In these circumstances, the trustee of Trust A has declared present entitlement to an amount in accordance with the trust deed and a payment has been made discharging that present entitlement. The amount to which present entitlement has been declared is attributable to a realised gain, rather than an unrealised gain, as it represents the proceeds on sale of the units in the unit trust, and those proceeds constitute a recoverable debt. Therefore, the payment discharging the present entitlement does not trigger subsection 109XA(1) of the ITAA 1936, and an amount is not required to be included in assessable income of the taxpayer because of the payment.
-Amendment History
-
-Date of Amendment
+The Macquarie Dictionary (3rd edition, 2001, The Macquarie Library, Australia) defines the words 'realise' and 'gain' in the relevant context as follows: realise ...
+6. to bring as proceeds, as from a sale; the goods realised $1000. gain 8. profit; advantage. The ordinary meaning of the phrase 'realised gain' is therefore to have a profit or advantage that has materialised in the form of proceeds from a sale.
+The High Court in Read v. Commonwealth (1988) 167 CLR 57 at 66 expressed a similar meaning in distinguishing between a realised and unrealised gain of a capital nature where it was said: A capital gain is realised when an item of capital which has increased in value is ventured, either in whole or in part, in a transaction which returns that increase in value. The 'cash' and 'accrual' methods of accounting, however, recognise proceeds of sale at different times. The cash method recognises the proceeds when physical payment is received (Brent v. FC of T (1971) 125 CLR 418 at 429; 71 ATC 4195 at 4200; (1971) 2 ATR 563 at 571) whereas the accruals method recognises the proceeds when it constitutes a recoverable debt (Henderson v. FC of T (1970) 119 CLR 612; 70 ATC 4016; (1970) 1 ATR 596 and Barratt & Ors v. FC of T (1992) 23 ATR 339 at 344; 92 ATC 4275 at 4280).
+The Explanatory Memorandum to the Tax Laws Amendment (2004 Measures No. 1) Bill 2004 provides at paragraph 8.13: For the purposes of these rules, realisation will be taken to have occurred when a gain converts into a recoverable debt. The meaning of the phrase 'unrealised gain' can be summarised as: A gain is unrealised when an item which has increased in value has not been ventured, either in whole or in part, in a transaction to obtain a return that reflects that increase in value; or has been ventured into such a transaction but the return is yet to convert into a recoverable debt. In these circumstances, the trustee of Trust A has declared present entitlement to an amount in accordance with the trust deed and a payment has been made discharging that present entitlement. The amount to which present entitlement has been declared is attributable to a realised gain, rather than an unrealised gain, as it represents the proceeds on sale of the units in the unit trust, and those proceeds constitute a recoverable debt. Therefore, the payment discharging the present entitlement does not trigger subsection 109XA(1) of the ITAA 1936, and an amount is not required to be included in assessable income of the taxpayer because of the payment.
+Amendment History Date of Amendment
 Part
-Comment
-
-28 July 2017
+Comment 28 July 2017
 All
-Updated.
-
-Date of decision:
-  27 October 2005
-
-Year of income:
-  30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Subdivision EA   section 109XA   subsection 109XA(1)   paragraph 109XA(1)(b)   subsection 109XA(7)
-
-Case References:
-
-Hartley v. Hartley   (1986) 2 NZLR 64
-
-Brent v. FC of T   (1971) 125 CLR 418   71 ATC 4195   (1971) 2 ATR 563
-
-Henderson v. FC of T   (1970) 119 CLR 612   70 ATC 4018   (1970) 1 ATR 596
-
-Barratt & Ors v. FC of T    (1992) ATC 4275   (1992) 23 ATR 339
-
-Read v. Commonwealth   (1988) 167 CLR 57
-
-Other References:
-
-Explanatory Memorandum Tax Laws Amendment (2004 Measures No. 1) Bill 2004
-The Macquarie Dictionary 3rd edn, 2001 The Macquarie Library, Australia.
- The New Shorter Oxford English Dictionary 1993, 4th edn, The Clarendon Press, Oxford.
-
-Keywords
-
-Deemed dividends
- Trustee payments
- Division 7A
- Subdivision EA
- Dividends
-
-Siebel/TDMS Reference Number:
-  4565205; 1-5CWMBCS; 1-AE3A54H
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  23 December 2005
-
-Date reviewed:
-  4 June 2014
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 October 2005
-Original statement
-
-You are here
+Updated. Date of decision: 27 October 2005 Year of income: 30 June 2006 Legislative References: Income Tax Assessment Act 1936 Subdivision EA section 109XA subsection 109XA(1) paragraph 109XA(1)(b) subsection 109XA(7) Case References: Hartley v. Hartley (1986) 2 NZLR 64 Brent v. FC of T (1971) 125 CLR 418 71 ATC 4195 (1971) 2 ATR 563 Henderson v. FC of T (1970) 119 CLR 612 70 ATC 4018 (1970) 1 ATR 596 Barratt & Ors v. FC of T (1992) ATC 4275 (1992) 23 ATR 339 Read v. Commonwealth (1988) 167 CLR 57 Other References: Explanatory Memorandum Tax Laws Amendment (2004 Measures No. 1) Bill 2004
+The Macquarie Dictionary 3rd edn, 2001 The Macquarie Library, Australia. The New Shorter Oxford English Dictionary 1993, 4th edn, The Clarendon Press, Oxford. Keywords Deemed dividends Trustee payments Division 7A Subdivision EA Dividends Siebel/TDMS Reference Number: 4565205; 1-5CWMBCS; 1-AE3A54H Business Line: Private Groups and High Wealth Individuals Date of publication: 23 December 2005 Date reviewed: 4 June 2014 ISSN: 1445-2782 history Date: Version: 27 October 2005
+Original statement You are here
 28 July 2017
 Updated statement

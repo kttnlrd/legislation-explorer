@@ -1,62 +1,19 @@
 ATO Interpretative Decision
 ATO ID 2004/415
-==================================================
-
-Income Tax
- Income derived by non-resident insurer: insurance for an Australian liability event and global properties
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income derived by non-resident insurer: insurance for an Australian liability event and global properties FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an insurance premium assessable under subsection 142(1) of the Income Tax Assessment Act 1936 (ITAA 1936) where an insurance contract covers both a liability event that can only happen in Australia and properties that are situated within and outside of Australia, and there is no allocation of the premium between the liability event and the properties specified in the contract?
 Decision
 Yes. An insurance premium is assessable under subsection 142(1) of the ITAA 1936 where an insurance contract covers both a liability event that can only happen in Australia and properties that are situated within and outside of Australia, and there is no allocation of the premium between the liability event and the properties specified in the contract.
 Facts
-The following facts apply in respect of the insurance contract entered into by a non-resident insurer.
-
-(a) At the time of entering into the insurance contract, the insurance contract covers both a liability event that can only happen in Australia and properties that are situated within and outside of Australia.
+The following facts apply in respect of the insurance contract entered into by a non-resident insurer. (a) At the time of entering into the insurance contract, the insurance contract covers both a liability event that can only happen in Australia and properties that are situated within and outside of Australia.
 (b) The insurance contract does not allocate the premium between the liability cover and the properties that are situated within and outside of Australia.
 (c) The insurance contract is entered into outside Australia.
 (d) The requirements for the application of subsection 142(2) of the ITAA 1936 do not apply.
-(e) The policyholder is a non-resident of Australia.
-
-Reasons for Decision
-Subsection 142(1) of the ITAA 1936 includes an insurance premium in the assessable income of a non-resident insurer if:
-
-• the insured properties are situated in Australia at the time of making the contract; or
-• the insured event is one that can only happen in Australia.
-
-The conditions outlined in subsection 142(1) of the ITAA 1936 are expressed in the alternative by the use of the word 'or'. The application is conditional on only one of the two requirements being met.
+(e) The policyholder is a non-resident of Australia. Reasons for Decision
+Subsection 142(1) of the ITAA 1936 includes an insurance premium in the assessable income of a non-resident insurer if: • the insured properties are situated in Australia at the time of making the contract; or
+• the insured event is one that can only happen in Australia. The conditions outlined in subsection 142(1) of the ITAA 1936 are expressed in the alternative by the use of the word 'or'. The application is conditional on only one of the two requirements being met.
 The satisfaction of either requirement would bring the premium within subsection 142(1) of the ITAA 1936.
 As Subsection 142(1) of the ITAA 1936 does not provide for apportionment of a premium under an insurance contract, there is no authority to attribute part of the premium to the properties that are situated outside of Australia.
 Accordingly, a premium paid or payable on a policy where the insured event can only happen in Australia will be included in the assessable income of the non-resident insurer under subsection 142(1) of the ITAA 1936, irrespective of the fact that the policy also covers properties that are situated within and outside of Australia.
-Date of decision:
-  13 May 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 142(1)   subsection 142(2)
-
-Keywords
-
-Non resident insurance industry
-
-Siebel/TDMS Reference Number:
-  3526016
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  21 May 2004
-
-ISSN:
- 1445-2782
+Date of decision: 13 May 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 subsection 142(1) subsection 142(2) Keywords Non resident insurance industry Siebel/TDMS Reference Number: 3526016 Business Line: Public Groups and International Date of publication: 21 May 2004 ISSN: 1445-2782

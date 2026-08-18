@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/193
-==================================================
-
-Income Tax
- Legal Expenses incurred in gaining compensation for loss of salary and wage income
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Legal Expenses incurred in gaining compensation for loss of salary and wage income FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the legal expenses incurred in obtaining a Total and Permanent Disability benefit for loss of salary and wage income an allowable deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The legal expenses incurred in obtaining a Total and Permanent Disability benefit for loss of salary and wage income are an allowable deduction under section 8-1 of the ITAA 1997.
@@ -24,83 +11,21 @@ The benefit was paid as compensation for the loss of salary and wage income, and
 The benefit forms part of the taxpayer's taxable income in the year in which it is received.
 The taxpayer incurred legal expenses in obtaining this payment.
 Reasons for Decision
-Section 8-1 of the ITAA 1997 states that you can deduct from your assessable income any loss or outgoing to the extent that it is incurred in gaining or producing assessable income and is not:
-
-•capital, private or domestic in nature
+Section 8-1 of the ITAA 1997 states that you can deduct from your assessable income any loss or outgoing to the extent that it is incurred in gaining or producing assessable income and is not: •capital, private or domestic in nature
 •incurred in gaining or producing exempt income or non-assessable non-exempt income; or
-•prohibited by a section of the ITAA 1997 or the Income Tax Assessment Act 1936 (ITAA 1936).
-
-In determining whether a deduction for legal expenses is allowed under section 8-1 of the ITAA 1997, the nature of the expenditure must be considered (Hallstroms Pty Ltd v. Federal Commissioner of Taxation (1946) 72 CLR 634); [1946] HCA 34. The nature or character of the legal expenses follows the advantage which is sought to be gained by incurring the expenses. If the advantage to be gained is of a revenue nature, then the costs incurred in gaining the advantage will also be of a revenue nature.
+•prohibited by a section of the ITAA 1997 or the Income Tax Assessment Act 1936 (ITAA 1936). In determining whether a deduction for legal expenses is allowed under section 8-1 of the ITAA 1997, the nature of the expenditure must be considered (Hallstroms Pty Ltd v. Federal Commissioner of Taxation (1946) 72 CLR 634); [1946] HCA 34. The nature or character of the legal expenses follows the advantage which is sought to be gained by incurring the expenses. If the advantage to be gained is of a revenue nature, then the costs incurred in gaining the advantage will also be of a revenue nature.
 The legal expenses were incurred by the taxpayer in order to obtain compensation for the loss of salary and wage income, and not for the loss of income earning capacity. Thus, the advantage which the taxpayer sought in incurring the legal expenses was an advantage of a revenue rather than capital nature.
 Further, the legal expenses were not private or domestic in nature, were not incurred in gaining or producing exempt income or non-assessable non-exempt income, and were not an outgoing prohibited from being deductible by a section of the ITAA 1997 or the ITAA 1936.
 Therefore, the legal expenses are deductible under section 8-1 of the ITAA 1997.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-13 June 2014
+Comment 13 June 2014
 Issue, Decision, Facts
-Updated to include reference to loss of salary and wage income.
-
-Reasons for Decision
-Updated to include case law precedent from Hallstroms Pty Ltd v FC of T and provide clarity of reasoning.
-
-Case References
-Updated to include case reference.
-
-Related Public Rulings
-Updated to include reference to TR 2012/8.
-
-Date of decision:
-  01 February 2002
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   The Act
-Income Tax Assessment Act 1997   Section 8-1
-
-Case References:
-
-Hallstroms Pty Ltd v. Federal Commissioner of Taxation   (1946) 72 CLR 634   [1946] HCA 34
-
-Related Public Rulings (including Determinations)
-
-TR 2012/8
-
-Keywords
-
-Compensation expenses
- Legal expenses
-
-Siebel/TDMS Reference Number:
-  DW220492; 1-5CFVVBC
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  28 February 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 1 February 2002
-Original statement
-
-You are here
+Updated to include reference to loss of salary and wage income. Reasons for Decision
+Updated to include case law precedent from Hallstroms Pty Ltd v FC of T and provide clarity of reasoning. Case References
+Updated to include case reference. Related Public Rulings
+Updated to include reference to TR 2012/8. Date of decision: 01 February 2002 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 The Act
+Income Tax Assessment Act 1997 Section 8-1 Case References: Hallstroms Pty Ltd v. Federal Commissioner of Taxation (1946) 72 CLR 634 [1946] HCA 34 Related Public Rulings (including Determinations) TR 2012/8 Keywords Compensation expenses Legal expenses Siebel/TDMS Reference Number: DW220492; 1-5CFVVBC Business Line: Small Business/Individual Taxpayers Date of publication: 28 February 2002 ISSN: 1445-2782 history Date: Version: 1 February 2002
+Original statement You are here
 13 June 2014
 Updated statement

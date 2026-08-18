@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/61
-==================================================
-
-Income Tax
- Research and Development: deductibility of returns on a non-share equity interest under section 73B of the ITAA 1936
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development: deductibility of returns on a non-share equity interest under section 73B of the ITAA 1936 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are returns on a non-share equity interest deductible under the research and development provisions contained in section 73B of the Income Tax Assessment Act 1936 (ITAA 1936))?
 Decision
 No. Section 73B of the ITAA 1936 must be read subject to subsection 26-26(1) of the Income Tax Assessment Act 1997 (ITAA 1997) which prevents a deduction on a non-share distribution or a return that has accrued on a non-share equity interest.
@@ -22,43 +11,9 @@ The company undertakes 'research and development activities' within the meaning 
 Reasons for Decision
 Subsection 73B(14A) of the ITAA 1936 provides that if an eligible company incurs interest expenditure during a year of income, the amount of that expenditure is allowable as a deduction from the company's assessable income in the year of income.
 Subsection 73B(1) of the ITAA 1936, defines 'interest expenditure', for the purposes of subsection 73B(14A) of the ITAA 1936, as interest or an amount in the nature of interest incurred by the company during the year of income in the financing of research and development expenditure.
-Subsection 26-26(1) of the ITAA 1997, provides that a company cannot deduct under this Act :
-
-(a)a non-share distribution, or
-(b)a return that has accrued on a non-share equity interest.
-
-Subsection 995-1(1) of the ITAA 1997 defines 'this Act' to include the ITAA 1936. Subsection 26-26(1) of the ITAA 1936 essentially prevents any deduction for distributions in respect of a non-share equity interest. Non-share equity interest is defined in section 995-1 of the ITAA 1997 to mean an equity interest in a company that is not solely a share.
+Subsection 26-26(1) of the ITAA 1997, provides that a company cannot deduct under this Act : (a)a non-share distribution, or
+(b)a return that has accrued on a non-share equity interest. Subsection 995-1(1) of the ITAA 1997 defines 'this Act' to include the ITAA 1936. Subsection 26-26(1) of the ITAA 1936 essentially prevents any deduction for distributions in respect of a non-share equity interest. Non-share equity interest is defined in section 995-1 of the ITAA 1997 to mean an equity interest in a company that is not solely a share.
 Subsection 73B(14A) of the ITAA 1936 was introduced in 1996 by the Taxation Laws Amendment Act No. 3 1996 (TLAA No. 3 1996). On the other hand, section 26-26 of the ITAA 1997 was introduced as part of the debt/equity measures contained in the New Business Tax (Debt & Equity) Act 2001 (an Act later than the TLAA No. 3 1996).
 One of the objects of the debt/equity measures is to deal with the tax treatment of returns on financing arrangements (that is whether they may be frankable or may be deductible) (see subsection 974-10(1) of the ITAA 1997). To give effect to this object, section 26-26 of the ITAA 1997 was one of the provisions inserted to deny a deduction on distributions on financing arrangements that are characterised as equity interests. More importantly, there is nothing to indicate that the research and development provisions (in so far as they deal with the tax treatment of returns on financing arrangements) are to be excluded from the debt/equity measures.
-Therefore, subsection 73B(14A) of the ITAA 1936 is to be read subject to subsection 26-26(1) of the ITAA 1997. This means that to the extent an 'interest expenditure' as defined in subsection 73B(1) of the ITAA 1936 is also a non-share distribution or a return that has accrued on a non-share equity interest, that amount is not deductible pursuant to subsection 26-26(1) of the ITAA 1997. Subsection 73B(14A) of the ITAA 1936 does not change this outcome.
-
-Note: For the same reasons, subsection 73B(14) of the ITAA 1936 must also be read subject to subsection 26-26(1) of the ITAA 1997 and the debt/equity measures, in so far as the relevant expenditure relates to a financing arrangement.
-
-Date of decision:
-  11 February 2005
-
-Year of income:
-  Year ending 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 73B(1)   subsection 73B(14)   subsection 73B(14A)
-Income Tax Assessment Act 1997   subsection 26-26(1)   subsection 974-10(1)   subsection 995-1(1)
-
-Keywords
-
-Debt equity borderline
- Non-share equity interest
- Research and development expenses
-
-Siebel/TDMS Reference Number:
-  4368655
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 February 2005
-
-ISSN:
- 1445-2782
+Therefore, subsection 73B(14A) of the ITAA 1936 is to be read subject to subsection 26-26(1) of the ITAA 1997. This means that to the extent an 'interest expenditure' as defined in subsection 73B(1) of the ITAA 1936 is also a non-share distribution or a return that has accrued on a non-share equity interest, that amount is not deductible pursuant to subsection 26-26(1) of the ITAA 1997. Subsection 73B(14A) of the ITAA 1936 does not change this outcome. Note: For the same reasons, subsection 73B(14) of the ITAA 1936 must also be read subject to subsection 26-26(1) of the ITAA 1997 and the debt/equity measures, in so far as the relevant expenditure relates to a financing arrangement. Date of decision: 11 February 2005 Year of income: Year ending 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 73B(1) subsection 73B(14) subsection 73B(14A)
+Income Tax Assessment Act 1997 subsection 26-26(1) subsection 974-10(1) subsection 995-1(1) Keywords Debt equity borderline Non-share equity interest Research and development expenses Siebel/TDMS Reference Number: 4368655 Business Line: Public Groups and International Date of publication: 18 February 2005 ISSN: 1445-2782

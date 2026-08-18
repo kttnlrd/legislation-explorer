@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/992
-==================================================
-
-Excise
- Administrator's Liability to wine equalisation tax (WET)
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Excise Administrator's Liability to wine equalisation tax (WET) FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an administrator appointed to a company liable for wine equalisation tax (WET) when they receive consideration for an assessable dealing with wine which took place before their appointment?
 Decision
 No. An administrator appointed to a company is not liable for WET when they receive consideration for an assessable dealing with wine which took place before their appointment.
@@ -25,63 +10,15 @@ An administrator is appointed to a company and is registered for GST in this cap
 The administrator receives payments relating to taxable assessable dealings made by the company prior to their appointment.
 Reasons for Decision
 The broad aim of the A New Tax System (Wine Equalisation Tax) Act 1999 (the WET Act) is to impose WET on dealings with wine in Australia. Dealings which attract WET are called 'assessable dealings' and WET is imposed unless an exemption applies.
-The Assessable Dealings Table in section 5-5 of the WET Act sets out all the assessable dealings that can be subject to WET. Section 5-5(2) specifies that if an entity is registered or required to be registered for GST, and the time of an assessable dealing is on or after 1 July 2000, and no exemption applies, then:
-
-• the dealing is a taxable dealing; and
+The Assessable Dealings Table in section 5-5 of the WET Act sets out all the assessable dealings that can be subject to WET. Section 5-5(2) specifies that if an entity is registered or required to be registered for GST, and the time of an assessable dealing is on or after 1 July 2000, and no exemption applies, then: • the dealing is a taxable dealing; and
 • the entity specified in column 3 of the table is the entity liable to WET; and
-• the WET becomes payable at the time of the dealing as specified in column 4 of the table.
-
-Accordingly, if a company has a taxable assessable dealing with wine and the time of the dealing specified in column 4 of the table of assessable dealings is before the time an administrator was appointed, the liability for WET rests with the company and not with the administrator. This will be so even where the administrator receives payment from a debtor relating to a sale of wine which took place before their appointment.
-Amendment History
-
-Date of amendment
+• the WET becomes payable at the time of the dealing as specified in column 4 of the table. Accordingly, if a company has a taxable assessable dealing with wine and the time of the dealing specified in column 4 of the table of assessable dealings is before the time an administrator was appointed, the liability for WET rests with the company and not with the administrator. This will be so even where the administrator receives payment from a debtor relating to a sale of wine which took place before their appointment.
+Amendment History Date of amendment
 Part
-Comment
-
-29 November 2013
+Comment 29 November 2013
 Related Public Rulings
-Updated WET rulings references.
-
-Date of decision:
-  28 October 2003
-
-Legislative References:
-
-A New Tax System (Wine Equalisation Tax) Act 1999   section 5-1   section 5-5   section 21-5
-
-Related Public Rulings (including Determinations)
-
-Wine Equalisation Tax Ruling WETR 2009/1
-Wine Equalisation Tax Ruling WETR 2009/2
-
-Keywords
-
-Wine equalisation tax
-
-Siebel/TDMS Reference Number:
-  3788965
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  7 November 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-28 October 2003
-Original statement
-
-You are here
+Updated WET rulings references. Date of decision: 28 October 2003 Legislative References: A New Tax System (Wine Equalisation Tax) Act 1999 section 5-1 section 5-5 section 21-5 Related Public Rulings (including Determinations) Wine Equalisation Tax Ruling WETR 2009/1
+Wine Equalisation Tax Ruling WETR 2009/2 Keywords Wine equalisation tax Siebel/TDMS Reference Number: 3788965 Business Line: Indirect Tax Date of publication: 7 November 2003 ISSN: 1445-2782 history Date: Version: 28 October 2003
+Original statement You are here
 29 November 2013
 Updated statement

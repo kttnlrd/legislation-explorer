@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/448
-==================================================
-
-Goods and Services Tax
- GST and sale of shares
- FOI status: may be released
-
-This ATO ID is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and sale of shares FOI status: may be released This ATO ID is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of securities, making an input taxed supply under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells shares?
 Decision
 Yes, the entity is making an input taxed supply under subsection 40-5(1) of the GST Act when it sells shares.
@@ -26,69 +11,19 @@ The entity is registered for goods and services tax (GST). The supply is for con
 Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that 'financial supply' has the meaning given by the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
 Regulation 40-5.08 of the GST Regulations provides, a supply is a financial supply if it is mentioned as a financial supply in regulation 40-5.09 of the GST Regulations.
-Subregulation 40-5.09(1) of the GST Regulations describes the circumstances under which the provision, acquisition, or disposal of an interest mentioned in subregulation (3) or (4) is a financial supply. The circumstances are that the provision, acquisition, or disposal is:
-
-• for consideration; and
+Subregulation 40-5.09(1) of the GST Regulations describes the circumstances under which the provision, acquisition, or disposal of an interest mentioned in subregulation (3) or (4) is a financial supply. The circumstances are that the provision, acquisition, or disposal is: • for consideration; and
 • in the course or furtherance of an enterprise; and
 • connected with Australia; and
 • the supplier is registered or required to be registered; and
-• the supplier is a financial supply provider in relation to the supply of the interest.
-
-Therefore, it is necessary to determine whether the entity is providing, acquiring or disposing of an interest in or under an item mentioned in subregulation 40-5.09(3) or (4) of the GST Regulations. Regulation 40-5.02 of the GST Regulations defines an 'interest' as anything that is recognised at law or in equity as property in any form'.
+• the supplier is a financial supply provider in relation to the supply of the interest. Therefore, it is necessary to determine whether the entity is providing, acquiring or disposing of an interest in or under an item mentioned in subregulation 40-5.09(3) or (4) of the GST Regulations. Regulation 40-5.02 of the GST Regulations defines an 'interest' as anything that is recognised at law or in equity as property in any form'.
 As such, the interest has to be mentioned in subregulations 40-5.09(3) or (4) of the GST Regulations. Item 10 of subregulation 40-5.09(3) of the GST Regulations lists 'securities, including.....'.
 Securities is defined in the Dictionary to the GST Regulations as having the meaning given by subsection 92(1) of the Corporations Act 2001. Subsection 92(1) of the Corporations Act includes shares, in the definition of securities.
 Subregulation 40-5.09(1) of the GST Regulations also requires that there must be a provision, acquisition or disposal of the interest in the shares. Regulation 40-5.04 of the GST Regulations states that the disposal of an interest includes assignment, cancellation, redemption, transfer and surrender of the interest. As the entity is making a transfer of the shares, they are making a disposal of the interest in the securities.
-The first four requirements in subregulation 40-5.09(1) of the GST Regulations are satisfied as the supply is for consideration, it is in the course and furtherance of an enterprise, it is connected with Australia and the supplier is registered for GST. Therefore, it is necessary to determine if the supplier is a 'financial supply provider' in relation to the supply of the interest. 'Financial supply provider' is defined in regulation 40-5.06 of the GST Regulations:
-
-'An entity, in relation to the supply of an interest that was:
-
-immediately before the supply, the property of the entity; or
-
-created by the entity in making the supply;
-
-is the
- financial supply
- provider of the interest'.
-
-Therefore, as the interest was the property of the entity immediately before the supply, the entity is a financial supply provider in relation to the supply of the interest. Accordingly, subparagraph 40-5.09(1) (b)(ii) of the GST Regulations is satisfied. Consequently, the supply satisfies subregulation 40-5.09(1) of the GST Regulations.
+The first four requirements in subregulation 40-5.09(1) of the GST Regulations are satisfied as the supply is for consideration, it is in the course and furtherance of an enterprise, it is connected with Australia and the supplier is registered for GST. Therefore, it is necessary to determine if the supplier is a 'financial supply provider' in relation to the supply of the interest. 'Financial supply provider' is defined in regulation 40-5.06 of the GST Regulations: 'An entity, in relation to the supply of an interest that was: immediately before the supply, the property of the entity; or created by the entity in making the supply; is the financial supply provider of the interest'. Therefore, as the interest was the property of the entity immediately before the supply, the entity is a financial supply provider in relation to the supply of the interest. Accordingly, subparagraph 40-5.09(1) (b)(ii) of the GST Regulations is satisfied. Consequently, the supply satisfies subregulation 40-5.09(1) of the GST Regulations.
 The transfer of the interest in the securities, by the entity to a third party fulfils all of the requirements of regulation 40-5.09 of the GST Regulations and is a financial supply. Therefore, the entity is making an input taxed supply under subsection 40-5(1) of the GST Act when it sells shares.
-Date of decision:
-  06 September 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 40-5(1)   subsection 40-5(2)
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 40-5.02   regulation 40-5.04   regulation 40-5.06   regulation 40-5.08   regulation 40-5.09   subregulation 40-5.09(1)   subregulation 40-5.09(1) table item 10   subparagraph 40-5.09(1)(b)(ii)   subregulation 40-5.09(3)   subregulation 40-5.09(4)
-Corporations Act 2001   Subsection 92(1)
-
-Keywords
-
-Goods & services tax
- Input taxed supplies
- GST financial supplies
- GST debt securities
-
-Business Line:
-  GST
-
-Date of publication:
-  11 October 2001
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 6 September 2001
-Original statement
-
-You are here
+Date of decision: 06 September 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 40-5(1) subsection 40-5(2)
+A New Tax System (Goods and Services Tax) Regulations 1999 regulation 40-5.02 regulation 40-5.04 regulation 40-5.06 regulation 40-5.08 regulation 40-5.09 subregulation 40-5.09(1) subregulation 40-5.09(1) table item 10 subparagraph 40-5.09(1)(b)(ii) subregulation 40-5.09(3) subregulation 40-5.09(4)
+Corporations Act 2001 Subsection 92(1) Keywords Goods & services tax Input taxed supplies GST financial supplies GST debt securities Business Line: GST Date of publication: 11 October 2001 ISSN: 1445-2782 history Date: Version: 6 September 2001
+Original statement You are here
 23 September 2005
 Archived

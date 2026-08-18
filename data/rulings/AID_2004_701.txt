@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/701
-==================================================
-
-Income tax
- Research and Development: 'R&D group turnover' - value of supplies made in the year of income - contract for provision of services
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Research and Development: 'R&D group turnover' - value of supplies made in the year of income - contract for provision of services FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 What amounts are included in the 'value of supplies' under paragraph 73K(1)(b) of the definition of 'R&D group turnover', in the Income Tax Assessment Act 1936 (ITAA 1936), for a year of income, for a company that has entered into an agreement for the provision of services over a number of years of income, where no precise portion of the consideration expressly relates to services provided in a specific year of income?
 Decision
 The amount to be included in the 'value of supplies' under paragraph 73K(1)(b) of the definition of 'R&D group turnover', in the ITAA 1936, depends on making a reasonable estimate of that portion of the consideration related to the supplies, made under the agreement for the relevant year of income.
@@ -25,57 +14,13 @@ These services were provided over a number of years and the total consideration 
 Further, the obligation to pay this single amount of consideration was to be discharged by the other party making regular payments. However, these payments were set on a purely arbitrary basis, and did not represent what the consideration would have been if the agreement had been only for the year of income in question.
 Reasons for Decision
 Section 73I of the ITAA 1936 provides that an eligible company can choose a tax offset rather than a deduction for research and development expenditure.
-Section 73J of the ITAA 1936 provides that an eligible company can only choose the tax offset if:
-
-•it would have been entitled to a deduction under sections 73B, 73BA, 73BH or 73Y of the ITAA 1936
+Section 73J of the ITAA 1936 provides that an eligible company can only choose the tax offset if: •it would have been entitled to a deduction under sections 73B, 73BA, 73BH or 73Y of the ITAA 1936
 •the company's aggregate research and development amount exceeds $20,000 for the income year
 •the aggregate research and development amount for the company and other taxpayers with which it is grouped is not more than $1,000,000; and
-•the R&D group turnover for the year is less than $5,000,000.
-
-'R&D group turnover' of an eligible company for a year of income is defined in section 73K of the ITAA 1936 and subsection 73K(1) of the ITAA 1936 provides that it is the sum of:
-
-(a)the value of the supplies the company made in the year of income; and
-(b)the value of the supplies made in the year of income by other persons while they were grouped with the company; ...
-
-'Value of the supplies' is defined in subsection 73H(2) of the ITAA 1936 according to whether the supplies are 'taxable supplies' or 'other' supplies, made during the year in the course of carrying on a business or in the course of carrying on research and development activities. The definition draws on the concepts of value of taxable supplies and prices, as defined by section 9-75 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act). However, common to both of these concepts is that of consideration, as defined in subsection 9-15(1) of the GST Act.
+•the R&D group turnover for the year is less than $5,000,000. 'R&D group turnover' of an eligible company for a year of income is defined in section 73K of the ITAA 1936 and subsection 73K(1) of the ITAA 1936 provides that it is the sum of: (a)the value of the supplies the company made in the year of income; and
+(b)the value of the supplies made in the year of income by other persons while they were grouped with the company; ... 'Value of the supplies' is defined in subsection 73H(2) of the ITAA 1936 according to whether the supplies are 'taxable supplies' or 'other' supplies, made during the year in the course of carrying on a business or in the course of carrying on research and development activities. The definition draws on the concepts of value of taxable supplies and prices, as defined by section 9-75 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act). However, common to both of these concepts is that of consideration, as defined in subsection 9-15(1) of the GST Act.
 The agreement entered into by the company grouped with the eligible company for R&D purposes did not tie any specific fee, or any portion of any such fee, to any specific service or function to be performed by the company under the agreement. The timing and payment of consideration provided for services under the agreement was not determinative of when a supply was made for the purposes of determining the 'value of supplies made' for the calculation of the eligible company's 'R&D group turnover'.
 In Roadshow Distributors Pty Ltd v. Commissioner of State Revenue (Vic) 1 VR 523; 97 ATC 4271; 35 ATR 376 Tadgell JA considered apportionment of consideration due under particular distribution agreements was required, in order to properly apply certain stamp duty provisions. By way of obiter, his Honour indicated that making a reasonable estimate on sensible commercial grounds would be an appropriate basis of apportionment.
 Accordingly, in this case a reasonable estimate on sensible commercial grounds, of the portion of the total consideration related only to those services provided in the year of income in question, is required. It is this amount that is used in calculating the 'R&D group turnover' under section 73K of the ITAA 1936 for the purposes of determining the eligible company's entitlement to the research and development tax offset under section 73J of the ITAA 1936.
-Date of decision:
-  19 July 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 73B   subsection 73B(1)   section 73BA   section 73BH   section 73L   section 73K   subsection 73K(1)   paragraph 73K(1)(b)   section 73I   section 73J   section 73Y   subsection 73H(2)
-A New Tax System (Goods and Services Tax) Act 1999   section 9-75   subsection 9-15(1)
-
-Case References:
-
-Roadshow Distributors Pty Ltd v. Commissioner of State Revenue (Vic)   [1998] 1 VR 523   97 ATC 4271   35 ATR 376
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/343
- ATO ID 2004/702
- ATO ID 2004/703
-
-Keywords
-
-Research and Development Expenses
- R&D Tax Offset
- R&D Group Turnover
-
-Siebel/TDMS Reference Number:
-  3895859
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  27 August 2004
-
-ISSN:
- 1445-2782
+Date of decision: 19 July 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 73B subsection 73B(1) section 73BA section 73BH section 73L section 73K subsection 73K(1) paragraph 73K(1)(b) section 73I section 73J section 73Y subsection 73H(2)
+A New Tax System (Goods and Services Tax) Act 1999 section 9-75 subsection 9-15(1) Case References: Roadshow Distributors Pty Ltd v. Commissioner of State Revenue (Vic) [1998] 1 VR 523 97 ATC 4271 35 ATR 376 Related ATO Interpretative Decisions ATO ID 2003/343 ATO ID 2004/702 ATO ID 2004/703 Keywords Research and Development Expenses R&D Tax Offset R&D Group Turnover Siebel/TDMS Reference Number: 3895859 Business Line: Public Groups and International Date of publication: 27 August 2004 ISSN: 1445-2782

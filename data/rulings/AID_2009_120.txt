@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/120
-==================================================
-
-Income Tax
- Tax cost setting amount: leaving time - tax cost setting amount of membership interests that also constitute liabilities under accounting standards
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Tax cost setting amount: leaving time - tax cost setting amount of membership interests that also constitute liabilities under accounting standards FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 At the time a subsidiary member of a consolidated group leaves the group, does item 2 or item 3 of the table in section 701-60 of the Income Tax Assessment Act 1997 (ITAA 1997) apply in relation to the membership interests in the leaving member that are also liabilities in accordance with accounting standards?
 Decision
 At the time the subsidiary member leaves the consolidated group, item 2 rather than item 3 of the table in section 701-60 of the ITAA 1997 applies in relation to the membership interests in the leaving member.
@@ -20,101 +9,15 @@ Facts
 The head company of a consolidated group (Head Co) holds certain membership interests (the membership interests) in a subsidiary member (Sub Co). These membership interests also constitute liabilities in accordance with accounting standards. On entry into the consolidated group, the cost of the membership interests was included in the step 1 amount of the allocable cost amount (ACA) calculation. In accordance with Taxation Determination TD 2004/74, the membership interests were not added as a liability at step 2. At a future date, Sub Co ceases to be a subsidiary member of the consolidated group.
 Reasons for Decision
 When Sub Co ceases to be a subsidiary member, the tax cost setting amount of Head Co's membership interests in Sub Co will be set under subsection 701-15(3) of the ITAA 1997. Section 701-60 of the ITAA 1997, inter alia, sets out the basis for determining the tax cost setting amount of membership interests.
-Section 701-60 of the ITAA 1997 provides:
-
-701-60
-
-Tax cost setting amount
-
-The asset's
- tax cost setting amount
- is worked out using this table.
-
-Tax cost setting amount
-
-Item
-
-If the asset's tax cost is set by
- :
-
-The asset's tax cost setting amount is
- :
-
-1
-
-section 701-10 (Cost to head company of assets of joining entity)
-the amount worked out in accordance with Division 705
-
-2
-
-section 701-15 (Cost to head company of membership interests in entity that leaves group)
-the amount worked out in accordance with section 711-15 or 711-55
-
-3
-
-section 701-20 (Cost to head company of assets consisting of certain liabilities owed by entity that leaves group) or section 701-45 (Cost of assets consisting of liabilities owed to entity by members of the group)
-the *market value of the asset
-
-4
-
-section 701-50 (Cost of certain membership interests of which entity becomes holder on leaving group)
-the amount worked out in accordance with section 711-55
-
-Note 1: The tax cost setting amount of certain interests in partnership assets is worked out under Subdivision 713-E.
-
-Note 2: The tax cost setting amount of certain assets of a life insurance company is worked out under Subdivision 713-L.
-
-In the present case, the conditions for item 2 are satisfied. Section 701-15 of the ITAA 1997 will apply for the purposes of setting the tax cost of the membership interests when Sub Co ceases to be a subsidiary member.
+Section 701-60 of the ITAA 1997 provides: 701-60 Tax cost setting amount The asset's tax cost setting amount is worked out using this table. Tax cost setting amount Item If the asset's tax cost is set by : The asset's tax cost setting amount is : 1 section 701-10 (Cost to head company of assets of joining entity)
+the amount worked out in accordance with Division 705 2 section 701-15 (Cost to head company of membership interests in entity that leaves group)
+the amount worked out in accordance with section 711-15 or 711-55 3 section 701-20 (Cost to head company of assets consisting of certain liabilities owed by entity that leaves group) or section 701-45 (Cost of assets consisting of liabilities owed to entity by members of the group)
+the *market value of the asset 4 section 701-50 (Cost of certain membership interests of which entity becomes holder on leaving group)
+the amount worked out in accordance with section 711-55 Note 1: The tax cost setting amount of certain interests in partnership assets is worked out under Subdivision 713-E. Note 2: The tax cost setting amount of certain assets of a life insurance company is worked out under Subdivision 713-L. In the present case, the conditions for item 2 are satisfied. Section 701-15 of the ITAA 1997 will apply for the purposes of setting the tax cost of the membership interests when Sub Co ceases to be a subsidiary member.
 The question arises whether section 701-20 of the ITAA 1997 and consequently, item 3 of the table in section 701-60 of the ITAA 1997 will apply. At first look, it would appear that the conditions for section 701-20 applying are met in relation to the membership interests which also constitute liabilities owed by Sub Co to Head Co (refer subsection 701-20(2) of the ITAA 1997).
 On closer examination, it is arguable that the reference to an 'asset of the head company' in section 701-20 of the ITAA 1997, viewed in the context of section 701-15 of the ITAA 1997, does not contemplate assets which are membership interests that are dealt with in section 701-15. Section 701-15 refers to membership interests in the entity that leaves the group while section 701-20 refers to an asset of the head company. This would suggest that the reference to an 'asset of the head company' in section 701-20 was intended to contemplate assets other than membership interests falling within section 701-15. That is, the two provisions cover different situations.
 This is consistent with the observation that while the heading to section 701-15 of the ITAA 1997 refers to 'cost to head company of membership interests', section 701-20 of the ITAA 1997 refers to 'certain liabilities'. The former is a reference to all membership interests while the latter covers certain liabilities. This would appear to suggest that section 701-20 was never intended to interfere with the subject of section 701-15.
 Furthermore, there is no provision which acts as a 'tie-breaker' to determine which item in the table in section 701-60 of the ITAA 1997 applies where two items can potentially apply. Therefore, a construction which adopts the view that sections 701-15 and 701-20 of the ITAA 1997 are mutually exclusive also precludes the absurd result that a particular membership interest has two provisions applying, both of which purport to set its tax cost at the tax cost setting amount.
-In addition, paragraphs 2.62 to 2.64 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No 1) 2002 appears to support the view that section 701-15 of the ITAA 1997 covers membership interests while section 701-20 of the ITAA 1997 covers a different category of things being liabilities of the leaving entity (or assets of the head company) that are not membership interests:
-
-2.62 Where a subsidiary member leaves a consolidated group the head company recognises, just before the time the entity leaves, the membership interests in the leaving entity. These membership interests would not be recognised whilst the entity was a member of the group. The cost for the membership interests is set at a cost equal to the head company's cost for the net assets that the leaving entity takes with it. This preserves the alignment between the cost for membership interests in the entity and its assets. The rules for working out the cost for the net assets are explained in Chapter 5. [Schedule 1, item 2, section 701-15]
-
-2.63 Where a number of related entities leave the group, at the one time, the same principle (discussed in paragraph 2.62) applies to the membership interests held by one entity in any of the other entities (see Chapter 5). [Schedule 1, item 2, section 701-50]
-
-2.64 Where a subsidiary member leaves a consolidated group with a liability owing to a member of the group, the liability is recognised for income tax purposes as an asset of the head company just before the time it leaves. The cost for income tax purposes of such an asset at the time it leaves is set at its market value at that time. Such an asset would not be recognised whilst the entity was a group member because intra-group transactions are ignored under the single entity rule. [Schedule 1, item 2, section 701-20 and item 3 in the table in section 701-60]
-
-It is therefore considered that it is section 701-15 of the ITAA 1997 and consequently only item 2 of the table in section 701-60 of the ITAA 1997 that will apply in working out the tax cost setting amount of the membership interests upon Sub Co ceasing to be a subsidiary member.
+In addition, paragraphs 2.62 to 2.64 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No 1) 2002 appears to support the view that section 701-15 of the ITAA 1997 covers membership interests while section 701-20 of the ITAA 1997 covers a different category of things being liabilities of the leaving entity (or assets of the head company) that are not membership interests: 2.62 Where a subsidiary member leaves a consolidated group the head company recognises, just before the time the entity leaves, the membership interests in the leaving entity. These membership interests would not be recognised whilst the entity was a member of the group. The cost for the membership interests is set at a cost equal to the head company's cost for the net assets that the leaving entity takes with it. This preserves the alignment between the cost for membership interests in the entity and its assets. The rules for working out the cost for the net assets are explained in Chapter 5. [Schedule 1, item 2, section 701-15] 2.63 Where a number of related entities leave the group, at the one time, the same principle (discussed in paragraph 2.62) applies to the membership interests held by one entity in any of the other entities (see Chapter 5). [Schedule 1, item 2, section 701-50] 2.64 Where a subsidiary member leaves a consolidated group with a liability owing to a member of the group, the liability is recognised for income tax purposes as an asset of the head company just before the time it leaves. The cost for income tax purposes of such an asset at the time it leaves is set at its market value at that time. Such an asset would not be recognised whilst the entity was a group member because intra-group transactions are ignored under the single entity rule. [Schedule 1, item 2, section 701-20 and item 3 in the table in section 701-60] It is therefore considered that it is section 701-15 of the ITAA 1997 and consequently only item 2 of the table in section 701-60 of the ITAA 1997 that will apply in working out the tax cost setting amount of the membership interests upon Sub Co ceasing to be a subsidiary member.
 This outcome is also consistent with the treatment on entry. The relevant membership interests in this case were recognised as membership interests for the purposes of step 1 of the entry ACA process. Such membership interests were not treated as liabilities at step 2 (refer Taxation Determination TD 2004/74). Section 701-15 of the ITAA 1997, upon exit, is intended to preserve the alignment of the head company's cost for membership interests in each entity and its assets (refer subsection 701-15(2) of the ITAA 1997).
-Date of decision:
-  29 September 2009
-
-Year of income:
-  Year ended 30 September 2009 Year ended 30 September 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 701-15   subsection 701-15(3)   section 701-20   subsection 701-20(2)   section 701-60
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2004/74
-
-Related ATO Interpretative Decisions
-
- ATO ID - 2009/121
-
-Other References:
-
-Paragraphs 2.62 to 2.64 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No 1) 2002
-
-Keywords
-
-Accounting liabilities
- Cost of membership interests
- Leaving entity
-
-Siebel/TDMS Reference Number:
-  6249712
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  30 October 2009
-
-ISSN:
- 1445 - 2782
+Date of decision: 29 September 2009 Year of income: Year ended 30 September 2009 Year ended 30 September 2010 Legislative References: Income Tax Assessment Act 1997 section 701-15 subsection 701-15(3) section 701-20 subsection 701-20(2) section 701-60 Related Public Rulings (including Determinations) Taxation Determination TD 2004/74 Related ATO Interpretative Decisions ATO ID - 2009/121 Other References: Paragraphs 2.62 to 2.64 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No 1) 2002 Keywords Accounting liabilities Cost of membership interests Leaving entity Siebel/TDMS Reference Number: 6249712 Business Line: Consolidation Centre of Expertise Date of publication: 30 October 2009 ISSN: 1445 - 2782

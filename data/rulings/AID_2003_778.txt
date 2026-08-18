@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/778
-==================================================
-
-Income Tax
- CGT: majority underlying ownership and deceased estate - discretionary trust - beneficiary a 'new owner'
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT: majority underlying ownership and deceased estate - discretionary trust - beneficiary a 'new owner' FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the beneficiary of the (discretionary) testamentary trust be said to have a beneficial interest in the assets of the trust and be a 'new owner' for purposes of the deemed continuity of underlying interests provisions in subsections 149-30(3) and 149-30(4) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. On the basis of the terms of the particular trust deed, the beneficiary of the (discretionary) testamentary trust can be said to have a beneficial interest in the assets of the trust and be a 'new owner' for the purposes of section 149-30 of the ITAA 1997.
@@ -28,83 +15,15 @@ Subsections 149-30(3) and 149-30(4) of the ITAA 1997 provide that, if an ultimat
 Can the beneficiaries of a testamentary trust, given that they can only receive amounts from the estate if the trustee exercises a discretion in their favour, be a 'new owner' for purposes of subsections 149-30(3) and 149-30(4) of the ITAA 1997?
 Under ordinary legal concepts, where there is a discretionary trust deed, no beneficiary is entitled to income or capital of the trust until the trustee exercises its discretion to distribute income or to make an appointment of capital. Because the beneficiary of a discretionary trust does not hold an interest in any asset of the trust or in the ordinary income derived from the asset until the trustee's discretion is exercised, it would not be possible for a discretionary trust to satisfy the continuing majority underlying interests test set out in subsection 149-30(1) of the ITAA 1997.
 Taxation Ruling IT 2340 reflects on an approach of looking through interposed entities to determine which natural persons hold the beneficial interests for the purposes of section 160ZZS of the Income Tax Assessment Act 1936 (ITAA 1936), which preceded Division 149 of the ITAA 1997, is reflected in Taxation Ruling IT 2340. Among other issues, IT 2340 deals with questions regarding the application of section 160ZZS of the ITAA 1936 'to assets held by trustees of family trusts where the trustees are vested with discretionary powers as to distributions from the trusts.'
-Taxation Ruling IT 2340 states at paragraph 5 that it will be relevant to take into account the way in which the discretionary powers of the trustee are exercised when considering the question whether majority underlying interests have been maintained in the assets of the trust. IT 2340 continues:
-
-6. Where a trustee continues to administer a trust for the benefit of members of a particular family, for example, it will not bring section 160ZZS into application merely because distributions to family members who are beneficiaries are made in such amounts and to such of those beneficiaries as the trustee determines in the exercise of his discretion.
-
-7. In such a case the Commissioner would, in terms of sub-section 160ZZS(1), find it reasonable to assume that for all practical purposes the majority underlying interests in the trust assets have not changed....
-
-Taxation Ruling IT 2340 correctly reflects the position that section 160ZZS of the ITAA 1936, by its terms, necessarily supplants normal legal concepts of interests in assets. For the purposes of section 160ZZS, a beneficiary of a discretionary trust is treated as having a beneficial interest in the trust's assets. Likewise, a shareholder is treated for the purposes of section 160ZZS as having a beneficial interest in the company's assets.
+Taxation Ruling IT 2340 states at paragraph 5 that it will be relevant to take into account the way in which the discretionary powers of the trustee are exercised when considering the question whether majority underlying interests have been maintained in the assets of the trust. IT 2340 continues: 6. Where a trustee continues to administer a trust for the benefit of members of a particular family, for example, it will not bring section 160ZZS into application merely because distributions to family members who are beneficiaries are made in such amounts and to such of those beneficiaries as the trustee determines in the exercise of his discretion. 7. In such a case the Commissioner would, in terms of sub-section 160ZZS(1), find it reasonable to assume that for all practical purposes the majority underlying interests in the trust assets have not changed.... Taxation Ruling IT 2340 correctly reflects the position that section 160ZZS of the ITAA 1936, by its terms, necessarily supplants normal legal concepts of interests in assets. For the purposes of section 160ZZS, a beneficiary of a discretionary trust is treated as having a beneficial interest in the trust's assets. Likewise, a shareholder is treated for the purposes of section 160ZZS as having a beneficial interest in the company's assets.
 The discretionary powers of the trustee of a discretionary (family) trust and those of the trustee of a discretionary testamentary trust are not materially different and it is reasonable to adopt the same approach to both when considering the question of majority underlying interests for purposes of Division 149 of the ITAA 1997.
 Applying the 'look through' approach to the present case and considering the terms of the testamentary trust, as well as the way in which the trustee has exercised his powers, the beneficiary of the trust can be said to have a beneficial interest in the assets of the trust. The beneficiary is therefore a 'new owner' for purposes of subsections 149-30(3) and 149-30(4) of the ITAA 1997 and the pre-CGT assets of the non-public entity retain their status.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-24 April 2014
+Comment 24 April 2014
 Legislative References
-Section 160ZZS of the ITAA 1936 rewritten as section 149-30 and 149-35 of the ITAA 1997
-
-Date of decision:
-  27 June 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160ZZS (rewritten as section 149-30 and 149-35 of the ITAA 1997)
-Income Tax Assessment Act 1997   section 149-30   subsection 149-30(1)   subsection 149-30(3)   subsection 149-30(4)   section 149-50
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2340
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/777
- ATO ID 2003/779
-
-Keywords
-
-Capital gains tax
- CGT assets
- CGT deceased estates
- Executors
- Legal personal representatives
- Ownership, interests, control & rights
- Pre-CGT assets
- Underlying ownership & interests
-
-Siebel/TDMS Reference Number:
-  3488667;1-CT8QDKO
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  29 August 2003
-
-Date reviewed:
-  24 November 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 June 2003
-Original statement
-
-You are here
+Section 160ZZS of the ITAA 1936 rewritten as section 149-30 and 149-35 of the ITAA 1997 Date of decision: 27 June 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 160ZZS (rewritten as section 149-30 and 149-35 of the ITAA 1997)
+Income Tax Assessment Act 1997 section 149-30 subsection 149-30(1) subsection 149-30(3) subsection 149-30(4) section 149-50 Related Public Rulings (including Determinations) Taxation Ruling IT 2340 Related ATO Interpretative Decisions ATO ID 2003/777 ATO ID 2003/779 Keywords Capital gains tax CGT assets CGT deceased estates Executors Legal personal representatives Ownership, interests, control & rights Pre-CGT assets Underlying ownership & interests Siebel/TDMS Reference Number: 3488667;1-CT8QDKO Business Line: Private Groups and High Wealth Individuals Date of publication: 29 August 2003 Date reviewed: 24 November 2017 ISSN: 1445-2782 history Date: Version: 27 June 2003
+Original statement You are here
 24 April 2014
 Updated statement

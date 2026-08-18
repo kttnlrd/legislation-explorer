@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/214
-==================================================
-
-Income Tax
- Alienation of personal services income of a foreign resident and the interaction with the core provisions for assessable income
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Alienation of personal services income of a foreign resident and the interaction with the core provisions for assessable income FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where an Australian resident personal services entity derives foreign sourced income that is the personal services income of a foreign resident individual, is the income included in the assessable income of the foreign resident individual under subsection 6-10(5) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. Where an Australian resident personal services entity derives foreign sourced income that is the personal services income of a foreign resident individual, the income is not included in the assessable income of the foreign resident individual under subsection 6-10(5) of the ITAA 1997.
@@ -23,79 +12,14 @@ The personal services income by virtue of subsection 86-15(1) of the ITAA 1997 i
 The Australian resident company is a personal services entity within the meaning of that term in subsection 86-15(2) of the ITAA 1997.
 The exceptions to subsection 86-15(1) of the ITAA 1997 contained in subsections 86-15(3), (4) and (5) of the ITAA 1997 do not apply in this case.
 Reasons for Decision
-Division 6 of the ITAA 1997 provides the core provisions relating to assessable income, and all other provisions of the ITAA 1997 are subject to these rules. Subsection 6-10(5) of the ITAA 1997 provides:
-
-If you are a foreign resident, your assessable income includes:
-
-(a)your statutory income from all Australian sources; and
-(b)other statutory income that a provision includes in your assessable income on some basis other than having an Australian source.
-
-Subsection 86-15(1) of the ITAA 1997 provides:
-
-Your assessable income includes an amount of ordinary income or statutory income of a personal services entity that is your personal services income.
-
-Accordingly, personal services income of a foreign resident individual will not be included in the assessable income of the individual under subsection 6-10(5) of the ITAA 1997 unless:
-
-•the income has an Australian source; or alternatively
-•subsection 86-15(1) of the ITAA 1997 includes it in the individual's assessable income on some other basis than it having an Australian source.
-
-As the income in question is foreign sourced it is not included in the foreign resident taxpayer's assessable income under paragraph 6-10(5)(a) of the ITAA 1997. For the income to be included as assessable income pursuant to paragraph 6-10(5)(b), subsection 86-15(1) of the ITAA 1997 would need to be a provision that includes income in a foreign resident's assessable income on a basis other than it having an Australian source.
-Paragraph 6-10(5)(b) of the ITAA 1997 was introduced by the Income Tax Assessment Bill 1996. The Explanatory Memorandum to that Bill (the EM) makes it clear that the alternative rule in paragraph 6-10(5)(b) was only intended to apply in limited circumstances. The relevant part of the EM states:
-
-Most ordinary and statutory income from foreign sources is not assessable to foreign residents.
- However, there are limited cases
- where an amount is assessed on a specifically expressed basis ... (emphasis added)
-
-The EM goes on to cite the capital gains tax (CGT) provisions as an example of a provision that operates in this way. The relevant CGT provisions for foreign residents are now contained in Division 855 of the ITAA 1997. Rather than taxing foreign residents on Australian sourced capital gains, Division 855 only taxes foreign residents on capital gains from CGT assets that are 'taxable Australian property'. By only including capital gains from CGT assets that are 'taxable Australian property' in the assessable income of a foreign resident, the CGT provisions provide an alternative to the ordinary source rule in paragraph 6-10(5)(a) of the ITAA 1997. This alternative has a clearly defined scope which focuses on the connection the capital gain has with Australia.
+Division 6 of the ITAA 1997 provides the core provisions relating to assessable income, and all other provisions of the ITAA 1997 are subject to these rules. Subsection 6-10(5) of the ITAA 1997 provides: If you are a foreign resident, your assessable income includes: (a)your statutory income from all Australian sources; and
+(b)other statutory income that a provision includes in your assessable income on some basis other than having an Australian source. Subsection 86-15(1) of the ITAA 1997 provides: Your assessable income includes an amount of ordinary income or statutory income of a personal services entity that is your personal services income. Accordingly, personal services income of a foreign resident individual will not be included in the assessable income of the individual under subsection 6-10(5) of the ITAA 1997 unless: •the income has an Australian source; or alternatively
+•subsection 86-15(1) of the ITAA 1997 includes it in the individual's assessable income on some other basis than it having an Australian source. As the income in question is foreign sourced it is not included in the foreign resident taxpayer's assessable income under paragraph 6-10(5)(a) of the ITAA 1997. For the income to be included as assessable income pursuant to paragraph 6-10(5)(b), subsection 86-15(1) of the ITAA 1997 would need to be a provision that includes income in a foreign resident's assessable income on a basis other than it having an Australian source.
+Paragraph 6-10(5)(b) of the ITAA 1997 was introduced by the Income Tax Assessment Bill 1996. The Explanatory Memorandum to that Bill (the EM) makes it clear that the alternative rule in paragraph 6-10(5)(b) was only intended to apply in limited circumstances. The relevant part of the EM states: Most ordinary and statutory income from foreign sources is not assessable to foreign residents. However, there are limited cases where an amount is assessed on a specifically expressed basis ... (emphasis added) The EM goes on to cite the capital gains tax (CGT) provisions as an example of a provision that operates in this way. The relevant CGT provisions for foreign residents are now contained in Division 855 of the ITAA 1997. Rather than taxing foreign residents on Australian sourced capital gains, Division 855 only taxes foreign residents on capital gains from CGT assets that are 'taxable Australian property'. By only including capital gains from CGT assets that are 'taxable Australian property' in the assessable income of a foreign resident, the CGT provisions provide an alternative to the ordinary source rule in paragraph 6-10(5)(a) of the ITAA 1997. This alternative has a clearly defined scope which focuses on the connection the capital gain has with Australia.
 By contrast, subsection 86-15(1) of the ITAA 1997 does not provide any requirements that the personal services income have any connection with Australia. In addition, if subsection 86-15(1) was considered to be a provision that included amounts in assessable income on a basis other than having an Australian source, its application would be much wider than could be considered an appropriate alternative to the ordinary source rule. Under this view of subsection 86-15(1), foreign sourced income of a foreign resident would be assessable income in Australia.
-Consequently, relying on the:
-
-•statement in the EM that paragraph 6-10(5)(b) of the ITAA 1997 was only intended to apply in limited circumstances;
+Consequently, relying on the: •statement in the EM that paragraph 6-10(5)(b) of the ITAA 1997 was only intended to apply in limited circumstances;
 •lack of focus in the words of subsection 86-15(1) of the ITAA 1997 that would otherwise demonstrate that the provision was seeking to provide a basis other than Australian source for including an amount in assessable income; and
-•extra-territorial effect of subsection 86-15(1) if it were to be considered an alternative source rule,
-
-it is considered that subsection 86-15(1) of the ITAA 1997 is not a provision that includes amounts in assessable income on a basis other than having an Australian source for the purposes of paragraph 6-10(5)(b) of the ITAA 1997.
-Accordingly, the foreign sourced personal services income of the foreign resident individual is not included in the assessable income of the individual under subsection 6-10(5) of the ITAA 1997.
-
-Note
- : the foreign sourced income derived by the Australian resident company that is a personal services entity is assessable income of that company under subsection 6-5(2) of the ITAA 1997.
-
-Date of decision:
-  17 November 2010
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 6   subsection 6-5(2)   subsection 6-10(2)   subsection 6-10(5)   paragraph 6-10(5)(a)   paragraph 6-10(5)(b)   subsection 84-5(1)   subsection 86-15(1)   subsection 86-15(2)   subsection 86-15(3)   subsection 86-15(4)   subsection 86-15(5)   Division 855
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/7
+•extra-territorial effect of subsection 86-15(1) if it were to be considered an alternative source rule, it is considered that subsection 86-15(1) of the ITAA 1997 is not a provision that includes amounts in assessable income on a basis other than having an Australian source for the purposes of paragraph 6-10(5)(b) of the ITAA 1997.
+Accordingly, the foreign sourced personal services income of the foreign resident individual is not included in the assessable income of the individual under subsection 6-10(5) of the ITAA 1997. Note : the foreign sourced income derived by the Australian resident company that is a personal services entity is assessable income of that company under subsection 6-5(2) of the ITAA 1997. Date of decision: 17 November 2010 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 Division 6 subsection 6-5(2) subsection 6-10(2) subsection 6-10(5) paragraph 6-10(5)(a) paragraph 6-10(5)(b) subsection 84-5(1) subsection 86-15(1) subsection 86-15(2) subsection 86-15(3) subsection 86-15(4) subsection 86-15(5) Division 855 Related Public Rulings (including Determinations) Taxation Ruling TR 2001/7
 Taxation Ruling TR 2001/8
-Taxation Ruling TR 2003/6
-
-Other References:
-
- The Explanatory Memorandum to the Income Tax Assessment Bill 1996
-
-Keywords
-
-Non resident entities
- Foreign source income
- Personal services income
- Alienation of personal services income
- Assessable income of a personal services entity
-
-Siebel/TDMS Reference Number:
-  1-2COPKVY
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  26 November 2010
-
-ISSN:
- 1445-2782
+Taxation Ruling TR 2003/6 Other References: The Explanatory Memorandum to the Income Tax Assessment Bill 1996 Keywords Non resident entities Foreign source income Personal services income Alienation of personal services income Assessable income of a personal services entity Siebel/TDMS Reference Number: 1-2COPKVY Business Line: Public Groups and International Date of publication: 26 November 2010 ISSN: 1445-2782

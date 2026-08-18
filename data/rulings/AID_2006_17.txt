@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/17
-==================================================
-
-Income Tax
- Capital Gains Tax: disposal of goodwill by a branch to another entity
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: disposal of goodwill by a branch to another entity FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can subsection 23AH(3) of the Income Tax Assessment Act 1936 (ITAA 1936) apply to disregard the capital gain in respect of the disposal of goodwill by the branch of an Australian company to another entity?
 Decision
 Yes. Subsection 23AH(3) of the ITAA 1936 can apply to disregard the capital gain in respect of the disposal of goodwill by the branch of an Australian company to another entity.
@@ -23,78 +12,21 @@ The income earned by the relevant business of the branch is sourced in that list
 The branch is a permanent establishment (PE).
 Reasons for Decision
 Subsection 23AH(1) of the ITAA 1936 states that one of the objects of section 23AH of the ITAA 1936 is to ensure that active foreign branch income derived by an Australian resident company, and capital gains made by a resident company in disposing of non-tainted assets used in deriving foreign branch income are not assessable income or exempt income of the company.
-Subsection 23AH(3) of the ITAA 1936 provides:
-
-Subject to this section, a capital gain from a CGT event happening to a CGT asset is disregarded for the purposes of Part 3-1 of the Income Tax Assessment Act 1997 if:
-
-(a)the gain is made by a company that is a resident; and
+Subsection 23AH(3) of the ITAA 1936 provides: Subject to this section, a capital gain from a CGT event happening to a CGT asset is disregarded for the purposes of Part 3-1 of the Income Tax Assessment Act 1997 if: (a)the gain is made by a company that is a resident; and
 (b)the company used the asset wholly or mainly for the purpose of producing foreign income in carrying on a business at or through a PE of the company in a listed country or unlisted country; and
-(c)the asset does not have the necessary connection with Australia.
-
-The capital gain arising from the transfer of the goodwill from the branch to the new company will be non-assessable, non-exempt income of the Australian resident company under section 23AH of the ITAA 1936 if all of the requirements, set out in subsection 23AH(3) of the ITAA 1936 are satisfied. In addition, the application of subsection 23AH(3) of the ITAA 1936 is subject to the other provisions of that section. The relevant provisions that are required to be considered are subsections 23AH(6) and 23AH(8) of the ITAA 1936.
+(c)the asset does not have the necessary connection with Australia. The capital gain arising from the transfer of the goodwill from the branch to the new company will be non-assessable, non-exempt income of the Australian resident company under section 23AH of the ITAA 1936 if all of the requirements, set out in subsection 23AH(3) of the ITAA 1936 are satisfied. In addition, the application of subsection 23AH(3) of the ITAA 1936 is subject to the other provisions of that section. The relevant provisions that are required to be considered are subsections 23AH(6) and 23AH(8) of the ITAA 1936.
 Paragraph 23AH(3)(a) of the ITAA 1936 is satisfied as the company is a 'resident' of Australia as defined in subsection 6(1) of the ITAA 1936. The company is incorporated in Australia and it will not be acting in the capacity of a trustee for the purposes of the definition of 'company' in subsection 23AH(15) of the ITAA 1936.
 Paragraph 23AH(3)(b) of the ITAA 1936 is satisfied because the company has used the relevant asset, being the goodwill of the business, wholly or mainly in carrying on a business at or through a branch in a listed country. In accordance with Federal Commissioner of Taxation v. Murry 193 CLR 605 at 615; 98 ATC 4585 at 4591; (1998) 39 ATR 129 at 137 (Murry) goodwill 'is a right or privilege that is inseparable from the conduct of the business'.
 The business to which the goodwill relates had earned income, being ordinary assessable income under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997). This income is 'foreign income' as defined in subsection 23AH(15) of the ITAA 1936. The income is also derived via a PE as defined in subsection 23AH(15) of the ITAA 1936.
 Paragraph 23AH(3)(c) of the ITAA 1936 is satisfied as goodwill does not have the 'necessary connection with Australia' under section 136-25 of the ITAA 1997.
 As paragraphs 23AH(3)(a), 23AH(3)(b) and 23AH(3)(c) of the ITAA 1936 have been satisfied subsection 23AH(3) of the ITAA 1936 will apply subject to subsections 23AH(6) and 23AH(8) of the ITAA 1936.
-Subsection 23AH(6) of the ITAA 1936 states:
-
-Subsection (3) or (4) does not apply to a capital gain or capital loss if:
-
-(a)the PE is in a listed country; and
+Subsection 23AH(6) of the ITAA 1936 states: Subsection (3) or (4) does not apply to a capital gain or capital loss if: (a)the PE is in a listed country; and
 (b)for a capital gain - the gain is from a tainted asset and is eligible designated concession income in relation to a listed country; and
-(c)for a capital loss - the loss is from a tainted asset and would be eligible designated concession income in relation to a listed country if it were a capital gain.
-
-Subsection 23AH(15) of the ITAA 1936 provides that the term 'tainted asset' has the same meaning as in Part X of the ITAA 1936.
+(c)for a capital loss - the loss is from a tainted asset and would be eligible designated concession income in relation to a listed country if it were a capital gain. Subsection 23AH(15) of the ITAA 1936 provides that the term 'tainted asset' has the same meaning as in Part X of the ITAA 1936.
 Section 317 of the ITAA 1936 contains a definition of the term 'tainted asset'. Goodwill is not an asset caught by paragraphs (a) or (b) of that definition. However, paragraph (c) covers 'any other asset' and contains some exclusion. Goodwill will be caught by paragraph (c) unless one of the exclusions applies. The exclusion relevant here is whether goodwill is an asset 'used solely in carrying on a business'. This phrase is not defined in Part X of the ITAA 1936 so its ordinary meaning will apply. The word 'sole' is defined in the Macquarie Concise Dictionary to mean 'only'.
-In Murry the majority of the Full High Court held that goodwill 'is a right or privilege that is inseparable from the conduct of the business'. Isaacs J in Bacchus Marsh Concentrated Milk Co Ltd (in liq) v. Joseph Nathan & Co Ltd (1919) 26 CLR 410 also stated at 438:
-
-Goodwill is property but, as such, is inseparable from a particular "business" in the sense of a particular going concern. It is an asset of that business, and enhances its value.
-
-Since goodwill is inextricably linked with the conduct of a business, it is used solely in carrying on a business. It is therefore not a 'tainted asset' under section 317 of the ITAA 1936 and subsection 23AH(6) of the ITAA 1936 will not apply to preclude the operation of subsection 23AH(3) of the ITAA 1936.
-Subsection 23AH(8) of the ITAA 1936 states that:
-
-Subsection (3) or (4) does not apply to a capital gain or capital loss if:
-
-(a)the PE is in an unlisted country; and
-(b)the gain or loss is from a tainted asset.
-
-In the present case, the PE is in a listed country and subsection 23AH(8) of the ITAA 1936 will not apply.
+In Murry the majority of the Full High Court held that goodwill 'is a right or privilege that is inseparable from the conduct of the business'. Isaacs J in Bacchus Marsh Concentrated Milk Co Ltd (in liq) v. Joseph Nathan & Co Ltd (1919) 26 CLR 410 also stated at 438: Goodwill is property but, as such, is inseparable from a particular "business" in the sense of a particular going concern. It is an asset of that business, and enhances its value. Since goodwill is inextricably linked with the conduct of a business, it is used solely in carrying on a business. It is therefore not a 'tainted asset' under section 317 of the ITAA 1936 and subsection 23AH(6) of the ITAA 1936 will not apply to preclude the operation of subsection 23AH(3) of the ITAA 1936.
+Subsection 23AH(8) of the ITAA 1936 states that: Subsection (3) or (4) does not apply to a capital gain or capital loss if: (a)the PE is in an unlisted country; and
+(b)the gain or loss is from a tainted asset. In the present case, the PE is in a listed country and subsection 23AH(8) of the ITAA 1936 will not apply.
 Therefore, subsection 23AH(3) of the ITAA 1936 can apply to disregard the capital gain arising from the disposal of goodwill by the branch of an Australian company in a listed country to another entity in that listed country.
-Date of decision:
-  9 December 2005
-
-Year of income:
-  Year ended 30 September 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 23AH(1)   subsection 23AH(3)   subsection 23AH(6)   subsection 23AH(8)   subsection 23AH(15)   subsection 6(1)   section 317
-Income Tax Assessment Act 1997   section 136-25   section 6-5
-
-Case References:
-
-Federal Commissioner of Taxation v. Murry   (1998) 193 CLR 605   98 ATC 4585   (1998) 39 ATR 129
-
-Bacchus Marsh Concentrated Milk Co Ltd (in liq) v. Joseph Nathan & Co Ltd   (1919) 26 CLR 410
-
-Keywords
-
-Foreign income
- International tax
- Non-assessable non-exempt income
- Permanent establishment
- Goodwill
- Capital gains
-
-Siebel/TDMS Reference Number:
-  4961788
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  20 January 2006
-
-ISSN:
- 1445-2782
+Date of decision: 9 December 2005 Year of income: Year ended 30 September 2007 Legislative References: Income Tax Assessment Act 1936 subsection 23AH(1) subsection 23AH(3) subsection 23AH(6) subsection 23AH(8) subsection 23AH(15) subsection 6(1) section 317
+Income Tax Assessment Act 1997 section 136-25 section 6-5 Case References: Federal Commissioner of Taxation v. Murry (1998) 193 CLR 605 98 ATC 4585 (1998) 39 ATR 129 Bacchus Marsh Concentrated Milk Co Ltd (in liq) v. Joseph Nathan & Co Ltd (1919) 26 CLR 410 Keywords Foreign income International tax Non-assessable non-exempt income Permanent establishment Goodwill Capital gains Siebel/TDMS Reference Number: 4961788 Business Line: Public Groups and International Date of publication: 20 January 2006 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/11
-==================================================
-
-Superannuation
- Superannuation interest: proportioning rule - release authority
- FOI status: may be released
-
-This ATO ID is withdrawn from the database as section 292-415 of the Income Tax Assessment Act 1997 has been repealed with effect from 1 July 2018. The ATO view expressed in this ATO ID is now contained in a straight application of the law in Division 131 of Schedule 1 to the Taxation Administration Act 1953. Guidance on the issue contained in this ATO ID can be found at Release authorities. (QC 20076)
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Superannuation interest: proportioning rule - release authority FOI status: may be released This ATO ID is withdrawn from the database as section 292-415 of the Income Tax Assessment Act 1997 has been repealed with effect from 1 July 2018. The ATO view expressed in this ATO ID is now contained in a straight application of the law in Division 131 of Schedule 1 to the Taxation Administration Act 1953. Guidance on the issue contained in this ATO ID can be found at Release authorities. (QC 20076) This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When a superannuation provider releases an amount of money under section 292-415 of the Income Tax Assessment Act 1997 (ITAA 1997) is it required to reduce either the tax free component or the taxable component of a superannuation interest which is not providing a superannuation income stream?
 Decision
 No. At the time of releasing an amount of money under section 292-415 of the ITAA 1997 the superannuation provider is not required to reduce either the tax free component or the taxable component of a superannuation interest which is not providing a superannuation income stream.
@@ -36,69 +21,13 @@ As the amount of the contributions segment and the crystallised segment are unch
 Example:
 The member has a superannuation interest of $600,000. The tax free component is $500,000. The member has excess non-concessional contributions of $100,000 and has received an excess contributions tax assessment for excess non-concessional contributions tax along with a release authority for $46,500. After the superannuation provider pays to the member an amount equal to the release authority the member's superannuation interest is $553,500.
 When the superannuation provider subsequently rolls over the superannuation interest to another fund it must calculate the tax free component and taxable component of the superannuation benefit. The tax free component is $500,000 and the taxable component is the balance of the superannuation interest, that is, $53,500.
-Note: The approach outlined in this ATO ID also applies for an amount paid by a superannuation provider under section 292-80C of the Income Tax (Transitional Provisions) Act 1997 after 30 June 2007 pursuant to a transitional release authority given to the provider under section 292-80B of that Act.
-
-Amendment History
-
-Date of Amendment
+Note: The approach outlined in this ATO ID also applies for an amount paid by a superannuation provider under section 292-80C of the Income Tax (Transitional Provisions) Act 1997 after 30 June 2007 pursuant to a transitional release authority given to the provider under section 292-80B of that Act. Amendment History Date of Amendment
 Part
-Comment
-
-8 May 2015
+Comment 8 May 2015
 Reasons for Decision
-Updated.
-
-Keywords
-Spelling error corrected
-
-Date of decision:
-  20 December 2007
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 292-405(1)   section 292-415   subsection 292-415(5)   section 307-5   section 307-120   section 307-125   section 307-210   section 307-215
-Income Tax (Transitional Provisions) Act 1997   section 292-80B   section 292-80C
-
-Keywords
-
-Components of superannuation benefits
- Excess contributions tax assessments
- Proportionate rule for superannuation benefits
- Superannuation interest
- Tax free component of superannuation interest
- Taxable component of superannuation interest
-
-Siebel/TDMS Reference Number:
-  5766766;1-FWK710V
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  11 January 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 1 January 1001
-Updated statement
-
- 
-20 December 2007
-Original statement
-
-You are here
- 7 June 2019
+Updated. Keywords
+Spelling error corrected Date of decision: 20 December 2007 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 subsection 292-405(1) section 292-415 subsection 292-415(5) section 307-5 section 307-120 section 307-125 section 307-210 section 307-215
+Income Tax (Transitional Provisions) Act 1997 section 292-80B section 292-80C Keywords Components of superannuation benefits Excess contributions tax assessments Proportionate rule for superannuation benefits Superannuation interest Tax free component of superannuation interest Taxable component of superannuation interest Siebel/TDMS Reference Number: 5766766;1-FWK710V Business Line: Superannuation Date of publication: 11 January 2008 ISSN: 1445-2782 history Date: Version: 1 January 1001
+Updated statement 20 December 2007
+Original statement You are here 7 June 2019
 Archived

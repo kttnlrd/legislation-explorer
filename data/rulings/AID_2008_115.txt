@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/115
-==================================================
-
-Income Tax
- Eligibility for Tax Offset: R&D tax offset and exempt entity ownership exception
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Eligibility for Tax Offset: R&D tax offset and exempt entity ownership exception FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the exception in subsection 73J(2) of the Income Tax Assessment Act 1936 (ITAA 1936) apply, to prevent an eligible company choosing the tax offset under section 73I of the ITAA 1936, where the less than 25% exempt entity ownership requirement may not be breached if actual and potential future interests are taken into account?
 Decision
 Yes. The exception in subsection 73J(2) of the ITAA 1936 applies if the interests actually owned, by an entity or entities referred to in the subsection, carry at least 25% of the voting power in the eligible company or the right to receive at least 25% of a distribution of income or capital by the eligible company. It does not matter that the less than 25% requirement may not be breached if both actual and potential future interests are taken account of.
@@ -22,12 +11,8 @@ For the 'tax offset year' in question (refer subsection 73I(1) of the ITAA 1936)
 Company A has issued to Company B and other entities, a number of convertible notes in Company A. These other entities are neither exempt entities nor affiliates of any exempt entity. The convertible notes give the holders the right to acquire shares in Company A in certain circumstances, but they do not carry any voting rights in Company A or rights to a distribution of income or capital by Company A. Both the existing shares and any shares to be acquired on conversion of the notes, are, or will be, 'interests' in Company A for the purposes of subsection 73J(2) of the ITAA 1936.
 If a certain number of the convertible notes held by entities other than Company B are converted into shares, the voting power and the right to distributions of income or capital owned by Company B will fall below the 25% condition in subsection 73J(2) of the ITAA 1936.
 Reasons for Decision
-Subsection 73J(2) of the ITAA 1936 prevents an eligible company from choosing the tax offset, instead of a deduction, under section 73I of the ITAA 1936, if an exempt entity, the affiliates of an exempt entity, an exempt entity together with its affiliates, or two or more exempt entities, at any time during the tax offset year, legally or beneficially own, or have the right to acquire, the legal or beneficial ownership of:
-
-interests in the company that carry between them the right to exercise or control the exercise of, at least 25% of the voting power in the company; or
-interests in the company that carry between them the right to receive at least 25% of any distribution of income or capital by the company.
-
-In the case in question an affiliate of an exempt entity, Company B, legally owns shares in the eligible company, Company A, which carry the rights described in subsection 73J(2) of the ITAA 1936. However, Company A has also issued convertible notes carrying the right to acquire shares in it to Company B and other entities. If Company B's present interests and its possible acquisition of interests in the future in Company A are taken together, they may not carry between them at least 25% of the voting power in the company or the right to receive at least 25% of any distribution of income or capital by Company A. This is on the presumption that the other holders of the convertible notes convert them into shares and so dilute the shareholding of Company B below the 25% limit.
+Subsection 73J(2) of the ITAA 1936 prevents an eligible company from choosing the tax offset, instead of a deduction, under section 73I of the ITAA 1936, if an exempt entity, the affiliates of an exempt entity, an exempt entity together with its affiliates, or two or more exempt entities, at any time during the tax offset year, legally or beneficially own, or have the right to acquire, the legal or beneficial ownership of: interests in the company that carry between them the right to exercise or control the exercise of, at least 25% of the voting power in the company; or
+interests in the company that carry between them the right to receive at least 25% of any distribution of income or capital by the company. In the case in question an affiliate of an exempt entity, Company B, legally owns shares in the eligible company, Company A, which carry the rights described in subsection 73J(2) of the ITAA 1936. However, Company A has also issued convertible notes carrying the right to acquire shares in it to Company B and other entities. If Company B's present interests and its possible acquisition of interests in the future in Company A are taken together, they may not carry between them at least 25% of the voting power in the company or the right to receive at least 25% of any distribution of income or capital by Company A. This is on the presumption that the other holders of the convertible notes convert them into shares and so dilute the shareholding of Company B below the 25% limit.
 The question of whether subsection 73J(2) of the ITAA 1936 applies in such a case requires an examination of the purpose and context of the provision.
 Subsection 73J(2) of the ITAA 1936 applies where the relevant affiliate 'legally or beneficially owns', or 'has the right to acquire', the relevant interests. The provision therefore has two limbs, which represent two alternatives. The first limb looks at present interests in the eligible company while the second limb is concerned with the possible acquisition of interests in the future. If the relevant affiliate has interests which fall within the first limb of the exception, it will not be necessary to consider the second limb. Conversely, if the first limb is not satisfied, the second limb of the subsection may still apply, to prevent the eligible company from choosing the R&D tax offset.
 This interpretation supports the purpose of the provision, which is to prevent an eligible company from being able to choose the tax offset if an exempt entity, or affiliate of an exempt entity, legally or beneficially own interests in the company of the prescribed type, or legally or beneficially owns rights to acquire such interests. An alternative interpretation is that in subsection 73J(2) of the ITAA 1936, the word 'or', as used the second time in the expression, 'legally or beneficially own or have the right to acquire', means 'or, as well' (see for example, Minister for Immigration and Ethnic Affairs v. Baker (1997) 73 FCR 187 at 194-5). For present purposes it is not necessary to decide this point as it does not affect the decision.
@@ -36,44 +21,4 @@ However, some of these small companies may be owned by exempt entities, such as 
 An alternative view of subsection 73J(2) of the ITAA 1936 is that when deciding whether it applies it is necessary to take account of both the interests actually held in the eligible company and those which might be acquired in the future. Testing of whether the less than 25% requirement is met then takes place in relation to the sum of both types of interests.
 This view is not accepted. The preferred construction of subsection 73J(2) of the ITAA 1936 is one that supports the purpose of the exception and does not allow that purpose to be defeated by granting rights to non exempt persons which might never be exercised.
 In this case there is an affiliate of an exempt entity which actually owns interests in the eligible company which come within the first limb of the exception. It is not necessary to consider the operation of the second limb. As the first limb is satisfied, subsection 73J(2) of the ITAA 1936 applies to prevent Company A from choosing the tax offset under section 73I of the ITAA 1936.
-Date of decision:
-  5 August 2008
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 73I   subsection 73J(2)
-
-Case References:
-
-Minister for Immigration and Ethnic Affairs v. Baker   (1997) 73 FCR 187    153 ALR 463
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/660
- ATO ID 2003/895
- ATO ID 2005/23
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment (Research and Development) Bill 2001
-
-Keywords
-
-Research & development tax offset
- Grouped entities for research and development
- Grouped taxpayers for R&D - control
-
-Siebel/TDMS Reference Number:
-  5930624
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 August 2008
-
-ISSN:
- 1445-2782
+Date of decision: 5 August 2008 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 section 73I subsection 73J(2) Case References: Minister for Immigration and Ethnic Affairs v. Baker (1997) 73 FCR 187 153 ALR 463 Related ATO Interpretative Decisions ATO ID 2003/660 ATO ID 2003/895 ATO ID 2005/23 Other References: Explanatory Memorandum to the Taxation Laws Amendment (Research and Development) Bill 2001 Keywords Research & development tax offset Grouped entities for research and development Grouped taxpayers for R&D - control Siebel/TDMS Reference Number: 5930624 Business Line: Public Groups and International Date of publication: 29 August 2008 ISSN: 1445-2782

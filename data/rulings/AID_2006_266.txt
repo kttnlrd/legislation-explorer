@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/266
-==================================================
-
-Income tax
- Controlled foreign companies: amalgamation of two controlled foreign companies - cancellation of shares
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Controlled foreign companies: amalgamation of two controlled foreign companies - cancellation of shares FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the cancellation of the shares in an amalgamating entity in the course of an amalgamation give rise to a 'disposal' of the shares by the amalgamated entity for the purposes of Part X of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The cancellation of the shares will give rise to a 'disposal' by the amalgamated entity within the meaning of that term in section 317 of the ITAA 1936.
@@ -20,66 +9,8 @@ Facts
 A resident company wholly owns an overseas subsidiary (Z Co). Z Co wholly owns another subsidiary (Y Co). Z Co and Y Co amalgamate under specific legislation in their jurisdiction of residence. Z Co will continue as the amalgamated company.
 Under the terms of the legislation, the amalgamated company will succeed to all the assets, liabilities and obligations of Y Co. The shares in Y Co will then be cancelled without payment or other consideration.
 Reasons for Decision
-The definition of disposal in section 317 of the ITAA 1936 is an inclusive definition only. 'Disposal' is defined in that section as including:
-
-(a)a redemption, and
-(b)CGT event J1 happening in relation to the asset.
-
-The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW defines 'disposal' as:
-
-1. the act of disposing, or of disposing of, something; arrangement. 2. a disposing of as by gift or sale; bestowal or assignment...
-
-'Dispose' is defined as, in the context of 'dispose of a':
-
-1. to deal with definitely; get rid of. b. to make over or part with, as by gift or sale.
-
-In Federal Commissioner of Taxation v. Wade (1951) 84 CLR 105; (1951) 9 ATD 337 Dixon and Fullagar JJ, when considering the term 'disposed of' said:
-
-The words "disposed of" are not words possessing a technical legal meaning, although they are frequently used in legal instruments. Speaking generally, they cover all forms of alienation.
-
-This case was considered in Taxation Ruling TR 96/14 and it was concluded that the comments do not go as far as suggesting that a general, unqualified understanding of those clauses means that all acts of disposal must necessarily effect an alienation.
+The definition of disposal in section 317 of the ITAA 1936 is an inclusive definition only. 'Disposal' is defined in that section as including: (a)a redemption, and
+(b)CGT event J1 happening in relation to the asset. The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW defines 'disposal' as: 1. the act of disposing, or of disposing of, something; arrangement. 2. a disposing of as by gift or sale; bestowal or assignment... 'Dispose' is defined as, in the context of 'dispose of a': 1. to deal with definitely; get rid of. b. to make over or part with, as by gift or sale. In Federal Commissioner of Taxation v. Wade (1951) 84 CLR 105; (1951) 9 ATD 337 Dixon and Fullagar JJ, when considering the term 'disposed of' said: The words "disposed of" are not words possessing a technical legal meaning, although they are frequently used in legal instruments. Speaking generally, they cover all forms of alienation. This case was considered in Taxation Ruling TR 96/14 and it was concluded that the comments do not go as far as suggesting that a general, unqualified understanding of those clauses means that all acts of disposal must necessarily effect an alienation.
 The ordinary meaning of the word includes acts of alienation and also includes acts resulting in something 'being dealt with definitely' and acts that 'get rid of' something.
 A cancellation results in the shares ceasing to exist; they are no longer 'owned' by the amalgamated entity. In other words, the amalgamated entity has 'dealt with definitely' or has positively acted to 'get rid of' the shares. Therefore, the cancellation of the shares is a disposal.
-Date of decision:
-  2 August 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Section 317
-
-Case References:
-
-Federal Commissioner of Taxation v. Wade    (1951) 84 CLR 105   (1951) 9 ATD 337
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 96/14
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/265
-
-Other References:
-
-Macquarie Dictionary 2001, rev. 3rd edn, The Macquarie Library Pty Ltd
-
-Keywords
-
-Controlled foreign companies
- Disposal of assets
- International tax
-
-Siebel/TDMS Reference Number:
-  3788010
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 September 2006
-
-ISSN:
- 1445-2782
+Date of decision: 2 August 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Section 317 Case References: Federal Commissioner of Taxation v. Wade (1951) 84 CLR 105 (1951) 9 ATD 337 Related Public Rulings (including Determinations) Taxation Ruling TR 96/14 Related ATO Interpretative Decisions ATO ID 2006/265 Other References: Macquarie Dictionary 2001, rev. 3rd edn, The Macquarie Library Pty Ltd Keywords Controlled foreign companies Disposal of assets International tax Siebel/TDMS Reference Number: 3788010 Business Line: Public Groups and International Date of publication: 22 September 2006 ISSN: 1445-2782

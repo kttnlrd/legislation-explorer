@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/45
-==================================================
-
-Fringe Benefits Tax
- Car Parking Fringe Benefits: 12 week record keeping method - change to location of car parking facilities
- FOI status: Decision Current
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Car Parking Fringe Benefits: 12 week record keeping method - change to location of car parking facilities FOI status: Decision Current CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where an employer uses the '12 week register method' for determining the taxable value of a car parking fringe benefit, will the fact that the employer later changes the location of their car parking facilities on which the taxable value has been calculated, mean that this register ceases to be valid under section 39GF of the Fringe Benefits Tax Assessment Act 1986 (FBTAA)?
 Decision
 No. The act of changing the location of the car parking facilities will not invalidate the original register under section 39GF of the FBTAA.
@@ -26,33 +15,4 @@ Section 39GF of the FBTAA contains the rules which apply to determine the FBT ye
 Under subsection 39GF(3) of the FBTAA, a register will cease to be valid if the number of car parking fringe benefits for the employer increases by more than 10% on any day in that FBT year. As the increase in car parking spaces is less than 10%, the existing register has not been invalidated by this action.
 Under subsection 39GF(4) of the FBTAA, a register that is valid for an FBT year ceases to be valid, if there is a later valid register that is kept for that FBT year that covers the same employee. As a later register has not been commenced at this stage, the original will be valid for the remaining time that it has to run in terms of subsection 39GF(1) of the FBTAA.
 The change of location of the employer car parking facilities does not mean the register that has been maintained ceases to be valid under section 39GF of the FBTAA.
-Date of decision:
-  26 February 2007
-
-Year of income:
-  Year ended 31 March 2007
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act (1986)   section 39GF   subsection 39GF(1)   subsection 39GF(2)   subsection 39GF(3)   subsection 39GF(4)
-
-Keywords
-
-Car parking fringe benefits
- Fringe benefits
- Fringe benefits tax
-
-Siebel/TDMS Reference Number:
-  5528840; 1-6DMBGMC; 1-DESS771
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  2 March 2007
-
-Date reviewed:
-  10 March 2026
-
-ISSN:
- 1445-2782
+Date of decision: 26 February 2007 Year of income: Year ended 31 March 2007 Legislative References: Fringe Benefits Tax Assessment Act (1986) section 39GF subsection 39GF(1) subsection 39GF(2) subsection 39GF(3) subsection 39GF(4) Keywords Car parking fringe benefits Fringe benefits Fringe benefits tax Siebel/TDMS Reference Number: 5528840; 1-6DMBGMC; 1-DESS771 Business Line: Superannuation and Employer Obligations Date of publication: 2 March 2007 Date reviewed: 10 March 2026 ISSN: 1445-2782

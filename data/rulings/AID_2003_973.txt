@@ -1,96 +1,28 @@
 ATO Interpretative Decision
 ATO ID 2003/973
-==================================================
-
-Income Tax
- Debt deduction: interest paid on convertible notes
- FOI status: may be released
-
-On 8 April 2024, the Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024 was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
-
- Under the new thin capitalisation rules:
-
-•the newly classified 'general class investors' will be subject to one of 3 new tests
-
-ofixed ratio test
+================================================== Income Tax Debt deduction: interest paid on convertible notes FOI status: may be released On 8 April 2024, the Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024 was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024. Under the new thin capitalisation rules: •the newly classified 'general class investors' will be subject to one of 3 new tests ofixed ratio test
 ogroup ratio test
-othird party debt test
-
-•financial entities will continue to be subject to the existing safe harbour test and worldwide gearing test or may choose the new third party debt test
+othird party debt test •financial entities will continue to be subject to the existing safe harbour test and worldwide gearing test or may choose the new third party debt test
 •ADIs will continue to be subject to the previous thin capitalisation rules
-•the arm's length debt test has been removed for all taxpayers.
-
-ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
-Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+•the arm's length debt test has been removed for all taxpayers. ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
+Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are periodic payments made by the company on convertible notes a debt deduction within the meaning of subsection 820-40(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes. The payments made by the company constitute a debt deduction as they are a cost incurred that satisfies:
-
-•subparagraph 820-40(1)(a)(i) [interest, an amount in the nature of interest, or any other amount that is calculated by reference to the time value of money], and
-•paragraph 820-40(1)(b) [apart from Division 820, the cost is deductible for the year of income] of the ITAA 1997.
-
-Facts
+Yes. The payments made by the company constitute a debt deduction as they are a cost incurred that satisfies: •subparagraph 820-40(1)(a)(i) [interest, an amount in the nature of interest, or any other amount that is calculated by reference to the time value of money], and
+•paragraph 820-40(1)(b) [apart from Division 820, the cost is deductible for the year of income] of the ITAA 1997. Facts
 An Australian resident company has raised capital by issuing unsecured notes (notes).
-The notes were issued on the following terms:
-
-•Each note has a face value of $1.00 and was issued on subscription of an amount equal to that face value
+The notes were issued on the following terms: •Each note has a face value of $1.00 and was issued on subscription of an amount equal to that face value
 •The notes have a term of four years and are repayable in four equal instalments on each anniversary date of the issue
-•The company is liable to make interest payments on the portion of the notes that remains outstanding at any time, calculated at the rate of 10% per annum on the amortised face value outstanding
-
-The issue of the notes gives rise to a debt interest under Division 974 of the ITAA 1997.
+•The company is liable to make interest payments on the portion of the notes that remains outstanding at any time, calculated at the rate of 10% per annum on the amortised face value outstanding The issue of the notes gives rise to a debt interest under Division 974 of the ITAA 1997.
 The capital raised by the notes is applied by the company in the refinancing of funds employed in the company's business.
 Reasons for Decision
 A debt deduction is defined by subsection 995-1(1) of the ITAA 1997 as having the meaning given by section 820-40 of the ITAA 1997.
-Under section 820-40 of the ITAA 1997 a debt deduction of an entity for an income year includes a cost incurred that is:
-
-•interest
+Under section 820-40 of the ITAA 1997 a debt deduction of an entity for an income year includes a cost incurred that is: •interest
 •an amount in the nature of interest, or
-•any other amount that is calculated by reference to the time value of money
-
-and which would be, apart from the operation of Division 820 of the ITAA 1997, deductible for the year of income.
+•any other amount that is calculated by reference to the time value of money and which would be, apart from the operation of Division 820 of the ITAA 1997, deductible for the year of income.
 There is not a general definition of 'interest' in the ITAA 1997. In considering its ordinary meaning, interest was described by Rowlatt J in Bennett v. Ogston (HM Inspector of Taxes)(1930) 15 TC 374 at 379 as being 'payment by time for the use of money'.
 The payments made by the company are compensation for the delay in repayment of the consideration for the acquisition of the preference shares and as such are considered to be interest payments.
 Apart from Division 820 of the ITAA 1997 (about Thin Capitalisation) the payment of interest on funds employed in the business of the company, or in the refinancing of such funds, would be deductible under section 8-1 of the ITAA 1997.
 For these reasons, the periodic payments made by the company on convertible notes are a debt deduction within the meaning of subsection 820-40(1) of the ITAA 1997.
-Date of decision:
-  9 October 2003
-
-Year of income:
-  Year ending 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 820-40   subsection 820-40(1)   subparagraph 820-40(1)(a)(i)   paragraph 820-40(1)(b)   subsection 995-1(1)   section 8-1
-
-Case References:
-
-Bennett v. Ogston (HM Inspector of Taxes)   (1930) 15 TC 374
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 95/25
-
-Keywords
-
-Debt interest
- Debt equity borderline
-
-Siebel/TDMS Reference Number:
-  3725751
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 October 2003
-
-ISSN:
- 1445-2782
+Date of decision: 9 October 2003 Year of income: Year ending 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 820-40 subsection 820-40(1) subparagraph 820-40(1)(a)(i) paragraph 820-40(1)(b) subsection 995-1(1) section 8-1 Case References: Bennett v. Ogston (HM Inspector of Taxes) (1930) 15 TC 374 Related Public Rulings (including Determinations) Taxation Ruling TR 95/25 Keywords Debt interest Debt equity borderline Siebel/TDMS Reference Number: 3725751 Business Line: Public Groups and International Date of publication: 31 October 2003 ISSN: 1445-2782

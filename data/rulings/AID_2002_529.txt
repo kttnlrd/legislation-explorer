@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/529
-==================================================
-
-Goods and Services Tax
- GST and date of effect of GST registration
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and date of effect of GST registration FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Under section 25-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), will the date of effect of the goods and services tax (GST) registration of the entity be a date before the date specified in its application for registration, where the entity commenced carrying on its enterprise and met the registration turnover threshold before the specified date?
 Decision
 Yes, under section 25-10 of the GST Act, the date of effect of the GST registration of the entity is a date before the date specified in its application for registration, where the entity commenced carrying on its enterprise and met the registration turnover threshold before the specified date.
@@ -24,50 +9,9 @@ Facts
 The entity is a company that is registered for GST. The entity is a for-profit body. The entity commenced carrying on an enterprise on a certain date, at which point the entity's projected GST turnover (as defined in section 195-1 of the GST Act) was greater than $75 000.
 The entity applied for GST registration and specified in its application that the date of effect be after the date it commenced carrying on an enterprise.
 Reasons for Decision
-Under subsection 25-10(1) of the GST Act, the Commissioner must decide the date from which an entity's registration takes effect. However, paragraph 25-10(1)(b) of the GST Act provides that if the entity applied for registration, the date of effect must not be a day before:
-
-•the day specified in the entity's application; or
-•if the Commissioner is satisfied that the entity became required to be registered on an earlier day - the day that the Commissioner is satisfied is that earlier day.
-
-In its GST registration application, the entity specified a date of effect. However, the entity commenced carrying on its enterprise at an earlier date, at which point its projected GST turnover was greater than $75 000.
-Section 23-5 of the GST Act provides that an entity is required to be registered under the GST Act if:
-
-•it is carrying on an enterprise; and
-•its GST turnover meets the registration turnover threshold.
-
-An entity has an GST turnover that meets a particular turnover threshold if its projected GST turnover is at or above the turnover threshold (paragraph 188-10(1)(b) of the GST Act). As the entity is a for-profit body, its registration turnover threshold is $75 000 (paragraph 23-15(1)(b) of the GST Act).
+Under subsection 25-10(1) of the GST Act, the Commissioner must decide the date from which an entity's registration takes effect. However, paragraph 25-10(1)(b) of the GST Act provides that if the entity applied for registration, the date of effect must not be a day before: •the day specified in the entity's application; or
+•if the Commissioner is satisfied that the entity became required to be registered on an earlier day - the day that the Commissioner is satisfied is that earlier day. In its GST registration application, the entity specified a date of effect. However, the entity commenced carrying on its enterprise at an earlier date, at which point its projected GST turnover was greater than $75 000.
+Section 23-5 of the GST Act provides that an entity is required to be registered under the GST Act if: •it is carrying on an enterprise; and
+•its GST turnover meets the registration turnover threshold. An entity has an GST turnover that meets a particular turnover threshold if its projected GST turnover is at or above the turnover threshold (paragraph 188-10(1)(b) of the GST Act). As the entity is a for-profit body, its registration turnover threshold is $75 000 (paragraph 23-15(1)(b) of the GST Act).
 When the entity first commenced carrying on its enterprise, its projected GST turnover was greater than $75 000. Therefore, at that point in time, the entity was carrying on an enterprise and its GST turnover met the registration turnover threshold. As such, the entity was required to be registered under the GST Act as at that earlier date.
-As the Commissioner was satisfied that the entity became required to be registered at an earlier date, the date of effect of the entity's GST registration will be that earlier date as opposed to the later date specified on the entity's GST registration application.
-
-Note 1: By way of example, and based on the above facts, if the entity commenced carrying on its enterprise on 1 July 2001 but specified in its application that the date of effect is 1 August 2001, the date of effect of the entity's registration will be 1 July 2001 rather than 1 August 2001.
-
-Note 2: From 1 July 2007, the GST registration threshold increased to $75,000 from $50,000 for entities other than non-profit bodies in accordance with the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) regulation 23-15.01. For non-profit bodies, the GST registration threshold increased to $150,000 from $100,000 in accordance with regulation 23-15.02 of the GST Regulations.
-
-Date of decision:
-  29 November 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 23-15.01   regulation 23-15.02
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/528
-
-Keywords
-
-Goods & services tax
- GST registration
- Required to be registered
-
-Siebel/TDMS Reference Number:
-  CW249125B
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  31 May 2002
-
-ISSN:
- 1445-2782
+As the Commissioner was satisfied that the entity became required to be registered at an earlier date, the date of effect of the entity's GST registration will be that earlier date as opposed to the later date specified on the entity's GST registration application. Note 1: By way of example, and based on the above facts, if the entity commenced carrying on its enterprise on 1 July 2001 but specified in its application that the date of effect is 1 August 2001, the date of effect of the entity's registration will be 1 July 2001 rather than 1 August 2001. Note 2: From 1 July 2007, the GST registration threshold increased to $75,000 from $50,000 for entities other than non-profit bodies in accordance with the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) regulation 23-15.01. For non-profit bodies, the GST registration threshold increased to $150,000 from $100,000 in accordance with regulation 23-15.02 of the GST Regulations. Date of decision: 29 November 2001 Legislative References: A New Tax System (Goods and Services Tax) Regulations 1999 regulation 23-15.01 regulation 23-15.02 Related ATO Interpretative Decisions ATO ID 2002/528 Keywords Goods & services tax GST registration Required to be registered Siebel/TDMS Reference Number: CW249125B Business Line: Indirect Tax Date of publication: 31 May 2002 ISSN: 1445-2782

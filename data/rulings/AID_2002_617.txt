@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/617
-==================================================
-
-Income Tax
- Uniform Capital Allowances - Balancing adjustment on the death of the owner of a depreciating asset.
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Uniform Capital Allowances - Balancing adjustment on the death of the owner of a depreciating asset. FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 What is the balancing adjustment amount under section 40-285 of the Income Tax Assessment Act 1997 (ITAA 1997) for the owner of a depreciating asset when the asset passes to the legal personal representative on the death of the owner?
 Decision
 The balancing adjustment amount worked out under section 40-285 of the ITAA 1997 is nil.
@@ -24,81 +11,17 @@ Reasons for Decision
 The taxpayer stopped holding the asset at the time of their death. Accordingly, a balancing adjustment event occurred for the asset under paragraph 40-295(1)(a) of the ITAA 1997. To work out the balancing adjustment amount, section 40-285 of the ITAA 1997 requires a comparison of the asset's termination value and its adjustable value just before the balancing adjustment event occurred. If the termination value is more than the adjustable value, the excess is included in the assessable income under subsection 40-285(1) of the ITAA 1997 as an assessable balancing adjustment amount. If the termination value is less than the adjustable value, the difference can be deducted under subsection 40-285(2) of the ITAA 1997 as a deductible balancing adjustment amount.
 When the taxpayer stopped holding the asset and the asset passed to the legal personal representative, item 9 of the termination value table in subsection 40-300(2) of the ITAA 1997 provides that the termination value of the asset is its adjustable value at the time of death (ie $17,000).
 As the termination value and the adjustable value are the same, the balancing adjustment amount is nil. Consequently, there is no amount to be either included in assessable income under subsection 40-285(1) of the ITAA 1997 or deducted under subsection 40-285(2) of the ITAA 1997.
-There are no capital gains tax implications for the asset because:
-
-•Subsection 118-24(1) of the ITAA 1997 provides that any capital gain or loss that a taxpayer makes from a CGT event, that is also a balancing adjustment event that happens to a depreciating asset the taxpayer held, is to be disregarded if the decline in value of the asset was worked out under Division 40 of the ITAA 1997.
-•Subsection 118-24(2) of the ITAA 1997 provides exclusions to the rules in subsection 118-24(1) of the ITAA 1997, including where a taxpayer makes a capital gain or capital loss from CGT event K7 (section 104-235 of the ITAA 1997) happening. CGT event K7 does not apply as the taxpayer used the asset solely for a taxable purpose. The other exclusions in subsection 118-24(2) of the ITAA 1997 also do not apply.
-
-Amendment History
-
-Date of Amendment
+There are no capital gains tax implications for the asset because: •Subsection 118-24(1) of the ITAA 1997 provides that any capital gain or loss that a taxpayer makes from a CGT event, that is also a balancing adjustment event that happens to a depreciating asset the taxpayer held, is to be disregarded if the decline in value of the asset was worked out under Division 40 of the ITAA 1997.
+•Subsection 118-24(2) of the ITAA 1997 provides exclusions to the rules in subsection 118-24(1) of the ITAA 1997, including where a taxpayer makes a capital gain or capital loss from CGT event K7 (section 104-235 of the ITAA 1997) happening. CGT event K7 does not apply as the taxpayer used the asset solely for a taxable purpose. The other exclusions in subsection 118-24(2) of the ITAA 1997 also do not apply. Amendment History Date of Amendment
 Part
-Comment
-
-13 February 2015
+Comment 13 February 2015
 Title
-Replace 'depreciable asset' with 'depreciating asset' for consistency
-
-Issue
-Amend for clarity
-
-Decision
-Amend for clarity
-
-Facts
-Replace references to 'Mr A' with 'the taxpayer' for consistency
-
-Reasons for Decision
-Insert explanations of the calculation of the balancing adjustment amount and when it is assessable or deductible
-
-Legislative References
-Insert reference to subsection 118-24(1) and 118-24(2) of the ITAA 1997
-
-Date of decision:
-  5 April 2002
-
-Year of income:
-  30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 40   Subdivision 40-B   section 40-285   subsection 40-285(1)   subsection 40-285(2)   paragraph 40-295(1)(a)   item 9, subsection 40-300(2)   section 104-235   subsection 118-24(1)   subsection 118-24(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/618
- ATO ID 2002/619
-
-Keywords
-
-Balancing adjustment event
- Termination value
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  DW367697; 1-5ZYXDN4
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  31 May 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 April 2001
-Original statement
-
-You are here
+Replace 'depreciable asset' with 'depreciating asset' for consistency Issue
+Amend for clarity Decision
+Amend for clarity Facts
+Replace references to 'Mr A' with 'the taxpayer' for consistency Reasons for Decision
+Insert explanations of the calculation of the balancing adjustment amount and when it is assessable or deductible Legislative References
+Insert reference to subsection 118-24(1) and 118-24(2) of the ITAA 1997 Date of decision: 5 April 2002 Year of income: 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Division 40 Subdivision 40-B section 40-285 subsection 40-285(1) subsection 40-285(2) paragraph 40-295(1)(a) item 9, subsection 40-300(2) section 104-235 subsection 118-24(1) subsection 118-24(2) Related ATO Interpretative Decisions ATO ID 2002/618 ATO ID 2002/619 Keywords Balancing adjustment event Termination value Uniform capital allowances system Siebel/TDMS Reference Number: DW367697; 1-5ZYXDN4 Business Line: Small Business/Individual Taxpayers Date of publication: 31 May 2002 ISSN: 1445-2782 history Date: Version: 5 April 2001
+Original statement You are here
 13 February 2015
 Updated statement

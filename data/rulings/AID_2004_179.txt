@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/179
-==================================================
-
-Income Tax
- Fixed maximum fee as a factor in determining control under section 51AD
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Fixed maximum fee as a factor in determining control under section 51AD FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a payment still be a 'fixed maximum fee' for the purpose of paragraph 19 of Taxation Ruling IT 2602 in determining whether there is control of the use of property by an end-user under subparagraph 51AD(4)(b)(ii) of the Income Tax Assessment Act 1936 (ITAA 1936), where payments are made on a 'take or pay' basis and the contract provides for a reduction in the payments where the contracted capacity is unavailable?
 Decision
 Yes. A payment will still be a 'fixed maximum fee' for the purpose of paragraph 19 of IT 2602 in determining whether there is control of the use of property by an end-user, where payments are made on a 'take or pay' basis and the contract provides for a reduction in the payments where the contracted capacity is unavailable.
@@ -26,38 +15,5 @@ Taxation Ruling IT 2602 provides that the question of control may require an exa
 Paragraph 19 of IT 2602 states that an arrangement for the payment of a fixed maximum fee would effectively limit the commercial benefits which can flow from the operation of the property by the taxpayer and might suggest the end-user rather than the taxpayer would seek to control the day-to-day operation of the property.
 Payments that are made on a take or pay basis where the payments from the end-user provide the required return to the taxpayer from the use of the property, without recourse to material income from third parties, will constitute a fixed maximum fee for the purpose of paragraph 19 of IT 2602.
 The fact that payments from the end-user under the arrangement were dependent upon the contracted service being provided, and that the payments would be reduced if the contracted capacity was not provided, was not a factor in determining whether the payments constituted a fixed maximum fee within the context of paragraph 19 of IT 2602.
-Date of decision:
-  6 February 2004
-
-Year of income:
-  Year ended 31 March 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   paragraph 51AD(4)(b)   subparagraph 51AD(4)(b)(ii)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2602
-Taxation Ruling TR 96/22
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/932
-
-Keywords
-
-Ownership, interests, control & rights
- Non recourse loans
-
-Siebel/TDMS Reference Number:
-  3232641
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  27 February 2004
-
-ISSN:
- 1445-2782
+Date of decision: 6 February 2004 Year of income: Year ended 31 March 2003 Legislative References: Income Tax Assessment Act 1936 paragraph 51AD(4)(b) subparagraph 51AD(4)(b)(ii) Related Public Rulings (including Determinations) Taxation Ruling IT 2602
+Taxation Ruling TR 96/22 Related ATO Interpretative Decisions ATO ID 2002/932 Keywords Ownership, interests, control & rights Non recourse loans Siebel/TDMS Reference Number: 3232641 Business Line: Public Groups and International Date of publication: 27 February 2004 ISSN: 1445-2782

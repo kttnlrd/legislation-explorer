@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/932
-==================================================
-
-Income Tax
- Anti-avoidance provisions: control by an exempt end-user of the use of property owned by the taxpayer for the purposes of Division 16D
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Anti-avoidance provisions: control by an exempt end-user of the use of property owned by the taxpayer for the purposes of Division 16D FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does an exempt authority 'control' for the purposes of Division 16D of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) the use of property, where that exempt authority would not be considered by the Commissioner to control the use of the property under section 51AD of the ITAA 1936?
 Decision
 No, an exempt authority will not control for the purposes of Division 16D of the ITAA 1936 the use of property, where that exempt authority would not also control the use of that property under section 51AD of the ITAA 1936.
@@ -25,36 +14,6 @@ An arrangement will constitute a 'qualifying arrangement' under subsection 159GG
 Where an arrangement is found to be a 'qualifying arrangement' and the end-user is an 'exempt public body' as defined under subsection 159GE(1) of the ITAA 1936, then the arrangement will be treated as if it were a loan by the taxpayer to enable the end-user to acquire the leased property. Effectively this means those tax deductions for the cost of or capital expenditure incurred on, the leased property (other than interest payments on funds borrowed to fund the acquisition) will not be deductible to the taxpayer.
 Taxation Ruling IT 2602 addresses control of the use of a privately owned power station by exempt state electricity authorities for the purposes of subparagraph 51AD(4)(b)(ii) of the ITAA 1936. Paragraph 6 of that Ruling notes that 'control' is defined in subsection 51AD(1) of the ITAA 1936 as meaning effectively control.
 The arrangement did not indicate that the exempt entity would effectively control the use of the property for the purposes of section 51AD of the ITAA 1936. As effective control by an exempt entity of the use of the property was not established for the purposes of section 51AD, effective control of the use of the property by the exempt entity was not established for the purposes of Division 16D of the ITAA 1936 either.
-Date of decision:
-  15 August 2002
-
-Year of income:
-  2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Subsection 51AD(1)   Subparagraph 51AD(4)(b)(ii)   Subsection 159GE(1)   Subsection 159GG(1)
-
-Related Public Rulings (including Determinations)
-
+Date of decision: 15 August 2002 Year of income: 2003 Legislative References: Income Tax Assessment Act 1936 Subsection 51AD(1) Subparagraph 51AD(4)(b)(ii) Subsection 159GE(1) Subsection 159GG(1) Related Public Rulings (including Determinations) Taxation Ruling TR 96/22
 Taxation Ruling TR 96/22
-Taxation Ruling TR 96/22
-Taxation Ruling IT 2602
-
-Keywords
-
-Ownership, interests, control & rights
- Non recourse loans
- Tax exempt body
-
-Siebel/TDMS Reference Number:
-  DW315360
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  30 September 2002
-
-ISSN:
- 1445-2782
+Taxation Ruling IT 2602 Keywords Ownership, interests, control & rights Non recourse loans Tax exempt body Siebel/TDMS Reference Number: DW315360 Business Line: Public Groups and International Date of publication: 30 September 2002 ISSN: 1445-2782

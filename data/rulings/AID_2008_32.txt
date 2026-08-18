@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/32
-==================================================
-
-Income Tax
- Consolidation: membership - eligibility to form a consolidated group where a subsidiary member holds shares in the head company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: membership - eligibility to form a consolidated group where a subsidiary member holds shares in the head company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a consolidatable group exist where a subsidiary member holds some membership interests in the head company?
 Decision
 Yes. A consolidatable group exists where a subsidiary member holds some membership interests in the head company, provided that the other conditions in subsection 703-15(2) of the Income Tax Assessment Act 1997 (ITAA 1997) are also satisfied.
@@ -22,61 +11,15 @@ A Co enters into an arrangement whereby it issues shares in itself to the shareh
 After B Co becomes a wholly-owned subsidiary of A Co, but prior to the share buy-back by A Co of the shares that B Co holds in A Co, A Co chooses to form a consolidated group pursuant to section 703-50 of the ITAA 1997.
 Reasons for Decision
 A consolidated group comes into existence when a head company makes a choice to consolidate a consolidatable group. Under section 703-10 of the ITAA 1997, a consolidatable group consists of a single Australian resident head company and at least one wholly-owned resident subsidiary member (which may be a company, trust or partnership). Section 703-20 of the ITAA 1997 prevents certain types of entities from being a head company or subsidiary member of a consolidatable or consolidated group and section 703-25 of the ITAA 1997 provides specific Australian resident requirements for trusts.
-The criteria for eligibility to be a head company of a consolidated group are contained in item 1 of the table in subsection 703-15(2) of the ITAA 1997. To be a head company, the entity must:
-
-•be a company that has all or some of its taxable income taxed at a rate equal to the general company tax rate;
+The criteria for eligibility to be a head company of a consolidated group are contained in item 1 of the table in subsection 703-15(2) of the ITAA 1997. To be a head company, the entity must: •be a company that has all or some of its taxable income taxed at a rate equal to the general company tax rate;
 •be an Australian resident, but not a prescribed dual resident;
 •not be excluded from being a member of a consolidatable or consolidated group; and
-•not be a wholly-owned subsidiary member of a consolidated group or a group that is eligible to consolidate.
-
-On the basis that A Co meets the criteria contained in item 1 of the table in subsection 703-15(2) of the ITAA 1997, it is eligible to be the head company.
-The criteria for eligibility to be a subsidiary member of a consolidated group are contained in item 2 of the table in subsection 703-15(2) of the ITAA 1997. To be a subsidiary member, the entity must:
-
-•be a company, trust or partnership, and must not be an entity that is excluded from being a member of a consolidated group;
+•not be a wholly-owned subsidiary member of a consolidated group or a group that is eligible to consolidate. On the basis that A Co meets the criteria contained in item 1 of the table in subsection 703-15(2) of the ITAA 1997, it is eligible to be the head company.
+The criteria for eligibility to be a subsidiary member of a consolidated group are contained in item 2 of the table in subsection 703-15(2) of the ITAA 1997. To be a subsidiary member, the entity must: •be a company, trust or partnership, and must not be an entity that is excluded from being a member of a consolidated group;
 •have some of its taxable income taxed at a rate equal to the general company tax rate, if a company;
 •be an Australian resident, but not a prescribed dual resident; and
-•be a wholly-owned subsidiary of the head company.
-
-The definition of a 'wholly-owned subsidiary' is contained in section 703-30 of the ITAA 1997. A subsidiary entity is wholly-owned by the head company if all the membership interests in that subsidiary are beneficially owned by the head company or its wholly-owned subsidiaries, or a combination of the head company and its wholly-owned subsidiaries.
+•be a wholly-owned subsidiary of the head company. The definition of a 'wholly-owned subsidiary' is contained in section 703-30 of the ITAA 1997. A subsidiary entity is wholly-owned by the head company if all the membership interests in that subsidiary are beneficially owned by the head company or its wholly-owned subsidiaries, or a combination of the head company and its wholly-owned subsidiaries.
 The term membership interest refers to all the interests and rights that you have in a company, partnership or trust by virtue of which you are a member.
 B Co meets the above criteria. It is taxed at the company tax rate; it is not one of the excluded entities listed in section 703-20 of the ITAA 1997; it is an Australian resident and all of its membership interests will be owned by A Co.
 Since A Co is eligible to be the head company of a consolidatable group and B Co is eligible to be a subsidiary member, together they constitute a consolidatable group and are therefore eligible to form a consolidated group under section 703-50 of the ITAA 1997.
-Date of decision:
-  7 February 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 703-10   section 703-15   section 703-20   section 703-25   section 703-30   section 703-50
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/619
-
-Other References:
-
-Consolidation Reference manual (26 October 2005) at C1-1
-
-Keywords
-
-Consolidated group
- Consolidation
- Consolidation - membership
- Head company
- Membership interest in an entity
- Subsidiary member of a consolidated group
- Wholly owned subsidiary
-
-Siebel/TDMS Reference Number:
-  5904661
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  15 February 2008
-
-ISSN:
- 1445-2782
+Date of decision: 7 February 2008 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 703-10 section 703-15 section 703-20 section 703-25 section 703-30 section 703-50 Related ATO Interpretative Decisions ATO ID 2004/619 Other References: Consolidation Reference manual (26 October 2005) at C1-1 Keywords Consolidated group Consolidation Consolidation - membership Head company Membership interest in an entity Subsidiary member of a consolidated group Wholly owned subsidiary Siebel/TDMS Reference Number: 5904661 Business Line: Consolidation Centre of Expertise Date of publication: 15 February 2008 ISSN: 1445-2782

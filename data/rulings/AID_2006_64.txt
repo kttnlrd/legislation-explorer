@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/64
-==================================================
-
-Income Tax
- Tax implications of the functional currency transitional rules on foreign denominated liabilities
- FOI status: may be released
-
-This ATO ID is withdrawn from the database following the decision of the Full Federal Court in Commissioner of Taxation v Messenger Press Pty Ltd [2013] FCAFC 77. Refer to the Decision Impact Statement published on 19 September 2013 in relation to that decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Tax implications of the functional currency transitional rules on foreign denominated liabilities FOI status: may be released This ATO ID is withdrawn from the database following the decision of the Full Federal Court in Commissioner of Taxation v Messenger Press Pty Ltd [2013] FCAFC 77. Refer to the Decision Impact Statement published on 19 September 2013 in relation to that decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a foreign currency denominated borrowing is repaid in full in the currency of the borrowing, will there be a gain included in assessable income or loss allowed as a deduction under the former Division 3B of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) if that borrowing has been subject to the special translation rule in section 960-85 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. Where a foreign currency denominated borrowing is repaid in full in the currency of the borrowing, there will not be a gain included in assessable income or loss allowed as a deduction under the former Division 3B of Part III of the ITAA 1936 if that borrowing has been subject to the special translation rule in section 960-85 of the ITAA 1997.
@@ -33,68 +18,12 @@ Reasons for Decision
 The former Division 3B of Part III of the ITAA 1936 operated to bring to tax certain currency exchange gains and losses made by a taxpayer. Despite its repeal, that Division continues to apply in relation to eligible contracts entered into before a taxpayer's applicable commencement date (within the meaning of Division 775 of the ITAA 1997) (paragraph 77(1)(a) of Schedule 4 to the New Business Tax System (Taxation of Financial Arrangements) Act (No 1) 2003). Being an 'eligible contract' entered into before the company's applicable commencement date, former Division 3B will therefore apply in respect of the company's loan contract.
 However, the former Division 3B of Part III of the ITAA 1936 will only apply in relation to gains and losses to the extent to which they are of a capital nature (see former subsection 82U(1) of the ITAA 1936). As the company's borrowing was on capital account, any gain or loss arising on repayment will also be of a capital nature (FC of T v. Hunter Douglas Ltd 83 ATC 4562; (1983) 14 ATR 629).
 Therefore, any currency exchange gains made by the company under the loan contract will be included in its assessable income under former section 82Y of the ITAA 1936 and any currency exchange losses incurred by the company under the loan contract will be deductible to it under former subsection 82Z(1) of the ITAA 1936.
-Former subsection 82V(1) of the ITAA 1936 defined 'currency exchange' gains and losses as gains and losses to the extent to which they are attributable to currency exchange fluctuations. Whether there can be currency exchange gains or losses where an amount is borrowed and repaid in the same foreign currency was considered by the High Court in Federal Commissioner of Taxation v. Energy Resources of Australia (1996) 185 CLR 66; 96 ATC 4536; (1996) 33 ATR 52. There, the High Court in considering the application of Division 3B of Part III of the ITAA 1936 stated at (1996) 185 CLR 66 at 79; 96 ATC 4536 at 4542; (1996) 33 ATR 52 at 58-59:
-
-Where a taxpayer borrows money on capital account in US dollars and repays the loan in US dollars, it makes no revenue profit or loss from the borrowing even though the exchange rate may be different at each date. Indeed, arguably it makes no profit or loss. If it converts the US dollars it receives into Australian dollars and then converts Australian dollars into US dollars to repay the loan, it may make a profit or loss on the transaction. But the profit or loss results from the exchange transaction and not from the borrowing.
-
-The High Court went on to conclude at (1996) 185 CLR 66 at 81; 96 ATC 4536 at 4543; (1996) 33 ATR 52 at 6:
-
-... for the reasons that we have already given, the taxpayer made no currency exchange gain or loss. The unit of account and the unit of payment under the contract or contracts involved in this case were US dollars. The taxpayer made no gain or loss under those contracts that was "attributable to currency exchange rate fluctuations".
-
-The amount of the company's liability for tax purposes, in USD terms was changed as a result of the special translation rule in item 1 of subsection 960-85(1) of the ITAA 1997. The intended effect of the operation of the special translation rule was to embed any currency exchange fluctuation between the time of the borrowing and the time of making the functional currency choice into the amount of the company's liability for tax purposes (see paragraph 3.84 of the Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No. 1) 2003).
+Former subsection 82V(1) of the ITAA 1936 defined 'currency exchange' gains and losses as gains and losses to the extent to which they are attributable to currency exchange fluctuations. Whether there can be currency exchange gains or losses where an amount is borrowed and repaid in the same foreign currency was considered by the High Court in Federal Commissioner of Taxation v. Energy Resources of Australia (1996) 185 CLR 66; 96 ATC 4536; (1996) 33 ATR 52. There, the High Court in considering the application of Division 3B of Part III of the ITAA 1936 stated at (1996) 185 CLR 66 at 79; 96 ATC 4536 at 4542; (1996) 33 ATR 52 at 58-59: Where a taxpayer borrows money on capital account in US dollars and repays the loan in US dollars, it makes no revenue profit or loss from the borrowing even though the exchange rate may be different at each date. Indeed, arguably it makes no profit or loss. If it converts the US dollars it receives into Australian dollars and then converts Australian dollars into US dollars to repay the loan, it may make a profit or loss on the transaction. But the profit or loss results from the exchange transaction and not from the borrowing. The High Court went on to conclude at (1996) 185 CLR 66 at 81; 96 ATC 4536 at 4543; (1996) 33 ATR 52 at 6: ... for the reasons that we have already given, the taxpayer made no currency exchange gain or loss. The unit of account and the unit of payment under the contract or contracts involved in this case were US dollars. The taxpayer made no gain or loss under those contracts that was "attributable to currency exchange rate fluctuations". The amount of the company's liability for tax purposes, in USD terms was changed as a result of the special translation rule in item 1 of subsection 960-85(1) of the ITAA 1997. The intended effect of the operation of the special translation rule was to embed any currency exchange fluctuation between the time of the borrowing and the time of making the functional currency choice into the amount of the company's liability for tax purposes (see paragraph 3.84 of the Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No. 1) 2003).
 Note however that the special translation rule did not convert or exchange the company's liability into USD (given that it was already in USD). In respect of the company's borrowing, the borrowed sum (the unit of account) and the amount repaid (the unit of payment) were both in USD. No actual conversion to any other currency occurred. On these facts, irrespective of the operation of the special translation rule, it cannot be said that there is a currency exchange gain or loss made by the company under the relevant eligible contract (being the loan contract).
 Accordingly, there is no amount assessable or allowable as a deduction to the company under the former Division 3B of Part III of the ITAA 1936 upon repayment of the company's borrowing.
-Date of decision:
-  28 February 2006
-
-Year of income:
-  Year ended 31 December 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 775-150   subsection 960-60(1)   section 960-85   subsection 960-85(1)
-Income Tax Assessment Act 1936   Division 3B of Part III   subsection 82U(1)   subsection 82V(1)   subsection 82Y   subsection 82Z(1)
-New Business Tax System (Taxation of Financial Arrangements) Act (No 1) 2003   Paragraph 77(1)(a) of Schedule 4
-
-Case References:
-
-Federal Commissioner of Taxation v. Energy Resources of Australia Ltd   (1996) 185 CLR 66   96 ATC 4536   33 ATR 52
-
-FC of T v. Hunter Douglas Ltd   83 ATC 4562   (1983) 14 ATR 629
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No 1) 2003
- Paragraph 3.84
-
-Keywords
-
-Foreign currency translation
- Foreign exchange gains and losses
- Functional currency
- Functional currency choice
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  3 March 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-28 February 2006
-Original statement
-
-You are here
+Date of decision: 28 February 2006 Year of income: Year ended 31 December 2006 Legislative References: Income Tax Assessment Act 1997 section 775-150 subsection 960-60(1) section 960-85 subsection 960-85(1)
+Income Tax Assessment Act 1936 Division 3B of Part III subsection 82U(1) subsection 82V(1) subsection 82Y subsection 82Z(1)
+New Business Tax System (Taxation of Financial Arrangements) Act (No 1) 2003 Paragraph 77(1)(a) of Schedule 4 Case References: Federal Commissioner of Taxation v. Energy Resources of Australia Ltd (1996) 185 CLR 66 96 ATC 4536 33 ATR 52 FC of T v. Hunter Douglas Ltd 83 ATC 4562 (1983) 14 ATR 629 Other References: Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No 1) 2003 Paragraph 3.84 Keywords Foreign currency translation Foreign exchange gains and losses Functional currency Functional currency choice Business Line: Private Groups and High Wealth Individuals Date of publication: 3 March 2006 ISSN: 1445-2782 history Date: Version: 28 February 2006
+Original statement You are here
 20 December 2013
 Archived

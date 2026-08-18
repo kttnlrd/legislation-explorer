@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/320
-==================================================
-
-Income Tax
- Foreign exchange (forex) gains and losses: bank account opened before 19 February 1986
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign exchange (forex) gains and losses: bank account opened before 19 February 1986 FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are forex realisation gains and losses made as a result of the withdrawal of funds deposited on or after 1 July 2003 into a foreign currency denominated bank account opened before 19 February 1986 brought to account for the purposes of Division 775 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. Forex realisation gains and losses made as a result of the withdrawal of funds from a foreign currency denominated bank account opened before 19 February 1986 are taken into account in determining taxable income but only to the extent that they are made as a result of the withdrawal of funds deposited on or after 1 July 2003.
@@ -30,50 +17,4 @@ This does not mean that each deposit made by a customer represents a new contrac
 The taxpayer's right to receive the balance standing to the credit of their foreign account is a relevant right within the terms of subparagraph 775-45(1)(b)(iii) of the ITAA 1997. Pursuant to subsection 775-45(2) of the ITAA 1997, FRE 2 happens when the taxpayer withdraws the credit balance of the foreign account or any part of it.
 As the taxpayer did not make a transitional election under section 775-150 of the ITAA 1997, subparagraph 775-165(2)(a)(i) of the ITAA 1997 operates to disregard any forex realisation gains or losses made as a result of FRE 2 happening to a right or part of a right acquired before the applicable commencement date. To the extent the balance standing to the credit of the foreign account consists of deposits made before 1 July 2003, this part of the right was be acquired before the applicable commencement date and any forex realisation gain or loss made upon a withdrawal of these funds is disregarded pursuant to subparagraph 775-165(2)(a)(i) of the ITAA 1997.
 Because currency within a bank account is 'fungible', there is difficulty in identifying which particular units of currency are withdrawn from the foreign account at the time of withdrawal. However, to determine which withdrawals relate to deposits made on or after 1 July 2003, subsection 775-145(1) of the ITAA 1997 provides that a first-in first-out ordering rule be applied to determine from which deposits a particular withdrawal is made.
-Date of decision:
-  20 November 2006
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 775-45(1)   subparagraph 775-45(1)(b)(iii)   subsection 775-45(2)   subsection 775-145(1)   subsection 775-150   subsection 775-155   subparagraph 775-165(2)(a)(i)
-
-Case References:
-
-Foley v Hill and Ors   (1848) 2 HL Cas 28   [1843-60] All ER Rep 16
-
-Hart (Inspector of Taxes) v Sangster   [1957] 1 Ch 329   [1957] 2 All ER 208   [1984] AC 580
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/855
-
-Keywords
-
-Bank accounts
- Banking, finance & securities
- Foreign currency
- Foreign currency rights
- Foreign exchange gains and losses
- Forex realisation event
- Forex realisation gain
- Forex realisation loss
- Fungible rights and obligations
- Transitional election
-
-Siebel/TDMS Reference Number:
-  5318915; 1-DKWZFW3
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  24 November 2006
-
-Date reviewed:
-  1 February 2018
-
-ISSN:
- 1445-2782
+Date of decision: 20 November 2006 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 subsection 775-45(1) subparagraph 775-45(1)(b)(iii) subsection 775-45(2) subsection 775-145(1) subsection 775-150 subsection 775-155 subparagraph 775-165(2)(a)(i) Case References: Foley v Hill and Ors (1848) 2 HL Cas 28 [1843-60] All ER Rep 16 Hart (Inspector of Taxes) v Sangster [1957] 1 Ch 329 [1957] 2 All ER 208 [1984] AC 580 Related ATO Interpretative Decisions ATO ID 2004/855 Keywords Bank accounts Banking, finance & securities Foreign currency Foreign currency rights Foreign exchange gains and losses Forex realisation event Forex realisation gain Forex realisation loss Fungible rights and obligations Transitional election Siebel/TDMS Reference Number: 5318915; 1-DKWZFW3 Business Line: Private Groups and High Wealth Individuals Date of publication: 24 November 2006 Date reviewed: 1 February 2018 ISSN: 1445-2782

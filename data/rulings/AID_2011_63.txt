@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/63
-==================================================
-
-Income Tax
- Employee Share Scheme: director solely remunerated by options which are subsequently lost without being exercised
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2008-2009 income year. Despite its withdrawal, this ATO ID continues to be precedential ATO view in respect of decisions for income years up to, and including, the 2008-2009 income years.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Employee Share Scheme: director solely remunerated by options which are subsequently lost without being exercised FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2008-2009 income year. Despite its withdrawal, this ATO ID continues to be precedential ATO view in respect of decisions for income years up to, and including, the 2008-2009 income years. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does former section 139DD of the Income Tax Assessment Act 1936 (ITAA 1936) treat options as if they were never acquired by a director if the options were provided as the director's sole remuneration but were subsequently lost without being exercised?
 Decision
 No. Where a director's only remuneration was in the form of options issued by the company, former section 139DD of the ITAA 1936 does not apply to treat those options as if they were never acquired where those options are subsequently lost without being exercised.
@@ -32,63 +17,15 @@ The director was at all relevant times an Australian resident within the meaning
 Neither former section 26AAC of the ITAA 1936, nor Division 83A of the Income Tax Assessment Act 1997 (ITAA 1997) applies in relation to the receipt of the options.
 Reasons for Decision
 Former Division 13A of the ITAA 1936 provided for the taxation treatment of shares and rights acquired prior to 1 July 2009 under employee share schemes.
-Former section 139DD of the ITAA 1936 provides that a right to acquire a share in a company is never acquired by a taxpayer if both of the following two requirements are satisfied:
-
-•the taxpayer loses the right without having exercised it; and
-•the company was, at the time the right was acquired, the employer of the taxpayer or a holding company of the employer of the taxpayer.
-
-'Employer' is relevantly defined by former subsection 139GA(3) of the ITAA 1936 to be a person who pays, or is liable to pay work and income support related withholding payments and benefits.
-'Work and income support related withholding payments and benefits' are in turn relevantly defined in subsection 6(1) of the ITAA 1936 to include:
-
-•payments from which an amount must be withheld under a provision of Subdivision 12-B in Schedule 1 (other than section 12-55) to the Tax Administration Act 1953 (TAA); and
-•certain non-cash benefits in relation to which an amount must be paid to the Commissioner under Division 14 in Schedule 1 to the TAA.
-
-As the director's only remuneration from the company was in the form of options provided under an employee share scheme, no payment was made to the director from which an amount must be withheld under a provision of Subdivision 12-B in Schedule 1 to the TAA.
+Former section 139DD of the ITAA 1936 provides that a right to acquire a share in a company is never acquired by a taxpayer if both of the following two requirements are satisfied: •the taxpayer loses the right without having exercised it; and
+•the company was, at the time the right was acquired, the employer of the taxpayer or a holding company of the employer of the taxpayer. 'Employer' is relevantly defined by former subsection 139GA(3) of the ITAA 1936 to be a person who pays, or is liable to pay work and income support related withholding payments and benefits.
+'Work and income support related withholding payments and benefits' are in turn relevantly defined in subsection 6(1) of the ITAA 1936 to include: •payments from which an amount must be withheld under a provision of Subdivision 12-B in Schedule 1 (other than section 12-55) to the Tax Administration Act 1953 (TAA); and
+•certain non-cash benefits in relation to which an amount must be paid to the Commissioner under Division 14 in Schedule 1 to the TAA. As the director's only remuneration from the company was in the form of options provided under an employee share scheme, no payment was made to the director from which an amount must be withheld under a provision of Subdivision 12-B in Schedule 1 to the TAA.
 The options granted to the director are rights acquired under an employee share scheme within the meaning of former Division 13A of the ITAA 1936. While they are non-cash benefits, former paragraph 14-5(3)(d) of Division 14 in Schedule 1 to the TAA (as applicable at the time the director received the options) specifically excludes such employee share scheme benefits from the operation of that Division.
 Thus, at the time the options were provided, the company was not the employer of the taxpayer or a holding company of the employer of the taxpayer.
 Accordingly, although the options were lost without being exercised, the director is not able to treat the options as if they had never been acquired under former section 139DD of the ITAA 1936. Nor can they request an amendment to have the value of the options excluded from their assessment for the year the options were acquired.
-Date of decision:
-  25 July 2011
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 26AAC   Division 13A of Part III   section 139DD   subsection 139GA(3)
-Income Tax Assessment Act 1997   Division 83A
-Taxation Administration Act 1953   Subdivision 12-B of Schedule 1   Division 14 of Schedule 1   paragraph 14-5(3)(d)
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2011/32
-
-Keywords
-
-Employee share schemes & options
- Directors remuneration
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  19 August 2011
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-25 July 2011
-Original statement
-
-You are here
- 5 June 2015
+Date of decision: 25 July 2011 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 26AAC Division 13A of Part III section 139DD subsection 139GA(3)
+Income Tax Assessment Act 1997 Division 83A
+Taxation Administration Act 1953 Subdivision 12-B of Schedule 1 Division 14 of Schedule 1 paragraph 14-5(3)(d) ATO Interpretative Decisions overturned by this decision ATO ID 2011/32 Keywords Employee share schemes & options Directors remuneration Business Line: Private Groups and High Wealth Individuals Date of publication: 19 August 2011 ISSN: 1445-2782 history Date: Version: 25 July 2011
+Original statement You are here 5 June 2015
 Archived

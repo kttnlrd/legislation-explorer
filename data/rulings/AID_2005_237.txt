@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/237
-==================================================
-
-Income Tax
- PAYG Instalment Income and Employee Share Scheme
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax PAYG Instalment Income and Employee Share Scheme FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the discount that a taxpayer receives, as an employee, on a qualifying right that the taxpayer acquires under an employee share acquisition scheme included in the taxpayer's PAYG instalment income if the taxpayer does not make an election under subsection 139E(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No, the discount that the taxpayer, an employee receives, on a qualifying right that the taxpayer acquires under an employee acquisition share scheme is not included in the taxpayer's PAYG instalment income if the taxpayer does not make an election under subsection 139E(1) of the ITAA 1936.
@@ -25,68 +12,14 @@ Reasons for Decision
 Section 45-120 of Schedule 1 to the Taxation Administration Act 1953 (TAA) provides that instalment income for a period includes ordinary income derived during that period, but only to the extent that it is assessable income of the income year that is or includes that period.
 Under subsection 139B(1) of the ITAA 1936, if a taxpayer has acquired a right under an employee share scheme, the assessable income of the taxpayer includes the discount in relation to the share or right.
 In relation to a qualifying right, the discount on the right is not included in the taxpayer's assessable income in the year of income in which the right is acquired if the taxpayer has not made an election under subsection 139E(1) of the ITAA 1936 for the year of income in which the share or right is acquired. Rather, the discount is included in the taxpayer's assessable income of the year in which the cessation time occurs under subsection 139B(3) of the ITAA 1936. In this case, the discount is not included in the taxpayer's instalment income in the year that the rights were acquired because the discount is not assessable in that year. In the later income year (cessation time), the discount is not included in the taxpayer's instalment income because the discount is not ordinary income derived in the later year.
-Accordingly, the discount that the taxpayer, an employee receives, on a qualifying right granted under an employee acquisition share scheme is not included in the taxpayer's PAYG instalment income if the taxpayer does not make an election under subsection 139E(1) of the ITAA 1936.
-
-Note: This ATO ID also applies to discounts received on qualifying shares.
-
-Amendment History
-
-Date of amendment
+Accordingly, the discount that the taxpayer, an employee receives, on a qualifying right granted under an employee acquisition share scheme is not included in the taxpayer's PAYG instalment income if the taxpayer does not make an election under subsection 139E(1) of the ITAA 1936. Note: This ATO ID also applies to discounts received on qualifying shares. Amendment History Date of amendment
 Part
-Comment
-
-23 May 2014
+Comment 23 May 2014
 Reasons for Decision
 Edited for clarity
-Amend reference to section 45 120 of Schedule 1 to the TAA 1953
-
-Legislative reference
-Amend reference to section 45 120 of Schedule 1 to the TAA 1953
-
-Date of decision:
-  4 August 2005
-
-Year of income:
-  Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 139B   section 139E
-Taxation Administration Act 1953   section 45-120 of Schedule 1
-
-Keywords
-
-Employee share schemes & options
- PAYG instalment income
- Qualifying rights
-
-Siebel/TDMS Reference Number:
-  4434826; 1-CVAJEOC
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  12 August 2005
-
-Date reviewed:
-  23 October 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 4 August 2005
-Original statement
-
-You are here
+Amend reference to section 45 120 of Schedule 1 to the TAA 1953 Legislative reference
+Amend reference to section 45 120 of Schedule 1 to the TAA 1953 Date of decision: 4 August 2005 Year of income: Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1936 section 139B section 139E
+Taxation Administration Act 1953 section 45-120 of Schedule 1 Keywords Employee share schemes & options PAYG instalment income Qualifying rights Siebel/TDMS Reference Number: 4434826; 1-CVAJEOC Business Line: Private Groups and High Wealth Individuals Date of publication: 12 August 2005 Date reviewed: 23 October 2017 ISSN: 1445-2782 history Date: Version: 4 August 2005
+Original statement You are here
 23 May 2014
 Updated statement

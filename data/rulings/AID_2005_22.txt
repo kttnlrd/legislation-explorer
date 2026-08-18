@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/22
-==================================================
-
-Income Tax
- The meaning of financial intermediation services in the context of the Foreign Investment Funds measures?
- FOI status: may be released
-
-This ATO ID has been withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-2010 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax The meaning of financial intermediation services in the context of the Foreign Investment Funds measures? FOI status: may be released This ATO ID has been withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-2010 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether the Singapore Exchange Limited (SGX) is principally engaged in providing 'financial intermediation services' within the meaning of paragraph (b) of Schedule 4 to the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The SGX is not principally engaged in providing financial intermediation services within the meaning of paragraph (b) of Schedule 4 to the ITAA 1936.
@@ -25,104 +10,16 @@ The SGX owns and operates the Singapore Exchange, an integrated securities and d
 Reasons for Decision
 Section 497 of the ITAA 1936 provides that the Foreign Investment Fund (FIF) measures will not apply to an investment in a foreign company where that foreign company is principally engaged in eligible activities. Section 496 of the ITAA 1936 effectively defines eligible activities as those business or service activities other than those listed in Schedule 4 to the ITAA 1936. Financial intermediation services are listed at paragraph (b) of Schedule 4 to the ITAA 1936.
 Financial intermediation services is not a defined term within the ITAA 1936 and the Explanatory Memorandum provides no further assistance as to what meaning should be attributed to the term.
-Chapter 5 of the Explanatory Memorandum does however provide the rationale for the 'black list approach' as follows:
-
-The 'black list' approach in Schedule 4 of specifying non-eligible activities benefits a taxpayer because the scope of the measures are narrowed through specifying activities which are targeted by the FIF measures. Consequently, interpretation issues and compliance costs are kept to a minimum.
-
-The Concise Oxford Dictionary 8th edition, 1990 provides the following definitions:
-
-financial 1
- of finance
-
-finance 1
- the management of (esp. public) money
-
-intermediate
- coming between two things in time, place, order character, etc -n.
- 1
- an intermediate thing.
-
-Note that the word 'intermediation' is a derivative of the word 'intermediate'.
+Chapter 5 of the Explanatory Memorandum does however provide the rationale for the 'black list approach' as follows: The 'black list' approach in Schedule 4 of specifying non-eligible activities benefits a taxpayer because the scope of the measures are narrowed through specifying activities which are targeted by the FIF measures. Consequently, interpretation issues and compliance costs are kept to a minimum. The Concise Oxford Dictionary 8th edition, 1990 provides the following definitions: financial 1 of finance finance 1 the management of (esp. public) money intermediate coming between two things in time, place, order character, etc -n. 1 an intermediate thing. Note that the word 'intermediation' is a derivative of the word 'intermediate'.
 The dictionary definitions of the above individual terms provide little guidance in determining the ordinary meaning of the term financial intermediation services in the context of the FIF regime. The summation of the above terms would create an extremely broad definition which would be contrary to the intention of the legislation. That is, to narrowly confine the type of activities which would attract the FIF measures.
-By circular reasoning, financial intermediation services are those services provided by a financial intermediary. For the purposes of Part X of the ITAA 1936 (Controlled Foreign Companies), section 317 of the ITAA 1936 defines a 'financial intermediary business' as:
-
-(a)banking business; or
-(b)a business whose income is principally derived from the lending of money.
-
-If the definition of financial intermediation services was to be interpreted narrowly as limited to banking or money lending, then the inclusion of this activity at paragraph (b) would add little to the activity already listed in paragraph (a) as follows:
-
-banking and the provision of finance.
-
-Further, it is clear that the definition of a financial intermediary business in Part X of the ITAA 1936 was not taken up in defining the activities listed at paragraph (b) of Schedule 4 to the ITAA 1936. This can be contrasted by reference to paragraph (c) of Schedule 4 to the ITAA 1936 which is as follows:
-
-Investment in tainted assets, or tainted commodity investments, within the meaning of section 317.
-
-That is, paragraph (c) of Schedule 4 to the ITAA 1936 specifically refers back to the meaning given within section 317 of the ITAA 1936. Therefore whilst the above definition of a financial intermediary business is instructive, it does not serve to describe financial intermediation services which must take a broader meaning than solely that of banking, provision of finance and/or a money lending activity.
-The Federal Treasurer in June 1996 established an inquiry into Australia's financial system which was chaired by Mr Stan Wallis. A discussion paper published by the Financial System Inquiry, defined financial intermediaries in the context of the financial system at paragraph 2.16 in the following terms:
-
-As noted in Chapter 1, the financial system performs a variety of functions which are conducted either through financial intermediaries or through financial markets.
-
-•Financial intermediaries are institutions standing between savers and borrowers (or more generally between those with financial surpluses and those with deficits) and include banks, non-bank deposit-taking institutions, life offices, general insurance companies, superannuation funds, other collective investment funds and several other types of entities.
-•Financial markets include exchanges and over the counter (OTC) markets, in which financial assets are directly traded between participants (either financial intermediaries or ultimate borrowers and lenders).
-
-Essentially the discussion paper categorises financial intermediaries between bank and non bank financial intermediaries and contrasts their role in the financial system with that which is provided by financial markets.
+By circular reasoning, financial intermediation services are those services provided by a financial intermediary. For the purposes of Part X of the ITAA 1936 (Controlled Foreign Companies), section 317 of the ITAA 1936 defines a 'financial intermediary business' as: (a)banking business; or
+(b)a business whose income is principally derived from the lending of money. If the definition of financial intermediation services was to be interpreted narrowly as limited to banking or money lending, then the inclusion of this activity at paragraph (b) would add little to the activity already listed in paragraph (a) as follows: banking and the provision of finance. Further, it is clear that the definition of a financial intermediary business in Part X of the ITAA 1936 was not taken up in defining the activities listed at paragraph (b) of Schedule 4 to the ITAA 1936. This can be contrasted by reference to paragraph (c) of Schedule 4 to the ITAA 1936 which is as follows: Investment in tainted assets, or tainted commodity investments, within the meaning of section 317. That is, paragraph (c) of Schedule 4 to the ITAA 1936 specifically refers back to the meaning given within section 317 of the ITAA 1936. Therefore whilst the above definition of a financial intermediary business is instructive, it does not serve to describe financial intermediation services which must take a broader meaning than solely that of banking, provision of finance and/or a money lending activity.
+The Federal Treasurer in June 1996 established an inquiry into Australia's financial system which was chaired by Mr Stan Wallis. A discussion paper published by the Financial System Inquiry, defined financial intermediaries in the context of the financial system at paragraph 2.16 in the following terms: As noted in Chapter 1, the financial system performs a variety of functions which are conducted either through financial intermediaries or through financial markets. •Financial intermediaries are institutions standing between savers and borrowers (or more generally between those with financial surpluses and those with deficits) and include banks, non-bank deposit-taking institutions, life offices, general insurance companies, superannuation funds, other collective investment funds and several other types of entities.
+•Financial markets include exchanges and over the counter (OTC) markets, in which financial assets are directly traded between participants (either financial intermediaries or ultimate borrowers and lenders). Essentially the discussion paper categorises financial intermediaries between bank and non bank financial intermediaries and contrasts their role in the financial system with that which is provided by financial markets.
 From the above, it is evident that services provided by financial intermediaries may be provided by both the bank and the non bank sector. This is consistent with the structure of Schedule 4 to the ITAA 1936. Banking activity would qualify as a financial intermediary business pursuant to section 317 of the ITAA 1936 and would also fall under paragraph (a) of Schedule 4 to the ITAA 1936. Paragraph (b) of Schedule 4 to the ITAA 1936 serves to catch financial intermediation services provided by non bank financial intermediaries which would not otherwise be caught by paragraph (a) or the remaining paragraphs of Schedule 4. This provides a balance so that like activities which derive passive income will attract the FIF measures regardless of whether they are provided by the bank or non bank sector.
-The approach taken by the Wallis Inquiry in contrasting the roles of financial intermediaries and financial markets is consistent with that adopted by the Australian Bureau of Statistics (ABS). Chapter 26 of the Australian Bureau of Statistics 2004 Year Book Australia deals with the financial system. Financial markets are described at page 711 as follows:
-
-Financial markets are used by participants to either raise funds (e.g. by issuing securities) or invest savings (by buying securities and other financial assets). The major markets in the Australian financial system include the share market, bond market and money market.
-
-Under the heading of financial markets, the Year Book goes onto describe the national operation of the Australian stock market by the Australian Stock Exchange (ASX) which provides:
-
-a mechanism for trading equities (shares), units in trusts, options, and some fixed-interest securities.
-
-By inference, the ASX is not a financial intermediary. Similarly SGX is not a financial intermediary.
+The approach taken by the Wallis Inquiry in contrasting the roles of financial intermediaries and financial markets is consistent with that adopted by the Australian Bureau of Statistics (ABS). Chapter 26 of the Australian Bureau of Statistics 2004 Year Book Australia deals with the financial system. Financial markets are described at page 711 as follows: Financial markets are used by participants to either raise funds (e.g. by issuing securities) or invest savings (by buying securities and other financial assets). The major markets in the Australian financial system include the share market, bond market and money market. Under the heading of financial markets, the Year Book goes onto describe the national operation of the Australian stock market by the Australian Stock Exchange (ASX) which provides: a mechanism for trading equities (shares), units in trusts, options, and some fixed-interest securities. By inference, the ASX is not a financial intermediary. Similarly SGX is not a financial intermediary.
 The SGX either constitutes or operates a financial market and accordingly is not a financial intermediary. It follows with reference to both the Wallis Inquiry and the ABS, the SGX would not be principally engaged in financial intermediation services.
-Date of decision:
-  17 December 2004
-
-Year of income:
-  Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 4   section 317   section 496   section 497
-
-Other References:
-
-The Concise Oxford Dictionary 8th Edition, 1990
- Explanatory Memorandum to the Income Tax Assessment Amendment (Foreign Investment) Bill 1992, House of Representatives
- The Wallis Inquiry - Financial System Inquiry Discussion Paper, November 1996
- 2004 Year Book Australia, No. 86, ABS Canberra, Catalogue No. 1301.0
-
-Keywords
-
-Banking, finance & securities
- Financial services industry
- Foreign investment fund measures
- Foreign investment funds
- International tax
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  21 January 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-17 December 2004
-Original statement
-
-You are here
+Date of decision: 17 December 2004 Year of income: Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 Schedule 4 section 317 section 496 section 497 Other References: The Concise Oxford Dictionary 8th Edition, 1990 Explanatory Memorandum to the Income Tax Assessment Amendment (Foreign Investment) Bill 1992, House of Representatives The Wallis Inquiry - Financial System Inquiry Discussion Paper, November 1996 2004 Year Book Australia, No. 86, ABS Canberra, Catalogue No. 1301.0 Keywords Banking, finance & securities Financial services industry Foreign investment fund measures Foreign investment funds International tax Business Line: Public Groups and International Date of publication: 21 January 2005 ISSN: 1445-2782 history Date: Version: 17 December 2004
+Original statement You are here
 10 December 2010
 Archived

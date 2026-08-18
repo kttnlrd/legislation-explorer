@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2006/124
-==================================================
-
-Income Tax
- Application of foreign exchange (forex) provisions to a facility agreement entered into before 1 July 2003 where rollovers occur after 1 July 2003
- FOI status: may be released
-
-This ATO ID is withdrawn from the database following the decision of the Full Federal Court in Commissioner of Taxation v Messenger Press Pty Ltd [2013] FCAFC 77. Refer to the Decision Impact Statement published on 19 September 2013 in relation to that decision.
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Application of foreign exchange (forex) provisions to a facility agreement entered into before 1 July 2003 where rollovers occur after 1 July 2003 FOI status: may be released This ATO ID is withdrawn from the database following the decision of the Full Federal Court in Commissioner of Taxation v Messenger Press Pty Ltd [2013] FCAFC 77. Refer to the Decision Impact Statement published on 19 September 2013 in relation to that decision.
+This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a taxpayer obtains a loan before the its 'applicable commencement date' (the ACD) for Division 775 of the Income Tax Assessment Act 1997 (ITAA 1997), and the loan is subsequently rolled over after the ACD, will the forex realisation gain or forex realisation loss made when the amount rolled over is repaid be disregarded under subsection 775-165(4) of the ITAA 1997 if the lender is not obliged to rollover the loan?
 Decision
 No, the forex realisation gain or forex realisation loss made under forex realisation event 4 when the amount rolled over is repaid is not disregarded under subsection 775-165(4) of the ITAA 1997.
@@ -26,71 +11,15 @@ The taxpayer has a loan facility agreement which was made with a lender before t
 According to the loan facility agreement, two days prior to the date the loan is due to be repaid the taxpayer may request that the loan be rolled-over, in which case the loan is deemed to be repaid on the day it is due, and immediately re-advanced to the taxpayer. However, the lender is not obliged to roll-over the loan
 After the ACD, the taxpayer requests the lender to roll over an amount advanced before the ACD, and the loan is rolled over as requested.
 The rolled over amount under the loan is subsequently repaid by the taxpayer.
-Reasons for Decision
-
-Whether an obligation was incurred before the applicable commencement date
-
-Subparagraph 775-165(4)(a)(i) of the ITAA 1997 allows a forex realisation gain or loss which results from a forex realisation event 4 (FRE 4) happening to an obligation to pay foreign currency to be disregarded if the obligation was incurred before the ACD.
+Reasons for Decision Whether an obligation was incurred before the applicable commencement date Subparagraph 775-165(4)(a)(i) of the ITAA 1997 allows a forex realisation gain or loss which results from a forex realisation event 4 (FRE 4) happening to an obligation to pay foreign currency to be disregarded if the obligation was incurred before the ACD.
 The taxpayer incurs an obligation to pay foreign currency at the time of the loan was initially made. This obligation ceases and a separate obligation to pay foreign currency is incurred when the loan is rolled over by the lender.
-Therefore a forex realisation gain or loss which results from a FRE4 happening to the loan after it is rolled over
- after
- the ACD will not be disregarded under subparagraph 775-165(4)(a)(i) of the ITAA 1997.
-
-Whether an obligation arose 'under an eligible contract'
-
-Subparagraph 775-165(4)(a)(ii) of the ITAA 1997 allows a forex realisation gain or loss which results from a FRE 4 happening to an obligation to pay foreign currency to be disregarded if the obligation arose under an eligible contract that was entered into before the ACD. An eligible contract is defined in former section 82V of Division 3B of the Income Tax Assessment Act 1936 (ITAA 1936) (now repealed) as 'a contract entered into by the taxpayer on or after the commencing day' of 19 February 1986.
+Therefore a forex realisation gain or loss which results from a FRE4 happening to the loan after it is rolled over after the ACD will not be disregarded under subparagraph 775-165(4)(a)(i) of the ITAA 1997. Whether an obligation arose 'under an eligible contract' Subparagraph 775-165(4)(a)(ii) of the ITAA 1997 allows a forex realisation gain or loss which results from a FRE 4 happening to an obligation to pay foreign currency to be disregarded if the obligation arose under an eligible contract that was entered into before the ACD. An eligible contract is defined in former section 82V of Division 3B of the Income Tax Assessment Act 1936 (ITAA 1936) (now repealed) as 'a contract entered into by the taxpayer on or after the commencing day' of 19 February 1986.
 The facility agreement is an eligible contract between the taxpayer and the lender. However, since it did not oblige the lender to roll over a loan when requested, the taxpayer's request for a roll over is better viewed as an offer which gave rise to a further separate contract between the taxpayer and the lender when the lender agreed to roll over the loan. This latter contract is made after the ACD and so is not an 'eligible contract' within the meaning of former Division 3B of the ITAA 1936.
 For the FRE 4 which happens when the loan is repaid to be disregarded under subparagraph 775-165(4)(a)(ii) of the ITAA 1997, the loan must be properly considered as an obligation to pay foreign currency arising 'under' the facility agreement rather than the later contract formed when it was rolled over.
 The context of subparagraph 775-165(4)(a)(ii) of the ITAA 1997 as a transitional provision which excludes certain obligations from Division 775 of the ITAA 1997, and the existing case law on similar expressions (Elmslie and Others v. Commissioner of Taxation (1993) 46 FCR 576; 93 ATC 4964; 26 ATR 611, Federal Commissioner of Taxation v. Energy Resources of Australia Ltd (1994) 54 FCR 25; 94 ATC 4923; 29 ATR 553), both suggest the words 'under a contract' should be interpreted in a narrow fashion so that it only covers obligations directly imposed by the terms of an eligible contract.
 The direct source of the obligation to pay foreign currency represented by the loan after it is rolled over is not the facility agreement, but the later contract formed when the lender agreed to roll over the loan. Therefore the taxpayer's obligation to pay foreign currency, which ceases when the rolled over amount under the loan is repaid, does not arise 'under an eligible contract', and the forex realisation gain or loss that arises under the resulting FRE 4 is not disregarded under paragraph 775-165(4)(b) of the ITAA 1997.
-Date of decision:
-  2 May 2006
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 82V   Division 3B
-Income Tax Assessment Act 1997   subsection 775-165(4)
-
-Case References:
-
-Elmslie and Others v. Commissioner of Taxation   (1993) 46 FCR 576   26 ATR 611   93 ATC 4964
-
-Commissioner of Taxation v Energy Resources of Australia Ltd   (1994) 54 FCR 25   29 ATR 553   94 ATC 4923
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/123
-
-Keywords
-
-Foreign exchange gains and losses
- Forex realisation event
- Facility agreement
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 May 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 2 May 2006
-Original statement
-
-You are here
+Date of decision: 2 May 2006 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 82V Division 3B
+Income Tax Assessment Act 1997 subsection 775-165(4) Case References: Elmslie and Others v. Commissioner of Taxation (1993) 46 FCR 576 26 ATR 611 93 ATC 4964 Commissioner of Taxation v Energy Resources of Australia Ltd (1994) 54 FCR 25 29 ATR 553 94 ATC 4923 Related ATO Interpretative Decisions ATO ID 2006/123 Keywords Foreign exchange gains and losses Forex realisation event Facility agreement Business Line: Public Groups and International Date of publication: 12 May 2006 ISSN: 1445-2782 history Date: Version: 2 May 2006
+Original statement You are here
 20 December 2013
 Archived

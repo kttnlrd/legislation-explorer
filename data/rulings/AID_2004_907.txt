@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2004/907
-==================================================
-
-Income tax
- Assessability of employment income received by a dual resident of Australia and Singapore working in Australia for 183 days or less
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Assessability of employment income received by a dual resident of Australia and Singapore working in Australia for 183 days or less FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the employment income of a dual resident of Australia and Singapore assessable under subsection 6-5(2) of the Income Tax Assessment Act 1997 (ITAA 1997), where the taxpayer is working in Australia for 183 days or less?
 Decision
 No. The employment income of a dual resident of Australia and Singapore is not assessable under subsection 6-5(2) of the ITAA 1997 where the taxpayer is working in Australia for 183 days or less.
@@ -36,48 +23,10 @@ Section 4 of the Agreements Act incorporates that Act with the Income Tax Assess
 Schedule 5 to the Agreements Act contains the double tax agreement between Australia and the Republic of Singapore (the Singapore Agreement). Schedule 5A to the Agreements Act contains the protocol amending the Singapore Agreement (the Singapore Protocol). The Singapore Agreement and Singapore Protocol operate to avoid the double taxation of income received by Australian and Singapore residents.
 Article 3(2) of the Singapore Agreement provides the rules where an individual is a resident of Australia and Singapore for tax purposes (the 'tie breaker tests'). The tie breaker tests ensure that the individual is only treated as a resident of one country for the purposes of applying the Singapore Agreement.
 Article 3(2)(a)(i) provides that an individual shall be treated solely as a resident of Singapore if they have a permanent home available to them in Singapore and do not have a permanent home available to them in Australia. As the taxpayer has a permanent home in Singapore and not in Australia, the taxpayer is considered to be a resident of Singapore under the Singapore Agreement.
-Article 12 of the Singapore Agreement provides that remuneration or other income derived by an individual who is a resident of Singapore in respect of personal (including professional) services performed in Australia shall be exempt from tax in Australia if all of the following three conditions are met:
-
-(a)the recipient is present in Australia for a period not exceeding in the aggregate 183 days in the year of income; and
+Article 12 of the Singapore Agreement provides that remuneration or other income derived by an individual who is a resident of Singapore in respect of personal (including professional) services performed in Australia shall be exempt from tax in Australia if all of the following three conditions are met: (a)the recipient is present in Australia for a period not exceeding in the aggregate 183 days in the year of income; and
 (b)the services are performed for on an behalf of a person who is a resident of Singapore; and
-(c)the remuneration is not deductible in determining the Australian assessable income of the Singapore resident's permanent establishment (PE) located in Australia.
-
-Therefore, Article 12 will apply to exempt the income that the taxpayer received while working in Australia because:
-
-(a)the taxpayer was present in Australia for a period not exceeding 183 days; and
+(c)the remuneration is not deductible in determining the Australian assessable income of the Singapore resident's permanent establishment (PE) located in Australia. Therefore, Article 12 will apply to exempt the income that the taxpayer received while working in Australia because: (a)the taxpayer was present in Australia for a period not exceeding 183 days; and
 (b)the services are performed for the taxpayer's Singapore resident employer; and
-(c)the taxpayer does not have a PE in Australia for which the remuneration received is deductible in Australia.
-
-Date of decision:
-  5 November 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   the Act
-Income Tax Assessment Act 1997   subsection 6-5(2)
-International Tax Agreements Act 1953   section 4   Schedule 5   Schedule 5A   Schedule 5, Article 3   Schedule 5, Article 12
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/679
-
-Keywords
-
-Double taxation agreements
- Singapore
- International tax
-
-Siebel/TDMS Reference Number:
-  4032885
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  19 November 2004
-
-ISSN:
- 1445-2782
+(c)the taxpayer does not have a PE in Australia for which the remuneration received is deductible in Australia. Date of decision: 5 November 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 the Act
+Income Tax Assessment Act 1997 subsection 6-5(2)
+International Tax Agreements Act 1953 section 4 Schedule 5 Schedule 5A Schedule 5, Article 3 Schedule 5, Article 12 Related ATO Interpretative Decisions ATO ID 2003/679 Keywords Double taxation agreements Singapore International tax Siebel/TDMS Reference Number: 4032885 Business Line: Public Groups and International Date of publication: 19 November 2004 ISSN: 1445-2782

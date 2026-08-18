@@ -1,28 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2003/1129
-==================================================
-
-Income Tax
- Capital gains tax: rollover relief - transfer of asset to company in same wholly-owned group during the period commencing 30 June 2003 and ending just before the first day of the originating company's first income year that commences after 30 June 2003
- FOI status: may be released
-
-This ATO ID is a straight application of the law and does not contain an interpretive decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Can rollover relief under Subdivision 126-B of the Income Tax Assessment Act 1997 (ITAA 1997) be chosen in relation to the transfer of an asset from an Australian resident company (the originating company) to another Australian resident company (the recipient company) that is a member of the same wholly-owned group of companies if:
-
-• the transfer happened after 30 June 2003 but before 1 October 2003 being the first day of the first income year of the originating company that commences after 30 June 2003, and
-• the originating company became a member of a MEC group when the group formed on 1 October 2003 and had not been a member of another consolidated group or MEC group prior to that date?
-
-Decision
+================================================== Income Tax Capital gains tax: rollover relief - transfer of asset to company in same wholly-owned group during the period commencing 30 June 2003 and ending just before the first day of the originating company's first income year that commences after 30 June 2003 FOI status: may be released This ATO ID is a straight application of the law and does not contain an interpretive decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Can rollover relief under Subdivision 126-B of the Income Tax Assessment Act 1997 (ITAA 1997) be chosen in relation to the transfer of an asset from an Australian resident company (the originating company) to another Australian resident company (the recipient company) that is a member of the same wholly-owned group of companies if: • the transfer happened after 30 June 2003 but before 1 October 2003 being the first day of the first income year of the originating company that commences after 30 June 2003, and
+• the originating company became a member of a MEC group when the group formed on 1 October 2003 and had not been a member of another consolidated group or MEC group prior to that date? Decision
 Yes. Rollover relief under Subdivision 126-B of the ITAA 1997 can be chosen. As a result of amendments made to subsection 126-50(5) of the ITAA 1997 by the New Business Tax System (Consolidation) Act (No. 1) 2002 (NBTS Act), rollover is no longer available in respect of asset transfers between Australian resident companies. However, because the originating company became a member of the MEC group when the group formed on 1 October 2003 (being the first day of its first income year commencing after 30 June 2003) those amendments only apply from 1 October 2003.
 Facts
 The taxpayer, an Australian resident company (the originating company) acquired a small shareholding in an Australian resident listed company in the 2001 income year.
@@ -36,64 +17,14 @@ Both the originating company and the recipient company wish to choose to obtain 
 Reasons for Decision
 Subdivision 126-B of the ITAA 1997 provides for a rollover in relation to certain transactions between two companies that are members of the same wholly-owned group of companies. One of the consequences of the rollover is that the capital gain made by the originating company is disregarded: subsection 126-60(1) of the ITAA 1997.
 The requirements that must be met for the rollover to be available are set out in section 126-50 of the ITAA 1997. Those requirements were amended by the NBTS Act. As a result, rollover is generally no longer available under Subdivision 126-B for CGT events that happen after 30 June 2003 involving transactions between Australian resident companies: subsection 126-50(5) of the ITAA 1997; subitem 23(1) of Schedule 3 to the NBTS Act.
-However, rollover continues to be available in the limited circumstances set out in subitem 23(2) of Schedule 3 to the NBTS Act for CGT events happening after 30 June 2003 if:
-
-• a consolidated group or MEC group is formed with effect from the first day of the head company's (or in the case of a MEC group, the provisional head company's) first income year commencing after 30 June 2003 but before 1 July 2004
+However, rollover continues to be available in the limited circumstances set out in subitem 23(2) of Schedule 3 to the NBTS Act for CGT events happening after 30 June 2003 if: • a consolidated group or MEC group is formed with effect from the first day of the head company's (or in the case of a MEC group, the provisional head company's) first income year commencing after 30 June 2003 but before 1 July 2004
 • the originating company becomes a member of the group at the time it is formed
 • the originating company has not been a member of a consolidated group or MEC group prior to this time, and
-• the CGT event that gives rise to the gain happens after 30 June 2003 but before the day on which the group is formed.
-
-Where these conditions are satisfied for an originating company, rollover continues to be available for CGT events happening prior to the day on which the group is formed provided the other requirements in section 126-50 of the ITAA 1997 are satisfied (subitem 23(3) of Schedule 3 to the NBTS Act).
+• the CGT event that gives rise to the gain happens after 30 June 2003 but before the day on which the group is formed. Where these conditions are satisfied for an originating company, rollover continues to be available for CGT events happening prior to the day on which the group is formed provided the other requirements in section 126-50 of the ITAA 1997 are satisfied (subitem 23(3) of Schedule 3 to the NBTS Act).
 In this case, a MEC group was formed with effect from the first day of the provisional head company's first income year commencing after 30 June 2003. As the originating company had not been a member of another consolidated group or MEC group before this time and as the CGT event happened in August 2003, the requirements in subitem 23(2) of Schedule 3 to the NBTS Act have been satisfied.
 Therefore, because the other rollover requirements in section 126-50 of the ITAA 1997 are also satisfied, both the originating company and the recipient company may choose to obtain rollover relief in relation to the transfer (section 126-55 of the ITAA 1997). If the choice is made, the originating company can disregard under subsection 126-60(1) of the ITAA 1997 the capital gain that arises from the transfer of the shares to the recipient company.
-Date of decision:
-  19 November 2003
-
-Year of income:
-  Year ending 30 June 2004
-
-Legislative References:
-
-New Business Tax System (Consolidation) Act (No. 1) 2002   Schedule 3, subitem 23(1)   Schedule 3, subitem 23(2)   Schedule 3, subitem 23(3)
-Income Tax Assessment Act 1997   Subdivision 126-B   subsection 126-45(1)   subsection 126-45(2)   section 126-50   subsection 126-50(5)   section 126-55   subsection 126-60(1)   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/969
- ATO ID 2003/999
-
-Keywords
-
-Capital gains
- CGT assets
- CGT companies in the same wholly owned group
- CGT event A1-disposal of a CGT asset
- CGT roll-over relief
- Consolidated group
- Consolidation - capital gains tax
- Consolidation - multiple entry consolidated group
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  12 December 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 November 2003
-Original statement
-
-You are here
+Date of decision: 19 November 2003 Year of income: Year ending 30 June 2004 Legislative References: New Business Tax System (Consolidation) Act (No. 1) 2002 Schedule 3, subitem 23(1) Schedule 3, subitem 23(2) Schedule 3, subitem 23(3)
+Income Tax Assessment Act 1997 Subdivision 126-B subsection 126-45(1) subsection 126-45(2) section 126-50 subsection 126-50(5) section 126-55 subsection 126-60(1) subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2003/969 ATO ID 2003/999 Keywords Capital gains CGT assets CGT companies in the same wholly owned group CGT event A1-disposal of a CGT asset CGT roll-over relief Consolidated group Consolidation - capital gains tax Consolidation - multiple entry consolidated group Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 12 December 2003 ISSN: 1445-2782 history Date: Version: 19 November 2003
+Original statement You are here
 18 December 2009
 Archived

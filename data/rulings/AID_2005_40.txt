@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/40
-==================================================
-
-Income Tax
- Capital Gains Tax: cost base - UK inheritance tax
- FOI status: may be released
-
-This ATO ID is withdrawn. Guidance on the issue contained in this ATO ID can be found in Records relating to inheritance (QC 22152).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: cost base - UK inheritance tax FOI status: may be released This ATO ID is withdrawn. Guidance on the issue contained in this ATO ID can be found in Records relating to inheritance (QC 22152). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the payment of inheritance tax under the Inheritance Tax Act (UK) (1984) by a legal personal representative be included in the cost base and reduced cost base under Division 110 of the Income Tax Assessment Act 1997 (ITAA 1997) of shares transferred to a taxpayer who is a beneficiary in the deceased person's estate?
 Decision
 No. The payment of inheritance tax cannot be included as part of the cost base or reduced cost base of the taxpayer's shares because it does not fall within any of the elements of cost base (section 110-25 of the ITAA 1997) or reduced cost base (section 110-55 of the ITAA 1997).
@@ -28,99 +13,19 @@ The taxpayer wishes to include a portion of the inheritance tax paid by the lega
 Reasons for Decision
 The taxpayer will make a capital gain if the capital proceeds received on the sale of a share exceeds its cost base. They will make a capital loss if the capital proceeds are less than the share's reduced cost base (subsection 104-10(4) of the ITAA 1997).
 A beneficiary of a deceased estate can include in the cost base and reduced cost base of an asset previously owned by the deceased person any expenditure their legal personal representative would have been able to include at the time the asset passes to the beneficiary. The beneficiary is taken to have incurred the expenditure on the day the representative incurred it (subsection 128-15(5) of the ITAA 1997).
-The cost base and reduced cost base of an asset each consist of five elements (sections 110-25 and 110-55 of the ITAA 1997). The elements of the reduced cost base of a CGT asset are the same as those for cost base except for the third element (subsection 110-55(2) of the ITAA 1997).
-
-First element
-
-The first element of cost base and reduced cost base is the total of the money paid, or required to be paid, and the market value of property given, or required to be given, in respect of the acquisition of the asset (subsection 110-25(2) of the ITAA 1997).
+The cost base and reduced cost base of an asset each consist of five elements (sections 110-25 and 110-55 of the ITAA 1997). The elements of the reduced cost base of a CGT asset are the same as those for cost base except for the third element (subsection 110-55(2) of the ITAA 1997). First element The first element of cost base and reduced cost base is the total of the money paid, or required to be paid, and the market value of property given, or required to be given, in respect of the acquisition of the asset (subsection 110-25(2) of the ITAA 1997).
 As noted by Mason J in State Government Insurance Office (Queensland) v. Rees (1979) 144 CLR 549, the meaning to be attached to the words 'in respect of' must reflect the context in which they are used.
 In the context of subsection 110-25(2) of the ITAA 1997, regard must be had to the presence of other elements of cost base. In particular, the specific inclusion of incidental costs of acquisition in the second element of cost base indicates that 'incidentals' would not ordinarily be included in the first element of cost base.
-Accordingly, it is considered that the payment of inheritance tax is not in respect of acquiring the shares.
-
-Second element
-
-The second element of cost base and reduced cost base is the incidental costs that the taxpayer incurs in acquiring the CGT asset or which relate to a CGT event that happens in relation to the CGT asset (subsection 110-25(3) of the ITAA 1997).
+Accordingly, it is considered that the payment of inheritance tax is not in respect of acquiring the shares. Second element The second element of cost base and reduced cost base is the incidental costs that the taxpayer incurs in acquiring the CGT asset or which relate to a CGT event that happens in relation to the CGT asset (subsection 110-25(3) of the ITAA 1997).
 Section 110-35 of the ITAA 1997 sets out the five types of incidental costs.
 Inheritance tax is not one of the five types.
 One of these types of incidental costs is stamp duty or other similar duty: subsection 110-35(4) of the ITAA 1997. Stamp duty is defined in Butterworths Australian Legal Dictionary as 'a tax imposed by all Australian States on documents or transactions that affect or record the transfer of the ownership of assets (for example, conveyances of real property, shares and business assets) or the creation of rights in respect of assets (for example, the granting of a lease)'.
 UK inheritance tax is not considered to be a stamp duty or other similar duty. This is because the tax is imposed, not on the transfer of property but on the death of an individual whose estate is valued at more than the inheritance threshold.
-Further, as the tax is not imposed on an asset by asset basis, there is no way of establishing what proportion of the amount relates to one asset or another.
-
-Third element
-
-The third element of cost base is the non-capital costs of ownership (subsection 110-25(4) of the ITAA 1997). Inheritance tax is not a non-capital or recurring cost of ownership.
-The third element of reduced cost base is any amount that is assessable because of a balancing adjustment for the asset or that would be assessable if certain balancing adjustment relief were not available (subsection 110-55(3) of the ITAA 1997). In this case there is no amount assessable or relief provided because of the balancing adjustment provisions.
-
-Fourth element
-
-The fourth element of cost base and reduced cost base is capital expenditure incurred to increase the asset's value and which is reflected in the state or nature of the asset at the time of the CGT event (subsection 110-25(5) of the ITAA 1997). In this case, the payment of the inheritance tax did not increase the value of the shares nor was it reflected in the state or nature of the shares at the time they were sold.
-
-Fifth element
-
-The fifth element of cost base or reduced cost base is capital expenditure incurred to establish, preserve or defend the title to the asset, or a right over the asset (subsection 110-25(6) of the ITAA 1997).
+Further, as the tax is not imposed on an asset by asset basis, there is no way of establishing what proportion of the amount relates to one asset or another. Third element The third element of cost base is the non-capital costs of ownership (subsection 110-25(4) of the ITAA 1997). Inheritance tax is not a non-capital or recurring cost of ownership.
+The third element of reduced cost base is any amount that is assessable because of a balancing adjustment for the asset or that would be assessable if certain balancing adjustment relief were not available (subsection 110-55(3) of the ITAA 1997). In this case there is no amount assessable or relief provided because of the balancing adjustment provisions. Fourth element The fourth element of cost base and reduced cost base is capital expenditure incurred to increase the asset's value and which is reflected in the state or nature of the asset at the time of the CGT event (subsection 110-25(5) of the ITAA 1997). In this case, the payment of the inheritance tax did not increase the value of the shares nor was it reflected in the state or nature of the shares at the time they were sold. Fifth element The fifth element of cost base or reduced cost base is capital expenditure incurred to establish, preserve or defend the title to the asset, or a right over the asset (subsection 110-25(6) of the ITAA 1997).
 In this case, the taxpayer's title to the shares was not in dispute. The payment of inheritance tax was not directly incurred to ensure that the taxpayer could obtain title to the shares. The payment was made merely to discharge a tax obligation of the estate. On that basis, the payment of the tax is not included in fifth element.
-Accordingly, the payment of inheritance tax cannot be included under any of the five elements of the cost base or reduced cost base of the shares they inherited from the deceased's estate.
-
-Note: This note has been added to explain the legislative changes made to certain capital gains provisions, as a result of Act No 32 of 2006, which received Royal Assent on 6 April 2006.
-
-For CGT events happening on or after 1 July 2005, the range of expenditure that may be included in the second, third and fourth elements of the CGT cost base of an asset has been increased.
-
-However, these changes do not affect the decision in this interpretative decision.
-
-[HISTORY: This ID has been amended to explain the legislative changes made to certain elements of the CGT cost base, where the relevant CGT event happens on or after 1 July 2005.]
-
-Date of decision:
-  25 January 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 104-10(4)   section 110-25   subsection 110-25(2)   subsection 110-25(3)   subsection 110-25(4)   subsection 110-25(5)   subsection 110-25(6)   section 110-35   subsection 110-35(4)   section 110-55   subsection 110-55(2)   subsection 110-55(3)   subsection 128-15(5)
-Inheritance Tax Act (UK) 1984   
-
-Case References:
-
-State Government Insurance Office (Queensland) v. Rees   (1979) 144 CLR 549
-
-Related ATO Interpretative Decisions
-
- ATO ID 2005/39
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2003/1048
-
-Keywords
-
-Capital gains
- Capital gains tax
- CGT assets
- CGT cost base
- CGT reduced cost base
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  11 February 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-25 January 2005
-Original statement
-
-You are here
+Accordingly, the payment of inheritance tax cannot be included under any of the five elements of the cost base or reduced cost base of the shares they inherited from the deceased's estate. Note: This note has been added to explain the legislative changes made to certain capital gains provisions, as a result of Act No 32 of 2006, which received Royal Assent on 6 April 2006. For CGT events happening on or after 1 July 2005, the range of expenditure that may be included in the second, third and fourth elements of the CGT cost base of an asset has been increased. However, these changes do not affect the decision in this interpretative decision. [HISTORY: This ID has been amended to explain the legislative changes made to certain elements of the CGT cost base, where the relevant CGT event happens on or after 1 July 2005.] Date of decision: 25 January 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 subsection 104-10(4) section 110-25 subsection 110-25(2) subsection 110-25(3) subsection 110-25(4) subsection 110-25(5) subsection 110-25(6) section 110-35 subsection 110-35(4) section 110-55 subsection 110-55(2) subsection 110-55(3) subsection 128-15(5)
+Inheritance Tax Act (UK) 1984 Case References: State Government Insurance Office (Queensland) v. Rees (1979) 144 CLR 549 Related ATO Interpretative Decisions ATO ID 2005/39 ATO Interpretative Decisions overturned by this decision ATO ID 2003/1048 Keywords Capital gains Capital gains tax CGT assets CGT cost base CGT reduced cost base Business Line: Small Business/Individual Taxpayers Date of publication: 11 February 2005 ISSN: 1445-2782 history Date: Version: 25 January 2005
+Original statement You are here
 24 March 2017
 Archived

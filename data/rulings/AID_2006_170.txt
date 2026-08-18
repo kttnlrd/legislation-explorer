@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/170
-==================================================
-
-Income Tax
- Consolidation: MEC group - eligible tier-1 company (wholly-owned by non-resident) and its wholly-owned subsidiary cease to be members of the MEC group
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: MEC group - eligible tier-1 company (wholly-owned by non-resident) and its wholly-owned subsidiary cease to be members of the MEC group FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can section 104-520 (CGT event L5) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to the head company of a MEC (multiple entry consolidated) group with respect to an eligible tier-1 (ET-1) company which is wholly-owned by a non-resident company, when both the ET-1 company and its wholly-owned subsidiary cease to be members of the MEC group?
 Decision
 No. Section 104-520 (CGT event L5) of the ITAA 1997 will not apply to the head company of the MEC group with respect to an ET-1 company which is wholly-owned by a non-resident company, when both the ET-1 company and its wholly-owned subsidiary cease to be members of the MEC group.
@@ -21,22 +10,10 @@ B Co is a wholly-owned subsidiary of A Co, a non-resident company. The ultimate 
 B Co and Head Co are ET-1 companies of Top Co. They, with C Co, a wholly-owned subsidiary of B Co, are a MEC group with Head Co as the head company.
 Top Co sells all the membership interests in A Co, the non-resident company, together with its wholly-owned subsidiaries B Co and C Co, to a third party which is not a wholly owned subsidiary of Top Co.
 Reasons for Decision
-CGT event L5, in section 104-520 of the ITAA 1997, happens where the following conditions are satisfied:
-
-(a)an entity ceases to be a subsidiary member of a consolidated or MEC group; and
-(b)in working out the group's allocable cost amount for the entity, there is a negative amount remaining after applying step 4 of the calculation in section 711-20 of the ITAA 1997.
-
-Subsection 104-520(2) of the ITAA 1997 and subsection 104-520(3) of the ITAA 1997 respectively provide that CGT event L5 happens to the head company of the consolidated or MEC group at the time the entity ceases to be a subsidiary member of the group and the capital gain is equal to the amount remaining.
-
-Will B Co, an ET-1 company which is wholly-owned by a non-resident company, cease to be a subsidiary member of the MEC group?
-
-For paragraph 104-520(1)(a) of the ITAA 1997 to be satisfied, an entity must cease to be a subsidiary member of a consolidated or MEC group.
+CGT event L5, in section 104-520 of the ITAA 1997, happens where the following conditions are satisfied: (a)an entity ceases to be a subsidiary member of a consolidated or MEC group; and
+(b)in working out the group's allocable cost amount for the entity, there is a negative amount remaining after applying step 4 of the calculation in section 711-20 of the ITAA 1997. Subsection 104-520(2) of the ITAA 1997 and subsection 104-520(3) of the ITAA 1997 respectively provide that CGT event L5 happens to the head company of the consolidated or MEC group at the time the entity ceases to be a subsidiary member of the group and the capital gain is equal to the amount remaining. Will B Co, an ET-1 company which is wholly-owned by a non-resident company, cease to be a subsidiary member of the MEC group? For paragraph 104-520(1)(a) of the ITAA 1997 to be satisfied, an entity must cease to be a subsidiary member of a consolidated or MEC group.
 Section 719-25 of the ITAA 1997 provides that all members of a MEC group, other than the head company, are subsidiary members of the group.
-In this instance as B Co is not the head company of the MEC group, it is a subsidiary member. When Top Co disposes of its interests in A Co, the non-resident company, B Co ceases to be a subsidiary member of the MEC group, consequently paragraph 104-520(1)(a) of the ITAA 1997 will be satisfied.
-
-Will Head Co have to work out an allocable cost amount for B Co, an ET-1 company that is wholly-owned by a non-resident company?
-
-For paragraph 104-520(1)(b) of the ITAA 1997 to be satisfied, the consolidated or MEC group must calculate an allocable cost amount, under section 711-20 of the ITAA 1997, for the entity ceasing to be a subsidiary member and there must be a negative amount remaining after applying step 4 of the calculation in section 711-20.
+In this instance as B Co is not the head company of the MEC group, it is a subsidiary member. When Top Co disposes of its interests in A Co, the non-resident company, B Co ceases to be a subsidiary member of the MEC group, consequently paragraph 104-520(1)(a) of the ITAA 1997 will be satisfied. Will Head Co have to work out an allocable cost amount for B Co, an ET-1 company that is wholly-owned by a non-resident company? For paragraph 104-520(1)(b) of the ITAA 1997 to be satisfied, the consolidated or MEC group must calculate an allocable cost amount, under section 711-20 of the ITAA 1997, for the entity ceasing to be a subsidiary member and there must be a negative amount remaining after applying step 4 of the calculation in section 711-20.
 Division 711 of the ITAA 1997 applies to MEC groups by virtue of section 719-2 of the ITAA 1997. Subsection 711-5(1) of the ITAA 1997 provides that Division 711 has effect for head company and entity core purposes (subsections 701-1(2) and 701-1(3) of the ITAA 1997), where an entity ceases to be a subsidiary member of a consolidated group.
 The operation of Division 711 of the ITAA 1997 is modified for MEC groups by Subdivision 719-J of the ITAA 1997. In particular, subsection 719-510(1) of the ITAA 1997 provides that the leaving entity, referred to in subsection 711-15(1) of the ITAA 1997, is a subsidiary member of the old group that is an ET-1 company. The leaving entity that is referred to in subsection 711-15(1) is an entity in whom membership interests are held by members of the old group.
 The application of subsection 719-510(1) of the ITAA 1997 in conjunction with subsection 711-15(1) of the ITAA 1997, ensures that Division 711 of the ITAA 1997 will only apply to work out the MEC group's allocable cost amount, under section 711-20 of the ITAA 1997, for an ET-1 company that ceases to be a subsidiary member of the MEC group if some of the membership interests in the ET-1 company are held by members of the MEC group.
@@ -44,56 +21,4 @@ In this instance B Co, the ET-1 company that ceases to be a subsidiary member of
 As none of the members of the MEC group holds membership interests in B Co, one of the ET-1 companies, Division 711 of the ITAA 1997 would not apply in respect of B Co when it ceases to be a subsidiary member of the MEC group. A Co's interests in B Co are pooled interests (section 719-560 of the ITAA 1997).
 The head company of the MEC group, Head Co, will not be required to work out an allocable cost amount for B Co, therefore paragraph 104-520(1)(b) of the ITAA 1997 will not be satisfied.
 Because paragraph 104-520(1)(b) of the ITAA 1997 will not be satisfied, CGT event L5 cannot happen to Head Co with respect to B Co, an ET-1 company of the MEC group, when both B Co and its wholly-owned subsidiary, C Co, cease to be subsidiary members of the MEC group.
-Date of decision:
-  19 April 2006
-
-Year of income:
-  Year ended 31 December 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-520   paragraph 104-520(1)(a)   paragraph 104-520(1)(b)   subsection 104-520(2)   subsection 104-520(3)   paragraph 104-520(1)(a)   Division 711   section 711-20   Subdivision 719J   section 719-2   section 719-25   subsection 719-510(1)   section 719-560
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/171
-
-Keywords
-
-Allocable cost amount
- Calculation of the allocable cost amount
- Capital gains tax
- CGT events
- CGT events L1-L8 - consolidated and MEC groups
- Consolidation
- Consolidation - exiting
- Consolidation - multiple entry consolidated group
- Cost of membership interests
- Cost setting rules
- Eligible tier-1 company
- Head company
- Head company of a MEC group
- Interposed foreign resident
- Leaving entity
- Leaving time
- Member of a group
- Pooled interests
- Potential MEC group
- Provisional head company
- Subsidiary member of a MEC group
- Tax cost setting amount
- Time of CGT event
- Top company
- Wholly owned subsidiary
-
-Siebel/TDMS Reference Number:
-  5153988
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  7 July 2006
-
-ISSN:
- 1445-2782
+Date of decision: 19 April 2006 Year of income: Year ended 31 December 2006 Legislative References: Income Tax Assessment Act 1997 section 104-520 paragraph 104-520(1)(a) paragraph 104-520(1)(b) subsection 104-520(2) subsection 104-520(3) paragraph 104-520(1)(a) Division 711 section 711-20 Subdivision 719J section 719-2 section 719-25 subsection 719-510(1) section 719-560 Related ATO Interpretative Decisions ATO ID 2006/171 Keywords Allocable cost amount Calculation of the allocable cost amount Capital gains tax CGT events CGT events L1-L8 - consolidated and MEC groups Consolidation Consolidation - exiting Consolidation - multiple entry consolidated group Cost of membership interests Cost setting rules Eligible tier-1 company Head company Head company of a MEC group Interposed foreign resident Leaving entity Leaving time Member of a group Pooled interests Potential MEC group Provisional head company Subsidiary member of a MEC group Tax cost setting amount Time of CGT event Top company Wholly owned subsidiary Siebel/TDMS Reference Number: 5153988 Business Line: Consolidation Centre of Expertise Date of publication: 7 July 2006 ISSN: 1445-2782

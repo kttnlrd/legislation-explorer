@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/150
-==================================================
-
-Income Tax
- Research and development: clawback (section 73C) for grants and recouped expenditure where the grant or recoupment may be subject to a repayment obligation
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and development: clawback (section 73C) for grants and recouped expenditure where the grant or recoupment may be subject to a repayment obligation FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 73C of the Income Tax Assessment Act 1936 (ITAA 1936) apply to a government payment that is received in respect of research and development activities if the receipt might be subject to a repayment obligation that may arise upon the happening of certain subsequent events?
 Decision
 Yes, section 73C of the ITAA 1936 applies to a government payment that is received in respect of research and development activities even though the receipt might be subject to a repayment obligation that may arise upon the happening of certain subsequent events. Subsequent repayment in an income year following the receipt of the grant does not alter the application of clawback in the year of receipt.
@@ -23,61 +12,12 @@ The funding agreement provides that following receipt of a quarterly progress re
 The funding agreement provides that the receipt of the government payment is subject to a potential repayment obligation that aligns with the success of the project. The project is considered successful if a specified accumulated sales level arising out of or in connection with the project is achieved.
 The funding receivable under this program is not characterised as a loan as the essential feature of a loan (a definite obligation to repay the principal sum) is absent on entering into the funding agreement.
 Reasons for Decision
-Section 73C of the ITAA 1936 will apply where:
-
-•an eligible company has incurred expenditure on research and development activities that formed part of a particular project carried on by or on behalf of the company, and
-•the company has received, or become entitled to receive, a recoupment of, or a grant in respect of, the whole or any part of this expenditure by or from the Commonwealth, a State or a Territory, an STB (within the meaning of Division 1AB of the ITAA 1936) or an authority constituted by or under a law of the Commonwealth, of a State or Territory, or another person has received or become entitled to receive such a recoupment of grant where the other person is, at the time of receipt or entitlement, grouped with the first-mentioned company as mentioned in section 73L of the ITAA 1936.
-
-The practical effect of the clawback provisions in section 73C of the ITAA 1936 only arises however, where the eligible company has become entitled to claim deductions under sections 73B, 73BA or 73BH of the ITAA 1936 (refer to subsections 73C(8) and (9)).
+Section 73C of the ITAA 1936 will apply where: •an eligible company has incurred expenditure on research and development activities that formed part of a particular project carried on by or on behalf of the company, and
+•the company has received, or become entitled to receive, a recoupment of, or a grant in respect of, the whole or any part of this expenditure by or from the Commonwealth, a State or a Territory, an STB (within the meaning of Division 1AB of the ITAA 1936) or an authority constituted by or under a law of the Commonwealth, of a State or Territory, or another person has received or become entitled to receive such a recoupment of grant where the other person is, at the time of receipt or entitlement, grouped with the first-mentioned company as mentioned in section 73L of the ITAA 1936. The practical effect of the clawback provisions in section 73C of the ITAA 1936 only arises however, where the eligible company has become entitled to claim deductions under sections 73B, 73BA or 73BH of the ITAA 1936 (refer to subsections 73C(8) and (9)).
 Whether the amounts received under the agreement with the Commonwealth qualify as either a 'grant' or 'recoupment' for the purposes of section 73C of the ITAA 1936 will depend on the circumstances in which they are paid, and the circumstances of the person who receives them.
-Recoupment is not defined in the ITAA 1936. However, the meaning of the term 'recoupment' was considered by the Supreme Court of Victoria in Dampier Mining Co Ltd v. FC of T 78 ATC 4237; (1978) 8 ATR 835, in relation to former Division 10AAA of the ITAA 1936. In determining that the taxpayer there was 'entitled to recoupment' in respect of the expenditure concerned, Jenkinson J stated:
-
-I think that recoupment connotes restoration of what has been expended without countervailing detriment to him who incurred the expenditure.
-
-On appeal to the Full Federal Court (Dampier Mining Co Ltd v. Federal Commissioner of Taxation [1979] FCA 93; 79 ATC 4469; (1979) 10 ATR 193), Deane J (Brennan and Fisher JJ agreeing) equated the concept of expenditure being recouped with the taxpayer being reimbursed in respect of its expenditure.
+Recoupment is not defined in the ITAA 1936. However, the meaning of the term 'recoupment' was considered by the Supreme Court of Victoria in Dampier Mining Co Ltd v. FC of T 78 ATC 4237; (1978) 8 ATR 835, in relation to former Division 10AAA of the ITAA 1936. In determining that the taxpayer there was 'entitled to recoupment' in respect of the expenditure concerned, Jenkinson J stated: I think that recoupment connotes restoration of what has been expended without countervailing detriment to him who incurred the expenditure. On appeal to the Full Federal Court (Dampier Mining Co Ltd v. Federal Commissioner of Taxation [1979] FCA 93; 79 ATC 4469; (1979) 10 ATR 193), Deane J (Brennan and Fisher JJ agreeing) equated the concept of expenditure being recouped with the taxpayer being reimbursed in respect of its expenditure.
 In this matter the Commonwealth provides funding on receipt of a progress report from the eligible company which details, among other things, expenditure incurred on the project to date. On favourable assessment of this report the Commonwealth pays the eligible company an amount equal to an agreed percentage of the expenditure incurred. This operates to reimburse the eligible company and restores the company to its former position in respect of this expenditure. As a result, the eligible company has not experienced any financial detriment in relation to the agreed amount of expenditure.
 To the extent that the expenditure incurred is in respect of research and development activities, the payment of funding by the Commonwealth is therefore a 'recoupment' of this expenditure for the purposes of section 73C of the ITAA 1936. Where the eligible company has claimed deductions in relation to this expenditure, as indicated above, then section 73C will have practical operation.
 In the absence of any express rule to reverse the effect of section 73C of the ITAA 1936 upon repayment of the recoupment, any subsequent repayment of the funding received under the program, or part of it, will not affect the application of the clawback provisions in the year the grantee received or became entitled to receive the funding or result in any reversal of this application of section 73C in a future year of income.
 Accordingly, section 73C of the ITAA 1936 applies to a government payment that is received in respect of research and development activities, even though the receipt may be subject to a repayment obligation that may arise upon the happening of certain subsequent events. Subsequent repayment in an income year following the receipt of the funding does not alter the application of the clawback provisions in the year of receipt.
-Date of decision:
-  6 August 2010
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 73C   section 73B   section 73L
-
-Case References:
-
-Dampier Mining Co Ltd v FC of T   78 ATC 4237   (1978) 8 ATR 835
-
-Dampier Mining Co Ltd v Federal Commissioner of Taxation   [1979] FCA 93   79 ATC 4469   (1979) 10 ATR 193
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2006/3
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/147
- ATO ID 2004/568
- ATO ID 2004/871
-
-Keywords
-
-Government grants income
- Research & development expenses
-
-Siebel/TDMS Reference Number:
-  1-22H18CA
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  27 August 2010
-
-ISSN:
- 1445-2782
+Date of decision: 6 August 2010 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 section 73C section 73B section 73L Case References: Dampier Mining Co Ltd v FC of T 78 ATC 4237 (1978) 8 ATR 835 Dampier Mining Co Ltd v Federal Commissioner of Taxation [1979] FCA 93 79 ATC 4469 (1979) 10 ATR 193 Related Public Rulings (including Determinations) Taxation Ruling TR 2006/3 Related ATO Interpretative Decisions ATO ID 2010/147 ATO ID 2004/568 ATO ID 2004/871 Keywords Government grants income Research & development expenses Siebel/TDMS Reference Number: 1-22H18CA Business Line: Public Groups and International Date of publication: 27 August 2010 ISSN: 1445-2782

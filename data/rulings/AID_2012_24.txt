@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/24
-==================================================
-
-Income Tax
- Holding period rule
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Holding period rule FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In determining whether a Fund has a materially diminished risk of loss or opportunity for gain in respect of a particular share, can the Fund deconstruct the SPI 200 Futures contracts in order to determine its net position in respect of the particular share?
 Decision
 Yes.
@@ -30,42 +19,10 @@ Former subsection 160APHJ(2) of the ITAA 1936 defines a 'position' in relation t
 'Delta' is a financial concept that measures the relative change in the price of an option or other derivative for a given small change in the price of the underlying asset. The concept of delta is not defined in the tax legislation, but former subsection 160APHM(3) of the ITAA 1936 provides by way of example that an option to sell a share with a delta of minus 0.5 in relation to the share reduces the risks of loss and opportunities for gain by 50%.
 Former subsection 160APHJ(2) of the ITAA 1936 lists some examples of positions which, because they relate to "substantially similar or related property", will have a delta in relation to the underlying shares held by the taxpayer. Substantially similar or related property is considered to refer to property sufficiently similar to the underlying shares so as to exhibit a correlation in price movements.
 This correlation is between shares, interests in shares or property that the taxpayer is connected to. In defining the scope of this correlation it is essential to restrict the analysis to factors that are not too remote.
-The SPI Futures contract is an instrument that is not too remote because the SPI Futures contract is made up of many stocks, including ABC shares. Therefore, the holding necessary to take into account when determining the net position of the Fund in relation to the ABC shares, is the short position taken on the ABC shares through the SPI Futures contracts.
-
-Section 160APHO of the ITAA 1936
-
-For the purposes of the 'holding period' rule pursuant to subsection 160APHO of the ITAA 1936, where neither a taxpayer nor an associate of the taxpayer has made, is under an obligation to make, or is likely to make a related payment in respect of the dividend, the taxpayer will be a qualified person if the shares are held 'at risk' for at least 45 days (for ordinary shares) or 90 days (in the case of preference shares).
+The SPI Futures contract is an instrument that is not too remote because the SPI Futures contract is made up of many stocks, including ABC shares. Therefore, the holding necessary to take into account when determining the net position of the Fund in relation to the ABC shares, is the short position taken on the ABC shares through the SPI Futures contracts. Section 160APHO of the ITAA 1936 For the purposes of the 'holding period' rule pursuant to subsection 160APHO of the ITAA 1936, where neither a taxpayer nor an associate of the taxpayer has made, is under an obligation to make, or is likely to make a related payment in respect of the dividend, the taxpayer will be a qualified person if the shares are held 'at risk' for at least 45 days (for ordinary shares) or 90 days (in the case of preference shares).
 Where the taxpayer has made, is under an obligation to make, or is likely to make a related payment in respect of the dividend, the relevant qualification period will be the secondary qualification period. As no related payments have been made, the relevant primary qualification period, defined in section 160APHD of the ITAA 1936 will be the period commencing on the day after the day on which the taxpayer acquired the shares or interest, and ending on the 45th day after the day on which the shares or interests become ex-dividend.
 Pursuant to subsection 160APHO(2) of the ITAA 1936, a taxpayer is taken to have 'materially diminished' the risks of loss or opportunities for gain on a particular day in respect of shares held by the taxpayer or in respect of an interest in shares held by the taxpayer, if the taxpayer's 'net position' on that day in relation to the shares or interest in shares has less than 30% of those risks or opportunities.
-The facts presented above shows that the Fund's net position is comprised of the long stock position in ABC shares (on which dividends are received) and the short position on the SPI Futures contract.
-
-The methodology
-
-The Fund has formulated a methodology for establishing whether the fund has materially diminished its risk of loss or opportunities for gain in respect of the ABC shares.
+The facts presented above shows that the Fund's net position is comprised of the long stock position in ABC shares (on which dividends are received) and the short position on the SPI Futures contract. The methodology The Fund has formulated a methodology for establishing whether the fund has materially diminished its risk of loss or opportunities for gain in respect of the ABC shares.
 Essentially, the SPI futures contract is deconstructed into its open (short) component stock positions. The net position of a particular stock is then determined by offsetting the decomposed component of the SPI futures contract relating to the stock against the +1 delta of the particular share. If the net position is greater than 30%, it is concluded that all of those particular shares are held sufficiently 'at risk' during the qualification period.
 Because the net long/short position calculated in accordance with the methodology is greater than 30%, it can be concluded that during the qualification period, the Fund has not materially diminished its risk of loss or opportunities for gain in respect to its holdings of ABC shares. Consequently, the Fund will be eligible for a tax offset in respect of the franking credits attached to the dividends on the ABC shares.
-Date of decision:
-  2 April 2012
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160APHJ(2)   section 160APHJ(3)   section 160APHJ(4)   section 160APHJ(5)   section 160APHJ(9)   section 160APHO(2)   section 160APHD   section 160APHM(3)
-
-Keywords
-
-Holding period rule
-
-Siebel/TDMS Reference Number:
-  1-21ISRL6
-
-Business Line:
-  Finance & Investment Centre of Expertise
-
-Date of publication:
-  5 April 2012
-
-ISSN:
- 1445 - 2782
+Date of decision: 2 April 2012 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 section 160APHJ(2) section 160APHJ(3) section 160APHJ(4) section 160APHJ(5) section 160APHJ(9) section 160APHO(2) section 160APHD section 160APHM(3) Keywords Holding period rule Siebel/TDMS Reference Number: 1-21ISRL6 Business Line: Finance & Investment Centre of Expertise Date of publication: 5 April 2012 ISSN: 1445 - 2782

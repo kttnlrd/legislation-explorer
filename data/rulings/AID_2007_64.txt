@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/64
-==================================================
-
-Income
- Consolidation: life insurance - head company treated as a life insurance company
- FOI status: may be released
-
-This ATO ID has been amended to improve clarity.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Consolidation: life insurance - head company treated as a life insurance company FOI status: may be released This ATO ID has been amended to improve clarity. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 713-505 of the Income Tax Assessment Act 1997 (ITAA 1997) treat the head company as if it were a life insurance company for the purpose of granting it access to Division 9AA of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. Section 713-505 of the ITAA 1997 does not treat the head company as if it were a life insurance company for the purpose of granting it access to Division 9AA of the ITAA 1936.
@@ -32,79 +19,13 @@ Head Co satisfies the conditions listed in paragraph 121AB(1)(c) of the ITAA 193
 'Insurance company' is defined in subsection 121AB(2) of the ITAA 1936 as a life insurance company or a general insurance company. A life insurance company is defined in subsection 121AB(3) of the ITAA 1936 as a company registered under the Life Act.
 Where there is a consolidated group, the single entity rule in subsection 701-1(1) of the ITAA 1997 means that the head company of the consolidated group is the only entity recognised for income tax purposes. The subsidiary members are taken to be parts of the head company for those purposes.
 Subdivision 713-L of the ITAA 1997 sets out special rules for a head company of a consolidated group where a life insurance company is a subsidiary member of the group (see section 713-500 of the ITAA 1997).
-Specifically, section 713-505 of the ITAA 1997 states that:
-
-This Act, and the Income Tax Rates Act 1986, apply to the *head company of a *consolidated group as if it were a *life insurance company for an income year if one or more life insurance companies are *subsidiary members of the group at any time during that year.
-
-* denotes a term defined subsection 995-1(1) of the ITAA 1997
-
-The aim of the provision is to ensure that the special provisions in the income tax law that apply to life insurance companies apply appropriately to the head company of a consolidated group that has one or more subsidiary members that are life insurance companies.
-The context of the amendments to the Consolidation rules in Part 3-90 of the ITAA 1997 and which included the enactment of section 713-505 of the ITAA 1997 is described in paragraph 1.3 of the Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.2) of 2002 (Cth) (The EM):
-
-The income tax law contains special provisions for taxing life insurance companies. Those provisions need to apply appropriately to the head companies of consolidated groups that have life insurance company members.
-
-The EM (at paragraph 1.4) makes particular reference to Division 320 of the ITAA 1997, whose stated object in subsection 320-5(1) of the ITAA 1997 is:
-
-...to provide for the taxation of *life insurance companies in a broadly comparable way to other entities that derive similar kinds of income.
-
-The EM further elaborates on the context of section 713-505 of the ITAA 1997 at paragraph 1.6 as follows:
-
-Division 320, which is complemented by special provisions in other parts of the income tax law, ensures that the different types of business of life insurance companies is taxed consistently with income derived on similar types of business carried on by other entities.
-
-Division 9AA of the ITAA 1936 is not listed in the examples provided in the EM of situations where the head company will be treated as a life insurance company. This leaves open the question of whether Division 9AA was intended to be accessed by a head company of a consolidated group that has one or more subsidiary members that are life insurance companies.
+Specifically, section 713-505 of the ITAA 1997 states that: This Act, and the Income Tax Rates Act 1986, apply to the *head company of a *consolidated group as if it were a *life insurance company for an income year if one or more life insurance companies are *subsidiary members of the group at any time during that year. * denotes a term defined subsection 995-1(1) of the ITAA 1997 The aim of the provision is to ensure that the special provisions in the income tax law that apply to life insurance companies apply appropriately to the head company of a consolidated group that has one or more subsidiary members that are life insurance companies.
+The context of the amendments to the Consolidation rules in Part 3-90 of the ITAA 1997 and which included the enactment of section 713-505 of the ITAA 1997 is described in paragraph 1.3 of the Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.2) of 2002 (Cth) (The EM): The income tax law contains special provisions for taxing life insurance companies. Those provisions need to apply appropriately to the head companies of consolidated groups that have life insurance company members. The EM (at paragraph 1.4) makes particular reference to Division 320 of the ITAA 1997, whose stated object in subsection 320-5(1) of the ITAA 1997 is: ...to provide for the taxation of *life insurance companies in a broadly comparable way to other entities that derive similar kinds of income. The EM further elaborates on the context of section 713-505 of the ITAA 1997 at paragraph 1.6 as follows: Division 320, which is complemented by special provisions in other parts of the income tax law, ensures that the different types of business of life insurance companies is taxed consistently with income derived on similar types of business carried on by other entities. Division 9AA of the ITAA 1936 is not listed in the examples provided in the EM of situations where the head company will be treated as a life insurance company. This leaves open the question of whether Division 9AA was intended to be accessed by a head company of a consolidated group that has one or more subsidiary members that are life insurance companies.
 The expression 'as if' contained in section 713-505 of the ITAA 1997, is a variant of the expression 'deemed' and is interpreted in the same manner. (Pearce, DC & Geddes, RS 2006, Statutory Interpretation in Australia, 6th ed, LexisNexis Butterworths, Chatswood, at p. 149). This deeming rule in section 713-505 of the ITAA 1997 provides that the income tax laws are to apply to the head company as if the head company was a 'life insurance company' but does not expressly deem these laws to apply to the head company as if it was a 'mutual insurance company'. The issue which arises is whether the deeming rule in section 713-505 can be extended by implication into the definition of a 'mutual insurance company' (as defined in subsection 121AB(1) of the ITAA 1936).
-Griffith CJ in Muller v. Dalgety & Co Ltd (1909) 9 CLR 693 at 696 stated:
-
- The word "deemed" may be used in either sense, but it is more commonly used for the purpose of creating what James LJ and Lord Cairns LC called a "statutory fiction"...that is, for the purpose of extending the meaning of some term to a subject matter which it does not properly designate. When used in that sense it becomes very important to consider the purpose for which the statutory fiction is introduced.
-
-In Commissioner of Taxation v. Comber (1986) 10 FCR 88; 86 ATC 4171; (1986) 17 ATR 413, the Full Federal Court applied this principle in holding that section 109 of the ITAA 1936, which deemed a director's retiring allowance to be a dividend paid by a company, did not extend to giving the payment the qualities of being paid to a shareholder, and paid out of profits, so as to make the amount assessable under section 44 of the ITAA 1936. Fisher J stated:
-
-...deeming provisions are required by their nature to be construed strictly and only for the purpose for which they are resorted to...It is improper in my view to extend by implication the express application of such a statutory fiction. It is even more improper so to do if such an extension is unnecessary, the express provision being capable by itself of sensible and rational application.
-
-Section 713-505 of the ITAA 1997 has a sensible and rational application without its application being extended into the definition of a 'mutual insurance company' because it facilitates the appropriate taxation of consolidated groups that conduct life insurance businesses. The legislative scheme of section 121AB of the ITAA 1936 requires that the definition be satisfied by an 'insurance company' as defined in subsections 121AB(2) and 121AB(3) of the ITAA 1936 and not by conjoining section 713-505 of the ITAA 1997 and section 121AB of the ITAA 1936.
+Griffith CJ in Muller v. Dalgety & Co Ltd (1909) 9 CLR 693 at 696 stated: The word "deemed" may be used in either sense, but it is more commonly used for the purpose of creating what James LJ and Lord Cairns LC called a "statutory fiction"...that is, for the purpose of extending the meaning of some term to a subject matter which it does not properly designate. When used in that sense it becomes very important to consider the purpose for which the statutory fiction is introduced. In Commissioner of Taxation v. Comber (1986) 10 FCR 88; 86 ATC 4171; (1986) 17 ATR 413, the Full Federal Court applied this principle in holding that section 109 of the ITAA 1936, which deemed a director's retiring allowance to be a dividend paid by a company, did not extend to giving the payment the qualities of being paid to a shareholder, and paid out of profits, so as to make the amount assessable under section 44 of the ITAA 1936. Fisher J stated: ...deeming provisions are required by their nature to be construed strictly and only for the purpose for which they are resorted to...It is improper in my view to extend by implication the express application of such a statutory fiction. It is even more improper so to do if such an extension is unnecessary, the express provision being capable by itself of sensible and rational application. Section 713-505 of the ITAA 1997 has a sensible and rational application without its application being extended into the definition of a 'mutual insurance company' because it facilitates the appropriate taxation of consolidated groups that conduct life insurance businesses. The legislative scheme of section 121AB of the ITAA 1936 requires that the definition be satisfied by an 'insurance company' as defined in subsections 121AB(2) and 121AB(3) of the ITAA 1936 and not by conjoining section 713-505 of the ITAA 1997 and section 121AB of the ITAA 1936.
 Section 713-505 of the ITAA 1997 does not treat a head company as if it were a life insurance company for the purposes of determining the taxation consequences to its members in the event of a demutualisation. That is, section 713-505 of the ITAA 1997 does not operate to deem Head Co to be a life insurance company for the purposes of Division 9AA of the ITAA 1936.
 Head Co retains its identity as a non-insurance mutual entity. Section 713-505 of the ITAA 1997 merely treats Head Co as if it were a life insurance company for the purpose of ensuring that the special provisions for taxing Life Insurance Ltd (being the company registered under the Life Act) apply appropriately to Head Co.
 Section 713-505 of the ITAA 1997 does not operate to confer on Head Co registration under the Life Act (as required under Division 9AA of the ITAA 1936). Therefore, Division 9AA of the ITAA 1936 will not apply in the event of a demutualisation of Head Co.
-Date of decision:
-  13 March 2007
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 320   subsection 320-5(1)   Part 3-90   subsection 701-1(1)   Subdivision 713-L   section 713-500   section 713-505   subsection 995-1(1)
-Income Tax Assessment Act 1936   subsection 6(1)   Division 9AA of Part III   subsection 121AB(1)   paragraph 121AB(1)(c)   subsection 121AB(2)   subsection 121AB(3)
-Life Insurance Act 1995   Life Act
-
-Case References:
-
-Muller v. Dalgety & Co Ltd   (1909) 9 CLR 693
-
-Commissioner of Taxation v. Comber   (1986) 10 FCR 88   86 ATC 4171   (1986) 17 ATR 413
-
-Other References:
-
-Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.2) of 2002 (Cth)
- Explanatory Memorandum to the Taxation Laws Amendment Bill (No.4) of 1995 (Cth)
- Pearce, DC & Geddes, RS 2006, Statutory Interpretation in Australia 6th ed, LexisNexis Butterworths, Chatswood
-
-Keywords
-
-CGT demutualisation
- Consolidation
- Head company
- Life insurance company
- Single entity rule
-
-Siebel/TDMS Reference Number:
-  5488286
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  5 April 2007
-
-ISSN:
- 1445-2782
+Date of decision: 13 March 2007 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 Division 320 subsection 320-5(1) Part 3-90 subsection 701-1(1) Subdivision 713-L section 713-500 section 713-505 subsection 995-1(1)
+Income Tax Assessment Act 1936 subsection 6(1) Division 9AA of Part III subsection 121AB(1) paragraph 121AB(1)(c) subsection 121AB(2) subsection 121AB(3)
+Life Insurance Act 1995 Life Act Case References: Muller v. Dalgety & Co Ltd (1909) 9 CLR 693 Commissioner of Taxation v. Comber (1986) 10 FCR 88 86 ATC 4171 (1986) 17 ATR 413 Other References: Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No.2) of 2002 (Cth) Explanatory Memorandum to the Taxation Laws Amendment Bill (No.4) of 1995 (Cth) Pearce, DC & Geddes, RS 2006, Statutory Interpretation in Australia 6th ed, LexisNexis Butterworths, Chatswood Keywords CGT demutualisation Consolidation Head company Life insurance company Single entity rule Siebel/TDMS Reference Number: 5488286 Business Line: Consolidation Centre of Expertise Date of publication: 5 April 2007 ISSN: 1445-2782

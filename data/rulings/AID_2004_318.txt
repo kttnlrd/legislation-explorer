@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/318
-==================================================
-
-Income Tax
- Reduction in a shareholder's equity interest by the way of share buy-back: section 45A does not apply
- FOI status: may be released
-
-The Government has announced that from 7:30pm AEDST on 25 October 2022, there will no longer be a dividend component in respect of the price paid by a listed public company undertaking an off-market share buy-back. The entire buy-back price paid for the share will be treated as capital proceeds for a share held on capital account, or as the entire proceeds for a share held as trading stock or on revenue account (but not as trading stock).
-
- Retrospective tax law changes have effect for a period before the date of enactment once the legislation is passed. See Administrative treatment of retrospective legislation.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Reduction in a shareholder's equity interest by the way of share buy-back: section 45A does not apply FOI status: may be released The Government has announced that from 7:30pm AEDST on 25 October 2022, there will no longer be a dividend component in respect of the price paid by a listed public company undertaking an off-market share buy-back. The entire buy-back price paid for the share will be treated as capital proceeds for a share held on capital account, or as the entire proceeds for a share held as trading stock or on revenue account (but not as trading stock). Retrospective tax law changes have effect for a period before the date of enactment once the legislation is passed. See Administrative treatment of retrospective legislation. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the return of capital to a shareholder whose equity interest is reduced trigger the application of section 45A of the Income Tax Assessment Act 1936 (ITAA 1936) to enable the Commissioner to treat the distribution as a dividend for income tax purposes?
 Decision
 No. Section 45A of the ITAA 1936 will not apply to a shareholder whose equity interest in the company is reduced.
@@ -28,33 +13,4 @@ Reasons for Decision
 Section 45A of the ITAA 1936 applies in circumstances where capital benefits are streamed to certain shareholders who derive a greater benefit from the receipt of capital (the advantaged shareholders) and it is reasonable to assume that the other shareholders (the disadvantaged shareholders) have received or would receive dividends.
 By distributing share capital as part of the buy-back consideration, the company will provide one shareholder with a 'capital benefit', as defined in paragraph 45A(3)(b) of ITAA 1936. However, there is nothing in the proposed arrangement to indicate that there is a 'streaming' of capital benefits to one shareholder and dividends to the other shareholder.
 Therefore, section 45A of the ITAA 1936 does not apply to treat the proposed return of capital as a dividend.
-Date of decision:
-  29 October 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 45A
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/857
-
-Keywords
-
-Share capital
- Capital reduction
-
-Siebel/TDMS Reference Number:
-  3742808
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 April 2004
-
-ISSN:
- 1445-2782
+Date of decision: 29 October 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 45A Related ATO Interpretative Decisions ATO ID 2002/857 Keywords Share capital Capital reduction Siebel/TDMS Reference Number: 3742808 Business Line: Public Groups and International Date of publication: 8 April 2004 ISSN: 1445-2782

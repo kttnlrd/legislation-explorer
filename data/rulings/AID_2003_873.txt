@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/873
-==================================================
-
-Income Tax
- Debt/Equity Interest: Redeemable Preference Shares - equity interest
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Debt/Equity Interest: Redeemable Preference Shares - equity interest FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a distribution on redeemable preference shares (RPS), issued by a Company pursuant to its proposed constitution, be a frankable distribution, in so far as that depends on whether the RPS are an equity interest pursuant to Subdivision 974-C of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. A distribution from RPS held by a member of the Company in accordance with its proposed constitution may be frankable distributions pursuant to section 202-30 of the ITAA 1997 as the RPS constitute an equity interest pursuant to Division 974 of the ITAA 1997.
@@ -20,73 +9,23 @@ Facts
 The Company operates in the finance industry and is regulated by the Australian Prudential Regulation Authority (APRA). The Company has issued to its Members shares only in the form of RPS.
 The Company is proposing to hold a meeting of its members where part of the business is to put to the members the proposed constitution to be adopted. A principle feature of the proposed constitution is the allowance of dividends to be paid to members who hold RPS (whenever the RPS were issued).
 The payment of dividends are subject to various conditions, including that there are sufficient profits out of which to pay them. The Company may pay dividends in the form of bonus shares which themselves have various conditions and rights as well as in the form of cash.
-In essence, the features, rights and obligations attached to the redemption of RPS are:
-
-•they are undated with redemption when the holder elects to do so
+In essence, the features, rights and obligations attached to the redemption of RPS are: •they are undated with redemption when the holder elects to do so
 •the holder must repay all outstanding financial accommodation and discharge all other obligations to the Company prior to redemption
 •there must be sufficient profits out of which to pay the redemption amount
 •the redemption must be permitted by APRA, and
-•the redemption must not result in any breach of APRA's capital adequacy requirements for the Company.
-
-Reasons for Decision
-The RPS are equity interests as defined in subsection 974-70(1) of the ITAA 1997 because:
-
-•the issue of RPS is a scheme (as defined in subsection 995-1(1) of the ITAA 1997);
+•the redemption must not result in any breach of APRA's capital adequacy requirements for the Company. Reasons for Decision
+The RPS are equity interests as defined in subsection 974-70(1) of the ITAA 1997 because: •the issue of RPS is a scheme (as defined in subsection 995-1(1) of the ITAA 1997);
 •the scheme falls within one of the items in the equity interest table in subsection 974-75(1) of the ITAA 1997 (principally the RPS give rise to an interest as a member of the issuing company, Item 1 of the equity interest table);
 •as the RPS satisfy item 1 of the equity interest table, pursuant to subsection 974-75(2) of the ITAA 1997, it does not have to satisfy the financing arrangement definition; and
-•the RPS are not characterised as, and do not form part of a larger interest that is characterised as, a debt interest (as defined in subsection 974-15(1) of the ITAA 1997) in the issuing company.
-
-It is necessary to consider the 'tie-breaker' provision outlined at subsection 974-5(4) of the ITAA 1997 to ascertain if the nature of the interest is also a debt interest, in which case the character of the interest will be taken as being a debt interest despite the fact that it is also an equity interest.
+•the RPS are not characterised as, and do not form part of a larger interest that is characterised as, a debt interest (as defined in subsection 974-15(1) of the ITAA 1997) in the issuing company. It is necessary to consider the 'tie-breaker' provision outlined at subsection 974-5(4) of the ITAA 1997 to ascertain if the nature of the interest is also a debt interest, in which case the character of the interest will be taken as being a debt interest despite the fact that it is also an equity interest.
 An essential element (inter alia) in the debt test outlined in subsection 974-20(1) of the ITAA 1997 is that the effectively non-contingent obligations to provide a financial benefit by the entity (or entity and connected entity) under the scheme is equal to, or greater than, the financial benefit received by the (interest issuing) entity (or connected entity).
-The RPS will not be characterised as a debt interest because they fail to satisfy two elements of the debt test as set out in subsection 974-20(1) of the ITAA 1997. That is:
-
-1. there is no effectively non contingent obligation on the part of the (issuer) entity (or the entity and a connected entity) to repay the investment amount (provide a financial benefit as defined in section 974-160 of the ITAA 1997) under the RPS (as required by paragraph 974-20(1)(c) of the ITAA 1997); and, as a result,
-2. it cannot be said that the requirements of paragraph 974-20(1)(d) of the ITAA 1997 will be met (that is, it is not substantially more likely than not that the value of the financial benefit provided will equal or exceed the value of the financial benefit received).
-
-Subsection 974-135(3) of the ITAA 1997 provides that an obligation is non-contingent if it is not contingent on any event, condition or situation (including the economic performance of the entity having the obligation or its connected entity), other than the ability or willingness of that entity or its connected entity to meet the obligation. The dividend payments associated with the RPS are not effectively non-contingent obligations of the issuer as they are contingent on the issuer having sufficient profits (economic performance). Where the form of dividend payment is by scrip (bonus) shares, subsection 974-30(1) of the ITAA 1997 provides that the issue of an equity interest in the entity (or connected entity) does not constitute the provision of a financial benefit.
-In respect of whether there is or is not an effectively non-contingent obligation on the part of the Company (issuer) vis-à-vis the RPS redemption, there is no such obligation because:
-
-1. the RPS are undated;
+The RPS will not be characterised as a debt interest because they fail to satisfy two elements of the debt test as set out in subsection 974-20(1) of the ITAA 1997. That is: 1. there is no effectively non contingent obligation on the part of the (issuer) entity (or the entity and a connected entity) to repay the investment amount (provide a financial benefit as defined in section 974-160 of the ITAA 1997) under the RPS (as required by paragraph 974-20(1)(c) of the ITAA 1997); and, as a result,
+2. it cannot be said that the requirements of paragraph 974-20(1)(d) of the ITAA 1997 will be met (that is, it is not substantially more likely than not that the value of the financial benefit provided will equal or exceed the value of the financial benefit received). Subsection 974-135(3) of the ITAA 1997 provides that an obligation is non-contingent if it is not contingent on any event, condition or situation (including the economic performance of the entity having the obligation or its connected entity), other than the ability or willingness of that entity or its connected entity to meet the obligation. The dividend payments associated with the RPS are not effectively non-contingent obligations of the issuer as they are contingent on the issuer having sufficient profits (economic performance). Where the form of dividend payment is by scrip (bonus) shares, subsection 974-30(1) of the ITAA 1997 provides that the issue of an equity interest in the entity (or connected entity) does not constitute the provision of a financial benefit.
+In respect of whether there is or is not an effectively non-contingent obligation on the part of the Company (issuer) vis-à-vis the RPS redemption, there is no such obligation because: 1. the RPS are undated;
 2. redemption is at the election of the holder and not the issuer;
 3. the holder must first repay all outstanding financial accommodation and discharge all other obligations to the Company;
 4. there must be sufficient profits out of which to pay the redemption amount; and
-5. the redemption amount must be permitted by APRA and must not result in any breach of APRA's capital adequacy requirements for the Company.
-
-Therefore, the Company will not have an effectively non-contingent obligation to redeem the RPS because redemption is at the option of the holder and there is no compulsion for the directors of the issuing Company to redeem the RPS at a specified date or time. Given that there is no established point in time where the issuing Company could be said to be under an obligation to redeem the RPS, if the holders do not elect to do so, the RPS may never be redeemed and no payment will ever eventuate.
+5. the redemption amount must be permitted by APRA and must not result in any breach of APRA's capital adequacy requirements for the Company. Therefore, the Company will not have an effectively non-contingent obligation to redeem the RPS because redemption is at the option of the holder and there is no compulsion for the directors of the issuing Company to redeem the RPS at a specified date or time. Given that there is no established point in time where the issuing Company could be said to be under an obligation to redeem the RPS, if the holders do not elect to do so, the RPS may never be redeemed and no payment will ever eventuate.
 As a result of the issuing Company not having an effectively non contingent obligation to pay a dividend or redeem the RPS, it cannot be said that it is substantially more likely than not that the value of the financial benefits provided will equal or exceed the value of the financial benefits received (paragraph 974-20(1)(d) of the ITAA 1997). It is only the value of financial benefits that are effectively non- contingent obligations (paragraph 974-20(1)(c) of the ITAA1997) that are taken into consideration in determining whether the requirement in paragraph 974-20(1)(d) is satisfied.
 As the RPS do not meet the debt test, the nature of the interest would remain an equity interest with the consequence that any future distributions made by the Company on the RPS may constitute frankable distributions pursuant to section 202-30 of the ITAA 1997 and will not be deductible outgoings of the Company.
-Date of decision:
-  9 September 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 202-30   Subdivision 974-B   subsection 974-5(4)   subsection 974-15(1)   subsection 974-20(1)   paragraph 974-20(1)(c)   paragraph 974-20(1)(d)   subsection 974-30(1)   subsection 974-70(1)   subsection 974-75(1)   subsection 974-75(2)   subsection 974-135(3)   section 974-160   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/200
- ATO ID 2003/527
- ATO ID 2003/665
-
-Keywords
-
-Debt interest
- Debt test
- Effectively non-contingent obligation
- Equity test
- Financing arrangement
-
-Siebel/TDMS Reference Number:
-  3718206
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  26 September 2003
-
-ISSN:
- 1445-2782
+Date of decision: 9 September 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 202-30 Subdivision 974-B subsection 974-5(4) subsection 974-15(1) subsection 974-20(1) paragraph 974-20(1)(c) paragraph 974-20(1)(d) subsection 974-30(1) subsection 974-70(1) subsection 974-75(1) subsection 974-75(2) subsection 974-135(3) section 974-160 subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2003/200 ATO ID 2003/527 ATO ID 2003/665 Keywords Debt interest Debt test Effectively non-contingent obligation Equity test Financing arrangement Siebel/TDMS Reference Number: 3718206 Business Line: Finance and Investment Centre of Expertise Date of publication: 26 September 2003 ISSN: 1445-2782

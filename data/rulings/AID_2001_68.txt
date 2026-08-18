@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2001/68
-==================================================
-
-International tax
- Non Residents' Income
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== International tax Non Residents' Income FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether the income earned by the individual, a Canadian citizen working in Australia for twelve months, is subject to tax in Australia.
 Decision
 Yes, the income earned by the Canadian citizen from working in Australia for twelve months is subject to tax in Australia.
@@ -29,45 +16,7 @@ The source of a taxpayer's income is the place where the services are performed:
 As the taxpayer may be regarded as an Australian resident for tax purposes, the taxpayer is subject to tax on the ordinary income that the taxpayer derives from all sources during the income year: subsection 6-5(2) of the Income Tax Assessment Act 1997. Under these circumstances, if the taxpayer was not a resident of Canada, then Australia would be the sole taxing point of this income.
 However, in this case, the taxpayer is also a resident of Canada for tax purposes and is likely to be subject to tax on this same income under Canada's tax laws. In order to avoid such double taxation of income, Australia has entered into bilateral tax agreements with many countries. Consequently, it is necessary to consider the operation of the Double Tax Agreement (DTA) between Australia and Canada, as contained in Schedule 3 (International Tax Agreements Act 1953 (ITIA)).
 For the purposes of establishing taxing rights, Article 4 (DTA) requires that the taxpayer be deemed a resident for DTA purposes of only one of the countries. The relevant test, as set out in Article 4, would indicate that the taxpayer in this case would be a resident of Canada for DTA purposes.
-As the taxpayer is an employee, Article 15 (DTA), which deals with dependent personal services, is relevant. Article 15(1) (DTA) states that:
-
-'... salaries, wages or similar remuneration derived by an individual who is a resident of one of the Contracting States in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived from that exercise may be taxed in that other State.'
-
-In this case, the taxpayer is only a resident of Canada for DTA purposes, and therefore, shall be subject to tax in Canada. However, the taxpayer's employment is exercised in Australia, which means that the taxpayer may also be subject to tax in Australia. In effect, the DTA operates to allow Australia the first taxing right. Then, under Article 23 (DTA), the taxpayer may, generally speaking, deduct the tax paid in Australia from any Canadian tax payable in respect of that income.
-Date of decision:
-  1 July 1999
-
-Legislative References:
-
-International Tax Agreements Act 1953   Schedule 3
-Income Tax Assessment Act 1997   subsection 6-5(2)
-Income Tax Assessment Act 1936   subsection 6(1)
-
-Case References:
-
-French v. FC of T   (1957) 98 CLR 398
-
-Related Public Rulings (including Determinations)
-
-TR 98/17
-
-Keywords
-
-International tax
- Double tax agreements
- Residence in Australia
- Residence of individuals
- Canada
- Resident/residency
-
-Siebel/TDMS Reference Number:
-  HOB17577
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  4 June 2001
-
-ISSN:
- 1445-2782
+As the taxpayer is an employee, Article 15 (DTA), which deals with dependent personal services, is relevant. Article 15(1) (DTA) states that: '... salaries, wages or similar remuneration derived by an individual who is a resident of one of the Contracting States in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived from that exercise may be taxed in that other State.' In this case, the taxpayer is only a resident of Canada for DTA purposes, and therefore, shall be subject to tax in Canada. However, the taxpayer's employment is exercised in Australia, which means that the taxpayer may also be subject to tax in Australia. In effect, the DTA operates to allow Australia the first taxing right. Then, under Article 23 (DTA), the taxpayer may, generally speaking, deduct the tax paid in Australia from any Canadian tax payable in respect of that income.
+Date of decision: 1 July 1999 Legislative References: International Tax Agreements Act 1953 Schedule 3
+Income Tax Assessment Act 1997 subsection 6-5(2)
+Income Tax Assessment Act 1936 subsection 6(1) Case References: French v. FC of T (1957) 98 CLR 398 Related Public Rulings (including Determinations) TR 98/17 Keywords International tax Double tax agreements Residence in Australia Residence of individuals Canada Resident/residency Siebel/TDMS Reference Number: HOB17577 Business Line: Small Business/Individual Taxpayers Date of publication: 4 June 2001 ISSN: 1445-2782

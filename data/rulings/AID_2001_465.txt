@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/465
-==================================================
-
-Goods and Services Tax
- GST and company amalgamations
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and company amalgamations FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the merging of entity A and entity B, bodies corporate, to become entity C an amalgamation under section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
 Decision
 Yes, the merging of entity A and entity B to become entity C is an amalgamation under section 195-1 of the GST Act.
@@ -21,14 +10,8 @@ Entity A and entity B are bodies corporate. Entity C is the new entity formed by
 Following the merger, entity A and entity B will cease to exist and the bodies corporate will be integrated into the one company with a newly constituted Board and management structure.
 The merger of entity A and entity B is governed by Australian legislation.
 Reasons for Decision
-'Amalgamation' is defined in section 195-1 of the GST Act, which states that '
- amalgamation
- means any procedure, under an *Australian law or a *foreign law, by which 2 or more *companies amalgamate and continue as one company.'
-The term 'procedure' is not defined in the GST Act, and therefore, it is given its ordinary meaning. The Macquarie Dictionary 1997 defines 'procedure' as:
-
-'1. the act or manner of proceeding in any action or process; conduct. 2. a particular course or mode of action. 3. mode of conducting legal, parliamentary, or other business, especially litigation and judicial proceedings.'
-
-In this case, the ordinary meaning of 'procedure' is met as the merging of entity A and entity B into entity C and the subsequent dissolution of entity A and entity B are particular courses of action.
+'Amalgamation' is defined in section 195-1 of the GST Act, which states that ' amalgamation means any procedure, under an *Australian law or a *foreign law, by which 2 or more *companies amalgamate and continue as one company.'
+The term 'procedure' is not defined in the GST Act, and therefore, it is given its ordinary meaning. The Macquarie Dictionary 1997 defines 'procedure' as: '1. the act or manner of proceeding in any action or process; conduct. 2. a particular course or mode of action. 3. mode of conducting legal, parliamentary, or other business, especially litigation and judicial proceedings.' In this case, the ordinary meaning of 'procedure' is met as the merging of entity A and entity B into entity C and the subsequent dissolution of entity A and entity B are particular courses of action.
 'Australian law' is defined in section 195-1 of the GST Act as having the meaning given by section 995-1 of Income Tax Assessment Act 1997, which provides that Australian law means a Commonwealth law, a State law or a Territory law.
 As the merger of entity A and entity B is governed by Australian legislation, the procedure will be one under an Australian law.
 'Company' is defined in section 195-1 of the GST Act to include a body corporate. As entity A and entity B are bodies corporate, they both satisfy the definition of a company.
@@ -39,31 +22,5 @@ The merger of entity A and entity B to form entity C is a 'combination', 'joinin
 The definition of amalgamation in the GST Act, stated above, requires that the amalgamated companies 'continue as one company'. Following the amalgamation, entity A and entity B cease to exist and both companies will be integrated into the one company with a newly constituted Board and management structure, being entity C. Thus, the amalgamated companies will continue as one company.
 In conclusion, the merger of entity A and entity B to form entity C will come about through a procedure under an Australian State law whereby two existing companies will be merged and will continue as one company.
 The merger of entity A and entity B to form entity C merger is an 'amalgamation' under section 195-1 of the GST Act.
-Date of decision:
-  9 August 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 195-1
-Income Tax Assessment Act 1997   section 995-1
-
-Other References:
-
-The Macquarie Dictionary, 1997, 3rd edn, The Macquarie Library Pty Ltd, New South Wales; and Butterworths Australian Legal Dictionary, 1997, Butterworths
-
-Keywords
-
-Goods & services tax
- GST company amalgamations
-
-Siebel/TDMS Reference Number:
-  CW226787
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  17 October 2001
-
-ISSN:
- 1445-2782
+Date of decision: 9 August 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 195-1
+Income Tax Assessment Act 1997 section 995-1 Other References: The Macquarie Dictionary, 1997, 3rd edn, The Macquarie Library Pty Ltd, New South Wales; and Butterworths Australian Legal Dictionary, 1997, Butterworths Keywords Goods & services tax GST company amalgamations Siebel/TDMS Reference Number: CW226787 Business Line: Indirect Tax Date of publication: 17 October 2001 ISSN: 1445-2782

@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/54
-==================================================
-
-Income Tax
- Capital Gains Tax: foreign source capital gains made by a resident trust for CGT purposes
- FOI status: may be released
-
-Note: This ATO ID contains a view in respect of section 98 of the Income Tax Assessment Act 1936 as it operated prior to amendments introduced by the Tax Law Amendment (2011 Measures No. 5) Act 2011 (including the introduction of Division 6E of Part III of the Income Tax Assessment Act 1936). Except in the case of some early balancing trusts and managed investment trusts, those amendments take effect from the 2010-11 and later income years.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: foreign source capital gains made by a resident trust for CGT purposes FOI status: may be released Note: This ATO ID contains a view in respect of section 98 of the Income Tax Assessment Act 1936 as it operated prior to amendments introduced by the Tax Law Amendment (2011 Measures No. 5) Act 2011 (including the introduction of Division 6E of Part III of the Income Tax Assessment Act 1936). Except in the case of some early balancing trusts and managed investment trusts, those amendments take effect from the 2010-11 and later income years. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the trustee of a trust that is a 'resident trust for CGT purposes', assessable under paragraph 98(3)(a) of the Income Tax Assessment Act 1936 (ITAA 1936) in relation to an individual non-resident beneficiary's share of the net income of the trust that is attributable to capital gains arising from the disposal of shares in foreign companies transacted in foreign jurisdictions, if the beneficiary is presently entitled to a share of the income of the trust for that year?
 Decision
 No. The trustee is not assessable under paragraph 98(3)(a) of the ITAA 1936 because the capital gains are not attributable to sources in Australia. As the contracts for the acquisition and disposal of the shares were concluded in foreign jurisdictions, any capital gains from the disposal of the shares are taken to have a source outside Australia for the purpose of Division 6 of Part III of the ITAA 1936.
@@ -30,64 +17,9 @@ A resident trust, for CGT purposes, must include in the calculation of its net c
 Broadly, the trustee of a trust may be assessed on a share of the trust's net income where there is a beneficiary who is a non-resident at the end of a year of income and that beneficiary is presently entitled to a share of the income of the trust. If the beneficiary is an individual who has not been a resident of Australia at any time during the income year, the trustee is assessed under paragraph 98(3)(a) of the ITAA 1936 on so much of the share of the net income of the trust as is attributable to sources in Australia - paragraph 98(2A)(d) of the ITAA 1936.
 The issue in this case is whether capital gains from the disposal of the shares by the trustee are sourced in Australia. The capital gains tax provisions do not contain any provision that expressly determines the source of a capital gain, or net capital gain, for the purposes of Division 6 of Part III of the ITAA 1936. The 'taxable Australian property' tests in section 855-15 of the ITAA 1997 are not relevant for this purpose.
 In the absence of a statutory source rule for capital gains for the purposes of Division 6 of Part III of the ITAA 1936, reliance is appropriately placed on the common law source rules as they relate to income, notwithstanding that net capital gains are a form of statutory income.
-In Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183 at 189-190, Isaacs J said:
-
-The Legislature in using the word "source" meant, not a legal concept, but something which a practical man would regard as a real source of income. Legal concepts must, or course, enter into the question when we have to consider to whom a given source belongs. But, the ascertainment of the actual source of a given income is a practical, hard matter of fact. The Act on examination so treats it.
-
-In Federal Commissioner of Taxation v. Efstathakis (1979) 38 FLR 276 at 280; 79 ATC 4256 at 4259; 9 ATR 867 at 870 Bowen CJ stated 'the answer is not to be found in the cases, but in the weighting of the relative importance of the various factors which the cases have shown to be relevant.' Also, Kennedy J in Cliffs International Inc v. Commissioner of Taxation (Cth) (1985) 80 FLR 12; 85 ATC 4374; (1985) 16 ATR 601 stated 'there is no simple universal rule which can be applied to identify the source of any particular income. In some cases, particular features may be determinative. In others, they may not.'
+In Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183 at 189-190, Isaacs J said: The Legislature in using the word "source" meant, not a legal concept, but something which a practical man would regard as a real source of income. Legal concepts must, or course, enter into the question when we have to consider to whom a given source belongs. But, the ascertainment of the actual source of a given income is a practical, hard matter of fact. The Act on examination so treats it. In Federal Commissioner of Taxation v. Efstathakis (1979) 38 FLR 276 at 280; 79 ATC 4256 at 4259; 9 ATR 867 at 870 Bowen CJ stated 'the answer is not to be found in the cases, but in the weighting of the relative importance of the various factors which the cases have shown to be relevant.' Also, Kennedy J in Cliffs International Inc v. Commissioner of Taxation (Cth) (1985) 80 FLR 12; 85 ATC 4374; (1985) 16 ATR 601 stated 'there is no simple universal rule which can be applied to identify the source of any particular income. In some cases, particular features may be determinative. In others, they may not.'
 The leading Australian authority on the source of profits from the sale of shares is Australian Machinery and Investments Company Ltd v. Deputy Commissioner of Taxation (WA) (1946) 180 CLR 9; 3 AITR 359; (1946) 8 ATD 81, where it was held that where shares are situated outside Australia and sold outside Australia the profit on sale is derived wholly from a source outside Australia. Starke J said that the relevant source rule is where a business habitually enters into and carries out those contracts with a view to profit.
-In Lovell & Christmas Ltd v. Commissioner of Taxes (Vict.) [1908] AC 46 at 52-53, Sir Arthur Wilson said:
-
-In the present case their Lordships are of opinion that the business which yields the profit is the business of selling goods on commission in London. The commission is the consideration for effecting such sales. The moneys received by the appellants out of which they deduct their commission, and from which, therefore, their profits come, are paid to them under the contract of sale effected in London. The earlier arrangements entered into in New Zealand appear to their Lordships to be transactions the object and effect of which is to bring goods from New Zealand within the net of the business which is to yield a profit. To make those transactions a ground for taxing, in New Zealand, the profits actually realized in London would, in their Lordships opinion, be to extend the area of taxation further than the authorities warrant. [Emphasis added]
-
-Although these cases relate to profits that are ordinary income, we consider that similar principles apply in determining the source of a capital gain included in the calculation of a net capital gain. Thus, where shares are sold using an offshore broker, the buying and selling is undertaken and thus sourced, where the contract is concluded. We consider that the decisions by the trustee to sell the shares are incidental to the activities that actually realise the profits.
+In Lovell & Christmas Ltd v. Commissioner of Taxes (Vict.) [1908] AC 46 at 52-53, Sir Arthur Wilson said: In the present case their Lordships are of opinion that the business which yields the profit is the business of selling goods on commission in London. The commission is the consideration for effecting such sales. The moneys received by the appellants out of which they deduct their commission, and from which, therefore, their profits come, are paid to them under the contract of sale effected in London. The earlier arrangements entered into in New Zealand appear to their Lordships to be transactions the object and effect of which is to bring goods from New Zealand within the net of the business which is to yield a profit. To make those transactions a ground for taxing, in New Zealand, the profits actually realized in London would, in their Lordships opinion, be to extend the area of taxation further than the authorities warrant. [Emphasis added] Although these cases relate to profits that are ordinary income, we consider that similar principles apply in determining the source of a capital gain included in the calculation of a net capital gain. Thus, where shares are sold using an offshore broker, the buying and selling is undertaken and thus sourced, where the contract is concluded. We consider that the decisions by the trustee to sell the shares are incidental to the activities that actually realise the profits.
 Accordingly, the trustee will not be assessed under paragraph 98(3)(a) of the ITAA 1936 in relation to the non-resident beneficiary's share of the trust net capital gain because the capital gains are sourced outside of Australia.
-Date of decision:
-  25 February 2010
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 6 of Part III   section 95   subsection 98(3)
-Income Tax Assessment Act 1997   section 855-15   subsection 855-40(3)   subsection 995-1(1)
-
-Case References:
-
-Australian Machinery and Investment Co Ltd v Deputy Commissioner of Taxation   (1946) 180 CLR 9   (1946) 3 AITR 359   (1946) 8 ATD 81
-
-Cliffs International Inc v Commissioner of Taxation (Cth)   (1985) 80 FLR 12   (1985) 85 ATC 4374   (1985) 16 ATR 601
-
-Federal Commissioner of Taxation v Efstathakis   (1979) 38 FLR 276   79 ATC 4256   9 ATR 867
-
-Lovell & Christmas Ltd v Commissioner of Taxes (Vict)   [1908] AC 46
-
-Nathan v Federal Commissioner of Taxation   (1918) 25 CLR 183
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2049
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/55
-
-Keywords
-
-Capital gains tax
- Capital gains
- Foreign income
- Foreign source income
-
-Siebel/TDMS Reference Number:
-  6337586
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 March 2010
-
-ISSN:
- 1445-2782
+Date of decision: 25 February 2010 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 Division 6 of Part III section 95 subsection 98(3)
+Income Tax Assessment Act 1997 section 855-15 subsection 855-40(3) subsection 995-1(1) Case References: Australian Machinery and Investment Co Ltd v Deputy Commissioner of Taxation (1946) 180 CLR 9 (1946) 3 AITR 359 (1946) 8 ATD 81 Cliffs International Inc v Commissioner of Taxation (Cth) (1985) 80 FLR 12 (1985) 85 ATC 4374 (1985) 16 ATR 601 Federal Commissioner of Taxation v Efstathakis (1979) 38 FLR 276 79 ATC 4256 9 ATR 867 Lovell & Christmas Ltd v Commissioner of Taxes (Vict) [1908] AC 46 Nathan v Federal Commissioner of Taxation (1918) 25 CLR 183 Related Public Rulings (including Determinations) Taxation Ruling IT 2049 Related ATO Interpretative Decisions ATO ID 2010/55 Keywords Capital gains tax Capital gains Foreign income Foreign source income Siebel/TDMS Reference Number: 6337586 Business Line: Public Groups and International Date of publication: 5 March 2010 ISSN: 1445-2782

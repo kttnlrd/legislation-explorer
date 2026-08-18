@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/219
-==================================================
-
-Income Tax
- Capital Gains Tax: pre-CGT asset and majority underlying interest - whether an ultimate owner can have an underlying interest in a CGT asset where there is an interposed superannuation fund
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: pre-CGT asset and majority underlying interest - whether an ultimate owner can have an underlying interest in a CGT asset where there is an interposed superannuation fund FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can an individual have a beneficial interest for the purposes of subsections 149-15(4) and 149-15(5) of the Income Tax Assessment Act 1997 (ITAA 1997) in a capital gains tax (CGT) asset where the entity that owns the CGT asset is itself owned by a superannuation fund of which the individual is a member?
 Decision
 Yes. Those subsections hypothesise distributions of capital or dividends that override the common law position that a member of a superannuation fund has no interest in the fund's assets.
@@ -24,65 +13,14 @@ Reasons for Decision
 Under subsection 149-30(1) of the ITAA 1997 a CGT asset of an entity stops being a pre-CGT asset at the earliest time when the 'majority underlying interests' in the asset were not held by ultimate owners who held majority underlying interests in the asset immediately before 20 September 1985.
 Both unit trust and superannuation fund constitute an 'entity' by virtue of paragraphs 960-100(1)(f) and 960-100(1)(g) respectively of the ITAA 1997.
 The individual is an 'ultimate owner' in accordance with paragraph 149-15(3)(a) of the ITAA 1997. A superannuation fund cannot be an 'ultimate owner' under subsection 149-15(3) of the ITAA 1997.
-Subsection 149-15(1) of the ITAA 1997 specifies that the 'majority underlying interests' in a CGT asset consist of:
-
-(a)more than 50% of the beneficial interests that ultimate owners have (whether directly or indirectly) in the asset; and
-(b)more than 50% of the beneficial interests that ultimate owners have (whether directly or indirectly) in any ordinary income that may be derived from the asset.
-
-At common law, the individual has no interest in the assets of the superannuation fund including its units in the unit trust.
+Subsection 149-15(1) of the ITAA 1997 specifies that the 'majority underlying interests' in a CGT asset consist of: (a)more than 50% of the beneficial interests that ultimate owners have (whether directly or indirectly) in the asset; and
+(b)more than 50% of the beneficial interests that ultimate owners have (whether directly or indirectly) in any ordinary income that may be derived from the asset. At common law, the individual has no interest in the assets of the superannuation fund including its units in the unit trust.
 However, the operation of subsections 149-15(4) and 149-15(5) of the ITAA 1997 which determine whether an ultimate owner has an indirect interest in a CGT asset or the ordinary income that may be derived from the asset, override that common law position.
 Both subsections test for the existence of indirect beneficial interests by respectively hypothesising that an individual could receive for his or her own benefit any capital or dividends distributed by a superannuation fund of which he or she is a member.
-Subsection 149-15(4) of the ITAA 1997 provides that:
-
-An *ultimate owner indirectly has a beneficial interest in a *CGT asset of another entity (that is not an ultimate owner) if he, she or it would receive for his, her or its own benefit any of the capital of the other entity if:
-
-(a)the other entity were to distribute any of its capital; and
-(b)the capital were then successively distributed by each entity interposed between the other entity and the ultimate owner.* denotes a term defined in section 995-1 of the ITAA 1997.
-
-Similarly subsection 149-15(5) of the ITAA 1997 provides that:
-
-An *ultimate owner
- indirectly
- has a beneficial interest in *ordinary income that may be *derived from a *CGT asset of another entity (that is not an *ultimate owner) if he, she or it would receive for his, her or its own benefit any of a *dividend or income if:
-
-(a)the other entity were to pay that dividend, or otherwise distribute that income; and
-(b)the dividend or income were then successively paid or distributed by each entity interposed between the other entity and the ultimate owner.
-
-As the only member of the superannuation fund, it is reasonable to conclude that the individual would receive for 'his or her own benefit' any capital or dividends that the entity superannuation fund would hypothetically pay.
+Subsection 149-15(4) of the ITAA 1997 provides that: An *ultimate owner indirectly has a beneficial interest in a *CGT asset of another entity (that is not an ultimate owner) if he, she or it would receive for his, her or its own benefit any of the capital of the other entity if: (a)the other entity were to distribute any of its capital; and
+(b)the capital were then successively distributed by each entity interposed between the other entity and the ultimate owner.* denotes a term defined in section 995-1 of the ITAA 1997. Similarly subsection 149-15(5) of the ITAA 1997 provides that: An *ultimate owner indirectly has a beneficial interest in *ordinary income that may be *derived from a *CGT asset of another entity (that is not an *ultimate owner) if he, she or it would receive for his, her or its own benefit any of a *dividend or income if: (a)the other entity were to pay that dividend, or otherwise distribute that income; and
+(b)the dividend or income were then successively paid or distributed by each entity interposed between the other entity and the ultimate owner. As the only member of the superannuation fund, it is reasonable to conclude that the individual would receive for 'his or her own benefit' any capital or dividends that the entity superannuation fund would hypothetically pay.
 Accordingly the individual at all relevant times has had 100% of the beneficial interests, for the purposes of subsections 149-15(4) and 149-15(5) of the ITAA 1997, in the unit trust's pre-CGT asset and any ordinary income that may be derived from the asset.
 Those beneficial interests constitute 'underlying interests' in the pre-CGT asset under subsection 149-15(2) of the ITAA 1997.
-Subsection 149-15(2) of the ITAA 1997 provides as follows:
-
-An
- underlying interest
- in a CGT asset is a beneficial interest that an ultimate owner has (whether directly or indirectly) in the asset or in any ordinary income that may be *derived from the asset.'
-
-As the sole owner of all underlying interests in unit trust's pre-CGT asset, there has been no change in the majority underlying interests in the pre-CGT asset for the purposes of subsection 149-15(1) of the ITAA 1997.
-Date of decision:
-  31 July 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 149   subsection 149-15(1)   subsection 149-15(2)   paragraph 149-15(3)(a)   subsection 149-15(4)   subsection 149-15(5)   subsection 149-30(1)   paragraph 960-100(1)(f)   paragraph 960-100(1)(g)
-
-Keywords
-
-Capital gains tax
- CGT assets
- Majority underlying interests
- Pre-CGT assets
-
-Siebel/TDMS Reference Number:
-  5367547
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  11 August 2006
-
-ISSN:
- 1445-2782
+Subsection 149-15(2) of the ITAA 1997 provides as follows: An underlying interest in a CGT asset is a beneficial interest that an ultimate owner has (whether directly or indirectly) in the asset or in any ordinary income that may be *derived from the asset.' As the sole owner of all underlying interests in unit trust's pre-CGT asset, there has been no change in the majority underlying interests in the pre-CGT asset for the purposes of subsection 149-15(1) of the ITAA 1997.
+Date of decision: 31 July 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 Division 149 subsection 149-15(1) subsection 149-15(2) paragraph 149-15(3)(a) subsection 149-15(4) subsection 149-15(5) subsection 149-30(1) paragraph 960-100(1)(f) paragraph 960-100(1)(g) Keywords Capital gains tax CGT assets Majority underlying interests Pre-CGT assets Siebel/TDMS Reference Number: 5367547 Business Line: Public Groups and International Date of publication: 11 August 2006 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/100
-==================================================
-
-Superannuation
- Crystallised segment of a superannuation interest
- FOI status: may be released
-
-The ATO ID is considered no longer necessary, as it is highly unlikely that the scenario it covers would occur in the future.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Crystallised segment of a superannuation interest FOI status: may be released The ATO ID is considered no longer necessary, as it is highly unlikely that the scenario it covers would occur in the future. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a complying superannuation fund required to recalculate the crystallised segment of a superannuation interest when an eligible person subsequently gives a notice under subsection 82AAT(1A) of the Income Tax Assessment Act 1936 (ITAA 1936) which is acknowledged by the trustee of that fund?
 Decision
 Yes, a complying superannuation fund is required to recalculate the crystallised segment of a superannuation interest when an eligible person subsequently gives a notice under subsection 82AAT(1A) of the ITAA 1936 which is acknowledged by the trustee of the fund.
@@ -36,55 +21,8 @@ The crystallised segment is so much of the value of the interest as consists of 
 As provided by subsection 307-225(4) of the ITAA 1997, the terms 'eligible termination payment' and 'undeducted contributions' have the same meaning as in subsection 27A(1) of the ITAA 1936 as in force just before 1 July 2007.
 Undeducted contributions include member contributions made to the superannuation fund after 30 June 1983 for which no income tax deductions were allowable or were allowed to the member.
 After the receipt of the 82AAT(1A) notice (and its acknowledgment by the trustee), the amount of undeducted contributions reflected in the original calculation of the crystallised segment will need to be adjusted as some of the member contributions in the 2006-07 income year have been claimed as an income tax deduction. The original calculation of the undeducted contributions by the trustee does not correctly reflect the actual amount of undeducted contributions in the notional ETP for the purposes of working out the crystallised segment.
-Item 1 in the table in subsection 295-190(1) of the ITAA 1997 also requires that the amount which the member claims as an income tax deduction that is set out in an 82AAT(1A) notice must be included in the superannuation fund's assessable income. Subsection 295-190(1) of the Income Tax (Transitional Provisions) Act 1997 provides that an 82AAT(1A) notice in relation to the 2006-07 income year or an earlier year has effect, after 1 July 2007, as if it were a notice under section 290-170 of the ITAA 1997.
-
-Note 1: a change in the undeducted contributions component may also affect the pre-July 1983 component because of the calculation performed under section 27AA of the ITAA 1936 which determines the pre-July 1983 amount under subsection 307-225(2) of the ITAA 1997.
-
-Date of decision:
-  12 June 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 27A   section 27AA   subsection 82AAS(2)   subsection 82AAT(1A)
-Income Tax Assessment Act 1997   section 290-170   section 295-190   section 307-210   section 307-225
-Income tax (Transitional Provisions) Act 1997   section 295-190
-
-Keywords
-
-Contributions by eligible persons - notices
- Crystallised segment of superannuation interest
- Contributions segment of superannuation interest
- Eligible termination payments
- ETP undeducted contributions component
- Superannuation contributions by eligible persons
- Superannuation interest
- Taxable component of superannuation interest
- Tax free component of superannuation interest
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  4 July 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 June 2008
-Original statement
-
-You are here
- 3 October 2014
+Item 1 in the table in subsection 295-190(1) of the ITAA 1997 also requires that the amount which the member claims as an income tax deduction that is set out in an 82AAT(1A) notice must be included in the superannuation fund's assessable income. Subsection 295-190(1) of the Income Tax (Transitional Provisions) Act 1997 provides that an 82AAT(1A) notice in relation to the 2006-07 income year or an earlier year has effect, after 1 July 2007, as if it were a notice under section 290-170 of the ITAA 1997. Note 1: a change in the undeducted contributions component may also affect the pre-July 1983 component because of the calculation performed under section 27AA of the ITAA 1936 which determines the pre-July 1983 amount under subsection 307-225(2) of the ITAA 1997. Date of decision: 12 June 2008 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1936 section 27A section 27AA subsection 82AAS(2) subsection 82AAT(1A)
+Income Tax Assessment Act 1997 section 290-170 section 295-190 section 307-210 section 307-225
+Income tax (Transitional Provisions) Act 1997 section 295-190 Keywords Contributions by eligible persons - notices Crystallised segment of superannuation interest Contributions segment of superannuation interest Eligible termination payments ETP undeducted contributions component Superannuation contributions by eligible persons Superannuation interest Taxable component of superannuation interest Tax free component of superannuation interest Business Line: Superannuation Date of publication: 4 July 2008 ISSN: 1445-2782 history Date: Version: 12 June 2008
+Original statement You are here 3 October 2014
 Archived

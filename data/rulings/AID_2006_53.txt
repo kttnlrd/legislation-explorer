@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/53
-==================================================
-
-Income Tax
- Capital Gains Tax: disposal of a life insurance business - value of in force business
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: disposal of a life insurance business - value of in force business FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a capital gain made by a life insurance company on the disposal of its life insurance business disregarded under item 1 in the table in subsection 118-300(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where the capital gain relates to the consideration received by the company for the future profits component of the value of the 'in force business' of the company?
 Decision
 No. A capital gain made by a life insurance company on the disposal of its life insurance business is not disregarded under item 1 in the table in subsection 118-300(1) of the ITAA 1997 where the capital gain relates to the consideration received by the company for the future profits component of the value of the 'in force business' of the company.
@@ -22,44 +11,11 @@ The valuation of in force business involved an assessment of the present value o
 The value of in force business may also include an amount in respect of regulatory surplus assets relating to current policies. This decision concerns the component of the value worked out in respect of future profits.
 Reasons for Decision
 Under subsection 118-300(1) of the ITAA 1997, any capital gain or capital loss made from certain CGT events that happen in relation to an insurer's interest in rights under insurance policies, which it has issued, is disregarded.
-The exemption under item 1 in the table in subsection 118-300(1) of the ITAA 1997 only applies if all of the following conditions are satisfied:
-
-•there is a capital gain or capital loss
+The exemption under item 1 in the table in subsection 118-300(1) of the ITAA 1997 only applies if all of the following conditions are satisfied: •there is a capital gain or capital loss
 •the capital gain or capital loss arises from a relevant CGT event (see subsection 118-300(2) of the ITAA 1997), and
-•the CGT event relates to a CGT asset that is the specified taxpayer's interest in rights under a general insurance policy, a life insurance policy or an annuity instrument.
-
-The value of the transferor's in force business was based on an estimate of its future profits. The projected future profits depended on the provision of future services to policy holders with existing policy contracts. There was no enforceable right to the estimated future profits until such time as the services had been provided by the transferor.
+•the CGT event relates to a CGT asset that is the specified taxpayer's interest in rights under a general insurance policy, a life insurance policy or an annuity instrument. The value of the transferor's in force business was based on an estimate of its future profits. The projected future profits depended on the provision of future services to policy holders with existing policy contracts. There was no enforceable right to the estimated future profits until such time as the services had been provided by the transferor.
 In the general scheme of a life insurance policy, the profit element will be impacted by various factors, including whether and for how long the policy holder continues to maintain the policy with the life insurance company, or in a transfer of business, maintain the policy with the transferee.
 Where policy holders maintain the policy following a transfer of business, the transferee would normally earn the profits associated with the policies transferred. These anticipated profits are recognised in the value of in force business. The profits would arise from the performance of the contracts in the ongoing operations of the insurance business after the business transfer. The value of the profits is not considered to be attributable to any rights that the transferor may have in the transferred policies.
 Accordingly, it is not considered that the value of in force business reflected the transferor's 'interest in rights' under the insurance policies for the purposes of subsection 118-300(1) of the ITAA 1997, nor that the consideration paid for the transfer of in force business could be attributed to the policy rights which are the subject matter of the exemption.
 The amount paid for the future economic benefits represented by the value of in force business was not consideration for the realisation of the transferor's interest in rights under life insurance policies. It follows that the capital gain made from 'in force business' on disposal of the life insurance business is not disregarded under item 1 in the table in subsection 118-300(1) of the ITAA 1997.
-Date of decision:
-  15 February 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 118-300(1)   subsection 118-300(2)
-
-Keywords
-
-Capital gains
- Capital gains tax
- CGT exemptions
- Insurance industry
- Life insurance company
- Life insurance policies
-
-Siebel/TDMS Reference Number:
-  5091371
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 February 2006
-
-ISSN:
- 1445-2782
+Date of decision: 15 February 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 subsection 118-300(1) subsection 118-300(2) Keywords Capital gains Capital gains tax CGT exemptions Insurance industry Life insurance company Life insurance policies Siebel/TDMS Reference Number: 5091371 Business Line: Public Groups and International Date of publication: 24 February 2006 ISSN: 1445-2782

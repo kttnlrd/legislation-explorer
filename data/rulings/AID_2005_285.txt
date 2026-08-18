@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/285
-==================================================
-
-Income tax
- Group company loss transfers: transfer of part of the tax loss incurred during part of the loss year - income company unable to deduct tax loss in deduction year
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Group company loss transfers: transfer of part of the tax loss incurred during part of the loss year - income company unable to deduct tax loss in deduction year FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a company choose to transfer a part of a tax loss that was incurred during a part of the loss year to another company that is a member of the same wholly-owned group, pursuant to Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997) as it formerly applied?
 Decision
 No. Section 170-10 of the ITAA 1997 permits a company to transfer the whole or part of its tax loss for the loss year to another company within the same wholly-owned group where certain conditions are met, but this does not allow the company to choose to transfer a part of the loss referable to a particular period in the loss year.
@@ -27,43 +16,7 @@ Subdivision 170-A of the ITAA 1997, as it operated for income years before the a
 Section 170-10 of the ITAA 1997 provides that a loss company can transfer an amount of its tax loss, as defined, for an income year to an income company if the conditions in Subdivision 170-A are met. The amount transferred can be the whole or part of the tax loss.
 It is considered that the reference to 'or part' of the tax loss in section 170-10 reflects the fact that the loss company is not required by Subdivision 170-A to transfer the full amount of its available tax loss. It can instead agree to transfer a lesser part of that amount.
 Furthermore, Subdivision 170-A does not contain any provision that provides a loss company with the right to choose that the transferred amount is in respect of any particular part(s) of the loss year.
-An amount of tax loss that is transferred to an income company is deemed by subsection 170-15(1) of the ITAA 1997 to be a tax loss incurred by the income company in the loss year. That loss is not deemed to be incurred in respect of any particular
- part
- of the loss year but rather the
- whole
- of the loss year.
+An amount of tax loss that is transferred to an income company is deemed by subsection 170-15(1) of the ITAA 1997 to be a tax loss incurred by the income company in the loss year. That loss is not deemed to be incurred in respect of any particular part of the loss year but rather the whole of the loss year.
 Subdivision 170-A contains a number of conditions that restrict the amount of tax loss that the loss company can transfer to the income company. In particular, subsection 170-40(2) of the ITAA 1997 provides that the income company must not be prevented by Division 165 or 175 of the ITAA 1997 from deducting the transferred amount.
 As Income Company had a change of ownership in the loss year and was not able to satisfy the same business test in respect of the deduction year, Division 165 would prevent Income Company from deducting the transferred amount. Accordingly, Loss Company's tax loss is not available for transfer to Income company for the deduction year as subsection 170-40(2) is not satisfied.
-Date of decision:
-  6 October 2005
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 165   Subdivision 170-A   section 170-10   subsection 170-15(1)   section 170-30   subsection 170-40(2)   Subdivision 175-A
-
-Case References:
-
-Keycorp Limited v. Commissioner of Taxation   [2007] FCA 41
-
-Keywords
-
-Company losses
- Continuity of ownership test
- Group company loss transfers
- Same business test
- Tax loss
-
-Siebel/TDMS Reference Number:
-  4758410
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  14 October 2005
-
-ISSN:
- 1445-2782
+Date of decision: 6 October 2005 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Division 165 Subdivision 170-A section 170-10 subsection 170-15(1) section 170-30 subsection 170-40(2) Subdivision 175-A Case References: Keycorp Limited v. Commissioner of Taxation [2007] FCA 41 Keywords Company losses Continuity of ownership test Group company loss transfers Same business test Tax loss Siebel/TDMS Reference Number: 4758410 Business Line: Public Groups and International Date of publication: 14 October 2005 ISSN: 1445-2782

@@ -31,16 +31,16 @@ source_pdf: "vol02.pdf"
 > <a id="s82KZL-1-d"></a>
 > **(d)**  if that day or last day ends more than 10 years after the beginning of the period—10 years after the beginning of the period. excluded expenditure means an amount of expenditure:
 
-> <a id="s82KZL-1-a"></a>
+> <a id="s82KZL-1-a-2"></a>
 > **(a)**  less than $1,000; or
 
-> <a id="s82KZL-1-b"></a>
+> <a id="s82KZL-1-b-2"></a>
 > **(b)**  required to be incurred by a law, or by an order of a court, of the Commonwealth, a State or a Territory; or
 
-> <a id="s82KZL-1-c"></a>
+> <a id="s82KZL-1-c-2"></a>
 > **(c)**  under a contract of service; or
 
-> <a id="s82KZL-1-d"></a>
+> <a id="s82KZL-1-d-2"></a>
 > **(d)**  to the extent that it is of a capital nature and cannot be deducted under:
 
 > > <a id="s82KZL-1-d-i"></a>
@@ -58,16 +58,16 @@ source_pdf: "vol02.pdf"
 > <a id="s82KZL-1-f"></a>
 > **(f)**  that has been or is incurred after 21 September 1999 by a general insurance company in payment of reinsurance premiums in respect of the reinsurance of risks covered by general insurance policies, other than reinsurance premiums that were or are paid in respect of a particular class of insurance business where, under the contract of reinsurance, the reinsurer agrees, in respect of a loss incurred by the company that is covered by the relevant policy, to pay only some or all of the excess over an agreed amount. pre-RBT obligation means a contractual obligation that:
 
-> <a id="s82KZL-1-a"></a>
+> <a id="s82KZL-1-a-3"></a>
 > **(a)**  exists under an agreement at or before 11.45 am (by legal time in the Australian Capital Territory) on 21 September 1999; and
 
-> <a id="s82KZL-1-b"></a>
+> <a id="s82KZL-1-b-3"></a>
 > **(b)**  requires the payment of an amount for the doing of a thing under the agreement; and
 
-> <a id="s82KZL-1-c"></a>
+> <a id="s82KZL-1-c-3"></a>
 > **(c)**  requires the payment to be made before the doing of the thing; and
 
-> <a id="s82KZL-1-d"></a>
+> <a id="s82KZL-1-d-3"></a>
 > **(d)**  cannot be escaped by unilateral action by the party bound by the obligation to make the payment. R&D activities has the same meaning as in the Income Tax Assessment Act 1997. transfer includes assign.
 
 <a id="s82KZL-2"></a>

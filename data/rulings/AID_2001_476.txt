@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/476
-==================================================
-
-Goods and Services Tax
- GST and the supply of an alternative mouse device
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and the supply of an alternative mouse device FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of computer equipment, making a GST-free supply under subsection 38-45(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells the alternative mouse device?
 Decision
 Yes, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it sells the alternative mouse device.
@@ -21,55 +10,17 @@ The entity is a supplier of computer equipment. The entity sells an alternative 
 Unlike a standard mouse that is controlled by hand, the alternative mouse device is controlled by head movement and uses a direct focused beam of light to operate the computer. It is designed for people who are unable to use a standard computer mouse due to upper limb impairment, such as a person who is quadriplegic or a person with cerebral palsy.
 The entity is registered for goods and services tax (GST). There is no agreement between the entity and the recipient to treat the supply as not a GST-free supply.
 Reasons for Decision
-Under subsection 38-45(1) of the GST Act, the supply of a medical aid and appliance is GST-free where the medical aid or appliance:
-
-• is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
+Under subsection 38-45(1) of the GST Act, the supply of a medical aid and appliance is GST-free where the medical aid or appliance: • is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
 • is specifically designed for people with an illness or disability; and
-• is not widely used by people without an illness or disability.
-
-Item 11 in the table in Schedule 3 (Item 11) lists 'mouth/head sticks/pointers'. Head pointers are not defined in the GST Act.
+• is not widely used by people without an illness or disability. Item 11 in the table in Schedule 3 (Item 11) lists 'mouth/head sticks/pointers'. Head pointers are not defined in the GST Act.
 Generally, where a word or phrase is not defined, it is usually interpreted in accordance with its ordinary meaning unless it has a special or technical meaning. Where a word or phrase has a special or technical meaning, it is necessary to determine the meaning by reference to the industry to which that word or phrase relates (Herbert Adams Pty Ltd v FCT (1932) 47 CLR 222).
 It is considered that the term 'head pointers' has a special or technical meaning. A head pointer is a device which is placed on the head and is used to point to objects or to press switches or keys on a keyboard. It may operate using a pointer or a focused beam of light.
 In this case, the alternative mouse device is controlled by head movements and uses a direct focused beam of light to operate the computer. Therefore, it is considered that the mouse device is covered by Item 11.
 The alternative mouse device is designed for people who have an upper limb impairment such as a quadriplegic or a person with cerebral palsy. Therefore, it is considered the alternative mouse device is specifically designed for people with an illness or disability and not widely used by people without an illness or disability.
 Therefore, the entity is making a GST-free supply under subsection 38-45c(1) of the GST Act when it sells the alternative mouse device.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-9 April 2019
+Comment 9 April 2019
 Throughout
-Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019.
-
-Date of decision:
-  25 September 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 38-45(1)   Schedule 3   Schedule 3 table item 11
-A New Tax System (Goods and Services Tax) Regulations 2019   The Regulations
-
-Case References:
-
-Herbert Adams Pty Ltd v FCT    (1932) 47 CLR 222
-
-Keywords
-
-Goods & services tax
- GST free
- GST health
- Section 38-45 - medical aids & appliances
-
-Siebel/TDMS Reference Number:
-  CW238171
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  17 October 2001
-
-ISSN:
- 1445-2782
+Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019. Date of decision: 25 September 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 38-45(1) Schedule 3 Schedule 3 table item 11
+A New Tax System (Goods and Services Tax) Regulations 2019 The Regulations Case References: Herbert Adams Pty Ltd v FCT (1932) 47 CLR 222 Keywords Goods & services tax GST free GST health Section 38-45 - medical aids & appliances Siebel/TDMS Reference Number: CW238171 Business Line: Indirect Tax Date of publication: 17 October 2001 ISSN: 1445-2782

@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/210
-==================================================
-
-Fringe Benefits Tax
- Employee contributions: excess contributions used in a later FBT year
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Employee contributions: excess contributions used in a later FBT year FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If an employee makes contributions to an employer from after-tax salary income, that are in excess of the recipient's payment required to reduce the taxable value of a car fringe benefit to nil under subparagraph 9(2)(e)(i) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA), can those excess amounts be applied to a fringe benefit provided in a later FBT year?
 Decision
 Yes. Where there is a remuneration agreement in place between the employer and employee to make recipient's payments under subparagraph 9(2)(e)(i) of the FBTAA to the extent of the taxable value of the fringe benefit, excess amounts may be set aside for a later FBT year.
@@ -26,64 +13,11 @@ The employee makes contributions to the employer that are in excess of the amoun
 Under the remuneration arrangement the excess amount of contributions paid by the employee are held by the employer until the following FBT year, when they can be applied against the taxable value of the employee's car fringe benefits in that year.
 Reasons for Decision
 Under subsection 9(1) of the FBTAA the taxable value of car fringe benefits calculated under the statutory formula method, can be reduced by the amount of the recipient's payment. Subparagraph 9(2)(e)(i) of the FBTAA then explains that the recipient's payment is the amount of the consideration paid to the employer by the employee in respect of the provision of the car fringe benefits.
-Where a remuneration arrangement entered into between an employer and employee requires that the employee makes contributions, from after-tax salary income, to the extent of reducing the taxable value of any car fringe benefits to nil, only these amounts can be regarded as consideration for the provision of the car fringe benefits, due to the remuneration agreement that is in place. Amounts that are paid to the employer in excess of these amounts are not recipient's payments in this year, and can be either refunded to the employee, or dealt with as agreed between the employer and employee, including being set aside for a later FBT year.
-
-Note: Under the valuation rules for most types of fringe benefits, the gross taxable value of a benefit provided to an employee is reduced by the amount of any employee contribution. The principles that apply to car benefits and recipient's payments, as discussed above, could apply to these types of benefits and contributions.
-
-Amendment History
-
-Date of Amendment
+Where a remuneration arrangement entered into between an employer and employee requires that the employee makes contributions, from after-tax salary income, to the extent of reducing the taxable value of any car fringe benefits to nil, only these amounts can be regarded as consideration for the provision of the car fringe benefits, due to the remuneration agreement that is in place. Amounts that are paid to the employer in excess of these amounts are not recipient's payments in this year, and can be either refunded to the employee, or dealt with as agreed between the employer and employee, including being set aside for a later FBT year. Note: Under the valuation rules for most types of fringe benefits, the gross taxable value of a benefit provided to an employee is reduced by the amount of any employee contribution. The principles that apply to car benefits and recipient's payments, as discussed above, could apply to these types of benefits and contributions. Amendment History Date of Amendment
 Part
-Comment
-
-20 March 2026
+Comment 20 March 2026
 Business line
-Updated to correct business line and punctuation
-
-Date of decision:
-  9 March 2005
-
-Year of income:
-  Year ended 31 March 2005
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   subsection 9(1)   paragraph 9(2)(e)
-
-Keywords
-
-FBT employee contributions
- Fringe benefits tax
- Recipients contributions
- Recipients payment
-
-Siebel/TDMS Reference Number:
-  4400460; 1-6CLVUDY
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  29 July 2005
-
-Date reviewed:
-  12 March 2026
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 March 2005
-Original statement
-
-You are here
+Updated to correct business line and punctuation Date of decision: 9 March 2005 Year of income: Year ended 31 March 2005 Legislative References: Fringe Benefits Tax Assessment Act 1986 subsection 9(1) paragraph 9(2)(e) Keywords FBT employee contributions Fringe benefits tax Recipients contributions Recipients payment Siebel/TDMS Reference Number: 4400460; 1-6CLVUDY Business Line: Superannuation and Employer Obligations Date of publication: 29 July 2005 Date reviewed: 12 March 2026 ISSN: 1445-2782 history Date: Version: 9 March 2005
+Original statement You are here
 20 March 2026
 Updated statement

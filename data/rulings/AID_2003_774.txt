@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/774
-==================================================
-
-Income Tax
- Capital Gains Tax: capital proceeds - shares held in escrow
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: capital proceeds - shares held in escrow FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are shares received for the sale of a CGT asset included in the capital proceeds for the sale under subsection 116-20(1) of the Income Tax Assessment Act 1997 (ITAA 1997) if the shares are subject to a deed of escrow which imposed a restriction on dealing in the shares?
 Decision
 Yes. The restrictions on dealing in the shares imposed by the deed of escrow do not prevent them being property received in respect of the sale and therefore capital proceeds under paragraph 116-20(1)(b) of the ITAA 1997.
@@ -26,32 +15,4 @@ Reasons for Decision
 The sale of the taxpayer's business caused CGT event A1 in section 104-10 of the ITAA 1997 to happen. The capital proceeds from a CGT event are the total of the money and the market value of other property received in respect of the event: subsection 116-20(1) of the ITAA 1997. The market value of other property is to be worked out at the time of the event (paragraph 116-20(1)(b)).
 The restrictions on dealing in the shares imposed by the deed of escrow do not prevent them being property received in respect of the sale, that is, in respect of the CGT event. The taxpayer received the shares, albeit with a restriction attached. While the taxpayer could not sell the shares for 12 months, they were entitled to all the other benefits of a shareholder.
 Therefore, the market value of the shares at the time of the sale is included in the taxpayer's capital proceeds (paragraph 116-20(1)(b) of the ITAA 1997). The taxpayer cannot use the value of the shares at the end of the escrow period for this purpose.
-Date of decision:
-  24 July 2003
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-10   subsection 116-20(1)   paragraph 116-20(1)(b)
-
-Keywords
-
-Capital gains
- Capital gains tax
- CGT capital proceeds
- Property law
- Shares
-
-Siebel/TDMS Reference Number:
-  3638372
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  29 August 2003
-
-ISSN:
- 1445-2782
+Date of decision: 24 July 2003 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1997 section 104-10 subsection 116-20(1) paragraph 116-20(1)(b) Keywords Capital gains Capital gains tax CGT capital proceeds Property law Shares Siebel/TDMS Reference Number: 3638372 Business Line: Small Business/Individual Taxpayers Date of publication: 29 August 2003 ISSN: 1445-2782

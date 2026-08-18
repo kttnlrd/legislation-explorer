@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/33
-==================================================
-
-Income Tax
- Capital gains tax: specifically entitled
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: specifically entitled CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a beneficiary be specifically entitled to a capital gain made by the trustee of a trust by reason of the happening of CGT event E5 in section 104-75 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. If a trustee of a trust makes a capital gain by reason of CGT event E5 when a beneficiary becomes absolutely entitled to an asset of the trust, the beneficiary can be specifically entitled to the gain.
@@ -24,53 +14,8 @@ Some of the trust income for the 2011-12 income year had been distributed to the
 Reasons for Decision
 The capital gains tax streaming provisions in Subdivision 115-C of the ITAA 1997 (which operate in respect of the 2010-11 and later income years following substantial amendments made to the Subdivision) ensure, among other things, that a beneficiary of a trust who is made 'specifically entitled' to a capital gain made by the trustee (a 'trust capital gain') will be assessed on it (rather than the gain being assessed proportionately to the beneficiaries entitled to trust income).
 Section 115-228 of the ITAA 1997 sets out when a beneficiary will be regarded as specifically entitled to a trust capital gain (either in whole or in part). To be specifically entitled to the whole gain, one requirement is that the beneficiary must have received, or can reasonably expect to receive, in accordance with the terms of the trust, all of the financial benefit referable to the capital gain (paragraphs (a) and (b) of the definition of 'share of net financial benefit' in subsection 115-228(1) of the ITAA 1997). Another requirement is that the financial benefit be recorded, again in accordance with the terms of the trust, in the accounts or records of the trust in its character as referable to the capital gain (paragraph (c) of the definition).
-The issues in this case are:
-
-•whether a beneficiary can be said to have received or be expected to receive all of the financial benefit referrable to a capital gain in a situation where the capital gain arises because the beneficiary has been made absolutely entitled to a trust asset as against the trustee and the quantum of the capital gain is worked out by reference to the market value of the asset; and
-•whether the financial benefit that the beneficiary has received or can be expected to receive has been recorded in the accounts or records of the trust in its character as referable to the capital gain.
-
-As to the first issue, the Explanatory Memorandum to the Bill that on enactment introduced section 115-228 of the ITAA 1997 stated:
-
-2.59 [W]hether a beneficiary can be specifically entitled to a capital gain or franked distribution is a question of fact. For example, when a beneficiary becomes absolutely entitled to a trust asset, it may be reasonable to expect the beneficiary will receive the net financial benefit referable to the deemed (trust) capital gain from CGT event E5.
-
-In this case the financial benefit referable to the capital gain is the asset itself (or the value of that asset) and the absolutely entitled beneficiary is, in accordance with the terms of the trust created by the will, the only one that is expected to receive the asset (and thus that benefit).
-As to the second issue, the Explanatory Memorandum stated:
-
-2.63 The accounts or records of the trust would include the trust deed itself, statements of resolution or distribution statements, including schedules or notes attached to, or intended to be read with them. However, a record merely for tax purposes is not sufficient.
-
-In this case, the will which created the trust meets the description of a record of the trust in which is recorded the financial benefit that the daughter is expected to receive in its character as a benefit referable to the capital gain - the will records the daughter's absolute entitlement to the asset.
+The issues in this case are: •whether a beneficiary can be said to have received or be expected to receive all of the financial benefit referrable to a capital gain in a situation where the capital gain arises because the beneficiary has been made absolutely entitled to a trust asset as against the trustee and the quantum of the capital gain is worked out by reference to the market value of the asset; and
+•whether the financial benefit that the beneficiary has received or can be expected to receive has been recorded in the accounts or records of the trust in its character as referable to the capital gain. As to the first issue, the Explanatory Memorandum to the Bill that on enactment introduced section 115-228 of the ITAA 1997 stated: 2.59 [W]hether a beneficiary can be specifically entitled to a capital gain or franked distribution is a question of fact. For example, when a beneficiary becomes absolutely entitled to a trust asset, it may be reasonable to expect the beneficiary will receive the net financial benefit referable to the deemed (trust) capital gain from CGT event E5. In this case the financial benefit referable to the capital gain is the asset itself (or the value of that asset) and the absolutely entitled beneficiary is, in accordance with the terms of the trust created by the will, the only one that is expected to receive the asset (and thus that benefit).
+As to the second issue, the Explanatory Memorandum stated: 2.63 The accounts or records of the trust would include the trust deed itself, statements of resolution or distribution statements, including schedules or notes attached to, or intended to be read with them. However, a record merely for tax purposes is not sufficient. In this case, the will which created the trust meets the description of a record of the trust in which is recorded the financial benefit that the daughter is expected to receive in its character as a benefit referable to the capital gain - the will records the daughter's absolute entitlement to the asset.
 It follows that the absolutely entitled beneficiary will be regarded as specifically entitled to the capital gain that arose from CGT event E5 happening to the shares. It also follows that no portion of the gain falls to be assessed to the life tenant.
-Date of decision:
-  21 May 2013
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-75   subsection 104-75(5)   paragraph 104-75(6)(a)   Subdivision 115-C   section 115-228   subsection 115-228(1)
-
-Other References:
-
- Explanatory memorandum to the Tax Laws Amendment (2011 Measures No. 5) Bill 2011
-
-Keywords
-
-CGT event E5 beneficiary becoming entitled to a trust asset
- CGT trust distributions
- net income of a trust
- trust assets
- trust beneficiaries
- trust deeds
-
-Siebel/TDMS Reference Number:
-  1-4PO1BDA
-
-Business Line:
-  Law and Practice
-
-Date of publication:
-  24 May 2013
-
-ISSN:
- 1445-2782
+Date of decision: 21 May 2013 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1997 section 104-75 subsection 104-75(5) paragraph 104-75(6)(a) Subdivision 115-C section 115-228 subsection 115-228(1) Other References: Explanatory memorandum to the Tax Laws Amendment (2011 Measures No. 5) Bill 2011 Keywords CGT event E5 beneficiary becoming entitled to a trust asset CGT trust distributions net income of a trust trust assets trust beneficiaries trust deeds Siebel/TDMS Reference Number: 1-4PO1BDA Business Line: Law and Practice Date of publication: 24 May 2013 ISSN: 1445-2782

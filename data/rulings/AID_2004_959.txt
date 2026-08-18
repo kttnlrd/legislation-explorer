@@ -1,85 +1,24 @@
 ATO Interpretative Decision
 ATO ID 2004/959
-==================================================
-
-Income tax
- Consolidation: loss transfer testing - pattern of distributions test - a non-fixed trust holds fixed entitlements to 50% or more of the income or capital of a company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Does section 707-130 of the Income Tax Assessment Act 1997 (ITAA 1997) apply in determining whether a non-fixed trust passes the pattern of distributions test where:
-
-•a loss that is incurred by a subsidiary member is available for transfer, under Subdivision 707-A of the ITAA 1997, to the head company of a consolidated group; and
-•Subdivision 165-F of the ITAA 1997 is applicable in determining whether the subsidiary member satisfies the continuity of ownership test (COT) in respect of the loss in the trial year?
-
-Decision
+================================================== Income tax Consolidation: loss transfer testing - pattern of distributions test - a non-fixed trust holds fixed entitlements to 50% or more of the income or capital of a company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Does section 707-130 of the Income Tax Assessment Act 1997 (ITAA 1997) apply in determining whether a non-fixed trust passes the pattern of distributions test where: •a loss that is incurred by a subsidiary member is available for transfer, under Subdivision 707-A of the ITAA 1997, to the head company of a consolidated group; and
+•Subdivision 165-F of the ITAA 1997 is applicable in determining whether the subsidiary member satisfies the continuity of ownership test (COT) in respect of the loss in the trial year? Decision
 Yes. When Subdivision 165-F of the ITAA 1997 is applicable in determining whether the subsidiary member satisfies the COT in respect of the loss in the trial year, section 707-130 of the ITAA 1997 is applicable in determining whether the non-fixed trust passes the pattern of distributions test (as determined in section 269-60 of Schedule 2F to the Income Tax Assessment Act 1936 (ITAA 1936)) in respect of the loss.
 Facts
 Company A becomes a member of a consolidated group at a particular time (the joining time). At the joining time, a tax loss is available for transfer, under Subdivision 707-A of the ITAA 1997, from Company A to Head Co (the head company of the consolidated group).
 Head Co holds fixed entitlements to all of the income and capital of Company A at all times during the ownership test period.
 Trust B is a non-fixed trust that holds fixed entitlements to a 50% or greater share of the income of Head Co at all times during the ownership test period.
 Reasons for Decision
-Subsection 707-120(1) of the ITAA 1997 provides that a loss is transferred from a joining entity to the head company of a consolidated group to the extent that the loss could have been utilised by the joining entity for an income year consisting of the trial year, assuming:
-
-•that the entity had sufficient income or gains to utilise the loss; and
-•that the joining entity had not become a member of the consolidated group.
-
-The trial year is defined in subsection 707-120(2) of the ITAA 1997. It consists of the period generally starting 12 months before the joining time and ending just after the joining time. Paragraph 707-110(2)(a) of the ITAA 1997 provides that an entity utilises a tax loss to the extent that it is deducted from an amount of the entity's assessable or exempt income.
+Subsection 707-120(1) of the ITAA 1997 provides that a loss is transferred from a joining entity to the head company of a consolidated group to the extent that the loss could have been utilised by the joining entity for an income year consisting of the trial year, assuming: •that the entity had sufficient income or gains to utilise the loss; and
+•that the joining entity had not become a member of the consolidated group. The trial year is defined in subsection 707-120(2) of the ITAA 1997. It consists of the period generally starting 12 months before the joining time and ending just after the joining time. Paragraph 707-110(2)(a) of the ITAA 1997 provides that an entity utilises a tax loss to the extent that it is deducted from an amount of the entity's assessable or exempt income.
 Subdivision 165-A of the ITAA 1997 contains the conditions for determining if a company is able to deduct a tax loss under Division 36 of the ITAA 1997. Section 165-10 of the ITAA 1997 provides that a company cannot deduct a tax loss unless it meets the conditions in section 165-12 of the ITAA 1997 (that is, it satisfies the COT) or it meets the condition in section 165-13 of the ITAA 1997 (that is, it satisfies the same business test).
 Subdivision 165-F of the ITAA 1997 contains special provisions relating to situations where fixed entitlements to a share of the income or capital of a company are held by one or more non-fixed trusts. Section 165-215 of the ITAA 1997 provides that a company that does not meet the conditions in the COT in respect of a loss is nevertheless taken to satisfy the COT, if it meets all the relevant conditions contained in that section. These conditions relate broadly to situations where non-fixed trusts (other than family trusts) hold, directly or indirectly, fixed entitlements to a 50% or greater share of the income or capital of the company.
-Subsection 165-215(5) of the ITAA 1997 states:
-
-It must be the case that, for each non-fixed trust (other than an excepted trust) that, at any time during the *ownership test period, held directly or indirectly a fixed entitlement to a share of the income or capital of the company, section 267-20 of Schedule 2F to the Income Tax Assessment Act 1936 would not have prevented the non-fixed trust from deducting the *tax loss concerned if it, rather than the company, had incurred the tax loss.
-
-* denotes a term defined in section 995-1 of the ITAA 1997.
+Subsection 165-215(5) of the ITAA 1997 states: It must be the case that, for each non-fixed trust (other than an excepted trust) that, at any time during the *ownership test period, held directly or indirectly a fixed entitlement to a share of the income or capital of the company, section 267-20 of Schedule 2F to the Income Tax Assessment Act 1936 would not have prevented the non-fixed trust from deducting the *tax loss concerned if it, rather than the company, had incurred the tax loss. * denotes a term defined in section 995-1 of the ITAA 1997.
 In circumstances where Subdivision 165-F of the ITAA 1936 is applicable to determining if Company A satisfies the COT in respect of the loss in the trial year, it will be necessary to determine whether Trust B would have been able to deduct the tax loss had it incurred the loss instead of Company A (as specified in subsection 165-215(5) of the ITAA 1997).
 One of the requirements in section 267-20 of Schedule 2F to the ITAA 1936 to be met, to allow a non-fixed trust to deduct a tax loss, is that (if applicable) the trust passes the pattern of distributions test for the income year.
 Section 707-130 of the ITAA 1997 modifies the pattern of distributions test when determining whether a joining entity, that is a non-fixed trust, is able to transfer a loss to the head company of a consolidated group. These modifications ensure that the pattern of distributions test is able to be appropriately applied as a transfer test.
 Given that subsection 165-215(5) of the ITAA 1997 treats the non-fixed trust as having incurred the loss, it is appropriate that the modifications in section 707-130 of the ITAA 1997 will apply in determining if the non-fixed trust passes the pattern of distributions test, despite the fact that the non-fixed trust is not the joining entity.
 If the pattern of distributions test is relevant in determining whether Trust B could have deducted the loss, the modifications in section 707-130 of the ITAA 1997 will apply in determining whether Trust B passes the pattern of distributions test. This will ensure that the pattern of distributions test is appropriately applied to Trust B, despite the fact that Trust B is not a joining entity.
-Date of decision:
-  2 December 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2F   section 267-20   section 269-60
-Income Tax Assessment Act 1997   Division 36   Subdivision 165-A   section 165-10   section 165-12   section 165-13   Subdivision 165-F   section 165-215   subsection 165-215(5)   Subdivision 707-A   paragraph 707-110(2)(a)   subsection 707-120(1)   subsection 707-120(2)   section 707-130
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/960
-
-Keywords
-
-Consolidation
- Consolidation - joining
- Consolidation - losses
- Consolidation - pattern of distributions test
- Continuity of ownership test
- Joining entity
- Joining time
- Non fixed trusts
- Transfer of losses
- Trial year
- Utilise a loss
-
-Siebel/TDMS Reference Number:
-  4249405
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  10 December 2004
-
-ISSN:
- 1445-2782
+Date of decision: 2 December 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Schedule 2F section 267-20 section 269-60
+Income Tax Assessment Act 1997 Division 36 Subdivision 165-A section 165-10 section 165-12 section 165-13 Subdivision 165-F section 165-215 subsection 165-215(5) Subdivision 707-A paragraph 707-110(2)(a) subsection 707-120(1) subsection 707-120(2) section 707-130 Related ATO Interpretative Decisions ATO ID 2004/960 Keywords Consolidation Consolidation - joining Consolidation - losses Consolidation - pattern of distributions test Continuity of ownership test Joining entity Joining time Non fixed trusts Transfer of losses Trial year Utilise a loss Siebel/TDMS Reference Number: 4249405 Business Line: Consolidation Centre of Expertise Date of publication: 10 December 2004 ISSN: 1445-2782

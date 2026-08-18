@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/133
-==================================================
-
-Goods and Services Tax
- GST and entry into a foreign currency forward contract
- FOI status: may be released
-
-The ATO view for this issue is covered in Goods and Services Tax Ruling GSTR 2002/2.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and entry into a foreign currency forward contract FOI status: may be released The ATO view for this issue is covered in Goods and Services Tax Ruling GSTR 2002/2. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a superannuation fund, making an input taxed financial supply under section 40-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it acquires an interest in a foreign currency forward contract with a non-resident entity?
 Decision
 No, the entity is not making an input taxed financial supply when it acquires an interest in a foreign currency forward contract with a non-resident entity. Due to the operation of paragraph 9-30(3)(a) of the GST Act, the entity is making a GST-free supply under item 2 in the table in subsection 38-190(1) of the GST Act.
@@ -26,83 +11,21 @@ The entity engages a currency overlay manager who is located overseas. The curre
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. The term 'financial supply' is defined in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
-Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if:
-
-(a) the provision, acquisition or disposal of that interest is:
-
-• for consideration
+Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if: (a) the provision, acquisition or disposal of that interest is: • for consideration
 • in the course or furtherance of an enterprise
-• connected with Australia, and
-
-(b) the supplier:
-
-• is registered or required to be registered for GST, and
-• is a financial supply provider in relation to a supply of the interest.
-
-Item 11 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 11) lists an interest in or under a derivative. Part 9 of Schedule 7 to the GST Regulations (Part 9) lists examples of derivatives for the purposes of Item 11. Item 1 of Part 9 provides that forward contracts, futures contracts, swap contracts and options contracts the value of which depends on, or is derived from foreign exchange or currency values or currency index values, are derivatives for the purposes of Item 11. As the value of this forward contract depends on, or is derived from, foreign exchange or currency values or currency index values, this forward contract is considered to be a derivative for the purposes of Item 11.
+• connected with Australia, and (b) the supplier: • is registered or required to be registered for GST, and
+• is a financial supply provider in relation to a supply of the interest. Item 11 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 11) lists an interest in or under a derivative. Part 9 of Schedule 7 to the GST Regulations (Part 9) lists examples of derivatives for the purposes of Item 11. Item 1 of Part 9 provides that forward contracts, futures contracts, swap contracts and options contracts the value of which depends on, or is derived from foreign exchange or currency values or currency index values, are derivatives for the purposes of Item 11. As the value of this forward contract depends on, or is derived from, foreign exchange or currency values or currency index values, this forward contract is considered to be a derivative for the purposes of Item 11.
 Therefore, when the entity enters into the foreign currency forward contract and acquires an interest in that foreign currency forward contract, it is acquiring an interest in a derivative, which is covered by Item 11. The entity acquires this interest in Australia in the course or furtherance of its enterprise. Furthermore, the supply of the interest in the derivative is for consideration so that the acquisition of the interest by the entity is also for consideration. Therefore, all of the requirements in paragraph 40-5.09(1)(a) of the GST Regulations are satisfied.
 Paragraph 40-5.09(1)(b) of the GST Regulations provides that the supplier of the financial supply must be registered or required to be registered for GST; and must also be a 'financial supply provider' in relation to a supply of the interest.
-In this case, as the entity is registered for GST, it must be determined whether the entity is a 'financial supply provider' in relation to a supply of the interest. Under subregulation 40-5.06(1) of the GST Regulations, the financial supply provider of an interest is an entity that:
-
-• had property in the interest immediately before it was supplied; or
-• created the interest in making the supply.
-
-Subregulation 40-5.06(2) of the GST Regulations further provides that the entity that acquires that interest is also the financial supply provider of the interest. As the entity is acquiring an interest in a forward contract when it enters into that forward contract, the entity is the financial supply provider of the interest. Accordingly, the requirements in paragraph 40-5.09(1)(b) of the GST Regulations are also satisfied.
+In this case, as the entity is registered for GST, it must be determined whether the entity is a 'financial supply provider' in relation to a supply of the interest. Under subregulation 40-5.06(1) of the GST Regulations, the financial supply provider of an interest is an entity that: • had property in the interest immediately before it was supplied; or
+• created the interest in making the supply. Subregulation 40-5.06(2) of the GST Regulations further provides that the entity that acquires that interest is also the financial supply provider of the interest. As the entity is acquiring an interest in a forward contract when it enters into that forward contract, the entity is the financial supply provider of the interest. Accordingly, the requirements in paragraph 40-5.09(1)(b) of the GST Regulations are also satisfied.
 As all of the requirements in subregulation 40-5.09(1) of the GST Act are met, the entity is making a financial supply when it acquires an interest in a foreign currency forward contract. This is an input taxed supply under subsection 40-5(1) of the GST Act.
 However, under section 38-190 of the GST Act, certain supplies of things other than goods or real property, for consumption outside of Australia, are GST-free. A foreign currency forward contract is something other than goods or real property, and therefore, it is appropriate to consider section 38-190 of the GST Act.
-Item 2 in the table in subsection 38-190(1) of the GST Act (Item 2) provides that a supply that is made to a non-resident who is not in Australia when the thing supplied is done, is GST-free where:
-
-• the supply is neither a supply of work physically performed on goods situated in Australia when the work is done nor a supply directly connected with real property situated in Australia; or
-• the non-resident acquires the thing in carrying on the non-resident's enterprise, but is not registered or required to be registered for GST.
-
-In this case, when the entity enters into the foreign currency forward contract, the entity is making a financial supply to a non-resident who is not in Australia when the forward contract is entered into. Furthermore, the supply is neither a supply of work physically performed on goods situated in Australia when the work is done, nor a supply directly connected with real property situated in Australia. As such the requirements in Item 2 are satisfied.
+Item 2 in the table in subsection 38-190(1) of the GST Act (Item 2) provides that a supply that is made to a non-resident who is not in Australia when the thing supplied is done, is GST-free where: • the supply is neither a supply of work physically performed on goods situated in Australia when the work is done nor a supply directly connected with real property situated in Australia; or
+• the non-resident acquires the thing in carrying on the non-resident's enterprise, but is not registered or required to be registered for GST. In this case, when the entity enters into the foreign currency forward contract, the entity is making a financial supply to a non-resident who is not in Australia when the forward contract is entered into. Furthermore, the supply is neither a supply of work physically performed on goods situated in Australia when the work is done, nor a supply directly connected with real property situated in Australia. As such the requirements in Item 2 are satisfied.
 Therefore, the entity's supply meets the input taxed requirements of subsection 40-5(1) of the GST Act and the GST-free requirements in Item 2
 Paragraph 9-30(3)(a) of the GST Act provides that to the extent that a supply would be both GST-free and input taxed the supply is GST-free and not input taxed, unless the provision under which the supply is input taxed requires the supplier to have chosen for its supplies of that kind to be input taxed.
-Subsection 40-5(1) of the GST Act does not require the entity to choose to treat the supply as input taxed. Therefore, the entity is making a GST-free supply under subsection 38-190(1) of the GST Act when it enters into a foreign currency forward contract with a non-resident.
-
-Note: As the entity's supply is GST-free, where the requirements in section 11-20 of the GST Act are satisfied, the entity is entitled to the input tax credit for acquisitions made in the course of entering into the foreign currency forward contract with a non-resident.
-
-Date of decision:
-  20 November 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   paragraph 9-30(3)(a)   section 11-20   section 38-190   subsection 38-190(1)   subsection 38-190(1) table item 2   subsection 40-5(1)
-A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.06(1)   subregulation 40-5.06(2)   regulation 40-5.09   subregulation 40-5.09(1)   paragraph 40-5.09(1)(a)   paragraph 40-5.09(1)(b)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 11   Schedule 7 Part 9   Schedule 7 Part 9 table item 1
-
-Keywords
-
-Goods and services tax
- GST exports
- Consumption outside Australia
- GST free
- GST supplies & acquisitions
- Creditable acquisition
- Creditable purpose
- Input taxed supplies
- GST financial supplies
-
-Business Line:
-  GST
-
-Date of publication:
-  13 February 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 November 2001
-Original statement
-
-You are here
- 9 December 2005
+Subsection 40-5(1) of the GST Act does not require the entity to choose to treat the supply as input taxed. Therefore, the entity is making a GST-free supply under subsection 38-190(1) of the GST Act when it enters into a foreign currency forward contract with a non-resident. Note: As the entity's supply is GST-free, where the requirements in section 11-20 of the GST Act are satisfied, the entity is entitled to the input tax credit for acquisitions made in the course of entering into the foreign currency forward contract with a non-resident. Date of decision: 20 November 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 paragraph 9-30(3)(a) section 11-20 section 38-190 subsection 38-190(1) subsection 38-190(1) table item 2 subsection 40-5(1)
+A New Tax System (Goods and Services Tax) Regulations 1999 subregulation 40-5.06(1) subregulation 40-5.06(2) regulation 40-5.09 subregulation 40-5.09(1) paragraph 40-5.09(1)(a) paragraph 40-5.09(1)(b) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 11 Schedule 7 Part 9 Schedule 7 Part 9 table item 1 Keywords Goods and services tax GST exports Consumption outside Australia GST free GST supplies & acquisitions Creditable acquisition Creditable purpose Input taxed supplies GST financial supplies Business Line: GST Date of publication: 13 February 2004 ISSN: 1445-2782 history Date: Version: 20 November 2001
+Original statement You are here 9 December 2005
 Archived

@@ -1,21 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/26
-==================================================
-
-Goods and Services Tax
- GST and supply of a call option over GST-free eligible emissions units
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and supply of a call option over GST-free eligible emissions units This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an entity making an input taxed financial supply under section 40-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it grants a call option that entitles the grantee to acquire eligible emissions units, the supply of which would be a GST-free supply?
 Decision
 No, the entity is not making an input taxed financial supply under section 40-5 of the GST Act. The supply of the call option is GST-free under paragraph 9-30(1)(b) of the GST Act.
@@ -29,77 +15,16 @@ The provision, acquisition or disposal of an interest mentioned in subregulation
 A 'derivative' is listed at Item 11 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 11). 'Derivative' is defined in the GST Regulations to mean an agreement or instrument the value of which depends on, or is derived from, the value of assets or liabilities, an index or a rate. The value or price of an option is determined by a number of factors, including the current price of the underlying asset that is the subject of the option. Accordingly, the call option satisfies the definition of a derivative.
 The supply of the call option is made for consideration, in the course or furtherance of the entity's enterprise and is connected with Australia. The entity is registered for GST and as it granted the option, it is a financial supply provider in relation to the supply of the call option (regulation 40-5.06 of the GST Regulations). Therefore, the requirements in subregulation 40-5.09(1) of the GST Regulations are satisfied and the entity is making an input taxed financial supply under subsection 40-5(1) of the GST Act.
 The supply of eligible emissions units is GST-free under section 38-590 of the GST Act.
-Subsection 9-30(1) of the GST Act states that a supply is GST-free if:
-
-(a)it is GST-free under Division 38 of the GST Act or under a provision of another Act, or
-(b)it is a supply of a right to receive a supply that would be GST-free under paragraph (a).
-
-The granting of the call option is the supply of a right to receive a supply of eligible emissions units. Therefore, the supply of the call option is also a GST-free supply under paragraph 9-30(1)(b) of the GST Act.
+Subsection 9-30(1) of the GST Act states that a supply is GST-free if: (a)it is GST-free under Division 38 of the GST Act or under a provision of another Act, or
+(b)it is a supply of a right to receive a supply that would be GST-free under paragraph (a). The granting of the call option is the supply of a right to receive a supply of eligible emissions units. Therefore, the supply of the call option is also a GST-free supply under paragraph 9-30(1)(b) of the GST Act.
 The entity's supply of the call option is both an input taxed financial supply under subsection 40-5(1) of the GST Act, and a GST-free supply under subsection 9-30(1) of the GST Act.
 Subsection 9-30(3) of the GST Act provides that where a supply is both GST-free and input taxed, the supply will be GST-free and not input taxed, unless the provision under which it is input taxed requires the supplier to have chosen for its supplies of that kind to be input taxed. Subsection 40-5(1) of the GST Act does not require the entity to choose for the supply to be input taxed.
-Consequently, the entity's supply of the call option will be GST-free.
-
-Note: The supply of other types of derivatives that amount to the supply of a right to receive a GST-free supply under paragraph 9-30(1)(a) of the GST Act will also be GST-free under paragraph 9-30(1)(b).
-
-Amendment History
-
-Date of amendment
+Consequently, the entity's supply of the call option will be GST-free. Note: The supply of other types of derivatives that amount to the supply of a right to receive a GST-free supply under paragraph 9-30(1)(a) of the GST Act will also be GST-free under paragraph 9-30(1)(b). Amendment History Date of amendment
 Part
-Comment
-
-25 July 2014
+Comment 25 July 2014
 Facts and Legislative References
-Deleted references to the Clean Energy Act 2011, which was repealed with a date of effect of 1 July 2014.
-
-Date of decision:
-  1 May 2013
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 9-30(1)   paragraph 9-30(1)(a)   paragraph 9-30(1)(b)   subsection 9-30(3)   section 38-590   section 40-5   subsection 40-5(1)   subsection 40-5(2)   section 195-1   Division 38
-A New Tax System (Goods and Service Tax) Regulations 1999   regulation 40-5.06   subregulation 40-5.09(1)   subregulation 40-5.09(3)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2013/25
-
-Keywords
-
-Goods and services tax
- GST options & warrants
- GST derivatives
- GST financial supplies
- GST free
- Input taxed supplies
-
-Siebel/TDMS Reference Number:
-  1-44BRUON;1-5MWKJQG
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  10 May 2013
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 1 May 2013
-Original statement
-
- 
-25 July 2014
-Updated statement
-
-You are here
- 5 May 2022
+Deleted references to the Clean Energy Act 2011, which was repealed with a date of effect of 1 July 2014. Date of decision: 1 May 2013 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 9-30(1) paragraph 9-30(1)(a) paragraph 9-30(1)(b) subsection 9-30(3) section 38-590 section 40-5 subsection 40-5(1) subsection 40-5(2) section 195-1 Division 38
+A New Tax System (Goods and Service Tax) Regulations 1999 regulation 40-5.06 subregulation 40-5.09(1) subregulation 40-5.09(3) Related ATO Interpretative Decisions ATO ID 2013/25 Keywords Goods and services tax GST options & warrants GST derivatives GST financial supplies GST free Input taxed supplies Siebel/TDMS Reference Number: 1-44BRUON;1-5MWKJQG Business Line: Indirect Tax Date of publication: 10 May 2013 ISSN: 1445-2782 history Date: Version: 1 May 2013
+Original statement 25 July 2014
+Updated statement You are here 5 May 2022
 Archived

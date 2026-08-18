@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/34
-==================================================
-
-Income Tax
- Capital gains tax: roll-over relief - compulsory acquisition - easement created
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: roll-over relief - compulsory acquisition - easement created FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can any of the roll-over threshold conditions in paragraphs 124-70(1)(a), 124-70(1)(aa) or 124-70(1)(c) of the Income Tax Assessment Act 1997 (ITAA 1997), be satisfied by an entity that has an easement created over their land?
 Decision
 No. The threshold conditions in paragraphs 124-70(1)(a), 124-70(1)(aa) or 124-70(1)(c) of the ITAA 1997 cannot be satisfied in this case.
@@ -27,45 +16,7 @@ Both paragraphs 124-70(1)(a) and 124-70(1)(aa) of the ITAA 1997 require that a C
 Paragraph 124-70(1)(c)of the ITAA 1997 requires that you 'dispose of' a CGT asset to another entity in circumstances where the disposal takes place after service on you of a notice inviting negotiation for a sale and informing you that, if negotiations are unsuccessful, compulsory acquisition will follow.
 A disposal involves a change of ownership of an asset from you to another entity (the definition of 'dispose of' in subsection 995-1(1) of the ITAA 1997).
 For roll-over under Subdivision 124-B to be available under the threshold conditions in paragraphs 124-70(1)(a), 124-70(1)(aa) or 124-70(1)(c) of the ITAA 1997, there must be a change of ownership of an asset that is the subject of the CGT event, which must exist both before and after the event.
-In accordance with Taxation Ruling TR 97/3, when an easement is created by being granted to an entity that has the power to compulsorily create the easement (such as the acquirer), a landowner's rights of ownership are affected. The right to exclude all others is forfeited in part when the easement comes into existence. The ending of part of this right causes CGT event C2 to happen to it (section 104-25 of the ITAA 1997). The change of ownership required does not happen, as that part of the right ceases to exist when CGT event C2 happens.
-
-(
- Note
- : CGT event C2 is the equivalent of paragraph 160M(3)(b) of the Income Tax Assessment Act 1936, which is cited in paragraph 6 of TR 97/3, and incorporated by reference into paragraph 10 of TR 97/3. Paragraph 10 of TR 97/3 is directly applicable to this case.)
-
-Therefore, the threshold conditions in paragraphs 124-70(1)(a), 124-70(1)(aa) and 124-70(1)(c) of the ITAA 1997 cannot be satisfied in this case.
+In accordance with Taxation Ruling TR 97/3, when an easement is created by being granted to an entity that has the power to compulsorily create the easement (such as the acquirer), a landowner's rights of ownership are affected. The right to exclude all others is forfeited in part when the easement comes into existence. The ending of part of this right causes CGT event C2 to happen to it (section 104-25 of the ITAA 1997). The change of ownership required does not happen, as that part of the right ceases to exist when CGT event C2 happens. ( Note : CGT event C2 is the equivalent of paragraph 160M(3)(b) of the Income Tax Assessment Act 1936, which is cited in paragraph 6 of TR 97/3, and incorporated by reference into paragraph 10 of TR 97/3. Paragraph 10 of TR 97/3 is directly applicable to this case.) Therefore, the threshold conditions in paragraphs 124-70(1)(a), 124-70(1)(aa) and 124-70(1)(c) of the ITAA 1997 cannot be satisfied in this case.
 Accordingly, the landowner cannot claim the roll-over under Subdivision 124-B of the ITAA 1997.
-Date of decision:
-  21 January 2010
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-25   Subdivision 124-B   paragraph 124-70(1)(a)   paragraph 124-70(1)(aa)   paragraph 124-70(1)(c)   subsection 995-1(1)
-Income Tax Assessment Act 1936   paragraph 160M(3)(b)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 97/3
-
-Keywords
-
-Capital gains tax
- CGT compulsory acquisitions
- CGT events
- CGT roll-over relief
- Disposal of assets
-
-Siebel/TDMS Reference Number:
-  5698423
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 February 2010
-
-ISSN:
- 1445-2782
+Date of decision: 21 January 2010 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 section 104-25 Subdivision 124-B paragraph 124-70(1)(a) paragraph 124-70(1)(aa) paragraph 124-70(1)(c) subsection 995-1(1)
+Income Tax Assessment Act 1936 paragraph 160M(3)(b) Related Public Rulings (including Determinations) Taxation Ruling TR 97/3 Keywords Capital gains tax CGT compulsory acquisitions CGT events CGT roll-over relief Disposal of assets Siebel/TDMS Reference Number: 5698423 Business Line: Public Groups and International Date of publication: 12 February 2010 ISSN: 1445-2782

@@ -1,99 +1,29 @@
 ATO Interpretative Decision
 ATO ID 2012/71
-==================================================
-
-Income Tax
- Managed Investment Trust Withholding Tax: foreign superannuation fund that holds an indirect interest in a Managed investment trust ("MIT")
- FOI status: may be released
-
-The ATO ID is withdrawn as the facts are ambiguous.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Managed Investment Trust Withholding Tax: foreign superannuation fund that holds an indirect interest in a Managed investment trust ("MIT") FOI status: may be released The ATO ID is withdrawn as the facts are ambiguous. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 840-805(4) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to a foreign superannuation fund that holds an indirect interest in a MIT?
 Decision
 No. Subsection 840-805(4) of the ITAA 1997 does not apply to a foreign superannuation fund that holds an indirect interest in a MIT because it is a beneficiary in the capacity of a trustee of another trust and paragraph 840-805(4)(c) of the ITAA 1997 is therefore not satisfied.
 Facts
 A foreign fund has been established for the sole purpose of maintaining a genuine superannuation fund for the benefit of non-residents of Australia.
-The foreign fund is a superannuation fund as defined in section 995-1 of the ITAA 1997. Under that section the term superannuation fund is defined as having the meaning given by section 10 of the Superannuation Industry (Supervision) Act 1993 meaning for present purposes a fund that is:
-
-•an indefinitely continuing fund; and
-•a provident, benefit, superannuation or retirement fund.
-
-The fund is properly characterised as a trust under Australian law.
+The foreign fund is a superannuation fund as defined in section 995-1 of the ITAA 1997. Under that section the term superannuation fund is defined as having the meaning given by section 10 of the Superannuation Industry (Supervision) Act 1993 meaning for present purposes a fund that is: •an indefinitely continuing fund; and
+•a provident, benefit, superannuation or retirement fund. The fund is properly characterised as a trust under Australian law.
 Monies of the foreign fund are pooled together with those of other funds in a foreign pooled investment fund. The pooled investment fund is also properly characterised as a trust under Australian law with the interest of the foreign fund in the pooled investment fund to be characterised as that of a beneficiary in a trust.
 The pooled investment fund invests in various Australian trusts that are MITs within the meaning of section 12-400 of Schedule 1 to Taxation Administration Act 1953 (TAA 1953).
 The trustee of the MIT makes a fund payment (as defined in subsection 12-405(1) of Schedule 1 to the TAA 1953) to the pooled investment fund and, in turn, the payment flows to the foreign superannuation fund.
 At the time the fund payment was made, the foreign superannuation fund is presently entitled to a share of the income under the terms of the pooled investment fund.
 Reasons for Decision
 Where subsection 840-805(2), (3) or (4) of the ITAA 1997 applies to an entity, subsection 840-805(1) of the ITAA 1997 makes the entity liable to MIT withholding tax on the amount identified in the relevant subsection. Broadly speaking, subsection 840-805(2) of the ITAA 1997 applies where the entity receives a fund payment from a MIT, subsection 840-805(3) of the ITAA 1997 applies where the entity receives an amount attributable to a fund payment from a custodian, and subsection 840-805(4) of the ITAA 1997 applies where a beneficiary of a trust not itself acting in a trustee capacity is presently entitled to an amount that is attributable to a fund payment.
-Subsection 840-805(4) of the ITAA 1997 provides as follows:
-
-This subsection applies to you if:
-
-(a)you are a beneficiary of a trust (that is not a managed investment trust or a custodian) and are presently entitled to a share of the income or capital of the trust; and
+Subsection 840-805(4) of the ITAA 1997 provides as follows: This subsection applies to you if: (a)you are a beneficiary of a trust (that is not a managed investment trust or a custodian) and are presently entitled to a share of the income or capital of the trust; and
 (b)all or part of that share (also the fund payment part) is reasonably attributable to a payment that is a fund payment in relation to an income year made by a trust that is a managed investment trust in relation to that year; and
 (c)you are not, in respect of that share, a beneficiary in the capacity of a trustee of another trust; and
-(d)you are a foreign resident at the time (the entitlement time) when you become presently entitled.
-
-Paragraph (a) is satisfied because the foreign superannuation fund is a beneficiary of the pooled investment fund and is paid a share of the income of that fund.
+(d)you are a foreign resident at the time (the entitlement time) when you become presently entitled. Paragraph (a) is satisfied because the foreign superannuation fund is a beneficiary of the pooled investment fund and is paid a share of the income of that fund.
 Paragraph (b) is satisfied because the distribution is reasonably attributable to a fund payment made by a trust that is a MIT.
 Paragraph (c) is not satisfied because the foreign superannuation fund is a beneficiary in the capacity of a trustee of another trust in relation to the fund payment.
 Paragraph (d) is satisfied because the foreign superannuation fund was a foreign resident at the time it was paid the amount.
 As paragraph (c) is not satisfied, subsection 840-805(4) cannot apply to the foreign superannuation fund.
-Date of decision:
-  14 August 2012
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 840-805(1)   subsection 840-805(2)   subsection 840-805(3)   subsection 840-805(4)
-Taxation Administration Act 1953   Schedule 1   section 12-400   section 12-405
-
-Keywords
-
-Distribution to non-residents
- Managed investment trust
- Foreign superannuation fund
- Trust
- Withholding Tax
-
-Siebel/TDMS Reference Number:
-  1-45A0RPR; 1-5TGFHN4; 1-D76PJ0G
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  24 August 2012
-
-Date reviewed:
-  23 July 2015
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 August 2012
-Original statement
-
-You are here
- 6 August 2018
+Date of decision: 14 August 2012 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1997 subsection 840-805(1) subsection 840-805(2) subsection 840-805(3) subsection 840-805(4)
+Taxation Administration Act 1953 Schedule 1 section 12-400 section 12-405 Keywords Distribution to non-residents Managed investment trust Foreign superannuation fund Trust Withholding Tax Siebel/TDMS Reference Number: 1-45A0RPR; 1-5TGFHN4; 1-D76PJ0G Business Line: Private Groups and High Wealth Individuals Date of publication: 24 August 2012 Date reviewed: 23 July 2015 ISSN: 1445-2782 history Date: Version: 14 August 2012
+Original statement You are here 6 August 2018
 Archived

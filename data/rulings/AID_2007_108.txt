@@ -1,30 +1,13 @@
 ATO Interpretative Decision
 ATO ID 2007/108
-==================================================
-
-Income Tax
- Residency: foreign trust income - temporary resident
- FOI status: may be released
-
-This ATO ID has been amended to:
-
-•specify that the income included in the net income of the trust estate was interest and to amend and clarify the reasoning;
+================================================== Income Tax Residency: foreign trust income - temporary resident FOI status: may be released This ATO ID has been amended to: •specify that the income included in the net income of the trust estate was interest and to amend and clarify the reasoning;
 •update references to the UK convention;
 •remove references to the repealed Foreign Investment Funds provisions and sections 96B and 96C of the Income Tax Assessment Act 1936 which ceased to apply after the 2009-2010 income year;
 •delete the reference to 'pension income' in the Title as the ATO ID does not deal with pension income;
 •delete the reference to 'foreign tax credits' because with effect from 1 July 2008 the foreign tax credit system was replaced by the foreign tax offset system;
 •delete the reference to the related Public Ruling TR 92/13 that has been withdrawn; and
-•delete the reference to the related ATO ID 2004/297 that has been withdrawn.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+•delete the reference to the related ATO ID 2004/297 that has been withdrawn. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the receipt by a temporary resident of Australian sourced income distributed from a trust estate resident in the United Kingdom (UK) to be included in the temporary resident's assessable income?
 Decision
 Yes. The receipt by a temporary resident of Australian sourced income distributed from a trust estate resident in the UK is to be included in the temporary resident's assessable income.
@@ -38,117 +21,26 @@ The Australian sourced income is interest income.
 Reasons for Decision
 Sections 6-5(2) and 6-10(4) of the ITAA 1997 provides that the assessable income of a resident taxpayer includes ordinary or statutory income derived directly or indirectly from all sources, whether in or out of Australia, during the income year.
 Section 10-5 of the ITAA 1997 lists the provisions in respect of statutory income. Relevantly included in this list is section 97 of the Income Tax Assessment Act 1936 (ITAA 1936) which provides that where a beneficiary of a trust estate is presently entitled to a share of the net income of the trust estate, the assessable income of the beneficiary shall include so much of that share of the net income of the trust estate as is attributable to a period when the beneficiary was a resident.
-Subdivision 768-R of the ITAA 1997 provides an exemption for most foreign income derived by temporary residents of Australia. The exemption for temporary residents is succinctly explained by the following references to the Explanatory Memorandum to the Tax Laws Amendment (2006 Measures No. 1) Bill 2006. Paragraph 1.23 explains as follows:
-
-This Bill makes ordinary income derived from a foreign source during the period the taxpayer is a temporary resident non-assessable non-exempt income. This measure also applies to all statutory income that has a source other than Australia, including amounts otherwise attributable from a foreign company or a foreign trust, on which the taxpayer would otherwise be taxed. This extends to amounts derived through partnerships and trusts but not to amounts derived by other taxable entities (e.g., not where a trustee is taxable under section 99 or 99A of the Income Tax Assessment Act 1936 (ITAA 1936)). There is no exemption for Australian source income.
-
-Specifically, section 768-910 of the ITAA 1997 provides that statutory income derived by a temporary resident from a foreign source (other than a net capital gain which is covered by section 768-915 of the ITAA 1997) is non-assessable non-exempt income and therefore not subject to tax.
+Subdivision 768-R of the ITAA 1997 provides an exemption for most foreign income derived by temporary residents of Australia. The exemption for temporary residents is succinctly explained by the following references to the Explanatory Memorandum to the Tax Laws Amendment (2006 Measures No. 1) Bill 2006. Paragraph 1.23 explains as follows: This Bill makes ordinary income derived from a foreign source during the period the taxpayer is a temporary resident non-assessable non-exempt income. This measure also applies to all statutory income that has a source other than Australia, including amounts otherwise attributable from a foreign company or a foreign trust, on which the taxpayer would otherwise be taxed. This extends to amounts derived through partnerships and trusts but not to amounts derived by other taxable entities (e.g., not where a trustee is taxable under section 99 or 99A of the Income Tax Assessment Act 1936 (ITAA 1936)). There is no exemption for Australian source income. Specifically, section 768-910 of the ITAA 1997 provides that statutory income derived by a temporary resident from a foreign source (other than a net capital gain which is covered by section 768-915 of the ITAA 1997) is non-assessable non-exempt income and therefore not subject to tax.
 Section 6B(2) of the ITAA 1936 deems an amount of income derived by a person as a beneficiary in a trust estate to be income attributable to interest income if the amount can be attributed directly or indirectly to interest income.
 Further, subsection 6B(2A) of the ITAA 1936 deems income to be derived from a particular source if it is attributable by virtue of subsection 6B(2) to interest income derived from that source, in this instance Australia.
 Accordingly, for Australian tax purposes, the distribution consisting of income that is attributable to Australian sourced interest income retains its character as Australian sourced interest income when it is distributed to the taxpayer. It follows that the distribution of Australian sourced income by the UK trust to the taxpayer remains assessable income of the taxpayer.
 However given the income is derived through a UK resident trust it is necessary to consider whether Australia's taxing rights are restricted by the application of the UK convention.
 Article 11 of the UK convention deals with interest arising in one Contracting State that is beneficially owned by a resident of the other Contracting State. In this instance the trust income consists of interest arising in Australia. Further, the taxpayer is the beneficial owner of that interest because they are the sole income beneficiary of the trust and are presently entitled to the trust income. Given the taxpayer is also a resident of Australia for the purposes of the UK convention, the beneficial owner of the interest income is a resident of the same Contracting State as that in which the interest arises. Therefore, Article 11 of the UK convention does not deal with the interest income in this case.
 Article 20 of the UK convention covers income that is not dealt with in the foregoing Articles of the convention. Article 20.1 provides that such income, wherever arising, that is beneficially owned by a resident of a Contracting States shall be taxable only in that State. Therefore, in this case Article 20 allocates Australia the sole taxing right over the trust income beneficially owned by the taxpayer.
-In summary, the taxpayer's share of the UK trust income that is attributable to Australian sources will constitute assessable income pursuant to section 6-10 of the ITAA 1997 because the 'temporary resident exemption' provided by section 768-910 of the ITAA 1997 does not apply to Australian sourced income.
-
-Note
-
-(1) The 'Transferor Trust rules' will not apply in this case, refer section 768-970 of the ITAA 1997 and also see section 102AAT(1) of the ITAA 1936.
-
-Amendment History
-
-Date of amendment
+In summary, the taxpayer's share of the UK trust income that is attributable to Australian sources will constitute assessable income pursuant to section 6-10 of the ITAA 1997 because the 'temporary resident exemption' provided by section 768-910 of the ITAA 1997 does not apply to Australian sourced income. Note (1) The 'Transferor Trust rules' will not apply in this case, refer section 768-970 of the ITAA 1997 and also see section 102AAT(1) of the ITAA 1936. Amendment History Date of amendment
 Part
-Comment
-
-19/10/2012
+Comment 19/10/2012
 Title
-Delete the reference to 'pension income' in the Title
-
-Facts
-Format and minor grammatical changes
-
-Facts added to clarify the type of income sourced in Australia
-
-Reasons for decision
-Format and minor grammatical changes
-
-Remove references to the repealed Foreign Investment Funds provisions and sections 96B and 96C of the Income Tax Assessment Act 1936
-
-Delete the reference to 'foreign tax credits'
-
-Delete the reference to the related Public Ruling TR 92/13 that has been withdrawn
-
-Note
-Delete notes 2 & 3 as they are no longer relevant
-
-Legislative references
-Updated legislative references
-
-Related ATO Interpretative Decisions
-Delete the reference to the related ATO ID 2004/297 that has been withdrawn
-
-Other references
-Format and minor grammatical changes
-
-Date of decision:
-  19 April 2007
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6B(2)   subsection 6B(2A)   section 96B   section 96C   section 97   section 97(1)
-Income Tax Assessment Act 1997   subsection 6-5(2)   subsection 6-10(4)   section 10-5   Division 768-R   section 768-910   subsection 995-1(1)
-International Tax Agreements Act 1953   section 3AAA
-
-Related ATO Interpretative Decisions
-
- ATOID 2006/161
-
-Other References:
-
-Explanatory Memorandum to the Tax Laws Amendment (2006 Measures No. 1) Bill 2006
- UK convention [2003] ATS 22
- UK convention [2003] ATS 22, Article 11
- UK convention [2003] ATS 22, Article 20
-
-Keywords
-
-Double tax agreements
- Foreign source income
- Foreign trust measures
- International tax
- Temporary resident
- Treaties
- Trust distributions
- United Kingdom
-
-Siebel/TDMS Reference Number:
-  5563966
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  25 May 2007
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 April 2007
-Original statement
-
-You are here
+Delete the reference to 'pension income' in the Title Facts
+Format and minor grammatical changes Facts added to clarify the type of income sourced in Australia Reasons for decision
+Format and minor grammatical changes Remove references to the repealed Foreign Investment Funds provisions and sections 96B and 96C of the Income Tax Assessment Act 1936 Delete the reference to 'foreign tax credits' Delete the reference to the related Public Ruling TR 92/13 that has been withdrawn Note
+Delete notes 2 & 3 as they are no longer relevant Legislative references
+Updated legislative references Related ATO Interpretative Decisions
+Delete the reference to the related ATO ID 2004/297 that has been withdrawn Other references
+Format and minor grammatical changes Date of decision: 19 April 2007 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 subsection 6B(2) subsection 6B(2A) section 96B section 96C section 97 section 97(1)
+Income Tax Assessment Act 1997 subsection 6-5(2) subsection 6-10(4) section 10-5 Division 768-R section 768-910 subsection 995-1(1)
+International Tax Agreements Act 1953 section 3AAA Related ATO Interpretative Decisions ATOID 2006/161 Other References: Explanatory Memorandum to the Tax Laws Amendment (2006 Measures No. 1) Bill 2006 UK convention [2003] ATS 22 UK convention [2003] ATS 22, Article 11 UK convention [2003] ATS 22, Article 20 Keywords Double tax agreements Foreign source income Foreign trust measures International tax Temporary resident Treaties Trust distributions United Kingdom Siebel/TDMS Reference Number: 5563966 Business Line: International Centre of Expertise Date of publication: 25 May 2007 ISSN: 1445-2782 history Date: Version: 19 April 2007
+Original statement You are here
 26 October 2012
 Updated statement

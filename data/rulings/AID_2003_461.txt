@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/461
-==================================================
-
-Income Tax
- Capital Allowances: balancing adjustment - pre-CGT depreciating asset disposed of after 30 June 2001
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: balancing adjustment - pre-CGT depreciating asset disposed of after 30 June 2001 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 40-285(5) of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997) apply to reduce an amount included in the taxpayer's assessable income under subsection 40-285(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where the taxpayer has acquired an item of plant before 20 September 1985?
 Decision
 Yes. The amount included in the taxpayer's assessable income under subsection 40-285(1) of the ITAA 1997 is reduced as the item of plant was acquired before 11.45 am, by the legal time in the Australian Capital Territory on 21 September 1999 and the capital gain or loss would have been disregarded under Part 3-1 of the ITAA 1997 as the item of plant is a pre-CGT asset at the time of the balancing adjustment event under subparagraph 40-285(5)(b)(iv) of the IT(TP)A 1997.
@@ -22,52 +11,9 @@ Reasons for Decision
 Subsections 40-285(1) and 40-285(4) of the IT(TP)A 1997 provides that depreciating assets held on 1 July 2001 will be subject to the balancing adjustment provisions under Division 40 of the ITAA 1997.
 Subsection 40-285(1) of the ITAA 1997 applies to a balancing adjustment event that occurs after 30 June 2001 on a depreciating asset whose decline in value is or would have been worked out under Subdivision 40-B of the ITAA 1997. Paragraph 40-285(1)(b) of the ITAA 1997 provides that the amount to be included in assessable income is the difference between the asset's termination value and its adjustable value.
 Subparagraph 40-285(5)(b)(iv) of the IT(TP)A 1997 provides transitional measures if any capital gain or capital loss would be disregarded because the asset was a pre-CGT asset at the time of the balancing adjustment event.
-The assessable balancing adjustment amount calculated under subsection 40-285(1) of the ITAA 1997 is reduced by the following formula as contained in subsection 40-285(6) of the IT(TP)A 1997:
-
-[Termination value - Cost] x [1 - (Sum of reductions / Total decline)]
-
-Sum of reductions is the sum of the reductions in your deductions for the asset because you did not use it for a particular purpose.
-
-Total decline is the decline in value of the depreciating asset since you started to hold it.
-
-As the depreciating asset was a pre-CGT asset at the time of the balancing adjustment event, the assessable balancing adjustment amount calculated under subsection 40-285(1) of the ITAA 1997 is reduced by an amount as calculated under the formula contained in subsection 40-285(6) of the IT(TP)A 1997.
+The assessable balancing adjustment amount calculated under subsection 40-285(1) of the ITAA 1997 is reduced by the following formula as contained in subsection 40-285(6) of the IT(TP)A 1997: [Termination value - Cost] x [1 - (Sum of reductions / Total decline)] Sum of reductions is the sum of the reductions in your deductions for the asset because you did not use it for a particular purpose. Total decline is the decline in value of the depreciating asset since you started to hold it. As the depreciating asset was a pre-CGT asset at the time of the balancing adjustment event, the assessable balancing adjustment amount calculated under subsection 40-285(1) of the ITAA 1997 is reduced by an amount as calculated under the formula contained in subsection 40-285(6) of the IT(TP)A 1997.
 In general, a pre-CGT asset is an asset that was acquired before 20 September 1985 under Part 3-1 of the ITAA 1997.
 In this case, the balancing adjustment amount to be included in the taxpayer's assessable income as calculated under subsection 40-285(1) of the ITAA 1997 is $18,000, being the difference between $18,000 and $0. However, as the item of plant is a pre-CGT asset as it was acquired before 20 September 1985, subsection 40-285(5) of the IT(TP)A 1997 will have the effect of reducing the balancing adjustment amount by an amount as calculated under the formula contained in subsection 40-285(6) of the IT(TP)A 1997.
-The reduction amount as worked out using the formula is:
-
-$18,000 - $15,000 X (1 - ($0/$15,000))
-
-= $3,000 X 1
-
-= $3,000.
-
-Therefore, the amount to be included by the taxpayer in their assessable income in respect of the item of plant is $15,000 - that is, $18,000 minus $3,000.
-Date of decision:
-  11 June 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 40-285(1)   paragraph 40-285(1)(b)   Subdivision 40-B   Division 40   Part 3-1
-Income Tax (Transitional Provisions) Act 1997   subsection 40-285(1)   subsection 40-285(4)   subsection 40-285(5)   subparagraph 40-285(5)(b)(iv)   subsection 40-285(6)
-
-Keywords
-
-Adjustable value of a depreciating asset
- Balancing adjustment event
- Balancing adjustments
- Termination value
-
-Siebel/TDMS Reference Number:
-  3511424
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  20 June 2003
-
-ISSN:
- 1445-2782
+The reduction amount as worked out using the formula is: $18,000 - $15,000 X (1 - ($0/$15,000)) = $3,000 X 1 = $3,000. Therefore, the amount to be included by the taxpayer in their assessable income in respect of the item of plant is $15,000 - that is, $18,000 minus $3,000.
+Date of decision: 11 June 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 subsection 40-285(1) paragraph 40-285(1)(b) Subdivision 40-B Division 40 Part 3-1
+Income Tax (Transitional Provisions) Act 1997 subsection 40-285(1) subsection 40-285(4) subsection 40-285(5) subparagraph 40-285(5)(b)(iv) subsection 40-285(6) Keywords Adjustable value of a depreciating asset Balancing adjustment event Balancing adjustments Termination value Siebel/TDMS Reference Number: 3511424 Business Line: Public Groups and International Date of publication: 20 June 2003 ISSN: 1445-2782

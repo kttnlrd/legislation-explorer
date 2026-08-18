@@ -1,24 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2012/43
-==================================================
-
-Income Tax
- Consolidation: allocable cost amount and the TOFA transitional balancing adjustment
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Where:
-
-•an entity becomes a subsidiary member of a consolidate group as a result of a 100% acquisition of its membership interests at the particular time; and
-•under the entry history rule in section 701-5 of the Income Tax Assessment Act 1997 (ITAA 1997), the head company inherits that entity's deductions in respect of the transitional balancing adjustment (TBA) made under sub-item 104(13) of Schedule 1 to the Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 (TOFA Act)
-
-in calculating the entry allocable cost amount (ACA) under section 705-60 of the ITAA 1997, does the step 7 calculation in section 705-115 of the ITAA 1997 include an amount in respect of the inherited TBA deductions?
+================================================== Income Tax Consolidation: allocable cost amount and the TOFA transitional balancing adjustment FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Where: •an entity becomes a subsidiary member of a consolidate group as a result of a 100% acquisition of its membership interests at the particular time; and
+•under the entry history rule in section 701-5 of the Income Tax Assessment Act 1997 (ITAA 1997), the head company inherits that entity's deductions in respect of the transitional balancing adjustment (TBA) made under sub-item 104(13) of Schedule 1 to the Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 (TOFA Act) in calculating the entry allocable cost amount (ACA) under section 705-60 of the ITAA 1997, does the step 7 calculation in section 705-115 of the ITAA 1997 include an amount in respect of the inherited TBA deductions?
 Decision
 Yes. The step 7 calculation in section 705-115 of the ITAA 1997 includes an amount in respect of the inherited TBA deductions in calculating the ACA under section 705-60 of the ITAA 1997.
 Facts
@@ -30,53 +15,11 @@ Under the entry history rule in section 701-5 of the ITAA 1997, H Co inherited t
 Reasons for Decision
 All legislative references are to the ITAA 1997.
 Section 705-115 contains the rules for working out the amount (the step 7 amount) that is subtracted at step 7 in calculating the ACA for a joining entity under section 705-60. The step 7 amount concerns certain deductions that the head company becomes entitled to. The purpose of step 7 is to prevent the joined group from getting benefits from both higher tax cost setting amounts for the joining entity's assets and the deductions inherited by the head company.
-Step 7 includes deductions covered by subsection 705-115(2) which are any deductions to which the head company becomes entitled to under the entry history rule in section 701-5, other than deductions for expenditure:
-
-•that is, forms part of or reduces, the cost of assets of the joining entity that become assets of the head company because the single entity rule in subsection 701-1(1) applies; or
+Step 7 includes deductions covered by subsection 705-115(2) which are any deductions to which the head company becomes entitled to under the entry history rule in section 701-5, other than deductions for expenditure: •that is, forms part of or reduces, the cost of assets of the joining entity that become assets of the head company because the single entity rule in subsection 701-1(1) applies; or
 •to which section 110-40 (about expenditure on assets acquired before 7.30 pm on 13 May 1997) applies; or
-•to the extent that the expenditure reduced the undistributed profits comprising the step 3 amount in the table in section 705-60.
-
-The inherited TBA deductions in question come within the deductions covered by subsection 705-115(2) and none of the exclusions contained in the subsection apply.
+•to the extent that the expenditure reduced the undistributed profits comprising the step 3 amount in the table in section 705-60. The inherited TBA deductions in question come within the deductions covered by subsection 705-115(2) and none of the exclusions contained in the subsection apply.
 Subsection 705-115(1) makes a distinction between 'owned deductions' and 'acquired deductions'. In essence, owned deductions are deductions covered by subsection 705-115(2) that accrued to the joined group and acquired deductions are deductions covered by subsection 705-115(2) other than owned deductions.
 As H Co did not own any membership interests in A Co before the joining time on 1 July 2011, the inherited TBA deductions are acquired deductions.
 Consequently, under the formula in subsection 705-115(1), the step 7 amount is calculated by multiplying the inherited TBA deductions by the corporate tax rate.
-Date of decision:
-  8 May 2012
-
-Year of income:
-  Income Year Ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 110-40   Division 230   subsection 701-1(1)   section 701-5   Subdivision 705-A   section 705-60   section 705-115   subsection 705-115(1)   subsection 705-115(2)
-Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009   sub-item 104(2) of Schedule 1   sub-item 104(13) of Schedule 1
-
-Keywords
-
-Consolidation
- Consolidated group
- Consolidation - joining
- Head company
- Joining entity
- Joining time
- Allocable cost amount
- Inherited history rules
- Acquired deductions
- Inherited deductions
- Tax cost setting amount
- Division 230 Taxation of financial arrangement
- Financial arrangement
- Transitional election
- Balancing adjustment
-
-Siebel/TDMS Reference Number:
-  1-3RW3AQG
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  11 May 2012
-
-ISSN:
- 1445-2782
+Date of decision: 8 May 2012 Year of income: Income Year Ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 110-40 Division 230 subsection 701-1(1) section 701-5 Subdivision 705-A section 705-60 section 705-115 subsection 705-115(1) subsection 705-115(2)
+Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 sub-item 104(2) of Schedule 1 sub-item 104(13) of Schedule 1 Keywords Consolidation Consolidated group Consolidation - joining Head company Joining entity Joining time Allocable cost amount Inherited history rules Acquired deductions Inherited deductions Tax cost setting amount Division 230 Taxation of financial arrangement Financial arrangement Transitional election Balancing adjustment Siebel/TDMS Reference Number: 1-3RW3AQG Business Line: Consolidation Centre of Expertise Date of publication: 11 May 2012 ISSN: 1445-2782

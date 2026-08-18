@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/11
-==================================================
-
-Goods and Services Tax
- GST and input tax credits for legal expenses incurred in recovering equity from a dissolved partnership
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and input tax credits for legal expenses incurred in recovering equity from a dissolved partnership FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a sole trader, entitled to an input tax credit under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), for legal expenses incurred in recovering its equity from a dissolved partnership, in which it was a partner?
 Decision
 No, the entity is not entitled to an input tax credit under section 11-20 of the GST Act for legal expenses incurred in recovering its equity from a dissolved partnership, in which it was a partner.
@@ -22,41 +11,13 @@ The entity was a partner in a partnership. The entity resigned from the partners
 The supply of the legal services to the entity was a taxable supply under section 9-5 of the GST Act.
 Reasons for Decision
 Under section 11-20 of the GST Act, an entity is entitled to the input tax credit for any creditable acquisition that it makes.
-Section 11-5 of the GST Act provides that an entity makes a creditable acquisition if:
-
-•it acquires anything solely or partly for a creditable purpose;
+Section 11-5 of the GST Act provides that an entity makes a creditable acquisition if: •it acquires anything solely or partly for a creditable purpose;
 •the supply to it is a taxable supply;
 •it provides, or is liable to provide, consideration for the supply, and
-•it is registered or required to be registered for GST.
-
-The first requirement in section 11-5 of the GST Act is that the entity makes the acquisition solely or partly for a creditable purpose.
+•it is registered or required to be registered for GST. The first requirement in section 11-5 of the GST Act is that the entity makes the acquisition solely or partly for a creditable purpose.
 Subsection 11-15(1) of the GST Act provides that an entity acquires a thing for a creditable purpose to the extent that it acquires the thing in carrying on its enterprise. Therefore, the acquisition of the legal services is for a creditable purpose if the entity acquires the services in carrying on its enterprise.
 The entity currently carries on an enterprise in its capacity as a sole trader. The entity did not acquire the legal services in carrying on this enterprise. However, it is necessary to determine whether the legal expenses were acquired by the entity in carrying on any other enterprise.
 In this case, the entity resigned from the partnership and incurred the legal expenses for the purpose of recovering its equity from the dissolved partnership. For GST purposes, the partnership is the entity that carries on the enterprise of the partnership and not the partners themselves. In addition, the entity's activities as a partner in a partnership do not amount to carrying on an enterprise in its own right. Therefore, the entity itself was not carrying on an enterprise when it was a partner in the partnership.
 Accordingly, the legal expenses were not incurred in the course of carrying on an enterprise and as such, the requirement in paragraph 11-5(a) of the GST Act is not satisfied.
 As the entity is not making a creditable acquisition, it is not entitled to any input tax credits for the legal expenses incurred in recovering its equity from a dissolved partnership, in which it was a partner.
-Date of decision:
-  2 November 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 11-5   paragraph 11-5(a)   subsection 11-15(1)   section 11-20
-
-Keywords
-
-Goods & services tax
- GST supplies & acquisitions
- Creditable acquisition
- Creditable purpose
-
-Siebel/TDMS Reference Number:
-  CW242991
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  9 January 2002
-
-ISSN:
- 1445-2782
+Date of decision: 2 November 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 11-5 paragraph 11-5(a) subsection 11-15(1) section 11-20 Keywords Goods & services tax GST supplies & acquisitions Creditable acquisition Creditable purpose Siebel/TDMS Reference Number: CW242991 Business Line: Indirect Tax Date of publication: 9 January 2002 ISSN: 1445-2782

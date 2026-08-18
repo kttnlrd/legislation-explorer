@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/660
-==================================================
-
-Income tax
- Excess deductions for mining expenditure - income injected into company because of available deductions
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Excess deductions for mining expenditure - income injected into company because of available deductions FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can excess deductions for mining expenditure brought forward from a previous income year pursuant to former Subdivision 330-F of the Income Tax Assessment Act 1997 (ITAA 1997) be subject to the application of section 175-20 of the ITAA 1997?
 Decision
 Yes. Carry-forward excess deductions for mining expenditure under former Subdivision 330-F of the Income Tax Assessment Act 1997 (ITAA 1997) can be subject to the application of section 175-20 of the ITAA 1997
@@ -25,29 +14,4 @@ Section 175-20 of the ITAA 1997 is an anti-avoidance provision that enables the 
 Section 175-10 of the ITAA 1997 cannot be applied in the circumstances of the present case because excess mining expenditure, although deductible in a later year in a similar way to a carry forward tax loss, is not a tax loss as defined in the income tax law. However, section 175-20 of the ITAA 1997 could be applied if the excess mining expenditure were a deduction 'for an income year', namely the 1998-99 income year.
 In this regard, former Subdivision 330-F of the ITAA 1997 provided that total deductions under Subdivision 330-A of the ITAA 1997 could not exceed available assessable income for an income year (former subsection 330-305(2) of the ITAA 1997). It also provided that, in such circumstances, the whole or part of the amount disallowed could be deducted in the next income year for which assessable income was derived (former subsection 330-310(1) of the ITAA 1997).
 In the present situation, the excess of deductible mining expenditure over assessable income in the 1997-98 income year would not be allowable as a deduction in that income year by reason of former Subdivision 330-F of the ITAA 1997. However, former Subdivision 330-F would make this same excess specifically deductible in the 1998-99 income year. Hence, the excess mining expenditure is a deduction of Company X 'for an income year' (the 1998-99 income year) for the purposes of section 175-20 of the ITAA 1997 which could be applied if the other conditions in that section are met.
-Date of decision:
-  30 July 2004
-
-Year of income:
-  Year ended 30 June 1999
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 175-10   section 175-20   Subdivision 330-A   Subdivision 330-F   subsection 330-305(2)   subsection 330-310(1)
-
-Keywords
-
-Excess deduction rules
- Mining expenses
-
-Siebel/TDMS Reference Number:
-  4113698
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  6 August 2004
-
-ISSN:
- 1445-2782
+Date of decision: 30 July 2004 Year of income: Year ended 30 June 1999 Legislative References: Income Tax Assessment Act 1997 section 175-10 section 175-20 Subdivision 330-A Subdivision 330-F subsection 330-305(2) subsection 330-310(1) Keywords Excess deduction rules Mining expenses Siebel/TDMS Reference Number: 4113698 Business Line: Public Groups and International Date of publication: 6 August 2004 ISSN: 1445-2782

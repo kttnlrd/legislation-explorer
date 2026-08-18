@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/5
-==================================================
-
-Income Tax
- Losses: bearer shares in foreign listed companies - disclosure of beneficial owners
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Losses: bearer shares in foreign listed companies - disclosure of beneficial owners FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If the names of individual owners of bearer shares in a pooled group are listed but the number of shares held by each member of the group is unknown, have the beneficial owners of those bearer shares been disclosed for the purposes of paragraph 166-255(1)(f) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The beneficial owners of those bearer shares have not been disclosed for the purposes of paragraph 166-255(1)(f) of the ITAA 1997.
@@ -25,44 +14,11 @@ The number of shares held by each member of the pooled group is not known to Eur
 Reasons for Decision
 Section 165-12 of the ITAA 1997 specifies conditions that a company must satisfy in order to deduct a tax loss. Broadly, section 165-12 provides that the company must maintain more than 50% continuity of ownership throughout the ownership test period. This is known as the continuity of ownership test (COT).
 Division 166 of the ITAA 1997 modifies the way the rules in Division 165 of the ITAA 1997 apply to a widely held company or an eligible Division 166 company. Division 166 was introduced to simplify the application of the COT for these companies by providing tracing rules (such as section 166-255 of the ITAA 1997) that make it unnecessary for them to trace the ultimate owner of shares held by certain intermediaries and small shareholdings.
-Under subsection 166-255(1) of the ITAA 1997, an indirect stake in the loss company held by way of bearer shares in a foreign listed company that is interposed between the bearer shareholders and the loss company is attributable to a single notional entity at an ownership test time if all the following conditions are satisfied:
-
-(a)there is a foreign listed company interposed between the bearer shareholders and the loss company at the ownership test time;
+Under subsection 166-255(1) of the ITAA 1997, an indirect stake in the loss company held by way of bearer shares in a foreign listed company that is interposed between the bearer shareholders and the loss company is attributable to a single notional entity at an ownership test time if all the following conditions are satisfied: (a)there is a foreign listed company interposed between the bearer shareholders and the loss company at the ownership test time;
 (b)at all times during the relevant income year, the principal class of shares in the foreign listed company is listed for quotation in the official list of an approved stock exchange;
 (c)at the ownership test time, the bearer shares must carry rights to 50% or more of the voting power, rights to dividends or rights to capital distributions of the foreign listed company;
 (d)the beneficial owners of some or all of the bearer shares have not been disclosed to the foreign listed company. If a beneficial owner of bearer shares has been disclosed to the foreign listed company, those bearer shares are excluded from this tracing rule; and
-(e)none of the preceding tracing rules in Subdivision 166-E of the ITAA 1997 have applied.
-
-The term 'disclosed' in paragraph 166-255(1)(f) of the ITAA 1997 is not defined in the legislation. Whether a disclosure has occurred under these provisions is a question of fact, in the context of Divisions 165 and 166 of the ITAA 1997.
-A disclosure has
- not
- occurred where European Co knows that a pooled group collectively are the holders of 5% of the bearer shares, but does not know the individual holdings of the members of that group. The COT requires a loss company to identify the percentage of the voting power, rights to dividends and rights to capital distributions of the loss company held by specific entities at all times during the ownership test period (Division 165) or at the relevant ownership test times in the test period (Division 166). This enables the loss company to trace any changes in the percentages held during the relevant period by those entities, which is crucial in establishing whether or not the loss company has satisfied the COT.
+(e)none of the preceding tracing rules in Subdivision 166-E of the ITAA 1997 have applied. The term 'disclosed' in paragraph 166-255(1)(f) of the ITAA 1997 is not defined in the legislation. Whether a disclosure has occurred under these provisions is a question of fact, in the context of Divisions 165 and 166 of the ITAA 1997.
+A disclosure has not occurred where European Co knows that a pooled group collectively are the holders of 5% of the bearer shares, but does not know the individual holdings of the members of that group. The COT requires a loss company to identify the percentage of the voting power, rights to dividends and rights to capital distributions of the loss company held by specific entities at all times during the ownership test period (Division 165) or at the relevant ownership test times in the test period (Division 166). This enables the loss company to trace any changes in the percentages held during the relevant period by those entities, which is crucial in establishing whether or not the loss company has satisfied the COT.
 The mere identity of the bearer shareholders without knowledge of their individual holdings does not constitute disclosure for the purposes of paragraph 166-255(1)(f) of the ITAA 1997.
-Date of decision:
-  18 January 2013
-
-Year of income:
-  Year ending 30 June 2013
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 165   section 165-12   Division 166   Subdivision 166-E   section 166-255   subsection 166-255(1)   paragraph 166-255(1)(f)   subsection 995-1(1)
-
-Keywords
-
-company losses
- continuity of ownership
- continuity of ownership test
- losses
-
-Siebel/TDMS Reference Number:
-  1-4GMJAF6
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 January 2013
-
-ISSN:
- 1445-2782
+Date of decision: 18 January 2013 Year of income: Year ending 30 June 2013 Legislative References: Income Tax Assessment Act 1997 Division 165 section 165-12 Division 166 Subdivision 166-E section 166-255 subsection 166-255(1) paragraph 166-255(1)(f) subsection 995-1(1) Keywords company losses continuity of ownership continuity of ownership test losses Siebel/TDMS Reference Number: 1-4GMJAF6 Business Line: Public Groups and International Date of publication: 25 January 2013 ISSN: 1445-2782

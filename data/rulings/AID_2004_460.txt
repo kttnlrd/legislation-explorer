@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/460
-==================================================
-
-Income Tax
- Franking Deficit Tax: due date for payment when entity joins consolidated group
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Franking Deficit Tax: due date for payment when entity joins consolidated group FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the franking deficit tax liability become due and payable pursuant to subsection 214-150(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where an entity joining a consolidated group has a franking account debit balance immediately before the joining time?
 Decision
 Yes. The franking deficit tax liability will become due and payable pursuant to subsection 214-150(1) of the ITAA 1997 where an entity joining a consolidated group has a franking account debit balance immediately before the joining time.
@@ -25,29 +14,4 @@ Subsection 214-150(1) of the ITAA 1997 provides that franking tax assessed for a
 Subsection 995-1(1) of the ITAA 1997 provides the basic meaning of income year as given by subsections 4-10(2) and 9-5(2) of the ITAA 1997.
 According to the definitions provided by subsections 4-10(2) and 9-5(2) of the ITAA 1997, a company's income year will, in general terms, be either the financial year or a substituted accounting period.
 Therefore, the franking deficit tax liability arising where an entity joining a consolidated group has a franking account debit balance immediately before the joining time becomes due and payable on the last day of the month immediately following the end of the relevant income year under subsection 214-150(1) of the ITAA 1997.
-Date of decision:
-  5 May 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 709-60(3)(b)   section 214-150(1)   section 4-10(2)   section 9-5(2)   section 995-1
-
-Keywords
-
-Franking assessments
- Franking deficit tax
-
-Siebel/TDMS Reference Number:
-  3547922
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 June 2004
-
-ISSN:
- 1445-2782
+Date of decision: 5 May 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 709-60(3)(b) section 214-150(1) section 4-10(2) section 9-5(2) section 995-1 Keywords Franking assessments Franking deficit tax Siebel/TDMS Reference Number: 3547922 Business Line: Public Groups and International Date of publication: 4 June 2004 ISSN: 1445-2782

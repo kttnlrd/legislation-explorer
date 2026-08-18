@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/120
-==================================================
-
-Income Tax
- Capital gains tax: CGT concession amount of discount capital gain - net exempt income
- FOI status: may be released
-
-This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: CGT concession amount of discount capital gain - net exempt income FOI status: may be released This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the CGT concession amount of a discount capital gain form part of a taxpayer's 'net exempt income' in terms of section 36-20 of the Income Tax Assessment Act 1997 (ITAA 1997) against which the taxpayer must first offset tax losses in accordance with section 36-15 of the ITAA 1997?
 Decision
 No. The CGT concession amount of a discount capital gain is not considered to be 'exempt income' and therefore does not form part of the taxpayer's 'net exempt income' under section 36-20 of the ITAA 1997. Accordingly, the taxpayer is not required to offset their tax losses against this amount.
@@ -28,12 +13,8 @@ However, the taxpayer had a revenue loss (that is, a tax loss) of $20,000, carri
 In the 2004 income year, the taxpayer's total assessable income exceeded their deductions (ignoring the prior year tax loss).
 Reasons for Decision
 A taxpayer who wishes to deduct a prior year tax loss in an income year must first offset the tax loss against their 'net exempt income' for that year (before they can offset the loss against any assessable income): subsection 36-15 of the ITAA 1997.
-Section 36-20 of the ITAA 1997 provides that the 'net exempt income' of an Australian resident is the amount by which their total 'exempt income' from all sources (except excluded exempt income) exceeds the total of:
-
-• the losses and outgoings (except capital losses and outgoings) incurred in deriving that exempt income, and
-• any taxes payable outside Australia on that exempt income.
-
-An amount of ordinary income or statutory income is 'exempt income' if it is made exempt from income tax by a provision of the ITAA or another Commonwealth law (section 6-20 of the ITAA 1997). Before an amount can be exempt, it must first be identified as either ordinary or statutory income. Division 11 of the ITAA 1997, which is a Guide, lists classes of exempt income.
+Section 36-20 of the ITAA 1997 provides that the 'net exempt income' of an Australian resident is the amount by which their total 'exempt income' from all sources (except excluded exempt income) exceeds the total of: • the losses and outgoings (except capital losses and outgoings) incurred in deriving that exempt income, and
+• any taxes payable outside Australia on that exempt income. An amount of ordinary income or statutory income is 'exempt income' if it is made exempt from income tax by a provision of the ITAA or another Commonwealth law (section 6-20 of the ITAA 1997). Before an amount can be exempt, it must first be identified as either ordinary or statutory income. Division 11 of the ITAA 1997, which is a Guide, lists classes of exempt income.
 Ordinary income is income according to ordinary concepts and is included in a taxpayer's assessable income (subsection 6-5(1) of the ITAA 1997).
 Some amounts that are not ordinary income but are included in assessable income by provisions of the ITAA are called statutory income: subsections 6-10(1) and 6-10(2) of the ITAA 1997. Section 102-5 of the ITAA 1997 provides that a taxpayer's assessable income includes a net capital gain worked out in accordance with the method statement provided in the section. Thus, a net capital gain (and not any particular capital gain) is statutory income.
 Step 3 of the method statement in subsection 102-5(1) of the ITAA 1997 requires that each amount of a discount capital gain that remains after applying current year capital losses and prior year net capital losses at step 2 is reduced by the discount percentage. The amount that is disregarded is commonly referred to as the CGT concession amount.
@@ -41,51 +22,7 @@ Although step 3 of the method statement in subsection 102-5(1) of the ITAA 1997 
 Similarly, no other provision in the ITAA 1997 which disregards a capital gain would have the effect of making the disregarded amount 'exempt income'. The issue of exempt income would arise in a CGT context only in the case of a provision that exempted an amount of a taxpayer's net capital gain.
 In this case, the taxpayer made a capital gain on the sale of an asset. The capital gain met all the requirements in section 115-5 of the ITAA 1997 to be a discount capital gain and, as the taxpayer is an individual, 50% of the capital gain is disregarded in accordance with step 3 of the method statement in subsection 102-5(1) of the ITAA 1997. Because the taxpayer has no other capital gains or losses for the income year, or net capital losses from prior years, their net capital gain for the 2004 income year is $30,000. This amount is included in their assessable income. The CGT concession amount is also $30,000. As this amount does not form part of the taxpayer's exempt income it cannot form part of their net exempt income.
 Accordingly, the taxpayer is not required to first offset their $20,000 prior year tax loss against the CGT concession amount. The full amount of the taxpayer's prior year tax loss can be offset against the part of their assessable income that exceeds their other deductions.
-Date of decision:
-  3 December 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 6-5(1)   subsection 6-10(1)   subsection 6-10(2)   section 6-20   Division 11   section 36-15   section 36-20   section 102-5   subsection 102-5(1)   section 115-5
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2003/967 (withdrawn)
-
-Keywords
-
-capital gains
- CGT 50% individual discount
- CGT discount
- exempt income
- method statement
- net capital gains
- tax loss
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  6 February 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 3 December 2003
-Original statement
-
-You are here
+Date of decision: 3 December 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 subsection 6-5(1) subsection 6-10(1) subsection 6-10(2) section 6-20 Division 11 section 36-15 section 36-20 section 102-5 subsection 102-5(1) section 115-5 ATO Interpretative Decisions overturned by this decision ATO ID 2003/967 (withdrawn) Keywords capital gains CGT 50% individual discount CGT discount exempt income method statement net capital gains tax loss Business Line: Private Groups and High Wealth Individuals Date of publication: 6 February 2004 ISSN: 1445-2782 history Date: Version: 3 December 2003
+Original statement You are here
 16 May 2014
 Archived

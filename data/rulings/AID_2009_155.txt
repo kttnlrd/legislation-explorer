@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/155
-==================================================
-
-Income Tax
- Beneficiary of a managed investment trust
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Beneficiary of a managed investment trust FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the recipient of a fund payment liable to pay managed investment trust withholding tax under subsection 840-805(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where the recipient participated in a capital raising arrangement under a specific capital instrument?
 Decision
 Yes. The recipient of a fund payment is liable to pay managed investment trust withholding tax under subsection 840-805(1) of the ITAA 1997 where the recipient participated in a capital raising arrangement under a specific capital instrument where the terms of the instrument result in the recipient being a beneficiary of the managed investment trust.
@@ -21,59 +10,22 @@ A foreign resident (the investor) contributed funds to an Australian unit trust 
 The capital raising instrument carries an entitlement to payment of 10% per annum on the face value of the security and payment is at the absolute discretion of the payer.
 Under the terms of the capital raising instrument, the investor has a beneficial interest in the trust.
 The investor is paid the first payment in relation to the current income year. The payment is a fund payment as defined in subsection 12-405(1) of Schedule 1 to the Taxation Administration Act 1953 (TAA) in relation to the current income year.
-At the time that the payment is made:
-
-•the trustee of the unit trust is a resident of Australia
+At the time that the payment is made: •the trustee of the unit trust is a resident of Australia
 •the trust is a managed investment scheme (as defined by section 9 of the Corporations Act 2001)
 •the trust is operated by a financial services licensee (as defined by section 761A of the Corporations Act 2001) whose licence covers operating such a managed investment scheme, and
-•the units in the trust are listed for quotation in the official list of an approved stock exchange in Australia.
-
-Reasons for Decision
-A person is liable to pay managed investment trust withholding tax under subsection 840-805(1) of the ITAA 1997 where subsection 840-805(2) of the ITAA 1997 is satisfied. The requirements of subsection 840-805(2) are:
-
-•the person is paid an amount from a trust that is a managed investment trust (as defined in section 12-400 of Schedule 1 to the TAA) in relation to an income year
+•the units in the trust are listed for quotation in the official list of an approved stock exchange in Australia. Reasons for Decision
+A person is liable to pay managed investment trust withholding tax under subsection 840-805(1) of the ITAA 1997 where subsection 840-805(2) of the ITAA 1997 is satisfied. The requirements of subsection 840-805(2) are: •the person is paid an amount from a trust that is a managed investment trust (as defined in section 12-400 of Schedule 1 to the TAA) in relation to an income year
 •all or part of that amount is represented by a payment that is a fund payment (as defined in subsection 12-405(1) of Schedule 1 to the TAA) in relation to that year
 •the person is, in respect of that part, a beneficiary (but not a beneficiary in the capacity of a trustee of another trust), and
-•the person is a foreign resident when they are paid the amount.
-
-The investor is paid an amount by the unit trust in relation to the current income year.
-Unit trust is a managed investment trust in relation to the current income year because, at the time that the payment is made:
-
-•the trustee of the unit trust is a resident of Australia
+•the person is a foreign resident when they are paid the amount. The investor is paid an amount by the unit trust in relation to the current income year.
+Unit trust is a managed investment trust in relation to the current income year because, at the time that the payment is made: •the trustee of the unit trust is a resident of Australia
 •the trust is a managed investment scheme (as defined by section 9 of the Corporations Act 2001)
 •the trust is operated by a financial services licensee (as defined by section 761A of the Corporations Act 2001) whose licence covers operating such a managed investment scheme, and
-•the units in the trust are listed for quotation in the official list of an approved stock exchange in Australia.
-
-The payment is a fund payment in relation to the current income year.
+•the units in the trust are listed for quotation in the official list of an approved stock exchange in Australia. The payment is a fund payment in relation to the current income year.
 The investor is a foreign resident when they are paid the amount.
 The investor is a beneficiary of the unit trust. The investor is paid the amount in respect of the capital raising instruments which gives rise to the beneficial interest in the trust; therefore the investor is a beneficiary in respect of the amount paid.
 The investor is not paid the amount in the capacity of trustee of another trust.
 As all of the requirements of subsection 840-805(2) of the ITAA 1997 are met, the investor is liable to pay managed investment trust withholding tax on the payment under subsection 840-805(1) of the ITAA 1997.
-Date of decision:
-  3 December 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 840-805(1)   subsection 840-805(2)
-Taxation Administration Act 1953   section 12-400 of Schedule 1   subsection 12-405(1) of Schedule 1
-Corporations Act 2001   section 9   section 761A
-
-Keywords
-
-Beneficiaries
- Investment trusts
-
-Siebel/TDMS Reference Number:
-  6231529
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 December 2009
-
-ISSN:
- 1445 - 2782
+Date of decision: 3 December 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 subsection 840-805(1) subsection 840-805(2)
+Taxation Administration Act 1953 section 12-400 of Schedule 1 subsection 12-405(1) of Schedule 1
+Corporations Act 2001 section 9 section 761A Keywords Beneficiaries Investment trusts Siebel/TDMS Reference Number: 6231529 Business Line: Public Groups and International Date of publication: 18 December 2009 ISSN: 1445 - 2782

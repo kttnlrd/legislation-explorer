@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/169
-==================================================
-
-Goods and Services Tax
- GST and the supply of services for the construction of plant on an oil rig in the Joint Petroleum Development Area
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and the supply of services for the construction of plant on an oil rig in the Joint Petroleum Development Area FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of services, making a GST-free supply under item 1 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies services for the construction of plant on an oil rig in the Joint Petroleum Development Area (JPDA)?
 Decision
 Yes, the entity is making a GST-free supply under item 1 in the table in subsection 38-190(1) of the GST Act (Item 1) when it supplies services for the construction of plant on an oil rig in the JPDA.
@@ -27,57 +14,13 @@ Under section 38-190 of the GST Act, certain supplies, other than goods or real 
 Item 1 in the table in subsection 38-190(1) of the GST Act provides that a supply is GST-free where the supply is directly connected with goods or real property situated outside Australia.
 As the entity supplies services for the construction of plant on an oil rig in the JPDA, its supply is directly connected with goods. Therefore, if the oil rig in the JPDA is situated outside of Australia, the supply satisfies the requirements of Item 1 in the table in subsection 38-190(1) of the GST Act and is GST-free.
 'Australia', as defined in section 195-1 of the GST Act, does not include any external territory, but includes an installation that is deemed by section 5C of the Customs Act 1901 to be part of Australia. For the following reasons the JPDA is not deemed to be part of Australia.
-Subject to subsections 5C(2) and 5C(3) of the Customs Act, subsection 5C(1) of the Customs Act provides that the following installations are deemed to be part of Australia:
-
-(a)a resources installation attached to the Australian seabed; or
-(b)a sea installation installed in an adjacent area or a coastal area;
-
-There are two aspects of paragraph 5C(1)(a) of the Customs Act that need to be considered: what is a resource installation and what is the area the Australian seabed covers.
+Subject to subsections 5C(2) and 5C(3) of the Customs Act, subsection 5C(1) of the Customs Act provides that the following installations are deemed to be part of Australia: (a)a resources installation attached to the Australian seabed; or
+(b)a sea installation installed in an adjacent area or a coastal area; There are two aspects of paragraph 5C(1)(a) of the Customs Act that need to be considered: what is a resource installation and what is the area the Australian seabed covers.
 In the Customs Act, a 'resources installation' is either a resources industry fixed structure within the meaning of subsection 4(5) of the Customs Act or a resources industry mobile unit within the meaning of subsection 4(6) of the Customs Act. Many oil rigs will be a resources installation so that in this case this aspect would be satisfied.
 Subsection 4(1) of the Customs Act defines the area that is considered to be 'Australian seabed'. However it specifically states that the seabed to which it applies is seabed 'other than the seabed within the JPDA'. As such, the oil rig that is a resources installation in the JPDA is a resources installation that is not attached to the Australian seabed and so not deemed to be part of Australia.
 Accordingly, paragraph 5C(1)(a) of the Customs Act is not satisfied and therefore paragraph 5C(1)(b) of the Customs Act needs to be considered.
-Under subsection 4(1) of the Customs Act, '"sea installation" has the same meaning as in the Sea Installations Act 1987'. Under subsection 4(1) of the Sea Installations Act the term "sea installation" is explained to include certain structures but to not include certain other structures, units, vessels and so on. Two of the exclusions mentioned in subsection 4(1) of the Sea Installations Act,
-
-...(k) a resources industry fixed structure;...
-
-and
-
-...(m) a resources industry mobile unit...
-
-are explained in subsections 4(2) and 4(3), respectively, of that Act. As the oil rig falls within one of these exclusions, it is not a sea installation. This means that the definition in paragraph 5C(1)(b) of the Customs Act is not applicable to such an oil rig and that the oil rig is not deemed to be part of Australia.
+Under subsection 4(1) of the Customs Act, '"sea installation" has the same meaning as in the Sea Installations Act 1987'. Under subsection 4(1) of the Sea Installations Act the term "sea installation" is explained to include certain structures but to not include certain other structures, units, vessels and so on. Two of the exclusions mentioned in subsection 4(1) of the Sea Installations Act, ...(k) a resources industry fixed structure;... and ...(m) a resources industry mobile unit... are explained in subsections 4(2) and 4(3), respectively, of that Act. As the oil rig falls within one of these exclusions, it is not a sea installation. This means that the definition in paragraph 5C(1)(b) of the Customs Act is not applicable to such an oil rig and that the oil rig is not deemed to be part of Australia.
 For the purposes of the Customs Act, the oil rig in the JPDA is not deemed to be part of Australia. Therefore, the entity's supply of services for the construction of plant on such an oil rig in the JPDA is directly connected with goods situated outside Australia and the entity is making a GST-free supply under Item 1 in the table in subsection 38-190(1) of the GST Act.
-Date of decision:
-  16 August 2007
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 38-190   subsection 38-190(1) table item 1   section 195-1
-Customs Act 1901   subsection 4(1)   section 5C   subsection 5C(1)   paragraph 5C(1)(a)   paragraph 5C(1)(b)
-Sea Installations Act 1987   subsection 4(1)   subsection 4(2)   subsection 4(3)
- Petroleum (Timor Sea Treaty) Act 2003   Schedule 25
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2003/1089
-
-Keywords
-
-Connected with Australia
- Consumption outside Australia
- Goods and services tax
- GST free
- GST international services
- Supplies used or enjoyed outside Australia
- Supply directly connected with goods or real property situated outside Australia
-
-Siebel/TDMS Reference Number:
-  5734169
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  24 August 2007
-
-ISSN:
- 1445-2782
+Date of decision: 16 August 2007 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 38-190 subsection 38-190(1) table item 1 section 195-1
+Customs Act 1901 subsection 4(1) section 5C subsection 5C(1) paragraph 5C(1)(a) paragraph 5C(1)(b)
+Sea Installations Act 1987 subsection 4(1) subsection 4(2) subsection 4(3) Petroleum (Timor Sea Treaty) Act 2003 Schedule 25 ATO Interpretative Decisions overturned by this decision ATO ID 2003/1089 Keywords Connected with Australia Consumption outside Australia Goods and services tax GST free GST international services Supplies used or enjoyed outside Australia Supply directly connected with goods or real property situated outside Australia Siebel/TDMS Reference Number: 5734169 Business Line: Indirect Tax Date of publication: 24 August 2007 ISSN: 1445-2782

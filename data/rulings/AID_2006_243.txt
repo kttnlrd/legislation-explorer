@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/243
-==================================================
-
-Income Tax
- Assessability of dividends paid in respect of an underlying share that is the subject of an endowment warrant
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of dividends paid in respect of an underlying share that is the subject of an endowment warrant FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are dividends paid in respect of an underlying share that is the subject of an endowment warrant assessable income in the hands of the holder of the endowment warrant under subsection 6-5(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The dividends paid in respect of an underlying share that is the subject of an endowment warrant will not be assessable income in the hands of the holder of the endowment warrant under subsection 6-5(1) of the ITAA 1997.
@@ -21,12 +10,8 @@ The taxpayer is the holder of an endowment warrant which may be traded on the Au
 The endowment warrant is an agreement for the sale and purchase of a share in an ASX listed company (the underlying share), the completion of which is at the option of the holder of the endowment warrant. That is, the endowment warrant gives the holder the right to purchase the underlying share (a call option), exercisable at a date typically known as the completion date. The issue price of an endowment warrant is typically between 30%-65% of the market value of the underlying share at the time of issue.
 The endowment warrant does not confer on the holder any interest or right in respect of the underlying share. It is only if the holder exercises their option to complete the purchase on the completion date that the holder will have an interest in the underlying share.
 To complete the purchase of the underlying share, the holder makes a final payment on the completion date. This final payment will be a variable amount (predominantly comprised of an amount typically known as the outstanding amount).
-The outstanding amount is established at the start of the issue of the endowment warrant. In broad terms, the outstanding amount will be the difference between the market value of the underlying share at the time of issue (plus any issuer costs, profit and premium) and the issue price of the endowment warrant. During the period of the endowment warrant, the balance of the outstanding amount will be:
-
-•increased by an interest rate factor (notional interest amount), and
-•reduced by notional amounts representing payments made in respect of the underlying share (such as dividends and other distributions).
-
-Generally, the completion date for the endowment warrant will be 30 business days after the earlier of the expiry date (generally 10 years from the date of purchase) and the date when the outstanding amount is reduced to zero.
+The outstanding amount is established at the start of the issue of the endowment warrant. In broad terms, the outstanding amount will be the difference between the market value of the underlying share at the time of issue (plus any issuer costs, profit and premium) and the issue price of the endowment warrant. During the period of the endowment warrant, the balance of the outstanding amount will be: •increased by an interest rate factor (notional interest amount), and
+•reduced by notional amounts representing payments made in respect of the underlying share (such as dividends and other distributions). Generally, the completion date for the endowment warrant will be 30 business days after the earlier of the expiry date (generally 10 years from the date of purchase) and the date when the outstanding amount is reduced to zero.
 If the holder does not complete the purchase of the underlying share (that is, the holder does not exercise their right of purchase under the endowment warrant), the endowment warrant lapses, or terminates.
 Reasons for Decision
 A taxpayer's assessable income includes income according to ordinary concepts, which is called ordinary income (subsection 6-5(1) of the ITAA 1997).
@@ -34,31 +19,4 @@ It is therefore necessary to consider whether any ordinary income is earned from
 The holder does not earn any income directly in respect of an endowment warrant. Nor does an endowment warrant confer on the holder any legal or beneficial interest in the ownership of the underlying share during the period of the endowment warrant, and thus there is no entitlement to dividends or other distributions payable in respect of that underlying share. The endowment warrant merely confers on the holder certain rights that are exercisable on the completion date, which include the right, but not the obligation, to take delivery of the underlying share in certain circumstances.
 Although the outstanding amount payable in respect of the endowment warrant is calculated by reference to any dividends payable in respect of the underlying share, this does not mean that the taxpayer has derived assessable income equivalent to the amount of the dividend. This is because any dividends payable in respect of the underlying share are only relevant to determining the outstanding amount in respect of the endowment warrant, and do not represent a gain accruing directly or beneficially to the taxpayer. Accordingly, any dividends paid in respect of an underlying share that is the subject of an endowment warrant cannot be regarded as ordinary income to the holder and will not be included in the assessable income of the holder under subsection 6-5(1) of the ITAA 1997.
 Where an amount of ordinary income is applied or dealt with in any way on behalf of the taxpayer or on their direction, it will be considered a constructive receipt under subsection 6-5(4) of the ITAA 1997. As there is no ordinary income derived by the holder, this provision will not apply.
-Date of decision:
-  13 July 2006
-
-Year of income:
-  Year ended 30 June 2006 Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5   subsection 6-5(1)   subsection 6-5(4)
-
-Keywords
-
-Dividend income
-
-Siebel/TDMS Reference Number:
-  5175872; 1-BNNIFLA
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  8 September 2006
-
-Date reviewed:
-  7 June 2017
-
-ISSN:
- 1445-2782
+Date of decision: 13 July 2006 Year of income: Year ended 30 June 2006 Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1997 section 6-5 subsection 6-5(1) subsection 6-5(4) Keywords Dividend income Siebel/TDMS Reference Number: 5175872; 1-BNNIFLA Business Line: Private Groups and High Wealth Individuals Date of publication: 8 September 2006 Date reviewed: 7 June 2017 ISSN: 1445-2782

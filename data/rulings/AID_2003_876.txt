@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/876
-==================================================
-
-Goods and Services Tax
- GST and fillings for bakery goods and desserts
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and fillings for bakery goods and desserts FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells flavoured fillings for bakery goods and desserts?
 Decision
 Yes, the entity is making a GST-free supply under section 38-2 of the GST Act when it sells flavoured fillings for bakery goods and desserts.
@@ -24,30 +13,4 @@ A supply of food is GST-free under section 38-2 of the GST Act if the product sa
 Food is defined in section 38-4 of the GST Act to include ingredients for food for human consumption (paragraph 38-4(1)(b) of the GST Act). The flavoured fillings for bakery goods and desserts are ingredients for food for human consumption and therefore satisfy the definition of food in paragraph 38-4(1)(b) of the GST Act.
 However, under paragraph 38-3(1)(c) of the GST Act, a supply of food is not GST-free if it is food of a kind specified in the table in clause 1 of Schedule 1 to the GST Act (Schedule 1). Flavoured fillings are not food of a kind specified in Schedule 1.
 In addition, the flavoured fillings do not fall within any of the other exclusions in section 38-3 of the GST Act. Therefore, the entity is making a GST-free supply under section 38-2 of the GST Act when it sells flavoured fillings for bakery goods and desserts.
-Date of decision:
-  25 August 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 38-2   section 38-3   paragraph 38-3(1)(c)   section 38-4   paragraph 38-4(1)(b)   Schedule 1 clause 1
-
-Keywords
-
-Goods and services tax
- GST free
- GST food
- Bakery products
- Food for human consumption
- Ingredients for food
-
-Siebel/TDMS Reference Number:
-  3706328
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  3 October 2003
-
-ISSN:
- 1445-2782
+Date of decision: 25 August 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 38-2 section 38-3 paragraph 38-3(1)(c) section 38-4 paragraph 38-4(1)(b) Schedule 1 clause 1 Keywords Goods and services tax GST free GST food Bakery products Food for human consumption Ingredients for food Siebel/TDMS Reference Number: 3706328 Business Line: Indirect Tax Date of publication: 3 October 2003 ISSN: 1445-2782

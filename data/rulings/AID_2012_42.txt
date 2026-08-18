@@ -1,25 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2012/42
-==================================================
-
-Income Tax
- Consolidation: inherited TOFA transitional balancing adjustment and cessation of financial arrangement
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Where:
-
-•an entity joins a consolidated group with a financial arrangement (an asset),
+================================================== Income Tax Consolidation: inherited TOFA transitional balancing adjustment and cessation of financial arrangement FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Where: •an entity joins a consolidated group with a financial arrangement (an asset),
 •under the entry history rule in section 701-5 of the Income Tax Assessment Act 1997 (ITAA 1997), the head company of the consolidated group inherits amounts (inherited TBA amounts) to be included in assessable income (or allowed as a deduction) in respect of the transitional balancing adjustment (TBA) made under sub-item 104(13) of Schedule 1 to the Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 (TOFA Act), and
-•the TBA is attributable to the financial arrangement,
-
-are the inherited TBA amounts taken into account in working out the balancing adjustment for the head company under section 230-445 of the ITAA 1997 on cessation of the financial arrangement?
+•the TBA is attributable to the financial arrangement, are the inherited TBA amounts taken into account in working out the balancing adjustment for the head company under section 230-445 of the ITAA 1997 on cessation of the financial arrangement?
 Decision
 No. The inherited TBA amounts are not taken into account in working out the balancing adjustment under section 230-445 of the ITAA 1997. Under subsection 701-55(5A) of the ITAA 1997 the financial arrangement is deemed to have been acquired by the head company of the consolidated group at the joining time for the purposes of applying Division 230 of the ITAA 1997.
 Facts
@@ -30,94 +15,18 @@ In accordance with sub-item 104(17) of Schedule 1 to the TOFA Act the TBA is to 
 A Co included $5,000 in its assessable income in income year ended 30 June 2011 being the first portion of the TBA.
 On 1 July 2011 A Co joined a consolidated group whose head company is H Co. The tax cost setting amount for the financial arrangement asset was $440,000. The 'Division 230 starting value' at the joining time was also $440,000.
 H Co inherited the final three portions of the TBA under the entry history rule in section 701-5 of the ITAA 1997.
-H Co included the following amounts in its assessable income for income year ended 30 June 2012 in respect of the financial arrangement:
-
-(a)$20,000 gain under the fair value method in Division 230 of the ITAA 1997; and
-(b)$5,000 being the second portion of the TBA.
-
-A Co remains in the consolidated group during the remaining term of the financial arrangement.
+H Co included the following amounts in its assessable income for income year ended 30 June 2012 in respect of the financial arrangement: (a)$20,000 gain under the fair value method in Division 230 of the ITAA 1997; and
+(b)$5,000 being the second portion of the TBA. A Co remains in the consolidated group during the remaining term of the financial arrangement.
 The financial arrangement ceases on 30 June 2013. The financial benefits received by H Co on cessation are $480,000.
 Reasons for Decision
 All legislative references are to the ITAA 1997.
-Division 230 is about the tax treatment of gains and losses from financial arrangements. Where an entity joins a consolidated group with an asset to which Division 230 will apply, subsection 701-55(5A) has application. Under subsection 701-55(5A), Division 230 applies to the financial arrangement asset as if the asset were acquired at the joining time for a payment equal to either:
-
-(a)the asset's tax cost setting amount, or
-(b)the asset's 'Division 230 starting value' at the joining time (where certain elective tax-timing methods will apply to the asset).
-
-Subdivision 230-G provides that a balancing adjustment is made under the Subdivision if certain events happen including the cessation of a financial arrangement. The balancing adjustment is worked out under the method statement in subsection 230-445(1).
+Division 230 is about the tax treatment of gains and losses from financial arrangements. Where an entity joins a consolidated group with an asset to which Division 230 will apply, subsection 701-55(5A) has application. Under subsection 701-55(5A), Division 230 applies to the financial arrangement asset as if the asset were acquired at the joining time for a payment equal to either: (a)the asset's tax cost setting amount, or
+(b)the asset's 'Division 230 starting value' at the joining time (where certain elective tax-timing methods will apply to the asset). Subdivision 230-G provides that a balancing adjustment is made under the Subdivision if certain events happen including the cessation of a financial arrangement. The balancing adjustment is worked out under the method statement in subsection 230-445(1).
 Under the single entity rule in subsection 701-1(1), H Co will be taken to be the holder of the financial arrangement from the joining time onwards because A Co is treated as being part of H Co whilst it is a subsidiary member of H Co's consolidated group.
-H Co will need to consider the following steps in the method statement in working out the Subdivision 230-G balancing adjustment on cessation of the financial arrangement on 30 June 2013:
-
-Step 1(a) - financial benefits received.
-
-Step 2(a) - financial benefits provided (which is the deemed payment under subsection 701-55(5A) in this case).
-
-Step 2(b) - amounts included in H Co's assessable income as gains from the financial arrangement because of circumstances that have occurred before the cessation.
-
-Step 2(d) - amounts included in H Co's assessable income after cessation because of a TBA to the extent to which those amounts are attributable to the financial arrangement.
-
-As H Co is taken to have acquired the financial arrangement on 1 July 2011 for the purposes of Division 230, it will not have any TBA amounts attributable to that financial arrangement when applying provisions in Division 230 including the balancing adjustment in Subdivision 230-G. This is because the deemed acquisition in subsection 701-55(5A) severs the connection between the TBA amounts and the financial arrangement that is taken to have been acquired by H Co at the joining time. Only gains (or losses) made after the joining time are relevant for purposes of calculating the balancing adjustment for the head company in these circumstances.
+H Co will need to consider the following steps in the method statement in working out the Subdivision 230-G balancing adjustment on cessation of the financial arrangement on 30 June 2013: Step 1(a) - financial benefits received. Step 2(a) - financial benefits provided (which is the deemed payment under subsection 701-55(5A) in this case). Step 2(b) - amounts included in H Co's assessable income as gains from the financial arrangement because of circumstances that have occurred before the cessation. Step 2(d) - amounts included in H Co's assessable income after cessation because of a TBA to the extent to which those amounts are attributable to the financial arrangement. As H Co is taken to have acquired the financial arrangement on 1 July 2011 for the purposes of Division 230, it will not have any TBA amounts attributable to that financial arrangement when applying provisions in Division 230 including the balancing adjustment in Subdivision 230-G. This is because the deemed acquisition in subsection 701-55(5A) severs the connection between the TBA amounts and the financial arrangement that is taken to have been acquired by H Co at the joining time. Only gains (or losses) made after the joining time are relevant for purposes of calculating the balancing adjustment for the head company in these circumstances.
 Therefore it is necessary to exclude the inherited TBA amounts at both step 2(b) and step 2(d) of the method statement.
-H Co will have a Subdivision 230-G balancing adjustment of $20,000 to be included in its assessable income for income year ended 30 June 2013 calculated as follows:
-
-$480,000 financial benefits received (Step 1(a))
-
-less
-
-$440,000 financial benefits provided (Step 2(a))
-
-less
-
-$20,000 gain included in assessable income under the fair value method (step 2(b))
-
-Although the deemed acquisition in subsection 701-55(5A) severs the connection between the TBA amounts and the financial arrangement that is taken to have been acquired by H Co at the joining time, the remaining TBA amounts still need to be included in H Co's assessable income. The creation of the TBA amount and the obligation to spread it over four years is something that happened to A Co. As a consequence of the entry history rule in section 701-5, H Co is required to include the remaining TBA amounts in its assessable income.
+H Co will have a Subdivision 230-G balancing adjustment of $20,000 to be included in its assessable income for income year ended 30 June 2013 calculated as follows: $480,000 financial benefits received (Step 1(a)) less $440,000 financial benefits provided (Step 2(a)) less $20,000 gain included in assessable income under the fair value method (step 2(b)) Although the deemed acquisition in subsection 701-55(5A) severs the connection between the TBA amounts and the financial arrangement that is taken to have been acquired by H Co at the joining time, the remaining TBA amounts still need to be included in H Co's assessable income. The creation of the TBA amount and the obligation to spread it over four years is something that happened to A Co. As a consequence of the entry history rule in section 701-5, H Co is required to include the remaining TBA amounts in its assessable income.
 Under Division 230, H Co includes $40,000 in its assessable income comprising the $20,000 gain made in income year ending 30 June 2012 and the $20,000 Subdivision 230-G balancing adjustment.
 The inherited TBA amounts of $15,000, that are to be included in H Co's assessable income, relate to gains made on the financial arrangement by A Co prior to the joining time. It is the 4 year spreading rule that causes H Co to be assessable on those TBA amounts.
-Date of decision:
-  8 May 2012
-
-Year of income:
-  Year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 230   Subdivision 230-G   section 230-445   subsection 230-445(1)   subsection 701-1(1)   section 701-5   subsection 701-55(5A)
-Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009   sub-item 104(2) of Schedule 1   sub-item 104(13) of Schedule 1   sub-item 104(17) of Schedule 1
-
-Related ATO Interpretative Decisions
-
- ATOID 2012/41
-
-Keywords
-
-Acquisition of assets
- Balancing adjustment
- Cessation
- Consolidation
- Consolidated group
- Consolidation - assets
- Consolidation - joining
- Division 230 taxation of financial arrangements
- Financial arrangement
- Head company
- Inherited history rules
- Joining entity
- Joining time
- Method statement
- Single entity rule
- Subsidiary member of a consolidated group
- Tax cost is set
- Tax cost setting amount
- Transitional election
-
-Siebel/TDMS Reference Number:
-  1-3SAV4N9
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  11 May 2012
-
-ISSN:
- 1445-2782
+Date of decision: 8 May 2012 Year of income: Year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1997 Division 230 Subdivision 230-G section 230-445 subsection 230-445(1) subsection 701-1(1) section 701-5 subsection 701-55(5A)
+Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 sub-item 104(2) of Schedule 1 sub-item 104(13) of Schedule 1 sub-item 104(17) of Schedule 1 Related ATO Interpretative Decisions ATOID 2012/41 Keywords Acquisition of assets Balancing adjustment Cessation Consolidation Consolidated group Consolidation - assets Consolidation - joining Division 230 taxation of financial arrangements Financial arrangement Head company Inherited history rules Joining entity Joining time Method statement Single entity rule Subsidiary member of a consolidated group Tax cost is set Tax cost setting amount Transitional election Siebel/TDMS Reference Number: 1-3SAV4N9 Business Line: Consolidation Centre of Expertise Date of publication: 11 May 2012 ISSN: 1445-2782

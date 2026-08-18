@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/260
-==================================================
-
-Income Tax
- Capital Allowances: cost - section 73BA depreciating asset - full-scale test model - refinement expenses
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: cost - section 73BA depreciating asset - full-scale test model - refinement expenses FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the taxpayer's capital expenditure on refining the full-scale test model of their 'section 73BA depreciating asset' form part of the asset's cost for the purpose of working out the taxpayer's 'notional Division 40 deduction' under section 73BC of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The taxpayer's capital expenditure on refining the full-scale test model of their 'section 73BA depreciating asset' does form part of the asset's cost because the expenditure constitutes a second element of cost of the asset under section 40-190 of the Income Tax Assessment Act 1997 (ITAA 1997).
@@ -30,38 +19,5 @@ Under Subdivision 40-C of the ITAA 1997, the cost of a depreciating asset consis
 The second element of cost of a depreciating asset is the amount a holder of the asset is taken to have paid under section 40-185 of the ITAA 1997 for each economic benefit that has contributed to bringing the asset to its present condition and location from time to time since they started to hold the asset.
 The taxpayer's capital expenditure on refining the test model did not materially alter the asset's functionality or physicality. Therefore, the expenditure did not create a new or separate depreciating asset. The expenditure merely improved the existing functionality of the existing test model to a commercially viable level. An improvement of this nature impacts on the 'condition' of the existing test model. The condition of a depreciating asset refers to its form, state or order.
 Accordingly, the taxpayer's capital expenditure on refining the full-scale test model of their 'section 73BA depreciating asset' does form part of the asset's cost for the purpose of working out the taxpayer's 'notional Division 40 deduction' under section 73BC of the ITAA 1936 because the expenditure constitutes a second element of cost of the asset pursuant to section 40-190 of the ITAA 1997.
-Date of decision:
-  11 August 2006
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 73B(1)   subsection 73B(15AA)   subsection 73B(15AAAA)   section 73BA   subsection 73BA(2)   section 73BB   section 73BC   subsection 73BC(2)   subsection 73BC(4)   subsection 73BD(1)
-Income Tax Assessment Act 1997   section 40-25   section 40-175   section 40-180   section 40-185   section 40-190
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/259
-
-Keywords
-
-Cost of a depreciating asset
- Depreciating assets
- Depreciating asset - section 73BA
- Research and development plant
- Second element of cost
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  4931014
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 September 2006
-
-ISSN:
- 1445-2782
+Date of decision: 11 August 2006 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 73B(1) subsection 73B(15AA) subsection 73B(15AAAA) section 73BA subsection 73BA(2) section 73BB section 73BC subsection 73BC(2) subsection 73BC(4) subsection 73BD(1)
+Income Tax Assessment Act 1997 section 40-25 section 40-175 section 40-180 section 40-185 section 40-190 Related ATO Interpretative Decisions ATO ID 2006/259 Keywords Cost of a depreciating asset Depreciating assets Depreciating asset - section 73BA Research and development plant Second element of cost Uniform capital allowances system Siebel/TDMS Reference Number: 4931014 Business Line: Public Groups and International Date of publication: 22 September 2006 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/698
-==================================================
-
-Goods and Services Tax
- GST and payments made under an insurance policy for bad debts
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and payments made under an insurance policy for bad debts FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entity, a supplier, have an increasing adjustment under section 21-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it receives a payment made under an insurance policy that covers the non-payment of customer debts?
 Decision
 No, the entity does not have an increasing adjustment under section 21-10 of the GST Act when it receives a payment made under an insurance policy that covers the non-payment of customer debts as the payment is not the recovery of the amount previously written off.
@@ -23,47 +12,10 @@ The entity claimed a decreasing adjustment, under section 21-5 of the GST Act, e
 The entity made a claim under its insurance policy and received a payment in settlement of their claim from the insurer. The payment from the insurer is not made for or on behalf of the entity's customer as a payment of the customer's debt.
 The settlement amount is determined in accordance with the terms and conditions of the insurance policy.
 Reasons for Decision
-Section 21-10 of the GST Act, provides that an entity has an increasing adjustment equal to 1/11th of the amount recovered if:
-
-•the debt that the entity previously claimed a decreasing adjustment for under section 21-5 of the GST Act was a taxable supply; and
-•the entity recovers all or part of the amount previously written off, or all or part of the amount that has been overdue for 12 months or more.
-
-The entity previously claimed a decreasing adjustment, under section 21-5 of the GST Act, of 1/11th of the amount that had been written off. Therefore, the entity has satisfied the first requirement of section 21-10 of the GST Act.
+Section 21-10 of the GST Act, provides that an entity has an increasing adjustment equal to 1/11th of the amount recovered if: •the debt that the entity previously claimed a decreasing adjustment for under section 21-5 of the GST Act was a taxable supply; and
+•the entity recovers all or part of the amount previously written off, or all or part of the amount that has been overdue for 12 months or more. The entity previously claimed a decreasing adjustment, under section 21-5 of the GST Act, of 1/11th of the amount that had been written off. Therefore, the entity has satisfied the first requirement of section 21-10 of the GST Act.
 The second requirement in section 21-10 of the GST Act is that the entity recovers all or part of the amount previously written off, or all or part of the amount that has been overdue for 12 months or more.
 The payment the entity received from the insurer resulted from a claim the entity made under their insurance policy. The payment from the insurer is not made for or on behalf of the entity's customer as a payment for the customer's debt. The settlement amount from the insurer is in relation to a claim made under a separate supply, that is, the supply of an insurance policy. It is a payment that the insurer is liable to make to the entity in accordance with the terms and conditions of the insurance policy. The payment by the insurer to the entity does not cancel the debt owed to the entity by the customer. The liability of the customer to repay the amount owed still remains.
 The entity has not received a payment from the customer. The amount received from the insurer is not, for the purposes of section 21-10 of the GST Act, a recovery of any of the amount written off by the entity.
 Accordingly, the entity does not have an increasing adjustment.
-Date of decision:
-  4 September 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 21-5   section 21-10
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2000/2
-
-Keywords
-
-Goods & services Tax
- GST bad debts
- Recovering amounts
- Write off
- GST net amount & adjustments
- Decreasing adjustment
- Increasing adjustment
- GST insurance policy
- Insurance settlement under an insurance policy
-
-Siebel/TDMS Reference Number:
-  3126312
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  8 August 2003
-
-ISSN:
- 1445-2782
+Date of decision: 4 September 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 21-5 section 21-10 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2000/2 Keywords Goods & services Tax GST bad debts Recovering amounts Write off GST net amount & adjustments Decreasing adjustment Increasing adjustment GST insurance policy Insurance settlement under an insurance policy Siebel/TDMS Reference Number: 3126312 Business Line: Indirect Tax Date of publication: 8 August 2003 ISSN: 1445-2782

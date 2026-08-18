@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/84
-==================================================
-
-Income Tax
- Capital gains tax: CGT event E4 - transfer of property
- FOI status: may be released
-
-This ATO ID is withdrawn as the interpretative decision is implied in the legislation. Guidance on this issue can be found by searching for Trust non-assessable payments (CGT event E4) on the ATO website. (QC 52215)
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: CGT event E4 - transfer of property FOI status: may be released This ATO ID is withdrawn as the interpretative decision is implied in the legislation. Guidance on this issue can be found by searching for Trust non-assessable payments (CGT event E4) on the ATO website. (QC 52215) This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When the trustee of a unit trust transfers property to the unit holders, is the CGT discount allowed to the trustee in the calculation of the net capital gain for the CGT event A1 'reflected in the payment' to the unit holders under item 1 of the table in subsection 104-71(4) of the Income Tax Assessment Act 1997 (ITAA 1997).
 Decision
 Yes, the CGT discount allowed to the trustee is 'reflected in the payment', being the transfer of the property, to the unit holders.
@@ -27,71 +12,12 @@ Reasons for Decision
 When the relevant trust property is transferred to the unit holders, CGT event A1 happens for the trustee under section 104-10 of the ITAA 1997. As the trustee received no capital proceeds for the CGT event, the trustee is taken to have received the market value of the property under subsection 116-30(1) of the ITAA 1997.
 The transfer of the property gives rise to a CGT event E4 under section 104-70 of the ITAA 1997 for each unit holder. CGT event E4 happens for a unit holder when the trustee makes a payment in respect of the unit and some or all of the payment (the non-assessable part) is not included in the unit holder's assessable income. Under subsection 104-70(2) of the ITAA 1997, the payment can include giving property.
 A unit holder makes a capital gain if the sum of the non-assessable parts of payments made by the trustee in the income year in respect of the units is more than their cost base (subsection 104-70(4) of the ITAA 1997). If that sum is not more than the cost base, the cost base and reduced cost base are reduced under subsection 104-70(6) of the ITAA 1997.
-The amount of the non-assessable part of a payment is adjusted under section 104-71 of the ITAA 1997. Item 1 of the table in subsection 104-71(4) of the ITAA 1997 excludes the amount by which the trustee reduces a discount capital gain at step 3 of the calculation of the net capital gain in subsection 102-5(1) of the ITAA 1997 (the CGT discount) to the extent that it is
- reflected in the payment
- . The 'payment' referred to at item 1 is the distribution to the unit holder of money or property to which section 104-70 of the ITAA 1997 applies.
-
-Is the trustee's CGT discount reflected in the property transferred
- ?
-When a payment of money is made by the trustee to a unit holder, the trustee's CGT discount is
- reflected
- in that payment to the extent that it is included in the payment.
-Paragraph 3.15 of the Explanatory Memorandum to the Taxation Laws Amendment Bill (No 5) 2001 that inserted Item 1 (the EM) describes the amendment as
-
-reducing the non-assessable part to which the CGT event E4 applies by the amount of the CGT discount allowed to the trustee that is
- paid to
- a beneficiary [emphasis added].
-
-This may happen where the trustee disposes of property to a third party and distributes all or part of the capital proceeds received from the third party to the unit holders, including the CGT discount.
+The amount of the non-assessable part of a payment is adjusted under section 104-71 of the ITAA 1997. Item 1 of the table in subsection 104-71(4) of the ITAA 1997 excludes the amount by which the trustee reduces a discount capital gain at step 3 of the calculation of the net capital gain in subsection 102-5(1) of the ITAA 1997 (the CGT discount) to the extent that it is reflected in the payment . The 'payment' referred to at item 1 is the distribution to the unit holder of money or property to which section 104-70 of the ITAA 1997 applies. Is the trustee's CGT discount reflected in the property transferred ?
+When a payment of money is made by the trustee to a unit holder, the trustee's CGT discount is reflected in that payment to the extent that it is included in the payment.
+Paragraph 3.15 of the Explanatory Memorandum to the Taxation Laws Amendment Bill (No 5) 2001 that inserted Item 1 (the EM) describes the amendment as reducing the non-assessable part to which the CGT event E4 applies by the amount of the CGT discount allowed to the trustee that is paid to a beneficiary [emphasis added]. This may happen where the trustee disposes of property to a third party and distributes all or part of the capital proceeds received from the third party to the unit holders, including the CGT discount.
 When the payment to which section 104-70 of the ITAA 1997 applies is a distribution of property, section 103-5 of the ITAA 1997 provides that 'the amount of the payment' is the market value of the property. The non-assessable part of that amount is used to work out any capital gain or reduction to the cost base or reduced cost base for the CGT event E4.
-The trustee's discount capital gain for the CGT event A1 from the transfer of the property is also based on the market value of the property, and that capital gain is reduced by the CGT discount under subsection 102-5(1) of the ITAA 1997. In this case, the CGT discount is 'paid' to the unit holder as part of the property transferred by the trustee, and is therefore 'reflected in the payment'.
-
-Note
-
-This interpretation gives effect to the policy intention of item 1 of the table in subsection 104-71(4) of the ITAA 1997 to 'enable a payment of the CGT discount amount to be made by the trustee to a beneficiary ... without triggering CGT event E4' as this could 'have the effect of reducing the benefit of the CGT discount allowed in the trust' (paragraphs 3.6 and 3.14 of the EM).
-Date of decision:
-  7 April 2010
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 102-5(1)   section 103-5   section 104-10   section 104-70   subsection 104-70(2)   subsection 104-70(4)   subsection 104-70(6)   section 104-71   item 1 of the table in subsection 104-71(4)   subsection 116-30(1)
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment Bill (No 5) 2001
-
-Keywords
-
-CGT discount
- CGT events E1-E9 - trusts
-
-Siebel/TDMS Reference Number:
-  6332447
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  16 April 2010
-
-ISSN:
- 1445 - 2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 7 April 2010
-Original statement
-
-You are here
+The trustee's discount capital gain for the CGT event A1 from the transfer of the property is also based on the market value of the property, and that capital gain is reduced by the CGT discount under subsection 102-5(1) of the ITAA 1997. In this case, the CGT discount is 'paid' to the unit holder as part of the property transferred by the trustee, and is therefore 'reflected in the payment'. Note This interpretation gives effect to the policy intention of item 1 of the table in subsection 104-71(4) of the ITAA 1997 to 'enable a payment of the CGT discount amount to be made by the trustee to a beneficiary ... without triggering CGT event E4' as this could 'have the effect of reducing the benefit of the CGT discount allowed in the trust' (paragraphs 3.6 and 3.14 of the EM).
+Date of decision: 7 April 2010 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 102-5(1) section 103-5 section 104-10 section 104-70 subsection 104-70(2) subsection 104-70(4) subsection 104-70(6) section 104-71 item 1 of the table in subsection 104-71(4) subsection 116-30(1) Other References: Explanatory Memorandum to the Taxation Laws Amendment Bill (No 5) 2001 Keywords CGT discount CGT events E1-E9 - trusts Siebel/TDMS Reference Number: 6332447 Business Line: Small Business/Individual Taxpayers Date of publication: 16 April 2010 ISSN: 1445 - 2782 history Date: Version: 7 April 2010
+Original statement You are here
 31 May 2019
 Archived

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/911
-==================================================
-
-CoE CGT
- Capital gains: partners contribute property to the partnership capital
- FOI status: may be released
-
-This ATOID is withdrawn as it is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== CoE CGT Capital gains: partners contribute property to the partnership capital FOI status: may be released This ATOID is withdrawn as it is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does any CGT event in Division 104 of the Income Tax Assessment Act 1997 ('ITAA 1997') happen when a taxpayer contributes their interest in a block of land to the capital of a partnership?
 Decision
 Yes. When the taxpayer contributes their interest in a block of land to the capital of a partnership, CGT event A1 in section 104-10 of the ITAA 1997 happens.
@@ -28,51 +13,8 @@ The other two individuals each contributed an amount towards the original acquis
 Reasons for Decision
 For CGT purposes, each partner in a partnership has a separate interest in each CGT asset of the partnership: subsection 106-5(2) of the ITAA 1997. Accordingly, upon formation of the partnership, the taxpayer and the other joint owner dispose of part of their interest in the property to the new partners.
 CGT event A1 (section 104-10 of the ITAA 1997) will happen to that part of the taxpayer's interest in the land that was disposed of at the time of entering into the partnership. Under subsection 104-10(4) of the ITAA 1997 the taxpayer will make a capital gain if the capital proceeds are more the asset's cost base. The taxpayer will make a capital loss if the capital proceeds are less than the asset's reduced cost base.
-The capital proceeds from the CGT event (subsection 116-20(1) of the ITAA 1997) will equal that part of the amount which the taxpayer received from the joining partners in relation to the acquisition of their interest in the land. As the CGT event only happens to part of the interest in the property, the cost base will have to be apportioned according to the following formula in subsection 112-30(3) of the ITAA 1997:
-
-Cost base of the asset * (Capital proceeds for the CGT event happening to the part / Those capital proceeds plus the market of the remainder of the asset)
-
-The reduced cost base of the interests disposed of on formation of the partnership is worked out similarly.
-Date of decision:
-  27 August 2002
-
-Year of income:
-  Year ended 30 June 2001 Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-10   subsection 104-10(4)   subsection 106-5(2)   subsection 112-30(3)   subsection 116-20(1)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2540
-
-Keywords
-
-Capital gains tax
- Partnerships
-
-Business Line:
-  Centres of Expertise Capital Gains Tax
-
-Date of publication:
-  16 September 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 August 2002
-Original statement
-
-You are here
+The capital proceeds from the CGT event (subsection 116-20(1) of the ITAA 1997) will equal that part of the amount which the taxpayer received from the joining partners in relation to the acquisition of their interest in the land. As the CGT event only happens to part of the interest in the property, the cost base will have to be apportioned according to the following formula in subsection 112-30(3) of the ITAA 1997: Cost base of the asset * (Capital proceeds for the CGT event happening to the part / Those capital proceeds plus the market of the remainder of the asset) The reduced cost base of the interests disposed of on formation of the partnership is worked out similarly.
+Date of decision: 27 August 2002 Year of income: Year ended 30 June 2001 Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 104-10 subsection 104-10(4) subsection 106-5(2) subsection 112-30(3) subsection 116-20(1) Related Public Rulings (including Determinations) Taxation Ruling IT 2540 Keywords Capital gains tax Partnerships Business Line: Centres of Expertise Capital Gains Tax Date of publication: 16 September 2002 ISSN: 1445-2782 history Date: Version: 27 August 2002
+Original statement You are here
 12 March 2010
 Archived

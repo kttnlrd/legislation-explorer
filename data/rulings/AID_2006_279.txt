@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/279
-==================================================
-
-Income Tax
- Income tax :Trust losses - fixed entitlement - beneficiaries of a deceased estate
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income tax :Trust losses - fixed entitlement - beneficiaries of a deceased estate FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do the residuary beneficiaries of a deceased estate have fixed entitlements to all of the income and capital of the estate, for the purpose of determining whether the trust constituted by the estate is a fixed trust under section 272-65 of Schedule 2F to the Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The terms of the Will governing the disposition of the property in the deceased estate confer fixed entitlements to all of the income and capital of the estate upon the residuary beneficiaries.
@@ -24,59 +13,10 @@ The residue of the estate is equally divided between a class of persons. Part of
 Tax losses have been incurred by the estate.
 A Family Trust Election has not been made in respect of the trust constituted by the estate.
 Reasons for Decision
-A 'fixed trust' is defined in section 272-65 of Schedule 2F to the ITAA 1936. That definition provides that:
-
-A trust is a
- fixed trust
- if persons have fixed entitlements to all of the income and capital of the trust.
-
-Subsection 272-5(1) of Schedule 2F to the ITAA 1936 defines a fixed entitlement in a trust:
-
-If, under a trust instrument, a beneficiary has a vested and indefeasible interest in a share of income of the trust that the trust derives from time to time, or of the capital of the trust, the beneficiary has a fixed entitlement to that share of the income or capital.
-
-The term 'vested and indefeasible' is not defined in the taxation legislation. However, the ordinary meaning of the term is provided by the general law, which is reflected in paragraphs 13.3 to 13.9 of the Explanatory Memorandum to the Taxation Laws Amendment (Trust Loss and Other Deductions) Bill 1997.
+A 'fixed trust' is defined in section 272-65 of Schedule 2F to the ITAA 1936. That definition provides that: A trust is a fixed trust if persons have fixed entitlements to all of the income and capital of the trust. Subsection 272-5(1) of Schedule 2F to the ITAA 1936 defines a fixed entitlement in a trust: If, under a trust instrument, a beneficiary has a vested and indefeasible interest in a share of income of the trust that the trust derives from time to time, or of the capital of the trust, the beneficiary has a fixed entitlement to that share of the income or capital. The term 'vested and indefeasible' is not defined in the taxation legislation. However, the ordinary meaning of the term is provided by the general law, which is reflected in paragraphs 13.3 to 13.9 of the Explanatory Memorandum to the Taxation Laws Amendment (Trust Loss and Other Deductions) Bill 1997.
 The residuary beneficiaries have a vested interest in the income and capital of the estate. They each have a present right to future enjoyment of their equal share of the income and capital.
 The interest of the residuary beneficiaries in the income and capital of the estate is indefeasible. There is no condition in the trust instrument, the Will, by which any of the residuary beneficiaries could lose their interest in the estate.
 The individual to whom the bequest was made has no other interest in the estate, as their bequest has been satisfied. This bequest does not affect the determination of whether the trust constituted by the estate is a fixed trust. The interests of the residuary beneficiaries are the only interests that are relevant.
 As all of the residuary beneficiaries have a vested and indefeasible interest in a share of the income and capital of the estate, they all have a fixed entitlement to a share of the income and capital of the estate, in accordance with subsection 272-5(1) of Schedule 2F to the ITAA 1936.
 Therefore, as persons have fixed entitlements to all of the income and capital of the estate, the trust constituted by the estate is a fixed trust under section 272-65 of Schedule 2F to the ITAA 1936.
-Date of decision:
-  26 September 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2F   subsection 272-5(1)   section 272-65
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2622
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment (Trust Loss and Other Deductions) Bill 1997
-
-Keywords
-
-Deceased estates
- Fixed entitlements
- Fixed trusts
- Trust losses
- Indefeasible right to use
-
-Siebel/TDMS Reference Number:
-  5274964; 1-5T1HV9X;1-CIARCFC
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  13 October 2006
-
-Date reviewed:
-  15 November 2017
-
-ISSN:
- 1445-2782
+Date of decision: 26 September 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 Schedule 2F subsection 272-5(1) section 272-65 Related Public Rulings (including Determinations) Taxation Ruling IT 2622 Other References: Explanatory Memorandum to the Taxation Laws Amendment (Trust Loss and Other Deductions) Bill 1997 Keywords Deceased estates Fixed entitlements Fixed trusts Trust losses Indefeasible right to use Siebel/TDMS Reference Number: 5274964; 1-5T1HV9X;1-CIARCFC Business Line: Private Groups and High Wealth Individuals Date of publication: 13 October 2006 Date reviewed: 15 November 2017 ISSN: 1445-2782

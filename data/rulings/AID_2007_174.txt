@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2007/174
-==================================================
-
-Income Tax
- Employee Share Options: taxing rights on gain from sale of shares by an Australian resident taxpayer where the options to purchase those shares were granted to the taxpayer when they were working in the United States of America
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Employee Share Options: taxing rights on gain from sale of shares by an Australian resident taxpayer where the options to purchase those shares were granted to the taxpayer when they were working in the United States of America FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a resident individual taxpayer include a capital gain made on the sale of shares acquired under an employee share scheme in their net capital gain or loss, where the option to purchase the shares was granted to the taxpayer when they were a resident of the United States of America (US) and the US has correctly taxed the entire gain on exercise of the option in accordance with Article 15 of the tax treaty between Australia and the US (US Convention) contained in Schedule 2 to the International Tax Agreements Act 1953 (Agreements Act)?
 Decision
 Yes. A resident taxpayer does include a capital gain from the sale of the shares acquired under an employee share scheme in their net capital gain or loss, even though the US has source country taxing rights under Article 15 of the US Convention in respect of the gain made on the exercise of employee share options.
@@ -36,58 +23,8 @@ In determining liability to Australian tax, it is necessary to consider not only
 Article 15 of the US Convention provides that remuneration derived by a resident of one of the Contracting States in respect of employment exercised in the other State may be taxed in that other State. It is accepted that the employment that gives rise to the gain on the employee share option is entirely carried out in the US and, accordingly, the US has correctly taxed such gain under Article 15.
 However, the Article does not prevent the country of residence of the taxpayer from also taxing the gain. That much is clear from the words of the Article which prima facie only permits the country of residence of the taxpayer to tax the remuneration, unless the employment is exercised in the other country, in which case the remuneration may be taxed by that other country. The words 'may be taxed' in this context do not mean that the other country is the only one entitled to tax that income. Under international tax law principles, the residence country (in this case Australia) may also continue to tax such remuneration (see paragraph 23 of Taxation Ruling TR 2001/13). However, double taxation is avoided by the residence country providing appropriate credit relief.
 Accordingly, there is nothing in Article 15 or any part of the US Convention that prevents Australia from taxing the gain on the disposal of the shares acquired under the employee share scheme in accordance with its normal domestic tax law provisions.
-Consequently, the entire capital gain made on the sale of the shares is taken into account in calculating the taxpayer's net capital gain or loss.
-
-Note 1: The CGT event A1 happened before the time the provisions relating to employee shares and change of residence of employees in New International Tax Arrangements (Foreign-owned Branches and Other Measures) Act 2005 (No 64 of 2005) became applicable. However, if that CGT event had happened after the time that those provisions became applicable, the entire capital gain would still be taken into account in calculating the taxpayer's net capital gain or loss.
-
-Date of decision:
-  28 August 2007
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 13A   section 23AG   subsection 23AG(7)
-Income Tax Assessment Act 1997   subsection 104-10(1)   subsection 104-10(4)   subsection 104-25(1)   section 118-20   subsection 134-1(1)   subsection 134-1(4)
-International Tax Agreements Act 1953   section 4   Schedule 2, Article 15
-New International Tax Arrangements (Foreign-owned Branches and Other Measures) Act 2005   The Act
-Tax Laws Amendment (2006 Measures No 1) Act 2006   The Act
-
-Case References:
-
-Donaldson v. FC of T   74 ATC 4192   (1974) 4 ATR 530
-
-FC of T v. McArdle   89 ATC 4051   (1988) 19 ATR 1901
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/13
-
-Related ATO Interpretative Decisions
-
- ATO ID 2007/173
-
-Keywords
-
-Double tax agreements
- Employee share schemes & options
- United States
- Capital gains tax
- Capital gains
- Capital receipts
- CGT capital proceeds
- CGT event A1 - disposal of a CGT asset
- CGT events C1-C3 - end of a CGT asset
-
-Siebel/TDMS Reference Number:
-  4076560
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 September 2007
-
-ISSN:
- 1445-2782
+Consequently, the entire capital gain made on the sale of the shares is taken into account in calculating the taxpayer's net capital gain or loss. Note 1: The CGT event A1 happened before the time the provisions relating to employee shares and change of residence of employees in New International Tax Arrangements (Foreign-owned Branches and Other Measures) Act 2005 (No 64 of 2005) became applicable. However, if that CGT event had happened after the time that those provisions became applicable, the entire capital gain would still be taken into account in calculating the taxpayer's net capital gain or loss. Date of decision: 28 August 2007 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1936 Division 13A section 23AG subsection 23AG(7)
+Income Tax Assessment Act 1997 subsection 104-10(1) subsection 104-10(4) subsection 104-25(1) section 118-20 subsection 134-1(1) subsection 134-1(4)
+International Tax Agreements Act 1953 section 4 Schedule 2, Article 15
+New International Tax Arrangements (Foreign-owned Branches and Other Measures) Act 2005 The Act
+Tax Laws Amendment (2006 Measures No 1) Act 2006 The Act Case References: Donaldson v. FC of T 74 ATC 4192 (1974) 4 ATR 530 FC of T v. McArdle 89 ATC 4051 (1988) 19 ATR 1901 Related Public Rulings (including Determinations) Taxation Ruling TR 2001/13 Related ATO Interpretative Decisions ATO ID 2007/173 Keywords Double tax agreements Employee share schemes & options United States Capital gains tax Capital gains Capital receipts CGT capital proceeds CGT event A1 - disposal of a CGT asset CGT events C1-C3 - end of a CGT asset Siebel/TDMS Reference Number: 4076560 Business Line: Public Groups and International Date of publication: 7 September 2007 ISSN: 1445-2782

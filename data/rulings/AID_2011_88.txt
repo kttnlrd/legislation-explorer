@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/88
-==================================================
-
-Income Tax
- Functional currency choice: meaning of sole or predominant currency in which you keep your 'accounts'
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Functional currency choice: meaning of sole or predominant currency in which you keep your 'accounts' FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can Austco-1, as head company of a tax consolidated group choose the United States Dollars (USD) as its 'applicable functional currency' under Subdivision 960-D of the Income Tax Assessment Act 1997 (ITAA 1997) when more than 50% of the 'accounts' of all the members of the tax consolidated group are kept in Australian Dollars AUD but the 'accounts' kept in USD account for a majority of the net profit made by the Austco tax consolidated group?
 Decision
 No. Austco-1, as head company of a tax consolidated group cannot choose the USD as its 'applicable functional currency' under Subdivision 960-D of the ITAA 1997 when more than 50% of the 'accounts' of all the members of the tax consolidated group are kept in AUD but the 'accounts' kept in USD account for a majority of the net profit made by the Austco tax consolidated group.
@@ -30,110 +19,21 @@ However, the accounts kept in USD account for the largest transactions in moneta
 Reasons for Decision
 Under item 1 of the table in subsection 960-60(1) of the ITAA 1997, an Australian resident who is required to prepare financial reports under section 292 of the Corporations Act 2001 may choose to use the 'applicable functional currency'.
 For an Australian resident making a choice under item 1 of the table in subsection 960-60(1) of the ITAA 1997, the 'applicable functional currency' is defined in subsection 960-70(1) of the ITAA 1997 to be the sole or predominant foreign currency in which they kept their 'accounts' at the time they made the choice.
-Subsection 960-70(4) of the ITAA 1997 defines 'accounts' to mean:
-
-(a)ledgers; and
+Subsection 960-70(4) of the ITAA 1997 defines 'accounts' to mean: (a)ledgers; and
 (b)journals; and
 (c)statements of financial performance; and
 (d)profit and loss accounts; and
 (e)balance-sheets; and
-(f)statements of financial position
-
-and includes statements, reports and notes attached to, or intended to be read with, any of the foregoing.
-
-Paragraph 3.54 of the Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003 (EM) notes that:
-
-What is the applicable functional currency?
-
-3.54 The applicable functional currency will depend on the factual circumstances surrounding the entity's operations. Broadly, an entity's applicable functional currency is the sole or predominant currency in which its accounts are kept at the time when the choice was made ... This aligns the commercial rationale for accounting in a foreign currency with the use of that currency for income tax purposes.
-
-The EM goes on to state at 3.59 that:
-
-What are accounts?
-
-3.59 For all entities, the term 'accounts' denotes ledgers, journals, statements of financial performance, profit and loss accounts, balance sheets and statements of financial position and includes statements, reports and notes attached to, or intended to be read, with such items ... These terms are intended to be interpreted broadly and in light of their ordinary commercial connotations.
-
-Taxation Determination TD 2006/4 notes at paragraphs 10-13 that:
-
-10. The test of whether or not a particular foreign currency is the predominant one in which an entity keeps its 'accounts' (as defined), is a quantitative one, as it involves an examination of those 'accounts' in terms of the unit of measurement used (see, for example, FC of T v. FH Faulding & Co Ltd (1950) 83 CLR 594)'.
-
-11. In this respect, no one component of those defined as making up these 'accounts' takes on any greater or lesser weight in reaching this conclusion, which is essentially one of fact and degree. For example, if an entity kept a dual ledger system and two sets of journals (that is in both a foreign currency and Australian currency), while its management accounts were kept in a foreign currency - we would accept that, on a quantitative basis, the entity kept its 'accounts' predominantly in a foreign currency.
-
-12. This accords broadly with the meaning given in the Explanatory Memorandum to the Taxation Laws Amendment (Foreign Income) Bill 1990 (EM), to the phrase contained in former subsection 391(2) of Part X of the ITAA 1936, 'a single or predominant currency in which eligible amounts ... are expressed in the accounts ... .' ... The definition of 'accounts' in section 317 of Part X of the ITAA 1936, that applied for this purpose, closely resembles the definition of this term in subsection 960-70(4).
-
-13. At page 297 of the EM it was stated:
-
-Whether or not there is a predominant foreign currency is not to be determined by the volume or size of the transactions. Rather, the test will turn on whether or not there is a particular foreign currency used for the basic record keeping of the CFC.
-
-The commercial rationale mentioned in paragraph 3.54 of the EM is contained in Accounting Standard AASB 121 'The Effects of Changes in Foreign Exchange Rates' (AASB 121). Broadly, AASB 121 requires an entity to keep its accounts in the currency of the primary economic environment in which that entity operates.
+(f)statements of financial position and includes statements, reports and notes attached to, or intended to be read with, any of the foregoing. Paragraph 3.54 of the Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003 (EM) notes that: What is the applicable functional currency? 3.54 The applicable functional currency will depend on the factual circumstances surrounding the entity's operations. Broadly, an entity's applicable functional currency is the sole or predominant currency in which its accounts are kept at the time when the choice was made ... This aligns the commercial rationale for accounting in a foreign currency with the use of that currency for income tax purposes. The EM goes on to state at 3.59 that: What are accounts? 3.59 For all entities, the term 'accounts' denotes ledgers, journals, statements of financial performance, profit and loss accounts, balance sheets and statements of financial position and includes statements, reports and notes attached to, or intended to be read, with such items ... These terms are intended to be interpreted broadly and in light of their ordinary commercial connotations. Taxation Determination TD 2006/4 notes at paragraphs 10-13 that: 10. The test of whether or not a particular foreign currency is the predominant one in which an entity keeps its 'accounts' (as defined), is a quantitative one, as it involves an examination of those 'accounts' in terms of the unit of measurement used (see, for example, FC of T v. FH Faulding & Co Ltd (1950) 83 CLR 594)'. 11. In this respect, no one component of those defined as making up these 'accounts' takes on any greater or lesser weight in reaching this conclusion, which is essentially one of fact and degree. For example, if an entity kept a dual ledger system and two sets of journals (that is in both a foreign currency and Australian currency), while its management accounts were kept in a foreign currency - we would accept that, on a quantitative basis, the entity kept its 'accounts' predominantly in a foreign currency. 12. This accords broadly with the meaning given in the Explanatory Memorandum to the Taxation Laws Amendment (Foreign Income) Bill 1990 (EM), to the phrase contained in former subsection 391(2) of Part X of the ITAA 1936, 'a single or predominant currency in which eligible amounts ... are expressed in the accounts ... .' ... The definition of 'accounts' in section 317 of Part X of the ITAA 1936, that applied for this purpose, closely resembles the definition of this term in subsection 960-70(4). 13. At page 297 of the EM it was stated: Whether or not there is a predominant foreign currency is not to be determined by the volume or size of the transactions. Rather, the test will turn on whether or not there is a particular foreign currency used for the basic record keeping of the CFC. The commercial rationale mentioned in paragraph 3.54 of the EM is contained in Accounting Standard AASB 121 'The Effects of Changes in Foreign Exchange Rates' (AASB 121). Broadly, AASB 121 requires an entity to keep its accounts in the currency of the primary economic environment in which that entity operates.
 However, AASB 121 also requires (at paragraph 17) that each individual entity determines its own functional currency in accordance with paragraphs 9 to 14 of AASB 121. Further, paragraph 38 of AASB 121 provides that when a group contains individual entities with different functional currencies, the results and financial position of each entity should be expressed in a common presentation currency.
 Accordingly, individual entities within a consolidated group for accounting purposes may be required under Australian law to keep their accounts in different accounting functional currencies in accordance with AASB 121.
-It can be seen that the determination of the functional currency for accounting purposes and the 'applicable functional currency' for income tax purposes, particularly in the context of a tax consolidated group, depends upon different considerations. In this regard Taxation Determination TD 2007/24 provides that:
-
-1. ... For the purposes of item 1 of subsection 960-60(1) of the Income Tax Assessment Act 1997 (ITAA 1997), the 'applicable functional currency' for the head company of a consolidated group is determined by looking at the 'accounts' of all the members of the consolidated group - and not just at the 'accounts' of the head company.
-
-2. Whether there is such a currency under this view will depend on whether there is one particular foreign currency that is the currency predominantly used for the basic record keeping of the consolidated group. ...
-
-6. The single entity rule in section 701-1 provides that if an entity is a subsidiary member of a consolidated group for any period, it and any other subsidiary member of the group are taken for 'head company core purposes' and 'entity core purposes' to be part of the head company, rather than separate entities for that period. The intended operation of the single entity rule is to apply the income tax laws for these purposes to a consolidated group, as if it was a single entity being the head company.
-
-7. Calculation of the head company's liability for income tax, where this involves an application of item 1 of subsection 960-60(1), will come within the meaning of 'head company core purposes' for the purposes of section 701-1. The single entity rule in this context, will therefore affect the meaning of 'applicable functional currency' in subsection 960-70(1).
-
-It is clear from TD 2006/4 that it is the quantity of 'accounts' kept in a particular currency that is determinative in ascertaining the sole or predominant currency in which an entity keeps its 'accounts' for the purposes of subsection 960-70(1) of the ITAA 1997.
-It is equally clear from TD 2007/24 that the 'applicable functional currency' of the head company of a tax consolidated group, for the purposes of item 1 of subsection 960-60(1) and subsection 960-70(1) of the ITAA 1997, is determined by the quantity of 'accounts' kept in a particular currency across the entire tax consolidated group.
-
-Conclusion
-
-In accordance with the requirements of AASB 121, Austco-1 keeps its accounts in USD and Austco-2 keeps its accounts in AUD. Therefore, as the entities which make up the MEC group keep their accounts in different currencies, there is no 'sole' currency in which the MEC group keeps its 'accounts' for the purposes of subsection 960-70(1) of the ITAA 1997.
+It can be seen that the determination of the functional currency for accounting purposes and the 'applicable functional currency' for income tax purposes, particularly in the context of a tax consolidated group, depends upon different considerations. In this regard Taxation Determination TD 2007/24 provides that: 1. ... For the purposes of item 1 of subsection 960-60(1) of the Income Tax Assessment Act 1997 (ITAA 1997), the 'applicable functional currency' for the head company of a consolidated group is determined by looking at the 'accounts' of all the members of the consolidated group - and not just at the 'accounts' of the head company. 2. Whether there is such a currency under this view will depend on whether there is one particular foreign currency that is the currency predominantly used for the basic record keeping of the consolidated group. ... 6. The single entity rule in section 701-1 provides that if an entity is a subsidiary member of a consolidated group for any period, it and any other subsidiary member of the group are taken for 'head company core purposes' and 'entity core purposes' to be part of the head company, rather than separate entities for that period. The intended operation of the single entity rule is to apply the income tax laws for these purposes to a consolidated group, as if it was a single entity being the head company. 7. Calculation of the head company's liability for income tax, where this involves an application of item 1 of subsection 960-60(1), will come within the meaning of 'head company core purposes' for the purposes of section 701-1. The single entity rule in this context, will therefore affect the meaning of 'applicable functional currency' in subsection 960-70(1). It is clear from TD 2006/4 that it is the quantity of 'accounts' kept in a particular currency that is determinative in ascertaining the sole or predominant currency in which an entity keeps its 'accounts' for the purposes of subsection 960-70(1) of the ITAA 1997.
+It is equally clear from TD 2007/24 that the 'applicable functional currency' of the head company of a tax consolidated group, for the purposes of item 1 of subsection 960-60(1) and subsection 960-70(1) of the ITAA 1997, is determined by the quantity of 'accounts' kept in a particular currency across the entire tax consolidated group. Conclusion In accordance with the requirements of AASB 121, Austco-1 keeps its accounts in USD and Austco-2 keeps its accounts in AUD. Therefore, as the entities which make up the MEC group keep their accounts in different currencies, there is no 'sole' currency in which the MEC group keeps its 'accounts' for the purposes of subsection 960-70(1) of the ITAA 1997.
 Accordingly we must then determine the 'predominant' currency in which the tax consolidated group keeps its 'accounts', by examining the quantity of 'accounts' kept by the tax consolidated group in each 'currency'.
 When examined as a whole, 60% of the tax consolidated group's 'accounts' are kept in AUD, with the remaining 40% being kept in USD.
 Therefore, the AUD is the predominant currency in which the 'accounts' of Austco-1 as head company of the Austco tax consolidated group are kept for the purposes of subsection 960-70(1) of the ITAA 1997.
 As the predominant currency in which Austco-1 as head company of the Austco tax consolidated group keeps its 'accounts' is AUD, Austco-1 is unable to choose to use the USD as its 'applicable functional currency' under subsection 960-60(1) of the ITAA 1997.
 Accordingly, for income tax purposes (i.e. in the calculation of its taxable income or tax loss), Austco-1 as head company of the Austco tax consolidated group must translate all foreign currency denominated amounts to (and record all entries in) AUD. This includes assessable income that it is taken to have derived and allowable deductions it is taken to have incurred because of the operation of the single entity rule in section 701-1 of Part 3-90 of the ITAA 1997.
-Date of decision:
-  22 September 2011
-
-Year of income:
-  30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 701-1   subdivision 960-D   subsection 960-60(1)   subsection 960-60(1) Item 1   subsection 960-70(1)   subsection 960-70(4)
-Income Tax Assessment Act 1936   section 317   subsection 391(2) (repealed as of 1 July 2003)
- Corporations Act 2001   section 292
-
-Case References:
-
-FC of T v. FH Faulding & Co Ltd   (1950) 83 CLR 594
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2006/4
-Taxation Determination TD 2007/24
-
-Other References:
-
-Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates
- Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003
- Explanatory Memorandum to the Taxation Laws Amendment (Foreign Income) Bill 1990
-
-Keywords
-
-Accounts
- Applicable functional currency
- Consolidated group
- Functional currency
- Functional currency choice
- Multiple entry consolidated group
- Sole or predominant currency
-
-Siebel/TDMS Reference Number:
-  1-2XFVUTK
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 October 2011
-
-ISSN:
- 1445-2782
+Date of decision: 22 September 2011 Year of income: 30 June 2012 Legislative References: Income Tax Assessment Act 1997 section 701-1 subdivision 960-D subsection 960-60(1) subsection 960-60(1) Item 1 subsection 960-70(1) subsection 960-70(4)
+Income Tax Assessment Act 1936 section 317 subsection 391(2) (repealed as of 1 July 2003) Corporations Act 2001 section 292 Case References: FC of T v. FH Faulding & Co Ltd (1950) 83 CLR 594 Related Public Rulings (including Determinations) Taxation Determination TD 2006/4
+Taxation Determination TD 2007/24 Other References: Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003 Explanatory Memorandum to the Taxation Laws Amendment (Foreign Income) Bill 1990 Keywords Accounts Applicable functional currency Consolidated group Functional currency Functional currency choice Multiple entry consolidated group Sole or predominant currency Siebel/TDMS Reference Number: 1-2XFVUTK Business Line: Public Groups and International Date of publication: 28 October 2011 ISSN: 1445-2782

@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2003/183
-==================================================
-
-Income Tax
- Assessability of remuneration earned by a non-resident from employment aboard an aircraft operated in international traffic by an Australian airline
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of remuneration earned by a non-resident from employment aboard an aircraft operated in international traffic by an Australian airline FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is income earned by a resident of Singapore from employment aboard an aircraft operated by an Australian airline in international traffic, assessable under subsection 6-5(3) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The non-resident taxpayer's income from employment aboard an aircraft operated in international traffic by an Australian resident, would not be assessable under subsection 6-5(3) of the ITAA 1997.
@@ -25,47 +12,12 @@ The taxpayer earned income from employment as an airline steward exercised aboar
 Reasons for Decision
 Subsection 6-5(3) of the ITAA 1997 provides that the assessable income of a foreign resident taxpayer includes ordinary income derived directly or indirectly from all Australian sources during the income year and other ordinary income that a provision includes as assessable income on some basis other than having an Australian source. Subsection 995-1(1) of the ITAA 1997 defines foreign resident to mean a person who is not a resident of Australia for the purposes of the Income Tax Assessment Act 1936 (ITAA 1936).
 Salary and wages are ordinary income under subsection 6-5(3) of the ITAA 1997.
-The source of remuneration for services rendered will depend on the facts of each case. However, the source is generally the place where those services are performed: see Federal Commissioner of Taxation v. French (1957) 98 CLR 398; (1957) 11 ATD 288; (1957) 7 AITR 76 where Williams J stated at CLR 414; ATD 296; AITR 85 that:
-
-the locality of the source of income derived from personal exertion in the capacity of employee or in relation to any services rendered surely must be where such personal exertion took place, and the locality of the source of the proceeds of any business where the activities of the business are carried on.
-
-It is considered that the salary and wages received by the taxpayer do not have an Australian source as services are performed primarily in international traffic.
+The source of remuneration for services rendered will depend on the facts of each case. However, the source is generally the place where those services are performed: see Federal Commissioner of Taxation v. French (1957) 98 CLR 398; (1957) 11 ATD 288; (1957) 7 AITR 76 where Williams J stated at CLR 414; ATD 296; AITR 85 that: the locality of the source of income derived from personal exertion in the capacity of employee or in relation to any services rendered surely must be where such personal exertion took place, and the locality of the source of the proceeds of any business where the activities of the business are carried on. It is considered that the salary and wages received by the taxpayer do not have an Australian source as services are performed primarily in international traffic.
 In determining liability to tax on Australian sourced income received by a non-resident taxpayer, it is necessary to consider not only the income tax laws but also any applicable double tax agreement contained in the International Tax Agreements Act 1953 (Agreements Act).
 Section 4 of the Agreements Act incorporates that Act with the ITAA 1997 so that those Acts are read as one. The Agreements Act effectively overrides the ITAA 1997 where there are inconsistent provisions (except for some limited provisions).
 Schedule 5 to the Agreements Act contains the double tax agreement between Australia and the Republic of Singapore (the Singapore Agreement). The Singapore Agreement operates to avoid the double taxation of income received by Australian and Singaporean residents.
 Paragraph (1) of Article 11 of the Singapore Agreement provides that remuneration or other income derived in respect of personal services performed or exercised by a resident of Singapore shall be taxable only in Singapore, unless the services are performed or exercised in Australia. If the services are performed or exercised in Australia then the income shall be deemed to have a source in Australia, and may be taxed in Australia.
 However paragraph (3) of Article 11 of the Singapore Agreement provides that remuneration from employment exercised on ships or aircraft in international traffic received by a resident of Singapore shall be exempt from tax in Australia.
 As the taxpayer is a resident of Singapore, paragraph (3) of Article 11 of the Singapore Agreement applies and the remuneration earned by the taxpayer from employment aboard an aircraft operated by an Australian airline in international traffic is exempt from tax in Australia.
-Accordingly, the Agreement does not change the source of the remuneration and it is not assessable under subsection 6-5(3) of the ITAA 1997.
-
-[HISTORY: This ATO ID was amended on 7 March 2006. Additional wording has been added to improve clarity.]
-
-Date of decision:
-  3 March 2003
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act (ITAA 1997)   subsection 6-5(3)
-International Tax Agreements Act 1953   section 4   Schedule 5   Schedule 5, Article 11, paragraph (3)
-
-Keywords
-
-Non-resident Individuals
- Double Tax Agreements
- Singapore
- Salary and wages income
-
-Siebel/TDMS Reference Number:
-  3186916
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 March 2003
-
-ISSN:
- 1445-2782
+Accordingly, the Agreement does not change the source of the remuneration and it is not assessable under subsection 6-5(3) of the ITAA 1997. [HISTORY: This ATO ID was amended on 7 March 2006. Additional wording has been added to improve clarity.] Date of decision: 3 March 2003 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act (ITAA 1997) subsection 6-5(3)
+International Tax Agreements Act 1953 section 4 Schedule 5 Schedule 5, Article 11, paragraph (3) Keywords Non-resident Individuals Double Tax Agreements Singapore Salary and wages income Siebel/TDMS Reference Number: 3186916 Business Line: Public Groups and International Date of publication: 28 March 2003 ISSN: 1445-2782

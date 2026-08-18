@@ -1,98 +1,24 @@
 ATO Interpretative Decision
 ATO ID 2004/212
-==================================================
-
-Income Tax
- Retention of records for low-value assets
- FOI status: may be released
-
-This ATO ID is superseded by the Guide to depreciating assets for 2006
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Retention of records for low-value assets FOI status: may be released This ATO ID is superseded by the Guide to depreciating assets for 2006 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is it sufficient, for the purposes of paragraph 262A(4)(a) of the Income Tax Assessment Act 1936 (ITAA 1936), for records relating to assets allocated to a low-value pool, to be retained for a period of five years, commencing from the end of the income year in which the asset is allocated to the pool?
 Decision
-Yes. For the purposes of paragraph 262A(4)(a) of the ITAA 1936 it will be sufficient for records relating to assets allocated to a low-value pool to be retained for a period of five years commencing from the end of the income year in which the asset is allocated to the pool, subject to the following qualifications:
-
-•Section 70 of the Taxation Administration Act 1953 (TAA 1953) relating to the administration of Goods and Services Tax (GST) legislation provides that records of acquisitions relating to delayed claims for input tax credits must be retained for at least five years after the lodgement of the GST return making the delayed claim. If the claim for input tax credit relates to a depreciating asset, then the record of acquisition may need to be maintained for a five year period which commences later than the end of the income year in which the asset is allocated to the pool.
-•If second element costs (as defined section 40-190 Income Tax Assessment Act 1997 (ITAA 1997)) are incurred after the asset is allocated to the pool, then those second element cost records will need to be maintained for five years from the time the expenditure is incurred.
-
-Facts
+Yes. For the purposes of paragraph 262A(4)(a) of the ITAA 1936 it will be sufficient for records relating to assets allocated to a low-value pool to be retained for a period of five years commencing from the end of the income year in which the asset is allocated to the pool, subject to the following qualifications: •Section 70 of the Taxation Administration Act 1953 (TAA 1953) relating to the administration of Goods and Services Tax (GST) legislation provides that records of acquisitions relating to delayed claims for input tax credits must be retained for at least five years after the lodgement of the GST return making the delayed claim. If the claim for input tax credit relates to a depreciating asset, then the record of acquisition may need to be maintained for a five year period which commences later than the end of the income year in which the asset is allocated to the pool.
+•If second element costs (as defined section 40-190 Income Tax Assessment Act 1997 (ITAA 1997)) are incurred after the asset is allocated to the pool, then those second element cost records will need to be maintained for five years from the time the expenditure is incurred. Facts
 The taxpayer is involved in an industry which is subject to rapid changes in technology and innovation. Consequently, many depreciating assets used by the taxpayer to derive income have short effective lives and are subject to high depreciation rates. As a result of this the taxpayer has numerous low-value (i.e. those assets with an adjustable value of less than $1,000) that are allocated to a 'low-value pool'.
 Subdivision 40-E of the ITAA 1997 provides a write-off of the capital cost of the low-value assets in the low-value pool under the diminishing value method. In the absence of a balancing adjustment event and an offset against the closing pool balance, it is possible that the adjustable value of the pool may be depreciated indefinitely.
 Reasons for Decision
-Subdivision 40-E of Part 2-10 of the ITAA 1997 permits taxpayers to pool low-cost assets (assets acquired for a cost less than $1,000, subsection 40-425(2) ITAA 1997) and low-value assets (depreciating assets with an opening balance of less than $1,000) in a low-value pool. An asset with a cost of $300 or less cannot be allocated to a low-value pool if the $300 immediate deduction is available for the asset (subsection 40-425(4) ITAA 1997). These pooled assets can be depreciated on a diminishing value basis at the rate of 37.5% per annum (or 18.75% in the year the asset is added to the low-value pool). When a taxpayer disposes of a pooled asset, a balancing adjustment is made to the closing low-value pool balance. Where the termination value (for example, sales proceeds) of a pooled asset is less than the closing pool balance, the remaining pool balance amount continues to be depreciated on a diminishing value basis that may continue indefinitely.
-
-History note
-
-The first paragraph of "Reasons for Decision was replaced on 16 March 2004. The original paragraph follows.
-
-Subdivision 40-E of Part 2-10 of the ITAA 1997 permits taxpayers to pool low-cost assets (assets acquired for more than $300 and less than $1,000) and low-value assets (depreciating assets with an opening balance of less than $1,000) in a low-value pool. These pooled assets can be depreciated on a diminishing value basis at the rate of 37.5% per annum (or 18.75% in the year the asset is added to the low-value pool). When a taxpayer disposes of a pooled asset, a balancing adjustment is made to the closing low-value pool balance. Where the termination value (for example, sales proceeds) of a pooled asset is less than the closing pool balance, the remaining pool balance amount continues to be depreciated on a diminishing value basis that may continue indefinitely.
-
-One of the reasons for introducing the low-value pool concept was to lower the cost of compliance in relation to eligible low-value assets of taxpayers, as stated in the Review of Business Taxation report A Tax System Redesigned (July 1999, pp 316 - 317). However, keeping records for an indefinite period increases administrative costs and adds to the cost of compliance.
+Subdivision 40-E of Part 2-10 of the ITAA 1997 permits taxpayers to pool low-cost assets (assets acquired for a cost less than $1,000, subsection 40-425(2) ITAA 1997) and low-value assets (depreciating assets with an opening balance of less than $1,000) in a low-value pool. An asset with a cost of $300 or less cannot be allocated to a low-value pool if the $300 immediate deduction is available for the asset (subsection 40-425(4) ITAA 1997). These pooled assets can be depreciated on a diminishing value basis at the rate of 37.5% per annum (or 18.75% in the year the asset is added to the low-value pool). When a taxpayer disposes of a pooled asset, a balancing adjustment is made to the closing low-value pool balance. Where the termination value (for example, sales proceeds) of a pooled asset is less than the closing pool balance, the remaining pool balance amount continues to be depreciated on a diminishing value basis that may continue indefinitely. History note The first paragraph of "Reasons for Decision was replaced on 16 March 2004. The original paragraph follows. Subdivision 40-E of Part 2-10 of the ITAA 1997 permits taxpayers to pool low-cost assets (assets acquired for more than $300 and less than $1,000) and low-value assets (depreciating assets with an opening balance of less than $1,000) in a low-value pool. These pooled assets can be depreciated on a diminishing value basis at the rate of 37.5% per annum (or 18.75% in the year the asset is added to the low-value pool). When a taxpayer disposes of a pooled asset, a balancing adjustment is made to the closing low-value pool balance. Where the termination value (for example, sales proceeds) of a pooled asset is less than the closing pool balance, the remaining pool balance amount continues to be depreciated on a diminishing value basis that may continue indefinitely. One of the reasons for introducing the low-value pool concept was to lower the cost of compliance in relation to eligible low-value assets of taxpayers, as stated in the Review of Business Taxation report A Tax System Redesigned (July 1999, pp 316 - 317). However, keeping records for an indefinite period increases administrative costs and adds to the cost of compliance.
 Paragraph 262A(4)(a) ITAA 1936 requires taxpayers to keep records until the end of five years after those records were prepared or obtained, or the completion of the transactions or acts to which those records relate, whichever is the later.
 In the context of low-value pools, the expression 'the completion of the transactions or acts to which those records relate' requires clarification. The legislation and the relevant explanatory memoranda do not provide guidance as to the meaning of the expression and in accordance with the principles of statutory interpretation, the words need to be interpreted in the context in which they appear. Having regard to the purpose of the provision (that is, to enable assessable income and allowable deductions to be readily ascertained - see Explanatory Note, clause 26 Income Tax Assessment Bill 1943) the preferred view is that there needs to be more than just a tenuous relationship between the record and the transaction or act. That type of relationship will exist where the transaction or act has the potential to affect assessable income or allowable deductions and where the record of acquisition is needed to verify the claim (see sections 262A(1) and 262A(1D) of the ITAA 1936). It should also be borne in mind that it is the record, not the asset itself, to which the connection must be drawn.
 An important distinguishing factor between low value pool assets and the other assets subject to the capital allowance rules is the treatment of proceeds received on the occurrence of a balancing adjustment event.
 For 'normal' depreciating assets the taxpayer must compare the termination value to the adjustable value of the relevant asset. Where the termination value exceeds the adjustable value, the excess will be included in assessable income. Where the termination value is less than the adjustable value the shortfall will be an allowable deduction. From a practical point of view, the verification of the adjustable value of an asset will normally require account to be taken of its original cost and deductions claimed under Division 40 of the ITAA 1997.
 A balancing adjustment event affecting a pooled asset, on the other hand, will result in the reduction to the value of the pool by the amount of the termination value. In other words, there is no adjustable value of an asset in a low value pool, so there is no need to verify that value.
-In this context, it is considered sufficient for records relating to low-cost assets and low-value assets allocated to a low-value pool to be retained for five years commencing from the end of the income year in which the asset is allocated to the pool subject to the following qualifications:
-
-•Section 70 of the TAA 1953 relating to the administration of GST legislation provides that records of acquisitions relating to delayed claims for input tax credits must be retained for at least five years after the lodgement of the GST return making the delayed claim. If the claim for input tax credit relates to a depreciating asset, then the record of acquisition may need to be maintained for a five year period which commences later than the end of the income year in which the asset is allocated to the pool.
-•If second element costs (section 40-190 ITAA 1997) are incurred after the asset is allocated to the pool then those second element cost records will need to be maintained for five years from the time the expenditure is incurred.
-
-Date of decision:
-  3 February 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 262A
-Income Tax Assessment Act 1997   section 40-425   section 40-430   section 40-440   section 40-445   section 40-190
-Taxation Administration Act 1953   section 70
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 96/7
-
-Keywords
-
-Accounting records
- Decline in value
- Deduction for depreciating assets
- Documentation & records
- Low value pool
- Uniform capital allowances system
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 March 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 3 February 2004
-Original statement
-
-You are here
+In this context, it is considered sufficient for records relating to low-cost assets and low-value assets allocated to a low-value pool to be retained for five years commencing from the end of the income year in which the asset is allocated to the pool subject to the following qualifications: •Section 70 of the TAA 1953 relating to the administration of GST legislation provides that records of acquisitions relating to delayed claims for input tax credits must be retained for at least five years after the lodgement of the GST return making the delayed claim. If the claim for input tax credit relates to a depreciating asset, then the record of acquisition may need to be maintained for a five year period which commences later than the end of the income year in which the asset is allocated to the pool.
+•If second element costs (section 40-190 ITAA 1997) are incurred after the asset is allocated to the pool then those second element cost records will need to be maintained for five years from the time the expenditure is incurred. Date of decision: 3 February 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 262A
+Income Tax Assessment Act 1997 section 40-425 section 40-430 section 40-440 section 40-445 section 40-190
+Taxation Administration Act 1953 section 70 Related Public Rulings (including Determinations) Taxation Ruling TR 96/7 Keywords Accounting records Decline in value Deduction for depreciating assets Documentation & records Low value pool Uniform capital allowances system Business Line: Public Groups and International Date of publication: 5 March 2004 ISSN: 1445-2782 history Date: Version: 3 February 2004
+Original statement You are here
 21 July 2006
 Archived

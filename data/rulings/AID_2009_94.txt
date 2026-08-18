@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/94
-==================================================
-
-Income Tax
- On-market Share Buyback
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax On-market Share Buyback FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the journal entry made to the consolidated financial statements of Head Co for the purpose of recognising Head Co's on-market share buyback result in 'tainting' of the company's share capital account under Division 197 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. A journal entry made in a consolidated group's financial statements is not a transfer into the share capital account of Head Co under subsection 197-5(1) of the ITAA 1997.
@@ -21,98 +10,22 @@ Head Co is the legal head entity of a consolidated group and head company of a t
 Head Co is an Australian resident for taxation purposes.
 Head Co commenced an on-market share buyback of its shares.
 The consolidated group expects to make the following journal entries due to the on market share buyback, in accordance with Australian Accounting Standards Board 3 'Business Combinations' (AASB 3):
-The first journal entry is made in the general ledger of Head Co:
-
-Dr
+The first journal entry is made in the general ledger of Head Co: Dr
 Share capital
-25,000
-
-Cr
+25,000 Cr
 Cash
-25,000
-
-The second journal entry is made for the purposes of the consolidated financial statements of the consolidated group and does not appear in the general ledger of any entity within the consolidated group:
-
-Dr
+25,000 The second journal entry is made for the purposes of the consolidated financial statements of the consolidated group and does not appear in the general ledger of any entity within the consolidated group: Dr
 Retained Earnings
-20,000
-
-Cr
+20,000 Cr
 Share Capital
-20,000
-
-The result of both entries produces the following net outcome in the consolidated accounts:
-
-Dr
+20,000 The result of both entries produces the following net outcome in the consolidated accounts: Dr
 Retained Earnings
-20,000
-
-Dr
-Share Capital
- 5,000
-
-Cr
+20,000 Dr
+Share Capital 5,000 Cr
 Cash
-25,000
-
-Reasons for Decision
-
-Division 197 of the ITAA 1997
-
-The share capital tainting provisions in Division 197 of the ITAA 1997 provide for a franking debit to arise in a company's franking account and require distributions to be unfrankable when certain transfers are made to a company's share capital account.
-The following extract from the Explanatory Memorandum (the EM) accompanying the Tax Laws Amendment (2006 Measures No. 3) Bill 2006 and New Business Tax System (Untainting Tax) Bill 2006 containing the share capital tainting provisions explains the purpose of those provisions:[1]
-
-The share capital tainting rules are integrity rules designed to prevent a company from disguising a distribution of profits as a tax-preferred capital distribution by transferring profits into its share capital account and subsequently making distributions from that account.
-
-Division 197 of the ITAA 1997 applies to an amount that is transferred into the company's share capital account from another of the company's accounts, provided the company is an Australian resident before the time of transfer (subsection 197-5(1) of the ITAA 1997).
-A company's share capital account will become tainted if such a transfer occurs, unless the account was already tainted (subsection 197-50(1) of the ITAA 1997).
-
-When is an amount transferred from one account to another account?
-
-Division 197 of the ITAA 1997 does not define when an amount is transferred from one account to another. However, the EM states that:
-
-4.12An amount is transferred from one account to another where that amount is moved from one account to another. This, in turn, requires the balance of the first account to be reduced, while the balance of the second account is increased by the same amount.
-4.13An amount is not transferred from one account to another where the particular accounting entries result in the balances of both accounts increasing in size. Accordingly, an accounting entry of the form 'debit asset, credit share capital account' does not represent a transfer in the relevant sense. Furthermore, a transfer to the share capital account will not arise if an expense account is debited at the same time that the share capital account is credited.
-
-The first journal entry
-
-Division 197 of the ITAA 1997 will not apply to taint the share capital account of Head Co because the first journal entry made does not constitute a transfer from another account into the share capital account of Head Co. Rather, it constitutes a reduction of the share capital account of Head Co.
-
-The second journal entry
-
-Subsection 197-5(1) of the ITAA 1997 does not apply to the second journal entry that was made for consolidated accounting purposes in accordance with AASB 3 as it does not appear in the general ledger of Head Co. Accordingly, there is no tainting of Head Co's share capital account under subsection 197-5(1) of the ITAA 1997.
-It is the entries a legal entity makes to its general ledger that will be determinative, and not the entries that are made to reflect a consolidated accounting position, as Division 197 of the ITAA 1997 is considered to operate on a legal entity basis.
-
-[1]
-Paragraph 4.4 of the EM.
-
-Date of decision:
-  14 August 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 197-5
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (2006 Measures No. 3) Bill 2006 and New Business Tax System (Untainting Tax) Bill 2006
-
-Keywords
-
-Share capital
- Tainted share capital account
-
-Siebel/TDMS Reference Number:
-  6259064
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 August 2009
-
-ISSN:
- 1445-2782
+25,000 Reasons for Decision Division 197 of the ITAA 1997 The share capital tainting provisions in Division 197 of the ITAA 1997 provide for a franking debit to arise in a company's franking account and require distributions to be unfrankable when certain transfers are made to a company's share capital account.
+The following extract from the Explanatory Memorandum (the EM) accompanying the Tax Laws Amendment (2006 Measures No. 3) Bill 2006 and New Business Tax System (Untainting Tax) Bill 2006 containing the share capital tainting provisions explains the purpose of those provisions:[1] The share capital tainting rules are integrity rules designed to prevent a company from disguising a distribution of profits as a tax-preferred capital distribution by transferring profits into its share capital account and subsequently making distributions from that account. Division 197 of the ITAA 1997 applies to an amount that is transferred into the company's share capital account from another of the company's accounts, provided the company is an Australian resident before the time of transfer (subsection 197-5(1) of the ITAA 1997).
+A company's share capital account will become tainted if such a transfer occurs, unless the account was already tainted (subsection 197-50(1) of the ITAA 1997). When is an amount transferred from one account to another account? Division 197 of the ITAA 1997 does not define when an amount is transferred from one account to another. However, the EM states that: 4.12An amount is transferred from one account to another where that amount is moved from one account to another. This, in turn, requires the balance of the first account to be reduced, while the balance of the second account is increased by the same amount.
+4.13An amount is not transferred from one account to another where the particular accounting entries result in the balances of both accounts increasing in size. Accordingly, an accounting entry of the form 'debit asset, credit share capital account' does not represent a transfer in the relevant sense. Furthermore, a transfer to the share capital account will not arise if an expense account is debited at the same time that the share capital account is credited. The first journal entry Division 197 of the ITAA 1997 will not apply to taint the share capital account of Head Co because the first journal entry made does not constitute a transfer from another account into the share capital account of Head Co. Rather, it constitutes a reduction of the share capital account of Head Co. The second journal entry Subsection 197-5(1) of the ITAA 1997 does not apply to the second journal entry that was made for consolidated accounting purposes in accordance with AASB 3 as it does not appear in the general ledger of Head Co. Accordingly, there is no tainting of Head Co's share capital account under subsection 197-5(1) of the ITAA 1997.
+It is the entries a legal entity makes to its general ledger that will be determinative, and not the entries that are made to reflect a consolidated accounting position, as Division 197 of the ITAA 1997 is considered to operate on a legal entity basis. [1]
+Paragraph 4.4 of the EM. Date of decision: 14 August 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 section 197-5 Other References: Explanatory Memorandum to the Tax Laws Amendment (2006 Measures No. 3) Bill 2006 and New Business Tax System (Untainting Tax) Bill 2006 Keywords Share capital Tainted share capital account Siebel/TDMS Reference Number: 6259064 Business Line: Public Groups and International Date of publication: 28 August 2009 ISSN: 1445-2782

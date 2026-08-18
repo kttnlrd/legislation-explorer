@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/506
-==================================================
-
-Income Tax
- Taxation obligations of company administrators
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation obligations of company administrators FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 254 of the Income Tax Assessment Act 1936 (ITAA 1936) apply to make an administrator appointed under Part 5.3A of the Corporations Act 2001 (Corporations Act), personally liable for income tax assessed to the company in relation to which they are appointed?
 Decision
 Yes. An administrator is a trustee of the company for the purposes of section 254 of the ITAA 1936. An administrator is personally liable under paragraph 254(1)(e) for the tax payable in respect of income, or profits or gains of a capital nature derived by virtue of that representative capacity. However, the administrator is only liable to the extent of the amount of money that the administrator has retained or should have retained under the authority and requirement to do so in paragraph 254(1)(d) of the ITAA 1936.
@@ -22,88 +9,17 @@ Facts
 An administrator is appointed under the Corporations Act Part 5.3A and income is derived during the company's administration.
 Reasons for Decision
 Section 254 of the ITAA 1936 applies to an entity that is an agent or trustee for the purposes of the ITAA 1936 and 1997. Section 254 contains provisions which describe the duties and obligations of persons who act as the agents or trustees of taxpayers.
-'Trustee' is defined in subsection 6(1) of the ITAA 1936 as follows:
-
-"trustee" in addition to every person appointed or constituted trustee by act of parties, by order, or declaration of a court, or by operation of law, includes:
-
-(a)an executor or administrator, guardian, committee, receiver, or liquidator; and
-(b)every person having or taking upon himself the administration or control of income affected by any express or implied trust, or acting in
- any fiduciary capacity
- , or having the possession, control or management of the income of a person under any legal or other disability [emphasis added]
-
-Paragraph (b) of the definition of 'trustee' refers to 'every person ... acting in any fiduciary capacity'. In James v. Deputy Federal Commissioner of Taxation (1988) 19 ATR 1752; 88 ATC 4812 the Court held that a scheme manager appointed under a Scheme of arrangement was a trustee for the purposes of section 221P of the ITAA 1936 as he was acting in a fiduciary capacity within paragraph 6(1)(b) of the definition of trustee in the ITAA 1936.
+'Trustee' is defined in subsection 6(1) of the ITAA 1936 as follows: "trustee" in addition to every person appointed or constituted trustee by act of parties, by order, or declaration of a court, or by operation of law, includes: (a)an executor or administrator, guardian, committee, receiver, or liquidator; and
+(b)every person having or taking upon himself the administration or control of income affected by any express or implied trust, or acting in any fiduciary capacity , or having the possession, control or management of the income of a person under any legal or other disability [emphasis added] Paragraph (b) of the definition of 'trustee' refers to 'every person ... acting in any fiduciary capacity'. In James v. Deputy Federal Commissioner of Taxation (1988) 19 ATR 1752; 88 ATC 4812 the Court held that a scheme manager appointed under a Scheme of arrangement was a trustee for the purposes of section 221P of the ITAA 1936 as he was acting in a fiduciary capacity within paragraph 6(1)(b) of the definition of trustee in the ITAA 1936.
 An administrator appointed under Part 5.3A of the Corporations Act is also acting in a fiduciary capacity. In exercising the powers given to an administrator under section 437A of the Corporations Act, the administrator does not exercise the powers, nor are the powers given to the administrator, for personal benefit, but for the benefit of the company. The administrator is consequently acting in a fiduciary capacity and is a trustee for the purposes of the ITAA 1936 including section 254.
-Paragraph (a) of subsection 254(1) of the ITAA 1936 provides that a trustee is answerable as taxpayer 'for the payment of tax' on the income, or any profits or gains of a capital nature, derived by him in his representative capacity. Paragraph (b) of subsection 254(1) provides that a trustee is assessed on that income or those profits or gains 'but in his representative capacity only'. In Fermanis v. Cheshire Holdings Pty Ltd (1989) 20 ATR 1862; 90 ATC 4201 Murray J held at ATR 1865; ATC 4203 in relation to section 254:
-
-What is clear about that provision is that it creates of itself no tax liability, which is to be otherwise derived from the provisions of the Act, so that if a tax liability is not otherwise to be drawn from the statute, none will be created by sec 254 . . .
-
-It is clear, I think, that the provision operates as a machinery provision to facilitate tax collection in relation to liable trust income when the liability is otherwise imposed than by sec. 254.
-
-Therefore, section 254 of the ITAA 1936 does not create a personal responsibility in the administrator for tax assessed to the company. However, it makes the administrator liable to pay tax on income, profits or gains of a capital nature derived by the administrator in their capacity as trustee (for tax purposes) of the company.
+Paragraph (a) of subsection 254(1) of the ITAA 1936 provides that a trustee is answerable as taxpayer 'for the payment of tax' on the income, or any profits or gains of a capital nature, derived by him in his representative capacity. Paragraph (b) of subsection 254(1) provides that a trustee is assessed on that income or those profits or gains 'but in his representative capacity only'. In Fermanis v. Cheshire Holdings Pty Ltd (1989) 20 ATR 1862; 90 ATC 4201 Murray J held at ATR 1865; ATC 4203 in relation to section 254: What is clear about that provision is that it creates of itself no tax liability, which is to be otherwise derived from the provisions of the Act, so that if a tax liability is not otherwise to be drawn from the statute, none will be created by sec 254 . . . It is clear, I think, that the provision operates as a machinery provision to facilitate tax collection in relation to liable trust income when the liability is otherwise imposed than by sec. 254. Therefore, section 254 of the ITAA 1936 does not create a personal responsibility in the administrator for tax assessed to the company. However, it makes the administrator liable to pay tax on income, profits or gains of a capital nature derived by the administrator in their capacity as trustee (for tax purposes) of the company.
 Paragraph 254(1)(d) of the ITAA 1936, to that end, authorises and requires a trustee to retain out of any money that is received in that representative capacity, an amount sufficient to pay that tax. The administrator is then under paragraph 254(1)(e) of the ITAA 1936 made personally liable for the tax assessed in respect of the income, profits or gains resulting from the administration to the extent that money has been retained or should have been retained.
 Consequently, the administrator has a personal liability to pay income tax as an administrator for a particular company. However, that liability only extends to money that has come to the administrator in that representative capacity and which the administrator has been authorised and required to retain, and which has been retained or should have been retained for the purpose of paying the income tax.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-5 July 2016
+Comment 5 July 2016
 Related ATO Interpretative Decisions
-Updated Related ATO Interpretative Decisions to ATO ID 2005/257
-
-Date of decision:
-  16 May 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 254   subsection 254(1)   paragraph 254(1)(b)   paragraph 254(1)(d)   paragraph 254(1)(e)   section 221P
-Corporations Act 2001   Part 5.3A   section 437A
-
-Case References:
-
-James v. Deputy Federal Commissioner of Taxation   (1988) 19 ATR 1752   88 ATC 4812
-
-Fermanis v. Cheshire Holdings Pty Ltd   (1989) 20 ATR 1862   90 ATC 4201
-
-Related ATO Interpretative Decisions
-
- ATO ID 2005/257
-
-Keywords
-
-Administrative law
- Voluntary administration
- Liquidation
- Trustees
-
-Siebel/TDMS Reference Number:
-  3409111; 1-7TPJIUU
-
-Business Line:
-  PGH
-
-Date of publication:
-  4 July 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-16 May 2003
-Original statement
-
-You are here
- 5 July 2016
+Updated Related ATO Interpretative Decisions to ATO ID 2005/257 Date of decision: 16 May 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 254 subsection 254(1) paragraph 254(1)(b) paragraph 254(1)(d) paragraph 254(1)(e) section 221P
+Corporations Act 2001 Part 5.3A section 437A Case References: James v. Deputy Federal Commissioner of Taxation (1988) 19 ATR 1752 88 ATC 4812 Fermanis v. Cheshire Holdings Pty Ltd (1989) 20 ATR 1862 90 ATC 4201 Related ATO Interpretative Decisions ATO ID 2005/257 Keywords Administrative law Voluntary administration Liquidation Trustees Siebel/TDMS Reference Number: 3409111; 1-7TPJIUU Business Line: PGH Date of publication: 4 July 2003 ISSN: 1445-2782 history Date: Version: 16 May 2003
+Original statement You are here 5 July 2016
 Updated statement

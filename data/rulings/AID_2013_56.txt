@@ -1,21 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/56
-==================================================
-
-Goods and Services Tax
- GST refund and reimbursement by a journal entry
-
-This ATO ID is withdrawn. The view in this ATO ID is now contained in paragraph 115A of Miscellaneous Taxation Ruling MT 2010/1 Miscellaneous tax: restrictions on GST refunds under section 105-65 of Schedule 1 to the Taxation Administration Act 1953.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST refund and reimbursement by a journal entry This ATO ID is withdrawn. The view in this ATO ID is now contained in paragraph 115A of Miscellaneous Taxation Ruling MT 2010/1 Miscellaneous tax: restrictions on GST refunds under section 105-65 of Schedule 1 to the Taxation Administration Act 1953. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the Commissioner be satisfied that an amount of overpaid GST has been reimbursed to a recipient pursuant to subparagraph 105-65(1)(c)(i) of Schedule 1 to the Taxation Administration Act 1953 when a supplier makes a journal entry in its accounts, acknowledging a debt owed to the recipient for an amount corresponding to the overpaid GST?
 Decision
 No. The Commissioner will not be satisfied that an amount of overpaid GST has been reimbursed to a recipient when a supplier merely makes a journal entry in its accounts, unless the journal entry offsets a pre-existing liability owed by the recipient to the supplier.
@@ -28,85 +14,20 @@ The entity makes a journal entry in its accounts, acknowledging a debt owed to i
 Reasons for Decision
 Under section 105-65, the Commissioner need not give an entity a refund where, for example, a supply was treated as a taxable supply but is not a taxable supply, and the Commissioner is not satisfied that the entity has reimbursed to the recipient of the supply an amount corresponding to the overpaid GST.
 By contrast, once the entity has reimbursed its unregistered recipient an amount corresponding to the overpaid GST, section 105-65 no longer applies to restrict the refund.
-Miscellaneous Taxation Ruling MT 2010/1 restrictions on GST refunds under section 105-65 of Schedule 1 to the Taxation Administration Act 1953, at paragraph 115A states:
-
- In cases where the recipient is not registered or required to be registered, taxpayers can consider (that is self-assess) that the Commissioner will be satisfied that the recipient has been appropriately reimbursed (and that therefore section 105-65 will not apply) where:
-
-•the recipient can be specifically identified;
+Miscellaneous Taxation Ruling MT 2010/1 restrictions on GST refunds under section 105-65 of Schedule 1 to the Taxation Administration Act 1953, at paragraph 115A states: In cases where the recipient is not registered or required to be registered, taxpayers can consider (that is self-assess) that the Commissioner will be satisfied that the recipient has been appropriately reimbursed (and that therefore section 105-65 will not apply) where: •the recipient can be specifically identified;
 •the amount of the reimbursement corresponds exactly to the amount of the GST overcharged to the recipient and the method of reimbursement ensures this is achieved;
 •the reimbursement is in money, or if made through a journal entry, to the extent that the journal entry offsets the recipient's pre-existing liability to the taxpayer; and
-•the reimbursement or journal entry has actually been made, and is not merely planned to be made.
-
-In considering whether the reimbursement has actually been made we need to consider what is meant by reimbursement. The term 'reimburse' is not defined in the Taxation Administration Act 1953. Therefore it takes on its ordinary meaning. The Macquarie dictionary defines 'reimburse' as:
-
-1. to make repayment to for expense or loss incurred.
-2. to pay back; refund; repay.[1]
-
-A journal entry in the supplier's accounts which acknowledges a debt owed to the recipient is, at best, a promise to pay. However, it does not mean that the supplier has actually repaid, paid back or refunded an overpaid amount of GST to the recipient.
+•the reimbursement or journal entry has actually been made, and is not merely planned to be made. In considering whether the reimbursement has actually been made we need to consider what is meant by reimbursement. The term 'reimburse' is not defined in the Taxation Administration Act 1953. Therefore it takes on its ordinary meaning. The Macquarie dictionary defines 'reimburse' as: 1. to make repayment to for expense or loss incurred.
+2. to pay back; refund; repay.[1] A journal entry in the supplier's accounts which acknowledges a debt owed to the recipient is, at best, a promise to pay. However, it does not mean that the supplier has actually repaid, paid back or refunded an overpaid amount of GST to the recipient.
 Accordingly, in these circumstances, the Commissioner is not satisfied that the reimbursement has actually been made pursuant to subparagraph 105-65(1)(c)(i) of Schedule 1 to the Taxation Administration Act 1953 and therefore need not give the entity a refund of the overpaid GST.
-However, where the recipient has a pre-existing liability owed to the supplier, the Commissioner will be satisfied that an overpaid amount of GST is reimbursed to the extent that the journal entry in the supplier's accounts offsets the recipient's pre-existing liability.
-
-Amendment History
-
-Date of Amendment
+However, where the recipient has a pre-existing liability owed to the supplier, the Commissioner will be satisfied that an overpaid amount of GST is reimbursed to the extent that the journal entry in the supplier's accounts offsets the recipient's pre-existing liability. Amendment History Date of Amendment
 Part
-Comment
-
-24 October 2014
+Comment 24 October 2014
 Above Issues
-Add note
-
-Reason for Decision
-Updated for clarity
-
-[1]
-1 The Macquarie Dictionary Online (c) Macquarie Dictionary Publishers Pty Ltd.
-
-Date of decision:
-  24 October 2013
-
-Legislative References:
-
-Taxation Administration Act 1953   schedule 1 section 105-65   subparagraph 105-65(1)(c)(i)
-
-Related Public Rulings (including Determinations)
-
-MT 2010/1
-
-Other References:
-
-The Macquarie Dictionary Online
-
-Keywords
-
-goods and services tax
- GST returns, payments and refunds
-
-Business Line:
-  Interpretative Assistance, Indirect Tax
-
-Date of publication:
-  25 October 2013
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-24 October 2013
-Original statement
-
- 
-24 October 2014
-Updated statement
-
-You are here
+Add note Reason for Decision
+Updated for clarity [1]
+1 The Macquarie Dictionary Online (c) Macquarie Dictionary Publishers Pty Ltd. Date of decision: 24 October 2013 Legislative References: Taxation Administration Act 1953 schedule 1 section 105-65 subparagraph 105-65(1)(c)(i) Related Public Rulings (including Determinations) MT 2010/1 Other References: The Macquarie Dictionary Online Keywords goods and services tax GST returns, payments and refunds Business Line: Interpretative Assistance, Indirect Tax Date of publication: 25 October 2013 ISSN: 1445-2782 history Date: Version: 24 October 2013
+Original statement 24 October 2014
+Updated statement You are here
 22 September 2017
 Archived

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/90
-==================================================
-
-Income Tax
- Taxation of financial arrangements: meaning of 'discount' in section 230-165 of the Income Tax Assessment Act 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of financial arrangements: meaning of 'discount' in section 230-165 of the Income Tax Assessment Act 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will an amount reflecting the difference between the consideration paid for acquiring a portfolio of loans and the face value of the portfolio be a 'discount' for the purposes of section 230-165 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. Where the consideration paid for acquiring a portfolio of loans is less than the face value of the portfolio, this is a discount for the purposes of section 230-165 of the ITAA 1997.
@@ -27,11 +16,7 @@ All legislative references are to the ITAA 1997 unless otherwise indicated.
 Section 230-165 essentially requires the identification of any discount or premium which arises from the acquisition of a portfolio of similar financial arrangements in order that, to the extent that a gain or loss from a financial arrangement within that portfolio is attributable to the discount or premium (the 'premium/discount gain or loss'), it may accrue over the expected life of the portfolio.
 The 'discount' which is to be spread under section 230-165 is not a defined term for the purposes of Division 230. Although section 995-1 does address the term 'discount', this is in the specific context of the value shifting provisions and is not intended to apply to the term as it appears in Division 230.
 The term is addressed in the Explanatory Memorandum (EM) to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008.
-Paragraph 4.155 of the EM states:
-
-A portfolio of loans purchased for an amount less than its face value may represent a portfolio discount to which the modified accruals rule may also apply.
-
-Similarly, Example 7.2 in the EM refers to the 'discount to face value' of a promissory note which is brought to account according to Subdivision 230-B.
+Paragraph 4.155 of the EM states: A portfolio of loans purchased for an amount less than its face value may represent a portfolio discount to which the modified accruals rule may also apply. Similarly, Example 7.2 in the EM refers to the 'discount to face value' of a promissory note which is brought to account according to Subdivision 230-B.
 However Example 4.6 in the EM (albeit referring to a premium rather than a discount) identifies a premium as the difference between the consideration for the portfolio and its market value (in terms of net present value) at the time of acquisition.
 The Macquarie Dictionary includes in the definition of 'discount': '...any deduction from the nominal value.'
 Where it is open to do so, particularly where the meaning of a term is ambiguous, provisions are to be construed in a way that is 'consistent with the language and purpose of all the provisions of the statute' (Project Blue Sky Inc & Others v. Australian Broadcasting Authority (1998) 194 CLR 355 at 381).
@@ -41,35 +26,4 @@ Where applicable, sections 230-150 and 230-165 overlay the ordinary accruals rul
 To the extent that a gain or loss under the accruals method arises in part from a premium or discount, paragraph 230-165(2)(a) treats that part of the gain or loss attributable to the discount or premium to be a particular gain or loss to which the accruals method applies. To the extent that the gain or loss does not arise from the premium or discount, it will be treated as a separate gain or loss from the financial arrangement to which the accruals method applies.
 It is consistent with the structure of Division 230 to calculate the discount or premium which arises due to the acquisition of the entire portfolio (rather than being attributable to any specific financial arrangement within that portfolio) in the same manner that a gain or loss referrable to an individual financial arrangement would ordinarily be calculated. That is the net gain or loss in nominal terms is determined by comparing the difference between the outgoings (consideration paid) and receipts (principal outstanding at the time of acquisition). This is consistent with the ordinary meaning of 'discount', and the references in paragraph 4.155 and Example 7.2 in the EM.
 In Brooks & Anor v. Federal Commissioner of Taxation [2000] FCA 721; 2000 ATC 4362 at 4376; (2000) 44 ATR 352, the full Federal Court noted 'there have been cases where the law as stated in the Explanatory Memorandum has been held to be wrong.' To the extent that Example 4.6 in the EM is inconsistent with other statements in the EM and the structure of Division 230 as set out above, the example is not considered to accurately reflect the law.
-Date of decision:
-  24 October 2011
-
-Year of income:
-  Year ended 30 September 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 230-60   subsection 230-70(1)   subsection 230-75(1)   section 230-150   section 230-165   subsection 230-165(5)   paragraph 230-165(2)(a)   section 230-505   section 995-1
-
-Case References:
-
-Project Blue Sky Inc & Others v Australian Broadcasting Authority   (1998) 194 CLR 355
-
-Brooks & Anor v Federal Commissioner of Taxation   [2000] FCA 721   2000 ATC 4362   (2000) 44 ATR 352
-
-Keywords
-
-Income tax
- Taxation of Financial Arrangements CoE
-
-Siebel/TDMS Reference Number:
-  1-3G9S3RH
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  10 November 2011
-
-ISSN:
- 1445-2782
+Date of decision: 24 October 2011 Year of income: Year ended 30 September 2011 Legislative References: Income Tax Assessment Act 1997 section 230-60 subsection 230-70(1) subsection 230-75(1) section 230-150 section 230-165 subsection 230-165(5) paragraph 230-165(2)(a) section 230-505 section 995-1 Case References: Project Blue Sky Inc & Others v Australian Broadcasting Authority (1998) 194 CLR 355 Brooks & Anor v Federal Commissioner of Taxation [2000] FCA 721 2000 ATC 4362 (2000) 44 ATR 352 Keywords Income tax Taxation of Financial Arrangements CoE Siebel/TDMS Reference Number: 1-3G9S3RH Business Line: Finance and Investment Centre of Expertise Date of publication: 10 November 2011 ISSN: 1445-2782

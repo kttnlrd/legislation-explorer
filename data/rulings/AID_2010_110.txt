@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/110
-==================================================
-
-Income Tax
- Assessability of an employment termination payment paid to a foreign resident
- FOI status: may be released
-
-This ATO ID is withdrawn as it is no longer consistent with the commentary to the OECD Model Tax Convention following the update on 15 July 2014.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of an employment termination payment paid to a foreign resident FOI status: may be released This ATO ID is withdrawn as it is no longer consistent with the commentary to the OECD Model Tax Convention following the update on 15 July 2014. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxable component of an employment termination payment (ETP) included in the assessable income of the taxpayer, a foreign resident, under paragraph 6-10(5)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) where it is paid by an Australian employer and relates to employment undertaken in both Australia and the United Kingdom (UK)?
 Decision
 Yes. The taxable component of an ETP is included in the assessable income of the taxpayer, a foreign resident, under paragraph 6-10(5)(a) of the ITAA 1997 where it is paid by an Australian employer and relates to employment undertaken in both Australia and the UK.
@@ -38,111 +23,24 @@ The ETP is not a foreign termination payment for the purposes of Subdivision 83-
 Reasons for Decision
 Subsection 82-10(2) of the ITAA 1997 provides that the taxable component of a life benefit ETP is assessable income.
 Section 10-5 of the ITAA 1997 lists section 82-10 of the ITAA 1997 as a provision which includes statutory income in assessable income.
-Subsection 6-10(5) of the ITAA 1997 relevantly provides:
-
-If you are a foreign resident, your assessable income includes:
-
-(a)your statutory income from all Australian sources;
-
-Therefore, in accordance with paragraph 6-10(5)(a) of the ITAA 1997, the taxable component of the foreign resident's life benefit ETP will only be included in the taxpayer's assessable income if it has an Australian source.
-
-Source
-
-There are no statutory source rules for ETPs in the Income Tax Assessment Act 1936 (ITAA 1936) or the ITAA 1997 and therefore the source of an ETP is determined in accordance with case law. The Courts have repeatedly held that the source of income is 'a practical, hard matter of fact' (see Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183) and can only be determined by considering all the facts surrounding the derivation of the income. There is no simple universal rule which can be applied to identify the source of any particular income. In some cases, particular features may be determinative. In others, they may not (see Cliffs International Inc v. Commissioner of Taxation (Cth)(1985) 85 ATC 4374; (1985) 16 ATR 601).
+Subsection 6-10(5) of the ITAA 1997 relevantly provides: If you are a foreign resident, your assessable income includes: (a)your statutory income from all Australian sources; Therefore, in accordance with paragraph 6-10(5)(a) of the ITAA 1997, the taxable component of the foreign resident's life benefit ETP will only be included in the taxpayer's assessable income if it has an Australian source. Source There are no statutory source rules for ETPs in the Income Tax Assessment Act 1936 (ITAA 1936) or the ITAA 1997 and therefore the source of an ETP is determined in accordance with case law. The Courts have repeatedly held that the source of income is 'a practical, hard matter of fact' (see Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183) and can only be determined by considering all the facts surrounding the derivation of the income. There is no simple universal rule which can be applied to identify the source of any particular income. In some cases, particular features may be determinative. In others, they may not (see Cliffs International Inc v. Commissioner of Taxation (Cth)(1985) 85 ATC 4374; (1985) 16 ATR 601).
 In order to determine how to allocate income to a particular source, it is first necessary to determine all the processes which contribute to the earning of the income and determine the relative importance of each factor in earning the income (see Commissioner of Taxation (NSW) v. Kirk [1900] AC 588, Thorpe Nominees Pty Limited v. FC of T (1988) 19 ATR 1834; 88 ATC 4886).
-This approach is also reflected in the following observation from Jordon CJ in Commissioner of Taxation v. Cam & Sons Ltd (1936) 36 SR (NSW) 544; (1936) 4 ATD 32 and cited in a number of later cases (Federal Commissioner of Taxation v. French (1957) 98 CLR 398: 11 ATD 288; 7 AITR 76 (French), and Federal Commissioner of Taxation v. Efstathakis [1979] FCA 28; 79 ATC 4256; 9 ATR 867) relating to the source of income:
-
-Where income is derived from wages or salary, again the source has several factors. Personal exertion may be involved in negotiating and obtaining the contract of employment, in performing the stipulated services, and in obtaining payment for them. In the present instance, for example, in the case of all the men concerned, in a very real sense it may be said that the source of their wages consisted of three elements of getting the job, doing it, and getting paid for it. Which of these factors is the most important element of source in any given case depends upon the facts of the case.
-
-While these cases have typically involved determining the source of remuneration for services rendered, the fundamental approach to determining the source for other types of income is the same. Accordingly, in determining the source of a payment made as a consequence of the termination of employment, consideration must be given to all the factors that gave rise to the payment of the ETP and whether any particular factor or factors can be said to be more important or the most important in determining the source of the ETP.
-In this case, the factors that gave rise to the payment of the ETP are:
-
-•the taxpayer had an employment contract with the employer,
+This approach is also reflected in the following observation from Jordon CJ in Commissioner of Taxation v. Cam & Sons Ltd (1936) 36 SR (NSW) 544; (1936) 4 ATD 32 and cited in a number of later cases (Federal Commissioner of Taxation v. French (1957) 98 CLR 398: 11 ATD 288; 7 AITR 76 (French), and Federal Commissioner of Taxation v. Efstathakis [1979] FCA 28; 79 ATC 4256; 9 ATR 867) relating to the source of income: Where income is derived from wages or salary, again the source has several factors. Personal exertion may be involved in negotiating and obtaining the contract of employment, in performing the stipulated services, and in obtaining payment for them. In the present instance, for example, in the case of all the men concerned, in a very real sense it may be said that the source of their wages consisted of three elements of getting the job, doing it, and getting paid for it. Which of these factors is the most important element of source in any given case depends upon the facts of the case. While these cases have typically involved determining the source of remuneration for services rendered, the fundamental approach to determining the source for other types of income is the same. Accordingly, in determining the source of a payment made as a consequence of the termination of employment, consideration must be given to all the factors that gave rise to the payment of the ETP and whether any particular factor or factors can be said to be more important or the most important in determining the source of the ETP.
+In this case, the factors that gave rise to the payment of the ETP are: •the taxpayer had an employment contract with the employer,
 •the taxpayer performed services pursuant to that employment contract,
 •the employer decided to terminate that employment contract, and
-•the employer was liable to pay the taxpayer an ETP under the employment contract.
-
-The performance of services is not the most important factor giving rise to the payment of an ETP. In fact, regardless of how many years of employment are undertaken by an employee, an ETP will never arise unless the employer decides to terminate the employment contract and this action of the employer legally entitles the employee to the payment of an ETP. Accordingly, but for the decision to terminate the employment, the ETP would not have been made to the taxpayer.
+•the employer was liable to pay the taxpayer an ETP under the employment contract. The performance of services is not the most important factor giving rise to the payment of an ETP. In fact, regardless of how many years of employment are undertaken by an employee, an ETP will never arise unless the employer decides to terminate the employment contract and this action of the employer legally entitles the employee to the payment of an ETP. Accordingly, but for the decision to terminate the employment, the ETP would not have been made to the taxpayer.
 In a case dealing with employment related payments, which were not paid for the performance of any services by the employee but as compensation, the Administrative Appeals Tribunal found that the factors to be taken into account include: from where the payments are sent; by whom and to whom they are sent and received respectively; and where the liability to make the payment arises (see Case U165 87 ATC 955). An ETP is more akin to a compensation payment as it is paid to compensate for the loss of the employment with the employer, as opposed to being paid to remunerate for services rendered.
 Therefore the most important elements in determining the source of the ETP in this case are the employer's decision to terminate the employment and the consequent legal liability of the employer to pay an ETP to the taxpayer under the employment contract.
 The Australian employer's decision to terminate the employment contract occurred in Australia, the employment contract which entitled the taxpayer to an ETP was entered into in Australia and the Australian employer paid the ETP from Australia.
 The fact that the taxpayer was in the UK performing services pursuant to the employment contract when they received notification of the termination of their employment is not a significant factor in determining the source of the ETP. In addition, the fact that the ETP is calculated, in part, by reference to how many years the taxpayer has worked for the employer, and in part by negotiation between the employer and the taxpayer, is only relevant to the quantum of the ETP, and not to the source of the ETP.
 There is an argument that because an ETP is related to the employment, the source of an ETP should be the same as the source of the remuneration for the services rendered under that employment. The source of remuneration for services rendered has generally been found by the Courts to be the place where those services are performed because the performance of the services is the most important factor which gives rise to the payment of the salary and wages (see French). However, as pointed out above, the factors (and their relative importance) giving rise to an ETP are not the same as those for salary or wages. Accordingly, the source of a payment made as a consequence of the termination of employment will not necessarily be the same as the source of salary or wages from the performance of services during the period of employment.
-In the case of this ETP, as the most important factors that gave rise to the payment of the ETP occurred in Australia, the source of the ETP is Australia. Accordingly, the taxable component of the life benefit ETP is included in the taxpayer's assessable income under paragraph 6-10(5)(a) of the ITAA 1997.
-
-2003 UK Convention
-
-In determining liability to tax on Australian sourced income received by a foreign resident, it is necessary to also consider any applicable tax treaty contained in the Agreements Act. Section 4 of the Agreements Act incorporates the ITAA 1936 and ITAA 1997 so that those Acts are read as one with the Agreements Act.
+In the case of this ETP, as the most important factors that gave rise to the payment of the ETP occurred in Australia, the source of the ETP is Australia. Accordingly, the taxable component of the life benefit ETP is included in the taxpayer's assessable income under paragraph 6-10(5)(a) of the ITAA 1997. 2003 UK Convention In determining liability to tax on Australian sourced income received by a foreign resident, it is necessary to also consider any applicable tax treaty contained in the Agreements Act. Section 4 of the Agreements Act incorporates the ITAA 1936 and ITAA 1997 so that those Acts are read as one with the Agreements Act.
 Article 20 (Other Income) of the 2003 UK Convention allocates taxing rights in relation to income not dealt with by the preceding Articles of the Convention. Employment termination payments are not dealt with by any of those Articles and therefore they fall within the scope of Article 20.
 As the taxpayer was a UK resident at the time of receiving the ETP, Article 20(1) allocates a taxing right over the ETP to the UK. However, Article 20(3) also allocates Australia a taxing right over the ETP as it is from Australian sources.
-Accordingly, the taxable component of the ETP is included in the assessable income of the taxpayer under paragraph 6-10(5)(a) of the ITAA 1997.
-
-Note 1
- : as the country of residence of the taxpayer, the UK is obliged to provide relief from any double taxation of the ETP in accordance with Article 22(2) of the 2003 UK Convention.
-
-Note 2
- : in those circumstances where the source of an ETP is found to be partially in Australia and partially in another country, paragraph 6-10(5)(a) of the ITAA 1997 allows for apportionment of the ETP such that only the Australian sourced portion of the ETP is included in assessable income. Although it is not possible to apportion an ETP under section 82-235 of the ITAA 1997 such that only part of it is exempt as a foreign termination payment (see ATOID 2009/123), this does not prevent apportionment on the basis of source under paragraph 6-10(5)(a) of the ITAA 1997.
-
-Date of decision:
-  13 April 2010
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   The Act
-Income Tax Assessment Act 1997   paragraph 6-10(5)(a)   paragraph 6-10(5)(b)   section 10-5   Division 82   section 82-10   subsection 82-10(2)   Subdivision 83-D   section 82-130
-International Tax Agreements Act 1953   Schedule 1, Article 14   Schedule 1, Article 20   Schedule 1, Article 22
-
-Case References:
-
-Nathan v Federal Commissioner of Taxation   (1918) 25 CLR 183
-
-Cliffs International Inc v Commissioner of Taxation (Cth)   (1985) 85 ATC 4374   (1985) 16 ATR 601
-
-Commissioner of Taxation (NSW) v Kirk   [1900] AC 588
-
-Thorpe Nominees Pty Limited v FC of T   (1988) 19 ATR 1834   88 ATC 4886
-
-Commissioner of Taxation v Cam & Sons Ltd   (1936) 36 SR (NSW) 544   (1936) 4 ATD 32
-
-Federal Commissioner of Taxation v French   (1957) 98 CLR 398   (1957) 11 ATD 288   (1957) 7 AITR 76
-
-Federal Commissioner of Taxation v Efstathakis   [1979] FCA 28   79 ATC 4256   (1979) 9 ATR 867
- Case U165   87 ATC 955
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/109
- ATO ID 2010/111
-
-Keywords
-
-Non resident individuals
- Employment termination payments
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 May 2010
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 April 2010
-Original statement
-
-You are here
+Accordingly, the taxable component of the ETP is included in the assessable income of the taxpayer under paragraph 6-10(5)(a) of the ITAA 1997. Note 1 : as the country of residence of the taxpayer, the UK is obliged to provide relief from any double taxation of the ETP in accordance with Article 22(2) of the 2003 UK Convention. Note 2 : in those circumstances where the source of an ETP is found to be partially in Australia and partially in another country, paragraph 6-10(5)(a) of the ITAA 1997 allows for apportionment of the ETP such that only the Australian sourced portion of the ETP is included in assessable income. Although it is not possible to apportion an ETP under section 82-235 of the ITAA 1997 such that only part of it is exempt as a foreign termination payment (see ATOID 2009/123), this does not prevent apportionment on the basis of source under paragraph 6-10(5)(a) of the ITAA 1997. Date of decision: 13 April 2010 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 The Act
+Income Tax Assessment Act 1997 paragraph 6-10(5)(a) paragraph 6-10(5)(b) section 10-5 Division 82 section 82-10 subsection 82-10(2) Subdivision 83-D section 82-130
+International Tax Agreements Act 1953 Schedule 1, Article 14 Schedule 1, Article 20 Schedule 1, Article 22 Case References: Nathan v Federal Commissioner of Taxation (1918) 25 CLR 183 Cliffs International Inc v Commissioner of Taxation (Cth) (1985) 85 ATC 4374 (1985) 16 ATR 601 Commissioner of Taxation (NSW) v Kirk [1900] AC 588 Thorpe Nominees Pty Limited v FC of T (1988) 19 ATR 1834 88 ATC 4886 Commissioner of Taxation v Cam & Sons Ltd (1936) 36 SR (NSW) 544 (1936) 4 ATD 32 Federal Commissioner of Taxation v French (1957) 98 CLR 398 (1957) 11 ATD 288 (1957) 7 AITR 76 Federal Commissioner of Taxation v Efstathakis [1979] FCA 28 79 ATC 4256 (1979) 9 ATR 867 Case U165 87 ATC 955 Related ATO Interpretative Decisions ATO ID 2010/109 ATO ID 2010/111 Keywords Non resident individuals Employment termination payments Business Line: Public Groups and International Date of publication: 7 May 2010 ISSN: 1445-2782 history Date: Version: 13 April 2010
+Original statement You are here
 13 October 2017
 Archived

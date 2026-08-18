@@ -1,93 +1,27 @@
 ATO Interpretative Decision
 ATO ID 2009/2
-==================================================
-
-Income Tax
- The term 'unrelated' for the purposes of Article 11(3)(b) of the US Convention: where a company as the holder of redeemable preference shares has majority voting rights in relation to specified events
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax The term 'unrelated' for the purposes of Article 11(3)(b) of the US Convention: where a company as the holder of redeemable preference shares has majority voting rights in relation to specified events FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a taxpayer (Aus Co), which is an Australian resident payer of dividends on redeemable preference shares (RPS), 'unrelated' to a US resident financial institution (US Co) for the purposes of Article 11(3)(b) of the United States Convention (US Convention) in Schedules 2 and 2A of the International Tax Agreements Act 1953 (the Agreements Act) where, contingent upon specified events occurring that involves compliance with the terms of the RPS, the director of Aus Co appointed by US Co (in its capacity as the holder of the RPS) has majority voting rights on Aus Co's board of directors only in relation to the specified events?
 Decision
 Yes. Aus Co is unrelated to US Co for the purposes of Article 11(3)(b) of the US Convention notwithstanding that upon the specified events occurring, the director of Aus Co appointed by US Co has majority voting rights on Aus Co's board of directors in relation to those specified events.
 Facts
 Aus Co is an Australia resident company and participates in a particular financing arrangement with a US resident company, US Co, in order to obtain funds at a lower cost for the group of companies of which Aus Co is a member.
 US Co is a financial institution for the purposes of Article 11(3)(b) of the US Convention.
-Aus Co issues RPS to another member of its group of companies referred to above. Those RPS are then immediately transferred by that member to US Co. The rights of US Co attaching to the RPS include:
-
-•the right to be paid preferential dividends at specified times as and when declared by Aus Co's board of directors. The amount of these dividends is calculated by reference to an external benchmark interest rate minus a specified number of basis points.
+Aus Co issues RPS to another member of its group of companies referred to above. Those RPS are then immediately transferred by that member to US Co. The rights of US Co attaching to the RPS include: •the right to be paid preferential dividends at specified times as and when declared by Aus Co's board of directors. The amount of these dividends is calculated by reference to an external benchmark interest rate minus a specified number of basis points.
 •the RPS are mandatorily redeemable on a specified date (the earlier of termination of the transaction or 10 years after issue);
 •the right to exercise 10% of the voting power in Aus Co's annual general meeting (AGM);
-•the ability to appoint one member to the Aus Co's board of directors comprising five directors (with a quorum constituted by two directors). Each director ordinarily has one vote in the board's meeting with board resolutions being passed by the majority of votes.
-
-Aus Co makes dividend payments to US Co, the beneficial owner of the dividends, in respect of the RPS held by US Co.
+•the ability to appoint one member to the Aus Co's board of directors comprising five directors (with a quorum constituted by two directors). Each director ordinarily has one vote in the board's meeting with board resolutions being passed by the majority of votes. Aus Co makes dividend payments to US Co, the beneficial owner of the dividends, in respect of the RPS held by US Co.
 Where specified events occur involving compliance with the terms of the RPS issued to US Co, the director appointed by US Co has five votes on the board of Aus Co (with a quorum constituted by the one director appointed by US Co) but only with respect to any decision or resolution to rectify the specified event.
-These specified events include where Aus Co:
-
-•fails to pay a dividend in relation to US Co's holding of RPS; or
+These specified events include where Aus Co: •fails to pay a dividend in relation to US Co's holding of RPS; or
 •fails to pay the redemption amount on the RPS at the redemption date; or
-•fails to comply with specific obligations to US Co upon the termination of the financing arrangement.
-
-Reasons for Decision
+•fails to comply with specific obligations to US Co upon the termination of the financing arrangement. Reasons for Decision
 Article 11(3) of the US Convention provides that Australia shall not tax interest arising in Australia where a US resident financial institution is beneficially entitled to that interest (and satisfies other conditions).
 Article 3(2) of the US Convention provides that any term not defined will have the meaning given under the laws of Australia relating to the taxes to which the Convention applies, unless the context otherwise requires. The term 'unrelated' is not defined in the US Convention or in Australian domestic tax law.
 Paragraph 109 of Taxation Ruling TR 2005/5 states that the term 'unrelated' takes its meaning from the context in which it appears.
-Taxation Ruling TR 2005/5 states at paragraphs 30, 112 and 114 respectively:
-
-30. The term 'unrelated' means that there is no ownership or control based relationship between the payer of the interest and the financial institution, under which one party is able to exert sufficient influence over the activities of the other party. ...
-
-112. ... the requirement of being 'unrelated' is contextually similar to a non-associate relationship whereby the relationship is not capable of affecting the dealings between the financial institution and the payer. Taking this factor into account, the Commissioner would consider that a financial institution will be unrelated to the interest payer where, in considering the level of participation in the ownership or control of either the financial institution or the Australian payer by the other party, it can be concluded that neither party is able to exert sufficient influence over the other party.
-
-114. ...redeemable preference shares (RPS) usually contain restricted voting and profit participation rights and are often used as a form of finance, being in substance economically similar to a loan. In such cases, where the holder of the RPS ordinarily has limited power to direct the activities of the company in general meetings and no other factors exist affecting the relationship, it would be reasonable to conclude that the RPS holder does not sufficiently influence the issuing entity so that the parties are treated as being unrelated.
-
-The issue raised in the present case is whether Aus Co and US Co have an ownership or control based relationship arising from the arrangement whereby one party is able to exert sufficient influence over the activities of the other party.
+Taxation Ruling TR 2005/5 states at paragraphs 30, 112 and 114 respectively: 30. The term 'unrelated' means that there is no ownership or control based relationship between the payer of the interest and the financial institution, under which one party is able to exert sufficient influence over the activities of the other party. ... 112. ... the requirement of being 'unrelated' is contextually similar to a non-associate relationship whereby the relationship is not capable of affecting the dealings between the financial institution and the payer. Taking this factor into account, the Commissioner would consider that a financial institution will be unrelated to the interest payer where, in considering the level of participation in the ownership or control of either the financial institution or the Australian payer by the other party, it can be concluded that neither party is able to exert sufficient influence over the other party. 114. ...redeemable preference shares (RPS) usually contain restricted voting and profit participation rights and are often used as a form of finance, being in substance economically similar to a loan. In such cases, where the holder of the RPS ordinarily has limited power to direct the activities of the company in general meetings and no other factors exist affecting the relationship, it would be reasonable to conclude that the RPS holder does not sufficiently influence the issuing entity so that the parties are treated as being unrelated. The issue raised in the present case is whether Aus Co and US Co have an ownership or control based relationship arising from the arrangement whereby one party is able to exert sufficient influence over the activities of the other party.
 Since US Co has relevantly restricted voting and profit participation rights, the RPS fit the description in paragraph 114 of TR 2005/5.
 The director appointed by US Co controls Aus Co's board of directors only in the occurrence of specified events involving compliance with the terms of the RPS issued to US Co.
 The limited circumstances in which the director appointed by US Co can utilise controlling voting power does not constitute the ability to direct Aus Co's actions in a general sense.
-Therefore, pursuant to paragraph 114 of TR 2005/5, it can be concluded that Aus Co and US Co are 'unrelated' within the meaning of Article 11(3)(b) of the US Convention.
-
-Note: this ATO ID also applies to the provisions of other tax treaties that contain the term 'unrelated' and are equivalent to Article 11(3)(b) of the US Convention .
-
-Date of decision:
-  25 November 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-International Tax Agreements Act 1953   Schedule 2   Schedule 2, Article 11   Schedule 2, Article 11(3)   Schedule 2, Article 11(3)(b)   Schedule 2, Article 3(2)   Schedule 2A
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2005/5
-
-Keywords
-
-Debt interest
- Double tax agreements
- Interest income
- International tax
- Treaties
- United States
-
-Siebel/TDMS Reference Number:
-  5679612
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 January 2009
-
-ISSN:
- 1445-2782
+Therefore, pursuant to paragraph 114 of TR 2005/5, it can be concluded that Aus Co and US Co are 'unrelated' within the meaning of Article 11(3)(b) of the US Convention. Note: this ATO ID also applies to the provisions of other tax treaties that contain the term 'unrelated' and are equivalent to Article 11(3)(b) of the US Convention . Date of decision: 25 November 2008 Year of income: Year ended 30 June 2008 Legislative References: International Tax Agreements Act 1953 Schedule 2 Schedule 2, Article 11 Schedule 2, Article 11(3) Schedule 2, Article 11(3)(b) Schedule 2, Article 3(2) Schedule 2A Related Public Rulings (including Determinations) Taxation Ruling TR 2005/5 Keywords Debt interest Double tax agreements Interest income International tax Treaties United States Siebel/TDMS Reference Number: 5679612 Business Line: Public Groups and International Date of publication: 9 January 2009 ISSN: 1445-2782

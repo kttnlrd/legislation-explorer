@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/346
-==================================================
-
-Income Tax
- Research and Development Tax Offset and Franking Accounts: taxable companies
- FOI status: may be released
-
-This ATO Interpretative Decision is withdrawn from the database due to legislative changes to section 67-30 which took effect from 22 June 2006. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions up to, and including the 2005-06 year of income.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development Tax Offset and Franking Accounts: taxable companies FOI status: may be released This ATO Interpretative Decision is withdrawn from the database due to legislative changes to section 67-30 which took effect from 22 June 2006. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions up to, and including the 2005-06 year of income. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a refund of a research and development tax offset generate a franking debit under section 205-30 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. A refund of a research and development tax offset does not generate a franking debit under section 205-30 of the ITAA 1997.
@@ -30,84 +15,20 @@ Section 205-10 of the ITAA 1997 provides that each entity that is, or has ever b
 The company has a basic income tax liability of $30,000 for the income year, based on its taxable income of $100,000. In addition, the company is eligible for a tax offset of $48,000 under section 73I of the ITAA 1936, being 30 cents in the dollar of its $160,000 research and development deduction.
 The research and development tax offset is subject to the refundable tax offset rules in Division 67 of the ITAA 1997. Section 67-30 of the ITAA 1997 provides that you can get a refund of a tax offset that is subject to the refundable tax offset rules if the total of those offsets exceeds the amount of income tax that you would have to pay if you had not got those tax offsets (but had got all your other tax offsets).
 Subsection 4-10(3) of the ITAA 1997, provides that a tax offset reduces the amount of income tax you have to pay. Where a tax offset is refundable, that is, where it is subject to the refundable tax offset rules, the amount by which it exceeds the amount of income tax liability may be refunded.
-Under section 4-10 of the ITAA 1997, the company will work out its income tax liability as follows:
-
-Step 1
+Under section 4-10 of the ITAA 1997, the company will work out its income tax liability as follows: Step 1
 (Work out taxable incomefor the income year)
-$100,000
-
-Step 2
+$100,000 Step 2
 (Work out basic income tax liability)
 $30,000
-(company tax rate x $100,000)
-
-Step 3
-(Work out tax offsetsfor the income year)
-
-$48,000
-
-(research and development tax offset)
-
-Step 4
-(Income tax liability for the year)
-
-0
-
-(but $18,000 refundable to the company due to Division 67)
-
-The company has no liability to tax and will receive a refund of $18,000 generated by the research and development tax offset. In addition, the company will also have refunded to it the amount of $20,000 it paid in PAYG instalments.
-A franking debit is generated where an entity receives a refund of income tax. Subsection 205-35(1) of the ITAA 1997 provides that an entity receives a refund of income tax if and only if:
-
-(a) either:
-
-(i) the entity receives an amount as a refund; or
-(ii) the Commissioner applies a credit, or an RBA surplus against a liability or liabilities of the entity; and
-
-(b) the refund of the amount, or the application of the credit, represents in whole or in part a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax.
-
-The $20,000 representing a refund of PAYG instalments paid to satisfy the entity's previous liability to income tax will generate a franking debit equal to that amount.
+(company tax rate x $100,000) Step 3
+(Work out tax offsetsfor the income year) $48,000 (research and development tax offset) Step 4
+(Income tax liability for the year) 0 (but $18,000 refundable to the company due to Division 67) The company has no liability to tax and will receive a refund of $18,000 generated by the research and development tax offset. In addition, the company will also have refunded to it the amount of $20,000 it paid in PAYG instalments.
+A franking debit is generated where an entity receives a refund of income tax. Subsection 205-35(1) of the ITAA 1997 provides that an entity receives a refund of income tax if and only if: (a) either: (i) the entity receives an amount as a refund; or
+(ii) the Commissioner applies a credit, or an RBA surplus against a liability or liabilities of the entity; and (b) the refund of the amount, or the application of the credit, represents in whole or in part a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax. The $20,000 representing a refund of PAYG instalments paid to satisfy the entity's previous liability to income tax will generate a franking debit equal to that amount.
 The amount of $18,000 generated by the research and development tax offset is not a refund of income tax because it does not represent a return to the company of an amount paid or applied to satisfy its liability to pay income tax. There is no amount that has been returned to the company because the research and development tax offset arises from the operation of the tax law, and not from a payment made by the company in satisfaction of an income tax liability.
 Therefore, a refund of a research and development tax offset will not give rise to a franking debit under item 2 of the table in section 205-30 of the ITAA 1997.
-Date of decision:
-  22 March 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 205-10   section 205-30   section 67-30   section 4-10   subsection 205-35(1)
-Income Tax Assessment Act 1936   section 73I
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/345
-
-Keywords
-
-Franking debit
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 April 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-22 March 2004
-Original statement
-
-You are here
+Date of decision: 22 March 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 205-10 section 205-30 section 67-30 section 4-10 subsection 205-35(1)
+Income Tax Assessment Act 1936 section 73I Related ATO Interpretative Decisions ATO ID 2004/345 Keywords Franking debit Business Line: Public Groups and International Date of publication: 23 April 2004 ISSN: 1445-2782 history Date: Version: 22 March 2004
+Original statement You are here
 22 March 2004
 Archived

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/100
-==================================================
-
-Income Tax
- Complying superannuation fund: deductibility of premiums on 'whole of life policy' - subsection 295-465(1) of the ITAA 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Complying superannuation fund: deductibility of premiums on 'whole of life policy' - subsection 295-465(1) of the ITAA 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the trustee of a superannuation fund entitled to a deduction worked out under Item 1 of the table in subsection 295-465(1) of the Income Tax Assessment Act 1997 (ITAA 1997) for a premium paid for a whole of life policy where the premium is dissected between an entry fee and the investment component of the policy?
 Decision
 No, the trustee of a superannuation fund is not entitled to a deduction worked out under Item 1 of the table in subsection 295-465(1) of the ITAA 1997 for a premium paid for a whole of life policy where the premium is dissected between an entry fee and the investment component of the policy.
@@ -21,12 +10,8 @@ The trustee of a superannuation fund paid a single premium to a life insurance c
 Under the policy the trustee of the superannuation fund could select an investment option in relation to the policy.
 An entry fee of 6% of the premium is charged under the policy. In addition, annual policy fees and a 1.5% exit fee are also charged under the policy.
 The life insurance company will invest the balance of the premium (after the entry fee has been deducted) in accordance with the investment option selected by the trustee of the superannuation fund.
-The policy provides that a benefit is payable when either of the following occurs:
-
-•death of the insured member of the superannuation fund; or
-•surrender of the policy by the trustee of the superannuation fund
-
-The benefit payable on death of the insured member of the superannuation fund is 101% of the surrender value of the policy.
+The policy provides that a benefit is payable when either of the following occurs: •death of the insured member of the superannuation fund; or
+•surrender of the policy by the trustee of the superannuation fund The benefit payable on death of the insured member of the superannuation fund is 101% of the surrender value of the policy.
 The benefit payable on the surrender of the policy by the trustee of the superannuation fund is the surrender value of the policy.
 The surrender value of the policy is determined as the amount of premiums received, less fees charged under the policy (including the 6% entry fee) plus or minus any amounts that the life insurance company may add to or deduct from the value of the policy in relation to the investment returns of the life insurance company from the investment of the premium.
 Reasons for Decision
@@ -34,55 +19,8 @@ Subsection 295-465(1) of the ITAA 1997 allows the trustee of a complying superan
 A whole of life policy is defined in subsection 295-480(1) of the ITAA 1997 as an insurance policy that satisfies certain conditions.
 One of these conditions is that the premium is not dissected (refer to paragraph 295-480(1)(b) of the ITAA 1997).
 The design of subsection 295-465(1) of the ITAA 1997 indicates that the intent of Item 1 of the table to subsection 295-465(1) is to allow a deduction in relation to whole of life policies where the amount of the premium that is attributable to the risk component (that is, death or disability cover) is bundled with the amount of the premium attributable to the other components of the policy.
-The concept of bundling the components of a policy is discussed in Taxation Ruling TR 2003/14: Life insurance companies: the actuarial determination of fees and charges. Paragraph 6 of TR 2003/14 states that:
-
-A bundled policy includes a traditional whole of life or endowment policy. The components of the policy in respect of investment, risk and administration are bundled (that is, not readily identified) in the way the terms of the policy are defined and the manner the business is managed. Segregation of the components of the policy is impractical and inconsistent with the nature and management of the business.
-
-The policy entered into between the trustee of the superannuation fund and the life insurance company clearly identifies an investment component (being the amount of the premium less the 6% entry fee paid). The policy also includes an annual policy fee and an exit fee. The explicit nature of these fees indicates that the investment and other components of the policy are not bundled. While the policy does not specify how much of the fees relate to the risk and administration components of the policy, it is clear that these components of the policy are separate and distinct from the investment component of the policy.
+The concept of bundling the components of a policy is discussed in Taxation Ruling TR 2003/14: Life insurance companies: the actuarial determination of fees and charges. Paragraph 6 of TR 2003/14 states that: A bundled policy includes a traditional whole of life or endowment policy. The components of the policy in respect of investment, risk and administration are bundled (that is, not readily identified) in the way the terms of the policy are defined and the manner the business is managed. Segregation of the components of the policy is impractical and inconsistent with the nature and management of the business. The policy entered into between the trustee of the superannuation fund and the life insurance company clearly identifies an investment component (being the amount of the premium less the 6% entry fee paid). The policy also includes an annual policy fee and an exit fee. The explicit nature of these fees indicates that the investment and other components of the policy are not bundled. While the policy does not specify how much of the fees relate to the risk and administration components of the policy, it is clear that these components of the policy are separate and distinct from the investment component of the policy.
 Paragraph 295-480(1)(b) of the ITAA 1997 requires that the premium on an insurance policy not be dissected. The explicit identification of the entry fee indicates that the amount of the premium has been dissected between the investment component and other components. Therefore, the policy does not satisfy paragraph 295-480(1)(b) and is not a whole of life policy as defined in subsection 295-480(1) of the ITAA 1997.
 As the policy does not satisfy paragraph 295-480(1)(b) of the ITAA 1997, it is not necessary to consider whether the policy satisfies the conditions in the definition of a whole of life policy in paragraphs 295-480(1)(a) and (c) of the ITAA 1997.
-Accordingly, as the policy is not a whole of life policy as defined in subsection 295-480(1) of the ITAA 1997, the trustee is not entitled to a deduction worked out under Item 1 of the table in subsection 295-465(1) of the ITAA 1997.
-
-Note
-
-Although the trustee of the superannuation fund is not entitled to a deduction worked out under Item 1 of the table in subsection 295-465(1) of the ITAA 1997, a deduction may be allowable in respect of the premium if one of the other Items of the table in subsection 295-465(1) apply and the other requirements of subsection 295-465(1) are met.
-Date of decision:
-  28 August 2009
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 295-460   subsection 295-465(1)   subsection 295-480(1)   paragraph 295-480(1)(a)   paragraph 295-480(1)(b)   paragraph 295-480(1)(c)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2003/14
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/99
-
-Keywords
-
-Complying superannuation funds
- Death benefits - superannuation benefits
- Life insurance company
- Life insurance policies
- Insurance bonds
-
-Siebel/TDMS Reference Number:
-  6323661; 1-JT71BGC
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  11 September 2009
-
-Date reviewed:
-  6 November 2019
-
-ISSN:
- 1445-2782
+Accordingly, as the policy is not a whole of life policy as defined in subsection 295-480(1) of the ITAA 1997, the trustee is not entitled to a deduction worked out under Item 1 of the table in subsection 295-465(1) of the ITAA 1997. Note Although the trustee of the superannuation fund is not entitled to a deduction worked out under Item 1 of the table in subsection 295-465(1) of the ITAA 1997, a deduction may be allowable in respect of the premium if one of the other Items of the table in subsection 295-465(1) apply and the other requirements of subsection 295-465(1) are met.
+Date of decision: 28 August 2009 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 295-460 subsection 295-465(1) subsection 295-480(1) paragraph 295-480(1)(a) paragraph 295-480(1)(b) paragraph 295-480(1)(c) Related Public Rulings (including Determinations) Taxation Ruling TR 2003/14 Related ATO Interpretative Decisions ATO ID 2009/99 Keywords Complying superannuation funds Death benefits - superannuation benefits Life insurance company Life insurance policies Insurance bonds Siebel/TDMS Reference Number: 6323661; 1-JT71BGC Business Line: Public Groups and International Date of publication: 11 September 2009 Date reviewed: 6 November 2019 ISSN: 1445-2782

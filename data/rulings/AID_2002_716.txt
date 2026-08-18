@@ -1,50 +1,21 @@
 ATO Interpretative Decision
 ATO ID 2002/716
-==================================================
-
-Income Tax
- Depreciation - whether depreciation rates increased by 20% loading for purposes of undeducted PABV calculations
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Depreciation - whether depreciation rates increased by 20% loading for purposes of undeducted PABV calculations FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a purchaser acquires a pre-20 August 1980 unit of plant to which former Subdivision 58-C of the Income Tax Assessment Act 1997 (ITAA 1997) applies, is the depreciation rate used to calculate the undeducted pre-existing audited book value ("PABV") of the unit increased by a 20% loading?
 Decision
 Yes, the depreciation rate used to calculate the undeducted PABV of the unit is increased by the 20% loading that would have applied under the subsection 55(6) of the Income Tax Assessment Act 1936 (ITAA 1936) as in force immediately before the commencement of section 7 of the Taxation Laws Amendment Act (No 2) 1992 (former subsection 55(6) of the ITAA 1936).
 Facts
-The arrangement may be summarised as follows:
-
-1. During an income year after 4 August 1997 and prior to 1 July 2001, the purchaser acquired the assets used in the carrying on of a business by a tax exempt vendor ("TEV") within the meaning of former paragraph 58-150(1)(c) of the ITAA 1997. The purchaser used the assets to carry on the same business.
+The arrangement may be summarised as follows: 1. During an income year after 4 August 1997 and prior to 1 July 2001, the purchaser acquired the assets used in the carrying on of a business by a tax exempt vendor ("TEV") within the meaning of former paragraph 58-150(1)(c) of the ITAA 1997. The purchaser used the assets to carry on the same business.
 2. The purchased assets included a number of units of plant which the TEV had originally acquired before 20 August 1980 ("old plant").
 3. The TEV's balance sheet for the year ended 30 June 1996 specified values for each unit of old plant which satisfied the requirements to be PABVs under former section 58-10 of ITAA 1997.
-4. The purchaser has, in relation to each unit of old plant, chosen under former paragraph 58-155(1)(b) of the ITAA 1997 to calculate depreciation deductions by reference to the undeducted PABV of the unit.
-
-Reasons for Decision
-
-Tax Law
-
-Choice under Division 58 to calculate depreciation deductions for transitional plant by reference to undeducted PABV
-
-Division 58 of ITAA 1997 sets out special rules for calculating depreciation deductions and balancing adjustments in respect of certain plant previously owned by an exempt entity. Division 58 as originally enacted was repealed and replaced with the current streamlined Division 58 which applies to privatisations occurring on or after 1 July 2001: see item 244 of Schedule 2 of New Business Tax System (Capital Allowances-Transitional and Consequential) Act 2001.
+4. The purchaser has, in relation to each unit of old plant, chosen under former paragraph 58-155(1)(b) of the ITAA 1997 to calculate depreciation deductions by reference to the undeducted PABV of the unit. Reasons for Decision Tax Law Choice under Division 58 to calculate depreciation deductions for transitional plant by reference to undeducted PABV Division 58 of ITAA 1997 sets out special rules for calculating depreciation deductions and balancing adjustments in respect of certain plant previously owned by an exempt entity. Division 58 as originally enacted was repealed and replaced with the current streamlined Division 58 which applies to privatisations occurring on or after 1 July 2001: see item 244 of Schedule 2 of New Business Tax System (Capital Allowances-Transitional and Consequential) Act 2001.
 Former Subdivision 58-C of the ITAA 1997 applies to plant acquired by a purchaser in connection with the acquisition of a business from a TEV on or after 4 August 1997 and before 1 July 2001.
 Under former subsection 58-155(1) of the ITAA 1997, the purchaser must choose to calculate depreciation deductions in relation to a unit of such plant by reference to either (a) the notional written down value of the unit; or (b) the undeducted PABV of the unit. Where a purchaser chooses (b), the opening cost of the unit to the purchaser for depreciation purposes is taken to be the sum of (i) the undeducted PABV of the unit in relation to the TEV; and (ii) any incidental costs to the purchaser in respect of acquiring the unit: see former subsection 58-220(1) of the ITAA 1997.
 The calculation of the undeducted PABV of a unit depends on whether the date of the PABV (i.e. the PABV test time) is one year or more before the privatisation date. If it is, the PABV must be reduced by PABV notional depreciation assumed to have been allowed to the TEV in respect of the unit: see former paragraph 58-265(b) of the ITAA 1997.
-In calculating this PABV notional depreciation, the unit is assumed to have been used wholly for the purpose of producing assessable income by the TEV for the period beginning at the PABV test time and ending immediately before the privatisation time: see former section 58-245 of the ITAA 1997.
-
-Depreciation rates used for calculating PABV notional depreciation
-
-The depreciation rates used for PABV notional depreciation purposes are calculated by reference to the relevant depreciation regime that would have applied to the unit under ITAA 1936 and/or ITAA 1997 as determined by the date upon which the TEV originally acquired the unit. A general discussion of the various depreciation regimes that have applied under ITAA 1936 is contained in Taxation Ruling IT 2685: Income Tax: Depreciation.
+In calculating this PABV notional depreciation, the unit is assumed to have been used wholly for the purpose of producing assessable income by the TEV for the period beginning at the PABV test time and ending immediately before the privatisation time: see former section 58-245 of the ITAA 1997. Depreciation rates used for calculating PABV notional depreciation The depreciation rates used for PABV notional depreciation purposes are calculated by reference to the relevant depreciation regime that would have applied to the unit under ITAA 1936 and/or ITAA 1997 as determined by the date upon which the TEV originally acquired the unit. A general discussion of the various depreciation regimes that have applied under ITAA 1936 is contained in Taxation Ruling IT 2685: Income Tax: Depreciation.
 The "broadbanding" depreciation regime (refer paragraphs 33 - 47 of IT 2685), which commenced in the 1992 income year, applied to most plant acquired before 27 February 1992. Under the broadbanding rules, basic depreciation rates for most plant were increased by a standard 20% loading: see former subsection 55(6) of ITAA 1936. Note that the 20% loading did not apply to some plant ("excluded units"), such as certain motor vehicles: see former paragraph 55(6)(b) of ITAA 1936.
-Former paragraph 58-255(b) of ITAA 1997 provides that, if this 20% loading under the broadbanding rules had applied in relation to the TEV's assumed assessable use of the unit, the 20% loading is to be taken into account in calculating the depreciation rate to be used for PABV notional depreciation purposes.
-
-Applying the tax law to this arrangement
-
-The purchaser has chosen to calculate depreciation deductions in relation to each unit of old plant by reference to its undeducted PABV.
+Former paragraph 58-255(b) of ITAA 1997 provides that, if this 20% loading under the broadbanding rules had applied in relation to the TEV's assumed assessable use of the unit, the 20% loading is to be taken into account in calculating the depreciation rate to be used for PABV notional depreciation purposes. Applying the tax law to this arrangement The purchaser has chosen to calculate depreciation deductions in relation to each unit of old plant by reference to its undeducted PABV.
 As the period between the PABV date (30 June 1996) and the privatisation date is more than one year, each PABV must be notionally depreciated for this period to calculate the undeducted PABV of the old plant in relation to the TEV.
 As the old plant was acquired by the TEV before 27 February 1992 the depreciation rates used for PABV notional depreciation purposes are calculated by reference to the broadbanding depreciation regime.
 As the 20% loading under the broadbanding rules would have applied to the TEV's assumed assessable use of the old plant (not being excluded units) during the 1997 - 2000 income years up until the privatisation date, this 20% loading is to be taken into account in calculating the depreciation rates to be used for PABV notional depreciation purposes.
@@ -54,58 +25,15 @@ On 1 October 1999 the purchaser acquired the unit in connection with the acquisi
 The purchaser chooses to calculate depreciation deductions and balancing adjustments by reference to the undeducted PABV of the unit. As the period between the PABV test time (30 June 1996) and the privatisation date (1 October 1999) is more than one year, the PABV of the unit must be notionally depreciated for this period to calculate its undeducted PABV in relation to the TEV.
 For PABV notional depreciation purposes, the purchaser selects (under former section 58-250 of the ITAA 1997) that TEV will use the prime cost method of depreciation. As the unit was originally acquired by the TEV prior to 27 February 1992, the depreciation rate used for PABV notional depreciation purposes is calculated by reference to the broadbanding depreciation regime. The 20% loading under the broadbanding rules would have applied to the TEV's assumed assessable use of the unit in the period from 1 July 1996 to 1 October 1999. Therefore, that 20% loading is to be taken into account in calculating the depreciation rate to be used for PABV notional depreciation purposes.
 This results in a prime cost depreciation rate of 3% for PABV notional depreciation purposes, calculated as follows: basic depreciation rate of 2.5% (1/40 x 100%) increased by 20% loading (2.5% x 1.2 = 3%).
-The undeducted PABV of the unit in relation to the TEV is calculated as follows:
-
-PABV at the test time
-90,000.00
-
-Less PABV notional depreciation
-
-1997 year
+The undeducted PABV of the unit in relation to the TEV is calculated as follows: PABV at the test time
+90,000.00 Less PABV notional depreciation 1997 year
 [90,000 x 3%]
-(2,700.00)
-
-1998 year
+(2,700.00) 1998 year
 [90,000 x 3%]
-(2,700.00)
-
-1999 year
+(2,700.00) 1999 year
 [90,000 x 3%]
-(2,700.00)
-
-2000 year
+(2,700.00) 2000 year
 [90,000 x 3% x 92/365]
-(680.55)
-
-Undeducted PABV (Cost to the Purchaser)
-$81,219.45
-
-Date of decision:
-  22 May 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 58-10   paragraph 58-150(1)(b)   paragraph 58-150(1)(c)   subsection 58-155(1)   subsection 58-220(1)   section 58-245   section 58-250   paragraph 58-255(b)   paragraph 58-265(b)
-Income Tax Assessment Act 1936   subsection 55(6)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2685
-
-Keywords
-
-Depreciation rates
- Depreciation loadings
- Notional depreciation
-
-Siebel/TDMS Reference Number:
-  CAS104672
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 July 2002
-
-ISSN:
- 1445-2782
+(680.55) Undeducted PABV (Cost to the Purchaser)
+$81,219.45 Date of decision: 22 May 2002 Legislative References: Income Tax Assessment Act 1997 section 58-10 paragraph 58-150(1)(b) paragraph 58-150(1)(c) subsection 58-155(1) subsection 58-220(1) section 58-245 section 58-250 paragraph 58-255(b) paragraph 58-265(b)
+Income Tax Assessment Act 1936 subsection 55(6) Related Public Rulings (including Determinations) Taxation Ruling IT 2685 Keywords Depreciation rates Depreciation loadings Notional depreciation Siebel/TDMS Reference Number: CAS104672 Business Line: Public Groups and International Date of publication: 31 July 2002 ISSN: 1445-2782

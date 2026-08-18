@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/590
-==================================================
-
-Income Tax
- Commercial debt forgiveness - debt forgiven because of inability to repay and reasons of love and affection.
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Commercial debt forgiveness - debt forgiven because of inability to repay and reasons of love and affection. FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a Debtor is unable to repay part of a debt can paragraph 245-40(c) of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936) operate to cause the Schedule not to apply to the forgiveness of that part of the debt where the balance of the debt is forgiven by the creditor for reasons of natural love and affection?
 Decision
 No. Paragraph 245-40(c) of Schedule 2C to the ITAA 1936 will only operate to exclude the balance of the debt that the debtor could have repaid.
@@ -28,29 +17,4 @@ Section 245-245 of Schedule 2C to the ITAA 1936 defines debt for the purposes of
 As the Creditor had two distinct reasons for the forgiveness it is considered that two acts of forgiveness have occurred in these circumstances, in relation to the two respective parts of the overall debt.
 Firstly, it is accepted that the forgiveness in respect of the one third part of the debt that Debtor was able to repay, is excluded from the operation of Schedule 2C to the ITAA 1936 pursuant to paragraph 245-40(c) thereof.
 Secondly, the balance of the debt that Debtor was unable to repay has also been forgiven pursuant to subsection 245-35(1) of Schedule 2C to the ITAA 1936 but that forgiveness is not excluded by paragraph 245-40(c) thereof, because it was forgiven due to an inability to repay, rather than for reasons of natural love and affection.
-Date of decision:
-  23 June 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2C, section 245-10   Schedule 2C, section 245-25   Schedule 2C, section 245-35   Schedule 2C, paragraph 245-40(c)   Schedule 2C, section 245-245
-
-Keywords
-
-Debt forgiveness
- Debt waivers
-
-Siebel/TDMS Reference Number:
-  3652055
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 July 2003
-
-ISSN:
- 1445-2782
+Date of decision: 23 June 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 Schedule 2C, section 245-10 Schedule 2C, section 245-25 Schedule 2C, section 245-35 Schedule 2C, paragraph 245-40(c) Schedule 2C, section 245-245 Keywords Debt forgiveness Debt waivers Siebel/TDMS Reference Number: 3652055 Business Line: Public Groups and International Date of publication: 18 July 2003 ISSN: 1445-2782

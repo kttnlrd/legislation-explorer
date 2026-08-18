@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/39
-==================================================
-
-Income Tax
- Dividends paid on redeemable preference shares treated as a 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) of the Income Tax Assessment Act 1997
- FOI status: may be released
-
-While the ATO view expressed within the ATOID is technically correct, the way the position has been explained within the ATOID is not accurate and could lead to some unintended interpretations and outcomes. If it is determined that an ATOview is still required then a replacement ATO ID will be drafted.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Dividends paid on redeemable preference shares treated as a 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) of the Income Tax Assessment Act 1997 FOI status: may be released While the ATO view expressed within the ATOID is technically correct, the way the position has been explained within the ATOID is not accurate and could lead to some unintended interpretations and outcomes. If it is determined that an ATOview is still required then a replacement ATO ID will be drafted. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the dividends paid on redeemable preference shares (RPS) to a taxpayer, being the holder of the RPS, a 'cost' for the purposes of 'controlled foreign entity equity' in subparagraph 820-890(1)(b)(ii) of the Income Tax Assessment Act 1997 ( ITAA 1997)?
 Decision
 Yes. The dividends paid on RPS to a taxpayer, being the holder of the RPS, are a 'cost' included in the meaning of 'debt deduction' by paragraph 820-40(1)(a) of the ITAA 1997 - and are thus a 'cost' for the purposes of 'controlled foreign entity equity' in subparagraph 820-890(1)(b)(ii) of the ITAA 1997.
@@ -26,100 +11,36 @@ The taxpayer is an outward investing entity for the purposes of Division 820 of 
 The taxpayer used borrowed funds to subscribe for RPS in X Co, a foreign resident entity. X Co is an 'Australian controlled foreign entity' of the taxpayer in accordance with section 820-745 of the ITAA 1997.
 X Co uses the funds to invest in a portfolio of Loans. The Loans would pay a fixed margin rate plus a contingent amount linked to the performance of a trading portfolio.
 X Co pays RPS dividends to the taxpayer in relation to its RPS holding in X Co.
-As part of the RPS issued to the taxpayer by X Co:
-
-•X Co shall redeem all of the RPS on the Mandatory Redemption Date, to occur within 10 years of the date of issue;
+As part of the RPS issued to the taxpayer by X Co: •X Co shall redeem all of the RPS on the Mandatory Redemption Date, to occur within 10 years of the date of issue;
 •X Co may redeem the RPS prior to the Mandatory Redemption Date at the taxpayer's option;
 •the taxpayer and other RPS holders have the right to require X Co to redeem the RPS; and
-•the taxpayer and other RPS holders shall be entitled to convert them into ordinary shares at their option.
-
-The RPS meet the requirements for a 'debt interest' under subsection 974-20(1) of the ITAA 1997.
+•the taxpayer and other RPS holders shall be entitled to convert them into ordinary shares at their option. The RPS meet the requirements for a 'debt interest' under subsection 974-20(1) of the ITAA 1997.
 Reasons for Decision
 Section 820-890 of the ITAA 1997 sets out the definition of 'controlled foreign entity equity' (CFE equity) for thin capitalisation purposes under Division 820 of the ITAA 1997.
-Subsection 820-890(1) of the ITAA 1997 provides that the relevant entity's CFE equity at a particular time during the relevant period is the total value of:
-
-(a)all the *equity interests that the entity holds, at that time, in entities that are controlled entities of the relevant entity at that time; and
-(b)all the *debt interests *on issue and held by the entity at that time that satisfy both of the following:
-
-(i)the interests were *issued by entities that are controlled entities of the relevant entity at that time;
-(ii)none of the interests gives rise to any cost, at any time, that is covered by paragraph 820-40(1)(a).
-
-Thus, subparagraph 820-890(1)(b)(ii) of the ITAA 1997 relevantly provides that a 'debt interest' held by an entity at the relevant time, is included in the entity's CFE equity, if the 'debt interest' does not give rise to any cost, at any time, that is covered by paragraph 820-40(1)(a) of the ITAA 1997.
+Subsection 820-890(1) of the ITAA 1997 provides that the relevant entity's CFE equity at a particular time during the relevant period is the total value of: (a)all the *equity interests that the entity holds, at that time, in entities that are controlled entities of the relevant entity at that time; and
+(b)all the *debt interests *on issue and held by the entity at that time that satisfy both of the following: (i)the interests were *issued by entities that are controlled entities of the relevant entity at that time;
+(ii)none of the interests gives rise to any cost, at any time, that is covered by paragraph 820-40(1)(a). Thus, subparagraph 820-890(1)(b)(ii) of the ITAA 1997 relevantly provides that a 'debt interest' held by an entity at the relevant time, is included in the entity's CFE equity, if the 'debt interest' does not give rise to any cost, at any time, that is covered by paragraph 820-40(1)(a) of the ITAA 1997.
 A common example of a 'debt interest' that does not give rise to a cost at any time, that is covered by paragraph 820-40(1)(a) of the ITAA 1997, is an interest free loan. Such a loan is effectively treated as quasi-equity because, although it is not an 'equity interest', it does provide capital to fund an entity's operations for which no debt deductions are claimed.
 However, a 'debt interest' that does not give rise to a 'cost' at any time, and is covered by paragraph 820-40(1)(a) of the ITAA 1997, is not confined to an interest free loan. This is because Division 820 of the ITAA 1997 operates in conjunction with Division 974 of the ITAA 1997 - with the application of Division 820 being dependent on the statutory classification of financing arrangements into debt interests and equity interests under Division 974.
 Accordingly, the definition of a 'debt deduction' in section 820-40 of the ITAA 1997 takes its meaning from the overall scheme of Division 974 of the ITAA 1997. Hence, a 'debt deduction' is essentially a cost of money (or a financing cost) within the scheme of Division 974.
 Subsection 820-40(1) of the ITAA 1997 specifically includes in the meaning of 'debt deduction' of an entity a 'cost' incurred by the entity in relation to a 'debt interest' issued by the entity - to the extent to which the 'cost' is covered by any of the amounts listed in paragraph 820-40(1)(a) of the ITAA 1997 and which would, apart from the operation of Division 820 of the ITAA 1997, be deductible for the year of income.
 As previously noted, X Co issued the RPS which were 'on issue' and held by the taxpayer. The RPS are a 'debt interest' as defined in subsection 974-20(1) of the ITAA 1997.
-Therefore, any cost incurred by X Co in relation to the RPS will be a cost covered by paragraph 820-40(1)(a) of the ITAA 1997, if the cost is one of the amounts listed in the paragraph. Of particular relevance to the facts in the present case is subparagraph 820-40(1)(a)(iii) of the ITAA 1997, which includes a 'cost' incurred by X Co (the issuer of the 'debt interest') to the extent to which the 'cost' is:
-
-(iii)any amount directly incurred in obtaining or maintaining the financial benefits received, or to be received, by the entity under the scheme giving rise to the debt interest.
-
-The dividend paid by X Co is an 'amount directly incurred in obtaining ... the financial benefits received' by X Co (namely the capital paid by the taxpayer for the RPS) under the scheme giving rise to the 'debt interest' (the RPS). To satisfy the requirements of subparagraph 820-40(1)(a)(iii) of the ITAA 1997, however, the dividend itself must be a 'cost'.
+Therefore, any cost incurred by X Co in relation to the RPS will be a cost covered by paragraph 820-40(1)(a) of the ITAA 1997, if the cost is one of the amounts listed in the paragraph. Of particular relevance to the facts in the present case is subparagraph 820-40(1)(a)(iii) of the ITAA 1997, which includes a 'cost' incurred by X Co (the issuer of the 'debt interest') to the extent to which the 'cost' is: (iii)any amount directly incurred in obtaining or maintaining the financial benefits received, or to be received, by the entity under the scheme giving rise to the debt interest. The dividend paid by X Co is an 'amount directly incurred in obtaining ... the financial benefits received' by X Co (namely the capital paid by the taxpayer for the RPS) under the scheme giving rise to the 'debt interest' (the RPS). To satisfy the requirements of subparagraph 820-40(1)(a)(iii) of the ITAA 1997, however, the dividend itself must be a 'cost'.
 The term 'cost' used in paragraph 820-40(1)(a) of the ITAA 1997 is not a defined term for the purposes of the thin capitalisation provisions under Division 820 of the ITAA 1997. Accordingly, the ordinary meaning of the term applies. However, in the context of the thin capitalisation provisions, the Treasury discussion paper titled Thin Capitalisation: Application of Accounting Standards (November 2006) stated at page 5 that:
 The Review of Board Taxation (commissioned by the Government in 1998) considered it appropriate to have regard to accounting principles in the development of taxation legislation. In view of this, it was decided that the recognition and valuation of assets, liabilities and equity capital for thin capitalisation purposes would be conducted in accordance with applicable accounting standards (issued by the Australian Accounting Standards Board).
-It is therefore appropriate to consider the accounting meaning of 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) and paragraph 820-40(1)(a) of the ITAA 1997. This requires a consideration of the Australian Accounting Standards Board (AASB).
-
-AASB 132: Financial Instruments Presentation
-
-The relevant accounting standard for financial instruments which includes redeemable preference shares is contained in 'AASB 132 : Financial Instruments Presentation' (AASB 132).
+It is therefore appropriate to consider the accounting meaning of 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) and paragraph 820-40(1)(a) of the ITAA 1997. This requires a consideration of the Australian Accounting Standards Board (AASB). AASB 132: Financial Instruments Presentation The relevant accounting standard for financial instruments which includes redeemable preference shares is contained in 'AASB 132 : Financial Instruments Presentation' (AASB 132).
 According to AASB 132, the classification of the financial instrument (that is, the RPS) as equity or liability, in substance rather than legal form, will determine whether the associated payment from the financial instrument (that is, the dividend) is a 'cost'. If the accounting characterisation of the RPS is that of a 'liability', the dividend payments from the RPS will have the characterisation of a 'cost'.
 Alternatively, if the accounting characterisation of the RPS is that of 'equity', the dividends have the characterisation of payments made out of profits. In this instance, the dividends cannot be treated as a 'cost'.
 Paragraph 18 of AASB 132 relevantly states that:
 a preference share that provides for mandatory redemption by the issuer for a fixed or determinable amount at a fixed or determinable future date, or gives the holder the right to require the issuer to redeem the instrument at or after a particular date for a fixed or determinable amount, is a financial liability....
-The following features of the RPS issued to the taxpayer by X Co indicate that the RPS is a 'liability' for accounting purposes:
-
-•X Co shall redeem all of the RPS on the Mandatory Redemption Date;
+The following features of the RPS issued to the taxpayer by X Co indicate that the RPS is a 'liability' for accounting purposes: •X Co shall redeem all of the RPS on the Mandatory Redemption Date;
 •X Co may redeem the RPS prior to the Mandatory Redemption Date at the taxpayer's option;
 •the taxpayer and other RPS holders have the right to require X Co to redeem the RPS; and
-•the taxpayer and other holders of the RPS shall be entitled to convert them into ordinary shares at their option.
-
-Therefore, the dividend paid from the RPS is recognised under AASB 132 as a 'cost'. Accordingly, the dividend is a 'cost' covered by subparagraph 820-40(1)(a)(iii) of the ITAA 1997 and so is a 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) of the ITAA 1997.
+•the taxpayer and other holders of the RPS shall be entitled to convert them into ordinary shares at their option. Therefore, the dividend paid from the RPS is recognised under AASB 132 as a 'cost'. Accordingly, the dividend is a 'cost' covered by subparagraph 820-40(1)(a)(iii) of the ITAA 1997 and so is a 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) of the ITAA 1997.
 This is consistent with the intended operation of section 820-40 of the ITAA 1997, which was to include dividends (that are classified as costs) in relation to debt interests, within the ambit of debt deductions potentially subject to disallowance under Division 820 of the ITAA 1997.
 As the dividend paid from the RPS 'debt interest' is a 'cost' for the purposes of subparagraph 820-890(1)(b)(ii) of the ITAA 1997, the RPS will not be included in the taxpayer's CFE equity calculation.
-Date of decision:
-  16 December 2009
-
-Year of income:
-  Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)
-Income Tax Assessment Act 1997   Division 820   section 820-40   paragraph 820-40(1)(a)   subparagraph 820-40(1)(a)(iii)   subsection 820-40(2)   section 820-745   section 820-890   subsection 820-890(1)   subparagraph 820-890(1)(b)(ii)   Division 974   subsection 974-20(1)
-
-Other References:
-
-Treasury discussion paper, Thin Capitalisation: Application of Accounting Standards (November 2006)
- Australian Accounting Standards Board (AASB), AASB 132: Financial Instruments Presentation
-
-Keywords
-
-Accounting standards
- Dividend income
- International tax
- Thin capitalisation
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 February 2010
-
-ISSN:
- 1445 - 2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-16 December 2009
-Original statement
-
-You are here
+Date of decision: 16 December 2009 Year of income: Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 subsection 6(1)
+Income Tax Assessment Act 1997 Division 820 section 820-40 paragraph 820-40(1)(a) subparagraph 820-40(1)(a)(iii) subsection 820-40(2) section 820-745 section 820-890 subsection 820-890(1) subparagraph 820-890(1)(b)(ii) Division 974 subsection 974-20(1) Other References: Treasury discussion paper, Thin Capitalisation: Application of Accounting Standards (November 2006) Australian Accounting Standards Board (AASB), AASB 132: Financial Instruments Presentation Keywords Accounting standards Dividend income International tax Thin capitalisation Business Line: Public Groups and International Date of publication: 12 February 2010 ISSN: 1445 - 2782 history Date: Version: 16 December 2009
+Original statement You are here
 10 August 2016
 Archived

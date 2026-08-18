@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/39
-==================================================
-
-Income Tax
- Continuing Majority-Owned Entity Test
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Continuing Majority-Owned Entity Test FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the trading stock assets of an entity that becomes a subsidiary member of a consolidated group be retained cost base assets for the purposes of Division 705 of Income Tax Assessment Act 1997 (ITAA 1997) where the subsidiary member fails to meet the requirements of section 701A-1 of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997)?
 Decision
 No. The trading stock assets of a subsidiary member are not eligible to be treated as retained cost base assets where the subsidiary member fails to meet the requirement of section 701A-1 of the IT(TP)A 1997.
@@ -26,51 +15,10 @@ Reasons for Decision
 The integrity measures in relation to trading stock (section 701A-5 of the IT(TP)A 1997) and internally generated assets (section 701A-10 of the IT(TP)A 1997) apply to an entity that is a continuing majority-owned entity under section 701A-1 of the IT(TP)A 1997.
 An entity is a continuing majority-owned entity if that entity becomes a subsidiary member of a consolidated group on or after 1 July 2002 and a person or persons continued to be the majority owners of the entity from the start of 27 June 2002 until the entity became a subsidiary member of the group (subsection 701A-1(1) of the IT(TP)A 1997). A person or persons are the majority owners of an entity if they beneficially own, directly or indirectly through one or more interposed entities, membership interests in the entity whose market value is more than 50% of the market value of all of the membership interests in the entity (subsection 701A-1(2) of the IT(TP)A 1997).
 The majority owner/s referred to in subsection 701A-1(2) of the IT(TP)A 1997 are the ultimate beneficial owners.
-Paragraph 1 of Taxation Determination TD 2004/88 states that:
-
-In determining whether there has been a change in the majority ownership of an entity, for the purpose of applying the continuing majority-owned entity test in section 701A-1 of the Income Tax (Transitional Provisions) Act 1997 ('IT(TP)A 1997'), it is necessary to trace through all interposed entities to the ultimate beneficial owners of the entity.
-
-To determine continuing majority-ownership it is therefore necessary to 'look through' a consolidated group to ascertain the ultimate beneficial owners of each individual entity that become a subsidiary member. That is, the continuing majority-owned entity test under section 701A-1 of the IT(TP)A 1997 is applied at the individual entity level since the section requires an examination of the individual entity's ultimate beneficial ownership starting from 27 June 2002 until becoming a subsidiary member of a consolidated group.
+Paragraph 1 of Taxation Determination TD 2004/88 states that: In determining whether there has been a change in the majority ownership of an entity, for the purpose of applying the continuing majority-owned entity test in section 701A-1 of the Income Tax (Transitional Provisions) Act 1997 ('IT(TP)A 1997'), it is necessary to trace through all interposed entities to the ultimate beneficial owners of the entity. To determine continuing majority-ownership it is therefore necessary to 'look through' a consolidated group to ascertain the ultimate beneficial owners of each individual entity that become a subsidiary member. That is, the continuing majority-owned entity test under section 701A-1 of the IT(TP)A 1997 is applied at the individual entity level since the section requires an examination of the individual entity's ultimate beneficial ownership starting from 27 June 2002 until becoming a subsidiary member of a consolidated group.
 If an entity is a continuing majority-owned entity, the operation of Part 3-90 of the ITAA 1997 is modified in relation to each asset of a continuing majority-owned entity that is trading stock just before the entity becomes a subsidiary member of the entity's designated group (section 701A-5 of the IT(TP)A 1997).
 In this case, it is necessary to look at ACo, BCo, DCo and ECo and test whether each individual entity is majority owned at all times from the start of 27 June 2002 until the entity became a subsidiary member of YCo's consolidated group.
 There has been no change in the ultimate beneficial ownership of ACo and BCo throughout the test period. Therefore, ACo and BCo as individual entities satisfy the continuing majority-owned entity requirement under section 701A-1 of the IT(TP)A 1997.
 In respect of DCo and ECo, the acquisition by ACo of the shares in DCo in 2004 means a person or persons did not continue to be the majority owners of those entities in the test period of 27 June 2002 until the entities became a subsidiary member of YCo's consolidated group. Therefore, DCo and ECo are not continuing majority-owned entities under section 701A-1 of the IT(TP)A 1997.
 Even though ACo is a continuing majority-owned entity, it does not hold trading stock as an individual entity on a 'look through' basis in order for section 701A-5 of the IT(TP)A 1997 to apply. BCo on the other hand is a continuing majority-owned entity and holds trading stock as an individual entity. Thus, the trading stock assets held by BCo are eligible to be treated as retained cost base assets. The trading stock assets held by DCo and ECo are not eligible to be treated as retained cost base assets because those entities are not continuing majority-owned entities under section 701A-1 of the IT(TP)A 1997.
-Date of decision:
-  14 December 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax (Transitional Provisions) Act 1997   section 701A-1   subsection 701A-1(1)   paragraph 701A-1(1)(a)   paragraph 701A-1(1)(b)   subsection 701A-1(2)   section 701A-5   section 701A-10
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2004/88
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/197
- ATO ID 2004/735
-
-Keywords
-
-Consolidated group
- Reset cost base asset
- Retained cost base asset
- Subsidiary member of a consolidated group
- Trading stock
-
-Siebel/TDMS Reference Number:
-  5537979
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  23 February 2007
-
-ISSN:
- 1445-2782
+Date of decision: 14 December 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax (Transitional Provisions) Act 1997 section 701A-1 subsection 701A-1(1) paragraph 701A-1(1)(a) paragraph 701A-1(1)(b) subsection 701A-1(2) section 701A-5 section 701A-10 Related Public Rulings (including Determinations) Taxation Determination TD 2004/88 Related ATO Interpretative Decisions ATO ID 2004/197 ATO ID 2004/735 Keywords Consolidated group Reset cost base asset Retained cost base asset Subsidiary member of a consolidated group Trading stock Siebel/TDMS Reference Number: 5537979 Business Line: Consolidation Centre of Expertise Date of publication: 23 February 2007 ISSN: 1445-2782

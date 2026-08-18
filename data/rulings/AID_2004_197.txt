@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/197
-==================================================
-
-Income Tax
- Income Tax: Consolidation - treatment of work-in-progress
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax: Consolidation - treatment of work-in-progress FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the work-in-progress (that is classed as trading stock) of an entity joining a consolidated group be a retained cost base asset for the purposes of Division 705 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. Work-in-progress (that is classed as trading stock) can be a retained cost base asset for the purposes of Division 705 of the ITAA 1997, provided that the joining entity is a continuing majority-owned entity from 27 June 2002 to the time when it becomes a subsidiary member of a consolidated group.
@@ -24,49 +13,12 @@ Company C has been continually owned by Company A (75% of share holding) and Com
 On 1 July 2002, Company A and its wholly-owned subsidiaries (Company D and Company E) form a consolidated group.
 On 1 August 2002, Company A purchases Company B's 25% shareholding in Company C, with the consequence that Company C is now 100% wholly-owned and must join the consolidated group.
 Reasons for Decision
-The allocable cost amount is the amount that is allocated to the assets (except excluded assets) of an entity joining a consolidated group, or to the assets (except excluded assets) of a subsidiary member of a consolidated group on formation, to determine the tax cost of those assets at that time. All assets of the joining entity or assets of the subsidiary members of a consolidated group on formation can be categorised into a retained cost base asset, a reset cost base asset, or an excluded asset.
-
-History note
-
-Inserted "subsidiary" before the word member/s to the above paragraph on 16 March 2004
-
-Subsection 705-25(5) of the ITAA 1997 defines a retained cost base asset as Australian currency (other than trading stock or collectables), or a right to receive a specified amount of Australian currency (for example, a debt or a bank deposit), or an entitlement that is subject to a prepayment.
+The allocable cost amount is the amount that is allocated to the assets (except excluded assets) of an entity joining a consolidated group, or to the assets (except excluded assets) of a subsidiary member of a consolidated group on formation, to determine the tax cost of those assets at that time. All assets of the joining entity or assets of the subsidiary members of a consolidated group on formation can be categorised into a retained cost base asset, a reset cost base asset, or an excluded asset. History note Inserted "subsidiary" before the word member/s to the above paragraph on 16 March 2004 Subsection 705-25(5) of the ITAA 1997 defines a retained cost base asset as Australian currency (other than trading stock or collectables), or a right to receive a specified amount of Australian currency (for example, a debt or a bank deposit), or an entitlement that is subject to a prepayment.
 According to subsection 705-35(2) of the ITAA 1997, an asset is an excluded asset for consolidation purposes if an amount has been deducted in respect of the asset in working out the allocable cost amount.
 A reset cost base asset is an asset that is not a retained cost base asset or an excluded asset.
 Taken at face value, trading stock of an entity cannot be a retained cost base asset as it does not satisfy the definition in subsection 705-25(5) of the ITAA 1997. However, subsection 701A-5(3) of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997) specifies that trading stock is to be treated as a retained cost base asset when an entity becomes a subsidiary member of a consolidated group under certain circumstances. The circumstances exist where the entity is a continuing majority-owned entity.
 Subsection 701A-1(1) of the IT(TP)A 1997 provides that a continuing majority-owned entity is an entity that is majority owned at all times from the start of 27 June 2002 until the entity becomes a subsidiary member of a consolidated group on or after 1 July 2002.
 In this case, the majority of Company C's ownership has remained unchanged from 27 June 2002 until the date Company C became a member of the consolidated group, satisfying the requirements of subsection 701A-1(1) of the IT(TP)A 1997. As Company C has become a subsidiary member of a consolidated group, the requirements of subsection 701A-5(3) of the ITAA 1997 are also satisfied.
 Consequently, the work-in-progress account of Company C (a kind of trading stock) is a retained cost base asset for the purposes of Division 705 of the ITAA 1997.
-Date of decision:
-  28 October 2003
-
-Year of income:
-  Years ended 30 June 2003 and 2004
-
-Legislative References:
-
-Income Tax (Transitional Provisions) Act 1997   subsection 701A-1(1)   subsection 701A-5(3)
-Income Tax Assessment Act 1997   section 70-10   subsection 705-25(5)   subsection 705-35(2)   Division 705
-
-Keywords
-
-Consolidation
- Consolidation - assets
- Allocable cost amount
- Cost setting rules
- Reset cost base asset
- Retained cost base asset
- trading stock
- work-in-progress
-
-Siebel/TDMS Reference Number:
-  3759666
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  5 March 2004
-
-ISSN:
- 1445-2782
+Date of decision: 28 October 2003 Year of income: Years ended 30 June 2003 and 2004 Legislative References: Income Tax (Transitional Provisions) Act 1997 subsection 701A-1(1) subsection 701A-5(3)
+Income Tax Assessment Act 1997 section 70-10 subsection 705-25(5) subsection 705-35(2) Division 705 Keywords Consolidation Consolidation - assets Allocable cost amount Cost setting rules Reset cost base asset Retained cost base asset trading stock work-in-progress Siebel/TDMS Reference Number: 3759666 Business Line: Consolidation Centre of Expertise Date of publication: 5 March 2004 ISSN: 1445-2782

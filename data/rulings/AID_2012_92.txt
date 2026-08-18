@@ -1,141 +1,32 @@
 ATO Interpretative Decision
 ATO ID 2012/92
-==================================================
-
-Income Tax
- Deduction: interest expense to fund general reserve liquid assets
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deduction: interest expense to fund general reserve liquid assets FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In determining the profits attributable to a foreign bank's Australian permanent establishment under the business profits article of a tax treaty, is interest expense incurred by the foreign bank on its borrowings that fund the bank's general reserve liquid assets, managed and controlled for use outside Australia, deductible by the bank under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. In determining the profits attributable to the foreign bank's Australian permanent establishment under the business profits article of a tax treaty, interest expense incurred by a foreign bank on its borrowings that fund the bank's general reserve liquid assets, managed and controlled for use outside Australia, is not deductible by the bank under section 8-1 of ITAA 1997.
 Facts
-A foreign bank is incorporated in a country (
- home country
- ) with which Australia has entered into an agreement for the relief of double taxation (
- relevant tax treaty
- ). The foreign bank is a tax resident of the home country under both Australian domestic law and the relevant tax treaty. The foreign bank is regulated by its home country banking regulator.
-The foreign bank carries on business operations through a fixed place of business in Australia (
- Australian branch operations
- ).
+A foreign bank is incorporated in a country ( home country ) with which Australia has entered into an agreement for the relief of double taxation ( relevant tax treaty ). The foreign bank is a tax resident of the home country under both Australian domestic law and the relevant tax treaty. The foreign bank is regulated by its home country banking regulator.
+The foreign bank carries on business operations through a fixed place of business in Australia ( Australian branch operations ).
 APRA has granted a restricted Australian banking licence for the foreign bank's Australian branch operations.
-The Australian branch operations constitute business carried on by foreign bank through an Australian permanent establishment for the purposes of applying the relevant article (usually article 7) of the relevant tax treaty (
- business profits article
- ). Accordingly, profits attributable to the Australian branch operations may be taxed by Australia.
-The foreign bank maintains general reserve liquid assets (
- liquid reserve assets
- ) as required by its home country banking regulator. Under rules imposed by its home country banking regulator:
-
-•the liquid reserve assets of the foreign bank must comprise assets that qualify as high quality liquid assets, for example, certain government bonds and secured cash deposits;
-•the foreign bank is required to hold a minimum amount or value of liquid reserve assets to reflect future global net cash outflows of the foreign bank as estimated on particular bases.
-
-The liquid reserve assets are managed and controlled for use outside of Australia.
+The Australian branch operations constitute business carried on by foreign bank through an Australian permanent establishment for the purposes of applying the relevant article (usually article 7) of the relevant tax treaty ( business profits article ). Accordingly, profits attributable to the Australian branch operations may be taxed by Australia.
+The foreign bank maintains general reserve liquid assets ( liquid reserve assets ) as required by its home country banking regulator. Under rules imposed by its home country banking regulator: •the liquid reserve assets of the foreign bank must comprise assets that qualify as high quality liquid assets, for example, certain government bonds and secured cash deposits;
+•the foreign bank is required to hold a minimum amount or value of liquid reserve assets to reflect future global net cash outflows of the foreign bank as estimated on particular bases. The liquid reserve assets are managed and controlled for use outside of Australia.
 The foreign bank derives interest and other income from the liquid reserve assets.
 The foreign bank incurs interest expense on borrowings that fund the liquid reserve assets.
 The amount of the interest expense incurred exceeds the income derived from the liquid reserve assets in the income year.
 Reasons for Decision
 Subsection 3(2) of the International Tax Agreements Act 1953 (IAA) provides that the reference, in the business profits article of the relevant tax treaty, to profits attributable to business carried by the foreign bank through its Australian permanent establishment, is a reference to the Australian taxable income derived by the foreign bank from the business carried on through its Australian permanent establishment. Refer also to paragraph 3.29 of Taxation Ruling TR 2001/11.
-Accordingly, in the case of costs of a foreign bank carrying on banking business through an Australian permanent establishment, it is necessary to consider section 8-1 of ITAA 1997 and Part IIIB of ITAA 1936.
-
-Section 8-1 of ITAA 1997
-
-Interest expense incurred by the foreign bank is deductible under section 8-1 of ITAA 1997, in determining the profit of the foreign bank taxable in Australia under the business profits article of the relevant tax treaty, to the extent the interest expense is:
-
-•necessarily incurred by the foreign bank in gaining or producing its assessable income derived from its business carried on through its Australian permanent establishment, or in carrying on its business through its Australian permanent establishment for the purpose of gaining or producing such assessable income; and
-•not a loss or outgoing of capital or of a capital nature, and is not of a private or domestic nature.
-
-The above requirements of section 8-1 of the ITAA 1997 and subsection 3(2) of IAA are consistent with paragraph 3 of the business profits article of the relevant tax treaty, namely:
-
-'...there shall be allowed as deductions expenses of the enterprise, being expenses which are incurred for the purposes of the permanent establishment...'
-
-The interest expense incurred by the foreign bank on its borrowings that fund the liquid reserve assets does not satisfy the requirements of section 8-1 of the ITAA 1997 because no part of that interest expense was:
-
-•necessarily incurred by the foreign bank in gaining or producing its assessable income derived from its business operations carried on through its Australian permanent establishment; or
-•necessarily incurred by the foreign bank in carrying on its business operations carried on through its Australian permanent establishment for the purpose of gaining or producing assessable income derived from such business operations.
-
-The purpose of the borrowing and use of the borrowed funds for which the foreign bank incurred the interest expense was to fund the liquid reserve assets. The liquid reserve assets are not managed or controlled for use in the course of the business operations carried on by the foreign bank through its Australian fixed place of business. In relation to how the purpose of borrowing and the use or application of the borrowed funds are relevant in determining if interest satisfies the required nexus in section 8-1 of the ITAA 1997, refer to Kidston Goldmines Ltd v. Federal Commissioner of Taxation (1991) 30 FCR 77 at 85; (1991) 22 ATR 168; 91 ATC 4538 at 4545 to 4546, Spassked Pty Ltd v. Federal Commissioner of Taxation (2007) FCAFC 205; (2007) 67 ATR 900; 2007 ATC 5406 at 5424 and IEL Finance Ltd v. Federal Commissioner of Taxation [2010] FCA 898; 2010 ATC 20-209 at [14]; (2010) 272 ALR 640; [2011] ALMD 1946; (2010) 79 ATR 820.
+Accordingly, in the case of costs of a foreign bank carrying on banking business through an Australian permanent establishment, it is necessary to consider section 8-1 of ITAA 1997 and Part IIIB of ITAA 1936. Section 8-1 of ITAA 1997 Interest expense incurred by the foreign bank is deductible under section 8-1 of ITAA 1997, in determining the profit of the foreign bank taxable in Australia under the business profits article of the relevant tax treaty, to the extent the interest expense is: •necessarily incurred by the foreign bank in gaining or producing its assessable income derived from its business carried on through its Australian permanent establishment, or in carrying on its business through its Australian permanent establishment for the purpose of gaining or producing such assessable income; and
+•not a loss or outgoing of capital or of a capital nature, and is not of a private or domestic nature. The above requirements of section 8-1 of the ITAA 1997 and subsection 3(2) of IAA are consistent with paragraph 3 of the business profits article of the relevant tax treaty, namely: '...there shall be allowed as deductions expenses of the enterprise, being expenses which are incurred for the purposes of the permanent establishment...' The interest expense incurred by the foreign bank on its borrowings that fund the liquid reserve assets does not satisfy the requirements of section 8-1 of the ITAA 1997 because no part of that interest expense was: •necessarily incurred by the foreign bank in gaining or producing its assessable income derived from its business operations carried on through its Australian permanent establishment; or
+•necessarily incurred by the foreign bank in carrying on its business operations carried on through its Australian permanent establishment for the purpose of gaining or producing assessable income derived from such business operations. The purpose of the borrowing and use of the borrowed funds for which the foreign bank incurred the interest expense was to fund the liquid reserve assets. The liquid reserve assets are not managed or controlled for use in the course of the business operations carried on by the foreign bank through its Australian fixed place of business. In relation to how the purpose of borrowing and the use or application of the borrowed funds are relevant in determining if interest satisfies the required nexus in section 8-1 of the ITAA 1997, refer to Kidston Goldmines Ltd v. Federal Commissioner of Taxation (1991) 30 FCR 77 at 85; (1991) 22 ATR 168; 91 ATC 4538 at 4545 to 4546, Spassked Pty Ltd v. Federal Commissioner of Taxation (2007) FCAFC 205; (2007) 67 ATR 900; 2007 ATC 5406 at 5424 and IEL Finance Ltd v. Federal Commissioner of Taxation [2010] FCA 898; 2010 ATC 20-209 at [14]; (2010) 272 ALR 640; [2011] ALMD 1946; (2010) 79 ATR 820.
 There is, at best, a contingent connection between any part of the interest or other income derived from the liquid reserve assets managed and controlled for use by the foreign bank outside Australia and the business operations carried on by the foreign bank through its Australian permanent establishment for the purpose of gaining or producing the bank's assessable income. General reserve liquid assets of a foreign bank are inherently available to fund all kinds of future net cash outflows of the bank. The measurement, at any particular point in time, of the estimated future net cash flow needs of the Australian branch operations of the foreign bank in particular scenarios under the bank's method for determining the level or amount of its liquid reserve assets in accordance with rules imposed by its home country banking regulator, does not of itself enable the Commissioner to conclude that a particular part of the loss or outgoing for interest costs of funding any such liquid reserve assets (or a particular part of the income from the assets), acquired as a result of that measurement, is thereby a loss or outgoing incurred in (or income derived in) the course of the business operations carried on by the foreign bank through its Australian branch.
-This conclusion is consistent with paragraph 3.42 and paragraph 4.32 of Taxation Ruling TR 2001/11 Income tax: international transfer pricing - operation of Australia's permanent establishment attribution rules:
-
-3.42 To the extent that funds borrowed by an entity are used in connection with the business carried on through its PE, the interest expense incurred by the entity on those borrowings is attributable to the PE.
-
-...
-
-4.32 For each activity involving the PE it is necessary to identify the assets used (both tangible and intangible) and the risks assumed. In addition, it may be necessary to identify the liabilities and capital that are attributable to funding those assets and covering risks. On the assumption that a PE exists, it is the assets used (not owned) that matter, and the risks that are assumed, implicitly or explicitly, that have to be considered.
-
-If the foreign bank did, in the future, fund liabilities of its Australian branch operations from the proceeds of disposal of any of the liquid reserve assets, any interest expense incurred by the bank to fund such liabilities would thereby commence to be incurred in the course of the bank's Australian branch operations. A conclusion that the foreign bank could instead be treated as having incurred in the course of its Australian branch operations, for the purpose of applying section 8-1, a particular part of the interest expenses it incurs in funding the liquid reserve assets, no part of which are managed or controlled for use in the course of the Australian branch operations, would transgress the fundamental income tax principle that costs that are not yet incurred (in the course of the Australian branch operations) are not deductible in reducing Australian taxable income (from those Australian branch operations): refer to New Zealand Flax Investments Ltd v. Federal Commissioner of Taxation (1938) 61 CLR 179 at 207 (per Dixon J); (1938) 12 ALJ 313; (1938) 5 ATD 36 at 49-50; [1939] ALR 1, Emu Bay Railway Company Ltd. v. FC of T (1944) 7 ATD 455 at 460; (1944) 71 CLR 596 at 606; (1944) HCA 28, Federal Commissioner of Taxation v. James Flood Pty. Ltd (1953) 88 CLR 492 at 506 to 507; (1953) ALJ 481; (1953) 10 ATD 240 at 244; (1953) ALR 903; Nilsen Development Laboratories Pty. Ltd. & Ors v. Federal Commissioner of Taxation (1981) 144 CLR 616 at 62; (1981) 55 ALJR 97; (1981) 33 ALR 161; (1981) 11 ATR 505; (1981) 81 ATC 4031 at 4036 to 4037.
+This conclusion is consistent with paragraph 3.42 and paragraph 4.32 of Taxation Ruling TR 2001/11 Income tax: international transfer pricing - operation of Australia's permanent establishment attribution rules: 3.42 To the extent that funds borrowed by an entity are used in connection with the business carried on through its PE, the interest expense incurred by the entity on those borrowings is attributable to the PE. ... 4.32 For each activity involving the PE it is necessary to identify the assets used (both tangible and intangible) and the risks assumed. In addition, it may be necessary to identify the liabilities and capital that are attributable to funding those assets and covering risks. On the assumption that a PE exists, it is the assets used (not owned) that matter, and the risks that are assumed, implicitly or explicitly, that have to be considered. If the foreign bank did, in the future, fund liabilities of its Australian branch operations from the proceeds of disposal of any of the liquid reserve assets, any interest expense incurred by the bank to fund such liabilities would thereby commence to be incurred in the course of the bank's Australian branch operations. A conclusion that the foreign bank could instead be treated as having incurred in the course of its Australian branch operations, for the purpose of applying section 8-1, a particular part of the interest expenses it incurs in funding the liquid reserve assets, no part of which are managed or controlled for use in the course of the Australian branch operations, would transgress the fundamental income tax principle that costs that are not yet incurred (in the course of the Australian branch operations) are not deductible in reducing Australian taxable income (from those Australian branch operations): refer to New Zealand Flax Investments Ltd v. Federal Commissioner of Taxation (1938) 61 CLR 179 at 207 (per Dixon J); (1938) 12 ALJ 313; (1938) 5 ATD 36 at 49-50; [1939] ALR 1, Emu Bay Railway Company Ltd. v. FC of T (1944) 7 ATD 455 at 460; (1944) 71 CLR 596 at 606; (1944) HCA 28, Federal Commissioner of Taxation v. James Flood Pty. Ltd (1953) 88 CLR 492 at 506 to 507; (1953) ALJ 481; (1953) 10 ATD 240 at 244; (1953) ALR 903; Nilsen Development Laboratories Pty. Ltd. & Ors v. Federal Commissioner of Taxation (1981) 144 CLR 616 at 62; (1981) 55 ALJR 97; (1981) 33 ALR 161; (1981) 11 ATR 505; (1981) 81 ATC 4031 at 4036 to 4037.
 Chapter 4 of TR 2001/11 sets out how profits are attributed to a permanent establishment based on an analysis of the functions undertaken by the permanent establishment, the assets used in performing the functions of the permanent establishment and the risks assumed by the permanent establishment as a result of carrying out its functions. For example, paragraph 4.36 of TR 2001/11 refers to how risks arise from the functions performed and the assets employed in the business operations carried on through the permanent establishment, and are therefore relevantly attributable to where those functions are performed.
 Paragraph 4.37 of TR 2001/11 cannot apply because the foreign bank's Australian branch operations did not "joint[ly] ... carry... out a single economic function" with the foreign bank's 'head office' in relation to holding or managing the liquid reserve assets for which the relevant interest expense was incurred by the foreign bank. The acquisition of general reserve assets by a foreign bank could not constitute a 'hedge' of the kind referred to in paragraph 4.37 of TR 2001/11. General reserve assets are inherently available to fund all kinds of future cash demands on the bank and are not relevantly attributable to other particular assets or operations. It is also noted that the foreign bank would be required by the home country banking regulator to maintain a sufficient level of qualifying 'liquid assets' to satisfy the foreign bank's relevantly estimated future net cash outflows. For example, as measured under the Basel III '30-day Liquidity Coverage Ratio' and the 'Net Stable Funding Ratio': refer to Basel Committee 'Basel III: International framework for liquidity risk measurement, standards and monitoring' of December 2010.
-Paragraph 4.38 of TR 2001/11 cannot apply because the interest expense incurred by the foreign bank on borrowing that funds the liquid reserve assets was "directly related to a particular function" undertaken by the foreign bank, other than in the course of its Australian branch operations.
-
-Part IIIB of ITAA 1936
-
-Part IIIB needs to be considered if the foreign bank does not make an election under section 160ZZVB of the ITAA 1936.
+Paragraph 4.38 of TR 2001/11 cannot apply because the interest expense incurred by the foreign bank on borrowing that funds the liquid reserve assets was "directly related to a particular function" undertaken by the foreign bank, other than in the course of its Australian branch operations. Part IIIB of ITAA 1936 Part IIIB needs to be considered if the foreign bank does not make an election under section 160ZZVB of the ITAA 1936.
 The conditions for operation of sections 160ZZZ of the ITAA 1936 and 160ZZZA of the ITAA 1936 are not satisfied because the liquid reserve assets are not "an amount [that] has been made available by a foreign bank for use by an Australian branch of the bank and is recorded in the branch's accounting records as having been provided by the bank to the branch".
-If the foreign bank does make an election under section 160ZZVB of the ITAA 1936, Taxation Ruling TR 2005/11 does not apply to permit deduction of the interest expense since it is not interest expense incurred in relation to:
-
-'a bank internally transfer[ing] funds to or from a PE in the ordinary course of carrying on business through that PE [paragraph 1 of TR 2005/11]'.
-
-Date of decision:
-  25 October 2012
-
-Year of income:
-  Income year ended 30 June 2009 Income year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Section 160ZZZ   Section 160ZZZA   Section 160ZZVB
-Income Tax Assessment Act 1997   Section 8-1
-International Tax Agreements Act 1953   Subsection 3(2)
-
-Case References:
-
-Kidston Goldmines Ltd v Federal Commissioner of Taxation   (1991) 30 FCR 77   (1991) 22 ATR 168   91 ATC 4538
-
-Spassked Pty Ltd v Federal Commissioner of Taxation   (2007) FCAFC 205   (2007) 67 ATR 900   2007 ATC 5406
-
-IEL Finance Ltd v Federal Commissioner of Taxation   [2010] FCA 898   2010 ATC 20-209   (2010) 272 ALR 640   [2011] ALMD 1946   (2010) 79 ATR 820
-
-New Zealand Flax Investments Ltd v Federal Commissioner of Taxation   (1938) 61 CLR 179   (1938) 12 ALJ 313   (1938) 5 ATD 36   [1939] ALR 1
-
-Emu Bay Railway Company Ltd v FC of T   (1944) 71 CLR 596   (1944) 7 ATD 455   (1944) HCA 28
-
-Federal Commissioner of Taxation v James Flood Pty Ltd   (1953) 88 CLR 492   (1953) ALJ 481   (1953) 10 ATD 240   (1953) ALR 903
-
-Nilsen Development Laboratories Pty Ltd & Ors v Federal Commissioner of Taxation   (1981) 144 CLR 616   (1981) 55 ALJR 97   (1981) 33 ALR 161   (1981) 11 ATR 505   81 ATC 4031
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/11
-Taxation Ruling TR 2005/11
-
-Related ATO Interpretative Decisions
-
- ATO ID 2012/90
- ATO ID 2012/91
-
-Keywords
-
-Deductions & expenses
- Interest allocation
- Interest expenses
- Permanent establishment
-
-Siebel/TDMS Reference Number:
-  1-4BMF0HS
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 November 2012
-
-ISSN:
- 1445-2782
+If the foreign bank does make an election under section 160ZZVB of the ITAA 1936, Taxation Ruling TR 2005/11 does not apply to permit deduction of the interest expense since it is not interest expense incurred in relation to: 'a bank internally transfer[ing] funds to or from a PE in the ordinary course of carrying on business through that PE [paragraph 1 of TR 2005/11]'. Date of decision: 25 October 2012 Year of income: Income year ended 30 June 2009 Income year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 Section 160ZZZ Section 160ZZZA Section 160ZZVB
+Income Tax Assessment Act 1997 Section 8-1
+International Tax Agreements Act 1953 Subsection 3(2) Case References: Kidston Goldmines Ltd v Federal Commissioner of Taxation (1991) 30 FCR 77 (1991) 22 ATR 168 91 ATC 4538 Spassked Pty Ltd v Federal Commissioner of Taxation (2007) FCAFC 205 (2007) 67 ATR 900 2007 ATC 5406 IEL Finance Ltd v Federal Commissioner of Taxation [2010] FCA 898 2010 ATC 20-209 (2010) 272 ALR 640 [2011] ALMD 1946 (2010) 79 ATR 820 New Zealand Flax Investments Ltd v Federal Commissioner of Taxation (1938) 61 CLR 179 (1938) 12 ALJ 313 (1938) 5 ATD 36 [1939] ALR 1 Emu Bay Railway Company Ltd v FC of T (1944) 71 CLR 596 (1944) 7 ATD 455 (1944) HCA 28 Federal Commissioner of Taxation v James Flood Pty Ltd (1953) 88 CLR 492 (1953) ALJ 481 (1953) 10 ATD 240 (1953) ALR 903 Nilsen Development Laboratories Pty Ltd & Ors v Federal Commissioner of Taxation (1981) 144 CLR 616 (1981) 55 ALJR 97 (1981) 33 ALR 161 (1981) 11 ATR 505 81 ATC 4031 Related Public Rulings (including Determinations) Taxation Ruling TR 2001/11
+Taxation Ruling TR 2005/11 Related ATO Interpretative Decisions ATO ID 2012/90 ATO ID 2012/91 Keywords Deductions & expenses Interest allocation Interest expenses Permanent establishment Siebel/TDMS Reference Number: 1-4BMF0HS Business Line: Public Groups and International Date of publication: 2 November 2012 ISSN: 1445-2782

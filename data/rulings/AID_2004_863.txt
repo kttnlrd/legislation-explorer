@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2004/863
-==================================================
-
-Income tax
- Assessability of Australian dividend income received by a UK resident company - beneficial ownership of shares - 80% test
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Assessability of Australian dividend income received by a UK resident company - beneficial ownership of shares - 80% test FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a UK resident company satisfy the 80% voting power requirement contained in Article 10(3) of Schedule 1 to the International Agreements Act 1953 (Agreements Act), if it is the beneficial owner of the shares in an Australian resident company through a trust?
 Decision
 Yes. A UK resident company satisfies the 80% voting power requirement contained in Article 10(3) of Schedule 1 to the Agreements Act if it is the beneficial owner of the shares in an Australian resident company through a trust.
@@ -28,34 +15,4 @@ Article 10(3) of the 2003 UK Convention provides that dividends shall not be tax
 The UK company's beneficial ownership through a trust, of shares representing 80% or more of the voting power of the company paying the dividends, falls within the meaning of the term 'owned shares' in Article 10(3) of the 2003 UK Convention because, when reading the term 'owned' in conjunction with the previous reference to beneficial ownership in Article 10(3), the term 'owned' in this context refers to beneficial ownership where the beneficial owner of the shares differs from the legal one.
 By contrast, Article 10(2) of the 2003 UK Convention provides for a reduction in the rate of withholding tax where the beneficial owner of the dividends is a company which holds directly at least 10% of the voting power in the company paying the dividends. Here, the beneficial owner must hold the requisite percentage of the voting power in the company paying the dividends 'directly'. The use of the words 'holds directly' in Article 10(2)(a) is supportive of the above interpretation of the term 'owned shares' in that, had 'legal' ownership of shares been a requirement of Article 10(3) of the 2003 UK Convention, the Article could have specified this.
 Therefore, given the context of the use of the term and the absence of an express requirement for the voting power to be held 'directly', beneficial ownership of shares in the paying company are 'shares owned' for the purposes of Article 10(3) of the 2003 UK Convention.
-Date of decision:
-  15 October 2004
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-International Tax Agreements Act 1953   Schedule 1, Article 10(3)
-
-Keywords
-
-Double tax agreements
- International tax
- Treaties
- Dividends
- Unfranked dividends
- Withholding tax
- Trusts
-
-Siebel/TDMS Reference Number:
-  4213544
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 November 2004
-
-ISSN:
- 1445-2782
+Date of decision: 15 October 2004 Year of income: Year ended 30 June 2005 Legislative References: International Tax Agreements Act 1953 Schedule 1, Article 10(3) Keywords Double tax agreements International tax Treaties Dividends Unfranked dividends Withholding tax Trusts Siebel/TDMS Reference Number: 4213544 Business Line: Public Groups and International Date of publication: 5 November 2004 ISSN: 1445-2782

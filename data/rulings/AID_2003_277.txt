@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/277
-==================================================
-
-Income Tax
- Group company loss transfers: wholly-owned group - company not a member of the group for the whole test period
- FOI status: may be released
-
-This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Group company loss transfers: wholly-owned group - company not a member of the group for the whole test period FOI status: may be released This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a loss company transfer a tax loss to an income company under Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997) if both companies were in existence at all times during the period from the beginning of the loss year to the end of the deduction year, but were not members of the same wholly-owned group at all times during that period ?
 Decision
 No. Subsection 170-30(2) of the ITAA 1997 requires both companies to be members of the same wholly-owned group for the entire period from the beginning of the loss year to the end of the deduction year.
@@ -24,55 +9,9 @@ Facts
 A loss company incurred a tax loss in an income year (the 'loss year'). An income company derived assessable income in a later income year (the 'deduction year'). The loss company and income company became members of the same wholly-owned group during the loss year and remained members of that group until after the end of the deduction year.
 Reasons for Decision
 Section 170-30 of the ITAA 1997 sets some of the conditions for the transfer of tax losses under Subdivision 170-A of the ITAA 1997. Subsection 170-30(1) of the ITAA 1997 requires both companies to be in existence during at least part of each of the loss year, the deduction year and any intervening years. Subsection 170-30(2) of the ITAA 1997 states that both companies must also be members of the same wholly-owned group 'during the whole or part of those years when both companies were in existence'.
-The reference in subsection 170-30(2) of the ITAA 1997 to 'or part of those years' refers only to a situation where a company was not
- in existence
- during part of one or more of the relevant years. Where a loss company and income company were in existence for the entire period from the beginning of the loss year to the end of the deduction year, the requirement is that they must be members of the same wholly-owned group during the whole of those years.
-The Explanatory Memorandum to the Income Tax Assessment Bill 1996 clarifies the meaning of subsection 170-30(2) of the ITAA 1997 when it states (in the summary of the new law) the general rule in respect of loss transfers:-
-
-A resident company with a tax loss can transfer it to another resident company if the companies are members of the same wholly-owned group
- at all times during
- : the income year in which the loss was incurred; the income year for which the tax loss is transferred; and any intervening income year.' [emphasis in bold added]
-
-Accordingly, in the circumstances described above, the tax loss incurred by the loss company in the loss year cannot be transferred to the income company in respect of the deduction year because the companies were not members of the same wholly-owned group during the whole of the loss year.
-Date of decision:
-  19 February 2003
-
-Year of income:
-  30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 170-30   Subsection 170-30(1)   Subsection 170-30(2)
-
-Other References:
-
- Explanatory Memorandum for Income Tax Assessment Bill 1996
-
-Keywords
-
-Group company loss transfers
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  16 May 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 February 2003
-Original statement
-
-You are here
+The reference in subsection 170-30(2) of the ITAA 1997 to 'or part of those years' refers only to a situation where a company was not in existence during part of one or more of the relevant years. Where a loss company and income company were in existence for the entire period from the beginning of the loss year to the end of the deduction year, the requirement is that they must be members of the same wholly-owned group during the whole of those years.
+The Explanatory Memorandum to the Income Tax Assessment Bill 1996 clarifies the meaning of subsection 170-30(2) of the ITAA 1997 when it states (in the summary of the new law) the general rule in respect of loss transfers:- A resident company with a tax loss can transfer it to another resident company if the companies are members of the same wholly-owned group at all times during : the income year in which the loss was incurred; the income year for which the tax loss is transferred; and any intervening income year.' [emphasis in bold added] Accordingly, in the circumstances described above, the tax loss incurred by the loss company in the loss year cannot be transferred to the income company in respect of the deduction year because the companies were not members of the same wholly-owned group during the whole of the loss year.
+Date of decision: 19 February 2003 Year of income: 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Section 170-30 Subsection 170-30(1) Subsection 170-30(2) Other References: Explanatory Memorandum for Income Tax Assessment Bill 1996 Keywords Group company loss transfers Business Line: Losses and CGT Centre of Expertise Date of publication: 16 May 2003 ISSN: 1445-2782 history Date: Version: 19 February 2003
+Original statement You are here
 15 January 2010
 Archived

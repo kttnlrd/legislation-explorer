@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/679
-==================================================
-
-Income tax
- Capital gains tax: Financial services reform regime - same owner rollover - Australian financial services licence - small business concessions - active asset test
- FOI status: may be released
-
-This ATO ID is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital gains tax: Financial services reform regime - same owner rollover - Australian financial services licence - small business concessions - active asset test FOI status: may be released This ATO ID is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In determining if the Australian financial services licence (AFS licence) acquired by the taxpayer under one of the same owner rollovers in Subdivision 124-O of the Income Tax Assessment Act 1997 (ITAA 1997) satisfies the active asset test in section 152-35 of the ITAA 1997, is the active asset status of the taxpayer's old licence taken into account?
 Decision
 Yes. The active asset status of the taxpayer's old licence is taken into account in determining if the AFS licence acquired by the taxpayer satisfies the active asset test in section 152-35 of the ITAA 1997.
@@ -27,97 +12,21 @@ The old licence ceased to have effect when the AFS licence was granted. The AFS 
 Reasons for Decision
 To qualify for the small business CGT concessions in Division 152 of the ITAA 1997 the AFS licence must satisfy the active asset test in section 152-35. This requires the licence to be an active asset at certain times. These times are generally just before the CGT event that happens to the licence and at least half the period of ownership of the licence.
 If a taxpayer's business ceases before the CGT event happens to the CGT asset or alternatively, if a taxpayer owns the CGT asset for more than 15 years, the active asset test requires the asset to be an active asset at different times.
-Under subsection 152-40(1) of the ITAA 1997 a CGT asset is an active asset if a taxpayer owns it and:
-
-(a)uses it, or holds it ready for use, in the course of carrying on a business; or
+Under subsection 152-40(1) of the ITAA 1997 a CGT asset is an active asset if a taxpayer owns it and: (a)uses it, or holds it ready for use, in the course of carrying on a business; or
 (b)it is an intangible asset that is inherently connected with a business the taxpayer carries on; or
-(c)it is used, or held ready for use, in the course of carrying on a business by:
-
-(i)a small business CGT affiliate of the taxpayer; or
-(ii)an entity connected with the taxpayer.
-
-As the old licence owned by the taxpayer was used by the taxpayer in the course of carrying on the financial services business and was also an intangible asset inherently connected with the taxpayer's business, the old licence was an active asset of the taxpayer (under both paragraphs 152-40(1)(a) and 152-40(1)(b) of the ITAA 1997).
+(c)it is used, or held ready for use, in the course of carrying on a business by: (i)a small business CGT affiliate of the taxpayer; or
+(ii)an entity connected with the taxpayer. As the old licence owned by the taxpayer was used by the taxpayer in the course of carrying on the financial services business and was also an intangible asset inherently connected with the taxpayer's business, the old licence was an active asset of the taxpayer (under both paragraphs 152-40(1)(a) and 152-40(1)(b) of the ITAA 1997).
 Subsection 152-45(1A) of the ITAA 1997 modifies the time periods for the active asset test for an AFS licence acquired as a result of a FSR rollover to ensure that the replacement asset, the AFS licence, is taken to be acquired at the time that the original asset, the old licence, was acquired.
-The active asset test in section 152-35 of the ITAA 1997 applies as if:
-
-•the taxpayer had acquired the AFS licence at the same time that the old licence was acquired
+The active asset test in section 152-35 of the ITAA 1997 applies as if: •the taxpayer had acquired the AFS licence at the same time that the old licence was acquired
 •the AFS licence had been the taxpayer's active asset at all times when the old licence was the taxpayer's active asset, and
-•the AFS licence had not been the taxpayer's active asset at all times when the old licence was not the taxpayer's active asset.
-
-Accordingly, the active asset status of the taxpayer's old licence is taken into account in determining if the AFS licence acquired by the taxpayer satisfies the active asset test in section 152-35 of the ITAA 1997.
-Note 1: Subsection 152-45(1A) of the ITAA 1997 modifies the time periods for the active asset test where an AFS licence is acquired under any of the same owner rollover relief provisions in the following sections of the ITAA 1997:
-
-•section 124-880, old licence rollover
+•the AFS licence had not been the taxpayer's active asset at all times when the old licence was not the taxpayer's active asset. Accordingly, the active asset status of the taxpayer's old licence is taken into account in determining if the AFS licence acquired by the taxpayer satisfies the active asset test in section 152-35 of the ITAA 1997.
+Note 1: Subsection 152-45(1A) of the ITAA 1997 modifies the time periods for the active asset test where an AFS licence is acquired under any of the same owner rollover relief provisions in the following sections of the ITAA 1997: •section 124-880, old licence rollover
 •section 124-885, qualified licence rollover, or
-•section 124-890, rights rollover.
-
-Note 2: Subsection 152-45(1B) of the ITAA 1997 modifies the time periods for the active asset test where an AFS licence is acquired under any of the new owner rollover relief provisions in the following sections of the ITAA 1997:
-
-•section 124-900, old licence rollover
+•section 124-890, rights rollover. Note 2: Subsection 152-45(1B) of the ITAA 1997 modifies the time periods for the active asset test where an AFS licence is acquired under any of the new owner rollover relief provisions in the following sections of the ITAA 1997: •section 124-900, old licence rollover
 •section 124-905, qualified licence rollover, or
-•section 124-910, rights rollover.
-
-Date of decision:
-  2 August 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 124-O   section 124-880   section 124-885   section 124-890   section 124-900   section 124-905   section 124-910   Division 152   section 152-35   subsection 152-40(1)   paragraph 152-40(1)(a)   paragraph 152-40(1)(b)   subsection 152-45(1A)   subsection 152-45(1B)
-Corporations Act 2001   section 1430
-Financial Services Reform Act 2001   Table of Content
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/573
- ATO ID 2004/574
- ATO ID 2004/575
- ATO ID 2004/576
- ATO ID 2004/577
- ATO ID 2004/578
-
-Keywords
-
-Active asset test
- Assets replaced during FSR transition
- Australian financial services licence
- Basic conditions for relief
- Capital gains tax
- Financial services reform regime
- Financial services reform roll-over
- FSR original asset
- FSR regime
- FSR replacement asset
- New owner roll-over
- Old licence roll-over
- Qualified licence roll-over
- Regulated principal
- Rights roll-over
- Same owner roll-over
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  13 August 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 2 August 2004
-Original statement
-
-You are here
+•section 124-910, rights rollover. Date of decision: 2 August 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Subdivision 124-O section 124-880 section 124-885 section 124-890 section 124-900 section 124-905 section 124-910 Division 152 section 152-35 subsection 152-40(1) paragraph 152-40(1)(a) paragraph 152-40(1)(b) subsection 152-45(1A) subsection 152-45(1B)
+Corporations Act 2001 section 1430
+Financial Services Reform Act 2001 Table of Content Related ATO Interpretative Decisions ATO ID 2004/573 ATO ID 2004/574 ATO ID 2004/575 ATO ID 2004/576 ATO ID 2004/577 ATO ID 2004/578 Keywords Active asset test Assets replaced during FSR transition Australian financial services licence Basic conditions for relief Capital gains tax Financial services reform regime Financial services reform roll-over FSR original asset FSR regime FSR replacement asset New owner roll-over Old licence roll-over Qualified licence roll-over Regulated principal Rights roll-over Same owner roll-over Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 13 August 2004 ISSN: 1445-2782 history Date: Version: 2 August 2004
+Original statement You are here
 26 August 2005
 Archived

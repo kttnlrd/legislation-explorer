@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/989
-==================================================
-
-Goods and Services Tax
- GST and fruit jelly juice
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and fruit jelly juice FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies fruit jelly juice?
 Decision
 No, the entity is not making a GST-free supply under section 38-2 of the GST Act when it supplies fruit jelly juice. The entity is making a taxable supply under section 9-5 of the GST Act.
@@ -22,39 +11,10 @@ The fruit jelly juice is a liquid that consists of water, sugar, fruit juice (le
 The entity is registered for goods and services tax (GST). The supply satisfies the other positive limbs of section 9-5 of the GST Act.
 Reasons for Decision
 A supply of food is GST-free under section 38-2 of the GST Act if the product satisfies the definition of food in section 38-4 of the GST Act and the supply is not excluded from being GST-free by section 38-3 of the GST Act.
-The meaning of food in section 38-4 of the GST Act includes:
-
-•food for human consumption (whether or not requiring processing or treatment) (paragraph 38-4(1)(a)); and
-•beverages for human consumption (paragraph 38-4(1)(c) of the GST Act).
-
-The fruit jelly juice can be consumed from its packing through a straw and is thin enough to be consumed from a glass. Therefore, the fruit jelly juice is a beverage for human consumption and comes within the meaning of food contained in paragraph 38-4(1)(c) of the GST Act.
+The meaning of food in section 38-4 of the GST Act includes: •food for human consumption (whether or not requiring processing or treatment) (paragraph 38-4(1)(a)); and
+•beverages for human consumption (paragraph 38-4(1)(c) of the GST Act). The fruit jelly juice can be consumed from its packing through a straw and is thin enough to be consumed from a glass. Therefore, the fruit jelly juice is a beverage for human consumption and comes within the meaning of food contained in paragraph 38-4(1)(c) of the GST Act.
 However, under paragraph 38-3(1)(d) of the GST Act, a supply of a beverage is GST-free only if it is a beverage of a kind specified in the table in clause 1 of Schedule 2 to the GST Act (Schedule 2).
 The only item in Schedule 2 that is relevant to the fruit jelly juice is Item 12 of Schedule 2 (Item 12). Item 12 provides that non-alcoholic non-carbonated beverages, that consist of at least 90% by volume of juices of fruits or vegetables, are GST-free. Fruit jelly juice is non-alcoholic and non-carbonated, however, it consists of less than 90% by volume of fruit juice. Therefore, the fruit jelly juice is not a beverage of a kind specified in Item 12 No other items listed in Schedule 2 apply to the fruit jelly juice.
 Accordingly, the entity is not making a GST-free supply under section 38-2 of the GST Act when it supplies fruit jelly juice.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under any other provisions in Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies fruit jelly juice.
-Date of decision:
-  9 April 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   section 38-2   section 38-3   paragraph 38-3(1)(d)   section 38-4   paragraph 38-4(1)(a)   paragraph 38-4(1)(c)   Division 40   Schedule 2 clause 1   Schedule 2 clause 1 table item 12
-
-Keywords
-
-Goods and services tax
- GST free
- GST beverages
- GST supplies & acquisitions
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  CW271386
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  30 October 2002
-
-ISSN:
- 1445-2782
+Date of decision: 9 April 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 Division 38 section 38-2 section 38-3 paragraph 38-3(1)(d) section 38-4 paragraph 38-4(1)(a) paragraph 38-4(1)(c) Division 40 Schedule 2 clause 1 Schedule 2 clause 1 table item 12 Keywords Goods and services tax GST free GST beverages GST supplies & acquisitions Taxable supply Siebel/TDMS Reference Number: CW271386 Business Line: Indirect Tax Date of publication: 30 October 2002 ISSN: 1445-2782

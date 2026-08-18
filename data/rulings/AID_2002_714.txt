@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/714
-==================================================
-
-Goods and Services Tax
- GST and alternative joystick
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and alternative joystick FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of computer equipment, making a GST-free supply under subsection 38-45(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies an alternative joystick?
 Decision
 Yes, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies an alternative joystick.
@@ -20,48 +9,14 @@ Facts
 The entity is a supplier of computer equipment. The entity supplies an alternative joystick. The alternative joystick is a substitute for a standard mouse designed for people who, due to their disability, are unable to use their hands. The joystick is controlled by the mouth or chin and is activated by a sip/puff switch.
 The joystick is not widely used by people without an illness or disability. There is no agreement between the entity and the recipient that the supply is not to be treated as a GST-free supply. The entity is registered for goods and services tax (GST).
 Reasons for Decision
-Under subsection 38-45(1) of the GST Act, the supply of a medical aid or appliance is GST-free where the medical aid or appliance:
-
-•is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations);
+Under subsection 38-45(1) of the GST Act, the supply of a medical aid or appliance is GST-free where the medical aid or appliance: •is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations);
 •is specifically designed for people with an illness or disability; and
-•is not widely used by people without an illness or disability.
-
-Item 11 of Schedule 3 (Item 11) lists 'mouth/head sticks/pointers'. The entity is supplying an alternate joystick designed to be controlled by a person's mouth or chin and is activated by a sip/puff switch. This falls within the description of a mouth/head stick in Item 11. Therefore, the alternative joystick is covered by Schedule 3.
+•is not widely used by people without an illness or disability. Item 11 of Schedule 3 (Item 11) lists 'mouth/head sticks/pointers'. The entity is supplying an alternate joystick designed to be controlled by a person's mouth or chin and is activated by a sip/puff switch. This falls within the description of a mouth/head stick in Item 11. Therefore, the alternative joystick is covered by Schedule 3.
 The alternative joystick is designed for people that are unable to use their hands due to their disability. Therefore it is designed for people with an illness or disability. In addition, the joystick is not widely used by people without an illness or disability. Accordingly, the requirements in subsection 38-45(1) of the GST Act are met.
 Therefore, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies an alternative joystick.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-9 April 2019
+Comment 9 April 2019
 Throughout
-Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019.
-
-Date of decision:
-  5 April 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 38-45(1)   Schedule 3   Schedule 3 table item 11
-A New Tax System (Goods and Services Tax) Regulations 2019   The Regulations
-
-Keywords
-
-Goods and services tax
- GST free
- GST health
- Section 38-45 - medical aids & appliances
-
-Siebel/TDMS Reference Number:
-  CW270160
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  31 July 2002
-
-ISSN:
- 1445-2782
+Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019. Date of decision: 5 April 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 38-45(1) Schedule 3 Schedule 3 table item 11
+A New Tax System (Goods and Services Tax) Regulations 2019 The Regulations Keywords Goods and services tax GST free GST health Section 38-45 - medical aids & appliances Siebel/TDMS Reference Number: CW270160 Business Line: Indirect Tax Date of publication: 31 July 2002 ISSN: 1445-2782

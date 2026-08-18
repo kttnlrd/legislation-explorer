@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/118
-==================================================
-
-Income Tax
- Consolidation: consolidated group - allocable cost amount for a leaving entity - the exit step 4 amount
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: consolidated group - allocable cost amount for a leaving entity - the exit step 4 amount FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When a subsidiary member leaves a consolidated group, are liabilities that are extinguished by virtue of the transaction that causes the entity to leave the group (being the issue of shares in that entity to an entity outside the group), included at step 4 of the calculation of allocable cost amount (ACA) under section 711-20 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. When the subsidiary member leaves the consolidated group, liabilities that are extinguished by virtue of the transaction that causes the entity to leave the group (being the issue of shares in that entity to an entity outside the group) are included at step 4 of the calculation of ACA under section 711-20 of the ITAA 1997.
@@ -29,68 +18,14 @@ The tax cost setting amount of each membership interest in the leaving entity is
 The ACA process on exit aligns the cost of membership interests in a leaving entity with the cost of the net assets in the entity at the leaving time (see subsections 701-15(2) and 711-5(2) of the ITAA 1997). The cost of the net assets is the cost of the leaving entity's assets at the leaving time reduced by the amount of its liabilities (see subsection 711-5(3) of the ITAA 1997).
 For the purposes of aligning the cost of the net assets with the cost of the membership interests, all the assets and liabilities in the leaving entity must be considered just before the entity ceases to be a subsidiary member of the consolidated group.
 At issue in the present case is the amount worked out under step 4 of the exit ACA process. Step 4 subtracts from the total of the previous three steps of the calculation, amounts in respect of accounting liabilities of a leaving entity at the leaving time, as well as particular amounts that are treated as liabilities of the leaving entity under the exit ACA rules. The liabilities subtracted are the liabilities that can or must be identified in the statement of financial position of the leaving entity at the leaving time (see subsection 711-45(1) of the ITAA 1997).
-The starting point in working out the step 4 amount is subsection 711-45(1) of the ITAA 1997. That subsection specifically provides that:
-
-For the purposes of step 4 in the table in subsection 711-20(1), the step 4 amount is worked out by adding up the amounts of each thing (an
- accounting liability
-) that, in accordance with accounting standards, or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability of the leaving entity at the
- leaving time
- that can or must be identified in the entity's statement of financial position. (emphasis added)
-
-Subsection 711-5(1) of the ITAA 1997 introduces the concept of the leaving time and states:
-
-This Division [Division 711] has effect....if an entity (the
- leaving entity
-) ceases to be a subsidiary member of a consolidated group (the
- old group
-) at a particular time (the
- leaving time
-).
-
-The phrase 'leaving time' takes its meaning from context. Even though:
-
-•subsection 711-5(3) of the ITAA 1997 appears to draw a distinction between 'just before the leaving time' and 'the leaving time', and
-•step 4 in the table in subsection 711-20(1) of the ITAA 1997 refers to 'liabilities that the leaving entity takes with it when it ceases to be a subsidiary member'
-
-we consider that on a purposive construction of Division 711 of the ITAA 1997 having regard to the object set out in subsection 711-5(2) of the ITAA 1997, the words 'at the leaving time' in Division 711 cannot be construed as the point in time when the entity has left the group.
+The starting point in working out the step 4 amount is subsection 711-45(1) of the ITAA 1997. That subsection specifically provides that: For the purposes of step 4 in the table in subsection 711-20(1), the step 4 amount is worked out by adding up the amounts of each thing (an accounting liability
+) that, in accordance with accounting standards, or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability of the leaving entity at the leaving time that can or must be identified in the entity's statement of financial position. (emphasis added) Subsection 711-5(1) of the ITAA 1997 introduces the concept of the leaving time and states: This Division [Division 711] has effect....if an entity (the leaving entity
+) ceases to be a subsidiary member of a consolidated group (the old group
+) at a particular time (the leaving time
+). The phrase 'leaving time' takes its meaning from context. Even though: •subsection 711-5(3) of the ITAA 1997 appears to draw a distinction between 'just before the leaving time' and 'the leaving time', and
+•step 4 in the table in subsection 711-20(1) of the ITAA 1997 refers to 'liabilities that the leaving entity takes with it when it ceases to be a subsidiary member' we consider that on a purposive construction of Division 711 of the ITAA 1997 having regard to the object set out in subsection 711-5(2) of the ITAA 1997, the words 'at the leaving time' in Division 711 cannot be construed as the point in time when the entity has left the group.
 The context for subsection 711-45(1) of the ITAA 1997 is the preparation of a notional statement of financial position (balance sheet) for the leaving entity by applying accounting standards and other authoritative pronouncements of the Australian Accounting Standards Board. At the leaving time, in the context of subsection 711-45(1), means just before the leaving entity ceases to be a subsidiary member of the consolidated group. This interpretation accords with the tax cost setting process on exit which is to set the tax cost of the membership interest just before the entity ceases to be a subsidiary member (see subsection 701-15(3) of the ITAA 1997).
 Accordingly, as the $100 loan liability is an accounting liability that can or must be identified in Sub Co's notional statement of financial position immediately before it ceased to be a subsidiary member of the consolidated group, it is subtracted at step 4 of the exit ACA process.
-Date of decision:
-  1 June 2007
-
-Year of income:
-  Year ending 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 701-15(3)   section 701-60   subsection 711-5(1)   subsection 711-20(1)   section 711-15   section 711-20   section 711-45   subsection 711-45(1)   section 711-55
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2004/14
+Date of decision: 1 June 2007 Year of income: Year ending 30 June 2005 Legislative References: Income Tax Assessment Act 1997 subsection 701-15(3) section 701-60 subsection 711-5(1) subsection 711-20(1) section 711-15 section 711-20 section 711-45 subsection 711-45(1) section 711-55 Related Public Rulings (including Determinations) Taxation Ruling TR 2004/14
 Taxation Ruling TR 2006/6
-Taxation Determination TD 2005/53
-
-Keywords
-
-Accounting liabilities
- Allocable cost amount
- Calculation of the allocable cost amount
- Consolidated group
- Consolidation
- Cost of membership interests
- Leaving entity
- Leaving time
- Tax cost setting amount
-
-Siebel/TDMS Reference Number:
-  5233851
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  15 June 2007
-
-ISSN:
- 1445-2782
+Taxation Determination TD 2005/53 Keywords Accounting liabilities Allocable cost amount Calculation of the allocable cost amount Consolidated group Consolidation Cost of membership interests Leaving entity Leaving time Tax cost setting amount Siebel/TDMS Reference Number: 5233851 Business Line: Consolidation Centre of Expertise Date of publication: 15 June 2007 ISSN: 1445-2782

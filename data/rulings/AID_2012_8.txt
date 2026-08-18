@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/8
-==================================================
-
-Income Tax
- Deemed quotation of tax file number in respect of distribution from investment body to non-resident investor: section 202EE of the ITAA 1936
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deemed quotation of tax file number in respect of distribution from investment body to non-resident investor: section 202EE of the ITAA 1936 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When subsection 202EE(1) of the Income Tax Assessment Act 1936 (ITAA 1936) deems a non-resident beneficiary of a managed investment trust to have quoted their tax file number in relation to certain investments in the trust, does the deeming apply in respect of a distribution from the trustee of the trust at a particular time, or does it also apply to all future distributions from the trustee of the trust?
 Decision
 When subsection 202EE(1) of the ITAA 1936 deems a non-resident beneficiary of a managed investment trust to have quoted their tax file number in relation to certain investments in the trust, the deeming will only apply in respect of distributions from the trustee of the trust at a particular point in time. The subsection does not deem the tax file number to have been quoted in relation to future distributions from the trustee of the trust in connection with the investment.
@@ -22,55 +11,13 @@ The distribution from the trustee of the managed investment trust to the non-res
 The trustee of the managed investment trust expects to make future distributions from the trust to the non-resident beneficiary in connection with the investment in the trust.
 The trustee of the managed investment trust is required to withhold an amount under Subdivision 12-H of Schedule 1 to the Taxation Administration Act 1953 (TAA) from the distribution. The trustee expects to have the same withholding obligations in relation to its future distributions to the non-resident beneficiary.
 Reasons for Decision
-Sections 12-140 and 12-145 of Schedule 1 to the TAA create a withholding obligation where an entity does not quote their tax file number in relation to certain investments. This withholding obligation operates as a compliance mechanism to ensure that payments of investments that are likely to be assessable in Australia are traceable via the entity's tax file number. Withholding will not be required where:
-
-•the payment or entity is subject to one of the exceptions to withholding in Subdivision 12-E of Schedule 1 to the TAA
+Sections 12-140 and 12-145 of Schedule 1 to the TAA create a withholding obligation where an entity does not quote their tax file number in relation to certain investments. This withholding obligation operates as a compliance mechanism to ensure that payments of investments that are likely to be assessable in Australia are traceable via the entity's tax file number. Withholding will not be required where: •the payment or entity is subject to one of the exceptions to withholding in Subdivision 12-E of Schedule 1 to the TAA
 •the entity has quoted its tax file number, or
-•the entity is deemed to have quoted its tax file number.
-
-Section 202EE of the ITAA 1936 deems a non-resident to have quoted its tax file number in certain situations.
-Subsection 202EE(1) of the ITAA 1936 relevantly provides:
-
-For the purposes of this Part, where:
-
-(a)a non-resident is an investor in relation to an investment to which this Part applies; and
-(b)at a particular time, the investment body pays an amount to the non-resident by way of income derived from the investment;
-
-the non-resident is taken to have quoted the non-resident's tax file number in connection with the investment at that time if:
-
-(c)the investment body is required to withhold an amount under Subdivision 12-F or 12-H in Schedule 1 to the Taxation Administration Act 1953 from the payment; or
-(d)[omitted]
-
-The use of the terms 'at a particular time' and 'at that time' in subsection 202EE(1) of the ITAA 1936 indicates that subsection 202EE(1) is concerned with a distribution at a particular time rather than deeming the tax file number to have been quoted for the life of the investment.
+•the entity is deemed to have quoted its tax file number. Section 202EE of the ITAA 1936 deems a non-resident to have quoted its tax file number in certain situations.
+Subsection 202EE(1) of the ITAA 1936 relevantly provides: For the purposes of this Part, where: (a)a non-resident is an investor in relation to an investment to which this Part applies; and
+(b)at a particular time, the investment body pays an amount to the non-resident by way of income derived from the investment; the non-resident is taken to have quoted the non-resident's tax file number in connection with the investment at that time if: (c)the investment body is required to withhold an amount under Subdivision 12-F or 12-H in Schedule 1 to the Taxation Administration Act 1953 from the payment; or
+(d)[omitted] The use of the terms 'at a particular time' and 'at that time' in subsection 202EE(1) of the ITAA 1936 indicates that subsection 202EE(1) is concerned with a distribution at a particular time rather than deeming the tax file number to have been quoted for the life of the investment.
 In comparison, subsection 202DB(1) of the ITAA 1936 provides for the quotation of a person's tax file number to an investment body for an investment. It uses the term 'in connection with the investment' without a reference to timing. This suggests that the tax file number applies for the life of the investment.
 If subsection 202EE(1) of the ITAA 1936 operates so as to treat a tax file number to be quoted for the life of the investment, it would just refer simply to the investment, as is the case in subsection 202DB(1) of the ITAA 1936. It would not contain references to the terms like 'at a particular time, the investment body pays an amount to the non-resident' and 'in connection with the investment at that time'.
 Therefore, subsection 202EE(1) of the ITAA 1936 treats a non-resident beneficiary of a managed investment trust to have quoted their tax file number in relation to certain investments in the trust only at the particular time of a distribution from the trustee of the trust. The subsection does not apply to future distributions from the trustee of the trust in connection with the investment. The criteria in subsection 202EE(1) of the ITAA 1936 therefore need to be considered at the time of each distribution to the non-resident to determine whether the non-resident is deemed to have quoted a tax file number.
-Date of decision:
-  23 January 2012
-
-Year of income:
-  Year ending 30 June 2012 and future income years
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 202DB(1)   subsection 202EE(1)
-
-Keywords
-
-Non-resident beneficiaries
- Tax file number
-
-Siebel/TDMS Reference Number:
-  1-3NMID08; 1-5TGFHRO
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  3 February 2012
-
-Date reviewed:
-  2 April 2015
-
-ISSN:
- 1445-2782
+Date of decision: 23 January 2012 Year of income: Year ending 30 June 2012 and future income years Legislative References: Income Tax Assessment Act 1936 subsection 202DB(1) subsection 202EE(1) Keywords Non-resident beneficiaries Tax file number Siebel/TDMS Reference Number: 1-3NMID08; 1-5TGFHRO Business Line: Private Groups and High Wealth Individuals Date of publication: 3 February 2012 Date reviewed: 2 April 2015 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/368
-==================================================
-
-Income Tax
- Group company loss transfer: Subdivision 170-A - assessable foreign income
- FOI status: may be released
-
-This ATO ID is withdrawn because section 79DA of the Income Tax Assessment Act 1936 does not apply for income years commencing on or after 1 July 2008. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2007/2008 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Group company loss transfer: Subdivision 170-A - assessable foreign income FOI status: may be released This ATO ID is withdrawn because section 79DA of the Income Tax Assessment Act 1936 does not apply for income years commencing on or after 1 July 2008. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2007/2008 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 A loss company has entered into a written agreement with an income company to transfer a tax loss incurred in a loss year prior to the deduction year. Does an amount of assessable foreign income, derived by the loss company in the deduction year, affect the amount of tax loss that the loss company can transfer under Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes, but only to the extent that the loss company makes an election in accordance with section 79DA of the Income Tax Assessment Act 1936 (ITAA 1936) to deduct the tax loss (or a part of that tax loss) from its assessable foreign income derived in the deduction year. For the purposes of section 79DA of the ITAA 1936, 'assessable foreign income' is defined in section 160AFD of the ITAA 1936.
@@ -24,73 +9,18 @@ Facts
 Loss Company and Income Company are both members of the same 'wholly owned group' at all relevant times.
 Loss Company incurred a tax loss of $1,000,000 in its income year ended 30 June 2000 (that is, the loss year).
 Loss Company has no other tax losses in existence.
-Loss Company derived the following income in its income year ended 30 June 2001:
-
-Net assessable income from domestic sources of $300,000.
-
-Assessable foreign income of $200,000.
-
-Loss Company has not elected, under Section 79DA of the ITAA 1936, to deduct any of the tax loss from its assessable foreign income derived in the deduction year. This is because it has sufficient foreign tax credits available to extinguish any liability to pay Australian income tax on the assessable foreign income.
+Loss Company derived the following income in its income year ended 30 June 2001: Net assessable income from domestic sources of $300,000. Assessable foreign income of $200,000. Loss Company has not elected, under Section 79DA of the ITAA 1936, to deduct any of the tax loss from its assessable foreign income derived in the deduction year. This is because it has sufficient foreign tax credits available to extinguish any liability to pay Australian income tax on the assessable foreign income.
 Accordingly, the amount of its tax loss that is available to be transferred pursuant to Subdivision 170-A of the ITAA 1997 for the deduction year is $700,000 (that is, the excess of its tax loss of $1,000,000 over its net assessable income from domestic sources in the deduction year - $300,000)
 Loss Company and Income Company have prepared a written agreement, in accordance with section 170-50 of the ITAA 1997, to transfer all of Loss Company's available tax loss of $700,000 to Income Company in respect of the deduction year ended 30 June 2001.
 Reasons for Decision
 A company's tax loss for a loss year is calculated under section 36-10 of the ITAA 1997.
 A loss company can transfer a tax loss to an income company (both companies being members of the same 'wholly owned group' at all relevant times) in the deduction year, subject to satisfying all of the conditions in Subdivision 170-A of the ITAA 1997.
 Where the loss company derives 'assessable foreign income' in the deduction year, the question arises as to what, if any, effect this assessable foreign income has on the loss company's ability to transfer the tax loss to an income company in the deduction year.
-Subsection 170-45(1) of the ITAA 1997 provides that:
-
-The amount transferred cannot exceed the amount of the *loss company's *tax loss that, apart from the transfer, the loss company would carry forward to the next income year after the *deduction year.
-
-Note: * denotes a term defined in subsection 995-1 of the ITAA 1997.
-
-In determining the amount of tax loss that may be deducted in a later year (that is, an income year after the loss year), subsection 36-15(2) of the ITAA 1997 provides that:
+Subsection 170-45(1) of the ITAA 1997 provides that: The amount transferred cannot exceed the amount of the *loss company's *tax loss that, apart from the transfer, the loss company would carry forward to the next income year after the *deduction year. Note: * denotes a term defined in subsection 995-1 of the ITAA 1997. In determining the amount of tax loss that may be deducted in a later year (that is, an income year after the loss year), subsection 36-15(2) of the ITAA 1997 provides that:
 If your total assessable income for the later income year exceeds your total deductions (other than *tax losses), you deduct the tax loss from that excess.
 Assessable foreign income forms part of the assessable income of a loss company for the purposes of subsection 36-15(2) of the ITAA 1997. However, a tax loss can only be deducted from that assessable foreign income to the extent elected by the company under subsection 79DA(1) of the ITAA 1936. This modification of the general application of subsection 36-15(2) of the ITAA 1997 is recognised in the special rules about tax losses in section 36-25 of the ITAA 1997, under the heading 'Tax losses of entities generally' at Item 1.
-Subsection 36-15(7) of the ITAA 1997 further provides that:
-
-If you cannot deduct all or part of your *tax loss in an income year, you can carry forward to the next income year the undeducted amount. You can then apply this Subdivision to work out if you can deduct the tax loss in that income year.
-
-Therefore, where a loss company has not made an election under section 79DA of the ITAA 1936 to deduct some or all of a tax loss from 'assessable foreign income' in the deduction year, the amount of tax loss that the loss company may transfer under Subdivision 170-A of the ITAA 1997, is not affected by the presence of that assessable foreign income.
-Date of decision:
-  24 March 2003
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 36-10   subsection 36-15(2)   subsection 36-15(7)   section 36-25   subdivision 170-A   section 170-5   subsection 170-45(1)
-
-Keywords
-
-Company losses
- Foreign income
- Group company loss transfers
- Losses
- Losses carried forward
- Losses and Capital Gains Tax CoE
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  15 May 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-24 March 2003
-Original statement
-
-You are here
+Subsection 36-15(7) of the ITAA 1997 further provides that: If you cannot deduct all or part of your *tax loss in an income year, you can carry forward to the next income year the undeducted amount. You can then apply this Subdivision to work out if you can deduct the tax loss in that income year. Therefore, where a loss company has not made an election under section 79DA of the ITAA 1936 to deduct some or all of a tax loss from 'assessable foreign income' in the deduction year, the amount of tax loss that the loss company may transfer under Subdivision 170-A of the ITAA 1997, is not affected by the presence of that assessable foreign income.
+Date of decision: 24 March 2003 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 section 36-10 subsection 36-15(2) subsection 36-15(7) section 36-25 subdivision 170-A section 170-5 subsection 170-45(1) Keywords Company losses Foreign income Group company loss transfers Losses Losses carried forward Losses and Capital Gains Tax CoE Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 15 May 2003 ISSN: 1445-2782 history Date: Version: 24 March 2003
+Original statement You are here
 12 December 2008
 Archived

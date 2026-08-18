@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/27
-==================================================
-
-Income Tax
- Offshore banking units: trading activity
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Offshore banking units: trading activity FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the execution of 'Non-Deliverable Forward' contracts (NDFs), which constitute executory contracts satisfied by financial settlement, constitute trading in currency or rights in respect of currency under paragraphs 121D(4)(e) or 121D(4)(ea) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. NDFs do not constitute trading in currency or rights in respect of currency under paragraphs 121D(4)(e) or 121D(4)(ea) of the ITAA 1936.
@@ -26,109 +13,19 @@ The execution and settlement of the NDFs satisfies section 121EA of the ITAA 193
 Reasons for Decision
 Section 121D of the ITAA 1936 lists the type of activities that qualify as an offshore banking activity (OB activity) for the purpose of determining offshore banking income of an OBU[1] under Division 9A.
 Paragraph 121D(1)(c) of the ITAA 1936 states that a 'trading activity' is an OB activity if it meets the requirements of subsection 121D(4). Paragraphs 121D(4)(e) and (ea) of the ITAA 1936 refer to 'trading in currency' or 'trading in rights in respect of currency' as being a trading activity in certain circumstances.
-'Trading' is not defined in the ITAA 1936 but section 121ED provides that a person (the trader) is said to trade with another person in a thing if:
-
-a)the trader, for the purpose of trading in the thing, acquires it on issue from the other person; or
+'Trading' is not defined in the ITAA 1936 but section 121ED provides that a person (the trader) is said to trade with another person in a thing if: a)the trader, for the purpose of trading in the thing, acquires it on issue from the other person; or
 b)the trader, for the purpose of trading in the thing, buys it from the other person; or
-c)the trader, in trading the thing, sells it to the other person.
-
-'Trading' as a verb has its root word in 'trade' which according to the Macquarie Dictionary [Multimedia], version 5.0.0, 01/10/01 means 'a purchase, sale or exchange' of a thing. Section 121ED of the ITAA 1936 refers to an acquisition or purchase of a thing for the purpose of trading in the thing, or a sale in the course of trading a thing. In the context of paragraphs 121D(4)(e) and (ea) of the ITAA 1936, the thing is currency or rights in respect of currency.
+c)the trader, in trading the thing, sells it to the other person. 'Trading' as a verb has its root word in 'trade' which according to the Macquarie Dictionary [Multimedia], version 5.0.0, 01/10/01 means 'a purchase, sale or exchange' of a thing. Section 121ED of the ITAA 1936 refers to an acquisition or purchase of a thing for the purpose of trading in the thing, or a sale in the course of trading a thing. In the context of paragraphs 121D(4)(e) and (ea) of the ITAA 1936, the thing is currency or rights in respect of currency.
 NDFs may be transacted in the course of, or in connection with, the OBU's foreign exchange business. Profits made by the OBU under the NDF contracts are assessable as ordinary business income (Californian Copper Syndicate v. Harris (Surveyor of Taxes) (1904) 5 TC 159) or as income from isolated business transactions entered with the intent to make profit (Myer Emporium v. Federal Commissioner of Taxation (1987) 163 CLR 199; 87 ATC 4363; (1987) 18 ATR 693). However, this does not make NDF transactions trading activities. Trade is not synonymous with business because not all business involves a trade: per Menzies J Hornsby Shire Council v. Salmar Holdings Pty Ltd [1972] 46 ALJR 291 at 292.
-NDFs are called 'forward' contracts but are not agreements under which different types of currencies are agreed to be delivered or exchanged. The observations of Lord Templeman about interest rate swap in Hazell v. Hammersmith and Fulham London Borough Council and Ors [1991] All ER 545 are relevant to NDFs. His Lordship observed:
-
-The transactions were undertaken in the hope that the burden of interest payable in respect of the borrowings...would be mitigated by profits from swap contracts whereby the council successfully forecast movements in interest rates (at 550).
-
-The fact remains a swap transaction depends for its success on interest rates rising or falling in conformity with the expectation of the [swap party] at the date of the swap (at 552).
-
-...a parallel contract does not in fact replace the interest under the original borrowing and the swap (at 553).
-
-The NDFs are aleatory contracts satisfied by a financial receivable or payable. They fit the description of wagering contracts in Carlill v. The Carbolic Smoke Ball Company [1892] QBD 484:
-
-... according to my view, a wagering contract is one by which two persons, professing to hold opposite views touching the issue of a future uncertain event, mutually agree that, dependent upon the determination of that event, one shall win from the other, and that other shall pay or hand over to him, a sum of money or other stake; neither of the contracting parties having any other interest in that contract than the sum or stake he will so win or lose, there being no other real consideration for the making of such contract by either of the parties. It is essential to a wagering contract that each party may under it either win or lose, whether he will win or lose being dependent on the issue of the event, and, therefore, remaining uncertain until that issue is known. If either of the parties may win but cannot lose, or may lose but cannot win, it is not a wagering contract (per Hawkins J at 490-491).
-
-NDFs do not satisfy paragraphs 121D(4)(e) or (ea) of the ITAA 1936 because there is no trade in currency or trade in rights in respect of currency.
+NDFs are called 'forward' contracts but are not agreements under which different types of currencies are agreed to be delivered or exchanged. The observations of Lord Templeman about interest rate swap in Hazell v. Hammersmith and Fulham London Borough Council and Ors [1991] All ER 545 are relevant to NDFs. His Lordship observed: The transactions were undertaken in the hope that the burden of interest payable in respect of the borrowings...would be mitigated by profits from swap contracts whereby the council successfully forecast movements in interest rates (at 550). The fact remains a swap transaction depends for its success on interest rates rising or falling in conformity with the expectation of the [swap party] at the date of the swap (at 552). ...a parallel contract does not in fact replace the interest under the original borrowing and the swap (at 553). The NDFs are aleatory contracts satisfied by a financial receivable or payable. They fit the description of wagering contracts in Carlill v. The Carbolic Smoke Ball Company [1892] QBD 484: ... according to my view, a wagering contract is one by which two persons, professing to hold opposite views touching the issue of a future uncertain event, mutually agree that, dependent upon the determination of that event, one shall win from the other, and that other shall pay or hand over to him, a sum of money or other stake; neither of the contracting parties having any other interest in that contract than the sum or stake he will so win or lose, there being no other real consideration for the making of such contract by either of the parties. It is essential to a wagering contract that each party may under it either win or lose, whether he will win or lose being dependent on the issue of the event, and, therefore, remaining uncertain until that issue is known. If either of the parties may win but cannot lose, or may lose but cannot win, it is not a wagering contract (per Hawkins J at 490-491). NDFs do not satisfy paragraphs 121D(4)(e) or (ea) of the ITAA 1936 because there is no trade in currency or trade in rights in respect of currency.
 Further, although the calculation of the amounts payable under the NDFs reflects a currency exchange rate agreed between the parties to the contract, the contract does not confer 'rights in respect of' the designated currency. The phrase 'in respect of' is capable of having a wide meaning depending on its context: per Deane, Dawson, Toohey JJ at Workers' Compensation Board (Qld) v. Technical Products Pty Ltd (1988) 165 CLR 642 at 653. But the connection with the underlying subject must not be 'too remote': Harris v. Federal Commissioner of Taxation (2002) 125 FCR 46; (2001) 50 ATR 410; 2002 ATC 4659 at 4674. NDFs do not create rights 'in respect' of the designated currency in the requisite sense. Rather, the NDF is executed by a payment or a receivable determined by reference, inter alia, to an agreed currency exchange rate.
 As NDFs do not give rise to rights in respect of the designated currency, they cannot constitute 'trading in rights in respect of' the designated currency for the purpose of paragraphs 121D(4)(e) and 121D(4)(ea) of the ITAA 1936.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-12 October 2021
+Comment 12 October 2021
 Reasons for Decision
-Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
-
- Date of effect 13 September 2021.
-
-[1]
-The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year.
-
-Date of decision:
-  23 February 2011
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 121D(1)   subsection 121D(4)   paragraph 121D(4)(e)   paragraph 121D(4)(ea)   section 121EA   section 121ED
-
-Case References:
-
-Californian Copper Syndicate v Harris (Surveyor of Taxes)   (1904) 5 TC 159
-
-Myer Emporium v Federal Commissioner of Taxation   [1987] HCA 18   163 CLR 199   87 ATC 4363   18 ATR 693
-
-Hornsby Shire Council v Salmar Holdings Pty Ltd   [1972] HCA 26   [1972] 46 ALJR 291   126 CLR 52
-
-Hazell v Hammersmith and Fulham London Borough Council and ors   [1991] All ER 545
-
-Carlill v The Carbolic Smoke Ball Company   [1892] 2 QBD 484
-
-Workers' Compensation Board (Qld) v Technical Products Pty Ltd   [1988] HCA 49   165 CLR 642
-
-Harris v Federal Commissioner of Taxation   [2002] FCAFC 226   (2002) 125 FCR 46   (2002) 50 ATR 410   2002 ATC 4659
-
-Other References:
-
-Macquarie Dictionary [Multimedia], version 5.0.0, 01/10/01
-
-Keywords
-
-Forward contracts
- Offshore banking units
- Foreign currency
- Foreign currency rights
- International transactions
-
-Siebel/TDMS Reference Number:
-  1-2P9HD8I
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 March 2011
-
-Date reviewed:
-  12 October 2021
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 February 2011
-Original statement
-
-You are here
+Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs. Date of effect 13 September 2021. [1]
+The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year. Date of decision: 23 February 2011 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 subsection 121D(1) subsection 121D(4) paragraph 121D(4)(e) paragraph 121D(4)(ea) section 121EA section 121ED Case References: Californian Copper Syndicate v Harris (Surveyor of Taxes) (1904) 5 TC 159 Myer Emporium v Federal Commissioner of Taxation [1987] HCA 18 163 CLR 199 87 ATC 4363 18 ATR 693 Hornsby Shire Council v Salmar Holdings Pty Ltd [1972] HCA 26 [1972] 46 ALJR 291 126 CLR 52 Hazell v Hammersmith and Fulham London Borough Council and ors [1991] All ER 545 Carlill v The Carbolic Smoke Ball Company [1892] 2 QBD 484 Workers' Compensation Board (Qld) v Technical Products Pty Ltd [1988] HCA 49 165 CLR 642 Harris v Federal Commissioner of Taxation [2002] FCAFC 226 (2002) 125 FCR 46 (2002) 50 ATR 410 2002 ATC 4659 Other References: Macquarie Dictionary [Multimedia], version 5.0.0, 01/10/01 Keywords Forward contracts Offshore banking units Foreign currency Foreign currency rights International transactions Siebel/TDMS Reference Number: 1-2P9HD8I Business Line: Public Groups and International Date of publication: 25 March 2011 Date reviewed: 12 October 2021 ISSN: 1445-2782 history Date: Version: 23 February 2011
+Original statement You are here
 12 October 2021
 Updated statement

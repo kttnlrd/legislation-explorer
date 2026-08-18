@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/772
-==================================================
-
-Income Tax
- Dividend: Shares received from demerger of foreign company - Australian resident shareholder
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Dividend: Shares received from demerger of foreign company - Australian resident shareholder FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the shares in the Danish company, Novozymes A/S, received by an Australian resident taxpayer, following the demerger of the Danish company, Novo Nordisk A/S, assessable as a dividend under subsection 44(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The shares received in Novozymes A/S following the demerger are assessable as a dividend under subsection 44(1) of the ITAA 1936.
@@ -21,55 +10,9 @@ The taxpayer owned shares in Novo Nordisk A/S. On 13 November 2000, Novo Nordisk
 The taxpayer received one share in Novozymes A/S for each share owned in Novo Nordisk A/S. The Novozymes A/S share had similar rights, proportion of issued capital, par value, etc in Novozymes A/S as the equivalent share in Novo Nordisk A/S.
 The was no change to the taxpayer's Novo Nordisk A/S shares as a result of the demerger.
 Reasons for Decision
-Subsection 6(1) of the ITAA 1936 defines dividend to include:
-
-•any distribution made by a company to any of its shareholders, whether in money or other property; and
-•any amount credited by a company to any of its shareholders as shareholders.
-
-The definition specifically excludes:
-
-•money paid or credited; or property distributed by a company to a shareholder where the amount is debited to the share capital account of the company;
+Subsection 6(1) of the ITAA 1936 defines dividend to include: •any distribution made by a company to any of its shareholders, whether in money or other property; and
+•any amount credited by a company to any of its shareholders as shareholders. The definition specifically excludes: •money paid or credited; or property distributed by a company to a shareholder where the amount is debited to the share capital account of the company;
 •moneys paid or credited; or property distributed by a company for the redemption or cancellation of a redeemable preference share;
-•a reversionary bonus on a policy of life-assurance
-
-The receipt of these shares, as a result of the demerger, do not fall into one of the exclusions to the definition of a dividend as outlined in subsection 6(1) of the ITAA 1936. Therefore the value of the shares will be an assessable dividend.
-Section 44(1) of the ITAA 1936 provides, subject to the other provisions of sections 44 and 128D of the ITAA 1936, that the assessable income of a shareholder in a resident or non-resident company includes dividends paid by a company:
-
--where the shareholder is a resident of Australia as defined in section 6(1) of the ITAA 1936 - irrespective of the source of the profits from which the dividends are paid.
-
-Therefore, the value of the shares received by an Australian resident in Novozymes A/S as part of the demerger will be included as a dividend in the assessable income of the shareholder.
-Date of decision:
-  5 June 2002
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   subsection 44(1)   section 128D
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/771
-
-Keywords
-
-Acquisition of shares
- Company restructuring
- Dividend income
- Non resident companies
- Public companies
- Shares
- Shareholders
-
-Siebel/TDMS Reference Number:
-  DW338109
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 July 2002
-
-ISSN:
- 1445-2782
+•a reversionary bonus on a policy of life-assurance The receipt of these shares, as a result of the demerger, do not fall into one of the exclusions to the definition of a dividend as outlined in subsection 6(1) of the ITAA 1936. Therefore the value of the shares will be an assessable dividend.
+Section 44(1) of the ITAA 1936 provides, subject to the other provisions of sections 44 and 128D of the ITAA 1936, that the assessable income of a shareholder in a resident or non-resident company includes dividends paid by a company: -where the shareholder is a resident of Australia as defined in section 6(1) of the ITAA 1936 - irrespective of the source of the profits from which the dividends are paid. Therefore, the value of the shares received by an Australian resident in Novozymes A/S as part of the demerger will be included as a dividend in the assessable income of the shareholder.
+Date of decision: 5 June 2002 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) subsection 44(1) section 128D Related ATO Interpretative Decisions ATO ID 2002/771 Keywords Acquisition of shares Company restructuring Dividend income Non resident companies Public companies Shares Shareholders Siebel/TDMS Reference Number: DW338109 Business Line: Public Groups and International Date of publication: 31 July 2002 ISSN: 1445-2782

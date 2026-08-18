@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/74
-==================================================
-
-Income Tax
- Consolidation: Membership and Discretionary Trusts
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: Membership and Discretionary Trusts FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a trust is settled pursuant to a Deed that permits the trustee to add and remove persons to a defined class of objects, will that trust be eligible to be a member of a consolidated group as provided in item 2 of paragraph 703-15(2)(b) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. A trust settled pursuant to a Deed that permits the trustee to add and remove persons to a defined class of objects will be eligible to be a member of the consolidated group as provided in item 2 of paragraph 703-15(2)(b) of the ITAA 1997.
@@ -22,59 +11,10 @@ The trust Deed identifies classes of objects from whom the trustee may nominate 
 The trust Deed confers power on the trustee to add or remove objects from the pre-existing classes of objects.
 Reasons for Decision
 Section 703-15 of the ITAA 1997 defines the entities capable of being a member of either a consolidated or consolidatable group. For a trust to be a wholly-owned subsidiary of a consolidated group all the membership interests in the trust must be beneficially owned by either the holding entity, and/or one or more wholly-owned subsidiaries of the holding entity.
-Subsection 960-130(1) of the ITAA 1997 stipulates that a member of a trust is any beneficiary, unit holder or object of the trust. Section 960-135 of the ITAA 1997 states that a
- membership interest
- is:
-
-(a)each interest, or set of interests, in the entity; or
-(b)each right, or set of rights, in relation to the entity
-
-by virtue of which you are a member of the entity.
+Subsection 960-130(1) of the ITAA 1997 stipulates that a member of a trust is any beneficiary, unit holder or object of the trust. Section 960-135 of the ITAA 1997 states that a membership interest is: (a)each interest, or set of interests, in the entity; or
+(b)each right, or set of rights, in relation to the entity by virtue of which you are a member of the entity.
 The United Kingdom Court of Chancery Division decision in Re Manisty's Settlement [1973] 2 All ER 1203 held that a power conferred on a trustee to add members to an pre-existing class of objects was valid.
-Conferring a power on a trustee to nominate any person as an object of a trust, will not result in the conferral of 'interests' or 'rights' on a broad range of persons. This view is confirmed by the New South Wales Supreme Court of Appeal decision in Hartigan Nominees Pty Ltd v. Rydge (1992) 29 NSWLR 405, where at 425 Mahoney J A states:
-
-As I have indicated, a class of possible beneficiaries under a discretionary trust may be wide and may be capable, as in this case, of significant extension. I doubt that it is the duty of a trustee to seek out such persons and inform them of the possibility that, in certain circumstances, they may acquire rights under the trust. I do not think that, for example, where property may be appointed among a group of employees, past, present and future, of a company, the trustee has a duty to seek out and convey information of this kind.
-
-For the purposes of section 960-135 of the ITAA 1997, the mere existence of a power to extend a pre-existing class of objects of a trust will not confer any rights on persons outside of that class, who may at some future point in time be added to that class via the powers conferred on the trustee(s).
+Conferring a power on a trustee to nominate any person as an object of a trust, will not result in the conferral of 'interests' or 'rights' on a broad range of persons. This view is confirmed by the New South Wales Supreme Court of Appeal decision in Hartigan Nominees Pty Ltd v. Rydge (1992) 29 NSWLR 405, where at 425 Mahoney J A states: As I have indicated, a class of possible beneficiaries under a discretionary trust may be wide and may be capable, as in this case, of significant extension. I doubt that it is the duty of a trustee to seek out such persons and inform them of the possibility that, in certain circumstances, they may acquire rights under the trust. I do not think that, for example, where property may be appointed among a group of employees, past, present and future, of a company, the trustee has a duty to seek out and convey information of this kind. For the purposes of section 960-135 of the ITAA 1997, the mere existence of a power to extend a pre-existing class of objects of a trust will not confer any rights on persons outside of that class, who may at some future point in time be added to that class via the powers conferred on the trustee(s).
 Therefore, a trust settled pursuant to a Deed that permits the trustee to add and remove persons to a defined class of objects will be eligible to be a member of the consolidated group as provided in item 2 of paragraph 703-15(2)(b) of the ITAA 1997.
-Date of decision:
-  3 November 2004
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 6
-Income Tax Assessment Act 1997   section 703-15   paragraph 703-15(2)(b)   section 703-20   subsection 960-130(1)   section 960-135
-
-Case References:
-
-Re Manisty's Settlement Trusts    [1973] 2 All ER 1203
-
-Hartigan Nominees Pty Ltd v. Rydge    (1992) 29 NSWLR 405
-
-Other References:
-
-R P Meagher, W M C Gummow and J R F Lehane, Equity: Doctrines and Remedies, 3rd ed., Butterworths, Sydney, 1992.
- D Barnett, The nature of a beneficiary's interest in the assets of an express trust, (2004) 10 Australian Property Law Journal
- Consolidation Reference Manual, Part C1-1: Eligibility tests and rules
-
-Keywords
-
-Consolidation
- Consolidation - formation
- Consolidation - membership
- Wholly owned trusts
-
-Siebel/TDMS Reference Number:
-  4193085
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  11 March 2005
-
-ISSN:
- 1445-2782
+Date of decision: 3 November 2004 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 section 6
+Income Tax Assessment Act 1997 section 703-15 paragraph 703-15(2)(b) section 703-20 subsection 960-130(1) section 960-135 Case References: Re Manisty's Settlement Trusts [1973] 2 All ER 1203 Hartigan Nominees Pty Ltd v. Rydge (1992) 29 NSWLR 405 Other References: R P Meagher, W M C Gummow and J R F Lehane, Equity: Doctrines and Remedies, 3rd ed., Butterworths, Sydney, 1992. D Barnett, The nature of a beneficiary's interest in the assets of an express trust, (2004) 10 Australian Property Law Journal Consolidation Reference Manual, Part C1-1: Eligibility tests and rules Keywords Consolidation Consolidation - formation Consolidation - membership Wholly owned trusts Siebel/TDMS Reference Number: 4193085 Business Line: Consolidation Centre of Expertise Date of publication: 11 March 2005 ISSN: 1445-2782

@@ -27,10 +27,10 @@ source_pdf: "vol03.pdf"
 
 > **Note:** This Part also:
 
-> <a id="s160ZZVA-1-a"></a>
+> <a id="s160ZZVA-1-a-2"></a>
 > **(a)**  applies to foreign entities that are financial entities in the same way as it applies to foreign banks; and
 
-> <a id="s160ZZVA-1-b"></a>
+> <a id="s160ZZVA-1-b-2"></a>
 > **(b)**  applies to permanent establishments in Australia of foreign entities that are financial entities in the same way as it applies to Australian branches of foreign banks. See Division 4.
 
 <a id="s160ZZVA-2"></a>

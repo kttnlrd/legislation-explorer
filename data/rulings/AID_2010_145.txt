@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/145
-==================================================
-
-Goods and Services Tax
- GST and dip with biscuits
- FOI status: may be released
-
-The ATO view for this issue is covered in Goods and Service Tax Determination GSTD 2024/1 Goods and services tax: supplies of combination food.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and dip with biscuits FOI status: may be released The ATO view for this issue is covered in Goods and Service Tax Determination GSTD 2024/1 Goods and services tax: supplies of combination food. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a food supplier, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies dip with biscuits where the dip and biscuits are wrapped individually and then packaged together?
 Decision
 No, the entity is not making a taxable supply under section 9-5 of the GST Act when it supplies dip with biscuits where the dip and biscuits are wrapped individually and then packaged together. The entity is making a mixed supply that is partly taxable under section 9-5 of the GST Act and partly GST-free under section 38-2 of the GST Act.
@@ -33,84 +18,14 @@ Dip is not food of a kind specified in Schedule 1 and is, therefore, GST-free. H
 Therefore, it is necessary to determine whether the supply of the dip together with the biscuits is a supply of 'food that is a combination of one or more foods at least one of which is a food of such a kind' specified in Schedule 1.
 The Macquarie Dictionary (1997) defines 'combination' to mean '1. the act of combining. 2. the state of being combined. 3. a number of things combined.' 'Combine' is defined in The Macquarie Dictionary (1997) to include 'to bring or join into a close union or whole; unite; associate; coalesce.' Therefore, food that is a 'combination of one or more foods' could be either a number of food items joined or mixed together to make a single product or a number of food products that are merely sold together. As the word 'combine' could be interpreted in more than one way, the meaning of the phrase 'food that is a combination of one or more foods' in paragraph 38-3(1)(c) of the GST Act is unclear.
 Subsection 15AB(1) of the Acts Interpretation Act 1901 provides that consideration may be given to material not forming part of an Act for particular purposes including 'to determine the meaning of the provision when the provision is ambiguous or obscure....'. Paragraph 15AB(2)(e) of the Acts Interpretation Act provides that any explanatory memorandum relating to the Bill containing the provision is extrinsic material that may be considered for this purpose.
-Paragraph 1.17 of the Further Supplementary Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 (EM) states:
-
-Food that is a combination of one or more foods, at least one of which is food of a kind specified in the table in new Schedule 1A of the Bill (prepared food, confectionery, savoury snacks, bakery products, ice-cream food and biscuit goods) is not GST-free. For example, a snack pack containing cheese and biscuits is not GST-free because it contains at least one type of food specified in new Schedule 1A (biscuits)...
-
-Paragraph 1.18 of the EM clarifies the intended scope of this provision by stating:
-
-The exclusion in the above paragraph would not apply where a mix of packaged goods is packed and sold together (eg. a hamper containing a packet of biscuits, box of chocolate and a jar of coffee). These items would be taxed individually (ie. Biscuits and chocolates subject to tax and the coffee GST-free).
-
-Therefore, a supply combining individual foods that are taxable (that is, listed in Schedule 1) and GST-free, but which are supplied in a single tray and are not separated by their individual packaging (for example a snack pack containing cheese and biscuits) is excluded from being GST-free by paragraph 38-3(1)(c) of the GST Act, because it is 'a combination of food that contains a type of food specified in Schedule 1'.
+Paragraph 1.17 of the Further Supplementary Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 (EM) states: Food that is a combination of one or more foods, at least one of which is food of a kind specified in the table in new Schedule 1A of the Bill (prepared food, confectionery, savoury snacks, bakery products, ice-cream food and biscuit goods) is not GST-free. For example, a snack pack containing cheese and biscuits is not GST-free because it contains at least one type of food specified in new Schedule 1A (biscuits)... Paragraph 1.18 of the EM clarifies the intended scope of this provision by stating: The exclusion in the above paragraph would not apply where a mix of packaged goods is packed and sold together (eg. a hamper containing a packet of biscuits, box of chocolate and a jar of coffee). These items would be taxed individually (ie. Biscuits and chocolates subject to tax and the coffee GST-free). Therefore, a supply combining individual foods that are taxable (that is, listed in Schedule 1) and GST-free, but which are supplied in a single tray and are not separated by their individual packaging (for example a snack pack containing cheese and biscuits) is excluded from being GST-free by paragraph 38-3(1)(c) of the GST Act, because it is 'a combination of food that contains a type of food specified in Schedule 1'.
 This can be contrasted with a supply of individual foods that are taxable (that is, listed in Schedule 1) and GST-free, but which are packaged individually and then wrapped and sold together (for example a hamper). This type of supply is not 'a combination of food that contains a type of food specified in Schedule 1' because, as each food is individually packaged, they are not 'combined'. This is a mixed supply, with the GST status of each item being assessed independently.
 The entity is supplying dip and biscuits which are individually packed and then wrapped together by additional outer packaging, similar to a hamper. Therefore, the supply is not 'a combination of one or more foods at least one of which is food of such a kind (specified in schedule 1)' and is not excluded from being GST-free by paragraph 38-3(1)(c) of the GST Act.
 The supply of biscuits satisfies all the positive limbs of section 9-5 of the GST Act and is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity's supply of the biscuits is taxable under section 9-5 of the GST Act.
-Since the dip is GST-free, the entity is making a mixed supply and will need to apportion the consideration.
-
-Note 1
- : section 9-40 of the GST Act provides that the entity is liable for GST on the taxable supplies that it makes. Generally, an entity's GST liability is calculated as 1/11 of the consideration for the supply. Where the supply is a mixed supply, the GST liability is only calculated on the taxable portion as determined in subsection 9-80(2) of the GST Act.
-
-Subsection 9-80(2) of the GST Act provides that the value of the mixed supply that represents the taxable supply is calculated in accordance with the following formula:
-
-(Price of the supply × 10) / (10 + Taxable proportion)
-
-where: 'taxable proportion' is the proportion of the value of the actual supply that represents the value of the taxable supply (expressed as a number between 0 and 1).
-
-Note 2
- : where an entity makes a mixed supply, the tax invoice must satisfy the requirements of subsection 29-70(1) of the GST Act, including that it contain enough information to clearly ascertain:
-
-•what is supplied, including the quantity and price;
+Since the dip is GST-free, the entity is making a mixed supply and will need to apportion the consideration. Note 1 : section 9-40 of the GST Act provides that the entity is liable for GST on the taxable supplies that it makes. Generally, an entity's GST liability is calculated as 1/11 of the consideration for the supply. Where the supply is a mixed supply, the GST liability is only calculated on the taxable portion as determined in subsection 9-80(2) of the GST Act. Subsection 9-80(2) of the GST Act provides that the value of the mixed supply that represents the taxable supply is calculated in accordance with the following formula: (Price of the supply × 10) / (10 + Taxable proportion) where: 'taxable proportion' is the proportion of the value of the actual supply that represents the value of the taxable supply (expressed as a number between 0 and 1). Note 2 : where an entity makes a mixed supply, the tax invoice must satisfy the requirements of subsection 29-70(1) of the GST Act, including that it contain enough information to clearly ascertain: •what is supplied, including the quantity and price;
 •the extent to the supply is a taxable supply; and
-•the amount of GST payable.
-
-Date of decision:
-  1 July 2010
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 9-40   subsection 9-80(2)   subsection 29-70(1)   Division 38   section 38-2   section 38-3   paragraph 38-3(1)(c)   section 38-4   paragraph 38-4(1)(a)   Division 40   Schedule 1 clause 1   Schedule 1 clause 1 table item 32
-Acts Interpretation Act 1901   subsection 15AB(1)   paragraph 15AB(2)(e)
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2002/684
-
-Other References:
-
- Further Supplementary Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998.
- The Macquarie Dictionary, 1997, 3rd edition, The Macquarie Library Pty Ltd, New South Wales.
-
-Keywords
-
-Goods and services tax
- GST free
- GST food
- Food for human consumption
-
-Siebel/TDMS Reference Number:
-  1-26RJ4OU
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  13 August 2010
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 1 July 2010
-Original statement
-
-You are here
+•the amount of GST payable. Date of decision: 1 July 2010 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 9-40 subsection 9-80(2) subsection 29-70(1) Division 38 section 38-2 section 38-3 paragraph 38-3(1)(c) section 38-4 paragraph 38-4(1)(a) Division 40 Schedule 1 clause 1 Schedule 1 clause 1 table item 32
+Acts Interpretation Act 1901 subsection 15AB(1) paragraph 15AB(2)(e) ATO Interpretative Decisions overturned by this decision ATO ID 2002/684 Other References: Further Supplementary Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998. The Macquarie Dictionary, 1997, 3rd edition, The Macquarie Library Pty Ltd, New South Wales. Keywords Goods and services tax GST free GST food Food for human consumption Siebel/TDMS Reference Number: 1-26RJ4OU Business Line: Indirect Tax Date of publication: 13 August 2010 ISSN: 1445-2782 history Date: Version: 1 July 2010
+Original statement You are here
 28 February 2024
 Archived

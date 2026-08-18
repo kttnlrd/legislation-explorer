@@ -1,21 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/51
-==================================================
-
-Goods and Services Tax
- GST and decreasing adjustments when a hire purchase agreement is terminated due to default
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2000/29 Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and decreasing adjustments when a hire purchase agreement is terminated due to default This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2000/29 Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entity, a supplier under a hire purchase agreement, have an adjustment under section 19-40 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it exercises its right to terminate the hire purchase agreement due to default and the outstanding instalments are no longer payable?
 Decision
 Yes, the entity has an adjustment under section 19-40 of the GST Act. This adjustment is a decreasing adjustment within the meaning of that term in section 19-55 of the GST Act.
@@ -26,71 +12,16 @@ The entity does not account for GST on a cash basis.
 The entity has attributed the GST payable on the supplies of the goods and credit under the hire purchase agreement to an earlier tax period.
 In a later tax period, there is a genuine dispute between the parties, the hirer defaults and the entity exercises its right to terminate the hire purchase agreement. The entity has the right to repossess the goods and sell or re-hire them. Amounts in arrears up to the date of termination remain payable.
 Under the hire purchase agreement, the future outstanding instalments are no longer payable. To compensate the entity for any loss under the hire purchase agreement the entity is entitled to a termination amount. The termination amount is the discounted future outstanding amounts reduced by the net proceeds of resale or rehiring.
-These events are illustrated in the following diagram. This ATO ID addresses event (3):
-
-Reasons for Decision
-Section 19-40 of the GST Act provides that an entity has an adjustment for a supply for which it is liable to pay GST if:
-
-•in relation to the supply, one or more adjustment events occur during a tax period;
+These events are illustrated in the following diagram. This ATO ID addresses event (3): Reasons for Decision
+Section 19-40 of the GST Act provides that an entity has an adjustment for a supply for which it is liable to pay GST if: •in relation to the supply, one or more adjustment events occur during a tax period;
 •GST on the supply was attributable to an earlier tax period, and
-•as a result of those adjustment events, the previously attributed GST amount for the supply no longer reflects the amount of GST on the supply, taking into account any change in circumstances that has given rise to the adjustment event(s).
-
-Under paragraph 19-10(1)(b) of the GST Act, an adjustment event is an event that has the effect of changing the consideration for a supply.
+•as a result of those adjustment events, the previously attributed GST amount for the supply no longer reflects the amount of GST on the supply, taking into account any change in circumstances that has given rise to the adjustment event(s). Under paragraph 19-10(1)(b) of the GST Act, an adjustment event is an event that has the effect of changing the consideration for a supply.
 With the termination of the hire purchase agreement, the entity is no longer entitled to the future instalments that would have become due and payable if the agreement was still on foot.
 Consequently, the consideration for the supplies of goods and credit made under the hire purchase agreement is reduced as the future instalments are no longer consideration for these supplies. Change in consideration for the supplies of goods and credit is an adjustment event under paragraph 19-10(1)(b) of the GST Act.
 This is consistent with paragraph 216 of Goods and Services Tax Ruling GSTR 2000/29 which provides that the repossession of goods under a hire purchase agreement is an adjustment event and adjustments may be required under Division 19 of the GST Act.
 As a result of the adjustment event, the previously attributed GST for the supplies is no longer an accurate reflection of the consideration for the supplies.
-As all the requirements in section 19-40 of the GST Act are met, the entity has an adjustment under section 19-40 of the GST Act when it exercises its right to terminate the hire purchase agreement due to default. As the corrected GST amount is less that the previously attributed GST amount, the adjustment is a decreasing adjustment within the meaning of that term in section 19-55.
-
-Note
+As all the requirements in section 19-40 of the GST Act are met, the entity has an adjustment under section 19-40 of the GST Act when it exercises its right to terminate the hire purchase agreement due to default. As the corrected GST amount is less that the previously attributed GST amount, the adjustment is a decreasing adjustment within the meaning of that term in section 19-55. Note
 : The termination amount is payable in respect of damages and the payment is not a consideration for a supply and hence is not taken into account in determining the corrected GST amount. See ATO ID 2013/52).
-Date of decision:
-  12 September 2013
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 19   paragraph 19-10(1)(b)   section 19-40   section 19-55
-
-Related Public Rulings (including Determinations)
-
-GSTR 2000/29
-
-Related ATO Interpretative Decisions
-
- ATO ID 2013/52
- ATO ID 2006/4
-
-Keywords
-
-goods and services tax
- GST hire purchase
- GST net amounts & adjustments
- decreasing adjustment
-
-Siebel/TDMS Reference Number:
-  1-4YUQ288
-
-Business Line:
-  Interpretative Assistance, Indirect Tax
-
-Date of publication:
-  20 September 2013
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 September 2013
-Original statement
-
-You are here
- 5 May 2022
+Date of decision: 12 September 2013 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 19 paragraph 19-10(1)(b) section 19-40 section 19-55 Related Public Rulings (including Determinations) GSTR 2000/29 Related ATO Interpretative Decisions ATO ID 2013/52 ATO ID 2006/4 Keywords goods and services tax GST hire purchase GST net amounts & adjustments decreasing adjustment Siebel/TDMS Reference Number: 1-4YUQ288 Business Line: Interpretative Assistance, Indirect Tax Date of publication: 20 September 2013 ISSN: 1445-2782 history Date: Version: 12 September 2013
+Original statement You are here 5 May 2022
 Archived

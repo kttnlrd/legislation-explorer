@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/124
-==================================================
-
-Superannuation
- Lump sums received from foreign superannuation funds by Australian residents: relevant periods under subsection 305-75(3) of the ITAA 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Lump sums received from foreign superannuation funds by Australian residents: relevant periods under subsection 305-75(3) of the ITAA 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When calculating the amount of 'applicable fund earnings' under subsection 305-75(3) of the Income Tax Assessment Act 1997 (ITAA 1997), is 'the period' in paragraph 305-75(3)(c) of the ITAA 1997 the same as 'the period to which the lump sum relates' elsewhere in subsection 305-75(3) and in subsection 305-75(2) of the ITAA 1997?
 Decision
 No. 'The period' in paragraph 305-75(3)(c) of the ITAA 1997 commences on the date, during the period to which the lump sum relates, on which the member first became an Australian resident. The period ceases when the foreign superannuation lump sum is paid.
@@ -36,39 +25,6 @@ The Explanatory Memorandum to the Tax Laws Amendment (Simplified Superannuation)
 To achieve this policy outcome, when applying the proportion in paragraph 305-75(3)(c) of the ITAA 1997, 'the period' must commence on the day within the period to which the lump sum relates on which the taxpayer first became a resident of Australia, and conclude when the lump sum is paid.
 By using paragraph 305-75(3)(c) of the ITAA 1997 in the formula, the residency proportion of that period, the formula will adjust or maintain the earnings amount calculated at paragraphs 305-75(3)(a) and 305-75(3)(b) of the ITAA 1997 so that it will represent the proportion of earnings attributable to the taxpayer's period(s) of Australian residency.
 In this case, 'the period to which the lump sum relates', for the purposes of subsection 305-75(3) of the ITAA 1997, is from 1/01/1999 to 30/06/2009. However, 'the period', for the purposes of paragraph 305-75(3)(c) of the ITAA 1997, is from 01/07/2007 to 30/06/2009. During 'the period' the superannuation lump sum increased by $1000. The Australian resident days for the taxpayer are from 01/07/2007 to 01/01/2008 and 01/07/2008 to 30/06/2009.
-Therefore, the applicable fund earnings are:
-
-$1000 × 548/730 = $750.70
-
-The taxpayer needs to include $750.70 as part of their assessable income.
-Date of decision:
-  12 October 2009
-
-Year of income:
-  Year ended 30 June 2008 Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 27CAA   subsection 27CAA(1)
-Income Tax Assessment Act 1997   section 305-70   subsection 305-75(2)   subsection 305-75(3)   paragraph 305-75(3)(a)   paragraph 305-75(3)(b)   paragraph 305-75(3)(c)
-
-Keywords
-
-Superannuation
- Superannuation benefits
- Superannuation benefits from foreign superannuation funds
-
-Siebel/TDMS Reference Number:
-  6331660; 1-6037G3G
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  30 October 2009
-
-Date reviewed:
-  13 November 2014
-
-ISSN:
- 1445 - 2782
+Therefore, the applicable fund earnings are: $1000 × 548/730 = $750.70 The taxpayer needs to include $750.70 as part of their assessable income.
+Date of decision: 12 October 2009 Year of income: Year ended 30 June 2008 Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 section 27CAA subsection 27CAA(1)
+Income Tax Assessment Act 1997 section 305-70 subsection 305-75(2) subsection 305-75(3) paragraph 305-75(3)(a) paragraph 305-75(3)(b) paragraph 305-75(3)(c) Keywords Superannuation Superannuation benefits Superannuation benefits from foreign superannuation funds Siebel/TDMS Reference Number: 6331660; 1-6037G3G Business Line: Superannuation Date of publication: 30 October 2009 Date reviewed: 13 November 2014 ISSN: 1445 - 2782

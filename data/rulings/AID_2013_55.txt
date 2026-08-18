@@ -1,21 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/55
-==================================================
-
-Goods and Services Tax
- Revocation of approval for making deferred payments of GST
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax Revocation of approval for making deferred payments of GST This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will an entity's approval for making deferred payments of GST be revoked under subparagraph 33-15.08(1)(c) of the A New Tax System (Goods and Services Tax) Regulations 1999 (the GST Regulations), if the entity applies to adjust previously declared customs values, by lodging a refund application form with Australian Customs and Border Protection Service (ACBPS) manually instead of by computer?
 Decision
 No, the entity's approval for making deferred payments of GST will not be revoked under subparagraph 33-15.08(1)(c) of the GST Regulations.
@@ -27,18 +13,10 @@ For the relevant importation of goods the entity had communicated with ACBPS in 
 After the goods were entered for home consumption the entity lodged refund application forms manually with ACBPS to adjust previously declared customs values due to transfer pricing adjustments for each affected import declaration. The reduction in customs value also reduces the GST payable on each taxable importation. The entity did not amend the import declaration by computer through the ICS.
 Reasons for Decision
 The Commissioner may, in writing, revoke an entity's approval for making deferred GST payments under paragraph 33-15.08(1)(c) of the GST Regulations if the Commissioner is satisfied that the entity has failed to meet a requirement in subregulation 33-15.06(1) of the GST Regulations.
-Under subregulation 33-15.06(1) of the GST Regulations, an approved entity must:
-
-(a)enter goods for home consumption by computer (within the meaning of the Customs Act 1901), and
+Under subregulation 33-15.06(1) of the GST Regulations, an approved entity must: (a)enter goods for home consumption by computer (within the meaning of the Customs Act 1901), and
 (b)lodge its GST returns electronically in a format approved by the Commissioner for this regulation, and
-(c)pay the amounts of GST for which the entity is liable by electronic payment.
-
-Under the facts in this situation the Commissioner considers that paragraph 33-15.06(1)(a) of the GST Regulations continues to be satisfied.
-In analysing paragraph 33-15.06(1)(a) of the GST Regulations, the meaning of entering goods for home consumption is drawn from the Customs Act.
-
-Entry of goods for home consumption
-
-An entry of goods for home consumption is made by communicating to ACBPS an import declaration in respect of the goods under subsection 68(3A) of the Customs Act.
+(c)pay the amounts of GST for which the entity is liable by electronic payment. Under the facts in this situation the Commissioner considers that paragraph 33-15.06(1)(a) of the GST Regulations continues to be satisfied.
+In analysing paragraph 33-15.06(1)(a) of the GST Regulations, the meaning of entering goods for home consumption is drawn from the Customs Act. Entry of goods for home consumption An entry of goods for home consumption is made by communicating to ACBPS an import declaration in respect of the goods under subsection 68(3A) of the Customs Act.
 An import declaration can be communicated by document or electronically under subsection 71A(2) of the Customs Act
 The entity has communicated with Customs in accordance with sections 68 and 71A of the Customs Act and their communication to Customs was via an import declarations submitted electronically via the ICS.
 Subsection 71F(2) of the Customs Act provides that alteration of an entry done after an import declaration (entry) is made to ACBPS and before the goods are dealt with in accordance with the entry would constitute a withdrawal. As such any new entry would be regarded as a new entry for home consumption and would be required to be lodged by computer if the importer was registered under the Deferred GST Scheme. This provision is not relevant in the current set of circumstances as the entity's goods have already been dealt with in accordance with the original entry.
@@ -47,35 +25,5 @@ The refund application containing the amendment (adjusting the price as per the 
 As such, there is no requirement for the entity to submit the refund application to ACBPS electronically to satisfy paragraph 33-15.06(1)(a) of the GST Regulations.
 Accordingly, the entity is not in breach of paragraph 33-15.08(1)(c) of the GST Regulations when it lodges the refund application to adjust previously declared customs values as they have not failed to meet a requirement in subregulation 33-15.06(1) of the GST Regulations.
 The Commissioner would not consider revoking the entity's approval of deferred GST payments.
-Date of decision:
-  16 October 2013
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 33-15.06(1)   paragraph 33-15.06(1)(a)   subregulation 33-15.08(1)   paragraph 33-15.08(1)(c)
-Customs Act 1901   section 68   subsection 68(3A)   section 71   subsection 71A(2)   subsection 71F(2)   subsection 71G(1)
-
-Related Public Rulings (including Determinations)
-
-GSTR 2003/15
-
-Keywords
-
-goods and services tax
- deferred GST Scheme
- GST Imports
- GST import of goods
- GST supply
- GST supplies & acquisitions
-
-Siebel/TDMS Reference Number:
-  1-52AXM49
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  18 October 2013
-
-ISSN:
- 1445-2782
+Date of decision: 16 October 2013 Legislative References: A New Tax System (Goods and Services Tax) Regulations 1999 subregulation 33-15.06(1) paragraph 33-15.06(1)(a) subregulation 33-15.08(1) paragraph 33-15.08(1)(c)
+Customs Act 1901 section 68 subsection 68(3A) section 71 subsection 71A(2) subsection 71F(2) subsection 71G(1) Related Public Rulings (including Determinations) GSTR 2003/15 Keywords goods and services tax deferred GST Scheme GST Imports GST import of goods GST supply GST supplies & acquisitions Siebel/TDMS Reference Number: 1-52AXM49 Business Line: Indirect Tax Date of publication: 18 October 2013 ISSN: 1445-2782

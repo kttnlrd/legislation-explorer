@@ -1,26 +1,11 @@
 ATO Interpretative Decision
 ATO ID 2004/735
-==================================================
-
-Income tax
- Consolidation: testing 'continuing majority-owned entity' status for a demerged entity in a multi-tiered corporate structure
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Consolidation: testing 'continuing majority-owned entity' status for a demerged entity in a multi-tiered corporate structure FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will C Ltd, whose parent company B Ltd was demerged under Division 125 of the Income Tax Assessment Act 1997 (ITAA 1997) from the A Ltd Group, be a 'continuing majority-owned entity' (CMOE) as defined in subsection 701A-1(1) of the Income Tax Transitional Provisions Act 1997 (IT(TP)A 1997)?
 Decision
-Yes, C Ltd is a CMOE based on the following:
-
-1. the demerger itself caused a minor change of less than 5% in ownership as recorded in the share registers of A Ltd and B Ltd; and
-2. there has been more than 50% continuity of registered share ownership from 27 June 2002 until immediately before the demerger, and from immediately after the demerger until the consolidation formation time.
-
-Facts
+Yes, C Ltd is a CMOE based on the following: 1. the demerger itself caused a minor change of less than 5% in ownership as recorded in the share registers of A Ltd and B Ltd; and
+2. there has been more than 50% continuity of registered share ownership from 27 June 2002 until immediately before the demerger, and from immediately after the demerger until the consolidation formation time. Facts
 A demerger of B Ltd and its wholly owned subsidiary C Ltd took place from the A Ltd Group after 27 June 2002. The result of the demerger was that immediately after the demerger A Ltd shareholders held all the shares in B Ltd.
 At all times from 27 June 2002 until the demerger all the shares in C Ltd were owned directly by A Ltd. As part of the demerger, A Ltd firstly sold all the shares in C Ltd to B Ltd, and then A Ltd sold the shares in B Ltd to the shareholders of A Ltd.
 There has been more than a 50% continuity of ownership of membership interests (measured by the market value of registered shareholders) for the period 27 June 2002 until immediately before the consolidation formation time. This continuity is shown in the A Ltd share register until immediately before the demerger, and in the B Ltd share register from immediately after the demerger until the consolidation formation time.
@@ -35,45 +20,5 @@ Therefore, apart from a minor change in ownership of less than 5% between the re
 As the demerger itself caused the registered shareholdings of A Ltd to change by less than 5% as compared to that of B Ltd, it is unlikely that the ultimate beneficial owners of the shares would have changed by 50% or more as a result of the demerger. So even without proving that there has been continuity of ownership by actually tracing to the ultimate beneficial owners of A Ltd and B Ltd, a conclusion may be made that there has been continuing majority ownership of C Ltd before and after the demerger.
 The example at C2-4-855 in the Consolidation Reference Manual states that in most cases it will be clear whether or not there has been a change in the majority ultimate beneficial ownership of an entity. By implication, it should normally only be necessary to prove a change in majority ownership where this has clearly occurred.
 Based on the minor change between A Ltd's and B Ltd's registered ownership due to the demerger, it is likely that there would also have been only a minor change to the ultimate beneficial ownership due to the demerger. As there has been more than 50% continuity of registered share ownership from 27 June 2002 until the demerger and from then until the formation time, it is concluded that C Ltd is a CMOE for the purposes of subsection 701A-1(1) of the IT (TP) Act 1997. Therefore, trading stock held by C Ltd will be a retained cost base asset for the purposes of the tax cost setting rules in Division 705 of the ITAA 1997.
-Date of decision:
-  16 August 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax (Transitional Provisions) Act 1997   subsection 701A-1(1)   subsection 701A-1(2)   subsection 701A-5(3)
-Income Tax Assessment Act 1997   section 705-35
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/452
- ATO ID 2004/197
-
-Other References:
-
- Consolidations Reference Manual C2-4-855
-
-Keywords
-
-Consolidation - continuity of ownership test
- Cost setting rules
- Formation time
- Joining entity
- Joining time
- Minerals as trading stock
- Retained cost base asset
- Trading stock
-
-Siebel/TDMS Reference Number:
-  4008465
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  10 September 2004
-
-ISSN:
- 1445-2782
+Date of decision: 16 August 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax (Transitional Provisions) Act 1997 subsection 701A-1(1) subsection 701A-1(2) subsection 701A-5(3)
+Income Tax Assessment Act 1997 section 705-35 Related ATO Interpretative Decisions ATO ID 2003/452 ATO ID 2004/197 Other References: Consolidations Reference Manual C2-4-855 Keywords Consolidation - continuity of ownership test Cost setting rules Formation time Joining entity Joining time Minerals as trading stock Retained cost base asset Trading stock Siebel/TDMS Reference Number: 4008465 Business Line: Consolidation Centre of Expertise Date of publication: 10 September 2004 ISSN: 1445-2782

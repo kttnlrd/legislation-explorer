@@ -1,180 +1,30 @@
 ATO Interpretative Decision
 ATO ID 2002/411
-==================================================
-
-Income Tax
- Capital gains tax - scrip for scrip roll-over - ineligible proceeds
- FOI status: may be released
-
-This ATO ID is withdrawn because it is a restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax - scrip for scrip roll-over - ineligible proceeds FOI status: may be released This ATO ID is withdrawn because it is a restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 What are the tax consequences if the taxpayer chooses scrip for scrip roll-over in accordance with paragraph 124-781(3)(c) of the Income Tax Assessment Act 1997 (ITAA 1997) for the Stockland Trust Group takeover of Advance Property Fund?
 Decision
 The taxpayer can choose scrip for scrip roll-over under paragraph 124-781(3)(c) of the ITAA 1997 to the extent that it exchanges Advance Property Fund units for Stockland Trust units. Roll-over is not available to the extent that the taxpayer received cash, options and Stockland shares (ineligible proceeds) (subsection 124-790(1) of the ITAA 1997).
 Under subsection 124-790(2) of the ITAA 1997 a portion of the cost base of the Advance Property Fund units is taken into account in determining any capital gain or loss made on the Advance Property Fund units attributable to the ineligible proceeds.
 Facts
-The taxpayer owned 10558 units (with a cost base of $12392) in Advance Property Fund. The total amount of tax deferred distributions (ie. non assessable payments) received from Advance Property Fund was $3331. The adjusted cost base of the units (
- disregarding indexation
- ) at the time of the takeover by Stockland Trust Group was $9061 ($12392-$3331). The cost base of each unit owned by the taxpayer at the takeover by Stockland Trust Group was $0.86 (ie $9061 divided by 10558).
-Stockland Trust Group made a takeover offer for Advance Property Fund. The offer was open from 13 September 2000 and closed on 16 October 2000. The offer was that for every 2.8 Advance units, unitholders would receive:
-
-•1 x Stockland stapled security (comprising 1 unit in Stockland Trust and 1 share in Stockland Ltd);
+The taxpayer owned 10558 units (with a cost base of $12392) in Advance Property Fund. The total amount of tax deferred distributions (ie. non assessable payments) received from Advance Property Fund was $3331. The adjusted cost base of the units ( disregarding indexation ) at the time of the takeover by Stockland Trust Group was $9061 ($12392-$3331). The cost base of each unit owned by the taxpayer at the takeover by Stockland Trust Group was $0.86 (ie $9061 divided by 10558).
+Stockland Trust Group made a takeover offer for Advance Property Fund. The offer was open from 13 September 2000 and closed on 16 October 2000. The offer was that for every 2.8 Advance units, unitholders would receive: •1 x Stockland stapled security (comprising 1 unit in Stockland Trust and 1 share in Stockland Ltd);
 •$1.10 cash; and
-•0.25 Stockland Option to acquire stapled securities (the option entitled the holder to subscribe for one Stockland stapled security at $3.85 per stapled security on 29 June 2001).
-
-The taxpayer accepted the offer and received:
-
-•3771 Stockland Stapled securities with each security having a market value of $3.82;
+•0.25 Stockland Option to acquire stapled securities (the option entitled the holder to subscribe for one Stockland stapled security at $3.85 per stapled security on 29 June 2001). The taxpayer accepted the offer and received: •3771 Stockland Stapled securities with each security having a market value of $3.82;
 •$4148 cash; and
-•943 options with each option having a market value of $0.14.
-
-The market value of a unit in Stockland Trust represented 83% of the value of a Stockland Stapled security, ie. $3.17 (83% of $3.82).
+•943 options with each option having a market value of $0.14. The market value of a unit in Stockland Trust represented 83% of the value of a Stockland Stapled security, ie. $3.17 (83% of $3.82).
 The market value of a share in Stockland Ltd represented 17% of the value of a Stockland Stapled security, ie. $0.65 (17% of $3.82).
-The total amount of capital proceeds received by the taxpayer was $18685 which was calculated as follows:
-
-Stockland Stapled Securities
-(3771 @ $3.82)
-
-Stockland shares
-2451
-
-Stockland units
-
-11954
-
-$14405
-
-Cash (3771 x $1.10)
-
-$ 4148
-
-Options (943 @ 14c)
-
-$132
-
-The market value of a unit in Advance Property Fund as at the date the taxpayer accepted the offer was $1.72. The market value of 2.8 Advance units at that time was $4.82.
+The total amount of capital proceeds received by the taxpayer was $18685 which was calculated as follows: Stockland Stapled Securities
+(3771 @ $3.82) Stockland shares
+2451 Stockland units 11954 $14405 Cash (3771 x $1.10) $ 4148 Options (943 @ 14c) $132 The market value of a unit in Advance Property Fund as at the date the taxpayer accepted the offer was $1.72. The market value of 2.8 Advance units at that time was $4.82.
 Reasons for Decision
 Subdivision 124-M of the ITAA 1997 provides scrip for scrip roll-over for the exchange of an original interest in an original entity for a replacement interest in an acquiring entity. The original and replacement interests must be of the same type eg a unit can be exchanged for a unit, an option for an option (paragraph 124-781(1)(a) of the ITAA 1997). Scrip for scrip roll-over is available to the extent that the Advance Property Fund units are exchanged for Stockland Trust units.
 Roll-over is not available to the extent that an original interest is exchanged for ineligible proceeds (subsection 124-790(1) of the ITAA 1997). The cash, options and Stockland shares are ineligible proceeds for the Advance Property Fund units.
 A portion of the cost base of the Advance Property Fund units is taken into account in determining any capital gain or loss made on the Advance Property Fund units attributable to the ineligible proceeds (subsection 124-790(2) of the ITAA 1997).
-(The example shown below illustrates how the capital gain is to be calculated. It also illustrates how the acquisition cost of the Stockland unit, the Stockland share and the Stockland option is to be calculated.)
-
-Capital Gain attributable to the Stockland shares, cash and options?
-
-Capital gain = #Ineligible Capital Proceeds - ##Cost Base of 'ineligible part'
-
-Capital gain = 6731 - 3274
-
-= $3457
-
-#Ineligible Capital Proceeds = Share + Cash + Options
-
-= 2451 + 4148 + 132
-
-= $6731
-
-##Cost base of 'ineligible part'
-
-(6731 (Ineligible proceeds) / 18628 (total proceeds)) * 9061 (Adjusted cost base of the Advance units)
-
-= $3274
-
-What is the acquisition cost of a Stockland unit?
-
-The acquisition cost of a Stockland unit is calculated by subtracting from the adjusted cost base of the taxpayer's Advance Property Fund units, the cost base of the 'ineligible part' and then dividing the difference by the number of Stockland units received as part of the takeover of Advance Property Fund by the Stockland Trust Group (subsections 124-785(2) & (3) of the ITAA 1997).
-
-Acquisition cost of Stockland Unit = ((adjusted cost base - #cost base of 'ineligible part') / Number of Stockland units received)
-
-= (9061 - 3274) / 3771
-
-= $1.53 per unit
-
-What is the acquisition cost of the share in Stockland Ltd and Stockland option?
-
-The acquisition cost of a Stockland share is calculated having regard to the market value of the property given to acquire it (subsection 110-25(2) of the ITAA 1997). The taxpayer gave a proportion of the value of an Advance Property Unit calculated as follows to acquire the share (or option).
-
-(value of share (option) / #value of all property received) * market value of advance units given
-
-#value of all property received =
-
-1 Stockland Share
-= 0.65 (17% of $3.82)
-
-1 Stockland Unit
-= 3.17 (83% of $3.82)
-
-Cash
-= 1.10
-
-0.25 Option
-=
- 0.03
- (25% of $0.14)
-
-$4.95
-
-Acquisition cost of Stockland share = (0.65 / 4.95) * $4.82
-
-= $0.63 per share
-
-Acquisition cost of 0.25 Stockland option = (0.03 / 4.95) * $4.82
-
-= $0.03 per .25 option
-
-Acquisition cost of Stockland option =
- $0.12 per option
-
-Date of decision:
-  12 March 2002
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 124-M   subsection 110-25(2)   paragraph 124-781(3)(c)   subsection 124-785(2)   subsection 124-785(3)   subsection 124-790(1)   subsection 124-790(2)
-
-Keywords
-
-Capital gains tax
- Capital Gains Tax CoE
- CGT Replacement asset roll-over
- Exchange of unit trust units
- Partial roll-over
- Scrip for scrip roll-over
- Takeovers & mergers
- Unit trusts
-
-Business Line:
-  Centres of Expertise Capital Gains Tax
-
-Date of publication:
-  28 March 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 March 2002
-Original statement
-
-You are here
- 5 March 2010
+(The example shown below illustrates how the capital gain is to be calculated. It also illustrates how the acquisition cost of the Stockland unit, the Stockland share and the Stockland option is to be calculated.) Capital Gain attributable to the Stockland shares, cash and options? Capital gain = #Ineligible Capital Proceeds - ##Cost Base of 'ineligible part' Capital gain = 6731 - 3274 = $3457 #Ineligible Capital Proceeds = Share + Cash + Options = 2451 + 4148 + 132 = $6731 ##Cost base of 'ineligible part' (6731 (Ineligible proceeds) / 18628 (total proceeds)) * 9061 (Adjusted cost base of the Advance units) = $3274 What is the acquisition cost of a Stockland unit? The acquisition cost of a Stockland unit is calculated by subtracting from the adjusted cost base of the taxpayer's Advance Property Fund units, the cost base of the 'ineligible part' and then dividing the difference by the number of Stockland units received as part of the takeover of Advance Property Fund by the Stockland Trust Group (subsections 124-785(2) & (3) of the ITAA 1997). Acquisition cost of Stockland Unit = ((adjusted cost base - #cost base of 'ineligible part') / Number of Stockland units received) = (9061 - 3274) / 3771 = $1.53 per unit What is the acquisition cost of the share in Stockland Ltd and Stockland option? The acquisition cost of a Stockland share is calculated having regard to the market value of the property given to acquire it (subsection 110-25(2) of the ITAA 1997). The taxpayer gave a proportion of the value of an Advance Property Unit calculated as follows to acquire the share (or option). (value of share (option) / #value of all property received) * market value of advance units given #value of all property received = 1 Stockland Share
+= 0.65 (17% of $3.82) 1 Stockland Unit
+= 3.17 (83% of $3.82) Cash
+= 1.10 0.25 Option
+= 0.03 (25% of $0.14) $4.95 Acquisition cost of Stockland share = (0.65 / 4.95) * $4.82 = $0.63 per share Acquisition cost of 0.25 Stockland option = (0.03 / 4.95) * $4.82 = $0.03 per .25 option Acquisition cost of Stockland option = $0.12 per option Date of decision: 12 March 2002 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 Subdivision 124-M subsection 110-25(2) paragraph 124-781(3)(c) subsection 124-785(2) subsection 124-785(3) subsection 124-790(1) subsection 124-790(2) Keywords Capital gains tax Capital Gains Tax CoE CGT Replacement asset roll-over Exchange of unit trust units Partial roll-over Scrip for scrip roll-over Takeovers & mergers Unit trusts Business Line: Centres of Expertise Capital Gains Tax Date of publication: 28 March 2002 ISSN: 1445-2782 history Date: Version: 12 March 2002
+Original statement You are here 5 March 2010
 Archived

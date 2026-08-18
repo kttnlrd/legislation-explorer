@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/211
-==================================================
-
-Income Tax
- Capital gains tax - cost base/reduced cost base - debt
- FOI status: may be released
-
-This ATO ID is withdrawn. Guidance on the issue contained in this ATO ID can be found in ato.gov.au
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax - cost base/reduced cost base - debt FOI status: may be released This ATO ID is withdrawn. Guidance on the issue contained in this ATO ID can be found in ato.gov.au This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the first element of the cost base and reduced cost base of a debt that arose from the provision of services to a debtor nil?
 Decision
 Yes, the first element of the cost base and reduced cost base of the debt is nil. The provision of services is not money paid, or other property given, to acquire the debt for the purposes of calculating the first element of the cost base and reduced cost base under subsections 110-25(2) and 110-55(2) of the Income Tax Assessment Act 1997 (ITAA 1997). Further, the market value substitution rule in section 112-20 of the ITAA 1997 does not apply to treat the debt as having been acquired for its market value.
@@ -29,78 +14,16 @@ The general rules for working out the cost base and reduced cost base of a CGT a
 Under the general rules, the first element of the cost base and reduced cost base of a CGT asset is the total of the money paid, or required to be paid, to acquire the asset. It also includes the market value of any property given, or required to be given, for the asset: subsections 110-25(2) and 110-55(2) of the ITAA 1997.
 Clearly, no money was paid to acquire the debt. It needs to be determined whether the services provided by the taxpayer constituted other property given to acquire the asset.
 In Case S43 85 ATC 343; (1985) 28 CTBR (NS) Case 49 , the Tribunal, when considering whether the provision of services amounted to a gift of money or property for the purposes of paragraph 78(1)(a) of the Income Tax Assessment Act 1936 said 'It is self-evident that services are neither money nor property.'
-Equally, the provision of services which results in the acquisition of a CGT asset does not involve the giving of money or other property.
-
-Market value substitution rule
-
-Paragraph 112-20(1)(a) of the ITAA 1997 provides that, if you did not incur any expenditure to acquire a CGT asset from another entity, the first element of the cost base and reduced cost base of the asset is its market value.
+Equally, the provision of services which results in the acquisition of a CGT asset does not involve the giving of money or other property. Market value substitution rule Paragraph 112-20(1)(a) of the ITAA 1997 provides that, if you did not incur any expenditure to acquire a CGT asset from another entity, the first element of the cost base and reduced cost base of the asset is its market value.
 In Allina Pty Ltd v. Federal Commissioner of Taxation (1991) 28 FCR 203; 91 ATC 4195; (1991) 21 ATR 1320 it was held that, in this context, the acquisition of an asset from another encompasses the case where another person creates an asset which at the same time comes into your possession, or is obtained by you. This would apply for example where a debt is created in the creditor.
-However, the market value is not substituted for the first element of the cost base and reduced cost base of a CGT asset where its acquisition resulted from:
-
-•CGT event D1 happening (subparagraph 112-20(1)(a)(i) of the ITAA 1997), or
-•another entity doing something that did not constitute a CGT event happening (subparagraph 112-20(1)(a)(ii) of the ITAA 1997).
-
-You acquire a CGT asset as a result of CGT event D1 happening if an entity creates a contractual right or other legal or equitable right in you (subsections 109-5(2) and 104-35(1) of the ITAA 1997). However CGT event D1 does not happen if the right was created by obtaining credit from you (paragraph 104-35(5)(a) of the ITAA 1997). In this case, CGT event D1 does not happen because the debtor has obtained credit from the taxpayer who provided the service on a deferred payment basis.
+However, the market value is not substituted for the first element of the cost base and reduced cost base of a CGT asset where its acquisition resulted from: •CGT event D1 happening (subparagraph 112-20(1)(a)(i) of the ITAA 1997), or
+•another entity doing something that did not constitute a CGT event happening (subparagraph 112-20(1)(a)(ii) of the ITAA 1997). You acquire a CGT asset as a result of CGT event D1 happening if an entity creates a contractual right or other legal or equitable right in you (subsections 109-5(2) and 104-35(1) of the ITAA 1997). However CGT event D1 does not happen if the right was created by obtaining credit from you (paragraph 104-35(5)(a) of the ITAA 1997). In this case, CGT event D1 does not happen because the debtor has obtained credit from the taxpayer who provided the service on a deferred payment basis.
 However, the debtor has agreed, pursuant to the service contract, to pay the taxpayer in return for the provision of the services. That agreement to pay is the doing of something that does not constitute a CGT event happening to that debt. As a result, subparagraph 112-20(1)(a)(ii) of the ITAA 1997 is satisfied.
 Therefore the market value substitution rule does not apply to modify the first element of the cost base and reduced cost base of the debt calculated under subsections 110-25(2) and 110-55(2) of the ITAA 1997.
 Accordingly, the first element of the cost base and reduced cost base of a debt that arises from the provision of services is nil.
-Date of decision:
-  15 July 2005
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   paragraph 78(1)(a)
-Income Tax Assessment Act 1997   subsection 104-35(1)   paragraph 104-35(5)(a)   section 108-5   subsection 109-5(2)   subsection 110-25(2)   subsection 110-55(2)   section 112-20   paragraph 112-20(1)(a)   subparagraph 112-20(1)(a)(i)   subparagraph 112-20(1)(a)(ii)
-
-Case References:
-
-Case S43   85 ATC 343
-Case 49   (1985) 28 CTBR (NS) 360
-
-Allina Pty Ltd v. Federal Commissioner of Taxation   (1991) 28 FCR 203   91 ATC 4195   (1991) 21 ATR 1320
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2
-
-Keywords
-
-Bad debts
- Capital gains tax
- CGT cost base
- CGT cost base modification market value substitution rule
- CGT cost base modification rules
- CGT events
- CGT event D1-D3 - bringing into existence a CGT asset
- CGT reduced cost base
-
-Siebel/TDMS Reference Number:
-  4543364; 1-GN40QYL
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  29 July 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-15 July 2005
-Original statement
-
-You are here
+Date of decision: 15 July 2005 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 paragraph 78(1)(a)
+Income Tax Assessment Act 1997 subsection 104-35(1) paragraph 104-35(5)(a) section 108-5 subsection 109-5(2) subsection 110-25(2) subsection 110-55(2) section 112-20 paragraph 112-20(1)(a) subparagraph 112-20(1)(a)(i) subparagraph 112-20(1)(a)(ii) Case References: Case S43 85 ATC 343
+Case 49 (1985) 28 CTBR (NS) 360 Allina Pty Ltd v. Federal Commissioner of Taxation (1991) 28 FCR 203 91 ATC 4195 (1991) 21 ATR 1320 Related Public Rulings (including Determinations) Taxation Determination TD 2 Keywords Bad debts Capital gains tax CGT cost base CGT cost base modification market value substitution rule CGT cost base modification rules CGT events CGT event D1-D3 - bringing into existence a CGT asset CGT reduced cost base Siebel/TDMS Reference Number: 4543364; 1-GN40QYL Business Line: Small Business/Individual Taxpayers Date of publication: 29 July 2005 ISSN: 1445-2782 history Date: Version: 15 July 2005
+Original statement You are here
 19 December 2018
 Archived

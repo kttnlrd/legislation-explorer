@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/691
-==================================================
-
-Capital Gains Tax
- CGT: Main Residence - apportioning cost base of land in excess of 2 hectares
- FOI status: may be released
-
-This ATO ID was amended by replacing the reference to subsection 118-20(2) with reference to subsection 118-120(3). Date of amendment 24 February 2012.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Capital Gains Tax CGT: Main Residence - apportioning cost base of land in excess of 2 hectares FOI status: may be released This ATO ID was amended by replacing the reference to subsection 118-20(2) with reference to subsection 118-120(3). Date of amendment 24 February 2012. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a taxpayer purchased a block of land exceeding 2 hectares and subsequently constructed a main residence on it, can the cost base of the land be calculated on a pro rata area basis rather than a valuation basis in determining the amount of capital gain to be disregarded under section 118-110 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The taxpayer can calculate the cost base of the land on a pro rata area basis when determining the capital gain to be disregarded under section 118-110 of the ITAA 1997, as in the circumstances, apportionment on an area basis is more reasonable than on a valuation basis.
@@ -27,46 +14,7 @@ Reasons for Decision
 A taxpayer can only make a capital gain or capital loss if a CGT event happens. CGT event A1 happens when there is a disposal of a CGT asset (section 104-10 of the ITAA 1997). A CGT asset includes any kind of property (section 108-5 of the ITAA 1997.
 There are some circumstances where, even though a CGT event has occurred, a CGT liability does not arise due to an exemption or exception that applies to disregard any capital gain or capital loss that may arise from a CGT event (section 100-30 of the ITAA 1997).
 Subdivision 118-B of the ITAA 1997 disregards a capital gain or capital loss that happens to a dwelling that is a main residence. A 'dwelling' includes a building that is a unit of accommodation and the land immediately underneath that building (section 118-115 of the ITAA 1997). Subsection 118-120(3) of the ITAA 1997 extends the area of adjacent land that is used primarily for private or domestic purposes (less the area of the land immediately under the dwelling) to a maximum of 2 hectares.
-Where a taxpayer has land that exceeds 2 hectares, Taxation Determination TD 1999/67 states at paragraphs 3 to 5:
-
-'3. If your selected area of land can be separately valued, you calculate your capital gain or capital loss on the remainder of your land by apportioning the capital proceeds and the cost base or reduced cost base (if applicable) on the basis of the valuation. This is relevant if the value of the remainder of the land is of a greater or lesser value than your selected area of land.
-
-4. If your selected area of land cannot be separately valued, your capital gain or loss on the remainder of your land may be calculated by apportioning the capital proceeds and the cost base or reduced cost base (if applicable) on an area basis.
-
-5. The amount of the capital gain or capital loss attributable to the remainder of your land must be reasonable in the circumstances.'
-
-It is clear from paragraph 3 of TD 1999/67 that where the value of the selected area of land for the main residence exemption is greater or less than the remainder of the land and both areas can be valued separately, the capital gain or capital loss is calculated by apportioning the capital proceeds and the cost base, or reduced cost base, on the basis of valuation. However, paragraph 5 of TD 1999/67 further provides that the amount attributable must be reasonable in the circumstances.
+Where a taxpayer has land that exceeds 2 hectares, Taxation Determination TD 1999/67 states at paragraphs 3 to 5: '3. If your selected area of land can be separately valued, you calculate your capital gain or capital loss on the remainder of your land by apportioning the capital proceeds and the cost base or reduced cost base (if applicable) on the basis of the valuation. This is relevant if the value of the remainder of the land is of a greater or lesser value than your selected area of land. 4. If your selected area of land cannot be separately valued, your capital gain or loss on the remainder of your land may be calculated by apportioning the capital proceeds and the cost base or reduced cost base (if applicable) on an area basis. 5. The amount of the capital gain or capital loss attributable to the remainder of your land must be reasonable in the circumstances.' It is clear from paragraph 3 of TD 1999/67 that where the value of the selected area of land for the main residence exemption is greater or less than the remainder of the land and both areas can be valued separately, the capital gain or capital loss is calculated by apportioning the capital proceeds and the cost base, or reduced cost base, on the basis of valuation. However, paragraph 5 of TD 1999/67 further provides that the amount attributable must be reasonable in the circumstances.
 The taxpayer purchased an undeveloped block of land and subsequently constructed a main residence. On disposal of the property a CGT event A1 happened. However, the taxpayer is entitled to a main residence exemption for the house and up to 2 hectares of adjacent land.
 At the time of purchase, one part of the land was indistinguishable from another part. The value of the land subject to the main residence exemption was therefore no greater or less than the remainder of the land. Accordingly, the most reasonable method for apportioning the cost of the land for the purposes of calculating the amount of capital gain to be disregarded under section 118-110 of the ITAA 1997 is on an area basis rather than valuation basis. This applies even though the capital proceeds used to calculate the capital gain are valuation based.
-Date of decision:
-  26 March 2002
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 100-30   section 104-10   section 108-5   Subdivision 118-B   section 118-110   section 118-115   subsection 118-120(3)
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 1999/67
-
-Keywords
-
-Capital gains
- CGT main residence exemption
- CGT cost base
- CGT cost base modification apportionment rule
-
-Siebel/TDMS Reference Number:
-  DW367196
-
-Business Line:
-  Centres of Expertise Capital Gains Tax
-
-Date of publication:
-  3 July 2002
-
-ISSN:
- 1445-2782
+Date of decision: 26 March 2002 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1997 section 100-30 section 104-10 section 108-5 Subdivision 118-B section 118-110 section 118-115 subsection 118-120(3) Related Public Rulings (including Determinations) Taxation Determination TD 1999/67 Keywords Capital gains CGT main residence exemption CGT cost base CGT cost base modification apportionment rule Siebel/TDMS Reference Number: DW367196 Business Line: Centres of Expertise Capital Gains Tax Date of publication: 3 July 2002 ISSN: 1445-2782

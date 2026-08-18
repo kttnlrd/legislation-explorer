@@ -81,14 +81,18 @@ for fname in files:
                 changed = True
                 continue
             
-            # Try matching on just the court+number part
+            # Try matching on court+number part — MUST also match year
+            # (CDN-0120: year-blind matching stamped 2026 case names on old citations)
             m = re.match(r'^(\[\d{4}\]) (.+)$', c)
             if m:
                 year = m.group(1)
                 court_num = m.group(2)
-                # Search for matches where court_num is contained
+                # Search for matches where court_num AND year match
                 matches = []
                 for db_cit, name in db_lookup.items():
+                    db_year = re.match(r'^\[\d{4}\]', db_cit)
+                    if db_year and db_year.group(0) != year:
+                        continue  # different year — not the same case
                     db_court_num = re.sub(r'^\[\d{4}\] ', '', db_cit)
                     if db_court_num == court_num:
                         matches.append((db_cit, name))

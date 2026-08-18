@@ -1,217 +1,89 @@
 ATO Interpretative Decision
 ATO ID 2003/882
-==================================================
-
-Excise
- Calculation of excise liability for beer by averaging alcohol strengths within the same Excise Tariff Item
- FOI status: may be released
-
-This ATO ID is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Excise Calculation of excise liability for beer by averaging alcohol strengths within the same Excise Tariff Item FOI status: may be released This ATO ID is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a beer manufacturer permitted to average different alcohol strengths of beer within the same Excise Tariff Item, as defined in The Schedule to the Excise Tariff Act 1921, when calculating excise liability?
 Decision
-Yes. A beer manufacturer is permitted to average the different alcohol strengths of beer within the same Excise Tariff Item, as defined in The Schedule to the Tariff Act 1921, when calculating excise liability, provided:
-
-•the averaging calculations are carried out in the manner illustrated in the example below;
+Yes. A beer manufacturer is permitted to average the different alcohol strengths of beer within the same Excise Tariff Item, as defined in The Schedule to the Tariff Act 1921, when calculating excise liability, provided: •the averaging calculations are carried out in the manner illustrated in the example below;
 •the averaging calculations result in the payment of the same amount of total duty at the same time as would be the case if the return included details of individual alcohol strengths;
 •sufficient detailed records are maintained to fully account for each individual product manufactured; and
-•the averaging approach is only used for goods within the same Excise Tariff Item.
-
-Facts
+•the averaging approach is only used for goods within the same Excise Tariff Item. Facts
 A licensed manufacturer manufactures beer in Australia.
 Reasons for Decision
 Section 50 of the Excise Act 1901 requires a licensed manufacturer to keep such records, and furnish to the Chief Executive Officer (CEO) such returns as the CEO directs.
 Section 54 of the Excise Act requires a licensed manufacturer of excisable goods to pay the excise duty on those goods.
-The Excise Act does not prescribe the form that a return must take. However, subsection 50(1) of the Excise Act states that:
-
-A licensed manufacturer, and a proprietor of an approved place, shall:
-
-(a)keep such records, and furnish to the CEO such returns, as the CEO directs;
+The Excise Act does not prescribe the form that a return must take. However, subsection 50(1) of the Excise Act states that: A licensed manufacturer, and a proprietor of an approved place, shall: (a)keep such records, and furnish to the CEO such returns, as the CEO directs;
 (b)retain any records so kept for such period as the CEO directs; and
-(c)on demand by an officer, produce the records to the officer.
-
-Paragraph (b) above effectively allows the CEO to specify the form and content of an excise return.
-A return based on a weighted average approach will be accepted. However, acceptance of this approach is contingent upon the following requirements being satisfied:
-
-•the averaging calculations are carried out in the manner illustrated in the example below;
+(c)on demand by an officer, produce the records to the officer. Paragraph (b) above effectively allows the CEO to specify the form and content of an excise return.
+A return based on a weighted average approach will be accepted. However, acceptance of this approach is contingent upon the following requirements being satisfied: •the averaging calculations are carried out in the manner illustrated in the example below;
 •the averaging calculations result in the payment of the same amount of total duty at the same time as would be the case if the return included details of individual alcohol strengths;
 •sufficient detailed records are maintained to fully account for each individual product manufactured; and
-•the averaging approach is only used for goods within the same Excise Tariff Item.
-
-Example:
-The following example illustrates the calculation and reporting of excise liability under a line by line approach (detailing the alcoholic strength of each product) and the calculation and reporting of excise liability using a weighted average approach.
-
-Line by line approach based on a rate of duty of $34.66 per dutiable Lal
-
-No. of Brews
+•the averaging approach is only used for goods within the same Excise Tariff Item. Example:
+The following example illustrates the calculation and reporting of excise liability under a line by line approach (detailing the alcoholic strength of each product) and the calculation and reporting of excise liability using a weighted average approach. Line by line approach based on a rate of duty of $34.66 per dutiable Lal No. of Brews
 Litres per Brew
 Total Litres
 Strength (a/v)
 Non-dutiable Allowance
 Dutiable Strength
 Dutiable Lals
-Amount of Duty
-
-1
+Amount of Duty 1
 50
 50
 3.7%
 1.15%
 2.55%
 1.27
-$44.02
-
-2
+$44.02 2
 50
 100
 4.5%
 1.15%
 3.35%
 3.35
-$116.11
-
-8
+$116.11 8
 50
 400
 4.6%
 1.15%
 3.45%
 13.80
-$478.31
-
-2
+$478.31 2
 50
 100
 4.7%
 1.15%
 3.55%
 3.55
-$123.04
-
-13
-
-650
-
-21.97
-
-$761.48
-
-The approved averaging method of calculating excise liability:
-
-No. of Brews
+$123.04 13 650 21.97 $761.48 The approved averaging method of calculating excise liability: No. of Brews
 Litres per Brew
 Total Litres
 Strength (a/v)
-Litres of Alcohol (Lals)
-
-1
+Litres of Alcohol (Lals) 1
 50
 50
 3.7%
-1.85
-
-2
+1.85 2
 50
 100
 4.5%
-4.50
-
-8
+4.50 8
 50
 400
 4.6%
-18.40
-
-2
+18.40 2
 50
 100
 4.7%
-4.70
-
-13
-
-650
-
-29.45
-
-Average Strength
- = Litres of Alcohol (Lals) divided by Total Litres (29.45 / 650 =
- 4.5307% *
- )
-Therefore, using the averaging method:
-
-Average
-4.5307% *
-
-Less non-dutiable allowance
-1.1500% *
-
-Dutiable strength
-3.3807% *
-
-Total volume (litres)
-650
-
-Total dutiable Lals
-21.97
-
-Duty rate used
-$34.66
-
-Duty payment
-$761.48
-
-* Calculations, where indicated in the example, are to be performed to four (4) decimal places.
-The
- average strength
- is calculated by dividing the total litres of alcohol (Lals) by the total quantity (in litres). The
- dutiable strength
- is calculated by subtracting the non-dutiable allowance (currently 1.15%) from the average strength. The quantity of
- dutiable litres of alcohol
- (Lals) is calculated by multiplying the total volume (in litres) by the dutiable strength. The amount of
- duty payable
- is calculated by multiplying the appropriate duty rate by the dutiable litres of alcohol.
-Date of decision:
-  9 September 2003
-
-Legislative References:
-
-Excise Act 1901   section 50   section 54   section 58   section 61   section 61C
-
-Keywords
-
-Excise
-
-Business Line:
-  Excise
-
-Date of publication:
-  3 October 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 September 2003
-Original statement
-
-You are here
- 8 May 2009
+4.70 13 650 29.45 Average Strength = Litres of Alcohol (Lals) divided by Total Litres (29.45 / 650 = 4.5307% * )
+Therefore, using the averaging method: Average
+4.5307% * Less non-dutiable allowance
+1.1500% * Dutiable strength
+3.3807% * Total volume (litres)
+650 Total dutiable Lals
+21.97 Duty rate used
+$34.66 Duty payment
+$761.48 * Calculations, where indicated in the example, are to be performed to four (4) decimal places.
+The average strength is calculated by dividing the total litres of alcohol (Lals) by the total quantity (in litres). The dutiable strength is calculated by subtracting the non-dutiable allowance (currently 1.15%) from the average strength. The quantity of dutiable litres of alcohol (Lals) is calculated by multiplying the total volume (in litres) by the dutiable strength. The amount of duty payable is calculated by multiplying the appropriate duty rate by the dutiable litres of alcohol.
+Date of decision: 9 September 2003 Legislative References: Excise Act 1901 section 50 section 54 section 58 section 61 section 61C Keywords Excise Business Line: Excise Date of publication: 3 October 2003 ISSN: 1445-2782 history Date: Version: 9 September 2003
+Original statement You are here 8 May 2009
 Archived

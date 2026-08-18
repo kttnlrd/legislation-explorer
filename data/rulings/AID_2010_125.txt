@@ -1,33 +1,15 @@
 ATO Interpretative Decision
 ATO ID 2010/125
-==================================================
-
-Goods and Services Tax
- GST and acquisition of an interest in a Delaware limited liability company
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and acquisition of an interest in a Delaware limited liability company FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an entity acquiring an interest as a single member in a limited liability company (LLC) formed in the United States of America (US), acquiring 'securities' under item 10 in the table in subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations)?
 Decision
 Yes, the entity acquiring an interest as a single member in a LLC formed in the US is acquiring 'securities' under item 10 in the table in subregulation 40-5.09(3) of the GST Regulations.
 Facts
 The entity carries on an enterprise in Australia and is registered for GST.
 The LLC is established under the US State of Delaware's Limited Liability Company Act (Del.) (LLC Act). Under the LLC Act, an LLC is not required to issue shares, its 'owners' are called members and sole membership of a LLC is permitted. The LLC is a separate legal entity and a body corporate.
-When the entity becomes a member of the LLC it acquires the associated interest, called a limited liability company interest (LLC interest), which represents the member's share of the LLC's profits and losses and the member's right to receive distributions of the LLC's assets.
-
-Note
- : the facts above may not apply to all LLC's. Whilst the LLC Act sets out standard rules in relation to the operation of LLC's, in some instances the LLC Act allows an LLC to vary these rules via its operating agreement.
+When the entity becomes a member of the LLC it acquires the associated interest, called a limited liability company interest (LLC interest), which represents the member's share of the LLC's profits and losses and the member's right to receive distributions of the LLC's assets. Note : the facts above may not apply to all LLC's. Whilst the LLC Act sets out standard rules in relation to the operation of LLC's, in some instances the LLC Act allows an LLC to vary these rules via its operating agreement.
 Reasons for Decision
 Subregulation 40-5.09(3) of the GST Regulations itemises financial interests that are financial supplies if all of the requirements in subregulation 40-5.09(1) are satisfied in relation to the provision, acquisition or disposal of them. Item 10 in the table in subregulation 40-5.09(3) (Item 10) is about 'securities'.
 The Dictionary to the GST Regulations, states that 'securities' has the meaning given by subsection 92(1) of the Corporations Law (repealed and re-enacted as the Corporations Act 2001 (Corporations Act)). Under subsection 92(1), 'securities' includes 'shares in a body'.
@@ -42,43 +24,10 @@ Other amendments to the Corporations Act have introduced 'no par value' shares a
 It is recognised that the LLC does not issue share instruments to record the interests of members. However, the entity's LLC interest entitles it to a proportionate share of the LLC's profits, and assets on distribution (in this case 100% as it is the only member). It follows that the entity has a proportionate share in the LLC's capital (as a measure of its interest in the company) which is consistent with the GST Act definition of shares. It is also broadly equivalent to a share in the share capital of a company (limited by shares).
 We consider that contextually the LLC interest the entity acquires falls within the subsection 92(1) of the Corporations Act meaning of the term 'shares in a body' and therefore the meaning of 'securities' for Item 10 purposes.
 We therefore conclude that the Australian entity is acquiring an Item 10 interest in or under securities when it acquires a 'limited liability company interest' and becomes the single member of an LLC.
-Date of decision:
-  21 December 2009
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 195-1
-A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 10   Dictionary
-Corporations Act 2001   section 9   subsection 92(1)   subsection 254A(1)
-Corporations Law (repealed)   subsection 92(1)
-Income Tax Assessment Act 1997   Division 830   section 995-1
-Limited Liability Company Act (Del.)   The Act
-Taxation Laws Amendment Act (No. 1) 2004   The Act
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/77
-
-Other References:
-
- Explanatory Memorandum to the Financial Sector Reform (Amendments and Transitional Provisions) Bill (No. 1)1999
- Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 7) 2003
-
-Keywords
-
-Goods and services tax
- GST financial supplies
- Input taxed supplies
- Securities
-
-Siebel/TDMS Reference Number:
-  6311758
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  4 June 2010
-
-ISSN:
- 1445 - 2782
+Date of decision: 21 December 2009 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 195-1
+A New Tax System (Goods and Services Tax) Regulations 1999 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 10 Dictionary
+Corporations Act 2001 section 9 subsection 92(1) subsection 254A(1)
+Corporations Law (repealed) subsection 92(1)
+Income Tax Assessment Act 1997 Division 830 section 995-1
+Limited Liability Company Act (Del.) The Act
+Taxation Laws Amendment Act (No. 1) 2004 The Act Related ATO Interpretative Decisions ATO ID 2010/77 Other References: Explanatory Memorandum to the Financial Sector Reform (Amendments and Transitional Provisions) Bill (No. 1)1999 Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 7) 2003 Keywords Goods and services tax GST financial supplies Input taxed supplies Securities Siebel/TDMS Reference Number: 6311758 Business Line: Indirect Tax Date of publication: 4 June 2010 ISSN: 1445 - 2782

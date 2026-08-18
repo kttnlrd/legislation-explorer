@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/309
-==================================================
-
-Income Tax
- Commercial debt forgiveness - what constitutes gross forgiven amount where there are two or more debtors?
- FOI status: may be released
-
-This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Commercial debt forgiveness - what constitutes gross forgiven amount where there are two or more debtors? FOI status: may be released This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where two or more persons, who are not partners, are liable to pay a commercial debt which is then forgiven, will the gross forgiven amount of the debt be apportioned amongst each of the persons liable?
 Decision
 Yes. The gross forgiven amount of the debt will be apportioned amongst each of the persons liable to pay the commercial debt in accordance with subsection 245-75(3) of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936).
@@ -28,65 +13,8 @@ The debt constituted a commercial debt for the purposes of section 245-25 of Sch
 After 27 June 1996 Creditor forgave the debt owing by the joint venture for commercial reasons.
 Had the debt forgiven by Creditor been incurred by one person only, the gross forgiven amount of the debt calculated in accordance with section 245-75 of Schedule 2C to the ITAA 1936 would have been $30 million.
 Reasons for Decision
-Subsection 245-75(3) of Schedule 2C to the ITAA 1936 provides as follows:
-
-'If 2 or more persons were liable (otherwise than as partners in a partnership) to pay a debt, whether their liability was joint or several, or joint and several,
- the gross forgiven amount
- of the debt in relation to the person, or each of the persons, in respect of whom the debt was a commercial debt, is the amount worked out using the formula:
-
-Overall gross forgiven amount / Number of commercial debtors
-
-where:
-
-overall gross forgiven amount
- means the amount that would be the gross forgiven amount of the debt if all the persons liable to pay the debt were treated as a single person and the debt was a commercial debt in respect of that person.
-
-number of commercial debtors
- means the number of persons liable to pay the debt in respect of whom the debt was a commercial debt.'
-
-The overall gross forgiven amount of the debt within subsection 245-75(3) of Schedule 2C to the ITAA 1936 is $30 million.
-Therefore the gross forgiven amount of the debt in relation to each of Company A, Company B, and Company C is calculated as follows:
-
-$30 million / 3
-
-=$10 million.
-
-Date of decision:
-  4 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2C   Schedule 2C, section 245-25   Schedule 2C, section 245-75   Schedule 2C, subsection 245-75(3)   Subdivision 245-F
-
-Keywords
-
-Debt forgiven
- Gross forgiven amount
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  16 May 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 4 April 2003
-Original statement
-
-You are here
+Subsection 245-75(3) of Schedule 2C to the ITAA 1936 provides as follows: 'If 2 or more persons were liable (otherwise than as partners in a partnership) to pay a debt, whether their liability was joint or several, or joint and several, the gross forgiven amount of the debt in relation to the person, or each of the persons, in respect of whom the debt was a commercial debt, is the amount worked out using the formula: Overall gross forgiven amount / Number of commercial debtors where: overall gross forgiven amount means the amount that would be the gross forgiven amount of the debt if all the persons liable to pay the debt were treated as a single person and the debt was a commercial debt in respect of that person. number of commercial debtors means the number of persons liable to pay the debt in respect of whom the debt was a commercial debt.' The overall gross forgiven amount of the debt within subsection 245-75(3) of Schedule 2C to the ITAA 1936 is $30 million.
+Therefore the gross forgiven amount of the debt in relation to each of Company A, Company B, and Company C is calculated as follows: $30 million / 3 =$10 million. Date of decision: 4 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 Schedule 2C Schedule 2C, section 245-25 Schedule 2C, section 245-75 Schedule 2C, subsection 245-75(3) Subdivision 245-F Keywords Debt forgiven Gross forgiven amount Business Line: Losses and CGT Centre of Expertise Date of publication: 16 May 2003 ISSN: 1445-2782 history Date: Version: 4 April 2003
+Original statement You are here
 21 November 2008
 Archived

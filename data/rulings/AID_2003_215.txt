@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/215
-==================================================
-
-Income Tax
- Capital gains tax: CGT event C2 - debtor bankrupted
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: CGT event C2 - debtor bankrupted FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 At what stage during the course of the bankruptcy of a borrower does capital gains tax (CGT) event C2 in section 104-25 of the Income Tax Assessment Act 1997 (ITAA 1997) happen to a debt owned by the lender?
 Decision
 CGT event C2 in section 104-25 of the ITAA 1997 happens when the bankrupt borrower is discharged from all provable debts in accordance with section 153 of the Bankruptcy Act 1966 unless, alternatively, the debt is extinguished by forgiveness under a deed of release such that the lender is legally barred from collecting the debt. CGT event C2 does not happen upon the borrower being declared bankrupt or upon the trustee indicating that no dividend is likely to be paid in respect of the debt.
@@ -20,47 +9,12 @@ Facts
 The lender loans an amount of money to a borrower. The lender charges interest on these loans under normal commercial terms. The loan is unsecured. The lender is not carrying on the business of money lending.
 The borrower uses the loan monies for business purposes. The borrower was declared bankrupt. The trustee in bankruptcy declared that no dividend is expected to be paid to unsecured creditors. The borrower is an undischarged bankrupt.
 Reasons for Decision
-The debt will be a CGT asset of the lender under section 108-5 of the ITAA 1997. CGT event C2 (section 104-25 of the ITAA 1997) happens if ownership of an intangible CGT asset ends by the asset:
-
-(a)being redeemed or cancelled
+The debt will be a CGT asset of the lender under section 108-5 of the ITAA 1997. CGT event C2 (section 104-25 of the ITAA 1997) happens if ownership of an intangible CGT asset ends by the asset: (a)being redeemed or cancelled
 (b)being released, discharged, or satisfied
 (c)expiring; or
-(d)being abandoned, surrendered or forfeited.
-
-Note paragraph 104-25(1)(e) and paragraph 104-25(1)(f) of the ITAA 1997 are not relevant in this case as they apply to options and convertible notes respectively.
+(d)being abandoned, surrendered or forfeited. Note paragraph 104-25(1)(e) and paragraph 104-25(1)(f) of the ITAA 1997 are not relevant in this case as they apply to options and convertible notes respectively.
 The mere writing off of a debt by a taxpayer is insufficient to constitute a cancellation, release, discharge, satisfaction, surrender, forfeiture, expiry or abandonment at law or in equity for the purposes of subsection 104-25(1) of the ITAA 1997. The debt will continue to exist until such time as the bankrupt borrower is discharged from bankruptcy; the discharge operates to release him from all provable debts in accordance with section 153 of the Bankruptcy Act 1966. A discharge will not occur as a result of a mere statement by the trustee on the likely outcome of the administration of the bankrupt estate.
 Accordingly, CGT event C2 (section 104-25 of the ITAA 1997) will not happen to the debt until the bankrupt borrower is discharged from bankruptcy and as a result all provable debts are released.
 Alternatively, the debt may be extinguished by forgiveness under a deed of release such that the owner of the debt is legally barred from collecting the debt. It should be noted that a debt will not be extinguished if it is merely forgiven or abandoned without any legal impediment imposed on its collection.
-Date of decision:
-  19 December 2002
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-25   subsection 104-25(1)   paragraph 104-25(1)(e)   paragraph 104-25(1)(f)   section 108-5
-Bankruptcy Act 1966   section 153
-
-Related Public Rulings (including Determinations)
-
-Class Ruling CR 2002/13.
-
-Keywords
-
-Bankruptcy
- Carrying on a business
- Capital Gains Tax CoE
- CGT events C1-C3 - end of a CGT asset
-
-Siebel/TDMS Reference Number:
-  3025503
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 April 2003
-
-ISSN:
- 1445-2782
+Date of decision: 19 December 2002 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1997 section 104-25 subsection 104-25(1) paragraph 104-25(1)(e) paragraph 104-25(1)(f) section 108-5
+Bankruptcy Act 1966 section 153 Related Public Rulings (including Determinations) Class Ruling CR 2002/13. Keywords Bankruptcy Carrying on a business Capital Gains Tax CoE CGT events C1-C3 - end of a CGT asset Siebel/TDMS Reference Number: 3025503 Business Line: Public Groups and International Date of publication: 4 April 2003 ISSN: 1445-2782

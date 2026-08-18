@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/932
-==================================================
-
-Income Tax
- Capital Works: calculation of deduction - number of days used - leap year
- FOI status: may be released
-
-This ATO ID is withdrawn. Guidance on this issue can be found in Rental properties (NAT 1729, 520KB).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Works: calculation of deduction - number of days used - leap year FOI status: may be released This ATO ID is withdrawn. Guidance on this issue can be found in Rental properties (NAT 1729, 520KB). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the number of 'days used' in the formula in section 43-210 of the Income Tax Assessment Act 1997 (ITAA 1997) 366 if the taxpayer used their capital works in the requisite manner for the whole of the 2003-04 income year which is a leap year?
 Decision
 Yes. The taxpayer would use 366 for the component 'days used' in the formula in section 43-210 of the ITAA 1997 because that is the number of days in the 2003-04 income year that they used their capital works for the requisite purpose.
@@ -25,52 +10,9 @@ The taxpayer purchased a rental property in December 2002 that had been construc
 During the whole of the 2003-04 income year the taxpayer owned and used the property solely for the purpose of producing assessable income. The 2003-04 income year was a leap year and, therefore, contained 366 calendar days.
 Reasons for Decision
 Subdivision 43-F of the ITAA 1997 sets out how the amount of a capital works deduction under section 43-10 of the ITAA 1997 is calculated. For capital works begun after 27 February 1992, the calculation formulas are contained in section 43-210. These formulas include a reference to 'days used'.
-Section 43-210 of the ITAA 1997 sets out a number of steps for calculating an amount of capital works deduction. Step 3 applies to the circumstances of this case and defines 'days used' as the number of days in the income year that:
-
-(a)you owned or were the lessee of that part of your area and used it in the 2.5% manner; or
-(b)you were the holder of that part of your area under a quasi-ownership right over land granted by an exempt Australian government agency or an exempt foreign government agency, and used that part of your area in the 2.5% manner.
-
-As the capital works were used by the taxpayer in the requisite way for 366 days in the 2003-04 income year, that is the number of 'days used' to be used in the formula. The maximum deduction for the 2003-04 income year for the taxpayer is worked out as follows:
-
-($100,000 * 366 * 0.025) / 365 = $2506
-
-Although the deduction available in a leap year is potentially greater than that for other years, the deduction for any particular income year is limited to the undeducted construction expenditure for the capital works (see Step 6 of section 43-210 of the ITAA 1997). Similarly, the total deduction available under Division 43 of the ITAA 1997 cannot exceed 100% of construction expenditure for the particular capital works.
-Date of decision:
-  27 September 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 43-10   section 43-210
-
-Keywords
-
-Capital Allowances CoE
- Deductions & expenses
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  26 November 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 September 2004
-Original statement
-
-You are here
+Section 43-210 of the ITAA 1997 sets out a number of steps for calculating an amount of capital works deduction. Step 3 applies to the circumstances of this case and defines 'days used' as the number of days in the income year that: (a)you owned or were the lessee of that part of your area and used it in the 2.5% manner; or
+(b)you were the holder of that part of your area under a quasi-ownership right over land granted by an exempt Australian government agency or an exempt foreign government agency, and used that part of your area in the 2.5% manner. As the capital works were used by the taxpayer in the requisite way for 366 days in the 2003-04 income year, that is the number of 'days used' to be used in the formula. The maximum deduction for the 2003-04 income year for the taxpayer is worked out as follows: ($100,000 * 366 * 0.025) / 365 = $2506 Although the deduction available in a leap year is potentially greater than that for other years, the deduction for any particular income year is limited to the undeducted construction expenditure for the capital works (see Step 6 of section 43-210 of the ITAA 1997). Similarly, the total deduction available under Division 43 of the ITAA 1997 cannot exceed 100% of construction expenditure for the particular capital works.
+Date of decision: 27 September 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 43-10 section 43-210 Keywords Capital Allowances CoE Deductions & expenses Business Line: Small Business/Individual Taxpayers Date of publication: 26 November 2004 ISSN: 1445-2782 history Date: Version: 27 September 2004
+Original statement You are here
 24 March 2017
 Archived

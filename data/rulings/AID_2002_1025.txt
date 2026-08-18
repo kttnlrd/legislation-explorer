@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/1025
-==================================================
-
-Income Tax
- Entitlement to Class A franking credits for a late balancing life insurance company where taxable contributions are transferred from an unrelated superannuation fund under section 275 of the Income Tax Assessment Act 1936 (ITAA 1936)
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is no longer current.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Entitlement to Class A franking credits for a late balancing life insurance company where taxable contributions are transferred from an unrelated superannuation fund under section 275 of the Income Tax Assessment Act 1936 (ITAA 1936) FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an amount referable to taxable income derived before 1 July 2000 when it is included in the assessable income of a late balancing life insurance company under section 275 of the ITAA 1936, for the purposes of determining the availability of Class A franking credits under section 160AQCNCH of the ITAA 1936?
 Decision
 Yes. Where the assessable income of a late balancing life insurance company includes taxable contributions under section 275 which are sourced before 1 July 2000, the life insurance company will be entitled to Class A franking credits.
@@ -24,73 +9,14 @@ Facts
 A superannuation fund with a 30 June 2000 balance date invested its taxable superannuation contributions with a late balancing life insurance company with a 30 September 2000 balance date (1999/2000 year of income). The superannuation fund is unrelated to the life insurance company. After 30 June 2000, the life insurance company and the superannuation fund entered into a written agreement to transfer taxable contributions. This agreement is made before the date of lodgment of the return of income of the superannuation fund.
 The life insurance company claimed Class A franking credits in respect of tax paid on the taxable contributions.
 Reasons for Decision
-Sections 160AQCNCF to 160AQCNCJ of the ITAA 1936 contain special transitional rules for early and late balancing life insurance companies to ensure that franking credits and debits arise appropriately to reflect that their income tax liability is referable to income derived both before and after 1 July 2000. Subsection 160AQCNCH(2) determines the franking credits referable to a period before 1 July 2000 for a late balancing life insurance company. Subsection 160AQCNCH(2) defines the pre 1 July 2000 proportion of company tax as follows:
-
-'the pre 1 July 2000 proportion is the company tax for 2000/01 year of income that is referable to taxable income derived before 1 July 2000...' (emphasis added)
-
-Subsection 160QCNCH(2) defines the post 1 July 2000 proportion of company tax as follows:
-
-'the post 1 July 2000 component is the company tax for 2000/01 year of income that is referable to taxable income derived on or after 1 July 2000...' (emphasis added)
-
-Taxable contributions received by a life insurance company under section 275 are statutory income under subsection 6-10(2) of the Income Tax Assessment Act 1997 ('ITAA 1997'). Statutory income is not subject to a general timing rule based on derivation under subsection 6-5(2) of the ITAA 1997. The relevant sections of the ITAA 1997 and the ITAA 1936 rely on section 275 to determine when an amount is included in assessable income. However section 275 is not specific enough to provide guidance as to the manner in which it interacts with subsection 160AQCNCH(2), in that it only allows for the taxable contribution to be attributed to the income year to which the agreement relates.
+Sections 160AQCNCF to 160AQCNCJ of the ITAA 1936 contain special transitional rules for early and late balancing life insurance companies to ensure that franking credits and debits arise appropriately to reflect that their income tax liability is referable to income derived both before and after 1 July 2000. Subsection 160AQCNCH(2) determines the franking credits referable to a period before 1 July 2000 for a late balancing life insurance company. Subsection 160AQCNCH(2) defines the pre 1 July 2000 proportion of company tax as follows: 'the pre 1 July 2000 proportion is the company tax for 2000/01 year of income that is referable to taxable income derived before 1 July 2000...' (emphasis added) Subsection 160QCNCH(2) defines the post 1 July 2000 proportion of company tax as follows: 'the post 1 July 2000 component is the company tax for 2000/01 year of income that is referable to taxable income derived on or after 1 July 2000...' (emphasis added) Taxable contributions received by a life insurance company under section 275 are statutory income under subsection 6-10(2) of the Income Tax Assessment Act 1997 ('ITAA 1997'). Statutory income is not subject to a general timing rule based on derivation under subsection 6-5(2) of the ITAA 1997. The relevant sections of the ITAA 1997 and the ITAA 1936 rely on section 275 to determine when an amount is included in assessable income. However section 275 is not specific enough to provide guidance as to the manner in which it interacts with subsection 160AQCNCH(2), in that it only allows for the taxable contribution to be attributed to the income year to which the agreement relates.
 An examination of the judicial decisions on the meaning of the word 'derived', as that word is used generally in the ITAA 1936 and ITAA 1997, shows that income is derived in an annual basis unless there is a specific statutory provision in operation. This would give an unintended result in this case because subsection 160AQCNCH(2) divides company tax into pre and post 1 July 2000 proportions.
 An alternative interpretation is to use the ordinary dictionary meaning of the word 'derived' in preference to its judicial meaning. The relevant Macquarie dictionary definition of 'derived' is 'to receive or obtain from some source or origin'.
-In Cooper Brooks (Wollongong) Pty Ltd v. FCT (1981) 147 CLR 297; 81 ATC 4292; (1981) 11 ATR 949, the High Court stated that:
-
-'Where two constructions are open the court will prefer the construction which avoids inconvenience or injustice.' (per Gibbs CJ at 305)
-
-In FC of T v. Consolidated Press Holdings Limited & Anor (2001) ATC 4343; 47 ATR 229, the High Court held that the words of an Act should be interpreted in the light of the legislative purpose. The legislative purpose is determined by having regard to the context of the Act in its widest sense so as to prefer a competing interpretation which is more in accord with logic and policy.
+In Cooper Brooks (Wollongong) Pty Ltd v. FCT (1981) 147 CLR 297; 81 ATC 4292; (1981) 11 ATR 949, the High Court stated that: 'Where two constructions are open the court will prefer the construction which avoids inconvenience or injustice.' (per Gibbs CJ at 305) In FC of T v. Consolidated Press Holdings Limited & Anor (2001) ATC 4343; 47 ATR 229, the High Court held that the words of an Act should be interpreted in the light of the legislative purpose. The legislative purpose is determined by having regard to the context of the Act in its widest sense so as to prefer a competing interpretation which is more in accord with logic and policy.
 In interpreting subsection 160AQCNCH(2) a purposive approach to statutory interpretation should be used to give effect to the intention of the provision. This is achieved by adopting the dictionary meaning of 'derived.'
 The dictionary definition of the word 'derived' supports the view that section 275 taxable contributions were sourced before 1 July 2000. Therefore a life insurance company is entitled to Class A franking credits for taxable contributions received under section 275.
-Date of decision:
-  10 September 2002
-
-Year of income:
-  Other/Substituted Accounting Period 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 6-5(2)   subsection 6-10(2)
-Income Tax Assessment Act 1936   section 275   subsection 160AQCNCH(2)   section 160AQCNCF   section 160AQCNCG   section 160AQCNCH   section 160AQCNCI   section 160AQCNCJ
-
-Case References:
-
-Cooper Brookes (Wollongong) Pty Ltd v. Commissioner of Taxation (Cth)   147 CLR 297   (1981) 35 ALR 151   (1981) 11 ATR 949   (1981) 55 ALJR 434   81 ATC 4292
-
-Federal Commissioner of Taxation v. Consolidated Press Holdings Limited & Anor   2001 ATC 4343   47 ATR 229   (2001) 75 ALJR 1150
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/1022
- ATO ID 2002/1023
- ATO ID 2002/1024
-
-Keywords
-
-Franking credits
- Derived
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  30 October 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 September 2002
-Original statement
-
-You are here
+Date of decision: 10 September 2002 Year of income: Other/Substituted Accounting Period 2000 Legislative References: Income Tax Assessment Act 1997 subsection 6-5(2) subsection 6-10(2)
+Income Tax Assessment Act 1936 section 275 subsection 160AQCNCH(2) section 160AQCNCF section 160AQCNCG section 160AQCNCH section 160AQCNCI section 160AQCNCJ Case References: Cooper Brookes (Wollongong) Pty Ltd v. Commissioner of Taxation (Cth) 147 CLR 297 (1981) 35 ALR 151 (1981) 11 ATR 949 (1981) 55 ALJR 434 81 ATC 4292 Federal Commissioner of Taxation v. Consolidated Press Holdings Limited & Anor 2001 ATC 4343 47 ATR 229 (2001) 75 ALJR 1150 Related ATO Interpretative Decisions ATO ID 2002/1022 ATO ID 2002/1023 ATO ID 2002/1024 Keywords Franking credits Derived Business Line: Public Groups and International Date of publication: 30 October 2002 ISSN: 1445-2782 history Date: Version: 10 September 2002
+Original statement You are here
 12 December 2008
 Archived

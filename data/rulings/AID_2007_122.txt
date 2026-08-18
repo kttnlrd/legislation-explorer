@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/122
-==================================================
-
-Income Tax
- Research and development: feedstock expenditure
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and development: feedstock expenditure FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is expenditure incurred by an eligible company on the manufacture of a product 'feedstock expenditure', as defined by subsection 73B(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. Expenditure incurred by the company on the manufacture of the product is 'feedstock expenditure', as defined by subsection 73B(1) of the ITAA 1936.
@@ -26,108 +15,27 @@ The product and its constituent ingredients are 'materials or goods' for the pur
 Reasons for Decision
 Subsection 73B(14) of the ITAA 1936 allows a company to claim a deduction for the amount of its research and development expenditure multiplied by 1.25.
 The definition of 'research and development expenditure' in subsection 73B(1) of the ITAA 1936 excludes 'feedstock expenditure' but 'includes any eligible feedstock expenditure that the company has ... in respect of related research and development activities'.
-Subsection 73B(1) of the ITAA 1936 defines 'feedstock expenditure as follows:
-
-"feedstock expenditure"
- , in relation to an eligible company, means expenditure incurred by the company in acquiring or producing materials or goods to be the subject of processing or transformation by the company in research and development activities, and includes expenditure incurred by the company on any energy input directly into the processing or transformation.
-
-Under subsection 73B(1A) of the ITAA 1936, 'eligible feedstock expenditure' is the amount by which the company's 'feedstock input' exceeds its 'feedstock output' in respect of the year of income in relation to related research and development activities.
+Subsection 73B(1) of the ITAA 1936 defines 'feedstock expenditure as follows: "feedstock expenditure" , in relation to an eligible company, means expenditure incurred by the company in acquiring or producing materials or goods to be the subject of processing or transformation by the company in research and development activities, and includes expenditure incurred by the company on any energy input directly into the processing or transformation. Under subsection 73B(1A) of the ITAA 1936, 'eligible feedstock expenditure' is the amount by which the company's 'feedstock input' exceeds its 'feedstock output' in respect of the year of income in relation to related research and development activities.
 'Residual feedstock expenditure' is deductible under subsection 73B(14B) of the ITAA 1936, but only at the rate of 100 per cent. 'Residual feedstock expenditure' is defined in subsection 73B(1) of the ITAA 1936, to mean the lesser of the company's feedstock input or feedstock output in respect of the year of income in relation to related research and development activities.
 Also relevant are the definitions of 'feedstock input' and 'feedstock output' in subsection 73B(1) of the ITAA 1936. The former is the actual feedstock expenditure in respect of goods or materials that were processed or transformed by the company in the relevant research and development activities, and the latter is the proceeds from the sale of, or the sale value of product(s) obtained in relation to that feedstock input expenditure.
-The provisions described above (the feedstock provisions) operate in the following manner:
-
-•whilst 'feedstock expenditure' is precluded from being 'research and development expenditure', 'eligible feedstock expenditure' (being the excess of feedstock input over any feedstock output) is specifically included, and therefore deductible at the concessional rate of 125 per cent under subsection 73B(14) of the ITAA 1936
+The provisions described above (the feedstock provisions) operate in the following manner: •whilst 'feedstock expenditure' is precluded from being 'research and development expenditure', 'eligible feedstock expenditure' (being the excess of feedstock input over any feedstock output) is specifically included, and therefore deductible at the concessional rate of 125 per cent under subsection 73B(14) of the ITAA 1936
 •if feedstock output is greater than, or equal to feedstock input, the whole of the feedstock input becomes 'residual feedstock expenditure' and deductible at the rate of 100 per cent under subsection 73B(14B) of the ITAA 1936
 •if feedstock input is greater than feedstock output, the excess is 'eligible feedstock expenditure'. and is therefore 'research and development expenditure', deductible at the concessional rate. The lesser amount, being the feedstock output, is 'residual feedstock expenditure' and deductible at the rate of 100 per cent, and
-•if there is no feedstock output,, for example, if the goods or materials have been wholly consumed in the course of the research and development activities, then the whole of the feedstock input becomes 'eligible feedstock expenditure' and deductible at the concessional rate.
-
-The feedstock provisions thus operate as a code for dealing with the cost of acquiring or producing the goods or materials in question, whether or not those goods or materials have been wholly consumed or partially consumed in the course of the research and development activities. The scheme of these provisions also caters for situations in which products obtained from one round of processing or transformation become themselves subsequently, materials or goods that are to be the subject of some processing or transformation in the course of the eligible company carrying out specific research and development activities.
+•if there is no feedstock output,, for example, if the goods or materials have been wholly consumed in the course of the research and development activities, then the whole of the feedstock input becomes 'eligible feedstock expenditure' and deductible at the concessional rate. The feedstock provisions thus operate as a code for dealing with the cost of acquiring or producing the goods or materials in question, whether or not those goods or materials have been wholly consumed or partially consumed in the course of the research and development activities. The scheme of these provisions also caters for situations in which products obtained from one round of processing or transformation become themselves subsequently, materials or goods that are to be the subject of some processing or transformation in the course of the eligible company carrying out specific research and development activities.
 The definition of 'feedstock expenditure' applies to materials or goods acquired or produced, and which are 'to be the subject of processing or transformation in research and development activities'. The word 'in' is typically read as meaning 'in the course of' (Amalgamated Zinc (De Bavay's) Ltd v. Federal Commissioner of Taxation (1935) 54 CLR 295; (1935) 3 ATD 288).
 Neither the term 'processing' or the phrase 'processing or transformation' are defined in the ITAA 1936 or the Income Tax Assessment Act 1997 (ITAA 1997). Accordingly they will have their ordinary meanings, having regard to the purpose and context of the provisions in which they appear (Chaudhri v. FC of T 2001 ATC 4214; (2001) 47 ATR 126; [2001] FCA 554).
-The Macquarie Dictionary, 2005, 4th edn, The Macquarie Library Pty Ltd, NSW) definition of process includes:
-
-noun 1 a systematic series of actions directed to some end: the process of making butter. 2. a continuous action, operation, or series of changes taking place in a definite manner: the process of decay...verb (t) 11. to treat or prepare by some particular process, as in manufacturing. 12. to convert (an agricultural commodity) into marketable form by some special process.
-
-In Australia, the meaning of 'processing' has been judicially considered in relation to various items which qualify for exemption from sales tax.
-In Davies Coop & Co v. Federal Commissioner of Taxation (1948) 77 CLR 299; (1948) 8 ATD 320, the High Court said:
-
-The suggestion is that "processing or treatment" means manufacturing activities involving the use of material which disappears and cannot be discovered in the final product. There is no satisfactory reason for limiting the words to chemical processes or to processes like cleaning or polishing. A mere mixture of substances or a mechanical arrangement of substances may be a necessary part of a process in order to produce a marketable product. (77 CLR 299 at 311 per Latham CJ.)
-
-In FC of T v. Hamersley Iron Pty. Ltd 81 ATC 4582; (1981) 12 ATR 429, Frame Set & Match Pty Ltd v. FC of T 2000 ATC 4589; [2000] FCA 1168 and Lindsay Transport Pty Ltd v. FCT (2006) 63 ATR 190; [2006] FCA 822 (subject to appeal), also all decided in a sales tax context, it has been held that processing can occur even where the relevant object experiences no actual or apparent physical change in its form, nature or condition during (or as a result of) the process in question. In the first of these cases the Supreme Court of Victoria held that individual fragments of mineral had been processed by a particular machine, where all that was involved was that these fragments had been blended and 'intentionally and usefully, rearranged vis-á-vis another'.
+The Macquarie Dictionary, 2005, 4th edn, The Macquarie Library Pty Ltd, NSW) definition of process includes: noun 1 a systematic series of actions directed to some end: the process of making butter. 2. a continuous action, operation, or series of changes taking place in a definite manner: the process of decay...verb (t) 11. to treat or prepare by some particular process, as in manufacturing. 12. to convert (an agricultural commodity) into marketable form by some special process. In Australia, the meaning of 'processing' has been judicially considered in relation to various items which qualify for exemption from sales tax.
+In Davies Coop & Co v. Federal Commissioner of Taxation (1948) 77 CLR 299; (1948) 8 ATD 320, the High Court said: The suggestion is that "processing or treatment" means manufacturing activities involving the use of material which disappears and cannot be discovered in the final product. There is no satisfactory reason for limiting the words to chemical processes or to processes like cleaning or polishing. A mere mixture of substances or a mechanical arrangement of substances may be a necessary part of a process in order to produce a marketable product. (77 CLR 299 at 311 per Latham CJ.) In FC of T v. Hamersley Iron Pty. Ltd 81 ATC 4582; (1981) 12 ATR 429, Frame Set & Match Pty Ltd v. FC of T 2000 ATC 4589; [2000] FCA 1168 and Lindsay Transport Pty Ltd v. FCT (2006) 63 ATR 190; [2006] FCA 822 (subject to appeal), also all decided in a sales tax context, it has been held that processing can occur even where the relevant object experiences no actual or apparent physical change in its form, nature or condition during (or as a result of) the process in question. In the first of these cases the Supreme Court of Victoria held that individual fragments of mineral had been processed by a particular machine, where all that was involved was that these fragments had been blended and 'intentionally and usefully, rearranged vis-á-vis another'.
 These cases show that for the purposes of sales tax legislation, 'processing' can be found to have occurred where it does not produce a new or different product, where it causes a change which is not visible, such as a change in temperature, or where it causes no change at all.
 United Kingdom courts have also interpreted the term 'process' broadly in connection with capital allowances legislation, such that physical alteration or the creation of a new product is not essential in subjecting goods to a process (see Kilmarnock Equitable Cooperative Society Ltd v. Inland Revenue Commissioners [1966] SLT 224; Buckingham (Inspector of Taxes) v. Securitas Properties Ltd [1980] 1 WLR 380; Vibroplant Ltd v Holland (Inspector of Taxes) [1981] 1 All ER 526 (Vibroplant)).
 However, in Vibroplant Dillon J indicated that subjecting something to a 'process' involved a 'substantial measure of uniformity of treatment or system', and that where something was the subject of individual treatment, this would not amount to it having been subjected to a process.
 The terms 'transformation' or 'transform' are not defined in the ITAA 1936 or the ITAA 1997.
-The Macquarie Dictionary definition of transformation includes:
-
-noun
-1.
- the act of transforming.
- 2.
- the state of being transformed.
- 3.
- change in form, appearance, nature, or character...
-
-transform
-
-verb (t)
-1.
- to change in form; change to something of a different form; metamorphose.
- 2.
- to change in appearance, condition, nature, or character, especially completely or extensively.
-
-Thus, transformation normally involves a change in form, appearance, condition, nature or character, and arguably has a narrower meaning than 'processing'.
+The Macquarie Dictionary definition of transformation includes: noun
+1. the act of transforming. 2. the state of being transformed. 3. change in form, appearance, nature, or character... transform verb (t)
+1. to change in form; change to something of a different form; metamorphose. 2. to change in appearance, condition, nature, or character, especially completely or extensively. Thus, transformation normally involves a change in form, appearance, condition, nature or character, and arguably has a narrower meaning than 'processing'.
 The purpose of the feedstock provisions also needs to be considered in interpreting the terms in question. The introduction of the feedstock provisions addressed previous concerns surrounding the availability of a deduction at the full concessional rate for the cost of goods or materials processed or transformed in research and development activities, even though the proceeds from the sale of the resulting product were only taxed at 100 per cent.
 The provisions are not necessarily limited to expenditure on acquiring or producing raw materials or trading stock, though that is an obvious application. The provisions are apt to apply, for example, to situations in which goods or materials acquired or produced are intended for sale, but prior to this, intended to be the subject of processing or transformation in research and development activities. In such cases the same mischief arises as where goods and materials are input into a 'product' for sale, but prior to sale subject to processing or transformation in research and development activities.
 The purpose and scheme of the feedstock provisions therefore does not support a narrow meaning being given to the terms 'processing' or 'transformation'. Rather, the meaning to be given to them should be one that recognises the many and varied types of activities than can come within the definition of 'research and development activities'. Such activities by their nature, can take many different forms, and may often involve the analysis of changes in the composition of substances that are not visible to the naked eye. The ordinary meanings of these terms, as obtained from the dictionary definitions referred to, conform with the purpose and context of the feedstock provisions.
 The manufacture of the product in question involves both processing and transformation of the constituent ingredients, as they are changed from their form pre-manufacture into the form of the product. As this processing or transformation of the ingredients occurs in the course of one aspect of the research and development activities carried out by the company (the manufacture of the product to be used in the trial), the expenditure incurred in acquiring these ingredients is 'feedstock expenditure'.
-The chemical reaction occurring during storage of the product also points to there being 'processing or transformation' of the product at this stage, even though there has been no visible change in the product's appearance. As this processing or transformation of the product involves goods or materials and also occurs in the course of the research and development activities carried out by the company (the development and trial of the relevant materials), the expenditure incurred on the manufacture or production of the product is also 'feedstock expenditure'.
-
-Note: Under section 39L of the Industry Research and Development Act the Industry Research and Development Board (the Board) has the power to issue a certificate stating whether particular activities were 'research and development activities'. Such a certificate is binding on the Commissioner of Taxation under subsection 73B(34) of the ITAA 1936. The description of certain activities as research and development activities is not to be taken as any indication that the Board has or would issue such a certificate to this effect.
-
-Date of decision:
-  7 June 2007
-
-Year of income:
-  1 October 2004 to 30 September 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 73B(1)   subsection 73B(1A)   subsection 73B(14)   subsection 73B(14B)   subsection 73B(34)
-Industry Research and Development Act 1986   section 39L
-
-Case References:
-
-Amalgamated Zinc (De Bavay's) Ltd v. Federal Commissioner of Taxation   (1935) 54 CLR 295   (1935) 3 ATD 288
-
-Buckingham (Inspector of Taxes) v. Securitas Properties Ltd   [1980] 1 WLR 380
-
-Chaudhri v. FC of T   2001 ATC 4214   (2001) 47 ATR 126   [2001] FCA 554
-
-Davies Coop & Co Ltd v. Federal Commissioner of Taxation   (1948) 77 CLR 299   (1948) 8 ATD 320
-
-FC of T v. Hamersley Iron Pty Ltd   81 ATC 4582   (1981) 12 ATR 429
-
-Frame Set & Match Pty Ltd v. FC of T   2000 ATC 4589   (2000) 45 ATR 105
-
-Kilmarnock Equitable Cooperative Society Ltd v. Inland Revenue Commissioners   [1966] SLT 224
-
-Lindsay Transport Pty Ltd v. FCT   (2006) 63 ATR 190   (2006) FCA 822
-
-Vibroplant Ltd v. Holland (Inspector of Taxes)   [1981] 1 All ER 526
-
-Keywords
-
-Research & development feedstock expenditure
-
-Siebel/TDMS Reference Number:
-  5269720
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 June 2007
-
-ISSN:
- 1445-2782
+The chemical reaction occurring during storage of the product also points to there being 'processing or transformation' of the product at this stage, even though there has been no visible change in the product's appearance. As this processing or transformation of the product involves goods or materials and also occurs in the course of the research and development activities carried out by the company (the development and trial of the relevant materials), the expenditure incurred on the manufacture or production of the product is also 'feedstock expenditure'. Note: Under section 39L of the Industry Research and Development Act the Industry Research and Development Board (the Board) has the power to issue a certificate stating whether particular activities were 'research and development activities'. Such a certificate is binding on the Commissioner of Taxation under subsection 73B(34) of the ITAA 1936. The description of certain activities as research and development activities is not to be taken as any indication that the Board has or would issue such a certificate to this effect. Date of decision: 7 June 2007 Year of income: 1 October 2004 to 30 September 2005 Legislative References: Income Tax Assessment Act 1936 subsection 73B(1) subsection 73B(1A) subsection 73B(14) subsection 73B(14B) subsection 73B(34)
+Industry Research and Development Act 1986 section 39L Case References: Amalgamated Zinc (De Bavay's) Ltd v. Federal Commissioner of Taxation (1935) 54 CLR 295 (1935) 3 ATD 288 Buckingham (Inspector of Taxes) v. Securitas Properties Ltd [1980] 1 WLR 380 Chaudhri v. FC of T 2001 ATC 4214 (2001) 47 ATR 126 [2001] FCA 554 Davies Coop & Co Ltd v. Federal Commissioner of Taxation (1948) 77 CLR 299 (1948) 8 ATD 320 FC of T v. Hamersley Iron Pty Ltd 81 ATC 4582 (1981) 12 ATR 429 Frame Set & Match Pty Ltd v. FC of T 2000 ATC 4589 (2000) 45 ATR 105 Kilmarnock Equitable Cooperative Society Ltd v. Inland Revenue Commissioners [1966] SLT 224 Lindsay Transport Pty Ltd v. FCT (2006) 63 ATR 190 (2006) FCA 822 Vibroplant Ltd v. Holland (Inspector of Taxes) [1981] 1 All ER 526 Keywords Research & development feedstock expenditure Siebel/TDMS Reference Number: 5269720 Business Line: Public Groups and International Date of publication: 15 June 2007 ISSN: 1445-2782

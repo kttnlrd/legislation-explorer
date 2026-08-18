@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/1013
-==================================================
-
-Income Tax
- Depreciating Assets and Input Tax Credits
- FOI status: may be released
-
-This ATO ID is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Depreciating Assets and Input Tax Credits FOI status: may be released This ATO ID is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the cost or opening adjustable value of a depreciating asset reduced under section 27-85 of the Income Tax Assessment Act (ITAA 1997) if a decreasing adjustment arises under the A New Tax System (Goods and Services Tax) Act 1999 (the GST Act) other than under Divisions 129 or 132 of the GST Act?
 Decision
 Yes. A depreciating asset's cost or opening adjustable value is reduced under section 27-85 of the ITAA 1997 by the amount of any decreasing adjustments arising under the GST Act (other than adjustments arising under Divisions 129 or 132 of the GST Act).
@@ -27,56 +12,8 @@ Section 27-85 of the ITAA 1997 applies to an entity where it can deduct amounts 
 The asset's cost is reduced by the amount of the adjustment if the adjustment arises in the income year in which the asset's start time occurs. The asset's opening adjustable value for an income year is reduced by the amount of the adjustment if the adjustment arises in a later year.
 If the amount of the reduction exceeds the cost or opening adjustable value, as relevant, the excess is included in assessable income.
 Section 27-85 of the ITAA 1997 does not apply to decreasing adjustments arising under Divisions 129 or 132 of the GST Act 1999.
-In this case, the decreasing adjustment arises in the year in which the assets start time occurs. The cost of the car is reduced by the decreasing adjustment of $500 to $52 500.
-
-Note 1:
- the cost of the car would also be reduced by the amount of the input tax credit to which the entity was entitled in relation to the creditable acquisition or importation of the car. The input tax credit in this case would be is $2000 ($55 000 x 1/11th x 40%).
-
-Note 2:
- Section 27-90 of the ITAA 1997 provides a corresponding increase in the cost or opening adjustable value of a depreciating asset where there is an increasing adjustment.
-
-Date of decision:
-  30 August 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   27-85   27-90   Division 40
-A New Tax System (Goods and Services Tax) Act 1999   Division 129   Division 132
-
-Keywords
-
-Adjustments
- Cost
- Cost adjustments
- Depreciating assets
- Decreasing adjustment
- Increasing adjustment
- Opening Adjustable value
-
-Business Line:
-  Capital Allowances Centre of Expertise
-
-Date of publication:
-  30 October 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-30 August 2002
-Original statement
-
-You are here
+In this case, the decreasing adjustment arises in the year in which the assets start time occurs. The cost of the car is reduced by the decreasing adjustment of $500 to $52 500. Note 1: the cost of the car would also be reduced by the amount of the input tax credit to which the entity was entitled in relation to the creditable acquisition or importation of the car. The input tax credit in this case would be is $2000 ($55 000 x 1/11th x 40%). Note 2: Section 27-90 of the ITAA 1997 provides a corresponding increase in the cost or opening adjustable value of a depreciating asset where there is an increasing adjustment. Date of decision: 30 August 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 27-85 27-90 Division 40
+A New Tax System (Goods and Services Tax) Act 1999 Division 129 Division 132 Keywords Adjustments Cost Cost adjustments Depreciating assets Decreasing adjustment Increasing adjustment Opening Adjustable value Business Line: Capital Allowances Centre of Expertise Date of publication: 30 October 2002 ISSN: 1445-2782 history Date: Version: 30 August 2002
+Original statement You are here
 26 March 2010
 Archived

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/744
-==================================================
-
-Capital gains Tax
- Capital gains tax - creation of contractual rights where a club acquires the assets and liabilities of another club (in liquidation)
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Capital gains Tax Capital gains tax - creation of contractual rights where a club acquires the assets and liabilities of another club (in liquidation) FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is there a contractual right created under CGT event D1 in section 104-35 of the Income Tax Assessment Act 1997 (ITAA 1997) in Club A (in liquidation) when Club B acquires the assets of Club A and agrees to pay, or guarantees to pay, all of the creditors and honour all obligations under contracts of Club A (in liquidation)?
 Decision
 No. Club A (in liquidation) does not acquire a CGT asset under CGT event D1 pursuant to section 104-35 of the ITAA 1997 resulting from Club B agreeing to pay the liabilities of Club A (in liquidation).
@@ -33,40 +22,5 @@ In Orica the creditors (debenture holders) had recourse against Orica in the eve
 The principles in Orica only apply where a taxpayer has rights created in it which enable it to compel performance (eg payment of its liabilities) by another party.
 Under the terms of the current arrangement Club A will not be in existence when the liabilities are ultimately paid by Club B. The arrangement anticipates and requires that Club A be liquidated and therefore there is no intention that rights be created in Club A on which it can compel performance.
 This means that the arrangement does not constitute the sort of debt defeasance addressed in Orica and therefore contractual rights under CGT event D1 have not been created in Club A.
-Date of decision:
-  15 May 2002
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-35
-Registered Clubs Act 1976 (NSW)   section 17A(1)(b)
-
-Case References:
-
-Federal Commissioner of Taxation v. Orica Ltd   (1998) 194 CLR 500   (1998) 98 ATC 4494   (1998) 39 ATR 66
-
-Keywords
-
-Association income
- Capital gains
- Capital gains tax
- CGT events D1-D3 - bringing into existence a CGT asset
- Non profit companies
- Debt defeasance
- Liquidation
- Voluntary liquidation
-
-Siebel/TDMS Reference Number:
-  DW345612
-
-Business Line:
-  Centres of Expertise Capital Gains Tax
-
-Date of publication:
-  31 July 2002
-
-ISSN:
- 1445-2782
+Date of decision: 15 May 2002 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 104-35
+Registered Clubs Act 1976 (NSW) section 17A(1)(b) Case References: Federal Commissioner of Taxation v. Orica Ltd (1998) 194 CLR 500 (1998) 98 ATC 4494 (1998) 39 ATR 66 Keywords Association income Capital gains Capital gains tax CGT events D1-D3 - bringing into existence a CGT asset Non profit companies Debt defeasance Liquidation Voluntary liquidation Siebel/TDMS Reference Number: DW345612 Business Line: Centres of Expertise Capital Gains Tax Date of publication: 31 July 2002 ISSN: 1445-2782

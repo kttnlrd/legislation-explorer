@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/459
-==================================================
-
-Income Tax
- Capital Gains Tax: Subdivision 126-B roll-over: asset transfer between foreign resident companies - asset originally acquired from Australian resident company under a roll-over
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: Subdivision 126-B roll-over: asset transfer between foreign resident companies - asset originally acquired from Australian resident company under a roll-over FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does paragraph 126-50(7)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to deny roll-over under Subdivision 126-B of the ITAA 1997 in relation to the transfer of a CGT asset between two foreign resident companies in the same wholly-owned group if the foreign resident company transferring the asset originally acquired the asset from an Australian resident company under a transaction for which roll-over under Subdivision 126-B was chosen?
 Decision
 No. Paragraph 126-50(7)(a) of the ITAA 1997 only applies to deny roll-over under Subdivision 126-B of the ITAA 1997 if the foreign resident company transfers the CGT asset to an Australian resident company which is not the same resident company from which it previously acquired the asset.
@@ -23,46 +12,7 @@ The taxpayer subsequently transferred the land to one of its wholly-owned foreig
 Reasons for Decision
 Subdivision 126-B of the ITAA 1997 provides for roll-over in relation to certain transactions between two companies that are members of the same wholly-owned group of companies. There are a number of requirements to be satisfied for the roll-over to be available.
 Where the company transferring the CGT asset is a foreign resident company that originally acquired the asset from an Australian resident company under a transaction for which roll-over under Subdivision 126-B of the ITAA 1997 was chosen, a requirement for roll-over under paragraph 126-50(7)(a) of the ITAA 1997 is that the foreign resident company must not have acquired the asset from '... an Australian resident originating company other than the company that is the recipient company for the current application of this Subdivision'.
-Under one interpretation of paragraph 126-50(7)(a) of the ITAA 1997, roll-over would only be available under Subdivision 126-B of the ITAA 1997 if the transaction involved the transfer of the asset by the foreign resident company back to the Australian resident company from which it acquired the asset. Support for this interpretation can be found in paragraph 13.27 of the Explanatory Memorandum (EM) to the New Business Tax System (Consolidation) Bill (No. 1) 2002 where it is stated:
-
-If the originating company in the transaction is a foreign resident, and the asset has already been rolled over to that foreign resident by an Australian resident under a previous application of new Subdivision 126-B, subsequent rollover under new Subdivision 126-B is not permitted. ... If however, the asset is merely re-transferred by the foreign resident back to the Australian resident company, rollover relief will be available for the subsequent re-transfer of the asset to the Australian resident.
-
-Despite the wording of the EM, it is considered that the requirement in paragraph 126-50(7)(a) of the ITAA 1997 is only applicable where the asset is being transferred to an Australian resident company. In those circumstances, paragraph 126-50(7)(a) of the ITAA 1997 requires the recipient company to be the same company as that from which the foreign resident company previously acquired the asset in order for roll-over to be available.
+Under one interpretation of paragraph 126-50(7)(a) of the ITAA 1997, roll-over would only be available under Subdivision 126-B of the ITAA 1997 if the transaction involved the transfer of the asset by the foreign resident company back to the Australian resident company from which it acquired the asset. Support for this interpretation can be found in paragraph 13.27 of the Explanatory Memorandum (EM) to the New Business Tax System (Consolidation) Bill (No. 1) 2002 where it is stated: If the originating company in the transaction is a foreign resident, and the asset has already been rolled over to that foreign resident by an Australian resident under a previous application of new Subdivision 126-B, subsequent rollover under new Subdivision 126-B is not permitted. ... If however, the asset is merely re-transferred by the foreign resident back to the Australian resident company, rollover relief will be available for the subsequent re-transfer of the asset to the Australian resident. Despite the wording of the EM, it is considered that the requirement in paragraph 126-50(7)(a) of the ITAA 1997 is only applicable where the asset is being transferred to an Australian resident company. In those circumstances, paragraph 126-50(7)(a) of the ITAA 1997 requires the recipient company to be the same company as that from which the foreign resident company previously acquired the asset in order for roll-over to be available.
 Support for limiting the paragraph 126-50(7)(a) of the ITAA 1997 requirement in this way can be found in the operation of paragraph 126-50(7)(b) of the ITAA 1997, which applies where there has been a 'series' of roll-overs the first of which involved a transfer from an Australian resident company. Were paragraph 126-50(7)(a) of the ITAA 1997 to apply to deny rollover in relation to a transfer of an asset to a foreign resident company, it would not be possible for there to be a 'series' of roll-overs, as envisaged by the legislature in paragraph 126-50(7)(b) of the ITAA 1997. Adopting this interpretation is consistent with the further statement in the EM at paragraph 13.27 that the purpose of the restriction is 'to prevent the removal of CGT rollover relief in relation to resident companies from being undermined'.
 Therefore, as subsection 126-50(7) of the ITAA 1997 has no application where the asset is transferred to a foreign resident company, that provision will not apply in this case to deny roll-over under Subdivision 126-B of the ITAA 1997 in relation to the transfer of the asset between two foreign resident companies in the same wholly-owned group.
-Date of decision:
-  13 May 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 126-B   subsection 126-50(7)   paragraph 126-50(7)(a)   paragraph 126-50(7)(b)
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002
-
-Keywords
-
-CGT assets
- CGT choice
- CGT companies in the same wholly owned group
- CGT roll-over relief
- Group company transfers
- Non resident companies
- Subsidiary companies
- Wholly owned subsidiary
-
-Siebel/TDMS Reference Number:
-  4009544
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 June 2004
-
-ISSN:
- 1445-2782
+Date of decision: 13 May 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Subdivision 126-B subsection 126-50(7) paragraph 126-50(7)(a) paragraph 126-50(7)(b) Other References: Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002 Keywords CGT assets CGT choice CGT companies in the same wholly owned group CGT roll-over relief Group company transfers Non resident companies Subsidiary companies Wholly owned subsidiary Siebel/TDMS Reference Number: 4009544 Business Line: Public Groups and International Date of publication: 4 June 2004 ISSN: 1445-2782

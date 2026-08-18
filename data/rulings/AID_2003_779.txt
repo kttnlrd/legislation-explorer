@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/779
-==================================================
-
-Income Tax
- CGT: majority underlying ownership and deceased estate - continuity of interest during the period of administration
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT: majority underlying ownership and deceased estate - continuity of interest during the period of administration FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the beneficiary of the deceased estate be treated as having a beneficial interest in the assets of the trust before the estate has been fully administered, in order to enable the deemed continuity of underlying interests provisions in subsections 149-30(3) and 149-30(4) of the Income Tax Assessment Act 1997 (ITAA 1997) to have effect?
 Decision
 Yes. Unless the beneficiary of the deceased estate is treated as if they had a beneficial interest in the assets of the trust before the estate has been fully administered, subsections 149-30(3) and 149-30(4) of the ITAA 1997 can never achieve their purpose.
@@ -29,47 +18,4 @@ Subsection 149-30(1) of the ITAA 1997 requires that the same majority underlying
 Subsection 128-15(2) of the ITAA 1997 provides that an LPR, or beneficiary, is taken to have acquired the asset(s) of a deceased person's estate on the day of death. That is, once the beneficiary takes ownership of assets of the estate, the beneficiary is taken, for CGT purposes, to have owned them since the deceased person died. It would be consistent with this provision if the beneficiary were also taken to have had beneficial interests in the assets since the date of death for purposes of Division 149 of the ITAA 1997.
 To give subsections 149-30(3) and 149-30(4) of the ITAA 1997 their intended effect, it is necessary to apply subsection 149-30(1) of the ITAA 1997 as if the beneficiary had beneficial interests in the assets of the estate from the date of the deceased person's death until the time the estate had been fully administered. Subsections 149-30(3) and 149-30(4) could never achieve their purpose if the period of administration were treated as a period when no one had any beneficial interests.
 Consequently, the beneficiary of a deceased estate must be treated as having a beneficial interest in the assets of the trust before the estate has been fully administered, in order to enable subsections 149-30(3) and 149-30(4) of the ITAA 1997 to have effect.
-Date of decision:
-  27 June 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 149   Subdivision 149-B   subsection 128-15(2)   subsection 149-30(1)   subsection 149-30(3)   subsection 149-30(4)   section 149-50
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2622
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/777
- ATO ID 2003/778
-
-Keywords
-
-Capital gains tax
- CGT assets
- CGT deceased estates
- Executors
- Legal personal representatives
- Ownership, interests, control & rights
- Pre-CGT assets
- Underlying ownership & interests
-
-Siebel/TDMS Reference Number:
-  3488667; 1-7QXVPLY
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  29 August 2003
-
-Date reviewed:
-  26 February 2016
-
-ISSN:
- 1445-2782
+Date of decision: 27 June 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Division 149 Subdivision 149-B subsection 128-15(2) subsection 149-30(1) subsection 149-30(3) subsection 149-30(4) section 149-50 Related Public Rulings (including Determinations) Taxation Ruling IT 2622 Related ATO Interpretative Decisions ATO ID 2003/777 ATO ID 2003/778 Keywords Capital gains tax CGT assets CGT deceased estates Executors Legal personal representatives Ownership, interests, control & rights Pre-CGT assets Underlying ownership & interests Siebel/TDMS Reference Number: 3488667; 1-7QXVPLY Business Line: Small Business/Individual Taxpayers Date of publication: 29 August 2003 Date reviewed: 26 February 2016 ISSN: 1445-2782

@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/381
-==================================================
-
-Income Tax
- Deducting Tax Loss: Saving Rule - More than one tax loss being deducted
- FOI status: may be released
-
-This ATO ID has been amended to clarify legislative changes repealed by the Tax Laws Amendment (2007 Measures No 4) Act of 2007 with effect from 24 September 2007
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deducting Tax Loss: Saving Rule - More than one tax loss being deducted FOI status: may be released This ATO ID has been amended to clarify legislative changes repealed by the Tax Laws Amendment (2007 Measures No 4) Act of 2007 with effect from 24 September 2007 CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a loss company seeks to deduct tax losses from two loss years in the one income year, is the extent of reflection for the purposes of subsection 165-12(7) of the Income Tax Assessment Act 1997 (ITAA 1997) determined separately for each tax loss?
 Decision
 Yes. Each tax loss that a company seeks to deduct under section 36-17 of the ITAA 1997 is separately considered under Subdivision 165-A of the ITAA 1997, including, where relevant, subsection 165-12(7) of the ITAA 1997.
@@ -25,39 +12,5 @@ Because of the happening of CGT event A1, individual R became entitled to a capi
 That capital loss is not taken to be disregarded under Subdivision 170-D of the ITAA 1997 or any other provision.
 No other CGT event happened, in relation to direct or indirect equity interests in the Loss Company in the respective ownership test period for each tax loss, as identified under subsection 165-12(1) of the ITAA 1997.
 Reasons for Decision
-Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied because of the operation of section 165-165 of the ITAA 1997, that the condition can be taken as being satisfied where:
-
-the company has information from which it would be reasonable to assume that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct equity interests or *indirect equity interests in the company during the *ownership test period.
-
-Note: * denotes a term defined in section 995-1 of the ITAA 1997.
-
-As Subdivision 165-A of the ITAA 1997 is separately applied to each tax loss that Loss Company seeks to deduct under section 36-17 of the ITAA 1997, the tax loss contemplated by subsection 165-12(7) of the ITAA 1997 is the relevant tax loss being
- separately
- considered under Subdivision 165-A of the ITAA 1997, and not the
- total
- amount of all the tax losses from different loss years that Loss Company may seek to deduct in the one income year.
-Date of decision:
-  7 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 36-17   subsection 104-10(2)   Subdivision 165-A   Subsection 165-12(1)   subsection 165-12(2)   subsection 165-12(3)   subsection 165-12(4)   subsection 165-12(7)   section 165-165   subdivision 170D   subsection 995-1(1)
-
-Keywords
-
-Losses
-
-Siebel/TDMS Reference Number:
-  3546002
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 May 2003
-
-ISSN:
- 1445-2782
+Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied because of the operation of section 165-165 of the ITAA 1997, that the condition can be taken as being satisfied where: the company has information from which it would be reasonable to assume that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct equity interests or *indirect equity interests in the company during the *ownership test period. Note: * denotes a term defined in section 995-1 of the ITAA 1997. As Subdivision 165-A of the ITAA 1997 is separately applied to each tax loss that Loss Company seeks to deduct under section 36-17 of the ITAA 1997, the tax loss contemplated by subsection 165-12(7) of the ITAA 1997 is the relevant tax loss being separately considered under Subdivision 165-A of the ITAA 1997, and not the total amount of all the tax losses from different loss years that Loss Company may seek to deduct in the one income year.
+Date of decision: 7 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 36-17 subsection 104-10(2) Subdivision 165-A Subsection 165-12(1) subsection 165-12(2) subsection 165-12(3) subsection 165-12(4) subsection 165-12(7) section 165-165 subdivision 170D subsection 995-1(1) Keywords Losses Siebel/TDMS Reference Number: 3546002 Business Line: Public Groups and International Date of publication: 23 May 2003 ISSN: 1445-2782

@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/76
-==================================================
-
-Income Tax
- Offshore Banking Unit: Apportioning trust management fees from portfolio investment activity
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Offshore Banking Unit: Apportioning trust management fees from portfolio investment activity FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can an offshore banking unit (OBU) apportion the fees received from managing a portfolio investment between offshore banking income and non-offshore banking income for the purposes of subsection 121D(6A) of the Income Tax Assessment Act 1936 (ITAA 1936) where there are Australian resident and non-resident investors in an Australian resident unit trust holding foreign assets bought from non-residents with non-Australian currency?
 Decision
 Yes. The OBU can apportion the fees received from managing a portfolio investment between offshore banking income and non-offshore banking income for the purposes of subsection 121D(6A) of the ITAA 1936 if the OBU maintains full control over the making of portfolio investments.
@@ -33,15 +20,9 @@ The trust instrument permits the taxpayer to keep separate accounts and allocate
 Reasons for Decision
 Subsection 121D(6A) of the ITAA 1936 defines the conditions necessary for portfolio investment activity to qualify as an offshore banking (OB) activity for the purposes of paragraph 121D(1)(e) of the ITAA 1936. In addition, to qualify as an OB activity, it must be done by the OBU[1] (subsection 121D(1) of the ITAA 1936).
 To be an OB activity, the activity of an Australian resident OBU must be carried on in Australia (paragraph 121EA(a) of the ITAA 1936).
-The key tests for the first condition are contained in paragraph 121D(6A)(a) of the ITAA 1936:
-
-1. the investment must be a 'portfolio investment' (as defined by subsection 121DA(1) of the ITAA 1936); and
-2. the 'portfolio investment':
-
-(a)must be managed by the fund manager in its capacity as either a broker, agent, or custodian for a non-resident; or
-(b)must be managed by the fund manager in its capacity as trustee for the benefit of a non-resident.
-
-Subsection 121DA(1) of the ITAA 1936 provides that a 'portfolio investment' is an investment that an OBU manages under a contract or trust instrument as broker, an agent or custodian for, or trustee for the benefit of, a non-resident.
+The key tests for the first condition are contained in paragraph 121D(6A)(a) of the ITAA 1936: 1. the investment must be a 'portfolio investment' (as defined by subsection 121DA(1) of the ITAA 1936); and
+2. the 'portfolio investment': (a)must be managed by the fund manager in its capacity as either a broker, agent, or custodian for a non-resident; or
+(b)must be managed by the fund manager in its capacity as trustee for the benefit of a non-resident. Subsection 121DA(1) of the ITAA 1936 provides that a 'portfolio investment' is an investment that an OBU manages under a contract or trust instrument as broker, an agent or custodian for, or trustee for the benefit of, a non-resident.
 Taxation Determination TD 93/207 at paragraph 3 addresses the issue where an OBU acts as a fund manager for a trust with offshore investors. TD 93/207 concludes that it is immaterial whether the trust has an Australian trustee so long as the requirements of subsection 121D(6) of the ITAA 1936 are met.
 Subsection 121D(6) of the ITAA 1936 provides that an 'investment activity' is the making (but not managing), as a broker or agent for, or trustee for the benefit of, an offshore person to whom paragraph 121E(a) of the ITAA 1936 applies. In addition, the investment is not made in Australian currency; and if it involves the purchase of anything, that it is either a share of a non-resident company, a unit in a non-resident trust or a thing not located in Australia.
 The taxpayer is a single responsible entity (i.e. a fund manager and trustee) if the fund is a registered scheme. The taxpayer is a trustee if the fund is not a registered scheme. The powers of the taxpayer lie within the meaning of portfolio investment as defined by subsection 121DA(1) of the ITAA 1936 since the taxpayer as trustee would manage the assets of the fund for the benefit of non-residents (even though the trustee is a resident itself).
@@ -49,82 +30,17 @@ Hence key tests (1) and (2) for paragraph 121D(6A)(a) of the ITAA 1936 are satis
 If another entity were appointed as agent for the taxpayer, the agent would be administering the fund's assets for the resident taxpayer. However, in reality, the agent is administering the fund's assets as agent ultimately for the benefit of the unit holders, both residents and non-residents, who are the beneficiaries of the trust. The taxpayer (as OBU) must maintain full control over the actions of the agent and the taxpayer must continue to manage the portfolio investment. This interpretation gives effect to Parliament's intent for the OBU legislation to bring financial business onshore that would normally remain offshore. Hence key tests (1) and (2) for paragraph 121D(6A)(a) of the ITAA 1936 would also be satisfied where the taxpayer appoints an agent to act as administrator for the fund.
 The second condition contained in paragraph 121D(6A)(b) of the ITAA 1936 requires the portfolio investment to be made by an OBU. 'Made' should not be restricted to merely buying and selling investments. It should be given a wider meaning. Where the taxpayer (an OBU) is the single responsible entity (or trustee if an unregistered scheme) for a fund without an agent appointed to act on its behalf, then subsection 121D(6A)(b) of the ITAA 1936 is satisfied.
 Where an agent is appointed to act on the taxpayer's behalf as fund manager, subsection 121D(6A)(b) of the ITAA 1936 would only be satisfied where the taxpayer maintained full control and management over the making of portfolio investments. The taxpayer (as OBU) must have facilitated the making of the portfolio investment (i.e. performed the investment analysis, investment selection and authorised the investment's sale or purchase). The agent would be permitted to buy and sell investments provided the taxpayer had the final decision whether to proceed with or stop any portfolio investment sale or purchase.
-Taxation Determination TD 93/133, at paragraph 3, makes it clear that:
-
-To be an 'OB activity' the transaction must be made by an OBU. Section 128AE states that trading and savings banks, State banks, other financial institutions and wholly owned subsidiaries of banks which are OBUs may be registered as OBUs. Therefore, where the transaction is entered into before registration as an OBU, the activity is
- not
- an OB activity and income from that activity does not get the concessional rate of tax. It also follows that
- transactions entered into before registration cannot subsequently become OB activities when the entity is registered as an OBU.
-
-Thus only transactions entered into after the taxpayer had been declared an OBU would satisfy the requirements of paragraph 121D(6A)(b) of the ITAA 1936.
+Taxation Determination TD 93/133, at paragraph 3, makes it clear that: To be an 'OB activity' the transaction must be made by an OBU. Section 128AE states that trading and savings banks, State banks, other financial institutions and wholly owned subsidiaries of banks which are OBUs may be registered as OBUs. Therefore, where the transaction is entered into before registration as an OBU, the activity is not an OB activity and income from that activity does not get the concessional rate of tax. It also follows that transactions entered into before registration cannot subsequently become OB activities when the entity is registered as an OBU. Thus only transactions entered into after the taxpayer had been declared an OBU would satisfy the requirements of paragraph 121D(6A)(b) of the ITAA 1936.
 The taxpayer keeps a registry of unit holders which identifies their residency status. The taxpayer can differentiate between fees earned in relation to non-residents and fees earned in relation to residents. Furthermore, the taxpayer can differentiate between fees earned relating to investments before OBU status was granted and fees earned relating to investments after OBU status was granted.
 The trust instrument permits the taxpayer to keep separate accounts and allocate income, deductions or credits to particular unit holders.
 Under these circumstances, the proportion of management fees that relates to managing a portfolio investment received from a trust that relates to non-resident investors can be identified and treated as OB income. The taxpayer can therefore apportion the income between OB and non-OB activities for the purposes of subsection 121D(6A) of the ITAA 1936 where the unit trusts hold foreign assets bought with non-Australian currency from non-residents.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-12 October 2021
+Comment 12 October 2021
 Reasons for Decision
-Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
-
- Date of effect 13 September 2021
-
-[1]
-The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year.
-
-Date of decision:
-  26 November 2002
-
-Year of income:
-  Other/Substituted Accounting Period 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 121D(1)   paragraph 121D(1)(e)   subsection 121D(6)   subsection 121D(6A)   paragraph 121D(6A)(a)   paragraph 121D(6A)(b)   subsection 121DA(1)   paragraph 121E(a)   paragraph 121EA(a)
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 93/133
-Taxation Determination TD 93/207
-
-Keywords
-
-Offshore banking
- Offshore banking units
- Offshore banking activities
- Unit trusts
- Investment trusts
-
-Siebel/TDMS Reference Number:
-  CW3141124
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 March 2003
-
-Date reviewed:
-  12 October 2021
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-26 November 2002
-Original statement
-
-You are here
+Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs. Date of effect 13 September 2021 [1]
+The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year. Date of decision: 26 November 2002 Year of income: Other/Substituted Accounting Period 2002 Legislative References: Income Tax Assessment Act 1936 subsection 121D(1) paragraph 121D(1)(e) subsection 121D(6) subsection 121D(6A) paragraph 121D(6A)(a) paragraph 121D(6A)(b) subsection 121DA(1) paragraph 121E(a) paragraph 121EA(a) Related Public Rulings (including Determinations) Taxation Determination TD 93/133
+Taxation Determination TD 93/207 Keywords Offshore banking Offshore banking units Offshore banking activities Unit trusts Investment trusts Siebel/TDMS Reference Number: CW3141124 Business Line: Public Groups and International Date of publication: 15 March 2003 Date reviewed: 12 October 2021 ISSN: 1445-2782 history Date: Version: 26 November 2002
+Original statement You are here
 12 October 2021
 Updated statement

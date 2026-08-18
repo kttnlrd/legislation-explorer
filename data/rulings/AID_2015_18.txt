@@ -1,138 +1,33 @@
 ATO Interpretative Decision
 ATO ID 2015/18
-==================================================
-
-Superannuation
- Superannuation - Superannuation Guarantee Scheme: Benefit Certificates
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-If an employee is not included in a class of employees specified in a benefit certificate for a defined benefit superannuation scheme, can the employer use that scheme to satisfy the employer's obligations for that employee under the Superannuation Guarantee (Administration) Act 1992 (SGAA)?
-
-Decision
-No. The employee must be included in a class of employees specified in the benefit certificate, for contributions made by an employer on behalf of that employee to the defined benefit superannuation scheme to satisfy the employer's obligations for that employee under the SGAA.
-
-Facts
+================================================== Superannuation Superannuation - Superannuation Guarantee Scheme: Benefit Certificates CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+If an employee is not included in a class of employees specified in a benefit certificate for a defined benefit superannuation scheme, can the employer use that scheme to satisfy the employer's obligations for that employee under the Superannuation Guarantee (Administration) Act 1992 (SGAA)? Decision
+No. The employee must be included in a class of employees specified in the benefit certificate, for contributions made by an employer on behalf of that employee to the defined benefit superannuation scheme to satisfy the employer's obligations for that employee under the SGAA. Facts
 A defined benefit superannuation scheme (the DB scheme) has a benefit certificate in effect that specifies the minimum requisite benefit provided for members of the scheme.
-The benefit certificate states that a benefit consists of the sum of three components:
-
-• an accumulation benefit of employer contributions
+The benefit certificate states that a benefit consists of the sum of three components: • an accumulation benefit of employer contributions
 • a defined benefit for those who choose to make voluntary contributions, and
-• an additional benefit payable in respect of certain transfers or rollovers.
-
-The benefit certificate states that only the accumulation benefit component of the benefit is provided for all members in a class of membership. Under the rules of the scheme, employer contributions to the accumulation benefit equate to the rate of the superannuation guarantee charge (SGC).
+• an additional benefit payable in respect of certain transfers or rollovers. The benefit certificate states that only the accumulation benefit component of the benefit is provided for all members in a class of membership. Under the rules of the scheme, employer contributions to the accumulation benefit equate to the rate of the superannuation guarantee charge (SGC).
 However, this employer does not pay contributions to the DB scheme in respect of an employee for the accumulation benefit component (that is stated in the benefit certificate to be provided in respect of all members in a class of membership). It follows that the employee is not in a class of membership to which the benefit certificate relates.
-Instead, the employer makes contributions to a completely separate accumulation scheme for the employee and the level of contributions is less than the rate of the SGC. The employer also makes a small contribution to the DB scheme in respect of the employee's voluntary contributions. Together, the total contributions made by the employer roughly equate to the rate of the SGC.
-
-Reasons for Decision
+Instead, the employer makes contributions to a completely separate accumulation scheme for the employee and the level of contributions is less than the rate of the SGC. The employer also makes a small contribution to the DB scheme in respect of the employee's voluntary contributions. Together, the total contributions made by the employer roughly equate to the rate of the SGC. Reasons for Decision
 Employers who do not provide the prescribed minimum level of superannuation support for each quarter for their employees are liable to pay a superannuation guarantee (SG) charge. This is imposed on the employer's SG shortfall for a quarter (section 16 of the SGAA).
-The SG shortfall for a quarter is worked out by adding the total of the employer's:
-
-• individual SG shortfalls for the quarter
+The SG shortfall for a quarter is worked out by adding the total of the employer's: • individual SG shortfalls for the quarter
 • nominal interest component for the quarter, and
-• administration component for the quarter (section 17 of the SGAA).
-
-The formula for working out an employer's individual SG shortfall for an employee for a quarter is contained in subsection 19(1) of the SGAA. Included in the formula is a charge percentage for an employer for a quarter. The charge percentage is the number specified in the table in subsection 19(2) of the SGAA (paragraph 19(1)(a) of the SGAA). That table sets out the charge percentages for the year starting on 1 July 2013 to the year starting on 1 July 2025 (inclusive). For example, the charge percentage for the year starting on 1 July 2014 is 9.5%.
+• administration component for the quarter (section 17 of the SGAA). The formula for working out an employer's individual SG shortfall for an employee for a quarter is contained in subsection 19(1) of the SGAA. Included in the formula is a charge percentage for an employer for a quarter. The charge percentage is the number specified in the table in subsection 19(2) of the SGAA (paragraph 19(1)(a) of the SGAA). That table sets out the charge percentages for the year starting on 1 July 2013 to the year starting on 1 July 2025 (inclusive). For example, the charge percentage for the year starting on 1 July 2014 is 9.5%.
 However a charge percentage may be reduced in respect of an employee under either or both of sections 22 and 23 of the SGAA (paragraph 19(1)(b) of the SGAA). The reduction of a charge percentage for an employer for a quarter to nil for each employee will result in the employer having a nil individual SG shortfall for each employee for the quarter and a nil liability for SG charge for that quarter.
 Section 22 of the SGAA is relevant to the present case as it applies in relation to defined benefit superannuation schemes (subsection 22(1) of the SGAA).
-Under subsection 22(2) of the SGAA if:
-
-(a) a benefit certificate in relation to one or more complying superannuation schemes has effect for the whole or part of a quarter; and
+Under subsection 22(2) of the SGAA if: (a) a benefit certificate in relation to one or more complying superannuation schemes has effect for the whole or part of a quarter; and
 (b) a scheme in relation to which the certificate has effect is operating for the benefit of a person as an employee of an employer; and
-(c) the certificate specifies a figure as the notional employer contribution rate in relation to a class of employees (being a class that includes the employee referred to in paragraph (b)) as members of the scheme or schemes (as the case may be);
-
-the charge percentage for the employer in respect of an employee in the class for the quarter is reduced by an amount worked out using the formula set out in that subsection.
-Subsection 10(1) of the SGAA defines 'benefit certificate' as follows:
-
-A benefit certificate is a certificate by an actuary relating to one or more specified defined benefit superannuation schemes and specifying the rate, expressed as a percentage, that is, in the opinion of the actuary, the notional employer contribution rate, in relation to a specified class of employees (being members of the scheme or schemes, as the case may be), of an employer who is a contributor under the scheme or schemes (as the case may be) for the benefit of an employee in that class.
-
-The expression 'notional employer contribution rate' is defined in subsection 10(2) of the SGAA a follows:
-
-The notional employer contribution rate, in relation to a class of employees specified in a benefit certificate relating to one or more defined benefit superannuation schemes, is the contribution rate required to meet the expected long-term cost, to an employer who contributes to the scheme or schemes for the benefit of employees in the class, of the minimum benefits accruing in respect of all employees in the class from the date of effect of the benefit certificate onwards.
-
-Regulation 5 of the Superannuation Guarantee (Administration) Regulations 1993 (SGAR) provides for how the notional employer contribution rate for a class of employees in a defined benefit superannuation scheme who are being provided with an accumulation benefit in respect of their minimum requisite benefit should be calculated, as follows:
-
-If, in relation to a class of employees who are members of a defined benefit superannuation scheme:
-
-(a) the minimum requisite benefit in respect of each employee in that class is calculated as an accumulation of employer contributions; and
-(b) the employer contribution rate used in that calculation is the same for each employee in the class;
-
-the notional employer contribution rate in relation to the class is that employer contribution rate.
-
-The expression 'minimum requisite benefit' is defined in regulation 2 of the SGAR as having the same meaning as in the Superannuation Industry (Supervision) Regulations 1994 (SISR). Subregulation 1.03(1) of the SISR provides:
-
-minimum requisite benefit,
- in relation to a member, means the benefit certified by an actuary in a relevant benefit certificate as the minimum benefit in respect of the member.
-
-Minimum benefits for a member of a defined benefit superannuation scheme are defined relevantly under paragraph 5.04(3)(a) of the SISR as:
-
-(3) If the fund is a defined benefit fund, the member's minimum benefits are as follows:
-
-(a) if the member belongs to a class of employees in relation to which a relevant benefit certificate applies, the amount of the member's minimum requisite benefit.
-
-Further guidance on the determination of minimum requisite benefits, notional employer contribution rates and the preparation of benefit certificates, is provided for actuaries under mandatory Professional Standard PS403 issued by the Institute of Actuaries of Australia.
-Subregulation 3(2) of the SGAR provides relevantly:
-
-A benefit certificate must:
-
-...
-
-(b) specify, or identify by reference to the governing rules of each scheme to which the certificate relates, the minimum requisite benefit; and
-(c) specify:
-
-(i) the notional employer contribution rate in relation to each scheme, or combination of schemes, to which the certificate relates; and
-(ii) the class of members of the scheme or schemes to which the notional employer contribution rate relates.
-
-For an employer to use contributions made to a defined benefit superannuation scheme to satisfy the employer's superannuation guarantee obligations in respect of a particular employee, the following conditions must be satisfied:
-
-1. the defined benefit superannuation scheme must have in place a valid benefit certificate prepared by an actuary; and
-2. the benefit certificate must cover the class of employee containing the particular employee and 'identify by reference to the governing rules of each scheme to which the certificate relates, the minimum requisite benefit' provided for that class of employee.
-
-A benefit certificate does not have to cover all classes of employee in a defined benefit superannuation scheme. If a class of employees is not covered by a valid benefit certificate, the employer cannot use benefits provided from that defined benefit superannuation scheme to meet the employer's superannuation guarantee obligations under subsection 22(2) of the SGAA.
+(c) the certificate specifies a figure as the notional employer contribution rate in relation to a class of employees (being a class that includes the employee referred to in paragraph (b)) as members of the scheme or schemes (as the case may be); the charge percentage for the employer in respect of an employee in the class for the quarter is reduced by an amount worked out using the formula set out in that subsection.
+Subsection 10(1) of the SGAA defines 'benefit certificate' as follows: A benefit certificate is a certificate by an actuary relating to one or more specified defined benefit superannuation schemes and specifying the rate, expressed as a percentage, that is, in the opinion of the actuary, the notional employer contribution rate, in relation to a specified class of employees (being members of the scheme or schemes, as the case may be), of an employer who is a contributor under the scheme or schemes (as the case may be) for the benefit of an employee in that class. The expression 'notional employer contribution rate' is defined in subsection 10(2) of the SGAA a follows: The notional employer contribution rate, in relation to a class of employees specified in a benefit certificate relating to one or more defined benefit superannuation schemes, is the contribution rate required to meet the expected long-term cost, to an employer who contributes to the scheme or schemes for the benefit of employees in the class, of the minimum benefits accruing in respect of all employees in the class from the date of effect of the benefit certificate onwards. Regulation 5 of the Superannuation Guarantee (Administration) Regulations 1993 (SGAR) provides for how the notional employer contribution rate for a class of employees in a defined benefit superannuation scheme who are being provided with an accumulation benefit in respect of their minimum requisite benefit should be calculated, as follows: If, in relation to a class of employees who are members of a defined benefit superannuation scheme: (a) the minimum requisite benefit in respect of each employee in that class is calculated as an accumulation of employer contributions; and
+(b) the employer contribution rate used in that calculation is the same for each employee in the class; the notional employer contribution rate in relation to the class is that employer contribution rate. The expression 'minimum requisite benefit' is defined in regulation 2 of the SGAR as having the same meaning as in the Superannuation Industry (Supervision) Regulations 1994 (SISR). Subregulation 1.03(1) of the SISR provides: minimum requisite benefit, in relation to a member, means the benefit certified by an actuary in a relevant benefit certificate as the minimum benefit in respect of the member. Minimum benefits for a member of a defined benefit superannuation scheme are defined relevantly under paragraph 5.04(3)(a) of the SISR as: (3) If the fund is a defined benefit fund, the member's minimum benefits are as follows: (a) if the member belongs to a class of employees in relation to which a relevant benefit certificate applies, the amount of the member's minimum requisite benefit. Further guidance on the determination of minimum requisite benefits, notional employer contribution rates and the preparation of benefit certificates, is provided for actuaries under mandatory Professional Standard PS403 issued by the Institute of Actuaries of Australia.
+Subregulation 3(2) of the SGAR provides relevantly: A benefit certificate must: ... (b) specify, or identify by reference to the governing rules of each scheme to which the certificate relates, the minimum requisite benefit; and
+(c) specify: (i) the notional employer contribution rate in relation to each scheme, or combination of schemes, to which the certificate relates; and
+(ii) the class of members of the scheme or schemes to which the notional employer contribution rate relates. For an employer to use contributions made to a defined benefit superannuation scheme to satisfy the employer's superannuation guarantee obligations in respect of a particular employee, the following conditions must be satisfied: 1. the defined benefit superannuation scheme must have in place a valid benefit certificate prepared by an actuary; and
+2. the benefit certificate must cover the class of employee containing the particular employee and 'identify by reference to the governing rules of each scheme to which the certificate relates, the minimum requisite benefit' provided for that class of employee. A benefit certificate does not have to cover all classes of employee in a defined benefit superannuation scheme. If a class of employees is not covered by a valid benefit certificate, the employer cannot use benefits provided from that defined benefit superannuation scheme to meet the employer's superannuation guarantee obligations under subsection 22(2) of the SGAA.
 The minimum requisite benefit for a class of employees must be described in the benefit certificate, if necessary by reference to the governing rules of the scheme, for the certificate to be in effect for that class of employees, to satisfy subregulation 3(2) of the SGAR.
 In the present case the employer does not pay contributions to the DB scheme in respect of the employee for the accumulation component of the benefit that is stated in the benefit certificate to be provided in respect of 'all members' in a class of membership. The employee is not provided with the component of the benefit that is stated in the benefit certificate to be provided in respect of 'all members' in a class of membership. Therefore the employee is not contained in the class of members specified in that benefit certificate.
 In this case the DB scheme does not have a benefit certificate in effect for a class of employees containing that employee and the benefit certificate does not satisfy subregulation 3(2) of the SGAR for that employee.
-The employer cannot use contributions to the DB scheme to reduce the superannuation guarantee charge percentage payable for that employee to any extent, even if the employer has paid other contributions to the DB scheme for the employee.
-
-Date of decision:
-  22 June 2015
-
-Year of income:
-  1 July 2008 onwards
-
-Legislative References:
-
-Superannuation Guarantee (Administration) Act 1992   subsection 10(1)   subsection 10(2)   subsection 22(2)
-Superannuation Guarantee (Administration) Regulations 1993   regulation 2   regulation 5   subregulation 3(2)
-Superannuation Industry (Supervision) Regulations 1994   subregulation 1.03(1)   subregulation 5.04(3)
-
-Other References:
-
-Professional Standard PS 403
-
-Keywords
-
-Superannuation guarantee scheme
- Superannuation guarantee charge
- Defined benefit superannuation funds
- Benefit certificate
-
-Siebel/TDMS Reference Number:
-  1-5G2TS7I; 1-FZRSRJG
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  3 July 2015
-
-Date reviewed:
-  7 August 2018
-
-ISSN:
- 1445-2782
+The employer cannot use contributions to the DB scheme to reduce the superannuation guarantee charge percentage payable for that employee to any extent, even if the employer has paid other contributions to the DB scheme for the employee. Date of decision: 22 June 2015 Year of income: 1 July 2008 onwards Legislative References: Superannuation Guarantee (Administration) Act 1992 subsection 10(1) subsection 10(2) subsection 22(2)
+Superannuation Guarantee (Administration) Regulations 1993 regulation 2 regulation 5 subregulation 3(2)
+Superannuation Industry (Supervision) Regulations 1994 subregulation 1.03(1) subregulation 5.04(3) Other References: Professional Standard PS 403 Keywords Superannuation guarantee scheme Superannuation guarantee charge Defined benefit superannuation funds Benefit certificate Siebel/TDMS Reference Number: 1-5G2TS7I; 1-FZRSRJG Business Line: Superannuation Date of publication: 3 July 2015 Date reviewed: 7 August 2018 ISSN: 1445-2782

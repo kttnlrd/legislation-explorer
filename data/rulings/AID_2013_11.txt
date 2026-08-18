@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/11
-==================================================
-
-Income Tax
- Research and Development - tax incentive - combination of exempt entities
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development - tax incentive - combination of exempt entities CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will Item 2 of the table in subsection 355-100(1) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to a company when two or more exempt entities who are not affiliates, together beneficially own interests in the company carrying more than 50% of the voting rights or rights to a distribution of income or capital?
 Decision
 Yes. Item 2 of the table in subsection 355-100(1) of the ITAA 1997 will apply to the company where two or more exempt entities, irrespective of their relationship, beneficially own interests in the company carrying more than 50% of the voting rights or rights to a distribution of income or capital.
@@ -22,138 +12,20 @@ Together, the total shareholdings of the tax exempt entities exceed 50%.
 The shares carry with them voting rights and rights to distributions of income or capital.
 The company incurs research and development expenditure during the income year and claims the tax offset under section 355-100 of the ITAA 1997.
 Reasons for Decision
-Generally, where an R&D entity has engaged in registered R&D activities, subsection 355-100(1) of the ITAA 1997 allows the entity to claim an R&D tax offset at one of two specified rates. Which rate is applicable depends on certain circumstances as detailed in the table in subsection 355-100(1). One of the circumstances in the table in subsection 355-100(1) is Item 2, which applies when:
-
-an *exempt entity, or combination of exempt entities, would control the *R&D entity in a way described in section 328-125 (connected entities) if:
-
-(a)references in section 328-125 to 40% were references to 50%; and
-(b)subsection 328-125(6) were ignored.
-
-Note that subsection 328-125(1) provides that an entity is 'connected with' another entity if either entity controls the other entity in a way described in section 328-125 - or both entities are controlled in that way by the same third entity (see paragraph 8 of Taxation Determination TD 2006/68).
-Subsection 328-125(2) then sets out how an entity controls another entity 'in a way described in section 328-125', in providing that:
-
-An entity (the
- first entity
-) controls another entity if the first entity, its *affiliates, or the first entity together with its affiliates:
-
-...
-
-(b)if the other entity is a company - beneficially own, or have the right to acquire the beneficial ownership of, *equity interests in the company that carry between them the right to exercise, or control the exercise of, a percentage (the
- control percentage
-) that is at least 40% of the voting power in the company.
-
-Broadly, a company will be controlled by another entity within the meaning of section 328-125, if that other entity, its affiliates, or that other entity together with its affiliates, beneficially own, or have the right to beneficially own shares in the company which carry the right to at least 40% of:
-
-•any distribution of income by the company; or
+Generally, where an R&D entity has engaged in registered R&D activities, subsection 355-100(1) of the ITAA 1997 allows the entity to claim an R&D tax offset at one of two specified rates. Which rate is applicable depends on certain circumstances as detailed in the table in subsection 355-100(1). One of the circumstances in the table in subsection 355-100(1) is Item 2, which applies when: an *exempt entity, or combination of exempt entities, would control the *R&D entity in a way described in section 328-125 (connected entities) if: (a)references in section 328-125 to 40% were references to 50%; and
+(b)subsection 328-125(6) were ignored. Note that subsection 328-125(1) provides that an entity is 'connected with' another entity if either entity controls the other entity in a way described in section 328-125 - or both entities are controlled in that way by the same third entity (see paragraph 8 of Taxation Determination TD 2006/68).
+Subsection 328-125(2) then sets out how an entity controls another entity 'in a way described in section 328-125', in providing that: An entity (the first entity
+) controls another entity if the first entity, its *affiliates, or the first entity together with its affiliates: ... (b)if the other entity is a company - beneficially own, or have the right to acquire the beneficial ownership of, *equity interests in the company that carry between them the right to exercise, or control the exercise of, a percentage (the control percentage
+) that is at least 40% of the voting power in the company. Broadly, a company will be controlled by another entity within the meaning of section 328-125, if that other entity, its affiliates, or that other entity together with its affiliates, beneficially own, or have the right to beneficially own shares in the company which carry the right to at least 40% of: •any distribution of income by the company; or
 •any distribution of capital by the company; or
-•the voting power in the company.
-
-Under section 328-125, a shareholder of a company will be aggregated with another shareholder if it is an 'affiliate' of the other shareholder. The meaning of 'affiliate' is provided by section 328-130. The aggregation of shareholdings in 328-125 therefore depends on a certain relationship between the shareholders. Multiple shareholders will be included in the test as long as there is one identified shareholder to which each of the other shareholders have the required relationship.
+•the voting power in the company. Under section 328-125, a shareholder of a company will be aggregated with another shareholder if it is an 'affiliate' of the other shareholder. The meaning of 'affiliate' is provided by section 328-130. The aggregation of shareholdings in 328-125 therefore depends on a certain relationship between the shareholders. Multiple shareholders will be included in the test as long as there is one identified shareholder to which each of the other shareholders have the required relationship.
 A shareholder of a company will not be included in the section 328-125 control test if it is not an affiliate of another requisite shareholder.
-Item 2 in the table in subsection 355-100(1) adopts the control test in section 328-125 with some modifications. Firstly the threshold is increased to 50% (up from 40%). Secondly the requirement for control by an exempt entity is extended to include control by a 'combination of exempt entities'.
-
-Combination of Exempt Entities
-
-'Combination of exempt entities' is not defined in the ITAA 1997.
-The High Court stated (per Hayne, Heydon, Crennan and Kiefel JJ) in Alcan (NT) Alumina Pty Ltd v. Commissioner of Territory Revenue (NT) (2009) 239 CLR 27; 2009 ATC 20-134 at 47:
-
-"...the task of statutory construction must begin with a consideration of the text itself. Historical considerations and extrinsic materials cannot be relied on to displace the clear meaning of the text. The language which has actually been employed in the text of legislation is the surest guide to legislative intention. The meaning of the text may require consideration of the context, which includes the general purpose and policy of a provision, in particular the mischief it is seeking to remedy."
-
-In consideration of the text itself, The Concise Oxford Dictionary, 1987, rev. 7th edn, Oxford University Press, Melbourne, defines 'combination' as a:
-
-"...combined state (in combination with); combined set of things or persons ....group of things chosen from a larger number without regard to their arrangement..."
-
-The Macquarie Dictionary (1997) defines 'combination' to mean '1. the act of combining. 2. the state of being combined. 3. a number of things combined.' 'Combine' is defined in The Macquarie Dictionary (1997) to include 'to bring or join into a close union or whole; unite; associate; coalesce.'
-Webster's Third New International Dictionary gives the meaning of 'combination' as:
-
-"the result or product of combining: a union or aggregate made of combining one thing with another."
-
-In Gunn v. Canada (F.C.A.), 2006 FCA 281, [2007] 3 F.C.R. 57 it was stated that:
-
-"a combination ... in ordinary language implies an addition or aggregation."
-
-These definitions make no reference to a relationship between the things combined and so suggest 'combination' should be interpreted as a singular state. A strict reading of the text using these definitions indicates that, once a set of entities are combined, further enquiry into the existence of any relationship is not required.
+Item 2 in the table in subsection 355-100(1) adopts the control test in section 328-125 with some modifications. Firstly the threshold is increased to 50% (up from 40%). Secondly the requirement for control by an exempt entity is extended to include control by a 'combination of exempt entities'. Combination of Exempt Entities 'Combination of exempt entities' is not defined in the ITAA 1997.
+The High Court stated (per Hayne, Heydon, Crennan and Kiefel JJ) in Alcan (NT) Alumina Pty Ltd v. Commissioner of Territory Revenue (NT) (2009) 239 CLR 27; 2009 ATC 20-134 at 47: "...the task of statutory construction must begin with a consideration of the text itself. Historical considerations and extrinsic materials cannot be relied on to displace the clear meaning of the text. The language which has actually been employed in the text of legislation is the surest guide to legislative intention. The meaning of the text may require consideration of the context, which includes the general purpose and policy of a provision, in particular the mischief it is seeking to remedy." In consideration of the text itself, The Concise Oxford Dictionary, 1987, rev. 7th edn, Oxford University Press, Melbourne, defines 'combination' as a: "...combined state (in combination with); combined set of things or persons ....group of things chosen from a larger number without regard to their arrangement..." The Macquarie Dictionary (1997) defines 'combination' to mean '1. the act of combining. 2. the state of being combined. 3. a number of things combined.' 'Combine' is defined in The Macquarie Dictionary (1997) to include 'to bring or join into a close union or whole; unite; associate; coalesce.'
+Webster's Third New International Dictionary gives the meaning of 'combination' as: "the result or product of combining: a union or aggregate made of combining one thing with another." In Gunn v. Canada (F.C.A.), 2006 FCA 281, [2007] 3 F.C.R. 57 it was stated that: "a combination ... in ordinary language implies an addition or aggregation." These definitions make no reference to a relationship between the things combined and so suggest 'combination' should be interpreted as a singular state. A strict reading of the text using these definitions indicates that, once a set of entities are combined, further enquiry into the existence of any relationship is not required.
 Indeed, in the US antitrust decisions of Gates v. Hooper (1897) 90 Tex. 563 [39 S.W. 1079]; Hitchcock v. Anthony (6th Cir. 1897) 83 Fed. 779; Padgitt v. Lone Star Gas Co., 213 S.W.2d 133, (Tex.Civ.App. 1948); and State of California ex rel. Van de Kamp v. Texaco, Inc. (1988) 46 Cal. 3d 1147 [252 Cal. Rptr. 221, 762 P.2d 385]; the courts held that (in this particular context), the word 'combination' applied only to entities that combined in the sense of uniting or associating their otherwise independent, separate and competing status. 'It is aimed at combinations between parties who, having each a separate business with no interest or concern in that of the other, join together to restrict the output or enhance the prices of goods'; Hitchcock v. Anthony (6th Cir. 1897) 83 Fed. 779. See also State v. Fairbanks-Morse & Co., 246 S.W.2d 647, 658-59 (Tex.Civ.App.--Dallas 1952; and Hood v. Tenneco Texas Life Insurance Co., 739 F.2d 1012, 1019 (5th Cir. 1984).
 Furthermore, if Parliament had intended the words 'a combination of exempt entities' to require an exempt entity to be an affiliate of another exempt entity in order for the two to be combined, that objective would have been achieved by section 328-125 without the inclusion of those words in Item 2 of the table in subsection 355-100(1). Parliament's inclusion of the words 'a combination of exempt entities' supports the view that there was intent for those words to have an effect and serve a purpose. Given the definition and interpretation of the words used, this supports the view that Parliament did not intend for there to be a requirement as to a relationship between combined exempt entities.
 In adopting the control test 'in a way described in section 328-125 (connected entities)', Item 2 of the table in subsection 355-100(1) does not require that the (at least) 50% control threshold must be satisfied only by a combination of 'connected' exempt entities. Therefore, exempt entities that are not affiliates of each other are collectively capable of being 'a combination of exempt entities' under subsection 355-100(1) of the ITAA 1997.
 The combined shareholdings of the company by the exempt entities exceed 50%. These shareholdings carry the right to more than 50% of the voting power in the company and also the right to receive a percentage of at least 50% of any distribution of income or capital.
 Accordingly, Item 2 of the table in subsection 355-100(1) of the ITAA 1997 will apply to the company.
-Date of decision:
-  31 October 2012
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 328-125   section 328-130   subsection 355-100(1)
-
-Case References:
-
-Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue (NT)   [2009] HCA 41   (2009) 239 CLR 27   2009 ATC 20-134   73 ATR 256
-
-Gates v Hooper   (1897) 90 Tex 563 [39 SW 1079]
-
-Gunn v Canada (FCA)   2006 FCA 281   [2007] 3 FCR 57
-
-Hitchcock v Anthony   (6th Cir 1897) 83 Fed 779
-
-Hood v Tenneco Texas Life Insurance Co   739 F2d 1012 1019 (5th Cir 1984)
-
-Padgitt v Lone Star Gas Co   213 SW2d 133 (TexCivApp 1948)
-
-Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue (NT)   (2009) 239 CLR 27   2009 ATC 20-134   (2009) 73 ATR 256
-
-Gates v Hooper   (1897) 90 Tex 563 [39 SW 1079]
-
-Gunn v Canada (FCA)   2006 FCA 281   [2007] 3 FCR 57
-
-Hitchcock v Anthony   (6th Cir 1897) 83 Fed 779
-
-Hood v Tenneco Texas Life Insurance Co   739 F2d 1012 1019 (5th Cir 1984)
-
-Padgitt v Lone Star Gas Co   213 SW2d 133 (TexCivApp 1948)
-
-State v Fairbanks-Morse & Co\   246 SW2d 647, 658-59 (TexCivApp--Dallas 1952)
-
-State of California ex rel Van de Kamp v Texaco, Inc   (1988) 46 Cal 3d 1147 [252 Cal Rptr 221, 762 P2d 385]
-
-State v Fairbanks-Morse & Co\   246 SW2d 647, 658-59 (TexCivApp - Dallas 1952)
-
-State of California ex rel Van de Kamp v Texaco, Inc   (1988) 46 Cal 3d 1147 [252 Cal Rptr 221, 762 P2d 385]
-
-Related Public Rulings (including Determinations)
-
-TD 2006/68
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/145
-
-Other References:
-
-The Concise Oxford Dictionary, 1987, rev. 7th edn, Oxford University Press, Melbourne
- The Macquarie Dictionary (1997)
- Webster's Third New International Dictionary
-
-Keywords
-
-Deductions & expenses
- Grouped entities for research and development
- Grouped taxpayers for R&D - affiliates
- Grouped taxpayers for R&D - control
- Rebates and offsets
- Research & development expenses
- Research & development incremental tax
-
-Siebel/TDMS Reference Number:
-  1-49GWNGR
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 February 2013
-
-ISSN:
- 1445-2782
+Date of decision: 31 October 2012 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1997 section 328-125 section 328-130 subsection 355-100(1) Case References: Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue (NT) [2009] HCA 41 (2009) 239 CLR 27 2009 ATC 20-134 73 ATR 256 Gates v Hooper (1897) 90 Tex 563 [39 SW 1079] Gunn v Canada (FCA) 2006 FCA 281 [2007] 3 FCR 57 Hitchcock v Anthony (6th Cir 1897) 83 Fed 779 Hood v Tenneco Texas Life Insurance Co 739 F2d 1012 1019 (5th Cir 1984) Padgitt v Lone Star Gas Co 213 SW2d 133 (TexCivApp 1948) Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue (NT) (2009) 239 CLR 27 2009 ATC 20-134 (2009) 73 ATR 256 Gates v Hooper (1897) 90 Tex 563 [39 SW 1079] Gunn v Canada (FCA) 2006 FCA 281 [2007] 3 FCR 57 Hitchcock v Anthony (6th Cir 1897) 83 Fed 779 Hood v Tenneco Texas Life Insurance Co 739 F2d 1012 1019 (5th Cir 1984) Padgitt v Lone Star Gas Co 213 SW2d 133 (TexCivApp 1948) State v Fairbanks-Morse & Co\ 246 SW2d 647, 658-59 (TexCivApp--Dallas 1952) State of California ex rel Van de Kamp v Texaco, Inc (1988) 46 Cal 3d 1147 [252 Cal Rptr 221, 762 P2d 385] State v Fairbanks-Morse & Co\ 246 SW2d 647, 658-59 (TexCivApp - Dallas 1952) State of California ex rel Van de Kamp v Texaco, Inc (1988) 46 Cal 3d 1147 [252 Cal Rptr 221, 762 P2d 385] Related Public Rulings (including Determinations) TD 2006/68 Related ATO Interpretative Decisions ATO ID 2010/145 Other References: The Concise Oxford Dictionary, 1987, rev. 7th edn, Oxford University Press, Melbourne The Macquarie Dictionary (1997) Webster's Third New International Dictionary Keywords Deductions & expenses Grouped entities for research and development Grouped taxpayers for R&D - affiliates Grouped taxpayers for R&D - control Rebates and offsets Research & development expenses Research & development incremental tax Siebel/TDMS Reference Number: 1-49GWNGR Business Line: Public Groups and International Date of publication: 22 February 2013 ISSN: 1445-2782

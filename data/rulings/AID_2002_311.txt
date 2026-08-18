@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/311
-==================================================
-
-Income Tax
- UK dividends - Foreign Tax Credit for UK tax paid by the UK Company
- FOI status: may be released
-
-This decision does not accurately indicate the ATO view and has been withdrawn and replaced by ATO ID 2003/685.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax UK dividends - Foreign Tax Credit for UK tax paid by the UK Company FOI status: may be released This decision does not accurately indicate the ATO view and has been withdrawn and replaced by ATO ID 2003/685. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a resident taxpayer entitled, under Schedule 1 of the International Tax Agreements Act 1953 (the Agreements Act), to a credit for foreign tax paid, where they receive a dividend from a United Kingdom (UK) company which has been grossed up to include tax paid by the company on the profits out of which the dividend was paid?
 Decision
 Yes. A resident taxpayer is entitled, under Schedule 1 of the Agreements Act, to a credit for foreign tax paid, where they receive a dividend from a (UK) company which has been grossed up to include tax paid by the company on the profits out of which the dividend was paid
@@ -34,54 +19,12 @@ Schedule 1 to the Agreements Act contains the double tax agreement between Austr
 Schedule 1A to the Agreements Act contains a Protocol to the UK Agreement (the Protocol) which amends the UK Agreement with regard to dividends.
 Article 8 of the UK Agreement (as amended by the Protocol) deals with dividends. Paragraph (1) of Article 8 provides that dividends paid by a UK company to a resident of Australia may be taxed in Australia.
 The taxpayer must therefore include the amount of the dividend received from the UK Company in their assessable income.
-Subsection 160AF(1) of the ITAA 1936 provides that where the assessable income of a resident contains foreign sourced income and foreign tax has been paid, by the taxpayer, on that income a foreign tax credit will be allowed. The foreign tax credit allowed against Australian income is the lesser of:
-
-•The amount of that foreign tax paid, reduced in accordance with any relief available to the taxpayer under the law relating to that tax; or
-•The amount of Australian tax payable in respect of the foreign income.
-
-However the taxpayer has not paid the UK tax personally, it is tax that has been paid by the UK Company on profits out of which the dividend has been paid. If read in isolation subsection 160AF(1) of the ITAA 1936 would seem to provide that in these circumstances no credit would be allowed to the taxpayer for the UK tax paid by the UK company.
+Subsection 160AF(1) of the ITAA 1936 provides that where the assessable income of a resident contains foreign sourced income and foreign tax has been paid, by the taxpayer, on that income a foreign tax credit will be allowed. The foreign tax credit allowed against Australian income is the lesser of: •The amount of that foreign tax paid, reduced in accordance with any relief available to the taxpayer under the law relating to that tax; or
+•The amount of Australian tax payable in respect of the foreign income. However the taxpayer has not paid the UK tax personally, it is tax that has been paid by the UK Company on profits out of which the dividend has been paid. If read in isolation subsection 160AF(1) of the ITAA 1936 would seem to provide that in these circumstances no credit would be allowed to the taxpayer for the UK tax paid by the UK company.
 However, paragraph (2) of Article 8 of the UK Agreement provides that an Australian resident individual who receives dividends from a UK resident company shall, providing they are the beneficial owner of the dividends, be entitled to the same tax credit in respect of the dividends as would be available to a individual UK resident if the dividends were received by them. The credit to which the Australian resident individual is entitled is to be treated as part of their assessable income for Australian tax purposes (subsection 5A(3) of the Agreements Act).
 Paragraph (2) of Article 8 of the UK Agreement is inconsistent with and therefore overrides subsection 160AF(1) of the ITAA 1936. The effect of paragraph (2) of Article 8 of the UK Agreement is that the taxpayer will be entitled to a tax credit for the tax paid by the UK Company. The taxpayer will however have to include the amount of the UK tax paid in their assessable income.
-Date of decision:
-  9 July 2001
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 44(1)   subsection 160AF(1)
-Income Tax Assessment Act 1997   section 6-10   subsection 6-10(4)   section 10-5
-International Tax Agreements Act 1953   section 4   subsection 5A(3)   Schedule 1   Schedule 1A   Schedule 1A, Article 8   Schedule 1A, Article 8(1)   Schedule 1A, Article 8(2)
-
-Keywords
-
-Foreign tax credits
- Foreign income
- Dividend income
- Double tax agreements
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  28 March 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 July 2001
-Original statement
-
-You are here
- 1 August 2003
+Date of decision: 9 July 2001 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 subsection 44(1) subsection 160AF(1)
+Income Tax Assessment Act 1997 section 6-10 subsection 6-10(4) section 10-5
+International Tax Agreements Act 1953 section 4 subsection 5A(3) Schedule 1 Schedule 1A Schedule 1A, Article 8 Schedule 1A, Article 8(1) Schedule 1A, Article 8(2) Keywords Foreign tax credits Foreign income Dividend income Double tax agreements Business Line: Small Business/Individual Taxpayers Date of publication: 28 March 2002 ISSN: 1445-2782 history Date: Version: 9 July 2001
+Original statement You are here 1 August 2003
 Archived

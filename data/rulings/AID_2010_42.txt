@@ -1,28 +1,11 @@
 ATO Interpretative Decision
 ATO ID 2010/42
-==================================================
-
-Income Tax
- Amendment of assessments: exception to two year period of review if an individual is a beneficiary of trust estate
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Does the two year time limit in item 1 in the table in subsection 170(1) of the Income Tax Assessment Act 1936 (ITAA 1936) apply to prevent the Commissioner from amending an individual's assessment where:
-
-•the individual is a beneficiary of a trust estate
+================================================== Income Tax Amendment of assessments: exception to two year period of review if an individual is a beneficiary of trust estate FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Does the two year time limit in item 1 in the table in subsection 170(1) of the Income Tax Assessment Act 1936 (ITAA 1936) apply to prevent the Commissioner from amending an individual's assessment where: •the individual is a beneficiary of a trust estate
 •the trust is not a small business entity
 •the trustee of the trust estate is a company, and
-•more than two years, but less than four years have passed since the date the Commissioner gave the individual their assessment?
-
-Decision
+•more than two years, but less than four years have passed since the date the Commissioner gave the individual their assessment? Decision
 No. The two year time limit in item 1 in the table in subsection 170(1) of the ITAA 1936 does not apply in this case because one of the exceptions in paragraph (d) applies.
 Facts
 A resident individual was a beneficiary of a resident family discretionary trust. The trustee of the trust was a private company.
@@ -33,95 +16,26 @@ The taxpayer considered that the Commissioner could not amend the return as the 
 Reasons for Decision
 The general rule is that the Commissioner may amend an assessment of an individual for a year of income within two years after the day on which the Commissioner gives notice of the assessment to the individual (two year period to amend): item 1 in the table in subsection 170(1) of the ITAA 1936. However, there are a number of qualifications to the general rule.
 One such qualification is where the individual is a beneficiary of a trust at any time during the income year concerned: paragraph (d) in item 1 in the table in subsection 170(1) of the ITAA 1936. This means that generally the Commissioner may amend an assessment of an individual who is a beneficiary of a trust within four years after the day on which the Commissioner gives notice of the assessment to the beneficiary (four year period to amend).
-However, there are two exceptions to that qualification where the individual is a beneficiary of a trust at any time in the year and:
-
-•the trust is a small business entity for that year, or
-•the trustee of the trust (in that capacity) is a full self-assessment taxpayer:
-
-This means that the Commissioner will have a two year period to amend in this case if one of these two qualifications applies.
+However, there are two exceptions to that qualification where the individual is a beneficiary of a trust at any time in the year and: •the trust is a small business entity for that year, or
+•the trustee of the trust (in that capacity) is a full self-assessment taxpayer: This means that the Commissioner will have a two year period to amend in this case if one of these two qualifications applies.
 The first exception does not apply in this case. This is because, on the facts, the trust did not meet the definition of small business entity.
-With respect to the second exception, 'full self-assessment taxpayer' is defined in subsection 6(1) of the ITAA 1936 and includes:
-
-(a)a company
+With respect to the second exception, 'full self-assessment taxpayer' is defined in subsection 6(1) of the ITAA 1936 and includes: (a)a company
 (b)the trustee of a corporate unit trust
 (c)the trustee of a public trading trust
 (d)the trustee of a complying or non-complying approved deposit fund
 (e)the trustee of a complying or non-complying superannuation fund
 (f)the trustee of a pooled superannuation trust
-(g)the trustee of a FHSA trust.
-
-The resolution of this issue turns upon the words 'in that capacity'. A company is a full self-assessment taxpayer within the definition in subsection 6(1) of the ITAA 1936. However, a company, when acting in its 'capacity' as trustee of the trust (other than those listed in categories (b) to (g) above), is not a full self-assessment taxpayer. In that capacity, the company would lodge a trust income tax return and an assessment can be raised under section 169 of the ITAA 1936.
+(g)the trustee of a FHSA trust. The resolution of this issue turns upon the words 'in that capacity'. A company is a full self-assessment taxpayer within the definition in subsection 6(1) of the ITAA 1936. However, a company, when acting in its 'capacity' as trustee of the trust (other than those listed in categories (b) to (g) above), is not a full self-assessment taxpayer. In that capacity, the company would lodge a trust income tax return and an assessment can be raised under section 169 of the ITAA 1936.
 As the qualification in paragraph (d) of item 1 in the table in subsection 170(1) of the ITAA 1936 is met, the Commissioner has a four year period to amend any relevant assessments of the individual beneficiary.
-This can be contrasted with the situation where, for example, the trustee is the trustee of a corporate unit trust. In this situation, the trustee would be required to lodge a company income tax return and the special rules in subsection 166A(3) of the ITAA 1936 for the assessment of full-self assessment taxpayers apply. This means that, provided no other qualification in item 1 of the table in subsection 170(1) of the ITAA 1936 is met, the Commissioner would have a two year period to amend any relevant assessments of an individual beneficiary.
-
-Note:
- this view is also confirmed by the explanation of the qualification in paragraph (d) in item 1 in the table in subsection 170(1) of the ITAA 1936 as outlined in paragraph 2.17 of the Explanatory Memorandum to the Tax Laws Amendment (Improvements to Self Assessment) Bill (No. 2) 2005. The explanation provides that an example of a full-self assessment taxpayer that the qualification applies to would be a corporate unit trust, public trading trust or superannuation fund.
-
-Amendment History
-
-Date of amendment
+This can be contrasted with the situation where, for example, the trustee is the trustee of a corporate unit trust. In this situation, the trustee would be required to lodge a company income tax return and the special rules in subsection 166A(3) of the ITAA 1936 for the assessment of full-self assessment taxpayers apply. This means that, provided no other qualification in item 1 of the table in subsection 170(1) of the ITAA 1936 is met, the Commissioner would have a two year period to amend any relevant assessments of an individual beneficiary. Note: this view is also confirmed by the explanation of the qualification in paragraph (d) in item 1 in the table in subsection 170(1) of the ITAA 1936 as outlined in paragraph 2.17 of the Explanatory Memorandum to the Tax Laws Amendment (Improvements to Self Assessment) Bill (No. 2) 2005. The explanation provides that an example of a full-self assessment taxpayer that the qualification applies to would be a corporate unit trust, public trading trust or superannuation fund. Amendment History Date of amendment
 Part
-Comment
-
-27 July 2012
+Comment 27 July 2012
 Facts
-Minor changes to clarify facts and improve readability
-
-Reasons for decision
-Amended to clarify the assessment provision that may apply to the trustee in these circumstances
-
-Reasons for decision
-Minor changes to improve readability
-
-Legislative References
-Inserted reference to section 169
-
-Date of decision:
-  12 February 2010
-
-Year of income:
-  Year ended 2004-05 and later income years
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 166   subsection 166A(3)   section 169   subsection 170(1)
-Income Tax Assessment Act 1997   subsection 995-1(1)
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (Improvements to Self Assessment) Bill (No. 2) 2005.
-
-Keywords
-
-Amendment of assessments
- Self assessment
- Trustees
- Trusts
-
-Siebel/TDMS Reference Number:
-  1-1UV8L7O
-
-Business Line:
-  Administration, Business and Personal Taxes Centre of Expertise
-
-Date of publication:
-  19 February 2010
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 February 2010
-Original statement
-
-You are here
+Minor changes to clarify facts and improve readability Reasons for decision
+Amended to clarify the assessment provision that may apply to the trustee in these circumstances Reasons for decision
+Minor changes to improve readability Legislative References
+Inserted reference to section 169 Date of decision: 12 February 2010 Year of income: Year ended 2004-05 and later income years Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 166 subsection 166A(3) section 169 subsection 170(1)
+Income Tax Assessment Act 1997 subsection 995-1(1) Other References: Explanatory Memorandum to the Tax Laws Amendment (Improvements to Self Assessment) Bill (No. 2) 2005. Keywords Amendment of assessments Self assessment Trustees Trusts Siebel/TDMS Reference Number: 1-1UV8L7O Business Line: Administration, Business and Personal Taxes Centre of Expertise Date of publication: 19 February 2010 ISSN: 1445-2782 history Date: Version: 12 February 2010
+Original statement You are here
 27 July 2012
 Updated statement

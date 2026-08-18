@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/11
-==================================================
-
-Goods and Services Tax
- GST and bill of exchange as consideration for a supply
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and bill of exchange as consideration for a supply FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For a bill of exchange with a future maturity date that is provided as payment for a supply, where the bill is not endorsed by the supplier in favour of a third party, is consideration provided and received under section 29-10 and section 29-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) upon maturity of the bill?
 Decision
 Yes, for a bill of exchange with a future maturity date that is provided as payment for a supply, where the bill is not endorsed in favour of a third party, consideration is provided and received upon maturity of the bill.
@@ -25,103 +12,21 @@ Entity 1, as drawer of the bill, remains the holder of the bill, that is, it doe
 Reasons for Decision
 Determining when consideration is provided and received is required for attributing GST payable and input tax credits to a tax period under Division 29 of the GST Act.
 Section 195-1 of the GST Act defines 'consideration' for a supply or acquisition to mean any consideration, within the meaning given by sections 9-15 and 9-17 of the GST Act, in connection with the supply or acquisition.
-In particular subsections 9-15(1) and 9-15(2) of the GST Act state:
-
-(1)Consideration includes:
-
-(a)any payment, or any act or forbearance, in connection with a supply of anything; and
-(b)any payment, or any act or forbearance, in response to or for the inducement of a supply of anything.
-
-(2)It does not matter whether the payment, act or forbearance was voluntary, or whether it was by the *recipient of the supply.
-
-Goods and Services Tax Ruling 'GSTR 2001/6: non-monetary consideration' (GSTR 2001/6) discusses the meaning of 'consideration' in the context of the GST Act. It states:
-
-49. Consideration is defined in section 195-1 to mean 'any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply'. The meaning given to consideration in section 9-15 extends beyond payments to include such things as acts and forbearances. It may include payments made voluntarily, and payments made by persons other than the recipient of a supply. [ footnotes omitted ]
-
-A bill of exchange is defined in subsection 8(1) of the Bills of Exchange Act 1909 . This subsection states:
-
-A bill of exchange is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person, or to bearer.
-
-In the Victorian Supreme Court case of Mobil Oil Australia Limited v. Caulfield Tyre Service Pty Ltd [1984] V.R. 440 (before Young C.J.), the status of a bill as a payment instrument and the obligations of the person to whom the bill is 'addressed' were considered. In the course of delivering his judgment in that case, the Chief Justice referred favourably to observations on the character of a bill made in several UK cases. These references include:
-
-The bill is itself a contract separate from the contract for sale. Its purpose is not merely to serve as a negotiable instrument; it is also to avoid postponement of the purchaser's liability to the vendor himself... ( Nova (Jersey) Knit Ltd. V. Kammgarn Spinnerei G.m.b.H .[1977] 2 All E.R. 463)
-
-...the bona fide holder for value of a bill of exchange is entitled, save in truly exceptional circumstances, on its maturity, to have it treated as cash... ( Cebora S. N. C. v. S. I. P . ( Industrial Products) Ltd . [1976] 1 Lloyd's Rep. 271)
-
-Bills of exchange are treated as cash, and unless there are exceptional circumstances where there is an action between the immediate parties to a bill of exchange judgment will not be held up by virtue of a counterclaim by the defendant and execution will not be stayed. ( Cebora S. N. C. v. S. I. P . ( Industrial Products) Ltd . [1976] 1 Lloyd's Rep. 271)
-
-When one person buys goods from another ... He may demand payment in cash; but if the buyer cannot provide this at once, he may agree to take bills of exchange payable at future dates. These are taken as equivalent to deferred instalments of cash. ( Nova (Jersey) Knit Ltd. V. Kammgarn Spinnerei G.m.b.H .[1977] 2 All E.R. 463)
-
-At the time that Entity 1 made the underlying supply to Entity 2, Entity 2 accepted the bill of exchange, due to mature on a future date. For a bill of exchange used as a form of payment, it is necessary to consider when that payment is regarded as being provided or received for the purposes of the GST Act.
+In particular subsections 9-15(1) and 9-15(2) of the GST Act state: (1)Consideration includes: (a)any payment, or any act or forbearance, in connection with a supply of anything; and
+(b)any payment, or any act or forbearance, in response to or for the inducement of a supply of anything. (2)It does not matter whether the payment, act or forbearance was voluntary, or whether it was by the *recipient of the supply. Goods and Services Tax Ruling 'GSTR 2001/6: non-monetary consideration' (GSTR 2001/6) discusses the meaning of 'consideration' in the context of the GST Act. It states: 49. Consideration is defined in section 195-1 to mean 'any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply'. The meaning given to consideration in section 9-15 extends beyond payments to include such things as acts and forbearances. It may include payments made voluntarily, and payments made by persons other than the recipient of a supply. [ footnotes omitted ] A bill of exchange is defined in subsection 8(1) of the Bills of Exchange Act 1909 . This subsection states: A bill of exchange is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person, or to bearer. In the Victorian Supreme Court case of Mobil Oil Australia Limited v. Caulfield Tyre Service Pty Ltd [1984] V.R. 440 (before Young C.J.), the status of a bill as a payment instrument and the obligations of the person to whom the bill is 'addressed' were considered. In the course of delivering his judgment in that case, the Chief Justice referred favourably to observations on the character of a bill made in several UK cases. These references include: The bill is itself a contract separate from the contract for sale. Its purpose is not merely to serve as a negotiable instrument; it is also to avoid postponement of the purchaser's liability to the vendor himself... ( Nova (Jersey) Knit Ltd. V. Kammgarn Spinnerei G.m.b.H .[1977] 2 All E.R. 463) ...the bona fide holder for value of a bill of exchange is entitled, save in truly exceptional circumstances, on its maturity, to have it treated as cash... ( Cebora S. N. C. v. S. I. P . ( Industrial Products) Ltd . [1976] 1 Lloyd's Rep. 271) Bills of exchange are treated as cash, and unless there are exceptional circumstances where there is an action between the immediate parties to a bill of exchange judgment will not be held up by virtue of a counterclaim by the defendant and execution will not be stayed. ( Cebora S. N. C. v. S. I. P . ( Industrial Products) Ltd . [1976] 1 Lloyd's Rep. 271) When one person buys goods from another ... He may demand payment in cash; but if the buyer cannot provide this at once, he may agree to take bills of exchange payable at future dates. These are taken as equivalent to deferred instalments of cash. ( Nova (Jersey) Knit Ltd. V. Kammgarn Spinnerei G.m.b.H .[1977] 2 All E.R. 463) At the time that Entity 1 made the underlying supply to Entity 2, Entity 2 accepted the bill of exchange, due to mature on a future date. For a bill of exchange used as a form of payment, it is necessary to consider when that payment is regarded as being provided or received for the purposes of the GST Act.
 Goods and Services Tax Ruling 'GSTR 2003/12: when consideration is provided and received for various payment instruments and other methods of payment' (GSTR 2003/12) discusses forms of payment and when consideration is provided or received for GST purposes under each form of payment. GSTR 2003/12 does not discuss bills of exchange in general, but it does discuss both cheques and post-dated cheques-a cheque being a special form of a bill of exchange.
 A bill of exchange with a future maturity date has features similar to a post-dated cheque-value for both financial instruments is not received until a specified future date, being the date shown on the cheque or the maturity date of the bill.
 We consider that these similarities warrant consistency of treatment for GST purposes when determining the date of provision and receipt of consideration under a bill of exchange. For post-dated cheques, paragraph 27 of GSTR 2003/12 states that consideration is provided and received on the date shown on the cheque. We consider that adopting similar treatment for a bill of exchange with a future maturity date is supported by the case law referred to above.
 It follows that, in regard to a bill of exchange with a future maturity date that is provided as payment for a supply, consideration is provided and received for the purposes of section 29-10 and section 29-5 of the GST Act on the maturity date specified under the terms of the bill.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-29 October 2013
+Comment 29 October 2013
 Reason for Decision
-Amended by inserting references to section 9-17. As of 1 July 2012, section 9-17 is included within the definition of consideration as defined by section 195-1.
-
-Legislative References
+Amended by inserting references to section 9-17. As of 1 July 2012, section 9-17 is included within the definition of consideration as defined by section 195-1. Legislative References
 Subsections 9-15(1) and 9-15(2) added.
-Section 9-17 added.
-
-Date of decision:
-  22 December 2009
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-15   subsection 9-15(1)   subsection 9-15(2)   section 9-17   section 29-5   section 29-10   section 195-1   Division 29
-Bills of Exchange Act 1909   subsection 8(1)
-
-Case References:
-
-Mobil Oil Australia Limited v Caulfield Tyre Service Pty Ltd   [1984] VR 440
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2001/6
-Goods and Services Tax Ruling GSTR 2003/12
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/10
-
-Keywords
-
-Goods and services tax
- GST consideration
- GST supplies & acquisitions
-
-Siebel/TDMS Reference Number:
-  6214261
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  15 January 2010
-
-ISSN:
- 1445 - 2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-22 December 2009
-Original statement
-
-You are here
+Section 9-17 added. Date of decision: 22 December 2009 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-15 subsection 9-15(1) subsection 9-15(2) section 9-17 section 29-5 section 29-10 section 195-1 Division 29
+Bills of Exchange Act 1909 subsection 8(1) Case References: Mobil Oil Australia Limited v Caulfield Tyre Service Pty Ltd [1984] VR 440 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2001/6
+Goods and Services Tax Ruling GSTR 2003/12 Related ATO Interpretative Decisions ATO ID 2010/10 Keywords Goods and services tax GST consideration GST supplies & acquisitions Siebel/TDMS Reference Number: 6214261 Business Line: Indirect Tax Date of publication: 15 January 2010 ISSN: 1445 - 2782 history Date: Version: 22 December 2009
+Original statement You are here
 15 November 2013
 Updated statement

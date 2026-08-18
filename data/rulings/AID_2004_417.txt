@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/417
-==================================================
-
-Income Tax
- Off-market share buy-back: Division 16K applies
- FOI status: may be released
-
-The Government has announced that from 7:30pm AEDST on 25 October 2022, there will no longer be a dividend component in respect of the price paid by a listed public company undertaking an off-market share buy-back. The entire buy-back price paid for the share will be treated as capital proceeds for a share held on capital account, or as the entire proceeds for a share held as trading stock or on revenue account (but not as trading stock).
-
- Retrospective tax law changes have effect for a period before the date of enactment once the legislation is passed. See Administrative treatment of retrospective legislation.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Off-market share buy-back: Division 16K applies FOI status: may be released The Government has announced that from 7:30pm AEDST on 25 October 2022, there will no longer be a dividend component in respect of the price paid by a listed public company undertaking an off-market share buy-back. The entire buy-back price paid for the share will be treated as capital proceeds for a share held on capital account, or as the entire proceeds for a share held as trading stock or on revenue account (but not as trading stock). Retrospective tax law changes have effect for a period before the date of enactment once the legislation is passed. See Administrative treatment of retrospective legislation. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does Division 16K of the Income Tax Assessment Act 1936 (ITAA 1936) apply to treat the amount received for shares sold 'off-market' back to the issuing company as an assessable dividend?
 Decision
 Yes. Division 16K of the ITAA 1936 applies to treat the amount received for shares sold off-market back to the issuing company as an assessable dividend.
@@ -29,30 +14,4 @@ Under paragraph 159GZZZM(a) of the ITAA 1936, the purchase price in respect of a
 In this case, the purchase price of the 90 shares bought back by the company was $10,000.
 Under subsection 159GZZZP(1) of the ITAA 1936, where a buy-back of a share is an off-market purchase, the difference between the purchase price and the part (if any) of the purchase price which is debited against amounts standing to the credit of the company's share capital account, is a dividend. The dividend is taken to be paid by the company to the seller in the company out of profits derived by the company on the day the buy-back occurs. The dividend is required to be included in the seller's assessable income under section 44 of the ITAA 1936.
 As no amount was debited against amounts standing to the credit of the company's share capital account, the full amount of the buy-back purchase price ($10,000) is taken to be a dividend paid by the company to the shareholder.
-Date of decision:
-  6 April 2004
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 44   section 159GZZZK   paragraph 159GZZZM(a)   subsection 159GZZZP(1)
-
-Keywords
-
-Deemed dividends
- Dividend income
- Share buy backs
-
-Siebel/TDMS Reference Number:
-  4022168
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  21 May 2004
-
-ISSN:
- 1445-2782
+Date of decision: 6 April 2004 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 section 44 section 159GZZZK paragraph 159GZZZM(a) subsection 159GZZZP(1) Keywords Deemed dividends Dividend income Share buy backs Siebel/TDMS Reference Number: 4022168 Business Line: Finance and Investment Centre of Expertise Date of publication: 21 May 2004 ISSN: 1445-2782

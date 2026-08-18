@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/61
-==================================================
-
-Goods and Services Tax
- GST and roll-over of commodity repurchase transactions
- FOI status: may be released
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and roll-over of commodity repurchase transactions FOI status: may be released This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entity, a financial institution, receive consideration for a supply under sections 9-15 and 9-17 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when a commodity supplier exercises its right to roll-over a commodity repurchase transaction?
 Decision
 Yes, the entity receives consideration for a supply under sections 9-15 and 9-17 of the GST Act when a commodity supplier exercises its right to roll-over a commodity repurchase transaction.
@@ -28,76 +13,20 @@ When a roll-over occurs, ownership and title in the commodity remain with the en
 Under the agreement, there is no sale and repurchase of the commodity.
 The entity and the commodity supplier are registered for goods and services tax and each carrying on an enterprise. The supplies between the entity and the commodity supplier are made in Australia.
 Reasons for Decision
-Under subsection 9-15(1) of the GST Act, consideration includes:
-
-(a)any payment, or any act or forbearance, in connection with a supply of anything, and
-(b)any payment, or any act or forbearance, in response to or for the inducement of a supply of anything.
-
-However, subsection 9-17(1) of the GST Act limits consideration arising in respect of the supply of a thing pursuant to a right or option previously granted to acquire the thing. It provides that, in such circumstances, the consideration for the thing supplied is limited to the additional consideration provided either for the supply or in connection with the exercise of the right or option.
+Under subsection 9-15(1) of the GST Act, consideration includes: (a)any payment, or any act or forbearance, in connection with a supply of anything, and
+(b)any payment, or any act or forbearance, in response to or for the inducement of a supply of anything. However, subsection 9-17(1) of the GST Act limits consideration arising in respect of the supply of a thing pursuant to a right or option previously granted to acquire the thing. It provides that, in such circumstances, the consideration for the thing supplied is limited to the additional consideration provided either for the supply or in connection with the exercise of the right or option.
 In this case, the repurchase agreement grants the right or option to vary the terms of the agreement. Under this right or option, a new repurchase date and repurchase price are negotiated. To renew or extend the commodity repurchase transaction beyond its maturity date, the right or option must be exercised. Therefore the additional consideration provided when the right or option is exercised, is the difference between the original purchase price and the agreed repurchase price.
 Accordingly, the additional consideration received by the entity is consideration for a supply under sections 9-15 and 9-17 of the GST Act.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-14 June 2013
+Comment 14 June 2013
 Issue
-Inserted section 9-17
-
-Decision
-Inserted section 9-17
-
-Reasons for Decision
+Inserted section 9-17 Decision
+Inserted section 9-17 Reasons for Decision
 Deleted paragraph 9-15(3)(a) and inserted subsection 9-17(1) after 'However'.
 Inserted section 9-17 in the last paragraph.
-Subsection 9-15(3) repealed with effect from 1 July 2012. Section 9-17 inserted with effect from 1 July 2012.
-
-Legislative References
-Added section 9-17 and subsection 9-17(1).Deleted paragraph 9-15(3)(a).
-
-Date of decision:
-  28 March 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-15   subsection 9-15(1)   section 9-17   subsection 9-17(1)
-
-Keywords
-
-Goods and services tax
- GST consideration
- GST supplies & acquisitions
-
-Siebel/TDMS Reference Number:
-  3461309
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  24 February 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-28 March 2003
-Original statement
-
- 
-14 June 2013
-Updated statement
-
-You are here
- 5 May 2022
+Subsection 9-15(3) repealed with effect from 1 July 2012. Section 9-17 inserted with effect from 1 July 2012. Legislative References
+Added section 9-17 and subsection 9-17(1).Deleted paragraph 9-15(3)(a). Date of decision: 28 March 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-15 subsection 9-15(1) section 9-17 subsection 9-17(1) Keywords Goods and services tax GST consideration GST supplies & acquisitions Siebel/TDMS Reference Number: 3461309 Business Line: Indirect Tax Date of publication: 24 February 2006 ISSN: 1445-2782 history Date: Version: 28 March 2003
+Original statement 14 June 2013
+Updated statement You are here 5 May 2022
 Archived

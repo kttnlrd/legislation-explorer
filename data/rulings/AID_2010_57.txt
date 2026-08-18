@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/57
-==================================================
-
-Income Tax
- Entity specific matters: trusts- whether a Managed Investment Scheme is a Unit Trust for the purposes of Division 6C of Part III of the Income Tax Assessment Act 1936
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Entity specific matters: trusts- whether a Managed Investment Scheme is a Unit Trust for the purposes of Division 6C of Part III of the Income Tax Assessment Act 1936 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, the Responsible Entity (RE) of a Managed Investment Scheme (MIS), a trustee of a unit trust for the purposes of the application of Division 6C of Part III of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The taxpayer, the RE of a MIS, is to be characterised as a trustee of a unit trust as the beneficial interest in the trust is held in units, the common reference to fractions of the whole of an identified interest.
@@ -23,67 +12,8 @@ Reasons for Decision
 There is no definition of a unit trust for the purposes of Division 6C of Part III of the ITAA 1936.
 The joint judgment of the High Court in CPT Custodians Pty Limited v. Commissioner of State Revenue [2005] HCA 53 at paragraph 15 stated, '"unit trust", like "discretionary trust", in the absence of an applicable statutory definition, does not have a constant, fixed normative meaning'.
 There is however a consistent approach to what constitutes a unit trust which can be found in authoritative works. This definition reiterates the concept that the beneficial interest of the trust is held in 'units'. Units are expressed and defined as part of the whole beneficial interest of the trust (or in some circumstances of the whole beneficial interest of a particular kind). Other than this 'unit trusts' are, like all other trusts, subject to the terms of the impressed or stated trust and to the application of the law of trusts. The consistency of this approach can be viewed from the following extracts from commentators on the subject.
-Ford : Principles of the Law of Trusts Loose-Leaf Service 2006 at [1690] states:
-
-The expression "unit trust" is a term of convenience and not a term of art capable of having legal consequences. Its only significance is as a label for a trust under the terms of which the benefit to beneficiaries is divided into units. Such a trust does not attract rules different from those that apply to trusts in which the beneficial interest is not so divided. For example, the question whether beneficiaries under a unit trust have an equitable proprietary interest in trust property depends on the terms of the trust, as in the case of any other trust, on the terms of the particular trust: CPT Custodians Pty Limited v Commissioner of State Revenue (2005) 221 ALR 196: 70 ALJR 1724; [2005] HCA 53.
-
-JD Heydon MJ Lemming, Jacob's Law of Trusts in Australia, LexisNexis Butterworths 7th Edition 2006 at [310]
-
-Units trusts are an extension into the field of commerce of the typical family trust (where settlors transfer property to a trustee on trust for their children in equal shares). ...
- In the case of unit trust, the scheme property is divided into a large number of units, which may, subject to their terms, be issued redeemed and traded publicly and privately
- . (Emphasis added)
-
-Robert l. Pritchard, Chapter 18 'Unincorporated Joint Ventures', The Law of Public Company Finance, ed Austin and Vann, The Law Book Company Ltd 1986, p 397
-
-(ii) A unit trust is a variation of the ordinary trust. Its distinguishing feature is that the beneficial interest in the trust property is divided into units which may be independently dealt with by the holders.
-
-H.A.J. Ford, Chapter 15 'Public Unit Trusts', The Law of Public Company Finance, ed Austin and Vann, The Law Book Company Ltd 1986, p 400
-
-The Unit Holder as a Beneficial Owner
-
-... But in a unit trust the trustee's ownership of the property of the enterprise is not beneficial ownership. The beneficial interest is in the unit holders in fractions proportional to the number of units held by each of them. Under the terms of the deed, as usually drawn, a unit does not confer any interest in any particular part of the trust fund or any particular investment but only such interest in the trust fund as a whole as is conferred on a unit under the deed.
-
-Features which may be found in some commercial unit trusts include rights of unit holders to have their units redeemed by the trustee (generally on payment of an amount worked out by reference to the unitholder's beneficial interest in the value of the trust assets reduced by outstanding trust liabilities, perhaps with a discount or adjustment of some kind).
+Ford : Principles of the Law of Trusts Loose-Leaf Service 2006 at [1690] states: The expression "unit trust" is a term of convenience and not a term of art capable of having legal consequences. Its only significance is as a label for a trust under the terms of which the benefit to beneficiaries is divided into units. Such a trust does not attract rules different from those that apply to trusts in which the beneficial interest is not so divided. For example, the question whether beneficiaries under a unit trust have an equitable proprietary interest in trust property depends on the terms of the trust, as in the case of any other trust, on the terms of the particular trust: CPT Custodians Pty Limited v Commissioner of State Revenue (2005) 221 ALR 196: 70 ALJR 1724; [2005] HCA 53. JD Heydon MJ Lemming, Jacob's Law of Trusts in Australia, LexisNexis Butterworths 7th Edition 2006 at [310] Units trusts are an extension into the field of commerce of the typical family trust (where settlors transfer property to a trustee on trust for their children in equal shares). ... In the case of unit trust, the scheme property is divided into a large number of units, which may, subject to their terms, be issued redeemed and traded publicly and privately . (Emphasis added) Robert l. Pritchard, Chapter 18 'Unincorporated Joint Ventures', The Law of Public Company Finance, ed Austin and Vann, The Law Book Company Ltd 1986, p 397 (ii) A unit trust is a variation of the ordinary trust. Its distinguishing feature is that the beneficial interest in the trust property is divided into units which may be independently dealt with by the holders. H.A.J. Ford, Chapter 15 'Public Unit Trusts', The Law of Public Company Finance, ed Austin and Vann, The Law Book Company Ltd 1986, p 400 The Unit Holder as a Beneficial Owner ... But in a unit trust the trustee's ownership of the property of the enterprise is not beneficial ownership. The beneficial interest is in the unit holders in fractions proportional to the number of units held by each of them. Under the terms of the deed, as usually drawn, a unit does not confer any interest in any particular part of the trust fund or any particular investment but only such interest in the trust fund as a whole as is conferred on a unit under the deed. Features which may be found in some commercial unit trusts include rights of unit holders to have their units redeemed by the trustee (generally on payment of an amount worked out by reference to the unitholder's beneficial interest in the value of the trust assets reduced by outstanding trust liabilities, perhaps with a discount or adjustment of some kind).
 Another feature often found is a right in the trustee to issue additional units for subscription (again generally for subscription of an amount per unit worked out by reference to a present unit's share value of the trust assets reduced by outstanding trust liabilities, and perhaps with a discount or adjustment of some kind).
 Such features are not inherent in a trust being a unit trust for the purposes of considering the application of Division 6C of the ITAA 1936. However legislative intervention may make these or other features mandatory in a particular jurisdiction if the unit trust is not to be liable to be wound up, or if offences by the management or promotion of the trust are not to be committed. Such legislative intervention does not alter the general approach to identifying a unit trust, where no specific definition applies to the term.
 Accordingly, where beneficiaries are made entitled to a share of a beneficial interest under a trust, such as an interest in the income and capital, or in either one of these, and which entitlement is measured by reference to a fixed standard of measurement howsoever described (for example a percentage or a fraction or a fixed formula), then whether or not the deed itself labels the interests 'units' the beneficial interest have been unitised and the trust would be a 'unit trust' for the purpose of considering the application of Division 6C of the ITAA 1936. As one example where the phrase 'pro-rata' is used in specifying the relative interests of beneficiaries then this will mean the interest of the beneficiary of the trust will be identified as a proportion of, or share of, the whole of a beneficial interest (or class of interest) and in most occasions of this nature the holder of the beneficial interest will be a unit holder and the trust will be a unit trust.
-Date of decision:
-  17 April 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 102R
-
-Case References:
-
-CPT Custodian Pty Ltd v Commissioner of State Revenue (Vic)   [2005] HCA 53   (2005) 224 CLR 98   2005 ATC 4925   (2005) 60 ATR 371
-
-ATO Interpretative Decisions overturned by this decision
-
-ATOID 2003/43
-
-Other References:
-
-JD Heydon MJ Lemming, Jacob's Law of Trusts in Australia, LexisNexis Butterworths 7th Edition 2006
- Ford: Principles of the Law of Trusts Loose-Leaf Service 2006
- Ford, 'Public Unit Trusts', The Law of Public Company Finance, ed Austin and Vann, The Law Book Company Ltd 1986
- Pritchard, 'Unincorporated Joint Ventures', The Law of Public Company Finance, ed Austin and Vann, The Law Book Company Ltd 1986
-
-Keywords
-
-Unit trusts
-
-Siebel/TDMS Reference Number:
-  6243674
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 March 2010
-
-ISSN:
- 1445 - 2782
+Date of decision: 17 April 2008 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1936 section 102R Case References: CPT Custodian Pty Ltd v Commissioner of State Revenue (Vic) [2005] HCA 53 (2005) 224 CLR 98 2005 ATC 4925 (2005) 60 ATR 371 ATO Interpretative Decisions overturned by this decision ATOID 2003/43 Other References: JD Heydon MJ Lemming, Jacob's Law of Trusts in Australia, LexisNexis Butterworths 7th Edition 2006 Ford: Principles of the Law of Trusts Loose-Leaf Service 2006 Ford, 'Public Unit Trusts', The Law of Public Company Finance, ed Austin and Vann, The Law Book Company Ltd 1986 Pritchard, 'Unincorporated Joint Ventures', The Law of Public Company Finance, ed Austin and Vann, The Law Book Company Ltd 1986 Keywords Unit trusts Siebel/TDMS Reference Number: 6243674 Business Line: Public Groups and International Date of publication: 12 March 2010 ISSN: 1445 - 2782

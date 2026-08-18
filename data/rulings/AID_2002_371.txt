@@ -1,25 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2002/371
-==================================================
-
-Superannuation
- Part IX taxation of superannuation entities - Superannuation fund expenses - trauma policy
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2006-07 income year. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2006-07 income year.
-Similar provisions were rewritten into the Income Tax Assessment Act 1997 (ITAA 1997) and an equivalent reasoning would apply to deny a deduction under the ITAA 1997 in later years. However, due to changes to the Superannuation Industry (Supervision) Regulations 1994 (SISR), the issue discussed in the ATO ID is no longer relevant.
- Subregulation 4.07D(2) of the SISR, which applies from 1 July 2014, states that a trustee of a regulated superannuation fund must not provide an insured benefit in relation to a member of the fund unless the insured event is consistent with a specified condition of release. The specified conditions of release are in items 102 (Death), 102A (Terminal medical condition), 103 (Permanent incapacity) and 109 (Temporary incapacity) of Schedule 1 to the SISR. The insured event under a trauma insurance policy is not consistent with the conditions of release.
-Therefore, a fund cannot obtain a trauma policy from 1 July 2014 without breaching the sole purpose test. The exception is where the member joined the fund before 1 July 2014 and was covered in respect of that insured benefit before that date: see subregulation 4.07D(3) of the SISR and SMSFD 2010/1W. It follows that deductibility of the relevant premiums is no longer an issue for trustees.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Part IX taxation of superannuation entities - Superannuation fund expenses - trauma policy FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2006-07 income year. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2006-07 income year.
+Similar provisions were rewritten into the Income Tax Assessment Act 1997 (ITAA 1997) and an equivalent reasoning would apply to deny a deduction under the ITAA 1997 in later years. However, due to changes to the Superannuation Industry (Supervision) Regulations 1994 (SISR), the issue discussed in the ATO ID is no longer relevant. Subregulation 4.07D(2) of the SISR, which applies from 1 July 2014, states that a trustee of a regulated superannuation fund must not provide an insured benefit in relation to a member of the fund unless the insured event is consistent with a specified condition of release. The specified conditions of release are in items 102 (Death), 102A (Terminal medical condition), 103 (Permanent incapacity) and 109 (Temporary incapacity) of Schedule 1 to the SISR. The insured event under a trauma insurance policy is not consistent with the conditions of release.
+Therefore, a fund cannot obtain a trauma policy from 1 July 2014 without breaching the sole purpose test. The exception is where the member joined the fund before 1 July 2014 and was covered in respect of that insured benefit before that date: see subregulation 4.07D(3) of the SISR and SMSFD 2010/1W. It follows that deductibility of the relevant premiums is no longer an issue for trustees. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a deduction available to the trustee of the complying superannuation fund under subsection 279(1) of the Income Tax Assessment Act 1936 (ITAA 1936) in respect of premiums paid by the fund for a trauma policy?
 Decision
 No. The trustee of the superannuation fund cannot claim a deduction under subsection 279(1) of the ITAA 1936 in respect of the premiums paid for the trauma policy.
@@ -29,68 +13,10 @@ Reasons for Decision
 The taxable income of a complying superannuation fund is determined as if the trustee were a taxpayer and a resident (section 272 of the ITAA 1936). As a general rule, the deductibility of expenditure incurred by a complying superannuation fund is governed by the general deduction provisions of the ITAA 1936, unless a specific provision applies or the general rules are modified.
 Subsection 279(1) of the ITAA 1936 outlines the circumstances in which the trustee of a complying superannuation fund may claim a deduction for premiums paid for death or disability cover. Paragraphs 279(1)(a) and (b) of the ITAA 1936 deal with 'whole of life' and 'endowment' policies respectively. These paragraphs are not relevant to the trauma policy.
 Paragraph 279(1)(c) of the ITAA 1936 provides that, where a trustee of a complying superannuation fund pays a premium for an insurance policy in respect of the liability of the fund to provide death or disability benefits for the members of the fund, any part of that premium that is specified as being wholly in respect of that liability is allowable as a deduction.
-Subsection 267(1) of the ITAA 1936 defines 'death or disability benefit' in relation to a member of a complying superannuation fund, as:
-
-•a benefit provided in the event of the death of the member;
+Subsection 267(1) of the ITAA 1936 defines 'death or disability benefit' in relation to a member of a complying superannuation fund, as: •a benefit provided in the event of the death of the member;
 •a benefit provided to the member in the event of permanent disability; or
-•a benefit provided to the member, by way of income, during a period when the member is unable to perform the normal duties of the member's employment, being a period of either two years or a longer period, as approved.
-
-The trauma policy does not meet the definition of a 'death or disability benefit', as:
-
-•the payment of the trauma policy benefit is not conditional on the death of a member of the superannuation fund;
+•a benefit provided to the member, by way of income, during a period when the member is unable to perform the normal duties of the member's employment, being a period of either two years or a longer period, as approved. The trauma policy does not meet the definition of a 'death or disability benefit', as: •the payment of the trauma policy benefit is not conditional on the death of a member of the superannuation fund;
 •permanent disability is not part of the criteria under which the trauma policy can pay a benefit; and
-•the trauma policy does not provide a benefit by way of income. Irrespective of whether some temporary period of disability occurs, a lump sum payment is made to compensate for the specified medical condition and not for the loss of income earning capacity of the member. Accordingly, the benefit provided under the trauma insurance policy is a capital amount.
-
-A deduction is not available under paragraph 279(1)(c) of the ITAA 1936 as the trauma policy does not provide a 'death or disability benefit' within the meaning of subsection 267(1) of the ITAA 1936.
-
-[Note 1: where a policy has separate components, each with its own premium, and one of those components meets the definition of a death or disability benefit, then the premium that corresponds with that component will be deductible.
-
-Note 2: Paragraphs 43 to 47 of APRA Circular No. III.A.4 make reference to the amount of contributions applied to purchase trauma insurance policies. They state that it is considered an unreasonable diversion of contributions as premiums for the contingent trauma cover would be difficult to reconcile with the sole purpose test and the fundamental retirement objective of superannuation.]
-
-Date of decision:
-  9 September 1997
-
-Year of income:
-  30 June 1997
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 267(1)   subsection 279(1)   paragraph 279(1)(a)   paragraph 279(1)(b)   paragraph 279(1)(c)
-
-Other References:
-
- APRA Circular No III.A.4
-
-Keywords
-
-Superannuation, retirement & employment termination
- Life assurance
- Superannuation funds
- Superannuation fund income
- Superannuation funds - death and disability premiums
- Superannuation fund potential detriment payments
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  28 March 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 September 1997
-Original statement
-
-You are here
- 7 November 2014
+•the trauma policy does not provide a benefit by way of income. Irrespective of whether some temporary period of disability occurs, a lump sum payment is made to compensate for the specified medical condition and not for the loss of income earning capacity of the member. Accordingly, the benefit provided under the trauma insurance policy is a capital amount. A deduction is not available under paragraph 279(1)(c) of the ITAA 1936 as the trauma policy does not provide a 'death or disability benefit' within the meaning of subsection 267(1) of the ITAA 1936. [Note 1: where a policy has separate components, each with its own premium, and one of those components meets the definition of a death or disability benefit, then the premium that corresponds with that component will be deductible. Note 2: Paragraphs 43 to 47 of APRA Circular No. III.A.4 make reference to the amount of contributions applied to purchase trauma insurance policies. They state that it is considered an unreasonable diversion of contributions as premiums for the contingent trauma cover would be difficult to reconcile with the sole purpose test and the fundamental retirement objective of superannuation.] Date of decision: 9 September 1997 Year of income: 30 June 1997 Legislative References: Income Tax Assessment Act 1936 subsection 267(1) subsection 279(1) paragraph 279(1)(a) paragraph 279(1)(b) paragraph 279(1)(c) Other References: APRA Circular No III.A.4 Keywords Superannuation, retirement & employment termination Life assurance Superannuation funds Superannuation fund income Superannuation funds - death and disability premiums Superannuation fund potential detriment payments Business Line: Superannuation Date of publication: 28 March 2002 ISSN: 1445-2782 history Date: Version: 9 September 1997
+Original statement You are here 7 November 2014
 Archived

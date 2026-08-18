@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/798
-==================================================
-
-Income Tax
- Capital gains tax: CGT discount - discount capital gain distributed by public trading trust to unit holder
- FOI status: may be released
-
-This ID has been amended to include the fact that the trust has not made the choice to form a consolidated group and updated following amendments to Subdivision 115-C of the Income Tax Assessment Act 1997 introduced by the Tax Law Amendment (2011 Measures No. 5) Act 2011.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: CGT discount - discount capital gain distributed by public trading trust to unit holder FOI status: may be released This ID has been amended to include the fact that the trust has not made the choice to form a consolidated group and updated following amendments to Subdivision 115-C of the Income Tax Assessment Act 1997 introduced by the Tax Law Amendment (2011 Measures No. 5) Act 2011. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the taxpayer, an individual unit holder receiving a distribution from a public trading trust, that is attributable to a discount capital gain made by the trust, apply Subdivsion 115-C of the Income Tax Assessment Act 1997 (ITAA 1997) to the distribution?
 Decision
 No. The taxpayer will not apply Subdivision 115-C of the ITAA 1997 to the amount of the distribution attributable to the trust capital gain.
@@ -26,44 +13,5 @@ Subdivision 115-C of the ITAA 1997 sets out the rules for dealing with the net i
 Subsection 115-210(1) of the ITAA 1997 states that this Subdivision applies where a net capital gain is taken into account in calculating the trust's net income for the year. This subsection adopts the definition of 'net income' contained at subsection 95(1) of the ITAA 1936.
 The net income of a public trading trust is determined in accordance with the definition in section 102M of the ITAA 1936.
 As the public trading trust's 'net income' does not fall under that definition at subsection 95(1) of the ITAA 1936, the taxpayer cannot apply Subdivision 115-C of the ITAA 1997 to the amount of the distribution attributable to the trust capital gain.
-Date of decision:
-  22 August 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 95(1)   section 102M   section 102R
-Income Tax Assessment Act 1997   Subdivision 115-C   subparagraph 115-100(b)(ii)   subsection 115-210(1)   section 703-50
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/652
- ATO ID 2003/652
-
-Keywords
-
-Capital gains tax
- CGT 50% individual discount
- CGT discount
- CGT trust distribution
- Consolidated group
- Consolidation
- Net capital gain
- Net income of a trust
- Public trading trusts
- Unit trust distributions
- Unitholders
-
-Siebel/TDMS Reference Number:
-  3592876
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 September 2003
-
-ISSN:
- 1445-2782
+Date of decision: 22 August 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 95(1) section 102M section 102R
+Income Tax Assessment Act 1997 Subdivision 115-C subparagraph 115-100(b)(ii) subsection 115-210(1) section 703-50 Related ATO Interpretative Decisions ATO ID 2003/652 ATO ID 2003/652 Keywords Capital gains tax CGT 50% individual discount CGT discount CGT trust distribution Consolidated group Consolidation Net capital gain Net income of a trust Public trading trusts Unit trust distributions Unitholders Siebel/TDMS Reference Number: 3592876 Business Line: Public Groups and International Date of publication: 5 September 2003 ISSN: 1445-2782

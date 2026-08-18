@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/8
-==================================================
-
-Income Tax
- Non-Portfolio Dividend exemption to a distribution received by a limited partner from a Corporate Limited Partnership
- FOI status: may be released
-
-This ATO ID is withdrawn as it does not accurately reflect the ATO view.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Non-Portfolio Dividend exemption to a distribution received by a limited partner from a Corporate Limited Partnership FOI status: may be released This ATO ID is withdrawn as it does not accurately reflect the ATO view. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 23AJ of the Income Tax Assessment Act 1936 (ITAA 1936) apply to a distribution when it is paid by a foreign limited partnership that is a corporate limited partnership (not being a Part X Australian resident), to an Australian resident company which receives it in its capacity as a limited partner in the foreign limited partnership?
 Decision
 No. Section 23AJ of the ITAA 1936 does not apply to a distribution when it is paid by a foreign limited partnership that is a corporate limited partnership to an Australian resident company which receives it in its capacity as a limited partner in the foreign limited partnership.
@@ -28,79 +13,14 @@ The foreign limited partnership is a corporate limited partnership for the purpo
 The taxpayer receives a distribution from the partnership in its capacity as a limited partner.
 Reasons for Decision
 All references are to the ITAA 1936 unless otherwise indicated.
-Section 23AJ provides that:
-
-A non-portfolio dividend (as defined in section 317) paid to a company is not assessable income, and is not exempt income, of the company if:
-
-(a)the company is an Australian resident and does not receive the dividend in the capacity of a trustee; and
-(b)the company that paid the dividend is not a Part X Australian resident (as defined in that section).
-
-Section 317 defines a 'non-portfolio dividend' to be:
-
-a dividend (other than an eligible finance share dividend or a widely distributed finance share dividend) paid to a company where that company has a voting interest, within the meaning of section 334A, amounting to at least 10% of the voting power, within the meaning of that section, in the company paying the dividend.
-
-Subsection 334A(1) provides that a company shall be taken to have a voting interest in another company, if the first-mentioned company is the 'beneficial owner' of shares in the other company that carry the right to vote on all matters at a general meeting in that other company, and there is no arrangement in force which would allow any person to affect those rights. The phrase 'beneficial owner' is not defined for the purposes of section 334A. Accordingly, the phrase 'is to be construed in context and must reflect the purposes of the section in which it occurs' (Federal Commissioner of Taxation v. Linter Textiles Australia Ltd (in Liq) [2005] HCA 20; (2005) 220 CLR 592; (2005) 59 ATR 177; 2005 ATC 4255).
-In Taxation Determination TD 2008/24, the Commissioner stated that the term 'beneficial owner' of shares for the purposes of subsection 334A(1) needs to be considered having regard to the context of former section 160AFB. Having regard to the context, TD 2008/24 states at paragraph 9 that a company will be the beneficial owner of shares for the purposes of subsection 334A(1) when it holds the bundle of rights associated with ownership of those shares for its own benefit, and not for the benefit of others.
-
-Limited partnership
-
-As a corporate limited partnership, the foreign limited partnership is deemed to be a company under section 94J and the distribution from the partnership is deemed to be a dividend under section 94L. The taxpayer's interest in the partnership is deemed to be a share under section 94P.
+Section 23AJ provides that: A non-portfolio dividend (as defined in section 317) paid to a company is not assessable income, and is not exempt income, of the company if: (a)the company is an Australian resident and does not receive the dividend in the capacity of a trustee; and
+(b)the company that paid the dividend is not a Part X Australian resident (as defined in that section). Section 317 defines a 'non-portfolio dividend' to be: a dividend (other than an eligible finance share dividend or a widely distributed finance share dividend) paid to a company where that company has a voting interest, within the meaning of section 334A, amounting to at least 10% of the voting power, within the meaning of that section, in the company paying the dividend. Subsection 334A(1) provides that a company shall be taken to have a voting interest in another company, if the first-mentioned company is the 'beneficial owner' of shares in the other company that carry the right to vote on all matters at a general meeting in that other company, and there is no arrangement in force which would allow any person to affect those rights. The phrase 'beneficial owner' is not defined for the purposes of section 334A. Accordingly, the phrase 'is to be construed in context and must reflect the purposes of the section in which it occurs' (Federal Commissioner of Taxation v. Linter Textiles Australia Ltd (in Liq) [2005] HCA 20; (2005) 220 CLR 592; (2005) 59 ATR 177; 2005 ATC 4255).
+In Taxation Determination TD 2008/24, the Commissioner stated that the term 'beneficial owner' of shares for the purposes of subsection 334A(1) needs to be considered having regard to the context of former section 160AFB. Having regard to the context, TD 2008/24 states at paragraph 9 that a company will be the beneficial owner of shares for the purposes of subsection 334A(1) when it holds the bundle of rights associated with ownership of those shares for its own benefit, and not for the benefit of others. Limited partnership As a corporate limited partnership, the foreign limited partnership is deemed to be a company under section 94J and the distribution from the partnership is deemed to be a dividend under section 94L. The taxpayer's interest in the partnership is deemed to be a share under section 94P.
 However no provision deems a partner in a corporate limited partnership to have voting rights similar to that of a shareholder in a company.
 At general law, a partner is not separate from the partnership. The rights of a partner in a partnership are held and must be exercised for the benefit of each and every partner in the partnership. Deane J in Federal Commissioner of Taxation v. Westraders Pty Ltd (1979) 9 ATR 558; 79 ATC 4089 said:
 In the absence of agreement to the contrary, a member of a partnership has no definite or separate share or interest in any particular item of partnership property. He has an undivided beneficial interest in the totality of partnership assets and is entitled to insist that they be applied for legitimate purposes of the partnership (see, generally, Livingstone v. Commr. of Stamp Duties (Qld.) (1960) 107 C.L.R. 411 at p. 453 and Canny Gabriel Castle Jackson Advertising Pty. Limited v. Volume Sales (Finance) Pty. Limited (1974) 131 C.L.R. 321 at pp. 327-328).
 It follows the voting rights held by a partner in a partnership (including limited partnership) must be exercised subject to the partner's obligation to the other partners. A partner cannot exercise its voting rights exclusively for its own benefit. Thus, a taxpayer who is a partner in a partnership cannot satisfy subsection 334A(1) because it cannot exercise the voting rights associated with its interest in the partnership for its own benefit as required by subsection 334A(1). Accordingly, a distribution paid to the taxpayer, in its capacity as a limited partner in a limited partnership is not a non-portfolio dividend as defined in section 317, and section 23AJ does not apply to the distribution.
-Date of decision:
-  21 December 2009
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 5A, Part III   Part X   section 23AJ   section 94J   section 94L   section 94P   section 160AFB   section 317   section 334A   subsection 334A(1)
-
-Case References:
-
-Canny Gabriel Castle Jackson Advertising Pty Limited v Volume Sales (Finance) Pty Limited   (1974) 131 CLR 321
-
-Federal Commissioner of Taxation v Linter Textiles Australia Ltd (in Liq)   [2005] HCA 20   (2005) 220 CLR 592   (2005) 59 ATR 177   2005 ATC 4255
-
-Federal Commissioner of Taxation v Westraders Pty Ltd   (1979) 9 ATR 558   79 ATC 4089
-
-Livingstone v Commr of Stamp Duties (Qld)   (1960) 107 CLR 411
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2008/24
-
-Keywords
-
-Dividend income
- International tax
- Limited partnerships
- Voting rights
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  8 January 2010
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-21 December 2009
-Original statement
-
-You are here
+Date of decision: 21 December 2009 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 Division 5A, Part III Part X section 23AJ section 94J section 94L section 94P section 160AFB section 317 section 334A subsection 334A(1) Case References: Canny Gabriel Castle Jackson Advertising Pty Limited v Volume Sales (Finance) Pty Limited (1974) 131 CLR 321 Federal Commissioner of Taxation v Linter Textiles Australia Ltd (in Liq) [2005] HCA 20 (2005) 220 CLR 592 (2005) 59 ATR 177 2005 ATC 4255 Federal Commissioner of Taxation v Westraders Pty Ltd (1979) 9 ATR 558 79 ATC 4089 Livingstone v Commr of Stamp Duties (Qld) (1960) 107 CLR 411 Related Public Rulings (including Determinations) Taxation Determination TD 2008/24 Keywords Dividend income International tax Limited partnerships Voting rights Business Line: International Centre of Expertise Date of publication: 8 January 2010 ISSN: 1445-2782 history Date: Version: 21 December 2009
+Original statement You are here
 22 July 2011
 Archived

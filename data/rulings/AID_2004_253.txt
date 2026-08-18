@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/253
-==================================================
-
-Income Tax
- Capital Allowances: project pools - project amount - feasibility studies - information
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: project pools - project amount - feasibility studies - information FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer's expenditure to acquire the results of a feasibility study, commissioned by another entity for that entity's project, a project amount within paragraph 40-840(2)(d) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The taxpayer's expenditure is a project amount within paragraph 40-840(2)(d) of the ITAA 1997 because it is an amount incurred to obtain information associated with the taxpayer's project within subparagraph 40-840(2)(d)(v) of the ITAA 1997.
@@ -20,41 +9,5 @@ Facts
 The taxpayer proposed to carry on a project for a taxable purpose on a particular block of land. Another entity had earlier commissioned a feasibility study for the same type of project on the same land. The taxpayer incurred expenditure to obtain from that entity the results of that feasibility study. The documents obtained by the taxpayer from the other entity included a research report which indicated the suitability of the land for the taxpayer's project and financial modelling and an evaluation which could be applied for the taxpayer's project. The taxpayer used that information in carrying on their project.
 Reasons for Decision
 Broadly speaking, section 40-830 of the ITAA 1997 allows a deduction over the project life for project amounts allocated to a project pool.
-To be a project amount within subsection 40-840(2) of the ITAA 1997, an amount must be capital expenditure which, in addition to satisfying paragraphs 40-840(2)(a) to 40-840(2)(c), is one of the amounts specified in subparagraphs 40-840(2)(d)(i) to 40-840(2)(d)(vii). The amount specified in subparagraph 40-840(2)(d)(iii) is an amount incurred for feasibility studies for the project. The amount specified in subparagraph 40-840(2)(d)(v) is an amount incurred to obtain information associated with the project.
-
-Project Amount - Feasibility Studies
-
-For an amount incurred for a feasibility study to fall within subparagraph 40-840(2)(d)(iii) of the ITAA 1997, the feasibility study must be one specifically commissioned or undertaken by the taxpayer for the very project they are carrying on or proposing to carry on. A feasibility study commissioned or undertaken by another taxpayer for a project that entity was carrying on or proposing to carry does not meet the requirements of the subparagraph for this taxpayer. Accordingly, the capital expenditure is not a 'project amount' within subparagraph 40-840(2)(d)(iii) for this taxpayer.
-
-Project Amount - Information
-
-The taxpayer incurred the expenditure to obtain the information contained in the feasibility study and that information is directly associated with the taxpayer's project. Accordingly, the capital expenditure is a 'project amount' within subparagraph 40-840(2)(d)(v) of the ITAA 1997 for this taxpayer.
-Date of decision:
-  15 October 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 40-830   subsection 40-840(2)   paragraph 40-840(2)(d)   subparagraph 40-840(2)(d)(iii)   subparagraph 40-840(2)(d)(v)
-
-Keywords
-
-Capital Allowances CoE
- Feasibility study expenses
- Project amount
- Project pool
- Uniform capital allowance system
-
-Siebel/TDMS Reference Number:
-  3565870
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  26 March 2004
-
-ISSN:
- 1445-2782
+To be a project amount within subsection 40-840(2) of the ITAA 1997, an amount must be capital expenditure which, in addition to satisfying paragraphs 40-840(2)(a) to 40-840(2)(c), is one of the amounts specified in subparagraphs 40-840(2)(d)(i) to 40-840(2)(d)(vii). The amount specified in subparagraph 40-840(2)(d)(iii) is an amount incurred for feasibility studies for the project. The amount specified in subparagraph 40-840(2)(d)(v) is an amount incurred to obtain information associated with the project. Project Amount - Feasibility Studies For an amount incurred for a feasibility study to fall within subparagraph 40-840(2)(d)(iii) of the ITAA 1997, the feasibility study must be one specifically commissioned or undertaken by the taxpayer for the very project they are carrying on or proposing to carry on. A feasibility study commissioned or undertaken by another taxpayer for a project that entity was carrying on or proposing to carry does not meet the requirements of the subparagraph for this taxpayer. Accordingly, the capital expenditure is not a 'project amount' within subparagraph 40-840(2)(d)(iii) for this taxpayer. Project Amount - Information The taxpayer incurred the expenditure to obtain the information contained in the feasibility study and that information is directly associated with the taxpayer's project. Accordingly, the capital expenditure is a 'project amount' within subparagraph 40-840(2)(d)(v) of the ITAA 1997 for this taxpayer.
+Date of decision: 15 October 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 40-830 subsection 40-840(2) paragraph 40-840(2)(d) subparagraph 40-840(2)(d)(iii) subparagraph 40-840(2)(d)(v) Keywords Capital Allowances CoE Feasibility study expenses Project amount Project pool Uniform capital allowance system Siebel/TDMS Reference Number: 3565870 Business Line: Public Groups and International Date of publication: 26 March 2004 ISSN: 1445-2782

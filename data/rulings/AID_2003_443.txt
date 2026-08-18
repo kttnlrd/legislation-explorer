@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/443
-==================================================
-
-Income Tax
- Infrastructure Borrowings: Direct and indirect - infrastructure period - relevant event - first act or omission
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Infrastructure Borrowings: Direct and indirect - infrastructure period - relevant event - first act or omission FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the 'relevant event' for the purposes of section 159GZZZZH of the Income Tax Assessment Act 1936 (ITAA 1936) in relation to a cancellation of the Indirect Infrastructure Borrowings (IIB) Certificate that is held by the taxpayer, the cancellation by the Development Allowance Authority (the DAA) of the Direct Infrastructure Borrowings (DIB) Certificate and is the amount of the 'Factor' in subsection 159GZZZZH(1) of the ITAA 1936 to be determined accordingly, with the 'Part of the Infrastructure Period after the Act or Omission' commencing from the date of the actual cancellation of the DIB Certificate?
 Decision
 No. The 'relevant event' for the purposes of section 159GZZZZH of the ITAA 1936 in relation to the cancellation of an IIB Certificate is the 'first act or omission' that was a ground relied upon by the DAA for cancelling the certificate and not the DAA's actual cancellation of the DIB Certificate.
@@ -21,33 +10,6 @@ Facts
 The project company currently holds a certificate from the DAA permitting it to issue DIBs with which it financed construction of an infrastructure project. In turn, the taxpayer holds a corresponding certificate from the DAA permitting it to issue IIBs to fund the subscription for the DIBs issued by the project company.
 Reasons for Decision
 The definition of 'Factor' in subsection 159GZZZZH(1) of the ITAA 1936 refers to 'the first act or omission that was the ground' for the cancellation.
-The DAA's actual cancellation of the DIB certificate is not the '
- first
- act or omission' relied on as the ground for cancellation. The 'Factor' in subsection 159GZZZZH(1) of the ITAA 1936 should be calculated having regard to the year of income in which the 'first act or omission' occurred.
+The DAA's actual cancellation of the DIB certificate is not the ' first act or omission' relied on as the ground for cancellation. The 'Factor' in subsection 159GZZZZH(1) of the ITAA 1936 should be calculated having regard to the year of income in which the 'first act or omission' occurred.
 Accordingly, 'the relevant event' for the purposes of section 159GZZZZH of the ITAA 1936, is the ground relied upon by the DAA that lead to the cancellation of the IIB certificate.
-Date of decision:
-  31 March 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 159GZZZZH(1)
- Development Allowance Authority Act 1992   subsection 93ZB(2)
-
-Keywords
-
-Infrastructure borrowings
-
-Siebel/TDMS Reference Number:
-  3409866
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  13 June 2003
-
-ISSN:
- 1445-2782
+Date of decision: 31 March 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 subsection 159GZZZZH(1) Development Allowance Authority Act 1992 subsection 93ZB(2) Keywords Infrastructure borrowings Siebel/TDMS Reference Number: 3409866 Business Line: Public Groups and International Date of publication: 13 June 2003 ISSN: 1445-2782

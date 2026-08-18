@@ -1,37 +1,16 @@
 ATO Interpretative Decision
 ATO ID 2001/121
-==================================================
-
-Goods and Services Tax
- GST and Insurance Policy that spans 1 July 2000
- FOI status: may be released
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and Insurance Policy that spans 1 July 2000 FOI status: may be released This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an insurance company that supplies a policy that spans 1 July 2000, calculating the amount of goods and services tax (GST) payable in accordance with the GST legislation, where the formula it uses to calculate the amount of GST payable on the supply of that policy is inconsistent with GST Bulletin GSTB 2000/4?
 Decision
 No, the entity is not calculating the amount of GST payable in accordance with the GST legislation.
 The formula in GSTB 2000/4 outlines the method for calculating the amount of GST payable on a progressive or periodic supply that spans 1 July 2000. The formula reflects the Australian Taxation Office's (ATO) interpretation of sections 7 and 12 of the A New Tax System (Goods and Services Tax Transition) Act 1999 (Transition Act) and sections 9-70 and 9-40 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) and thus, should be followed.
 Facts
 The entity is an insurance company that is registered for GST. The entity supplies an insurance policy that spans 1 July 2000. The entity determines that the premium for this policy is $1000 and that 25 per cent of the supply occurs after 1 July 2000. The supply of the policy is a taxable supply under section 9-5 of the GST Act. The entity does not take GST into account when determining the premium (price of the supply).
-The entity proposes to calculate the amount of GST payable on the supply of this policy in accordance with the following formula:
-
-1. Determine the extent to which the supply is made on or after 1 July 2000 - 25 per cent
-
- 2. Apportion the total consideration for the supply to the period on or after 1 July 2000:
+The entity proposes to calculate the amount of GST payable on the supply of this policy in accordance with the following formula: 1. Determine the extent to which the supply is made on or after 1 July 2000 - 25 per cent 2. Apportion the total consideration for the supply to the period on or after 1 July 2000:
 25% of $1000 = $250
-3. Determine 1/11th of the price that is subject to GST (1/11th of $250).
-
-The entity relies on sections 9-70 and 9-75 of the GST Act to derive this formula.
+3. Determine 1/11th of the price that is subject to GST (1/11th of $250). The entity relies on sections 9-70 and 9-75 of the GST Act to derive this formula.
 This formula is inconsistent with the formula expressed in GSTB 2000/4.
 Reasons For Decision
 The Transition Act governs the treatment of supplies made during the GST transitional period. Section 7 of the Transition Act provides the basic rule that GST is only payable on a supply to the extent that it is made on or after 1 July 2000.
@@ -39,98 +18,15 @@ Section 6 of the Transition Act provides the general rules about when supplies a
 The GST Act does not provide that GST is 1/11th of the price of a supply. Section 9-75 of the GST Act provides the rules for determining the 'value' of a taxable supply. It does not provide the rules for how to work out the amount of GST, or the GST payable.
 Section 9-70 of the GST Act provides that the amount of GST on a taxable supply is 10% of the value of the taxable supply. This is the amount of GST payable under section 9-40 of the GST Act. The expression 'GST is only payable...' in section 7 of the Transition Act refers to the 'amount of GST' as determined under section 9-70 of the GST Act which is payable under section 9-40 of the GST Act. This means that any reference to GST being payable to an extent under section 7 of the Transition Act means that the 'extent' test is applied in relation to section 9-40 of the GST Act because that is the section that tells you what GST is payable.
 Therefore, if the supply is made on or after 1 July 2000 to the extent of 25%, GST is payable, as concluded above, to the extent of 25%. Section 9-40 of the GST Act provides that the GST payable is 10% of the GST exclusive value. If GST is only payable to the extent of 25%, the GST payable will be 25% of 10% of the GST exclusive value.
-The consideration for the supply of the insurance policy was for a GST inclusive price. Therefore, it is necessary to determine the GST exclusive value of the supply before applying section 9-40 of the GST Act and the extent test. In this case, the GST payable is calculated as follows:
-
-EXAMPLE ONE:
-
-GST inclusive price
-= $1000
-
-GST inclusive price
-= GST exclusive value + GST payable
-
-GST payable
-= 25% x (10% x GST exclusive value) = 2.5% x GST exclusive value
-
-GST inclusive price
-= GST exclusive value + 2.5%(GST exclusive value)
-
- 
-= 102.5% x GST exclusive value
-
-GST exclusive value
-= $1000 x 100/102.5 = $975.61
-
-GST payable
-
-= $24.39
-
-[Note: The consideration for the taxable supply will be = 11x GST payable = $268.29]
-
-This is what the second formula in GSTB 2000/4 achieves. This formula applies where: the entity makes a progressive or periodic supply that spans 1 July 2000; the entity did not take the GST into account when determining the price; and any part of the supply is a taxable supply.
-The second formula in GSTB 2000/4 provides that the consideration which relates to the period on or after 1 July 2000 is calculated as:
-
-Consideration for the taxable supply = (price * number of days on or after 1 July 2000 * 11) / ((10 * total days in the period) + days on or after 1 July 2000)
- = 1000 * 91.5 * 11 / (10 * 366) + 91.5 = 268.29
- GST payable = 1/11 * $268.29 = $24.39
-
-[NOTE: 25% of supply on or after 1 July 2000 = 91.5 days on or after 1 July 2000]
-The formula in GSTB 2000/4 can be reconciled with the calculations expressed in example one.
-
-Consideration for the taxable supply = 11 * GST payable
- = 11 * 2.5% GST exclusive value
- = 11 * 2.5% x 1000/1.025
- = 11 * 91.5/366 x 1/10 x 1000 ((91.5/366 x1/10) + 1)
- = 11 * 91.5 x 1000 / (366 x 10) (91.5/(366 x10) + 1)
- = 11 * 91.5 x 1000 / (366 x 10) + 91.5
- =$268.29
-
-As shown, the calculation at example 1 is consistent with the formula published in GSTB 2000/4, the Transition Act and the GST Act, as outlined above. The difference between the formula proposed by the entity and the formula in GSTB 2000/4 is that the entity has not applied the GST exclusive amount of the premium continuously and uniformly throughout the period of the insurance cover. In this case, the calculation proposed by the entity is inconsistent with the formula in GSTB 2000/4. Therefore, the calculation proposed by the entity is not in accordance with the GST law.
-Date of decision:
-  13 February 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-40   section 9-70   section 9-75
-A New Tax System (Goods and Services Tax Transition) Act 1999   section 6   section 7   section 12
-
-Related Public Rulings (including Determinations)
-
-GSTB 2000/4
-
-Keywords
-
-Goods and Services Tax
- GST special rules
- GST insurance
- Insured
- Insurers
- GST transitional issues
-
-Siebel/TDMS Reference Number:
-  CRS 44778; 1-KP3KG4G
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  13 July 2001
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 February 2001
-Original statement
-
-You are here
- 5 May 2022
+The consideration for the supply of the insurance policy was for a GST inclusive price. Therefore, it is necessary to determine the GST exclusive value of the supply before applying section 9-40 of the GST Act and the extent test. In this case, the GST payable is calculated as follows: EXAMPLE ONE: GST inclusive price
+= $1000 GST inclusive price
+= GST exclusive value + GST payable GST payable
+= 25% x (10% x GST exclusive value) = 2.5% x GST exclusive value GST inclusive price
+= GST exclusive value + 2.5%(GST exclusive value) = 102.5% x GST exclusive value GST exclusive value
+= $1000 x 100/102.5 = $975.61 GST payable = $24.39 [Note: The consideration for the taxable supply will be = 11x GST payable = $268.29] This is what the second formula in GSTB 2000/4 achieves. This formula applies where: the entity makes a progressive or periodic supply that spans 1 July 2000; the entity did not take the GST into account when determining the price; and any part of the supply is a taxable supply.
+The second formula in GSTB 2000/4 provides that the consideration which relates to the period on or after 1 July 2000 is calculated as: Consideration for the taxable supply = (price * number of days on or after 1 July 2000 * 11) / ((10 * total days in the period) + days on or after 1 July 2000) = 1000 * 91.5 * 11 / (10 * 366) + 91.5 = 268.29 GST payable = 1/11 * $268.29 = $24.39 [NOTE: 25% of supply on or after 1 July 2000 = 91.5 days on or after 1 July 2000]
+The formula in GSTB 2000/4 can be reconciled with the calculations expressed in example one. Consideration for the taxable supply = 11 * GST payable = 11 * 2.5% GST exclusive value = 11 * 2.5% x 1000/1.025 = 11 * 91.5/366 x 1/10 x 1000 ((91.5/366 x1/10) + 1) = 11 * 91.5 x 1000 / (366 x 10) (91.5/(366 x10) + 1) = 11 * 91.5 x 1000 / (366 x 10) + 91.5 =$268.29 As shown, the calculation at example 1 is consistent with the formula published in GSTB 2000/4, the Transition Act and the GST Act, as outlined above. The difference between the formula proposed by the entity and the formula in GSTB 2000/4 is that the entity has not applied the GST exclusive amount of the premium continuously and uniformly throughout the period of the insurance cover. In this case, the calculation proposed by the entity is inconsistent with the formula in GSTB 2000/4. Therefore, the calculation proposed by the entity is not in accordance with the GST law.
+Date of decision: 13 February 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-40 section 9-70 section 9-75
+A New Tax System (Goods and Services Tax Transition) Act 1999 section 6 section 7 section 12 Related Public Rulings (including Determinations) GSTB 2000/4 Keywords Goods and Services Tax GST special rules GST insurance Insured Insurers GST transitional issues Siebel/TDMS Reference Number: CRS 44778; 1-KP3KG4G Business Line: Indirect Tax Date of publication: 13 July 2001 ISSN: 1445-2782 history Date: Version: 13 February 2001
+Original statement You are here 5 May 2022
 Archived

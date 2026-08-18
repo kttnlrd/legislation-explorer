@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/183
-==================================================
-
-Income Tax
- Income Tax: Transfer and declarations of trust in the context of Division 16E of the Income Tax Assessment Act 1936
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax: Transfer and declarations of trust in the context of Division 16E of the Income Tax Assessment Act 1936 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the declaration of a trust by which a named beneficiary obtains an equitable interest in the future coupon payments on a bond, result in a transfer of payment rights pursuant to section 159GZ of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes, the declaration of the trust will result in a transfer of the payment rights for the purposes of section 159GZ of the ITAA 1936.
@@ -23,50 +12,12 @@ The equitable assignment took the form of Bond Holder declaring a trust (Declara
 Reasons for Decision
 Division 16E of the ITAA 1936 (encompassing sections 159GP to 159GZ), provides for the overall yield on certain discounted and deferred interest securities to be taxed on an accruals basis.
 Generally, a security must meet the definition of 'qualifying security' in subsection 159GP(1) of the ITAA 1936 to fall within the scope of Division 16E of the ITAA 1936. However, Division 16E also applies to 'stripped securities' which are dealt with in section 159GZ of the ITAA 1936.
-Subsection 159GZ(1) of the ITAA 1936 may operate to deem the declaration of trust to be a separate security for the purposes of Division 16E of the ITAA 1936. Subsection 159GZ(1) applies where:
-
-(a)a taxpayer acquires, or acquired, a security (the 'underlying security') in relation to which there are or were 2 or more payment rights; and
-(b)the taxpayer transfers, or transferred, one or some but not all of those rights to a particular person or persons jointly.
-
-The key consideration is whether the declaration of trust amounts to a 'transfer' of one or some of the payment rights on the underlying bond. The word 'transfer' for this purpose is defined in subsection 159GP(1) of the ITAA 1936 as:
-
-"transfer", in relation to a security, means transfer, sell, assign or dispose in any way of the security or of the right to receive payment of the amount or amounts payable under the security, but does not include a redemption or partial redemption of the security.
-
-The decision of the High Court in Federal Commissioner of Taxation v. Myer Emporium Ltd (1987) 163 CLR 199; 18 ATR 693; 87 ATC 4363, confirmed that the right to interest is not a separate capital asset pertaining to the amount be repaid on the underlying asset, in this case the bond. Rather, it is a chose in action representing the right to future interest payments. Thus, the declaration of trust creates an equitable interest in respect of part of the chose in action, not the obligation under the bond to repay the debt.
+Subsection 159GZ(1) of the ITAA 1936 may operate to deem the declaration of trust to be a separate security for the purposes of Division 16E of the ITAA 1936. Subsection 159GZ(1) applies where: (a)a taxpayer acquires, or acquired, a security (the 'underlying security') in relation to which there are or were 2 or more payment rights; and
+(b)the taxpayer transfers, or transferred, one or some but not all of those rights to a particular person or persons jointly. The key consideration is whether the declaration of trust amounts to a 'transfer' of one or some of the payment rights on the underlying bond. The word 'transfer' for this purpose is defined in subsection 159GP(1) of the ITAA 1936 as: "transfer", in relation to a security, means transfer, sell, assign or dispose in any way of the security or of the right to receive payment of the amount or amounts payable under the security, but does not include a redemption or partial redemption of the security. The decision of the High Court in Federal Commissioner of Taxation v. Myer Emporium Ltd (1987) 163 CLR 199; 18 ATR 693; 87 ATC 4363, confirmed that the right to interest is not a separate capital asset pertaining to the amount be repaid on the underlying asset, in this case the bond. Rather, it is a chose in action representing the right to future interest payments. Thus, the declaration of trust creates an equitable interest in respect of part of the chose in action, not the obligation under the bond to repay the debt.
 Although the declaration of trust creates an equitable interest in the interest income pertaining to the bond, it does not necessarily follow that there is no transfer of the right to receive interest income by Bond Holder. The declaration of trust is merely the mechanism by which the Beneficiary obtains the benefit of the underlying interest rights.
 It is considered that the provision of an equitable interest in respect of part of the chose in action will result in the disposal by Bond Holder of that part of the chose in action. As a result of the declaration of trust, Bond Holder no longer holds that part of the chose in action in its own right, but holds it in trust on behalf of the Beneficiary.
 The use of the words 'in any way' in the definition of 'transfer' are considered important in interpreting the meaning of that term. The equitable assignment of part of the chose in action is a partial disposal of the chose in action. It represents a partial disposal of the right to receive payment. This disposal of part of the right to receive payment thus falls within the scope of the words 'dispose in any way'. This is considered to be the case irrespective of whether the disposal results in splitting the chose in action or the creation of a new chose in action for the purposes of the Beneficiary as the recipient.
 Support for the argument that an equitable assignment, while creating an equitable interest, results in a transfer of the chose in action (or part of the chose in action), can be found in the words of Kitto J. in the High Court decision of Shepherd v. Federal Commissioner of Taxation (1965) 113 CLR 385; 14 ATD 127; 7 AITR 739 where he states: 'all that is required for an equitable assignment is a manifestation by the assignor of an intention to transfer the chose in action to the assignee in a manner binding upon himself'.
 By the declaration of trust, Bond Holder will transfer to the Beneficiary one or some, but not all, of its rights to receive payment of amounts under the security. The requirements of paragraphs 159GZ(1)(a) and (b) of the ITAA 1936 are thus satisfied.
 It is to be noted that the effect of the declaration of trust falling within subsection 159GZ(1) of the ITAA 1936 is that there is taken to have been a separate security issued under which the payment right or rights transferred to the Beneficiary were created. There is a second security consisting of any remaining rights to repayment retained by Bond Holder. This ATO Interpretative Decision does not address the tax implications to Bond Holder of the fact that the declaration of trust falls within subsection 159GZ(1) of the ITAA 1936. Those tax implications will depend on other factors, including whether the bond is a 'traditional security'.
-Date of decision:
-  12 June 2007
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 159GP   section 159GZ   subsection 159GZ(1)
-
-Case References:
-
-Federal Commissioner of Taxation v. Myer Emporium Ltd   (1987) 163 CLR 199   87 ATC 4363   18 ATR 693
-
-Shepherd v. Federal Commissioner of Taxation   (1965) 113 CLR 385   (1965) 14 ATD 127   9 AITR 739
-
-Keywords
-
-Discounted & deferred interest securities income
-
-Siebel/TDMS Reference Number:
-  5483439
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 October 2007
-
-ISSN:
- 1445-2782
+Date of decision: 12 June 2007 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 section 159GP section 159GZ subsection 159GZ(1) Case References: Federal Commissioner of Taxation v. Myer Emporium Ltd (1987) 163 CLR 199 87 ATC 4363 18 ATR 693 Shepherd v. Federal Commissioner of Taxation (1965) 113 CLR 385 (1965) 14 ATD 127 9 AITR 739 Keywords Discounted & deferred interest securities income Siebel/TDMS Reference Number: 5483439 Business Line: Public Groups and International Date of publication: 5 October 2007 ISSN: 1445-2782

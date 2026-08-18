@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/206
-==================================================
-
-Income tax
- Consolidation: Public trading trust - choice to form a consolidated group
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Consolidation: Public trading trust - choice to form a consolidated group FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a public trading trust (PTT) choose to form a consolidated group under section 713-130 of the Income Tax Assessment Act 1997 (ITAA 1997) on the day it acquires its first wholly-owned subsidiaries during its income year, where that day is not the first day of that income year?
 Decision
 No. A PTT can only make an effective choice to form a consolidated group where the requirements of both paragraph 713-130(a) (the trust must wholly-own at least one subsidiary member) and paragraph 713-130(b) (the choice must be made on the first day of the PTT's income year) of the ITAA 1997 are satisfied.
@@ -20,65 +9,13 @@ Facts
 PT Trust is a public trading trust for the purposes of Division 6C of the Income Tax Assessment Act 1936 (ITAA 1936) in relation to an income year.
 PT Trust acquired the membership interests in its first wholly-owned subsidiary partway through that income year.
 Reasons for Decision
-Section 713-130 of the ITAA 1997 allows corporate unit trusts (CUT) and PTTs to form a consolidated group provided certain conditions are met. Specifically the provision states that:
-
-A trust may make a choice under section 703-50 (Choice to consolidate a consolidatable group), as if the trust were a company (the
- assumed company
-), but only if:
-
-(a)the assumed company could make the choice, if it beneficially owned the *membership interests in other entities that are legally owned by the trustee; and
-(b)the day specified in the choice is the first day of an income year for which the trust is a *corporate unit trust or a *public trading trust.* denotes a term defined in section 995-1 of the ITAA 1997
-
-Paragraph 713-130(a) of the ITAA 1997 requires that the PTT (or CUT) must be able to consolidate, that is, it must be a head company of a consolidatable group'. This requires the PTT to wholly-own the membership interests in at least one subsidiary entity. The definition of 'wholly-owned subsidiary' in subsection 703-30(1) of the ITAA 1997 requires the membership interests in the subsidiary entity to be beneficially owned by the PTT. As the unit holders have a proprietary interest in the underlying assets of the PTT, the trustee owns the assets legally, but not beneficially (see Charles v. Federal Commissioner of Taxation (1954) 90 CLR 598; (1954) 10 ATD 328. To overcome this, paragraph 713-130(a) makes the assumption that the PTT beneficially owns the membership interests in the subsidiary entity that are legally owned by the trustee.
+Section 713-130 of the ITAA 1997 allows corporate unit trusts (CUT) and PTTs to form a consolidated group provided certain conditions are met. Specifically the provision states that: A trust may make a choice under section 703-50 (Choice to consolidate a consolidatable group), as if the trust were a company (the assumed company
+), but only if: (a)the assumed company could make the choice, if it beneficially owned the *membership interests in other entities that are legally owned by the trustee; and
+(b)the day specified in the choice is the first day of an income year for which the trust is a *corporate unit trust or a *public trading trust.* denotes a term defined in section 995-1 of the ITAA 1997 Paragraph 713-130(a) of the ITAA 1997 requires that the PTT (or CUT) must be able to consolidate, that is, it must be a head company of a consolidatable group'. This requires the PTT to wholly-own the membership interests in at least one subsidiary entity. The definition of 'wholly-owned subsidiary' in subsection 703-30(1) of the ITAA 1997 requires the membership interests in the subsidiary entity to be beneficially owned by the PTT. As the unit holders have a proprietary interest in the underlying assets of the PTT, the trustee owns the assets legally, but not beneficially (see Charles v. Federal Commissioner of Taxation (1954) 90 CLR 598; (1954) 10 ATD 328. To overcome this, paragraph 713-130(a) makes the assumption that the PTT beneficially owns the membership interests in the subsidiary entity that are legally owned by the trustee.
 Paragraph 713-130(b) of the ITAA 1997 contains a further requirement, that only allows the choice to be made on the first day of the income year for which the trust is a PTT.
-The Explanatory Memorandum to the Tax Laws Amendment (2004 Measures No. 2) Bill 2004 (the EM) clarifies the meaning of paragraph 713-130(b) at paragraph 2.30 which states:
-
-The amendment comes into effect from the commencement of the consolidation regime (i.e. 1 July 2002) [
- Schedule 2, Part 1, item 1
-]. However, the date of effect of making this choice is the first day of a CUT or PTT's income year [
- Schedule 2, Part 2, item 2, paragraph 713-130(b)
-]. This does not mean it must be the first income year in which an entity becomes a CUT or a PTT.
- It means the election does not have effect unless the day specified in the choice is the first day of a CUT or a PTT's income year.
- [Emphasis added]
-
-Both the conditions provided in paragraph 713-130(a) and (b) must be satisfied on the day specified if PT Trust's choice to form a consolidated group is to be effective.
+The Explanatory Memorandum to the Tax Laws Amendment (2004 Measures No. 2) Bill 2004 (the EM) clarifies the meaning of paragraph 713-130(b) at paragraph 2.30 which states: The amendment comes into effect from the commencement of the consolidation regime (i.e. 1 July 2002) [ Schedule 2, Part 1, item 1
+]. However, the date of effect of making this choice is the first day of a CUT or PTT's income year [ Schedule 2, Part 2, item 2, paragraph 713-130(b)
+]. This does not mean it must be the first income year in which an entity becomes a CUT or a PTT. It means the election does not have effect unless the day specified in the choice is the first day of a CUT or a PTT's income year. [Emphasis added] Both the conditions provided in paragraph 713-130(a) and (b) must be satisfied on the day specified if PT Trust's choice to form a consolidated group is to be effective.
 PT Trust qualifies as a PTT at the beginning of the income year in which it acquired its first subsidiary entities. However, it did not hold the membership interests in those subsidiary entities on the first day of that income year. Consequently, PT Trust does not satisfy the requirements of paragraph 713-130(a) on the first day of that income year in which it becomes part of a consolidatable group. The first day where both paragraphs 713-130(a) and (b) are satisfied will be the first day of PT Trust's subsequent income year. Consequently, this must be the day specified in the choice to consolidate in order for PT Trust's choice to be effective.
-Date of decision:
-  13 July 2006
-
-Year of income:
-  Year ending 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 703-50   section 713-130   paragraph 713-130(a)   paragraph 713-130(b)
-Income Tax Assessment Act 1936   Division 6C
-
-Case References:
-
-Charles v. Federal Commissioner of Taxation   (1954) 90 CLR 598   (1954) 10 ATD 328
-
-Other References:
-
-Explanatory Memorandum to Tax Laws Amendment (2004 Measures No. 2) Bill 2004 - paragraph 2.30
-
-Keywords
-
-Consolidatable group
- Consolidated group
- Consolidation
- Consolidation - formation
- Formation time
- Public trading trusts
-
-Siebel/TDMS Reference Number:
-  5299639
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  11 August 2006
-
-ISSN:
- 1445-2782
+Date of decision: 13 July 2006 Year of income: Year ending 30 June 2006 Legislative References: Income Tax Assessment Act 1997 section 703-50 section 713-130 paragraph 713-130(a) paragraph 713-130(b)
+Income Tax Assessment Act 1936 Division 6C Case References: Charles v. Federal Commissioner of Taxation (1954) 90 CLR 598 (1954) 10 ATD 328 Other References: Explanatory Memorandum to Tax Laws Amendment (2004 Measures No. 2) Bill 2004 - paragraph 2.30 Keywords Consolidatable group Consolidated group Consolidation Consolidation - formation Formation time Public trading trusts Siebel/TDMS Reference Number: 5299639 Business Line: Consolidation Centre of Expertise Date of publication: 11 August 2006 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/696
-==================================================
-
-Goods and Services Tax
- GST and permeate
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and permeate FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells permeate?
 Decision
 No, the entity is not making a GST-free supply under section 38-2 of the GST Act when it supplies permeate. The entity is making a taxable supply under section 9-5 of the GST Act.
@@ -22,42 +11,12 @@ Permeate is not consumed as food. Permeate can be dried to a lactose powder or u
 The entity is registered for goods and services tax (GST). The supply satisfies the other positive limbs of section 9-5 of the GST Act.
 Reasons for Decision
 A supply of food is GST-free under section 38-2 of the GST Act if the product satisfies the definition of food in section 38-4 of the GST Act and the supply is not excluded from being GST-free by section 38-3 of the GST Act.
-Food is defined in section 38-4 of the GST Act to include:
-
-•food for human consumption;
+Food is defined in section 38-4 of the GST Act to include: •food for human consumption;
 •ingredients for food for human consumption;
 •beverages for human consumption; and
-•ingredients for beverages for human consumption.
-
-Permeate is a liquid that can be dried into a lactose powder or used as a filler for town white milk. It is not food, ingredients for food or a beverage. However, permeate could be considered to be an ingredient for a beverage.
+•ingredients for beverages for human consumption. Permeate is a liquid that can be dried into a lactose powder or used as a filler for town white milk. It is not food, ingredients for food or a beverage. However, permeate could be considered to be an ingredient for a beverage.
 Paragraph 38-3(1)(d) of the GST Act provides that a supply of an ingredient for a beverage is only GST-free if the ingredient is of a kind listed in the table in clause 1 of Schedule 2 to the GST Act (Schedule 2). The only item in Schedule 2 that may be of relevance to this case is item 3 in Schedule 2 (Item 3) which lists lactose.
 The permeate is predominantly comprised of lactose and can be dried into lactose powder. However, permeate also contains milk proteins and minerals and water. It is only after the drying process has removed these elements that the product becomes lactose. Therefore, permeate is not lactose and is not covered by Item 3.
 Furthermore, permeate is not covered by any other ingredient for a beverage listed in Schedule 2. Accordingly, paragraph 38-3(1)(d) of the GST Act excludes the supply of permeate from being GST-free under section 38-2 of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under any other provision in Division 38 of the GST Act, nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies permeate.
-Date of decision:
-  10 December 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   section 38-2   section 38-3   section 38-3(1)(d)   section 38-4   Division 40   Schedule 2 clause 1   Schedule 2 clause 1 table item 3
-
-Keywords
-
-Goods and services tax
- GST free
- GST food
- Ingredients for beverages
- GST supplies & acquisitions
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  CW240600
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  11 July 2002
-
-ISSN:
- 1445-2782
+Date of decision: 10 December 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 Division 38 section 38-2 section 38-3 section 38-3(1)(d) section 38-4 Division 40 Schedule 2 clause 1 Schedule 2 clause 1 table item 3 Keywords Goods and services tax GST free GST food Ingredients for beverages GST supplies & acquisitions Taxable supply Siebel/TDMS Reference Number: CW240600 Business Line: Indirect Tax Date of publication: 11 July 2002 ISSN: 1445-2782

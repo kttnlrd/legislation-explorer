@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/151
-==================================================
-
-Income Tax
- Capital Allowances: installed ready for use and held in reserve
- FOI status: may be released
-
-This ATO ID has been amended to clarify the reference to TD 2007/5.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: installed ready for use and held in reserve FOI status: may be released This ATO ID has been amended to clarify the reference to TD 2007/5. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the depreciating assets that entity A holds 'used' or 'installed ready for use' for the purpose of working out the decline in value of their depreciating assets under either subsection 40-70(1) or 40-75(1) of the Income Tax Assessment Act 1997 (ITAA 1997) given the circumstances of entity A as described in the facts below?
 Decision
 No. The depreciating assets that entity A holds are not 'used' or 'installed ready for use' for the purpose of working out the decline in value of their depreciating assets under either subsection 40-70(1) or 40-75(1) of the ITAA 1997 given the circumstances of entity A as described in the facts below.
@@ -47,61 +34,10 @@ The facts of the case indicate that there is no significant commercial activity,
 As there has been a discontinuation of business by entity B the depreciating assets cannot be considered to be installed ready for use and held in reserve in entity B's present income producing activity. As such, the depreciating assets are not considered to be installed ready for use from the period of cessation of operation of the manufacturing plant.
 In the context of entity B not using the assets for any purpose and not continuing business, and in view of the closeness of the relationship between the entities (entity A's apparent control of the entire undertaking of the entities), it can subsequently be considered whether entity A's making the assets available to entity B under the purported rental agreement constitutes use of the assets, or having the assets installed ready for use, by entity A.
 Use or installed ready for use by entity A?
-Given the facts that:
-
-•the entities are closely interrelated in the context of the joint venture
-•entity B has no use of the assets and is not continuing business,
-
-- thus having no capacity to pay or realistic prospect of being able to pay in their present state and market situation
-
-•no lease agreement documentation of a true business-like arrangement between entities A and B exists, and
-•'book entries' in the accounts of entities A and B are not convincing evidence of a genuine rental arrangement or that actual lease payments have been made
-
-the conclusion is that entity A's purported rental arrangement with entity has not been extant since the cessation of the manufacturing plant's operation. entity A is in fact not using the assets nor does it have them installed ready for use nor does it have a present income producing activity that involves the assets. Entity A too, in respect of any endeavour involving the assets, has discontinued business.
+Given the facts that: •the entities are closely interrelated in the context of the joint venture
+•entity B has no use of the assets and is not continuing business, - thus having no capacity to pay or realistic prospect of being able to pay in their present state and market situation •no lease agreement documentation of a true business-like arrangement between entities A and B exists, and
+•'book entries' in the accounts of entities A and B are not convincing evidence of a genuine rental arrangement or that actual lease payments have been made the conclusion is that entity A's purported rental arrangement with entity has not been extant since the cessation of the manufacturing plant's operation. entity A is in fact not using the assets nor does it have them installed ready for use nor does it have a present income producing activity that involves the assets. Entity A too, in respect of any endeavour involving the assets, has discontinued business.
 Accordingly, entity A should reduce the number used in the formulae in subsections 40-70(1) or 40-75(1) of the ITAA 1997 in respect of 'days held' by the number of days it held the depreciating assets but did not use them or have them installed ready for use, that is, from the point in time when the manufacturing plant ceased operations.
-Date of decision:
-  2 June 2006
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 40-70(1)   subsection 40-75(1)   subsection 40-30(1)   subsection 995-1(1)
-
-Case References:
-
-City of Newcastle v. Royal Newcastle Hospital   (1959) 100 CLR 1
-
-Newcastle City Council v. Royal Newcastle Hospital   (1956) 96 CLR 493
-
-Queensland Meat Export Co. Ltd. v. DC of T   (1939) 5 ATD 176   (1939) 1 AITR 490
- Case X46   90 ATC 378
-
-AAT Case 5877   21 ATR 3411
-
-Evans v. FC of T   89 ATC 4540   (1989) 20 ATR 922
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 97/11
+Date of decision: 2 June 2006 Year of income: Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 subsection 40-70(1) subsection 40-75(1) subsection 40-30(1) subsection 995-1(1) Case References: City of Newcastle v. Royal Newcastle Hospital (1959) 100 CLR 1 Newcastle City Council v. Royal Newcastle Hospital (1956) 96 CLR 493 Queensland Meat Export Co. Ltd. v. DC of T (1939) 5 ATD 176 (1939) 1 AITR 490 Case X46 90 ATC 378 AAT Case 5877 21 ATR 3411 Evans v. FC of T 89 ATC 4540 (1989) 20 ATR 922 Related Public Rulings (including Determinations) Taxation Ruling TR 97/11
 Tax Determination TD 95/52
-Tax Determination TD 2007/5
-
-Keywords
-
-Capital Allowances CoE
- Deduction for depreciating assets
- Plant installed ready for use
-
-Siebel/TDMS Reference Number:
-  4960732
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 June 2006
-
-ISSN:
- 1445-2782
+Tax Determination TD 2007/5 Keywords Capital Allowances CoE Deduction for depreciating assets Plant installed ready for use Siebel/TDMS Reference Number: 4960732 Business Line: Public Groups and International Date of publication: 9 June 2006 ISSN: 1445-2782

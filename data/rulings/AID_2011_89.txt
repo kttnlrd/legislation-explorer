@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/89
-==================================================
-
-Income Tax
- Functional currency: translation requirements for a depreciating asset where an entity withdraws its 'applicable functional currency' choice
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Functional currency: translation requirements for a depreciating asset where an entity withdraws its 'applicable functional currency' choice FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the 'adjustable value' amount of a depreciating asset subject to the diminishing value method (DMV) under section 40-70 of the Income Tax Assessment Act 1997 (ITAA 1997), required to be translated from the currency that was the 'applicable functional currency' into Australian currency (AUD) under section 960-50 of Subdivision 960-C of the ITAA 1997 - immediately after the time the 'applicable functional currency' choice ceases to have effect and based on the relevant exchange rate at that time?
 Decision
 Yes. Where an 'applicable functional currency' choice ceases to have effect, the 'adjustable value' amount of a depreciating asset subject to the DMV is required to be translated into AUD under section 960-50 of the ITAA 1997 - immediately after the time the 'applicable functional currency' choice ceases to have effect and based on the relevant exchange rate at that time. It is this 'adjustable value' amount translated into AUD that will represent the 'opening adjustable value' of the depreciating asset in order to determine the decline in value of the depreciating asset using the DMV for the following income year.
@@ -27,113 +16,20 @@ The entity will withdraw the USD as its 'applicable functional currency' choice 
 This withdrawal will take effect from 1 January 2011 pursuant to paragraph 960-60(3)(a) and item 1 of subsection 960-90(1) of Subdivision 960-D of the ITAA 1997.
 The entity has not made a choice under subsection 960-60(1) of Subdivision 960-D of the ITAA 1997 to use another foreign currency as its 'applicable functional currency'.
 From 1 January 2011, the entity will keep its 'accounts' within the meaning of section 960-70 of Subdivision 960-D of the ITAA 1997, in AUD.
-Reasons for Decision
-
-The effect of a withdrawal of the 'applicable functional currency' choice under section 960-90 of Subdivision 960-D where no choice to use another 'applicable functional currency' has been made.
-
-The entity has withdrawn its 'applicable functional currency choice' with effect from 1 January 2011. At this time, all of the entity's amounts for income tax purposes will be in USD and hence will all be amounts in a 'foreign currency'. The functional currency translation rules contained in section 960-80 and section 960-85 of Subdivision 960-D of the ITAA 1997 cannot be used on or after 1 January 2011 (being the effective time of the withdrawal of the functional currency choice).
+Reasons for Decision The effect of a withdrawal of the 'applicable functional currency' choice under section 960-90 of Subdivision 960-D where no choice to use another 'applicable functional currency' has been made. The entity has withdrawn its 'applicable functional currency choice' with effect from 1 January 2011. At this time, all of the entity's amounts for income tax purposes will be in USD and hence will all be amounts in a 'foreign currency'. The functional currency translation rules contained in section 960-80 and section 960-85 of Subdivision 960-D of the ITAA 1997 cannot be used on or after 1 January 2011 (being the effective time of the withdrawal of the functional currency choice).
 Subsection 960-50(1) of Subdivision 960-C of the ITAA 1997 requires that, for the purposes of this Act, an amount in a 'foreign currency' is to be translated into Australian currency. Central to the operation of section 960-50 of the ITAA 1997 is a 'transaction, event or thing that involves an amount in a foreign currency', occurring on or after the 'applicable commencement date' within the meaning of Division 775 of the ITAA 1997. Specifically, section 960-55 of Subdivision 960-C of the ITAA 1997 provides that section 960-50 of the ITAA 1997 applies to an 'event' that involves an 'amount in a foreign currency' and occurs on or after the 'applicable commencement date' (in this case on or after 1 July 2003).
 The withdrawal by the entity of its functional currency choice under subsection 960-90(1) of Subdivision 960-D of the ITAA 1997 constitutes an 'event' that involves an amount in a 'foreign currency' (USD). Hence, the requirements stipulated in section 960-55 of the ITAA 1997 are met.
 Therefore, once the withdrawal of the functional currency choice has taken effect, the entity must immediately begin to use the core foreign currency translation rules contained in section 960-50 of the ITAA 1997.
-It follows that all of the entity's amounts for income tax purposes as at 1 January 2011 must be translated from USD to AUD, in accordance with the translation rules contained in section 960-50 of the ITAA 1997 (including subsection 960-50(6)).
-
-Special translation rules in subsection 960-50(6) of Subdivision 960-C (as modified by the Amended Regulations)
-
-Subsection 960-50(6) of Subdivision 960-C of the ITAA 1997 sets out the special translation rules, (as modified by the by the Income Tax Assessment Amendment Regulations 2005 (No. 2) (the Amended Regulations), refer to subsection 960-50(7) of the ITAA 1997). Notably, Regulation 960-50.01 adds item 11A to the table in subsection 960-50(6) of the ITAA 1997, which specifies that an amount (other than an amount of a receipt or a payment) to which none of the above items applies is to be translated into Australian currency at an exchange rate that is reasonable having regard to the circumstances.
-
-Translation principles outlined in Taxation Ruling TR 2007/5
-
-Although Taxation Ruling TR 2007/5 primarily considers the operation of sections 960-80 and 960-85 of Subdivision 960-D of the ITAA 1997 (which deal with translations to the 'applicable functional currency'), many of the principles outlined in TR 2007/5 are useful for the purposes of section 960-50 of the ITAA 1997 (including for translations from the foreign currency that was the 'applicable functional currency' to AUD).
+It follows that all of the entity's amounts for income tax purposes as at 1 January 2011 must be translated from USD to AUD, in accordance with the translation rules contained in section 960-50 of the ITAA 1997 (including subsection 960-50(6)). Special translation rules in subsection 960-50(6) of Subdivision 960-C (as modified by the Amended Regulations) Subsection 960-50(6) of Subdivision 960-C of the ITAA 1997 sets out the special translation rules, (as modified by the by the Income Tax Assessment Amendment Regulations 2005 (No. 2) (the Amended Regulations), refer to subsection 960-50(7) of the ITAA 1997). Notably, Regulation 960-50.01 adds item 11A to the table in subsection 960-50(6) of the ITAA 1997, which specifies that an amount (other than an amount of a receipt or a payment) to which none of the above items applies is to be translated into Australian currency at an exchange rate that is reasonable having regard to the circumstances. Translation principles outlined in Taxation Ruling TR 2007/5 Although Taxation Ruling TR 2007/5 primarily considers the operation of sections 960-80 and 960-85 of Subdivision 960-D of the ITAA 1997 (which deal with translations to the 'applicable functional currency'), many of the principles outlined in TR 2007/5 are useful for the purposes of section 960-50 of the ITAA 1997 (including for translations from the foreign currency that was the 'applicable functional currency' to AUD).
 Notably, paragraph 23 and footnote 24 of TR 2007/5 draw attention to subsection 960-80(6) of the ITAA 1997, which requires that, when translating an amount from a foreign currency into the entity's 'applicable functional currency', the special translation rules in subsection 960-50(6) (as modified by the Amended Regulations) apply as if every reference to Australian currency was a reference to the 'applicable functional currency'.
 Further, in general, the translations that are required under subsection 960-50(1) of the ITAA 1997 as a result of the withdrawal of an 'applicable functional currency' choice, are equivalent to the translations required under section 960-85 of the ITAA 1997 upon the making of an initial (or subsequent) 'applicable functional currency' choice. While section 960-85 stipulates a two step translation process - for all post 30 June 2003 amounts where a previous functional currency choice has not been made, the first step of the two step translation process under section 960-85 will have, in effect, already taken place under section 960-50 of Subdivision 960-C of the ITAA 1997.
 In essence, the first step of the two step translation process under section 960-85 of the ITAA 1997 has effect only where an amount has not been translated to Australian currency in a way that accords with Subdivision 960-C of the ITAA 1997 (and therefore with section 960-85). An example would be traditional securities acquired before 1 July 2003 (when the general conversion rule was contained in former subsection 20(1) of the Income Tax Assessment Act 1936 (ITAA 1936)) and which were still on hand at the effective time of a functional currency choice. See Example 2 at paragraphs 54-62 of TR 2007/5.
 Hence, in practice, only the second step of the two step translation process under section 960-85 of the ITAA 1997 will generally be of any real effect. This is highlighted in paragraphs 103 to 107 of TR 2007/5. See also paragraphs 136 and 145 to 147 of TR 2007/5.
-Taxation Ruling TR 2007/5 also specifically considers the treatment of depreciating assets using the DMV in the context of the 'applicable functional currency' translation rules in section 960-85 of Subdivision 960-D of the ITAA 1997. TR 2007/5 notes that:
-
-Depreciating assets
-
-121. This may be contrasted with the calculation of a deduction for decline in value of a depreciating asset using the 'diminishing value method' under section 40-70 - where the asset has been acquired by an entity in an income year in which Australian currency was the required unit of account for income tax purposes. Where such an entity subsequently chooses to use the 'applicable functional currency' to work out its taxable income or tax loss, the application of the two step translation in section 960-85 potentially becomes an issue.
-
-122. The first step of the calculation of the decline in value deduction under subsection 40-70(1) is to work out the 'base value'. This is defined in the subsection (for a year after the income year in which the asset's 'start time' occurs), as 'the sum of its *opening adjustable value for that year and any amount included in the second element of its cost for that year'.
-
-123. As previously noted, subsection 40-85(2) prescribes that the 'opening adjustable value' of a depreciating asset for the current year will be its 'adjustable value 'at the end of the previous income year'.
-
-124. Under subsection 40-85(1) the 'adjustable value' at the end of the previous income year, (assuming that the asset has prior to that time, been in use or installed ready for use), is the 'adjustable value' at the start of the previous income year plus any 'second element of cost' amount for that year - and less the decline in value for that (previous income) year.
-
-125. Subsection 40-85(2) then applies again to say that the 'adjustable value' at the start of the previous income year, was the asset's 'adjustable value' at the end of the income year before the previous income year, and so on.
-
-126. As a result, a strict application of the 'elements rule' in subsection 960-80(4) would lead back to the amount identified in paragraph 40-85(1)(a), being the 'adjustable value' of the depreciating asset at the time when it had not yet been used or installed ready for use - that is, its cost.
-
-127. Based on the above it can be seen that what is the relevant amount and 'event time' for the purposes of section 960-85 in this case, will depend on how far back to extend the operation of the 'elements rule' - that is, whether to extend its operation back only to an identification of the first element for the previous year, or back further to the cost of the asset.
-
-128. The correct approach under section 960-85 is to identify the 'amount' that is most relevant to the calculation of the appropriate annual net amount - and translate that 'amount' to the 'applicable functional currency'. The most obvious and practical application of the 'elements rule' in a case of this nature then, is to extend it back only so far as the identification of the 'adjustable value' of the asset at the end of the previous year - as this is the latest amount relevant to the calculation of the decline in value deduction not arising in the year the 'applicable functional currency' choice is to take effect.
-
-129. The question then arises as to what 'event or state of affairs' the relevant amount of 'adjustable value' is 'attributable to'. The amount has its origins in sections 40-70 and 40-85, and is mainly a statutory concept. It is appropriate to examine those provisions to identify the most relevant 'event or state of affairs' which has caused the amount.
-
-130. It is considered that the fact that the statutory description of the amount is one that relates to the monetary value for decline in value purposes at the end of the previous year, is a telling pointer in support of identifying that time as the 'event time', for the purposes of section 960-85.
-
-131. Accordingly, in such a case, the operation of the two step translation in section 960-85 would mean:
-
-(a)the closing 'adjustable value' of the asset at the end of the previous income year in Australian currency is translated to Australian currency on a one to one basis; and then
-(b)that amount is translated to the 'applicable functional currency' at the exchange rate applying at the beginning of the current year, being the time the choice to use this currency takes effect.
-
-The appropriate translation treatment for the 'adjustable value' of a depreciating asset using the DMV where there is a withdrawal of 'applicable functional currency' choice under section 960-90 of Subdivision 960-D and no choice to use another 'applicable functional currency' has been made
-
-As mentioned previously, the 'amounts' in the accounts as at 31 December 2010 include an amount representing the 'adjustable value' of a depreciating asset using the DMV. Like all other foreign currency denominated amounts, this 'adjustable value' amount must be translated from (the previous 'applicable functional currency' of) USD to AUD for income tax purposes, under section 960-50 of Subdivision 960-C.
+Taxation Ruling TR 2007/5 also specifically considers the treatment of depreciating assets using the DMV in the context of the 'applicable functional currency' translation rules in section 960-85 of Subdivision 960-D of the ITAA 1997. TR 2007/5 notes that: Depreciating assets 121. This may be contrasted with the calculation of a deduction for decline in value of a depreciating asset using the 'diminishing value method' under section 40-70 - where the asset has been acquired by an entity in an income year in which Australian currency was the required unit of account for income tax purposes. Where such an entity subsequently chooses to use the 'applicable functional currency' to work out its taxable income or tax loss, the application of the two step translation in section 960-85 potentially becomes an issue. 122. The first step of the calculation of the decline in value deduction under subsection 40-70(1) is to work out the 'base value'. This is defined in the subsection (for a year after the income year in which the asset's 'start time' occurs), as 'the sum of its *opening adjustable value for that year and any amount included in the second element of its cost for that year'. 123. As previously noted, subsection 40-85(2) prescribes that the 'opening adjustable value' of a depreciating asset for the current year will be its 'adjustable value 'at the end of the previous income year'. 124. Under subsection 40-85(1) the 'adjustable value' at the end of the previous income year, (assuming that the asset has prior to that time, been in use or installed ready for use), is the 'adjustable value' at the start of the previous income year plus any 'second element of cost' amount for that year - and less the decline in value for that (previous income) year. 125. Subsection 40-85(2) then applies again to say that the 'adjustable value' at the start of the previous income year, was the asset's 'adjustable value' at the end of the income year before the previous income year, and so on. 126. As a result, a strict application of the 'elements rule' in subsection 960-80(4) would lead back to the amount identified in paragraph 40-85(1)(a), being the 'adjustable value' of the depreciating asset at the time when it had not yet been used or installed ready for use - that is, its cost. 127. Based on the above it can be seen that what is the relevant amount and 'event time' for the purposes of section 960-85 in this case, will depend on how far back to extend the operation of the 'elements rule' - that is, whether to extend its operation back only to an identification of the first element for the previous year, or back further to the cost of the asset. 128. The correct approach under section 960-85 is to identify the 'amount' that is most relevant to the calculation of the appropriate annual net amount - and translate that 'amount' to the 'applicable functional currency'. The most obvious and practical application of the 'elements rule' in a case of this nature then, is to extend it back only so far as the identification of the 'adjustable value' of the asset at the end of the previous year - as this is the latest amount relevant to the calculation of the decline in value deduction not arising in the year the 'applicable functional currency' choice is to take effect. 129. The question then arises as to what 'event or state of affairs' the relevant amount of 'adjustable value' is 'attributable to'. The amount has its origins in sections 40-70 and 40-85, and is mainly a statutory concept. It is appropriate to examine those provisions to identify the most relevant 'event or state of affairs' which has caused the amount. 130. It is considered that the fact that the statutory description of the amount is one that relates to the monetary value for decline in value purposes at the end of the previous year, is a telling pointer in support of identifying that time as the 'event time', for the purposes of section 960-85. 131. Accordingly, in such a case, the operation of the two step translation in section 960-85 would mean: (a)the closing 'adjustable value' of the asset at the end of the previous income year in Australian currency is translated to Australian currency on a one to one basis; and then
+(b)that amount is translated to the 'applicable functional currency' at the exchange rate applying at the beginning of the current year, being the time the choice to use this currency takes effect. The appropriate translation treatment for the 'adjustable value' of a depreciating asset using the DMV where there is a withdrawal of 'applicable functional currency' choice under section 960-90 of Subdivision 960-D and no choice to use another 'applicable functional currency' has been made As mentioned previously, the 'amounts' in the accounts as at 31 December 2010 include an amount representing the 'adjustable value' of a depreciating asset using the DMV. Like all other foreign currency denominated amounts, this 'adjustable value' amount must be translated from (the previous 'applicable functional currency' of) USD to AUD for income tax purposes, under section 960-50 of Subdivision 960-C.
 Applying the principles outlined in TR 2007/5 means that the 'adjustable value' amount of the depreciating asset subject to the DMV in USD at the end of the previous year would be required to be translated to AUD at the relevant exchange rate applying at that time, being the time the choice to use the 'applicable functional currency' ceases to have effect.
-The 'adjustable value' of the depreciating asset in USD as at 31 December 2010, upon translation to AUD, will become the 'opening adjustable value' of the depreciating asset in AUD as at 1 January 2011.
-
-Accounting Standard AASB 121 - change in functional currency
-
-The above approach is consistent with Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates, which applies to annual reporting periods beginning on or after 1 January 2005. Paragraphs 35 and 37 of Accounting Standard AASB 121 provide that:
-
-Change in Functional Currency
-
-35 When there is a change in an entity's functional currency, the entity shall apply the translation procedures applicable to the new functional currency prospectively from the date of the change . ...
-
-37 The effect of a change in functional currency is accounted for prospectively. In other words, an entity translates all items into the new functional currency using the exchange rate at the date of the change. The resulting translated amounts for non-monetary items are treated as their historical cost.
-
-In this regard, the withdrawal by the entity of its 'applicable functional currency' choice while making no choice to use another 'applicable functional currency', is equivalent to a change in the entity's functional currency for income tax purposes from USD to AUD.
-Date of decision:
-  21 September 2011
-
-Year of income:
-  30 June 2012
-
-Legislative References:
-
-Corporations Act 2001   section 292
-Income Tax Assessment Act 1936   subsection 20(1) (repealed as of 1 July 2003)
-Income Tax Assessment Act 1997   section 40-70   subsection 40-70(1)   section 40-85   subsection 40-85(1)   paragraph 40-85(1)(a)   subsection 40-85(2)   Subdivision 960-C   section 960-50   subsection 960-50(1)   subsection 960-50(6)   subsection 960-50(7)   section 960-55   Subdivision 960-D   subsection 960-60(1)   paragraph 960-60(3)(a)   section 960-70   section 960-80   subsection 960-80(1)   subsection 960-80(1), Item 1   subsection 960-80(4)   subsection 960-80(6)   section 960-85   subsection 960-85(1), Item 1   section 960-90   subsection 960-90(1)   subsection 960-90(2)
-Income Tax Assessment Regulations 1997   Regulation 960-50.01   Regulation 960-50.01, Item 11A
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2007/5
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/222
-
-Other References:
-
-Accounting Standard AASB 121
-
-Keywords
-
-Accounts
- Applicable functional currency
- Functional currency choice
- Functional currency translation
-
-Siebel/TDMS Reference Number:
-  1-3H1IGG6
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 October 2011
-
-ISSN:
- 1445-2782
+The 'adjustable value' of the depreciating asset in USD as at 31 December 2010, upon translation to AUD, will become the 'opening adjustable value' of the depreciating asset in AUD as at 1 January 2011. Accounting Standard AASB 121 - change in functional currency The above approach is consistent with Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates, which applies to annual reporting periods beginning on or after 1 January 2005. Paragraphs 35 and 37 of Accounting Standard AASB 121 provide that: Change in Functional Currency 35 When there is a change in an entity's functional currency, the entity shall apply the translation procedures applicable to the new functional currency prospectively from the date of the change . ... 37 The effect of a change in functional currency is accounted for prospectively. In other words, an entity translates all items into the new functional currency using the exchange rate at the date of the change. The resulting translated amounts for non-monetary items are treated as their historical cost. In this regard, the withdrawal by the entity of its 'applicable functional currency' choice while making no choice to use another 'applicable functional currency', is equivalent to a change in the entity's functional currency for income tax purposes from USD to AUD.
+Date of decision: 21 September 2011 Year of income: 30 June 2012 Legislative References: Corporations Act 2001 section 292
+Income Tax Assessment Act 1936 subsection 20(1) (repealed as of 1 July 2003)
+Income Tax Assessment Act 1997 section 40-70 subsection 40-70(1) section 40-85 subsection 40-85(1) paragraph 40-85(1)(a) subsection 40-85(2) Subdivision 960-C section 960-50 subsection 960-50(1) subsection 960-50(6) subsection 960-50(7) section 960-55 Subdivision 960-D subsection 960-60(1) paragraph 960-60(3)(a) section 960-70 section 960-80 subsection 960-80(1) subsection 960-80(1), Item 1 subsection 960-80(4) subsection 960-80(6) section 960-85 subsection 960-85(1), Item 1 section 960-90 subsection 960-90(1) subsection 960-90(2)
+Income Tax Assessment Regulations 1997 Regulation 960-50.01 Regulation 960-50.01, Item 11A Related Public Rulings (including Determinations) Taxation Ruling TR 2007/5 Related ATO Interpretative Decisions ATO ID 2010/222 Other References: Accounting Standard AASB 121 Keywords Accounts Applicable functional currency Functional currency choice Functional currency translation Siebel/TDMS Reference Number: 1-3H1IGG6 Business Line: Public Groups and International Date of publication: 28 October 2011 ISSN: 1445-2782

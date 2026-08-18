@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/886
-==================================================
-
-Income tax
-
-Financial Sector (Business Transfer and Group Restructure) Act 1999:
- transfer of revenue assets
- FOI status: may be released
-
-This ATO ID is currently under review.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Financial Sector (Business Transfer and Group Restructure) Act 1999: transfer of revenue assets FOI status: may be released This ATO ID is currently under review. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a credit union business is voluntarily transferred to another eligible credit union business, pursuant to the provisions of the under the Financial Sector (Business Transfer and Group Restructure) Act 1999 (FSBTGR Act) what are the acquisition costs the receiving body is taken to have incurred in respect of revenue assets at the effective date of transfer, for the purposes of Division 977 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 The receiving body is taken to have incurred acquisition costs in respect of revenue assets at the effective date of transfer, for the purposes of Division 977 of the ITAA 1997, equal to the amount of debt owing on securities at the effective date of transfer.
@@ -29,41 +14,8 @@ The FSBTGR Act was enacted to enhance stability in the Australian financial sect
 The FSBTGR Act empowers APRA to approve, and in some circumstances to compel amalgamations of eligible entities for the purpose of enhancement of the Australian financial sector. For practical purposes, the aim of the FSBTGR Act is to enable APRA to provide certainty that an endorsed transfer is effective at law to ensure that the rights and liabilities of the transferring entity survive in the new entity.
 This certainty is achieved by APRA issuing a certificate of transfer pursuant to section 18 of the FSBTGR Act stating that the transfer is to take effect on the date specified.
 Broadly, section 22 of the FSBTGR Act provides that when APRA issues a certificate of transfer, the receiving body becomes the successor in law of the transferring body. In particular, all the assets and liabilities of the transferring body become assets and liabilities of the receiving body without any additional formality. Further, the totality of duties, obligations, immunities, rights and privileges applying to the transferring body apply to the receiving body.
-Subject to the relevant circumstances of each case of voluntary total transfer of business sanctioned under the FSBTGR Act the Commissioner will aim to administer the tax law in such a way that it complements the operation of the FSBTGR Act and promotes stated objectives of the legislation. In practice this will be accomplished by adopting adjustments on the basis of acceptable valuations.
-
-Amendment History
-
-Date of Amendment
-Comment
-
-20 May 2011
-This ATO ID was amended by replacing references to the Financial Sector (Transfers of Business) Act 1999 with references to the Financial Sector (Business Transfer and Group Restructure) Act 1999.
-
-Date of decision:
-  26 February 2004
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 977
-Financial Sector (Transfers of Business) Act 1999   section 18   section 20   section 22
-Banking Act 1959   the Act
-
-Keywords
-
-Acquisition of business
- Revenue assets
-
-Siebel/TDMS Reference Number:
-  294582
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  19 November 2004
-
-ISSN:
- 1445-2782
+Subject to the relevant circumstances of each case of voluntary total transfer of business sanctioned under the FSBTGR Act the Commissioner will aim to administer the tax law in such a way that it complements the operation of the FSBTGR Act and promotes stated objectives of the legislation. In practice this will be accomplished by adopting adjustments on the basis of acceptable valuations. Amendment History Date of Amendment
+Comment 20 May 2011
+This ATO ID was amended by replacing references to the Financial Sector (Transfers of Business) Act 1999 with references to the Financial Sector (Business Transfer and Group Restructure) Act 1999. Date of decision: 26 February 2004 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Division 977
+Financial Sector (Transfers of Business) Act 1999 section 18 section 20 section 22
+Banking Act 1959 the Act Keywords Acquisition of business Revenue assets Siebel/TDMS Reference Number: 294582 Business Line: Public Groups and International Date of publication: 19 November 2004 ISSN: 1445-2782

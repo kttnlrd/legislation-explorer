@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/35
-==================================================
-
-Income Tax
- Functional currency: requirement for a foreign resident to use the applicable functional currency to work out the amount of a capital gain or capital loss on indirect Australian real property interests.
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Functional currency: requirement for a foreign resident to use the applicable functional currency to work out the amount of a capital gain or capital loss on indirect Australian real property interests. FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purposes of subsection 960-61(2) of Subdivision 960-D of the Income Tax Assessment Act 1997 (ITAA 1997), does the word 'must' as contained in that subsection require a foreign resident to use the applicable functional currency to work out the amount of a capital gain or capital loss, (if any) as derived from a CGT event in relation to a CGT asset that is an indirect Australian real property interest?
 Decision
 Yes. For the purposes of subsection 960-61(2) of the ITAA 1997, the word 'must' as contained in that subsection does require a foreign resident to use the applicable functional currency to work out the amount of a capital gain or capital loss, (if any) as derived from a CGT event in relation to a CGT asset that is an indirect Australian real property interest.
@@ -21,206 +10,22 @@ The taxpayer is a foreign resident company incorporated and resident in an overs
 The foreign resident company sold its indirect Australian real property interest resulting in the company making a capital gain from a CGT event.
 For the purposes of section 855-10(1) of the ITAA 1997 the capital gain is not to be disregarded, as an indirect Australian real property interest is taxable Australian property (per item 2 of the table in section 855-15 of the ITAA 1997).
 The sole or predominant currency in which the foreign resident company kept its accounts at the time of the CGT event was a currency other than Australian currency.
-Reasons for Decision
-
-Background to section 960-61 of Subdivision 960-D of the ITAA 1997
-
-Section 960-61 of the ITAA 1997 provides that a foreign resident 'must' use the applicable functional currency to work out the amount of a capital gain or capital loss where a CGT event happens in relation to a CGT asset that is an indirect Australian real property interest: if, at the time of the CGT event, the foreign resident keeps its accounts (solely or predominantly) in a currency other than Australian currency.
-Section 960-61 of the ITAA 1997 states:
-
-Section 960-61 Functional currency for calculating capital gains and losses on indirect Australian real property interests
-
-960-61(1) of the ITAA 1997 subsection (2) applies if:
-
-(a)you are a foreign resident; and
+Reasons for Decision Background to section 960-61 of Subdivision 960-D of the ITAA 1997 Section 960-61 of the ITAA 1997 provides that a foreign resident 'must' use the applicable functional currency to work out the amount of a capital gain or capital loss where a CGT event happens in relation to a CGT asset that is an indirect Australian real property interest: if, at the time of the CGT event, the foreign resident keeps its accounts (solely or predominantly) in a currency other than Australian currency.
+Section 960-61 of the ITAA 1997 states: Section 960-61 Functional currency for calculating capital gains and losses on indirect Australian real property interests 960-61(1) of the ITAA 1997 subsection (2) applies if: (a)you are a foreign resident; and
 (b)a *CGT event happens in relation to a *CGT asset that is an *indirect Australian real property interest for you; and
-(c)the sole or predominant currency in which you keep your accounts at the time of the CGT event is a currency other than Australian currency.
-
-960-61(2) You must use the *applicable functional currency to work out the amount of your *capital gain or *capital loss (if any).
-
-Section 960-61 of the ITAA 1997 was introduced at the same time as Division 855 of the ITAA 1997 and Subdivision 960-GP of the ITAA 1997 to alleviate compliance costs for foreign residents that realise a capital gain or capital loss on indirect Australian real property interests by directing them to use their applicable functional currency. The Explanatory Memorandum to Tax Laws Amendment (2006 Measures No. 4) Bill 2006 (Cth) which inserted Division 855 and Subdivision 960-GP into the ITAA 1997 stated that:
-
-What is an indirect real property interest
- ?
-
-4.30 An indirect Australian real property interest concept has been introduced to strengthen Australia's foreign resident CGT tax base. This ensures that the disposal of an interest in Australian real property is subject to Australian CGT regardless of whether the interest is held directly or indirectly. There are certain conditions to be met in applying the indirect Australian real property interest concept that are intended to reduce compliance costs for foreign residents, while maintaining consistency with Australia's taxing rights under tax treaty practice. This lessens the distorting effect that differing CGT consequences can have on business structures chosen to invest into Australia. ...
-
-4.115 A foreign resident will be able to use the applicable functional currency to calculate the capital gain or capital loss. In order to reduce compliance costs, a foreign resident will not have to make an election to do so. [Schedule 4, items 97 to 99, section 960-61, subsection 960-70(3) and the table in subsection 960-80(1)]
-
-Is the word 'must' used in an imperative/mandatory or directory/permissive sense?
-
-Ordinarily the word 'must' as contained in subsection 960-61(2) of the ITAA 1997 is used in an imperative sense (that is to indicate a command, obligation, duty, necessity or inevitability, something which is a mandatory or compulsory requirement, prescribing the course to be followed).
+(c)the sole or predominant currency in which you keep your accounts at the time of the CGT event is a currency other than Australian currency. 960-61(2) You must use the *applicable functional currency to work out the amount of your *capital gain or *capital loss (if any). Section 960-61 of the ITAA 1997 was introduced at the same time as Division 855 of the ITAA 1997 and Subdivision 960-GP of the ITAA 1997 to alleviate compliance costs for foreign residents that realise a capital gain or capital loss on indirect Australian real property interests by directing them to use their applicable functional currency. The Explanatory Memorandum to Tax Laws Amendment (2006 Measures No. 4) Bill 2006 (Cth) which inserted Division 855 and Subdivision 960-GP into the ITAA 1997 stated that: What is an indirect real property interest ? 4.30 An indirect Australian real property interest concept has been introduced to strengthen Australia's foreign resident CGT tax base. This ensures that the disposal of an interest in Australian real property is subject to Australian CGT regardless of whether the interest is held directly or indirectly. There are certain conditions to be met in applying the indirect Australian real property interest concept that are intended to reduce compliance costs for foreign residents, while maintaining consistency with Australia's taxing rights under tax treaty practice. This lessens the distorting effect that differing CGT consequences can have on business structures chosen to invest into Australia. ... 4.115 A foreign resident will be able to use the applicable functional currency to calculate the capital gain or capital loss. In order to reduce compliance costs, a foreign resident will not have to make an election to do so. [Schedule 4, items 97 to 99, section 960-61, subsection 960-70(3) and the table in subsection 960-80(1)] Is the word 'must' used in an imperative/mandatory or directory/permissive sense? Ordinarily the word 'must' as contained in subsection 960-61(2) of the ITAA 1997 is used in an imperative sense (that is to indicate a command, obligation, duty, necessity or inevitability, something which is a mandatory or compulsory requirement, prescribing the course to be followed).
 'Must is a word of absolute obligation ... It is not merely directory'; Posner v. Collector for Inter-State Destitute Persons (Victoria) (1947) 74 CLR 461 at 490, per Williams J. 'Prima facie the use of the word "must" is intended to be emphatic and to indicate that there is a positive obligation on those affected by the provisions to comply strictly with them'; Deputy Commissioner of Taxation v. Comcorp Australia Ltd. 70 FCR 356; (1996) 14 ACLC 1616; (1996) 21 ACSR 590, per Sheppard J.
-Consistent with this, in Kosovich v. Mancini (1982) 31 SASR 272 at 275, Millhouse J noted that:
-
-It seems to me that "must be determined" imposes an obligation which cannot be regarded as directory only. I have looked both in the dictionary and in Maxwell. The appropriate meaning of "must" in the Shorter Oxford English Dictionary is: "expressing necessity: Am (is are) obliged or required to; have (has) to; it is necessary that (I, you, he, it, etcetera) should". "In ordinary usage, "may" is permissive and "must" is imperative" (Maxwell on Interpretation of Statutes, 12th ed. (1969) p. 324). ...
-
-If the wish of Parliament had been to make the subsection directory it could easily have done so by using the word "may" instead of the word "must". As well, one would then have expected the phrase in (b) "when so determined" to have been "if so determined". Effect should be given to what is to be assumed was a conscious use by Parliament of the word "must" rather than "may".
-
-Likewise, Batt J in Re Dalton (1995) 120 FLR 408 at 411 (affirmed by Goldberg J in Carter v. Commissioner of Taxation (2001) 109 FCR 215; 2001 ATC 4260; (2001) 47 ATR 133 and Ryan J in Krampel Newman Partners Pty. Ltd. v. Commissioner of Taxation (2001) 113 FCR 306; 2001 ATC 4473; (2001) 47 ATR 526); observed that:
-
-For the reasons which I gave in Keller and Conrad v. City of Sandringham and Ors (unreported, 21 July 1995) the word "must" is, in my view, the word of most insistent obligation in the English language, and is, if anything, stronger than the word "shall".
-
-Batt J had earlier held in Keller, Hans & Conrad, Doris v. City of Sandringham & Ors [Bayside City Council] [1996] 1 VR 356; (1995) 8 VAR 377, that:
-
-In my judgment, the time requirement in s 8(2) is mandatory, not directory. I rely both upon the general considerations concerning the Act referred to by Beach J and King J in the cases cited earlier and particularly upon the use of the word "must". The use of that word is to be contrasted with the use earlier in the subsection of the word "may". The word "must" is, in my view, the word of most insistent obligation in the English language. The relevant meaning of it is that given in sense II 3, in the Oxford English Dictionary (2nd ed), where it is described as "expressing necessity" in the senses of "is obliged or required to; has to; it is necessary that". In the Macquarie Dictionary (revised edition) the relevant meaning is that in sense 1, namely, "to be bound by some imperative requirement". In CT Onions, Modern English Syntax, para 131 it is stated that "must" expresses "necessity and obligation". Quirk and Ors, A Comprehensive Grammar of English Language, para 4-51 and para 4-54 describes it as a modal verb denoting obligation or compulsion. Relevantly, according to the authors' schema, it is a verb of intrinsic and committed modality denoting obligation or compulsion.
-
-In Kathleen Ethel Adams and Veteran's Review Board [1992] AATA 281; (1992) 16 AAR 307; the Administrative Appeals Tribunal noted that:
-
-25. The use of the word "must" indicates that the provisions are mandatory and not directory. Words alone, of course, will not necessarily categorise statutory injunctions. The courts consider the true effect of the legislation in an endeavour to determine whether a provision is to be regarded as mandatory or obligatory on the one hand, or discretionary or directory on the other. ...
-
-27. Prima facie, affirmative words impose a duty whereas permissive words indicate a discretion. ... The applicant carries the burden of showing that the word "must" has a meaning apparently contrary to its grammatical effect. In my view, it has not been demonstrated in this case. As "prima facie ... permissive or facultative expressions operate according to their ordinary natural meaning" (Finance Facilities Pty Limited v. Federal Commissioner of Taxation 127 CLR 106 at 138) so also the opposite inference applies where an element of obligation is imported into the statute by the words used.
-
-Subsequently, in Re Rodda and Principal Member, Veterans' Review Board, (2005) 88 ALD 188; [2005] AATA 655; BC200508600 (affirmed by - Rodda v. Repatriation Commission (2006) 156 FCR 227, 93 ALD 541, [2006] FCA 1689, [2007] ALMD 4057); the Administrative Appeals Tribunal quoted the above extracts from the decision in Adams adding that:
-
-[12]
- Counsel for the respondent submitted that the reasoning in Adams, above, is no longer persuasive, having been overtaken by the decision of the High Court in Project Blue Sky Inc v. Australian Broadcasting Authority (1998) 194 CLR 355; 153 ALR 490; [1998] HCA 28.
-
-[13]
- In that decision the High Court expressed agreement with the New South Wales Court of Appeal in Tasker v Fullwood [1978] 1 NSWLR 20 (Tasker), which criticised the use of a distinction between directory and mandatory requirements in legislation and embraced instead posing the question of whether it was a purpose of the legislation that an act done in breach of the provisions should be invalid. The High Court said at CLR 390-1; ALR 517 that in identifying the purpose "regard must be held to 'the language of the relevant provision and the scope and object of the whole statute'". The majority also held (at CLR 389; ALR 515):
-
-The existence of the purpose is ascertained by reference to the language of the statute, its subject matter and objects, and the consequences for the parties of holding void every act done in breach of the condition.
-
-Consideration
-
-[19]
- I am mindful of the decision in Adams, above, which has, as yet, not been disturbed by this tribunal and which, if followed, would lead me to affirm the decision under review.
-
-[20]
- However, the application of the principles in Tasker, above, yields, in my view, a similar result.
-
-[21]
- Turning first to the language of the provisions, the repeated use of the word "must" in both ss 155AA and 155AC cannot be ignored. In any hierarchy of terms available to be used, that word is the most affirmative. The word "must" has a strong grammatical effect - an effect that is stronger than a range of other words that might have been used in the provisions - e.g. shall, will. I must be mindful of the "fair meaning of its language".
-
-In Ozone Manufacturing Pty. Ltd. v. Deputy Commissioner of Taxation [2006] SASC 91; (2006) 62 ATR 142 at paragraph 35, Debelle J stated that:
-
-35 The word "must" is, generally speaking, a word of obligation. It has been described as "a word of absolute obligation" in Posner v. Collector for Interstate Destitute Persons (Victoria) (1946) 74 CLR 461 per Williams J at 490; Chun Wang v. Minister for Immigration & Multicultural Affairs (1997) 71 FCR 386 at 391. It was called "a word of imperative obligation" in R v. Garner [1994] 1 VR 400 at 402. In certain contexts, it might have a directory as distinct from a mandatory operation, a distinction which has been criticised as elusive: Tasker v. Fullwood [1978] 1 NSWLR 20 at 23-24, affirmed in Project Blue Sky Inc v. Australian Broadcasting Authority (1998) 194 CLR 355 at [93]. Plainly, the question whether "must" is a word of obligation and, if it is, the force of the obligation will depend on the statutory context and the nature of the obligation in the context in which the obligation is to be performed. In this context, the word "must" can only be reasonably understood to mean that it imposes an obligation upon the Commissioner to pay to a taxpayer any amount due to the taxpayer under a taxation law.
-
-Context, language, scope and object of the statute
-
-Applying the common law cited above, an imperative or mandatory construction (as opposed to a permissive or enabling construction) of the word 'must' in subsection 960-61(2) of the ITAA 1997 is correct, unless an absurdity, inconvenient consequence or improbable intention would result from such a construction (per Dixon J in Re Davis (1947) 75 CLR 409).
+Consistent with this, in Kosovich v. Mancini (1982) 31 SASR 272 at 275, Millhouse J noted that: It seems to me that "must be determined" imposes an obligation which cannot be regarded as directory only. I have looked both in the dictionary and in Maxwell. The appropriate meaning of "must" in the Shorter Oxford English Dictionary is: "expressing necessity: Am (is are) obliged or required to; have (has) to; it is necessary that (I, you, he, it, etcetera) should". "In ordinary usage, "may" is permissive and "must" is imperative" (Maxwell on Interpretation of Statutes, 12th ed. (1969) p. 324). ... If the wish of Parliament had been to make the subsection directory it could easily have done so by using the word "may" instead of the word "must". As well, one would then have expected the phrase in (b) "when so determined" to have been "if so determined". Effect should be given to what is to be assumed was a conscious use by Parliament of the word "must" rather than "may". Likewise, Batt J in Re Dalton (1995) 120 FLR 408 at 411 (affirmed by Goldberg J in Carter v. Commissioner of Taxation (2001) 109 FCR 215; 2001 ATC 4260; (2001) 47 ATR 133 and Ryan J in Krampel Newman Partners Pty. Ltd. v. Commissioner of Taxation (2001) 113 FCR 306; 2001 ATC 4473; (2001) 47 ATR 526); observed that: For the reasons which I gave in Keller and Conrad v. City of Sandringham and Ors (unreported, 21 July 1995) the word "must" is, in my view, the word of most insistent obligation in the English language, and is, if anything, stronger than the word "shall". Batt J had earlier held in Keller, Hans & Conrad, Doris v. City of Sandringham & Ors [Bayside City Council] [1996] 1 VR 356; (1995) 8 VAR 377, that: In my judgment, the time requirement in s 8(2) is mandatory, not directory. I rely both upon the general considerations concerning the Act referred to by Beach J and King J in the cases cited earlier and particularly upon the use of the word "must". The use of that word is to be contrasted with the use earlier in the subsection of the word "may". The word "must" is, in my view, the word of most insistent obligation in the English language. The relevant meaning of it is that given in sense II 3, in the Oxford English Dictionary (2nd ed), where it is described as "expressing necessity" in the senses of "is obliged or required to; has to; it is necessary that". In the Macquarie Dictionary (revised edition) the relevant meaning is that in sense 1, namely, "to be bound by some imperative requirement". In CT Onions, Modern English Syntax, para 131 it is stated that "must" expresses "necessity and obligation". Quirk and Ors, A Comprehensive Grammar of English Language, para 4-51 and para 4-54 describes it as a modal verb denoting obligation or compulsion. Relevantly, according to the authors' schema, it is a verb of intrinsic and committed modality denoting obligation or compulsion. In Kathleen Ethel Adams and Veteran's Review Board [1992] AATA 281; (1992) 16 AAR 307; the Administrative Appeals Tribunal noted that: 25. The use of the word "must" indicates that the provisions are mandatory and not directory. Words alone, of course, will not necessarily categorise statutory injunctions. The courts consider the true effect of the legislation in an endeavour to determine whether a provision is to be regarded as mandatory or obligatory on the one hand, or discretionary or directory on the other. ... 27. Prima facie, affirmative words impose a duty whereas permissive words indicate a discretion. ... The applicant carries the burden of showing that the word "must" has a meaning apparently contrary to its grammatical effect. In my view, it has not been demonstrated in this case. As "prima facie ... permissive or facultative expressions operate according to their ordinary natural meaning" (Finance Facilities Pty Limited v. Federal Commissioner of Taxation 127 CLR 106 at 138) so also the opposite inference applies where an element of obligation is imported into the statute by the words used. Subsequently, in Re Rodda and Principal Member, Veterans' Review Board, (2005) 88 ALD 188; [2005] AATA 655; BC200508600 (affirmed by - Rodda v. Repatriation Commission (2006) 156 FCR 227, 93 ALD 541, [2006] FCA 1689, [2007] ALMD 4057); the Administrative Appeals Tribunal quoted the above extracts from the decision in Adams adding that: [12] Counsel for the respondent submitted that the reasoning in Adams, above, is no longer persuasive, having been overtaken by the decision of the High Court in Project Blue Sky Inc v. Australian Broadcasting Authority (1998) 194 CLR 355; 153 ALR 490; [1998] HCA 28. [13] In that decision the High Court expressed agreement with the New South Wales Court of Appeal in Tasker v Fullwood [1978] 1 NSWLR 20 (Tasker), which criticised the use of a distinction between directory and mandatory requirements in legislation and embraced instead posing the question of whether it was a purpose of the legislation that an act done in breach of the provisions should be invalid. The High Court said at CLR 390-1; ALR 517 that in identifying the purpose "regard must be held to 'the language of the relevant provision and the scope and object of the whole statute'". The majority also held (at CLR 389; ALR 515): The existence of the purpose is ascertained by reference to the language of the statute, its subject matter and objects, and the consequences for the parties of holding void every act done in breach of the condition. Consideration [19] I am mindful of the decision in Adams, above, which has, as yet, not been disturbed by this tribunal and which, if followed, would lead me to affirm the decision under review. [20] However, the application of the principles in Tasker, above, yields, in my view, a similar result. [21] Turning first to the language of the provisions, the repeated use of the word "must" in both ss 155AA and 155AC cannot be ignored. In any hierarchy of terms available to be used, that word is the most affirmative. The word "must" has a strong grammatical effect - an effect that is stronger than a range of other words that might have been used in the provisions - e.g. shall, will. I must be mindful of the "fair meaning of its language". In Ozone Manufacturing Pty. Ltd. v. Deputy Commissioner of Taxation [2006] SASC 91; (2006) 62 ATR 142 at paragraph 35, Debelle J stated that: 35 The word "must" is, generally speaking, a word of obligation. It has been described as "a word of absolute obligation" in Posner v. Collector for Interstate Destitute Persons (Victoria) (1946) 74 CLR 461 per Williams J at 490; Chun Wang v. Minister for Immigration & Multicultural Affairs (1997) 71 FCR 386 at 391. It was called "a word of imperative obligation" in R v. Garner [1994] 1 VR 400 at 402. In certain contexts, it might have a directory as distinct from a mandatory operation, a distinction which has been criticised as elusive: Tasker v. Fullwood [1978] 1 NSWLR 20 at 23-24, affirmed in Project Blue Sky Inc v. Australian Broadcasting Authority (1998) 194 CLR 355 at [93]. Plainly, the question whether "must" is a word of obligation and, if it is, the force of the obligation will depend on the statutory context and the nature of the obligation in the context in which the obligation is to be performed. In this context, the word "must" can only be reasonably understood to mean that it imposes an obligation upon the Commissioner to pay to a taxpayer any amount due to the taxpayer under a taxation law. Context, language, scope and object of the statute Applying the common law cited above, an imperative or mandatory construction (as opposed to a permissive or enabling construction) of the word 'must' in subsection 960-61(2) of the ITAA 1997 is correct, unless an absurdity, inconvenient consequence or improbable intention would result from such a construction (per Dixon J in Re Davis (1947) 75 CLR 409).
 Much will depend on the context in which the word is used (see Director of Public Prosecutions v. George [2008] SASC 330 at paragraphs 186-187, 191). Hence, 'each statute, rule or regulation must be looked at in the light of its own language and of its particular scope and object'; per Hope JA in Hatton v. Beaumont [1977] 2 NSWLR 211. 'The only true guide to the statutory intention is to be found in the language of the relevant provision and the scope and object of the whole statute'; per Tasker v Fullwood [1978] 1 NSWLR 20.
-In the Full High Court decision in Finance Facilities Pty. Ltd. v. Federal Commissioner of Taxation (1971) 127 CLR 106; (1971) 2 ATR 573; 71 ATC 4225, Windeyer J stated that:
-
-The question, which comes back to the words "may allow", is not to be solved by concentrating on the word "may" apart from its context. Still less is the question answered by saying that "may" here means "shall". While Parliament uses the English language the word "may" in a statute means may. ...
-
-This does not depend on the abstract meaning of the word "may" but of whether the particular context of words and circumstances make it not only an empowering word but indicate circumstances in which the power is to be exercised - so that in those events the "may" becomes a "must". Illustrative cases go back to 1693: R. v. Barlow, Carth. 293. Today it is enough to cite Julius v. The Lord Bishop of Oxford (1879), 5 App. Cas. 214; and add in this Court Ward v. Williams (1955), 92 C.L.R. 496 at pp. 505-506.
-
-(See also Commissioner of State Revenue (Vic) .v Royal Insurance Australia Ltd. [1994] HCA 61; 94 ATC 4960; (1994) 182 CLR 51 and Cumins v. DC of T 2007 ATC 5459; (2007) 68 ATR 39.)
+In the Full High Court decision in Finance Facilities Pty. Ltd. v. Federal Commissioner of Taxation (1971) 127 CLR 106; (1971) 2 ATR 573; 71 ATC 4225, Windeyer J stated that: The question, which comes back to the words "may allow", is not to be solved by concentrating on the word "may" apart from its context. Still less is the question answered by saying that "may" here means "shall". While Parliament uses the English language the word "may" in a statute means may. ... This does not depend on the abstract meaning of the word "may" but of whether the particular context of words and circumstances make it not only an empowering word but indicate circumstances in which the power is to be exercised - so that in those events the "may" becomes a "must". Illustrative cases go back to 1693: R. v. Barlow, Carth. 293. Today it is enough to cite Julius v. The Lord Bishop of Oxford (1879), 5 App. Cas. 214; and add in this Court Ward v. Williams (1955), 92 C.L.R. 496 at pp. 505-506. (See also Commissioner of State Revenue (Vic) .v Royal Insurance Australia Ltd. [1994] HCA 61; 94 ATC 4960; (1994) 182 CLR 51 and Cumins v. DC of T 2007 ATC 5459; (2007) 68 ATR 39.)
 'However, if the language of a statutory provision is clear and unambiguous, and is consistent and harmonious with the other provisions of the enactment, and can be intelligibly applied to the subject matter with which it deals, it must be given its ordinary and grammatical meaning', per Gibbs CJ in Cooper Brookes (Wollongong) Pty. Limited v. Federal Commissioner of Taxation 81 ATC 4292; 11 ATR 949.
-As the High Court stated per Hayne, Heydon, Crennan and Kiefel JJ in Alcan (NT) Alumina Pty. Ltd. v. Commissioner of Territory Revenue (NT) [2009] HCA 41; 2009 ATC 20-134:
-
-47. ... the task of statutory construction must begin with a consideration of the text itself. Historical considerations and extrinsic materials cannot be relied on to displace the clear meaning of the text. The language which has actually been employed in the text of legislation is the surest guide to legislative intention. The meaning of the text may require consideration of the context, which includes the general purpose and policy of a provision, in particular the mischief it is seeking to remedy.
-
-Statutory context of subsection 960-61(2) of the ITAA 1997
-
-The language used in subsection 960-70(3A) of the ITAA 1997 and item 6 of subsection 960-80(1) of Subdivision 960-D of the ITAA 1997 is relevant in providing the statutory context of subsection 960-61(2) of the ITAA 1997, as they were introduced into the Subdivision together.
+As the High Court stated per Hayne, Heydon, Crennan and Kiefel JJ in Alcan (NT) Alumina Pty. Ltd. v. Commissioner of Territory Revenue (NT) [2009] HCA 41; 2009 ATC 20-134: 47. ... the task of statutory construction must begin with a consideration of the text itself. Historical considerations and extrinsic materials cannot be relied on to displace the clear meaning of the text. The language which has actually been employed in the text of legislation is the surest guide to legislative intention. The meaning of the text may require consideration of the context, which includes the general purpose and policy of a provision, in particular the mischief it is seeking to remedy. Statutory context of subsection 960-61(2) of the ITAA 1997 The language used in subsection 960-70(3A) of the ITAA 1997 and item 6 of subsection 960-80(1) of Subdivision 960-D of the ITAA 1997 is relevant in providing the statutory context of subsection 960-61(2) of the ITAA 1997, as they were introduced into the Subdivision together.
 Subsection 960-70(3A) of the ITAA 1997 states:
 If subsection 960-61(2) of the ITAA 1997 applies, your applicable functional currency for the purposes of that subsection is the sole or predominant currency in which you keep your accounts at the time of the * CGT event.
-Item 6 of subsection 960-80(1) of the ITAA 1997 states:
-
-In this case...
-these rules apply ...
-
-(a) you are a * foreign resident who makes a *capital gain or *capital loss from a *CGT event in relation to an asset that is an * indirect Australian real property interest; and
-(a) first, for the purpose of working out, for the income year, the amount of your capital gain or capital loss from the CGT event, an amount that is not in the applicable functional currency is to be translated into the applicable functional currency; and
-
-(b) you are required by subsection 960-61(2) to work out the amount of your capital gain or capital loss in the * applicable functional currency.
-(b) second, the amount of the capital gain or capital loss is to be translated into Australian currency.
-
-Item 6 of subsection 960-80(1) of the ITAA 1997 confirms that where a foreign resident makes a capital gain or capital loss from a CGT event in relation to an indirect Australian real property interest, the amount of the capital gain or capital loss is required to be worked out in the applicable functional currency - with amounts not in the applicable functional currency having to be translated into the applicable functional currency.
+Item 6 of subsection 960-80(1) of the ITAA 1997 states: In this case...
+these rules apply ... (a) you are a * foreign resident who makes a *capital gain or *capital loss from a *CGT event in relation to an asset that is an * indirect Australian real property interest; and
+(a) first, for the purpose of working out, for the income year, the amount of your capital gain or capital loss from the CGT event, an amount that is not in the applicable functional currency is to be translated into the applicable functional currency; and (b) you are required by subsection 960-61(2) to work out the amount of your capital gain or capital loss in the * applicable functional currency.
+(b) second, the amount of the capital gain or capital loss is to be translated into Australian currency. Item 6 of subsection 960-80(1) of the ITAA 1997 confirms that where a foreign resident makes a capital gain or capital loss from a CGT event in relation to an indirect Australian real property interest, the amount of the capital gain or capital loss is required to be worked out in the applicable functional currency - with amounts not in the applicable functional currency having to be translated into the applicable functional currency.
 Hence, an imperative interpretation fulfils both the stated purpose of parliament, the statutory context of subsection 960-61(2) of the ITAA 1997 and the ordinary meaning of the words used. No absurdity, inconvenient consequence or improbability results from an imperative construction of subsection 960-61(2) of the ITAA 1997. Consequently, there is nothing to necessitate an alternative construction of the words. The use of the word 'must' in subsection 960-61(2) of the ITAA 1997 is a confirmation that the procedures set forth in section 960-61 of the ITAA 1997 (and item 6 of subsection 960-80(1) of the ITAA 1997) are to be followed strictly; see Lend Lease Real Estate Investments Ltd. v. GPT Re Ltd. [2006] NSWCA 207 at paragraph 40, per Spigelman CJ.
 Accordingly, the foreign resident company is required under subsection 960-61(2) of the ITAA 1997 to work out its capital gain from the disposal of a CGT asset that is an indirect Australian real property interest, using its applicable functional currency as defined in subsection 960-70(3A) of the ITAA 1997.
-Date of decision:
-  30 April 2012
-
-Year of income:
-  year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 855   subsection 855-10(1)   section 855-15, Table Item 2   section 855-25   section 960-61   subsection 960-61(2)   subsection 960-70(3A)   subsection 960-80(1), Table Item 6   subdivision 960-GP   subdivision 960-D
-
-Case References:
-
-Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue (NT)   [2009] HCA 41   2009 ATC 20-134   (2009) 73 ATR 256
-
-Carter v Commissioner of Taxation   (2001) 109 FCR 215   2001 ATC 4260   (2001) 47 ATR 133
-
-Chun Wang v Minister for Immigration and Multicultural Affairs   (1997) 71 FCR 386
-
-Commissioner of State Revenue (Vic) v Royal Insurance Australia Ltd   [1994] HCA 61   94 ATC 4960   (1994) 29 ATR 173   (1994) 182 CLR 51
-
-Cooper Brookes (Wollongong) Pty Limited v FC of T   81 ATC 4292   (1981) 11 ATR 949
-
-Cumins v DC of T   2007 ATC 5459   (2007) 68 ATR 39
-
-Deputy Commissioner of Taxation v Comcorp Australia Ltd   70 FCR 356   (1996) 14 ACLC 1616   (1996) 21 ACSR 590
-
-Director of Public Prosecutions v George   [2008] SASC 330
-
-Finance Facilities Pty Ltd v Federal Commissioner of Taxation   (1971) 127 CLR 106   71 ATC 4225   (1971) 2 ATR 573
-
-Hatton v Beaumont   [1977] 2 NSWLR 211
-
-Julius v The Lord Bishop of Oxford   [1880] UKHL 1   (1880) 5 AC 214
-
-Kathleen Ethel Adams and Veterans' Review Board   [1992 ] AATA 281   (1992) 16 AAR 307
-
-Keller, Hans & Conrad, Doris v City of Sandringham & Ors [Bayside City Council]   [1996] 1 VR 356   (1995) 8 VAR 377
-
-Kosovich v Mancini   (1982) 31 SASR 272
-
-Krampel Newman Partners Pty Ltd v Commissioner of Taxation   (2001) 113 FCR 306   2001 ATC 4473   (2001) 47 ATR 526
-
-Lend Lease Real Estate Investments Ltd v GPT Re Ltd   [2006] NSWCA 207
-
-Ozone Manufacturing Pty Ltd v Deputy Commissioner of Taxation   [2006] SASC 91   (2006) 62 ATR 142
-
-Posner v Collector for Inter-State Destitute Persons (Victoria)   (1947) 74 CLR 461
-
-Project Blue Sky Inc v Australian Broadcasting Authority   (1998) 194 CLR 355   153 ALR 490
-
-R v Garner   [1994] 1 VR 400
-
-Re Davis   (1947) 75 CLR 409
-
-Re Dalton   (1995) 120 FLR 408
- Re Rodda and Principal Member, Veterans' Review Board BC200508600   (2005) 88 ALD 188   [2005] AATA 655
-
-Rodda v Repatriation Commission   (2006) 156 FCR 227   93 ALD 541   [2006] FCA 1689   [2007] ALMD 4057
-
-Tasker v Fullwood   [1978] 1 NSWLR 20
-
-Ward v Williams   (1954-55) 92 CLR 496
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/29
-
-Other References:
-
-P. St. J Langan, (1969) Maxwell on Interpretation of Statutes, 12th edition
- Explanatory Memorandum to Tax Laws Amendment (2006 Measures No. 4) Bill 2006
-
-Keywords
-
-Applicable functional currency
- Capital Gains Tax
- Functional currency
- Functional currency choice
- International Tax
- Non Resident Entities
- Statutory Interpretation
-
-Siebel/TDMS Reference Number:
-  1-3RVYPBH
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 May 2012
-
-ISSN:
- Disclaimer Type: General
+Date of decision: 30 April 2012 Year of income: year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1997 Division 855 subsection 855-10(1) section 855-15, Table Item 2 section 855-25 section 960-61 subsection 960-61(2) subsection 960-70(3A) subsection 960-80(1), Table Item 6 subdivision 960-GP subdivision 960-D Case References: Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue (NT) [2009] HCA 41 2009 ATC 20-134 (2009) 73 ATR 256 Carter v Commissioner of Taxation (2001) 109 FCR 215 2001 ATC 4260 (2001) 47 ATR 133 Chun Wang v Minister for Immigration and Multicultural Affairs (1997) 71 FCR 386 Commissioner of State Revenue (Vic) v Royal Insurance Australia Ltd [1994] HCA 61 94 ATC 4960 (1994) 29 ATR 173 (1994) 182 CLR 51 Cooper Brookes (Wollongong) Pty Limited v FC of T 81 ATC 4292 (1981) 11 ATR 949 Cumins v DC of T 2007 ATC 5459 (2007) 68 ATR 39 Deputy Commissioner of Taxation v Comcorp Australia Ltd 70 FCR 356 (1996) 14 ACLC 1616 (1996) 21 ACSR 590 Director of Public Prosecutions v George [2008] SASC 330 Finance Facilities Pty Ltd v Federal Commissioner of Taxation (1971) 127 CLR 106 71 ATC 4225 (1971) 2 ATR 573 Hatton v Beaumont [1977] 2 NSWLR 211 Julius v The Lord Bishop of Oxford [1880] UKHL 1 (1880) 5 AC 214 Kathleen Ethel Adams and Veterans' Review Board [1992 ] AATA 281 (1992) 16 AAR 307 Keller, Hans & Conrad, Doris v City of Sandringham & Ors [Bayside City Council] [1996] 1 VR 356 (1995) 8 VAR 377 Kosovich v Mancini (1982) 31 SASR 272 Krampel Newman Partners Pty Ltd v Commissioner of Taxation (2001) 113 FCR 306 2001 ATC 4473 (2001) 47 ATR 526 Lend Lease Real Estate Investments Ltd v GPT Re Ltd [2006] NSWCA 207 Ozone Manufacturing Pty Ltd v Deputy Commissioner of Taxation [2006] SASC 91 (2006) 62 ATR 142 Posner v Collector for Inter-State Destitute Persons (Victoria) (1947) 74 CLR 461 Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355 153 ALR 490 R v Garner [1994] 1 VR 400 Re Davis (1947) 75 CLR 409 Re Dalton (1995) 120 FLR 408 Re Rodda and Principal Member, Veterans' Review Board BC200508600 (2005) 88 ALD 188 [2005] AATA 655 Rodda v Repatriation Commission (2006) 156 FCR 227 93 ALD 541 [2006] FCA 1689 [2007] ALMD 4057 Tasker v Fullwood [1978] 1 NSWLR 20 Ward v Williams (1954-55) 92 CLR 496 Related ATO Interpretative Decisions ATO ID 2009/29 Other References: P. St. J Langan, (1969) Maxwell on Interpretation of Statutes, 12th edition Explanatory Memorandum to Tax Laws Amendment (2006 Measures No. 4) Bill 2006 Keywords Applicable functional currency Capital Gains Tax Functional currency Functional currency choice International Tax Non Resident Entities Statutory Interpretation Siebel/TDMS Reference Number: 1-3RVYPBH Business Line: Public Groups and International Date of publication: 4 May 2012 ISSN: Disclaimer Type: General

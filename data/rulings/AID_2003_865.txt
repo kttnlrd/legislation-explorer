@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/865
-==================================================
-
-Income Tax
- Capital gains tax: capital loss on transfer of shares in a company in administration
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: capital loss on transfer of shares in a company in administration FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does CGT event A1 in section 104-10 of the Income Tax Assessment Act 1997 (ITAA 1997) happen when a taxpayer purports to transfer shares in a company in administration, without obtaining court approval for the transfer?
 Decision
 No. CGT event A1 in section 104-10 of the ITAA 1997 does not happen because the transfer is rendered void by section 437F of the Corporations Act 2001.
@@ -28,40 +17,5 @@ However, section 437F of the Corporations Act 2001 limits the way that a share c
 The purpose of these rules is to prevent the transfer of a share to an impecunious entity to avoid liabilities that may arise in respect of that share - see Keay, A 1999, The law of company liquidation, 4th ed, LBC, Sydney, pp. 239-40.
 As court approval has not been obtained for the transfer of the taxpayer's shares, the transfer is specifically negated by section 437F of the Corporations Act 2001. This is not a situation to which the principles in TR 94/29 will apply.
 Accordingly, CGT event A1 has not happened in respect of the taxpayer's shares.
-Date of decision:
-  25 August 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-10
-Corporations Act 2001   section 437F   subsection 468(1)   subsection 493(2)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 94/29
-
-Other References:
-
-Keay, A 1999, The law of company liquidation, 4th ed, LBC, Sydney, pp. 239-40.
-
-Keywords
-
-CGT event A1- disposal of a CGT asset
- Disposal of shares
- Shares
- Voluntary administration
-
-Siebel/TDMS Reference Number:
-  3627370
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  26 September 2003
-
-ISSN:
- 1445-2782
+Date of decision: 25 August 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 104-10
+Corporations Act 2001 section 437F subsection 468(1) subsection 493(2) Related Public Rulings (including Determinations) Taxation Ruling TR 94/29 Other References: Keay, A 1999, The law of company liquidation, 4th ed, LBC, Sydney, pp. 239-40. Keywords CGT event A1- disposal of a CGT asset Disposal of shares Shares Voluntary administration Siebel/TDMS Reference Number: 3627370 Business Line: Public Groups and International Date of publication: 26 September 2003 ISSN: 1445-2782

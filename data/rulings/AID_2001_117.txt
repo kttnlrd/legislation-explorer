@@ -1,26 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2001/117
-==================================================
-
-Goods and Services Tax
- GST and Decreasing Adjustments
- FOI status: may be released
-
-This ATO ID was amended on 19 July 2007 to improve clarity and to update the reference to GSTR 2006/10.
-
- This ATO ID 2001/117 has been amended to reflect changes to Subdivision 153-B of the A New Tax System (Goods and Services Tax) Act 1999 as a result of Tax Laws Amendment (2009 GST Administration Measures) Act 2010 by replacing the reference to 'agent' with 'intermediary'.
+================================================== Goods and Services Tax GST and Decreasing Adjustments FOI status: may be released This ATO ID was amended on 19 July 2007 to improve clarity and to update the reference to GSTR 2006/10. This ATO ID 2001/117 has been amended to reflect changes to Subdivision 153-B of the A New Tax System (Goods and Services Tax) Act 1999 as a result of Tax Laws Amendment (2009 GST Administration Measures) Act 2010 by replacing the reference to 'agent' with 'intermediary'.
 This ATO ID amendment is effective from 1 July 2010.
-This ATO ID has been amended to reflect the legislative amendments to the A New Tax System (Goods and Services Tax) Act 1999 that are effective from 1 July 2017. Under the amendments, from 1 July 2017, digital currency will have the equivalent treatment to money and in certain circumstances supplies of digital currency will be treated as financial supplies.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+This ATO ID has been amended to reflect the legislative amendments to the A New Tax System (Goods and Services Tax) Act 1999 that are effective from 1 July 2017. Under the amendments, from 1 July 2017, digital currency will have the equivalent treatment to money and in certain circumstances supplies of digital currency will be treated as financial supplies. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entity, an insurer, have a decreasing adjustment under Division 78 of theA New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it reimburses an intermediary, with whom it has entered into an agreement under subdivision 153-B of the GST Act, where that intermediary makes a payment or supply or both in settlement of insurance claims on behalf of the entity?
 Decision
 No, the entity does not have a decreasing adjustment under Division 78 of the GST Act when it reimburses an intermediary, with whom it has entered into an agreement under subdivision 153-B of the GST Act, where that intermediary makes a payment or supply or both in settlement of insurance claims on behalf of the entity.
@@ -38,66 +21,11 @@ Section 78-10 of the GST Act states that an insurer may have a decreasing adjust
 Goods and Services Tax Ruling GSTR 2006/10 provides guidance for determining whether an acquisition or payment (in settlement of a claim) will result in a decreasing adjustment (under Division 78 of the GST Act) or a creditable acquisition (under Division 11 of the GST Act). These same principles apply to supplies and acquisitions made by principals and intermediarys under subdivision 153-B of the GST Act.
 In those circumstances where the TPA facilitates payment after accepting a claim from the insured, the TPA (who, because of the agreement under Subdivision 153-B of the GST Act, is treated as having supplied insurance to the insured and so is treated as the insurer), is not making an acquisition because the TPA has not entered into a binding obligation with the supplier. Instead, the TPA is making a payment in settlement of an insurance claim and may have a decreasing adjustment under Division 78 of the GST Act.
 Subsection 78-10(2) of the GST Act states that an insurer will not be entitled to a decreasing adjustment where the entity acquiring the insurance policy was entitled to input tax credits in respect of the premium. The TPA (who, because of the agreement under subdivision 153-B of the GST Act, is treated as having acquired insurance from the insurer) is entitled to an input tax credit in respect of the premium.
-Therefore, the entity is not entitled to a decreasing adjustment under Division 78 of the GST Act. Furthermore, as there is no acquisition, the entity will not be entitled to an input tax credit under section 11-5 of the GST Act.
-
-Amendment History
-
-Date of Amendment
+Therefore, the entity is not entitled to a decreasing adjustment under Division 78 of the GST Act. Furthermore, as there is no acquisition, the entity will not be entitled to an input tax credit under section 11-5 of the GST Act. Amendment History Date of Amendment
 Part
-Comment
-
-23 February 2018
+Comment 23 February 2018
 Reasons for Decision
-Add 'or digital currency'
-
-Date of decision:
-  26 September 2000
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 11   Section 11-5   Division 78   Section 78-10   Section 78-20   Subsection 78-10(2)   Subdivision 153-B   Paragraph 153-50(c)
-
-Related Public Rulings (including Determinations)
-
-GSTR 2006/10
-
-Related ATO Interpretative Decisions
-
- ATO ID 2001/116
-
-Keywords
-
-Goods and Services Tax
- GST insurance
- Insurers
-
-Siebel/TDMS Reference Number:
-  3333316
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  12 July 2001
-
-Date reviewed:
-  13 February 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-26 September 2000
-Original statement
-
-You are here
+Add 'or digital currency' Date of decision: 26 September 2000 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 11 Section 11-5 Division 78 Section 78-10 Section 78-20 Subsection 78-10(2) Subdivision 153-B Paragraph 153-50(c) Related Public Rulings (including Determinations) GSTR 2006/10 Related ATO Interpretative Decisions ATO ID 2001/116 Keywords Goods and Services Tax GST insurance Insurers Siebel/TDMS Reference Number: 3333316 Business Line: Indirect Tax Date of publication: 12 July 2001 Date reviewed: 13 February 2018 ISSN: 1445-2782 history Date: Version: 26 September 2000
+Original statement You are here
 23 February 2018
 Updated statement

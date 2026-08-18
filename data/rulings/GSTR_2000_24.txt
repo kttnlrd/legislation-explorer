@@ -1,35 +1,5 @@
 HEAD NOTE
-================================================================================
-
-Title: Goods and Services Tax Ruling
-
-Sections Referenced:
- • Div 17
- • Div 27
- • Div 358
- • Division 11
- • Division 129
- • Division 130
- • Division 132
- • Division 133
- • Division 134
- • Division 138
- • Division 15
- • Division 17
- • Division 189
- • Division 19
- • Division 21
- • Division 27
- • Division 358
- • Division 70
- • Division 84
- • Subdivision 72-A
-
-Topics: GST, Trusts, Companies
-
-================================================================================
-
-GSTR 2000/24 | Legal database
+================================================================================ Title: Goods and Services Tax Ruling Sections Referenced: • Div 17 • Div 27 • Div 358 • Division 11 • Division 129 • Division 130 • Division 132 • Division 133 • Division 134 • Division 138 • Division 15 • Division 17 • Division 189 • Division 19 • Division 21 • Division 27 • Division 358 • Division 70 • Division 84 • Subdivision 72-A Topics: GST, Trusts, Companies ================================================================================ GSTR 2000/24 | Legal database
 Legal database
 Legal database
 Contents
@@ -241,9 +211,7 @@ Photocopier
 $1650
 $1500
 All of the items are delivered at the same time and are recorded on the one invoice. Sophie's Hardware applies the GST exclusive value thresholds against each item separately. An adjustment can only arise in respect of the computer and the photocopier. The GST exclusive value of the desk is below the threshold
-.
-
-Supplies and acquisitions made for a period or on a progressive basis
+. Supplies and acquisitions made for a period or on a progressive basis
 20. An acquisition that is made for a period or on a progressive basis, and for consideration that is to be provided on a progressive or periodic basis, is treated as if each progressive or periodic component of the acquisition were a separate acquisition.
 [15]
 For example, if you lease a building, each progressive component of the lease is treated as a separate acquisition.
@@ -1184,4 +1152,3 @@ You are here
 30 November 2016
 Consolidated ruling
 Addendum
-Back to top

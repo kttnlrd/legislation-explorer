@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/255
-==================================================
-
-Goods and Services Tax
- GST and calculating the margin on the granting of a long term lease of land that was acquired before 1 July 2000
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and calculating the margin on the granting of a long term lease of land that was acquired before 1 July 2000 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the entity, under subsection 75-10(3) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), calculate the margin for a grant of a long term lease of land by reference to a valuation of the freehold interest in the land?
 Decision
 Yes, the entity can calculate the margin under subsection 75-10(3) of the GST Act for a grant of a long term lease of land by reference to a valuation of the freehold interest in the land.
@@ -26,46 +15,10 @@ The entity has an approved valuation of the freehold interest in the land as at 
 Reasons for Decision
 Subsection 75-10(1) of the GST Act provides that the amount of GST on a taxable supply of real property (that is, sale of a freehold interest in land, sale of a stratum unit, or grant or sale of a long term lease) under the margin scheme is 1/11th of the margin for the supply.
 The margin for a supply of real property is determined in accordance with subsection 75-10(2) of the GST Act unless subsection 75-10(3) or section 75-11 of the GST Act applies. In this case, section 75-11 of the GST Act does not apply.
-Subsection 75-10(3) of the GST Act applies if:
-
-•section 75-11 of the GST Act does not apply
+Subsection 75-10(3) of the GST Act applies if: •section 75-11 of the GST Act does not apply
 •the entity acquired the real property before 1 July 2000, and
-•the entity has an approved valuation of the real property.
-
-Subsection 75-10(3) of the GST Act provides that the margin for the supply is the amount by which the consideration for the supply exceeds the valuation of the freehold interest, stratum unit or long term lease.
-Goods and Services Tax Ruling GSTR 2006/7, at paragraph 66, states:
-
-If subsection 75-10(3) or any of the provisions of section 75-11 require you to obtain an approved valuation, the real property that you value is the interest, unit or lease that is in existence at the valuation date. This will not always be the real property that is supplied.
-
-In this case, in accordance with the table in subsection 75-10(3) of the GST Act, the relevant valuation date is 1 July 2000. At 1 July 2000, the long term lease did not exist because it was only granted after 1 July 2000. The real property to be valued is the freehold interest in the land which was held by the entity at 1 July 2000.
+•the entity has an approved valuation of the real property. Subsection 75-10(3) of the GST Act provides that the margin for the supply is the amount by which the consideration for the supply exceeds the valuation of the freehold interest, stratum unit or long term lease.
+Goods and Services Tax Ruling GSTR 2006/7, at paragraph 66, states: If subsection 75-10(3) or any of the provisions of section 75-11 require you to obtain an approved valuation, the real property that you value is the interest, unit or lease that is in existence at the valuation date. This will not always be the real property that is supplied. In this case, in accordance with the table in subsection 75-10(3) of the GST Act, the relevant valuation date is 1 July 2000. At 1 July 2000, the long term lease did not exist because it was only granted after 1 July 2000. The real property to be valued is the freehold interest in the land which was held by the entity at 1 July 2000.
 Therefore, the margin for the grant of the long term lease is the difference between the consideration for the grant of the long term lease and the valuation of the freehold interest in the land as at 1 July 2000.
-Date of decision:
-  11 September 2006
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Section 75-5   subsection 75-10(1)   subsection 75-10(2)   subsection 75-10(3)   section 75-11
-
-Related Public Rulings (including Determinations)
-
-Goods and services tax ruling GSTR 2000/21
-Goods and services tax ruling GSTR 2006/7
-
-Keywords
-
-Goods and services tax
- GST margin scheme
- GST long term lease
- GST property & construction
-
-Siebel/TDMS Reference Number:
-  3663463
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  15 September 2006
-
-ISSN:
- 1445-2782
+Date of decision: 11 September 2006 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Section 75-5 subsection 75-10(1) subsection 75-10(2) subsection 75-10(3) section 75-11 Related Public Rulings (including Determinations) Goods and services tax ruling GSTR 2000/21
+Goods and services tax ruling GSTR 2006/7 Keywords Goods and services tax GST margin scheme GST long term lease GST property & construction Siebel/TDMS Reference Number: 3663463 Business Line: Indirect Tax Date of publication: 15 September 2006 ISSN: 1445-2782

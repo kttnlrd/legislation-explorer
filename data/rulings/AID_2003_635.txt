@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/635
-==================================================
-
-Income Tax
- CGT: Capital proceeds payable by instalments - not all received - no reduction of capital proceeds received
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT: Capital proceeds payable by instalments - not all received - no reduction of capital proceeds received FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where the 'consideration in respect of the disposal of an asset' is payable by instalments over time, is that consideration later reduced under former paragraph 160ZD(1)(a) of the Income Tax Assessment Act 1936 (ITAA 1936) if some of the monies are ultimately not received as a result of the vendor agreeing, several years after completion of the sale agreement, to a reduction in the amount owing?
 Decision
 No. The consideration in respect of the disposal determined under former paragraph 160ZD(1)(a) of the ITAA 1936, is not reduced by that provision if some of the monies are ultimately not received because that provision, by itself, does not allow such a reduction.
@@ -25,36 +14,5 @@ Where the proceeds from the disposal of an asset in 1995 are payable by instalme
 If some of the proceeds are ultimately not received as a result of an agreed reduction several years after completion of the sale agreement, former section 160ZD of the ITAA 1936, of itself, does not provide for any reduction of the consideration in respect of the disposal of the asset. Former section 160ZF of the ITAA 1936 may operate in certain circumstances to reduce the consideration, but this is only where the non-receipt is not due to an act or thing done or omitted to be done by the taxpayer or an associate of the taxpayer, and the taxpayer has taken all reasonable action to secure payment. See ATO Interpretative Decision ATO ID 2003/636 in relation to the operation of former section 160ZF of the ITAA 1936.
 Note 1: Taxation Determination TD 93/45 covers the situation where a lesser amount of consideration is negotiated prior to settlement of the sale agreement.
 Note 2: Former subsection 160ZD(1) and section 160ZF of the ITAA 1936 were rewritten as sections 116-20 and 116-45 of the Income Tax Assessment Act 1997 (ITAA 1997) respectively. The decision set out in this ATO Interpretative Decision is therefore equally applicable to the operation of section 116-20 of the ITAA 1997.
-Date of decision:
-  14 October 2002
-
-Year of income:
-  Year ended 30 June 1995
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 160ZD(1)   paragraph 160ZD(1)(a)   section 160ZF
-Income Tax Assessment Act 1997   section 116-20   section 116-45
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/636
- ATO ID 2003/637
- ATO ID 2003/638
-
-Keywords
-
-Capital gains tax
- CGT capital proceeds
-
-Siebel/TDMS Reference Number:
-  334671
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 July 2003
-
-ISSN:
- 1445-2782
+Date of decision: 14 October 2002 Year of income: Year ended 30 June 1995 Legislative References: Income Tax Assessment Act 1936 subsection 160ZD(1) paragraph 160ZD(1)(a) section 160ZF
+Income Tax Assessment Act 1997 section 116-20 section 116-45 Related ATO Interpretative Decisions ATO ID 2003/636 ATO ID 2003/637 ATO ID 2003/638 Keywords Capital gains tax CGT capital proceeds Siebel/TDMS Reference Number: 334671 Business Line: Public Groups and International Date of publication: 25 July 2003 ISSN: 1445-2782

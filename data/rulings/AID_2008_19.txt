@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/19
-==================================================
-
-Income Tax
- Entrepreneurs' tax offset and personal services income: company
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2011-12 income year. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2011-12 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Entrepreneurs' tax offset and personal services income: company FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2011-12 income year. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2011-12 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a company that is a personal services entity that is not conducting a personal services business (PSB) entitled to the entrepreneurs' tax offset (ETO) under section 61-505 of the Income Tax Assessment Act 1997 (ITAA 1997) if the provision is otherwise satisfied?
 Decision
 Yes. A company that is a personal services entity that is not conducting a PSB is entitled to the ETO under section 61-505 of the ITAA 1997 if the provision is otherwise satisfied.
@@ -27,59 +12,16 @@ The company is a small business entity for the year and its aggregated turnover 
 The company's small business entity turnover is greater than the deductions attributable to that turnover.
 Reasons for Decision
 Subsection 61-505(1) of the ITAA 1997 states:
-You are entitled to a *tax offset for an income year if:
-
-(a)you are an individual or a company; and
+You are entitled to a *tax offset for an income year if: (a)you are an individual or a company; and
 (b)you are a *small business entity for the year; and
 (c)your *aggregated turnover for the year is less than $75,000; and
-(d)you have *net small business income for the year.
-
-In the present circumstances the company satisfies paragraphs 61-505(1)(a) to 61-505(1)(c) of the ITAA 1997.
+(d)you have *net small business income for the year. In the present circumstances the company satisfies paragraphs 61-505(1)(a) to 61-505(1)(c) of the ITAA 1997.
 To determine whether the company satisfies paragraph 61-505(1)(d) of the ITAA 1997, it is necessary to consider the meaning of 'net small business income for the year'.
 Section 61-525 of the ITAA 1997 provides that an entity's net small business income is the amount by which the entity's small business entity turnover exceeds the entity's deductions attributable to that turnover. Further, small business entity turnover is the total ordinary income that the entity derives in the ordinary course of carrying on a business.
 Through the application of sections 86-15 and 86-20 of the ITAA 1997, the assessable income of the individual who performs the personal services includes the amount of ordinary income of the company that is the PSI of the individual, reduced by certain deductions to which the company is entitled. Pursuant to section 86-30 of the ITAA 1997, this amount does not form part of the assessable income of the company.
 Therefore, while the PSI is not included in the assessable income of the company, the provision of personal services by the individual results in the derivation of ordinary income by the company and this is included in the company's small business entity turnover.
 Since, in the present circumstances, the company's small business entity turnover is greater than the deductions attributable to that turnover, the company has net small business income for the year and satisfies paragraph 61-505(1)(d) of the ITAA 1997.
-Accordingly, the company satisfies all the conditions under subsection 61-505(1) of the ITAA and is entitled to the ETO.
-
-Note: subsection 61-505(2) of the ITAA 1997 provides the method of working out the amount of ETO to which the company is entitled. The first step in the calculation is to determine the company's taxable income. As PSI does not form part of the assessable income of the company, unless the company has ordinary or statutory income other than PSI, its taxable income will be nil. If that is the case, the amount of ETO to which the taxpayer is entitled will be nil.
-
-Date of decision:
-  14 January 2008
-
-Year of income:
-  year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 86-15   section 86-20   section 86-30   section 61-505   section 61-505(1)   section 61-505(1)(a)   section 61-505(1)(b)   section 61-505(1)(c)   section 61-505(1)(d)   section 61-505(2)   section 61-525
-
-Keywords
-
-Personal services income
- PSI attribution
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  25 January 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 January 2008
-Original statement
-
-You are here
+Accordingly, the company satisfies all the conditions under subsection 61-505(1) of the ITAA and is entitled to the ETO. Note: subsection 61-505(2) of the ITAA 1997 provides the method of working out the amount of ETO to which the company is entitled. The first step in the calculation is to determine the company's taxable income. As PSI does not form part of the assessable income of the company, unless the company has ordinary or statutory income other than PSI, its taxable income will be nil. If that is the case, the amount of ETO to which the taxpayer is entitled will be nil. Date of decision: 14 January 2008 Year of income: year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 86-15 section 86-20 section 86-30 section 61-505 section 61-505(1) section 61-505(1)(a) section 61-505(1)(b) section 61-505(1)(c) section 61-505(1)(d) section 61-505(2) section 61-525 Keywords Personal services income PSI attribution Business Line: Small Business/Individual Taxpayers Date of publication: 25 January 2008 ISSN: 1445-2782 history Date: Version: 14 January 2008
+Original statement You are here
 26 May 2017
 Archived

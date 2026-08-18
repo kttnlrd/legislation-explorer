@@ -1,79 +1,21 @@
 ATO Interpretative Decision
 ATO ID 2003/1118
-==================================================
-
-Income Tax
- Company loss: deduction for tax loss incurred in an earlier income year by another taxpayer
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company loss: deduction for tax loss incurred in an earlier income year by another taxpayer FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a taxpayer claim a deduction under section 36-15 of the Income Tax Assessment Act 1997 (ITAA 1997) for a tax loss incurred in an earlier income year by another entity that has merged with the taxpayer?
 Decision
 No. Under section 36-15 of the ITAA 1997 the taxpayer seeking a deduction for a tax loss of an earlier income year must be the same taxpayer that originally incurred that tax loss.
 Facts
 Company A and Company B both traded as registered clubs under the Registered Clubs Act 1976 (NSW).
 Company A incurred a tax loss in an earlier income year.
-Subsequently Company A and Company B amalgamated to form one registered club. The merger occurred in accordance with subsection 17A(1) of the Registered Clubs Act which provides:
-
-17A(1)
- In this section, a reference to the amalgamation of 2 or more registered clubs is a reference to an amalgamation to be effected-
-
-(a) by the dissolution of those clubs and the formation of a new club
-(b) by the continuation of one of those clubs and the dissolution of the other club or clubs.
-
-The merger was effected by Company A being liquidated and its assets and liabilities being acquired by Company B which continued to carry on the registered club business formerly conducted by Company A.
+Subsequently Company A and Company B amalgamated to form one registered club. The merger occurred in accordance with subsection 17A(1) of the Registered Clubs Act which provides: 17A(1) In this section, a reference to the amalgamation of 2 or more registered clubs is a reference to an amalgamation to be effected- (a) by the dissolution of those clubs and the formation of a new club
+(b) by the continuation of one of those clubs and the dissolution of the other club or clubs. The merger was effected by Company A being liquidated and its assets and liabilities being acquired by Company B which continued to carry on the registered club business formerly conducted by Company A.
 Reasons for Decision
 Division 36 of the ITAA 1997 provides for the deduction of tax losses incurred in earlier income years.
 Section 36-10 of the ITAA 1997 provides that the tax loss for an income year is the excess of deductions over the sum of assessable income and net exempt income. That section uses the expression 'your tax loss' when describing the situation where a taxpayer has such an excess of deductions over the sum of assessable income and net exempt income for a particular income year.
-Section 36-15 of the ITAA 1997 specifies how a taxpayer should deduct a tax loss in a later income year:
-
-• where total assessable income exceeds total deductions - deduct the loss from the excess of total assessable income over total deductions (other than tax losses)
+Section 36-15 of the ITAA 1997 specifies how a taxpayer should deduct a tax loss in a later income year: • where total assessable income exceeds total deductions - deduct the loss from the excess of total assessable income over total deductions (other than tax losses)
 • where there is net exempt income and total assessable income exceeds total deductions - firstly, deduct the loss from net exempt income and, secondly, from the excess of assessable income over deductions (other than tax losses)
-• where there is net exempt income and total deductions exceed total assessable income - subtract from net exempt income the excess of total deductions over total assessable income, and then deduct the tax loss from any net exempt income that remains.
-
-Section 36-15 of the ITAA 1997 refers to 'your total assessable income', 'your total deductions' and 'your net exempt income'. Accordingly there is a requirement for the taxpayer that seeks a deduction for a tax loss of an earlier income year, to be the same taxpayer that originally incurred the tax loss.
+• where there is net exempt income and total deductions exceed total assessable income - subtract from net exempt income the excess of total deductions over total assessable income, and then deduct the tax loss from any net exempt income that remains. Section 36-15 of the ITAA 1997 refers to 'your total assessable income', 'your total deductions' and 'your net exempt income'. Accordingly there is a requirement for the taxpayer that seeks a deduction for a tax loss of an earlier income year, to be the same taxpayer that originally incurred the tax loss.
 Company A and Company B amalgamated in accordance with subsection 17A(1) of the Registered Clubs Act - as in Case 52/96 96 ATC 498; AAT Case 11,196 33 ATR 1174. The merger was effected by the continuation of Company B and by the dissolution of Company A. Upon amalgamation therefore, Company A ceased to exist as a legal entity. Company B continued as a legal entity, separate and distinct from the dissolved Company A.
-Company A had a tax loss for an earlier income year. Company B is not entitled to a deduction for this tax loss under section 36-15 of the ITAA 1997 because, as a separate legal entity, it was not the taxpayer that originally incurred the tax loss involved.
-
-Note: Taxation Laws Amendment Act (No.5) 2003 has changed how Division 36 applies to companies. Section 36-17 of the ITAA 1997 (rather than section 36-15) specifies how an entity's tax loss of an earlier year is deducted in a later income year if the entity is a corporate tax entity at any time during the later year. The provisions allow the corporate tax entity to choose the amount of prior year tax loss they deduct (subject to first applying the loss against any net exempt income). These changes to the law do not affect the tax outcome in this case. That is, Company B is not entitled to deduct Company A's prior year tax loss under section 36-17 because the entity that made the loss is not the same corporate tax entity seeking to deduct the loss in a later income year.
-
-Date of decision:
-  27 October 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 36   section 36-10   section 36-15
-Registered Clubs Act 1976 (NSW)   subsection 17A(1)
-
-Case References:
-
-Case 52/96   96 ATC 498
-
-AAT Case No 11,166   33 ATR 1174
-
-Keywords
-
-Associations, organisations & societies
- Prior year losses
- Tax loss
-
-Siebel/TDMS Reference Number:
-  3816869
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 December 2003
-
-ISSN:
- 1445-2782
+Company A had a tax loss for an earlier income year. Company B is not entitled to a deduction for this tax loss under section 36-15 of the ITAA 1997 because, as a separate legal entity, it was not the taxpayer that originally incurred the tax loss involved. Note: Taxation Laws Amendment Act (No.5) 2003 has changed how Division 36 applies to companies. Section 36-17 of the ITAA 1997 (rather than section 36-15) specifies how an entity's tax loss of an earlier year is deducted in a later income year if the entity is a corporate tax entity at any time during the later year. The provisions allow the corporate tax entity to choose the amount of prior year tax loss they deduct (subject to first applying the loss against any net exempt income). These changes to the law do not affect the tax outcome in this case. That is, Company B is not entitled to deduct Company A's prior year tax loss under section 36-17 because the entity that made the loss is not the same corporate tax entity seeking to deduct the loss in a later income year. Date of decision: 27 October 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Division 36 section 36-10 section 36-15
+Registered Clubs Act 1976 (NSW) subsection 17A(1) Case References: Case 52/96 96 ATC 498 AAT Case No 11,166 33 ATR 1174 Keywords Associations, organisations & societies Prior year losses Tax loss Siebel/TDMS Reference Number: 3816869 Business Line: Public Groups and International Date of publication: 12 December 2003 ISSN: 1445-2782

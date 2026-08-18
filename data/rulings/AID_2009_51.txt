@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/51
-==================================================
-
-Income Tax
- Borrowing expenses passed on to a subsidiary
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Borrowing expenses passed on to a subsidiary FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a parent company incurs expenditure for borrowing money and on-lends part of those borrowings to a subsidiary, can the subsidiary claim a deduction under subsection 25-25(1) of the Income Tax Assessment Act 1997 (ITAA 1997) for a proportion of the borrowing expenses passed on to it by the parent company?
 Decision
 No. The subsidiary did not incur the expenditure in borrowing money.
@@ -23,44 +12,7 @@ The unsecured loan note was subsequently discharged and, at a later date, the su
 Reasons for Decision
 Subsection 25-25(1) of the ITAA 1997, allows a deduction for expenditure incurred for borrowing money to the extent the money is used for the purpose of producing assessable income.
 Section 25-25 of the ITAA 1997 expresses the same intent as former section 67 of the Income Tax Assessment Act 1936 (ITAA 1936) so that case law concerning section 67 also provides guidance on the application of section 25-25.
-In Ure v. FC of T 81 ATC 4100 at ATC 4112; (1981) 11 ATR 484 at ATR 498, Deane and Sheppard JJ made the following comments on the operation of subsection 67(1) of the ITAA 1936:
-
-The words 'expenditure incurred... in borrowing money' in the context of section 67(1) of the Act refer in our view, to the 'cost' of borrowing as distinct from the 'cost' of the money. The expenditure on account of legal expenses and valuation fees was plainly a 'cost' of borrowing: it was incurred in relation to the actual establishment of the relevant loan.
-
-And further, at ATC 4113; ATR 498:
-
-It seems to us to be preferable to interpret the reference to expenditure incurred in borrowing as including payment to be made during the life of the loan pursuant to a contractual obligation which was incurred at the time of borrowing as an incident of establishing the loan.
-
-Under the terms of the unsecured loan note, the subsidiary borrowed funds from the parent company. At the time of borrowing, there was no contractual obligation imposed on the subsidiary to pay an amount for establishment of the loan.
+In Ure v. FC of T 81 ATC 4100 at ATC 4112; (1981) 11 ATR 484 at ATR 498, Deane and Sheppard JJ made the following comments on the operation of subsection 67(1) of the ITAA 1936: The words 'expenditure incurred... in borrowing money' in the context of section 67(1) of the Act refer in our view, to the 'cost' of borrowing as distinct from the 'cost' of the money. The expenditure on account of legal expenses and valuation fees was plainly a 'cost' of borrowing: it was incurred in relation to the actual establishment of the relevant loan. And further, at ATC 4113; ATR 498: It seems to us to be preferable to interpret the reference to expenditure incurred in borrowing as including payment to be made during the life of the loan pursuant to a contractual obligation which was incurred at the time of borrowing as an incident of establishing the loan. Under the terms of the unsecured loan note, the subsidiary borrowed funds from the parent company. At the time of borrowing, there was no contractual obligation imposed on the subsidiary to pay an amount for establishment of the loan.
 As the later invoicing of an amount to the subsidiary was not incurred at the time of borrowing as an incident of establishing the loan, no amount of the expenditure is deductible to the subsidiary under subsection 25-25(1) of the ITAA 1997.
-Date of decision:
-  22 June 2009
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 67
-Income Tax Assessment Act 1997   section 25-25   subsection 25-25(1)
-
-Case References:
-
-Ure v. FC of T    81 ATC 4100   (1981) 11 ATR 484
-
-Keywords
-
-Deductions & expenses
- Expenses of borrowing
-
-Siebel/TDMS Reference Number:
-  6071529
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  3 July 2009
-
-ISSN:
- 1445-2782
+Date of decision: 22 June 2009 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 67
+Income Tax Assessment Act 1997 section 25-25 subsection 25-25(1) Case References: Ure v. FC of T 81 ATC 4100 (1981) 11 ATR 484 Keywords Deductions & expenses Expenses of borrowing Siebel/TDMS Reference Number: 6071529 Business Line: Public Groups and International Date of publication: 3 July 2009 ISSN: 1445-2782

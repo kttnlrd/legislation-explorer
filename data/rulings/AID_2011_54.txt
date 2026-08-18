@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/54
-==================================================
-
-Fringe Benefits Tax
- Expense payment fringe benefit: employee loan from a trust repaid by employer
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Expense payment fringe benefit: employee loan from a trust repaid by employer FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where an employer pays amounts which have been salary sacrificed by an employee to the trustee of a trust as repayments of principal on an interest free loan: has the employer provided an external expense payment fringe benefit under section 23 of the Fringe Benefits Tax Assessment Act 1986 (FBTAA) the taxable value of which is not reduced by the 'otherwise deductible' rule (ODR) under section 24 of the FBTAA?
 Decision
 Yes. Each payment made by the employer to the trustee is taken to constitute the provision of an expense payment benefit under section 20 of the FBTAA provided by the employer to the employee.
@@ -33,114 +20,31 @@ The employee loan is reduced by the amount of each repayment.
 The salary sacrifice arrangement (SSA) is an 'Effective SSA' as described in Taxation Ruling TR 2001/10 Income tax: fringe benefits tax and superannuation guarantee: salary sacrifice arrangements.
 Reasons for Decision
 Section 20 of the FBTAA relevantly provides that:
-Where a person (in this section referred to as the "provider"):
-
-(a) makes a payment in discharge, in whole or in part, of an obligation of another person (in this section referred to as the "recipient") to pay an amount to a third person in respect of expenditure incurred by the recipient; or
-
-(b).....;
-
-the making of the payment referred to in paragraph (a),....., shall be taken to constitute the provision of a benefit by the provider to the recipient.
-
-The employee has an obligation to the trustee for the loan. Under the arrangement the employer is the person who makes payments in discharge of the employee's loan obligation to the trustee.
+Where a person (in this section referred to as the "provider"): (a) makes a payment in discharge, in whole or in part, of an obligation of another person (in this section referred to as the "recipient") to pay an amount to a third person in respect of expenditure incurred by the recipient; or (b).....; the making of the payment referred to in paragraph (a),....., shall be taken to constitute the provision of a benefit by the provider to the recipient. The employee has an obligation to the trustee for the loan. Under the arrangement the employer is the person who makes payments in discharge of the employee's loan obligation to the trustee.
 Each payment made by the employer to the trustee is, under section 20 of the FBTAA, taken to constitute the provision of a benefit by the employer (the provider) to the employee (the recipient).
 The provision of a benefit under section 20 of the FBTAA is an 'expense payment benefit' as defined in subsection 136(1) of the FBTAA.
 Under the statutory framework of the FBTAA, each category of benefit provided must also be a 'fringe benefit' to be subject to fringe benefits tax.
-The definition of 'fringe benefit' in subsection 136(1) excludes under paragraph 136(1)(ha) of that definition:
-
-a benefit constituted by the acquisition of money or property by an employee share trust (within the meaning of the Income Tax Assessment Act 1997)
-
-Subsection 130-85(4) of the ITAA 1997 provides that an employee share trust for an 'employee share scheme' (ESS), is a trust whose sole activities are:
-
-a)obtaining shares or rights in a company; and
-b)ensuring that ESS interests in the company that are beneficial interests in those shares or rights are provided under the employee share scheme to employees, or to associates of employees, of:
-
-(i)the company; or
-(ii)a subsidiary of the company; and
-
-c)other activities that are merely incidental to the activities mentioned in paragraphs (a) and (b).
-
-ATO ID 2010/108 has now been withdrawn but considered whether a trust qualifies as an employee share trust for the purposes of subsection 130 85(4) of the ITAA 1997. The Commissioner's current view on the interpretation of subsection 130 85(4), including the application of the "sole activities" and "merely incidental" tests, is set out in Taxation Determination TD 2019/13 (see in particular paragraph 4 and paragraphs 5-9).
+The definition of 'fringe benefit' in subsection 136(1) excludes under paragraph 136(1)(ha) of that definition: a benefit constituted by the acquisition of money or property by an employee share trust (within the meaning of the Income Tax Assessment Act 1997) Subsection 130-85(4) of the ITAA 1997 provides that an employee share trust for an 'employee share scheme' (ESS), is a trust whose sole activities are: a)obtaining shares or rights in a company; and
+b)ensuring that ESS interests in the company that are beneficial interests in those shares or rights are provided under the employee share scheme to employees, or to associates of employees, of: (i)the company; or
+(ii)a subsidiary of the company; and c)other activities that are merely incidental to the activities mentioned in paragraphs (a) and (b). ATO ID 2010/108 has now been withdrawn but considered whether a trust qualifies as an employee share trust for the purposes of subsection 130 85(4) of the ITAA 1997. The Commissioner's current view on the interpretation of subsection 130 85(4), including the application of the "sole activities" and "merely incidental" tests, is set out in Taxation Determination TD 2019/13 (see in particular paragraph 4 and paragraphs 5-9).
 A trust in which the trustee is permitted to and includes in its activities the lending of money for employees to acquire units in the trust would not be an employee share trust as described in subsection 130-85(4) of the ITAA 1997.
 The trust is not an employee share trust within the meaning of the ITAA 1997, and the benefit provided to the employee under section 20 of the FBTAA is not a benefit excluded from the definition of 'fringe benefit' in subsection 136(1) of the FBTAA under paragraph (ha) of that definition.
 Each benefit provided to the employee under the present arrangement is a 'fringe benefit', 'expense payment fringe benefit' and 'external expense payment fringe benefit' as defined in subsection 136(1) of the FBTAA.
 The taxable value of each external expense payment fringe benefit under section 23 of the FBTAA is equal to the amount of the loan repayment, subject to this amount being reduced by the ODR under section 24 of the FBTAA.
 Subsection 24(1) of the FBTAA applies where the recipient of the expense payment fringe benefit is an employee. The taxable value of the external expense payment fringe benefit is not reduced by the ODR under section 24 of the FBTAA as the loan repayments are repayments of principal on an interest free loan and the employee would not have been entitled to an income tax deduction under section 8-1 of the ITAA 1997 had the employee incurred and paid these amounts.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-24 April 2026
+Comment 24 April 2026
 Reasons for decision
-Minor stylistic changes and updating to align with current ATO resources
-
-24 April 2026
+Minor stylistic changes and updating to align with current ATO resources 24 April 2026
 Business line
-Updated to correct business line
-
-24 April 2026
+Updated to correct business line 24 April 2026
 Date reviewed
-Updated review date
-
-24 April 2026
+Updated review date 24 April 2026
 Related ATO ID
-ATO ID 2010/108 removed
-
-Date of decision:
-  1 June 2011
-
-Year of income:
-  Year ended 31 March 2011
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   section 20   section 23   section 24   subsection 136(1)   paragraph 136(1)(ha)
-Income Tax Assessment Act 1997   section 8-1   subsection 130-85(4)
-
-Related Public Rulings (including Determinations)
-
-TR 2001/10
-TD 2019/13
-
-Other References:
-
- TA 2011/5
-
-Keywords
-
-Fringe benefits tax
- Employee share trust
- FBT salary sacrifice
- FBT expense payment fringe benefit
-
-Siebel/TDMS Reference Number:
-  1-30WGFR1; 1-5QRQUOS; 1-AY8QJZA
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  27 June 2011
-
-Date reviewed:
-  15 April 2026
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 1 June 2011
-Original statement
-
-You are here
+ATO ID 2010/108 removed Date of decision: 1 June 2011 Year of income: Year ended 31 March 2011 Legislative References: Fringe Benefits Tax Assessment Act 1986 section 20 section 23 section 24 subsection 136(1) paragraph 136(1)(ha)
+Income Tax Assessment Act 1997 section 8-1 subsection 130-85(4) Related Public Rulings (including Determinations) TR 2001/10
+TD 2019/13 Other References: TA 2011/5 Keywords Fringe benefits tax Employee share trust FBT salary sacrifice FBT expense payment fringe benefit Siebel/TDMS Reference Number: 1-30WGFR1; 1-5QRQUOS; 1-AY8QJZA Business Line: Superannuation and Employer Obligations Date of publication: 27 June 2011 Date reviewed: 15 April 2026 ISSN: 1445-2782 history Date: Version: 1 June 2011
+Original statement You are here
 24 April 2026
 Updated statement

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/62
-==================================================
-
-Income Tax
- Income Tax: employee share scheme - director solely remunerated by issue of options
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax: employee share scheme - director solely remunerated by issue of options FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a director of a listed company who was remunerated only by way of the issue of options entitled to the deferral concession under former Division 13A of Part III (Division 13A) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. Where a director's only remuneration was in the form of options issued by the company, the director is not entitled to the deferral concession under former Division 13A of the ITAA 1936.
@@ -29,45 +18,12 @@ Former Division 13A of the ITAA 1936 provides for the taxation treatment of shar
 Taxpayers were eligible to have the assessment in relation to the discount from rights deferred until a later year of income provided the rights were qualifying rights within the meaning of the former section 139CD of the ITAA 1936.
 One of the conditions in former section 139CD of the ITAA 1936 for rights to be qualifying is that the company is the employer of the taxpayer or a holding company of the employer of the taxpayer.
 'Employer' is relevantly defined by former subsection 139GA(3) of the ITAA 1936 to be a person who pays, or is liable to pay, work and income support related withholding payments and benefits.
-'Work and income support related withholding payments and benefits' are in turn relevantly defined in subsection 6(1) of the ITAA 1936 to include:
-
-•payments from which an amount must be withheld under a provision of Subdivision 12-B in Schedule 1 (other than section 12-55) to the Tax Administration Act 1953 (TAA); and
-•certain non-cash benefits in relation to which an amount must be paid to the Commissioner under Division 14 in Schedule 1 to the TAA.
-
-As the director's only remuneration from the company was in the form of options provided under an employee share scheme, no payment was made to the Director from which an amount must be withheld under a provision of Subdivision 12-B in Schedule 1 to the TAA.
+'Work and income support related withholding payments and benefits' are in turn relevantly defined in subsection 6(1) of the ITAA 1936 to include: •payments from which an amount must be withheld under a provision of Subdivision 12-B in Schedule 1 (other than section 12-55) to the Tax Administration Act 1953 (TAA); and
+•certain non-cash benefits in relation to which an amount must be paid to the Commissioner under Division 14 in Schedule 1 to the TAA. As the director's only remuneration from the company was in the form of options provided under an employee share scheme, no payment was made to the Director from which an amount must be withheld under a provision of Subdivision 12-B in Schedule 1 to the TAA.
 The options granted to the director are rights acquired under an employee share scheme within the meaning of former Division 13A of the ITAA 1936. While they are non-cash benefits, former paragraph 14-5(3)(d) of Division 14 in Schedule 1 to the TAA (as applicable at the time the director received the options) specifically excludes such employee share scheme benefits from the operation of that Division.
 Thus the company was not at the time the options were provided, the employer of the taxpayer or a holding company of the employer of the taxpayer.
 Accordingly, the rights acquired by the director are not qualifying rights.
 As the rights are not qualifying rights, the director is not eligible for the deferral concession under former Division 13A of the ITAA 1936. The discount is assessable in the year of income in which the rights were acquired.
-Date of decision:
-  25 July 2011
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 26AAC   Division 13A of Part III   section 139CD   subsection 139GA(3)
-Income Tax Assessment Act 1997   division 83A
-Taxation Administration Act 1953   subdivision 12-B of Schedule 1   division 14 of Schedule 1   paragraph 14-5(3)(d)
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2011/31
-
-Keywords
-
-Employee share schemes & options
- Directors remuneration
-
-Siebel/TDMS Reference Number:
-  1-3BK30N2
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  5 August 2011
-
-ISSN:
- 1445-2782
+Date of decision: 25 July 2011 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 26AAC Division 13A of Part III section 139CD subsection 139GA(3)
+Income Tax Assessment Act 1997 division 83A
+Taxation Administration Act 1953 subdivision 12-B of Schedule 1 division 14 of Schedule 1 paragraph 14-5(3)(d) ATO Interpretative Decisions overturned by this decision ATO ID 2011/31 Keywords Employee share schemes & options Directors remuneration Siebel/TDMS Reference Number: 1-3BK30N2 Business Line: Private Groups and High Wealth Individuals Date of publication: 5 August 2011 ISSN: 1445-2782

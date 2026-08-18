@@ -1,92 +1,24 @@
 ATO Interpretative Decision
 ATO ID 2004/837
-==================================================
-
-Income Tax
- Income Tax: Allocation of a franking credit to a distribution
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax: Allocation of a franking credit to a distribution FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the decision to allocate a franking credit to a distribution by a corporate tax entity, pursuant to section 202-5 of the Income Tax Assessment Act 1997 (ITAA 1997), give rise to a franking debit in the franking account at that time?
 Decision
 No. The decision to allocate a franking credit to a distribution by a corporate tax entity, pursuant to section 202-5 of the ITAA 1997, will not give rise to a franking debit in the franking account. Pursuant to Item 1 of the table in subsection 205-30(1) of the ITAA 1997, a debit to the franking account arises when the actual payment of the distribution is made.
 Facts
 A corporate tax entity decides on 1 September 2002 to pay a fully franked dividend of $7,000, allocating a $3,000 franking credit, to its shareholders. On 2 July 2003, the corporate tax entity pays the distribution to its shareholders.
 Reasons for Decision
-Section 202-5 of the ITAA 1997 states that an entity franks a distribution if the following conditions are satisfied:
-
-•if the entity is a franking entity that satisfies the residency requirement when the distribution is made; and
+Section 202-5 of the ITAA 1997 states that an entity franks a distribution if the following conditions are satisfied: •if the entity is a franking entity that satisfies the residency requirement when the distribution is made; and
 •if the distribution is a frankable distribution; and
-•the entity allocates a franking credit to the distribution.
-
-The mechanism by which an entity allocates a franking credit is determined by the entity. However, the decision to allocate a franking credit, without actual payment of the distribution, does not in itself give rise to a franking debit in the franking account.
+•the entity allocates a franking credit to the distribution. The mechanism by which an entity allocates a franking credit is determined by the entity. However, the decision to allocate a franking credit, without actual payment of the distribution, does not in itself give rise to a franking debit in the franking account.
 Item 1 of the table in subsection 205-30(1) of the ITAA 1997 states that if the entity franks a distribution, a debit equal to the amount of the franking credit allocated to the distribution arises on the day on which the distribution is made.
-On the facts of this case, the entity's decision to allocate a franking credit of $3,000 on the distribution on 1 September 2002 does not give rise to a franking debit in the franking account at that time. When the payment of the distribution is made on 2 July 2003, the decision to allocate a franking credit of $3,000 to the distribution is given effect and only then does a franking debit entry arise in the franking account.
-
-Amendment History
-
-Date of Amendment
+On the facts of this case, the entity's decision to allocate a franking credit of $3,000 on the distribution on 1 September 2002 does not give rise to a franking debit in the franking account at that time. When the payment of the distribution is made on 2 July 2003, the decision to allocate a franking credit of $3,000 to the distribution is given effect and only then does a franking debit entry arise in the franking account. Amendment History Date of Amendment
 Part
-Comment
-
-22 September 2017
+Comment 22 September 2017
 Decision
 Reasons for decision
 Legislative reference
-Corrected legislative reference to subsection 205-30(1) of the ITAA 1997
-
-Date of decision:
-  14 October 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 202-5   subsection 205-30(1)
-
-Keywords
-
-Company tax
- Franking accounts
- Franking debits
- Imputation system
-
-Siebel/TDMS Reference Number:
-  4270155; 1-5QRWP9X; 1-C0STN1O
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  25 October 2004
-
-Date reviewed:
-  11 September 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 October 2004
-Original statement
-
-You are here
+Corrected legislative reference to subsection 205-30(1) of the ITAA 1997 Date of decision: 14 October 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 202-5 subsection 205-30(1) Keywords Company tax Franking accounts Franking debits Imputation system Siebel/TDMS Reference Number: 4270155; 1-5QRWP9X; 1-C0STN1O Business Line: Private Groups and High Wealth Individuals Date of publication: 25 October 2004 Date reviewed: 11 September 2017 ISSN: 1445-2782 history Date: Version: 14 October 2004
+Original statement You are here
 22 September 2017
 Updated statement

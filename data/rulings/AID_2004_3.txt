@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/3
-==================================================
-
-Income Tax
- Consolidation: Entry history rule debts included in assessable income of a subsidiary member prior to consolidation
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: Entry history rule debts included in assessable income of a subsidiary member prior to consolidation FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a head company of a consolidated group be taken, in terms of paragraph 25-35(1)(a) of the Income Tax Assessment Act 1997 (ITAA 1997), to have previously included in its assessable income a debt which was included in the assessable income of a subsidiary member before it joined the consolidated group?
 Decision
 Yes. The effect of the entry history rule of section 701-5 of the ITAA 1997 is such that a head company will be taken to have previously included in its assessable income a debt which was included in the assessable income of a subsidiary member before it joined the consolidated group.
@@ -23,68 +12,7 @@ At the time of consolidation the relevant debt was still outstanding.
 The subsidiary member has since commenced legal proceedings in order to recover the debt.
 It is likely that some part of the debt will ultimately be written off as bad.
 Reasons for Decision
-In order for a taxpayer to be able to claim a bad debt deduction under paragraph 25-35(1)(a) of the ITAA 1997 the debt must have been included in its assessable income. In this regard subsection 25-35(1) of the ITAA 1997 states:
-
-'You can deduct a debt (or part of a debt) that you write off as bad in the income year if:
-
-(a) it was included in your assessable income for the income year or for an earlier income year; or...'
-
-The single entity rule of section 701-1 of the ITAA 1997 provides that if an entity is a subsidiary member of a consolidated group during a period, then it is taken to be a part of the head company during that period for the purposes of calculating the income tax liability or losses for the income year in which the period occurs or any later income years.
+In order for a taxpayer to be able to claim a bad debt deduction under paragraph 25-35(1)(a) of the ITAA 1997 the debt must have been included in its assessable income. In this regard subsection 25-35(1) of the ITAA 1997 states: 'You can deduct a debt (or part of a debt) that you write off as bad in the income year if: (a) it was included in your assessable income for the income year or for an earlier income year; or...' The single entity rule of section 701-1 of the ITAA 1997 provides that if an entity is a subsidiary member of a consolidated group during a period, then it is taken to be a part of the head company during that period for the purposes of calculating the income tax liability or losses for the income year in which the period occurs or any later income years.
 This means that a write off by a subsidiary member of a debt that it brings into a consolidated group will be taken for the purposes of section 25-35 of the ITAA 1997 to be a debt write-off by the head company itself.
-Where the amount has been included in an entity's assessable income prior to joining a consolidated group the only way the head company can satisfy the requirement in paragraph 25-35(1)(a) of the ITAA 1997 is through an application of the 'entry history rule' set out at section 701-5 of the ITAA 1997. In this regard, section 701-5 of the ITAA 1997 states:
-
-'For the head company core purposes in relation to the period after the entity becomes a *subsidiary member of the group, everything that happened in relation to it before it became a subsidiary member is taken to have happened in relation to the *head company.'
-
-* denotes a term defined in section 995-1 of the ITAA 1997
-
-The entry history rule is rephrased in the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002. In this regard paragraph 2.31 states:
-
-'Everything that happened in relation to an entity before it became a subsidiary member of a consolidated group is taken to have happened in relation to the head company for the purposes of calculating the head company's income tax liability or tax losses after it becomes a member.'
-
-What this means here is that while the subsidiary member actually included the debt in its pre-consolidation assessable income, the head company will be taken to have included the debt in its own assessable income.
-This conclusion is supported by the discussion on 'What history is inherited?' set out at paragraph 2.32 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002. In this regard the paragraph states:
-
-'As a consequence of the entry history rule a head company may be entitled to certain deductions for expenditure incurred by a joining entity prior to it joining the group. Examples are entitlements to deductions for expenditure on borrowing expenses, gift deductions (where the entitlement to the deduction is spread), water facilities, connecting power or telephone lines, certain business related costs and expenditure allocated to a project pool. A head company may also be entitled to a deduction for a debt that is brought into a consolidated group which subsequently goes bad.'
-
-Date of decision:
-  19 December 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 701-1   Section 701-5   Subsection 25-35(1)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 92/18
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/4
-
-Other References:
-
- Consolidation reference manual (23 May 2003 edition) at C9-5-150
- Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002 paras 2.31 and 2.32
-
-Keywords
-
-Bad debts
- Consolidation
- Consolidation - formation
- Inherited history rules
- Single entity rule
-
-Siebel/TDMS Reference Number:
-  3672574
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  9 January 2004
-
-ISSN:
- 1445-2782
+Where the amount has been included in an entity's assessable income prior to joining a consolidated group the only way the head company can satisfy the requirement in paragraph 25-35(1)(a) of the ITAA 1997 is through an application of the 'entry history rule' set out at section 701-5 of the ITAA 1997. In this regard, section 701-5 of the ITAA 1997 states: 'For the head company core purposes in relation to the period after the entity becomes a *subsidiary member of the group, everything that happened in relation to it before it became a subsidiary member is taken to have happened in relation to the *head company.' * denotes a term defined in section 995-1 of the ITAA 1997 The entry history rule is rephrased in the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002. In this regard paragraph 2.31 states: 'Everything that happened in relation to an entity before it became a subsidiary member of a consolidated group is taken to have happened in relation to the head company for the purposes of calculating the head company's income tax liability or tax losses after it becomes a member.' What this means here is that while the subsidiary member actually included the debt in its pre-consolidation assessable income, the head company will be taken to have included the debt in its own assessable income.
+This conclusion is supported by the discussion on 'What history is inherited?' set out at paragraph 2.32 of the Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002. In this regard the paragraph states: 'As a consequence of the entry history rule a head company may be entitled to certain deductions for expenditure incurred by a joining entity prior to it joining the group. Examples are entitlements to deductions for expenditure on borrowing expenses, gift deductions (where the entitlement to the deduction is spread), water facilities, connecting power or telephone lines, certain business related costs and expenditure allocated to a project pool. A head company may also be entitled to a deduction for a debt that is brought into a consolidated group which subsequently goes bad.' Date of decision: 19 December 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Section 701-1 Section 701-5 Subsection 25-35(1) Related Public Rulings (including Determinations) Taxation Ruling TR 92/18 Related ATO Interpretative Decisions ATO ID 2004/4 Other References: Consolidation reference manual (23 May 2003 edition) at C9-5-150 Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No.1) 2002 paras 2.31 and 2.32 Keywords Bad debts Consolidation Consolidation - formation Inherited history rules Single entity rule Siebel/TDMS Reference Number: 3672574 Business Line: Consolidation Centre of Expertise Date of publication: 9 January 2004 ISSN: 1445-2782

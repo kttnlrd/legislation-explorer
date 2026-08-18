@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/957
-==================================================
-
-Income Tax
- Capital allowances: depreciating asset - hold - fixtures on land
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital allowances: depreciating asset - hold - fixtures on land FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the taxpayer hold, under item 10 of the table in section 40-40 of the Income Tax Assessment 1997 (ITAA 1997), a depreciating asset they affix to land they lease if an unrelated statutory provision provides that the taxpayer retains legal ownership of the asset?
 Decision
 No. The taxpayer does not hold the depreciating asset under item 10 of the table in section 40-40 of the ITAA 1997 because they hold the asset under item 2 of that table.
@@ -25,35 +14,4 @@ The first nine items in the table apply to specific kinds of depreciating assets
 The legal owner of a depreciating asset is a holder of the asset under item 10 of the table in section 40-40 of the ITAA 1997 unless another item in the table specifically prevents them from being a holder. The taxpayer is the legal owner of the asset because of the application of the statutory provision and, therefore, may be a holder of the asset under this item.
 Item 2 of the table in section 40-40 of the ITAA 1997 provides that if a depreciating asset is fixed to land over which there is a quasi-ownership right and the owner of the right has a right to remove the asset, then the asset is held by the owner of the quasi-ownership right for as long as the right to remove the asset exists. The taxpayer is a holder of the depreciating asset under this item because their lease constitutes a quasi-ownership right over the land and they have a right to remove the asset. For the purposes of Division 40 of the ITAA 1997, this item effectively displaces the common law presumption that ownership of assets affixed to land rests with the owner of the land. The statutory provision also displaces that common law presumption.
 For the purposes of identifying a holder of a depreciating asset under Division 40 of the ITAA 1997, however, the taxpayer is a holder of the depreciating asset under item 2 of the table in section 40-40 of the ITAA 1997 because it applies in preference to item 10 of that table.
-Date of decision:
-  16 November 2004
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 40-25(1)   section 40-40
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/958
-
-Keywords
-
-Depreciating asset
- Capital Allowances CoE
- Hold a depreciating asset
- Fixtures on land
-
-Siebel/TDMS Reference Number:
-  4261561
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  3 December 2004
-
-ISSN:
- 1445-2782
+Date of decision: 16 November 2004 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 subsection 40-25(1) section 40-40 Related ATO Interpretative Decisions ATO ID 2004/958 Keywords Depreciating asset Capital Allowances CoE Hold a depreciating asset Fixtures on land Siebel/TDMS Reference Number: 4261561 Business Line: Public Groups and International Date of publication: 3 December 2004 ISSN: 1445-2782

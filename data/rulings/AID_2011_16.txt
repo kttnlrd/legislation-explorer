@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/16
-==================================================
-
-Income Tax
- Employee Share Scheme: taxation of the discount on the exercise of share rights by a resident of the United States where the rights relate to employment exercised in and out of Australia while the taxpayer was an Australian resident
- FOI status: may be released
-
-This ATO ID is withdrawn from the database due to the repeal of Division 13A of Part III of the Income Tax Assessment Act 1936. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2008/2009 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Employee Share Scheme: taxation of the discount on the exercise of share rights by a resident of the United States where the rights relate to employment exercised in and out of Australia while the taxpayer was an Australian resident FOI status: may be released This ATO ID is withdrawn from the database due to the repeal of Division 13A of Part III of the Income Tax Assessment Act 1936. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2008/2009 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is any of the discount on the exercise of share rights acquired under an employee share scheme included in the assessable income of the taxpayer, where the taxpayer is a resident of the United States of America (US) at the cessation time but was an Australian resident working in and out of Australia during the vesting period for the rights?
 Decision
 Yes. The portion of the discount that is attributable to employment exercised in Australia may be taxed in Australia under Article 15 of the Convention between Australia and the US (US Convention) contained in Schedule 2 to the International Tax Agreements Act 1953 (Agreements Act) and is included in the taxpayer's income under paragraph 6-10(5)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) in the year of income in which the cessation time occurs.
@@ -41,89 +26,21 @@ Article 15(1) of the US Convention provides that salaries, wages and other simil
 The Commissioner's view expressed at paragraph 104 of Taxation Ruling TR 2001/13 is that the OECD Model Tax Convention and the associated commentaries (the OECD Commentary) may be considered in interpreting tax treaties.
 Paragraph 2.1 of the OECD Commentary on Article 15 states that member countries have generally understood the term "salaries, wages and other similar remuneration" to include benefits in kind (e.g. stock-options) received in respect of an employment. Paragraph 2.2 goes on to explain that the condition provided by the Article for taxation by the State of source is that the salaries, wages or other similar remuneration be derived from the exercise of employment in that State. This applies regardless of when that income may be paid to, credited to or otherwise definitively acquired by the employee. (emphasis added)
 The treatment of employee stock options is discussed in detail in paragraph 12 of the OECD Commentary, and introduces the topic by commenting that different country rules for taxing employee stock-options create particular problems, which is largely due to the fact that stock-options are often taxed at a time that is different from the time when the employment services that are remunerated through these options are rendered.
-The OECD Commentary provides that Article 15 will be interpreted to allow the State of source to tax the benefits accruing up to the time the option is exercised, sold or otherwise alienated, but it is left to the Contracting State to decide how to tax such benefits (paragraph 12.4). Further, it states at paragraph 12.6:
-
-The determination of whether and to what extent an employee stock-option is derived from employment exercised in a particular State must be done in each case on the basis of all the relevant facts and circumstances, including the contractual conditions associated with that option ...
-
-The OECD Commentary notes two general principles for the purposes of making such a determination:
-
-•an option should not be considered to relate to any services rendered after the period of employment that is required as a condition for the employee to acquire the right to exercise the option (see paragraph 12.7).
-•options should only be considered to relate to services rendered before the time when it is granted to the extent that such grant is intended to reward the provision of services for a specific period (see paragraph 12.11).
-
-Where a period of employment is generally required to obtain the right to exercise the option but such requirement is not applied in certain circumstances, such as retirement, redundancy etc, the benefit of the stock option should only relate to the period of service actually performed (see paragraph 12.12).
+The OECD Commentary provides that Article 15 will be interpreted to allow the State of source to tax the benefits accruing up to the time the option is exercised, sold or otherwise alienated, but it is left to the Contracting State to decide how to tax such benefits (paragraph 12.4). Further, it states at paragraph 12.6: The determination of whether and to what extent an employee stock-option is derived from employment exercised in a particular State must be done in each case on the basis of all the relevant facts and circumstances, including the contractual conditions associated with that option ... The OECD Commentary notes two general principles for the purposes of making such a determination: •an option should not be considered to relate to any services rendered after the period of employment that is required as a condition for the employee to acquire the right to exercise the option (see paragraph 12.7).
+•options should only be considered to relate to services rendered before the time when it is granted to the extent that such grant is intended to reward the provision of services for a specific period (see paragraph 12.11). Where a period of employment is generally required to obtain the right to exercise the option but such requirement is not applied in certain circumstances, such as retirement, redundancy etc, the benefit of the stock option should only relate to the period of service actually performed (see paragraph 12.12).
 Having regard to the terms and conditions associated with the taxpayer's rights in this case, the benefit should be considered to relate to the employment exercised during the performance period that gives rise to the vesting of the rights (except in cases where a taxpayer has ceased employment prior to the end of the performance period and has retained the rights, in which case the relevant period would end when the taxpayer ceased employment).
 The OECD Commentary provides that where the benefit of an option is derived from employment rendered in more than one State the employment benefit attributable to the stock option should be considered to be derived from a particular country in proportion of the number of days during which the employment has been exercised in that country to the total number of days during which the employment services from which the stock option is derived have been exercised (see paragraph 12.14).
 The OECD Commentary, specifically related to employee stock options was inserted in the OECD Model Commentary in 2005 after a review by the OECD Committee on Fiscal Affairs produced several documents (see 'Other References' below for details) which are considered relevant to an analysis of the Commentary. These documents provide further background and detail to the OECD Commentary and the examples illustrate that the OECD consider the benefit derived from employment is calculated based on working days.
 While not binding, the OECD Model and Commentaries create a general or 'quasi-political', rather than 'legal', expectation that OECD Members will basically comply (see Taxation Ruling TR 2001/13, at paragraph 101). Accordingly, the Commissioner sees no reason to depart from the method put forward by the OECD.
 Therefore, for the purposes of calculating the amount that Australia can include in the taxpayer's assessable income, the discount that is determined under either subsection 139CC(3) or subsection 139CC(4) of the ITAA 1936 needs to be apportioned for the period that is attributable to the employment exercised in Australia. The apportionment is calculated by the number of days that the taxpayer worked in Australia for their employer during the performance period, to the total number of days worked for their employer during the performance period.
 In this case, the relevant portion of the discount that is attributable to employment exercised in Australia is determined by multiplying the discount by 500/660.
-Article 15(2) of the US Convention provides that, notwithstanding the provisions of Article 15(1), remuneration derived by an individual who is resident of the US in respect of an employment exercised in Australia or in respect of services performed in Australia as a director of a company shall be taxable only in the US if:
-
-(a)the recipient is present in Australia for a period or periods not exceeding in the aggregate 183 days in the taxable year or year of income of Australia;
+Article 15(2) of the US Convention provides that, notwithstanding the provisions of Article 15(1), remuneration derived by an individual who is resident of the US in respect of an employment exercised in Australia or in respect of services performed in Australia as a director of a company shall be taxable only in the US if: (a)the recipient is present in Australia for a period or periods not exceeding in the aggregate 183 days in the taxable year or year of income of Australia;
 (b)the remuneration is paid by, or on behalf of, an employer or company who is not a resident of Australia; and
-(c)the remuneration is not deductible in determining taxable profits of a permanent establishment, a fixed base or a trade or business which the employer or company has in Australia.
-
-The remuneration was paid to the taxpayer by an Australian resident company, therefore, Article 15(2)(b) is not satisfied. Accordingly, Article 15(2) of the US Convention does not prevent Australia from taxing a portion of the benefit from the rights.
+(c)the remuneration is not deductible in determining taxable profits of a permanent establishment, a fixed base or a trade or business which the employer or company has in Australia. The remuneration was paid to the taxpayer by an Australian resident company, therefore, Article 15(2)(b) is not satisfied. Accordingly, Article 15(2) of the US Convention does not prevent Australia from taxing a portion of the benefit from the rights.
 Where the US Convention gives Australia the right to tax an amount derived by a resident of the US, Article 27(1)(a) will deem the amount to have an Australian source for the purposes of the ITAA 1936 and ITAA 1997.
-Accordingly, the portion of the discount that is attributable to employment exercised in Australia may be taxed in Australia and is included in the taxpayer's assessable income under paragraph 6-10(5)(a) of the ITAA 1997.
-
-Note: For rights acquired on or after 26 June 2005 the amendments made by the New International Tax Arrangements (Foreign-Owned Branches and Other Measures) Act 2005 (No 64 of 2005) will need to be considered.
-
-Date of decision:
-  9 February 2011
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 13A of Part III   subsection 139B(1)   subsection 139B(3)   subsection 139CC(3)   subsection 139CC(4)   section 139CB   section 139CD   section 139E
-Income Tax Assessment Act 1997   subsection 6-10(5)   paragraph 6-10(5)(a)   paragraph 6-10(5)(b)   section 10-5
-International Tax Agreements Act 1953   Section 4   Schedule 2, Article 15   Schedule 2, Article 27(1)(a)
- New International Tax Arrangements (Foreign-owned Branches and Other Measures) Act 2005 (No 64 of 2005)   The Act
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/13
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/1084
-
-Other References:
-
-OECD Model Tax Convention on Income and on Capital (Condensed Version July 2008)
- OECD, 'Cross-Border Income Tax Issues Arising from Employee Stock-Option Plans: Report approved by the Committee on Fiscal Affairs' (23/08/2004)
- OECD Tax Policy Studies, 2005, The Taxation of Employee Stock Options - No. 11, OECD Publishing, ISBN 92-64-01248-6.
-
-Keywords
-
-Double tax agreements
- Employee share schemes & options
- Non resident individuals
- United States
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  25 February 2011
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 February 2011
-Original statement
-
-You are here
+Accordingly, the portion of the discount that is attributable to employment exercised in Australia may be taxed in Australia and is included in the taxpayer's assessable income under paragraph 6-10(5)(a) of the ITAA 1997. Note: For rights acquired on or after 26 June 2005 the amendments made by the New International Tax Arrangements (Foreign-Owned Branches and Other Measures) Act 2005 (No 64 of 2005) will need to be considered. Date of decision: 9 February 2011 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 Division 13A of Part III subsection 139B(1) subsection 139B(3) subsection 139CC(3) subsection 139CC(4) section 139CB section 139CD section 139E
+Income Tax Assessment Act 1997 subsection 6-10(5) paragraph 6-10(5)(a) paragraph 6-10(5)(b) section 10-5
+International Tax Agreements Act 1953 Section 4 Schedule 2, Article 15 Schedule 2, Article 27(1)(a) New International Tax Arrangements (Foreign-owned Branches and Other Measures) Act 2005 (No 64 of 2005) The Act Related Public Rulings (including Determinations) Taxation Ruling TR 2001/13 Related ATO Interpretative Decisions ATO ID 2003/1084 Other References: OECD Model Tax Convention on Income and on Capital (Condensed Version July 2008) OECD, 'Cross-Border Income Tax Issues Arising from Employee Stock-Option Plans: Report approved by the Committee on Fiscal Affairs' (23/08/2004) OECD Tax Policy Studies, 2005, The Taxation of Employee Stock Options - No. 11, OECD Publishing, ISBN 92-64-01248-6. Keywords Double tax agreements Employee share schemes & options Non resident individuals United States Business Line: International Centre of Expertise Date of publication: 25 February 2011 ISSN: 1445-2782 history Date: Version: 9 February 2011
+Original statement You are here
 25 February 2011
 Archived

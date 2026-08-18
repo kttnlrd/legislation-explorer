@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/356
-==================================================
-
-Income tax
- Deductibility of interest payments by a foreign resident to another foreign resident where no withholding tax has been deducted from the payments
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Deductibility of interest payments by a foreign resident to another foreign resident where no withholding tax has been deducted from the payments FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a foreign resident (the payer) pays interest to another foreign resident, and deducts no withholding tax from the payment as the payer is not required to withhold under Subdivision 12-F of the Taxation Administration Act 1953 (ITAA 1953), will the payer be denied a deduction for that interest under section 26-25 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. Where a foreign resident pays interest to another foreign resident and deducts no withholding tax from the payment, as the payer is not required to withhold under Subdivision 12-F of the TAA, section 26-25 of the ITAA 1997 will not operate to deny the payer a deduction for the interest.
@@ -27,32 +16,6 @@ However, section 12-300 of Subdivision 12-F of the Schedule provides that there 
 Sub-paragraph 128B(2)(b)(ii) of the ITAA 1936 imposes withholding tax on interest paid to a non-resident by another non-resident if the interest is an outgoing incurred by the payer in carrying on a business at or through a permanent establishment in Australia.
 As the taxpayer does not incur interest in carrying on a business at or through a permanent establishment in Australia, there is no withholding tax obligation under subparagraph s128B(2)(b)(ii) and no amount is required to be withheld under Subdivision 12-F of Schedule 1 to the TAA 1953.
 As a result, section 26-25 will not operate to deny the payer a deduction for the interest.
-Date of decision:
-  29 November 2005
-
-Year of income:
-  Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 26-25
-Income Tax Assessment Act 1936   sub-paragraph 128B(2)(b)(ii)
-Taxation Administration Act 1953   section 12-245   section 12-300
-
-Keywords
-
-Interest expenses
- Non resident interest withholding tax
- Permanent establishment
-
-Siebel/TDMS Reference Number:
-  4795069
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 December 2005
-
-ISSN:
- 1445-2782
+Date of decision: 29 November 2005 Year of income: Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 section 26-25
+Income Tax Assessment Act 1936 sub-paragraph 128B(2)(b)(ii)
+Taxation Administration Act 1953 section 12-245 section 12-300 Keywords Interest expenses Non resident interest withholding tax Permanent establishment Siebel/TDMS Reference Number: 4795069 Business Line: Public Groups and International Date of publication: 23 December 2005 ISSN: 1445-2782

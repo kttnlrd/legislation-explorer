@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/91
-==================================================
-
-Income Tax
- Taxation of financial arrangements: meaning of 'premium' in section 230-165 of the Income Tax Assessment Act 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of financial arrangements: meaning of 'premium' in section 230-165 of the Income Tax Assessment Act 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will an amount reflecting the difference between the consideration paid for acquiring a portfolio of loans and the face value of the portfolio be a 'premium' for the purposes of section 230-165 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. Where the consideration paid for acquiring a portfolio of loans is greater than the face value of the portfolio, this is a premium for the purposes of section 230-165 of the ITAA 1997.
@@ -33,47 +22,7 @@ A gain or loss is to be calculated in nominal terms (as indicated by subsections
 Where applicable, sections 230-150 and 230-165 overlay the ordinary accruals rules in Subdivision 230-B, to apply specific treatment for portfolio premiums and discounts (see subsection 230-165(5)).
 To the extent that a gain or loss under the accruals method arises in part from a premium or discount, paragraph 230-165(2)(a) treats that part of the gain or loss attributable to the discount or premium to be a particular gain or loss to which the accruals method applies. To the extent that the gain or loss does not arise from the premium or discount, it will be treated as a separate gain or loss from the financial arrangement to which the accruals method applies.
 The term 'premium' in paragraphs 230-165(1)(d) and 230-165(2)(a) appears as an alternative, or in contrast, to the term 'discount'. To the extent that a discount constitutes a gain from the acquisition of an entire portfolio, it follows that a premium should therefore constitute a loss.
-It is consistent with the structure of Division 230 to calculate the discount or premium which arises due to the acquisition of the entire portfolio (rather than being attributable to any specific financial arrangement within that portfolio) in the same manner that a gain or loss referrable to an individual financial arrangement would ordinarily be calculated. That is the net gain or loss in nominal terms is determined by comparing the difference between the outgoings (consideration paid) and receipts (principal outstanding at the time of acquisition). In determining a 'discount', an approach which offsets the cost of a portfolio against its face value is consistent with the statement in paragraph 4.155 of the EM:
-
-'A portfolio of loans purchased for an amount less than its face value may represent a portfolio discount to which the modified accruals rule may also apply.'
-
-The same approach is therefore appropriate in determining a 'premium'.
+It is consistent with the structure of Division 230 to calculate the discount or premium which arises due to the acquisition of the entire portfolio (rather than being attributable to any specific financial arrangement within that portfolio) in the same manner that a gain or loss referrable to an individual financial arrangement would ordinarily be calculated. That is the net gain or loss in nominal terms is determined by comparing the difference between the outgoings (consideration paid) and receipts (principal outstanding at the time of acquisition). In determining a 'discount', an approach which offsets the cost of a portfolio against its face value is consistent with the statement in paragraph 4.155 of the EM: 'A portfolio of loans purchased for an amount less than its face value may represent a portfolio discount to which the modified accruals rule may also apply.' The same approach is therefore appropriate in determining a 'premium'.
 Example 4.6 in the EM identifies a premium as the difference between the consideration for the portfolio and its market value (in terms of net present value) at the time of acquisition. This appears to be inconsistent with the ordinary meaning of the term in the context of financial arrangements, the overall approach of Division 230 in determining a gain or loss, and the approach to determining a gain from a portfolio discount under section 230-165.
 In Brooks & Anor v FC of T 2000 ATC 4362 at 4376, the full Federal Court noted 'there have been cases where the law as stated in the Explanatory Memorandum has been held to be wrong.' To the extent that Example 4.6 in the EM is inconsistent with other statements in the EM and the structure of Division 230 as set out above, the example is not considered to accurately reflect the law.
-Date of decision:
-  24 October 2011
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 230   section 230-60   subsection 230-70(1)   subsection 230-75(1)   Subdivision 230-B   section 230-150   section 230-165   subsection 230-165(1)(d)   paragraph 230-165(2)(a)   subsection 230-165(5)   section 230-505
-
-Case References:
-
-Project Blue Sky Inc & Others v Australian Broadcasting Authority   (1998) 194 CLR 355
-
-Brooks & Anor v FC of T   2000 ATC 4362
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008
- The Macquarie Dictionary, 5th Edn, The Macquarie Library Pty Ltd, NSW, 2009
-
-Keywords
-
-Income tax
- Taxation of Financial Arrangements (CoE)
-
-Siebel/TDMS Reference Number:
-  1-3K3OU0H
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  10 November 2011
-
-ISSN:
- 1445-2782
+Date of decision: 24 October 2011 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1997 Division 230 section 230-60 subsection 230-70(1) subsection 230-75(1) Subdivision 230-B section 230-150 section 230-165 subsection 230-165(1)(d) paragraph 230-165(2)(a) subsection 230-165(5) section 230-505 Case References: Project Blue Sky Inc & Others v Australian Broadcasting Authority (1998) 194 CLR 355 Brooks & Anor v FC of T 2000 ATC 4362 Other References: Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 The Macquarie Dictionary, 5th Edn, The Macquarie Library Pty Ltd, NSW, 2009 Keywords Income tax Taxation of Financial Arrangements (CoE) Siebel/TDMS Reference Number: 1-3K3OU0H Business Line: Finance and Investment Centre of Expertise Date of publication: 10 November 2011 ISSN: 1445-2782

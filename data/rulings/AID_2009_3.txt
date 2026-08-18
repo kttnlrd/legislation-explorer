@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/3
-==================================================
-
-Income Tax
- Capital Allowances: business related costs - business transfer arrangement establishing rights to intellectual property
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: business related costs - business transfer arrangement establishing rights to intellectual property FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is some part of the price the taxpayer paid to acquire a business of franchising, capital expenditure on acquiring confidential information, trade secrets and know-how of the business for which a deduction may be allowable under section 40-880 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. No part of the price the taxpayer paid to acquire a business of franchising is capital expenditure on acquiring confidential information, trade secrets and know-how of the business, because the character of the transaction and the nature of the assets acquired prescribe that the purchase price was paid to acquire the various rights that collectively constitute the business acquired. The whole of the capital expenditure incurred by the taxpayer was incurred on those rights and, therefore, is excluded from deduction under section 40-880 of the ITAA 1997 by the operation of paragraphs 40-880(5)(a) and 40-880(5)(f) of the ITAA 1997.
@@ -37,43 +26,4 @@ Critically, it is the protection of copyrights, registered designs, patents and 
 The fact that the sale agreement describes confidential information, trade secrets and know-how as a separate item within the business format and attributes a part of the purchase price to it does not determine the character of the transaction. The character of the transaction and the nature of the business acquired prescribe that the purchase price necessarily relates to the assets that comprise the various rights that enable the taxpayer to carry on the business.
 Consequently, the Commissioner considers that the purchase price, provided by the taxpayer as consideration for the acquisition of the business, is provided for all of the rights in relation to the trade marks, business names, domain names, patents, registered designs, copyrights, maintaining confidentiality and conducting the business. The price paid to acquire the business is, therefore, properly and wholly referable to those rights and not in any part referable to mere information which is neither real nor personal property. The rights held under copyrights, patents and registered designs are items of intellectual property for the purposes of the income tax law and are included in the definition of a depreciating asset under paragraph 40-30(2)(c). The remaining assets listed above are CGT assets pursuant to paragraph 108-5(1)(b).
 A deduction under section 40-880 is not allowed to the extent that the capital expenditure is taken into account in some way elsewhere in the income tax law. The capital expenditure incurred on acquiring the depreciating assets listed above forms part of the cost of the depreciating assets and is, therefore, excluded from deduction under section 40-880 by the operation of paragraph 40-880(5)(a). The expenditure incurred on acquiring the CGT assets listed above could be taken into account in working out the amount of a capital gain or capital loss from a CGT event because the expenditure forms part of the cost base of those assets. The expenditure will, therefore, be excluded from deduction under section 40-880 by the operation of paragraph 40-880(5)(f).
-Date of decision:
-  26 November 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   paragraph 40-30(2)(c)   section 40-880   paragraph 40-880(5)(a)   paragraph 40-880(5)(f)   paragraph 108-5(1)(b)
-
-Case References:
-
-Moriarty (Inspector of Taxes) v. Evans Medical Supplies Ltd    [1957] 3 All ER 718
-
-Rolls-Royce Ltd v. Jeffrey (Inspector of Taxes)    [1962] 1 All ER 801
-
-Keywords
-
-Blackhole expenditure
- Capital Allowances CoE
- Capital expenditure
- Cost of a depreciating asset
- Deduction for depreciating assets
- Deductions & expenses
- First element of cost
- Intellectual property rights
- Know how
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  6016319
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 January 2009
-
-ISSN:
- 1445-2782
+Date of decision: 26 November 2008 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 paragraph 40-30(2)(c) section 40-880 paragraph 40-880(5)(a) paragraph 40-880(5)(f) paragraph 108-5(1)(b) Case References: Moriarty (Inspector of Taxes) v. Evans Medical Supplies Ltd [1957] 3 All ER 718 Rolls-Royce Ltd v. Jeffrey (Inspector of Taxes) [1962] 1 All ER 801 Keywords Blackhole expenditure Capital Allowances CoE Capital expenditure Cost of a depreciating asset Deduction for depreciating assets Deductions & expenses First element of cost Intellectual property rights Know how Uniform capital allowances system Siebel/TDMS Reference Number: 6016319 Business Line: Public Groups and International Date of publication: 9 January 2009 ISSN: 1445-2782

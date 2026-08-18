@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/137
-==================================================
-
-Petroleum Resource Rent Tax
- Petroleum Resource Rent Tax: deductibility of selling expenses - put option premiums
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Petroleum Resource Rent Tax Petroleum Resource Rent Tax: deductibility of selling expenses - put option premiums FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a taxpayer claim premiums paid on put option transactions to reduce 'assessable petroleum receipts' pursuant to paragraph 24(1)(a) of the Petroleum Resource Rent Tax Assessment Act 1987 (PRRTAA)?
 Decision
 No. Premiums paid on put option transactions are not 'expenses payable' by the taxpayer 'in relation to the sale' of any petroleum or marketable petroleum commodity as per paragraph 24(1)(a) of the PRRTAA.
@@ -23,30 +12,4 @@ No crude oil is sold by exercising the put options, and none is sold to a party 
 Reasons for Decision
 Premium expenses and losses from these put option transactions are not taken into account for PRRT purposes under section 24 of the PRRTAA as reductions to consideration receivable for the sale of petroleum or marketable petroleum commodities in an arm's length transaction. Broadly, under section 24, the sale price brought to account for PRRT purposes is the gross consideration receivable less any expenses payable by the person in relation to the sale.
 Any premium expenses in relation to put option contracts under which no petroleum is actually sold do not affect the consideration receivable by the taxpayer when it sells petroleum or marketable petroleum commodities, nor do such expenses add to the costs of that sale. The consideration receivable for the sale of petroleum or marketable petroleum commodities is not set by reference to the put option contracts; and if the taxpayer actually sells no petroleum or marketable petroleum commodities the premium paid on the put option contract will still have been incurred. The put option contracts produce a result which may run counter to the effect of changes in the price of petroleum or marketable petroleum commodities over the period between entry into the put options and their realisation or expiry, at which time there may be the actual sale of petroleum or marketable petroleum commodities; but the put options do not change the consideration for or costs of the actual sale of petroleum or marketable petroleum commodities.
-Date of decision:
-  6 May 2005
-
-Year of income:
-  Year ended 30 June 2004 Year ended 30 June 2005
-
-Legislative References:
-
-Petroleum Resource Rent Tax Assessment Act 1987   section 24   paragraph 24(1)(a)
-
-Keywords
-
-Put option
- PRRT assessable petroleum receipts
- Petroleum resource rent tax
-
-Siebel/TDMS Reference Number:
-  4109362
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  13 May 2005
-
-ISSN:
- 1445-2782
+Date of decision: 6 May 2005 Year of income: Year ended 30 June 2004 Year ended 30 June 2005 Legislative References: Petroleum Resource Rent Tax Assessment Act 1987 section 24 paragraph 24(1)(a) Keywords Put option PRRT assessable petroleum receipts Petroleum resource rent tax Siebel/TDMS Reference Number: 4109362 Business Line: Public Groups and International Date of publication: 13 May 2005 ISSN: 1445-2782

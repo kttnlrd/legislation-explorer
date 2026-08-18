@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/638
-==================================================
-
-Income Tax
- CGT: Capital proceeds payable by instalments - not all received - application of CGT event C2
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT: Capital proceeds payable by instalments - not all received - application of CGT event C2 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where the 'consideration in respect of the disposal of an asset' is payable by instalments over time, does CGT event C2 in section 104-25 of the Income Tax Assessment Act 1997 (ITAA 1997) happen to the debt owing to the vendor if the vendor later agrees to a reduction in the amount owing?
 Decision
 Yes. CGT event C2 in section 104-25 of the ITAA 1997 will happen to the debt owing to the vendor, upon the vendor agreeing to accept a lesser amount.
@@ -26,39 +15,4 @@ The action of the vendor in agreeing to accept a lesser amount than that which t
 Whether a capital gain or capital loss is made from CGT event C2 happening to the debt owing to the vendor, will depend on the calculation of the cost base of that debt and the capital proceeds from the CGT event. If the capital proceeds received from CGT event C2 happening to an asset are less than the market value of the asset, those proceeds are replaced with the market value of the asset as at the time of the event (subsection 116-30(2) of the ITAA 1997). The market value is worked out as if the event had not occurred and was never proposed to occur (subsection 116-30(3A) of the ITAA 1997).
 In this particular case, the capital proceeds from CGT event C2 happening to the debt owing to the vendor is the new reduced amount the vendor is entitled to receive. If that reduced amount is less than the market value of the debt previously owing to the vendor, then the capital proceeds are replaced with that market value.
 The ways in which a taxpayer may obtain acceptable valuations for CGT purposes can be found in Taxation Determination TD10.
-Date of decision:
-  14 October 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-25   subsection 104-25(1)   section 108-5   subsection 116-30(2)   subsection 116-30(3A)
-
-Related Public Rulings (including Determinations)
-
-TD 10
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/635
- ATO ID 2003/636
- ATO ID 2003/637
-
-Keywords
-
-Capital gains tax
- Capital proceeds
-
-Siebel/TDMS Reference Number:
-  334671
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 July 2003
-
-ISSN:
- 1445-2782
+Date of decision: 14 October 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 104-25 subsection 104-25(1) section 108-5 subsection 116-30(2) subsection 116-30(3A) Related Public Rulings (including Determinations) TD 10 Related ATO Interpretative Decisions ATO ID 2003/635 ATO ID 2003/636 ATO ID 2003/637 Keywords Capital gains tax Capital proceeds Siebel/TDMS Reference Number: 334671 Business Line: Public Groups and International Date of publication: 25 July 2003 ISSN: 1445-2782

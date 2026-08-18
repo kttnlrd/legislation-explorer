@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/609
-==================================================
-
-Income Tax
- Dividends & Imputation Credits - dividends received by an employer and paid to an employee
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Dividends & Imputation Credits - dividends received by an employer and paid to an employee FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer entitled to imputation credits under section 160AQU of the Income Tax Assessment Act 1936 (ITAA 1936) for dividends received by their employer and then paid to them in their capacity as an employee?
 Decision
 No, the taxpayer is not entitled to imputation credits under section 160AQU of the ITAA 1936 for dividends received by their employer and then paid to them in their capacity as employee.
@@ -24,32 +13,5 @@ A franked dividend is a dividend paid or credited to a shareholder by an Austral
 A shareholder who receives a franked dividend is required to include in their assessable income an extra amount under section 160AQT of the ITAA 1936. The extra amount is equivalent to the amount of company tax attributable to the dividend. The shareholder is then entitled to claim that amount as an imputation credit under section 160AQU of the ITAA 1936.
 To be eligible to receive dividends and the associated imputation credits from a company, a taxpayer must have a shareholding interest in the capital of the company and be listed on the share register of the company. It is the employer, not the employee, who is registered as a shareholder. It is the employer who is entitled to receive dividends and use the imputation credits received.
 Any dividend passed on from the employer to the taxpayer in their capacity as an employee loses its character as a dividend. Any amounts received by the taxpayer as remuneration for their services as an employee would be regarded as income in the nature of salary or wages and assessable to them under section 6-5 of the Income Tax Assessment Act 1997. The taxpayer is therefore not entitled to any imputation credits under section 160AQU of the ITAA 1936.
-Date of decision:
-  19 July 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160APA   section 160AQF   section 160AQT   section 160AQU
-Income Tax Assessment Act 1997   section 6-5
-
-Keywords
-
-Franked dividends
- Dividend income
- Imputation credits
- Shareholder
-
-Siebel/TDMS Reference Number:
-  DW226115
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  22 November 2001
-
-Date reviewed:
-  22 April 2014
-
-ISSN:
- 1445-2782
+Date of decision: 19 July 2001 Legislative References: Income Tax Assessment Act 1936 section 160APA section 160AQF section 160AQT section 160AQU
+Income Tax Assessment Act 1997 section 6-5 Keywords Franked dividends Dividend income Imputation credits Shareholder Siebel/TDMS Reference Number: DW226115 Business Line: Private Groups and High Wealth Individuals Date of publication: 22 November 2001 Date reviewed: 22 April 2014 ISSN: 1445-2782

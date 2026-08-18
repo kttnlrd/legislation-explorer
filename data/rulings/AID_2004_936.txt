@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/936
-==================================================
-
-Income Tax
- Capital Gains Tax: consequences of barring estate tail
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: consequences of barring estate tail FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are there any capital gains tax (CGT) implications when a taxpayer, who owns an estate in fee tail in a property, bars the tail and obtains an estate in fee simple in the property?
 Decision
 No. There are no CGT implications when an estate in fee tail is barred. The owner of the property is not taken to have acquired any asset for the purposes of Division 109 of the Income Tax Assessment Act 1997 (ITAA 1997) when the fee tail is barred.
@@ -27,44 +16,4 @@ In this case, the taxpayer intends to bar the estate tail by the use of a disent
 It is considered that no CGT event in Division 104 of the ITAA 1997 will happen when the taxpayer's interest in the property is enlarged as a result of entering into the disentailing deed. Essentially, the ability of the taxpayer to disentail the property was inherent in the asset that the taxpayer acquired from the deceased former owner.
 Therefore, the taxpayer is taken to have acquired the estate in fee simple under the terms of the deceased's will. Section 128-15 of the ITAA 1997 sets out the CGT consequences that result when a CGT asset a deceased person owned just before they died passes to a beneficiary in the deceased's estate. One consequence is that the beneficiary is taken to have acquired the asset on the day the deceased person died (subsection 128-15(2) of the ITAA 1997).
 In this case, the deceased died before 20 September 1985. Therefore, the taxpayer is taken to have acquired the property before that time. The date the taxpayer acquired the property was not affected by their having entered into the disentailing deed.
-As the taxpayer acquired their interest in the property before 20 September 1985, any capital gain or capital loss they make when they dispose of the property will be disregarded (subsection 104-10(5) of the ITAA 1997).
-
-Note: Estates in tail have now been abolished in most states of Australia.
-
-Date of decision:
-  28 October 2004
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 104   subsection 104-10(5)   Division 109   section 128-15   subsection 128-15(2)
-
-Case References:
-
-Re Gaskell and Walters' Contract   [1906] 2 Ch 1
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 93/37
-
-Keywords
-
-Acquisition dates
- CGT deceased estates
- Deceased estates
- Heirs
- Wills
-
-Siebel/TDMS Reference Number:
-  4087384
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  26 November 2004
-
-ISSN:
- 1445-2782
+As the taxpayer acquired their interest in the property before 20 September 1985, any capital gain or capital loss they make when they dispose of the property will be disregarded (subsection 104-10(5) of the ITAA 1997). Note: Estates in tail have now been abolished in most states of Australia. Date of decision: 28 October 2004 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 Division 104 subsection 104-10(5) Division 109 section 128-15 subsection 128-15(2) Case References: Re Gaskell and Walters' Contract [1906] 2 Ch 1 Related Public Rulings (including Determinations) Taxation Determination TD 93/37 Keywords Acquisition dates CGT deceased estates Deceased estates Heirs Wills Siebel/TDMS Reference Number: 4087384 Business Line: Small Business/Individual Taxpayers Date of publication: 26 November 2004 ISSN: 1445-2782

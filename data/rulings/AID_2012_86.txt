@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/86
-==================================================
-
-Fringe Benefits Tax
- Taxable value of in-house residual expense payment fringe benefits - effect of a rebate under the Private Health Insurance Incentives Act 2007
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Taxable value of in-house residual expense payment fringe benefits - effect of a rebate under the Private Health Insurance Incentives Act 2007 FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In determining the taxable value of an in-house residual expense payment fringe benefit under subsection 22A(2) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA), will the lowest price at which an identical benefit is sold to a member of the public in terms of section 48 of the FBTAA reflect any Commonwealth Government rebate provided to the employee under the Private Health Insurance Incentives Act 2007?
 Decision
 No. In determining the 'lowest price' in terms of section 48 of the FBTAA, such rebates will constitute recipients contributions and will not be included in that process.
@@ -26,152 +13,30 @@ The Commonwealth Government provides a rebate in respect of private health insur
 The rebate is a percentage of the discounted premium which is otherwise payable.
 To claim the rebate the employee must complete a claim form and attach a receipt from the health insurer.
 Under their agreement, the employee agrees to pay the amount of the rebate received to the employer in the same FBT year.
-Where the full premium payable is $3,000 and a 30% Commonwealth Government rebate is paid the rebate received by the employee will be $792.
-
-$
-
-Annual full premium
-3,000
-
-12% discount
-
-360
-
-Employee's liability
-2,640
-
-Amount paid by employer
-
-2,640
-
-Reduction in premium
-
-0
-
-Rebate received by employee
-
-792
-
-Reasons for Decision
+Where the full premium payable is $3,000 and a 30% Commonwealth Government rebate is paid the rebate received by the employee will be $792. $ Annual full premium
+3,000 12% discount 360 Employee's liability
+2,640 Amount paid by employer 2,640 Reduction in premium 0 Rebate received by employee 792 Reasons for Decision
 The payment of the employee's private health insurance premium by the employer is an in-house residual expense payment fringe benefit in terms of subsection 136(1) of the FBTAA.
 In determining the taxable value of the benefit under subsection 22A(2) of the FBTAA it is necessary to refer to section 48 of the FBTAA on the basis that if the service had been provided as a residual benefit, it would have constituted an in-house non period residual fringe benefit.
-Under section 48 of the FBTAA the taxable value is calculated in relation to an employer in relation to a year of tax as being:
-
-(a)where at or about the comparison time, identical benefits were provided by the provider
-
-(i)... and
-(ii)...
-
-an amount equal to 75% of the lowest
- price
- at which an identical benefit was sold to a member of the public or
-
-(b)...
-
-reduced by the amount of recipients contribution
- (emphasis added)
-
-If the amount paid by the employee to the employer is a 'recipients contribution', it will be deducted from 75% of the 'lowest price' and therefore cannot take part in the determination of the lowest price. If it were, then this amount would be taken into account twice.
-The relevant definition of 'recipients contribution' in subsection 136(1) of the FBTAA is:
-
-(b)in relation to an expense payment fringe benefit provided in respect of the employment of an employee or an employer being a fringe benefit to which paragraph 20(a) applies - an amount paid to the provider or to the employer by the recipient or by the employee in respect of the provision of the fringe benefit.
-
-In using the method in section 48 of the FBTAA to calculate the taxable value of an 'in-house residual fringe benefit', paragraph 22A(2)(b) of the FBTAA provides the calculation of 'recipients contribution'. However, the amount of the recipients contribution as defined in subsection 136(1) of the FBTAA, in relation to the actual fringe benefit is still taken into account in this calculation.
+Under section 48 of the FBTAA the taxable value is calculated in relation to an employer in relation to a year of tax as being: (a)where at or about the comparison time, identical benefits were provided by the provider (i)... and
+(ii)... an amount equal to 75% of the lowest price at which an identical benefit was sold to a member of the public or (b)... reduced by the amount of recipients contribution (emphasis added) If the amount paid by the employee to the employer is a 'recipients contribution', it will be deducted from 75% of the 'lowest price' and therefore cannot take part in the determination of the lowest price. If it were, then this amount would be taken into account twice.
+The relevant definition of 'recipients contribution' in subsection 136(1) of the FBTAA is: (b)in relation to an expense payment fringe benefit provided in respect of the employment of an employee or an employer being a fringe benefit to which paragraph 20(a) applies - an amount paid to the provider or to the employer by the recipient or by the employee in respect of the provision of the fringe benefit. In using the method in section 48 of the FBTAA to calculate the taxable value of an 'in-house residual fringe benefit', paragraph 22A(2)(b) of the FBTAA provides the calculation of 'recipients contribution'. However, the amount of the recipients contribution as defined in subsection 136(1) of the FBTAA, in relation to the actual fringe benefit is still taken into account in this calculation.
 As the amount equal to the rebate was paid by the employee to the employer pursuant to their agreement in respect of the fringe benefit it will be a recipients contribution and will not be taken into account in determining the 'lowest price' in section 48 of the FBTAA.
 The lowest price at which an identical benefit would be offered to the public by the employer is the amount of the obligation to the insurer prior to any rebates or reductions to which a particular individual may be entitled under the Private Health Insurance Incentives Act 2007.
 This situation may be contrasted with a manufacturer's rebate in relation to the cost price of a car which is dealt with in Taxation Ruling TR 2011/3 Fringe benefits tax: meaning of 'cost price' of a car, for the purpose of calculating the taxable value of car fringe benefits.
-Subsection 136(1) of the FBTAA, defines 'cost price of a car' as being:
-
-(a)in relation to a car owned by a person
-
-(i)...
-(ii)...
-
-(A)the expenditure incurred by the person (other than expenditure in respect of registration or in respect of a tax on, or a transfer of, registration) that is directly attributable to the acquisition or delivery of the car...,
-
-Paragraph 77 of TR 2011/3, states that 'expenditure incurred' in relation to the 'cost price of a car' is intended to reflect the net expenditure borne in acquiring a car. Therefore, a manufacturer's rebate will reduce the 'cost price of a car'. Manufacturer rebates are provided by the person trying to affect the sale, up to the point of delivery and as such would have a positive impact on the calculation of 'expenditure incurred'.
+Subsection 136(1) of the FBTAA, defines 'cost price of a car' as being: (a)in relation to a car owned by a person (i)...
+(ii)... (A)the expenditure incurred by the person (other than expenditure in respect of registration or in respect of a tax on, or a transfer of, registration) that is directly attributable to the acquisition or delivery of the car..., Paragraph 77 of TR 2011/3, states that 'expenditure incurred' in relation to the 'cost price of a car' is intended to reflect the net expenditure borne in acquiring a car. Therefore, a manufacturer's rebate will reduce the 'cost price of a car'. Manufacturer rebates are provided by the person trying to affect the sale, up to the point of delivery and as such would have a positive impact on the calculation of 'expenditure incurred'.
 'Price' is not defined in the FBTAA and takes on its ordinary meaning. The Macquarie Dictionary [MultiMedia], version 5.0.0, 1/10/01, defines price as being 'the sum of money or its equivalent for which anything is bought, sold or offered for sale'.
 The Commonwealth Government rebate is provided to the individual under the Private Health Insurance Incentives Act 2007. It is not relevant to the process of determining the price at which a similar policy is to be offered for sale.
-Accordingly, for these reasons, the lowest price would be $2,640.
-
-Amendment History
-
-Date of Amendment
+Accordingly, for these reasons, the lowest price would be $2,640. Amendment History Date of Amendment
 Part
-Comment
-
-1 May 2026
+Comment 1 May 2026
 Facts
-Minor grammatical and stylistic changes
-
-1 May 2026
+Minor grammatical and stylistic changes 1 May 2026
 Business line
-Updated to correct business line
-
-1 May 2026
+Updated to correct business line 1 May 2026
 Date reviewed
-Updated review date
-
-Date of decision:
-  10 October 2012
-
-Year of income:
-  Year ending 31 March 2013
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   subsection 22A(2)   section 48   subsection 136(1)
-Private Health Insurance Incentives Act 2007   The Act
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2011/3
-
-Related ATO Interpretative Decisions
-
- ATO ID 2012/85
-
-Other References:
-
-The Macquarie Dictionary [MultiMedia], version 5.0.0, 1/10/01
-
-Keywords
-
-Fringe benefits tax
- Expense payment fringe benefits
- In-house expense payment fringe benefits
- In-house residual expense payment fringe benefits
- FBT taxable value
- FBT employee contribution
- Recipients contributions
-
-Siebel/TDMS Reference Number:
-  1-486GXFF; 1-DKQZ2E0
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  19 October 2012
-
-Date reviewed:
-  16 April 2026
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 October 2012
-Original statement
-
-You are here
- 1 May 2026
+Updated review date Date of decision: 10 October 2012 Year of income: Year ending 31 March 2013 Legislative References: Fringe Benefits Tax Assessment Act 1986 subsection 22A(2) section 48 subsection 136(1)
+Private Health Insurance Incentives Act 2007 The Act Related Public Rulings (including Determinations) Taxation Ruling TR 2011/3 Related ATO Interpretative Decisions ATO ID 2012/85 Other References: The Macquarie Dictionary [MultiMedia], version 5.0.0, 1/10/01 Keywords Fringe benefits tax Expense payment fringe benefits In-house expense payment fringe benefits In-house residual expense payment fringe benefits FBT taxable value FBT employee contribution Recipients contributions Siebel/TDMS Reference Number: 1-486GXFF; 1-DKQZ2E0 Business Line: Superannuation and Employer Obligations Date of publication: 19 October 2012 Date reviewed: 16 April 2026 ISSN: 1445-2782 history Date: Version: 10 October 2012
+Original statement You are here 1 May 2026
 Updated statement

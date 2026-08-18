@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/355
-==================================================
-
-Goods and Services Tax
- GST and slip-on sunglasses
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and slip-on sunglasses FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of sunglasses, making a GST-free supply under subsection 38-45(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells slip-on sunglasses?
 Decision
 No, the entity is not making a GST-free supply under subsection 38-45(1) of the GST Act when it sells slip-on sunglasses.
@@ -20,13 +9,9 @@ Facts
 The entity is a supplier of sunglasses. The entity is selling slip-on sunglasses. The slip-on sunglasses fit in behind the lenses of prescription glasses. They are only used in conjunction with prescription glasses. The slip-on sunglasses have no corrective prescription incorporated in them.
 The entity is registered for goods and services tax (GST). The supply satisfies the other positive limbs of section 9-5 of the GST Act.
 Reasons for Decision
-Under subsection 38-45(1) of the GST Act, the supply of certain medical aids and appliances is GST-free where the medical aid or appliance:
-
-• is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
+Under subsection 38-45(1) of the GST Act, the supply of certain medical aids and appliances is GST-free where the medical aid or appliance: • is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
 • is specifically designed for people with an illness or disability; and
-• is not widely used by people without an illness or disability.
-
-The only item of relevance to this case is item 155 in the table in Schedule 3 (Item 155). Item 155 lists lenses for prescription spectacles. The slip-on sunglasses are not specified in the GST Regulations.
+• is not widely used by people without an illness or disability. The only item of relevance to this case is item 155 in the table in Schedule 3 (Item 155). Item 155 lists lenses for prescription spectacles. The slip-on sunglasses are not specified in the GST Regulations.
 The term 'prescription spectacles' is not defined in the GST Act. Pursuant to the rules of statutory interpretation, a term will take on its ordinary meaning unless the term has a special or technical meaning. Where a phrase has a special or technical meaning, it is necessary to determine its meaning by reference to the industry to which that phrase relates (Herbert Adams Pty Ltd v FCT (1932) 47 CLR 222).
 In this case, given the context in which the phrase appears, the phrase is considered to have a special or technical meaning.
 Dorland's Medical Dictionary (2000) defines the words 'prescription' as a 'written direction for the preparation and administration of a remedy'. The word 'spectacles' is defined as 'a pair of lenses in a frame to assist vision'.
@@ -35,46 +20,9 @@ It is considered that lenses, which have some part of a corrective prescription 
 The slip-on sunglasses do not have a corrective prescription incorporated in them. Therefore, they are not covered by Item 155, lenses for prescription spectacles.
 Consequently, the supply of the slip-on sunglasses is not a GST-free supply under subsection 38-45(1) of the GST Act.
 The entity is registered for GST and the supply meets the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies the slip-on sunglasses.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-9 April 2019
+Comment 9 April 2019
 Throughout
-Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019.
-
-Date of decision:
-  23 August 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   subsection 38-45(1)   Division 40   Schedule 3   Schedule 3 table item 155
-A New Tax System (Goods and Services Tax) Regulations 2019   The Regulations
-
-Case References:
-
-Herbert Adams Pty Ltd v FCT   (1932) 47 CLR 222
-
-Other References:
-
-Dorland's Medical Dictionary, 2000, 29th edition, Newman W. Dorland, WB Saunders, London.
-
-Keywords
-
-GST-free
- GST health
- Medical aids & appliances
-
-Siebel/TDMS Reference Number:
-  CW229774
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  29 September 2001
-
-ISSN:
- 1445-2782
+Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019. Date of decision: 23 August 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 Division 38 subsection 38-45(1) Division 40 Schedule 3 Schedule 3 table item 155
+A New Tax System (Goods and Services Tax) Regulations 2019 The Regulations Case References: Herbert Adams Pty Ltd v FCT (1932) 47 CLR 222 Other References: Dorland's Medical Dictionary, 2000, 29th edition, Newman W. Dorland, WB Saunders, London. Keywords GST-free GST health Medical aids & appliances Siebel/TDMS Reference Number: CW229774 Business Line: Indirect Tax Date of publication: 29 September 2001 ISSN: 1445-2782

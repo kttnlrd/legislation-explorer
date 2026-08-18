@@ -47,10 +47,10 @@ source_pdf: "vol01.pdf"
 
 > **Note:** However, an order that would materially and permanently alter the decision under review would not be an order staying or otherwise affecting the operation or implementation of such a decision for the purpose of securing the effectiveness of the hearing and determination of the application for review. For example:
 
-> <a id="s14ZZH-2-a"></a>
+> <a id="s14ZZH-2-a-2"></a>
 > **(a)**  an order directing the Commissioner to defer the time at which a tax liability becomes due and payable; or
 
-> <a id="s14ZZH-2-b"></a>
+> <a id="s14ZZH-2-b-2"></a>
 > **(b)**  an order directing the Commissioner to remit the imposition of interest charges on unpaid liabilities that are due and payable.
 
 ---

@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/613
-==================================================
-
-Income Tax
- Deduction: global positioning system installed in employer provided motor vehicle
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deduction: global positioning system installed in employer provided motor vehicle FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer disallowed a deduction in respect of the installation of a global positioning system (GPS) in their employer provided motor vehicle pursuant to section 51AF of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The taxpayer is not disallowed a deduction in respect of the installation of a GPS in their employer provided motor vehicle pursuant to section 51AF of the ITAA 1936.
@@ -28,74 +15,15 @@ Section 51AF of the ITAA 1936 operates to deny a deduction for car expenses incu
 The term 'car' has the meaning given by section 995-1 of the ITAA 1997 which defines it as 'a motor vehicle (except a motor cycle or similar vehicle) designed to carry a load of less than 1 tonne and fewer than 9 passengers'.
 Subsection 51AF(2) of the ITAA 1936 also provides that the phrase 'car expense' has the meaning given by section 28-13 of the ITAA 1997, which defines car expense as 'a loss or outgoing to do with a car' including 'a loss or outgoing to do with operating a car and the decline in value of a car'.
 The definition of car expense in section 28-13 of the ITAA 1997 has its antecedence in subsection 82KT(1) of the ITAA 1936. Accordingly, discussion on the meaning of 'car expenses' in subsection 82KT(1) of the ITAA 1936 is relevant for the purposes of section 28-13 of the ITAA 1997.
-In AAT Case 7273 (1991) 22 ATR 3402; Case Y43 91 ATC 412, the Tribunal found that the phrase 'car expenses', for the purposes of subsection 82KT(1) of the ITAA 1936 should not be read to encompass any and all expenses connected to an employer provided car. Rather, the scope of 'car expenses' is to be defined by taking into account the context and the purpose of the provision, and the issue is whether the expenses are 'in respect of a car expense that relates to the car'. In the Tribunal's view:
-
-the disallowance of car expenses is primarily put in place to prevent "double dipping", in which an employee claims expenses already factored into the formulas used to calculate fringe benefits tax assessed to the employer. That being so, the better construction is that expenses such as parking fees and bridge tolls in the present case, linked to the car, but generated for reasons other than the direct operation of the car and not otherwise factored into the tax regime, should not be disallowed.
-
-Accordingly, under this view expenses linked to the car which are generated other than by the direct operation of the car would not usually be caught by section 51AF of the ITAA 1936.
+In AAT Case 7273 (1991) 22 ATR 3402; Case Y43 91 ATC 412, the Tribunal found that the phrase 'car expenses', for the purposes of subsection 82KT(1) of the ITAA 1936 should not be read to encompass any and all expenses connected to an employer provided car. Rather, the scope of 'car expenses' is to be defined by taking into account the context and the purpose of the provision, and the issue is whether the expenses are 'in respect of a car expense that relates to the car'. In the Tribunal's view: the disallowance of car expenses is primarily put in place to prevent "double dipping", in which an employee claims expenses already factored into the formulas used to calculate fringe benefits tax assessed to the employer. That being so, the better construction is that expenses such as parking fees and bridge tolls in the present case, linked to the car, but generated for reasons other than the direct operation of the car and not otherwise factored into the tax regime, should not be disallowed. Accordingly, under this view expenses linked to the car which are generated other than by the direct operation of the car would not usually be caught by section 51AF of the ITAA 1936.
 The taxpayer's employer provided sedan is a 'car' as defined in section 995-1 of the ITAA 1997. The car is provided for the taxpayer's exclusive use and the taxpayer is entitled to use the car for private purposes.
 The taxpayer has installed a GPS in the car to assist them to locate client addresses. The taxpayer would be entitled to a deduction for the decline in value of the GPS under Division 40 of the ITAA 1997. The GPS has no bearing on the operation of the car itself. As such, the expenditure on the GPS is generated for 'reasons other than the direct operation of the car' and so does not fall within the definition of 'car expenses' for the purposes of section 28-13 of the ITAA 1997.
 As an outgoing on the GPS is not a 'car expense' a deduction in respect of the GPS will not be disallowed under section 51AF of the ITAA 1936.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-6 May 2016
+Comment 6 May 2016
 Legislative References
-Updated to include Division 40 of the ITAA 1997
-
-Date of decision:
-  31 May 2004
-
-Year of income:
-  Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 51AF   subsection 51AF(2)   subsection 82KT(1)
-Income Tax Assessment Act 1997   section 28-13   section 995-1   Division 40
-
-Case References:
-
-AAT Case 7273   (1991) 22 ATR 3402
- Case Y43    91 ATC 412
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/612
- ATO ID 2004/614
-
-Keywords
-
-Car expenses
- Motor vehicle expenses
-
-Siebel/TDMS Reference Number:
-  4016837; 1-7YTB00O
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  30 July 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-31 May 2004
-Original statement
-
-You are here
- 6 May 2016
+Updated to include Division 40 of the ITAA 1997 Date of decision: 31 May 2004 Year of income: Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 section 51AF subsection 51AF(2) subsection 82KT(1)
+Income Tax Assessment Act 1997 section 28-13 section 995-1 Division 40 Case References: AAT Case 7273 (1991) 22 ATR 3402 Case Y43 91 ATC 412 Related ATO Interpretative Decisions ATO ID 2004/612 ATO ID 2004/614 Keywords Car expenses Motor vehicle expenses Siebel/TDMS Reference Number: 4016837; 1-7YTB00O Business Line: Small Business/Individual Taxpayers Date of publication: 30 July 2004 ISSN: 1445-2782 history Date: Version: 31 May 2004
+Original statement You are here 6 May 2016
 Updated statement

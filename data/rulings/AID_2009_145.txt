@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/145
-==================================================
-
-Income Tax
- Superannuation benefits: CSS indexed pension partially funded by a roll-over
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Superannuation benefits: CSS indexed pension partially funded by a roll-over FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the taxable component of a standard indexed pension to be paid to a member of the Commonwealth Superannuation Scheme (CSS) include an element taxed in the fund when the employer component of a transfer value originating in a taxed fund is paid to the Commonwealth?
 Decision
 Yes, the taxable component of a standard indexed pension to be paid to a member of the CSS will include an element taxed in the fund when the employer component of a transfer value originating in a taxed fund is paid to the Commonwealth.
@@ -35,12 +22,8 @@ This differs from the case where contributions that are made during employment w
 While the standard indexed pension will all be paid from consolidated revenue, the Commissioner considers that the pension is sourced partly from contributions made into the scheme (the employer component of $87,000) which was converted into a credit of additional contributory service.
 The fact that sub-subregulation 307-200.03(2)(a) of the ITAR 1997 allows for contributions or earnings as a source is taken to indicate that the contributions made into the scheme need not give rise to earnings in the scheme. Therefore, while sub-subregulation 307-200.03(3)(a) allows for the possibility of contributions and earnings as a source it does not require that the source necessarily be contributions that can produce earnings in the fund.
 Subregulation 307-200.03(2) of the ITAR 1997 requires that the interest supporting the standard indexed pension payable to the taxpayer be treated as two separate interests.
-Under subregulation 307-200.03(3) of the ITAR 1997, the two interests of the taxpayer are:
-
-•a 'contributions' interest consisting of contributions made into the CSS scheme that were converted to a credit of additional contributory service (the employer component of $87,000); and
-•a 'remainder' interest consisting of the remainder of the amount sourced from the Commonwealth.
-
-Section 307-210 of the ITAA 1997 provides that the tax free component of a superannuation interest includes the contributions segment and the crystallised segment. Under section 307-215 of the ITAA 1997 the taxable component of a superannuation interest is the value of the interest less the tax free component of the interest.
+Under subregulation 307-200.03(3) of the ITAR 1997, the two interests of the taxpayer are: •a 'contributions' interest consisting of contributions made into the CSS scheme that were converted to a credit of additional contributory service (the employer component of $87,000); and
+•a 'remainder' interest consisting of the remainder of the amount sourced from the Commonwealth. Section 307-210 of the ITAA 1997 provides that the tax free component of a superannuation interest includes the contributions segment and the crystallised segment. Under section 307-215 of the ITAA 1997 the taxable component of a superannuation interest is the value of the interest less the tax free component of the interest.
 Subsection 307-295(2) of the ITAA 1997 provides that if a superannuation benefit is not sourced to any extent from contributions made into a superannuation fund or earnings on such contributions, the benefit will consist wholly of an element untaxed in the fund.
 The remainder interest does not have a crystallised segment in accordance with subsection 307-225(3) of the ITAA 1997. Therefore all benefits paid from the remainder interest will consist of an element untaxed in the fund in accordance with subsection 307-295(2) of the ITAA 1997.
 For the contributions interest, if the crystallised segment was not determined as at 30 June 2007, the components of the crystallised segment of this interest will need to be determined by ComSuper in accordance with section 307-225 of the ITAA 1997.
@@ -48,85 +31,20 @@ There could be a crystallised segment if the taxpayer had a pre-July 83 componen
 The taxable component of the contributions interest is the total interest less any tax free component.
 It will be necessary to determine the proportions of each indexed pension payment that is paid from the contributions interest and the remainder interest.
 To calculate the proportions of each indexed pension payment paid from the two interests, it will be necessary for the total value of the two interests supporting the indexed pension to be determined as at the commencement date of the pension, as required by paragraph 307-125(3)(a) of the ITAA 1997.
-The method of valuing the combination of the two interests supporting the indexed pension payable to the taxpayer is set out in regulation 307-205.02B of the ITAR 1997 and is:
-
-•if the public sector superannuation scheme had a practice for valuing the indexed pension payable to the member in use immediately before 28 June 2007, by using that practice; or
-•otherwise, by using the method set out in subregulation 307-205.02(2) of the ITAR 1997.
-
-The proportion of each benefit paid from each interest will then be determined using the following method:
-
-•let the combined value of the two interests supporting the indexed pension at its commencement date be $X.
+The method of valuing the combination of the two interests supporting the indexed pension payable to the taxpayer is set out in regulation 307-205.02B of the ITAR 1997 and is: •if the public sector superannuation scheme had a practice for valuing the indexed pension payable to the member in use immediately before 28 June 2007, by using that practice; or
+•otherwise, by using the method set out in subregulation 307-205.02(2) of the ITAR 1997. The proportion of each benefit paid from each interest will then be determined using the following method: •let the combined value of the two interests supporting the indexed pension at its commencement date be $X.
 •the value of the contributions interest is equal to the amount of the employer component of the transfer value, that is, $87,000.
 •the proportion of each indexed pension payment that is paid from the contributions interest will be equal to ($87,000 / $X).
-•the proportion of each indexed pension payment that is paid from the remainder interest will be [1 - ($87,000 / $X)].
-
-The proportion of each indexed pension payment that is paid from the remainder interest will consist of element untaxed in the fund only.
+•the proportion of each indexed pension payment that is paid from the remainder interest will be [1 - ($87,000 / $X)]. The proportion of each indexed pension payment that is paid from the remainder interest will consist of element untaxed in the fund only.
 The proportion of each indexed pension payment that is paid from the contributions interest will comprise a taxable component made up of an element taxed in the fund or that taxable component and a tax free component.
 According to the proportioning rule in section 307-125 of the ITAA 1997, when a superannuation income stream benefit is paid from a superannuation interest the benefit will include tax free and taxable components calculated in the same proportion that these components make up the total value of the superannuation interest.
-Therefore, the proportion of each indexed pension payment that is paid from the contributions interest must be divided between the tax free component (if any) and the element taxed in the fund in the same ratio as in the contributions interest at the commencement date of the indexed pension, where the ratios are as follows:
-
-•the ratio of tax free component of the original contributions interest is
-
-(crystallised segment / $87,000)
- and
-•the ratio of element taxed in the fund of the original contributions interest is
-
-[1 - (crystallised segment / $87,000)]
-
-Amendment History
-
-Date of Amendment
+Therefore, the proportion of each indexed pension payment that is paid from the contributions interest must be divided between the tax free component (if any) and the element taxed in the fund in the same ratio as in the contributions interest at the commencement date of the indexed pension, where the ratios are as follows: •the ratio of tax free component of the original contributions interest is (crystallised segment / $87,000) and
+•the ratio of element taxed in the fund of the original contributions interest is [1 - (crystallised segment / $87,000)] Amendment History Date of Amendment
 Part
-Comment
-
-2 April 2015
+Comment 2 April 2015
 Facts
-Updated for clarity
-
-Date of decision:
-  25 November 2009
-
-Year of income:
-  Year ended 30 June 2010 Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 307-125   paragraph 307-125(3)(a)   subsection 307-200(1)   subsection 307-200(3)   section 307-210   section 307-215   section 307-225   paragraph 307-225(2)(e)   subsection 307-225(3)   subsection 307-295(2)   subsection 995-1(1)
-Superannuation Act 1976   The Act
- Superannuation Industry (Supervision) Act 1993   subsection 10(1)
-Income Tax Assessment Regulations 1997   regulation 307-200.03   subregulation 307-200.03(2)   sub-subregulation 307-200.03(2)(a)   subregulation 307-200.03(3)   sub-subregulation 307-200.03(3)(a)   subregulation 307-205.02(2)   regulation 307-205.02B
-
-Keywords
-
-Taxable component of superannuation benefits
- Element taxed in the fund
- Income stream - superannuation benefits
- Roll-overs - superannuation benefits
-
-Siebel/TDMS Reference Number:
-  1-1RPUMG6; 1-6EOCJ0Q
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  4 December 2009
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-25 November 2009
-Original statement
-
-You are here
- 2 April 2015
+Updated for clarity Date of decision: 25 November 2009 Year of income: Year ended 30 June 2010 Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 307-125 paragraph 307-125(3)(a) subsection 307-200(1) subsection 307-200(3) section 307-210 section 307-215 section 307-225 paragraph 307-225(2)(e) subsection 307-225(3) subsection 307-295(2) subsection 995-1(1)
+Superannuation Act 1976 The Act Superannuation Industry (Supervision) Act 1993 subsection 10(1)
+Income Tax Assessment Regulations 1997 regulation 307-200.03 subregulation 307-200.03(2) sub-subregulation 307-200.03(2)(a) subregulation 307-200.03(3) sub-subregulation 307-200.03(3)(a) subregulation 307-205.02(2) regulation 307-205.02B Keywords Taxable component of superannuation benefits Element taxed in the fund Income stream - superannuation benefits Roll-overs - superannuation benefits Siebel/TDMS Reference Number: 1-1RPUMG6; 1-6EOCJ0Q Business Line: Superannuation Date of publication: 4 December 2009 ISSN: 1445-2782 history Date: Version: 25 November 2009
+Original statement You are here 2 April 2015
 Updated statement

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/20
-==================================================
-
-Income Tax
- Taxation of financial arrangements: timing of deductions under subsection 230-15(4A) of the Income Tax Assessment Act 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of financial arrangements: timing of deductions under subsection 230-15(4A) of the Income Tax Assessment Act 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 230-15(4A) of the Income Tax Assessment Act 1997 (ITAA 1997) determine the timing of deductions in respect of a loss that is a dividend on a redeemable preference share (RPS) which is a debt interest under Division 974 of the ITAA 1997?
 Decision
 No. The timing of deductions in respect of a loss that is a dividend on a debt interest is not determined by subsection 230-15(4A) of the ITAA 1997.
@@ -27,53 +16,9 @@ Generally, the deductibility of a loss made from a financial arrangement to whic
 Subsection 230-15(4A) requires the identification of a dividend on a debt interest that gives rise to a loss. Whether or not a loss is made from a financial arrangement for an income year is determined under a method contained in Subdivisions 230-B to 230-G, and not under Subdivision 230-A. Subdivision 230-A contains among other things rules about whether a loss that is made is deductible.
 Where the future provision of financial benefits gives rise to a dividend on a debt interest and satisfies the substantive requirements of Subdivision 230-B (accruals/realisation method) such that there is a loss that can be accrued, then it must be considered whether or not that loss is deductible.
 In this respect, subsections 230-15(4) to 230-15(6) are relevant to the question of deductibility, and not to the identification of the loss itself.
-The Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 notes at paragraph 3.74:
-
-...section 25-85 of the ITAA specifically provides for deductibility in respect of dividends...the effect of section 25-85 is reflected in subsections 230-15(4) to (6).
-
-The Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No.4) Bill 2010 notes at paragraphs 3.34 and 3.35:
-
-Subsection 230-15(4) is intended to broadly reflect the effect of section 25-85 in respect of financial benefits provided or received under financial arrangements that are debt interests. However, there have been doubts raised as to whether legal form dividends from debt interests can be deductible under Division 230, given the absence of a rule that replicates subsection 25-85(3). Subsection 25-85(3) allows for deductibility of such dividends in certain circumstances.
-
-Accordingly, this Schedule inserts a new subsection 230-15(4A) to allow, under certain conditions, for the deductibility of a dividend...
-
-Subsection 25-85(1) deals with a return that an entity 'pays or provides' on a debt interest and subsection 25-85(3) refers to the circumstance where the 'return is a dividend'.
+The Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 notes at paragraph 3.74: ...section 25-85 of the ITAA specifically provides for deductibility in respect of dividends...the effect of section 25-85 is reflected in subsections 230-15(4) to (6). The Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No.4) Bill 2010 notes at paragraphs 3.34 and 3.35: Subsection 230-15(4) is intended to broadly reflect the effect of section 25-85 in respect of financial benefits provided or received under financial arrangements that are debt interests. However, there have been doubts raised as to whether legal form dividends from debt interests can be deductible under Division 230, given the absence of a rule that replicates subsection 25-85(3). Subsection 25-85(3) allows for deductibility of such dividends in certain circumstances. Accordingly, this Schedule inserts a new subsection 230-15(4A) to allow, under certain conditions, for the deductibility of a dividend... Subsection 25-85(1) deals with a return that an entity 'pays or provides' on a debt interest and subsection 25-85(3) refers to the circumstance where the 'return is a dividend'.
 Subsection 25-85(3) ensures that a dividend that an entity pays or provides on a debt interest can be deductible to the extent it would be deductible under section 8-1 if certain assumptions were made. Paragraph 25-85(3)(a) specifically fixes payment as the point in time at which a dividend is incurred for the purposes of the test in section 8-1, and therefore the timing of the deduction (see ATO ID 2006/102).
 Subsection 230-15(4A) also sets out specific treatment for a dividend on a debt interest to the extent that the dividend would be deductible under subsection 230-15(2) if certain assumptions were made. However, notably subsection 230-15(4A) does not contain the words 'pays or provides'.
 Furthermore, subsection 230-15(2), unlike section 8-1, does not rely on a loss or outgoing being 'incurred' as part of the general test of deductibility. Rather for the purposes of the general test of deductibility under subsection 230-15(2) the requirement is, among other things, that you 'make' the loss.
 As such, the passage in paragraph 230-15(4A)(a): '...[if] the payment of the amount of the dividend were the incurring of...interest' cannot be said to fix the point in time of the deduction under subsection 230-15(4A) and can be distinguished from the relationship between section 8-1 and paragraph 25-85(3)(a). Therefore the timing of deductions under subsection 230-15(4A) will be determined in accordance with the applicable tax timing methodologies outside Subdivision 230-A.
-Date of decision:
-  19 March 2012
-
-Year of income:
-  Year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1   section 25-85   subsection 25-85(1)   subsection 25-85(3)   paragraph 25-85(3)(a)   Division 230   Subdivision 230-A   subsection 230-15(2)   subsection 230-15(4)   subsection 230-15(4A)   paragraph 230-15(4A)(a)   subsection 230-15(5)   subsection 230-15(6)   section 230-45   Subdivision 230-B   Subdivision 230-C   Subdivision 230-D   Subdivision 230-E   Subdivision 230-F   Subdivision 230-G   Division 974
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/102
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008
- Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No.4) Bill 2010
-
-Keywords
-
-Income tax
- Taxation of Financial Arrangements CoE
-
-Siebel/TDMS Reference Number:
-  1-3PUVHFG
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  30 March 2012
-
-ISSN:
- 1445-2782
+Date of decision: 19 March 2012 Year of income: Year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1997 section 8-1 section 25-85 subsection 25-85(1) subsection 25-85(3) paragraph 25-85(3)(a) Division 230 Subdivision 230-A subsection 230-15(2) subsection 230-15(4) subsection 230-15(4A) paragraph 230-15(4A)(a) subsection 230-15(5) subsection 230-15(6) section 230-45 Subdivision 230-B Subdivision 230-C Subdivision 230-D Subdivision 230-E Subdivision 230-F Subdivision 230-G Division 974 Related ATO Interpretative Decisions ATO ID 2006/102 Other References: Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No.4) Bill 2010 Keywords Income tax Taxation of Financial Arrangements CoE Siebel/TDMS Reference Number: 1-3PUVHFG Business Line: Finance and Investment Centre of Expertise Date of publication: 30 March 2012 ISSN: 1445-2782

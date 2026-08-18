@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/839
-==================================================
-
-Income Tax
- Deemed dividend: Loan to another company in its capacity as trustee of a unit trust - loan provider owns all units in the trust - application of section 109K
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deemed dividend: Loan to another company in its capacity as trustee of a unit trust - loan provider owns all units in the trust - application of section 109K FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a loan excluded under section 109K of the Income Tax Assessment Act 1936 (ITAA 1936) from being taken to be a dividend under section 109D of the ITAA 1936 where a company, in it's capacity as trustee of a unit trust, receives the loan from a private company which owns all of the units in the trust?
 Decision
 No. A loan is not excluded under 109K of the ITAA 1936 from being taken to be a dividend under section 109D of the ITAA 1936 where a company, in it's capacity as trustee of a unit trust, receives the loan from a private company which owns all of the units in the trust.
@@ -31,78 +18,16 @@ The shareholders of Company X are two natural persons. Under paragraph 318(1)(d)
 Subdivision D of Division 7A of the ITAA 1936 sets out loans that are not treated as dividends. Under section 109K of the ITAA 1936, a private company is not taken to pay a dividend under section 109D of the ITAA 1936 because of a loan it makes to another company. The note to section 109K of the ITAA 1936 states that this exclusion does not apply to a loan to a company in its capacity as trustee and refers to section 109ZE of the ITAA 1936.
 Section 109ZE of the ITAA 1936 states that the rules in section 960-100 of the ITAA 1997 about entities, apply to Division 7A of the ITAA 1936. Subsection 960-100(3) of the ITAA 1997 states that a legal person can have a number of different capacities in which they do things, and in each of those capacities, the person is taken to be a different entity. Subsection 960-100(4) of the ITAA 1997 provides that if a provision refers to an entity of a particular kind, it refers to that entity in its capacity as that kind of entity, not to that entity in any other capacity. For example, a provision that refers to a company does not cover a company in its capacity as trustee, unless it also refers to a trustee.
 Section 109K of the ITAA 1936 applies only to a company in its capacity as a company and not in its capacity as trustee. Company X makes the loan to Y as trustee. Therefore, section 109K of the ITAA 1936 will not apply to exclude the loan from being taken to be a dividend.
-Accordingly, Company X may be taken under section 109D of the ITAA 1936 to pay a dividend to Company Y as trustee of the Z Unit Trust on 30 June 2003.
-
-Amendment History
-
-Date of Amendment
+Accordingly, Company X may be taken under section 109D of the ITAA 1936 to pay a dividend to Company Y as trustee of the Z Unit Trust on 30 June 2003. Amendment History Date of Amendment
 Part
-Comment
-
-30 November 2016
+Comment 30 November 2016
 Legislative References
 Add "section 109D" under Income Tax Assessment Act 1936.
 Change "subsection 318(1)" to "paragraph 318(1)(d)" under Income Tax Assessment Act 1936.
-Add "Subdivision D of Division 7A" under Income Tax Assessment Act 1936.
-
-Reasons for Decision
-Insert "of Division 7A" in paragraph 3.
-
- Delete "of Subdivision D" in paragraph 3.
-
-Date reviewed
-Change from "3 April 2014" to "22 November 2016".
-
-Date of decision:
-  29 August 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 109D   subsection 109D(1)   section 109K   section 109ZE   paragraph 318(1)(d)   subsection 318(6)   Subdivision D of Division 7A
-Income Tax Assessment Act 1997   section 960-100   subsection 960-100(3)   subsection 960-100(4)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/838
- ATO ID 2003/840
-
-Keywords
-
-Associate
- Companies
- Deemed dividends
- Shareholder loans
-
-Siebel/TDMS Reference Number:
-  3703923, 1-AD3NLBS
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  19 September 2003
-
-Date reviewed:
-  22 November 2016
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-29 August 2003
-Original statement
-
-You are here
+Add "Subdivision D of Division 7A" under Income Tax Assessment Act 1936. Reasons for Decision
+Insert "of Division 7A" in paragraph 3. Delete "of Subdivision D" in paragraph 3. Date reviewed
+Change from "3 April 2014" to "22 November 2016". Date of decision: 29 August 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 109D subsection 109D(1) section 109K section 109ZE paragraph 318(1)(d) subsection 318(6) Subdivision D of Division 7A
+Income Tax Assessment Act 1997 section 960-100 subsection 960-100(3) subsection 960-100(4) Related ATO Interpretative Decisions ATO ID 2003/838 ATO ID 2003/840 Keywords Associate Companies Deemed dividends Shareholder loans Siebel/TDMS Reference Number: 3703923, 1-AD3NLBS Business Line: Private Groups and High Wealth Individuals Date of publication: 19 September 2003 Date reviewed: 22 November 2016 ISSN: 1445-2782 history Date: Version: 29 August 2003
+Original statement You are here
 30 November 2016
 Updated statement

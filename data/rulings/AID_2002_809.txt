@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/809
-==================================================
-
-Income Tax
- Capital gains tax: Unincorporated association - disposal of asset
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: Unincorporated association - disposal of asset FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does an unincorporated association (or do the individual members) make the capital gain (or capital loss) as a result of CGT event A1 occurring under section 104-10 of the Income Tax Assessment Act 1997 ('ITAA 1997') upon disposal of a CGT asset held by the unincorporated association?
 Decision
 The unincorporated association (and not the individual members) makes the capital gain (or capital loss) as a result of CGT event A1 in section 104-10 of the ITAA 1997 arising from the disposal of a CGT asset held by the unincorporated association.
@@ -24,68 +11,11 @@ The club is not an exempt entity under Division 50 of the ITAA 1997.
 Reasons for Decision
 An unincorporated association is an entity and a company for income tax purposes (sections 960-100, 995-1 of the ITAA 1997). The members, in their relationship under the association's constitution, constitute the unincorporated association.
 The assets held in that relationship represent the assets held by the unincorporated association. Therefore, for the purposes of CGT event A1 under section 104-10 of the ITAA 1997, the unincorporated association is an entity that owns the CGT asset and on its disposal is the entity that makes any resulting capital gain or capital loss.
-Although the individual members of the unincorporated association jointly own the association's assets at general law, it is the ownership of those assets by the unincorporated entity as a company under tax law that is relevant for the purposes of CGT event A1. Therefore capital gains (or capital losses) are not made by the individual members from the disposal of an asset held by the unincorporated association. The capital gains (or capital losses) are made by the unincorporated association itself.
-
-Amendment History
-
-Date of Amendment
+Although the individual members of the unincorporated association jointly own the association's assets at general law, it is the ownership of those assets by the unincorporated entity as a company under tax law that is relevant for the purposes of CGT event A1. Therefore capital gains (or capital losses) are not made by the individual members from the disposal of an asset held by the unincorporated association. The capital gains (or capital losses) are made by the unincorporated association itself. Amendment History Date of Amendment
 Part
-Comment
-
-21 November 2014
+Comment 21 November 2014
 Issue, Decision and Reason for Decision
-Updated for clarity and amended spelling mistake and grammar.
-
-Date of decision:
-  27 May 2002
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-10   section 960-100   section 995-1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/808
-
-Keywords
-
-Association income
- Capital gains
- Capital gains tax
- CGT event A1 - disposal of CGT asset
- Companies
- Non profit companies
-
-Siebel/TDMS Reference Number:
-  DW326429; 1-5BRXPL0; 1-B2OJ07X
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  22 August 2002
-
-Date reviewed:
-  17 March 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 May 2002
-Original statement
-
-You are here
+Updated for clarity and amended spelling mistake and grammar. Date of decision: 27 May 2002 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 104-10 section 960-100 section 995-1 Related ATO Interpretative Decisions ATO ID 2002/808 Keywords Association income Capital gains Capital gains tax CGT event A1 - disposal of CGT asset Companies Non profit companies Siebel/TDMS Reference Number: DW326429; 1-5BRXPL0; 1-B2OJ07X Business Line: Private Groups and High Wealth Individuals Date of publication: 22 August 2002 Date reviewed: 17 March 2017 ISSN: 1445-2782 history Date: Version: 27 May 2002
+Original statement You are here
 21 November 2014
 Updated statement

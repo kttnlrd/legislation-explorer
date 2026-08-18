@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/25
-==================================================
-
-Income Tax
- Commercial debt forgiveness: whether a perpetual note is a debt
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Commercial debt forgiveness: whether a perpetual note is a debt FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a 'perpetual note' a debt for the purposes of former subsection 245-15(1) of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The issuer of the perpetual note (Debtor) had no enforceable obligation to pay the note holder the face value of the note before it was redeemed at a discount by mutual agreement. As such, the perpetual note did not satisfy the definition in former subsection 245-15(1) of Schedule 2C to the ITAA 1936 of a debt as being: 'an enforceable obligation imposed by law on a person to pay an amount to another person.'
@@ -21,51 +10,7 @@ Debtor issued to investors unsecured notes that had no maturity date. Unless and
 Debtor, having surplus funds available in 2009, made an offer to all the holders of the perpetual notes to redeem them at a 30% discount to their face value. Having severe liquidity problems because of the Global Financial Crisis, a significant number of holders accepted the offer. They were promptly paid the agreed 70% of the face value of their notes, which were then cancelled by Debtor.
 Reasons for Decision
 In Tasman Group Services Pty Ltd v. Commissioner of Taxation of the Commonwealth of Australia 2008 ATC 20-002; (2008) 69 ATR 257, Heerey J. considered the meaning of 'debt' for the purposes of subsection 245-15(1) of Schedule 2C to the ITAA 1936.
-Heerey J. decided that it is not necessary that a debt be immediately enforceable at the time of forgiveness in order to satisfy subsection 245-15(1) of Schedule 2C to the ITAA 1936.
-
-The short answer is that there is still an enforceable obligation imposed by law to pay a creditor even if the time for payment is postponed or deferred. In terms of the legislative purpose of Div 245, there is just as much an economic benefit for a debtor if his creditor forgives a debt which is not yet due for payment as there is when the debt is due, or overdue.
-
-This aspect of Heerey J's decision was confirmed by the Full Federal Court (Federal Commissioner of Taxation v. Tasman Group Services Pty Ltd (2009) 180 FCR 128; 2009 ATC 20-138; (2009) 74 ATR 739).
+Heerey J. decided that it is not necessary that a debt be immediately enforceable at the time of forgiveness in order to satisfy subsection 245-15(1) of Schedule 2C to the ITAA 1936. The short answer is that there is still an enforceable obligation imposed by law to pay a creditor even if the time for payment is postponed or deferred. In terms of the legislative purpose of Div 245, there is just as much an economic benefit for a debtor if his creditor forgives a debt which is not yet due for payment as there is when the debt is due, or overdue. This aspect of Heerey J's decision was confirmed by the Full Federal Court (Federal Commissioner of Taxation v. Tasman Group Services Pty Ltd (2009) 180 FCR 128; 2009 ATC 20-138; (2009) 74 ATR 739).
 However, in contrast to the loans considered by Heerey J, the notes in this case were 'perpetual' and the holders of the notes never had any future enforceable legal rights to compel Debtor to repay the face value of their notes.
-As explained at paragraph 73 of Taxation Ruling TR 2002/15 concerning perpetual notes:
-
-On either view we consider that, at least prior to an event of default, there is no loan evidencing a debt due that the Holders can sue for in the sense set out in the judgment of Hill J in ANZ Savings.
-
-Therefore, the perpetual notes did not constitute debts for the purposes of subsection 245-15(1) of Schedule 2C to the ITAA 1936.
-Date of decision:
-  2 April 2012
-
-Year of income:
-  Year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Former subsection 245-15(1) of Schedule 2C
-
-Case References:
-
-Tasman Group Services Pty Ltd v FC of T   2008 ATC 20-002   2009 ATC 20-138
-
-Federal Commissioner of Taxation v Tasman Group Services Pty Ltd   (2009) 180 FCR 128   2009 ATC 20-138   (2009) 74 ATR 739
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2002/15
-
-Keywords
-
-Debt
- Forgiveness
- Perpetual note
-
-Siebel/TDMS Reference Number:
-  1-3I7HRBE
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 April 2012
-
-ISSN:
- 1445-2782
+As explained at paragraph 73 of Taxation Ruling TR 2002/15 concerning perpetual notes: On either view we consider that, at least prior to an event of default, there is no loan evidencing a debt due that the Holders can sue for in the sense set out in the judgment of Hill J in ANZ Savings. Therefore, the perpetual notes did not constitute debts for the purposes of subsection 245-15(1) of Schedule 2C to the ITAA 1936.
+Date of decision: 2 April 2012 Year of income: Year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1936 Former subsection 245-15(1) of Schedule 2C Case References: Tasman Group Services Pty Ltd v FC of T 2008 ATC 20-002 2009 ATC 20-138 Federal Commissioner of Taxation v Tasman Group Services Pty Ltd (2009) 180 FCR 128 2009 ATC 20-138 (2009) 74 ATR 739 Related Public Rulings (including Determinations) Taxation Ruling TR 2002/15 Keywords Debt Forgiveness Perpetual note Siebel/TDMS Reference Number: 1-3I7HRBE Business Line: Public Groups and International Date of publication: 5 April 2012 ISSN: 1445-2782

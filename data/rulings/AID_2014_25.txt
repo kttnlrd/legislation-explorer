@@ -1,19 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2014/25
-==================================================
-
-Income Tax
- Taxation of financial arrangements: is a deposit a guarantee or indemnity subject to section 230-460
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of financial arrangements: is a deposit a guarantee or indemnity subject to section 230-460 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a term deposit provided as security for a performance bond a right or obligation under a guarantee or indemnity subject to the exception in subsection 230-460(8) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The term deposit is not a guarantee or indemnity in terms of subsection 230-460(8) of ITAA 1997.
@@ -29,91 +17,17 @@ Division 230 deals with the tax treatment of gains and losses from financial arr
 Section 230-15 broadly provides that gains and losses from 'financial arrangements' are assessable / deductible from assessable income.
 Subsection 230-460(1) provides that Division 230 does not apply to gains and losses from a financial arrangement for any income year to the extent that the rights and/or obligations under the arrangement are the subject of an exception under section 230-460.
 Subsection 230-460(8) provides an exception for a 'right or obligation under a guarantee or indemnity' (subject to certain exceptions).
-The Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 (Cth) notes at paragraph 2.168:
-
-What is meant by a 'guarantee' or an 'indemnity' takes on its ordinary meaning to include a promise to answer for the debt or default of another, or to make good a loss suffered through a third party.
-
-Generally:
-
-'... A guarantee is essentially a promise to answer for the debt, default or miscarriage of another and it does not include as such the case of a person incurring an additional liability in respect of a sum of money for which he is already liable.'[1]
-
-Bank of New South Wales v. Permanent Trustee Co of New South Wales Ltd (1943) 68 CLR 1 (Bank of NSW case) , concerns a person who, being under a liability as guarantor, gave a mortgage to secure the payment of money under the guarantee. At issue was whether the obligation fell within a debt moratorium. In the course of his reasons for decision, Latham CJ stated, at 11, that:
-
-'A person cannot guarantee the payment of money by himself. He may undertake an additional obligation to pay money which he is already bound to pay, but that added obligation cannot be described as a guarantee.'
-
-In this case the financial institution has promised the state government it will answer for default of the taxpayer to meet agreed upon environmental obligations. Upon default, the financial institution will pay the Minister an agreed sum. The arrangement between financial institution and the state government has created rights and obligations under a guarantee or indemnity.
+The Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 (Cth) notes at paragraph 2.168: What is meant by a 'guarantee' or an 'indemnity' takes on its ordinary meaning to include a promise to answer for the debt or default of another, or to make good a loss suffered through a third party. Generally: '... A guarantee is essentially a promise to answer for the debt, default or miscarriage of another and it does not include as such the case of a person incurring an additional liability in respect of a sum of money for which he is already liable.'[1] Bank of New South Wales v. Permanent Trustee Co of New South Wales Ltd (1943) 68 CLR 1 (Bank of NSW case) , concerns a person who, being under a liability as guarantor, gave a mortgage to secure the payment of money under the guarantee. At issue was whether the obligation fell within a debt moratorium. In the course of his reasons for decision, Latham CJ stated, at 11, that: 'A person cannot guarantee the payment of money by himself. He may undertake an additional obligation to pay money which he is already bound to pay, but that added obligation cannot be described as a guarantee.' In this case the financial institution has promised the state government it will answer for default of the taxpayer to meet agreed upon environmental obligations. Upon default, the financial institution will pay the Minister an agreed sum. The arrangement between financial institution and the state government has created rights and obligations under a guarantee or indemnity.
 The arrangement between the financial institution and taxpayer whereby the taxpayer provides a term deposit to secure the bond provides security for the guarantee created by the financial institution. The deposit is held by the financial institution to secure the guarantee or indemnity against the performance of the taxpayer's obligations under the contract. If the taxpayer fails to perform the obligations the deposit is at risk of forfeiture. It is returned to the taxpayer upon performance of obligations. In terms of Bank of NSW, the deposit is not a 'guarantee' but is rather 'an additional obligation to pay money...'
 Therefore as the deposit is not a guarantee or indemnity it would be subject to taxation of financial arrangements rules as it meets the definition of a financial arrangement pursuant to section 230-45.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-21 December 2016
+Comment 21 December 2016
 Legislative References
-Add "section 230-460" under Income Tax Assessment Act 1997.
-
-Related ATO Interpretative Decisions
-ATO ID 2002/958 was withdrawn on 22 April 2016.
-
-[1]
-Bank of New South Wales v. Permanent Trustee Co of New South Wales Ltd (1943) 68 CLR 1 at 11 per Latham CJ.
-
-Date of decision:
-  12 May 2014
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 230   section 230-15   section 230-45   subsection 230-55(4)   section 230-460   subsection 230-460(1)   subsection 230-460(8)
-
-Case References:
-
-Bank of New South Wales v Permanent Trustee Co of New South Wales Ltd   (1943) 68 CLR 1   (1943) 17 ALJ 186   [1943] HCA 27
-
-Related Public Rulings (including Determinations)
-
-TR 2012/4
-TR 96/23
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008
-
-Keywords
-
-Financial institution deposits
- Guarantees
- Indemnity
- Taxation of financial arrangements
-
-Siebel/TDMS Reference Number:
-  1-5MF6GH6
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  25 July 2014
-
-Date reviewed:
-  15 December 2016
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 May 2014
-Original statement
-
-You are here
+Add "section 230-460" under Income Tax Assessment Act 1997. Related ATO Interpretative Decisions
+ATO ID 2002/958 was withdrawn on 22 April 2016. [1]
+Bank of New South Wales v. Permanent Trustee Co of New South Wales Ltd (1943) 68 CLR 1 at 11 per Latham CJ. Date of decision: 12 May 2014 Legislative References: Income Tax Assessment Act 1997 Division 230 section 230-15 section 230-45 subsection 230-55(4) section 230-460 subsection 230-460(1) subsection 230-460(8) Case References: Bank of New South Wales v Permanent Trustee Co of New South Wales Ltd (1943) 68 CLR 1 (1943) 17 ALJ 186 [1943] HCA 27 Related Public Rulings (including Determinations) TR 2012/4
+TR 96/23 Other References: Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 Keywords Financial institution deposits Guarantees Indemnity Taxation of financial arrangements Siebel/TDMS Reference Number: 1-5MF6GH6 Business Line: Private Groups and High Wealth Individuals Date of publication: 25 July 2014 Date reviewed: 15 December 2016 ISSN: 1445-2782 history Date: Version: 12 May 2014
+Original statement You are here
 21 December 2016
 Updated statement

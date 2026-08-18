@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/717
-==================================================
-
-Income tax
- Withholding tax exemption: interest paid inside Australia after 2 July 1998 on debentures issued outside Australia on or before 2 July 1998
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Withholding tax exemption: interest paid inside Australia after 2 July 1998 on debentures issued outside Australia on or before 2 July 1998 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where interest is paid to a foreign noteholder after 2 July 1998 on a debenture issued on or before that date, must the interest be paid outside Australia for it to qualify under subsection 128F(2) of the Income Tax Assessment Act 1936 (ITAA 1936) for exemption from withholding tax?
 Decision
 Yes. Where interest is paid to a foreign noteholder after 2 July 1998 on a debenture issued on or before that date, the interest must be paid outside Australia for it to qualify under subsection 128F(2) of the ITAA 1936 for exemption from withholding tax.
@@ -23,46 +12,13 @@ Reasons for Decision
 Subsection 128F(2) of the ITAA 1936 confers an exemption from withholding tax on interest paid on certain publicly offered debentures. The subsection provides that withholding tax is not payable under Division 11A in respect of 'interest to which [section 128F] applies'.
 Relevantly, subsection 128F(1) of the ITAA 1936 specifies circumstances where section 128F applies to interest.
 Prior to its amendment on 16 July 1999 by Taxation Laws Amendment Act (No. 2) 1999 (93 of 1999) (TLAA (No 2) 1999), subsection 128F(1) read:
-This section applies to interest paid by a company in respect of a debenture if:
-
-(a)the company was a resident of Australia when it issued the debenture; and
+This section applies to interest paid by a company in respect of a debenture if: (a)the company was a resident of Australia when it issued the debenture; and
 (b)the company is a resident of Australia when the interest is paid; and
 (c)the company issued the debenture outside Australia for the purpose of raising finance outside Australia; and
 (d)the interest is paid outside Australia; and
-(e)the issue of the debenture satisfies the public offer test set out in subsection (3) or (4).
-
-By item 27 of Schedule 1 to the TLAA (No 2) 1999, paragraphs (c) and (d) of subsection 128F(1) of the ITAA 1936 were repealed. The question arises as to how the amendment applies, if at all, to interest paid on debentures that issued before the amendment.
+(e)the issue of the debenture satisfies the public offer test set out in subsection (3) or (4). By item 27 of Schedule 1 to the TLAA (No 2) 1999, paragraphs (c) and (d) of subsection 128F(1) of the ITAA 1936 were repealed. The question arises as to how the amendment applies, if at all, to interest paid on debentures that issued before the amendment.
 Sub-item 39(1) of Schedule 1 to the TLAA (No 2) 1999 provides that, 'Subject to this item, the amendments made by this Schedule apply in relation to transactions entered into after 2 July 1998'.
 Sub-item 39(5) provides specifically that, 'The amendments made by items 27 to 32 apply to debentures issued after 2 July 1998'.
-Thus, sub-item 39(5) of Schedule 1 to the TLAA (No 2) 1999 makes it clear that the repeal of paragraph 128F(1)(d) of the ITAA 1936 applies only to debentures issued
- after
- 2 July 1998, not on or before that date. In other words, where a debenture has been issued on or before 2 July 1998, the interest withholding tax exemption requirement in paragraph (d) continues to apply: interest paid on such debenture after 2 July 1998 must be paid outside Australia if it is to qualify for the withholding tax exemption in subsection 128F(2) of the ITAA 1936.
-Date of decision:
-  17 August 2004
-
-Year of income:
-  Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   paragraph 128F(1)(c)   paragraph 128F(1)(d)   subsection 128F(2)   subsection 128F(3)
-Taxation Laws Amendment Act (No 2) 1999 (93 of 99)   Schedule 1   Item 27   Item 39
-
-Keywords
-
-International tax
- Non resident interest withholding tax
- Withholding tax exemptions
- Withholding taxes
-
-Siebel/TDMS Reference Number:
-  3481673
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 August 2004
-
-ISSN:
- 1445-2782
+Thus, sub-item 39(5) of Schedule 1 to the TLAA (No 2) 1999 makes it clear that the repeal of paragraph 128F(1)(d) of the ITAA 1936 applies only to debentures issued after 2 July 1998, not on or before that date. In other words, where a debenture has been issued on or before 2 July 1998, the interest withholding tax exemption requirement in paragraph (d) continues to apply: interest paid on such debenture after 2 July 1998 must be paid outside Australia if it is to qualify for the withholding tax exemption in subsection 128F(2) of the ITAA 1936.
+Date of decision: 17 August 2004 Year of income: Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 paragraph 128F(1)(c) paragraph 128F(1)(d) subsection 128F(2) subsection 128F(3)
+Taxation Laws Amendment Act (No 2) 1999 (93 of 99) Schedule 1 Item 27 Item 39 Keywords International tax Non resident interest withholding tax Withholding tax exemptions Withholding taxes Siebel/TDMS Reference Number: 3481673 Business Line: Public Groups and International Date of publication: 31 August 2004 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/86
-==================================================
-
-Income Tax
- PAYG Withholding: penalty for failure to withhold - liability to general interest charge
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax PAYG Withholding: penalty for failure to withhold - liability to general interest charge FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the date for calculating an entity's liability for general interest charge (GIC) in relation to a failure to withhold penalty imposed prior to 22 June 2006 commence from the time set under former subsection 16-30(2) of Schedule 1 to the Taxation Administration Act 1953 (TAA)?
 Decision
 Yes. The entity's liability to GIC commences from the time set by former subsection 16-30(2) of Schedule 1 to the TAA, as this provision has continuing effect for penalties imposed prior to 22 June 2006.
@@ -23,64 +12,14 @@ The payer did not withhold an amount from the royalty it paid to the non-residen
 After 22 June 2006, the ATO commenced an audit of the payer's affairs. The Commissioner identified that the payer failed to withhold from the royalty payment as required and notified the payer of their liability for a penalty under section 16-30 of Schedule 1 to the TAA.
 Reasons for Decision
 Under former subsection 16-30(1) of Schedule 1 to the TAA, an entity that failed to withhold an amount as required by Division 12 of Schedule 1 to the TAA is liable to pay to the Commissioner a penalty equal to that amount. Under former subsection 16-30(2) of Schedule 1 to the TAA the penalty amount was due at the time when the entity would have had to pay to the Commissioner the amount it should have withheld.
-Under former section 16-50 of Schedule 1 to the TAA, if the penalty under former subsection 16-30(1) of Schedule 1 to the TAA remains unpaid after it is due, the entity is liable to pay the GIC on the unpaid amount for each day in the period that:
-
-i.started at the beginning of the day by which the penalty amount was due to be paid; and
-ii.finishes at the end of the last day, at the end of which, any of the following remains unpaid:
-
-(a)the penalty amount;
-(b)GIC on any of the penalty amount.
-
-Amendments were made to Division 16 of Schedule 1 to the TAA by the Tax Laws Amendment (2006 Measures No.2) Act 2006 (TLAA 2006) with effect from 22 June 2006. These amendments repealed section 16-50 and section 16-30 of Schedule 1 to the TAA, and substituted with the current section 16-30. In addition, the TLAA 2006 extended the application of the machinery provisions for administrative penalties in Subdivision 298-A of Schedule 1 to the TAA to penalties imposed under Division 16 of Schedule 1 to the TAA.
+Under former section 16-50 of Schedule 1 to the TAA, if the penalty under former subsection 16-30(1) of Schedule 1 to the TAA remains unpaid after it is due, the entity is liable to pay the GIC on the unpaid amount for each day in the period that: i.started at the beginning of the day by which the penalty amount was due to be paid; and
+ii.finishes at the end of the last day, at the end of which, any of the following remains unpaid: (a)the penalty amount;
+(b)GIC on any of the penalty amount. Amendments were made to Division 16 of Schedule 1 to the TAA by the Tax Laws Amendment (2006 Measures No.2) Act 2006 (TLAA 2006) with effect from 22 June 2006. These amendments repealed section 16-50 and section 16-30 of Schedule 1 to the TAA, and substituted with the current section 16-30. In addition, the TLAA 2006 extended the application of the machinery provisions for administrative penalties in Subdivision 298-A of Schedule 1 to the TAA to penalties imposed under Division 16 of Schedule 1 to the TAA.
 The amendments mean that, with effect from 22 June 2006, section 298-15 of Schedule 1 to the TAA sets the due date for payment of the penalty as the date specified in the notice required to be given to the entity under section 298-10 of Schedule 1 to the TAA. This date must be at least 14 days after the notice is given to the entity.
 The effect of the amendments is that both former subsection 16-30(2) and Subdivision 298-A of Schedule 1 to the TAA can apply where the penalty is imposed before 22 June 2006 and the Commissioner notifies the entity of the liability to penalty after 22 June 2006. However, as the payment in question was made before 22 June 2006, penalty is imposed under former subsection 16-30(1) of Schedule 1 to the TAA. Consequently, former subsection 16-30(2) of Schedule 1 to the TAA had already set the due date for the penalty. We therefore consider that the due date set by former subsection 16-30(2) of Schedule 1 to the TAA is not overridden by the later provision (section 298-15 of Schedule 1 to the TAA) which sets a different due date.
 The entity's liability to pay the GIC can arise under both former section 16-50 of Schedule 1 to the TAA and section 298-25 of Schedule 1 to the TAA. Under both provisions, the liability to GIC commences from the day the penalty was due to be paid. As such, under either provision, the start date for the liability to GIC will be based on the due date set by former subsection 16-30(2) of Schedule 1 to the TAA, which is the time the entity would have had to pay the amount that should have been withheld.
-This means that an entity's liability to pay GIC on a failure to withhold penalty that is imposed prior to 22 June 2006 commences when the entity would have had to pay the amount that was to be withheld from the payment.
-
-Amendment History
-
-Date of Amendment
+This means that an entity's liability to pay GIC on a failure to withhold penalty that is imposed prior to 22 June 2006 commences when the entity would have had to pay the amount that was to be withheld from the payment. Amendment History Date of Amendment
 Part
-Comment
-
-6 April 2018
+Comment 6 April 2018
 Related ATO Interpretative Decisions
-ATO ID 2009/133 has been removed as it has been withdrawn
-
-Date of decision:
-  4 August 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Tax Laws Amendment (2006 Measures No.2) Act 2006   The Act
- Taxation Administration Act 1953   Schedule 1   Division 12   section 12-280   Division 16   section 16-30   former subsection 16-30(1)   former subsection 16-30(2)   former section 16-50   Subdivision 298-A   section 298-10   section 298-15   section 298-25
-
-Related ATO Interpretative Decisions
-
- ATO ID 2011/65
-
-Keywords
-
-Failure to withhold
- General interest charge
- PAYG system
- PAYG withholding
- Tax administration
-
-Siebel/TDMS Reference Number:
-  1-3444RW8; 1-5UHK0CK
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  28 October 2011
-
-Date reviewed:
-  2 February 2018
-
-ISSN:
- 1445-2782
+ATO ID 2009/133 has been removed as it has been withdrawn Date of decision: 4 August 2011 Year of income: Year ended 30 June 2011 Legislative References: Tax Laws Amendment (2006 Measures No.2) Act 2006 The Act Taxation Administration Act 1953 Schedule 1 Division 12 section 12-280 Division 16 section 16-30 former subsection 16-30(1) former subsection 16-30(2) former section 16-50 Subdivision 298-A section 298-10 section 298-15 section 298-25 Related ATO Interpretative Decisions ATO ID 2011/65 Keywords Failure to withhold General interest charge PAYG system PAYG withholding Tax administration Siebel/TDMS Reference Number: 1-3444RW8; 1-5UHK0CK Business Line: Private Groups and High Wealth Individuals Date of publication: 28 October 2011 Date reviewed: 2 February 2018 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/95
-==================================================
-
-Income Tax
- Sale of shares for less than market value
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Sale of shares for less than market value FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the sale by company X of its shareholding in company Y to its parent company Z for consideration less than the market value of the shares, constitute a 'dividend' within the definition in subsection 6(1) of the Income Tax Assessment Act 1936 (ITAA 1936) for the purposes of section 44 and 128B of the ITAA 1936?
 Decision
 No. The sale by company X of its shareholding in company Y to its parent company Z for consideration less than the market value of the shares will not constitute a 'dividend' within the definition of subsection 6(1) of the ITAA 1936 for the purposes of section 44 and 128B of the ITAA 1936.
@@ -27,84 +16,14 @@ The proposed transaction will not involve a distribution made out of the share c
 The proposed transaction will not have the effect of increasing the value of company Z's shareholding in company X.
 Company X has provided that the market value of the shares in company Y will be greater than their cost base for Australian tax purposes.
 Reasons for Decision
-A 'dividend' for Australian tax purposes is defined in subsection 6(1) of the ITAA 1936 and states:
-
-Dividend includes:
-
-(a)any distribution made by a company to any of its shareholders, whether in money or other property; and
-(b)any amount credited by a company to any of its shareholders as shareholders;
-
-This definition is broad and could conceivably encompass payments or distributions not ordinarily considered to be dividends. According to this definition, a dividend includes a distribution to a shareholder or any amount credited to a shareholder. In the case of company X, only paragraph (a) is relevant. It is important to determine whether there is a distribution by company X to company Z in order to ascertain whether there is a dividend as defined under subsection 6(1) of the ITAA 1936.
-
-The word 'distribution' is not defined in the Act. Thus, the dictionary definition lends some assistance to determine what constitutes a distribution.
-
-Distribution has been defined by the Macquarie Dictionary,2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW as:
-
-1. the act of distributing.
-
-2. the state or manner of being distributed...
-
-4. that which is distributed...
-
-Oxford Law Dictionary has defined 'distribution' as:
-
-... 2. any payment made by a company to a shareholder out of its distributive profits in cash or kind. It does not include payments made in the course of winding-up or repayments of the capital originally subscribed or subsequently received by the company.
-
-In Deputy Commissioner of Taxation v. Black (1990) 25 FCR 274; 90 ATC 4699; (1990) 21 ATR 701, the Court was required to consider whether forgiveness of a debt amounted to a distribution to a shareholder as a dividend pursuant to subsection 6(1) of the ITAA 1936.
+A 'dividend' for Australian tax purposes is defined in subsection 6(1) of the ITAA 1936 and states: Dividend includes: (a)any distribution made by a company to any of its shareholders, whether in money or other property; and
+(b)any amount credited by a company to any of its shareholders as shareholders; This definition is broad and could conceivably encompass payments or distributions not ordinarily considered to be dividends. According to this definition, a dividend includes a distribution to a shareholder or any amount credited to a shareholder. In the case of company X, only paragraph (a) is relevant. It is important to determine whether there is a distribution by company X to company Z in order to ascertain whether there is a dividend as defined under subsection 6(1) of the ITAA 1936. The word 'distribution' is not defined in the Act. Thus, the dictionary definition lends some assistance to determine what constitutes a distribution. Distribution has been defined by the Macquarie Dictionary,2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW as: 1. the act of distributing. 2. the state or manner of being distributed... 4. that which is distributed... Oxford Law Dictionary has defined 'distribution' as: ... 2. any payment made by a company to a shareholder out of its distributive profits in cash or kind. It does not include payments made in the course of winding-up or repayments of the capital originally subscribed or subsequently received by the company. In Deputy Commissioner of Taxation v. Black (1990) 25 FCR 274; 90 ATC 4699; (1990) 21 ATR 701, the Court was required to consider whether forgiveness of a debt amounted to a distribution to a shareholder as a dividend pursuant to subsection 6(1) of the ITAA 1936.
 Sweeny J in this case said, that:
 The word "distribution" involves, at the least, a dealing out or bestowal.
-Accordingly, for there to be a 'dividend' as defined in subsection 6(1) of the ITAA 1936 there must be a distribution in the form of a 'dealing out or bestowal' by a company to a shareholder.
-
-Distribution to a shareholder
-
-On the issue of who is a shareholder, Sweeny J went on to say:
-
-In my opinion, no amount was credited by Lens-co to the shareholder, as shareholder (emphasis added). The phrase "as shareholder" is to be read as "in the capacity of shareholder". Removal of a debit standing against the taxpayer constituted, at best for the Commissioner, an amount credited to the taxpayer in his capacity as a debtor of Lens-co, not in his capacity as a shareholder.
-
-Therefore, a distribution will be a dividend if it is made to a shareholder in their capacity as a shareholder whether in money or in property. In the case of company X, the shares in company Y were sold to company Z. Company Z is the purchaser of the shares so did not acquire the shares in their capacity as a shareholder.
+Accordingly, for there to be a 'dividend' as defined in subsection 6(1) of the ITAA 1936 there must be a distribution in the form of a 'dealing out or bestowal' by a company to a shareholder. Distribution to a shareholder On the issue of who is a shareholder, Sweeny J went on to say: In my opinion, no amount was credited by Lens-co to the shareholder, as shareholder (emphasis added). The phrase "as shareholder" is to be read as "in the capacity of shareholder". Removal of a debit standing against the taxpayer constituted, at best for the Commissioner, an amount credited to the taxpayer in his capacity as a debtor of Lens-co, not in his capacity as a shareholder. Therefore, a distribution will be a dividend if it is made to a shareholder in their capacity as a shareholder whether in money or in property. In the case of company X, the shares in company Y were sold to company Z. Company Z is the purchaser of the shares so did not acquire the shares in their capacity as a shareholder.
 Company X has acknowledged that the scheme would be completed pursuant to a sale and purchase agreement rather than a simple transfer of shares.
 Davis Investments Pty Ltd v. Commissioner of Stamp Duties (1958) 100 CLR 392 (Davis) is a case in which the court was asked to determine whether the Commissioner of Stamp Duties could go behind the transaction in order to raise stamp duty on the shares sold substantially below the market value by Davis. Although this case was considered in the context of stamp duties, it could lend some assistance to the current analysis. In Davis, the court ruled that notwithstanding the relationship that existed and the fact that the consideration provided for the transfer was substantially below the market value, the agreement to sell the shares was nevertheless one for a sale of shares at below market value in form and in substance. The court was not prepared to strike down the transaction as a sham as the legality of the agreement was not disputed there.
 In the case of company X, it is accepted that there is a valid sale of the shares in company Y to company Z for an amount considerably less than their current market value.
 As there is in form and substance a sale of company Y shares by company X to company Z, the difference between the sale price, which is company X's cost base of the shares for Australian tax purposes, and the market value of the shares is not a distribution to a shareholder in their capacity as a shareholder.
 Thus, the sale by company X of its shareholding in company Y to its parent, company Z, for consideration less than the market value of the shares will not constitute a 'dividend' within the definition of subsection 6(1) of the ITAA 1936.
-Date of decision:
-  28 March 2010
-
-Year of income:
-  Year ended 30 June 2007 Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)
-
-Case References:
-
-Taxation, Deputy Federal Commissioner of v Black   (1990) 25 FCR 274   321 ATR 701   90 ATC 4699
-
-Davis Investments Pty Ltd v Commissioner of Stamp Duties   (1958) 100 CLR 392
-
-Other References:
-
-Macquarie Dictionary,2001, rev. 3rd edn
- Oxford Law Dictionary
-
-Keywords
-
-Disposal of assets
- Disposal of shares
- Dividend income
-
-Siebel/TDMS Reference Number:
-  5633627;1-5TG4CMC; 1-BC2PM23
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  30 April 2010
-
-Date reviewed:
-  11 May 2017
-
-ISSN:
- 1445 - 2782
+Date of decision: 28 March 2010 Year of income: Year ended 30 June 2007 Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) Case References: Taxation, Deputy Federal Commissioner of v Black (1990) 25 FCR 274 321 ATR 701 90 ATC 4699 Davis Investments Pty Ltd v Commissioner of Stamp Duties (1958) 100 CLR 392 Other References: Macquarie Dictionary,2001, rev. 3rd edn Oxford Law Dictionary Keywords Disposal of assets Disposal of shares Dividend income Siebel/TDMS Reference Number: 5633627;1-5TG4CMC; 1-BC2PM23 Business Line: Private Groups and High Wealth Individuals Date of publication: 30 April 2010 Date reviewed: 11 May 2017 ISSN: 1445 - 2782

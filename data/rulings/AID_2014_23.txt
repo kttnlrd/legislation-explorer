@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2014/23
-==================================================
-
-Superannuation
- Self Managed Superannuation Fund - Loan to a property trust
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Self Managed Superannuation Fund - Loan to a property trust CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a loan from a Self Managed Superannuation Fund (SMSF) to a Property Trust be treated as an in-house asset?
 Decision
 A loan from a SMSF to a Property Trust will not be treated as an in-house asset if the Property Trust is neither a related trust (a trust controlled by a member or a standard employer sponsor of the SMSF) nor a related party of the SMSF.
@@ -24,50 +14,9 @@ Reasons for Decision
 Subsection 65(1) of the Superannuation Industry (Supervision) Act 1993 (SISA) states that the trustee or an investment manager of a regulated superannuation fund must not lend money of the fund to a member or a relative of a member of the fund. A 'relative', as defined in subsection 10(1) of the SISA, includes only natural persons. As the Property Trust is not a natural person, subsection 65(1) of the SISA does not prohibit the SMSF from making the loan.
 The meaning of an in-house asset is defined by subsection 71(1) of the SISA to include 'a loan to, ... a related party of the fund, ...' A related party of the superannuation fund, as defined in subsection 10(1) of the SISA, is a member of the fund, a standard employer sponsor of the fund, or a Part 8 associate of either of those entities. The Property Trust is neither a member of the SMSF nor a standard employer sponsor of the SMSF. However, the Property Trust may be a Part 8 associate of a member of the SMSF.
 The relationship between the parties involved requires analysis. In particular, it needs to be determined if the trustees of the Property Trust or any of the other unit holders of the Property Trust are Part 8 associates of the individual members of the SMSF. Part 8 associates of individuals are listed in section 70B of the SISA. The relevant Part 8 associates will be any relative of the individual members of the SMSF, other fund members and trustees of trusts that are controlled by the individual members of the SMSF.
-According to subsection 70E(2) of the SISA, a trust is controlled by an entity, for the purposes of section 70B of the SISA if:
-
-a) a group in relation to the entity has a fixed entitlement to more than 50% of the capital or income of the trust; or
+According to subsection 70E(2) of the SISA, a trust is controlled by an entity, for the purposes of section 70B of the SISA if: a) a group in relation to the entity has a fixed entitlement to more than 50% of the capital or income of the trust; or
 b) the trustee of the trust, or a majority of the trustees of the trust, is accustomed or under an obligation (whether formal or informal), or might reasonably be expected, to act in accordance with the directions, instructions or wishes of a group in relation to the entity (whether those directions, instructions or wishes are, or might reasonably be expected to be, communicated directly or through interposed companies, partnerships or trusts); or
-c) a group in relation to the entity is able to remove or appoint the trustee, or a majority of the trustees, of the trust.
-
-A group is defined in subsection 70E(3) of the SISA to mean:
-
-i) the entity or a Part 8 associate of the entity acting alone; or
+c) a group in relation to the entity is able to remove or appoint the trustee, or a majority of the trustees, of the trust. A group is defined in subsection 70E(3) of the SISA to mean: i) the entity or a Part 8 associate of the entity acting alone; or
 ii) the entity and one or more Part 8 associates of the entity acting together; or
-iii) two or more Part 8 associates of the entity acting together.
-
-The Property Trust to whom the loan was made is not a Part 8 associate of the SMSF because the SMSF and its related parties hold less than 10% unit holdings in the Property Trust and have no other control over the Property Trust. Accordingly the loan has not been made to a related party and therefore does not meet the definition of an in-house asset. The SMSF would be able to lend the money to the Property Trust provided this investment is in line with the investment strategy of the SMSF.
-Date of decision:
-  15 July 2014
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   subsection 10(1)   subsection 65(1)   section 70B   section 70E   subsection 70E(2)   subsection 70E(3)   subsection 71(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/697 is replaced by this decision.
-
-Keywords
-
-self managed superannuation funds
- SMSF investments
- SMSF loans
- SMSF part 8 associate
- SMSF related parties
- superannuation fund in house assets
-
-Siebel/TDMS Reference Number:
-  1-5D1G23X; 1-8AS2I94; 1-FZRSRJG
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  18 July 2014
-
-Date reviewed:
-  7 August 2018
-
-ISSN:
- 1445-2782
+iii) two or more Part 8 associates of the entity acting together. The Property Trust to whom the loan was made is not a Part 8 associate of the SMSF because the SMSF and its related parties hold less than 10% unit holdings in the Property Trust and have no other control over the Property Trust. Accordingly the loan has not been made to a related party and therefore does not meet the definition of an in-house asset. The SMSF would be able to lend the money to the Property Trust provided this investment is in line with the investment strategy of the SMSF.
+Date of decision: 15 July 2014 Legislative References: Superannuation Industry (Supervision) Act 1993 subsection 10(1) subsection 65(1) section 70B section 70E subsection 70E(2) subsection 70E(3) subsection 71(1) Related ATO Interpretative Decisions ATO ID 2002/697 is replaced by this decision. Keywords self managed superannuation funds SMSF investments SMSF loans SMSF part 8 associate SMSF related parties superannuation fund in house assets Siebel/TDMS Reference Number: 1-5D1G23X; 1-8AS2I94; 1-FZRSRJG Business Line: Superannuation Date of publication: 18 July 2014 Date reviewed: 7 August 2018 ISSN: 1445-2782

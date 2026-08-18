@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/266
-==================================================
-
-Income Tax
- Deferred capital loss or deduction - asset transfer from resident to non-resident
- FOI status: may be released
-
-This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deferred capital loss or deduction - asset transfer from resident to non-resident FOI status: may be released This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a capital loss made on the disposal of a CGT asset by a resident company to a non-resident company that is a member of the same 'linked group' be disregarded by the operation of Subdivision 170-D of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. Subdivision 170-D of the ITAA 1997 will apply in accordance with section 170-255 of the ITAA 1997.
@@ -27,100 +12,29 @@ Company A has a controlling stake in Company S and the two companies are linked 
 Company A disposed of shares in an Australian resident public company to Company S, resulting in CGT event A1 happening for the purposes of subsection 104-10(1) of the ITAA 1997.
 The capital proceeds were less than the share's reduced cost base at the time of the CGT event and Company A made a capital loss in accordance with subsection 104-10(4) of the ITAA 1997.
 Reasons for Decision
-Subsection 170-255(1) of the ITAA 1997 provides that Subdivision 170-D of the ITAA 1997 will apply if:
-
-(a)an event (the
- deferral event
-) happens involving a company (the
- originating company
+Subsection 170-255(1) of the ITAA 1997 provides that Subdivision 170-D of the ITAA 1997 will apply if: (a)an event (the deferral event
+) happens involving a company (the originating company
 ) and another entity; and
-(b)one or more of the following apply:
-
-(i)the deferral event is a *CGT event that would have resulted in the originating company making a *capital loss (except a capital loss that would be disregarded under a provision of this Act other than this Subdivision);
+(b)one or more of the following apply: (i)the deferral event is a *CGT event that would have resulted in the originating company making a *capital loss (except a capital loss that would be disregarded under a provision of this Act other than this Subdivision);
 (ii)...;
-(iii)...; and
-
-(c)if subparagraph (b)(i) applies -- the CGT event is one of the following:
-
-(i)CGT events A1 and B1 (a
- disposal case
+(iii)...; and (c)if subparagraph (b)(i) applies -- the CGT event is one of the following: (i)CGT events A1 and B1 (a disposal case
 );
-(ii)CGT events D1, D2, D3 and F1 (a
- creation case
-); and
-
-(d)one of the following applies:
-
-(i)the originating company is a resident at the time of the deferral event;
+(ii)CGT events D1, D2, D3 and F1 (a creation case
+); and (d)one of the following applies: (i)the originating company is a resident at the time of the deferral event;
 (ii)...;
 (iii)...;
 (iv)...;
-(v)...; and
-
-(e)at the time of the deferral event, the originating company is a member of a *linked group and one of the following applies:
-
-(i)the other entity is a company that is not a connected entity of the originating company and is a member of that linked group;
+(v)...; and (e)at the time of the deferral event, the originating company is a member of a *linked group and one of the following applies: (i)the other entity is a company that is not a connected entity of the originating company and is a member of that linked group;
 (ii)...;
 (iii)...
-* denotes a term defined in section 995-1 of the ITAA 1997.
-
-For Subdivision 170-D of the ITAA 1997 to apply, paragraphs 170-255(1)(a) to (e) of the ITAA 1997 must all apply.
+* denotes a term defined in section 995-1 of the ITAA 1997. For Subdivision 170-D of the ITAA 1997 to apply, paragraphs 170-255(1)(a) to (e) of the ITAA 1997 must all apply.
 The disposal by Company A of its Australian shareholding to Company S is a deferral event for the purposes of paragraph 170-255(1)(a) of the ITAA 1997.
 The deferral event was a CGT event that would have resulted in Company A making a capital loss for the purposes of subparagraph 170-255(1)(b)(i) of the ITAA 1997.
 The CGT event is CGT event A1 for the purposes of subparagraph 170-255(1)(c)(i) of the ITAA 1997.
 Company A was a resident at the time of the deferral event for the purposes of subparagraph 170-255(1)(d)(i) of the ITAA 1997.
 At the time of the deferral event, Company A was a member of a linked group and Company S was not a connected entity of Company A but was a member of that linked group for the purpose of subparagraph 170-255(1)(e)(i) of the ITAA 1997.
 As each of paragraphs 170-255(1)(a) to (e) of the ITAA 1997 apply then section 170-270 of Subdivision 170-D of the ITAA 1997 applies to disregard the capital loss.
-Date of decision:
-  14 March 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 104-10(1)   subsection 104-10(4)   Subdivision 170-D   section 170-255   subsection 170-255(1)   paragraph 170-255(1)(a)   paragraph 170-255(1)(b)   subparagraph 170-255(1)(b)(i)   paragraph 170-255(1)(c)   subparagraph 170-255(1)(c)(i)   paragraph 170-255(1)(d)   subparagraph 170-255(1)(d)(i)   paragraph 170-255(1)(e)   subparagraph 170-255(1)(e)(i)   subsection 170-260(2)   section 170-265   section 170-270
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/264
- ATO ID 2003/265
- ATO ID 2003/267
-
-Keywords
-
-Capital gains tax
- Capital losses
- DCLD connected entity
- Deferral event
- Deferred capital losses
- Disregarded capital loss
- Linked group
- Losses and Capital Gains Tax CoE
- Originating company
- Relevant CGT asset
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  29 April 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 March 2003
-Original statement
-
-You are here
+Date of decision: 14 March 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 104-10(1) subsection 104-10(4) Subdivision 170-D section 170-255 subsection 170-255(1) paragraph 170-255(1)(a) paragraph 170-255(1)(b) subparagraph 170-255(1)(b)(i) paragraph 170-255(1)(c) subparagraph 170-255(1)(c)(i) paragraph 170-255(1)(d) subparagraph 170-255(1)(d)(i) paragraph 170-255(1)(e) subparagraph 170-255(1)(e)(i) subsection 170-260(2) section 170-265 section 170-270 Related ATO Interpretative Decisions ATO ID 2003/264 ATO ID 2003/265 ATO ID 2003/267 Keywords Capital gains tax Capital losses DCLD connected entity Deferral event Deferred capital losses Disregarded capital loss Linked group Losses and Capital Gains Tax CoE Originating company Relevant CGT asset Business Line: Losses and CGT Centre of Expertise Date of publication: 29 April 2003 ISSN: 1445-2782 history Date: Version: 14 March 2003
+Original statement You are here
 12 September 2008
 Archived

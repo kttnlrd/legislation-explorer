@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/949
-==================================================
-
-Income Tax
- Deducting tax losses: when loss company can only deduct part of the tax loss
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deducting tax losses: when loss company can only deduct part of the tax loss FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the 'part of the tax loss' made deductible by subsection 165-20(1) of the Income Tax Assessment Act 1997 (ITAA 1997) be the whole of the tax loss?
 Decision
 Yes. In the particular context of the subsection the term 'part' can encompass the whole where the whole of the tax loss was in fact incurred by the loss company during the relevant part of the loss year which satisfies the conditions in subsection 165-20(2) of the ITAA 1997.
@@ -29,34 +18,4 @@ Where section 165-10 of the ITAA 1997 prevents a company from deducting a tax lo
 Loss Company sufficiently maintained the same owners from the start of the second period to the end of the later year of income, such that section 165-20 of the ITAA 1997 provides that the part of the tax loss that Loss Company incurred in the second period can be deducted.
 In the present circumstances the excess of Loss Company's deductions over its assessable income during the second period is such that the whole of its $3,000 tax loss was incurred during the relevant part of the loss year and in accordance with section 165-20 of the ITAA 1997 can therefore be deducted.
 Whilst subsection 165-20(1) of the ITAA 1997 explicitly provides that 'the company can deduct the part of the tax loss', the use of the term 'part' in the context of this particular subsection is to be given a broad construction such that it can encompass the whole of the amount of the tax loss and not merely part thereof.
-Date of decision:
-  16 November 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 165-10   section 165-12   subsection 165-12(1)   section 165-20   subsection 165-20(1)   subsection 165-20(2)   Subdivision 165-B   section 165-45   subsection 165-50(1)   subsection 165-50(2)   section 165-70
-
-Keywords
-
-Company losses
- Continuity of ownership test
- Same business test
- Tax loss
-
-Siebel/TDMS Reference Number:
-  4316175; 1-5QF83WN; 1-CIVQUF5
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  3 December 2004
-
-Date reviewed:
-  11 September 2017
-
-ISSN:
- 1445-2782
+Date of decision: 16 November 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 165-10 section 165-12 subsection 165-12(1) section 165-20 subsection 165-20(1) subsection 165-20(2) Subdivision 165-B section 165-45 subsection 165-50(1) subsection 165-50(2) section 165-70 Keywords Company losses Continuity of ownership test Same business test Tax loss Siebel/TDMS Reference Number: 4316175; 1-5QF83WN; 1-CIVQUF5 Business Line: Private Groups and High Wealth Individuals Date of publication: 3 December 2004 Date reviewed: 11 September 2017 ISSN: 1445-2782

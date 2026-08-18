@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/243
-==================================================
-
-Goods and Services Tax
- GST and the timing of choice to treat a fund-raising event as an input taxed fund-raising event
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and the timing of choice to treat a fund-raising event as an input taxed fund-raising event FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an endorsed charitable institution, required to make its choice to treat supplies made in connection with a fund-raising event as input taxed under section 40-160 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) prior to making the first supply in connection with the event?
 Decision
 Yes, the entity is required to make its choice to treat supplies made in connection with a fund-raising event as input taxed under section 40-160 of the GST Act prior to making the first supply in connection with the event.
@@ -23,38 +12,4 @@ Reasons for Decision
 Section 40-160 of the GST Act enables a charitable institution, a trustee of a charitable fund, a gift-deductible entity and a government school to choose to treat all supplies it makes in connection with certain fund-raising events as input taxed. Where the entity does not make this choice, the supplies relating to the event will be treated under the general goods and services tax (GST) principles.
 Section 40-160 of the GST Act stipulates the conditions that must be satisfied for a supply made in connection with a fund-raising event to be treated as input taxed. One of the conditions that must be satisfied is that 'the supplier chooses to have all supplies that it makes in connection with the event treated as input taxed' (paragraph 40-160(1)(c) of the GST Act).
 The GST is a transaction based tax. The operation of the GST Act requires that the supplier determines whether there is a GST liability associated with the supply when that supply occurs. Therefore, where a choice is provided under the GST Act which affects the GST treatment of a particular supply, that choice must be made prior to making the supply.
-Consequently, the entity must choose to have all supplies that it makes in connection with the fund-raising event treated as input taxed prior to the first supply being made in connection with the event.
-
-Note: Division 19 of the GST Act contains specific provisions that may apply in certain circumstances to adjust the GST liability on a supply after the supply is made. These provisions do not apply to the making of a choice to treat supplies in connection with fund-raising event as input taxed under section 40-160 of the GST Act.
-
-Date of decision:
-  12 April 2005
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 19   section 40-160   paragraph 40-160(1)(c)   section 40-165
-
-Other References:
-
-Non-Profit Organisation and Fundraising Guide (NAT 13095 - 03.2005)
-
-Keywords
-
-Goods and services tax
- GST non profit
- GST charities
- GST supplies & acquisitions
- GST supply
- Input taxed supplies
-
-Siebel/TDMS Reference Number:
-  4536915
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  26 August 2005
-
-ISSN:
- 1445-2782
+Consequently, the entity must choose to have all supplies that it makes in connection with the fund-raising event treated as input taxed prior to the first supply being made in connection with the event. Note: Division 19 of the GST Act contains specific provisions that may apply in certain circumstances to adjust the GST liability on a supply after the supply is made. These provisions do not apply to the making of a choice to treat supplies in connection with fund-raising event as input taxed under section 40-160 of the GST Act. Date of decision: 12 April 2005 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 19 section 40-160 paragraph 40-160(1)(c) section 40-165 Other References: Non-Profit Organisation and Fundraising Guide (NAT 13095 - 03.2005) Keywords Goods and services tax GST non profit GST charities GST supplies & acquisitions GST supply Input taxed supplies Siebel/TDMS Reference Number: 4536915 Business Line: Indirect Tax Date of publication: 26 August 2005 ISSN: 1445-2782

@@ -1,29 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2006/290
-==================================================
-
-Superannuation
- Part IX taxation of superannuation entities: deduction for superannuation funds for additional lump sum death benefits paid after the death of a fund member.
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in ATO ID 2007/219
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Part IX taxation of superannuation entities: deduction for superannuation funds for additional lump sum death benefits paid after the death of a fund member. FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in ATO ID 2007/219 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the Commissioner accept an alternative method, as set out below, as a means of calculating the notional payment reduction due to contributions tax in subsection 279D(2) of the Income Tax Assessment Act 1936 (ITAA 1936) as the actual amount cannot be calculated by the superannuation fund?
 Decision
-Yes. The Commissioner will accept the following method of calculating the notional payment reduction where the actual reduction cannot be calculated by the paying superannuation fund:
-
-(0.15P) / (R- 0.15P) * C
-
-Where:
+Yes. The Commissioner will accept the following method of calculating the notional payment reduction where the actual reduction cannot be calculated by the paying superannuation fund: (0.15P) / (R- 0.15P) * C Where:
 P is the number of days in component R that occur after 30 June 1988.
 R is the total number of days in the eligible service period that occur after 30 June 1983.
 C is the amount of the post-June 83 component of the 'actual payment' referred to in paragraph 279D(2)(b) calculated under section 27AA of the ITAA 1936 after excluding the actual, if any, insured amount for which deductions have been claimed under sections 279 or 279B of the ITAA 1936.
@@ -33,79 +14,18 @@ The Fund is a taxed superannuation fund.
 The Fund cannot calculate the amount of tax paid on amounts in the member's account as their records do not track the effect of fund tax on individual accounts over the membership period.
 Members may transfer superannuation benefits from other superannuation funds to the Fund. The details of the benefits transferred from other superannuation funds do not include the actual effect of fund tax.
 The Fund does not pay benefits that include amounts calculated under subsections 27AB(4) or (6) of the ITAA 1936
-The Fund has proposed the following formula to calculate the notional payment reduction under subsection 279D(2) of the ITAA 1936:
-
-(0.15P) / (R- 0.15P) * C
-
-Where:
+The Fund has proposed the following formula to calculate the notional payment reduction under subsection 279D(2) of the ITAA 1936: (0.15P) / (R- 0.15P) * C Where:
 P is the number of days in component R that occur after 30 June 1988.
 R is the total number of days in the eligible service period that occur after 30 June 1983.
 C is the amount of the post-June 83 component of the 'actual payment' referred to in paragraph 279D(2)(b) calculated under section 27AA of the ITAA 1936 after excluding the actual, if any, insured amount for which deductions have been claimed under sections 279 or 279B of the ITAA 1936.
 Reasons for Decision
 Section 279D of the ITAA 1936 allows a deduction to a superannuation payer when a death benefit payment to a dependant either directly, or via an estate, has been increased to the amount that would have been payable if taxable contributions in relation to the member had not been included in the assessable income of the fund.
 The deduction allowable is calculated by reference to the increase in the death benefit.
-Subsection 279D(2) provides that the deduction is to be calculated as follows:
-
-Notional payment reduction due to contributions tax/Complying superannuation tax rate
-
-Where
-Notional payment reduction due to contributions tax is the difference between:
-
-(a)the amount that would have been the amount of the actual payment if:
-
-(i)no amount were included in assessable income in relation to taxable contributions made to a complying superannuation fund; and
-(ii)it had been expected that no deduction would be allowable under this section in respect of the actual payment; and
-
-(b)the amount that would have been the amount of the actual payment if it had been expected that no deduction would be allowable under this section in respect of the payment.
-
-The Explanatory Memorandum (EM) prescribed a method of calculation of the notional payment reduction that would generally be accepted by the Commissioner. However, the method contained in the EM is considered inappropriate by the Fund as it assumes a defined death benefit, whereas the Fund provides a number of choices to members in relation to insurance. Application of the formula in the EM results in a lower amount than is intended.
+Subsection 279D(2) provides that the deduction is to be calculated as follows: Notional payment reduction due to contributions tax/Complying superannuation tax rate Where
+Notional payment reduction due to contributions tax is the difference between: (a)the amount that would have been the amount of the actual payment if: (i)no amount were included in assessable income in relation to taxable contributions made to a complying superannuation fund; and
+(ii)it had been expected that no deduction would be allowable under this section in respect of the actual payment; and (b)the amount that would have been the amount of the actual payment if it had been expected that no deduction would be allowable under this section in respect of the payment. The Explanatory Memorandum (EM) prescribed a method of calculation of the notional payment reduction that would generally be accepted by the Commissioner. However, the method contained in the EM is considered inappropriate by the Fund as it assumes a defined death benefit, whereas the Fund provides a number of choices to members in relation to insurance. Application of the formula in the EM results in a lower amount than is intended.
 An alternative method that reflects the intention of the provision has been suggested as set out in the Facts. It calculates an approximate notional payment reduction taking into account the amount of the benefit that accrued after 30 June 1988 when this tax was introduced.
 In the view of the Commissioner, the alternative method proposed acceptably estimates the notional payment reduction in the circumstances outlined.
-Date of decision:
-  7 December 2005
-
-Year of income:
-  Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 279D   section 27AB   section 279   section 279B   section 27AA
-
-Keywords
-
-Eligible termination payments
- ETP death benefit deceased estates
- ETP death benefit dependants
- ETP post June 1983 component
- ETP taxed element
- ETP untaxed element
- ETP service period
- Superannuation
- Superannuation fund potential detriment payments
- Superannuation funds - death and disability premiums
- Superannuation, retirement & employment termination
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  27 October 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 7 December 2005
-Original statement
-
-You are here
- 9 January 2009
+Date of decision: 7 December 2005 Year of income: Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1936 section 279D section 27AB section 279 section 279B section 27AA Keywords Eligible termination payments ETP death benefit deceased estates ETP death benefit dependants ETP post June 1983 component ETP taxed element ETP untaxed element ETP service period Superannuation Superannuation fund potential detriment payments Superannuation funds - death and disability premiums Superannuation, retirement & employment termination Business Line: Superannuation Date of publication: 27 October 2006 ISSN: 1445-2782 history Date: Version: 7 December 2005
+Original statement You are here 9 January 2009
 Archived

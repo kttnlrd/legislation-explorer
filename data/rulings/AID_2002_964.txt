@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2002/964
-==================================================
-
-Income Tax
- Capital gains tax: trusts: calculation of beneficiary's net capital gain
- FOI status: may be released
-
-Note: This ATO ID contains a view in respect of section 97 of the Income Tax Assessment Act 1936 and Subdivision 115 -C of the Income Tax Assessment Act 1997 as they operated prior to amendments introduced by the Tax Law Amendment (2011 Measures No. 5) Act 2011 (including the introduction of Division 6E of Part III of the Income Tax Assessment Act 1936). Except in the case of some early balancing trusts and managed investment trusts, those amendments take effect from the 2010-11 and later income years.
-This ATOID was amended by replacing references to 'assessable income' with 'taxable income'. A further amendment clarified the description of the way in which Subdivision 115-C applies.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: trusts: calculation of beneficiary's net capital gain FOI status: may be released Note: This ATO ID contains a view in respect of section 97 of the Income Tax Assessment Act 1936 and Subdivision 115 -C of the Income Tax Assessment Act 1997 as they operated prior to amendments introduced by the Tax Law Amendment (2011 Measures No. 5) Act 2011 (including the introduction of Division 6E of Part III of the Income Tax Assessment Act 1936). Except in the case of some early balancing trusts and managed investment trusts, those amendments take effect from the 2010-11 and later income years.
+This ATOID was amended by replacing references to 'assessable income' with 'taxable income'. A further amendment clarified the description of the way in which Subdivision 115-C applies. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a beneficiary reduce the share of a trust's net income that is included in their assessable income under section 97 of the Income Tax Assessment Act 1936 (ITAA 1936), by its prior year capital losses?
 Decision
 o. The beneficiary can only apply their capital losses against the extra capital gains that they are taken to have made under Subdivision 115-C of the Income Tax Assessment Act 1997 (ITAA 1997).
@@ -23,99 +10,20 @@ Facts
 An Australian resident beneficiary, who is not under a legal disability, is presently entitled to a share of trust income in the 2002 income year.
 The beneficiary's share of the net income of the trust for the 2002 income year is attributable to a discount capital gain of $5 million.
 The beneficiary had a $15 million net capital loss from an earlier income year.
-The beneficiary calculated their net capital gain for the year as follows:
-
-Section 97 of the ITAA 1936 'capital gain' amount
-$5 million
-
-Section 115-215 of the ITAA 1997 capital gain
-
-$10 million
-
-$15 million
-
-less carried forward capital losses
-
-($15 million)
-
-nil
-
-The beneficiary calculated a loss for the 2002 income year as follows:
-
-Trust distribution (treated as a capital gain)
-nil
-
-Net capital gain/loss
-nil
-
-less deduction under subsection 115-215(6) of the ITAA 1997
-
-$5 million
-
-Assessable income (loss)
-$(5 million)
-
-Reasons for Decision
+The beneficiary calculated their net capital gain for the year as follows: Section 97 of the ITAA 1936 'capital gain' amount
+$5 million Section 115-215 of the ITAA 1997 capital gain $10 million $15 million less carried forward capital losses ($15 million) nil The beneficiary calculated a loss for the 2002 income year as follows: Trust distribution (treated as a capital gain)
+nil Net capital gain/loss
+nil less deduction under subsection 115-215(6) of the ITAA 1997 $5 million Assessable income (loss)
+$(5 million) Reasons for Decision
 A beneficiary who is not under a legal disability and who is presently entitled to a share of the income of a trust must include in their assessable income their share of the net income of the trust estate (section 97 of the ITAA 1936).
 Subdivision 115-C of the ITAA 1997 sets out rules that affect the calculation of a beneficiary's net capital gain if the beneficiary is assessed on a share of the net income of the trust which includes a capital gain.
 Section 115-215 of the ITAA 1997 treats a beneficiary as having capital gains in addition to those they have from a CGT event happening. For each part of a trust capital gain that was reduced by the CGT discount and which is included in the beneficiary's income under section 97 of the ITAA 1936, the beneficiary is treated as having made a capital gain equal to twice that amount (paragraph 115-215(3)(b) of the ITAA 1997).
 Subsection 115-215(6) of the ITAA 1997 provides a beneficiary with a deduction to the extent that a capital gain has been included in assessable income under section 97 of the ITAA 1936. This deduction ensures that the beneficiary is not taxed twice on the trust capital gain (ie under section 97 of the ITAA 1936 and under Subdivision 115-C of the ITAA 1997).
-In this case, the beneficiary should calculate their net capital gain for the 2002 income year as follows
-
-section 115-215 of the ITAA 1997 capital gain
-
-$10 million
-
-less carried forward capital losses
-
-$10 million
-
-Net capital gain
-nil
-
-Carry forward net capital loss
-$5million
-
-The beneficiary's taxable income/loss for the 2002 income year is calculated as follows:
-
-Share of trust net income assessable under section 97 of the ITAA 1936
-$5 million
-
-less deduction under subsection 115-215(6) of the ITAA 1997
-($5 million)
-
-Net capital gain
-nil
-
-Taxable income (loss)
-nil
-
-Date of decision:
-  2 September 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 97
-Income Tax Assessment Act 1997   Subdivision 115-C   section 115-215   subsection 115-215(6)
-
-Keywords
-
-Capital gains tax
- Trusts
- CGT discount
- Net capital gain
-
-Siebel/TDMS Reference Number:
-  CRS78515
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 October 2002
-
-ISSN:
- 1445-2782
+In this case, the beneficiary should calculate their net capital gain for the 2002 income year as follows section 115-215 of the ITAA 1997 capital gain $10 million less carried forward capital losses $10 million Net capital gain
+nil Carry forward net capital loss
+$5million The beneficiary's taxable income/loss for the 2002 income year is calculated as follows: Share of trust net income assessable under section 97 of the ITAA 1936
+$5 million less deduction under subsection 115-215(6) of the ITAA 1997
+($5 million) Net capital gain
+nil Taxable income (loss)
+nil Date of decision: 2 September 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 section 97
+Income Tax Assessment Act 1997 Subdivision 115-C section 115-215 subsection 115-215(6) Keywords Capital gains tax Trusts CGT discount Net capital gain Siebel/TDMS Reference Number: CRS78515 Business Line: Public Groups and International Date of publication: 2 October 2002 ISSN: 1445-2782

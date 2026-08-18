@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/15
-==================================================
-
-Income Tax
- Derivation of Income: unbilled supply of energy
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Derivation of Income: unbilled supply of energy FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the taxpayer derive assessable income for the purposes of section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997) where it supplies electrical and gas energy to New South Wales (NSW) mass market customers but that supply remains unbilled at the end of the income year?
 Decision
 Yes. The taxpayer derives assessable income for the purposes of section 6-5 of the ITAA 1997 where it supplies electrical and gas energy to NSW mass market customers but that energy remains unbilled at the end of the income year.
@@ -48,9 +37,7 @@ Further, paragraph 14 of AASB 118 requires a transfer to the buyer of the signif
 Mass market customers consume energy when it passes the meter and enters the system that services their addresses. At that point, the taxpayer loses its dispositive power over the energy and the customers are contractually committed to pay, at some future date, for energy they have consumed at that point in time.
 The taxpayer's entitlement to payment for energy consumed is unconditional at this point. The income earning process is complete and the taxpayer has an existing right to demand payment of an ascertainable amount.
 The raising of a bill is not a condition precedent to a recoverable debt being created, but rather the mechanism by which the debt collection process commences.
-The exceptional circumstances that led the court in the AGL case to decide that conditions precedent existed so that a recoverable debt was not created at the point of supply are not evident in the legislative, regulatory and market environment in which the taxpayer operates. Distinguishing features of that environment are:
-
-•full retail competition supported by a legislative and regulatory framework
+The exceptional circumstances that led the court in the AGL case to decide that conditions precedent existed so that a recoverable debt was not created at the point of supply are not evident in the legislative, regulatory and market environment in which the taxpayer operates. Distinguishing features of that environment are: •full retail competition supported by a legislative and regulatory framework
 •the absence of regulatory limitations or requirements in relation to an energy retailer's accumulated profits, distributions or accounts
 •limited price control under which maximum average energy rates are fixed by the IPART only in relation to the standard form customer supply contract
 •retail energy tariffs are not set on a quarterly basis and do not apply by reference to quarterly usage but to a customer's average daily usage over the billing period (except for time-of-use metering)
@@ -58,68 +45,9 @@ The exceptional circumstances that led the court in the AGL case to decide that 
 •a wider range of circumstances in which the retailer can estimate the quantity of energy supplied, including where there has been no meter reading for the period
 •no legislative or regulatory requirement that an account must be rendered by the taxpayer before a demand for payment of energy supplied to the customer can be made based on actual quantities of energy supplied
 •no requirement that a bill must be based on measured consumption in every instance, and
-•the taxpayer brings to account an amount for unbilled revenue for energy supplied in their financial statements in accordance with Australian accounting standards.
-
-Given the circumstances in which the taxpayer earns its income by supplying energy to customers on a continuous basis, the inclusion of an estimate of income relating to unbilled supplies at year end (in keeping with the taxpayer's accounting practice) does not produce a misleading result but, on the contrary, gives a 'substantially correct reflex' of the taxpayer's true income: (Commissioner of Taxes (SA) v. Executor Trustee and Agency Co of South Australia Ltd (1938) 63 CLR 108; (1938) 5 ATD 98).
+•the taxpayer brings to account an amount for unbilled revenue for energy supplied in their financial statements in accordance with Australian accounting standards. Given the circumstances in which the taxpayer earns its income by supplying energy to customers on a continuous basis, the inclusion of an estimate of income relating to unbilled supplies at year end (in keeping with the taxpayer's accounting practice) does not produce a misleading result but, on the contrary, gives a 'substantially correct reflex' of the taxpayer's true income: (Commissioner of Taxes (SA) v. Executor Trustee and Agency Co of South Australia Ltd (1938) 63 CLR 108; (1938) 5 ATD 98).
 In order for income to be derived, the amount must be ascertainable (Farnsworth's case). However, that does not mean that the exact amount needs to be ascertained - a reasonable estimate based on a bona fide judgement or opinion to form an approximation of an ascertainable amount is sufficient (Australia and New Zealand Banking Group Ltd v. Commissioner of Taxation (1994) 48 FCR 268; 94 ATC 4026; (1994) 27 ATR 559). The figure determined as income may be the result of estimation, as well as of calculation, and its determination may involve the acceptance of opinions, expert or otherwise (Henderson's case).
 In accordance with AASB 118, the taxpayer can and does reliably estimate the amount of income that is unbilled at the end of the income year when preparing its financial statements.
-Accordingly, the taxpayer derives assessable income under subsection 6-5(2) of the ITAA 1997 for energy supplied to customers but remaining unbilled at the end of the income year. The Commissioner considers that the amount of that assessable income is the estimated amount recognised by the taxpayer for financial accounting purposes.
-
-Note: For the purposes of this ATO Interpretative Decision, 'mass market customer' means 'small retail customer' as defined in the Electricity Supply Act 1995 (NSW) and the Gas Supply Act 1996 (NSW), respectively.
-
-Date of decision:
-  16 December 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5
-Sale of Goods Act 1923   section 22
-
-Case References:
-
-AGL Victoria Pty Ltd v David Neil Lockwood and Allianz Australia Insurance Limited   [2003] VSC 453
-
-Australia and New Zealand Banking Group Ltd v Commissioner of Taxation   (1994) 48 FCR 268   94 ATC 4026   (1994) 27 ATR 559
-
-Barratt v FC of T   91 ATC 4869   (1991) 22 ATR 691
-
-Brent v Federal Commissioner of Taxation   (1971) 125 CLR 418   71 ATC 4195   (1971) 2 ATR 563
-
-Commissioner of Taxes (SA) v Executor Trustee and Agency Co of South Australia Ltd   (1938) 63 CLR 108   (1938) 5 ATD 98
-
-Farnsworth v Federal Commissioner of Taxation   (1949) 78 CLR 504   (1949) 9 ATD 33
-
-FC of T v Australian Gas Light Co   83 ATC 4800   (1983) 15 ATR 105
-
-Gasparin v Commissioner of Taxation   (1994) 50 FCR 73   94 ATC 4280   (1994) 28 ATR 130
-
-Henderson v Federal Commissioner of Taxation   (1969) 119 CLR 612   69 ATC 4049   (1969) 1 ATR 133
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2095
-Taxation Ruling TR 98/1
-
-Other References:
-
-Australian Accounting Standard AASB 118 Revenue
-
-Keywords
-
-Assessable income
- Derivation of income
-
-Siebel/TDMS Reference Number:
-  1-3C8DQ71
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 March 2012
-
-ISSN:
- 1445-2782
+Accordingly, the taxpayer derives assessable income under subsection 6-5(2) of the ITAA 1997 for energy supplied to customers but remaining unbilled at the end of the income year. The Commissioner considers that the amount of that assessable income is the estimated amount recognised by the taxpayer for financial accounting purposes. Note: For the purposes of this ATO Interpretative Decision, 'mass market customer' means 'small retail customer' as defined in the Electricity Supply Act 1995 (NSW) and the Gas Supply Act 1996 (NSW), respectively. Date of decision: 16 December 2011 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 6-5
+Sale of Goods Act 1923 section 22 Case References: AGL Victoria Pty Ltd v David Neil Lockwood and Allianz Australia Insurance Limited [2003] VSC 453 Australia and New Zealand Banking Group Ltd v Commissioner of Taxation (1994) 48 FCR 268 94 ATC 4026 (1994) 27 ATR 559 Barratt v FC of T 91 ATC 4869 (1991) 22 ATR 691 Brent v Federal Commissioner of Taxation (1971) 125 CLR 418 71 ATC 4195 (1971) 2 ATR 563 Commissioner of Taxes (SA) v Executor Trustee and Agency Co of South Australia Ltd (1938) 63 CLR 108 (1938) 5 ATD 98 Farnsworth v Federal Commissioner of Taxation (1949) 78 CLR 504 (1949) 9 ATD 33 FC of T v Australian Gas Light Co 83 ATC 4800 (1983) 15 ATR 105 Gasparin v Commissioner of Taxation (1994) 50 FCR 73 94 ATC 4280 (1994) 28 ATR 130 Henderson v Federal Commissioner of Taxation (1969) 119 CLR 612 69 ATC 4049 (1969) 1 ATR 133 Related Public Rulings (including Determinations) Taxation Ruling IT 2095
+Taxation Ruling TR 98/1 Other References: Australian Accounting Standard AASB 118 Revenue Keywords Assessable income Derivation of income Siebel/TDMS Reference Number: 1-3C8DQ71 Business Line: Public Groups and International Date of publication: 2 March 2012 ISSN: 1445-2782

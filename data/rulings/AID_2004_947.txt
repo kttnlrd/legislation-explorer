@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/947
-==================================================
-
-Goods and services tax
- GST and written recipient created tax invoice agreement entered into by a resident agent on behalf of a non-resident recipient
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and services tax GST and written recipient created tax invoice agreement entered into by a resident agent on behalf of a non-resident recipient FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the entity, an agent for a non-resident recipient, enter into the written agreement required by clause 4(f) of the A New Tax System (Goods and Services Tax) Act 1999 Classes of Recipient Created Tax Invoice Determination (No. 1) 2000 (RCTI Determination), so that the non-resident can issue recipient created tax invoices (RCTIs) to its supplier?
 Decision
 Yes, the entity can enter into the written agreement required by clause 4(f) of the RCTI Determination so that the non-resident can issue RCTIs to its supplier.
@@ -24,37 +11,5 @@ The non-resident instructs the entity, its agent, to enter into written agreemen
 Reasons for Decision
 Clause 4(f) of the RCTI Determination provides that the recipient must issue the RCTI pursuant to a written agreement that the 'recipient has with the supplier'.
 When an agent uses its authority to act for a principal, then any act done on behalf of that principal is an act of the principal. As such, a written agreement entered into by an agent, on behalf of their principal, will be an agreement entered into by the principal.
-The non-resident recipient has instructed the entity to enter into the written RCTI agreement, on its behalf, with the Australian suppliers. Therefore, the entity can enter into the agreement required by clause 4(f) of the RCTI Determination so that the non-resident can issue RCTIs to its supplier.
-
-Note 1. To be able to issue RCTIs the non-resident must satisfy all of the requirements in the RCTI Determination.
-
-Note 2. The entity, as agent, can also issue RCTIs, on behalf of its non-resident principal. The requirements of the GST Act are satisfied where the agent's name and address or Australian business number (ABN) are used instead of the recipient's name and address or ABN (paragraph 73 of Goods and Services Tax Ruling GSTR 2000/37).
-
-Date of decision:
-  17 March 2004
-
-Related Public Rulings (including Determinations)
-
-GSTR 2000/37
-A New Tax System (Goods and Services Tax) Act 1999 Classes of Recipient Created Tax Invoice Determination (No. 1) 2000, clause 4(f)
-
-Keywords
-
-Goods and services tax
- GST international services
- Connected with Australia
- GST resident agents
- GST invoices
- Recipient created tax invoices
-
-Siebel/TDMS Reference Number:
-  3681393
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  26 November 2004
-
-ISSN:
- 1445-2782
+The non-resident recipient has instructed the entity to enter into the written RCTI agreement, on its behalf, with the Australian suppliers. Therefore, the entity can enter into the agreement required by clause 4(f) of the RCTI Determination so that the non-resident can issue RCTIs to its supplier. Note 1. To be able to issue RCTIs the non-resident must satisfy all of the requirements in the RCTI Determination. Note 2. The entity, as agent, can also issue RCTIs, on behalf of its non-resident principal. The requirements of the GST Act are satisfied where the agent's name and address or Australian business number (ABN) are used instead of the recipient's name and address or ABN (paragraph 73 of Goods and Services Tax Ruling GSTR 2000/37). Date of decision: 17 March 2004 Related Public Rulings (including Determinations) GSTR 2000/37
+A New Tax System (Goods and Services Tax) Act 1999 Classes of Recipient Created Tax Invoice Determination (No. 1) 2000, clause 4(f) Keywords Goods and services tax GST international services Connected with Australia GST resident agents GST invoices Recipient created tax invoices Siebel/TDMS Reference Number: 3681393 Business Line: Indirect Tax Date of publication: 26 November 2004 ISSN: 1445-2782

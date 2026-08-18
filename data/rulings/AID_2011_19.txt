@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2011/19
-==================================================
-
-Income Tax
- Taxation of financial arrangements: interaction between Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997) and the definition of a financial arrangement (equity interest or right or obligation in relation to an equity interest) in Division 230 of the ITAA 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Will a debenture, issued pursuant to a debenture deed poll, constitute a financial arrangement under subsection 230-50(1) of ITAA 1997)?
-
-Answer
-
-Yes. The debenture will constitute a financial arrangement under subsection 230-50(1) of the ITAA 1997.
+================================================== Income Tax Taxation of financial arrangements: interaction between Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997) and the definition of a financial arrangement (equity interest or right or obligation in relation to an equity interest) in Division 230 of the ITAA 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Will a debenture, issued pursuant to a debenture deed poll, constitute a financial arrangement under subsection 230-50(1) of ITAA 1997)? Answer Yes. The debenture will constitute a financial arrangement under subsection 230-50(1) of the ITAA 1997.
 Facts
 On 1 November 2010, the taxpayer subscribed for a debenture in Company A, an unrelated entity. The debenture is issued to raise finance for Company A.
 The debenture is issued pursuant to a debenture deed poll entered into between the taxpayer and Company A.
@@ -26,45 +11,11 @@ The debenture gives rise to an equity interest in Company A under subsection 974
 Division 230 of the ITAA 1997 applies to the taxpayer from 1 July 2010. The taxpayer has elected to apply the fair value method in Division 230 to its financial arrangements. The taxpayer is required by the accounting standards to classify or designate, in its financial reports, its equity financial arrangements as at fair value through profit or loss.
 Reasons for Decision
 All legislative references are to the ITAA 1997 unless otherwise indicated.
-Broadly, Division 230 applies to arrangements that satisfy the definition of a financial arrangement. An arrangement is a financial arrangement if it satisfies either the:
-
-1.principal definition of a financial arrangement in subsection 230-45(1) dealing with cash settlable rights and obligations to financial benefits; or
-2.secondary definition of a financial arrangement in section 230-50 dealing with equity interests and rights and obligations to equity interests.
-
-Specifically, subsection 230-50(1) provides that an equity interest, as defined, constitutes the financial arrangement. Therefore, for the purposes of subsection 230-50(1), there is no requirement to identify the rights and obligations that comprise the arrangement through an analysis of the factors in subsection 230-55(4).
+Broadly, Division 230 applies to arrangements that satisfy the definition of a financial arrangement. An arrangement is a financial arrangement if it satisfies either the: 1.principal definition of a financial arrangement in subsection 230-45(1) dealing with cash settlable rights and obligations to financial benefits; or
+2.secondary definition of a financial arrangement in section 230-50 dealing with equity interests and rights and obligations to equity interests. Specifically, subsection 230-50(1) provides that an equity interest, as defined, constitutes the financial arrangement. Therefore, for the purposes of subsection 230-50(1), there is no requirement to identify the rights and obligations that comprise the arrangement through an analysis of the factors in subsection 230-55(4).
 An equity interest is defined in subsection 995-1(1) as having the meaning given by, in the case of a company, Subdivision 974-C. A scheme gives rise to an equity interest in a company if, when the scheme comes into existence, the scheme satisfies the equity test and the interest is not characterised as, and does not form part of a larger interest that is characterised as a debt interest in the company under Subdivision 974-B; refer to subsection 974-70(1). A scheme satisfies the equity test if it gives rise to an interest set out in the table in subsection 974-75(1).
 The scheme gives rise to an interest that satisfies item 3 of the Equity interests table in subsection 974-75(1) as the debenture carries a right to a return from Company A and the right to the return is at the discretion of Company A. The debenture is a financing arrangement for the purposes of subsection 974-75(2) as it is used to raise finance for Company A. The scheme will not give rise to a debt interest in Company A as it does not satisfy the debt test in subsection 974-20(1); refer to subsection 974-15(1).
 Accordingly the scheme will give rise to an equity interest in Company A under subsection 974-70(1).
 Subsection 230-50(1) provides that you have a financial arrangement if you have an equity interest and the equity interest constitutes the financial arrangement. Where a scheme gives rise to an equity interest in a company because of an item of the table in subsection 974-75(1), the equity interest consists of the interest referred to in that item; refer to subsection 974-95(1). In this case, the scheme gives rise to an interest (the debenture) that is an equity interest.
 Accordingly, the debenture will constitute a financial arrangement under subsection 230-50(1). As the taxpayer has made the fair value election Division 230 will apply to gains and losses made from the financial arrangement.
-Date of decision:
-  22 February 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 230-45(1)   section 230-50   subsection 230-50(1)   subsection 230-55(4)   subsection 974-15(1)   subsection 974-20(1)   subsection 974-70(1)   subsection 974-75(1)   subsection 974-75(2)   subsection 974-95(1)   subsection 995-1(1)   Division 230   Subdivision 974-B   Subdivision 974-C
-
-Related Public Rulings (including Determinations)
-
-Draft Taxation Determination TD 2010/D3
-
-Keywords
-
-Arrangement
- Taxation of Financial Arrangements CoE
- Equity test
-
-Siebel/TDMS Reference Number:
-  1-2EDOS5N
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  4 March 2011
-
-ISSN:
- 1445-2782
+Date of decision: 22 February 2011 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 subsection 230-45(1) section 230-50 subsection 230-50(1) subsection 230-55(4) subsection 974-15(1) subsection 974-20(1) subsection 974-70(1) subsection 974-75(1) subsection 974-75(2) subsection 974-95(1) subsection 995-1(1) Division 230 Subdivision 974-B Subdivision 974-C Related Public Rulings (including Determinations) Draft Taxation Determination TD 2010/D3 Keywords Arrangement Taxation of Financial Arrangements CoE Equity test Siebel/TDMS Reference Number: 1-2EDOS5N Business Line: Finance and Investment Centre of Expertise Date of publication: 4 March 2011 ISSN: 1445-2782

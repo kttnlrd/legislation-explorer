@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/146
-==================================================
-
-Fringe Benefits Tax
- Meal Entertainment Fringe Benefit: 50/50 split method - reimbursement of employer's expenditure by a third party
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Meal Entertainment Fringe Benefit: 50/50 split method - reimbursement of employer's expenditure by a third party FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If an employer incurs expenditure in providing meal entertainment to employees, but is reimbursed for that expenditure by a third party, will the amount of the original expenditure still represent 'expenses incurred' by the employer under section 37BA of the Fringe Benefits Tax Assessment Act 1986 (FBTAA)?
 Decision
 Yes. The amount of the employer's original expenditure represents the 'expenses incurred' by the employer under section 37BA of the FBTAA.
@@ -23,55 +12,13 @@ The employer has made an election under section 37AA of the FBTAA that Division 
 The employer has not made an election under section 37CA of the FBTAA that the '12 week register method' be used in the calculation of meal entertainment fringe benefits, therefore in accordance with section 37B of the FBTAA the 50/50 split method is to be used by the employer.
 Reasons for Decision
 Division 9A of the FBTAA provides that an employer can elect to determine the taxable value of 'meal entertainment' provided by an employer to employees and their associates by one of two methods. These methods are the 50/50 split method or the 12 week register method.
-For the purposes of Division 9A of the FBTAA, section 37AD of the FBTAA defines the expression 'provision of meal entertainment' by reference to three circumstances:
-
-(i)the provision of entertainment by way of food or drink, or
+For the purposes of Division 9A of the FBTAA, section 37AD of the FBTAA defines the expression 'provision of meal entertainment' by reference to three circumstances: (i)the provision of entertainment by way of food or drink, or
 (ii)the provision of accommodation or travel in connection with or facilitating the provision of entertainment by way of food or drink, or
-(iii)the payment or reimbursement of expenses incurred in providing entertainment by way of food or drink or related accommodation or travel.
-
-The employer has incurred expenditure in providing meal entertainment to its employees and as such this will constitute the provision of meal entertainment under section 37AD of the FBTAA.
+(iii)the payment or reimbursement of expenses incurred in providing entertainment by way of food or drink or related accommodation or travel. The employer has incurred expenditure in providing meal entertainment to its employees and as such this will constitute the provision of meal entertainment under section 37AD of the FBTAA.
 The employer has made an election under section 37AA of the FBTAA that Division 9A of the FBTAA applies in respect of the current FBT year for any meal entertainment fringe benefits that may arise. The 50/50 split valuation method may be used by the employer, to determine the FBT liability for meal entertainment fringe benefits. Under the 50/50 split method the taxable value of meal entertainment fringe benefits provided by the employer is one-half of the total expenditure incurred by the employer on the provision of meal entertainment.
 Section 37AB of the FBTAA ensures that any reference to expenses or expenditure incurred by the employer will be reduced by any contributions from an employee or an associate of an employee that is not subject to reimbursement by the employer. It does not allow for contributions from a third party. If an employee makes a contribution towards the cost of meal entertainment then the value of any benefit received by them is reduced. However, if a contribution is made by a third party the value of the benefit received by the employee is not reduced. The arrangement between the employer and the third party is unrelated to the benefit provided to the employee.
-Accordingly, it is the amount of the expenditure incurred by the employer that is used to calculate the taxable value of meal entertainment fringe benefits for the 50/50 split method under section 37BA of the FBTAA. An arrangement whereby a third party reimburses an employer for expenses incurred in providing meal entertainment to its employees will not alter this outcome.
-
-Amendment History
-
-Date of Amendment
+Accordingly, it is the amount of the expenditure incurred by the employer that is used to calculate the taxable value of meal entertainment fringe benefits for the 50/50 split method under section 37BA of the FBTAA. An arrangement whereby a third party reimburses an employer for expenses incurred in providing meal entertainment to its employees will not alter this outcome. Amendment History Date of Amendment
 Part
-Comment
-
-13 March 2026
+Comment 13 March 2026
 Business line
-Updated to correct business line
-
-Date of decision:
-  26 May 2005
-
-Year of income:
-  Year ended 31 March 2006
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   section 37AA   section 37AB   section 37AD   section 37BA
-
-Keywords
-
-FBT entertainment
- FBT meal entertainment
- FBT taxable amount
- Fringe benefits tax
-
-Siebel/TDMS Reference Number:
-  4360454; 1-6CKVMLD; 1-D24M9Y7
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  3 June 2005
-
-Date reviewed:
-  3 March 2026
-
-ISSN:
- 1445-2782
+Updated to correct business line Date of decision: 26 May 2005 Year of income: Year ended 31 March 2006 Legislative References: Fringe Benefits Tax Assessment Act 1986 section 37AA section 37AB section 37AD section 37BA Keywords FBT entertainment FBT meal entertainment FBT taxable amount Fringe benefits tax Siebel/TDMS Reference Number: 4360454; 1-6CKVMLD; 1-D24M9Y7 Business Line: Superannuation and Employer Obligations Date of publication: 3 June 2005 Date reviewed: 3 March 2026 ISSN: 1445-2782

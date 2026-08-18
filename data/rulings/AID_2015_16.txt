@@ -1,29 +1,13 @@
 ATO Interpretative Decision
 ATO ID 2015/16
-==================================================
-
-Income tax
- Franking debits: refund of income tax - refund of a film tax offset
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is a refund resulting from a film tax offset 'a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax' for the purposes of subparagraph 205-35(1)(b)(i) of the Income Tax Assessment Act 1997 (ITAA 1997)?
-
-Decision
-No. A refund resulting from a film tax offset is not 'a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax' for the purposes of subparagraph 205-35(1)(b)(i) of the ITAA 1997.
-
-Facts
+================================================== Income tax Franking debits: refund of income tax - refund of a film tax offset CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is a refund resulting from a film tax offset 'a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax' for the purposes of subparagraph 205-35(1)(b)(i) of the Income Tax Assessment Act 1997 (ITAA 1997)? Decision
+No. A refund resulting from a film tax offset is not 'a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax' for the purposes of subparagraph 205-35(1)(b)(i) of the ITAA 1997. Facts
 The entity is an Australian private company that operates in the film industry.
 In the income year, the entity was entitled to the film tax offset, pursuant to Division 376 of the ITAA 1997.
 The amount of the film tax offset exceeds the entity's tax on taxable income.
-The entity operates a franking account.
-
-Reasons for Decision
+The entity operates a franking account. Reasons for Decision
 Subparagraph 205-35(1)(b)(i) of the ITAA 1997 requires that, for an entity to 'receive a refund of income tax', a refund of an amount, or an application of a credit, must represent a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax.
 Accordingly, it is necessary to determine whether the entity's income tax refund, which results from the entitlement to a film tax offset under Division 376 of the ITAA 1997, is an amount paid to satisfy the entity's liability to pay income tax.
 Division 376 of the ITAA 1997 outlines a number of tax offsets in relation to Australian expenditure incurred in making films that an entity may be entitled to (film tax offsets).
@@ -33,32 +17,4 @@ Step 3 of the method statement in subsection 4-10(3) of the ITAA 1997 defines ta
 Step 4 of the method statement in subsection 4-10(3) of the ITAA 1997 states that tax offsets are subtracted from an entity's basic income tax liability. An entity's income tax liability (to be differentiated from an entity's basic income tax liability determined at Step 2 of the method statement) is calculated after tax offsets have been subtracted.
 As the entity's entitlement to a film tax offset exceeds its tax on taxable income, the refundable tax offset rules allow the entity to receive a refund of the remaining amount of the film tax offset. The refund as a result of the film tax offset arises by operation of item 40 of the table in section 63-10 of the ITAA 1997. The refund of the film tax offset is not a payment made by the entity to satisfy its tax liability. As a result, the refund of the film tax offset cannot be said to be a return to the entity of an amount that was paid.
 In addition, the refund of the film tax offset cannot be considered to be a return of an amount applied to satisfy the entity's liability for income tax. This is because the entity's liability for income tax is determined after tax offsets are subtracted from its basic income tax liability.
-Consequently, a refund resulting from a film tax offset is not 'a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax' for the purposes of subparagraph 205-35(1)(b)(i) of the ITAA 1997.
-
-Date of decision:
-  22 May 2015
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 4-10(3)   section 63-10   section 67-23   subsection 205-35(1)   Division 376
-
-Keywords
-
-Film tax offset
- Franking accounts
- Franking debits
-
-Siebel/TDMS Reference Number:
-  1-6PTMQGI; 1-D378PYS
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  5 June 2015
-
-Date reviewed:
-  21 November 2017
-
-ISSN:
- 1445-2782
+Consequently, a refund resulting from a film tax offset is not 'a return to the entity of an amount paid or applied to satisfy the entity's liability to pay income tax' for the purposes of subparagraph 205-35(1)(b)(i) of the ITAA 1997. Date of decision: 22 May 2015 Legislative References: Income Tax Assessment Act 1997 subsection 4-10(3) section 63-10 section 67-23 subsection 205-35(1) Division 376 Keywords Film tax offset Franking accounts Franking debits Siebel/TDMS Reference Number: 1-6PTMQGI; 1-D378PYS Business Line: Private Groups and High Wealth Individuals Date of publication: 5 June 2015 Date reviewed: 21 November 2017 ISSN: 1445-2782

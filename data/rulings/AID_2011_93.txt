@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/93
-==================================================
-
-Income Tax
- Application of section 99B of the Income Tax Assessment Act 1936 when accumulated foreign source income is paid to an Australian resident beneficiary who was a non-resident when the trustee derived the income
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Application of section 99B of the Income Tax Assessment Act 1936 when accumulated foreign source income is paid to an Australian resident beneficiary who was a non-resident when the trustee derived the income FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 99B of the Income Tax Assessment Act 1936 (ITAA 1936) include in the assessable income of an Australian resident beneficiary an amount that is paid to the beneficiary by the trustee of a non-resident trust estate which is entirely attributable to foreign source income that was derived by the trustee during a period when the beneficiary was a non-resident?
 Decision
 Yes. The amount paid to the beneficiary is included in the beneficiary's assessable income under section 99B of the ITAA 1936 because the beneficiary was an Australian resident at a time during the year of income in which the payment was made.
@@ -23,43 +12,13 @@ The taxpayer was a non-resident of Australia in respect of the entire period dur
 The trustee paid an amount to the beneficiary during the income year ended 30 June 2002 which was wholly attributable to the accumulated foreign source income. At the time of the payment the beneficiary was an Australian resident.
 Reasons for Decision
 Subsection 99B(1) of the ITAA 1936 applies where an amount of trust property is paid to, or applied for the benefit of, a beneficiary during an income year and the beneficiary is a resident at any time during that income year. Where these conditions are satisfied, the amount is included in the assessable income of the beneficiary.
-However, subsection 99B(1) of the ITAA 1936 is qualified by subsection 99B(2) of the ITAA 1936 which broadly reduces the amount included in the assessable income of the beneficiary to the extent that it represents:
-
-•corpus of the trust estate - but not an amount that is attributable to income derived by the trust estate which would have been included in the assessable income of a resident taxpayer had it been derived by that taxpayer
+However, subsection 99B(1) of the ITAA 1936 is qualified by subsection 99B(2) of the ITAA 1936 which broadly reduces the amount included in the assessable income of the beneficiary to the extent that it represents: •corpus of the trust estate - but not an amount that is attributable to income derived by the trust estate which would have been included in the assessable income of a resident taxpayer had it been derived by that taxpayer
 •an amount that would not have been included in the assessable income of a resident taxpayer had it been derived by that taxpayer
 •an amount that is or has been included in the assessable income of the beneficiary under section 97 of the ITAA 1936
 •an amount that has been assessed to either the trustee of the trust or the trustee of another trust under Division 6 of Part III of the ITAA 1936, or
-•an amount that has been included in the assessable income of a taxpayer under Division 6AAA of Part III of the ITAA 1936.
-
-In this case, the conditions in subsection 99B(1) of the ITAA 1936 are satisfied as the taxpayer has received an amount of trust property during an income year in which the taxpayer was a resident.
+•an amount that has been included in the assessable income of a taxpayer under Division 6AAA of Part III of the ITAA 1936. In this case, the conditions in subsection 99B(1) of the ITAA 1936 are satisfied as the taxpayer has received an amount of trust property during an income year in which the taxpayer was a resident.
 The trust property paid to the resident beneficiary is attributable to foreign source interest derived by the trust. As interest income would have been assessable had it been derived by a resident taxpayer, and as the interest income has not been included in the assessable income of the beneficiary under section 97 of the ITAA 1936 or been assessed to either the trustee of the trust or the trustee of another trust under Division 6 of Part III of the ITAA 1936, none of the exclusions in subsection 99B(2) of the ITAA 1936 applies to reduce the amount included in the assessable income of the beneficiary.
 A question arises however whether the non-resident status of the beneficiary for the period in which the interest was derived by the trust estate in any way alters the outcome under the provision.
 It is clear from the language of section 99B of the ITAA 1936, and by inference from subsection 102AAM(5) of the ITAA 1936, that there is no apportionment of the amount included in assessable income by reference to the residency status of the beneficiary as at the time the income was derived by the trust. Rather, the only explicit condition concerning residency is that the beneficiary be a resident at some time during the year of income in which the trust property is paid to them or applied for their benefit.
 Since the beneficiary satisfies the residency requirement during the relevant year of income and as none of the exclusions in subsection 99B(2) of the ITAA 1936 applies, the entire amount of the payment is included in the beneficiary's assessable income under subsection 99B(1) of the ITAA 1936.
-Date of decision:
-  9 November 2011
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 6   subsection 99B(1)   subsection 99B(2)   subsection 102AAM(5)
-
-Keywords
-
-Residence in Australia
- Non resident trusts
- Trust distributions
-
-Siebel/TDMS Reference Number:
-  1-3L62RZL
-
-Business Line:
-  Tax Counsel Network
-
-Date of publication:
-  10 November 2011
-
-ISSN:
- 1445-2782
+Date of decision: 9 November 2011 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 Division 6 subsection 99B(1) subsection 99B(2) subsection 102AAM(5) Keywords Residence in Australia Non resident trusts Trust distributions Siebel/TDMS Reference Number: 1-3L62RZL Business Line: Tax Counsel Network Date of publication: 10 November 2011 ISSN: 1445-2782

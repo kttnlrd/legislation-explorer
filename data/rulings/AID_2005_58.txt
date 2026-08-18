@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/58
-==================================================
-
-Income Tax
- Division 7A: meaning of 'net income' in section 109XA
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Division 7A: meaning of 'net income' in section 109XA FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the accounting income of the trust estate its 'net income' for the purposes of subsection 109XA(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The accounting income of the trust estate determined by the trustee in accordance with the trust deed and applicable accounting standards is the 'net income' of the trust estate for the purposes of subsection 109XA(1) of the ITAA 1936.
@@ -24,75 +13,19 @@ The whole of the amount to which ABC Pty Ltd is presently entitled is not paid t
 Reasons for Decision
 Subdivision EA of Division 7A of Part III of the ITAA 1936 (Subdivision EA) came into effect from 12 December 2002 and replaced section 109UB of the ITAA 1936. The amendments in subdivision EA generally apply to payments or loans made, or debts forgiven on or after 12 December 2002.
 Broadly speaking, the new rules in Subdivision EA deem certain payments, loans, or forgiven debts by a trustee of a trust estate to a shareholder (or their associate) of a private company to be included in their assessable income as if it were a dividend where the private company is presently entitled to an amount from the net income of the trust estate and that amount has not been fully paid out.
-Under subsection 109XA(1) of the ITAA 1936 the new rules apply to a payment:
-
-•a trustee of a trust estate makes to a shareholder (or their associate) of a private company
-•that discharges or reduces a present entitlement of the shareholder or associate which is attributable to an unrealised gain
-
-where the private company is presently entitled to an amount from the 'net income' of the trust estate:
-
-•at the time of the payment
- and
- the whole of that amount has not been paid to the company before the earlier of the due date for lodgment and the date of lodgment of the trustee's income tax return for the trust for the income year, or
-•for payments on or after 19 February 2004, after the time of the payment but before the earlier of the due date for lodgment and the date of lodgment of the trustee's income tax return for the trust for the income year and the whole of that amount has not been paid to the company before the earlier of those dates.
-
-The payment and the amount of the deemed dividend (if any) is subject to the rules in Subdivision EA contained in other provisions in section 109XA of the ITAA 1936 and in section 109XB of the ITAA 1936. These rules include the application of the remainder of Division 7A of Part III of the ITAA 1936 as modified under section 109XC of the ITAA 1936.
+Under subsection 109XA(1) of the ITAA 1936 the new rules apply to a payment: •a trustee of a trust estate makes to a shareholder (or their associate) of a private company
+•that discharges or reduces a present entitlement of the shareholder or associate which is attributable to an unrealised gain where the private company is presently entitled to an amount from the 'net income' of the trust estate: •at the time of the payment and the whole of that amount has not been paid to the company before the earlier of the due date for lodgment and the date of lodgment of the trustee's income tax return for the trust for the income year, or
+•for payments on or after 19 February 2004, after the time of the payment but before the earlier of the due date for lodgment and the date of lodgment of the trustee's income tax return for the trust for the income year and the whole of that amount has not been paid to the company before the earlier of those dates. The payment and the amount of the deemed dividend (if any) is subject to the rules in Subdivision EA contained in other provisions in section 109XA of the ITAA 1936 and in section 109XB of the ITAA 1936. These rules include the application of the remainder of Division 7A of Part III of the ITAA 1936 as modified under section 109XC of the ITAA 1936.
 'Net income' in subsection 109XA(1) of the ITAA 1936 is not expressly defined for the purposes of Subdivision EA or Division 7A of Part III of the ITAA 1936 and therefore the phrase adopts its ordinary meaning as conveyed by the words of the phrase having regard to its context and the purpose or object of the legislation (CIC Insurance Ltd v. Bankstown Football Club Ltd (1997) 187 CLR 384; Commissioner of Taxation v. Linter Textiles Australia Ltd (in liq) (2003) 129 FCR 42); 2003 ATC 4458; (2003) 52 ATR 502).
 Under paragraph 15AB(1)(a) of the Acts Interpretation Act 1901 consideration may be given to extrinsic material such as the Explanatory Memorandum to the legislation introducing Subdivision EA to confirm the ordinary meaning of the phrase.
-The literal meaning of the phrase 'net income' is indicated by the definition of its terms in The Macquarie Dictionary, 2003, rev. 3rd edn, The Macquarie Library, NSW in the relevant context:
-
-net:     
-exclusive of deductions, ultimate; final; after all calculations have been made, or all additions and subtractions have had their effect; net income, profits, or the like.
-
-income:
-the returns that come in periodically, especially annually, from one's work, property, business, etc.; revenue; receipts; something that comes in.
-
-Section 109XA and Subdivision EA are embodied in Division 7A of Part III of the ITAA 1936 which seeks to treat private company distributions of profits in the form of payments, loans, or forgiven debts as deemed dividends. Under Subdivision EA and the remainder of Division 7A of Part III of the ITAA 1936 the amount of any deemed dividend is limited to the distributable surplus of the private company as determined from the private company's accounting records under section 109Y of the ITAA 1936.
+The literal meaning of the phrase 'net income' is indicated by the definition of its terms in The Macquarie Dictionary, 2003, rev. 3rd edn, The Macquarie Library, NSW in the relevant context: net: exclusive of deductions, ultimate; final; after all calculations have been made, or all additions and subtractions have had their effect; net income, profits, or the like. income:
+the returns that come in periodically, especially annually, from one's work, property, business, etc.; revenue; receipts; something that comes in. Section 109XA and Subdivision EA are embodied in Division 7A of Part III of the ITAA 1936 which seeks to treat private company distributions of profits in the form of payments, loans, or forgiven debts as deemed dividends. Under Subdivision EA and the remainder of Division 7A of Part III of the ITAA 1936 the amount of any deemed dividend is limited to the distributable surplus of the private company as determined from the private company's accounting records under section 109Y of the ITAA 1936.
 Therefore the ordinary meaning of the phrase 'net income' in the context of subsection 109XA(1) of the ITAA 1936 is the accounting income or the income less expenses of the trust for the income year as determined by the trustee in accordance with the trust deed and applicable accounting standards.
 Confirmation is provided in the Explanatory Memorandum to the Tax Laws Amendment (2004 Measures No. 1) Act 2004 in the examples of the operation of section 109XA of the ITAA 1936. In all the examples it is stated that the private company has a present entitlement to an amount of 'accounting income' of a trust estate that remains unrepaid.
 In the circumstances here, the taxpayer is a shareholder of a private company ABC Pty Ltd which is presently entitled to an amount from the accounting income of the XYZ trust estate as determined by the trustee in accordance with the trust deed and applicable accounting standards.
 Therefore at the time the trustee of XYZ trust estate makes a payment of $200 reducing the taxpayer's present entitlement to an unrealised gain from the trust estate, a private company of which the taxpayer is a shareholder is presently entitled to an amount from the net income of the trust estate for the purposes of subsection 109XA(1) of the ITAA 1936.
 The whole of that amount to which ABC Pty Ltd is presently entitled is not paid to the private company before the earlier of the due date for lodgment and the date of lodgment of the trustee's income tax return for the trust for the income year.
 Therefore by virtue of subsection 109XA(1) of the ITAA 1936 the payment of $200 is subject to Subdivision EA and the modified application of the remainder of Division 7A of Part III the ITAA 1936. With the result that the payment may be a deemed dividend included in the assessable income of the taxpayer for the income year subject to the distributable surplus of the private company.
-Date of decision:
-  2 February 2005
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 7A of Part III   Subdivision EA   section 109UB   section 109XA   subsection 109XA(1)   section 109XB   section 109XC   section 109Y
-Tax Laws Amendment (2004 Measures No. 1) Act 2004   Explanatory Memorandum
-Acts Interpretation Act 1901   paragraph 15AB(1)(a)
-
-Case References:
-
-CIC Insurance Ltd v. Bankstown Football Club Ltd   (1997) 187 CLR 384
-
-Commissioner of Taxation v Linter Textiles Australia Ltd (in liq)   (2003) 129 FCR 42   2003 ATC 4458
-
-Other References:
-
-The Macquarie Dictionary, 2003, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW
-
-Keywords
-
-Deemed dividends
- Dividend income
- Shareholder payments
-
-Siebel/TDMS Reference Number:
-  4393857; 1-AY80GJ3
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  18 February 2005
-
-Date reviewed:
-  28 March 2018
-
-ISSN:
- 1445-2782
+Date of decision: 2 February 2005 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Division 7A of Part III Subdivision EA section 109UB section 109XA subsection 109XA(1) section 109XB section 109XC section 109Y
+Tax Laws Amendment (2004 Measures No. 1) Act 2004 Explanatory Memorandum
+Acts Interpretation Act 1901 paragraph 15AB(1)(a) Case References: CIC Insurance Ltd v. Bankstown Football Club Ltd (1997) 187 CLR 384 Commissioner of Taxation v Linter Textiles Australia Ltd (in liq) (2003) 129 FCR 42 2003 ATC 4458 Other References: The Macquarie Dictionary, 2003, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW Keywords Deemed dividends Dividend income Shareholder payments Siebel/TDMS Reference Number: 4393857; 1-AY80GJ3 Business Line: Private Groups and High Wealth Individuals Date of publication: 18 February 2005 Date reviewed: 28 March 2018 ISSN: 1445-2782

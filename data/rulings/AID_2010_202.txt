@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/202
-==================================================
-
-Income Tax
- Foreign Income Tax Offset: refunds from a New Zealand income equalisation account
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign Income Tax Offset: refunds from a New Zealand income equalisation account FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a taxpayer who is a participant in a New Zealand Income Equalisation Scheme entitled to a foreign income tax offset under section 770-10 of the Income Tax Assessment Act 1997 (ITAA 1997) in respect of New Zealand tax paid on refunds from their New Zealand income equalisation account?
 Decision
 Yes. The taxpayer is entitled to a foreign income tax offset under section 770-10 of the ITAA 1997 in respect of New Zealand tax paid on refunds from their New Zealand income equalisation account.
@@ -32,11 +21,7 @@ The taxpayer pays New Zealand income tax on the refunded amounts.
 The New Zealand income tax is 'foreign income tax' for the purpose of subsection 770-10(1) of the ITAA 1997.
 In Australia, the income from the forestry business was assessable under subsection 6-5(2) of the ITAA 1997 for the 2008-09 income year (see ATO ID 2010/200). The interest income was assessable under that section in Australia for the 2009-10 income year (see ATO ID 2010/201).
 Reasons for Decision
-Subsection 770-10(1) of the ITAA 1997 provides:
-
-You are entitled to a tax offset for an income year for foreign income tax. An amount of foreign income tax counts towards the tax offset for the year if you paid it in respect of an amount that is all or part of an amount included in your assessable income for the year.
-
-In respect of
+Subsection 770-10(1) of the ITAA 1997 provides: You are entitled to a tax offset for an income year for foreign income tax. An amount of foreign income tax counts towards the tax offset for the year if you paid it in respect of an amount that is all or part of an amount included in your assessable income for the year. In respect of
 In order to determine whether the taxpayer is entitled to a foreign income tax offset, it is necessary to determine whether the New Zealand tax is paid 'in respect of' the amounts which were included in their assessable income in Australia in 2008-09 and 2009-10 income years.
 The meaning of the phrase 'in respect of' was considered in Taxation Ruling TR 2009/6 Income tax: entitlement to foreign income tax offsets under section 770-10 of the Income Tax Assessment Act 1997 where income is derived from investing in fiscally transparent foreign entities. Paragraph 72 of TR 2009/6 explains that the phrase 'in respect of' in subsection 770-10(1) of the ITAA 1997 is intended to draw a nexus between foreign income tax paid and an amount included in a taxpayer's Australian assessable income, where the imposition of such foreign income tax would, apart from the application of Division 770 of the ITAA 1997, result in the taxpayer being exposed to double taxation in respect of that income.
 All of the taxpayer's forestry income and interest are taxed in Australia in the year in which they are derived, and, in effect, the taxpayer's forestry income deposited into the New Zealand income equalisation account and interest accrued in that account are taxed in New Zealand in the year in which the amounts are refunded from the account.
@@ -57,41 +42,4 @@ At the time when the taxpayer prepares their Australian income tax return for 20
 Once the taxpayer had paid tax in New Zealand on the first refund of $20,000, they could apply to have their 2008-09 assessment amended to include a foreign income tax offset in respect of the New Zealand tax paid on the additional $20,000.
 Once the taxpayer had paid tax in New Zealand on the second refund of $36,650, they could apply to have their 2008-09 assessment amended again to include a foreign income tax offset in respect of the New Zealand tax paid on the additional $35,000, and their 2009-10 assessment amended to include a foreign income tax offset in respect of the New Zealand tax paid on the additional $1,650.
 The assessments can be amended at any time during the period of four years starting immediately after the taxpayer pays the foreign tax (section 770-190 of the ITAA 1997).
-Date of decision:
-  21 October 2010
-
-Year of income:
-  Year ended 30 June 2009 Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 6-5(2)   Division 770   section 770-10   subsection 770-10(1)   section 770-190
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2009/6
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/200
- ATO ID 2010/201
- ATO ID 2010/203
-
-Keywords
-
-Foreign income
- Primary production
- Primary production income
- Income equalisation deposits scheme
-
-Siebel/TDMS Reference Number:
-  1-2CA20R9
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  5 November 2010
-
-ISSN:
- 1445-2782
+Date of decision: 21 October 2010 Year of income: Year ended 30 June 2009 Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 subsection 6-5(2) Division 770 section 770-10 subsection 770-10(1) section 770-190 Related Public Rulings (including Determinations) Taxation Ruling TR 2009/6 Related ATO Interpretative Decisions ATO ID 2010/200 ATO ID 2010/201 ATO ID 2010/203 Keywords Foreign income Primary production Primary production income Income equalisation deposits scheme Siebel/TDMS Reference Number: 1-2CA20R9 Business Line: Small Business/Individual Taxpayers Date of publication: 5 November 2010 ISSN: 1445-2782

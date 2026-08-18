@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/102
-==================================================
-
-Income Tax
- Debt/Equity: the timing of the deductibility of returns on a non equity share
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Debt/Equity: the timing of the deductibility of returns on a non equity share FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a redeemable preference share (RPS) is categorised as a debt interest under Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997), does section 25-85 of the ITAA 1997 allow a deduction to be claimed under section 8-1 of the ITAA 1997 on an accruals basis from the date of issue of the RPS?
 Decision
 No. The dividend will not be deductible on an accruals basis from the date of issue of the RPS. It will only be deductible under section 8-1 of the ITAA 1997 on or after the date of each payment.
@@ -22,43 +11,13 @@ The RPS will be classified as a debt interest pursuant to Division 974 of the IT
 Reasons for Decision
 A return paid on a debt interest would be deductible where it meets the general deduction criteria of section 8-1 of the ITAA 1997. Where the return would not otherwise meet the general deduction criteria, it may still be deductible (up to a limit not exceeding the benchmark rate of return plus 150 basis points), by virtue of section 25-85 of the ITAA 1997.
 Section 25-85 of the ITAA 1997 deals with certain returns that an entity pays on a debt interest (subsection 25-85(1) of the ITAA 1997). It provides that a deduction will not be prevented merely because the return is contingent on economic performance, or secures a permanent or enduring benefit for the entity or a connected entity (subsection 25-85(2) of the ITAA 1997).
-Furthermore, where the return is a dividend, subsection 25-85(3) of the ITAA 1997 applies so that the return will be deductible to the extent that it would be deductible under section 8-1 of the ITAA 1997 if:
-
-(a)the payment of the return were the incurring by the entity of a liability to pay the same amount as interest, and
+Furthermore, where the return is a dividend, subsection 25-85(3) of the ITAA 1997 applies so that the return will be deductible to the extent that it would be deductible under section 8-1 of the ITAA 1997 if: (a)the payment of the return were the incurring by the entity of a liability to pay the same amount as interest, and
 (b)that interest were incurred in respect of the finance raised by the entity and in respect of which the return was paid or provided; and
-(c)the debt interest retained its character as a debt interest for the purposes of subsection (2).
-
-In the present case, the financial benefit to be provided takes the form of a return on a debt interest which is a legal form share. The return will thus be in the form of a dividend. The term 'dividend' is defined in subsection 6(1) of the Income Tax Assessment Act 1936 and includes 'any distribution made by a company to any of its shareholders, whether in money or other property'.
+(c)the debt interest retained its character as a debt interest for the purposes of subsection (2). In the present case, the financial benefit to be provided takes the form of a return on a debt interest which is a legal form share. The return will thus be in the form of a dividend. The term 'dividend' is defined in subsection 6(1) of the Income Tax Assessment Act 1936 and includes 'any distribution made by a company to any of its shareholders, whether in money or other property'.
 Generally, in order to deduct an outgoing under section 8-1 of the ITAA 1997, it must have been incurred.
 Paragraph 25-85(3)(a) of the ITAA 1997 specifically fixes the point in time at which a dividend is incurred for the purposes of section 8-1 of the ITAA 1997.
 Thus, the 'payment' of the dividend is to be treated as the point in time in which, had the return been interest, the liability would have been incurred by the entity. The linkage of incurring to the actual payment of the return has the result that the liability is not incurred until the dividend is paid.
 Paragraph 25-85(3)(b) of the ITAA 1997 then provides for a linkage between the 'interest' incurred (being the dividend that has been paid), and the finance raised by the entity from issuing the RPS to enable a determination to be made as to whether the 'interest' satisfies the positive limbs of section 8-1 of the ITAA 1997. However, the meaning of the term 'incurred' in paragraph 25-85(3)(b) is to be found in paragraph 25-85(3)(a) of the ITAA 1997.
 As the dividends in this case have not been paid, but only accrued, no deduction is allowable by virtue of sections 8-1 and 25-85 of the ITAA 1997.
-Date of decision:
-  31 August 2005
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 25-85   section 8-1
-Income Tax Assessment Act 1936   subsection 6(1)
-
-Keywords
-
-Debt equity borderline
- Debt interest
- Non-equity share
-
-Siebel/TDMS Reference Number:
-  4919228
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  7 April 2006
-
-ISSN:
- 1445-2782
+Date of decision: 31 August 2005 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 section 25-85 section 8-1
+Income Tax Assessment Act 1936 subsection 6(1) Keywords Debt equity borderline Debt interest Non-equity share Siebel/TDMS Reference Number: 4919228 Business Line: Finance and Investment Centre of Expertise Date of publication: 7 April 2006 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/340
-==================================================
-
-Income Tax
- Interest deduction on funds borrowed in connection with the acquisition of assets from a foreign controlled Australian company
- FOI status: may be released
-
-This ATO ID is withdrawn and is replaced by ATO ID 2006/339
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest deduction on funds borrowed in connection with the acquisition of assets from a foreign controlled Australian company FOI status: may be released This ATO ID is withdrawn and is replaced by ATO ID 2006/339 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the interest on funds borrowed by the taxpayer company to redeem the preference shares of the taxpayer company held by a related company, where both companies have the same foreign controller, an allowable deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The interest on funds borrowed from a related company to redeem the preference shares by the taxpayer company, where both companies have the same foreign controller, is not an allowable deduction under section 8-1 of the ITAA 1997 as section 159GZZE of the Income Tax Assessment Act 1936 (ITAA 1936) prevents a deduction.
@@ -33,83 +18,21 @@ Subsection 8-5(2) of the ITAA 1997 provides that some provisions of the ITAA 193
 The provisions which prevent or limit an otherwise deductible amount are listed in section 12-5 of the ITAA 1997. Included in this list is section 159GZZE of the ITAA 1936 which deals with limitation on deductions relating to interest on debt creation involving non-residents.
 The Explanatory Memorandum (EM) introducing Division 16G in Part III of the ITAA 1936 stated that the Division will deny interest deductions on debt creation involving non-residents in specified circumstances. The EM went on to state that:
 the interest affected is that incurred after 30 June 1987 on amounts owing in connection with the acquisition of assets from "foreign controllers" of Australian companies or from foreign controlled Australian companies. Put broadly, restructuring of foreign controlled investments in companies will not be permitted to be financed by interest-bearing debt to the extent that there is no change in the ultimate beneficial ownership of any assets transferred under the restructure.
-Section 159GZZE of the ITAA 1936 provides the mechanism for determining the amount of non-deductible interest. It provides that the section applies where:
-
-•an amount of interest is allowable as a deduction in respect of an amount owing by a taxpayer company 'in connection with' the 'acquisition' of an 'asset' from another company ('eligible seller'), and
-•there is a 'foreign controller' of the buyer and the eligible seller of an asset, or the foreign controller is either the buyer or eligible seller.
-
-The term 'asset' is defined in section 159GZY of the ITAA 1936 very broadly to mean any form of property which include preference shares. The EM states that the phrase 'in connection with' is used in very broad terms in paragraph 159GZZE(1)(b) of the ITAA 1936.
+Section 159GZZE of the ITAA 1936 provides the mechanism for determining the amount of non-deductible interest. It provides that the section applies where: •an amount of interest is allowable as a deduction in respect of an amount owing by a taxpayer company 'in connection with' the 'acquisition' of an 'asset' from another company ('eligible seller'), and
+•there is a 'foreign controller' of the buyer and the eligible seller of an asset, or the foreign controller is either the buyer or eligible seller. The term 'asset' is defined in section 159GZY of the ITAA 1936 very broadly to mean any form of property which include preference shares. The EM states that the phrase 'in connection with' is used in very broad terms in paragraph 159GZZE(1)(b) of the ITAA 1936.
 The word 'acquisition' is not defined in the legislation and it takes its ordinary meaning. The Shorter Oxford English Dictionary, 1993, 3rd edn, Oxford Clarendon Press defines the verb 'to acquire' as '1. to gain, obtain or get as one's own, to gain the ownership of (by one's own exertions or qualities); 2. to receive, or get as one's own (without reference to the manner), to come into possession of'. The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library, Pty Ltd, NSW gives a similar definition (Allina Pty Ltd v. Federal Commissioner of Taxation (1991) 28 FCR 203; 91 ATC 4195; (1991) 21 ATR 1320). The meaning of the term 'acquisition' varies depending on the context of its usage (see McDonald's Australia Holdings Ltd and Another v. Commissioner of State Revenue [2004] QSC 357).
 There was an 'acquisition of an asset' in this case at the time of the redemption of the preference shares by company A.
 Under section 159GZZA of the ITAA 1936, a person will be a 'foreign controller' of a company if that person is both a non-resident and has a 'capital entitlement factor' in relation to the company amounting to at least 50%. Subsection 159GZZ(1) of the ITAA 1936 provides that the capital entitlement factor of a person in relation to a company will be determined on the basis of a notional distribution of capital by the company. The capital entitlement factor will be the percentage of the notionally distributed capital that the person would be beneficially entitled to receive either directly or indirectly.
 Company Y is the foreign controller as it is both a non-resident and has a direct or indirect capital entitlement factor in relation to company A of 100%.
-Paragraph 159GZZE(1)(c) of the ITAA 1936 describes three alternative situations that are pre-conditions to the application of the provision in relation to an acquisition:
-
-•immediately after the acquisition of the asset, the eligible seller was a non-resident company foreign controller of the taxpayer company
+Paragraph 159GZZE(1)(c) of the ITAA 1936 describes three alternative situations that are pre-conditions to the application of the provision in relation to an acquisition: •immediately after the acquisition of the asset, the eligible seller was a non-resident company foreign controller of the taxpayer company
 •the taxpayer company was a foreign controller of the eligible seller company immediately before the acquisition, or
-•where neither of the above two situations apply, a person was foreign controller of the eligible seller company immediately before the acquisition, and a foreign controller of the taxpayer buyer company immediately after the acquisition (known as a 'common foreign controller').
-
-The third situation described in paragraph 159GZZE(1)(c) of the ITAA 1936 is satisfied in this case as company A, company B and company X have a common foreign controller, company Y.
+•where neither of the above two situations apply, a person was foreign controller of the eligible seller company immediately before the acquisition, and a foreign controller of the taxpayer buyer company immediately after the acquisition (known as a 'common foreign controller'). The third situation described in paragraph 159GZZE(1)(c) of the ITAA 1936 is satisfied in this case as company A, company B and company X have a common foreign controller, company Y.
 Subsection 159GZZE(4) of the ITAA 1936 contains definitions and formula used to reduce interest deductions.
 The application of the formula given in subsection 159GZZE(4) of the ITAA 1936 will result in all the interest relating to the borrowing to redeem the preference shares as not an allowable deduction.
 Section 159GZZF of the ITAA 1936 provides for the exclusion of the application of the above provisions to those transactions not normally regarded as corporate restructures. None of the exclusion provisions applies in this case.
 The restructuring of the capital structure of company A was financed by interest bearing debt. Consequently, section 159GZZE of the ITAA 1936 applies as the interest incurred by the taxpayer company was in respect of an amount owing in connection with the acquisition of an asset where there was a 'foreign controller' of the buyer and the eligible seller.
-Accordingly, the interest incurred by the taxpayer company in respect of borrowing in connection with the acquisition of the preference shares is not deductible under section 8-1 of the ITAA 1997.
-
-Note: Division 16G of the ITAA 1936 was repealed effective from 1 July 2001.
-
-Date of decision:
-  11 October 2005
-
-Year of income:
-  Year ended 30 June 1999 Year ended 30 June 2000 Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 159GZZ(1)   section 159GZZA   section 159GZZE   paragraph 159GZZE(1)(b)   paragraph 159GZZE(1)(c)   subsection 159GZZE(4)   section 159GZY
-Income Tax Assessment Act 1997   section 8-1   section 8-5(2)   section 12-5
-
-Case References:
-
-Allina Pty Ltd v. Federal Commissioner of Taxation   (1991) 28 FCR 203   91 ATC 4195   21 ATR 1320
-
-McDonald's Australia Holdings Ltd and Another v. Commissioner of State Revenue   [2004] QSC 357   2004 ATC 4970   57 ATR 395
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment Bill (No.4) 1988 (Cth)
- The Shorter Oxford English Dictionary, 1993, 3rd edn, Oxford Clarendon Press
- The Macquarie Dictionary, rev. 3rd edn, The Macquarie Library, Pty Ltd, NSW
-
-Keywords
-
-Accrued interest
- Debt interest
- Deductions & expenses
- Foreign controllers
- International tax
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 December 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-11 October 2005
-Original statement
-
-You are here
+Accordingly, the interest incurred by the taxpayer company in respect of borrowing in connection with the acquisition of the preference shares is not deductible under section 8-1 of the ITAA 1997. Note: Division 16G of the ITAA 1936 was repealed effective from 1 July 2001. Date of decision: 11 October 2005 Year of income: Year ended 30 June 1999 Year ended 30 June 2000 Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 subsection 159GZZ(1) section 159GZZA section 159GZZE paragraph 159GZZE(1)(b) paragraph 159GZZE(1)(c) subsection 159GZZE(4) section 159GZY
+Income Tax Assessment Act 1997 section 8-1 section 8-5(2) section 12-5 Case References: Allina Pty Ltd v. Federal Commissioner of Taxation (1991) 28 FCR 203 91 ATC 4195 21 ATR 1320 McDonald's Australia Holdings Ltd and Another v. Commissioner of State Revenue [2004] QSC 357 2004 ATC 4970 57 ATR 395 Other References: Explanatory Memorandum to the Taxation Laws Amendment Bill (No.4) 1988 (Cth) The Shorter Oxford English Dictionary, 1993, 3rd edn, Oxford Clarendon Press The Macquarie Dictionary, rev. 3rd edn, The Macquarie Library, Pty Ltd, NSW Keywords Accrued interest Debt interest Deductions & expenses Foreign controllers International tax Business Line: Public Groups and International Date of publication: 2 December 2005 ISSN: 1445-2782 history Date: Version: 11 October 2005
+Original statement You are here
 22 December 2006
 Archived

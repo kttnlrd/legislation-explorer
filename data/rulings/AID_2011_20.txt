@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/20
-==================================================
-
-Income Tax
- Goods and Services Tax: financial supply - appointing and directing proxy to vote at a meeting of unit holders in a unit trust
- FOI status: may be released
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2002/2 GST treatment of financial supplies and related supplies and acquisitions.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Goods and Services Tax: financial supply - appointing and directing proxy to vote at a meeting of unit holders in a unit trust FOI status: may be released This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2002/2 GST treatment of financial supplies and related supplies and acquisitions. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When a unit holder in a unit trust enters a contract for consideration to appoint a proxy to vote at a meeting, is the unit holder making a provision, acquisition or disposal of an interest in a security under item 10 in the table in subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations)?
 Decision
 No. A unit holder in a unit trust is not making a provision, acquisition or disposal of an interest in a security under item 10 in the table in subregulation 40-5.09(3) of the GST Regulations when they enter a contract for consideration to appoint a proxy to vote at a meeting of unit holders.
@@ -28,81 +13,13 @@ Reasons for Decision
 A supply is an input-taxed financial supply under section 40-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it meets the requirements set out in regulation 40-5.09 of the GST Regulations. Under subregulation 40-5.09(1), a financial supply includes the provision, acquisition or disposal of an interest mentioned in an item in the table in subregulation 40-5.09(3), where the supply is made for consideration and the other relevant conditions in regulation 40-5.09(1) are met.
 Item 10 of the table in subregulation 40-5.09(3) of the GST Regulations covers securities, which include, at item 10(d), the capital of a partnership or trust. Schedule 7 of Part 8 of the GST regulations provides examples of securities listed in item 10 and includes 'units in a unit trust'.
 Therefore, the provision, acquisition or disposal of an interest in units in a unit trust for consideration is a financial supply, where the other relevant conditions in regulation 40-5.09(1) are met.
-An 'Interest' is defined under regulation 40-5.02 of the GST Regulations as 'anything that is recognised at law or in equity as property in any form'. Expanding on this, paragraph 79 of Goods and Services Tax Ruling GSTR 2002/2 Goods and services tax: GST treatment of financial supplies and related acquisitions states:
-
-The term "interest" is taken to be very broad even taking into account the use of the word property. ... the term is given its broadest application so that an interest is as wide as the legal and equitable concept of property, including rights arising under a contract.
-
-Rights created under the contract in this case could be considered to be property, and, therefore, an 'interest' in its broadest sense. For the supplies under the contract to come within item 10 in subregulation 40-5.09(3) of the GST Regulations however, it must be demonstrated that an interest in the capital of a trust is supplied by the taxpayer to Entity X. It is the Commissioner's view that this is not achieved by the contract.
+An 'Interest' is defined under regulation 40-5.02 of the GST Regulations as 'anything that is recognised at law or in equity as property in any form'. Expanding on this, paragraph 79 of Goods and Services Tax Ruling GSTR 2002/2 Goods and services tax: GST treatment of financial supplies and related acquisitions states: The term "interest" is taken to be very broad even taking into account the use of the word property. ... the term is given its broadest application so that an interest is as wide as the legal and equitable concept of property, including rights arising under a contract. Rights created under the contract in this case could be considered to be property, and, therefore, an 'interest' in its broadest sense. For the supplies under the contract to come within item 10 in subregulation 40-5.09(3) of the GST Regulations however, it must be demonstrated that an interest in the capital of a trust is supplied by the taxpayer to Entity X. It is the Commissioner's view that this is not achieved by the contract.
 The right to vote at meetings is one of a bundle of rights held by a unit holder. Voting rights have been considered by the courts to be a form of property. For example, William J in Grimwade v. Federal Commissioner of Taxation (1949) 78 CLR 199; (1949) 9 ATD 52 at CLR 206 states that 'The right to vote has been said to be a right of property'.
-Taxation Ruling TR 94/30 Income tax: capital gains tax implications of varying rights attaching to shares deals with the capital gains tax implications of varying rights attached to shares. This ruling discusses whether a shareholder disposes of a right, or a share with a right attached, when the rights that comprise their share are varied. Paragraph 26 of Taxation Ruling TR 94/30 states:
-
-26. Accordingly while shares are comprised of a bundle of rights, those rights are not separate pieces of property capable of being divided out and held separately.
-
-It is clear from statute and from case law that appointing a proxy does not cause a share or unit holder to vary or relinquish their own voting rights. Cordiant Communications (Australia) Pty Ltd v. The Communications Group Holdings Pty Ltd [2005] 23 NSWSC 1005 (Cordiant Communications) in part considers a contract between shareholder and proxy. Discussing this relationship, Palmer J at page 55 states:
-
-... If the shareholder has contracted with a third party that a proxy shall be irrevocable, the shareholder, in exercising his right to attend and vote at a meeting in person, may commit a breach of that contract but, so far as his relationship with the company is concerned, his attendance and his vote are valid and effective...
-
-There is a considerable body of case law to support the view that a proxy is 'just an agent to vote for the member' (see Young J, Totally and Permanently Incapacitated Veterans' Association of NSW Ltd v. Gadd (1998) 28 ACSR 549 (Veteran's Association) at page 558).
+Taxation Ruling TR 94/30 Income tax: capital gains tax implications of varying rights attaching to shares deals with the capital gains tax implications of varying rights attached to shares. This ruling discusses whether a shareholder disposes of a right, or a share with a right attached, when the rights that comprise their share are varied. Paragraph 26 of Taxation Ruling TR 94/30 states: 26. Accordingly while shares are comprised of a bundle of rights, those rights are not separate pieces of property capable of being divided out and held separately. It is clear from statute and from case law that appointing a proxy does not cause a share or unit holder to vary or relinquish their own voting rights. Cordiant Communications (Australia) Pty Ltd v. The Communications Group Holdings Pty Ltd [2005] 23 NSWSC 1005 (Cordiant Communications) in part considers a contract between shareholder and proxy. Discussing this relationship, Palmer J at page 55 states: ... If the shareholder has contracted with a third party that a proxy shall be irrevocable, the shareholder, in exercising his right to attend and vote at a meeting in person, may commit a breach of that contract but, so far as his relationship with the company is concerned, his attendance and his vote are valid and effective... There is a considerable body of case law to support the view that a proxy is 'just an agent to vote for the member' (see Young J, Totally and Permanently Incapacitated Veterans' Association of NSW Ltd v. Gadd (1998) 28 ACSR 549 (Veteran's Association) at page 558).
 There is no common law right to appoint a proxy, so that right is given either by the association documents of a company or trust, or by corporations legislation. In either case, the proxy is an appointee with a fiduciary duty to act as appointed (see Veterans' Association or Cordiant Communications). A proxy has no rights beyond, or independent from, those they exercise in their principal's stead. The agreement is for the taxpayer to appoint X as proxy to vote a particular way at a meeting of unit holders. This arrangement may create an interest, but the interest relates to the contractual relationship between the taxpayer and Entity X and not to an interest in the capital of the trust. The taxpayer continues to hold its units, which are not diminished or disposed of under the arrangement, nor divided into separate 'voting rights' capable of on-supply.
 Therefore, when the taxpayer entered into the contract they were not making a provision, acquisition or disposal of an interest in a security under item 10 in the table in subregulation 40-5.09(3) of the GST Regulations.
-Date of decision:
-  21 February 2011
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 40-5
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 40-5.02   regulation 40-5.09   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 10   schedule 7 of part 8 item 5
-
-Case References:
-
-Grimwade v Federal Commissioner of Taxation   (1949) 78 CLR 199   (1949) 9 ATD 52
-
-Cordiant Communications (Australia) Pty Ltd v The Communications Group Holdings Pty Ltd   [2005] 23 NSWSC 1005
-
-Totally and Permanently Incapacitated Veterans' Association of NSW Ltd v Gadd   (1998) 28 ACSR 549
-
-Related Public Rulings (including Determinations)
-
-Good and Services Tax Ruling GSTR 2002/2
-Taxation Ruling TR 94/30
-
-Keywords
-
-Financial instruments
- GST
- Goods and services tax
- GST financial supplies
- GST unit trusts
- Securities
- Trusts
- Unitholders
- Unit trust units
- Voting rights
-
-Siebel/TDMS Reference Number:
-  1-2O4M7WG
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  4 March 2011
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-21 February 2011
-Original statement
-
-You are here
- 5 May 2022
+Date of decision: 21 February 2011 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 40-5
+A New Tax System (Goods and Services Tax) Regulations 1999 regulation 40-5.02 regulation 40-5.09 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 10 schedule 7 of part 8 item 5 Case References: Grimwade v Federal Commissioner of Taxation (1949) 78 CLR 199 (1949) 9 ATD 52 Cordiant Communications (Australia) Pty Ltd v The Communications Group Holdings Pty Ltd [2005] 23 NSWSC 1005 Totally and Permanently Incapacitated Veterans' Association of NSW Ltd v Gadd (1998) 28 ACSR 549 Related Public Rulings (including Determinations) Good and Services Tax Ruling GSTR 2002/2
+Taxation Ruling TR 94/30 Keywords Financial instruments GST Goods and services tax GST financial supplies GST unit trusts Securities Trusts Unitholders Unit trust units Voting rights Siebel/TDMS Reference Number: 1-2O4M7WG Business Line: Indirect Tax Date of publication: 4 March 2011 ISSN: 1445-2782 history Date: Version: 21 February 2011
+Original statement You are here 5 May 2022
 Archived

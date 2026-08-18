@@ -1,118 +1,34 @@
 ATO Interpretative Decision
 ATO ID 2005/212
-==================================================
-
-Income Tax
- Non-Portfolio Dividends: optional convertible notes - non-assessable non-exempt income under section 23AJ of the ITAA 1936
- FOI status: may be released
-
-This ATO ID has been amended to replace the repealed s160AFB and its subsections by s334A and its subsections. With effect from 1 July 2008 the foreign tax credit system contained in Div 18 of the Income Tax Assessment Act 1936 has been replaced by the foreign tax offset system contained in Div 770 of the Income Tax Assessment Act 1997.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Non-Portfolio Dividends: optional convertible notes - non-assessable non-exempt income under section 23AJ of the ITAA 1936 FOI status: may be released This ATO ID has been amended to replace the repealed s160AFB and its subsections by s334A and its subsections. With effect from 1 July 2008 the foreign tax credit system contained in Div 18 of the Income Tax Assessment Act 1936 has been replaced by the foreign tax offset system contained in Div 770 of the Income Tax Assessment Act 1997. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will dividends received on shares following conversion of optional convertible notes (OCN) be non-assessable non-exempt income under section 23AJ of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. Dividends received by the holder from the issuer on shares following conversion of the OCN will be non assessable non exempt income under section 23AJ of the ITAA 1936.
 Facts
 A non-resident company (the issuer) issues OCN to an Australian resident company (the holder).
-The terms of the OCN issued include:-
-
-(a)each OCN is redeemable or convertible into one ordinary share in the issuer, and
+The terms of the OCN issued include:- (a)each OCN is redeemable or convertible into one ordinary share in the issuer, and
 (b)no interest will be payable on the note, and
-(c)the OCNs will not confer any rights to dividends or any voting in the issuer prior to conversion.
-
-The holder is wholly owned by the Australian resident head company (head company) of a consolidated group.
+(c)the OCNs will not confer any rights to dividends or any voting in the issuer prior to conversion. The holder is wholly owned by the Australian resident head company (head company) of a consolidated group.
 Upon full conversion of the OCN to shares, the holder and head company will each hold in excess of 10% shareholding in the issuer.
 Reasons for Decision
-Section 23AJ of the ITAA 1936 provides that a non-portfolio dividend (as defined in section 317 of the ITAA 1936) paid to a company is not assessable income, and is not exempt income, of the company if:
-
-(a)the company is an Australian resident and does not receive the dividend in the capacity of a trustee; and
-(b)the company that paid the dividend is not a Part X Australian resident (as defined in that section).
-
-Is the dividend a 'non portfolio dividend'?
-
-A non portfolio dividend is defined in section 317 of the ITAA 1936 as meaning a dividend (other than an eligible finance share dividend or a widely distributed finance share dividend) paid to a company where that company has a voting interest, within the meaning of section 334A of the ITAA 1936, amounting to at least 10% of the voting power, within the meaning of that section, in the company paying the dividend.
+Section 23AJ of the ITAA 1936 provides that a non-portfolio dividend (as defined in section 317 of the ITAA 1936) paid to a company is not assessable income, and is not exempt income, of the company if: (a)the company is an Australian resident and does not receive the dividend in the capacity of a trustee; and
+(b)the company that paid the dividend is not a Part X Australian resident (as defined in that section). Is the dividend a 'non portfolio dividend'? A non portfolio dividend is defined in section 317 of the ITAA 1936 as meaning a dividend (other than an eligible finance share dividend or a widely distributed finance share dividend) paid to a company where that company has a voting interest, within the meaning of section 334A of the ITAA 1936, amounting to at least 10% of the voting power, within the meaning of that section, in the company paying the dividend.
 Section 317 of the ITAA 1936 states that 'eligible finance share dividend' means a dividend in respect of an 'eligible finance share'; which in turn has the meaning given by section 327 of the ITAA 1936; and excludes dividends paid by a company to an associate.
 The term 'widely distributed finance share' has the meaning given by section 327A of the ITAA 1936 and requires inter alia, that the share be a 'recognised finance share' which is defined in subsection 327A(3) of the ITAA 1936 and includes the requirement that the shareholder is not an associate of the company.
 The term 'associate' is defined in section 318 of the ITAA 1936 and includes at subsection 318(2) of the ITAA 1936 a 'controlling entity' holding a majority voting interest in the company.
-Where on conversion of the OCN both the holder and the head company will jointly hold all the shares in the issuer, as members of the same consolidated group, the entities are associated and the requirements of section 327 of the ITAA 1936 are not satisfied. Dividends received by the holder from the issuer are not 'an eligible finance share dividend' or a widely 'distributed finance share dividend' for the purposes of section 23AJ of the ITAA 1936.
-
-Is a voting interest of more than 10% of voting power held in the issuer?
-
-Subsection 334A(1) of the ITAA 1936 provides that, a company shall be taken to have a voting interest in another company if:
-
-(a)the first-mentioned company is the beneficial owner of shares (other than eligible finance shares or widely distributed finance shares) in the other company that carry the right to exercise any of the voting power in the other company; and
-(b)there is no arrangement in force at the relevant time by virtue of which any person is in a position, or may become in a position, to affect that right,
-
-and the extent of the voting interest is taken to be the total number of votes that, by virtue of that right, can be cast on a poll at, or arising out of, a general meeting of the other company as regards all questions that could be submitted to such a poll.
-
-The effect of the consolidation rules on the application of section 23AJ of the ITAA 1936 is addressed in Taxation Determination TD 2004/76 at paragraphs 6-8 which state that:
-
-When determining if section 23AJ of the ITAA 1936 applies to a dividend paid to a consolidated group, the single entity rule (SER) in section 701-1 of the Income Tax Assessment Act 1997 applies. The SER treats the subsidiary members of a consolidated group as parts of the head company (rather than separate entities) for income tax purposes during the period they are members of the consolidated group.
-
-A consequence of the SER is that the actions and transactions of a subsidiary member are treated as having been undertaken by the head company and the assets a subsidiary member of the group owns are taken to be owned by the head company (excluding intra-group assets) while the subsidiary remains a member of the group.
-
-Accordingly, from the consolidated group's perspective, the head company is taken to hold the shares and voting rights held by a subsidiary member in the foreign company (as well as the shares and voting rights the head company holds directly in the foreign company) and to receive any dividends paid by the foreign company to the subsidiary member.
-
-Following conversion of the OCN to ordinary shares, the holder and the head company would have a voting interest in the issuer as defined in subsection 334A(1) of the ITAA 1936.
+Where on conversion of the OCN both the holder and the head company will jointly hold all the shares in the issuer, as members of the same consolidated group, the entities are associated and the requirements of section 327 of the ITAA 1936 are not satisfied. Dividends received by the holder from the issuer are not 'an eligible finance share dividend' or a widely 'distributed finance share dividend' for the purposes of section 23AJ of the ITAA 1936. Is a voting interest of more than 10% of voting power held in the issuer? Subsection 334A(1) of the ITAA 1936 provides that, a company shall be taken to have a voting interest in another company if: (a)the first-mentioned company is the beneficial owner of shares (other than eligible finance shares or widely distributed finance shares) in the other company that carry the right to exercise any of the voting power in the other company; and
+(b)there is no arrangement in force at the relevant time by virtue of which any person is in a position, or may become in a position, to affect that right, and the extent of the voting interest is taken to be the total number of votes that, by virtue of that right, can be cast on a poll at, or arising out of, a general meeting of the other company as regards all questions that could be submitted to such a poll. The effect of the consolidation rules on the application of section 23AJ of the ITAA 1936 is addressed in Taxation Determination TD 2004/76 at paragraphs 6-8 which state that: When determining if section 23AJ of the ITAA 1936 applies to a dividend paid to a consolidated group, the single entity rule (SER) in section 701-1 of the Income Tax Assessment Act 1997 applies. The SER treats the subsidiary members of a consolidated group as parts of the head company (rather than separate entities) for income tax purposes during the period they are members of the consolidated group. A consequence of the SER is that the actions and transactions of a subsidiary member are treated as having been undertaken by the head company and the assets a subsidiary member of the group owns are taken to be owned by the head company (excluding intra-group assets) while the subsidiary remains a member of the group. Accordingly, from the consolidated group's perspective, the head company is taken to hold the shares and voting rights held by a subsidiary member in the foreign company (as well as the shares and voting rights the head company holds directly in the foreign company) and to receive any dividends paid by the foreign company to the subsidiary member. Following conversion of the OCN to ordinary shares, the holder and the head company would have a voting interest in the issuer as defined in subsection 334A(1) of the ITAA 1936.
 Subsection 334A(4) of the ITAA 1936 provides that, the 'voting power' in a company is the maximum number of votes that can be cast on a poll at, or arising out of, a general meeting of a company as regards all questions that can be submitted to such a poll.
 The head company and the holder (after full conversion) being the beneficial owners of in excess of 10% of shares in the issuer have a voting interest representing at least 10% of the voting power in the issuer as defined in subsection 334A(4) of the ITAA 1936.
-Dividends received by the holder following conversion of the OCN will be classified as 'non portfolio dividends' for the purposes of section 23AJ of the ITAA 1936.
-
-Are the requirements of paragraph 23AJ(a) of the ITAA 1936 satisfied?
-
-Paragraph 23AJ(a) of the ITAA 1936 requires that the company receiving the dividend is an Australian resident and does not receive the dividend in the capacity of a trustee.
+Dividends received by the holder following conversion of the OCN will be classified as 'non portfolio dividends' for the purposes of section 23AJ of the ITAA 1936. Are the requirements of paragraph 23AJ(a) of the ITAA 1936 satisfied? Paragraph 23AJ(a) of the ITAA 1936 requires that the company receiving the dividend is an Australian resident and does not receive the dividend in the capacity of a trustee.
 The head company and the holder are both incorporated in Australia and assumed to be an Australian resident for the purposes of the application section 23AJ of the ITAA 1936.
 The head company and the holder will both hold the shares in the issuer in their own right and not in the capacity of trustee.
-The requirements of paragraph 23AJ(a) of the ITAA 1936 would therefore be satisfied.
-
-Are the requirements of paragraph 23AJ(b) of the ITAA 1936 satisfied?
-
-Paragraph 23AJ(b) of the ITAA 1936 requires that the company that paid the dividend is not a Part X Australian resident (as defined in that section).
-Part X Australian resident is defined in section 317 of Part X of the ITAA 1936 as follows:
-
-"Part X Australian resident'' means a resident within the meaning of section 6, but does not include an entity where:
-
-(a)there is a double tax agreement in force in respect of a foreign country; and
+The requirements of paragraph 23AJ(a) of the ITAA 1936 would therefore be satisfied. Are the requirements of paragraph 23AJ(b) of the ITAA 1936 satisfied? Paragraph 23AJ(b) of the ITAA 1936 requires that the company that paid the dividend is not a Part X Australian resident (as defined in that section).
+Part X Australian resident is defined in section 317 of Part X of the ITAA 1936 as follows: "Part X Australian resident'' means a resident within the meaning of section 6, but does not include an entity where: (a)there is a double tax agreement in force in respect of a foreign country; and
 (b)that agreement contains a provision that is expressed to apply where, apart from the provision, the entity would, for the purposes of the agreement, be both a resident of Australia and a resident of the foreign country; and
-(c)that provision has the effect that the entity is, for the purposes of the agreement, a resident solely of the foreign country;
-
-Section 6 of the ITAA 1936 defines resident as including a company which is incorporated in Australia, or which, not being incorporated in Australia, carries on business in Australia, and has either its central management and control in Australia, or its voting power controlled by shareholders who are residents of Australia.
+(c)that provision has the effect that the entity is, for the purposes of the agreement, a resident solely of the foreign country; Section 6 of the ITAA 1936 defines resident as including a company which is incorporated in Australia, or which, not being incorporated in Australia, carries on business in Australia, and has either its central management and control in Australia, or its voting power controlled by shareholders who are residents of Australia.
 The issuer being a company not incorporated in Australia which does not carry on business in Australia and is therefore not a Part X Australian resident, for the purposes of the application of paragraph 23AJ(b) of the ITAA 1936.
 Accordingly, as all requirements of section 23AJ of the ITAA 1936 are satisfied, dividends received by the holder following conversion of the OCN to ordinary shares will constitute non assessable and non exempt income by the operation of that section.
-Date of decision:
-  14 July 2005
-
-Year of income:
-  Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Year ended 30 June 2015
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 23AJ   section 317   subsection 6(1)   section 327   section 334A
-Income Tax Assessment Act 1997   section 701-1
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2004/76
-
-Keywords
-
-Foreign income
- Non portfolio foreign income
-
-Siebel/TDMS Reference Number:
-  4339302
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 July 2005
-
-ISSN:
- 1445-2782
+Date of decision: 14 July 2005 Year of income: Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Year ended 30 June 2015 Legislative References: Income Tax Assessment Act 1936 section 23AJ section 317 subsection 6(1) section 327 section 334A
+Income Tax Assessment Act 1997 section 701-1 Related Public Rulings (including Determinations) Taxation Determination TD 2004/76 Keywords Foreign income Non portfolio foreign income Siebel/TDMS Reference Number: 4339302 Business Line: Public Groups and International Date of publication: 29 July 2005 ISSN: 1445-2782

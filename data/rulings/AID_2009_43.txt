@@ -1,78 +1,22 @@
 ATO Interpretative Decision
 ATO ID 2009/43
-==================================================
-
-Income Tax
- Capital Gains Tax: CGT event J1 - interposing a partnership in a wholly-owned group
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Will CGT event J1 happen if:
-
-•there was a roll-over under Subdivision 126-B of the Income Tax Assessment Act 1997 (ITAA 1997) for a CGT event (the roll-over event) that happened in relation to a CGT asset (the roll-over asset) involving two companies of the same wholly-owned group; and
+================================================== Income Tax Capital Gains Tax: CGT event J1 - interposing a partnership in a wholly-owned group FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Will CGT event J1 happen if: •there was a roll-over under Subdivision 126-B of the Income Tax Assessment Act 1997 (ITAA 1997) for a CGT event (the roll-over event) that happened in relation to a CGT asset (the roll-over asset) involving two companies of the same wholly-owned group; and
 •at the time of the roll-over, the company (Recipient company) that owned the roll-over asset just after the roll-over was a 100% subsidiary of the other company involved in the roll-over event (Subsidiary); and
-•after the time of the roll-over, a partnership is interposed between the ultimate holding company of the group (Ultimate holding company) and Subsidiary?
-
-Decision
+•after the time of the roll-over, a partnership is interposed between the ultimate holding company of the group (Ultimate holding company) and Subsidiary? Decision
 No. CGT event J1 will not happen as a result of the interposition of the partnership in the group structure because this interposition would not cause Recipient company to cease to be a 100% subsidiary of Ultimate holding company.
 Facts
-Prior to a group restructure, the corporate structure of the group was represented as:
-
-There was a roll-over event that happened in relation to the roll-over asset transferred from Subsidiary to Recipient Company.
-Following the group restructure, a partnership will be interposed between Ultimate holding company and Subsidiary where:
-
-•Ultimate holding company will beneficially own 100% of the shares in each of the corporate partners; and
-•the corporate partners collectively own 100% of the shares in Subsidiary.
-
-Under the relevant Partnership Act and the partnership agreement, the partnership is not a separate legal entity distinct from its partners.
-The corporate structure of the group post-restructuring is represented as:
-
-Reasons for Decision
+Prior to a group restructure, the corporate structure of the group was represented as: There was a roll-over event that happened in relation to the roll-over asset transferred from Subsidiary to Recipient Company.
+Following the group restructure, a partnership will be interposed between Ultimate holding company and Subsidiary where: •Ultimate holding company will beneficially own 100% of the shares in each of the corporate partners; and
+•the corporate partners collectively own 100% of the shares in Subsidiary. Under the relevant Partnership Act and the partnership agreement, the partnership is not a separate legal entity distinct from its partners.
+The corporate structure of the group post-restructuring is represented as: Reasons for Decision
 CGT event J1 happens under section 104-175 of the ITAA 1997 if roll-over relief under Subdivision 126-B of the ITAA 1997 was chosen in relation to an earlier transfer of a CGT asset and the recipient company subsequently ceased to be a 100% subsidiary of the company that was the ultimate holding company of the group at the time of the roll-over.
-A company is a 100% subsidiary of another company (the holding company) under section 975-505 of the ITAA 1997 if all the shares in the subsidiary company are beneficially owned by:
-
-(a)the holding company; or
+A company is a 100% subsidiary of another company (the holding company) under section 975-505 of the ITAA 1997 if all the shares in the subsidiary company are beneficially owned by: (a)the holding company; or
 (b)one or more 100% subsidiaries of the holding company; or
-(c)the holding company and one or more 100% subsidiaries of the holding company.
-
-The phrase 'beneficial ownership' is not defined and therefore its meaning is to be 'construed in context and must reflect the purposes of the section in which it occurs' (Federal Commissioner of Taxation (Cth) v Linter Textiles Australia (in Liq) (2005) 220 CLR 592; 2005 ATC 4255; (2005) 59 ATR 177)
+(c)the holding company and one or more 100% subsidiaries of the holding company. The phrase 'beneficial ownership' is not defined and therefore its meaning is to be 'construed in context and must reflect the purposes of the section in which it occurs' (Federal Commissioner of Taxation (Cth) v Linter Textiles Australia (in Liq) (2005) 220 CLR 592; 2005 ATC 4255; (2005) 59 ATR 177)
 Furthermore, the Explanatory Memorandum to Taxation Laws Amendment Act 1993 which enacted section 160ZZOA of the Income Tax Assessment Act 1936, the predecessor to section 104-175 of the ITAA 1997, stated that:
 Provided an asset remains within the beneficial control of its ultimate holding company, no disposal and re-acquisition of the asset will be deemed under new section 160ZZOA. (Emphasis added)
 The control of Recipient company will continue to be with Ultimate holding company because the corporate partners collectively hold the full bundle of ownership rights in Subsidiary and Ultimate holding company in turn holds the full bundle of ownership rights in each of the corporate partners for its own benefit.
 Accordingly, CGT event J1 will not happen when the partnership is interposed between Ultimate holding company and Subsidiary as Recipient company has not ceased to be a 100% subsidiary of the wholly owned group.
-Date of decision:
-  15 June 2009
-
-Year of income:
-  Year ended 30 June 2008 Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-75   section 975-505
-
-Case References:
-
-Federal Commissioner of Taxation (Cth) v Linter Textiles Australia (in Liq)   (2005) 220 CLR 592   2005 ATC 4255   59 ATR 177
-
-Keywords
-
-CGT event J1-J3 - rollovers
- Partnerships
-
-Siebel/TDMS Reference Number:
-  6195848
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  26 June 2009
-
-ISSN:
- 1445-2782
+Date of decision: 15 June 2009 Year of income: Year ended 30 June 2008 Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 section 104-75 section 975-505 Case References: Federal Commissioner of Taxation (Cth) v Linter Textiles Australia (in Liq) (2005) 220 CLR 592 2005 ATC 4255 59 ATR 177 Keywords CGT event J1-J3 - rollovers Partnerships Siebel/TDMS Reference Number: 6195848 Business Line: Public Groups and International Date of publication: 26 June 2009 ISSN: 1445-2782

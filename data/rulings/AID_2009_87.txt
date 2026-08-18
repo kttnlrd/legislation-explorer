@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/87
-==================================================
-
-Income Tax
- Share Capital Tainting: option premium for the purposes of section 197-25 of the Income Tax Assessment Act 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Share Capital Tainting: option premium for the purposes of section 197-25 of the Income Tax Assessment Act 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are amounts, that are credited as tax assets that are greater than debited tax expenses in relation to the Employee Share Scheme (ESS) of employer XYZ Pty Ltd (XYZ), option premiums under section 197-25 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The amounts are not option premiums under section 197-25 of the ITAA 1997. Therefore the provision cannot be applied to exclude transfers from XYZ's option premium reserve account into its share capital account.
@@ -22,136 +11,39 @@ The share based expense is recognised over the vesting period based on the actua
 The deferred tax asset ultimately recognised by XYZ was dependent upon the actual tax deduction available to XYZ in relation to exercised options under the ESS.
 In relation to the following, the valuation of the options at grant date is $30 million and the valuation of the shares for the income tax period is $20 million.
 The tax effect entries are as follows:
-A $9 million (30% of $30 million) increase in deferred tax asset is determined for an income year. In this year the $6 million (30% of $20 million) income tax expense decrease recognised is less than the deferred tax asset recognised. As such, the excess amount is credited to XYZ's option premium reserve.
-
-Tax effect entries
-
-DR
+A $9 million (30% of $30 million) increase in deferred tax asset is determined for an income year. In this year the $6 million (30% of $20 million) income tax expense decrease recognised is less than the deferred tax asset recognised. As such, the excess amount is credited to XYZ's option premium reserve. Tax effect entries DR
 Deferred tax asset
 $9 million
-Balance Sheet account
-
-CR
+Balance Sheet account CR
 Income tax expense (Benefit)
 $6 million
-Profit & Loss account
-
-CR
+Profit & Loss account CR
 Option premium reserve
 $3 million
-Balance Sheet account
-
-XYZ uses its option premium reserve account as a holding account for recording the necessary adjustments required prior to an actual amount of the share based expense including the tax impact of the share based expense, can be determined on the exercise of the options.
-Assuming all the options are exercised in the expected financial year, the tax benefit is realised. When XYZ purchases the shares on market for its participating employees, the deferred tax asset is crystallised and XYZ claims a tax deduction for $9 million.
-
-Exercise - Deferred tax asset
-
-DR
+Balance Sheet account XYZ uses its option premium reserve account as a holding account for recording the necessary adjustments required prior to an actual amount of the share based expense including the tax impact of the share based expense, can be determined on the exercise of the options.
+Assuming all the options are exercised in the expected financial year, the tax benefit is realised. When XYZ purchases the shares on market for its participating employees, the deferred tax asset is crystallised and XYZ claims a tax deduction for $9 million. Exercise - Deferred tax asset DR
 Provision for income tax
 $9 million
-Balance Sheet account
-
-CR
+Balance Sheet account CR
 Deferred tax asset
 $9 million
-Balance Sheet account
-
-Once the actual taxation deduction is known, the tax benefit realised is transferred from their option premium reserve account to their share capital account.
-
-Exercise - Realisation of tax effect component
-
-DR
+Balance Sheet account Once the actual taxation deduction is known, the tax benefit realised is transferred from their option premium reserve account to their share capital account. Exercise - Realisation of tax effect component DR
 Option premium reserve
 $3 million
-Balance Sheet account
-
-CR
+Balance Sheet account CR
 Share capital
 $3 million
-Balance Sheet account
-
-Reasons for Decision
-
-What are option premiums?
-
-The legislation does not explain or define what option premiums are. Section 197-25 of the ITAA 1997 prevents amounts from tainting the share capital account if the amounts are transferred from option premium reserves and the amounts are 'premiums in respect of those options'. The exclusion only applies to amounts transferred to a share capital account from an option premium reserve.
+Balance Sheet account Reasons for Decision What are option premiums? The legislation does not explain or define what option premiums are. Section 197-25 of the ITAA 1997 prevents amounts from tainting the share capital account if the amounts are transferred from option premium reserves and the amounts are 'premiums in respect of those options'. The exclusion only applies to amounts transferred to a share capital account from an option premium reserve.
 In ascertaining what amounts are included in 'premiums in respect of those options', paragraph 4.19 of the Explanatory Memorandum (EM) accompanying the Taxation Laws Amendment (2006 Measures No. 3) Bill 2006 highlights the intended meaning of option premiums by providing that:
-A company's share capital account does not become tainted if an amount is transferred from an option premium reserve to its share capital where the amount transferred represents option premiums that were received by the company in consideration for the issue of the options that have been exercised. (emphasis added)
-
-Dictionary Definitions
-
-An 'option' is:
-
-•'a privilege acquired, as by the payment of a premium or consideration, of buying (or declining to buy) a property within a specified time on stipulated terms.' (The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01)
+A company's share capital account does not become tainted if an amount is transferred from an option premium reserve to its share capital where the amount transferred represents option premiums that were received by the company in consideration for the issue of the options that have been exercised. (emphasis added) Dictionary Definitions An 'option' is: •'a privilege acquired, as by the payment of a premium or consideration, of buying (or declining to buy) a property within a specified time on stipulated terms.' (The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01)
 •'a contractual right to acquire for consideration an asset for a particular price on or before a particular date.' (McLaren J, Simpson M, Toohey M, Law of Investments, 2nd ed, LBC, Sydney 2000, p 398)
-•'a contractual right but not obligation to buy or sell a fixed quantity of a commodity, currency, financial security etc. at a particular price on or before a particular date... The buyer of the options pays a premium to the seller of the option.' (Australian Dictionary of Banking and Finance, LBC, Sydney, 2000)
-
-A 'premium' is:
-
-•'the amount that a buyer is prepared to pay for the right to subscribe for a new or rights issue of stocks or shares in a company.' (Supra Note 5)
+•'a contractual right but not obligation to buy or sell a fixed quantity of a commodity, currency, financial security etc. at a particular price on or before a particular date... The buyer of the options pays a premium to the seller of the option.' (Australian Dictionary of Banking and Finance, LBC, Sydney, 2000) A 'premium' is: •'the amount that a buyer is prepared to pay for the right to subscribe for a new or rights issue of stocks or shares in a company.' (Supra Note 5)
 •'In the options market, the cost of the option.' (Webster's New World Finance and Investment Dictionary, Wiley Publishing, USA, 2003)
-•'an amount paid by way of consideration.' (Butterworths Australian Legal Dictionary, Butterworths, Australia, 1997)
-
-An 'option premium' is:
-
-•'the dollar amount paid to the seller for an option.' (Oxford Dictionary of Australian Investment Terms, 6th ed, Oxford University Press, Melbourne, 2003)
+•'an amount paid by way of consideration.' (Butterworths Australian Legal Dictionary, Butterworths, Australia, 1997) An 'option premium' is: •'the dollar amount paid to the seller for an option.' (Oxford Dictionary of Australian Investment Terms, 6th ed, Oxford University Press, Melbourne, 2003)
 •'the amount paid to buy a securities option.' (Black's Law Dictionary, 8th ed, Thomson West, USA, 2004)
-•'the amount paid by an option buyer to the option seller to enter into the option.' (Butterworths Encyclopaedic Australian Dictionary, [Multimedia], LexisNexis,Australia, 9/9/04)
-
-In applying the interpretative principle formulated in Falconer v. Pedersen [1974] VR 185 that:
-
-One must interpret the phrase as used in its context, assisted as it may be, but not necessarily bound, by one of a variety of dictionary definitions,
-
-we conclude that the use of the term 'option premiums' in the EM is consistent with the dictionary definitions provided above.
-In this context, option premiums are amounts provided by employees as consideration for the contractual right to acquire shares in XYZ. Effectively the amounts of option premiums provided should equal the value of the services provided by employees. The value of the services provided would be the value recorded against the 'employee expense' account. Therefore, any amounts that do not reflect the value of the services provided by employees will not be option premiums.
-
-What are not option premiums?
-
-Within the transactions that occur in relation to the tax effect entries for performance options/rights, subsection 197-5(1) of the ITAA 1997 will apply when amounts in XYZ's option premium reserve account are transferred into their share capital account.
+•'the amount paid by an option buyer to the option seller to enter into the option.' (Butterworths Encyclopaedic Australian Dictionary, [Multimedia], LexisNexis,Australia, 9/9/04) In applying the interpretative principle formulated in Falconer v. Pedersen [1974] VR 185 that: One must interpret the phrase as used in its context, assisted as it may be, but not necessarily bound, by one of a variety of dictionary definitions, we conclude that the use of the term 'option premiums' in the EM is consistent with the dictionary definitions provided above.
+In this context, option premiums are amounts provided by employees as consideration for the contractual right to acquire shares in XYZ. Effectively the amounts of option premiums provided should equal the value of the services provided by employees. The value of the services provided would be the value recorded against the 'employee expense' account. Therefore, any amounts that do not reflect the value of the services provided by employees will not be option premiums. What are not option premiums? Within the transactions that occur in relation to the tax effect entries for performance options/rights, subsection 197-5(1) of the ITAA 1997 will apply when amounts in XYZ's option premium reserve account are transferred into their share capital account.
 Further, section 197-25 of the ITAA 1997 will not apply to exclude the transfers from Division 197 of the ITAA 1997 as the tax effect entry amounts in XYZ's option premium reserve account do not constitute option premiums.
 The excess amount created in the deferred tax asset via the deductible expense, which is greater than the decrease in the income tax expense account, is not an option premium.
 The Tax Office view is that the amounts are not option premiums because the amounts cannot be classified as consideration to acquire options to purchase shares in XYZ. This also means that the amounts cannot be premiums in respect of the options. Once the transfer of the amount is made to XYZ's share capital account, the account will be tainted under subsection 197-5(1) of the ITAA 1997 and the exclusion in section 197-25 of the ITAA 1997 will not apply.
-Date of decision:
-  15 July 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 197-5(1)   section 197-5   section 197-25
-
-Case References:
-
-Falconer v. Pedersen   [1974] VR 185
-
-Other References:
-
- Taxation Laws Amendment (2006 Measures No.3) Bill 2006 (80 of 2006)
- Fact sheet Share capital tainting
- Paragraph 4.19 of the EM accompanying the Tax laws Amendment (2006 Measures No.3) Bill 2006
- The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01
- McLaren J, Simpson M, Toohey M, Law of Investments, 2nd ed, LBC, Sydney 2000, p 398
- Australian Dictionary of Banking and Finance, LBC, Sydney, 2000.
- Webster's New World Finance and Investment Dictionary, Wiley Publishing, USA, 2003
- Butterworths Australian Legal Dictionary, Butterworths, Australia, 1997.
- Oxford Dictionary of Australian Investment Terms, 6th ed, Oxford University Press, Melbourne, 2003
- Black's Law Dictionary, 8th ed, Thomson West, USA, 2004
- Butterworths Encyclopaedic Australian Dictionary, [Multimedia], LexisNexis,Australia, 9/9/04
-
-Keywords
-
-Employee share schemes & options
- Tainted share capital account
-
-Siebel/TDMS Reference Number:
-  6155418
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 August 2009
-
-ISSN:
- 1445-2782
+Date of decision: 15 July 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 subsection 197-5(1) section 197-5 section 197-25 Case References: Falconer v. Pedersen [1974] VR 185 Other References: Taxation Laws Amendment (2006 Measures No.3) Bill 2006 (80 of 2006) Fact sheet Share capital tainting Paragraph 4.19 of the EM accompanying the Tax laws Amendment (2006 Measures No.3) Bill 2006 The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01 McLaren J, Simpson M, Toohey M, Law of Investments, 2nd ed, LBC, Sydney 2000, p 398 Australian Dictionary of Banking and Finance, LBC, Sydney, 2000. Webster's New World Finance and Investment Dictionary, Wiley Publishing, USA, 2003 Butterworths Australian Legal Dictionary, Butterworths, Australia, 1997. Oxford Dictionary of Australian Investment Terms, 6th ed, Oxford University Press, Melbourne, 2003 Black's Law Dictionary, 8th ed, Thomson West, USA, 2004 Butterworths Encyclopaedic Australian Dictionary, [Multimedia], LexisNexis,Australia, 9/9/04 Keywords Employee share schemes & options Tainted share capital account Siebel/TDMS Reference Number: 6155418 Business Line: Public Groups and International Date of publication: 7 August 2009 ISSN: 1445-2782

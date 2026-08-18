@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/295
-==================================================
-
-Income Tax
- PAYG instalment rate: varying the rate upwards and the general interest charge
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax PAYG instalment rate: varying the rate upwards and the general interest charge FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the company be liable for the general interest charge (GIC) under section 45-230 of Schedule 1 to the Taxation Administration Act 1953 (TAA) if it varies its pay as you go (PAYG) instalment rate upwards and it is less than 85% of its benchmark instalment rate for the income year?
 Decision
 Yes. The company will be liable for the GIC under section 45-230 of Schedule 1 to the TAA if it varies its PAYG instalment rate upwards and it is less than 85% of its benchmark instalment rate for the income year.
@@ -23,99 +12,26 @@ On 28 April 2006, the company varied its PAYG instalment rate upwards pursuant t
 The company's income tax return year ended 30 June 2006 is due to be lodged in February 2007. Due to a recent business decision, the company is anticipating that it will now pay a greater amount of tax when it lodges its income tax return. As a result, it is expected that its varied rate will be less than 85% of its benchmark instalment rate for the year ended 30 June 2006.
 The company did not vary its instalment rate downwards at any time during the year. The company is not part of a consolidated group for income tax purposes.
 Reasons for Decision
-Under subsection 45-230(1) of Schedule 1 to the TAA, an entity is liable to pay the GIC if:
-
-•the entity uses the instalment rate (the varied rate) under section 45-205 of Schedule 1 to the TAA to work out the amount of its instalment for an instalment quarter (the variation quarter) in an income year; and
-•the varied rate is less than 85% of the entity's benchmark instalment rate for that income year that the Commissioner works out under Subdivision 45-K of Schedule 1 to the TAA.
-
-The company has varied its instalment rate upwards. However its varied rate is expected to be less than 85% of its benchmark instalment rate.
-GIC is payable on the amount worked out using the formula in subsection 45-230(2) of Schedule 1 to the TAA:
-
-[Rate discrepancy * Your *instalment income for the variation quarter] + Credit Adjustment
-
-'Rate discrepancy' means the difference between the varied rate and the lesser of:
-
-•the most recent instalment rate given to the entity by the Commissioner before the end of the variation quarter; and
-•the entity's benchmark instalment rate for that income year.
-
-The most recent instalment rate given to the company by the Commissioner before the end of the variation quarter was 0%. As the Commissioner's notified rate is 0%, this will always be less than the company's benchmark instalment rate for the income year. Therefore, the rate discrepancy will be the difference between the company's varied rate and 0%.
+Under subsection 45-230(1) of Schedule 1 to the TAA, an entity is liable to pay the GIC if: •the entity uses the instalment rate (the varied rate) under section 45-205 of Schedule 1 to the TAA to work out the amount of its instalment for an instalment quarter (the variation quarter) in an income year; and
+•the varied rate is less than 85% of the entity's benchmark instalment rate for that income year that the Commissioner works out under Subdivision 45-K of Schedule 1 to the TAA. The company has varied its instalment rate upwards. However its varied rate is expected to be less than 85% of its benchmark instalment rate.
+GIC is payable on the amount worked out using the formula in subsection 45-230(2) of Schedule 1 to the TAA: [Rate discrepancy * Your *instalment income for the variation quarter] + Credit Adjustment 'Rate discrepancy' means the difference between the varied rate and the lesser of: •the most recent instalment rate given to the entity by the Commissioner before the end of the variation quarter; and
+•the entity's benchmark instalment rate for that income year. The most recent instalment rate given to the company by the Commissioner before the end of the variation quarter was 0%. As the Commissioner's notified rate is 0%, this will always be less than the company's benchmark instalment rate for the income year. Therefore, the rate discrepancy will be the difference between the company's varied rate and 0%.
 The wording of section 45-230 of Schedule 1 to the TAA indicates that a taxpayer will be liable to GIC whenever the varied rate differs from the instalment rate worked out by the Commissioner, irrespective of whether the difference favours the taxpayer or not. As 'difference' is not defined in the TAA or the Explanatory Memorandum to the A New Tax System (Pay As You Go) Bill 1999, it is appropriate to consider its ordinary meaning.
-'Difference' is defined as 'Mathematics the amount by which one quantity is greater or less than another' (Macquarie Dictionary 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW). Although the varied rate is
- greater
- than the Commissioner's notified rate, the 'difference' is an absolute value. The rate discrepancy is the amount by which the varied rate is greater or lesser than the Commissioner's rate of 0%. If for example the varied rate was 10%, the rate discrepancy would be 10%.
+'Difference' is defined as 'Mathematics the amount by which one quantity is greater or less than another' (Macquarie Dictionary 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW). Although the varied rate is greater than the Commissioner's notified rate, the 'difference' is an absolute value. The rate discrepancy is the amount by which the varied rate is greater or lesser than the Commissioner's rate of 0%. If for example the varied rate was 10%, the rate discrepancy would be 10%.
 Therefore, the company is liable to pay the GIC under subsection 45-230(1) of Schedule 1 to the TAA. However, the Commissioner may remit the GIC under 45-240 of Schedule 1 to the TAA.
 Remission of GIC
 The Commissioner may remit the GIC under section 45-240 of Schedule 1 to the TAA if he is satisfied that because special circumstances exist, it would be fair and reasonable to do so.
 A decision by the Commissioner to remit GIC because it is fair and reasonable must be considered in view of the intent of the PAYG instalment system. Not only must the exercise of the power to remit be fair to the entity concerned, it must be fair to the whole community. In other words, an entity should not be given an advantage over those taxpayers who organise their affairs to ensure they pay correct instalment liabilities. An entity will need to demonstrate that it is fair and reasonable to remit the GIC, having regard to the nature of the specific event or decision.
-The General Outline in the Explanatory Memorandum to the A New Tax System (Pay As You Go) Bill 1999 provides an overview of the intent of the PAYG instalment system. Broadly, this includes:
-
-•taxpayers making payments that reflect their current trading and investment conditions or are based on last year's tax
+The General Outline in the Explanatory Memorandum to the A New Tax System (Pay As You Go) Bill 1999 provides an overview of the intent of the PAYG instalment system. Broadly, this includes: •taxpayers making payments that reflect their current trading and investment conditions or are based on last year's tax
 •eliminating large end-of-year tax bills, and
-•ensuring that Government has the revenue it needs during the year to provide benefits and services.
-
-The company was not required to vary its instalment rate but chose to do so. By varying its instalment rate upwards, the company paid greater PAYG instalments than it otherwise would have. Even though the varied rate is expected to be less than 85% of its benchmark rate, if the company had not varied its instalment rate it would not have paid any instalment amounts, as its notified rate was 0%.
-The company's actions were consistent with the overall intent of the PAYG instalment system. That is, it made payments that reflected its current trading and investment conditions, thereby eliminating large end-of-year tax bills and ensuring that Government had the revenue needed during the year to provide benefits and services. The company does not have an unfair advantage over other taxpayers who will pay the correct instalment liabilities. It appears that an unintended outcome of subdivision 45-G of Schedule 1 to the TAA is that an entity that only varies its rate upwards but not high enough, is liable for the GIC. It is fair and reasonable for the Commissioner to remit the GIC in these circumstances.
-
-Amendment History
-
-Date of Amendment
+•ensuring that Government has the revenue it needs during the year to provide benefits and services. The company was not required to vary its instalment rate but chose to do so. By varying its instalment rate upwards, the company paid greater PAYG instalments than it otherwise would have. Even though the varied rate is expected to be less than 85% of its benchmark rate, if the company had not varied its instalment rate it would not have paid any instalment amounts, as its notified rate was 0%.
+The company's actions were consistent with the overall intent of the PAYG instalment system. That is, it made payments that reflected its current trading and investment conditions, thereby eliminating large end-of-year tax bills and ensuring that Government had the revenue needed during the year to provide benefits and services. The company does not have an unfair advantage over other taxpayers who will pay the correct instalment liabilities. It appears that an unintended outcome of subdivision 45-G of Schedule 1 to the TAA is that an entity that only varies its rate upwards but not high enough, is liable for the GIC. It is fair and reasonable for the Commissioner to remit the GIC in these circumstances. Amendment History Date of Amendment
 Part
-Comment
-
-6 April 2018
+Comment 6 April 2018
 Legislative references
-Correct reference from Division 45-K to Subdivision 45-K
-
-Other references
-Insert reference to PS LA 2011/12 and removed reference to archived ATO Receivables Policy
-
-Decision
-Update to highlight that the discount on the rights is assessable income.
-
-Facts
-Updated to take into account the repeal of Division 13A of the ITAA 1936 and its replacement with Division 83A of the ITAA 1997.
-
-Date of decision:
-  6 October 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Taxation Administration Act 1953   section 3AA   subsection 3AA(3)   section 45-205   Subdivision 45-G   subsection 45-230(1)   subsection 45-230(2)   section 45-240   Subdivision 45-K
-Income Tax Assessment Act 1997   section 950-100   subsection 950-100(1)
-Acts Interpretation Act 1901   section 15AA
-
-Other References:
-
- Explanatory Memorandum to the A New Tax System (Pay As You Go) Bill 1999
- Macquarie Dictionary 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW
- PS LA 2007/21
-
-Keywords
-
-PAYG system
- PAYG instalments
- Calculating PAYG instalments
- PAYG instalment rate
- Varying PAYG instalment rates
- Tax administration
- General interest charge
- Penalties
- Remission of penalties
-
-Siebel/TDMS Reference Number:
-  5445186; 1-5UH1AE; 1-DMN3EGR
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  27 October 2006
-
-Date reviewed:
-  7 March 2018
-
-ISSN:
- 1445-2782
+Correct reference from Division 45-K to Subdivision 45-K Other references
+Insert reference to PS LA 2011/12 and removed reference to archived ATO Receivables Policy Decision
+Update to highlight that the discount on the rights is assessable income. Facts
+Updated to take into account the repeal of Division 13A of the ITAA 1936 and its replacement with Division 83A of the ITAA 1997. Date of decision: 6 October 2006 Year of income: Year ended 30 June 2006 Legislative References: Taxation Administration Act 1953 section 3AA subsection 3AA(3) section 45-205 Subdivision 45-G subsection 45-230(1) subsection 45-230(2) section 45-240 Subdivision 45-K
+Income Tax Assessment Act 1997 section 950-100 subsection 950-100(1)
+Acts Interpretation Act 1901 section 15AA Other References: Explanatory Memorandum to the A New Tax System (Pay As You Go) Bill 1999 Macquarie Dictionary 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW PS LA 2007/21 Keywords PAYG system PAYG instalments Calculating PAYG instalments PAYG instalment rate Varying PAYG instalment rates Tax administration General interest charge Penalties Remission of penalties Siebel/TDMS Reference Number: 5445186; 1-5UH1AE; 1-DMN3EGR Business Line: Private Groups and High Wealth Individuals Date of publication: 27 October 2006 Date reviewed: 7 March 2018 ISSN: 1445-2782

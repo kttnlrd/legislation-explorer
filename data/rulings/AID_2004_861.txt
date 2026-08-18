@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/861
-==================================================
-
-Income tax
- Capital works: balancing deduction - partly deductible capital works - insurance received - reasonable apportionment of insurance proceeds
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital works: balancing deduction - partly deductible capital works - insurance received - reasonable apportionment of insurance proceeds FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If capital works are destroyed and Division 43 of the Income Tax Assessment Act 1997 (ITAA 1997) had applied to only part of the capital works, in working out the deduction allowable under section 43-40 and set out in section 43-260, is it reasonable to apportion the insurance proceeds receivable by the taxpayer by taking into account the relative replacement costs of the deductible and non-deductible capital works?
 Decision
 Yes. A reasonable approach is an apportionment of the insurance proceeds based on the relative replacement costs of the capital works to which Division 43 of the ITAA 1997 does apply, and those to which the Division does not apply.
@@ -24,49 +13,10 @@ The taxpayer expected to receive a lump sum insurance payout in respect of the b
 Reasons for Decision
 Section 43-40 of the ITAA 1997 allows a taxpayer to deduct an amount for the destruction of capital works (called a balancing deduction) if all or part of their capital works are destroyed in an income year and they meet certain requirements for the deduction.
 On the facts of this case, the amount of the balancing deduction the taxpayer can deduct under section 43-40 of the ITAA 1997 is equal to the undeducted construction expenditure at the date of the destruction of the capital works, less the amounts the taxpayer has received or has a right to receive for the destruction of the capital works.
-If an amount is received or receivable by a taxpayer in respect of the destruction of both:
-
-(1) capital works for which deductions are available under Division 43 of the ITAA 1997 and
-(2) capital works for which deductions are not available under Division 43 of the ITAA 1997
-
-the taxpayer must make a reasonable apportionment of the amount (section 43-260 of the ITAA 1997).
+If an amount is received or receivable by a taxpayer in respect of the destruction of both: (1) capital works for which deductions are available under Division 43 of the ITAA 1997 and
+(2) capital works for which deductions are not available under Division 43 of the ITAA 1997 the taxpayer must make a reasonable apportionment of the amount (section 43-260 of the ITAA 1997).
 What is reasonable will often depend on the particular circumstances. As stated by Windeyer J in Giris Pty Ltd v. Federal Commissioner of Taxation (1969) 119 CLR 365; 69 ATC 4015; (1969) 1 ATR 3, there are no absolute, precise or objectively determinable tests of what is reasonable or unreasonable. Court decisions illustrate that reasonableness should be viewed objectively. The test looks at whether the actions of the person would be the same as the actions of a reasonable person in the same set of circumstances.
 It is reasonable, in this context, to apportion the insurance proceeds based on the relative costs of replacing the deductible and non-deductible capital works. This means that the proportion of the insurance proceeds that is used in calculating the balancing deduction is the proportion of the total cost of replacing the destroyed building (as it existed at the time of destruction) which relates to replacing the renovations.
 As required by subsection 262A(1D) of the Income Tax Assessment Act 1936, the taxpayer may need to show at a later time how the apportionment was worked out.
-Date of decision:
-  17 September 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 43   section 43-40   section 43-260
-Income Tax Assessment Act 1936   subsection 262A(1D)
-
-Case References:
-
-Giris Pty Ltd v. Federal Commissioner of Taxation   (1969) 119 CLR 365   69 ATC 4015   (1969) 1 ATR 3
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/860
- ATO ID 2004/862
-
-Keywords
-
-Construction expenditure area
- Pool of construction expenditure
- Insurance
-
-Siebel/TDMS Reference Number:
-  4006024
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 November 2004
-
-ISSN:
- 1445-2782
+Date of decision: 17 September 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Division 43 section 43-40 section 43-260
+Income Tax Assessment Act 1936 subsection 262A(1D) Case References: Giris Pty Ltd v. Federal Commissioner of Taxation (1969) 119 CLR 365 69 ATC 4015 (1969) 1 ATR 3 Related ATO Interpretative Decisions ATO ID 2004/860 ATO ID 2004/862 Keywords Construction expenditure area Pool of construction expenditure Insurance Siebel/TDMS Reference Number: 4006024 Business Line: Public Groups and International Date of publication: 5 November 2004 ISSN: 1445-2782

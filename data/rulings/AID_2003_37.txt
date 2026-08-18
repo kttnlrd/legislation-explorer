@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/37
-==================================================
-
-Capital Gains Tax
- CGT roll-over: whether a partnership can be a member of a 'wholly owned group'
- FOI status: may be released
-
-This ATO ID has been amended by deleting a paragraph that refers to subection 975-100(1) of the ITAA 1997 which was repealed with effect from 1 April 2005 by Tax Laws Amendment Act (2004 Measures No 7) 2005.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Capital Gains Tax CGT roll-over: whether a partnership can be a member of a 'wholly owned group' FOI status: may be released This ATO ID has been amended by deleting a paragraph that refers to subection 975-100(1) of the ITAA 1997 which was repealed with effect from 1 April 2005 by Tax Laws Amendment Act (2004 Measures No 7) 2005. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If an unlimited general partnership formed under a foreign partnership law is a 'company' for tax purposes, does it qualify as a member of the same 'wholly-owned group' as required by subsection 126-50(1) of the Income Tax Assessment Act 1997 (ITAA 1997), so as to enable its partners to obtain capital gains tax (CGT) roll-over on contributing shares to the partnership?
 Decision
 No. The partnership is not a body corporate with shares for purposes of Subdivision 975-W of the ITAA 1997 and therefore cannot be a member of the same 'wholly-owned group' at the time of the trigger event as required by subsection 126-50(1) of the ITAA 1997.
@@ -35,75 +22,12 @@ each of the companies is a 100% subsidiary of the same third company.
 Subsection 975-505(1) of the ITAA 1997 provides that a company is a '100% subsidiary' of another company if all the shares in the subsidiary company are beneficially owned by the holding company, or one or more 100% subsidiaries of the holding company, or both.
 Subsection 995-1(1) of the ITAA 1997 defines 'share' in a company to mean 'a share in the capital of a company, and includes stock'.
 Paragraph 22 of Taxation Ruling TR 94/30 states that 'an often-used description of a share is that it is an aliquot interest of a shareholder in a company as measured by a sum of money.'
-'Company' is defined in subsection 995-1(1) of the ITAA 1997 as:
-
-a) a body corporate; or
-b) any other unincorporated association or body of persons; but does not include a partnership or a non-entity joint venture.
-
-The expression 'body corporate' resorts to general law principles. The Macquarie Dictionary 3rd edition, 1997, Macquarie University, NSW defines a 'body corporate' as 'an association or group of persons legally incorporated in a corporation'.
-The Macquarie Dictionary also defines a 'corporation' as:
-
-An association of individuals, created by law or under authority of law, having a continuous existence irrespective from that of its members, and powers and liabilities distinct from those of its members.
-
-A company in which a share is held is best described by paragraph (a) of the definition of a 'company' in subsection 995-1(1) of the ITAA 1997, as a 'body corporate'. That is, it has a separate legal identity of its own that it obtains upon becoming incorporated under relevant corporations legislation.
-Tomasic, R, Jackson J, Woellner R 2002 Corporations Law: Principles, Policy and Process, 4th edn, Butterworths, Australia, p.215 expresses the view that:
-
-Upon incorporation, the company "comes into existence as a body corporate" under its specified name at the beginning of the day of registration (s.119) and has the legal capacity and powers of an individual, and all the "special" powers of a body corporate including the power to issue shares and debentures...
-
-A partnership whose separate legal identity can be affected by a variation or amendment to the Partnership Agreement owes that identity not to statute but, essentially, to the Partnership Agreement under contract law. It is therefore incompatible with the concept of an incorporated company pursuant to a corporations law. The partnership is best described by paragraph (b) of the definition of a 'company' in subsection 995-1(1) of the ITAA 1997 as an 'unincorporated association'.
-Furthermore, each partner's interest in the partnership represents under the Partnership Agreement, a proprietary interest in the property of the partnership. The nature of a partnership interest is to confer a beneficial interest in the partnership property. In Federal Commissioner of Taxation v. Everett (1980) 143 CLR 440; 80 ATC 4076; (1980) ATR 608, the majority view of the Full High Court in relation to the nature of a partnership interest was:
-
-Although a partner has no title to specific property owned by the partnership, he has a beneficial interest in the partnership assets, indeed in each and every asset of the partnership (Canny Gabriel Castle Jackson Advertising Pty. Ltd. & Anor. V. Volume Sales (Finance) Pty. Ltd. (1974) 131 C.L.R. 321, at pp. 327-328; Livingston v. Commr. Of Stamp Duties (Qld) (1960) 107 C.L.R. 411, at p. 453).
-
-A partnership interest is different in legal nature to a share in the capital of a company as the latter confers no proprietary interest in the company assets nor confers any proportionate ownership of the company upon its members.
+'Company' is defined in subsection 995-1(1) of the ITAA 1997 as: a) a body corporate; or
+b) any other unincorporated association or body of persons; but does not include a partnership or a non-entity joint venture. The expression 'body corporate' resorts to general law principles. The Macquarie Dictionary 3rd edition, 1997, Macquarie University, NSW defines a 'body corporate' as 'an association or group of persons legally incorporated in a corporation'.
+The Macquarie Dictionary also defines a 'corporation' as: An association of individuals, created by law or under authority of law, having a continuous existence irrespective from that of its members, and powers and liabilities distinct from those of its members. A company in which a share is held is best described by paragraph (a) of the definition of a 'company' in subsection 995-1(1) of the ITAA 1997, as a 'body corporate'. That is, it has a separate legal identity of its own that it obtains upon becoming incorporated under relevant corporations legislation.
+Tomasic, R, Jackson J, Woellner R 2002 Corporations Law: Principles, Policy and Process, 4th edn, Butterworths, Australia, p.215 expresses the view that: Upon incorporation, the company "comes into existence as a body corporate" under its specified name at the beginning of the day of registration (s.119) and has the legal capacity and powers of an individual, and all the "special" powers of a body corporate including the power to issue shares and debentures... A partnership whose separate legal identity can be affected by a variation or amendment to the Partnership Agreement owes that identity not to statute but, essentially, to the Partnership Agreement under contract law. It is therefore incompatible with the concept of an incorporated company pursuant to a corporations law. The partnership is best described by paragraph (b) of the definition of a 'company' in subsection 995-1(1) of the ITAA 1997 as an 'unincorporated association'.
+Furthermore, each partner's interest in the partnership represents under the Partnership Agreement, a proprietary interest in the property of the partnership. The nature of a partnership interest is to confer a beneficial interest in the partnership property. In Federal Commissioner of Taxation v. Everett (1980) 143 CLR 440; 80 ATC 4076; (1980) ATR 608, the majority view of the Full High Court in relation to the nature of a partnership interest was: Although a partner has no title to specific property owned by the partnership, he has a beneficial interest in the partnership assets, indeed in each and every asset of the partnership (Canny Gabriel Castle Jackson Advertising Pty. Ltd. & Anor. V. Volume Sales (Finance) Pty. Ltd. (1974) 131 C.L.R. 321, at pp. 327-328; Livingston v. Commr. Of Stamp Duties (Qld) (1960) 107 C.L.R. 411, at p. 453). A partnership interest is different in legal nature to a share in the capital of a company as the latter confers no proprietary interest in the company assets nor confers any proportionate ownership of the company upon its members.
 Tomasic R, Bottomley S & McQueen R,2002, Corporations Law in Australia, The Federation Press, Australia, p.447, expresses such a view that the share, although a fraction of the capital, is the property of the shareholder entirely distinct from the company's property.
-Even if a partnership is characterised as a company for the purposes of subsection 995-1(1) of the ITAA 1997, it cannot be a member of the same 'wholly-owned group' for the purposes of section 975-505 of the ITAA 1997 given that:
-
-•it is not an incorporated company; and
-•the partnership interests held by the partners do not constitute shares in the capital of a company.
-
-The requirement in subsection 126-50(1) of the ITAA 1997 for roll-over is not satisfied. The partners are not able to obtain CGT roll-over on contributing shares to the partnership.
-Date of decision:
-  21 June 2002
-
-Year of income:
-  Year ended 30 June 2002 Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 126-B   subsection 126-50(1)   Subdivision 975-W   subsection 975-100(1)   section 975-500   section 975-505   subsection 975-505(1)   subsection 995-1(1)
-
-Case References:
-
-Federal Commissioner of Taxation v. Everett   (1980) 143 CLR 440   80 ATC 4076   10 ATR 608
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 94/30
-
-Other References:
-
-The Macquarie Dictionary, 3rd edition, 1997, Macquarie University, NSW
- Tomasic, R, Jackson J, Woellner R 2002 Corporations Law: Principles, Policy and Process, 4th edn, Butterworths, Australia, p.215
- Tomasic, R, Bottomley S & McQueen R,2002, Corporations Law in Australia, The Federation Press, Australia, p.447
-
-Keywords
-
-CGT roll-over relief
- Non resident partnerships
- Ownership, interests, control & rights
- Exchange of shares
- CGT event A1-disposal of a CGT asset
- CGT companies in the same wholly owned group
-
-Siebel/TDMS Reference Number:
-  CW376521
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 February 2003
-
-ISSN:
- 1445-2782
+Even if a partnership is characterised as a company for the purposes of subsection 995-1(1) of the ITAA 1997, it cannot be a member of the same 'wholly-owned group' for the purposes of section 975-505 of the ITAA 1997 given that: •it is not an incorporated company; and
+•the partnership interests held by the partners do not constitute shares in the capital of a company. The requirement in subsection 126-50(1) of the ITAA 1997 for roll-over is not satisfied. The partners are not able to obtain CGT roll-over on contributing shares to the partnership.
+Date of decision: 21 June 2002 Year of income: Year ended 30 June 2002 Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Subdivision 126-B subsection 126-50(1) Subdivision 975-W subsection 975-100(1) section 975-500 section 975-505 subsection 975-505(1) subsection 995-1(1) Case References: Federal Commissioner of Taxation v. Everett (1980) 143 CLR 440 80 ATC 4076 10 ATR 608 Related Public Rulings (including Determinations) Taxation Ruling TR 94/30 Other References: The Macquarie Dictionary, 3rd edition, 1997, Macquarie University, NSW Tomasic, R, Jackson J, Woellner R 2002 Corporations Law: Principles, Policy and Process, 4th edn, Butterworths, Australia, p.215 Tomasic, R, Bottomley S & McQueen R,2002, Corporations Law in Australia, The Federation Press, Australia, p.447 Keywords CGT roll-over relief Non resident partnerships Ownership, interests, control & rights Exchange of shares CGT event A1-disposal of a CGT asset CGT companies in the same wholly owned group Siebel/TDMS Reference Number: CW376521 Business Line: Public Groups and International Date of publication: 28 February 2003 ISSN: 1445-2782

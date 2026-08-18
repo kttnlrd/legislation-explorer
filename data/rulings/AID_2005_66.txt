@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/66
-==================================================
-
-Income Tax
- Amendment of Distribution Statement: Commissioner's determination
- FOI status: may be released
-
-This ATO ID is withdrawn as it does not accurately reflect the ATO view
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Amendment of Distribution Statement: Commissioner's determination FOI status: may be released This ATO ID is withdrawn as it does not accurately reflect the ATO view This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the Commissioner allow the entity to amend its distribution statement under section 202-85 of the Income Tax Assessment Act 1997 (ITAA 1997) to treat a previous distribution as franked to 100%?
 Decision
 No. The Commissioner will not allow the entity to amend its distribution statement under section 202-85 of the ITAA 1997 to treat a previous distribution as franked to 100% because the decision by the entity to frank the distribution at the earlier rate was not unintended.
@@ -31,66 +16,14 @@ Company B and company C propose to make, by 31 December 2004, distributions fran
 Reasons for Decision
 Section 202-75 of the ITAA 1997 provides that an entity that makes a frankable distribution must give the recipient a distribution statement. Although a distribution statement has not been given by company B to Foreign company, the distribution statement would, in the absence of the Commissioner exercising his discretion under section 202-85, reflect company B's decision to pay a distribution franked to 0%.
 Subsection 202-85(1) of the ITAA 1997 provides that the Commissioner may, on an application by an entity, determine that an entity may change the franking credit on a specified distribution by amending the distribution statement.
-Subsection 202-85(2) of the ITAA 1997 further provides that in deciding whether to make a determination under subsection (1), the Commissioner must have regard to the following:
-
-(a)Whether the date for lodgement of an income tax return by the recipient of the specified distribution for the income year in which the distribution was made has passed.The specified distribution was made in August 2004. Consequently, the relevant income year would be the income year ended 31 December 2004. Therefore, the date for lodgement of the tax return by the recipient, if required, has not yet passed.
+Subsection 202-85(2) of the ITAA 1997 further provides that in deciding whether to make a determination under subsection (1), the Commissioner must have regard to the following: (a)Whether the date for lodgement of an income tax return by the recipient of the specified distribution for the income year in which the distribution was made has passed.The specified distribution was made in August 2004. Consequently, the relevant income year would be the income year ended 31 December 2004. Therefore, the date for lodgement of the tax return by the recipient, if required, has not yet passed.
 (b)Whether, if the franking credit on the specified distribution were changed in accordance with the entity's application, there would be any difference in the withholding tax liability of the recipient.The recipient, Foreign company, is a non-resident company and would have been liable for withholding tax upon receipt of the specified distribution franked to 0%. However, in the event that the Commissioner permits the franking credit on the distribution to be changed to reflect a franking percentage of 100%, paragraph 128B(3)(ga) of the Income Tax Assessment Act 1936 (ITAA 36) will relieve Foreign company from liability to withholding tax.
 (c)Whether amending the distribution statement as requested by the entity would lead to a breach of the benchmark rule, or any of the rules in Division 204 of the ITAA 1997 (the anti-streaming rules).The specified distribution was the first frankable distribution made by the entity in the relevant franking period. In accordance with section 203-30 of the ITAA 1997, the benchmark franking percentage for that period was set at 0%. Consequently, should the Commissioner exercise his discretion to permit the entity to change the franking credit on the distribution statement, no breach of the benchmark rule would occur. Furthermore, the anti-streaming rules contained in Division 204 of the ITAA 1997 will not be triggered as the distribution was made to the sole member of the entity.
 (d)Whether amending the distribution statement as requested by the entity would lead to a new benchmark franking percentage being set for the entity for the franking period in which the distribution was made.As the specified distribution was the first distribution made by the entity in the relevant franking period, permitting the entity to change the franking credits on the distribution statement will effectively result in the setting of a new benchmark franking percentage of 100%. This discretion was not designed to change the benchmark franking percentage.
-(e)Any other matters that the Commissioner considers relevant.The Explanatory Memorandum to the New Business Tax System (Imputation) Act 2002 provides some insight as to the legislative intent behind the discretion available to the Commissioner under section 202-85. It states at paragraph 2.36:
-
-The legislation provides that the amount of franking credit on a distribution is the amount stated on the distribution statement. In the event that the franking credit stated on the distribution statement was not intended, steps may be taken by the entity to amend the distribution statement.
-At the time of the payment of the specified distribution, the group had not yet finalised its franking account balance to take into consideration the impact of Tax Consolidations. As a result, neither company A nor company B were able to confirm if the MEC group had sufficient franking credits to fully frank the distribution. Therefore, in an abundance of caution, company B made a distribution franked to 0%. Subsequently the group determined that there were sufficient franking credits to frank the distribution to 100%.This demonstrates that the MEC group did give consideration to the franking of the distribution and clearly intended to frank to 0%. It cannot be concluded that the decision to frank the distribution to 0% was not intended.
-
-Accordingly, the Commissioner will not exercise his discretion under section 202-85 of the ITAA 1997 to permit the taxpayer to amend the franking credits stipulated on the distribution statement as the franking credit stipulated was not unintended.
-Date of decision:
-  17 February 2005
-
-Year of income:
-  Year ending 31 December 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   paragraph 128B(3)(ga)
-Income Tax Assessment Act 1997   section 202-75   section 202-85
-
-Other References:
-
- Explanatory Memorandum - New Business Tax System (Imputation) Act 2002
-
-Keywords
-
-Commissioner's discretion
- Consolidation
- Consolidation - franking
- Distributions
- Dividend streaming arrangements
- Frankable dividends
- Franking credits
- Imputation system
- Unfranked dividends
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  25 February 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-17 February 2005
-Original statement
-
-You are here
+(e)Any other matters that the Commissioner considers relevant.The Explanatory Memorandum to the New Business Tax System (Imputation) Act 2002 provides some insight as to the legislative intent behind the discretion available to the Commissioner under section 202-85. It states at paragraph 2.36: The legislation provides that the amount of franking credit on a distribution is the amount stated on the distribution statement. In the event that the franking credit stated on the distribution statement was not intended, steps may be taken by the entity to amend the distribution statement.
+At the time of the payment of the specified distribution, the group had not yet finalised its franking account balance to take into consideration the impact of Tax Consolidations. As a result, neither company A nor company B were able to confirm if the MEC group had sufficient franking credits to fully frank the distribution. Therefore, in an abundance of caution, company B made a distribution franked to 0%. Subsequently the group determined that there were sufficient franking credits to frank the distribution to 100%.This demonstrates that the MEC group did give consideration to the franking of the distribution and clearly intended to frank to 0%. It cannot be concluded that the decision to frank the distribution to 0% was not intended. Accordingly, the Commissioner will not exercise his discretion under section 202-85 of the ITAA 1997 to permit the taxpayer to amend the franking credits stipulated on the distribution statement as the franking credit stipulated was not unintended.
+Date of decision: 17 February 2005 Year of income: Year ending 31 December 2004 Legislative References: Income Tax Assessment Act 1936 paragraph 128B(3)(ga)
+Income Tax Assessment Act 1997 section 202-75 section 202-85 Other References: Explanatory Memorandum - New Business Tax System (Imputation) Act 2002 Keywords Commissioner's discretion Consolidation Consolidation - franking Distributions Dividend streaming arrangements Frankable dividends Franking credits Imputation system Unfranked dividends Business Line: Finance and Investment Centre of Expertise Date of publication: 25 February 2005 ISSN: 1445-2782 history Date: Version: 17 February 2005
+Original statement You are here
 28 October 2005
 Archived

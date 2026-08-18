@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2010/156
-==================================================
-
-Goods and Services Tax
- GST and treatment of a currency hedge agreement embedded within a contract for services
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and treatment of a currency hedge agreement embedded within a contract for services FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the agreement, described in the facts, involve each entity making a financial supply of an interest in a derivative under item 11 in the table in subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations)?
 Decision
 Yes, under the agreement described in the facts, each entity makes a financial supply by providing the other entity with an interest in a derivative under item 11 in the table in subregulation 40-5.09(3) of the GST Regulations.
@@ -33,20 +18,10 @@ Step 4: Parts 1 and 2 are then added back to give the total amount payable in US
 If movements in the exchange rate from the contract date to the day of payment cause the AUD to appreciate against the USD (as in the example figures above), Entity A will make a gain under the hedge agreement and Entity B will make a corresponding loss. Alternatively, if exchange rate fluctuations cause the AUD to depreciate against the USD, the reverse will apply.
 Reasons for Decision
 Subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) provides that a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that 'financial supply' has the meaning given by the GST Regulations.
-Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations (a financial interest) is a financial supply if:
-
-(a)the provision, acquisition or disposal of that interest is:
-
-i)for consideration
+Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations (a financial interest) is a financial supply if: (a)the provision, acquisition or disposal of that interest is: i)for consideration
 ii)in the course or furtherance of an enterprise
-iii)connected with Australia, and
-
-(b)the supplier is:
-
-i)registered or required to be registered for GST, and
-ii)a financial supply provider in relation to the supply of the interest.
-
-However, the provision of a financial interest will not be a financial supply where the provision is a feature of a transaction which is objectively assessed as being integral, ancillary or incidental to the essential character of the transaction.
+iii)connected with Australia, and (b)the supplier is: i)registered or required to be registered for GST, and
+ii)a financial supply provider in relation to the supply of the interest. However, the provision of a financial interest will not be a financial supply where the provision is a feature of a transaction which is objectively assessed as being integral, ancillary or incidental to the essential character of the transaction.
 A supply in which the provision of a financial interest forms merely an integral, ancillary or incidental part is a composite supply. A composite supply is treated as the supply of a single thing and for GST purposes assumes the character of the dominant part. If the dominant part of such a supply is services, the composite supply is treated as a taxable supply if it satisfies the requirements of section 9-5 of the GST Act. This is explained in GSTR 2001/8: apportioning the consideration for a supply that includes taxable and non-taxable parts (GSTR 2001/8).
 The particular feature under consideration in the facts of this case is the insertion of the agreement by which the entities could hedge against exchange rate gains and losses.
 The value for the supply of services under the supply contract has been negotiated by the entities and fixed in United States dollars (USD). Despite this, the entities have embedded a foreign currency hedge into the supply contract by inserting the agreement.
@@ -58,41 +33,8 @@ By inserting the agreement into the supply contract, the entities have provided 
 On an objective assessment, the supply of the interest in the derivative by Entity A to Entity B is separately identifiable and retains its own identity within the supply contract. It is not merely integral, ancillary or incidental to the essential character of the transaction, and as such the supply of which it is part is not a composite supply.
 With each payment, the difference between amounts calculated under steps 1 and 4 in the facts is the effect of the currency hedge. It may be owing by either entity, depending on movements in the exchange rate. Consistent with the explanation in GSTD 2005/3, it is additional consideration for the supply of the interests.
 In accordance with regulation 40-5.06 of the GST Regulations, each entity is the financial supply provider in relation to the provision of an interest in a derivative. The provision of each interest is for consideration. Each entity is registered for GST and it provides the interest in the course or furtherance of its enterprise. The supply of each interest is connected with Australia. All the requirements in subregulation 40-5.09(1) of the GST Regulations are satisfied, and regulation 40-5.12 of the GST Regulations does not apply.
-It follows that the provision of the interest by each entity is a financial supply of a derivative under Item 11.
-
-Note: The resulting gain or loss made under the currency hedge agreement, while altering the net amount of each payment, does not change the consideration for the supply of services under the contract (the set periodical amounts expressed in USD). Section 9-85 of the GST Act provides that the value of taxable supplies is to be expressed in Australian currency. Goods and Services Tax Ruling GSTR 2001/2: foreign exchange conversions, (GSTR 2001/2) explains how to convert amounts of consideration that are expressed in foreign currency into Australian currency for GST purposes. Using the example set out in the facts, where the amount of each payment is USD 200, Entity A should apply GSTR 2001/2 to convert USD 200 into Australian dollars for its GST purposes.
-
-Date of decision:
-  1 September 2010
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 9-85   subsection 40-5(1)   subsection 40-5(2)
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 40-5.06   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 11   subregulation 40-5.09(4)   regulation 40-5.12   Dictionary   Schedule 7 Part 9
-
-Related Public Rulings (including Determinations)
-
-Good and Services Tax Ruling GSTR 2001/2
+It follows that the provision of the interest by each entity is a financial supply of a derivative under Item 11. Note: The resulting gain or loss made under the currency hedge agreement, while altering the net amount of each payment, does not change the consideration for the supply of services under the contract (the set periodical amounts expressed in USD). Section 9-85 of the GST Act provides that the value of taxable supplies is to be expressed in Australian currency. Goods and Services Tax Ruling GSTR 2001/2: foreign exchange conversions, (GSTR 2001/2) explains how to convert amounts of consideration that are expressed in foreign currency into Australian currency for GST purposes. Using the example set out in the facts, where the amount of each payment is USD 200, Entity A should apply GSTR 2001/2 to convert USD 200 into Australian dollars for its GST purposes. Date of decision: 1 September 2010 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 9-85 subsection 40-5(1) subsection 40-5(2)
+A New Tax System (Goods and Services Tax) Regulations 1999 regulation 40-5.06 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 11 subregulation 40-5.09(4) regulation 40-5.12 Dictionary Schedule 7 Part 9 Related Public Rulings (including Determinations) Good and Services Tax Ruling GSTR 2001/2
 Good and Services Tax Ruling GSTR 2001/8
 Good and Services Tax Ruling GSTR 2002/2
-Goods and Services Tax Determination GSTD 2005/3
-
-Keywords
-
-Goods and services tax
- Taxable supply
- GST consideration
- GST derivatives
- GST financial supplies
-
-Siebel/TDMS Reference Number:
-  1-28BR3YW
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  10 September 2010
-
-ISSN:
- 1445-2782
+Goods and Services Tax Determination GSTD 2005/3 Keywords Goods and services tax Taxable supply GST consideration GST derivatives GST financial supplies Siebel/TDMS Reference Number: 1-28BR3YW Business Line: Indirect Tax Date of publication: 10 September 2010 ISSN: 1445-2782

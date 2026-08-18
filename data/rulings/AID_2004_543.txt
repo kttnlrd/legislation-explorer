@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/543
-==================================================
-
-Income Tax
- Deductibility of interest payments that are exempt from withholding tax
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deductibility of interest payments that are exempt from withholding tax FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If the taxpayer company pays interest on overseas borrowings and deducts no withholding tax from the payment but the payment is one to which section 128F of the Income Tax Assessment Act 1936 (ITAA 1936) applies is the taxpayer denied a deduction for that interest under section 26-25 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. Where a taxpayer company pays interest on overseas borrowings and deducts no withholding tax from the payment but the payment is one to which section 128F of ITAA 1936 applies, section 26-25 of ITAA 1997 will not operate to deny the taxpayer a deduction for the interest.
@@ -23,40 +12,11 @@ The taxpayer is 100% owned by one of the group's trusts and will remain an Austr
 The taxpayer will lend the monies to the trust which will then use the monies to refinance the trust's existing borrowings.
 Reasons for Decision
 Section 26-25 of the ITAA 1997 provides that a taxpayer cannot deduct interest under ITAA 1997 if the taxpayer is required to withhold an amount from the interest under subdivision 12-F of Schedule 1 to the Taxation Administration Act 1953 (TAA 1953) but fails to do so.
-Sections 12-245, 12-250 and 12-255 of Subdivision 12-F of the Schedule set out the circumstances requiring an entity to withhold an amount from, respectively,
-
-•an interest payment it makes to an overseas entity,
+Sections 12-245, 12-250 and 12-255 of Subdivision 12-F of the Schedule set out the circumstances requiring an entity to withhold an amount from, respectively, •an interest payment it makes to an overseas entity,
 •an interest payment it receives for or on behalf of a foreign resident, or
-•an interest payment it makes to either an Australian resident lender or an Australian government agency and the lender or the agency notifies the borrower that the interest is or will be derived in carrying on business through an overseas permanent establishment.
-
-However, section 12-300 provides that there is no requirement to withhold if no withholding tax is payable on the interest. Thus it is necessary to consider whether withholding tax is payable on the interest in question.
+•an interest payment it makes to either an Australian resident lender or an Australian government agency and the lender or the agency notifies the borrower that the interest is or will be derived in carrying on business through an overseas permanent establishment. However, section 12-300 provides that there is no requirement to withhold if no withholding tax is payable on the interest. Thus it is necessary to consider whether withholding tax is payable on the interest in question.
 Withholding tax on interest paid to non-residents and, in certain circumstances, to residents carrying on business through an overseas permanent establishment, is imposed under section 128B of the ITAA 1936. Certain interest payments, however, are exempted, including payments to which subsection 128F(2) of the ITAA 1936 applies.
 The taxpayer proposes that the interest payments it will make on the debentures proposed to be issued will be so exempt. Where interest is exempted under 128F(2) no amount will required to be withheld under subdivision 12-F of Schedule 1 to the TAA 1953, and section 26-25 of the ITAA 1997 will not operate to deny the payer of that interest a deduction for it if the payer is otherwise entitled to it.
-Date of decision:
-  4 June 2004
-
-Year of income:
-  Year ended 30 June 2004 Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 128B   section 128F(2)
-Income Tax Assessment Act 1997   section 26-25
-Tax Administration Act 1953   Schedule 1 section 12-245   Schedule 1 section 12-250   Schedule 1 section 12-255
-
-Keywords
-
-Debentures
- Non-resident interest withholding tax
-
-Siebel/TDMS Reference Number:
-  4018074
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 July 2004
-
-ISSN:
- 1445-2782
+Date of decision: 4 June 2004 Year of income: Year ended 30 June 2004 Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 section 128B section 128F(2)
+Income Tax Assessment Act 1997 section 26-25
+Tax Administration Act 1953 Schedule 1 section 12-245 Schedule 1 section 12-250 Schedule 1 section 12-255 Keywords Debentures Non-resident interest withholding tax Siebel/TDMS Reference Number: 4018074 Business Line: Public Groups and International Date of publication: 2 July 2004 ISSN: 1445-2782

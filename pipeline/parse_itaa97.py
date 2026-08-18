@@ -555,6 +555,20 @@ def parse_volume(
         # Skip unconditional page-header noise after form feed
         if after_form_feed and is_page_header_noise(line):
             i += 1
+            # A wrapped page header can spill onto a second line (e.g.
+            # "Part 2-40 Rules affecting employees ... withholding" followed by
+            # "payments"). Consume short non-structural tails so they don't
+            # reset after_form_feed and let a repeated Division/Part header
+            # flush the current section (CDN-0118: s 83A-45 lost (4)-(6)).
+            while i < len(lines):
+                peek = lines[i].rstrip("\r").strip()
+                if not peek or len(peek) > 24:
+                    break
+                if re.match(r"^(Part|Division|Subdivision|Section)\s+\d", peek):
+                    break
+                if RE_SECTION.match(lines[i]) or RE_SUBSECTION.match(lines[i]):
+                    break
+                i += 1
             continue
 
         # Also strip running headers/footers that appear before a form feed

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/297
-==================================================
-
-Income Tax
- Commercial debt forgiveness - consideration paid or given - calculation of gross forgiven amount of debt
- FOI status: may be released
-
-This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Commercial debt forgiveness - consideration paid or given - calculation of gross forgiven amount of debt FOI status: may be released This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where consideration is paid or given for the forgiveness of a commercial debt is the 'gross forgiven amount' for the purposes of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936) calculated by reference to the consideration paid or given?
 Decision
 Yes. Subsection 245-75(2) of Schedule 2C to the ITAA 1936 provides that where consideration is paid or given for the forgiveness of a commercial debt, the gross forgiven amount of the debt is equal to the amount by which the notional value of the debt at the time of the forgiveness exceeds the consideration.
@@ -25,54 +10,10 @@ Debtor entered into an arm's length loan agreement with a financial institution 
 After 27 June 1996, for commercial reasons, Lender agreed to forgive the balance of the debt payable in consideration of Debtor giving shares with a market value of $50 000 at the time of the forgiveness.
 The notional value of the debt for the purposes of section 245-55 of Schedule 2C to the ITAA 1936 at the time of the forgiveness was $450 000.
 Reasons for Decision
-Subsection 245-75(2) of Schedule 2C to the ITAA 1936 relevantly provides that:
-
-'Subject to subsection (3), if any consideration is paid or given, or taken to be paid or given, in respect of the forgiveness of the debt:
-
-(a)where the notional value of the debt at the time when the debt was forgiven exceeds the consideration - the
- gross forgiven amount
- of the debt is an amount equal to the excess...'
-
-The notional value of the debt at the time when the debt was forgiven was an amount of $450 000, determined in accordance with section 245-55 of Schedule 2C to the ITAA 1936.
+Subsection 245-75(2) of Schedule 2C to the ITAA 1936 relevantly provides that: 'Subject to subsection (3), if any consideration is paid or given, or taken to be paid or given, in respect of the forgiveness of the debt: (a)where the notional value of the debt at the time when the debt was forgiven exceeds the consideration - the gross forgiven amount of the debt is an amount equal to the excess...' The notional value of the debt at the time when the debt was forgiven was an amount of $450 000, determined in accordance with section 245-55 of Schedule 2C to the ITAA 1936.
 The shares that Debtor gave to Lender constitute consideration for the forgiveness of the debt in accordance with paragraph 245-65(1)(b) of Schedule 2C to the ITAA 1936. The consideration is the market value of the shares at the time of the forgiveness ($50 000).
 In accordance with paragraph 245-75(2)(a) of Schedule 2C to the ITAA 1936, the gross forgiven amount of the debt forgiven by Lender is equal to the amount by which the notional value of the debt when the debt was forgiven exceeds the consideration paid, being an amount of $400 000 ($450 000 less $50 000).
-Date of decision:
-  27 February 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2C   Schedule 2C, section 245-55   Schedule 2C, paragraph 245-65(1)(b)   Schedule 2C, subsection 245-75(2)   Schedule 2C, paragraph 245-75(2)(a)
-
-Keywords
-
-CDF consideration
- Debt forgiven
- Gross forgiven amount
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  16 May 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 February 2003
-Original statement
-
-You are here
+Date of decision: 27 February 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 Schedule 2C Schedule 2C, section 245-55 Schedule 2C, paragraph 245-65(1)(b) Schedule 2C, subsection 245-75(2) Schedule 2C, paragraph 245-75(2)(a) Keywords CDF consideration Debt forgiven Gross forgiven amount Business Line: Losses and CGT Centre of Expertise Date of publication: 16 May 2003 ISSN: 1445-2782 history Date: Version: 27 February 2003
+Original statement You are here
 21 November 2008
 Archived

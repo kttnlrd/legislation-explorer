@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/18
-==================================================
-
-Income Tax
- Foreign hybrid rules: treatment of foreign hybrid company as a partnership
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign hybrid rules: treatment of foreign hybrid company as a partnership FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a taxpayer, being an Australian company, liable to be assessed on an amount of franked non-share dividend paid to a United States (US) limited liability company (LLC) in circumstances where Division 830 of Income Tax Assessment Act 1997 (ITAA 1997) applies?
 Decision
 Yes. A taxpayer, being an Australian company, is liable to be assessed on its share of franked non-share dividend paid to an US LLC in circumstances where Division 830 of the ITAA 1997 applies.
@@ -23,55 +12,15 @@ The LLC is not treated as a resident for the purposes of the tax laws of any for
 The taxpayer, being an Australian resident company, is a member of the US LLC and controls all the voting rights in the US LLC.
 The LLC receives a fully franked non-share dividend from an Australian resident company.
 Reasons for decision
-Section 830-20 of the ITAA 1997 provides that a foreign hybrid company is treated as a partnership for Australian tax purposes. Subsection 830-15(1) of the ITAA 1997 sets out the requirements for a foreign hybrid company:
-
-A company is a
- foreign hybrid company
- in relation to an income year if:
-
-(a)at all times during the income year when the company is in existence, the partnership treatment requirements for the income year in subsection (2) or (3) are satisfied; and
+Section 830-20 of the ITAA 1997 provides that a foreign hybrid company is treated as a partnership for Australian tax purposes. Subsection 830-15(1) of the ITAA 1997 sets out the requirements for a foreign hybrid company: A company is a foreign hybrid company in relation to an income year if: (a)at all times during the income year when the company is in existence, the partnership treatment requirements for the income year in subsection (2) or (3) are satisfied; and
 (b)at no time during the income year is the company, for the purposes of a law of any foreign country that imposes *foreign tax on entities because they are residents of the foreign country, a resident of that country; and
 (c)at no time during the income year is the company an Australian resident; and
-(d)disregarding this Division, in relation to the same income year of another taxpayer:
-
-(i)the company is a *CFC at the end of a *statutory accounting period that ends in the income year; and
-(ii)at the end of the statutory accounting period, the taxpayer is an *attributable taxpayer in relation to the CFC with an *attribution percentage greater than nil.
-
-* denotes a term defined in section 995-1 of the ITAA 1997.
-
-In the present case, paragraph 830-15(1)(a) of the ITAA 1997 is satisfied because subsection 830-15(2) of the ITAA 1997 is satisfied. Subsection 830-15(2) requires that a company, being a LLC formed in the US, be treated as a partnership for US tax purposes. The LLC in this case was formed in the US and has elected to be treated as a partnership for US tax purposes.
+(d)disregarding this Division, in relation to the same income year of another taxpayer: (i)the company is a *CFC at the end of a *statutory accounting period that ends in the income year; and
+(ii)at the end of the statutory accounting period, the taxpayer is an *attributable taxpayer in relation to the CFC with an *attribution percentage greater than nil. * denotes a term defined in section 995-1 of the ITAA 1997. In the present case, paragraph 830-15(1)(a) of the ITAA 1997 is satisfied because subsection 830-15(2) of the ITAA 1997 is satisfied. Subsection 830-15(2) requires that a company, being a LLC formed in the US, be treated as a partnership for US tax purposes. The LLC in this case was formed in the US and has elected to be treated as a partnership for US tax purposes.
 Paragraph 830-15(1)(b) of the ITAA 1997 is satisfied because the LLC is not treated as a resident for the purposes of the tax laws of any foreign country.
 Paragraph 830-15(1)(c) of the ITAA 1997 is satisfied because the LLC is not an Australian resident at any time during an income year.
 Paragraph 830-15(1)(d) of the ITAA 1997 is satisfied because the LLC is a CFC and the taxpayer is an attributable taxpayer of the LLC under Part X of Income Tax Assessment Act 1936 (ITAA 1936) with an attributable percentage of 100%. The LLC is a CFC under paragraphs 340(a) and 340(c) of the ITAA 1936 because the taxpayer controlled all the voting rights in the LLC. This control gave the taxpayer 100% direct control interest (section 350 of the ITAA 1936) and 100% direct attribution interest (section 356 of the ITAA 1936) in the LLC. The result is that the taxpayer's associate-inclusive control interest is 100% (section 349 of the ITAA 1936), making the LLC a CFC and the taxpayer an attributable taxpayer under section 361 of the ITAA 1936. The taxpayer's attribution percentage in this case is 100%, being its direct attribution interest (section 362 of the ITAA 1936).
 Having satisfied subsection 830-15(1) of the ITAA 1997, the LLC is a foreign hybrid company and will be treated as a partnership under section 830-20 of the ITAA 1997. The partnership provisions in Division 5 of Part III of the ITAA 1936 will apply to the LLC. The LLC will have to calculate its net income under section 90 of the ITAA 1936, including amounts under Division 207 of the ITAA 1997.
 The taxpayer, being a member of the LLC, is deemed to be a partner of the partnership (section 830-25 of the ITAA 1997) and will have an interest in the partnership's net income equal to its entitlement to the profit of the LLC (section 830-30 of the ITAA 1997). Thus the taxpayer must include as assessable income its share of the LLC's net partnership income (section 92 of the ITAA 1936) including amounts under Division 207 of the ITAA 1997. The relevant share is determined by the percentage of the taxpayer's entitlement to the LLC's profit (section 830-30 of the ITAA 1997).
-Date of decision:
-  23 November 2005
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 90   section 92   section 340   section 349   section 350   section 356   section 361   section 362
-Income Tax Assessment Act 1997   section 830-15   section 830-20   section 830-25   section 830-30   section 207-35
-
-Keywords
-
-Control test
- Controlled foreign companies
- Foreign hybrids
- Franking credits
- International tax
-
-Siebel/TDMS Reference Number:
-  4753644
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  20 January 2006
-
-ISSN:
- 1445-2782
+Date of decision: 23 November 2005 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 section 90 section 92 section 340 section 349 section 350 section 356 section 361 section 362
+Income Tax Assessment Act 1997 section 830-15 section 830-20 section 830-25 section 830-30 section 207-35 Keywords Control test Controlled foreign companies Foreign hybrids Franking credits International tax Siebel/TDMS Reference Number: 4753644 Business Line: Public Groups and International Date of publication: 20 January 2006 ISSN: 1445-2782

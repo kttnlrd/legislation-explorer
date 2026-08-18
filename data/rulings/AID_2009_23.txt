@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2009/23
-==================================================
-
-Income Tax
- Classification of German Trade Tax as Federal Foreign Tax
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Classification of German Trade Tax as Federal Foreign Tax FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is German Trade Tax a 'federal foreign tax' for the purposes of paragraph (a) of the definition of 'tax law' in section 317 of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. German Trade Tax is a 'federal foreign tax' for the purposes of paragraph (a) of the definition of 'tax law' in section 317 of the ITAA 1936.
@@ -28,73 +15,18 @@ All taxpayers engaged in business must lodge a trade tax return with Germany's f
 Any exemption from the GTT applies to all eligible taxpayers in Germany irrespective of location.
 The GewStG is included in all of Germany's double tax agreements.
 Reasons for Decision
-Paragraph (a) of the section 317 of the ITAA 1936 definition of 'tax law' in relation to a listed country or an unlisted country provides that:
-
-(a)if the listed country or the unlisted country has federal foreign tax and either or both of the following:
-
-(i)State foreign tax;
-(ii)municipal foreign tax;
-
-the law of the listed country or the unlisted country that imposes the federal foreign tax.
-
-The term 'foreign tax' as used in section 317 of the ITAA 1936 takes its meaning from subsection 6AB(2) of the ITAA 1936. Subsection 6AB(2) of the ITAA 1936 provides that:
-
-A reference in this Act to foreign tax is a reference to tax imposed by a law of a foreign country, being:
-
-(a)tax upon income; or
+Paragraph (a) of the section 317 of the ITAA 1936 definition of 'tax law' in relation to a listed country or an unlisted country provides that: (a)if the listed country or the unlisted country has federal foreign tax and either or both of the following: (i)State foreign tax;
+(ii)municipal foreign tax; the law of the listed country or the unlisted country that imposes the federal foreign tax. The term 'foreign tax' as used in section 317 of the ITAA 1936 takes its meaning from subsection 6AB(2) of the ITAA 1936. Subsection 6AB(2) of the ITAA 1936 provides that: A reference in this Act to foreign tax is a reference to tax imposed by a law of a foreign country, being: (a)tax upon income; or
 (b)tax upon profits or gains, whether or an income or capital nature; or
-(c)any other tax, being a tax that is subject to an agreement having the force of law under the International Tax Agreements Act 1953;
-
-but does not include a unitary tax or a credit absorption tax.
-
-The GTT is imposed by the GewStG, which is a law of Germany's Federal Parliament. As per section 320 of the ITAA 1936, Part 1 of Schedule 10 to the Income Tax Regulations 1936 provides that Germany is a 'listed country'. As such, the GTT is a tax imposed by a law of a listed country. The GTT is also subject to an agreement having the force of law under the International Tax Agreements Act 1953 (Agreements Act). Article 2(b) of the German double tax agreement (DTA) within Schedule 9 to the Agreements Act provides that the German DTA applies to trade tax in Germany. Accordingly, the GTT is a 'foreign tax'.
+(c)any other tax, being a tax that is subject to an agreement having the force of law under the International Tax Agreements Act 1953; but does not include a unitary tax or a credit absorption tax. The GTT is imposed by the GewStG, which is a law of Germany's Federal Parliament. As per section 320 of the ITAA 1936, Part 1 of Schedule 10 to the Income Tax Regulations 1936 provides that Germany is a 'listed country'. As such, the GTT is a tax imposed by a law of a listed country. The GTT is also subject to an agreement having the force of law under the International Tax Agreements Act 1953 (Agreements Act). Article 2(b) of the German double tax agreement (DTA) within Schedule 9 to the Agreements Act provides that the German DTA applies to trade tax in Germany. Accordingly, the GTT is a 'foreign tax'.
 However, it is necessary to consider whether the GTT is a 'federal foreign tax' for the purposes of section 317 of the ITAA 1936.
-The Commissioner considers the following features of the GTT system are relevant when considering if it is a federal foreign tax:
-
-•the tax is imposed by a federal statute of Germany
+The Commissioner considers the following features of the GTT system are relevant when considering if it is a federal foreign tax: •the tax is imposed by a federal statute of Germany
 •the GewStG applies to businesses carried on in Germany, regardless of location
 •the base for calculating GTT is derived from the federal corporate and personal income tax system of Germany, with additions and deductions imposed by the GewStG
 •the GewStG sets the minimum tax rate of the GTT
 •a trade tax return must be lodged with Germany's federal tax office
 •any exemption from the GTT applies to all eligible taxpayers in Germany irrespective of location, and
-•the German federal government includes the GTT as part of its negotiations of all of its double tax agreements.
-
-As the GTT is a tax based on a law that relates to Germany as a whole, the GTT is a federal foreign tax and not a 'municipal foreign tax' or a 'State foreign tax' under paragraph (a) of the section 317 of the ITAA 1936 definition of tax law.
+•the German federal government includes the GTT as part of its negotiations of all of its double tax agreements. As the GTT is a tax based on a law that relates to Germany as a whole, the GTT is a federal foreign tax and not a 'municipal foreign tax' or a 'State foreign tax' under paragraph (a) of the section 317 of the ITAA 1936 definition of tax law.
 Accordingly, the GewStG is a 'tax law' for the purposes of section 317 of the ITAA 1936.
-Date of decision:
-  25 February 2009
-
-Year of income:
-  Year ending 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Subsection 6AB(2)   Section 317
-International Tax Agreements Act 1953   Schedule 9 Article 2(b)
-
-Related Public Rulings (including Determinations)
-
-Tax Determination TD 2004/31
-
-Other References:
-
-Voelker D and Bodewaldt B, 'Trade Tax' in Voelker D, Bott K & Wolff F, eds, German Tax and Business Law (London: Sweet & Maxwell, 2005), 6001 - 6012.
- Schmitz M and Wagnet G, 'Germany' in CCH Australia Limited, International Master Tax Guide 2008/09 (Sydney: CCH Australia, 5th ed, 2008), 569 - 644.
- Amann R, ed, German Tax Guide (The Hague: Kluwer Law International, 2001).
-
-Keywords
-
-Foreign tax laws
- German
-
-Siebel/TDMS Reference Number:
-  6134338
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 April 2009
-
-ISSN:
- 1445-2782
+Date of decision: 25 February 2009 Year of income: Year ending 30 June 2009 Legislative References: Income Tax Assessment Act 1936 Subsection 6AB(2) Section 317
+International Tax Agreements Act 1953 Schedule 9 Article 2(b) Related Public Rulings (including Determinations) Tax Determination TD 2004/31 Other References: Voelker D and Bodewaldt B, 'Trade Tax' in Voelker D, Bott K & Wolff F, eds, German Tax and Business Law (London: Sweet & Maxwell, 2005), 6001 - 6012. Schmitz M and Wagnet G, 'Germany' in CCH Australia Limited, International Master Tax Guide 2008/09 (Sydney: CCH Australia, 5th ed, 2008), 569 - 644. Amann R, ed, German Tax Guide (The Hague: Kluwer Law International, 2001). Keywords Foreign tax laws German Siebel/TDMS Reference Number: 6134338 Business Line: Public Groups and International Date of publication: 24 April 2009 ISSN: 1445-2782

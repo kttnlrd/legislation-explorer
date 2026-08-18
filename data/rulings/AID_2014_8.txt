@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2014/8
-==================================================
-
-Income Tax
- Cost of trading stock you cease to hold that is taken to be construction expenditure area of capital works
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Cost of trading stock you cease to hold that is taken to be construction expenditure area of capital works CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a sale and buyback of capital works that is deemed to occur in accordance with subsection 70-110(1) of the Income Tax Assessment Act 1997 (ITAA 1997) due to a major restructure of the taxpayer's operations, give rise to a construction expenditure area in accordance with subsection 43-75(3) of the ITAA 1997?
 Decision
 Yes. There is a construction expenditure area in accordance with subsection 43-75(3) of the ITAA 1997 where there is a deemed sale and buyback of capital works in accordance with subsection 70-110(1) of the ITAA 1997 due to a major restructure of the taxpayer's operations.
@@ -22,77 +12,11 @@ As the capital works were held as trading stock when they were constructed, the 
 As part of a major restructure of the taxpayer's operations, the taxpayer stops holding the capital works as trading stock.
 Instead, the capital works will be used by the taxpayer to produce assessable income other than by sale in the ordinary course of business (that is, other than as trading stock).
 Reasons for Decision
-In accordance with subsection 43-75(3) of the ITAA 1997, there is taken to be a construction expenditure area if:
-
-43-75(3)
- There is taken to be a construction expenditure area for capital works purchased by an entity from another entity if:
-
-(a) the capital works would have had a construction expenditure area but for the fact that the other entity did not incur capital expenditure in constructing the capital works; and
+In accordance with subsection 43-75(3) of the ITAA 1997, there is taken to be a construction expenditure area if: 43-75(3) There is taken to be a construction expenditure area for capital works purchased by an entity from another entity if: (a) the capital works would have had a construction expenditure area but for the fact that the other entity did not incur capital expenditure in constructing the capital works; and
 (b) the other entity is not an associate of the entity; and
-(c) the other entity constructed the capital works on land that it owned or leased in the course of a business that included the construction and sale of capital works of that kind.
-
-Note: Subsection (3) makes capital works purchased from a speculative builder eligible for deduction in the hands of the first and subsequent purchasers.
-
-Sometime during the major restructure of the taxpayer's operations, the capital works stopped being held as trading stock as they were no longer held for sale in the ordinary course of business by the taxpayer. Thus, section 70-110 of the ITAA 1997 has application as there is a genuine change in use of the capital works per paragraph 1.28 of the Supplementary Explanatory Memorandum (EM) to Tax Law Improvement Bill (TLIB 1997), which states:
-
-1.28
- These proposed rules will only apply to genuine changes in an assets use. Whether there is a genuine change is determined objectively. For example, if an asset is still held for trading, then putting it to another minor use will not amount to a conversion from trading stock. On the other hand, if a taxpayer stops carrying on business, any remaining stock will be converted to another use. If a taxpayers dominant purpose in converting trading stock to another use is to obtain a tax benefit, Part IVA (the general anti-avoidance provision) will apply and the Commissioner may cancel that tax benefit.
-
-Subsection 70-110(1) of the ITAA 1997 states:
-
-70-110(1
- ) If you stop holding an item as trading stock, but still own it, you are treated as if:
-
-(a) just before it stopped being trading stock, you had sold it to someone else (at arm's length and in the ordinary course of business) for its cost; and
-(b) you had immediately bought it back for the same amount.
-
-The context of the deemed sale and re-acquisition in subsection 70-110(1) of the ITAA 1997 is to treat the event as being between unrelated third parties. In this case, there is a 'deemed sale' by the taxpayer at the time just before the capital works stopped being trading stock and an immediate 're-acquisition' of the capital works.
-The EM to TLIB 1997, which introduced subsection 70-110(1) of the ITAA 1997 states:
-
-1.27
- The taxpayer will also be treated as immediately re-purchasing the asset for its cost. That amount will be relevant to working out the assets cost base for other income tax purposes (for example, for calculating a capital gain or loss if the asset is sold later, or for working out any later depreciation).
-
-While not expressly stated in section 70-110 of the ITAA 1997 or the EM, both the examples in section 70-110 of the ITAA 1997 and the EM suggests that the deeming is meant to have broad application to other parts of the Act, particularly where it is necessary to determine a cost of the asset for income tax purposes via the deemed re-acquisition that is taken to occur by the application of paragraph 70-110(b) of the ITAA 1997.
-The deemed sale and re-acquisition under subsection 70-110(1) of the ITAA 1997 satisfies the requirements of subsection 43-75(3) of the ITAA 1997 as it is taken to be between unrelated third parties. In the context of subsection 43-75(3), the statutory deeming in section 70-110 of the ITAA 1997 also extends the transaction to not being a transaction between associates. As the taxpayer constructed the capital works, which were held as trading stock, on land the taxpayer owned in the course of a business that included the construction and sale of capital works, the requirements of subsection 43-75(3) are satisfied.
-
-Note:
- This ATO Interpretative Decision (ATO ID) only applies in situations where there is a genuine change of use of the capital works, as opposed to situations where taxpayers are temporarily using the capital works to produce assessable income other than by sale in the ordinary course of business (putting the capital works that is trading stock to another minor use), such as those found in ATO ID 2003/377 and paragraphs 32 and 34 of Taxation Ruling TR 97/25.
+(c) the other entity constructed the capital works on land that it owned or leased in the course of a business that included the construction and sale of capital works of that kind. Note: Subsection (3) makes capital works purchased from a speculative builder eligible for deduction in the hands of the first and subsequent purchasers. Sometime during the major restructure of the taxpayer's operations, the capital works stopped being held as trading stock as they were no longer held for sale in the ordinary course of business by the taxpayer. Thus, section 70-110 of the ITAA 1997 has application as there is a genuine change in use of the capital works per paragraph 1.28 of the Supplementary Explanatory Memorandum (EM) to Tax Law Improvement Bill (TLIB 1997), which states: 1.28 These proposed rules will only apply to genuine changes in an assets use. Whether there is a genuine change is determined objectively. For example, if an asset is still held for trading, then putting it to another minor use will not amount to a conversion from trading stock. On the other hand, if a taxpayer stops carrying on business, any remaining stock will be converted to another use. If a taxpayers dominant purpose in converting trading stock to another use is to obtain a tax benefit, Part IVA (the general anti-avoidance provision) will apply and the Commissioner may cancel that tax benefit. Subsection 70-110(1) of the ITAA 1997 states: 70-110(1 ) If you stop holding an item as trading stock, but still own it, you are treated as if: (a) just before it stopped being trading stock, you had sold it to someone else (at arm's length and in the ordinary course of business) for its cost; and
+(b) you had immediately bought it back for the same amount. The context of the deemed sale and re-acquisition in subsection 70-110(1) of the ITAA 1997 is to treat the event as being between unrelated third parties. In this case, there is a 'deemed sale' by the taxpayer at the time just before the capital works stopped being trading stock and an immediate 're-acquisition' of the capital works.
+The EM to TLIB 1997, which introduced subsection 70-110(1) of the ITAA 1997 states: 1.27 The taxpayer will also be treated as immediately re-purchasing the asset for its cost. That amount will be relevant to working out the assets cost base for other income tax purposes (for example, for calculating a capital gain or loss if the asset is sold later, or for working out any later depreciation). While not expressly stated in section 70-110 of the ITAA 1997 or the EM, both the examples in section 70-110 of the ITAA 1997 and the EM suggests that the deeming is meant to have broad application to other parts of the Act, particularly where it is necessary to determine a cost of the asset for income tax purposes via the deemed re-acquisition that is taken to occur by the application of paragraph 70-110(b) of the ITAA 1997.
+The deemed sale and re-acquisition under subsection 70-110(1) of the ITAA 1997 satisfies the requirements of subsection 43-75(3) of the ITAA 1997 as it is taken to be between unrelated third parties. In the context of subsection 43-75(3), the statutory deeming in section 70-110 of the ITAA 1997 also extends the transaction to not being a transaction between associates. As the taxpayer constructed the capital works, which were held as trading stock, on land the taxpayer owned in the course of a business that included the construction and sale of capital works, the requirements of subsection 43-75(3) are satisfied. Note: This ATO Interpretative Decision (ATO ID) only applies in situations where there is a genuine change of use of the capital works, as opposed to situations where taxpayers are temporarily using the capital works to produce assessable income other than by sale in the ordinary course of business (putting the capital works that is trading stock to another minor use), such as those found in ATO ID 2003/377 and paragraphs 32 and 34 of Taxation Ruling TR 97/25.
 In all cases, if a taxpayer's dominant purpose in converting trading stock to another use is to obtain a tax benefit, Part IVA (the general anti-avoidance provision) will apply and the Commissioner may cancel that tax benefit.
-Date of decision:
-  18 February 2014
-
-Year of income:
-  Year ended 30 June 2014
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 43-75(3)   section 70-110   subsection 70-110(1)   paragraph 70-110(b)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 97/25
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/377
-
-Other References:
-
- Supplementary Explanatory Memorandum (EM) to Tax Law Improvement Bill 1997
-
-Keywords
-
-Capital Works Deductions
- Trading Stock
-
-Siebel/TDMS Reference Number:
-  1-55GTRIM
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 February 2014
-
-ISSN:
- 1445-2782
+Date of decision: 18 February 2014 Year of income: Year ended 30 June 2014 Legislative References: Income Tax Assessment Act 1997 subsection 43-75(3) section 70-110 subsection 70-110(1) paragraph 70-110(b) Related Public Rulings (including Determinations) Taxation Ruling TR 97/25 Related ATO Interpretative Decisions ATO ID 2003/377 Other References: Supplementary Explanatory Memorandum (EM) to Tax Law Improvement Bill 1997 Keywords Capital Works Deductions Trading Stock Siebel/TDMS Reference Number: 1-55GTRIM Business Line: Public Groups and International Date of publication: 28 February 2014 ISSN: 1445-2782

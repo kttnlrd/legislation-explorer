@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/196
-==================================================
-
-Goods and Services Tax
- GST and Supply of patient records under a subpoena
- FOI status: may be released
-
-This ATO ID is withdrawn as it is superseded by the fact sheet ' GST and medical services' (NAT 4649-11.2005).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and Supply of patient records under a subpoena FOI status: may be released This ATO ID is withdrawn as it is superseded by the fact sheet ' GST and medical services' (NAT 4649-11.2005). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a medical practitioner, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it provides patient records in accordance with a subpoena?
 Decision
 Yes, the entity is making a taxable supply under section 9-5 of the GST Act when it provides patient records in accordance with a subpoena.
@@ -26,72 +11,20 @@ The entity is neither an 'Australian government agency' (as defined in section 1
 The entity receives a monetary fee (known as 'production money') for providing the patient's records. There is no medicare benefit payable for the service that the entity is providing.
 The entity is registered for goods and services tax (GST). The entity is making the supply of patient records in Australia.
 Reasons For Decision
-Under section 9-5 of the GST Act, an entity is making a taxable supply if:
-
-(a) the entity makes the supply for consideration; and
+Under section 9-5 of the GST Act, an entity is making a taxable supply if: (a) the entity makes the supply for consideration; and
 (b) the supply is made in the course or furtherance of any enterprise that the entity carries on; and
 (c) the supply is connected with Australia; and
-(d) the entity is registered, or required to be registered for GST.
-
-In this case, the supply takes place in Australia and is therefore connected with Australia (as per paragraph 9-5(c) of the GST Act). Furthermore, as the entity is registered for GST (as per paragraph 9-5(d) of the GST Act), the question at issue is whether the supply by the entity is made for consideration and is in the course or furtherance of the entity's enterprise (as per paragraphs 9-5(a) and 9-5(b) of the GST Act).
+(d) the entity is registered, or required to be registered for GST. In this case, the supply takes place in Australia and is therefore connected with Australia (as per paragraph 9-5(c) of the GST Act). Furthermore, as the entity is registered for GST (as per paragraph 9-5(d) of the GST Act), the question at issue is whether the supply by the entity is made for consideration and is in the course or furtherance of the entity's enterprise (as per paragraphs 9-5(a) and 9-5(b) of the GST Act).
 It is considered that where an entity is required to produce documents or give evidence that relates to an enterprise that it conducts, the production of those documents or the giving of evidence will also be in the course or furtherance of the enterprise. In the practice of medicine, this commonly occurs in two situations. An entity may be required to produce medical records of treatment provided to a patient; or it may be required to give expert medical evidence. Generally, payments for or connected with that supply, including payments of 'production money', will be consideration for that supply.
 However, under the A New Tax System (Goods and Services Tax) (Exempt Taxes, Fees and Charges) Determination 2000 made pursuant to Division 81 of the GST Act, some payments to professional or expert witnesses for evidence supplied in accordance with a subpoena will not be 'consideration' (as per paragraph 9-5(a) of the GST Act), where the professional or expert witness is an Australian government agency (as defined in section 195-1 of the GST Act).
 In this case, this exception does not apply because the entity is not an Australian government agency. Therefore, as the entity is making a supply for consideration in the course or furtherance of its enterprise as a medical practitioner, when it provides patient records to a court in accordance with a subpoena; the supply meets the positive limbs of section 9-5 of the GST Act.
-However, the negative limb of section 9-5 of the GST Act provides that a supply is not a taxable supply to the extent that it is GST-free or input taxed. Of most relevance to this case is section 38-7 of the GST Act, which provides that a supply of a 'medical service' is GST-free. 'Medical service' is defined in section 195-1 of the GST Act to mean:
-
-• a service for which medicare benefit is payable under Part II of the Health Insurance Act 1973; or
-• any other service supplied by or on behalf of a medical practitioner or approved pathology practitioner that is generally accepted in the medical profession as being necessary for the appropriate treatment of the recipient of the supply.
-
-In this case, there is no medicare benefit payable for the supply made by the entity. Therefore, the question at issue is whether the entity is making a supply that is generally accepted in the medical profession as being necessary for the appropriate treatment of the recipient of the supply, as per the second limb of the definition of medical service in section 195-1 of the GST Act.
+However, the negative limb of section 9-5 of the GST Act provides that a supply is not a taxable supply to the extent that it is GST-free or input taxed. Of most relevance to this case is section 38-7 of the GST Act, which provides that a supply of a 'medical service' is GST-free. 'Medical service' is defined in section 195-1 of the GST Act to mean: • a service for which medicare benefit is payable under Part II of the Health Insurance Act 1973; or
+• any other service supplied by or on behalf of a medical practitioner or approved pathology practitioner that is generally accepted in the medical profession as being necessary for the appropriate treatment of the recipient of the supply. In this case, there is no medicare benefit payable for the supply made by the entity. Therefore, the question at issue is whether the entity is making a supply that is generally accepted in the medical profession as being necessary for the appropriate treatment of the recipient of the supply, as per the second limb of the definition of medical service in section 195-1 of the GST Act.
 Section 195-1 of the GST Act defines 'recipient', in relation to a supply, as the entity to which the supply is made. In this case, the recipient of the supply is not the patient of the medical practitioner but rather a third party (i.e., the party that requested the subpoena).
 'Appropriate treatment' of a recipient is not defined in the GST Act. However, it is considered that appropriate treatment will be established where a practitioner assesses the recipient's state of health and determines a process to pursue in an attempt to preserve, restore or improve the physical or psychological wellbeing of the recipient.
 Accordingly, when the entity provides patient records to a court in accordance with a subpoena, the entity is not supplying appropriate treatment to the recipient of the supply. As such, the entity is not making a GST-free supply under section 38-7 of the GST Act.
 In this case, the entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, as the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act; the entity is making a taxable supply under section 9-5 of the GST Act.
-Date of decision:
-  13 June 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   paragraph 9-5(a)   paragraph 9-5(b)   paragraph 9-5(c)   paragraph 9-5(d)   Division 38   section 38-7   Division 40   Division 81   section 195-1
-Health Insurance Act 1973   Part II
-
-Other References:
-
-A New Tax System (Goods and Services Tax) (Exempt Taxes, Fees and Charges) Determination 2000
- Health Industry Issues Register issue 1.a.1
-
-Keywords
-
-Goods & services tax
- GST free
- GST health
- Medical services
- GST supplies & acquisitions
- GST consideration
- GST enterprise
- Taxable supply
-
-Business Line:
-  GST
-
-Date of publication:
-  14 August 2001
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 June 2001
-Original statement
-
-You are here
- 4 May 2007
+Date of decision: 13 June 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 paragraph 9-5(a) paragraph 9-5(b) paragraph 9-5(c) paragraph 9-5(d) Division 38 section 38-7 Division 40 Division 81 section 195-1
+Health Insurance Act 1973 Part II Other References: A New Tax System (Goods and Services Tax) (Exempt Taxes, Fees and Charges) Determination 2000 Health Industry Issues Register issue 1.a.1 Keywords Goods & services tax GST free GST health Medical services GST supplies & acquisitions GST consideration GST enterprise Taxable supply Business Line: GST Date of publication: 14 August 2001 ISSN: 1445-2782 history Date: Version: 13 June 2001
+Original statement You are here 4 May 2007
 Archived

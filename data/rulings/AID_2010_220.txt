@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/220
-==================================================
-
-Income Tax
- Functional currency: the interaction between 'functional currency' for accounting purposes and the 'applicable functional currency' for taxation purposes
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Functional currency: the interaction between 'functional currency' for accounting purposes and the 'applicable functional currency' for taxation purposes FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where an entity has a 'functional currency' for accounting purposes, will this of itself qualify that currency as the entity's 'applicable functional currency' for taxation purposes?
 Decision
 No, an entity's 'functional currency' for accounting purposes will not qualify as the 'applicable functional currency' for taxation purposes unless the requirements set out in section 960-70 of Subdivision 960-D of the Income Tax Assessment Act 1997 (ITAA 1997) are met.
@@ -26,86 +15,19 @@ Reasons for Decision
 Section 960-59 of the ITAA 1997 states that the object of Subdivision 960-D of the ITAA 1997, dealing with functional currency, is for the purposes of reducing compliance costs and reflecting commercial practice to allow certain entities whose accounts are kept solely or predominantly in a particular foreign currency to calculate their net incomes by reference to the functional currency.
 Under item 1 of the table in subsection 960-60(1) of the ITAA 1997, an Australian resident that is required to prepare financial reports under section 292 of the Corporations Act 2001 may choose to use the 'applicable functional currency'.
 For an Australian resident making a choice under item 1 of the table in subsection 960-60(1) of the ITAA 1997, the 'applicable functional currency' is defined in subsection 960-70(1) of the ITAA 1997 to be the sole or predominant foreign currency in which they kept their 'accounts' at the time they made the choice.
-Subsection 960-70(4) of the ITAA 1997 defines 'accounts' to mean:
-
-a)ledgers; and
+Subsection 960-70(4) of the ITAA 1997 defines 'accounts' to mean: a)ledgers; and
 b)journals; and
 c)statements of financial performance; and
 d)profit and loss accounts; and
 e)balance-sheets; and
-f)statements of financial position;
-
-and includes statements, reports and notes attached to, or intended to be read with, any of the foregoing.
-
-Item 1 of the table in subsection 960-90(1) of the ITAA 1997 has the effect that, where you have previously made a choice under subsection 960-60(1), you may withdraw this choice where your 'applicable functional currency' has ceased to be the sole or predominant currency in which you keep your 'accounts' (within the meaning of section 960-70).
-The Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003 (the EM) relevantly states:
-
-3.54 ... Broadly, an entity's
- applicable functional currency
- is the sole or predominant currency in which its accounts are kept ... This aligns the commercial rationale for accounting in a foreign currency with the use of that currency for income tax purposes. ...
-
-3.55 For Australian residents required to prepare financial reports under section 292 of the Corporations Act 2001, the applicable functional currency for the income year and each later year for which the choice is in effect, is the sole or predominant foreign currency in which the books of account are kept. ...
-
-3.86 A taxpayer is not compelled to withdraw a choice and
- the choice can only be withdrawn
- if the applicable foreign currency has ceased to be the sole or predominant currency in which the entity ... keeps its books of account. [Emphasis added in paragraph 3.86 of the EM].
-
-The EM thereby supports the legislation that, fundamental to being able to choose to use the 'applicable functional currency', or to withdraw the choice to use the 'applicable functional currency', an entity must keep or cease to keep, as is applicable, their books of account solely or predominantly in the relevant foreign currency.
-For accounting purposes, the Australian Accounting Standards Board (AASB) adopted the Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates, which applies to annual reporting periods beginning on or after 1 January 2005. AASB 121 defines 'functional currency' as the currency of the primary economic environment in which the entity operates, which is normally the currency in which it primarily generates and expends cash (refer to paragraphs 8 and 9 of AASB 121). An entity does not have a free choice as to whether to use functional currency for accounting purposes. Paragraphs 17 and 21 of AASB 121 require that:
-
-17 In preparing financial statements, each entity - whether a stand-alone entity, an entity with foreign operations (such as a parent) or a foreign operation (such as a subsidiary or branch) - determines its functional currency in accordance with paragraphs 9-14. The entity translates foreign currency items into its functional currency and reports the effects of such translation in accordance with paragraphs 20-37 and 50. ...
-
-21 A foreign currency transaction shall be recorded, on initial recognition in the functional currency, by applying to the foreign currency amount the spot exchange rate between the functional currency and the foreign currency at the date of the transaction.
-
-However, for taxation purposes, the 'applicable functional currency' under subsection 960-70 of the ITAA 1997 is premised on that foreign currency being the sole or predominant foreign currency in which the entity's 'accounts' are kept. In contrast to AASB 121, section 960-60 of the ITAA 1997 has the effect of giving an entity the choice as to whether or not to use a functional currency. It is therefore possible that an entity may have a 'functional currency' for accounting purposes that is different to the entity's 'applicable functional currency' for taxation purposes.
-With regard to the interaction between 'functional currency' for accounting purposes and the 'applicable functional currency' for taxation purposes, paragraph 15 of Taxation Determination TD 2006/4 stated that:
-
-... an entity may be required under Australian law to keep its accounts in a currency other than Australian currency. This is governed currently by whether or not it is required to comply with the relevant Accounting Standard.5 At the time of issue of this Determination, the relevant Accounting Standard was AASB 121.6 It is accepted in relation to a year of income that, where an eligible entity within the meaning of subsection 960-60(1) of the ITAA 1997) is required under AASB 121 to keep its accounts
- so that entries are made in a non-Australian currency
- (referred to in AASB 121 as the 'functional currency'7), then that currency will qualify as the entity's 'applicable functional currency' for the purposes of subsection 960-70(1) of the ITAA 1997.8 [Emphasis added].
-
-The 'functional currency' under AASB 121 will therefore qualify as the entity's 'applicable functional currency' for the purposes of subsection 960-70(1) of the ITAA 1997, only where the entity keeps its 'accounts' in a non-Australian currency
- such that entries are made
- in that (non-Australian) 'functional currency' for accounting purposes in accordance with paragraphs 17 and 21 of AASB 121.
+f)statements of financial position; and includes statements, reports and notes attached to, or intended to be read with, any of the foregoing. Item 1 of the table in subsection 960-90(1) of the ITAA 1997 has the effect that, where you have previously made a choice under subsection 960-60(1), you may withdraw this choice where your 'applicable functional currency' has ceased to be the sole or predominant currency in which you keep your 'accounts' (within the meaning of section 960-70).
+The Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003 (the EM) relevantly states: 3.54 ... Broadly, an entity's applicable functional currency is the sole or predominant currency in which its accounts are kept ... This aligns the commercial rationale for accounting in a foreign currency with the use of that currency for income tax purposes. ... 3.55 For Australian residents required to prepare financial reports under section 292 of the Corporations Act 2001, the applicable functional currency for the income year and each later year for which the choice is in effect, is the sole or predominant foreign currency in which the books of account are kept. ... 3.86 A taxpayer is not compelled to withdraw a choice and the choice can only be withdrawn if the applicable foreign currency has ceased to be the sole or predominant currency in which the entity ... keeps its books of account. [Emphasis added in paragraph 3.86 of the EM]. The EM thereby supports the legislation that, fundamental to being able to choose to use the 'applicable functional currency', or to withdraw the choice to use the 'applicable functional currency', an entity must keep or cease to keep, as is applicable, their books of account solely or predominantly in the relevant foreign currency.
+For accounting purposes, the Australian Accounting Standards Board (AASB) adopted the Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates, which applies to annual reporting periods beginning on or after 1 January 2005. AASB 121 defines 'functional currency' as the currency of the primary economic environment in which the entity operates, which is normally the currency in which it primarily generates and expends cash (refer to paragraphs 8 and 9 of AASB 121). An entity does not have a free choice as to whether to use functional currency for accounting purposes. Paragraphs 17 and 21 of AASB 121 require that: 17 In preparing financial statements, each entity - whether a stand-alone entity, an entity with foreign operations (such as a parent) or a foreign operation (such as a subsidiary or branch) - determines its functional currency in accordance with paragraphs 9-14. The entity translates foreign currency items into its functional currency and reports the effects of such translation in accordance with paragraphs 20-37 and 50. ... 21 A foreign currency transaction shall be recorded, on initial recognition in the functional currency, by applying to the foreign currency amount the spot exchange rate between the functional currency and the foreign currency at the date of the transaction. However, for taxation purposes, the 'applicable functional currency' under subsection 960-70 of the ITAA 1997 is premised on that foreign currency being the sole or predominant foreign currency in which the entity's 'accounts' are kept. In contrast to AASB 121, section 960-60 of the ITAA 1997 has the effect of giving an entity the choice as to whether or not to use a functional currency. It is therefore possible that an entity may have a 'functional currency' for accounting purposes that is different to the entity's 'applicable functional currency' for taxation purposes.
+With regard to the interaction between 'functional currency' for accounting purposes and the 'applicable functional currency' for taxation purposes, paragraph 15 of Taxation Determination TD 2006/4 stated that: ... an entity may be required under Australian law to keep its accounts in a currency other than Australian currency. This is governed currently by whether or not it is required to comply with the relevant Accounting Standard.5 At the time of issue of this Determination, the relevant Accounting Standard was AASB 121.6 It is accepted in relation to a year of income that, where an eligible entity within the meaning of subsection 960-60(1) of the ITAA 1997) is required under AASB 121 to keep its accounts so that entries are made in a non-Australian currency (referred to in AASB 121 as the 'functional currency'7), then that currency will qualify as the entity's 'applicable functional currency' for the purposes of subsection 960-70(1) of the ITAA 1997.8 [Emphasis added]. The 'functional currency' under AASB 121 will therefore qualify as the entity's 'applicable functional currency' for the purposes of subsection 960-70(1) of the ITAA 1997, only where the entity keeps its 'accounts' in a non-Australian currency such that entries are made in that (non-Australian) 'functional currency' for accounting purposes in accordance with paragraphs 17 and 21 of AASB 121.
 In order for an Australian resident to withdraw their functional currency choice made under item 1 of the table in subsection 960-60(1) of the ITAA 1997, item 1 of the table in subsection 960-90(1) of the ITAA 1997 clearly requires that their 'applicable functional currency' has ceased to be the sole or predominant currency in which they keep their 'accounts' within the meaning of section 960-70 of the ITAA 1997.
 Notwithstanding that the entity's 'functional currency' has changed from the US dollar to the Australian dollar for accounting purposes, it will be able to withdraw its choice of the US dollar as its 'applicable functional currency' for taxation purposes only where the requirements of section 960-90 of the ITAA 1997 are met. This will necessitate that the US dollar ceases to be the sole or predominant currency in which it keeps its 'accounts' within the meaning of section 960-70 of the ITAA 1997.
 In accordance with paragraph 15 of Taxation Determination TD 2006/4, this could be evidenced by the making of entries (that is, the recording of transactions, on initial recognition) for accounting purposes in a currency other than the US dollar, in accordance with paragraphs 17 and 21 of AASB 121.
 In this case, the entity now keeps its 'accounts' in Australian dollars, which means that the US dollar has ceased to be the sole or predominant currency in which the entity keeps its 'accounts' for taxation purposes. Indeed, even if the entity were to keep its 'accounts' equally in both the US dollar and Australian dollars, the US dollar would cease to be the sole or predominant currency in which the entity keeps its 'accounts' for taxation purposes. (Refer also to paragraphs 10 and 11 of Taxation Determination TD 2006/4).
 Therefore, the entity would be able to withdraw its choice of the US dollar as its 'applicable functional currency' pursuant to subsection 960-90(1) of the ITAA 1997
-Date of decision:
-  25 November 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 960-D   section 960-59   section 960-60   subsection 960-60(1)   section 960-70   subsection 960-70(1)   subsection 960-70(4)   subsection 960-90(1)
-Corporations Act 2001   section 292
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2006/4
-
-Other References:
-
-Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates
- Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003
-
-Keywords
-
-Applicable functional currency
- Functional currency
- Functional currency choice
-
-Siebel/TDMS Reference Number:
-  1-2GBAP4W
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  3 December 2010
-
-ISSN:
- 1445-2782
+Date of decision: 25 November 2010 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 Subdivision 960-D section 960-59 section 960-60 subsection 960-60(1) section 960-70 subsection 960-70(1) subsection 960-70(4) subsection 960-90(1)
+Corporations Act 2001 section 292 Related Public Rulings (including Determinations) Taxation Determination TD 2006/4 Other References: Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003 Keywords Applicable functional currency Functional currency Functional currency choice Siebel/TDMS Reference Number: 1-2GBAP4W Business Line: Public Groups and International Date of publication: 3 December 2010 ISSN: 1445-2782

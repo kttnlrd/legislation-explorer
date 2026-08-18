@@ -1,19 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/39
-==================================================
-
-Income Tax
- Offshore banking unit: investment made with an offshore person or a non-resident
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Offshore banking unit: investment made with an offshore person or a non-resident This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where an offshore banking unit[1] (OBU) purchases investments on behalf of an offshore person, who is the entity that is referred to in the terms 'making ... with' in subsection 121D(6) of the Income Tax Assessment Act 1936 (ITAA 1936) and 'made with' in paragraph 121D(6A)(c) of the ITAA 1936?
 Decision
 The entity that is referred to in the terms 'making ... with' in subsection 121D(6) of the ITAA 1936 and 'made with' in paragraph 121D(6A)(c) of the ITAA 1936 is the other party (that is the counterparty) to the transaction.
@@ -22,141 +10,21 @@ An Australian OBU, which is a resident member of a multinational group, provides
 That group member is an offshore person as defined in section 121E of the ITAA 1936.
 The OBU purchases and manages various types of investments on behalf of the offshore person. This includes purchases of shares, derivatives (including futures and options) and other securities through foreign exchanges.
 Reasons for Decision
-Subsection 121D(6) of the ITAA 1936 states in part:
-
-For the purposes of paragraph (1)(e), an investment activity is
- making ... an investment with
- an offshore person ... (emphasis added)
-
-Subsection 121D(6A) of the ITAA 1936 states in part:
-
-For the purposes of paragraph (1)(e), an investment activity is also the managing by an OBU of a portfolio investment ... where:
-
-...
-
-(c) the portfolio
- investment was made with
- a non-resident (except to the extent that making the investment consisted of making a loan or purchasing an Australian thing); and ... (emphasis added)
-
-Since subsections 121D(6) and (6A) both apply to investments, this ATO ID applies only where assets are acquired as investments. ATO ID 2004/962 discusses the distinction between assets which are acquired as investments and assets which do not amount to investments because they are acquired for other purposes.
+Subsection 121D(6) of the ITAA 1936 states in part: For the purposes of paragraph (1)(e), an investment activity is making ... an investment with an offshore person ... (emphasis added) Subsection 121D(6A) of the ITAA 1936 states in part: For the purposes of paragraph (1)(e), an investment activity is also the managing by an OBU of a portfolio investment ... where: ... (c) the portfolio investment was made with a non-resident (except to the extent that making the investment consisted of making a loan or purchasing an Australian thing); and ... (emphasis added) Since subsections 121D(6) and (6A) both apply to investments, this ATO ID applies only where assets are acquired as investments. ATO ID 2004/962 discusses the distinction between assets which are acquired as investments and assets which do not amount to investments because they are acquired for other purposes.
 Subsection 121D(6) of the ITAA 1936 refers to making an investment with an offshore person, while paragraph 121D(6A)(c) of the ITAA 1936 refers to an investment made with a non-resident.
 This raises the question of whether the terms 'making ... with' and 'made with' refer to an entity being the previous holder of the investment, or to an entity such as the exchange through which the investment was acquired, or to the issuer of the investment, or to some other person.
 'Making ... an investment with' and 'an investment made with' are not defined in the legislation. However, we consider that the terms are so similar that they both have the same meaning.
-Subsection 126D(6) of the ITAA 1936 was introduced by the Taxation Laws Amendment Bill (No. 4) 1992. The Senate Replacement Explanatory Memorandum for that Bill states in part:
-
-To be an 'OB activity':
-
-...
- the other party to the transaction
- must be an ''offshore person'' ... (emphasis added)
-
-Subsection 121D(6A) of the ITAA 1936 was introduced by the Taxation Laws Amendment Bill (No. 2) 1996. The House of Representatives Explanatory Memorandum for that Bill says in part:
-
-1.38,Similarly, the restriction that when making an investment on behalf of an offshore person
- the other party to the transaction
- must be a non-resident who does not have a permanent establishment in Australia is removed in new subsection 121D(6A). OBUs will be able to purchase Australian assets from or make loans to both residents and non-residents (whether or not they have a permanent establishment in Australia). [New paragraph 121D(6A)(c)] (Emphasis added)
-
-Hence the entity that an investment is made with, for the purpose of subsections 121D(6) and 121D(6A) of the ITAA 1936, is the other party (that is, the counterparty) to the transaction.
-
-Real property
-
-In the case of an investment in real property, the other party to the transaction is the vendor of the property. Hence in relation to an investment in real property, the terms 'making ... with' and 'made with' refer to the vendor.
-
-Fixed deposits
-
-For investments such as fixed deposits, the other party to the transaction is the bank or other entity with which the deposit is made, so the terms 'making ... with' and 'made with' refer to that entity.
-
-Loans
-
-In the case of loans made by an OBU, the other party to the transaction is the borrower, and 'making ... with' and 'made with' refer to the borrower.
-
-Securities
-
-In relation to shares or other types of securities which can be traded on an exchange, there are two distinct points at which the securities can be purchased - firstly in the primary market where securities are created and sold by the issuer, and secondly in the secondary market where investors buy and sell securities that were previously issued in the primary market.
-We consider that the terms 'making ... with' and 'made with' were intended to refer to the seller of the investments, as the seller is the other party to the transaction.
-
-Securities - primary market
-
-In the primary market (for example, when a company undertakes an Initial Public Offering) the transaction takes place between the issuer (the company) and the investor. In this case, the issuer of the securities is the seller of the investment and the other party to the transaction. Thus, in the case of shares or other securities purchased by an OBU in the primary market, 'made with' and 'making ... with' refer to the issuer of the shares or other securities.
-
-Exchange traded securities - secondary market
-
-Where investments, including shares, debentures, units in unit trusts, futures and options etc., are traded on an exchange, the transactions are made between the buyers and sellers. Other parties may be involved in the transactions, for example, exchange participants, exchanges, and clearing houses. However, these parties act on behalf of, or as intermediaries between, the buyer and the seller.
+Subsection 126D(6) of the ITAA 1936 was introduced by the Taxation Laws Amendment Bill (No. 4) 1992. The Senate Replacement Explanatory Memorandum for that Bill states in part: To be an 'OB activity': ... the other party to the transaction must be an ''offshore person'' ... (emphasis added) Subsection 121D(6A) of the ITAA 1936 was introduced by the Taxation Laws Amendment Bill (No. 2) 1996. The House of Representatives Explanatory Memorandum for that Bill says in part: 1.38,Similarly, the restriction that when making an investment on behalf of an offshore person the other party to the transaction must be a non-resident who does not have a permanent establishment in Australia is removed in new subsection 121D(6A). OBUs will be able to purchase Australian assets from or make loans to both residents and non-residents (whether or not they have a permanent establishment in Australia). [New paragraph 121D(6A)(c)] (Emphasis added) Hence the entity that an investment is made with, for the purpose of subsections 121D(6) and 121D(6A) of the ITAA 1936, is the other party (that is, the counterparty) to the transaction. Real property In the case of an investment in real property, the other party to the transaction is the vendor of the property. Hence in relation to an investment in real property, the terms 'making ... with' and 'made with' refer to the vendor. Fixed deposits For investments such as fixed deposits, the other party to the transaction is the bank or other entity with which the deposit is made, so the terms 'making ... with' and 'made with' refer to that entity. Loans In the case of loans made by an OBU, the other party to the transaction is the borrower, and 'making ... with' and 'made with' refer to the borrower. Securities In relation to shares or other types of securities which can be traded on an exchange, there are two distinct points at which the securities can be purchased - firstly in the primary market where securities are created and sold by the issuer, and secondly in the secondary market where investors buy and sell securities that were previously issued in the primary market.
+We consider that the terms 'making ... with' and 'made with' were intended to refer to the seller of the investments, as the seller is the other party to the transaction. Securities - primary market In the primary market (for example, when a company undertakes an Initial Public Offering) the transaction takes place between the issuer (the company) and the investor. In this case, the issuer of the securities is the seller of the investment and the other party to the transaction. Thus, in the case of shares or other securities purchased by an OBU in the primary market, 'made with' and 'making ... with' refer to the issuer of the shares or other securities. Exchange traded securities - secondary market Where investments, including shares, debentures, units in unit trusts, futures and options etc., are traded on an exchange, the transactions are made between the buyers and sellers. Other parties may be involved in the transactions, for example, exchange participants, exchanges, and clearing houses. However, these parties act on behalf of, or as intermediaries between, the buyer and the seller.
 Whenever an investment is traded on an exchange, the other party to the transaction, for the purpose of subsections 121D(6) and 121D(6A) of the ITAA 1936, is the seller or buyer on the other side of the trade.
 However, in practice, a buyer (including an OBU buyer) generally does not know the identity of the seller, and so could not know whether the seller is an offshore person or a non-resident. For this reason, we will accept that when an investment is acquired through a foreign stock exchange or a foreign futures exchange or foreign options exchange, an investment is made with an offshore person for the purpose of subsection 121D(6) of the ITAA 1936 - unless either the OBU or the offshore person for whose benefit the security is purchased, is aware or might reasonably be expected to be aware, that the seller of the security is not an offshore person.
-Similarly, we will accept that when an investment is acquired through a foreign exchange, an investment is made with a non-resident for the purpose of subsection 121D(6A) of the ITAA 1936 - unless either the OBU or the non-resident for whose benefit the security is purchased, is aware or might reasonably be expected to be aware, that the seller of the security is not a non-resident.
-
-Over the counter trades
-
-Finally, and in contrast with the exchange trading of investments, 'over-the-counter' (OTC) or 'off-exchange' trading is the negotiation and trading of such investments privately and directly between buyers and sellers, rather than through a centralised institution such an exchange. Here the terms 'making ... with' and 'made with' refer to the other party (the counterparty) to the OTC transaction.
-Amendment History
-
-Date of amendment
+Similarly, we will accept that when an investment is acquired through a foreign exchange, an investment is made with a non-resident for the purpose of subsection 121D(6A) of the ITAA 1936 - unless either the OBU or the non-resident for whose benefit the security is purchased, is aware or might reasonably be expected to be aware, that the seller of the security is not a non-resident. Over the counter trades Finally, and in contrast with the exchange trading of investments, 'over-the-counter' (OTC) or 'off-exchange' trading is the negotiation and trading of such investments privately and directly between buyers and sellers, rather than through a centralised institution such an exchange. Here the terms 'making ... with' and 'made with' refer to the other party (the counterparty) to the OTC transaction.
+Amendment History Date of amendment
 Part
-Comment
-
-12 October 2021
+Comment 12 October 2021
 Reasons for Decision
-Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
-
- Date of effect 13 September 2021
-
-[1]
-The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year.
-
-Date of decision:
-  20 May 2013
-
-Year of income:
-  Year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 121D(6)   subsection 121D(6A)   paragraph 121D(6A)(c)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/962
-
-Other References:
-
- Senate Replacement Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 4) 1992
- House of Representatives Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 2) 1996
-
-Keywords
-
-International tax
- Offshore banking
- Offshore banking units
- Offshore banking activities
-
-Siebel/TDMS Reference Number:
-  1-494TP3I
-
-Business Line:
-  Technical Leadership Group, LB&I
-
-Date of publication:
-  5 July 2013
-
-Date reviewed:
-  12 October 2021
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 May 2013
-Original statement
-
-You are here
+Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs. Date of effect 13 September 2021 [1]
+The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year. Date of decision: 20 May 2013 Year of income: Year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1936 subsection 121D(6) subsection 121D(6A) paragraph 121D(6A)(c) Related ATO Interpretative Decisions ATO ID 2004/962 Other References: Senate Replacement Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 4) 1992 House of Representatives Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 2) 1996 Keywords International tax Offshore banking Offshore banking units Offshore banking activities Siebel/TDMS Reference Number: 1-494TP3I Business Line: Technical Leadership Group, LB&I Date of publication: 5 July 2013 Date reviewed: 12 October 2021 ISSN: 1445-2782 history Date: Version: 20 May 2013
+Original statement You are here
 12 October 2021
 Updated statement

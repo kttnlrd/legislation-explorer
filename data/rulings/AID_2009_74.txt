@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/74
-==================================================
-
-Income Tax
- Capital Allowances: legal expenses incurred after taxpayer starts to hold depreciating assets - second element of cost
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: legal expenses incurred after taxpayer starts to hold depreciating assets - second element of cost FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the taxpayer's capital expenditure on legal fees for services related to acquiring the depreciating assets of another entity, but not incurred until after the depreciating assets were acquired, form part of the second element of cost of the depreciating assets under subsection 40-190(2) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. As the capital expenditure on legal fees was incurred after the taxpayer started to hold the depreciating assets and was incurred for services which contributed to bringing the depreciating assets to their present condition, it forms part of the second element of cost of the depreciating assets under subsection 40-190(2) of the ITAA 1997.
@@ -20,13 +9,9 @@ Facts
 The taxpayer is an Australian resident company that carries on a business wholly for a taxable purpose.
 The taxpayer acquired the business, including the depreciating assets, of another entity under an agreement. The taxpayer became the legal owner of the depreciating assets under the agreement when completion took place and started to hold the depreciating assets under item 10 of the table in section 40-40 of the ITAA 1997 at that time.
 The taxpayer incurred capital expenditure on legal fees for services provided by a legal service provider in the course of the acquisition of the business.
-The legal service provider rendered the following services, both before and after completion of the agreement, to the taxpayer in relation to the acquisition of the business:
-
-•general commercial legal advice
+The legal service provider rendered the following services, both before and after completion of the agreement, to the taxpayer in relation to the acquisition of the business: •general commercial legal advice
 •drafting the agreement, and
-•attending to the steps necessary for completion of the agreement.
-
-A portion of the legal fees incurred in the course of the acquisition of the business was for services related to acquiring the depreciating assets.
+•attending to the steps necessary for completion of the agreement. A portion of the legal fees incurred in the course of the acquisition of the business was for services related to acquiring the depreciating assets.
 The capital expenditure on legal fees was incurred by the taxpayer after completion of the agreement and after taxpayer started to hold the depreciating assets.
 Reasons for Decision
 All legislative references are to the ITAA 1997 unless otherwise stated
@@ -35,77 +20,10 @@ The first element of cost is worked out as at the time when the taxpayer began t
 The second element of cost is worked out after the taxpayer has started to hold the depreciating asset. This element includes capital expenditure incurred in bringing the asset to its present condition and location (section 40-190).
 On the facts of this case, the capital expenditure on legal fees was incurred after completion of the agreement such that it was not incurred as at the time when the taxpayer began to hold the depreciating assets. Therefore, the expenditure is precluded from inclusion in the first element of cost of the depreciating assets because the first element of cost is worked out as at the time when the taxpayer began to hold the depreciating assets.
 As the expenditure is precluded from being included in the first element of cost of the depreciating assets, it is necessary to consider whether a portion of the capital expenditure on legal fees forms part of the second element of cost of the depreciating assets.
-Paragraphs 2.71 - 2.74 of the Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 (EM) provide guidance on what is included in the second element of cost of a depreciating asset:
-
-2.71 The second element of a depreciating asset's cost is essentially what was paid for economic benefits that contribute to its present condition and location from time to time. This is worked out at any time after the taxpayer began to hold the asset
- [Schedule 1, item 1, subsections 40-190(1) and (2)].
- When taxpayers need to know the asset's cost, they work out what it has cost them to that point to bring the asset to its current condition and location from time to time -
- that may include costs of bringing the asset to a condition or location
- which has since been changed. (Emphasis added)
-
-What is an 'economic benefit'?
-
-2.72 An economic benefit is a thing of value that can be measured in money. However, the benefit does not need to be capable of being converted into money. Economic benefits can be assets, services or some combination of both.
- They are the things added or used up to bring the asset to its location or condition from time to time.
- Second element expenses need not increase the actual market value of a depreciating asset, but ordinarily will (because they will generally be improvements). (Emphasis added)
-
-What is present condition and location?
-
-2.73 An asset's 'condition' refers to its general form, state or order. This condition is represented by all of the economic benefits embodied in the asset. The second element of cost for depreciating assets includes all payments for economic benefits that are embodied in a depreciating asset (e.g. improvements but not repairs deductible under section 25-10 of the ITAA 1997 and refer also to paragraph 2.88).
-
-2.74 The second element of cost will also include transportation costs that bring the asset to its present location (from time to time).
-
-These paragraphs indicate that the second element of cost of a depreciating asset is the amount a taxpayer is taken to have paid for economic benefits which contribute to bringing the asset to its present condition or location. That is, it is only necessary for one of these requirements to be met.
-This view is supported by Example 1 to section 40-190 which provides that payments made for economic benefits which contribute to the present condition of a depreciating asset are included in the second element of cost of that asset. Example 1 to section 40-190 relevantly states:
-
-Example 1: Andrew adds a new tray and canopy to his ute. The materials and labour that go into the addition are economic benefits that Andrew received and that contribute to the ute's present condition.
-
-The payments he makes for those economic benefits are included in the second element of the ute's cost.
-
-In this case, in order for the taxpayer to become the legal owner of the depreciating assets, the legal service provider drafted the agreement to include the transfer of ownership of those assets and attended to the steps necessary for the agreement's completion. Upon completion the taxpayer started to hold the depreciating assets.
+Paragraphs 2.71 - 2.74 of the Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 (EM) provide guidance on what is included in the second element of cost of a depreciating asset: 2.71 The second element of a depreciating asset's cost is essentially what was paid for economic benefits that contribute to its present condition and location from time to time. This is worked out at any time after the taxpayer began to hold the asset [Schedule 1, item 1, subsections 40-190(1) and (2)]. When taxpayers need to know the asset's cost, they work out what it has cost them to that point to bring the asset to its current condition and location from time to time - that may include costs of bringing the asset to a condition or location which has since been changed. (Emphasis added) What is an 'economic benefit'? 2.72 An economic benefit is a thing of value that can be measured in money. However, the benefit does not need to be capable of being converted into money. Economic benefits can be assets, services or some combination of both. They are the things added or used up to bring the asset to its location or condition from time to time. Second element expenses need not increase the actual market value of a depreciating asset, but ordinarily will (because they will generally be improvements). (Emphasis added) What is present condition and location? 2.73 An asset's 'condition' refers to its general form, state or order. This condition is represented by all of the economic benefits embodied in the asset. The second element of cost for depreciating assets includes all payments for economic benefits that are embodied in a depreciating asset (e.g. improvements but not repairs deductible under section 25-10 of the ITAA 1997 and refer also to paragraph 2.88). 2.74 The second element of cost will also include transportation costs that bring the asset to its present location (from time to time). These paragraphs indicate that the second element of cost of a depreciating asset is the amount a taxpayer is taken to have paid for economic benefits which contribute to bringing the asset to its present condition or location. That is, it is only necessary for one of these requirements to be met.
+This view is supported by Example 1 to section 40-190 which provides that payments made for economic benefits which contribute to the present condition of a depreciating asset are included in the second element of cost of that asset. Example 1 to section 40-190 relevantly states: Example 1: Andrew adds a new tray and canopy to his ute. The materials and labour that go into the addition are economic benefits that Andrew received and that contribute to the ute's present condition. The payments he makes for those economic benefits are included in the second element of the ute's cost. In this case, in order for the taxpayer to become the legal owner of the depreciating assets, the legal service provider drafted the agreement to include the transfer of ownership of those assets and attended to the steps necessary for the agreement's completion. Upon completion the taxpayer started to hold the depreciating assets.
 The portion of the capital expenditure on legal fees incurred by the taxpayer that relates to the services rendered to transfer ownership of the depreciating assets will be an economic benefit.
 As noted above, in explaining the concept of 'present condition', paragraph 2.73 of the EM states that an asset's 'condition' refers to its general form, state or order. In this case, we consider that the transfer of ownership of the depreciating assets brings the depreciating assets to their present condition.
 Accordingly, the portion of the capital expenditure on legal fees that relates to the services rendered to transfer ownership of the depreciating assets will be an economic benefit that contributes to bringing the depreciating assets to their present condition.
 For the purposes of section 40-195, the relevant portion of the capital expenditure on legal fees that is reasonably attributable to the services that contributed to bringing the depreciating assets to their present condition is to be taken into account as part of their cost. The relevant portion of the taxpayer's capital expenditure on legal fees for services related to acquiring the depreciating assets of another entity, but not incurred until after the depreciating assets were acquired, will therefore form part of the second element of cost of the depreciating assets under subsection 40-190(2).
-Date of decision:
-  20 July 2009
-
-Year of income:
-  Year ended 31 March 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 40-40   section 40-175   section 40-180   section 40-185   section 40-190   subsection 40-190(2)   section 40-195
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/73
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001
-
-Keywords
-
-Blackhole expenditure
- Capital Allowances CoE
- Capital expenditure
- Centres of Expertise
- Cost of a depreciating asset
- Depreciating assets
- Second element of cost
-
-Siebel/TDMS Reference Number:
-  6032444;1-5VXKC64; 1-CBNTZAW
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  24 July 2009
-
-Date reviewed:
-  11 September 2017
-
-ISSN:
- 1445-2782
+Date of decision: 20 July 2009 Year of income: Year ended 31 March 2008 Legislative References: Income Tax Assessment Act 1997 section 40-40 section 40-175 section 40-180 section 40-185 section 40-190 subsection 40-190(2) section 40-195 Related ATO Interpretative Decisions ATO ID 2009/73 Other References: Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 Keywords Blackhole expenditure Capital Allowances CoE Capital expenditure Centres of Expertise Cost of a depreciating asset Depreciating assets Second element of cost Siebel/TDMS Reference Number: 6032444;1-5VXKC64; 1-CBNTZAW Business Line: Private Groups and High Wealth Individuals Date of publication: 24 July 2009 Date reviewed: 11 September 2017 ISSN: 1445-2782

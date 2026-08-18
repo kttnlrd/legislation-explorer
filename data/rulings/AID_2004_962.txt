@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/962
-==================================================
-
-Income tax
- Offshore Banking Units: Investment Activity
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Offshore Banking Units: Investment Activity FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the making of financial derivative contracts by a company, which has applied to become an Offshore Banking Unit (OBU), as broker on behalf of offshore persons with other offshore persons qualify as an investment activity for the purposes of subsection 121D(6) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes, if it is successful in obtaining the OBU status and only in circumstances where the broker's client has entered into the financial derivatives contract with an expectation to receive income or make a gain. Accordingly, where the broker is unable to determine such a purpose on the part of its client, the activity is unlikely to qualify.
@@ -22,38 +9,20 @@ Facts
 The company is an Australian resident company and has applied to the Treasurer to be declared an OBU.
 It is proposed that interest rate derivative broking activities be conducted by the OBU. The financial brokerage services encompass the facilitation of foreign currency interest rate based derivative contracts (such as over-the-counter (OTC) foreign currency interest rate swaps and foreign currency interest rate options) as broker for and between non-residents of Australia who are not acting through an Australian permanent establishment. The financial derivative contracts between the offshore parties are documented as standard International Swap Dealers Association (ISDA) agreements. In essence, the broking activities encompass the acting as intermediary between the offshore counterparties entering into financial derivative contracts.
 Reasons for Decision
-Section 121D of the ITAA 1936 sets out the circumstances in which a transaction entered into by an OBU[1] is an offshore banking (OB) activity. Only income derived by an OBU from an OB activity is taxed concessionally under Division 9A of the ITAA 1936. For an activity engaged in by an OBU to be an OB activity, three conditions must be satisfied:
-
-(i)The activity must be:
-
-(a)borrowing or lending money;
+Section 121D of the ITAA 1936 sets out the circumstances in which a transaction entered into by an OBU[1] is an offshore banking (OB) activity. Only income derived by an OBU from an OB activity is taxed concessionally under Division 9A of the ITAA 1936. For an activity engaged in by an OBU to be an OB activity, three conditions must be satisfied: (i)The activity must be: (a)borrowing or lending money;
 (b)providing certain types of guarantees;
 (c)trading in certain assets;
 (d)entering into certain contracts;
 (e)making and managing certain investments;
 (f)providing financial advice;
 (g)hedging against certain risks; or
-(h)another activity declared by regulation to be an OB activity;
-
-(ii)The other party to the transaction must be an offshore person as defined by section 121E of the ITAA 1936, except where the activity is a trading activity within sec 121D(4)(d) or (e) of the ITAA 1936 and
-(iii)The OBU must, at the time of the activity, be either:
-
-(a)a resident, and the activity is not done in carrying on business outside Australia at or through a permanent establishment of the OBU; or
-(b)a non-resident, and the activity is done in carrying on business in Australia at or through a permanent establishment of the OBU (section 121EA of the ITAA 1936).
-
-Investment activity is defined in subsection 121D(6) of the ITAA 1936 as follows:
-
-For the purposes of paragraph (1)(e), an "investment activity" is making (but not managing), as broker or agent for, or trustee for the benefit of, an offshore person to whom paragraph 121E(a) applies, an investment with an offshore person to whom that paragraph applies, where:
-
-(a)the currency in which the investment is made is not Australian currency; and
-(b)if the investment involves the purchase of any thing:
-
-(i)if the thing is a share in a company - the company is a non-resident company; or
+(h)another activity declared by regulation to be an OB activity; (ii)The other party to the transaction must be an offshore person as defined by section 121E of the ITAA 1936, except where the activity is a trading activity within sec 121D(4)(d) or (e) of the ITAA 1936 and
+(iii)The OBU must, at the time of the activity, be either: (a)a resident, and the activity is not done in carrying on business outside Australia at or through a permanent establishment of the OBU; or
+(b)a non-resident, and the activity is done in carrying on business in Australia at or through a permanent establishment of the OBU (section 121EA of the ITAA 1936). Investment activity is defined in subsection 121D(6) of the ITAA 1936 as follows: For the purposes of paragraph (1)(e), an "investment activity" is making (but not managing), as broker or agent for, or trustee for the benefit of, an offshore person to whom paragraph 121E(a) applies, an investment with an offshore person to whom that paragraph applies, where: (a)the currency in which the investment is made is not Australian currency; and
+(b)if the investment involves the purchase of any thing: (i)if the thing is a share in a company - the company is a non-resident company; or
 (ii)if the thing is a unit in a unit trust - the unit trust is a non-resident trust; or
 (iii)if the thing is land or a building - the land or building is not in Australia; or
-(iv)in any other case - the thing is located outside Australia.
-
-Investment activity, within the meaning of subsection 121D (6) of the ITAA 1936, means making (as broker, agent or trustee for the benefit of an offshore person) an investment with an offshore person. The investment must be made in non-Australian currency. The investors must be non residents. If the investment involves the purchase of something, it must be something which is not in Australia. The OBU must be acting in the capacity of a broker, agent or trustee in making the investment for the benefit of an offshore person; it must not be acting on its own behalf
+(iv)in any other case - the thing is located outside Australia. Investment activity, within the meaning of subsection 121D (6) of the ITAA 1936, means making (as broker, agent or trustee for the benefit of an offshore person) an investment with an offshore person. The investment must be made in non-Australian currency. The investors must be non residents. If the investment involves the purchase of something, it must be something which is not in Australia. The OBU must be acting in the capacity of a broker, agent or trustee in making the investment for the benefit of an offshore person; it must not be acting on its own behalf
 According to the facts provided, the company will be conducting financial brokerage services which will include the facilitation of foreign currency interest rate based derivative contracts (OTC foreign currency interest rate swaps and foreign currency interest rate options) as broker for and between non-residents of Australia. These activities encompass the acting as intermediary between the counterparties entering into the derivative contracts which will be denominated in foreign currency. Any Australian currency denominated contracts will be recorded as a non-OBU activity.
 The company satisfies the requirements that it must deal in foreign currency and act in the capacity of a broker on behalf of offshore persons, but the question arises whether entering into derivative contracts (the foreign currency interest rate swaps and foreign interest rate options) constitutes investment for the purposes of 121D (6) of the ITAA 1936.
 In general, an interest rate swap involves two parties exchanging interest payment streams based on a notional principal over a period of time in the same currency. The interest payment streams are determined by applying a rate of interest to the notional principal and each party's payment is calculated by reference to a different rate of interest. An interest rate option is an option over an instrument such as a bond, giving the buyer, in return for the payment of a premium, the right (but not the obligation) to buy (if a call option) or to sell (if a put option) the given bond at a specified price on or before a specified date.
@@ -61,74 +30,12 @@ This means that entering into such arrangements creates contractual rights which
 The view taken by the ATO is that not all acquisitions of such assets amount to investment. The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW provides the ordinary meaning of the term investment as 'the investing of money or capital in order to secure profitable returns, especially interest or income.'
 The definition encompasses the notion that there is an expectation of profit or income. Not all derivative contracts are entered into to receive income or to make a gain since derivatives also serve a risk management function as a hedge or cheaper means of financing for certain transactions undertaken by businesses. If the interest rate derivatives are being used as a risk management technique or as a means of obtaining lower cost of financing by the company's clients then it may be said that the entering into such contracts is not an investment. On the other hand if the interest rate derivative contracts were entered into to manage portfolios; for trading, speculation or creating exposure to a particular position in the market(s) or for arbitrage to take advantage of pricing anomalies in financial markets, it could be argued that there was an expectation of receiving an income or making a gain and such derivatives could amount to investment.
 Therefore, in the Tax Office's view, the facilitation of foreign currency interest rate based derivative contracts (OTC foreign currency interest rate swaps and foreign currency interest rate options) as broker may be making an 'investment' for the purposes of 121D (6) of the ITAA 1936 in certain situations. Those situations will depend on the factual circumstances of each client indicating the purpose served by these contracts. That is, entered into to receive income or to manage risk or to reduce cost of capital. It is considered that the intent to receive income or to make profit is a necessary element for the making of an 'investment' with respect to the provisions of 121D (6) of the ITAA 1936.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-12 October 2021
+Comment 12 October 2021
 Reasons for Decision
-Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
-
- Date of effect 13 September 2021
-
-[1]
-The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year.
-
-Date of decision:
-  29 November 2004
-
-Year of income:
-  Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 121D   subsection 121D(6)   section 121EA
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 93/133
-
-Other References:
-
- Explanatory Memorandum to Taxation Laws Amendment Bill (No. 4) 1992
- Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW
-
-Keywords
-
-International tax
- Offshore banking
- Offshore banking activities
- Offshore banking units
-
-Siebel/TDMS Reference Number:
-  3589618
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  10 December 2004
-
-Date reviewed:
-  12 October 2021
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-29 November 2004
-Original statement
-
-You are here
+Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs. Date of effect 13 September 2021 [1]
+The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year. Date of decision: 29 November 2004 Year of income: Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1936 section 121D subsection 121D(6) section 121EA Related Public Rulings (including Determinations) Taxation Determination TD 93/133 Other References: Explanatory Memorandum to Taxation Laws Amendment Bill (No. 4) 1992 Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW Keywords International tax Offshore banking Offshore banking activities Offshore banking units Siebel/TDMS Reference Number: 3589618 Business Line: Public Groups and International Date of publication: 10 December 2004 Date reviewed: 12 October 2021 ISSN: 1445-2782 history Date: Version: 29 November 2004
+Original statement You are here
 12 October 2021
 Updated statement

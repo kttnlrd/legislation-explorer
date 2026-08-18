@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/101
-==================================================
-
-Goods and Services Tax
- GST and reverse charge on cross border leases
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the A New Tax System (Goods and Services Tax) Act 1999 that does not apply after 1 October 2016. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for tax periods up to 1 October 2016.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and reverse charge on cross border leases FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the A New Tax System (Goods and Services Tax) Act 1999 that does not apply after 1 October 2016. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for tax periods up to 1 October 2016. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a non-resident lessor that leases substantial equipment for the effective life of the equipment 'make the supply through an enterprise that the supplier carries on in Australia' for the purposes of paragraph 83-5(1)(b) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
 Decision
 No, the non-resident does not make the supply through an enterprise that it carries on in Australia. Accordingly, paragraph 83-5(1)(b) of the GST Act is satisfied.
@@ -28,90 +13,19 @@ The non-resident lessor does have an enterprise for the purposes of subsection 9
 The non-resident lessor made the equipment available in Australia to the sublessor. The supply of the substantial equipment under the lease is a supply that satisfies all the conditions of section 9-5 of the GST Act and is therefore a taxable supply.
 The non-resident lessor has no other business connection with Australia other than through the leased substantial equipment.
 Reasons for Decision
-One of the conditions that needs to be satisfied before a non-resident lessor and sublessor can enter into a reverse charging agreement is for paragraph 83-5(1)(b) of the GST Act to be satisfied. Paragraph 83-5(1)(b) states:
-
-the supplier does
- not
- make the supply through an *enterprise that the supplier *carries on in Australia
-
-(emphasis added and '*' refers to a defined term in the GST Act)
-
-The non-resident lessor does carry on an enterprise of leasing substantial equipment. However, for the purposes of paragraph 83-5(1)(b) of the GST Act it needs to be determined if the non-resident lessor's enterprise is carried on in Australia.
-Under subsection 9-25(6) of the GST Act an enterprise is 'carried on in Australia' if the enterprise is carried on through:
-
-•a permanent establishment (as defined in subsection 6(1) of the Income Tax Assessment Act 1936 (ITAA 1936)); or
-•a place that would be such a permanent establishment if paragraph (e), (f) or (g) of that definition did not apply.
-
-Under subsection 6(1) of the ITAA 1936 the relevant parts of the permanent establishment definition are as follows;
-
-Permanent establishment
-, in relation to a person (including the Commonwealth, a State or an authority of the Commonwealth or a State), means a place at or through which the person carries on any business and, without limiting the generality of the foregoing, includes:
-
-(a)...........
+One of the conditions that needs to be satisfied before a non-resident lessor and sublessor can enter into a reverse charging agreement is for paragraph 83-5(1)(b) of the GST Act to be satisfied. Paragraph 83-5(1)(b) states: the supplier does not make the supply through an *enterprise that the supplier *carries on in Australia (emphasis added and '*' refers to a defined term in the GST Act) The non-resident lessor does carry on an enterprise of leasing substantial equipment. However, for the purposes of paragraph 83-5(1)(b) of the GST Act it needs to be determined if the non-resident lessor's enterprise is carried on in Australia.
+Under subsection 9-25(6) of the GST Act an enterprise is 'carried on in Australia' if the enterprise is carried on through: •a permanent establishment (as defined in subsection 6(1) of the Income Tax Assessment Act 1936 (ITAA 1936)); or
+•a place that would be such a permanent establishment if paragraph (e), (f) or (g) of that definition did not apply. Under subsection 6(1) of the ITAA 1936 the relevant parts of the permanent establishment definition are as follows; Permanent establishment
+, in relation to a person (including the Commonwealth, a State or an authority of the Commonwealth or a State), means a place at or through which the person carries on any business and, without limiting the generality of the foregoing, includes: (a)...........
 (b)a place where the person has, is using or is installing substantial equipment or substantial machinery;
-(c).........
-
-Taxation Ruling TR 2002/5 considers the opening paragraph of the permanent establishment definition under subsection 6(1) of the ITAA 1936. In general what is required is that the business is carried on in Australia at a fixed place for a period of time (both geographic and temporal permanence are required). In this particular situation the non-resident lessor has no presence in Australia other than through the substantial equipment. Accordingly, there is no fixed place in which the non-resident lessor carries on business in Australia. The non-resident does not have a permanent establishment in Australia under the opening paragraph of the permanent establishment definition under subsection 6(1) of the ITAA 1936.
+(c)......... Taxation Ruling TR 2002/5 considers the opening paragraph of the permanent establishment definition under subsection 6(1) of the ITAA 1936. In general what is required is that the business is carried on in Australia at a fixed place for a period of time (both geographic and temporal permanence are required). In this particular situation the non-resident lessor has no presence in Australia other than through the substantial equipment. Accordingly, there is no fixed place in which the non-resident lessor carries on business in Australia. The non-resident does not have a permanent establishment in Australia under the opening paragraph of the permanent establishment definition under subsection 6(1) of the ITAA 1936.
 At paragraph 55 in Taxation Ruling TR 2007/11, it is explained that where a person satisfies paragraph (b) of the permanent establishment definition under subsection 6(1) of the ITAA 1936 that person will be considered to have a permanent establishment without any need to consider the opening paragraph of the permanent establishment definition in subsection 6(1) of the ITAA 1936. Accordingly, paragraph (b) of the definition of permanent establishment in subsection 6(1) of the ITAA 1936 can be considered separately.
 The term 'permanent establishment' is drawn from international treaties. International treaties draw a distinction between the 'use' and 'sale' of equipment. This distinction is relevant in the interpretation of paragraph (b) of the definition of permanent establishment in subsection 6(1) of the ITAA 1936. Under the view explained in paragraph 76 of TR 2007/11, where the substantial equipment is treated as if it has initially been disposed of by the non-resident lessor, the non-resident lessor will not have a place where it 'has or is using substantial equipment'. Accordingly, the non-resident lessor would not have a permanent establishment in Australia under paragraph (b) of the definition of permanent establishment in subsection 6(1) of the ITAA 1936. However, where the lease by the non-resident is treated as the hire of substantial equipment to the sublessor, then the non-resident lessor will have a permanent establishment under paragraph (b) of the definition of permanent establishment in subsection 6(1) of the ITAA 1936.
 Taxation Ruling TR 98/21 discusses the characteristics of many cross border leases in terms of whether they should be treated as in effect a purchase of equipment or the hire of equipment and then discusses the withholding tax implications of the characterisation. As discussed in paragraphs 50 and 51 of TR 98/21, where a lease covers the effective life of the equipment and many of the incidents of ownership and the economic risks are transferred to the lessee, the substance of the lease is that of a purchase and therefore should be treated as such.
 In this particular situation the non-resident lessor leases the substantial equipment for its effective life: there will be no residual value in the equipment at the end of the lease. Also, many of the incidents of ownership and all the economic risks are transferred to the sublessor such that the sublessor is required to maintain the equipment and has the ability to sublease the equipment to third parties. In this instance the leasing arrangement should be treated as in effect an initial sale of the equipment to the sublessor. Accordingly, the non-resident is not regarded as having or using the equipment in the sense contemplated by paragraph (b) of the definition of permanent establishment in subsection 6(1) of the ITAA 1936 as the equipment is regarded as being initially sold.
-Therefore as the non-resident lessor does not have a permanent establishment in Australia the supply of the substantial equipment is not made through an enterprise that is carried on in Australia. Paragraph 83-5(1)(b) of the GST Act is therefore satisfied.
-
-Note 1
- : on the facts set out the non-resident lessor and the sublessor are entitled to enter a reverse charging agreement because all the elements of subsection 83-5(1) of the GST Act are satisfied and subsection 83-5(2) of the GST Act is not applicable.
-
-Note 2
- : it is important to note that the amount of the 'reverse charge' is 10% of the 'price' of the supply.
-
-Date of decision:
-  10 June 2008
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 9-20(1)   subsection 9-25(6)   section 83-1   section 83-5   subsection 83-5(1)   Paragraph 83-5(1)(b)   subsection 83-5(2)   section 83-25   section 83-30   section 84-1
-Income Tax Assessment Act 1936   subsection 6(1)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/21
+Therefore as the non-resident lessor does not have a permanent establishment in Australia the supply of the substantial equipment is not made through an enterprise that is carried on in Australia. Paragraph 83-5(1)(b) of the GST Act is therefore satisfied. Note 1 : on the facts set out the non-resident lessor and the sublessor are entitled to enter a reverse charging agreement because all the elements of subsection 83-5(1) of the GST Act are satisfied and subsection 83-5(2) of the GST Act is not applicable. Note 2 : it is important to note that the amount of the 'reverse charge' is 10% of the 'price' of the supply. Date of decision: 10 June 2008 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 9-20(1) subsection 9-25(6) section 83-1 section 83-5 subsection 83-5(1) Paragraph 83-5(1)(b) subsection 83-5(2) section 83-25 section 83-30 section 84-1
+Income Tax Assessment Act 1936 subsection 6(1) Related Public Rulings (including Determinations) Taxation Ruling TR 98/21
 Taxation Ruling TR 2002/5
-Taxation Ruling TR 2007/11
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/102
-
-Keywords
-
-Goods and services tax
- GST international services
- Reverse charge on supplies made by non-residents
- Permanent establishment
- Substantial equipment
- Sale & leaseback
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  4 July 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 June 2008
-Original statement
-
-You are here
- 7 October 2016
+Taxation Ruling TR 2007/11 Related ATO Interpretative Decisions ATO ID 2008/102 Keywords Goods and services tax GST international services Reverse charge on supplies made by non-residents Permanent establishment Substantial equipment Sale & leaseback Business Line: Indirect Tax Date of publication: 4 July 2008 ISSN: 1445-2782 history Date: Version: 10 June 2008
+Original statement You are here 7 October 2016
 Archived

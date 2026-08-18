@@ -1,85 +1,21 @@
 ATO Interpretative Decision
 ATO ID 2007/165
-==================================================
-
-Income Tax
- Consolidation: MEC group - appointment of a replacement provisional head company - MEC group reduced to a single eligible tier-1 company
- FOI status: may be released
-
-This ATO ID has been updated as the legislation has been amended by Tax Laws Amendment (2010 Measures No. 1) Act 2010 (No. 56 of 2010)(Schedule 5, Part 18).
+================================================== Income Tax Consolidation: MEC group - appointment of a replacement provisional head company - MEC group reduced to a single eligible tier-1 company FOI status: may be released This ATO ID has been updated as the legislation has been amended by Tax Laws Amendment (2010 Measures No. 1) Act 2010 (No. 56 of 2010)(Schedule 5, Part 18).
 Subsection 719-60(3) of the Income Tax Assessment Act 1997 (ITAA 1997) no longer requires the choice to appoint a provisional head company after formation of a group, to be given to the Commissioner. Instead the choice is to be made in writing and section 719-79 of the ITAA 1997 requires the relevant information about the choice to be notified to the Commissioner in the approved form.
-The amendment has effect from 1 July 2002, unless the provisional head company makes a choice in writing on or before 30 June 2010 for the amendment to apply from 10 February 2010.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+The amendment has effect from 1 July 2002, unless the provisional head company makes a choice in writing on or before 30 June 2010 for the amendment to apply from 10 February 2010. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a multiple entry consolidated (MEC) group is reduced to a single eligible tier-1 (ET-1) company member that is not the provisional head company (PHC), can that ET-1 company appoint itself to be the PHC of the MEC group under subsection 719-60(3) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The single remaining ET-1 company of the MEC group can, if it is qualified to be a PHC under section 719-65 of the ITAA 1997, appoint itself as the PHC, as the reference to plural ET-1 companies in subsection 719-60(3) of the ITAA 1997 will be taken to be a reference to a singular ET-1 company.
-Facts
-
-TC is the top company of a MEC group.X Co and Y Co are the only two ET-1 company members of that MEC group.X Co is the PHC of the MEC group.X Co leaves the MEC group, and Y Co remains as the only ET-1 company member.Y Co has been a member of the MEC group continuously since the start of X Co's current income year and is qualified to be the PHC of the MEC group.
-
-Reasons for Decision
+Facts TC is the top company of a MEC group.X Co and Y Co are the only two ET-1 company members of that MEC group.X Co is the PHC of the MEC group.X Co leaves the MEC group, and Y Co remains as the only ET-1 company member.Y Co has been a member of the MEC group continuously since the start of X Co's current income year and is qualified to be the PHC of the MEC group. Reasons for Decision
 If a cessation event happens to the PHC of a MEC group, subsection 719-60(3) of the ITAA 1997 provides for the appointment of a replacement PHC. Subsection 719-60(3), is worded in the plural and provides that:
 If a cessation event happens to the provisional head company of a MEC group, then:
-the
- eligible tier-1 companies
- that are or were
- members
- of the MEC group immediately after the cessation event may make a choice in writing,
- jointly appointing
- one of those companies to be the provisional head company of the group. The appointment is taken to have come into force immediately after the cessation event. (bolding added).
-
-Note: Section 719-79 of the ITAA 1997 requires that the entity appointed to be the provisional head company must give the Commissioner a notice in the approved form containing information about the choice.
-
-Under section 23 of the Acts Interpretation Act 1901, so long as there is no contrary intention, words in the plural number include the singular, and vice versa.
+the eligible tier-1 companies that are or were members of the MEC group immediately after the cessation event may make a choice in writing, jointly appointing one of those companies to be the provisional head company of the group. The appointment is taken to have come into force immediately after the cessation event. (bolding added). Note: Section 719-79 of the ITAA 1997 requires that the entity appointed to be the provisional head company must give the Commissioner a notice in the approved form containing information about the choice. Under section 23 of the Acts Interpretation Act 1901, so long as there is no contrary intention, words in the plural number include the singular, and vice versa.
 Therefore, providing there is no intention to the contrary, the plural wording in subsection 719-60(3) of the ITAA 1997 will not prevent the application of the provision to allow the single remaining ET-1 company of the MEC group, to appoint itself as the new PHC.
 In considering whether a contrary intention appears it is appropriate to consider the section in its setting in the legislature, and to consider the substance of the legislation as a whole (Blue Metal Industries Limited and Anor v. Dilley and Anor (1969) 117 CLR 651).
 Although a MEC group can only come into existence with two or more ET-1 companies, there is a clear policy objective to allow a MEC group, once formed, to continue to exist with a single ET-1 company. Under section 719-5 of the ITAA 1997 a MEC group consists of the potential MEC group derived from whichever one or more ET-1 company members continue to be ET-1 companies of the top company.
 Provided the identity of the top company does not change, a MEC group will continue to exist so long as the potential MEC group continues to exist and there continues to be a PHC (subsection 719-5(7) of the ITAA 1997). A potential MEC group can be derived from one ET-1 company, and will cease to exist, under section 719-10 of the ITAA 1997, when there are no longer any ET-1 companies from which it is derived. A MEC group can, therefore, continue to exist with a single ET-1 company provided that the ET-1 company is the PHC.
 There is nothing in Division 719 of the ITAA 1997 to indicate that where all but one of the ET-1 companies in a MEC group leaves it was intended that the group continue only if the remaining ET-1 company is the entity that was the PHC just before the group reduced to the last remaining ET-1 company.
 When X Co leaves the MEC group it ceases to be an ET-1 company of TC and is no longer qualified under subsection 719-65(1) of the ITAA 1997 to be the PHC. A cessation event happens to X Co under subsection 719-60(6) of the ITAA 1997.
-As there is no intention to the contrary, the plural words in subsection 719-60(3) of the ITAA 1997 include the singular, and Y Co, the single remaining ET-1 company, can appoint itself as the PHC of the MEC group after the cessation event happens to X Co.
-
-Note: This decision applies regardless of whether or not the sole remaining ET-1 company has any subsidiaries eligible to be members of the MEC group.
-
-Date of decision:
-  6 August 2007
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Acts Interpretation Act 1901   section 23
-Income Tax Assessment Act 1997   Division 719   section 719-5   subsection 719-5(7)   section 719-10   subsection 719-60(3)   subsection 719-60(6)   subsection 719-65(1)
-
-Case References:
-
-Blue Metal Industries Limited and Anor v. Dilley and Anor    (1969) 117 CLR 651
-
-Keywords
-
-Cessation event
- Consolidation
- Consolidation - multiple entry consolidated group
- Head company of a MEC group
- Provisional head company
- Choice
-
-Siebel/TDMS Reference Number:
-  5747854
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  10 August 2007
-
-ISSN:
- 1445-2782
+As there is no intention to the contrary, the plural words in subsection 719-60(3) of the ITAA 1997 include the singular, and Y Co, the single remaining ET-1 company, can appoint itself as the PHC of the MEC group after the cessation event happens to X Co. Note: This decision applies regardless of whether or not the sole remaining ET-1 company has any subsidiaries eligible to be members of the MEC group. Date of decision: 6 August 2007 Year of income: Year ended 30 June 2008 Legislative References: Acts Interpretation Act 1901 section 23
+Income Tax Assessment Act 1997 Division 719 section 719-5 subsection 719-5(7) section 719-10 subsection 719-60(3) subsection 719-60(6) subsection 719-65(1) Case References: Blue Metal Industries Limited and Anor v. Dilley and Anor (1969) 117 CLR 651 Keywords Cessation event Consolidation Consolidation - multiple entry consolidated group Head company of a MEC group Provisional head company Choice Siebel/TDMS Reference Number: 5747854 Business Line: Consolidation Centre of Expertise Date of publication: 10 August 2007 ISSN: 1445-2782

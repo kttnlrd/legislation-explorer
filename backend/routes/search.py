@@ -15,6 +15,7 @@ from backend.services.data_loader import load_tree
 from backend.services.search_service import (
     search_conn, init_search_index as build_search_index,
     search_sections as fts_search, search_rulings, search_section_ids,
+    search_private_rulings_fts,
 )
 from backend.services import vector_search_service, reranker
 from backend.services.graph_neighborhood import neighborhoods as graph_neighborhoods
@@ -428,6 +429,18 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         private_results = []
     if type_filter and not (type_filter & {"ruling", "private_ruling"}):
         private_results = []
+    # CDN-0117: body term search — merge FTS hits over private ruling content
+    # with the metadata matcher results, deduping by authnum.
+    if not act or act == "private-rulings":
+        try:
+            fts_private = search_private_rulings_fts(q, limit=50, operator=operator)
+            seen_auth = {r["section"] for r in private_results}
+            for pr in fts_private:
+                if pr["section"] not in seen_auth:
+                    private_results.append(pr)
+                    seen_auth.add(pr["section"])
+        except Exception:
+            logger.exception("Private ruling FTS search failed")
 
     try:
         vector_results = vector_search_service.search(q, limit=50)

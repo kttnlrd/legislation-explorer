@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1085
-==================================================
-
-Income Tax
- Capital Allowances: whether first element of cost of depreciating asset reduced by grants received
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: whether first element of cost of depreciating asset reduced by grants received FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the first element of cost of a depreciating asset the taxpayer started to hold, as worked out under Subdivision 40-C of the Income Tax Assessment Act 1997 (ITAA 1997), reduced by an appropriate portion of the grants the taxpayer received to finance the purchase of such assets?
 Decision
 No. The cost of a depreciating asset the taxpayer started to hold is, pursuant to item 1 of the table in subsection 40-185(1) of the ITAA 1997, the amount the taxpayer paid to acquire the asset and that amount is not reduced by any portion of the grants the taxpayer received to finance the purchase of such assets.
@@ -24,48 +13,7 @@ The cost of a depreciating asset is a component in working out the amount you ca
 The first element of cost is worked out as at the time you start to hold the asset (subsection 40-180(1) of the ITAA 1997). Except in special cases where the first element of cost is attributed specifically by a particular item in paragraph 40-180(2) of the ITAA 1997, the first element of cost is the amount you are taken to have paid to hold a depreciating asset pursuant to section 40-185 of the ITAA 1997.
 As no item in the table in subsection 40-180(2) of the ITAA 1997 applies in this case, the first element of cost of a depreciating asset the taxpayer starts to hold is worked out under section 40-185 of the ITAA 1997.
 Item 1 of the table in subsection 40-185(1) of the ITAA 1997 includes in first element of cost an amount the taxpayer pays to hold a depreciating asset. The taxpayer clearly pays an amount to purchase the asset and, in this case, to start holding the asset. The grants simply provide a source from which those payments are made. There is little other connection between the general pool of grant money available to purchase such assets and the particular depreciating asset actually acquired.
-The cost of a depreciating asset is adjusted in certain circumstances. For example:
-
-• the cost of a depreciating asset is reduced by any portion of it that is not of a capital nature (section 40-220 of the ITAA 1997).
-• to prevent double deductions, the cost of a depreciating asset is reduced by any portion of it that you have or can deduct other than under Divisions 40 or 328 of the ITAA 1997 (section 40-215 of the ITAA 1997).
-
-None of the adjustments to cost provided in Subdivision 40-C of the ITAA 1997 apply to the cost of a depreciating asset the taxpayer started to hold. Therefore, there is no basis on which to reduce the first element of cost of a depreciating asset the taxpayer started to hold by any part of the grants they received to finance the purchase of such assets.
+The cost of a depreciating asset is adjusted in certain circumstances. For example: • the cost of a depreciating asset is reduced by any portion of it that is not of a capital nature (section 40-220 of the ITAA 1997).
+• to prevent double deductions, the cost of a depreciating asset is reduced by any portion of it that you have or can deduct other than under Divisions 40 or 328 of the ITAA 1997 (section 40-215 of the ITAA 1997). None of the adjustments to cost provided in Subdivision 40-C of the ITAA 1997 apply to the cost of a depreciating asset the taxpayer started to hold. Therefore, there is no basis on which to reduce the first element of cost of a depreciating asset the taxpayer started to hold by any part of the grants they received to finance the purchase of such assets.
 It follows that the cost of a depreciating asset the taxpayer starts to hold, by paying an amount of money to acquire the asset, is that amount, and that amount is not reduced by any portion of the grants received by the taxpayer for the purpose of acquiring such assets.
-Date of decision:
-  6 November 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 40-175   subsection 40-180(2)   section 40-185   subsection 40-185(1)   section 40-215   section 40-220
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/1086
-
-Keywords
-
-Capital allowances
- Cost adjustments
- Cost of a depreciating asset
- First element of cost
- Government grants income
- Recouped expenses
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  3450070; 1-AKXL54E
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  5 December 2003
-
-Date reviewed:
-  15 December 2016
-
-ISSN:
- 1445-2782
+Date of decision: 6 November 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 40-175 subsection 40-180(2) section 40-185 subsection 40-185(1) section 40-215 section 40-220 Related ATO Interpretative Decisions ATO ID 2003/1086 Keywords Capital allowances Cost adjustments Cost of a depreciating asset First element of cost Government grants income Recouped expenses Uniform capital allowances system Siebel/TDMS Reference Number: 3450070; 1-AKXL54E Business Line: Private Groups and High Wealth Individuals Date of publication: 5 December 2003 Date reviewed: 15 December 2016 ISSN: 1445-2782

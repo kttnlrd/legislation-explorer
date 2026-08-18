@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/154
-==================================================
-
-Income Tax
- Interest withholding tax - in substitution for interest
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest withholding tax - in substitution for interest FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a payment on a convertible security 'interest' within the extended definition in paragraph 128A(1AB)(b) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. A payment on a convertible security is not 'interest' within the extended definition in paragraph 128A(1AB)(b) of the ITAA 1936 because the convertible security is not a loan and therefore the payment cannot be 'in substitution' for interest.
@@ -27,55 +16,6 @@ For the purposes of Division 11A of the ITAA 1936, 'interest' includes an amount
 'Converted into a form that is in substitution for interest' entails postulating on reasonable grounds that the amount was 'instead of' interest. This requires that the amount is in substance and effect the same as the interest for which it was substituted.
 In order for a payment to be in substitution for interest, it must have been possible for 'interest', in the ordinary sense of the word, to have been paid.
 Interest is, in essence, compensation to a lender for being kept out of the use and enjoyment of a principal sum (Federal Commissioner of Taxation v. The Myer Emporium Ltd (1987) 163 CLR 199; 87 ATC 4363; (1987) 18 ATR 693). In order for a payment to be interest, it must be paid in respect of keeping a person out of the use and enjoyment of a principle sum. It must be paid in respect of an amount of money which the person can require to be repaid either upon demand or at a fixed date; that is, a debt.
-The ATO view on the nature of a loan is contained in Taxation Ruling TR 2002/15. The following excerpts of that ruling explain the consequences of contingency on and subordination of the obligation to repay an amount.
-
-65. The critical question then is whether there is a debt in existence prior to the happening of the contingencies and subject to the terms and conditions of the notes, or whether the obligation to repay Moneys Owing is merely contingent.
-
-66. An analogous situation arises with a guarantor's right of indemnity. Before payment by the guarantor, the right is subject to contingencies, namely the default by the debtor then a request for payment by the creditor.
-
-67. The Court of Appeal in Re A Debtor [1937] 1 All ER 1 confirmed a long line of authority supporting the proposition that the debt due to the guarantor by the debtor under the implied contract does not arise until the guarantor has been called on to pay, and does pay, the creditor under the guarantee. Greene LJ commented at 8:
-
-'The implied undertaking to indemnify is an undertaking to reimburse the guarantor upon the happening of a contingency, viz., payment by the guarantor to the creditor, and until that contingency happens, there is no debt.'
-
-68. In the case of a Note, on one view there is no debt until a contingency occurs, being an event of default (such as the insolvency of the Issuer), or a liquidation event.
-
-69. Another view is that there is no debt at all. Upon winding-up, the Holders' rights are subordinated until all claims of senior creditors are paid in full. The Holders may never receive the full face value of the Notes. In fact, the Holders do not have a right to sue for the sum due as a debt but may merely have a contractual right to enforce their claims behind those of the senior creditors.
-
-The securities do not give the security holder a right to recover the face value of the securities from the Australian entity, other than in limited circumstances. Further, the right to recover the face value of the security is subordinated to all debts of the Australian entity. As a result of the contingency and the subordination of the right to repayment, the securities do not give rise to a debt.
+The ATO view on the nature of a loan is contained in Taxation Ruling TR 2002/15. The following excerpts of that ruling explain the consequences of contingency on and subordination of the obligation to repay an amount. 65. The critical question then is whether there is a debt in existence prior to the happening of the contingencies and subject to the terms and conditions of the notes, or whether the obligation to repay Moneys Owing is merely contingent. 66. An analogous situation arises with a guarantor's right of indemnity. Before payment by the guarantor, the right is subject to contingencies, namely the default by the debtor then a request for payment by the creditor. 67. The Court of Appeal in Re A Debtor [1937] 1 All ER 1 confirmed a long line of authority supporting the proposition that the debt due to the guarantor by the debtor under the implied contract does not arise until the guarantor has been called on to pay, and does pay, the creditor under the guarantee. Greene LJ commented at 8: 'The implied undertaking to indemnify is an undertaking to reimburse the guarantor upon the happening of a contingency, viz., payment by the guarantor to the creditor, and until that contingency happens, there is no debt.' 68. In the case of a Note, on one view there is no debt until a contingency occurs, being an event of default (such as the insolvency of the Issuer), or a liquidation event. 69. Another view is that there is no debt at all. Upon winding-up, the Holders' rights are subordinated until all claims of senior creditors are paid in full. The Holders may never receive the full face value of the Notes. In fact, the Holders do not have a right to sue for the sum due as a debt but may merely have a contractual right to enforce their claims behind those of the senior creditors. The securities do not give the security holder a right to recover the face value of the securities from the Australian entity, other than in limited circumstances. Further, the right to recover the face value of the security is subordinated to all debts of the Australian entity. As a result of the contingency and the subordination of the right to repayment, the securities do not give rise to a debt.
 As the securities do not give rise to a debt, it is not possible for interest to have been paid on the securities. Therefore, the payments that are made on the securities cannot have been made in substitution for interest.
-Date of decision:
-  3 December 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   paragraph 128A(1AB)(b)   Division 11A
-
-Case References:
-
-Federal Commissioner of Taxation v The Myer Emporium Ltd   (1987) 163 CLR 199   87 ATC 4363   (1987) 18 ATR 693
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2002/15
-
-Keywords
-
-Deemed interest
- Interest income
- Non resident interest withholding tax
- Withholding taxes
-
-Siebel/TDMS Reference Number:
-  6231529
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 December 2009
-
-ISSN:
- 1445 - 2782
+Date of decision: 3 December 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 paragraph 128A(1AB)(b) Division 11A Case References: Federal Commissioner of Taxation v The Myer Emporium Ltd (1987) 163 CLR 199 87 ATC 4363 (1987) 18 ATR 693 Related Public Rulings (including Determinations) Taxation Ruling TR 2002/15 Keywords Deemed interest Interest income Non resident interest withholding tax Withholding taxes Siebel/TDMS Reference Number: 6231529 Business Line: Public Groups and International Date of publication: 18 December 2009 ISSN: 1445 - 2782

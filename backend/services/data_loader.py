@@ -507,6 +507,26 @@ def load_cases() -> list[dict]:
 # ---------------------------------------------------------------------------
 
 @functools.lru_cache(maxsize=None)
+def _summary_title(stem: str) -> str | None:
+    """Clean descriptive title from the ruling's summaries/<stem>.json if present."""
+    import re as _re
+    for cand in (stem, stem.replace("ATOID_", "AID_", 1)):
+        try:
+            p = RULING_DIR / "summaries" / f"{cand}.json"
+            if not p.exists():
+                continue
+            d = json.loads(p.read_text(encoding="utf-8"))
+            t = d.get("title")
+            if t and len(t) < 800:
+                # Strip leading citation prefix if the summary title embeds it
+                # e.g. "AID 2001/302 — Superannuation..." -> "Superannuation..."
+                t = _re.sub(r"^[A-Z]{2,6} \d{4}/\d+\s*[—\-–]?\s*", "", t).strip()
+                return t or None
+        except Exception:
+            pass
+    return None
+
+
 def load_rulings() -> list[dict]:
     rulings = []
     for f in sorted(RULING_DIR.glob("*.txt")):
@@ -550,6 +570,8 @@ def load_rulings() -> list[dict]:
             content = f.read_text(encoding="utf-8")
             # Extract descriptive title from content (line after the ruling citation)
             full_title = title
+            # CDN-0123: prefer clean title from summaries/<stem>.json when available
+            summary_title = _summary_title(f.stem)
             # Strip ATO ID header lines before extracting title
             content_for_title = content
             if ruling_type == "PS LA" or ruling_type == "ATOID":
@@ -597,6 +619,11 @@ def load_rulings() -> list[dict]:
                     # If no title found on the next line, use the citation line's title (after " - ")
                     if full_title == title and title_from_citation:
                         full_title = title_from_citation
+                    # CDN-0123: a single-line file means the "next line" never exists and
+                    # title_from_citation can be a body fragment (first " - " deep in text).
+                    # Fall back to the clean summary title when the extracted one looks wrong.
+                    if (full_title == title or len(full_title) > 200) and summary_title:
+                        full_title = summary_title
                     break
             withdrawn = _check_withdrawn(content)
             rulings.append({

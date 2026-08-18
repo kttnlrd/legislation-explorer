@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/197
-==================================================
-
-Income Tax
- Capital gains tax: scrip for scrip rollover - unit in a public trading trust exchanged for a share in a company
- FOI status: may be released
-
-This ID has been amended to include the fact that the trust has not made the choice to form a consolidated group.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: scrip for scrip rollover - unit in a public trading trust exchanged for a share in a company FOI status: may be released This ID has been amended to include the fact that the trust has not made the choice to form a consolidated group. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is rollover available under Subdivision 124-M of the Income Tax Assessment Act 1997 (ITAA 1997) if a taxpayer exchanges a unit in a public trading trust that has not chosen to form a consolidated group, for a share in a company?
 Decision
 No. Rollover is not available under Subdivision 124-M of the ITAA 1997 if a taxpayer exchanges a unit in a public trading trust that has not chosen to form a consolidated group, for a share in a company.
@@ -25,53 +12,12 @@ The taxpayer made a capital gain from the disposal of the units and wishes to ch
 Reasons for Decision
 Rollover is available under Subdivision 124-M of the ITAA 1997 if an entity exchanges a share in a company for a share in another company: subparagraph 124-780(1)(a)(i) of the ITAA 1997.
 Division 6C of the ITAA 1936 applies in relation to certain public trading trusts defined in section 102R of the ITAA 1936. For certain purposes of the ITAA 1936 and ITAA 1997 those trusts are treated as companies and units in them are treated as shares.
-The Explanatory Memorandum to the Bill which became the Taxation Laws Amendment Act (No.4) 1985 and which introduced Division 6C of the ITAA 1936 states:
-
-The purpose of this section [section 102T], in broad terms, is to equate public trading trusts or, where appropriate, prescribed trust estates, with companies in the
- application of certain specified provisions
- of the Principal Act. In like manner, units in prescribed trust estate, unitholders and unit trust dividends will be equated respectively with shares, shareholders and dividends paid by a company [emphasis added].
-
-The issue in this case is whether a unit is treated as a 'share in a company' for the purposes of subsection 124-780(1) of the ITAA 1997.
+The Explanatory Memorandum to the Bill which became the Taxation Laws Amendment Act (No.4) 1985 and which introduced Division 6C of the ITAA 1936 states: The purpose of this section [section 102T], in broad terms, is to equate public trading trusts or, where appropriate, prescribed trust estates, with companies in the application of certain specified provisions of the Principal Act. In like manner, units in prescribed trust estate, unitholders and unit trust dividends will be equated respectively with shares, shareholders and dividends paid by a company [emphasis added]. The issue in this case is whether a unit is treated as a 'share in a company' for the purposes of subsection 124-780(1) of the ITAA 1997.
 Section 102T of the ITAA 1936 sets out the circumstances when the application of the income tax law to a public trading trust is modified for example, subsection 102T(13) specifies that a unit will be treated as a share for the purposes of Subdivision 12F in Schedule 1 to the Taxation Administration Act 1953.
 Subsection 124-780(1) of the ITAA 1997 is not listed in section 102T of the ITAA 1936.
 However, the note to subsection 102T(1) indicates that there is a different approach for a public trading trust that chooses to form a consolidated group. Essentially, if that choice has been made, then Subdivision 713-C of the ITAA 1997 applies to treat the trust as a company and units in it as shares.
 As the trust has not made a choice to form a consolidated group, section 102T has its normal operation.
-Accordingly as subsection 124-780(1) of the ITAA 1997 is not listed in section 102T of the ITAA 1936, a unit in a public trading trust that has not made a choice to form a consolidated group is not treated as a share when applying Subdivision 124-M of the ITAA 1997. Roll-over is not available if the unit is exchanged for a share in a company.
-
-Note: The result would be the same if the trust were a corporate unit trust as defined in section 102J of the ITAA 1936.
-
-Date of decision:
-  14 March 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 6C   section 102J   section 102R   section 102T   subsection 102T(1)   subsection 102T(13)
-Income Tax Assessment Act 1997   Subdivision 124-M   subsection 124-780(1)   subparagraph 124-780(1)(a)(i)   subsection 124-780(2)   section 703-50   Subdivision 713-C
-Taxation Administration Act 1953   Subdivision 12-F in Schedule 1
-Tax Laws Amendment (2004 Measures No.2) Act 2004   The Act
-
-Keywords
-
-Capital gains tax
- CGT event A1-disposal of a CGT asset
- Consolidated group
- Consolidation
- Corporate unit trusts
- Head entity
- Public trading trusts
- Scrip for scrip roll-over
-
-Siebel/TDMS Reference Number:
-  3490770
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 April 2003
-
-ISSN:
- 1445-2782
+Accordingly as subsection 124-780(1) of the ITAA 1997 is not listed in section 102T of the ITAA 1936, a unit in a public trading trust that has not made a choice to form a consolidated group is not treated as a share when applying Subdivision 124-M of the ITAA 1997. Roll-over is not available if the unit is exchanged for a share in a company. Note: The result would be the same if the trust were a corporate unit trust as defined in section 102J of the ITAA 1936. Date of decision: 14 March 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 Division 6C section 102J section 102R section 102T subsection 102T(1) subsection 102T(13)
+Income Tax Assessment Act 1997 Subdivision 124-M subsection 124-780(1) subparagraph 124-780(1)(a)(i) subsection 124-780(2) section 703-50 Subdivision 713-C
+Taxation Administration Act 1953 Subdivision 12-F in Schedule 1
+Tax Laws Amendment (2004 Measures No.2) Act 2004 The Act Keywords Capital gains tax CGT event A1-disposal of a CGT asset Consolidated group Consolidation Corporate unit trusts Head entity Public trading trusts Scrip for scrip roll-over Siebel/TDMS Reference Number: 3490770 Business Line: Public Groups and International Date of publication: 4 April 2003 ISSN: 1445-2782

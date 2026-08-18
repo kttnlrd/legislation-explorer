@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/34
-==================================================
-
-Income Tax
- Application of subsection 23AH(2): deemed permanent establishment (PE) and carrying on of business - Article 5.4 of the 1995 New Zealand Agreement
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in Draft Taxation Ruling TR 2013/D8: Income tax: satisfying the 'carrying on a business at or through a permanent establishment' requirement in section 23AH where a company is taken to have a permanent establishment (PE) in relation to substantial equipment.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Application of subsection 23AH(2): deemed permanent establishment (PE) and carrying on of business - Article 5.4 of the 1995 New Zealand Agreement FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in Draft Taxation Ruling TR 2013/D8: Income tax: satisfying the 'carrying on a business at or through a permanent establishment' requirement in section 23AH where a company is taken to have a permanent establishment (PE) in relation to substantial equipment. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does foreign income that is derived by an Australian resident company under a bareboat lease agreement for equipment satisfy subsection 23AH(2) of the Income Tax Assessment Act 1936 (ITAA 1936) where the company is deemed to be carrying on business through a PE in New Zealand under the 1995 New Zealand tax treaty, formerly in Schedule 4 to the International Tax Agreements Act 1953 (the 1995 New Zealand Agreement)?
 Decision
 Yes, the foreign income will satisfy subsection 23AH(2) of the ITAA 1936 to the extent that the income is derived at a time when the taxpayer is deemed to be carrying on business through a deemed PE in New Zealand (and provided that all the other requirements in section 23AH of the ITAA 1936 are met).
@@ -26,83 +11,13 @@ The leased equipment is 'substantial equipment' for the purposes of Article 5.4(
 The taxpayer derives premiums under the lease from the New Zealand resident company and those premiums satisfy the definition of 'foreign income' under subsection 23AH(15) of the ITAA 1936.
 New Zealand is a listed country for the purpose of subsection 23AH(2) of the ITAA 1936 by virtue of subsection 23AH(15) and subsection 320(1) of the ITAA 1936 and Schedule 10 of the Income Tax Regulations 1936.
 Reasons for Decision
-Section 23AH of the ITAA 1936 treats certain foreign income derived by Australian resident companies as not-assessable and not-exempt income in Australia. The purpose of section 23AH was explained in the Second Reading Speech in the House of Representatives by Mr Ross Cameron, the Parliamentary Secretary to the Treasurer, when the measure was introduced. He said:
-
-The measures in this Bill will directly assist Australian companies with foreign subsidiaries or branch operations by generally ensuring that they only pay one layer of (foreign) tax on the profits of those offshore operations as well as reducing compliance costs in many cases. As a general rule, profits from offshore active business operations will not be taxed in Australia. However, any passive or highly mobile income shifted to those offshore investments will continue to be taxed in Australia on an accruals basis.
-
-Subsection 23AH(2) of the ITAA 1936 provides that, subject to the other requirements in section 23AH being satisfied:
-
-foreign income derived by a company, at a time when the company is a resident in carrying on a business, at or through a PE of the company in a listed country or unlisted country is not assessable income, and is not exempt income, of the company.
-
-The requirement that the foreign income must be 'derived' by the company 'at a time' when the company is a resident 'in' carrying on business, at or through the PE (emphasis added) indicates that in order for the exemption to apply, the foreign income must be derived by the Australian resident company at a point in time when the taxpayer is conducting business through the PE, such that the income can be said to arise from the business activities conducted through the PE.
-Subsection 23AH(15) of the ITAA 1936 defines the term 'permanent establishment' or 'PE' in relation to a listed or unlisted country:
-
-(a)if there is a double tax agreement in relation to that country - has the same meaning as in the double tax agreement; or
-(b)in any other case - has the meaning given by subsection 6(1) of the ITAA 1936.
-
-Paragraph (a) of the definition of the term 'permanent establishment' in subsection 23AH(15) of the ITAA 1936 provides for present purposes that the term takes its meaning from the Permanent Establishment Article (Article 5) of the 1995 New Zealand Agreement. Article 5.4(c) provides that an enterprise shall be deemed to have a PE in a Contracting State and to carry on business through that PE if substantial equipment is being used in that State by, for or under contract with the enterprise.
+Section 23AH of the ITAA 1936 treats certain foreign income derived by Australian resident companies as not-assessable and not-exempt income in Australia. The purpose of section 23AH was explained in the Second Reading Speech in the House of Representatives by Mr Ross Cameron, the Parliamentary Secretary to the Treasurer, when the measure was introduced. He said: The measures in this Bill will directly assist Australian companies with foreign subsidiaries or branch operations by generally ensuring that they only pay one layer of (foreign) tax on the profits of those offshore operations as well as reducing compliance costs in many cases. As a general rule, profits from offshore active business operations will not be taxed in Australia. However, any passive or highly mobile income shifted to those offshore investments will continue to be taxed in Australia on an accruals basis. Subsection 23AH(2) of the ITAA 1936 provides that, subject to the other requirements in section 23AH being satisfied: foreign income derived by a company, at a time when the company is a resident in carrying on a business, at or through a PE of the company in a listed country or unlisted country is not assessable income, and is not exempt income, of the company. The requirement that the foreign income must be 'derived' by the company 'at a time' when the company is a resident 'in' carrying on business, at or through the PE (emphasis added) indicates that in order for the exemption to apply, the foreign income must be derived by the Australian resident company at a point in time when the taxpayer is conducting business through the PE, such that the income can be said to arise from the business activities conducted through the PE.
+Subsection 23AH(15) of the ITAA 1936 defines the term 'permanent establishment' or 'PE' in relation to a listed or unlisted country: (a)if there is a double tax agreement in relation to that country - has the same meaning as in the double tax agreement; or
+(b)in any other case - has the meaning given by subsection 6(1) of the ITAA 1936. Paragraph (a) of the definition of the term 'permanent establishment' in subsection 23AH(15) of the ITAA 1936 provides for present purposes that the term takes its meaning from the Permanent Establishment Article (Article 5) of the 1995 New Zealand Agreement. Article 5.4(c) provides that an enterprise shall be deemed to have a PE in a Contracting State and to carry on business through that PE if substantial equipment is being used in that State by, for or under contract with the enterprise.
 Applying McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation [2005] FCAFC 67; (2005) 2005 ATC 4398; (2005) 59 ATR 358; (2005) 142 FCR 134 to the present case, the 'enterprise' of the Australian resident company uses the substantial equipment in New Zealand. As a result, Article 5.4(c) of the 1995 New Zealand Agreement deems the Australian resident company to have a PE in New Zealand and to carry on a business through that PE.
-The lease premium income derived by the company is for the use of the substantial equipment. On the basis that the lease premiums are foreign income (and the other requirements of section 23AH of the ITAA 1936 are satisfied), the income will be covered by subsection 23AH(2) of the ITAA 1936 when the income is derived at a time when the taxpayer is using the substantial equipment in New Zealand and has a deemed PE in New Zealand.
-
-Notes
-
-1. If the requirements in subsections of section 23AH of the ITAA 1936 other than subsection 23AH(2) are also satisfied, then the foreign income the taxpayer derives is not assessable and not exempt income.
-
-2. This ATO ID does not apply in respect of the 2010-11 income year and any subsequent income years. Under paragraph 3 and subparagraph 1(a)(iii) of Article 30 of the Convention between Australia and New Zealand signed on 24 June 2009 (the 2009 New Zealand Convention), the 1995 New Zealand Agreement ceased to have effect for present purposes as from 1 July 2010.
-
-Date of decision:
-  2 May 2011
-
-Year of income:
-  Year ended 30 June 2009 Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 23AH   subsection 23AH(2)   subsection 23AH(15)   paragraph 23AH(15)(a)   subsection 320(1)
-Income Tax Regulations 1936   Schedule 10
-International Tax Agreements Act 1953   Schedule 4   Schedule 4, Article 5   Schedule 4, Article 5.4(c)   Schedule 4A
-
-Case References:
-
-McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation   [2005] FCAFC 67   (2005) 142 FCR 134   (2005) 2005 ATC 4398   (2005) 59 ATR 358
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/204
-
-Keywords
-
-Foreign income
- Double tax agreements
- New Zealand
- International tax
- Listed countries
- Non-assessable non-exempt income
- Permanent establishment
- Substantial equipment
- Treaties
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  20 May 2011
-
-ISSN:
- 1445 - 2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 2 May 2011
-Original statement
-
-You are here
+The lease premium income derived by the company is for the use of the substantial equipment. On the basis that the lease premiums are foreign income (and the other requirements of section 23AH of the ITAA 1936 are satisfied), the income will be covered by subsection 23AH(2) of the ITAA 1936 when the income is derived at a time when the taxpayer is using the substantial equipment in New Zealand and has a deemed PE in New Zealand. Notes 1. If the requirements in subsections of section 23AH of the ITAA 1936 other than subsection 23AH(2) are also satisfied, then the foreign income the taxpayer derives is not assessable and not exempt income. 2. This ATO ID does not apply in respect of the 2010-11 income year and any subsequent income years. Under paragraph 3 and subparagraph 1(a)(iii) of Article 30 of the Convention between Australia and New Zealand signed on 24 June 2009 (the 2009 New Zealand Convention), the 1995 New Zealand Agreement ceased to have effect for present purposes as from 1 July 2010. Date of decision: 2 May 2011 Year of income: Year ended 30 June 2009 Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 section 23AH subsection 23AH(2) subsection 23AH(15) paragraph 23AH(15)(a) subsection 320(1)
+Income Tax Regulations 1936 Schedule 10
+International Tax Agreements Act 1953 Schedule 4 Schedule 4, Article 5 Schedule 4, Article 5.4(c) Schedule 4A Case References: McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation [2005] FCAFC 67 (2005) 142 FCR 134 (2005) 2005 ATC 4398 (2005) 59 ATR 358 Related ATO Interpretative Decisions ATO ID 2010/204 Keywords Foreign income Double tax agreements New Zealand International tax Listed countries Non-assessable non-exempt income Permanent establishment Substantial equipment Treaties Business Line: Public Groups and International Date of publication: 20 May 2011 ISSN: 1445 - 2782 history Date: Version: 2 May 2011
+Original statement You are here
 11 December 2013
 Archived

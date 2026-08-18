@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/516
-==================================================
-
-Superannuation
- Retirement income entities - Fund money deposited in member's bank account
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Retirement income entities - Fund money deposited in member's bank account FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Has a contravention of section 65 of the Superannuation Industry (Supervision) Act 1993 (SISA) occurred where money payable to the self managed superannuation fund (SMSF) was unintentionally deposited into the trustee's personal bank account?
 Decision
 No. A contravention of section 65 of SISA will have occurred if the trustee intended to borrow the money for his or her personal use.
@@ -25,66 +12,12 @@ The cheques were due to be paid to the SMSF and not to the trustee in his person
 The trustee has on several occasions, deposited money belonging to the SMSF into his personal bank account.
 Reasons for Decision
 Section 65 of SISA prohibits the trustee of a regulated superannuation fund from lending money to a member of the fund or a relative of a member of the fund.
-However paragraph 52(2)(g) of SISA places trustees under a covenant to keep the money and other assets of the superannuation fund separate to those of the trustee personally (among others). A breach of a covenant may result in an action for loss or damage that occurred as a result of the contravention.
-
-This paragraph was inserted on 14 February 2003
-
-Note, when a trustee becomes aware of (or should have become aware of) such an error, the trustee should immediately take steps to rectify the situation. Where the trustee fails to rectify such an error immediately on becoming aware of the error (or should have become aware of the error), they will be considered to have made a loan and have contravened section 65 of SISA.
-
-Amendment History
-
-Date of amendment
+However paragraph 52(2)(g) of SISA places trustees under a covenant to keep the money and other assets of the superannuation fund separate to those of the trustee personally (among others). A breach of a covenant may result in an action for loss or damage that occurred as a result of the contravention. This paragraph was inserted on 14 February 2003 Note, when a trustee becomes aware of (or should have become aware of) such an error, the trustee should immediately take steps to rectify the situation. Where the trustee fails to rectify such an error immediately on becoming aware of the error (or should have become aware of the error), they will be considered to have made a loan and have contravened section 65 of SISA. Amendment History Date of amendment
 Part
-Comment
-
-14 February 2014
+Comment 14 February 2014
 Reasons for Decision
-Updated for clarity
-
-Legislative References
-Updated
-
-Date of decision:
-  27 July 2001
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   Section 65   Paragraph 52(2)(g)
-
-Keywords
-
-Self managed superannuation funds
- SMSF loans
- SMSF trustee
- SIS covenants
-
-Siebel/TDMS Reference Number:
-  CRS58901; 1-7CEXT9L
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  31 May 2002
-
-Date reviewed:
-  22 October 2015
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 July 2001
-Original statement
-
-You are here
+Updated for clarity Legislative References
+Updated Date of decision: 27 July 2001 Legislative References: Superannuation Industry (Supervision) Act 1993 Section 65 Paragraph 52(2)(g) Keywords Self managed superannuation funds SMSF loans SMSF trustee SIS covenants Siebel/TDMS Reference Number: CRS58901; 1-7CEXT9L Business Line: Superannuation Date of publication: 31 May 2002 Date reviewed: 22 October 2015 ISSN: 1445-2782 history Date: Version: 27 July 2001
+Original statement You are here
 14 February 2014
 Updated statement

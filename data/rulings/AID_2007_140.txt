@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/140
-==================================================
-
-Fringe Benefits Tax
- Car Fringe Benefits: operating cost method - calculating taxable value when minor benefits that are exempt benefits are provided
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Car Fringe Benefits: operating cost method - calculating taxable value when minor benefits that are exempt benefits are provided FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When calculating the 'business use percentage' of a particular car for the purposes of the operating cost method under subsection 10(2) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA), will journeys that result in minor benefits that are exempt benefits, be treated as business journeys?
 Decision
 Yes. Such journeys are treated as business journeys and will therefore increase the business use percentage of a car for the purposes of the operating cost method under subsection 10(2) of the FBTAA.
@@ -25,126 +12,24 @@ A particular car is regularly used during the year by employees for both work re
 The log book records show that during the year one employee used this car to undertake a short private journey. This use of the car was a car benefit under section 7 of the FBTAA. It was determined at the end of the year that this car benefit satisfied the requirements of section 58P of the FBTAA and was an exempt benefit.
 The employer elects and uses the operating cost method in section 10 of the FBTAA to calculate the aggregate of the taxable value of car fringe benefits in relation to the car.
 Reasons for Decision
-In calculating the aggregate taxable values of the car fringe benefits under the operating cost method subsection 10(2) of the FBTAA provides the following formula:
-
-(
- C
- x (100% -
- BP
- )) -
- R
-
-where:
-
-C
- is the operating cost of the car during the holding period;
-
-BP
- is:
-
-(a)if, under section 10A or 10B, the employer is not entitled to a reduction in the operating cost of the car on account of business journeys undertaken in the car during the holding period - nil; or
+In calculating the aggregate taxable values of the car fringe benefits under the operating cost method subsection 10(2) of the FBTAA provides the following formula: ( C x (100% - BP )) - R where: C is the operating cost of the car during the holding period; BP is: (a)if, under section 10A or 10B, the employer is not entitled to a reduction in the operating cost of the car on account of business journeys undertaken in the car during the holding period - nil; or
 (b).........
-(c)in any other case - the business use percentage applicable to the car for the holding period; and
-
-R
- is the amount (if any) of the recipient's payment.
-The term 'business use percentage' is defined in subsection 136(1) of the FBTAA:
-
-business use percentage
-, for a car held by a person during a period (the holding period) in an FBT year, means the percentage worked out using the formula:
-
-Number of business kilometres travelled by the car during the holding period / Total number of kilometres travelled by the car during the holding period
- X 100%
-
-The term 'business kilometre' is defined in subsection 136(1) of the FBTAA:
-
-"
- business kilometre
- ", in relation to a car, means a kilometre travelled by the car in the course of a business journey.
-
-The term 'business journey', is defined in subsection 136(1) of the FBTAA:
-
-"
- business journey
- " means:
-
-(a)for the purposes of the application of Division 2 of Part III in relation to a car fringe benefit in relation to an employer in relation to a car - a journey undertaken in a car otherwise than in the application of the car to a private use, being an application that results in the provision of a fringe benefit in relation to the employer; or
-(b).......
-
-The car is described in the facts as being held for the full year under subsections 162(1) and 162(2) of the FBTAA. As a result, components C and BP of the formula are also based upon the full year.
+(c)in any other case - the business use percentage applicable to the car for the holding period; and R is the amount (if any) of the recipient's payment.
+The term 'business use percentage' is defined in subsection 136(1) of the FBTAA: business use percentage
+, for a car held by a person during a period (the holding period) in an FBT year, means the percentage worked out using the formula: Number of business kilometres travelled by the car during the holding period / Total number of kilometres travelled by the car during the holding period X 100% The term 'business kilometre' is defined in subsection 136(1) of the FBTAA: " business kilometre ", in relation to a car, means a kilometre travelled by the car in the course of a business journey. The term 'business journey', is defined in subsection 136(1) of the FBTAA: " business journey " means: (a)for the purposes of the application of Division 2 of Part III in relation to a car fringe benefit in relation to an employer in relation to a car - a journey undertaken in a car otherwise than in the application of the car to a private use, being an application that results in the provision of a fringe benefit in relation to the employer; or
+(b)....... The car is described in the facts as being held for the full year under subsections 162(1) and 162(2) of the FBTAA. As a result, components C and BP of the formula are also based upon the full year.
 The formula in subsection 10(2) of the FBTAA does not allow for any direct reduction for the notional value of a minor benefit that is an exempt benefit so the aggregate of the taxable values of any car fringe benefits is unaffected by such a value.
 When calculating the aggregate of the taxable values of car fringe benefits under subsection 10(2) of the FBTAA, the 'business use percentage' applicable to the car needs to be determined.
 As the definitions show, the amount of the 'business use percentage' is dependant on the ratio of the number of business kilometres to total kilometres. The number of business kilometres is dependant on what is a 'business journey'
-The definition of 'business journey' above requires,
-
-a journey undertaken in a car otherwise than in the application of the car to a private use,
- being an application that results in the provision of a fringe benefit
- in relation to the employer.... (emphasis added).
-
-Where a journey is concluded to be a minor benefit that is an exempt benefit, it meets the definition of a 'business journey' as it is not private use that results in the provision of a fringe benefit, but rather it is private use that results in the provision of an exempt benefit. The employer should therefore record any journeys that are determined to be minor benefits that are exempt benefits, as business journeys.
+The definition of 'business journey' above requires, a journey undertaken in a car otherwise than in the application of the car to a private use, being an application that results in the provision of a fringe benefit in relation to the employer.... (emphasis added). Where a journey is concluded to be a minor benefit that is an exempt benefit, it meets the definition of a 'business journey' as it is not private use that results in the provision of a fringe benefit, but rather it is private use that results in the provision of an exempt benefit. The employer should therefore record any journeys that are determined to be minor benefits that are exempt benefits, as business journeys.
 The inclusion of a minor benefit that is an exempt benefit as a 'business journey' and therefore as 'business kilometres' will result in an increase in the ratio of number of business kilometres to total kilometres which will increase the 'business use percentage'.
-The end result of the inclusion of the number of kilometres travelled on the short private journey (which was a minor benefit that is an exempt benefit) will be a reduction in the aggregate taxable value of the car fringe benefits as determined under subsection 10(2) of the FBTAA.
-
-Amendment History
-
-Date of Amendment
+The end result of the inclusion of the number of kilometres travelled on the short private journey (which was a minor benefit that is an exempt benefit) will be a reduction in the aggregate taxable value of the car fringe benefits as determined under subsection 10(2) of the FBTAA. Amendment History Date of Amendment
 Part
-Comment
-
-20 March 2026
+Comment 20 March 2026
 Reasons for Decision
-Revised for punctuation
-
-20 March 2026
+Revised for punctuation 20 March 2026
 Business line
-Updated to correct business line
-
-Date of decision:
-  10 May 2007
-
-Year of income:
-  Year ended 31 March 2008
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   section 7   section 10   subsection 10(2)   section 58P   subsection 136(1)   subsection 162(1)   subsection 162(2)
-
-Keywords
-
-Car fringe benefits
- Exempt benefits
- FBT operating cost
- Fringe benefits
- Fringe benefits tax
- Minor benefits
-
-Siebel/TDMS Reference Number:
-  5458397; 1-7UGW8HW; 1-F6FVJD1
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  6 July 2007
-
-Date reviewed:
-  12 March 2026
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 May 2007
-Original statement
-
-You are here
+Updated to correct business line Date of decision: 10 May 2007 Year of income: Year ended 31 March 2008 Legislative References: Fringe Benefits Tax Assessment Act 1986 section 7 section 10 subsection 10(2) section 58P subsection 136(1) subsection 162(1) subsection 162(2) Keywords Car fringe benefits Exempt benefits FBT operating cost Fringe benefits Fringe benefits tax Minor benefits Siebel/TDMS Reference Number: 5458397; 1-7UGW8HW; 1-F6FVJD1 Business Line: Superannuation and Employer Obligations Date of publication: 6 July 2007 Date reviewed: 12 March 2026 ISSN: 1445-2782 history Date: Version: 10 May 2007
+Original statement You are here
 20 March 2026
 Updated statement

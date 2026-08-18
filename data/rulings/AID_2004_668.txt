@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/668
-==================================================
-
-Income tax
- Capital gains tax : buy-sell agreement - time of CGT event A1
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital gains tax : buy-sell agreement - time of CGT event A1 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a buy-sell agreement 'entered into' for the purposes of paragraph 104-10(3)(a) of the Income Tax Assessment Act 1997 (ITAA 1997) before a condition precedent to its formation is fulfilled?
 Decision
 No. The buy-sell agreement is not entered into for the purposes of paragraph 104-10(3)(a) of the ITAA 1997 until the condition precedent to its formation is met.
@@ -28,41 +17,4 @@ Subsection 104-10(3) ITAA 1997 provides that CGT event A1 happens when you enter
 The time when a contract is entered into is the time when it comes into existence for general law purposes.
 If a contract is subject to a condition, an issue arises whether the condition is a condition precedent to its formation or whether it is a condition precedent to performance of the contract. In the first case, the contract does not come into existence until the condition is met. In the second case, the condition does not prevent the creation of the contract - non-fulfilment of the condition merely entitles a party to terminate the contract: see Perri v. Coolangatta Investments Pty Ltd (1982) 149 CLR 537.
 In this case, the language used to describe the condition evidenced the parties' intention not to be bound by it from the date it was signed. That is, it was a condition precedent to the formation of the agreement. Accordingly, no agreement will be entered into for the purposes of CGT event A1 until the death of a party to the contract. When a party to the agreement dies there will only be a contract in respect of the assets being disposed of by that party. Subsequent contracts will be made when other parties die.
-Date of decision:
-  23 July 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 104-10(1)   subsection 104-10(3)   paragraph 104-10(3)(a)
-
-Case References:
-
-Perri v. Coolangatta Investments Pty Ltd   (1982) 149 CLR 537
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/1190
-
-Keywords
-
-capital gains tax
- CGT event A1-disposal of a CGT asset
- deaths
- private companies
- shareholder payments
- shareholders
-
-Siebel/TDMS Reference Number:
-  4154599
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  13 August 2004
-
-ISSN:
- 1445-2782
+Date of decision: 23 July 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 subsection 104-10(1) subsection 104-10(3) paragraph 104-10(3)(a) Case References: Perri v. Coolangatta Investments Pty Ltd (1982) 149 CLR 537 Related ATO Interpretative Decisions ATO ID 2003/1190 Keywords capital gains tax CGT event A1-disposal of a CGT asset deaths private companies shareholder payments shareholders Siebel/TDMS Reference Number: 4154599 Business Line: Public Groups and International Date of publication: 13 August 2004 ISSN: 1445-2782

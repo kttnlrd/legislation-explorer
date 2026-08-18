@@ -1,69 +1,19 @@
 ATO Interpretative Decision
 ATO ID 2003/425
-==================================================
-
-Goods and Services Tax
- GST and malted milk powder
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-
-Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells malted milk powder marketed solely as a preparation for malted beverages?
-Decision
-
-Yes, the entity is making a GST-free supply under section 38-2 of the GST Act when it sells malted milk powder marketed solely as a preparation for malted beverages.
-Facts
-
-The entity is a food supplier. The entity is selling malted milk powder.
+================================================== Goods and Services Tax GST and malted milk powder FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it sells malted milk powder marketed solely as a preparation for malted beverages?
+Decision Yes, the entity is making a GST-free supply under section 38-2 of the GST Act when it sells malted milk powder marketed solely as a preparation for malted beverages.
+Facts The entity is a food supplier. The entity is selling malted milk powder.
 Malted milk powder can be used to make malted beverages. Malted milk powder can also be used as an ingredient for confectionery. However, the entity markets the malted milk powder solely as a preparation for malted beverages.
 The entity is registered for goods and services tax (GST).
 Reasons for Decision:
 A supply of food is GST-free under section 38-2 of the GST Act if the product satisfies the definition of food in section 38-4 of the GST Act and the supply is not excluded from being GST-free by section 38-3 of the GST Act.
-Food is defined in section 38-4 of the GST Act to include:
-
-•ingredients for food for human consumption (paragraph 38-4(1)(b) of the GST Act); and
-•ingredients for beverages for human consumption (paragraph 38-4(1)(d) of the GST Act).
-
-As malted milk powder can be used as an ingredient both for confectionery and malted drinks, it falls within the definition of food.
+Food is defined in section 38-4 of the GST Act to include: •ingredients for food for human consumption (paragraph 38-4(1)(b) of the GST Act); and
+•ingredients for beverages for human consumption (paragraph 38-4(1)(d) of the GST Act). As malted milk powder can be used as an ingredient both for confectionery and malted drinks, it falls within the definition of food.
 However, under paragraph 38-3(1)(c) of the GST Act, a supply of food is not GST-free if it is food of a kind that is specified in clause 1 of Schedule 1 to the GST Act (Schedule 1).
 Item 8 of Schedule 1 (Item 8) provides that food marketed as ingredients for confectionery is not GST-free. Although malted milk powder can be used as an ingredient for confectionery, the entity markets the malted milk powder solely as a preparation for malted beverages. Therefore, the malted milk powder does not fall within Item 8.
 Under paragraph 38-3(1)(d) of the GST Act, the supply of an ingredient for a beverage is only GST-free if it is an ingredient of a kind specified in the table in clause 1 of Schedule 2 to the GST Act (Schedule 2).
 Item 7 of Schedule 2 (Item 7) specifies preparations that are marketed principally as preparations for malted beverages. The entity markets the malted milk powder solely as a preparation for malted beverages. Therefore, the malted milk powder is an ingredient for a beverage of a kind specified in Item 7.
 Furthermore, the supply of the malted milk powder does not fall within any of the other exclusions in section 38-3 of the GST Act.
 Therefore, the entity is making a GST-free supply under section 38-2 of the GST Act when it sells malted milk powder marketed solely as a preparation for malted beverages.
-Date of decision:
-  30 January 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 38-2   section 38-3   paragraph 38-3(1)(c)   paragraph 38-3(1)(d)   section 38-4   paragraph 38-4(1)(b)   paragraph 38-4(1)(d)   Schedule 1, clause 1   Schedule 1, clause 1, table item 8   Schedule 2, clause 1   Schedule 2, clause 1, table item 7
-
-Related ATO Interpretative Decisions
-
- ATO ID 2001/324
- ATO ID 2001/451
-
-Keywords
-
-Goods & services tax
- GST free
- GST food
- Ingredients for beverages
-
-Siebel/TDMS Reference Number:
-  3205797
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  30 May 2003
-
-ISSN:
- 1445-2782
+Date of decision: 30 January 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 38-2 section 38-3 paragraph 38-3(1)(c) paragraph 38-3(1)(d) section 38-4 paragraph 38-4(1)(b) paragraph 38-4(1)(d) Schedule 1, clause 1 Schedule 1, clause 1, table item 8 Schedule 2, clause 1 Schedule 2, clause 1, table item 7 Related ATO Interpretative Decisions ATO ID 2001/324 ATO ID 2001/451 Keywords Goods & services tax GST free GST food Ingredients for beverages Siebel/TDMS Reference Number: 3205797 Business Line: Indirect Tax Date of publication: 30 May 2003 ISSN: 1445-2782

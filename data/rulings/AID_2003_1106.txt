@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1106
-==================================================
-
-Income Tax
- Franking of dividends: holding period rule and related payments rule - trustee of a trust - interest in corpus
- FOI status: may be released
-
-Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Franking of dividends: holding period rule and related payments rule - trustee of a trust - interest in corpus FOI status: may be released Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a beneficiary that holds an interest in the corpus of a trust, that is in receipt of franked distributions, be entitled to tax offsets under Division 207 of the Income Tax Assessment Act 1997 (ITAA 1997) on distributions flowing through to the beneficiary, if the trustee has not made a family trust election?
 Decision
 No. The beneficiary will not be entitled to the benefit of tax offsets under Division 207 of the ITAA 1997, if they do not hold an indefeasible vested interest in the corpus of the trust.
@@ -23,40 +10,9 @@ The trustee of a non-widely held discretionary trust holds an extensive portfoli
 Reasons for Decision
 Under subsection 160APHG(3) of the Income Tax Assessment Act 1936 (ITAA 1936), a beneficiary of a non-widely held trust is taken to acquire, hold and dispose of an interest in shares held by a trust when the trustee acquires, holds or disposes of shares or an interest in shares. Consequently, a beneficiary of a discretionary trust will be taken to hold an interest in the shares while the trustee holds the shares.
 Pursuant to subsection 160APHL(5) of the ITAA 1936, a beneficiary's interest in shares held by the trustee of a non widely held trust will be determined in proportion to the beneficiary's share of the dividend income derived by the trust. According to subsection 160APHL(7), that beneficiary's interest is a long position with a delta of +1 in relation to itself.
-However, pursuant to subsection 160APHL(10) of the ITAA 1936, where the trust is not:
-
-• a family trust within the meaning of Schedule 2F of the ITAA 1936
+However, pursuant to subsection 160APHL(10) of the ITAA 1936, where the trust is not: • a family trust within the meaning of Schedule 2F of the ITAA 1936
 • is not an employee share trust, or
-• is not a trust resulting from the administration of a deceased estate;
-
-the beneficiary has a short position equal to the long position under subsection 160APHL(7) and a long position equal to so much of the beneficiary's interest in the trust holding as is a fixed interest. Subsection 160APHL(11) defines a fixed interest as a vested and indefeasible interest.
+• is not a trust resulting from the administration of a deceased estate; the beneficiary has a short position equal to the long position under subsection 160APHL(7) and a long position equal to so much of the beneficiary's interest in the trust holding as is a fixed interest. Subsection 160APHL(11) defines a fixed interest as a vested and indefeasible interest.
 As the trustee of the discretionary trust has not made, nor intends to make, a family trust election under Subdivision 272-D of Schedule 2F to the ITAA 1936, subsection 160APHL(10) of the ITAA 1936 will give rise to a short position equal to the long position that arose under subsection 160APHL(7) of the ITAA 1936. However, as the beneficiary's interest in the corpus will not be taken to be indefeasible on account of the fact that the trust deed permits the creation of other interests which may defease the beneficiary's interest in the corpus of the trust, no further long position will arise.
 Consequently, the beneficiary cannot be said to enjoy a fixed interest in the corpus of the trust, and a material diminution in the beneficiary's risk of loss or opportunity for gain would arise.
-Date of decision:
-  27 November 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160APHG   section 160APHL   section 160APH0   Schedule 2F
-
-Keywords
-
-Imputation credits
-
-Siebel/TDMS Reference Number:
-  3352944; 1-DKWE1TV
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  12 December 2003
-
-Date reviewed:
-  1 February 2018
-
-ISSN:
- 1445-2782
+Date of decision: 27 November 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 160APHG section 160APHL section 160APH0 Schedule 2F Keywords Imputation credits Siebel/TDMS Reference Number: 3352944; 1-DKWE1TV Business Line: Private Groups and High Wealth Individuals Date of publication: 12 December 2003 Date reviewed: 1 February 2018 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/430
-==================================================
-
-Goods and Services Tax
- GST and a creditable acquisition made through an unregistered agent of the supplier
- FOI status: may be released
-
-The ATO view for this issue is covered in Goods and Services Tax Ruling GSTR 2000/37.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and a creditable acquisition made through an unregistered agent of the supplier FOI status: may be released The ATO view for this issue is covered in Goods and Services Tax Ruling GSTR 2000/37. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, the recipient of the supply, that is registered for goods and services tax (GST), making a creditable acquisition under section 11-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it acquires a thing, for a creditable purpose, through an unregistered agent of the supplier, where the supply of the thing would be a taxable supply if it were supplied directly by the supplier?
 Decision
 Yes, the entity is making a creditable acquisition under section 11-5 of the GST Act when it acquires a thing, for a creditable purpose, through an unregistered agent of the supplier, where the supply of the thing would be a taxable supply if it were supplied directly by the supplier.
@@ -26,77 +11,14 @@ The agent has an Australian Business Number (ABN) but is not registered nor requ
 The supplier is registered for GST. The supplier is not a GST branch. The supply of the thing to the entity would be a taxable supply if it was supplied directly by the supplier.
 The entity provides consideration to the supplier's agent and acquires the thing for a creditable purpose.
 Reasons for Decision
-Section 11-5 of the GST Act provides that an entity makes a creditable acquisition if:
-
-(a)it acquires anything solely or partly for a creditable purpose;
+Section 11-5 of the GST Act provides that an entity makes a creditable acquisition if: (a)it acquires anything solely or partly for a creditable purpose;
 (b)the supply of the thing to it is a taxable supply;
 (c)it provides, or is liable to provide consideration for the supply; and
-(d)it is registered or required to be registered for GST.
-
-The entity is registered for GST. It acquires the thing for a creditable purpose and provides consideration for the supply. Therefore, the requirements of section 11-5 of the GST Act will be satisfied if the supply of the thing to the entity is a taxable supply.
+(d)it is registered or required to be registered for GST. The entity is registered for GST. It acquires the thing for a creditable purpose and provides consideration for the supply. Therefore, the requirements of section 11-5 of the GST Act will be satisfied if the supply of the thing to the entity is a taxable supply.
 In determining if the supply of the thing to the entity is a taxable supply, it is necessary to examine whether the agent or the supplier is making the supply.
 Paragraph 45 of Goods and Services Tax Ruling GSTR 2000/37 provides that when an agent is authorised to undertake a transaction on behalf of the principal, the transaction is made by the principal through the agent. In this case, the entity acquires a thing from a supplier through an agent who is authorised to act on the supplier's behalf. Therefore, the supply of the thing to the entity is made by the supplier through the agent, and not by the agent.
 The supplier is registered for GST and the supply of the thing to the entity would be a taxable supply if it was made directly by the supplier. Therefore, the supply of the thing to the entity by the supplier through the agent is a taxable supply.
-All the requirements of section 11-5 of the GST Act are satisfied. Therefore, the entity is making a creditable acquisition when it acquires the thing, for a creditable purpose, through an unregistered agent of the supplier, where the supply of the thing would be a taxable supply if it were supplied directly by the supplier.
-
-[Note 1: As the entity is making a creditable acquisition, the entity is entitled to claim an input tax credit for this acquisition under section 11-20 of the GST Act.
-
-Note 2: If the entity accounts for GST on a non-cash basis, the entity attributes the input tax credit for the creditable acquisition to the earlier of the tax periods in which:
-
-•it provides any of the consideration; or
-•an invoice is issued for the acquisition (subsection 29-10(1) of the GST Act).
-
-If the entity accounts for GST on a cash basis, the entity attributes the input tax credit for the creditable acquisition to the tax period in which it provides consideration for the acquisition, but only to the extent that it provided consideration in that period (subsection 29-10(2) of the GST Act).
-
-In either case, an input tax credit is not attributable to a tax period if the entity does not hold a tax invoice for the acquisition when it lodges its GST return for that tax period. The entity attributes the input tax credit to the first tax period in which it holds a tax invoice when it lodges its GST return (subsection 29-10(3) of the GST Act).]
-
-Date of decision:
-  22 May 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 11-5   section 11-20   subsection 29-10(1)   subsection 29-10(2)   subsection 29-10(3)
-
-Related Public Rulings (including Determinations)
-
-GSTR 2000/37
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/429
-
-Keywords
-
-Goods and services tax
- GST input tax credits and creditable acquisitions
- GST invoices
- Tax invoices
- GST tax periods
- Attribution rules
- GST special rules
- Acquisitions and supplies by Agents
-
-Business Line:
-  GST
-
-Date of publication:
-  6 June 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-22 May 2003
-Original statement
-
-You are here
- 9 December 2005
+All the requirements of section 11-5 of the GST Act are satisfied. Therefore, the entity is making a creditable acquisition when it acquires the thing, for a creditable purpose, through an unregistered agent of the supplier, where the supply of the thing would be a taxable supply if it were supplied directly by the supplier. [Note 1: As the entity is making a creditable acquisition, the entity is entitled to claim an input tax credit for this acquisition under section 11-20 of the GST Act. Note 2: If the entity accounts for GST on a non-cash basis, the entity attributes the input tax credit for the creditable acquisition to the earlier of the tax periods in which: •it provides any of the consideration; or
+•an invoice is issued for the acquisition (subsection 29-10(1) of the GST Act). If the entity accounts for GST on a cash basis, the entity attributes the input tax credit for the creditable acquisition to the tax period in which it provides consideration for the acquisition, but only to the extent that it provided consideration in that period (subsection 29-10(2) of the GST Act). In either case, an input tax credit is not attributable to a tax period if the entity does not hold a tax invoice for the acquisition when it lodges its GST return for that tax period. The entity attributes the input tax credit to the first tax period in which it holds a tax invoice when it lodges its GST return (subsection 29-10(3) of the GST Act).] Date of decision: 22 May 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 11-5 section 11-20 subsection 29-10(1) subsection 29-10(2) subsection 29-10(3) Related Public Rulings (including Determinations) GSTR 2000/37 Related ATO Interpretative Decisions ATO ID 2003/429 Keywords Goods and services tax GST input tax credits and creditable acquisitions GST invoices Tax invoices GST tax periods Attribution rules GST special rules Acquisitions and supplies by Agents Business Line: GST Date of publication: 6 June 2003 ISSN: 1445-2782 history Date: Version: 22 May 2003
+Original statement You are here 9 December 2005
 Archived

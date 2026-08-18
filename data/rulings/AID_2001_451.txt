@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/451
-==================================================
-
-Goods and Services Tax
- GST and naturally carbonated mineral water
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and naturally carbonated mineral water FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies naturally carbonated mineral water?
 Decision
 Yes, the entity is making a GST-free supply under section 38-2 of the GST Act when it supplies naturally carbonated mineral water.
@@ -28,36 +17,5 @@ Naturally carbonated mineral water is not specifically listed in Schedule 2. How
 As such, it is necessary to determine whether water that is 'natural water, non-carbonated and without any other additives' includes naturally carbonated water from a spring.
 An accepted principle of statutory interpretation (the noscitur a sociis rule) states that words take their meaning from the words with which they are associated (Fox v. Warde [1978] VR 362: Supreme Court of Victoria). As such, the meaning of the words 'non carbonated' can be derived from the context of the surrounding words, 'and without any other additives', used in Item 14.
 It is considered that the use of the word 'other' implies that the carbonation is considered to be an additive. As such, water that is carbonated would be excluded from Item 14 only if the carbonation is introduced as an additive. In this case, the carbonation in the water occurs naturally and there are no other additives. As such, naturally carbonated mineral water is covered by Item 14.
-In addition, the supply of naturally carbonated mineral water does not fall within any of the exclusions listed in section 38-3 of the GST Act. Therefore, the entity is making a GST-free supply under section 38-2 of the GST Act, when it supplies naturally carbonated mineral water.
-
-[NOTE: The importation of naturally carbonated mineral water is a non-taxable importation under section 13-10 of the GST Act, where the entity imports the water and enters it for home consumption (within the meaning of the Customs Act 1901).]
-
-Date of decision:
-  16 August 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 13-10   section 38-2   section 38-3   paragraph 38-3(1)(d)   subsection 38-4 (1)   paragraph 38-4(1)(c)   Schedule 2   Schedule 2 clause 1   Schedule 2 clause 1 table item 14
-Customs Act 1901   The Act
-
-Case References:
-
-Fox v. Warde   [1978] VR 362
-
-Keywords
-
-Goods & services tax
- GST free
- GST beverages
-
-Siebel/TDMS Reference Number:
-  CW232277
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  11 October 2001
-
-ISSN:
- 1445-2782
+In addition, the supply of naturally carbonated mineral water does not fall within any of the exclusions listed in section 38-3 of the GST Act. Therefore, the entity is making a GST-free supply under section 38-2 of the GST Act, when it supplies naturally carbonated mineral water. [NOTE: The importation of naturally carbonated mineral water is a non-taxable importation under section 13-10 of the GST Act, where the entity imports the water and enters it for home consumption (within the meaning of the Customs Act 1901).] Date of decision: 16 August 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 13-10 section 38-2 section 38-3 paragraph 38-3(1)(d) subsection 38-4 (1) paragraph 38-4(1)(c) Schedule 2 Schedule 2 clause 1 Schedule 2 clause 1 table item 14
+Customs Act 1901 The Act Case References: Fox v. Warde [1978] VR 362 Keywords Goods & services tax GST free GST beverages Siebel/TDMS Reference Number: CW232277 Business Line: Indirect Tax Date of publication: 11 October 2001 ISSN: 1445-2782

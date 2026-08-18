@@ -1,102 +1,27 @@
 ATO Interpretative Decision
 ATO ID 2003/185
-==================================================
-
-Income Tax
- Capital Allowances: deductible balancing adjustment if a depreciating asset is not used
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: deductible balancing adjustment if a depreciating asset is not used FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a taxpayer entitled to a deduction under subsection 40-285(2) of the Income Tax Assessment Act 1997 (ITAA 1997) without any reduction under section 40-290 of the ITAA 1997 if a depreciating asset that was acquired for use for a taxable purpose is sold for less than its cost before it is used, or installed ready for use, for any purpose?
 Decision
 Yes. If a depreciating asset is sold before it has been used, or installed ready for use, for less than its cost an amount can be deducted under subsection 40-285(2) of the ITAA 1997. Section 40-290 of the ITAA 1997 will not reduce the amount of that deduction.
 Facts
 A taxpayer purchased a number of machines, as part of a bona fide plan to establish a business. The machines were delivered to the taxpayer's premises, but put aside until refurbishment of the premises was completed and the equipment could be installed. During the refurbishment process, the taxpayer's application to local council to operate the business was not approved and the taxpayer was unable to go ahead with the plan. Each machine was subsequently sold for less than its cost. For example, a machine that cost $5,000 was sold for $4,000.
 Reasons for Decision
-An amount may be deducted under subsection 40-285(2) of the ITAA 1997 if:
-
-a) a balancing adjustment event occurs for a depreciating asset that was held and:whose decline in value was worked out under Subdivision 40-B of the ITAA 1997, orwhose decline in value would have been worked out under that Subdivision if it had been used; and
-b) the asset's termination value is less than its adjustable value just before the event occurred.
-
-The amount to be deducted is the difference between those amounts.
+An amount may be deducted under subsection 40-285(2) of the ITAA 1997 if: a) a balancing adjustment event occurs for a depreciating asset that was held and:whose decline in value was worked out under Subdivision 40-B of the ITAA 1997, orwhose decline in value would have been worked out under that Subdivision if it had been used; and
+b) the asset's termination value is less than its adjustable value just before the event occurred. The amount to be deducted is the difference between those amounts.
 Subsection 40-290(1) of the ITAA 1997 reduces the amount worked out under section 40-285 of the ITAA 1997 if deductions for the decline in value for the depreciating asset have been reduced under section 40-25 of the ITAA 1997. Subsection 40-25(2) of the ITAA 1997 reduces deductions for decline in value where the depreciating asset is not used wholly for a taxable purpose.
 Each machine is a depreciating asset within the definition in section 40-30 of the ITAA 1997. If they had been used, or installed ready for use, for any purpose the decline in value would have been worked out under Subdivision 40-B of the ITAA 1997.
 A balancing adjustment event has occurred for the machines because the taxpayer stopped holding them when they were sold (paragraph 40-295(1)(a) of the ITAA 1997). Therefore an amount is deductible under subsection 40-285(2) of the ITAA 1997 subject to any reduction under section 40-290 of the ITAA 1997.
 A depreciating asset does not start to decline in value until its start time occurs, which is generally when it is first used, or installed ready for use, by a taxpayer for any purpose (section 40-60 of the ITAA 1997). The adjustable value of a depreciating asset that has not started to decline in value is the cost of the asset (paragraph 40-85(1)(a) of the ITAA 1997).
 There has been no reduction in the deduction for the decline in value of the machines under section 40-25 of the ITAA 1997 because they have not started to decline in value. Therefore section 40-290 of the ITAA 1997 does not reduce the amount of the deduction under subsection 40-285(2) of the ITAA 1997.
 In the example the machine's adjustable value is its cost, being $5,000. The termination value of the machine is $4,000, being the amount received for it (subsection 40-305(1) of the ITAA 1997). A deduction for the amount of $1,000 is therefore available under subsection 40-285(2) of the ITAA 1997.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-18 July 2014
+Comment 18 July 2014
 Other references
-Updated reference name and NAT details.
-
-Keywords
-Removed 'Captital Allowances CoE'
-
-Date of decision:
-  30 January 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 40-25   Subsection 40-25(2)   Section 40-30   Section 40-60   Paragraph 40-85(1)(a)   Subsection 40-285   Subsection 40-285(2)   Section 40-290   Subsection 40-290(1)   Paragraph 40-295(1)(a)   Subsection 40-305(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003-186
-
-Other References:
-
-Guide to Depreciating Assets 2013 NAT 1996
-
-Keywords
-
-Balancing adjustment deduction
- Balancing adjustment event
- Taxable purpose
-
-Siebel/TDMS Reference Number:
-  3196274; 1-AX8OPF3
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  28 March 2003
-
-Date reviewed:
-  27 June 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-30 January 2003
-Original statement
-
-You are here
+Updated reference name and NAT details. Keywords
+Removed 'Captital Allowances CoE' Date of decision: 30 January 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Section 40-25 Subsection 40-25(2) Section 40-30 Section 40-60 Paragraph 40-85(1)(a) Subsection 40-285 Subsection 40-285(2) Section 40-290 Subsection 40-290(1) Paragraph 40-295(1)(a) Subsection 40-305(1) Related ATO Interpretative Decisions ATO ID 2003-186 Other References: Guide to Depreciating Assets 2013 NAT 1996 Keywords Balancing adjustment deduction Balancing adjustment event Taxable purpose Siebel/TDMS Reference Number: 3196274; 1-AX8OPF3 Business Line: Private Groups and High Wealth Individuals Date of publication: 28 March 2003 Date reviewed: 27 June 2017 ISSN: 1445-2782 history Date: Version: 30 January 2003
+Original statement You are here
 18 July 2014
 Updated statement

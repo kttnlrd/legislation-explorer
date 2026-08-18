@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/82
-==================================================
-
-Income Tax
- Life Assurance Company: calculation of passive income - ceases to carry on life assurance business before the end of the statutory accounting period
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Life Assurance Company: calculation of passive income - ceases to carry on life assurance business before the end of the statutory accounting period FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the passive income of a life assurance company be calculated under subsection 446(2) of the Income Tax Assessment Act 1936 (ITAA 1936) where it ceases to carry on life assurance business before the end of the statutory accounting period?
 Decision
 Yes. The passive income of a life assurance company can be calculated under subsection 446(2) of the ITAA 1936 where it ceases to carry on life assurance business before the end of the statutory accounting period.
@@ -25,48 +14,8 @@ The foreign life assurance company was subsequently deregistered after the statu
 Reasons for Decision
 Subsection 446(1) of the ITAA 1936 defines 'passive income' of a company of a statutory accounting period for the purpose of the active income test under Part X of the ITAA 1936.
 Special rules are contained in subsection 446(2) of the ITAA 1936 which provide concessional treatment to Australian taxpayers who are shareholders of foreign life assurance companies which are CFC's. The concessional treatment reduces the amount of passive income that may be attributed to those shareholders under Part X of the ITAA 1936.
-The Explanatory Memorandum amending subsection 446(2) of the ITAA 1936 stated that the intention of the legislation was to:
-
-...exclude from a company's passive income only the income derived on assets that are referable to insurance policies owned by non-residents that are not related to the company. ..............
-
-In the case of life assurance companies, the formula contained in subsection 446(2) reduces the passive income of a life assurance CFC by the proportion of its calculated liabilities that relate to policies owned by unrelated non-residents. ...........
-
-Thus, only the passive income derived from assets that are employed to meet the calculated liabilities of policy holders who are associates of the company or Australian residents is passive income for the purposes of Part X of the Act.
-
-Subsection 446(2) of the ITAA 1936 requires that the passive income of a life assurance company of a statutory accounting period be calculated using the formula given in the subsection.
+The Explanatory Memorandum amending subsection 446(2) of the ITAA 1936 stated that the intention of the legislation was to: ...exclude from a company's passive income only the income derived on assets that are referable to insurance policies owned by non-residents that are not related to the company. .............. In the case of life assurance companies, the formula contained in subsection 446(2) reduces the passive income of a life assurance CFC by the proportion of its calculated liabilities that relate to policies owned by unrelated non-residents. ........... Thus, only the passive income derived from assets that are employed to meet the calculated liabilities of policy holders who are associates of the company or Australian residents is passive income for the purposes of Part X of the Act. Subsection 446(2) of the ITAA 1936 requires that the passive income of a life assurance company of a statutory accounting period be calculated using the formula given in the subsection.
 Section 319 of the ITAA 1936 defines the statutory accounting period of a company as each period of 12 months. On that basis, passive income of the company needs to be calculated on a 12 month basis if the company is in existence for the 12 months. In this case, the company ceased its business before the end of the statutory accounting period and therefore does not satisfy the 12 month requirement. However, the formula in subsection 446(2) of the ITAA 1936 is silent on the calculation of the passive income where the period is less than 12 months.
 The 'concessional treatment' provided under subsection 446(2) of the ITAA 1936 reduces the amount of passive income that may be attributed to the shareholders under the CFC legislation. The policy intention of the subsection can only be achieved in this case by applying the formula to the period when the company has carried on a life assurance business notwithstanding the fact that the statutory accounting period is less than 12 months. The Commissioner considers that based on the legislative intention which is reflected in the Explanatory Memorandum, the passive income of the life assurance company should be given the 'concessional treatment' provided under the subsection 446(2) where the company ceased its life assurance business before the end of the statutory accounting period.
 Accordingly, the passive income of the foreign life assurance company can be calculated under subsection 446(2) of the ITAA 1936 where it ceases to carry on the life assurance business before the end of the statutory accounting period.
-Date of decision:
-  13 July 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 319   section 340   subsection 446(1)   subsection 446(2)
-
-Other References:
-
- Explanatory Memorandum to Taxation Laws Amendment Act (No. 1) 1999
-
-Keywords
-
-Controlled foreign companies
- Foreign active income test
- International tax
- Passive foreign income
- Life Assurance
-
-Siebel/TDMS Reference Number:
-  6083075
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 July 2009
-
-ISSN:
- 1445-2782
+Date of decision: 13 July 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 section 319 section 340 subsection 446(1) subsection 446(2) Other References: Explanatory Memorandum to Taxation Laws Amendment Act (No. 1) 1999 Keywords Controlled foreign companies Foreign active income test International tax Passive foreign income Life Assurance Siebel/TDMS Reference Number: 6083075 Business Line: Public Groups and International Date of publication: 31 July 2009 ISSN: 1445-2782

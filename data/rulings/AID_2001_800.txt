@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/800
-==================================================
-
-Income Tax
- Capital gains tax: capital losses: shares in non-resident company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: capital losses: shares in non-resident company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Has any CGT event in Division 104 of the Income Tax Assessment Act 1997 (ITAA 1997) happened to enable the taxpayer to make a capital loss on their investment, made through Thai securities firms, in shares in non-resident companies?
 Decision
 No. On the evidence available no CGT event in Division 104 of the ITAA 1997 has happened to the taxpayer's shares. The taxpayer is unable to claim a capital loss at this time.
@@ -30,45 +19,4 @@ As the taxpayer has not been able to contact the firm to dispose of their shares
 CGT event C2 has also not occurred in these circumstances. The only circumstance that CGT event C2 may have occurred would be if the shares ended by being redeemed or cancelled in terms of paragraph 104-25(1)(a) of the ITAA 1997. There is no evidence that this has happened.
 Further it is considered that it is not possible to abandon or surrender a share in terms of paragraph 104-25(1)(d) of the ITAA 1997. The most appropriate CGT event to apply in this circumstance is CGT event G3.
 As no CGT events have occurred in relation to the taxpayer's shares, they have not made a capital loss at this time. The taxpayer may make a capital loss when they are able to establish that either CGT events A1, C2 or G3 occur.
-The taxpayer has been unable to determine whether their investment in these firms has resulted in the acquisition of legitimate shares. In the event that the shares are not legitimate, the taxpayer may have a right to sue the securities firms. The implications of this are outlined in ATOID 2001/799.
-
-Note:
- Taxation Laws Amendment (2004 Measures No. 6) Act 2005 has extended the scope of CGT event G3 in section 104-145 of the ITAA 1997. The event now happens if a liquidator or an administrator makes an appropriate written declaration in respect of valueless shares or financial instruments. The amendments apply to declarations made after 21 March 2005. These amendments would not, however, affect the decision in this case if the taxpayer had not received a written declaration from an administrator or a liquidator that the shares were worthless.
-
-[HISTORY: This ATO ID has been amended by adding a note which explains the changes made to CGT event G3 in section 104-145 of the Income Tax Assessment Act 1997 which applies to declarations made by liquidators or administrators after 21 March 2005.]
-
-Date of decision:
-  28 November 2001
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 102-20   section 104-10   paragraph 104-25(1)(a)   paragraph 104-25(1)(d)   section 104-145
-
-Related ATO Interpretative Decisions
-
- ATOID 2001/799
-
-Keywords
-
-Capital gains tax
- Capital losses
- Abandonment of assets
- Confirmed significant issues
- CGT event A1-disposal of a CGT asset
- CGT events C1-C3 - end of a CGT asset
- CGT events G1-G3 - shares
-
-Siebel/TDMS Reference Number:
-  DW287539
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  21 December 2001
-
-ISSN:
- 1445-2782
+The taxpayer has been unable to determine whether their investment in these firms has resulted in the acquisition of legitimate shares. In the event that the shares are not legitimate, the taxpayer may have a right to sue the securities firms. The implications of this are outlined in ATOID 2001/799. Note: Taxation Laws Amendment (2004 Measures No. 6) Act 2005 has extended the scope of CGT event G3 in section 104-145 of the ITAA 1997. The event now happens if a liquidator or an administrator makes an appropriate written declaration in respect of valueless shares or financial instruments. The amendments apply to declarations made after 21 March 2005. These amendments would not, however, affect the decision in this case if the taxpayer had not received a written declaration from an administrator or a liquidator that the shares were worthless. [HISTORY: This ATO ID has been amended by adding a note which explains the changes made to CGT event G3 in section 104-145 of the Income Tax Assessment Act 1997 which applies to declarations made by liquidators or administrators after 21 March 2005.] Date of decision: 28 November 2001 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 section 102-20 section 104-10 paragraph 104-25(1)(a) paragraph 104-25(1)(d) section 104-145 Related ATO Interpretative Decisions ATOID 2001/799 Keywords Capital gains tax Capital losses Abandonment of assets Confirmed significant issues CGT event A1-disposal of a CGT asset CGT events C1-C3 - end of a CGT asset CGT events G1-G3 - shares Siebel/TDMS Reference Number: DW287539 Business Line: Public Groups and International Date of publication: 21 December 2001 ISSN: 1445-2782

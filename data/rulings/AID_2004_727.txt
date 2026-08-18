@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/727
-==================================================
-
-Income tax
- Consolidation: entry history rule and the tax costs of assets belonging to a chosen transitional entity
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Consolidation: entry history rule and the tax costs of assets belonging to a chosen transitional entity FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entry history rule in section 701-5 of the Income Tax Assessment Act 1997 (ITAA 1997) have the effect that, if a head company elects that an entity is a 'chosen transitional entity' under section 701-5 of the Income Tax (Transitional Provisions) Act 1997 (IT(TP)A 1997), the tax costs of the assets of that entity are the existing tax costs on the date the head company forms a consolidated group, even though the tax costs of the assets of that 'chosen transitional entity' may have previously been set in accordance with subsection 701-10(4) of the ITAA 1997 when held by another head company of a consolidated group?
 Decision
 Yes. If the tax costs of an entity's assets were set in accordance with subsection 701-10(4) of the ITAA 1997 when an entity became a member of a consolidated group, the setting of the tax costs form part of the assets' tax history. Under the exit history rule in section 701-40 of the ITAA 1997, the assets' tax histories are inherited by the entity that takes the assets out of the consolidated group. If that entity subsequently becomes a subsidiary member of a new consolidated group and is treated as a 'chosen transitional entity' under section 701-5 of the IT(TP)A 1997 by the new head company, the entity's tax history will include the history of the assets' tax cost setting and subsequent tax cost adjustments while they were the assets of a subsidiary member of the first consolidated group. This history is inherited by the head company of the new consolidated group under the entry history rule in section 701-5 of the ITAA 1997.
@@ -29,39 +18,5 @@ HeadCo X formed a consolidated group on 1 July 2002. Its subsidiary, Company A i
 HeadCo X did not make the choice to treat Company A as a chosen transitional entity. The tax costs of Company A's assets were set in accordance with the cost setting rules in Division 705 of the ITAA 1997. The setting of the tax costs of Company A's assets becomes part of the tax history of those assets.
 When Company A ceases to be a member of HeadCo X's consolidated group, it inherits the tax histories of the assets it takes with it under the exit history rule in section 701-40 of the ITAA 1997.
 On 1 July 2003, HeadCo Y formed a consolidated group, in which Company A became a subsidiary member. Its subsidiary, Company A is a 'transitional entity' according to the definition in paragraph 701-1(1)(b) of the IT(TP)A 1997.
-HeadCo Y chooses to treat Company A as a 'chosen transitional entity'. Subsection 701-10(4) of the ITAA 1997 will not apply to Company A's assets because of the operation of section 701-15 of the IT(TP)A 1997. HeadCo Y will inherit Company A's tax history under the entry history rule in section 701-5 of the ITAA 1997. This will include the tax costs set for Company A's assets when it had been a subsidiary member of HeadCo X's consolidated group.
-
-Note: the fact that an asset has its tax cost set does not mean that tax cost will be the terminating value of that asset, as defined in section 705-30 of the ITAA 1997. Other events that become part of an asset's tax history may occur before an asset's terminating value must be determined that will affect what that terminating value will be.
-
-Date of decision:
-  28 July 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 701-5   subsection 701-10(4)   section 701-40   Division 705   section 705-30
-Income Tax (Transitional Provisions) Act 1997   paragraph 701-1(1)(b)   paragraph 701-1(3)(b)   section 701-5   section 701-15
-
-Keywords
-
-Chosen transitional entity
- Consolidation
- Consolidation - formation
- Head company
- Inherited history rules
- Non-chosen transitional entity
- Transitional entity
-
-Siebel/TDMS Reference Number:
-  4068766
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  3 September 2004
-
-ISSN:
- 1445-2782
+HeadCo Y chooses to treat Company A as a 'chosen transitional entity'. Subsection 701-10(4) of the ITAA 1997 will not apply to Company A's assets because of the operation of section 701-15 of the IT(TP)A 1997. HeadCo Y will inherit Company A's tax history under the entry history rule in section 701-5 of the ITAA 1997. This will include the tax costs set for Company A's assets when it had been a subsidiary member of HeadCo X's consolidated group. Note: the fact that an asset has its tax cost set does not mean that tax cost will be the terminating value of that asset, as defined in section 705-30 of the ITAA 1997. Other events that become part of an asset's tax history may occur before an asset's terminating value must be determined that will affect what that terminating value will be. Date of decision: 28 July 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 701-5 subsection 701-10(4) section 701-40 Division 705 section 705-30
+Income Tax (Transitional Provisions) Act 1997 paragraph 701-1(1)(b) paragraph 701-1(3)(b) section 701-5 section 701-15 Keywords Chosen transitional entity Consolidation Consolidation - formation Head company Inherited history rules Non-chosen transitional entity Transitional entity Siebel/TDMS Reference Number: 4068766 Business Line: Consolidation Centre of Expertise Date of publication: 3 September 2004 ISSN: 1445-2782

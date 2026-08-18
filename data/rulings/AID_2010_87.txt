@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/87
-==================================================
-
-Income Tax
- Thin capitalisation rules: Tier 1 prudential capital deductions - non-banking members
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Thin capitalisation rules: Tier 1 prudential capital deductions - non-banking members FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the head company of a consolidated group classified as an 'outward investing entity (ADI)' have to calculate, and include, in Step 3 of section 820-310 of the Income Tax Assessment Act 1997 (ITAA 1997), the 'average value ... of ... the tier 1 prudential capital deductions' of the non-banking members of the consolidated group?
 Decision
 Yes. The head company of a consolidated group classified as an 'outward investing entity (ADI)' has to calculate, and include, in Step 3 of section 820-310 of the ITAA 1997, the 'average value ... of ... the tier 1 prudential capital deductions' for the assets of the non-banking members of the consolidated group.
@@ -20,113 +9,17 @@ Facts
 A company is the head company of an income tax consolidated group.
 The consolidated group includes an Australian Authorised Deposit-Taking Institution (ADI) for the purposes of the Banking Act 1959.
 The head company is classified under subsection 820-583(7) of the ITAA 1997 as an 'outward investing entity (ADI)' for the purposes of applying Division 820 of the ITAA 1997.
-The head company's consolidated group includes non-banking members that are excluded from the 'Level 2' group of the ADI that are subject to Tier 1 capital requirements under the prudential standards determined by the Australian Prudential Regulation Authority (
- APRA
- ) under section 11AF of the Banking Act 1959.
+The head company's consolidated group includes non-banking members that are excluded from the 'Level 2' group of the ADI that are subject to Tier 1 capital requirements under the prudential standards determined by the Australian Prudential Regulation Authority ( APRA ) under section 11AF of the Banking Act 1959.
 Reasons for Decision
 The head company of a consolidated group or MEC group is subject to the thin capitalisation rules in Subdivision 820-D of the ITAA 1997 if it is classified as an 'outward investing entity (ADI)' under subdivisions 820-EA, 820-FA or 820-FB of the ITAA 1997 (as applicable).
 The application of provisions in Division 820 of the ITAA 1997 is for a 'head company core purpose', within the meaning of section 701-1 of the ITAA 1997, as it is necessary to determine a taxpayer's allowable deductions in order to determine its liability for income tax (see sections 4-10 and 4-15 of the ITAA 1997).
 Accordingly, all the subsidiary members of a consolidated group are 'taken ... to be parts of the head company' for the purpose of determining the 'average value ... of all the *tier 1 prudential capital deductions for the [head company]' in Step 3 of the 'Method statement' in section 820-310 of the ITAA 1997.
-'Tier 1 prudential capital deduction' is defined in subsection 995-1(1) of the ITAA 1997 as:
-
-the amounts that must be deducted in the calculation of the eligible tier 1 capital of the entity (within the meaning of the *prudential standards) ... in accordance with the prudential standards in force at that time.
-
-'Prudential standards' is defined in subsection 995-1(1) of the ITAA 1997 as:
-
-the prudential standards determined by *APRA and in force under section 11AF of the Banking Act 1959.
-
-Australian Prudential Standard (APS) 111 is a prudential standard determined by APRA and in force under section 11AF of the Banking Act 1959.
-Paragraphs 39 to 49 of APS 111 provide for 100% or 50% of the value of specified kinds of assets to be subtracted in determining the amount of Tier 1 capital of an ADI. For example, paragraphs 39 and 41 of APS 111 state:
-
-39. For the purposes of calculating its Level 1 capital base, an ADI must deduct the following items from Tier 1 capital...:
-
-(a) any identified impairment of an asset [not already taken into account in the P&L]...;
-
-(b) [net] deferred tax assets ...
-
-(h) goodwill, and any other intangible assets arising on an acquisition ...[etc.]...
-
-41. The following items are to be deducted 50 per cent from Tier 1 capital and 50 per cent from Tier 2 capital:
-
-(a) equity exposures ... in other ADIs ...[etc.]
-
-The relevant legislative context to section 820-310 of the ITAA 1997 discloses that it is expressly contemplated, and intended, that the amount of 'risk-weighted assets' in Step 1, and correspondingly, the amount of 'tier 1 prudential capital deductions' in Step 3, can be determined for any, and all, of the assets of a taxpayer treated as an 'outward investing entity (ADI)', irrespective of whether the taxpayer is subject to Tier 1 capital adequacy regulation by APRA under APS 110 and the Banking Act 1959. That relevant legislative context includes:
-
-•the application of the ADI rules in Subdivisions 820-D and 820-E of the ITAA 1997 (as the case may be) to a taxpayer that has made an election under section 820-430 of the ITAA 1997 to be treated as an ADI under Division 820. The election in Subdivision 820-EA of the ITAA 1997 is expressly premised on a taxpayer which is not a regulated bank (including a consolidated or MEC group that does not include a regulated bank) being able to determine the amount of its 'risk-weighted assets' in determining its 'safe harbour capital amount' under section 820-310 of the ITAA 1997.
-•the classification of a taxpayer as an 'outward investing entity (ADI)', if the taxpayer is otherwise not an ADI under the Banking Act 1959, if the taxpayer includes:
-
-•a single subsidiary member which is an ADI - refer to subsection 820-583(7) of the ITAA 1997; or
-•qualifying Australian branch operations (of its foreign owners) pursuant to an election under section 820-597 or 820-599 of the ITAA 1997 - refer to subsection 820-609(1) of the ITAA 1997.
-
-•section 820-588 of the ITAA 1997. The enactment of section 820-588 for specialist credit card institutions is based on the premise that a taxpayer's consolidated group which does not have any member subject to Tier 1 capital adequacy regulation by APRA (for which its 'risk weighted assets' has to be determined under Attachment D to APS 110) is nevertheless able to determine the amount of its 'risk-weighted assets' in determining its 'safe harbour capital amount' under section 820-310 of the ITAA 1997.
-
-It follows that the amount of 'risk-weighted assets' for the purpose of Step 1 of the Method statement in section 820-310 of the ITAA 1997 is the sum of the amounts determined in accordance with APRA's method (in paragraph 6 of Attachment D to APS 110) for determining an ADI's 'total risk-weighted assets'. It similarly follows that the 'average value ... of all the *tier 1 prudential capital deductions for the [head company]', in Step 3 of the Method statement in section 820-310 is intended to include the amounts determined under APRA's method (in paragraphs 39 to 49 of APS 111) for subtracting the value of certain kinds of assets from the amount of Tier 1 capital for the purpose of the minimum capital requirements in paragraph 14 of APS 110. Note: assets subtracted in calculating Tier 1 capital are excluded from the calculation of 'total risk-weighted assets': refer paragraph 50 of APS 111.
-This interpretation of the 'average value ... of all the *tier 1 prudential capital deductions for the [head company]' in Step 3 of section 820-310 of the ITAA 1997 not only accords with the intent of the legislature discerned from the relevant legislative context of section 820-310, as referred to above, it also reflects a natural reading of the words of the definition in subsection 995-1(1) of the ITAA 1997, namely:
-
-the amounts that must be deducted in the calculation of the eligible tier 1 capital of the [head company] ... (within the meaning of the *prudential standards) ... in accordance with the prudential standards in force at that time.
-
-This interpretation is also consistent with the relevant statements in the Explanatory Memorandum to New Business Tax System (Thin Capitalisation) Act 2001:
-
-5.9 The thin capitalisation rules applying to ADIs are based on the methodology of the capital adequacy requirements prescribed by APRA. Under the capital adequacy regime, the ADIs assets are risk weighted, so those assets that have higher risk (such as loans to corporate entities) require more capital than assets that have low risk (such as government bonds). APRA may also require a specific amount of capital to be held for certain assets, such as goodwill and investments in life and general insurance subsidiaries.
-
-5.10 Similarly, the thin capitalisation rules for ADIs will use risk-adjusted assets rather than book values of assets to calculate the safe harbour minimum capital amount and the worldwide capital amount, and will require additional capital to be held against certain Australian assets.
-
-...
-
-What are prudential capital deductions?
-
-5.38 Prudential capital deductions include Tier 1 prudential capital deductions and deductions from total capital as defined in the prudential standard APS111 Capital Adequacy: Measurement of Capital. Deductions from total capital include investments in other ADIs outside the bank group, non-operating holding companies, non-consolidated subsidiaries and associates. ...
-
-What are Tier 1 prudential capital deductions?
-
-5.39 Tier 1 prudential capital deductions are amounts that must be deducted in calculating the eligible Tier 1 capital as defined in the prudential standards. These deductions include goodwill, other intangibles assets, future income tax benefits, equity and other capital investments in associated lenders [sic] mortgage insurers. In the final step of the method statement, any Tier 1 prudential capital deductions attributable to foreign branches or subsidiaries are not added on because they are not a part of the bank's Australian operations. [
- Schedule 2, item 67, definition of
- '
- Tier 1 prudential capital deduction' in subsection 995
--
- 1(1)
-]
-
-It is noted that, if the amount of 'tier 1 prudential capital deductions for the [head company]' in Step 3 of the Method statement in section 820-310 of the ITAA 1997 only included amounts which the banking members (if any) of the consolidated group had to deduct in determining their Tier 1 capital under the Banking Act 1959, this would result in the unintended consequence that the non-banking members of the consolidated group would be subject to a significantly more favourable thin capitalisation limit under Division 820 of the ITAA 1997 than the banking members.
-Date of decision:
-  30 March 2010
-
-Year of income:
-  Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 4-10   section 4-15   section 701-1   section 820-310   section 820-430   subsection 820-583(7)   section 820-588   section 820-597   section 820-599   subsection 820-609(1)   section 995-1
-Banking Act 1959   section 11AF
-
-Related ATO Interpretative Decisions
-
- ATO ID 2010/86
-
-Other References:
-
-Australian Prudential Standards APS 110
- Australian Prudential Standards APS 111
- Explanatory Memorandum to New Business Tax System (Thin Capitalisation) Bill 2001
-
-Keywords
-
-Banking & finance segment
- Consolidation
- Financial services industry regulation & supervision
- International tax
- Outward investing entity
- Single entity rule
- Thin capitalisation
-
-Siebel/TDMS Reference Number:
-  6166837
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  16 April 2010
-
-ISSN:
- 1445 - 2782
+'Tier 1 prudential capital deduction' is defined in subsection 995-1(1) of the ITAA 1997 as: the amounts that must be deducted in the calculation of the eligible tier 1 capital of the entity (within the meaning of the *prudential standards) ... in accordance with the prudential standards in force at that time. 'Prudential standards' is defined in subsection 995-1(1) of the ITAA 1997 as: the prudential standards determined by *APRA and in force under section 11AF of the Banking Act 1959. Australian Prudential Standard (APS) 111 is a prudential standard determined by APRA and in force under section 11AF of the Banking Act 1959.
+Paragraphs 39 to 49 of APS 111 provide for 100% or 50% of the value of specified kinds of assets to be subtracted in determining the amount of Tier 1 capital of an ADI. For example, paragraphs 39 and 41 of APS 111 state: 39. For the purposes of calculating its Level 1 capital base, an ADI must deduct the following items from Tier 1 capital...: (a) any identified impairment of an asset [not already taken into account in the P&L]...; (b) [net] deferred tax assets ... (h) goodwill, and any other intangible assets arising on an acquisition ...[etc.]... 41. The following items are to be deducted 50 per cent from Tier 1 capital and 50 per cent from Tier 2 capital: (a) equity exposures ... in other ADIs ...[etc.] The relevant legislative context to section 820-310 of the ITAA 1997 discloses that it is expressly contemplated, and intended, that the amount of 'risk-weighted assets' in Step 1, and correspondingly, the amount of 'tier 1 prudential capital deductions' in Step 3, can be determined for any, and all, of the assets of a taxpayer treated as an 'outward investing entity (ADI)', irrespective of whether the taxpayer is subject to Tier 1 capital adequacy regulation by APRA under APS 110 and the Banking Act 1959. That relevant legislative context includes: •the application of the ADI rules in Subdivisions 820-D and 820-E of the ITAA 1997 (as the case may be) to a taxpayer that has made an election under section 820-430 of the ITAA 1997 to be treated as an ADI under Division 820. The election in Subdivision 820-EA of the ITAA 1997 is expressly premised on a taxpayer which is not a regulated bank (including a consolidated or MEC group that does not include a regulated bank) being able to determine the amount of its 'risk-weighted assets' in determining its 'safe harbour capital amount' under section 820-310 of the ITAA 1997.
+•the classification of a taxpayer as an 'outward investing entity (ADI)', if the taxpayer is otherwise not an ADI under the Banking Act 1959, if the taxpayer includes: •a single subsidiary member which is an ADI - refer to subsection 820-583(7) of the ITAA 1997; or
+•qualifying Australian branch operations (of its foreign owners) pursuant to an election under section 820-597 or 820-599 of the ITAA 1997 - refer to subsection 820-609(1) of the ITAA 1997. •section 820-588 of the ITAA 1997. The enactment of section 820-588 for specialist credit card institutions is based on the premise that a taxpayer's consolidated group which does not have any member subject to Tier 1 capital adequacy regulation by APRA (for which its 'risk weighted assets' has to be determined under Attachment D to APS 110) is nevertheless able to determine the amount of its 'risk-weighted assets' in determining its 'safe harbour capital amount' under section 820-310 of the ITAA 1997. It follows that the amount of 'risk-weighted assets' for the purpose of Step 1 of the Method statement in section 820-310 of the ITAA 1997 is the sum of the amounts determined in accordance with APRA's method (in paragraph 6 of Attachment D to APS 110) for determining an ADI's 'total risk-weighted assets'. It similarly follows that the 'average value ... of all the *tier 1 prudential capital deductions for the [head company]', in Step 3 of the Method statement in section 820-310 is intended to include the amounts determined under APRA's method (in paragraphs 39 to 49 of APS 111) for subtracting the value of certain kinds of assets from the amount of Tier 1 capital for the purpose of the minimum capital requirements in paragraph 14 of APS 110. Note: assets subtracted in calculating Tier 1 capital are excluded from the calculation of 'total risk-weighted assets': refer paragraph 50 of APS 111.
+This interpretation of the 'average value ... of all the *tier 1 prudential capital deductions for the [head company]' in Step 3 of section 820-310 of the ITAA 1997 not only accords with the intent of the legislature discerned from the relevant legislative context of section 820-310, as referred to above, it also reflects a natural reading of the words of the definition in subsection 995-1(1) of the ITAA 1997, namely: the amounts that must be deducted in the calculation of the eligible tier 1 capital of the [head company] ... (within the meaning of the *prudential standards) ... in accordance with the prudential standards in force at that time. This interpretation is also consistent with the relevant statements in the Explanatory Memorandum to New Business Tax System (Thin Capitalisation) Act 2001: 5.9 The thin capitalisation rules applying to ADIs are based on the methodology of the capital adequacy requirements prescribed by APRA. Under the capital adequacy regime, the ADIs assets are risk weighted, so those assets that have higher risk (such as loans to corporate entities) require more capital than assets that have low risk (such as government bonds). APRA may also require a specific amount of capital to be held for certain assets, such as goodwill and investments in life and general insurance subsidiaries. 5.10 Similarly, the thin capitalisation rules for ADIs will use risk-adjusted assets rather than book values of assets to calculate the safe harbour minimum capital amount and the worldwide capital amount, and will require additional capital to be held against certain Australian assets. ... What are prudential capital deductions? 5.38 Prudential capital deductions include Tier 1 prudential capital deductions and deductions from total capital as defined in the prudential standard APS111 Capital Adequacy: Measurement of Capital. Deductions from total capital include investments in other ADIs outside the bank group, non-operating holding companies, non-consolidated subsidiaries and associates. ... What are Tier 1 prudential capital deductions? 5.39 Tier 1 prudential capital deductions are amounts that must be deducted in calculating the eligible Tier 1 capital as defined in the prudential standards. These deductions include goodwill, other intangibles assets, future income tax benefits, equity and other capital investments in associated lenders [sic] mortgage insurers. In the final step of the method statement, any Tier 1 prudential capital deductions attributable to foreign branches or subsidiaries are not added on because they are not a part of the bank's Australian operations. [ Schedule 2, item 67, definition of ' Tier 1 prudential capital deduction' in subsection 995
+- 1(1)
+] It is noted that, if the amount of 'tier 1 prudential capital deductions for the [head company]' in Step 3 of the Method statement in section 820-310 of the ITAA 1997 only included amounts which the banking members (if any) of the consolidated group had to deduct in determining their Tier 1 capital under the Banking Act 1959, this would result in the unintended consequence that the non-banking members of the consolidated group would be subject to a significantly more favourable thin capitalisation limit under Division 820 of the ITAA 1997 than the banking members.
+Date of decision: 30 March 2010 Year of income: Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 section 4-10 section 4-15 section 701-1 section 820-310 section 820-430 subsection 820-583(7) section 820-588 section 820-597 section 820-599 subsection 820-609(1) section 995-1
+Banking Act 1959 section 11AF Related ATO Interpretative Decisions ATO ID 2010/86 Other References: Australian Prudential Standards APS 110 Australian Prudential Standards APS 111 Explanatory Memorandum to New Business Tax System (Thin Capitalisation) Bill 2001 Keywords Banking & finance segment Consolidation Financial services industry regulation & supervision International tax Outward investing entity Single entity rule Thin capitalisation Siebel/TDMS Reference Number: 6166837 Business Line: International Centre of Expertise Date of publication: 16 April 2010 ISSN: 1445 - 2782

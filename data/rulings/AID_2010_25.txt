@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/25
-==================================================
-
-Income Tax
- Distributions subsequent to a capital reduction pursuant to section 258F of the Corporations Act 2001
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Distributions subsequent to a capital reduction pursuant to section 258F of the Corporations Act 2001 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will any amounts paid out of a company's current year profits or future retained earnings subsequent to the proposed accounting entry constitute an unfrankable dividend pursuant to paragraph 202-45(e) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Amounts paid out of the company's current year profits or future retained earnings subsequent to the proposed accounting entry will not constitute an unfrankable dividend pursuant to paragraph 202-45(e) of the ITAA 1997.
@@ -20,60 +9,9 @@ Facts
 The taxpayer is an Australian resident company. The taxpayer has made regular fully franked dividend payments in the past. Throughout the years, the taxpayer has accumulated accounting losses.
 The taxpayer wishes to eliminate these accumulated accounting losses from its Financial Statements. It will achieve this by reducing its share capital by the amount of the accumulated losses pursuant to section 258F of the Corporations Act 2001, on the basis that the company can no longer identify assets that are represented by that amount of its share capital, or the share capital has been lost. The reduction of share capital will be recorded as a debit to the company's share capital account. No shares will be cancelled and the amount used to remove the accumulated losses will not create a positive balance of Retained Earnings. Any future distributions would be funded from future profits.
 Reasons for Decision
-Section 202-45 of the ITAA 1997 lists the distributions that are unfrankable. Paragraph 202-45(e) of the ITAA 1997 lists one of those distributions as:
-
-a distribution that is sourced, directly or indirectly, from a company's share capital account.
-
-Paragraph 6.6 of the Explanatory Memorandum (EM) accompanying the Tax Law Amendment (2007 Measure No. 3) Bill 2007 which amended paragraph 202-45(e) of the ITAA 1997 provides an overview on the changes made to the former provisions. It states:
-
-The dividend tainting rules (section 46G to 46M of the ITAA 1936) will be repealed. Consequential amendments will:
-
-•ensure that distributions from a share capital account (including tainted share capital account) continue to be unfrankable; and ...
-
-At paragraphs 6.10 and 6.11, the EM also provides discussion on the operation of paragraph 202-45(e) of the ITAA 1997 as follows:
-
-6.10 A distribution will be sourced directly from a company's share capital account if an accounting debit is made to the share capital account for the making of the distribution.
-
-6.11 A distribution will be sourced indirectly from a company's share capital account if, for example, a company transfers an amount from its share capital account into a distributable profits reserve and subsequently makes a distribution to shareholders that is debited against the distributable profits reserve in circumstances where it is reasonable to conclude that the distribution represents the amount transferred from the share capital account.
-
-From the wording of paragraphs 6.10 and 6.11, the operation of the new provision is to prevent an amount from being a frankable distribution if it is debited to an entity's share capital account or represents an amount transferred from the share capital account to another account to facilitate its distribution.
+Section 202-45 of the ITAA 1997 lists the distributions that are unfrankable. Paragraph 202-45(e) of the ITAA 1997 lists one of those distributions as: a distribution that is sourced, directly or indirectly, from a company's share capital account. Paragraph 6.6 of the Explanatory Memorandum (EM) accompanying the Tax Law Amendment (2007 Measure No. 3) Bill 2007 which amended paragraph 202-45(e) of the ITAA 1997 provides an overview on the changes made to the former provisions. It states: The dividend tainting rules (section 46G to 46M of the ITAA 1936) will be repealed. Consequential amendments will: •ensure that distributions from a share capital account (including tainted share capital account) continue to be unfrankable; and ... At paragraphs 6.10 and 6.11, the EM also provides discussion on the operation of paragraph 202-45(e) of the ITAA 1997 as follows: 6.10 A distribution will be sourced directly from a company's share capital account if an accounting debit is made to the share capital account for the making of the distribution. 6.11 A distribution will be sourced indirectly from a company's share capital account if, for example, a company transfers an amount from its share capital account into a distributable profits reserve and subsequently makes a distribution to shareholders that is debited against the distributable profits reserve in circumstances where it is reasonable to conclude that the distribution represents the amount transferred from the share capital account. From the wording of paragraphs 6.10 and 6.11, the operation of the new provision is to prevent an amount from being a frankable distribution if it is debited to an entity's share capital account or represents an amount transferred from the share capital account to another account to facilitate its distribution.
 In the present circumstances, it is clear that there will not be a distribution out of the taxpayer's profits to its shareholders in any form pursuant to the proposed accounting entry. The accounting entry will be made in order to eliminate the balance of accumulated losses. It does not have a flow-on distribution which would enable the company's shareholders to receive any distributions that are sourced directly or indirectly in the companies share capital account.
 The proposed accounting entry would, in essence, reduce the company's share capital. From a Corporations Law perspective, section 258F of the Corporations Act 2001 allows a company to reduce its share capital by cancelling any paid-up capital that is lost or is not represented by available assets.
 Following the accounting entry, any future distributions would be sourced from current year profits or accumulations of retained earnings. Any distributions from these sources post the capital reduction would not be unfrankable pursuant to paragraph 202-45(e) of the ITAA 1997.
-Date of decision:
-  12 January 2010
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   paragraph 202-45(e)
-Corporations Act 2001   section 258F
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/90
-
-Other References:
-
- Explanatory Memorandum to Tax Laws Amendment (2007 Measures No. 3) Bill 2007 - Chapter 6 Repeal of dividend tainting rules
-
-Keywords
-
-Capital reductions
- Distributions
- Frankable dividends
- Unfranked dividends
-
-Siebel/TDMS Reference Number:
-  5801370
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 February 2010
-
-ISSN:
- 1445 - 2782
+Date of decision: 12 January 2010 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 paragraph 202-45(e)
+Corporations Act 2001 section 258F Related ATO Interpretative Decisions ATO ID 2004/90 Other References: Explanatory Memorandum to Tax Laws Amendment (2007 Measures No. 3) Bill 2007 - Chapter 6 Repeal of dividend tainting rules Keywords Capital reductions Distributions Frankable dividends Unfranked dividends Siebel/TDMS Reference Number: 5801370 Business Line: Public Groups and International Date of publication: 5 February 2010 ISSN: 1445 - 2782

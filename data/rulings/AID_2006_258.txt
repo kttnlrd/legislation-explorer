@@ -1,24 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2006/258
-==================================================
-
-Income Tax
- Company Tax Losses: same business test-whether it applies only to business carried on by a company in Australia
- FOI status: may be released
-
-Section 165-212A of the ITAA 1997 was repealed by the Tax Laws Amendment (2007 Measures No.5) Act 2007. As a result, the words "(other than a company covered by section 165-212A)" in subsection 165-210(1) of the ITAA 1997, and the Note to subsection 165-210(1) of the ITAA 1997, were omitted, applicable to:
-
-(a)any tax loss that is incurred in an income year commencing on or after 1 July 2005; and
+================================================== Income Tax Company Tax Losses: same business test-whether it applies only to business carried on by a company in Australia FOI status: may be released Section 165-212A of the ITAA 1997 was repealed by the Tax Laws Amendment (2007 Measures No.5) Act 2007. As a result, the words "(other than a company covered by section 165-212A)" in subsection 165-210(1) of the ITAA 1997, and the Note to subsection 165-210(1) of the ITAA 1997, were omitted, applicable to: (a)any tax loss that is incurred in an income year commencing on or after 1 July 2005; and
 (b)any net capital loss that is made in an income year commencing on or after 1 July 2005; and
-(c)any deduction in respect of a bad debt that is incurred in an income year commencing on or after 1 July 2005.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+(c)any deduction in respect of a bad debt that is incurred in an income year commencing on or after 1 July 2005. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a foreign resident company carries on business both in and out of Australia, is the business examined under the same business test (SBT) in section 165-13 of the Income Tax Assessment Act 1997 (ITAA 1997) restricted to the business carried on by the company in Australia?
 Decision
 No. The SBT is applied to the business carried on by the company both in and out of Australia.
@@ -27,57 +12,10 @@ A foreign resident company has a tax loss for an earlier income year (the loss y
 The company carries on business both in and out of Australia at all relevant times.
 Reasons for Decision
 The conditions of the SBT are outlined in Subdivision 165-E of the ITAA 1997.
-Subsection 165-210 of the ITAA 1997 provides:
-
-SECTION 165-210 The test
-
-165-210(1) A company (other than a company covered by section 165-212A) satisfies the
- same business test
- if throughout the *same business test period it carries on the same *business as it carried on immediately before the *test time.
-
-Note: Companies whose total income for an income year is more than $100 million cannot satisfy the same business test for the same business test period: see section 165-212A.
-
-165-210(2) However, the company does not satisfy the *same business test if, at any time during the *same business test period, it *derives assessable income from:
-
-(a)a *business of a kind that it did not carry on before the *test time; or
-(b)a transaction of a kind that it had not entered into in the course of its business operations before the *test time.
-
-165-210(3) The company also does not satisfy the *same business test if, before the *test time, it:
-
-(a)started to carry on a *business it had not previously carried on; or
+Subsection 165-210 of the ITAA 1997 provides: SECTION 165-210 The test 165-210(1) A company (other than a company covered by section 165-212A) satisfies the same business test if throughout the *same business test period it carries on the same *business as it carried on immediately before the *test time. Note: Companies whose total income for an income year is more than $100 million cannot satisfy the same business test for the same business test period: see section 165-212A. 165-210(2) However, the company does not satisfy the *same business test if, at any time during the *same business test period, it *derives assessable income from: (a)a *business of a kind that it did not carry on before the *test time; or
+(b)a transaction of a kind that it had not entered into in the course of its business operations before the *test time. 165-210(3) The company also does not satisfy the *same business test if, before the *test time, it: (a)started to carry on a *business it had not previously carried on; or
 (b)in the course of its business operations, entered into a transaction of a kind that it had not previously entered into;
 and did so for the purpose, or for purposes including the purpose, of being taken to have carried on throughout the *same business test period the same business as it carried on immediately before the test time.
 165-210(4)...
-* denotes a term defined in section 995-1 of the ITAA 1997
-
-Section 165-210 of the ITAA 1997 refers to 'the business' carried on by the company and to 'a business of a kind or 'a transaction of a kind'. There are no references in section 165-210 to the tax jurisdiction in which the business is carried on or the transaction is entered into. Further, the business of a foreign resident company conducting activities both in and out of Australia may only be properly ascertained by reference to the company's global activities. Therefore it is concluded that the SBT applies to the business carried on by the company both in and out of Australia.
-Date of decision:
-  12 September 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 165-12   section 165-13   Subdivision 165-E   section 165-210   subsection 165-210(1)   subsection 165-210(2)   subsection 165-210(3)   subsection 165-210(4)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 1999/9
-
-Keywords
-
-Same business test
- Tax loss
-
-Siebel/TDMS Reference Number:
-  5430654
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 September 2006
-
-ISSN:
- 1445-2782
+* denotes a term defined in section 995-1 of the ITAA 1997 Section 165-210 of the ITAA 1997 refers to 'the business' carried on by the company and to 'a business of a kind or 'a transaction of a kind'. There are no references in section 165-210 to the tax jurisdiction in which the business is carried on or the transaction is entered into. Further, the business of a foreign resident company conducting activities both in and out of Australia may only be properly ascertained by reference to the company's global activities. Therefore it is concluded that the SBT applies to the business carried on by the company both in and out of Australia.
+Date of decision: 12 September 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 section 165-12 section 165-13 Subdivision 165-E section 165-210 subsection 165-210(1) subsection 165-210(2) subsection 165-210(3) subsection 165-210(4) Related Public Rulings (including Determinations) Taxation Ruling TR 1999/9 Keywords Same business test Tax loss Siebel/TDMS Reference Number: 5430654 Business Line: Public Groups and International Date of publication: 15 September 2006 ISSN: 1445-2782

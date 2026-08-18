@@ -1,28 +1,11 @@
 ATO Interpretative Decision
 ATO ID 2004/344
-==================================================
-
-Income Tax
- Holding period and related payment: small shareholder exemption
- FOI status: may be released
-
-Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002. Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Holding period and related payment: small shareholder exemption FOI status: may be released Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002. Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will an individual who holds shares or an interest in shares in respect of which franked dividends were paid during the relevant year of income, qualify for the small shareholder exemption under section 160APHT of the Income Tax Assessment Act 1936 (ITAA 1936) if the shares were not held at risk for the requisite 45 days?
 Decision
-Yes. Pursuant to subsection 160APHT(1) of the ITAA 1936, where the total franking credits do not exceed $5,000, an individual will be entitled to the benefit of franking credits whether or not the shares or the relevant interest in shares had been held at risk for the requisite period of time, provided:
-
-• neither the individual nor an associate has made, is under an obligation to make, or is likely to make a related payment in respect of a particular dividend or distribution; and
-• where a franked dividend flows to a beneficiary via a trust on account of an interest in shares, the trustee of the trust is a qualified person in relation to the dividend.
-
-Facts
+Yes. Pursuant to subsection 160APHT(1) of the ITAA 1936, where the total franking credits do not exceed $5,000, an individual will be entitled to the benefit of franking credits whether or not the shares or the relevant interest in shares had been held at risk for the requisite period of time, provided: • neither the individual nor an associate has made, is under an obligation to make, or is likely to make a related payment in respect of a particular dividend or distribution; and
+• where a franked dividend flows to a beneficiary via a trust on account of an interest in shares, the trustee of the trust is a qualified person in relation to the dividend. Facts
 The individual has 1000 DEF Ltd shares acquired on 12 July 1998. These shares became ex-dividend on 13 May 2002 paying a fully franked dividend of $0.70 per share on 25 May 2002. The total dividend received was $700 and the franking credit was $300.
 The individual acquired 50 RST Ltd shares on 10 March 2002 and sold those shares on 8 April 2002. The shares became ex-dividend on 15 March 2002 paying a fully franked dividend of $7.00 per share on 12 April 2002. The total dividend was $350 and the franking credit was $150.
 The individual is also a beneficiary of a non-fixed trust where there are no fixed entitlements to income or capital of the trust.
@@ -39,38 +22,4 @@ The facts reveal franking credits passing indirectly through a trust to the indi
 Therefore, in determining the taxpayer's entitlement to franking credits under section 160APHT of the ITAA 1936, it would not be necessary to consider if the relevant shares or interests in shares were held at risk for the requisite period or whether the relevant family trust elections were made. However, pursuant to subsection 160APHU(1) of the ITAA 1936, if a trustee of a trust is not a qualified person in relation to a dividend, then no beneficiary of the trust is a qualified person in relation to the dividend. Subsection 160APHU(1) makes it clear that this rule must be satisfied despite any other provision of Subdivision B of Division 1A of Part IIIAA of the ITAA 1936 (except for subsection 160APHH(6) of the ITAA 1936).
 However, based upon the relevant facts, the trustee of the trust was a qualified person in relation to all of the abovementioned dividends paid on the shares. The total franking rebates from all sources, direct and indirect would be $2,250 ($300 + $150 + $1,800). As these amounts do not exceed the $5,000 threshold for the 2001-02 income year, the individual is a qualified person in accordance with section 160APHT of the ITAA 1936 in relation to all the dividends paid during that year.
 Therefore, the taxpayer will be entitled to franking rebates of $2,250 in respect of the 2001-02 income year under section 160APHT of the ITAA 1936.
-Date of decision:
-  19 April 2004
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160APHN   section 160APHO   section 160APHT   section 160APHU
-
-Keywords
-
-Discretionary trusts
- Dividend income
- Franked dividends
- Franking credits
- Imputation credits
- Imputation system
- Individual shareholder dividend rebates
- Shareholders
- Shares
- Trust beneficiaries
- Trusts
-
-Siebel/TDMS Reference Number:
-  3993253
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 April 2004
-
-ISSN:
- 1445-2782
+Date of decision: 19 April 2004 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 section 160APHN section 160APHO section 160APHT section 160APHU Keywords Discretionary trusts Dividend income Franked dividends Franking credits Imputation credits Imputation system Individual shareholder dividend rebates Shareholders Shares Trust beneficiaries Trusts Siebel/TDMS Reference Number: 3993253 Business Line: Public Groups and International Date of publication: 23 April 2004 ISSN: 1445-2782

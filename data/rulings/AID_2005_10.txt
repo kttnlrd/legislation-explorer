@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/10
-==================================================
-
-Income tax
- Company tax loss: 'person' other than company with tax loss obtains tax benefit in connection with scheme
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Company tax loss: 'person' other than company with tax loss obtains tax benefit in connection with scheme FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the company that has incurred the 'excluded loss' in terms of section 175-5 of the Income Tax Assessment Act 1997 (ITAA 1997) be a 'person' for the purposes of section 175-15 of the ITAA 1997?
 Decision
 No. A 'person' for the purposes of section 175-15 of the ITAA 1997 means a person other than the company that incurred the 'excluded loss.'
@@ -24,54 +13,11 @@ Subsequently, Company X acquires beneficial ownership of a further parcel of sha
 The preceding transaction is the only trading in shares in Company S by either Company X or Company Y at any time during the test period within section 166-5 of the ITAA 1997.
 Company S meets the conditions of section 165-12 of the ITAA 1997 as modified by Division 166.
 Reasons for Decision
-Subsections 175-15(1) and 175-15(2) of the ITAA 1997 provide:
-
-Section 175-15 Second case: someone else obtains a tax benefit because of tax loss available to company
-
-175-15(1) The Commissioner may disallow the *excluded loss if:
-
-(a)a person has obtained or will obtain a tax benefit in connection with a *scheme; and
-(b)the scheme would not have been entered into or carried out if the excluded loss had not been available to be taken into account for the purposes of:
-
-•Division 36 (which is about tax losses of earlier years);
+Subsections 175-15(1) and 175-15(2) of the ITAA 1997 provide: Section 175-15 Second case: someone else obtains a tax benefit because of tax loss available to company 175-15(1) The Commissioner may disallow the *excluded loss if: (a)a person has obtained or will obtain a tax benefit in connection with a *scheme; and
+(b)the scheme would not have been entered into or carried out if the excluded loss had not been available to be taken into account for the purposes of: •Division 36 (which is about tax losses of earlier years);
 •Division 165 (which is about the income tax consequences of changing ownership or control of a company);
-•Subdivision 375-G (which is about film losses).
-
-175-15(2) However, the Commissioner cannot disallow the *excluded loss if:
-
-(a)the person had a *shareholding interest in the company at some time during the income year; and
-(b)the Commissioner considers the tax benefit to be fair and reasonable having regard to that shareholding interest.
-
-*denotes a term defined in subsection 995-1(1) of the ITAA 1997
-
-The heading of section 175-15 of the ITAA 1997 states that section 175-15 will apply where 'someone else' obtains a tax benefit because of a tax loss available to a company. The heading of section 175-15 forms part of the ITAA 1997 by virtue of subsection 950-100(1) of the ITAA 1997.
+•Subdivision 375-G (which is about film losses). 175-15(2) However, the Commissioner cannot disallow the *excluded loss if: (a)the person had a *shareholding interest in the company at some time during the income year; and
+(b)the Commissioner considers the tax benefit to be fair and reasonable having regard to that shareholding interest. *denotes a term defined in subsection 995-1(1) of the ITAA 1997 The heading of section 175-15 of the ITAA 1997 states that section 175-15 will apply where 'someone else' obtains a tax benefit because of a tax loss available to a company. The heading of section 175-15 forms part of the ITAA 1997 by virtue of subsection 950-100(1) of the ITAA 1997.
 Subsection 175-15(2) of the ITAA 1997 provides that 'the person had a shareholding interest in the company'. Therefore the 'person' for the purposes of section 175-15 cannot be the company that is seeking to deduct a tax loss.
-Accordingly the Commissioner may only disallow a tax loss under section 175-15 if a person
- other than
- the company that incurred the 'excluded loss', has obtained or will obtain a tax benefit in connection with a scheme, and that scheme would not have been entered into or carried out if the tax loss had not been available.
-Date of decision:
-  20 December 2004
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 36   Division 165   section 165-12   Division 166   section 166-5   section 175-5   section 175-15   subsection 175-15(1)   subsection 175-15(2)   Subdivision 375-G   subsection 950-100(1)
-
-Keywords
-
-Prior year losses
- Tax loss
-
-Siebel/TDMS Reference Number:
-  4348235
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  14 January 2005
-
-ISSN:
- 1445-2782
+Accordingly the Commissioner may only disallow a tax loss under section 175-15 if a person other than the company that incurred the 'excluded loss', has obtained or will obtain a tax benefit in connection with a scheme, and that scheme would not have been entered into or carried out if the tax loss had not been available.
+Date of decision: 20 December 2004 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 Division 36 Division 165 section 165-12 Division 166 section 166-5 section 175-5 section 175-15 subsection 175-15(1) subsection 175-15(2) Subdivision 375-G subsection 950-100(1) Keywords Prior year losses Tax loss Siebel/TDMS Reference Number: 4348235 Business Line: Public Groups and International Date of publication: 14 January 2005 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/72
-==================================================
-
-Income Tax
- Capital gains tax: trustee ceasing to hold an asset on trust and commencing to hold it in its own capacity - CGT event A1
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: trustee ceasing to hold an asset on trust and commencing to hold it in its own capacity - CGT event A1 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does CGT event A1 in section 104-10 of the Income Tax Assessment Act 1997 (ITAA 1997) happen if a company ceases to hold a CGT asset in its capacity as trustee of a trust and commences to hold the asset in its own capacity?
 Decision
 Yes. CGT event A1 in section 104-10 of the ITAA 1997 happens because there is a change in ownership of the asset from one entity (the company acting in its capacity as trustee) to another entity (the company acting in its own capacity).
@@ -22,44 +11,4 @@ As part of a restructure, the trustee ceases to hold the asset on trust and comm
 Reasons for Decision
 CGT event A1 in section 104-10 of the ITAA 1997 happens if there is a disposal of a CGT asset. Under subsection 104-10(2) of the ITAA 1997, a disposal of a CGT asset occurs if there is a change in ownership of the asset from one entity to another entity.
 The term 'entity' is defined in section 960-100 of the ITAA 1997 and includes a body corporate - paragraph 960-100(1)(b) of the ITAA 1997. Where a legal person, such as a body corporate, has a number of different capacities in which the person does things, subsection 960-100(3) of the ITAA 1997 provides that the person is taken to be a different entity in each of those capacities. It follows from this that a body corporate acting in its capacity as a trustee of a trust is a different and distinct entity from the same body corporate acting in its own capacity.
-Because of this, the requirements for CGT event A1 to happen are satisfied as there has been a change in ownership of the asset from one entity (the company acting in its capacity as trustee) to another entity (the company acting in its own capacity). This is the case notwithstanding that there has been no change in the legal ownership of the asset.
-
-Note:
- roll-over relief may be available for the corporate trustee in these circumstances under Subdivision 124-N of the ITAA 1997 if all the conditions for the roll-over are satisfied.
-
-Date of decision:
-  2 March 2010
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-10   subsection 104-10(2)   Subdivision 124-N   section 960-100   paragraph 960-100(1)(b)   subsection 960-100(3)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/808
-
-Keywords
-
-Capital gains tax
- CGT events
- CGT event A1 - disposal of a CGT asset
- CGT roll-over relief
- CGT same asset roll-over
-
-Siebel/TDMS Reference Number:
-  6337750; 1-5P45BBX; 1-CR7OS7U
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  1 April 2010
-
-Date reviewed:
-  16 January 2018
-
-ISSN:
- 1445-2782
+Because of this, the requirements for CGT event A1 to happen are satisfied as there has been a change in ownership of the asset from one entity (the company acting in its capacity as trustee) to another entity (the company acting in its own capacity). This is the case notwithstanding that there has been no change in the legal ownership of the asset. Note: roll-over relief may be available for the corporate trustee in these circumstances under Subdivision 124-N of the ITAA 1997 if all the conditions for the roll-over are satisfied. Date of decision: 2 March 2010 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 section 104-10 subsection 104-10(2) Subdivision 124-N section 960-100 paragraph 960-100(1)(b) subsection 960-100(3) Related ATO Interpretative Decisions ATO ID 2002/808 Keywords Capital gains tax CGT events CGT event A1 - disposal of a CGT asset CGT roll-over relief CGT same asset roll-over Siebel/TDMS Reference Number: 6337750; 1-5P45BBX; 1-CR7OS7U Business Line: Private Groups and High Wealth Individuals Date of publication: 1 April 2010 Date reviewed: 16 January 2018 ISSN: 1445-2782

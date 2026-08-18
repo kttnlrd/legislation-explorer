@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/67
-==================================================
-
-Income Tax
- Departure from Benchmark Rule: Commissioner's determination
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Departure from Benchmark Rule: Commissioner's determination FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the Commissioner exercise his discretion under section 203-55 of the Income Tax Assessment Act 1997 (ITAA 1997) to permit the entity to frank two distributions at a franking percentage that differs from the entity's benchmark franking percentage for that franking period?
 Decision
 No. The Commissioner will not exercise his discretion under section 203-55 of the ITAA 1997 to permit the entity to frank two distributions at a franking percentage that differs from the entity's benchmark franking percentage for that franking period as the required extraordinary circumstances do not exist.
@@ -27,54 +16,11 @@ Reasons for Decision
 Section 203-25 of the ITAA 1997 provides that all frankable distributions made by a corporate tax entity within a franking period must be franked to the franking percentage set as the benchmark for that period. This is called the benchmark rule.
 The Commissioner has the power to permit a departure from the benchmark rule under section 203-55 of the ITAA 1997. Subsection 203-55(1) of the ITAA 1997 provides that Commissioner may, on application by an entity, permit the entity to frank a distribution at a franking percentage that differs from the entity's benchmark franking percentage for the franking period in which the distribution is made.
 Subsection 203-55(2) of the ITAA 1997 further provides that the Commissioner's powers under this section may only be exercised in extraordinary circumstances.
-In determining if the requisite extraordinary circumstances exist, subsection 203-55(3) of the ITAA 1997 requires that the Commissioner have regard to the following:
-
-(a)The entity's reasons for departing, or proposing to depart, from the benchmark rule.Company A's reason for seeking permission to depart from the benchmark rule is that, as the proposed MEC group were uncertain as to the extent of franking credits available to them at the time of the August 2004 distribution, company B, in an abundance of caution, franked the distribution to 0%. Subsequently, the group determined that sufficient franking credits were available to fully frank the distribution and therefore now wish to frank two proposed distributions to 100%.At the time of the August 2004 distribution, the group was contemplating tax consolidation, a feature of which is the pooling of franking credits of member companies into the head company. Thus, the group was aware of the tax consequences of consolidation at the time the distribution was made.
+In determining if the requisite extraordinary circumstances exist, subsection 203-55(3) of the ITAA 1997 requires that the Commissioner have regard to the following: (a)The entity's reasons for departing, or proposing to depart, from the benchmark rule.Company A's reason for seeking permission to depart from the benchmark rule is that, as the proposed MEC group were uncertain as to the extent of franking credits available to them at the time of the August 2004 distribution, company B, in an abundance of caution, franked the distribution to 0%. Subsequently, the group determined that sufficient franking credits were available to fully frank the distribution and therefore now wish to frank two proposed distributions to 100%.At the time of the August 2004 distribution, the group was contemplating tax consolidation, a feature of which is the pooling of franking credits of member companies into the head company. Thus, the group was aware of the tax consequences of consolidation at the time the distribution was made.
 (b)The extent of the departure, or proposed departure, from the benchmark ruleCompany A has sought the Commissioner's permission to frank the proposed distributions at a franking percentage of 100%, despite a benchmark franking percentage of 0%. This is a significant departure.
 (c)If the circumstances that give rise to the entity's application are within the entity's control, the extent to which the entity has sought the exercise of the Commissioner's powers under this section in the past.The circumstances that gave rise to company A's application appear to have been within its control. As a group considering tax consolidation, the companies should have been aware of the impact of consolidation upon the franking accounts of the various members joining the consolidated group.A survey of the status of the franking accounts of the various joining members would have provided Company A with a reasonable indication of the proposed group's capacity to frank the distribution. This would have enabled company B to make a more informed decision in relation to the franking of the August 2004 distribution, as section 719-435 of the ITAA 1997 deems a distribution made by a member of a consolidated group other than the provisional head company, as having been made by the provisional head company (company A).
 (d)Whether a member of the entity has been or will be disadvantaged as a result of the departure, or proposed departure, from the benchmark rule.The benchmark franking percentage of 0% established by the August 2004 distribution resulted in the sole shareholder of company B, Foreign company, incurring a liability to withholding tax.Should the Commissioner exercise his discretion, it is not known whether the ability to make subsequent franked distributions will be affected, resulting in a disadvantage to those members that received distributions franked to 0% and incurred a liability to withholding tax.
 (e)Whether a member of the entity will receive greater imputation benefits than another member of the entity because a distribution franked at a franking percentage that differs from the benchmark franking percentage for the franking period is made to one of them.In the event that the Commissioner exercises his discretion to permit a departure from the benchmark franking percentage, the proposed distributions by company B and company C will be exempt from withholding tax pursuant to paragraph 128B(3)(ga) of the Income Tax Assessment Act 1936 (ITAA 1936).The members of company C can be seen to have clearly derived a greater imputation benefit than those of company B, as all distributions received by them during the franking period would have been franked to 100%, while only a proportion of the distributions received by the members of company B would have been franked to 100%.
-(f)Any other matters that the Commissioner considers relevant.The Explanatory Memorandum to the New Business Tax System (Imputation) Act 2002 provides further guidance as to what constitutes extraordinary circumstances. It states at paragraph 2.69:
-
-The power to permit a departure from the benchmark rule will be exercised by the Commissioner only in extraordinary circumstances. Thus, the circumstances justifying a departure would generally need to be unforeseeable and beyond the control of the entity, its members and controllers.
-As a structural anti-streaming measure, the benchmark rule, along with the general anti-streaming measures contained in Division 204 of the ITAA 1997, seeks to ensure that over time, the benefit of franking credits are generally spread evenly across members in proportion to their ownership interest in the entity. In order to secure the integrity of these measures a departure from the benchmark franking rule ought not to be entertained except in unforseen circumstances that were beyond the contemplation of the taxpayer.As discussed in the paragraphs above, the group's decision to consolidate was not unforeseeable and was within its control.Therefore, the Commissioner will not exercise his discretion under section 203-55 of the ITAA 1997 as this discretion may only be exercised in extraordinary circumstances which do not exist in this case.
-
-Date of decision:
-  17 February 2005
-
-Year of income:
-  Year ending 31 December 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   paragraph 128B(3)(ga)
-Income Tax Assessment Act 1997   section 203-25   section 203-55   section 719-435
-
-Other References:
-
- Explanatory Memorandum - New Business Tax System (Imputation) Act 2002
-
-Keywords
-
-Commissioner's discretion
- Consolidation
- Consolidation - franking
- Distributions
- Dividend streaming arrangements
- Frankable dividends
- Franking accounts
- Franking credits
- Imputation system
- Unfranked dividends
-
-Siebel/TDMS Reference Number:
-  4387895
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 February 2005
-
-ISSN:
- 1445-2782
+(f)Any other matters that the Commissioner considers relevant.The Explanatory Memorandum to the New Business Tax System (Imputation) Act 2002 provides further guidance as to what constitutes extraordinary circumstances. It states at paragraph 2.69: The power to permit a departure from the benchmark rule will be exercised by the Commissioner only in extraordinary circumstances. Thus, the circumstances justifying a departure would generally need to be unforeseeable and beyond the control of the entity, its members and controllers.
+As a structural anti-streaming measure, the benchmark rule, along with the general anti-streaming measures contained in Division 204 of the ITAA 1997, seeks to ensure that over time, the benefit of franking credits are generally spread evenly across members in proportion to their ownership interest in the entity. In order to secure the integrity of these measures a departure from the benchmark franking rule ought not to be entertained except in unforseen circumstances that were beyond the contemplation of the taxpayer.As discussed in the paragraphs above, the group's decision to consolidate was not unforeseeable and was within its control.Therefore, the Commissioner will not exercise his discretion under section 203-55 of the ITAA 1997 as this discretion may only be exercised in extraordinary circumstances which do not exist in this case. Date of decision: 17 February 2005 Year of income: Year ending 31 December 2004 Legislative References: Income Tax Assessment Act 1936 paragraph 128B(3)(ga)
+Income Tax Assessment Act 1997 section 203-25 section 203-55 section 719-435 Other References: Explanatory Memorandum - New Business Tax System (Imputation) Act 2002 Keywords Commissioner's discretion Consolidation Consolidation - franking Distributions Dividend streaming arrangements Frankable dividends Franking accounts Franking credits Imputation system Unfranked dividends Siebel/TDMS Reference Number: 4387895 Business Line: Public Groups and International Date of publication: 25 February 2005 ISSN: 1445-2782

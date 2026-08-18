@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/125
-==================================================
-
-Income tax
- Term subordinated notes issue: deferred interest and the existence of an effectively non-contingent obligation
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Term subordinated notes issue: deferred interest and the existence of an effectively non-contingent obligation FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purposes of paragraph 974-20(1)(c) of the Income Tax Assessment Act 1997 (ITAA 1997), is an issuer of a term subordinated note under an 'effectively non-contingent obligation' to provide financial benefits as payments of interest every fifth year where the issuer may, in its absolute discretion, elect to defer the payment of amounts of interest that become due quarterly until the end of each 5 year period?
 Decision
 Yes. For the purposes of paragraph 974-20(1)(c) of the ITAA 1997 the issuer will have an effectively non-contingent obligation to provide a financial benefit as a payment of interest every fifth year.
@@ -25,30 +14,4 @@ One of the key elements of the debt test in subsection 974-20(1) of the ITAA 199
 Subsection 974-135(1) of the ITAA 1997 states that there is an 'effectively non-contingent obligation' to take an action under a scheme if, having regard to the pricing, terms and conditions of the scheme, there is in substance or effect a non-contingent obligation to take that action. In determining whether the issuer has an effectively non-contingent obligation it is necessary to have regard to the issuer's obligation to pay interest. As noted above, the payment of amounts of interest that fall due within each 5 year period can be deferred at the issuer's discretion until no later than the end of that 5 year period. Payment of the amounts of interest that fall due within a 5 year period cannot be deferred by the issuer beyond the end of each 5 year period.
 Having regard to the pricing, terms and conditions of the scheme, the issuer has in substance or effect a non-contingent obligation to provide financial benefits as interest payments at the end of years 5, 10 and 15 for the purposes of paragraph 974-20(1)(c) of the ITAA 1997 of the debt test under subsection 974-20(1).
 Whether the instrument gives rise to a debt interest under subsection 974-15(1) of the ITAA 1997 will depend upon whether the remaining elements of subsection 974-20(1) of the ITAA 1997 are satisfied.
-Date of decision:
-  20 April 2006
-
-Year of income:
-  30 September 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 974-15   subsection 974-15(1)   section 974-20   subsection 974-20(1)   section 974-135   subsection 974-135(1)   section 974-160
-
-Keywords
-
-Debt equity borderline
- Debt interest
- Effectively non-contingent obligation
-
-Siebel/TDMS Reference Number:
-  5117694
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 May 2006
-
-ISSN:
- 1445-2782
+Date of decision: 20 April 2006 Year of income: 30 September 2006 Legislative References: Income Tax Assessment Act 1997 section 974-15 subsection 974-15(1) section 974-20 subsection 974-20(1) section 974-135 subsection 974-135(1) section 974-160 Keywords Debt equity borderline Debt interest Effectively non-contingent obligation Siebel/TDMS Reference Number: 5117694 Business Line: Public Groups and International Date of publication: 12 May 2006 ISSN: 1445-2782

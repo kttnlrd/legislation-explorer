@@ -1,19 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/333
-==================================================
-
-Fringe Benefits Tax
- Fringe Benefits Tax: Administrative costs of salary packaging
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Fringe Benefits Tax: Administrative costs of salary packaging This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether the costs incurred by the employer, for the administration of salary packaging arrangement for its employees, would constitute the provision of a fringe benefit as defined under section 136(1) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA)?
 Decision
 No. The costs incurred by the employer for the administration of employee salary packaging arrangement do not constitute the provision of a fringe benefit as defined under section 136(1) of the FBTAA.
@@ -24,67 +12,13 @@ The external administrative costs are a sacrificed component of an employee's sa
 Reasons for Decision
 Where the administrative service is provided to the employer by an external service provider, no fringe benefit liability will arise as no benefit has been provided to the employee within the meaning of the word "benefit" as defined under section 136(1) of the FBTAA. A benefit will not arise when the service agreement is between the employer and the service provider, and the employer is liable for the cost of the administrative services provided.
 Where the employer has a policy that employees who participate in salary package arrangements must sacrifice a certain amount of salary to recompense any administrative cost incurred, the liability for this cost will continue to be that of the employer in accordance with the service agreement between the employer and the service provider.
-Where the employer administers the salary packaging in-house and has a policy that employees who participate in salary package arrangements must sacrifice a certain amount of salary to recompense some or all of the administrative costs incurred, no fringe benefit will arise as no "benefit" as defined under section 136(1) of the FBTAA has been provided.
-
-Amendment History
-
-Date of Amendment
+Where the employer administers the salary packaging in-house and has a policy that employees who participate in salary package arrangements must sacrifice a certain amount of salary to recompense some or all of the administrative costs incurred, no fringe benefit will arise as no "benefit" as defined under section 136(1) of the FBTAA has been provided. Amendment History Date of Amendment
 Part
-Comment
-
-10 September 2025
+Comment 10 September 2025
 Reasons for decision
-Minor punctuation amendments
-
-Business Line
-Updated business line
-
-Siebel ID
-Updated Siebel ID
-
-Date of decision:
-  23 July 2001
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   Section 136(1)
-
-Keywords
-
-Benefit
- Fringe benefit
- Administration fee
- Administrative cost
- FBT salary packaging
- FBT salary sacrifice
-
-Siebel/TDMS Reference Number:
-  DW232752; 1-62U83ZF; 1-DLUVLFQ; 1-155J02VP
-
-Business Line:
-  Superannuation and Employee Obligations
-
-Date of publication:
-  15 September 2001
-
-Date reviewed:
-  6 June 2025
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 July 2001
-Original statement
-
-You are here
+Minor punctuation amendments Business Line
+Updated business line Siebel ID
+Updated Siebel ID Date of decision: 23 July 2001 Legislative References: Fringe Benefits Tax Assessment Act 1986 Section 136(1) Keywords Benefit Fringe benefit Administration fee Administrative cost FBT salary packaging FBT salary sacrifice Siebel/TDMS Reference Number: DW232752; 1-62U83ZF; 1-DLUVLFQ; 1-155J02VP Business Line: Superannuation and Employee Obligations Date of publication: 15 September 2001 Date reviewed: 6 June 2025 ISSN: 1445-2782 history Date: Version: 23 July 2001
+Original statement You are here
 10 September 2025
 Updated statement

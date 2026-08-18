@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/534
-==================================================
-
-Goods and Services Tax
- GST and blood coagulation test strips
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and blood coagulation test strips FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of medical aids and appliances, making a GST-free supply under subsection 38-45(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies blood coagulation test strips?
 Decision
 Yes, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies blood coagulation test strips.
@@ -22,45 +11,14 @@ The test strips are specifically designed for this purpose and are not widely us
 There is no agreement between the entity and the recipient of the supply that the supply will not be treated as a GST-free supply.
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
-Under subsection 38-45(1) of the GST Act, the supply of certain medical aids and appliances is GST-free where the medical aid or appliance:
-
-•is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations);
+Under subsection 38-45(1) of the GST Act, the supply of certain medical aids and appliances is GST-free where the medical aid or appliance: •is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations);
 •is specifically designed for people with an illness or disability; and
-•is not widely used by people without an illness or disability.
-
-Medical aids and appliances which are GST-free under subsection 38-45(1) are GST-free at all points in the supply chain from the point in time when they become those listed items, and not only when supplied to a person with an illness or disability.
+•is not widely used by people without an illness or disability. Medical aids and appliances which are GST-free under subsection 38-45(1) are GST-free at all points in the supply chain from the point in time when they become those listed items, and not only when supplied to a person with an illness or disability.
 Item 36 in the table in Schedule 3 (Item 36) lists 'test strips' and this item is listed under the category heading of 'Diabetes'. In the present circumstances, the test strips are for use by people suffering from heart conditions or blood disorders rather than for use by people with diabetes.
-However, section 182-15 of the GST Act provides that the second column of Schedule 3 (the column in which 'Diabetes' is listed), is not operative and can only be considered for the purposes for which an explanatory section may be considered under subsection 182-10(2) of the GST Act. An explanatory section may only be considered:
-
-•in determining the purpose or object underlying the provision;
+However, section 182-15 of the GST Act provides that the second column of Schedule 3 (the column in which 'Diabetes' is listed), is not operative and can only be considered for the purposes for which an explanatory section may be considered under subsection 182-10(2) of the GST Act. An explanatory section may only be considered: •in determining the purpose or object underlying the provision;
 •to confirm that the provision's meaning is the ordinary meaning conveyed by its text, taking into account its context in this Act and the purpose or object underlying the provision;
 •in determining the provision's meaning if the provision is ambiguous or obscure; or
-•in determining the provision's meaning if the ordinary meaning conveyed by its text, taking into account its context in this Act and the purpose or object underlying the provision, leads to a result that is manifestly absurd or is unreasonable.
-
-The meaning of the phrase 'test strip' is clear and unambiguous. It is not necessary to consider the category heading in the second column for any of the purposes listed in subsection 182-10(2) of the GST Act to interpret the meaning of 'test strip'. This means that Item 36 is not restricted to diabetes test strips and covers the blood coagulation test strips.
+•in determining the provision's meaning if the ordinary meaning conveyed by its text, taking into account its context in this Act and the purpose or object underlying the provision, leads to a result that is manifestly absurd or is unreasonable. The meaning of the phrase 'test strip' is clear and unambiguous. It is not necessary to consider the category heading in the second column for any of the purposes listed in subsection 182-10(2) of the GST Act to interpret the meaning of 'test strip'. This means that Item 36 is not restricted to diabetes test strips and covers the blood coagulation test strips.
 The test strips are specifically designed for people with an illness or disability (heart conditions or blood disorders). In addition, the test strips are not widely used by people who do not have an illness or disability.
 Therefore, as all of the requirements of subsection 38-45(1) of the GST Act are satisfied, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies blood coagulation test strips.
-Date of decision:
-  10 January 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 38-45(1)   Schedule 3   Schedule 3 table item 36   subsection 182-10(2)   section 182-15
-
-Keywords
-
-Goods & services tax
- GST health
- Section 38-45 - medical aids & appliances
-
-Siebel/TDMS Reference Number:
-  CW260907
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  31 May 2002
-
-ISSN:
- 1445-2782
+Date of decision: 10 January 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 38-45(1) Schedule 3 Schedule 3 table item 36 subsection 182-10(2) section 182-15 Keywords Goods & services tax GST health Section 38-45 - medical aids & appliances Siebel/TDMS Reference Number: CW260907 Business Line: Indirect Tax Date of publication: 31 May 2002 ISSN: 1445-2782

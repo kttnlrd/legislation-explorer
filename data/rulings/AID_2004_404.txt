@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/404
-==================================================
-
-Income Tax
- Capital gains tax: cost base: adjustment for capital works expenditure deducted
- FOI status: may be released
-
-This ATO ID (2004/404) should be withdrawn as the interpretative issue is covered in 'Rental Properties 2008-09'.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: cost base: adjustment for capital works expenditure deducted FOI status: may be released This ATO ID (2004/404) should be withdrawn as the interpretative issue is covered in 'Rental Properties 2008-09'. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the cost base of a CGT asset acquired after 7.30pm (ACT legal time) on 13 May 1997 reduced by any amount allowed as a capital works deduction under Division 43 of the Income Tax Assessment Act 1997 (ITAA 1997) in respect of the asset?
 Decision
 Yes. Subsections 110-45(2) and 110-45(4) of the ITAA 1997 require the cost base of such assets to be reduced by amounts deducted, or which can be deducted, under Division 43 of the ITAA 1997.
@@ -24,79 +9,14 @@ Facts
 The taxpayer acquired a commercial property (land and buildings) in 2000 for $1 million. This amount is the first element of the property's cost base. The building is not a separate asset from the land for CGT purposes.
 The taxpayer then spent $250,000 on altering and improving the building. This amount is the fourth element of the property's cost base.
 The taxpayer sold the property in 2003 for $3 million.
-In respect of their ownership period, the taxpayer was entitled to deduct, under Division 43 of the ITAA 1997, a portion of the capital works expenditure incurred by them in altering and improving the building and a portion of the expenditure incurred by the previous owner in constructing the building. The total amount the taxpayer deducted was $20,000, which was the total amount they were allowed to deduct under Division 43.
-
-[History note: The above paragraph has been amended so that the description of the facts is consistent with Taxation Determination TD 2005/47.]
-
-The taxpayer did not have a profit making intention and was not in the business of buying and selling properties.
+In respect of their ownership period, the taxpayer was entitled to deduct, under Division 43 of the ITAA 1997, a portion of the capital works expenditure incurred by them in altering and improving the building and a portion of the expenditure incurred by the previous owner in constructing the building. The total amount the taxpayer deducted was $20,000, which was the total amount they were allowed to deduct under Division 43. [History note: The above paragraph has been amended so that the description of the facts is consistent with Taxation Determination TD 2005/47.] The taxpayer did not have a profit making intention and was not in the business of buying and selling properties.
 Reasons for Decision
 Section 110-25 of the ITAA 1997 sets out items that can be included in the cost base of a CGT asset. For assets acquired after 7.30pm (ACT legal time) on 13 May 1997, section 110-45 of the ITAA 1997 sets out certain items that do not form part of the cost base.
 Expenditure incurred by a taxpayer does not form part of the cost base of a CGT asset to the extent that it is deducted or can be deducted (provided it has not already been excluded from cost base by subsection 110-45(1B)): subsection 110-45(2) of the ITAA 1997. Also, cost base is reduced by amounts deducted, or which can be deducted, in respect of expenditure incurred by another entity: subsection 110-45(4) of the ITAA 1997.
 Broadly, Division 43 of the ITAA 1997 allows a deduction for capital works expenditure in respect of certain income producing buildings and structural improvements. The deduction is available for qualifying expenditure incurred by the taxpayer and also for qualifying expenditure incurred by a previous owner of the building or improvement. Qualifying expenditure is written-off (that is, deducted) over 25 or 40 years, depending on when the expenditure was incurred and the use of the building or structural improvement.
 Subsection 110-45(2) of the ITAA 1997 has the effect that expenditure incurred by a taxpayer in respect of an asset, and for which a deduction has been allowed under Division 43 of the ITAA 1997, cannot be included in the asset's cost base. Further, subsection 110-45(4) of the ITAA 1997 means that cost base is also reduced by an amount deducted, or which can be deducted, under Division 43 in respect of expenditure incurred by another entity. The note to subsection 110-45(4) indicates that it is intended to apply to the capital works deductions in Division 43 of the ITAA 1997.
-Therefore, the cost base of the property in this case should be reduced by the $20,000 allowable as deductions under Division 43 of the ITAA 1997. This means the property's cost base is $1,230,000 worked out as follows:
-
-(1,000,000 + 250,000) - 20,000
-
-The policy underpinning the cost base reduction rules was discussed in the Explanatory Memorandum to the Taxation Laws Amendment Bill (No.2) 1998 which introduced section 160ZJA, the equivalent provision in the Income Tax Assessment Act 1936 (ITAA 1936) to section 110-45 of the ITAA 1997:
-
-6.3 In principle, an item of expenditure should either be deductible for income tax purposes or included in the cost base of an underlying asset for CGT purposes, but not both.
-
-6.4 The amendments are designed to prevent taxpayers from including an amount of expenditure in the cost base or indexed cost base of an asset to the extent that they would be able to claim a deduction for that expenditure.
-
-Therefore, the context within which the CGT cost base rules were developed can clearly be distinguished from the context of the rules for the calculation of profits under subsection 82(2) of the ITAA 1936 considered in MLC Limited & Anor v. DFC of T [2002] FCA 1491; 2002 ATC 5105; (2002) 51 ATR 283.
-
-Note: Section 110-45 of the ITAA 1997 also operates to prevent expenditure forming part of the cost base of land or a building acquired
- before
- 7.30pm (ACT legal time) on 13 May 1997 if the expenditure was incurred by the taxpayer after 30 June 1999 and forms part of the fourth element of cost base of the property: subsection 110-45(1A) of the ITAA 1997.
-
-Date of decision:
-  10 March 2004
-
-Year of income:
-  year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 82(2)   Division 10D   section 160ZJA
-Income Tax Assessment Act 1997   Division 43   section 110-25   section 110-45   subsection 110-45(1A)   subsection 110-45(1B)   subsection 110-45(2)   subsection 110-45(4)
-
-Case References:
-
-MLC Ltd v. Deputy Commissioner of Taxation    [2002] FCA 1491   2002 ATC 5105
-
-Other References:
-
- Explanatory Memorandum to Taxation Laws Amendment Bill (No 2) 1998
-
-Keywords
-
-Building depreciation
- Capital gains tax
- CGT assets
- CGT cost base
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  14 May 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 March 2004
-Original statement
-
-You are here
+Therefore, the cost base of the property in this case should be reduced by the $20,000 allowable as deductions under Division 43 of the ITAA 1997. This means the property's cost base is $1,230,000 worked out as follows: (1,000,000 + 250,000) - 20,000 The policy underpinning the cost base reduction rules was discussed in the Explanatory Memorandum to the Taxation Laws Amendment Bill (No.2) 1998 which introduced section 160ZJA, the equivalent provision in the Income Tax Assessment Act 1936 (ITAA 1936) to section 110-45 of the ITAA 1997: 6.3 In principle, an item of expenditure should either be deductible for income tax purposes or included in the cost base of an underlying asset for CGT purposes, but not both. 6.4 The amendments are designed to prevent taxpayers from including an amount of expenditure in the cost base or indexed cost base of an asset to the extent that they would be able to claim a deduction for that expenditure. Therefore, the context within which the CGT cost base rules were developed can clearly be distinguished from the context of the rules for the calculation of profits under subsection 82(2) of the ITAA 1936 considered in MLC Limited & Anor v. DFC of T [2002] FCA 1491; 2002 ATC 5105; (2002) 51 ATR 283. Note: Section 110-45 of the ITAA 1997 also operates to prevent expenditure forming part of the cost base of land or a building acquired before 7.30pm (ACT legal time) on 13 May 1997 if the expenditure was incurred by the taxpayer after 30 June 1999 and forms part of the fourth element of cost base of the property: subsection 110-45(1A) of the ITAA 1997. Date of decision: 10 March 2004 Year of income: year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 82(2) Division 10D section 160ZJA
+Income Tax Assessment Act 1997 Division 43 section 110-25 section 110-45 subsection 110-45(1A) subsection 110-45(1B) subsection 110-45(2) subsection 110-45(4) Case References: MLC Ltd v. Deputy Commissioner of Taxation [2002] FCA 1491 2002 ATC 5105 Other References: Explanatory Memorandum to Taxation Laws Amendment Bill (No 2) 1998 Keywords Building depreciation Capital gains tax CGT assets CGT cost base Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 14 May 2004 ISSN: 1445-2782 history Date: Version: 10 March 2004
+Original statement You are here
 18 December 2009
 Archived

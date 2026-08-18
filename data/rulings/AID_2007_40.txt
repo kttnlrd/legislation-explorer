@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/40
-==================================================
-
-Income Tax
- Consolidation: retained cost base assets - purchased receivables of a joining entity
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: retained cost base assets - purchased receivables of a joining entity FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the rights over discrete debts contained within purchased debt ledgers of the joining entity at the joining time prevented from being retained cost base assets under paragraph 705-25(5)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) because the vendor may 'buy back' those rights in certain circumstances?
 Decision
 No. The rights over discrete debts contained within purchased debt ledgers of the joining entity at the joining time are not prevented from being retained cost base assets under paragraph 705-25(5)(b) of the ITAA 1997 because the vendor may 'buy back' those rights in certain circumstances .
@@ -20,57 +9,10 @@ Facts
 At the joining time, Sub Co's (the joining entity's) assets include rights over discrete debts that had been legally assigned to it prior to the joining time.
 The agreement, which effected the assignment of the rights over the debts, set out a number of circumstances in which a 'buy back' of the rights could occur.
 Reasons for Decision
-Paragraph 705-25(5)(b) of the ITAA 1997 provides that a retained cost base asset includes:
-
-(b) a right to receive a specified amount of....Australian currency, other than a right that is a marketable security within the meaning of section 70B of the Income Tax Assessment Act 1936....
-
-Taxation Ruling TR 2005/10 explains that the expression 'a right to receive a specified amount of Australian currency' in paragraph 705-25(5)(b) of the ITAA 1997 is a reference to 'an indefeasible, present right to the actual or constructive receipt of a fixed, nominal amount of Australian currency' (paragraphs 9 and 20 of TR 2005/10).
+Paragraph 705-25(5)(b) of the ITAA 1997 provides that a retained cost base asset includes: (b) a right to receive a specified amount of....Australian currency, other than a right that is a marketable security within the meaning of section 70B of the Income Tax Assessment Act 1936.... Taxation Ruling TR 2005/10 explains that the expression 'a right to receive a specified amount of Australian currency' in paragraph 705-25(5)(b) of the ITAA 1997 is a reference to 'an indefeasible, present right to the actual or constructive receipt of a fixed, nominal amount of Australian currency' (paragraphs 9 and 20 of TR 2005/10).
 Paragraph 25 of TR 2005/10 states that an indefeasible, present right does not exist where the 'actual right....is liable to be defeated or terminated by the operation of a condition subsequent or conditional limitation'.
 Taxation Ruling TR 2005/10 does not explain what the expression 'condition subsequent' means. However, the meaning of that expression is defined in The CCH Macquarie Concise Dictionary of Modern Law (Sydney: CCH Australia Limited, 1988) as 'an event the occurrence of which deprives a previous act of its effect'. The expression is similarly defined in Osborn's Concise Law Dictionary (London: Sweet & Maxwell, 1983) as 'one which destroys or divests the right upon the happening of the event'. Butterworths Concise Australian Legal Dictionary (Sydney: LexisNexis Butterworths, 3rd ed, 2004) describes a condition subsequent as 'a condition, being a future event upon the occurrence of which the parties agree to terminate their obligations and the relations created by the contract (or either or both of the parties obtain the right to terminate the further performance of the contract) (National Australia Bank Ltd v. KDS Construction Services Pty Ltd (in liq) (1987) 163 CLR 668; (1987) 76 ALR 27).
 The agreement effecting the assignment of the rights over the debts to Sub Co sets out circumstances within which a 'buy back' of those rights may occur. The expression 'buy back' suggests that those circumstances do not deprive the original assignment of its effect (since a 'buy back', or re-assignment, cannot occur unless the original assignment was effective); or terminate the obligations and relations created under the agreement. Therefore, the terms which allow a 'buy back' to occur do not qualify as 'conditions subsequent'.
 Accordingly, the fact that the vendor may 'buy back' the rights over the discrete debts in certain circumstances does not in itself prevent those rights from qualifying as retained cost base assets under paragraph 705-25(5)(b) of the ITAA 1997.
-Date of decision:
-  14 February 2007
-
-Year of income:
-  Year ending 30 June 2007 Year ending 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 70B
-Income Tax Assessment Act 1997   subsection 705-25(5)   paragraph 705-25(5)(b)
-
-Case References:
-
-National Australia Bank Ltd v. KDS Construction Services Pty Ltd (in liq)   (1987) 163 CLR 668   (1987) 76 ALR 27
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2005/10
-
-Other References:
-
-Bird R, Osborn's Concise Law Dictionary (London: Sweet & Maxwell, 1983)
- Butterworths Concise Australian Legal Dictionary (Sydney: LexisNexis Butterworths, 3rd ed, 2004)
- The CCH Macquarie Concise Dictionary of Modern Law (Sydney: CCH Australia Limited, 1988)
-
-Keywords
-
-Consolidation - assets
- Cost setting rules
- Joining entity
- Joining time
- Retained cost base asset
- Tax cost setting rules
-
-Siebel/TDMS Reference Number:
-  5461484
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  23 February 2007
-
-ISSN:
- 1445-2782
+Date of decision: 14 February 2007 Year of income: Year ending 30 June 2007 Year ending 30 June 2008 Legislative References: Income Tax Assessment Act 1936 section 70B
+Income Tax Assessment Act 1997 subsection 705-25(5) paragraph 705-25(5)(b) Case References: National Australia Bank Ltd v. KDS Construction Services Pty Ltd (in liq) (1987) 163 CLR 668 (1987) 76 ALR 27 Related Public Rulings (including Determinations) Taxation Ruling TR 2005/10 Other References: Bird R, Osborn's Concise Law Dictionary (London: Sweet & Maxwell, 1983) Butterworths Concise Australian Legal Dictionary (Sydney: LexisNexis Butterworths, 3rd ed, 2004) The CCH Macquarie Concise Dictionary of Modern Law (Sydney: CCH Australia Limited, 1988) Keywords Consolidation - assets Cost setting rules Joining entity Joining time Retained cost base asset Tax cost setting rules Siebel/TDMS Reference Number: 5461484 Business Line: Consolidation Centre of Expertise Date of publication: 23 February 2007 ISSN: 1445-2782

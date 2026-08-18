@@ -1,91 +1,30 @@
 ATO Interpretative Decision
 ATO ID 2003/920
-==================================================
-
-Goods and Services Tax
- GST and grouping of two fixed trusts from 1 April 2003
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Do entity A and entity B, both fixed unit trusts, satisfy the regulatory membership requirement of a GST group for the purposes of section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) where:
-
-•the trustee of entity A owns 90% of the issued units in entity B, and
-•entity A has the right to receive 90% of any distribution of capital or income by entity B?
-
- Decision
+================================================== Goods and Services Tax GST and grouping of two fixed trusts from 1 April 2003 FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Do entity A and entity B, both fixed unit trusts, satisfy the regulatory membership requirement of a GST group for the purposes of section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) where: •the trustee of entity A owns 90% of the issued units in entity B, and
+•entity A has the right to receive 90% of any distribution of capital or income by entity B? Decision
 Yes, entity A and entity B satisfy the regulatory membership requirement of a GST group for the purposes of section 48-10 of the GST Act.
 Facts
 Entity A and entity B are fixed unit trusts. The trustee of entity A owns 90% of the issued units in entity B and has the right to receive 90% of any distribution of capital or income by entity B.
 Neither entity satisfies the requirements of subregulation 48-10.03(2) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
 The entities are registered for Goods and Services Tax (GST), have the same tax periods and account for GST on the same basis. Neither entity belongs to any other GST groups nor do they have any branches that are registered under Division 54 of the GST Act.
 Reasons for Decision
-The membership requirements of a GST group are set out in section 48-10 of the GST Act. In relation to trusts, each entity must:
-
-•satisfy the requirements specified in the GST Regulations
+The membership requirements of a GST group are set out in section 48-10 of the GST Act. In relation to trusts, each entity must: •satisfy the requirements specified in the GST Regulations
 •be registered for GST
 •have the same tax periods applying to it as the tax periods applying to all the other members of the GST group or proposed GST group
 •account on the same basis as all the other members of the GST group or proposed GST group
 •not be a member of any other GST group, and
-•not have any branch that is registered under Division 54 of the GST Act.
-
-Entity A and entity B are registered for GST, have the same tax periods, account on the same basis, are not members of another GST group and do not have GST branches registered. Therefore, the entities will satisfy the membership requirements, if they satisfy the requirements specified in the GST Regulations.
+•not have any branch that is registered under Division 54 of the GST Act. Entity A and entity B are registered for GST, have the same tax periods, account on the same basis, are not members of another GST group and do not have GST branches registered. Therefore, the entities will satisfy the membership requirements, if they satisfy the requirements specified in the GST Regulations.
 Regulatory membership requirements
 Regulation 48-10.03 of the GST Regulations specifies the requirements that must be satisfied for a trust to be a member of a GST group. This regulation was amended with effect from 1 April 2003 to allow GST groups to consist solely of trusts.
 Paragraph 48-10.03(1)(a) of the GST Regulations provides that if the GST group consists only of fixed trusts, the requirements set out in either subregulation 48-10.03(2) of the GST Regulations or regulation 48-10.03A of the GST Regulations must be satisfied. Neither of the entities satisfy the requirements of subregulation 48-10.03(2) of the GST Regulations. Therefore, the group of fixed trusts must meet the requirements set out in regulation 48-10.03A of the GST Regulations to satisfy regulation 48-10.03 of the GST Regulations.
 Under regulation 48-10.03A of the GST Regulations, for a trust to be a member of a GST group consisting only of fixed trusts, it must be a member of the same 90% owned group as all the other fixed trusts in that group.
-For two fixed trusts to be members of the same 90% owned group, paragraph 48-10.03A(3)(a) of the GST Regulations requires the trustee of one fixed trust to have either:
-
-•a stake of at least 90% in the other fixed trust, or
-•a relationship with the other fixed trust in that a third fixed trust has at least a 90% stake in both of them.
-
-For a trustee of a fixed trust (the head trust) to have a stake of at least 90% in another fixed trust (the sub-trust), paragraph 48-10.03A(3)(b) of the GST Regulations requires the trustee of the head trust to:
-
-•own at least 90% of the issued units in the sub-trust, whether directly or indirectly through one or more interposed trusts or companies, and
-•have the right to receive at least 90% of any distribution of capital or income of the sub-trust.
-
-The trustee of entity A (head trust) owns 90% of the issued units of entity B (sub-trust) and has the right to receive 90% of any distribution of capital or income of entity B.
+For two fixed trusts to be members of the same 90% owned group, paragraph 48-10.03A(3)(a) of the GST Regulations requires the trustee of one fixed trust to have either: •a stake of at least 90% in the other fixed trust, or
+•a relationship with the other fixed trust in that a third fixed trust has at least a 90% stake in both of them. For a trustee of a fixed trust (the head trust) to have a stake of at least 90% in another fixed trust (the sub-trust), paragraph 48-10.03A(3)(b) of the GST Regulations requires the trustee of the head trust to: •own at least 90% of the issued units in the sub-trust, whether directly or indirectly through one or more interposed trusts or companies, and
+•have the right to receive at least 90% of any distribution of capital or income of the sub-trust. The trustee of entity A (head trust) owns 90% of the issued units of entity B (sub-trust) and has the right to receive 90% of any distribution of capital or income of entity B.
 Therefore, entity A has a 90% stake in entity B. As such, entities A and B are members of the same 90% owned group and both entity A and entity B satisfy the requirements of regulation 48-10.03 of the GST Regulations.
 Accordingly, entity A and entity B satisfy the membership requirements of a GST group under section 48-10 of the GST Act from 1 April 2003.
-Date of decision:
-  17 June 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 48-10   subparagraph 48-10(1)(a)(ii)   Division 54
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 48-10.03   paragraph 48-10.03(1)(a)   subregulation 48-10.03(2)   regulation 48-10.03A   paragraph 48-10.03A(3)(a)   paragraph 48-10.03A(3)(b)
-A New Tax System (Goods and Services Tax) Amendment Regulations 2003 (No.1) (2003 No.37)   Table of Content
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/921
-
-Keywords
-
-Goods and services tax
- GST special rules
- GST branches
- GST groups
- GST regulations
- GST tax periods
-
-Siebel/TDMS Reference Number:
-  3600051
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  17 October 2003
-
-ISSN:
- 1445-2782
+Date of decision: 17 June 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 48-10 subparagraph 48-10(1)(a)(ii) Division 54
+A New Tax System (Goods and Services Tax) Regulations 1999 regulation 48-10.03 paragraph 48-10.03(1)(a) subregulation 48-10.03(2) regulation 48-10.03A paragraph 48-10.03A(3)(a) paragraph 48-10.03A(3)(b)
+A New Tax System (Goods and Services Tax) Amendment Regulations 2003 (No.1) (2003 No.37) Table of Content Related ATO Interpretative Decisions ATO ID 2003/921 Keywords Goods and services tax GST special rules GST branches GST groups GST regulations GST tax periods Siebel/TDMS Reference Number: 3600051 Business Line: Indirect Tax Date of publication: 17 October 2003 ISSN: 1445-2782

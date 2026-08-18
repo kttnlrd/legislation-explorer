@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/753
-==================================================
-
-Income Tax
- Section 73C Income Tax Assessment Act 1936 (ITAA 1936) and the Automotive Competitiveness and Investment Scheme
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Section 73C Income Tax Assessment Act 1936 (ITAA 1936) and the Automotive Competitiveness and Investment Scheme FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a taxpayer receives credits under the Commonwealth Government's Automotive Competitiveness and Investment Scheme (ACIS) (which are calculated with reference to investment in approved research and development (R & D) plant and equipment or investment in approved (R & D)), do the clawback provisions in respect of expenditure on (R & D) activities (relevant expenditure) contained in section 73C of the ITAA 1936 apply?
 If so, does section 73C of the ITAA 1936 apply to all relevant expenditure, within the meaning of that term in paragraph 73C(2)(a) of the ITAA 1936, used in the calculation of a particular credit?
 Decision
@@ -20,92 +9,20 @@ Section 73C of the ITAA 1936 applies and it applies to all relevant expenditure 
 This is because each ACIS credit represents a separate grant in respect of the (R & D) expenditure used in the calculation of the credit. To the extent that the (R & D) expenditure used in the calculation is also relevant expenditure for the purposes of section 73C of the ITAA 1936, the credit will represent a grant in respect of that relevant expenditure.
 Facts
 The ACIS
-The Automotive Competitiveness & Investment Scheme (ACIS) is a Government initiative to encourage investment, innovation, research and development and production in the automotive industry. In a press release dated 17 October 2000 The Minister for Industry Science and Resources Senator Nick Minchin said '...the main objective of ACIS was to encourage investment, innovation, research and development, and production in the automotive industry.' This is reflected in the purpose clause of section 3 of the ACIS Administration Act 1999 which states:
-
-'The purpose of this Act is to provide transitional assistance to encourage competitive investment and innovation in the Australian automotive industry in order to achieve sustainable growth, both in the Australian market and internationally, in the context of trade liberalisation.'
-
-The scheme began on 1 January 2001 and runs until 31 December 2005. Participants receive a quarterly issue of import duty credits which may be used to offset customs duty payable on eligible automotive imports. So far as is relevant to the (R & D) tax concession, eligible participants who are Automotive Component Producers (ACPS), Automotive Machine Tool and Tooling Producers (AMTPS) or Automotive Service Providers (ASPS), or Motor Vehicle Producers (MVPS) where the (R & D) relates to production of components, tools or services for a third party, will be able to claim a duty credit equal to:
-
-•25 per cent of the new investment in plant and equipment; and
-•45 per cent of the investment in (R & D) (excluding investment in (R & D) plant & equipment which is subject to the 25 per cent benefit mentioned above)
-
-The credit is calculated on the moving average of investment over the previous 12 quarters commencing with investment recorded from 1 January 1999. This credit is placed in a register in the participants name and can be used to discharge customs duty payable on eligible automotive imports or it can be sold or otherwise transferred to a third party. The scheme is capped at $2b over the 5 years and there are limits on the benefits available to an individual firm.
+The Automotive Competitiveness & Investment Scheme (ACIS) is a Government initiative to encourage investment, innovation, research and development and production in the automotive industry. In a press release dated 17 October 2000 The Minister for Industry Science and Resources Senator Nick Minchin said '...the main objective of ACIS was to encourage investment, innovation, research and development, and production in the automotive industry.' This is reflected in the purpose clause of section 3 of the ACIS Administration Act 1999 which states: 'The purpose of this Act is to provide transitional assistance to encourage competitive investment and innovation in the Australian automotive industry in order to achieve sustainable growth, both in the Australian market and internationally, in the context of trade liberalisation.' The scheme began on 1 January 2001 and runs until 31 December 2005. Participants receive a quarterly issue of import duty credits which may be used to offset customs duty payable on eligible automotive imports. So far as is relevant to the (R & D) tax concession, eligible participants who are Automotive Component Producers (ACPS), Automotive Machine Tool and Tooling Producers (AMTPS) or Automotive Service Providers (ASPS), or Motor Vehicle Producers (MVPS) where the (R & D) relates to production of components, tools or services for a third party, will be able to claim a duty credit equal to: •25 per cent of the new investment in plant and equipment; and
+•45 per cent of the investment in (R & D) (excluding investment in (R & D) plant & equipment which is subject to the 25 per cent benefit mentioned above) The credit is calculated on the moving average of investment over the previous 12 quarters commencing with investment recorded from 1 January 1999. This credit is placed in a register in the participants name and can be used to discharge customs duty payable on eligible automotive imports or it can be sold or otherwise transferred to a third party. The scheme is capped at $2b over the 5 years and there are limits on the benefits available to an individual firm.
 Operation of section 73C of the ITAA 1936
-Section 73C of the ITAA 1936 was introduced by Act No 167 of 1989 to replace the former subsection 73B(8) of the ITAA 1936. Under subsection 73B(8) of the ITAA 1936 the receipt of a grant or recoupment in respect of any of the (R & D) expenditure was sufficient to fully deny a deduction for (R & D) expenditure under section 73B of the ITAA 1936. In introducing section 73C of the ITAA 1936 the Minister for Industrial Relations and Minister Assisting the Treasurer said in his second reading speech:
-
-'A company that receives a government grant or recoupment in respect of expenditure on a research and development project will no longer suffer a total loss of the deduction entitlements. Instead, a formula is being introduced to reduce the deduction otherwise allowable by reference to the grant or recoupment.'
-
-Subsection 73C(2) of the ITAA 1936 states that:
-
-'This section applies where:
-
-(a)an eligible company has, at any time on or after 1 July 1985, incurred expenditure (in this section called the "relevant expenditure") on research and development activities that form or formed part of a particular project carried on by or on behalf of the company; and
-(b)the company has, whether before or after the commencement of this section, received, or become entitled to receive, a recoupment of, or a grant in respect of, the whole or any part of the relevant expenditure by or from the Commonwealth, a State or a Territory, an STB (within the meaning of Division 1AB) or an authority constituted by or under a law of the Commonwealth , of a State or of a Territory, or another person has received or become entitled to receive such a recoupment or grant where the other person is, at the time of receipt or entitlement, grouped with the first-mentioned company as mentioned in section 73L.'
-
-Subsection 73C(3) of the ITAA 1936 states:
-
-'Where this section applies to a company in respect of relevant expenditure in relation to a particular project:
-
-(a)the relevant expenditure is subject to the application of clawback in accordance with this section; and
-(b)for the purposes of this section the initial clawback amount in relation to the relevant expenditure is an amount equal to twice the amount, or twice the total of the amounts, as the case may be, that the company has received, or become entitled to receive, as a recoupment of, or as a grant in respect of, any of the relevant expenditure as mentioned in paragraph (2)(b).'
-
-Where the relevant expenditure consists wholly of expenditure incurred on or after 21 November 1987 subsection 73C(7) of the ITAA 1936 contains the formula for applying clawback. Under paragraph 73C(7)(a) of the ITAA 1936, if the initial clawback amount is equal to or greater than the relevant expenditure then clawback applies to the whole of that expenditure. Under paragraph 73C(7)(b) of the ITAA 1936, if the initial clawback amount is less than the relevant expenditure then clawback applies to so much of the relevant expenditure as does not exceed the initial clawback amount. Paragraph 73C(7)(c) of the ITAA 1936 contains rules as to the order of applying clawback to relevant expenditure as mentioned in paragraph 73C(7)(b) of the ITAA 1936.
-Section 170 of the ITAA 1936 gives the Commissioner power to amend any assessment subject to the rules contained in the section. Subsection 170(10A) of the ITAA 1936 states:
-
-'Nothing in this section prevents the amendment, at any time, of an assessment to increase the liability of a taxpayer for the purpose of giving effect to section 73B, 73C, 73CB, or 73D, 73BH, 73BA, 73BF, 73BM, 73C. 73CB, 73D, 73I or 73Y.'
-
-Reasons for Decision
+Section 73C of the ITAA 1936 was introduced by Act No 167 of 1989 to replace the former subsection 73B(8) of the ITAA 1936. Under subsection 73B(8) of the ITAA 1936 the receipt of a grant or recoupment in respect of any of the (R & D) expenditure was sufficient to fully deny a deduction for (R & D) expenditure under section 73B of the ITAA 1936. In introducing section 73C of the ITAA 1936 the Minister for Industrial Relations and Minister Assisting the Treasurer said in his second reading speech: 'A company that receives a government grant or recoupment in respect of expenditure on a research and development project will no longer suffer a total loss of the deduction entitlements. Instead, a formula is being introduced to reduce the deduction otherwise allowable by reference to the grant or recoupment.' Subsection 73C(2) of the ITAA 1936 states that: 'This section applies where: (a)an eligible company has, at any time on or after 1 July 1985, incurred expenditure (in this section called the "relevant expenditure") on research and development activities that form or formed part of a particular project carried on by or on behalf of the company; and
+(b)the company has, whether before or after the commencement of this section, received, or become entitled to receive, a recoupment of, or a grant in respect of, the whole or any part of the relevant expenditure by or from the Commonwealth, a State or a Territory, an STB (within the meaning of Division 1AB) or an authority constituted by or under a law of the Commonwealth , of a State or of a Territory, or another person has received or become entitled to receive such a recoupment or grant where the other person is, at the time of receipt or entitlement, grouped with the first-mentioned company as mentioned in section 73L.' Subsection 73C(3) of the ITAA 1936 states: 'Where this section applies to a company in respect of relevant expenditure in relation to a particular project: (a)the relevant expenditure is subject to the application of clawback in accordance with this section; and
+(b)for the purposes of this section the initial clawback amount in relation to the relevant expenditure is an amount equal to twice the amount, or twice the total of the amounts, as the case may be, that the company has received, or become entitled to receive, as a recoupment of, or as a grant in respect of, any of the relevant expenditure as mentioned in paragraph (2)(b).' Where the relevant expenditure consists wholly of expenditure incurred on or after 21 November 1987 subsection 73C(7) of the ITAA 1936 contains the formula for applying clawback. Under paragraph 73C(7)(a) of the ITAA 1936, if the initial clawback amount is equal to or greater than the relevant expenditure then clawback applies to the whole of that expenditure. Under paragraph 73C(7)(b) of the ITAA 1936, if the initial clawback amount is less than the relevant expenditure then clawback applies to so much of the relevant expenditure as does not exceed the initial clawback amount. Paragraph 73C(7)(c) of the ITAA 1936 contains rules as to the order of applying clawback to relevant expenditure as mentioned in paragraph 73C(7)(b) of the ITAA 1936.
+Section 170 of the ITAA 1936 gives the Commissioner power to amend any assessment subject to the rules contained in the section. Subsection 170(10A) of the ITAA 1936 states: 'Nothing in this section prevents the amendment, at any time, of an assessment to increase the liability of a taxpayer for the purpose of giving effect to section 73B, 73C, 73CB, or 73D, 73BH, 73BA, 73BF, 73BM, 73C. 73CB, 73D, 73I or 73Y.' Reasons for Decision
 Does section 73C of the ITAA 1936 apply?
 Section 73C of the ITAA 1936 limits the ability of a company to obtain benefits from both the tax concession and government grants or recoupments in respect of the same research and development expenditure.
 In order for section 73C of the ITAA 1936 to operate there must be a grant received in respect of, or a recoupment of, relevant expenditure within the meaning of that term in paragraph 73C(2)(a) of the ITAA 1936.
-The Shorter Oxford Dictionary meaning of grant is:
-
-'consent to a request; agree to do; agree to, promise undertake, consent to do; accede to, consent to fulfil; concede as an indulgence, bestow as a favour, allow a person to have; give or confers possession, a right formally; transfer (property) legally; yield, give up; admit, acknowledge.'
-
-Osborne's Concise Law Dictionary (8th edition) gives the meaning as:
-
-'the allocation of rights, money etc by the Crown or Parliament to particular persons or for particular purposes.'
-
-Under the ACIS scheme an eligible participant is bestowed or conferred a right, that being the right to duty credits which are placed in the participant's name in a register until such time as they use them to offset customs duty or sell them to another. In these circumstances a participant obtains a grant at the time that the duty credit is calculated and recorded in the register.
+The Shorter Oxford Dictionary meaning of grant is: 'consent to a request; agree to do; agree to, promise undertake, consent to do; accede to, consent to fulfil; concede as an indulgence, bestow as a favour, allow a person to have; give or confers possession, a right formally; transfer (property) legally; yield, give up; admit, acknowledge.' Osborne's Concise Law Dictionary (8th edition) gives the meaning as: 'the allocation of rights, money etc by the Crown or Parliament to particular persons or for particular purposes.' Under the ACIS scheme an eligible participant is bestowed or conferred a right, that being the right to duty credits which are placed in the participant's name in a register until such time as they use them to offset customs duty or sell them to another. In these circumstances a participant obtains a grant at the time that the duty credit is calculated and recorded in the register.
 That part of the duty credit calculated with reference to the amount of approved R & D expenditure would be a grant in respect of that R & D expenditure. The words 'in respect of' are difficult of definition, but they have the widest possible meaning of any expression intended to convey some connection or relation between the two subject matters to which the words refer. (Trustees Executors & Agency Co Ltd v. Reilly [1941] VLR 110 at 111, per Mann CJ). The words 'in respect of' were again given a very wide meaning in Technical Products Pty Ltd v. State Government Insurance (Qld) (1989) 167 CLR 45 at 47 which was quoted in Fraser v DCT (1996) 138ALR 689 at 700, per Beaumont J.
 The use of the approved R & D expenditure in the calculation of the credit would provide the required connection or relationship between the credit (ie the grant) and the R & D expenditure.
 Does section 73C of the ITAA 1936 apply to all expenditure on R & D activities used in the calculation of a particular credit
 Each of the credits represents a separate grant in respect of R & D expenditure (see above). The credits are calculated as a percentage of the moving average of expenditure on R & D over the previous 12 quarters. To the extent that this expenditure on R & D is 'research and development expenditure' on 'research and development activities' within the definition of those terms in subsection 73B(1) of the ITAA 1936, the grant will have been received in respect of the all relevant expenditure used in the calculation of that particular credit despite the fact that the R & D expenditure may have been incurred and claimed in an earlier year.
 Paragraph 73C(7)(c) of the ITAA 1936 contains rules as to the order of applying clawback to the relevant expenditure. These rules allow for an adjustment of R & D expenditure claims in earlier years where a grant is received in respect of that expenditure in a later year. Subsection 170(10A) of the ITAA 1936 allows the Commissioner to amend an assessment at any time to give effect to section 73C of the ITAA 1936. Therefore if the credit is calculated with reference to relevant expenditure of earlier years the Commissioner can amend those earlier years to apply the clawback rules in section 73C of the ITAA 1936.
-Date of decision:
-  7 May 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 73B   subsection 73B(1)   subsection 73B(8)   section 73C   paragraph 73C(2)(a)   paragraph 73C(7)(a)   paragraph 73C(7)(b)   paragraph 73C(7)(c)   subsection 73C(3)   section 73CB   section 73D   section 73BH   section 73BA   section 73BF   section 73BM   section 73I   section 73L   section 73Y   Subsection 170(10A)
-
-Case References:
-
-Trustees Executors & Agency Co Ltd v Reilly   [1941] VLR 110
-
-Technical Products Pty Ltd v State Government Insurance (Qld)   167 CLR 45
-
-Fraser v. Deputy Commissioner of Taxation & Official Trustee   33 ATR 370   (1996) 138 ALR 689   (1996) 20 FamLR 914   (1996) 69 FCR 99
-
-Other References:
-
-Shorter Oxford Dictionary
- Osborne's Concise Law Dictionary (8th) edition
- Press Release 00/474 of Minister for Industry Science & Resources
-
-Keywords
-
-Research & development expenses
- Precedent
-
-Siebel/TDMS Reference Number:
-  CAS103991
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  6 December 2001
-
-ISSN:
- 1445-2782
+Date of decision: 7 May 2001 Legislative References: Income Tax Assessment Act 1936 section 73B subsection 73B(1) subsection 73B(8) section 73C paragraph 73C(2)(a) paragraph 73C(7)(a) paragraph 73C(7)(b) paragraph 73C(7)(c) subsection 73C(3) section 73CB section 73D section 73BH section 73BA section 73BF section 73BM section 73I section 73L section 73Y Subsection 170(10A) Case References: Trustees Executors & Agency Co Ltd v Reilly [1941] VLR 110 Technical Products Pty Ltd v State Government Insurance (Qld) 167 CLR 45 Fraser v. Deputy Commissioner of Taxation & Official Trustee 33 ATR 370 (1996) 138 ALR 689 (1996) 20 FamLR 914 (1996) 69 FCR 99 Other References: Shorter Oxford Dictionary Osborne's Concise Law Dictionary (8th) edition Press Release 00/474 of Minister for Industry Science & Resources Keywords Research & development expenses Precedent Siebel/TDMS Reference Number: CAS103991 Business Line: Public Groups and International Date of publication: 6 December 2001 ISSN: 1445-2782

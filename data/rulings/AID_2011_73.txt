@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/73
-==================================================
-
-Income Tax
- Definition of public company: company controlled by a Government or public body - meaning of 'Government'
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Definition of public company: company controlled by a Government or public body - meaning of 'Government' FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a company in which a foreign government has a controlling interest on the last day of the income year a public company for that income year under subparagraph 103A(2)(d)(iv) of the Income Tax Assessment Act 1936 (ITAA 1936) for the purposes of Division 7 of Part III of the ITAA 1936?
 Decision
 Yes. A company in which a foreign government has a controlling interest on the last day of the income year is, for the purposes of Division 7 of Part III of the ITAA 1936, a public company for that income year under subparagraph 103A(2)(d)(iv) of the ITAA 1936 as the term 'Government' in subparagraph 103A(2)(d)(iv) includes a foreign government.
@@ -23,86 +12,21 @@ Reasons for Decision
 Division 7 of Part III of the ITAA 1936 draws a distinction, for the purposes of that Division, between public companies and private companies.
 Subsection 103A(1) of the ITAA 1936 provides the definition of 'private company' and states that, for the purposes of Division 7 of Part III of the ITAA 1936, a company is a private company in relation to an income year if the company is not a public company for that year.
 Subsection 103A(2) of the ITAA 1936 states that, subject to the succeeding provisions of section 103A (which are not relevant in this case), a company will be a public company for the purposes of subsection 103A(1) if it falls within any of the categories listed in subsection 103A(2).
-Paragraph 103A(2)(d) of the ITAA 1936 relevantly stipulates that a company will be a public company if:
-
-(d)the company is:
-
-(iii)a body constituted by a law of the Commonwealth or of a State or Territory and established for public purposes, not being a company within the meaning of the law in force in a State or Territory relating to companies;
-(iv)a company in which a Government or a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income;
-
-It has been suggested that the placement of the words 'referred to in subparagraph (iii)' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 above gives rise to an ambiguity, and consequently, to alternative and conflicting interpretations.
-One view is that a company will be a public company under subparagraph 103A(2)(d)(iv) of the ITAA 1936 where the company is:
-
-•'a company in which a Government ... referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'; or
-•'a company in which ... a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'.
-
-Under this interpretation, the meaning of 'Government' is contingent upon the scope of subparagraph 103A(2)(d)(iii) of the ITAA 1936.
-The alternative interpretation is that a company will be a public company under subparagraph 103A(2)(d)(iv) of the ITAA 1936 where the company is:
-
-•'a company in which a Government ... had a controlling interest on the last day of the year of income'; or
-•'a company in which ... a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'.
-
-Whether the term 'Government' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 includes a foreign government is somewhat dependent on which of these interpretations is correct.
-As explained below, the legislative context and the policy behind subparagraph 103A(2)(d)(iv) of the ITAA 1936 lends support to the alternative interpretation.
-
-Connection with subparagraph 103A(2)(d)(iii)
-
-Subparagraph 103A(2)(d)(iii) of the ITAA 1936 refers to 'a body constituted by a law of the Commonwealth or of a State or Territory and established for public purposes ...'. While the reference to a law of the Commonwealth, State or Territory is relevant to the constitution of that body, it is the actual body that is the subject of the provision.
+Paragraph 103A(2)(d) of the ITAA 1936 relevantly stipulates that a company will be a public company if: (d)the company is: (iii)a body constituted by a law of the Commonwealth or of a State or Territory and established for public purposes, not being a company within the meaning of the law in force in a State or Territory relating to companies;
+(iv)a company in which a Government or a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income; It has been suggested that the placement of the words 'referred to in subparagraph (iii)' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 above gives rise to an ambiguity, and consequently, to alternative and conflicting interpretations.
+One view is that a company will be a public company under subparagraph 103A(2)(d)(iv) of the ITAA 1936 where the company is: •'a company in which a Government ... referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'; or
+•'a company in which ... a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'. Under this interpretation, the meaning of 'Government' is contingent upon the scope of subparagraph 103A(2)(d)(iii) of the ITAA 1936.
+The alternative interpretation is that a company will be a public company under subparagraph 103A(2)(d)(iv) of the ITAA 1936 where the company is: •'a company in which a Government ... had a controlling interest on the last day of the year of income'; or
+•'a company in which ... a body referred to in subparagraph (iii) had a controlling interest on the last day of the year of income'. Whether the term 'Government' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 includes a foreign government is somewhat dependent on which of these interpretations is correct.
+As explained below, the legislative context and the policy behind subparagraph 103A(2)(d)(iv) of the ITAA 1936 lends support to the alternative interpretation. Connection with subparagraph 103A(2)(d)(iii) Subparagraph 103A(2)(d)(iii) of the ITAA 1936 refers to 'a body constituted by a law of the Commonwealth or of a State or Territory and established for public purposes ...'. While the reference to a law of the Commonwealth, State or Territory is relevant to the constitution of that body, it is the actual body that is the subject of the provision.
 It cannot be said that subparagraph 103A(2)(d)(iii) of the ITAA 1936 in fact makes reference to any 'Government'. Consequently, if subparagraph 103A(2)(d)(iv) meant 'a company in which a Government...referred to in subparagraph (iii) had a controlling interest', that part of subparagraph 103A(2)(d)(iv) would have no effect.
-The Explanatory Memorandum (EM) to the Income Tax and Social Services Contribution Assessment Bill (No. 3) 1964, which introduced subsection 103A(2) of the ITAA 1936, provides some clarification on this point. It states:
-
-Paragraph (d) lists a number of other classes of companies that may qualify as public companies without the necessity of satisfying the test of stock exchange listing.
-
-They are -
-
-(iii)a body constituted by a law of the Commonwealth, a State or a Territory of the Commonwealth and established for public purposes (not being a company within the meaning of a law relating to companies);
-(iv)a company in which a Government or a body established for public purposes has a controlling interest;
-
-The EM to the Income Tax and Social Services Contribution Assessment Bill (No. 3) 1964 avoids the ambiguity that arises in the legislation as a result of the inclusion and placement of the words 'referred to in subparagraph (iii)'. That EM treats the words 'a body established for public purposes' as synonymous with 'a body referred to in subparagraph (iii)'. It seems clear from the wording of item (iv) of that EM that the words 'referred to in subparagraph (iii)' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 relate only to a body established for public purposes, and do not relate to the word 'Government'.
-Accordingly, in establishing whether a company in which a Government has a controlling interest is a public company, it is not necessary to consider subparagraph 103A(2)(d)(iii) of the ITAA 1936.
-
-Whether 'Government' includes a foreign government
-
-As there is no definition of 'Government' or 'government' in either Division 7 of Part III of the ITAA 1936, subsection 6(1) of the ITAA 1936, section 995-1 of the Income Tax Assessment Act 1997 or the Acts Interpretation Act 1901, the ordinary meaning of the term must be used.
+The Explanatory Memorandum (EM) to the Income Tax and Social Services Contribution Assessment Bill (No. 3) 1964, which introduced subsection 103A(2) of the ITAA 1936, provides some clarification on this point. It states: Paragraph (d) lists a number of other classes of companies that may qualify as public companies without the necessity of satisfying the test of stock exchange listing. They are - (iii)a body constituted by a law of the Commonwealth, a State or a Territory of the Commonwealth and established for public purposes (not being a company within the meaning of a law relating to companies);
+(iv)a company in which a Government or a body established for public purposes has a controlling interest; The EM to the Income Tax and Social Services Contribution Assessment Bill (No. 3) 1964 avoids the ambiguity that arises in the legislation as a result of the inclusion and placement of the words 'referred to in subparagraph (iii)'. That EM treats the words 'a body established for public purposes' as synonymous with 'a body referred to in subparagraph (iii)'. It seems clear from the wording of item (iv) of that EM that the words 'referred to in subparagraph (iii)' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 relate only to a body established for public purposes, and do not relate to the word 'Government'.
+Accordingly, in establishing whether a company in which a Government has a controlling interest is a public company, it is not necessary to consider subparagraph 103A(2)(d)(iii) of the ITAA 1936. Whether 'Government' includes a foreign government As there is no definition of 'Government' or 'government' in either Division 7 of Part III of the ITAA 1936, subsection 6(1) of the ITAA 1936, section 995-1 of the Income Tax Assessment Act 1997 or the Acts Interpretation Act 1901, the ordinary meaning of the term must be used.
 The Macquarie Dictionary defines 'government' as 'the governing body of persons in a state, community, etc; the executive power; the administration ...'
 As this definition does not exclude a foreign government, 'Government' as used in subparagraph 103A(2)(d)(iv) of the ITAA 1936 can include a foreign government.
 This conclusion is supported by a number of EMs to Bills which introduced amendments to Division 7 of Part III of the ITAA 1936, including the EM to the Income Tax Assessment Bill (No. 3) 1972, which refers to the distinction between private and public companies and describes public companies as 'very broadly, those in which there is substantial public interest'. Where a government (whether it be an Australian or foreign government) has a controlling interest in a company, the company will be one in which there is substantial public interest.
 As the meaning of 'Government' in subparagraph 103A(2)(d)(iv) of the ITAA 1936 extends to a foreign government, a company in which a foreign government has a controlling interest on the last day of the income year is, for the purposes of Division 7 of Part III of the ITAA 1936, a public company for that year of income under subparagraph 103A(2)(d)(iv).
-Date of decision:
-  7 September 2011
-
-Year of income:
-  Year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   Division 7 of Part III   section 103A   subsection 103A(1)   subsection 103A(2)   paragraph 103A(2)(d)   subparagraph 103A(2)(d)(iii)   subparagraph 103A(2)(d)(iv)
-Income Tax Assessment Act 1997   section 995-1
-Acts Interpretation Act 1901   The Act
-
-Related ATO Interpretative Decisions
-
- ATO ID 2011/74
-
-Other References:
-
- Explanatory Memorandum to the Income Tax and Social Services Contribution Assessment Bill (No. 3) 1964
- Explanatory Memorandum to the Income Tax Assessment Bill (No. 3) 1972
- The Macquarie Dictionary, 5th Edn, The Macquarie Library Pty Ltd, NSW, 2009.
-
-Keywords
-
-Private companies
- Public companies
-
-Siebel/TDMS Reference Number:
-  1-3B6X8WY
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 September 2011
-
-ISSN:
- 1445-2782
+Date of decision: 7 September 2011 Year of income: Year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) Division 7 of Part III section 103A subsection 103A(1) subsection 103A(2) paragraph 103A(2)(d) subparagraph 103A(2)(d)(iii) subparagraph 103A(2)(d)(iv)
+Income Tax Assessment Act 1997 section 995-1
+Acts Interpretation Act 1901 The Act Related ATO Interpretative Decisions ATO ID 2011/74 Other References: Explanatory Memorandum to the Income Tax and Social Services Contribution Assessment Bill (No. 3) 1964 Explanatory Memorandum to the Income Tax Assessment Bill (No. 3) 1972 The Macquarie Dictionary, 5th Edn, The Macquarie Library Pty Ltd, NSW, 2009. Keywords Private companies Public companies Siebel/TDMS Reference Number: 1-3B6X8WY Business Line: Public Groups and International Date of publication: 23 September 2011 ISSN: 1445-2782

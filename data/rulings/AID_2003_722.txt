@@ -1,87 +1,19 @@
 ATO Interpretative Decision
 ATO ID 2003/722
-==================================================
-
-Income Tax
- Section 160ZZOA exit provisions: no eligible sub-group break up
- FOI status: may be released
-
-This ATO Interpretative Decision is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Section 160ZZOA exit provisions: no eligible sub-group break up FOI status: may be released This ATO Interpretative Decision is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is there a deemed disposal and reacquisition of an asset for market value under section 160ZZOA of the Income Tax Assessment Act 1936 (ITAA 1936) in the structure illustrated in the facts if, following the disposal by the Ultimate Holding Company to the Transferee Company of the asset rolled over under section 160ZZO of the ITAA 1936, the shares in the Transferee Company are sold to the Unit Trust?
 Decision
 Yes. A deemed disposal and reacquisition of the asset for market value will occur under section 160ZZOA of the ITAA 1936 as there is no eligible sub-group break-up in accordance with paragraph 160ZZOA(2)(f) of the ITAA 1936, on disposal of the shares in the Transferee Company to the Unit Trust.
 Facts
-Prior to a restructure, the corporate structure was represented as:
-
-On 29 June 1995, the Ultimate Holding Company sold its shares in X Company to the Transferee Company. A rollover election under section 160ZZO of the ITAA 1936 was made in relation to the disposal. The corporate structure was then represented as:
-
-On 30 June 1995, the Ultimate Holding Company sold its shares in the Transferee Company to the Unit Trust. The corporate structure was then represented as:
-
-Reasons for Decision
+Prior to a restructure, the corporate structure was represented as: On 29 June 1995, the Ultimate Holding Company sold its shares in X Company to the Transferee Company. A rollover election under section 160ZZO of the ITAA 1936 was made in relation to the disposal. The corporate structure was then represented as: On 30 June 1995, the Ultimate Holding Company sold its shares in the Transferee Company to the Unit Trust. The corporate structure was then represented as: Reasons for Decision
 Section 160ZZOA of the ITAA 1936 provides, in certain circumstances, for the deemed disposal and reacquisition for market value, of an asset for which rollover relief under section 160ZZO of the ITAA 1936 has been claimed in relation to an earlier disposal of the asset. The deemed disposal and reacquisition will occur if the company that received the asset under the rollover subsequently ceases to be a wholly-owned subsidiary of the company that was the ultimate holding company of the group at the time of the rollover.
-An exception to the deemed disposal and reacquisition rule applies if an 'eligible sub-group break-up', as defined in paragraph 160ZZOA(2)(f) of the ITAA 1936, occurs at the time the company that received the asset under the rollover, ceases to be a wholly-owned subsidiary of the company that was the ultimate holding company of the group at the time of the rollover. Included amongst the factors which must be present for an 'eligible sub-group break up' to occur are:
-
-•a sub-group, consisting of a holding company and all of its wholly-owned subsidiaries, must have existed within the group at the time of the rollover, and
-•both the company that transferred the asset and the company that received the asset under the rollover must have been members of that sub-group at the time of the rollover.
-
-At the time the Ultimate Holding Company rolled over its shares in X Company to the Transferee Company, the Transferee Company was a member of a sub-group consisting of itself as holding company and Y Company as its wholly-owned subsidiary. However, as the Ultimate Holding Company, being the company which transferred the asset under the rollover, was not a member of that sub-group at the time of the rollover, the factors required for an 'eligible sub-group break up' are not met in relation to that particular sub-group.
+An exception to the deemed disposal and reacquisition rule applies if an 'eligible sub-group break-up', as defined in paragraph 160ZZOA(2)(f) of the ITAA 1936, occurs at the time the company that received the asset under the rollover, ceases to be a wholly-owned subsidiary of the company that was the ultimate holding company of the group at the time of the rollover. Included amongst the factors which must be present for an 'eligible sub-group break up' to occur are: •a sub-group, consisting of a holding company and all of its wholly-owned subsidiaries, must have existed within the group at the time of the rollover, and
+•both the company that transferred the asset and the company that received the asset under the rollover must have been members of that sub-group at the time of the rollover. At the time the Ultimate Holding Company rolled over its shares in X Company to the Transferee Company, the Transferee Company was a member of a sub-group consisting of itself as holding company and Y Company as its wholly-owned subsidiary. However, as the Ultimate Holding Company, being the company which transferred the asset under the rollover, was not a member of that sub-group at the time of the rollover, the factors required for an 'eligible sub-group break up' are not met in relation to that particular sub-group.
 No other sub-group was in existence within the group at the time of the rollover because a sub-group, as defined in paragraph 160ZZOA(2)(e) of the ITAA 1936, cannot consist solely of a holding company.
 Whilst the Transferee Company was a wholly-owned subsidiary of the Ultimate Holding Company at the time of the rollover, those companies do not comprise a sub-group. A sub-group, by its ordinary meaning, implies a grouping which is smaller than the whole of the larger group. Were the Ultimate Holding Company to also constitute the holding company of a sub-group, the sub-group would consist of the same companies as the wholly-owned group from which the sub-group is to be derived.
 As an 'eligible sub-group break-up' does not occur at the time the Transferee Company ceases to be a wholly-owned subsidiary of the company that was the ultimate holding company of the group at the time of the rollover, section 160ZZOA of the ITAA 1936 will deem the Transferee Company to have disposed of its shares in X Company for their market value, and to have reacquired them for that value at the time the shares in the Transferee Company are acquired by the Unit Trust.
-Date of decision:
-  5 June 2003
-
-Year of income:
-  Year ended 30 June 1995
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160ZZOA   paragraph 160ZZOA(2)(e)   paragraph 160ZZOA(2)(f)   section 160ZZO
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/723
- ATO ID 2003/724
-
-Keywords
-
-Capital gains tax
- CGT companies in the same wholly-owned group
- CGT rollover relief
- CGT same asset rollover
- Group company transfers
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  15 August 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 June 2003
-Original statement
-
-You are here
+Date of decision: 5 June 2003 Year of income: Year ended 30 June 1995 Legislative References: Income Tax Assessment Act 1936 section 160ZZOA paragraph 160ZZOA(2)(e) paragraph 160ZZOA(2)(f) section 160ZZO Related ATO Interpretative Decisions ATO ID 2003/723 ATO ID 2003/724 Keywords Capital gains tax CGT companies in the same wholly-owned group CGT rollover relief CGT same asset rollover Group company transfers Business Line: Losses and CGT Centre of Expertise Date of publication: 15 August 2003 ISSN: 1445-2782 history Date: Version: 5 June 2003
+Original statement You are here
 19 March 2010
 Archived

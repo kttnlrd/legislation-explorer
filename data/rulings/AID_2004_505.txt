@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/505
-==================================================
-
-Goods and Services Tax
- GST and entitlement to an input tax credit for acquisitions that are used to make supplies to customers who provide entertainment
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and entitlement to an input tax credit for acquisitions that are used to make supplies to customers who provide entertainment FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a local council, entitled to an input tax credit under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), for acquisitions it makes which it then supplies to a customer who uses the goods and services to provide entertainment?
 Decision
 Yes, the entity is entitled to an input tax credit under section 11-20 of the GST Act, for acquisitions it makes which it then supplies to a customer who uses the goods and services to provide entertainment.
@@ -22,43 +11,13 @@ The entity supplies these goods and services to a customer. The customer uses th
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Section 11-20 of the GST Act provides that an entity is entitled to an input tax credit for any creditable acquisition that it makes.
-Under section 11-5 of the GST Act, an entity makes a creditable acquisition if:
-
-•the entity acquires anything solely or partly for a creditable purpose
+Under section 11-5 of the GST Act, an entity makes a creditable acquisition if: •the entity acquires anything solely or partly for a creditable purpose
 •the supply of the thing to the entity is a taxable supply
 •the entity provides, or is liable to provide, consideration for the supply, and
-•the entity is registered, or required to be registered for GST.
-
-The entity provides consideration for the acquisitions which are solely for a creditable purpose. The supply of the goods and services to the entity is a taxable supply. In addition, the entity is registered for GST. Accordingly, all of the requirements of section 11-5 of the GST Act are met.
+•the entity is registered, or required to be registered for GST. The entity provides consideration for the acquisitions which are solely for a creditable purpose. The supply of the goods and services to the entity is a taxable supply. In addition, the entity is registered for GST. Accordingly, all of the requirements of section 11-5 of the GST Act are met.
 However, section 69-5 of the GST Act provides that an acquisition is not a creditable acquisition to the extent the acquisition is a non-deductible expense. An acquisition is a non-deductible expense if it is not deductible under Division 8 of the ITAA 1997 because of, amongst other things, Division 32 of the ITAA 1997 (paragraph 69-5(3)(f) of the GST Act).
 Division 32 of the ITAA 1997 prohibits, with certain exceptions, expenses an entity incurs in respect of providing entertainment from being deductible under Division 8 of the ITAA 1997. Therefore, an acquisition an entity makes in providing entertainment is not a creditable acquisition where the expenditure is not deductible because of Division 32 of the ITAA 1997.
 The entity makes acquisitions for the purpose of supplying goods and services to a customer who uses the goods and services to provide entertainment. That is, it is the customer who uses the goods to provide entertainment, not the entity. As the entity has not used the goods and services to provide entertainment, their deductible expenditure incurred to make the acquisitions is not affected by the operation of Division 32 of the ITAA 1997. Therefore, section 69-5 of the GST Act does not stop the entity's acquisitions from being creditable acquisitions.
 As all the elements of section 11-5 of the GST Act are met, and section 69-5 of the GST Act does not apply, the entity is entitled to an input tax credit under section 11-20 of the GST Act for acquisitions that it makes which it then supplies to a customer who uses the goods and services to provide entertainment.
-Date of decision:
-  22 October 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 11-5   section 11-20   section 69-5   paragraph 69-5(3)(f)
-Income Tax Assessment Act 1997   Division 8   Division 32
-
-Keywords
-
-Goods and services tax
- GST input tax credits & creditable acquisitions
- GST supplies & acquisitions
- Creditable acquisition
- Deductions & expenses
- Entertainment expenses
-
-Siebel/TDMS Reference Number:
-  3151121
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  25 June 2004
-
-ISSN:
- 1445-2782
+Date of decision: 22 October 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 11-5 section 11-20 section 69-5 paragraph 69-5(3)(f)
+Income Tax Assessment Act 1997 Division 8 Division 32 Keywords Goods and services tax GST input tax credits & creditable acquisitions GST supplies & acquisitions Creditable acquisition Deductions & expenses Entertainment expenses Siebel/TDMS Reference Number: 3151121 Business Line: Indirect Tax Date of publication: 25 June 2004 ISSN: 1445-2782

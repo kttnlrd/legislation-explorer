@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/297
-==================================================
-
-Income Tax
- Division 7A: multiple Subdivision EA loans and section 109Y
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Division 7A: multiple Subdivision EA loans and section 109Y FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where in an income year, a trustee makes loans to different shareholders (or associates) of a private company beneficiary with unpaid present entitlement, and section 109XB of Subdivision EA of Division 7A of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) operates on more than one loan, can there be a proportionate reduction of the section 109XB assessable amounts because of the operation of subsection 109XB(2) of the ITAA 1936?
 Decision
 Yes. Where in an income year, a trustee makes loans to different shareholders (or associates) of a private company beneficiary with unpaid present entitlement, and section 109XB of the ITAA 1936 operates on more than one loan, there may be a proportionate reduction in the respective section 109XB assessable amounts because of the operation of subsection 109XB(2).
@@ -25,80 +14,15 @@ Reasons for Decision
 Subdivision EA of Division 7A of Part III of the ITAA 1936 came into effect from 12 December 2002 and replaced section 109UB of the ITAA 1936.
 Broadly speaking, Subdivision EA of the ITAA 1936 deems certain payments, loans or forgiven debts by a trustee of a trust estate to a shareholder (or associate) of a private company to be included in the shareholder's (or associate's) assessable income as if they were a dividend where the private company is presently entitled to an amount from the net income of the trust estate and that amount has not been fully paid out by the 'lodgement day'.
 The 'lodgement day' is the earlier of the due date for lodgement and date of lodgement of the trust's tax return for the income year in which the payment, loan or debt forgiveness occurs.
-Subsection 109XA(2) of the ITAA 1936 is the relevant provision that applies to trustee loans. It causes section 109XB of the ITAA 1936 to apply where:
-
-a trustee makes a loan (the 'actual transaction') to a shareholder or an associate of a shareholder of a private company (except a shareholder or associate that is a company); and
-
-(i)the company is presently entitled to an amount from the net income of the trust estate at the time the loan takes place and that amount has not been paid to the company before the 'lodgement day'; or
-(ii)the company becomes presently entitled to an amount from the net income of the trust estate after the loan takes place but before the 'lodgement day' and the whole of the amount has not been paid to the company before the 'lodgement day'.
-
-The construction of subsection 109XA(2) of the ITAA 1936 means it is triggered in respect of each discrete loan. The provision is not concerned with whether other loans have been made by the trustee in the income year or whether those loans have been repaid or put on a commercial footing by the 'lodgement day'.
+Subsection 109XA(2) of the ITAA 1936 is the relevant provision that applies to trustee loans. It causes section 109XB of the ITAA 1936 to apply where: a trustee makes a loan (the 'actual transaction') to a shareholder or an associate of a shareholder of a private company (except a shareholder or associate that is a company); and (i)the company is presently entitled to an amount from the net income of the trust estate at the time the loan takes place and that amount has not been paid to the company before the 'lodgement day'; or
+(ii)the company becomes presently entitled to an amount from the net income of the trust estate after the loan takes place but before the 'lodgement day' and the whole of the amount has not been paid to the company before the 'lodgement day'. The construction of subsection 109XA(2) of the ITAA 1936 means it is triggered in respect of each discrete loan. The provision is not concerned with whether other loans have been made by the trustee in the income year or whether those loans have been repaid or put on a commercial footing by the 'lodgement day'.
 A loan is put on a commercial footing if it is put under a written agreement satisfying the minimum interest and maximum term criteria set out in section 109N of Subdivision D of Division 7A of Part III of the ITAA 1936.
-Section 109XB of the ITAA 1936 provides as follows:
-
-109XB Amounts included in assessable income
-
-(1) An amount is included as if it were a dividend, in the assessable income of the shareholder or associate referred to in subsection 109XA(1), (2) or (3) if:
-
-(a)had the actual transaction been done by a private company (the notional company); and
+Section 109XB of the ITAA 1936 provides as follows: 109XB Amounts included in assessable income (1) An amount is included as if it were a dividend, in the assessable income of the shareholder or associate referred to in subsection 109XA(1), (2) or (3) if: (a)had the actual transaction been done by a private company (the notional company); and
 (b)had the shareholder or associate been a shareholder of the notional company at the time the actual transaction took place;
 an amount (the Division 7A amount) would have been included in the shareholder's or associate's assessable income because of a provision in this Division outside this Subdivision.
-(2) Subject to section 109Y, the amount that is included under subsection (1) is the Division 7A amount.
-
-Section 109XB of the ITAA 1936 therefore also applies separately to each loan (being the 'actual transaction') and is not concerned with other loans that have been repaid or put on a commercial footing by the 'lodgement day'.
+(2) Subject to section 109Y, the amount that is included under subsection (1) is the Division 7A amount. Section 109XB of the ITAA 1936 therefore also applies separately to each loan (being the 'actual transaction') and is not concerned with other loans that have been repaid or put on a commercial footing by the 'lodgement day'.
 Section 109XC of the ITAA 1936 includes some general and specific modifications to the Division 7A rules that apply to private company loans.
 Subsection 109XC(7) of the ITAA 1936 modifies the application of section 109Y of the ITAA 1936 for the purposes of applying subsection 109XB(2) of the ITAA 1936. This in effect allows for the amount included in the shareholder's (or associate's) assessable income under section 109XB of the ITAA 1936 to be determined having regard to the distributable surplus rules contained in section 109Y. A private company's distributable surplus is calculated under subsection 109Y(2) of the ITAA 1936 and the formula for determining any reduction in the amount treated as a dividend is contained in subsection 109Y(3) of the ITAA 1936.
-Subsection 109Y(3) of the ITAA 1936 provides:
-
-The amount of a dividend that a private company is taken under this Division to pay is worked out using the formula:
-
-Provisional dividend x (distributable surplus for the year of income / Total of provisional dividends)
-
-where:
-
-provisional dividend is the amount of the dividend that the private company would be taken to pay apart from this section.
-
-Total of provisional dividends is the sum of all the dividends the private company is taken under this Division to pay at the end of the year of income apart from this section.
-
-Where trustee loans are made to different shareholders (or their associates) of the private company in the same income year and the aggregate of those loans exceeds the private company's distributable surplus, the 'Division 7A amount' for each shareholder (or their associate) is proportionately reduced so the total does not exceed the private company's distributable surplus. This is because of the combined operation of subsection 109XB(2) of the ITAA 1936, subsection 109XC(7) and subsection 109Y(3) of the ITAA 1936.
-In the circumstances here, the provisional dividend in respect of each loan is $100,000, the total of provisional dividends is $500,000 and the private company's distributable surplus for the income year is $100,000. Therefore, the amount required to be included in the assessable income of each shareholder under section 109XB of the ITAA 1936 is $20,000 calculated as follows:
-
-100,000 x (100,000 / 500,000) = $20,000.
-
-The assessable amount under section 109XB of the ITAA 1936 for each shareholder is therefore proportionately reduced so the total does not exceed the distributable surplus of the private company with the unpaid present entitlement.
-Date of decision:
-  7 October 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 7A   Subdivision D   Subdivision EA   section 109Y   subsection 109XA(2)   subsection 109XA(4)   section 109XB   subsection 109XB(1)   subsection 109XB(2)   section 109XC   subsection 109XC(7)   subsection 109Y(2)   subsection 109Y(3)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2005/298
- ATO ID 2005/299
-
-Keywords
-
-Borrowings & loans
- Deemed dividends
- Trusts
- Private companies
-
-Siebel/TDMS Reference Number:
-  4765443;1-5CU0PYA;1-D0QVEUA
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  28 October 2005
-
-Date reviewed:
-  7 November 2017
-
-ISSN:
- 1445-2782
+Subsection 109Y(3) of the ITAA 1936 provides: The amount of a dividend that a private company is taken under this Division to pay is worked out using the formula: Provisional dividend x (distributable surplus for the year of income / Total of provisional dividends) where: provisional dividend is the amount of the dividend that the private company would be taken to pay apart from this section. Total of provisional dividends is the sum of all the dividends the private company is taken under this Division to pay at the end of the year of income apart from this section. Where trustee loans are made to different shareholders (or their associates) of the private company in the same income year and the aggregate of those loans exceeds the private company's distributable surplus, the 'Division 7A amount' for each shareholder (or their associate) is proportionately reduced so the total does not exceed the private company's distributable surplus. This is because of the combined operation of subsection 109XB(2) of the ITAA 1936, subsection 109XC(7) and subsection 109Y(3) of the ITAA 1936.
+In the circumstances here, the provisional dividend in respect of each loan is $100,000, the total of provisional dividends is $500,000 and the private company's distributable surplus for the income year is $100,000. Therefore, the amount required to be included in the assessable income of each shareholder under section 109XB of the ITAA 1936 is $20,000 calculated as follows: 100,000 x (100,000 / 500,000) = $20,000. The assessable amount under section 109XB of the ITAA 1936 for each shareholder is therefore proportionately reduced so the total does not exceed the distributable surplus of the private company with the unpaid present entitlement.
+Date of decision: 7 October 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 Division 7A Subdivision D Subdivision EA section 109Y subsection 109XA(2) subsection 109XA(4) section 109XB subsection 109XB(1) subsection 109XB(2) section 109XC subsection 109XC(7) subsection 109Y(2) subsection 109Y(3) Related ATO Interpretative Decisions ATO ID 2005/298 ATO ID 2005/299 Keywords Borrowings & loans Deemed dividends Trusts Private companies Siebel/TDMS Reference Number: 4765443;1-5CU0PYA;1-D0QVEUA Business Line: Private Groups and High Wealth Individuals Date of publication: 28 October 2005 Date reviewed: 7 November 2017 ISSN: 1445-2782

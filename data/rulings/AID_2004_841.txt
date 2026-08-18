@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/841
-==================================================
-
-Goods and Services Tax
- GST and transfer of patients between hospitals by an ambulance service
- FOI status: may be released
-
-This ATO ID is withdrawn. The issue is covered in GSTR 2005/D8 making supplies and analysing multi-party arrangements.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and transfer of patients between hospitals by an ambulance service FOI status: may be released This ATO ID is withdrawn. The issue is covered in GSTR 2005/D8 making supplies and analysing multi-party arrangements. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an ambulance service, making a GST-free supply under subsection 38-10(5) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when, under an agreement with hospital A, it transfers a patient between hospital A and hospital B?
 Decision
 No, the entity is not making a GST-free supply under subsection 38-10(5) of the GST Act when, under an agreement with hospital A, it transfers a patient between hospitals.
@@ -26,66 +11,18 @@ The entity is an ambulance service. The entity enters into an agreement with a h
 Pursuant to the agreement, the entity transfers a patient from hospital A to another hospital, hospital B. The transfer of the patient is in the course of the treatment of the patient and hospital A pays the entity for its services.
 The entity is registered for goods and services tax (GST) and the supply satisfies the other positive limbs of section 9-5 of the GST Act.
 Reasons for Decision
-Subsection 38-10(5) of the GST Act provides that a supply is GST-free if it is provided by an ambulance service in the course of the treatment of the recipient of the supply. Accordingly, for a supply to be GST-free under this subsection, it must be:
-
-(a)provided by an ambulance service, and
-(b)provided in the course of the treatment of the recipient of the supply.
-
-The entity is an ambulance service and as such, the first requirement is satisfied.
+Subsection 38-10(5) of the GST Act provides that a supply is GST-free if it is provided by an ambulance service in the course of the treatment of the recipient of the supply. Accordingly, for a supply to be GST-free under this subsection, it must be: (a)provided by an ambulance service, and
+(b)provided in the course of the treatment of the recipient of the supply. The entity is an ambulance service and as such, the first requirement is satisfied.
 The entity transfers the patient from hospital A to hospital B in the course of the treatment of the patient. As the entity transfers the patient pursuant to an agreement that it has with hospital A, it is necessary to determine whether it is the patient or hospital A that is the recipient of the entity's supply of the ambulance services.
 Section 195-1 of the GST Act defines 'recipient' in relation to a supply to mean 'the entity to which the supply was made'. Where there are only two parties to the supply of services (the entity that supplies the health service and the patient), generally there is a single supply to which the GST Act applies and the recipient of that supply is the patient.
 However, where there is a third party involved in a transaction there may be one or more supplies to which the GST Act applies and it is necessary to determine what is being supplied and to whom. For example, tripartite arrangements may result in a supply of professional services to a third party payer by an entity that supplies health services, with a further supply of treatment services to a patient.
-A third party will be the recipient of a supply where:
-
-•that third party engages the entity to provide something to them or to someone else
+A third party will be the recipient of a supply where: •that third party engages the entity to provide something to them or to someone else
 •that third party, by agreement with the entity, determines what is required to be provided to them or to someone else, and
-•there is a binding obligation between that third party and the entity for the thing to be provided and the third party is liable to provide payment.
-
-Where all the above elements are satisfied there will be a supply made to the third party payer. There is also a further supply that is made where a patient receives treatment services.
+•there is a binding obligation between that third party and the entity for the thing to be provided and the third party is liable to provide payment. Where all the above elements are satisfied there will be a supply made to the third party payer. There is also a further supply that is made where a patient receives treatment services.
 Generally, where there is a supply made to a third party payer, the arrangements will result in a further supply where a patient receives treatment services. This subsequent supply is considered separately to any supply between the entity that supplies the health service and the third party payer.
 The entity transfers the patient to hospital B pursuant to an agreement that the entity has entered into with hospital A. The agreement creates a binding obligation for the supply of services and payment for those services by hospital A. As such, all the three elements above are satisfied and the recipient of the entity's supply of ambulance service is hospital A and not the patient.
 The ambulance services are supplied in the course of treating the patient. However, hospital A is the recipient of the supply. This means that the requirement that the service is provided in the course of treating the recipient of the supply is not satisfied. As the second requirement in subsection 38-10(5) of the GST Act is not satisfied, the entity is not making a GST-free supply under subsection 38-10(5) of the GST Act.
-The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free nor input taxed under any other provisions of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it transfers the patient between the two hospitals.
-
-Note 1. As the entity is registered for GST, it is liable to remit 1/11th of the payment made by hospital A. Where hospital A is registered for GST, it is entitled to claim an input tax credit equal to the GST payable on the supply.
-
-Note 2. In circumstances where the arrangement between the ambulance service and hospital A is such that the hospital does not engage the ambulance service to transfer the patient to hospital B but merely makes payment on behalf of the patient, the patient is the recipient of the supply. This supply will be GST-free where all the requirements of subsection 38-10(5) of the GST Act are satisfied.
-
-Date of decision:
-  22 September 2004
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 38-10(5)   section 195-1
-
-Keywords
-
-Goods and services tax
- GST health
- Section 38-10 - other health services
- Taxable supply
-
-Business Line:
-  GST
-
-Date of publication:
-  25 October 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-22 September 2004
-Original statement
-
-You are here
+The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free nor input taxed under any other provisions of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it transfers the patient between the two hospitals. Note 1. As the entity is registered for GST, it is liable to remit 1/11th of the payment made by hospital A. Where hospital A is registered for GST, it is entitled to claim an input tax credit equal to the GST payable on the supply. Note 2. In circumstances where the arrangement between the ambulance service and hospital A is such that the hospital does not engage the ambulance service to transfer the patient to hospital B but merely makes payment on behalf of the patient, the patient is the recipient of the supply. This supply will be GST-free where all the requirements of subsection 38-10(5) of the GST Act are satisfied. Date of decision: 22 September 2004 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 38-10(5) section 195-1 Keywords Goods and services tax GST health Section 38-10 - other health services Taxable supply Business Line: GST Date of publication: 25 October 2004 ISSN: 1445-2782 history Date: Version: 22 September 2004
+Original statement You are here
 13 January 2006
 Archived

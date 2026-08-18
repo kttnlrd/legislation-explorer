@@ -1,110 +1,32 @@
 ATO Interpretative Decision
 ATO ID 2009/80
-==================================================
-
-Income Tax
- Immediate annuity as defined in subsection 995-1(1) of the Income Tax Assessment Act 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Immediate annuity as defined in subsection 995-1(1) of the Income Tax Assessment Act 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a life insurance policy provide for an immediate annuity as defined in subsection 995-1(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where the policy provides for a series of monthly payments that are dependant on the returns of an underlying investment and the policy does not satisfy paragraphs (a) or (b) of the definition of annuity in subsection 995-1(1)?
 Decision
 No. A life insurance policy does not provide for an immediate annuity as defined in subsection 995-1(1) of the ITAA 1997 where the policy provides for a series of monthly payments that are dependant on the returns of an underlying investment and the policy does not satisfy paragraphs (a) or (b) of the definition of annuity in subsection 995-1(1).
 Facts
-A life insurance company offered a life insurance policy with the following features:
-
-•the policyholder pays a premium to the life insurance company in return for a series of monthly payments made by the life insurance company;
+A life insurance company offered a life insurance policy with the following features: •the policyholder pays a premium to the life insurance company in return for a series of monthly payments made by the life insurance company;
 •the premium is invested into an investment pool by the life insurance company and converted into notional units which are allocated to the policyholder;
 •the number of notional units allocated to the policyholder is determined by dividing the premium paid by the unit price set by the life insurance company at the time the premium is paid;
 •the amount of the monthly payment is determined by multiplying the number of units redeemed for that month by the unit price at the time the payment is made. The value of each notional unit is dependant on the underlying value of the assets backing the units;
 •the number of units redeemed for the month is determined annually by dividing the number of units held by the policyholder at the start of the year by a number determined on an actuarial basis based on the life expectancy of the policyholder;
 •the number of units that are redeemed in a year reduces the number of units notionally allocated to the policyholder for future years;
 •an actuarial rebalancing is provided whereby the unit price is adjusted to take into account whether or not the policyholder is exceeding their life expectations, and
-•the monthly payments will cease after death of the policyholder and the policy does not provide for a residual payment on death of the policyholder.
-
-Additionally, the policy does not provide for an annuity within the meaning of the Superannuation Industry (Supervision) Act 1993 or a pension within the meaning of the Retirement Savings Account Act 1997.
+•the monthly payments will cease after death of the policyholder and the policy does not provide for a residual payment on death of the policyholder. Additionally, the policy does not provide for an annuity within the meaning of the Superannuation Industry (Supervision) Act 1993 or a pension within the meaning of the Retirement Savings Account Act 1997.
 Reasons for Decision
 An 'immediate annuity' is defined in subsection 995-1(1) of the ITAA 1997 as an annuity that is presently payable.
-An 'annuity' is defined in subsection 995-1(1) of the ITAA 1997 as follows:
-
-annuity
- includes:
-
-(a)an annuity, within the meaning of the Superannuation Industry (Supervision) Act 1993; or
-(b)a pension, within the meaning of the Retirement Savings Accounts Act 1997.
-
-The use of the word 'includes' in the definition of annuity indicates that for the purpose of the ITAA 1997 the defined term 'annuity' includes a common law annuity.
+An 'annuity' is defined in subsection 995-1(1) of the ITAA 1997 as follows: annuity includes: (a)an annuity, within the meaning of the Superannuation Industry (Supervision) Act 1993; or
+(b)a pension, within the meaning of the Retirement Savings Accounts Act 1997. The use of the word 'includes' in the definition of annuity indicates that for the purpose of the ITAA 1997 the defined term 'annuity' includes a common law annuity.
 The policy does not satisfy either paragraph (a) or (b) of the definition of annuity in subsection 995-1(1) of the ITAA 1997. Accordingly, the policy will only satisfy the definition of an annuity in subsection 995-1(1) if it is a common law annuity.
 Whether a series of regular payments is an annuity at common law has been considered by the courts in numerous cases.
 One characteristic that the courts have found to be essential in determining whether an annuity exists is the requirement that the annuitant has converted their capital into an income stream (Sothern-Smith v. Clancy (Inspector of Taxes) [1941] 1 KB 276; Egerton-Warburton v. Deputy Commissioner of Taxation (1934) 51 CLR 568; (1934) 10 ATD 274).
-This principle is expressed at paragraph 9 of Taxation Ruling IT 2480 in the following terms:
-
-"An essential characteristic of a purchased annuity is, therefore, that the capital amount paid has been transformed into income."
-
-The nature of the 'income' that is referred to here is a series of certain income payments that are made at regular periods for life or over a term of years: Deputy Federal Commissioner of Land Tax, Sydney v. Hindmarsh (1912) 14 CLR 334.
-This requirement for certainty is expressed in paragraph 10 of IT 2480 in the following terms:
-
-"Another quality or characteristic of an annuity is that it is of a sum certain."
-
-Taxation Ruling IT 2480 at paragraph 18 also discusses the need for certainty with respect to the payments to be received and states that:
-
-"The fundamental feature of an annuity is the certainty of the payments to be received under the contract. The contract must state what the annuitant's annual entitlement is and the period for which it is payable and, if that stated entitlement can be varied, the contract must state the basis on which variation can be made. A contract without this underlying feature cannot be accepted as an annuity."
-
-Paragraph 20 of IT 2480 provides that the requirement of a sum certain is not satisfied where the contract provides for the payment of amounts based on the actual earnings performance of the issuer or the value of the units cashed in because the sum provided is not certain in this case.
+This principle is expressed at paragraph 9 of Taxation Ruling IT 2480 in the following terms: "An essential characteristic of a purchased annuity is, therefore, that the capital amount paid has been transformed into income." The nature of the 'income' that is referred to here is a series of certain income payments that are made at regular periods for life or over a term of years: Deputy Federal Commissioner of Land Tax, Sydney v. Hindmarsh (1912) 14 CLR 334.
+This requirement for certainty is expressed in paragraph 10 of IT 2480 in the following terms: "Another quality or characteristic of an annuity is that it is of a sum certain." Taxation Ruling IT 2480 at paragraph 18 also discusses the need for certainty with respect to the payments to be received and states that: "The fundamental feature of an annuity is the certainty of the payments to be received under the contract. The contract must state what the annuitant's annual entitlement is and the period for which it is payable and, if that stated entitlement can be varied, the contract must state the basis on which variation can be made. A contract without this underlying feature cannot be accepted as an annuity." Paragraph 20 of IT 2480 provides that the requirement of a sum certain is not satisfied where the contract provides for the payment of amounts based on the actual earnings performance of the issuer or the value of the units cashed in because the sum provided is not certain in this case.
 Subsequent to the issue of IT 2480 the question of whether a common law annuity exists has been considered in Australia and New Zealand Savings Bank Limited v. Federal Commissioner of Taxation (1993) 42 FCR 535; 93 ATC 4370; (1993) 25 ATR 369, Clarke v. FC of T 92 ATC 4136; (1992) 23 ATR 102 and FC of T v. Clarke 92 ATC 4561; (1992) 24 ATR 230. These decisions did not alter the common law requirement that a fundamental feature of an annuity is the certainty of the payments to be received under the contract.
 The policyholder's entitlement to monthly payments is based on the value of their unit entitlement which is in turn dependant on the underlying value of the assets backing the units.
 Although the policy provides for a certain unit entitlement at each payment time, there is no guaranteed sum and no certainty as to the amount of each payment that will be made to the policyholder.
 Accordingly, the policy does not provide for an annuity at common law and therefore does not provide for an annuity or immediate annuity as defined in subsection 995-1(1) of the ITAA 1997.
-Date of decision:
-  23 July 2009
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 995-1(1)
-Superannuation Industry (Supervision) Act 1993   The Act
-Retirement Savings Account Act 1997   The Act
-
-Case References:
-
-Sothern-Smith v Clancy (Inspector of Taxes)   [1941] 1 KB 276
-
-Egerton-Warburton v Deputy Commissioner of Taxation   (1934) 51 CLR 568   (1934) 10 ATD 274
-
-Deputy Federal Commissioner of Land Tax, Sydney v Hindmarsh   (1912) 14 CLR 334
-
-Australia and New Zealand Savings Bank Limited v Federal Commissioner of Taxation   (1993) 42 FCR 535   93 ATC 4370   (1993) 25 ATR 369
-
-Clarke v FC of T   92 ATC 4136   (1992) 23 ATR 102
-
-FC of T v Clarke   92 ATC 4561   (1992) 24 ATR 230
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2480
-
-Keywords
-
-Annuity income
- Income
- Life insurance policies
-
-Siebel/TDMS Reference Number:
-  5689770
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 July 2009
-
-ISSN:
- 1445-2782
+Date of decision: 23 July 2009 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 subsection 995-1(1)
+Superannuation Industry (Supervision) Act 1993 The Act
+Retirement Savings Account Act 1997 The Act Case References: Sothern-Smith v Clancy (Inspector of Taxes) [1941] 1 KB 276 Egerton-Warburton v Deputy Commissioner of Taxation (1934) 51 CLR 568 (1934) 10 ATD 274 Deputy Federal Commissioner of Land Tax, Sydney v Hindmarsh (1912) 14 CLR 334 Australia and New Zealand Savings Bank Limited v Federal Commissioner of Taxation (1993) 42 FCR 535 93 ATC 4370 (1993) 25 ATR 369 Clarke v FC of T 92 ATC 4136 (1992) 23 ATR 102 FC of T v Clarke 92 ATC 4561 (1992) 24 ATR 230 Related Public Rulings (including Determinations) Taxation Ruling IT 2480 Keywords Annuity income Income Life insurance policies Siebel/TDMS Reference Number: 5689770 Business Line: Public Groups and International Date of publication: 31 July 2009 ISSN: 1445-2782

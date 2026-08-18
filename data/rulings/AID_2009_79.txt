@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/79
-==================================================
-
-Income Tax
- Dividends: non-share dividends and interest - foreign superannuation fund - withholding tax
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Dividends: non-share dividends and interest - foreign superannuation fund - withholding tax FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are dividends, non-share dividends and interest received in the 2006-07 income year by the taxpayer, the trustee of a foreign superannuation fund, income to which paragraph 128B(3)(jb) of the Income Tax Assessment Act 1936 (ITAA 1936) applies?
 Decision
 Yes. The dividend, non-share dividend and interest income received by the taxpayer in its capacity as the trustee of a foreign superannuation fund is income to which paragraph 128B(3)(jb) of the ITAA 1936 applies.
@@ -23,39 +12,23 @@ The fund was established in the taxpayer's country of residence and is a foreign
 In its capacity as trustee of the fund, the taxpayer received income in the 2006-07 income year that consisted of dividends and non-share dividends paid by Australian resident companies and interest.
 Within the last three years, the taxing authority in the country of residence of the taxpayer has certified that the fund is exempt from income tax in that country.
 Reasons for Decision
-Paragraph 128B(3)(jb) of the ITAA 1936 as enacted prior to its amendment as part of the Superannuation Legislation Amendment (Simplification) Act 2007, excluded certain income from being subject to withholding tax where that income:
-
-(i)is derived by a non-resident that is a foreign superannuation fund; and
+Paragraph 128B(3)(jb) of the ITAA 1936 as enacted prior to its amendment as part of the Superannuation Legislation Amendment (Simplification) Act 2007, excluded certain income from being subject to withholding tax where that income: (i)is derived by a non-resident that is a foreign superannuation fund; and
 (ii)consists of interest, or consists or dividends or non-share dividends paid by a company that is a resident; and
-(iii)is exempt from income tax in the country in which the non-resident resides.
-
-Non-resident
+(iii)is exempt from income tax in the country in which the non-resident resides. Non-resident
 In relation to the term 'non-resident' in subparagraph 128B(3)(jb)(i) of the ITAA 1936, the definition of the term in subsection 6(1) of the ITAA 1936 states that, unless contrary intention appears, a non-resident is a 'person who is not a resident of Australia'. The definition of 'person' in subsection 6(1) provides that the term 'person' includes a company.
 Subsection 128A(10) of the ITAA 1936 as enacted prior to its amendment as part of the Superannuation Legislation Amendment (Simplification) Act 2007, provided that, for the purposes of Division 11A of the ITAA 1936, the trustee of a provident, benefit, superannuation or retirement fund is a non-resident at a particular time if, and only if, the fund is a non-resident superannuation fund at that time.
 Applying the definition of 'non-resident' as stated in subsection 6(1) of the ITAA 1936 to the phrase 'a non-resident that is a foreign superannuation fund' in subparagraph 128B(3)(jb)(i) of the ITAA 1936 means that the subparagraph can not be satisfied where the foreign superannuation fund is a trust. This is because the trust is not a 'person' as defined. In such circumstances, subparagraph 128B(3)(jb) of the ITAA 1936 will not operate to exclude the relevant types of income of such a fund from being subject to withholding tax.
 This result is inconsistent with paragraph 128B(3)(jb) of the ITAA 1936 in a withholding tax context achieving a similar purpose to that of former paragraph 23(jb) of the ITAA 1936. Before being rewritten into paragraph 128B(3)(jb), former paragraph 23(jb) exempted interest and dividends of foreign superannuation funds. (See paragraph 2.110 of the Explanatory Memorandum to the Tax Laws Amendment (Repeal of Inoperative Provisions) Bill 2006).
 Furthermore, the phrase 'a non-resident that is a foreign superannuation fund' is inconsistent with subsection 128A(10) of the ITAA 1936 for present purposes treating the trustee of a superannuation fund as a non-resident.
 Foreign superannuation fund
-Subsection 118-520(1) of the ITAA 1997 as enacted prior to its amendment as part of the Tax Laws Amendment (Simplified Superannuation) Act provided that a fund is a foreign superannuation fund at a time if:
-
-(a)at that time, it is:
-
-(i)an indefinitely continuing fund; and
-(ii)a provident, benefit, superannuation or retirement fund; and
-
-(b)it was established in a foreign country; and
+Subsection 118-520(1) of the ITAA 1997 as enacted prior to its amendment as part of the Tax Laws Amendment (Simplified Superannuation) Act provided that a fund is a foreign superannuation fund at a time if: (a)at that time, it is: (i)an indefinitely continuing fund; and
+(ii)a provident, benefit, superannuation or retirement fund; and (b)it was established in a foreign country; and
 (c)it was established, and is maintained at that time, only to provide benefits for individuals who are not Australian residents or residents of a Territory; and
-(d)at that time, its central management and control is carried on outside Australia by entities none of whom is an Australian resident or a resident of a Territory
-
-unless any of the exceptions in subsection 118-520(2) of the ITAA 1997 apply. See also note below.
+(d)at that time, its central management and control is carried on outside Australia by entities none of whom is an Australian resident or a resident of a Territory unless any of the exceptions in subsection 118-520(2) of the ITAA 1997 apply. See also note below.
 Given that, as stated above, the fund is a foreign superannuation fund, none of the exceptions in subsection 118-520(2) of the ITAA 1997 apply.
 Non-resident superannuation fund
-Former subsection 6E(2) of the ITAA 1936 as enacted prior to its repeal applicable to the 2007-08 and subsequent income years as part of the Superannuation Legislation Amendment (Simplification) Act 2007, provided that, for the purposes of the ITAA 1936, a fund is a non-resident superannuation fund at a particular time if, and only if, the fund:
-
-(a)is a provident, benefit, superannuation or retirement fund at that time; and
-(b)is not a resident superannuation fund at that time.
-
-Former subsection 6E(1) of the ITAA 1936 as enacted prior to its repeal applicable to the 2007-08 and subsequent income years as part of the Superannuation Legislation Amendment (Simplification) Act 2007 provided that, for the purposes of the ITAA 1936, a fund is a resident superannuation fund at a particular time only if all the conditions in the section are satisfied. One of the conditions in former subsection 6E(1) of the ITAA 1936 requires that the fund was established in Australia.
+Former subsection 6E(2) of the ITAA 1936 as enacted prior to its repeal applicable to the 2007-08 and subsequent income years as part of the Superannuation Legislation Amendment (Simplification) Act 2007, provided that, for the purposes of the ITAA 1936, a fund is a non-resident superannuation fund at a particular time if, and only if, the fund: (a)is a provident, benefit, superannuation or retirement fund at that time; and
+(b)is not a resident superannuation fund at that time. Former subsection 6E(1) of the ITAA 1936 as enacted prior to its repeal applicable to the 2007-08 and subsequent income years as part of the Superannuation Legislation Amendment (Simplification) Act 2007 provided that, for the purposes of the ITAA 1936, a fund is a resident superannuation fund at a particular time only if all the conditions in the section are satisfied. One of the conditions in former subsection 6E(1) of the ITAA 1936 requires that the fund was established in Australia.
 The fund was established in a foreign country and is a foreign superannuation fund for the purposes of section 118-520 of the ITAA 1997 as enacted prior to its amendment as part of the Tax Laws Amendment (Simplified Superannuation) Act. Therefore, as former paragraphs 6E(2)(a) and 6E(2)(b) of the ITAA 1936 are satisfied in the present case, the fund is a non-resident superannuation fund as defined, not a 'resident superannuation fund'.
 In light of the above, subsection 128A(10) of the ITAA 1936 applies to the taxpayer because the fund is a 'foreign superannuation fund' and is also a 'non-resident superannuation fund'.
 The application of paragraph 128B(3)(jb) of the ITAA 1936
@@ -64,52 +37,9 @@ Accordingly, the Commissioner accepts that the taxpayer is 'a non-resident that 
 As the dividend, non-share dividend and interest income was received by the taxpayer in its capacity as the trustee of the fund, the Commissioner accepts that, for the purposes of subparagraph 128B(3)(jb)(i) of the ITAA 1936 and for the reasons stated above, the income of the fund is derived by a non-resident that is a foreign superannuation fund.
 As the income derived is dividends and non-share dividends paid by companies that are Australian residents and interest, it is income of the type specified in subparagraph 128B(3)(jb)(ii) of the ITAA 1936.
 Given that the taxing authority in the country of residence of the taxpayer has provided relevant certification of the fund being exempt in its country of residence, the Commissioner accepts that, for the purposes of subparagraph 128B(3)(jb)(iii) of the ITAA 1936, the income of the fund that satisfies subparagraphs 128B(3)(jb)(i) and 128B(3)(jb)(ii) of the ITAA 1936 is exempt from income tax in the country in which the taxpayer resides.
-Therefore, for the reasons stated above, the dividend and interest income of the fund is income to which paragraph 128B(3)(jb) of the ITAA 1936 applies.
-
-Notes: The phrases 'residents of a Territory' and 'a resident of a Territory' contained in paragraphs (c) and (d) respectively of subsection 118-520(1) of the ITAA 1997 were omitted as part of the Tax Laws Amendment (2006 Measures No. 6) Act 2007, effective 19 February 2007.
-By operation of paragraph 128B(3)(jb) of the ITAA 1936, this income is excluded from being income that is subject to withholding tax under section 128B of the ITAA 1936.
-
-Date of decision:
-  13 July 2009
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 6E (repealed as of 15 March 2007)   subsection 6E(1) (repealed as of 15 March 2007)   subsection 6E(2) (repealed as of 15 March 2007)   paragraph 23(jb) (repealed as of 14 September 2006)   subsection 128A(10) (amended as of 15 March 2007)   section 128B   paragraph 128B(3)(jb) (amended as at 14 September 2006 to 30 June 2007)   subparagraph 128B(3)(jb)(i) (amended as at 14 September 2006 to 30 June 2007)   subparagraph 128B(3)(jb)(ii)   subparagraph 128B(3)(jb)(iii)
-Income Tax Assessment Act 1997   section 118-520 (amended as at 19 February 2007 to 30 June 2007)   subsection 118-520(1) (amended as at 19 February 2007 to 30 June 2007)   subsection 118-520(2)   subsection 995-1(1)
-Superannuation Legislation Amendment (Simplification) Act 2007   The Act
-Tax Laws Amendment (2006 Measures No. 6) Act 2007   The Act
-Tax Laws Amendment (Simplified Superannuation) Act 2007   The Act
-
-Related ATO Interpretative Decisions
-
- ATO ID 2001/320
- ATO ID 2001/334
-
-Other References:
-
- Explanatory Memorandum to Tax Laws Amendment (Repeal of Inoperative Provisions) Bill 2006
-
-Keywords
-
-Dividend income
- Interest income
- Non resident dividend withholding tax
- Non resident interest withholding tax
- Non resident superannuation funds
- Superannuation funds
- Withholding tax exemptions
-
-Siebel/TDMS Reference Number:
-  6159121
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 July 2009
-
-ISSN:
- 1445-2782
+Therefore, for the reasons stated above, the dividend and interest income of the fund is income to which paragraph 128B(3)(jb) of the ITAA 1936 applies. Notes: The phrases 'residents of a Territory' and 'a resident of a Territory' contained in paragraphs (c) and (d) respectively of subsection 118-520(1) of the ITAA 1997 were omitted as part of the Tax Laws Amendment (2006 Measures No. 6) Act 2007, effective 19 February 2007.
+By operation of paragraph 128B(3)(jb) of the ITAA 1936, this income is excluded from being income that is subject to withholding tax under section 128B of the ITAA 1936. Date of decision: 13 July 2009 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 6E (repealed as of 15 March 2007) subsection 6E(1) (repealed as of 15 March 2007) subsection 6E(2) (repealed as of 15 March 2007) paragraph 23(jb) (repealed as of 14 September 2006) subsection 128A(10) (amended as of 15 March 2007) section 128B paragraph 128B(3)(jb) (amended as at 14 September 2006 to 30 June 2007) subparagraph 128B(3)(jb)(i) (amended as at 14 September 2006 to 30 June 2007) subparagraph 128B(3)(jb)(ii) subparagraph 128B(3)(jb)(iii)
+Income Tax Assessment Act 1997 section 118-520 (amended as at 19 February 2007 to 30 June 2007) subsection 118-520(1) (amended as at 19 February 2007 to 30 June 2007) subsection 118-520(2) subsection 995-1(1)
+Superannuation Legislation Amendment (Simplification) Act 2007 The Act
+Tax Laws Amendment (2006 Measures No. 6) Act 2007 The Act
+Tax Laws Amendment (Simplified Superannuation) Act 2007 The Act Related ATO Interpretative Decisions ATO ID 2001/320 ATO ID 2001/334 Other References: Explanatory Memorandum to Tax Laws Amendment (Repeal of Inoperative Provisions) Bill 2006 Keywords Dividend income Interest income Non resident dividend withholding tax Non resident interest withholding tax Non resident superannuation funds Superannuation funds Withholding tax exemptions Siebel/TDMS Reference Number: 6159121 Business Line: Public Groups and International Date of publication: 31 July 2009 ISSN: 1445-2782

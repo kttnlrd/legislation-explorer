@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/235
-==================================================
-
-Income Tax
- Capital gains tax: capital contribution to insolvent company - cost base - market value substitution rule
- FOI status: may be released
-
-ATO ID 2003/235 is withdrawn as it is a straightforward application of the law.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: capital contribution to insolvent company - cost base - market value substitution rule FOI status: may be released ATO ID 2003/235 is withdrawn as it is a straightforward application of the law. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If the money paid and market value of any property given by a person for the issue of shares in a company exceeds their market value, does the market value substitution rule in section 112-20 of the Income Tax Assessment Act 1997 (ITAA 1997) apply in working out the first element of the cost base and reduced cost base of the shares?
 Decision
 Yes. The market value substitution rule in section 112-20 of the ITAA 1997 applies if the person and the issuing company do not deal at arm's length in relation to the acquisition of the shares and what is paid for them exceeds their market value.
@@ -28,61 +13,11 @@ Reasons for Decision
 Under the general cost base and reduced cost base rules, the first element of the cost base and reduced cost base of an asset is the sum of the amount paid (or required to be paid) and the market value of property given (or required to be given) in respect of acquiring it (subsections 110-25(2) and 110-55(2) of the ITAA 1997.) The general rules may be modified if the market value substitution rule in section 112-20 of the ITAA 1997 applies.
 The market value substitution rule generally applies where parties do not deal at arm's length in connection with the acquisition of an asset (paragraph 112-20(1)(c) of the ITAA 1997). However in a non-arm's length dealing involving the acquisition of an asset from an entity as a result of something done by that entity that did not constitute a CGT event happening to it, the market value is substituted only if the amount paid for the asset is more than its market value (subsection 112-20(2) of the ITAA 1997).
 A shareholder who is issued with a share acquires that share without a CGT event happening to the company.
-Whether parties have dealt at arm's length, and what the market value of a share is, are questions of fact that must be determined in any particular case.
-
-The following sentence was removed from the above paragraph on 6 June 2003
-
-The question of whether parties that are not at arm's length, have dealt at arm's length, is to be determined by considering whether the outcome of their dealing is a matter of real bargaining (Trustee for the Estate of AW Furse No 5 Will Trust v. FC of T 91 ATC 4007; (1990) 21 ATR 1123; Granby Pty Ltd v. F C of T 95 ATC 4240; (1995) 30 ATR 400; Collis v. FC of T 96 ATC 4831; (1996) 33 ATR 438).
-
-The market value of shares may reflect assets that are not brought to account for accounting purposes (for example, internally generated goodwill), so the fact that there is a net asset deficiency on the balance sheet may not be determinative. Also, the market value of shares in a company may be affected by other factors apart from a current net asset position.
-The market value substitution rule in section 112-20 of the ITAA 1997 will apply in respect of the first element of cost base and reduced cost base of the shares in this case because:
-
-•no CGT event happened to the company when the shareholder acquired the shares
+Whether parties have dealt at arm's length, and what the market value of a share is, are questions of fact that must be determined in any particular case. The following sentence was removed from the above paragraph on 6 June 2003 The question of whether parties that are not at arm's length, have dealt at arm's length, is to be determined by considering whether the outcome of their dealing is a matter of real bargaining (Trustee for the Estate of AW Furse No 5 Will Trust v. FC of T 91 ATC 4007; (1990) 21 ATR 1123; Granby Pty Ltd v. F C of T 95 ATC 4240; (1995) 30 ATR 400; Collis v. FC of T 96 ATC 4831; (1996) 33 ATR 438). The market value of shares may reflect assets that are not brought to account for accounting purposes (for example, internally generated goodwill), so the fact that there is a net asset deficiency on the balance sheet may not be determinative. Also, the market value of shares in a company may be affected by other factors apart from a current net asset position.
+The market value substitution rule in section 112-20 of the ITAA 1997 will apply in respect of the first element of cost base and reduced cost base of the shares in this case because: •no CGT event happened to the company when the shareholder acquired the shares
 •the shareholder and the issuing company did not deal at arm's length with each other in connection with the share issue; and
-•the amount paid ($1 million) was more than the market value of the shares ($200,000).
-
-Note.
+•the amount paid ($1 million) was more than the market value of the shares ($200,000). Note.
 This approach will also apply where a person lends money to a company, and the amount of the loan exceeds the market value of the asset that the lender acquires under the transaction - that is, the right to receive payments under the loan - when it comes into existence.
-Date of decision:
-  2 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 109-10   subsection 110-25(2)   subsection 110-55(2)   paragraph 112-20(1)(c)   subsection 112-20(2)
-
-Keywords
-
-Borrowings & loans
- Capital gains tax
- CGT cost base
- CGT cost base modification market value substitution rule
- CGT reduced cost base
- Shares
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  11 April 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 2 April 2003
-Original statement
-
-You are here
- 2 May 2014
+Date of decision: 2 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 109-10 subsection 110-25(2) subsection 110-55(2) paragraph 112-20(1)(c) subsection 112-20(2) Keywords Borrowings & loans Capital gains tax CGT cost base CGT cost base modification market value substitution rule CGT reduced cost base Shares Business Line: Private Groups and High Wealth Individuals Date of publication: 11 April 2003 ISSN: 1445-2782 history Date: Version: 2 April 2003
+Original statement You are here 2 May 2014
 Archived

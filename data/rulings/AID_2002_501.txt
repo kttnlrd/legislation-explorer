@@ -1,25 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2002/501
-==================================================
-
-Income Tax
- Income Tax: status of an allocated pension paid by an Australian superannuation fund to a resident of a country with which Australia has a Double Tax Agreement
- FOI status: may be released
-
-This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO Interpretative Decision continues to be precedential view in respect of decision for income years up to, and including, the 2006-07 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is an allocated pension paid by an Australian superannuation fund to a resident of a country with which Australia has a Double Tax Agreement (DTA) a 'pension' for the purposes of the
- Pensions and Annuities Article
- in Australia's DTAs (as incorporated into Australian law by the International Tax Agreements Act 1953)?
+================================================== Income Tax Income Tax: status of an allocated pension paid by an Australian superannuation fund to a resident of a country with which Australia has a Double Tax Agreement FOI status: may be released This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO Interpretative Decision continues to be precedential view in respect of decision for income years up to, and including, the 2006-07 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is an allocated pension paid by an Australian superannuation fund to a resident of a country with which Australia has a Double Tax Agreement (DTA) a 'pension' for the purposes of the Pensions and Annuities Article in Australia's DTAs (as incorporated into Australian law by the International Tax Agreements Act 1953)?
 Decision
 Yes.
 Facts
@@ -29,76 +12,15 @@ In dealing with an allocated pension paid by an Australian superannuation fund t
 For the Pensions and Annuities Article in Australia's DTAs to apply to an allocated pension, it is necessary for the allocated pension to fall within the treaty meaning of 'pension'. As 'pension' is an undefined term in our DTAs, generally the General Definitions Article will allow us to refer to the domestic law meaning of a term, but only if the context so permits.
 The principal definition of 'pension' in Australian tax law is section 27A of ITAA 1936, which states that a ' "pension" means (a) a pension, within the meaning of the Superannuation Industry (Supervision) Act 1993 (the SIS Act); or (b) a pension, within the meaning of the Retirement Savings Accounts Act 1997 (the RSA Act)'. Section 27H includes pensions (so defined) in a taxpayer's assessable income.
 Section 10 of the SIS Act states that a '"pension" (except in the expression "old-age pension") includes a benefit provided by a fund, if the benefit is taken, under the regulations, to be a pension for the purposes of this Act.' Subregulation 1.06(4) establishes the standards which an allocated pension must meet if it is to be taken to be a pension for the purposes of the SIS Act. Therefore, an allocated pension which meets the standards of subregulation 1.06(4) will be a pension within the meaning of section 27A of the ITAA 1936 and will be included in a taxpayer's assessable income. (Section 16 of the RSA Act defines pensions in similar terms to section 10 of the SIS Act. Also, 'allocated pension' is defined in section 995-1 of ITAA 1997.)
-Section 27A of the ITAA 1936 (which incorporates section 10 of the SIS Act) is the most relevant statutory meaning for the purposes of the DTA and should apply unless there is any inconsistency with the terms of the DTA. However, an issue arises as to whether section 27A can be applied in its extended form to treaties which were negotiated prior to the passage of the SIS Act in 1993. Although the
- General Definitions
- Article is intended to allow an ambulatory meaning to be given to undefined terms in Australia's DTAs where possible (i.e., that the current law meaning should be preferred to the historical meaning at the time the DTA was concluded), treaty partners must be seen to be giving effect to DTAs in good faith and should not be seen to be attempting to alter the meaning of a treaty via changes to domestic statutory law.
-Given that the statutory elements of an allocated pension are that:
-
-•it must be paid from a superannuation fund
+Section 27A of the ITAA 1936 (which incorporates section 10 of the SIS Act) is the most relevant statutory meaning for the purposes of the DTA and should apply unless there is any inconsistency with the terms of the DTA. However, an issue arises as to whether section 27A can be applied in its extended form to treaties which were negotiated prior to the passage of the SIS Act in 1993. Although the General Definitions Article is intended to allow an ambulatory meaning to be given to undefined terms in Australia's DTAs where possible (i.e., that the current law meaning should be preferred to the historical meaning at the time the DTA was concluded), treaty partners must be seen to be giving effect to DTAs in good faith and should not be seen to be attempting to alter the meaning of a treaty via changes to domestic statutory law.
+Given that the statutory elements of an allocated pension are that: •it must be paid from a superannuation fund
 •the payments must be made at least annually
 •the total amount of the annual payments must fall within an approved range (ie minimum and maximum thresholds) based on statutory formulas; and
-•the payments can only be paid to the recipient, the recipient's spouse or the recipient's dependants,
-
-it is considered that allocated pensions which meet this statutory definition broadly satisfy the international understanding of 'pension', which seems only to require that a pension be a periodic payment. The Australian common law meaning also appears to align with the international law meaning - see Tubemakers of Australia Ltd v. FC of T (1993) 25 ATR 183 at 190; 93 ATC 4207 at 4213, and Taxation Determination TD 93/151 at paragraph 1. Although some of the characteristics of allocated pensions are novel in comparison to more traditional pension payments, fundamental pension characteristics are nevertheless present.
-Accordingly, subject to the context and terms of the particular DTA, an allocated pension paid by an Australian superannuation fund to a non-resident who resides in a treaty partner country is a 'pension' for the purposes of the
- Pensions and Annuities
- Article in Australia's DTAs.
-
-[Note: In general, an allocated pension paid by an Australian superannuation fund to a resident of a treaty partner country will be a 'pension' for the purposes of the Pensions and Annuities Article (usually Article 18) in Australia's DTAs. However, given that Australia's DTAs vary, the terms of the relevant DTA must be considered in each individual case.]
-
-Date of decision:
-  17 April 2002
-
-Year of income:
-  
-
-Legislative References:
-
-International Tax Agreements Act 1953   Section 4   Schedule 1   Schedule 1A   Schedule 2   Schedule 3   Schedule 4   Schedule 5   Schedule 5A   Schedule 6   Schedule 9   Schedule 10   Schedule 10A   Schedule 11   Schedule 11A   Schedule 12   Schedule 13   Schedule 13A   Schedule 14   Schedule 15   Schedule 16   Schedule 16A   Schedule 17   Schedule 18   Schedule 20   Schedule 21   Schedule 22   Schedule 23   Schedule 24   Schedule 25   Schedule 25A   Schedule 27   Schedule 28   Schedule 29   Schedule 30   Schedule 31   Schedule 32   Schedule 33   Schedule 34   Schedule 35   Schedule 36   Schedule 37   Schedule 38   Schedule 38A   Schedule 39   Schedule 40   Schedule 41   Schedule 42   Schedule 43   Schedule 44   Schedule 45
-Income Tax Assessment Act 1936   Section 27A   Section 27H
-Income Tax Assessment Act 1997   Section 995-1
-Superannuation Industry (Supervision) Act 1993   Section 10
-Superannuation Industry (Supervision) Regulations   Subregulation 1.06(1)   Subregulation 1.06(4)
- Retirement Savings Accounts Act 1997   Section 16
-
-Case References:
-
-Tubemakers of Australia Ltd v. FC of T    (1993) 25 ATR 183   93 ATC 4207
-
-Related Public Rulings (including Determinations)
-
-TD 93/151
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/500
-
-Keywords
-
-Allocated pensions and annuities
- Double tax agreements
-
-Business Line:
-  LB&I
-
-Date of publication:
-  30 April 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-17 April 2002
-Original statement
-
-You are here
- 9 November 2007
+•the payments can only be paid to the recipient, the recipient's spouse or the recipient's dependants, it is considered that allocated pensions which meet this statutory definition broadly satisfy the international understanding of 'pension', which seems only to require that a pension be a periodic payment. The Australian common law meaning also appears to align with the international law meaning - see Tubemakers of Australia Ltd v. FC of T (1993) 25 ATR 183 at 190; 93 ATC 4207 at 4213, and Taxation Determination TD 93/151 at paragraph 1. Although some of the characteristics of allocated pensions are novel in comparison to more traditional pension payments, fundamental pension characteristics are nevertheless present.
+Accordingly, subject to the context and terms of the particular DTA, an allocated pension paid by an Australian superannuation fund to a non-resident who resides in a treaty partner country is a 'pension' for the purposes of the Pensions and Annuities Article in Australia's DTAs. [Note: In general, an allocated pension paid by an Australian superannuation fund to a resident of a treaty partner country will be a 'pension' for the purposes of the Pensions and Annuities Article (usually Article 18) in Australia's DTAs. However, given that Australia's DTAs vary, the terms of the relevant DTA must be considered in each individual case.] Date of decision: 17 April 2002 Year of income: Legislative References: International Tax Agreements Act 1953 Section 4 Schedule 1 Schedule 1A Schedule 2 Schedule 3 Schedule 4 Schedule 5 Schedule 5A Schedule 6 Schedule 9 Schedule 10 Schedule 10A Schedule 11 Schedule 11A Schedule 12 Schedule 13 Schedule 13A Schedule 14 Schedule 15 Schedule 16 Schedule 16A Schedule 17 Schedule 18 Schedule 20 Schedule 21 Schedule 22 Schedule 23 Schedule 24 Schedule 25 Schedule 25A Schedule 27 Schedule 28 Schedule 29 Schedule 30 Schedule 31 Schedule 32 Schedule 33 Schedule 34 Schedule 35 Schedule 36 Schedule 37 Schedule 38 Schedule 38A Schedule 39 Schedule 40 Schedule 41 Schedule 42 Schedule 43 Schedule 44 Schedule 45
+Income Tax Assessment Act 1936 Section 27A Section 27H
+Income Tax Assessment Act 1997 Section 995-1
+Superannuation Industry (Supervision) Act 1993 Section 10
+Superannuation Industry (Supervision) Regulations Subregulation 1.06(1) Subregulation 1.06(4) Retirement Savings Accounts Act 1997 Section 16 Case References: Tubemakers of Australia Ltd v. FC of T (1993) 25 ATR 183 93 ATC 4207 Related Public Rulings (including Determinations) TD 93/151 Related ATO Interpretative Decisions ATO ID 2002/500 Keywords Allocated pensions and annuities Double tax agreements Business Line: LB&I Date of publication: 30 April 2002 ISSN: 1445-2782 history Date: Version: 17 April 2002
+Original statement You are here 9 November 2007
 Archived

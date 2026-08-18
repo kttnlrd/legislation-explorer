@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/22
-==================================================
-
-Income Tax
- Assessability of employment income received by resident working in Vietnamese territorial waters
- FOI status: may be released
-
-This ATO ID is withdrawn from the database due to legislative changes to section 23AG of the Income Tax Assessment Act 1936 which took effect from 1 July 2009. Despite its withdrawal, this ATOID continues to be a precedential view in respect of decisions for income years up to, and including, the 2008/2009 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of employment income received by resident working in Vietnamese territorial waters FOI status: may be released This ATO ID is withdrawn from the database due to legislative changes to section 23AG of the Income Tax Assessment Act 1936 which took effect from 1 July 2009. Despite its withdrawal, this ATOID continues to be a precedential view in respect of decisions for income years up to, and including, the 2008/2009 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the salary and wages earned by a resident taxpayer, while working on a marine seismic field vessel in Vietnamese territorial waters, assessable under subsection 6-5(2) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The salary and wages earned by a resident taxpayer, while working on a marine seismic field vessel in Vietnamese territorial waters, are not assessable under subsection 6-5(2) of the ITAA 1997 as they are exempt from Australian income tax under section 23AG of the Income Tax Assessment Act 1936 (ITAA 1936).
@@ -35,13 +20,9 @@ Salary and wages are ordinary income for the purposes of subsection 6-5(2) of th
 Subsection 6-15(2) of the ITAA 1997 provides that if an amount is exempt income then it is not assessable income.
 Section 11-15 of the ITAA 1997 lists those provisions dealing with income which may be exempt. Included in this list is section 23AG of the ITAA 1936 which deals with overseas employment income.
 Subsection 23AG(1) of the ITAA 1936 provides that where a resident is engaged in foreign service for a continuous period of not less than 91 days, foreign earnings derived from that service will be exempt. 'Foreign service' includes service in a foreign country in the capacity as an employee (subsection 23AG(7) of the ITAA 1936). 'Foreign earnings' includes salary and wages income (subsection 23AG(7) of the ITAA 1936).
-Paragraph 23AG(6)(a) of the ITAA 1936 provides that a period during which a person is engaged in foreign service includes any period during which the person, in accordance with the terms and conditions of that service, is absent on recreation leave, other than:
-
-(i)leave wholly or partly attributable to a period of service or employment other than that foreign service
+Paragraph 23AG(6)(a) of the ITAA 1936 provides that a period during which a person is engaged in foreign service includes any period during which the person, in accordance with the terms and conditions of that service, is absent on recreation leave, other than: (i)leave wholly or partly attributable to a period of service or employment other than that foreign service
 (ii)long service leave, furlough, extended leave, or leave of a similar kind, or
-(iii)leave without pay or on reduced pay.
-
-Taxation Ruling IT 2441 states that where a resident is employed in a project in a foreign country, leave taken in circumstances similar to those mentioned in Taxation Ruling IT 2015 is treated as recreation leave that forms part of a period of foreign service under subsection 23AG(6) of the ITAA 1936.
+(iii)leave without pay or on reduced pay. Taxation Ruling IT 2441 states that where a resident is employed in a project in a foreign country, leave taken in circumstances similar to those mentioned in Taxation Ruling IT 2015 is treated as recreation leave that forms part of a period of foreign service under subsection 23AG(6) of the ITAA 1936.
 Taxation Ruling IT 2015 refers to employees who are engaged in uninterrupted cycles of five weeks on site on an onshore oil drilling project and five weeks leave in Australia, without any entitlement for additional annual leave, and who are not required to attend the company offices in Australia.
 As the taxpayer's circumstances are similar to that described in IT 2015, the periods of time off spent by the taxpayer in Australia form part of their foreign service period.
 Subsection 23AG(2) of the ITAA 1936 provides that the exemption in subsection 23AG(1) of the ITAA 1936 will not apply where the income is exempt from tax in the foreign country only because of any of the reasons listed therein.
@@ -50,64 +31,17 @@ Therefore, in determining the liability to Australian tax on foreign sourced inc
 Section 4 of the Agreements Act incorporates that Act with the ITAA 1936 and the ITAA 1997 so that those Acts are read as one.
 Schedule 38 to the Agreements Act contains the double tax agreement between Australia and the Socialist Republic of Vietnam (the Vietnamese Agreement). Schedule 38A to the Agreements Act contains the exchange of notes amending the Vietnamese Agreement (Exchange of Notes). The Vietnamese Agreement and the Exchange of Notes operate to avoid the double taxation of income received by Australian and Vietnamese residents.
 Article 15(1) of the Vietnamese Agreement provides that remuneration derived by an Australian resident from employment exercised in Vietnam may be taxed by Australia and Vietnam.
-However, Article 15(2) of the Vietnamese Agreement provides that remuneration derived from employment exercised in Vietnam will be exempt from tax in Vietnam if:
-
-(a)the taxpayer is present in Vietnam for a period or periods not exceeding in the aggregate 183 days in the Vietnamese year of income
+However, Article 15(2) of the Vietnamese Agreement provides that remuneration derived from employment exercised in Vietnam will be exempt from tax in Vietnam if: (a)the taxpayer is present in Vietnam for a period or periods not exceeding in the aggregate 183 days in the Vietnamese year of income
 (b)the remuneration is paid by or on behalf of an employer who is not an Vietnamese resident
 (c)the remuneration is not deductible in determining the profits of a PE which the employer has in Vietnam, and
-(d)the remuneration is, or upon application of this Article will be, subject to tax in Australia.
-
-Article 15(2)(c) of the Vietnamese Agreement is not satisfied as the remuneration is deductible in determining taxable profits of the employer's PE in Vietnam. Therefore the employment income received by the taxpayer may be taxed in Vietnam under Article 15(1) of the Vietnamese Agreement.
+(d)the remuneration is, or upon application of this Article will be, subject to tax in Australia. Article 15(2)(c) of the Vietnamese Agreement is not satisfied as the remuneration is deductible in determining taxable profits of the employer's PE in Vietnam. Therefore the employment income received by the taxpayer may be taxed in Vietnam under Article 15(1) of the Vietnamese Agreement.
 Paragraph 23AG(2)(b) of the ITAA 1936 does not apply as the salary and wages received by the taxpayer are not exempt from tax in Vietnam. None of the other reasons in subsection 23AG(2) of the ITAA 1936 apply to the taxpayer's situation.
 As the taxpayer has been engaged in foreign service for a continuous period of not less than 91 days and none of the circumstances in subsection 23AG(2) of the ITAA 1936 apply, the employment income received by the taxpayer is exempt under subsection 23AG(1) of the ITAA 1936.
 Therefore, the salary and wages received by the taxpayer from employment in Vietnam are not assessable under subsection 6-5(2) of the ITAA 1997.
-Date of decision:
-  23 December 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 23AG   subsection 23AG(1)   subsection 23AG(2)   paragraph 23AG(2)(b)   subsection 23AG(6)   paragraph 23AG(6)(a)   subsection 23AG(7)
-Income Tax Assessment Act 1997   subsection 6-5(2)   subsection 6-15(2)   section 11-15
-International Tax Agreements Act 1953   section 4   Schedule 38   Schedule 38, Article 15(1)   Schedule 38, Article 15(2)   Schedule 38, Article 15(2)(c)   Schedule 38A
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2015
-Taxation Ruling IT 2441
-
-Keywords
-
-Double tax agreements
- Exempt income
- Foreign income
- Territorial waters
- International tax
- Vietnam
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  16 January 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 December 2003
-Original statement
-
-You are here
+Date of decision: 23 December 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 section 23AG subsection 23AG(1) subsection 23AG(2) paragraph 23AG(2)(b) subsection 23AG(6) paragraph 23AG(6)(a) subsection 23AG(7)
+Income Tax Assessment Act 1997 subsection 6-5(2) subsection 6-15(2) section 11-15
+International Tax Agreements Act 1953 section 4 Schedule 38 Schedule 38, Article 15(1) Schedule 38, Article 15(2) Schedule 38, Article 15(2)(c) Schedule 38A Related Public Rulings (including Determinations) Taxation Ruling IT 2015
+Taxation Ruling IT 2441 Keywords Double tax agreements Exempt income Foreign income Territorial waters International tax Vietnam Business Line: Public Groups and International Date of publication: 16 January 2004 ISSN: 1445-2782 history Date: Version: 23 December 2003
+Original statement You are here
 13 May 2011
 Archived

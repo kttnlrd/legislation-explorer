@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/60
-==================================================
-
-Income Tax
- Leasing of mining equipment: Whether a 'Qualifying Arrangement'
- FOI status: may be released
-
-This ATO ID has been amended to delete references to draft Taxation Ruling TR94/D25 which was withdrawn on 25 August 1999 by TR94/D25 - Notice of Withdrawal.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Leasing of mining equipment: Whether a 'Qualifying Arrangement' FOI status: may be released This ATO ID has been amended to delete references to draft Taxation Ruling TR94/D25 which was withdrawn on 25 August 1999 by TR94/D25 - Notice of Withdrawal. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether a lease of mining equipment by an Australian entity to an overseas mining company can be characterised as a 'qualifying arrangement' under Division 16D of the Income Tax Assessment Act 1936(ITAA 1936). If so, whether the Commissioner of Taxation will exercise his discretion under subsection 159GG(4), in favour of the taxpayer, to treat the lease as a 'non-qualifying' arrangement.
 Decision
 Yes. The arrangement would be characterised as a 'qualifying arrangement' under Division 16D of the Income Tax Assessment Act 1936. However, the Commissioner of Taxation would not exercise his discretion in favour of the taxpayer under subsection 159GG(4).
@@ -22,39 +9,9 @@ Facts
 An Australian entity leases equipment to an overseas mining company. The equipment is to be used in the company's mining operations. The lessor proposes to enter into an arm's length residual value put option for a guaranteed residual value amount payable on termination of the lease.
 Reasons For Decision
 Where an arrangement is found to be a 'qualifying arrangement' then for the purposes of calculating the taxable income of a lessor, such a lease will be treated as though it were a loan by the lessor to enable the lessee to acquire the leased property. Effectively this means those tax deductions for the cost of, or capital expenditure incurred on, the leased property (other than interest payments on funds borrowed to fund the acquisition) will not be deductible to the lessor.
-Section 159GG (Division 16D of the Income Tax Assessment Act 1936) prescribes a number of tests to determine whether an arrangement is a 'qualifying arrangement'. Note that if
- any
- of the conditions listed in section 159GG are satisfied then the arrangement will be a 'qualifying arrangement'.
-In this particular case, the following factors indicate that the arrangement is a 'qualifying arrangement' for section 159GG purposes
-
-*The parent company of the lessee is liable for the difference between the residual value of the property and the amount that the lessor would receive in the event that a put option is exercised and the property as a result, is disposed of under the put option. Based on this fact, the residual value test in subparagraph 159GG(1)(a)(i) is clearly satisfied.
+Section 159GG (Division 16D of the Income Tax Assessment Act 1936) prescribes a number of tests to determine whether an arrangement is a 'qualifying arrangement'. Note that if any of the conditions listed in section 159GG are satisfied then the arrangement will be a 'qualifying arrangement'.
+In this particular case, the following factors indicate that the arrangement is a 'qualifying arrangement' for section 159GG purposes *The parent company of the lessee is liable for the difference between the residual value of the property and the amount that the lessor would receive in the event that a put option is exercised and the property as a result, is disposed of under the put option. Based on this fact, the residual value test in subparagraph 159GG(1)(a)(i) is clearly satisfied.
 *The lessee is solely liable for all repairs and maintenance of the equipment largely because of the remote location in which the property is to be used and the lessee having the skills necessary to effect repairs. The lessee has a demonstrated record of maintaining such specialist equipment. The lessee has contracts to use the equipment for a period exceeding more than a year. Based on the information provided the 'repairs test' in subparagraph 159GG(1)(a)(iv) is satisfied.
 *Other information indicates that the period of the arrangement in relation to the equipment is more than 75% of the effective life of the equipment, at the time the arrangement commenced, and based on these facts, the conditions of subparagraph 159GG(1)(b)(ii) are satisfied.
-*Finally, payments made under the arrangement would be sufficient to satisfy the 90% test in paragraph 159GG(1)(c). The payments being made to the owner of the equipment are equal to or greater than 90% of the lesser of the property's cost or depreciated value when the arrangement commenced.
-
-Subsection 159GG(4) of the Income Tax Assessment Act 1936 provides the Commissioner of Taxation with a discretion to treat an otherwise 'qualifying arrangement' as a 'non-qualifying arrangement'. Based on the facts it is not considered that this discretion should be exercised given that the effect of the arrangement is to effect a transfer of the risk of ownership with a consequent benefit to the lessee in a reduction in the charge for use of the equipment.
-Date of decision:
-  6 November 1998
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 16D   Section 159GG   subparagraph 159GG(1)(a)(i)   subparagraph 159GG(1)(a)(iv)   subparagraph 159GG(1)(b)(ii)   paragraph 159GG(1)(c)   subsection 159GG(4)
-
-Keywords
-
-Lease financing
- Lease residual values
- Associated persons
- Repairs and maintenance expenses
-
-Siebel/TDMS Reference Number:
-  SYD80743
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 June 2001
-
-ISSN:
- 1445-2782
+*Finally, payments made under the arrangement would be sufficient to satisfy the 90% test in paragraph 159GG(1)(c). The payments being made to the owner of the equipment are equal to or greater than 90% of the lesser of the property's cost or depreciated value when the arrangement commenced. Subsection 159GG(4) of the Income Tax Assessment Act 1936 provides the Commissioner of Taxation with a discretion to treat an otherwise 'qualifying arrangement' as a 'non-qualifying arrangement'. Based on the facts it is not considered that this discretion should be exercised given that the effect of the arrangement is to effect a transfer of the risk of ownership with a consequent benefit to the lessee in a reduction in the charge for use of the equipment.
+Date of decision: 6 November 1998 Legislative References: Income Tax Assessment Act 1936 Division 16D Section 159GG subparagraph 159GG(1)(a)(i) subparagraph 159GG(1)(a)(iv) subparagraph 159GG(1)(b)(ii) paragraph 159GG(1)(c) subsection 159GG(4) Keywords Lease financing Lease residual values Associated persons Repairs and maintenance expenses Siebel/TDMS Reference Number: SYD80743 Business Line: Public Groups and International Date of publication: 4 June 2001 ISSN: 1445-2782

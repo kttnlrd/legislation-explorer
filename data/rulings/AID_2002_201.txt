@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/201
-==================================================
-
-Income Tax
- Deduction for increase in value of liabilities under net risk components of ordinary endowment policies issued by a friendly society
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deduction for increase in value of liabilities under net risk components of ordinary endowment policies issued by a friendly society FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 How is the increase in value of liabilities under net risk components of ordinary endowment policies issued by a friendly society determined?
 Decision
 The increase in value of liabilities under net risk components of ordinary endowment policies issued by a friendly society is determined under subsection 320-85(4) of the Income Tax Assessment Act 1997 (ITAA 1997).
@@ -24,36 +13,4 @@ Section 320-85 of the ITAA 1997 allows a deduction for increases in the value of
 The increase in value of liabilities under net risk components of ordinary endowment policies issued by friendly society is determined under subsection 320-85(4) of the ITAA 1997.
 The amount allowed as a deduction is the sum of the policy liabilities (as defined in the Valuation Standard), as calculated by an actuary in respect of the net risk component of policies less the sum of any cumulative losses for the net risk component of policies.
 To calculate the "net risk component" ( as defined in subsection 995-1(1) of the ITAA 1997) of the policy liabilities, the actuary of a friendly society would have regard to the current termination value, and may adopt a pragmatic approach using reasonable assumptions. The actuary could for example, take into consideration the method used in paragraph 320-55(3)(b)(ii) of the ITAA 1997 to calculate the risk component.
-Date of decision:
-  27 August 2001
-
-Year of income:
-  Year ended 30 June 2001 and subsequent income years
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 320-85   Subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/197
- ATO ID 2002/198
- ATO ID 2002/199
- ATO ID 2002/200
-
-Keywords
-
-Life assurance
- Endowment insurance
-
-Siebel/TDMS Reference Number:
-  DW291373
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 February 2002
-
-ISSN:
- 1445-2782
+Date of decision: 27 August 2001 Year of income: Year ended 30 June 2001 and subsequent income years Legislative References: Income Tax Assessment Act 1997 Section 320-85 Subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2002/197 ATO ID 2002/198 ATO ID 2002/199 ATO ID 2002/200 Keywords Life assurance Endowment insurance Siebel/TDMS Reference Number: DW291373 Business Line: Public Groups and International Date of publication: 28 February 2002 ISSN: 1445-2782

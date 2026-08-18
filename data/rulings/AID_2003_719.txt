@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2003/719
-==================================================
-
-Income Tax
- Deductibility of loss in a later year of income where taxpayer receives exempt foreign pension
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deductibility of loss in a later year of income where taxpayer receives exempt foreign pension FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the social security pension derived by the Australian resident taxpayer from the United States of America (US) included in the calculation for deducting tax losses in a later year of income under section 36-15 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The US social security pension derived by an Australian resident taxpayer is included in the calculation for deducting of tax losses in a later year of income under section 36-15 of the ITAA 1997.
@@ -31,12 +18,8 @@ Reasons for Decision
 Section 8-5 of the ITAA 1997 allows deduction from assessable income an amount that can be deducted under a provision of the Income Tax Assessment Act 1936 (ITAA 1936) and ITAA 1997.
 Section 12-5 of the ITAA 1997 contains a list of provisions about specific types of deductions. Included in this list is Division 36 which deals with tax losses from earlier income years.
 Section 36-10 of the ITAA 1997 (contained in Division 36 of the ITAA 1997) provides that a tax loss is incurred in any income year, if a taxpayer's allowable deductions (other than tax losses of earlier income years) exceeds assessable income and net exempt income (worked out under section 36-20 of the ITAA 1997) for that year.
-Subsection 36-20(1) of the ITAA 1997 provides that the net exempt income of an Australian resident taxpayer is the amount by which the taxpayer's total exempt income (defined in section 6-20 of the ITAA 1997) from all sources (except excluded exempt income defined in subsection 36-20(3) of the ITAA 1997) exceeds the total of:
-
-(a)the losses and outgoings (except capital losses and outgoings) the taxpayer incurred in deriving that exempt income; and
-(b)any taxes payable outside Australia on that exempt income.
-
-Subsection 36-20(3) of the ITAA 1997 provides that excluded exempt income is exempt income to which any of the provisions of the ITAA 1936 listed therein apply.
+Subsection 36-20(1) of the ITAA 1997 provides that the net exempt income of an Australian resident taxpayer is the amount by which the taxpayer's total exempt income (defined in section 6-20 of the ITAA 1997) from all sources (except excluded exempt income defined in subsection 36-20(3) of the ITAA 1997) exceeds the total of: (a)the losses and outgoings (except capital losses and outgoings) the taxpayer incurred in deriving that exempt income; and
+(b)any taxes payable outside Australia on that exempt income. Subsection 36-20(3) of the ITAA 1997 provides that excluded exempt income is exempt income to which any of the provisions of the ITAA 1936 listed therein apply.
 The US social security pension is not excluded exempt income as it is not covered by any of the provisions listed in subsection 36-20(3) of the ITAA 1997.
 Subsection 6-20(1) of the ITAA 1997 provides that an amount of ordinary income or statutory income is exempt income if it is made exempt from income tax by a provision of the ITAA 1936 or ITAA 1997 or another Commonwealth law.
 Subsection 6-20(2) states that ordinary income is also exempt income to the extent that the ITAA 1997 excludes it (expressly or by implication) from being assessable income.
@@ -46,36 +29,5 @@ Section 36-15 of the ITAA 1997 allows a tax loss for a loss year to be deducted 
 The net exempt income received by the taxpayer will therefore be taken into account in working out the tax loss that may be available for the purposes of section 36-10 of the ITAA 1997.
 Accordingly, the social security pension derived by the Australian resident taxpayer from the US in the later income year is included in the tax loss calculation for that later income year under section 36-15 of the ITAA 1997.
 Note: if all of the tax loss cannot be deducted, then the undeducted amount is carried forward to the next income year (subsection 36-15(7) of the ITAA 1997.
-Date of decision:
-  28 July 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-20   subsection 6-20(1)   subsection 6-20(2)   section 8-5   section 12-5   Division 36   section 36-10   section 36-15   subsection 36-15(7)   section 36-20   subsection 36-20(1)   subsection 36-20(3)
-International Tax Agreements Act 1953   Schedule 2, Article 18(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2001/382
-
-Keywords
-
-Foreign pension
- Foreign pension income
- International tax
- United States
-
-Siebel/TDMS Reference Number:
-  3547532
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 August 2003
-
-ISSN:
- 1445-2782
+Date of decision: 28 July 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 6-20 subsection 6-20(1) subsection 6-20(2) section 8-5 section 12-5 Division 36 section 36-10 section 36-15 subsection 36-15(7) section 36-20 subsection 36-20(1) subsection 36-20(3)
+International Tax Agreements Act 1953 Schedule 2, Article 18(2) Related ATO Interpretative Decisions ATO ID 2001/382 Keywords Foreign pension Foreign pension income International tax United States Siebel/TDMS Reference Number: 3547532 Business Line: Public Groups and International Date of publication: 15 August 2003 ISSN: 1445-2782

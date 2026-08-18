@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/180
-==================================================
-
-Income Tax
- Taxation of financial arrangements: definition of a special accrual amount and the balancing adjustment in Subdivision 230-G
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of financial arrangements: definition of a special accrual amount and the balancing adjustment in Subdivision 230-G FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the balancing adjustment made under the method statement in subsection 230-445(1) of the Income Tax Assessment Act 1997 (ITAA 1997) a special accrual amount?
 Decision
 No. The balancing adjustment made under subsection 230-445(1) of the ITAA 1997 will not be a special accrual amount.
@@ -29,65 +18,15 @@ All legislative references are to the ITAA 1997 unless otherwise indicated.
 The effect of making an applicable functional currency choice is that amounts that are attributable to a time prior to the making of the choice, and that are elements in the calculation of an amount that is included in assessable income or allowable as a deduction in income years after making the choice, have to be translated to the applicable functional currency. This requirement is subject to a qualification if the amount being calculated is a special accrual amount.
 Under paragraph 230-435(1)(b), a balancing adjustment is made when the loan is repaid as all of the taxpayer's rights and obligations under the financial arrangement will cease. The method statement in subsection 230-445(1) is used to calculate any additional amount of a gain or loss (if any) that the taxpayer will be taken to have made as a balancing adjustment.
 If the balancing adjustment meets the definition of a special accrual amount, the elements that make up the balancing adjustment will not be translated prior to calculation of the amount; refer to subsection 960-80(4). Rather, the amount of the balancing adjustment will itself be translated after it is calculated; refer to subsection 960-80(5).
-Paragraph 995-1(1)(aa) defines a special accrual amount as (amongst other things):
-
-...an amount that is included in assessable income, or an amount that is a deduction from assessable income under...Subdivision 230-A of this Act...if the accruals method provided for in Subdivision 230-B of this Act is applied to take account of the gain or loss concerned, and all of the financial benefits provided and received under the financial arrangement concerned are denominated in a particular foreign currency.
-
-Paragraph 995-1(1)(ba) provides that a special accrual amount is also:
-
-...an amount that is included in assessable income, or an amount that is a deduction from assessable income under...Division 230 (other than Subdivision 230-B) of this Act...
-
-Under Division 230, there are two assessing provisions:
-
-1.the general assessing provision in section 230-15 which brings to account for tax gains and losses taken into account under the tax timing methods in Division 230; and
-2.section 230-495 which brings to account for tax gains and losses that would have been made from a financial arrangement but for a change in accounting standard(s).
-
-Not all gains and losses assessed under section 230-15 will fall within the scope of paragraph 995-1(1)(aa) as the paragraph only applies where the gain or loss is taken into account under the accruals method in Subdivision 230-B. Therefore, gains and losses taken into account under the other tax timing methods in Division 230 and the balancing adjustment under Subdivision 230-G will not be a special accrual amount under paragraph 995-1(1)(aa).
+Paragraph 995-1(1)(aa) defines a special accrual amount as (amongst other things): ...an amount that is included in assessable income, or an amount that is a deduction from assessable income under...Subdivision 230-A of this Act...if the accruals method provided for in Subdivision 230-B of this Act is applied to take account of the gain or loss concerned, and all of the financial benefits provided and received under the financial arrangement concerned are denominated in a particular foreign currency. Paragraph 995-1(1)(ba) provides that a special accrual amount is also: ...an amount that is included in assessable income, or an amount that is a deduction from assessable income under...Division 230 (other than Subdivision 230-B) of this Act... Under Division 230, there are two assessing provisions: 1.the general assessing provision in section 230-15 which brings to account for tax gains and losses taken into account under the tax timing methods in Division 230; and
+2.section 230-495 which brings to account for tax gains and losses that would have been made from a financial arrangement but for a change in accounting standard(s). Not all gains and losses assessed under section 230-15 will fall within the scope of paragraph 995-1(1)(aa) as the paragraph only applies where the gain or loss is taken into account under the accruals method in Subdivision 230-B. Therefore, gains and losses taken into account under the other tax timing methods in Division 230 and the balancing adjustment under Subdivision 230-G will not be a special accrual amount under paragraph 995-1(1)(aa).
 Prima facie, a gain or loss taken into account under the balancing adjustment falls within the scope of the definition of a special accrual amount in paragraph 995-1(1)(ba).
 The concept of a special accrual amount is intended to overcome possible anomalies that could arise if every element in the calculation of a net amount on a foreign currency transaction (under the Divisions listed in the definition) had to first be translated to Australian currency (thereby allowing possible deferral of gains and losses on foreign currency transactions).
 The legislative intent for having special accrual amounts is to address this mischief by allowing taxpayers to calculate the net amount on a foreign currency transaction without first having to translate the elements involved in the calculation to Australian dollars. This enables an appropriate accrual of gains and losses over the life of the arrangement.
 However, the need for a balancing adjustment to be a special accrual amount is not present in this context as the method statement in subsection 230-445(1) does not calculate a net amount which is then spread over a period of time. Rather, it calculates an additional amount which is brought to account at the time the financial arrangement ends to ensure the correct amount of gain or loss is brought to account under the financial arrangement.
-The High Court, in CIC Insurance Ltd v. Bankstown Football Club (1997) 187 CLR 384 at 408, stated :
-
-[T]he modern approach to statutory interpretation (a) insists that the context be considered in the first instance, not merely at some later stage when ambiguity might be thought to arise, and (b) uses "context" in its widest sense to include such things as the existing state of the law and the mischief which, by legitimate means such as those just mentioned, one may discern the statute was intended to remedy... [I]f the apparently plain words of a provision are read in the light of the mischief which the statute was designed to overcome and of the objects of the legislation, they may wear a very different appearance. Further, inconvenience or improbability of result may assist the court in preferring to the literal meaning an alternative construction which, by the steps identified above, is reasonably open and more closely conforms to the legislative intent.
-
-When paragraph 995-1(1)(aa) is read as a part of the exhaustive list in the definition of a special accrual amount, it is reasonable to take the view that it was intended to comprehensively identify the amounts assessed and deducted under section 230-15 of which would constitute special accrual amounts.
+The High Court, in CIC Insurance Ltd v. Bankstown Football Club (1997) 187 CLR 384 at 408, stated : [T]he modern approach to statutory interpretation (a) insists that the context be considered in the first instance, not merely at some later stage when ambiguity might be thought to arise, and (b) uses "context" in its widest sense to include such things as the existing state of the law and the mischief which, by legitimate means such as those just mentioned, one may discern the statute was intended to remedy... [I]f the apparently plain words of a provision are read in the light of the mischief which the statute was designed to overcome and of the objects of the legislation, they may wear a very different appearance. Further, inconvenience or improbability of result may assist the court in preferring to the literal meaning an alternative construction which, by the steps identified above, is reasonably open and more closely conforms to the legislative intent. When paragraph 995-1(1)(aa) is read as a part of the exhaustive list in the definition of a special accrual amount, it is reasonable to take the view that it was intended to comprehensively identify the amounts assessed and deducted under section 230-15 of which would constitute special accrual amounts.
 It follows from this view that paragraph 995-1(1)(ba) can only apply to gains and losses which are assessable or deductible under another assessing provision in Division 230; namely section 230-495.
 Therefore, reading paragraph 995-1(1)(ba) in light of the context of the exhaustive definition of a special accrual amount and the mischief the legislation is intended to address, it is considered that an additional gain or loss taken into account as a balancing adjustment (which is itself assessable under section 230-15) does not satisfy the requirements of paragraph 995-1(1)(ba).
 Accordingly, the elements in the calculation of the balancing adjustment will be translated to the taxpayer's applicable functional currency before the balancing adjustment is calculated under subsection 230-445(1).
-Date of decision:
-  27 September 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 230-15   paragraph 230-435(1)(b)   subsection 230-445(1)   section 230-495   subsection 960-80(1)   subsection 960-80(4)   subsection 960-80(5)   paragraph 995-1(1)(aa)   paragraph 995-1(1)(ba)
-Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009   sub item 104(2)
-
-Case References:
-
-CIC Insurance Ltd v Bankstown Football Club   (1997) 187 CLR 384
-
-Keywords
-
-Taxation of Financial Arrangements CoE
- Balancing adjustment calculation
- Special accrual amount
- Applicable functional currency
- Balancing adjustment gains
- Losses
- Foreign currency
-
-Siebel/TDMS Reference Number:
-  1-2454XKP
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 October 2010
-
-ISSN:
- 1445-2782
+Date of decision: 27 September 2010 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 230-15 paragraph 230-435(1)(b) subsection 230-445(1) section 230-495 subsection 960-80(1) subsection 960-80(4) subsection 960-80(5) paragraph 995-1(1)(aa) paragraph 995-1(1)(ba)
+Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 sub item 104(2) Case References: CIC Insurance Ltd v Bankstown Football Club (1997) 187 CLR 384 Keywords Taxation of Financial Arrangements CoE Balancing adjustment calculation Special accrual amount Applicable functional currency Balancing adjustment gains Losses Foreign currency Siebel/TDMS Reference Number: 1-2454XKP Business Line: Public Groups and International Date of publication: 8 October 2010 ISSN: 1445-2782

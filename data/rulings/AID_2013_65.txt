@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/65
-==================================================
-
-Income Tax
- Company tax losses: whether company can disregard concessional tracing rules that apply in relation to more than one stake as part of forming the necessary belief for the purposes of the 'no detriment' rule
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company tax losses: whether company can disregard concessional tracing rules that apply in relation to more than one stake as part of forming the necessary belief for the purposes of the 'no detriment' rule CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the 'no detriment' rule in section 166-275 of the Income Tax Assessment Act 1997 (ITAA 1997) allow a company to disregard not only a concessional tracing rule that applies in relation to a particular stake but also the same, or a different, concessional tracing rule that applies in relation to one or more other stakes as part of forming the necessary belief, on reasonable grounds, under paragraph 166-275(c) of the ITAA 1997?
 Decision
 Yes. In forming the necessary belief, on reasonable grounds, under paragraph 166-275(c) of the ITAA 1997, a company is not restricted to only disregarding a concessional tracing rule that applies in relation to a particular stake. The company can also disregard the same, or a different, concessional tracing rule that applies in relation to one or more other stakes.
@@ -20,90 +10,26 @@ A Co is an Australian resident company that has been a widely held company, with
 For each of the income years ended 30 June 2006 to 30 June 2009, A Co incurred tax losses. A Co is seeking to deduct those tax losses for the income year ended 30 June 2012.
 A Co has not made a choice under section 166-15 of the ITAA 1997 in relation to the income year ended 30 June 2012. As a result, A Co has applied the modifications under Division 166 of the ITAA 1997 for the purposes of determining whether it has met the conditions in section 165-12 of the ITAA 1997 for deducting the tax loss.
 All of the shares in A Co are ordinary shares which carry equal voting, dividend and capital rights (as there is no difference between these rights, the remainder of this ATO ID refers only to voting rights).
-During that part of the test period that ran from the commencement of the income year ending 30 June 2006 until December 2009
- (the first part of the test period),
- some of the shares in A Co were held by a widely held company, B Co, with the remainder held by various entities with each of those entities holding stakes that carried rights to less than 10% of the voting power.
+During that part of the test period that ran from the commencement of the income year ending 30 June 2006 until December 2009 (the first part of the test period), some of the shares in A Co were held by a widely held company, B Co, with the remainder held by various entities with each of those entities holding stakes that carried rights to less than 10% of the voting power.
 At each test time during the first part of the test period, B Co held a stake that carried rights to between 10% and 50% of the voting power in A Co apart from one test time where B Co held a stake that carried rights to more than 50% of the voting power.
 At each test time during the first part of the test period, some of the shares in B Co were held by C Co. C Co is a nominee company and holds its shares in B Co on trust for various beneficiaries. The stake held by C Co at each of these test times carried rights to less than 10% of the voting power in A Co.
 During late 2009, A Co acquired B Co under a merger. As part of the merger, all of the existing shares in B Co were cancelled and the former shareholders of B Co, including C Co, were issued with new shares in A Co.
-At each test time during that part of the test period that ran from late 2009 until the end of the income year ending 30 June 2012
- (the second part of the test period),
- some of the shares in A Co were held by entities, including C Co, who previously held shares in B Co at each test time during the first part of the test period.
+At each test time during that part of the test period that ran from late 2009 until the end of the income year ending 30 June 2012 (the second part of the test period), some of the shares in A Co were held by entities, including C Co, who previously held shares in B Co at each test time during the first part of the test period.
 A Co does not meet the conditions in section 165-12 of the ITAA 1997 for deducting the tax losses for the income year ended 30 June 2012 as it does not satisfy the ownership tests in section 166-145 of the ITAA 1997.
-However A Co wishes to rely on the 'no detriment' rule in section 166-275 of the ITAA 1997 to treat it as having met the conditions in section 165-12 of the ITAA 1997 for deducting the tax losses. A Co considers that it can form the necessary belief, on reasonable grounds, under paragraph 166-275(c) of the ITAA 1997 provided it can disregard:
-
-•the concessional tracing rule in section 166-240 of the ITAA 1997 that applied to B Co's voting stake in A Co at those test times during the first part of the test period where B Co held a stake that carried rights to between 10% and 50% of the voting power in A Co,
+However A Co wishes to rely on the 'no detriment' rule in section 166-275 of the ITAA 1997 to treat it as having met the conditions in section 165-12 of the ITAA 1997 for deducting the tax losses. A Co considers that it can form the necessary belief, on reasonable grounds, under paragraph 166-275(c) of the ITAA 1997 provided it can disregard: •the concessional tracing rule in section 166-240 of the ITAA 1997 that applied to B Co's voting stake in A Co at those test times during the first part of the test period where B Co held a stake that carried rights to between 10% and 50% of the voting power in A Co,
 •the concessional tracing rule in section 166-230 of the ITAA 1997 that applied to attribute to B Co the indirect voting stake held by C Co in A Co at the test time during the first part of the test period when B Co held a stake that carried rights to more than 50% of the voting power, and
-•the concessional tracing rule in section 166-225 of the ITAA 1997 that applied to C Co's voting stake in A Co at each test time during the second part of the test period.
-
-Reasons for Decision
-The 'no detriment' rule in section 166-275 of the ITAA 1997 applies to treat a company as having met the conditions in section 165-12 of the ITAA 1997 for deducting a tax loss if:
-
-•a concessional tracing rule has modified how the ownership tests in section 166-145 of the ITAA 1997 apply to the company in respect of a voting stake, a dividend stake or a capital stake, and
+•the concessional tracing rule in section 166-225 of the ITAA 1997 that applied to C Co's voting stake in A Co at each test time during the second part of the test period. Reasons for Decision
+The 'no detriment' rule in section 166-275 of the ITAA 1997 applies to treat a company as having met the conditions in section 165-12 of the ITAA 1997 for deducting a tax loss if: •a concessional tracing rule has modified how the ownership tests in section 166-145 of the ITAA 1997 apply to the company in respect of a voting stake, a dividend stake or a capital stake, and
 •the company fails the ownership tests, and
-•the company believes, on reasonable grounds, that if the concessional tracing rule did not modify how the ownership tests apply to the company in respect of that stake, it would not fail the tests.
-
-As a tracing rule has modified how the ownership tests in section 166-145 of the ITAA 1997 apply to A Co in respect of a voting stake, and as A Co has failed the ownership tests, the first two requirements of the no detriment rule, as set out in paragraphs 166-275(a) and 166-275(b) of the ITAA 1997, have both been satisfied. At issue is therefore whether the third requirement of the no detriment rule, as set out in paragraph 166-275(c) of the ITAA 1997, has been satisfied.
+•the company believes, on reasonable grounds, that if the concessional tracing rule did not modify how the ownership tests apply to the company in respect of that stake, it would not fail the tests. As a tracing rule has modified how the ownership tests in section 166-145 of the ITAA 1997 apply to A Co in respect of a voting stake, and as A Co has failed the ownership tests, the first two requirements of the no detriment rule, as set out in paragraphs 166-275(a) and 166-275(b) of the ITAA 1997, have both been satisfied. At issue is therefore whether the third requirement of the no detriment rule, as set out in paragraph 166-275(c) of the ITAA 1997, has been satisfied.
 On a literal reading, paragraph 166-275(c) of the ITAA 1997 would seem to require a company to identify a particular stake in relation to which a concessional tracing rule has applied and form a belief, on reasonable grounds, that the ownership tests would have been passed had the tracing rule not applied in relation to that particular stake.
-If this is correct, then paragraph 166-275(c) of the ITAA 1997 would not be satisfied in this case as in order for A Co to form the necessary belief, on reasonable grounds, that the ownership tests would have been passed, it needs to disregard the following concessional tracing rules that applied in relation to the following stakes:
-
-•the concessional tracing rule in section 166-240 of the ITAA 1997 that applied to B Co's voting stake in A Co at those test times during the first part of the test period where B Co held a stake that carried rights to between 10% and 50% of the voting power in A Co,
+If this is correct, then paragraph 166-275(c) of the ITAA 1997 would not be satisfied in this case as in order for A Co to form the necessary belief, on reasonable grounds, that the ownership tests would have been passed, it needs to disregard the following concessional tracing rules that applied in relation to the following stakes: •the concessional tracing rule in section 166-240 of the ITAA 1997 that applied to B Co's voting stake in A Co at those test times during the first part of the test period where B Co held a stake that carried rights to between 10% and 50% of the voting power in A Co,
 •the concessional tracing rule in section 166-230 of the ITAA 1997 that applied to attribute to B Co the indirect voting stake held by C Co in A Co at the test time during the first part of the test period when B Co held a stake that carried rights to more than 50% of the voting power, and
-•the concessional tracing rule in section 166-225 of the ITAA 1997 that applied to C Co's voting stake in A Co at each test time during the second part of the test period.
-
-The Explanatory Memorandum to the Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Bill 2005 provides the following guidance on why the 'no detriment' rule was considered necessary:
-
-1.133 The purpose of the tracing rules is to assist a company trace its ownership interests to determine whether it satisfies the COT. However, there may be cases where these rules make it more difficult for a company to satisfy the COT. While the company could choose not to apply the modified COT, that would not allow the company to use any of the tracing rules.
-
-1.134 The modified COT allows a tracing rule to be disregarded in respect of a particular stake if it would cause the company to fail the ownership tests. A company is taken to satisfy the relevant conditions if the company believes on reasonable grounds that it would not fail the conditions if the tracing rule did not apply in respect of that stake.
-
-From this extract from the Explanatory Memorandum, it is clear that the purpose of the rule was to ensure that the tracing rules in Subdivision 166-E of the ITAA 1997 do not inadvertently result in the failure of the ownership tests.
+•the concessional tracing rule in section 166-225 of the ITAA 1997 that applied to C Co's voting stake in A Co at each test time during the second part of the test period. The Explanatory Memorandum to the Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Bill 2005 provides the following guidance on why the 'no detriment' rule was considered necessary: 1.133 The purpose of the tracing rules is to assist a company trace its ownership interests to determine whether it satisfies the COT. However, there may be cases where these rules make it more difficult for a company to satisfy the COT. While the company could choose not to apply the modified COT, that would not allow the company to use any of the tracing rules. 1.134 The modified COT allows a tracing rule to be disregarded in respect of a particular stake if it would cause the company to fail the ownership tests. A company is taken to satisfy the relevant conditions if the company believes on reasonable grounds that it would not fail the conditions if the tracing rule did not apply in respect of that stake. From this extract from the Explanatory Memorandum, it is clear that the purpose of the rule was to ensure that the tracing rules in Subdivision 166-E of the ITAA 1997 do not inadvertently result in the failure of the ownership tests.
 The tracing rules can result in the failure of the ownership tests not just as a result of a particular tracing rule applying in relation to a particular stake. They can also result in a failure as a result of one tracing rule applying in relation to one stake and the same, or a different, tracing rule applying in relation to one or more other stakes.
 Therefore, having regard to the purpose of the 'no detriment rule', it is considered that a literal reading of paragraph 166-275(c) of the ITAA 1997 could not have been intended. Instead, it is considered that a broader view was intended that would allow a company to disregard not only a tracing rule that applies in relation to one stake but also the same, or a different, tracing rule that applies in relation to one or more other stakes as part of forming the necessary belief, on reasonable grounds, under paragraph 166-275(c) of the ITAA 1997.
 Support for a broader view in relation to paragraph 166-275(c) of the ITAA 1997 can be found in the example that appears immediately below the provision. Under that example, the listed company is taken to have satisfied the requirements of paragraph 166-275(c) of the ITAA 1997 even though the tracing rule in section 166-225 of the ITAA 1997 applied in relation to nine different stakes.
 As such, the example confirms that a company can disregard a tracing rule that applies in relation to one stake as well as the same tracing rule that applies in relation to one or more other stakes as part of forming the necessary belief, on reasonable grounds, under paragraph 166-275(c) of the ITAA 1997. It is considered that the same outcome would also arise for the company even if a different tracing rule had applied in relation to one of more of the other stakes.
-Accordingly, in forming the necessary belief on reasonable grounds under paragraph 166-275(c) of the ITAA 1997, A Co can disregard:
-
-•the concessional tracing rule in section 166-240 of the ITAA 1997 that applied to B Co's voting stake in A Co at those test times during the first part of the test period where B Co held a stake that carried rights to between 10% and 50% of the voting power in A Co,
+Accordingly, in forming the necessary belief on reasonable grounds under paragraph 166-275(c) of the ITAA 1997, A Co can disregard: •the concessional tracing rule in section 166-240 of the ITAA 1997 that applied to B Co's voting stake in A Co at those test times during the first part of the test period where B Co held a stake that carried rights to between 10% and 50% of the voting power in A Co,
 •the concessional tracing rule in section 166-230 of the ITAA 1997 that applied to attribute to B Co the indirect voting stake held by C Co in A Co at the test time during the first part of the test period when B Co held a stake that carried rights to more than 50% of the voting power, and
-•the concessional tracing rule in section 166-225 of the ITAA 1997 that applied to C Co's voting stake in A Co at each test time during the second part of the test period.
-
-Date of decision:
-  3 December 2013
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 166   Subdivision 166-E   section 165-12   section 166-15   section 166-145   section 166-225   section 166-230   section 166-240   section 166-275   paragraph 166-275(a)   paragraph 166-275(b)   paragraph 166-275(c)   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/14
- ATO ID 2013/66
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Bill 2005
-
-Keywords
-
-prior year losses
- company losses
- continuity of ownership test
-
-Siebel/TDMS Reference Number:
-  1-50T0UEE; 1-7Z8115A; 1-EHM52Y6
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  6 December 2013
-
-Date reviewed:
-  22 May 2018
-
-ISSN:
- 1445-2782
+•the concessional tracing rule in section 166-225 of the ITAA 1997 that applied to C Co's voting stake in A Co at each test time during the second part of the test period. Date of decision: 3 December 2013 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1997 Division 166 Subdivision 166-E section 165-12 section 166-15 section 166-145 section 166-225 section 166-230 section 166-240 section 166-275 paragraph 166-275(a) paragraph 166-275(b) paragraph 166-275(c) subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2008/14 ATO ID 2013/66 Other References: Explanatory Memorandum to the Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Bill 2005 Keywords prior year losses company losses continuity of ownership test Siebel/TDMS Reference Number: 1-50T0UEE; 1-7Z8115A; 1-EHM52Y6 Business Line: Private Groups and High Wealth Individuals Date of publication: 6 December 2013 Date reviewed: 22 May 2018 ISSN: 1445-2782

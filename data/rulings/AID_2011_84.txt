@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/84
-==================================================
-
-Superannuation
- Self managed superannuation funds: scheme to avoid the prohibition on acquiring assets from related parties
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Self managed superannuation funds: scheme to avoid the prohibition on acquiring assets from related parties FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the anti-avoidance provision in subsection 66(3) of the Superannuation Industry (Supervision) Act 1993 (SISA), apply to the participants of an arrangement that is structured so that it avoids the prohibition on the acquisition assets from a related party of the self managed superannuation fund (SMSF) under subsection 66(1) of the SISA?
 Decision
 Yes. Considering the arrangement as a whole, it is structured with the intention that the acquisition by the SMSF of units in a unit trust from a party that is not a related party to the SMSF, avoids the prohibition (in subsection 66(1) of the SISA) of the SMSF acquiring assets from a related party. The parties to the arrangement may be liable to prosecution and may be guilty of an offence under subsection 66(4) of the SISA.
@@ -23,116 +12,26 @@ The unit trust invests in income producing assets using both trade dollars and A
 The units in the unit trust are not 'listed securities' as defined in subsection 66(5) of the SISA.
 The trustee of the unit trust has indicated that it is prepared to enter into an arrangement with a company that is a member of the trade exchange and the trustee of an SMSF that has as a member an employee of that company.
 The trustee of the unit trust is not a related party of the SMSF, nor is the unit trust a related trust of the SMSF. The company is a related party of the SMSF because a member of the SMSF together with her relatives have a majority voting interest in the company in accordance with the definition of 'related party' in subsection 10(1) of the SISA and the meaning of 'Part 8 associate of an individual' in section 70B of the SISA.
-The parties to the arrangement have agreed to take the following steps:
-
-Step 1: the company purchases a number of units in the unit trust (P units) using the prescribed ratio of Australian currency and trade dollars (say X dollars and Y trade dollars).
-
-Step 2: the company contributes an equivalent amount in Australian currency as an employer superannuation contribution to the SMSF (X + Y dollars) with a view to claiming a tax deduction for the contribution.
-
-Step 3: the SMSF uses the amount of the contribution (X + Y dollars) to purchase P units from the unit trust.
-
-Step 4: the unit trust redeems the units owned by the company for the same amount of Australian currency (X + Y dollars).
-
-The net result of the arrangement is that:
-
-•the SMSF owns units in the unit trust,
+The parties to the arrangement have agreed to take the following steps: Step 1: the company purchases a number of units in the unit trust (P units) using the prescribed ratio of Australian currency and trade dollars (say X dollars and Y trade dollars). Step 2: the company contributes an equivalent amount in Australian currency as an employer superannuation contribution to the SMSF (X + Y dollars) with a view to claiming a tax deduction for the contribution. Step 3: the SMSF uses the amount of the contribution (X + Y dollars) to purchase P units from the unit trust. Step 4: the unit trust redeems the units owned by the company for the same amount of Australian currency (X + Y dollars). The net result of the arrangement is that: •the SMSF owns units in the unit trust,
 •the unit trust has accepted X dollars Australian currency and Y trade dollars in consideration for the issuing of the units, and
-•the company has converted X dollars and Y trade dollars into (X + Y) dollars Australian currency.
-
-The company has also made a superannuation contribution for which it intends to claim an income tax deduction of $(X + Y).
+•the company has converted X dollars and Y trade dollars into (X + Y) dollars Australian currency. The company has also made a superannuation contribution for which it intends to claim an income tax deduction of $(X + Y).
 Reasons for Decision
-Subsection 66(1) of the SISA provides that:
-
-Subject to subsection (2), a trustee or an investment manager of a regulated superannuation fund must not intentionally acquire an asset from a related party of the fund.
-
-Subsection 66(2) of the SISA provides for a number of exceptions to the general rule as follows:
-
-(a)the asset is a listed security acquired at market value; or
+Subsection 66(1) of the SISA provides that: Subject to subsection (2), a trustee or an investment manager of a regulated superannuation fund must not intentionally acquire an asset from a related party of the fund. Subsection 66(2) of the SISA provides for a number of exceptions to the general rule as follows: (a)the asset is a listed security acquired at market value; or
 (b)if the fund is a superannuation fund with fewer than 5 members - the asset is business real property of the related party acquired at market value; or
 (c)the trustee of a regulated superannuation fund acquired the asset under a merger between regulated superannuation funds; or
-(d)the asset is an asset of a kind which the Regulator, by legislative instrument, determines may be acquired by:
-
-(i)any fund; or
-(ii)a class of funds in which the fund is included
-
-Subsection 66(5) of the SISA provides that:
-
-acquire an asset does not include accept money.
-
-As stated in the facts, the units in the unit trust are not listed securities and none of the other exceptions in subsection 66(2) of the SISA apply.
+(d)the asset is an asset of a kind which the Regulator, by legislative instrument, determines may be acquired by: (i)any fund; or
+(ii)a class of funds in which the fund is included Subsection 66(5) of the SISA provides that: acquire an asset does not include accept money. As stated in the facts, the units in the unit trust are not listed securities and none of the other exceptions in subsection 66(2) of the SISA apply.
 Self managed Superannuation Funds Ruling SMSFR 2010/1: the application of subsection 66(1) of the Superannuation industry (Supervision) Act 1993 to the acquisition of an asset by a self managed superannuation fund from a related party (SMSFR 2010/1) gives the Commissioner's views on the application of subsection 66(1) of the SISA.
 SMSFR 2010/1 states that for the purposes of section 66 of the SISA 'acquiring an asset' includes accepting a contribution of an asset (paragraph 13).
-Paragraph 28 of SMSFR 2010/1 also makes it clear that trade dollars are not 'money':
-
-28. It is the Commissioner's view that collectable banknotes or coins, or trade dollars or barter credits, are not money for the purposes of section 66. The acquisition of collectable banknotes or coins, or trade dollars or barter credits, is the acquisition of an asset other than money. The acquisition of such assets by a trustee or investment manager from a related party contravenes subsection 66(1).
-
-It follows that if the SMSF had acquired trade dollars or units in the unit trust from the company (which is a related party), then the trustee of the SMSF would contravene subsection 66(1) of the SISA. This would be the case whether the assets were purchased or accepted as a contribution from the company.
-Subsection 66(3) of the SISA is an anti-avoidance provision that applies to ensure a scheme is not carried out to prevent the application of subsection 66(1) of the SISA:
-
-66(3) Prohibition of avoidance schemes.
-
-A person must not enter into, commence to carry out, or carry out a scheme if the person entered into, commenced to carry out, or carried out the scheme or any part of the scheme with the intention that:
-
-(a)the scheme would result, or be likely to result, in the acquisition of an asset by a trustee or an investment manager of a regulated superannuation fund, where the asset is acquired from a person who has a connection (either direct or indirect through one or more interposed companies, partnerships or trusts) with a related party of the fund; and
-(b)that acquisition would avoid the application of subsection (1) to the fund.
-
-'Scheme' is defined to have a wide meaning in subsection 66(5) of the SISA:
-scheme means:
-
-(a)any agreement, arrangement, understanding, promise or undertaking:
-
-(i)whether express or implied; or
-(ii)whether or not enforceable, or intended to be enforceable, by legal proceedings; and
-
-(b)any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
-
-When we look to see if there is a contravention of subsection 66(3) of the SISA we look at the scheme as a whole and just not at isolated transactions within the scheme. Lock v. FCT [2003] FCA 309; (2003) 52 ATR 575 (Lock) concerned a scheme for superannuation funds to acquire all of the units in a unit trust that had previously acquired land from persons who became members of the funds (at the time of the relevant transactions, subsection 66(1) of the SISA prohibited acquisitions from members or their relatives and did not apply more broadly to acquisitions form related parties).: Goldberg J said at paragraphs 74-75:
-
-74 The applicants' submission that at the time they sold the pieces of land they were not members or trustees of the respective Funds must be considered by reference to the scheme as a whole. Section 66(3) does not focus on particular transactions at particular points of time but rather contemplates consideration of a continuum, a sequence of events, a course of action, a course of conduct. The proscription in s 66(3) is against a person entering into, commencing to carry out, or carrying out, a scheme with the intention that the scheme would result or be likely to result in the acquisition specified in subpara (a) of s 66(3). One does not look at the scheme only at the time the applicants became trustees of each of the Funds or only at the time at which the Funds were respectively constituted. Rather one looks at past, current and prospective acts, circumstances and conduct to determine whether there is a conjoining or coincidence of the relevant intention and an aspect or integer of the scheme at any particular point or points of time with the result that it can be established that there is an acquisition from a relevant person which would avoid the application of s 66(1) to the fund. The proscription is not only against entering into a scheme or commencing to carry it out; it also extends to carrying out a scheme or any part of it.
-
-75 Thus a person who does not have any role in the entering into, or the commencement, of the carrying out of a scheme will be brought within s 66(3) if at a later point of the scheme the person participates in the carrying out of the scheme or any part of it, with the relevant intention contemplated by subparas (a) and (b) of s 66(3).
-
-From the documentation concerning the arrangement in this case it can be concluded that a scheme was entered into by the parties, commencing with the purchase by the company of units in the unit trust using a mixture of cash and trade dollars and concluding with the redemption of those same units for cash with the intention of avoiding the application of subsection 66(1) of the SISA to the fund.
+Paragraph 28 of SMSFR 2010/1 also makes it clear that trade dollars are not 'money': 28. It is the Commissioner's view that collectable banknotes or coins, or trade dollars or barter credits, are not money for the purposes of section 66. The acquisition of collectable banknotes or coins, or trade dollars or barter credits, is the acquisition of an asset other than money. The acquisition of such assets by a trustee or investment manager from a related party contravenes subsection 66(1). It follows that if the SMSF had acquired trade dollars or units in the unit trust from the company (which is a related party), then the trustee of the SMSF would contravene subsection 66(1) of the SISA. This would be the case whether the assets were purchased or accepted as a contribution from the company.
+Subsection 66(3) of the SISA is an anti-avoidance provision that applies to ensure a scheme is not carried out to prevent the application of subsection 66(1) of the SISA: 66(3) Prohibition of avoidance schemes. A person must not enter into, commence to carry out, or carry out a scheme if the person entered into, commenced to carry out, or carried out the scheme or any part of the scheme with the intention that: (a)the scheme would result, or be likely to result, in the acquisition of an asset by a trustee or an investment manager of a regulated superannuation fund, where the asset is acquired from a person who has a connection (either direct or indirect through one or more interposed companies, partnerships or trusts) with a related party of the fund; and
+(b)that acquisition would avoid the application of subsection (1) to the fund. 'Scheme' is defined to have a wide meaning in subsection 66(5) of the SISA:
+scheme means: (a)any agreement, arrangement, understanding, promise or undertaking: (i)whether express or implied; or
+(ii)whether or not enforceable, or intended to be enforceable, by legal proceedings; and (b)any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise. When we look to see if there is a contravention of subsection 66(3) of the SISA we look at the scheme as a whole and just not at isolated transactions within the scheme. Lock v. FCT [2003] FCA 309; (2003) 52 ATR 575 (Lock) concerned a scheme for superannuation funds to acquire all of the units in a unit trust that had previously acquired land from persons who became members of the funds (at the time of the relevant transactions, subsection 66(1) of the SISA prohibited acquisitions from members or their relatives and did not apply more broadly to acquisitions form related parties).: Goldberg J said at paragraphs 74-75: 74 The applicants' submission that at the time they sold the pieces of land they were not members or trustees of the respective Funds must be considered by reference to the scheme as a whole. Section 66(3) does not focus on particular transactions at particular points of time but rather contemplates consideration of a continuum, a sequence of events, a course of action, a course of conduct. The proscription in s 66(3) is against a person entering into, commencing to carry out, or carrying out, a scheme with the intention that the scheme would result or be likely to result in the acquisition specified in subpara (a) of s 66(3). One does not look at the scheme only at the time the applicants became trustees of each of the Funds or only at the time at which the Funds were respectively constituted. Rather one looks at past, current and prospective acts, circumstances and conduct to determine whether there is a conjoining or coincidence of the relevant intention and an aspect or integer of the scheme at any particular point or points of time with the result that it can be established that there is an acquisition from a relevant person which would avoid the application of s 66(1) to the fund. The proscription is not only against entering into a scheme or commencing to carry it out; it also extends to carrying out a scheme or any part of it. 75 Thus a person who does not have any role in the entering into, or the commencement, of the carrying out of a scheme will be brought within s 66(3) if at a later point of the scheme the person participates in the carrying out of the scheme or any part of it, with the relevant intention contemplated by subparas (a) and (b) of s 66(3). From the documentation concerning the arrangement in this case it can be concluded that a scheme was entered into by the parties, commencing with the purchase by the company of units in the unit trust using a mixture of cash and trade dollars and concluding with the redemption of those same units for cash with the intention of avoiding the application of subsection 66(1) of the SISA to the fund.
 The arrangement in this case clearly contemplates two different entities acquiring units in the unit trust - first the company and then the SMSF. The relationship between the trustee and unit holder is a connection between the two parties. Therefore, the trustee of the unit trust has a connection with each unit holder including the company.
 The acquisition by the SMSF of the units from the trustee of the unit trust under the scheme is, therefore, an acquisition of an asset from a person (the trustee of the unit trust) who has a connection with a related party of the fund as the company is a related party of the fund for the purposes of subsection 66(3) of the SISA. But for the scheme there would have been a prohibited acquisition of an asset from the company (either a contribution of trade dollars to the SMSF so that it could acquire units from the unit trust using a mixture of Australian currency and trade dollars, or the sale or contribution of the units to the SMSF by the company after the company had acquired the units using a mixture of Australian currency and trade dollars).
 The participants in the scheme may be liable to prosecution for an offence under subsection 66(4) of the SISA and if found guilty, the contravention is punishable on conviction by imprisonment for a term not exceeding one year The Crimes Act 1914 set out some general rules applying to penalties, including a mechanism for converting a term of imprisonment into a pecuniary penalty in the case of both natural persons and corporations..
 A trustee of an SMSF who commits an offence under the SISA also puts at risk the complying status of the SMSF for tax purposes. In addition to the adverse tax consequences for the SMSF, a contribution to a non-complying superannuation fund is not tax deductible (section 290-75 of the Income Tax Assessment Act 1997).
-Date of decision:
-  18 August 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   section 66
-Income Tax Assessment Act 1997   section 290-75
-Crimes Act 1914   The Act
-
-Case References:
-
-Lock v. FCT    [2003] FCA 309   (2003) 52 ATR 575
-
-Related Public Rulings (including Determinations)
-
-Self managed Superannuation Funds Ruling SMSFR 2010/1
-
-Keywords
-
-Self managed superannuation funds
- SMSF acquisition of assets
-
-Siebel/TDMS Reference Number:
-  1-3DYXIBM; 1-6DOVXC1; 1-FZRSRJG
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  28 October 2011
-
-Date reviewed:
-  7 August 2018
-
-ISSN:
- 1445-2782
+Date of decision: 18 August 2011 Year of income: Year ended 30 June 2011 Legislative References: Superannuation Industry (Supervision) Act 1993 section 66
+Income Tax Assessment Act 1997 section 290-75
+Crimes Act 1914 The Act Case References: Lock v. FCT [2003] FCA 309 (2003) 52 ATR 575 Related Public Rulings (including Determinations) Self managed Superannuation Funds Ruling SMSFR 2010/1 Keywords Self managed superannuation funds SMSF acquisition of assets Siebel/TDMS Reference Number: 1-3DYXIBM; 1-6DOVXC1; 1-FZRSRJG Business Line: Superannuation Date of publication: 28 October 2011 Date reviewed: 7 August 2018 ISSN: 1445-2782

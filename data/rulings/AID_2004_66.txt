@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/66
-==================================================
-
-Income Tax
- Assessability of payment of accumulated foreign-source income of a non resident trust to a resident taxpayer
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of payment of accumulated foreign-source income of a non resident trust to a resident taxpayer FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the resident taxpayer assessable on the payment of accumulated foreign-source income of a non-resident trust under section 99B of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The resident taxpayer is assessable on the payment of accumulated foreign-source income of a non-resident trust under section 99B of the ITAA 1936.
@@ -24,52 +13,10 @@ These amounts had not previously been subject to tax in Australia.
 These amounts are amounts that would be included in assessable income of a resident taxpayer if they were derived by that resident taxpayer.
 Reasons
 Subsection 99B(1) of the ITAA 1936 provides that where, during a year of income, a beneficiary who was a resident at any time during the year is paid a distribution from a trust, or has an amount of trust property applied for their benefit, that amount is to be included in the assessable income of the beneficiary.
-Subsection 99B(2) of the ITAA 1936 modifies the rule in subsection 99B(1) and has the effect that the amount to be included in assessable income under subsection (1) is not to include any amount that represents either:-
-
-• corpus of the trust, but an amount will not be taken to represent corpus to the extent that it is attributable to income derived by the trust which would have been subject to tax had it been derived by a resident taxpayer; or
+Subsection 99B(2) of the ITAA 1936 modifies the rule in subsection 99B(1) and has the effect that the amount to be included in assessable income under subsection (1) is not to include any amount that represents either:- • corpus of the trust, but an amount will not be taken to represent corpus to the extent that it is attributable to income derived by the trust which would have been subject to tax had it been derived by a resident taxpayer; or
 • amounts that would not be included in assessable income of a resident taxpayer if they had been derived by that taxpayer; or
-• amounts that have been or will be included in the assessable income of the beneficiary under section 97 of the ITAA 1936 or have been liable to tax in the hands of the trustee under sections 98, 99 or 99A of the ITAA 1936.
-
-The amounts paid to the resident taxpayer beneficiary represent trust income of a class which is taxable in Australia, but which has not previously been subject to Australian tax in the hands of either the beneficiary or the trustee. None of the exclusions in subsection 99B(2) apply.
+• amounts that have been or will be included in the assessable income of the beneficiary under section 97 of the ITAA 1936 or have been liable to tax in the hands of the trustee under sections 98, 99 or 99A of the ITAA 1936. The amounts paid to the resident taxpayer beneficiary represent trust income of a class which is taxable in Australia, but which has not previously been subject to Australian tax in the hands of either the beneficiary or the trustee. None of the exclusions in subsection 99B(2) apply.
 Therefore, the amounts are assessable to the beneficiary under subsection 99B of the ITAA 1936.
-Date of decision:
-  14 January 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 99B   subsection 99B(1)   subsection 99B(2)   section 97   section 98   section 99   section 99A
-
-Case References:
-
-Traknew Holdings Pty Ltd v. Federal Commissioner of Taxation   (1991) 21 ATR 1478   91 ATC 4272
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 96/12
+Date of decision: 14 January 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 99B subsection 99B(1) subsection 99B(2) section 97 section 98 section 99 section 99A Case References: Traknew Holdings Pty Ltd v. Federal Commissioner of Taxation (1991) 21 ATR 1478 91 ATC 4272 Related Public Rulings (including Determinations) Taxation Ruling TR 96/12
 Taxation Ruling TR 2003/9
-Taxation Ruling TR 2003/6
-
-Other References:
-
- Explanatory Memorandum to Income Tax Assessment Amendment Bill (No. 5) 1978
-
-Keywords
-
-Residence in Australia
- Non residents trust
- Trust distributions
-
-Siebel/TDMS Reference Number:
-  3288494
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 January 2004
-
-ISSN:
- 1445-2782
+Taxation Ruling TR 2003/6 Other References: Explanatory Memorandum to Income Tax Assessment Amendment Bill (No. 5) 1978 Keywords Residence in Australia Non residents trust Trust distributions Siebel/TDMS Reference Number: 3288494 Business Line: Public Groups and International Date of publication: 23 January 2004 ISSN: 1445-2782

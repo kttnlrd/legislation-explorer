@@ -1,21 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1083
-==================================================
-
-Income Tax
- Exemption with progression: whether dependant allowance amounts deductible under Hong Kong tax law are included in 'notional gross tax' and 'notional gross taxable income'
-
-This ATO ID is withdrawn. It contains a view in respect of a provision of the Income Tax Assessment Act 1936 that was changed with application from the 2009-10 income year and will have limited utility post that point given the restrictions imposed as a result of the change. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2008-09 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Exemption with progression: whether dependant allowance amounts deductible under Hong Kong tax law are included in 'notional gross tax' and 'notional gross taxable income' This ATO ID is withdrawn. It contains a view in respect of a provision of the Income Tax Assessment Act 1936 that was changed with application from the 2009-10 income year and will have limited utility post that point given the restrictions imposed as a result of the change. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2008-09 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are dependant allowance amounts, which an Australian resident taxpayer is entitled to deduct from assessable income under the Hong Kong Inland Revenue Ordinance (IRO), taken into account in working out 'notional gross tax' and 'notional gross taxable income' under subsection 23AG(3) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. Dependant allowance amounts, which an Australian resident taxpayer is entitled to deduct from assessable income under the Hong Kong IRO, are not taken into account in working out 'notional gross tax' and 'notional gross taxable income' under subsection 23AG(3) of the ITAA 1936.
@@ -29,79 +15,24 @@ The amount of the dependant allowance was deducted from the assessable foreign e
 The dependant allowance amount deducted does not relate to an amount that was incurred by the taxpayer in gaining or producing the foreign earnings.
 The dependant allowance amount is granted to all individual taxpayers who are subject to tax in Hong Kong and who meet eligibility requirements for the allowance.
 Reasons for Decision
-Subsection 23AG(3) of the ITAA 1936 provides that where the income of a taxpayer of a year of income consists of an amount that is exempt from tax under section 23AG (the 'exempt amount') and other income, the amount of tax (if any) payable in respect of the other income is calculated using the formula:
-
-(Notional gross tax / Notional gross taxable income) * Other taxable income
-
-"Notional gross tax" means the number of whole dollars in the amount of income tax that would be assessed under this Act in respect of the taxpayer's taxable income of the year of income if:
-
-(a) the exempt amount were not exempt income; and
+Subsection 23AG(3) of the ITAA 1936 provides that where the income of a taxpayer of a year of income consists of an amount that is exempt from tax under section 23AG (the 'exempt amount') and other income, the amount of tax (if any) payable in respect of the other income is calculated using the formula: (Notional gross tax / Notional gross taxable income) * Other taxable income "Notional gross tax" means the number of whole dollars in the amount of income tax that would be assessed under this Act in respect of the taxpayer's taxable income of the year of income if: (a) the exempt amount were not exempt income; and
 (aa) if the exempt amount is a payment covered by section 83-240 or 305-65 of the Income Tax Assessment Act 1997 - the exempt amount (excluding any part of that amount that represented contributions made by the taxpayer) were assessable income of the taxpayer; and
-(b) the taxpayer were not entitled to any rebate of tax.
-
-"Notional gross taxable income" means the number of whole dollars in the amount that would have been the taxpayer's taxable income of the year of income if the exempt amount were not exempt income.
-
-Central to the meaning of these two terms is the calculation of an amount that would have been the taxpayer's taxable income of the year of income if the exempt amount were not exempt income.
+(b) the taxpayer were not entitled to any rebate of tax. "Notional gross taxable income" means the number of whole dollars in the amount that would have been the taxpayer's taxable income of the year of income if the exempt amount were not exempt income. Central to the meaning of these two terms is the calculation of an amount that would have been the taxpayer's taxable income of the year of income if the exempt amount were not exempt income.
 The term 'taxable income' is defined in subsection 6(1) of the ITAA 1936 to have the same meaning as in the Income Tax Assessment Act 1997 (ITAA 1997). Subsection 995-1(1) of the ITAA 1997 defines taxable income as having the meaning given by section 4-15 of the ITAA 1997.
 Section 4-15 of the ITAA 1997 states that taxable income is assessable income less deductions.
 Subsection 995-1(1) of the ITAA 1997 defines a deduction as an amount that you can deduct. The term 'deduct' is further defined by subsection 995-1(1) of the ITAA 1997 as having the meaning given by sections 8-1 and 8-5 of the ITAA 1997.
-Section 8-1 of the ITAA 1997 states that you can deduct from your assessable income any loss or outgoing to the extent that:
-
-(a) it is incurred in gaining or producing your assessable income; or
-(b) it is necessarily incurred in carrying on a business for the purpose of gaining or producing your assessable income.
-
-Section 8-5 of the ITAA 1997 further provides that you can deduct from your assessable income an amount that a provision of the ITAA 1997 (outside Division 8) allows you to deduct.
+Section 8-1 of the ITAA 1997 states that you can deduct from your assessable income any loss or outgoing to the extent that: (a) it is incurred in gaining or producing your assessable income; or
+(b) it is necessarily incurred in carrying on a business for the purpose of gaining or producing your assessable income. Section 8-5 of the ITAA 1997 further provides that you can deduct from your assessable income an amount that a provision of the ITAA 1997 (outside Division 8) allows you to deduct.
 A dependant allowance amount to which the taxpayer is entitled under the Hong Kong IRO is not an amount that has been incurred by the taxpayer in gaining or producing the foreign earnings. Further, there are no provisions in the ITAA 1936 or ITAA 1997 that would allow the taxpayer to deduct the dependant allowance.
 Accordingly, a dependant allowance amount to which the taxpayer is entitled under the Hong Kong IRO is not taken into account for the purposes of working out the taxpayer's 'notional gross tax' or 'notional gross taxable income' under subsection 23AG(3) of the ITAA 1936.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-8 January 2016
+Comment 8 January 2016
 All parts
-Amended to correct spelling and grammar.
-
-Reasons for decision
-Updated legislation.
-
-Date of decision:
-  13 November 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 23AG   subsection 23AG(1)   subsection 23AG(3)
-Income Tax Assessment Act 1997   section 4-15   Division 8   section 8-1   section 8-5   subsection 995-1(1)
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  28 November 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 November 2003
-Original statement
-
- 
- 8 January 2016
-Updated statement
-
-You are here
+Amended to correct spelling and grammar. Reasons for decision
+Updated legislation. Date of decision: 13 November 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 23AG subsection 23AG(1) subsection 23AG(3)
+Income Tax Assessment Act 1997 section 4-15 Division 8 section 8-1 section 8-5 subsection 995-1(1) Business Line: Small Business/Individual Taxpayers Date of publication: 28 November 2003 ISSN: 1445-2782 history Date: Version: 13 November 2003
+Original statement 8 January 2016
+Updated statement You are here
 19 April 2018
 Archived

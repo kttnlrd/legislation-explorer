@@ -1,99 +1,22 @@
 ATO Interpretative Decision
 ATO ID 2004/939
-==================================================
-
-Income tax
- Consolidation - Cancelling the transfer of a group loss
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Where a company (the new head company) acquires the head company of a consolidated group (the former head company) and tax losses, as set out in the table below, are transferred from the former head company, can the new head company choose to cancel the transfer of the group loss under subsection 707-145(1) of the Income Tax Assessment Act 1997 (ITAA 1997) without it resulting in the cancellation of the transfer of any of the previously transferred losses?
-
-Tax losses
-Description
-
-Previously transferred losses
-The tax losses transferred to the former head company at the time it elected to form a consolidated group ("the formation time").
-
-Group loss
-The tax loss incurred by the former head company for the non-membership period commencing at formation time and ending just before the time the former head company becomes a subsidiary member of the consolidated group headed by the new head company.
-
-Decision
+================================================== Income tax Consolidation - Cancelling the transfer of a group loss FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Where a company (the new head company) acquires the head company of a consolidated group (the former head company) and tax losses, as set out in the table below, are transferred from the former head company, can the new head company choose to cancel the transfer of the group loss under subsection 707-145(1) of the Income Tax Assessment Act 1997 (ITAA 1997) without it resulting in the cancellation of the transfer of any of the previously transferred losses? Tax losses
+Description Previously transferred losses
+The tax losses transferred to the former head company at the time it elected to form a consolidated group ("the formation time"). Group loss
+The tax loss incurred by the former head company for the non-membership period commencing at formation time and ending just before the time the former head company becomes a subsidiary member of the consolidated group headed by the new head company. Decision
 Yes. The transfer of the group loss can be cancelled under subsection 707-145(1) of the ITAA 1997 without it resulting in the cancellation of the transfer of any of the previously transferred losses.
 Facts
 Big Head Co acquires 100% of the shares in Small Head Co, the head company of another consolidated group.
-At the time Small Head Co joins the Big Head Co consolidated group the following losses are available for transfer to Big Head Co:
-
-•Previously transferred losses: tax losses transferred to Small Head Co when it formed a consolidated group.
-•Group loss: a tax loss incurred by the Small Head Co consolidated group for the non-membership period from the start of the income year to the time Small Head Co joined the Big Head Co consolidated group.
-
-Reasons for Decision
+At the time Small Head Co joins the Big Head Co consolidated group the following losses are available for transfer to Big Head Co: •Previously transferred losses: tax losses transferred to Small Head Co when it formed a consolidated group.
+•Group loss: a tax loss incurred by the Small Head Co consolidated group for the non-membership period from the start of the income year to the time Small Head Co joined the Big Head Co consolidated group. Reasons for Decision
 Section 707-145 of the ITAA 1997 allows a head company a choice to cancel the transfer of a loss. When the choice is exercised, section 707-150 of the ITAA 1997 operates to prevent the loss being utilised by any entity for an income year ending after the joining time.
-The Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002 (EM) clearly indicates that the cancellation can be made on a loss by loss basis. At paragraph 8.71 the EM states:
-
-A head company can choose to cancel the transfer of a loss. The choice is made on a loss by loss (as opposed to bundle by bundle) basis.
-
-Additionally, paragraph 8.72 of the EM states:
-
-A head company may choose to cancel a loss to:
-
-•avoid adjusting the available fractions for its existing loss bundles under adjustment event 3 (though it would need to cancel all its incoming losses to achieve this); or
-•achieve a better outcome under adjustment event 2 which caps available fractions when both group and previously transferred losses are transferred.
-
-The second bullet point explains that the cancellation of the transfer of a loss is to achieve a better outcome when a group loss and previously transferred losses are transferred at the same joining time. If it was not possible to cancel the transfer of an individual loss, then this intent could not be achieved.
+The Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002 (EM) clearly indicates that the cancellation can be made on a loss by loss basis. At paragraph 8.71 the EM states: A head company can choose to cancel the transfer of a loss. The choice is made on a loss by loss (as opposed to bundle by bundle) basis. Additionally, paragraph 8.72 of the EM states: A head company may choose to cancel a loss to: •avoid adjusting the available fractions for its existing loss bundles under adjustment event 3 (though it would need to cancel all its incoming losses to achieve this); or
+•achieve a better outcome under adjustment event 2 which caps available fractions when both group and previously transferred losses are transferred. The second bullet point explains that the cancellation of the transfer of a loss is to achieve a better outcome when a group loss and previously transferred losses are transferred at the same joining time. If it was not possible to cancel the transfer of an individual loss, then this intent could not be achieved.
 Each loss of a sort that is transferred at a particular time will, as a result of subsection 707-140(1) of the ITAA 1997, be taken to be made by the head company in the year of transfer. A consequence of this provision is that there could be more than one loss of the same sort being made in the same income year. However, each loss maintains its distinct identity as there is no provision that permits pooling of such losses into a single loss.
 A bundle of losses is created by subsection 707-315(1) of the ITAA 1997 whenever a loss of any sort is transferred for the first time (the 'initial transfer time'). The bundle consists of each loss that is transferred under Subdivision 707-A of the ITAA 1997 at the initial transfer time from a joining entity that joins the group at that time, provided the loss had not been transferred under that Subdivision before that time.
-The bundle exists until all losses within that bundle have been fully utilised or otherwise reduced to nil. The note to subsection 707-315(3) of the ITAA 1997 states:
-
-Note: A bundle continues to exist even if the losses in it are transferred again under Subdivision 707-A of the ITAA 1997 after the initial transfer time.
-
-This confirms that losses continue to stay in their original bundle regardless of whether the head company to which they were first transferred subsequently joins another consolidated group and that they retain their separate identities.
-This analysis is supported by paragraph 8.9 of the EM:
-
-Loss bundles are formed when losses are transferred to a group for the first time by the entity that actually made them. All of the losses transferred by the entity that actually made them constitute a single
- bundle
- of losses. A loss bundle remains intact if it is transferred again.
-
-The group loss transferred from Small Head Co will constitute a separate bundle that comes into existence upon its transfer to Big Head Co. The two bundles may contain losses that, as a result of section 707-140 of the ITAA 1997, are taken to have been incurred in the same income year as losses contained in other bundles of Big Head Co. There is no 'pooling' of any of these losses between or within the two bundles.
+The bundle exists until all losses within that bundle have been fully utilised or otherwise reduced to nil. The note to subsection 707-315(3) of the ITAA 1997 states: Note: A bundle continues to exist even if the losses in it are transferred again under Subdivision 707-A of the ITAA 1997 after the initial transfer time. This confirms that losses continue to stay in their original bundle regardless of whether the head company to which they were first transferred subsequently joins another consolidated group and that they retain their separate identities.
+This analysis is supported by paragraph 8.9 of the EM: Loss bundles are formed when losses are transferred to a group for the first time by the entity that actually made them. All of the losses transferred by the entity that actually made them constitute a single bundle of losses. A loss bundle remains intact if it is transferred again. The group loss transferred from Small Head Co will constitute a separate bundle that comes into existence upon its transfer to Big Head Co. The two bundles may contain losses that, as a result of section 707-140 of the ITAA 1997, are taken to have been incurred in the same income year as losses contained in other bundles of Big Head Co. There is no 'pooling' of any of these losses between or within the two bundles.
 Big Head Co can choose to cancel the transfer of the group loss without affecting the transfer of any of the previously transferred losses.
-Date of decision:
-  5 November 2004
-
-Year of income:
-  Year ended 31 March 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subdivision 707-A   section 707-120   section 707-140   section 707-145   section 707-150   section 707-315
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002
-
-Keywords
-
-Bundle of losses
- Consolidation
- Consolidation - losses
- Group losses
- Transfer of losses
- Transferred losses
- Available fraction
-
-Siebel/TDMS Reference Number:
-  4246633
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  26 November 2004
-
-ISSN:
- 1445-2782
+Date of decision: 5 November 2004 Year of income: Year ended 31 March 2005 Legislative References: Income Tax Assessment Act 1997 subdivision 707-A section 707-120 section 707-140 section 707-145 section 707-150 section 707-315 Other References: Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002 Keywords Bundle of losses Consolidation Consolidation - losses Group losses Transfer of losses Transferred losses Available fraction Siebel/TDMS Reference Number: 4246633 Business Line: Consolidation Centre of Expertise Date of publication: 26 November 2004 ISSN: 1445-2782

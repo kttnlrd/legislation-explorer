@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/250
-==================================================
-
-Income Tax
- Employee Share Scheme: Market valuation of unlisted rights, Table 1 percentage
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Employee Share Scheme: Market valuation of unlisted rights, Table 1 percentage FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a taxpayer use the lower Table 1 percentage under subsection 139FM(1) of the Income Tax Assessment Act 1936 (ITAA 1936), to calculate the market value of an unlisted right acquired under an employee share scheme, where the calculation percentage or exercise period is the top of one range and the bottom of another range in that table?
 Decision
 Yes. The note at the end of section 139FN of the ITAA 1936 provides that the lower Table 1 percentage under subsection 139FM(1) of the ITAA 1936 is used where the calculation percentage or exercise period falls within two ranges of that table.
@@ -27,35 +16,4 @@ Sections 139FJ to 139FN of the ITAA 1936 provides the method for calculating the
 Where the calculation percentage determined under subsection 139FK(1) of the ITAA 1936 is equal to or greater than 50% but less than 110%, section 139FL of the ITAA 1936 provides that Table 1 in subsection 139FM(1) is to be used to work out the market value of the right.
 The market value is calculated by selecting the percentage (Table 1 percentage) that corresponds to the period in months from the valuation day until the last day on which the right may be exercised and the calculation percentage. The Table 1 percentage is then multiplied by the amount or lowest amount that must be paid to exercise the right to determine the market value.
 If the exercise period or the calculation percentage is in the top of one range and also the bottom of another range in Table 1, the note at the end of section 139FN of the ITAA 1936 states that the Table 1 percentage is taken to be in the lower range and not in the higher range.
-The taxpayer will therefore use the lower range to determine the Table 1 percentage for calculating the market value of the right on the valuation day where either the calculation percentage or the exercise period is in two ranges.
-
-Note: The above concepts, where applicable, equally apply to Table 2 in subsection 139FN(1) of the ITAA 1936.
-
-Date of decision:
-  21 September 2001
-
-Year of income:
-  30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 139CB(1)   subsection 139CC(2)   subsection 139CC(4)   section 139E   section 139F   section 139FJ   subsection 139FK(1)   section 139FL   subsection 139FM(1)   section 139FN   subsection 139FN(1)
-
-Keywords
-
-Employee share schemes & options
-
-Siebel/TDMS Reference Number:
-  DW291299
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  22 March 2002
-
-Date reviewed:
-  5 May 2014
-
-ISSN:
- 1445-2782
+The taxpayer will therefore use the lower range to determine the Table 1 percentage for calculating the market value of the right on the valuation day where either the calculation percentage or the exercise period is in two ranges. Note: The above concepts, where applicable, equally apply to Table 2 in subsection 139FN(1) of the ITAA 1936. Date of decision: 21 September 2001 Year of income: 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 139CB(1) subsection 139CC(2) subsection 139CC(4) section 139E section 139F section 139FJ subsection 139FK(1) section 139FL subsection 139FM(1) section 139FN subsection 139FN(1) Keywords Employee share schemes & options Siebel/TDMS Reference Number: DW291299 Business Line: Private Groups and High Wealth Individuals Date of publication: 22 March 2002 Date reviewed: 5 May 2014 ISSN: 1445-2782

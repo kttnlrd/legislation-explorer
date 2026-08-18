@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/195
-==================================================
-
-Income Tax
- Interest Withholding Tax Exemption: novation of revolving credit facility - public offer test
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest Withholding Tax Exemption: novation of revolving credit facility - public offer test FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the issue of a debt interest arising through the novation of an existing debt interest under a revolving credit facility satisfy the public offer test under paragraph 128F(3)(a) of the Income Tax Assessment Act 1936 (ITAA 1936) where the existing debt interests issued under the facility satisfy the public offer test?
 Decision
 Yes. The issue of a debt interest arising through the novation of an existing debt interest under a revolving credit facility will satisfy the public offer test under paragraph 128F(3)(a) of the ITAA 1936 where the existing debt interests issued under the facility satisfy the public offer test.
@@ -20,64 +9,18 @@ Facts
 A borrower company (borrower) intends to enter into a 'revolving credit facility' (the facility).
 The borrower will approach more than ten independent banks to request them to form a syndicate to lend funds to the borrower.
 The lenders will commit to advance funds up to their agreed limit.
-The terms of the agreement will provide for a three year revolving credit facility, involving:
-
-•staged draw downs, as the amount of the facility may not be initially fully drawn down
+The terms of the agreement will provide for a three year revolving credit facility, involving: •staged draw downs, as the amount of the facility may not be initially fully drawn down
 •allowance for redraws whereby the borrower can repay amounts and make further draw downs, and
-•allowance for a revolving facility where a stated amount is borrowed, repaid and then borrowed again.
-
-A new bank (transferee bank) can join the syndicate where a lender wishes to subsequently transfer their rights, benefit and obligations under the revolving credit facility via novation to the transferee.
+•allowance for a revolving facility where a stated amount is borrowed, repaid and then borrowed again. A new bank (transferee bank) can join the syndicate where a lender wishes to subsequently transfer their rights, benefit and obligations under the revolving credit facility via novation to the transferee.
 The borrower will be a resident of Australia both at the time it issues the debt interests under the facility and at the time interest is paid under the facility. The lenders and transferee banks will be non-residents of Australia for the purposes of sub-section 6(1) of the ITAA 1936.
 It will not be known nor suspected by the borrower that there is any direct or indirect association between the borrower, the lenders and transferee banks, at the time of the offer and the time of issue of each debt interest under the facility agreement.
 The original offer to the revolving credit facility will satisfy the public offer test under paragraph 128F(3)(a) of the ITAA 1936.
 Reasons for Decision
-Paragraph 128F(3)(a) of the ITAA 1936 provides that the public offer test will be satisfied if the issue by the company resulted from the debenture or debt interest being offered for issue to at least 10 persons, each of whom:
-
-•was carrying on a business of providing finance, or investing or dealing in securities in the course of operating in financial markets; and
-•was not known, or suspected, by the company to be an associate of any of those other persons.
-
-To satisfy the public offer test, it is necessary that the issue of debentures or debt interest must have 'resulted from' the debenture or debt interest being 'offered for issue'.
+Paragraph 128F(3)(a) of the ITAA 1936 provides that the public offer test will be satisfied if the issue by the company resulted from the debenture or debt interest being offered for issue to at least 10 persons, each of whom: •was carrying on a business of providing finance, or investing or dealing in securities in the course of operating in financial markets; and
+•was not known, or suspected, by the company to be an associate of any of those other persons. To satisfy the public offer test, it is necessary that the issue of debentures or debt interest must have 'resulted from' the debenture or debt interest being 'offered for issue'.
 Tax Determination TD 1999/8 states that subsection 128F(3) of the ITAA 1936 will be administered on the basis that a debenture will be taken to have 'resulted from' being 'offered for issue' if the debenture otherwise satisfies one of the paragraphs set out in subsection 128F(3). This TD notes that a strict interpretation would not sit comfortably with actual market practice. Therefore the subsection was to be administered on a basis that where debentures were issued to investors who may not have been aware of the debenture announcement or debentures were issued as a result of a reverse enquiry made to the borrower by the investor could still meet the public offer test. To satisfy the public offer test there still needs to be some nexus between the offer and the issue. There is, however, no requirement, within subsection 128F(3), that there has to be a separate offer for each issue of debentures or debt interests.
-Novation according to Windeyer J in Olsson v. Dyson (1969) 120 CLR 365, at p 388 is:
-
-the making of a new contract between a creditor and his debtor in consideration of the extinguishment of the obligations of the old contract: if the new contract is to be fully effective to give enforceable rights or obligations to a third person, he, the third person, must be a party to the novated contract... In that sense "novation" means simply a new contract standing in the place of the old
-
-While the novation of the loan from a lender to a transferee bank will constitute the issuing of a new debt interest under paragraph 128F(a) of the ITAA 1936, the novation still arises from the original credit facility.
+Novation according to Windeyer J in Olsson v. Dyson (1969) 120 CLR 365, at p 388 is: the making of a new contract between a creditor and his debtor in consideration of the extinguishment of the obligations of the old contract: if the new contract is to be fully effective to give enforceable rights or obligations to a third person, he, the third person, must be a party to the novated contract... In that sense "novation" means simply a new contract standing in the place of the old While the novation of the loan from a lender to a transferee bank will constitute the issuing of a new debt interest under paragraph 128F(a) of the ITAA 1936, the novation still arises from the original credit facility.
 As the transfer of the loan under the novation provisions of the facility agreement is based on the original offer documentation, the issue of a debt interest will be taken to have 'resulted from' the debt interest being 'offered for issue'. As such, a transfer under the facility agreement would satisfy the public offer test under paragraph 128F(3)(a) of the ITAA 1936.
-Date of decision:
-  26 July 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   subsection 128F(1)   subsection 128F(3)   paragraph 128F(3)(a)   subsection 128F(6)
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 1999/8
+Date of decision: 26 July 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) subsection 128F(1) subsection 128F(3) paragraph 128F(3)(a) subsection 128F(6) Related Public Rulings (including Determinations) Taxation Determination TD 1999/8
 Taxation Determination TD 1999/9
-Taxation Determination TD 1999/24
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment Act (No 2) 1997
-
-Keywords
-
-Debt interest
- Non resident interest withholding tax
- Withholding tax exemptions
-
-Siebel/TDMS Reference Number:
-  5274960
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 August 2006
-
-ISSN:
- 1445-2782
+Taxation Determination TD 1999/24 Other References: Explanatory Memorandum to the Taxation Laws Amendment Act (No 2) 1997 Keywords Debt interest Non resident interest withholding tax Withholding tax exemptions Siebel/TDMS Reference Number: 5274960 Business Line: Public Groups and International Date of publication: 4 August 2006 ISSN: 1445-2782

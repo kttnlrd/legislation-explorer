@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/172
-==================================================
-
-Superannuation
- Self-managed superannuation fund: limited recourse borrowing arrangement - joint investors
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Self-managed superannuation fund: limited recourse borrowing arrangement - joint investors FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Did the trustees of two self-managed superannuation funds (SMSFs) who jointly borrowed under a limited recourse borrowing arrangement involving a single holding trust, contravene subsection 67(1) of the Superannuation Industry (Supervision) Act 1993 (SISA)?
 Decision
 Yes, because the arrangement, entered into before 7 July 2010, did not meet the requirements of former subsection 67(4A) of the SISA.
@@ -24,9 +11,7 @@ Under the arrangement, legal title to a residential property is acquired by the 
 The property is mortgaged to the lender.
 Each SMSF trustee is an equal beneficiary of the holding trust and is entitled to an equal share of the income of the trust.
 Each SMSF trustee has repayment obligations. It is a term of the arrangement that in the event of a default by either of the SMSF trustees the arrangement is terminated. On termination the property is sold with any excess proceeds, after meeting the obligations to the lender and other costs of the arrangement, returned to the investors. The lender has no recourse other than to the real property in the arrangement.
-On completion of the arrangement (repayment of the borrowing), the SMSF trustees acquire joint legal title to the real property held as tenants in common.
-
-Reasons for Decision
+On completion of the arrangement (repayment of the borrowing), the SMSF trustees acquire joint legal title to the real property held as tenants in common. Reasons for Decision
 Regulated superannuation funds are generally prohibited from borrowing money or maintaining a borrowing of money by subsection 67(1) of the SISA unless the borrowing satisfies one of the exceptions provided for by section 67 of the SISA. One such exception is provided for by former subsection 67(4A) of the SISA (applying to limited recourse borrowing arrangements entered into before 7 July 2010).
 Former subsection 67(4A) of the SISA requires an arrangement with a structure that meets the conditions listed in former paragraphs 67(4A)(a) to (e) of the SISA. Former paragraphs 67(4A)(a) and (b) require that under the arrangement the original asset or its replacement is held on trust and that the SMSF trustee must have acquired a beneficial interest in that asset.
 Former paragraph 67(4A)(c) of the SISA further requires that the SMSF trustee must have the right to acquire legal ownership of that asset on making one or more payments. This requires a structure where the investor has an interest through the holding trust in the trust asset ultimately to be acquired by the SMSF trustee under the arrangement.
@@ -34,55 +19,11 @@ In this particular arrangement, the asset held by the holding trust is sole titl
 The arrangement fails to meet the test in former paragraphs 67(4A)(a) and (b) of the SISA because the interest ultimately to be acquired as a tenant in common with the other SMSF trustee is not the same interest that is acquired and held on trust by the holding trust trustee.
 The arrangement also fails to meet the requirements of former paragraph 67(4A)(c) of the SISA because the SMSF trustee does not have a right to acquire sole legal ownership of the asset held in the holding trust (whole property) on making one or more payments. Rather, the SMSF trustee has a right, contingent on repayment of the borrowings by both investors, to acquire legal ownership of a partial interest in the property held as tenants in common with the other investor.
 The decision would be the same under section 67A of the SISA for an arrangement entered into on or after 7 July 2010.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-13 March 2015
+Comment 13 March 2015
 Reason for Decision
-Amend wording to better reflect the wording within the legislation
-
-Date of decision:
-  15 July 2010
-
-Year of income:
-  Year ended 30June 2009
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   subsection 67(1)   former subsection 67(4A)   section 67A
-
-Keywords
-
-Self managed superannuation funds
- SMSF borrowings
-
-Siebel/TDMS Reference Number:
-  1-1WISSK2; 1-6CW08QB
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  24 September 2010
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-15 July 2010
-Original statement
-
-You are here
+Amend wording to better reflect the wording within the legislation Date of decision: 15 July 2010 Year of income: Year ended 30June 2009 Legislative References: Superannuation Industry (Supervision) Act 1993 subsection 67(1) former subsection 67(4A) section 67A Keywords Self managed superannuation funds SMSF borrowings Siebel/TDMS Reference Number: 1-1WISSK2; 1-6CW08QB Business Line: Superannuation Date of publication: 24 September 2010 ISSN: 1445-2782 history Date: Version: 15 July 2010
+Original statement You are here
 13 March 2015
 Updated statement

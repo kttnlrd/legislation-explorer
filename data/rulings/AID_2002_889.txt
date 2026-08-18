@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/889
-==================================================
-
-Income Tax
- Capital gains tax -share value shifting
- FOI status: may be released
-
-This ATO ID is withdrawn because it is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax -share value shifting FOI status: may be released This ATO ID is withdrawn because it is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will CGT event G2 in section 104-140 of the Income Tax Assessment Act 1997 (ITAA 1997) happen, if a company, which has 3 equal shareholders, issues additional shares at a discount to a new shareholder who will subsequently own 50 per cent of the issued shares in the company?
 Decision
 No. CGT event G2 in section 104-140 of the ITAA 1997 does not happen when the company issues the additional shares at a discount to a new shareholder who will subsequently own 50 per cent of the issued shares in the company.
@@ -25,67 +10,18 @@ The company was incorporated after 20 September 1985. Currently there are three 
 Under a proposed arrangement the company will issue additional shares to a natural person (the new shareholder) who does not currently own shares in the company. The number of new shares to be issued will result in the new shareholder owning 50 per cent of all the issued shares in the company.
 The new shareholder is not an 'associate' of any of the current shareholders.
 Reasons for Decision
-The issue of additional shares in a company may result in CGT event G2 (in section 104-140 of the ITAA 1997) happening if the following three conditions are met:
-
-•a share value shift occurs under a scheme involving a company and an entity (or the entity's associate); and
+The issue of additional shares in a company may result in CGT event G2 (in section 104-140 of the ITAA 1997) happening if the following three conditions are met: •a share value shift occurs under a scheme involving a company and an entity (or the entity's associate); and
 •the entity is a 'controller' (for CGT purposes) of the company at any time from when the scheme is entered into to when it has been implemented; and
-•there is a material decrease in the market value of a share in the company that is owned by the entity or the entity's associate.
-
-Section 140-20 of the ITAA 1997 specifies when an entity is a 'controller' for the purposes of CGT event G2. An entity is a controller of a company if:
-
-•it holds an 'associate-inclusive control interest' in the company of at least 50 per cent;
+•there is a material decrease in the market value of a share in the company that is owned by the entity or the entity's associate. Section 140-20 of the ITAA 1997 specifies when an entity is a 'controller' for the purposes of CGT event G2. An entity is a controller of a company if: •it holds an 'associate-inclusive control interest' in the company of at least 50 per cent;
 •it holds an 'associate-inclusive control interest' in the company of at least 40 per cent and no other entity controls the company; or
-•it controls the company.
-
-The meaning of 'associate inclusive control interest' for the purpose of section 140-22 of the ITAA 1997 is the aggregate of the direct and indirect control interests held by the entity and the entity's associates.
-Subsection 318(1) of the Income Tax Assessment Act 1936 lists the following as 'associates' of a natural person:
-
-•a relative;
+•it controls the company. The meaning of 'associate inclusive control interest' for the purpose of section 140-22 of the ITAA 1997 is the aggregate of the direct and indirect control interests held by the entity and the entity's associates.
+Subsection 318(1) of the Income Tax Assessment Act 1936 lists the following as 'associates' of a natural person: •a relative;
 •a partner or partnership in which the person is a partner;
 •a trustee of a trust estate under which the person or an associate benefits or is capable of benefiting; and
-•a company under the control of the person and/or associates or whose directors act in accordance with the directions, instructions or wishes of the person and/or associates.
-
-The company has three unrelated individual shareholders whose 'associate inclusive control interest' in the company is, currently, 33.3 per cent each. When the additional shares are issued, that interest will be reduced and the new shareholder will have a 50 per cent interest in the company. Therefore, the new shareholder will be a 'controller' of the company immediately after the shares are issued.
+•a company under the control of the person and/or associates or whose directors act in accordance with the directions, instructions or wishes of the person and/or associates. The company has three unrelated individual shareholders whose 'associate inclusive control interest' in the company is, currently, 33.3 per cent each. When the additional shares are issued, that interest will be reduced and the new shareholder will have a 50 per cent interest in the company. Therefore, the new shareholder will be a 'controller' of the company immediately after the shares are issued.
 However, for CGT event G2 to happen, there must be a material decrease in the market value of a share in the company that is owned by the controller or associate (paragraph 104-140(1)(c) of the ITAA 1997). The shares owned by the 'controller' of the company (ie the new shareholder) will not decrease in value. None of the other shareholders in the company are associates of the new shareholder. Therefore, CGT event G2 will not happen as a result of the issue of additional shares.
-Date of decision:
-  5 July 2002
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-140   section 140-20   section 140-22
-Income Tax Assessment Act 1936   subsection 318(1)
-
-Keywords
-
-Capital gains tax
- CGT events
- CGT events G1 -G3 -shares
- CGT share valuing shifting arrangements
-
-Business Line:
-  OCTC
-
-Date of publication:
-  31 August 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 July 2002
-Original statement
-
-You are here
+Date of decision: 5 July 2002 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 104-140 section 140-20 section 140-22
+Income Tax Assessment Act 1936 subsection 318(1) Keywords Capital gains tax CGT events CGT events G1 -G3 -shares CGT share valuing shifting arrangements Business Line: OCTC Date of publication: 31 August 2002 ISSN: 1445-2782 history Date: Version: 5 July 2002
+Original statement You are here
 30 June 2006
 Archived

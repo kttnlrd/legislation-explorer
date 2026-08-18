@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/9
-==================================================
-
-Income Tax
- Capital gains tax: scrip for scrip roll-over - Delaware limited partnerships
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: scrip for scrip roll-over - Delaware limited partnerships FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is scrip for scrip roll-over under Subdivision 124-M of the Income Tax Assessment Act 1997 (ITAA 1997) available for the exchange of interests in a Delaware Limited Partnership (DLP) formed under the Delaware Revised Uniform Limited Partnership Act (Del.) for interests in another DLP?
 Decision
 Yes. Scrip for scrip roll-over under Subdivision 124-M of the ITAA 1997 is available for the exchange of interests in a DLP for interests in another DLP provided the conditions in the Subdivision are satisfied.
@@ -31,58 +20,17 @@ Under section 94J of the ITAA 1936, a reference in the ITAA 1936 or ITAA 1997 to
 Therefore, for the purposes of the ITAA 1936 and ITAA 1997, DLP A and DLP B are treated as a company and/or body corporate and interests in them as shares.
 Accordingly, the exchange of interests in DLP A by the Australian resident holder for interests in DLP B can be considered as an exchange of shares in a company for shares in another company for the purposes of subparagraph 124-780(1)(a)(i) of the ITAA 1997.
 However, the conditions for scrip for scrip roll-over specified in paragraphs 124-780(2)(a) and 124-780(2)(b) of the ITAA 1997 relate to voting shares in the original entity.
-Subsection 995-1(1) of the ITAA 1997 defines the term 'voting share' as follows:
-
-Voting share in a company means:
-
-if the company is a body corporate - a voting share as defined by section 9 of the Corporations Act 2001; and
-
-otherwise - a share that would be a voting share as defined by that section if the company were a body corporate.
-
-Accordingly, a reference to a voting share will include a reference to an interest in a corporate limited partnership if the corporate limited partnership was a body corporate and the interest would be a voting share as defined by section 9 of the Corporations Act 2001.
-In specifying the attributes required, section 9 of the Corporations Act 2001 provides that a:
-
-voting share in a body corporate means an issued share in the body that carries any voting rights beyond the following:
-
-(a)a right to vote while a dividend (or part of a dividend) in respect of the share is unpaid;
+Subsection 995-1(1) of the ITAA 1997 defines the term 'voting share' as follows: Voting share in a company means: if the company is a body corporate - a voting share as defined by section 9 of the Corporations Act 2001; and otherwise - a share that would be a voting share as defined by that section if the company were a body corporate. Accordingly, a reference to a voting share will include a reference to an interest in a corporate limited partnership if the corporate limited partnership was a body corporate and the interest would be a voting share as defined by section 9 of the Corporations Act 2001.
+In specifying the attributes required, section 9 of the Corporations Act 2001 provides that a: voting share in a body corporate means an issued share in the body that carries any voting rights beyond the following: (a)a right to vote while a dividend (or part of a dividend) in respect of the share is unpaid;
 (b)a right to vote on a proposal to reduce the body's share capital;
 (c)a right to vote on a resolution to approve the terms of a buy-back agreement;
 (d)a right to vote on a proposal that affects the rights attached to the share;
 (e)a right to vote on a proposal to wind the body up;
 (f)a right to vote on a proposal for the disposal of the whole of the body's property, business and undertaking;
-(g)a right to vote during the body's winding up.
-
-In determining whether interests in a corporate limited partnership can be considered as voting shares, the provisions of Division 5A of Part III of the ITAA 1936 will not alter the attributes of the partnership interests.
+(g)a right to vote during the body's winding up. In determining whether interests in a corporate limited partnership can be considered as voting shares, the provisions of Division 5A of Part III of the ITAA 1936 will not alter the attributes of the partnership interests.
 Consequently, in applying the provisions of the Corporations Act 2001, the interests in the corporate limited partnership must be voting interests and their attributes must entitle the interest holders with voting rights in accordance with the concept of voting shares under section 9 of the Corporations Act 2001.
 In this case, the partnership agreement for DLP A entitles the interest holders with voting rights that are in accordance with the concept of voting shares and the exchange of those interests can therefore be considered as an exchange of voting shares for the purposes of subparagraphs 124-780(2)(a) and 124-780(2)(b) of the ITAA 1997.
 Accordingly, scrip for scrip roll-over under Subdivision 124-M of the ITAA 1997 will be available to the Australian resident holder for the exchange of their interests in DLP A for interests in DLP B provided the other conditions in the Subdivision are satisfied.
-Date of decision:
-  2 September 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 94D   section 94J   section 94P   section 485AA
-Income Tax Assessment Act 1997   Subdivision 124-M   subparagraph 124-780(1)(a)(i)   paragraph 124-780(2)(a)   paragraph 124-780(2)(b)   subsection 995-1(1)
-Corporations Act 2001   section 9
-
-Keywords
-
-Capital gains tax
- Scrip for scrip roll-over
- Exchange of shares
- Limited partnerships
-
-Siebel/TDMS Reference Number:
-  6256001
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 January 2010
-
-ISSN:
- 1445 - 2782
+Date of decision: 2 September 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 section 94D section 94J section 94P section 485AA
+Income Tax Assessment Act 1997 Subdivision 124-M subparagraph 124-780(1)(a)(i) paragraph 124-780(2)(a) paragraph 124-780(2)(b) subsection 995-1(1)
+Corporations Act 2001 section 9 Keywords Capital gains tax Scrip for scrip roll-over Exchange of shares Limited partnerships Siebel/TDMS Reference Number: 6256001 Business Line: Public Groups and International Date of publication: 8 January 2010 ISSN: 1445 - 2782

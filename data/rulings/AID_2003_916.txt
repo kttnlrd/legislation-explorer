@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/916
-==================================================
-
-Income Tax
- Capital gains tax: Demerger - CGT discount
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: Demerger - CGT discount FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 115-30(1) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to change the date of acquisition of a new interest in a demerged entity, if the new interest was acquired without a CGT event happening to an original interest ?
 Decision
 No. Subsection 115-30(1) of the ITAA 1997 only changes the acquisition date for the purposes of testing for eligibility for the CGT discount for an asset acquired as a result of a replacement-asset rollover. The new interest was not acquired as a result of a CGT event happening to an original interest, and so a replacement-asset rollover does not apply.
@@ -24,35 +13,4 @@ Reasons for Decision
 Subsection 115-25(1) of the ITAA 1997 states that a capital gain can only be a discount capital gain where the asset which gave rise to the capital gain was acquired at least twelve months before the relevant CGT event. Table item 2 in subsection 115-30(1) treats a replacement asset, acquired in a replacement-asset rollover, as having been acquired at the time the original asset was acquired.
 The table in section 112-115 of the ITAA 1997 lists all replacement-asset rollovers and includes demergers at item 14C, with reference to Division 125 of the ITAA 1997. Paragraph 125-55(1)(d) of the ITAA 1997 in the demerger relief provisions, states that rollover relief can be chosen if a CGT event happens to your original interests and you acquire a new or replacement interest in the demerged entity.
 A CGT event did not happen to the taxpayer's shares in the head entity (original interests) as a result of the demerger, and so replacement-asset rollover cannot be chosen. The taxpayer acquired the new shares on 1 November 2002 and table item 2 in subsection 115-30(1) of the ITAA 1997 cannot apply to change this date for the purposes of satisfying the twelve month ownership test for the CGT discount.
-Date of decision:
-  17 July 2003
-
-Year of income:
-  30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 112-115   subsection 115-25(1)   subsection 115-30(1)   Division 125   paragraph 125-55(1)(d)
-
-Keywords
-
-Capital gains tax
- CGT discount
- CGT events
- CGT replacement asset roll-over
- Demerged entity
- Demerger
- Demerger group
- Shares
-
-Siebel/TDMS Reference Number:
-  3552333
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  17 October 2003
-
-ISSN:
- 1445-2782
+Date of decision: 17 July 2003 Year of income: 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 112-115 subsection 115-25(1) subsection 115-30(1) Division 125 paragraph 125-55(1)(d) Keywords Capital gains tax CGT discount CGT events CGT replacement asset roll-over Demerged entity Demerger Demerger group Shares Siebel/TDMS Reference Number: 3552333 Business Line: Public Groups and International Date of publication: 17 October 2003 ISSN: 1445-2782

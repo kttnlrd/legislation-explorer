@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/50
-==================================================
-
-Income Tax
- Assessability of foreign branch income derived from New Zealand
- FOI status: may be released
-
-This ATO ID has been withdrawn because the ATO is reviewing the position stated in the ATO ID.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of foreign branch income derived from New Zealand FOI status: may be released This ATO ID has been withdrawn because the ATO is reviewing the position stated in the ATO ID. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the income derived by the taxpayer from a 'substantial equipment' operating lease agreement with a New Zealand resident company not assessable income and not exempt income under subsection 23AH(2) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The income derived by the taxpayer from a 'substantial equipment' operating lease agreement with a New Zealand resident company is not assessable income and not exempt income under subsection 23AH(2) of the ITAA 1936.
@@ -31,81 +16,19 @@ Reasons for Decision
 Subsection 6-5(2) of the Income Tax Assessment Act 1997 (ITAA 1997) provides that the assessable income of a resident taxpayer includes ordinary income derived directly or indirectly from all sources, whether in or out of Australia, during the income year.
 Section 11-55 of the ITAA 1997 lists those provisions dealing with non-assessable non-exempt income. Included in this list is section 23AH of the ITAA 1936 that deals with foreign branch income of Australian companies.
 Subsection 23AH(2) of the ITAA 1936 provides that foreign income derived by a resident company in carrying on a business at or through a permanent establishment in a listed or unlisted country is not assessable income and is not exempt income.
-The definition of 'foreign income' in subsection 23AH(15) of the ITAA 1936 states for present purposes that the term includes an amount that:
-
-•would be assessable income under a provision of the ITAA 1936 or the ITAA 1997, and
-•is derived from sources in a listed or unlisted country.
-
-The term 'listed country' is defined under subsection 23AH(15) of the ITAA 1936 to have the same meaning as in Part X of the ITAA 1936 and New Zealand is a listed country. The lease income derived from New Zealand would normally be assessable income of the taxpayer under subsection 6-5(2) of the ITAA 1997.
+The definition of 'foreign income' in subsection 23AH(15) of the ITAA 1936 states for present purposes that the term includes an amount that: •would be assessable income under a provision of the ITAA 1936 or the ITAA 1997, and
+•is derived from sources in a listed or unlisted country. The term 'listed country' is defined under subsection 23AH(15) of the ITAA 1936 to have the same meaning as in Part X of the ITAA 1936 and New Zealand is a listed country. The lease income derived from New Zealand would normally be assessable income of the taxpayer under subsection 6-5(2) of the ITAA 1997.
 The term 'permanent establishment' in relation to a listed country is defined in subsection 23AH(15) of the ITAA 1936 to have the same meaning as in the tax treaty if Australia has a tax treaty with that country. Therefore it is necessary to consider the New Zealand Agreement contained in the Agreements Act.
 Moreover, in determining liability to Australian tax on foreign sourced income, it is necessary to consider not only the income tax laws but also any applicable tax treaty contained in the Agreements Act. Section 4 of the Agreements Act incorporates that Act with the ITAA 1936 and ITAA 1997 so that those Acts are read as one. The Agreements Act effectively overrides the ITAA 1936 and ITAA 1997 where there are inconsistent provisions (except for some limited situations).
-Article 5 of the New Zealand Agreement deals with permanent establishment. Article 5(4) of the New Zealand agreement provides, among other things, that:
-
-An enterprise shall be deemed to have a permanent establishment in a Contracting State and to carry on business through that permanent establishment if:
-
-.....
-
-c .substantial equipment is being used in that State by, for or under contract with the enterprise
-
-In McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation (2005) 142 FCR 134; 2005 ATC 4398; (2005) 59 ATR 358, the Full Federal Court said referring to similar (but not identical) treaty provisions in the tax treaty between Australia and Singapore:
-
-It is a deeming provision and as such probably operates to deem something to be that which otherwise it might not be. That deeming goes beyond there being a deeming of a permanent establishment. It operates as well to deem the enterprise to be carrying on trade or business through the deemed permanent establishment.
-
-Article 5(4) of the New Zealand Agreement applies to the taxpayer as substantial equipment is being used in New Zealand under a contract with the taxpayer. The taxpayer is also deemed to have a permanent establishment in New Zealand and to carry on business through that deemed permanent establishment.
+Article 5 of the New Zealand Agreement deals with permanent establishment. Article 5(4) of the New Zealand agreement provides, among other things, that: An enterprise shall be deemed to have a permanent establishment in a Contracting State and to carry on business through that permanent establishment if: ..... c .substantial equipment is being used in that State by, for or under contract with the enterprise In McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation (2005) 142 FCR 134; 2005 ATC 4398; (2005) 59 ATR 358, the Full Federal Court said referring to similar (but not identical) treaty provisions in the tax treaty between Australia and Singapore: It is a deeming provision and as such probably operates to deem something to be that which otherwise it might not be. That deeming goes beyond there being a deeming of a permanent establishment. It operates as well to deem the enterprise to be carrying on trade or business through the deemed permanent establishment. Article 5(4) of the New Zealand Agreement applies to the taxpayer as substantial equipment is being used in New Zealand under a contract with the taxpayer. The taxpayer is also deemed to have a permanent establishment in New Zealand and to carry on business through that deemed permanent establishment.
 As subsection 23AH(15) of the ITAA 1936 imports the definition of permanent establishment from the relevant tax treaty, a separate test of 'carrying on business at or through a permanent establishment' under the domestic legislation is not required for the purpose of section 23AH of the ITAA 1936 where the tax treaty provision deems that the taxpayer has a permanent establishment and is carrying on a business through that permanent establishment.
 Paragraph 2.8 of the Explanatory Memorandum (EM) to the New International Tax Arrangements (Participation Exemption and Other Measures) Bill 2004 states that section 23AH of the ITAA 1936 'will allow all foreign branch income, with the possible exception of passive income, derived by Australian companies to be exempt from Australian tax'. Paragraph 2.21 of the EM states that the section 'provides an exemption to a resident company for most foreign income and gains... derived through a permanent establishment in either a listed or unlisted country'. This legislative intention is reflected in the objects of the section in paragraph 23AH(1)(a) of the ITAA 1936 which states that active foreign branch income derived by a resident company is not assessable income or exempt income of the company. The term 'permanent establishment' incorporates the concept of 'foreign branch' used in the EM and paragraph 23AH(1)(a).
 In this case, the taxpayer derives the lease income from the New Zealand resident company, the lessee, in accordance with the terms of the operating lease agreement. The lease income derived by the taxpayer is part and parcel of the taxpayer's broader business. The lessee uses the equipment in New Zealand as part of the lessee's business.
 The income is not passive income as it is derived from business carried on through a permanent establishment in a listed country. As the taxpayer is deemed to have a permanent establishment in New Zealand and is deemed to carry on business through that permanent establishment, the foreign branch income will be subject to the operation of section 23AH of the ITAA 1936.
 Accordingly, the lease income derived by the taxpayer from a 'substantial equipment' operating lease agreement with a New Zealand resident company is non assessable and non exempt income under subsection 23AH(2) of the ITAA 1936.
-Date of decision:
-  15/06/2009
-
-Year of income:
-  Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 23AH   paragraph 23AH(1)(a)   subsection 23AH(2)   subsection 23AH(15)
-Income Tax Assessment Act 1997   subsection 6-5(2)
-International Tax Agreements Act 1953   section 4   Schedule 4   Schedule 4, Article 5(1)   Schedule 4, Article 5(2)   Schedule 4, Article 5(4)(c)   Schedule 4A
-
-Case References:
-
-McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation   (2005) 142 FCR 134   2005 ATC 4398   (2005) 59 ATR 358
-
-Other References:
-
- Explanatory Memorandum to the New International Tax Arrangements (Participation Exemption and Other Measures) Bill 2004
-
-Keywords
-
-Double tax agreements
- New Zealand
- Permanent establishment
- Substantial equipment
- Treaties
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  3 July 2009
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-15 June 2009
-Original statement
-
-You are here
+Date of decision: 15/06/2009 Year of income: Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 section 23AH paragraph 23AH(1)(a) subsection 23AH(2) subsection 23AH(15)
+Income Tax Assessment Act 1997 subsection 6-5(2)
+International Tax Agreements Act 1953 section 4 Schedule 4 Schedule 4, Article 5(1) Schedule 4, Article 5(2) Schedule 4, Article 5(4)(c) Schedule 4A Case References: McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation (2005) 142 FCR 134 2005 ATC 4398 (2005) 59 ATR 358 Other References: Explanatory Memorandum to the New International Tax Arrangements (Participation Exemption and Other Measures) Bill 2004 Keywords Double tax agreements New Zealand Permanent establishment Substantial equipment Treaties Business Line: International Centre of Expertise Date of publication: 3 July 2009 ISSN: 1445-2782 history Date: Version: 15 June 2009
+Original statement You are here
 14 May 2010
 Archived

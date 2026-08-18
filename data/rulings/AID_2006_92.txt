@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/92
-==================================================
-
-Income tax
- Research and development: deduction for 'core technology expenditure' where purchase consideration comprises allotment of shares
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Research and development: deduction for 'core technology expenditure' where purchase consideration comprises allotment of shares FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the term 'core technology expenditure' for the purposes of subsection 73B(1) of the Income Tax Assessment Act 1936 (ITAA 1936) include the acquisition of core technology by an eligible company, where the purchase consideration to acquire the core technology consists of the allotment of shares in the eligible company?
 Decision
 No. The term 'core technology expenditure' for the purposes of subsection 73B(1) of the ITAA 1936 does not include the acquisition of core technology by an eligible company, where the purchase consideration to acquire the core technology consists of the allotment of shares in the eligible company.
@@ -22,63 +11,12 @@ In the 2003-04 income year, the company entered into an agreement to acquire a p
 The consideration given by the eligible company for the patent was an issue of shares in the eligible company to the vendor of the patent. This was a direct exchange under a single agreement. It was not intended, nor was it the case, that the liability to acquire the patent for a particular sum was incurred as a pecuniary liability and subsequently settled by an issue of shares in a separate transaction.
 Reasons for Decision
 Subsection 73B(12A) of the ITAA 1936 states that,
-Subject to this section, if:
-
-(a)an eligible company has, before or during the year of income, incurred core technology expenditure in respect of particular core technology (the relevant core technology) under a contract entered into at or after [5 pm legal time in the Australian Capital Territory, on 23 July 1996]; and
-(b)during the year of income the company incurs research and development expenditure that is related to the relevant core technology
-
-there is allowable as a deduction from the company's assessable income of the year of income so much of the amount worked out using the formula in subsection (12B) in respect of that core technology expenditure as does not exceed one-third of the amount of that related research and development expenditure.
+Subject to this section, if: (a)an eligible company has, before or during the year of income, incurred core technology expenditure in respect of particular core technology (the relevant core technology) under a contract entered into at or after [5 pm legal time in the Australian Capital Territory, on 23 July 1996]; and
+(b)during the year of income the company incurs research and development expenditure that is related to the relevant core technology there is allowable as a deduction from the company's assessable income of the year of income so much of the amount worked out using the formula in subsection (12B) in respect of that core technology expenditure as does not exceed one-third of the amount of that related research and development expenditure.
 The company is an eligible company, as defined by subsection 73B(1) of the ITAA 1936, and the agreement to purchase the patent was entered into after 5 pm legal time in the Australian Capital Territory, on 23 July 1996.
 To meet the requirements of this provision, the company must have incurred 'expenditure' in relation to the core technology consisting of the patent. The question is whether the issue and allotment of shares qualifies as 'expenditure'.
 In Lowry v. Consolidated African Selection Trust Ltd (1940) AC 648; [1940] 2 All ER 544, the House of Lords held that the issue of shares to a company's employees did not involve the company in any expense for the purpose of its trade. Similarly, in Ord Forrest Pty Ltd v. FC of T [1974] 130 CLR 124; (1974) 4 ATR 230; 74 ATC 4034 the High Court found that an allotment of shares by a company does not involve any conveyance or transfer by the company of property of the company.
-In Pilmer v. Duke Group Ltd (in liq) (2001) 207 CLR 165 (the Kia Ora case). McHugh, Gummow, Hayne and Callinan JJ said that:
-
-If attention is confined to the transaction in which Kia Ora did engage, it gave up, or lost, only the money which it outlaid and the opportunity of turning the shares which it did issue to some other more advantageous use in a different transaction. Otherwise it gave nothing up by issuing and allotting the shares (at CLR 192).
-
-. . .
-
-The answer to the inquiry [about what Kia Ora gave up or lost because it made the takeover] must be that Kia Ora outlaid cash and whatever may have been the administrative costs of issuing the shares. If a claim had been made, it may well be that some allowance would be made for the consequential effect on its capacity to raise other equity or debt finance. Otherwise, however, it gave up, or lost nothing by the issue of its shares (at CLR 195).
-
-Therefore, the expense or outlay involved in issuing and allotting shares comprises only the administrative costs of the issue, and not any value placed upon the shares themselves. A commitment by a company to issue and allot its shares is not itself a commitment to any loss, outgoing or expenditure by the company. Nor does the company incur any loss, outgoing or expenditure when it actually issues and allots the shares.
+In Pilmer v. Duke Group Ltd (in liq) (2001) 207 CLR 165 (the Kia Ora case). McHugh, Gummow, Hayne and Callinan JJ said that: If attention is confined to the transaction in which Kia Ora did engage, it gave up, or lost, only the money which it outlaid and the opportunity of turning the shares which it did issue to some other more advantageous use in a different transaction. Otherwise it gave nothing up by issuing and allotting the shares (at CLR 192). . . . The answer to the inquiry [about what Kia Ora gave up or lost because it made the takeover] must be that Kia Ora outlaid cash and whatever may have been the administrative costs of issuing the shares. If a claim had been made, it may well be that some allowance would be made for the consequential effect on its capacity to raise other equity or debt finance. Otherwise, however, it gave up, or lost nothing by the issue of its shares (at CLR 195). Therefore, the expense or outlay involved in issuing and allotting shares comprises only the administrative costs of the issue, and not any value placed upon the shares themselves. A commitment by a company to issue and allot its shares is not itself a commitment to any loss, outgoing or expenditure by the company. Nor does the company incur any loss, outgoing or expenditure when it actually issues and allots the shares.
 The eligible company issued shares to the vendor in consideration for the acquisition of the relevant core technology. This purchase did not involve any expenditure by the company and so the company cannot be said to have incurred an amount of 'core technology expenditure' as required for a deduction under subsection 73B(12A) of the ITAA 1936. Therefore, no deduction is allowable to the company under that subsection, in respect of the value of the shares issued to acquire the core technology.
-However, this is not to deny the existence of a valid contract under which the company has issued its shares for consideration in-kind. This is matched by the consideration in-kind (the patents) to be provided by the shareholder. The effect of this transaction, from the perspective of the company, is that it has acquired an asset for consideration.
-
-Note: Subsection 73B(12C) of the ITAA 1936 does not prevent a deduction being allowable to the company under any other provision of the ITAA 1936 or the Income Tax Assessment Act 1997 (ITAA 1997), because no deduction is allowable to the company under the ITAA 1936 in respect of core technology expenditure. Therefore, the company may, for example, be entitled to claim a deduction equal to the decline in value of the patents for the relevant year of income, if the requirements of Division 40 of the ITAA 1997 are met. However, no concessional deduction is available under section 73BA of the ITAA 1936, because subsection 73BB(1) of the ITAA 1936 excludes intangible assets from the definition of 'section 73BA depreciating asset'.
-
-Date of decision:
-  30 August 2005
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 73B(12A)   subsection 73B(1)   subsection 73B(12C)   section 73B   section 73B(1AB)   section 73BA   section 73BB(1)
- Income Tax Assessment Act 1997   Division 40
-Industry Research and Development (Cth) Act 1986   section 39J
-
-Case References:
-
-Lowry v. Consolidated African Selection Trust Ltd   (1940) AC 648   ([1940] 2 ALL ER 545
-
-Ord Forrest Pty Ltd v. Federal Commissioner of Taxation    Taxation (1974) 130 CLR 124   (1974) 4 ATR 230   74 ATC 4034
-
-Pilmer v. Duke Group (in liq.)   (2001) 207 CLR 165
-
-Keywords
-
-Research and development expenses
- Core technology expenses
- Financial arrangements
-
-Siebel/TDMS Reference Number:
-  4669472
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 March 2006
-
-ISSN:
- 1445-2782
+However, this is not to deny the existence of a valid contract under which the company has issued its shares for consideration in-kind. This is matched by the consideration in-kind (the patents) to be provided by the shareholder. The effect of this transaction, from the perspective of the company, is that it has acquired an asset for consideration. Note: Subsection 73B(12C) of the ITAA 1936 does not prevent a deduction being allowable to the company under any other provision of the ITAA 1936 or the Income Tax Assessment Act 1997 (ITAA 1997), because no deduction is allowable to the company under the ITAA 1936 in respect of core technology expenditure. Therefore, the company may, for example, be entitled to claim a deduction equal to the decline in value of the patents for the relevant year of income, if the requirements of Division 40 of the ITAA 1997 are met. However, no concessional deduction is available under section 73BA of the ITAA 1936, because subsection 73BB(1) of the ITAA 1936 excludes intangible assets from the definition of 'section 73BA depreciating asset'. Date of decision: 30 August 2005 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 73B(12A) subsection 73B(1) subsection 73B(12C) section 73B section 73B(1AB) section 73BA section 73BB(1) Income Tax Assessment Act 1997 Division 40
+Industry Research and Development (Cth) Act 1986 section 39J Case References: Lowry v. Consolidated African Selection Trust Ltd (1940) AC 648 ([1940] 2 ALL ER 545 Ord Forrest Pty Ltd v. Federal Commissioner of Taxation Taxation (1974) 130 CLR 124 (1974) 4 ATR 230 74 ATC 4034 Pilmer v. Duke Group (in liq.) (2001) 207 CLR 165 Keywords Research and development expenses Core technology expenses Financial arrangements Siebel/TDMS Reference Number: 4669472 Business Line: Public Groups and International Date of publication: 31 March 2006 ISSN: 1445-2782

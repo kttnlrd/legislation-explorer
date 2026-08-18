@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/873
-==================================================
-
-Income Tax
- Benchmark Rule: exemption for listed public company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Benchmark Rule: exemption for listed public company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the benchmark rule in section 203-25 of Income Tax Assessment Act 1997 (ITAA 1997) apply to a provisional head company of a Multiple Entry Consolidated Group (MEC group) whose parent is a listed public company on a foreign stock exchange?
 Decision
 No. The benchmark rule in section 203-25 of the ITAA 1997 does not apply because the criteria in paragraph 203-20(1)(b) of the ITAA 1997 is satisfied.
@@ -24,13 +13,9 @@ X Company and other group companies have paid dividends, franked at different pe
 Reasons for Decision
 A corporate tax entity is required by section 203-25 of the ITAA 1997 to frank all frankable distributions made within a particular franking period to the same extent. This is known as the benchmark rule.
 The objective of the benchmark rule is to ensure that a corporate tax entity does not, in the act of franking distributions made by it, demonstrate a preference for some members at the expense of others.
-However, the benchmark rule does not apply to a company where each of the criteria in paragraph 203-20(1)(a) of the ITAA 1997 are satisfied. These criteria are as follows:
-
-(i)at all times during the franking period, the company is a listed public company;
+However, the benchmark rule does not apply to a company where each of the criteria in paragraph 203-20(1)(a) of the ITAA 1997 are satisfied. These criteria are as follows: (i)at all times during the franking period, the company is a listed public company;
 (ii)the company cannot make a distribution on one membership interest during the franking period without making a distribution under the same resolution on all other membership interests;
-(iii)the company cannot frank a distribution made on one membership interest during the franking period without franking distributions made on all other membership interests under the same resolution with a franking credit worked out using the same franking percentage.
-
-X Company is not a listed public company and so does not satisfy paragraph 203-20(1)(a) of the ITAA 1997.
+(iii)the company cannot frank a distribution made on one membership interest during the franking period without franking distributions made on all other membership interests under the same resolution with a franking credit worked out using the same franking percentage. X Company is not a listed public company and so does not satisfy paragraph 203-20(1)(a) of the ITAA 1997.
 However, an entity that is a 100% subsidiary of an entity that satisfies the conditions in paragraph 203-20(1)(a) of the ITAA 1997 will itself qualify for the benchmark rule exclusion under paragraph 203-20(1)(b) of the ITAA 1997.
 X Company is, and has been, a 100% subsidiary of Y Company, under section 975-505 of the ITAA 1997, throughout the relevant franking periods. Therefore, the benchmark rule will not apply to X Company if Y Company satisfies the conditions in paragraph 203-20(1)(a) of the ITAA 1997.
 A listed public company is defined in subsection 995-1(1) of the ITAA 1997, subject to a few exceptions that do not apply in this case, as one whose shares are listed for quotation in the official list of an approved stock exchange. An approved stock exchange is defined in subsection 995-1(1) of the ITAA 1997 by reference to section 470 of the Income Tax Assessment Act 1936, and is a stock exchange named in regulations made for the purposes of the definition. Schedule 12 of the Income Tax Regulations includes the stock exchange on which Y Company is listed. Therefore, Y Company satisfies the criteria in subparagraph 203-20(1)(a)(i) of the ITAA 1997.
@@ -38,31 +23,6 @@ Y Company has a single class of membership interest. Consequently, it will not b
 Y Company, because of residency requirements, will not meet the requirements of paragraph 202-5(a) of the ITAA 1997. Consequently, Y Company will not be able to frank a distribution in respect of one membership interest at a franking percentage that differs from that associated with a distribution on another membership interest as it is an entity that is unable to frank any distributions it makes. Therefore, Y Company satisfies the criteria in subparagraph 203-20(1)(a)(iii) of the ITAA 1997.
 Accordingly, Y Company is not subject to the benchmark rule. This conclusion is supported by paragraph 203-20(2)(a) of the ITAA 1997 which sets out an example of a case in which a company will not be subject to the benchmark rule. As set out above, Y Company is a listed public company with a single class of membership interest at all times during the relevant franking period.
 As a 100% subsidiary of Y Company, the benchmark rule will not apply to X Company under paragraph 203-20(1)(b) of the ITAA 1997.
-Date of decision:
-  1 October 2004
-
-Year of income:
-  Year ended 31 March 2004 Year ended 31 March 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 470
-Income Tax Assessment Act 1997   section 202-5   section 203-20   section 203-25   section 975-505   subsection 995-1(1)
-Income Tax Regulations 1936   Schedule 12
-
-Keywords
-
-Company tax
- Imputation system
-
-Siebel/TDMS Reference Number:
-  4247090
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 November 2004
-
-ISSN:
- 1445-2782
+Date of decision: 1 October 2004 Year of income: Year ended 31 March 2004 Year ended 31 March 2005 Legislative References: Income Tax Assessment Act 1936 section 470
+Income Tax Assessment Act 1997 section 202-5 section 203-20 section 203-25 section 975-505 subsection 995-1(1)
+Income Tax Regulations 1936 Schedule 12 Keywords Company tax Imputation system Siebel/TDMS Reference Number: 4247090 Business Line: Public Groups and International Date of publication: 5 November 2004 ISSN: 1445-2782

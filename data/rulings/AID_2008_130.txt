@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/130
-==================================================
-
-Income Tax
- Income tax treatment of securitisation of leases
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income tax treatment of securitisation of leases FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does an entity that acquires motor vehicles, leases them and assigns all of its rights under the leases including an amount specified as the residual value of the motor vehicles, to a special purpose vehicle under a securitisation arrangement, hold the motor vehicles as trading stock for the purposes of Division 70 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The entity does not, in the circumstances described above, hold the motor vehicles as trading stock for the purposes of Division 70 of the ITAA 1997.
@@ -24,11 +13,7 @@ Upon termination of a vehicle lease, the vehicle is sold. The entity transfers t
 Reasons for Decision
 The term 'trading stock' is defined in section 70-10 of the ITAA 1997 as including anything produced, manufactured or acquired that is held for purposes of manufacture, sale or exchange in the ordinary course of a business.
 The definition is not exhaustive and relies on the ordinary meaning of 'trading stock', or its alternative expression 'stock-in-trade'. The ordinary meaning denotes 'goods held by a trader in such goods for sale or exchange in the ordinary course of his trade' (Federal Commissioner of Taxation v. Sutton Motors (Chullora) Wholesale Pty Ltd (1985) 157 CLR 277; (1985) 85 ATC 4398; (1985) 16 ATR 567).
-An important element of the definition requires a particular relation to exist between the thing and the business carried on by the entity - the thing must be 'held for purposes of manufacture, sale or exchange in the ordinary course of a business' (Professor R. W. Parsons in Income Taxation in Australia, Electronic edition, 2001, University of Sydney Library, Sydney). This has been affirmed by High Court authorities including John v. Federal Commissioner of Taxation (1989) 166 CLR 417; (1989) 89 ATC 4101; (1989) 20 ATR 1 where the Court stated:
-
-[the definition of trading stock] presupposes that the person by whom [the goods] are produced, manufactured, acquired or purchased is or will be engaged in trade in those goods. ... Thus the relevant issue is not the nature of the business carried on but rather whether the person is a trader in the goods which are claimed to be trading stock.[emphasis added]
-
-Clearly the first part of the trading stock definition in section 70-10 of the ITAA 1997 is met in the present case, as the entity acquires motor vehicles which are 'things'.
+An important element of the definition requires a particular relation to exist between the thing and the business carried on by the entity - the thing must be 'held for purposes of manufacture, sale or exchange in the ordinary course of a business' (Professor R. W. Parsons in Income Taxation in Australia, Electronic edition, 2001, University of Sydney Library, Sydney). This has been affirmed by High Court authorities including John v. Federal Commissioner of Taxation (1989) 166 CLR 417; (1989) 89 ATC 4101; (1989) 20 ATR 1 where the Court stated: [the definition of trading stock] presupposes that the person by whom [the goods] are produced, manufactured, acquired or purchased is or will be engaged in trade in those goods. ... Thus the relevant issue is not the nature of the business carried on but rather whether the person is a trader in the goods which are claimed to be trading stock.[emphasis added] Clearly the first part of the trading stock definition in section 70-10 of the ITAA 1997 is met in the present case, as the entity acquires motor vehicles which are 'things'.
 Secondly, the motor vehicles must be 'held for purposes of manufacture, sale or exchange in the ordinary course of a business'.
 It was accepted in Federal Commissioner of Taxation v. Cyclone Scaffolding Pty Ltd (1987) 18 FCR 183; (1987) 87 ATC 5083; (1987) 19 ATR 674 (Cyclone Scaffolding) and related cases (Memorex Pty Ltd v. FCT (1987) 19 ATR 553; (1987) 87 ATC 5034, FCT v. GKN Kwikform Services Pty Ltd (1991) 21 ATR 1532; (1991) 91 ATC 4336, Federal Commissioner of Taxation v. Hyteco Hiring Pty Ltd (1992) 39 FCR 502; (1992) 24 ATR 218; (1992) 92 ATC 4694 (Hyteco)) that, for income tax purposes, an asset could be held either as trading stock or as a depreciating asset but not simultaneously as both. As Wilcox J noted in Cyclone Scaffolding, this would present a conceptual problem, as depreciating plant is ordinarily treated as a capital asset while trading stock is held on revenue account.
 In R & D Holdings Pty Ltd v. Deputy Commissioner of Taxation [2006] FCA 981; (2006) 2006 ATC 4472; (2006) 64 ATR 71 (R&D Holdings), Finn J held that the taxpayer held a property for section 70-10 of the ITAA 1997 purposes 'at the relevant time for the dual profit making purposes of sale or lease of subdivided lots'. That case, however, concerned land that in the relevant income year was under development and was intended to be subdivided predominantly for purposes of sale. Here the entity holds chattels, which are not susceptible to subdivision, in circumstances where there is no ambiguity of purpose - the intention is to lease them. R & D Holdings is not authority for the proposition that in these circumstances the chattels are held as trading stock.
@@ -36,57 +21,4 @@ While the entity acquires the vehicles with an intention of eventually disposing
 Similarly, in the present case, the vehicles are not held for the purpose of sale during the term of the lease for the purposes of the definition in section 70-10 of the ITAA 1997.
 In addition, any disposal of a motor vehicle at the end of the lease would not be made in the ordinary course of the entity's business. In Hyteco the Federal Court held that the disposal, even at a profit, of ex-hire equipment was an affair of capital and not made in the ordinary course of the taxpayer's business of leasing and hiring equipment.
 Therefore the entity does not hold the motor vehicles for purposes of sale in the ordinary course of its business, as required by the definition of 'trading stock' in section 70-10 of the ITAA 1997.
-Date of decision:
-  2 July 2008
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 70-10
-
-Case References:
-
-Federal Commissioner of Taxation v. Sutton Motors (Chullora) Wholesale Pty Ltd   (1985) 157 CLR 277   (1985) 85 ATC 4398   (1985) 16 ATR 567
-
-John v. Federal Commissioner of Taxation   (1989) 166 CLR 417   (1989) 89 ATC 4101   (1989) 20 ATR 1
-
-Memorex Pty Ltd v. FCT   (1987) 19 ATR 553   87 ATC 5034
-
-R & D Holdings Pty Ltd v. Deputy Commissioner of Taxation    [2006] FCA 981   (2006) 2006 ATC 4472   (2006) 64 ATR 71
-
-Federal Commissioner of Taxation v. Cyclone Scaffolding Pty Ltd   (1987) 18 FCR 183   (1987) 87 ATC 5083   (1987) 19 ATR 674
-
-Federal Commissioner of Taxation v. Hyteco Hiring Pty Ltd   (1992) 39 FCR 502   (1992) 24 ATR 218   92 ATC 4694
-
-FCT v. GKN Kwikform Services Pty Ltd   (1991) 21 ATR 1532   (1991) 91 ATC 4336
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 81
-
-Other References:
-
-Parsons, R.W. Income Taxation in Australia, 2001, electronic edition, University of Sydney (originally published 1985, The Law Book Company, Sydney)
-
-Keywords
-
-Acquisition of trading stock
- Assignment of rights & entitlements
- Closing stock
- Disposal of trading stock
- Residual values
- Securitisation
-
-Siebel/TDMS Reference Number:
-  5877116
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  3 October 2008
-
-ISSN:
- 1445-2782
+Date of decision: 2 July 2008 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 section 70-10 Case References: Federal Commissioner of Taxation v. Sutton Motors (Chullora) Wholesale Pty Ltd (1985) 157 CLR 277 (1985) 85 ATC 4398 (1985) 16 ATR 567 John v. Federal Commissioner of Taxation (1989) 166 CLR 417 (1989) 89 ATC 4101 (1989) 20 ATR 1 Memorex Pty Ltd v. FCT (1987) 19 ATR 553 87 ATC 5034 R & D Holdings Pty Ltd v. Deputy Commissioner of Taxation [2006] FCA 981 (2006) 2006 ATC 4472 (2006) 64 ATR 71 Federal Commissioner of Taxation v. Cyclone Scaffolding Pty Ltd (1987) 18 FCR 183 (1987) 87 ATC 5083 (1987) 19 ATR 674 Federal Commissioner of Taxation v. Hyteco Hiring Pty Ltd (1992) 39 FCR 502 (1992) 24 ATR 218 92 ATC 4694 FCT v. GKN Kwikform Services Pty Ltd (1991) 21 ATR 1532 (1991) 91 ATC 4336 Related Public Rulings (including Determinations) Taxation Ruling IT 81 Other References: Parsons, R.W. Income Taxation in Australia, 2001, electronic edition, University of Sydney (originally published 1985, The Law Book Company, Sydney) Keywords Acquisition of trading stock Assignment of rights & entitlements Closing stock Disposal of trading stock Residual values Securitisation Siebel/TDMS Reference Number: 5877116 Business Line: Public Groups and International Date of publication: 3 October 2008 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/12
-==================================================
-
-Income tax
- Commercial Debt Forgiveness - interaction with Subdivision 165-CD of the Income Tax Assessment Act 1997 - no net forgiven amount
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Commercial Debt Forgiveness - interaction with Subdivision 165-CD of the Income Tax Assessment Act 1997 - no net forgiven amount FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 165-115ZA(2) of the Income Tax Assessment Act 1997 (ITAA 1997) still nullify the operation of section 165-115ZA in respect of a relevant debt interest, where the Loss Company does not have a net forgiven amount to be applied under Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936), if that debt interest is forgiven?
 Decision
 Yes. Subsection 165-115ZA(2) of the ITAA 1997 nullifies the operation of section 165-115ZA where section 245-10 in Schedule 2C to the ITAA 1936 applies, which is not dependent upon there being a net forgiven amount under subsection 245-85(2) of Schedule 2C.
@@ -30,36 +19,4 @@ Subsection 245-10(1) of Schedule 2C to the ITAA 1936 provides that subject to su
 In the present instance, Loss Company will have no net forgiven amount under subsection 245-85(2) of the ITAA 1936 in respect of the debt forgiveness, as Loss Company (as debtor) will be taken by subsection 245-65(2) of the ITAA 1936 to have paid consideration equal to the market value of the debt at the time of forgiveness.
 The absence of a net forgiven amount does not mean that section 245-10 of Schedule 2C to the ITAA 1936 has not applied.
 Accordingly, no reduction to the reduced cost base of the $40,000 relevant debt interest is required under Subdivision 165-CD of the ITAA 1997 because of subsection 165-115ZA(2) thereof.
-Date of decision:
-  22 December 2004
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2C   section 245-10   subsection 245-10(1)   subsection 245-10(2)   section 245-25   section 245-35   subsection 245-65(2)   subsection 245-85(2)   subsection 245-245(1)
- Income Tax Assessment Act 1997   Subdivision 165-CD   section 165-115L   subsection 165-115R(5)   subsection 165-115Y(1)   section 165-115Z   subsection 165-115ZA(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2005/11
- ATO ID 2005/13
-
-Keywords
-
-Commercial debt forgiveness
- Debt interest
- Net forgiven amount
-
-Siebel/TDMS Reference Number:
-  4352957
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  14 January 2005
-
-ISSN:
- 1445-2782
+Date of decision: 22 December 2004 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 Schedule 2C section 245-10 subsection 245-10(1) subsection 245-10(2) section 245-25 section 245-35 subsection 245-65(2) subsection 245-85(2) subsection 245-245(1) Income Tax Assessment Act 1997 Subdivision 165-CD section 165-115L subsection 165-115R(5) subsection 165-115Y(1) section 165-115Z subsection 165-115ZA(2) Related ATO Interpretative Decisions ATO ID 2005/11 ATO ID 2005/13 Keywords Commercial debt forgiveness Debt interest Net forgiven amount Siebel/TDMS Reference Number: 4352957 Business Line: Public Groups and International Date of publication: 14 January 2005 ISSN: 1445-2782

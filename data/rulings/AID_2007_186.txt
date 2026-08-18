@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/186
-==================================================
-
-Income Tax
- Exempt Income: net exempt income - child care benefit and family tax benefit
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Exempt Income: net exempt income - child care benefit and family tax benefit FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is exempt income consisting of family tax benefit and child care benefit reduced by child related domestic costs and child care costs respectively in determining net exempt income under section 36-20 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No, exempt income consisting of family tax benefit and child care benefit is not reduced by child related domestic costs and child care costs respectively in determining net exempt income under section 36-20 of the ITAA 1997.
@@ -24,68 +13,15 @@ Reasons for Decision
 Section 8-5 of the ITAA 1997 allows a deduction from assessable income of an amount that can be deducted under a provision of the Income Tax Assessment Act 1936 (ITAA 1936) or a provision outside of Division 8 of Part 1-3 of the ITAA 1997.
 Section 12-5 of the ITAA 1997 contains a list of provisions about specific types of deductions. Included in this list is Division 36 of Part 2-5 of the ITAA 1997 which deals with tax losses from earlier income years.
 Section 36-10 of the ITAA 1997 explains that a tax loss arises in an income year, if a taxpayer's allowable deductions (other than tax losses of earlier income years) exceeds assessable income and net exempt income (worked out under section 36-20 of the ITAA 1997) for that year.
-Subsection 36-20(1) of the ITAA 1997 provides:
-
-36-20(1) If you are an Australian resident, your net exempt income is the amount by which your total *exempt income from all sources exceeds the total of:
-
-(a)the losses and outgoings (except capital losses and outgoings) you incurred in deriving that exempt income; and
-(b)any taxes payable outside Australia on that exempt income.
-
-Subsection 6-20(1) of the ITAA 1997 explains that an amount of ordinary income or statutory income is exempt income if it is made exempt from income tax by a provision of the ITAA 1936 or ITAA 1997 or another Commonwealth law.
+Subsection 36-20(1) of the ITAA 1997 provides: 36-20(1) If you are an Australian resident, your net exempt income is the amount by which your total *exempt income from all sources exceeds the total of: (a)the losses and outgoings (except capital losses and outgoings) you incurred in deriving that exempt income; and
+(b)any taxes payable outside Australia on that exempt income. Subsection 6-20(1) of the ITAA 1997 explains that an amount of ordinary income or statutory income is exempt income if it is made exempt from income tax by a provision of the ITAA 1936 or ITAA 1997 or another Commonwealth law.
 Child care benefit and family tax benefit are both exempt from income tax under section 52-150 of the ITAA 1997.
 The net exempt income of the taxpayer calculated under subsection 36-20(1) of the ITAA 1997 is the amount of the child care benefit and the family tax benefit received for the income year less any losses and outgoings (except capital losses and outgoings) incurred by the taxpayer in deriving the child care benefit and the family tax benefit.
 The notion of 'losses and outgoings incurred' as used in paragraph 36-20(1)(a) of the ITAA 1997 is used in a similar context in subsection 8-1(1) of the ITAA 1997. Paragraph 36-20(1)(a) is concerned with losses and outgoings incurred in deriving exempt income, whereas subsection 8-1(1) of the ITAA 1997 is concerned with losses or outgoings incurred in gaining or producing assessable income.
 The authorities on 'losses or outgoings incurred in gaining or producing assessable income' for the purposes of section 8-1 of the ITAA 1997 are of assistance in determining whether losses or outgoings are incurred in deriving exempt income for the purposes of paragraph 36-20(1)(a) of the ITAA 1997.
-The courts have established that for a loss or outgoing to be deductible under section 8-1 of the ITAA 1997:
-
-•it must have the essential character of a loss or outgoing incurred in gaining assessable income or, in other words, of an income producing expense (Lunney & Hayley v. Federal Commissioner of Taxation (1958) 100 CLR 478; (1958) 11 ATD 404; (1958) 7 AITR 166)
+The courts have established that for a loss or outgoing to be deductible under section 8-1 of the ITAA 1997: •it must have the essential character of a loss or outgoing incurred in gaining assessable income or, in other words, of an income producing expense (Lunney & Hayley v. Federal Commissioner of Taxation (1958) 100 CLR 478; (1958) 11 ATD 404; (1958) 7 AITR 166)
 •there must be a nexus between the loss or outgoing and the assessable income so that the outgoing is incidental and relevant to the gaining of assessable income (Ronpibon Tin NL and Tongkah Compound NL v. Federal Commissioner of Taxation (1949) 78 CLR 47; (1949) 8 ATD 431; (1949) 7 AITR 236) and
-•it is necessary to determine the connection between the particular loss or outgoing and the operations or activities by which the taxpayer more directly gains or produces his or her assessable income (Charles Moore & Co (WA) Pty Ltd v. Federal Commissioner of Taxation (1956) 95 CLR 344; (1956) 11 ATD 147; (1956) 6 AITR 379, Federal Commissioner of Taxation v. Hatchett (1971) 125 CLR 494; 71 ATC 4184; (1971) 2 ATR 557).
-
-Taxation Ruling TR 98/9 deals with an analogous issue for section 8-1 of the ITAA 1997 purposes of whether self-education expenses relating to a course of study are deductible in deriving AUSTUDY income. Paragraph 72 of Taxation Ruling TR 98/9 provides:
-
-72. Having regard to the nature of the payment, we believe that self-education expenses relating to a course of study are not relevant and incidental to the derivation of AUSTUDY income. Viewed objectively, self-education expenses are incurred to undertake the course of study. Consequently, the essential character of these expenses is linked to that study. AUSTUDY is in the nature of assistance and the essential nature of the expense relates to the study, not the assistance which may be available as an incident of the study.
-
-Child related domestic costs and child care costs are similarly not relevant and incidental to the derivation of family tax benefit and child care benefit respectively. Viewed objectively, child related domestic costs and child care costs are incurred for family purposes and for formal child care. The expenses are not incurred to derive the incidental assistance which is available by way of family tax benefit and child care benefit. Consequently, the essential character of the expenses is not linked to deriving family tax benefit and child care benefit respectively.
+•it is necessary to determine the connection between the particular loss or outgoing and the operations or activities by which the taxpayer more directly gains or produces his or her assessable income (Charles Moore & Co (WA) Pty Ltd v. Federal Commissioner of Taxation (1956) 95 CLR 344; (1956) 11 ATD 147; (1956) 6 AITR 379, Federal Commissioner of Taxation v. Hatchett (1971) 125 CLR 494; 71 ATC 4184; (1971) 2 ATR 557). Taxation Ruling TR 98/9 deals with an analogous issue for section 8-1 of the ITAA 1997 purposes of whether self-education expenses relating to a course of study are deductible in deriving AUSTUDY income. Paragraph 72 of Taxation Ruling TR 98/9 provides: 72. Having regard to the nature of the payment, we believe that self-education expenses relating to a course of study are not relevant and incidental to the derivation of AUSTUDY income. Viewed objectively, self-education expenses are incurred to undertake the course of study. Consequently, the essential character of these expenses is linked to that study. AUSTUDY is in the nature of assistance and the essential nature of the expense relates to the study, not the assistance which may be available as an incident of the study. Child related domestic costs and child care costs are similarly not relevant and incidental to the derivation of family tax benefit and child care benefit respectively. Viewed objectively, child related domestic costs and child care costs are incurred for family purposes and for formal child care. The expenses are not incurred to derive the incidental assistance which is available by way of family tax benefit and child care benefit. Consequently, the essential character of the expenses is not linked to deriving family tax benefit and child care benefit respectively.
 Therefore, in the circumstances here, child related domestic costs and child care costs are not losses or outgoings incurred in deriving the taxpayer's exempt income and as such are not taken into account in determining the taxpayer's net exempt income under subsection 36-20(1) of the ITAA 1997.
-Date of decision:
-  27 September 2007
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-   Income Tax Assessment Act 1936
-Income Tax Assessment Act 1997   section 6-20   subsection 6-20(1)   section 8-1   subsection 8-1(1)   paragraph 8-1(1)(a)   section 8-5   section 12-5   section 36-10   section 36-20   subsection 36-20(1)   paragraph 36-20(1)(a)   section 52-150   Division 8 of Part 1-3   Division 36 of Part 2-5
-
-Case References:
-
-Lunney & Hayley v. Commissioner of Taxation   (1958) 100 CLR 478   (1958) 11 ATD 404   (1958) 7 AITR 166
-
-Ronpibon Tin N.L. and Tongkah Compound N.L. v. Federal Commissioner of Taxation    (1949) 78 CLR 47   (1949) 8 ATD 431   (1949) 7 AITR 236
-
-Charles Moore & Co (WA) Pty Ltd v. Federal Commissioner of Taxation   (1956) 95 CLR 344   (1956) 11 ATD 147   (1956) 6 AITR 379
-
-Federal Commissioner of Taxation v. Hatchett   (1971) 125 CLR 494   71 ATC 4184   2 ATR 557
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/9
-
-Keywords
-
-Exempt income
- Income
-
-Siebel/TDMS Reference Number:
-  5674021
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  5 October 2007
-
-ISSN:
- 1445-2782
+Date of decision: 27 September 2007 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936
+Income Tax Assessment Act 1997 section 6-20 subsection 6-20(1) section 8-1 subsection 8-1(1) paragraph 8-1(1)(a) section 8-5 section 12-5 section 36-10 section 36-20 subsection 36-20(1) paragraph 36-20(1)(a) section 52-150 Division 8 of Part 1-3 Division 36 of Part 2-5 Case References: Lunney & Hayley v. Commissioner of Taxation (1958) 100 CLR 478 (1958) 11 ATD 404 (1958) 7 AITR 166 Ronpibon Tin N.L. and Tongkah Compound N.L. v. Federal Commissioner of Taxation (1949) 78 CLR 47 (1949) 8 ATD 431 (1949) 7 AITR 236 Charles Moore & Co (WA) Pty Ltd v. Federal Commissioner of Taxation (1956) 95 CLR 344 (1956) 11 ATD 147 (1956) 6 AITR 379 Federal Commissioner of Taxation v. Hatchett (1971) 125 CLR 494 71 ATC 4184 2 ATR 557 Related Public Rulings (including Determinations) Taxation Ruling TR 98/9 Keywords Exempt income Income Siebel/TDMS Reference Number: 5674021 Business Line: Small Business/Individual Taxpayers Date of publication: 5 October 2007 ISSN: 1445-2782

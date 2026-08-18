@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1021
-==================================================
-
-Income Tax
- Classification of certain converting preference shares under Division 974 of the ITAA 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Classification of certain converting preference shares under Division 974 of the ITAA 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a converting preference share which is issued on terms that it will convert to ordinary shares in the issuer if the issuer is listed on the Stock Exchange, or be bought back at a premium if the issuer is not so listed, an equity interest pursuant to Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The converting preference share is an equity interest in terms of subsection 974-70(1) of Division 974 of the ITAA 1997.
@@ -26,15 +15,11 @@ The converting preference share is an equity interest in the issuer in terms of 
 The converting preference share is an interest in a company as a member or stockholder of that company. Therefore, Item 1 of subsection 974-75(1) of the ITAA 1997 is satisfied and the converting preference share passes the basic test for an equity interest.
 As a scheme cannot give rise to an equity interest if it is also classified as a debt interest (refer to paragraph 974-70(1)(b) of the ITAA 1997), it is necessary to determine, not only if the interest satisfies an item in the equity table, but also whether satisfies the test for a debt interest pursuant to subsection 974-20(1) of the ITAA 1997.
 (b) The test for a debt interest
-Subsection 974-20(1) of the ITAA 1997 provides the test for a debt interest. It lists various essential elements which must be met if a scheme is to satisfy the debt test. Those elements are that:
-
-• there must be a scheme (subsection 974-20(1))
+Subsection 974-20(1) of the ITAA 1997 provides the test for a debt interest. It lists various essential elements which must be met if a scheme is to satisfy the debt test. Those elements are that: • there must be a scheme (subsection 974-20(1))
 • the scheme must be a financing arrangement (paragraph 974-20(1)(a))
 • there must be a financial benefit received (paragraph 974-20(1)(b))
 • the issuing entity must have an effectively non-contingent obligation to provide a future financial benefit (paragraph 974-20(1)(c)), and
-• it must be substantially more likely than not that the value of the financial benefit to be provided will be at least equal to, or exceed the financial benefit received and will not equal nil (paragraphs 974-20(1)(d) and 974-20(1)(e)).
-
-Is there a scheme which is a financing arrangement?
+• it must be substantially more likely than not that the value of the financial benefit to be provided will be at least equal to, or exceed the financial benefit received and will not equal nil (paragraphs 974-20(1)(d) and 974-20(1)(e)). Is there a scheme which is a financing arrangement?
 The issue of the converting preference share is a scheme as defined in subsection 995-1(1) of the ITAA 1997. This scheme is a financing arrangement in terms of paragraph 974-130(1)(a) as it raises finance for the issuer. Therefore paragraph 974-20(1)(a) is satisfied.
 Does the issuer receive a financial benefit?
 As the issuer receives a financial benefit, being the issue price of the converting preference share, paragraph 974-20(1)(b) of the ITAA 1997 is satisfied.
@@ -46,45 +31,7 @@ Buying back the converting preference share at a premium is a provision of a fin
 Accordingly this question becomes whether the issuer has an effectively non-contingent obligation to buy back the converting preference share at a premium.
 There is an effectively non-contingent obligation to take an action under a scheme if, having regard to the pricing, terms and conditions of the scheme, there is in substance or effect a non-contingent obligation to take that action (subsection 974-135(1) of the ITAA 1997). An obligation is non-contingent if it is not contingent on any event, condition or situation (including the economic performance of the entity having the obligation or a connected entity of that entity), other than the ability or willingness of that entity or connected entity to meet the obligation (subsection 974-135(3) of the ITAA 1997).
 In determining whether there is in substance or effect a non-contingent obligation to take the action, one must have regard to the artificiality, or the contrived nature, of any contingency on which the obligation to take the action depends (subsection 974-135(6) ITAA 1997).
-The Explanatory Memorandum to the New Business Tax System (Debt and Equity) Act 2001 states:
-
-2.178 ... In addition, consistent with the principle inherent in the debt test of focusing on economic substance rather than legal form, where a contingency is so remote as to be effectively inoperative (immaterially remote) it is as if the contingency did not exist and it should be disregarded.
-
-2.179 In some circumstances it will be clear that a particular contingency is immaterially remote for these purposes. These will be cases where there is only a theoretical rather than a real possibility of the contingency occurring.
-
-If the issuer's shares are listed, the issuer does not have an obligation to provide a financial benefit. Provision of a financial benefit by the issuer, that is, buying back the converting preference share at a premium, is contingent on the issuer not being listed. As the listing of the issuer is a real possibility, the listing of the issuer's shares is not an immaterially remote contingency.
+The Explanatory Memorandum to the New Business Tax System (Debt and Equity) Act 2001 states: 2.178 ... In addition, consistent with the principle inherent in the debt test of focusing on economic substance rather than legal form, where a contingency is so remote as to be effectively inoperative (immaterially remote) it is as if the contingency did not exist and it should be disregarded. 2.179 In some circumstances it will be clear that a particular contingency is immaterially remote for these purposes. These will be cases where there is only a theoretical rather than a real possibility of the contingency occurring. If the issuer's shares are listed, the issuer does not have an obligation to provide a financial benefit. Provision of a financial benefit by the issuer, that is, buying back the converting preference share at a premium, is contingent on the issuer not being listed. As the listing of the issuer is a real possibility, the listing of the issuer's shares is not an immaterially remote contingency.
 The issuer therefore does not have an effectively non-contingent obligation to buy back the converting preference share at a premium, that is, provide a financial benefit. Thus the scheme does not satisfy the debt test.
 The converting preference share is therefore an equity interest in terms of subsection 974-70(1) of Division 974 of the ITAA 1997.
-Date of decision:
-  5 November 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 974-20(1)   paragraph 974-20(1)(a)   paragraph 974-20(1)(b)   paragraph 974-20(1)(c)   Paragraph 974-30(1)(a)   Subsection 974-70(1)   subsection 974-75(1)   paragraph 974-130(1)(a)   subsection 974-135(1)   subsection 974-135(3)   subsection 974-135(6)   subsection 974-160(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/900
-
-Keywords
-
-Conversion of securities
- Debt test
- Effectively non-contingent obligation
- Equity test
- Debt equity borderline
-
-Siebel/TDMS Reference Number:
-  3789776
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  14 November 2003
-
-ISSN:
- 1445-2782
+Date of decision: 5 November 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 subsection 974-20(1) paragraph 974-20(1)(a) paragraph 974-20(1)(b) paragraph 974-20(1)(c) Paragraph 974-30(1)(a) Subsection 974-70(1) subsection 974-75(1) paragraph 974-130(1)(a) subsection 974-135(1) subsection 974-135(3) subsection 974-135(6) subsection 974-160(1) Related ATO Interpretative Decisions ATO ID 2003/900 Keywords Conversion of securities Debt test Effectively non-contingent obligation Equity test Debt equity borderline Siebel/TDMS Reference Number: 3789776 Business Line: Finance and Investment Centre of Expertise Date of publication: 14 November 2003 ISSN: 1445-2782

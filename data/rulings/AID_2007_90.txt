@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/90
-==================================================
-
-Income Tax
- Trust Losses: unlisted very widely held trust - all of the trust's units must carry the same rights under paragraph 272-120(1)(c) of Schedule 2F to the ITAA 1936
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Trust Losses: unlisted very widely held trust - all of the trust's units must carry the same rights under paragraph 272-120(1)(c) of Schedule 2F to the ITAA 1936 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a trust seeks to be classified as an 'unlisted very widely held trust' pursuant to subparagraph 266-150(2)(a)(iii) of Schedule 2F to the Income Tax Assessment Act 1936 (ITAA 1936), are all of the trust's units required to carry the same rights throughout the entire 'test period' for the purposes of paragraph 272-120(1)(c) of Schedule 2F of the ITAA 1936?
 Decision
 Yes. The requirement in paragraph 272-120(1)(c) of Schedule 2F to the ITAA 1936 that 'all of its units carry the same rights' means that all of the trust's units must carry the same rights at all times throughout the test period.
@@ -25,29 +14,4 @@ Section 272-120 of Schedule 2F to the ITAA 1936 establishes the rules for a trus
 The 'test period' for a trust that is, at all times, an unlisted very widely held trust, and that seeks to deduct a tax loss from an earlier year is set out in subparagraph 266-150(2)(a)(iii) of Schedule 2F to the ITAA 1936. For Trust A, the 'test period' runs from the beginning of the Loss Year until the end of the Income Year.
 In order to satisfy paragraph 272-120(1)(c) of Schedule 2F to the ITAA 1936, all of the units of Trust A must carry the same rights throughout this test period.
 The existence of both Ordinary Units and Special Units during part of the Loss Year means that all of the units of Trust A did not carry the same rights throughout the test period.
-Date of decision:
-  24 April 2007
-
-Year of income:
-  Year ended 30 June 2005 Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subparagraph 266-150(2)(a)(iii) of Schedule 2F   section 272-120 of Schedule 2F   paragraph 272-120(1)(c) of Schedule 2F
-
-Keywords
-
-Fixed trusts
- Unit trusts
-
-Siebel/TDMS Reference Number:
-  5657416
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 May 2007
-
-ISSN:
- 1445-2782
+Date of decision: 24 April 2007 Year of income: Year ended 30 June 2005 Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 subparagraph 266-150(2)(a)(iii) of Schedule 2F section 272-120 of Schedule 2F paragraph 272-120(1)(c) of Schedule 2F Keywords Fixed trusts Unit trusts Siebel/TDMS Reference Number: 5657416 Business Line: Public Groups and International Date of publication: 4 May 2007 ISSN: 1445-2782

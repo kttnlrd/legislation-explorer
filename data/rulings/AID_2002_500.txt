@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/500
-==================================================
-
-Income Tax
- Income tax: status of an allocated annuity paid by an Australian life insurance company to a resident of a country with which Australia has a Double Tax Agreement
- FOI status: may be released
-
-This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO Interpretative Decision continues to be precedential view in respect of decision for income years up to, and including, the 2006-07 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income tax: status of an allocated annuity paid by an Australian life insurance company to a resident of a country with which Australia has a Double Tax Agreement FOI status: may be released This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that does not apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO Interpretative Decision continues to be precedential view in respect of decision for income years up to, and including, the 2006-07 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an allocated annuity paid by an Australian life insurance company to a resident of a country with which Australia has a Double Tax Agreement (DTA) an 'annuity' for the purposes of the Pensions and Annuities Article in Australia's DTAs (as incorporated into Australian law by the International Tax Agreements Act 1953)?
 Decision
 Yes.
@@ -24,80 +9,14 @@ Facts
 The taxpayer is a non-resident of Australia and is a resident of a country which has a DTA with Australia. The taxpayer purchased an allocated annuity from an Australian life insurance company. The annuity was purchased with the rolled-over amount of an ETP, and met the standards set out in subregulation 1.05(4) of the Superannuation Industry (Supervision) Regulations.
 Reasons for Decision
 In dealing with an allocated annuity paid by an Australian life insurance company to a resident of a treaty partner country, the relevant DTA must be considered as it will allocate the taxing rights over those classes of income which fall within the treaty. Each Australian DTA is given the force of law domestically under the International Tax Agreements Act 1953 (the 'Agreements Act') and is incorporated as a schedule to that Act. Subsection 4(1) of the Agreements Act stipulates that the DTAs are to be interpreted and read as one with the Income Tax Assessment Act 1936 (the ITAA 1936) and the Income Tax Assessment Act 1997 (the ITAA 1997). Subsection 4(2) of the Agreements Act provides that the terms of the DTAs prevail over those of the ITAA 1936 and the ITAA 1997 (except section 160AO and Part IVA of the ITAA 1936) in the case of any inconsistency.
-For the
- Pensions and Annuities
- Article in Australia's DTAs to apply to an allocated annuity, it is necessary for the allocated annuity to fall within the treaty meaning of 'annuity'. 'Annuity' is often defined in Australia's DTAs (usually in Article 18(2)) as:
-
-' ...
- a stated sum payable periodically at stated times
- during life or during a specified or ascertainable period of time under an obligation to make the payments in return for adequate and full consideration in money or money's worth.' (emphasis added)
-
-Even though this definition appears in Australia's DTAs and in the DTAs of many other countries, there appears to be no international guidance as to its interpretation.
-As an allocated annuity is purchased with rollover monies and is payable for an ascertainable period of time, the latter part of the treaty definition is satisfied. The key issue is whether the requirement for at least one annual payment within a prescribed range is sufficient to constitute 'a stated sum payable periodically at stated times'.
-
-'Annuity' is not defined in the Interpretation section of ITAA 1936 (section 6(1)). However, it is defined in Part III, Division 2, Subdivision AA, section 27A(1), which says that the term has the same meaning as in section 10 of the Superannuation Industry (Supervision) Act 1993 (the SIS Act).
-
-Section 10 of the SIS Act states that 'annuity' includes a benefit provided by a life insurance company or a registered organisation, if the benefit is taken, under the regulations, to be an annuity for the purposes of the SIS Act. Subregulation 1.05(4) of the SIS Regulations establishes the standards which an allocated annuity must meet if it is to be taken to be an annuity for the purposes of the SIS Act. Therefore, an allocated pension which meets the standards of subregulation 1.05(4) will be an 'annuity' within the meaning of section 27A of the ITAA 1936.
-Given that two of the statutory elements of an allocated annuity as specified in subregulation 1.05(4) of the SIS Act are that:
-
-•the payments must be made at least annually; and
-•the total amount of the annual payments must fall within an approved range (i.e., minimum and maximum thresholds) based on statutory formulas;
-
-it is considered that allocated annuities which meet this statutory definition broadly satisfy the requirement in the treaty meaning of 'annuity' that there be 'a stated sum payable periodically at stated times'.
-Accordingly, subject to the context and terms of the particular DTA, an allocated annuity paid by an Australian life insurance company or a registered organisation to a non-resident who resides in a treaty partner country is an 'annuity' for the purposes of the
- Pensions and Annuities
- Article in Australia's DTAs.
-
-[Note: In general, an allocated annuity paid by an Australian life insurance company or a registered organisation to a resident of a treaty partner country will be an 'annuity' for the purposes of the Pensions and Annuities Article (usually Article 18) in Australia's DTAs. However, given that Australia's DTAs vary, the terms of the relevant DTA must be considered in each individual case.]
-
-Date of decision:
-  17 April 2002
-
-Year of income:
-  
-
-Legislative References:
-
-International Tax Agreements Act 1953   Section 4
-Income Tax Assessment Act 1936   Section 27A   Section 27H
-Income Tax Assessment Act 1997   Section 995-1
-Superannuation Industry (Supervision) Act 1993   Section 10
-Superannuation Industry (Supervision) Regulations   Subregulations 1.05(1)   Subregulations 1.05(4)
-
-Related Public Rulings (including Determinations)
-
-IT 2480
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/501
-
-Keywords
-
-Allocated annuities & pensions
- Double tax agreements
-
-Business Line:
-  LB&I
-
-Date of publication:
-  30 April 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-17 April 2002
-Original statement
-
-You are here
- 9 November 2007
+For the Pensions and Annuities Article in Australia's DTAs to apply to an allocated annuity, it is necessary for the allocated annuity to fall within the treaty meaning of 'annuity'. 'Annuity' is often defined in Australia's DTAs (usually in Article 18(2)) as: ' ... a stated sum payable periodically at stated times during life or during a specified or ascertainable period of time under an obligation to make the payments in return for adequate and full consideration in money or money's worth.' (emphasis added) Even though this definition appears in Australia's DTAs and in the DTAs of many other countries, there appears to be no international guidance as to its interpretation.
+As an allocated annuity is purchased with rollover monies and is payable for an ascertainable period of time, the latter part of the treaty definition is satisfied. The key issue is whether the requirement for at least one annual payment within a prescribed range is sufficient to constitute 'a stated sum payable periodically at stated times'. 'Annuity' is not defined in the Interpretation section of ITAA 1936 (section 6(1)). However, it is defined in Part III, Division 2, Subdivision AA, section 27A(1), which says that the term has the same meaning as in section 10 of the Superannuation Industry (Supervision) Act 1993 (the SIS Act). Section 10 of the SIS Act states that 'annuity' includes a benefit provided by a life insurance company or a registered organisation, if the benefit is taken, under the regulations, to be an annuity for the purposes of the SIS Act. Subregulation 1.05(4) of the SIS Regulations establishes the standards which an allocated annuity must meet if it is to be taken to be an annuity for the purposes of the SIS Act. Therefore, an allocated pension which meets the standards of subregulation 1.05(4) will be an 'annuity' within the meaning of section 27A of the ITAA 1936.
+Given that two of the statutory elements of an allocated annuity as specified in subregulation 1.05(4) of the SIS Act are that: •the payments must be made at least annually; and
+•the total amount of the annual payments must fall within an approved range (i.e., minimum and maximum thresholds) based on statutory formulas; it is considered that allocated annuities which meet this statutory definition broadly satisfy the requirement in the treaty meaning of 'annuity' that there be 'a stated sum payable periodically at stated times'.
+Accordingly, subject to the context and terms of the particular DTA, an allocated annuity paid by an Australian life insurance company or a registered organisation to a non-resident who resides in a treaty partner country is an 'annuity' for the purposes of the Pensions and Annuities Article in Australia's DTAs. [Note: In general, an allocated annuity paid by an Australian life insurance company or a registered organisation to a resident of a treaty partner country will be an 'annuity' for the purposes of the Pensions and Annuities Article (usually Article 18) in Australia's DTAs. However, given that Australia's DTAs vary, the terms of the relevant DTA must be considered in each individual case.] Date of decision: 17 April 2002 Year of income: Legislative References: International Tax Agreements Act 1953 Section 4
+Income Tax Assessment Act 1936 Section 27A Section 27H
+Income Tax Assessment Act 1997 Section 995-1
+Superannuation Industry (Supervision) Act 1993 Section 10
+Superannuation Industry (Supervision) Regulations Subregulations 1.05(1) Subregulations 1.05(4) Related Public Rulings (including Determinations) IT 2480 Related ATO Interpretative Decisions ATO ID 2002/501 Keywords Allocated annuities & pensions Double tax agreements Business Line: LB&I Date of publication: 30 April 2002 ISSN: 1445-2782 history Date: Version: 17 April 2002
+Original statement You are here 9 November 2007
 Archived

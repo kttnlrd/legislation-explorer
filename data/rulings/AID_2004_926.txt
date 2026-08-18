@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/926
-==================================================
-
-Income Tax
- Portfolio transfer of general insurance liabilities: value of unearned premium reserve of a general insurance company that assumes liabilities under a portfolio transfer
- FOI status: may be released
-
-This ATO ID has been amended to insert further explanatory paragraphs at the conclusion of the Reasons for Decision.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Portfolio transfer of general insurance liabilities: value of unearned premium reserve of a general insurance company that assumes liabilities under a portfolio transfer FOI status: may be released This ATO ID has been amended to insert further explanatory paragraphs at the conclusion of the Reasons for Decision. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the unearned premium reserve of a general insurance company under section 321-60 of Schedule 2J to the Income Tax Assessment Act 1936 (ITAA 1936) include amounts in respect of policies where, under a portfolio transfer, the general insurance company has assumed the liability to provide insurance cover under the policies?
 Decision
 Yes. The unearned premium reserve of a general insurance company under section 321-60 of the ITAA 1936 does include amounts in respect of policies where, under a portfolio transfer, the general insurance company has assumed the liability to provide insurance cover under the policies.
@@ -28,64 +15,8 @@ Reasons for Decision
 Section 321-60 of the ITAA 1936 defines the value of the unearned premium reserve as the 'net premiums received or receivable by the company in relation to those policies as the company determines, based on proper and reasonable estimates, to relate to risks covered by the policies in respect of later years of income.'
 Under the portfolio transfer the taxpayer has accepted, as consideration for assuming the obligation to provide insurance cover for the unexpired risk period, an amount based on the gross premiums previously received or receivable by the transferor. The acceptance of that sum and the undertaking to provide insurance cover is sufficient for the consideration to maintain its characterisation as gross premiums in the hands of the taxpayer. Thus, the consideration comes to be included in the assessable income of the taxpayer under section 321-45 of the ITAA 1936.
 As the period of risk cover under the policies may extend beyond the year of income in which the portfolio transfer occurred, the taxpayer is required to work out at the end of that income year, in accordance with section 321-60 of the ITAA 1936, the value of its net premiums that relate to risks covered by the policies in respect of later years of income and allocate it to its unearned premium reserve.
-Accordingly, the taxpayer's unearned premium reserve at the end of the financial year, under section 321-60 of the ITAA 1936, will include the part of the consideration received for assuming the liability to provide insurance cover under the general insurance policies of the transferor that the taxpayer determines, based on proper and reasonable estimates, to relate to risks to be covered in respect of later years of income.
-
-Application of this ATO ID from 1 July 2010
-
-From 1 July 2010, the Tax Laws Amendment (Transfer of Provisions) Act 2010 repealed Schedule 2J of the ITAA 1936 and rewrote those provisions into Division 321 of the ITAA 1997. The wording and format was altered to adhere to the drafting approach taken in the ITAA 1997, but as outlined in Chapter 6 of the Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010, there has been no change in meaning of the rewritten provisions.
+Accordingly, the taxpayer's unearned premium reserve at the end of the financial year, under section 321-60 of the ITAA 1936, will include the part of the consideration received for assuming the liability to provide insurance cover under the general insurance policies of the transferor that the taxpayer determines, based on proper and reasonable estimates, to relate to risks to be covered in respect of later years of income. Application of this ATO ID from 1 July 2010 From 1 July 2010, the Tax Laws Amendment (Transfer of Provisions) Act 2010 repealed Schedule 2J of the ITAA 1936 and rewrote those provisions into Division 321 of the ITAA 1997. The wording and format was altered to adhere to the drafting approach taken in the ITAA 1997, but as outlined in Chapter 6 of the Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010, there has been no change in meaning of the rewritten provisions.
 Therefore, from 1 July 2010, all references to Sections 321-45 and 321-60 of the ITAA 1936 should be read as referring to Sections 321-45 and 321-60 of the ITAA 1997.
-Date of decision:
-  1 November 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 321-45   section 321-60
-Income Tax Assessment Act 1997   section 995-1   section 321-45   section 321-60
-Insurance Act 1973   the Act
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/910
- ATO ID 2004/911
- ATO ID 2004/912
- ATO ID 2004/913
- ATO ID 2004/914
- ATO ID 2004/915
- ATO ID 2004/916
- ATO ID 2004/917
- ATO ID 2004/918
- ATO ID 2004/919
- ATO ID 2004/920
- ATO ID 2004/921
- ATO ID 2004/922
- ATO ID 2004/923
- ATO ID 2004/924
- ATO ID 2004/925
- ATO ID 2004/927
- ATO ID 2004/928
- ATO ID 2004/929
- ATO ID 2004/930
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010
-
-Keywords
-
-General insurance
- General insurance industry
-
-Siebel/TDMS Reference Number:
-  4068672
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  19 November 2004
-
-ISSN:
- 1445-2782
+Date of decision: 1 November 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 321-45 section 321-60
+Income Tax Assessment Act 1997 section 995-1 section 321-45 section 321-60
+Insurance Act 1973 the Act Related ATO Interpretative Decisions ATO ID 2004/910 ATO ID 2004/911 ATO ID 2004/912 ATO ID 2004/913 ATO ID 2004/914 ATO ID 2004/915 ATO ID 2004/916 ATO ID 2004/917 ATO ID 2004/918 ATO ID 2004/919 ATO ID 2004/920 ATO ID 2004/921 ATO ID 2004/922 ATO ID 2004/923 ATO ID 2004/924 ATO ID 2004/925 ATO ID 2004/927 ATO ID 2004/928 ATO ID 2004/929 ATO ID 2004/930 Other References: Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010 Keywords General insurance General insurance industry Siebel/TDMS Reference Number: 4068672 Business Line: Public Groups and International Date of publication: 19 November 2004 ISSN: 1445-2782

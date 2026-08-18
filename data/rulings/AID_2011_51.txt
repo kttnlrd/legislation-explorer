@@ -1,26 +1,11 @@
 ATO Interpretative Decision
 ATO ID 2011/51
-==================================================
-
-Income Tax
- Consolidation: application of subsection 701-55(2) of the ITAA 1997 where no method to work out the decline in value applied before the joining time
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Does subsection 701-55(2) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to enable the head company of a consolidated group to deduct an amount for the decline in value of a depreciating asset under Division 40 of the ITAA 1997 where:
-
-•the joining entity did not work out the decline in value of the depreciating asset from when it first used the asset as it had paid a nominal amount to acquire the asset,
+================================================== Income Tax Consolidation: application of subsection 701-55(2) of the ITAA 1997 where no method to work out the decline in value applied before the joining time FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Does subsection 701-55(2) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to enable the head company of a consolidated group to deduct an amount for the decline in value of a depreciating asset under Division 40 of the ITAA 1997 where: •the joining entity did not work out the decline in value of the depreciating asset from when it first used the asset as it had paid a nominal amount to acquire the asset,
 •the asset received a tax cost setting amount at the joining time,
 •the head company held and used the asset from the joining time in the course of carrying on its business, and
-•had the joining entity claimed a deduction under Division 40, the entity could have chosen either the diminishing value or prime cost method to work out the decline in value?
-
-Decision
+•had the joining entity claimed a deduction under Division 40, the entity could have chosen either the diminishing value or prime cost method to work out the decline in value? Decision
 Yes. Subsection 701-55(2) of the ITAA 1997 applies such that the head company can deduct an amount for the decline in value of the asset under Division 40 of the ITAA 1997 for the period after the joining time.
 Facts
 Head Co acquired all the shares in Join Co on 1 September 2010. At that time, Join Co became a subsidiary member of the consolidated group.
@@ -36,40 +21,5 @@ Deductions for the decline in value of depreciating assets are worked out under 
 It is considered that the paragraphs that follow the introductory words of subsection 701-55(2) are assumptions and consequences rather than pre-conditions for the subsection to apply. Paragraph 701-55(2)(b) and subsequent paragraphs can only apply where a method for working out the decline in value applied just before the joining time. In this case, Join Co had not chosen one of the two available methods (diminishing value method or prime cost method) which can apply to Film Copyright acquired on or after 1 July 2004. Nor can it be said that a particular method applied to the Film Copyright prior to the joining time. The capital allowance provisions in Division 40 do not prescribe a method in the absence of a choice by a taxpayer.
 Therefore only paragraph 701-55(2)(a) is relevant in determining how Division 40 applies to the Film Copyright. Paragraphs 701-55(2)(b) - (e) will not apply to modify the application of Division 40 to the Film Copyright as no method of decline in value was chosen by Join Co just before the joining time. Instead, Division 40 will apply on its own terms from the joining time to set the method of decline in value and effective life for the Film Copyright.
 The Film Copyright will be taken to be acquired by Head Co at the joining time for a payment equal to the Film Copyright's tax cost setting amount under paragraph 701-55(2)(a). As Head Co, pursuant to the single entity rule, uses the Film Copyright, there will be a 'start time' under subsection 40-60(2) allowing it to deduct an amount for the decline in value of the asset. Deductions are allowable to Head Co in the income year in which the start time occurs and later income years whilst it continues to hold the Film Copyright. Head Co will be free to choose the method of decline in value and effective life of the Film Copyright pursuant to Division 40.
-Date of decision:
-  27 May 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 40   Subdivision 40-C   subsection 40-25(1)   paragraph 40-30(2)(c)   subsection 40-60(2)   subsection 40-65(1)   section 376-55   section 701-1   subsection 701-55(2)
-Income Tax Assessment Act 1936   Division 10B   Division 10BA
-
-Keywords
-
-Consolidation
- Consolidation - assets
- Consolidation - joining
- Copyright
- Cost of a depreciating asset
- Decline in value
- Deduction for depreciating assets
- Depreciating assets
- Diminishing value method
- Head company
- Hold a depreciating asset
- Intangible deprecia
-
-Siebel/TDMS Reference Number:
-  1-329VL6Y
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  17 June 2011
-
-ISSN:
- 1445-2782
+Date of decision: 27 May 2011 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 Division 40 Subdivision 40-C subsection 40-25(1) paragraph 40-30(2)(c) subsection 40-60(2) subsection 40-65(1) section 376-55 section 701-1 subsection 701-55(2)
+Income Tax Assessment Act 1936 Division 10B Division 10BA Keywords Consolidation Consolidation - assets Consolidation - joining Copyright Cost of a depreciating asset Decline in value Deduction for depreciating assets Depreciating assets Diminishing value method Head company Hold a depreciating asset Intangible deprecia Siebel/TDMS Reference Number: 1-329VL6Y Business Line: Consolidation Centre of Expertise Date of publication: 17 June 2011 ISSN: 1445-2782

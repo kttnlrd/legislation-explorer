@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/164
-==================================================
-
-Income Tax
- Family trusts: family groups - distribution to charitable trust - Family Trust Distribution Tax
- FOI status: may be released
-
-This ATO ID is withdrawn due to subsection 272-90(7) of the ITAA 1997 being amended by Act No. 101 of 2006 to remove inoperative provisions. Further it is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Family trusts: family groups - distribution to charitable trust - Family Trust Distribution Tax FOI status: may be released This ATO ID is withdrawn due to subsection 272-90(7) of the ITAA 1997 being amended by Act No. 101 of 2006 to remove inoperative provisions. Further it is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a distribution of income or capital made by the trustee of a family trust to a charitable trust, all of whose income is exempt under section 50-5 of the Income Tax Assessment Act 1997 (ITAA 1997), subject to Family Trust Distribution Tax (FTDT) pursuant to section 271-15 of Schedule 2F to the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. A distribution of capital or income made by a family trust to a trustee of a charitable trust, all of whose income is exempt under section 50-5 of the ITAA 1997, is not subject to FTDT where it is considered to be a member of the specified individual's family group as defined by subsection 272-90(7) of Schedule 2F to the ITAA 1936.
@@ -28,54 +13,10 @@ The charitable trust has not made an interposed entity election.
 Reasons for Decision
 Section 271-15 of Schedule 2F to the ITAA 1936 imposes a liability for FTDT where the trustee of a trust has made a family trust election (section 272-80 of Schedule 2F to the ITAA 1936) and, during the time when the election is in force, the trust confers a present entitlement or distributes income or capital outside the family group of the individual specified in the family trust election.
 The primary individual's family group is defined by section 272-90 of Schedule 2F to the ITAA 1936. Subsection 272-90(7) of Schedule 2F to the ITAA 1936 states:
-an institution, hospital, trustee, society, association, club, or fund, all of whose income is exempt under:
-
-(a) paragraph 23(e), (ea), (ec), (g) or (j); or
-(b) section 50-5, 50-10 or 50-20, item 6.1 or 6.2 of the table in section 50-30, or item 9.1 or 9.2 of the table in section 50-45, of the ITAA 1997;is a member of the primary individual's family group in relation to the conferral or distribution if, assuming that a deduction were allowable under section 78, or Division 30 of the ITAA 1997, in respect of the conferral or distribution, section 78A would not prevent any of the deduction being allowable.
-
-As the charitable trust's income is exempt under section 50-5 of the ITAA 1997 and satisfies the other relevant conditions in subsection 272-90(7) of Schedule 2F to the ITAA 1936, it is considered to be a member of the specified individual's family group pursuant to paragraph 272-90(7)(b). Accordingly, FTDT is not payable on a distribution of income by the trustee of a family trust to the charitable trust.
-Date of decision:
-  10 February 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 78   section 78A   Schedule 2F   section 271-15   section 272-45   section 272-90   subsection 272-90(7)   paragraph 272-90(7)(b)
-Income Tax Assessment Act 1997   section 50-5
-
-Keywords
-
-Charitable trusts
- Family group
- Family trust distribution tax
- Family trust election
- Family trusts
- Interposed entity election
- Trust distributions
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  20 February 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 February 2004
-Original statement
-
-You are here
+an institution, hospital, trustee, society, association, club, or fund, all of whose income is exempt under: (a) paragraph 23(e), (ea), (ec), (g) or (j); or
+(b) section 50-5, 50-10 or 50-20, item 6.1 or 6.2 of the table in section 50-30, or item 9.1 or 9.2 of the table in section 50-45, of the ITAA 1997;is a member of the primary individual's family group in relation to the conferral or distribution if, assuming that a deduction were allowable under section 78, or Division 30 of the ITAA 1997, in respect of the conferral or distribution, section 78A would not prevent any of the deduction being allowable. As the charitable trust's income is exempt under section 50-5 of the ITAA 1997 and satisfies the other relevant conditions in subsection 272-90(7) of Schedule 2F to the ITAA 1936, it is considered to be a member of the specified individual's family group pursuant to paragraph 272-90(7)(b). Accordingly, FTDT is not payable on a distribution of income by the trustee of a family trust to the charitable trust.
+Date of decision: 10 February 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 78 section 78A Schedule 2F section 271-15 section 272-45 section 272-90 subsection 272-90(7) paragraph 272-90(7)(b)
+Income Tax Assessment Act 1997 section 50-5 Keywords Charitable trusts Family group Family trust distribution tax Family trust election Family trusts Interposed entity election Trust distributions Business Line: Losses and CGT Centre of Expertise Date of publication: 20 February 2004 ISSN: 1445-2782 history Date: Version: 10 February 2004
+Original statement You are here
 19 February 2010
 Archived

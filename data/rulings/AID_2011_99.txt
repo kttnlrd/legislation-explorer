@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/99
-==================================================
-
-Income Tax
- Small business entity: roll-over relief - disposal of assets of partnership to former partners
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Small business entity: roll-over relief - disposal of assets of partnership to former partners FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can roll-over relief be chosen pursuant to subsection 328-243(1) of the Income Tax Assessment Act 1997 (ITAA 1997) if all the assets that were allocated to the partnership's general small business pool are disposed of to the former partners and, just after the disposals, no former partner has an interest in each of the assets that were allocated to the pool?
 Decision
 No. Roll-over relief cannot be chosen pursuant to subsection 328-243(1) of the ITAA 1997 if all the assets that were allocated to the partnership's general small business pool are disposed of to the former partners and, just after the disposals, no former partner has an interest in each of the assets that were allocated to the pool, as the condition at paragraph 328-243(1)(c) is not met.
@@ -22,24 +9,10 @@ Facts
 All legislative references are to the ITAA 1997 unless otherwise specified.
 A partnership (of two partners) conducted a business. The partnership was a small business entity (SBE) which allocated all its depreciating assets to its general small business pool.
 The partners dissolved the partnership and each started to carry on business as a sole trader. As a result, all of the assets held by the partnership were disposed of to the former partners. The disposal of each asset by the partnership is a balancing adjustment event for that asset of the kind mentioned in subsection 40-295(2).
-Just after the disposals, neither former partner had an interest in each of the assets that were allocated to the general small business pool. At that time, one former partner exclusively holds some of the assets and the other exclusively holds the remainder of the assets.
-
-Reasons for Decision
+Just after the disposals, neither former partner had an interest in each of the assets that were allocated to the general small business pool. At that time, one former partner exclusively holds some of the assets and the other exclusively holds the remainder of the assets. Reasons for Decision
 Broadly, an SBE that chooses to use Subdivision 328-D must use a general small business pool to calculate deductions for all depreciating assets it holds unless the assets are specifically excluded (sections 328-175, 328-180 and 328-185). An SBE deducts amounts for its depreciating assets allocated to a general small business pool as if they were a single asset (subsection 328-185(1)).
-Roll-over relief under subsection 40-340(3) can be chosen pursuant to subsection 328-243(1) if, amongst other things, the transferor and the transferee jointly choose the roll-over relief. Specifically, for the roll-over relief to be chosen, paragraph 328-243(1)(c) requires a joint choice by the entity or entities that have the requisite interest in the assets for which the balancing adjustment events occurred. It provides that:
-
-(c) the entity or entities that had
- an interest in the assets
- just before the balancing adjustment events occurred (the transferor) and the entity or entities that have
- an interest in the assets
- just after the events occurred (the transferee) jointly choose the roll-over relief;
-
-In determining whether the condition in paragraph 328-243(1)(c) is met, the interpretative issue that arises is whether or not, for the purpose of that paragraph, the requirement that the transferee 'have an interest in the assets' just after the events occurred is only met if the transferee has, at that time, an interest in each of the assets for which the events occurred.
-In reaching the correct interpretation of paragraph 328-243(1)(c), regard may be had to the purpose of elective roll-over relief under subsection 328-243(1) in order to verify that the interpretation of the paragraph promotes the purpose underlying the Act (section 15AA of the Acts Interpretation Act 1901). The purpose of subsection 328-243(1) can be ascertained from the Explanatory Memorandum (EM) to the Tax Laws Amendment (2004 Measures No 7) Bill 2005 which substituted that subsection in its current form. Paragraph 7.13 of the EM stated:
-
-7.13 The extended roll-over relief will benefit STS [Simplified Tax System] taxpayers by removing the balancing adjustment, or taxing point, that would otherwise arise in relation to depreciating assets at the time the ownership change occurs. This will ensure that a taxable gain or loss will only arise upon disposal of the depreciating assets. This amendment ensures that consistent treatment applies to depreciating assets under the STS regime compared with the uniform capital allowances regime.
-
-This purpose is supported by a statutory construction of the consequences of the application of subsection 328-243(1). The primary object of statutory construction is to construe the relevant provision so that it is consistent with the language and purpose of all the provisions of the statute (Project Blue Sky Inc v. Australian Broadcasting Authority [1998] HCA 28; (1998) 194 CLR 355).
+Roll-over relief under subsection 40-340(3) can be chosen pursuant to subsection 328-243(1) if, amongst other things, the transferor and the transferee jointly choose the roll-over relief. Specifically, for the roll-over relief to be chosen, paragraph 328-243(1)(c) requires a joint choice by the entity or entities that have the requisite interest in the assets for which the balancing adjustment events occurred. It provides that: (c) the entity or entities that had an interest in the assets just before the balancing adjustment events occurred (the transferor) and the entity or entities that have an interest in the assets just after the events occurred (the transferee) jointly choose the roll-over relief; In determining whether the condition in paragraph 328-243(1)(c) is met, the interpretative issue that arises is whether or not, for the purpose of that paragraph, the requirement that the transferee 'have an interest in the assets' just after the events occurred is only met if the transferee has, at that time, an interest in each of the assets for which the events occurred.
+In reaching the correct interpretation of paragraph 328-243(1)(c), regard may be had to the purpose of elective roll-over relief under subsection 328-243(1) in order to verify that the interpretation of the paragraph promotes the purpose underlying the Act (section 15AA of the Acts Interpretation Act 1901). The purpose of subsection 328-243(1) can be ascertained from the Explanatory Memorandum (EM) to the Tax Laws Amendment (2004 Measures No 7) Bill 2005 which substituted that subsection in its current form. Paragraph 7.13 of the EM stated: 7.13 The extended roll-over relief will benefit STS [Simplified Tax System] taxpayers by removing the balancing adjustment, or taxing point, that would otherwise arise in relation to depreciating assets at the time the ownership change occurs. This will ensure that a taxable gain or loss will only arise upon disposal of the depreciating assets. This amendment ensures that consistent treatment applies to depreciating assets under the STS regime compared with the uniform capital allowances regime. This purpose is supported by a statutory construction of the consequences of the application of subsection 328-243(1). The primary object of statutory construction is to construe the relevant provision so that it is consistent with the language and purpose of all the provisions of the statute (Project Blue Sky Inc v. Australian Broadcasting Authority [1998] HCA 28; (1998) 194 CLR 355).
 If a taxpayer has used the uniform capital allowances regime to calculate deductions for decline in value of the depreciating assets they hold and has chosen roll-over relief under subsection 40-340(3) in respect of a change in interest in one or more of those assets which satisfies the requirements of subsection 40-295(2), the principle consequence of the roll-over relief is that a 'balancing adjustment' is deferred until there is a balancing adjustment event to which no roll-over relief is applied.
 For roll-over relief to be available under subsection 328-243(1), all of the assets that were held by the transferor and allocated to the transferor's general small business pool must stop being held by the transferor and instead all be held by the transferee (subsection 328-243(2)). A consequence of choosing the roll-over relief is that the transferor does not subtract the taxable purpose proportions of the termination values of depreciating assets allocated to the SBE pool and for which balancing adjustment events occurred (paragraph 328-245(1)(a)). Accordingly, the choice of the roll-over relief in these circumstances can ensure that the closing pool balance would not be reduced to an amount less than zero and consequently that no amount is included in the transferor's assessable income under section 328-215. In other words, a taxing point will not arise as a result of the balancing adjustment events occurring for each of the assets.
 Another consequence of roll-over relief is that the amount that could be deducted for the transferor's general small business pool for the income year (BAE year) in which the balancing adjustment events occurred is to be split equally between the transferor and transferee (subsection 328-247(1)). After the BAE year, the transferor cannot deduct any amount for the general small business pool (subsection 328-247(2)) and the transferee deducts amounts for the assets transferred and allocated to the general small business pool using Subdivision 328-D (subsection 328-220(3)). In that circumstance, the practical effect is that it is the transferee that treats the pool as a single depreciating asset with deductions being based on the closing pool balance of the general small business pool for the BAE year.
@@ -48,72 +21,13 @@ Accordingly, consistency of roll-over relief between Division 40 and Division 32
 In this context, the requirement at paragraph 328-243(1)(c) that the transferee must have an interest in the assets just after the balancing adjustment events occurred is a requirement that the transferee have an interest in each of the assets for which the events occurred. This requirement is met if each of the assets that were allocated to the general small business pool is held, just after the events occurred, by a single entity, for example a reconstituted partnership as transferee or a former partner. It cannot be met if the assets that were allocated to the pool are, just after the events occurred, held by more than one entity.
 In this case, the disposal of all of the assets that were allocated to the general small business pool to the former partners resulted in some of those assets being held exclusively by one former partner and the remainder being held exclusively by the other. In other words, just after the balancing adjustment events occurred each former partner holds the assets disposed of to it, and does not hold, nor have an interest in, the assets disposed of to the other former partner.
 In that circumstance, there is no entity or entities that have an interest in each of the assets for which balancing adjustment events occurred (that is, an interest in each of the assets that were held by the partnership before its dissolution). Accordingly, there is no transferee that can choose, jointly with the transferor, the roll-over relief. It follows that the condition at paragraph 328-243(1)(c) cannot be met and that the roll-over relief cannot be chosen pursuant to subsection 328-243(1).
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-23 January 2015
+Comment 23 January 2015
 Reasons for Decision
-Amended to include the unabbreviated term for STS [Simplified Tax System] for clarity as the unabbreviated term was not previously used in the document.
-
-Correction of grammatical error and readability.
-SBE Pool replaced by general small business pool
-
-Date of decision:
-  28 November 2011
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 40-295(2)   subsection 40-340(3)   Subdivision 328-D   section 328-175   section 328-180   section 328-185   subsection 328-185(1)   section 328-215   subsection 328-220(3)   section 328-243   subsection 328-243(1)   paragraph 328-243(1)(c)   subsection 328-243(2)   paragraph 328-245(1)(a)   section 328-247   subsection 328-247(1)   subsection 328-247(2)
-Acts Interpretation Act 1901   section 15AA
-
-Case References:
-
-Project Blue Sky Inc v Australian Broadcasting Authority   [1998] HCA 28   (1998) 194 CLR 355
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (2004 Measures No 7) Bill 2005
-
-Keywords
-
-Small Business Entities
- Balancing adjustment roll-over relief
- Partnership asset
- General small business pool
-
-Siebel/TDMS Reference Number:
-  1-3LTBFEY; 1-5P45ARN; 1-CR5H5ER
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  9 December 2011
-
-Date reviewed:
-  7 August 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-28 November 2011
-Original statement
-
-You are here
+Amended to include the unabbreviated term for STS [Simplified Tax System] for clarity as the unabbreviated term was not previously used in the document. Correction of grammatical error and readability.
+SBE Pool replaced by general small business pool Date of decision: 28 November 2011 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 subsection 40-295(2) subsection 40-340(3) Subdivision 328-D section 328-175 section 328-180 section 328-185 subsection 328-185(1) section 328-215 subsection 328-220(3) section 328-243 subsection 328-243(1) paragraph 328-243(1)(c) subsection 328-243(2) paragraph 328-245(1)(a) section 328-247 subsection 328-247(1) subsection 328-247(2)
+Acts Interpretation Act 1901 section 15AA Case References: Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 (1998) 194 CLR 355 Other References: Explanatory Memorandum to the Tax Laws Amendment (2004 Measures No 7) Bill 2005 Keywords Small Business Entities Balancing adjustment roll-over relief Partnership asset General small business pool Siebel/TDMS Reference Number: 1-3LTBFEY; 1-5P45ARN; 1-CR5H5ER Business Line: Private Groups and High Wealth Individuals Date of publication: 9 December 2011 Date reviewed: 7 August 2018 ISSN: 1445-2782 history Date: Version: 28 November 2011
+Original statement You are here
 23 January 2015
 Updated statement

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/875
-==================================================
-
-Income Tax
- Consolidation - trust - unit trust
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation - trust - unit trust FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does Division 6B of the Income Tax Assessment Act 1936 (ITAA 1936) apply to treat a public unit trust as a corporate unit trust when the trust leaves a consolidated group with assets the trust acquired during the period of consolidation from third parties outside the consolidated group?
 Decision
 No. The trust would not be a corporate unit trust in terms of section 102J of the ITAA 1936. The exit history rule in section 701-40 of the Income Tax Assessment Act 1997 ((ITAA 1997) applies such that the property that the trust takes with it when it leaves the consolidated group would always have been property of the trust. Accordingly, the trust will not be an eligible unit trust because at no time before the property became the property of the unit trust, would the property have been the property of the company or an associate of the company. Therefore, the trust would not be a corporate unit trust.
@@ -22,69 +11,22 @@ During the period of consolidation, the unit trust acquired property assets from
 After operating as a consolidated group for a period of time, a stapled group consisting of the property investment unit trust and the head company was formed. The head company issued units to its shareholders so that the unit trust was now owned by the head company's shareholders. These units were stapled to the shares in the head company to form the stapled group. When the unit trust left the consolidated group, it took with it the property assets which had been acquired by the unit trust from outside the consolidated group.
 Reasons for Decision
 Exit History Rule
-The exit history rule is contained in section 701-40 of the ITAA 1997:
-
-701-40(1) If the entity ceases to be a *subsidiary member of the group, this section has effect for the entity core purposes, so far as they relate to any thing covered by subsection (2) (an eligible asset etc.) after it becomes that of the entity because subsection 701-1(1) (the single entity rule) ceases to apply to the entity.
-
-Assets, liabilities and businesses covered
-
-701-40(2) This subsection covers the following:
-
-(a) any asset;
+The exit history rule is contained in section 701-40 of the ITAA 1997: 701-40(1) If the entity ceases to be a *subsidiary member of the group, this section has effect for the entity core purposes, so far as they relate to any thing covered by subsection (2) (an eligible asset etc.) after it becomes that of the entity because subsection 701-1(1) (the single entity rule) ceases to apply to the entity. Assets, liabilities and businesses covered 701-40(2) This subsection covers the following: (a) any asset;
 (b) any liability or other thing that, in accordance with accounting standards, or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability;
 (c) any business.
 (d) any registration under section 39J of the of the Industry Research and Development Act 1986 for particular research and development activities;
-that becomes that of the entity because subsection 701-1(1) (the single entity rule) ceases to apply to the entity when it ceases to be a *subsidiary member of the group.
-
-Head company history inherited
-
-701-40(3) Everything that happened in relation to any eligible asset etc. while it was that of the *head company, including because of any application of section 701-5 (the entry history rule), is taken to have happened in relation to it as if it had been an eligible asset etc. of the entity.Note 1:If the eligible asset etc. was brought into the group when an entity became a subsidiary member, section 701-5 (the entry history rule) would have had the effect that things happening to the eligible asset etc. while it was that of the entity would be taken to have happened as if it was that of the head company. Such things will in turn be taken by this subsection to have happened in relation to the eligible asset etc. as if it were that of the entity that takes the asset out of the group.Note 2:Other provisions of this Part may affect the tax history that is inherited (e.g. asset cost base history is affected by section 701-45).*denotes a term defined in section 995-1 of the ITAA 1997.
-
-Subsection 701-40(1) of the ITAA 1997 details the circumstances in which the provision will have application. When determining the income or loss of an entity that has ceased to be a member of a consolidated group because the Single Entity Rule (SER) ceases to apply to it, the history of any of the items mentioned in subsection 701-40(2) of the ITAA 1997 that is to be taken into account, is determined by subsection 701-40(3) of the ITAA 1997.
+that becomes that of the entity because subsection 701-1(1) (the single entity rule) ceases to apply to the entity when it ceases to be a *subsidiary member of the group. Head company history inherited 701-40(3) Everything that happened in relation to any eligible asset etc. while it was that of the *head company, including because of any application of section 701-5 (the entry history rule), is taken to have happened in relation to it as if it had been an eligible asset etc. of the entity.Note 1:If the eligible asset etc. was brought into the group when an entity became a subsidiary member, section 701-5 (the entry history rule) would have had the effect that things happening to the eligible asset etc. while it was that of the entity would be taken to have happened as if it was that of the head company. Such things will in turn be taken by this subsection to have happened in relation to the eligible asset etc. as if it were that of the entity that takes the asset out of the group.Note 2:Other provisions of this Part may affect the tax history that is inherited (e.g. asset cost base history is affected by section 701-45).*denotes a term defined in section 995-1 of the ITAA 1997. Subsection 701-40(1) of the ITAA 1997 details the circumstances in which the provision will have application. When determining the income or loss of an entity that has ceased to be a member of a consolidated group because the Single Entity Rule (SER) ceases to apply to it, the history of any of the items mentioned in subsection 701-40(2) of the ITAA 1997 that is to be taken into account, is determined by subsection 701-40(3) of the ITAA 1997.
 Subsection 701-40(2) of the ITAA 1997 details the assets, liabilities and businesses which are covered by section 701-40 of the ITAA 1997. The assets, liabilities and businesses are those that became assets etc. of the entity because the SER ceased to apply to the entity when it left the consolidated group.
 Subsection 701-40(3) of the ITAA 1997 is the operative provision which states that when we are working out the income or loss of an entity that ceased to be a member of a consolidated group everything that happened to any item in subsection 701-40(2) of the ITAA 1997 while it was that of the head company is taken to have happened to it as if it belonged to the entity.
 In addition, the history of the assets etc. that is inherited includes the history of those assets that the head company inherited because of any application of the entry history rule.
 Therefore, everything that happened to an asset etc. of a joining entity, which was taken to have happened to it as though it was an asset of the head company because of an application of the entry history rule, is now taken to have happened to it as if it belonged to the leaving entity.
 Consequently, any asset etc that leaves a consolidated group with an entity because the SER ceases to apply to that entity will be treated as if it belonged to the leaving entity from the time it was acquired by the entity that held it at the time the SER began to apply.
 The effect of the exit history rule on the potential application of Division 6B of the ITAA 1936
-In so far as is relevant to this trust, it would be a corporate unit trust in terms of section 102J of the ITAA 1936 if it is:
-
-•an eligible unit trust in the year of income;
+In so far as is relevant to this trust, it would be a corporate unit trust in terms of section 102J of the ITAA 1936 if it is: •an eligible unit trust in the year of income;
 •a public unit trust; and
-•a resident unit trust in the year of income.
-
-The trust is a resident public unit trust.
+•a resident unit trust in the year of income. The trust is a resident public unit trust.
 A trust is an eligible unit trust, as defined in section 102F of the ITAA 1936, if a property that, at any time during the year of income or a preceding year of income, was property of the unit trust became property of the unit trust in pursuance of an arrangement that is a prescribed arrangement in relation to company and, at any time before the property became property of the unit trust, the property was the property of the company or an associate of the company.
 Therefore, the trust would be an eligible unit trust if any of the trust's property became so under a prescribed arrangement in relation to a company and the property was previously that of the company or an associate of the company.
 However, because of the exit history rule, the property of the trust will be treated as though it always belonged to the unit trust. Hence, even if there was prescribed arrangement in terms of section 102E of the ITAA 1936, the conditions set down in section 102F of the ITAA 1936 cannot be met (i.e. the property cannot previously have been property of the company or an associate) and Division 6B of the ITAA 1936 cannot apply.
-Date of decision:
-  28 October 2004
-
-Year of income:
-  Year ended 30 June 2005 Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 102E   section 102F   section 102J
-Income Tax Assessment Act 1997   section 701-1   section 701-5   section 701-40   subsection 701-40(1)   subsection 701-40(2)   subsection 701-40(3)
-
-Keywords
-
-Corporate unit trusts
- Inherited history rules
- Leaving entity
- Single entity rule
- Trusts
- Unit trusts
-
-Siebel/TDMS Reference Number:
-  4172669
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  12 November 2004
-
-ISSN:
- 1445-2782
+Date of decision: 28 October 2004 Year of income: Year ended 30 June 2005 Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 section 102E section 102F section 102J
+Income Tax Assessment Act 1997 section 701-1 section 701-5 section 701-40 subsection 701-40(1) subsection 701-40(2) subsection 701-40(3) Keywords Corporate unit trusts Inherited history rules Leaving entity Single entity rule Trusts Unit trusts Siebel/TDMS Reference Number: 4172669 Business Line: Consolidation Centre of Expertise Date of publication: 12 November 2004 ISSN: 1445-2782

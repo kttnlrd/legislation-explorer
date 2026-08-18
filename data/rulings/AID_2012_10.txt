@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/10
-==================================================
-
-Income Tax
- Income Tax: anti detriment payments paid by a complying superannuation fund to a trustee of a deceased estate
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that does not apply to lump sum death benefits paid because of the death of a person on or after 1 July 2017 or to such benefits paid on or after 1 July 2019. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of such benefits paid because of the death of a person before 1 July 2017 or to such benefits paid before 1 July 2019.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax: anti detriment payments paid by a complying superannuation fund to a trustee of a deceased estate FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that does not apply to lump sum death benefits paid because of the death of a person on or after 1 July 2017 or to such benefits paid on or after 1 July 2019. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of such benefits paid because of the death of a person before 1 July 2017 or to such benefits paid before 1 July 2019. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a complying superannuation fund is advised by the trustee of a deceased's estate that only 50% of a lump sum to be paid by the fund to the estate will be paid to a 'spouse, former spouse or child' of the deceased, can the fund increase the lump sum it pays to the estate by only 50% of the maximum possible 'tax saving amount' and claim a deduction in respect of that amount under section 295-485 of the Income Tax Assessment 1997 (ITAA 1997)?
 Decision
 Yes. A complying superannuation fund can increase the lump sum it pays to the trustee of a deceased's estate by only 50% of the maximum possible 'tax saving amount' and claim a deduction in respect of that amount under section 295-485 of the ITAA 1997, where the fund is advised that only 50% of the lump sum paid to the estate will be paid to a 'spouse, former spouse or child' of the deceased.
@@ -26,86 +11,20 @@ The fund is to pay a superannuation lump sum to the trustee of the deceased memb
 The trustee of the deceased's estate advises the fund that, under the terms of the member's will, the superannuation lump sum will be paid 50% to the former spouse of the member and 50% to the father of the member.
 The trustee of the fund will increase the superannuation lump sum otherwise payable to the legal personal representative by the relevant 'tax saving amount'.
 Reasons for Decision
-Subsection 295-485(1) of the ITAA 1997 provides that:
-
-An entity that is a *complying superannuation fund...can deduct an amount under this section if:
-
-(a)it pays a *superannuation lump sum because of the death of a person to the trustee of the deceased's estate or to an individual who was a *spouse, former spouse or *child of the deceased ...; and
-(b)it increases the lump sum by an amount, ...(the
- tax saving amount
-) so that the amount of the lump sum is the amount that the fund could have paid if no tax were payable on amounts included in assessable income under Subdivision 295-C.
-
-Subsection 295-485(3) of the ITAA 1997 provides a formula for determining the amount a fund can deduct. The formula simply requires the tax saving amount to be divided by the rate of tax (15%) imposed on the concessionally taxed component of the superannuation fund's taxable income.
-Subsection 295-485(4) of the ITAA 1997 provides, in the case of a payment made to the trustee of the deceased's estate, that:
-
-The amount the fund can deduct for a *superannuation lump sum paid because of the death of a person to the trustee of the deceased's estate is so much of the subsection (3) amount as is appropriate having regard to the extent to which individuals referred to in paragraph (1)(a)
- can reasonably be expected to benefit from the estate
-.[emphasis added]
-
-On a literal reading of paragraph 295-485(1)(b) of the ITAA 1997, the tax saving amount could be taken to mean the amount reflecting the negative impact of 'contributions tax' on the entire amount of the lump sum to be paid to the estate, not just the amount reflecting the negative impact of 'contributions tax' on that portion of the lump sum from which 'a *spouse, former spouse or *child of the deceased' (hereafter referred to as dependants) can be expected to benefit from the estate.
+Subsection 295-485(1) of the ITAA 1997 provides that: An entity that is a *complying superannuation fund...can deduct an amount under this section if: (a)it pays a *superannuation lump sum because of the death of a person to the trustee of the deceased's estate or to an individual who was a *spouse, former spouse or *child of the deceased ...; and
+(b)it increases the lump sum by an amount, ...(the tax saving amount
+) so that the amount of the lump sum is the amount that the fund could have paid if no tax were payable on amounts included in assessable income under Subdivision 295-C. Subsection 295-485(3) of the ITAA 1997 provides a formula for determining the amount a fund can deduct. The formula simply requires the tax saving amount to be divided by the rate of tax (15%) imposed on the concessionally taxed component of the superannuation fund's taxable income.
+Subsection 295-485(4) of the ITAA 1997 provides, in the case of a payment made to the trustee of the deceased's estate, that: The amount the fund can deduct for a *superannuation lump sum paid because of the death of a person to the trustee of the deceased's estate is so much of the subsection (3) amount as is appropriate having regard to the extent to which individuals referred to in paragraph (1)(a) can reasonably be expected to benefit from the estate
+.[emphasis added] On a literal reading of paragraph 295-485(1)(b) of the ITAA 1997, the tax saving amount could be taken to mean the amount reflecting the negative impact of 'contributions tax' on the entire amount of the lump sum to be paid to the estate, not just the amount reflecting the negative impact of 'contributions tax' on that portion of the lump sum from which 'a *spouse, former spouse or *child of the deceased' (hereafter referred to as dependants) can be expected to benefit from the estate.
 This could be the case even though subsection 295-485(4) of the ITAA 1997 clearly limits the amount a fund can deduct to only that amount that properly reflects the extent to which dependants can reasonably be expected to benefit from the estate. That is, under such a literal reading, in the case where a dependant was reasonably expected to benefit from only 50% of a deceased's estate, the fund would be required to increase the lump sum paid to the estate by 100% of the possible tax saving amount yet would effectively only be able to claim a deduction in respect of 50% of the tax saving amount.
 Section 295-485 of the ITAA 1997 restates former section 279D of the Income Tax Assessment Act 1936 (ITAA 1936). The Explanatory Memorandum accompanying Tax Laws Amendment (Simplified Superannuation) Act 2007 (No. 9 of 2007) (the EM) which introduced Division 295 of the ITAA 1997 provides, at paragraphs 3.1, 3.8 and 3.14 that the rewritten provisions in Division 295 of the ITAA 1997 do not change the law as it operated under Part IX of the ITAA 1936 (which included section 279D).
 One consequence of this is that section 1-3 of the ITAA 1997 and other principles of statutory interpretation are relevant to the interpretation of section 295-485 of the ITAA 1997. Section 1-3 of the ITAA 1997 provides that if the ITAA 1936 expressed an idea in a particular form of words and the ITAA 1997 appears to have expressed the same idea in a different form of words in order to use a clearer or simpler style, the ideas are not taken to be different just because different forms of words are used.
-Paragraph 279D(1)(c) of the ITAA 1936 stated:
-
-[T]he Commissioner is satisfied that the paying entity has passed on to the recipient the
- whole of the benefit that would accrue to the paying entity if a deduction were allowed
- under this section in respect of the payment. (emphasis added)
-
-Subsection 279D(3) of the ITAA 1936 limited the amount of the deduction a fund could claim in respect of a payment made to the trustee of the deceased's estate to only so much of the subsection 279D(2) of the ITAA 1936 maximum possible deduction amount that the Commissioner considered appropriately reflected the extent to which dependants could be expected to benefit from the estate. As noted above, subsection 295-485(4) of the ITAA 1997 replicates this requirement with the minor exception that the Commissioner's discretion is replaced by an objective test of reasonableness (see paragraph 3.71 of the EM).
+Paragraph 279D(1)(c) of the ITAA 1936 stated: [T]he Commissioner is satisfied that the paying entity has passed on to the recipient the whole of the benefit that would accrue to the paying entity if a deduction were allowed under this section in respect of the payment. (emphasis added) Subsection 279D(3) of the ITAA 1936 limited the amount of the deduction a fund could claim in respect of a payment made to the trustee of the deceased's estate to only so much of the subsection 279D(2) of the ITAA 1936 maximum possible deduction amount that the Commissioner considered appropriately reflected the extent to which dependants could be expected to benefit from the estate. As noted above, subsection 295-485(4) of the ITAA 1997 replicates this requirement with the minor exception that the Commissioner's discretion is replaced by an objective test of reasonableness (see paragraph 3.71 of the EM).
 For the purposes of section 279D of the ITAA 1936, the Commissioner took the view that "the benefit that would accrue to the paying entity if a deduction were allowed under" section 279D had to reflect the particular circumstances of the payment. Therefore, if a payment was made to a deceased's estate and non-dependants were expected to benefit from the estate, the payment only needed to be increased by an amount equal to the amount allowed as a deduction under subsection 279D(3) of the ITAA 1936 rather than the higher amount worked out under subsection 279D(2) of that Act.
 As there was no intention to alter the basis for determining the deduction and the amount by which a fund must increase a payment where non-dependants are expected to benefit from the deceased's estate, the Commissioner does not consider that a literal reading of paragraph 295-485(1)(b) of the ITAA 1997 is the better view in the circumstances where the relevant payment is made to the trustee of a deceased's estate. Rather, in such circumstances, the Commissioner will interpret section 295-485 of the ITAA 1997 consistently with his view of the proper operation of section 279D of the ITAA 1936.
 Such a purposive approach is also consistent with the policy intent underpinning the deduction which is to compensate a fund for the cost of increasing the amount of lump sum death benefits paid in respect of dependants of the deceased such that they are not diminished by 'contributions tax'.
 A literal reading of section 295-485 of the ITAA 1997 in the circumstances where a payment is to be made to the trustee of a deceased's estate and non-dependants are to benefit from the estate would not achieve this policy intent, as the fund would be required to increase the payment by an amount greater than the compensation provided by the deduction.
-Date of decision:
-  31 October 2011
-
-Year of income:
-  Year ending 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Part IX   section 279D   paragraph 279D(1)(c)   subsection 279D(2)   subsection 279D(3)
-Income Tax Assessment Act 1997   section 1-3   Division 295   section 295-485   subsection 295-485(1)   paragraph 295-485(1)(b)   subsection 295-485(3)   subsection 295-485(4)
-
-Other References:
-
- Explanatory Memorandum to Tax Laws Amendment (Simplified Superannuation) Act 2007 (No. 9 of 2007)
-
-Keywords
-
-Superannuation fund expenses
- Superannuation fund potential detriment payments
- Tax saving amount
- Spouse, former spouse or child of the deceased
-
-Siebel/TDMS Reference Number:
-  1-3IA7X7V; 1-6D2Q2Z3; 1-I5SSJV7
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  24 February 2012
-
-Date reviewed:
-  24 February 2015
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-31 October 2011
-Original statement
-
-You are here
- 9 August 2019
+Date of decision: 31 October 2011 Year of income: Year ending 30 June 2012 Legislative References: Income Tax Assessment Act 1936 Part IX section 279D paragraph 279D(1)(c) subsection 279D(2) subsection 279D(3)
+Income Tax Assessment Act 1997 section 1-3 Division 295 section 295-485 subsection 295-485(1) paragraph 295-485(1)(b) subsection 295-485(3) subsection 295-485(4) Other References: Explanatory Memorandum to Tax Laws Amendment (Simplified Superannuation) Act 2007 (No. 9 of 2007) Keywords Superannuation fund expenses Superannuation fund potential detriment payments Tax saving amount Spouse, former spouse or child of the deceased Siebel/TDMS Reference Number: 1-3IA7X7V; 1-6D2Q2Z3; 1-I5SSJV7 Business Line: Superannuation Date of publication: 24 February 2012 Date reviewed: 24 February 2015 ISSN: 1445-2782 history Date: Version: 31 October 2011
+Original statement You are here 9 August 2019
 Archived

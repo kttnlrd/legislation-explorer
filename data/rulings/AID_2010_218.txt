@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/218
-==================================================
-
-Income Tax
- Assessable recoupment: recoupment - grant of the right to create renewable energy certificates - solar system on a rental property
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessable recoupment: recoupment - grant of the right to create renewable energy certificates - solar system on a rental property FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the grant to the taxpayer of a right to create Renewable Energy Certificates (certificates), arising through the operation of the Renewable Energy (Electricity) Act 2000 (REE Act), an assessable recoupment for the purposes of section 20-20 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The grant to the taxpayer of a right to create certificates, arising through the operation of the REE Act, is an assessable recoupment under subsection 20-20 of the ITAA 1997. The right to create the certificates is considered to be a recoupment because it is a grant in respect of a loss or outgoing. The recoupment is assessable because the taxpayer can deduct an amount for the loss or outgoing under the ITAA 1997.
@@ -22,28 +9,16 @@ Facts
 The taxpayer acquires and installs a large capacity residential photovoltaic system (solar system), on the roof of their rental property. The taxpayer is the owner of the solar system. The solar system is an eligible small generation unit (SGU) for the purposes of the REE Act.
 The REE Act supports the Federal Government's Renewable Energy Target (RET) scheme which was established to encourage additional electricity generation from renewable energy sources. Under the RET scheme, eligible parties, including owners of SGUs, can create certificates. The number of certificates that can be created is based on a formula that takes into account the rated power output of the system and the zone in which the system is located.
 Upon ownership and installation of a SGU, a statutory right arises under the REE Act entitling the taxpayer to create certificates. A certificate is a commodity in the Renewable Energy Certificate (REC) market.
-Under the RET scheme, the taxpayer gains a financial benefit from the right to create certificates by choosing to either:
-
-•enter into an agreement with an agent (this will often be the installer of the solar system) to assign their right to create certificates to the agent in exchange for a financial benefit (this will often be a reduction in the amount the taxpayer pays for the purchase and installation of the solar system - the reduction reflects the value of the right to create certificates assigned to the installer); or
-•become registered in the REC Registry and create the certificates themselves. Once registered the certificates can then be sold and transferred at any time during the life of the RET scheme. The taxpayer gains a financial benefit from the sale of the certificates.
-
-The electricity account at the rental property will be in the taxpayer's name.
+Under the RET scheme, the taxpayer gains a financial benefit from the right to create certificates by choosing to either: •enter into an agreement with an agent (this will often be the installer of the solar system) to assign their right to create certificates to the agent in exchange for a financial benefit (this will often be a reduction in the amount the taxpayer pays for the purchase and installation of the solar system - the reduction reflects the value of the right to create certificates assigned to the installer); or
+•become registered in the REC Registry and create the certificates themselves. Once registered the certificates can then be sold and transferred at any time during the life of the RET scheme. The taxpayer gains a financial benefit from the sale of the certificates. The electricity account at the rental property will be in the taxpayer's name.
 The taxpayer will be in receipt of assessable income in the form of the quarterly feed-in tariff payments made by the electricity retailer in respect of the electricity generated and fed into the electricity grid from the solar system on their rental property.
 The solar system is a depreciating asset for which the taxpayer can claim decline in value deductions under Division 40 of the ITAA 1997.
 The taxpayer is not carrying on a property rental business.
 Reasons for Decision
 Under Subdivision 20-A of the ITAA 1997, certain amounts received by way of insurance, indemnity or other recoupment are assessable income if the amounts are not income under ordinary concepts or otherwise assessable.
-Under subsection 20-20(2) of the ITAA 1997, an amount you have received as recoupment of a loss or outgoing is an assessable recoupment if:
-
-(a)you received the amount by way of insurance or indemnity; and
-(b)you can deduct an amount for the loss or outgoing for the *current year, or you have deducted or can deduct an amount for the loss or outgoing for an earlier income year under any provision of this Act.
-
-In order to determine if the taxpayer's right to create certificates is an assessable recoupment it must first be considered whether the right acquired is a recoupment. Recoupment is a defined term and has the meaning given by subsection 20-25(1) of the ITAA 1997. Under paragraph 20-25(1)(b), a recoupment of a loss or outgoing includes a grant in respect of the loss or outgoing.
-A grant is not a defined term and therefore must be given its ordinary meaning. The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01, defines a grant as 'that which is granted, as a privilege or right, a sum of money, as for a student's maintenance, or a tract of land'. In Taxation Ruling TR 2006/3 the term 'grant' is defined to mean that which is granted, as a privilege or right, including a sum of money by government to encourage business. The Ruling states at paragraph 97 that:
-
-... It is essential to determine what the grant is actually for. The question as to the nature and quality of any payment must be determined by reference to the agreement or the terms which created in the recipient the right to the government grant...
-
-The taxpayer's right to create certificates under the REE Act is intended to provide the taxpayer with a financial benefit whether they assign their rights to create certificates or create the certificates themselves. In this sense, the scheme effectively provides a financial incentive to the taxpayer to purchase an eligible solar system. Given this intention and the objectives of the RET scheme, it is clear that the right to create certificates arising under the REE Act constitutes a grant. This is because the grant of the right to create certificates provides a financial benefit in kind to the taxpayer under the scheme.
+Under subsection 20-20(2) of the ITAA 1997, an amount you have received as recoupment of a loss or outgoing is an assessable recoupment if: (a)you received the amount by way of insurance or indemnity; and
+(b)you can deduct an amount for the loss or outgoing for the *current year, or you have deducted or can deduct an amount for the loss or outgoing for an earlier income year under any provision of this Act. In order to determine if the taxpayer's right to create certificates is an assessable recoupment it must first be considered whether the right acquired is a recoupment. Recoupment is a defined term and has the meaning given by subsection 20-25(1) of the ITAA 1997. Under paragraph 20-25(1)(b), a recoupment of a loss or outgoing includes a grant in respect of the loss or outgoing.
+A grant is not a defined term and therefore must be given its ordinary meaning. The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01, defines a grant as 'that which is granted, as a privilege or right, a sum of money, as for a student's maintenance, or a tract of land'. In Taxation Ruling TR 2006/3 the term 'grant' is defined to mean that which is granted, as a privilege or right, including a sum of money by government to encourage business. The Ruling states at paragraph 97 that: ... It is essential to determine what the grant is actually for. The question as to the nature and quality of any payment must be determined by reference to the agreement or the terms which created in the recipient the right to the government grant... The taxpayer's right to create certificates under the REE Act is intended to provide the taxpayer with a financial benefit whether they assign their rights to create certificates or create the certificates themselves. In this sense, the scheme effectively provides a financial incentive to the taxpayer to purchase an eligible solar system. Given this intention and the objectives of the RET scheme, it is clear that the right to create certificates arising under the REE Act constitutes a grant. This is because the grant of the right to create certificates provides a financial benefit in kind to the taxpayer under the scheme.
 For the grant to be a recoupment it must be 'in respect of' the loss or outgoing. The meaning of 'in respect of' has not been considered in the context of section 20-25 of the ITAA 1997. However a number of judicial decisions have considered the meaning of the phrase in relation to other areas of the law.
 In Federal Commissioner of Taxation v. Scully (2000) 201 CLR 148; 2000 ATC 4111; (2000) 43 ATR 718, consideration of the words 'in respect of' highlighted the importance of the context in which the phrase appears and resulted in the requirement that there be some 'discernible rational link' between the two subject matters. J & G Knowles & Associates Pty Ltd v. Federal Commissioner of Taxation (2000) 96 FCR 402; 2000 ATC 4151; 44 ATR 22 also supported this interpretation, stating that 'in respect of' requires 'a nexus, some discernible and rational link', which is sufficient for the purposes of the particular legislation.
 In this case, the subject of the grant, being the right to create certificates, is dependent on ownership and installation of a solar system. The taxpayer incurs an outgoing to own and install the solar system. Upon ownership and installation of the solar system the taxpayer is granted the right to create certificates. The entitlement to the grant is therefore a result of the outgoing to acquire and install the solar system. In this case, the required discernable, rational, material link is present between the grant and the outgoing. The grant is therefore in respect of the loss or outgoing for the solar system for the purposes of paragraph 20-25(1)(b) of the ITAA 1997.
@@ -51,97 +26,16 @@ As the grant of the right to create certificates is a grant in respect of the ou
 For the recoupment of the loss or outgoing to be an assessable recoupment under subsection 20-20(2) of the ITAA 1997, the amount the taxpayer receives must be by way of insurance or indemnity. It is clear in this case that the recoupment will not be received by way of insurance.
 Indemnity is not a defined term and therefore must be given its ordinary meaning. The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01, definition of indemnity includes compensation for damage or loss sustained.
 The issue of whether an amount is received by way of indemnity for the purposes of the predecessor provision to subsection 20-20(2) of the ITAA 1997 (paragraph 26(j) of the Income Tax Assessment Act 1936) has been considered in a number of cases including: Federal Commissioner of Taxation v. Wade (1951) 84 CLR 105; (1951) 9 ATD 337; 5 AITR 214, Robert v. Collier's Bulk Liquid Transport Pty Ltd (1959) VR 280, Goldsbrough Mort & Co Ltd v FC of T (1976) 76 ATC 4343, 6 ATR 580 (Goldsbrough); and Commercial Banking Company of Sydney Limited v. FC of T 83 ATC 4208 (1983); 14 ATR 142 (Commercial Banking).
-These cases make it clear that an amount received by way of indemnity is not restricted to amounts received under a contract of indemnity. This was made clear by Hunt J. in Commercial Banking who, referring to the decision in Goldsbrough, stated
-
-... his Honour was correct in ruling that the expression "by way of... indemnity" should not be construed narrowly in the sense of "pursuant to a contract of indemnity".
-
-The cases also make it clear that an amount received 'by way of indemnity' would include a receipt pursuant to an antecedent obligation (whether by virtue of a contract, statute or a breach of some common law duty of care) to make good or compensate for a loss which arises after the obligation comes into existence.
+These cases make it clear that an amount received by way of indemnity is not restricted to amounts received under a contract of indemnity. This was made clear by Hunt J. in Commercial Banking who, referring to the decision in Goldsbrough, stated ... his Honour was correct in ruling that the expression "by way of... indemnity" should not be construed narrowly in the sense of "pursuant to a contract of indemnity". The cases also make it clear that an amount received 'by way of indemnity' would include a receipt pursuant to an antecedent obligation (whether by virtue of a contract, statute or a breach of some common law duty of care) to make good or compensate for a loss which arises after the obligation comes into existence.
 Therefore, the phrase 'by way of indemnity' broadens the range of receipts to be considered an assessable recoupment under subsection 20-20(2) of the ITAA 1997 to include receipts other than amounts received under a contract of indemnity.
 The granting of the right to the taxpayer to create certificates satisfies the antecedent statutory obligation arising under the REE Act to partially compensate the taxpayer for the outgoing to own and install the solar system. That being so, the value of the right granted is an amount received by way of indemnity.
-As the taxpayer can deduct an amount for the loss or outgoing of the solar system under Division 40 of the ITAA 1997, the recoupment, being the grant of the right to create certificates, will be an assessable recoupment under subsection 20-20(2) of the ITAA 1997.
-
-Note
- : section 20-40 of the ITAA 1997 will apply where the cost of the solar system is deductible under Division 40 of the ITAA 1997 over two or more income years.
-
-Amendment History
-
-Date of Amendment
+As the taxpayer can deduct an amount for the loss or outgoing of the solar system under Division 40 of the ITAA 1997, the recoupment, being the grant of the right to create certificates, will be an assessable recoupment under subsection 20-20(2) of the ITAA 1997. Note : section 20-40 of the ITAA 1997 will apply where the cost of the solar system is deductible under Division 40 of the ITAA 1997 over two or more income years. Amendment History Date of Amendment
 Part
-Comment
-
-16 June 2017
+Comment 16 June 2017
 Related ATO Interpretative Decisions
-ATO ID 2009/119 was withdrawn on 3 April 2014.
-
-Date of decision:
-  15 November 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 20-A   section 20-20   subsection 20-20(2)   section 20-25   subsection 20-25(1)   paragraph 20-25(1)(b)   section 20-40   Division 40
-Income Tax Assessment Act 1936   paragraph 26(j)
-
-Case References:
-
-Federal Commissioner of Taxation v Scully   (2000) 201 CLR 148   2000 ATC 4111   (2000) 43 ATR 718
-
-J & G Knowles & Associates Pty Ltd v Federal Commissioner of Taxation   (2000) 96 FCR 402   2000 ATC 4151   44 ATR 22
-
-Federal Commissioner of Taxation v Wade   (1951) 84 CLR 105   (1951) 9 ATD 337   5 AITR 214
-
-Robert v Collier's Bulk Liquid Transport Pty Ltd   (1959) VR 280
-
-Goldsbrough Mort & Co Ltd v FC of T   (1976) 76 ATC 4343   6 ATR 580
-
-Commercial Banking Company of Sydney Limited v FC of T   83 ATC 4208   (1983) 14 ATR 142
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 2006/31
-Taxation Ruling TR 2006/3
-
-Other References:
-
-Renewable Energy (Electricity) Act 2000
- The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01
-
-Keywords
-
-Recoupment of, or grant in respect of relevant expenditure
- Losses
- Assessable recoupments
- Indemnity
-
-Siebel/TDMS Reference Number:
-  1-2GAZCWK, 1-BGZG50Y
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  3 December 2010
-
-Date reviewed:
-  2 June 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-15 November 2010
-Original statement
-
-You are here
+ATO ID 2009/119 was withdrawn on 3 April 2014. Date of decision: 15 November 2010 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 Subdivision 20-A section 20-20 subsection 20-20(2) section 20-25 subsection 20-25(1) paragraph 20-25(1)(b) section 20-40 Division 40
+Income Tax Assessment Act 1936 paragraph 26(j) Case References: Federal Commissioner of Taxation v Scully (2000) 201 CLR 148 2000 ATC 4111 (2000) 43 ATR 718 J & G Knowles & Associates Pty Ltd v Federal Commissioner of Taxation (2000) 96 FCR 402 2000 ATC 4151 44 ATR 22 Federal Commissioner of Taxation v Wade (1951) 84 CLR 105 (1951) 9 ATD 337 5 AITR 214 Robert v Collier's Bulk Liquid Transport Pty Ltd (1959) VR 280 Goldsbrough Mort & Co Ltd v FC of T (1976) 76 ATC 4343 6 ATR 580 Commercial Banking Company of Sydney Limited v FC of T 83 ATC 4208 (1983) 14 ATR 142 Related Public Rulings (including Determinations) Taxation Determination TD 2006/31
+Taxation Ruling TR 2006/3 Other References: Renewable Energy (Electricity) Act 2000 The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01 Keywords Recoupment of, or grant in respect of relevant expenditure Losses Assessable recoupments Indemnity Siebel/TDMS Reference Number: 1-2GAZCWK, 1-BGZG50Y Business Line: Private Groups and High Wealth Individuals Date of publication: 3 December 2010 Date reviewed: 2 June 2017 ISSN: 1445-2782 history Date: Version: 15 November 2010
+Original statement You are here
 16 June 2017
 Updated statement

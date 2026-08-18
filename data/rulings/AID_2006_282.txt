@@ -1,25 +1,11 @@
 ATO Interpretative Decision
 ATO ID 2006/282
-==================================================
-
-Income tax
- Singapore resident receiving Australian sourced excluded royalties
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Singapore resident receiving Australian sourced excluded royalties FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are royalties that are sourced in Australia, from the granting of copyright derived by a Singapore resident, included in assessable income under section 15-20 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
-Yes. Royalties that are sourced in Australia, from the granting of copyright derived by a Singapore resident, are included in assessable income under section 15-20 of the ITAA 1997.
- Facts
+Yes. Royalties that are sourced in Australia, from the granting of copyright derived by a Singapore resident, are included in assessable income under section 15-20 of the ITAA 1997. Facts
 The taxpayer is a Singapore resident and a non-resident of Australia for income tax purposes.
 The taxpayer wrote a book which was published in Australia under a contract.
 The taxpayer owned the copyright over the book.
@@ -33,81 +19,26 @@ Section 10-5 of the ITAA 1997 lists those provisions about assessable income. In
 Section 15-20 of the ITAA 1997 provides that assessable income includes an amount you receive as, or by way of, royalty within the ordinary meaning of 'royalty' (disregarding the definition of royalty in subsection 995-1(1) of the ITAA 1997) if the amount is not assessable as ordinary income under section 6-5 of the ITAA 1997.
 In other words, royalty payments that are not already assessable income under section 6-5 of the ITAA 1997 (as ordinary income), are assessable as statutory income under section 15-20 of the ITAA 1997 and are included in assessable income under section 6-10 of the ITAA 1997.
 Subsection 6(1) of the ITAA 1936 provides that the term 'royalty' includes any amount paid or credited, and whether the payment or credit is periodical or not, to the extent to which it is consideration for the use of, or the right to use any copyright.
-Taxation Ruling IT 2660 discusses the ordinary meaning of 'royalty' and how that meaning is extended by the definition in subsection 6(1) of the ITAA 1936. At paragraph 10 of IT 2660 it states that at common law, a royalty:
-
-'... is a payment made in return for the right to exercise a beneficial privilege or right (eg ... to use a copyright...). ...Amongst other things, copyright can cover music, literary and artistic works...'
-
-The payment which the taxpayer received as a result of the publication of their book in Australia, falls within the meaning of royalty. It is a payment they have received in consideration of the Australian use of the taxpayer's copyright.
+Taxation Ruling IT 2660 discusses the ordinary meaning of 'royalty' and how that meaning is extended by the definition in subsection 6(1) of the ITAA 1936. At paragraph 10 of IT 2660 it states that at common law, a royalty: '... is a payment made in return for the right to exercise a beneficial privilege or right (eg ... to use a copyright...). ...Amongst other things, copyright can cover music, literary and artistic works...' The payment which the taxpayer received as a result of the publication of their book in Australia, falls within the meaning of royalty. It is a payment they have received in consideration of the Australian use of the taxpayer's copyright.
 In determining liability to tax on Australian sourced income, it is necessary to consider not only the income tax laws but also any applicable tax treaty contained in the International Tax Agreements Act 1953 (Agreements Act).
 The taxpayer is a resident of Singapore, a country with which Australia has entered into a tax treaty. Therefore, the tax treaty between Australia and Singapore (the Singapore Agreement) and the protocols to that agreement contained in Schedules 5 and 5A of the Agreements Act respectively, must be considered in determining whether the excluded royalty paid to the taxpayer is taxable in Australia.
 Section 7 of the Agreements Act gives the Singapore Agreement the force of law in Australia. Subsection 4(1) of the Agreements Act provides that the Income Tax Assessment Act 1936 and ITAA 1997 must be read as one with the Agreements Act.
 Article 10(1) of the Singapore Agreement provides that 'the Australian tax on royalties derived by a Singapore resident who is beneficially entitled to the royalties shall not exceed 10 percent of the gross amount of the royalties.'
 Article 10(3) of the Singapore Agreement provides that
-In this Article "royalties" means payments or credit, whether periodical or not and however described or computed, to the extent to which they are received as consideration for-
-
-(a)the use of, or the right to use, any-
-
-(i)copyright (other than literary, dramatic, musical or artistic copyright), patent design or model, plan, secret formula or process, trademark or other like property or right; or
-(ii)industrial, commercial or scientific equipment;
-
-(b)the supply of scientific, industrial or commercial knowledge or information; or
-(c)total or partial forbearance in respect of the use or supply of any property or right referred to in this paragraph,
-
-but does not include royalties or other payments in respect of the operation of mines or quarries or of the exploitation of natural resources or payments to the extent to which they are received as consideration for the use of, or the right to use, motion picture films, tapes for use in connection with radio broadcasting or films or video tapes for use in connection with television.
+In this Article "royalties" means payments or credit, whether periodical or not and however described or computed, to the extent to which they are received as consideration for- (a)the use of, or the right to use, any- (i)copyright (other than literary, dramatic, musical or artistic copyright), patent design or model, plan, secret formula or process, trademark or other like property or right; or
+(ii)industrial, commercial or scientific equipment; (b)the supply of scientific, industrial or commercial knowledge or information; or
+(c)total or partial forbearance in respect of the use or supply of any property or right referred to in this paragraph, but does not include royalties or other payments in respect of the operation of mines or quarries or of the exploitation of natural resources or payments to the extent to which they are received as consideration for the use of, or the right to use, motion picture films, tapes for use in connection with radio broadcasting or films or video tapes for use in connection with television.
 The Explanatory Memorandum to Income Tax (International Agreements) Bill 1969, states that, article 10(1) limits to 10 per cent the Australian tax on the gross royalties paid to a Singapore resident.
 Article 10(3) defines the term 'royalties' in a way that gives it a somewhat more restricted meaning than the term has for the general purposes of the Income Tax Assessment Act. Under article 10(3) 'royalties' means, in general, industrial royalties (including various 'know-how' payments) but does not include literary and artistic copyright, film and related royalties, or royalties or other payments in respect of the operation of mines or quarries or of the exploitation of natural resources. The tax in the country of source, on the payments which are not treated as 'royalties' for the purposes of the Singapore Agreement, will therefore not be limited to 10 per cent.
 It should be noted that the definition of royalties in the tax treaty is exclusive, whereas the definition in subsection 6(1) of the ITAA 1936 is inclusive. Consequently, any general law royalties which do not fall within the definition in article 10 of the Singapore Agreement may be royalties for Australian domestic tax law purposes (as per paragraph 10 of IT 2660) but will not be royalties for the Singapore Agreement purposes.
 Article 16A of the Singapore Agreement provides that
 Items of income which are not expressly mentioned in the foregoing Articles of this Agreement shall be taxable according to the laws of (Australia) relating to tax.
 Under the Singapore Agreement, the royalty payment received by the taxpayer is excluded from meaning of 'a royalty' given by article 10, and consequently, from the operation of that article.
-Subsection 17A (4) of the Agreements Act deals with basic and excluded royalties. Subsection 17A (4) provides that if:
-
-(a)a provision (basic royalty provision) of an agreement is covered by either of the following subparagraphs:
-
-(i)paragraph 1 or 2 of Article 12 of the Chinese Agreement;
-(ii)a corresponding provision of another agreement and
-
-(b)another provision of the agreement expressly excludes particular royalties (excluded royalties) from the scope of the basic royalty provision;
-
-section 128B of the Assessment Act (which deals with liability for withholding tax) does not apply to the excluded royalties.
+Subsection 17A (4) of the Agreements Act deals with basic and excluded royalties. Subsection 17A (4) provides that if: (a)a provision (basic royalty provision) of an agreement is covered by either of the following subparagraphs: (i)paragraph 1 or 2 of Article 12 of the Chinese Agreement;
+(ii)a corresponding provision of another agreement and (b)another provision of the agreement expressly excludes particular royalties (excluded royalties) from the scope of the basic royalty provision; section 128B of the Assessment Act (which deals with liability for withholding tax) does not apply to the excluded royalties.
 The royalties received by the taxpayer are excluded from the operation of Article 10 of the Singapore agreement by the definition of royalty in Article 10(3) and will accordingly, be excluded from the withholding tax provisions of Section 128B of the ITAA 1936.
 However, excluded royalties retain the characteristics of 'a royalty' as defined by subsection 6(1) of the ITAA 1936 and paragraph 10 of IT 2660.
 Section 15-20 of the ITAA 1997 assesses the amount of excluded royalties received by the taxpayer that are not otherwise assessable as 'ordinary income'.
-Date of decision:
-  10 August 2006
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 128B
-Income Tax Assessment Act 1997   section 6-5   section 6-10   section 15-20   subsection 995-1(1)
-International Tax Agreements Act 1953   subsection 4(1)   section 7   subsection 17A(4)   Schedule 5   Schedule 5 Article 10(3)   Schedule 5 Article 16A   Schedule 5A   Schedule 5A Article 10(1)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2660
-
-Keywords
-
-Double tax agreements
- International tax
- Non resident royalty withholding tax
- Royalties
- Royalty article
- Royalty income
- Singapore
- Treaties
-
-Siebel/TDMS Reference Number:
-  5024724
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  20 October 2006
-
-ISSN:
- 1445-2782
+Date of decision: 10 August 2006 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 128B
+Income Tax Assessment Act 1997 section 6-5 section 6-10 section 15-20 subsection 995-1(1)
+International Tax Agreements Act 1953 subsection 4(1) section 7 subsection 17A(4) Schedule 5 Schedule 5 Article 10(3) Schedule 5 Article 16A Schedule 5A Schedule 5A Article 10(1) Related Public Rulings (including Determinations) Taxation Ruling IT 2660 Keywords Double tax agreements International tax Non resident royalty withholding tax Royalties Royalty article Royalty income Singapore Treaties Siebel/TDMS Reference Number: 5024724 Business Line: International Centre of Expertise Date of publication: 20 October 2006 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/817
-==================================================
-
-Income Tax
- Deductibility of losses incurred by a resident from carrying on a business as a trader in futures listed on the futures exchange in Germany
- FOI status: may be released
-
-ATOID 2004/817 is withdrawn due to legislative changes with effect from 1 July 2008. The foreign tax credit system contained in Division 18 of the Income Tax Assessment Act 1936 (ITAA 1936) has been replaced by the foreign income tax offset system contained in Division 770 of the Income Tax Assessment Act 1997. Section 79D of the ITAA 1936 is also repealed. Despite its withdrawal, this ATOID continues to be a precedential view in respect of decisions for income years up to, and including, the 2007-2008 income years.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deductibility of losses incurred by a resident from carrying on a business as a trader in futures listed on the futures exchange in Germany FOI status: may be released ATOID 2004/817 is withdrawn due to legislative changes with effect from 1 July 2008. The foreign tax credit system contained in Division 18 of the Income Tax Assessment Act 1936 (ITAA 1936) has been replaced by the foreign income tax offset system contained in Division 770 of the Income Tax Assessment Act 1997. Section 79D of the ITAA 1936 is also repealed. Despite its withdrawal, this ATOID continues to be a precedential view in respect of decisions for income years up to, and including, the 2007-2008 income years. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the losses incurred by a resident taxpayer from carrying on a business as a trader in futures listed on the futures exchange in Germany through a broker or agent located in either Australia or Germany allowable deductions under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The losses incurred by a resident taxpayer from carrying on a business as a trader in futures listed on the futures exchange in Germany through a broker or agent located in either Australia or Germany are not allowable deductions under section 8-1 of the ITAA 1997 as the losses are foreign losses which are subject to the quarantining rules under section 79D of the Income Tax Assessment Act 1936 (ITAA 1936).
@@ -40,14 +25,10 @@ Subsection 160AFD(9) of the ITAA 1936 defines 'foreign income deduction' in rela
 The phrase 'any deduction....allowed or allowable' in subsection 160AFD(9) of the ITAA 1936 refers to any deduction allowable under the ITAA 1936 or the ITAA 1997 - both general (section 8-1 of the ITAA 1997) and specific deductions (section 8-5 of the ITAA 1997).
 The term 'assessable foreign income' is defined in subsection 160AFD(9) of the ITAA 1936 to include foreign income that is included in the assessable income of the taxpayer.
 Subsection 6AB(1) of the ITAA 1936 provides that a reference to 'foreign income' is a reference to income derived from sources in a foreign country or foreign countries. In determining whether, for the purposes of section 6AB of the ITAA 1936, income has or has not been derived from a source in a foreign country, no legislative rules are provided in section 6AB itself.
-Under subsection 160AFD(8) of the ITAA 1936, each of the following kinds of assessable foreign income constitutes a single class:
-
-•interest income
+Under subsection 160AFD(8) of the ITAA 1936, each of the following kinds of assessable foreign income constitutes a single class: •interest income
 •modified passive income
 •offshore banking income, and
-•all other assessable foreign income.
-
-In determining whether the income received by a taxpayer is foreign sourced, it is necessary to consider not only the income tax laws but also any applicable double tax agreement contained in the International Tax Agreement Act 1953 (Agreements Act).
+•all other assessable foreign income. In determining whether the income received by a taxpayer is foreign sourced, it is necessary to consider not only the income tax laws but also any applicable double tax agreement contained in the International Tax Agreement Act 1953 (Agreements Act).
 Section 4 of the Agreements Act incorporates that Act with the ITAA 1936 and ITAA 1997 so that those Acts are read as one. The Agreements Act effectively overrides the ITAA 1936 and ITAA 1997 where there are inconsistent provisions (except for some limited provisions).
 Schedule 9 to the Agreements Act contains the Double Tax Agreement and the Protocol between Australia and Germany (the German Agreement).
 The futures broker located in Germany has no power to conclude contracts binding the taxpayer without the taxpayer's approval and the taxpayer makes all the decisions in buying and selling of futures. The broker is merely acting in the ordinary course of their business as a broker of independent status. In view of this, it is considered that there is no permanent establishment in Germany in accordance with the definition of the term provided under the domestic law or the German Agreement and that the tax consequences would be similar to the situation where the taxpayer is trading through a broker located in Australia.
@@ -55,92 +36,18 @@ As the term 'source' is not defined in the ITAA 1936 or ITAA 1997 and the German
 In Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183 at 189-190, Isaacs J said that the term 'source' meant not a legal concept, but something which a practical man would regard as a real source of income. In FC of Taxation v. Efstathakis 79 ATC 4256; (1979) 9 ATR 867 Bowen CJ stated 'the answer is not to be found in the cases, but in the weighting of the relative importance of the various factors which the cases have shown to be relevant.'
 In Cliffs International Inc v. FC of T 85 ATC 4374; (1985) 16 ATR 601 Kennedy J stated, 'there is no simple universal rule which can be applied to identify the source of any particular income. In some cases particular features may be determinative. In others, they may not.'
 In Australian Machinery and Investments Company Ltd v. Deputy Commissioner of Taxation (WA) (1946) 180 CLR 9; (1946) 3 AITR 359; (1946) 8 ATD 81, it was held that where shares are situated outside Australia and sold outside Australia, the profit on sale is derived wholly from a source outside Australia.
-In the Commissioner of Inland Revenue v. Hang Seng Bank Ltd (1991) 1 AC 306, at pp322-323, Lord Bridge of Harwich stated:
-
-....the question whether the gross profit resulting from a particular transaction arose in or derived from one place or another is always in the last analysis a question of fact depending on the nature of the transaction. It is impossible to lay down precise rules of law by which the answer to that question is to be determined. The broad guiding principle, attested by many authorities, is that one looks to see what the taxpayer has done to earn the profit in question. If he has rendered a service or engaged in an activity such as the manufacture of goods, the profit will have arisen or derived from the place where the service was rendered or the profit making activity carried on. But if the profit was earned by the exploitation of property assets as by letting property, lending money or dealing in commodities or securities by buying and reselling at a profit, the profit will have arisen in or derived from the place where the property was let, the money was lent or the contracts of purchase and sale were effected.
-
-Where, as in this case, the business is one of buying and selling futures, the relevant processes which contribute to the earning of the profit are the making of contracts for the purchase and sale of futures.
+In the Commissioner of Inland Revenue v. Hang Seng Bank Ltd (1991) 1 AC 306, at pp322-323, Lord Bridge of Harwich stated: ....the question whether the gross profit resulting from a particular transaction arose in or derived from one place or another is always in the last analysis a question of fact depending on the nature of the transaction. It is impossible to lay down precise rules of law by which the answer to that question is to be determined. The broad guiding principle, attested by many authorities, is that one looks to see what the taxpayer has done to earn the profit in question. If he has rendered a service or engaged in an activity such as the manufacture of goods, the profit will have arisen or derived from the place where the service was rendered or the profit making activity carried on. But if the profit was earned by the exploitation of property assets as by letting property, lending money or dealing in commodities or securities by buying and reselling at a profit, the profit will have arisen in or derived from the place where the property was let, the money was lent or the contracts of purchase and sale were effected. Where, as in this case, the business is one of buying and selling futures, the relevant processes which contribute to the earning of the profit are the making of contracts for the purchase and sale of futures.
 In such cases, it may be that more weight should be put on the place of the contract for the purchase and sale. Although the skill and judgement exercised by the taxpayer in the purchase and sale of futures contributed to the profits, they are of minimal weight in determining the source, since the question is not why but where the profits are made (D & W Murray Ltd v. Commissioner of Taxation (WA) (1929) 42 CLR 332).
 The purchase and sale of futures normally involve entering into contracts and the contract is formed where the final act regarded as completing the contract occurs (Tallerman and Co Pty Ltd v. Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93). Thus, where the postal acceptance rule applies, the contract is considered to be made in the place where the acceptance is posted, and in other cases the contract is made at the place where acceptance is communicated to the offeror.
-When the process of purchase and sale of futures are examined, weighting needs to be given to the following factors in determining the source of the profits:
-
-•the essence of the taxpayer's business. In this case, the essence of the taxpayer's business is regularly entering into contracts for the purchase or sale of futures
+When the process of purchase and sale of futures are examined, weighting needs to be given to the following factors in determining the source of the profits: •the essence of the taxpayer's business. In this case, the essence of the taxpayer's business is regularly entering into contracts for the purchase or sale of futures
 •activities that actually realise the profit that is, sale of futures
 •place where the contracts for purchase or sale of futures are concluded that is, contracts are concluded in Germany, and
-•location of the commodities whose futures are traded that is, Germany.
-
-Though the taxpayer makes the decision as to when to purchase or sell the futures, it has minimal weighting in determining the source as the question is where the profits are made. It is the buying and selling of futures undertaken in Germany where the contracts are concluded, that actually realise the profit.
+•location of the commodities whose futures are traded that is, Germany. Though the taxpayer makes the decision as to when to purchase or sell the futures, it has minimal weighting in determining the source as the question is where the profits are made. It is the buying and selling of futures undertaken in Germany where the contracts are concluded, that actually realise the profit.
 As all the important factors relating to the realisation of the profit take place in Germany, it follows that the source of the profit is from Germany. The income forms part of 'all other assessable foreign income' class under subsection 160AFD(8) of the ITAA 1936.
 When the amount of deductions relating to the taxpayer's business in Germany exceeds the amount of foreign assessable income of that class, the deduction is limited, under section 79D of the ITAA 1936, to the amount of income received. Section 160AFD of the ITAA 1936 then picks up those quarantined foreign losses and permits them to be carried forward to be used by way of set off against later year foreign income of that class.
 Accordingly, the losses incurred by the taxpayer from carrying on a business as a trader in futures listed on the futures exchange in Germany through a broker or agent located in either Australia or Germany are not allowable deductions under section 8-1 of the ITAA 1997.
-Date of decision:
-  23 September 2004
-
-Year of income:
-  Year ended 30 June 1999 Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 6AB   subsection 6AB(1)   section 79D   subsection 79D(2)   section 160AFD   subsection 160AFD(8)   subsection 160AFD(9)
-Income Tax Assessment Act 1997   subsection 6-5(3)   section 8-1   subsection 8-1(2)   section 8-5   section 12-5
-International Tax Agreement Act 1953   section 4   Schedule 9
-
-Case References:
-
-Australian Machinery & Investment Co Ltd v. Deputy Commissioner of Taxation (WA)   (1946) 180 CLR 9   (1946) 3 AITR 359   (1946) 8 ATD 81
-
-Cliffs International Inc v. FC of T   85 ATC 4374   (1985) 16 ATR 601
-
-Commissioner of Inland Revenue v. Hang Seng Bank Ltd   (1991) 1 AC 306
-
-FC of T v. Efstathakis   79 ATC 4256   (1979) 9 ATR 867
-
-D & W Murray Ltd v. Commissioner of Taxation (WA)   (1929) 42 CLR 332
-
-Nathan v. Federal Commissioner of Taxation   (1918) 25 CLR 183
-
-Tallerman and Co Pty Ltd v. Nathan's Merchandise (Vic) Pty Ltd   (1957) 98 CLR 93
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2228
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/903
- ATO ID 2002/913
- ATO ID 2003/676
-
-Keywords
-
-Non resident individuals
- Futures
- Income
- Assessable foreign income
- Foreign income deduction
- Quarantining of foreign losses
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 October 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 September 2004
-Original statement
-
-You are here
- 3 April 2009
+Date of decision: 23 September 2004 Year of income: Year ended 30 June 1999 Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 section 6AB subsection 6AB(1) section 79D subsection 79D(2) section 160AFD subsection 160AFD(8) subsection 160AFD(9)
+Income Tax Assessment Act 1997 subsection 6-5(3) section 8-1 subsection 8-1(2) section 8-5 section 12-5
+International Tax Agreement Act 1953 section 4 Schedule 9 Case References: Australian Machinery & Investment Co Ltd v. Deputy Commissioner of Taxation (WA) (1946) 180 CLR 9 (1946) 3 AITR 359 (1946) 8 ATD 81 Cliffs International Inc v. FC of T 85 ATC 4374 (1985) 16 ATR 601 Commissioner of Inland Revenue v. Hang Seng Bank Ltd (1991) 1 AC 306 FC of T v. Efstathakis 79 ATC 4256 (1979) 9 ATR 867 D & W Murray Ltd v. Commissioner of Taxation (WA) (1929) 42 CLR 332 Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183 Tallerman and Co Pty Ltd v. Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93 Related Public Rulings (including Determinations) Taxation Ruling IT 2228 Related ATO Interpretative Decisions ATO ID 2002/903 ATO ID 2002/913 ATO ID 2003/676 Keywords Non resident individuals Futures Income Assessable foreign income Foreign income deduction Quarantining of foreign losses Business Line: Public Groups and International Date of publication: 15 October 2004 ISSN: 1445-2782 history Date: Version: 23 September 2004
+Original statement You are here 3 April 2009
 Archived

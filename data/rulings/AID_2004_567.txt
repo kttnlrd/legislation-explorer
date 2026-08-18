@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/567
-==================================================
-
-Income Tax
- Research and Development: application of clawback against expenditure incurred on acquisition or construction of pre-29 January 2001 plant
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development: application of clawback against expenditure incurred on acquisition or construction of pre-29 January 2001 plant FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the total amount of expenditure incurred by a company on acquiring or constructing an item of pre-29 January 2001 plant, in relation to 'research and development activities' in a year of income, 'relevant expenditure' on 'research and development activities' that formed or form part of a particular project for the purposes of section 73C of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The total expenditure, incurred in the year of income, is 'relevant expenditure' on 'research and development activities' that formed or form part of a project, for the purposes of section 73C of the ITAA 1936.
@@ -27,47 +16,6 @@ Under section 73C of the ITAA 1936, the company needs to take account of the amo
 Under paragraph 73C(3)(b) of the ITAA 1936, the amount of the recoupment or grant is doubled to produce what is called 'the initial clawback amount'. The precise application of the initial clawback amount in reducing the amount of the company's expenditure on research and development activities that is able to be claimed at a concessional rate (for example, at a 125% under subsection 73B(14) of the ITAA 1936), depends on whether this expenditure was incurred partly before and partly on or after 21 November 1987, or wholly on or after 21 November 1987.
 Subsection 73C(7) of the ITAA 1936 applies to the situation, as in the present case, where the relevant expenditure has been incurred by the eligible company wholly on or after 21 November 1987. The rule in sub-subparagraph 73C(7)(c)(i)(A) of the ITAA 1936 means that the initial clawback amount is applied firstly to the company's relevant expenditure in the 2001 year of income, being the year ('the receipt or entitlement to receipt year') in which the company first either received, or became entitled to receive, the underlying grant amount.
 The eligible company incurred expenditure during the 2001 year of income on acquiring or constructing pre-29 January 2001 plant. This expenditure was incurred exclusively in relation to 'research and development activities' as defined in subsection 73B(1) of the ITAA 1936, which formed part of a project.
-The Explanatory Memorandum to the Taxation Laws Amendment Bill (No 4) 1989 (The Explanatory Memorandum), which inserted section 73C of the ITAA 1936, is relevant. The variation to example 3 in the Explanatory Memorandum makes reference to clawback being applicable to the
- entire amount
- of the qualifying plant expenditure incurred during the year on research and development activities, rather than the
- deductible component
- of the qualifying plant expenditure under section 73B of the ITAA 1936 for the year of income.
+The Explanatory Memorandum to the Taxation Laws Amendment Bill (No 4) 1989 (The Explanatory Memorandum), which inserted section 73C of the ITAA 1936, is relevant. The variation to example 3 in the Explanatory Memorandum makes reference to clawback being applicable to the entire amount of the qualifying plant expenditure incurred during the year on research and development activities, rather than the deductible component of the qualifying plant expenditure under section 73B of the ITAA 1936 for the year of income.
 Accordingly, the total amount of pre-29 January plant expenditure incurred in the 2001 year of income, is considered to be 'relevant expenditure' when undertaking the clawback calculation in section 73C of the ITAA 1936. This results in a deduction for the eligible company in relation to this expenditure at a rate of 100 per cent over three years.
-Date of decision:
-  17 June 2004
-
-Year of income:
-  Year ended 30 June 2000 Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 73B   subsection 73B(1)   subsection 73B(14)   section 73C   subsection 73C(2)   subsection 73C(3)   paragraph 73C(3)(b)   subsection 73C(7)   sub-subparagraph 73C(7)(c)(i)(A)
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 98/1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/568
- ATO ID 2004/569
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment Bill (No 4) 1989
-
-Keywords
-
-Research & development expenditure recoupment
-
-Siebel/TDMS Reference Number:
-  3262969
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 July 2004
-
-ISSN:
- 1445-2782
+Date of decision: 17 June 2004 Year of income: Year ended 30 June 2000 Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 section 73B subsection 73B(1) subsection 73B(14) section 73C subsection 73C(2) subsection 73C(3) paragraph 73C(3)(b) subsection 73C(7) sub-subparagraph 73C(7)(c)(i)(A) Related Public Rulings (including Determinations) Taxation Determination TD 98/1 Related ATO Interpretative Decisions ATO ID 2004/568 ATO ID 2004/569 Other References: Explanatory Memorandum to the Taxation Laws Amendment Bill (No 4) 1989 Keywords Research & development expenditure recoupment Siebel/TDMS Reference Number: 3262969 Business Line: Public Groups and International Date of publication: 9 July 2004 ISSN: 1445-2782

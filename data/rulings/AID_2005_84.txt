@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/84
-==================================================
-
-Income Tax
- Research and Development: Deductions under section 73BA of the ITAA 1936 in relation to an asset acquired or constructed pre-29 January 2001
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development: Deductions under section 73BA of the ITAA 1936 in relation to an asset acquired or constructed pre-29 January 2001 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can deductions be claimed under section 73BA of the Income Tax Assessment Act 1936 (ITAA 1936) in relation to a pre-29 January 2001 plant/depreciating asset?
 Decision
 Yes. Deductions can be claimed under section 73BA of the ITAA 1936 for a pre-29 January 2001 plant/depreciating asset.
@@ -27,40 +16,7 @@ Section 73BA of the ITAA 1936 allows a deduction in respect of a 'section 73BA d
 Section 73BA of the ITAA 1936 applies to assessments for the income year in which 1 July 2001 occurs and for later income years. There is no exclusion of the operation of section 73BA of the ITAA 1936 on the basis of the time of the asset's acquisition or construction.
 Division 40 of the ITAA 1997 can apply to an asset acquired or constructed prior to 29 January 2001 because of the operation of section 40-10 of the Income Tax (Transitional Provisions) Act 1997, as amended by the New Business Tax System (Capital Allowances - Transitional and Consequential) Act 2001, which states that Division 40 of the ITAA 1997 will apply to assets acquired or constructed prior to 1 July 2001, where Division 42 of the ITAA 1997 applied in respect of that asset.
 Therefore, an asset which was acquired or constructed prior to 29 January 2001, but which did not meet the requirements for a deduction under section 73B(15) of the ITAA 1936, because it was not used, or installed ready for use, 'exclusively' for research and development, 'will' be eligible for a deduction under section 73BA of the ITAA 1936, to the extent that it has a base value/adjustable value. The deduction for the decline in value will then be based on the notional Division 40 of the ITAA 1997 deduction.
-However, subsection 73B(20) and 73BA(7) of the ITAA 1936 and section 8-10 of the ITAA 1997 will prevent a deduction for the same expenditure being allowed under more than one provision.
-
-Note: where an eligible company initially did meet the requirements for a deduction under subsection 73B(15) of the ITAA 1936, but, before the end of the second year of income, ceased to use the unit of plant exclusively for research and development, subsection 73B(21) of the ITAA 1936 states that subsection 73B(20) of the ITAA 1936 will not prevent a deduction for depreciation being allowed. Where a deduction becomes allowable due to subsequent use of the plant for another purpose, an eligible company can claim a deduction under section 73BA of the ITAA 1936 and/or Division 40 of the ITAA 1997 (if apportionment is required), based on the written down value of the asset.
-
-Therefore, expenditure in relation to a pre-29 January 2001 asset may be claimed under section 73BA of the ITAA 1936 to the extent that it has a base/adjustable value (if the requirements of that section are met), even where the expenditure previously qualified for a deduction under subsection 73B(15) of the ITAA 1936.
-Date of decision:
-  28 February 2005
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 73B(15)   subsection 73B(20)   subsection 73B(21)   subsection 73B(4)   subsection 73B(5)   subsection 73B(1)   section 73BA
-Income Tax Assessment Act 1997   section 8-10
-Income Tax (Transitional Provisions) Act 1997   section 40-10
-
-Related ATO Interpretative Decisions
-
- ATO ID 2005/85
-
-Keywords
-
-Depreciating assets
- Research and development plant
-
-Siebel/TDMS Reference Number:
-  4394127
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 March 2005
-
-ISSN:
- 1445-2782
+However, subsection 73B(20) and 73BA(7) of the ITAA 1936 and section 8-10 of the ITAA 1997 will prevent a deduction for the same expenditure being allowed under more than one provision. Note: where an eligible company initially did meet the requirements for a deduction under subsection 73B(15) of the ITAA 1936, but, before the end of the second year of income, ceased to use the unit of plant exclusively for research and development, subsection 73B(21) of the ITAA 1936 states that subsection 73B(20) of the ITAA 1936 will not prevent a deduction for depreciation being allowed. Where a deduction becomes allowable due to subsequent use of the plant for another purpose, an eligible company can claim a deduction under section 73BA of the ITAA 1936 and/or Division 40 of the ITAA 1997 (if apportionment is required), based on the written down value of the asset. Therefore, expenditure in relation to a pre-29 January 2001 asset may be claimed under section 73BA of the ITAA 1936 to the extent that it has a base/adjustable value (if the requirements of that section are met), even where the expenditure previously qualified for a deduction under subsection 73B(15) of the ITAA 1936.
+Date of decision: 28 February 2005 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 73B(15) subsection 73B(20) subsection 73B(21) subsection 73B(4) subsection 73B(5) subsection 73B(1) section 73BA
+Income Tax Assessment Act 1997 section 8-10
+Income Tax (Transitional Provisions) Act 1997 section 40-10 Related ATO Interpretative Decisions ATO ID 2005/85 Keywords Depreciating assets Research and development plant Siebel/TDMS Reference Number: 4394127 Business Line: Public Groups and International Date of publication: 18 March 2005 ISSN: 1445-2782

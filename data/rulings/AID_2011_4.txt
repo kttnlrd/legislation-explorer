@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/4
-==================================================
-
-Income Tax
- Irish Investment Limited Partnerships and managed investment trusts
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Irish Investment Limited Partnerships and managed investment trusts FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an Irish Investment Limited Partnership (Irish ILP) that is a member of an Australian Trust, an entity that is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the Taxation Administration Act 1953 (TAA 1953)?
 Decision
 Yes. The Irish ILP that is a member of an Australian Trust is an entity that is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953.
@@ -32,86 +21,21 @@ All contributions made by the Limited Partners are entrusted for safekeeping to 
 Reasons for Decision
 Subdivision 12-H of Schedule 1 to the TAA 1953 deals with Pay As You Go withholding obligations for distributions of managed investment trust income.
 As part of the 'widely-held requirements' for certain management investment trusts, subsection 12-402(3) of Schedule 1 to the TAA 1953 specifies certain widely-held entities whose participation interests in the trust are multiplied by 50 to provide a 'notional number' of members of the trust. This, in turn, is used to determine whether the trust then satisfies the widely-held requirements in subsection 12-402(1) of Schedule 1 to the TAA 1953.
-Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 specifies the following type of entity:
-
-an entity that is recognised under a *foreign law as being used for collective investment by means of pooling the contributions of at least 50 members of the entity as consideration to acquire rights to benefits produced by the entity, if the members of the entity do not have day-to-day control over the operation of the entity.
-
-According to the Revised Explanatory Memorandum (EM) to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 (TLAB (No 3) Bill 2010), paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 targets:
-
-... a foreign collective investment vehicle, which is an entity with at least 50 members that is recognised under a foreign law as being used for collective investment where the member contributions are pooled together in exchange for rights to the benefits produced by the entity and where members do not have day-to-day control over the operation of the entity. ... (paragraph 5.79 of the Revised EM to the TLAB (No 3) Bill 2010).
-
-Therefore, the Irish ILP must be recognised under a foreign law as being used for collective investment and the entity itself must also satisfy the remaining three requirements of paragraph 12-402(3)(e). That is, the Irish ILP must:
-
-•involve the pooling of contributions of at least 50 members of the entity;
+Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 specifies the following type of entity: an entity that is recognised under a *foreign law as being used for collective investment by means of pooling the contributions of at least 50 members of the entity as consideration to acquire rights to benefits produced by the entity, if the members of the entity do not have day-to-day control over the operation of the entity. According to the Revised Explanatory Memorandum (EM) to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 (TLAB (No 3) Bill 2010), paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 targets: ... a foreign collective investment vehicle, which is an entity with at least 50 members that is recognised under a foreign law as being used for collective investment where the member contributions are pooled together in exchange for rights to the benefits produced by the entity and where members do not have day-to-day control over the operation of the entity. ... (paragraph 5.79 of the Revised EM to the TLAB (No 3) Bill 2010). Therefore, the Irish ILP must be recognised under a foreign law as being used for collective investment and the entity itself must also satisfy the remaining three requirements of paragraph 12-402(3)(e). That is, the Irish ILP must: •involve the pooling of contributions of at least 50 members of the entity;
 •as consideration to acquire rights to benefits produced by the entity; and
-•where the members do not have day to day control over the operation of the entity.
-
-'recognised under a foreign law as being used for collective investment'
-
-The first requirement involves the entity being recognised under a foreign law as an entity which is used for collective investment.
-The Irish ILP is authorised as an investment limited partnership by the Central Bank of Ireland in accordance with the provisions of Ireland's Investment Limited Partnerships Act 1994. To achieve its status as an Irish investment limited partnership under the Investment Limited Partnerships Act 1994 (Ireland), the entity must:
-
-•be formed by two or more persons;
+•where the members do not have day to day control over the operation of the entity. 'recognised under a foreign law as being used for collective investment' The first requirement involves the entity being recognised under a foreign law as an entity which is used for collective investment.
+The Irish ILP is authorised as an investment limited partnership by the Central Bank of Ireland in accordance with the provisions of Ireland's Investment Limited Partnerships Act 1994. To achieve its status as an Irish investment limited partnership under the Investment Limited Partnerships Act 1994 (Ireland), the entity must: •be formed by two or more persons;
 •have as its principal business the investment of its funds in property;
 •appoint a Custodian that is authorised by the Central Bank of Ireland in whom the assets of the investment limited partnership are entrusted for safe-keeping and is charged with verifying that the business of the partnership is conducted in accordance with the Partnership Agreements; and
-•meet any requirements set out by the Irish Financial Services Regulatory Authority.
-
-Furthermore, pursuant to Regulatory Notices issued by the Irish Financial Services Regulatory Authority, investment limited partnerships are recognised as collective investment schemes.
+•meet any requirements set out by the Irish Financial Services Regulatory Authority. Furthermore, pursuant to Regulatory Notices issued by the Irish Financial Services Regulatory Authority, investment limited partnerships are recognised as collective investment schemes.
 A 'foreign law' is defined in subsection 995-1(1) of the Income Tax Assessment Act 1997 as a law of a foreign country. The Investment Limited Partnership Act 1994 is a law of the Republic of Ireland and is accordingly a 'foreign law' for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953.
-Therefore, as an authorised investment limited partnership that is recognised as a collective investment scheme under the Irish law, the Irish ILP is recognised under a foreign law as being used for collective investment.
-
-'pooling of contributions of at least 50 members of the entity'
-
-Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 requires that the entity pool the contributions of at least 50 members.
+Therefore, as an authorised investment limited partnership that is recognised as a collective investment scheme under the Irish law, the Irish ILP is recognised under a foreign law as being used for collective investment. 'pooling of contributions of at least 50 members of the entity' Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 requires that the entity pool the contributions of at least 50 members.
 The contributions made by all of the Limited Partners of the Irish ILP are entrusted for safekeeping to the Custodian, in accordance with the requirements of the Irish law. The Limited Partners then do not, under the Partnership Agreement, have the right to choose which of the investments made by the Irish ILP they can participate in. The contributions are therefore 'pooled'.
-As there are more than 50 Limited Partners of the Irish ILP, this requirement that there is a pooling of contributions of at least 50 member of the entity in paragraph 12-402(3)(e) of the Schedule 1 to the TAA 1953 is satisfied.
-
-'as consideration to acquire rights to benefits produced by the entity'
-
-Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 requires there be consideration from the 50 or more members of the entity to acquire rights to benefits produced by the entity.
-This requirement is satisfied as each Limited Partner provides a capital contribution to the Irish ILP and receives their share of the ILP's investment proceeds based on the amount of their contribution.
-
-'members of the entity do not have day-to-day control over the operation of the entity'
-
-The final requirement in paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 is that the members of the entity do not have day-to-day control over the operation of the entity.
+As there are more than 50 Limited Partners of the Irish ILP, this requirement that there is a pooling of contributions of at least 50 member of the entity in paragraph 12-402(3)(e) of the Schedule 1 to the TAA 1953 is satisfied. 'as consideration to acquire rights to benefits produced by the entity' Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 requires there be consideration from the 50 or more members of the entity to acquire rights to benefits produced by the entity.
+This requirement is satisfied as each Limited Partner provides a capital contribution to the Irish ILP and receives their share of the ILP's investment proceeds based on the amount of their contribution. 'members of the entity do not have day-to-day control over the operation of the entity' The final requirement in paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 is that the members of the entity do not have day-to-day control over the operation of the entity.
 This requirement has its origins in the previous formulation of paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 which referred to the definition of 'managed investment scheme' in section 9 of the Corporations Act 2001. Context and legislative history demonstrate that this requirement, in conjunction with the aforementioned requirements, is intended to encapsulate entities where the members (essentially the investors) do not have day-to-day control over their investment but where that function is 'handed-over' and performed by a professional manager. That is, the requirement delineates between investments where control of the collective funds is vested in the group of investors and where control is vested in an entity who manages the funds on behalf of the group.
-The organisation and management of the Irish ILP in this arrangement meets the latter description. The Limited Partners, the investors, do not have day-to-day control over their investments, the investment decisions of the Irish ILP or the daily management of the Irish ILP. It is only the General Partner, as assisted by the Management Company and the Administrator, that has control.
-
-Conclusion
-
-As each of the elements are satisfied in relation to the Irish ILP, the Irish ILP is an entity covered by paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953.
-Date of decision:
-  16 December 2010
-
-Year of income:
-  Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 995-1(1)
-Taxation Administration Act 1953   Schedule 1, Subdivision 12-H   Schedule 1, subsection 12-402(1)   Schedule 1, subsection 12-402(2)   Schedule 1, subsection 12-402(3)   Schedule 1, paragraph 12-402(3)(e)
-Corporations Act 2001   section 9
-Investment Limited Partnerships Act 1994 (Republic of Ireland)   The Act
-
-Other References:
-
- Revised Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No 3) Bill 2010
-
-Keywords
-
-Collective investment vehicles
- Investment trusts
- PAYG withholding
- Republic of Ireland
-
-Siebel/TDMS Reference Number:
-  1-2GH30B2
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 January 2011
-
-ISSN:
- 1445-2782
+The organisation and management of the Irish ILP in this arrangement meets the latter description. The Limited Partners, the investors, do not have day-to-day control over their investments, the investment decisions of the Irish ILP or the daily management of the Irish ILP. It is only the General Partner, as assisted by the Management Company and the Administrator, that has control. Conclusion As each of the elements are satisfied in relation to the Irish ILP, the Irish ILP is an entity covered by paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953.
+Date of decision: 16 December 2010 Year of income: Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Legislative References: Income Tax Assessment Act 1997 subsection 995-1(1)
+Taxation Administration Act 1953 Schedule 1, Subdivision 12-H Schedule 1, subsection 12-402(1) Schedule 1, subsection 12-402(2) Schedule 1, subsection 12-402(3) Schedule 1, paragraph 12-402(3)(e)
+Corporations Act 2001 section 9
+Investment Limited Partnerships Act 1994 (Republic of Ireland) The Act Other References: Revised Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 Keywords Collective investment vehicles Investment trusts PAYG withholding Republic of Ireland Siebel/TDMS Reference Number: 1-2GH30B2 Business Line: Public Groups and International Date of publication: 7 January 2011 ISSN: 1445-2782

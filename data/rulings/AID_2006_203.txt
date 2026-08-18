@@ -1,26 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2006/203
-==================================================
-
-Goods and Services Tax
- GST and foreign currency export
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+================================================== Goods and Services Tax GST and foreign currency export FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
 With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-This ATO ID has been amended to reflect the legislative amendments to the A New Tax System (Goods and Services Tax) Act 1999 that are effective from 1 July 2017. Under the amendments, from 1 July 2017 digital currency will have the equivalent treatment to money and in certain circumstances supplies of digital currency will be treated as financial supplies.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+This ATO ID has been amended to reflect the legislative amendments to the A New Tax System (Goods and Services Tax) Act 1999 that are effective from 1 July 2017. Under the amendments, from 1 July 2017 digital currency will have the equivalent treatment to money and in certain circumstances supplies of digital currency will be treated as financial supplies. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the supply of foreign currency banknotes by an entity to a wholesale customer in another country a GST-free supply pursuant to subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
 Decision
 Yes, the supply of foreign currency banknotes by an entity to a wholesale customer in another country is a GST-free supply pursuant to subsection 38-190(1) of the GST Act.
@@ -34,94 +17,23 @@ As defined in section 195-1 of the GST Act, 'money includes (a) currency (whethe
 Provided the market value of the foreign currency does not exceed its face value in the country of issue, the foreign currency is money that is supplied as consideration for a supply that is a supply of money (and vice versa), meaning each is a supply for the purposes of the GST Act, in accordance with subsection 9-10(4) of the GST Act.
 Subdivision 40-A of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) is about financial supplies. Central to the scheme of GST financial supplies is the concept of an 'interest', which is defined at regulation 40-5.02 of the GST Regulations as anything that is recognised at law or in equity as property in any form.
 Subregulation 40-5.09(1) of the GST Regulations sets the requirements for a supply to be a financial supply. It states:
-The provision, acquisition or disposal of an interest mentioned in subregulation (3) or (4) is a financial supply if:
-
-(a)the provision, acquisition or disposal is:
-
-(i)for consideration; and
+The provision, acquisition or disposal of an interest mentioned in subregulation (3) or (4) is a financial supply if: (a)the provision, acquisition or disposal is: (i)for consideration; and
 (ii)in the course of furtherance of an enterprise; and
-(iii)connected with Australia; and
-
-(b)the supplier is:
-
-(i)registered or required to be registered; and
-(ii)a financial supply provider in relation to supply of an interest.
-
-The interests itemised at subregulation 40-5.09(3) of the GST Regulations (in Goods and Services Tax Ruling GSTR 2002/2, the Tax Office calls these 'financial interests'), include, at item 9, 'an interest in or under Australian currency, the currency of a foreign country, digital currency or an agreement to sell any of these 3 things'. Part 7 of Schedule 8 of the GST Regulations contains examples of the kinds of interests intended to be covered by item 9. The first example in the table at Part 7 is 'foreign currency in cash form'.
+(iii)connected with Australia; and (b)the supplier is: (i)registered or required to be registered; and
+(ii)a financial supply provider in relation to supply of an interest. The interests itemised at subregulation 40-5.09(3) of the GST Regulations (in Goods and Services Tax Ruling GSTR 2002/2, the Tax Office calls these 'financial interests'), include, at item 9, 'an interest in or under Australian currency, the currency of a foreign country, digital currency or an agreement to sell any of these 3 things'. Part 7 of Schedule 8 of the GST Regulations contains examples of the kinds of interests intended to be covered by item 9. The first example in the table at Part 7 is 'foreign currency in cash form'.
 The Tax Office considers that the GST regulations are clear in the way they intend a transaction involving the exchange of foreign currency banknotes for money in another form to be characterised for GST purposes. Provided the foreign currency banknotes have a market value that does not exceed their stated value as legal tender, such a transaction involves the provision, acquisition and/or disposal of an interest in foreign currency and is a financial supply by the entity where the requirements of subregulation 40-5.09(1) of the GST Regulations are satisfied.
 Subsection 40-5(1) of the GST Act provides that a financial supply is input taxed.
 However, the supply of the financial interest also has the character of a GST-free supply where the requirements of subsection 38-190(1) of the GST Act are satisfied. The Tax Office considers that section 38-190 of the GST Act, which is about supplies of things other than goods or real property, may apply to supplies of financial interests, including an interest in foreign currency banknotes.
-Item 2 in the table in subsection 38-190(1) of the GST Act (Item 2) may apply to make the supply of a financial interest GST-free, provided the requirements of Item 2 are satisfied. These requirements are satisfied where the supply of the financial interest is a supply made to a non-resident who is not in Australia when the thing supplied is done, and:
-
-•the supply is neither a supply of work physically performed on goods situated in Australia when the work is done, nor a supply directly connected with real property situated in Australia; or
-•the non-resident acquires the thing in carrying on the non-resident's enterprise, but is not registered or required to be registered.
-
-Both of these requirements are satisfied in this case.
+Item 2 in the table in subsection 38-190(1) of the GST Act (Item 2) may apply to make the supply of a financial interest GST-free, provided the requirements of Item 2 are satisfied. These requirements are satisfied where the supply of the financial interest is a supply made to a non-resident who is not in Australia when the thing supplied is done, and: •the supply is neither a supply of work physically performed on goods situated in Australia when the work is done, nor a supply directly connected with real property situated in Australia; or
+•the non-resident acquires the thing in carrying on the non-resident's enterprise, but is not registered or required to be registered. Both of these requirements are satisfied in this case.
 However, such a supply may still be denied GST-free status where it is a supply of a right or option to acquire something, the supply of which would not be GST-free. That exclusion does not apply in this case. As the entity does not supply the banknotes to another entity in Australia (and the agreements under which it makes the supplies do not require it to do so), Item 2 applies to the supply.
 The supply is therefore input taxed under subsection 40-5(1) and GST-free under subsection 38-190(1) of the GST Act. This situation requires consideration to be given to the operation of subsection 9-30(3) of the GST Act. Paragraph 9-30(3)(a) of the GST Act provides that to the extent that a supply would (apart from this subsection) be both GST-free and input taxed, the supply is GST-free and not input taxed unless the provision under which it is input taxed requires the supplier to have chosen for its supplies of that kind to be input taxed.
-As subsection 40-5(1) of the GST Act and regulation 40-5.09 of the GST Regulations do not require the entity to have chosen for its supplies of foreign currency banknotes to be input taxed, the supply of the banknotes to a wholesale customer in another country is GST-free in accordance with the application of subsection 9-30(3) of the GST Act.
-
-Amendment History
-
-Date of Amendment
+As subsection 40-5(1) of the GST Act and regulation 40-5.09 of the GST Regulations do not require the entity to have chosen for its supplies of foreign currency banknotes to be input taxed, the supply of the banknotes to a wholesale customer in another country is GST-free in accordance with the application of subsection 9-30(3) of the GST Act. Amendment History Date of Amendment
 Part
-Comment
-
-23 February 2018
+Comment 23 February 2018
 Reasons for Decision
-Update to include digital currency
-
-Date of decision:
-  27 July 2006
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 9-10(4)   subsection 9-30(3)   paragraph 9-30(3)(a)   section 38-190   subsection 38-190(1)   subsection 38-190(1) table item 2   subsection 40-5(1)   section 195-1
-A New Tax System (Goods and Services Tax) Regulations 1999   Subdivision 40-A   regulation 40-5.02   regulation 40-5.09   subregulation 40-5.09(1)   subregulation 40-5.09(3) table item 9   regulation 40-5.12
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2002/2
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/65
-
-Keywords
-
-Foreign currency
- Goods and services tax
- GST free
- GST money
- Input taxed supplies
-
-Siebel/TDMS Reference Number:
-  5206062
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  4 August 2006
-
-Date reviewed:
-  13 February 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-27 July 2006
-Original statement
-
-You are here
+Update to include digital currency Date of decision: 27 July 2006 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 9-10(4) subsection 9-30(3) paragraph 9-30(3)(a) section 38-190 subsection 38-190(1) subsection 38-190(1) table item 2 subsection 40-5(1) section 195-1
+A New Tax System (Goods and Services Tax) Regulations 1999 Subdivision 40-A regulation 40-5.02 regulation 40-5.09 subregulation 40-5.09(1) subregulation 40-5.09(3) table item 9 regulation 40-5.12 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2002/2 Related ATO Interpretative Decisions ATO ID 2006/65 Keywords Foreign currency Goods and services tax GST free GST money Input taxed supplies Siebel/TDMS Reference Number: 5206062 Business Line: Indirect Tax Date of publication: 4 August 2006 Date reviewed: 13 February 2018 ISSN: 1445-2782 history Date: Version: 27 July 2006
+Original statement You are here
 23 February 2018
 Updated statement

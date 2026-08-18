@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/18
-==================================================
-
-Income tax
- Capital gains tax: CGT event E7- consequences for trustee and beneficiary - anti-overlap rule
- FOI status: may be released
-
-This ATO ID has been withdrawn as the ATO view on this matter now appears in TR 2005/D14
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital gains tax: CGT event E7- consequences for trustee and beneficiary - anti-overlap rule FOI status: may be released This ATO ID has been withdrawn as the ATO view on this matter now appears in TR 2005/D14 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the anti-overlap rule in section 118-20 of the Income Tax Assessment Act 1997 (ITAA 1997) apply to reduce a capital gain made by a taxpayer in respect of their interest in a trust as a result of CGT event E7 happening, if a capital gain the trustee made from a trust asset as a result of that event is effectively included in the beneficiary's assessable income under section 97 of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The anti-overlap rule in section 118-20 of the ITAA 1997 will apply to reduce the capital gain made by the beneficiary from CGT event E7 happening, to the extent that the capital gain the trustee made from that event has effectively been included in the beneficiary's assessable income under section 97 of the ITAA 1936. It does not matter that subsection 115-215(6) of the ITAA 1997 provides a deduction for the amount included in the beneficiary's assessable income under section 97 of the ITAA 1936.
@@ -32,70 +17,14 @@ CGT event E7 in section 104-85 of the ITAA 1997 happens if the trustee of a trus
 The trustee will make a capital gain from CGT event E7 if the market value of the trust asset is more than its cost base at the time it is disposed of. The trustee will make a capital loss if that market value is less than the asset's reduced cost base (subsection 104-85(3) of the ITAA 1997).
 The beneficiary will make a capital gain if the market value of the trust asset (at the time of the disposal) is more than the cost base of the beneficiary's trust interest, or the part of it, being satisfied. The beneficiary makes a capital loss if that market value is less than the reduced cost base of that interest: subsection 104-85(5) of the ITAA 1997.
 In this case, both the trustee and the taxpayer have made a capital gain as a result of CGT event E7 happening.
-In addition to the taxpayer making their own capital gain, an amount will be included in their assessable income under section 97 of the ITAA 1936 in respect of the capital gain made by the trustee. This is because the capital gain made by the trustee forms part of the net income of the trust estate (section 95 of the ITAA 1936). As the taxpayer is presently entitled to the income of the trust in the 2004 income year, the assessable income of the taxpayer will include their share of the net income of the trust estate: section 97 of the ITAA 1936.
-
-Anti-overlap rule
-
-The anti-overlap rule in section 118-20 of the ITAA 1997 provides that a capital gain you make from a CGT event is reduced if, because of the event, a provision (other than a CGT provision) includes an amount in your assessable income.
+In addition to the taxpayer making their own capital gain, an amount will be included in their assessable income under section 97 of the ITAA 1936 in respect of the capital gain made by the trustee. This is because the capital gain made by the trustee forms part of the net income of the trust estate (section 95 of the ITAA 1936). As the taxpayer is presently entitled to the income of the trust in the 2004 income year, the assessable income of the taxpayer will include their share of the net income of the trust estate: section 97 of the ITAA 1936. Anti-overlap rule The anti-overlap rule in section 118-20 of the ITAA 1997 provides that a capital gain you make from a CGT event is reduced if, because of the event, a provision (other than a CGT provision) includes an amount in your assessable income.
 Section 118-20 of the ITAA 1997 applies in this case to reduce the taxpayer's capital gain by the amount of the trust capital gain included in their assessable income under section 97 of the ITAA 1936.
-The anti-overlap rule is not precluded from applying merely because, as in this case, the CGT event has happened to two different parties (that is, the trustee and the beneficiary).
-
-Interaction with the rules in Subdivision 115-C of the ITAA 1997
-
-Essentially, Subdivision 115-C ensures that a share of a trust capital gain included in a beneficiary's assessable income under section 97 of the ITAA 1936 is also treated as a capital gain in the hands of the beneficiary. This enables the beneficiary to offset their capital losses and net capital losses against the amount, and to apply the CGT discount (if applicable) to the amount.
+The anti-overlap rule is not precluded from applying merely because, as in this case, the CGT event has happened to two different parties (that is, the trustee and the beneficiary). Interaction with the rules in Subdivision 115-C of the ITAA 1997 Essentially, Subdivision 115-C ensures that a share of a trust capital gain included in a beneficiary's assessable income under section 97 of the ITAA 1936 is also treated as a capital gain in the hands of the beneficiary. This enables the beneficiary to offset their capital losses and net capital losses against the amount, and to apply the CGT discount (if applicable) to the amount.
 To that end, the amount included in the beneficiary's assessable income under section 97 of the ITAA 1936 is also treated as a capital gain made by the taxpayer: subsection 115-215(3) of the ITAA 1997. To ensure that this amount is not taxed twice in the hands of the beneficiary (that is, once under section 97 and once as a capital gain under subsection 115-215(3)) the beneficiary deducts from their assessable income an amount equal to the trust capital gain included in the taxpayer's assessable income under section 97 (subsection 115-215(6) of the ITAA 1997).
 The fact that an amount equal to the amount included under section 97 of the ITAA 1997 is deducted from the beneficiary's assessable income does not prevent the anti-overlap rule in section 118-20 of the ITAA 1997 applying. For that rule to apply, an amount must be included in a taxpayer's assessable income under a provision other than a CGT provision. In this case, an amount was included under section 97 of the ITAA 1936. Therefore, the condition for applying the anti-overlap rule is satisfied. The fact that a deduction equal to that amount was also allowed does not change that. Deductions are subtracted from assessable income for the purpose of determining taxable income (section 4-15 of the ITAA 1997). They do not alter the amount included in assessable income.
-Further, a beneficiary's own capital gain is not reduced by the amount treated as their capital gain under section 115-215 of the ITAA 1997. That amount is not an amount included in assessable income under a non-CGT provision, and therefore, does not satisfy the primary condition in the anti-overlap rule in section 118-20 of the ITAA 1997.
-
-Conclusion
-
-Therefore, any capital gain the taxpayer made from their trust interest as a result of CGT event E7 happening can be reduced by the amount included in their assessable income under section 97 of the ITAA 1936 that represents the capital gain made by the trustee under CGT event E7.
-Date of decision:
-  23 December 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 95   section 97
-Income Tax Assessment Act 1997   section 4-15   section 104-85   subsection 104-85(3)   subsection 104-85(5)   Subdivision 115-C   section 115-215   subsection 115-215(3)   subsection 115-215(6)   section 118-20
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/39
- ATO ID 2003/1116
-
-Keywords
-
-capital gains
- capital gains tax
- CGT event E5-beneficiary becoming entitled to a trust asset
- CGT events
- CGT events E1-E9 - trusts
- trusts
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  14 January 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 December 2004
-Original statement
-
-You are here
+Further, a beneficiary's own capital gain is not reduced by the amount treated as their capital gain under section 115-215 of the ITAA 1997. That amount is not an amount included in assessable income under a non-CGT provision, and therefore, does not satisfy the primary condition in the anti-overlap rule in section 118-20 of the ITAA 1997. Conclusion Therefore, any capital gain the taxpayer made from their trust interest as a result of CGT event E7 happening can be reduced by the amount included in their assessable income under section 97 of the ITAA 1936 that represents the capital gain made by the trustee under CGT event E7.
+Date of decision: 23 December 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 95 section 97
+Income Tax Assessment Act 1997 section 4-15 section 104-85 subsection 104-85(3) subsection 104-85(5) Subdivision 115-C section 115-215 subsection 115-215(3) subsection 115-215(6) section 118-20 Related ATO Interpretative Decisions ATO ID 2003/39 ATO ID 2003/1116 Keywords capital gains capital gains tax CGT event E5-beneficiary becoming entitled to a trust asset CGT events CGT events E1-E9 - trusts trusts Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 14 January 2005 ISSN: 1445-2782 history Date: Version: 23 December 2004
+Original statement You are here
 28 September 2005
 Archived

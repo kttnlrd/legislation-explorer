@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/357
-==================================================
-
-Income tax
- Thin Capitalisation: exemption - special purpose entities
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Thin Capitalisation: exemption - special purpose entities FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does Division 820 (the thin capitalisation provisions) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to restrict the deductibility of interest incurred by an entity which was solely established for the purpose of borrowing funds for use in a debt securitisation arrangement?
 Decision
 No. Division 820 (the thin capitalisation provisions) of the ITAA 1997 does not apply to restrict the deductibility of interest incurred by an entity solely established for the purpose of borrowing funds for use in a debt securitisation arrangement because section 820-39 of the ITAA 1997 applies.
@@ -28,69 +15,18 @@ The taxpayer is wholly owned by a charitable trust.
 The taxpayer is considered by Moody's to be insolvency-remote and has been rated Prime-1 being the best rating and means 'a superior ability to repay short-term debt obligations'.
 Reasons for Decision
 The ability of a foreign resident taxpayer to deduct interest against its Australian income is subject to the thin capitalisation provisions.
-Subsection 820-39(1) of the ITAA 1997 provides that the thin capitalisation provisions do not apply to restrict the deductibility of interest incurred by a taxpayer if the conditions in subsection 820-39(3) apply. The conditions in subsection 820-39(3) are that:
-
-(a)the entity is one established for the purposes of managing some or all of the economic risk associated with assets, liabilities or investments (whether the entity assumes the risk from another entity or creates the risk itself); and
+Subsection 820-39(1) of the ITAA 1997 provides that the thin capitalisation provisions do not apply to restrict the deductibility of interest incurred by a taxpayer if the conditions in subsection 820-39(3) apply. The conditions in subsection 820-39(3) are that: (a)the entity is one established for the purposes of managing some or all of the economic risk associated with assets, liabilities or investments (whether the entity assumes the risk from another entity or creates the risk itself); and
 (b)the total value of debt interests in the entity is at least 50% of the total value of the entity's assets; and
-(c)the entity is an insolvency-remote special purpose entity according to criteria of an internationally recognised rating agency that are applicable to the entity's circumstances.
-
-In the present case, the taxpayer was established for the sole purpose of borrowing funds to buy receivables as part of a securitisation arrangement. As part of the arrangement, the taxpayer has assumed some or all of the economic risks associated with the underlying receivable, since the taxpayer's return is contingent on the recoverability of the receivable. In other words, at least part of the credit risk on the receivables has passed from the original debtor to the taxpayer. Thus, paragraph (a) is satisfied.
+(c)the entity is an insolvency-remote special purpose entity according to criteria of an internationally recognised rating agency that are applicable to the entity's circumstances. In the present case, the taxpayer was established for the sole purpose of borrowing funds to buy receivables as part of a securitisation arrangement. As part of the arrangement, the taxpayer has assumed some or all of the economic risks associated with the underlying receivable, since the taxpayer's return is contingent on the recoverability of the receivable. In other words, at least part of the credit risk on the receivables has passed from the original debtor to the taxpayer. Thus, paragraph (a) is satisfied.
 Paragraph (b) is satisfied because the taxpayer is funded almost entirely by debt through issue of short-term notes to investors.
 Paragraph (c) is also satisfied because Moody's, being an internationally recognised rating agency, has considered the taxpayers to be insolvency-remote and given the taxpayers a Prime-1 rating, being the highest rating on credit worthiness.
 As the taxpayers have satisfied the requirements of subsection 820-39(1) of the ITAA 1997, the thin capitalisation provisions do not apply to restrict the deductibility of interest paid in the course of their business.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-27 May 2014
+Comment 27 May 2014
 Decision
-Delete reference to 830-39 and replace with 820-39
-
-Throughout
-Replace 'securitization' with 'securitisation'
-
-Date of decision:
-  29 November 2005
-
-Year of income:
-  Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 820   section 820-1   section 820-39   subsection 820-39(3)   subsection 820-39(1)
-
-Keywords
-
-Inward investment vehicle
- Thin capitalisation
- Thin capitalisation by non residents
-
-Siebel/TDMS Reference Number:
-  4795069
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 December 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-29 November 2005
-Original statement
-
-You are here
+Delete reference to 830-39 and replace with 820-39 Throughout
+Replace 'securitization' with 'securitisation' Date of decision: 29 November 2005 Year of income: Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 Division 820 section 820-1 section 820-39 subsection 820-39(3) subsection 820-39(1) Keywords Inward investment vehicle Thin capitalisation Thin capitalisation by non residents Siebel/TDMS Reference Number: 4795069 Business Line: Public Groups and International Date of publication: 23 December 2005 ISSN: 1445-2782 history Date: Version: 29 November 2005
+Original statement You are here
 27 May 2014
 Updated statement

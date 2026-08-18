@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/143
-==================================================
-
-Income Tax
- Taxation of Financial Arrangements: financial arrangements - offsetting contracts - requirements under subsection 230-530(4) of the Income Tax Assessment Act 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of Financial Arrangements: financial arrangements - offsetting contracts - requirements under subsection 230-530(4) of the Income Tax Assessment Act 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a taxpayer's forward purchase contract and forward sale contract in respect of a commodity do not satisfy the definition of 'financial arrangement' under section 230-45 of the Income Tax Assessment Act 1997 (ITAA 1997), will the contracts meet the requirements of subsection 230-530(4) of the ITAA 1997 if the taxpayer deals in the commodity through the performance of offsetting contracts?
 Decision
 Yes. Division 230 of the ITAA 1997 will apply to the forward purchase contract and forward sale contract as if each arrangement constituted a financial arrangement under subsection 230-530(4) of the ITAA 1997.
@@ -24,67 +13,17 @@ Division 230 of the ITAA 1997 applies to financial arrangements as defined. The 
 However, Subdivision 230-J of the ITAA 1997 extends the operation of Division 230 to arrangements that fall within it. The provisions within section 230-530 of Division 230 of the ITAA 1997 commence with the words 'This Division also applies to...'. Accordingly, for arrangements that satisfy the requirements in section 230-530 of the ITAA 1997, Division 230 of the ITAA 1997 will apply to those arrangements 'as if' each arrangement constituted a financial arrangement.
 The phrase 'as if' takes on its ordinary meaning which requires that an imaginary state of affairs be treated as real, that is, that a particular circumstance be considered as something else without altering what it actually is. Therefore Subdivision 230-J of the ITAA 1997 treats each of the arrangements described in subsections 230-530(1) to (4) of the ITAA 1997 as meeting the definition of a financial arrangement, provided that each of the requirements contained within any one of the subsections are satisfied.
 Relevantly, subsection 250-530(4) of the ITAA 1997 is concerned with offsetting commodity contracts. Specifically, subsection 230-530(4) applies to a contract to which the taxpayer is a party as if the contract were a financial arrangement if the circumstances outlined in paragraphs 230-530(4)(a) to (e) are satisfied. Each of these paragraphs is considered below.
-Paragraph 230-530(4)(a) of the ITAA 1997 provides:
-
-You have a right to receive or an obligation to provide a commodity under the contract
-
-The taxpayer has a right to receive (under the forward purchase contract) and an obligation to provide (under the forward sale contract) a commodity. Accordingly, this paragraph is satisfied in respect of both the forward purchase contract and the forward sale contract.
-Paragraph 230-530(4)(b) of the ITAA 1997 provides:
-
-You have a practice of dealing in the commodity through the performance of offsetting contracts to receive and provide the commodity
-
-The application of this paragraph necessitates an understanding of the phrase 'the performance of offsetting contracts'. As the phrase is not defined it takes its ordinary meaning.
-The Macquarie Online Dictionary (2001) advises that 'offset' means:
-
-1.to balance by something else as an equivalent;
-2.to counterbalance as an equivalent does, compensate for; ...
-
-The context suggests that the offsetting is as to receipt and provision of the commodity. The contracts to receive and provide the commodity need not be part of the same arrangement, but together must provide an offsetting function across the duration of the contracts. Here, the taxpayer's business is to enter into forward purchases and sales of the commodity so as to make a profit from the difference in prices. Accordingly this paragraph is satisfied.
+Paragraph 230-530(4)(a) of the ITAA 1997 provides: You have a right to receive or an obligation to provide a commodity under the contract The taxpayer has a right to receive (under the forward purchase contract) and an obligation to provide (under the forward sale contract) a commodity. Accordingly, this paragraph is satisfied in respect of both the forward purchase contract and the forward sale contract.
+Paragraph 230-530(4)(b) of the ITAA 1997 provides: You have a practice of dealing in the commodity through the performance of offsetting contracts to receive and provide the commodity The application of this paragraph necessitates an understanding of the phrase 'the performance of offsetting contracts'. As the phrase is not defined it takes its ordinary meaning.
+The Macquarie Online Dictionary (2001) advises that 'offset' means: 1.to balance by something else as an equivalent;
+2.to counterbalance as an equivalent does, compensate for; ... The context suggests that the offsetting is as to receipt and provision of the commodity. The contracts to receive and provide the commodity need not be part of the same arrangement, but together must provide an offsetting function across the duration of the contracts. Here, the taxpayer's business is to enter into forward purchases and sales of the commodity so as to make a profit from the difference in prices. Accordingly this paragraph is satisfied.
 Paragraph 230-530(4)(b) of the ITAA 1997 does not use the term 'arrangement'; if the provisions of subsection 230-530(4) are met then the offsetting contracts are taken to be 'financial arrangement(s)' and Division 230 of the ITAA 1997 will apply to them. This means that each contract becomes a financial arrangement for the purposes of Division 230.
 Accordingly this paragraph is satisfied in respect of both the forward purchase contract and forward sale contract.
-Paragraph 230-530(4)(c) of the ITAA 1997 provides:
-
-You do not have, as your sole or dominant purpose for entering into the contract, the purpose of receiving or delivering the commodity as part of your expected purchase, sale or usage requirements
-
-The High Court in the case of Federal Commissioner of Taxation v. Spotless Services Ltd & Anor (1996) 186 CLR 404; 96 ATC 5201; 34 ATR 183 described 'dominant purpose' in its ordinary meaning as 'that purpose which was the ruling, prevailing, or most influential purpose...'.
+Paragraph 230-530(4)(c) of the ITAA 1997 provides: You do not have, as your sole or dominant purpose for entering into the contract, the purpose of receiving or delivering the commodity as part of your expected purchase, sale or usage requirements The High Court in the case of Federal Commissioner of Taxation v. Spotless Services Ltd & Anor (1996) 186 CLR 404; 96 ATC 5201; 34 ATR 183 described 'dominant purpose' in its ordinary meaning as 'that purpose which was the ruling, prevailing, or most influential purpose...'.
 Paragraph 230-530(4)(c) of the ITAA 1997 must be read in the context of paragraph 230-530(4)(b) of the ITAA 1997. Absent this context, entering into offsetting contracts to receive and provide the commodity might be understood to be 'receiving or delivering the commodity as part of your expected purchase [or] sale [or usage] ... requirements'.
 The word usage refers to the using, treatment or employment of the commodity which is different to the act of dealing. This term suggests some form of processing which uses the article and involves the alteration of the article into something else.
 Therefore, a purpose of what might be called 'mere dealing' in a commodity by the entry into offsetting contracts will not prevent the satisfaction of paragraph 230-530(4)(c) of the ITAA 1997. But a sole or dominant purpose of trading by otherwise receiving, delivering or using the commodity will.
 The requirement in this paragraph is satisfied as the taxpayer does not have a sole or dominant purpose of using the commodity; all that is intended is to offset the contracts to make a profit.
 Paragraphs 230-530(4)(d) and (e) of the ITAA 1997 deal with the taxpayer's specific circumstances in relation to the application of the fair value and financial reports elections and the accounting standards. These requirements are both able to be satisfied in this case.
 Accordingly, as each of the paragraphs in subsection 230-530(4) of the ITAA 1997 are satisfied, Division 230 of the ITAA 1997 applies to the forward purchase contract and forward sale contract as if each were a 'financial arrangement'.
-Date of decision:
-  20 November 2009
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 230-45   subsection 230-45(2)   section 230-50   section 230-530   subsection 230-530(4)   paragraph 230-530(4)(a)   paragraph 230-530(4)(b)   paragraph 230-530(4)(c)   paragraph 230-530(4)(d)   paragraph 230-530(4)(e)
-
-Case References:
-
-Federal Commissioner of Taxation v. Spotless Services Ltd & Anor   (1996) 186 CLR 404   (1996) 96 ATC 5201   (1996) 34 ATR 183
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/115
- ATO ID 2009/142
-
-Keywords
-
-Arrangement
- Forward contracts
-
-Siebel/TDMS Reference Number:
-  6269867
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  27 November 2009
-
-ISSN:
- 1445-2782
+Date of decision: 20 November 2009 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 230-45 subsection 230-45(2) section 230-50 section 230-530 subsection 230-530(4) paragraph 230-530(4)(a) paragraph 230-530(4)(b) paragraph 230-530(4)(c) paragraph 230-530(4)(d) paragraph 230-530(4)(e) Case References: Federal Commissioner of Taxation v. Spotless Services Ltd & Anor (1996) 186 CLR 404 (1996) 96 ATC 5201 (1996) 34 ATR 183 Related ATO Interpretative Decisions ATO ID 2009/115 ATO ID 2009/142 Keywords Arrangement Forward contracts Siebel/TDMS Reference Number: 6269867 Business Line: Finance and Investment Centre of Expertise Date of publication: 27 November 2009 ISSN: 1445-2782

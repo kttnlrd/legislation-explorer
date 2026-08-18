@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/10
-==================================================
-
-Income Tax
- Transferor trusts: attribution of income to executor of estate of deceased transferor
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Transferor trusts: attribution of income to executor of estate of deceased transferor FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can income of a non-resident trust estate be attributed under section 102AAZD of the Income Tax Assessment Act 1936 (ITAA 1936) to a trustee of the deceased estate of a natural person who was an attributable taxpayer in relation to a non-resident trust estate, in the year of the person's death?
 Decision
 No, the income of a non-resident trust estate cannot be attributed under section 102AAZD of the ITAA 1936 to the trustee of the deceased estate (the executor) of a person who transferred property or services to a non-resident trust, because the executor is not an attributable taxpayer.
@@ -24,72 +11,13 @@ Reasons for Decision
 An entity is an attributable taxpayer in relation to a year of income if the entity has transferred property or services to a non-resident trust (sub-subparagraph 102AAT(1)(a)(i)(C) or sub-subparagraph 102AAT(1)(a)(ii)(B) of the ITAA 1936).
 The executor of the estate of a deceased attributable taxpayer is generally not an attributable taxpayer unless the executor has transferred property or services to a non-resident trust estate through the exercise of a power of appointment or of a discretion by the executor.
 There are no 'successor' rules for the case of the death of a natural person who has transferred property or services. That is, no provision deems an executor to be an attributable taxpayer when a previous transfer of property or services was made by the deceased taxpayer.
-In the absence of 'successor' rules, the executor of the deceased estate, having a separate legal personality to the taxpayer, cannot be subject to attribution by virtue of a previous transfer of property or services by the taxpayer.
-
-Amendment History
-
-Date of Amendment
+In the absence of 'successor' rules, the executor of the deceased estate, having a separate legal personality to the taxpayer, cannot be subject to attribution by virtue of a previous transfer of property or services by the taxpayer. Amendment History Date of Amendment
 Part
-Comment
-
-24 October 2014
+Comment 24 October 2014
 Issue
-Insert 'estate' after 'non-resident trust'
-
-Facts
-Change to consistent use of past tense
-
-Reason for Decision
-Reword second paragraph for clarity
-
-Date of decision:
-  13 December 2007
-
-Year of income:
-  Year ending 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 102AAT   section 102AAZD
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/9
-
-Keywords
-
-Deceased estates
- Executors
- Non resident trusts
- Trusts
-
-Siebel/TDMS Reference Number:
-  5776151; 1-CQ3BDPV
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  11 January 2008
-
-Date reviewed:
-  23 October 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 December 2007
-Original statement
-
-You are here
+Insert 'estate' after 'non-resident trust' Facts
+Change to consistent use of past tense Reason for Decision
+Reword second paragraph for clarity Date of decision: 13 December 2007 Year of income: Year ending 30 June 2008 Legislative References: Income Tax Assessment Act 1936 section 102AAT section 102AAZD Related ATO Interpretative Decisions ATO ID 2008/9 Keywords Deceased estates Executors Non resident trusts Trusts Siebel/TDMS Reference Number: 5776151; 1-CQ3BDPV Business Line: Private Groups and High Wealth Individuals Date of publication: 11 January 2008 Date reviewed: 23 October 2017 ISSN: 1445-2782 history Date: Version: 13 December 2007
+Original statement You are here
 24 October 2014
 Updated statement

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/222
-==================================================
-
-Income Tax
- Capital Gains Tax: CGT event H2 - premium rebate
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: CGT event H2 - premium rebate FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a resolution of an insurer to allow a premium rebate under a policy of insurance a CGT event H2 in relation to the policy holder's asset, which is the bundle of rights under the insurance policy?
 Decision
 Yes. A resolution by an insurer to allow a premium rebate under a policy of insurance is a CGT event H2 in relation to the policy holder's asset.
@@ -26,31 +15,4 @@ Pursuant to section 104-155 of the ITAA 1997, CGT event H2 happens if an act, tr
 The insurer's resolution to allow a premium rebate to be paid under the insurance policy affected the rights of the policy holder and ultimately varied the policy. The resolution was an act or event that happened in relation to the policy holder's bundle of rights under the policy.
 The insurer's resolution did not result in any adjustment to the cost base of the policy holder's bundle of rights under the policies. Further, none of the exceptions to CGT event H2 listed in subsection 104-155(5) of the ITAA 1997 applied.
 Therefore, the insurer making a resolution to allow a premium rebate to be paid was a CGT event H2 in respect of the policy holder's bundle of rights under the policies.
-Date of decision:
-  27 July 2006
-
-Year of income:
-  Year ended 30 June 2000 Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-155   subsection 104-155(5)
-
-Keywords
-
-Capital gains tax
- CGT events H1-H2 - special capital receipts
- Insurance
- Refunds
-
-Siebel/TDMS Reference Number:
-  3094463
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  11 August 2006
-
-ISSN:
- 1445-2782
+Date of decision: 27 July 2006 Year of income: Year ended 30 June 2000 Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 section 104-155 subsection 104-155(5) Keywords Capital gains tax CGT events H1-H2 - special capital receipts Insurance Refunds Siebel/TDMS Reference Number: 3094463 Business Line: Public Groups and International Date of publication: 11 August 2006 ISSN: 1445-2782

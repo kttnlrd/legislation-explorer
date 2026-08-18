@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/685
-==================================================
-
-Income Tax
- Company tax losses: choice to deduct tax loss must not create excess franking offsets
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company tax losses: choice to deduct tax loss must not create excess franking offsets FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a corporate tax entity has a tax loss, can the entity choose to deduct an amount of that tax loss under section 36-17 of the Income Tax Assessment Act 1997 (ITAA 1997) that would give rise to an amount of excess franking offsets?
 Decision
 No. Paragraph 36-17(5)(b) of the ITAA 1997 provides that a corporate tax entity that, disregarding the tax loss, would not have an amount of excess franking offsets for an income year, must not choose to deduct an amount of tax loss that would result in the entity having an amount of excess franking offsets for that income year.
@@ -23,47 +12,8 @@ Company A seeks to deduct this tax loss of $20,000 for the 2003-04 income year.
 Reasons for Decision
 Subsection 36-17(2) of the ITAA 1997 provides a corporate tax entity with a choice as to the undeducted amount of tax loss (if any) to be deducted.
 If the entity has net exempt income, subsection 36-17(3) of the ITAA 1997 provides that the entity has a choice as to the undeducted amount of tax loss (if any) to be deducted after firstly deducting the tax loss from the net exempt income.
-Subsection 36-17(5) of the ITAA 1997 further provides:
-
-36-17(5) The choice that the entity has under subsection (2) or (3) for the later income year is subject to both of the following:
-
-(a)the entity must choose a nil amount if, disregarding the *tax loss and other tax losses of the entity, the entity would have an amount of *excess franking offsets for that year;
-(b)if, disregarding the tax losses and other tax losses of the entity, the entity would not have an amount of excess franking offsets for that year - the entity must not choose an amount that would result in the entity having an amount of excess franking offsets for that year.
-
-Paragraph 36-17(5)(a) of the ITAA 1997 does not apply to Company A for the 2003-04 income year, as Company A would not have an amount of excess franking offsets under section 36-55 of the ITAA 1997 if the tax loss of $20,000 was disregarded.
-If Company A chooses to deduct the full amount of the tax loss of $20,000, it would have an amount of excess franking offsets of $3,000, calculated under section 36-55 of the ITAA 1997 as follows:
-
-$6,000 - (($30,000-$20,000) x 30%).
-
-Company A therefore cannot choose to deduct the full amount of tax loss because of paragraph 36-17(5)(b) of the ITAA 1997.
-Alternatively if Company A chooses to deduct $10,000 of the tax loss, it would not have an amount of excess franking offsets under section 36-55 of the ITAA 1997:
-
-$6,000- (($30,000-$10,000) x 30%) = $nil.
-
-In accordance with paragraph 36-17(5)(b) of the ITAA 1997, Company A can choose to deduct $10,000 of the tax loss for the 2003-04 income year.
-Date of decision:
-  11 August 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 36-17   subsection 36-17(5)   paragraph 36-17(5)(a)   paragraph 36-17(5)(b)   section 36-55
-
-Keywords
-
-Carry forward losses
- Tax loss
-
-Siebel/TDMS Reference Number:
-  4165901
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  20 August 2004
-
-ISSN:
- 1445-2782
+Subsection 36-17(5) of the ITAA 1997 further provides: 36-17(5) The choice that the entity has under subsection (2) or (3) for the later income year is subject to both of the following: (a)the entity must choose a nil amount if, disregarding the *tax loss and other tax losses of the entity, the entity would have an amount of *excess franking offsets for that year;
+(b)if, disregarding the tax losses and other tax losses of the entity, the entity would not have an amount of excess franking offsets for that year - the entity must not choose an amount that would result in the entity having an amount of excess franking offsets for that year. Paragraph 36-17(5)(a) of the ITAA 1997 does not apply to Company A for the 2003-04 income year, as Company A would not have an amount of excess franking offsets under section 36-55 of the ITAA 1997 if the tax loss of $20,000 was disregarded.
+If Company A chooses to deduct the full amount of the tax loss of $20,000, it would have an amount of excess franking offsets of $3,000, calculated under section 36-55 of the ITAA 1997 as follows: $6,000 - (($30,000-$20,000) x 30%). Company A therefore cannot choose to deduct the full amount of tax loss because of paragraph 36-17(5)(b) of the ITAA 1997.
+Alternatively if Company A chooses to deduct $10,000 of the tax loss, it would not have an amount of excess franking offsets under section 36-55 of the ITAA 1997: $6,000- (($30,000-$10,000) x 30%) = $nil. In accordance with paragraph 36-17(5)(b) of the ITAA 1997, Company A can choose to deduct $10,000 of the tax loss for the 2003-04 income year.
+Date of decision: 11 August 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 36-17 subsection 36-17(5) paragraph 36-17(5)(a) paragraph 36-17(5)(b) section 36-55 Keywords Carry forward losses Tax loss Siebel/TDMS Reference Number: 4165901 Business Line: Public Groups and International Date of publication: 20 August 2004 ISSN: 1445-2782

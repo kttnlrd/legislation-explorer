@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/74
-==================================================
-
-Income Tax
- R&D tax concession: meaning of 'primarily' in paragraph 73B(14C)(c) of the Income Tax Assessment Act 1936
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax R&D tax concession: meaning of 'primarily' in paragraph 73B(14C)(c) of the Income Tax Assessment Act 1936 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the requirement in paragraph 73B(14C)(c) of the Income Tax Assessment Act 1936 (ITAA 1936), that activities need to be carried on 'wholly or primarily on behalf of the foreign company' be met, where the relevant activities are not carried out by the eligible company solely on behalf of the foreign company?
 Decision
 Yes. The requirement in paragraph 73B(14C)(c) of the ITAA 1936 can be met if the R&D activities are carried on chiefly or mainly on behalf of the foreign company.
@@ -32,55 +21,9 @@ Paragraph 73B(14C)(c) of the ITAA 1936 requires that expenditure incurred by an 
 As Company B may benefit in some situations from the conduct of the activities in question, it cannot be said that they are carried on 'wholly on behalf of' the foreign company, Company A. The question then becomes whether nevertheless it can be concluded that these activities are carried on 'primarily on behalf of' the foreign company, Company A. There is no direct authority on this point.
 In Parker Pen (Aust) Pty Ltd v. Export Development Grants Board (1983) 67 FLR 234; (1983) 46 ALR 612, Lockhart J considered the meaning of the expression 'primarily and principally' for the purposes of subsection 4(1) of the Export Market Development Grants Act 1974 (Cth). His Honour thought that in the context in question these adverbs essentially meant the same, as 'chiefly' or 'mainly'.
 The decision provides some guidance to the meaning of paragraph 73B(14C)(c) of the ITAA 1936. Thus, activities which are carried out 'primarily' on behalf of the foreign company will be those carried out by the eligible company chiefly or mainly on its behalf.
-Factors that will be relevant in determining whether the research and development activities in question have been carried out wholly or primarily on behalf of the relevant foreign company are:
-
-•the extent to which various benefits to be obtained from carrying out these activities are to flow to the foreign company (effective ownership),
+Factors that will be relevant in determining whether the research and development activities in question have been carried out wholly or primarily on behalf of the relevant foreign company are: •the extent to which various benefits to be obtained from carrying out these activities are to flow to the foreign company (effective ownership),
 •the extent to which this foreign company bears the financial burden of the conduct of the activities (financial risk) and
-•the extent to which the foreign company gives directions as to what the activities to be carried out for it are to be, and how they are to be carried out (control).
-
-In this case the foreign company, Company A:
-
-•initiated the agreement under which the relevant activities are carried on, and stipulated the scope of those activities;
+•the extent to which the foreign company gives directions as to what the activities to be carried out for it are to be, and how they are to be carried out (control). In this case the foreign company, Company A: •initiated the agreement under which the relevant activities are carried on, and stipulated the scope of those activities;
 •bears the financial burden of the conduct of the activities;
-•takes full legal ownership of IP developed from these activities, and other than in certain limited situations, is the only entity which can commercially exploit or otherwise use that IP, and any other results obtained.
-
-These factors all point to the Australian-centred R&D activities being carried out chiefly or mainly on behalf of the foreign company, Company A. Hence, paragraph 73B(14C)(c) of the ITAA 1936 is satisfied in this case in respect of Company B's expenditure.
-Date of decision:
-  24 March 2010
-
-Year of income:
-  Year ended 31 December 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 73B(14C)   subsection 73B(1)
-
-Case References:
-
-Parker Pen (Aust) Pty Ltd v Export Development Grants Board   (1983) 67 FLR 234   (1983) 46 ALR 612
-
-Related Public Rulings (including Determinations)
-
-Class Ruling CR 2009/45
-
-Other References:
-
- Guide to the R&D Tax Concession Part C Expenditure on Research and Development
-
-Keywords
-
-Research & development expenses
- Overseas research & development expenditure
- Grouped entities for research and development
-
-Siebel/TDMS Reference Number:
-  1-1UQ5VFY
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  1 April 2010
-
-ISSN:
- 1445-2782
+•takes full legal ownership of IP developed from these activities, and other than in certain limited situations, is the only entity which can commercially exploit or otherwise use that IP, and any other results obtained. These factors all point to the Australian-centred R&D activities being carried out chiefly or mainly on behalf of the foreign company, Company A. Hence, paragraph 73B(14C)(c) of the ITAA 1936 is satisfied in this case in respect of Company B's expenditure.
+Date of decision: 24 March 2010 Year of income: Year ended 31 December 2009 Legislative References: Income Tax Assessment Act 1936 subsection 73B(14C) subsection 73B(1) Case References: Parker Pen (Aust) Pty Ltd v Export Development Grants Board (1983) 67 FLR 234 (1983) 46 ALR 612 Related Public Rulings (including Determinations) Class Ruling CR 2009/45 Other References: Guide to the R&D Tax Concession Part C Expenditure on Research and Development Keywords Research & development expenses Overseas research & development expenditure Grouped entities for research and development Siebel/TDMS Reference Number: 1-1UQ5VFY Business Line: Public Groups and International Date of publication: 1 April 2010 ISSN: 1445-2782

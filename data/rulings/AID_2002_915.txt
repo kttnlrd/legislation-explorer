@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/915
-==================================================
-
-Income Tax
- Income tax: first element of cost of a depreciating asset
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income tax: first element of cost of a depreciating asset FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the first element of cost of a depreciating asset, under section 40-180 of the Income Tax Assessment Act 1997 ('ITAA 1997'), the market value of the asset at the time the holder starts to hold it, where the asset is acquired by redeeming reward points under a consumer loyalty program?
 Decision
 Yes. The first element of cost of a depreciating asset under section 40-180 of the ITAA 1997 is the market value of the asset at the time the holder started to hold it, where the asset is acquired by redeeming reward points under a consumer loyalty program.
@@ -22,39 +11,4 @@ Reasons for Decision
 The tables in sections 40-180 and 40-185 of the ITAA 1997 provide the rules for working out the amount of the first element of cost of a depreciating asset. The first element of cost is either amounts that have been paid or are taken to have been paid, or a specific amount in particular cases. Item 9 of the table in subsection 40-180(2) of the ITAA 1997 provides that where a depreciating asset started to be held under an arrangement that was private or domestic in nature to the holder of the asset, the first element of cost is the market value of the asset at that time.
 Rewards, including depreciating assets, are generally received under a consumer loyalty program as a consequence of a personal (that is, non-employment/non-business) contractual relationship between an individual taxpayer and the consumer loyalty program organisation. The taxpayer customer is dealing with the consumer loyalty program supplier (such as a credit card provider), in a personal capacity, and in accordance with the normal arm's length relationship that exists between consumers and suppliers. This characteristic was recognised in Payne v. Commissioner of Taxation (1996) 66 FCR 299; (1996) 96 ATC 4407; (1996) 32 ATR 516 and Taxation Ruling TR 1999/6.
 Where the reward received under a consumer loyalty program and held by a taxpayer is a depreciating asset, item 9 of the table in subsection 40-180(2) of the ITAA 1997 applies and the first element of cost of the asset is specifically provided to be the market value of the asset at the time the holder started to hold it.
-Date of decision:
-  26 August 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 40-180   section 40-185
-
-Case References:
-
-Payne v. Commissioner of Taxation   (1996) 66 FCR 299   (1996) 96 ATC 4407   (1996) 32 ATR 516
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 1999/6
-
-Keywords
-
-Depreciation
- Uniform capital allowances system
- Cost of a depreciating asset
- First element of cost
-
-Siebel/TDMS Reference Number:
-  CW3093950
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  26 September 2002
-
-ISSN:
- 1445-2782
+Date of decision: 26 August 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 40-180 section 40-185 Case References: Payne v. Commissioner of Taxation (1996) 66 FCR 299 (1996) 96 ATC 4407 (1996) 32 ATR 516 Related Public Rulings (including Determinations) Taxation Ruling TR 1999/6 Keywords Depreciation Uniform capital allowances system Cost of a depreciating asset First element of cost Siebel/TDMS Reference Number: CW3093950 Business Line: Public Groups and International Date of publication: 26 September 2002 ISSN: 1445-2782

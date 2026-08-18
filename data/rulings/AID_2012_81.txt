@@ -1,34 +1,13 @@
 ATO Interpretative Decision
 ATO ID 2012/81
-==================================================
-
-Income Tax
- Income tax: ultimate beneficiary - deductions
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Where the trustee of a closely held trust (the
- head trust
- ) resolves in relation to the income year ended 30 June 2006 to make a trustee of another closely held trust (the
- interposed trust
- ) presently entitled to all of the income of the head trust, is the trustee of the interposed trust an ultimate beneficiary for the purposes of former section 102UE of Division 6D of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) in respect of the whole or part of a share of the net income of the head trust where:
-
-(a)the trustee beneficiary is presently entitled to all of the income of the head trust;
+================================================== Income Tax Income tax: ultimate beneficiary - deductions FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Where the trustee of a closely held trust (the head trust ) resolves in relation to the income year ended 30 June 2006 to make a trustee of another closely held trust (the interposed trust ) presently entitled to all of the income of the head trust, is the trustee of the interposed trust an ultimate beneficiary for the purposes of former section 102UE of Division 6D of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) in respect of the whole or part of a share of the net income of the head trust where: (a)the trustee beneficiary is presently entitled to all of the income of the head trust;
 (b)an individual is presently entitled to all of the income of the interposed trust, and
-(c)the interposed trust has allowable deductions that do not exceed the share of the net income of the head trust included in the assessable income of the interposed trust.
-
-Decision
+(c)the interposed trust has allowable deductions that do not exceed the share of the net income of the head trust included in the assessable income of the interposed trust. Decision
 No. Under one approach available under the former Division 6D of the ITAA 1936, it would be concluded that the trustee of the interposed trust was not an ultimate beneficiary for the purposes of section 102UE of the ITAA 1936 with respect to the share. Rather, there was only one ultimate beneficiary being the individual presently entitled to all of the income of the interposed trust.
 However, the Commissioner accepts an approach equally available under the former Division 6D of the ITAA 1936 would lead to the conclusion that the trustee of the interposed trust was an ultimate beneficiary for the purposes of section 102UE of the ITAA 1936 to the extent of the allowable deductions that did not exceed the share of the net income of the head trust included in the assessable income of the interposed trust, with the individual being the ultimate beneficiary with respect to the remainder of the net income of the head trust.
-Facts
-
-Trust A (the head trust) is a closely held trust. The income of Trust A is $200, which also equals its net income for the purposes of section 95 of the ITAA 1936.
+Facts Trust A (the head trust) is a closely held trust. The income of Trust A is $200, which also equals its net income for the purposes of section 95 of the ITAA 1936.
 Trust B (the interposed trust) is also a closely held trust. The trustee of Trust B is presently entitled to 100% of the income of Trust A and, therefore, includes the same share of the net income of Trust A in its assessable income under subsection 97(1) of the ITAA 1936 (that is, $200).
 Trust B has no other assessable income.
 Trust B has allowable deductions, the total value of which ($50) is less than the trust's assessable income.
@@ -41,58 +20,9 @@ Where a share of the net income of a closely held trust (as defined in section 1
 Failure to provide a correct UB statement exposed the members of the trustee group (as defined in subsection 102UK(3)) jointly and severally to a liability to pay ultimate beneficiary non-disclosure tax (subsection 102UK(2)).
 Further, to the extent that there was no ultimate beneficiary with respect to a whole or a part of the share, the members of the trustee group were jointly and severally liable to pay ultimate beneficiary non-disclosure tax (subsection 102UM(2)).
 Section 102UE defined the circumstances in which a person was an 'ultimate beneficiary' for the purposes of Division 6D in respect of the share or a part of the share (called a 'head trust amount' for the purposes of Division 6D). In particular, a person was an ultimate beneficiary if one of the tests in subsections (2), (3) or (4) of that section was satisfied.
-If the
- whole
- of the share of Trust A's net income included in the assessable income of Trust B was considered under section 102UE, subsection 102UE(2) had the effect that the individual beneficiary of Trust B was the ultimate beneficiary in respect of that whole share (that is, $200).
-Specifically, paragraph 102UE(2)(b) was satisfied because:
-
-•the individual was a listed person by reason of paragraph 102UF(a), and
-•being presently entitled to 100% of the income of Trust B (that is, indirectly entitled to 100% of the income of Trust A through Trust B), the individual was treated as presently entitled through Trust B to the whole of the
- net
- income of Trust A for the purposes of Division 6D.This follows from adopting a proportionate approach to the notion of 'share' used in subsection 102UJ(1) (which deems a present entitlement to a share of trust income to be a present entitlement to 'that share' of the net income of the trust) that is consistent with the approach taken by the High Court to the analogous concept in subsection 97(1) in Commissioner of Taxation v. Bamford; Bamford v. Commissioner of Taxation [2010] HCA 10; (2010) 75 ATR 1; 2010 ATC 20-170.
-
-However, the wording of section 102UE also enables an ultimate beneficiary to be determined in respect of a 'part' of the net income of the relevant closely held trust. If the various parts of the net income of Trust A included in the assessable income of Trust B are considered under section 102UE, namely a part that is fully absorbed by deductions in the calculation of Trust B's net income ($50), and the remainder ($150), then:
+If the whole of the share of Trust A's net income included in the assessable income of Trust B was considered under section 102UE, subsection 102UE(2) had the effect that the individual beneficiary of Trust B was the ultimate beneficiary in respect of that whole share (that is, $200).
+Specifically, paragraph 102UE(2)(b) was satisfied because: •the individual was a listed person by reason of paragraph 102UF(a), and
+•being presently entitled to 100% of the income of Trust B (that is, indirectly entitled to 100% of the income of Trust A through Trust B), the individual was treated as presently entitled through Trust B to the whole of the net income of Trust A for the purposes of Division 6D.This follows from adopting a proportionate approach to the notion of 'share' used in subsection 102UJ(1) (which deems a present entitlement to a share of trust income to be a present entitlement to 'that share' of the net income of the trust) that is consistent with the approach taken by the High Court to the analogous concept in subsection 97(1) in Commissioner of Taxation v. Bamford; Bamford v. Commissioner of Taxation [2010] HCA 10; (2010) 75 ATR 1; 2010 ATC 20-170. However, the wording of section 102UE also enables an ultimate beneficiary to be determined in respect of a 'part' of the net income of the relevant closely held trust. If the various parts of the net income of Trust A included in the assessable income of Trust B are considered under section 102UE, namely a part that is fully absorbed by deductions in the calculation of Trust B's net income ($50), and the remainder ($150), then:
 the individual is an ultimate beneficiary under subsection 102UE(2) as to the amount of the net income of Trust A included in the assessable income of Trust B to which they are presently entitled (that is, $150); and
 the trustee of Trust B is an ultimate beneficiary under subsection 102UE(4) as to the amount absorbed by deductions in the calculation of its net income.
-For the purposes of satisfying section 102UG, the Commissioner accepts that the trustee of a closely held trust would make a correct UB statement if the statement is prepared on the basis of either approach.
-
-Note
- : by reason of amendments made to Division 6D in 2007, the operation of that Division no longer relies on the concept of an ultimate beneficiary. The amendments to Division 6D apply in relation to income years that commence on or after 24 September 2007. It follows that the question considered in this ATO ID is only relevant to income years that commence before that date.
-
-Date of decision:
-  7 September 2012
-
-Year of income:
-  Year ended 2005-06
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 95   subsection 97(1)   Division 6D   former section 102UC   former section 102UD   former section 102UE   former subsection 102UE(2)   former paragraph 102UE(2)(b)   former subsection 102UE(3)   former subsection 102UE(4)   former paragraph 102UF(a)   former section 102UG   former subsection 102UG(3)   former subsection 102UJ(1)   former subsection 102UK(2)   former subsection 102UK(3)   former subsection 102UM(2)
-
-Case References:
-
-Commissioner of Taxation v Bamford; Bamford v Commissioner of Taxation   [2010] HCA 10   (2012) 75 ATR 1   2010 ATC 20-170
-
-Related ATO Interpretative Decisions
-
- ATO ID 2012/82
-
-Keywords
-
-Trusts
- Closely held trusts
- Ultimate beneficiary
- Correct UB statement
- Ultimate beneficiary non-disclosure
-
-Siebel/TDMS Reference Number:
-  1-48HZ13E
-
-Business Line:
-  OCTC Tax Counsel Network
-
-Date of publication:
-  5 October 2012
-
-ISSN:
- 1445-2782
+For the purposes of satisfying section 102UG, the Commissioner accepts that the trustee of a closely held trust would make a correct UB statement if the statement is prepared on the basis of either approach. Note : by reason of amendments made to Division 6D in 2007, the operation of that Division no longer relies on the concept of an ultimate beneficiary. The amendments to Division 6D apply in relation to income years that commence on or after 24 September 2007. It follows that the question considered in this ATO ID is only relevant to income years that commence before that date. Date of decision: 7 September 2012 Year of income: Year ended 2005-06 Legislative References: Income Tax Assessment Act 1936 section 95 subsection 97(1) Division 6D former section 102UC former section 102UD former section 102UE former subsection 102UE(2) former paragraph 102UE(2)(b) former subsection 102UE(3) former subsection 102UE(4) former paragraph 102UF(a) former section 102UG former subsection 102UG(3) former subsection 102UJ(1) former subsection 102UK(2) former subsection 102UK(3) former subsection 102UM(2) Case References: Commissioner of Taxation v Bamford; Bamford v Commissioner of Taxation [2010] HCA 10 (2012) 75 ATR 1 2010 ATC 20-170 Related ATO Interpretative Decisions ATO ID 2012/82 Keywords Trusts Closely held trusts Ultimate beneficiary Correct UB statement Ultimate beneficiary non-disclosure Siebel/TDMS Reference Number: 1-48HZ13E Business Line: OCTC Tax Counsel Network Date of publication: 5 October 2012 ISSN: 1445-2782

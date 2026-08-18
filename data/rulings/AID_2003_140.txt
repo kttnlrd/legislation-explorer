@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2003/140
-==================================================
-
-International tax
- Assessability of pension received from the government of Belgium by an Australian citizen
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== International tax Assessability of pension received from the government of Belgium by an Australian citizen FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the Belgian government pension received by an Australian resident taxpayer assessable under section 27H of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The Belgian government pension received by an Australian resident taxpayer is assessable under section 27H of the ITAA 1936 as the taxpayer is a citizen of Australia.
@@ -32,34 +19,6 @@ Section 4 of the Agreements Act incorporates that Act with the ITAA 1936 and ITA
 Schedule 13 to the Agreements Act contains the double tax agreement between Australia and the Kingdom of Belgium (Belgian Agreement). The Belgian Agreement operates to avoid the double taxation of income received by Australian and Belgian residents.
 Article 19 of the Belgian Agreement deals with government service pensions. Paragraph (2) of Article 19 of the Belgian Agreement provides that any pension paid to an individual in respect of services rendered in the discharge of governmental functions in Belgium will be taxable only in Australia if the recipient is a citizen and a resident of Australia.
 As the taxpayer is an Australian citizen and a resident of Australia for income tax purposes, the Belgian government pension is assessable under section 27H of the ITAA 1936.
-Date of decision:
-  5 February 2003
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 27H
-Income Tax Assessment Act 1997   subsection 6-5(2)   section 6-10   subsection 6-10(4)   section 10-5
-International Tax Agreements Act 1953   section 4   Schedule 13   Schedule 13, Article 19   Schedule 13, paragraph (2) of Article 19
-
-Keywords
-
-Belgium
- Double tax agreements
- Foreign income
- Foreign pension
- International tax
-
-Siebel/TDMS Reference Number:
-  3426009
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 March 2003
-
-ISSN:
- 1445-2782
+Date of decision: 5 February 2003 Year of income: Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 27H
+Income Tax Assessment Act 1997 subsection 6-5(2) section 6-10 subsection 6-10(4) section 10-5
+International Tax Agreements Act 1953 section 4 Schedule 13 Schedule 13, Article 19 Schedule 13, paragraph (2) of Article 19 Keywords Belgium Double tax agreements Foreign income Foreign pension International tax Siebel/TDMS Reference Number: 3426009 Business Line: Public Groups and International Date of publication: 15 March 2003 ISSN: 1445-2782

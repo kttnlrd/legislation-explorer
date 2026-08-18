@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/47
-==================================================
-
-Income Tax
- Consolidation: tax cost setting - deductibility under section 8-1 of the ITAA 1997 of the tax cost setting amount of a commodity swap contract at the maturity of the swap contract
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: tax cost setting - deductibility under section 8-1 of the ITAA 1997 of the tax cost setting amount of a commodity swap contract at the maturity of the swap contract CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the head company of a consolidated group claim a deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for the tax cost setting amount of a commodity swap contract held by a joining entity when the contract matures in the circumstances described below?
 Decision
 No, the head company of a consolidated group cannot claim a deduction under section 8-1 of the ITAA 1997 for the tax cost setting amount of a commodity swap contract held by a joining entity when the contract matures. No loss arises upon maturity of the swap contract.
@@ -23,81 +13,18 @@ The head company does not outlay any additional amounts in relation to the swap 
 Reasons for Decision
 (All references are to the ITAA 1997 unless otherwise stated).
 When the entity joins the consolidated group, Part 3-90 operates to deem certain facts in relation to the swap contract.
-For the purpose of working out the head company's income tax liability:
-
-•the single entity rule (section 701-1) applies to deem the entity to be part of the head company, rather than a separate entity; and
-•the entry history rule (section 701-5) applies to deem everything that happened in relation to the entity to have happened in relation to the head company.
-
-In addition, the tax cost of the swap contract is set at its tax cost setting amount under section 701-10.
+For the purpose of working out the head company's income tax liability: •the single entity rule (section 701-1) applies to deem the entity to be part of the head company, rather than a separate entity; and
+•the entry history rule (section 701-5) applies to deem everything that happened in relation to the entity to have happened in relation to the head company. In addition, the tax cost of the swap contract is set at its tax cost setting amount under section 701-10.
 Under the entry history rule, the swap contract is taken to have been entered into and held by the head company under the same circumstances as it was entered into and held by the entity before the joining time. Consequently, the head company is taken to have entered into the swap contract in the ordinary course of its business, for the purpose of hedging the financial risks of movements in the spot price of a commodity associated with its business.
 Similarly after the joining time, under the single entity rule and the entry history rule, the head company is taken to hold and deal with the swap contract as the entity did. This means that it is taken to hold the swap contract for the same purpose for which it was held before the joining time, until the swap contract comes to an end.
 A loss may be deductible under section 8-1 where the initial outlay in relation to an asset did not itself constitute a loss or outgoing incurred, and that asset is subsequently lost.
-This is in accordance with Guinea Airways Ltd v. Federal Commissioner of Taxation (1950) 83 CLR 584, where the taxpayer paid for aircraft spare parts which were not deductible on purchase. The parts were stockpiled by the taxpayer and were later destroyed by bombing during the Second World War. The taxpayer sought a deduction for the destroyed parts upon their destruction. Latham CJ noted (at 589):
-
-The claim of the company is not a claim for deduction of the amount expended in purchasing the spare parts and stores or of the value of those actually used. It is a claim in respect of their loss.
-
-An asset is lost and a loss incurred where the benefit or value of the asset is forgone and cannot be recovered or realised, for instance, where an asset was destroyed, or where a debt is not recovered to its full value (Parsons, RW 1985, Income Taxation in Australia: Principles of Income, Deductibility and Tax Accounting, The Law Book Company Limited, Sydney, at paragraph [6.52]).
+This is in accordance with Guinea Airways Ltd v. Federal Commissioner of Taxation (1950) 83 CLR 584, where the taxpayer paid for aircraft spare parts which were not deductible on purchase. The parts were stockpiled by the taxpayer and were later destroyed by bombing during the Second World War. The taxpayer sought a deduction for the destroyed parts upon their destruction. Latham CJ noted (at 589): The claim of the company is not a claim for deduction of the amount expended in purchasing the spare parts and stores or of the value of those actually used. It is a claim in respect of their loss. An asset is lost and a loss incurred where the benefit or value of the asset is forgone and cannot be recovered or realised, for instance, where an asset was destroyed, or where a debt is not recovered to its full value (Parsons, RW 1985, Income Taxation in Australia: Principles of Income, Deductibility and Tax Accounting, The Law Book Company Limited, Sydney, at paragraph [6.52]).
 In contrast, when the swap contract reaches maturity, the benefits under the contract will have been fully realised by the entity. It has had the benefit of hedging the financial risks associated with its business for the entire time that the swap contract has been in place. Therefore, none of the value of the asset (the swap contract) can be said to have been lost. Rather, when the swap contract comes to an end the asset can be said to have run its course.
 In this way, there cannot be said to be a loss to the head company upon the maturity of the swap contract.
 Notwithstanding this, a loss may be deductible upon the ending of an asset where the asset is part of an entity's circulating capital.
-In Commercial and General Acceptance Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 373; 77 ATC 4375; (1977) 7 ATR 716, Gibbs J observed (at CLR 377) that 'the line of distinction between fixed and circulating capital is not precisely drawn'. Mason J, however, went further (at CLR 383):
-
-The distinction between fixed and circulating capital was described by Jenkins L.J. in Reynolds and Gibson v. Crompton (1950) 33 T.C. 288 at p. 303, as 'debatable'. His Lordship went on to say that 'circulating capital' is 'simply an expression used to denote capital expended in the course of the trade with a view to disposal at a profit of the assets produced or acquired by means of such expenditure, and represented at different stages of its career by cash, assets into which the cash has been converted, and debts owing from customers to whom those assets have been sold'. See the same case on appeal Crompton v. Reynolds and Gibson (1952) 1 All E.R. 888 at pp. 893-895.
-
-However, it cannot be said that the swap contract here fits this description, as it is not an asset produced or acquired with a view to disposal at a profit. Rather, it was entered into for the purpose of managing the financial risk to the entity's business by hedging against movements in the spot price of a commodity.
+In Commercial and General Acceptance Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 373; 77 ATC 4375; (1977) 7 ATR 716, Gibbs J observed (at CLR 377) that 'the line of distinction between fixed and circulating capital is not precisely drawn'. Mason J, however, went further (at CLR 383): The distinction between fixed and circulating capital was described by Jenkins L.J. in Reynolds and Gibson v. Crompton (1950) 33 T.C. 288 at p. 303, as 'debatable'. His Lordship went on to say that 'circulating capital' is 'simply an expression used to denote capital expended in the course of the trade with a view to disposal at a profit of the assets produced or acquired by means of such expenditure, and represented at different stages of its career by cash, assets into which the cash has been converted, and debts owing from customers to whom those assets have been sold'. See the same case on appeal Crompton v. Reynolds and Gibson (1952) 1 All E.R. 888 at pp. 893-895. However, it cannot be said that the swap contract here fits this description, as it is not an asset produced or acquired with a view to disposal at a profit. Rather, it was entered into for the purpose of managing the financial risk to the entity's business by hedging against movements in the spot price of a commodity.
 By this definition, the swap contract is not part of the entity's circulating capital, meaning that no deductible loss will arise upon its maturity (or ending).
 Furthermore, if an amount were to be received on the maturity of the swap contract, the amount received is properly characterised as ordinary income in its own right (Commercial and General Acceptance Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 373 at 382-383 per Mason J; Federal Commissioner of Taxation v. Montgomery (1999) 198 CLR 639 at 675-6 [110] - [111] per Gaudron, Gummow, Kirby and Hayne JJ). Therefore, amounts incurred on entry into the swap contract, or for acquiring the swap contract, are not deferred and taken into account in calculating the profit or loss on maturity of the swap contract. Such outgoings are deductible in the year in which they are incurred (Federal Commissioner of Taxation v. Visy Industries USA Pty Ltd [2012] FCAFC 106; 2012 ATC 20-340 at [84]).
 Therefore, section 8-1 does not allow the head company to claim that a loss has been made from, or deduct any amount in relation to, the entity's swap contract upon its maturity. The condition in section 8-1 requiring there to be a loss or an outgoing has not been satisfied. It follows that the tax cost setting amount of the swap contract cannot be deducted under section 8-1 upon the maturity of the contract.
-Date of decision:
-  12 August 2013
-
-Year of income:
-  Year ending 30 June 2007 Year ending 30 June 2008 Year ending 30 June 2009 Year ending 30 June 2010 Year ending 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1   section 701-1   section 701-5   section 701-10
-
-Case References:
-
-Commercial and General Acceptance Ltd v. Federal Commissioner of Taxation   (1977) 137 CLR 373   77 ATC 4375   7 ATR 716
-
-Federal Commissioner of Taxation v. Montgomery   [1999] HCA 34   198 CLR 639   42 ATR 475   99 ATC 4749
-
-Federal Commissioner of Taxation v. Visy Industries USA Pty Ltd   [2012] FCAFC 106   2012 ATC 20-340
-
-Guinea Airways Ltd v. Federal Commissioner of Taxation   (1950) 83 CLR 584   [1950] HCA 60
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2050
-Taxation Ruling IT 2682
-
-Related ATO Interpretative Decisions
-
- ATO ID 2013/46
-
-Other References:
-
-Parsons, RW 1985, Income Taxation in Australia: Principles of Income, Deductibility and Tax Accounting, The Law Book Company Limited, Sydney.
-
-Keywords
-
-assets
- loss
- consolidation-joining
- financial derivatives
- swaps
- tax cost set amount
-
-Siebel/TDMS Reference Number:
-  1-4UYQ2KV
-
-Business Line:
-  Interpretative Assistance, Public Groups and International
-
-Date of publication:
-  6 September 2013
-
-ISSN:
- 1445-2782
+Date of decision: 12 August 2013 Year of income: Year ending 30 June 2007 Year ending 30 June 2008 Year ending 30 June 2009 Year ending 30 June 2010 Year ending 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 8-1 section 701-1 section 701-5 section 701-10 Case References: Commercial and General Acceptance Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 373 77 ATC 4375 7 ATR 716 Federal Commissioner of Taxation v. Montgomery [1999] HCA 34 198 CLR 639 42 ATR 475 99 ATC 4749 Federal Commissioner of Taxation v. Visy Industries USA Pty Ltd [2012] FCAFC 106 2012 ATC 20-340 Guinea Airways Ltd v. Federal Commissioner of Taxation (1950) 83 CLR 584 [1950] HCA 60 Related Public Rulings (including Determinations) Taxation Ruling IT 2050
+Taxation Ruling IT 2682 Related ATO Interpretative Decisions ATO ID 2013/46 Other References: Parsons, RW 1985, Income Taxation in Australia: Principles of Income, Deductibility and Tax Accounting, The Law Book Company Limited, Sydney. Keywords assets loss consolidation-joining financial derivatives swaps tax cost set amount Siebel/TDMS Reference Number: 1-4UYQ2KV Business Line: Interpretative Assistance, Public Groups and International Date of publication: 6 September 2013 ISSN: 1445-2782

@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2006/337
-==================================================
-
-Income tax
- Permanent establishment: meaning of 'substantial equipment'
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Permanent establishment: meaning of 'substantial equipment' FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a computer system, located in a non-treaty country and used by the taxpayer to trade in securities, 'substantial equipment' for the purposes of paragraph (b) of the definition of 'permanent establishment' in subsection 6(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The computer system is not substantial equipment for the purposes of paragraph (b) of the definition of 'permanent establishment' in subsection 6(1) of the ITAA 1936.
@@ -26,106 +13,30 @@ The taxpayer conducts its own electronic and manual trading through its computer
 The computer system consists of approximately ten pieces of hardware, including servers and routers, and software for market access and trading algorithms. The approximate dimensions of each piece of the taxpayer's computer system ranges from 4.40 x 44.70 x 71.10 cm to 46.00 x 26.20 x 68.80 cm. Collectively, the computer system measures 260 cm x 398 cm x 470 cm.
 The approximate weight of the computer system is 164 kilograms, and its value is $200,000.
 Reasons for Decision
-'Permanent establishment' includes, by virtue of paragraph (b) of its definition in subsection 6(1) of the ITAA 1936:
-
-... a place where the person has, is using or installing substantial equipment or substantial machinery; ...
-
-The terms 'equipment' and 'substantial equipment' are not defined in Australia's domestic tax laws, but are discussed in Draft Taxation Ruling TR 2006/D8.
+'Permanent establishment' includes, by virtue of paragraph (b) of its definition in subsection 6(1) of the ITAA 1936: ... a place where the person has, is using or installing substantial equipment or substantial machinery; ... The terms 'equipment' and 'substantial equipment' are not defined in Australia's domestic tax laws, but are discussed in Draft Taxation Ruling TR 2006/D8.
 Draft Taxation Ruling TR 2006/D8 deals with the meaning of these terms for the purposes of Article 5(4)(b) and 5.3(b) of the US and UK tax treaties respectively.
-The Commissioner considers that the meaning given to the term 'substantial equipment' in Australia's tax treaties applies to the same term under the ITAA 1936 for the following reasons:
-
-•Most of Australia's tax treaties include a provision corresponding to paragraph (b) of the definition of 'permanent establishment' in subsection 6(1) of the ITAA 1936
+The Commissioner considers that the meaning given to the term 'substantial equipment' in Australia's tax treaties applies to the same term under the ITAA 1936 for the following reasons: •Most of Australia's tax treaties include a provision corresponding to paragraph (b) of the definition of 'permanent establishment' in subsection 6(1) of the ITAA 1936
 •The definition of 'permanent establishment' in subsection 6(1) of the ITAA 1936 is based on these corresponding provisions in Australia's tax treaties; and
-•In terms of subsection 6(1), no contrary intention appears.
-
-Paragraph 106 of TR 2006/D8 states that the relevant meanings of 'equipment' in the Macquarie Dictionary, 2001, 5th Edition, The Macquarie Library Pty Ltd, NSW are:
-
-anything used in or provided for equipping, a collection of necessary implements (such as tools).
-
-Paragraph 107 of TR 2006/D8, states that paragraphs 33 to 36 of Taxation Ruling TR 98/21 point to a number of cases and other references indicating that the meaning of 'equipment' is a wide one, and should be determined in the context in which it appears.
+•In terms of subsection 6(1), no contrary intention appears. Paragraph 106 of TR 2006/D8 states that the relevant meanings of 'equipment' in the Macquarie Dictionary, 2001, 5th Edition, The Macquarie Library Pty Ltd, NSW are: anything used in or provided for equipping, a collection of necessary implements (such as tools). Paragraph 107 of TR 2006/D8, states that paragraphs 33 to 36 of Taxation Ruling TR 98/21 point to a number of cases and other references indicating that the meaning of 'equipment' is a wide one, and should be determined in the context in which it appears.
 From the ordinary meaning of the word 'equipment', the Commissioner considers the taxpayer's computer system includes a number of individual items of 'equipment' for the purposes of paragraph (b) of the definition of 'permanent establishment' in subsection 6(1) of the ITAA 1936.
-Paragraph 109 of TR 2006/D8 states that the relevant meanings of 'substantial' in the Macquarie Dictionary are:
-
-•of ample or considerable amount, quantity, or size
+Paragraph 109 of TR 2006/D8 states that the relevant meanings of 'substantial' in the Macquarie Dictionary are: •of ample or considerable amount, quantity, or size
 •of real worth
-•of or relating to the essence of a thing; essential, material, or important.
-
-Paragraph 112 of TR 2006/D8 states that whether the equipment in question is 'substantial' is a question of fact and degree to be determined:
-
-•on balance, according to the facts and circumstances of each particular case; and
+•of or relating to the essence of a thing; essential, material, or important. Paragraph 112 of TR 2006/D8 states that whether the equipment in question is 'substantial' is a question of fact and degree to be determined: •on balance, according to the facts and circumstances of each particular case; and
 •in an absolute sense, that is, when viewed independently; not in comparison with something else; or
-•in a relative sense; that is, by comparing it to something else.
-
-Therefore, based on the ordinary meaning of the term 'substantial', the relevant case law (McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation (2005) ATC 4398; (2005) 59 ATR 358; (2005) 142 FCR 134; [2005] FCAFC 67; Tillmanns Butcheries Pty Ltd v. Australian Meat Industry Employees' Union (1979) 42 FLR 331; Case H106 (1957) 8 TBRD 484, and the guidance provided at paragraph 112 of TR 2006/D8 and paragraphs 1.61 to 1.64 of the Explanatory Memorandum to the International Tax Agreements Amendment Bill 2003 (the EM), the Commissioner considers that the following factors are relevant in determining whether equipment is 'substantial':
-
-•size
+•in a relative sense; that is, by comparing it to something else. Therefore, based on the ordinary meaning of the term 'substantial', the relevant case law (McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation (2005) ATC 4398; (2005) 59 ATR 358; (2005) 142 FCR 134; [2005] FCAFC 67; Tillmanns Butcheries Pty Ltd v. Australian Meat Industry Employees' Union (1979) 42 FLR 331; Case H106 (1957) 8 TBRD 484, and the guidance provided at paragraph 112 of TR 2006/D8 and paragraphs 1.61 to 1.64 of the Explanatory Memorandum to the International Tax Agreements Amendment Bill 2003 (the EM), the Commissioner considers that the following factors are relevant in determining whether equipment is 'substantial': •size
 •quantity - where part of a unified process
 •value
-•importance - in the sense of whether the equipment plays a core role in the income producing activity.
-
-The common characteristic of the examples of substantial equipment in McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation (2005) 142 FCR 134; 2005 ATC 4398; (2005) 59 ATR 358 and at paragraph 1.63 of the EM is the size of the equipment. The Commissioner therefore considers that size is the key factor and has greater weight in determining whether equipment is 'substantial'. If an item of equipment is sufficiently large in size, it will be 'substantial' in an absolute sense. In such instances, this factor alone will be decisive and further consideration of any of the other factors is not necessary.
+•importance - in the sense of whether the equipment plays a core role in the income producing activity. The common characteristic of the examples of substantial equipment in McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation (2005) 142 FCR 134; 2005 ATC 4398; (2005) 59 ATR 358 and at paragraph 1.63 of the EM is the size of the equipment. The Commissioner therefore considers that size is the key factor and has greater weight in determining whether equipment is 'substantial'. If an item of equipment is sufficiently large in size, it will be 'substantial' in an absolute sense. In such instances, this factor alone will be decisive and further consideration of any of the other factors is not necessary.
 As the nature of the 'substantial equipment' test in paragraph 112 of TR 2006/D8 is one of fact and degree, determined on balance according to individual facts and circumstances, the Commissioner considers that the factors listed above, other than size, are not of themselves determinative. Each of these factors needs to be considered with the others, having regard to all the facts and circumstances of the particular case. This is consistent with the analysis in Case No. H106 (1957) 8 TBRD 484, where the Board of Review used more than one of the factors stated above to find that the equipment in question in that case was substantial.
 Where there are a number of items of equipment that are not large enough individually to be substantial in an absolute sense, the Commissioner considers that the size of the items collectively and the quantity can only be considered if the items of equipment are part of a unified process. This arises from the context in which the term 'substantial' appears in the provision; that is, it is part of the expression 'substantial equipment' as opposed to 'a substantial amount of equipment'.
 Value is a relevant factor on two levels; firstly, in the sense of its cost (as per the ordinary meaning of the term) and, secondly, in the sense of its value creating potential. In relation to the latter, paragraph 1.62 of the EM refers to high value activities involved in the development of natural resources.
 Equipment may be so valuable that it may be considered substantial in an absolute sense. For example, in Number 630 v. Minister of National Revenue (1959) 59 DTC 300, tunnelling equipment costing $600,000 was considered to be substantial equipment purely on the basis of its cost alone. However, it is not possible to set a precise monetary threshold in relation to cost that will be determinative in all cases.
-In relation to importance, Mr Fletcher, the Chairman of the Board in Case No. H106 (1957) 8 TBRD 484 stated at 486:
-
-The meaning of 'substantial' is relative and in the case where the machinery required is not extensive, and the whole is involved, it is 'substantial'.
-
-The statement above from Case No. H106, the ordinary meaning of the term 'substantial', and the context in which the term is used, indicate that the sense in which importance is relevant is where the equipment is core to the enterprise conducting its income producing or value creating activity or to it creating its product in a particular country.
+In relation to importance, Mr Fletcher, the Chairman of the Board in Case No. H106 (1957) 8 TBRD 484 stated at 486: The meaning of 'substantial' is relative and in the case where the machinery required is not extensive, and the whole is involved, it is 'substantial'. The statement above from Case No. H106, the ordinary meaning of the term 'substantial', and the context in which the term is used, indicate that the sense in which importance is relevant is where the equipment is core to the enterprise conducting its income producing or value creating activity or to it creating its product in a particular country.
 Given the dimensions of the individual items of the taxpayer's computer system, the Commissioner considers that those individual items of equipment are each not large enough to be considered substantial in an absolute sense. Furthermore, the individual items of equipment are part of a unified process, but when the size of the individual items of equipment are viewed in aggregate, the dimensions of the entire computer system again indicate that the computer system is not substantial equipment by reason of its size.
 As there are only 10 individual items of equipment, the Commissioner considers that this factor does not indicate that the computer system is substantial equipment.
 The Commissioner considers that the taxpayer's computer system, valued at $200,000, is not of sufficiently high value for it to constitute substantial equipment on the basis of its value.
 As only 50 percent of the taxpayer's business activities involve electronic trading through the computer system, the Commissioner considers that the computer system does not play a core role in the taxpayer's income-producing activities.
 On balance, there are insufficient grounds for the Commissioner to conclude that the taxpayer's computer system is 'substantial equipment' for the purposes of paragraph (b) of the definition of permanent establishment in subsection 6(1) of the ITAA 1936.
-Date of decision:
-  17 November 2006
-
-Year of income:
-  30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)
-
-Case References:
-
-McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation   2005 ATC 4398   (2005) 59 ATR 358   (2005) 142 FCR 134    [2005] FCAFC 67
-
-Tillmanns Butcheries Pty Ltd v. Australian Meat industry Employees' union   (1979) 42 FLR 331
-Case H106   (1957) 8 TBRD 484
-
-Number 630 v. Minister of National Revenue   (1959) 59 DTC 300
-
-Related Public Rulings (including Determinations)
-
-Draft Taxation Ruling 2006/D8
-Taxation Ruling 98/21
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/314
-
-Other References:
-
- Explanatory Memorandum to the International Tax Agreements Amendment Bill 2003
- Macquarie Dictionary, 2001, 5th Edition, The Macquarie Library Pty Ltd, NSW
-
-Keywords
-
-Double tax agreements
- International tax
- Permanent establishment
- Substantial equipment
-
-Siebel/TDMS Reference Number:
-  5330912
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 December 2006
-
-ISSN:
- 1445-2782
+Date of decision: 17 November 2006 Year of income: 30 June 2007 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) Case References: McDermott Industries (Aust) Pty Ltd v. Commissioner of Taxation 2005 ATC 4398 (2005) 59 ATR 358 (2005) 142 FCR 134 [2005] FCAFC 67 Tillmanns Butcheries Pty Ltd v. Australian Meat industry Employees' union (1979) 42 FLR 331
+Case H106 (1957) 8 TBRD 484 Number 630 v. Minister of National Revenue (1959) 59 DTC 300 Related Public Rulings (including Determinations) Draft Taxation Ruling 2006/D8
+Taxation Ruling 98/21 Related ATO Interpretative Decisions ATO ID 2006/314 Other References: Explanatory Memorandum to the International Tax Agreements Amendment Bill 2003 Macquarie Dictionary, 2001, 5th Edition, The Macquarie Library Pty Ltd, NSW Keywords Double tax agreements International tax Permanent establishment Substantial equipment Siebel/TDMS Reference Number: 5330912 Business Line: Public Groups and International Date of publication: 22 December 2006 ISSN: 1445-2782

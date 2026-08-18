@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/177
-==================================================
-
-Income Tax
- Capital gains tax: scrip for scrip roll-over - arrangement on substantially the same terms
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: scrip for scrip roll-over - arrangement on substantially the same terms FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does an arrangement satisfy the requirement in paragraph 124-780(2)(c) of the Income Tax Assessment Act 1997 (ITAA 1997) that participation in it be on 'substantially the same terms for all owners of interests of a particular type' if different offers are made to separate classes of shareholders?
 Decision
 Yes. The arrangement will satisfy the requirement in paragraph 124-780(2)(c) of the ITAA 1997 providing the offer to shareholders within each class of share is on substantially the same terms.
@@ -25,31 +14,4 @@ Reasons for Decision
 One of the conditions that has to be satisfied for a shareholder to qualify for scrip for scrip roll-over under Subdivision 124-M of the ITAA 1997 is that participation in the scrip for scrip arrangement must have been on substantially the same terms for all the owners of interests of a particular type in the original entity (paragraph 124-780(2)(c) of the ITAA 1997).
 In this case, the difference in the rights attaching to each class of share is sufficient for each class of share to be regarded as a different type of interest for the purposes of paragraph 124-780(2)(c) of the ITAA 1997.
 Accordingly, if each shareholder within each class of share is able to participate in the arrangement on substantially the same terms, the requirement in paragraph 124-780(2)(c) of the ITAA 1997 will be satisfied.
-Date of decision:
-  9 December 2002
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 124-M   paragraph 124-780(2)(c)
-
-Keywords
-
-Capital gains Tax
- Capital gains
- CGT roll-over relief
- Scrip for scrip roll-over
-
-Siebel/TDMS Reference Number:
-  3508270
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 March 2003
-
-ISSN:
- 1445-2782
+Date of decision: 9 December 2002 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Subdivision 124-M paragraph 124-780(2)(c) Keywords Capital gains Tax Capital gains CGT roll-over relief Scrip for scrip roll-over Siebel/TDMS Reference Number: 3508270 Business Line: Public Groups and International Date of publication: 28 March 2003 ISSN: 1445-2782

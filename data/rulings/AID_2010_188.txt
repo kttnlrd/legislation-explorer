@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2010/188
-==================================================
-
-Income Tax
- Treaty benefits: United States limited liability company disregarded as an entity separate from its owner
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Treaty benefits: United States limited liability company disregarded as an entity separate from its owner FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a limited liability company incorporated in the United States (US LLC) that has a single owner and is disregarded as an entity separate from its owner, a 'resident of the United States' within the meaning of Article 4(1)(b) of the Australia - US Double Taxation Convention (US Convention)?
 Decision
 No. The US LLC is not a resident of the US within the meaning of Article 4(1)(b). However, the single owner, where the single owner of the US LLC is a resident of the US within the meaning of Article 4(1)(b), will receive relevant treaty benefits in respect of income derived by the LLC subject to it satisfying any other applicable requirements in the US Convention.
@@ -24,47 +11,7 @@ The LLC is a company with a single owner incorporated under US state law. It is 
 The single owner is a corporation and has been certified by the US as a resident of the US for the purposes of US tax on a Form 6166 issued by the Internal Revenue Service.
 The LLC is a company under Australian tax law.
 Reasons for Decision
-Article 4(1)(b)(i) of the US Convention states that a person is a resident of the US if the person is a 'United States corporation'. Article 3(1)(g)(i) of the US Convention defines the term 'United States corporation' as:
-
-... a corporation which, under United States law relating to United States tax, is a domestic corporation or an unincorporated entity treated as a domestic corporation, and which is not, under the law of Australia relating to Australian tax, a resident of Australia;
-
-Treasury Regulations, Subchapter F, sec. 301.7701-2(a) provides:
-
-A business entity with only one owner is classified as a corporation or is disregarded; if the entity is disregarded, its activities are treated in the same manner as a sole proprietorship, branch or division of the owner. [emphasis added]
-
-As the LLC is disregarded, it is not a corporation for the purposes of US tax law nor, therefore, a 'United States corporation' for the purposes of Article 4(1)(b)(i) of the US Convention. The LLC is not a resident under Article 4(1)(b)(i).
-Article 4(1)(b)(iii) of the US Convention includes as a resident:
-
-Any other person (except a corporation or unincorporated entity treated as a corporation for United States tax purposes) resident in the United States for the purposes of its tax...
-
-The form 6166 makes it clear that it is the single owner who is resident in the United States for the purposes of its tax, not the LLC. As such, the LLC is not a resident under Article 4(1)(b)(iii) of the US Convention and is not, therefore, a resident of the US for the purposes of the Convention.
+Article 4(1)(b)(i) of the US Convention states that a person is a resident of the US if the person is a 'United States corporation'. Article 3(1)(g)(i) of the US Convention defines the term 'United States corporation' as: ... a corporation which, under United States law relating to United States tax, is a domestic corporation or an unincorporated entity treated as a domestic corporation, and which is not, under the law of Australia relating to Australian tax, a resident of Australia; Treasury Regulations, Subchapter F, sec. 301.7701-2(a) provides: A business entity with only one owner is classified as a corporation or is disregarded; if the entity is disregarded, its activities are treated in the same manner as a sole proprietorship, branch or division of the owner. [emphasis added] As the LLC is disregarded, it is not a corporation for the purposes of US tax law nor, therefore, a 'United States corporation' for the purposes of Article 4(1)(b)(i) of the US Convention. The LLC is not a resident under Article 4(1)(b)(i).
+Article 4(1)(b)(iii) of the US Convention includes as a resident: Any other person (except a corporation or unincorporated entity treated as a corporation for United States tax purposes) resident in the United States for the purposes of its tax... The form 6166 makes it clear that it is the single owner who is resident in the United States for the purposes of its tax, not the LLC. As such, the LLC is not a resident under Article 4(1)(b)(iii) of the US Convention and is not, therefore, a resident of the US for the purposes of the Convention.
 From a US perspective, the LLC and the single owner are treated as the one taxpayer. Where the single owner is a resident of the US for the purposes of its tax, the single owner is entitled to treaty benefits in respect of income derived by the LLC subject to it satisfying any other applicable requirements in the US Convention for it to do so.
-Date of decision:
-  16 September 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-International Tax Agreements Act 1953   Schedule 2 Article 3(1)(g)   Schedule 2 Article 4(1)(b)(i)   Schedule 2 Article 4(1)(b)(iii)
- Treasury Regulations   Subchapter F, sec. 301.7701-2(a)   Subchapter F, sec. 301.7701-3(a)
-
-Keywords
-
-Double tax agreements
- United States
- Limited liability
- International tax
-
-Siebel/TDMS Reference Number:
-  1-2BJOWF2
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 October 2010
-
-ISSN:
- 1445-2782
+Date of decision: 16 September 2010 Year of income: Year ended 30 June 2011 Legislative References: International Tax Agreements Act 1953 Schedule 2 Article 3(1)(g) Schedule 2 Article 4(1)(b)(i) Schedule 2 Article 4(1)(b)(iii) Treasury Regulations Subchapter F, sec. 301.7701-2(a) Subchapter F, sec. 301.7701-3(a) Keywords Double tax agreements United States Limited liability International tax Siebel/TDMS Reference Number: 1-2BJOWF2 Business Line: Public Groups and International Date of publication: 15 October 2010 ISSN: 1445-2782

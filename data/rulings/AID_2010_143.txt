@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/143
-==================================================
-
-Income Tax
- United States real estate investment trusts and managed investment trusts
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax United States real estate investment trusts and managed investment trusts FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, a United States (US) Real Estate Investment Trust (REIT) that is a member of an Australian Trust, an entity that is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the Taxation Administration Act 1953 (TAA 1953) for the purposes of determining the number of members of the Australian Trust in paragraph 12-402(1A)(b) of Schedule 1 to the TAA 1953?
 Decision
 Yes, the taxpayer, a US REIT that is a member of an Australian Trust, is an entity that is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 for the purposes of determining the number of members of the Australian Trust in paragraph 12-402(1A)(b) of Schedule 1 to the TAA 1953.
@@ -40,98 +29,20 @@ Based on the facts, the Australian Trust satisfies the conditions in paragraphs 
 Subsection 12-402(1A) of Schedule 1 to the TAA 1953 sets out the conditions that must be satisfied in the context of the facts of this case. Paragraph 12-402(1A)(a) requires that the units in the Australian Trust are listed for quotation in the official list of an approved stock exchange in Australia or, alternatively, paragraph 12-402(1A)(b) requires that the trust has at least 50 members. As units in the Australian Trust are not listed on the Australian stock exchange, it is necessary to consider whether it has at least 50 members.
 Subsection 12-402(2) of Schedule 1 to the TAA 1953 outlines the methodology for determining the number of members of the trust for the purposes of paragraph 12-402(1A)(b) of Schedule 1 to the TAA 1953. Relevantly, it is necessary to work out the 'MIT participation interest' in the trust of members that are entities covered by subsection 12-402(3) and multiply it by 50 and then add that number to the number of members that are entities that are not covered by subsection 12-402(3).
 In the context of the facts of the case, paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 is the applicable paragraph to determine whether US REIT and Maryland REIT, as members of Australian Trust, are entities covered by subsection 12-402(3) for the purposes of subsection 12-402(2) of Schedule 1 to the TAA 1953.
-Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 includes:
-
-an entity that is recognised under a foreign law as being used for collective investment by means of pooling the contributions of at least 50 members of the entity as consideration to acquire rights to benefits produced by the entity, if the members of the entity do not have day-to-day control over the operation of the entity.
-
-According to the Revised Explanatory Memorandum (EM) to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 (TLAB (No 3) Bill 2010), paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 targets:
-
-... a foreign collective investment vehicle, which is an entity with at least 50 members that is recognised under a foreign law as being used for collective investment where the member contributions are pooled together in exchange for rights to the benefits produced by the entity and where members do not have day-to-day control over the operation of the entity. ... (paragraph 5.79 of the Revised EM to the TLAB (No 3) Bill 2010).
-
-Therefore, the REITs must be recognised under a foreign law as being used for collective investment and the entity itself must also satisfy the remaining three requirements of subsection 12-402(3)(e) of Schedule 1 to the TAA 1953. That is, US REIT and Maryland REIT must involve:
-
-•the pooling of contributions of at least 50 members of the entity;
+Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 includes: an entity that is recognised under a foreign law as being used for collective investment by means of pooling the contributions of at least 50 members of the entity as consideration to acquire rights to benefits produced by the entity, if the members of the entity do not have day-to-day control over the operation of the entity. According to the Revised Explanatory Memorandum (EM) to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 (TLAB (No 3) Bill 2010), paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 targets: ... a foreign collective investment vehicle, which is an entity with at least 50 members that is recognised under a foreign law as being used for collective investment where the member contributions are pooled together in exchange for rights to the benefits produced by the entity and where members do not have day-to-day control over the operation of the entity. ... (paragraph 5.79 of the Revised EM to the TLAB (No 3) Bill 2010). Therefore, the REITs must be recognised under a foreign law as being used for collective investment and the entity itself must also satisfy the remaining three requirements of subsection 12-402(3)(e) of Schedule 1 to the TAA 1953. That is, US REIT and Maryland REIT must involve: •the pooling of contributions of at least 50 members of the entity;
 •as consideration to acquire rights to benefits produced by the entity; and
-•the members not having day to day control over the operation of the entity.
-
-'recognised under a foreign law as being used for collective investment'
-
-The first requirement involves the entity being recognised under a foreign law as an entity which is used for collective investment.
-Both US REIT and Maryland REIT were formed in the US State of Maryland under the MD Code and, accordingly, the MD Code is the relevant foreign law for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953. Section 8-103(b) of the MD Code provides that:
-
-To the extent any provision of this title is contrary to or inconsistent with sections 856 through 858 of the Internal Revenue Code [of the US] or the regulations adopted under those sections, the latter shall prevail as to any real estate investment trust qualifying under those sections and regulations.
-
-Therefore, sections 856 to 858 of the US IRC must be considered alongside the MD Code when considering whether the foreign law recognises US REIT as being used for collective investment for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953. As Maryland REIT does not qualify under the US IRC, only the MD Code is the relevant foreign law in relation to Maryland REIT.
-Section 8-101 of the MD Code defines a REIT as:
-
-an unincorporated business trust or association formed under this title which property is acquired, held, managed, administered, controlled, invested, or disposed of for the benefit and profit of any person who may become a shareholder.
-
-This definition contemplates a profit-making purpose of the entity for the benefit of more than one person (the shareholders), which indicates a recognition by the MD Code that the entity is being used for collective investment.
+•the members not having day to day control over the operation of the entity. 'recognised under a foreign law as being used for collective investment' The first requirement involves the entity being recognised under a foreign law as an entity which is used for collective investment.
+Both US REIT and Maryland REIT were formed in the US State of Maryland under the MD Code and, accordingly, the MD Code is the relevant foreign law for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953. Section 8-103(b) of the MD Code provides that: To the extent any provision of this title is contrary to or inconsistent with sections 856 through 858 of the Internal Revenue Code [of the US] or the regulations adopted under those sections, the latter shall prevail as to any real estate investment trust qualifying under those sections and regulations. Therefore, sections 856 to 858 of the US IRC must be considered alongside the MD Code when considering whether the foreign law recognises US REIT as being used for collective investment for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953. As Maryland REIT does not qualify under the US IRC, only the MD Code is the relevant foreign law in relation to Maryland REIT.
+Section 8-101 of the MD Code defines a REIT as: an unincorporated business trust or association formed under this title which property is acquired, held, managed, administered, controlled, invested, or disposed of for the benefit and profit of any person who may become a shareholder. This definition contemplates a profit-making purpose of the entity for the benefit of more than one person (the shareholders), which indicates a recognition by the MD Code that the entity is being used for collective investment.
 The US IRC does not contain any provision that is inconsistent with the profit-making intention of a REIT. Furthermore, the collective nature of the entity is supported by section 856(a)(5) of the US IRC, which requires that the beneficial ownership of a REIT is held by 100 or more persons.
-Therefore, both US REIT and Maryland REIT are recognised under a foreign law as being used for collective investment.
-
-'pooling of contributions of at least 50 members of the entity'
-
-Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 requires that the entity pool the contributions of at least 50 members.
+Therefore, both US REIT and Maryland REIT are recognised under a foreign law as being used for collective investment. 'pooling of contributions of at least 50 members of the entity' Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 requires that the entity pool the contributions of at least 50 members.
 A 'share' is defined in section 8-101 of the MD Code as a transferable unit of beneficial interest in a REIT.
 While the MD Code does not contain a requirement as to the number of shareholders necessary for a REIT, section 856(a)(5) of the US IRC requires these shares to be owned by 100 or more persons.
 The MD Code definitions of a REIT and share in a REIT, together with the numbers of shareholders required under the US IRC, are consistent with the notion of pooling of contributions of at least 50 members as required under paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953.
 Therefore, as US REIT qualifies as a REIT under the US IRC, there is a pooling of the contributions of at least 50 members of the entity.
-However, as Maryland REIT is wholly owned by US REIT and therefore has only one member (and accordingly fails to qualify as a REIT under the US IRC), it fails the requirement that it have at least 50 members. Maryland REIT is therefore not an entity covered by paragraph 12-401(3)(e) of Schedule 1 to the TAA 1953.
-
-'as consideration to acquire rights to benefits produced by the entity'
-
-Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 requires there be consideration from the 50 or more members of the entity to acquire rights to benefits produced by the entity.
-The US REIT Declaration of Trust states that the shares in the REIT will be validly issued by the REIT upon receipt of full consideration for which they have been issued. Therefore, US REIT satisfies the condition under paragraph 12-402(3)(e) that contributions are made as consideration to acquire rights to benefits produced by US REIT.
-
-'members of the entity do not have day-to-day control over the operation of the entity'
-
-The final requirement in paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 is that the members of the entity do not have day-to-day control over the operation of the entity. Sections 8-202 and 8-301 of the MD Code provides for the election of trustees at least every third year at an annual meeting of shareholders. Further, section 856(a)(1) of the US IRC requires a REIT to be managed by its trustees or directors.
-Therefore, the members of US REIT do not have day-to-day control over the operation of the entity. US REIT therefore satisfies this final requirement of paragraph 12-402(3)(e).
-
-Conclusion
-
-As each of the elements are satisfied in relation to US REIT, US REIT is an entity covered by paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953. However, Maryland REIT, being wholly owned by US REIT and therefore having only one member, is not an entity covered by paragraph 12-402(3)(e).
-
-Note 1:
- in accordance with subparagraph 12-402(2)(c)(ii) of Schedule 1 to the TAA 1953, US REIT's 'MIT participation interest' in the trust is multiplied by 50. Therefore, as US REIT has a 'MIT participation interest' of 100%, US REIT's membership of the Australian Trust it is deemed to be equal to 50 members of the Australian Trust.
-
-Note 2:
- applying the methodology outlined in paragraph 12-402(2) of Schedule 1 of the TAA 1953 results in the Australian Trust having 51 members. As Maryland REIT is not a member of the trust that is an entity covered by subsection 12-402(3), it continues to count as one member.
-
-Date of decision:
-  9 August 2010
-
-Year of income:
-  Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Year ended 30 June 2015
-
-Legislative References:
-
-Corporations Act 2001   section 9   section 601EB
-Income Tax Assessment Act 1997   subsection 960-130(1)
-Taxation Administration Act 1953   Schedule 1, Subdivision H   Schedule 1, subsection 12-400(1)   Schedule 1, paragraph 12-400(1)(a)   Schedule 1, paragraph 12-400(1)(b)   Schedule 1, paragraph 12-400(1)(c)   Schedule 1, paragraph 12-400(1)(d)   Schedule 1, paragraph 12-400(1)(e)   Schedule 1, paragraph 12-400(1)(f)   Schedule 1, subparagraph 12-400(1)(f)(ii)   Schedule 1, paragraph 12-400(1)(g)   Schedule 1, paragraph 12-400(1)(h)   Schedule 1, subsection 12-400(2)   Schedule 1, section 12-401   Schedule 1, subsection 12-401(3)   Schedule 1, paragraph 12-401(3)(e)   Schedule 1, subsection 12-402(1A)   Schedule 1, paragraph 12-402(1A)(a)   Schedule 1, paragraph 12-402(1A)(b)   Schedule 1, subsection 12-402(2)   Schedule 1, subsection 12-402(3)   Schedule 1, paragraph 12-402(3)(e)   Schedule 1, subsection 12-402A(1)   Schedule 1, section 12-402B   Schedule 1, paragraph 12-404(1)(c)
- Annotated Code of Maryland   Title 8, Corporations and Associations Article   section 8-101   subsection 8-103(b)   section 8-202   section 8-301
-Internal Revenue Code of the United States   section 856   section 856(a)(1)   section 856(a)(5)   section 858
-
-Other References:
-
- Revised Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No 3) Bill 2010
-
-Keywords
-
-Collective investment vehicles
- Investment trusts
- PAYG withholding
- United States
-
-Siebel/TDMS Reference Number:
-  1-28B5EB8
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  13 August 2010
-
-ISSN:
- 1445-2782
+However, as Maryland REIT is wholly owned by US REIT and therefore has only one member (and accordingly fails to qualify as a REIT under the US IRC), it fails the requirement that it have at least 50 members. Maryland REIT is therefore not an entity covered by paragraph 12-401(3)(e) of Schedule 1 to the TAA 1953. 'as consideration to acquire rights to benefits produced by the entity' Paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 requires there be consideration from the 50 or more members of the entity to acquire rights to benefits produced by the entity.
+The US REIT Declaration of Trust states that the shares in the REIT will be validly issued by the REIT upon receipt of full consideration for which they have been issued. Therefore, US REIT satisfies the condition under paragraph 12-402(3)(e) that contributions are made as consideration to acquire rights to benefits produced by US REIT. 'members of the entity do not have day-to-day control over the operation of the entity' The final requirement in paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953 is that the members of the entity do not have day-to-day control over the operation of the entity. Sections 8-202 and 8-301 of the MD Code provides for the election of trustees at least every third year at an annual meeting of shareholders. Further, section 856(a)(1) of the US IRC requires a REIT to be managed by its trustees or directors.
+Therefore, the members of US REIT do not have day-to-day control over the operation of the entity. US REIT therefore satisfies this final requirement of paragraph 12-402(3)(e). Conclusion As each of the elements are satisfied in relation to US REIT, US REIT is an entity covered by paragraph 12-402(3)(e) of Schedule 1 to the TAA 1953. However, Maryland REIT, being wholly owned by US REIT and therefore having only one member, is not an entity covered by paragraph 12-402(3)(e). Note 1: in accordance with subparagraph 12-402(2)(c)(ii) of Schedule 1 to the TAA 1953, US REIT's 'MIT participation interest' in the trust is multiplied by 50. Therefore, as US REIT has a 'MIT participation interest' of 100%, US REIT's membership of the Australian Trust it is deemed to be equal to 50 members of the Australian Trust. Note 2: applying the methodology outlined in paragraph 12-402(2) of Schedule 1 of the TAA 1953 results in the Australian Trust having 51 members. As Maryland REIT is not a member of the trust that is an entity covered by subsection 12-402(3), it continues to count as one member. Date of decision: 9 August 2010 Year of income: Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Year ended 30 June 2014 Year ended 30 June 2015 Legislative References: Corporations Act 2001 section 9 section 601EB
+Income Tax Assessment Act 1997 subsection 960-130(1)
+Taxation Administration Act 1953 Schedule 1, Subdivision H Schedule 1, subsection 12-400(1) Schedule 1, paragraph 12-400(1)(a) Schedule 1, paragraph 12-400(1)(b) Schedule 1, paragraph 12-400(1)(c) Schedule 1, paragraph 12-400(1)(d) Schedule 1, paragraph 12-400(1)(e) Schedule 1, paragraph 12-400(1)(f) Schedule 1, subparagraph 12-400(1)(f)(ii) Schedule 1, paragraph 12-400(1)(g) Schedule 1, paragraph 12-400(1)(h) Schedule 1, subsection 12-400(2) Schedule 1, section 12-401 Schedule 1, subsection 12-401(3) Schedule 1, paragraph 12-401(3)(e) Schedule 1, subsection 12-402(1A) Schedule 1, paragraph 12-402(1A)(a) Schedule 1, paragraph 12-402(1A)(b) Schedule 1, subsection 12-402(2) Schedule 1, subsection 12-402(3) Schedule 1, paragraph 12-402(3)(e) Schedule 1, subsection 12-402A(1) Schedule 1, section 12-402B Schedule 1, paragraph 12-404(1)(c) Annotated Code of Maryland Title 8, Corporations and Associations Article section 8-101 subsection 8-103(b) section 8-202 section 8-301
+Internal Revenue Code of the United States section 856 section 856(a)(1) section 856(a)(5) section 858 Other References: Revised Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 Keywords Collective investment vehicles Investment trusts PAYG withholding United States Siebel/TDMS Reference Number: 1-28B5EB8 Business Line: Public Groups and International Date of publication: 13 August 2010 ISSN: 1445-2782

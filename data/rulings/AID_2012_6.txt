@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/6
-==================================================
-
-Goods and Services Tax
- GST and representative of an incapacitated entity acting as both supplier and recipient of the representative's administration services
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and representative of an incapacitated entity acting as both supplier and recipient of the representative's administration services FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is Entity A, an administrator acting in its capacity as a representative for an incapacitated entity, entitled to input tax credits (ITCs) under section 58-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), for its payment of administration fees imposed by Entity B, the administrator in its capacity as an insolvency practitioner, even though Entity A and Entity B are the same legal person?
 Decision
 Yes, Entity A, as the representative of the incapacitated entity, is entitled to ITCs under section 58-10 of the GST Act for its payment of administration fees imposed by Entity B, even though Entity A and Entity B are the same legal person.
@@ -31,38 +20,5 @@ As a result, Entity A, the administrator in its capacity as the representative o
 However, under paragraph 58-10(1)(b) of the GST Act, a representative of an incapacitated entity is entitled to any ITCs that the incapacitated entity would be entitled to for a creditable acquisition to the extent that the making of the acquisition is within the scope of the representative's responsibility or authority for managing the incapacitated entity's affairs. This is despite section 11-20 of the GST Act, which is about who is entitled to ITCs.
 Accordingly, Entity A as the representative of the incapacitated entity is entitled to any ITCs under paragraph 58-10(1)(b) of the GST Act in relation to the fees paid to Entity B, and not the incapacitated entity.
 The fees are paid for a creditable acquisition of Entity B's services, that is within the scope of Entity A's responsibility or authority for managing the incapacitated entity's affairs. Entity A has the entitlement to the ITCs for the acquisitions.
-Notes:
-
-1.This ATO ID replaces ATO ID 2002/19, which dealt with former Division 147 of the GST Act, which was repealed on 4 December 2009.
-2.The acquisition may be only partly for a creditable purpose if the incapacitated entity makes both taxable and input taxed supplies. Where the acquisition relates directly to the making of input taxed supplies, the acquisition is not for a creditable purpose. However, where the acquisition does not relate to making specific supplies but relates to carrying on the enterprise as a whole, the extent of creditable purpose must be determined and the ITCs relating to the acquisition must be apportioned accordingly.
-
-Date of decision:
-  20 January 2012
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 11-5   section 11-20   Division 23   Division 58   subsection 58-5(1)   section 58-10   paragraph 58-10(1)(b)   subsection 184-1(3)
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2002/19
-
-Keywords
-
-Goods and services tax
- GST special rules
- Representative of incapacitated entities
- GST supplies & acquisitions
- Creditable acquisition
-
-Siebel/TDMS Reference Number:
-  1-23G4GZQ
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  27 January 2012
-
-ISSN:
- 1445-2782
+Notes: 1.This ATO ID replaces ATO ID 2002/19, which dealt with former Division 147 of the GST Act, which was repealed on 4 December 2009.
+2.The acquisition may be only partly for a creditable purpose if the incapacitated entity makes both taxable and input taxed supplies. Where the acquisition relates directly to the making of input taxed supplies, the acquisition is not for a creditable purpose. However, where the acquisition does not relate to making specific supplies but relates to carrying on the enterprise as a whole, the extent of creditable purpose must be determined and the ITCs relating to the acquisition must be apportioned accordingly. Date of decision: 20 January 2012 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 11-5 section 11-20 Division 23 Division 58 subsection 58-5(1) section 58-10 paragraph 58-10(1)(b) subsection 184-1(3) ATO Interpretative Decisions overturned by this decision ATO ID 2002/19 Keywords Goods and services tax GST special rules Representative of incapacitated entities GST supplies & acquisitions Creditable acquisition Siebel/TDMS Reference Number: 1-23G4GZQ Business Line: Indirect Tax Date of publication: 27 January 2012 ISSN: 1445-2782

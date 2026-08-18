@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/99
-==================================================
-
-Income Tax
- Foreign Investment Fund exemption and foreign hybrid
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-10 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign Investment Fund exemption and foreign hybrid FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-10 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the exemption in Division 11A of Part XI of the Income Tax Assessment Act 1936 (ITAA 1936) apply to a trustee of a complying superannuation entity that is a member of a foreign hybrid limited partnership that holds an interest in a foreign investment fund (FIF)?
 Decision
 No. The exemption in Division 11A of Part XI of the ITAA 1936 does not apply to a trustee of a complying superannuation entity that is a member of a foreign hybrid limited partnership that holds an interest in a FIF.
@@ -29,69 +14,16 @@ Reasons for Decision
 As a foreign hybrid limited partnership under section 830-10 of the ITAA 1997, US LP is treated as a partnership for Australian taxation purposes (see subsection 94D(5) of the ITAA 1936 which provides that a foreign hybrid limited partnership is not a corporate limited partnership pursuant to Division 5A of Part III of the ITAA 1936). As a result, the normal partnership provisions of Division 5 of Part III of the ITAA 1936 will apply to US LP.
 Section 90 of the ITAA 1936 provides that the 'net income' of a partnership means all the assessable income of the partnership, calculated as if the partnership were a resident taxpayer, less allowable deductions except for deductions allowable under section 290-150 or Division 36 of the ITAA 1997.
 'Assessable income' in section 90 of the ITAA 1936 includes any FIF income that accrues to a taxpayer by virtue of section 529 of the ITAA 1936. However, for section 529 to apply, section 485 of the ITAA 1936 must be satisfied.
-Section 485 of the ITAA 1936 provides that section 529 of the ITAA 1936 will apply where:
-
-•the taxpayer had an interest in a FIF at the end of the income year
+Section 485 of the ITAA 1936 provides that section 529 of the ITAA 1936 will apply where: •the taxpayer had an interest in a FIF at the end of the income year
 •the income year is the 1992-1993 income year or later, and
-•the taxpayer is a 'Part XI Australian resident' at any time in that year of income.
-
-Subsection 485A(1) of the ITAA 1936 provides that for the purposes of working out the net income of a partnership, the operative provision applies as mentioned in section 485, subject to subsection 485A(2) of the ITAA 1936. Subsection 485A(2) in turn ensures that a partnership is regarded as a taxpayer who is a Part XI Australian resident for the purposes of applying section 485 and section 529 of the ITAA 1936 in calculating the net income of that partnership. Subsection 485(1) further provides that section 485A also has effect when section 529 is applied to work out the net income of a partnership.
+•the taxpayer is a 'Part XI Australian resident' at any time in that year of income. Subsection 485A(1) of the ITAA 1936 provides that for the purposes of working out the net income of a partnership, the operative provision applies as mentioned in section 485, subject to subsection 485A(2) of the ITAA 1936. Subsection 485A(2) in turn ensures that a partnership is regarded as a taxpayer who is a Part XI Australian resident for the purposes of applying section 485 and section 529 of the ITAA 1936 in calculating the net income of that partnership. Subsection 485(1) further provides that section 485A also has effect when section 529 is applied to work out the net income of a partnership.
 Due to the interactions between sections 485, 485A and 529 of the ITAA 1936, US LP will include in its net income, such amount as is applicable under the operative provision (that is, section 529) in respect of its FIF interest in CLP (unless a specific FIF exemption provision applies).
 FIF exemption for complying superannuation entities
 Division 11A of Part XI of the ITAA 1936 exempts taxpayers who are trustees of complying superannuation entities, as defined in the Superannuation Industry (Supervision) Act 1993 from taxation under the FIF measures by ensuring section 529 of the ITAA 1936 does not apply to the taxpayer in relation to a FIF (see subsection 519B(2) of the ITAA 1936).
-Subsection 519B(2) of the ITAA 1936 provides:
-
-If a taxpayer is the trustee of a complying superannuation entity in relation to a year of income, the operative provision does not apply to the taxpayer in relation to a FIF in respect of the notional accounting period of the FIF that ends in the year of income.
-
-Therefore, to be eligible for the exemption, the trustee of the complying superannuation entity must be the taxpayer to which section 529 of the ITAA 1936 applies. In this arrangement, the taxpayer that holds an interest in a FIF, and is subject to the operation of section 529, is US LP. The exemption in subsection 519B(2) of the ITAA 1936 will not apply, as US LP is not a complying superannuation entity.
+Subsection 519B(2) of the ITAA 1936 provides: If a taxpayer is the trustee of a complying superannuation entity in relation to a year of income, the operative provision does not apply to the taxpayer in relation to a FIF in respect of the notional accounting period of the FIF that ends in the year of income. Therefore, to be eligible for the exemption, the trustee of the complying superannuation entity must be the taxpayer to which section 529 of the ITAA 1936 applies. In this arrangement, the taxpayer that holds an interest in a FIF, and is subject to the operation of section 529, is US LP. The exemption in subsection 519B(2) of the ITAA 1936 will not apply, as US LP is not a complying superannuation entity.
 Accordingly, the exemption in Division 11A of the ITAA 1936 does not apply to the trustee of the complying superannuation entity in respect of any FIF income that is indirectly included in its assessable income, through the operation of section 92 of the ITAA 1936.
-Date of decision:
-  12 June 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 830-15   section 290-150
-Income Tax Assessment Act 1936   Part III, Division 5   section 90   section 92   Part III, Division 5A   section 94D   subsection 94D(5)   Part XI, Division 11   section 485   section 485A   subsection 485A(1)   subsection 485A(2)   Part XI, Division 11A   subsection 519B(2)   section 529
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2006/40
-
-Keywords
-
-Complying superannuation funds
- Foreign hybrid limited partnership
- Foreign hybrids
- Foreign income
- Foreign investment funds
- Interposed partnerships
- Limited partnerships
- Partnership income
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  4 July 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 June 2008
-Original statement
-
-You are here
+Date of decision: 12 June 2008 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 830-15 section 290-150
+Income Tax Assessment Act 1936 Part III, Division 5 section 90 section 92 Part III, Division 5A section 94D subsection 94D(5) Part XI, Division 11 section 485 section 485A subsection 485A(1) subsection 485A(2) Part XI, Division 11A subsection 519B(2) section 529 ATO Interpretative Decisions overturned by this decision ATO ID 2006/40 Keywords Complying superannuation funds Foreign hybrid limited partnership Foreign hybrids Foreign income Foreign investment funds Interposed partnerships Limited partnerships Partnership income Business Line: International Centre of Expertise Date of publication: 4 July 2008 ISSN: 1445-2782 history Date: Version: 12 June 2008
+Original statement You are here
 21 October 2011
 Archived

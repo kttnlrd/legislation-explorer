@@ -1,125 +1,22 @@
 ATO Interpretative Decision
 ATO ID 2006/273
-==================================================
-
-Income tax
- Division 974: application of the debt test to Certificates of Deposit
- FOI status: may be released
-
-This ATO ID has been amended to improve clarity.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Division 974: application of the debt test to Certificates of Deposit FOI status: may be released This ATO ID has been amended to improve clarity. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the Certificate of Deposit issued by the taxpayer be characterised as a debt interest for the purposes of Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The Certificate of Deposit issued by the taxpayer will be characterised as a debt interest for the purposes of Division 974 of the ITAA 1997.
 Facts
-A company raises finance by way of Certificates of Deposit. The Certificates of Deposit have the following terms:
-
-1. the investment amount and term may vary from customer to customer but the initial term cannot exceed 10 years
+A company raises finance by way of Certificates of Deposit. The Certificates of Deposit have the following terms: 1. the investment amount and term may vary from customer to customer but the initial term cannot exceed 10 years
 2. the interest rate is fixed and depends upon the term of the respective Certificate of Deposit
 3. if the initial term is less than 10 years, the funds may be reinvested upon maturity, but only on the condition that the combined initial term and reinvestment terms do not exceed 10 years when added together, and
-4. the company must repay the investment amount together with any interest due thereon at the maturity of each investment term.
-
-Reasons for Decision
-Subsection 974-15(1) of the ITAA 1997 provides that:
-
-A scheme gives rise to a debt interest in an entity if the scheme, when it comes into existence, satisfies the debt test in subsection 974-20(1) in relation to the entity.
-
-The tests for a debt interest are contained in subsection 974-20(1) of the ITAA 1997. That subsection states:
-
-A scheme satisfies the debt test in this subsection in relation to an entity if:
-
-(a)the scheme is a financing arrangement for the entity; and
+4. the company must repay the investment amount together with any interest due thereon at the maturity of each investment term. Reasons for Decision
+Subsection 974-15(1) of the ITAA 1997 provides that: A scheme gives rise to a debt interest in an entity if the scheme, when it comes into existence, satisfies the debt test in subsection 974-20(1) in relation to the entity. The tests for a debt interest are contained in subsection 974-20(1) of the ITAA 1997. That subsection states: A scheme satisfies the debt test in this subsection in relation to an entity if: (a)the scheme is a financing arrangement for the entity; and
 (b)the entity, or a connected entity of the entity, receives, or will receive, a financial benefit or benefits under the scheme; and
-(c)the entity has, or the entity and a connected entity of the entity each has, an effectively non-contingent obligation under the scheme to provide a financial benefit or benefits to one or more entities after the time when:
-
-(i)the financial benefit referred to in paragraph (b) is received if there is only one; or
-(ii)the first of the financial benefit referred to in paragraph (b) is received if there are more than one; and
-
-(d)it is substantially more likely than not that the value provided (worked out under subsection (2)) will be at least equal to the value received (worked out under subsection (3)); and
-(e)the value provided (worked out under subsection (2)) and the value received (worked out under subsection (3)) are not both nil.
-
-The scheme does not need to satisfy paragraph (a) if the entity is a company and the interest arising from the scheme is an interest covered by item 1 of the table in subsection 974-75(1) (interest as a member or stockholder of the company.)
-
-These requirements of the debt test in relation to the Certificates of Deposit are discussed below.
-
-(a) Is there a scheme that is a financing arrangement for the entity?
-
-Section 995-1 of the ITAA 1997 defines 'scheme' to mean any arrangement or any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise. Thus, the issue of a Certificate of Deposit by the taxpayer will fall within this definition of a scheme. The scheme is being entered into or undertaken by the company with the intention to raise finance and therefore, the scheme is a financing arrangement for the entity.
-
-(b) Does the entity or a connected entity of the entity, receive, or will receive, a financial benefit or benefits under the scheme?
-
-Subsection 974-160(1) of the ITAA 1997 provides in part that:
-
-"(1)in this Act:
-
-financial benefit:
-
-(a)means anything of economic value...;"
-
-The investment amount of the Certificate of Deposit will thus constitute a financial benefit when received by the company as it will be something of economic value.
-
-(c) Does the entity or a connected entity of the entity have an effectively non-contingent obligation to provide a financial benefit or benefits to one or more entities after the time when the financial benefit is received?
-
-'Effectively non-contingent obligation' is defined in section 974-135 of the ITAA 1997.
-Subsection 974-135(1) of the ITAA 1997 states:
-
-"There is an effectively non-contingent obligation to take an action under a *scheme if, having regard to the pricing, terms and conditions of the scheme, there is in substance or effect a non-contingent obligation (see subsection (3), (4) and (6)) to take that action."
-
-Subsection 974-135(3) of the ITAA 1997 then provides:
-
-"An obligation is non-contingent if it is not contingent on any event, condition or situation (including the economic performance of the entity having the obligation or a *connected entity of that entity), other than the ability or willingness of that entity or connected entity to meet the obligation."
-
-Considering these legislative requirements, the company will have an effectively non-contingent obligation to provide a financial benefit, as the company has an effectively non-contingent obligation under the terms, pricing and conditions of the scheme to pay back the amount invested with interest thereon on maturity.
-
-(d) Is it substantially more likely than not that the financial benefit provided will at least equal the financial benefit received?
-
-Section 974-35 of the ITAA 1997 sets out the manner in which the value of a financial benefit to be provided or received under the scheme is to be calculated.
+(c)the entity has, or the entity and a connected entity of the entity each has, an effectively non-contingent obligation under the scheme to provide a financial benefit or benefits to one or more entities after the time when: (i)the financial benefit referred to in paragraph (b) is received if there is only one; or
+(ii)the first of the financial benefit referred to in paragraph (b) is received if there are more than one; and (d)it is substantially more likely than not that the value provided (worked out under subsection (2)) will be at least equal to the value received (worked out under subsection (3)); and
+(e)the value provided (worked out under subsection (2)) and the value received (worked out under subsection (3)) are not both nil. The scheme does not need to satisfy paragraph (a) if the entity is a company and the interest arising from the scheme is an interest covered by item 1 of the table in subsection 974-75(1) (interest as a member or stockholder of the company.) These requirements of the debt test in relation to the Certificates of Deposit are discussed below. (a) Is there a scheme that is a financing arrangement for the entity? Section 995-1 of the ITAA 1997 defines 'scheme' to mean any arrangement or any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise. Thus, the issue of a Certificate of Deposit by the taxpayer will fall within this definition of a scheme. The scheme is being entered into or undertaken by the company with the intention to raise finance and therefore, the scheme is a financing arrangement for the entity. (b) Does the entity or a connected entity of the entity, receive, or will receive, a financial benefit or benefits under the scheme? Subsection 974-160(1) of the ITAA 1997 provides in part that: "(1)in this Act: financial benefit: (a)means anything of economic value...;" The investment amount of the Certificate of Deposit will thus constitute a financial benefit when received by the company as it will be something of economic value. (c) Does the entity or a connected entity of the entity have an effectively non-contingent obligation to provide a financial benefit or benefits to one or more entities after the time when the financial benefit is received? 'Effectively non-contingent obligation' is defined in section 974-135 of the ITAA 1997.
+Subsection 974-135(1) of the ITAA 1997 states: "There is an effectively non-contingent obligation to take an action under a *scheme if, having regard to the pricing, terms and conditions of the scheme, there is in substance or effect a non-contingent obligation (see subsection (3), (4) and (6)) to take that action." Subsection 974-135(3) of the ITAA 1997 then provides: "An obligation is non-contingent if it is not contingent on any event, condition or situation (including the economic performance of the entity having the obligation or a *connected entity of that entity), other than the ability or willingness of that entity or connected entity to meet the obligation." Considering these legislative requirements, the company will have an effectively non-contingent obligation to provide a financial benefit, as the company has an effectively non-contingent obligation under the terms, pricing and conditions of the scheme to pay back the amount invested with interest thereon on maturity. (d) Is it substantially more likely than not that the financial benefit provided will at least equal the financial benefit received? Section 974-35 of the ITAA 1997 sets out the manner in which the value of a financial benefit to be provided or received under the scheme is to be calculated.
 Paragraph 974-35(1)(a) of the ITAA 1997 provides that the value of a financial benefit to be provided or received is to be calculated in nominal terms, if the performance period ends no later than 10 years after the interest arising from the scheme is issued or, in present value terms if the performance period must, or may, end more than 10 years after the interest arising from the scheme is issued.
-As the performance period of the Certificates of Deposit must be no longer than 10 years, (the combined initial term and reinvestment terms cannot exceed 10 years when added together), nominal values will be used to value any effectively non-contingent obligations. Valuing the effectively non-contingent obligations in nominal terms has the result that it is substantially more likely than not that the value of the financial benefits provided by the company on maturity will at least be equal to the value of the financial benefits received.
-
-(e) The value provided and the value received are not both nil
-
-The value provided and the value received will not both be nil.
-
-Conclusion
-
-As all the requirements of the debt test are satisfied, the Certificates of Deposit will give rise to a debt interest pursuant to section 974-20 of the ITAA 1997.
-Date of decision:
-  31 August 2006
-
-Year of income:
-  30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 974-15   subsection 974-20   section 974-35   subsection 974-130   subsection 974-135   subsection 974-150   subsection 974-160   section 995-1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/272
-ATO ID 2006/274
-
-Keywords
-
-Debt equity borderline
- Debt interest
- Debt test
-
-Siebel/TDMS Reference Number:
-  5112495
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  29 September 2006
-
-ISSN:
- 1445-2782
+As the performance period of the Certificates of Deposit must be no longer than 10 years, (the combined initial term and reinvestment terms cannot exceed 10 years when added together), nominal values will be used to value any effectively non-contingent obligations. Valuing the effectively non-contingent obligations in nominal terms has the result that it is substantially more likely than not that the value of the financial benefits provided by the company on maturity will at least be equal to the value of the financial benefits received. (e) The value provided and the value received are not both nil The value provided and the value received will not both be nil. Conclusion As all the requirements of the debt test are satisfied, the Certificates of Deposit will give rise to a debt interest pursuant to section 974-20 of the ITAA 1997.
+Date of decision: 31 August 2006 Year of income: 30 June 2007 Legislative References: Income Tax Assessment Act 1997 subsection 974-15 subsection 974-20 section 974-35 subsection 974-130 subsection 974-135 subsection 974-150 subsection 974-160 section 995-1 Related ATO Interpretative Decisions ATO ID 2006/272
+ATO ID 2006/274 Keywords Debt equity borderline Debt interest Debt test Siebel/TDMS Reference Number: 5112495 Business Line: Finance and Investment Centre of Expertise Date of publication: 29 September 2006 ISSN: 1445-2782

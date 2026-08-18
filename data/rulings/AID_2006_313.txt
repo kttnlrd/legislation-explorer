@@ -1,108 +1,28 @@
 ATO Interpretative Decision
 ATO ID 2006/313
-==================================================
-
-Income Tax
- Share option trading
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Share option trading FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a taxpayer carrying on the business of trading in exchange-traded options (ETOs) deduct from assessable income under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) the market value of sold ETO positions that remain open at the end of the taxpayer's income year?
 Decision
 No. A taxpayer carrying on the business of trading in ETOs is not entitled to deduct from assessable income the market value of sold ETO positions that remain open at the end of their income year.
 Facts
 The taxpayer carries on the business of transacting in ETOs on the Australian Securities Exchange (ASX) options market by selling (writing) ETOs in the expectation they will expire unexercised.
-The taxpayer sells an ETO to establish a position in the options market. This is referred to in the market as having an open sold position. The position remains open until one of the following occurs:
-
-•the ETO is exercised by the buyer,
+The taxpayer sells an ETO to establish a position in the options market. This is referred to in the market as having an open sold position. The position remains open until one of the following occurs: •the ETO is exercised by the buyer,
 •the position is 'closed out' by the taxpayer buying an identical ETO to the one they had originally sold
-•the ETO expires unexercised.
-
-When the taxpayer sells an ETO, they are entitled to receive a premium in return for writing the option at the time the option is written.
+•the ETO expires unexercised. When the taxpayer sells an ETO, they are entitled to receive a premium in return for writing the option at the time the option is written.
 The taxpayer returns the premium as assessable income under section 6-5 of the ITAA 1997 at the time the ETO is written.
 At the end of the taxpayer's income year, the taxpayer has ETOs that remain in the open position as they have not been exercised, closed out, or expired.
 Reasons for Decision
 Section 8-1 of the ITAA 1997 allows a deduction for losses or outgoings to the extent that they are incurred in gaining or producing assessable income or are necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income, provided that the losses or outgoings are not capital, private or domestic in nature.
 Taxation Ruling TR 97/7 provides (at paragraph 5) that, as a broad guide, you incur an outgoing at the time you owe a present money debt that you cannot escape.
-Taxation Ruling TR 94/26 provides guidance on the meaning of the term 'incurred'. In particular, paragraph 3 states:
-
-In most cases where a loss has not been realised or an outgoing has not been made, a presently existing pecuniary liability, at the end of the relevant income year, will be a necessary prerequisite to an expense being 'incurred' for the purposes of subsection 51(1) (Coles Myer Finance 93 ATC 4220; 25 ATR 95; Nilsen Development Laboratories Pty Ltd & Ors v. FC of T 81 ATC 4031; 11 ATR 505)...
-
-The market value of the taxpayer's open sold ETO positions represents the cost to the taxpayer to acquire offsetting ETOs in the same contract series. Effectively it is the cost to the taxpayer to close out the positions.
+Taxation Ruling TR 94/26 provides guidance on the meaning of the term 'incurred'. In particular, paragraph 3 states: In most cases where a loss has not been realised or an outgoing has not been made, a presently existing pecuniary liability, at the end of the relevant income year, will be a necessary prerequisite to an expense being 'incurred' for the purposes of subsection 51(1) (Coles Myer Finance 93 ATC 4220; 25 ATR 95; Nilsen Development Laboratories Pty Ltd & Ors v. FC of T 81 ATC 4031; 11 ATR 505)... The market value of the taxpayer's open sold ETO positions represents the cost to the taxpayer to acquire offsetting ETOs in the same contract series. Effectively it is the cost to the taxpayer to close out the positions.
 At the end of the income year the taxpayer is not under any obligation to close out their open sold ETO positions. The market value of the taxpayer's open sold ETO positions is not a loss or outgoing incurred by the taxpayer as there is no presently existing liability to pay an amount to close out the ETOs. It is possible that the ETOs will never be closed out as they may be exercised by the buyer or expire unexercised.
-The taxpayer only incurs a loss or outgoing for the purposes of section 8-1 of the ITAA 1997 when they close-out their open positions by buying identical ETOs to those that they originally sold.
-
-Amendment History
-
-Date of Amendment
+The taxpayer only incurs a loss or outgoing for the purposes of section 8-1 of the ITAA 1997 when they close-out their open positions by buying identical ETOs to those that they originally sold. Amendment History Date of Amendment
 Part
-Comment
-
-22 September 2017
+Comment 22 September 2017
 All
-Updated grammatical issues.
-
-Date of decision:
-  10 November 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 8-1   Section 6-5
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 97/7
-Taxation Ruling TR 94/26
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/526
-
-Keywords
-
-Call options
- Deductions & expenses
- Producing assessable income
- Put options
-
-Siebel/TDMS Reference Number:
-  5098685; 1-5N0VZDB
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  17 November 2006
-
-Date reviewed:
-  11 September 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 November 2006
-Original statement
-
-You are here
+Updated grammatical issues. Date of decision: 10 November 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 Section 8-1 Section 6-5 Related Public Rulings (including Determinations) Taxation Ruling TR 97/7
+Taxation Ruling TR 94/26 Related ATO Interpretative Decisions ATO ID 2004/526 Keywords Call options Deductions & expenses Producing assessable income Put options Siebel/TDMS Reference Number: 5098685; 1-5N0VZDB Business Line: Private Groups and High Wealth Individuals Date of publication: 17 November 2006 Date reviewed: 11 September 2017 ISSN: 1445-2782 history Date: Version: 10 November 2006
+Original statement You are here
 22 September 2017
 Updated statement

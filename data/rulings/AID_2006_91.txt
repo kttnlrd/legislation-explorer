@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/91
-==================================================
-
-Income Tax
- Classification of a Korean Hapja Hoesa for Australian income tax purposes
- FOI status: may be released
-
-This ATO ID is withdrawn as it does not accurately indicate the ATO view. This ATO ID is replaced by ATO ID 2010/27
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Classification of a Korean Hapja Hoesa for Australian income tax purposes FOI status: may be released This ATO ID is withdrawn as it does not accurately indicate the ATO view. This ATO ID is replaced by ATO ID 2010/27 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a Korean limited joint company specialising in private equity fund investment (a Hapja Hoesa) a 'corporate limited partnership' under Division 5A of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. A Hapja Hoesa is a corporate limited partnership under Division 5A of the ITAA 1936.
@@ -32,73 +17,17 @@ The Hapja Hoesa can own assets in its own right.
 Reasons for Decision
 A 'Hapja Hoesa' is a Korean entity that translates as a limited partnership. The particular entity in question is also a Private Equity Fund (PEF) or a 'Samo Tooja Cheonmoon Hoesa' as defined under The Republic of Korea's IIAMBA.
 The definition of a partnership in section 995-1 of the Income Tax Assessment Act 1997 (ITAA 1997) states that a partnership includes a limited partnership. However a corporate limited partnership is separately defined in Division 5A of the ITAA 1936 so that such an entity is treated as a company for Australian income tax purposes.
-A limited partnership is defined in section 995-1 of the ITAA 1997 as follows:
-
-(a)an association of persons (other than a company) carrying on business as partners or in receipt of *ordinary income or *statutory income jointly, where the liability of at least one of those persons is limited; or
+A limited partnership is defined in section 995-1 of the ITAA 1997 as follows: (a)an association of persons (other than a company) carrying on business as partners or in receipt of *ordinary income or *statutory income jointly, where the liability of at least one of those persons is limited; or
 (b)an association of persons (other than one referred to in paragraph (a)) with legal personality separate from those persons that was formed solely for the purpose of becoming a *VCLP, an *AFOF or a *VCMP and to carry on activities that are carried on by a body of that kind.
-*defines a term defined in section 995-1 of the ITAA 1997
-
-Therefore an association of persons in receipt of ordinary income may be a limited partnership provided the liability of at least one person is limited. Further definitions in section 995-1 of the ITAA 1997 turn on the issue of the liability of the partners. A general partner is a partner of a limited partnership whose liability in relation to the partnership is unlimited. A limited partner is one whose liability in relation to the partnership is limited. A Korean Hapja Hoesa does possess the required limited and unlimited partners (as per article 5 of its Articles of Incorporation) and is therefore a limited partnership.
+*defines a term defined in section 995-1 of the ITAA 1997 Therefore an association of persons in receipt of ordinary income may be a limited partnership provided the liability of at least one person is limited. Further definitions in section 995-1 of the ITAA 1997 turn on the issue of the liability of the partners. A general partner is a partner of a limited partnership whose liability in relation to the partnership is unlimited. A limited partner is one whose liability in relation to the partnership is limited. A Korean Hapja Hoesa does possess the required limited and unlimited partners (as per article 5 of its Articles of Incorporation) and is therefore a limited partnership.
 A corporate limited partnership is defined in section 94D of the ITAA 1936 to include limited partnerships formed in the 1995-96 or later years of income, but subsection 94D(2) of the ITAA 1936 specifically excludes a VCLP, AFOF or venture capital management partnership. In this context a VCLP is a Venture Capital Limited Partnership and AFOF means an Australian Venture Capital Fund of Funds.
-A VCLP is defined by reference to the Venture Capital Act 2002. In short a Korean Hapja Hoesa will not be excluded from the definition of a corporate limited partnership as section 9-1(1) of the Venture Capital Act requires of a VCLP that;
-
-(a)the partnership be established under a law in Australia or a listed country (Korea is not a listed country) and;
-(b)the general partner must be resident of either Australia or one of the listed countries. In the given case the general partner is resident of the Republic of Korea.
-
-Therefore a Korean Hapja Hoesa is not a VCLP. Similar problems exist in relation to a Korean Hapja Hoesa being either an AFOF or a venture capital management partnership. Both are defined in Subdivision 118-F of the ITAA 1997 by reference to Part 2 of the Venture Capital Act. A limited partnership may not be either an AFOF or a venture capital management partnership without being an Australian resident. A Korean Hapja Hoesa is not an Australian resident.
+A VCLP is defined by reference to the Venture Capital Act 2002. In short a Korean Hapja Hoesa will not be excluded from the definition of a corporate limited partnership as section 9-1(1) of the Venture Capital Act requires of a VCLP that; (a)the partnership be established under a law in Australia or a listed country (Korea is not a listed country) and;
+(b)the general partner must be resident of either Australia or one of the listed countries. In the given case the general partner is resident of the Republic of Korea. Therefore a Korean Hapja Hoesa is not a VCLP. Similar problems exist in relation to a Korean Hapja Hoesa being either an AFOF or a venture capital management partnership. Both are defined in Subdivision 118-F of the ITAA 1997 by reference to Part 2 of the Venture Capital Act. A limited partnership may not be either an AFOF or a venture capital management partnership without being an Australian resident. A Korean Hapja Hoesa is not an Australian resident.
 Therefore, a Korean Hapja Hoesa is a limited partnership that is not excluded from the definition of corporate limited partnership because of subsection 94D(2) of the ITAA 1936.
 A limited partnership could also be a foreign hybrid entity under Division 830 of the ITAA 1997. However, while a Korean Hapja Hoesa is a limited partnership, it is taxed as a corporate entity in Korea, therefore it will fail to satisfy the definition of a 'foreign hybrid limited partnership' provided in paragraph 830-10(1)(b) of the ITAA 1997. Therefore it is not excluded from being a corporate limited partnership via subsection 94D(4) of the ITAA 1936.
 Consequently, as a Korean Hapja Hoesa satisfies the Australian income tax definition of a 'limited partnership'; does not satisfy the exclusions in subsection 94D(2) of the ITAA 1936, and is not a foreign hybrid limited partnership, the conclusion is that a Korean Hapja Hoesa is a 'corporate limited partnership' for Australian income tax purposes.
-Date of decision:
-  17th March 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 5A   section 94D
-Income Tax Assessment Act 1997   section 995-1   section 830-10
-Venture Capital Act 2002   The Act
-
-Other References:
-
-Indirect Investment Asset Management Business Act 2003 (Korea)
- Commercial Act 2001 (Korea)
-
-Keywords
-
-Controlled foreign companies
- Foreign hybrid limited partnership
- Foreign hybrids
- Foreign income attribution & control interests
- International tax
- Korea
- Limited partnerships
- Ownership, interests, control & rights
- Tracing of ownership & interests
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 March 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-17 March 2006
-Original statement
-
-You are here
- 5 February 2010
+Date of decision: 17th March 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1936 Division 5A section 94D
+Income Tax Assessment Act 1997 section 995-1 section 830-10
+Venture Capital Act 2002 The Act Other References: Indirect Investment Asset Management Business Act 2003 (Korea) Commercial Act 2001 (Korea) Keywords Controlled foreign companies Foreign hybrid limited partnership Foreign hybrids Foreign income attribution & control interests International tax Korea Limited partnerships Ownership, interests, control & rights Tracing of ownership & interests Business Line: Public Groups and International Date of publication: 31 March 2006 ISSN: 1445-2782 history Date: Version: 17 March 2006
+Original statement You are here 5 February 2010
 Archived

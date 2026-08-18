@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/522
-==================================================
-
-Goods and Services Tax
- GST and monitoring of 'medical alert' devices by an ambulance service
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and monitoring of 'medical alert' devices by an ambulance service FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an ambulance service, making a GST-free supply under subsection 38-10(5) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a service of monitoring a 'medical alert' device to a person whose medical practitioner considers it necessary that a medical alert device be installed in their home as part of their ongoing treatment?
 Decision
 Yes, the entity is making a GST-free supply under subsection 38-10(5) of the GST Act when it supplies a service of monitoring a 'medical alert' device to a person whose medical practitioner considers it necessary that a medical alert device be installed in their home as part of their ongoing treatment.
@@ -22,43 +11,9 @@ The individual's medical practitioner considers it necessary that the 'medical a
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Subsection 38-10(5) of the GST Act provides that a supply is GST-free if it is provided by an ambulance service in the course of treatment of the recipient of the supply.
-Accordingly, the monitoring of a medical alert device is GST-free where it is supplied:
-
-•by an ambulance service; and
-•in the course of treatment of the recipient of the supply.
-
-As the monitoring service is supplied by an ambulance service, the first element of subsection 38-10(5) of the GST Act is met.
+Accordingly, the monitoring of a medical alert device is GST-free where it is supplied: •by an ambulance service; and
+•in the course of treatment of the recipient of the supply. As the monitoring service is supplied by an ambulance service, the first element of subsection 38-10(5) of the GST Act is met.
 Subsection 38-10(5) of GST Act also requires that the service be supplied 'in the course of the treatment of the recipient of the supply'.
 Where a patient is receiving ongoing medical treatment and as part of that ongoing treatment, the patient's medical practitioner considers it necessary for the patient to be monitored by means of a medical alert device, the service of monitoring the medical alert device is considered to be supplied 'in the course of the treatment of the recipient of the supply'.
 The individual's medical practitioner considers it necessary that the 'medical alert' device be installed within the individual's home as part of their ongoing treatment. Therefore, the second element of 38-10(5) of the GST Act is met.
-Accordingly, the entity is making a GST-free supply under subsection 38-10(5) of the GST Act when it supplies a service of monitoring a 'medical alert' device to a person whose medical practitioner considers it necessary that a medical alert device be installed in their home.
-
-[Note 1: Where a patient is not receiving ongoing medical treatment and has a medical alert device installed in their home for other reasons e.g., for peace of mind, the service of monitoring that medical alert device is not considered to be supplied 'in the course of the treatment'.
-
-Note 2: Services of advice, treatment and transport provided by the ambulance service as the result of activation of a medical alert are considered to be supplied 'in the course of the treatment' whether or not the device was installed as part of ongoing treatment or for other reasons.]
-
-Date of decision:
-  10 August 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 38-10(5)
-
-Keywords
-
-Goods and services tax
- GST free
- GST health
- Section 38-10 - other health services
-
-Siebel/TDMS Reference Number:
-  CW210700
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  31 May 2002
-
-ISSN:
- 1445-2782
+Accordingly, the entity is making a GST-free supply under subsection 38-10(5) of the GST Act when it supplies a service of monitoring a 'medical alert' device to a person whose medical practitioner considers it necessary that a medical alert device be installed in their home. [Note 1: Where a patient is not receiving ongoing medical treatment and has a medical alert device installed in their home for other reasons e.g., for peace of mind, the service of monitoring that medical alert device is not considered to be supplied 'in the course of the treatment'. Note 2: Services of advice, treatment and transport provided by the ambulance service as the result of activation of a medical alert are considered to be supplied 'in the course of the treatment' whether or not the device was installed as part of ongoing treatment or for other reasons.] Date of decision: 10 August 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 38-10(5) Keywords Goods and services tax GST free GST health Section 38-10 - other health services Siebel/TDMS Reference Number: CW210700 Business Line: Indirect Tax Date of publication: 31 May 2002 ISSN: 1445-2782

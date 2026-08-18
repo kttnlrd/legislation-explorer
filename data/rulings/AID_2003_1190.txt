@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1190
-==================================================
-
-Income Tax
- Capital gains tax: business succession agreement - put and call options - CGT event D2
- FOI status: may be released
-
-This ATO interpretative Decision has been amended to insert an explanatory note at the conclusion of Reason for decision.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: business succession agreement - put and call options - CGT event D2 FOI status: may be released This ATO interpretative Decision has been amended to insert an explanatory note at the conclusion of Reason for decision. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does CGT event D2 (section 104-40 of the Income Tax Assessment Act 1997 (ITAA 1997)) happen when options are granted under a business succession agreement, where the options will only be legally enforceable on the death or disablement of one of the shareholders?
 Decision
 CGT event D2 does not occur at the time the agreement is entered into, but when the condition precedent to the grant (death or disablement of one of the shareholders) occurs.
@@ -23,68 +10,10 @@ Shareholders in a private company enter into a buy - sell (business succession) 
 Under the agreement, put and call options are granted by each shareholder to the other shareholders to be effective in the event of the death or disablement of any of the shareholders. The options cannot be assigned.
 The agreement provides that upon the death or disability of one of the shareholders, the remaining shareholders acquire a call option to purchase the shares of the shareholder who suffers death or disablement. Similarly, the executor for the estate of the deceased shareholder or the disabled shareholder acquires a put option, entitling the executor (or shareholder) to require the other shareholders to purchase the disabled or deceased shareholder's shares.
 Reasons for Decision
-Section 104-40 of the ITAA 1997 states that a CGT event D2 occurs when an option is granted, renewed or extended. The legislation does not give a definition of 'option'. In Federal Commissioner of Taxation v. Guy (1996) 67 FCR 68; 96 ATC 4520; (1996) 32 ATR 601, the Federal Court defined option to mean:
-
-The word 'option' itself suggests a right in one party to unilaterally require another party to enter a new set of jural relations or to extend or continue an existing jural relationship. Put and call options, options to purchase and options to renew leases are, perhaps, the most common illustrations.
-
-A 'call option' gives a person the right to acquire an asset from the person granting the right at some specified time and usually at a predetermined price.
+Section 104-40 of the ITAA 1997 states that a CGT event D2 occurs when an option is granted, renewed or extended. The legislation does not give a definition of 'option'. In Federal Commissioner of Taxation v. Guy (1996) 67 FCR 68; 96 ATC 4520; (1996) 32 ATR 601, the Federal Court defined option to mean: The word 'option' itself suggests a right in one party to unilaterally require another party to enter a new set of jural relations or to extend or continue an existing jural relationship. Put and call options, options to purchase and options to renew leases are, perhaps, the most common illustrations. A 'call option' gives a person the right to acquire an asset from the person granting the right at some specified time and usually at a predetermined price.
 A 'put option' gives a person granted the option the right to require the grantor of the option to acquire an asset from the grantee at some specified time and usually for a predetermined price.
 Under the buy-sell agreement, put and call options are granted to the parties to the agreement. When these are exercised they will create a legally binding contract to buy and sell shares.
 However the granting of the options may not occur at the time of entering into the agreement if there is a specified condition in the agreement that is yet to occur. In this case it was necessary for the death or disability of a major shareholder to occur before the remaining major shareholders obtained legally enforceable options. The buy -sell agreement is a contract with a condition precedent and cannot proceed until that condition is fulfilled. It is necessary to distinguish between a condition precedent to the performance of the contract and a condition precedent to the formation of the contract as this determines the timing of the D2 event and the subsequent transfer of the shares.
-As Gibbs CJ noted in Perri v. Coolangatta Investments Pty Ltd (1982) 149 CLR 537
-
- ... It has sometimes proved difficult to decide whether a particular condition of a contract should be classified as a condition precedent or a condition subsequent, ... . However, provided the effect of the condition is clearly understood, its classification may be merely a matter of words. ...
-
-And later
-
-In Zieme v. Gregory [1963] V.R. 214, and Tait v. Bonnice [1975] V.R. 102 conditions making the contract conditional upon the purchaser containing a loan were held to be conditions subsequent, whereas in Scott v. Rania [1966] N.Z.L.R. a similar condition was held to be a condition precedent to the formation of a binding contract.
-
-See also Kiwi Brands Pty Ltd v. Commissioner of Taxation (Cth) 97 ATC 4879; (1997) 37 ATR 25.
+As Gibbs CJ noted in Perri v. Coolangatta Investments Pty Ltd (1982) 149 CLR 537 ... It has sometimes proved difficult to decide whether a particular condition of a contract should be classified as a condition precedent or a condition subsequent, ... . However, provided the effect of the condition is clearly understood, its classification may be merely a matter of words. ... And later In Zieme v. Gregory [1963] V.R. 214, and Tait v. Bonnice [1975] V.R. 102 conditions making the contract conditional upon the purchaser containing a loan were held to be conditions subsequent, whereas in Scott v. Rania [1966] N.Z.L.R. a similar condition was held to be a condition precedent to the formation of a binding contract. See also Kiwi Brands Pty Ltd v. Commissioner of Taxation (Cth) 97 ATC 4879; (1997) 37 ATR 25.
 Where it is evident from the terms of the agreement that the parties intend the arrangement to come into effect only at the time of the death or disablement of one of the shareholders, this will be a condition precedent to the formation of the option contract.
-It therefore follows that the CGT event D2 does not occur at the time the buy - sell agreement is executed. The CGT event D2 happens when one of the major shareholders dies or becomes permanently disabled.
-
-Note
-
-The decision in Federal Commissioner of Taxation v. Guy (1996) 67 FCR 68, 96 ATC 4520; (1996) 32 ATR 601, was subsequently declared by the Federal Court of Australia to be wrong in Brooks v Federal Commissioner of Taxation [2000] FCA 721, (2000) 2000 ATC 4362; (2000) 44 ATR 352; (2000) 173 ALR 235; (2000) 100 FCR 117; [2001] NSW ConvR 55-955. However the court did not further consider the definition of 'option'.
-
-Date of decision:
-  30 June 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-40
-
-Case References:
-
-Brooks v Federal Commissioner of Taxation   [2000] FCA 721   (2000) 2000 ATC 4362   (2000) 44 ATR 352   (2000) 173 ALR 235   (2000) 100 FCR 117   [2001] NSW ConvR 55-955
-
-Federal Commissioner of Taxation v. Guy   (1996) 67 FCR 68   96 ATC 4520   (1996) 32 ATR 590
-
-Kiwi Brands Pty Ltd v. Commissioner of Taxation (Cth)    (1997) 97 ATC 4879   (1997) 37 ATR 25
-
-Perri v. Coolangatta Investments Pty Ltd    (1982) 149 CLR 537
-
-Keywords
-
-Accident & disability insurance
- Call options
- CGT events
- Life insurance policies
- Private companies
- Put options
- Shareholders
-
-Siebel/TDMS Reference Number:
-  3111039
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 December 2003
-
-ISSN:
- 1445-2782
+It therefore follows that the CGT event D2 does not occur at the time the buy - sell agreement is executed. The CGT event D2 happens when one of the major shareholders dies or becomes permanently disabled. Note The decision in Federal Commissioner of Taxation v. Guy (1996) 67 FCR 68, 96 ATC 4520; (1996) 32 ATR 601, was subsequently declared by the Federal Court of Australia to be wrong in Brooks v Federal Commissioner of Taxation [2000] FCA 721, (2000) 2000 ATC 4362; (2000) 44 ATR 352; (2000) 173 ALR 235; (2000) 100 FCR 117; [2001] NSW ConvR 55-955. However the court did not further consider the definition of 'option'. Date of decision: 30 June 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 104-40 Case References: Brooks v Federal Commissioner of Taxation [2000] FCA 721 (2000) 2000 ATC 4362 (2000) 44 ATR 352 (2000) 173 ALR 235 (2000) 100 FCR 117 [2001] NSW ConvR 55-955 Federal Commissioner of Taxation v. Guy (1996) 67 FCR 68 96 ATC 4520 (1996) 32 ATR 590 Kiwi Brands Pty Ltd v. Commissioner of Taxation (Cth) (1997) 97 ATC 4879 (1997) 37 ATR 25 Perri v. Coolangatta Investments Pty Ltd (1982) 149 CLR 537 Keywords Accident & disability insurance Call options CGT events Life insurance policies Private companies Put options Shareholders Siebel/TDMS Reference Number: 3111039 Business Line: Public Groups and International Date of publication: 24 December 2003 ISSN: 1445-2782

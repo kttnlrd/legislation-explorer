@@ -1,28 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2003/1120
-==================================================
-
-Goods and Services Tax
- GST and establishment fee for hire purchase agreement
- FOI status: may be released
-
-The ATO view for this issue is covered in Goods and Services Tax Ruling GSTR 2002/2(line C25).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is the entity, a business operator, entitled to an input tax credit under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it pays an establishment fee for a hire purchase agreement where:
-
-• the credit component is separately identified, and
-• the fee is included in the amount financed?
-
-Decision
+================================================== Goods and Services Tax GST and establishment fee for hire purchase agreement FOI status: may be released The ATO view for this issue is covered in Goods and Services Tax Ruling GSTR 2002/2(line C25). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is the entity, a business operator, entitled to an input tax credit under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it pays an establishment fee for a hire purchase agreement where: • the credit component is separately identified, and
+• the fee is included in the amount financed? Decision
 No, the entity is not entitled to an input tax credit under section 11-20 of the GST Act when it pays an establishment fee for a hire purchase agreement as the fee is for an input taxed financial supply.
 Facts
 The entity is a business operator. The entity entered into a hire purchase agreement with a financier to purchase a motor vehicle for business purposes. The entity is registered for goods and services tax (GST).
@@ -34,25 +15,11 @@ Section 11-20 of the GST Act provides that an entity is entitled to an input tax
 Section 11-5 of the GST Act lists the requirements that must be satisfied for an entity to make a creditable acquisition. One of the requirements is that the supply to the entity must be a taxable supply (paragraph 11-5(b) of the GST Act).
 The entity entered into a hire purchase agreement. Where certain conditions are met a hire purchase agreement can consist of more than one type of supply, the taxable supply of the goods and the input taxed financial supply of the credit given under the agreement. Therefore, it needs to be determined if the establishment fee is payment for an input taxed financial supply.
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that financial supply has the meaning given by the GST Regulations.
-Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if:
-
-(a) the provision, acquisition or disposal of that interest is:
-
-• for consideration
+Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if: (a) the provision, acquisition or disposal of that interest is: • for consideration
 • in the course or furtherance of an enterprise
-• connected with Australia, and
-
-(b) the supplier:
-
-• is registered or required to be registered for GST, and
-• is a financial supply provider in relation to a supply of the interest.
-
-Item 8 of subregulation 40-5.09(3) of the GST Regulations (Item 8), lists credit under a hire purchase agreement in relation to goods if:
-
-• the credit for the goods is provided for a separate charge, and
-• the charge is disclosed to the recipient of the goods.
-
-The hire purchase agreement between the financier and the entity is in relation to the purchase of a motor vehicle. The credit component of the hire purchase agreement is provided for a separate charge and is disclosed on the hire purchase agreement separately to the principal component. As such, the credit component of the hire purchase agreement satisfies the requirements of Item 8. Therefore, the financier's supply of the credit component of the hire purchase agreement is the supply of an interest in an item mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations.
+• connected with Australia, and (b) the supplier: • is registered or required to be registered for GST, and
+• is a financial supply provider in relation to a supply of the interest. Item 8 of subregulation 40-5.09(3) of the GST Regulations (Item 8), lists credit under a hire purchase agreement in relation to goods if: • the credit for the goods is provided for a separate charge, and
+• the charge is disclosed to the recipient of the goods. The hire purchase agreement between the financier and the entity is in relation to the purchase of a motor vehicle. The credit component of the hire purchase agreement is provided for a separate charge and is disclosed on the hire purchase agreement separately to the principal component. As such, the credit component of the hire purchase agreement satisfies the requirements of Item 8. Therefore, the financier's supply of the credit component of the hire purchase agreement is the supply of an interest in an item mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations.
 The consideration for the interest in the credit component is expressed as the interest and associated fees (establishment and administration fees). The establishment fee is part of the consideration for the credit component of the hire purchase agreement. It does not matter that the credit component does not separately itemise the establishment fee, or that the establishment fee is included in the amount financed. Therefore, the supply of the interest in or under the credit component of the hire purchase agreement is made for consideration which includes the establishment fee.
 The supply of the interest in or under the credit component of the hire purchase agreement is made in the course or furtherance of the financier's enterprise and is connected with Australia. The financier is registered for GST and is a financial supply provider in relation to the supply.
 The supply of the interest in or under the credit component of the hire purchase agreement satisfies all the requirements for a financial supply as defined in subregulation 40-5.09(1) of the GST Regulations and is not excluded from being a financial supply by regulation 40-5.12 of the GST Regulations. Therefore, the supply of an interest in or under the credit component of the hire purchase agreement is an input taxed financial supply and as such the supply to the entity was not a taxable supply.
@@ -60,45 +27,7 @@ Accordingly, as the establishment fee is consideration for the input taxed finan
 The entity is not entitled to an input tax credit under section 11-20 of the GST Act when it pays an establishment fee for a hire purchase agreement where the credit component is separately identified and the fee is included in the amount financed.
 Note 1: The principle component of the hire purchase agreement is not an input taxed financial supply and therefore, an entity would be entitled to claim an input tax credit for this component where the requirements of section 11-5 of the GST Act are satisfied.
 Note 2: Where the credit component is not separately provided for, and is not disclosed to the recipient of the goods, the credit component does not meet the requirements of an input taxed financial supply. Therefore, the entire supply, both the principal and credit components would be taxable where the requirements in section 9-5 of the GST Act are satisfied.
-Date of decision:
-  12 July 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 11-5   paragraph 11-5(b)   section 11-20   subsection 40-5(1)   subsection 40-5(2)
-A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(4)   subregulation 40-5.09(3) table item 8   regulation 40-5.12
-
-Keywords
-
-Goods and services tax
- GST input tax credits & creditable acquisitions
- GST supplies & acquisitions
- Creditable acquisition
- Input taxed supplies
- GST financial supplies
- GST hire purchase
-
-Business Line:
-  GST
-
-Date of publication:
-  12 December 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 July 2002
-Original statement
-
-You are here
- 9 December 2005
+Date of decision: 12 July 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 11-5 paragraph 11-5(b) section 11-20 subsection 40-5(1) subsection 40-5(2)
+A New Tax System (Goods and Services Tax) Regulations 1999 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(4) subregulation 40-5.09(3) table item 8 regulation 40-5.12 Keywords Goods and services tax GST input tax credits & creditable acquisitions GST supplies & acquisitions Creditable acquisition Input taxed supplies GST financial supplies GST hire purchase Business Line: GST Date of publication: 12 December 2003 ISSN: 1445-2782 history Date: Version: 12 July 2002
+Original statement You are here 9 December 2005
 Archived

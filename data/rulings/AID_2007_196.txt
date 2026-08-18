@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/196
-==================================================
-
-Income Tax
- Foreign exchange losses: loss incurred upon closing forward contract
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign exchange losses: loss incurred upon closing forward contract FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a loss that is incurred by an ADI (authorised deposit-taking institution) upon the close of a foreign currency forward contract entered into in relation to an amount of forecast earnings of a foreign subsidiary, be deductible under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. A loss incurred by an ADI upon the close of a foreign currency forward contract entered into in relation to an amount of forecast earnings of a foreign subsidiary, can be deductible under section 8-1 of the ITAA 1997.
@@ -32,52 +19,10 @@ Section 775-170 of the ITAA 1997 specifically exempts an ADI from the operation 
 Section 8-1 of the ITAA 1997 allows a deduction for losses or outgoings to the extent that they are incurred in gaining or producing assessable income or are necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income. However, paragraph 8-1(2)(c) of the ITAA 1997 denies a deduction for a loss or outgoing to the extent that it is incurred in relation to the gaining or producing of NANE income.
 Section 8-1 of the ITAA 1997 requires an identification of the income producing activities of the taxpayer with which the hedging loss might be connected. In this case, it is the entry into the forward contracts (themselves capable of yielding assessable income) and the activities that give rise to NANE dividends.
 As a general proposition, whether a loss or outgoing is incurred in gaining or producing assessable income will depend upon it being incidental and relevant to the income-producing activity of the taxpayer - see, for example, Ronpibon Tin NL and Tongkah Compound NL v. Federal Commissioner of Taxation (1949) 78 CLR 47; (1949) 4 AITR 236; (1949) 8 ATD 431 (Ronpibon Tin).
-In Ronpibon Tin, the High Court stated that 'the words "incurred in gaining or producing the assessable income" mean in the course of gaining or producing such income.' And further:
-
-... to come within the initial part of the sub-section it is both sufficient and necessary that the occasion of the loss or outgoing should be found in whatever is productive of the assessable income or, if none be produced, would be expected to produce assessable income.
-
-The question of whether or not a particular loss satisfies the positive limb of section 8-1 of the ITAA 1997 is a question of fact and degree. In Charles Moore & Co (WA) Pty Ltd v. Federal Commissioner of Taxation (1956) 95 CLR 344; (1956) 6 AITR 379; (1956) 11 ATD 147, the High Court explained that in deciding whether or not a loss was incidental and relevant to an income-producing activity it is necessary to look at its 'connection with the operations which more directly gain or produce the assessable income.'
+In Ronpibon Tin, the High Court stated that 'the words "incurred in gaining or producing the assessable income" mean in the course of gaining or producing such income.' And further: ... to come within the initial part of the sub-section it is both sufficient and necessary that the occasion of the loss or outgoing should be found in whatever is productive of the assessable income or, if none be produced, would be expected to produce assessable income. The question of whether or not a particular loss satisfies the positive limb of section 8-1 of the ITAA 1997 is a question of fact and degree. In Charles Moore & Co (WA) Pty Ltd v. Federal Commissioner of Taxation (1956) 95 CLR 344; (1956) 6 AITR 379; (1956) 11 ATD 147, the High Court explained that in deciding whether or not a loss was incidental and relevant to an income-producing activity it is necessary to look at its 'connection with the operations which more directly gain or produce the assessable income.'
 The purpose of entering into the contracts was to hedge the translation of foreign currency denominated revenue where there was a risk of lower reported A$ income. This risk arose from the possibility that the foreign currency would not remain strong in relation to the A$ during the earnings period.
 Each forward contract was capable of producing a gain or a loss. The occasion for the loss was the entry into a contract that was expected to produce a gain that would be included in the assessable income of the taxpayer. The entry into the forward contracts themselves is the income producing activity with which the hedging loss finds a direct connection.
 Although the entry into the contracts took place against the background of a subsidiary carrying on activities that produce earnings that might eventually be received as NANE income by the taxpayer, they were not entered into in respect of known or expected dividends. They were entered into in respect of a proportion of forecast earnings of Company A and do not bear any real relationship to the dividends ultimately received from those operations.
 In these circumstances, the connection that the losses have with the operations that more directly produce the NANE income is too remote to come within paragraph 8-1(2)(c) of the ITAA 1997.
 The losses are wholly deductible under section 8-1 of the ITAA 1997.
-Date of decision:
-  7 September 2007
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1   paragraph 8-1(2)(c)   section 775-170
-
-Case References:
-
-Ronpibon Tin NL and Tongkah Compound NL v. Federal Commissioner of Taxation   (1949) 78 CLR 47   (1949) 4 AITR 236
-
-Charles Moore & Co (WA) Pty Ltd v. Federal Commissioner of Taxation   (1956) 95 CLR 344   (1956) 6 AITR 379   (1956) 11 ATD 147
-
-Keywords
-
-Currency hedging transactions
- Deductions & expenses
- Foreign currency
- Foreign exchange losses
- Forward sales
- Hedging
- Losses
- Non-assessable non-exempt income
- Producing assessable income
-
-Siebel/TDMS Reference Number:
-  5642284
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 November 2007
-
-ISSN:
- 1445-2782
+Date of decision: 7 September 2007 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1997 section 8-1 paragraph 8-1(2)(c) section 775-170 Case References: Ronpibon Tin NL and Tongkah Compound NL v. Federal Commissioner of Taxation (1949) 78 CLR 47 (1949) 4 AITR 236 Charles Moore & Co (WA) Pty Ltd v. Federal Commissioner of Taxation (1956) 95 CLR 344 (1956) 6 AITR 379 (1956) 11 ATD 147 Keywords Currency hedging transactions Deductions & expenses Foreign currency Foreign exchange losses Forward sales Hedging Losses Non-assessable non-exempt income Producing assessable income Siebel/TDMS Reference Number: 5642284 Business Line: Public Groups and International Date of publication: 2 November 2007 ISSN: 1445-2782

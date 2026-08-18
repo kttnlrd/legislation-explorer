@@ -1,111 +1,32 @@
 ATO Interpretative Decision
 ATO ID 2004/175
-==================================================
-
-Income Tax
- Non-resident borrowings: apportionment of interest deduction
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Non-resident borrowings: apportionment of interest deduction FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a non-resident taxpayer claim a deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for interest payments on a loan taken out to purchase units in Australian based unit trusts which have generated both assessable and non-assessable trust distributions?
 Decision
 Yes. Where a non-resident taxpayer has borrowed money to acquire units in Australian based unit trusts, the taxpayer is entitled to claim a deduction for only that amount of interest that can be attributed to the assessable income derived from Australian sources.
 Facts
 The taxpayer is a non-resident for taxation purposes.
 The taxpayer borrowed money to acquire units in two Australian based unit trusts.
-The taxpayer received distributions from the unit trusts comprising:
-
-• Australian franked dividends
+The taxpayer received distributions from the unit trusts comprising: • Australian franked dividends
 • Australian unfranked dividends on which withholding tax was paid
 • foreign income
 • Australian other income (non-primary production)
 • foreign capital gains, and
-• Australian capital gains.
-
-The Australian other income (non-primary production) is derived from sources within Australia and is not exempt income.
+• Australian capital gains. The Australian other income (non-primary production) is derived from sources within Australia and is not exempt income.
 Reasons for Decision
 Section 8-1 of the ITAA 1997 allows a deduction for all losses and outgoings to the extent to which they are incurred in gaining or producing assessable income. However a loss or outgoing is not deductible to the extent that it is capital, or of a capital, private or domestic nature, or related to the earning of exempt income.
 The deductibility of interest on a loan is determined by looking at the use to which the borrowed funds were put. Where the funds were used to purchase an income producing asset, interest on the loan would normally be allowable as an income tax deduction under the general provisions of section 8-1 of the ITAA 1997.
 Taxation Ruling IT 2684 considers the deductibility of interest on money borrowed used to acquire units in a property unit trust. At paragraph 7 of IT 2684 it is stated that 'an interest expense is apportionable if the money is borrowed for the purpose of, or applied in, producing both assessable and non-assessable income, rather than producing only assessable income'. Where apportionment is required, paragraph 8 of IT 2684 provides that interest is deductible in the same ratio as the assessable income component of any distributions for the particular income year bears to the total distributions.
 In this situation, not all of the income received from the unit trust distributions constitutes assessable income. The foreign income, foreign capital gains, Australian franked dividends and the unfranked dividends upon which withholding tax was paid, have not been included in the non-resident's assessable income (by virtue of their non-resident status). As a result, only that portion of the loan interest expense that relates to the assessable unit trust distributions constitutes an allowable deduction under section 8-1 of the ITAA 1997.
-In applying IT 2684, the amount of interest for which a deduction can be claimed is calculated in accordance with the following formula:
-
-[(total assessable income) / (total distribution received)] x total interest payments.
-
-where:
-
-• the total assessable income comprises the Australian other income (non primary production) and the Australian capital gains; and
-• the total distribution received comprises the Australian franked dividends, the Australian unfranked dividends upon which withholding tax has been paid, the foreign income, the Australian other income (non-primary production), the foreign capital gains, and the Australian capital gains.
-
-Amendment History
-
-Date of Amendment
+In applying IT 2684, the amount of interest for which a deduction can be claimed is calculated in accordance with the following formula: [(total assessable income) / (total distribution received)] x total interest payments. where: • the total assessable income comprises the Australian other income (non primary production) and the Australian capital gains; and
+• the total distribution received comprises the Australian franked dividends, the Australian unfranked dividends upon which withholding tax has been paid, the foreign income, the Australian other income (non-primary production), the foreign capital gains, and the Australian capital gains. Amendment History Date of Amendment
 Part
-Comment
-
-18 August 2017
+Comment 18 August 2017
 Related ATO Interpretative Decisions
-Remove listed ATO IDs as both have been withdrawn.
-
-Date reviewed
-Change from "18 August 2014" to "14 August 2017".
-
-Date of decision:
-  19 February 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 6-5(3)   section 6-20   section 8-1   section 136-10
-Income Tax Assessment Act 1936   section 128B   section 128D
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2684
-
-Keywords
-
-Deductions & expenses
- Interest expenses
- Non resident individuals
-
-Siebel/TDMS Reference Number:
-  3722634; 1-5QEO6X4
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  24 February 2004
-
-Date reviewed:
-  14 August 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 February 2004
-Original statement
-
-You are here
+Remove listed ATO IDs as both have been withdrawn. Date reviewed
+Change from "18 August 2014" to "14 August 2017". Date of decision: 19 February 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 subsection 6-5(3) section 6-20 section 8-1 section 136-10
+Income Tax Assessment Act 1936 section 128B section 128D Related Public Rulings (including Determinations) Taxation Ruling IT 2684 Keywords Deductions & expenses Interest expenses Non resident individuals Siebel/TDMS Reference Number: 3722634; 1-5QEO6X4 Business Line: Private Groups and High Wealth Individuals Date of publication: 24 February 2004 Date reviewed: 14 August 2017 ISSN: 1445-2782 history Date: Version: 19 February 2004
+Original statement You are here
 18 August 2017
 Updated statement

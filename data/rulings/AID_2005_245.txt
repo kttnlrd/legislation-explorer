@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/245
-==================================================
-
-Income tax
- CGT small business concessions: retirement exemption - eligible termination payment (ETP) - whether ETP is a distribution to a beneficiary
- FOI status: may be released
-
-This ATO ID is withdrawn as the ATO view on this matter is now reflected in Draft Taxation Determination 2006/D26.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax CGT small business concessions: retirement exemption - eligible termination payment (ETP) - whether ETP is a distribution to a beneficiary FOI status: may be released This ATO ID is withdrawn as the ATO view on this matter is now reflected in Draft Taxation Determination 2006/D26. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the transfer of funds from a discretionary trust to a superannuation fund for the benefit of an employee, who is also a beneficiary of the discretionary trust, considered to be a 'distribution' received by the beneficiary, for the purposes of the controlling individual test in section 152-50 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. As the transfer of funds is a payment that is made to the person in their capacity as an employee, and not in their capacity as a beneficiary, the amount is not a distribution received by the beneficiary for the purposes of the controlling individual test in section 152-50 of the ITAA 1997.
@@ -24,74 +9,15 @@ Facts
 A discretionary trust made an ETP to a superannuation fund for the benefit of an employee who is also a beneficiary of the discretionary trust. During that income year, there was no distribution of income or capital to any of the beneficiaries of the discretionary trust.
 The discretionary trust wishes to access the small business retirement exemption (SBRE) in Subdivision 152-D of the ITAA 1997 in respect of the ETP paid to the superannuation fund.
 Reasons for Decision
-One of the tests a discretionary trust must satisfy to access the SBRE is the controlling individual test in section 152-50 of the ITAA 1997. The controlling individual test requires the entity to have a controlling individual just before the CGT event. This requirement is set out in subsection 152-55(3) of the ITAA 1997, which provides:
-
-An individual is a
- controlling individual
- of a trust (where entities do not have entitlements to all the income and capital of the trust) at a time if, during the income year in which the time occurs:
-
-(a)the trust made a distribution of income or capital, or both: and...
-
-The term 'distribution' is not a defined term under section 995-1 of the ITAA 1997 or section 6 of the Income Tax Assessment Act 1936 (ITAA 1936).
-However, section 272-45 in Schedule 2F of the ITAA 1936 states:
-
-A trust distributes income or capital of the trust to a person if it:
-
-(a)pays or credits the income or capital in the form of money to the person; or
+One of the tests a discretionary trust must satisfy to access the SBRE is the controlling individual test in section 152-50 of the ITAA 1997. The controlling individual test requires the entity to have a controlling individual just before the CGT event. This requirement is set out in subsection 152-55(3) of the ITAA 1997, which provides: An individual is a controlling individual of a trust (where entities do not have entitlements to all the income and capital of the trust) at a time if, during the income year in which the time occurs: (a)the trust made a distribution of income or capital, or both: and... The term 'distribution' is not a defined term under section 995-1 of the ITAA 1997 or section 6 of the Income Tax Assessment Act 1936 (ITAA 1936).
+However, section 272-45 in Schedule 2F of the ITAA 1936 states: A trust distributes income or capital of the trust to a person if it: (a)pays or credits the income or capital in the form of money to the person; or
 (b)transfers the income or capital in the form of property to the person; or
 (c)reinvests or otherwise deals with the income or capital on behalf of the person or in accordance with the directions of the person; or
-(d)applies the income or capital for the benefit of the person;
-
-in the person's capacity as a beneficiary of the trust.
-
-Given the context of these provisions, it is appropriate to adopt similar reasoning in considering the meaning of the term 'distribution' in applying the controlling individual test as set out in section 152-55 of the ITAA 1997.
+(d)applies the income or capital for the benefit of the person; in the person's capacity as a beneficiary of the trust. Given the context of these provisions, it is appropriate to adopt similar reasoning in considering the meaning of the term 'distribution' in applying the controlling individual test as set out in section 152-55 of the ITAA 1997.
 For the transfer of funds made to the superannuation fund to be considered to be a distribution to the beneficiary, the payment must therefore be made 'in the person's capacity as a beneficiary of the trust'. However, the transfer of money to the superannuation fund was made for the benefit of an employee of the trust, rather than to a beneficiary of the trust, and was made to satisfy the requirements of the ETP legislation. Therefore, the transfer of funds to the superannuation fund is not a distribution to the beneficiary.
 As the discretionary trust did not make any distribution of income or capital in the year in which the CGT event happened, the trust fails the controlling individual test, and cannot access the SBRE.
-Date of decision:
-  19 August 2005
-
-Year of income:
-  Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 6   section 272-45
-Income Tax Assessment Act 1997   Subdivision 152-D   section 152-50   section 152-55   subsection 152-55(3)   section 995-1
-
-Keywords
-
-Basic conditions for relief
- CGT retirement exemption
- CGT small business relief
- CGT trust distributions
- Controlling individual
- Controlling individual test
- Distribution
- Eligible termination payments
- Small business retirement exemption
- Trust distributions
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  26 August 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 August 2005
-Original statement
-
-You are here
+Date of decision: 19 August 2005 Year of income: Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 6 section 272-45
+Income Tax Assessment Act 1997 Subdivision 152-D section 152-50 section 152-55 subsection 152-55(3) section 995-1 Keywords Basic conditions for relief CGT retirement exemption CGT small business relief CGT trust distributions Controlling individual Controlling individual test Distribution Eligible termination payments Small business retirement exemption Trust distributions Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 26 August 2005 ISSN: 1445-2782 history Date: Version: 19 August 2005
+Original statement You are here
 16 June 2006
 Archived

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/700
-==================================================
-
-Income tax
- Capital gains tax: Financial services reform regime - old licence rollover - new owner - discretionary trust
- FOI status: may be released
-
-This ATO ID is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital gains tax: Financial services reform regime - old licence rollover - new owner - discretionary trust FOI status: may be released This ATO ID is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, a financial service provider, eligible for rollover relief under section 124-915 of the Income Tax Assessment Act 1997 (ITAA 1997) when the taxpayer's old licence is replaced with the Australian financial services licence (AFS licence) acquired by a discretionary trust when the taxpayer moved to the financial services reform (FSR) regime?
 Decision
 No. The taxpayer is not eligible for the rollover relief provided by section 124-915 of the ITAA 1997 when the taxpayer's old licence is replaced with the AFS licence acquired by a discretionary trust.
@@ -28,71 +13,11 @@ The taxpayer's old licence ceased to have effect when the AFS licence was grante
 Reasons for Decision
 CGT event C2, section 104-25 of the ITAA 1997, happened when the taxpayer's old licence ceased to have effect when the AFS licence was granted to the trustee.
 Section 124-900 of the ITAA 1997 specifies the conditions to be satisfied for a taxpayer to be entitled to the rollover relief. Subparagraph 124-900(3)(a)(ii) of the ITAA 1997 requires that, where the new owner of the AFS licence is a trust, CGT event E4 (capital payments for trust interest), in section 104-70 of the ITAA 1997, must be capable of applying to all of the units and interests in a trust.
-A beneficiary with only a discretionary interest in a trust does not own an interest of the nature or character referred to in subparagraph 124-900(3)(a)(ii) and section 104-70 of the ITAA 1997. Therefore, CGT event E4 cannot apply to an interest in a trust where a beneficiary has only a discretionary income or capital entitlement. As a result, the condition at subparagraph 124-900(3)(a)(ii) of the ITAA 1997 will not be satisfied and the taxpayer will not be eligible for the rollover relief under section 124-915 of the ITAA 1997.
-
-Note: Where the new owner of an AFS licence is a discretionary trust, both the original owner and the discretionary trust will not qualify for the new owner rollover relief under any of the following subparagraphs of the ITAA 1997:
-
-•subparagraph 124-900(3)(a)(ii), old licence rollover;
+A beneficiary with only a discretionary interest in a trust does not own an interest of the nature or character referred to in subparagraph 124-900(3)(a)(ii) and section 104-70 of the ITAA 1997. Therefore, CGT event E4 cannot apply to an interest in a trust where a beneficiary has only a discretionary income or capital entitlement. As a result, the condition at subparagraph 124-900(3)(a)(ii) of the ITAA 1997 will not be satisfied and the taxpayer will not be eligible for the rollover relief under section 124-915 of the ITAA 1997. Note: Where the new owner of an AFS licence is a discretionary trust, both the original owner and the discretionary trust will not qualify for the new owner rollover relief under any of the following subparagraphs of the ITAA 1997: •subparagraph 124-900(3)(a)(ii), old licence rollover;
 •subparagraph 124-905(3)(a)(ii), qualified licence rollover; or
-•subparagraph 124-910(3)(a)(ii), rights rollover.
-
-Date of decision:
-  9 August 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-25   section 104-70   section 124-900   subparagraph 124-900(3)(a)(ii)   subparagraph 124-905(3)(a)(ii)   subparagraph 124-910(3)(a)(ii)   section 124-915
-Corporations Act 2001   section 1430
-Financial Services Reform Act 2001   The Act
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/576
- ATO ID 2004/577
- ATO ID 2004/578
-
-Keywords
-
-Australian financial services licence
- Authorised representative
- Capital gains tax
- CGT events C1-C3 - end of a CGT asset
- CGT events E1-E9 - trusts
- Discretionary trusts
- Financial services reform regime
- Financial services reform roll-over
- FSR original asset
- FSR regime
- New owner roll-over
- Old licence roll-over
- Qualified licence roll-over
- Regulated principal
- Rights roll-over
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  27 August 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 August 2004
-Original statement
-
-You are here
+•subparagraph 124-910(3)(a)(ii), rights rollover. Date of decision: 9 August 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 104-25 section 104-70 section 124-900 subparagraph 124-900(3)(a)(ii) subparagraph 124-905(3)(a)(ii) subparagraph 124-910(3)(a)(ii) section 124-915
+Corporations Act 2001 section 1430
+Financial Services Reform Act 2001 The Act Related ATO Interpretative Decisions ATO ID 2004/576 ATO ID 2004/577 ATO ID 2004/578 Keywords Australian financial services licence Authorised representative Capital gains tax CGT events C1-C3 - end of a CGT asset CGT events E1-E9 - trusts Discretionary trusts Financial services reform regime Financial services reform roll-over FSR original asset FSR regime New owner roll-over Old licence roll-over Qualified licence roll-over Regulated principal Rights roll-over Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 27 August 2004 ISSN: 1445-2782 history Date: Version: 9 August 2004
+Original statement You are here
 26 August 2005
 Archived

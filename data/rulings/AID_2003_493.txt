@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/493
-==================================================
-
-Income Tax
- Meaning of tax loss: 'Saving Rule'- Part of tax loss deducted in an earlier income year
- FOI status: may be released
-
-This ATO ID has been amended to clarify legislative changes repealed by the Tax Laws Amendment (2007 Measures No 4) Act of 2007 with effect from 24 September 2007
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Meaning of tax loss: 'Saving Rule'- Part of tax loss deducted in an earlier income year FOI status: may be released This ATO ID has been amended to clarify legislative changes repealed by the Tax Laws Amendment (2007 Measures No 4) Act of 2007 with effect from 24 September 2007 CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a loss company seeks to deduct the undeducted amount of a tax loss, is the relevant 'tax loss' for the purposes of subsection 165-12(7) of the Income Tax Assessment Act 1997 (ITAA 1997) that undeducted amount?
 Decision
 No. In satisfying the 'less than 50% of the tax loss' requirement in subsection 165-12(7) of the ITAA 1997, the relevant tax loss is the loss company's tax loss as calculated under section 36-10 of the ITAA 1997 and not any lesser undeducted amount thereof.
@@ -23,36 +10,6 @@ In the relevant loss year, Loss Company incurred a tax loss of $100 under sectio
 In the first succeeding income year after the loss year, Loss Company was able to deduct $60 of the $100 tax loss amount carried forward.
 In the second succeeding income year after the loss year, Loss Company was not able to satisfy the conditions in subsections 165-12(2), 165-12(3) and 165-12(4) of the ITAA 1997 due to the operation of the 'same share same interest rule' in section 165-165 of the ITAA 1997. Loss company was able to deduct the undeducted tax loss amount of $40 carried forward if the requirements of subsection 165-12(7) of the ITAA 1997 (the 'saving rule') were met, enabling the conditions in subsections 165-12(2), 165-12(3) and 165-12(4) of the ITAA 1997 to be treated as having been satisfied.
 Reasons for Decision
-Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied, only because of the operation of section 165-165 of the ITAA 1997 that the condition can be taken as being satisfied where:
-
-the company has information from which it would be reasonable to conclude that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct interests or *indirect equity interests in the company during the *ownership test period.
-
-* denotes a term defined in subsection 995-1(1) of the ITAA 1997
-
-In satisfying the 'less than 50% of the tax loss' requirement in subsection 165-12(7) of the ITAA 1997, the relevant tax loss is the Loss Company's tax loss as calculated under section 36-10 of the ITAA 1997, that is $100, and not the undeducted $40 amount thereof.
+Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied, only because of the operation of section 165-165 of the ITAA 1997 that the condition can be taken as being satisfied where: the company has information from which it would be reasonable to conclude that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct interests or *indirect equity interests in the company during the *ownership test period. * denotes a term defined in subsection 995-1(1) of the ITAA 1997 In satisfying the 'less than 50% of the tax loss' requirement in subsection 165-12(7) of the ITAA 1997, the relevant tax loss is the Loss Company's tax loss as calculated under section 36-10 of the ITAA 1997, that is $100, and not the undeducted $40 amount thereof.
 [HISTORY: This ATOID has been amended to include the (*) asterisk in subsection 165-12(7) that is a minor amendment to the provisions providing useful interpretation with reference to direct equity interests and indirect equity interests by making them defined terms under subsection 995-1(1) of ITAA 1997 with effect from 24 September 2007.]
-Date of decision:
-  22 May 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 36-10   subsection 165-12(2)   subsection 165-12(3)   subsection 165-12(4)   subsection 165-12(7)   section 165-165   subsection 995-1(1)
-
-Keywords
-
-Company losses
-
-Siebel/TDMS Reference Number:
-  3573297
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  27 June 2003
-
-ISSN:
- 1445-2782
+Date of decision: 22 May 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 36-10 subsection 165-12(2) subsection 165-12(3) subsection 165-12(4) subsection 165-12(7) section 165-165 subsection 995-1(1) Keywords Company losses Siebel/TDMS Reference Number: 3573297 Business Line: Public Groups and International Date of publication: 27 June 2003 ISSN: 1445-2782

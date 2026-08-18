@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1154
-==================================================
-
-Income Tax
- Assessability of UK sourced income by a taxpayer with dual residency
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains references to the tax treaty between Australia and the United Kingdom that was replaced with a new tax treaty which is effective from 17 December 2003. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2003-04 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of UK sourced income by a taxpayer with dual residency FOI status: may be released This ATO ID is withdrawn because it contains references to the tax treaty between Australia and the United Kingdom that was replaced with a new tax treaty which is effective from 17 December 2003. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2003-04 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the business income derived by an individual taxpayer from the United Kingdom (UK) assessable under subsection 6-5(2) of the Income Tax Assessment Act 1997 (ITAA 1997) where the taxpayer is a dual resident?
 Decision
 No. The business income derived by the dual resident individual taxpayer from the UK is not assessable under subsection 6-5(2) of the ITAA 1997 as it is exempt from tax under Article 5(1) of Schedule 1 to the International Tax Agreements Act 1953 (the Agreements Act).
@@ -38,72 +23,17 @@ Subsection 6-5(2) of the ITAA 1997 provides that the assessable income of a resi
 In determining liability to tax on foreign sourced income received by the taxpayer, it is necessary to consider not only the income tax laws but also any applicable double tax agreement contained in the Agreements Act.
 Section 4 of the Agreements Act incorporates that Act with the ITAA 1997 so that those Acts are read as one. The Agreements Act effectively overrides the ITAA 1997 where there are inconsistent provisions (except for some limited provisions).
 Schedule 1 to the Agreements Act contains the double tax agreement between Australia and the United Kingdom of Great Britain and Northern Ireland (the UK Agreement). Schedule 1A of the Agreements Act contains the protocol amending the UK Agreement (the UK Protocol) The UK Agreement and the UK Protocol operate to avoid the double taxation of income received by Australian and UK residents.
-Article 3(2)(a) of the UK Agreement provides (under a tie-breaker test) that where the individual taxpayer is a resident of both UK and Australia, the taxpayer will be treated solely as a UK resident:
-
-(i) if the taxpayer has a permanent home available in the UK and has no permanent home available in Australia;
+Article 3(2)(a) of the UK Agreement provides (under a tie-breaker test) that where the individual taxpayer is a resident of both UK and Australia, the taxpayer will be treated solely as a UK resident: (i) if the taxpayer has a permanent home available in the UK and has no permanent home available in Australia;
 (ii) if (i) above is not applicable but the taxpayer has an habitual abode in the UK and has no habitual abode in Australia;
-(iii) if (i) or (ii) above are not applicable but the territory with which the taxpayer's personal and economic relations are closest is the UK.
-
-Paragraph 15 of the OECD Model Tax Convention on Income and on Capital has commentary on Article 3 which states that if an individual has a permanent home in both countries it is necessary to look at the facts to ascertain the closer personal and economic relations including family and social relations, occupation, political, cultural or other activities and place of business . The commentary takes the view that:
-
-If a person who has a home in one state sets up a second in the other state while retaining the first, the fact that he retains the first in the environment where he has always lived, where he has worked, and where he has his family and possessions, can, together with other elements, go to demonstrate that he has retained his centre of vital interests in the first state.
-
-As the taxpayer has a permanent home available at all times in UK and Australia, the first tie-breaker test in Article 3(2)(a) of the UK Agreement will not apply.
+(iii) if (i) or (ii) above are not applicable but the territory with which the taxpayer's personal and economic relations are closest is the UK. Paragraph 15 of the OECD Model Tax Convention on Income and on Capital has commentary on Article 3 which states that if an individual has a permanent home in both countries it is necessary to look at the facts to ascertain the closer personal and economic relations including family and social relations, occupation, political, cultural or other activities and place of business . The commentary takes the view that: If a person who has a home in one state sets up a second in the other state while retaining the first, the fact that he retains the first in the environment where he has always lived, where he has worked, and where he has his family and possessions, can, together with other elements, go to demonstrate that he has retained his centre of vital interests in the first state. As the taxpayer has a permanent home available at all times in UK and Australia, the first tie-breaker test in Article 3(2)(a) of the UK Agreement will not apply.
 The second tie-breaker test in Article 3(2)(a) of the UK Agreement will not apply having regard to the length of time spend in the UK and in Australia by the taxpayer, it cannot be definitively said that the taxpayer lived more frequently in one country than the other.
 The taxpayer's personal and economic relations are closest to the UK having regard to the taxpayer's family, social relations, occupation, other activities and place of business. Therefore, the taxpayer will be treated solely as a UK resident as the third tie-breaker test in Article 3(2)(a) of the UK Agreement applies.
 Article 5(1) of the UK Agreement provides that industrial or commercial profits of a UK enterprise will be exempt from tax in Australia unless the enterprise carries on trade or business in Australia through a permanent establishment. The term 'UK enterprise' is defined in Article 3(5) of the UK Agreement to mean an industrial or commercial enterprise or undertaking carried on by a UK resident. The term 'industrial or commercial profits' is defined in Article 5(7) of the UK Agreement to include income derived by an enterprise from the conduct of a trade or business.
 Paragraph 66 of Taxation Ruling TR 98/17 states where the tie-breaker tests in an agreement provide that a dual resident be treated solely as a resident of the treaty partner country for the purposes of the agreements, most foreign source income of that individual is not subject to tax in Australia, and the terms of the relevant double tax agreement should be referred to when determining tax liability of the individual taxpayer.
 As the taxpayer's business has no permanent establishment in Australia and the taxpayer is treated solely as a UK resident under Article 3(2)(a) of the UK Agreement, the profits of taxpayer's UK business will be exempt from tax in Australia under Article 5(1) of the UK Agreement.
 Accordingly, the business income derived by the individual taxpayer is not assessable under subsection 6-5(2) of the ITAA 1997.
-Date of decision:
-  30 July 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 6-5(2)
-International Tax Agreements Act 1953   section 4   Schedule 1   Schedule 1A   Schedule 1, Article 3(5)   Schedule 1, Article 3(2)(a)   Schedule 1, Article 5(1)   Schedule 1, Article 5(7)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/17
-
-Other References:
-
-OECD Model Tax Convention on Income and On Capital
-
-Keywords
-
-Double tax agreements
- Dual residence
- International tax
- Residence in Australia
- Resident/residency
- United Kingdom
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  19 December 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-30 July 2003
-Original statement
-
-You are here
+Date of decision: 30 July 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 subsection 6-5(2)
+International Tax Agreements Act 1953 section 4 Schedule 1 Schedule 1A Schedule 1, Article 3(5) Schedule 1, Article 3(2)(a) Schedule 1, Article 5(1) Schedule 1, Article 5(7) Related Public Rulings (including Determinations) Taxation Ruling TR 98/17 Other References: OECD Model Tax Convention on Income and On Capital Keywords Double tax agreements Dual residence International tax Residence in Australia Resident/residency United Kingdom Business Line: Public Groups and International Date of publication: 19 December 2003 ISSN: 1445-2782 history Date: Version: 30 July 2003
+Original statement You are here
 20 March 2008
 Archived

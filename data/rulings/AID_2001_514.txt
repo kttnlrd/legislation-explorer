@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/514
-==================================================
-
-Income Tax
- Income Tax: Capital Gains: Deceased Estates: Separate Assets
- FOI status: may be released
-
-The ATO ID is withdrawn as it is superseded by TD 96/18
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax: Capital Gains: Deceased Estates: Separate Assets FOI status: may be released The ATO ID is withdrawn as it is superseded by TD 96/18 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a taxpayer acquire two separate assets for the purposes of Part 3-1 and 3-3 of the Income Tax Assessment Act 1997 (ITAA 1997) when they inherit a building constructed after 20 September 1985 on land acquired prior to this date?
 Decision
 Yes, the taxpayer acquires two separate assets for the purposes of Part 3-1 and 3-3 of ITAA 1997 at the date of the deceased's death, but they are merged into a single asset immediately after acquisition.
@@ -29,47 +14,6 @@ Reasons for Decision
 Subsection 108-55(2) of the ITAA 1997 treats a building or structure that is constructed on pre-CGT land as a separate CGT asset, provided the contract for construction was entered into after that day or, if there is no contract, construction commenced after that day. In this case, the deceased acquired the land before 20 September 1985 and constructed a building on that land after that date. Consequently, the land and building are treated as separate CGT assets in the hands of the deceased.
 Subsection 128-15(2) of the ITAA 1997 deems the beneficiary to have acquired the land and building at the date of the deceased's death. According to the table in subsection 128-15(4) of the ITAA 1997, the cost base of the land will be its market value at the date of the deceased's death, and the cost base of the building will be its cost base in the hands of the deceased at the date of the deceased's death.
 However, subsection 108-55(2) of the ITAA 1997 cannot apply when the beneficiary disposes of the land and building. This is because the beneficiary is deemed to have acquired the land and building at the date of the deceased's death (that is, after 20 September 1985) and for CGT purposes, the assets acquired by the beneficiary are merged into a single CGT asset immediately after acquisition. Under subsection 112-25(4) of the ITAA 1997, each element of the cost base of the merged asset will be the sum of the corresponding elements of the cost base of each original asset. Therefore, the first element of the cost base of the single asset will be the sum of the market value of the land at the date of the deceased's death and the cost base of the building in the hands of the deceased at the date of the deceased's death.
-Date of decision:
-  9 January 2001
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 108-55(2)   subsection 112-25(4)   subsection 128-15(2)   subsection 128-15(4)
-
-Related Public Rulings (including Determinations)
-
-TD 96/18
-
-Keywords
-
-CGT separate assets
- CGT deceased estates
- CGT cost base modification - split, changed or merged asset rule
-
-Business Line:
-  CoE(CGT)
-
-Date of publication:
-  26 October 2001
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 January 2001
-Original statement
-
-You are here
- 5 April 2012
+Date of decision: 9 January 2001 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 subsection 108-55(2) subsection 112-25(4) subsection 128-15(2) subsection 128-15(4) Related Public Rulings (including Determinations) TD 96/18 Keywords CGT separate assets CGT deceased estates CGT cost base modification - split, changed or merged asset rule Business Line: CoE(CGT) Date of publication: 26 October 2001 ISSN: 1445-2782 history Date: Version: 9 January 2001
+Original statement You are here 5 April 2012
 Archived

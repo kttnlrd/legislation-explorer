@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/230
-==================================================
-
-Goods and Services Tax
- GST and tactile alerting tiles for the visually impaired
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and tactile alerting tiles for the visually impaired FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of tiles, making a GST-free supply under subsection 38-45(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies tactile alerting tiles that are designed to aid a person who is visually impaired?
 Decision
 Yes, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies tactile alerting tiles that are designed to aid a person who is visually impaired.
@@ -24,57 +13,18 @@ The tactile alerting tiles do not have an application other than to alert the vi
 There is no agreement between the entity and the recipient of the supply that the supply will not be treated as a GST-free supply.
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
-Under subsection 38-45(1) of the GST Act, the supply of a medical aid or appliance is GST-free where the medical aid or appliance:
-
-•is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations);
+Under subsection 38-45(1) of the GST Act, the supply of a medical aid or appliance is GST-free where the medical aid or appliance: •is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations);
 •is specifically designed for people with an illness or disability; and
-•is not widely used by people without an illness or disability.
-
-Item 151 in the table in Schedule 3 (Item 151) lists 'auditory/tactile alerting devices'. The phrase 'auditory/tactile alerting devices' is not defined in the GST Act.
+•is not widely used by people without an illness or disability. Item 151 in the table in Schedule 3 (Item 151) lists 'auditory/tactile alerting devices'. The phrase 'auditory/tactile alerting devices' is not defined in the GST Act.
 Accordingly, it is appropriate to examine the ordinary meaning of that phrase.
 The Macquarie Dictionary (1997) defines 'auditory' to mean 'relating to hearing, or the sense of hearing ...', 'tactile' to mean '1. of or relating to the organs or sense of touch. 2. perceptible to the touch...'; and 'alert' to mean '...4. an alarm or warning..'
 Accordingly, it is considered that an auditory/tactile alerting device is a device which is designed to alert a visually impaired person to a strong occurrence, danger or presence through the person's sense of touch or hearing.
 The tactile alerting tiles have a distinct raised surface and are used both inside and outside of buildings as tactile ground surface indicators. The tiles alert visually impaired people to potential hazards such as the presence of stairs or the need to change direction to avoid danger. Therefore, the tactile alerting tiles are considered a tactile alerting device and are covered by Item 151.
 The tactile alerting tiles are specifically designed for people with an illness or disability and are not widely used by people without an illness or disability. Accordingly, the supply meets the remaining requirements of subsection 38-45(1) of the GST Act.
 Therefore, the entity is making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies tactile alerting tiles that are designed to aid a person who is visually impaired.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-9 April 2019
+Comment 9 April 2019
 Throughout
-Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019.
-
-Date of decision:
-  4 July 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 38-45   subsection 38-45(1)   Schedule 3   Schedule 3 table item 151
-A New Tax System (Goods and Services Tax) Regulations 2019   The Regulations
-
-Other References:
-
-The Macquarie Dictionary, 1997, 3rd edn, The Macquarie Library Pty Ltd, New South Wales
- Australian Standard, AS 1428.4 - 1992 - Design for access and mobility - Tactile ground surface indicators for the orientation of people with vision impairment.
-
-Keywords
-
-Goods and Services Tax
- GST free
- GST health
- Section 38-45 - medical aids & appliances
-
-Siebel/TDMS Reference Number:
-  CW224594
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  8 March 2002
-
-ISSN:
- 1445-2782
+Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019. Date of decision: 4 July 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 38-45 subsection 38-45(1) Schedule 3 Schedule 3 table item 151
+A New Tax System (Goods and Services Tax) Regulations 2019 The Regulations Other References: The Macquarie Dictionary, 1997, 3rd edn, The Macquarie Library Pty Ltd, New South Wales Australian Standard, AS 1428.4 - 1992 - Design for access and mobility - Tactile ground surface indicators for the orientation of people with vision impairment. Keywords Goods and Services Tax GST free GST health Section 38-45 - medical aids & appliances Siebel/TDMS Reference Number: CW224594 Business Line: Indirect Tax Date of publication: 8 March 2002 ISSN: 1445-2782

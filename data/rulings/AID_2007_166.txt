@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2007/166
-==================================================
-
-Income Tax
- Assessability of trust distributions to non-resident beneficiaries
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of trust distributions to non-resident beneficiaries FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the trustee of a widely held Australian resident unit trust which carries on a business of funds management in Australia through a permanent establishment (PE) in Australia, assessed and liable to pay tax under subsection 98(3) of the Income Tax Assessment Act 1936 (ITAA 1936) in respect of the income of the trust estate which is not attributable to sources in Australia and to which the trust's New Zealand resident beneficiaries are presently entitled?
 Decision
 No. Subsection 98(3) of the ITAA 1936 do not apply to the income of the trust estate to which the trust's New Zealand resident beneficiaries are presently entitled and which is not attributable to sources in Australia. Furthermore, section 3AA of the International Tax Agreements Act 1953 (Agreements Act) ensures that the source of the trust estate's funds management income remains attributable to sources outside Australia.
@@ -32,54 +19,14 @@ Accordingly, as the beneficiaries' share of the income of the trust is from sour
 In determining the New Zealand resident beneficiaries' liability to Australian tax, it is necessary to consider not only the Australian income tax laws but also the New Zealand Agreement.
 Section 4 of the Agreements Act incorporates the ITAA 1936 and the Income Tax Assessment Act 1997 (ITAA 1997) into the Agreements Act so that all those Acts are read as one. The Agreements Act effectively prevails over the ITAA 1936 and the ITAA 1997 where there are inconsistent provisions (except for limited situations not relevant for present purposes).
 Article 7(1) of the New Zealand Agreement provides that the profits of an enterprise of New Zealand may be taxed in Australia if the enterprise carries on business in Australia through a PE in Australia, but only the profits attributable to that PE.
-Article 7(7) of the New Zealand Agreement states:
-
-Where:
-
-(a)a resident of a Contracting State is beneficially entitled... to a share of the business profits of an enterprise carried on in the other Contracting State by the trustee of a trust...; and
-(b)in relation to that enterprise, that trustee would, in accordance with the principles of Article 5, have a permanent establishment in that other State,
-
-the enterprise carried on by the trustee shall be deemed to be a business carried on in the other State by that resident through a permanent establishment situated in that other State and that share of business profits shall be attributed to that permanent establishment.
+Article 7(7) of the New Zealand Agreement states: Where: (a)a resident of a Contracting State is beneficially entitled... to a share of the business profits of an enterprise carried on in the other Contracting State by the trustee of a trust...; and
+(b)in relation to that enterprise, that trustee would, in accordance with the principles of Article 5, have a permanent establishment in that other State, the enterprise carried on by the trustee shall be deemed to be a business carried on in the other State by that resident through a permanent establishment situated in that other State and that share of business profits shall be attributed to that permanent establishment.
 As the beneficiaries are beneficially entitled to their share of the income of the trust estate and the trustee has a PE in Australia, Article 7(7) of the New Zealand Agreement is satisfied. Accordingly, the enterprise carried on by the trustee in Australia is deemed to be a business carried on in Australia by the New Zealand resident beneficiaries through a PE in Australia and their share of the income of the trust estate is attributable to that PE.
 Where Australia has a right to tax the profits of an enterprise of New Zealand under Article 7(1) of the New Zealand Agreement, Article 23(1) of the New Zealand Agreement (the source of income article) provides that income, profits or gains derived by a resident of New Zealand which, under certain Articles including Article 7 of the New Zealand Agreement, may be taxed in Australia shall, for the purposes of the law in Australia relating to its tax, be deemed to be income from sources in Australia.
-However, subsection 3AA(2) of the Agreements Act provides that the source of income Articles in Australia's tax treaties including for present purposes Article 23(1) of the New Zealand Agreement do not apply to a beneficiary of a widely held unit trust in determining whether the funds management income of the beneficiary is attributable to sources in Australia for the purposes of the ITAA 1936 and ITAA 1997 if:
-
-•a beneficiary of a widely held trust is a resident of a treaty country (other than Australia) (paragraph 3AA(1)(a) of the Agreements Act), and
-•the beneficiary is presently entitled either directly or indirectly to a share of the income of a widely held unit trust which is derived from funds management activities carried on by the trustee through a PE in Australia, being the funds management income (paragraph 3AA(1)(b) of the Agreements Act).
-
-Paragraph 3AA(4)(a) of the Agreements Act defines funds management activities as activities carried on by a 'managed investment scheme' (as defined by section 9 of the Corporations Act) that is a widely held unit trust. The trustee's activities constitute funds management activities as paragraph 3AA(4)(a) is satisfied in the present case.
+However, subsection 3AA(2) of the Agreements Act provides that the source of income Articles in Australia's tax treaties including for present purposes Article 23(1) of the New Zealand Agreement do not apply to a beneficiary of a widely held unit trust in determining whether the funds management income of the beneficiary is attributable to sources in Australia for the purposes of the ITAA 1936 and ITAA 1997 if: •a beneficiary of a widely held trust is a resident of a treaty country (other than Australia) (paragraph 3AA(1)(a) of the Agreements Act), and
+•the beneficiary is presently entitled either directly or indirectly to a share of the income of a widely held unit trust which is derived from funds management activities carried on by the trustee through a PE in Australia, being the funds management income (paragraph 3AA(1)(b) of the Agreements Act). Paragraph 3AA(4)(a) of the Agreements Act defines funds management activities as activities carried on by a 'managed investment scheme' (as defined by section 9 of the Corporations Act) that is a widely held unit trust. The trustee's activities constitute funds management activities as paragraph 3AA(4)(a) is satisfied in the present case.
 Subsection 3AA(1) of the Agreements Act applies as the beneficiaries are residents of New Zealand, a country with which Australia has a double tax agreement (paragraph 3AA(1)(a) of the Agreements Act) and they are presently entitled to a share of the income of a widely held unit trust derived from the carrying on by the trustee of funds management activities through a PE in Australia (subparagraph 3AA(1)(b)(i) of the Agreements Act).
 Accordingly, as subsection 3AA(1) of the Agreements Act applies, Article 23(1) of the New Zealand Agreement does not apply to the funds management activities income of the New Zealand resident beneficiaries (subsection 3AA(2) of the Agreements Act). Consequently, the funds management income that is derived by the trustee from sources outside Australia continues to be income from sources outside Australia for the purposes of the ITAA 1936 and the ITAA 1997.
 Therefore, although Australia has a taxing right under Article 7(1) of the New Zealand Agreement to tax the funds management income derived by the trustee from sources outside Australia, subsection 98(3) of the ITAA 1936 does not apply to assess the trustee on the funds management income of the trust; in this case, all of the net income of the trust estate.
-Date of decision:
-  12 July 2007
-
-Year of income:
-  Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 95(2)   subsection 98(2A)   subsection 98(3)   section 272-105
-International Tax Agreements Act 1953   section 3AA   subsection 3AA(1)   paragraph 3AA(1)(a)   paragraph 3AA(1)(b)   subsection 3AA(2)   subsection 3AA(4)   section 4   Schedule 4, Article 5   Schedule 4, Article 7   Schedule 4, Article 7(1)   Schedule 4, Article 7(7)   Schedule 4, Article 23(1)
- Corporations Act 2001   section 9
-
-Keywords
-
-Foreign source income
- International tax
- Non resident beneficiaries
- Permanent establishment
- Treaties
- Trusts
-
-Siebel/TDMS Reference Number:
-  5461019
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  24 August 2007
-
-ISSN:
- 1445-2782
+Date of decision: 12 July 2007 Year of income: Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 subsection 95(2) subsection 98(2A) subsection 98(3) section 272-105
+International Tax Agreements Act 1953 section 3AA subsection 3AA(1) paragraph 3AA(1)(a) paragraph 3AA(1)(b) subsection 3AA(2) subsection 3AA(4) section 4 Schedule 4, Article 5 Schedule 4, Article 7 Schedule 4, Article 7(1) Schedule 4, Article 7(7) Schedule 4, Article 23(1) Corporations Act 2001 section 9 Keywords Foreign source income International tax Non resident beneficiaries Permanent establishment Treaties Trusts Siebel/TDMS Reference Number: 5461019 Business Line: International Centre of Expertise Date of publication: 24 August 2007 ISSN: 1445-2782

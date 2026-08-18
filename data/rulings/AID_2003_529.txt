@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/529
-==================================================
-
-Income Tax
- Debt and Equity Financing: obligation to withhold tax on a return on a debt interest under Division 974
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Debt and Equity Financing: obligation to withhold tax on a return on a debt interest under Division 974 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the obligation to withhold tax in respect of a dividend, on redeemable preference shares which are classed as a debt interest under Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997), arise at the time the dividend is paid, or is applied or dealt with in any way on behalf of the recipient or as the recipient directs?
 Decision
 Yes. For non-resident withholding tax purposes, dividends on redeemable preference shares which are classed as a debt interest are treated as interest. The obligation to withhold tax therefore arises at the time the dividend is paid, or is applied or dealt with in any way on behalf of the recipient or as the recipient directs.
@@ -25,38 +14,5 @@ Consequently, the RPS dividends will be treated as income derived by a non-resid
 The taxpayer company's obligation to withhold is therefore determined by section 12-245 of Schedule 1 to the Taxation Administration Act 1953 (TAA). Section 12-245 imposes an obligation to withhold tax on interest (within the meaning of Division 11A of Part III of the ITAA 1936) it pays to a recipient who has an address outside Australia.
 The obligation to withhold is timed to payment, which has an extended meaning for withholding tax collection purposes (section 11-5 of Schedule 1 to the TAA). The taxpayer company is therefore obliged to withhold tax on a RPS dividend that has not been paid (in the ordinary sense) to the non-resident company but has been reinvested, accumulated, capitalised, carried to any reserve, sinking fund or insurance fund however designated, or otherwise dealt with on behalf of the non-resident company or as the non-resident company directs (subsection 128A(2) of the ITAA 1936).
 Therefore, for non-resident withholding tax purposes, dividends on redeemable preference shares which are classed as a debt interest are treated as interest and the obligation to withhold tax therefore, arises at the time the dividend is paid.
-Date of decision:
-  16 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 128A(1AB)   subsection 128A(2)
-Taxation Administration Act 1953   section 11-5 of Schedule 1   section 12-245 of Schedule 1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/527
- ATO ID 2003/528
- ATO ID 2003/530
-
-Keywords
-
-Debt equity borderline
- Redeemable preference share
- Non-resident interest withholding tax
- Non-equity share
-
-Siebel/TDMS Reference Number:
-  3558770
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  4 July 2003
-
-ISSN:
- 1445-2782
+Date of decision: 16 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 subsection 128A(1AB) subsection 128A(2)
+Taxation Administration Act 1953 section 11-5 of Schedule 1 section 12-245 of Schedule 1 Related ATO Interpretative Decisions ATO ID 2003/527 ATO ID 2003/528 ATO ID 2003/530 Keywords Debt equity borderline Redeemable preference share Non-resident interest withholding tax Non-equity share Siebel/TDMS Reference Number: 3558770 Business Line: Finance and Investment Centre of Expertise Date of publication: 4 July 2003 ISSN: 1445-2782

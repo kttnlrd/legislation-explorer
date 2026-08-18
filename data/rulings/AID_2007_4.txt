@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2007/4
-==================================================
-
-Income Tax
- Application of the definition of royalty where an amount is paid for the surrender of data licensing rights
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Application of the definition of royalty where an amount is paid for the surrender of data licensing rights FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a payment from the taxpayer to company X, for the surrender of data licensing rights, a 'royalty' for the purposes of paragraph (c) of the definition of 'royalty' or 'royalties' in subsection 6(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. A payment from the taxpayer to company X, for the surrender of data licensing rights, is not a royalty for the purposes of paragraph (c) of the definition of 'royalty' or 'royalties' in subsection 6(1) of the ITAA 1936.
@@ -29,63 +16,9 @@ The data licensing rights acquired by the taxpayer from Y under the license agre
 Company X, Y and the taxpayer are unrelated and were dealing with each other on arms length terms.
 Reasons for Decision
 The definition of 'royalty' or 'royalties' in subsection 6(1) of the ITAA 1936 is an inclusive definition. This means that the definition of the term includes not only the types of payments listed in the definition, but also payments that are royalties within the ordinary meaning of the term.
-The ordinary meaning of the term 'royalty' has been considered in many cases including Stanton v. Federal Commissioner of Taxation (1955) 92 CLR 630; (1955) 11 ATD 1; (1955) 6 AITR 216. In considering the essence of a royalty, the High Court said that:
-
-... the modern applications of the term seem to fall under two heads, namely the payments which the grantees of monopolies such as patents and copyrights receive under licenses and payments which the owner of the soil obtains in respect of the taking of some special thing forming part of it or attached to it which he suffers to be taken.
-
-Paragraph (c) of the definition of 'royalty' or 'royalties' in subsection 6(1) of the ITAA 1936 provides that the term 'royalty' includes any amount paid or credited, however described or computed, and whether the payment or credit is periodical or not, to the extent to which it is paid or credited, as the case may be, as consideration for the supply of scientific, technical, industrial or commercial knowledge or information.
+The ordinary meaning of the term 'royalty' has been considered in many cases including Stanton v. Federal Commissioner of Taxation (1955) 92 CLR 630; (1955) 11 ATD 1; (1955) 6 AITR 216. In considering the essence of a royalty, the High Court said that: ... the modern applications of the term seem to fall under two heads, namely the payments which the grantees of monopolies such as patents and copyrights receive under licenses and payments which the owner of the soil obtains in respect of the taking of some special thing forming part of it or attached to it which he suffers to be taken. Paragraph (c) of the definition of 'royalty' or 'royalties' in subsection 6(1) of the ITAA 1936 provides that the term 'royalty' includes any amount paid or credited, however described or computed, and whether the payment or credit is periodical or not, to the extent to which it is paid or credited, as the case may be, as consideration for the supply of scientific, technical, industrial or commercial knowledge or information.
 It is considered that the payment to company X is not a payment 'for the supply of ..... commercial knowledge or information' for the purposes of paragraph (c) of the definition of 'royalty' or 'royalties' in subsection 6(1) of the ITAA 1936 because it was made to induce company X to surrender the data licensing rights which company X had obtained from Y.
 Although the payment to company X and the surrender of the data licensing rights by company X made it possible for the taxpayer to acquire the data licensing rights from Y, the payment itself is not a royalty as it was not made to the owner of the data licensing rights to acquire those rights but was paid to a third party as compensation for the surrender of the rights company X had obtained from Y.
-It is considered that there is a presumption in the definition of 'royalty' or 'royalties' in paragraph (c) of subsection 6(1) of the ITAA 1936 that a payment made as consideration 'for the supply of .... commercial knowledge or information' must be made to the owner of the commercial knowledge or information to constitute a royalty. This view is supported by the comments made by the High Court of Australia in Stanton v. Federal Commissioner of Taxation (1955) 92 CLR 630; (1955) 11 ATD 1; (1955) 6 AITR 216, viz:
-
-...the payments which the grantees of monopolies such as patents and copyrights receive under licenses and payments which the owner of the soil obtains....
-
-Further support for the above view is found in Taxation Ruling IT 2660, which discusses the ordinary meaning of 'royalty' and how that meaning is extended by the definition in subsection 6(1) of the ITAA 1936. For present purposes paragraph 10(b) of IT 2660 states that a common law royalty will have the following feature:
-
-The payment is made to the person who owns the right to confer that beneficial privilege or right - Barrett v. F. C. of T. (1968) 118 CLR 666; Sherritt Gordon Mines Ltd; Case H9 76 ATC 39; 20 CTBR (NS) Case 64. However, the payment would still be a royalty if paid to another person or otherwise applied or dealt with at the direction of the owner.
-
-Y did not receive any part of the amount the taxpayer paid to company X for the surrender of the data licensing rights. Furthermore, the consideration was not paid to another person or otherwise applied or dealt with at the direction of Y. The entire payment remained with company X and no part of the payment passed to the owner of the data licensing rights, Y.
+It is considered that there is a presumption in the definition of 'royalty' or 'royalties' in paragraph (c) of subsection 6(1) of the ITAA 1936 that a payment made as consideration 'for the supply of .... commercial knowledge or information' must be made to the owner of the commercial knowledge or information to constitute a royalty. This view is supported by the comments made by the High Court of Australia in Stanton v. Federal Commissioner of Taxation (1955) 92 CLR 630; (1955) 11 ATD 1; (1955) 6 AITR 216, viz: ...the payments which the grantees of monopolies such as patents and copyrights receive under licenses and payments which the owner of the soil obtains.... Further support for the above view is found in Taxation Ruling IT 2660, which discusses the ordinary meaning of 'royalty' and how that meaning is extended by the definition in subsection 6(1) of the ITAA 1936. For present purposes paragraph 10(b) of IT 2660 states that a common law royalty will have the following feature: The payment is made to the person who owns the right to confer that beneficial privilege or right - Barrett v. F. C. of T. (1968) 118 CLR 666; Sherritt Gordon Mines Ltd; Case H9 76 ATC 39; 20 CTBR (NS) Case 64. However, the payment would still be a royalty if paid to another person or otherwise applied or dealt with at the direction of the owner. Y did not receive any part of the amount the taxpayer paid to company X for the surrender of the data licensing rights. Furthermore, the consideration was not paid to another person or otherwise applied or dealt with at the direction of Y. The entire payment remained with company X and no part of the payment passed to the owner of the data licensing rights, Y.
 Accordingly, the payment made by the taxpayer to company X is not a royalty for the purposes of paragraph (c) of the definition of 'royalty' or 'royalties' in subsection 6(1) of the ITAA 1936.
-Date of decision:
-  30 November 2006
-
-Year of income:
-  Year ending 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   paragraph 6(1)(c)
-
-Case References:
-
-Stanton v. Federal Commissioner of Taxation   (1955) 92 CLR 630   (1955) 11 ATD 1   (1955) 6 AITR 216
-
-Federal Commissioner of Taxation v. Sherritt Gordon Mines Ltd   (1977) 137 CLR 612   77 ATC 4365   (1977) 7 ATR 726
- Case H9   76 ATC 39   (1976) 20 CTBR(NS) Case 64
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2660
-
-Related ATO Interpretative Decisions
-
- ATO ID 2007/5
-
-Keywords
-
-Double tax agreements
- International tax
- Non resident royalty withholding tax
- Royalty income
-
-Siebel/TDMS Reference Number:
-  5254024
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 January 2007
-
-ISSN:
- 1445-2782
+Date of decision: 30 November 2006 Year of income: Year ending 30 June 2006 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) paragraph 6(1)(c) Case References: Stanton v. Federal Commissioner of Taxation (1955) 92 CLR 630 (1955) 11 ATD 1 (1955) 6 AITR 216 Federal Commissioner of Taxation v. Sherritt Gordon Mines Ltd (1977) 137 CLR 612 77 ATC 4365 (1977) 7 ATR 726 Case H9 76 ATC 39 (1976) 20 CTBR(NS) Case 64 Related Public Rulings (including Determinations) Taxation Ruling IT 2660 Related ATO Interpretative Decisions ATO ID 2007/5 Keywords Double tax agreements International tax Non resident royalty withholding tax Royalty income Siebel/TDMS Reference Number: 5254024 Business Line: Public Groups and International Date of publication: 12 January 2007 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/835
-==================================================
-
-Income Tax
- Transfer of Losses
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Transfer of Losses FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 170-30(2) of the Income Tax Assessment Act 1997 ('ITAA 1997') contemplate two subsidiary companies to have been members of the same 'wholly-owned group' during the whole income year where those companies become wholly owned subsidiaries of a new 'holding company' during that income year where that 'holding company' and the previous 'holding company' are unrelated to each other?
 Decision
 No. Subsection 170-30(2) of the ITAA 1997 does not contemplate companies to have been members of the same 'wholly-owned group' during the whole income year where the two subsidiary companies became wholly owned subsidiaries of a new 'holding company'.
@@ -20,66 +9,18 @@ Facts
 There was a change in the 'holding company' for two companies that hitherto had been members of the same 'wholly-owned group' at all prior times during the income year. The change in 'holding company' occurred on the last day of the income year.
 For the remainder of the income year, the subsidiary companies had the same 'holding company'. However, that 'holding company' was different and unrelated to the former 'holding company'.
 Reasons for Decision
-Subsection 170-30(2) of the ITAA 1997 requires the 'loss company' and the 'income company' to be members of the same 'wholly-owned group' during the whole or part of the relevant income years [ie. the 'loss year', the 'deduction year' and any intervening income year(s)] when both companies were in existence. For present purposes, the 'loss year' and the 'deduction year' are identical. According to section 975-500 of the ITAA 1997, for two companies to be members of the same 'wholly-owned group' it must be that:
-
-(a)'one of the companies is a 100% subsidiary of the other company' (paragraph 975-500(a), or
-(b)'each of the companies is a 100% subsidiary of the same third company' (paragraph 975-500(b).
-
-Section 975-500 of the ITAA 1997 itself only determines if a 'loss company' and an 'income company' are members of a 'wholly-owned group' at a point in time and not for a certain period of time.
+Subsection 170-30(2) of the ITAA 1997 requires the 'loss company' and the 'income company' to be members of the same 'wholly-owned group' during the whole or part of the relevant income years [ie. the 'loss year', the 'deduction year' and any intervening income year(s)] when both companies were in existence. For present purposes, the 'loss year' and the 'deduction year' are identical. According to section 975-500 of the ITAA 1997, for two companies to be members of the same 'wholly-owned group' it must be that: (a)'one of the companies is a 100% subsidiary of the other company' (paragraph 975-500(a), or
+(b)'each of the companies is a 100% subsidiary of the same third company' (paragraph 975-500(b). Section 975-500 of the ITAA 1997 itself only determines if a 'loss company' and an 'income company' are members of a 'wholly-owned group' at a point in time and not for a certain period of time.
 Note that section 975-500 of the ITAA 1997 contemplates membership of a 'wholly-owned group', and not of the 'same wholly-owned group'. A 'wholly-owned group', however constituted at a particular point in time, would logically have to be the 'same' 'wholly-owned group' at that time. However, at a later point in time it is quite possible, regardless of whether paragraph 975-500(a) of the ITAA 1997 or paragraph 975-500(b) of the ITAA 1997 applies, for two companies to be members of a 'wholly-owned group' where one of the original two companies has been replaced by another company that is, at that later time, the 'other company' in paragraph 975-500(a) of the ITAA 1997 or the 'same third company' in paragraph 975-500(b) of the ITAA 1997. The 'wholly-owned group', at least from the perspective of the member companies, would be the 'same' but only by reference to the particular point in time when a snapshot is taken of their relationship as members of the same 'wholly-owned group', to recall the opening line of section 975-500 of the ITAA 1997.
 The word 'same' is neither part of a statutorily defined expression nor defined in its own right for the purposes of Subdivision 170-A of the ITAA 1997 and Subdivision 975-W of the ITAA 1997. The relevant general law principles of statutory interpretation come into play. These are discussed in, for instance, 'Statutory Interpretation in Australia' by D.C. Pearce and R.S. Geddes (5th edition, Butterworths, 2001) at paragraphs 4.6 - 4.15, pages 93 - 102.
 We consider that the word 'same', in the context of Subdivision 170-A of the ITAA 1997 and Subdivision 975W of the ITAA 1997, is neither a 'legal technical word' nor a 'non-legal technical word'. That is, 'same' has neither a particular legal meaning or a meaning that accords with 'commercial or trade usage'. Therefore it is to be understood according to its 'ordinary everyday' or 'general usage' meaning. That meaning appears in the Macquarie Dictionary.
 It was submitted that the context in which that meaning is to be understood is in determining the relationship between the 'loss company' and the 'income company' and whether, 'as between each other [they] are members of the same group during the relevant period.'
 Subsection 170-30(2) of the ITAA 1997 draws from the concept of members of the same 'wholly-owned group' in section 975-500 of the ITAA 1997. Unlike section 975-500 of the ITAA 1997, however, subsection 170-30(2) of the ITAA 1997 requires that the identified 'wholly-owned group' is the 'same' for a particular period of time rather than at a particular point of time. Specifically, it contemplates that the 'loss company' and the 'income company' must be members of the same 'wholly-owned group' during the whole or part of the relevant income years when both companies were in existence.
-The income year ended 30 June 2000 was both the 'loss year' and the 'deduction year'. The subsidiaries were in existence for the whole of that income year. Therefore it is necessary for them to be able to show that they were members of the
- same
- 'wholly-owned group' for
- the whole of
- that income year (our emphases).
+The income year ended 30 June 2000 was both the 'loss year' and the 'deduction year'. The subsidiaries were in existence for the whole of that income year. Therefore it is necessary for them to be able to show that they were members of the same 'wholly-owned group' for the whole of that income year (our emphases).
 At all times prior to 2.00 p.m. on the last day of the 2000 income year, the subsidiaries were members of the same 'wholly-owned group' for the purposes of section 975-500 of the ITAA 1997. This is on the basis that, not being a '100% subsidiary' of the other for the purposes of paragraph 975-500(a) of the ITAA 1997, each company would need to show that it was a '100% subsidiary' of 'the same third company' for the purposes of paragraph 975-500(b) of the ITAA 1997.
 At all times subsequent to 2.00 p.m. on the last day of the 2000 income year the subsidiaries were members of the same 'wholly-owned group' for the purposes of section 975-500 of the ITAA 1997. This is on the basis that, again, not being a '100% subsidiary' of the other for the purposes of paragraph 975-500(a) of the ITAA 1997, each company would need to show that it was a '100% subsidiary' of 'the same third company' for the purposes of paragraph 975-500(b) of the ITAA 1997.
 However, we consider that the 'wholly-owned group' of which the taxpayers were members prior to 2 p.m. on the last day of the 2000 income year is different from the 'wholly-owned group' of which those companies were identified members after that time. This flows from the fact that the respective holding companies were unrelated to each other.
 Subsection 170-30(2) of the ITAA 1997 requires, in this context, that in order for the taxpayers to have been members of the same 'wholly-owned group' during the whole of the 2000 income year it would have been necessary for 'the same third company' to have been the same 'holding company' (as that expression is defined in section 975-505 of the ITAA 1997) at all times during that income year. (our emphases in italics) But this was not so.
-Finally, in determining whether a group relationship exists between two companies, paragraph 27 of Taxation Ruling TR 98/12 states that:
-
-'the focus is clearly on the actual relationship between the 'loss company' and the 'income company'.'
-
-Paragraph 27 of TR 98/12 simply states when that relationship must exist, ie. during the whole of the 'loss year', the 'deduction year' and any intervening year. It does not explain how that relationship is to be demonstrated. That is shown in paragraph 28 of TR 98/12 which states the position that is presently relevant to the taxpayer, namely that 'both must be wholly owned subsidiaries of the same company' [whether 'wholly-owned' be manifest directly or indirectly via another '100% subsidiary' of that same (holding) company].
-Accordingly, we conclude that the taxpayers were not members of the same 'wholly-owned group' during the whole of the 2000 income year as required by subsection 170-30(2) of the ITAA 1997.
-
-Note: For most companies, Division 170 of the ITAA 1997 ceased to apply in income years starting after 30 June 2003.
-
-Date of decision:
-  26 April 2002
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 170-30   subsection 170-30(1)   subsection 170-30(2)   subsection 975-505(1)   paragraph 975-500(a)   paragraph 975-500(b)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/12
-Taxation Ruling TR 2000/15
-
-Other References:
-
-Statutory Interpretation in Australia' by D. C. Pearce and R.S. Geddes (5th edition, Butterworths, 2001) at paragraphs 4.6 - 4.15, pages 93 - 102
-
-Keywords
-
-Group company loss transfers
-
-Siebel/TDMS Reference Number:
-  DW450588
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  21 August 2002
-
-ISSN:
- 1445-2782
+Finally, in determining whether a group relationship exists between two companies, paragraph 27 of Taxation Ruling TR 98/12 states that: 'the focus is clearly on the actual relationship between the 'loss company' and the 'income company'.' Paragraph 27 of TR 98/12 simply states when that relationship must exist, ie. during the whole of the 'loss year', the 'deduction year' and any intervening year. It does not explain how that relationship is to be demonstrated. That is shown in paragraph 28 of TR 98/12 which states the position that is presently relevant to the taxpayer, namely that 'both must be wholly owned subsidiaries of the same company' [whether 'wholly-owned' be manifest directly or indirectly via another '100% subsidiary' of that same (holding) company].
+Accordingly, we conclude that the taxpayers were not members of the same 'wholly-owned group' during the whole of the 2000 income year as required by subsection 170-30(2) of the ITAA 1997. Note: For most companies, Division 170 of the ITAA 1997 ceased to apply in income years starting after 30 June 2003. Date of decision: 26 April 2002 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1997 section 170-30 subsection 170-30(1) subsection 170-30(2) subsection 975-505(1) paragraph 975-500(a) paragraph 975-500(b) Related Public Rulings (including Determinations) Taxation Ruling TR 98/12
+Taxation Ruling TR 2000/15 Other References: Statutory Interpretation in Australia' by D. C. Pearce and R.S. Geddes (5th edition, Butterworths, 2001) at paragraphs 4.6 - 4.15, pages 93 - 102 Keywords Group company loss transfers Siebel/TDMS Reference Number: DW450588 Business Line: Public Groups and International Date of publication: 21 August 2002 ISSN: 1445-2782

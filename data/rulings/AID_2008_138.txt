@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/138
-==================================================
-
-Income Tax
- Capital Gains Tax: small business concessions - control of discretionary trust income paid or applied
- FOI status: may be released
-
-This ATO ID is withdrawn from the database following the decision of the High Court in Commissioner of Taxation v. Phillip Bamford & Ors; Phillip Bamford & Anor v. Commissioner of Taxation [2010] HCA 10. Refer to the Decision Impact Statement published on 2 June 2010 in relation to that decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: small business concessions - control of discretionary trust income paid or applied FOI status: may be released This ATO ID is withdrawn from the database following the decision of the High Court in Commissioner of Taxation v. Phillip Bamford & Ors; Phillip Bamford & Anor v. Commissioner of Taxation [2010] HCA 10. Refer to the Decision Impact Statement published on 2 June 2010 in relation to that decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purpose of working out the 'control percentage' in subsection 328-125(4) of the Income Tax Assessment Act 1997 (ITAA 1997), can the characterisation of amounts paid or applied by the trustee be determined by reference to the trust deed or by exercise of a power conferred upon the trustee under the trust deed?
 Decision
 No. For the purpose of subsection 328-125(4) of the ITAA 1997, the character of an amount paid or applied by the trustee is to be determined having regard to its character in the hands of the trustee.
@@ -33,72 +18,13 @@ An entity can use the CGT small business concessions only if it satisfies variou
 An entity satisfies the maximum net asset value test if, just before the CGT event that gave rise to the capital gain, the net value of its CGT assets (and those of entities connected with it and of its affiliates) do not total more than $6 million.
 Therefore, if the beneficiary is connected with the discretionary trust, then the value of the beneficiary's assets will be counted in determining whether the discretionary trust meets the test.
 An entity is connected with another entity if either entity controls the other entity in one of the ways specified (paragraph 328-125(1)(a) of the ITAA 1997).
-One of the ways in which an entity controls a discretionary trust is if the entity (and/or its affiliates) receives 40% or more of the trust's income or capital distributions for any of the four income years preceding the income year in which the capital gain was made. See further subsection 328-125(4) of the ITAA 1997 which says.
-
-328-125(4) An entity (the first entity) controls a discretionary trust for an income year if, for any of the 4 income years before that year:
-
-(a)the trustee of the trust paid to, or applied for the benefit of:
-
-(i)the first entity; or
+One of the ways in which an entity controls a discretionary trust is if the entity (and/or its affiliates) receives 40% or more of the trust's income or capital distributions for any of the four income years preceding the income year in which the capital gain was made. See further subsection 328-125(4) of the ITAA 1997 which says. 328-125(4) An entity (the first entity) controls a discretionary trust for an income year if, for any of the 4 income years before that year: (a)the trustee of the trust paid to, or applied for the benefit of: (i)the first entity; or
 (ii)any of the first entity's *affiliates; or
 (iii)the first entity and any of its affiliates
-any of the income or capital of the trust; and
-
-(b)the percentage (the control percentage) of the income or capital paid or applied is at least 40% of the total amount of income or capital paid or applied by the trustee for that year.
-
-In determining the control percentage the character of amounts paid or applied by the trustee is to be determined having regard to the character of those amounts in the hands of the trustee.
+any of the income or capital of the trust; and (b)the percentage (the control percentage) of the income or capital paid or applied is at least 40% of the total amount of income or capital paid or applied by the trustee for that year. In determining the control percentage the character of amounts paid or applied by the trustee is to be determined having regard to the character of those amounts in the hands of the trustee.
 That is, the 'income......paid or applied' by the trustee means that which is received by the trustee in the relevant income year and which, retaining that character, is paid or applied by the trustee for that income year for the benefit of an entity (and/or the entity's affiliates). This will be the case notwithstanding that the trust deed (or the trustee acting under authority of the deed) determines that for trust purposes 'income' is to have a different meaning (see Federal Commissioner of Taxation v. Totledge Pty Ltd (1982) 12 ATR 830; 82 ATC 4168, Commissioner of Taxation v. ANZ Savings Bank Ltd (1998) 194 CLR 328; 98 ATC 4850; 39 ATR 419).
 Therefore, in this case, the beneficiary does not control the discretionary trust in the manner described in subsection 328-125(4) of the ITAA 1997.
-Date of decision:
-  16 October 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 152-A   paragraph 328-125(1)(a)   subsection 328-125(4)
-Income Tax Assessment Act 1936   subsection 95(1)
-
-Case References:
-
-Commissioner of Taxation v. ANZ Savings Bank Ltd   (1998) 194 CLR 328   98 ATC 4850   39 ATR 419
-
-FC of T v. Totledge Pty Ltd   (1982) 12 ATR 830   82 ATC 4168
-
-Decision Impact Statement: Cajkusic & Ors v. Commissioner of Taxation   [2006] FCAFC 164   (2006) ATC 4752   (2006) 64 ATR 676
-
-Keywords
-
-Basic conditions for relief
- Capital gains
- Capital gains tax
- CGT small business relief
- Connected entity
- Income
- Maximum net asset value test
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  24 October 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-16 October 2008
-Original statement
-
-You are here
- 6 August 2010
+Date of decision: 16 October 2008 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 Subdivision 152-A paragraph 328-125(1)(a) subsection 328-125(4)
+Income Tax Assessment Act 1936 subsection 95(1) Case References: Commissioner of Taxation v. ANZ Savings Bank Ltd (1998) 194 CLR 328 98 ATC 4850 39 ATR 419 FC of T v. Totledge Pty Ltd (1982) 12 ATR 830 82 ATC 4168 Decision Impact Statement: Cajkusic & Ors v. Commissioner of Taxation [2006] FCAFC 164 (2006) ATC 4752 (2006) 64 ATR 676 Keywords Basic conditions for relief Capital gains Capital gains tax CGT small business relief Connected entity Income Maximum net asset value test Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 24 October 2008 ISSN: 1445-2782 history Date: Version: 16 October 2008
+Original statement You are here 6 August 2010
 Archived

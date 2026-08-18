@@ -1,24 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/159
-==================================================
-
-Fringe Benefits Tax
- Exempt benefits: work related items - expense payment made earlier in an FBT year
- FOI status: may be released
-
-This ATO ID has been updated to take into account amendments enacted under the Treasury Laws Amendment (Enterprise Tax Plan) Act 2017 to increase the aggregated turnover threshold for access to small business tax concessions to $10 million. This amendment applies to the exemption for work-related portable electronic devices provided to an employee from 1 April 2017.
-
- This ATO ID has been updated to take into account amendments enacted under the Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020 to increase the aggregated turnover threshold for access to small business tax concessions to $50 million. This amendment applies to the exemption for work-related portable electronic devices provided to an employee from 1 April 2021.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Exempt benefits: work related items - expense payment made earlier in an FBT year FOI status: may be released This ATO ID has been updated to take into account amendments enacted under the Treasury Laws Amendment (Enterprise Tax Plan) Act 2017 to increase the aggregated turnover threshold for access to small business tax concessions to $10 million. This amendment applies to the exemption for work-related portable electronic devices provided to an employee from 1 April 2017. This ATO ID has been updated to take into account amendments enacted under the Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020 to increase the aggregated turnover threshold for access to small business tax concessions to $50 million. This amendment applies to the exemption for work-related portable electronic devices provided to an employee from 1 April 2021. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If an employer reimburses an employee over a period spanning two FBT years for the cost the employee incurred to purchase a laptop computer, can the employer provide another laptop computer to the employee in the second FBT year as an exempt benefit, under subsection 58X(1) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA)?
 Decision
 No. Where there has been either an expense payment or property benefit in relation to a laptop computer earlier in an FBT year, the provision of another laptop computer in that same year will not be an 'eligible work related item' and therefore will not be an exempt benefit under subsection 58X(1) of the FBTAA.
@@ -27,99 +10,28 @@ An employee purchases a laptop computer.
 The laptop computer is a 'portable electronic device' and primarily for use in the employee's employment for the purposes of subsection 58X(2) of the FBTAA.
 The employer agrees to reimburse the employee for the cost of the laptop computer. These reimbursements are made over a period of time which overlaps two FBT years.
 Each of the employer's payments is an expense payment benefit for the purposes of paragraph 20(b) of the FBTAA. If provided, the second laptop computer will not be a replacement and will have substantially identical functions to the first computer.
-The employer does not satisfy the definition of 'small business entity' in subsection 136(1) of the FBTAA for the income year starting after the start of the FBT year or the income year ending after the start of the FBT year.
-
-Reasons for Decision
+The employer does not satisfy the definition of 'small business entity' in subsection 136(1) of the FBTAA for the income year starting after the start of the FBT year or the income year ending after the start of the FBT year. Reasons for Decision
 Section 58X of the FBTAA exempts from FBT the provision of certain work related items. Subsection 58X(1) of the FBTAA provides that the provision of an expense payment benefit, a property benefit or a residual benefit in respect of an eligible work related item will be an exempt benefit. Subsection 58X(2) of the FBTAA, which in turn is subject to subsection 58X(3) and subsection 58X(4) of the FBTAA, lists the items where if they are primarily for use in the employee's employment are 'eligible work related items' and thus subject to exemption.
 Subsection 58X(3) of the FBTAA limits the exemption in relation to these items by providing that they are not exempt if, 'earlier in the FBT year, an expense payment benefit or a property benefit of the employee has arisen in relation to another item that has substantially identical functions to the later item'. The test under subsection 58X(3) does not simply limit the exemption to the provision of one eligible work related item per year. Subsection 58X(3) in fact limits the exemption to the provision of expense payments for one item or the provision of one item (property benefit) per year.
 This means that if an employer provides multiple expense payments with respect to one item which spans more than one FBT year, then another item cannot be provided as an expense payment benefit or a property benefit in either the first or second year of payments. This is because there has already been expense payments made in relation to an item that has substantially identical functions as the later item. However, the test in subsection 58X(3) of the FBTAA is subject to subsection 58X(4) of the FBTAA.
 Subsection 58X(4) of the FBTAA provides that the test does not apply to portable electronic devices provided by an employer that meets the definition of 'small business entity' in subsection 136(1) of the FBTAA for the income year starting after the start of the FBT year or the income year ending after the start of the FBT year.
 This means that from 1 April 2017 an employer with an aggregate annual turnover less than $10 million can provide a portable electronic device to an employee that has substantially identical functions to a device provided to that employee in the same FBT year, and all of the devices will be exempt from FBT. For a portable electronic device provided on or after 1 April 2021, employers with an aggregate turnover less than $50 million will be eligible for the exemption.
 As the employer does not satisfy the definition of a 'small business entity' in subsection 136(1) of the FBTAA in the income year starting or ending after the start of the FBT year, subsection 58X(4) does not apply to the expense payment benefit in relation laptop computer.
-Therefore, where there has been an expense payment benefit in relation to a laptop computer earlier in an FBT year, the provision of another laptop computer in that same year will not be an exempt benefit under subsection 58X(1) of the FBTAA.
-
-Amendment History
-
-Date of Amendment
+Therefore, where there has been an expense payment benefit in relation to a laptop computer earlier in an FBT year, the provision of another laptop computer in that same year will not be an exempt benefit under subsection 58X(1) of the FBTAA. Amendment History Date of Amendment
 Part
-Comment
-
-27 March 2026
+Comment 27 March 2026
 Reasons for decision
-Updated to take into account amendments enacted under the Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020.
-
-27 March 2026
+Updated to take into account amendments enacted under the Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020. 27 March 2026
 Business Line
-Updated to correct business line
-
-21 July 2017
+Updated to correct business line 21 July 2017
 Reasons for decision
-Updated to take into account amendments enacted under the Treasury Laws Amendment (Enterprise Tax Plan) Act 2017.
-
-27 May 2016
+Updated to take into account amendments enacted under the Treasury Laws Amendment (Enterprise Tax Plan) Act 2017. 27 May 2016
 Facts and Reasons for decision
-Updated to take into account amendments enacted under the Tax Laws Amendment (Small Business Measures No. 3) Act 2015.
-
-27 May 2016
+Updated to take into account amendments enacted under the Tax Laws Amendment (Small Business Measures No. 3) Act 2015. 27 May 2016
 Legislative references
-Add subsection 136(1) of the FBTAA.
-
-Date of decision:
-  28 November 2008
-
-Year of income:
-  Year ended 31 March 2009
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   subsection 58X(1)   subsection 58X(2)   subsection 58X(3)   subsection 58X(4)   subsection 136(1)
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2005/149
-
-Keywords
-
-Exempt benefits
- Expense payment fringe benefits
- FBT reimbursements
- Fringe Benefits Tax
-
-Siebel/TDMS Reference Number:
-  6099881; 1-7ZMVGBZ
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  5 December 2008
-
-Date reviewed:
-  18 March 2026
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-28 November 2008
-Original statement
-
- 
-27 May 2016
-Updated statement
-
- 
-21 July 2017
-Updated statement
-
-You are here
+Add subsection 136(1) of the FBTAA. Date of decision: 28 November 2008 Year of income: Year ended 31 March 2009 Legislative References: Fringe Benefits Tax Assessment Act 1986 subsection 58X(1) subsection 58X(2) subsection 58X(3) subsection 58X(4) subsection 136(1) ATO Interpretative Decisions overturned by this decision ATO ID 2005/149 Keywords Exempt benefits Expense payment fringe benefits FBT reimbursements Fringe Benefits Tax Siebel/TDMS Reference Number: 6099881; 1-7ZMVGBZ Business Line: Superannuation and Employer Obligations Date of publication: 5 December 2008 Date reviewed: 18 March 2026 ISSN: 1445-2782 history Date: Version: 28 November 2008
+Original statement 27 May 2016
+Updated statement 21 July 2017
+Updated statement You are here
 27 March 2026
 Updated statement

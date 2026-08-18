@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/35
-==================================================
-
-Income Tax
- Company losses: continuity of ownership test - time of change in ownership of shares
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company losses: continuity of ownership test - time of change in ownership of shares FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In respect of the sale of a loss company, will the time of change in ownership of shares under the continuity of ownership test (COT) relating to company tax losses in section 165-12 of the Income Tax Assessment Act 1997 (ITAA 1997) necessarily be the same as the time of disposal of shares for capital gains tax (CGT) purposes?
 Decision
 No. A change in ownership for the purposes of COT occurs when there is a change in beneficial ownership of shares. For CGT purposes, a disposal of shares under a contract happens at the time when the contract for disposal is entered into, which may not be the time at which there is a change in beneficial ownership of the shares.
@@ -21,49 +10,8 @@ On 1 June 2002, individual X and individual Y entered into a written agreement. 
 The company incurred a tax loss in the 2002-03 income year and it was claimed on behalf of the company that individual Z had been the beneficial owner of shares in the company during the whole of the 2002-03 income year for the purposes of COT under section 165-12 of the ITAA 1997. In this regard, it was claimed that the heads of agreement was the 'source of the obligation to dispose of the shares' in accordance with the High Court decision in Federal Commissioner of Taxation v. Sara Lee Household & Body Care (Aust) Pty Ltd (2000) 201 CLR 520; 2000, ATC 4378; (2000) 44 ATR 370 (the Sara Lee Case).
 Reasons for Decision
 A company cannot deduct a tax loss in an income year unless it satisfies COT (section 165-12 of the ITAA 1997) or, if cannot satisfy this test, it satisfies the same business test (section 165-13 of the ITAA 1997). The primary test referred to in section 165-12, which would be applicable in the present case, requires that persons must beneficially own shares carrying more than 50% of the relevant rights at all times during the period from the start of the loss year until the end of the income year. Therefore, in the present case, COT could not be satisfied in respect of the tax loss incurred in the 2002-03 income year (the loss year) unless it could be established that individual Z was the beneficial owner of the shares in the company from 1 July 2002 until the end of the income year.
-The time of change in ownership of shares for the purposes of COT is not necessarily the same as the time of disposal of shares under the CGT rules. Under paragraph 104-10(3)(a) of the ITAA 1997, the time of disposal of a CGT asset under a contract is taken to be the time of entry into the contract. In relation to the CGT rules, it was held in the Sara Lee Case that, where two or more contracts are relevant to a disposal of assets:
-
-...the identification of the contract under which the assets were disposed of, for the purpose of applying s 160U of the ITAA 1936, requires a judgment as to which of the contracts is properly to be seen as the source of the obligation to effect the disposal.
-
-However, the identification of the contract that represents the source of the obligation to effect a disposal under the CGT rules is not the basis for determining the time at which there is a change in beneficial ownership of shares for the purposes of COT in respect of tax losses. Other principles will be relevant in this regard, such as whether or not a purchaser under contract can, by way of specific performance, compel a transfer of shares-for example, refer to R v. Australian Broadcasting Tribunal; Ex Parte Hardiman (1980) 144 CLR 13 at 31.
+The time of change in ownership of shares for the purposes of COT is not necessarily the same as the time of disposal of shares under the CGT rules. Under paragraph 104-10(3)(a) of the ITAA 1997, the time of disposal of a CGT asset under a contract is taken to be the time of entry into the contract. In relation to the CGT rules, it was held in the Sara Lee Case that, where two or more contracts are relevant to a disposal of assets: ...the identification of the contract under which the assets were disposed of, for the purpose of applying s 160U of the ITAA 1936, requires a judgment as to which of the contracts is properly to be seen as the source of the obligation to effect the disposal. However, the identification of the contract that represents the source of the obligation to effect a disposal under the CGT rules is not the basis for determining the time at which there is a change in beneficial ownership of shares for the purposes of COT in respect of tax losses. Other principles will be relevant in this regard, such as whether or not a purchaser under contract can, by way of specific performance, compel a transfer of shares-for example, refer to R v. Australian Broadcasting Tribunal; Ex Parte Hardiman (1980) 144 CLR 13 at 31.
 The distinction between the time of disposal of an asset for CGT purposes and the time of change in beneficial ownership was, in fact, recognised in the majority judgement in the Sara Lee Case when, in respect of the agreement that was identified as the source of the obligation to effect the disposal, it was stated that it 'did not effect a change in ownership, legal or beneficial, of the assets'.
 The facts of the present case do not support the view that individual Z was the beneficial owner of shares in the company at any time before 1 November 2002 for the purpose of satisfying COT. Before that date, fundamental terms and conditions of sale had not been agreed and individual Z had not been a party to any agreement in respect of the shares.
-Therefore, in respect of the sale of a loss company, the time of change in ownership of shares under COT relating to company tax losses in section 165-12 of the ITAA 1997 may not necessarily be the same as the time of disposal of shares for CGT purposes.
-
-Note:
- It is important to note that this ATO Interpretive Decision does not deal with the issue of what would be the time of disposal of shares under the CGT rules in the present case. It is sufficient to note that the present facts are different to those in the Sara Lee Case.
-
-Date of decision:
-  7 February 2006
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   paragraph 104-10(3)(a)   section 165-12   section 165-13
-Income Tax Assessment Act 1936   section 160U
-
-Case References:
-
-Federal Commissioner of Taxation v. Sara Lee Household & Body Care (Aust) Pty Ltd   (2000) 201 CLR 520    2000 ATC 4378   (2000) 44 ATR 370
-
-R v. Australian Broadcasting Tribunal Ex Parte Hardiman   (1980) 144 CLR 13
-
-Keywords
-
-CGT event A1-disposal of CGT asset
- Time of CGT event
- Tax loss
-
-Siebel/TDMS Reference Number:
-  3778288
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  10 February 2006
-
-ISSN:
- 1445-2782
+Therefore, in respect of the sale of a loss company, the time of change in ownership of shares under COT relating to company tax losses in section 165-12 of the ITAA 1997 may not necessarily be the same as the time of disposal of shares for CGT purposes. Note: It is important to note that this ATO Interpretive Decision does not deal with the issue of what would be the time of disposal of shares under the CGT rules in the present case. It is sufficient to note that the present facts are different to those in the Sara Lee Case. Date of decision: 7 February 2006 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 paragraph 104-10(3)(a) section 165-12 section 165-13
+Income Tax Assessment Act 1936 section 160U Case References: Federal Commissioner of Taxation v. Sara Lee Household & Body Care (Aust) Pty Ltd (2000) 201 CLR 520 2000 ATC 4378 (2000) 44 ATR 370 R v. Australian Broadcasting Tribunal Ex Parte Hardiman (1980) 144 CLR 13 Keywords CGT event A1-disposal of CGT asset Time of CGT event Tax loss Siebel/TDMS Reference Number: 3778288 Business Line: Public Groups and International Date of publication: 10 February 2006 ISSN: 1445-2782

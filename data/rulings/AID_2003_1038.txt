@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1038
-==================================================
-
-Goods and Services Tax
- GST and supplies of meals funded under the Home and Community Care Act 1985
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and supplies of meals funded under the Home and Community Care Act 1985 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a community organisation, making a GST-free supply under subsection 38-30(2) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a meal to a person where the entity receives funding under the Home and Community Care Act 1985 to provide meals to people in the community?
 Decision
 Yes, the entity is making a GST-free supply under subsection 38-30(2) of the GST Act when it supplies a meal to a person where the entity receives funding under the Home and Community Care Act to provide meals to people in the community.
@@ -20,37 +9,11 @@ Facts
 The entity is a community organisation.
 The entity receives funding under the Home and Community Care Act to provide meals to people in their own homes.
 The entity supplies a meal to a person. The person provides consideration for the meal.
-The transactions can be illustrated:
-
-The entity is registered for goods and services tax (GST).
+The transactions can be illustrated: The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Under subsection 38-30(2) of the GST Act, a supply of care is GST-free if the supplier receives funding under the Home and Community Care Act in connection with the supply.
 The provision of meals is accepted as the provision of care for the purposes of subsection 38-30(2) of the GST Act. The entity receives funding under the Home and Community Care Act to provide meals to people in their own homes. As such, the entity is making a GST-free supply under subsection 38-30(2) of the GST Act when it supplies a meal, for which the entity receives funding under the Home and Community Care Act to provide the meal.
 Note: The funding to provide meals to people in the community (supply 1) is not consideration for the supply of a meal to an individual. This funding will often be consideration for a supply made to the funding body and the GST status of that supply is considered separately.
 Note 2: This decision (supply 2) generally only has practical effect where the individual provides consideration for the supply that is made to that individual. Where no consideration is provided, there is no need to determine the GST status of the supply.
-Date of decision:
-  18 April 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 38-30(2)
-Home and Community Care Act 1985   The Act
-
-Keywords
-
-Goods and services tax
- GST free
- GST health
- Section 38-30 - community care
-
-Siebel/TDMS Reference Number:
-  3536866
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  21 November 2003
-
-ISSN:
- 1445-2782
+Date of decision: 18 April 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 38-30(2)
+Home and Community Care Act 1985 The Act Keywords Goods and services tax GST free GST health Section 38-30 - community care Siebel/TDMS Reference Number: 3536866 Business Line: Indirect Tax Date of publication: 21 November 2003 ISSN: 1445-2782

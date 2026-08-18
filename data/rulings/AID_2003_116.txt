@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/116
-==================================================
-
-Capital Gains Tax
- Deferred capital loss or deduction: greater than 50% interest - new event
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Capital Gains Tax Deferred capital loss or deduction: greater than 50% interest - new event FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a new event happen for the purposes of subsection 170-275(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where the relevant capital gains tax (CGT) asset is acquired by more than one entity, none of which, considered in isolation, acquires a greater than 50% interest in it?
 Decision
 Yes. Where interests in the relevant CGT asset exceeding 50% in total are acquired by more than one entity, that is not excluded by paragraph 170-275(1)(b) of the ITAA 1997, a new event is taken to have occurred.
@@ -24,66 +13,9 @@ Company P and company S were linked at the time of the CGT event for the purpose
 Company S subsequently disposed of the CGT asset to two other companies who each acquired a 50% interest in it.
 For the purposes of paragraph 170-275(1)(b) of the ITAA 1997 neither of the other companies were, at the time of acquiring their interests in the CGT asset, part of the same linked group as company P, nor a connected entity or an associate of a connected entity.
 Reasons for Decision
-Paragraph 170-275(1)(b) of the ITAA 1997 refers to a new event where:
-
-'...the relevant CGT asset, or a
- greater than 50% interest
- in it, is acquired by
- an entity
- that is none of the following:
-
-i)a member of the linked group of which the originating company is a member,
+Paragraph 170-275(1)(b) of the ITAA 1997 refers to a new event where: '...the relevant CGT asset, or a greater than 50% interest in it, is acquired by an entity that is none of the following: i)a member of the linked group of which the originating company is a member,
 ii)a connected entity of the originating company,
-iii)an associate of such a connected entity...'
-
-In applying the singular word 'entity' in paragraph 170-275(1)(b) of the ITAA 1997 it is considered that the word entity should also be construed as 'entities' by regard to paragraph 23(b) of the Acts Interpretation Act 1901 which provides that:
-
-'In any Act, unless the contrary intention appears:
-
-(a)...
-(b)words in the singular number include the plural...'
-
-As paragraph 170-275(1)(b) of the ITAA 1997 applies then, pursuant to subsection 170-275(1) of the ITAA 1997, company P is taken to have made a capital loss at the time of the new event equal to the amount of capital loss that was previously disregarded because of section 170-270 of the ITAA 1997.
-Date of decision:
-  14 January 2003
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 104-10(1)   subsection 104-10(4)   subsection 170-260(2)   section 170-270   section 170-275   subsection 170-275(1)   paragraph 170-275(1)(b)
-Acts Interpretation Act 1901   paragraph 23(b)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/67
-
-Keywords
-
-Capital losses
- Net capital losses
- Capital gains tax
- CGT roll-over relief
- Company losses
- Deferred capital losses
- Deferred capital losses and deductions
- Connected entity
- Deferral event
- Disregarded capital loss
- New event
- Linked group
- Originating company
- Relevant CGT asset
-
-Siebel/TDMS Reference Number:
-  CRS80192
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 March 2003
-
-ISSN:
- 1445-2782
+iii)an associate of such a connected entity...' In applying the singular word 'entity' in paragraph 170-275(1)(b) of the ITAA 1997 it is considered that the word entity should also be construed as 'entities' by regard to paragraph 23(b) of the Acts Interpretation Act 1901 which provides that: 'In any Act, unless the contrary intention appears: (a)...
+(b)words in the singular number include the plural...' As paragraph 170-275(1)(b) of the ITAA 1997 applies then, pursuant to subsection 170-275(1) of the ITAA 1997, company P is taken to have made a capital loss at the time of the new event equal to the amount of capital loss that was previously disregarded because of section 170-270 of the ITAA 1997.
+Date of decision: 14 January 2003 Year of income: Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 104-10(1) subsection 104-10(4) subsection 170-260(2) section 170-270 section 170-275 subsection 170-275(1) paragraph 170-275(1)(b)
+Acts Interpretation Act 1901 paragraph 23(b) Related ATO Interpretative Decisions ATO ID 2003/67 Keywords Capital losses Net capital losses Capital gains tax CGT roll-over relief Company losses Deferred capital losses Deferred capital losses and deductions Connected entity Deferral event Disregarded capital loss New event Linked group Originating company Relevant CGT asset Siebel/TDMS Reference Number: CRS80192 Business Line: Public Groups and International Date of publication: 15 March 2003 ISSN: 1445-2782

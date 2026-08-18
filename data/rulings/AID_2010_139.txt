@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/139
-==================================================
-
-Superannuation
- Self managed superannuation funds: Subparagraph 17A(3)(b)(i) of the Superannuation Industry (Supervision) Act 1993 - tribunal appointed administrator of the plenary estate of a person with a mental disability.
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Self managed superannuation funds: Subparagraph 17A(3)(b)(i) of the Superannuation Industry (Supervision) Act 1993 - tribunal appointed administrator of the plenary estate of a person with a mental disability. FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a member of a self managed superannuation fund (SMSF) is under a legal disability due to mental incapacity, can an administrator appointed by a State or Territory administration tribunal to manage the plenary estate of the member be a trustee of the SMSF in place of that member under subparagraph 17A(3)(b)(i) of the Superannuation Industry (Supervision) Act 1993 (SISA)[1]?
 Decision
 Yes, where a State or Territory administrative tribunal appoints an administrator to manage the estate of a person with a mental disability, that administrator will be a legal personal representative of that member who is under a legal disability. Consequently, under subparagraph 17A(3)(b)(i) the administrator can be appointed as a trustee of the superannuation fund in place of that member, enabling the fund to be an SMSF notwithstanding that one of the members is not a trustee of the superannuation fund.
@@ -23,60 +12,10 @@ The two members of the superannuation fund who are not under a legal disability 
 Reasons for Decision
 Subsection 17A(1) sets out the meaning of 'self managed superannuation fund' for superannuation funds with more than one member. Relevantly, subparagraph 17A(1)(d)(i) requires that each member is a trustee of the superannuation fund. In this case, one member is unable to fulfil the role of trustee due to a mental incapacity. As a result, the superannuation fund does not satisfy the requirements of the definition of an SMSF under subsection 17A(1).
 Subsection 17A(3) provides some exceptions to the general trustee rules in subsection 17A(1). In particular, subparagraph 17A(3)(b)(i) provides for a legal personal representative to be a trustee in place of a member who is under a legal disability.
-The term 'legal personal representative' is relevantly defined in subsection 10(1) as:
-
-Legal personal representative means ... the trustee of the estate of a person under a legal disability ....
-
-The term 'trustee' is defined in Butterworths Australian Legal Dictionary as:
-
-A person to whom property is conveyed, devised, or bequeathed in a trust for another (the beneficiary)...
-
-The Guardianship and Administration Act only provides for orders appointing administrators to manage the estate of a person. They do not provide for the vesting of the assets into the hands of trustees to hold on trust. Clearly therefore, the appointed administrators would not normally be considered to be trustees of the estate of the protected person with the result that, on a strict interpretation of the provision, the person would not be considered to be a legal personal representative for the purposes of the SISA.
+The term 'legal personal representative' is relevantly defined in subsection 10(1) as: Legal personal representative means ... the trustee of the estate of a person under a legal disability .... The term 'trustee' is defined in Butterworths Australian Legal Dictionary as: A person to whom property is conveyed, devised, or bequeathed in a trust for another (the beneficiary)... The Guardianship and Administration Act only provides for orders appointing administrators to manage the estate of a person. They do not provide for the vesting of the assets into the hands of trustees to hold on trust. Clearly therefore, the appointed administrators would not normally be considered to be trustees of the estate of the protected person with the result that, on a strict interpretation of the provision, the person would not be considered to be a legal personal representative for the purposes of the SISA.
 However, subsection 10(1) commences with the words:
 In this Act, unless the contrary intention appears...
 Further, section 15AA of the Acts Interpretation Act 1901 provides statutory authority for favouring an interpretation of a provision that promotes the purpose or object of the legislation to one that would not.
-The policy underlying subparagraph 17A(3)(b)(i) is set out in the Explanatory Memorandum (EM) to the Superannuation Legislation Amendment Bill (No. 3) 1999 which states:
-
-A fund will also remain a self managed superannuation fund when a member of a fund is under a legal disability, or the legal personal representative has an enduring power of attorney in respect of a member, and the legal personal representative of the member is a trustee of the fund, or a director of a body corporate that is a trustee of the fund, in place of the member of the fund (new paragraph 17A(3)(b)).
-
-The relevant State or Territory Acts governing the granting of orders in respect to the management of the affairs of people who are deemed unable to handle their own affairs forms part of the context in which subparagraph 17A(3)(b)(i) operates. In the relevant state, the legislation enacted for this specific purpose does not vest the assets of a person with a disability in the hands of a trustee but rather empowers an administrator to deal with those assets on their behalf. Similar Acts operate in other States and Territories which also provide for the appointment of administrators or managers of the estates of people who are considered to be unable to manage their own affairs. In light of this, it appears that the normal approach in the situation where someone suffers from a mental incapacity which is sufficient for them to be deemed unable to manage their own affairs, is for the appointment of a manager or administrator rather than the vesting of the assets of the person into the hands of a trustee for their benefit.
-In this context, it appears unlikely that subparagraph 17A(3)(b)(i) was intended to only apply to situations where a trust over the estate of the person under a legal disability has been specifically created rather than the more common situation where an administrator or manager is appointed under State or Territory guardianship law. Such an interpretation would render the subparagraph ineffective for the majority of the people for whom the exception appears to have been specifically provided. As a result, it is apparent that the definition of a legal personal representative in subsection 10(1) is not intended to limit the application of subparagraph 17A(3)(b)(i). Consequently, it is the Commissioner's view that an administrator or manager of the estate of a person appointed under State or Territory guardianship legislation is able to be a trustee of an SMSF in place of that person under subparagraph 17A(1)(3)(b)(i).
-
-[1]
-All future legislative references are to the Superannuation Industry (Supervision) Act 1993 unless otherwise specified.
-
-Date of decision:
-  5 July 2010
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   Subsection 10(1)   Subsection 17A(1)   Subparagraph 17A(3)(b)(i)
-
-Related Public Rulings (including Determinations)
-
-SMSFR 2010/2
-
-Other References:
-
-Butterworths Australian Legal Dictionary
-
-Keywords
-
-Self Managed Superannuation Funds
- Legal Disabilities
- Administration
-
-Siebel/TDMS Reference Number:
-  1-1VDZ9V7; 1-6CKVD5Q; 1-FZRSRJG
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  23 July 2010
-
-Date reviewed:
-  7 August 2018
-
-ISSN:
- 1445-2782
+The policy underlying subparagraph 17A(3)(b)(i) is set out in the Explanatory Memorandum (EM) to the Superannuation Legislation Amendment Bill (No. 3) 1999 which states: A fund will also remain a self managed superannuation fund when a member of a fund is under a legal disability, or the legal personal representative has an enduring power of attorney in respect of a member, and the legal personal representative of the member is a trustee of the fund, or a director of a body corporate that is a trustee of the fund, in place of the member of the fund (new paragraph 17A(3)(b)). The relevant State or Territory Acts governing the granting of orders in respect to the management of the affairs of people who are deemed unable to handle their own affairs forms part of the context in which subparagraph 17A(3)(b)(i) operates. In the relevant state, the legislation enacted for this specific purpose does not vest the assets of a person with a disability in the hands of a trustee but rather empowers an administrator to deal with those assets on their behalf. Similar Acts operate in other States and Territories which also provide for the appointment of administrators or managers of the estates of people who are considered to be unable to manage their own affairs. In light of this, it appears that the normal approach in the situation where someone suffers from a mental incapacity which is sufficient for them to be deemed unable to manage their own affairs, is for the appointment of a manager or administrator rather than the vesting of the assets of the person into the hands of a trustee for their benefit.
+In this context, it appears unlikely that subparagraph 17A(3)(b)(i) was intended to only apply to situations where a trust over the estate of the person under a legal disability has been specifically created rather than the more common situation where an administrator or manager is appointed under State or Territory guardianship law. Such an interpretation would render the subparagraph ineffective for the majority of the people for whom the exception appears to have been specifically provided. As a result, it is apparent that the definition of a legal personal representative in subsection 10(1) is not intended to limit the application of subparagraph 17A(3)(b)(i). Consequently, it is the Commissioner's view that an administrator or manager of the estate of a person appointed under State or Territory guardianship legislation is able to be a trustee of an SMSF in place of that person under subparagraph 17A(1)(3)(b)(i). [1]
+All future legislative references are to the Superannuation Industry (Supervision) Act 1993 unless otherwise specified. Date of decision: 5 July 2010 Legislative References: Superannuation Industry (Supervision) Act 1993 Subsection 10(1) Subsection 17A(1) Subparagraph 17A(3)(b)(i) Related Public Rulings (including Determinations) SMSFR 2010/2 Other References: Butterworths Australian Legal Dictionary Keywords Self Managed Superannuation Funds Legal Disabilities Administration Siebel/TDMS Reference Number: 1-1VDZ9V7; 1-6CKVD5Q; 1-FZRSRJG Business Line: Superannuation Date of publication: 23 July 2010 Date reviewed: 7 August 2018 ISSN: 1445-2782

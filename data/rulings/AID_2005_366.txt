@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/366
-==================================================
-
-Fringe Benefits Tax
- Exempt Benefits: minor benefits - gift jointly purchased by employer and employees - calculation of notional taxable value
- FOI status: may be released
-
-This ATOID has been amended in respect of subparagraph 58P(1)(e) by replacing the notional value of less than $100 to less than $300 with effect from 1 April 2007.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Exempt Benefits: minor benefits - gift jointly purchased by employer and employees - calculation of notional taxable value FOI status: may be released This ATOID has been amended in respect of subparagraph 58P(1)(e) by replacing the notional value of less than $100 to less than $300 with effect from 1 April 2007. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a gift is presented to an employee, which has been purchased using funds contributed by both the employer and work colleagues, will those contributions made by the work colleagues be included in determining whether the notional taxable value of the minor benefit is less than $300, as specified in paragraph 58P(1)(e) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA)?
 Decision
 No. Only the amount contributed by the employer would be relevant in determining whether or not the requirements of paragraph 58P(1)(e) of the FBTAA have been satisfied.
@@ -28,41 +15,8 @@ The gift is a property benefit as defined in subsection 136(1) of the FBTAA.
 The other requirements of section 58P of the FBTAA have been met.
 Reasons for Decision
 Section 58P of the FBTAA exempts benefits provided to employees which are considered minor in nature.
-To satisfy paragraph 58P(1)(e) of the FBTAA, it is necessary that the notional taxable value of the minor benefit in relation to a current year of tax be less than $300. 'Notional taxable value' is defined in subsection 136(1) of the FBTAA as being:
-
-in relation to a benefit provided ....., in respect of the employment of an employee, means the amount that, if it were assumed that.... the benefit was a fringe benefit in relation to the employer in relation to the year of tax, would be the taxable value in relation to the year of tax.
-
-As the property to be gifted has been purchased, the benefit provided by the employer would be an external property fringe benefit. Under these circumstances, the taxable value of the benefit would then be calculated in accordance with paragraph 43(a) of the FBTAA, meaning that its value would be based on the 'cost price of the recipients property to the provider'.
+To satisfy paragraph 58P(1)(e) of the FBTAA, it is necessary that the notional taxable value of the minor benefit in relation to a current year of tax be less than $300. 'Notional taxable value' is defined in subsection 136(1) of the FBTAA as being: in relation to a benefit provided ....., in respect of the employment of an employee, means the amount that, if it were assumed that.... the benefit was a fringe benefit in relation to the employer in relation to the year of tax, would be the taxable value in relation to the year of tax. As the property to be gifted has been purchased, the benefit provided by the employer would be an external property fringe benefit. Under these circumstances, the taxable value of the benefit would then be calculated in accordance with paragraph 43(a) of the FBTAA, meaning that its value would be based on the 'cost price of the recipients property to the provider'.
 Under paragraph (c) of the definition of 'cost price' in subsection 136(1) of the FBTAA, the cost price of a property fringe benefit means the expenditure incurred by the provider that is directly attributable to purchasing or obtaining delivery of the property.
 Under these circumstances it is accepted that the employer is the provider and the expenditure that is 'incurred by the provider' is the amount that has been contributed by the employer towards the purchase of the gift.
 Therefore, as the notional taxable value of the benefit is less than $300, the requirements of paragraph 58P(1)(e) of the FBTAA would be satisfied.
-Date of decision:
-  25 May 2005
-
-Year of income:
-  Year ended 31 March 2006
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   paragraph 43(a)   paragraph 58P(1)(e)   subsection 136(1)
-
-Keywords
-
-Fringe benefits tax
- Fringe benefits
- Minor benefits
-
-Siebel/TDMS Reference Number:
-  3690967; 1-6CM3QFL
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  23 December 2005
-
-Date reviewed:
-  8 March 2016
-
-ISSN:
- 1445-2782
+Date of decision: 25 May 2005 Year of income: Year ended 31 March 2006 Legislative References: Fringe Benefits Tax Assessment Act 1986 paragraph 43(a) paragraph 58P(1)(e) subsection 136(1) Keywords Fringe benefits tax Fringe benefits Minor benefits Siebel/TDMS Reference Number: 3690967; 1-6CM3QFL Business Line: Private Groups and High Wealth Individuals Date of publication: 23 December 2005 Date reviewed: 8 March 2016 ISSN: 1445-2782

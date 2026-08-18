@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/94
-==================================================
-
-Income Tax
- Assessable income: balancing adjustment - repayment of sale price of depreciating asset in a later income year
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessable income: balancing adjustment - repayment of sale price of depreciating asset in a later income year FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When the amount received by Taxpayer X for the sale of its depreciating asset is repaid in a later income year, is the balancing adjustment amount that was included in Taxpayer X's assessable income under subsection 40-285(1) of the Income Tax Assessment Act 1997 (ITAA 1997) in the previous income year in respect of the sale of that depreciating asset treated as non assessable and non exempt income in accordance with section 59-30 of the ITAA 1997?
 Decision
 No. Section 59-30 of the ITAA 1997 does not apply to treat the amount that was included in Taxpayer X's assessable income under subsection 40-285(1) of the ITAA 1997 in respect of the sale of that depreciating asset in the previous income year as non assessable and non exempt income as this amount (the balancing adjustment included in Taxpayer X's assessable income under subsection 40-285(1)) was not the amount that was repaid.
@@ -22,65 +11,15 @@ The depreciating asset had been used by Taxpayer X for a taxable purpose and the
 In the following year the asset failed to meet the conditions expected of it. Consequently, Taxpayer X was required to repay the sale price to Taxpayer Y and Taxpayer Y was required to return title to the asset to Taxpayer X.
 Reasons for Decision
 All references will be to the ITAA 1997 unless stated otherwise.
-Section 59-30 applies in certain circumstances to allow an amount of assessable or exempt income to be treated as an amount of non assessable and non exempt income. Subsection 59-30(1) states that:
-
-An amount you receive is not assessable income and is not exempt income for an income year if:
-
-you must repay it; and
-
-you repay it in a later income year; and
-
-you cannot deduct the repayment for any income year.
-
-Subsection 40-285(1) applies to include an amount in assessable income if a balancing adjustment event that occurs for a depreciating asset whose decline in value is or would have been worked out under Subdivision 40-B and the asset's termination value is more than its adjustable value. The amount to be included in assessable income is the difference between the asset's termination value and its adjustable value.
+Section 59-30 applies in certain circumstances to allow an amount of assessable or exempt income to be treated as an amount of non assessable and non exempt income. Subsection 59-30(1) states that: An amount you receive is not assessable income and is not exempt income for an income year if: you must repay it; and you repay it in a later income year; and you cannot deduct the repayment for any income year. Subsection 40-285(1) applies to include an amount in assessable income if a balancing adjustment event that occurs for a depreciating asset whose decline in value is or would have been worked out under Subdivision 40-B and the asset's termination value is more than its adjustable value. The amount to be included in assessable income is the difference between the asset's termination value and its adjustable value.
 For the purposes of working out a balancing adjustment under section 40-285, the termination value of a depreciating asset has the meaning given by section 40-300. Section 40-300 provides direction for the working out of the termination value of a depreciating asset. In the majority of cases, the termination value is the amount that you have received for the asset. The termination value is worked out at the time when the balancing adjustment event occurs.
 In this case, as the termination value for the depreciating asset was more than its adjustable value, the difference between the asset's termination value and its adjustable value is included in Taxpayer X's assessable income under subsection 40-285(1).
 The issue is whether subsection 59-30(1) applies to enable the amount included in a taxpayer's assessable income under subsection 40-285(1) to be treated as non assessable and non exempt income. This is because the amount that is included in a taxpayer's assessable income, the balancing adjustment worked out under subsection 40-285(1), is not the amount that is repaid. The amount that is repaid is the amount that is used in working out the balancing adjustment.
 In addition, section 59-30 lacks any express reference to treat an amount as non assessable and non exempt income because an amount previously taken into account in calculating a taxpayer's assessable income has been repaid. Without such an express reference, it indicates that section 59-30 does not apply when the amount repaid is used in calculating the taxpayer's assessable income.
 In order to confirm the meaning of the provision is the ordinary meaning conveyed by the text, taking into account its context and the purpose or object underlying the Act, it is appropriate to refer to relevant material that is extrinsic to the provision: section 15AB of the Acts Interpretation Act 1901.
-Section 59-30 replaced section 22-5 and the terms of former section 22-5 were identical to those in section 59-30. The Explanatory Memorandum to the Taxation Laws Amendment Bill (No.2) 2003 which introduced section 22-5 provided the context of the amendments:
-
-3.2 There is no provision in the ITAA 1936 or ITAA 1997 which permits an amount of previously assessed income to be excluded from an assessment where income is repaid in a later year of income. Where a taxpayer is not carrying on a business, there is also no deduction available in the year in which the previously assessable income is repaid, because the repayment is not incurred in gaining or producing assessable income of the later year.
-
-Consequently, it can be concluded that the purpose underlying section 59-30 is to exclude from a taxpayer's previous assessed income an amount that was income of a previous income year when it is later repaid and the repayment is not deductible for the reason that it is not incurred in gaining or producing assessable income.
+Section 59-30 replaced section 22-5 and the terms of former section 22-5 were identical to those in section 59-30. The Explanatory Memorandum to the Taxation Laws Amendment Bill (No.2) 2003 which introduced section 22-5 provided the context of the amendments: 3.2 There is no provision in the ITAA 1936 or ITAA 1997 which permits an amount of previously assessed income to be excluded from an assessment where income is repaid in a later year of income. Where a taxpayer is not carrying on a business, there is also no deduction available in the year in which the previously assessable income is repaid, because the repayment is not incurred in gaining or producing assessable income of the later year. Consequently, it can be concluded that the purpose underlying section 59-30 is to exclude from a taxpayer's previous assessed income an amount that was income of a previous income year when it is later repaid and the repayment is not deductible for the reason that it is not incurred in gaining or producing assessable income.
 The sale price of the asset was not income of Taxpayer X in a previous income year. It was a capital amount used to work out an adjustment to the taxable income of Taxpayer X when it stopped holding its depreciating asset.
 Treating the repayment of the sale price of the asset as the trigger for section 59-30 to regard the subsequent assessable balancing adjustment as non-assessable would be inconsistent with the objective of the provision. The section is not designed to permit previously assessable amounts to be excluded from assessment when an amount that was taken into account in working out the previously assessable amount is repaid in a later income year.
 Rather the provision is designed to change the treatment of amounts of income to non assessable and non exempt income where no deduction is available for the subsequent repayment of that amount of income because the repayment is not incurred in the course of carrying on a business. Critically it changes the treatment of the amount of income that is repaid (subsection 59-30(1)). In this case, the amount that is repaid is the sale price of Taxpayer X's depreciating asset, not the balancing adjustment worked out under subsection 40-285(1). Section 59-30 can not change the nature of the balancing adjustment (included as assessable income in the previous year) as the balancing adjustment is not the amount repaid.
-Consequently, the repayment of the amount received by Taxpayer X for the sale of its depreciating asset does not result in the amount that was included in Taxpayer X's assessable income under subsection 40-285(1) in the previous income year to be treated as non assessable and non exempt income in accordance with section 59-30.
-
-[Note: in accordance with the cost rules of Subdivision 40-C, the repayment of the sale price can be taken to have been paid by Taxpayer X to start to hold the asset on its reacquisition.]
-
-Date of decision:
-  15 September 2011
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   former section 22-5   section 59-30   subsection 59-30(1)   paragraph 59-30(1)(a)   Subdivision 40-B   section 40-285   subsection 40-285(1)   section 40-300
-Acts Interpretation Act 1901   section 15AB
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment Bill (No 2) 2003
-
-Keywords
-
-Balancing adjustment calculation
- Depreciating assets
- Income
- Non-assessable non-exempt income
- Repayments
-
-Siebel/TDMS Reference Number:
-  1-3KRWKVE
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 November 2011
-
-ISSN:
- 1445-2782
+Consequently, the repayment of the amount received by Taxpayer X for the sale of its depreciating asset does not result in the amount that was included in Taxpayer X's assessable income under subsection 40-285(1) in the previous income year to be treated as non assessable and non exempt income in accordance with section 59-30. [Note: in accordance with the cost rules of Subdivision 40-C, the repayment of the sale price can be taken to have been paid by Taxpayer X to start to hold the asset on its reacquisition.] Date of decision: 15 September 2011 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 former section 22-5 section 59-30 subsection 59-30(1) paragraph 59-30(1)(a) Subdivision 40-B section 40-285 subsection 40-285(1) section 40-300
+Acts Interpretation Act 1901 section 15AB Other References: Explanatory Memorandum to the Taxation Laws Amendment Bill (No 2) 2003 Keywords Balancing adjustment calculation Depreciating assets Income Non-assessable non-exempt income Repayments Siebel/TDMS Reference Number: 1-3KRWKVE Business Line: Public Groups and International Date of publication: 18 November 2011 ISSN: 1445-2782

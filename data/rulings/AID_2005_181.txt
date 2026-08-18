@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/181
-==================================================
-
-Income Tax
- Deductibility of money provided to the trustee of an employee share trust
- FOI status: may be released
-
-This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that doesn't apply after the 2008-2009 income year. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2008-2009 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deductibility of money provided to the trustee of an employee share trust FOI status: may be released This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 that doesn't apply after the 2008-2009 income year. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2008-2009 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 139DB of the Income Tax Assessment Act 1936 (ITAA 1936) determine the time when a deduction is allowable to the taxpayer under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) in respect of the provision of money to the trustee of an employee share trust to purchase shares to satisfy obligations arising from share rights?
 Decision
 Yes. Section 139DB of the ITAA 1936 determines the time when a deduction is allowable to the taxpayer under section 8-1 of the ITAA 1997 in respect of the provision of money to the trustee of an employee share trust to purchase shares to satisfy obligations arising from share rights.
@@ -26,67 +11,18 @@ The purpose of the plan, as stated in the plan rules, is to attract, motivate an
 Rights granted to employees by the taxpayer under the plan are rights acquired by the employees under an employee share scheme in accordance with Division 13A of Part III of the ITAA 1936.
 Under the plan, the taxpayer established a trust for the purpose of acquiring and holding shares under the plan for the benefit of the plan participants (participating employees). The trustee of that trust is a third party, unrelated to the taxpayer.
 The taxpayer provided the trustee with an amount of money under an arrangement enforceable and governed by the trust deed and the plan rules.
-The arrangement specified that:
-
-•the trustee is to use the money provided by the taxpayer to acquire sufficient shares in the taxpayer company to satisfy its obligations in relation to rights granted under the plan and to hold them on trust
+The arrangement specified that: •the trustee is to use the money provided by the taxpayer to acquire sufficient shares in the taxpayer company to satisfy its obligations in relation to rights granted under the plan and to hold them on trust
 •the shares are to be transferred by the trustee to participating employees once they have satisfied certain vesting conditions attached to the rights which they have acquired
 •the granting of the rights does not confer any right or interest, whether legal or equitable, in the company shares, and
-•no consideration is payable by the participating employees for either the rights or the shares acquired upon satisfying the vesting conditions.
-
-The money provided by the taxpayer to the trust under this arrangement is deductible under section 8-1 of the ITAA 1997.
+•no consideration is payable by the participating employees for either the rights or the shares acquired upon satisfying the vesting conditions. The money provided by the taxpayer to the trust under this arrangement is deductible under section 8-1 of the ITAA 1997.
 The money provided by the taxpayer has been used by the trustee to acquire an amount of shares in excess of the number required to satisfy its obligations in relation to the rights which have been granted under the plan to date.
 Reasons for Decision
-Section 139DB of the ITAA 1936 provides that:
-
-If, at a particular time, a person (the provider) provides another person with money or other property:
-
-(a)under an arrangement; and
-(b)for the purpose of enabling another person (the ultimate beneficiary) to acquire, directly or indirectly, a share or right, under an employee share scheme;
-
-then, for the purpose of determining when any deduction is allowable to the provider in respect of provision of the money or other property, the provider is taken to have provided it not before the time when the ultimate beneficiary acquires the share or right.
-
-Subsection 139C(4) of the ITAA 1936 provides that a taxpayer does not acquire a share under an employee share scheme if the taxpayer acquires the share as the result of exercising a right that the taxpayer acquired under an employee share scheme.
+Section 139DB of the ITAA 1936 provides that: If, at a particular time, a person (the provider) provides another person with money or other property: (a)under an arrangement; and
+(b)for the purpose of enabling another person (the ultimate beneficiary) to acquire, directly or indirectly, a share or right, under an employee share scheme; then, for the purpose of determining when any deduction is allowable to the provider in respect of provision of the money or other property, the provider is taken to have provided it not before the time when the ultimate beneficiary acquires the share or right. Subsection 139C(4) of the ITAA 1936 provides that a taxpayer does not acquire a share under an employee share scheme if the taxpayer acquires the share as the result of exercising a right that the taxpayer acquired under an employee share scheme.
 By the operation of subsection 139C(4) of the ITAA 1936 the shares transferred when the vesting conditions have been satisfied are not acquired by the participating employees under an employee share scheme. Therefore, section 139DB of the ITAA 1936 will only apply if there is the relevant connection between the money provided by the taxpayer to the trustee under the arrangement and the acquisition of the rights by the participating employees (the ultimate beneficiaries) under the plan.
 The granting of the rights, the providing of the money to the trustee, the acquisition and holding of the shares by the trustee and the allocating of shares to the participating employees are all interrelated components of the plan. All the components of the plan must be carried out so that the plan can operate as intended. As one of those components, the providing of money to the trustee necessarily allows the plan to proceed. Consequently, the providing of money to the trustee is considered to be for the purpose of enabling the participating employees, indirectly as part of the plan, to acquire the rights available under the plan.
 Accordingly, section 139DB of the ITAA 1936 determines the time when a deduction is allowable to the taxpayer under section 8-1 of the ITAA 1997 in respect of the provision of money to the trustee of the employee share trust. Therefore, pursuant to section 139DB of the ITAA 1936, a deduction is allowable at the time the rights are acquired by participating employees and only to the extent of that amount of the money provided to acquire shares to satisfy the obligations in relation to the rights acquired.
-Date of decision:
-  10 June 2005
-
-Year of income:
-  Year ended 31 March 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 139C(4)   section 139DB
-Income Tax Assessment Act 1997   section 8-1
-
-Keywords
-
-Deferred deductions
- Employee share ownership
- Employee share schemes & options
-
-Business Line:
-  Administration, Business and Personal Taxes Centre of Expertise
-
-Date of publication:
-  24 June 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 June 2005
-Original statement
-
-You are here
- 9 April 2010
+Date of decision: 10 June 2005 Year of income: Year ended 31 March 2004 Legislative References: Income Tax Assessment Act 1936 subsection 139C(4) section 139DB
+Income Tax Assessment Act 1997 section 8-1 Keywords Deferred deductions Employee share ownership Employee share schemes & options Business Line: Administration, Business and Personal Taxes Centre of Expertise Date of publication: 24 June 2005 ISSN: 1445-2782 history Date: Version: 10 June 2005
+Original statement You are here 9 April 2010
 Archived

@@ -1,38 +1,16 @@
 ATO Interpretative Decision
 ATO ID 2015/14
-==================================================
-
-Superannuation
- Superannuation guarantee: liability of company in liquidation for superannuation guarantee charge in respect of a Fair Entitlements Guarantee advance paid by a liquidator
-
-ATO ID 2015/14 is withdrawn, and is replaced by SGD 2017/1 Superannuation guarantee: is an advance paid under section 28 of the Fair Entitlements Guarantee Act 2012 to a former employee 'salary or wages' paid by the employer to the employee for the purposes of working out a superannuation guarantee charge liability under the Superannuation Guarantee (Administration) Act 1992?
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is the taxpayer, a company in liquidation, liable to the superannuation guarantee charge (SGC) under the Superannuation Guarantee (Administration) Act 1992 (SGAA) where the company's liquidator has not made sufficient superannuation contributions by the relevant quarterly cut-off date, in respect of a Fair Entitlements Guarantee (FEG) advance to a former employee of the company?
-
-Decision
-Yes. The taxpayer company is liable to the SGC under the SGAA where the company's liquidator has not made sufficient superannuation contributions by the relevant quarterly cut-off date in respect of a FEG advance to a former employee of the company.
-
-Facts
+================================================== Superannuation Superannuation guarantee: liability of company in liquidation for superannuation guarantee charge in respect of a Fair Entitlements Guarantee advance paid by a liquidator ATO ID 2015/14 is withdrawn, and is replaced by SGD 2017/1 Superannuation guarantee: is an advance paid under section 28 of the Fair Entitlements Guarantee Act 2012 to a former employee 'salary or wages' paid by the employer to the employee for the purposes of working out a superannuation guarantee charge liability under the Superannuation Guarantee (Administration) Act 1992? This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is the taxpayer, a company in liquidation, liable to the superannuation guarantee charge (SGC) under the Superannuation Guarantee (Administration) Act 1992 (SGAA) where the company's liquidator has not made sufficient superannuation contributions by the relevant quarterly cut-off date, in respect of a Fair Entitlements Guarantee (FEG) advance to a former employee of the company? Decision
+Yes. The taxpayer company is liable to the SGC under the SGAA where the company's liquidator has not made sufficient superannuation contributions by the relevant quarterly cut-off date in respect of a FEG advance to a former employee of the company. Facts
 The taxpayer company became insolvent and a liquidator was appointed.
 The effect of the liquidation was the termination of the employment of an employee of the taxpayer.
 At the date of liquidation, the taxpayer owed the employee amounts for unpaid wages, unpaid annual leave and unpaid long service leave.
 The taxpayer's employee made a claim with the Department of Employment for his entitlements for unpaid wages, unpaid annual and long service leave under the FEG. FEG is a payment scheme designed to assist employees who have lost their jobs as a result of their employer becoming bankrupt or entering into liquidation, and who are owed certain employee entitlements.
 Employee entitlements covered by the FEG include unpaid wages, unpaid annual leave, unpaid long service leave, unpaid payment in lieu of notice and unpaid redundancy pay.
 The employee's claim for FEG assistance was accepted by the Department of Employment.
-Department of Employment paid the FEG advance to the liquidator. After withholding PAYG tax from the advance, the liquidator forwarded the FEG advance to the employee but did not make superannuation contributions in respect of the unpaid wage component of the advance (the employee's ordinary time earnings), by the relevant quarterly cut-off date.
-
-Reasons for Decision
-
-An employer will have a liability to the SGC for a quarter under the SGAA if they do not make sufficient superannuation contributions for the benefit of their eligible employees to a complying superannuation fund or retirement savings account by the relevant quarterly cut-off dates in the SGAA. The SGC is imposed on an employer's superannuation guarantee shortfall (SG shortfall) for a quarter. Subsection 19(1) of the SGAA sets out the formula for the calculation of an employer's individual SG shortfall for an employee for a quarter. The shortfall is calculated by reference to the total salary or wages paid by the employer to the employee for the quarter.
+Department of Employment paid the FEG advance to the liquidator. After withholding PAYG tax from the advance, the liquidator forwarded the FEG advance to the employee but did not make superannuation contributions in respect of the unpaid wage component of the advance (the employee's ordinary time earnings), by the relevant quarterly cut-off date. Reasons for Decision An employer will have a liability to the SGC for a quarter under the SGAA if they do not make sufficient superannuation contributions for the benefit of their eligible employees to a complying superannuation fund or retirement savings account by the relevant quarterly cut-off dates in the SGAA. The SGC is imposed on an employer's superannuation guarantee shortfall (SG shortfall) for a quarter. Subsection 19(1) of the SGAA sets out the formula for the calculation of an employer's individual SG shortfall for an employee for a quarter. The shortfall is calculated by reference to the total salary or wages paid by the employer to the employee for the quarter.
 If an employer makes a payment to an employee which does not constitute salary or wages or if the payment does constitute salary or wages but it is not paid by the employer (or is not paid 'on behalf of' the employer within the meaning of subsection 6(3) of the SGAA) to the employee, subsection 19(1) of the SGAA will have no application and the employer will not have a liability to the SGC.
 Section 15B of the SGAA ensures that an employer will have an individual SG shortfall under subsection 19(1) of the SGAA in respect of salary or wages paid to a former employee if the employer does not make sufficient superannuation contributions in respect of the payment.
 Does the FEG advance constitute 'salary or wages' within the meaning of the SGAA?
@@ -40,95 +18,19 @@ The definition of salary or wages for the purposes of the SGAA is contained in s
 When paid by the employer, the types of employee entitlements covered by the FEG, with the exception of redundancy payments, are salary or wages for the purposes of the SGAA (Superannuation Guarantee Ruling SGR 2009/2). However it is unclear whether the payments retain their nature as salary or wages when advanced by the liquidator or trustee in bankruptcy in the form of a FEG advance.
 In Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq) [2002] FCA 205; (2002) 2002 ATC 4193; (2002) 49 ATR 196, the Federal Court held that a priority payment, made under paragraph 556(1)(e) of the Corporations Act 2001 (Corporations Act) to a former employee who had proved a debt for wages, retained its character as salary or wages within the ordinary meaning of that term and was therefore salary or wages for the purposes of section 12-35 of Schedule 1 to the Taxation Administration Act 1953. The Court looked to the fact that the consideration for the payment (of the dividend) was the services rendered by the former employee to the company prior to its liquidation. It was held that the nature of the payment remained unaltered by the liquidation process.
 Similarly, the definition of salary or wages in the SGAA relies in part on its common law meaning, and therefore the payment of a dividend would also constitute salary or wages for the purposes of the SGAA.
-In the same way, a FEG advance made to a former employee of a company in liquidation also constitutes salary or wages for the purposes of the SGAA. Like the payment of the dividend, the consideration for the payment of the FEG advance was the services rendered by the former employee to the company prior to the company entering into liquidation.
-
-Is the FEG advance paid by the employer to the employee?
-
-Subsection 12(1) of the SGAA provides that the terms 'employer' and 'employee' have their ordinary (that is, common law) meanings. For the purposes of the SGAA, subsections 12(2) to (11) expand the meaning of those terms and make particular provision to avoid doubt as to the status of certain persons. Further, section 15B of the SGAA ensures that a former employee is treated as an employee of their former employer for the purposes of calculating the individual SG shortfall under subsection 19(1) of the SGAA.
+In the same way, a FEG advance made to a former employee of a company in liquidation also constitutes salary or wages for the purposes of the SGAA. Like the payment of the dividend, the consideration for the payment of the FEG advance was the services rendered by the former employee to the company prior to the company entering into liquidation. Is the FEG advance paid by the employer to the employee? Subsection 12(1) of the SGAA provides that the terms 'employer' and 'employee' have their ordinary (that is, common law) meanings. For the purposes of the SGAA, subsections 12(2) to (11) expand the meaning of those terms and make particular provision to avoid doubt as to the status of certain persons. Further, section 15B of the SGAA ensures that a former employee is treated as an employee of their former employer for the purposes of calculating the individual SG shortfall under subsection 19(1) of the SGAA.
 Normally, where a company has entered into liquidation, the contract of employment between an employee and the company being wound up is terminated on the commencement of the winding up (section 558 of the Corporations Act; Re General Rolling Stock Co; Chapman's Case (1866) LR 1 Eq 346). As a result, the employer/employee relationship between the company and the employee ceases to exist once a winding up order has been made.
 On the making of a winding up order, control of the company's affairs is taken from the directors and vested in the liquidator. The liquidator is given various powers, including the power to sell or otherwise dispose of the 'property of the company' (paragraph 477(2)(c) of the Corporations Act).
 There is no direct case law on the issue of whether a FEG advance made to the liquidator by Department of Employment constitutes 'property of the company'. The principles established in a number of cases where the courts have considered whether funds advanced or provided by a third party to a deed administrator in a deed of company arrangement (DOCA) is 'property of the company', may be applied to determine whether the FEG advance would constitute property of the company in liquidation.
-In Federal Commissioner of Taxation v. All Suburbs Car Repairs Pty Ltd (1994) 14 ACSR 753; (1994) 94 ATC 4712; (1994) 29 ATR 329, Davies J held that:
-
-...when the directors and shareholders agreed to pay sums to Mr Silvia in his capacity as administrator, they agreed to pay those sums to him in his capacity as agent for All Suburbs and, consequently, that the sums when paid would be received by him on behalf of the company. It necessarily follows that the sums when received would be property of All Suburbs.
-
-Davies J stated that this view accorded with the ordinary operation of paragraph 444A(4)(b) of the Corporations Act, which states that a deed must specify 'the property of the company (whether or not already owned by the company when it executes the deed) that is to be available to pay creditors' claims.' That section, he said 'contemplates that sums may be paid by third parties for distribution to creditors and that those sums will be the property of the company available to pay creditors' claims.'
+In Federal Commissioner of Taxation v. All Suburbs Car Repairs Pty Ltd (1994) 14 ACSR 753; (1994) 94 ATC 4712; (1994) 29 ATR 329, Davies J held that: ...when the directors and shareholders agreed to pay sums to Mr Silvia in his capacity as administrator, they agreed to pay those sums to him in his capacity as agent for All Suburbs and, consequently, that the sums when paid would be received by him on behalf of the company. It necessarily follows that the sums when received would be property of All Suburbs. Davies J stated that this view accorded with the ordinary operation of paragraph 444A(4)(b) of the Corporations Act, which states that a deed must specify 'the property of the company (whether or not already owned by the company when it executes the deed) that is to be available to pay creditors' claims.' That section, he said 'contemplates that sums may be paid by third parties for distribution to creditors and that those sums will be the property of the company available to pay creditors' claims.'
 In Lombe v. Wagga Leagues Club Ltd [2006] NSWSC 3, Barrett J applied the reasoning of Davies J and found that payments to an administrator were payments made to him in his capacity as agent of the company, and consequently, the sums received were property of the company.
 This view was followed in Purchas, Re Estore Pty Ltd (in liq) [2006] FCA 1222; (2006) 154 FCR 246 and Purchas, Re Worldwide Workers Pty Limited (in liq) [2006] FCA 1223. In these cases, the Federal Court held that the liquidators were justified in applying and distributing the deed funds as property of the company in winding up.
 Like a deed administrator in a deed of company arrangement, a liquidator, in applying the company's property in discharging the company's liabilities, is acting as agent for the company - see Re Farrow's Bank [1921] 2 Ch 164 and Linter Textiles Australia Ltd (in liquidation) v. Commissioner of Taxation [2002] FCA 1089; (2002) 2002 ATC 4785; 50 ATR 548. Accordingly, any act done by the liquidator on behalf of the company is an act of the company.
 Therefore, when the Department of Employment pays the FEG advance to the liquidator of a company, the amount is paid to the liquidator in their capacity as agent of the company. It follows that the FEG advance received by the liquidator is property of the company and when paid to the former employee of the company, is an act of the company.
 Since the FEG advance constitutes salary or wages for the purposes of the SGAA and is paid by the employer to the employee (taking into account the operation of section 15B of the SGAA), the company can have a liability for the individual SG shortfall in respect of the former employee under subsection 19(1) of the SGAA and consequently the SGC. In the circumstances of this case, as sufficient superannuation contributions were not made by the liquidator in respect of the FEG advance by the relevant quarterly cut-off date, the company does have a liability for the SGC.
-Note: a liability to the SGC in this case could have been avoided if the liquidator had made the required superannuation contributions to a complying superannuation fund or retirement savings account by the cut-off date for the quarter in which the FEG advance is made to the former employee. In calculating the contribution to be made, only the amount of the FEG advance representing unpaid wages including unpaid pay in lieu of notice will be included in the former employee's ordinary times earnings. This is because payments for unpaid annual leave and long service leave do not form part of an employee's ordinary time earnings for superannuation guarantee purposes - but such payments would be included in total salary or wages in determining the amount of any SG shortfall.
-
-Date of decision:
-  24 March 2015
-
-Year of income:
-  From 5 December 2012
-
-Legislative References:
-
-Fair Entitlement Guarantee Act 2012 (FEG)   The Act
- Superannuation Guarantee (Administration) Act 1992   subsection 6(3)   section 11   paragraph 11(1)(a)   paragraph 11(1)(b)   paragraph 11(1)(ba)   paragraph 11(1)(c)   paragraph 11(1)(d)   paragraph 11(1)(e)   section 15B   subsection 19(1)   subsection 12(1)   subsection 12(2)   subsection 12(3)   subsection 12(4)   subsection 12(5)   subsection 12(6)   subsection 12(7)   subsection 12(8)   subsection 12(9)   subsection 12(9A)   subsection 12(10)   subsection 12(11)
-Taxation Administration Act 1953   section 12-35 of Schedule 1
-Corporations Act 2001   paragraph 444A(4)(b)   paragraph 477(2)(c)   paragraph 556(1)(e)   section 558
-
-Case References:
-
-Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq)   [2002] FCA 205   (2002) 2002 ATC 4193   (2002) 49 ATR 196
-
-Federal Commissioner of Taxation v. All Suburbs Car Repairs Pty Ltd   (1994) 14 ACCR 753   (1994) 94 ATC 4712   (1994) 29 ATR 329
-
-Linter Textiles Australia Ltd (in liquidation) v. Commissioner of Taxation   [2002] FCA 1089   (2002) 2002 ATC 4785   (2002) 50 ATR 548
-
-Lombe v. Wagga Leagues Club Ltd   [2006] NSWSC 3
-
-Purchas, Re Estore Pty Ltd (in liq)   [2006] FCA 1222   (2006) 154 FCR 246
-
-Purchas, Re Worldwide Workers Pty Limited (in liq)   [2006] FCA 1223
-
-Re Farrow's Bank   [1921] 2 Ch 164
-
-Re General Rolling Stock Co; Chapman's Case   (1866) LR 1 Eq 346
-
-Related Public Rulings (including Determinations)
-
-Superannuation Guarantee Ruling SGR 2009/2
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/26
- ATO ID 2015/13
- ATO ID 2015/15
-
-Keywords
-
-Employees
- Liquidation
- Superannuation guarantee charge
- Superannuation guarantee shortfalls
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  5 June 2015
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 June 2015
-Original statement
-
-You are here
+Note: a liability to the SGC in this case could have been avoided if the liquidator had made the required superannuation contributions to a complying superannuation fund or retirement savings account by the cut-off date for the quarter in which the FEG advance is made to the former employee. In calculating the contribution to be made, only the amount of the FEG advance representing unpaid wages including unpaid pay in lieu of notice will be included in the former employee's ordinary times earnings. This is because payments for unpaid annual leave and long service leave do not form part of an employee's ordinary time earnings for superannuation guarantee purposes - but such payments would be included in total salary or wages in determining the amount of any SG shortfall. Date of decision: 24 March 2015 Year of income: From 5 December 2012 Legislative References: Fair Entitlement Guarantee Act 2012 (FEG) The Act Superannuation Guarantee (Administration) Act 1992 subsection 6(3) section 11 paragraph 11(1)(a) paragraph 11(1)(b) paragraph 11(1)(ba) paragraph 11(1)(c) paragraph 11(1)(d) paragraph 11(1)(e) section 15B subsection 19(1) subsection 12(1) subsection 12(2) subsection 12(3) subsection 12(4) subsection 12(5) subsection 12(6) subsection 12(7) subsection 12(8) subsection 12(9) subsection 12(9A) subsection 12(10) subsection 12(11)
+Taxation Administration Act 1953 section 12-35 of Schedule 1
+Corporations Act 2001 paragraph 444A(4)(b) paragraph 477(2)(c) paragraph 556(1)(e) section 558 Case References: Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq) [2002] FCA 205 (2002) 2002 ATC 4193 (2002) 49 ATR 196 Federal Commissioner of Taxation v. All Suburbs Car Repairs Pty Ltd (1994) 14 ACCR 753 (1994) 94 ATC 4712 (1994) 29 ATR 329 Linter Textiles Australia Ltd (in liquidation) v. Commissioner of Taxation [2002] FCA 1089 (2002) 2002 ATC 4785 (2002) 50 ATR 548 Lombe v. Wagga Leagues Club Ltd [2006] NSWSC 3 Purchas, Re Estore Pty Ltd (in liq) [2006] FCA 1222 (2006) 154 FCR 246 Purchas, Re Worldwide Workers Pty Limited (in liq) [2006] FCA 1223 Re Farrow's Bank [1921] 2 Ch 164 Re General Rolling Stock Co; Chapman's Case (1866) LR 1 Eq 346 Related Public Rulings (including Determinations) Superannuation Guarantee Ruling SGR 2009/2 Related ATO Interpretative Decisions ATO ID 2008/26 ATO ID 2015/13 ATO ID 2015/15 Keywords Employees Liquidation Superannuation guarantee charge Superannuation guarantee shortfalls Business Line: Superannuation Date of publication: 5 June 2015 ISSN: 1445-2782 history Date: Version: 5 June 2015
+Original statement You are here
 13 April 2017
 Archived

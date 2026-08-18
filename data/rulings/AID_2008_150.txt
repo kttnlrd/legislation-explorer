@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/150
-==================================================
-
-Income Tax
- Assessable income: South African double tax agreement - trust income
- FOI status: may be released
-
-This ATO ID has been withdrawn from the database because it contains references to the tax treaty between Australia and South Africa that was amended by the protocol to the tax treaty (Schedule 42A) which entered into force on 12 November 2008. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions up to, and including, 30 June 2009.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessable income: South African double tax agreement - trust income FOI status: may be released This ATO ID has been withdrawn from the database because it contains references to the tax treaty between Australia and South Africa that was amended by the protocol to the tax treaty (Schedule 42A) which entered into force on 12 November 2008. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions up to, and including, 30 June 2009. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is income derived by a South African (SA) entity from an Australian theatrical production carried out by an Australian resident company (Ausco) as trustee, assessable under the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The income derived by the SA entity will be assessable to Ausco (as trustee) under subsection 98(3) of the ITAA 1936. The income will also be assessable to the SA entity as a beneficiary under section 98A of the ITAA 1936, but a deduction is allowed against the income tax assessed to the SA entity for the tax paid by Ausco as trustee.
@@ -33,12 +18,8 @@ Schedule 42 of the Agreements Act contains the SA Convention respectively betwee
 Where the SA Convention gives Australia the right to tax an amount, Article 22 will deem the amount to have an Australian source for the purposes of the ITAA 1936 and Income Tax Assessment Act 1997 (ITAA 1997). Accordingly, it is necessary to turn to the application of the SA Convention. It should be noted that section 4 of the Agreements Act provides that the ITAA 1936 and ITAA 1997 will have no application if Australia does not have taxing rights under the relevant Convention.
 Article 7 of the SA Convention provides that the business profits of a SA enterprise shall be taxable only in SA unless the enterprise carries on business in Australia through a permanent establishment (PE) situated in Australia. For the income derived by the SA entity to be taxable in Australia, it is necessary to establish that the SA entity is an enterprise that carries on business in Australia through a PE.
 By entering into the contract to invest in the theatrical production, the SA entity has an enterprise within the meaning of that word as considered by the High Court in Thiel v. Federal Commissioner of Taxation (1990) 171 CLR 338; (1990) 90 ATC 4717; (1990) 21 ATR 531.
-As to whether a business is being carried on in Australia by the SA entity through a PE, Article 7(8) of the SA Convention is relevant. For Article 7(8) to apply, the following requirements must be satisfied:
-
-•a resident of a Contracting State is beneficially entitled under a trust to a share of business profits of an enterprise carried on in the other Contracting State by the trustee of the trust
-•in relation to that enterprise the trustee has a PE in the other Contracting State in accordance with the principles of Article 5 of the SA Convention.
-
-In the present case, the first requirement is satisfied because the SA entity is a resident of SA and is beneficially entitled to a share of the business profits carried on by Ausco as trustee.
+As to whether a business is being carried on in Australia by the SA entity through a PE, Article 7(8) of the SA Convention is relevant. For Article 7(8) to apply, the following requirements must be satisfied: •a resident of a Contracting State is beneficially entitled under a trust to a share of business profits of an enterprise carried on in the other Contracting State by the trustee of the trust
+•in relation to that enterprise the trustee has a PE in the other Contracting State in accordance with the principles of Article 5 of the SA Convention. In the present case, the first requirement is satisfied because the SA entity is a resident of SA and is beneficially entitled to a share of the business profits carried on by Ausco as trustee.
 The second requirement is satisfied because Ausco derives business profits from staging a play in an Australian theatre for 6 months which amounts to a PE. Article 5(1) of the SA Convention defines a PE to mean a fixed place through which the business of an enterprise is carried on.
 Taxation Ruling TR 2002/5 considered what is a place at or through which a person carries on any business for the purposes of the PE definition in subsection 6(1) of the ITAA 1936. The discussion in TR 2002/5 applies equally to the meaning of PE under Article 5(1) of the SA Convention because the subsection 6(1) definition is based on the concept of PE used in Australia's tax treaties (paragraph 9 of TR 2002/5). Under the principles discussed in TR 2002/5 in respect of temporal and geographic permanence of a PE, Ausco has a PE as it stages the production in a theatre for 6 months.
 Article 7(8) of the SA Convention is satisfied and has the effect of deeming the enterprise carried on by the trustee to be a business carried on by the SA entity through a PE in Australia. The SA entity's share of business profits is also deemed to be attributed to that PE.
@@ -48,59 +29,8 @@ Application of Division 6
 The SA entity will be presently entitled to trust income when it receives or has the right to receive an amount of net profit pursuant to the contract. As the SA entity is a non-resident at the end of the year of income, Ausco as trustee is liable to be taxed upon the SA entity's share of the trust income that is deemed by Article 21 of the SA Convention to be sourced in Australia (subsection 98(3) of the ITAA 1936).
 Conclusion
 Subsection 98(3) of the ITAA 1936 applies to assess Ausco as the trustee. Section 98A of the ITAA 1936 also assesses an amount to the SA entity as beneficiary, however, a deduction is allowed for the tax paid by Ausco as trustee against the income tax assessed to SA entity.
-Date of decision:
-  17 November 2008
-
-Year of income:
-  Year ended 30 June 2008 Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   subsection 98(3)   subsection 98A
-Income Tax International Agreements Act 1953   Schedule 42 - Article 22(1)   Schedule 42 - Article 7   Schedule 42 - Article 5(1)   subsection 3(11)   section 3(4)   section 4
-
-Case References:
-
-Thiel v. Federal Commissioner of Taxation   (1990) 171 CLR 338   (1990) 90 ATC 4717   (1990) 21 ATR 531
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2002/5
-
-Keywords
-
-Arts, media & entertainment sector
- Business income
- Double tax agreements
- International tax
- Permanent establishment
- Present entitlement
- Treaties
- Trust income
- Trustees
- Trusts
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  28 November 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-17 November 2008
-Original statement
-
-You are here
+Date of decision: 17 November 2008 Year of income: Year ended 30 June 2008 Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) subsection 98(3) subsection 98A
+Income Tax International Agreements Act 1953 Schedule 42 - Article 22(1) Schedule 42 - Article 7 Schedule 42 - Article 5(1) subsection 3(11) section 3(4) section 4 Case References: Thiel v. Federal Commissioner of Taxation (1990) 171 CLR 338 (1990) 90 ATC 4717 (1990) 21 ATR 531 Related Public Rulings (including Determinations) Taxation Ruling TR 2002/5 Keywords Arts, media & entertainment sector Business income Double tax agreements International tax Permanent establishment Present entitlement Treaties Trust income Trustees Trusts Business Line: International Centre of Expertise Date of publication: 28 November 2008 ISSN: 1445-2782 history Date: Version: 17 November 2008
+Original statement You are here
 10 December 2010
 Archived

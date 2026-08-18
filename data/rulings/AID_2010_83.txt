@@ -1,29 +1,14 @@
 ATO Interpretative Decision
 ATO ID 2010/83
-==================================================
-
-Goods and Services Tax
- GST: revoking agreement to apply the margin scheme
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST: revoking agreement to apply the margin scheme FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a supplier and recipient of real property that make an agreement to apply the margin scheme under subsection 75-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) revoke that agreement after settlement of the supply of the real property?
 Decision
 No, the entities are not able to revoke an agreement to apply the margin scheme under subsection 75-5(1) of the GST Act, after settlement of the supply of the real property.
 Facts
 An entity entered into an agreement to sell real property in the form of a freehold interest in land to another entity. The supply of the real property is a taxable supply for the purposes of the GST Act.
-The supplier acquired the real property before 1 July 2000. The supplier's supply of the real property to the recipient was:
-
-•made under a contract entered into on or after 29 June 2005, and
-•not made pursuant to rights or options granted before 29 June 2005.
-
-Before making the supply of the real property, the supplier and the recipient made an agreement to apply the margin scheme in Division 75 of the GST Act to the supply. All of the other requirements for the margin scheme to apply were satisfied. The supplier calculated the GST payable on the taxable supply in accordance with the margin scheme.
+The supplier acquired the real property before 1 July 2000. The supplier's supply of the real property to the recipient was: •made under a contract entered into on or after 29 June 2005, and
+•not made pursuant to rights or options granted before 29 June 2005. Before making the supply of the real property, the supplier and the recipient made an agreement to apply the margin scheme in Division 75 of the GST Act to the supply. All of the other requirements for the margin scheme to apply were satisfied. The supplier calculated the GST payable on the taxable supply in accordance with the margin scheme.
 After settlement of the supply of the real property, the supplier and the recipient are now seeking to revoke their agreement to apply the margin scheme. The supplier and the recipient intend to do this by entering into a deed of variation to the contract of sale for the real property.
 Reasons for Decision
 The margin scheme in Division 75 of the GST Act can be used to work out the amount of GST payable on a taxable supply of real property provided that certain requirements are satisfied.
@@ -35,39 +20,4 @@ This view is further supported by the context in which the provision operates. U
 If the provision envisaged that the parties to the supply could alter their choice at a later time, there would have been express provision for it in the legislation. The absence of such a provision provides further contextual support for the view that there is no capacity for the supplier and recipient to revoke the written agreement after the making of the supply.
 Also, while subsection 75-5(1A) of the GST Act permits a discretion for the Commissioner to allow a further time in which an agreement may be made, it does not permit a discretion for the Commissioner to allow an entity to revoke an agreement that was in place at the time of settlement.
 In this case, as a written agreement to apply the margin scheme was in place at the time of making the supply, the supplier and the recipient are not able to revoke the agreement and calculate the GST payable on the taxable supply in accordance with the basic rules in the GST Act. The GST payable is to be calculated in accordance with the rules in Division 75 of the GST Act.
-Date of decision:
-  26 March 2010
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 75   section 75-5   subsection 75-5(1)   subsection 75-5(1A)
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2006/7
-
-Other References:
-
- Revised Explanatory Memorandum to the Tax Laws Amendment (2005 Measures No. 2) Bill 2005
-
-Keywords
-
-GST margin scheme
- GST property & construction
- GST sale of real property
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  1-1YEBJNA; 1-GRHVH5N
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  16 April 2010
-
-Date reviewed:
-  6 December 2018
-
-ISSN:
- 1445-2782
+Date of decision: 26 March 2010 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 75 section 75-5 subsection 75-5(1) subsection 75-5(1A) Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2006/7 Other References: Revised Explanatory Memorandum to the Tax Laws Amendment (2005 Measures No. 2) Bill 2005 Keywords GST margin scheme GST property & construction GST sale of real property Taxable supply Siebel/TDMS Reference Number: 1-1YEBJNA; 1-GRHVH5N Business Line: Indirect Tax Date of publication: 16 April 2010 Date reviewed: 6 December 2018 ISSN: 1445-2782

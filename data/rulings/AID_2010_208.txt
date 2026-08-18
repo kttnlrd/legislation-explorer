@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/208
-==================================================
-
-Income Tax
- Capital gains tax: goodwill of acquired business - time of coalescence
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: goodwill of acquired business - time of coalescence FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the contract timing rule in subsection 109-5(2) of the Income Tax Assessment Act 1997 (ITAA 1997) have the effect that the goodwill of a new business acquired by an entity under a contract; which coalesces with the goodwill of the existing business already conducted by that entity to form a single CGT asset; is for the purposes of Part 3-1 taken to have become a single CGT asset from the date of the contract under which the new business was acquired?
 Decision
 No, the contract timing rule does not have the effect of treating the acquired goodwill of a business as coalescing with the existing goodwill from the time when the contract to acquire the new business has been entered into.
@@ -27,38 +16,5 @@ The consequences for the cost base and acquisition date of goodwill are worked o
 The contract timing rule for acquisitions in subsection 109-5(2) of the ITAA 1997 applies to nominate when a CGT asset is 'acquired' for any purposes where that concept is relevant (such as the CGT discount).
 That rule, as applied to the assets of the acquired business, does not have the further effect of treating the goodwill assets as having coalesced at any time earlier than when the acquired business is in fact subsumed into the business that is already being conducted.
 This means that where there is a change in the majority underlying interests of a company at a time when the contract for the acquisition of the assets of a new business has not been completed, the acquisition date and cost base consequences referred to in subsections 149-30(1A) and 149-35(2) of the ITAA 1997 will be applied to the goodwill of the business then conducted by the company. When the acquired business is later subsumed, the coalesced goodwill assets will have an acquisition date after 20 September 1985.
-Date of decision:
-  12 November 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Part 3-1   subsection 109-5(2)   subsection 149-30(1A)   subsection 149-35(2)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 94/29
-Taxation Ruling TR 1999/16
-
-Keywords
-
-CGT assets
- Pre-CGT assets
- Acquisition of CGT assets
-
-Siebel/TDMS Reference Number:
-  1-2EV6X92; 1-5P45B9M; 1-AZ144MT
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  19 November 2010
-
-Date reviewed:
-  10 March 2017
-
-ISSN:
- 1445-2782
+Date of decision: 12 November 2010 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 Part 3-1 subsection 109-5(2) subsection 149-30(1A) subsection 149-35(2) Related Public Rulings (including Determinations) Taxation Ruling TR 94/29
+Taxation Ruling TR 1999/16 Keywords CGT assets Pre-CGT assets Acquisition of CGT assets Siebel/TDMS Reference Number: 1-2EV6X92; 1-5P45B9M; 1-AZ144MT Business Line: Private Groups and High Wealth Individuals Date of publication: 19 November 2010 Date reviewed: 10 March 2017 ISSN: 1445-2782

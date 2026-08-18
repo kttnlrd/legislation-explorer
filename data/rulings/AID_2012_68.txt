@@ -1,28 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2012/68
-==================================================
-
-Fringe Benefits Tax
- Employee Share Scheme: unlisted options to acquire shares in a company not acquired at a discount
-
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that does not apply after the 2015 income year. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2015 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Employee Share Scheme: unlisted options to acquire shares in a company not acquired at a discount FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that does not apply after the 2015 income year. Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, the 2015 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the provision of options to an employee under an employee share scheme be excluded from being a 'fringe benefit' by paragraph (h) of the definition of 'fringe benefit' in subsection 136(1) of the Fringe Benefits Tax Assessment Act 1986 (FBTAA), where the market value of the options for the purposes of Division 83A of the Income Tax Assessment Act 1997 (ITAA 1997) is nil?
 Decision
-No. The provision of options to an employee in these circumstances is not excluded from being a fringe benefit by paragraph (h) of the definition of 'fringe benefit' in subsection 136(1) of the FBTAA.
-
-Facts
+No. The provision of options to an employee in these circumstances is not excluded from being a fringe benefit by paragraph (h) of the definition of 'fringe benefit' in subsection 136(1) of the FBTAA. Facts
 An Australian listed public company issued unlisted options to its employee after 1 July 2009 as part of its remuneration strategy.
 The options entitled the employee to acquire shares in the company. The employee did not pay any consideration to acquire the options.
 The exercise price of the options was known at the time of acquisition and it was not nil.
@@ -36,64 +18,18 @@ Reasons for Decision
 Where an employer provides an employee with a benefit that is provided in respect of the employment of the employee, the benefit will be a fringe benefit unless it is specifically excluded from being a fringe benefit under paragraphs (f) to (s) of the definition of 'fringe benefit' in subsection 136(1) of the FBTAA.
 Paragraph (h) of the definition of fringe benefit in subsection 136(1) of the FBTAA does not include as a fringe benefit a benefit constituted by the acquisition of an ESS interest to which either Subdivision 83A-B or Subdivision 83A-C of the ITAA 1997 applies.
 From sections 83A-20 and 83A-105 of the ITAA 1997 it is ascertained that Subdivision 83A-B or 83A-C of the ITAA 1997 cannot apply to an ESS interest acquired under an employee share scheme on or after 1 July 2009 unless that interest is acquired at a discount.
-The term 'discount' is not defined for the purposes of Division 83A of the ITAA 1997. However, the Explanatory Memorandum to the Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009 states at paragraph 1.102 that the term 'discount' is:
-
-... the market value of the ESS interest less any consideration paid, or to be paid, by the employee.
-
-Section 83A-315 of the ITAA 1997 provides that, for the purposes of Division 83A of the ITAA 1997, the market value of an ESS interest that is a right, is the amount specified in the regulations.
+The term 'discount' is not defined for the purposes of Division 83A of the ITAA 1997. However, the Explanatory Memorandum to the Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009 states at paragraph 1.102 that the term 'discount' is: ... the market value of the ESS interest less any consideration paid, or to be paid, by the employee. Section 83A-315 of the ITAA 1997 provides that, for the purposes of Division 83A of the ITAA 1997, the market value of an ESS interest that is a right, is the amount specified in the regulations.
 Where the right is an unlisted right that must be exercised within ten years of acquisition; and the exercise price of the right is known at the time of acquisition and it is not nil, regulation 83A-315.01 of the ITAR 1997 allows an individual to choose to determine the market value of the right at the time of acquisition by applying regulations 83A-315.02 to 83A-315.09 of the ITAR 1997.
-The Commissioner accepts, for the purposes of Division 83A of the ITAA 1997, that the options acquired by the employee have a market value of nil at the time of acquisition as:
-
-•the options are unlisted;
+The Commissioner accepts, for the purposes of Division 83A of the ITAA 1997, that the options acquired by the employee have a market value of nil at the time of acquisition as: •the options are unlisted;
 •the options had to be exercised within ten years of acquisition;
 •the options had a known exercise price at the time of acquisition that was not nil;
 •the employee elected to determine the value of the options at the time of acquisition by applying regulations 83A-315.02 to 83A-315.09 of the ITAR 1997; and
-•the value of the options determined by using the regulations was nil.
-
-As the consideration for the acquisition of the options (that is nil) is equal to, or more than, the market value of the option on acquisition, the options were not acquired at a discount.
+•the value of the options determined by using the regulations was nil. As the consideration for the acquisition of the options (that is nil) is equal to, or more than, the market value of the option on acquisition, the options were not acquired at a discount.
 As the options were not acquired by the employee at a discount, it follows that neither Subdivisions 83A-B nor 83A-C of the ITAA 1997 can apply. Thus the options acquired by the employee are not excluded from being fringe benefits under paragraph (h) of the definition of 'fringe benefit' in subsection 136(1) of the FBTAA.
-Date of decision:
-  10 August 2012
-
-Year of income:
-  year ended 31 March 2010
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   subsection 136(1)   paragraph 136(1)(h)   paragraph 136(1)(f) to 136(1)(s)
-Income Tax Assessment Act 1997   Division 83A   paragraph 83A-10(1)(b)   subsection 83A-10(2)   Subdivision 83A-B   section 83A-20   subsection 83A-20(1)   Subdivision 83A-C   section 83A-105   section 83A-315
-Income Tax Assessment Regulations 1997   regulation 83A-315.01   paragraph 83A-315.01(1)(b)   regulation 83A-315.02 to 83A-315.09
-Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009   The Act
-
-Keywords
-
-Employee share schemes
- Employee share schemes & options
- Fringe benefits tax
- Fringe benefits
- Benefit
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  17 August 2012
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 August 2012
-Original statement
-
-You are here
+Date of decision: 10 August 2012 Year of income: year ended 31 March 2010 Legislative References: Fringe Benefits Tax Assessment Act 1986 subsection 136(1) paragraph 136(1)(h) paragraph 136(1)(f) to 136(1)(s)
+Income Tax Assessment Act 1997 Division 83A paragraph 83A-10(1)(b) subsection 83A-10(2) Subdivision 83A-B section 83A-20 subsection 83A-20(1) Subdivision 83A-C section 83A-105 section 83A-315
+Income Tax Assessment Regulations 1997 regulation 83A-315.01 paragraph 83A-315.01(1)(b) regulation 83A-315.02 to 83A-315.09
+Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009 The Act Keywords Employee share schemes Employee share schemes & options Fringe benefits tax Fringe benefits Benefit Business Line: Private Groups and High Wealth Individuals Date of publication: 17 August 2012 ISSN: 1445-2782 history Date: Version: 10 August 2012
+Original statement You are here
 30 October 2015
 Archived

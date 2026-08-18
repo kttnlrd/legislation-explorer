@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/63
-==================================================
-
-Income Tax
- Managed Investment Trust Withholding Tax: withholding rate under Subdivision 12-H of Schedule 1 to the Taxation Administration Act 1953 for non-custodians with different income year to the MIT
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Managed Investment Trust Withholding Tax: withholding rate under Subdivision 12-H of Schedule 1 to the Taxation Administration Act 1953 for non-custodians with different income year to the MIT CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If the trustee of an Australian resident trust makes a foreign resident beneficiary, who is a resident of an information exchange country, entitled to an amount that is reasonably attributable to a fund payment the trust received from a managed investment trust (MIT), does the trustee calculate the amount it is required to withhold using the rate in paragraph 12-390(6)(a) of Schedule 1 to the Taxation Administration Act 1953 (TAA) that corresponds to the resident trust's income year in which the beneficiary's entitlement arises?
 Decision
 No. The amount that the trustee of an Australian resident trust is required to withhold from a fund payment it receives from the MIT and to which the foreign resident's entitlement is reasonably attributable, is calculated by reference to the withholding rate in paragraph 12-390(6)(a) of Schedule 1 to the TAA that corresponds to the income year of the MIT to which the fund payment relates.
@@ -23,64 +13,18 @@ The foreign resident is liable to pay MIT withholding tax in respect of the enti
 Trust X is not a MIT or a custodian. Trust X calculated the amount it was required to withhold as a result of the foreign resident's entitlement at the rate of 15%. This was on the basis that the rate of withholding was worked out by reference to the trust's income year in which the foreign resident's entitlement, and therefore the withholding obligation, arose.
 Reasons for Decision
 Subdivision 12-H of Schedule 1 to the TAA governs the withholding obligations of custodians and other entities making payments outside of Australia where all or part of a payment is attributable to a fund payment received from a MIT.
-Pursuant to subsection 12-390(4) of Schedule 1 to the TAA, an entity that is not a MIT or a custodian must withhold an amount from a payment it receives if:
-
-•all or part of the payment is covered by a notice or information under section 12-395 of Schedule 1 to the TAA, and
-•a foreign resident is or becomes entitled to receive an amount (the 'attributable amount') that is reasonably attributable to the part of the payment covered by the notice.
-
-The amount that the entity is required to withhold is the attributable amount multiplied by the applicable withholding rate: subsection 12-390(5) of Schedule 1 to the TAA. The applicable withholding rate is worked out under subsection 12-390(6) of Schedule 1 to the TAA according to whether the recipient is resident in a jurisdiction with which Australia has effective exchange of information for taxation matters.
+Pursuant to subsection 12-390(4) of Schedule 1 to the TAA, an entity that is not a MIT or a custodian must withhold an amount from a payment it receives if: •all or part of the payment is covered by a notice or information under section 12-395 of Schedule 1 to the TAA, and
+•a foreign resident is or becomes entitled to receive an amount (the 'attributable amount') that is reasonably attributable to the part of the payment covered by the notice. The amount that the entity is required to withhold is the attributable amount multiplied by the applicable withholding rate: subsection 12-390(5) of Schedule 1 to the TAA. The applicable withholding rate is worked out under subsection 12-390(6) of Schedule 1 to the TAA according to whether the recipient is resident in a jurisdiction with which Australia has effective exchange of information for taxation matters.
 As the trustee of Trust X has made the foreign resident beneficiary entitled to an amount that is reasonably attributable to a fund payment it received from the MIT and which is covered by a notice under section 12-395 of Schedule 1 to the TAA, the trustee is required to withhold an amount from that payment. Further, as the beneficiary is a resident of an information exchange country, the rate of withholding is calculated in accordance with paragraph 12-390(6)(a) of Schedule 1 to the TAA.
 In determining the appropriate withholding rate, an issue arises as to whether the 'income year' referred to in paragraph 12-390(6)(a) in Schedule 1 to the TAA is the income year in which the withholding obligation arises for Trust X (i.e. in the 2010 income year of Trust X when the foreign resident's entitlement to the attributable amount arises) or if it is a reference to the income year of the MIT to which the fund payment relates (the 2009 income year). This is relevant as the rate of withholding tax is 22.5% for income years commencing on or after 1 July 2008 and 15% for the following income year.
 It is considered that the income year referred to in paragraph 12-390(6)(a) of Schedule 1 to the TAA is the income year of the MIT to which the fund payment relates.
 The expression 'in relation to' is used in paragraph 12-390(6)(a) of Schedule 1 to the TAA to require a relationship between the income year and a fund payment. The nature of that connection is to be determined from its statutory context.
 Relevantly, one of the requirements for a withholding obligation to arise under subsection 12-390(4) of Schedule 1 to the TAA is that Trust X receives all or part of a payment that is covered by a notice or information under section 12-395 of Schedule 1 to the TAA.
-Section 12-395 of Schedule 1 to the TAA requires a MIT to give to the recipient of a fund payment a notice (or publish details of the payment on a website for at least 5 years) that contains sufficient information about the payment to allow the recipient to accurately discharge its withholding obligations. To that end, the notice must include:
-
-•the part of the payment made to the recipient from which an amount would have been required to have been withheld under section 12-385 of Schedule 1 to the TAA if the MIT had made the payment directly to a foreign resident (and the payment is not attributable to a permanent establishment of the foreign resident), and
-•the income year of the MIT to which that part relates: see subsection 12-395(3) of Schedule 1 to the TAA.
-
-As the notice provided to Trust X is a source of its obligation to withhold, it follows that the 'income year' referred to in paragraph 12-390(6)(a) of Schedule 1 to the TAA that determines the applicable rate of withholding, must refer to the income year of the MIT to which the fund payment relates as found in the notice.
+Section 12-395 of Schedule 1 to the TAA requires a MIT to give to the recipient of a fund payment a notice (or publish details of the payment on a website for at least 5 years) that contains sufficient information about the payment to allow the recipient to accurately discharge its withholding obligations. To that end, the notice must include: •the part of the payment made to the recipient from which an amount would have been required to have been withheld under section 12-385 of Schedule 1 to the TAA if the MIT had made the payment directly to a foreign resident (and the payment is not attributable to a permanent establishment of the foreign resident), and
+•the income year of the MIT to which that part relates: see subsection 12-395(3) of Schedule 1 to the TAA. As the notice provided to Trust X is a source of its obligation to withhold, it follows that the 'income year' referred to in paragraph 12-390(6)(a) of Schedule 1 to the TAA that determines the applicable rate of withholding, must refer to the income year of the MIT to which the fund payment relates as found in the notice.
 Therefore, the trustee of Trust X is required to withhold at the rate of 22.5% being the withholding rate in paragraph 12-390(6)(a) of Schedule 1 to the TAA that corresponds to the 2009 income year of the MIT to which the fund payment relates.
-This interpretation promotes the objectives of the MIT withholding provisions by ensuring that foreign resident investors do not obtain different after-tax outcomes according to whether they invest in a MIT directly or via one or more intermediaries.
-
-Amendment History
-
-Date of Amendment
+This interpretation promotes the objectives of the MIT withholding provisions by ensuring that foreign resident investors do not obtain different after-tax outcomes according to whether they invest in a MIT directly or via one or more intermediaries. Amendment History Date of Amendment
 Part
-Comment
-
-9 September 2018
+Comment 9 September 2018
 Reasons for Decision
-Inserted new legislative reference - section 275-10.
-
-Date of decision:
-  6 November 2013
-
-Year of income:
-  Year ended 30 June 2009 Year ended 30 June 2010
-
-Legislative References:
-
-Taxation Administration Act 1953   Schedule 1   Subdivision 12-H   section 12-385   subsection 12-390(4)   subsection 12-390(5)   subsection 12-390(6)   paragraph 12-390(6)(a)   section 12-395   subsection 12-395(1)   section 12-400   section 12-405   ITAA 1997   275-10
-
-Keywords
-
-distribution to non residents
- managed investment trusts
- investment trusts
- withholding taxes
-
-Siebel/TDMS Reference Number:
-  1-4XQ04O6; 1-7YPR39H; 1-E8ZMSYS
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  29 November 2013
-
-Date reviewed:
-  20 April 2018
-
-ISSN:
- 1445-2782
+Inserted new legislative reference - section 275-10. Date of decision: 6 November 2013 Year of income: Year ended 30 June 2009 Year ended 30 June 2010 Legislative References: Taxation Administration Act 1953 Schedule 1 Subdivision 12-H section 12-385 subsection 12-390(4) subsection 12-390(5) subsection 12-390(6) paragraph 12-390(6)(a) section 12-395 subsection 12-395(1) section 12-400 section 12-405 ITAA 1997 275-10 Keywords distribution to non residents managed investment trusts investment trusts withholding taxes Siebel/TDMS Reference Number: 1-4XQ04O6; 1-7YPR39H; 1-E8ZMSYS Business Line: Private Groups and High Wealth Individuals Date of publication: 29 November 2013 Date reviewed: 20 April 2018 ISSN: 1445-2782

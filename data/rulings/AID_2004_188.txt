@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/188
-==================================================
-
-Goods and Services Tax
- GST and adult entertainment services: dancer contracted to a third party
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and adult entertainment services: dancer contracted to a third party FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is entity A, a supplier of adult entertainment services, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when a dancer, provided by and contracted to another entity, entity B, performs a lap dance or striptease for one or more of entity A's customers?
 Decision
 Yes, entity A is making a taxable supply under section 9-5 of the GST Act when a dancer, provided by and contracted to entity B, performs a lap dance or striptease for one or more of entity A's customers.
@@ -29,14 +16,10 @@ Entity A sets the prices for the lap dances and stripteases. Entity A's employee
 Payments by way of cash are paid directly to entity A and deposited into its cash register. Payments by way of EFTPOS or credit card are processed on an EFTPOS machine owned by entity B and go directly into entity B's bank account.
 At the end of the night entity A reconciles all the money taken for the dances. Any amount owed to entity B is transferred directly into entity B's bank account and if entity B owes entity A any money, entity A deposits the amount owing into their own account.
 Reasons for Decision
-Section 9-5 of the GST Act provides that an entity is making a taxable supply where:
-
-• it makes a supply for consideration
+Section 9-5 of the GST Act provides that an entity is making a taxable supply where: • it makes a supply for consideration
 • the supply is made in the course or furtherance of an enterprise that it carries on
 • the supply is connected with Australia, and
-• it is registered, or required to be registered for GST.
-
-However, a supply is not taxable if it is GST-free or input taxed.
+• it is registered, or required to be registered for GST. However, a supply is not taxable if it is GST-free or input taxed.
 Before examining the elements of section 9-5 of the GST Act, it is necessary to identify who is actually making the supply of dancing services to the customers.
 Entity B contracts the services of dancers. Entity A enters into an agreement with entity B, whereby entity B supplies the dancers to entity A for the purpose of providing dancing and striptease services for entity A's customers.
 In this situation two separate supplies exist. The first supply is the supply of contracted services by the dancers to entity B.
@@ -47,34 +30,4 @@ Entity A sets the price for the lap dances and stripteases and provides the mean
 The entity is registered or required to be registered for GST and the supply is made in the course of its enterprise and is connected with Australia. In addition, the supply is not input taxed under any of the provisions in Division 40 of the GST Act nor is it GST-free under Division 38 of the GST Act. Accordingly, all the requirements in section 9-5 of the GST Act are satisfied.
 Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when a dancer, provided by and contracted to entity B, performs a lap dance or striptease for one or more of entity A's customers
 Note: As the lap dance/striptease fee is consideration for the entity's supply of services, the entity has a GST liability equal to 1/11th of the total fee received (section 9-70 of the GST Act).
-Date of decision:
-  19 February 2004
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 9-15   section 9-70   Division 38   Division 40
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/186
- ATO ID 2004/187
-
-Keywords
-
-Goods and services tax
- GST consideration
- GST supplies & acquisitions
- GST supply
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  3836740
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  27 February 2004
-
-ISSN:
- 1445-2782
+Date of decision: 19 February 2004 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 9-15 section 9-70 Division 38 Division 40 Related ATO Interpretative Decisions ATO ID 2004/186 ATO ID 2004/187 Keywords Goods and services tax GST consideration GST supplies & acquisitions GST supply Taxable supply Siebel/TDMS Reference Number: 3836740 Business Line: Indirect Tax Date of publication: 27 February 2004 ISSN: 1445-2782

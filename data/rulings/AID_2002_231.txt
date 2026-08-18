@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/231
-==================================================
-
-Income Tax
- GST and reconstituted juices consisting principally of noni juice
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax GST and reconstituted juices consisting principally of noni juice FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a reconstituted fruit juice product consisting principally of noni juice?
 Decision
 Yes, the entity is making a GST-free supply under section 38-2 of the GST Act when it supplies a reconstituted fruit juice product consisting principally of noni juice.
@@ -26,42 +15,11 @@ Reasons for Decision
 A supply of food is GST-free under section 38-2 of the GST Act if the product satisfies the definition of food in section 38-4 of the GST Act and the supply is not excluded from being GST-free by section 38-3 of the GST Act.
 Food is defined in section 38-4 of the GST Act to include beverages for human consumption (paragraph 38-4(1)(c) of the GST Act). The meaning of the term beverage for the purposes of the GST Act is determined by subsection 38-4(2) of the GST Act. This section provides that beverage includes water.
 As this definition does not assist in determining whether noni juice is a beverage for the purposes of the GST Act, it is necessary to consider how the courts have defined 'beverage'.
-Lockhart J in Bristol-Myers Co. Pty. Ltd. v. Federal Commissioner of Taxation (1990) 21 ATR 417 describes 'a beverage' as 'a drink of any kind'. Lockhart J goes on to say that:
-
-'..."Drink" when used as a noun is defined in slightly different ways by dictionaries, but in my view it means any liquid which is swallowed to quench thirst or for nourishment.'
-
-Therefore, a beverage is considered to be any liquid that is swallowed for nourishment or to quench thirst. A liquid providing nourishment will sustain life by assisting in growth or providing energy. A nutritional purpose may be contrasted with a medicinal purpose, which arises where a liquid is provided for the treatment of disease or has curative or remedial purposes.
+Lockhart J in Bristol-Myers Co. Pty. Ltd. v. Federal Commissioner of Taxation (1990) 21 ATR 417 describes 'a beverage' as 'a drink of any kind'. Lockhart J goes on to say that: '..."Drink" when used as a noun is defined in slightly different ways by dictionaries, but in my view it means any liquid which is swallowed to quench thirst or for nourishment.' Therefore, a beverage is considered to be any liquid that is swallowed for nourishment or to quench thirst. A liquid providing nourishment will sustain life by assisting in growth or providing energy. A nutritional purpose may be contrasted with a medicinal purpose, which arises where a liquid is provided for the treatment of disease or has curative or remedial purposes.
 Noni juice is a liquid that is swallowed for nourishment. Furthermore, the product is not promoted as having any medicinal purposes. Therefore, the noni juice is a beverage for human consumption as per paragraph 38-4(1)(c) of the GST Act.
 However, under paragraph 38-3(1)(d) of the GST Act, a supply of a beverage is not GST-free unless it is a beverage of a kind specified in the table in clause 1 of Schedule 2 to the GST Act (Schedule 2).
 Of most relevance to noni juice is item 12 of Schedule 2 (Item 12), which provides that non-alcoholic non-carbonated beverages, that consist of at least 90 per cent by volume of juices of fruits or vegetables, are GST-free.
 Noni juice is both non-alcoholic and non-carbonated, and it consists of at least 90 per cent by volume of the juice of fruits.
 As the reconstituted noni juice has the same properties as the juice when it is initially extracted from the fruit, the reconstituted juice is considered to be the same product as freshly extracted juice and is covered by Item 12.
 In addition, the supply of noni juice does not fall within any of the other exclusions in section 38-3 of the GST Act. Therefore, the entity is making a GST-free supply under section 38-2 of the GST Act when it supplies noni juice.
-Date of decision:
-  21 December 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 38-2   section 38-3   paragraph 38-3(1)(d)   section 38-4   paragraph 38-4(1)(c)   subsection 38-4(2)   Schedule 2 clause 1   Schedule 2 clause 1 table item 12
-
-Case References:
-
-Bristol-Myers Company Pty Ltd v. Federal Commissioner of Taxation - 27 June 1990   90 ATC 4553   (1990) 23 FCR 126   21 ATR 417
-
-Keywords
-
-GST free
- GST food
- GST beverages
-
-Siebel/TDMS Reference Number:
-  CW231968
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  8 March 2002
-
-ISSN:
- 1445-2782
+Date of decision: 21 December 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 38-2 section 38-3 paragraph 38-3(1)(d) section 38-4 paragraph 38-4(1)(c) subsection 38-4(2) Schedule 2 clause 1 Schedule 2 clause 1 table item 12 Case References: Bristol-Myers Company Pty Ltd v. Federal Commissioner of Taxation - 27 June 1990 90 ATC 4553 (1990) 23 FCR 126 21 ATR 417 Keywords GST free GST food GST beverages Siebel/TDMS Reference Number: CW231968 Business Line: Indirect Tax Date of publication: 8 March 2002 ISSN: 1445-2782

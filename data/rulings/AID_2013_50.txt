@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/50
-==================================================
-
-Income Tax
- Imputation: Head Company ceases to be an exempting entity when it becomes a deemed former exempting entity
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Imputation: Head Company ceases to be an exempting entity when it becomes a deemed former exempting entity CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Has a head company 'ceased to be an exempting entity' for the purposes of section 208-155 of the Income Tax Assessment Act 1997 (ITAA 1997) if the head company is deemed by section 709-165 of the ITAA 1997 to have 'become a former exempting entity' at the joining time?
 Decision
 Yes. A head company has ceased to be an exempting entity for the purposes of section 208-155 of the ITAA 1997 if section 709-165 of the ITAA 1997 deems it to become a former exempting entity at the joining time. This is because the deeming under section 709-165 necessarily implies that the head company has also ceased to be an exempting entity.
@@ -20,55 +10,18 @@ Head Company (Head Co) is the head company of the ABC income tax consolidated gr
 Head Co, as head company, elected to form a consolidated group for Australian income tax purposes on 1 July 2006.
 Subsidiary Company (Sub Co) is an Australian resident company for Australian income tax purposes.
 On 1 July 2010 (the joining time) Head Co acquired all the shares in Sub Co and Sub Co became a subsidiary member of the ABC Group.
-At the joining time:
-
-•Sub Co was a 'former exempting entity' pursuant to section 208-10 of the ITAA 1997.
-•Head Co was neither and exempting entity nor a former exempting entity.
-
-Under section 709-165 of the ITAA 1997, Head Co was deemed to become a former exempting entity at the joining time.
+At the joining time: •Sub Co was a 'former exempting entity' pursuant to section 208-10 of the ITAA 1997.
+•Head Co was neither and exempting entity nor a former exempting entity. Under section 709-165 of the ITAA 1997, Head Co was deemed to become a former exempting entity at the joining time.
 Reasons for Decision
 Division 208 of the ITAA 1997 contains provisions relating to exempting entities and former exempting entities for the purpose of the imputation system. These rules are designed to prevent franking credit trading schemes involving corporate tax entities that are effectively owned by persons for whom franking credits have little value (that is, foreign residents or exempt entities). Such corporate tax entities are referred to as 'exempting entities'.
 When an exempting entity becomes a former exempting entity, its franking account is converted to an exempting account, and the entity starts a new franking account. The exempting account is quarantined so that distributions franked with exempting credits only confer a franking benefit for 'eligible continuing substantial members'.
-Section 208-155 of the ITAA 1997 sets out the test for determining whether a member of a former exempting entity is an 'eligible continuing substantial member' in relation to a distribution made by the former exempting entity to the member. To qualify, the member must satisfy the conditions set out in section 208-155 at both:
-
-(i)the time when the distribution was made; and
-(ii)the time immediately before the entity paying the distribution ceased to be an exempting entity.
-
-For a consolidated group, section 208-155 of the ITAA 1997 must be read in the context of Subdivision 709-B of the ITAA 1997 which modifies the operation of Division 208 of the ITAA 1997.
-Relevantly, section 709-165 of the ITAA 1997 applies if:
-
-•the head company of a consolidated group is neither an exempting entity nor a former exempting entity;
+Section 208-155 of the ITAA 1997 sets out the test for determining whether a member of a former exempting entity is an 'eligible continuing substantial member' in relation to a distribution made by the former exempting entity to the member. To qualify, the member must satisfy the conditions set out in section 208-155 at both: (i)the time when the distribution was made; and
+(ii)the time immediately before the entity paying the distribution ceased to be an exempting entity. For a consolidated group, section 208-155 of the ITAA 1997 must be read in the context of Subdivision 709-B of the ITAA 1997 which modifies the operation of Division 208 of the ITAA 1997.
+Relevantly, section 709-165 of the ITAA 1997 applies if: •the head company of a consolidated group is neither an exempting entity nor a former exempting entity;
 •a corporate tax entity becomes a subsidiary member of the group at a time (the joining time); and
-•the joining entity is a former exempting entity.
-
-This being the case, item 1 of the table in subsection 709-165(2) of the ITAA 1997 will apply to deem that the head company becomes a former exempting entity at the joining time.
+•the joining entity is a former exempting entity. This being the case, item 1 of the table in subsection 709-165(2) of the ITAA 1997 will apply to deem that the head company becomes a former exempting entity at the joining time.
 However, in applying section 208-155 of the ITAA 1997, an issue arises with regard to the second test time. Because under section 709-165 of the ITAA 1997 the head company is deemed to be a former exempting entity without ever having been an exempting entity in its own right, in a literal sense it has not ceased to be an exempting entity.
 However, for the purpose of section 208-155 of the ITAA 1997, the expression 'the head company becomes a former exempting entity at the joining time ' in item 1 of the table in subsection 709-165(2) of the ITAA 1997, is taken to necessarily imply that the head company has also 'ceased to be an exempting entity'. This is taken to have occurred at the joining time.
 This interpretation maintains the objectives of Division 208 of the ITAA 1997 and any member who subsequently receives a distribution will need to be an 'eligible continuing substantial member' in order to benefit from the exempting credits sourced from the joining entity.
 In the current situation, Head Co is deemed to have become a former exempting entity at the time Sub Co joined the ABC Group, being 1 July 2010. At this time Head Co is also considered to have ceased to be an exempting entity for the purpose of section 208-155 of the ITAA 1997.
-Date of decision:
-  12 September 2013
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 208-10   section 208-155   Subdivision 709-B   section 709-165   subsection 709-165(2)
-
-Keywords
-
-foreign income exempting profits & receipts
- head company
-
-Siebel/TDMS Reference Number:
-  1-4ZK1MYQ
-
-Business Line:
-  Interpretative Advice, Public Groups & International
-
-Date of publication:
-  20 September 2013
-
-ISSN:
- 1445-2782
+Date of decision: 12 September 2013 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1997 section 208-10 section 208-155 Subdivision 709-B section 709-165 subsection 709-165(2) Keywords foreign income exempting profits & receipts head company Siebel/TDMS Reference Number: 1-4ZK1MYQ Business Line: Interpretative Advice, Public Groups & International Date of publication: 20 September 2013 ISSN: 1445-2782

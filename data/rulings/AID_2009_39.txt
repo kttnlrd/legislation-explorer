@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/39
-==================================================
-
-Income Tax
- Capital Allowances: business related costs - capital expenditure
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: business related costs - capital expenditure FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the taxpayer claim a deduction under section 40-880 of the Income Tax Assessment Act 1997 (ITAA 1997) for a payment made voluntarily by them to extinguish a liability incurred by a company of which they were previously a director and shareholder?
 Decision
 No. The taxpayer can not claim a deduction under section 40-880 of the ITAA 1997 for the payment made voluntarily by them because the payment does not constitute capital expenditure.
@@ -22,64 +11,7 @@ The company carried on a business and incurred a business related liability, whi
 The taxpayer satisfied the liability that was incurred by the company by voluntarily paying the amount of the liability directly to the company's creditor. The taxpayer had not provided any personal guarantee in respect of the liability incurred by the company. There was no ancillary agreement between the company and the taxpayer for the company to reimburse the taxpayer for the amount paid. The amount was not paid by the taxpayer in the form of a loan to the company.
 Reasons for Decision
 Section 40-880 of the ITAA 1997 allows a deduction over five income years for certain business-related capital expenditure. Therefore, for expenditure to be considered for deduction under section 40-880, it must be capital expenditure.
-The judgment of Dixon J in Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation (1938) 61 CLR 337; (1938) 5 ATD 23; (1938) 1 AITR 403 (Sun Newspapers) is the leading authority on the distinction between revenue and capital expenditure. In Sun Newspapers, Dixon J referred to what are now considered guidelines in determining whether a loss or outgoing is of a capital or revenue nature:
-
-There are, I think, three matters to be considered, (a) the character of the advantage sought, and in this its lasting qualities may play a part, (b) the manner in which it is used, relied upon or enjoyed, and in this and under the former head recurrence may play its part, and (c) the means adopted to obtain it; that is, by providing a periodical reward or outlay to cover its use or enjoyment for periods commensurate with the payment or by making a final provision or payment so as to secure future use or enjoyment.
-
-The character of the advantage sought provides important direction. It provides the best guidance as to the nature of the expenditure as it says most about the essential character of the expenditure itself. The decision of the High Court in G.P. International Pipecoaters v. Federal Commissioner of Taxation (1990) 170 CLR 124; 90 ATC 4413; (1990) 21 ATR 1 emphasised this, stating:
-
-The character of expenditure is ordinarily determined by reference to the nature of the asset acquired or the liability discharged by the making of the expenditure, for the character of the advantage sought by the making of the expenditure is the chief, if not the critical, factor in determining the character of what is paid: Sun Newspapers Ltd and Associated Newspapers Ltd v FCT (1938) 61 CLR 337, at 363; 1 AITR 353; ...
-
-In relation to the character of the advantage sought by the expenditure it is necessary to examine whether the expenditure secures an enduring benefit for the business. This test was outlined in British Insulated and Helsby Cables Ltd v. Atherton [1926] AC 205 at 213 - 214 by Viscount Cave where he stated:
-
-But when an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital.
-
-If expenditure produces some asset or advantage of a lasting character for the benefit of the organisation or profit-earning structure it will be considered to be capital expenditure. As stated in Anglo-Persian Oil Co. Ltd. v Dale (1932) 145 L.T at 262 per Rowland J; Sun Newspapers at 355 per Latham J, an enduring benefit does not require that the taxpayer obtain an actual asset, but a benefit which endures, in the way that fixed capital endures. Menzies J in John Fairfax & Sons Pty Ltd v. Federal Commissioner of Taxation (1959) 101 CLR 30; (1959) 11 ATD 510; (1959) 7 AITR 346 concludes that a capital expense can also result in the reduction of capital. In Foley Brothers Pty Ltd v. FC of T (1965) 13 ATD 562; (1965) 9 AITR 635, outgoings incurred for the purpose of altering the organisation or structure of the profit-yielding subject (including its demise) were considered to be of a capital nature.
+The judgment of Dixon J in Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation (1938) 61 CLR 337; (1938) 5 ATD 23; (1938) 1 AITR 403 (Sun Newspapers) is the leading authority on the distinction between revenue and capital expenditure. In Sun Newspapers, Dixon J referred to what are now considered guidelines in determining whether a loss or outgoing is of a capital or revenue nature: There are, I think, three matters to be considered, (a) the character of the advantage sought, and in this its lasting qualities may play a part, (b) the manner in which it is used, relied upon or enjoyed, and in this and under the former head recurrence may play its part, and (c) the means adopted to obtain it; that is, by providing a periodical reward or outlay to cover its use or enjoyment for periods commensurate with the payment or by making a final provision or payment so as to secure future use or enjoyment. The character of the advantage sought provides important direction. It provides the best guidance as to the nature of the expenditure as it says most about the essential character of the expenditure itself. The decision of the High Court in G.P. International Pipecoaters v. Federal Commissioner of Taxation (1990) 170 CLR 124; 90 ATC 4413; (1990) 21 ATR 1 emphasised this, stating: The character of expenditure is ordinarily determined by reference to the nature of the asset acquired or the liability discharged by the making of the expenditure, for the character of the advantage sought by the making of the expenditure is the chief, if not the critical, factor in determining the character of what is paid: Sun Newspapers Ltd and Associated Newspapers Ltd v FCT (1938) 61 CLR 337, at 363; 1 AITR 353; ... In relation to the character of the advantage sought by the expenditure it is necessary to examine whether the expenditure secures an enduring benefit for the business. This test was outlined in British Insulated and Helsby Cables Ltd v. Atherton [1926] AC 205 at 213 - 214 by Viscount Cave where he stated: But when an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital. If expenditure produces some asset or advantage of a lasting character for the benefit of the organisation or profit-earning structure it will be considered to be capital expenditure. As stated in Anglo-Persian Oil Co. Ltd. v Dale (1932) 145 L.T at 262 per Rowland J; Sun Newspapers at 355 per Latham J, an enduring benefit does not require that the taxpayer obtain an actual asset, but a benefit which endures, in the way that fixed capital endures. Menzies J in John Fairfax & Sons Pty Ltd v. Federal Commissioner of Taxation (1959) 101 CLR 30; (1959) 11 ATD 510; (1959) 7 AITR 346 concludes that a capital expense can also result in the reduction of capital. In Foley Brothers Pty Ltd v. FC of T (1965) 13 ATD 562; (1965) 9 AITR 635, outgoings incurred for the purpose of altering the organisation or structure of the profit-yielding subject (including its demise) were considered to be of a capital nature.
 In this case, the payment that was made by the taxpayer was a voluntary payment, made privately under no obligation and in return for no benefit from either the company's creditor or the company. The payment was not made for the purpose of altering the profit-yielding structure of the company. Although the company was being wound up, on these particular facts, the payment does not have a sufficient connection with the demise of the profit-yielding structure of the company.
 As a result, there is no enduring benefit from the payment and the taxpayer's voluntary payment can not be of a capital nature. As a deduction under section 40-880 of the ITAA 1997 requires that the expenditure be capital expenditure, the taxpayer can not deduct the voluntary payment made to the company's creditor under section 40-880.
-Date of decision:
-  27 May 2009
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 40-880
-
-Case References:
-
-Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation   (1938) 61 CLR 337   (1938) 5 ATD 23   (1938) 1 AITR 403
-
-John Fairfax & Sons Pty Ltd v. Federal Commissioner of Taxation   (1959) 101 CLR 30   (1959) 11 ATD 510   (1959) 7 AITR 346
-
-British Insulated and Helsby Cables Ltd v. Atherton    [1926] AC 205
-
-Anglo-Persian Oil Co. Ltd. v Dale    (1932) 145 L.T 529   [1932] 1 KB 124    [1931] All ER Rep 725
-
-Foley Brothers Pty Ltd v. FC of T   (1965) 13 ATD 562   (1965) 9 AITR 635
-
-GP International Pipecoaters Pty Ltd v. Commissioner of Taxation   (1990) 170 CLR 124   90 ATC 4413   (1990) 21 ATR 1
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 96/23
-
-Keywords
-
-Blackhole expenditure
- Capital Allowances CoE
- Centres of Expertise
- Deductions & expenses
-
-Siebel/TDMS Reference Number:
-  5979641
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  5 June 2009
-
-ISSN:
- 1445-2782
+Date of decision: 27 May 2009 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1997 section 40-880 Case References: Sun Newspapers Ltd. and Associated Newspapers Ltd. v. Federal Commissioner of Taxation (1938) 61 CLR 337 (1938) 5 ATD 23 (1938) 1 AITR 403 John Fairfax & Sons Pty Ltd v. Federal Commissioner of Taxation (1959) 101 CLR 30 (1959) 11 ATD 510 (1959) 7 AITR 346 British Insulated and Helsby Cables Ltd v. Atherton [1926] AC 205 Anglo-Persian Oil Co. Ltd. v Dale (1932) 145 L.T 529 [1932] 1 KB 124 [1931] All ER Rep 725 Foley Brothers Pty Ltd v. FC of T (1965) 13 ATD 562 (1965) 9 AITR 635 GP International Pipecoaters Pty Ltd v. Commissioner of Taxation (1990) 170 CLR 124 90 ATC 4413 (1990) 21 ATR 1 Related Public Rulings (including Determinations) Taxation Ruling TR 96/23 Keywords Blackhole expenditure Capital Allowances CoE Centres of Expertise Deductions & expenses Siebel/TDMS Reference Number: 5979641 Business Line: Public Groups and International Date of publication: 5 June 2009 ISSN: 1445-2782

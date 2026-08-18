@@ -1,41 +1,20 @@
 ATO Interpretative Decision
 ATO ID 2003/849
-==================================================
-
-Income Tax
- Deductibility: 'annual financing costs' paid in advance under a fixed interest commercial bill facility - date incurred
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deductibility: 'annual financing costs' paid in advance under a fixed interest commercial bill facility - date incurred FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are 'annual financing costs', paid in advance under a Fixed Rate Commercial Bill Facility, incurred on the date that the facility is drawn down and on the subsequent anniversary date of the drawdown, given that the purpose for which the facility is drawn satisfies the conditions for deductibility under the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The 'annual financing costs', paid in advance under a Fixed Rate Commercial Bill Facility, are incurred on the date that the facility is drawn down and on the subsequent anniversary date of the drawdown.
 Facts
 The taxpayer is an individual who borrows funds to purchase shares which are held as an investment.
 The taxpayer funds the share purchase with a fixed rate commercial bill facility (the facility) offered by the Bank. The facility has a limit of $100,000 and a two year term commencing when the facility is drawn.
-Under the facility agreement the taxpayer makes three payments only:
-
-(i)An 'annual financing cost' of $10,000 on the date that the facility is drawn
+Under the facility agreement the taxpayer makes three payments only: (i)An 'annual financing cost' of $10,000 on the date that the facility is drawn
 (ii)A second 'annual financing cost' of $10,000 payable one year later at the commencement of the second year of the two year term; and
-(iii)$100,000 payable at the end of the second year being the face value of the last bill drawn.
-
-Bills drawn under the facility have a tenor of approximately 90 days.
-On or before a drawdown date (including a roll-over date), the Bank uses authorities provided by the taxpayer to draw, sign and present the bills which the taxpayer has requested the Bank to accept and discount on the drawdown date so that each bill:
-
-• is dated with the drawdown date
+(iii)$100,000 payable at the end of the second year being the face value of the last bill drawn. Bills drawn under the facility have a tenor of approximately 90 days.
+On or before a drawdown date (including a roll-over date), the Bank uses authorities provided by the taxpayer to draw, sign and present the bills which the taxpayer has requested the Bank to accept and discount on the drawdown date so that each bill: • is dated with the drawdown date
 • is drawn by the taxpayer or on their behalf with the name of the payee to be completed by the Bank
 • names the Bank as drawer and acceptor; and
-• is for a face amount determined by the Bank.
-
-The taxpayer may prevent the roll-over of a fixed rate bill by providing the Bank with written notice that they do not wish to roll the bill. However, should the taxpayer do so, they must compensate the Bank for any losses that it might incur in replacing the bill in the market place at the fixed yield.
+• is for a face amount determined by the Bank. The taxpayer may prevent the roll-over of a fixed rate bill by providing the Bank with written notice that they do not wish to roll the bill. However, should the taxpayer do so, they must compensate the Bank for any losses that it might incur in replacing the bill in the market place at the fixed yield.
 Reasons for Decision
 The deductibility of the financing costs falls for consideration under several specific sections of the Income Tax Assessment Act 1936 (ITAA 1936).
 Division 16E of the ITAA 1936 spreads the return on a 'qualifying security' over the term of the security and includes in assessable income that amount, calculated in accordance with the division that is attributable to each of a number of particular years of income. Section 70B of the ITAA 1936, on the other hand, includes a loss on the disposal or redemption of a 'traditional security' in the assessable income of the taxpayer in the year of income in which the disposal or redemption occurs.
@@ -51,41 +30,5 @@ If the Bank were to purchase the bills at a discount when they were drawn, the t
 However, as the Bank purchases the bills from the taxpayer at their face value rather than at a discount, there is no difference between the amount at which a particular bill is sold and the amount at which that bill is redeemed. Therefore, there is no gain or loss on any of the individual bill transactions to be deductible under section 8-1 of the ITAA 1997.
 Rather, the loss or outgoing that falls for consideration for deduction arises from the payment of each financing cost. Provided that the taxpayer pays the Bank the annual financing cost specified in the Bank's Letter of Offer, the Bank will accept the bills drawn by the taxpayer in the ensuing year. Further the Bank covenants to purchase the bills from the taxpayer at their face value. The first financing cost is paid in advance on the draw down date.
 Therefore, the taxpayer incurs the financing cost on the date that it is paid. The amount is deductible in full in the year of income in which the payment is made.
-Date of decision:
-  29 August 2003
-
-Year of income:
-  Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1
-Income Tax Assessment Act 1936   subsection 159GP(1)   subsection 159GP(3)
-
-Case References:
-
-K D Morris & Sons Pty Ltd (in liq) v. Bank of Queensland Ltd   (1980) 146 CLR 165
-
-Coles Myer Finance Limited v. Federal Commissioner of Taxation   (1993) 176 CLR 640   93 ATC 4214   (1993) 25 ATR 95
-
-Inland Revenue Commissioners v. Rowntree and Co. Ltd.   [1948] 1 All ER 482
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 93/21
-
-Keywords
-
-Commercial bills
-
-Siebel/TDMS Reference Number:
-  222523
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  19 September 2003
-
-ISSN:
- 1445-2782
+Date of decision: 29 August 2003 Year of income: Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 8-1
+Income Tax Assessment Act 1936 subsection 159GP(1) subsection 159GP(3) Case References: K D Morris & Sons Pty Ltd (in liq) v. Bank of Queensland Ltd (1980) 146 CLR 165 Coles Myer Finance Limited v. Federal Commissioner of Taxation (1993) 176 CLR 640 93 ATC 4214 (1993) 25 ATR 95 Inland Revenue Commissioners v. Rowntree and Co. Ltd. [1948] 1 All ER 482 Related Public Rulings (including Determinations) Taxation Ruling TR 93/21 Keywords Commercial bills Siebel/TDMS Reference Number: 222523 Business Line: Public Groups and International Date of publication: 19 September 2003 ISSN: 1445-2782

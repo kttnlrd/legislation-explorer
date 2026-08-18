@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/106
-==================================================
-
-Income Tax
- Company tax losses: a 'widely held company' that replaces another 'widely held company' for part of the income year - whether a widely held company 'at all times' during the income year
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company tax losses: a 'widely held company' that replaces another 'widely held company' for part of the income year - whether a widely held company 'at all times' during the income year FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a 'widely held company' is replaced during the income year by an interposed 'widely held company' that makes a choice under subsection 124-380(5) of the Income Tax Assessment Act 1997 (ITAA 1997), will the interposed company be a widely held company 'at all times' during the income year for the purposes of Division 166 of the ITAA 1997?
 Decision
 Yes. As a result of the choice under subsection 124-380(5) of the ITAA 1997, the effect of section 703-75 of the ITAA 1997 is that the interposed widely held company is a widely held company at all times during the income year for the purposes of Division 166 of the ITAA 1997.
@@ -32,39 +21,7 @@ A company that makes a choice under subsection 124-380(5) of the ITAA 1997 to in
 Sections 703-65 to 703-80 of the ITAA 1997 focus on the 'completion time'. Under Subdivision 124-G of the ITAA 1997, this is the time when the interposed company (Holding Company) owns all of the shares in the original company (Company X) just after all of the shareholders in the original company have transferred their shares in the original company.
 Under subsection 703-75(3) of the ITAA 1997, subsection 703-75(1) of the ITAA 1997 has effect for the head company core purposes. Subsection 701-1(2) of the ITAA 1997 defines the 'head company core purposes' as including 'working out the amount of the head company's liability (if any) for income tax'.
 The ability of Holding Company (the new head company) to recoup the tax loss under Division 166 of the ITAA 1997 will affect the calculation of Holding Company's liability for income tax. This is one of the head company core purposes.
-In order to recoup the tax loss under Division 166 of the ITAA 1997, subsection 166-5(1) of the ITAA 1997 requires Holding Company to be a widely held company
- at all times
- during the income year in which it seeks to deduct the tax loss.
+In order to recoup the tax loss under Division 166 of the ITAA 1997, subsection 166-5(1) of the ITAA 1997 requires Holding Company to be a widely held company at all times during the income year in which it seeks to deduct the tax loss.
 As a result of subsection 703-75(1) of the ITAA 1997, Holding Company is a widely held company, for the purposes of Division 166 of the ITAA 1997, before the completion time, and will be a widely held company for the remainder of the income year.
 Therefore, Holding Company is a widely held company at all times during the income year.
-Date of decision:
-  2 March 2007
-
-Year of income:
-  Year ended 30 September 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 124-G   subsection 124-380(5)   section 165-12   Division 166   subsection 166-5(1)   subsection 166-5(3)   subsection 701-1(2)   section 703-65   section 703-75   subsection 703-75(1)   subsection 703-75(3)   section 703-80   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2007/107
-
-Keywords
-
-Consolidated group
- Head company
- Tax loss
-
-Siebel/TDMS Reference Number:
-  5574168
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 May 2007
-
-ISSN:
- 1445-2782
+Date of decision: 2 March 2007 Year of income: Year ended 30 September 2008 Legislative References: Income Tax Assessment Act 1997 Subdivision 124-G subsection 124-380(5) section 165-12 Division 166 subsection 166-5(1) subsection 166-5(3) subsection 701-1(2) section 703-65 section 703-75 subsection 703-75(1) subsection 703-75(3) section 703-80 subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2007/107 Keywords Consolidated group Head company Tax loss Siebel/TDMS Reference Number: 5574168 Business Line: Public Groups and International Date of publication: 25 May 2007 ISSN: 1445-2782

@@ -1,105 +1,36 @@
 ATO Interpretative Decision
 ATO ID 2005/354
-==================================================
-
-Goods and Services Tax
- GST and the supply of domain name registration
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and the supply of domain name registration FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a non-resident registrar of domain names, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) when it supplies a domain name registration to an Australian resident entity that is registered for goods and services tax (GST)?
 Decision
 No. The non-resident entity is not making a taxable supply under section 9-5 of the GST Act when it supplies a domain name registration to an Australian resident customer through its website. The supply is not connected with Australia.
 Facts
 The entity is a non-resident registrar of .au domain names. It does not have a permanent establishment in Australia. It is not registered for GST.
-The entity supplies domain name registrations through its website from outside Australia for Australian resident customers who are in Australia. When registering a domain name, the entity:
-
-•verifies the customer's application, ensures that the customer is eligible to use the name and checks that the name is available for use
+The entity supplies domain name registrations through its website from outside Australia for Australian resident customers who are in Australia. When registering a domain name, the entity: •verifies the customer's application, ensures that the customer is eligible to use the name and checks that the name is available for use
 •electronically submits the customer's application to the .au domain name electronic registry database (the company responsible for operating the .au domain name electronic registry, not the entity, has the final decision on whether to grant the customer's registration), and
-•carries out associated activities such as:
-
-o maintaining the registration
+•carries out associated activities such as: o maintaining the registration
 o renewal of the registration after two years
 o from time to time, updating the customer's details on the registry
 o where necessary, transferring the registration to another customer or domain name registrar, and
-o where necessary, cancelling that domain name registration.
-
-The entity charges the Australian resident customer a fee for the domain name registration.
+o where necessary, cancelling that domain name registration. The entity charges the Australian resident customer a fee for the domain name registration.
 The customer receives use of that domain name for two years.
 The Australian resident customer is not granted a proprietary right when it receives a domain name registration. The customer is entitled to transfer its registration to another domain name registrar and becomes responsible for administering the registration.
 Reasons for Decision
-Section 9-5 of the GST Act provides that a taxable supply is made where:
-
-•an entity makes the supply for consideration
+Section 9-5 of the GST Act provides that a taxable supply is made where: •an entity makes the supply for consideration
 •the supply is made in the course or furtherance of an enterprise that the entity carries on
 •the supply is connected with Australia, and
-•the entity is registered or required to be registered.
-
-However, the supply is not a taxable supply if it is GST-free or input taxed.
+•the entity is registered or required to be registered. However, the supply is not a taxable supply if it is GST-free or input taxed.
 The entity makes the supply of a domain name registration for consideration and in the course of carrying on its enterprise. Accordingly, the first two requirements of section 9-5 of the GST Act are met.
 The third requirement is that the entity must make a supply that is connected with Australia. Section 9-25 of the GST Act defines supplies connected with Australia referring to supplies of goods, real property and 'anything else'. The supply of a domain name registration is not the supply of goods or real property.
-Subsection 9-25(5) of the GST Act provides that a supply other than goods or real property is connected with Australia if:
-
-• the thing is done in Australia or
+Subsection 9-25(5) of the GST Act provides that a supply other than goods or real property is connected with Australia if: • the thing is done in Australia or
 • the supply is made through an enterprise the supplier carries on in Australia or
-• all of the following apply:
-
-o neither paragraph (a) nor (b) applies in respect of the thing
+• all of the following apply: o neither paragraph (a) nor (b) applies in respect of the thing
 o the thing is a right or option to acquire another thing
-o the supply of the other thing would be connected with Australia.
-
-The entity does not carry on an enterprise in Australia. Furthermore, the supply is not a right or option to acquire another thing. Therefore, the supply will only be connected with Australia to the extent that the domain name registration is done in Australia.
+o the supply of the other thing would be connected with Australia. The entity does not carry on an enterprise in Australia. Furthermore, the supply is not a right or option to acquire another thing. Therefore, the supply will only be connected with Australia to the extent that the domain name registration is done in Australia.
 The meaning of 'done' can mean, for example, performed, executed, completed or finished depending on the nature of the thing supplied (paragraph 64 of Goods and Services Tax Ruling GSTR 2000/31). Consequently, it is important to characterise a supply in determining where it is done.
 The supply of a domain name registration is the supply of a service. This service includes submitting the customer domain name application to the registry and providing associated activities required in managing that registration.
 The supply of a service is done where that service is performed (paragraph 65 of GSTR 2000/31). The domain name registration services are performed outside Australia where the entity carries on its enterprise. Accordingly, the supply of this service is not connected with Australia. This is because the entity performs the registration services outside Australia, where it carries on its enterprise.
 The fourth requirement of section 9-5 of the GST Act is that the entity is registered or required to be registered for GST. As the entity is not registered, the fourth requirement can be satisfied only if the entity is required to be registered.
 Under section 23-5 of the GST Act, an entity is required to be registered if it carries on an enterprise and its GST turnover meets the registration turnover threshold. Subsections 188-15(3) and 188-20(3) of the GST Act provide that in working out the GST turnover supplies that are not connected with Australia are disregarded. The entity is not required to be registered because its does not have a GST turnover for the purposes of section 23-5 of the GST Act.
-The requirements of section 9-5 of the GST Act that the supply is connected with Australia and that the entity be registered or required to be registered are not satisfied. Therefore, the entity does not make a taxable supply under section 9-5 when it supplies domain name registration services to an Australian resident customer.
-
-Note: If the Australian resident customer is registered or required to be registered for GST and the acquisition of the domain name registration services is not solely for a creditable purpose but solely or partly for the purpose of an enterprise that the customer carries on in Australia, Division 84 of the GST Act may apply to reverse-charge the customer for GST on the supply.
-
-[HISTORY: ATO ID 2005/354 was amended on 16 July 2007 to reflect changes to legislation.]
-
-Date of decision:
-  12 December 2005
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 9-25(5)   section 23-5   subsection 188-15(3)   subsection 188-20(3)
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2000/31
-
-Keywords
-
-Goods and services tax
- GST supplies and acquisitions
- Taxable supply
- GST international services
- Connected with Australia
- Reverse charge on supplies made by non-resident
- GST registration
- Required to be registered
- GST turnover
- GST turnover threshold
-
-Siebel/TDMS Reference Number:
-  4971992
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  23 December 2005
-
-ISSN:
- 1445-2782
+The requirements of section 9-5 of the GST Act that the supply is connected with Australia and that the entity be registered or required to be registered are not satisfied. Therefore, the entity does not make a taxable supply under section 9-5 when it supplies domain name registration services to an Australian resident customer. Note: If the Australian resident customer is registered or required to be registered for GST and the acquisition of the domain name registration services is not solely for a creditable purpose but solely or partly for the purpose of an enterprise that the customer carries on in Australia, Division 84 of the GST Act may apply to reverse-charge the customer for GST on the supply. [HISTORY: ATO ID 2005/354 was amended on 16 July 2007 to reflect changes to legislation.] Date of decision: 12 December 2005 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 9-25(5) section 23-5 subsection 188-15(3) subsection 188-20(3) Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2000/31 Keywords Goods and services tax GST supplies and acquisitions Taxable supply GST international services Connected with Australia Reverse charge on supplies made by non-resident GST registration Required to be registered GST turnover GST turnover threshold Siebel/TDMS Reference Number: 4971992 Business Line: Indirect Tax Date of publication: 23 December 2005 ISSN: 1445-2782

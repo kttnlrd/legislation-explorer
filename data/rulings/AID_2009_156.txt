@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/156
-==================================================
-
-Income Tax
- Capital allowances: quasi-ownership right over land - meaning of lease
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital allowances: quasi-ownership right over land - meaning of lease FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer the owner of a quasi-ownership right over land for the purposes of subsection 995-1(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes, the taxpayer is the owner of a quasi-ownership right over land because it has a lease of the land as a tenant at will.
@@ -20,64 +9,10 @@ Facts
 The taxpayer conducts a primary production business on land owned by an associated entity. The taxpayer occupies the land with the consent of the owner and pays the rates, land taxes, insurance and other holding costs in return for the right to occupy. Although there is no written agreement, the parties' conduct indicates that the owner has agreed to allow the taxpayer the right of exclusive possession of the land.
 Reasons for Decision
 All legislative references are to the ITAA 1997.
-Subsection 995-1(1) defines 'quasi-ownership right over land' to mean:
-
-(a)a lease of the land; or
+Subsection 995-1(1) defines 'quasi-ownership right over land' to mean: (a)a lease of the land; or
 (b)an easement in connection with the land; or
-(c)any other right, power or privilege over the land, or in connection with the land.
-
-'Lease' is not defined in the ITAA 1997 and so takes its ordinary meaning according to the common law.
-LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 16 (at 24 November 2009), 245 'Leases and Tenancies', paragraph 245-1 discusses the meaning of a lease of land as follows:
-
-A 'lease' or 'tenancy' of land is a means by which a lesser estate in the land than that originally held by the grantor (termed the 'lessor') is transferred, creating an on going relationship, to another person (termed the 'lessee'), so as to give the lessee exclusive possession of the demised premises for an ascertainable period of time, with the grantor retaining a reversionary interest in the property. The term 'lease' may refer to the grant, that which is granted and the document by which it is granted. A lease is a demise and as such confers an interest in rem in the legal estate of the subject matter of the lease. One usual incident of this interest is an obligation to pay rent. (footnotes removed)
-
-What constitutes 'exclusive possession' is explained in LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 16 (at 24 November 2009), 245 'Leases and Tenancies', at paragraph 245-15:
-
-'Exclusive possession' is a right which permits the holder to exclude other persons from the property. A lessee having exclusive possession of the demised premises can restrict all persons, including the lessor, from the demised premises, subject to any contrary statutory provision and certain exceptions. (footnotes removed)
-
-The right to exclusive possession of land is the decisive characteristic that distinguishes a lease from a licence that only confers a right to occupy. This principle was confirmed by the High Court in Radaich v. Smith (1959) 101 CLR 209; [1959] ALR 1253.
+(c)any other right, power or privilege over the land, or in connection with the land. 'Lease' is not defined in the ITAA 1997 and so takes its ordinary meaning according to the common law.
+LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 16 (at 24 November 2009), 245 'Leases and Tenancies', paragraph 245-1 discusses the meaning of a lease of land as follows: A 'lease' or 'tenancy' of land is a means by which a lesser estate in the land than that originally held by the grantor (termed the 'lessor') is transferred, creating an on going relationship, to another person (termed the 'lessee'), so as to give the lessee exclusive possession of the demised premises for an ascertainable period of time, with the grantor retaining a reversionary interest in the property. The term 'lease' may refer to the grant, that which is granted and the document by which it is granted. A lease is a demise and as such confers an interest in rem in the legal estate of the subject matter of the lease. One usual incident of this interest is an obligation to pay rent. (footnotes removed) What constitutes 'exclusive possession' is explained in LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 16 (at 24 November 2009), 245 'Leases and Tenancies', at paragraph 245-15: 'Exclusive possession' is a right which permits the holder to exclude other persons from the property. A lessee having exclusive possession of the demised premises can restrict all persons, including the lessor, from the demised premises, subject to any contrary statutory provision and certain exceptions. (footnotes removed) The right to exclusive possession of land is the decisive characteristic that distinguishes a lease from a licence that only confers a right to occupy. This principle was confirmed by the High Court in Radaich v. Smith (1959) 101 CLR 209; [1959] ALR 1253.
 In determining whether a lease has been granted, the Courts will look to the substance of the transaction and the conduct of the parties to characterise the rights that have been created. If the substance of the agreement points to an intention to confer a right to exclusive possession, then there will be a lease, regardless of the type of tenancy that is created. The tenancy may be for a fixed term, or may be a periodic lease or a tenancy at will.
-A tenancy at will is a type of lease and therefore the occupier of land under such a tenancy will be the owner of a quasi-ownership right over land as defined in subsection 995-1(1). LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 22 (at 24 November 2009), 355 'Real Property' at paragraph 355-2130 notes that:
-
-The usual way for a tenancy at will to come into existence is for the tenant to take possession of the property in question with the landlord's consent without paying rent. It may also result from the tenant holding over at the expiration of the lease with the landlord's consent and paying no rent. (footnotes removed)
-
-Furthermore at paragraph 245-85 Halsbury's Laws of Australia also comments about a tenancy at will as follows:
-
-While it can be expressly created, it is more frequently held to arise by implication. Occupation without the payment of rent is a usual feature of the tenancy at will. (footnotes removed)
-
-In this case, the taxpayer has entered into possession of the land with the consent of the landowner. The parties' conduct shows that the landowner has granted the taxpayer the right to exclusive possession of the land in return for it paying the costs associated with the ownership of the land. These circumstances indicate that there is an implied agreement between the parties allowing the taxpayer to occupy the land as a tenant at will. Accordingly, the taxpayer has a lease of the land which is a quasi-ownership right over land under paragraph 995-1(1)(a).
-Date of decision:
-  7 December 2009
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 995-1(1)   paragraph 995-1(1)(a)
-
-Case References:
-
-Radaich v Smith   (1959) 101 CLR 209   [1959] ALR 1253
-
-Other References:
-
-LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 22 (at 24 November 2009), 355 'Real Property'
- LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 16 (at 24 November 2009), 245 'Leases and Tenancies'
-
-Keywords
-
-Quasi-ownership right
- Tenancy
-
-Siebel/TDMS Reference Number:
-  1-1TAZJHR
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 December 2009
-
-ISSN:
- (is already standard)
+A tenancy at will is a type of lease and therefore the occupier of land under such a tenancy will be the owner of a quasi-ownership right over land as defined in subsection 995-1(1). LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 22 (at 24 November 2009), 355 'Real Property' at paragraph 355-2130 notes that: The usual way for a tenancy at will to come into existence is for the tenant to take possession of the property in question with the landlord's consent without paying rent. It may also result from the tenant holding over at the expiration of the lease with the landlord's consent and paying no rent. (footnotes removed) Furthermore at paragraph 245-85 Halsbury's Laws of Australia also comments about a tenancy at will as follows: While it can be expressly created, it is more frequently held to arise by implication. Occupation without the payment of rent is a usual feature of the tenancy at will. (footnotes removed) In this case, the taxpayer has entered into possession of the land with the consent of the landowner. The parties' conduct shows that the landowner has granted the taxpayer the right to exclusive possession of the land in return for it paying the costs associated with the ownership of the land. These circumstances indicate that there is an implied agreement between the parties allowing the taxpayer to occupy the land as a tenant at will. Accordingly, the taxpayer has a lease of the land which is a quasi-ownership right over land under paragraph 995-1(1)(a).
+Date of decision: 7 December 2009 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 subsection 995-1(1) paragraph 995-1(1)(a) Case References: Radaich v Smith (1959) 101 CLR 209 [1959] ALR 1253 Other References: LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 22 (at 24 November 2009), 355 'Real Property' LexisNexis Butterworths, Halsbury's Laws of Australia, Volume 16 (at 24 November 2009), 245 'Leases and Tenancies' Keywords Quasi-ownership right Tenancy Siebel/TDMS Reference Number: 1-1TAZJHR Business Line: Public Groups and International Date of publication: 18 December 2009 ISSN: (is already standard)

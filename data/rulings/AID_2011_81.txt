@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/81
-==================================================
-
-Superannuation
- Self managed superannuation funds: meaning of 'give a charge' under regulation 13.14 of the Superannuation Industry (Supervision) Regulations 1994
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Self managed superannuation funds: meaning of 'give a charge' under regulation 13.14 of the Superannuation Industry (Supervision) Regulations 1994 FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the trustee of a self managed superannuation fund (SMSF) 'give a charge' for the purposes of regulation 13.14 of the Superannuation Industry (Supervision) Regulations 1994 (SISR) if the trustee purchases an asset subject to a charge that was established before the trustee purchased the asset?
 Decision
 No. The trustee of an SMSF does not 'give a charge' for the purposes of regulation 13.14 of the SISR if the trustee purchases an asset subject to a charge that was established before the trustee purchased the asset.
@@ -22,92 +9,21 @@ Facts
 An SMSF trustee acquires real property from an unrelated party. At the time of purchase, the trustee is aware that the property is subject to a charge in favour of another unrelated party. The property remains subject to the charge after it is acquired by the SMSF trustee.
 Reasons for Decision
 Subsection 31(1) of the Superannuation Industry (Supervision) Act 1993 (SISA) provides for the regulations to prescribe standards applicable to the operation of regulated superannuation funds and to trustees of those funds. Subsection 34(1) of the SISA requires a trustee of a superannuation entity to ensure that the operating standards are complied with at all times.
-Regulation 13.14 of the SISR relevantly states:
-
-For the purposes of subsections 31(1) and 32(1) of the Act, it is a standard applicable to the operation of regulated superannuation funds and approved deposit funds that ... the trustee of a fund must not give a charge over, or in relation to, an asset of the fund.
-
-'Give' is not defined in SISR or SISA. Accordingly, the ordinary meaning of the word understood in its context must be considered.
+Regulation 13.14 of the SISR relevantly states: For the purposes of subsections 31(1) and 32(1) of the Act, it is a standard applicable to the operation of regulated superannuation funds and approved deposit funds that ... the trustee of a fund must not give a charge over, or in relation to, an asset of the fund. 'Give' is not defined in SISR or SISA. Accordingly, the ordinary meaning of the word understood in its context must be considered.
 According to the Australian Oxford Dictionary (2nd edition, 2004, Oxford University Press) relevant meanings of 'give' include: transfer the possession of freely; hand over as a present; transfer the ownership of, with or without actual delivery; confer; grant; allot; assign. The verb 'give' has characteristics of positive action.
 In International Art Holdings Pty Ltd (admin apptd) & ors v. Adams & ors ([2011] NSWSC 164), the Supreme Court of New South Wales held that regulation 13.14 of the SISR does not prevent a court from imposing an equitable lien or statutory lien over artwork owned by an SMSF to secure an administrator's expenses in determining competing claims.
 The Court (at paragraph 96) distinguished the imposition of a charge or lien by the trustee of a fund, from a situation where a court imposes an equitable lien or a statutory lien arises as a matter of law. The Court said there was no basis on which it might be said that the trustee had allowed the creation of a charge over the assets of the fund.
 The Explanatory Statement accompanying the introduction of the SISR gives no explanatory detail in relation to regulation 13.14. However, differences in the language used in regulations 13.12, 13.13 and 13.14 of the SISR, which were introduced together, support the view that regulation 13.14 is intended to apply to the creation of a charge by the fund trustee as distinct from the trustee recognising an existing charge on acquiring an asset.
-Subregulation 13.13(1) of the SISR, concerning a charge over or in relation of a member's benefits, relevantly states:
-
-the trustee of a fund must not recognise, or in any way encourage or sanction, a charge over, or in relation to a member's benefits.
-
-Regulation 13.11 of the SISR provides that 'recognise includes act on or give effect to'.
+Subregulation 13.13(1) of the SISR, concerning a charge over or in relation of a member's benefits, relevantly states: the trustee of a fund must not recognise, or in any way encourage or sanction, a charge over, or in relation to a member's benefits. Regulation 13.11 of the SISR provides that 'recognise includes act on or give effect to'.
 Regulation 13.12 of the SISR, concerning assignment of a superannuation interest, is worded similarly to subregulation 13.13(1) of the SISR. Both are in contrast to regulation 13.14 of the SISR which prohibits only that the superannuation trustee must not 'give a charge'.
-The ordinary meaning of the word 'give', and the difference in wording between regulations 13.12, 13.13 and 13.14 of the SISR, indicate that the phrase 'give a charge' in regulation 13.14 requires a trustee, by some positive action, to create a charge and not merely recognise (including act on or give effect to) a previously established charge.
-
-Note:
- this ATO ID considers only the application of regulation 13.14 of the SISR to the arrangement described. The SMSF trustees must also consider compliance with other SISA or SISR regulatory provisions that may apply to the arrangement. These include whether the arrangement:
-
-•is consistent with the SMSF's investment strategy and the requirements in paragraph 52(2)(f) of the SISA and regulation 4.09 of the SISR (the other covenants in subsection 52(2) of the SISA are also relevant)
+The ordinary meaning of the word 'give', and the difference in wording between regulations 13.12, 13.13 and 13.14 of the SISR, indicate that the phrase 'give a charge' in regulation 13.14 requires a trustee, by some positive action, to create a charge and not merely recognise (including act on or give effect to) a previously established charge. Note: this ATO ID considers only the application of regulation 13.14 of the SISR to the arrangement described. The SMSF trustees must also consider compliance with other SISA or SISR regulatory provisions that may apply to the arrangement. These include whether the arrangement: •is consistent with the SMSF's investment strategy and the requirements in paragraph 52(2)(f) of the SISA and regulation 4.09 of the SISR (the other covenants in subsection 52(2) of the SISA are also relevant)
 •provides current day benefits to a member or a related party contrary to the sole purpose test in section 62 of the SISA
 •assists a member or relative of a member using SMSF resources and therefore provides financial assistance in contravention of section 65 of the SISA; and
-•is on arm's length terms as required by section 109 of the SISA.
-
-Amendment History
-
-Date of Amendment
+•is on arm's length terms as required by section 109 of the SISA. Amendment History Date of Amendment
 Part
-Comment
-
-1 April 2016
+Comment 1 April 2016
 Legislative References
-Amended
-
-Date of decision:
-  20 October 2011
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   subsection 31(1)   subsection 32(1)   subsection 34(1)   subsection 52(2)   paragraph 52(2)(f)   section 62   section 65   section 109
-Superannuation Industry (Supervision) Regulations 1994   regulation 4.09   regulation 13.11   regulation 13.12   regulation 13.13   regulation 13.14
-
-Case References:
-
-International Art Holdings Pty Ltd (admin apptd) & ors v. Adams & ors   [2011] NSWSC 164
-
-Other References:
-
-The Australian Oxford Dictionary, 2nd edition, 2004, Oxford University Press
-
-Keywords
-
-Self managed superannuation funds
- SMSF charge over assets
-
-Siebel/TDMS Reference Number:
-  1-3E9XNLV; 1-7QUNODL; 1-FZRSRJG
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  21 October 2011
-
-Date reviewed:
-  7 August 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 October 2011
-Original statement
-
-You are here
- 1 April 2016
+Amended Date of decision: 20 October 2011 Year of income: Year ended 30 June 2012 Legislative References: Superannuation Industry (Supervision) Act 1993 subsection 31(1) subsection 32(1) subsection 34(1) subsection 52(2) paragraph 52(2)(f) section 62 section 65 section 109
+Superannuation Industry (Supervision) Regulations 1994 regulation 4.09 regulation 13.11 regulation 13.12 regulation 13.13 regulation 13.14 Case References: International Art Holdings Pty Ltd (admin apptd) & ors v. Adams & ors [2011] NSWSC 164 Other References: The Australian Oxford Dictionary, 2nd edition, 2004, Oxford University Press Keywords Self managed superannuation funds SMSF charge over assets Siebel/TDMS Reference Number: 1-3E9XNLV; 1-7QUNODL; 1-FZRSRJG Business Line: Superannuation Date of publication: 21 October 2011 Date reviewed: 7 August 2018 ISSN: 1445-2782 history Date: Version: 20 October 2011
+Original statement You are here 1 April 2016
 Updated statement

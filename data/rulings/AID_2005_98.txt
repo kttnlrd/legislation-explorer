@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/98
-==================================================
-
-Income tax
- Income tax: application of section 121 of the Income Tax Assessment Act 1936 to a mutual discretionary fund
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Income tax: application of section 121 of the Income Tax Assessment Act 1936 to a mutual discretionary fund FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will contributions received by a mutual discretionary fund from its members be included in its assessable income under section 121 of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. Contributions received by a mutual discretionary fund from its members will not be included in its assessable income under section 121 of the ITAA 1936.
@@ -22,71 +11,17 @@ The taxpayer receives contributions from its members (who belong to an industry 
 The taxpayer is not an insurer under the Insurance Act 1973 (Cth) (Insurance Act). The taxpayer has an agreement in place with an insurance company (non-member third party) to insure itself against losses arising from the making of grants of discretionary assistance.
 Reasons for Decision
 Where the principle of mutuality applies, the effect is that generally, contributions by way of fees and subscriptions received from members for the provision of mutual services will not be included in a mutual association's assessable income. However, section 121 of the ITAA 1936 requires that, if certain conditions are met, mutual insurance associations must include premiums received from members and non-members in assessable income.
-Section 121 of the ITAA 1936 states :
-
-Mutual Insurance Associations
-
-(1)An association of persons formed for the purpose of insuring those persons against loss, damage or risk of any kind is taken, for the purposes of this Act, to be a company carrying on the business of insurance.
-(2)The assessable income of such a company includes all premiums derived by it, whether from its members or not.
-
-The question of the amounts to be included in the taxpayer's assessable income under section 121 of the ITAA 1936 will, firstly, depend upon whether the taxpayer is 'an association of purposes formed for the purposes of insuring those persons' and, secondly, whether the relevant amounts are 'premiums'.
+Section 121 of the ITAA 1936 states : Mutual Insurance Associations (1)An association of persons formed for the purpose of insuring those persons against loss, damage or risk of any kind is taken, for the purposes of this Act, to be a company carrying on the business of insurance.
+(2)The assessable income of such a company includes all premiums derived by it, whether from its members or not. The question of the amounts to be included in the taxpayer's assessable income under section 121 of the ITAA 1936 will, firstly, depend upon whether the taxpayer is 'an association of purposes formed for the purposes of insuring those persons' and, secondly, whether the relevant amounts are 'premiums'.
 The effect of section 121 of the ITAA 1936 is twofold. Firstly, it deems 'an association of purposes formed for the purposes of insuring those person'; that is, a 'mutual insurance association' to be carrying on the business of insurance thereby allowing access to deductions under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for amounts incurred in carrying on the business of insurance, which would not have been allowable deductions under the principle of mutuality. Secondly, it includes all premiums received by such an association in assessable income.
 The expression 'formed for the purpose of insuring ...persons' refers to the purpose for which the taxpayer was established and the purpose for which it is currently conducted; Cronulla Sutherland Leagues Club Ltd v FCT (1990) 23 FCR 82; 90 ATC 4215; 21 ATR 300.
-The ITAA 1997 does not contain a definition of this expression, nor a definition of insurance. The meaning of the expression 'insuring persons' is consistent with the definition of 'insurance business' found in section 3 of the Insurance Act. This section defines 'insurance business' to mean:
-
- ...the business of undertaking liability, by way of insurance (including reinsurance), in respect of any loss or damage, including liability to pay damages or compensation, contingent upon the happening of a specified event, and includes any business incidental to insurance business.
-
-'An association of persons formed for the purpose of insuring those persons' under section 121 of the ITAA 1936 should therefore be read as a reference to an association that undertakes insurance liabilities.
+The ITAA 1997 does not contain a definition of this expression, nor a definition of insurance. The meaning of the expression 'insuring persons' is consistent with the definition of 'insurance business' found in section 3 of the Insurance Act. This section defines 'insurance business' to mean: ...the business of undertaking liability, by way of insurance (including reinsurance), in respect of any loss or damage, including liability to pay damages or compensation, contingent upon the happening of a specified event, and includes any business incidental to insurance business. 'An association of persons formed for the purpose of insuring those persons' under section 121 of the ITAA 1936 should therefore be read as a reference to an association that undertakes insurance liabilities.
 The issue is whether in making grants of discretionary assistance the taxpayer is undertaking insurance liabilities by way of insurance. In Medical Defence Union Ltd v. Department of Trade [1979] 2 All ER 421 (Medical Defence Union) the Court found, after considering the principles established in Prudential Insurance Co v. Inland Revenue Comrs (1904) 2 KB 658 (that is, that an insurance contract necessarily involved a relationship of indemnity) that the rights that members had to grants of discretionary assistance fell short of a contractual relationship of insurance. The members' right to grants was at the sole and absolute discretion of Medical Defence Union Ltd, whereas a contract of insurance affords insured persons with the right of indemnification upon the occurrence of an insured event.
 This principle was applied in Australia by Yeldham J. in Oswald v Bailey & Anor (No 1) (1986) ANZ Insurance Cases 60-704. Yeldham J. expressed the view that, on the basis of the decision in Medical Defence Union, the constitution of NSW Medical Defence Union, a mutual discretionary fund which provided its members with similar rights to the UK Medical Defence Union, did not afford members with contractual relationships of insurance.
 As the taxpayer does not undertake insurance liabilities by way of insurance, it cannot be 'an association of persons formed for the purpose of insuring those persons' within the meaning of subsection 121(1) of the ITAA 1936.
 Subsection 121(2) requires that 'premiums' received by an association from its members and non-members be included in assessable income. The ITAA 1997 does not contain a definition of the term 'premium.' 'Premium' has been defined by the courts as 'the consideration given by the insured to the insurer in return for the latter's promise to insure the risks specified in the contract'; Lewis v. Norwich Union Fire Insurance Co (1916) App D [Sth African Appellate Court] 509 at 519. In Royal & Sun Alliance Insurance Australia Ltd v. Commissioner of State Revenu e [2002] VSC 345 Byrne J. stated that: 'a premium is the price paid for insurance cover.'
 The contributions received by the taxpayer are not 'premiums' as the fees paid by members are not consideration given by the members to an insurer in return for an insurer's promise to insure the risks specified in an insurance contract. Accordingly subsection 121(2) of the ITAA 1936 cannot apply to the contributions received by the taxpayer and these contributions will not be included in assessable income.
 As the taxpayer is not 'an association formed for the purpose of insuring persons' subsection 121(1) of the ITAA 1936 does not apply to it. However, even if the taxpayer did meet this definition, no contributions received by it from its members would be included in its assessable income under subsection 121(2) of the ITAA 1936 as these amounts are not 'premiums.' Accordingly, section 121 of the ITAA 1936 will not apply to contributions received by the taxpayer from its members.
-Date of decision:
-  24 March 2005
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 121   subsection 121(1)   subsection 121(2)
-Income Tax Assessment Act 1997   section 8-1
-Insurance Act 1973 (Cth)   
-
-Case References:
-
-Cronulla Sutherland Leagues Club Limited v. Commissioner of Taxation   (1990) 23 FCR 82   90 ATC 4215   (1989) 21 ATR 300
-
-Prudential Insurance Company v. Inland Revenue Commissioners   (1904) 2 KB 658
-
-Medical Defence Union Ltd v. Department of Trade   (1979) 2 All ER 421
-
-Oswald v. Bailey & Ors    4 ANZ Insurance Cases 60-704
-
-Lewis v. Norwich Union Fire Insurance Co    (1916) App D [Sth African Appellate Court] 509
-
-Royal & Sun Alliance Insurance Australia Ltd v. Commissioner of State Revenue   (2002) 50 ATR 476   (2002) 2002 ATC 4960
-
-Keywords
-
-Association income
- Income
- Insurance & insurance industry
- Insurance industry
- Mutual insurance associations
- Mutuality principle
- Non exempt income of exempt entities
-
-Siebel/TDMS Reference Number:
-  4108484
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 April 2005
-
-ISSN:
- 1445-2782
+Date of decision: 24 March 2005 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 121 subsection 121(1) subsection 121(2)
+Income Tax Assessment Act 1997 section 8-1
+Insurance Act 1973 (Cth) Case References: Cronulla Sutherland Leagues Club Limited v. Commissioner of Taxation (1990) 23 FCR 82 90 ATC 4215 (1989) 21 ATR 300 Prudential Insurance Company v. Inland Revenue Commissioners (1904) 2 KB 658 Medical Defence Union Ltd v. Department of Trade (1979) 2 All ER 421 Oswald v. Bailey & Ors 4 ANZ Insurance Cases 60-704 Lewis v. Norwich Union Fire Insurance Co (1916) App D [Sth African Appellate Court] 509 Royal & Sun Alliance Insurance Australia Ltd v. Commissioner of State Revenue (2002) 50 ATR 476 (2002) 2002 ATC 4960 Keywords Association income Income Insurance & insurance industry Insurance industry Mutual insurance associations Mutuality principle Non exempt income of exempt entities Siebel/TDMS Reference Number: 4108484 Business Line: Public Groups and International Date of publication: 8 April 2005 ISSN: 1445-2782

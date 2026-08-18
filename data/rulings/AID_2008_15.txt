@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/15
-==================================================
-
-Superannuation
- Superannuation: deductibility of superannuation contribution made to a director of a corporate trustee
- FOI status: may be released
-
-This ATO ID is withdrawn from the database as it contains an incorrect application of legislation. It contains inaccurate statements regarding the operation of sections 290-60 and 290-70 of the Income Tax Assessment Act 1997 to a director of a company who is not an employee under section 12 of the Superannuation Guarantee (Administration) Act 1992.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Superannuation: deductibility of superannuation contribution made to a director of a corporate trustee FOI status: may be released This ATO ID is withdrawn from the database as it contains an incorrect application of legislation. It contains inaccurate statements regarding the operation of sections 290-60 and 290-70 of the Income Tax Assessment Act 1997 to a director of a company who is not an employee under section 12 of the Superannuation Guarantee (Administration) Act 1992. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, a corporate trustee of a family trust, entitled to a deduction for a superannuation contribution under section 290-60 of the Income Tax Assessment Act 1997 (ITAA 1997) when calculating the net income of the trust estate, for a contribution made on behalf of a director who is engaged in producing the assessable income of the trust?
 Decision
 Yes. When calculating the net income of the trust estate the taxpayer is entitled to a deduction for a superannuation contribution under section 290-60 of the ITAA 1997, for a contribution made on behalf of a director who is engaged in producing the assessable income of the trust.
@@ -28,78 +13,17 @@ Reasons for Decision
 A trust is not considered to be a 'taxpayer' for the purposes of section 290-60 of the ITAA 1997. This is because unlike a person or a company, a trust has no separate legal identity. The legal identity of the trust lies with the trustee. It is for this reason that the corporate trustee of the trust is considered to be 'the taxpayer' and not the trust. For the same reason, a person will not be an employee of the trust but rather they will be an employee of the corporate trustee.
 For the corporate trustee to claim a deduction for the superannuation contribution from the trust estate when calculating the 'net income' of the trust estate under subsection 95(1) of the Income Tax Assessment Act 1936 (ITAA 1936) the trustee must satisfy the requirements of section 290-60 of the ITAA 1997.
 Under section 290-60 of the ITAA 1997, a contribution made by a taxpayer to a complying fund, for the purpose of providing superannuation benefits for another person who is an employee (whether or not the benefits are payable to a dependant of the other person in the event of that person's death), will be an allowable deduction in the income year in which the contribution is made.
-Section 290-70 of the ITAA 1997 defines who is an employee for the purposes of section 290-60 of the ITAA 1997. An 'employee' will be a person that is:
-
-•an employee within the expanded meaning of employee given in section 12 of the Superannuation Guarantee (Administration) Act 1992 (paragraph 290-70(aa) of the ITAA 1997);
+Section 290-70 of the ITAA 1997 defines who is an employee for the purposes of section 290-60 of the ITAA 1997. An 'employee' will be a person that is: •an employee within the expanded meaning of employee given in section 12 of the Superannuation Guarantee (Administration) Act 1992 (paragraph 290-70(aa) of the ITAA 1997);
 •engaged in producing your assessable income (paragraph 290-70(a) of the ITAA 1997); or
-•an Australian resident who is engaged in your business (paragraph 290-70(b) of the ITAA 1997).
-
-The director is not entitled to payment for the performance of duties in the 2007-08 income year under the company's constitution. However this does not preclude the director from being an employee for the purposes of section 290-60 of the ITAA 1997 as the person may satisfy paragraph 290-70(a) or 290-70(b) of the ITAA 1997.
-As stated in the Explanatory Memorandum for the Tax Laws Amendment (2007 Measures No. 4) Bill 2007:
-
-5.74 However, individuals who are not SG employees will still need to be engaged in producing the assessable income of the business or engaged in the business before a deduction can be claimed.
-
-The term 'engaged' is not defined in the ITAA 1997 and therefore takes its ordinary meaning. The Macquarie Dictionary, 1997, 3rd edition, The Macquarie Library NSW, defines 'engaged' as 'busy or occupied; involved'. The director will be engaged in producing the assessable income of the trust and/or the business of the trust if the director is 'busy', 'occupied' or 'involved' in producing the assessable income of the trust, or in the business of the trust.
+•an Australian resident who is engaged in your business (paragraph 290-70(b) of the ITAA 1997). The director is not entitled to payment for the performance of duties in the 2007-08 income year under the company's constitution. However this does not preclude the director from being an employee for the purposes of section 290-60 of the ITAA 1997 as the person may satisfy paragraph 290-70(a) or 290-70(b) of the ITAA 1997.
+As stated in the Explanatory Memorandum for the Tax Laws Amendment (2007 Measures No. 4) Bill 2007: 5.74 However, individuals who are not SG employees will still need to be engaged in producing the assessable income of the business or engaged in the business before a deduction can be claimed. The term 'engaged' is not defined in the ITAA 1997 and therefore takes its ordinary meaning. The Macquarie Dictionary, 1997, 3rd edition, The Macquarie Library NSW, defines 'engaged' as 'busy or occupied; involved'. The director will be engaged in producing the assessable income of the trust and/or the business of the trust if the director is 'busy', 'occupied' or 'involved' in producing the assessable income of the trust, or in the business of the trust.
 In this case the director of the corporate trustee is considered to be involved in producing the assessable income of the trust, and involved in the business of the trust. The director is the only person who is engaged in the income producing activity of the trust which is considered to constitute a business activity. The director spends approximately 30 hours engaged in the business activities each week. It follows that the director is 'engaged' in producing the assessable income of the trust, and is also engaged in the business of the trust. The director is an 'employee' of the corporate trustee as both paragraphs 290-70(a) and 290-70(b) of the ITAA 1997 are satisfied in this case.
-Subsection 290-60(2) of the ITAA 1997 contains other requirements that must also be met for a deduction to be claimed. In this case these requirements are met as:
-
-•the contribution is made to a complying fund (section 290-75 of the ITAA 1997); and
-•the employee meets the age related conditions (section 290-80 of the ITAA 1997).
-
-The corporate trustee has satisfied all the conditions required by section 290-60 of the ITAA 1997 to claim a deduction for a superannuation contribution made for an employee. The corporate trustee is entitled to claim a deduction for the contribution made for the benefit of the director in the 2007-08 income year when calculating the 'net income' of the trust estate under subsection 95(1) of the ITAA 1936 for the 2007-08 income year.
+Subsection 290-60(2) of the ITAA 1997 contains other requirements that must also be met for a deduction to be claimed. In this case these requirements are met as: •the contribution is made to a complying fund (section 290-75 of the ITAA 1997); and
+•the employee meets the age related conditions (section 290-80 of the ITAA 1997). The corporate trustee has satisfied all the conditions required by section 290-60 of the ITAA 1997 to claim a deduction for a superannuation contribution made for an employee. The corporate trustee is entitled to claim a deduction for the contribution made for the benefit of the director in the 2007-08 income year when calculating the 'net income' of the trust estate under subsection 95(1) of the ITAA 1936 for the 2007-08 income year.
 [Note: a director that is entitled to remuneration will be an employee within paragraph 290-70(aa) of the ITAA 1997, as a director entitled to remuneration falls within the expanded meaning of employee given in subsection 12(2) of the Superannuation Guarantee (Administration) Act 1992].
-Date of decision:
-  12 December 2007
-
-Year of income:
-  30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 290-60   subsection 290-60(2)   section 290-70   subsection 290-70(aa)   subsection 290-70(a)   subsection 290-70(b)   section 290-75   section 290-80
-Income Tax Assessment Act 1936   subsection 95(1)
-Superannuation Guarantee (Administration) Act 1992   section 12   subsection 12(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2007/144
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2007/145
-
-Other References:
-
- Explanatory Memorandum for the Tax Laws Amendment (2007 Measures No. 4) Bill 2007
- The Macquarie Dictionary, 1997, 3rd edition. The Macquarie Library NSW
-
-Keywords
-
-Contributions for employees - allowable deductions
- Contributions for employees - definitions
- Superannuation contributions for employees
-
-Business Line:
-  Superannuation Centre of Expertise
-
-Date of publication:
-  18 January 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
-You are here
+Date of decision: 12 December 2007 Year of income: 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 290-60 subsection 290-60(2) section 290-70 subsection 290-70(aa) subsection 290-70(a) subsection 290-70(b) section 290-75 section 290-80
+Income Tax Assessment Act 1936 subsection 95(1)
+Superannuation Guarantee (Administration) Act 1992 section 12 subsection 12(2) Related ATO Interpretative Decisions ATO ID 2007/144 ATO Interpretative Decisions overturned by this decision ATO ID 2007/145 Other References: Explanatory Memorandum for the Tax Laws Amendment (2007 Measures No. 4) Bill 2007 The Macquarie Dictionary, 1997, 3rd edition. The Macquarie Library NSW Keywords Contributions for employees - allowable deductions Contributions for employees - definitions Superannuation contributions for employees Business Line: Superannuation Centre of Expertise Date of publication: 18 January 2008 ISSN: 1445-2782 history Date: Version: You are here
 29 August 2008
-Archived
-
- 
-12 December 2008
+Archived 12 December 2008
 Original statement

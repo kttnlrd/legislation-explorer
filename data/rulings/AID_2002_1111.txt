@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/1111
-==================================================
-
-Income Tax
- Convertible Notes - Non-Share Equity Interest, Division 974, Income Tax Assessment Act 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Convertible Notes - Non-Share Equity Interest, Division 974, Income Tax Assessment Act 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a convertible note that is characterised as a debt interest under Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997) be recharacterised as a non-share equity interest under that Division of the ITAA 1997, if a scheme of arrangement materially alters the terms of the convertible note to ensure that the convertible note holders convert their notes into equity of the issuer on their maturity?
 Decision
 Yes. At the time the scheme of arrangement is entered into, the resultant material change to the terms of the convertible note will result in the note no longer satisfying the debt test in Division 974 of the ITAA 1997.
@@ -31,33 +20,4 @@ However, the convertible note under consideration does not give rise to a debt i
 The proposed amendment of the convertible note terms will result in the holders ultimately converting the investment into ordinary shares of the company. However, the conversion into an equity interest in the company does not constitute the provision of a financial benefit (subparagraphs 974-30(1)(a) and (b) of the ITAA 1997).
 Whilst the company's obligations to make interest payments on the convertible notes give rise to effectively non-contingent obligations to provide financial benefits in the future, those amounts would not equal the financial benefit received by the issuer (the amount invested by the note holders).
 As a result, the debt test in subsection 974-20(1) of the ITAA 1997 would not be satisfied and the interest would be characterised as a non-share equity interest at the time the conversion terms are materially altered.
-Date of decision:
-  18 March 2002
-
-Year of income:
-  Other/Substituted Accounting Period 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   division 974   section 974-130   section 974-135   subsection 974-5(4)   subsection 974-20(1)   subsection 974-70(1)   subsection 974-70(2)   subsection 974-75(1)   subsection 995-1(1)   paragraph 974-20(1)(d)   paragraph 974-30(1)(a)   paragraph 974-30(1)(b)   paragraph 974-110(1)(a)   paragraph 974-110(1)(b)   paragraph 974-110(1)(c)
-
-Other References:
-
- Explanatory Memorandum: New Business Tax System (Debt and Equity) Act 2001
-
-Keywords
-
-Convertible Notes
- Debt equity borderline
-
-Siebel/TDMS Reference Number:
-  DW410267-3
-
-Business Line:
-  Office of the Chief tax Counsel
-
-Date of publication:
-  30 November 2002
-
-ISSN:
- 1445-2782
+Date of decision: 18 March 2002 Year of income: Other/Substituted Accounting Period 2004 Legislative References: Income Tax Assessment Act 1997 division 974 section 974-130 section 974-135 subsection 974-5(4) subsection 974-20(1) subsection 974-70(1) subsection 974-70(2) subsection 974-75(1) subsection 995-1(1) paragraph 974-20(1)(d) paragraph 974-30(1)(a) paragraph 974-30(1)(b) paragraph 974-110(1)(a) paragraph 974-110(1)(b) paragraph 974-110(1)(c) Other References: Explanatory Memorandum: New Business Tax System (Debt and Equity) Act 2001 Keywords Convertible Notes Debt equity borderline Siebel/TDMS Reference Number: DW410267-3 Business Line: Office of the Chief tax Counsel Date of publication: 30 November 2002 ISSN: 1445-2782

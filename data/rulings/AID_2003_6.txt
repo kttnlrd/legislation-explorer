@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/6
-==================================================
-
-Capital Gains Tax
- CGT - shares - capital reductions - reduced cost base
- FOI status: may be released
-
-Withdrawn as the interpretative decision is implied in the legislation and the ATO ID is not required.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Capital Gains Tax CGT - shares - capital reductions - reduced cost base FOI status: may be released Withdrawn as the interpretative decision is implied in the legislation and the ATO ID is not required. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the reduced cost base of a share nil, if CGT event G1 in section 104-135 of the Income Tax Assessment Act 1997 (ITAA 1997) happens and the non-dividend payment paid by the company exceeds the reduced cost base, but is less than the cost base, of the share?
 Decision
 Yes. Under subsection 104-135(4) of the ITAA 1997 the reduced cost base of a share is reduced to nil, if a company makes a non-dividend payment in respect of the share that is greater than the reduced cost base, but is less than the cost base, of the share.
@@ -32,49 +17,8 @@ An issue arises as to whether the reduced cost base can be a negative amount if 
 Section 160ZL of the ITAA 1936 was the predecessor to section 104-135 of the ITAA 1997. Under subparagraph 160ZL(2)(b)(ii) of the ITAA 1936, where a non dividend payment was less than the cost base but exceeded the reduced cost base of a share, the shareholder was treated as if they had disposed of the share and re-acquired it 'without having paid or given any consideration in respect of the re-acquisition'. This would result in the share having a reduced cost base equal to nil.
 The explanatory memorandum for the Bill that introduced section 104-135 of the ITAA 1997 (Taxation Laws Improvement Bill (No.1) 1998) does not indicate that the different words in that provision were intended to change the meaning in section 160ZL of the ITAA 1997. Section 1-3 of the ITAA 1997 states that if a different form of words has been used in the ITAA 1997 to rewrite an idea expressed in the ITAA 1936, and it appears that the different form of words have been used in order to use a clearer or simpler style, then the idea is not taken to be different just because different forms of words were used.
 Therefore, subsection 104-135(4) of the ITAA 1997 will operate in the same way as subparagraph 160ZL(2)(b)(ii) of the ITAA 1936. Thus, if a non-dividend payment is less than the cost base of a share, but greater than the reduced cost base subsection 104-135(4) of the ITAA 1997 applies so that the reduced cost base is reduced to nil but not below nil.
-Date of decision:
-  2 September 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160ZL   subparagraph 160ZL(2)(b)(ii)
-Income Tax Assessment Act 1997   section 1-3   section 104-135   subsection 104-135(3)   subsection 104-135(4)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/1034
-
-Keywords
-
-CGT asset
- CGT cost base
- CGT event G1
- CGT reduced cost base
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 January 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 2 September 2002
-Original statement
-
-You are here
+Date of decision: 2 September 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 section 160ZL subparagraph 160ZL(2)(b)(ii)
+Income Tax Assessment Act 1997 section 1-3 section 104-135 subsection 104-135(3) subsection 104-135(4) Related ATO Interpretative Decisions ATO ID 2002/1034 Keywords CGT asset CGT cost base CGT event G1 CGT reduced cost base Business Line: Public Groups and International Date of publication: 24 January 2003 ISSN: 1445-2782 history Date: Version: 2 September 2002
+Original statement You are here
 24 October 2014
 Archived

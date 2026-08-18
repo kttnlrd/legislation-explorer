@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/307
-==================================================
-
-Income tax
- Non-assessable non-exempt income: periodic payments received under a swap arrangement
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Non-assessable non-exempt income: periodic payments received under a swap arrangement FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the periodic payments received by the taxpayer, an Australian resident company, from a Swap Counterparty under a swap arrangement be non-assessable income, non-exempt income under section 23AH of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The periodic payments received by the taxpayer, an Australian resident company, from a Swap Counterparty under a swap arrangement will be non-assessable income, non-exempt income under section 23AH of the ITAA 1936.
@@ -26,99 +15,23 @@ Periodically, the New Zealand branch office will pay amounts equal to the NZD ba
 From time to time, the New Zealand branch office will repatriate these AUD amounts to its Australian head office, the taxpayer.
 Reasons for Decision
 Subsection 23AH(1) of the ITAA 1936 states that one of the objects of section 23AH is to ensure that active foreign branch income derived by an Australian resident company, is not assessable income or exempt income of the company.
-Subsection 23AH(2) of the ITAA 1936 provides:
-
-Subject to this section, foreign income derived by a company, at a time when the company is a resident in carrying on a business, at or through a PE of the company in a listed country or unlisted country is not assessable income, and is not exempt income, of the company.
-
-The periodic payments received by the New Zealand branch from the Swap Counterparty will be non-assessable, non-exempt income of the Australian resident company under section 23AH of the ITAA 1936 if all of the requirements, set out in subsection 23AH(2), are satisfied and are not excluded from the operation of subsection 23AH(2) by subsection 23AH(5).
-The requirements of subsection 23AH(2) are as follows:
-
-(i)Are the periodic payments received by the taxpayer, an Australian resident company, under the swap arrangement in the nature of income?Yes. It is considered that the periodic payments received by the taxpayer under the swap arrangement will have the character of income in accordance with paragraph 1 of Taxation Ruling IT 2682, (which in turn is based on the general principle that swap payments are assessable to the recipient and deductible to the payer as set out in paragraph 8 of Taxation Ruling IT 2050).
-(ii)Are the periodic payments received by the taxpayer under the swap arrangement foreign income as defined under subsection 23AH(15)?Yes. It is considered the periodic payments received by the taxpayer from the Swap Counterparty under the Swap arrangement will be foreign income as defined under subsection 23AH(15).Subsection 23AH(15) defines foreign income, for the purposes of section 23AH, as including an amount that:
-
-(a)apart from this section, would
- otherwise be included in assessable income
- under a provision of this Act (other than CGT); and
-(b)is derived from
- sources
- in a listed country or unlisted country. [emphasis added]
-
-Otherwise assessable
- Paragraph 23AH(15)(a) of the definition of foreign income is satisfied as the periodic payments received by the Australian resident company under the Swap will be foreign income because the periodic payments are amounts that, apart from this section, would be included in assessable income under subsection 6-5(2) of the Income Tax Assessment Act 1997 (ITAA 1997).
-Source of the income
- The source of income is determined according to the general principle set out in Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183, where the High Court held the determination of source of income is a 'practical hard matter of fact'. In Commissioner of Taxation v. Spotless Services Limited & Anor (1995) 62 FCR 244; 95 ATC 4775; (1995) 32 ATR 309 the full Federal Court gave considerable weight to the place where the contract was made and the place where the loan funds were advanced in determining the source of the interest income was in the Cook Islands. In Thorpe Nominees Pty Ltd v. Commissioner of Taxation 88 ATC 4886; (1988) 19 ATR 1834, the Full Federal Court held that the question of source must be decided in accordance with the practical realities of the situation without giving undue weight to matters of form and found that the real source of the income was Australia and not Switzerland.In this case, from the taxpayer's perspective, the negotiations re the swap arrangement were held and conducted from its branch office in New Zealand and personnel at the New Zealand branch arranged, negotiated and executed the Swap with an unrelated third party (the Swap Counterparty). The funds used in the Swap were provided by the taxpayer to its branch office in New Zealand, however, that on its own is not sufficient to give the periodic payments received by the taxpayer under the Swap arrangement an Australian source. Furthermore, the contract was not entered into in Australia, negotiations did not take place in Australia, and the Swap Counterparty is not a resident of Australia and did not enter into the swap contract in the course of carrying on any business in Australia.On the basis of these facts and relevant case law, the source of the periodic swap payments received by the New Zealand branch is not Australian. The source of the periodic swap payments will be from either New Zealand, (a listed country) or from another listed country or from an unlisted country. Accordingly, the periodic swap payments received by the New Zealand branch will be 'foreign income' derived from sources in a listed or unlisted country for the purposes of the subsection 23AH(15) of the ITAA 1936 definition of foreign income. Therefore, paragraph 23AH(15)(b) of the definition of foreign income is satisfied, and the periodic payments received by the New Zealand branch under the Swap will be foreign income for the purposes of section 23AH.
+Subsection 23AH(2) of the ITAA 1936 provides: Subject to this section, foreign income derived by a company, at a time when the company is a resident in carrying on a business, at or through a PE of the company in a listed country or unlisted country is not assessable income, and is not exempt income, of the company. The periodic payments received by the New Zealand branch from the Swap Counterparty will be non-assessable, non-exempt income of the Australian resident company under section 23AH of the ITAA 1936 if all of the requirements, set out in subsection 23AH(2), are satisfied and are not excluded from the operation of subsection 23AH(2) by subsection 23AH(5).
+The requirements of subsection 23AH(2) are as follows: (i)Are the periodic payments received by the taxpayer, an Australian resident company, under the swap arrangement in the nature of income?Yes. It is considered that the periodic payments received by the taxpayer under the swap arrangement will have the character of income in accordance with paragraph 1 of Taxation Ruling IT 2682, (which in turn is based on the general principle that swap payments are assessable to the recipient and deductible to the payer as set out in paragraph 8 of Taxation Ruling IT 2050).
+(ii)Are the periodic payments received by the taxpayer under the swap arrangement foreign income as defined under subsection 23AH(15)?Yes. It is considered the periodic payments received by the taxpayer from the Swap Counterparty under the Swap arrangement will be foreign income as defined under subsection 23AH(15).Subsection 23AH(15) defines foreign income, for the purposes of section 23AH, as including an amount that: (a)apart from this section, would otherwise be included in assessable income under a provision of this Act (other than CGT); and
+(b)is derived from sources in a listed country or unlisted country. [emphasis added] Otherwise assessable Paragraph 23AH(15)(a) of the definition of foreign income is satisfied as the periodic payments received by the Australian resident company under the Swap will be foreign income because the periodic payments are amounts that, apart from this section, would be included in assessable income under subsection 6-5(2) of the Income Tax Assessment Act 1997 (ITAA 1997).
+Source of the income The source of income is determined according to the general principle set out in Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183, where the High Court held the determination of source of income is a 'practical hard matter of fact'. In Commissioner of Taxation v. Spotless Services Limited & Anor (1995) 62 FCR 244; 95 ATC 4775; (1995) 32 ATR 309 the full Federal Court gave considerable weight to the place where the contract was made and the place where the loan funds were advanced in determining the source of the interest income was in the Cook Islands. In Thorpe Nominees Pty Ltd v. Commissioner of Taxation 88 ATC 4886; (1988) 19 ATR 1834, the Full Federal Court held that the question of source must be decided in accordance with the practical realities of the situation without giving undue weight to matters of form and found that the real source of the income was Australia and not Switzerland.In this case, from the taxpayer's perspective, the negotiations re the swap arrangement were held and conducted from its branch office in New Zealand and personnel at the New Zealand branch arranged, negotiated and executed the Swap with an unrelated third party (the Swap Counterparty). The funds used in the Swap were provided by the taxpayer to its branch office in New Zealand, however, that on its own is not sufficient to give the periodic payments received by the taxpayer under the Swap arrangement an Australian source. Furthermore, the contract was not entered into in Australia, negotiations did not take place in Australia, and the Swap Counterparty is not a resident of Australia and did not enter into the swap contract in the course of carrying on any business in Australia.On the basis of these facts and relevant case law, the source of the periodic swap payments received by the New Zealand branch is not Australian. The source of the periodic swap payments will be from either New Zealand, (a listed country) or from another listed country or from an unlisted country. Accordingly, the periodic swap payments received by the New Zealand branch will be 'foreign income' derived from sources in a listed or unlisted country for the purposes of the subsection 23AH(15) of the ITAA 1936 definition of foreign income. Therefore, paragraph 23AH(15)(b) of the definition of foreign income is satisfied, and the periodic payments received by the New Zealand branch under the Swap will be foreign income for the purposes of section 23AH.
 (iii)Is the taxpayer a company that is a resident of Australia carrying on business at or through a PE of the company in a listed country or unlisted country?Yes. According to the facts set out above, the taxpayer is a company that is a resident of Australia carrying on a business at or through a PE in a listed country, New Zealand.
-(iv)Will subsection 23AH(5) of the ITAA 1936 apply to exclude the foreign income, being the periodic payments received by the New Zealand branch office under the Swap, from the operation of subsection 23AH(2)?No. Subsection 23AH(5) will not apply to exclude the relevant foreign income from the operation of subsection 23AH(2) because subparagraph 23AH(5)(c)(ii) will not be satisfied.For the purposes of this case, subsection 23AH(5) provides that subsection 23AH(2) will not apply to the relevant foreign income derived by the taxpayer
- if all of the following conditions are satisfied
- :
-
-(a) the PE is in a listed country; and
+(iv)Will subsection 23AH(5) of the ITAA 1936 apply to exclude the foreign income, being the periodic payments received by the New Zealand branch office under the Swap, from the operation of subsection 23AH(2)?No. Subsection 23AH(5) will not apply to exclude the relevant foreign income from the operation of subsection 23AH(2) because subparagraph 23AH(5)(c)(ii) will not be satisfied.For the purposes of this case, subsection 23AH(5) provides that subsection 23AH(2) will not apply to the relevant foreign income derived by the taxpayer if all of the following conditions are satisfied : (a) the PE is in a listed country; and
 (b) the PE does not pass the active income test (see subsection (12)); and
-(c) the foreign income is
- both
-
-(i) adjusted tainted income (see subsection(13)); and
-(ii) eligible designated concession income in relation to a listed country. [emphasis added]
-
-If any of the conditions set out in paragraph 23AH(5)(a) or (5)(b) or subparagraph (5)(c)(i) or (5)(c)(ii) are not satisfied, subsection 23AH(5) will not apply to exclude the relevant foreign income from the operation of subsection 23AH(2).Subparagraph 23AH(5)(c)(ii) will not be satisfied in this case because the foreign income is not eligible designated concession income (EDCI) in relation to a listed country, New Zealand.For the purposes of this case EDCI is defined in section 317 as designated concession income (DCI):
-
-(a)that is not subject to tax in another listed country in a tax accounting period: or
-(b)that is:
-
-(i)subject to tax in another listed country in a tax accounting period: and
-(ii)designated concession income in relation to that other listed country.
-
-DCI is defined in section 317 in relation to a listed country with reference to the regulations. Subregulation 152B(1) of Division 2 of Part 8A of the Income Tax Regulations 1936 provides:For the definition of designated concession income in section 317 of the Act, if:
-
-(a)a listed country is mentioned in column 2 of an item in Part 2 of Schedule 9; and
-(b)an entity mentioned in column 3 of the item derived income or profits that are:
-
-(i)of a kind specified in column 4 of the item; and
+(c) the foreign income is both (i) adjusted tainted income (see subsection(13)); and
+(ii) eligible designated concession income in relation to a listed country. [emphasis added] If any of the conditions set out in paragraph 23AH(5)(a) or (5)(b) or subparagraph (5)(c)(i) or (5)(c)(ii) are not satisfied, subsection 23AH(5) will not apply to exclude the relevant foreign income from the operation of subsection 23AH(2).Subparagraph 23AH(5)(c)(ii) will not be satisfied in this case because the foreign income is not eligible designated concession income (EDCI) in relation to a listed country, New Zealand.For the purposes of this case EDCI is defined in section 317 as designated concession income (DCI): (a)that is not subject to tax in another listed country in a tax accounting period: or
+(b)that is: (i)subject to tax in another listed country in a tax accounting period: and
+(ii)designated concession income in relation to that other listed country. DCI is defined in section 317 in relation to a listed country with reference to the regulations. Subregulation 152B(1) of Division 2 of Part 8A of the Income Tax Regulations 1936 provides:For the definition of designated concession income in section 317 of the Act, if: (a)a listed country is mentioned in column 2 of an item in Part 2 of Schedule 9; and
+(b)an entity mentioned in column 3 of the item derived income or profits that are: (i)of a kind specified in column 4 of the item; and
 (ii)further described in column 5 of the item
-the income or profits are designated concession income.
-
-As New Zealand is a listed country pursuant to Part 1 of Schedule 10 of the Income Tax Regulations 1936, column 4 of item 209 of Part 2 of Schedule 9 of the Regulations provides that only 'capital gains in respect of tainted assets' that are 'not subject to tax in New Zealand in a tax accounting period' will be DCI in relation to a listed country as defined in subsection 23AH(15) with reference to Part X of the ITAA 1936. The periodic payments that will be received by the New Zealand branch under the swap arrangement will be of an income nature not capital, and will not constitute DCI and therefore will not constitute EDCI. Accordingly, subsection 23AH(5) of the ITAA 1936 will not apply to exclude such amounts of foreign income from the operation of subsection 23AH(2).
+the income or profits are designated concession income. As New Zealand is a listed country pursuant to Part 1 of Schedule 10 of the Income Tax Regulations 1936, column 4 of item 209 of Part 2 of Schedule 9 of the Regulations provides that only 'capital gains in respect of tainted assets' that are 'not subject to tax in New Zealand in a tax accounting period' will be DCI in relation to a listed country as defined in subsection 23AH(15) with reference to Part X of the ITAA 1936. The periodic payments that will be received by the New Zealand branch under the swap arrangement will be of an income nature not capital, and will not constitute DCI and therefore will not constitute EDCI. Accordingly, subsection 23AH(5) of the ITAA 1936 will not apply to exclude such amounts of foreign income from the operation of subsection 23AH(2).
 Conclusion
 Based on the facts set out above, the periodic payments received by the New Zealand branch from the Swap Counterparty will not be assessable income or exempt income of the Australian resident company under section 23AH of the ITAA 1936, because all the requirements for the application of subsection 23AH(2) are satisfied and subsection 23AH(5) does not apply to exclude such amounts of foreign income from the operation of subsection 23AH(2) of the ITAA 1936.
-Date of decision:
-  8 August 2005
-
-Year of income:
-  Year ended 30 September 2005 Year ended 30 September 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 23AH   subsection 23AH(1)   subsection 23AH(2)   subsection 23AH(5)   section 317
-Income Tax Assessment Act 1997   subsection 6-5(2)
-
-Case References:
-
-Nathan v. Federal Commissioner of Taxation   (1918) 25 CLR 183
-
-Commissioner of Taxation v. Spotless Services Limited & Anor   (1995) 62 FCR 244   95 ATC 4775   (1995) 32 ATR 309
-
-Thorpe Nominees Pty Ltd v. Commissioner of Taxation   88 ATC 4886   (1988) 19 ATR 1834
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2050
-Taxation Ruling IT 2682
-
-Keywords
-
-Foreign income
- International tax
- Non-assessable non-exempt income
- Permanent establishment
-
-Siebel/TDMS Reference Number:
-  4689509
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  11 November 2005
-
-ISSN:
- 1445-2782
+Date of decision: 8 August 2005 Year of income: Year ended 30 September 2005 Year ended 30 September 2006 Legislative References: Income Tax Assessment Act 1936 section 23AH subsection 23AH(1) subsection 23AH(2) subsection 23AH(5) section 317
+Income Tax Assessment Act 1997 subsection 6-5(2) Case References: Nathan v. Federal Commissioner of Taxation (1918) 25 CLR 183 Commissioner of Taxation v. Spotless Services Limited & Anor (1995) 62 FCR 244 95 ATC 4775 (1995) 32 ATR 309 Thorpe Nominees Pty Ltd v. Commissioner of Taxation 88 ATC 4886 (1988) 19 ATR 1834 Related Public Rulings (including Determinations) Taxation Ruling IT 2050
+Taxation Ruling IT 2682 Keywords Foreign income International tax Non-assessable non-exempt income Permanent establishment Siebel/TDMS Reference Number: 4689509 Business Line: Public Groups and International Date of publication: 11 November 2005 ISSN: 1445-2782

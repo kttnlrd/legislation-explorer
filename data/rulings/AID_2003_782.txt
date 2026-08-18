@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/782
-==================================================
-
-Income Tax
- Company loss transfers: loss year and deduction year the same - application of Division 165 to income company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company loss transfers: loss year and deduction year the same - application of Division 165 to income company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a loss company incurs and then transfers a loss of the same income year, does the income company need to satisfy Division 165 of the Income Tax Assessment Act 1997 (ITAA 1997) from the start of the income year before the loss year in which the income company is deemed to have incurred the loss?
 Decision
 No. Subsection 170-40(2) of the ITAA 1997 expressly provides that Division 165 of the ITAA 1997 does not apply to the income company if the loss year and the deduction year are the same.
@@ -23,40 +12,6 @@ Reasons for Decision
 Where an amount of tax loss is transferred ('the transferred amount') and the loss year and the deduction year are the same, subsection 170-15(2) of the ITAA 1997 provides that the transferred amount is deemed to be incurred by the income company in the income year immediately before the loss year.
 This deeming rule in subsection 170-15(2) of the ITAA 1997 is necessary as Division 36 of the ITAA 1997 only permits the deduction of a tax loss where that loss is incurred in an 'earlier' income year.
 To ensure that subsection 170-15(2) of the ITAA 1997 does not inappropriately apply Division 165 of the ITAA 1997 in respect of the deduction claimed by the income company for the transferred amount, subsection 170-40(2) of the ITAA 1997 expressly provides that Division 165 does not apply in such circumstances.
-Subsection 80G(14) of the Income Tax Assessment Act 1936 (ITAA 1936) is the equivalent operative provision to subsection 170-40(2) of the ITAA 1997. The Explanatory Memorandum to the Income Tax Assessment Amendment Bill (No. 4) 1984 stated that:
-
-... sub-section 80G(14) will ensure that the prior year loss provisions are not brought into account inappropriately because of the mechanism for loss transfer established by sub-paragraph (6)(d)(ii) where a loss is to be transferred in the year in which it is incurred. Accordingly, in such a case, sub-section 80G(14) will effectively exclude the application of relevant prior year loss provisions to both the loss company (paragraph (a)) and the income company (paragraph (b)).
-
-The legislative intent behind the enactment of subsection 80G(14) of the ITAA 1936 was to over-ride the deeming effect of subsection 80G(6) of the ITAA 1936. The Explanatory Memorandum to the Income Tax Assessment Bill 1996, of which Subdivision 170-A was part, signalled no change to the law with the equivalent provision subsection 170-40(2). Given the absence of any contrary legislative intention, section 1-3 of the ITAA 1997 will confer the intent of subsection 80G(14) of the ITAA 1936 upon subsection 170-40(2) of the ITAA 1997.
-Date of decision:
-  21 July 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subparagraph 80G(6)(d)(ii)   subsection 80G(14)
-Income Tax Assessment Act 1997   section 1-3   Division 36   Division 165   Subdivision 170-A   subsection 170-15(2)   subsection 170-40(2)
-
-Other References:
-
- Explanatory Memorandum to the Income Tax Assessment Bill 1996
-
-Keywords
-
-Companies
- Group companies
- Group company loss transfers
-
-Siebel/TDMS Reference Number:
-  3693438
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 August 2003
-
-ISSN:
- 1445-2782
+Subsection 80G(14) of the Income Tax Assessment Act 1936 (ITAA 1936) is the equivalent operative provision to subsection 170-40(2) of the ITAA 1997. The Explanatory Memorandum to the Income Tax Assessment Amendment Bill (No. 4) 1984 stated that: ... sub-section 80G(14) will ensure that the prior year loss provisions are not brought into account inappropriately because of the mechanism for loss transfer established by sub-paragraph (6)(d)(ii) where a loss is to be transferred in the year in which it is incurred. Accordingly, in such a case, sub-section 80G(14) will effectively exclude the application of relevant prior year loss provisions to both the loss company (paragraph (a)) and the income company (paragraph (b)). The legislative intent behind the enactment of subsection 80G(14) of the ITAA 1936 was to over-ride the deeming effect of subsection 80G(6) of the ITAA 1936. The Explanatory Memorandum to the Income Tax Assessment Bill 1996, of which Subdivision 170-A was part, signalled no change to the law with the equivalent provision subsection 170-40(2). Given the absence of any contrary legislative intention, section 1-3 of the ITAA 1997 will confer the intent of subsection 80G(14) of the ITAA 1936 upon subsection 170-40(2) of the ITAA 1997.
+Date of decision: 21 July 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 subparagraph 80G(6)(d)(ii) subsection 80G(14)
+Income Tax Assessment Act 1997 section 1-3 Division 36 Division 165 Subdivision 170-A subsection 170-15(2) subsection 170-40(2) Other References: Explanatory Memorandum to the Income Tax Assessment Bill 1996 Keywords Companies Group companies Group company loss transfers Siebel/TDMS Reference Number: 3693438 Business Line: Public Groups and International Date of publication: 29 August 2003 ISSN: 1445-2782

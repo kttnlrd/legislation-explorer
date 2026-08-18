@@ -1,29 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2004/335
-==================================================
-
-Goods and Services Tax
- GST and attributing input tax credits on cancellation of GST registration when accounting on a cash basis
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view regarding provisions of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) and the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) that do not apply in respect of acquisitions made under hire purchase agreements entered into on or after 1 July 2012 as a result of changes to the GST Act and the GST Regulations taking effect on and from that date.
-Despite its withdrawal, this ATO ID continues to be a precedential view for cash basis attribution of input tax credits for acquisitions made under hire purchase agreements entered into before 1 July 2012, where such attribution is in respect of a tax period occurring after 1 July 2012.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Can the entity, a business operator who accounted for GST on a cash basis, attribute the remaining unattributed input tax credits under subsection 138-15(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), to the tax period in which it cancelled its goods and services tax (GST) registration, where:
-
-• it acquired an asset under a hire purchase agreement before the cancellation of its GST registration, and
-• it had not yet attributed all of the input tax credits relating to this asset to a previous tax period?
-
-Decision
+================================================== Goods and Services Tax GST and attributing input tax credits on cancellation of GST registration when accounting on a cash basis FOI status: may be released This ATO ID is withdrawn because it contains a view regarding provisions of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) and the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) that do not apply in respect of acquisitions made under hire purchase agreements entered into on or after 1 July 2012 as a result of changes to the GST Act and the GST Regulations taking effect on and from that date.
+Despite its withdrawal, this ATO ID continues to be a precedential view for cash basis attribution of input tax credits for acquisitions made under hire purchase agreements entered into before 1 July 2012, where such attribution is in respect of a tax period occurring after 1 July 2012. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Can the entity, a business operator who accounted for GST on a cash basis, attribute the remaining unattributed input tax credits under subsection 138-15(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), to the tax period in which it cancelled its goods and services tax (GST) registration, where: • it acquired an asset under a hire purchase agreement before the cancellation of its GST registration, and
+• it had not yet attributed all of the input tax credits relating to this asset to a previous tax period? Decision
 Yes, the entity can attribute the remaining input tax credits under subsection 138-15(1) of the GST Act to the tax period in which it cancelled its GST registration, as all the requirements of subsection 138-15(1) of the GST Act are satisfied and those amounts have not been attributable to a previous tax period.
 Facts
 The entity is a business operator. The entity cancelled its GST registration in a particular tax period.
@@ -33,87 +14,17 @@ Before cancelling its GST registration, the entity had made some payments by ins
 Had the entity been accounting for GST on a non-cash basis, the input tax credits would have been attributable to a tax period occurring before its registration was cancelled.
 The cancellation of the entity's GST registration was not a result of the situations outlined in section 138-17 of the GST Act.
 Reasons for Decision
-Subsection 138-15(1) of the GST Act provides that the input tax credit that an entity is entitled to for a creditable acquisition is attributable to a particular tax period, and no other, if:
-
-• during the tax period, its registration is cancelled
+Subsection 138-15(1) of the GST Act provides that the input tax credit that an entity is entitled to for a creditable acquisition is attributable to a particular tax period, and no other, if: • during the tax period, its registration is cancelled
 • immediately before the cancellation, the entity was accounting on a cash basis
 • the input tax credit on the acquisition was not attributable, to any extent, to a previous tax period during which the entity accounted on a cash basis, and
-• the input tax credit would have been attributable to that previous tax period had the entity not accounted on a cash basis during that period.
-
-Subsection 138-15(1) of the GST Act applies despite the attribution rule in section 29-10 of the GST Act concerning attributing input tax credits on acquisitions (subsection 138-15(2) of the GST Act).
+• the input tax credit would have been attributable to that previous tax period had the entity not accounted on a cash basis during that period. Subsection 138-15(1) of the GST Act applies despite the attribution rule in section 29-10 of the GST Act concerning attributing input tax credits on acquisitions (subsection 138-15(2) of the GST Act).
 The entity has cancelled its GST registration and immediately before the cancellation the entity was accounting for GST on a cash basis. Therefore, the first and second requirements of subsection 138-15(1) of the GST Act are satisfied.
 The third requirement of subsection 138-15(1) of the GST Act is that the input tax credit on the acquisition of the asset was not attributable, to any extent, to a previous tax period during which the entity accounted on a cash basis.
 Under a hire purchase agreement, goods are purchased by instalment payments. The entity has the use of the goods while paying for them, but does not become the owner until the final instalment has been paid. Under Division 11 of the GST Act, where an entity accounts for GST on a cash basis and holds a tax invoice for the acquisition, it attributes input tax credits for the acquisition to the tax periods in which it provides consideration for the acquisition, but only to the extent that it provides consideration in those tax periods.
-The phrase 'to any extent', in the context of the provision, can be interpreted in more than one way. The Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 (EM), at paragraph 6.259, states:
-
-The tax period in which you cease to be registered is your concluding tax period. You attribute any amounts of GST, input tax credits or adjustments that you have not yet accounted for but would account for later if you were not ceasing to be registered to your concluding tax period.
-
-The provision's purpose is to allow an entity that has cancelled its GST registration to attribute input tax credits that have not been attributed to its concluding tax period. The phrase 'to any extent', in this context, means to any extent that the remaining input tax credits are not attributable to a previous tax period.
+The phrase 'to any extent', in the context of the provision, can be interpreted in more than one way. The Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 (EM), at paragraph 6.259, states: The tax period in which you cease to be registered is your concluding tax period. You attribute any amounts of GST, input tax credits or adjustments that you have not yet accounted for but would account for later if you were not ceasing to be registered to your concluding tax period. The provision's purpose is to allow an entity that has cancelled its GST registration to attribute input tax credits that have not been attributed to its concluding tax period. The phrase 'to any extent', in this context, means to any extent that the remaining input tax credits are not attributable to a previous tax period.
 Although the entity has attributed input tax credits in relation to the payments already made, there are outstanding instalments to be paid under the hire purchase agreement. The remaining input tax credits that relate to the outstanding instalments are not attributable, to any extent, to a previous tax period during which the entity accounted for GST on a cash basis. Section 138-15 of the GST Act has the effect that the portion of the input tax credit that has not been attributable to a previous tax period is attributed to the tax period in which the registration is cancelled. As such, the third requirement of subsection 138-15(1) of the GST Act is satisfied.
 Immediately before cancellation of its GST registration, the entity was accounting for GST on a cash basis. If the entity had been accounting for GST on a non-cash basis, full input tax credits for the asset under the hire purchase would have been attributable to a tax period occurring before the cancellation of its GST registration. Therefore, the fourth and final requirement of subsection 138-15(1) of the GST Act is satisfied.
-As all the requirements of subsection 138-15(1) of the GST Act are satisfied, the entity can attribute the remaining input tax credits to the tax period in which it cancelled its GST registration.
-
-Note 1: The interpretation of subsection 138-15(1) of the GST Act as outlined in this ATO ID also applies to GST payable and adjustments for the purposes of section 138-15 of the GST Act.
-
-Note 2: The entity also may also have an increasing adjustment for the asset under subsection 138-5(1) of the GST Act. The amount of the adjustment is calculated under subsection 138-5(2) of the GST Act.
-
-Note 3: In certain situations, the credit component under a hire purchase agreement is an input taxed financial supply to which input tax credits are not available in respect of.
-
-Note 4: Subsection 15AB(1) of the Acts Interpretation Act 1901 provides that consideration may be given to material not forming part of an Act for particular purposes including 'to determine the meaning of the provision when the provision is ambiguous or obscure....'. Paragraph 15AB(2)(e) of the Acts Interpretation Act provides that any explanatory memorandum relating to the Bill containing the provision is extrinsic material that may be considered for this purpose.
-
-[HISTORY: Note 2 and Note 3 were amended on 19 July 2007 to remove references to ATO ID's that have been withdrawn.]
-
-Date of decision:
-  5 June 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   Division 11   section 29-10   subsection 138-5(1)   subsection 138-5(2)   section 138-15   subsection 138-15(1)   subsection 138-15(2)   section 138-17
-Acts Interpretation Act 1901   subsection 15AB(1)   paragraph 15AB(2)(e)
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2000/29
-
-Other References:
-
- Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 paragraph 6.259
-
-Keywords
-
-Goods and services tax
- GST input tax credits and creditable acquisitions
- GST net amounts & adjustments
- Adjustments
- GST supplies and acquisitions
- Creditable acquisition
- GST tax periods
- Attribution rules
- Cash basis
- Concluding tax period
- Non cash basis
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  16 April 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 June 2003
-Original statement
-
-You are here
- 3 May 2013
+As all the requirements of subsection 138-15(1) of the GST Act are satisfied, the entity can attribute the remaining input tax credits to the tax period in which it cancelled its GST registration. Note 1: The interpretation of subsection 138-15(1) of the GST Act as outlined in this ATO ID also applies to GST payable and adjustments for the purposes of section 138-15 of the GST Act. Note 2: The entity also may also have an increasing adjustment for the asset under subsection 138-5(1) of the GST Act. The amount of the adjustment is calculated under subsection 138-5(2) of the GST Act. Note 3: In certain situations, the credit component under a hire purchase agreement is an input taxed financial supply to which input tax credits are not available in respect of. Note 4: Subsection 15AB(1) of the Acts Interpretation Act 1901 provides that consideration may be given to material not forming part of an Act for particular purposes including 'to determine the meaning of the provision when the provision is ambiguous or obscure....'. Paragraph 15AB(2)(e) of the Acts Interpretation Act provides that any explanatory memorandum relating to the Bill containing the provision is extrinsic material that may be considered for this purpose. [HISTORY: Note 2 and Note 3 were amended on 19 July 2007 to remove references to ATO ID's that have been withdrawn.] Date of decision: 5 June 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 Division 11 section 29-10 subsection 138-5(1) subsection 138-5(2) section 138-15 subsection 138-15(1) subsection 138-15(2) section 138-17
+Acts Interpretation Act 1901 subsection 15AB(1) paragraph 15AB(2)(e) Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2000/29 Other References: Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 paragraph 6.259 Keywords Goods and services tax GST input tax credits and creditable acquisitions GST net amounts & adjustments Adjustments GST supplies and acquisitions Creditable acquisition GST tax periods Attribution rules Cash basis Concluding tax period Non cash basis Business Line: Indirect Tax Date of publication: 16 April 2004 ISSN: 1445-2782 history Date: Version: 5 June 2003
+Original statement You are here 3 May 2013
 Archived

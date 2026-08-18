@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/48
-==================================================
-
-Income Tax
- Company tax loss: whether a tax loss which is disallowed following an injection of income is cancelled
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company tax loss: whether a tax loss which is disallowed following an injection of income is cancelled FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where assessable income or a capital gain has been injected into a company because of an available tax loss, and the Commissioner disallows a deduction for some or all of the tax loss (the excluded loss) pursuant to section 175-10 of the Income Tax Assessment Act 1997 (ITAA 1997), is the excluded loss cancelled?
 Decision
 No. Section 175-10 of the ITAA 1997 allows the Commissioner to disallow the deduction of the excluded loss for an income year if the requisite conditions are satisfied. However, the excluded loss may be deducted in a future income year, subject to the satisfaction of the special rules applying to company losses, including Division 175 of the ITAA 1997 (section 36-25 of the ITAA 1997).
@@ -23,50 +12,8 @@ The Commissioner has determined that the 'continuing shareholders' (as defined i
 Company A does not satisfy the same business test in respect of the income year.
 The deduction of the tax loss has been disallowed for the income year pursuant to section 175-10 of the ITAA 1997.
 Reasons for Decision
-Section 175-5 of the ITAA 1997 states:
-
-175-5(1)
- This Subdivision [175-A] sets out cases where the Commissioner may disallow some or all of a *tax loss (or of part of a tax loss) ( the
- excluded loss
-) as a deduction in calculating a company's taxable income of an income year after the *loss year.
-
-175-5(2)
- However, the Commissioner cannot disallow the *excluded loss if the company:
-
-(a)fails to meet a condition in section 165-12 (which is about maintaining the same owners) in respect of the *loss year or the income year; but
-(b)meets the condition in section 165-13 (which is about the company satisfying the same business test) in respect of the income year.
-
-The legislative intent of section 175-5 of the ITAA 1997 does not suggest that a tax loss that is disallowed (wholly or partly) as a deduction in an income year is cancelled, and unavailable for deduction in a future income year.
-Section 175-10 of the ITAA 1997, which provides for the first case where a company derives assessable income or makes a capital gain because of an available tax loss, is likewise focused on the circumstances of an income year, and does not extend to cancel the excluded loss. The tax loss or part thereof can be deducted in a future income year, subject to the satisfaction of the special rules applying to company losses, including Division 175 of the ITAA 1997(section 36-25 of the ITAA 1997).
-
-Note: the same interpretation applies to section 80DA of the Income Tax Assessment Act 1936, which was the predecessor to Subdivision 175-A of the ITAA 1997.
-
-Date of decision:
-  14 January 2010
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 36-25   section 165-12   section 165-13   Division 175   Subdivision 175-A   section 175-5   section 175-10   subsection 175-10(3)
-Income Tax Assessment Act 1936   section 80DA
-
-Keywords
-
-Tax loss
- Losses
- Company losses
- Income injection test
-
-Siebel/TDMS Reference Number:
-  6318899
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  26 February 2010
-
-ISSN:
- 1445 - 2782
+Section 175-5 of the ITAA 1997 states: 175-5(1) This Subdivision [175-A] sets out cases where the Commissioner may disallow some or all of a *tax loss (or of part of a tax loss) ( the excluded loss
+) as a deduction in calculating a company's taxable income of an income year after the *loss year. 175-5(2) However, the Commissioner cannot disallow the *excluded loss if the company: (a)fails to meet a condition in section 165-12 (which is about maintaining the same owners) in respect of the *loss year or the income year; but
+(b)meets the condition in section 165-13 (which is about the company satisfying the same business test) in respect of the income year. The legislative intent of section 175-5 of the ITAA 1997 does not suggest that a tax loss that is disallowed (wholly or partly) as a deduction in an income year is cancelled, and unavailable for deduction in a future income year.
+Section 175-10 of the ITAA 1997, which provides for the first case where a company derives assessable income or makes a capital gain because of an available tax loss, is likewise focused on the circumstances of an income year, and does not extend to cancel the excluded loss. The tax loss or part thereof can be deducted in a future income year, subject to the satisfaction of the special rules applying to company losses, including Division 175 of the ITAA 1997(section 36-25 of the ITAA 1997). Note: the same interpretation applies to section 80DA of the Income Tax Assessment Act 1936, which was the predecessor to Subdivision 175-A of the ITAA 1997. Date of decision: 14 January 2010 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 36-25 section 165-12 section 165-13 Division 175 Subdivision 175-A section 175-5 section 175-10 subsection 175-10(3)
+Income Tax Assessment Act 1936 section 80DA Keywords Tax loss Losses Company losses Income injection test Siebel/TDMS Reference Number: 6318899 Business Line: Public Groups and International Date of publication: 26 February 2010 ISSN: 1445 - 2782

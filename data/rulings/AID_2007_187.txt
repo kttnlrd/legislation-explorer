@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/187
-==================================================
-
-Income Tax
- Failure to withhold from an interest payment to a non-resident and the effect on the payment's deductibility
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Failure to withhold from an interest payment to a non-resident and the effect on the payment's deductibility FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the payment of an administrative penalty amount imposed under section 16-30 of Schedule 1 to the Taxation Administration Act 1953 (TAA), for failure to withhold from interest paid to a non-resident, constitute a payment of withholding tax for the purposes of subsection 26-25(3) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The payment of an administrative penalty amount imposed under section 16-30 of Schedule 1 to the TAA, for failure to withhold from interest paid to a non-resident, constitutes a payment of withholding tax for the purposes of subsection 26-25(3) of the ITAA 1997.
@@ -30,34 +19,6 @@ An administrative penalty paid under section 16-30 of Schedule 1 to the TAA for 
 However, paragraph 18-35(1)(a) of Schedule 1 to the TAA states that where an entity fails to withhold an amount in relation to the payment of interest and pays an equal amount of penalty imposed under section 16-30 of the TAA or the general interest charge (GIC) in relation to that penalty to the Commissioner, the person liable to pay the withholding tax on the interest payment, being the non-resident, is entitled to a credit equal to the amount of the penalty or GIC paid. Where the penalty is paid in full the effect, is ordinarily, to extinguish the liability for the withholding tax on that interest. In that sense the withholding tax payable on the interest may be said to be paid.
 But, subsection 26-25(1) of the ITAA 1997 provides that an entity that fails to withhold an amount from interest income as required by Subdivision 12-F of the TAA is precluded from claiming a deduction for the interest. However, subsection 26-25(3) of the ITAA 1997 provides that if, apart from subsection 26-25(1) of the ITAA 1997, the entity can deduct the interest for an income year, it will be deductible for that year if the withholding tax payable for that interest is paid. Accordingly, the relevant amount of withholding tax is regarded as having been paid for the purposes of subsection 26-25(3) of the ITAA 1997 when the Australian entity pays the administrative penalty equal to the amount it should have withheld and that amount is subsequently credited to the non-resident's account in accordance with paragraph 18-35(1)(a) of the TAA.
 Hence, as the payer paid an administrative penalty equal to the withholding tax it should have withheld from the interest payment, the withholding tax is taken to be paid for the purposes of subsection 26-25(3) of the ITAA 1997.
-Date of decision:
-  1 October 2007
-
-Year of income:
-  not applicable
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 128B   subparagraph 128B(2)(b)(i)   subparagraph 128B(2)(b)(ii)   subsection 128B(5)
-Income Tax Assessment Act 1997   subsection 26-25(1)   subsection 26-25(3)   subsection 995-1(1)
-Taxation Administration Act 1953   Subdivision 12-F Schedule 1   section 12-245   section 16-30   paragraph 18-35(1)(a)
-
-Keywords
-
-International tax
- Non-resident interest withholding tax
- Withholding tax credits
- Withholding taxes
- Failure to withhold
-
-Siebel/TDMS Reference Number:
-  5640546
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 October 2007
-
-ISSN:
- 1445-2782
+Date of decision: 1 October 2007 Year of income: not applicable Legislative References: Income Tax Assessment Act 1936 section 128B subparagraph 128B(2)(b)(i) subparagraph 128B(2)(b)(ii) subsection 128B(5)
+Income Tax Assessment Act 1997 subsection 26-25(1) subsection 26-25(3) subsection 995-1(1)
+Taxation Administration Act 1953 Subdivision 12-F Schedule 1 section 12-245 section 16-30 paragraph 18-35(1)(a) Keywords International tax Non-resident interest withholding tax Withholding tax credits Withholding taxes Failure to withhold Siebel/TDMS Reference Number: 5640546 Business Line: Public Groups and International Date of publication: 8 October 2007 ISSN: 1445-2782

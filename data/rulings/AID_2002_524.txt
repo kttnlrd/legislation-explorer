@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2002/524
-==================================================
-
-Goods and Services Tax
- GST and grouping of partnership with companies
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-The A New Tax System (Goods and Services Tax) Regulations 1999 (amended by the A New Tax System (Goods and Services Tax) Amendment Regulations 2003 (No.1) (2003 No. 37) affects certain group membership requirements from 1 April 2003.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and grouping of partnership with companies FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+The A New Tax System (Goods and Services Tax) Regulations 1999 (amended by the A New Tax System (Goods and Services Tax) Amendment Regulations 2003 (No.1) (2003 No. 37) affects certain group membership requirements from 1 April 2003. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do the entities, a partnership and two companies the shares in which are held by the individuals in the partnership, satisfy the membership requirements of a GST group under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
 Decision
 No, the entities do not satisfy the membership requirements of a GST group under section 48-10 of the GST Act.
@@ -30,13 +15,9 @@ Reasons for Decision
 Section 48-5 of the GST Act outlines the conditions that must be satisfied for the Commissioner to approve two or more entities as a GST group.
 In particular, paragraph 48-5(1)(b) of the GST Act requires that each of the entities applying to be part of the GST group must satisfy the membership requirements for that GST group.
 The general membership requirements that an entity must satisfy, to be part of a GST group or proposed GST group, are outlined in section 48-10 of the GST Act. These include requirements that each member is registered for GST, has the same tax periods as the other members, accounts for GST on the same basis as the other members, is not a member of any other GST group, and does not have any branches that are registered under the GST rules for branching.
-Where the members of a proposed GST group include a partnership and two or more companies, the entities must satisfy the membership requirements for:
-
-•a partnership grouping with a company;
+Where the members of a proposed GST group include a partnership and two or more companies, the entities must satisfy the membership requirements for: •a partnership grouping with a company;
 •a company grouping with a partnership; and
-•a company grouping with another company.
-
-Membership requirements for partnerships
+•a company grouping with another company. Membership requirements for partnerships
 First, it must be determined whether the partnership meets the membership requirements of the proposed GST group.
 Subparagraph 48-10 (1)(a)(ii) of the GST Act provides that if the entity is a partnership, it must satisfy the specifications in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
 Regulation 48-10.02 of the GST Regulations outlines the requirements that must be satisfied for a partnership to be a member of a GST group. In particular, subregulation 48-10.02(2) provides that a partnership must satisfy the requirements of subregulation 48-10.02(3), (3A) or (4) of the GST Regulations, to form part of a GST group. Sub-regulation 48-10.02(3) is the relevant requirement where the only other members of the proposed GST group are companies. This requirement has to be satisfied in relation to only one company if there is more than one company in the proposed GST group.
@@ -49,40 +30,9 @@ Company A is owned by all three individual partners in the partnership. Company 
 Company grouping with a company
 Under paragraph 48-10(1)(b) of the GST Act, a company has to be of the same 90% owned group as all other members of the GST group or proposed GST group that are also companies.
 Section 190-1 of the GST Act provides that two companies are members of the same 90% owned group if one of the companies has at least a 90% stake in the other company or a third company has at least a 90% stake in each of the two companies.
-Section 190-5 of the GST Act provides that a company (the holding company) has at least a 90% stake in another company (the subsidiary company) when it:
-
-•controls, or is able to control, at least 90% of the voting power in the subsidiary company (whether directly, or indirectly through one or more interposed companies);
+Section 190-5 of the GST Act provides that a company (the holding company) has at least a 90% stake in another company (the subsidiary company) when it: •controls, or is able to control, at least 90% of the voting power in the subsidiary company (whether directly, or indirectly through one or more interposed companies);
 •has the right to receive (whether directly, or indirectly through one or more interposed companies)at least 90% of any dividends that the subsidiary company may pay; and
-•has the right to receive (whether directly, or indirectly through one or more interposed companies)at least 90% of any distribution of capital of the subsidiary company.
-
-Company A is owned by the individual partners in the partnership. Company B is also owned by the individual partners in the partnership. Therefore, neither company A nor company B have a 90% stake in each other. Therefore, the companies do not belong to the same 90% owned group. The fact that company A and company B have individuals, as common shareholders, does not satisfy the membership requirement of a GST group.
+•has the right to receive (whether directly, or indirectly through one or more interposed companies)at least 90% of any distribution of capital of the subsidiary company. Company A is owned by the individual partners in the partnership. Company B is also owned by the individual partners in the partnership. Therefore, neither company A nor company B have a 90% stake in each other. Therefore, the companies do not belong to the same 90% owned group. The fact that company A and company B have individuals, as common shareholders, does not satisfy the membership requirement of a GST group.
 Therefore, the proposed GST group does not meet the membership requirements outlined in subparagraph 48-10(1)(b) of the GST Act.
-Accordingly, the entities do not satisfy the membership requirements to form a GST group under section 48-10 of the GST Act.
-
-[Note: Paragraph 48-10 (1)(f) of the GST Act states that an entity can be a member of only one GST group. For this reason, if the partnership wishes to form a GST group it can only group with one of the companies. It cannot be a part of two GST groups, one with each company.]
-
-Date of decision:
-  31 July 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 48-5   section 48-10   subparagraph 48-10(1)(a)(ii)   paragraph 48-10(1)(b)   paragraph 48-10(1)(f)   subparagraph 48-15(c)(i)   subparagraph 48-15(c)(iii)   section 190-1   section 190-5
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 48.10.01   regulation 48.10.02   subregulation 48.10.02(2)   subregulation 48-10.02(3)   subparagraph 48.10.02(3)(b)(ii)   subregulation 48-10.02(3A)   subregulation 48-10.02(4)
-
-Keywords
-
-Goods & services tax
- GST special rules
- GST groups
-
-Siebel/TDMS Reference Number:
-  CW225667
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  31 May 2002
-
-ISSN:
- 1445-2782
+Accordingly, the entities do not satisfy the membership requirements to form a GST group under section 48-10 of the GST Act. [Note: Paragraph 48-10 (1)(f) of the GST Act states that an entity can be a member of only one GST group. For this reason, if the partnership wishes to form a GST group it can only group with one of the companies. It cannot be a part of two GST groups, one with each company.] Date of decision: 31 July 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 48-5 section 48-10 subparagraph 48-10(1)(a)(ii) paragraph 48-10(1)(b) paragraph 48-10(1)(f) subparagraph 48-15(c)(i) subparagraph 48-15(c)(iii) section 190-1 section 190-5
+A New Tax System (Goods and Services Tax) Regulations 1999 regulation 48.10.01 regulation 48.10.02 subregulation 48.10.02(2) subregulation 48-10.02(3) subparagraph 48.10.02(3)(b)(ii) subregulation 48-10.02(3A) subregulation 48-10.02(4) Keywords Goods & services tax GST special rules GST groups Siebel/TDMS Reference Number: CW225667 Business Line: Indirect Tax Date of publication: 31 May 2002 ISSN: 1445-2782

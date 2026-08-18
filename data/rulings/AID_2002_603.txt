@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/603
-==================================================
-
-Income Tax
- The 45 day holding period rule - discretionary trust beneficiaries
- FOI status: may be released
-
-This ATO ID is withdrawn as the technical information it contains is replicated in TD 2007/11.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax The 45 day holding period rule - discretionary trust beneficiaries FOI status: may be released This ATO ID is withdrawn as the technical information it contains is replicated in TD 2007/11. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 160APHO of the Income Tax Assessment Act 1936 (ITAA 1936) apply to imputation credits attached to Australian franked dividends being distributed to beneficiaries of a discretionary trust?
 Decision
 Yes, section 160APHO of the ITAA 1936 does apply to imputation credits attached to Australian franked dividends and as such, cannot be distributed to beneficiaries of a discretionary trust.
@@ -26,67 +11,13 @@ For the purposes of paragraph 160APHO(1)(a) of the ITAA 1936, neither the taxpay
 Reasons for Decision
 To be entitled to a franking credit, franking rebate, or intercorporate dividend rebate in relation to a particular dividend for the purposes of Division 1A of Part IIIAA of the ITAA 1936, a taxpayer must be a qualified person as defined in section 160APHD of the ITAA 1936. To be a qualified person, the beneficiaries must satisfy the requirements of subsection 160APHO(1) and paragraph 160APHO(2)(b) of the ITAA 1936.
 The beneficiaries do not satisfy the requirements because they will not have held the shares for the required period, being at least 45 days for ordinary shares or 90 days for preference shares, as required by paragraph 160APHO(2)(b) of the ITAA 1936.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-17 June 2016
+Comment 17 June 2016
 After title
-Inserted note regarding repealed section 160APHO of the ITAA 1936
-
-Related ATO Interpretative Decisions
-Inserted related ATO IDs
-
-Date of decision:
-  12 March 2002.
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160APHD   section 160APHN   subsection 160 APHO(1)   paragraph 160 APHO(1)(a)   paragraph 160APHO(2)(b)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/602
- ATO ID 2002/604
- ATO ID 2003/1105
- ATO ID 2003/1108
-
-Keywords
-
-Discretionary trusts
- Imputation credits
- Refund of imputation credits
-
-Siebel/TDMS Reference Number:
-  DW241404; 1-FMKW5IU
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  31 May 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-12 March 2002
-Original statement
-
- 
-17 June 2016
-Updated statement
-
-You are here
+Inserted note regarding repealed section 160APHO of the ITAA 1936 Related ATO Interpretative Decisions
+Inserted related ATO IDs Date of decision: 12 March 2002. Legislative References: Income Tax Assessment Act 1936 section 160APHD section 160APHN subsection 160 APHO(1) paragraph 160 APHO(1)(a) paragraph 160APHO(2)(b) Related ATO Interpretative Decisions ATO ID 2002/602 ATO ID 2002/604 ATO ID 2003/1105 ATO ID 2003/1108 Keywords Discretionary trusts Imputation credits Refund of imputation credits Siebel/TDMS Reference Number: DW241404; 1-FMKW5IU Business Line: Private Groups and High Wealth Individuals Date of publication: 31 May 2002 ISSN: 1445-2782 history Date: Version: 12 March 2002
+Original statement 17 June 2016
+Updated statement You are here
 19 December 2018
 Archived

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/908
-==================================================
-
-Goods and Services Tax
- GST and Chinese pancakes
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and Chinese pancakes FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a food supplier, making a GST-free supply under section 38-2 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a product known as a 'Chinese pancake'?
 Decision
 Yes, the entity is making a GST-free supply under section 38-2 of the GST Act when it supplies a product known as a 'Chinese pancake'.
@@ -25,38 +14,10 @@ A supply of food is GST-free under section 38-2 of the GST Act if the product sa
 Food is defined in section 38-4 of the GST Act to include food for human consumption (whether or not requiring processing or treatment) (paragraph 38-4(1)(a) of the GST Act). The Chinese pancake is used to wrap savoury or sweet fillings for consumption. Therefore, the Chinese pancake is food for human consumption and satisfies the definition of food contained in paragraph 38-4(1)(a) of the GST Act.
 However, under paragraph 38-3(1)(c) of the GST Act, a supply of food is not GST-free if it is food of a kind that is specified in the table in clause 1 of Schedule 1 to the GST Act (Schedule 1).
 Item 20 in Schedule 1 (Item 20) lists various bakery items including pancakes and crepes. Therefore, it needs to be determined whether the Chinese pancake is a kind of 'pancake' or 'crepe'.
-The phrase 'of a kind' is not defined in the GST Act. Accordingly, it is appropriate to examine the ordinary meaning of that term. The Macquarie Dictionary (1997) does not define the entire phrase 'of a kind'. However, it defines the word 'kind' to mean:
-
-'1. A class or group of individuals of the same nature or character, especially a natural group of animals or plants. 2. Nature or character as determining likeness or difference between things: things differing in degree rather than in kind. 3. A person or thing as being of a particular character or class: he is a strange kind of hero. 4. ....'
-
-Accordingly, something will be 'of a kind' if it is of the same nature or character (possessing the same distinguishing qualities) as the thing or group in question.
+The phrase 'of a kind' is not defined in the GST Act. Accordingly, it is appropriate to examine the ordinary meaning of that term. The Macquarie Dictionary (1997) does not define the entire phrase 'of a kind'. However, it defines the word 'kind' to mean: '1. A class or group of individuals of the same nature or character, especially a natural group of animals or plants. 2. Nature or character as determining likeness or difference between things: things differing in degree rather than in kind. 3. A person or thing as being of a particular character or class: he is a strange kind of hero. 4. ....' Accordingly, something will be 'of a kind' if it is of the same nature or character (possessing the same distinguishing qualities) as the thing or group in question.
 The terms 'pancake' and 'crepe' are not defined in the GST Act and therefore take on their ordinary meaning. The Macquarie Dictionary (1997) defines pancake as 'a thin flat cake made from a batter of eggs, flour, sugar, and milk, cooked in a frying pan' and crepe as 'a thin pancake.'
 Although the product is known as a 'Chinese pancake', it is not a kind of 'pancake' or 'crepe'. Rather, it is similar to tortilla or flat bread. While the 'Chinese pancake' contains flour, oil, salt and water, unlike the traditional pancakes or crepes, the 'Chinese pancake' does not contain egg or milk. Therefore, the 'Chinese pancake' is not food of a kind covered by Item 20.
 Also, under the category heading 'Bakery products', item 27 of Schedule 1 (Item 27) lists ' bread (including buns) with a sweet filling or coating'. While the 'Chinese pancake' is a kind of tortilla or flat bread, it is not a bread that contains a sweet filling or coating at the time of supply. Therefore, a 'Chinese pancake' is not covered by Item 27.
 As such, a 'Chinese pancake' is not excluded from being GST-free by paragraph 38-3(1)(c) of the GST Act.
 In addition, the supply of a 'Chinese pancake' does not fall within any of the other exclusions in section 38-3 of the GST Act. Therefore, the entity is making a GST-free supply under section 38-2 of the GST Act when it supplies a product known as a 'Chinese pancake'.
-Date of decision:
-  20 December 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 38-2   section 38-3   paragraph 38-3(1)(c)   section 38-4   paragraph 38-4(1)(b)   Schedule 1 clause 1   Schedule 1 clause 1 table item 20   Schedule 1 clause 1 table item 27
-
-Keywords
-
-Goods & services tax
- GST free
- GST food
- Ingredients for food
-
-Siebel/TDMS Reference Number:
-  CW255575
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  16 September 2002
-
-ISSN:
- 1445-2782
+Date of decision: 20 December 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 38-2 section 38-3 paragraph 38-3(1)(c) section 38-4 paragraph 38-4(1)(b) Schedule 1 clause 1 Schedule 1 clause 1 table item 20 Schedule 1 clause 1 table item 27 Keywords Goods & services tax GST free GST food Ingredients for food Siebel/TDMS Reference Number: CW255575 Business Line: Indirect Tax Date of publication: 16 September 2002 ISSN: 1445-2782

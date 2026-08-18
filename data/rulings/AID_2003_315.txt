@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/315
-==================================================
-
-Fringe Benefits Tax
- Loan fringe benefits: loans with limited recourse loan facility
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Loan fringe benefits: loans with limited recourse loan facility FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a limited recourse loan facility attached to an employee loan give rise to a residual fringe benefit or property fringe benefit under the Fringe Benefits Tax Assessment Act 1986 (FBTAA)?
 Decision
 No. The provision of a loan with a limited recourse loan facility to an employee can only give rise to a loan fringe benefit.
@@ -25,53 +14,9 @@ Reasons for Decision
 When the employee is provided with a limited recourse loan the non-recourse feature of the loan protects the employee from loss, should the value of the shares be below the loan balance when the loan is discharged. This protection is commonly referred to as downside risk protection (DRP).
 Thus, under the terms of the loan agreement, the employee is considered to obtain at least two advantages or benefits - one being the use of the lenders money, the other being the right to DRP.
 The right to DRP may give rise to a property benefit or alternatively a residual benefit provided it is not also a benefit pursuant to Division 4 of Part III of the FBTAA (Division 4).
-That is, a benefit that is a loan benefit cannot be:
-
-•A property benefit by virtue of the exclusion contained within the definition of 'property benefit' at subsection 136(1) of the FBTAA.
-•A residual benefit by virtue of the exclusion contained within section 45 of the FBTAA.
-
-In Westpac Banking Corporation v. Federal Commissioner of Taxation (1996) 70 FCR 52; (1996) 34 ATR 143; 96 ATC 5021, the Court examined loans provided by the bank to its employees. The loans were at a concessional interest rate and the usual loan establishment fees charged to the public were generally waived.
+That is, a benefit that is a loan benefit cannot be: •A property benefit by virtue of the exclusion contained within the definition of 'property benefit' at subsection 136(1) of the FBTAA.
+•A residual benefit by virtue of the exclusion contained within section 45 of the FBTAA. In Westpac Banking Corporation v. Federal Commissioner of Taxation (1996) 70 FCR 52; (1996) 34 ATR 143; 96 ATC 5021, the Court examined loans provided by the bank to its employees. The loans were at a concessional interest rate and the usual loan establishment fees charged to the public were generally waived.
 The Court found that the benefits relating to the loan establishment service were not within the subject matter of Division 4 and more generally, that Division 4 was not an exclusive code for all benefits that in any way relate to loans.
 Whilst all benefits that relate to a loan may not necessarily fall within Division 4, where a loan is provided on a commercial basis, the DRP benefits that specifically arise under the terms of the loan are considered to be within the subject matter of Division 4.
 As such the DRP benefits that arise under terms of a limited recourse loan cannot also give rise to either property benefits or residual benefits.
-Date of decision:
-  7 April 2003
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   section 45   subsection 136(1)   Division 4 of Part III
-
-Case References:
-
-Westpac Banking Corporation v. Federal Commissioner of Taxation    (1996) 70 FCR 52   (1996) 34 ATR 143   96 ATC 5021
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/316
- ATO ID 2003/317
-
-Keywords
-
-Fringe benefits tax
- Fringe benefits
- Loan fringe benefits
- Property fringe benefits
- Residual fringe benefits
-
-Siebel/TDMS Reference Number:
-  336077; 1-5T2LYTF; 1-C51B0WV
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  16 May 2003
-
-Date reviewed:
-  16 April 2026
-
-ISSN:
- 1445-2782
+Date of decision: 7 April 2003 Year of income: Year ending 30 June 2003 Legislative References: Fringe Benefits Tax Assessment Act 1986 section 45 subsection 136(1) Division 4 of Part III Case References: Westpac Banking Corporation v. Federal Commissioner of Taxation (1996) 70 FCR 52 (1996) 34 ATR 143 96 ATC 5021 Related ATO Interpretative Decisions ATO ID 2003/316 ATO ID 2003/317 Keywords Fringe benefits tax Fringe benefits Loan fringe benefits Property fringe benefits Residual fringe benefits Siebel/TDMS Reference Number: 336077; 1-5T2LYTF; 1-C51B0WV Business Line: Superannuation and Employer Obligations Date of publication: 16 May 2003 Date reviewed: 16 April 2026 ISSN: 1445-2782

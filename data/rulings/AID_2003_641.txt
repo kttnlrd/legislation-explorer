@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/641
-==================================================
-
-Income Tax
- Capital gains tax: demerger relief - more than two parcels of original interests - different acquisition times
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: demerger relief - more than two parcels of original interests - different acquisition times FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In applying subsection 115-30(1) of the Income Tax Assessment Act 1997 (ITAA 1997), when is a taxpayer treated as having acquired new interests in a demerged entity as a replacement for more than two original parcels of interests which were acquired at different times?
 Decision
 The new interests will be treated, for the purposes of subsection 115-30(1) of the ITAA 1997, as having been acquired at the same time as the original shares, determined on a reasonable basis of identification.
@@ -26,43 +15,4 @@ Reasons for Decision
 Subsection 115-25(1) of the ITAA 1997 states that a capital gain can only be a discount capital gain where the asset which gave rise to the capital gain was acquired at least twelve months before the relevant CGT event. The replacement asset, acquired in a replacement-asset rollover, will be treated for the purposes of subsection 115-30(1) of the ITAA 1997 as having been acquired at the time the original asset involved in the rollover was acquired. The definition of replacement-asset roll-over in section 112-115 of the ITAA 1997 includes demerger rollovers.
 It is reasonable to treat twenty of the new shares, for the purposes of subsection 115-30(1) of the ITAA 1997, as having been acquired in August 2000 and twenty in September 2002, ie on a proportionate basis. It is not considered reasonable to treat each new share as relating to one August 2000 share and one September 2002 share in order to treat all new shares as having been received in August 2000.
 [Note: this will have the effect of treating the taxpayer's capital gains on half of the new shares as discount capital gains.]
-Date of decision:
-  9 July 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 115-25(1)   subsection 115-30(1)   section 112-115   Division 125
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/639
- ATO ID 2003/640
-
-Keywords
-
-Acquisition of CGT assets
- Capital gains
- Capital gains tax
- CGT original assets
- CGT replacement asset roll-over
- CGT replacement assets
- Demerger roll-over
- Demerging entity
-
-Siebel/TDMS Reference Number:
-  3578618; 1-7QE7JGC
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  25 July 2003
-
-Date reviewed:
-  15 February 2016
-
-ISSN:
- 1445-2782
+Date of decision: 9 July 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 115-25(1) subsection 115-30(1) section 112-115 Division 125 Related ATO Interpretative Decisions ATO ID 2003/639 ATO ID 2003/640 Keywords Acquisition of CGT assets Capital gains Capital gains tax CGT original assets CGT replacement asset roll-over CGT replacement assets Demerger roll-over Demerging entity Siebel/TDMS Reference Number: 3578618; 1-7QE7JGC Business Line: Small Business/Individual Taxpayers Date of publication: 25 July 2003 Date reviewed: 15 February 2016 ISSN: 1445-2782

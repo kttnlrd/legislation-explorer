@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2003/135
-==================================================
-
-International Tax
- Assessability of foreign sourced payments made to Australian resident student
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== International Tax Assessability of foreign sourced payments made to Australian resident student FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are monthly maintenance payments from sources outside Italy received by an Australian resident taxpayer temporarily present in Italy solely for educational purposes assessable under subsection 6-5(2) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. Monthly maintenance payments from sources outside Italy received by an Australian resident taxpayer temporarily present in Italy solely for educational purposes are assessable under subsection 6-5(2) of the ITAA 1997.
@@ -29,9 +16,7 @@ Reasons for Decision
 Subsection 6-5(2) of the ITAA 1997 provides that the assessable income of a resident taxpayer includes ordinary income derived directly or indirectly from all sources, whether in or out of Australia, during the income year. Subsection 6-5(1) of the ITAA 1997 defines ordinary income to mean income according to ordinary concepts.
 Subsection 6-15(2) of the ITAA 1997 provides that exempt income is not assessable income.
 Section 11-15 of the ITAA 1997 lists those provisions dealing with income which may be exempt. Included in this list is section 51-10 of the ITAA 1997 which deals with educational allowances.
-Item 2.1A of the table in section 51-10 of the ITAA 1997 provides that, subject to the exceptions and special conditions contained within section 51-35 of the ITAA 1997, amounts received by way of scholarship, bursary, educational allowance or educational assistance by a
- full-time student
- at a school, college or university is exempt from income tax.
+Item 2.1A of the table in section 51-10 of the ITAA 1997 provides that, subject to the exceptions and special conditions contained within section 51-35 of the ITAA 1997, amounts received by way of scholarship, bursary, educational allowance or educational assistance by a full-time student at a school, college or university is exempt from income tax.
 In determining liability to Australian tax on foreign sourced income it is necessary to consider not only the income tax laws but also any applicable double tax agreement contained in the International Tax Agreements Act 1953 (the Agreements Act).
 Section 4 of the Agreements Act incorporates that Act with the ITAA 1997 so that all Acts are read as one. The Agreements Act effectively overrides the ITAA 1997 where there are inconsistent provisions.
 Schedule 21 to the Agreements Act contains the double tax agreement between Australia and Italy (the Italian Convention). The Italian Convention operates to avoid the double taxation of income received by Australian and Italian residents.
@@ -39,40 +24,5 @@ Article 21 of the Italian Convention provides that payments received by an Austr
 Even though the payments received by the Australian resident taxpayer will be exempt from tax in Italy, the assessability of the payment in Australia needs to be considered.
 The taxpayer does not meet one of the essential requirements of section 51-10 of the ITAA 1997 for exemption - the taxpayer must be a full-time student at a school, college or university. The monthly maintenance payments are not exempt from income tax under section 51-10 of the ITAA 1997 as the taxpayer is enrolled as a part-time student.
 The payments received by the taxpayer are income according to ordinary concepts and form part of the taxpayer's assessable income in accordance with subsection 6-5(2) of the ITAA 1997.
-Date of decision:
-  3 February 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 6-5(1)   subsection 6-5(2)   subsection 6-15(2)   section 11-15   section 51-10   section 51-35
-International Tax Agreements Act 1953   section 4   Schedule 21   Schedule 21, Article 21
-
-Related ATO Interpretative Decisions
-
- ATO ID 2001/227
-
-Keywords
-
-Double tax agreements
- Education payments
- Exempt income
- Foreign source income
- Income
- International tax
- Italy
- Scholarships, fellowships & bursaries
-
-Siebel/TDMS Reference Number:
-  3229543
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 March 2003
-
-ISSN:
- 1445-2782
+Date of decision: 3 February 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 6-5(1) subsection 6-5(2) subsection 6-15(2) section 11-15 section 51-10 section 51-35
+International Tax Agreements Act 1953 section 4 Schedule 21 Schedule 21, Article 21 Related ATO Interpretative Decisions ATO ID 2001/227 Keywords Double tax agreements Education payments Exempt income Foreign source income Income International tax Italy Scholarships, fellowships & bursaries Siebel/TDMS Reference Number: 3229543 Business Line: Public Groups and International Date of publication: 15 March 2003 ISSN: 1445-2782

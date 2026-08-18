@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1134
-==================================================
-
-Income Tax
- Foreign tax credits: Average rate of Australian tax for a life insurance company
- FOI status: may be released
-
-This ATO ID is withdrawn as former section 160AF of the Income Tax Assessment Act 1936 (ITAA 1936) has been repealed. With effect from 1 July 2008 the foreign tax credit system is replaced by the foreign income tax offset system. This ATO ID contains a view that does not reflect the position under the foreign income tax offset system. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions relating to the former provisions.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign tax credits: Average rate of Australian tax for a life insurance company FOI status: may be released This ATO ID is withdrawn as former section 160AF of the Income Tax Assessment Act 1936 (ITAA 1936) has been repealed. With effect from 1 July 2008 the foreign tax credit system is replaced by the foreign income tax offset system. This ATO ID contains a view that does not reflect the position under the foreign income tax offset system. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions relating to the former provisions. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the average rate of Australian tax under section 160AF of the Income Tax Assessment Act 1936 (ITAA 1936) determined separately for each class of taxable income of a life insurance company?
 Decision
 No. The average rate of Australian tax for a life insurance company is calculated by dividing tax payable on the whole of the taxable income by that taxable income.
@@ -25,64 +10,15 @@ A life insurance company has a taxable income of $8,000,000. The company's ordin
 The ordinary class of taxable income is taxed at 30% and the complying superannuation class of taxable income is taxed at 15%. Total tax payable by the life insurance company under section 4-10 of the Income Tax Assessment Act 1997 (ITAA 1997) is $2,250,000. The company has no tax offsets for the year.
 Foreign tax of $600,000 was paid in respect of the foreign income.
 Reasons for Decision
-Section 320-135 of the ITAA 1997 divides a life insurance company's taxable income into two classes:
-
-• the ordinary class, and
-• the complying superannuation class.
-
-The average rate of tax is defined in subsection 160AF(8) of the ITAA 1936 in relation to a taxpayer to mean the amount determined by dividing:
-
-• the income tax that would be assessed in respect of the taxpayer's taxable income (if certain rebates and credits were not allowed and if the taxpayer was not liable to pay additional tax under Division 7 of the ITAA 1936), by
-• the taxable income of the taxpayer.
-
-The taxable income of a life insurance company for the purposes of subsection 160AF(8) of the ITAA 1936 is the sum of both classes of income. This subsection does not permit each class of taxable income to be treated as the sole taxable income for the purposes of calculating the average rate of Australian tax.
+Section 320-135 of the ITAA 1997 divides a life insurance company's taxable income into two classes: • the ordinary class, and
+• the complying superannuation class. The average rate of tax is defined in subsection 160AF(8) of the ITAA 1936 in relation to a taxpayer to mean the amount determined by dividing: • the income tax that would be assessed in respect of the taxpayer's taxable income (if certain rebates and credits were not allowed and if the taxpayer was not liable to pay additional tax under Division 7 of the ITAA 1936), by
+• the taxable income of the taxpayer. The taxable income of a life insurance company for the purposes of subsection 160AF(8) of the ITAA 1936 is the sum of both classes of income. This subsection does not permit each class of taxable income to be treated as the sole taxable income for the purposes of calculating the average rate of Australian tax.
 The amount of income tax that would be assessed in respect of the life insurance company is $2,250,000. The average rate of tax for the life insurance company is therefore 28.125%, being $2,250,000 divided by $8,000,000.
 Subsection 160AF(1) of the ITAA 1936 provides that a taxpayer is entitled to a foreign tax credit where the assessable income of a resident taxpayer includes foreign income and the taxpayer has paid foreign tax for which they are personally liable in respect of that income.
 The amount of the credit is the lesser of the foreign tax paid or the Australian tax payable in respect of that foreign income.
-Accordingly, the allowable foreign tax credit in the income year under subsection 160AF(1) of the ITAA 1936 is the lesser of:
-
-• the amount of foreign tax paid ($600,000), and
-• the amount of Australian tax payable in respect of the foreign income (28.125% applied to $2,000,000 which is $562,500).
-
-Therefore, the foreign tax credit allowed for that income year is $562,500.
-Date of decision:
-  7 November 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 7   section 160AF   subsection 160AF(1)   subsection 160AF(8)
-Income Tax Assessment Act 1997   section 4-10   section 320-135
-
-Keywords
-
-Foreign income
- Foreign tax credits
- Life assurance income
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 December 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 7 November 2003
-Original statement
-
-You are here
- 9 January 2009
+Accordingly, the allowable foreign tax credit in the income year under subsection 160AF(1) of the ITAA 1936 is the lesser of: • the amount of foreign tax paid ($600,000), and
+• the amount of Australian tax payable in respect of the foreign income (28.125% applied to $2,000,000 which is $562,500). Therefore, the foreign tax credit allowed for that income year is $562,500.
+Date of decision: 7 November 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Division 7 section 160AF subsection 160AF(1) subsection 160AF(8)
+Income Tax Assessment Act 1997 section 4-10 section 320-135 Keywords Foreign income Foreign tax credits Life assurance income Business Line: Public Groups and International Date of publication: 12 December 2003 ISSN: 1445-2782 history Date: Version: 7 November 2003
+Original statement You are here 9 January 2009
 Archived

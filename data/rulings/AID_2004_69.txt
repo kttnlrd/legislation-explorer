@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2004/69
-==================================================
-
-Income Tax
- Assessability of maintenance payments received by Canadian resident from Australia
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of maintenance payments received by Canadian resident from Australia FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are maintenance payments sourced in Australia and received by a Canadian resident taxpayer assessable under subsection 6-5(3) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. Maintenance payments sourced in Australia and received by a Canadian resident taxpayer will be not assessable under subsection 6-5(3) of the ITAA 1997.
@@ -34,33 +21,5 @@ Section 4 of the Agreements Act incorporates that Act with the ITAA 1997 so that
 Schedule 3 to the Agreements Act contains the double tax agreement between Australia and Canada (the Canadian Convention). Schedule 3A to the Agreements Act contains the protocol amending the Canadian Convention (the Canadian Protocol). The Canadian Convention and the Canadian Protocol operate to avoid the double taxation of income received by Australian and Canadian residents.
 Article 18(3) of the Canadian Convention provides that alimony or other maintenance payments arising in Australia and paid to a resident of Canada shall be taxable only in Australia.
 Therefore the maintenance payments received by the Canadian resident taxpayer may only be taxed by Australia. However, as the maintenance payments are exempt under paragraph 51-50(2)(a) of the ITAA 1997, the payments are not assessable under subsection 6-5(3) of the ITAA 1997.
-Date of decision:
-  9 January 2004
-
-Year of income:
-  Year ending 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 6-5(3)   subsection 6-15(2)   section 11-15   section 51-50   paragraph 51-50(2)(a)
-International Tax Agreements Act 1953   section 4   subsection 4(2)   Schedule 3   Schedule 3, Article 18(3)   Schedule 3A
-
-Keywords
-
-Maintenance payments
- Canada
- Double tax agreement
- Exempt income
- Foreign income
-
-Siebel/TDMS Reference Number:
-  3845094
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 January 2004
-
-ISSN:
- 1445-2782
+Date of decision: 9 January 2004 Year of income: Year ending 30 June 2004 Legislative References: Income Tax Assessment Act 1997 subsection 6-5(3) subsection 6-15(2) section 11-15 section 51-50 paragraph 51-50(2)(a)
+International Tax Agreements Act 1953 section 4 subsection 4(2) Schedule 3 Schedule 3, Article 18(3) Schedule 3A Keywords Maintenance payments Canada Double tax agreement Exempt income Foreign income Siebel/TDMS Reference Number: 3845094 Business Line: Public Groups and International Date of publication: 23 January 2004 ISSN: 1445-2782

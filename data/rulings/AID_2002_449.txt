@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/449
-==================================================
-
-Income Tax
- Company Tax - Section 46 Dividend Rebate: Eligibility for dividends rebate of dividends paid by a subsidiary to its parent
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company Tax - Section 46 Dividend Rebate: Eligibility for dividends rebate of dividends paid by a subsidiary to its parent FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purposes of subsection 46F(3) of the Income Tax Assessment Act 1936 (ITAA 1936) in relation to dividends paid by a wholly-owned subsidiary to its parent in a particular financial year, is the parent company a group company in relation to the subsidiary if the subsidiary became wholly-owned two-and-a-half months before the start of that financial year and had an extended balancing period of 15 months ending at the end of the financial year to align its substituted accounting period with its parent's income year?
 Decision
 Yes, the parent company is a group company in relation to the subsidiary in relation to dividends paid during the particular financial year (i.e., from 1 July to 30 June) for the purposes of subsection 46F(3) of the ITAA 1936 (assuming the tests in subsection 160AFE(3) of the ITAA 1936 are satisfied from the time the subsidiary is acquired until the end of that financial year). Therefore subsection 46F(2) of the ITAA 1936 (which, among other things, denies the inter-corporate dividend rebate for unfranked dividends) is inapplicable to dividends paid by the subsidiary to the parent company during the financial year.
@@ -20,34 +9,4 @@ Facts
 The parent company acquired the wholly-owned subsidiary two-and-a-half months before the start of the financial year. Before that time the subsidiary had a substituted accounting period ending on 31 March in lieu of the following 30 June. To align the subsidiary's income year with that of its parent's, the Commissioner allowed the subsidiary a 15 month period in which to balance from 1 April of the calendar year in which it was acquired until 30 June of the following year (i.e. the end of the relevant financial year). The subsidiary was a subsidiary company within the meaning of subsection 160AFE(3) of the ITAA 1936 from the time it was acquired.
 Reasons for Decision
 Subsection 46F(3) applies if a shareholder is a group company in relation to the dividend-paying company 'in relation to the year of income in which the dividend is paid' (subsection 46F(1) provides that 'group company' has the same meaning as in section 160AFE). Although the subsidiary was allowed a 15 month balancing period to align its income year with its parent's, Norwich Superannuation Services v. FCT 99 ATC 2,015 supports the view that this 15 month period is not an income year for the purposes of subsection 46F(3) of the ITAA 1936. In this case the relevant income year in respect of which the parent company must be a group company in relation to its subsidiary is the 12 month period from 1 July of the year in which it is acquired until 30 June of the following year (i.e. the financial year). During this period the grouping rules in section 160AFE of the ITAA 1936 are satisfied, and therefore the companies are group companies for the purposes of subsection 46F(3).
-Date of decision:
-  30 November 2001
-
-Year of income:
-  Corporate Shareholder Dividend Rebates
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 46   subsection 46(2)   subsection 46F(2)   subsection 46F(3)   subsection 160AFE(2)   subsection 160AFE(3)   subsection 160AFE(4)   subsection 160AFE(5)
-
-Case References:
-
-Norwich Superannuation Services c FCT   41 ATR 1091
-
-Keywords
-
-Unfranked Dividends
- Group Companies
- Dividend Rebates
-
-Siebel/TDMS Reference Number:
-  DW252638
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  17 April 2002
-
-ISSN:
- 1445-2782
+Date of decision: 30 November 2001 Year of income: Corporate Shareholder Dividend Rebates Legislative References: Income Tax Assessment Act 1936 section 46 subsection 46(2) subsection 46F(2) subsection 46F(3) subsection 160AFE(2) subsection 160AFE(3) subsection 160AFE(4) subsection 160AFE(5) Case References: Norwich Superannuation Services c FCT 41 ATR 1091 Keywords Unfranked Dividends Group Companies Dividend Rebates Siebel/TDMS Reference Number: DW252638 Business Line: Public Groups and International Date of publication: 17 April 2002 ISSN: 1445-2782

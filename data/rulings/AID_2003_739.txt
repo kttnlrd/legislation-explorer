@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/739
-==================================================
-
-Income Tax
- Consolidation - liquidation of a head company
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation - liquidation of a head company FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a wholly-owned subsidiary company have its tax cost setting amount calculated under section 711-15 of the Income Tax Assessment Act 1997 (ITAA 1997) if the head company of a consolidated group is deregistered after liquidation?
 Decision
 Yes. As part of the liquidation process, the head company's assets (its shares in its subsidiary) will be disposed of. The subsidiary will exit the group when the beneficial ownership of the subsidiary's shares changes. The subsidiary must have its tax cost setting amount calculated under section 711-15 of the ITAA 1997 when the beneficial ownership in those shares changes.
@@ -25,12 +14,8 @@ Company A is deregistered after Company B has left the group.
 Reasons for Decision
 Under subsection 703-5(2) of the ITAA 1997, a consolidated group ceases to exist when the head company ceases to be a head company. A head company ceases to be eligible to be a head company when it can no longer meet the requirements of Item 1 in the table contained in subsection 703-15(2) of the ITAA 1997.
 Deregistration is the final step in liquidation and completes the liquidation process (section 601AC of the Corporations Act 2001). A company ceases to exist when it is deregistered (subsection 601AD(1) of the Corporations Act 2001). Accordingly, a company that has been deregistered cannot meet the requirements of Item 1, which, among other things, requires a head company to be a company as defined by section 995-1 the ITAA 1997.
-A company means:
-
-(a)a body corporate; or
-(b)any other unincorporated association or body of personsbut does not include a partnership or a non-entity joint venture.
-
-Company A ceases to be company at the time of its deregistration and simultaneously ceases to be eligible to be a head company. As a result, the consolidated group ceases to exist.
+A company means: (a)a body corporate; or
+(b)any other unincorporated association or body of personsbut does not include a partnership or a non-entity joint venture. Company A ceases to be company at the time of its deregistration and simultaneously ceases to be eligible to be a head company. As a result, the consolidated group ceases to exist.
 In order for Company A to be deregistered, it can no longer have beneficial or equitable ownership of assets or retain profits. Any profits from the change in ownership of its assets must be distributed amongst its creditors and contributories (shareholders). Thus, Company A's beneficial ownership of its shares in Company B must be disposed of, and the resultant profits distributed, before liquidation can be completed and deregistration can occur.
 Section 701-15 of the ITAA 1997 aligns the cost to the head company of the membership interest of the entity that leaves the group with the assets of that entity reduced by its liabilities, just before the entity ceases to be a subsidiary member of the group. In this instance, Company B leaves the group at the point in time when Company A's beneficial ownership in its shares changes.
 Section 701-60 of the ITAA 1997 explains which is the relevant section for calculating the tax cost setting amount. In this case, Item 2 of the table in section 701-60 of the ITAA 1997 explains that if the asset's tax cost is set by section 701-15 the tax cost setting amount is worked out in accordance with section 711-15 (for single exits) or 711-55 (for multiple exits).
@@ -38,36 +23,5 @@ Section 711-15 of the ITAA 1997 outlines the steps involved in calculating the t
 As Company B is the only subsidiary to leave the group, section 711-15 will apply, requiring Company B's tax cost setting amount for its membership interests (that is, its shares) to be calculated.
 Note 1: Section 701-40 of the ITAA 1997 (the exit history rules) will ensure that the assets leaving the group with Company B will retain their tax history.
 Note 2: a head company is required by Item 3 of the table in subsection 703-60(1) to provide the Commissioner with a notice of events effecting consolidated group. In the event of liquidation, it is expected the liquidator will perform this duty on behalf of the liquidated company.
-Date of decision:
-  5 May 2003
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 701-15   section 701-40   section 701-60   subsection 703-5(2)   subsection 703-15(2)   subsection 703-60(1)   section 711-15   section 711-55   section 995-1
-Corporations Act 2001   section 601AC   subsection 601AD(1)
-
-Keywords
-
-Consolidation
- Consolidation - exiting
- Insolvency
- Liquidation
- Member of a group
- Provisional liquidation
- Voluntary liquidation
- Wholly owned subsidiary
-
-Siebel/TDMS Reference Number:
-  3466347
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  22 August 2003
-
-ISSN:
- 1445-2782
+Date of decision: 5 May 2003 Year of income: Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 section 701-15 section 701-40 section 701-60 subsection 703-5(2) subsection 703-15(2) subsection 703-60(1) section 711-15 section 711-55 section 995-1
+Corporations Act 2001 section 601AC subsection 601AD(1) Keywords Consolidation Consolidation - exiting Insolvency Liquidation Member of a group Provisional liquidation Voluntary liquidation Wholly owned subsidiary Siebel/TDMS Reference Number: 3466347 Business Line: Consolidation Centre of Expertise Date of publication: 22 August 2003 ISSN: 1445-2782

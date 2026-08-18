@@ -59,13 +59,16 @@ Output ONLY valid JSON with these fields:
 - "title": "{title}"
 - "facts": string (2-4 sentences: factual background, procedural history)
 - "issues": array of strings (legal questions addressed)
-- "held": string (what the court decided)
-- "reasoning": string (4-8 sentences of key reasoning)
+- "held": string (what the court decided — state the vote split explicitly, e.g. "By a 5:2 majority..." or "unanimously", and name which judges dissented)
+- "reasoning": string (4-8 sentences of key reasoning, covering majority and any dissent)
 - "outcome": string (result/orders)
+- "judges": array of strings (each judge or joint bench member, e.g. "Gageler CJ", "Jagot J (dissenting)")
+- "dissenting": array of strings (names of judges who dissented; empty array if unanimous)
+- "bench_size": integer (total number of judges who sat)
 - "cases_cited": array of full case citation strings
 - "legislation_cited": array of legislation reference strings
 
-Be precise and accurate to the text.'''
+Be precise and accurate to the text. Never call a decision unanimous when any judge dissented.'''
 
     payload = {
         "model": "deepseek/deepseek-v4-flash",

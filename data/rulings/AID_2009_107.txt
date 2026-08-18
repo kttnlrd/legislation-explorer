@@ -1,25 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2009/107
-==================================================
-
-Income Tax
- R&D tax concession: is a company 'not at risk' if it can expect to recover its R&D expenditure because of the good technical prospects of its activities (rather than merely because of the terms of the relevant arrangement)?
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Under section 73CA of the Income Tax Assessment Act 1936 (ITAA 1936), is a company 'not at risk' in respect of an amount of expenditure if:
-
-•the company incurs the expenditure in an effort to comply with a contractual obligation to deliver a certain product; and
+================================================== Income Tax R&D tax concession: is a company 'not at risk' if it can expect to recover its R&D expenditure because of the good technical prospects of its activities (rather than merely because of the terms of the relevant arrangement)? FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Under section 73CA of the Income Tax Assessment Act 1936 (ITAA 1936), is a company 'not at risk' in respect of an amount of expenditure if: •the company incurs the expenditure in an effort to comply with a contractual obligation to deliver a certain product; and
 •when it is incurred, it can reasonably be expected that, as a result, the company will earn a fee under the contract at least equal to the amount of the expenditure; and
-•that expectation is held because there are good technical grounds to anticipate that the expenditure will result in a product that satisfies the contract, rather than merely because of the terms and conditions of the contract itself or any other similar circumstance of the arrangement between the parties?
-
-Decision
+•that expectation is held because there are good technical grounds to anticipate that the expenditure will result in a product that satisfies the contract, rather than merely because of the terms and conditions of the contract itself or any other similar circumstance of the arrangement between the parties? Decision
 No, the company is not considered to be 'not at risk'. Section 73CA of the ITAA 1936 therefore does not reduce the extent to which the company may claim a deduction under section 73B of the ITAA 1936 in respect of the expenditure.
 Facts
 ABC Pty Ltd (ABC) makes a contract with XYZ Pty Ltd (XYZ) under which ABC promises to develop a new type of machine. The machine is to be designed, built and tested to achieve certain specifications that have previously not been achieved. ABC will need to undertake a program of research and development to meet its contractual obligations.
@@ -28,81 +13,18 @@ At no time does ABC have any other arrangement or understanding with anybody, wh
 ABC expends $750,000 on research and development activities in an effort to meet its contractual obligation. The expenditure meets the requirements of section 73B of the ITAA 1936 (assume for the purpose of this ATO ID that subsection 73B(9) of the ITAA 1936 does not apply on these facts).
 Reasons for Decision
 Section 73CA of the ITAA 1936 applies if the Commissioner is satisfied that, when the relevant expenditure was incurred, the company was not at risk in respect of the whole or a part of the expenditure.
-The concept of a company being 'not at risk' in respect of expenditure is defined in subsection 73CA(5) of the ITAA 1936. The subsection reads as follows:
-
-(5)For the purposes of the application of this section in relation to any expenditure incurred by a company, the company is taken to have not been at risk at the time when the expenditure was incurred in respect of so much of the expenditure as does not exceed any consideration that, in the opinion of the Commissioner, because of:
-
-(a)any act that occurred, transaction or agreement that was entered into, or circumstance that existed, before or at that time; or
+The concept of a company being 'not at risk' in respect of expenditure is defined in subsection 73CA(5) of the ITAA 1936. The subsection reads as follows: (5)For the purposes of the application of this section in relation to any expenditure incurred by a company, the company is taken to have not been at risk at the time when the expenditure was incurred in respect of so much of the expenditure as does not exceed any consideration that, in the opinion of the Commissioner, because of: (a)any act that occurred, transaction or agreement that was entered into, or circumstance that existed, before or at that time; or
 (b)any act that was likely to occur, any transaction or agreement that was likely to be entered into, or any circumstance that was likely to exist, after that time
-the company or any associate of the company could reasonably have expected at that time to receive as the direct or indirect result of the incurring of the expenditure.
-
-The two critical elements of this provision for present purposes are that, for subsection 73CA(5) of the ITAA 1936 to apply to ABC, it must be the case that
- because of
- the matters specified in paragraphs 73CA(5)(a) and 73CA(b) of the ITAA 1936, ABC (or an associate) could reasonably have expected to receive an amount as a
- direct or indirect result of
- the expenditure being incurred.
-What matters do paragraphs 73CA(a) and 73CA(b) of the ITAA 1936 cover? Arguably, they could be read as extending to practically all matters, particularly given the references to any 'circumstance' that existed or was likely to exist. However, the Tax Office does not take this view. The following factors all suggest a more specific focus:
-
-•the references in those paragraphs to 'any act, transaction or agreement ... entered into' colour the subsequent use of the more general term 'circumstance' that existed or was likely to exist
-•the two paragraphs would be redundant if they were not intended to limit in some way the range of circumstances
- because of
- which the relevant expectation may be held
+the company or any associate of the company could reasonably have expected at that time to receive as the direct or indirect result of the incurring of the expenditure. The two critical elements of this provision for present purposes are that, for subsection 73CA(5) of the ITAA 1936 to apply to ABC, it must be the case that because of the matters specified in paragraphs 73CA(5)(a) and 73CA(b) of the ITAA 1936, ABC (or an associate) could reasonably have expected to receive an amount as a direct or indirect result of the expenditure being incurred.
+What matters do paragraphs 73CA(a) and 73CA(b) of the ITAA 1936 cover? Arguably, they could be read as extending to practically all matters, particularly given the references to any 'circumstance' that existed or was likely to exist. However, the Tax Office does not take this view. The following factors all suggest a more specific focus: •the references in those paragraphs to 'any act, transaction or agreement ... entered into' colour the subsequent use of the more general term 'circumstance' that existed or was likely to exist
+•the two paragraphs would be redundant if they were not intended to limit in some way the range of circumstances because of which the relevant expectation may be held
 •the section heading ('Guaranteed returns to investors')
 •the legislative history and the extrinsic materials that accompanied the enactment of section 73CA of the ITAA 1936
 •the previous use of the concept of 'not at risk' in a similar legislative context, as judicially interpreted (see former section 124ZAM of the ITAA 1936; Faywin Investment Pty Ltd v. FCT 89 ATC 5024; (1989) 20 ATR 1282)
-•the general understanding of the financial concept of an investment being 'not at risk'.
-
-For these reasons, the Tax Office considers that the two paragraphs direct attention to the features of the relationship between the parties involved in the arrangements under which the expenditure is incurred. In this respect the paragraphs can extend to any combination of formal contracts, side-arrangements, informal understandings, options and the like. But they do not extend to such matters as the technical, scientific or commercial prospects of the relevant research and development activities themselves.
-Therefore, the subsection is attracted if in any event,
- as a result of incurring
- the expenditure, some consideration could reasonably have been expected to be received
- because of
- the arrangement among those parties, even if, in particular, the expenditure fails to produce the intended technical result. In other words, the question is whether one can predict from the contractual arrangement itself, without regard to other matters of the type referred to above, that the incurrence of the expenditure will result in the receipt of consideration.
+•the general understanding of the financial concept of an investment being 'not at risk'. For these reasons, the Tax Office considers that the two paragraphs direct attention to the features of the relationship between the parties involved in the arrangements under which the expenditure is incurred. In this respect the paragraphs can extend to any combination of formal contracts, side-arrangements, informal understandings, options and the like. But they do not extend to such matters as the technical, scientific or commercial prospects of the relevant research and development activities themselves.
+Therefore, the subsection is attracted if in any event, as a result of incurring the expenditure, some consideration could reasonably have been expected to be received because of the arrangement among those parties, even if, in particular, the expenditure fails to produce the intended technical result. In other words, the question is whether one can predict from the contractual arrangement itself, without regard to other matters of the type referred to above, that the incurrence of the expenditure will result in the receipt of consideration.
 By contrast, subsection 73CA(5) of the ITAA 1936 does not apply to a company that, at the relevant time, could not reasonably expect to receive any consideration from any source in the event that the expenditure would result in technical failure. This would be so even if the company reasonably ought to have had a high degree of confidence that the project would succeed technically. That degree of technical confidence is not one of the matters specified in paragraphs 73CA(5)(a) and (b) of the ITAA 1936. Therefore it cannot be taken into account as a possible cause of an expectation of a receipt of consideration resulting from the expenditure (taxpayers should however remember that the expenditure concerned can only qualify for a deduction in the first place under section 73B of the ITAA 1936 if it meets certain criteria under that section, which in some cases relate to the level of innovation and technical risk involved).
-In ABC's case, the question posed by subsection 73CA(5) of the ITAA 1936 is whether the Commissioner can make the prediction that ABC can,
- because of
- the terms of the contract with XYZ, reasonably be expected to receive consideration from XYZ as a result of incurring the expenditure?
-The answer is no. Given ABC's technical confidence, one could have a reasonable expectation that ABC would get a return from its expenditure under the terms of the contract, being the $1 million fee. However, it cannot be said that that reasonable expectation is held
- because of
- the terms of the arrangement itself. It is held
- because
- ABC's technical confidence is a good ground for expecting that ABC will earn its fee under the contract. Whether any return will flow is dependent on whether the technology is successfully developed, and not solely on what the contract says or on any other aspect of the arrangement between ABC and XYZ.
+In ABC's case, the question posed by subsection 73CA(5) of the ITAA 1936 is whether the Commissioner can make the prediction that ABC can, because of the terms of the contract with XYZ, reasonably be expected to receive consideration from XYZ as a result of incurring the expenditure?
+The answer is no. Given ABC's technical confidence, one could have a reasonable expectation that ABC would get a return from its expenditure under the terms of the contract, being the $1 million fee. However, it cannot be said that that reasonable expectation is held because of the terms of the arrangement itself. It is held because ABC's technical confidence is a good ground for expecting that ABC will earn its fee under the contract. Whether any return will flow is dependent on whether the technology is successfully developed, and not solely on what the contract says or on any other aspect of the arrangement between ABC and XYZ.
 By contrast, section 73CA of the ITAA 1936 could well be attracted by an arrangement of any kind between parties (that is, whether formal or informal) under which it is apparent from the terms and features of the arrangement itself that the investing company is likely to receive money back as a direct or indirect result of incurring expenditure, regardless of whether the technology is successfully developed (subsection 73B(9) of the ITAA 1936 may also potentially apply in such a case).
-Date of decision:
-  9 September 2009
-
-Year of income:
-  All income years, whether beginning before or after date of decision.
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 73B   section 73CA   section 124ZAM
-
-Case References:
-
-Faywin Investment Pty Ltd v FCT   89 ATC 5024   (1989) 20 ATR 1282
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2635
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/68
-
-Keywords
-
-Research & development expenses
- R&D risk
-
-Siebel/TDMS Reference Number:
-  6329346
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 September 2009
-
-ISSN:
- 1445-2782
+Date of decision: 9 September 2009 Year of income: All income years, whether beginning before or after date of decision. Legislative References: Income Tax Assessment Act 1936 section 73B section 73CA section 124ZAM Case References: Faywin Investment Pty Ltd v FCT 89 ATC 5024 (1989) 20 ATR 1282 Related Public Rulings (including Determinations) Taxation Ruling IT 2635 Related ATO Interpretative Decisions ATO ID 2006/68 Keywords Research & development expenses R&D risk Siebel/TDMS Reference Number: 6329346 Business Line: Public Groups and International Date of publication: 25 September 2009 ISSN: 1445-2782

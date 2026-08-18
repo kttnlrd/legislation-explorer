@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1191
-==================================================
-
-Income Tax
- Holding period rule and related payments rule: qualified person - deceased estate
- FOI status: may be released
-
-Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Holding period rule and related payments rule: qualified person - deceased estate FOI status: may be released Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a beneficiary of a deceased estate a qualified person under section 160APHO of the Income Tax Assessment Act 1936 (ITAA 1936) in relation to a dividend paid to the beneficiary by the executor during the period of administration of the deceased estate.
 Decision
 Yes. As the beneficiary of the deceased estate held the interest in the shares at risk and the executor was a qualified person, the beneficiary will also be taken to be a qualified person.
@@ -24,36 +11,4 @@ Reasons for Decision
 Since the shares were acquired by the deceased after 31 December 1997, section 160APHL of the ITAA 1936 will apply. By virtue of section 160APHH(4) of the ITAA 1936, the executor will also be taken to have acquired the shares on 15 April 2000, the day on which the deceased acquired the shares.
 The beneficiary's interest in the relevant shares held by the executor of the deceased estate will be determined under sub-section 160APHL(5) of the ITAA 1936. Sub-section 160APHL(7) provides for the taxpayer's interest determined under section 160APHL(5) to have a long position with a delta of plus one in relation to itself. As the trust is a deceased estate, under paragraph (b) of sub-section 160APHL(10) of the ITAA 1936 the beneficiary of the trust will not be taken to have acquired either a short position equal to the beneficiary's long position under sub-section 160APHL(7) or a long position equal to so much of the taxpayer's interest in the trust holding as is a fixed interest.
 Consequently, in the absence of any other long or short positions, the beneficiary will be taken to have held the relevant interest in the shares at risk and would be a qualified person in relation to the distribution made by the executor.
-Date of decision:
-  27 November 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160APHH   section 160APHL   section 160APHO
-
-Keywords
-
-Franked dividends
- Deceased estates
- Trust beneficiaries
- Dividend income
- Shares
- Imputation credits
-
-Siebel/TDMS Reference Number:
-  3353474; 1-7U323XD, 1-E0L5UKM
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  24 December 2003
-
-Date reviewed:
-  22 March 2018
-
-ISSN:
- 1445-2782
+Date of decision: 27 November 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 section 160APHH section 160APHL section 160APHO Keywords Franked dividends Deceased estates Trust beneficiaries Dividend income Shares Imputation credits Siebel/TDMS Reference Number: 3353474; 1-7U323XD, 1-E0L5UKM Business Line: Private Groups and High Wealth Individuals Date of publication: 24 December 2003 Date reviewed: 22 March 2018 ISSN: 1445-2782

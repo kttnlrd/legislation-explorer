@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/210
-==================================================
-
-Income Tax
- CGT event A1: partnership becomes corporate limited partnership
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT event A1: partnership becomes corporate limited partnership FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does CGT event A1 in subsection 104-10(1) of the Income Tax Assessment Act 1997 (ITAA 1997) happen to a partnership asset when a partnership converts to a limited partnership that satisfies the definition of corporate limited partnership in section 94D of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No, CGT event A1 does not happen as the conversion does not result in a change of ownership for the partnership asset.
@@ -27,32 +16,5 @@ Section 94J of the ITAA 1936 provides that a reference in the income tax law to 
 The Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 6) of 1992 which introduced Division 5A into the ITAA 1936 advised that, while corporate limited partnerships are generally treated as companies for the purposes of the income tax law, this does not convert them into companies for other purposes, including criminal law, monetary claims, and so on.
 This is consistent with the view that the treatment of a corporate limited partnership as a company for the purposes of the ITAA 1997 and ITAA 1936 does not deem there to be a transfer of the ownership of partnership assets to the company nor does it change the ownership of partnership assets under general law.
 As there has been no change of ownership of the partnership assets, CGT event A1 does not happen upon conversion of a partnership to a limited partnership.
-Date of decision:
-  15 November 2010
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 104-10(1)   subsection 104-10(2)
-Income Tax Assessment Act 1936   section 94A   section 94l   Division 5A
-
-Keywords
-
-Capital gains
- Capital gains tax
- CGT assets
- CGT event A1 -disposal of a CGT asset
-
-Siebel/TDMS Reference Number:
-  1-2DQ4AE9
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  19 November 2010
-
-ISSN:
- 1445-2782
+Date of decision: 15 November 2010 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 subsection 104-10(1) subsection 104-10(2)
+Income Tax Assessment Act 1936 section 94A section 94l Division 5A Keywords Capital gains Capital gains tax CGT assets CGT event A1 -disposal of a CGT asset Siebel/TDMS Reference Number: 1-2DQ4AE9 Business Line: Public Groups and International Date of publication: 19 November 2010 ISSN: 1445-2782

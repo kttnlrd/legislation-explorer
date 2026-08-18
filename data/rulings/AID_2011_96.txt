@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/96
-==================================================
-
-Income Tax
- Last-in first-out rule: meaning of related securities
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Last-in first-out rule: meaning of related securities FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do shares held by a connected company that fail the holding period rule from the perspective of the connected company constitute related securities for the purposes of the Last-In First-Out ('LIFO') rules in former section 160APHI of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. Such shares would not constitute related securities for the purposes of former subsection 160APHI(2) of the ITAA 1936.
@@ -23,78 +10,14 @@ Company A holds shares in Company X that entitled Company A to a dividend. Compa
 Company B also holds shares in Company X that entitled Company B to a dividend. Company B also disposes of the shares in Company X after receipt of the dividend. However, company B would not be a qualified person in respect of the dividend received for the purposes of former Division 1A of the ITAA 1936.
 Company A and B are both companies in the same wholly owned group in that they have the same ultimate holding company.
 Reasons for Decision
-Former section 160APHI of the ITAA 1936 provides the legislative basis for the operation of a LIFO rule in determining the period for which shares are taken to have been held during a qualification period. In general terms, the provision provides for all shares held by a person (the primary securities) to be grouped together with substantially identical shares held by connected persons (the related securities) in determining the period of ownership, with disposals of shares from this group taken to be on a last-in first-out basis. The rationale for this treatment is provided at paragraph 4.39 of the Explanatory Memorandum to Taxation Laws Amendment Bill (No. 2) 1999 which provides as follows:
-
-'LIFO prevents circumvention of the holding period rule by taxpayers with portfolios of old shares buying new shares and selling old shares, as well as providing tax neutrality in a decision whether to make economically equivalent disposals of particular parcels of shares.'
-
-However, the LIFO treatment does not extend to all shares. As is made clear at paragraph 4 .48 of the Explanatory Memorandum
-
-'There will be no double counting of disposals of securities. Therefore, if the disposal of a security triggers the holding period rule in relation to that security, it will not also trigger a disposal of another security, even if it is related.'
-
-For the shares in Company X held by Company A, the restriction on double counting is achieved by former subsection 160APHI(7) of the ITAA 1936. This provides that the LIFO rule would not apply to disposals of shares by Company A in circumstances where company A would not be regarded as a qualified person in respect of the shares by failing the holding period rule.
+Former section 160APHI of the ITAA 1936 provides the legislative basis for the operation of a LIFO rule in determining the period for which shares are taken to have been held during a qualification period. In general terms, the provision provides for all shares held by a person (the primary securities) to be grouped together with substantially identical shares held by connected persons (the related securities) in determining the period of ownership, with disposals of shares from this group taken to be on a last-in first-out basis. The rationale for this treatment is provided at paragraph 4.39 of the Explanatory Memorandum to Taxation Laws Amendment Bill (No. 2) 1999 which provides as follows: 'LIFO prevents circumvention of the holding period rule by taxpayers with portfolios of old shares buying new shares and selling old shares, as well as providing tax neutrality in a decision whether to make economically equivalent disposals of particular parcels of shares.' However, the LIFO treatment does not extend to all shares. As is made clear at paragraph 4 .48 of the Explanatory Memorandum 'There will be no double counting of disposals of securities. Therefore, if the disposal of a security triggers the holding period rule in relation to that security, it will not also trigger a disposal of another security, even if it is related.' For the shares in Company X held by Company A, the restriction on double counting is achieved by former subsection 160APHI(7) of the ITAA 1936. This provides that the LIFO rule would not apply to disposals of shares by Company A in circumstances where company A would not be regarded as a qualified person in respect of the shares by failing the holding period rule.
 However, from the perspective of Company A, it is also necessary to consider shares held by connected persons to see if these shares are also subject to the LIFO rules which could potentially alter the period for which Company A is considered to have held its Company X shares. In order for the LIFO treatment to extend to the Company X shares held by Company B, it would be necessary for such shares to be related securities for the purposes of former subsection 160APHI(2) of the ITAA 1936.
 Where the connected person holding a substantially identical security is a company, one of the requirements for the substantially identical security to be regarded as a related security is that the substantially identical security gives rise to a 'rebateable dividend'. The term 'rebateable dividend' is defined for these purposes in former section 160APHD of the ITAA 1936 as a dividend for which the taxpayer is entitled to a rebate under section 46 or section 46A. Further, former subsection 46(2B) of the ITAA 1936 provides that a shareholder is not entitled to a rebate pursuant to former section 46 unless the shareholder is a qualified person in respect of the dividend.
-As Company B is not a qualified person in respect of the dividend it receives from Company X, the shares in Company X it holds would not be related securities for the purposes of former section 160APHI of the ITAA 1936. As such, they would not be included in the group of securities subject to the LIFO rule from the perspective of Company A.
-
-Amendment History
-
-Date of Amendment
+As Company B is not a qualified person in respect of the dividend it receives from Company X, the shares in Company X it holds would not be related securities for the purposes of former section 160APHI of the ITAA 1936. As such, they would not be included in the group of securities subject to the LIFO rule from the perspective of Company A. Amendment History Date of Amendment
 Part
-Comment
-
-17 November 2017
+Comment 17 November 2017
 Decision
-Correction of 'in' to 'is'
-
-Date of decision:
-  3 December 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 46   subsection 46(2B)   Division 1A   section 160APHD   section 160APHI   subsection 160APHI(2)   subsection 160APHI(7)
-
-Related Public Rulings (including Determinations)
-
-TD 2007/11
-
-Other References:
-
- Explanatory Memorandum to Taxation Laws Amendment Bill (No. 2) 1999
-
-Keywords
-
-Qualified Person
-
-Siebel/TDMS Reference Number:
-  1-1TOLD9U; 1-5UHSBRB; 1-CIARCOY
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  25 November 2011
-
-Date reviewed:
-  9 November 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 3 December 2010
-Original statement
-
-You are here
+Correction of 'in' to 'is' Date of decision: 3 December 2010 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 section 46 subsection 46(2B) Division 1A section 160APHD section 160APHI subsection 160APHI(2) subsection 160APHI(7) Related Public Rulings (including Determinations) TD 2007/11 Other References: Explanatory Memorandum to Taxation Laws Amendment Bill (No. 2) 1999 Keywords Qualified Person Siebel/TDMS Reference Number: 1-1TOLD9U; 1-5UHSBRB; 1-CIARCOY Business Line: Private Groups and High Wealth Individuals Date of publication: 25 November 2011 Date reviewed: 9 November 2017 ISSN: 1445-2782 history Date: Version: 3 December 2010
+Original statement You are here
 17 November 2017
 Updated statement

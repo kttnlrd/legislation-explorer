@@ -1,25 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2010/100
-==================================================
-
-Income Tax
- Consolidation: entry history rule - characterisation of foreign exchange gains and losses
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Where:
-
-•a finance subsidiary enters into foreign currency denominated borrowings from third-party financiers before the formation of a consolidated group in the ordinary course of carrying on a finance business;
+================================================== Income Tax Consolidation: entry history rule - characterisation of foreign exchange gains and losses FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Where: •a finance subsidiary enters into foreign currency denominated borrowings from third-party financiers before the formation of a consolidated group in the ordinary course of carrying on a finance business;
 •the borrowings were used by the finance subsidiary to fund intra-group loans; and
-•are repaid after the formation of the consolidated group;
-
-does the entry history rule in section 701-5 of the Income Tax Assessment Act 1997 (ITAA 1997) result in the head company's foreign exchange gains and losses on those borrowings being characterised, for income tax purposes, as though the head company (Head Co) entered into the borrowings in the ordinary course of carrying on a finance business?
+•are repaid after the formation of the consolidated group; does the entry history rule in section 701-5 of the Income Tax Assessment Act 1997 (ITAA 1997) result in the head company's foreign exchange gains and losses on those borrowings being characterised, for income tax purposes, as though the head company (Head Co) entered into the borrowings in the ordinary course of carrying on a finance business?
 Decision
 Yes. Head Co is taken, under the entry history rule in section 701-5 of the ITAA 1997, to have entered into the borrowings in the ordinary course of carrying on a finance business.
 Facts
@@ -27,75 +12,11 @@ Head Co, together with its wholly-owned subsidiaries, formed a consolidated grou
 Before the formation of the Head Co consolidated group, Fin Co was considered to be carrying on the business of a finance company for the purpose of characterising foreign exchange gains and losses on its borrowings.
 Some of the borrowings entered into by Fin Co before the formation of the Head Co consolidated group were repaid after the formation time.
 Reasons for Decision
-The entry history rule is contained in section 701-5 of the ITAA 1997. It provides:
-
-701-5
-
-Entry history rule
-
-For the head company core purposes in relation to the period after the entity becomes a *subsidiary member of the group, everything that happened in relation to it before it became a subsidiary member is taken to have happened in relation to the *head company.
-
-Note 1
- :
-
-Other provisions of this Part may affect the tax history that is inherited (e.g. asset cost base history is affected by section 701-10 and tax loss history is affected by Division 707).
-
-Note 2
- :
-
-Section 73BAC of the Income Tax Assessment Act 1936 overrides this rule for the purposes of the research and development incremental expenditure provisions.
-
-Note 3
- :
-
-Section 165-212E overrides this rule for the purposes of the same business test.
-
-In the present case, the carrying on of the finance business was something that 'happened' to Fin Co before the formation time. That history was inherited by Head Co, as the head company of its consolidated group, under the entry history rule which requires the pre-consolidation business of Fin Co to be treated as having been carried out by Head Co itself prior to consolidation.
+The entry history rule is contained in section 701-5 of the ITAA 1997. It provides: 701-5 Entry history rule For the head company core purposes in relation to the period after the entity becomes a *subsidiary member of the group, everything that happened in relation to it before it became a subsidiary member is taken to have happened in relation to the *head company. Note 1 : Other provisions of this Part may affect the tax history that is inherited (e.g. asset cost base history is affected by section 701-10 and tax loss history is affected by Division 707). Note 2 : Section 73BAC of the Income Tax Assessment Act 1936 overrides this rule for the purposes of the research and development incremental expenditure provisions. Note 3 : Section 165-212E overrides this rule for the purposes of the same business test. In the present case, the carrying on of the finance business was something that 'happened' to Fin Co before the formation time. That history was inherited by Head Co, as the head company of its consolidated group, under the entry history rule which requires the pre-consolidation business of Fin Co to be treated as having been carried out by Head Co itself prior to consolidation.
 The entry history rule applies for the purposes of determining Head Co's income tax liability and/or its tax losses, for income years ending after 1 July 2002. Those purposes would include the recognition for income tax purposes of any foreign currency gains and losses made by the group after the formation time.
-The Explanatory Memorandum to the New Business Tax System (Consolidation) Act (No. 1) 2002 confirms that the history that is inherited includes both past events and the circumstances which provide those events with a factual context. For example, at paragraph 2.32, it confirms that a consequence of the entry history rule is that a head company is entitled to certain deductions associated with expenditure incurred by a subsidiary member prior to it joining a consolidated group. In doing this, the rule must not only logically explain the expenditure by deeming the head company to have incurred it; it must also explain
- why
- that expenditure was incurred. If the rule did not do this, it may not be possible to determine whether the expenditure meets the statutory requirements of the relevant deduction.
-Taxation Determination TD 2005/23 addresses the situation where a debt was written off in respect of money lent by a subsidiary member in the ordinary course of its business of lending money before it became a member of a consolidated group. The view is taken that the head company of the consolidated group can satisfy subsection 25-35(1) of the ITAA 1997 in relation to the debt that is written off as bad by a subsidiary member after it has joined the group. The Commissioner concludes that the combined effect of the single entity rule in section 701-1 of the ITAA 1997 and entry history rule in that case is that:
-
-(i)the head company is treated as having the debt and as having written it off as bad; and
-(ii)the head company is treated as having lent the money, in respect of the debt in the ordinary course of its business of lending money.
-
-The question of characterisation addressed by the entry history rule is separate from the question of gain and loss recognition addressed by the single entity rule. The single entity rule and entry history rule apply on their own terms to mutually exclusive points in time. The single entity rule applies during the period that Fin Co is a member of the consolidated group. In contrast, the entry history rule applies to things which happened before Fin Co became such a member.
+The Explanatory Memorandum to the New Business Tax System (Consolidation) Act (No. 1) 2002 confirms that the history that is inherited includes both past events and the circumstances which provide those events with a factual context. For example, at paragraph 2.32, it confirms that a consequence of the entry history rule is that a head company is entitled to certain deductions associated with expenditure incurred by a subsidiary member prior to it joining a consolidated group. In doing this, the rule must not only logically explain the expenditure by deeming the head company to have incurred it; it must also explain why that expenditure was incurred. If the rule did not do this, it may not be possible to determine whether the expenditure meets the statutory requirements of the relevant deduction.
+Taxation Determination TD 2005/23 addresses the situation where a debt was written off in respect of money lent by a subsidiary member in the ordinary course of its business of lending money before it became a member of a consolidated group. The view is taken that the head company of the consolidated group can satisfy subsection 25-35(1) of the ITAA 1997 in relation to the debt that is written off as bad by a subsidiary member after it has joined the group. The Commissioner concludes that the combined effect of the single entity rule in section 701-1 of the ITAA 1997 and entry history rule in that case is that: (i)the head company is treated as having the debt and as having written it off as bad; and
+(ii)the head company is treated as having lent the money, in respect of the debt in the ordinary course of its business of lending money. The question of characterisation addressed by the entry history rule is separate from the question of gain and loss recognition addressed by the single entity rule. The single entity rule and entry history rule apply on their own terms to mutually exclusive points in time. The single entity rule applies during the period that Fin Co is a member of the consolidated group. In contrast, the entry history rule applies to things which happened before Fin Co became such a member.
 The single entity rule does not erase the history inherited by the head company in respect of Fin Co's borrowings entered into before the formation of Head Co's consolidated group. For the purposes of characterising any foreign exchange gains and losses on repayment of the borrowings from third-party financiers, Head Co is taken, under the entry history rule, to have entered into the borrowings in the ordinary course of carrying on a finance business.
-Date of decision:
-  23 April 2010
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 25-35(1)   section 701-1   section 701-5
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2004/11
-Taxation Determination TD 2005/23
-
-Other References:
-
- Chapter 2 - Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002
-
-Keywords
-
-Consolidation
- Consolidation - tax liabilities
- Foreign exchange gains and losses
- Single entity rule
-
-Siebel/TDMS Reference Number:
-  1-1UCIALY
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  30 April 2010
-
-ISSN:
- 1445-2782
+Date of decision: 23 April 2010 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 subsection 25-35(1) section 701-1 section 701-5 Related Public Rulings (including Determinations) Taxation Ruling TR 2004/11
+Taxation Determination TD 2005/23 Other References: Chapter 2 - Explanatory Memorandum to the New Business Tax System (Consolidation) Bill (No. 1) 2002 Keywords Consolidation Consolidation - tax liabilities Foreign exchange gains and losses Single entity rule Siebel/TDMS Reference Number: 1-1UCIALY Business Line: Consolidation Centre of Expertise Date of publication: 30 April 2010 ISSN: 1445-2782

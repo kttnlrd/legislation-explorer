@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1072
-==================================================
-
-Income Tax
- Foreign denominated traditional security
- FOI status: may be released
-
-This ATO Interpretative Decision does not take account of the effect of the New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 and is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 and a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2003 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign denominated traditional security FOI status: may be released This ATO Interpretative Decision does not take account of the effect of the New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 and is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1936 and a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2003 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Should a gain resulting from the disposal or redemption of a traditional security denominated in a foreign currency and remitted to Australia, be determined in that foreign currency and then translated into Australian dollars?
 Decision
 Yes. A gain resulting from the disposal or redemption of a traditional security denominated in a foreign currency should be determined in that foreign currency and then translated into Australian dollars. The applicable exchange rate to be used is that prevailing on the date the income is remitted to Australia.
@@ -33,47 +18,8 @@ Where a traditional security is held in a foreign currency the gain or loss aris
 The general conversion rule of subsection 20(1) of the ITAA 1936 relates to the conversion into Australian dollars of amounts of income or expenses, rather than to conversion of amounts that may be relevant to the calculation of income or deductions. In the absence of a specific conversion rule (such as section 103-20 of the Income Tax Assessment Act 1997), which would allow amounts relevant to the calculation of income to be translated, it is necessary to determine the gain or loss and then apply the conversion rule contained in subsection 20(1) of the ITAA 1936. This subsection requires income derived and expenses incurred to be expressed in Australian currency.
 The gain or loss on the security discussed in the facts would therefore require a comparison between the disposal proceeds and the acquisition cost (USD50,000 - USD49,700 = USD300). As the disposal proceeds exceed the acquisition cost, the difference of USD300 represents a gain and will need to be included in assessable income.
 As stated above, subsection 20(1) of the ITAA 1936 states that amounts of assessable income must be expressed in Australian currency. Paragraph 20(3)(a) of the ITAA 1936 explains that where the whole of the amount of income is remitted to Australia in the relevant year, the applicable exchange rate is the rate prevailing on the day the income is remitted. In the facts provided, the day the income is remitted is the date of disposal. In this case the date of remittance of the gain to Australia is 15 July 1999, and the exchange rate on this date is AUD1.00 = USD0.65. Therefore, the amount required to be included in assessable income expressed in Australian dollars is AUD462 (USD300/0.65)
-Date of decision:
-  18 November 2003
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 26BB(2)   subsection 20(1)   subsection 20(3)
-Income Tax Assessment Act 1997   section 103-20   Subdivision 960-C   Subsection 960-50(1)   Subsection 960-50(4)   Subsection 960-50(6)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 96/14
-Taxation Determination TD 2006/30
-
-Keywords
-
-Traditional securities
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  28 November 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-18 November 2003
-Original statement
-
-You are here
- 6 July 2012
+Date of decision: 18 November 2003 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1936 subsection 26BB(2) subsection 20(1) subsection 20(3)
+Income Tax Assessment Act 1997 section 103-20 Subdivision 960-C Subsection 960-50(1) Subsection 960-50(4) Subsection 960-50(6) Related Public Rulings (including Determinations) Taxation Ruling TR 96/14
+Taxation Determination TD 2006/30 Keywords Traditional securities Business Line: Finance and Investment Centre of Expertise Date of publication: 28 November 2003 ISSN: 1445-2782 history Date: Version: 18 November 2003
+Original statement You are here 6 July 2012
 Archived

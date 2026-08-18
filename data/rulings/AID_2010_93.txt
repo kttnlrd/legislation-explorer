@@ -1,27 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2010/93
-==================================================
-
-Income Tax
- Foreign tax credits: distributions from a USA Corporate Limited Partnership to a foreign hybrid limited partnership - section 160AF of the ITAA 1936
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is a taxpayer that is a member of a United States of America (US) Limited Partnership (LP) entitled to a foreign tax credit under section 160AF of the Income Tax Assessment Act 1936 (ITAA 1936) for tax imposed by the US on the taxpayer's share of the profits of the LP, where:
-
-•the LP is a foreign hybrid limited partnership according to section 830-10 of the Income Tax Assessment Act 1997 (ITAA 1997) solely deriving income from a US corporate limited partnership (CLP) which is not a foreign hybrid limited partnership, and
-•the taxpayer is assessable on their share of the profits of the LP under section 92 of the ITAA 1936?
-
-Decision
+================================================== Income Tax Foreign tax credits: distributions from a USA Corporate Limited Partnership to a foreign hybrid limited partnership - section 160AF of the ITAA 1936 FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is a taxpayer that is a member of a United States of America (US) Limited Partnership (LP) entitled to a foreign tax credit under section 160AF of the Income Tax Assessment Act 1936 (ITAA 1936) for tax imposed by the US on the taxpayer's share of the profits of the LP, where: •the LP is a foreign hybrid limited partnership according to section 830-10 of the Income Tax Assessment Act 1997 (ITAA 1997) solely deriving income from a US corporate limited partnership (CLP) which is not a foreign hybrid limited partnership, and
+•the taxpayer is assessable on their share of the profits of the LP under section 92 of the ITAA 1936? Decision
 Yes. The taxpayer is entitled to a foreign tax credit under section 160AF of the ITAA 1936 for tax imposed by the US on the taxpayer's share of the profits of the LP, to the extent LP's assessable income does not include an amount under section 529 of the ITAA 1936.
 Facts
 The taxpayer, the trustee of an Australian resident superannuation fund, invests in a US LP, which was formed in the US. The LP is a foreign hybrid limited partnership according to section 830-10 of the ITAA 1997. The LP is therefore treated as a partnership for Australian tax law purposes.
@@ -32,26 +15,10 @@ At the end of each accounting period, the whole of CLP's partnership profits are
 As the partners are not resident in the US, the LP is obliged to withhold US tax from the partner's share of the net income of the partnership (whether distributed or not). The rate of withholding depends on the character of the income in the hands of the partner under US tax law and the USA Convention contained in Schedule 2 to the International Tax Agreements Act 1953 (the USA Convention).
 The profits of the CLP that are either distributed to the LP or credited to the LP's capital account are treated as dividend income and are included in the net income of the LP under section 44 of the ITAA 1936. The taxpayer's assessable income includes its interest in the net income of the LP under section 92 of the ITAA 1936.
 Reasons for Decision
-Entitlement to claim a foreign tax credit is determined in accordance with subsection 160AF(1) of the ITAA 1936, which provides:
-
-160AF(1) If:
-
-(a)the assessable income of a year of income of a resident taxpayer includes:
-
-(i)income that is foreign income; or
-(ii)income, or a profit or gain, that is derived from a source in an area covered by an international tax sharing treaty to the extent to which that income, profit or gain is taxed in Australia; and
-
-(b)the taxpayer has paid foreign tax in respect of that income, profit or gain; and
-(c)the taxpayer was personally liable for that tax;
-
-the taxpayer is, subject to this Act, entitled to a credit of:
-
-(d)the amount of that foreign tax, reduced in accordance with any relief available to the taxpayer under the law relating to that tax; or
-(e)the amount of Australian tax payable in respect of that income, profit or gain;
-
-whichever is the less.
-
-Where the partnership profits are either distributed or credited to the partner's capital account, Australian tax law deems the CLP to have paid a dividend to the LP under sections 94L or 94M of the ITAA 1936. As the LP is treated as a partnership for Australian tax law purposes, such dividends are included in the LP's net income pursuant to section 90 of the ITAA 1936. This is because if the LP was itself a resident taxpayer, the dividends would be included in its assessable income under section 44 of the ITAA 1936. The taxpayer will then include in assessable income its interest in the net income of the LP, pursuant to section 92 of the ITAA 1936.
+Entitlement to claim a foreign tax credit is determined in accordance with subsection 160AF(1) of the ITAA 1936, which provides: 160AF(1) If: (a)the assessable income of a year of income of a resident taxpayer includes: (i)income that is foreign income; or
+(ii)income, or a profit or gain, that is derived from a source in an area covered by an international tax sharing treaty to the extent to which that income, profit or gain is taxed in Australia; and (b)the taxpayer has paid foreign tax in respect of that income, profit or gain; and
+(c)the taxpayer was personally liable for that tax; the taxpayer is, subject to this Act, entitled to a credit of: (d)the amount of that foreign tax, reduced in accordance with any relief available to the taxpayer under the law relating to that tax; or
+(e)the amount of Australian tax payable in respect of that income, profit or gain; whichever is the less. Where the partnership profits are either distributed or credited to the partner's capital account, Australian tax law deems the CLP to have paid a dividend to the LP under sections 94L or 94M of the ITAA 1936. As the LP is treated as a partnership for Australian tax law purposes, such dividends are included in the LP's net income pursuant to section 90 of the ITAA 1936. This is because if the LP was itself a resident taxpayer, the dividends would be included in its assessable income under section 44 of the ITAA 1936. The taxpayer will then include in assessable income its interest in the net income of the LP, pursuant to section 92 of the ITAA 1936.
 (Note: while LP is treated as having an interest in a FIF, the deemed payment of a dividend to LP and inclusion in its net income under section 90 of the ITAA 1936 results in an attribution account payment under paragraph 603(1)(a) of the ITAA 1936. This means that any income that would otherwise be included in LP's net income under section 529 of the ITAA 1936 is reduced by the amount of the attribution account payment under section 530 of the ITAA 1936. To the extent of the reduction, the relevant assessing provision when calculating LP's assessable income is therefore section 44, not section 529.)
 As the LP's net income consists of deemed dividends paid by the CLP out of profits derived from sources in the US, the taxpayer's assessable income will include foreign income, such that paragraph 160AF(1)(a) of the ITAA 1936 is satisfied.
 Under US tax law, tax is imposed on the taxpayer's share of the partnership profits calculated for US tax purposes. US tax law treats the CLP as a partnership, rather than a company, such that the amount included in LP's partnership profits for US tax purposes is a share of the partnership profits of CLP, rather than a deemed dividend.
@@ -64,50 +31,8 @@ As the LP and the CLP are treated as 'flow-through' entities under US tax law, a
 As the income that flows through the CLP and the LP to the partner retains its character in the hands of that person for the purposes of US tax law, the extent to which the US exercises its source country taxing right under the Convention will be determined by the character of that income (for example tax on interest income shall not exceed 10% under Article 11 of the US Convention).
 However, Australia, as the country of residence of the taxpayer, treats the relevant income taxed by the US under the Convention as dividend income paid by the CLP to which the taxpayer is beneficially entitled as a partner in the LP. This difference in treatment of income as between the State of source (US) and the State of residence of the taxpayer (Australia) is commonly referred to as a Conflict of Qualification. Where the difference in treatment is solely referable to differences in the respective domestic laws of the State of source and the State of residence of the taxpayer, it is considered that the State of source has taxed in accordance with the Convention and that the State of residence of the taxpayer is obliged to provide relief in accordance with Article 22(2) (see paragraphs 32.1 to 32.3 of the OECD Commentary on Article 23A and 23B. The Commissioner's view expressed at paragraph 104 of Taxation Ruling TR 2001/13 is that the OECD Model Taxation Convention may be considered in interpreting double tax agreements).
 Accordingly, the taxpayer will be entitled to a foreign tax credit for US taxes paid in respect of its share of the partnership income of LP, even though, for Australian tax law purposes, the taxpayer's share of the partnership profits is calculated on the basis that the LP has derived a dividend. The foreign tax credit will be allowable in the income year in which the partnership income is assessable, whether the foreign tax was paid in the same, or an earlier, income year.
-Date of decision:
-  15 April 2010
-
-Year of income:
-  Year ended 30 June 2007 Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 830-10
-Income Tax Assessment Act 1936   subsection 6AB(3)   subsection 6AB(3A)   section 44   section 90   section 92   Division 5A   section 94D   section 94L   section 94M   section 160AF   subsection 160AF(1)   paragraph 160AF(1)(a)   paragraph 160AF(1)(b)   paragraph 160AF(1)(c)   paragraph 160AF(1)(d)   paragraph 160AF(1)(e)   section 485AA   section 529   section 530   paragraph 603(1)(a)
- International Tax Agreements Act 1953   subsection 4(1)   Schedule 2   Schedule 2, Article 11   Schedule 2, Article 22, paragraph 2
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2445
+Date of decision: 15 April 2010 Year of income: Year ended 30 June 2007 Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 830-10
+Income Tax Assessment Act 1936 subsection 6AB(3) subsection 6AB(3A) section 44 section 90 section 92 Division 5A section 94D section 94L section 94M section 160AF subsection 160AF(1) paragraph 160AF(1)(a) paragraph 160AF(1)(b) paragraph 160AF(1)(c) paragraph 160AF(1)(d) paragraph 160AF(1)(e) section 485AA section 529 section 530 paragraph 603(1)(a) International Tax Agreements Act 1953 subsection 4(1) Schedule 2 Schedule 2, Article 11 Schedule 2, Article 22, paragraph 2 Related Public Rulings (including Determinations) Taxation Ruling IT 2445
 Taxation Ruling IT 2527
 Taxation Ruling TR 2001/13
-Taxation Ruling TR 2009/6
-
-Other References:
-
-OECD Commentary on the Model Tax Convention on Income and on Capital (Condensed Version 2005)
-
-Keywords
-
-Companies
- Double tax agreements
- Foreign hybrid limited partnership
- Foreign hybrids
- Foreign income
- Foreign investment funds
- Foreign tax credits
- Interposed partnerships
- Limited partnerships
- Partnership income
-
-Siebel/TDMS Reference Number:
-  5773085
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  30 April 2010
-
-ISSN:
- 1445 - 2782
+Taxation Ruling TR 2009/6 Other References: OECD Commentary on the Model Tax Convention on Income and on Capital (Condensed Version 2005) Keywords Companies Double tax agreements Foreign hybrid limited partnership Foreign hybrids Foreign income Foreign investment funds Foreign tax credits Interposed partnerships Limited partnerships Partnership income Siebel/TDMS Reference Number: 5773085 Business Line: Public Groups and International Date of publication: 30 April 2010 ISSN: 1445 - 2782

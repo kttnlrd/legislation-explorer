@@ -1,25 +1,10 @@
 ATO Interpretative Decision
 ATO ID 2006/3
-==================================================
-
-Goods and Services Tax
- GST and termination amounts payable after a hire purchase agreement is terminated due to default
- FOI status: may be released
-
-This ATO ID is withdrawn with effect from 1 July 2012.
+================================================== Goods and Services Tax GST and termination amounts payable after a hire purchase agreement is terminated due to default FOI status: may be released This ATO ID is withdrawn with effect from 1 July 2012.
 Due to legislative changes to regulation 40-5.12 of the A New Tax System (Goods and Services Tax) Regulations 1999 the supply of credit under a hire purchase agreement entered into on or after 1 July 2012 is no longer a financial supply.
 Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decreasing adjustments when hire purchase agreements entered into before 1 July 2012 are terminated due to default.
-See ATO Interpretative Decision 2013/52 which reflects the precedential ATO view in respect of hire purchase agreements entered into on or after 1 July 2012 that are terminated due to default.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+See ATO Interpretative Decision 2013/52 which reflects the precedential ATO view in respect of hire purchase agreements entered into on or after 1 July 2012 that are terminated due to default. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a termination amount payable to the entity, a supplier of a hire purchase agreement, arising from the termination of a hire purchase agreement by the entity due to a default by the hirer, form part of the consideration for a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
 Decision
 No, the termination amount payable to the entity does not form part of the consideration for a taxable supply under section 9-5 of the GST Act.
@@ -28,65 +13,14 @@ Facts
 The entity enters into hire purchase agreements with customers for the supply of goods. Under the hire purchase agreement the entity makes two supplies, a taxable supply of goods and a financial supply of credit under a hire purchase agreement (the disclosed credit charges). Payments for these supplies are made to the entity in instalments, consisting of a taxable and input taxed component.
 The entity is registered for goods and services tax (GST). The entity does not account for GST on a cash basis and attributes the GST on the supply of the goods under the hire purchase agreement in the tax period of the supply.
 In a later tax period, there is a genuine dispute between the parties, the hirer defaults and the entity exercises its right to terminate the hire purchase agreement. The entity has the right to repossess the goods and then sell or re-hire them, any amount in arrears up to the date of termination remains payable. Under the hire purchase agreement, the future outstanding instalments are no longer payable. To compensate the entity for any loss under the hire purchase agreement the entity is entitled to a termination amount. The termination amount is the discounted future outstanding amounts reduced by the net proceeds of resale or rehiring.
-These events are illustrated in the following diagram. This ATO ID addresses event (1):
-
-Reasons for Decision
+These events are illustrated in the following diagram. This ATO ID addresses event (1): Reasons for Decision
 Section 9-5 of the GST Act sets out the requirements that must be met for an entity to make a taxable supply. A transaction is only a taxable supply if there is consideration for a taxable supply (paragraph 9-5(a) of the GST Act).
 When there is a default and termination under a lease agreement, the supply of hire or the right to possess the goods has come to an end and the damages payments that subsequently arise do not relate to this earlier supply. In contrast a hire purchase agreement 'is in commercial substance a method by which the 'hirer' purchases goods on deferred payment terms' (paragraph 197 of GSTR 2000/29). The legal form that is used to achieve the sale of goods on deferred terms generally 'involves bailment and an option to purchase' (paragraph 199 of GSTR 2000/29). After a hire purchase agreement has been terminated, both the right to possess the goods and any right or option to obtain legal title to the goods have been extinguished. In addition, any finance that was provided under the agreement has also come to an end.
 Paragraph 72 of Goods and Services Tax Ruling GSTR 2003/11 explains that a termination payment made to compensate the genuine damage or loss flowing from early termination as a result of a default by the lessee is not consideration for a supply. This is the case even though the lessor brings the lease to an end by exercising the right to terminate the lease. GSTR 2003/11 does not deal specifically with hire purchase agreements, but the principles may have broad application depending on the individual facts (paragraph 2 of GSTR 2003/11).
 When the hirer makes payments to compensate for loss of future instalments, these payments can no longer be characterised as consideration for the original supply of goods or finance under the agreement. While there are differences in both the commercial substance and legal form of leases and hire purchase agreements, the treatment of payments made after termination is comparable and the principles in GSTR 2003/11 can be applied to hire purchase agreements.
 Applying paragraph 74 of GSTR 2003/11 to hire purchase agreements, a payment for damages includes amounts calculated with reference to putting the financier in the position it would have been in if the hire purchase agreement had been completed. The damages payable by the hirer may be calculated by reference to the future instalments (commonly adjusted to present values) less any net sale proceeds from sale of the goods by the entity. The termination amount is calculated under the agreement by reference to the discounted value of all future instalments less the net proceeds of the repossessed assets and is generally consistent with calculation illustrated in paragraph 74 of GSTR 2003/11. As such, the termination amount is a payment for damages, as one party (the hirer) has not met their obligations under the contract.
-Therefore the termination amount payable to the entity, under a hire purchase agreement that has been terminated due to a default by the hirer, does not form part of the consideration for a taxable supply under section 9-5 of the GST Act. The termination amount is payable in respect of damages and accordingly the payment is not consideration for a supply.
-
-Note: The termination amount does not include amounts in arrears that relate to instalments that had become due and payable before the termination date. Amounts in arrears are consideration for the supply of goods and the financial supply made under the hire purchase contract and are not damages. If a termination amount included these amounts, it would be necessary to apportion the amount between the damages and the supply.
-
-Date of decision:
-  14 November 2005
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   paragraph 9-5(a)
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2000/29
-Goods and Services Tax Ruling GSTR 2003/11
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/2
- ATO ID 2006/4
-
-Keywords
-
-Goods and services tax
- Input taxed supply
- GST Financial Supplies
- GST hire purchase
- GST supplies and acquisitions
- GST consideration
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  13 January 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 November 2005
-Original statement
-
-You are here
+Therefore the termination amount payable to the entity, under a hire purchase agreement that has been terminated due to a default by the hirer, does not form part of the consideration for a taxable supply under section 9-5 of the GST Act. The termination amount is payable in respect of damages and accordingly the payment is not consideration for a supply. Note: The termination amount does not include amounts in arrears that relate to instalments that had become due and payable before the termination date. Amounts in arrears are consideration for the supply of goods and the financial supply made under the hire purchase contract and are not damages. If a termination amount included these amounts, it would be necessary to apportion the amount between the damages and the supply. Date of decision: 14 November 2005 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 paragraph 9-5(a) Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2000/29
+Goods and Services Tax Ruling GSTR 2003/11 Related ATO Interpretative Decisions ATO ID 2006/2 ATO ID 2006/4 Keywords Goods and services tax Input taxed supply GST Financial Supplies GST hire purchase GST supplies and acquisitions GST consideration Business Line: Indirect Tax Date of publication: 13 January 2006 ISSN: 1445-2782 history Date: Version: 14 November 2005
+Original statement You are here
 20 September 2013
 Archived

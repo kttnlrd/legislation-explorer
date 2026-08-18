@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/565
-==================================================
-
-Income Tax
- Foreign tax credit and refundable tax offsets
- FOI status: may be released
-
-This ATO ID is withdrawn from 1 July 2008 as the position stated in the ATO ID is no longer current due to changes in the law dealing with tax offsets and the repeal of legislation dealing with the foreign tax credit system.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign tax credit and refundable tax offsets FOI status: may be released This ATO ID is withdrawn from 1 July 2008 as the position stated in the ATO ID is no longer current due to changes in the law dealing with tax offsets and the repeal of legislation dealing with the foreign tax credit system. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 160AO(2) of the Income Tax Assessment Act 1936 (ITAA 1936) operate to reduce the foreign tax credit calculated under section 160AF of the ITAA 1936 to nil where an individual taxpayer is in receipt of foreign income and is entitled to refundable tax offsets and where the amount of refundable tax offsets exceeds the basic income tax liability?
 Decision
 No. Subsection 160AO(2) of the ITAA 1936 does not operate to reduce the foreign tax credit calculated under section 160AF of the ITAA 1936 to nil where an individual taxpayer is in receipt of foreign income and is entitled to refundable tax offsets and where the amount of refundable tax offsets exceeds the basic income tax liability.
@@ -25,43 +10,21 @@ The individual taxpayer is a resident of Australia for income tax purposes.
 The taxpayer is in receipt of foreign sourced income on which foreign tax was paid.
 The taxpayer also receives salary and wages income and fully franked dividends from resident Australian companies.
 The franked dividends are subject to the refundable tax offset rules under section 67-25 of the Income Tax Assessment Act 1997 (ITAA 1997).
-The taxpayer's assessable income is summarised below:
-
-$
-
-Salary & Wage income
-6,000
-
-Australian dividend income
-2,100
-
-Franking credits
-900
-
-Foreign income (gross)
+The taxpayer's assessable income is summarised below: $ Salary & Wage income
+6,000 Australian dividend income
+2,100 Franking credits
+900 Foreign income (gross)
 500
-(foreign tax paid $50)
-
-Foreign tax credit
+(foreign tax paid $50) Foreign tax credit
 31
-(which is equal to the Australian tax payable as worked out under section 160AF of the ITAA 1936)
-
-Taxable income
-9,500
-
-Tax on taxable income
+(which is equal to the Australian tax payable as worked out under section 160AF of the ITAA 1936) Taxable income
+9,500 Tax on taxable income
 595
-(based on the tax rate of 17%)
-
-Reasons for Decision
+(based on the tax rate of 17%) Reasons for Decision
 Section 13-1 of the ITAA 1997 lists the provisions which allow a taxpayer a tax offset. Included in this list is section 160AF of the ITAA 1936 which deals with credit for overseas tax paid on foreign income.
 Subsection 160AF(1) of the ITAA 1936 provides that a foreign tax credit may arise where a resident taxpayer's assessable income includes foreign income and the taxpayer has paid foreign tax in respect of that income for which the taxpayer was personally liable. Section 160AF of the ITAA 1936 limits the amount of the foreign tax credit to the lesser of the foreign tax paid and the Australian tax payable on the assessable foreign income.
-Subsection 160AO(2) of the ITAA 1936 provides that 'notwithstanding anything contained in this Act or in the Income Tax (International Agreements) Act 1953-1960, (this Act is now called the International Tax Agreements Act 1953) where a credit is or credits are allowable to a person in respect of tax paid or payable in respect of income derived by that person in a year of income, that credit or the sum of those credits, as the case may be, shall not exceed the amount of Australian tax that:
-
-(a)before the allowance of that credit or those credits (as the case may be); and
-(b)before the application of any tax offset under section 205-70 of the Income Tax Assessment Act 1997
-
-is payable by the person in respect of the person's taxable income of that year of income.'
+Subsection 160AO(2) of the ITAA 1936 provides that 'notwithstanding anything contained in this Act or in the Income Tax (International Agreements) Act 1953-1960, (this Act is now called the International Tax Agreements Act 1953) where a credit is or credits are allowable to a person in respect of tax paid or payable in respect of income derived by that person in a year of income, that credit or the sum of those credits, as the case may be, shall not exceed the amount of Australian tax that: (a)before the allowance of that credit or those credits (as the case may be); and
+(b)before the application of any tax offset under section 205-70 of the Income Tax Assessment Act 1997 is payable by the person in respect of the person's taxable income of that year of income.'
 Section 160AO of the ITAA 1936 (introduced by the Income Tax and Social Services Contribution Assessment Bill 1960) predates both the imputation system and the concept of refundable tax offsets and was introduced in circumstances where several provisions of the Act granted a foreign tax credit. The intent behind section 160AO of the ITAA 1936 is to prevent taxpayers receiving a refund of foreign tax. This is achieved by capping the maximum foreign tax credit at the amount of Australian tax payable.
 Division 4, Part 1-3, of the ITAA 1997 provides the rules about how to work out the income tax payable on a taxpayer's taxable income. Specifically, subsection 4-10(3A) of the ITAA 1997 sets out how tax offsets are to be applied. It provides that (ignoring refundable tax offsets) where the sum of the tax offsets (of which the foreign tax credit is one) is more than the basic income tax liability then the taxpayer is not entitled to a refund.
 The basic income tax liability is defined in subsection 4-10(3) of the ITAA 1997 to be the result of applying the tax rate to taxable income. Subsection 4-10(3A) of the ITAA 1997 therefore operates to ensure that the total non-refundable tax offsets do not exceed the basic income tax liability effectively ensuring that there is no refund of, amongst other things, foreign tax credits. It is therefore effectively doing the same thing as subsection 160AO(2) of the ITAA 1936 was intended to do.
@@ -70,53 +33,9 @@ Section 67-30 of the ITAA 1997 contains an ordering rule which directs taxpayers
 Subsection 160AO(2) of the ITAA 1936 ignores the availability of refundable tax offsets and appears to operate on the premise that any refund that results would be a refund of foreign tax. The overall effect of subsection 160AO(2) of the ITAA 1936 is inconsistent with the intent of section 67-30 of the ITAA 1997 as it would effectively apply the refundable tax offsets first and could result in the refundable tax offset being reduced by the foreign tax credit amount calculated in section 160AF of the ITAA 1936.
 Given that subsection 4-10(3A) of the ITAA 1997 is the later provision and that subsection 160AO(2) of the ITAA 1936, if given its full operation, is inconsistent with section 67-30 of the ITAA 1997 in that it frustrates the clear intention to maximise the amount of refundable tax offsets by ensuring they are applied against the basic income tax liability last, subsection 160AO(2) of the ITAA 1936 is impliedly repealed to the extent that it requires refundable tax offsets to be taken into account in determining the maximum allowable foreign tax credit (see Goodwin v. Phillips (1908) 7 CLR 1; Gaudron J in Saraswati v. R (1991) 100 ALR 193 at 204).
 Accordingly, based on the scenario given above, the taxpayer is entitled to a foreign tax credit of $31 and the refundable amount under Division 67 of the ITAA 1997 will be $336 that is, $900 - ($595 - $31) = $336. (The effect of other tax offsets such as the low income rebate is not considered in this calculation).
-Date of decision:
-  1 July 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax (International Agreements) Act 1953   the Act
-Income Tax Assessment Act 1936   Division 18   section 160AF   subsection 160AF(1)   section 160AO   subsection 160AO(2)
-Income Tax Assessment Act 1997   Division 4   Division 67   subsection 4-10(3)   subsection 4-10(3A)   section 67-30
-
-Case References:
-
-Goodwin v. Phillips   (1908) 7 CLR 1
-
-Saraswati v. R   (1991) 100 ALR 193   172 CLR 1
-
-Keywords
-
-Dividend income
- Dividend imputation
- Foreign tax credits
- Refund of imputation credits
- Franking deficit tax offsets
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 July 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 1 July 2004
-Original statement
-
-You are here
+Date of decision: 1 July 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax (International Agreements) Act 1953 the Act
+Income Tax Assessment Act 1936 Division 18 section 160AF subsection 160AF(1) section 160AO subsection 160AO(2)
+Income Tax Assessment Act 1997 Division 4 Division 67 subsection 4-10(3) subsection 4-10(3A) section 67-30 Case References: Goodwin v. Phillips (1908) 7 CLR 1 Saraswati v. R (1991) 100 ALR 193 172 CLR 1 Keywords Dividend income Dividend imputation Foreign tax credits Refund of imputation credits Franking deficit tax offsets Business Line: Public Groups and International Date of publication: 9 July 2004 ISSN: 1445-2782 history Date: Version: 1 July 2004
+Original statement You are here
 12 December 2008
 Archived

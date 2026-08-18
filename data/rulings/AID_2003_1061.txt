@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2003/1061
-==================================================
-
-Goods and Services Tax
- GST and supply of a guaranteed fixed interest rate facility
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and supply of a guaranteed fixed interest rate facility FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a provider of financial products, making an input taxed supply under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a guaranteed fixed interest rate facility to a customer and the customer chooses to exit the facility?
 Decision
 Yes, the entity is making an input taxed supply under subsection 40-5(1) of the GST Act when it supplies a guaranteed fixed interest rate facility to a customer and the customer chooses to exit the facility.
@@ -32,20 +17,10 @@ The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed.
 Subsection 40-5(2) of the GST Act provides that financial supply has the meaning given by the GST Regulations.
-Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if:
-
-(a) the provision, acquisition or disposal of that interest is:
-
-• is for consideration
+Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned under subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if: (a) the provision, acquisition or disposal of that interest is: • is for consideration
 • is in the course or furtherance of an enterprise
-• is connected with Australia, and
-
-(b) the supplier is:
-
-• registered or required to be registered for GST, and
-• a financial supply provider in relation to the supply of the interest.
-
-Therefore, it is necessary to determine whether the entity is providing, acquiring or disposing of an interest in or under an item mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations when it supplies the guaranteed fixed interest rate facility.
+• is connected with Australia, and (b) the supplier is: • registered or required to be registered for GST, and
+• a financial supply provider in relation to the supply of the interest. Therefore, it is necessary to determine whether the entity is providing, acquiring or disposing of an interest in or under an item mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations when it supplies the guaranteed fixed interest rate facility.
 Item 2 and Item 11 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 2 and Item 11) are the relevant items that need to be considered in this case.
 Item 2 lists 'an interest in or under a debt, credit arrangement or right to credit, including a letter of credit'. Goods and Services Tax Ruling GSTR 2002/2 defines a debt as an amount due from one entity to another or a presently existing obligation to pay an ascertainable amount at a future time. A credit arrangement is an arrangement under which an entity lends money on terms that include deferred repayment, or an agreement under which payment of a debt, owed by one entity to another, is deferred or time is allowed to pay.
 Although an interest rate is usually connected with a debt or a credit arrangement and is used to calculate repayments under these transactions, the interest rate itself is not a debt or a credit arrangement and as such, the supply of a guaranteed interest rate facility is not a financial supply under Item 2.
@@ -53,34 +28,5 @@ Item 11 lists 'a derivative'. Regulation 3 of the GST Regulations defines deriva
 Under the entity's guaranteed fixed interest rate facility, the customer enters into a contract to finance equipment (by way of a loan, a hire purchase, a finance lease or an operating lease) at a guaranteed fixed interest rate and at a future date. The value of a guaranteed fixed interest rate facility is derived from the value of a current interest rate and therefore, the guaranteed fixed interest rate facility is a derivative for the purposes of Item 11. The derivative is used by the customer to hedge against changes in interest rates at a future date. As such, the entity is providing an interest, as mentioned under subregulation 40-5.09(3) of the GST Regulations, when it provides a guaranteed fixed interest rate facility.
 The entity charges a fee to the customer when the customer exits the facility. This fee is consideration for the entity's supply of the facility. The supply is made in the course of the entity's enterprise and is connected with Australia. In addition, the entity is registered for GST and is a financial supply provider in relation to the supply of the guaranteed interest rate facility.
 Accordingly, the supply satisfies the requirements of subregulation 40-5.09(1) of the GST Regulations and the entity is making an input taxed supply under subsection 40-5(1) of the GST Act when it supplies a guaranteed interest rate facility to a customer and the customer chooses to exit the facility.
-Date of decision:
-  11 June 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 40-5(1)   subsection 40-5(2)
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 40-5.06   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 2   subregulation 40-5.09(3) table item 11   subregulation 40-5.09(4)
-
-Related Public Rulings (including Determinations)
-
-GSTR 2002/2
-
-Keywords
-
-Goods and services tax
- Input taxed supplies
- GST financial supplies
- GST debt, loan and credit
- GST derivatives
-
-Siebel/TDMS Reference Number:
-  3525830
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  28 November 2003
-
-ISSN:
- 1445-2782
+Date of decision: 11 June 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 40-5(1) subsection 40-5(2)
+A New Tax System (Goods and Services Tax) Regulations 1999 regulation 40-5.06 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 2 subregulation 40-5.09(3) table item 11 subregulation 40-5.09(4) Related Public Rulings (including Determinations) GSTR 2002/2 Keywords Goods and services tax Input taxed supplies GST financial supplies GST debt, loan and credit GST derivatives Siebel/TDMS Reference Number: 3525830 Business Line: Indirect Tax Date of publication: 28 November 2003 ISSN: 1445-2782

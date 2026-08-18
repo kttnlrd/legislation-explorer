@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/783
-==================================================
-
-Income Tax
- Company loss transfers: loss transfer agreements - subsequent agreement to transfer tax loss in an earlier income year than previously transferred
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Company loss transfers: loss transfer agreements - subsequent agreement to transfer tax loss in an earlier income year than previously transferred FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where members of the same wholly owned company group enter into a valid loss transfer agreement in accordance with Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997), can those same members enter into a subsequent agreement to transfer the same loss in an earlier income year?
 Decision
 No. A specific consequence of a valid transfer of an amount of a tax loss under Subdivision 170-A of the ITAA 1997 is that the loss company is taken never to have incurred that loss once it has been validly transferred.
@@ -21,50 +10,6 @@ Loss Company and Income Company enter into a valid loss transfer agreement under
 Income Company subsequently determines that it had additional assessable income in an income year between the loss year and deduction year (the intervening income year). The public officers of Income Company and Loss Company propose to enter into a subsequent loss transfer agreement that transfers the loss previously transferred in the deduction year in the intervening income year.
 Reasons for Decision
 Subdivision 170-A provides the legislative basis to permit the transfer of tax losses between members of the same wholly-owned group of companies where certain conditions are satisfied.
-Specific consequences of a valid transfer of an amount of a tax loss are:
-
-(i)with respect to the income company, subsection 170-15(1) of the ITAA 1997 provides that if:
-
-...an amount of a tax loss is transferred, the amount is taken to be a tax loss incurred by the income company in the loss year.
-
-(ii)with respect to the loss company, subsection 170-20(2) of the ITAA 1997 provides that:
-
-The loss company can no longer deduct the transferred amount and is taken not to have incurred the tax loss to the extent of that amount.
-
-Taxation Ruling TR 98/12 at paragraph 11 states that:
-
-... subsections 80G(6) and (12) (section 170-15 and subsection 170-20(2)) operate to deem an agreed amount of loss to have been incurred by the income company and not to have been incurred by the loss company at the time a valid transfer document is executed. This means that the relevant amount of loss is no longer available to be dealt with by the loss company.
-
-Accordingly, any subsequent loss transfer agreement made by the loss company to transfer an amount of tax loss that has been validly transferred is ineffective, as that tax loss is no longer available to the loss company for it to transfer.
-Date of decision:
-  21 July 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 80G(6)   subsection 80G(12)
-Income Tax Assessment Act 1997   Subdivision 170-A   subsection 170-15(1)   subsection 170-20(2)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/12
-
-Keywords
-
-Companies
- Group companies
- Group company loss transfers
-
-Siebel/TDMS Reference Number:
-  3693649
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 August 2003
-
-ISSN:
- 1445-2782
+Specific consequences of a valid transfer of an amount of a tax loss are: (i)with respect to the income company, subsection 170-15(1) of the ITAA 1997 provides that if: ...an amount of a tax loss is transferred, the amount is taken to be a tax loss incurred by the income company in the loss year. (ii)with respect to the loss company, subsection 170-20(2) of the ITAA 1997 provides that: The loss company can no longer deduct the transferred amount and is taken not to have incurred the tax loss to the extent of that amount. Taxation Ruling TR 98/12 at paragraph 11 states that: ... subsections 80G(6) and (12) (section 170-15 and subsection 170-20(2)) operate to deem an agreed amount of loss to have been incurred by the income company and not to have been incurred by the loss company at the time a valid transfer document is executed. This means that the relevant amount of loss is no longer available to be dealt with by the loss company. Accordingly, any subsequent loss transfer agreement made by the loss company to transfer an amount of tax loss that has been validly transferred is ineffective, as that tax loss is no longer available to the loss company for it to transfer.
+Date of decision: 21 July 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 subsection 80G(6) subsection 80G(12)
+Income Tax Assessment Act 1997 Subdivision 170-A subsection 170-15(1) subsection 170-20(2) Related Public Rulings (including Determinations) Taxation Ruling TR 98/12 Keywords Companies Group companies Group company loss transfers Siebel/TDMS Reference Number: 3693649 Business Line: Public Groups and International Date of publication: 29 August 2003 ISSN: 1445-2782

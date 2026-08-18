@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/59
-==================================================
-
-Income Tax
- Functional currency choice: amounts borrowed/lent in a non-AUD currency which later becomes the 'applicable functional currency'
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Functional currency choice: amounts borrowed/lent in a non-AUD currency which later becomes the 'applicable functional currency' FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where amounts have been borrowed/lent in a non-AUD currency which later becomes the 'applicable functional currency', is the principal amount outstanding at the effective time of the functional currency choice an amount that needs to be translated under the two step translation in section 960-85 of Subdivision 960-D of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes, where amounts have been borrowed/lent in a non-AUD currency which later becomes the 'applicable functional currency', the principal amount outstanding at the effective time of the functional currency choice is an amount that needs to be translated under the two step translation in section 960-85 of Subdivision 960-D of the ITAA 1997.
@@ -22,85 +11,12 @@ The taxpayer has been preparing its financial statements in USD and is intending
 The taxpayer has not previously chosen to use a non-AUD 'applicable functional currency'.
 The taxpayer has entered into various loan agreements prior to the effective time of the functional currency choice under which it assumed various obligations.
 Some of these loan agreements were denominated in USD.
-Reasons for Decision
-
-Section 960-85 Special rule about translation
- -
- events that happened before the current choice took effect
-
-Australian resident required to prepare financial reports under section 292 of the Corporations Act 2001
-
-960-85(1)
-
-If:
-
-(a)as the result of a choice (the
- current choice
+Reasons for Decision Section 960-85 Special rule about translation - events that happened before the current choice took effect Australian resident required to prepare financial reports under section 292 of the Corporations Act 2001 960-85(1) If: (a)as the result of a choice (the current choice
 ) made by you under item 1 of the table in subsection 960-60(1), subsection 960-80(1) requires that an amount be translated to the *applicable functional currency; and
-(b)the amount is attributable to an event that happened, or a state of affairs that came into existence, at a time (the
- event time
-) before the current choice took effect;
-
-the table has effect:
-
-Special rule about translation
-
-Item
-
-In this case
- ...
-
-this is the result
- ...
-
-1
+(b)the amount is attributable to an event that happened, or a state of affairs that came into existence, at a time (the event time
+) before the current choice took effect; the table has effect: Special rule about translation Item In this case ... this is the result ... 1
 at the event time, no previous choice made by you under item 1 of the table in subsection 960-60(1) was in effect
-the amount is to be translated first to Australian currency at the exchange rate applicable at the event time, and then to the *applicable functional currency at the exchange rate applicable when the current choice took effect.
-
- ...
-
-Taxation Ruling TR 2007/5 'Income tax: functional currency - when is an amount not in the 'applicable functional currency'?' states at paragraphs 32-34 and 101 that:
-
-32. ... An 'amount' is not in the 'applicable functional currency' for the purposes of section 960-85, where the provisions within Subdivision 960-D have not previously recognised it as such.
-
-33. Section 960-85 is concerned with amounts which are 'attributable to an event that happened or a state of affairs that came into existence' in a prior year, (a 'prior year event'), being a year in which the use of the 'applicable functional currency' did not occur. The concept of 'applicable functional currency' in this respect is purely an income tax law one. In the absence of a valid choice under subsection 960-60(1) to use this currency, there is no 'applicable functional currency' and the appropriate currency required to be used for income tax purposes is Australian currency.
-
-34. It is considered that amounts which are 'attributable to' a 'prior year event' in a year in which the use of the 'applicable functional currency' did not apply, are thereby amounts which are not in the 'applicable functional currency'. This is so even where the amounts (or their elements), are denominated in the relevant source in the non-Australian currency that subsequently becomes the 'applicable functional currency'.
-
-101. ... under the scheme of Subdivision 960-D, there cannot exist prior to the time of application of section 960-80, any amounts in the 'applicable functional currency', notwithstanding what the position may have been (say) for accounting purposes. This is because the 'applicable functional currency' is a statutory concept under section 960-70 which cannot have applied before this time.
-
-It follows that where loans were taken out or made in USD prior to the USD being chosen as the 'applicable functional currency', the amount of principal outstanding in USD as at the effective date of the functional currency choice is an amount that is not in the 'applicable functional currency'. This is because there is no 'applicable functional currency' (and hence can be no amount in the 'applicable functional currency') for income tax purposes, prior to the effective time of a functional currency choice.
+the amount is to be translated first to Australian currency at the exchange rate applicable at the event time, and then to the *applicable functional currency at the exchange rate applicable when the current choice took effect. ... Taxation Ruling TR 2007/5 'Income tax: functional currency - when is an amount not in the 'applicable functional currency'?' states at paragraphs 32-34 and 101 that: 32. ... An 'amount' is not in the 'applicable functional currency' for the purposes of section 960-85, where the provisions within Subdivision 960-D have not previously recognised it as such. 33. Section 960-85 is concerned with amounts which are 'attributable to an event that happened or a state of affairs that came into existence' in a prior year, (a 'prior year event'), being a year in which the use of the 'applicable functional currency' did not occur. The concept of 'applicable functional currency' in this respect is purely an income tax law one. In the absence of a valid choice under subsection 960-60(1) to use this currency, there is no 'applicable functional currency' and the appropriate currency required to be used for income tax purposes is Australian currency. 34. It is considered that amounts which are 'attributable to' a 'prior year event' in a year in which the use of the 'applicable functional currency' did not apply, are thereby amounts which are not in the 'applicable functional currency'. This is so even where the amounts (or their elements), are denominated in the relevant source in the non-Australian currency that subsequently becomes the 'applicable functional currency'. 101. ... under the scheme of Subdivision 960-D, there cannot exist prior to the time of application of section 960-80, any amounts in the 'applicable functional currency', notwithstanding what the position may have been (say) for accounting purposes. This is because the 'applicable functional currency' is a statutory concept under section 960-70 which cannot have applied before this time. It follows that where loans were taken out or made in USD prior to the USD being chosen as the 'applicable functional currency', the amount of principal outstanding in USD as at the effective date of the functional currency choice is an amount that is not in the 'applicable functional currency'. This is because there is no 'applicable functional currency' (and hence can be no amount in the 'applicable functional currency') for income tax purposes, prior to the effective time of a functional currency choice.
 In a practical sense, if the loan is a post 30 June 2003 loan, the USD amount will have already been translated to Australian dollars pursuant to subsection 960-50(1) of Subdivision 960-C of the ITAA 1997. This means that the first step of the two step translation under section 960-85 of the ITAA 1997 will have already happened (see also former section 103-20 of the ITAA 1997 with regard to pre 1 July 2003 CGT amounts).
 The amount of principal in USD, which is outstanding at the effective time of a functional currency choice, is both a 'pre choice' amount that is attributable to a 'prior year event' and also a 'relevant amount' with potential ongoing tax significance. In particular, it is also an amount that is not in the 'applicable functional currency' and so is subject to translation under section 960-85 of the ITAA 1997 - even where the 'applicable functional currency' subsequently chosen is USD.
-Date of decision:
-  4 March 2010
-
-Year of income:
-  Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 960-C   subsection 960-50(1)   Subdivision 960-D   subsection 960-60(1)   section 960-85
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2007/5
-
-Keywords
-
-Applicable functional currency
- Functional currency
- Functional currency choice
- Borrowings & loans
-
-Siebel/TDMS Reference Number:
-  1-1UWVB58
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 March 2010
-
-ISSN:
- 1445-2782
+Date of decision: 4 March 2010 Year of income: Year ended 30 June 2010 Year ended 30 June 2011 Year ended 30 June 2012 Year ended 30 June 2013 Legislative References: Income Tax Assessment Act 1997 Subdivision 960-C subsection 960-50(1) Subdivision 960-D subsection 960-60(1) section 960-85 Related Public Rulings (including Determinations) Taxation Ruling TR 2007/5 Keywords Applicable functional currency Functional currency Functional currency choice Borrowings & loans Siebel/TDMS Reference Number: 1-1UWVB58 Business Line: Public Groups and International Date of publication: 12 March 2010 ISSN: 1445-2782

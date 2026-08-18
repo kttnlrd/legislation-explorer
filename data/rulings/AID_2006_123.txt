@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/123
-==================================================
-
-Income Tax
- Application of foreign exchange (forex) provisions to a facility agreement where the lender is under no obligation to rollover amount
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Application of foreign exchange (forex) provisions to a facility agreement where the lender is under no obligation to rollover amount FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a forex realisation event 4 (FRE 4) happen when a lender rolls over a loan when it is under no obligation to do so?
 Decision
 Yes, forex realisation event 4 happens when a lender rolls over a loan when it is not under any obligation to do so.
@@ -29,45 +16,4 @@ The term 'obligation' was intended by Parliament to have its ordinary legal mean
 The express exemption for facility agreements in section 775-195 of the ITAA 1997 suggests that an FRE 4 occurs when an individual liability under an eligible security is 'rolled over', and is consistent with the view that the roll-over of a loan discharges an existing obligation and creates a new obligation for the purposes of section 775-55 of the ITAA 1997.
 While some members of the High Court in KD Morris & Sons Pty Ltd (in liquidation) v. Bank of Queensland (1980) 146 CLR 165 and the Full Federal Court in Commissioner of Taxation v Energy Resources of Australia Ltd (1994) 54 FCR 25; 1994 ATC 4923; (1994) 29 ATR 553 regarded the repayment and re-advance of a security by way of roll-over as merely a continuation of an existing obligation, in both cases the judges concerned formed their views based on the legally binding obligation which was imposed on the financier in question to roll-over securities: (1979-1980) 146 CLR 165 at 175; (1994) 54 FCR 25 at 72 respectively.
 If a lender rolls over a loan when it is under no obligation to do so, a FRE 4 occurs and the borrower incurs a new obligation to pay foreign currency for the purposes of section 775-55 of the ITAA 1997.
-Date of decision:
-  2 May 2006
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 775-55   section 775-15   section 775-30   section 775-55   section 775-195
-
-Case References:
-
-K D Morris & Sons Pty Ltd (in liq) v. Bank of Queensland Ltd   (1980) 30 ALR 321   [1980] CLC 40-648   (1980) 146 CLR 165   (1980) 54 ALJR 424   (1980) 5 ACLR 144
-
-Federal Taxation Commissioner of v. Energy Resources of Australia Ltd   (1994) 54 FCR 25   29 ATR 553   94 ATC 4923
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/124
- ATO ID 2004/857
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003
-
-Keywords
-
-Foreign exchange gains and losses
- Forex realisation event
- Facility agreement
-
-Siebel/TDMS Reference Number:
-  5241579
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 May 2006
-
-ISSN:
- 1445-2782
+Date of decision: 2 May 2006 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 775-55 section 775-15 section 775-30 section 775-55 section 775-195 Case References: K D Morris & Sons Pty Ltd (in liq) v. Bank of Queensland Ltd (1980) 30 ALR 321 [1980] CLC 40-648 (1980) 146 CLR 165 (1980) 54 ALJR 424 (1980) 5 ACLR 144 Federal Taxation Commissioner of v. Energy Resources of Australia Ltd (1994) 54 FCR 25 29 ATR 553 94 ATC 4923 Related ATO Interpretative Decisions ATO ID 2006/124 ATO ID 2004/857 Other References: Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No.1) 2003 Keywords Foreign exchange gains and losses Forex realisation event Facility agreement Siebel/TDMS Reference Number: 5241579 Business Line: Public Groups and International Date of publication: 12 May 2006 ISSN: 1445-2782

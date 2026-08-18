@@ -1,27 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2015/13
-==================================================
-
-Superannuation
- Superannuation Guarantee: liability of company in liquidation for superannuation guarantee charge in respect of a Fair Entitlements Guarantee advance paid by a third party
-
-ATO ID 2015/13 is withdrawn, and is replaced by SGD 2017/1 Superannuation guarantee: is an advance paid under section 28 of the Fair Entitlements Guarantee Act 2012 to a former employee 'salary or wages' paid by the employer to the employee for the purposes of working out a superannuation guarantee charge liability under the Superannuation Guarantee (Administration) Act 1992?
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Where the Department of Employment makes a Fair Entitlements Guarantee (FEG) advance to a former employee of a company in liquidation through a third party provider rather than via the insolvency practitioner, is the taxpayer, a company in liquidation, liable to the superannuation guarantee charge (SGC) under the Superannuation Guarantee (Administration) Act 1992 (SGAA) where the third party provider does not make superannuation contributions in respect of the FEG advance by the relevant quarterly cut-off date?
-
-Decision
-Yes. Where the Department of Employment makes a FEG advance to a former employee of the company in liquidation through a third party provider rather than via the insolvency practitioner, the company in liquidation is liable to the SGC under the SGAA where the third party provider does not make superannuation contributions in respect of the FEG advance by the relevant quarterly cut-off date.
-
-Facts
+================================================== Superannuation Superannuation Guarantee: liability of company in liquidation for superannuation guarantee charge in respect of a Fair Entitlements Guarantee advance paid by a third party ATO ID 2015/13 is withdrawn, and is replaced by SGD 2017/1 Superannuation guarantee: is an advance paid under section 28 of the Fair Entitlements Guarantee Act 2012 to a former employee 'salary or wages' paid by the employer to the employee for the purposes of working out a superannuation guarantee charge liability under the Superannuation Guarantee (Administration) Act 1992? This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Where the Department of Employment makes a Fair Entitlements Guarantee (FEG) advance to a former employee of a company in liquidation through a third party provider rather than via the insolvency practitioner, is the taxpayer, a company in liquidation, liable to the superannuation guarantee charge (SGC) under the Superannuation Guarantee (Administration) Act 1992 (SGAA) where the third party provider does not make superannuation contributions in respect of the FEG advance by the relevant quarterly cut-off date? Decision
+Yes. Where the Department of Employment makes a FEG advance to a former employee of the company in liquidation through a third party provider rather than via the insolvency practitioner, the company in liquidation is liable to the SGC under the SGAA where the third party provider does not make superannuation contributions in respect of the FEG advance by the relevant quarterly cut-off date. Facts
 The taxpayer company became insolvent and a liquidator was appointed.
 The effect of the liquidation was the termination of the employment of an employee of the taxpayer.
 At the date of liquidation, the taxpayer owed the employee amounts for unpaid wages, unpaid annual leave and unpaid long service leave.
@@ -32,114 +14,28 @@ The Department of Employment made the decision to make the FEG advance to the em
 The Department of Employment provided the employee with a Deed of Undertaking and an irrevocable instruction. These documents were completed and executed by the employee and returned to Department of Employment.
 The Department of Employment forwarded the irrevocable instruction to the insolvency practitioner. Pursuant to the terms of the irrevocable instruction, once funds are available in the insolvency, the amounts which are payable to the employee are to be forwarded to Department of Employment.
 The Department of Employment paid the FEG advance to an accounting firm. After withholding PAYG tax from the advance, the firm forwarded the FEG advance to the employee but did not make superannuation contributions in respect of the unpaid wage component of the advance by the relevant quarterly cut-off date.
-The debt for salary or wages owed by the company to the employee is not extinguished at the time the FEG advance is made to the employee via a third party provider. Rather, the debt is extinguished at the time any amounts are paid by the liquidator to Department of Employment pursuant to the terms of the irrevocable instruction.
-
-Reasons for Decision
+The debt for salary or wages owed by the company to the employee is not extinguished at the time the FEG advance is made to the employee via a third party provider. Rather, the debt is extinguished at the time any amounts are paid by the liquidator to Department of Employment pursuant to the terms of the irrevocable instruction. Reasons for Decision
 An employer will have a liability to the SGC for a quarter under the SGAA if they do not make sufficient superannuation contributions for the benefit of their eligible employees to a complying superannuation fund or retirement savings account by the relevant quarterly cut-off date in the SGAA. The SGC is imposed on an employer's superannuation guarantee shortfall (SG shortfall) for a quarter. Subsection 19(1) of the SGAA sets out the formula for the calculation of an employer's individual SG shortfall for an employee for a quarter. The shortfall is calculated by reference to the total salary or wages paid by the employer to the employee for the quarter.
 If an employer makes a payment to an employee which does not constitute salary or wages or if a payment does constitute salary or wages but it is not paid by the employer (or is not paid 'on behalf of' the employer within the meaning of subsection 6(3) of the SGAA) to the employee, subsection 19(1) of the SGAA will have no application and the employer will not have a liability to the SGC.
-Also, an employer can have an individual SG shortfall in respect of salary or wages paid to a former employee if the employer does not make sufficient superannuation contributions in respect of the payment (section 15B of the SGAA).
-
-Does the FEG advance constitute 'salary or wages' within the meaning of the SGAA?
-
-The definition of salary or wages for the purposes of the SGAA is contained in section 11. A payment that falls within the ordinary meaning of salary or wages will constitute 'salary or wages' under section 11. If the payment does not fall within the ordinary meaning of the term, it will constitute 'salary or wages' for the purposes of the SGAA if the payment falls within the extended definition of 'salary or wages' in paragraphs 11(1)(a) to (e) of the SGAA.
+Also, an employer can have an individual SG shortfall in respect of salary or wages paid to a former employee if the employer does not make sufficient superannuation contributions in respect of the payment (section 15B of the SGAA). Does the FEG advance constitute 'salary or wages' within the meaning of the SGAA? The definition of salary or wages for the purposes of the SGAA is contained in section 11. A payment that falls within the ordinary meaning of salary or wages will constitute 'salary or wages' under section 11. If the payment does not fall within the ordinary meaning of the term, it will constitute 'salary or wages' for the purposes of the SGAA if the payment falls within the extended definition of 'salary or wages' in paragraphs 11(1)(a) to (e) of the SGAA.
 When paid by the employer, the types of employee entitlements covered by the FEG, with the exception of redundancy payments, are salary or wages for the purposes of the SGAA (Superannuation Guarantee Ruling SGR 2009/2). However it is unclear whether the payments retain their nature as salary or wages when advanced by a third party provider in the form of a FEG advance.
 In Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq) [2002] FCA 205; (2002) 2002 ATC 4193; (2002) 49 ATR 196 (Applied Design), the Federal Court held that a priority payment, made under paragraph 556(1)(e) of the Corporations Act 2001 (Corporations Act) to a former employee who had proved a debt for wages, retained its character as salary or wages within the ordinary meaning of that term and was therefore salary or wages for the purposes of section 12-35 of Schedule 1 to the Taxation Administration Act 1953. The Court looked to the fact that the consideration for the payment (of the dividend) was the services rendered by the former employee to the company prior to its liquidation. It was held that the nature of the payment remained unaltered by the liquidation process.
 Similarly, the definition of salary or wages in the SGAA relies in part on its common law meaning, and therefore the payment of a dividend would also constitute salary or wages for the purposes of the SGAA.
 In the same way, a FEG advance made to a former employee of a company in liquidation also constitutes salary or wages within the ordinary meaning of those terms. Like the payment of the dividend, the consideration for the payment of the FEG advance was the services rendered by the former employee to the company prior to the company entering into liquidation.
 The fact that the salary or wages debt owed by the company to the former employee is not extinguished at the time the FEG advance is paid to the employee by the third party provider, does not affect the conclusion that the FEG advance constitutes salary or wages within the ordinary meaning of those terms. As stated by Mansfield J in Applied Design (paragraph 25):
 A debt comprised of owed wages is ordinarily enforceable pursuant to a personal contractual right in an employee against an employer. However, the right to recover as a debt salary or wages owing is not an essential element of the ordinary meaning of the word "salary" or the word "wage". Whether the debt is enforceable pursuant to a personal contractual right, or whether the eventual payment of the debt is made pursuant to a statutory right to participate in the winding up of the company, the nature of the payment as a payment in respect of services rendered by an individual to an employer may nevertheless be unaltered.
-The FEG advance thus constitutes 'salary or wages' for the purposes of the SGAA.
-
-Is the FEG advance being paid by the company to the employee, or 'on behalf of' the company under subsection 6(3) of the SGAA, when it is made by Department of Employment through the third party accounting firm?
-
-Unlike a liquidator, a third party provider, who may be engaged by Department of Employment to forward the FEG advance to a former employee of the company, is not an agent of the company. There is no relationship between the third party provider and the company. The third party provider is not authorised by the company to make the FEG advance; rather the provider is authorised by Department of Employment to make the payment. If an agency relationship exists, this would be between the third party provider and Department of Employment.
+The FEG advance thus constitutes 'salary or wages' for the purposes of the SGAA. Is the FEG advance being paid by the company to the employee, or 'on behalf of' the company under subsection 6(3) of the SGAA, when it is made by Department of Employment through the third party accounting firm? Unlike a liquidator, a third party provider, who may be engaged by Department of Employment to forward the FEG advance to a former employee of the company, is not an agent of the company. There is no relationship between the third party provider and the company. The third party provider is not authorised by the company to make the FEG advance; rather the provider is authorised by Department of Employment to make the payment. If an agency relationship exists, this would be between the third party provider and Department of Employment.
 Likewise, Department of Employment is not an agent of the company. There is no relationship between Department of Employment and the company. The decision to pay the FEG advance to a former employee of the company, whether via the liquidator of the company or a third party provider, is a decision made solely by Department of Employment. The company does not authorise Department of Employment to make the FEG advance.
 Therefore, in terms of the SGAA, when Department of Employment makes a FEG advance to a former employee of the company through a third party provider such as an accounting firm, this would not be a payment of salary or wages 'by' the company to the employee.
 However, it needs to be considered whether the FEG advance is paid 'on behalf of' the employer within the meaning of subsection 6(3) of the SGAA.
 Subsection 6(3) of the SGAA states that, for the purposes of the SGAA, a reference to salary or wages paid by an employer to an employee includes a reference to a payment made 'on behalf of' the employer.
 According to the Supplementary Explanatory Memorandum (EM) to the Superannuation Guarantee (Administration) Bill 1992, the purpose or object of inserting subsection 6(3) into the SGAA was to ensure that salary or wages paid by another person on behalf of the employer falls within the formula in subsection 19(1) of the SGAA. The Supplementary EM states that prior to the insertion of subsection 6(3), subsection 19(1) only took into account salary or wages paid 'by' the employer and may not have captured salary or wages paid by another person 'on behalf of' the employer.
 The phrase 'on behalf of' in subsection 6(3) is not defined in the SGAA. Therefore, it should be given its ordinary and natural meaning taking into account its context in the SGAA. The Macquarie Dictionary , 1997, 3rd edn, defines 'on behalf of' as 'as a representative of; in the interest of; in aid of'.
-The phrase 'on behalf of' was judicially considered in R v. Portus; Ex parte Federated Clerks Union of Australia (1949) 79 CLR 428 where a question arose before the High Court as to whether, within the union's rules, a corporation which employed certain persons did so 'on behalf of' the Government of the Commonwealth. The High Court held that the employees in question were so employed. Thus Latham CJ remarked (at CLR 435):
-
-...The expression 'on behalf of the Crown' is not an expression which has a strict legal meaning. An agent who acts on behalf of a principal can, within the limits of his authority, bind the principal by employing a person on his behalf so that that person becomes the employee of the principal. But the words "on behalf of the Crown" in the rules of the organisation evidently mean something less than 'as agent for the Crown' in the legal sense.
-
-To similar effect was the opinion of Dixon J (at CLR 438):
-
-...plainly the rule of the Federation when it uses the words 'on behalf of' is not contemplating the legal relation of principal and agent. The language as well as the context and subject matter shows that. For the rule speaks of the employees of the person or corporation who employs persons on behalf of the Commonwealth. The person or corporation is the employer, the principal in the contract of service. The employer is not the Crown or Government. The expression "on behalf of" is used in a wider sense. It means for the purposes of, as an instrument of, or for the benefit and in the interest of, the Commonwealth.
-
-The decision was approved and applied by the High Court in R v. Toohey; Ex parte Attorney-General for the Northern Territory (1980) 145 CLR 374. The question there was the meaning of paragraph 50(1)(a) of the Aboriginal Land Rights (Northern Territory) Act 1976 (Cth) which provided that the Aboriginal Land Commissioner was to hear applications made 'by or on behalf of Aboriginals claiming to have a traditional land claim to an area of land...in which all estates and interests not held by the Crown are held by, or on behalf of, Aboriginals'. By majority, the High Court held that the land in question in the case was held 'on behalf of' Aboriginals within the meaning of the Act. In the majority opinion of Stephen, Mason, Murphy and Aickin JJ, after reference to R v. Portus; Ex parte Federated Clerks Union of Australia, their Honours stated (at CLR 386):
-
-The phrase 'on behalf of'...bears no single and constant significance. Instead it may be used in conjunction with a wide range or relationships, all however in some way concerned with the standing of one person as auxiliary to or representative of another person or thing....It may be used when speaking of an agency relationship, but also of some quite ephemeral relationships, such as that which exists between a party to litigation and the witness he calls, a witness "on behalf of" the defence. ... Context will always determine to which of the many possible relationships the phrase "on behalf of" is in a particular case being applied; "the context and subject matter" (per Dixon J in the Federated Clerks' Case (1949) 79 CLR, at 438) will be determinative.
-
-Thus, when interpreted in the context of the SGAA, the phrase 'on behalf of' in subsection 6(3) of the SGAA has a wide meaning. It may be used in conjunction with a wide range of relationships (including, but not limited to, the legal relationship of principal and agent), all however in some way concerned with the standing of the person paying the salary or wages for the benefit and in the interest of, or as representative of, the employer.
+The phrase 'on behalf of' was judicially considered in R v. Portus; Ex parte Federated Clerks Union of Australia (1949) 79 CLR 428 where a question arose before the High Court as to whether, within the union's rules, a corporation which employed certain persons did so 'on behalf of' the Government of the Commonwealth. The High Court held that the employees in question were so employed. Thus Latham CJ remarked (at CLR 435): ...The expression 'on behalf of the Crown' is not an expression which has a strict legal meaning. An agent who acts on behalf of a principal can, within the limits of his authority, bind the principal by employing a person on his behalf so that that person becomes the employee of the principal. But the words "on behalf of the Crown" in the rules of the organisation evidently mean something less than 'as agent for the Crown' in the legal sense. To similar effect was the opinion of Dixon J (at CLR 438): ...plainly the rule of the Federation when it uses the words 'on behalf of' is not contemplating the legal relation of principal and agent. The language as well as the context and subject matter shows that. For the rule speaks of the employees of the person or corporation who employs persons on behalf of the Commonwealth. The person or corporation is the employer, the principal in the contract of service. The employer is not the Crown or Government. The expression "on behalf of" is used in a wider sense. It means for the purposes of, as an instrument of, or for the benefit and in the interest of, the Commonwealth. The decision was approved and applied by the High Court in R v. Toohey; Ex parte Attorney-General for the Northern Territory (1980) 145 CLR 374. The question there was the meaning of paragraph 50(1)(a) of the Aboriginal Land Rights (Northern Territory) Act 1976 (Cth) which provided that the Aboriginal Land Commissioner was to hear applications made 'by or on behalf of Aboriginals claiming to have a traditional land claim to an area of land...in which all estates and interests not held by the Crown are held by, or on behalf of, Aboriginals'. By majority, the High Court held that the land in question in the case was held 'on behalf of' Aboriginals within the meaning of the Act. In the majority opinion of Stephen, Mason, Murphy and Aickin JJ, after reference to R v. Portus; Ex parte Federated Clerks Union of Australia, their Honours stated (at CLR 386): The phrase 'on behalf of'...bears no single and constant significance. Instead it may be used in conjunction with a wide range or relationships, all however in some way concerned with the standing of one person as auxiliary to or representative of another person or thing....It may be used when speaking of an agency relationship, but also of some quite ephemeral relationships, such as that which exists between a party to litigation and the witness he calls, a witness "on behalf of" the defence. ... Context will always determine to which of the many possible relationships the phrase "on behalf of" is in a particular case being applied; "the context and subject matter" (per Dixon J in the Federated Clerks' Case (1949) 79 CLR, at 438) will be determinative. Thus, when interpreted in the context of the SGAA, the phrase 'on behalf of' in subsection 6(3) of the SGAA has a wide meaning. It may be used in conjunction with a wide range of relationships (including, but not limited to, the legal relationship of principal and agent), all however in some way concerned with the standing of the person paying the salary or wages for the benefit and in the interest of, or as representative of, the employer.
 In terms of the FEG, it is intended to provide a basic payment scheme for certain unpaid employee entitlements when the employee's employer has been subject to an insolvency event such as liquidation and there are insufficient funds or assets available to the employer to pay those entitlements or no other source of funds is available to pay those entitlements. By paying those entitlements via a FEG advance, it is considered that Department of Employment is making the payment for the benefit or in the interest of the company in liquidation. The fact that the company does not authorise Department of Employment to make the advance, (that is, there is no agency relationship between Department of Employment and the company) and the fact that it is paid through a third party such as an accounting firm, does not affect this conclusion. Therefore, the payment in this scenario would fall within the scope of subsection 6(3) of the SGAA as being a payment made 'on behalf of' the employer.
-Since the FEG advance constitutes salary or wages for the purposes of the SGAA and is being paid to the employee on behalf of the company (taking into account the operation of section 15B of the SGAA), the company can have a liability for the individual SG shortfall in respect of the former employee under subsection 19(1) of the SGAA and consequently, the SGC. In the circumstances of this case, as sufficient superannuation contributions were not made by the third party provider in respect of the FEG advance by the relevant quarterly cut-off date, the company does have a liability for the SGC.
-
-Date of decision:
-  24 March 2015
-
-Year of income:
-  From 5 December 2012
-
-Legislative References:
-
-Fair Entitlement Guarantee Act 2012 (FEG)   The Act
- Superannuation Guarantee (Administration) Act 1992   subsection 6(3)   section 11   paragraph 11(1)(a)   paragraph 11(1)(b)   paragraph 11(1)(ba)   paragraph 11(1)(c)   paragraph 11(1)(d)   paragraph 11(1)(e)   section 15B   subsection 19(1)
-Corporations Act 2001   paragraph 556(1)(e)
-Taxation Administration Act 1953   section 12-35 of Schedule 1
-
-Case References:
-
-Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq)   [2002] FCA 205   (2002) 2002 ATC 4193   (2002) 49 ATR 196
-
-R v. Portus ; Ex parte Federated Clerks Union of Australia   (1949) 79 CLR 428
-
-R v. Toohey ; Ex parte Attorney-General for the Northern Territory   (1980) 145 CLR 374
-
-Related Public Rulings (including Determinations)
-
-Superannuation Guarantee Ruling SGR 2009/2
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/26
- ATO ID 2015/14
- ATO ID 2015/15
-
-Other References:
-
- Aboriginal Land Rights (Northern Territory) Act 1976 (Cth)
- Supplementary Explanatory Memorandum to the Superannuation Guarantee (Administration) Bill 1992
- Macquarie Dictionary, 1997, 3rd edn
-
-Keywords
-
-Employees
- Liquidation
- Superannuation guarantee charge
- Superannuation guarantee shortfalls
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  5 June 2015
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 June 2015
-Original statement
-
-You are here
+Since the FEG advance constitutes salary or wages for the purposes of the SGAA and is being paid to the employee on behalf of the company (taking into account the operation of section 15B of the SGAA), the company can have a liability for the individual SG shortfall in respect of the former employee under subsection 19(1) of the SGAA and consequently, the SGC. In the circumstances of this case, as sufficient superannuation contributions were not made by the third party provider in respect of the FEG advance by the relevant quarterly cut-off date, the company does have a liability for the SGC. Date of decision: 24 March 2015 Year of income: From 5 December 2012 Legislative References: Fair Entitlement Guarantee Act 2012 (FEG) The Act Superannuation Guarantee (Administration) Act 1992 subsection 6(3) section 11 paragraph 11(1)(a) paragraph 11(1)(b) paragraph 11(1)(ba) paragraph 11(1)(c) paragraph 11(1)(d) paragraph 11(1)(e) section 15B subsection 19(1)
+Corporations Act 2001 paragraph 556(1)(e)
+Taxation Administration Act 1953 section 12-35 of Schedule 1 Case References: Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq) [2002] FCA 205 (2002) 2002 ATC 4193 (2002) 49 ATR 196 R v. Portus ; Ex parte Federated Clerks Union of Australia (1949) 79 CLR 428 R v. Toohey ; Ex parte Attorney-General for the Northern Territory (1980) 145 CLR 374 Related Public Rulings (including Determinations) Superannuation Guarantee Ruling SGR 2009/2 Related ATO Interpretative Decisions ATO ID 2008/26 ATO ID 2015/14 ATO ID 2015/15 Other References: Aboriginal Land Rights (Northern Territory) Act 1976 (Cth) Supplementary Explanatory Memorandum to the Superannuation Guarantee (Administration) Bill 1992 Macquarie Dictionary, 1997, 3rd edn Keywords Employees Liquidation Superannuation guarantee charge Superannuation guarantee shortfalls Business Line: Superannuation Date of publication: 5 June 2015 ISSN: 1445-2782 history Date: Version: 5 June 2015
+Original statement You are here
 13 April 2017
 Archived

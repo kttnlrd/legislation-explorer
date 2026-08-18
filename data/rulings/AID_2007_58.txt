@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/58
-==================================================
-
-Superannuation
- Self Managed Superannuation Fund: trustee using a margin account for fund investments in listed shares
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Self Managed Superannuation Fund: trustee using a margin account for fund investments in listed shares FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Has a trustee of a self managed superannuation fund (SMSF) that operated a margin account to purchase listed shares contravened the Superannuation Industry (Supervision) Act 1993 (SISA)?
 Decision
 Yes. The trustee of an SMSF that operated a margin account to purchase listed shares has contravened the SISA as they have borrowed money and granted a charge over shares that are assets of the fund.
@@ -26,69 +13,11 @@ Reasons for Decision
 Subsection 67(1) of the SISA prohibits a trustee of an SMSF from borrowing money or maintaining an existing borrowing of money. There are limited exceptions to the general prohibition available under subsections 67(2), 67(2A) and 67(3) of the SISA. Operating the margin account does not fall within any of the exceptions. The trustee has therefore contravened subsection 67(1) of the SISA.
 Regulation 13.14 of the Superannuation Industry (Supervision) Regulations 1994 (SISR) is a prescribed operating standard for regulated superannuation funds under section 31 of the SISA. Subsection 34(1) of the SISA requires that the operating standards are complied with at all times.
 Regulation 13.14 of the SISR prohibits a trustee of an SMSF giving a charge over, or in relation to, an asset of the superannuation fund. Regulation 13.14 of the SISR is subject to regulation 13.15A of the SISR which permits a trustee to give a charge in relation to certain options and futures contracts in order to comply with the rules of an approved body (for example the Australian Securities Exchange) provided the investment is in accordance with the fund's derivatives risk statement.
-Shares held as assets of the fund were provided as security for the loan taken out to purchase such shares and this represented a charge over some of the assets of the SMSF. This arrangement does not fall within the exception provided for in regulation 13.15A of the SISR. The trustee has therefore contravened regulation 13.14 of the SISR and consequently subsection 34(1) of the SISA.
-
-Amendment History
-
-Date of Amendment
+Shares held as assets of the fund were provided as security for the loan taken out to purchase such shares and this represented a charge over some of the assets of the SMSF. This arrangement does not fall within the exception provided for in regulation 13.15A of the SISR. The trustee has therefore contravened regulation 13.14 of the SISR and consequently subsection 34(1) of the SISA. Amendment History Date of Amendment
 Part
-Comment
-
-7 November 2014
+Comment 7 November 2014
 Related ATO Interpretative Decisions
-Remove ATO ID 2007/58 and insert ATO ID 2007/57
-
-Date of decision:
-  9 March 2007
-
-Year of income:
-  30 June 2007
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   section 31   section 34(1)   section 67   section 67(1)   section 67(2)   section 67(2A)   section 67(3)
-Superannuation Industry (Supervision) Regulations 1994   regulation 13.14   regulation 13.15A
-
-Related ATO Interpretative Decisions
-
- ATO ID 2007/56
- ATO ID 2007/57
-
-Keywords
-
-Self managed superannuation funds
- SMSF borrowings
- SMSF breach of compliance
- SMSF charge over assets
- SMSF investments
-
-Siebel/TDMS Reference Number:
-  5494873, 1-5SO6U8D; 1-FZRSRJG
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  23 March 2007
-
-Date reviewed:
-  7 August 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 March 2007
-Original statement
-
-You are here
- 7 November 2014
+Remove ATO ID 2007/58 and insert ATO ID 2007/57 Date of decision: 9 March 2007 Year of income: 30 June 2007 Legislative References: Superannuation Industry (Supervision) Act 1993 section 31 section 34(1) section 67 section 67(1) section 67(2) section 67(2A) section 67(3)
+Superannuation Industry (Supervision) Regulations 1994 regulation 13.14 regulation 13.15A Related ATO Interpretative Decisions ATO ID 2007/56 ATO ID 2007/57 Keywords Self managed superannuation funds SMSF borrowings SMSF breach of compliance SMSF charge over assets SMSF investments Siebel/TDMS Reference Number: 5494873, 1-5SO6U8D; 1-FZRSRJG Business Line: Superannuation Date of publication: 23 March 2007 Date reviewed: 7 August 2018 ISSN: 1445-2782 history Date: Version: 9 March 2007
+Original statement You are here 7 November 2014
 Updated statement

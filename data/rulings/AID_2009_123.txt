@@ -1,24 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2009/123
-==================================================
-
-Superannuation
- Foreign termination payment
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Can a payment:
-
-•made in consequence of the termination of a person's employment in a foreign country, and
-•which relates to a period of employment during which the person was not an Australian resident for some but not all of the period,
-
-be apportioned so as to treat some of the payment as a foreign termination payment under section 83-235 of the Income Tax Assessment Act 1997 (ITAA 1997)?
+================================================== Superannuation Foreign termination payment FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Can a payment: •made in consequence of the termination of a person's employment in a foreign country, and
+•which relates to a period of employment during which the person was not an Australian resident for some but not all of the period, be apportioned so as to treat some of the payment as a foreign termination payment under section 83-235 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. As the payment does not relate solely to a period of employment when the recipient was not an Australian resident, neither the whole nor any part of the payment will be a tax free foreign termination payment under section 83-235 of the ITAA 1997.
 Facts
@@ -29,81 +14,24 @@ While the person is working under secondment to company B, company X makes the e
 The person was a resident of the overseas country, and not an Australian resident for tax purposes, for the period of the secondment.
 Company X agrees to pay the person a sum consisting of an amount to be paid in lieu of notice and a redundancy amount determined in accordance with the company's redundancy guidelines, taking into account all of the employee's service with company X, including the period when they were on secondment to company B.
 Reasons for Decision
-Section 83-235 of the ITAA 1997 sets out the conditions under which a payment will be a tax free termination payment in respect of a foreign resident period. These are that:
-
-(a)the payment is received in consequence of the termination of the person's employment in a foreign country (paragraph 83-235(a) of the ITAA 1997), and
+Section 83-235 of the ITAA 1997 sets out the conditions under which a payment will be a tax free termination payment in respect of a foreign resident period. These are that: (a)the payment is received in consequence of the termination of the person's employment in a foreign country (paragraph 83-235(a) of the ITAA 1997), and
 (b)the payment is not a superannuation benefit (paragraph 83-235(b) of the ITAA 1997), and
 (c)the payment is not a payment of a pension or annuity (whether or not the payment is a superannuation benefit) (paragraph 83-235(c) of the ITAA 1997), and
-(d)the payment relates only to a period of employment when the person was not an Australian resident (paragraph 83-235(d) of the ITAA 1997).
-
-In this case the payment to be tested against these conditions is the total termination payment from company X to the person (that is, the sum of the amount in lieu of notice and the redundancy amount).
+(d)the payment relates only to a period of employment when the person was not an Australian resident (paragraph 83-235(d) of the ITAA 1997). In this case the payment to be tested against these conditions is the total termination payment from company X to the person (that is, the sum of the amount in lieu of notice and the redundancy amount).
 Conditions (a) to (c) are met, but condition (d) requires further examination.
 According to the Macquarie Dictionary, [Multimedia], version 5.0.0, 01/10/01, one of the meanings given to the word 'only' is 'exclusively'. In the context in which 'only' is used in paragraph 83-235(d) of the ITAA 1997, this is the relevant or appropriate meaning.
 Foreign termination payments were previously known as 'exempt non-resident foreign termination payments', as defined in former subsection 27A(1) of the Income Tax Assessment Act 1936 (ITAA 1936). A payment met that definition only if it 'related solely to a period of the employment [the terminated employment] during which the taxpayer was not a resident of Australia'.
 In our view, the word 'only' in paragraph 83-235(d) of the ITAA 1997 has the same meaning as the word 'solely' in former subsection 27A(1) of the ITAA 1936.
-We note that the Explanatory Memorandum (EM) to the Tax Laws Amendment (Simplified Superannuation) Bill 2006, which introduced the ITAA 1997 provision, states at paragraph 4.53 that:
-
-Division 83 of the ITAA 1997 contains the provisions related to ... foreign termination payments. The provisions relating to these payments are intended to retain their existing application but may have been redrafted to reflect current drafting approaches.
-
-The EM goes on to say, at paragraphs 4.63 and 4.64, that:
-
-Termination payments related exclusively to overseas employment or service are treated differently to employment termination payments resulting from domestic employment. The treatment of these payments reflects the existing treatment of exempt non-resident foreign termination payments and exempt resident termination payments as contained in the ITAA 1936.
-
-Therefore, in interpreting the conditions in section 83-235 of the ITAA 1997, guidance is provided by case law relating to the ITAA 1936 definition.
+We note that the Explanatory Memorandum (EM) to the Tax Laws Amendment (Simplified Superannuation) Bill 2006, which introduced the ITAA 1997 provision, states at paragraph 4.53 that: Division 83 of the ITAA 1997 contains the provisions related to ... foreign termination payments. The provisions relating to these payments are intended to retain their existing application but may have been redrafted to reflect current drafting approaches. The EM goes on to say, at paragraphs 4.63 and 4.64, that: Termination payments related exclusively to overseas employment or service are treated differently to employment termination payments resulting from domestic employment. The treatment of these payments reflects the existing treatment of exempt non-resident foreign termination payments and exempt resident termination payments as contained in the ITAA 1936. Therefore, in interpreting the conditions in section 83-235 of the ITAA 1997, guidance is provided by case law relating to the ITAA 1936 definition.
 In Case 16/2000 [2000] AATA 1080; 2000 ATC 243; (2000) 46 ATR 1025, the AAT considered whether a payment 'related solely' to a non-resident period. Senior Member Ettinger was satisfied that 'solely' meant 'exclusively'. Submissions during the case referred to the Shorter Oxford Dictionary in which 'solely' was defined as 'only, merely exclusively'. The Senior Member went on to conclude that because the payment was calculated by taking into account the whole period of the recipient's service, during which the person was a non-resident for only part of the time, the payment could not relate solely to non-resident employment.
 Likewise, in Case 1/2008 [2008] AATA 64; 2008 ATC 1-000; (2008) 69 ATR 329 (Case 1/2008), Senior Member Hunt of the AAT concluded that in order to show for the purposes of the definition in subsection 27A(1) of the ITAA 1936 that a payment relates 'solely' to a non-resident period of employment, the payment must relate exclusively to a period of employment when the taxpayer was not a resident of Australia. Senior Member Hunt went on to conclude that, 'if a payment is referable partly to a period of employment outside Australia but also partly to period of employment within Australia, it is not solely related to the period when the taxpayer was not a resident of Australia'.
 Furthermore, the Senior Member reasoned that the payment attributable to both non-resident and resident periods of employment could not be split: 'It is the characterisation of that whole payment, not its constituent parts, with which the definition is concerned'.
 The taxpayer's appeal against the AAT's decision in Case 1/2008 was unsuccessful in the Federal Court, in Branson v. Federal Commissioner of Taxation [2008] FCA 1874; 2008 ATC 20-080.
 In our view, therefore, a payment that relates to a period of employment during which the recipient was variously a resident and not a resident of Australia, does not relate only to a period of employment when the person was not a resident.
-The payment will not be tax free under section 83-235 of the ITAA 1997, either in whole or in part.
-
-Note
-
-If a payment made in consequence of the termination of a person's employment:
-
-•does not meet the conditions in section 83-235 of the ITAA 1997,
+The payment will not be tax free under section 83-235 of the ITAA 1997, either in whole or in part. Note If a payment made in consequence of the termination of a person's employment: •does not meet the conditions in section 83-235 of the ITAA 1997,
 •is received within 12 months of the termination of employment or is covered by an exemption from the 12 month rule in section 82-130 of the ITAA 1997, and
-•does not otherwise fall within one of the categories of payments that are excluded from being an employment termination payment (of which there is a list in section 82-135 of the ITAA 1997),
-
-it will be an employment termination payment as defined in section 82-130 of the ITAA 1997.
+•does not otherwise fall within one of the categories of payments that are excluded from being an employment termination payment (of which there is a list in section 82-135 of the ITAA 1997), it will be an employment termination payment as defined in section 82-130 of the ITAA 1997.
 In particular, among the exclusions in section 82-135 of the ITAA 1997, paragraph 82-135(e) of the ITAA 1997 provides that the (tax free) part of a genuine redundancy payment calculated under section 83-170 of the ITAA 1997 is not an employment termination payment.
 The conditions under which a payment may be a genuine redundancy payment are set out in section 83-175 of the ITAA 1997, and discussed in detail in Taxation Ruling TR 2009/2 'Income tax: genuine redundancy payments'.
-Date of decision:
-  9 October 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment 1936   subsection 27A(1)
-Income Tax Assessment 1997   section 82-130   paragraph 82-135(e)   section 83-235   paragraph 83-235(a)   paragraph 83-235(b)   paragraph 83-235(c)   paragraph 83-235(d)
-
-Case References:
-
-Case 16/2000   [2000] AATA 1080   2000 ATC 243   (2000) 46 ATR 1025
-
-Re Taxpayer and F C of T   [2008] AATA 64   2008 ATC 1-000   (2008) 69 ATR 329
-
-Branson v Federal Commissioner of Taxation   [2008] FCA 1874   2008 ATC 20-080
-
-Keywords
-
-Employment termination
- Foreign termination payments
- Redundancy or early retirement scheme payments
-
-Siebel/TDMS Reference Number:
-  6228770; 1-5Y2VAOF
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  30 October 2009
-
-Date reviewed:
-  27 October 2014
-
-ISSN:
- 1445 - 2782
+Date of decision: 9 October 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment 1936 subsection 27A(1)
+Income Tax Assessment 1997 section 82-130 paragraph 82-135(e) section 83-235 paragraph 83-235(a) paragraph 83-235(b) paragraph 83-235(c) paragraph 83-235(d) Case References: Case 16/2000 [2000] AATA 1080 2000 ATC 243 (2000) 46 ATR 1025 Re Taxpayer and F C of T [2008] AATA 64 2008 ATC 1-000 (2008) 69 ATR 329 Branson v Federal Commissioner of Taxation [2008] FCA 1874 2008 ATC 20-080 Keywords Employment termination Foreign termination payments Redundancy or early retirement scheme payments Siebel/TDMS Reference Number: 6228770; 1-5Y2VAOF Business Line: Superannuation Date of publication: 30 October 2009 Date reviewed: 27 October 2014 ISSN: 1445 - 2782

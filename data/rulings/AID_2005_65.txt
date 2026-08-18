@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/65
-==================================================
-
-Income Tax
- Distribution Statements: allocation of franking credit to frankable distribution
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Distribution Statements: allocation of franking credit to frankable distribution FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a corporate tax entity that is a public company allocate a franking credit to a frankable distribution under section 202-5 of the Income Tax Assessment Act 1997 (ITAA 1997) by issuing a distribution statement after a frankable distribution is paid?
 Decision
 No. A corporate tax entity that is a public company cannot allocate a franking credit to a frankable distribution under section 202-5 of the ITAA 1997 by issuing a distribution statement after a frankable distribution is paid.
@@ -24,35 +13,4 @@ Section 202-5 of the ITAA 1997 sets out when and how an entity franks a distribu
 Consequently, an entity is required to determine the extent to which it intends franking a distribution prior to making the distribution. The distribution statement itself merely represents evidence of this decision to allocate franking credits. As in this case there is no distribution statement that has been issued, other evidence must be examined in order to determine the franking intent at the time the distribution was made.
 Trading trust provided evidence that it intended to frank its March distribution to utilise the surplus in its franking account at the time of the distribution to the fullest extent possible.
 Therefore, the distribution statement that trading trust issues ought to reflect the earlier decision to allocate franking credits equal to the surplus in its franking account at the time of the distribution, provided this does not result in the franking percentage for a frankable distribution exceeding 100%.
-Date of decision:
-  17 February 2005
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 202-5   section 202-75
-
-Keywords
-
-Distributions
- Franked dividends
- Franking credits
- Imputation system
- Partly franked dividends
-
-Siebel/TDMS Reference Number:
-  4387912; 1-5TXNY6A
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  25 February 2005
-
-Date reviewed:
-  17 December 2014
-
-ISSN:
- 1445-2782
+Date of decision: 17 February 2005 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 202-5 section 202-75 Keywords Distributions Franked dividends Franking credits Imputation system Partly franked dividends Siebel/TDMS Reference Number: 4387912; 1-5TXNY6A Business Line: Private Groups and High Wealth Individuals Date of publication: 25 February 2005 Date reviewed: 17 December 2014 ISSN: 1445-2782

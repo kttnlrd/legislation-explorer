@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/101
-==================================================
-
-Income Tax
- Capital Gains Tax: Division 149 majority underlying interests - no new shareholders
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: Division 149 majority underlying interests - no new shareholders FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purposes of Subdivision 149-B of the Income Tax Assessment Act 1997 (ITAA 1997) in a company where all the shares carry a discretionary right to dividends, are majority underlying interests in a pre-CGT asset of the company had by ultimate owners who had such interests in the asset immediately before 20 September 1985 if after that date there has been no new shareholders in the company?
 Decision
 Yes, majority underlying interests in an asset are had by ultimate owners who had such interests in the asset immediately before 20 September 1985.
@@ -29,31 +18,4 @@ An ultimate owner indirectly has a beneficial interest in ordinary income that m
 Individuals X, Y and Z, collectively comprise those who would receive for their benefit any of a dividend if Company B were to pay the dividend.
 Subsection 149-30(2) of the ITAA 1997 provides that if the Commissioner is satisfied or thinks it reasonable to assume that at all times on and after 20 September 1985 and before a particular time majority underlying interests in the asset were had by ultimate owners who had majority underlying interests in the asset immediately before that day, subsections 149-30(1) and 149-30(1A) of the ITAA 1997 apply as if that were in fact the case.
 As there has been no change in the membership of that group, there has been no change in majority underlying interest. Accordingly, the Commissioner finds it reasonable to assume that majority underlying interests have been held at all times by the same ultimate owners who held such interests immediately before 20 September 1985.
-Date of decision:
-  29 November 2011
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 149-B   subsection 149-15(2)   subsection 149-15(5)   subsection 149-30(1)   subsection 149-30(1A)   subsection 149-30(2)
-
-Keywords
-
-Capital gains tax
- CGT assets
- Pre-CGT assets
- Majority underlying interests
-
-Siebel/TDMS Reference Number:
-  1-3MJID56
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  23 December 2011
-
-ISSN:
- 1445-2782
+Date of decision: 29 November 2011 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Subdivision 149-B subsection 149-15(2) subsection 149-15(5) subsection 149-30(1) subsection 149-30(1A) subsection 149-30(2) Keywords Capital gains tax CGT assets Pre-CGT assets Majority underlying interests Siebel/TDMS Reference Number: 1-3MJID56 Business Line: Public Groups and International Date of publication: 23 December 2011 ISSN: 1445-2782

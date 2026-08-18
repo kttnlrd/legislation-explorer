@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/102
-==================================================
-
-Income Tax
- Consolidation: second element of cost base of shares - blackhole expenditure
- FOI status: may be released
-
-This ATO ID has been withdrawn from the database as it is superseded by Tax Determination TD 2011/8 Income tax: consolidation: capital gains: does paragraph 40-880(5)(f) of the Income Tax Assessment Act 1997 prevent the deduction, under section 40-880 of that Act, of incidental costs described in subsection 110-35(2) of that Act that the head company of a consolidated group or MEC group incurs, in acquiring shares in an entity that becomes a subsidiary member of the group, before the entity joins the group?.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: second element of cost base of shares - blackhole expenditure FOI status: may be released This ATO ID has been withdrawn from the database as it is superseded by Tax Determination TD 2011/8 Income tax: consolidation: capital gains: does paragraph 40-880(5)(f) of the Income Tax Assessment Act 1997 prevent the deduction, under section 40-880 of that Act, of incidental costs described in subsection 110-35(2) of that Act that the head company of a consolidated group or MEC group incurs, in acquiring shares in an entity that becomes a subsidiary member of the group, before the entity joins the group?. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is business capital expenditure which is included in the second element of the cost base or reduced cost base of a share in an entity (joining entity) that becomes a subsidiary member of a consolidated group, prevented from being deducted under section 40-880 of the Income Tax Assessment Act 1997 (ITAA 1997), by paragraph 40-880(5)(f) of the ITAA 1997, where the share's cost base or reduced cost base is included in the allocable cost amount for the joining entity?
 Decision
 Yes. Where business capital expenditure is included in the second element of the cost base or reduced cost base of a share in a joining entity, and the share's cost base or reduced cost base is included in the allocable cost amount for the joining entity, the expenditure is prevented from being deducted under section 40-880 of the ITAA 1997 by paragraph 40-880(5)(f) of the ITAA 1997.
@@ -29,66 +14,11 @@ The cost base of each of the shares in A Co was included at step 1 in the alloca
 Reasons for Decision
 Section 40-880 of the ITAA 1997 allows certain business capital expenditure to be deducted in equal proportions over five income years. Paragraph 40-880(5)(f) of the ITAA 1997 provides that you cannot deduct anything under section 40-880 for an amount of expenditure you incur to the extent that 'it could, apart from this section, be taken into account in working out the amount of a capital gain or capital loss from a CGT event'.
 In most cases, capital proceeds and cost base (or reduced cost base) are taken into account in working out the amount of a capital gain or capital loss from a CGT event. Therefore, capital expenditure which reduces capital proceeds from a CGT event or forms part of the cost base (or reduced cost base) of a CGT asset could be taken into account in working out the amount of a capital gain or capital loss from a CGT event for the purposes of paragraph 40-880(5)(f) of the ITAA 1997.
-Paragraph 40-880(5)(f) of the ITAA 1997 is not prevented from applying to capital expenditure that:
-
-•forms part of the cost base or reduced cost base of shares in an entity (joining entity) that becomes a subsidiary member of a consolidated group; and
-•is included in the entry allocable cost amount for the joining entity because that cost base or reduced cost base is included by step 1 of the allocable cost amount calculation for that entity, under section 705-65 of the ITAA 1997.
-
-It is the inclusion of the capital expenditure in the cost base or reduced cost base of the shares in the joining entity that brings the expenditure within the scope of paragraph 40-880(5)(f) of the ITAA 1997.
+Paragraph 40-880(5)(f) of the ITAA 1997 is not prevented from applying to capital expenditure that: •forms part of the cost base or reduced cost base of shares in an entity (joining entity) that becomes a subsidiary member of a consolidated group; and
+•is included in the entry allocable cost amount for the joining entity because that cost base or reduced cost base is included by step 1 of the allocable cost amount calculation for that entity, under section 705-65 of the ITAA 1997. It is the inclusion of the capital expenditure in the cost base or reduced cost base of the shares in the joining entity that brings the expenditure within the scope of paragraph 40-880(5)(f) of the ITAA 1997.
 Paragraph 40-880(5)(f) of the ITAA 1997 has no regard to whether the capital expenditure is included in calculating a capital gain or capital loss when later a CGT event happens.
 The legal and accounting fees are business capital expenditure incurred by Head Co and are included in the second element of the cost base of each of the shares in A Co. The expenditure, therefore, will be something that could be taken into account in working out the amount of a capital gain or capital loss from a CGT event for the purposes of paragraph 40-880(5)(f) of the ITAA 1997.
-Date of decision:
-  8 September 2009
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 40-880   paragraph 40-880(5)(f)   section 705-65
-
-Keywords
-
-Allocable cost amount
- Blackhole expenditure
- Capital gains
- Capital gains tax
- Capital losses
- CGT assets
- CGT cost base
- CGT events
- CGT reduced cost base
- Consolidated group
- Consolidation
- Consolidation - assets
- Cost of membership interests
- Cost setting rules
- Head company
- Subsidiary member of a consolidated group
- Tax cost is set
- Tax cost setting amount
-
-Business Line:
-  Consolidations Centre of Expertise
-
-Date of publication:
-  11 September 2009
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 8 September 2009
-Original statement
-
-You are here
+Date of decision: 8 September 2009 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1997 section 40-880 paragraph 40-880(5)(f) section 705-65 Keywords Allocable cost amount Blackhole expenditure Capital gains Capital gains tax Capital losses CGT assets CGT cost base CGT events CGT reduced cost base Consolidated group Consolidation Consolidation - assets Cost of membership interests Cost setting rules Head company Subsidiary member of a consolidated group Tax cost is set Tax cost setting amount Business Line: Consolidations Centre of Expertise Date of publication: 11 September 2009 ISSN: 1445-2782 history Date: Version: 8 September 2009
+Original statement You are here
 20 May 2011
 Archived

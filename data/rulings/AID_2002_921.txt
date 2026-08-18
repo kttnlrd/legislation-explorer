@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/921
-==================================================
-
-Income Tax
- CGT - Small Business Concessions - Discretionary Trusts
- FOI status: may be released
-
-This ATO ID is withdrawn as a result of changes in the law contained in Tax Laws Amendment (2004 Measures No. 1) Act 2004 which apply, subject to certain transitional rules, to CGT events happening after 11.45 am, by legal time in the Australian Capital Territory, on 21 September 1999.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT - Small Business Concessions - Discretionary Trusts FOI status: may be released This ATO ID is withdrawn as a result of changes in the law contained in Tax Laws Amendment (2004 Measures No. 1) Act 2004 which apply, subject to certain transitional rules, to CGT events happening after 11.45 am, by legal time in the Australian Capital Territory, on 21 September 1999. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If gift deductible or income tax exempt bodies or the like are beneficiaries under a discretionary trust and the trustee has the power to pay any or all of the income or capital of the trust to those bodies are they connected with the trust in terms of section 152-30 of the Income Tax Assessment Act 1997 (ITAA 1997) for the purposes of the maximum net asset value test under sub-paragraph 152-15(a)(ii) of the ITAA 1997?
 Decision
 Yes. The gift deductible or income tax exempt bodies are taken to have a 100% interest in the discretionary trust under subsection 152-30(5) of the ITAA 1997 and are therefore taken to control the trust under subsection 152-30(2) of the ITAA 1997. The bodies are therefore connected with the discretionary trust under subsection 152-30(1) of the ITAA 1997 for the purposes of the maximum net asset value test under sub-paragraph 152-15(a)(ii) of the ITAA 1997.
@@ -25,71 +10,14 @@ A discretionary trust conducted a business. The trust disposed of the assets of 
 The deed of the trust provided for a number of classes of beneficiary. All classes of beneficiary were identical as to their ability to receive income or capital of the trust. One of the classes of beneficiary included any charitable trust or any society, authority, institution, church, religious order or person or entity which at the time of distribution of income of the trust is exempt from income tax or at that time a tax deduction would be available for a monetary gift to that entity or person. This group is referred to in this ATO ID as gift-deductible bodies.
 The trust deed provides that the trustee has the power to pay any or all of the income or capital of the trust to any of the beneficiaries.
 Reasons for Decision
-In order to address the question at issue it has to be established whether a class of beneficiary referred to here as gift-deductible bodies satisfies the criterion certainty test under trust law (McPhail v. Doulton (1971) AC 424). Lord Wilberforce remarked in this case at p449 that:
-
-'a trustee with a duty to distribute, particularly among a potentially very large class, would surely never require the preparation of a complete list of names, which anyhow would tell him little that he needs to know. He would examine the field, by class and category; might indeed make diligent and careful inquiries, depending on how much money he had to give away and the means at his disposal, as to the composition and needs of particular categories and of individuals within them; decide upon certain priorities or proportions, and then select individuals according to their needs or qualifications.'
-
-The Administrative Appeals Tribunal in Case U201 87 ATC 1122 at 1127; AAT Case 133 (1987) 18 ATR 3964 adopted Lord Wilberforce's view, expressed in McPhail v Doulton, that the objects of a trust power should form a class which is not so large or arbitrary that it cannot be said for certain that a particular person was within the settlor's contemplation as an object of his bounty (noted in Taxation Ruling IT 2462).
+In order to address the question at issue it has to be established whether a class of beneficiary referred to here as gift-deductible bodies satisfies the criterion certainty test under trust law (McPhail v. Doulton (1971) AC 424). Lord Wilberforce remarked in this case at p449 that: 'a trustee with a duty to distribute, particularly among a potentially very large class, would surely never require the preparation of a complete list of names, which anyhow would tell him little that he needs to know. He would examine the field, by class and category; might indeed make diligent and careful inquiries, depending on how much money he had to give away and the means at his disposal, as to the composition and needs of particular categories and of individuals within them; decide upon certain priorities or proportions, and then select individuals according to their needs or qualifications.' The Administrative Appeals Tribunal in Case U201 87 ATC 1122 at 1127; AAT Case 133 (1987) 18 ATR 3964 adopted Lord Wilberforce's view, expressed in McPhail v Doulton, that the objects of a trust power should form a class which is not so large or arbitrary that it cannot be said for certain that a particular person was within the settlor's contemplation as an object of his bounty (noted in Taxation Ruling IT 2462).
 We consider that the class of beneficiary referred to as gift-deductible bodies would form a class that is not so large or arbitrary such that a trustee of a discretionary trust can say for certain whether any entity would be within the range of benefit as contemplated by the settlor. Thus it is considered that this class of beneficiary is a valid class of beneficiary of the trust. That is a trustee of a discretionary trust could determine with certainty whether any entity would be within, or excluded from, this class of beneficiary.
 A basic condition of eligibility for the capital gains tax concessions for small business in Division 152 of the ITAA 1997 is that the net value of CGT assets of the entity and related entities, including entities connected with it does not exceed $5 million under section 152-15 of the ITAA 1997.
-Subsection 152-30(1) of the ITAA 1997 describes how entities are connected with each other. It says that an entity will be connected to another entity if:
-
-•either entity controls the other entity; or
-•both entities are controlled by the same third entity.
-
-To determine if a beneficiary controls a discretionary trust that beneficiary is taken, under subsection 152-30(5) of the ITAA 1997, to have an interest in any distribution of income or capital of the trust equal to the maximum percentage of the income or capital that the trustee could distribute to that beneficiary under the trust deed, regardless of the actual distribution. If that interest is at least 40% the beneficiary is taken to control the discretionary trust under subsection 152-30(2) of the ITAA 1997. This may, depending on the terms of the trust deed, result in several or all of the beneficiaries of a discretionary trust being taken to control the trust.
+Subsection 152-30(1) of the ITAA 1997 describes how entities are connected with each other. It says that an entity will be connected to another entity if: •either entity controls the other entity; or
+•both entities are controlled by the same third entity. To determine if a beneficiary controls a discretionary trust that beneficiary is taken, under subsection 152-30(5) of the ITAA 1997, to have an interest in any distribution of income or capital of the trust equal to the maximum percentage of the income or capital that the trustee could distribute to that beneficiary under the trust deed, regardless of the actual distribution. If that interest is at least 40% the beneficiary is taken to control the discretionary trust under subsection 152-30(2) of the ITAA 1997. This may, depending on the terms of the trust deed, result in several or all of the beneficiaries of a discretionary trust being taken to control the trust.
 A gift-deductible body is a beneficiary of the trust and according to the trust deed is capable of receiving all the income or capital of the trust to the exclusion of all other beneficiaries. Accordingly, it is taken to have a 100% interest in the trust, to control the trust and therefore to be connected with the trust. The net value of the CGT assets of the gift-deductible body must be taken into account when applying the maximum net asset value test to the trust.
-Date of decision:
-  2 August 2002
-
-Year of income:
-  Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subparagraph 152-15(a)(ii)   section 152-15   subsection 152-30(1)   subsection 152-30(5)
-
-Case References:
-
-McPhail v. Doulton    [1971] AC 424
-Case U201   87 ATC 1122
-
-AAT Case 133   (1987) 18 ATR 3964
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2462
-
-Keywords
-
-Capital gains tax
- Basic conditions for relief
- Controlling individual test
- Connected entity
- Maximum net asset value test
- CGT small business relief
-
-Business Line:
-  Centres of Expertise Capital Gains Tax
-
-Date of publication:
-  26 September 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 2 August 2002
-Original statement
-
-You are here
+Date of decision: 2 August 2002 Year of income: Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1997 subparagraph 152-15(a)(ii) section 152-15 subsection 152-30(1) subsection 152-30(5) Case References: McPhail v. Doulton [1971] AC 424
+Case U201 87 ATC 1122 AAT Case 133 (1987) 18 ATR 3964 Related Public Rulings (including Determinations) Taxation Ruling IT 2462 Keywords Capital gains tax Basic conditions for relief Controlling individual test Connected entity Maximum net asset value test CGT small business relief Business Line: Centres of Expertise Capital Gains Tax Date of publication: 26 September 2002 ISSN: 1445-2782 history Date: Version: 2 August 2002
+Original statement You are here
 15 July 2004
 Archived

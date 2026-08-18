@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/222
-==================================================
-
-Income Tax
- Functional currency: translation requirements where an entity withdraws its 'applicable functional currency' choice
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Functional currency: translation requirements where an entity withdraws its 'applicable functional currency' choice FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are amounts required to be translated from the currency that was the 'applicable functional currency' into Australian currency (AUD) under section 960-50 of Subdivision 960-C of the Income Tax Assessment Act 1997 (ITAA 1997) - immediately after the time that the 'applicable functional currency' choice ceases to have effect and based on the relevant exchange rate at that time?
 Decision
 Yes. Where an 'applicable functional currency' choice ceases to have effect, all amounts for income tax purposes will be in the currency that was the 'applicable functional currency' and hence will be amounts in a 'foreign currency'. These amounts are required to be translated into AUD under section 960-50 of the ITAA 1997 - immediately after the time the 'applicable functional currency' choice ceases to have effect and based on the relevant exchange rate at that time.
@@ -26,150 +15,40 @@ The entity will withdraw the USD as their 'applicable functional currency' choic
 This withdrawal will take effect from 1 January 2011.
 The entity has not made a choice under subsection 960-60(1) of Subdivision 960-D of the ITAA 1997 to adopt another foreign currency as their 'applicable functional currency'.
 From 1 January 2011, the entity will keep its 'accounts' within the meaning of section 960-70 of Subdivision 960-D of the ITAA 1997, in AUD.
-Reasons for Decision
-
-Withdrawal of 'applicable functional currency' choice under section 960-90 of Subdivision 960-D
-
-Item 1 of subsection 960-90(1) of Subdivision 960-D of the ITAA 1997 provides that an Australian resident who is required to prepare financial reports under section 292 of CA 2001 and whose 'applicable functional currency' has ceased to be the sole or predominant currency in which they keep their 'accounts', may withdraw their functional currency choice with effect from immediately after the end of the income year in which they withdraw their choice.
-As the USD has ceased to be the sole or predominant currency in which the entity keeps its 'accounts', the entity may withdraw their functional currency choice on or before 31 December 2010, with effect from 1 January 2011.
-
-The foreign currency translation rules in section 960-50 of Subdivision 960-C
-
-Section 960-49 of the ITAA 1997 outlines the objects of Subdivision 960-C of the ITAA 1997 as being:
-
-(a)to set out a basic rule requiring an amount in a *foreign currency to be translated into an Australian dollar amount (the basic rule is subject to the functional currency rules in Subdivision 960-D and to certain specific exclusions);
-(b)to ensure that the rules for identifying the exchange rate for the translation of a foreign currency amount into Australian dollars:
-
-(i)reflect an appropriate prevailing exchange rate; and
-(ii)take into account, as appropriate, commercial practices for the translation of foreign currency amounts into Australian dollars.
-
-The core foreign currency translation rule is contained in subsection 960-50(1) of Subdivision 960-C of the ITAA 1997 and provides that:
-
-For the purposes of this Act, an amount in a *foreign currency is to be translated into Australian currency.
-
-'Foreign currency' is defined in section 995-1 of the ITAA 1997 to mean 'a currency other than Australian currency'.
+Reasons for Decision Withdrawal of 'applicable functional currency' choice under section 960-90 of Subdivision 960-D Item 1 of subsection 960-90(1) of Subdivision 960-D of the ITAA 1997 provides that an Australian resident who is required to prepare financial reports under section 292 of CA 2001 and whose 'applicable functional currency' has ceased to be the sole or predominant currency in which they keep their 'accounts', may withdraw their functional currency choice with effect from immediately after the end of the income year in which they withdraw their choice.
+As the USD has ceased to be the sole or predominant currency in which the entity keeps its 'accounts', the entity may withdraw their functional currency choice on or before 31 December 2010, with effect from 1 January 2011. The foreign currency translation rules in section 960-50 of Subdivision 960-C Section 960-49 of the ITAA 1997 outlines the objects of Subdivision 960-C of the ITAA 1997 as being: (a)to set out a basic rule requiring an amount in a *foreign currency to be translated into an Australian dollar amount (the basic rule is subject to the functional currency rules in Subdivision 960-D and to certain specific exclusions);
+(b)to ensure that the rules for identifying the exchange rate for the translation of a foreign currency amount into Australian dollars: (i)reflect an appropriate prevailing exchange rate; and
+(ii)take into account, as appropriate, commercial practices for the translation of foreign currency amounts into Australian dollars. The core foreign currency translation rule is contained in subsection 960-50(1) of Subdivision 960-C of the ITAA 1997 and provides that: For the purposes of this Act, an amount in a *foreign currency is to be translated into Australian currency. 'Foreign currency' is defined in section 995-1 of the ITAA 1997 to mean 'a currency other than Australian currency'.
 As indicated above, an exception to this general rule is provided by Subdivision 960-D of the ITAA 1997, where an eligible entity keeps its 'accounts' in a foreign currency and has made an effective functional currency choice. In this case, the functional currency translation rules in subsection 960-80(1) and section 960-85 of Subdivision 960-D of the ITAA 1997 will apply.
 The entity has withdrawn their functional currency choice effective from 1 January 2011. Hence, the functional currency translation rules contained in subsection 960-80(1) of Subdivision 960-D of the ITAA 1997 cannot be used on or after 1 January 2011.
 Amounts that have been translated into USD under both section 960-85 and subsection 960-80(1) of the ITAA 1997 are clearly amounts in a 'currency other than Australian currency'. So are amounts that were denominated (transacted) in USD after the effective time of the functional currency choice and thus did not require translation under subsection 960-80(1). All of these amounts will be amounts in a 'foreign currency' as at 1 January 2011 - that is, once the USD functional currency choice has been effectively withdrawn under section 960-90 of the ITAA 1997.
-Accordingly, assuming the requirements stipulated in section 960-55 of Subdivision 960-C of the ITAA 1997 are met, the entity must use the 'foreign currency' translation rules in section 960-50 of the ITAA 1997 from and including 1 January 2011.
-
-Subsection 960-55(1) of Subdivision 960-C - section 960-50 applies to 'a transaction, event, or thing that involves an amount in a foreign currency'
-
-Subsection 960-55(1) of the ITAA 1997 relevantly states that the translation rules in section 960-50 of the ITAA 1997 apply to:
-
-(a)a transaction, event or thing that:
-
-(i)involves an amount in a *foreign currency; and
-(ii)occurs on or after the applicable commencement date (within the meaning of Division 775); or
-
-(b)a transaction, event or thing that:
-
-(i)involves an amount in a foreign currency; and
-(ii)occurs before the applicable commencement date (within the meaning of Division 775);
-
-to the extent to which the transaction, event or thing is relevant for the purposes of Division 775; ...
-
-Section 960-55 of the ITAA 1997 provides that section 960-50 of the ITAA 1997 applies to 'a transaction, event or thing that involves an amount in a foreign currency' and occurs on or after the 'applicable commencement date'. Here, the entity's 'applicable commencement date' is 1 July 2003. Therefore, the relevant consideration with regard to section 960-50 of the ITAA 1997 being applicable is whether there is a 'transaction, event or thing' involving an 'amount in a foreign currency' which occurred on or after 1 July 2003.
-
-Is the withdrawal of the USD functional currency choice under section 960-90 of Subdivision 960-D 'a transaction, event or thing'?
-
-The ITAA 1997 does not provide definitions for 'transaction', 'event' or 'thing' for the purposes of section 960-55 of Subdivision 960-C.
+Accordingly, assuming the requirements stipulated in section 960-55 of Subdivision 960-C of the ITAA 1997 are met, the entity must use the 'foreign currency' translation rules in section 960-50 of the ITAA 1997 from and including 1 January 2011. Subsection 960-55(1) of Subdivision 960-C - section 960-50 applies to 'a transaction, event, or thing that involves an amount in a foreign currency' Subsection 960-55(1) of the ITAA 1997 relevantly states that the translation rules in section 960-50 of the ITAA 1997 apply to: (a)a transaction, event or thing that: (i)involves an amount in a *foreign currency; and
+(ii)occurs on or after the applicable commencement date (within the meaning of Division 775); or (b)a transaction, event or thing that: (i)involves an amount in a foreign currency; and
+(ii)occurs before the applicable commencement date (within the meaning of Division 775); to the extent to which the transaction, event or thing is relevant for the purposes of Division 775; ... Section 960-55 of the ITAA 1997 provides that section 960-50 of the ITAA 1997 applies to 'a transaction, event or thing that involves an amount in a foreign currency' and occurs on or after the 'applicable commencement date'. Here, the entity's 'applicable commencement date' is 1 July 2003. Therefore, the relevant consideration with regard to section 960-50 of the ITAA 1997 being applicable is whether there is a 'transaction, event or thing' involving an 'amount in a foreign currency' which occurred on or after 1 July 2003. Is the withdrawal of the USD functional currency choice under section 960-90 of Subdivision 960-D 'a transaction, event or thing'? The ITAA 1997 does not provide definitions for 'transaction', 'event' or 'thing' for the purposes of section 960-55 of Subdivision 960-C.
 The Australian Oxford Dictionary, second edition, 2004 defines 'transaction' as 'a piece of esp. commercial business done, a deal'. Similarly, Taxation Ruling TR 1999/9 considers the definition of 'transaction' to essentially mean 'dealing' (refer to paragraphs 78 and 83). It is considered that the withdrawal of a functional currency choice does not fall within the meaning of 'transaction'.
 The Macquarie Dictionary lists a range of definitions for 'thing'; however none of these definitions appear to be relevant in the context of the withdrawal of a functional currency choice. It is therefore considered that a withdrawal does not fall within the definition of a 'thing'.
-The Macquarie Dictionary defines 'event' as 'anything that happens or is regarded as happening; an occurrence'. In Midland Mainline Ltd v. Eagle Star Insurance Co Ltd 2003 WL 21729319; [2003] EWHC 1771, Steel J found the words 'occurrence' and 'event' to be synonymous. In the House of Lords decision in Axa Reinsurance (UK) Ltd. v. Field [1996] 3 All E.R. 517; [1996] 1WLR 1026 at page 1025, Lord Mustill stated that:
-
-In ordinary speech, an event is something which happens at a particular time, at a particular place, in a particular way.
-
-Consistent with this, Taxation Ruling TR 2007/5 notes at paragraph 38 that:
-
-an event generally arises at a particular point in time, and is usually a factual happening or occurrence.
-
-It is considered that the withdrawal of a functional currency choice under section 960-90 of the ITAA 1997 is a 'factual happening or occurrence' which 'arises at a particular point in time' and so falls within the definition of an 'event'.
-
-What is an 'amount'?
-
-In applying section 960-50 of the ITAA 1997, subsection 960-50(1) requires that each 'amount' in a foreign currency is to be translated into Australian currency. Subsection 960-50(2) of Subdivision 960-C of the ITAA 1997 provides the following examples of an amount:
-
-(a)an amount of *ordinary income;
+The Macquarie Dictionary defines 'event' as 'anything that happens or is regarded as happening; an occurrence'. In Midland Mainline Ltd v. Eagle Star Insurance Co Ltd 2003 WL 21729319; [2003] EWHC 1771, Steel J found the words 'occurrence' and 'event' to be synonymous. In the House of Lords decision in Axa Reinsurance (UK) Ltd. v. Field [1996] 3 All E.R. 517; [1996] 1WLR 1026 at page 1025, Lord Mustill stated that: In ordinary speech, an event is something which happens at a particular time, at a particular place, in a particular way. Consistent with this, Taxation Ruling TR 2007/5 notes at paragraph 38 that: an event generally arises at a particular point in time, and is usually a factual happening or occurrence. It is considered that the withdrawal of a functional currency choice under section 960-90 of the ITAA 1997 is a 'factual happening or occurrence' which 'arises at a particular point in time' and so falls within the definition of an 'event'. What is an 'amount'? In applying section 960-50 of the ITAA 1997, subsection 960-50(1) requires that each 'amount' in a foreign currency is to be translated into Australian currency. Subsection 960-50(2) of Subdivision 960-C of the ITAA 1997 provides the following examples of an amount: (a)an amount of *ordinary income;
 (b)an amount of an expense;
 (c)an amount of an obligation;
 (d)an amount of a liability;
 (e)an amount of a receipt;
 (f)an amount of a payment;
 (g)an amount of consideration;
-(h)a value.
-
-The Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 (EM) stated at paragraph 3.5 that the amendments introduced a core translation principle that applies not only to assessable income and allowable deductions, but to all amounts which are relevant to calculating an entity's income tax liability. Paragraph 3.16 of the EM further states that the core translation rule applies to amounts generally and is intended to be interpreted broadly.
-Most notably, paragraph 960-50(2)(h) of the ITAA 1997 states that a 'value' is an amount. Subsection 960-50(3) of the ITAA 1997 states that, with the exception of 'ordinary income', the amounts 'may be on revenue account, capital account or otherwise'. It is readily apparent that the various amounts being values or other amounts in USD in the entity's 'accounts' for income tax purposes as at 31 December 2010, are all amounts for the purposes of Subdivision 960-C.
-
-Does the withdrawal of the USD functional currency choice under section 960-90 of Subdivision 960-D 'involve an amount in a *foreign currency'?
-
-The withdrawal of a functional currency choice under section 960-90 of the ITAA 1997 does 'involve an amount in a *foreign currency'. This is notwithstanding that subsection 960-80(1) of the ITAA 1997 provides, where a functional currency choice is in effect for an income year, that for the purpose of working out for the income year your taxable income or tax loss:
-
-•the definition of foreign currency in subsection 995-1(1) of the ITAA 1997 does not apply; and
+(h)a value. The Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 (EM) stated at paragraph 3.5 that the amendments introduced a core translation principle that applies not only to assessable income and allowable deductions, but to all amounts which are relevant to calculating an entity's income tax liability. Paragraph 3.16 of the EM further states that the core translation rule applies to amounts generally and is intended to be interpreted broadly.
+Most notably, paragraph 960-50(2)(h) of the ITAA 1997 states that a 'value' is an amount. Subsection 960-50(3) of the ITAA 1997 states that, with the exception of 'ordinary income', the amounts 'may be on revenue account, capital account or otherwise'. It is readily apparent that the various amounts being values or other amounts in USD in the entity's 'accounts' for income tax purposes as at 31 December 2010, are all amounts for the purposes of Subdivision 960-C. Does the withdrawal of the USD functional currency choice under section 960-90 of Subdivision 960-D 'involve an amount in a *foreign currency'? The withdrawal of a functional currency choice under section 960-90 of the ITAA 1997 does 'involve an amount in a *foreign currency'. This is notwithstanding that subsection 960-80(1) of the ITAA 1997 provides, where a functional currency choice is in effect for an income year, that for the purpose of working out for the income year your taxable income or tax loss: •the definition of foreign currency in subsection 995-1(1) of the ITAA 1997 does not apply; and
 •the 'applicable functional currency' is taken not to be a foreign currency; and
-•Australian currency and any other currency (except the 'applicable functional currency') are taken to be foreign currencies.
-
-Section 960-90 of the ITAA 1997 provides that a withdrawal of a functional currency choice has effect from immediately
- after
- the end of the income year in which you withdraw your choice. Thus, a withdrawal of a functional currency choice has no effect on the working out of taxable income or tax loss for the year in which the withdrawal of the choice is made. Rather, the withdrawal impacts only years
- subsequent
- to this year - being income years in which the functional currency choice is not in effect. Hence, the required conditions set out in subsection 960-80(1) of the ITAA 1997, for the definition of 'foreign currency' in subsection 995-1(1) of the ITAA 1997 not to apply, are not satisfied.
-The definition of 'foreign currency' in subsection 995-1(1) of the ITAA 1997 applies for the purpose of section 960-90 of the ITAA 1997. Thus, for the purpose of withdrawing a functional currency choice, all of the entity's amounts for income tax purposes in USD are amounts in a 'foreign currency'. It follows that the withdrawal of the USD functional currency choice is an 'event that involves an amount in a *foreign currency'.
-
-Treatment of amounts required to have been translated into the 'applicable functional currency' under subsection 960-85(1) or subsection 960-80(1) of Subdivision 960-D - and of amounts originally denominated (transacted) in the 'applicable functional currency'
-
-The translation of an amount which is not in the 'applicable functional currency' into the 'applicable functional currency' has effect for both the income year in which the translation takes place and all subsequent income years. Amounts translated into the 'applicable functional currency' remain in that currency unless a subsequent translation (triggered by the effective withdrawal of a functional currency choice) is required.
+•Australian currency and any other currency (except the 'applicable functional currency') are taken to be foreign currencies. Section 960-90 of the ITAA 1997 provides that a withdrawal of a functional currency choice has effect from immediately after the end of the income year in which you withdraw your choice. Thus, a withdrawal of a functional currency choice has no effect on the working out of taxable income or tax loss for the year in which the withdrawal of the choice is made. Rather, the withdrawal impacts only years subsequent to this year - being income years in which the functional currency choice is not in effect. Hence, the required conditions set out in subsection 960-80(1) of the ITAA 1997, for the definition of 'foreign currency' in subsection 995-1(1) of the ITAA 1997 not to apply, are not satisfied.
+The definition of 'foreign currency' in subsection 995-1(1) of the ITAA 1997 applies for the purpose of section 960-90 of the ITAA 1997. Thus, for the purpose of withdrawing a functional currency choice, all of the entity's amounts for income tax purposes in USD are amounts in a 'foreign currency'. It follows that the withdrawal of the USD functional currency choice is an 'event that involves an amount in a *foreign currency'. Treatment of amounts required to have been translated into the 'applicable functional currency' under subsection 960-85(1) or subsection 960-80(1) of Subdivision 960-D - and of amounts originally denominated (transacted) in the 'applicable functional currency' The translation of an amount which is not in the 'applicable functional currency' into the 'applicable functional currency' has effect for both the income year in which the translation takes place and all subsequent income years. Amounts translated into the 'applicable functional currency' remain in that currency unless a subsequent translation (triggered by the effective withdrawal of a functional currency choice) is required.
 All of the entity's amounts for income tax purposes as at 31 December 2010 are in USD. They will remain in USD following the effective withdrawal of the functional currency choice, until they are translated to AUD under section 960-50 of the ITAA 1997. This will take place on 1 January 2011 immediately after the withdrawal of the USD functional currency choice has taken effect. This is so whether the amounts were translated into USD by section 960-85 of the ITAA 1997 at the time when the USD became the 'applicable functional currency'; or whether they were translated into USD under subsection 960-80(1) of the ITAA 1997 after the USD had become the 'applicable functional currency'.
-In addition, as noted above, there will be other amounts in USD that were denominated (transacted) in USD during the time the entity was using USD as their 'applicable functional currency'. As with the amounts that required translation to USD under section 960-85 and subsection 960-80(1) of the ITAA 1997, these amounts in a 'foreign currency' (USD) will also need to be translated into AUD, in accordance with the core foreign currency translation rules contained in section 960-50 of the ITAA 1997.
-
-Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No. 1) 2003
-
-Consistent with the above, the EM confirms that, where a functional currency choice has been effectively withdrawn, and no new functional currency choice has been made, the core foreign currency translation rules in section 960-50 of Subdivision 960-C of the ITAA 1997 will apply.
-In this regard, the EM advises that:
-
-When is a choice withdrawn?
-
-3.85 A choice can be withdrawn if the applicable foreign currency has ceased to be the sole or predominant currency in which the entity or part thereof keeps its books of account. ...
-
-3.86 A taxpayer is not compelled to withdraw a choice and the choice can only be withdrawn if the applicable foreign currency has ceased to be the sole or predominant currency in which the entity ... keeps its books of account.
-
-3.87 A choice must be withdrawn in writing [
- Schedule 4, item 59, subsection 960
--
- 90(2
-)]. Withdrawal of a choice does not prevent an entity from making a new choice [
- Schedule 4, item 59, subsection 960
--
- 90(3
-)]. If a new choice is not made after withdrawing an earlier choice, the entity or part of the entity will be required to use A$ for the purposes of calculating the income tax liability. ...
-
-Application and transitional provisions
-
-3.89 The core translation rule applies to a transaction or event that involves an amount of foreign currency and occurs after the commencement date. However, the rule does not apply to a transaction or event involving an amount covered by subsections 775-110(1), (2) and (4) of the ITAA 1997. [
- Schedule 4, item 59, section 960
--
- 55
-]
-
-3.90 Sections 20, 102AAX and 391 of the ITAA 1936 and section 103-20 of the ITAA 1997 continue to apply in relation to a transaction or event to which section 960-50 does not apply. [
- Schedule 4, item 78
-]
-
-Accounting Standard AASB 121 - change in functional currency
-
-It is noted that this is also consistent with Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates, which applies to annual reporting periods beginning on or after 1 January 2005. Paragraphs 35 and 37 of Accounting Standard AASB 121 provide that:
-
-Change in Functional Currency
-
-35 When there is a change in an entity's functional currency, the entity shall apply the translation procedures applicable to the new functional currency prospectively from the date of the change
- . ...
-
-37 The effect of a change in functional currency is accounted for prospectively. In other words, an entity translates all items into the new functional currency using the exchange rate at the date of the change. The resulting translated amounts for non-monetary items are treated as their historical cost.
-
-Conclusion
-
-The entity has withdrawn their 'applicable functional currency choice' with effect from 1 January 2011. Accordingly, the functional currency translation rules contained in subsection 960-80(1) of Subdivision 960-D of the ITAA 1997 cannot be used on or after 1 January 2011 (being the effective time of the withdrawal of the functional currency choice). At this time, all of the entity's amounts for income tax purposes will be in USD and hence will all be amounts in a 'foreign currency'.
+In addition, as noted above, there will be other amounts in USD that were denominated (transacted) in USD during the time the entity was using USD as their 'applicable functional currency'. As with the amounts that required translation to USD under section 960-85 and subsection 960-80(1) of the ITAA 1997, these amounts in a 'foreign currency' (USD) will also need to be translated into AUD, in accordance with the core foreign currency translation rules contained in section 960-50 of the ITAA 1997. Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No. 1) 2003 Consistent with the above, the EM confirms that, where a functional currency choice has been effectively withdrawn, and no new functional currency choice has been made, the core foreign currency translation rules in section 960-50 of Subdivision 960-C of the ITAA 1997 will apply.
+In this regard, the EM advises that: When is a choice withdrawn? 3.85 A choice can be withdrawn if the applicable foreign currency has ceased to be the sole or predominant currency in which the entity or part thereof keeps its books of account. ... 3.86 A taxpayer is not compelled to withdraw a choice and the choice can only be withdrawn if the applicable foreign currency has ceased to be the sole or predominant currency in which the entity ... keeps its books of account. 3.87 A choice must be withdrawn in writing [ Schedule 4, item 59, subsection 960
+- 90(2
+)]. Withdrawal of a choice does not prevent an entity from making a new choice [ Schedule 4, item 59, subsection 960
+- 90(3
+)]. If a new choice is not made after withdrawing an earlier choice, the entity or part of the entity will be required to use A$ for the purposes of calculating the income tax liability. ... Application and transitional provisions 3.89 The core translation rule applies to a transaction or event that involves an amount of foreign currency and occurs after the commencement date. However, the rule does not apply to a transaction or event involving an amount covered by subsections 775-110(1), (2) and (4) of the ITAA 1997. [ Schedule 4, item 59, section 960
+- 55
+] 3.90 Sections 20, 102AAX and 391 of the ITAA 1936 and section 103-20 of the ITAA 1997 continue to apply in relation to a transaction or event to which section 960-50 does not apply. [ Schedule 4, item 78
+] Accounting Standard AASB 121 - change in functional currency It is noted that this is also consistent with Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates, which applies to annual reporting periods beginning on or after 1 January 2005. Paragraphs 35 and 37 of Accounting Standard AASB 121 provide that: Change in Functional Currency 35 When there is a change in an entity's functional currency, the entity shall apply the translation procedures applicable to the new functional currency prospectively from the date of the change . ... 37 The effect of a change in functional currency is accounted for prospectively. In other words, an entity translates all items into the new functional currency using the exchange rate at the date of the change. The resulting translated amounts for non-monetary items are treated as their historical cost. Conclusion The entity has withdrawn their 'applicable functional currency choice' with effect from 1 January 2011. Accordingly, the functional currency translation rules contained in subsection 960-80(1) of Subdivision 960-D of the ITAA 1997 cannot be used on or after 1 January 2011 (being the effective time of the withdrawal of the functional currency choice). At this time, all of the entity's amounts for income tax purposes will be in USD and hence will all be amounts in a 'foreign currency'.
 Subsection 960-50(1) of Subdivision 960-C of the ITAA 1997 requires that, for the purposes of this Act, an amount in a 'foreign currency' is to be translated into Australian currency.
 Central to the operation of section 960-50 of the ITAA 1997 is a 'transaction, event or thing that involves an amount in a foreign currency', occurring on or after the 'applicable commencement date' within the meaning of Division 775 of the ITAA 1997. Specifically, section 960-55 of Subdivision 960-C of the ITAA 1997 provides that section 960-50 of the ITAA 1997 applies to an 'event' that involves an 'amount in a foreign currency' and occurs on or after the 'applicable commencement date' (in this case on or after 1 July 2003).
 The withdrawal by the entity of its functional currency choice under subsection 960-90(1) of Subdivision 960-D of the ITAA 1997 constitutes an 'event' that involves an amount (indeed many amounts) in a 'foreign currency' (USD). Hence, the requirements stipulated in section 960-55 of the ITAA 1997 are met.
@@ -177,51 +56,7 @@ Therefore, once the withdrawal of the functional currency choice has taken effec
 It follows that all of the entity's amounts for income tax purposes as at 1 January 2011 must be translated from USD to AUD, in accordance with the rules contained in section 960-50 of the ITAA 1997 (including subsection 960-50(6)).
 Subsection 960-50(6) of Subdivision 960-C of the ITAA 1997 sets out special translation rules, as modified by the regulations (refer to subsection 960-50(7) of the ITAA 1997). Notably, Regulation 960-50.01 adds item 11A to the table in subsection 960-50(6) of the ITAA 1997, which specifies that an amount (other than an amount of receipt or a payment) to which none of the above items applies is to be translated into Australian currency at an exchange rate that is reasonable having regard to the circumstances.
 Under these circumstances, the entity will be required to translate all its amounts from USD to AUD at the time the 'applicable functional currency' ceases to be in use, being 1 January 2011, at the relevant exchange rate in existence at that time.
-Date of decision:
-  30 November 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Corporations Act 2001   section 292
-Income Tax Assessment Act 1997   Subdivision 960-C   section 960-49   section 960-50   subsection 960-50(1)   subsection 960-50(2)   subsection 960-50(3)   subsection 960-50(6)   subsection 960-50(7)   section 960-55   subsection 960-55(1)   Subdivision 960-D   subsection 960-60(1)   section 960-70   subsection 960-80(1), Item 1   section 960-85   subsection 960-85(1), Item 1   section 960-90   subsection 960-90(1)   subsection 960-90(2)   section 995-1
-Income Tax Assessment Regulations 1997   Regulation 960-50.01
-
-Case References:
-
-Midland Mainline Ltd v Eagle Star Insurance Co Ltd 2003 WL 21729319   [2003] EWHC 1771
-
-Axa Reinsurance (UK) Ltd v Field   [1996] 3 All ER 517   [1996] 1 WLR 1026
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 1999/9
-Taxation Ruling TR 2007/5
-
-Other References:
-
-Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates
- Australian Oxford Dictionary, 2004, rev. 2nd ed, Oxford University Press, Melbourne
- Macquarie Dictionary (version 5.0.0, 01/10/01)
- Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No. 1) 2003
- Explanatory Statement to the Income Tax Assessment Amendment Regulations 2005 (No. 2)
-
-Keywords
-
-Accounts
- Functional currency choice
- Functional currency translation
-
-Siebel/TDMS Reference Number:
-  1-2FP7NBY
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  10 December 2010
-
-ISSN:
- 1445-2782
+Date of decision: 30 November 2010 Year of income: Year ended 30 June 2011 Legislative References: Corporations Act 2001 section 292
+Income Tax Assessment Act 1997 Subdivision 960-C section 960-49 section 960-50 subsection 960-50(1) subsection 960-50(2) subsection 960-50(3) subsection 960-50(6) subsection 960-50(7) section 960-55 subsection 960-55(1) Subdivision 960-D subsection 960-60(1) section 960-70 subsection 960-80(1), Item 1 section 960-85 subsection 960-85(1), Item 1 section 960-90 subsection 960-90(1) subsection 960-90(2) section 995-1
+Income Tax Assessment Regulations 1997 Regulation 960-50.01 Case References: Midland Mainline Ltd v Eagle Star Insurance Co Ltd 2003 WL 21729319 [2003] EWHC 1771 Axa Reinsurance (UK) Ltd v Field [1996] 3 All ER 517 [1996] 1 WLR 1026 Related Public Rulings (including Determinations) Taxation Ruling TR 1999/9
+Taxation Ruling TR 2007/5 Other References: Australian Accounting Standard AASB 121 The Effects of Changes in Foreign Exchange Rates Australian Oxford Dictionary, 2004, rev. 2nd ed, Oxford University Press, Melbourne Macquarie Dictionary (version 5.0.0, 01/10/01) Explanatory Memorandum to the New Business Tax System (Taxation of Financial Arrangements) Bill (No. 1) 2003 Explanatory Statement to the Income Tax Assessment Amendment Regulations 2005 (No. 2) Keywords Accounts Functional currency choice Functional currency translation Siebel/TDMS Reference Number: 1-2FP7NBY Business Line: Public Groups and International Date of publication: 10 December 2010 ISSN: 1445-2782

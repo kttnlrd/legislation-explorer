@@ -1,20 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2006/259
-==================================================
-
-Income Tax
- Capital Allowances: depreciating asset - section 73BA depreciating asset - full-scale test model
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Is the full-scale test model of an item of equipment, which is the subject matter of the taxpayer's research and development (R&D) activities, a 'section 73BA depreciating asset' within the meaning of that term in section 73BB of the Income Tax Assessment Act 1936 (ITAA 1936) for which the taxpayer has a 'notional Division 40 deduction' within the meaning of section 73BC of the ITAA 1936?
- Decision
+================================================== Income Tax Capital Allowances: depreciating asset - section 73BA depreciating asset - full-scale test model FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Is the full-scale test model of an item of equipment, which is the subject matter of the taxpayer's research and development (R&D) activities, a 'section 73BA depreciating asset' within the meaning of that term in section 73BB of the Income Tax Assessment Act 1936 (ITAA 1936) for which the taxpayer has a 'notional Division 40 deduction' within the meaning of section 73BC of the ITAA 1936? Decision
 Yes. The full-scale test model is a 'section 73BA depreciating asset' because the test model is a tangible depreciating asset that is used by the taxpayer, an 'eligible company', for the purpose of carrying on their R&D activities and the taxpayer has a 'notional Division 40 deduction' for the asset.
 Facts
 The taxpayer is an 'eligible company', as defined in subsection 73B(1) of the ITAA 1936, that carries on 'research and development activities' as defined in subsection 73B(1). The taxpayer has registered its R&D activities in the manner contemplated by subsection 73BD(1) of the ITAA 1936. The subject matter of the taxpayer's R&D activities is an item of equipment capable of performing a specific manufacturing process. The taxpayer's R&D activities encompass not only designing and developing the item of equipment but also testing the performance of the asset against the requisite specifications.
@@ -30,40 +18,5 @@ Section 40-25 of the ITAA 1997 provides an annual deduction to a holder of a dep
 Accordingly, the full-scale test model built by the taxpayer is a depreciating asset. This is the case even though the test model was commercially incomplete in the sense that it needed further refinement before it could be commercially exploited. As the legal owner of the asset, the taxpayer also holds the asset under item 10 of the table in section 40-40 of the ITAA 1997.
 As far as is relevant here, a 'notional Division 40 deduction' is available for a 'section 73BA depreciating asset' if, pursuant to section 73BC of the ITAA 1936, the asset is used for the purpose of carrying on the eligible company's R&D activities. As stated in the facts, the taxpayer does use the asset for this purpose.
 Accordingly, the full-scale test model is a 'section 73BA depreciating asset' because the asset is a tangible depreciating asset and the taxpayer is entitled to a 'notional Division 40 deduction' for the asset when the taxpayer, an eligible company, uses it for the purpose of carrying on its R&D activities.
-Date of decision:
-  11 August 2006
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 73B(1)   subsection 73B(15AA)   subsection 73B(15AAAA)   section 73BB   section 73BC   subsection 73BD(1)
-Income Tax Assessment Act 1997   section 40-25   subsection 40-30(1)   section 40-40
-
-Case References:
-
-Newcastle City Council v. Royal Newcastle Hospital   (1956) 96 CLR 493
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/260
-
-Keywords
-
-Depreciating assets
- Depreciating asset - section 73BA
- Research and development plant
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  4923773
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 September 2006
-
-ISSN:
- 1445-2782
+Date of decision: 11 August 2006 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 73B(1) subsection 73B(15AA) subsection 73B(15AAAA) section 73BB section 73BC subsection 73BD(1)
+Income Tax Assessment Act 1997 section 40-25 subsection 40-30(1) section 40-40 Case References: Newcastle City Council v. Royal Newcastle Hospital (1956) 96 CLR 493 Related ATO Interpretative Decisions ATO ID 2006/260 Keywords Depreciating assets Depreciating asset - section 73BA Research and development plant Uniform capital allowances system Siebel/TDMS Reference Number: 4923773 Business Line: Public Groups and International Date of publication: 22 September 2006 ISSN: 1445-2782

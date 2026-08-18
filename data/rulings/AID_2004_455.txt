@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/455
-==================================================
-
-Income Tax
- Capital gains tax: Demerger - consideration given by head entity shareholders for new interests in demerged entity
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: Demerger - consideration given by head entity shareholders for new interests in demerged entity FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the condition in paragraph 125-70(1)(d) of the Income Tax Assessment Act 1997 (ITAA 1997) be satisfied if the head entity shareholders give consideration for the shares they receive in the demerged entity?
 Decision
 Yes. The condition in paragraph 125-70(1)(d) of the ITAA 1997 can be satisfied if the head entity shareholders give consideration for the shares they receive in the demerged entity.
@@ -26,35 +15,4 @@ It has been suggested that paragraph 125-70(1)(d) of the ITAA 1997 could be inte
 The relevant Explanatory Memorandum to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Bill 2002 is silent on the meaning of paragraph 125-70(1)(d) of the ITAA 1997.
 The purpose of paragraph 125-70(1)(d) of the ITAA 1997 is to exclude from the definition of a demerger a restructure in which persons other than owners of original interests in the head entity acquire new interests in the demerged entity. Neither Division 125 of the ITAA 1997 nor the Explanatory Memorandum implies any other purpose.
 Consequently, paragraph 125-70(1)(d) of the ITAA 1997 does not exclude a restructure from being a demerger under section 125-70, where the head entity shareholders give consideration for their new interests in the demerged entity. As only the head entity shareholders were entitled to acquire interests in the demerged entity, the condition in paragraph 125-70(1)(d) can be satisfied.
-Date of decision:
-  6 May 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 125   section 125-65   section 125-70   paragraph 125-70(1)(d)
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Bill 2002
-
-Keywords
-
-Capital gains tax
- Demerged entity
- Demerger
- Demerger roll-over
-
-Siebel/TDMS Reference Number:
-  4047538
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 June 2004
-
-ISSN:
- 1445-2782
+Date of decision: 6 May 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Division 125 section 125-65 section 125-70 paragraph 125-70(1)(d) Other References: Explanatory Memorandum to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Bill 2002 Keywords Capital gains tax Demerged entity Demerger Demerger roll-over Siebel/TDMS Reference Number: 4047538 Business Line: Public Groups and International Date of publication: 4 June 2004 ISSN: 1445-2782

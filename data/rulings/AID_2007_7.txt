@@ -1,26 +1,13 @@
 ATO Interpretative Decision
 ATO ID 2007/7
-==================================================
-
-Goods and Services Tax
- GST and registration of a responsible entity for a managed investment scheme
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and registration of a responsible entity for a managed investment scheme FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an entity, in its capacity as the responsible entity of a managed investment scheme (MIS), having the features specified below under 'Facts', entitled to register for goods and services tax (GST) under Division 23 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
 Decision
 Yes, the entity, in its capacity as the responsible entity of a MIS, having the features specified below under 'Facts', is entitled to register for GST under Division 23 of the GST Act.
 Facts
 The scheme is a MIS (not an agricultural scheme) under the Corporations Act 2001 (Corporations Act). The responsible is a public company that complies with the requirements of Division I of Part 5.C2 of the Corporations Act (which is about the responsibilities and powers of a responsible entity) and it provides responsible entity, investment and administration services in its operation of the MIS.
-The MIS has the following specific features:
-
-•The responsible entity undertakes the day-to-day management of investments on behalf of each individual investor in the MIS.
+The MIS has the following specific features: •The responsible entity undertakes the day-to-day management of investments on behalf of each individual investor in the MIS.
 •Individual investors select a mandate indicating the investment profile to be followed in respect of their portfolio (where 'mandate' means a discretionary investment management strategy selected from a number of alternatives made available by the responsible entity).
 •In selecting a mandate, individual investors delegate the day-to-day investment decision-making to the responsible entity. This is in contrast to an investor directed portfolio service where investment decisions are made by the investors.
 •All investors' funds are pooled and processed through a single trust account held with an Australian authorised deposit-taking institution (ADI).
@@ -28,59 +15,18 @@ The MIS has the following specific features:
 •Individual investors are provided with access to wholesale and listed investments (generally for lower fees than a retail investor would have to pay).
 •Each investor pays an issue price to obtain an interest in a portfolio of assets. Each portfolio is a parcel of assets particular to an investor that is distinct from those of other investors.
 •Legal title to the assets within an investor's portfolio is held by a custodian that is appointed by the responsible entity. Investors have an absolute and beneficial entitlement to the assets within their specific portfolio held by the custodian.
-•The scale on which the MIS is conducted indicates that it operates in a commercial manner.
-
-Reasons for Decision
+•The scale on which the MIS is conducted indicates that it operates in a commercial manner. Reasons for Decision
 Subsection 23-10(1) of the GST Act provides that 'you may be registered if you are carrying on an enterprise (whether or not your GST turnover is at, above or below the registration turnover threshold)'. Section 195-1 of the GST Act provides that when the expression 'you' is used in the GST Act, it applies to entities generally.
-Therefore, the responsible entity of a MIS is entitled to register, in that capacity, under the GST Act if it is an 'entity' that is 'carrying on an enterprise'.
-
-Entity
-
-For GST purposes, the term 'entity' is defined by section 195-1 of the GST Act to have the meaning given by section 184-1 of the GST Act. The meaning given includes, at paragraph 184-1(1)(g) of the GST Act, a trust. However, at law a trust is not a legal person and cannot itself be a party to legal proceedings nor have other obligations placed on it. The trustee is the appropriate party. This is recognised in subsection 184-1(2) of the GST Act, which provides that the trustee in that capacity is taken to be the trust entity.
+Therefore, the responsible entity of a MIS is entitled to register, in that capacity, under the GST Act if it is an 'entity' that is 'carrying on an enterprise'. Entity For GST purposes, the term 'entity' is defined by section 195-1 of the GST Act to have the meaning given by section 184-1 of the GST Act. The meaning given includes, at paragraph 184-1(1)(g) of the GST Act, a trust. However, at law a trust is not a legal person and cannot itself be a party to legal proceedings nor have other obligations placed on it. The trustee is the appropriate party. This is recognised in subsection 184-1(2) of the GST Act, which provides that the trustee in that capacity is taken to be the trust entity.
 In this case, under the MIS constitution, a custodian holds legal title to assets to which an investor has 'absolute and beneficial entitlement'. The separation of legal and beneficial interests in the portfolio assets, within the context of the MIS constitution, indicates the existence of a trust. Although the custodian holds legal title, it does so as agent of the responsible entity and, in the context of the MIS, it is the responsible entity that is trustee under subsection 601FC(2) of the Corporations Act.
 Given that each investor has a beneficial entitlement to the assets within its portfolio, a trust relationship exists between the responsible entity (as trustee) and each investor. Accordingly, from a structural perspective, there exists a collection of individual trusts.
 However, through the MIS, investors are collectively provided with benefits such as access to wholesale investments, consolidated reporting and the expertise of the responsible entity together with its agents. In addition to these benefits, there is also the requirement that all investors' cash contributions are processed through a single trust account held with an ADI. This pooling of funds provides the responsible entity with the practical means by which the activities of the MIS can be facilitated.
 The existence of a trust in respect of the single account held with the ADI, together with the above mentioned collectively provided benefits indicates a separate overall trust in existence for carrying on the MIS activities.
-In substance, the individual trusts co-exist with an overall trust relationship that practically facilitates the operation of the MIS activities. This overall trust relationship is regarded as a trust entity for the purposes of the GST Act.
-
-Enterprise
-
-As stated above, to be registered for GST, an entity must be carrying on an enterprise. 'Enterprise' is defined in section 9-20 of the GST Act to include an activity, or series of activities, done in the form of a business.
+In substance, the individual trusts co-exist with an overall trust relationship that practically facilitates the operation of the MIS activities. This overall trust relationship is regarded as a trust entity for the purposes of the GST Act. Enterprise As stated above, to be registered for GST, an entity must be carrying on an enterprise. 'Enterprise' is defined in section 9-20 of the GST Act to include an activity, or series of activities, done in the form of a business.
 In this regard, 'an activity or series of activities' are essentially any act or series of acts that an entity chooses to do. The acts can range from a single transaction to groups of related transactions or to entire operations of the entity. With regard to the words 'in the form of', they have the effect of extending the meaning of 'enterprise' beyond entities carrying on a business. Accordingly, an enterprise will include entities that carry out activities that, while they are not sufficient to meet the criteria of being regarded as a business, have the appearance or characteristics of business activities.
 In terms of trusts, a passive investment vehicle, for example a family discretionary trust (that merely holds shares and term deposits and receives investment income) will not be carrying on an enterprise. This is because it lacks the requisite actions to satisfy the enterprise test of activities done in the form of a business. However, a public unit trust will satisfy the enterprise test of activities done in the form of a business, notwithstanding that it may follow a passive investment mandate. The rationale in this case is that the public unit trust is established for commercial reasons and therefore exhibits the necessary business like activities to satisfy the stated enterprise test.
 As indicated above, there is an overall trust relationship facilitating the operation of the MIS activities. In the context of this overall trust relationship, the responsible entity necessarily undertakes activities, in exercising its investment discretions, managing the pooled monies and associated activities, that are of a commercial nature and therefore done in the form of a business. As such, the activities of the overall trust relationship are considered an enterprise.
 As it is the operation of the overall trust relationship which gives rise to cost reductions through carrying out transactional and administrative functions on a collective basis, it is the overall trust relationship that should be recognised for registration purposes. As such, it is the entity in its capacity of responsible entity of the MIS that should be registered for GST purposes in respect of the overall trust relationship.
-Date of decision:
-  6 November 2006
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-20   subsection 23-10(1)   section 184-1   paragraph 184-1(1)(g)   subsection 184-1(2)   section 195-1
-Corporations Act 2001   Division I of Part 5.C2   subsection 601FC(2)
-
-Related Public Rulings (including Determinations)
-
-Miscellaneous Taxation Ruling MT 2006/1
-Goods and Services Tax Determination GSTD 2006/6
-
-Other References:
-
-Financial services - questions and answers - 13. Investor directed portfolio services
-
-Keywords
-
-Goods and services tax
- GST registration
- Trustee
-
-Siebel/TDMS Reference Number:
-  5345101
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  12 January 2007
-
-ISSN:
- 1445-2782
+Date of decision: 6 November 2006 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-20 subsection 23-10(1) section 184-1 paragraph 184-1(1)(g) subsection 184-1(2) section 195-1
+Corporations Act 2001 Division I of Part 5.C2 subsection 601FC(2) Related Public Rulings (including Determinations) Miscellaneous Taxation Ruling MT 2006/1
+Goods and Services Tax Determination GSTD 2006/6 Other References: Financial services - questions and answers - 13. Investor directed portfolio services Keywords Goods and services tax GST registration Trustee Siebel/TDMS Reference Number: 5345101 Business Line: Indirect Tax Date of publication: 12 January 2007 ISSN: 1445-2782

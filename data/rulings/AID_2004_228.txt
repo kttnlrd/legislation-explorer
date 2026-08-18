@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/228
-==================================================
-
-Goods and Services Tax
- GST and repacking rechargeable wheelchair batteries with new general purpose rechargeable cells
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and repacking rechargeable wheelchair batteries with new general purpose rechargeable cells FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of batteries, making a GST-free supply under subsection 38-45(2) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it repacks a customer's old rechargeable wheelchair battery with new general purpose rechargeable cells?
 Decision
 No, the entity is not making a GST-free supply under subsection 38-45(2) of the GST Act when it repacks a customer's old rechargeable wheelchair battery with new general purpose rechargeable cells. The entity is making a taxable supply under section 9-5 of the GST Act.
@@ -25,58 +14,6 @@ Reasons for Decision
 To determine the GST status of the entity's supply, it is first necessary to establish what the entity is actually supplying.
 The entity strips the dead cells from the customer's battery casing and replaces them with new general purpose rechargeable cells. The customer always retains ownership of the battery. The entity is providing a repacking/reconditioning service consisting of a labour component and a materials component (that is, the new general purpose rechargeable cells). The entity is not supplying a wheelchair battery to the customer.
 Where a supply consists of more than one part, the supply could be either a mixed or a composite supply. Where a supply contains a dominant part and also something that is integral, ancillary or incidental to that part, the supply is composite. A composite supply is treated as a single supply and takes its GST status from the dominant component of the supply. Where the supply has separately identifiable parts, the supply is a mixed supply. The GST status of the component parts of a mixed supply are determined separately (Goods and Services Tax Ruling GSTR 2001/8).
-The labour component of the entity's supply is the value of the total time used to complete the process of removing the old cells, replacing them with new general purpose rechargeable cells and resealing the casing. The materials component is the value of the new general purpose rechargeable cells packed into the old casing. Both the labour and materials components are significant in their own right and neither dominates the other. The GST status of each component is determined separately.
-
-Battery Cells
-
-Subsection 38-45(2) of the GST Act provides that a supply of a spare part is a GST-free supply if the spare part is:
-
-• supplied as a spare part for a medical aid or appliance that is GST-free under subsection 38-45(1) of the GST Act, and
-• specifically designed as a spare part for a medical aid or appliance that is GST-free under subsection 38-45(1) of the GST Act.
-
-The new cells that the entity uses to repack the battery are general purpose rechargeable cells commonly used in a multitude of applications, for example, in portable battery operated electric drills and mobile phones. As such, the new cells are not specifically designed as a spare part of a GST-free medical aid or appliance and the second requirement in subsection 38-45(2) of the GST Act is not satisfied. Therefore, the supply of the battery cells is not GST-free.
-
-Labour
-
-There are no provisions in the GST Act that operate to make the supply of the labour component GST-free.
-The entity is registered for GST and the supply meets the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it repacks a customer's old rechargeable wheelchair battery with new general purpose rechargeable cells.
-
-Note: There are circumstances where the entity may purchase an old rechargeable battery from a customer. The entity repacks and subsequently sells to that customer or another or trade in an old battery in an exchange for a repacked battery. In these circumstances, the supply is not a supply of a repacking service but is the supply of a repacked battery. If the repacked battery sold to the customer in this manner is a specifically designed battery for a GST-free medical aid or appliance, the supply will be a GST-free supply of a specifically designed spare part under subsection 38-45(2) of the GST Act.
-
-Date of decision:
-  30 May 2003
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   subsection 38-45(1)   subsection 38-45(2)   Division 40
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2001/8
-
-Other References:
-
-Commonwealth of Australia 2003. Health Industry Partnership - Issues Register - 2.a.15 - Repairs to GST-free Medical Aids and Appliances (which may include the supply of spare parts). Tax Office, viewed 30 May 2003, www.ato.gov.au
- Commonwealth of Australia 2003. Health Industry Partnership - Issues Register - 4.a.2 - Where a medical aid or appliance is repaired, will the repair be GST-free? Tax Office, viewed 30 May 2003, www.ato.gov.au
-
-Keywords
-
-Goods and services tax
- GST free
- GST health
- Section 38-45 - medical aids & appliances
- GST supplies & acquisitions
- GST supply
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  3548159
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  12 March 2004
-
-ISSN:
- 1445-2782
+The labour component of the entity's supply is the value of the total time used to complete the process of removing the old cells, replacing them with new general purpose rechargeable cells and resealing the casing. The materials component is the value of the new general purpose rechargeable cells packed into the old casing. Both the labour and materials components are significant in their own right and neither dominates the other. The GST status of each component is determined separately. Battery Cells Subsection 38-45(2) of the GST Act provides that a supply of a spare part is a GST-free supply if the spare part is: • supplied as a spare part for a medical aid or appliance that is GST-free under subsection 38-45(1) of the GST Act, and
+• specifically designed as a spare part for a medical aid or appliance that is GST-free under subsection 38-45(1) of the GST Act. The new cells that the entity uses to repack the battery are general purpose rechargeable cells commonly used in a multitude of applications, for example, in portable battery operated electric drills and mobile phones. As such, the new cells are not specifically designed as a spare part of a GST-free medical aid or appliance and the second requirement in subsection 38-45(2) of the GST Act is not satisfied. Therefore, the supply of the battery cells is not GST-free. Labour There are no provisions in the GST Act that operate to make the supply of the labour component GST-free.
+The entity is registered for GST and the supply meets the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it repacks a customer's old rechargeable wheelchair battery with new general purpose rechargeable cells. Note: There are circumstances where the entity may purchase an old rechargeable battery from a customer. The entity repacks and subsequently sells to that customer or another or trade in an old battery in an exchange for a repacked battery. In these circumstances, the supply is not a supply of a repacking service but is the supply of a repacked battery. If the repacked battery sold to the customer in this manner is a specifically designed battery for a GST-free medical aid or appliance, the supply will be a GST-free supply of a specifically designed spare part under subsection 38-45(2) of the GST Act. Date of decision: 30 May 2003 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 Division 38 subsection 38-45(1) subsection 38-45(2) Division 40 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2001/8 Other References: Commonwealth of Australia 2003. Health Industry Partnership - Issues Register - 2.a.15 - Repairs to GST-free Medical Aids and Appliances (which may include the supply of spare parts). Tax Office, viewed 30 May 2003, www.ato.gov.au Commonwealth of Australia 2003. Health Industry Partnership - Issues Register - 4.a.2 - Where a medical aid or appliance is repaired, will the repair be GST-free? Tax Office, viewed 30 May 2003, www.ato.gov.au Keywords Goods and services tax GST free GST health Section 38-45 - medical aids & appliances GST supplies & acquisitions GST supply Taxable supply Siebel/TDMS Reference Number: 3548159 Business Line: Indirect Tax Date of publication: 12 March 2004 ISSN: 1445-2782

@@ -1,95 +1,18 @@
 ATO Interpretative Decision
 ATO ID 2015/6
-==================================================
-
-Income tax
- Research and Development: Carry forward R&D tax offsets at joining time for a consolidated group
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Can the head company of a consolidated group access the non-refundable carry forward R&D tax offsets available to a joining entity at the joining time?
-
-Decision
-Yes. The head company of a consolidated group can access the non-refundable carry forward R&D tax offsets available to the joining entity at the joining time. In order to apply the carry forward tax offset after the joining time, the head company will need to overcome the limitations in section 65-40 of the Income Tax Assessment Act 1997 (ITAA 1997). These include satisfying either the continuity of ownership test or the same business test under Subdivision 165-A of the ITAA 1997.
-
-Facts
+================================================== Income tax Research and Development: Carry forward R&D tax offsets at joining time for a consolidated group This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Can the head company of a consolidated group access the non-refundable carry forward R&D tax offsets available to a joining entity at the joining time? Decision
+Yes. The head company of a consolidated group can access the non-refundable carry forward R&D tax offsets available to the joining entity at the joining time. In order to apply the carry forward tax offset after the joining time, the head company will need to overcome the limitations in section 65-40 of the Income Tax Assessment Act 1997 (ITAA 1997). These include satisfying either the continuity of ownership test or the same business test under Subdivision 165-A of the ITAA 1997. Facts
 An R&D entity has been accessing the R&D non-refundable tax offset under Division 355 of the ITAA 1997 over successive years. It has carried forward the unused portion of the tax offset amounts in line with the tax offset carry forward rules in Division 65 of the ITAA 1997.
 The R&D entity is subsequently acquired by an unrelated consolidated group, so that it now becomes a wholly-owned subsidiary member of that group.
-The head company of the consolidated group conducts business that is substantially different to the business of the R&D entity prior to the joining time.
-
-Reasons for Decision
-Non-refundable R&D tax offsets are covered by item 35 in the table in subsection 63-10(1) of the ITAA 1997, which states in relation to any unutilised portion (excess):
-
-You may carry it forward to a later income year (under Division 65).
-
-Division 65 of the ITAA 1997 sets out the conditions for carrying forward excess tax offsets to later income years. One of the limitations is that the same rules that prevent a company from utilising certain prior year losses (i.e. those found in Subdivision 165-A of the ITAA 1997) also prevent an R&D entity from applying tax offsets that have been carried forward. This is specified in section 65-40 of the ITAA 1997.
+The head company of the consolidated group conducts business that is substantially different to the business of the R&D entity prior to the joining time. Reasons for Decision
+Non-refundable R&D tax offsets are covered by item 35 in the table in subsection 63-10(1) of the ITAA 1997, which states in relation to any unutilised portion (excess): You may carry it forward to a later income year (under Division 65). Division 65 of the ITAA 1997 sets out the conditions for carrying forward excess tax offsets to later income years. One of the limitations is that the same rules that prevent a company from utilising certain prior year losses (i.e. those found in Subdivision 165-A of the ITAA 1997) also prevent an R&D entity from applying tax offsets that have been carried forward. This is specified in section 65-40 of the ITAA 1997.
 Where an R&D entity with carried forward unutilised R&D tax offset joins a consolidated group, what happens to the tax offset is largely governed by core rules applying to consolidated groups found in Division 701 of the ITAA 1997.
-The single entity rule in subsection 701-1(1) of the ITAA 1997 states:
-
-If an entity is a *subsidiary member of a *consolidated group for any period, it and any other subsidiary member of the group are taken for the purposes covered by subsections (2) and (3) [head company and entity core purposes respectively] to be parts of the *head company of the group, rather than separate entities, during that period.
-
-*denotes a term defined in section 995-1 of the ITAA 1997.
-
-The entry history rule in section 701-5 of the ITAA 1997 stipulates:
-
-For the head company core purposes in relation to the period after the entity becomes a *subsidiary member of the group, everything that happened in relation to it before it became a subsidiary member is taken to have happened in relation to the *head company.
-
-*denotes a term defined in section 995-1 of the ITAA 1997.
-
-Subsection 701-1(2) of the ITAA 1997 addresses the head company core purposes and is essentially concerned with working out the head company's income tax liability. One of the steps in working out this liability involves taking into account any carried forward tax offsets which ultimately reduces any liability the head company is required to pay. Thus, working out whether the head company is entitled to access the non-refundable carry forward R&D tax offset is something that falls within the head company core purposes.
+The single entity rule in subsection 701-1(1) of the ITAA 1997 states: If an entity is a *subsidiary member of a *consolidated group for any period, it and any other subsidiary member of the group are taken for the purposes covered by subsections (2) and (3) [head company and entity core purposes respectively] to be parts of the *head company of the group, rather than separate entities, during that period. *denotes a term defined in section 995-1 of the ITAA 1997. The entry history rule in section 701-5 of the ITAA 1997 stipulates: For the head company core purposes in relation to the period after the entity becomes a *subsidiary member of the group, everything that happened in relation to it before it became a subsidiary member is taken to have happened in relation to the *head company. *denotes a term defined in section 995-1 of the ITAA 1997. Subsection 701-1(2) of the ITAA 1997 addresses the head company core purposes and is essentially concerned with working out the head company's income tax liability. One of the steps in working out this liability involves taking into account any carried forward tax offsets which ultimately reduces any liability the head company is required to pay. Thus, working out whether the head company is entitled to access the non-refundable carry forward R&D tax offset is something that falls within the head company core purposes.
 By virtue of the entry history rule, the R&D entity that is entitled under Division 65 of the ITAA 1997 to carry forward any excess R&D tax offset amount, and which subsequently joins a consolidated group as a subsidiary member, effectively transfers this entitlement to the head company. This is the intent and effect of the entry history rule in section 701-5 of the ITAA 1997, which deems any acts and transactions of the R&D entity prior to the joining time to have been experienced by the head company once the R&D entity joins the consolidated group.
 Whether the head company can use the carry forward R&D tax offset to reduce its income tax liability is subject to the head company overcoming the limitations set out in section 65-40 of the ITAA 1997. That is, in order to apply the tax offset, the head company must satisfy the continuity of ownership test in section 165-12 ITAA 1997 or in the alternative, the same business test in section 165-13 ITAA 1997.
-In the present case, as the head company of the consolidated group conducts business that is substantially different to the business of the R&D entity prior to the joining time, the head company may not be able to overcome the limitations set out in section 65-40 of the ITAA 1997.
-
-Date of decision:
-  12 December 2013
-
-Year of income:
-  For income years commencing on or after 1 July 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 63-10   section 65-40   Subdivision 165-A   section 165-12   section 165-13   Division 355   Division 701   section 701-1   subsection 701-1(1)   section 701-5
-
-Keywords
-
-Research and development tax offset
- Consolidation
- Consolidation - joining
- Consolidation - continuity of ownership test
- Consolidation - same business test
-
-Siebel/TDMS Reference Number:
-  1-6AUJBD8
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  13 February 2015
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 February 2015
-Original statement
-
-You are here
+In the present case, as the head company of the consolidated group conducts business that is substantially different to the business of the R&D entity prior to the joining time, the head company may not be able to overcome the limitations set out in section 65-40 of the ITAA 1997. Date of decision: 12 December 2013 Year of income: For income years commencing on or after 1 July 2011 Legislative References: Income Tax Assessment Act 1997 section 63-10 section 65-40 Subdivision 165-A section 165-12 section 165-13 Division 355 Division 701 section 701-1 subsection 701-1(1) section 701-5 Keywords Research and development tax offset Consolidation Consolidation - joining Consolidation - continuity of ownership test Consolidation - same business test Siebel/TDMS Reference Number: 1-6AUJBD8 Business Line: Public Groups and International Date of publication: 13 February 2015 ISSN: 1445-2782 history Date: Version: 13 February 2015
+Original statement You are here
 27 May 2016
 Original statement

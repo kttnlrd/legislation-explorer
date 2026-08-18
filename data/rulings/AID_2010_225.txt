@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2010/225
-==================================================
-
-Goods and Services Tax
- GST and provision of a prepaid card facility by an Australian authorised deposit-taking institution
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and provision of a prepaid card facility by an Australian authorised deposit-taking institution FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purposes of item 1 in the table in subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations), is the provision of the prepaid card facility by an entity, an Australian authorised deposit-taking institution (ADI), the provision of an interest in an account made available by the entity in the course of its banking business within the meaning of the Banking Act 1959 (Banking Act)?
 Decision
 Yes, for the purposes of item 1 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 1), the provision of the prepaid card facility by the entity is the provision of an interest in an account made available by an ADI in the course of its banking business within the meaning of the Banking Act.
@@ -29,102 +14,27 @@ The prepaid card facility does not allow value to be loaded onto the facility in
 Cardholders make purchases of goods or services from merchants, by swiping the prepaid card through the merchants' payment system terminals. The prepaid card facility may also be used to make purchases via phone, internet or point of sale from any merchant who accepts this kind of prepaid card.
 The entity maintains an electronic record of issued prepaid card facilities in its computer system. Such records show the initial value of each prepaid card facility, and the balance of the prepaid card facility after the initial value has been debited for transactions between cardholders and merchants. A prepaid card facility's balance recorded by the entity is used for the purposes of authorising future transactions between the cardholder and merchants.
 The cardholder can ascertain the balance of unused value available on the product over the internet, or by calling an information line.
-In addition, the terms and conditions of the prepaid card facilities may vary in the following aspects:
-
-•expiry period;
+In addition, the terms and conditions of the prepaid card facilities may vary in the following aspects: •expiry period;
 •whether the unused value upon expiration of the prepaid card facility is forfeited to the entity;
 •whether the unused value on any lost or stolen prepaid card facilities is forfeited to the entity;
 •the ability of the cardholder to withdraw cash from Automatic Teller Machines (ATMs); and
-•the ability of the cardholder to reload value onto the prepaid card facility.
-
-Reasons for Decision
-Under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), an entity makes a taxable supply if:
-
-a)the supply is for consideration; and
+•the ability of the cardholder to reload value onto the prepaid card facility. Reasons for Decision
+Under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), an entity makes a taxable supply if: a)the supply is for consideration; and
 b)the supply is made in the course or furtherance of an enterprise that the entity carries on; and
 c)the supply is connected with Australia; and
-d)the entity is registered or required to be registered for GST.
-
-However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
+d)the entity is registered or required to be registered for GST. However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
 Subsection 40-5(1) of the GST Act provides that a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides a financial supply has the meaning given by the GST Regulations. Amongst other things, subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition or disposal of an interest mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply.
-Paragraph (a) of Item 1 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 1) refers to an interest in or under an account made available by an Australian ADI in the course of its banking business within the meaning of the Banking Act.
-
-Account
-
-The dictionary to the GST Regulations defines an account as follows:
-
-Account:
-
-(a)means an account mentioned in item 1 in the table in regulation 40-5.09; and
-(b)includes an account in relation to which the account holder (the customer) has the right:
-
-(i)to have the account maintained by the account provider (the provider); and
+Paragraph (a) of Item 1 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 1) refers to an interest in or under an account made available by an Australian ADI in the course of its banking business within the meaning of the Banking Act. Account The dictionary to the GST Regulations defines an account as follows: Account: (a)means an account mentioned in item 1 in the table in regulation 40-5.09; and
+(b)includes an account in relation to which the account holder (the customer) has the right: (i)to have the account maintained by the account provider (the provider); and
 (ii)to repayment of the amount credited to the account by the provider; and
-(iii)to require the provider to act on directions by the customer that are in accordance with the arrangements, or any agreement, between the provider and the customer in relation to operation of the account.
-
-The term 'account' in paragraph (a) of the above definition is not defined further in the GST Regulations.
+(iii)to require the provider to act on directions by the customer that are in accordance with the arrangements, or any agreement, between the provider and the customer in relation to operation of the account. The term 'account' in paragraph (a) of the above definition is not defined further in the GST Regulations.
 In the present case, the entity maintains a formal record of the prepaid card facility in its computer system to track the remaining balance of each prepaid card facility. The record is a running balance that at least shows the unused balance for a given card, and depending on the facility, may also show credit and debit transactions made on the prepaid card facility.
-The term 'account' is considered in paragraphs 202-206 of Goods and Services Tax Ruling GSTR 2002/2 Goods and services tax: GST treatment of financial supplies and related supplies and acquisitions; and paragraphs 51-54 of Goods and Services Tax Ruling GSTR 2004/1 Goods and services tax: reduced credit acquisitions. Consistent with the discussion in those rulings, we conclude the prepaid card facility in this case is an 'account' for the purpose of paragraph (a) of Item 1.
-
-Made available
-
-A cardholder can ascertain the unused balance available on the cardholder's prepaid card facility over the internet, or by calling an information line. Also, the unused balance on a cardholder's facility is what is accessed when the cardholder makes purchases from merchants using a payment system terminal. Accordingly, we consider that the prepaid card facility in this case, can be said to be an account 'made available' to the cardholder for the purposes of Item 1.
-
-Banking business
-
-'Banking business' is defined in subsection 5(1) of the Banking Act as:
-
-a)a business that consists of banking within the meaning of paragraph 51(xiii) of the Constitution; or
-b)a business that is carried on by a corporation to which paragraph 51(xx) of the Constitution applies and that consists, to any extent, of:
-
-I.both taking money on deposit (otherwise than as part-payment for identified goods or services) and making advances of money; or
-II.other financial activities prescribed by the regulations for the purposes of this definition.
-
-The leading High Court authority on the meaning of the term 'banking' is Commissioner State Savings Bank of Victoria v. Permewan Wright & Co Ltd (1914) 19 CLR 457. There, Isaacs J at 470 - 1 described the essential characteristics of the business of banking as:
-
-... the collection of money by receiving deposits on loan, repayable when and as expressly or impliedly agreed upon, and the utilization of the money so collected by lending it again in such sums as are required. These are the essential functions of a bank as an instrument of society. It is, in effect, a financial reservoir receiving streams of currency in every direction, and from which there issue outflowing streams where and as required to sustain and fructify or assist commercial industrial or other enterprises or adventures.
-
-It is considered that the terms and features of the prepaid card facility fall within the characteristics identified by Isaacs J, such that the provision of the facility may be characterised as falling within the entity's business that consists of banking for the purposes of paragraph (a) of the definition of banking business.
-It is also considered that the provision of the prepaid card facility by the entity will satisfy the requirement of paragraph (b) of the definition of banking business. This is because the entity, being a corporation to which paragraph 51(xx) of the Constitution applies, is carrying on a business that consists, to any extent, of both taking money on deposit (otherwise than as part-payment for identified goods or services) and making advances of money.
-
-Conclusion
-
-We therefore consider that the prepaid card facility is an account made available in the course of the entity's banking business within the meaning of the Banking Act. Therefore, for the purposes of Item 1, the provision of the prepaid card facility by the entity is a provision of an interest in an account made available by an ADI in the course of its banking business within the meaning of the Banking Act.
-Date of decision:
-  3 December 2010
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 40-5(1)   subsection 40-5(2)
-A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 1   subregulation 40-5.09(4)
-Banking Act 1959   subsection 5(1)
-Commonwealth of Australia Constitution Act 1901 (the Constitution)   section 51 paragraph (xx)   section 51 paragraph (xiii)
-
-Case References:
-
-Commissioners of the State Savings Bank of Victoria v Permewan Wright & Co Ltd   (1914) 19 CLR 457
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2002/2
-Goods and Services Tax Ruling GSTR 2004/1
-
-Keywords
-
-Goods and services tax
- Taxable supply
- GST consideration
- GST financial supplies
- Accounts
-
-Siebel/TDMS Reference Number:
-  1-1V4UNC0
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  10 December 2010
-
-ISSN:
- 1445-2782
+The term 'account' is considered in paragraphs 202-206 of Goods and Services Tax Ruling GSTR 2002/2 Goods and services tax: GST treatment of financial supplies and related supplies and acquisitions; and paragraphs 51-54 of Goods and Services Tax Ruling GSTR 2004/1 Goods and services tax: reduced credit acquisitions. Consistent with the discussion in those rulings, we conclude the prepaid card facility in this case is an 'account' for the purpose of paragraph (a) of Item 1. Made available A cardholder can ascertain the unused balance available on the cardholder's prepaid card facility over the internet, or by calling an information line. Also, the unused balance on a cardholder's facility is what is accessed when the cardholder makes purchases from merchants using a payment system terminal. Accordingly, we consider that the prepaid card facility in this case, can be said to be an account 'made available' to the cardholder for the purposes of Item 1. Banking business 'Banking business' is defined in subsection 5(1) of the Banking Act as: a)a business that consists of banking within the meaning of paragraph 51(xiii) of the Constitution; or
+b)a business that is carried on by a corporation to which paragraph 51(xx) of the Constitution applies and that consists, to any extent, of: I.both taking money on deposit (otherwise than as part-payment for identified goods or services) and making advances of money; or
+II.other financial activities prescribed by the regulations for the purposes of this definition. The leading High Court authority on the meaning of the term 'banking' is Commissioner State Savings Bank of Victoria v. Permewan Wright & Co Ltd (1914) 19 CLR 457. There, Isaacs J at 470 - 1 described the essential characteristics of the business of banking as: ... the collection of money by receiving deposits on loan, repayable when and as expressly or impliedly agreed upon, and the utilization of the money so collected by lending it again in such sums as are required. These are the essential functions of a bank as an instrument of society. It is, in effect, a financial reservoir receiving streams of currency in every direction, and from which there issue outflowing streams where and as required to sustain and fructify or assist commercial industrial or other enterprises or adventures. It is considered that the terms and features of the prepaid card facility fall within the characteristics identified by Isaacs J, such that the provision of the facility may be characterised as falling within the entity's business that consists of banking for the purposes of paragraph (a) of the definition of banking business.
+It is also considered that the provision of the prepaid card facility by the entity will satisfy the requirement of paragraph (b) of the definition of banking business. This is because the entity, being a corporation to which paragraph 51(xx) of the Constitution applies, is carrying on a business that consists, to any extent, of both taking money on deposit (otherwise than as part-payment for identified goods or services) and making advances of money. Conclusion We therefore consider that the prepaid card facility is an account made available in the course of the entity's banking business within the meaning of the Banking Act. Therefore, for the purposes of Item 1, the provision of the prepaid card facility by the entity is a provision of an interest in an account made available by an ADI in the course of its banking business within the meaning of the Banking Act.
+Date of decision: 3 December 2010 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 40-5(1) subsection 40-5(2)
+A New Tax System (Goods and Services Tax) Regulations 1999 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 1 subregulation 40-5.09(4)
+Banking Act 1959 subsection 5(1)
+Commonwealth of Australia Constitution Act 1901 (the Constitution) section 51 paragraph (xx) section 51 paragraph (xiii) Case References: Commissioners of the State Savings Bank of Victoria v Permewan Wright & Co Ltd (1914) 19 CLR 457 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2002/2
+Goods and Services Tax Ruling GSTR 2004/1 Keywords Goods and services tax Taxable supply GST consideration GST financial supplies Accounts Siebel/TDMS Reference Number: 1-1V4UNC0 Business Line: Indirect Tax Date of publication: 10 December 2010 ISSN: 1445-2782

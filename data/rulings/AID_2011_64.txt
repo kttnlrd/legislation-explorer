@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/64
-==================================================
-
-Superannuation
- Superannuation Benefits: public sector superannuation scheme superannuation lump sum element untaxed in the fund
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Superannuation Benefits: public sector superannuation scheme superannuation lump sum element untaxed in the fund FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the element untaxed in the fund of a superannuation lump sum benefit paid to a member of a public sector superannuation scheme be reduced if the member makes an undeducted personal contribution to the scheme before the lump sum benefit is paid?
 Decision
 No. The contribution will not reduce the element untaxed in the fund of the superannuation lump sum benefit paid to the member.
@@ -29,111 +16,26 @@ Where certain conditions are met, section 307-150 of the ITAA 1997 modifies the 
 Subsection 307-200(1) of the ITAA 1997 provides that, in the circumstances specified in the Income Tax Assessment Regulations 1997 (ITAR 1997), a superannuation interest is to be treated as two or more interests in the way specified in the ITAR 1997.
 Subsection 307-200(3) of the ITAA 1997 provides that the ITAR 1997 may also specify a way of treating a superannuation interest in relation to the element taxed in the fund and the element untaxed in the fund. Subsection 307-200(4) of the ITAA 1997 states the ITAR 1997 may also specify a way of allocating an amount relating to a superannuation interest that is treated as two or more interests.
 Regulation 307-200.03 of the ITAR 1997 provides when an interest in a public sector superannuation scheme is to be treated as two or more superannuation interests.
-Paragraph 307-200.03(2)(a) of the ITAR 1997 provides that if the superannuation benefit to be paid is sourced partly from contributions made to a public sector superannuation scheme or earnings on those contributions and partly from one or more other sources the interest is to be treated as two superannuation interests - the 'two interest rule'. Subregulation 307-200.03(3) of the ITAR 1997 provides that the two superannuation interests are:
-
-•a 'contributions interest' consisting of contributions made to the scheme and earnings on those contributions; and
-•a 'remainder interest' consisting solely of the remaining amount from the other source.
-
-As a result, for the purposes of Division 307 of the ITAA 1997, each benefit paid from the scheme is taken to be paid from the two separate interests. Further, if a superannuation lump sum is paid from an interest that is treated as two interests for the purposes of Division 307 of the ITAA 1997, the payment must be treated as the payment of two superannuation lump sums.
-The Explanatory Statement (ES) to Income Tax Assessment Regulations 2007 (No.2) (SLI No.90 of 2007) which inserted regulation 307-200.03 into the ITAR 1997 confirms this division of one superannuation interest into two interests. It further demonstrates that in splitting the interest into two interests, the intention is also to allocate the tax free component and the element taxed into one interest, and the element untaxed into another interest. It states:
-
-...where a contributor has a superannuation interest that includes a tax free component and a taxable component that consists of an element taxed in the fund and an element untaxed in the fund, the tax free component and the element taxed in the fund is treated as one superannuation interest. The element untaxed in the fund is treated as a separate, second, superannuation interest.
-
-Section 307-210 of the ITAA 1997 provides, consistent with the purpose of the 'two interest rule' as explained in the ES to SLI No.90 of 2007, the 'contributions interest' will comprise a tax free component consisting of a contributions segment and possibly a crystallised segment. Section 307-215 of the ITAA 1997 provides the taxable component is the difference between the value of the 'contributions interest' and the tax free component of the 'contributions interest'. The taxable component of the 'contributions interest' consists solely of element taxed in the fund.
+Paragraph 307-200.03(2)(a) of the ITAR 1997 provides that if the superannuation benefit to be paid is sourced partly from contributions made to a public sector superannuation scheme or earnings on those contributions and partly from one or more other sources the interest is to be treated as two superannuation interests - the 'two interest rule'. Subregulation 307-200.03(3) of the ITAR 1997 provides that the two superannuation interests are: •a 'contributions interest' consisting of contributions made to the scheme and earnings on those contributions; and
+•a 'remainder interest' consisting solely of the remaining amount from the other source. As a result, for the purposes of Division 307 of the ITAA 1997, each benefit paid from the scheme is taken to be paid from the two separate interests. Further, if a superannuation lump sum is paid from an interest that is treated as two interests for the purposes of Division 307 of the ITAA 1997, the payment must be treated as the payment of two superannuation lump sums.
+The Explanatory Statement (ES) to Income Tax Assessment Regulations 2007 (No.2) (SLI No.90 of 2007) which inserted regulation 307-200.03 into the ITAR 1997 confirms this division of one superannuation interest into two interests. It further demonstrates that in splitting the interest into two interests, the intention is also to allocate the tax free component and the element taxed into one interest, and the element untaxed into another interest. It states: ...where a contributor has a superannuation interest that includes a tax free component and a taxable component that consists of an element taxed in the fund and an element untaxed in the fund, the tax free component and the element taxed in the fund is treated as one superannuation interest. The element untaxed in the fund is treated as a separate, second, superannuation interest. Section 307-210 of the ITAA 1997 provides, consistent with the purpose of the 'two interest rule' as explained in the ES to SLI No.90 of 2007, the 'contributions interest' will comprise a tax free component consisting of a contributions segment and possibly a crystallised segment. Section 307-215 of the ITAA 1997 provides the taxable component is the difference between the value of the 'contributions interest' and the tax free component of the 'contributions interest'. The taxable component of the 'contributions interest' consists solely of element taxed in the fund.
 As the 'remainder interest' in the public sector superannuation scheme is fully unfunded (no 'last minute contributions' were made to the scheme) section 307-210 of the ITAA 1997 ensures it contains no contributions segment. Further, subsection 307-225(3) of the ITAA 1997 ensures the remainder interest can have no crystallised segment. Hence, the 'remainder interest' has no tax free component prior to the possible application of section 307-150 of the ITAA 1997.
 Under section 307-215 of the ITAA 1997, the full value of the 'remainder interest' is taxable component. Consistent with the intent of the 'two interest rule', the taxable component of the 'remainder interest' comprises entirely untaxed element as it contains no amounts that have been contributed to the scheme and, specifically, no amounts that have been included in the taxable income of the fund within the scheme.
-Therefore, before making any further contribution, the member's interests in the public sector superannuation scheme are:
-
-•a 'contributions interest' of $25,000 - tax free component $20,000 and taxable component of $5,000 (all element taxed in the fund); and
-•a 'remainder interest' of $75,000 - taxable component $75,000 (all element untaxed in the fund).
-
-For the purposes of Division 307 of the ITAA 1997 a payment from the scheme would consist of two superannuation lump sum payments.
-Section 307-150 of the ITAA 1997 can only apply to the superannuation lump sum paid from the 'remainder interest' as that is the only interest that includes an element untaxed in the fund. The amount calculated under subsection 307-150(4) of the ITAA 1997 is:
-
-Original tax free component and untaxed element * [Number of days in the service period for the lump sum that occurred before 1 July 1983 / Number of days in the service period for the lump sum]
-
-0 + $75,000 * [6 years* /30 years] = $15,000
-
-* Note: Years have been used instead of days for the sake of simplicity.
+Therefore, before making any further contribution, the member's interests in the public sector superannuation scheme are: •a 'contributions interest' of $25,000 - tax free component $20,000 and taxable component of $5,000 (all element taxed in the fund); and
+•a 'remainder interest' of $75,000 - taxable component $75,000 (all element untaxed in the fund). For the purposes of Division 307 of the ITAA 1997 a payment from the scheme would consist of two superannuation lump sum payments.
+Section 307-150 of the ITAA 1997 can only apply to the superannuation lump sum paid from the 'remainder interest' as that is the only interest that includes an element untaxed in the fund. The amount calculated under subsection 307-150(4) of the ITAA 1997 is: Original tax free component and untaxed element * [Number of days in the service period for the lump sum that occurred before 1 July 1983 / Number of days in the service period for the lump sum] 0 + $75,000 * [6 years* /30 years] = $15,000 * Note: Years have been used instead of days for the sake of simplicity.
 Subsection 307-150(3) of the ITAA 1997 requires the tax free component of the superannuation lump sum paid from the 'remainder interest' to be increased by $15,000 and the element untaxed in the fund to be reduced by $15,000.
-As a result the following superannuation lump sum payments would be made:
-
-•$25,000 from the 'contributions interest' - tax free component $20,000 and taxable component $5,000 (all element taxed in the fund); and
-•$75,000 from the 'remainder interest' - tax free component $15,000 and taxable component $60,000 (all element untaxed in the fund).
-
-However, if the member makes the $20,000 undeducted personal contribution before any benefit is paid, the interests would be:
-
-•'contributions interest' of $45,000 - tax free component $40,000 (original $20,000 plus $20,000 undeducted personal contribution) and taxable component $5,000 (all element taxed in the fund); and
-•'remainder interest' of $75,000 - taxable component $75,000 (all element untaxed in the fund).
-
-Section 307-150 of the ITAA 1997 only applies to the superannuation lump sum paid from the 'remainder interest'. As the 'remainder interest' has not changed the amount calculated under subsection 307-150(4) of the ITAA 1997 remains $15,000 and the following superannuation lump sum payments would be:
-
-•$45,000 from the 'contributions interest' - tax free component $40,000 and taxable component $5,000 (all element taxed in the fund); and
-•$75,000 from the 'remainder interest' - tax free component $15,000 and taxable component $60,000 (all element untaxed in the fund).
-
-The contribution has no effect on the calculation of the element untaxed in the fund.
-Amendment History
-
-Date of Amendment
+As a result the following superannuation lump sum payments would be made: •$25,000 from the 'contributions interest' - tax free component $20,000 and taxable component $5,000 (all element taxed in the fund); and
+•$75,000 from the 'remainder interest' - tax free component $15,000 and taxable component $60,000 (all element untaxed in the fund). However, if the member makes the $20,000 undeducted personal contribution before any benefit is paid, the interests would be: •'contributions interest' of $45,000 - tax free component $40,000 (original $20,000 plus $20,000 undeducted personal contribution) and taxable component $5,000 (all element taxed in the fund); and
+•'remainder interest' of $75,000 - taxable component $75,000 (all element untaxed in the fund). Section 307-150 of the ITAA 1997 only applies to the superannuation lump sum paid from the 'remainder interest'. As the 'remainder interest' has not changed the amount calculated under subsection 307-150(4) of the ITAA 1997 remains $15,000 and the following superannuation lump sum payments would be: •$45,000 from the 'contributions interest' - tax free component $40,000 and taxable component $5,000 (all element taxed in the fund); and
+•$75,000 from the 'remainder interest' - tax free component $15,000 and taxable component $60,000 (all element untaxed in the fund). The contribution has no effect on the calculation of the element untaxed in the fund.
+Amendment History Date of Amendment
 Part
-Comment
-
-17 April 2015
+Comment 17 April 2015
 Reason for Decision
-Clarification of separation under 'two interest rule'
-
-Legislative References
-Corrected references to section 307-215 and subsection 307-225(3) of the ITAA 1997
-
-Date of decision:
-  :
-
-Year of income:
-  30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 307-125   section 307-150   subsection 307-150(3)   subsection 307-150(4)   subsection 307-200(1)   subsection 307-200(3)   subsection 307-200(4)   section 307-210   section 307-215   subsection 307-225(3)
-Income Tax Assessment Regulation 1997   regulation 307-200.03   paragraph 307-200.03(2)(a)   subregulation 307-200.03(3)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/145
-
-Other References:
-
- Explanatory Statement to Income Tax Assessment Regulations 2007 (No. 2) (SLI No.90 of 2007)
-
-Keywords
-
-Taxable component of superannuation benefits
- Element taxed in the fund
- Element untaxed in the fund
-
-Siebel/TDMS Reference Number:
-  1-33FR4JB
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  19 August 2011
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 August 2011
-Original statement
-
-You are here
+Clarification of separation under 'two interest rule' Legislative References
+Corrected references to section 307-215 and subsection 307-225(3) of the ITAA 1997 Date of decision: : Year of income: 30 June 2011 Legislative References: Income Tax Assessment Act 1997 section 307-125 section 307-150 subsection 307-150(3) subsection 307-150(4) subsection 307-200(1) subsection 307-200(3) subsection 307-200(4) section 307-210 section 307-215 subsection 307-225(3)
+Income Tax Assessment Regulation 1997 regulation 307-200.03 paragraph 307-200.03(2)(a) subregulation 307-200.03(3) Related ATO Interpretative Decisions ATO ID 2009/145 Other References: Explanatory Statement to Income Tax Assessment Regulations 2007 (No. 2) (SLI No.90 of 2007) Keywords Taxable component of superannuation benefits Element taxed in the fund Element untaxed in the fund Siebel/TDMS Reference Number: 1-33FR4JB Business Line: Superannuation Date of publication: 19 August 2011 ISSN: 1445-2782 history Date: Version: 19 August 2011
+Original statement You are here
 17 April 2015
 Updated statement

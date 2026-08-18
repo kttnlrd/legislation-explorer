@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/446
-==================================================
-
-Goods and Services Tax
- GST and food and/or drinks provided for no charge to an employee in respect of their employment
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and food and/or drinks provided for no charge to an employee in respect of their employment FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When food and/or drinks are supplied to an employee (or an associate of the employee) by the entity, an employer, for no charge, is the amount of goods and services tax (GST) on that supply calculated to be zero in accordance with section 9-70 of the New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
 Decision
 Yes, when food and/or drinks are supplied to an employee (or an associate of the employee) by the entity, for no charge, the amount of GST on that supply is calculated to be zero in accordance with section 9-70 of the GST Act.
@@ -27,44 +16,13 @@ Section 9-70 of the GST Act provides that the amount of GST on a taxable supply 
 Subsection 9-75(1) of the GST Act provides that the value of a taxable supply is the price x 10/11 and if the consideration for the supply is not expressed as an amount of money, or not only in money, the price of the supply is the sum of the amount of money, if any, and the GST inclusive market value of the consideration where the consideration is not expressed as an amount of money.
 The consideration provided for the entity's taxable supply of food and/or drinks is the employee's services and as such, the consideration is not expressed as an amount of money. Therefore, the price for the supply is the GST inclusive market value of the employee's services.
 However, the supply of food and/or drinks is a fringe benefit for the purposes of the GST Act and the way the value of a supply of a fringe benefit is worked out is different than for other supplies.
-Subsection 9-75(3) of the GST Act provides that, in working out the value of a supply where:
-
-•the consideration for the supply is not expressed as an amount of money, and
-•the supply is not a car fringe benefit
-
-the price of the supply is the amount of consideration in the form of the recipients contribution made in the relevant tax period.
+Subsection 9-75(3) of the GST Act provides that, in working out the value of a supply where: •the consideration for the supply is not expressed as an amount of money, and
+•the supply is not a car fringe benefit the price of the supply is the amount of consideration in the form of the recipients contribution made in the relevant tax period.
 As such, in working out the value of the entity's taxable supplies of food and/or drinks, the price of the supply of the fringe benefit is limited to the amount of the recipients contribution.
 The term 'recipients contribution' is defined in section 195-1 of the GST Act to have the meaning given by subsection 136(1) of the FBTAA, but includes any consideration paid in respect of a benefit that is an exempt benefit for the purposes of that Act. Under subsection 136(1) of the FBTAA, the term 'recipients contribution' is defined in relation to a fringe benefit, other than an expense payment fringe benefit, to mean the amount of any consideration paid to the provider or to the employer by the recipient of the benefit or the employee in respect of the provision of the recipient's property reduced by any reimbursement paid to the recipient in respect of that consideration.
 The above definitions mean that the application of subsection 136(1) of the FBTAA 1986 and section 195-1 of the GST Act is such that, regardless of whether or not the supply is an exempt benefit under the FBTAA, the recipients contribution is limited to any consideration paid to the entity in respect of the provision of the food and/or drinks.
 The entity provides the food and/or drinks to the employee (or an associate of the employee) for no charge. The consideration provided for the entity's supply is the employee's services. As there is no charge for the food and/or drinks, the employee (or an associate of the employee) has not made any contribution towards the cost of the food and/or drinks.
 As the price of the entity's taxable supplies of food and/or drinks is limited to the amount of the recipients contribution and the employee (or an associate of the employee) has not made any contribution, the value of the entity's taxable supplies of food and/or drinks is zero.
 Therefore, when food and/or drinks are supplied to an employee (or an associate of the employee) by the entity, for no charge, the amount of GST on that supply is calculated to be zero in accordance with section 9-70 of the GST Act.
-Date of decision:
-  4 March 2004
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 9-70   subsection 9-75(1)   subsection 9-75(3)   section 195-1
-Fringe Benefits Tax Assessment Act 1986   section 40   subsection 136(1)
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2001/3
-
-Keywords
-
-Goods and services tax
- GST consideration
- GST/FBT interaction
-
-Siebel/TDMS Reference Number:
-  3931795
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  4 June 2004
-
-ISSN:
- 1445-2782
+Date of decision: 4 March 2004 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 9-70 subsection 9-75(1) subsection 9-75(3) section 195-1
+Fringe Benefits Tax Assessment Act 1986 section 40 subsection 136(1) Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2001/3 Keywords Goods and services tax GST consideration GST/FBT interaction Siebel/TDMS Reference Number: 3931795 Business Line: Indirect Tax Date of publication: 4 June 2004 ISSN: 1445-2782

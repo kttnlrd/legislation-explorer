@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/182
-==================================================
-
-Income Tax
- Individual Retirement Accounts and Foreign Investment Fund measures
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-10 income year.Several provisions referred to in this ATO ID were also changed by the Superannuation Legislation Amendment (Simplification) Act 2007 with effect from and including the 2007-2008 income year. However these amendments do not change the answer to the issue raised in this ATO ID.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Individual Retirement Accounts and Foreign Investment Fund measures FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-10 income year.Several provisions referred to in this ATO ID were also changed by the Superannuation Legislation Amendment (Simplification) Act 2007 with effect from and including the 2007-2008 income year. However these amendments do not change the answer to the issue raised in this ATO ID. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does an interest held by an Australian resident taxpayer in an individual retirement account (IRA) set up in the United States of America (US), qualify as 'an interest in a foreign investment fund (FIF) that is a foreign trust' for the purposes of section 483 of Part XI of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. An interest held by an Australian resident taxpayer in a US IRA will qualify as 'an interest in a FIF that is a foreign trust' for the purposes of section 483 of Part XI of the ITAA 1936.
@@ -32,62 +17,29 @@ The year of income in question is the 1992-93 year of income or a later year of 
 The individual is a Part XI Australian resident (as defined in section 470 of the ITAA 1936) at any time during the year of income.
 Reasons for Decision
 The FIF measures are contained in Part XI of the ITAA 1936 and generally apply to Australian residents who have an interest or interests in a FIF at the end of a year of income.
-In particular, subsection 485(3) of Part XI of the ITAA 1936 provides that the operative provision section 529 of the ITAA 1936 will apply to include an amount of FIF income in a taxpayer's assessable income where all of the following apply:
-
-•the taxpayer had an interest or interests in a FIF at the end of a year of income
+In particular, subsection 485(3) of Part XI of the ITAA 1936 provides that the operative provision section 529 of the ITAA 1936 will apply to include an amount of FIF income in a taxpayer's assessable income where all of the following apply: •the taxpayer had an interest or interests in a FIF at the end of a year of income
 •the year of income is 1992-1993 or a later year of income, and
-•the taxpayer was a Part XI Australian resident at any time in that year of income.
-
-As the year of income is later than 1992-1993 and the individual taxpayer is a Part XI Australian resident, the only necessary consideration in this case is whether the individual taxpayer had an interest in a FIF at the end of the year of income.
+•the taxpayer was a Part XI Australian resident at any time in that year of income. As the year of income is later than 1992-1993 and the individual taxpayer is a Part XI Australian resident, the only necessary consideration in this case is whether the individual taxpayer had an interest in a FIF at the end of the year of income.
 To determine whether a taxpayer has an interest in a FIF, it is first necessary to establish whether a FIF exists.
-According to subsection 481(1) of the ITAA 1936, an entity is a FIF at a particular time if, at that time, the entity is a 'foreign company' or a 'foreign trust'.
-
-Note that 'entity' is defined in section 470 of the ITAA 1936 to mean any of the following:
-
-(a)a company
+According to subsection 481(1) of the ITAA 1936, an entity is a FIF at a particular time if, at that time, the entity is a 'foreign company' or a 'foreign trust'. Note that 'entity' is defined in section 470 of the ITAA 1936 to mean any of the following: (a)a company
 (b)a partnership
 (c)a person in the capacity of trustee
-(d)any other person.
-
-As noted above, the IRA established for the individual taxpayer is not a 'foreign company' as defined in subsection 481(2) of the ITAA 1936. However, the IRA arrangement may qualify as a 'foreign trust' as defined in subsection 481(3) of the ITAA 1936.
+(d)any other person. As noted above, the IRA established for the individual taxpayer is not a 'foreign company' as defined in subsection 481(2) of the ITAA 1936. However, the IRA arrangement may qualify as a 'foreign trust' as defined in subsection 481(3) of the ITAA 1936.
 A 'foreign trust' is defined in subsection 481(3) of the ITAA 1936 accordingly:
-A
- trust
- is a
- foreign trust
- at a particular time if:
-
-(a)at that time the trust is neither an Australian trust, nor a resident Part IX entity; and
+A trust is a foreign trust at a particular time if: (a)at that time the trust is neither an Australian trust, nor a resident Part IX entity; and
 (b)the trust did not result from:
 (i)a will, a codicil or an order of a court that varied or modified the provisions of a will or a codicil, or
-(ii)an intestacy or an order of a court that varied or modified the application, in relation to the estate of a deceased person, of the provisions of the law relating to the distribution of the estates of persons who die intestate. (Emphasis added)
-
-The first requirement in the definition is that there is a 'trust'.
-A 'trust' is defined in section 470 of the ITAA 1936 for the purposes of Part XI of the ITAA 1936 to mean:
-
-(a)an entity in the capacity of trustee (including an entity that is taken to be a trustee because of section 268); or
-(b)as the case requires, a trust or a trust estate.
-
-Section 268 of Part IX of the ITAA 1936 provides that:
+(ii)an intestacy or an order of a court that varied or modified the application, in relation to the estate of a deceased person, of the provisions of the law relating to the distribution of the estates of persons who die intestate. (Emphasis added) The first requirement in the definition is that there is a 'trust'.
+A 'trust' is defined in section 470 of the ITAA 1936 for the purposes of Part XI of the ITAA 1936 to mean: (a)an entity in the capacity of trustee (including an entity that is taken to be a trustee because of section 268); or
+(b)as the case requires, a trust or a trust estate. Section 268 of Part IX of the ITAA 1936 provides that:
 Where, apart from this section, there is in relation to a fund no person who is a trustee of the fund for the purposes of this Part, the person, or each of the persons, who manages the fund shall be taken, for the purposes of this Part, to be the trustee, or a trustee, as the case requires, of the fund.
 In considering whether the IRA is a 'trust', consideration must be given as to whether the custodian is 'an entity in the capacity of trustee'. For the custodian to be 'an entity in the capacity of trustee' it is necessary for it to come within the definition of 'trustee' and it must also be established that a trust relationship exists between the custodian and the individual taxpayer.
-'Trustee' is defined in subsection 6(1) of the ITAA 1936 as follows:
-
-trustee
- in addition to every person appointed or constituted trustee by act of parties, by order, or declaration of a court, or by operation of law, includes:
-
-(a)an executor or administrator, guardian, committee, receiver, or liquidator; and
-(b)every person having or taking upon himself the administration or control of income affected by any express or implied trust, or acting in any fiduciary capacity, or having the possession, control or management of the income of a person under any legal or other disability.
-
-'Trustee' is also defined in section 470 of the ITAA 1936, in relation to a fund that has no trustee, to mean 'a person who is a trustee of the fund for the purposes of Part IX'.
-French J in Harmer & Ors v. FC of T 89 ATC 5180; (1989) 20 ATR 1461 (Harmer) stated that a trust 'is notably a definition of a relationship by reference to obligations'. He went on to state that the four essential elements of a trust are:
-
-1.the trustee who holds a legal or equitable interest in the trust property
+'Trustee' is defined in subsection 6(1) of the ITAA 1936 as follows: trustee in addition to every person appointed or constituted trustee by act of parties, by order, or declaration of a court, or by operation of law, includes: (a)an executor or administrator, guardian, committee, receiver, or liquidator; and
+(b)every person having or taking upon himself the administration or control of income affected by any express or implied trust, or acting in any fiduciary capacity, or having the possession, control or management of the income of a person under any legal or other disability. 'Trustee' is also defined in section 470 of the ITAA 1936, in relation to a fund that has no trustee, to mean 'a person who is a trustee of the fund for the purposes of Part IX'.
+French J in Harmer & Ors v. FC of T 89 ATC 5180; (1989) 20 ATR 1461 (Harmer) stated that a trust 'is notably a definition of a relationship by reference to obligations'. He went on to state that the four essential elements of a trust are: 1.the trustee who holds a legal or equitable interest in the trust property
 2.the trust property which must be property capable of being held on trust and which includes a chose in action
 3.one or more beneficiaries other than the trustee; and
-4.a personal obligation on the trustee to deal with the trust property for the benefit of the beneficiaries, which obligation is also annexed to the property.
-
-In the present case, the IRA is an agreement between the individual taxpayer and the custodian for the custodian to hold and invest certain property for the benefit of the taxpayer and his/her nominated beneficiaries.
+4.a personal obligation on the trustee to deal with the trust property for the benefit of the beneficiaries, which obligation is also annexed to the property. In the present case, the IRA is an agreement between the individual taxpayer and the custodian for the custodian to hold and invest certain property for the benefit of the taxpayer and his/her nominated beneficiaries.
 The custodian has legal ownership and possession of the relevant property. The terms of the agreement impose on the custodian a personal obligation to deal with the relevant property for the benefit of the individual and his/her nominated beneficiaries. Therefore, the custodian is a 'trustee' in relation to the relevant property.
 The relevant property consists of the contributions made by the individual taxpayer to the IRA (plus profits) and constitutes the 'trust property', because of the obligation owed by the custodian to the individual taxpayer in relation to that property. The individual is a 'trust beneficiary', as it is for the individual's benefit that the trust property is held. The nominated beneficiaries of the individual are another class of potential trust beneficiaries.
 Having regard to the relationship between the custodian and the individual taxpayer under the agreement, there is an express intention that the custodian holds the property, not exclusively for itself, but subject to an equitable 'obligation'. Therefore, the relationship constitutes an express trust.
@@ -98,59 +50,8 @@ Having established that there is a trustee and a trust, the next requirement is 
 The IRA arrangement does not satisfy the definition of 'Australian trust' in section 473 of the ITAA 1936, neither does it satisfy the definition of 'resident Part IX entity' in section 477 of the ITAA 1936.
 The US IRA is a US trust, it is not a resident Part IX entity; and it did not result from any of the means described in paragraph 481(3)(b) of the ITAA 1936 (that is, such as resulting from a will or codicil, or an order of a court that varied or modified the provisions of a will or a codicil).
 Accordingly, the US IRA qualifies as a 'foreign trust' and therefore a FIF at the end of the year of income under subsection 481(3) of the ITAA 1936. All that now needs to be determined is whether the individual taxpayer has an 'interest' in the FIF that is the foreign trust.
-'An interest in a FIF that is a foreign trust' is defined in subsection 483(2) of the ITAA 1936 as:
-
-(a)an interest in the corpus or income of the trust (including, in the case of a unit trust, an interest constituted by a unit in the unit trust); or
-(b)an option, convertible note, or other instrument, that confers an entitlement to acquire an interest referred to in paragraph (a).
-
-The individual taxpayer has an interest in the corpus and income of the US IRA trust. As the trust created by the US IRA is 'a FIF that is a foreign trust', and the individual taxpayer has an interest in the corpus or income of that trust, then the individual taxpayer has 'an interest in a FIF that is a foreign trust' for the purposes of subsection 483(2) of the ITAA 1936.
-Date of decision:
-  23 August 2007
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 268   section 470   section 473   section 477   subsection 481(1)   subsection 481(2)   subsection 481(3)   section 483   subsection 483(1)   subsection 483(2)   subsection 485(1)   subsection 485(3)   section 529
-
-Case References:
-
-Harmer & Ors v. FC of T   89 ATC 5180   20 ATR 1461
-
-Related ATO Interpretative Decisions
-
- ATOID 2003/1188
-
-Keywords
-
-Entities and taxpayer groups
- Foreign investment fund measures
- International tax
- Trustees
- Trusts
-
-Business Line:
-  International Centre of Expertise
-
-Date of publication:
-  21 September 2007
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 August 2007
-Original statement
-
-You are here
- 4 March 2011
+'An interest in a FIF that is a foreign trust' is defined in subsection 483(2) of the ITAA 1936 as: (a)an interest in the corpus or income of the trust (including, in the case of a unit trust, an interest constituted by a unit in the unit trust); or
+(b)an option, convertible note, or other instrument, that confers an entitlement to acquire an interest referred to in paragraph (a). The individual taxpayer has an interest in the corpus and income of the US IRA trust. As the trust created by the US IRA is 'a FIF that is a foreign trust', and the individual taxpayer has an interest in the corpus or income of that trust, then the individual taxpayer has 'an interest in a FIF that is a foreign trust' for the purposes of subsection 483(2) of the ITAA 1936.
+Date of decision: 23 August 2007 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 268 section 470 section 473 section 477 subsection 481(1) subsection 481(2) subsection 481(3) section 483 subsection 483(1) subsection 483(2) subsection 485(1) subsection 485(3) section 529 Case References: Harmer & Ors v. FC of T 89 ATC 5180 20 ATR 1461 Related ATO Interpretative Decisions ATOID 2003/1188 Keywords Entities and taxpayer groups Foreign investment fund measures International tax Trustees Trusts Business Line: International Centre of Expertise Date of publication: 21 September 2007 ISSN: 1445-2782 history Date: Version: 23 August 2007
+Original statement You are here 4 March 2011
 Archived

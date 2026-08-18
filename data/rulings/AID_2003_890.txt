@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/890
-==================================================
-
-Income Tax
- Direct value shifting: shares issued at a premium
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Direct value shifting: shares issued at a premium FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do the direct value shifting provisions in Division 725 of the Income Tax Assessment Act 1997 (ITAA 1997) apply to the issue of new shares at a premium to market value?
 Decision
 No. The direct value shifting provisions in Division 725 of the ITAA 1997 do not apply to the issue of new shares at a premium to market value because no interests in the company have decreased in value.
@@ -20,42 +9,7 @@ Facts
 A company has two shareholders B and C. At 30 June 2002 each shareholder owned 50% of the issued shares in the company. After 30 June 2002, the company entered into an arrangement in which shares were issued at a premium to market value to shareholder B.
 Reasons for Decision
 Where a direct value shift (DVS) occurs that has consequences under Division 725 of the ITAA 1997, the rules in the Division apply to modify the adjustable values of affected interests to take account of material changes in market value that are attributable to the DVS. The rules in Division 725 may also generate a capital gain on those interests that have decreased in market value as a result of the DVS.
-Division 725 of the ITAA 1997 can only apply to a scheme if there is a DVS as defined under section 725-145 of the ITAA 1997. A DVS will occur when:
-
-•there is a decrease in the market value of one or more equity interests in a company and either:
-
-• equity interests in the company are issued at a discount to market value; or
-• there is an increase in the market value of one or more equity interests in the company; and
-
-•the changes in market value and the issue of equity interests are reasonably attributable to things done under the scheme.
-
-The company has raised additional capital by issuing shares at a premium to market value to shareholder B. This has increased the market value of both shareholders' existing shares. The market value of the newly-issued shares at all times was the same as the market value of the other shares in the company and has not decreased.
+Division 725 of the ITAA 1997 can only apply to a scheme if there is a DVS as defined under section 725-145 of the ITAA 1997. A DVS will occur when: •there is a decrease in the market value of one or more equity interests in a company and either: • equity interests in the company are issued at a discount to market value; or
+• there is an increase in the market value of one or more equity interests in the company; and •the changes in market value and the issue of equity interests are reasonably attributable to things done under the scheme. The company has raised additional capital by issuing shares at a premium to market value to shareholder B. This has increased the market value of both shareholders' existing shares. The market value of the newly-issued shares at all times was the same as the market value of the other shares in the company and has not decreased.
 Therefore, a DVS has not occurred under section 725-145 of the ITAA 1997 because there has not been a decrease in the market value of any interests in the company. The issue of shares at a premium to market value is not subject to the consequences in Division 725 of the ITAA 1997.
-Date of decision:
-  17 September 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 725   section 725-145
-
-Keywords
-
-Capital gains tax
- CGT assets
- CGT share value shifting arrangements
- Share premiums
-
-Siebel/TDMS Reference Number:
-  3663244
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  3 October 2003
-
-ISSN:
- 1445-2782
+Date of decision: 17 September 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Division 725 section 725-145 Keywords Capital gains tax CGT assets CGT share value shifting arrangements Share premiums Siebel/TDMS Reference Number: 3663244 Business Line: Public Groups and International Date of publication: 3 October 2003 ISSN: 1445-2782

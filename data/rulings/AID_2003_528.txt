@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/528
-==================================================
-
-Income Tax
- Debt and Equity Financing: rate of withholding tax on a return on a debt interest under Division 974
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Debt and Equity Financing: rate of withholding tax on a return on a debt interest under Division 974 FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, a non-resident company, liable for withholding tax on Australian-sourced dividends at a rate of 10% if the dividends constitute a return on a debt interest?
 Decision
 Yes. The taxpayer is liable for withholding tax at a rate of 10%, on Australian-sourced dividends that constitute a return on a debt interest.
@@ -28,39 +15,6 @@ For the purposes of Division 11A of the ITAA 1936, 'interest' is defined to incl
 The term 'non-equity share' is defined as a share that is not an equity interest in the company. As the RPS issued by the resident company constitute a debt interest under Division 974 of the ITAA 1997, they are not an equity interest (paragraph 974-70(1)(b)). The RPS are non-equity shares for income tax purposes.
 Therefore, RPS dividends will be income derived by a non-resident that consists of interest to which section 128B applies of the ITAA 1936. The taxpayer company is therefore liable to pay tax on the dividends at the rate which applies to interest income under subsection 128B(5) of the ITAA 1936. Paragraph 7(b) of the Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 provides that this rate is 10%.
 The taxpayer company's liability under these income tax provisions is not affected by any articles in the applicable Double Tax Agreement.
-Date of decision:
-  16 April 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 974-70(1)
-Income Tax Assessment Act 1936   subsection 128A(1AB)   section 128B
-Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974   Section 7
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/527
- ATO ID 2003/529
- ATO ID 2003/530
-
-Keywords
-
-Debt equity borderline
- Redeemable preference share
- Non-resident interest withholding tax
- Non-equity share
-
-Siebel/TDMS Reference Number:
-  3558769
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 July 2003
-
-ISSN:
- 1445-2782
+Date of decision: 16 April 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 974-70(1)
+Income Tax Assessment Act 1936 subsection 128A(1AB) section 128B
+Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 Section 7 Related ATO Interpretative Decisions ATO ID 2003/527 ATO ID 2003/529 ATO ID 2003/530 Keywords Debt equity borderline Redeemable preference share Non-resident interest withholding tax Non-equity share Siebel/TDMS Reference Number: 3558769 Business Line: Public Groups and International Date of publication: 4 July 2003 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/600
-==================================================
-
-Income Tax
- Exchange rate to be used when calculating the cost of contributions to a foreign life policy
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-10 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Exchange rate to be used when calculating the cost of contributions to a foreign life policy FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of provisions of the Income Tax Assessment Act 1936 that don't apply after the 2009-10 income year. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including the 2009-10 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 What exchange rate is used to calculate the cost of contributions to a foreign life policy (FLP) for the purposes of paragraph 515(2)(a) of the Income Tax Assessment Act 1936 (ITAA 1936) when the contribution was not paid in Australian currency?
 Decision
 The rate to be used is the spot rate that applied on the day the contribution was made.
@@ -25,68 +10,11 @@ The taxpayer is a natural person and an Australian resident for tax purposes. Th
 The policy is a FLP within the meaning of section 482 of the ITAA 1936 and the taxpayer's interest is an interest in the FLP within the meaning of subsection 483(3) of the ITAA 1936.
 Reasons for Decision
 Section 515 of the ITAA 1936 provides an exemption that applies to exclude a taxpayer from attributing income that would otherwise be assessable under the Foreign Investment Fund (FIF) rules contained in Part XI of the ITAA 1936. That exemption applies where the taxpayer is a natural person and the value of the taxpayer's (and any associates) interests in FIFs and FLPs is $50,000 or less.
-Section 515 of the ITAA 1936 requires several conditions to be fulfilled before the exemption applies:
-
-(a) firstly, the taxpayer must be a natural person not acting in the capacity of a trustee,
-(b) secondly, the taxpayer must have an interest in a FIF or FLP at the end of a notional accounting period of the FIF or FLP.
-
-Subsection 515(2) of the ITAA 1936 sets out what the value is at the end of the year of the relevant interests for the purposes of paragraph 515(1)(b). The value at the end of the year is the greater of:
-
-(a) the cost incurred by the person in acquiring the interest in the FIF or FLP, as the case may be, or
-(b) the market value of the interest in the FIF or of the FLP, as the case may be, at the end of the year of income.
-
-Paragraph 515(2)(a) of the ITAA 1936 looks to the actual 'cost incurred' in acquiring the interest. In terms of a FLP, this would include the cost of contributions. If this payment was made in a currency other than Australian currency, this will need to be converted into Australian currency. The conversion rate to be used is the spot rate that applied on the day the payment was made.
+Section 515 of the ITAA 1936 requires several conditions to be fulfilled before the exemption applies: (a) firstly, the taxpayer must be a natural person not acting in the capacity of a trustee,
+(b) secondly, the taxpayer must have an interest in a FIF or FLP at the end of a notional accounting period of the FIF or FLP. Subsection 515(2) of the ITAA 1936 sets out what the value is at the end of the year of the relevant interests for the purposes of paragraph 515(1)(b). The value at the end of the year is the greater of: (a) the cost incurred by the person in acquiring the interest in the FIF or FLP, as the case may be, or
+(b) the market value of the interest in the FIF or of the FLP, as the case may be, at the end of the year of income. Paragraph 515(2)(a) of the ITAA 1936 looks to the actual 'cost incurred' in acquiring the interest. In terms of a FLP, this would include the cost of contributions. If this payment was made in a currency other than Australian currency, this will need to be converted into Australian currency. The conversion rate to be used is the spot rate that applied on the day the payment was made.
 Note that by reason of paragraph 960-50(10)(d) of the Income Tax Assessment Act 1997, the conversion rules contained in section 960-50 do not apply to Part XI of the ITAA 1936.
-Date of decision:
-  18 May 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 482   section 515
-Income Tax Assessment Act 1997   section 960-50   paragraph 960-50(10)(d)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2004/3
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/893
-
-Other References:
-
-Foreign Investments Fund Guide 2002 NAT 2130 Chapter 5
-
-Keywords
-
-Foreign investment funds
- Foreign life assurance policies
- Life insurance policies
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  16 July 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-18 May 2004
-Original statement
-
-You are here
- 4 March 2011
+Date of decision: 18 May 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 482 section 515
+Income Tax Assessment Act 1997 section 960-50 paragraph 960-50(10)(d) Related Public Rulings (including Determinations) Taxation Ruling TR 2004/3 Related ATO Interpretative Decisions ATO ID 2002/893 Other References: Foreign Investments Fund Guide 2002 NAT 2130 Chapter 5 Keywords Foreign investment funds Foreign life assurance policies Life insurance policies Business Line: Public Groups and International Date of publication: 16 July 2004 ISSN: 1445-2782 history Date: Version: 18 May 2004
+Original statement You are here 4 March 2011
 Archived

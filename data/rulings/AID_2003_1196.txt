@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1196
-==================================================
-
-Income Tax
- Division 240: 'notional buyer' under a hire purchase agreement
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Division 240: 'notional buyer' under a hire purchase agreement FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Would the taxpayer, who entered into a hire purchase arrangement (which included an option to purchase the goods on hire) after 27 February 1998, be treated as the 'notional buyer' of the goods under subsection 240-17(2) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The taxpayer would be treated under subsection 240-17(2) of the ITAA 1997 as the 'notional buyer' of the goods under the hire purchase agreement to which Division 240 of the ITAA 1997 applies, because the agreement conferred upon the taxpayer a right to use the goods and an option to purchase the goods.
@@ -22,47 +11,10 @@ On the facts of the case, the taxpayer, as notional buyer, would have been the o
 The term of the hire purchase agreement was for 48 months with an option to terminate early. The agreement was terminated at the end of 18 months. The taxpayer acquired the plant at the end of the 18 months.
 Reasons for Decision
 Division 240 of the ITAA 1997 deals with hire purchase agreements (as defined in subsection 995-1(1) of the ITAA 1997) entered into after 27 February 1998. The broad scheme of the Division is to treat such hire purchase agreements as a sale of the relevant goods to the hirer (notional buyer) combined with a loan from the supplier (notional seller) to the notional buyer.
-A 'hire purchase agreement', as defined in subsection 995-1(1) of the ITAA 1997, means:
-
-(a) a contract for the hire of goods where:
-
-(i) the hirer has the right, obligation or contingent obligation to buy the goods; andNote: An example of a contingent obligation is a put option.
+A 'hire purchase agreement', as defined in subsection 995-1(1) of the ITAA 1997, means: (a) a contract for the hire of goods where: (i) the hirer has the right, obligation or contingent obligation to buy the goods; andNote: An example of a contingent obligation is a put option.
 (ii) the charge that is or may be made for the hire, together with any other amount payable under the contract (including an amount to buy the goods or to exercise an option to do so), exceeds the price of the goods; and
-(iii) title in the goods does not pass to the hirer until the option referred to in subparagraph (a)(i) is exercised; or
-
-(b) an agreement for the purchase of goods by instalments where title in the goods does not pass until the final instalment is paid.
-
-The hire purchase arrangement entered into by the taxpayer met the paragraph (a) definition of 'hire purchase agreement'. As such, 'prima facie', Division 240 would apply (section 240-10 of the ITAA 1997).
+(iii) title in the goods does not pass to the hirer until the option referred to in subparagraph (a)(i) is exercised; or (b) an agreement for the purchase of goods by instalments where title in the goods does not pass until the final instalment is paid. The hire purchase arrangement entered into by the taxpayer met the paragraph (a) definition of 'hire purchase agreement'. As such, 'prima facie', Division 240 would apply (section 240-10 of the ITAA 1997).
 The taxpayer was the 'notional buyer' as the taxpayer was a party to the arrangement and under the arrangement, the taxpayer had the right to use the plant on hire (subsection 240-17(2) of the ITAA 1997).
 Because the taxpayer, as notional buyer, would have been the owner or the quasi-owner of the plant on hire if the arrangement had been a sale of the plant, and it was reasonably likely that the option to purchase the plant would be exercised by or in respect of the taxpayer, both requirements in subsection 240-115(1) of the ITAA 1997 were met under the arrangement.
 The modifications in section 240-115 of the ITAA 1997 therefore did not apply and the notional buyer was taken to own the plant (subsection 240-20(2) of the ITAA 1997).
-Date of decision:
-  22 December 2003
-
-Year of income:
-  Year ended 30 June 2001 Year ended 30 June 2000
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 240-10   section 240-15   section 240-17   subsection 240-20(2)   section 240-115   Division 240   subsection 995-1(1)   Parts 3-1   Parts 3-3
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/1197
- ATO ID 2003/1198
-
-Keywords
-
-Hire purchase
-
-Siebel/TDMS Reference Number:
-  3872860
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 December 2003
-
-ISSN:
- 1445-2782
+Date of decision: 22 December 2003 Year of income: Year ended 30 June 2001 Year ended 30 June 2000 Legislative References: Income Tax Assessment Act 1997 section 240-10 section 240-15 section 240-17 subsection 240-20(2) section 240-115 Division 240 subsection 995-1(1) Parts 3-1 Parts 3-3 Related ATO Interpretative Decisions ATO ID 2003/1197 ATO ID 2003/1198 Keywords Hire purchase Siebel/TDMS Reference Number: 3872860 Business Line: Public Groups and International Date of publication: 24 December 2003 ISSN: 1445-2782

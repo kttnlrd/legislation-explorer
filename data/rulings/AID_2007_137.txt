@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/137
-==================================================
-
-Income Tax
- Commercial Debt Forgiveness: whether a loan used by a foreign resident debtor solely to derive foreign income is a commercial debt
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Commercial Debt Forgiveness: whether a loan used by a foreign resident debtor solely to derive foreign income is a commercial debt FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where the interest payments incurred by a foreign resident debtor in respect of a loan are not deductible under subsection 8-1(1) of the Income Tax Assessment Act 1997 (ITAA 1997), because the loan is solely used to gain or produce foreign income, is the loan a 'commercial debt' under section 245-25 of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The loan is not a 'commercial debt' under section 245-25 of Schedule 2C to the ITAA 1936 because no part of the interest paid or payable in respect of the loan is deductible under subsection 8-1(1) of the ITAA 1997.
@@ -27,35 +16,5 @@ Paragraph 245-25(2)(a) of Schedule 2C to the ITAA 1936 provides that a debt is a
 Under subsection 8-1(1) of the ITAA 1997, Foreign Co can only deduct the interest payments on the loan from Aus Co to the extent that they are incurred in gaining or producing its assessable income, or are necessarily incurred in carrying on a business for the purpose of gaining or producing its assessable income. The reference to 'assessable income' in subsection 8-1(1) of the ITAA 1997 means income that is assessable in Australia.
 At all times, Foreign Co has used the loan to carry on a business for the sole purpose of gaining or producing income in a foreign tax jurisdiction that is not assessable in Australia.
 Therefore, no part of the interest paid or payable by Foreign Co in respect of the loan is deductible under subsection 8-1(1) of the ITAA 1997 because it is solely incurred in gaining or producing income that is not assessable in Australia.
-As a result, the loan is not a 'commercial debt' under section 245-25 of Schedule 2C to the ITAA 1936.
-
-Note: As the interest on the loan is not deductible under the threshold provision of subsection 8-1(1) of the ITAA 1997, there is no need to consider whether the interest would be deductible apart from the operation of an 'exception provision' as defined in subsection 245-25(5) of Schedule 2C to the ITAA 1936.
-
-Date of decision:
-  22 June 2007
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2C   section 245-25   paragraph 245-25(2)(a)   subsection 245-25(5)
-Income Tax Assessment Act 1997   subsection 8-1(1)
-
-Keywords
-
-Commercial debt
- Debt forgiveness
- Foreign income
-
-Siebel/TDMS Reference Number:
-  5672409
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 June 2007
-
-ISSN:
- 1445-2782
+As a result, the loan is not a 'commercial debt' under section 245-25 of Schedule 2C to the ITAA 1936. Note: As the interest on the loan is not deductible under the threshold provision of subsection 8-1(1) of the ITAA 1997, there is no need to consider whether the interest would be deductible apart from the operation of an 'exception provision' as defined in subsection 245-25(5) of Schedule 2C to the ITAA 1936. Date of decision: 22 June 2007 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 Schedule 2C section 245-25 paragraph 245-25(2)(a) subsection 245-25(5)
+Income Tax Assessment Act 1997 subsection 8-1(1) Keywords Commercial debt Debt forgiveness Foreign income Siebel/TDMS Reference Number: 5672409 Business Line: Public Groups and International Date of publication: 29 June 2007 ISSN: 1445-2782

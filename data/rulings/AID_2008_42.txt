@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/42
-==================================================
-
-Income Tax
- Shared Equity Agreement: Division 16E of the Income Tax Assessment Act 1936
- FOI status: may be released
-
-This ATO ID is withdrawn because the Tax Office is reconsidering the position stated in the ATO ID.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Shared Equity Agreement: Division 16E of the Income Tax Assessment Act 1936 FOI status: may be released This ATO ID is withdrawn because the Tax Office is reconsidering the position stated in the ATO ID. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a Shared Equity Agreement (SEA) entered into between a finance provider and a home owner a 'qualifying security' for the purposes of Division 16E of Part III of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. A SEA is not a 'qualifying security' for the purpose of Division 16E of Part III of the ITAA 1936.
@@ -30,141 +15,30 @@ The SEA satisfies the definition of a 'security' within subsection 159GP(1) of t
 Reasons for Decision
 Division 16E of Part III of the ITAA 1936 was inserted by the Taxation Laws Amendment Act (No.2) 1986 (TLA No. 2) and provides for the taxation of 'qualifying securities'. The Explanatory Memorandum to the Bill (1986 EM) which was enacted as TLA No. 2 stated that Division 16E is to apply to the income or losses of the holders of securities on an accruals basis rather than a realisation basis, and thereby preventing arrangements designed to defer the receipt of income and assessability to tax.
 Division 16E of the ITAA 1936 applies to a 'security' that is a 'qualifying security' which is defined in subsection 159GP(1) of the ITAA 1936. A 'qualifying security' is:
-any security:
-
-(a)that is issued after 16 December 1984
+any security: (a)that is issued after 16 December 1984
 (b)that is not a prescribed security within the meaning of section 26C
 (ba)that is not part of an exempt series (see subsection 9A))
 (c)the term of which, ascertained as at the time of issue of the security will, or is reasonably likely to, exceed 1 year
 (d)that has an eligible return; and
-(e)where the precise amount of that eligible return is able to be ascertained at the time of issue of the security - in relation to which the amount of the eligible return is greater than 1 1/2% of the amount ascertained by multiplying the amount of the payment or the sum of the payments (excluding any periodic interest) liable to be made under the security by the number (including any fraction) of years in the terms of the security
-
-but does not, except as provided by subsection (10), include an annuity.
+(e)where the precise amount of that eligible return is able to be ascertained at the time of issue of the security - in relation to which the amount of the eligible return is greater than 1 1/2% of the amount ascertained by multiplying the amount of the payment or the sum of the payments (excluding any periodic interest) liable to be made under the security by the number (including any fraction) of years in the terms of the security but does not, except as provided by subsection (10), include an annuity.
 The SEA satisfies the definition of 'security' within subsection 159GP(1) of the ITAA 1936. Furthermore, the SEA satisfies paragraphs (a), (b), (ba), and (c) of the definition of 'qualifying security' under subsection 159GP(1) of the ITAA 1936.
-In accordance with paragraphs 159GP(1)(d) and (e) of the ITAA 1936, a 'qualifying security' is a 'security' that:-
-
-(i)has an 'eligible return' the precise amount of which is capable of being ascertained at the time of issue of the 'security'; and
-(ii)the amount of 'eligible return' is greater than 1 1/2% of the amount ascertained by multiplying the payment or sum of payments (excluding periodic interest) liable to be made under the security and the years in the term of the security.
-
-An 'eligible return' is defined in subsection 159GP(3) of the ITAA 1936 as existing in relation to a security if:
-
-...at the time when the security is issued it is reasonably likely, by reason that the security was issued at a discount, bears deferred interest or is capital indexed or for any other reason, having regard to the terms of the security, for the sum of all payments (other than periodic interest payments) under the security to exceed the issue price of the security.
-
-Therefore, the amount of any excess over the issue price will be the 'eligible return'. However, the 'eligible return' must also satisfy the requirement within paragraph 159GP(1)(e) of the ITAA 1936 for the 'security' to be a 'qualifying security'.
-The 1986 EM explains payments under the security which can be taken into account in determining the existence of an 'eligible return' for the purpose of subsection 159GP(3) of the ITAA 1936:
-
-...By the sub-section, a security will contain an eligible return where the sum of all payments (other than periodic interest, as described in sub-section 159GP(6)) to be made under the security is
- reasonably likely
- to exceed its issue price. The payments referred to in the sub-section relate, in effect, to redemption and partial redemption payments. (emphasis added)
-
-The 1986 EM clearly explains that with the exception of periodic interest payments, all payments made in respect of a security throughout its term and which were contemplated at the date the security was issued can be taken into account in determining whether there is an 'eligible return'. Where it is 'reasonably likely' that the sum of all the payments is positive and will exceed the issue price of the security there will be an 'eligible return'.
-
-The ordinary meaning of 'reasonably likely'
-
-The term 'reasonably likely' is not defined within Division 16E or subsection 6(1) of the ITAA 1936 and reference must therefore be made to its ordinary meaning.
+In accordance with paragraphs 159GP(1)(d) and (e) of the ITAA 1936, a 'qualifying security' is a 'security' that:- (i)has an 'eligible return' the precise amount of which is capable of being ascertained at the time of issue of the 'security'; and
+(ii)the amount of 'eligible return' is greater than 1 1/2% of the amount ascertained by multiplying the payment or sum of payments (excluding periodic interest) liable to be made under the security and the years in the term of the security. An 'eligible return' is defined in subsection 159GP(3) of the ITAA 1936 as existing in relation to a security if: ...at the time when the security is issued it is reasonably likely, by reason that the security was issued at a discount, bears deferred interest or is capital indexed or for any other reason, having regard to the terms of the security, for the sum of all payments (other than periodic interest payments) under the security to exceed the issue price of the security. Therefore, the amount of any excess over the issue price will be the 'eligible return'. However, the 'eligible return' must also satisfy the requirement within paragraph 159GP(1)(e) of the ITAA 1936 for the 'security' to be a 'qualifying security'.
+The 1986 EM explains payments under the security which can be taken into account in determining the existence of an 'eligible return' for the purpose of subsection 159GP(3) of the ITAA 1936: ...By the sub-section, a security will contain an eligible return where the sum of all payments (other than periodic interest, as described in sub-section 159GP(6)) to be made under the security is reasonably likely to exceed its issue price. The payments referred to in the sub-section relate, in effect, to redemption and partial redemption payments. (emphasis added) The 1986 EM clearly explains that with the exception of periodic interest payments, all payments made in respect of a security throughout its term and which were contemplated at the date the security was issued can be taken into account in determining whether there is an 'eligible return'. Where it is 'reasonably likely' that the sum of all the payments is positive and will exceed the issue price of the security there will be an 'eligible return'. The ordinary meaning of 'reasonably likely' The term 'reasonably likely' is not defined within Division 16E or subsection 6(1) of the ITAA 1936 and reference must therefore be made to its ordinary meaning.
 The Macquarie Dictionary does not define the meaning of the term 'reasonably likely'. However, it is useful to observe that the Macquarie Dictionary defines:
-'likely' as:
-
-probably or apparently going or destined (to do, be, etc.): likely to happen. OR seeming like truth, fact, or certainty, or reasonably to be ... expected
-
-'reasonable' as:
-
-agreeable to reason or sound judgement OR not exceeding the limit prescribed by reason OR endowed with reason
-
-and 'reason' as:
-
-sound judgement / good sense - it stands to reason - it is obvious or logical.
-
-While not determinative, these definitions suggest it is 'reasonably likely' a particular payment will be made under a security if:
-
-(i)it is certain the payment will be made or
-(ii)where it is not certain the payment will be made, there exists sound and / or logical reasons for expecting that it will be made.
-
-The meaning of 'reasonably likely' in Case Law
-
-The ordinary meaning of 'reasonably likely' and similar phrases has been discussed in a number of cases within various statutory contexts.
+'likely' as: probably or apparently going or destined (to do, be, etc.): likely to happen. OR seeming like truth, fact, or certainty, or reasonably to be ... expected 'reasonable' as: agreeable to reason or sound judgement OR not exceeding the limit prescribed by reason OR endowed with reason and 'reason' as: sound judgement / good sense - it stands to reason - it is obvious or logical. While not determinative, these definitions suggest it is 'reasonably likely' a particular payment will be made under a security if: (i)it is certain the payment will be made or
+(ii)where it is not certain the payment will be made, there exists sound and / or logical reasons for expecting that it will be made. The meaning of 'reasonably likely' in Case Law The ordinary meaning of 'reasonably likely' and similar phrases has been discussed in a number of cases within various statutory contexts.
 In Department of Agriculture and Rural Affairs v. Binnie [1989] VR 836, the meaning of 'reasonably likely' was judicially discussed in the context of freedom of information legislation. The Court held at page 842 the meaning of the term is to be determined in the context in which the phrase is used. The meaning accorded to 'reasonably likely' by the Court in that case did not mean an event that is more than likely to occur, or has a greater than 50% chance of occurring, nor something which has only a remote or fanciful chance of happening. Rather, the Court accepted that 'reasonably likely' means there is a real chance of that event happening.
 In Sheen v. Fields (1984) 51 ALR 345, the High Court discussed the meaning of the term 'likelihood' in the context of a workers compensation statute. The High Court accepted that 'likelihood' meant a real, but not remote chance of an event occurring.
-In Federal Commissioner of Taxation v. Peabody (1994) 181 CLR 359; 94 ATC 4663; 28 ATR 344, the High Court discussed the meaning to be attributed to the term 'reasonably expected'. The Court explained that:
-
-...A reasonable expectation requires more than a possibility. It involves a prediction as to events which would have taken place if the relevant scheme had not been entered into or carried out and the prediction must be sufficiently reliable for it to be regarded as reasonable.
-
-It can be concluded from the judicial discussion that the objective criteria where it is 'reasonably likely' that an event will take place, or in the context of Division 16E of the ITAA 1936 that a particular payment will be made under a security, is where both the following criteria are satisfied:
-
-(i)there is a real chance the payment will be made - but not so unlikely that it can be classified as remote or fanciful; and
-(ii)a 'reasonably reliable' prediction can be made as to the amount of the payment. A prediction will be 'reasonably reliable' where there is a sound and logical basis for making it, for example, because the quantum of the payment is fixed or readily calculable.
-
-In this case, the total payment that may be made by the purchaser to the finance provider under a SEA may be identified as having two separate components:
-
-(i)the Partial Redemption Payments made by the purchaser upon the exercise of the call option; and
-(ii)the Final Redemption Amount made by the purchaser upon exercise of the put option by the finance provider.
-
-(i) Partial Redemption Payments
-
-The terms of the SEA create a real chance that Partial Redemption Payments by the Purchaser are to be made. This is because the possibility of the purchaser exercising the right to make a partial redemption payment is real and cannot be classified as remote or fanciful.
+In Federal Commissioner of Taxation v. Peabody (1994) 181 CLR 359; 94 ATC 4663; 28 ATR 344, the High Court discussed the meaning to be attributed to the term 'reasonably expected'. The Court explained that: ...A reasonable expectation requires more than a possibility. It involves a prediction as to events which would have taken place if the relevant scheme had not been entered into or carried out and the prediction must be sufficiently reliable for it to be regarded as reasonable. It can be concluded from the judicial discussion that the objective criteria where it is 'reasonably likely' that an event will take place, or in the context of Division 16E of the ITAA 1936 that a particular payment will be made under a security, is where both the following criteria are satisfied: (i)there is a real chance the payment will be made - but not so unlikely that it can be classified as remote or fanciful; and
+(ii)a 'reasonably reliable' prediction can be made as to the amount of the payment. A prediction will be 'reasonably reliable' where there is a sound and logical basis for making it, for example, because the quantum of the payment is fixed or readily calculable. In this case, the total payment that may be made by the purchaser to the finance provider under a SEA may be identified as having two separate components: (i)the Partial Redemption Payments made by the purchaser upon the exercise of the call option; and
+(ii)the Final Redemption Amount made by the purchaser upon exercise of the put option by the finance provider. (i) Partial Redemption Payments The terms of the SEA create a real chance that Partial Redemption Payments by the Purchaser are to be made. This is because the possibility of the purchaser exercising the right to make a partial redemption payment is real and cannot be classified as remote or fanciful.
 However, the exact amount of a Partial Redemption Payment is not specified in the SEA at the time the parties enter the agreement. Furthermore, the timing and amount of any such payment is determined by the purchaser, including whether to make any Partial Redemption Payments at all. This is because one of the many factors influencing the amount of any Partial Redemption Payment will be the prevailing market value of the property and the purchaser's circumstances at the time each Partial Redemption Payment is made.
-Therefore, there is no reliable manner in which to predict the sum of the Partial Redemption Payments. Accordingly the sum of all Partial Redemption Payments is fundamentally uncertain at the time the SEA is entered into.
-
-(ii) The Final Redemption Amount
-
-Under the terms of the SEA it is certain at the time of entering into the arrangement that a Final Redemption Amount will be paid by the purchaser to the finance provider. Furthermore the SEA requires that if the purchaser has not exercised the call option to effect a purchase of the finance provider's remaining interest in the property by the maturity date of the agreement, the put option is to be exercised by the finance provider to effect a sale of their registrable interest. It is only in this way that the finance provider will recoup its investment in the property as well as any expected profits.
+Therefore, there is no reliable manner in which to predict the sum of the Partial Redemption Payments. Accordingly the sum of all Partial Redemption Payments is fundamentally uncertain at the time the SEA is entered into. (ii) The Final Redemption Amount Under the terms of the SEA it is certain at the time of entering into the arrangement that a Final Redemption Amount will be paid by the purchaser to the finance provider. Furthermore the SEA requires that if the purchaser has not exercised the call option to effect a purchase of the finance provider's remaining interest in the property by the maturity date of the agreement, the put option is to be exercised by the finance provider to effect a sale of their registrable interest. It is only in this way that the finance provider will recoup its investment in the property as well as any expected profits.
 However, similar to the Partial Redemption Payments, the amount of the Final Redemption Amount is not known at the time the SEA is entered into. Neither the purchaser nor finance provider is able to make a reasonably reliable prediction of the Final Redemption Amount. Furthermore, at the time the SEA is entered into it is not certain when the final payment will be made, nor what percentage of the finance provider's interest in the property the final payment will represent.
 Moreover, where the Final Redemption Amount is to be based on a declining market value of the property there may not be an 'eligible return' at all. In that regard, the Final Redemption Amount to be paid under the SEA will be based on a number of variables including the timing of the final payment, the prevailing market value of the property at that time and the extent to which the finance provider's interest in the property has been redeemed prior to the final payment.
-Accordingly, although it is certain the purchaser will pay a Final Redemption Amount, the amount to be paid as such an amount is fundamentally uncertain at the time of entering into the SEA.
-
-Conclusion
-
-The amount or sum of amounts payable under the SEA are uncertain and not subject to a reasonably reliable prediction at the time the SEA is entered into. Furthermore, it is not reasonably likely that the sum of all payments under the SEA will exceed the amount of finance contributed by the finance provider pursuant to the SEA (that is, the issue price of the security). Accordingly, it cannot be concluded that at the time a SEA is entered into, it will have an 'eligible return'.
+Accordingly, although it is certain the purchaser will pay a Final Redemption Amount, the amount to be paid as such an amount is fundamentally uncertain at the time of entering into the SEA. Conclusion The amount or sum of amounts payable under the SEA are uncertain and not subject to a reasonably reliable prediction at the time the SEA is entered into. Furthermore, it is not reasonably likely that the sum of all payments under the SEA will exceed the amount of finance contributed by the finance provider pursuant to the SEA (that is, the issue price of the security). Accordingly, it cannot be concluded that at the time a SEA is entered into, it will have an 'eligible return'.
 As the SEA does not have an 'eligible return' for the purposes of subsections 159GP(1) and 159GP(3) of the ITAA 1936, the SEA will not be a 'qualifying security' that is subject to Division 16E of the ITAA 1936.
-Date of decision:
-  30 April 2007
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   subsection 159GP(1)   subsection 159GP(3)
-
-Case References:
-
-Peabody v. Federal Commissioner of Taxation   (1994) 181 CLR 359   (1994) 28 ATR 344   94 ATC 4663
-
-Department of Agriculture and Rural Affairs v. Binnie   [1989] VR 836
-
-Sheen v. Fields   (1984) 51 ALR 345
-
-Other References:
-
- Explanatory Memorandum to Taxation Laws Amendment Bill (No.2) 1986
-
-Keywords
-
-Call options
- Put options
- Securities
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  14 March 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-30 April 2007
-Original statement
-
-You are here
- 5 December 2008
+Date of decision: 30 April 2007 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) subsection 159GP(1) subsection 159GP(3) Case References: Peabody v. Federal Commissioner of Taxation (1994) 181 CLR 359 (1994) 28 ATR 344 94 ATC 4663 Department of Agriculture and Rural Affairs v. Binnie [1989] VR 836 Sheen v. Fields (1984) 51 ALR 345 Other References: Explanatory Memorandum to Taxation Laws Amendment Bill (No.2) 1986 Keywords Call options Put options Securities Business Line: Finance and Investment Centre of Expertise Date of publication: 14 March 2008 ISSN: 1445-2782 history Date: Version: 30 April 2007
+Original statement You are here 5 December 2008
 Archived

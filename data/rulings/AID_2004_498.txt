@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/498
-==================================================
-
-Income Tax
- Capital gains tax: Scrip for scrip rollover - whether original shareholders and acquiring company are dealing at arm's length
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: Scrip for scrip rollover - whether original shareholders and acquiring company are dealing at arm's length FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Did a shareholder in a closely-held company deal with another company at arm's length for the purposes of subsection 124-780(4) of the Income Tax Assessment Act 1997 (ITAA 1997) under an arrangement that involved the acquisition of the shareholder's shares in exchange for ordinary and redeemable preference shares (equivalent in value to the original shares)?
 Decision
 No. The parties did not deal with each other at arm's length for the purposes of subsection 124-780(4) of the ITAA 1997. While the consideration paid for the original shares was equivalent to their market value, the acquiring entity had no bargaining power in relation to the transaction and did not act independently to the shareholders as a group.
@@ -22,93 +9,22 @@ Facts
 The shareholder is one of a small group of shareholders who own all the ordinary shares in a closely held company (original entity). All the shares were acquired after 19 September 1985.
 A restructure is implemented whereby a new company (acquiring entity) is incorporated and acquires all the shares in the original entity in exchange for the issue of ordinary shares and redeemable preference shares. The original shareholders own all the shares in the acquiring entity in the same proportion as they did in the original entity.
 Based on independent valuations, the consideration paid by the acquiring entity is reasonably equivalent to the market value of the shares in the original entity.
-Each shareholder obtained their own professional advice and acted in their own interests in deciding whether to enter the restructure but they agreed as a group to the major terms and characteristics of the restructure including the amount paid as consideration for their shares. The creation and capital structure of the acquiring company are part of these terms and conditions.
-
-Reasons for Decision
+Each shareholder obtained their own professional advice and acted in their own interests in deciding whether to enter the restructure but they agreed as a group to the major terms and characteristics of the restructure including the amount paid as consideration for their shares. The creation and capital structure of the acquiring company are part of these terms and conditions. Reasons for Decision
 To qualify for scrip for scrip roll-over relief under Subdivision 124-M of the ITAA 1997, a shareholder must satisfy the conditions in subsection 124-780(5) of the ITAA 1997 if subsection 124-780(4) of the ITAA 1997 applies (paragraph 124-780(1)(d) of the ITAA 1997).
-Subsection 124-780(4) of the ITAA 1997 applies if the shareholder in the original entity and the acquiring entity did not deal with each other at arm's length and:
-
-(a)neither the original entity nor the replacement entity (in this case the acquiring entity) had at least 300 members just before the arrangement started; or
-(b)the original interest holder, the original entity and an acquiring entity were all members of the same linked group just before that time.
-
-As the original and acquiring entities in this case had fewer than 300 members before the arrangement started, subsection 124-780(4) of the ITAA 1997 will apply if the shareholder and the acquiring entity did not deal at arm's length in relation to the transaction.
-The structure of subsections 124-780(4) and 124-780 (5) of the ITAA 1997 indicate the phrase 'dealing at arm's length' is not to be construed as meaning the parties exchange their shares for a fair price or market value. A condition to be met in subsection 124-780(5), that the market value of the capital proceeds received by the shareholders is substantially the same as the market value of their original interest, must be met only if the original interest holder and acquiring entity
- 'did not deal with each other at arm's length'
- and fall within paragraphs 124-780(4)(a) or (b).
-'Arm's length' is defined at subsection 995-1(1) of the ITAA 1997 as:
-
-'in determining whether parties deal at arm's length, consider any connection between them and any other relevant circumstances.'
-
-The Commissioner is therefore required to consider not only the relationship or connection between the shareholder and the acquiring entity but also the nature and circumstances of the dealing.
+Subsection 124-780(4) of the ITAA 1997 applies if the shareholder in the original entity and the acquiring entity did not deal with each other at arm's length and: (a)neither the original entity nor the replacement entity (in this case the acquiring entity) had at least 300 members just before the arrangement started; or
+(b)the original interest holder, the original entity and an acquiring entity were all members of the same linked group just before that time. As the original and acquiring entities in this case had fewer than 300 members before the arrangement started, subsection 124-780(4) of the ITAA 1997 will apply if the shareholder and the acquiring entity did not deal at arm's length in relation to the transaction.
+The structure of subsections 124-780(4) and 124-780 (5) of the ITAA 1997 indicate the phrase 'dealing at arm's length' is not to be construed as meaning the parties exchange their shares for a fair price or market value. A condition to be met in subsection 124-780(5), that the market value of the capital proceeds received by the shareholders is substantially the same as the market value of their original interest, must be met only if the original interest holder and acquiring entity 'did not deal with each other at arm's length' and fall within paragraphs 124-780(4)(a) or (b).
+'Arm's length' is defined at subsection 995-1(1) of the ITAA 1997 as: 'in determining whether parties deal at arm's length, consider any connection between them and any other relevant circumstances.' The Commissioner is therefore required to consider not only the relationship or connection between the shareholder and the acquiring entity but also the nature and circumstances of the dealing.
 When determining whether the shareholder dealt with the acquiring entity at arm's length it is the collective bargaining power of the group of shareholders against the acquiring entity which must be considered (Elmslie and Others v. Commissioner of Taxation (1993) 46 FCR 576; 26 ATR 611; (1993); 93 ATC 4964).
 As the restructure occurred in accordance with terms and conditions agreed between the shareholders it is considered that the newly incorporated acquiring company did not bargain as a party dealing at arm's length with these shareholders.
-Accordingly, for the shareholder to be able to choose scrip for scrip roll-over they must satisfy the conditions in subsection 124-780(5) of the ITAA 1997 including that the shares carry the same kind of rights and obligations. As the redeemable preference shares do not carry the same kind of rights and obligations as the original shares, roll-over is not available to the extent that the original shares were exchanged for those redeemable preference shares.
-
-Amendment History
-
-Date of Amendment
+Accordingly, for the shareholder to be able to choose scrip for scrip roll-over they must satisfy the conditions in subsection 124-780(5) of the ITAA 1997 including that the shares carry the same kind of rights and obligations. As the redeemable preference shares do not carry the same kind of rights and obligations as the original shares, roll-over is not available to the extent that the original shares were exchanged for those redeemable preference shares. Amendment History Date of Amendment
 Part
-Comment
-
-20 February 2015
+Comment 20 February 2015
 Keywords
-Updated
-
-13 February 2015
+Updated 13 February 2015
 Keywords
-Removed reference to 124-G
-
-Date of decision:
-  21 April 2004
-
-Year of income:
-  year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 124-M   paragraph 124-780(1)(d)   subsection 124-780(4)   paragraph 124-780(4)(a)   paragraph 124-780(4)(b)   subsection 124-780(5)   subsection 995-1(1)
-
-Case References:
-
-Elmslie and Others v. Commissioner of Taxation   (1993) 46 FCR 576   26 ATR 611   93 ATC 4964
-
-Keywords
-
-Capital gains tax
- CGT events
- CGT exchange of shares in one company for shares in another company
- CGT roll-over relief
- Redeemable preference shares
- Scrip for scrip roll-over
-
-Siebel/TDMS Reference Number:
-  3957766; 1-6AI9L08
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  18 June 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-21 April 2004
-Original statement
-
- 
-13 February 2015
-Updated statement
-
-You are here
+Removed reference to 124-G Date of decision: 21 April 2004 Year of income: year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Subdivision 124-M paragraph 124-780(1)(d) subsection 124-780(4) paragraph 124-780(4)(a) paragraph 124-780(4)(b) subsection 124-780(5) subsection 995-1(1) Case References: Elmslie and Others v. Commissioner of Taxation (1993) 46 FCR 576 26 ATR 611 93 ATC 4964 Keywords Capital gains tax CGT events CGT exchange of shares in one company for shares in another company CGT roll-over relief Redeemable preference shares Scrip for scrip roll-over Siebel/TDMS Reference Number: 3957766; 1-6AI9L08 Business Line: Public Groups and International Date of publication: 18 June 2004 ISSN: 1445-2782 history Date: Version: 21 April 2004
+Original statement 13 February 2015
+Updated statement You are here
 20 February 2015
 Updated statement

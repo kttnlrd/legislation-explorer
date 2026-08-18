@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/321
-==================================================
-
-Income Tax
- Convertible Note
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Convertible Note FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether a proposal to amend the conversion ratio of a pre-qualifying convertible note issue contravenes section 82SA of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 The proposal to amend the conversion ratio of a pre-qualifying convertible note issue does not pass all the tests detailed by subsection 82SA(1) of the ITAA 1936. Consequently subsection 82SA(2) of the ITAA 1936 would apply to deny interest deductions to the note issuer in respect of the note issue.
@@ -25,42 +14,11 @@ The proposed amendment to the terms of the note issue will not pass the tests de
 Subparagraph 82SA(1)(d)(xi) of the ITAA 1936 contains the conversion price test, which determines the minimum amount payable by each noteholder for each share allotted or transferred on conversion. Sub-paragraph 82SA(1)(d)(ii) of the ITAA 1936 operates to ensure that the conversion price test is not circumvented. The proposed amendment of the conversion ratio of the convertible note effectively reduces the amount payable for each share on conversion and does not pass the tests contained in subparagraphs 82SA(1)(d) (ii) and (xi) of the ITAA 1936.
 By virtue of the failure of the tests in subparagraphs 82SA(1)(d)(ii) and (xi) of the ITAA 1936, subsection 82SA(2) of the ITAA 1936 will operate such that subsection 82SA(1) of the ITAA 1936 will be deemed to never have had effect to this convertible note. Consequently section 82R of the ITAA 1936 will apply in respect of the convertible note, and interest payments or payments in the nature of interest, including past and future payments, will be denied a deduction to the issuer.
 Subsection 170(10) of the ITAA 1936 authorises the reopening of assessments to give effect to subsection 82SA(2) of the ITAA 1936.
-Date of decision:
-  4 September 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 82SA   section 82R   section 170
-Income Tax Assessment Act 1997   section 8-1
-
-Related Public Rulings (including Determinations)
-
-IT 2204
+Date of decision: 4 September 2001 Legislative References: Income Tax Assessment Act 1936 section 82SA section 82R section 170
+Income Tax Assessment Act 1997 section 8-1 Related Public Rulings (including Determinations) IT 2204
 IT 2334
 IT 2427
 IT 2657
 IT 2653
 TD 92/160
-TD 94/49
-
-Other References:
-
-Explanatory Memoranda relating to section 82SA of the ITAA 1936
- Explanatory Memoranda relating to section 82S of the ITAA 1936
-
-Keywords
-
-Conversion of securities
- Convertible notes
-
-Siebel/TDMS Reference Number:
-  CAS104078
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 September 2001
-
-ISSN:
- 1445-2782
+TD 94/49 Other References: Explanatory Memoranda relating to section 82SA of the ITAA 1936 Explanatory Memoranda relating to section 82S of the ITAA 1936 Keywords Conversion of securities Convertible notes Siebel/TDMS Reference Number: CAS104078 Business Line: Public Groups and International Date of publication: 15 September 2001 ISSN: 1445-2782

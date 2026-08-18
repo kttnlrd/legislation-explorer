@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/195
-==================================================
-
-Goods and Services Tax
- GST and the Agency Relationship
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and the Agency Relationship FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an owner of commercial premises who is not registered or required to be registered for goods and services tax (GST), making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when those premises are supplied to a tenant through a real estate agent who is registered for GST?
 Decision
 No, the entity, who is not registered or required to be registered for GST, is not making a taxable supply of commercial premises under section 9-5 of the GST Act when those premises are supplied to a tenant through a real estate agent who is registered for GST.
@@ -22,42 +11,8 @@ The entity is not registered or required to be registered for GST. The real esta
 Reasons For Decision
 Section 9-5 of the GST Act states that 'you' make a taxable supply if certain requirements are met.
 Therefore, before examining the elements of section 9-5 of the GST Act, it is necessary to identify who is actually making the supply. The issue in this case is whether the entity, the owner of the commercial premises, or the real estate agent is making the supply of the commercial premises.
-Goods and Services Tax Ruling GSTR 2000/37 discusses the general law in relation to agency relationships. Paragraph 10 of GSTR 2000/37 explains that:
-
-'An intermediary may be authorised by another party to do something on that party's behalf. Generally, the intermediary is called an agent. The party who authorises the agent to act on their behalf is called the principal.'
-
-Paragraph 15 of GSTR 2000/37 goes on to state that:
-
-'When an agent uses his or her authority to act for a principal, then any act done on behalf of that principal is an act of the principal.'
-
-In this case, the real estate agent has the authority to act on behalf of the entity. The entity, being the owner of the commercial premises is, therefore, the principal and the real estate agent is the agent. As such, any act performed by the real estate agent is considered to be an act of the entity.
+Goods and Services Tax Ruling GSTR 2000/37 discusses the general law in relation to agency relationships. Paragraph 10 of GSTR 2000/37 explains that: 'An intermediary may be authorised by another party to do something on that party's behalf. Generally, the intermediary is called an agent. The party who authorises the agent to act on their behalf is called the principal.' Paragraph 15 of GSTR 2000/37 goes on to state that: 'When an agent uses his or her authority to act for a principal, then any act done on behalf of that principal is an act of the principal.' In this case, the real estate agent has the authority to act on behalf of the entity. The entity, being the owner of the commercial premises is, therefore, the principal and the real estate agent is the agent. As such, any act performed by the real estate agent is considered to be an act of the entity.
 Although the agent manages the property and collects the rent from the tenant, these acts are considered to be acts performed by the entity. As a result, it is the entity, not the real estate agent that is making the supply of the commercial premises to the tenant.
 Therefore, if the supply of the commercial premises by the entity satisfies the requirements of section 9-5 of the GST Act, the supply is a taxable supply. Paragraph 9-5(d) of the GST Act requires that for a supply to be a taxable supply, the supplier must be registered or required to be registered for GST. In this case, the entity is not registered or required to be registered for GST.
 Consequently, the entity, the owner of the commercial premises, is not making a taxable supply under section 9-5 of the GST Act when it supplies those premises to a tenant through a real estate agent who is registered for GST.
-Date of decision:
-  31 March 2000
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   paragraph 9-5(d)
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2000/37
-
-Keywords
-
-Goods and Services Tax
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  CW210213
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  14 August 2001
-
-ISSN:
- 1445-2782
+Date of decision: 31 March 2000 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 paragraph 9-5(d) Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2000/37 Keywords Goods and Services Tax Taxable supply Siebel/TDMS Reference Number: CW210213 Business Line: Indirect Tax Date of publication: 14 August 2001 ISSN: 1445-2782

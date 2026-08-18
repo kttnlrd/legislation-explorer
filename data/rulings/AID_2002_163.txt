@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/163
-==================================================
-
-Goods and Services Tax
- GST and account keeping services
- FOI status: may be released
-
-This ATO ID is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and account keeping services FOI status: may be released This ATO ID is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, an Australian authorised deposit-taking institution (ADI), making a financial supply that is input taxed under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it opens and operates an account for a customer?
 Decision
 Yes, the entity is making a financial supply that is input taxed under subsection 40-5(1) of the GST Act when it opens and operates an account for a customer.
@@ -25,76 +10,20 @@ The entity is an ADI. The entity supplies an interest in an account to an Austra
 The entity is registered for goods and services tax (GST).
 Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. The term 'financial supply' is defined in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
-Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition or disposal of an interest is a financial supply if:
-
-•the interest is listed in subregulation 40-5.09(3) or (4) of the GST Regulations;
-
-- is for consideration;
+Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition or disposal of an interest is a financial supply if: •the interest is listed in subregulation 40-5.09(3) or (4) of the GST Regulations; - is for consideration;
 - is in the course or furtherance of an enterprise;
-- is connected with Australia (paragraph 40-5.09(1)(a) of the GST Regulations); and
-
-•the supplier:
-
-- is registered or required to be registered for GST; and
-- is a financial supply provider in relation to a supply of the interest (paragraph 40-5.09(1)(b) of the GST Regulations).
-
-Item 1 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 1) lists accounts made available by an Australian ADI in the course of:
-
-•its banking business within the meaning of the Banking Act 1959; or
-•its State banking business.
-
-Schedule 7 to the GST Regulations provides examples of financial supplies. Item 1 in the table in Part 1 of Schedule 7 to the GST Regulations states that the opening, keeping, operating, maintaining and closing of cheque, debit card, deposit and savings accounts for account holders is a financial supply.
+- is connected with Australia (paragraph 40-5.09(1)(a) of the GST Regulations); and •the supplier: - is registered or required to be registered for GST; and
+- is a financial supply provider in relation to a supply of the interest (paragraph 40-5.09(1)(b) of the GST Regulations). Item 1 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 1) lists accounts made available by an Australian ADI in the course of: •its banking business within the meaning of the Banking Act 1959; or
+•its State banking business. Schedule 7 to the GST Regulations provides examples of financial supplies. Item 1 in the table in Part 1 of Schedule 7 to the GST Regulations states that the opening, keeping, operating, maintaining and closing of cheque, debit card, deposit and savings accounts for account holders is a financial supply.
 The entity is opening and operating an account for a customer. This takes place in the course of the entity's banking business (within the meaning of the Banking Act 1959). These activities are covered by the example in item 1 in the table in Part 1 of Schedule 7 to the GST Regulations and are considered part of making the account available to the customer. Therefore, the entity is providing an interest that is covered by Item 1. Furthermore, the entity receives an account keeping fee for providing this interest and the entity does so in the course or furtherance of its enterprise in Australia. Therefore, all of the requirements in paragraph 40-5.09(1)(a) of the GST Regulations are satisfied.
 Paragraph 40-5.09(1)(b) of the GST Regulations provides that the supplier of the financial supply must be registered or required to be registered for GST; and must also be a 'financial supply provider' in relation to a supply of the interest.
 In this situation, as the entity (the supplier of the financial supply) is registered for GST, it must be determined whether the entity is a 'financial supply provider' in relation to a supply of the interest.
-Under subregulation 40-5.06(1) of the GST Regulations, the financial supply provider of an interest is the entity that:
-
-•had property in the interest immediately before it was supplied; or
-•created the interest in making the supply.
-
-As the entity created the interest when it supplied the account and the account keeping services to its customer, it is the financial supply provider of the interest as per the definition in paragraph 40-5.06(1)(b) of the GST Regulations. Accordingly, the requirements in paragraph 40-5.09(1)(b) of the GST Regulations are also satisfied.
+Under subregulation 40-5.06(1) of the GST Regulations, the financial supply provider of an interest is the entity that: •had property in the interest immediately before it was supplied; or
+•created the interest in making the supply. As the entity created the interest when it supplied the account and the account keeping services to its customer, it is the financial supply provider of the interest as per the definition in paragraph 40-5.06(1)(b) of the GST Regulations. Accordingly, the requirements in paragraph 40-5.09(1)(b) of the GST Regulations are also satisfied.
 As all of the requirements in subregulation 40-5.09(1) of the GST Act are satisfied, the entity is making a financial supply when it provides an account and account keeping services to its customer. This is an input taxed supply as per subsection 40-5(1) of the GST Act.
-Date of decision:
-  4 September 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 40-5(1)
-A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.06(1)   subregulation 40-5.09(1)   paragraph 40-5.09(1)(a)   paragraph 40-5.09(1)(b)   subregulation 40-5.09(3)   subregulation 40-5.09(3) table item 1   subregulation 40-5.09(4)
-Banking Act 1959   The Act
-
-Other References:
-
-Questions and Answers - Banking and Finance
-
-Keywords
-
-Goods & services tax
- Input taxed supplies
- GST financial supplies
- Accounts
-
-Business Line:
-  GST
-
-Date of publication:
-  22 February 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 4 September 2001
-Original statement
-
-You are here
+Date of decision: 4 September 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 40-5(1)
+A New Tax System (Goods and Services Tax) Regulations 1999 subregulation 40-5.06(1) subregulation 40-5.09(1) paragraph 40-5.09(1)(a) paragraph 40-5.09(1)(b) subregulation 40-5.09(3) subregulation 40-5.09(3) table item 1 subregulation 40-5.09(4)
+Banking Act 1959 The Act Other References: Questions and Answers - Banking and Finance Keywords Goods & services tax Input taxed supplies GST financial supplies Accounts Business Line: GST Date of publication: 22 February 2002 ISSN: 1445-2782 history Date: Version: 4 September 2001
+Original statement You are here
 30 September 2005
 Archived

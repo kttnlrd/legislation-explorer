@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/137
-==================================================
-
-Income Tax
- Capital allowances: granting a right of use - other than a taxable purpose
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital allowances: granting a right of use - other than a taxable purpose FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Did the taxpayer use their depreciating asset for a 'taxable purpose', within the meaning of that phrase in paragraph 40-25(7)(a) of the Income Tax Assessment Act 1997 (ITAA 1997), by reason only that they made a capital gain from granting another entity a right to use the asset?
 Decision
 No. The taxpayer did not use their depreciating asset for a taxable purpose, within the meaning of that phrase in paragraph 40-25(7)(a) of the ITAA 1997, because the making of a statutory capital gain is too remote to constitute something done for the purpose of gaining or producing assessable income or in carrying on a business for that purpose.
@@ -26,46 +15,8 @@ Subsection 40-25(1) provides to a holder of a depreciating asset an annual deduc
 Subsection 40-25(2) provides a reduction in the annual deduction by the part of the asset's decline in value that is attributable to the holder's use of the asset during the income year for a purpose other than a taxable purpose.
 It is accepted that the granting of a right to use the depreciating asset to the other entity for valuable consideration represents a use, albeit an indirect use, of the asset by the taxpayer. The issue in the present case is whether this use by the taxpayer constitutes a use for a taxable purpose when that use results only in the taxpayer making a statutory capital gain.
 For present purposes, a 'taxable purpose' is defined in paragraph 40-25(7)(a) as the purpose of producing assessable income.
-Pursuant to subsection 995-1 (1), something is done for the purpose of producing assessable income if it is done:
-
-(a)	for the purpose of gaining or producing assessable income; or
-(b)	in carrying on a business for the purpose of gaining or producing assessable income.
-
-As stated in the facts, the taxpayer does not use (or hold) the depreciating asset, directly or indirectly, for the purpose of gaining or producing ordinary income or in carrying on a business for that purpose. The taxpayer's indirect use of the asset by granting a right of use to another entity results only in the taxpayer making a statutory capital gain. The making of a capital gain is the result of a statutory process and is independent of any purpose the taxpayer may have had of gain from granting the right. While it so happens in this case that the taxpayer's capital gain was taken into account in calculating a net capital gain that was included in their assessable income for the relevant income year (see section 102-5), this will depend entirely on the particular taxpayer's taxation circumstances in the relevant income year.
+Pursuant to subsection 995-1 (1), something is done for the purpose of producing assessable income if it is done: (a)	for the purpose of gaining or producing assessable income; or
+(b)	in carrying on a business for the purpose of gaining or producing assessable income. As stated in the facts, the taxpayer does not use (or hold) the depreciating asset, directly or indirectly, for the purpose of gaining or producing ordinary income or in carrying on a business for that purpose. The taxpayer's indirect use of the asset by granting a right of use to another entity results only in the taxpayer making a statutory capital gain. The making of a capital gain is the result of a statutory process and is independent of any purpose the taxpayer may have had of gain from granting the right. While it so happens in this case that the taxpayer's capital gain was taken into account in calculating a net capital gain that was included in their assessable income for the relevant income year (see section 102-5), this will depend entirely on the particular taxpayer's taxation circumstances in the relevant income year.
 In a CGT context, the capital gain does not arise from the asset but from the grant of the right to use the asset. The fact that no part of the cost base of an asset is taken into account in working out the amount of a capital gain or capital loss when a right is granted or created in relation to an underlying asset is based on the principle that no part of the underlying asset is used to generate the capital gain.
 It follows that the taxpayer did not use their depreciating asset for a taxable purpose within the meaning of that phrase in paragraph 40-25(7)(a) because the making of a statutory capital gain is too remote to constitute something done for the purpose of gaining or producing assessable income or in carrying on a business for that purpose.
-Date of decision:
-  5 February 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   40-25(7)   40-25(7)(a)   102-5   104-35   995-1(1)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2589
-
-Keywords
-
-Capital gains
- Depreciating assets
- Net capital gains
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  328809; 1-AX7LSV2
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  20 November 2009
-
-Date reviewed:
-  19 October 2017
-
-ISSN:
- 1445-2782
+Date of decision: 5 February 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 40-25(7) 40-25(7)(a) 102-5 104-35 995-1(1) Related Public Rulings (including Determinations) Taxation Ruling IT 2589 Keywords Capital gains Depreciating assets Net capital gains Uniform capital allowances system Siebel/TDMS Reference Number: 328809; 1-AX7LSV2 Business Line: Private Groups and High Wealth Individuals Date of publication: 20 November 2009 Date reviewed: 19 October 2017 ISSN: 1445-2782

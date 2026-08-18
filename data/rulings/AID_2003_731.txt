@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/731
-==================================================
-
-Income Tax
- Deemed Dividend: debtors included in distributable surplus where private company accounts on a cash basis
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deemed Dividend: debtors included in distributable surplus where private company accounts on a cash basis FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the debtors of a private company, as recorded in invoices, cashbooks and accounting software, included in the company's assets (according to the company's accounting records) under subsection 109Y(2) of the Income Tax Assessment Act 1936 (ITAA 1936), where the company accounts on a cash basis?
 Decision
 Yes. The debtors of a private company, as recorded in invoices, cashbooks and accounting software, are included in the company's assets (according to the company's accounting records) under subsection 109Y(2) of the ITAA 1936, where the company accounts on a cash basis.
@@ -24,55 +13,10 @@ The taxpayer uses the cash basis of accounting which means that it does not reco
 The taxpayer can manually work out its debtors by comparing its invoices to its cashbook.
 The taxpayer can also use accounting software to work out its debtors.
 Reasons for Decision
-A private company's distributable surplus for a year of income is worked out using the formula in subsection 109Y(2) of the ITAA 1936:
-
-Net assets - Non-commercial loans - Paid-up share value - Repayments of non-commercial loans
-
-'Net assets' means the amount by which the private company's assets (according to the company's accounting records) exceed the sum of its present legal obligations to persons other than the company and various provisions (according to the company's accounting records - subsection 109Y(2) of the ITAA 1936).
+A private company's distributable surplus for a year of income is worked out using the formula in subsection 109Y(2) of the ITAA 1936: Net assets - Non-commercial loans - Paid-up share value - Repayments of non-commercial loans 'Net assets' means the amount by which the private company's assets (according to the company's accounting records) exceed the sum of its present legal obligations to persons other than the company and various provisions (according to the company's accounting records - subsection 109Y(2) of the ITAA 1936).
 'Accounting records' are not defined for the purposes of Division 7A of the ITAA 1936 (section 109ZD of the ITAA 1936) or generally for the purposes of the ITAA 1936 (subsection 6(1)) or the Income Tax Assessment Act 1997 (ITAA 1997) (section 995-1 of the ITAA 1997). However section 160ZZV of the ITAA 1936 defines accounting records for the purposes of Part IIIB of the ITAA 1936 as including 'invoices, receipts, vouchers and other documents of prime entry'.
 In Van Reesema v. Flavel (1992) 57 SASR 590 the Court found that the ordinary meaning of accounting records includes various books of prime entry such as the cashbook, journal and ledgers. In Caratti v. The Queen (2000) 22 WAR 527; (2000) 45 ATR 305 'farm books', which contained monthly wages and fuel analyses of a company, were found to be accounting records within any ordinary meaning of the term.
 A cash receipts journal and debtors' ledger are accounting records (McKay and Tax Agents Board (Tas), Re (1994) 28 ATR 1186; 94 ATC 2057. Records of debtors and creditors are included in books of account (In Re Crimmins (1956) 18 ABC 53).
 Accordingly, the debtors of the taxpayer, which are recorded in invoices, cashbooks and accounting software, would be included in the taxpayer's assets (according to the taxpayer's accounting records) for the purposes of working out the taxpayer's distributable surplus under section 109Y of the ITAA 1936.
-Date of decision:
-  17 July 2003
-
-Year of income:
-  30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 109Y   section 109ZD   section 160ZZV
-Income Tax Assessment Act 1997   section 995-1
-
-Case References:
-
-Van Reesema v. Flavel   (1992) 57 SASR 590
-
-Caratti v. The Queen   (2000) 22 WAR 527   (2000) 45 ATR 305
-
-McKay and Tax Agents Board (Tas), Re   (1994) 28 ATR 1186   94 ATC 2057
-
-Re Crimmins   (1956) 18 ABC 53.
-
-Keywords
-
-Accounting records
- Cash basis accounting
- Companies
- Deemed dividends
- Dividend income
- Invoices
- Private companies
- Private company distributions
-
-Siebel/TDMS Reference Number:
-  3568255
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 August 2003
-
-ISSN:
- 1445-2782
+Date of decision: 17 July 2003 Year of income: 30 June 2004 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 109Y section 109ZD section 160ZZV
+Income Tax Assessment Act 1997 section 995-1 Case References: Van Reesema v. Flavel (1992) 57 SASR 590 Caratti v. The Queen (2000) 22 WAR 527 (2000) 45 ATR 305 McKay and Tax Agents Board (Tas), Re (1994) 28 ATR 1186 94 ATC 2057 Re Crimmins (1956) 18 ABC 53. Keywords Accounting records Cash basis accounting Companies Deemed dividends Dividend income Invoices Private companies Private company distributions Siebel/TDMS Reference Number: 3568255 Business Line: Public Groups and International Date of publication: 22 August 2003 ISSN: 1445-2782

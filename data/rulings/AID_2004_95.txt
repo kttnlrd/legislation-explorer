@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/95
-==================================================
-
-Income Tax
- Capital gains tax: Subdivision 122-A rollover: shares transferred from current shareholders
- FOI status: may be released
-
-This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: Subdivision 122-A rollover: shares transferred from current shareholders FOI status: may be released This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a taxpayer choose rollover under Subdivision 122-A of the Income Tax Assessment Act 1997 (ITAA 1997) if they dispose of an asset to a company and the current shareholders of the company transfer all their shares to the taxpayer as consideration for the disposal?
 Decision
 Yes. Section 122-20 of the ITAA 1997 provides that any consideration received for the disposal must include shares in the company. It does not require the shares to have been issued by the transferee company. Therefore, the rollover condition is satisfied if the shares are transferred to the taxpayer from the company's existing shareholders.
@@ -33,64 +18,10 @@ Section 122-15 of the ITAA 1997 provides that where a trustee disposes of an ass
 One of the requirements is that if the trustee receives consideration for the disposal of the asset (or assets) to the company that consideration must include shares in the company (subsection 122-20(1) of the ITAA 1997).
 Although subsection 122-20(1) of the ITAA 1997 contemplates that ordinarily a transferee company will issue shares in respect of any assets transferred to it, the provision does not specifically require that shares be issued. Rather, the requirement is that where consideration is given by the company, it must be either shares in the company or shares in the company and the company's undertaking to discharge one or more liabilities in respect of the asset or the assets of the business.
 As the taxpayer has received only shares in the company, the requirements of subsection 122-20(1) of the ITAA 1997 are met. The other requirements in the section are also met because the shares are not redeemable (subsection 122-20(2) of the ITAA 1997) and their market value is substantially the same as the value of the land (subsection 122-20(3) of the ITAA 1997).
-Section 122-25 of the ITAA 1997 contains further conditions that must be satisfied before rollover can be chosen. Relevantly these are:
-
-• the transferor must own all of the shares in the company just after the disposal of the asset (subsection 122-25(1) of the ITAA 1997) - that requirement is satisfied in this case because the taxpayer now owns all of the shares in the company
+Section 122-25 of the ITAA 1997 contains further conditions that must be satisfied before rollover can be chosen. Relevantly these are: • the transferor must own all of the shares in the company just after the disposal of the asset (subsection 122-25(1) of the ITAA 1997) - that requirement is satisfied in this case because the taxpayer now owns all of the shares in the company
 • the company must not be an exempt entity (subsection 122-25(5) of the ITAA 1997) - that requirement is satisfied in this case, and
-• if the trust is not a resident trust for CGT purposes or the company is not an Australian resident, the asset must have the necessary connection with Australia (subsection 122-25(7) of the ITAA 1997) - that requirement is satisfied in this case as both entities are Australian residents.
-
-Therefore, the taxpayer is entitled to choose rollover under Subdivision 122-A of the ITAA 1997.
-If rollover is chosen any capital gain or capital loss made by the trustee as a result of the disposal is disregarded (subsection 122-40(1) of the ITAA 1997). The first element of cost base of each share received by the trustee is the cost base of the land divided by the number of shares (subsection 122-40(2) of the ITAA 1997). The first element of reduced cost base of each share is worked out in the same way except the reduced cost base of the land is used.
-
-Note: CGT event A1 happens when the four original shareholders dispose of their shares to the trustee. There are no provisions of the ITAA 1997 that will allow the shareholders to obtain rollover to disregard a capital gain or capital loss from the disposal of the shares.
-
-Date of decision:
-  13 January 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 122-A   section 122-15   section 122-20   subsection 122-20(1)   subsection 122-20(2)   subsection 122-20(3)   section 122-25   subsection 122-25(1)   subsection 122-25(5)   subsection 122-25(7)   subsection 122-40(1)   subsection 122-40(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/94
- ATO ID 2002/172
- ATO ID 2002/361
- ATO ID 2004/8
-
-Keywords
-
-Capital gains tax
- CGT assets
- CGT event A1-disposal of a CGT asset
- CGT replacement asset roll-over
- CGT replacement assets
- CGT roll-over relief
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  30 January 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 January 2003
-Original statement
-
-You are here
+• if the trust is not a resident trust for CGT purposes or the company is not an Australian resident, the asset must have the necessary connection with Australia (subsection 122-25(7) of the ITAA 1997) - that requirement is satisfied in this case as both entities are Australian residents. Therefore, the taxpayer is entitled to choose rollover under Subdivision 122-A of the ITAA 1997.
+If rollover is chosen any capital gain or capital loss made by the trustee as a result of the disposal is disregarded (subsection 122-40(1) of the ITAA 1997). The first element of cost base of each share received by the trustee is the cost base of the land divided by the number of shares (subsection 122-40(2) of the ITAA 1997). The first element of reduced cost base of each share is worked out in the same way except the reduced cost base of the land is used. Note: CGT event A1 happens when the four original shareholders dispose of their shares to the trustee. There are no provisions of the ITAA 1997 that will allow the shareholders to obtain rollover to disregard a capital gain or capital loss from the disposal of the shares. Date of decision: 13 January 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Subdivision 122-A section 122-15 section 122-20 subsection 122-20(1) subsection 122-20(2) subsection 122-20(3) section 122-25 subsection 122-25(1) subsection 122-25(5) subsection 122-25(7) subsection 122-40(1) subsection 122-40(2) Related ATO Interpretative Decisions ATO ID 2004/94 ATO ID 2002/172 ATO ID 2002/361 ATO ID 2004/8 Keywords Capital gains tax CGT assets CGT event A1-disposal of a CGT asset CGT replacement asset roll-over CGT replacement assets CGT roll-over relief Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 30 January 2004 ISSN: 1445-2782 history Date: Version: 13 January 2003
+Original statement You are here
 15 January 2010
 Archived

@@ -1,30 +1,11 @@
 ATO Interpretative Decision
 ATO ID 2003/292
-==================================================
-
-Income Tax
- Commercial debt forgiveness - applying total net forgiven amount - reduction of net capital losses
- FOI status: may be released
-
-This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Commercial debt forgiveness - applying total net forgiven amount - reduction of net capital losses FOI status: may be released This ATO ID is withdrawn from the database as it is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a 'commercial debt' is forgiven and the debtor has to apply a residual forgiven amount in reduction of net capital losses under Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936), are there any limitations on the net capital losses that can be reduced?
 Decision
-Yes. Section 245-125 of Schedule 2C to the ITAA 1936 states any net capital loss to be reduced must be a 'deductible net capital loss'. Therefore, the following conditions must be met:
-
-(1) the loss must have been incurred in an income year before the forgiveness year of income; and
-(2) the loss must be able to be applied in calculating the debtor's net capital gain for the forgiveness year of income, on the assumption that the debtor has enough capital gains in that income year.
-
-Facts
+Yes. Section 245-125 of Schedule 2C to the ITAA 1936 states any net capital loss to be reduced must be a 'deductible net capital loss'. Therefore, the following conditions must be met: (1) the loss must have been incurred in an income year before the forgiveness year of income; and
+(2) the loss must be able to be applied in calculating the debtor's net capital gain for the forgiveness year of income, on the assumption that the debtor has enough capital gains in that income year. Facts
 Debtor is a company.
 Debtor has a residual forgiven amount to be applied under section 245-130 of Schedule 2C to the ITAA 1936 in reduction of any deductible net capital loss(es).
 Debtor has a net capital loss in respect of an earlier income year.
@@ -32,56 +13,10 @@ Due to changes in ownership and business Debtor is precluded by Subdivision 165-
 Reasons for Decision
 Where commercial debts are forgiven after 27 June 1996, the total net forgiven amount in the forgiveness year of income must be applied, in accordance with Schedule 2C to the ITAA 1936, to successively reduce the debtor's deductible revenue losses, deductible net capital losses, deductible expenditures and the relevant cost base of certain CGT assets.
 Subsection 245-105(6) of Schedule 2C to the ITAA 1936 requires that, to the extent to which the total net forgiven amount cannot be applied to reduce deductible revenue losses, the remaining unapplied amount, referred to as the 'residual forgiven amount', must be applied to the maximum extent possible, to reduce deductible net capital loss(es) incurred by Debtor in years of income before the forgiveness year of income.
-Pursuant to section 245-125 of Schedule 2C to the ITAA 1936 a 'deductible net capital loss' is a net capital loss that:
-
-'(a) the debtor has for an income year earlier than the forgiveness year of income; and
-(b)apart from this Subdivision, could be applied in working out the debtor's net capital gain for the forgiveness year of income (assuming the debtor had enough net capital gains).'
-
-Debtor's net capital loss is not a deductible net capital loss in the forgiveness year of income (assuming the debtor had sufficient capital gains) as the requirements of Subdivision 165-CA of the ITAA 1997 have not been met.
+Pursuant to section 245-125 of Schedule 2C to the ITAA 1936 a 'deductible net capital loss' is a net capital loss that: '(a) the debtor has for an income year earlier than the forgiveness year of income; and
+(b)apart from this Subdivision, could be applied in working out the debtor's net capital gain for the forgiveness year of income (assuming the debtor had enough net capital gains).' Debtor's net capital loss is not a deductible net capital loss in the forgiveness year of income (assuming the debtor had sufficient capital gains) as the requirements of Subdivision 165-CA of the ITAA 1997 have not been met.
 As Debtor has no deductible net capital losses the residual forgiven amount is therefore to be applied to reduce deductible expenditures (if any) in accordance with subsection 245-105(7) of the Schedule 2C to the ITAA 1936. To the extent that the residual forgiven amount can not be applied to deductible expenditures, it is then to be applied to reduce the relevant cost bases of certain assets pursuant to subsection 245-105(8) of Schedule 2C to the ITAA 1936.
-Date of decision:
-  5 March 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2C, subsection 245-105(6)   Schedule 2C, subsection 245-105(7)   Schedule 2C, subsection 245-105(8)   Schedule 2C, section 245-125   Schedule 2C, section 245-130
-
-Keywords
-
-Capital losses
- CDF net capital losses
- Commercial debt
- Commercial debt forgiveness
- Dealings & transactions
- Debt extinguished
- Debt forgiven
- Net capital losses
- Residual forgiven amount
-
-Business Line:
-  Losses and CGT Centre of Expertise
-
-Date of publication:
-  16 May 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 March 2003
-Original statement
-
-You are here
+Date of decision: 5 March 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 Schedule 2C, subsection 245-105(6) Schedule 2C, subsection 245-105(7) Schedule 2C, subsection 245-105(8) Schedule 2C, section 245-125 Schedule 2C, section 245-130 Keywords Capital losses CDF net capital losses Commercial debt Commercial debt forgiveness Dealings & transactions Debt extinguished Debt forgiven Net capital losses Residual forgiven amount Business Line: Losses and CGT Centre of Expertise Date of publication: 16 May 2003 ISSN: 1445-2782 history Date: Version: 5 March 2003
+Original statement You are here
 21 November 2008
 Archived

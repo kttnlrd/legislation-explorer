@@ -29,10 +29,10 @@ If a person (the discloser) makes a disclosure of information that qualifies for
 > <a id="s14ZZZB-b"></a>
 > **(b)**  to produce to a court or tribunal a document containing:
 
-> > <a id="s14ZZZB-i"></a>
+> > <a id="s14ZZZB-i-2"></a>
 > > **(i)**  the identity of the discloser; or
 
-> > <a id="s14ZZZB-ii"></a>
+> > <a id="s14ZZZB-ii-2"></a>
 > > **(ii)**  information that is likely to lead to the identification of the discloser; except where:
 
 > <a id="s14ZZZB-c"></a>

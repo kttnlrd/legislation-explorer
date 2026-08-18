@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/625
-==================================================
-
-Income Tax
- Disposal of Trading Stock
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Disposal of Trading Stock FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the election under subsection 70-100(4) of the Income Tax Assessment Act 1997 (ITAA 1997) be exercised in respect of trading stock, distributed to beneficiaries on winding up of a deceased estate, so that the trading stock is brought to account at its closing value rather than its market value?
 Decision
 No. The election under subsection 70-100(4) of the ITAA 1997 cannot be exercised.
@@ -26,61 +13,10 @@ An entity includes a trust, a trustee and a beneficiary in accordance with secti
 Thus, it must be determined which entity (the trust, the trustee and/or the beneficiaries) held an ownership interest in the land before its transfer and which, if any, held an interest after the transfer.
 While it is accepted that the beneficiaries of the deceased estate have a beneficial interest in the assets of the deceased estate whether fully administered or not, the legal ownership of the trust property prior to the transfer is in the trustee who holds it for the benefit of the beneficiaries. Thus, it is considered that the beneficiaries cannot be said to own the trading stock prior to the transfer.
 After the transfer, the trustee who held ownership of the land previously has not retained an interest in it. The land is owned entirely by the beneficiaries to whom it has been transferred.
-Therefore, as the conditions of subsection 70-100(1) of the ITAA 1997 have not been satisfied, the election under subsection 70-100(4) of the ITAA 1997 cannot be exercised.
-
-Amendment History
-
-Date of Amendment
+Therefore, as the conditions of subsection 70-100(1) of the ITAA 1997 have not been satisfied, the election under subsection 70-100(4) of the ITAA 1997 cannot be exercised. Amendment History Date of Amendment
 Part
-Comment
-
-9 June 2017
+Comment 9 June 2017
 Reason for Decision
-minor editorial/grammatical amendments
-
-Date of decision:
-  11 March 2002
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 960-100   subsection 70-100(1)   subsection 70-100(4)
-
-Keywords
-
-Disposal of trading stock
- Trading stock valuation
- Deceased estates
-
-Siebel/TDMS Reference Number:
-  DW385302, 1-5TH7QFI, 1-BNLT4MJ
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  31 May 2002
-
-Date reviewed:
-  7 June 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-11 March 2002
-Original statement
-
-You are here
- 9 June 2017
+minor editorial/grammatical amendments Date of decision: 11 March 2002 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 960-100 subsection 70-100(1) subsection 70-100(4) Keywords Disposal of trading stock Trading stock valuation Deceased estates Siebel/TDMS Reference Number: DW385302, 1-5TH7QFI, 1-BNLT4MJ Business Line: Private Groups and High Wealth Individuals Date of publication: 31 May 2002 Date reviewed: 7 June 2017 ISSN: 1445-2782 history Date: Version: 11 March 2002
+Original statement You are here 9 June 2017
 Updated statement

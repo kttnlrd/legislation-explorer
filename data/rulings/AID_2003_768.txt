@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/768
-==================================================
-
-Income Tax
- Direct value shifting - exclusions
- FOI status: may be released
-
-This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Direct value shifting - exclusions FOI status: may be released This ATO ID is withdrawn as it is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will subsection 725-70(1) of the Income Tax Assessment Act 1997 (ITAA 1997) apply to preclude from consequences under Division 725 of the ITAA 1997, the direct value shift that results when the taxpayer is issued shares at a discount to market value in a company that they wholly own?
 Decision
 Yes. Subsection 725-70(1) of the ITAA 1997 will preclude the arrangement from consequences under Division 725 because the sum of the decreases in market value of the existing shares attributable to the direct value shift will be less than $150,000.
@@ -24,53 +9,13 @@ Facts
 The taxpayer purchased an asset (the original asset) before 20 September 1985. The original asset is now valued at approximately $400,000.
 The taxpayer plans to sell the original asset to a company that is incorporated by them (Target Co). The consideration for this transfer will be the issue of 400,000 fully paid $1.00 shares to the taxpayer. The only significant asset in Target Co will be the original asset. Target Co has at present 100 existing ordinary shares which have a total market value of $1,000.
 Reasons for Decision
-There is a direct value shift under section 725-145 of the ITAA 1997 if, as a result of things done under a scheme, there is a decrease in the market value of one of more equity or loan interests in a company (the down interests) and either:
-
-•equity or loan interests in the company are issued at a discount (the up interests), or
-•there is an increase in the market value of one or more equity or loan interests in the company (the up interests).
-
-A direct value shift may result in consequences under Division 725 of the ITAA 1997 which would include a realignment of the value of the equity or loan interests for tax purposes to reflect changes in market value attributable to the direct value shift and, in some cases, a capital gain being generated on the down interests.
+There is a direct value shift under section 725-145 of the ITAA 1997 if, as a result of things done under a scheme, there is a decrease in the market value of one of more equity or loan interests in a company (the down interests) and either: •equity or loan interests in the company are issued at a discount (the up interests), or
+•there is an increase in the market value of one or more equity or loan interests in the company (the up interests). A direct value shift may result in consequences under Division 725 of the ITAA 1997 which would include a realignment of the value of the equity or loan interests for tax purposes to reflect changes in market value attributable to the direct value shift and, in some cases, a capital gain being generated on the down interests.
 A direct value shift will not have consequences under Division 725 of the ITAA 1997 if the sum of the decreases in market value of all the down interests under the same scheme does not exceed $150,000 (subsection 725-70(1)).
 Under the arrangement, shares will be issued in Target Co for a consideration of $1 per share to be satisfied by the transfer of the original asset to the company. As a result, the new market value of Target Co will be $401,000 - being the market value of Target Co prior to the transfer of the original asset ($1,000) plus the market value of the asset transferred ($400,000). Effectively the arrangement will result in the shares being issued at a discount to market value as the market value of each share when issued will be $1.0022494 - being the market value of the company ($401,000) divided by the number of shares in Target Co (400,100). The shares will be issued for a total discount of $899.76 - being the total market value of the shares when issued ($400,899.76) less the consideration paid for their issue ($400,000).
 The total decrease in market value of the 100 existing shares that is attributable to the direct value shift will be $899.78 - being the total market value of those shares before the value shift ($1,000) less the total market value of those shares after the value shift ($100.22). The total decrease in the market value of the existing shares is less than the threshold of $150,000 in subsection 725-70(1) of the ITAA 1997.
 As the total decrease in market value of the existing shares attributable to the direct value shift is less than $150,000, subsection 725-70(1) of the ITAA 1997 will preclude the arrangement from any consequences under the direct value shifting rules in Division 725.
-Date of decision:
-  11 August 2003
-
-Year of income:
-  Year ending 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 725   section 725-145   subsection 725-70(1)
-
-Keywords
-
-CGT assets
- CGT share value shifting arrangements
- Cost base adjustments for value shift
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  29 August 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-11 August 2003
-Original statement
-
-You are here
+Date of decision: 11 August 2003 Year of income: Year ending 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Division 725 section 725-145 subsection 725-70(1) Keywords CGT assets CGT share value shifting arrangements Cost base adjustments for value shift Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 29 August 2003 ISSN: 1445-2782 history Date: Version: 11 August 2003
+Original statement You are here
 19 February 2010
 Archived

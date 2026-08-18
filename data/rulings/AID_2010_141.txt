@@ -1,24 +1,11 @@
 ATO Interpretative Decision
 ATO ID 2010/141
-==================================================
-
-Income Tax
- Consolidation: MEC group - non eligible tier-1 company subsidiary member of a MEC group becoming an eligible tier-1 company member of that same MEC group
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: MEC group - non eligible tier-1 company subsidiary member of a MEC group becoming an eligible tier-1 company member of that same MEC group FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a 'non-eligible tier-1 company' subsidiary member of a MEC (multiple entry consolidated) group cease to be a member of the group, if, at a particular time, the membership interests in it are transferred to a foreign resident member of the same wholly-owned group, so that it becomes an eligible tier-1 company of the top company and a member of the MEC group at that time?
 Decision
 No. A 'non-eligible tier-1 company' subsidiary member of a MEC group will not cease to be a member of the group, if, at a particular time, membership interests in it are transferred to a foreign resident member of the same wholly-owned group, and at that time it becomes an eligible tier-1 company of the top company and a member of the MEC group.
-Facts
-
-TCo, FCo, ACo, BCo and SubCo are members of a wholly-owned group.
+Facts TCo, FCo, ACo, BCo and SubCo are members of a wholly-owned group.
 ACo and BCo are eligible tier-1 companies of top company TCo.
 FCo is a foreign resident company and is a wholly-owned subsidiary of TCo.
 SubCo is a wholly-owned subsidiary of BCo.
@@ -28,11 +15,7 @@ As part of a global restructure, BCo disposes of all its membership interests in
 ACo, as the PHC of the MEC group makes a written choice under paragraph 719-5(4)(c) of the Income Tax Assessment Act 1997 (ITAA 1997), for SubCo to become an eligible tier-1 company member of the MEC group with effect from the time SubCo became an eligible tier-1 company of TCo. ACo notifies the Commissioner in the approved form as required by section 719-77 of the ITAA 1997.
 Reasons for Decision
 At any particular time the members of MEC group, formed by a choice under section 719-50 of the ITAA 1997, will consist of the potential MEC group derived from those eligible tier-1 companies that were a party to the choice under section 719-50 and which continue to be eligible tier-1 companies of the top company at that particular time (subsection 719-5(2) of the ITAA 1997).
-The members of the potential MEC group comprise of the eligible tier-1 companies from which that potential MEC group is derived, and any of their wholly owned subsidiaries, which would satisfy the membership requirements prescribed in subsection 719-10(1) of the ITAA 1997.
-
-Note: section 719-25 of the ITAA 1997 provides that all the members of a MEC group other than the head company are subsidiary members.
-
-An entity will be a 'non-eligible tier-1 company' subsidiary member of a potential MEC group at a particular time, if it satisfies the requirements in the table in subsection 719-10(1) of the ITAA 1997 or is an entity (transitional foreign-held subsidiary) that meets the requirements in sections 701C-10 and 701C-15 of the Income Tax (Transitional Provisions) Act 1997.
+The members of the potential MEC group comprise of the eligible tier-1 companies from which that potential MEC group is derived, and any of their wholly owned subsidiaries, which would satisfy the membership requirements prescribed in subsection 719-10(1) of the ITAA 1997. Note: section 719-25 of the ITAA 1997 provides that all the members of a MEC group other than the head company are subsidiary members. An entity will be a 'non-eligible tier-1 company' subsidiary member of a potential MEC group at a particular time, if it satisfies the requirements in the table in subsection 719-10(1) of the ITAA 1997 or is an entity (transitional foreign-held subsidiary) that meets the requirements in sections 701C-10 and 701C-15 of the Income Tax (Transitional Provisions) Act 1997.
 An entity, other than a transitional foreign-held subsidiary, that is a 'non-eligible tier-1 company' subsidiary member of a potential MEC group will cease to be a member of the potential MEC group at the time it fails to satisfy the requirements in the table in subsection 719-10(1) of the ITAA 1997. At that same time, the 'non-eligible tier-1 company' subsidiary member will also cease to be a member of the MEC group derived from that potential MEC group (subsection 719-5(2) of the ITAA 1997).
 Column 3 of the table in subsection 719-10(1) of the ITAA 1997 requires that the 'non-eligible tier-1 company' subsidiary member be a wholly-owned subsidiary of one or more eligible tier-1 companies.
 When the membership interests in SubCo stop being wholly owned by BCo, it stops being a wholly-owned subsidiary of an eligible tier-1 company and fails to satisfy the ownership requirements in Column 3 of the table in subsection 719-10(1) of the ITAA 1997. Therefore, at that time, SubCo will cease to be a member of the potential MEC group and the MEC group.
@@ -42,41 +25,4 @@ When a company becomes an eligible tier-1 company of the top company of an exist
 SubCo, by satisfying the requirements in section 719-15 of the ITAA 1997 and paragraph 719-20(1)(b) of the ITAA 1997, qualifies as an eligible tier-1 company of the top company, TCo, at the same time it stopped being a member of the potential MEC group and the MEC group. ACo, as the PHC of the MEC group, makes a written choice under subparagraph 719-5(4)(c)(ii) of the ITAA 1997, for SubCo to become a member of the MEC group from the time SubCo became an eligible tier-1 company.
 As SubCo becomes an eligible tier-1 company member of the MEC group at the same time it stopped being a 'non-eligible tier-1 company' subsidiary member of the same group, there was no moment in time that SubCo was not a member of the MEC group.
 The sequence of events around the transfer of the membership interests in SubCo to FCo, and ACo making the choice in subparagraph 719-5(4)(c)(ii) of the ITAA 1997 for SubCo to become a member as an eligible tier-1 company and notifying the Commissioner of this choice under section 719-77 of the ITAA 1997, prevent SubCo being regarded as ceasing to be a subsidiary member of the MEC group at any particular time.
-Date of decision:
-  26 July 2010
-
-Year of income:
-  Substituted accounting period year ended 31 March 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 719-5(2)   subsection 719-5(4)   paragraph 719-5(4)(c)   subparagraph 719-5(4)(c)(ii)   subsection 719-10(1)   section 719-15   section 719-25   section 719-77
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/170
- ATO ID 2006/171
-
-Keywords
-
-Choice to form
- Consolidation - multiple entry consolidated group
- Eligible tier-1 company
- Member of a group
- Potential MEC group
- Provisional head company
- Subsidiary member of a MEC group
- Top company
- Wholly owned subsidiary
-
-Siebel/TDMS Reference Number:
-  1-20L9N16
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  30 July 2010
-
-ISSN:
- 1445-2782
+Date of decision: 26 July 2010 Year of income: Substituted accounting period year ended 31 March 2011 Legislative References: Income Tax Assessment Act 1997 subsection 719-5(2) subsection 719-5(4) paragraph 719-5(4)(c) subparagraph 719-5(4)(c)(ii) subsection 719-10(1) section 719-15 section 719-25 section 719-77 Related ATO Interpretative Decisions ATO ID 2006/170 ATO ID 2006/171 Keywords Choice to form Consolidation - multiple entry consolidated group Eligible tier-1 company Member of a group Potential MEC group Provisional head company Subsidiary member of a MEC group Top company Wholly owned subsidiary Siebel/TDMS Reference Number: 1-20L9N16 Business Line: Consolidation Centre of Expertise Date of publication: 30 July 2010 ISSN: 1445-2782

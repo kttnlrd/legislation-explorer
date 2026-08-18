@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/261
-==================================================
-
-Income Tax
- Qualifying Security: loan agreement - repayment of principal based on sale value of trees at time of harvest
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Qualifying Security: loan agreement - repayment of principal based on sale value of trees at time of harvest FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a loan agreement, where the repayment of the principal and any potential return on the principal is based on the sale value of trees at the time of harvest, a qualifying security under subsection 159GP(1) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The loan is not a qualifying security under subsection 159GP(1) of the ITAA 1936 as the eligible return on the security cannot be determined at the time the loan was issued.
@@ -23,65 +10,12 @@ The taxpayer entered into an agreement with a Government Authority for that auth
 The taxpayer then entered into an agreement with an unrelated party who would fund the plantation expenses and be entitled to receive all the income resulting from the harvest. Under another agreement the taxpayer provided a loan to that party to meet 50% of the plantation expenses. In return, the taxpayer receives 60% of the harvest revenue which is applied to reduce the loan and any excess is deemed, under the agreement, to be interest on the loan.
 Reasons for Decision
 Subsection 159GP(1) of the ITAA 1936 requires, among other things, that a security must have an eligible return for it to be a qualifying security. Under subsection 159GP(3) of the ITAA 1936, a security has an eligible return where, at the time of issue, it is reasonably likely that the sum of the payments (other than periodic interest payments) to an investor under the security will exceed the issue price of the security. In effect, the eligible return is the amount of the excess.
-As the return on the loan is subject to the profitability of the harvest at a future date it cannot be determined at the time the loan is issued that it is reasonably likely there will be an eligible return. Accordingly, the loan is not a qualifying security for the purposes of Division 16E of Part III of the ITAA 1936.
-
-Amendment History
-
-Date of Amendment
+As the return on the loan is subject to the profitability of the harvest at a future date it cannot be determined at the time the loan is issued that it is reasonably likely there will be an eligible return. Accordingly, the loan is not a qualifying security for the purposes of Division 16E of Part III of the ITAA 1936. Amendment History Date of Amendment
 Part
-Comment
-
-26 May 2017
+Comment 26 May 2017
 Legislative references
-References to subsection 159GQ(2) and subsection 159GQ(3) have been removed as they are not quoted in this ATO ID
-
-Date of decision:
-  9 April 2003
-
-Year of income:
-  Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 159GP(1)   subsection 159GP(3)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 96/3
-Taxation Determination TD 94/95
-
-Keywords
-
-Deferred interest securities
- Variable return securities
-
-Siebel/TDMS Reference Number:
-  423259; 1-BFMOYSL
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  24 April 2003
-
-Date reviewed:
-  18 May 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 April 2003
-Original statement
-
-You are here
+References to subsection 159GQ(2) and subsection 159GQ(3) have been removed as they are not quoted in this ATO ID Date of decision: 9 April 2003 Year of income: Year ended 30 June 2000 Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Year ended 30 June 2007 Year ended 30 June 2008 Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 subsection 159GP(1) subsection 159GP(3) Related Public Rulings (including Determinations) Taxation Ruling TR 96/3
+Taxation Determination TD 94/95 Keywords Deferred interest securities Variable return securities Siebel/TDMS Reference Number: 423259; 1-BFMOYSL Business Line: Private Groups and High Wealth Individuals Date of publication: 24 April 2003 Date reviewed: 18 May 2017 ISSN: 1445-2782 history Date: Version: 9 April 2003
+Original statement You are here
 26 May 2017
 Updated statement

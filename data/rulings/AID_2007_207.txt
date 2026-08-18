@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/207
-==================================================
-
-Excise
- Excise: home consumption - delivered - periodic settlement permission
- FOI status: may be released
-
-This ATO ID is withdrawn from the database following the decision of the Federal Court in Caltex Australia Petroleum Pty Ltd v. Commissioner of Taxation [2008] FCA 1951, and is replaced by ATO ID 2010/12.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Excise Excise: home consumption - delivered - periodic settlement permission FOI status: may be released This ATO ID is withdrawn from the database following the decision of the Federal Court in Caltex Australia Petroleum Pty Ltd v. Commissioner of Taxation [2008] FCA 1951, and is replaced by ATO ID 2010/12. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are excisable goods still subject to the CEO's control at the time of their destruction, if they are destroyed after an invoice is raised pursuant to a periodic settlement permission but before the excisable goods are physically delivered from a licensed place?
 Decision
 Yes. Excisable goods are subject to the CEO's control until physically delivered from a licensed place.
@@ -26,104 +11,20 @@ The excise manufacturer held excisable goods in a licensed place.
 An invoice was raised for the excisable goods.
 The excisable goods were loaded onto a truck.
 The excisable goods were destroyed prior to being physically removed from the licensed place.
-The entity's periodic settlement permission was issued subject to the following condition (which is commonly included in periodic settlement permissions):
-
-(a)Before each delivery of the goods the Permission Holder shall raise a document, being one of a consecutively numbered system of documents, related to the delivery time and containing the following particulars:
-
-(i)the quantity and description of the goods to be delivered; and
-(ii)the name of the person to whom the goods will be delivered.
-
-(b)At the time of each delivery of the goods the Permission Holder shall record on the document mentioned in sub-paragraph (a) above, the date of delivery.
-...
-
-Reasons for Decision
-Subsection 61(1) of the Excise Act defines when excisable goods cease to be subject to the CEO's control. Subsection 61(1) states:
-
-61(1) All excisable goods are subject to the CEO's control until delivered for home consumption or for exportation to a place outside Australia, whichever occurs first.
-
-Excisable goods may be delivered without entry under the authority of permission granted under section 61C of the Excise Act which states, in part:
-
-61C(1) A Collector may give permission in writing to a person specified in the permission to deliver for home consumption from a place specified in the permission goods of a kind so specified that are subject to the CEO's control, and, until the permission is revoked, the permission is authority for that person to deliver for home consumption from that place goods of that kind that are subject to the CEO's control (other than goods that a Collector has directed are not to be delivered for home consumption under this section) notwithstanding that an entry of the goods for home consumption has not been made and passed under this Act.
-
-Therefore, in order to determine when goods leave the CEO's control, we must determine what constitutes 'home consumption' and when goods are 'delivered' for home consumption.
-The term 'home consumption' is not defined in the Excise Act and there is no definitive case law that looks at the issue in question. However there are several cases where issues closely related to it are considered. In R v. Lyons (1906) 3 CLR 770 at 784 O'Connor J stated, in relation to the Customs Act 1901 (Customs Act),
-
-... the whole policy of the Customs Act, as indicated by a number of sections, is that, from the time of importation until the time of paying duty, the customs shall not lose control of the articles imported.
-
-His Honour further stated 'if once goods go into home consumption, that is, into circulation ...' He does not appear to distinguish between the concept of duty payment and goods going into home consumption.
-In Carmody v. F C Lovelock Pty Ltd (1970) 123 CLR 1 Gibbs J stated:
-
-... that as a general rule goods entered for home consumption would be lawfully delivered for home consumption, and would pass out of customs' control, forthwith upon an entry being passed. Although the Customs Act does not expressly so provide, the duty would normally be paid at the time of passing the entry (see R. v Lyon).
-
-This differentiates the issues of entries being passed from the payment of duty. While this is a Customs Act case the concept of 'delivered for home consumption' is common to Customs and Excise.
+The entity's periodic settlement permission was issued subject to the following condition (which is commonly included in periodic settlement permissions): (a)Before each delivery of the goods the Permission Holder shall raise a document, being one of a consecutively numbered system of documents, related to the delivery time and containing the following particulars: (i)the quantity and description of the goods to be delivered; and
+(ii)the name of the person to whom the goods will be delivered. (b)At the time of each delivery of the goods the Permission Holder shall record on the document mentioned in sub-paragraph (a) above, the date of delivery.
+... Reasons for Decision
+Subsection 61(1) of the Excise Act defines when excisable goods cease to be subject to the CEO's control. Subsection 61(1) states: 61(1) All excisable goods are subject to the CEO's control until delivered for home consumption or for exportation to a place outside Australia, whichever occurs first. Excisable goods may be delivered without entry under the authority of permission granted under section 61C of the Excise Act which states, in part: 61C(1) A Collector may give permission in writing to a person specified in the permission to deliver for home consumption from a place specified in the permission goods of a kind so specified that are subject to the CEO's control, and, until the permission is revoked, the permission is authority for that person to deliver for home consumption from that place goods of that kind that are subject to the CEO's control (other than goods that a Collector has directed are not to be delivered for home consumption under this section) notwithstanding that an entry of the goods for home consumption has not been made and passed under this Act. Therefore, in order to determine when goods leave the CEO's control, we must determine what constitutes 'home consumption' and when goods are 'delivered' for home consumption.
+The term 'home consumption' is not defined in the Excise Act and there is no definitive case law that looks at the issue in question. However there are several cases where issues closely related to it are considered. In R v. Lyons (1906) 3 CLR 770 at 784 O'Connor J stated, in relation to the Customs Act 1901 (Customs Act), ... the whole policy of the Customs Act, as indicated by a number of sections, is that, from the time of importation until the time of paying duty, the customs shall not lose control of the articles imported. His Honour further stated 'if once goods go into home consumption, that is, into circulation ...' He does not appear to distinguish between the concept of duty payment and goods going into home consumption.
+In Carmody v. F C Lovelock Pty Ltd (1970) 123 CLR 1 Gibbs J stated: ... that as a general rule goods entered for home consumption would be lawfully delivered for home consumption, and would pass out of customs' control, forthwith upon an entry being passed. Although the Customs Act does not expressly so provide, the duty would normally be paid at the time of passing the entry (see R. v Lyon). This differentiates the issues of entries being passed from the payment of duty. While this is a Customs Act case the concept of 'delivered for home consumption' is common to Customs and Excise.
 In the circumstances in question, the goods are the subject of authority under section 61C of the Excise Act which allows for delivery for home consumption without entry. It is the act of delivery that removes the goods from the CEO's control.
-The issuing of an invoice is relevant to this question because of the conditions contained in the section 61C of the Excise Act permission. One condition states:
-
-(a)Before each delivery of the goods the Permission Holder shall raise a document, being one of a consecutively numbered system of documents, related to the delivery time and containing the following particulars:
-
-(i)the quantity and description of the goods to be delivered; and
-(ii)the name of the person to whom the goods will be delivered.
-
-(b)At the time of each delivery of the goods the Permission Holder shall record on the document mentioned in sub-paragraph (a) above, the date of delivery.
-...
-
-The purpose of this condition is to record the relevant date for the calculation of duty, as explained in section 59 of the Excise Act which states:
-
-59 Subject to section 59A, the excise duty on excisable goods must be paid at the rate in force:
-
-(a)when the goods are delivered into home consumption under section 61C(2); or
-(b)when payment is made
-
-whichever is the earlier.
-
-(Note section 59A of the Excise Act relates to quotas and is not relevant in these circumstances.)
+The issuing of an invoice is relevant to this question because of the conditions contained in the section 61C of the Excise Act permission. One condition states: (a)Before each delivery of the goods the Permission Holder shall raise a document, being one of a consecutively numbered system of documents, related to the delivery time and containing the following particulars: (i)the quantity and description of the goods to be delivered; and
+(ii)the name of the person to whom the goods will be delivered. (b)At the time of each delivery of the goods the Permission Holder shall record on the document mentioned in sub-paragraph (a) above, the date of delivery.
+... The purpose of this condition is to record the relevant date for the calculation of duty, as explained in section 59 of the Excise Act which states: 59 Subject to section 59A, the excise duty on excisable goods must be paid at the rate in force: (a)when the goods are delivered into home consumption under section 61C(2); or
+(b)when payment is made whichever is the earlier. (Note section 59A of the Excise Act relates to quotas and is not relevant in these circumstances.)
 Permission under section 61C of the Excise Act allows for goods to be delivered for home consumption without entry. However section 61 of the Excise Act maintains the CEO's control until goods are delivered. The Excise Act does not define 'delivered'. The ordinary meaning of delivery is discussed in Gamer's Motor Centre (Newcastle) Pty Ltd v. Natwest Wholesale Australia Pty Ltd (1987) 163 CLR 236. Mason CJ noted (at 243) the popular meaning of the word delivery is the dispatch of goods. It is our view that section 61 of the Excise Act requires there to be physical movement of the goods for goods to be 'delivered for home consumption'. Excisable goods are therefore subject to the CEO's control until dispatched into circulation. This means the goods must physically leave the licensed area and once they do so they are no longer subject to the CEO's control.
 Where the goods have been destroyed before physically leaving the licensed premise they are still subject to the CEO's control even though an invoice has been raised. Where a licence incorporates only part of a premise then movement out of the licensed area to part of the premise not licensed will constitute delivery from the CEO's control.
-Date of decision:
-  28 August 2006
-
-Legislative References:
-
-Excise Act 1901   subsection 61(1)   subsection 61C(1)   section 59
-
-Case References:
-
-R v. Lyons   (1906) 3 CLR 770   (1906) 13 ALR 37
-
-Gamer's Motor Centre (Newcastle) Pty Ltd v. Natwest Wholesale Australia Pty Ltd   (1987) 163 CLR 236
-
-Carmody v. F C Lovelock Pty Ltd   (1970) 123 CLR 1
-
-Keywords
-
-Delivered for home consumption
- Excisable goods
- Excise
- Excise collections
- Licensing
- Weekly settlement permission
-
-Business Line:
-  Excise
-
-Date of publication:
-  15 November 2007
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-28 August 2006
-Original statement
-
-You are here
+Date of decision: 28 August 2006 Legislative References: Excise Act 1901 subsection 61(1) subsection 61C(1) section 59 Case References: R v. Lyons (1906) 3 CLR 770 (1906) 13 ALR 37 Gamer's Motor Centre (Newcastle) Pty Ltd v. Natwest Wholesale Australia Pty Ltd (1987) 163 CLR 236 Carmody v. F C Lovelock Pty Ltd (1970) 123 CLR 1 Keywords Delivered for home consumption Excisable goods Excise Excise collections Licensing Weekly settlement permission Business Line: Excise Date of publication: 15 November 2007 ISSN: 1445-2782 history Date: Version: 28 August 2006
+Original statement You are here
 15 January 2010
 Archived

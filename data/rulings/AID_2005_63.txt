@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/63
-==================================================
-
-Income Tax
- Consolidation: meaning of a day for purposes of Part 3-90 of the ITAA 1997
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: meaning of a day for purposes of Part 3-90 of the ITAA 1997 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Must an eligible subsidiary member of a consolidatable group close its current financial year at midnight on the day prior to the day from which the head company's choice to consolidate becomes effective?
 Decision
 Yes. The word 'day' takes its ordinary meaning as it is not defined in the Income Tax Assessment Act 1997 (ITAA 1997) or in the Acts Interpretation Act 1901(Cth). In this instance, the eligible subsidiary's day cannot be said to have ended if trading and other transactions are being carried on. Accordingly, the eligible subsidiary member's income tax return for the year preceding consolidation must include all transactions up until midnight on the day before consolidation occurs. The administrative convenience, in which an earlier closing of a company's financial year, is not acceptable in this instance.
@@ -24,94 +13,15 @@ For income tax purposes, Company B regularly closed its books at 4:00pm on 30 Ju
 Between 4:00pm and 12:00am on the 30th June prior to the consolidation group forming, Company B earned a significant amount of assessable income, and incurred no deductions.
 Company A closes its books at midnight on 30 June each financial year. It commences its new financial year from midnight, immediately after the closure of its books for the preceding financial year.
 Reasons for Decision
-The word 'day' is not defined in:
-
-•The Income Tax Assessment Act 1936 (ITAA 1936),
+The word 'day' is not defined in: •The Income Tax Assessment Act 1936 (ITAA 1936),
 •The ITAA 1997, or
-•The Acts Interpretation Act.
-
-Consequently, the word day must be given its ordinary meaning. In a business and commercial context, the word 'day' is generally regarded as meaning a civil day, which is the 24 hour period from midnight to midnight. In some situations, a civil day may be regarded as a different 24 hour period, for example, where businesses or individuals cease trading, employment or their income earning activities prior to midnight on an ongoing basis.
+•The Acts Interpretation Act. Consequently, the word day must be given its ordinary meaning. In a business and commercial context, the word 'day' is generally regarded as meaning a civil day, which is the 24 hour period from midnight to midnight. In some situations, a civil day may be regarded as a different 24 hour period, for example, where businesses or individuals cease trading, employment or their income earning activities prior to midnight on an ongoing basis.
 For the purposes of making a choice to consolidate under section 703-50 of the ITAA 1997, the day referred to in the choice reflects the civil day of the head company (normally regarded as the 24 hour period from midnight to midnight). Thus, company A's choice to consolidate takes effect from midnight in the morning of 1 July.
 Prior to the choice becoming effective, each subsidiary member of a consolidatable group is responsible for managing its own income tax affairs, and lodging its own income tax returns. Company B is therefore responsible for lodging its own income tax return for the income year immediately prior to the choice taking effect.
-Section 995-1 of the ITAA 1997 defines an income year as:
-
-income year:
- the basic meaning is given by subsections 4-10(2) and 9-5(2). Some provisions refer to a particular income year. (They may describe it in different ways: for example, as the income year ending on 30 June 1998, or the 1997-98 income year.) For an entity that adopts an accounting period in place of the particular income year, the reference includes:
-
-(a)the adopted accounting period; or
-(b)if the adopted accounting period ends under section 18A of the Income Tax Assessment Act 1936:
-
-(i)in relation to the commencing of the income year - the adopted accounting period (as ending under that section); or
-(ii)in relation to the ending of the income year - the accounting period ending under that section on the day on which the adopted accounting period would (but for that section) have ended.
-
-Note 1: The Commissioner can allow you to adopt an accounting period ending on a day other that 30 June. See section 18 of the ITAA 1936.
-
-Note 2: An accounting period ends, and a new accounting period starts, when a partnership becomes, or ceases to be, a VCLP, an AFOF or a VCMP. See section 18A of the ITAA 1936.
-
-Subsection 4-10(2) of the ITAA 1997 states:
-
-Your income tax is worked out by reference to your taxable income for the income year. The income year is the same as the *financial year, except in these cases:
-
-for a company, the income year is the previous financial year;if you have an accounting period that is not the same as the financial year, each such accounting period or, for a company, each previous accounting period is an income year.
-
-Subsection 9-5(2) of the ITAA 1997 provides a similar definition of an income year.
-Section 995-1 of the ITAA 1997 defines 'financial year' as follows:
-
-financial year
- means a period of 12 months beginning on 1 July.
-
-Paragraph 22(1)(e) of the Acts Interpretation Act 1901 provides a similar definition:
-
-financial year
- means a period of 12 months commencing on 1 July.
-
-For the purposes of these definitions, the day of '1 July' is the civil day. That is, the 24 hour period from midnight to midnight on 1 July.
-Company B's commercial practice was to treat its civil day for income tax purposes as the 24 hour period from 4:00pm to 4:00pm, and thus its income year as ending at 4:00pm on 30 June, with a new income year commencing from 4:00pm on the same day. However, the use of the administrative convenience
- on the last day
- of company B's income year prior to consolidation is unacceptable as it conflicts with the requirement for company B to lodge a return disclosing all of the income it has earned during the income year - which includes the time from 4:00pm to midnight on 30 June.
-
-Note: Section 701-30 of the ITAA 1997 requires subsidiary members of a consolidated group to lodge an income tax return in respect of any period in an income year in which it was not a member of a consolidated group during the income year. The definition of day will also be relevant to the application of that provision.
-
-Date of decision:
-  16 February 2005
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 18   section 18A
-Income Tax Assessment Act 1997   subsection 4-10(2)   subsection 9-5(2)   Part 3-90   section 701-30   section 703-50   section 995-1
-Acts Interpretation Act 1901 (Cth)   paragraph 22(1)(e)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/1180
-
-Keywords
-
-Consolidation
- Consolidation - continuity of ownership test
- Consolidation - exiting
- Consolidation - formation
- Consolidation - membership
- Consolidation - tax liabilities
- Effect of an Australian law
- Formation time
- Leaving time
- Measurement days
- Member of a group
- Non-membership period
- Working days
-
-Siebel/TDMS Reference Number:
-  4279743
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  18 February 2005
-
-ISSN:
- 1445-2782
+Section 995-1 of the ITAA 1997 defines an income year as: income year: the basic meaning is given by subsections 4-10(2) and 9-5(2). Some provisions refer to a particular income year. (They may describe it in different ways: for example, as the income year ending on 30 June 1998, or the 1997-98 income year.) For an entity that adopts an accounting period in place of the particular income year, the reference includes: (a)the adopted accounting period; or
+(b)if the adopted accounting period ends under section 18A of the Income Tax Assessment Act 1936: (i)in relation to the commencing of the income year - the adopted accounting period (as ending under that section); or
+(ii)in relation to the ending of the income year - the accounting period ending under that section on the day on which the adopted accounting period would (but for that section) have ended. Note 1: The Commissioner can allow you to adopt an accounting period ending on a day other that 30 June. See section 18 of the ITAA 1936. Note 2: An accounting period ends, and a new accounting period starts, when a partnership becomes, or ceases to be, a VCLP, an AFOF or a VCMP. See section 18A of the ITAA 1936. Subsection 4-10(2) of the ITAA 1997 states: Your income tax is worked out by reference to your taxable income for the income year. The income year is the same as the *financial year, except in these cases: for a company, the income year is the previous financial year;if you have an accounting period that is not the same as the financial year, each such accounting period or, for a company, each previous accounting period is an income year. Subsection 9-5(2) of the ITAA 1997 provides a similar definition of an income year.
+Section 995-1 of the ITAA 1997 defines 'financial year' as follows: financial year means a period of 12 months beginning on 1 July. Paragraph 22(1)(e) of the Acts Interpretation Act 1901 provides a similar definition: financial year means a period of 12 months commencing on 1 July. For the purposes of these definitions, the day of '1 July' is the civil day. That is, the 24 hour period from midnight to midnight on 1 July.
+Company B's commercial practice was to treat its civil day for income tax purposes as the 24 hour period from 4:00pm to 4:00pm, and thus its income year as ending at 4:00pm on 30 June, with a new income year commencing from 4:00pm on the same day. However, the use of the administrative convenience on the last day of company B's income year prior to consolidation is unacceptable as it conflicts with the requirement for company B to lodge a return disclosing all of the income it has earned during the income year - which includes the time from 4:00pm to midnight on 30 June. Note: Section 701-30 of the ITAA 1997 requires subsidiary members of a consolidated group to lodge an income tax return in respect of any period in an income year in which it was not a member of a consolidated group during the income year. The definition of day will also be relevant to the application of that provision. Date of decision: 16 February 2005 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 18 section 18A
+Income Tax Assessment Act 1997 subsection 4-10(2) subsection 9-5(2) Part 3-90 section 701-30 section 703-50 section 995-1
+Acts Interpretation Act 1901 (Cth) paragraph 22(1)(e) Related ATO Interpretative Decisions ATO ID 2003/1180 Keywords Consolidation Consolidation - continuity of ownership test Consolidation - exiting Consolidation - formation Consolidation - membership Consolidation - tax liabilities Effect of an Australian law Formation time Leaving time Measurement days Member of a group Non-membership period Working days Siebel/TDMS Reference Number: 4279743 Business Line: Consolidation Centre of Expertise Date of publication: 18 February 2005 ISSN: 1445-2782

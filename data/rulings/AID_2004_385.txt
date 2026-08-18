@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/385
-==================================================
-
-Fringe Benefits Tax
- Car fringe benefits: cost basis (operating cost) method - log book records not maintained
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Fringe Benefits Tax Car fringe benefits: cost basis (operating cost) method - log book records not maintained FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can an employer use the operating cost method to value the car fringe benefits in relation to a particular car, under subsection 10(2) of Fringe Benefits Tax Assessment Act 1986 (FBTAA), where a log book has not been maintained?
 Decision
 Yes. An employer can use the operating cost method of valuing all of the car fringe benefits for a particular car, under subsection 10(2) of the FBTAA, where a log book has not been maintained. However, there will be no reduction in the operating cost of the car for any business journeys that were made.
@@ -26,65 +13,11 @@ The employee made a recipient's payment in relation to this car.
 Reasons for Decision
 Under subsection 10(1) of the FBTAA an employer may elect to use the cost basis (or operating cost) method to calculate the taxable value of all of the car fringe benefits that relate to a particular car.
 The operating cost method under subsection 10(2) of the FBTAA makes provision for a reduction in the taxable value of the car fringe benefits in relation to a car where there has been business use of the car. However, under section 10A of the FBTAA, the employer is not entitled to make such a reduction unless a log book has been maintained.
-Where a log book has not been maintained the taxable value of a car under the operating cost method will be the total operating costs of the car reduced by any recipient's payment. The employer is entitled to use the operating cost method of calculating the taxable value of the car fringe benefits but will be prohibited from making any reduction in the taxable value for any business use of the car.
-
-Note: Regard should be had to subsection 10(5) of the FBTAA. If the employer elects to use the operating cost method and this results in a higher taxable value than under the statutory formula method, the election will be deemed not to have been made. As such, the taxable value would then be calculated under the statutory formula method.
-
-Amendment History
-
-Date of Amendment
+Where a log book has not been maintained the taxable value of a car under the operating cost method will be the total operating costs of the car reduced by any recipient's payment. The employer is entitled to use the operating cost method of calculating the taxable value of the car fringe benefits but will be prohibited from making any reduction in the taxable value for any business use of the car. Note: Regard should be had to subsection 10(5) of the FBTAA. If the employer elects to use the operating cost method and this results in a higher taxable value than under the statutory formula method, the election will be deemed not to have been made. As such, the taxable value would then be calculated under the statutory formula method. Amendment History Date of Amendment
 Part
-Comment
-
-11 March 2026
+Comment 11 March 2026
 Business Line
-Updated to correct business line
-
-Date of decision:
-  31 March 2004
-
-Year of income:
-  Year ended 31 March 2005
-
-Legislative References:
-
-Fringe Benefits Tax Assessment Act 1986   subsection 10(1)   subsection 10(2)   subsection 10(5)   section 10A
-
-Keywords
-
-Fringe benefits tax
- Car fringe benefits
- FBT log book records
- FBT operating cost
- FBT car
-
-Siebel/TDMS Reference Number:
-  3758771; 1-62TN4H6; 1-CXDTI3E
-
-Business Line:
-  Superannuation and Employer Obligations
-
-Date of publication:
-  7 May 2004
-
-Date reviewed:
-  2 March 2026
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-31 March 2004
-Original statement
-
-You are here
+Updated to correct business line Date of decision: 31 March 2004 Year of income: Year ended 31 March 2005 Legislative References: Fringe Benefits Tax Assessment Act 1986 subsection 10(1) subsection 10(2) subsection 10(5) section 10A Keywords Fringe benefits tax Car fringe benefits FBT log book records FBT operating cost FBT car Siebel/TDMS Reference Number: 3758771; 1-62TN4H6; 1-CXDTI3E Business Line: Superannuation and Employer Obligations Date of publication: 7 May 2004 Date reviewed: 2 March 2026 ISSN: 1445-2782 history Date: Version: 31 March 2004
+Original statement You are here
 11 March 2026
 Updated statement

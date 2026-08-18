@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/1
-==================================================
-
-Income Tax
- Capital allowances: depreciating asset - jointly held - composite asset
- FOI status: may be released
-
-This ATO ID is withdrawn and has been replaced by Draft Taxation Ruling TR 2017/D1 Income tax: composite items and identifying the depreciating asset for the purposes of working out capital allowances.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital allowances: depreciating asset - jointly held - composite asset FOI status: may be released This ATO ID is withdrawn and has been replaced by Draft Taxation Ruling TR 2017/D1 Income tax: composite items and identifying the depreciating asset for the purposes of working out capital allowances. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purposes of section 40-35 of the Income Tax Assessment Act 1997 (ITAA 1997), is a depreciating asset jointly held by the taxpayer and other entities where the taxpayer owns some of the parts of the depreciating asset and the remaining parts are owned by the other entities?
 Decision
 Yes, a depreciating asset is jointly held by the taxpayer and other entities for the purposes of section 40-35 of the ITAA 1997, where the taxpayer owns some of the parts of the depreciating asset and the remaining parts are owned by the other entities.
@@ -31,78 +16,17 @@ For depreciating assets that are co-owned but are not partnership assets, sectio
 Section 40-35 of the ITAA 1997 applies in circumstances where a depreciating asset (the underlying asset) that you hold is also held by one or more entities. In this context it is unclear whether the words of the section require a direct holding only of the whole or of a proportion of the depreciating asset itself or whether the applicable holding interest extends to a holding of parts which taken together form the depreciation asset.
 However, where ownership of a depreciating asset is divided into parts, limiting holders of the asset only to those owning parts expressed as a proportion of the whole asset and not those owning parts expressed in any other way would fail to give effect to the intent of the Division that it apply to all holders of any asset according to their own cost and their own circumstances.
 Relevantly there is no basis to conclude that subsection 40-35 of the ITAA 1997, because it lacks express reference to one's holding of parts rather than a proportion of a composite item, must be interpreted to mean that a holding of separate parts is not a relevant holding of the depreciating asset itself for the purpose of Division 40 of the ITAA 1997.
-Section 15AA of the Acts Interpretation Act 1901 provides:
-
-In the interpretation of a provision of an Act, a construction that would promote the purpose or object underlying the Act (whether that purpose or object is expressly stated in the Act or not) shall be preferred to a construction that would not promote that purpose or object.
-
-The essential purpose of identifying whether a particular composite item is itself a depreciating asset or whether its components are separate depreciating assets is to identify the basis of a life in effective use and subsequently the holder's basis of entitlement to a decline in value in such use. Thus one would expect that the one's relevant holding interest in a particular composite item judged to be a depreciating asset for the purpose of the basis of entitlement to a decline in value in that asset, is equivalent to one's economic interest in the composite item as opposed to one's economic interest in the component assets that form that asset.
+Section 15AA of the Acts Interpretation Act 1901 provides: In the interpretation of a provision of an Act, a construction that would promote the purpose or object underlying the Act (whether that purpose or object is expressly stated in the Act or not) shall be preferred to a construction that would not promote that purpose or object. The essential purpose of identifying whether a particular composite item is itself a depreciating asset or whether its components are separate depreciating assets is to identify the basis of a life in effective use and subsequently the holder's basis of entitlement to a decline in value in such use. Thus one would expect that the one's relevant holding interest in a particular composite item judged to be a depreciating asset for the purpose of the basis of entitlement to a decline in value in that asset, is equivalent to one's economic interest in the composite item as opposed to one's economic interest in the component assets that form that asset.
 This interpretation is supported by the decision in Overseas Telecommunications Commission (Australia) v. Federal Commissioner of Taxation [1989] FCA 447; 89 ATC 5200; (1989) 20 ATR 1482 (OTC). In that case the question at issue was whether OTC was entitled to deductions for investment allowances pursuant to Subdivision B of Division 3 of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) in respect of OTC's interest in certain segments of the ANZCAN submarine cable (the ANZCAN cable).
 To determine that question it was necessary to determine whether the depreciating asset was the whole system (including Segment A, between Australia and Norfolk Island; Segment B, between Norfolk Island and Fiji; Segment C, between Fiji and Hawaii; Segment D, between Hawaii and Canada; and Segment E, between Norfolk Island and New Zealand), whether each segment was a separate depreciating asset (important to timing of deductions), and whether each segment included separate depreciating assets (argued to be on-shore up to the 'beach joint', on-shore between 'super group distribution frame' in the cable station and the beach joint, and the submarine part of the system).
 Despite the fact that different parts of a segment were found to be owned by different taxpayers, and that the parts that were off shore and not in territorial waters were jointly owned by tenants in common (per Lockhart J at FCA paragraph 16), the whole of each segment between two countries, including its on-shore, territorial waters, and international waters elements, was found to be a single unit of eligible property by Lockhart J (at FCA paragraphs 55-61).
 Although the decision in the OTC case related to the availability of deductions under the Investment Allowance provisions, the Commissioner considers that the principles established in that case as to what constituted the units of eligible property and the co-ownership of those units can be applied equally to the identification of depreciating assets and the joint holding of those assets for the purposes of Division 40 of the ITAA 1997.
-Further support for the application of the finding in the OTC case to section 40-35 of the ITAA 1997 is provided in paragraph 1.58 of the Explanatory Memorandum to New Tax System (Capital Allowances) Bill 2001 where it was stated that:
-
-Where there is more than one holder of a depreciating asset, it is the decline in value of an entity's cost of that asset which is taken into account [
- Schedule 1, item 1, subsection 40
--
- 35(1
-)]. The interest in the underlying asset is dealt with as if it were the depreciating asset itself. This rule looks to whether, under the table in section 40-40, there is more than one entity which holds the same depreciating asset; it is not necessarily concerned with whether there is joint tenancy or co-ownership at general law. (Emphasis added)
-
-In the present case, the taxpayer is the legal owner of part of one asset which, integrated with other parts for use in a particular way, is the depreciating asset. The taxpayer holds the depreciating asset under item 10 of the table in section 40-40 of the ITAA 1997. Other entities who own parts of the depreciating asset would also hold the depreciating asset for the purposes of section 40-40.
+Further support for the application of the finding in the OTC case to section 40-35 of the ITAA 1997 is provided in paragraph 1.58 of the Explanatory Memorandum to New Tax System (Capital Allowances) Bill 2001 where it was stated that: Where there is more than one holder of a depreciating asset, it is the decline in value of an entity's cost of that asset which is taken into account [ Schedule 1, item 1, subsection 40
+- 35(1
+)]. The interest in the underlying asset is dealt with as if it were the depreciating asset itself. This rule looks to whether, under the table in section 40-40, there is more than one entity which holds the same depreciating asset; it is not necessarily concerned with whether there is joint tenancy or co-ownership at general law. (Emphasis added) In the present case, the taxpayer is the legal owner of part of one asset which, integrated with other parts for use in a particular way, is the depreciating asset. The taxpayer holds the depreciating asset under item 10 of the table in section 40-40 of the ITAA 1997. Other entities who own parts of the depreciating asset would also hold the depreciating asset for the purposes of section 40-40.
 Consequently, subsection 40-35(1) of the ITAA 1997 applies to the depreciating asset as it is held by more than one entity. The depreciating asset is jointly held by the taxpayer and the other entities who own the other parts of the asset for the purposes of section 40-35 of the ITAA 1997.
-Date of decision:
-  13 December 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 40   section 40-25   subsection 40-30(4)   section 40-35   subsection 40-35(1)   section 40-40
-Acts Interpretation Act 1901   section 15AA
-
-Case References:
-
-Overseas Telecommunications Commission (Australia) v Federal Commissioner of Taxation   [1989] FCA 447   89 ATC 5200   (1989) 20 ATR 1482
-
-Related ATO Interpretative Decisions
-
- ATO ID 2011/2
-
-Other References:
-
- Explanatory Memorandum to New Tax System (Capital Allowances) Bill 2001
-
-Keywords
-
-Assets
- Capital assets
- CGT assets
- Depreciating assets
- Hold a depreciating asset
- Jointly held depreciating asset
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 January 2011
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 December 2010
-Original statement
-
-You are here
+Date of decision: 13 December 2010 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1997 Division 40 section 40-25 subsection 40-30(4) section 40-35 subsection 40-35(1) section 40-40
+Acts Interpretation Act 1901 section 15AA Case References: Overseas Telecommunications Commission (Australia) v Federal Commissioner of Taxation [1989] FCA 447 89 ATC 5200 (1989) 20 ATR 1482 Related ATO Interpretative Decisions ATO ID 2011/2 Other References: Explanatory Memorandum to New Tax System (Capital Allowances) Bill 2001 Keywords Assets Capital assets CGT assets Depreciating assets Hold a depreciating asset Jointly held depreciating asset Business Line: Public Groups and International Date of publication: 7 January 2011 ISSN: 1445-2782 history Date: Version: 13 December 2010
+Original statement You are here
 18 January 2017
 Archived

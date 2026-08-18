@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/106
-==================================================
-
-Income Tax
- Depreciation of share trading software
- FOI status: may be released
-
-'This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that was repealed with effect from 1 July 2001. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions relating to the former provision. Note: The principles contained in this ATO ID may be relevant where a replacement or rewritten provision is applied
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Depreciation of share trading software FOI status: may be released 'This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that was repealed with effect from 1 July 2001. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions relating to the former provision. Note: The principles contained in this ATO ID may be relevant where a replacement or rewritten provision is applied This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer entitled to claim a deduction for depreciation under Division 46 of the Income Tax Assessment Act 1997 (ITAA 1997) for share trading software?
 Decision
 Yes. The taxpayer is entitled to claim a deduction under Division 46 of the ITAA 1997 for depreciation for the share trading software as it is used for income producing purposes.
@@ -25,49 +10,7 @@ The taxpayer is a share investor and receives income from the sale of shares and
 Reasons for Decision
 Division 46 of the ITAA 1997 allows a deduction to be claimed for depreciation of software that has been used for income producing purposes. In accordance with subdivision 46B of the ITAA 1997, the deduction is to be calculated using the prime cost method with an effective life of 2.5 years (i.e., a rate of 40%). This rate and method is prescribed by the ITAA 1997 and is the only rate available for calculating depreciation for software expenditure.
 The taxpayer receives company dividends. The dividends are assessable income under subsection 44(1) of the Income Tax Assessment Act 1936. The taxpayer uses the software for income producing purposes.
-The taxpayer will be entitled to claim a deduction for depreciation of the share trading software using the following formula:
-
-Software Depreciation = (Cost * Days Owned * 0.4) / Days in Year
-
-Date of decision:
-  20 November 2001
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 44(1)
-Income Tax Assessment Act 1997   Division 46
-
-Keywords
-
-Deductions & expenses
- Telephone expenses
- Shares
- Internet
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  30 January 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 November 2001
-Original statement
-
-You are here
- 9 June 2006
+The taxpayer will be entitled to claim a deduction for depreciation of the share trading software using the following formula: Software Depreciation = (Cost * Days Owned * 0.4) / Days in Year Date of decision: 20 November 2001 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1936 subsection 44(1)
+Income Tax Assessment Act 1997 Division 46 Keywords Deductions & expenses Telephone expenses Shares Internet Business Line: Private Groups and High Wealth Individuals Date of publication: 30 January 2002 ISSN: 1445-2782 history Date: Version: 20 November 2001
+Original statement You are here 9 June 2006
 Archived

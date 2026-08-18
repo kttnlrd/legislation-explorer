@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/321
-==================================================
-
-Income tax
- Foreign exchange (forex) gains and losses: acquisition of foreign currency under a forward exchange contract
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Foreign exchange (forex) gains and losses: acquisition of foreign currency under a forward exchange contract FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does forex realisation event 2 (FRE 2) happen under subsection 775-45(1) of the Income Tax Assessment Act 1997 (ITAA 1997) when foreign currency is acquired under a forward exchange contract?
 Decision
 Yes. FRE 2 will happen under subsection 775-45(1) of the ITAA 1997 when foreign currency is acquired under a forward exchange contract.
@@ -31,69 +16,10 @@ A forex realisation loss is made under subsection 775-45(4) of the ITAA 1997 if 
 The 'tax recognition time' is essentially when an event occurs which creates tax consequences. Item 4 of subsection 775-45(7) of the ITAA 1997 provides that for a right acquired in return for agreeing to pay AUD, the tax recognition time is when the amount is paid.
 Subsection 775-45(4) of the ITAA 1997 provides that the forex realisation loss is the amount of shortfall attributable to a currency exchange rate effect. A 'currency exchange rate effect' is defined in subsection 775-105(1) of the ITAA 1997. It is described as any currency exchange rate fluctuation, or as the difference between an expressly or implicitly agreed currency exchange rate for a future time, and the actual currency exchange rate at that time.
 The AUD equivalent of the USD 1,000,000 received by the taxpayer on 1 June 2005 is $1,315,789. This is the AUD equivalent value of the USD converted using the spot rate on the day the amount is received (item 11 of the table in subsection 960-50(6) of the ITAA 1997). The AUD equivalent of the amount the taxpayer is required to pay, as set by the forward exchange contract, is $1,351,351.
-The taxpayer has made a forex realisation loss under subsection 775-45(4) of the ITAA 1997 of $35,562, as the amount the taxpayer received fell short of the forex cost base of the right. The shortfall is attributable to a currency exchange rate effect and is deductible from assessable income pursuant to subsection 775-30(1) of the ITAA 1997 in the income year in which FRE 2 happens, being the year ended 30 June 2005.
-
-Amendment History
-
-Date of Amendment
+The taxpayer has made a forex realisation loss under subsection 775-45(4) of the ITAA 1997 of $35,562, as the amount the taxpayer received fell short of the forex cost base of the right. The shortfall is attributable to a currency exchange rate effect and is deductible from assessable income pursuant to subsection 775-30(1) of the ITAA 1997 in the income year in which FRE 2 happens, being the year ended 30 June 2005. Amendment History Date of Amendment
 Part
-Comment
-
-1 September 2017
+Comment 1 September 2017
 Disclaimer
-Disclaimer added.
-
-Date of decision:
-  11 November 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 775-30(1)   subsection 775-45(1)   subsection 775-45(2)   subsection 775-45(4)   subsection 775-45(7)   section 775-85   subsection 775-105(1)   subsection 960-50(6)
-
-Keywords
-
-Currency exchange rate
- Financial derivatives
- Foreign currency
- Foreign currency rights
- Foreign exchange gains and losses
- Forex cost base
- Forex realisation event
- Forex realisation loss
- Forward rate agreements
- Hedging
- Tax recognition time
-
-Siebel/TDMS Reference Number:
-  4759339; 1-5TZXBPM
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  25 November 2005
-
-Date reviewed:
-  25 August 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-11 November 2005
-Original statement
-
-You are here
- 1 September 2017
+Disclaimer added. Date of decision: 11 November 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 subsection 775-30(1) subsection 775-45(1) subsection 775-45(2) subsection 775-45(4) subsection 775-45(7) section 775-85 subsection 775-105(1) subsection 960-50(6) Keywords Currency exchange rate Financial derivatives Foreign currency Foreign currency rights Foreign exchange gains and losses Forex cost base Forex realisation event Forex realisation loss Forward rate agreements Hedging Tax recognition time Siebel/TDMS Reference Number: 4759339; 1-5TZXBPM Business Line: Private Groups and High Wealth Individuals Date of publication: 25 November 2005 Date reviewed: 25 August 2017 ISSN: 1445-2782 history Date: Version: 11 November 2005
+Original statement You are here 1 September 2017
 Updated statement

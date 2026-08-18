@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/572
-==================================================
-
-Income Tax
- Foreign Exchange (Forex): Forex realisation loss on repayment of borrowings to acquire non-portfolio dividend
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign Exchange (Forex): Forex realisation loss on repayment of borrowings to acquire non-portfolio dividend FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will any foreign exchange (forex) realisation loss made on the repayment of borrowings used to acquire shares in certain foreign companies, be disregarded under subsection 775-35(2) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. A forex realisation loss made on the repayment of borrowings used to acquire shares in certain foreign companies will be disregarded under subsection 775-35(2) of the ITAA 1997.
@@ -27,31 +14,15 @@ Forex realisation event 4 occurs when the obligation to pay the borrowings is di
 Under the borrowing agreement, the taxpayer received foreign currency. In return for receipt of this foreign currency, the taxpayer incurred an obligation to repay foreign currency to the financier.
 When the taxpayer repays all or part of the borrowings, its obligation to pay foreign currency to the financier will cease to the extent of that repayment.
 Since the taxpayer's obligation to repay foreign currency was incurred in return for receiving an amount of foreign currency, forex realisation event 4 (FRE 4) will happen each time the taxpayer repays some or all of the borrowings (paragraph 775-55(1)(a) and subparagraph 775-55(1)(b)(ix) of the ITAA 1997 apply). FRE 4 will happen at the time of each repayment, pursuant to subsection 775-55(2).
-Whether a FRE 4 arising on a repayment of some or all of the borrowings, gives rise to a forex realisation gain (under subsection 775-55(3) of the ITAA 1997) or a forex realisation loss (under subsection 775-55(5)), requires a comparison to be made between:
-
-(a)the amount the taxpayer repays, translated into Australian currency at the exchange rate applicable at the time of repayment (pursuant to subsection 960-50(6) item 11 of the ITAA 1997),
-
-and
-
-(b)the amount of that part of the borrowings repaid, translated into Australian currency at the exchange rate applicable at the time when the foreign currency borrowed was received by the taxpayer (pursuant to section 775-95, subsection 775-55(7) item 8(a) and subsection 960-50(6) item 11 of the ITAA 1997).
-
-Where the amount in paragraph (a) above exceeds the amount in paragraph (b) above, so much of that excess that is attributable to a currency exchange rate effect (as defined in section 775-105 of the ITAA 1997), is a forex realisation loss of the taxpayer (pursuant to subsection 775-55(5) of the ITAA 1997).
+Whether a FRE 4 arising on a repayment of some or all of the borrowings, gives rise to a forex realisation gain (under subsection 775-55(3) of the ITAA 1997) or a forex realisation loss (under subsection 775-55(5)), requires a comparison to be made between: (a)the amount the taxpayer repays, translated into Australian currency at the exchange rate applicable at the time of repayment (pursuant to subsection 960-50(6) item 11 of the ITAA 1997), and (b)the amount of that part of the borrowings repaid, translated into Australian currency at the exchange rate applicable at the time when the foreign currency borrowed was received by the taxpayer (pursuant to section 775-95, subsection 775-55(7) item 8(a) and subsection 960-50(6) item 11 of the ITAA 1997). Where the amount in paragraph (a) above exceeds the amount in paragraph (b) above, so much of that excess that is attributable to a currency exchange rate effect (as defined in section 775-105 of the ITAA 1997), is a forex realisation loss of the taxpayer (pursuant to subsection 775-55(5) of the ITAA 1997).
 Forex loss disregarded
-A forex realisation loss made by the taxpayer under FRE 4 on a complete or partial repayment of the borrowings will be disregarded under subsection 775-35(2) of the ITAA 1997 to the extent that:
-
-•it is made in gaining or producing exempt income or non-assessable non-exempt income (the first limb), and
-•the obligation to repay the borrowings, or that part of the borrowings, does not give rise to a deduction (the second limb).
-
-First limb - nexus between forex realisation loss and gaining and producing non-assessable non-exempt income
+A forex realisation loss made by the taxpayer under FRE 4 on a complete or partial repayment of the borrowings will be disregarded under subsection 775-35(2) of the ITAA 1997 to the extent that: •it is made in gaining or producing exempt income or non-assessable non-exempt income (the first limb), and
+•the obligation to repay the borrowings, or that part of the borrowings, does not give rise to a deduction (the second limb). First limb - nexus between forex realisation loss and gaining and producing non-assessable non-exempt income
 The forex realisation loss must satisfy the condition that it is 'made in gaining or producing exempt income or non-assessable non-exempt income' (pursuant to paragraph 775-35(2)(a) of the ITAA 1997). This is the first limb of the test in subsection 775-35(2).
 To determine the link or nexus between a forex realisation loss that arises on a complete or partial repayment of the borrowings, and what it is 'made in gaining or producing', the purpose for, or use to which, the taxpayer put those borrowings must be considered (see Fletcher v. Federal Commissioner of Taxation (1991) 173 CLR 1; 91 ATC 4950; (1991) 22 ATR 613, Kidston Goldmines Ltd v. Federal Commissioner of Taxation (1991) 30 FCR 77; 91 ATC 4538; (1991) 22 ATR 168). This is because the taxpayer only incurred the obligation in relation to which any forex realisation loss arises (the obligation to repay the borrowings) in return for receiving the amount of those borrowings.
 The taxpayer used the borrowings to acquire shares in the foreign companies. The shares which the taxpayer acquired, like those considered in Federal Commissioner of Taxation v. Total Holdings (Australia) Pty Ltd 79 ATC 4279; (1979) 9 ATR 885 , are inherently capable of generating income (see in particular Lockhart J at ATC 4282-4284; ATR 890). The taxpayer will only be paid non-portfolio dividends that are non-assessable non-exempt income from its shareholdings in the foreign companies.
-Non-portfolio dividends paid to the taxpayer from the foreign companies will be non-assessable non-exempt income of the taxpayer under either:
-
-•section 23AI of the ITAA 1936, where the dividend is paid out of profits that have been previously attributed to the taxpayer under Part X of the ITAA 1936, or
-•section 23AJ of the ITAA 1936 in other cases.
-
-(Note that any dividends paid by the foreign companies will be treated as first paid from profits that have been attributed to the taxpayer, and then from other profits.)
+Non-portfolio dividends paid to the taxpayer from the foreign companies will be non-assessable non-exempt income of the taxpayer under either: •section 23AI of the ITAA 1936, where the dividend is paid out of profits that have been previously attributed to the taxpayer under Part X of the ITAA 1936, or
+•section 23AJ of the ITAA 1936 in other cases. (Note that any dividends paid by the foreign companies will be treated as first paid from profits that have been attributed to the taxpayer, and then from other profits.)
 Therefore, the borrowings will be used in gaining or producing non-assessable, non-exempt income of the taxpayer.
 John Fairfax & Sons Pty Ltd v. Federal Commissioner of Taxation (1959) 101 CLR 30; (1959) 11 ATD 510; (1959) 7 AITR 346 tells us that an outgoing can be incurred in gaining or producing income despite being an outgoing of a capital nature. A repayment of the borrowings, while itself an obligation of a capital nature, is an outgoing the taxpayer will incur in gaining or producing non-assessable non-exempt income.
 Any forex realisation loss arising on a complete or partial repayment of the borrowings will similarly be made by the taxpayer in gaining or producing non-assessable non-exempt income, satisfying the nexus requirement in paragraph 775-35(2)(a) of the ITAA 1997.
@@ -61,44 +32,5 @@ As the obligation to repay borrowings used to acquire shares in the foreign comp
 Nor will a specific statutory deduction arise from the taxpayer's obligation to repay the borrowings. In particular, section 25-90 of the ITAA 1997 will not apply to allow the taxpayer a deduction in relation to its obligation to repay the borrowings, as this obligation is to repay the principal amount of a loan, which is not interest or in the nature of interest as required by paragraph 25-90(c) (see also the definition of debt deduction in paragraph 820-40 (1)(a) of the ITAA 1997).
 As the obligation to repay the borrowings does not give rise to a deduction, paragraph 775-35(2)(b) of the ITAA 1997 is satisfied.
 As both limbs of subsection 775-35(2) of the ITAA 1997 are satisfied, any forex realisation loss arising when the obligation to repay the borrowings is discharged in full or in part, will therefore be disregarded.
-Date of decision:
-  4 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 23AI   section 23AJ   section 317
-Income Tax Assessment Act 1997   section 6-23   section 8-1   paragraph 8-1(2)(a)   section 25-90   paragraph 25-90(c)   subsection 775-35(2)   paragraph 775-35(2)(a)   paragraph 775-35(2)(b)   paragraph 775-55(1)(a)   subparagraph 775-55(1)(b)(ix)   subsection 775-55(2)   subsection 775-55(3)   subsection 775-55(5)   subsection 775-55(7)   section 775-95   section 775-105   section 820-40   subsection 960-50(6)
-
-Case References:
-
-Federal Commissioner of Taxation v. Total Holdings (Australia) Pty Ltd   79 ATC 4279   (1979) 9 ATR 885
-
-Fletcher v. Federal Commissioner of Taxation   (1991) 173 CLR 1   91 ATC 4950   (1991) 22 ATR 613
-
-John Fairfax & Sons Pty Ltd v. Federal Commissioner of Taxation   (1959) 101 CLR 30   (1959) 11 ATD 510   (1959) 7 AITR 346
-
-Kidston Goldmines Ltd v. Federal Commissioner of Taxation   (1991) 30 FCR 77   91 ATC 4538   (1991) 22 ATR 168
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/571
-
-Keywords
-
-Foreign exchange gains and losses
- Forex realisation event
- Forex realisation loss
- International loans
- Non portfolio foreign income
-
-Siebel/TDMS Reference Number:
-  4091419
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  16 July 2004
-
-ISSN:
- 1445-2782
+Date of decision: 4 June 2004 Legislative References: Income Tax Assessment Act 1936 section 23AI section 23AJ section 317
+Income Tax Assessment Act 1997 section 6-23 section 8-1 paragraph 8-1(2)(a) section 25-90 paragraph 25-90(c) subsection 775-35(2) paragraph 775-35(2)(a) paragraph 775-35(2)(b) paragraph 775-55(1)(a) subparagraph 775-55(1)(b)(ix) subsection 775-55(2) subsection 775-55(3) subsection 775-55(5) subsection 775-55(7) section 775-95 section 775-105 section 820-40 subsection 960-50(6) Case References: Federal Commissioner of Taxation v. Total Holdings (Australia) Pty Ltd 79 ATC 4279 (1979) 9 ATR 885 Fletcher v. Federal Commissioner of Taxation (1991) 173 CLR 1 91 ATC 4950 (1991) 22 ATR 613 John Fairfax & Sons Pty Ltd v. Federal Commissioner of Taxation (1959) 101 CLR 30 (1959) 11 ATD 510 (1959) 7 AITR 346 Kidston Goldmines Ltd v. Federal Commissioner of Taxation (1991) 30 FCR 77 91 ATC 4538 (1991) 22 ATR 168 Related ATO Interpretative Decisions ATO ID 2004/571 Keywords Foreign exchange gains and losses Forex realisation event Forex realisation loss International loans Non portfolio foreign income Siebel/TDMS Reference Number: 4091419 Business Line: Public Groups and International Date of publication: 16 July 2004 ISSN: 1445-2782

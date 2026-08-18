@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/3
-==================================================
-
-Income Tax
- Income tax: United States Umbrella Partnership Real Estate Investment Trust arrangement and management investment trusts
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income tax: United States Umbrella Partnership Real Estate Investment Trust arrangement and management investment trusts FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a United States Limited Partnership (US LP) that is a member of an Australian trust and operating in an 'umbrella partnership real estate investment trust' (UPREIT) arrangement, an entity that is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the Taxation Administration Act 1953 (TAA) (repealed and replaced with section 275-20 of the Income Tax Assessment Act 1997 (ITAA 1997) effective 1 July 2016).
 Decision
 Yes. The US LP that is a member of an Australian trust and operating in an UPREIT arrangement is an entity that is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the TAA.
@@ -25,16 +14,12 @@ The General Partner of US LP is a US Real Estate Investment Trust (US REIT).
 US REIT is formed under the Corporations and Associations of the Annotated Code of Maryland (the MD Code) of the State of Maryland in the US and qualifies as a REIT under the US Internal Revenue Code 1986 (the US IRC).
 US LP is an operating partnership as part of an UPREIT arrangement with US REIT.
 As part of the UPREIT arrangement between US LP and US REIT, the LP Agreement provides that the business conducted by US LP shall be limited to and conducted in such a manner as to permit the US REIT (as it's General Partner) at all times to be classified as a REIT.
-To ensure US REIT maintains its REIT status, the UPREIT arrangement with US LP involves the following conditions:
-
-•US REIT is the sole General Partner of US LP;
+To ensure US REIT maintains its REIT status, the UPREIT arrangement with US LP involves the following conditions: •US REIT is the sole General Partner of US LP;
 •US LP holds substantially all of the assets indirectly owned by US REIT and its ownership interests in US REIT's joint ventures;
 •US REIT shall not directly or indirectly own any significant assets other than the partnership units in US LP;
 •no person, other than US REIT, may own more than 4.9% by value of US LP interests;
 •US LP conducts the operation of the business and is structured as a partnership with no publicly traded equity; and
-•except for net proceeds from public equity issuances by US REIT, US LP generates the capital required by US REIT's business through its operations, the issuance of debt, or through the issuance of units as acquisition currency.
-
-The LP Agreement provides that all management powers over the business and affairs of US LP are and shall be exclusively vested in the US REIT and that no Limited Partner shall have any right to participate in or exercise control or management power over the business and affairs of the partnership.
+•except for net proceeds from public equity issuances by US REIT, US LP generates the capital required by US REIT's business through its operations, the issuance of debt, or through the issuance of units as acquisition currency. The LP Agreement provides that all management powers over the business and affairs of US LP are and shall be exclusively vested in the US REIT and that no Limited Partner shall have any right to participate in or exercise control or management power over the business and affairs of the partnership.
 US REIT has formally delegated the day to day control of the operations of US LP to the Board of Directors of US REIT.
 The US REIT Board of Directors has oversight over the operation of US LP in accordance with the MD Code, but it has delegated its day to day responsibilities to the employees of US LP by exercising the delegation power it has under the LP Agreement.
 The employees of US LP manage and control all the facets of the day to day operations of US LP. These employees are not partners of US LP and they have not made any contributions to US LP as consideration to acquire rights to benefits produced by US LP.
@@ -42,123 +27,36 @@ Reasons for Decision
 Subdivision 12-H of Schedule 1 to the TAA (repealed and replaced with section 275-10 of the ITAA 1997 effective 1 July 2016) deals with the Pay As You Go withholding obligations for distributions of managed investment trust income to foreign residents.
 Under subsection 12-400(1) of Schedule 1 to the TAA, there are various conditions that need to be considered in order to determine whether a particular trust is a managed investment trust in relation to an income year. Paragraph 12-400(1)(f) includes the requirement that the trust must satisfy the widely-held requirements in section 12-402 of Schedule 1 to the TAA.
 As part of the 'widely held requirements' contained in section 12-402 of Schedule 1 to the TAA for certain managed investment trusts, subsection 12-402(3) of Schedule 1 to the TAA lists certain widely-held entities, whose participation interest in the trust are multiplied by 50 to provide a 'notional number' of members of the trust under subsection 12-402(2) of Schedule 1 to the TAA. This, in turn, is used to determine whether the trust then satisfies the widely-held requirements in subsection 12-402(1) of Schedule 1 to the TAA.
-Paragraph 12-402(3)(e) of Schedule 1 to the TAA specifies:
-
-an entity:
-
-(i)that is recognised under a *foreign law as being used for collective investment by pooling the contributions of its members as consideration to acquire rights to benefits produced by the entity; and
+Paragraph 12-402(3)(e) of Schedule 1 to the TAA specifies: an entity: (i)that is recognised under a *foreign law as being used for collective investment by pooling the contributions of its members as consideration to acquire rights to benefits produced by the entity; and
 (ii)that has at least 50 members; and
-(iii)the contributing members of which do not have day-to-day control over the entity's operation.
-
-According to the Revised Explanatory Memorandum (EM) to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 (TLAB (No 3) Bill 2010), which introduced the former wording of paragraph 12-402(3)(e) of Schedule 1 to the TAA upon which the current wording is based, the provision targets:
-
-... a foreign collective investment vehicle, which is an entity with at least 50 members that is recognised under a foreign law as being used for collective investment where the member contributions are pooled together in exchange for rights to the benefits produced by the entity and where members do not have day-to-day control over the operation of the entity.
-
-Therefore, US LP must satisfy each of the following requirements:
-
-•it must be recognised under a foreign law as being used for collective investment;
+(iii)the contributing members of which do not have day-to-day control over the entity's operation. According to the Revised Explanatory Memorandum (EM) to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 (TLAB (No 3) Bill 2010), which introduced the former wording of paragraph 12-402(3)(e) of Schedule 1 to the TAA upon which the current wording is based, the provision targets: ... a foreign collective investment vehicle, which is an entity with at least 50 members that is recognised under a foreign law as being used for collective investment where the member contributions are pooled together in exchange for rights to the benefits produced by the entity and where members do not have day-to-day control over the operation of the entity. Therefore, US LP must satisfy each of the following requirements: •it must be recognised under a foreign law as being used for collective investment;
 •there must be a pooling of contributions of US LP's members as consideration to acquire rights to benefits produced by US LP;
 •US LP must have at least 50 members; and
-•the contributing members of US LP must not have day to day control over the operation of US LP.
-
-Recognised under a foreign law as being used for collective investment
-
-The first requirement is that US LP must be recognised under a foreign law as an entity which is used for collective investment.
+•the contributing members of US LP must not have day to day control over the operation of US LP. Recognised under a foreign law as being used for collective investment The first requirement is that US LP must be recognised under a foreign law as an entity which is used for collective investment.
 US LP is established under, and governed by the provisions of, the DRULP Act. There are also several restrictions placed on US LP under the LP Agreement, which is established pursuant to the DRULP Act.
 A 'foreign law' is defined in subsection 995-1(1) of the Income Tax Assessment Act 1997 (ITAA 1997) as a law of a foreign country. Accordingly, the DRULP Act, which is law of a foreign country (namely, the US), is a foreign law for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA.
 Therefore, for the purposes of applying paragraph 12-402(3)(e) of Schedule 1 to the TAA, US LP is an entity that is 'recognised' under a foreign law, namely the DRULP Act and the LP Agreement established pursuant to the DRULP Act.
 The DRULP Act requires that the limited partnership is formed by two or more persons and that it may carry on any lawful business, purpose or activity, whether or not for profit. The DRULP Act itself does not, therefore, require that a Delaware limited partnership be involved in 'collective investment'.
 However, US LP is an 'operating partnership' within an UPREIT arrangement involving US REIT. As part of this arrangement, US LP must operate the business so as to ensure that US REIT maintains its status as a REIT under the US IRC.
 To this end, the LP Agreement provides that the business conducted by US LP shall be limited to and conducted in such a manner as to permit the US REIT (as it's General Partner) at all times to be classified as a REIT.
-The UPREIT arrangement also involves US LP, as the operating partnership:
-
-•holding substantially all of the assets indirectly owned by US REIT and its ownership interests in US REIT's joint ventures;
+The UPREIT arrangement also involves US LP, as the operating partnership: •holding substantially all of the assets indirectly owned by US REIT and its ownership interests in US REIT's joint ventures;
 •conducting the operation of the business and being structured as a partnership with no publicly traded equity; and
-•except for net proceeds from public equity issuances by US REIT, generating the capital required by US REIT's business through its operations, the issuance of debt, or through the issuance of units as acquisition currency.
-
-Furthermore, US REIT is the sole General Partner of US LP and cannot directly or indirectly own any other significant assets other than the partnership units in US LP. In addition, no person other than US REIT may own more than 4.9% by value of US LP interests.
+•except for net proceeds from public equity issuances by US REIT, generating the capital required by US REIT's business through its operations, the issuance of debt, or through the issuance of units as acquisition currency. Furthermore, US REIT is the sole General Partner of US LP and cannot directly or indirectly own any other significant assets other than the partnership units in US LP. In addition, no person other than US REIT may own more than 4.9% by value of US LP interests.
 These conditions of the UPREIT arrangement indicate that, in effect, US LP is carrying on the substance of the real estate investment business of US REIT.
 Although the DRULP Act allows US LP to engage in non-investment activities in which a REIT cannot engage, the LP Agreement made pursuant to the DRULP Act prohibits the US LP from engaging in any activities that is inconsistent with US REIT's status as a REIT.
 Furthermore, the LP Agreement outlines the rights, entitlements and obligations of its partners in a fashion that is consistent with a collective investment vehicle.
-Accordingly, in the context of its role as an operating partnership within the UPREIT arrangement with US REIT, US LP is recognised under a foreign law as being used for collective investment for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA.
-
-Pooling of contributions as consideration to acquire rights to benefits produced by the entity
-
-The capital contributions of the partners to US LP are made in exchange for limited partnership units (for the limited partners) and general partnership units (for US REIT as the general partner). A 'partnership unit' in US LP provides the partner with a share in the partnership's interest, based on the class of unit as prescribed in the LP Agreement.
-Accordingly, the requirement in paragraph 12-402(3)(e) of Schedule 1 to the TAA that there is a pooling of contributions as consideration to acquire rights to benefits produced by US LP is satisfied.
-
-Must have at least 50 members
-
-US REIT owns 98% of the partnership units in US LP, while the remaining partnership units are held by approximately 2,000 unrelated third parties. US LP therefore has at least 50 members.
-
-The contributing members of the entity do not have day to day control over the operation of the entity
-
-The LP Agreement provides that all management powers over the business and affairs of US LP are and shall be exclusively vested in the US REIT (as the General Partner) and that no Limited Partner shall have any right to participate in or exercise control or management power over the business and affairs of the partnership.
+Accordingly, in the context of its role as an operating partnership within the UPREIT arrangement with US REIT, US LP is recognised under a foreign law as being used for collective investment for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA. Pooling of contributions as consideration to acquire rights to benefits produced by the entity The capital contributions of the partners to US LP are made in exchange for limited partnership units (for the limited partners) and general partnership units (for US REIT as the general partner). A 'partnership unit' in US LP provides the partner with a share in the partnership's interest, based on the class of unit as prescribed in the LP Agreement.
+Accordingly, the requirement in paragraph 12-402(3)(e) of Schedule 1 to the TAA that there is a pooling of contributions as consideration to acquire rights to benefits produced by US LP is satisfied. Must have at least 50 members US REIT owns 98% of the partnership units in US LP, while the remaining partnership units are held by approximately 2,000 unrelated third parties. US LP therefore has at least 50 members. The contributing members of the entity do not have day to day control over the operation of the entity The LP Agreement provides that all management powers over the business and affairs of US LP are and shall be exclusively vested in the US REIT (as the General Partner) and that no Limited Partner shall have any right to participate in or exercise control or management power over the business and affairs of the partnership.
 However, US REIT has formally delegated the day to day control of the operations of US LP to the Board of Directors of US REIT. The Board of Directors has oversight over the operation of US LP in accordance with the MD Code, but it has delegated its day to day responsibilities to the employees of US LP by exercising the powers it has under the LP Agreement.
 The employees of US LP manage and control all the facets of the day to day operations of US LP. These employees are not partners of US LP and they have not made any contributions to US LP.
-As none of the employees of US LP have made any contributions to US LP and do not have any interest in the Partnership, the contributing members of US LP do not have day to day control over the operation of the entity for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA.
-
-Conclusion
-
-US LP, in its capacity as an operating partnership within an UPREIT arrangement, is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the TAA.
+As none of the employees of US LP have made any contributions to US LP and do not have any interest in the Partnership, the contributing members of US LP do not have day to day control over the operation of the entity for the purposes of paragraph 12-402(3)(e) of Schedule 1 to the TAA. Conclusion US LP, in its capacity as an operating partnership within an UPREIT arrangement, is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the TAA.
 Indeed, as noted at paragraph 5.79 of the Revised EM to TLAB (No 3) Bill 2010, paragraph 12-402(3)(e) of Schedule 1 to the TAA is intended to 'capture foreign collective investment vehicles, such as US real estate investment trusts'.
 Although US LP itself is not a REIT, it effectively operates as one within the UPREIT arrangement with US REIT, conducting its business as the operating partnership to ensure that US REIT maintains its status as a REIT under the US IRC.
-Accordingly, it is consistent with the policy intention of the provision that US LP, in its capacity as a operating partnership within an UPREIT structure with US REIT, is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the TAA.
-
-Amendment History
-
-Date of Amendment
+Accordingly, it is consistent with the policy intention of the provision that US LP, in its capacity as a operating partnership within an UPREIT structure with US REIT, is covered by the requirements of paragraph 12-402(3)(e) of Schedule 1 to the TAA. Amendment History Date of Amendment
 Part
-Comment
-
-11 September 2018
+Comment 11 September 2018
 Reasons for Decision
-Inserted new legislative reference (section 275-10)
-
-Reasons for Decision
-Inserted new legislative reference (section 275-20)
-
-Date of decision:
-  21 December 2012
-
-Year of income:
-  Year ending 30 June 2013
-
-Legislative References:
-
-Taxation Administration Act 1953   Schedule 1, subsection 12-402(1)   Schedule 1, paragraph 12-402(1)(f)   Schedule 1, subsection 12-402(3)   Schedule 1, paragraph 12-402(3)(e)
-Income Tax Assessment Act 1997   subsection 995-1(1)   section 275-10   section 275-20
-Delaware Revised Uniform Limited Partnership Act (United States)   
- Internal Revenue Code 1986 (United States)   
- Annotated Code of Maryland (United States)   
-
-Related Public Rulings (including Determinations)
-
-ATO ID 2010/143
-
-Other References:
-
- Revised Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No 3) Bill 2010
-
-Keywords
-
-Collective investment vehicles
- Investment trusts
- Limited partnerships
- PAYG withholding
- United States
-
-Siebel/TDMS Reference Number:
-  1-4FMCI4W; 1-7YQ8GIL; 1-E8ZMSQX
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  11 January 2013
-
-Date reviewed:
-  19 July 2018
-
-ISSN:
- 1445-2782
+Inserted new legislative reference (section 275-10) Reasons for Decision
+Inserted new legislative reference (section 275-20) Date of decision: 21 December 2012 Year of income: Year ending 30 June 2013 Legislative References: Taxation Administration Act 1953 Schedule 1, subsection 12-402(1) Schedule 1, paragraph 12-402(1)(f) Schedule 1, subsection 12-402(3) Schedule 1, paragraph 12-402(3)(e)
+Income Tax Assessment Act 1997 subsection 995-1(1) section 275-10 section 275-20
+Delaware Revised Uniform Limited Partnership Act (United States) Internal Revenue Code 1986 (United States) Annotated Code of Maryland (United States) Related Public Rulings (including Determinations) ATO ID 2010/143 Other References: Revised Explanatory Memorandum to the Tax Laws Amendment (2010 Measures No 3) Bill 2010 Keywords Collective investment vehicles Investment trusts Limited partnerships PAYG withholding United States Siebel/TDMS Reference Number: 1-4FMCI4W; 1-7YQ8GIL; 1-E8ZMSQX Business Line: Private Groups and High Wealth Individuals Date of publication: 11 January 2013 Date reviewed: 19 July 2018 ISSN: 1445-2782

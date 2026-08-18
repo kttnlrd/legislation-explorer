@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/344
-==================================================
-
-Income Tax
- Income Tax: Consolidation: Single entity rule and commercial debt forgiveness
- FOI status: may be released
-
-This ATO ID has been amended as Division 245 has been transferred from the ITAA 1936 to the ITAA 1997 under the recent Tax Laws Amendment (Transfer of Provisions) Act 2010.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax: Consolidation: Single entity rule and commercial debt forgiveness FOI status: may be released This ATO ID has been amended as Division 245 has been transferred from the ITAA 1936 to the ITAA 1997 under the recent Tax Laws Amendment (Transfer of Provisions) Act 2010. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do the commercial debt forgiveness rules in Division 245 of the Income Tax Assessment Act 1997 (ITAA 1997), apply where a commercial debt owed by a member of a consolidated group is forgiven by another member of the same consolidated group?
 Decision
 No. The single entity rule (SER) in section 701-1 of the Income Tax Assessment Act 1997 (ITAA 1997) will prevent Division 245 of the ITAA 1997 from applying to the head company where a commercial debt owed by a member of a consolidated group is forgiven by another member of the same consolidated group.
@@ -25,29 +12,11 @@ Head Co and its subsidiaries, including Finance Co and Borrower Co, formed a con
 Reasons for Decision
 Prima facie, the release, waiver or extinguishment of the debt by Finance Co gives rise to commercial debt forgiveness for the purposes of Division 245 of the ITAA 1997. However, due to the operation of the single entity rule contained in section 701-1 of the ITAA 1997, the forgiveness of the debt, which in this case comprises the cessation of rights and obligations between members of a consolidated group, is ignored.
 The debt forgiveness is ignored because the single entity rule deems subsidiary members to be parts of the head company rather than separate entities during the period that they are members of the consolidated group (an entity cannot transact with itself).
-Taxation Ruling TR 2004/11 at paragraph 8 states:
-
-Consequently, the SER has the effect that:
-
-(a)the actions and transactions of a subsidiary member are treated as having been undertaken by the head company;
+Taxation Ruling TR 2004/11 at paragraph 8 states: Consequently, the SER has the effect that: (a)the actions and transactions of a subsidiary member are treated as having been undertaken by the head company;
 (b)the assets a subsidiary member of the group owns are taken to be owned by the head company (with the exception of intra-group assets) while the subsidiary remains a member of the consolidated group;
 (c)assets where the rights and obligations are between members of a consolidated group (intra-group assets) are not recognised for income tax purposes during the period they are held within the group whether or not the asset, as a matter of law, was created before or during the period of consolidation; and
-(d)dealings that are solely between members of the same consolidated group (intra-group dealings) will not result in ordinary or statutory income or a deduction to the group's head company.
-
-Accordingly, the forgiveness of the loan is not recognised for the purposes of other provisions of the income tax law, including Division 245 of the ITAA 1997. This intent is clearly articulated in TR 2004/11 at paragraphs 26, 27, 32 and 33.
-Date of decision:
-  29 November 2005
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 25-35   section 701-1   Division 245   section 245-35
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2004/11
+(d)dealings that are solely between members of the same consolidated group (intra-group dealings) will not result in ordinary or statutory income or a deduction to the group's head company. Accordingly, the forgiveness of the loan is not recognised for the purposes of other provisions of the income tax law, including Division 245 of the ITAA 1997. This intent is clearly articulated in TR 2004/11 at paragraphs 26, 27, 32 and 33.
+Date of decision: 29 November 2005 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 25-35 section 701-1 Division 245 section 245-35 Related Public Rulings (including Determinations) Taxation Ruling TR 2004/11
 Taxation Determination TD 2004/33
 Taxation Determination TD 2004/65
 Taxation Determination TD 2004/68
@@ -55,33 +24,4 @@ Taxation Determination TD 2004/69
 Taxation Determination TD 2004/83
 Taxation Determination TD 2004/84
 Taxation Determination TD 2004/85
-Taxation Determination TD 2005/23
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/3
- ATO ID 2005/345
- ATO ID 2005/346
-
-Other References:
-
-Consolidation Reference Manual C2-4-245; C9-1-220; C9-1-110
-
-Keywords
-
-Consolidation
- Consolidated group
- Single entity rule
- Commercial debt forgiveness
-
-Siebel/TDMS Reference Number:
-  4848785
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  2 December 2005
-
-ISSN:
- 1445-2782
+Taxation Determination TD 2005/23 Related ATO Interpretative Decisions ATO ID 2004/3 ATO ID 2005/345 ATO ID 2005/346 Other References: Consolidation Reference Manual C2-4-245; C9-1-220; C9-1-110 Keywords Consolidation Consolidated group Single entity rule Commercial debt forgiveness Siebel/TDMS Reference Number: 4848785 Business Line: Consolidation Centre of Expertise Date of publication: 2 December 2005 ISSN: 1445-2782

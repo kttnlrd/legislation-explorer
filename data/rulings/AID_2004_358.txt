@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/358
-==================================================
-
-Goods and Services Tax
- GST and cash settlement of commodity forward contracts as a result of a circle trade
- FOI status: may be released
-
-This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2002/2 GST treatment of financial supplies and related supplies and acquisitions.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and cash settlement of commodity forward contracts as a result of a circle trade FOI status: may be released This ATO ID is withdrawn, as it is no longer necessary. The ATO view expressed in this ATO ID is a straight application of the law and does not contain an interpretative decision. Guidance on the view contained in this ATO ID can be found in GSTR 2002/2 GST treatment of financial supplies and related supplies and acquisitions. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are entities A and B, both commodity traders, making input taxed financial supplies to each other, under subsection 40-5(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when there is cash settlement that occurs as a result of a circle trade, resulting from two commodity forward contracts entered into between the two entities?
 Decision
 Yes, entities A and B are making input taxed financial supplies to each other, under subsection 40-5(1) of the GST Act, when there is cash settlement that occurs as a result of a circle trade, resulting from two commodity forward contracts entered into between the two entities.
@@ -28,27 +13,12 @@ Entity A and entity B agree to cash settle their forward contracts instead of ph
 Entity A and entity B are financial supply providers and are registered for goods and services tax (GST). The transactions relate to carrying on their enterprises, and the transactions take place in Australia.
 Reasons for Decision
 Under subsection 40-5(1) of the GST Act, a financial supply is input taxed. Subsection 40-5(2) of the GST Act provides that the term 'financial supply' is defined in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
-Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if:
-
-(a)the provision, acquisition or disposal of that interest is:
-
-• for consideration
+Subregulation 40-5.09(1) of the GST Regulations provides that the provision, acquisition, or disposal of an interest mentioned in subregulation 40-5.09(3) or 40-5.09(4) of the GST Regulations is a financial supply if: (a)the provision, acquisition or disposal of that interest is: • for consideration
 • in the course or furtherance of an enterprise, and
-• connected with Australia, and
-
-(b)the supplier:
-
-• is registered or required to be registered for GST, and
-• is a financial supply provider in relation to supply of the interest.
-
-However, under subregulation 40-5.08(2) of the GST Regulations, a supply is not a financial supply if it is mentioned in both regulations 40-5.09 (what supplies are financial supplies) and 40-5.12 (what supplies are not financial supplies) of the GST Regulations.
+• connected with Australia, and (b)the supplier: • is registered or required to be registered for GST, and
+• is a financial supply provider in relation to supply of the interest. However, under subregulation 40-5.08(2) of the GST Regulations, a supply is not a financial supply if it is mentioned in both regulations 40-5.09 (what supplies are financial supplies) and 40-5.12 (what supplies are not financial supplies) of the GST Regulations.
 Item 11 in the table in subregulation 40-5.09(3) of the GST Regulations (Item 11) lists an interest in or under a derivative.
-A derivative is defined in the dictionary of the GST Regulations:
-
-derivative
- means an agreement or instrument the value of which depends on, or is derived from, the value of assets or liabilities, an index or a rate.
-
-Where an agreement gives an instrument or agreement some value based on the price movements of a commodity, that instrument or agreement will be known as a commodity derivative.
+A derivative is defined in the dictionary of the GST Regulations: derivative means an agreement or instrument the value of which depends on, or is derived from, the value of assets or liabilities, an index or a rate. Where an agreement gives an instrument or agreement some value based on the price movements of a commodity, that instrument or agreement will be known as a commodity derivative.
 Part 9 of Schedule 7 to the GST Regulations lists examples of derivatives that are financial interests under Item 11 and includes 'Cash settlement of a derivative over the counter or on the exchange rather than physical delivery of the underlying taxable assets.'
 Entity A entered into a forward contract to buy a specified amount of a commodity from entity B, at a specified price for delivery on a specified date. At a later time, entity A enters into another forward contract to sell the same amount of the commodity back to entity B, at a specified price for delivery on the same date.
 Entity A and entity B are cash settling these obligations under the forward contracts rather than physically delivering the commodity. At the time of cash settlement, the forward contracts between entity A and entity B have a value which depends on or is derived from the value of the underlying commodity, and as such they are derivatives as defined in the dictionary of the GST Regulations.
@@ -57,54 +27,7 @@ Item 7 in the table in regulation 40-5.12 of the GST Regulations (Item 7) lists 
 As cash settlement occurs between the entities, there is not an option, right or obligation to deliver the commodity. Accordingly, the transaction is not excluded from being a financial supply under Item 7.
 Each entity provides an interest in a derivative as they have exchanged obligations to cash settle the contract under certain circumstances. The obligations exchanged by each entity are also consideration for the supply of the interest in the derivative.
 The transactions are in the course or furtherance of both entities enterprises and are connected with Australia. Both entities are registered for GST and both entities are financial supply providers. Therefore, the requirements in subregulation 40-5.09(1) of the GST Regulations are satisfied.
-As such, entities A and B are making input taxed financial supplies to each other, under subsection 40-5(1) of the GST Act, when there is cash settlement that occurs as a result of a circle trade, resulting from two commodity forward contracts entered into between the two entities.
-
-Note: The cash settlement amount is not a supply or consideration for a supply. The payment of the cash settlement amount is a consequence of the financial supply of the derivative.
-
-Date of decision:
-  14 August 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   subsection 40-5(1)   subsection 40-5(2)
-A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.8(2)   regulation 40-5.09   regulation 40-5.09 table item 3   subregulation 40-5.09(1)   subregulation 40-5.09(3)   subregulation 40-5.09(4)   subregulation 40-5.09(3) table item 11   regulation 40-5.12   regulation 40-5.12 table item 7   Schedule 7 Part 9
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/359
- ATO ID 2004/360
-
-Keywords
-
-Goods and services tax
- Input taxed supplies
- GST financial supplies
- GST derivatives
-
-Siebel/TDMS Reference Number:
-  1247197
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  30 April 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 August 2002
-Original statement
-
-You are here
- 5 May 2022
+As such, entities A and B are making input taxed financial supplies to each other, under subsection 40-5(1) of the GST Act, when there is cash settlement that occurs as a result of a circle trade, resulting from two commodity forward contracts entered into between the two entities. Note: The cash settlement amount is not a supply or consideration for a supply. The payment of the cash settlement amount is a consequence of the financial supply of the derivative. Date of decision: 14 August 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 subsection 40-5(1) subsection 40-5(2)
+A New Tax System (Goods and Services Tax) Regulations 1999 subregulation 40-5.8(2) regulation 40-5.09 regulation 40-5.09 table item 3 subregulation 40-5.09(1) subregulation 40-5.09(3) subregulation 40-5.09(4) subregulation 40-5.09(3) table item 11 regulation 40-5.12 regulation 40-5.12 table item 7 Schedule 7 Part 9 Related ATO Interpretative Decisions ATO ID 2004/359 ATO ID 2004/360 Keywords Goods and services tax Input taxed supplies GST financial supplies GST derivatives Siebel/TDMS Reference Number: 1247197 Business Line: Indirect Tax Date of publication: 30 April 2004 ISSN: 1445-2782 history Date: Version: 14 August 2002
+Original statement You are here 5 May 2022
 Archived

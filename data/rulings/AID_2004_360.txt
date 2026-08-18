@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2004/360
-==================================================
-
-Goods and Services Tax
- GST and cancellation fees for deliverable commodity forward contracts
- FOI status: may be released
-
-This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations.
-
- A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and cancellation fees for deliverable commodity forward contracts FOI status: may be released This ATO ID contains references to provisions of the A New Tax System (Goods and Services Tax) Regulations 1999, which have been replaced by the A New Tax System (Goods and Services Tax) Regulations 2019. This ATO ID continues to apply in relation to the remade Regulations. A comparison table which provides the replacement provisions in the A New Tax System (Goods and Services Tax) Regulations 2019 for regulations which are referenced in this ATO ID is available.
+With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a commodity trader, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it receives a cancellation fee in relation to a deliverable commodity forward contract?
 Decision
 Yes, the entity is making a taxable supply under section 9-5 of the GST Act when it receives a cancellation fee in relation to a deliverable commodity forward contract.
@@ -28,14 +13,10 @@ The entity and the other entity verbally agree to terminate the forward contract
 The entity has agreed to accept a cancellation fee for agreeing to allow the other party to default on its obligations in relation to delivery of the commodity.
 The entity is registered for goods and services tax (GST). The transaction is made in the course of an enterprise carried on by the entity and is connected with Australia.
 Reasons for Decision
-Under section 9-5 of the GST Act, an entity makes a taxable supply if:
-
-• it makes a supply for consideration
+Under section 9-5 of the GST Act, an entity makes a taxable supply if: • it makes a supply for consideration
 • the supply is made in the course or furtherance of an enterprise that it carries on
 • the supply is connected with Australia, and
-• the entity is registered for GST, or required to be registered for GST.
-
-However, a supply is not a taxable supply to the extent that it is GST-free or input taxed.
+• the entity is registered for GST, or required to be registered for GST. However, a supply is not a taxable supply to the extent that it is GST-free or input taxed.
 A transaction is only a taxable supply under section 9-5 of the GST Act, if it also comes within the meaning of the word 'supply' as discussed in section 9-10 of the GST Act.
 Subsection 9-10(2) of the GST Act provides a non-exhaustive list of things that are a 'supply' for GST purposes. Subparagraph 9-10(2)(g)(i) of the GST Act provides that an entry into, or release from, an obligation to do anything is a supply under the GST Act.
 The agreed termination of the forward contracts, without physical delivery occurring, results in the entity releasing the other entity from its obligations in relation to delivery of the commodity. As such, the entity is making a supply under subparagraph 9-10(2)(g)(i) of the GST Act. The cancellation fee is consideration for the supply of that release.
@@ -43,37 +24,5 @@ The entity is registered for GST, the transaction is in the course or furtheranc
 Financial supplies are input taxed under section 40-5(1) of the GST Act. An interest in or under a derivative that is cash settled, will be a financial supply if the all the requirements in subregulation 40-5.09(1) of the A New Tax System (Goods and Services Tax) Regulations 1999 are satisfied.
 The payment (cancellation fee) that occurs when both parties agree to terminate the contract is not the cash settlement of a derivative. This is because when the two parties verbally agree to pay a cancellation fee this is a new agreement, outside the terms of the original contract. Therefore, when a cancellation fee is paid, the transaction that occurs does not result in either party making a financial supply that is input taxed.
 Accordingly, the entity is making a taxable supply under section 9-5 of the GST Act when it receives a cancellation fee in relation to a deliverable commodity forward contract.
-Date of decision:
-  14 August 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 9-10   subsection 9-10(2)   subparagraph 9-10(2)(g)(i)   section 40-5(1)
-A New Tax System (Goods and Services Tax) Regulations 1999   subregulation 40-5.09(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/358
- ATO ID 2004/359
-
-Keywords
-
-Goods and services tax
- GST supplies & acquisitions
- GST supply
- Taxable supply
- Input taxed supplies
- GST financial supplies
- GST derivatives
-
-Siebel/TDMS Reference Number:
-  4021967
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  30 April 2004
-
-ISSN:
- 1445-2782
+Date of decision: 14 August 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 9-10 subsection 9-10(2) subparagraph 9-10(2)(g)(i) section 40-5(1)
+A New Tax System (Goods and Services Tax) Regulations 1999 subregulation 40-5.09(1) Related ATO Interpretative Decisions ATO ID 2004/358 ATO ID 2004/359 Keywords Goods and services tax GST supplies & acquisitions GST supply Taxable supply Input taxed supplies GST financial supplies GST derivatives Siebel/TDMS Reference Number: 4021967 Business Line: Indirect Tax Date of publication: 30 April 2004 ISSN: 1445-2782

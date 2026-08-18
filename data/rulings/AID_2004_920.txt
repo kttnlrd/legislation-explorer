@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/920
-==================================================
-
-Income Tax
- Capital Gains Tax: portfolio transfer of general insurance liabilities - acquisition of asset by transferor as against transferee
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: portfolio transfer of general insurance liabilities - acquisition of asset by transferor as against transferee FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a general insurer, upon a full portfolio transfer, acquire a CGT asset, as against the transferee, for the purposes of Parts 3-1 and 3-3 of the Income Tax Assessment Act 1997 (ITAA 1997) where the insurer undertook a full portfolio transfer by entering into a scheme for the transfer or amalgamation of insurance business under Division 3A of Part III of the Insurance Act 1973 and the portfolio transfer results in the general insurer having no ongoing liability at law to meet the claims arising from the transferred policies?
 Decision
 No. The general insurer does not acquire a CGT asset for the purposes of Parts 3-1 and 3-3 of the ITAA 1997, upon a full portfolio transfer, where the full portfolio transfer was undertaken in accordance with Division 3A of Part III of the Insurance Act and the portfolio transfer results in the general insurer having no ongoing liability at law to meet the claims arising from the transferred policies.
@@ -28,58 +17,5 @@ The High Court held that following the making of the agreement with MMBW, Orica 
 Accordingly, by entering into the arrangement with MMBW, Orica acquired a CGT asset being the right to compel MMBW to pay Orica's debenture holders the principal amounts as and when they became due. Each performance and discharge by MMBW of its obligations under the agreement constituted a part ending or part satisfaction of Orica's CGT asset (a C2 CGT event happening to the relevant 'part' of Orica's CGT asset).
 Following confirmation of the scheme by the Federal Court and steps taken by APRA to revoke the transferor's authorisation under section 15 of the Insurance Act, the transferor has no ongoing liability at law to meet the claims arising out of the policies it transferred because of a portfolio transfer. Therefore, as the transferor has been discharged from its liabilities to the policyholders, the portfolio transfer does not result in the transferor acquiring a CGT asset as against the transferee.
 Accordingly, the decision in the Orica Case can be distinguished from the situation of a full portfolio transfer that takes place under Division 3A of Part III of the Insurance Act, and as the transferor does not acquire an asset, Parts 3-1 and 3-3 of the ITAA 1997 do not apply.
-Date of decision:
-  1 November 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Part 3-1   Part 3-3   section 995-1
-Insurance Act 1973   Part III Division 3A   section 15
-
-Case References:
-
-Federal Commissioner of Taxation v. Orica Ltd   (1998) 194 CLR 500   98 ATC 4494
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/910
- ATO ID 2004/911
- ATO ID 2004/912
- ATO ID 2004/913
- ATO ID 2004/914
- ATO ID 2004/915
- ATO ID 2004/916
- ATO ID 2004/917
- ATO ID 2004/918
- ATO ID 2004/919
- ATO ID 2004/921
- ATO ID 2004/922
- ATO ID 2004/923
- ATO ID 2004/924
- ATO ID 2004/925
- ATO ID 2004/926
- ATO ID 2004/927
- ATO ID 2004/928
- ATO ID 2004/929
- ATO ID 2004/930
-
-Keywords
-
-General insurance
- General insurance industry
- Capital gains tax
-
-Siebel/TDMS Reference Number:
-  4068632
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  19 November 2004
-
-ISSN:
- 1445-2782
+Date of decision: 1 November 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Part 3-1 Part 3-3 section 995-1
+Insurance Act 1973 Part III Division 3A section 15 Case References: Federal Commissioner of Taxation v. Orica Ltd (1998) 194 CLR 500 98 ATC 4494 Related ATO Interpretative Decisions ATO ID 2004/910 ATO ID 2004/911 ATO ID 2004/912 ATO ID 2004/913 ATO ID 2004/914 ATO ID 2004/915 ATO ID 2004/916 ATO ID 2004/917 ATO ID 2004/918 ATO ID 2004/919 ATO ID 2004/921 ATO ID 2004/922 ATO ID 2004/923 ATO ID 2004/924 ATO ID 2004/925 ATO ID 2004/926 ATO ID 2004/927 ATO ID 2004/928 ATO ID 2004/929 ATO ID 2004/930 Keywords General insurance General insurance industry Capital gains tax Siebel/TDMS Reference Number: 4068632 Business Line: Public Groups and International Date of publication: 19 November 2004 ISSN: 1445-2782

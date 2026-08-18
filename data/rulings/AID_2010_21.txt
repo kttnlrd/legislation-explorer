@@ -1,123 +1,28 @@
 ATO Interpretative Decision
 ATO ID 2010/21
-==================================================
-
-Income Tax
- Frankable distributions and non-share dividends
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Can a non-share dividend be a frankable distribution when a company has no accounting profits or retained earnings?
-
-Decision
-No. Non-share dividends are unfrankable if a company has no accounting profits or retained earnings.
-
-Facts
+================================================== Income Tax Frankable distributions and non-share dividends FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Can a non-share dividend be a frankable distribution when a company has no accounting profits or retained earnings? Decision
+No. Non-share dividends are unfrankable if a company has no accounting profits or retained earnings. Facts
 A company engages in the business of trading in financial instruments. Due to a large negative movement in the value of its instruments, the company reported an accounting loss for the financial year. However, the company has taxable income in the corresponding income year.
 The company issues an instrument which give rise to non-share equity interests in the company and pays a distribution on the instrument based on its net operating profit, excluding unrealised gains and losses.
-The company is prohibited from declaring any dividend on its ordinary shares by section 254T of the Corporations Act 2001 (Corporations Act) as it has no accounting profits or retained earnings[1].
-
-Reasons for Decision
+The company is prohibited from declaring any dividend on its ordinary shares by section 254T of the Corporations Act 2001 (Corporations Act) as it has no accounting profits or retained earnings[1]. Reasons for Decision
 Prior to 28 June 2010 section 254T of the Corporations Act requires all dividends 'be paid out of profits of the Company'. The effect of this provision is that a company may pay dividends out of its accounting profits or retained earnings.
 Although profits are no longer referred to in section 254T of the Corporations Act the concept of profits as the source of dividend payment continues to be relevant to the payment of a dividend in compliance with section 254T, and to the assessment and franking of dividends for taxation purposes.
-However, not all amounts that are paid by a company that are dividends for the purposes of the Corporations Act or taxation purposes are frankable. The Explanatory Memorandum to the Corporations Amendment (Corporate Reporting Reform) Act 2010 states at paragraph 3.18 that:
-
-3.18 Subject to the operation of the current imputation integrity rules, theses distributions will be frankable under section 202-40 of the ITAA 1997.
-
-According to subsection 202-40(2) of the Income Tax Assessment Act 1997 (ITAA 1997), a non-share dividend is a frankable distribution to the extent that it is not unfrankable. Paragraph 215-15(1)(b) of the ITAA 1997 provides that a non-share dividend is unfrankable if, immediately before the payment, the amount of the available frankable profits of the entity is nil, or less than nil.
-A company's available frankable profits at a particular time is worked out using the following formula in subsection 215-20(1) of the ITAA 1997:
-
-Maximum frankable amount - [Committed share dividends + Undebited non-share dividends]
-
-where:
-
-maximum frankable amount
- means the maximum amount of *frankable *distributions (other than *non-share dividends) that the *corporate tax entity could pay at that time having regard to its available profits at that time.
-
-Subsection 215-20(1) of the ITAA 1997 was enacted in the New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002 and was intended as a rewrite of section 160APAAAB of the Income Tax Assessment Act 1936 (ITAA 1936), itself introduced by the New Business Tax System (Debt and Equity) Act 2001 as part of the 'Debt/Equity rules' contained in Division 974 of the ITAA 1997.
+However, not all amounts that are paid by a company that are dividends for the purposes of the Corporations Act or taxation purposes are frankable. The Explanatory Memorandum to the Corporations Amendment (Corporate Reporting Reform) Act 2010 states at paragraph 3.18 that: 3.18 Subject to the operation of the current imputation integrity rules, theses distributions will be frankable under section 202-40 of the ITAA 1997. According to subsection 202-40(2) of the Income Tax Assessment Act 1997 (ITAA 1997), a non-share dividend is a frankable distribution to the extent that it is not unfrankable. Paragraph 215-15(1)(b) of the ITAA 1997 provides that a non-share dividend is unfrankable if, immediately before the payment, the amount of the available frankable profits of the entity is nil, or less than nil.
+A company's available frankable profits at a particular time is worked out using the following formula in subsection 215-20(1) of the ITAA 1997: Maximum frankable amount - [Committed share dividends + Undebited non-share dividends] where: maximum frankable amount means the maximum amount of *frankable *distributions (other than *non-share dividends) that the *corporate tax entity could pay at that time having regard to its available profits at that time. Subsection 215-20(1) of the ITAA 1997 was enacted in the New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002 and was intended as a rewrite of section 160APAAAB of the Income Tax Assessment Act 1936 (ITAA 1936), itself introduced by the New Business Tax System (Debt and Equity) Act 2001 as part of the 'Debt/Equity rules' contained in Division 974 of the ITAA 1997.
 According to paragraph 2.85 of the Explanatory Memorandum to the New Business Tax System (Debt and Equity) Bill 2001 (the EM), the purpose of section 160APAAAB of the ITAA 1936 was to prevent the use of non-share dividends to stream franking credits in circumstances where there was previously no such opportunity, by introducing 'the general requirement that they be debited to realised profits to be frankable.'.
 That is, section 160APAAAB of the ITAA 1936 and subsequently subsection 215-20(1) of the ITAA 1997 were intended to restrict a company's ability to pay frankable non-share dividends to the conditions which would need to be met for the company to pay a dividend on its ordinary equity.
 The purpose of section 160APAAAB of the ITAA 1936 and subsection 215-20(1) of the ITAA 1997 indicates that the expression 'available profits' in subsection 215-20(1) refers to the profits from which a company can pay dividends. This purpose will be given effect to if the term 'profits' in that context is construed as accounting profits or retained earnings, so that it includes any unrealised gains and losses recognised directly in profit and loss.
 There is no basis for construing the expression 'available profits' so as to necessarily exclude unrealised gains and losses since a company's capacity to pay dividends is already calculated after regard to any unrealised gains and losses recognised directly in profit and loss.
-Therefore, because the company has no accounting profits or retained earnings, it has no 'available profits' for the purposes of subsection 215-20(1) of the ITAA 1997 and will not be able to pay frankable non-share dividends. Therefore, distributions paid by the company on the instrument will be unfrankable.
-
-Amendment History
-
-Date of Amendment
+Therefore, because the company has no accounting profits or retained earnings, it has no 'available profits' for the purposes of subsection 215-20(1) of the ITAA 1997 and will not be able to pay frankable non-share dividends. Therefore, distributions paid by the company on the instrument will be unfrankable. Amendment History Date of Amendment
 Part
-Comment
-
-7 August 2015
+Comment 7 August 2015
 Reasons for Decision
-Insert 3 opening paragraphs to take into account the new section 254T of the Corporations Act 2001
-
-Insert footnote regarding the new section 254T
-
-Delete 2 paragraphs
-
-Adding the word 'to' in the second sentence in the third last paragraph
-
-[1]
-Section 254T of the Corporations Act 2001 previously provided that a dividend may only be paid out of profits. Applicable from 28 June 2010 section 254T provides that a company must not pay a dividend unless:
-
-(a) The company's assets exceed its liabilities immediately before the dividend declaration and the excess is sufficient for the dividend payment;
+Insert 3 opening paragraphs to take into account the new section 254T of the Corporations Act 2001 Insert footnote regarding the new section 254T Delete 2 paragraphs Adding the word 'to' in the second sentence in the third last paragraph [1]
+Section 254T of the Corporations Act 2001 previously provided that a dividend may only be paid out of profits. Applicable from 28 June 2010 section 254T provides that a company must not pay a dividend unless: (a) The company's assets exceed its liabilities immediately before the dividend declaration and the excess is sufficient for the dividend payment;
 (b) The dividend is fair and reasonable to the members as a whole; and
-(c) Creditors are not materially prejudiced.
-
-Date of decision:
-  10 December 2009
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 202-40(2)   subsection 215-15(1)   section 202-30
-Corporations Act 2001   section 254T
-
-Other References:
-
- EM to the New Business Tax System (Debt and Equity) Bill 2001
-
-Keywords
-
-Frankable dividends
-
-Siebel/TDMS Reference Number:
-  5234274/1-5T1Y6EY;1-D5ZPF0R
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  5 February 2010
-
-Date reviewed:
-  16 November 2017
-
-ISSN:
- 1445 - 2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-10 December 2009
-Original statement
-
-You are here
- 7 August 2015
+(c) Creditors are not materially prejudiced. Date of decision: 10 December 2009 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1997 subsection 202-40(2) subsection 215-15(1) section 202-30
+Corporations Act 2001 section 254T Other References: EM to the New Business Tax System (Debt and Equity) Bill 2001 Keywords Frankable dividends Siebel/TDMS Reference Number: 5234274/1-5T1Y6EY;1-D5ZPF0R Business Line: Private Groups and High Wealth Individuals Date of publication: 5 February 2010 Date reviewed: 16 November 2017 ISSN: 1445 - 2782 history Date: Version: 10 December 2009
+Original statement You are here 7 August 2015
 Updated statement

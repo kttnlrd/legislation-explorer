@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/216
-==================================================
-
-Income Tax
- Taxation of financial arrangements: entitlement to a foreign income tax offset - foreign dividend derived by a beneficiary of a trust estate
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Taxation of financial arrangements: entitlement to a foreign income tax offset - foreign dividend derived by a beneficiary of a trust estate FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a taxpayer that is a beneficiary in a trust estate entitled to a foreign income tax offset under section 770-10 of the Income Tax Assessment Act 1997 (ITAA 1997) for foreign income tax imposed on a dividend paid to the trust estate, where the taxpayer is subject to Division 230 of the ITAA 1997 in respect of their interest in the trust estate?
 Decision
 Yes. The taxpayer is entitled to a foreign income tax offset for the year ended 30 June 2011 as the taxpayer is taken to have paid the foreign income tax in respect of an amount included in the taxpayer's assessable income under section 230-15 of the ITAA 1997.
@@ -23,43 +12,7 @@ The taxpayer accounts for the units in B Trust as fair value through profit or l
 The taxpayer is a late balancer and uses a 30 September year end for accounting and tax purposes. B Trust uses a 30 June year end.
 In August 2011, a final distribution relating to the financial year ended 30 June 2011 is declared of $4.80 per unit. In October 2011 the taxpayer receives the distribution.
 The fair value of the units at 30 September 2011 is $120.
-The distribution received on the B Trust units, is made up as follows:
-
-Trust distribution
-
-Component
-
-Cash distributed
-
-Non cash
-
-Taxable Income per Trust statement
-
-taxable income
- 400.00
-
- 400.00
-
-foreign dividend
- 80.00
-
-foreign income tax offset
-
- 20.00
-
-Total foreign income
-
-100.00
-
-Total cash received
-
-480.00
-
-Total taxable income
-
-500.00
-
-Reasons for Decision
+The distribution received on the B Trust units, is made up as follows: Trust distribution Component Cash distributed Non cash Taxable Income per Trust statement taxable income 400.00 400.00 foreign dividend 80.00 foreign income tax offset 20.00 Total foreign income 100.00 Total cash received 480.00 Total taxable income 500.00 Reasons for Decision
 All legislative references are to the ITAA 1997 unless specified otherwise.
 Section 230-15 includes in an entity's assessable income a gain from a financial arrangement.
 Where an entity chooses to make a fair value election under Subdivision 230-C, gains and losses in respect of the entity's financial arrangements will be determined by what the accounting standards referred to in paragraph 230-210(2)(a) require to be recognised in the profit or loss from assets and liabilities that are subject to fair value treatment (paragraph 230-230(1)(a)).
@@ -67,61 +20,16 @@ The accounting standards referred to in paragraph 230-210(2)(a) are those standa
 Where the accounting standards require that a fair value measurement though profit or loss be used to determine accounting profits or losses from financial arrangements for an income year, these gains and losses shall be used to determine the taxpayer's gain or loss for an income year from those financial arrangements.
 In addition, where the accounting standards require revenue to be recognised through profit or loss on financial arrangements for an income year, any revenue recognised will also be used to determine the taxpayer's gain or loss for an income year from those financial arrangements.
 In this case the taxpayer has, for the purposes of applying paragraph 230-230(1)(a), recognised in their profit or loss from the units in B Trust gains consisting of the fair value increase of $2000 and the declared distribution of $480. Therefore, these amounts are included in the taxpayer's assessable income under section 230-15 for the income year ending 30 September 2011.
-The taxpayer's entitlement to claim a foreign income tax offset for foreign income tax imposed on the foreign dividend included in the distribution from B Trust is determined in accordance with subsection 770-10(1), which provides:
-
-770-10(1) You are entitled to a *tax offset for an income year for *foreign income tax. An amount of foreign income tax counts towards the tax offset for the year if you paid it in respect of an amount that is all or part of an amount included in your assessable income for the year.
-
-Note 1: The offset is for the income year in which your assessable income included an amount in respect of which you paid foreign income tax - even if you paid the foreign income tax in another income year.
-
-Where a taxpayer has not actually paid foreign income tax, the Act can apply to the taxpayer as if it had paid an amount of foreign income tax (section 770-130).
-In particular, under subsection 770-130(3), a taxpayer will be taken to have paid foreign income tax in respect of an amount included in the taxpayer's ordinary or statutory income (a 'taxed amount') to the extent that:
-
-•the taxed amount is taken, because of section 6B of the Income Tax Assessment Act 1936 (ITAA 1936) to be attributable to another amount of income of a particular kind or source;
+The taxpayer's entitlement to claim a foreign income tax offset for foreign income tax imposed on the foreign dividend included in the distribution from B Trust is determined in accordance with subsection 770-10(1), which provides: 770-10(1) You are entitled to a *tax offset for an income year for *foreign income tax. An amount of foreign income tax counts towards the tax offset for the year if you paid it in respect of an amount that is all or part of an amount included in your assessable income for the year. Note 1: The offset is for the income year in which your assessable income included an amount in respect of which you paid foreign income tax - even if you paid the foreign income tax in another income year. Where a taxpayer has not actually paid foreign income tax, the Act can apply to the taxpayer as if it had paid an amount of foreign income tax (section 770-130).
+In particular, under subsection 770-130(3), a taxpayer will be taken to have paid foreign income tax in respect of an amount included in the taxpayer's ordinary or statutory income (a 'taxed amount') to the extent that: •the taxed amount is taken, because of section 6B of the Income Tax Assessment Act 1936 (ITAA 1936) to be attributable to another amount of income of a particular kind or source;
 •the foreign income tax has been paid in respect of the other amount of income; and
-•the taxed amount is less than it would have been if that tax had not been paid.
-
-In these circumstances, the foreign income tax is the dividend withholding tax imposed on the dividend paid to the trust and the taxed amount is the gain determined under Division 230 consisting of the trust distribution which includes the taxpayer's share of the dividend.
+•the taxed amount is less than it would have been if that tax had not been paid. In these circumstances, the foreign income tax is the dividend withholding tax imposed on the dividend paid to the trust and the taxed amount is the gain determined under Division 230 consisting of the trust distribution which includes the taxpayer's share of the dividend.
 Therefore to satisfy section 770-130, it is necessary to determine whether the taxed amount is taken, because of section 6B of the ITAA 1936, to be attributable to the dividend paid to the trustee.
-Subsection 6B(1) of the ITAA 1936 provides:
-
-For the purposes of this Act, an amount of income derived by a person, not being a dividend paid by a company to the person as a shareholder in the company, shall be deemed to be attributable to a dividend:
-
-a)if the person derived the amount of income by reason of being the beneficial owner of the share in respect of which the dividend was paid; or
-b)if the person derived the amount of income as a beneficiary in a trust estate and the amount of income can be attributed, directly or indirectly, to the dividend or to an amount that is deemed, by an application of successive applications of this subsection, to be an amount of income attributable to the dividend.
-
-For paragraph 6B(1)(b) of the ITAA 1936 to apply:
-
-•the taxpayer must derive an amount of income as a beneficiary in a trust estate; and
-•the amount of income must be able to be attributed, directly or indirectly, to a dividend.
-
-In this case, notwithstanding that the trust distribution is assessable under Division 230, the amount included in the taxpayer's assessable income is an amount of income derived by the taxpayer as a beneficiary in a trust estate. The trust distribution is not simply a value reflected in the movement of the price of the units. The distribution is recognised separately as an item of income being a share of the trust income and includes the share of the dividend received by the trustee. This part of the distribution is clearly attributable to the dividend for the purposes of paragraph 6B(1)(b) of the ITAA 1936. Therefore paragraph 770-130(3)(a) is satisfied.
+Subsection 6B(1) of the ITAA 1936 provides: For the purposes of this Act, an amount of income derived by a person, not being a dividend paid by a company to the person as a shareholder in the company, shall be deemed to be attributable to a dividend: a)if the person derived the amount of income by reason of being the beneficial owner of the share in respect of which the dividend was paid; or
+b)if the person derived the amount of income as a beneficiary in a trust estate and the amount of income can be attributed, directly or indirectly, to the dividend or to an amount that is deemed, by an application of successive applications of this subsection, to be an amount of income attributable to the dividend. For paragraph 6B(1)(b) of the ITAA 1936 to apply: •the taxpayer must derive an amount of income as a beneficiary in a trust estate; and
+•the amount of income must be able to be attributed, directly or indirectly, to a dividend. In this case, notwithstanding that the trust distribution is assessable under Division 230, the amount included in the taxpayer's assessable income is an amount of income derived by the taxpayer as a beneficiary in a trust estate. The trust distribution is not simply a value reflected in the movement of the price of the units. The distribution is recognised separately as an item of income being a share of the trust income and includes the share of the dividend received by the trustee. This part of the distribution is clearly attributable to the dividend for the purposes of paragraph 6B(1)(b) of the ITAA 1936. Therefore paragraph 770-130(3)(a) is satisfied.
 Paragraphs 770-130(3)(b) and (c) are also satisfied because the amount of foreign income tax has been paid in respect of the dividend and the gain is less than it would have been if that tax had not been paid.
 Given that the requirements of subsection 770-130(3) are satisfied, the taxpayer will be taken to have paid foreign income tax in respect of the amount derived by the taxpayer which represents the foreign dividend.
 Accordingly, the taxpayer is entitled to a foreign income tax offset under subsection 770-10(1) for foreign income tax paid in respect of the amount included in the taxpayer's assessable income under section 230-15.
-Date of decision:
-  23 November 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6B(1)   paragraph 6B(1)(b)
-Income Tax Assessment Act 1997   section 230-210   paragraph 230-210(2)(a)   section 770-10   subsection 770-10(1)   section 770-130   subsection 770-130(3)   paragraph 770-130(3)(a)   paragraph 770-130(3)(b)   paragraph 770-130(3)(c)
-
-Keywords
-
-Foreign dividend withholding tax
- Trust distributions
-
-Siebel/TDMS Reference Number:
-  1-27QDR3O
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  26 November 2010
-
-ISSN:
- 1445-2782
+Date of decision: 23 November 2010 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 subsection 6B(1) paragraph 6B(1)(b)
+Income Tax Assessment Act 1997 section 230-210 paragraph 230-210(2)(a) section 770-10 subsection 770-10(1) section 770-130 subsection 770-130(3) paragraph 770-130(3)(a) paragraph 770-130(3)(b) paragraph 770-130(3)(c) Keywords Foreign dividend withholding tax Trust distributions Siebel/TDMS Reference Number: 1-27QDR3O Business Line: Finance and Investment Centre of Expertise Date of publication: 26 November 2010 ISSN: 1445-2782

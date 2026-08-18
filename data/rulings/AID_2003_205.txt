@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/205
-==================================================
-
-Income Tax
- Simplified Tax System (STS): accounting method - timing of deductions for amounts paid by B-pay
- FOI status: may be released
-
-This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2006-07 income year.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Simplified Tax System (STS): accounting method - timing of deductions for amounts paid by B-pay FOI status: may be released This ATO ID is withdrawn from the database because it contains a view in respect of a provision of the Income Tax Assessment Act 1997 that doesn't apply after the 2006-07 income year. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2006-07 income year. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When is an amount an STS taxpayer pays by B-Pay viewed as 'paid' for the purposes of paragraph 328-105(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 For the purposes of paragraph 328-105(1)(b) of the ITAA 1997, an amount an STS taxpayer pays by B-Pay is viewed as paid in the income year in which the STS taxpayer authorises the payment.
@@ -24,64 +9,12 @@ Facts
 An STS taxpayer authorises payment of an expense that is otherwise deductible under section 8-1 of the ITAA 1997 on 28 June 2002 using B-Pay. The amount of the payment was deducted from their bank account on 1 July 2002.
 Reasons for Decision
 Under the STS accounting method, an STS taxpayer can generally claim a deduction for a loss or outgoing that would otherwise be deductible under section 8-1 (general deductions), section 25-5 (tax-related expenses) or section 25-10 (repairs) of the ITAA 1997 in the income year in which it pays that expense: paragraph 328-105(1)(b) of the ITAA 1997.
-The term 'paid' is not defined for the purposes of paragraph 328-105(1)(b) of the ITAA 1997. It therefore needs to be interpreted according to its ordinary meaning and legislative context. In Case 10/2000 (2000) 45 ATR 1019; 2000 ATC 189, the Administrative Appeals Tribunal referred to the Macquarie dictionary definition of 'pay':
-
-'Pay v, paid ... 1. To discharge (a debt, obligation, etc), as by giving or doing something. 2. To give (money, etc) as in discharge of debt or obligation. 3. To satisfy the claims of (a person, etc) as by giving money due. 4. To defray (cost or expense). 5. To give compensation for. 6. To yield a recompense or return to; be profitable to ...'
-
-It is evident from this definition that the ordinary meaning of the term 'paid' includes an action by an entity that discharges an obligation or debt to another.
+The term 'paid' is not defined for the purposes of paragraph 328-105(1)(b) of the ITAA 1997. It therefore needs to be interpreted according to its ordinary meaning and legislative context. In Case 10/2000 (2000) 45 ATR 1019; 2000 ATC 189, the Administrative Appeals Tribunal referred to the Macquarie dictionary definition of 'pay': 'Pay v, paid ... 1. To discharge (a debt, obligation, etc), as by giving or doing something. 2. To give (money, etc) as in discharge of debt or obligation. 3. To satisfy the claims of (a person, etc) as by giving money due. 4. To defray (cost or expense). 5. To give compensation for. 6. To yield a recompense or return to; be profitable to ...' It is evident from this definition that the ordinary meaning of the term 'paid' includes an action by an entity that discharges an obligation or debt to another.
 An STS taxpayer that discharges a liability they have incurred using the B-Pay system discharges that liability at the time they authorise the direct transfer of funds from their own account to the account of the other party.
 This means that under paragraph 328-105(1)(b) of the ITAA 1997, the STS taxpayer in the circumstances described above can claim a deduction for the amount paid by B-Pay on 28 June 2002 in the 2001-02 income year, even though the amount was not deducted from their bank account until 1 July 2002.
 This treatment is consistent with the approach taken in Goods and Services Tax Ruling GSTR 2000/23 to the question of when consideration is provided in cases where the consideration is provided via the B-Pay system. Paragraph 27 of GSTR 2000/23 makes clear that for B-Pay transactions, consideration is provided when the payment is authorised, and consideration is received when the payment is credited to the supplier's account.
 Paragraph 4.7 of the explanatory memorandum for the New Business Tax System (Simplified Tax System) Act 2001 records the legislative intention that the STS accounting method is designed to allow STS taxpayers to align their income tax with their GST accounting methods.
-Date of decision:
-  5 November 2002
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1   paragraph 328-105(1)(b)
-
-Case References:
-
-Case 10/2000   (2000) 45 ATR 1019   2000 ATC 189
-
-Related Public Rulings (including Determinations)
-
-Goods and Services Tax Ruling GSTR 2000/23
-
-Other References:
-
- Explanatory memorandum for the New Business Tax System (Simplified Tax System) Act 2001
-
-Keywords
-
-Simplified tax system
- STS accounting methods
- STS taxpayers
-
-Business Line:
-  Business and Personal Tax Centre of Expertise
-
-Date of publication:
-  4 April 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 November 2002
-Original statement
-
-You are here
+Date of decision: 5 November 2002 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 8-1 paragraph 328-105(1)(b) Case References: Case 10/2000 (2000) 45 ATR 1019 2000 ATC 189 Related Public Rulings (including Determinations) Goods and Services Tax Ruling GSTR 2000/23 Other References: Explanatory memorandum for the New Business Tax System (Simplified Tax System) Act 2001 Keywords Simplified tax system STS accounting methods STS taxpayers Business Line: Business and Personal Tax Centre of Expertise Date of publication: 4 April 2003 ISSN: 1445-2782 history Date: Version: 5 November 2002
+Original statement You are here
 30 November 2007
 Archived

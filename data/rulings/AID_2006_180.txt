@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/180
-==================================================
-
-Income Tax
- Controlled Foreign Companies: cost base of assets owned by the CFC when it first becomes an eligible CFC
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Controlled Foreign Companies: cost base of assets owned by the CFC when it first becomes an eligible CFC FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will a controlled foreign companies (CFC's) commencing day under section 406 of the Income Tax Assessment Act 1936 (ITAA 1936) in relation to an attributable taxpayer be the first day that the attributable taxpayer acquires a controlling interest in a CFC that was already an eligible CFC?
 Decision
 No. The CFC's commencing day under section 406 of the ITAA 1936 is the first day the CFC became an eligible CFC or 30 June 1990 whichever is the later.
@@ -25,29 +14,4 @@ At issue is whether, when calculating the attributable income in relation to an 
 Section 381 of the ITAA 1936 provides that, where at the end of a statutory accounting period of a company, the company is a CFC and there are one or more attributable taxpayers in relation to the company, the attributable income of the company is calculated separately for each attributable taxpayer. The company is called the 'eligible CFC'. So, to be an 'eligible CFC', the company must be a CFC and there must be one or more attributable taxpayers (within the meaning of section 361 of the ITAA 1936) in relation to it.
 Section 406 of the ITAA 1936 provides that the commencing day is the first day on which the CFC becomes an eligible CFC or 30 June 1990, whichever is the later. To be an eligible CFC, section 381 of the ITAA 1936 states that there must be one or more attributable taxpayers in relation to the CFC at the end of a statutory accounting period. The CFC is then an eligible CFC. Under the terms of section 381, once there are one or more attributable taxpayers in relation to a CFC, the CFC is then an eligible CFC. Once the CFC is an eligible CFC for the purposes of section 381, the commencing day under section 406 is the first day on which the CFC becomes an eligible CFC or 30 June 1990, whichever is the later.
 Therefore, the commencing day under section 406 of the ITAA 1936 is the first day the foreign company becomes a CFC and there is an attributable taxpayer in relation to that CFC, even though B Co was not an attributable taxpayer is the in relation to the CFC at that time. The cost base of the assets owned by the CFC at the end of that day is, under section 412 of the ITAA 1936, the greater of the market value at the end of that day or the cost base on that day.
-Date of decision:
-  20 July 2006
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 406   section 412   section 361   section 381
-
-Keywords
-
-Controlled foreign companies
- International tax
-
-Siebel/TDMS Reference Number:
-  3788010
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  28 July 2006
-
-ISSN:
- 1445-2782
+Date of decision: 20 July 2006 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 406 section 412 section 361 section 381 Keywords Controlled foreign companies International tax Siebel/TDMS Reference Number: 3788010 Business Line: Public Groups and International Date of publication: 28 July 2006 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/108
-==================================================
-
-income tax
- Capital gains tax: CGT event E6 - disposal to end income right
- FOI status: may be released
-
-This ATO ID has been withdrawn as the ATO view on this matter now appears in TR 2005/D14
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== income tax Capital gains tax: CGT event E6 - disposal to end income right FOI status: may be released This ATO ID has been withdrawn as the ATO view on this matter now appears in TR 2005/D14 This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will CGT event E6 in section 104-80 of the Income Tax Assessment Act 1997 (ITAA 1997) happen when the trustee of a trust disposes of a CGT asset to a beneficiary, pursuant to a deed of arrangement that varied a will of a deceased person?
 Decision
 No. CGT event E6 in section 104-80 of the ITAA 1997 will not happen when the trustee disposes of the trust asset to a beneficiary because the exception relating to deceased estates applies.
@@ -25,61 +10,12 @@ The deceased died after 19 September 1985. The deceased owned shares in public c
 The life tenants were dissatisfied with the terms of the deceased's will. The life tenants and remainder beneficiaries entered into a deed of arrangement to alter the distribution of the assets as provided for in the deceased's will. On entering into the deed of arrangement the life tenants agreed to give up any interest in the income of the estate in exchange for shares to the present capital value of their life interest.
 The only consideration the life tenants gave for entering the deed was the waiver of any further claim to participate in the distribution of the estate.
 Reasons for Decision
-Subsection 104-80(1) of the ITAA 1997 provides that CGT event E6 happens:
-
-'...if the trustee of a trust (except a unit trust or a trust to which Division 128 applies) disposes of a CGT asset of the trust to a beneficiary in satisfaction of the beneficiary's right, or part of it, to receive ordinary income or statutory income from the trust.'
-
-If CGT event E6 happens there may be consequences for the trustee under subsection 104-80(3) of the ITAA 1997 and for the beneficiary under subsection 104-80(5) of the ITAA 1997.
+Subsection 104-80(1) of the ITAA 1997 provides that CGT event E6 happens: '...if the trustee of a trust (except a unit trust or a trust to which Division 128 applies) disposes of a CGT asset of the trust to a beneficiary in satisfaction of the beneficiary's right, or part of it, to receive ordinary income or statutory income from the trust.' If CGT event E6 happens there may be consequences for the trustee under subsection 104-80(3) of the ITAA 1997 and for the beneficiary under subsection 104-80(5) of the ITAA 1997.
 The scheme of the legislation is that a trustee makes a capital gain or capital loss when a trust asset is disposed of to a beneficiary except where Division 128 of the ITAA 1997 applies in relation to the asset. If Division 128 of the ITAA 1997 applies, any capital gain or capital loss the trustee makes is disregarded and the beneficiary assumes the trustee's cost base or reduced cost base for the asset.
 Division 128 of the ITAA 1997 applies in relation to the transfer of the shares in this case, because they are taken to have passed to a beneficiary in the estate of a deceased person by virtue of paragraph 128-20(1)(d) of the ITAA 1997.
 Further, it is considered that the effect of the deed of arrangement is that the beneficiaries did not have a right to receive income for the purposes of subsection 104-80(1) of the ITAA 1997. The deed was entered into when the estate was still in administration and the beneficiaries' right to income had not crystallised. It is considered that by entering into the deed of arrangement, the deceased's original will was effectively altered and the life tenants are regarded as never having had a potential right to income of the estate. As the life tenants do not have a right to receive income from the estate, CGT event E6 cannot happen.
 CGT event E6 is the most appropriate CGT event to be applied in this situation. As it does not happen, it is considered that the trustee and life tenant will not make a capital gain or capital loss as a result of entering into the deed of arrangement to vary the distribution of assets under the deceased's will.
-Date of decision:
-  5 November 2002
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-80   subsection 104-80(1)   section 128-20   paragraph 128-20(1)(d)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/107
- ATO ID 2004/39
-
-Keywords
-
-Capital gains
- CGT assets
- Family settlements & arrangements
- Wills
- Life interests
- CGT deceased estates
- CGT events
-
-Business Line:
-  Losses & CGT Centre of Expertise
-
-Date of publication:
-  15 March 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 November 2002
-Original statement
-
-You are here
+Date of decision: 5 November 2002 Year of income: Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 104-80 subsection 104-80(1) section 128-20 paragraph 128-20(1)(d) Related ATO Interpretative Decisions ATO ID 2003/107 ATO ID 2004/39 Keywords Capital gains CGT assets Family settlements & arrangements Wills Life interests CGT deceased estates CGT events Business Line: Losses & CGT Centre of Expertise Date of publication: 15 March 2003 ISSN: 1445-2782 history Date: Version: 5 November 2002
+Original statement You are here
 28 September 2005
 Archived

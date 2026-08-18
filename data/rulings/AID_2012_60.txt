@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/60
-==================================================
-
-Income Tax
- Income Tax Division 7A: application of section 109D of the Income Tax Assessment Act 1936 to a loan made in an income year where the loan agreement put in place in the following income year amounts to an agreement for a new loan
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax Division 7A: application of section 109D of the Income Tax Assessment Act 1936 to a loan made in an income year where the loan agreement put in place in the following income year amounts to an agreement for a new loan FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If a private company makes a loan in an income year (the original loan) and, in the following income year (and before the relevant lodgment day) puts in place a written loan agreement which amounts to a new loan, does section 109D of the Income Tax Assessment Act 1936 (ITAA 1936) apply to the original loan in the income year in which the original loan is made?
 Decision
 Yes. If a private company makes a loan in an income year (the original loan) and, in the following income year (and before the relevant lodgment day) puts in place a written loan agreement which amounts to a new loan, section 109D of the ITAA 1936 applies to the original loan in the income year in which the original loan is made.
@@ -23,72 +12,18 @@ The written agreement evidences a clear intention that ABC Pty Ltd and the indiv
 Reasons for Decision
 All references are to the ITAA 1936 unless otherwise indicated.
 The making of a loan by a private company to a shareholder or an associate of the shareholder is treated as the payment of a dividend in the circumstances outlined in section 109D.
-However, section 109N prevents a private company from being taken to pay a dividend under section 109D if, before the private company's lodgment day for the year of income (subsection 109N(1)):
-
-(a)the agreement that the loan was made under is in writing,
+However, section 109N prevents a private company from being taken to pay a dividend under section 109D if, before the private company's lodgment day for the year of income (subsection 109N(1)): (a)the agreement that the loan was made under is in writing,
 (b)the rate of interest payable on the loan for the income year after the year in which the loan is made, equals or exceeds the benchmark interest rate for the year, and
-(c)the term of the loan does not exceed the maximum term worked out under subsections 109N(3).
-
-Such written agreement is commonly referred to as a 'complying loan agreement' or a 'section 109N loan agreement'.
+(c)the term of the loan does not exceed the maximum term worked out under subsections 109N(3). Such written agreement is commonly referred to as a 'complying loan agreement' or a 'section 109N loan agreement'.
 The making of a complying loan agreement may, as a matter of contract law, either: (a) merely elucidate the terms of an existing loan agreement, (b) vary the terms of an existing loan agreement, or (c) amount to the making of a new loan.
 Whether or not, in a particular case, the making of a complying loan agreement amounts to a new loan, or is a variation or mere elucidation of the terms of an existing loan, is a question of fact to be determined by reference to all of the circumstances (ATO ID 2012/61 discusses the consequences of a mere elucidation or variation).
-As a matter of ordinary contract law, in order to bring a loan agreement to an end, the borrower's obligation to repay must be discharged. Commonly, this might be achieved by:
-
-(I).forgiveness;
+As a matter of ordinary contract law, in order to bring a loan agreement to an end, the borrower's obligation to repay must be discharged. Commonly, this might be achieved by: (I).forgiveness;
 (II).conventional repayment by the borrower; or
-(III).mutual set off of:
-
-•the borrower's obligations under the original agreement to repay the loan; and
-•the lender's obligations under a replacement agreement to advance a further loan;
-
-in accordance with the rule in Re Harmony and Montague Tin and Copper Mining Company (1873) LR 8 Ch App 407 (Spargo's Case). Commonly, the necessary mutual agreement might be found as an express term in the replacement agreement;
+(III).mutual set off of: •the borrower's obligations under the original agreement to repay the loan; and
+•the lender's obligations under a replacement agreement to advance a further loan; in accordance with the rule in Re Harmony and Montague Tin and Copper Mining Company (1873) LR 8 Ch App 407 (Spargo's Case). Commonly, the necessary mutual agreement might be found as an express term in the replacement agreement;
 If the original loan agreement is not brought to an end, any further agreement intended to be a replacement loan may result in no further loan being made in the sense contemplated by subsection 109D(4). In such cases the further agreement may only amount to a mere variation of the original agreement or alternatively stand as an executory contract.
 In cases where a mutual set off is effected, the discharge amounts to a repayment for Division 7A purposes (FCT v. Rozman 2010 ATC 20-171). In such circumstances, section 109R may apply. Section 109R is intended to prevent shareholders or their associates from avoiding the operation of Division 7A by temporarily repaying a loan.
 Broadly, a payment must be disregarded if it is reasonable to conclude, having regard to all of the circumstances, that the borrower intended to obtain a loan or loans from the private company of a total amount similar to or more than the payment (paragraph 109R(2)(a)). Further, a payment must also be disregarded if the new loan or loans are made to the borrower before the borrower makes the payment to the company and it is reasonable to conclude the loan or loans were obtained in order to make the payment (paragraph 109R(2)(b)).
 As the written agreement put in place between ABC Pty Ltd and the individual in the 2012-13 income year amounts to a new loan, the original loan is taken to have been repaid at the time the new loan was put in place. However, section 109R operates to disregard the repayment for the purposes of section 109D.
 Therefore, as the terms of the original loan were not put in writing before the private company's lodgment day for the 2011-12 income year, and that loan is not taken to be repaid because of section 109R, ABC Pty Ltd is taken to pay a dividend to the individual at the end of the 2011-12 income year (subsection 109D(1)). The amount of the deemed dividend is, subject to section 109Y (relating to the company's distributable surplus).
-As the putting in place of the complying loan agreement amounts to a new loan between ABC Pty Ltd and the individual, an amalgamated loan is, for the purposes of Division 7A of Part III, taken to be made in the 2012-13 income year (subsection 109E(3)). Section 109E may apply to the amalgamated loan in the 2013-14 and later income years.
-
-Note: In cases where a deemed dividend is the result of an honest mistake or inadvertent omission, taxpayers can apply to the Commissioner to exercise his discretion under section 109RB to either disregard the Division 7A result or allow the deemed dividend to be franked. In making a decision the Commissioner must have regard to the factors listed in subsection 109RB(3) and may make a decision subject to conditions.
-
-Date of decision:
-  10 July 2012
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 7A   section 109D   subsection 109D(1)   subsection 109D(1AA)   subsection 109D(4)   section 109E   subsection 109E(3)   section 109N   subsection 109N(1)   paragraph 109N(1)(b)   paragraph 109N(1)(c)   subsection 109N(3)   section 109R   paragraph 109R(2)(a)   paragraph 109R(2)(b)   section 109RB   subsection 109RB(3)   section 109Y
-
-Case References:
-
-Re Harmony and Montague Tin and Copper Mining Company   (1873) LR 8 Ch App 407   [1861-73] All ER Rep 261
-
-FCT v Rozman   [2010] FCA 324   (2010) 75 ATR 782   2010 ATC 20-171
-
-Related ATO Interpretative Decisions
-
- ATO ID 2012/61
-
-Keywords
-
-Companies
- Deemed dividends
- Private companies
- Shareholder loans
-
-Siebel/TDMS Reference Number:
-  1-3YN5Y58; 1-9W7ZGWL
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  13 July 2012
-
-Date reviewed:
-  19 October 2016
-
-ISSN:
- 1445-2782
+As the putting in place of the complying loan agreement amounts to a new loan between ABC Pty Ltd and the individual, an amalgamated loan is, for the purposes of Division 7A of Part III, taken to be made in the 2012-13 income year (subsection 109E(3)). Section 109E may apply to the amalgamated loan in the 2013-14 and later income years. Note: In cases where a deemed dividend is the result of an honest mistake or inadvertent omission, taxpayers can apply to the Commissioner to exercise his discretion under section 109RB to either disregard the Division 7A result or allow the deemed dividend to be franked. In making a decision the Commissioner must have regard to the factors listed in subsection 109RB(3) and may make a decision subject to conditions. Date of decision: 10 July 2012 Year of income: Year ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 Division 7A section 109D subsection 109D(1) subsection 109D(1AA) subsection 109D(4) section 109E subsection 109E(3) section 109N subsection 109N(1) paragraph 109N(1)(b) paragraph 109N(1)(c) subsection 109N(3) section 109R paragraph 109R(2)(a) paragraph 109R(2)(b) section 109RB subsection 109RB(3) section 109Y Case References: Re Harmony and Montague Tin and Copper Mining Company (1873) LR 8 Ch App 407 [1861-73] All ER Rep 261 FCT v Rozman [2010] FCA 324 (2010) 75 ATR 782 2010 ATC 20-171 Related ATO Interpretative Decisions ATO ID 2012/61 Keywords Companies Deemed dividends Private companies Shareholder loans Siebel/TDMS Reference Number: 1-3YN5Y58; 1-9W7ZGWL Business Line: Private Groups and High Wealth Individuals Date of publication: 13 July 2012 Date reviewed: 19 October 2016 ISSN: 1445-2782

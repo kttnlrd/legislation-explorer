@@ -1,124 +1,20 @@
 ATO Interpretative Decision
 ATO ID 2003/750
-==================================================
-
-Income Tax
- Thin Capitalisation: loans from resident company to non-resident associate company
- FOI status: may be released
-
-This ATO ID is withdrawn from the database because it contains a view in respect Division 16F of the Income Tax Assessment Act 1936 which does not apply after 1 July 2001. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions up to, and including, 30 June 2001.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-
-Are loans from an Australian resident company to a non-resident associate company 'short-term trade credit amounts' for the purposes of subparagraph 159GZG(1)(d)(iii) of Division 16F of the Income Tax Assessment Act 1936 (ITAA 1936)?
-Decision
-
-Yes. The loans provided by the Australian company to the non-resident associate company meet all of the provisions and conditions set out in paragraphs 159GZJB(1)(a) to 159GZJB(1)(d) of the ITAA 1936 to be treated as short-term trade credit amounts, and accordingly, the foreign equity of the Australian company is not reduced by the balance outstanding on the loans at the end of the income year under paragraph 159GZG(1)(d) of the ITAA 1936.
-Facts
-
-An Australian resident company, wholly owned by a non-resident company, borrowed funds at interest from its non-resident parent and deposited those funds with a non-resident associate company. The Australian company entered into numerous separate and distinct loan contracts with the non-resident associate company.
+================================================== Income Tax Thin Capitalisation: loans from resident company to non-resident associate company FOI status: may be released This ATO ID is withdrawn from the database because it contains a view in respect Division 16F of the Income Tax Assessment Act 1936 which does not apply after 1 July 2001. Despite its withdrawal from the database, this ATO ID continues to be a precedential view in respect of decisions up to, and including, 30 June 2001. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue Are loans from an Australian resident company to a non-resident associate company 'short-term trade credit amounts' for the purposes of subparagraph 159GZG(1)(d)(iii) of Division 16F of the Income Tax Assessment Act 1936 (ITAA 1936)?
+Decision Yes. The loans provided by the Australian company to the non-resident associate company meet all of the provisions and conditions set out in paragraphs 159GZJB(1)(a) to 159GZJB(1)(d) of the ITAA 1936 to be treated as short-term trade credit amounts, and accordingly, the foreign equity of the Australian company is not reduced by the balance outstanding on the loans at the end of the income year under paragraph 159GZG(1)(d) of the ITAA 1936.
+Facts An Australian resident company, wholly owned by a non-resident company, borrowed funds at interest from its non-resident parent and deposited those funds with a non-resident associate company. The Australian company entered into numerous separate and distinct loan contracts with the non-resident associate company.
 Each contract stipulated the principal sum, interest rate and term of the loan. Each contract was entered into on a sequential basis, i.e. when the previous contract expired, a new contract was entered into between the parties. The term of each contract covered short-term periods varying from one to seven days. The principal sum and interest rate varied from contract to contract.
 Reasons for Decision:
 For the purposes of this case, foreign equity of the Australian resident company means the sum of the amounts calculated under paragraphs 159GZG(1)(b) and 159GZG(1)(c) of the ITAA 1936 having regard to paragraphs 159 GZG(1)(e) and 159GZG(1)(f), and reduced under paragraph 159GZG(1)(d) by the sum of the balance outstanding at the end of the year of income on all amounts owing to the Australian company by foreign controllers or non-resident associates of foreign controllers, of the Australian company, other than short-term trade credit amounts as provided by subparagraph 159GZG(1)(d)(iii).
-In calculating the foreign equity of companies, partnerships and trusts, Taxation Ruling IT 2479 states that the purpose of paragraph 159GZG(1)(d) of the ITAA 1936 is to ensure funds invested as foreign equity by foreign controllers or their non-resident associates are not lent back to foreign controllers or their non-resident associates and that in the absence of a control provision of this kind, foreign equity could be artificially inflated. Furthermore, paragraph 16 of IT 2479 states:
-
-Because debt and equity invested in an Australian enterprise become mixed with profits and other funds it is generally not possible to identify amounts lent by an Australian enterprise to foreign controllers or their non-resident associates as being sourced in profits, debt or equity. Accordingly, all amounts owed at the end of the year of income by foreign controllers or their non-resident associates to resident companies, partnerships and trusts are deducted from the foreign equity of the relevant Australian enterprise. These equity loan-backs may include trade debts, whether or not interest bearing, and amounts invested by the Australian enterprise with foreign controllers and their non-resident associates.
-
-An amount owing to a resident company, to a partnership or to the trustee of a trust estate as at a particular time is a short-term trade credit amount in terms of subsection 159GZJB(1) of the ITAA 1936 if, and only if, all of the following paragraphs apply:
-
-(a)the amount is owing to the company, partnership or trustee by a foreign controller or a non-resident associate of a foreign controller, of the company, partnership or trust estate, as the case may be (which foreign controller or associate is in this subsection called the
- 'trade debtor'
- );
+In calculating the foreign equity of companies, partnerships and trusts, Taxation Ruling IT 2479 states that the purpose of paragraph 159GZG(1)(d) of the ITAA 1936 is to ensure funds invested as foreign equity by foreign controllers or their non-resident associates are not lent back to foreign controllers or their non-resident associates and that in the absence of a control provision of this kind, foreign equity could be artificially inflated. Furthermore, paragraph 16 of IT 2479 states: Because debt and equity invested in an Australian enterprise become mixed with profits and other funds it is generally not possible to identify amounts lent by an Australian enterprise to foreign controllers or their non-resident associates as being sourced in profits, debt or equity. Accordingly, all amounts owed at the end of the year of income by foreign controllers or their non-resident associates to resident companies, partnerships and trusts are deducted from the foreign equity of the relevant Australian enterprise. These equity loan-backs may include trade debts, whether or not interest bearing, and amounts invested by the Australian enterprise with foreign controllers and their non-resident associates. An amount owing to a resident company, to a partnership or to the trustee of a trust estate as at a particular time is a short-term trade credit amount in terms of subsection 159GZJB(1) of the ITAA 1936 if, and only if, all of the following paragraphs apply: (a)the amount is owing to the company, partnership or trustee by a foreign controller or a non-resident associate of a foreign controller, of the company, partnership or trust estate, as the case may be (which foreign controller or associate is in this subsection called the 'trade debtor' );
 (b)the company, partnership or trustee carries on a business of providing property or services at that time;
-(c)in the course of carrying on that business, the company, partnership or trustee, as the case may be:
-
-(i)provides property or services to the trade debtor; and
-(ii)invoices the trade debtor for the provision of the property or services on terms that allow the trade debtor credit for a period not exceeding 30 days after the date of the invoice;
-
-(d)the credit facility mentioned in subparagraph (c)(ii) is not extended or rolled over.
-
-Subsection 159GZJB(3) of the ITAA 1936 states that 'provide' and 'services' have the same meaning as in section 21A of the ITAA 1936. The terms are defined in subsection 21A(5) of the ITAA 1936 as follows:
-
-"provide"
-
-(a)in relation to property - includes dispose of (whether by assignment, declaration of trust or otherwise); and
-(b)in relation to services - includes allow, confer, give, grant or perform;
-
-"services" includes any benefit, right (including a right in relation to, and an interest in, real or personal property), privilege or facility and, without limiting the generality of the foregoing, includes a right, benefit, privilege, service or facility that is, or is to be, provided under:
-
-(a)an arrangement for or in relation to:
-
-(i)the performance of work (including work of a professional nature), whether with or without the provision of property;
+(c)in the course of carrying on that business, the company, partnership or trustee, as the case may be: (i)provides property or services to the trade debtor; and
+(ii)invoices the trade debtor for the provision of the property or services on terms that allow the trade debtor credit for a period not exceeding 30 days after the date of the invoice; (d)the credit facility mentioned in subparagraph (c)(ii) is not extended or rolled over. Subsection 159GZJB(3) of the ITAA 1936 states that 'provide' and 'services' have the same meaning as in section 21A of the ITAA 1936. The terms are defined in subsection 21A(5) of the ITAA 1936 as follows: "provide" (a)in relation to property - includes dispose of (whether by assignment, declaration of trust or otherwise); and
+(b)in relation to services - includes allow, confer, give, grant or perform; "services" includes any benefit, right (including a right in relation to, and an interest in, real or personal property), privilege or facility and, without limiting the generality of the foregoing, includes a right, benefit, privilege, service or facility that is, or is to be, provided under: (a)an arrangement for or in relation to: (i)the performance of work (including work of a professional nature), whether with or without the provision of property;
 (ii)the provision of, or of the use of facilities for, entertainment, recreation or instruction; or
-(iii)the conferring of rights, benefits or privileges for which remuneration is payable in the form of a royalty, tribute, levy or similar exaction;
-
-(b)a contract of insurance; or
-(c)an arrangement for or in relation to the lending of money.
-
-The amounts owing to the Australian company by the non-resident associate company are short-term trade credit amounts because all of the paragraphs and subparagraphs of subsection 159GZJB(1) of the ITAA 1936 apply:
-
-paragraph (a)
- (the amounts are owing to the Australian company by a non-resident associate of a foreign controller of the Australian company, which associate is called the trade debtor);
-
-paragraph (b)
- and
- subparagraph (c)(i)
- (the Australian company carries on a business of providing services to the trade debtor because under the definition of services in subsection 21A (5) of the ITAA 1936, the provision of services includes the provision of a loan);
-
-subparagraph (c)(ii)
- (the Australian company invoiced the trade debtor on terms that allowed credit for a period not exceeding 30 days after the date of the invoice); and
-
-paragraph (d)
- (the credit facility referred to in subparagraph (c)(ii) was not extended or rolled over).
-
-Note: Division 16F of the ITAA 1936 was repealed with effect from 1 July 2001.
-Date of decision:
-  7 August 2003
-
-Year of income:
-  SAP in lieu of 30 June 1999
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 21A   subsection 21A(5)   Division 16F   paragraph 159GZG(1)(b)   paragraph 159GZG(1)(c)   paragraph 159GZG(1)(d)   subparagraph 159GZG(1)(d)(iii)   paragraph 159GZG(1)(e)   paragraph 159GZG(1)(f)   subsection 159GZJB(1)   paragraph 159GZJB(1)(a)   paragraph 159GZJB(1)(b)   paragraph 159GZJB(1)(c)   subparagraph 159GZJB(1)(c)(i)   subparagraph 159GZJB(1)(c)(ii)   paragraph 159GZJB(1)(d)   subsection 159GZJB(3)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2479
-
-Keywords
-
-Thin capitalisation
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 August 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 7 August 2003
-Original statement
-
-You are here
- 4 March 2011
+(iii)the conferring of rights, benefits or privileges for which remuneration is payable in the form of a royalty, tribute, levy or similar exaction; (b)a contract of insurance; or
+(c)an arrangement for or in relation to the lending of money. The amounts owing to the Australian company by the non-resident associate company are short-term trade credit amounts because all of the paragraphs and subparagraphs of subsection 159GZJB(1) of the ITAA 1936 apply: paragraph (a) (the amounts are owing to the Australian company by a non-resident associate of a foreign controller of the Australian company, which associate is called the trade debtor); paragraph (b) and subparagraph (c)(i) (the Australian company carries on a business of providing services to the trade debtor because under the definition of services in subsection 21A (5) of the ITAA 1936, the provision of services includes the provision of a loan); subparagraph (c)(ii) (the Australian company invoiced the trade debtor on terms that allowed credit for a period not exceeding 30 days after the date of the invoice); and paragraph (d) (the credit facility referred to in subparagraph (c)(ii) was not extended or rolled over). Note: Division 16F of the ITAA 1936 was repealed with effect from 1 July 2001.
+Date of decision: 7 August 2003 Year of income: SAP in lieu of 30 June 1999 Legislative References: Income Tax Assessment Act 1936 section 21A subsection 21A(5) Division 16F paragraph 159GZG(1)(b) paragraph 159GZG(1)(c) paragraph 159GZG(1)(d) subparagraph 159GZG(1)(d)(iii) paragraph 159GZG(1)(e) paragraph 159GZG(1)(f) subsection 159GZJB(1) paragraph 159GZJB(1)(a) paragraph 159GZJB(1)(b) paragraph 159GZJB(1)(c) subparagraph 159GZJB(1)(c)(i) subparagraph 159GZJB(1)(c)(ii) paragraph 159GZJB(1)(d) subsection 159GZJB(3) Related Public Rulings (including Determinations) Taxation Ruling IT 2479 Keywords Thin capitalisation Business Line: Public Groups and International Date of publication: 22 August 2003 ISSN: 1445-2782 history Date: Version: 7 August 2003
+Original statement You are here 4 March 2011
 Archived

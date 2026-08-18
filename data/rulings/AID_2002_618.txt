@@ -1,114 +1,31 @@
 ATO Interpretative Decision
 ATO ID 2002/618
-==================================================
-
-Income Tax
- Uniform Capital Allowances - Depreciating asset passes from Legal Personal Representative (LPR) to a beneficiary
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Uniform Capital Allowances - Depreciating asset passes from Legal Personal Representative (LPR) to a beneficiary FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 What is the balancing adjustment amount under section 40-285 of the Income Tax Assessment Act 1997 (ITAA 1997) for the LPR when the LPR passes a depreciating asset to a beneficiary of a deceased estate?
 Decision
 The balancing adjustment amount worked out under section 40-285 of the ITAA 1997 is $4,000.
 Facts
-A sole trader purchased a depreciating asset costing $20,000 on 28 August 2001. The decline in value of the asset was worked out under Subdivision 40-B of the ITAA 1997. The sole trader used the asset solely for the purpose of producing assessable income. When the sole trader died on 28 February 2002 the asset passed to the LPR. At the time of death the asset's adjustable value was $17,000. The LPR subsequently passed the asset to a beneficiary of the sole trader's estate. The market value of the asset just before the LPR stopped holding it was $21,000. The LPR did not use the asset, or have it installed ready for use, for any purpose.
-
-Reasons for Decision
+A sole trader purchased a depreciating asset costing $20,000 on 28 August 2001. The decline in value of the asset was worked out under Subdivision 40-B of the ITAA 1997. The sole trader used the asset solely for the purpose of producing assessable income. When the sole trader died on 28 February 2002 the asset passed to the LPR. At the time of death the asset's adjustable value was $17,000. The LPR subsequently passed the asset to a beneficiary of the sole trader's estate. The market value of the asset just before the LPR stopped holding it was $21,000. The LPR did not use the asset, or have it installed ready for use, for any purpose. Reasons for Decision
 The LPR stopped holding the asset at the time the asset passed to the beneficiary. Accordingly, a balancing adjustment event occurred for the asset under paragraph 40-295(1)(a) of the ITAA 1997. To work out the balancing adjustment amount, section 40-285 of the ITAA 1997 requires a comparison of the asset's termination value with its adjustable value just before the balancing adjustment event occurred. If the termination value is more than the adjustable value, the excess is included in the assessable income under subsection 40-285(1) of the ITAA 1997 as an assessable balancing adjustment amount. If the termination value is less than the adjustable value, the difference can be deducted under subsection 40-285(2) of the ITAA 1997 as a deductible balancing adjustment amount.
 The LPR did not use the asset, or have it installed ready for use, for any purpose. In these circumstances, paragraph 40-85(1)(a) of the ITAA 1997 provides that the adjustable value of the asset in the hands of the LPR is its cost.
 Section 40-175 of the ITAA 1997 provides that the cost of an asset consists of two elements. Where a depreciating asset passes to an LPR because a person dies, item 12 of the table in subsection 40-180(2) of the ITAA 1997 specifies that the first element of the cost of the asset is the asset's adjustable value at the time of death. In this case there is no second element of cost. Consequently, the adjustable value of the asset in the hands of the LPR is $17,000.
 The passing of the asset from the LPR to the beneficiary was not a dealing between persons at arm's length. Accordingly, item 6 of the termination value table in subsection 40-300(2) of the ITAA 1997 specifies that the termination value of the asset is its market value just before the LPR stopped holding it (ie $21,000).
 As the asset's termination value is more than its adjustable value, the difference between the termination value of $21,000 and the adjustable value of $17,000 (ie $4,000) is an assessable balancing adjustment amount that is included in the LPR's assessable income under subsection 40-285(1) of the ITAA 1997.
-There are no capital gains tax implications for the asset as a result of its passing from the LPR to the beneficiary because:
-
-•Subsection 118-24(1) of the ITAA 1997 provides that any capital gain or loss that a taxpayer makes from a CGT event, that is also a balancing adjustment event that happens to a depreciating asset the taxpayer held, is to be disregarded if the decline in value of the asset was worked out under Division 40 of the ITAA 1997, or would have been worked out under that Division had the taxpayer used it.
-•Subsection 118-24(2) of the ITAA 1997 provides exclusions to the rules in subsection 118-24(1) of the ITAA 1997, including where a taxpayer makes a capital gain or capital loss from CGT event K7 (section 104-235 of the ITAA 1997) happening. CGT event K7 does not apply as the LPR did not use the asset, or have it installed ready for use, for any purpose. The other exclusions in subsection 118-24(2) of the ITAA 1997 also do not apply.
-
-Amendment History
-
-Date of Amendment
+There are no capital gains tax implications for the asset as a result of its passing from the LPR to the beneficiary because: •Subsection 118-24(1) of the ITAA 1997 provides that any capital gain or loss that a taxpayer makes from a CGT event, that is also a balancing adjustment event that happens to a depreciating asset the taxpayer held, is to be disregarded if the decline in value of the asset was worked out under Division 40 of the ITAA 1997, or would have been worked out under that Division had the taxpayer used it.
+•Subsection 118-24(2) of the ITAA 1997 provides exclusions to the rules in subsection 118-24(1) of the ITAA 1997, including where a taxpayer makes a capital gain or capital loss from CGT event K7 (section 104-235 of the ITAA 1997) happening. CGT event K7 does not apply as the LPR did not use the asset, or have it installed ready for use, for any purpose. The other exclusions in subsection 118-24(2) of the ITAA 1997 also do not apply. Amendment History Date of Amendment
 Part
-Comment
-
-13 February 2015
+Comment 13 February 2015
 Issue
-Amend for clarity
-
-Decision
-Amend for clarity
-
-Facts
-Amend for clarity
-
-Reasons for Decision
+Amend for clarity Decision
+Amend for clarity Facts
+Amend for clarity Reasons for Decision
 Insert explanations of the calculation of the balancing adjustment amount and when it is assessable or deductible
 Expand the explanation on calculation of the cost and consequently the adjustable value
-Condense the explanation on CGT event K7
-
-Legislative References
+Condense the explanation on CGT event K7 Legislative References
 Insert reference to Division 40, section 40-175 and subsection 118-24(2)
-Delete references to paragraph 40-195(1)(a), subparagraph 40-285(1)(a)(ii) and subparagraph 40-285(2)(a)(ii)
-
-Keywords
-Insert additional keywords
-
-Date of decision:
-  05 April 2002
-
-Year of income:
-  30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 40   Subdivision 40-B   paragraph 40-85(1)(a)   section 40-175   item 12, subsection 40-180(2)   section 40-285   subsection 40-285(1)   subsection 40-285(2)   paragraph 40-295(1)(a)   item 2, subsection 40-300(2)   section 104-235   subsection 118-24(1)   subsection 118-24(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/617
- ATO ID 2002/619
-
-Keywords
-
-Assessable balancing adjustment amount
- Balancing adjustment event
- Cost of a depreciating asset
- First element of cost
- Legal personal representatives
- Termination value
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  DW367697; 1-60407GB
-
-Business Line:
-  Small Business/Individual Taxpayers
-
-Date of publication:
-  31 May 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 5 April 2002
-Original statement
-
-You are here
+Delete references to paragraph 40-195(1)(a), subparagraph 40-285(1)(a)(ii) and subparagraph 40-285(2)(a)(ii) Keywords
+Insert additional keywords Date of decision: 05 April 2002 Year of income: 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Division 40 Subdivision 40-B paragraph 40-85(1)(a) section 40-175 item 12, subsection 40-180(2) section 40-285 subsection 40-285(1) subsection 40-285(2) paragraph 40-295(1)(a) item 2, subsection 40-300(2) section 104-235 subsection 118-24(1) subsection 118-24(2) Related ATO Interpretative Decisions ATO ID 2002/617 ATO ID 2002/619 Keywords Assessable balancing adjustment amount Balancing adjustment event Cost of a depreciating asset First element of cost Legal personal representatives Termination value Uniform capital allowances system Siebel/TDMS Reference Number: DW367697; 1-60407GB Business Line: Small Business/Individual Taxpayers Date of publication: 31 May 2002 ISSN: 1445-2782 history Date: Version: 5 April 2002
+Original statement You are here
 13 February 2015
 Updated statement

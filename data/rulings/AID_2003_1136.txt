@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1136
-==================================================
-
-Income Tax
- Capital gains tax: main residence exemption - dwelling inherited through chain of deceased estates
- FOI status: may be released
-
-The ATO ID is withdrawn as the position stated in it is no longer current. It has not been replaced as the ATO ID is a simple restatement of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: main residence exemption - dwelling inherited through chain of deceased estates FOI status: may be released The ATO ID is withdrawn as the position stated in it is no longer current. It has not been replaced as the ATO ID is a simple restatement of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a taxpayer entitled to a partial main residence exemption under Subdivision 118-B of the Income Tax Assessment Act 1997 (ITAA 1997) in relation to a dwelling inherited from the estate of a deceased person that was not the main residence of the deceased but which the deceased had earlier inherited from the estate of another deceased person whose main residence the dwelling had been?
 Decision
 Yes. As the taxpayer inherited the dwelling through a chain of deceased estates they are entitled to a partial main residence exemption under section 118-200 and subsection 118-205(2) of the ITAA 1997. The exemption is calculated having regard to the number of days the dwelling was the main residence of any of the former owners.
@@ -32,81 +17,18 @@ Reasons for Decision
 The main residence exemption in Subdivision 118-B of the ITAA 1997 applies to disregard a capital gain or capital loss a taxpayer makes from a CGT event that happens to a dwelling that is their main residence. Special rules apply if the taxpayer is an individual and their ownership interest in the dwelling passes to them as a beneficiary in a deceased estate, or they own it as trustee of a deceased estate.
 Section 118-195 of the ITAA 1997 provides a full exemption if the relevant conditions in the table in subsection 118-195(1) are satisfied. Relevantly, if the dwelling that was inherited was acquired by the deceased after 19 September 1985 it must have been the deceased's main residence just before they died.
 In this case, the taxpayer acquired their ownership interest in the dwelling from the second deceased. The dwelling was not the second deceased's main residence just before their death. Accordingly, section 118-195 of the ITAA 1997 does not apply.
-However, section 118-200 of the ITAA 1997 provides for a partial exemption. The relevant formula in subsection 118-200(2) for determining how much of the capital gain or loss is not exempt is:
-
-Capital gain or capital loss amount * (Non-main residence days / Total days)
-
-In this case,
-
-Non-main residence days
- is the sum of:
-
-(a) the number of days in the second deceased's ownership period when the dwelling was not the second deceased's main residence (2,600 days), and
-(b) the number of days in the period from the second deceased's death until the taxpayer's ownership interest ends when the dwelling was not the main residence of an individual referred to in item 2, column 3 of the table in section 118-195 (750 days).
-
-Total days
- is: the number of days in the period from the acquisition of the dwelling by the second deceased until the taxpayer's ownership interest ends (2,600 + 750 days).
+However, section 118-200 of the ITAA 1997 provides for a partial exemption. The relevant formula in subsection 118-200(2) for determining how much of the capital gain or loss is not exempt is: Capital gain or capital loss amount * (Non-main residence days / Total days) In this case, Non-main residence days is the sum of: (a) the number of days in the second deceased's ownership period when the dwelling was not the second deceased's main residence (2,600 days), and
+(b) the number of days in the period from the second deceased's death until the taxpayer's ownership interest ends when the dwelling was not the main residence of an individual referred to in item 2, column 3 of the table in section 118-195 (750 days). Total days is: the number of days in the period from the acquisition of the dwelling by the second deceased until the taxpayer's ownership interest ends (2,600 + 750 days).
 In this case, the effect of the application of the formula in subsection 118-200(2) of the ITAA 1997 is that no exemption would be available because the 'non-main residence days' would equal the 'total days.'
 However, because the taxpayer inherited their ownership interest in the dwelling after 19 September 1985 as a beneficiary through a chain of deceased estates, the taxpayer adjusts the formula in subsection 118-200(2) of the ITAA 1997 to take into account the times when the dwelling was the main residence of an individual earlier in the inheritance chain (section 118-205 of the ITAA 1997).
-Under subsection 118-205(2) of the ITAA 1997 the 'total days' in the formula in subsection 118-200(2) of the ITAA 1997 is adjusted by adding the fewer of:
-
-• the number of days between 20 September 1985 and the day the ownership interest passed to the most recently deceased (3,700 days): paragraph 118-205(2)(a) of the ITAA 1997, and
-• the number of days between the time when an ownership interest in the dwelling was last acquired on or after 20 September 1985 by an individual, except as a beneficiary in or a trustee of a deceased estate, and the day when the interest passed to the most recently deceased (nil days): paragraph 118-205(2)(b).
-
-In this case, the number of days calculated under paragraph 118-205(2)(a) of the ITAA 1997 is 3,700 days and the number calculated under paragraph 118-205(2)(b) of the ITAA 1997 is nil. Although nil is less than 3,700 it is considered that the comparison required by subsection 118-200(2) of the ITAA 1997 is between two positive numbers of days, otherwise the provisions do not operate as intended. Accordingly, 3,700 days should be added to the total days in this case.
-In addition, subsection 118-205(3) provides that the apportionment formula in subsection 118-200(2) of the ITAA 1997 is adjusted by adding to the 'non-main residence days' the number of days that the dwelling was not the main residence of one or more of:
-
-• an individual who owned the dwelling at the time of their death, or
+Under subsection 118-205(2) of the ITAA 1997 the 'total days' in the formula in subsection 118-200(2) of the ITAA 1997 is adjusted by adding the fewer of: • the number of days between 20 September 1985 and the day the ownership interest passed to the most recently deceased (3,700 days): paragraph 118-205(2)(a) of the ITAA 1997, and
+• the number of days between the time when an ownership interest in the dwelling was last acquired on or after 20 September 1985 by an individual, except as a beneficiary in or a trustee of a deceased estate, and the day when the interest passed to the most recently deceased (nil days): paragraph 118-205(2)(b). In this case, the number of days calculated under paragraph 118-205(2)(a) of the ITAA 1997 is 3,700 days and the number calculated under paragraph 118-205(2)(b) of the ITAA 1997 is nil. Although nil is less than 3,700 it is considered that the comparison required by subsection 118-200(2) of the ITAA 1997 is between two positive numbers of days, otherwise the provisions do not operate as intended. Accordingly, 3,700 days should be added to the total days in this case.
+In addition, subsection 118-205(3) provides that the apportionment formula in subsection 118-200(2) of the ITAA 1997 is adjusted by adding to the 'non-main residence days' the number of days that the dwelling was not the main residence of one or more of: • an individual who owned the dwelling at the time of their death, or
 • their spouse (except a spouse who was living permanently separately and apart from the individual), or
 • an individual who had a right to occupy the dwelling under a will, or
-• an individual to whom an ownership interest in the dwelling passed as a beneficiary in a deceased estate
-
-In this case, because the dwelling was the main residence of the first deceased for their entire ownership period, there are no non-main residence days required to be added to the formula.
-Therefore the taxpayer's capital gain of $100,000 is reduced to $47,518 as follows:
-
-$100,000 * ((2,600 + 750) / (2,600 + 750 + 3,700))
-
-The taxpayer is entitled to a partial main residence exemption of $52,482 (100,000 - 47,518).
-Date of decision:
-  25 November 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 118-B   section 118-195   subsection 118-195(1)   section 118-200   subsection 118-200(2)   section 118-205   subsection 118-205(2)   paragraph 118-205(2)(a)   paragraph 118-205(2)(b)   subsection 118-205(3)
-
-Keywords
-
-Capital gains tax
- CGT deceased estates
- CGT main residence exemption
- Deceased estates
- Dwellings
- Wills
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  19 December 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-25 November 2003
-Original statement
-
-You are here
+• an individual to whom an ownership interest in the dwelling passed as a beneficiary in a deceased estate In this case, because the dwelling was the main residence of the first deceased for their entire ownership period, there are no non-main residence days required to be added to the formula.
+Therefore the taxpayer's capital gain of $100,000 is reduced to $47,518 as follows: $100,000 * ((2,600 + 750) / (2,600 + 750 + 3,700)) The taxpayer is entitled to a partial main residence exemption of $52,482 (100,000 - 47,518).
+Date of decision: 25 November 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Subdivision 118-B section 118-195 subsection 118-195(1) section 118-200 subsection 118-200(2) section 118-205 subsection 118-205(2) paragraph 118-205(2)(a) paragraph 118-205(2)(b) subsection 118-205(3) Keywords Capital gains tax CGT deceased estates CGT main residence exemption Deceased estates Dwellings Wills Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 19 December 2003 ISSN: 1445-2782 history Date: Version: 25 November 2003
+Original statement You are here
 24 November 2006
 Archived

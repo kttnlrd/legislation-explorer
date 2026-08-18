@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/12
-==================================================
-
-Income Tax
- Research and Development: transitional substituted accounting period (SAP) access to research and development tax incentive
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development: transitional substituted accounting period (SAP) access to research and development tax incentive CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a transitional substituted accounting period (SAP) of less than 12 months that commences on or after 1 July 2011, for which an assessment is issued under section 168 of the Income Tax Assessment Act 1936 (ITAA 1936), an 'income year' to which Part 1 of Schedule 4 of the Tax Laws Amendment (Research and Development) Act 2011 (the R&D Act) applies, for the purposes of Division 355 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. A transitional SAP year of less than 12 months is treated as an 'income year' for the purpose of an assessment under section 168 of the ITAA 1936. Where such a transitional SAP year commences on or after 1 July 2011, it will satisfy paragraph (a) of Part 1 of Schedule 4 to the R&D Act and will fall within the scope of Division 355 of the ITAA 1997.
@@ -21,74 +11,16 @@ The taxpayer is an R&D entity within the meaning of section 355-35 of the ITAA 1
 The taxpayer includes a claim for the R&D tax incentive under Division 355 of the ITAA 1997 in its 2012 transitional SAP company tax return.
 The taxpayer is issued an assessment for its 2012 transitional SAP year under section 168 of the ITAA 1936.
 Reasons for Decision
-The R&D tax incentive was introduced by the R&D Act and the enacted provisions were added to the ITAA 1997, principally in Division 355. Part 1 of Schedule 4 to the R&D Act outlines when the R&D tax incentive commences to apply, and relevantly states:
-
-(a)so far as they affect assessments - to assessments for income years commencing on or after 1 July 2011; and
+The R&D tax incentive was introduced by the R&D Act and the enacted provisions were added to the ITAA 1997, principally in Division 355. Part 1 of Schedule 4 to the R&D Act outlines when the R&D tax incentive commences to apply, and relevantly states: (a)so far as they affect assessments - to assessments for income years commencing on or after 1 July 2011; and
 (b)so far as they relate to income years but do not affect assessments - to income years commencing on or after 1 July 2011; and
-(c)otherwise - to acts done or omitted to be done, states of affairs existing, or periods ending on or after the commencement of the first income year commencing on or after 1 July 2011.
-
-For the purposes of Division 355 of ITAA 1997, 'income year' is defined in subsection 995-1(1) of the ITAA 1997 as essentially having the same meaning as given by subsections 4-10(2) and 9-5(2) of the ITAA 1997. The definition also explains that where an entity adopts an accounting period in lieu of a particular income year, a reference to 'income year' in the ITAA 1997 includes the adopted accounting period. Note 1 of this definition clarifies that the Commissioner can allow an accounting period to end on a day other than 30 June, and points to section 18 of the ITAA 1936.
+(c)otherwise - to acts done or omitted to be done, states of affairs existing, or periods ending on or after the commencement of the first income year commencing on or after 1 July 2011. For the purposes of Division 355 of ITAA 1997, 'income year' is defined in subsection 995-1(1) of the ITAA 1997 as essentially having the same meaning as given by subsections 4-10(2) and 9-5(2) of the ITAA 1997. The definition also explains that where an entity adopts an accounting period in lieu of a particular income year, a reference to 'income year' in the ITAA 1997 includes the adopted accounting period. Note 1 of this definition clarifies that the Commissioner can allow an accounting period to end on a day other than 30 June, and points to section 18 of the ITAA 1936.
 Subsections 4-10(2) and 9-5(2) of the ITAA 1997 relevantly provide that the 'income year' is the same as the 'financial year', except if the taxpayer has an accounting period that is not the same as the financial year in which case each such accounting period is an income year (see paragraphs 4-10(2)(b) and 9-5(2)(b) of the ITAA 1997).
 Section 18 of the ITAA 1936 allows a taxpayer, with leave of the Commissioner, to adopt an accounting period, being a 12-month period ending on some date other than 30 June. If this is the case, each subsequent accounting period will also end on the corresponding date of that year, unless some other date is adopted with leave of the Commissioner. This process is explained in detail in Law Administration Practice Statement PS LA 2007/21 Substituted Accounting Periods (SAPs).
-Thus, the starting point, for the purposes of determining the start and end dates of a SAP year (a period of 12 months), is the end of the relevant accounting period. So, for an entity that has adopted a SAP ending on 31 December in lieu of 30 June, the SAP year will be 12 months ending on 31 December, namely 1 January to 31 December. This is confirmed by example 4 in paragraph 39 of PS LA 2007/21, which illustrates the transition to a 31 December end date:
-
-Example 4 - early December SAP
-
-For the 2010 income year an income tax return would normally cover the period 1 July 2009 to 30 June 2010. However, if an entity applied for and was granted leave to adopt a SAP ending on 31 December they would be regarded as an early balancer - that is the SAP balance date is in lieu of the next succeeding 30 June. The entity's income tax return for the 2010 income year would cover the period from 1 January 2009 to 31 December 2009, of which the period 1 July 2009 to 31 December 2009 is common to the 2010 year for both.
-
-Transitional SAP returns
-
-In order to avoid double taxation of the 'common period' (the overlap between the ordinary income year end date of 30 June and the SAP year end date) the Commissioner calls forth a transitional SAP return for this common period. This period can be less than or greater than 12 months, depending on the end date of the taxpayer's SAP. The power to call forth a transitional SAP return is found in sections 162 and 163 of the ITAA 1936. The Commissioner is able to make an assessment for this period under section 168 of the ITAA 1936, called a 'special assessment'.
+Thus, the starting point, for the purposes of determining the start and end dates of a SAP year (a period of 12 months), is the end of the relevant accounting period. So, for an entity that has adopted a SAP ending on 31 December in lieu of 30 June, the SAP year will be 12 months ending on 31 December, namely 1 January to 31 December. This is confirmed by example 4 in paragraph 39 of PS LA 2007/21, which illustrates the transition to a 31 December end date: Example 4 - early December SAP For the 2010 income year an income tax return would normally cover the period 1 July 2009 to 30 June 2010. However, if an entity applied for and was granted leave to adopt a SAP ending on 31 December they would be regarded as an early balancer - that is the SAP balance date is in lieu of the next succeeding 30 June. The entity's income tax return for the 2010 income year would cover the period from 1 January 2009 to 31 December 2009, of which the period 1 July 2009 to 31 December 2009 is common to the 2010 year for both. Transitional SAP returns In order to avoid double taxation of the 'common period' (the overlap between the ordinary income year end date of 30 June and the SAP year end date) the Commissioner calls forth a transitional SAP return for this common period. This period can be less than or greater than 12 months, depending on the end date of the taxpayer's SAP. The power to call forth a transitional SAP return is found in sections 162 and 163 of the ITAA 1936. The Commissioner is able to make an assessment for this period under section 168 of the ITAA 1936, called a 'special assessment'.
 The practice of preparing transitional tax returns covering a period other than 12 months simply allows for the quantum of the taxable income or loss to be fairly and equitably determined for the purpose of levying income tax for the first SAP year. The transitional tax return is not regarded as altering (extending or reducing) the actual 12-month period of the first SAP year for all purposes of the ITAA 1936 or the ITAA 1997. It is also not regarded as an 'accounting period' or an 'income year' for the purposes of the ITAA 1936 or the ITAA 1997, as these periods are required to be 12 months in duration.
-However, where the Commissioner makes a special assessment under section 168 of the ITAA 1936 for a transitional period other than 12 months, this assessment is taken to be for an 'income year' that begins and ends at the start and end of the transitional period respectively. This is by virtue of the operation of subsection 168(2) of the ITAA 1936, which provides that a special assessment under subsection 168(1) of the ITAA 1936 for a period less than 12 months is to be made 'as if the beginning and end of that period were the beginning and end respectively of the income year'. This is explained in Norwich Superannuation Services Pty Ltd v. FC of T (1998) 41 ATR 1091; 99 ATC 2015 at ATR 1095; ATC 2019:
-
-Section 168 does not deem the period of less than a year as a year of income but treats that period for the purpose of an assessment and for that purpose only "as if" it began and ended in a year of income.
-
-Therefore, where there is an assessment, by virtue of section 168 of the ITAA 1938, for a transitional SAP period of less than 12 months that commences on or after 1 July 2011, the beginning of that 'income year' is the beginning of the transitional SAP period for which that assessment is issued, even though the assessment is for a period less than 12 months. This is the effect of subsection 168(2) of the ITAA 1936. It deems the assessment for the transitional SAP year to be an assessment for the relevant 'income year'.
+However, where the Commissioner makes a special assessment under section 168 of the ITAA 1936 for a transitional period other than 12 months, this assessment is taken to be for an 'income year' that begins and ends at the start and end of the transitional period respectively. This is by virtue of the operation of subsection 168(2) of the ITAA 1936, which provides that a special assessment under subsection 168(1) of the ITAA 1936 for a period less than 12 months is to be made 'as if the beginning and end of that period were the beginning and end respectively of the income year'. This is explained in Norwich Superannuation Services Pty Ltd v. FC of T (1998) 41 ATR 1091; 99 ATC 2015 at ATR 1095; ATC 2019: Section 168 does not deem the period of less than a year as a year of income but treats that period for the purpose of an assessment and for that purpose only "as if" it began and ended in a year of income. Therefore, where there is an assessment, by virtue of section 168 of the ITAA 1938, for a transitional SAP period of less than 12 months that commences on or after 1 July 2011, the beginning of that 'income year' is the beginning of the transitional SAP period for which that assessment is issued, even though the assessment is for a period less than 12 months. This is the effect of subsection 168(2) of the ITAA 1936. It deems the assessment for the transitional SAP year to be an assessment for the relevant 'income year'.
 In the case of the taxpayer with a transitional SAP period of 1 July 2011 to 31 December 2011, the special assessment under section 168 for this period will be in lieu of the 2012 income year. For the purposes of paragraph (a) of Part 1 of Schedule 4 to the R&D Act, this assessment will be for an income year that commenced on or after 1 July 2011, namely the 2012 income year.
 In general, an R&D entity with a transitional SAP period of less than 12 months commencing on or after 1 July 2011 will be expected to have an assessment for this transitional period under section 168 of the ITAA 1936. The existence of this assessment will bring such an entity within the ambit of paragraph (a) of Part 1 of Schedule 4 to the R&D Act. It will therefore be entitled to access to the R&D tax incentive in Division 355 of the ITAA 1997.
-Date of decision:
-  6 November 2012
-
-Year of income:
-  For income years commencing on or after 1 July 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 4-10(2)   subsection 9-5(2)   Division 355   section 355-35   subsection 995-1(1)
-Income Tax Assessment Act 1936   section 18   section 162   section 163   section 168   subsection 168(2)
-Tax Laws Amendment (Research and Development) Act 2011   Part 1 of Schedule 4
-
-Case References:
-
-Norwich Superannuation Services Pty Ltd v FC of T   (1998) 41 ATR 1091   99 ATC 2015
-
-Related Public Rulings (including Determinations)
-
-TR 2011/5
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/973
-
-Other References:
-
- PS LA 2007/21
-
-Keywords
-
-Research and development tax incentive
- Substituted accounting period
- Transitional & changeover arrangements
-
-Siebel/TDMS Reference Number:
-  1-4D1G5VE
-
-Business Line:
-  Innovation Group - Large Business & International
-
-Date of publication:
-  22 February 2013
-
-ISSN:
- 1445-2782
+Date of decision: 6 November 2012 Year of income: For income years commencing on or after 1 July 2011 Legislative References: Income Tax Assessment Act 1997 subsection 4-10(2) subsection 9-5(2) Division 355 section 355-35 subsection 995-1(1)
+Income Tax Assessment Act 1936 section 18 section 162 section 163 section 168 subsection 168(2)
+Tax Laws Amendment (Research and Development) Act 2011 Part 1 of Schedule 4 Case References: Norwich Superannuation Services Pty Ltd v FC of T (1998) 41 ATR 1091 99 ATC 2015 Related Public Rulings (including Determinations) TR 2011/5 Related ATO Interpretative Decisions ATO ID 2004/973 Other References: PS LA 2007/21 Keywords Research and development tax incentive Substituted accounting period Transitional & changeover arrangements Siebel/TDMS Reference Number: 1-4D1G5VE Business Line: Innovation Group - Large Business & International Date of publication: 22 February 2013 ISSN: 1445-2782

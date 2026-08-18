@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/287
-==================================================
-
-Income tax
- Capital Allowances: choice of determining effective life
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital Allowances: choice of determining effective life FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the transition entity obliged to make a choice, after the transition time, of determining the effective life of the depreciating asset it holds at the transition time, in accordance with subsection 40-95(1) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The transition entity is obliged to make a choice, after the transition time, of determining the effective life of the depreciating asset it holds at the transition time, in accordance with subsection 40-95(1) of the ITAA 1997.
@@ -26,52 +15,6 @@ Division 58 of the ITAA 1997 applies to an entity that is a transition entity in
 Notwithstanding prior use of the asset before the transition time, the requirement in subsection 58-70(2) of the ITAA 1997 that in an entity sale situation the use of a depreciating asset before the transition time be ignored, means that, in conjunction with section 40-60 of the ITAA 1997, the start time of a depreciating asset held by a transition entity is effectively the time after the transition time at which the transition entity first uses the asset, or has it installed ready for use, for any purpose. The note to subsection 40-60(2) confirms that previous use by a transition entity is ignored for the purpose of that subsection. Accordingly, the start time of the depreciating asset held by the transition entity is effectively the time immediately after the transition time.
 With the exception of paragraph 58-90(2)(a) of the ITAA 1997 (which deals with the circumstance where a capped effective life applied to the asset) Division 58 is silent as to determining the effective life of the depreciating asset that is to be used to calculate its decline in value after the transition time. Division 58 does not alter the ordinary operation of Division 40 in respect of either the choice about determining effective life of the depreciating asset the transition entity can make under subsection 40-95(1) of the ITAA 1997, or the requirement under that subsection that the transition entity must make that choice.
 Therefore when the transition entity makes the choice in subsection 40-95(1) of the ITAA 1997 of determining the effective life of the depreciating asset, the choice is made as if the asset had not been used before the transition time.
-The intention that section 40-95 of the ITAA 1997, including the choice of determining effective life required by subsection 40-95(1), apply to a transition entity for a depreciating asset it holds after the transition time, is supported by paragraph 12.97 of the Explanatory Memorandum to the New Business Tax System (Capital Allowances - Transitional and Consequential) Act 2001, which inserted new Division 58 on introduction of Division 40, and which (to the extent it is relevant here) states:
-
-Under the new Division 58 calculation rules, taxpayers will simply use the ordinary Division 40 rules with some minor modifications for all privatised depreciating assets. Taxpayers will no longer be required to apply rules contained in superseded depreciation regimes. Transition entities will now work out actual deductions for decline in value (after the transition time) of a privatised depreciating asset in the same way as a purchaser does in an asset sale situation, but subject to the requirement that a transition entity cannot change methods of depreciation for an asset.
-
-Division 58 imposes no restriction on or exception to a transition entity's choice of determining effective life of a depreciating asset it holds after the transition time. Accordingly, the ordinary operation of section 40-95 of the ITAA 1997 occurs and the transition entity can and must make a choice under subsection 40-95(1) of determining the effective life of the depreciating asset it holds after the transition time.
+The intention that section 40-95 of the ITAA 1997, including the choice of determining effective life required by subsection 40-95(1), apply to a transition entity for a depreciating asset it holds after the transition time, is supported by paragraph 12.97 of the Explanatory Memorandum to the New Business Tax System (Capital Allowances - Transitional and Consequential) Act 2001, which inserted new Division 58 on introduction of Division 40, and which (to the extent it is relevant here) states: Under the new Division 58 calculation rules, taxpayers will simply use the ordinary Division 40 rules with some minor modifications for all privatised depreciating assets. Taxpayers will no longer be required to apply rules contained in superseded depreciation regimes. Transition entities will now work out actual deductions for decline in value (after the transition time) of a privatised depreciating asset in the same way as a purchaser does in an asset sale situation, but subject to the requirement that a transition entity cannot change methods of depreciation for an asset. Division 58 imposes no restriction on or exception to a transition entity's choice of determining effective life of a depreciating asset it holds after the transition time. Accordingly, the ordinary operation of section 40-95 of the ITAA 1997 occurs and the transition entity can and must make a choice under subsection 40-95(1) of determining the effective life of the depreciating asset it holds after the transition time.
 The requirement in subsection 40-95(3) of the ITAA 1997 that the transition entity's choice must be made for the income year in which the asset's start time occurs, is met if the choice is made by the transition entity for the income year in which the transition time occurs.
-Date of decision:
-  21 September 2006
-
-Year of income:
-  Year ending 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 40-30   section 40-60   subsection 40-60(2)   section 40-95   subsection 40-95(1)   subsection 40-95(3)   subsection 40-95(4)   subsection 40-95(4B)   subsection 40-95(4C)   subsection 40-95(5)   subsection 40-95(5B)   subsection 40-95(5C)   subsection 40-95(6)   section 40-102   section 40-105   subsection 58-70(2)   paragraph 58-90(2)(a)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/288
- ATO ID 2006/289
-
-Other References:
-
-Explanatory Memorandum to the New Business Tax System (Capital Allowances - Transitional and Consequential) Act 2001
-
-Keywords
-
-Commissioner's determination of effective life
- Decline in value
- Depreciating assets
- Effective life
- Entity sale situation
- Privatised assets
- Self-assessment of effective life
- Start time
- Transition entity
- Transition time
-
-Siebel/TDMS Reference Number:
-  5450766
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  27 October 2006
-
-ISSN:
- 1445-2782
+Date of decision: 21 September 2006 Year of income: Year ending 30 June 2007 Legislative References: Income Tax Assessment Act 1997 section 40-30 section 40-60 subsection 40-60(2) section 40-95 subsection 40-95(1) subsection 40-95(3) subsection 40-95(4) subsection 40-95(4B) subsection 40-95(4C) subsection 40-95(5) subsection 40-95(5B) subsection 40-95(5C) subsection 40-95(6) section 40-102 section 40-105 subsection 58-70(2) paragraph 58-90(2)(a) Related ATO Interpretative Decisions ATO ID 2006/288 ATO ID 2006/289 Other References: Explanatory Memorandum to the New Business Tax System (Capital Allowances - Transitional and Consequential) Act 2001 Keywords Commissioner's determination of effective life Decline in value Depreciating assets Effective life Entity sale situation Privatised assets Self-assessment of effective life Start time Transition entity Transition time Siebel/TDMS Reference Number: 5450766 Business Line: Public Groups and International Date of publication: 27 October 2006 ISSN: 1445-2782

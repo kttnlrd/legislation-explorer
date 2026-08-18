@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/216
-==================================================
-
-Income Tax
- Capital gains tax: CGT event B1: right to use property before title passes
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: CGT event B1: right to use property before title passes FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does CGT event A1 in section 104-10 of the Income Tax Assessment Act 1997 (ITAA 1997) happen if a taxpayer transfers a property to their adult children if it had been agreed that the children could use and enjoy the property for a specified period after which title to the property would be transferred to them?
 Decision
 No. In these circumstances, CGT event B1 in section 104-15 of the ITAA 1997 happened at the time the taxpayer entered into the agreement with their children.
@@ -24,48 +13,6 @@ In the 2004-05 income year, the taxpayer transferred the property to the childre
 Reasons for Decision
 There is a special rule in the CGT provisions which provides that if more than one CGT event can apply in a particular situation, the event you use is the one that is most specific to your situation: subsection 102-25(1) of the ITAA 1997.
 There are two CGT events which may apply in these circumstances. These events are CGT event A1 in section 104-10 of the ITAA 1997 and CGT event B1 in section 104-15 of the ITAA 1997.
-CGT event A1 happens if you dispose of a CGT asset. CGT event B1 happens if you enter into an agreement with another entity under which:
-
-•the right to the use and enjoyment of a CGT asset you own passes to another entity; and
-•title in the asset will or may pass to the other entity at or before the end of the agreement: subsection 104-15(1) of the ITAA 1997.
-
-In order for CGT event B1 to happen the relevant agreement must be one under which title will or may pass at the end of a specific period or on the occurrence of a specific event. CGT event B1 will not happen if, under a loose family arrangement, title to an asset may pass at an unspecified time in the future.
-In this case, the taxpayer entered into a formal agreement with their children to grant them the right to use and enjoy the property. Under the agreement title to the property would pass to the taxpayer's children in five years. In these circumstances, CGT event B1 happened in the 1999-2000 income year as it is the most specific event that applies. As CGT event B1 happened when the taxpayer's children were granted the right to use and enjoy the property, there will be no CGT consequences for the taxpayer when the title to the property is ultimately transferred to them.
-
-Note:
- if the title to the property does not pass to the taxpayer's children at or before the end of the agreement, then any capital gain or loss the taxpayer made from CGT event B1 happening would be disregarded: paragraph 104-15(4)(a) of the ITAA 1997.
-
-[HISTORY: This ATO ID was amended on 16 March 2007 to improve clarity.]
-
-Date of decision:
-  22 July 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 102-25(1)   section 104-10   section 104-15   subsection 104-15(1)   paragraph 104-15(4)(a)
-
-Keywords
-
-Capital gains
- Capital gains tax
- CGT assets
- CGT capital proceeds
- CGT capital proceeds modification market value substitution rule
- CGT event A1-disposal of a CGT asset
- CGT event B1-use & enjoyment before title passes
- CGT events
-
-Siebel/TDMS Reference Number:
-  4697712
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  29 July 2005
-
-ISSN:
- 1445-2782
+CGT event A1 happens if you dispose of a CGT asset. CGT event B1 happens if you enter into an agreement with another entity under which: •the right to the use and enjoyment of a CGT asset you own passes to another entity; and
+•title in the asset will or may pass to the other entity at or before the end of the agreement: subsection 104-15(1) of the ITAA 1997. In order for CGT event B1 to happen the relevant agreement must be one under which title will or may pass at the end of a specific period or on the occurrence of a specific event. CGT event B1 will not happen if, under a loose family arrangement, title to an asset may pass at an unspecified time in the future.
+In this case, the taxpayer entered into a formal agreement with their children to grant them the right to use and enjoy the property. Under the agreement title to the property would pass to the taxpayer's children in five years. In these circumstances, CGT event B1 happened in the 1999-2000 income year as it is the most specific event that applies. As CGT event B1 happened when the taxpayer's children were granted the right to use and enjoy the property, there will be no CGT consequences for the taxpayer when the title to the property is ultimately transferred to them. Note: if the title to the property does not pass to the taxpayer's children at or before the end of the agreement, then any capital gain or loss the taxpayer made from CGT event B1 happening would be disregarded: paragraph 104-15(4)(a) of the ITAA 1997. [HISTORY: This ATO ID was amended on 16 March 2007 to improve clarity.] Date of decision: 22 July 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 subsection 102-25(1) section 104-10 section 104-15 subsection 104-15(1) paragraph 104-15(4)(a) Keywords Capital gains Capital gains tax CGT assets CGT capital proceeds CGT capital proceeds modification market value substitution rule CGT event A1-disposal of a CGT asset CGT event B1-use & enjoyment before title passes CGT events Siebel/TDMS Reference Number: 4697712 Business Line: Public Groups and International Date of publication: 29 July 2005 ISSN: 1445-2782

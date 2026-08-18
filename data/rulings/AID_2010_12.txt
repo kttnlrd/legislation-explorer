@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/12
-==================================================
-
-Excise
- Excise: home consumption - delivered - periodic settlement permission
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Excise Excise: home consumption - delivered - periodic settlement permission FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are excisable goods still subject to the Commissioner's control at the time of their destruction, if they are destroyed after they have been sold, and after preparation of documents required by their periodic settlement permission, but before they were physically removed from the licensed premises?
 Decision
 Yes. Excisable goods are subject to the Commissioner's control if the goods are destroyed after they have been sold, and after preparation of documents required by their periodic settlement permission, but before they were physically removed from the licensed premises.
@@ -22,68 +11,12 @@ The excise manufacturer stores excisable goods in a licensed place.
 The excise manufacturer has sold the goods.
 The excisable goods were loaded onto a truck.
 The excisable goods were accidentally destroyed on the truck prior to the goods being physically removed from the licensed place.
-The entity's periodic settlement permission was issued subject to the following condition (which is commonly included in periodic settlement permissions):
-
-(a)Before each delivery of the goods the Permission Holder shall raise a document, being one of a consecutively numbered system of documents, related to the delivery time and containing the following particulars:
-
-(i)the quantity and description of the goods to be delivered; and
-(ii)the name of the person to whom the goods will be delivered.
-
-(b)At the time of each delivery of the goods the Permission Holder shall record on the document mentioned in sub-paragraph (a) above, the date of delivery....
-
-The entity had prepared a document consistent with the requirements of their periodic settlement permission prior to the excisable goods being loaded onto the truck.
+The entity's periodic settlement permission was issued subject to the following condition (which is commonly included in periodic settlement permissions): (a)Before each delivery of the goods the Permission Holder shall raise a document, being one of a consecutively numbered system of documents, related to the delivery time and containing the following particulars: (i)the quantity and description of the goods to be delivered; and
+(ii)the name of the person to whom the goods will be delivered. (b)At the time of each delivery of the goods the Permission Holder shall record on the document mentioned in sub-paragraph (a) above, the date of delivery.... The entity had prepared a document consistent with the requirements of their periodic settlement permission prior to the excisable goods being loaded onto the truck.
 Reasons for Decision
-Subsection 61(1) of the Excise Act specifies when excisable goods cease to be subject to the CEO's control. Subsection 61(1) states:
-
-61(1) All excisable goods are subject to the CEO's control until delivered for home consumption or for exportation to a place outside Australia, whichever occurs first.
-
-CEO is defined in section 4 of the Excise Act to mean the Commissioner of Taxation. Excisable goods may be delivered without entry under the authority of permission granted under section 61C of the Excise Act which states, in part:
-
-61C(1) A Collector may give permission in writing to a person specified in the permission to deliver for home consumption from a place specified in the permission goods of a kind so specified that are subject to the CEO's control, and, until the permission is revoked, the permission is authority for that person to deliver for home consumption from that place goods of that kind that are subject to the CEO's control (other than goods that a Collector has directed are not to be delivered for home consumption under this section) notwithstanding that an entry of the goods for home consumption has not been made and passed under this Act.
-
-Therefore, in order to determine when goods leave the Commissioner's control, we must determine what constitutes 'home consumption' and when goods are 'delivered for home consumption'.
+Subsection 61(1) of the Excise Act specifies when excisable goods cease to be subject to the CEO's control. Subsection 61(1) states: 61(1) All excisable goods are subject to the CEO's control until delivered for home consumption or for exportation to a place outside Australia, whichever occurs first. CEO is defined in section 4 of the Excise Act to mean the Commissioner of Taxation. Excisable goods may be delivered without entry under the authority of permission granted under section 61C of the Excise Act which states, in part: 61C(1) A Collector may give permission in writing to a person specified in the permission to deliver for home consumption from a place specified in the permission goods of a kind so specified that are subject to the CEO's control, and, until the permission is revoked, the permission is authority for that person to deliver for home consumption from that place goods of that kind that are subject to the CEO's control (other than goods that a Collector has directed are not to be delivered for home consumption under this section) notwithstanding that an entry of the goods for home consumption has not been made and passed under this Act. Therefore, in order to determine when goods leave the Commissioner's control, we must determine what constitutes 'home consumption' and when goods are 'delivered for home consumption'.
 The term 'home consumption' is not defined in the Excise Act. However, based on cases that have looked at this issue, it is evident that it is accepted that it is a term of broad application, intended to capture all domestic use of excisable goods manufactured in Australia (see Caltex Australia Petroleum Pty Ltd v. Commissioner of Taxation [2008] FCA 1951 (Caltex Case) and Moama Refinery Pty Ltd v. Chief Executive Officer of Customs [2001] FCA 1287).
-The Excise Act does not define 'delivered for home consumption'. However, this issue was considered in detail in the Caltex Case, where Sundberg J, in considering whether fuel manufactured and consumed on the licensed premises had been delivered for home consumption, stated:
-
-[140] I agree with the Commissioner that Caltex delivered the residual oils for home consumption for the purposes of the Excise Act. The Excise Act does not refer to delivery to a person but adopts the more ample language of delivery for or into home consumption. While I accept that the typical case of delivery will involve the movement of excisable goods from one person or place to another, the language of the Excise Act is sufficiently broad in my view to apply to the less typical case of consumption by a manufacturer at its own premises...
-
-Sundberg J reiterates his view in paragraph 144 where he states:
-
-... The section also accommodates and is consistent with a delivery for home consumption constituted by a use of the relevant goods at that place.
-
-Whilst the Caltex Case discusses the concept of 'deliver for home consumption' in the context of section 61C of the Excise Act, the discussion is equally relevant to the concept of 'delivery for home consumption' generally in the Excise Act.
+The Excise Act does not define 'delivered for home consumption'. However, this issue was considered in detail in the Caltex Case, where Sundberg J, in considering whether fuel manufactured and consumed on the licensed premises had been delivered for home consumption, stated: [140] I agree with the Commissioner that Caltex delivered the residual oils for home consumption for the purposes of the Excise Act. The Excise Act does not refer to delivery to a person but adopts the more ample language of delivery for or into home consumption. While I accept that the typical case of delivery will involve the movement of excisable goods from one person or place to another, the language of the Excise Act is sufficiently broad in my view to apply to the less typical case of consumption by a manufacturer at its own premises... Sundberg J reiterates his view in paragraph 144 where he states: ... The section also accommodates and is consistent with a delivery for home consumption constituted by a use of the relevant goods at that place. Whilst the Caltex Case discusses the concept of 'deliver for home consumption' in the context of section 61C of the Excise Act, the discussion is equally relevant to the concept of 'delivery for home consumption' generally in the Excise Act.
 Based on the reasoning in the Caltex Case, excisable goods are generally delivered into home consumption when they are physically delivered from the licensed premises (although excisable goods that are consumed on the licensed premises are also considered to have been delivered for home consumption).
 It follows that where an entity has sold goods and prepared the appropriate documentation under their periodic settlement permission, but the goods have not yet left the licensed premises, they remain under the CEO's control.
-Date of decision:
-  22 December 2009
-
-Legislative References:
-
-Excise Act 1901   section 4   subsection 61(1)   section 61C
-
-Case References:
-
-Caltex Australia Petroleum Pty Ltd v Commissioner of Taxation   [2008] FCA 1951
-
-Moama Refinery Pty Ltd v Chief Executive Officer of Customs   [2001] FCA 1287   49 ATR 114   48 ATR 145
-
-Keywords
-
-Delivered for home consumption
- Excisable goods
- Excise
- Excise collections
- Licensing
- Weekly settlement permission
-
-Siebel/TDMS Reference Number:
-  6310565
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  15 January 2010
-
-ISSN:
- 1445 - 2782
+Date of decision: 22 December 2009 Legislative References: Excise Act 1901 section 4 subsection 61(1) section 61C Case References: Caltex Australia Petroleum Pty Ltd v Commissioner of Taxation [2008] FCA 1951 Moama Refinery Pty Ltd v Chief Executive Officer of Customs [2001] FCA 1287 49 ATR 114 48 ATR 145 Keywords Delivered for home consumption Excisable goods Excise Excise collections Licensing Weekly settlement permission Siebel/TDMS Reference Number: 6310565 Business Line: Indirect Tax Date of publication: 15 January 2010 ISSN: 1445 - 2782

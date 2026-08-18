@@ -1,67 +1,16 @@
 ATO Interpretative Decision
 ATO ID 2002/941
-==================================================
-
-Income Tax
- Capital gains tax - time of CGT event C2
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax - time of CGT event C2 FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the timing of CCT event C2 determined by reference to paragraph 104-25(2)(b) of the Income Tax Assessment Act 1997 ('ITAA 1997'), where a payment is received under an indemnity acquired as part of the capital proceeds of an earlier CGT event?
 Decision
 Yes. The timing of CGT event C2 is determined by reference to paragraph 104-25(2)(b) of the ITAA 1997 when a payment is received under an indemnity, as the indemnity is considered to be discharged or satisfied at that time.
 Facts
 The taxpayer entered into a contract to sell a CGT asset. Under the terms of the contract the taxpayer received cash and several other benefits in return for the CGT asset. The benefits included an indemnity against specified future costs. A payment has now been received under the indemnity.
 Reasons for Decision
-Paragraph 104-25(1)(b) of the ITAA 1997 states that CGT event C2 happens to an intangible asset when it is released, discharge or satisfied. It is therefore necessary to consider when an indemnity is discharged. Subsection 104-25(2) of the ITAA 1997 specifies that the time that a CGT event C2 occurs is:
-
-'The time of the event is:
-
-(a)when you enter into the contract that results in the asset ending; or
-(b)if there is no contract - when the asset ends.'
-
-The full Federal Court in FCT v. Dulux Holdings Pty Ltd & Orica Ltd [2001] FCA 1344; 2001 ATC 4658; (the Orica Case) held that a chose in action was created by the contract and the due performance of the contract gave rise a deemed disposal. Accordingly, the deemed change in ownership took place not under the original contract, but on the progressive discharge of the chose in action. The Court held that subsection 160U(3) of the Income Tax Assessment Act 1936 (ITAA 1936) did not apply. However, subsection 160U(4) of the ITAA 1936 did apply to make the time of the disposal the time of each payment.
+Paragraph 104-25(1)(b) of the ITAA 1997 states that CGT event C2 happens to an intangible asset when it is released, discharge or satisfied. It is therefore necessary to consider when an indemnity is discharged. Subsection 104-25(2) of the ITAA 1997 specifies that the time that a CGT event C2 occurs is: 'The time of the event is: (a)when you enter into the contract that results in the asset ending; or
+(b)if there is no contract - when the asset ends.' The full Federal Court in FCT v. Dulux Holdings Pty Ltd & Orica Ltd [2001] FCA 1344; 2001 ATC 4658; (the Orica Case) held that a chose in action was created by the contract and the due performance of the contract gave rise a deemed disposal. Accordingly, the deemed change in ownership took place not under the original contract, but on the progressive discharge of the chose in action. The Court held that subsection 160U(3) of the Income Tax Assessment Act 1936 (ITAA 1936) did not apply. However, subsection 160U(4) of the ITAA 1936 did apply to make the time of the disposal the time of each payment.
 (Note: In respect of CGT event C2 paragraph 104-25(2)(a) of the ITAA 1997 is the equivalent of subsection 160U(3) of the ITAA 1936. In respect of CGT event C2 paragraph 104-25(2)(b) of the ITAA 1997 is the equivalent of subsection 160U(4) of the ITAA 1936)
 The application of the principles established in the Orica Case mean that the timing of CGT event C2 is when payments under the indemnity are made and not when the original contract was entered into. At the time of the payment the indemnity ends by the asset being discharge or satisfied.
-Date of decision:
-  26 June 2002
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   paragraph 104-25(1)(b)   subsection 104-25(2)   paragraph 104-25(2)(a)   paragraph 104-25(2)(b)
-Income Tax Assessment Act 1936   subsection 160U(3)   subsection 160U(4)
-
-Case References:
-
-FC of T v. Dulux Holdings Pty Ltd & Orica Ltd   [2001] FCA 1344   2001 ATC 4658
-
-Related ATO Interpretative Decisions
-
- ATO ID 2002/958
-
-Keywords
-
-Capital gains tax
- CGT assets
- CGT events C1-C3 - end of a CGT asset
-
-Siebel/TDMS Reference Number:
-  DW434459
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  30 September 2002
-
-ISSN:
- 1445-2782
+Date of decision: 26 June 2002 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 paragraph 104-25(1)(b) subsection 104-25(2) paragraph 104-25(2)(a) paragraph 104-25(2)(b)
+Income Tax Assessment Act 1936 subsection 160U(3) subsection 160U(4) Case References: FC of T v. Dulux Holdings Pty Ltd & Orica Ltd [2001] FCA 1344 2001 ATC 4658 Related ATO Interpretative Decisions ATO ID 2002/958 Keywords Capital gains tax CGT assets CGT events C1-C3 - end of a CGT asset Siebel/TDMS Reference Number: DW434459 Business Line: Public Groups and International Date of publication: 30 September 2002 ISSN: 1445-2782

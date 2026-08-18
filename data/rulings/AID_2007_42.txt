@@ -1,26 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2007/42
-==================================================
-
-Income tax
- Transferor trusts: Division 6AAA
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-Does section 102AAZD of the Income Tax Assessment Act 1936 (ITAA 1936) apply to a resident company that transfers property or services to an employee loyalty fund managed and administered by a Dutch Stichting?
-
-Decision
-Yes. Section 102AAZD of the ITAA 1936 applies to include the notional attributable income of the employee loyalty fund (the trust estate) in the assessable income of the resident company (the company).
-
-Facts
+================================================== Income tax Transferor trusts: Division 6AAA FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+Does section 102AAZD of the Income Tax Assessment Act 1936 (ITAA 1936) apply to a resident company that transfers property or services to an employee loyalty fund managed and administered by a Dutch Stichting? Decision
+Yes. Section 102AAZD of the ITAA 1936 applies to include the notional attributable income of the employee loyalty fund (the trust estate) in the assessable income of the resident company (the company). Facts
 The Stichting was created in the Netherlands to operate an employee loyalty fund (the Fund) for certain employees of the resident company. The purpose of the Fund is to provide incentives and benefits to eligible employees or their dependants. An Agreement between the Stichting and the company was entered into for this purpose.
 The Stichting agreed with the company to administer and manage the Fund in accordance with the terms and conditions of the Agreement.
 The company carries on a business of manufacturing. In the 2001 and 2002 income years, the company made a contribution in cash to the Fund. The amount of the contribution is made at the discretion of the company.
@@ -28,104 +11,28 @@ Contributions made by the company cease to be the property of the company and in
 The company nominates certain employees to participate in the Fund. On nomination each employee must submit an Application Form to the Stichting in order to be eligible to participate. On that form, the employees agree to be bound by the terms and conditions of the Agreement and acknowledge that where they meet certain criteria, they are entitled to benefits from the Fund. They also nominate beneficiaries to receive any benefit entitlement.
 Each participant has an indeterminate entitlement to benefit from the Fund, until such time as the Stichting determines the amount of the benefit under the terms of the Agreement.
 The Agreement is governed by the law of the Netherlands.
-A Stichting has a legal personality.
-
-Reasons for Decision
+A Stichting has a legal personality. Reasons for Decision
 Broadly, the object of Division 6AAA of the ITAA 1936 is to tax residents who have transferred property or services to certain non-resident trust estates, on an accruals basis, where the transfer is not an arm's length transaction ordinarily carried on by the transferor, or where the transferor is in a position to control the trust estate.
 Section 102AAZD of the ITAA 1936 includes in the assessable income of an attributable taxpayer the notional attributable income of a trust estate to which the taxpayer has transferred property or services.
-For section 102AAZD of the ITAA 1936 to apply, there must be an attributable taxpayer in relation to a trust estate. Section 102AAT of the ITAA 1936 sets out the conditions required to be satisfied for there to be an attributable taxpayer in relation to a trust estate. Central to section 102AAT is the existence of a trust estate.
-
-Is there a 'trust estate' for the purposes of Division 6AAA?
-
-'Trust estate' is not defined in the ITAA 1936 or Income Tax Assessment Act 1997 (ITAA 1997). French J in Harmer & Ors v. Federal Commissioner of Taxation (1989) 20 ATR 1461; 89 ATC 5180 stated that a trust 'is notably a definition of a relationship by reference to obligations'. He went on to state that the four essential elements of a trust are:
-
-1. the trustee who holds a legal or equitable interest in the trust property
+For section 102AAZD of the ITAA 1936 to apply, there must be an attributable taxpayer in relation to a trust estate. Section 102AAT of the ITAA 1936 sets out the conditions required to be satisfied for there to be an attributable taxpayer in relation to a trust estate. Central to section 102AAT is the existence of a trust estate. Is there a 'trust estate' for the purposes of Division 6AAA? 'Trust estate' is not defined in the ITAA 1936 or Income Tax Assessment Act 1997 (ITAA 1997). French J in Harmer & Ors v. Federal Commissioner of Taxation (1989) 20 ATR 1461; 89 ATC 5180 stated that a trust 'is notably a definition of a relationship by reference to obligations'. He went on to state that the four essential elements of a trust are: 1. the trustee who holds a legal or equitable interest in the trust property
 2. the trust property which must be property capable of being held on trust and which includes a chose in action
 3. one or more beneficiaries other than the trustee; and
-4. a personal obligation on the trustee to deal with the trust property for the benefit of the beneficiaries, which obligation is also annexed to the property.
-
-Having regard to the Agreement, all four elements are present so as to give rise to a trust relationship between the Stichting and the employees entitled to benefits from the Fund.
+4. a personal obligation on the trustee to deal with the trust property for the benefit of the beneficiaries, which obligation is also annexed to the property. Having regard to the Agreement, all four elements are present so as to give rise to a trust relationship between the Stichting and the employees entitled to benefits from the Fund.
 The Stichting has ownership and possession of the trust property and is the trustee. The trust property consists of the contributions made by the company to the Fund. The beneficiaries are the employees admitted to the Fund. The dependants of the employees are also another class of potential beneficiaries.
 The terms of the Agreement impose on the trustee a personal obligation to deal with the trust property for the benefit of the beneficiaries.
-Having regard to the relationship between the Stichting, the company and employees (as determined by the Agreement), there is an express intention that the Stichting hold the property not exclusively for itself, but subject to an equitable obligation and therefore the relationship constitutes an express trust.
-
-Is the company an attributable taxpayer in relation to the trust estate?
-
-The company is an attributable taxpayer in relation to the trust estate because the requirements of subparagraph 102AAT(1)(a)(i) of the ITAA 1936 are met.
+Having regard to the relationship between the Stichting, the company and employees (as determined by the Agreement), there is an express intention that the Stichting hold the property not exclusively for itself, but subject to an equitable obligation and therefore the relationship constitutes an express trust. Is the company an attributable taxpayer in relation to the trust estate? The company is an attributable taxpayer in relation to the trust estate because the requirements of subparagraph 102AAT(1)(a)(i) of the ITAA 1936 are met.
 Sub-subparagraph 102AAT(1)(a)(i)(A) of the ITAA 1936 is satisfied because the trust estate is a discretionary trust. The Agreement confers wide discretionary powers to the Stichting in relation to the employee's entitlements.
 Sub-subparagraph 102AAT(1)(a)(i)(B) of the ITAA 1936 is satisfied because the estate was not a unit trust and therefore a 'public unit trust' as defined in section 102AAB of the ITAA 1936. The beneficial interest is also not widely held.
 Sub-subparagraph 102AAT(1)(a)(i)(C) of the ITAA 1936 is satisfied because the company has transferred property (being contributions of money) to the trust estate.
 Sub-subparagraph 102AAT(1)(a)(i)(D) of the ITAA 1936 is satisfied because the transfer, although made in the company's ordinary course of business (manufacturing), was not a transfer of property manufactured by the company.
 Sub-subparagraphs 102AAT(1)(a)(i)(E) and (F) of the ITAA 1936 are not applicable.
-Having satisfied the requirements of section 102AAT of the ITAA 1936, the company is an attributable taxpayer in relation to the trust estate. As a result, section 102AAZD of the ITAA 1936 will include the 'notional attributable income' of the trust estate (as determined under subsection 102AAZD(2)) in the company's assessable income.
-
-Amendment History
-
-Date of Amendment
+Having satisfied the requirements of section 102AAT of the ITAA 1936, the company is an attributable taxpayer in relation to the trust estate. As a result, section 102AAZD of the ITAA 1936 will include the 'notional attributable income' of the trust estate (as determined under subsection 102AAZD(2)) in the company's assessable income. Amendment History Date of Amendment
 Part
-Comment
-
-19 December 2014
+Comment 19 December 2014
 Issue
-Replace 'Netherlands Stichting' with 'Dutch Stichting'
-
-Reasons for Decision
-Cite all sub-subparagraphs 102AAT(1)(a)(i)(A) to (F)
-
-Legislative references
-Add references to sub-subparagraphs 102AAT(1)(a)(i)(E) and (F)
-
-Date of decision:
-  19 February 2007
-
-Year of income:
-  Year ended 30 June 2001 Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 102AAZD(1)   subsection 102AAZD(2)   section 102AAT   sub-subparagraph 102AAT(1)(a)(i)(A)   sub-subparagraph 102AAT(1)(a)(i)(B)   sub-subparagraph 102AAT(1)(a)(i)(C)   sub-subparagraph 102AAT(1)(a)(i)(D)   sub-subparagraph 102AAT(1)(a)(i)(E)   sub-subparagraph 102AAT(1)(a)(i)(F)
-
-Case References:
-
-Harmer v. Federal Commissioner of Taxation   (1989) 91 ALR 550   20 ATR 1461   89 ATC 5180
-
-Keywords
-
-Discretionary trusts
- Entities & taxpayer groups
- Foreign attributable income
- Foreign income
- International tax
- Netherlands
- Non resident entities
- Non resident trusts
- Trustees
- Trusts
-
-Siebel/TDMS Reference Number:
-  5494381, 1-5T1HVDX
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  2 March 2007
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-19 February 2007
-Original statement
-
-You are here
+Replace 'Netherlands Stichting' with 'Dutch Stichting' Reasons for Decision
+Cite all sub-subparagraphs 102AAT(1)(a)(i)(A) to (F) Legislative references
+Add references to sub-subparagraphs 102AAT(1)(a)(i)(E) and (F) Date of decision: 19 February 2007 Year of income: Year ended 30 June 2001 Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 102AAZD(1) subsection 102AAZD(2) section 102AAT sub-subparagraph 102AAT(1)(a)(i)(A) sub-subparagraph 102AAT(1)(a)(i)(B) sub-subparagraph 102AAT(1)(a)(i)(C) sub-subparagraph 102AAT(1)(a)(i)(D) sub-subparagraph 102AAT(1)(a)(i)(E) sub-subparagraph 102AAT(1)(a)(i)(F) Case References: Harmer v. Federal Commissioner of Taxation (1989) 91 ALR 550 20 ATR 1461 89 ATC 5180 Keywords Discretionary trusts Entities & taxpayer groups Foreign attributable income Foreign income International tax Netherlands Non resident entities Non resident trusts Trustees Trusts Siebel/TDMS Reference Number: 5494381, 1-5T1HVDX Business Line: Private Groups and High Wealth Individuals Date of publication: 2 March 2007 ISSN: 1445-2782 history Date: Version: 19 February 2007
+Original statement You are here
 19 December 2014
 Updated statement

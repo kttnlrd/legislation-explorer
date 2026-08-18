@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/135
-==================================================
-
-Income Tax
- Capital Allowances: holding depreciating assets - tax law partnership
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: holding depreciating assets - tax law partnership FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entity, commonly referred to as a 'tax law partnership', hold depreciating assets under item 7 of the table in section 40-40 of the Income Tax Assessment Act 1997 (ITAA 1997) ?
 Decision
 No. The entity, commonly referred to as a 'tax law partnership', does not hold depreciating assets under item 7 of the table in section 40-40 of the ITAA 1997.
@@ -25,112 +12,20 @@ Reasons for Decision
 Item 7 of the table in section 40-40 of the ITAA 1997 (Item 7) provides that a 'partnership' and not the particular partner is the holder of a depreciating asset that is a 'partnership asset'.
 Whilst the word 'partnership' is defined for the purposes of the ITAA 1997, the meaning of the expression 'partnership asset' is not defined for the purposes of Item 7. Furthermore it is important to bear in mind in considering the meaning of the expression that analysing each word separately and then seeking to reconstruct the terms used by reference to the definitions can lead to an artificial interpretation. As stated in Visa International Service Association v. Reserve Bank of Australia [2003] FCA 977; (2003) 131 FCR 300 at 293, citing Collector of Customs v. Agfa-Gevaert Ltd [1996] HCA 36; (1996) 186 CLR 389, at 398-401, the expression 'is a collocation of words selected as a whole and that sense must be given to the expressions read together as an entirety rather than to individual words added to each other'.
 What is relevant is to consider whether there are any explicit statements in the legislation or in the extrinsic material that accompanied the expression which might provide assistance in establishing its meaning.
-Paragraphs 1.45 and 1.46 of the Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 (EM), which introduced section 40-40 of the ITAA 1997, states:
-
-1.45 Property which has become partnership property or a partnership asset at general law is beneficially owned by all of the partners, even if only one partner is the legal owner. Where a depreciating asset is or becomes a partnership asset, it is appropriate to identify the partnership as being the economic owner of the asset. Thus, the partnership, and not any individual partner, is regarded as holding the asset. This is consistent with the structure of the income tax law, under which the partnership is a notional taxpayer arriving at a tax position which is then allocated out between the partners.
- [Schedule 1, item 1, section 40-40, item 7 in the table]
-
-1.46 Whether a particular depreciating asset is a partnership asset is determined in accordance with partnership law. This is a question of fact that can only be determined from the terms of the partnership agreement and/or inferences drawn from the conduct of the partners towards the asset.
-
-In this context, it is the Commissioner's view that the phrase 'partnership asset' used in Item 7 is intended to carry its common law meaning. That is, it refers to assets of a partnership that are used for the purpose of the business carried on by the partnership. Accordingly, even though the employment of depreciating assets for the purpose of receiving income jointly may be enough to recognise a 'tax law partnership' (see definition of 'partnership' in subsection 995-1(1) of the ITAA 1997), the meaning of the phrase 'partnership asset' does not extend to assets employed in that manner if they are not owned in partnership to carry on a partnership business.
-Consequently the entity, recognised as being a 'tax law partnership', does not hold depreciating assets under Item 7.
-
-Note
- : where depreciating assets are jointly owned, subsection 40-35(1) of the ITAA 1997 provides that it is each joint holder's interest in an asset and not the actual asset itself (the underlying asset) that is the relevant depreciating asset for the purposes of Division 40 of the ITAA 1997. The joint owners of depreciating assets individually hold their legal interest in jointly held assets under item 10 of the table in section 40-40 of the ITAA 1997.
-
-Amendment History
-
-Date of amendment
+Paragraphs 1.45 and 1.46 of the Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 (EM), which introduced section 40-40 of the ITAA 1997, states: 1.45 Property which has become partnership property or a partnership asset at general law is beneficially owned by all of the partners, even if only one partner is the legal owner. Where a depreciating asset is or becomes a partnership asset, it is appropriate to identify the partnership as being the economic owner of the asset. Thus, the partnership, and not any individual partner, is regarded as holding the asset. This is consistent with the structure of the income tax law, under which the partnership is a notional taxpayer arriving at a tax position which is then allocated out between the partners. [Schedule 1, item 1, section 40-40, item 7 in the table] 1.46 Whether a particular depreciating asset is a partnership asset is determined in accordance with partnership law. This is a question of fact that can only be determined from the terms of the partnership agreement and/or inferences drawn from the conduct of the partners towards the asset. In this context, it is the Commissioner's view that the phrase 'partnership asset' used in Item 7 is intended to carry its common law meaning. That is, it refers to assets of a partnership that are used for the purpose of the business carried on by the partnership. Accordingly, even though the employment of depreciating assets for the purpose of receiving income jointly may be enough to recognise a 'tax law partnership' (see definition of 'partnership' in subsection 995-1(1) of the ITAA 1997), the meaning of the phrase 'partnership asset' does not extend to assets employed in that manner if they are not owned in partnership to carry on a partnership business.
+Consequently the entity, recognised as being a 'tax law partnership', does not hold depreciating assets under Item 7. Note : where depreciating assets are jointly owned, subsection 40-35(1) of the ITAA 1997 provides that it is each joint holder's interest in an asset and not the actual asset itself (the underlying asset) that is the relevant depreciating asset for the purposes of Division 40 of the ITAA 1997. The joint owners of depreciating assets individually hold their legal interest in jointly held assets under item 10 of the table in section 40-40 of the ITAA 1997. Amendment History Date of amendment
 Part
-Comment
-
-22 March 2017
+Comment 22 March 2017
 Title
-Name of the document amended to 'Capital Allowances: holding depreciating assets - tax law partnership' for greater clarity.
-
-Related ATO IDs
-Removed reference to ATO ID 2003/439 which has been withdrawn.
-
-Other references
-Guide to depreciating assets (NAT 1996-06) added to replace ATO ID 2003/439.
-
-18 July 2014
+Name of the document amended to 'Capital Allowances: holding depreciating assets - tax law partnership' for greater clarity. Related ATO IDs
+Removed reference to ATO ID 2003/439 which has been withdrawn. Other references
+Guide to depreciating assets (NAT 1996-06) added to replace ATO ID 2003/439. 18 July 2014
 Reasons for Decision
 Correct citation of Visa International Service Association v. Reserve Bank of Australia [2003] FCA 977; (2003) 131 FCR 300.
-Remove discussion on Taxation Ruling IT 2398
-
-Case References
-Correct citation of Visa International Service Association v. Reserve Bank of Australia [2003] FCA 977; (2003) 131 FCR 300.
-
-Date of decision:
-  4 August 2009
-
-Year of income:
-  Year ending 30 June 2008 Year ending 30 June 2009 Year ending 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 54(1)
-Income Tax Assessment Act 1997   Division 40   subsection 40-25(1)   subsection 40-35(1)   section 40-40   subsection 995-1(1)
-
-Case References:
-
-Visa International Service Association v. Reserve Bank of Australia   (2003) 131 FCR 300   [2003] FCA 977
-
-Collector of Customs v. Agfa-Gevaert Ltd   [1996] HCA 36   (1996) 186 CLR 389   35 ATR 249   96 ATC 5240
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/134
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001
- Guide to depreciating assets (NAT 1996-06)
-
-Keywords
-
-Decline in value
- Deduction for depreciating assets
- Depreciating assets
- Hold a depreciating asset
- Interest in underlying asset
- Jointly held depreciating asset
- Legal owner
- Partnership asset
- Capital Allowances CoE
-
-Siebel/TDMS Reference Number:
-  6314444, 1-AXUXKXD
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  13 November 2009
-
-Date reviewed:
-  22 March 2017
-
-ISSN:
- 1445 - 2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-13 November 2009
-Original statement
-
- 
-18 July 2014
-Updated statement
-
-You are here
+Remove discussion on Taxation Ruling IT 2398 Case References
+Correct citation of Visa International Service Association v. Reserve Bank of Australia [2003] FCA 977; (2003) 131 FCR 300. Date of decision: 4 August 2009 Year of income: Year ending 30 June 2008 Year ending 30 June 2009 Year ending 30 June 2010 Legislative References: Income Tax Assessment Act 1936 subsection 54(1)
+Income Tax Assessment Act 1997 Division 40 subsection 40-25(1) subsection 40-35(1) section 40-40 subsection 995-1(1) Case References: Visa International Service Association v. Reserve Bank of Australia (2003) 131 FCR 300 [2003] FCA 977 Collector of Customs v. Agfa-Gevaert Ltd [1996] HCA 36 (1996) 186 CLR 389 35 ATR 249 96 ATC 5240 Related ATO Interpretative Decisions ATO ID 2009/134 Other References: Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 Guide to depreciating assets (NAT 1996-06) Keywords Decline in value Deduction for depreciating assets Depreciating assets Hold a depreciating asset Interest in underlying asset Jointly held depreciating asset Legal owner Partnership asset Capital Allowances CoE Siebel/TDMS Reference Number: 6314444, 1-AXUXKXD Business Line: Private Groups and High Wealth Individuals Date of publication: 13 November 2009 Date reviewed: 22 March 2017 ISSN: 1445 - 2782 history Date: Version: 13 November 2009
+Original statement 18 July 2014
+Updated statement You are here
 22 March 2017
 Updated statement

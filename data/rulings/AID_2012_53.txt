@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/53
-==================================================
-
-Superannuation
- Self Managed Superannuation Fund: in-house assets - additional investment in a related trust - trust borrowings at 28 June 2000 increased and discharged prior to additional investment in the related trust
- FOI status: may be released/not to be released/requires editing/edited for FOI purposes - TCO delete inappropriate references before sending to PMU
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Self Managed Superannuation Fund: in-house assets - additional investment in a related trust - trust borrowings at 28 June 2000 increased and discharged prior to additional investment in the related trust FOI status: may be released/not to be released/requires editing/edited for FOI purposes - TCO delete inappropriate references before sending to PMU CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will subparagraph 71(1)(j)(ii) of the Superannuation Industry (Supervision) Act 1993 (SISA) apply to an additional investment in a related unit trust by a self managed superannuation fund (SMSF) where section 71A of the SISA applies to the SMSF's original investment in the unit trust, the trustee of the unit trust borrowed additional money after 28 June 2000 and the total borrowings were discharged before the SMSF acquired the additional trust units?
 Decision
 No. Subparagraph 71(1)(j)(ii) of the SISA will not apply because Superannuation Industry (Supervision) Regulations 1994 (SISR) regulation 13.22C will not apply to the additional units.
@@ -20,9 +9,7 @@ Facts
 An SMSF acquired units in a related unit trust prior to 12 August 1999. These trust units continue to be held by the SMSF. By the application of section 71A of the SISA these units are not in-house assets.
 On 28 June 2000 the trustee of the unit trust had an amount of outstanding borrowings. After 28 June 2000 the trustee of the unit trust made additional borrowings. All borrowings of the trustee of the unit trust were subsequently repaid.
 Subsequent to the trustee of the unit trust repaying all outstanding borrowings the SMSF acquired additional units in the unit trust.
-Neither section 71D nor section 71E of the SISA applies to the additional investment.
-
-Reasons for Decision
+Neither section 71D nor section 71E of the SISA applies to the additional investment. Reasons for Decision
 Subsection 71(1) of the SISA sets out the basic meaning of in-house asset. An investment in a related company or a related unit trust is included as an in-house asset.
 Subparagraph 71(1)(j)(ii) of the SISA excludes certain assets specified in the regulations (regulations 13.22B and 13.22C in Division 13.3A SISR) from the meaning of in-house asset. By virtue of subregulation 13.22B(1) of the SISR, regulation 13.22B applies to an investment in a related company or related unit trust which was made before 28 June 2000, being the date Division 13.3A commenced. By virtue of subregulation 13.22C(1) of the SISR, regulation 13.22C applies to an investment in a related company or related unit trust made on or after 28 June 2000.
 It is relevant to note that regulations 13.22B and 13.22C of the SISR apply regardless of whether the shares or units satisfy the requirements contained in subregulations 13.22B(2) or 13.22C(2) of the SISR or whether they are excluded from being in-house assets under another provision of the Act.
@@ -31,43 +18,6 @@ Subregulation 13.22D(1) of the SISR applies to events which happen on or after 2
 When the trustee of the unit trust borrowed money after 28 June 2000, the event set out in subparagraph 13.22D(1)(c)(i) of the SISR happened in relation to the original units in the related unit trust to which regulation 13.22B of the SISR applied. Consequently, regulation 13.22B ceased to apply to the SMSF's original investment in the unit trust at that time. In addition, subregulation 13.22D(3) of the SISR has the effect of excluding any other investments in the unit trust from the application of regulation 13.22C of the SISR.
 As subregulation 13.22C of the SISR does not apply to the acquisition of additional units in the unit trust, those units will not be excluded from being in-house assets by subparagraph 71(1)(j)(ii) of the SISA.
 Notwithstanding that regulation 13.22B of the SISR no longer applies to the SMSF's original investment in the unit trust, section 71A of the SISA continues to apply to exclude those units from the definition of in-house asset.
-Date of decision:
-  29 May 2012
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   subsection 71(1)   subparagraph 71(1)(j)(ii)   section 71A   section 71D   section 71E
-Superannuation Industry (Supervision) Regulations 1994   Division 13.3A   regulation 13.22B   subregulation 13.22B(1)   subregulation 13.22B(2)   regulation 13.22C   subregulation 13.22C(1)   subregulation 13.22C(2)   regulation 13.22D   subregulation 13.22D(1)   subparagraph 13.22D(1)(c)(i)   subregulation 13.22D(3)
-
-Related Public Rulings (including Determinations)
-
-SMSFR 2009/4
-SMSFD 2008/1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2012/52
-
-Keywords
-
-Superannuation
- Retirement income entities
- Self managed superannuation funds
- SMSF investments
- Superannuation fund in house assets
- SMSF related parties
-
-Siebel/TDMS Reference Number:
-  1-377OT7A; 1-6F60T3X
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  8 June 2012
-
-Date reviewed:
-  12 October 2015
-
-ISSN:
- 1445-2782
+Date of decision: 29 May 2012 Legislative References: Superannuation Industry (Supervision) Act 1993 subsection 71(1) subparagraph 71(1)(j)(ii) section 71A section 71D section 71E
+Superannuation Industry (Supervision) Regulations 1994 Division 13.3A regulation 13.22B subregulation 13.22B(1) subregulation 13.22B(2) regulation 13.22C subregulation 13.22C(1) subregulation 13.22C(2) regulation 13.22D subregulation 13.22D(1) subparagraph 13.22D(1)(c)(i) subregulation 13.22D(3) Related Public Rulings (including Determinations) SMSFR 2009/4
+SMSFD 2008/1 Related ATO Interpretative Decisions ATO ID 2012/52 Keywords Superannuation Retirement income entities Self managed superannuation funds SMSF investments Superannuation fund in house assets SMSF related parties Siebel/TDMS Reference Number: 1-377OT7A; 1-6F60T3X Business Line: Superannuation Date of publication: 8 June 2012 Date reviewed: 12 October 2015 ISSN: 1445-2782

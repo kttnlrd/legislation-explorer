@@ -1,117 +1,29 @@
 ATO Interpretative Decision
 ATO ID 2006/217
-==================================================
-
-Income Tax
- Securitisation Vehicle: financial institution - treatment of interest income and expenses
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
+================================================== Income Tax Securitisation Vehicle: financial institution - treatment of interest income and expenses FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
 This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For income tax purposes, can a securitisation vehicle which is not a financial institution account for interest income derived under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997) and interest expenditure incurred under section 8-1 of the ITAA 1997 using a straight line daily accruals method?
 Decision
 Yes. For income tax purposes, a securitisation vehicle which is not a financial institution can account for interest income derived under section 6-5 of the ITAA 1997 and interest expenditure incurred under section 8-1 of the ITAA 1997 using a straight line daily accruals method.
 Facts
 A company is established as a securitisation vehicle solely for the purpose of securitising assets and providing finance for a public-private partnership project (the project).
-The securitisation vehicle will undertake the following primary financing activities:
-
-•raise finance by issuing bonds and debentures backed by the cash flows of the securitised assets (the right to future receivables as they come into existence)
+The securitisation vehicle will undertake the following primary financing activities: •raise finance by issuing bonds and debentures backed by the cash flows of the securitised assets (the right to future receivables as they come into existence)
 •use the majority of the funds raised to purchase the securitised assets through entering into an equitable assignment, and
-•on-lend to the project a portion of the funds raised.
-
-The securitisation vehicle will receive interest from the amounts on-lent to the project.
+•on-lend to the project a portion of the funds raised. The securitisation vehicle will receive interest from the amounts on-lent to the project.
 The securitisation vehicle will pay interest to the holders of the bonds and debentures.
 The securitisation vehicle prepares its financial accounts using an accruals basis of accounting with both interest expense and interest income being accounted for on a daily accruals basis.
 Reasons for Decision
 Taxation Ruling TR 93/27 deals with the basis of assessment of interest derived and incurred by financial institutions. Paragraphs 7 to 9, in brief, provide that 'the straight line daily accruals method is the appropriate basis on which financial institutions should bring interest income and expense to account for taxation purposes'.
-Paragraph 21 of TR 93/27 defines, for the purposes of the Ruling, the term 'financial institution' as follows:
-
-... a 'financial institution' for the purposes of this ruling is a taxpayer that principally, and in the ordinary course of its business operations, derives assessable income by lending or investing funds obtained by way of deposit or borrowing. Generally speaking, taxpayers that are not moneylenders are excluded from the application of this Ruling.
-
-In considering the definition of 'moneylender' in the English Money-Lenders Act 1900, MacCardie LJ in Edgelow v. MacElwee [1918] 1 KB 205 said at 206:
-
-... There must be more than occasional and disconnected loans. There must be a business of money-lending, and the word 'business' imports the notion of system, repetition and continuity ... The line of demarcation cannot be defined with closeness or indicated by any specific formula. Each case must depend on its peculiar features. It is ever a question of degree.
-
-Farwell J when considering the same legislation in Litchfield v. Dreyfus [1906] 1 KB 584 said at 589:
-
-Speaking generally, a man who carries on a money-lending business is one who is ready and willing to lend to all and sundry, provided that they are from his point of view eligible.
-
-In Hungier v. Grace (1972) 127 CLR 210, a case concerning the definition of 'money lender' in subsection 3(1) of the Money Lenders Act 1958 (Vic), Barwick CJ said at 219 'It is, of course, possible to carry on the business of a money-lender with only one borrower'. However, Walsh J said at 224:
-
-The fact that loans were made to one borrower only is not decisive against a finding that the making of them constituted the carrying on of a business of moneylending. I think that it provides a very strong indication against that finding when it is accompanied by the circumstance that it was not the lender who stipulated the terms for repayment of the loans.
-
-The securitisation vehicle neither principally derives its assessable income through the lending of money nor does it invest funds by way of deposit or borrowing. Rather, its working capital, other than the portion on-lent to the project, is predominantly invested in acquiring a payment stream.
+Paragraph 21 of TR 93/27 defines, for the purposes of the Ruling, the term 'financial institution' as follows: ... a 'financial institution' for the purposes of this ruling is a taxpayer that principally, and in the ordinary course of its business operations, derives assessable income by lending or investing funds obtained by way of deposit or borrowing. Generally speaking, taxpayers that are not moneylenders are excluded from the application of this Ruling. In considering the definition of 'moneylender' in the English Money-Lenders Act 1900, MacCardie LJ in Edgelow v. MacElwee [1918] 1 KB 205 said at 206: ... There must be more than occasional and disconnected loans. There must be a business of money-lending, and the word 'business' imports the notion of system, repetition and continuity ... The line of demarcation cannot be defined with closeness or indicated by any specific formula. Each case must depend on its peculiar features. It is ever a question of degree. Farwell J when considering the same legislation in Litchfield v. Dreyfus [1906] 1 KB 584 said at 589: Speaking generally, a man who carries on a money-lending business is one who is ready and willing to lend to all and sundry, provided that they are from his point of view eligible. In Hungier v. Grace (1972) 127 CLR 210, a case concerning the definition of 'money lender' in subsection 3(1) of the Money Lenders Act 1958 (Vic), Barwick CJ said at 219 'It is, of course, possible to carry on the business of a money-lender with only one borrower'. However, Walsh J said at 224: The fact that loans were made to one borrower only is not decisive against a finding that the making of them constituted the carrying on of a business of moneylending. I think that it provides a very strong indication against that finding when it is accompanied by the circumstance that it was not the lender who stipulated the terms for repayment of the loans. The securitisation vehicle neither principally derives its assessable income through the lending of money nor does it invest funds by way of deposit or borrowing. Rather, its working capital, other than the portion on-lent to the project, is predominantly invested in acquiring a payment stream.
 Whilst the terms of the loan with the unrelated entity are at commercial rates, it is a stipulated part of the overall arrangement that the securitisation vehicle lend to the project a portion of the funds it has raised. It makes no loans to any other entity.
 In terms of paragraph 21 of TR 93/27, the securitisation vehicle does not principally, and in the ordinary course of its business operations, derive assessable income by way of lending or investing funds. Nor, based on the case law referred to above, is the securitisation vehicle considered to be a moneylender. It therefore follows that it is not a financial institution.
 Whilst the securitisation vehicle is not considered to be a financial institution, it does share certain characteristics with those institutions. It is established solely for the purpose of raising finance for the particular project. It obtains its funds through borrowing and it pays interest on those borrowed funds. It also derives some of its assessable income through lending a portion of those borrowed funds and receiving interest. Given these factors, it is considered the reasoning for acceptance of the accounting accrual method in TR 93/27 is equally applicable in this situation as it gives 'a substantially correct reflex' of the securitisation vehicle's interest income (Commissioner of Taxes (South Australia) v. The Executor Trustee and Agency Company of South Australia Limited (1938) 63 CLR 108 at 154).
-In determining when interest is assessable under section 6-5 of the ITAA 1997 it is necessary to determine when it is derived. In Federal Commissioner of Taxation v. Australian Guarantee Corp. Ltd. (1984) 2 FCR 483; 84 ATC 4642; (1984) 15 ATR 982 (AGC) Beaumont J stated:
-
-Although the bare statement that interest is, or will be, 'earned' is not itself determinative of the time at which or the period during which interest will be derived, ordinarily, where interest is accruing from day to day, it is, I think, appropriate to describe that interest as being 'earned' on such a daily basis in point of time, even if not payable until a later date. Further, in my opinion, the period in which interest is accruing due may properly be regarded as the period in which interest is thus being earned.
-
-The interest derived by the securitisation vehicle from on-lending funds to the project accrues from day to day. Even though it may not be payable until a later date it is being earned on a daily basis. Based on the reasoning of Beaumont J referred to above, the period in which the interest is accruing is the period in which the interest is being earned.
+In determining when interest is assessable under section 6-5 of the ITAA 1997 it is necessary to determine when it is derived. In Federal Commissioner of Taxation v. Australian Guarantee Corp. Ltd. (1984) 2 FCR 483; 84 ATC 4642; (1984) 15 ATR 982 (AGC) Beaumont J stated: Although the bare statement that interest is, or will be, 'earned' is not itself determinative of the time at which or the period during which interest will be derived, ordinarily, where interest is accruing from day to day, it is, I think, appropriate to describe that interest as being 'earned' on such a daily basis in point of time, even if not payable until a later date. Further, in my opinion, the period in which interest is accruing due may properly be regarded as the period in which interest is thus being earned. The interest derived by the securitisation vehicle from on-lending funds to the project accrues from day to day. Even though it may not be payable until a later date it is being earned on a daily basis. Based on the reasoning of Beaumont J referred to above, the period in which the interest is accruing is the period in which the interest is being earned.
 In determining when interest is deductible under section 8-1 of the ITAA 1997, it is necessary to determine when it is incurred. In determining when interest expenditure is incurred, the courts have looked to see if there is a presently existing liability and whether generally accepted accounting practice would apply to allocate the expense over particular income tax periods (Alliance Holdings Limited v. FC of T 81 ATC 4637; (1981) 12 ATR 509 (AGC) (supra)).
-In AGC (supra), Toohey J said (at ATC 4650; ATR 992):
-
-This court should be slow to disallow a method of calculating the amount of an outgoing if what is claimed is fairly referable to the year in question. In my view, the amount claimed by the taxpayer as interest on deferred interest debentures for the year ended 30 September 1978 was an outgoing incurred by the taxpayer in the relevant year. It was calculated in accordance with sound accounting practice, designed to give a true picture of the taxpayer's financial operations, and it was an approach not precluded by the language of the Act.
-
-The securitisation vehicle has a presently existing liability to pay interest on the issued bonds and debentures. In order to arrive at an amount of outgoing fairly referable to the income year, it has adopted a daily accruals method of calculation. This approach accords with sound accounting practice and provides a 'substantially correct reflex' of outgoings incurred during an income year.
+In AGC (supra), Toohey J said (at ATC 4650; ATR 992): This court should be slow to disallow a method of calculating the amount of an outgoing if what is claimed is fairly referable to the year in question. In my view, the amount claimed by the taxpayer as interest on deferred interest debentures for the year ended 30 September 1978 was an outgoing incurred by the taxpayer in the relevant year. It was calculated in accordance with sound accounting practice, designed to give a true picture of the taxpayer's financial operations, and it was an approach not precluded by the language of the Act. The securitisation vehicle has a presently existing liability to pay interest on the issued bonds and debentures. In order to arrive at an amount of outgoing fairly referable to the income year, it has adopted a daily accruals method of calculation. This approach accords with sound accounting practice and provides a 'substantially correct reflex' of outgoings incurred during an income year.
 Accordingly, as the securitisation vehicle has an interest expense accruing de die in diem (day by day) and an interest income stream that accrues daily, it is appropriate for it to tax account for its interest income and expense on a straight line daily accruals basis.
 This decision, so far as it relates to the question of whether a securitisation vehicle is a financial institution, can be contrasted and distinguished with that in ATO ID 2005/260. There, the factual situation differed and consideration was primarily being given to the meaning of the term 'providing finance' pursuant to Article 11(3)(b) of Schedule 2 of the International Tax Agreements Act 1953 as amended by Schedule 2A of the US Protocol.
-Date of decision:
-  28 July 2006
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5   section 8-1
-International Tax Agreements Act 1953   Schedule 2, Article 11(3)(b)
-
-Case References:
-
-Alliance Holdings Ltd v. FC of T   81 ATC 4637   (1981) 12 ATR 509
-
-Commissioner of Taxes (South Australia) v. The Executor Trustee and Agency Company of South Australia Limited    (1938) 63 CLR 108
-
-Federal Commissioner of Taxation v. Australian Guarantee Corporation Ltd   (1984) 2 FCR 483   84 ATC 4642   (1984) 15 ATR 982
-
-Edgelow v. MacElwee    [1918] 1 KB 205
-
-Litchfield v. Dreyfus    [1906] 1 KB 584
-
-Hungier v. Grace   (1972) 127 CLR 210
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 93/27
-
-Keywords
-
-Accrual basis accounting
- Accrued interest
- Financial institutions
- Interest expenses
- Interest income
- Securitisation
-
-Siebel/TDMS Reference Number:
-  5033221
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  11 August 2006
-
-ISSN:
- 1445-2782
+Date of decision: 28 July 2006 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 section 6-5 section 8-1
+International Tax Agreements Act 1953 Schedule 2, Article 11(3)(b) Case References: Alliance Holdings Ltd v. FC of T 81 ATC 4637 (1981) 12 ATR 509 Commissioner of Taxes (South Australia) v. The Executor Trustee and Agency Company of South Australia Limited (1938) 63 CLR 108 Federal Commissioner of Taxation v. Australian Guarantee Corporation Ltd (1984) 2 FCR 483 84 ATC 4642 (1984) 15 ATR 982 Edgelow v. MacElwee [1918] 1 KB 205 Litchfield v. Dreyfus [1906] 1 KB 584 Hungier v. Grace (1972) 127 CLR 210 Related Public Rulings (including Determinations) Taxation Ruling TR 93/27 Keywords Accrual basis accounting Accrued interest Financial institutions Interest expenses Interest income Securitisation Siebel/TDMS Reference Number: 5033221 Business Line: Public Groups and International Date of publication: 11 August 2006 ISSN: 1445-2782

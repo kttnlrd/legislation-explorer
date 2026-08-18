@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/78
-==================================================
-
-Income Tax
- Non-assessable and Non-exempt Income - Dividends: non-share dividends and interest of a superannuation fund for foreign residents
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Non-assessable and Non-exempt Income - Dividends: non-share dividends and interest of a superannuation fund for foreign residents FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is income to which paragraph 128B(3)(jb) of the Income Tax Assessment Act 1936 (ITAA 1936) applies, not assessable and not exempt income under section 128D of the ITAA 1936?
 Decision
 Yes. Income to which paragraph 128B(3)(jb) of the ITAA 1936 applies is not assessable and not exempt income under section 128D of the ITAA 1936.
@@ -30,40 +19,5 @@ Given that subsection 128A(10) of the ITAA 1936 treats the trustee to be the non
 Subsections 128B(4) and 128B(5) of the ITAA 1936 provide that a person who derives income to which section 128B of the ITAA 1936 applies is liable to pay dividend and interest withholding tax on the dividends and interest it derives. Paragraph 128AAA(1)(c) of the ITAA 1936 provides that Division 11A of Part III of the ITAA 1936 applies to non-share dividends in the same way as it applies to dividends. Disregarding any application of paragraph 128B(3)(jb) of the ITAA 1936, the taxpayer would be liable to pay tax under subsections 128B(4) and 128B(5).
 However, because the dividends, non-share dividends and interest derived by the taxpayer is income to which paragraph 128B(3)(jb) of the ITAA 1936 applies, that income is excluded from being income that is subject to withholding tax by the operation of this paragraph.
 Therefore, the dividend and interest income received by the taxpayer is income upon which withholding tax would, but for paragraph 128B(3)(jb) of the ITAA 1936, be payable under subsections 128B(4) and 128B(5) of the ITAA 1936. Accordingly, this income is not assessable and not exempt income of the taxpayer under section 128D of the ITAA 1936.
-Date of decision:
-  13 July 2009
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 11A of Part III   subsection 6(1)   subsection 128A(10)   paragraph 128AAA(1)(c)   section 128B   paragraph 128B(3)(jb)   subsection 128B(4)   subsection 128B(5)   section 128D
-Income Tax Assessment Act 1997   section 118-520   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2001/320
- ATO ID 2001/334
-
-Keywords
-
-Withholding tax exemptions
- Dividend income
- Non resident dividend withholding tax
- Non resident interest withholding tax
- Non-assessable non-exempt income
- Superannuation funds
- Non resident superannuation funds
-
-Siebel/TDMS Reference Number:
-  6159121
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  31 July 2009
-
-ISSN:
- 1445-2782
+Date of decision: 13 July 2009 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1936 Division 11A of Part III subsection 6(1) subsection 128A(10) paragraph 128AAA(1)(c) section 128B paragraph 128B(3)(jb) subsection 128B(4) subsection 128B(5) section 128D
+Income Tax Assessment Act 1997 section 118-520 subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2001/320 ATO ID 2001/334 Keywords Withholding tax exemptions Dividend income Non resident dividend withholding tax Non resident interest withholding tax Non-assessable non-exempt income Superannuation funds Non resident superannuation funds Siebel/TDMS Reference Number: 6159121 Business Line: Public Groups and International Date of publication: 31 July 2009 ISSN: 1445-2782

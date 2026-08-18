@@ -1,32 +1,17 @@
 ATO Interpretative Decision
 ATO ID 2004/968
-==================================================
-
-Income tax
- Deductions: management fees debited to an allocated pension account
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Deductions: management fees debited to an allocated pension account FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, a retiree in receipt of an allocated pension, entitled to a deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for the management fees debited to their allocated pension account?
 Decision
 No. The taxpayer, a retiree in receipt of an allocated pension, is not entitled to a deduction under section 8-1 of the ITAA 1997 for the management fees debited to their allocated pension account as the fees have already been deducted when calculating the amount of pension included in assessable income.
 Facts
 The taxpayer, a retiree, is in receipt of an allocated pension.
 The taxpayer is paid a yearly amount of pension between a prescribed minimum and maximum limit. These limits are calculated each year according to the taxpayer's age and balance of their allocated pension account.
-The yearly amount of their pension payment(s) is withdrawn from their allocated pension account balance. The allocated pension account balance comprises:
-
-•the sum used to purchase the allocated pension (allocated pension amount)
+The yearly amount of their pension payment(s) is withdrawn from their allocated pension account balance. The allocated pension account balance comprises: •the sum used to purchase the allocated pension (allocated pension amount)
 •plus earnings from its subsequent investment or less losses from its subsequent investment
 •less ongoing management fees, and
-•less pension payments withdrawn.
-
-The fund manager invests the allocated pension amount and any earnings are credited to the taxpayer's allocated pension account. If the investments generate a loss this is debited to the allocated pension account.
+•less pension payments withdrawn. The fund manager invests the allocated pension amount and any earnings are credited to the taxpayer's allocated pension account. If the investments generate a loss this is debited to the allocated pension account.
 The fund manager incurs costs in managing the investments of the allocated pension amount. A proportion of these costs are passed on to the taxpayer in the form of a management fee which is debited to the taxpayer's allocated pension account each year. The management fee is an amount equal to a set percentage of the balance of the allocated pension account as at the end of the financial year.
 Reasons for Decision
 Section 8-1 of the ITAA 1997 allows a taxpayer to deduct from their assessable income any loss or outgoing to the extent it is incurred in gaining or producing assessable income.
@@ -35,41 +20,5 @@ The allocated pension payments are included in the taxpayer's assessable income 
 The amount of pension included in the taxpayer's assessable income under section 27H of the ITAA 1936 is the yearly amount of their pension payment that is withdrawn from their available allocated pension account balance after the annual management fees have been debited.
 Therefore the on-going management fees have been taken into account before the pension payment has been made and included in the taxpayer's assessable income. The taxpayer has therefore only been assessed on the 'net' amount of their pension, that is after the management fees have been taken into account.
 Accordingly no further deduction is allowable to the taxpayer under section 8-1 of the ITAA 1997 for these on-going management fees.
-Date of decision:
-  3 November 2004
-
-Year of income:
-  Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 27H
-Income Tax Assessment Act 1997   section 8-1
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 95/60
-
-ATO Interpretative Decisions overturned by this decision
-
-ATO ID 2004/339
-
-Keywords
-
-Allocated annuities & pensions
- Management fees expenses
-
-Siebel/TDMS Reference Number:
-  4302169; 1-5QF83Y2
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  17 December 2004
-
-Date reviewed:
-  2 April 2015
-
-ISSN:
- 1445-2782
+Date of decision: 3 November 2004 Year of income: Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 27H
+Income Tax Assessment Act 1997 section 8-1 Related Public Rulings (including Determinations) Taxation Determination TD 95/60 ATO Interpretative Decisions overturned by this decision ATO ID 2004/339 Keywords Allocated annuities & pensions Management fees expenses Siebel/TDMS Reference Number: 4302169; 1-5QF83Y2 Business Line: Private Groups and High Wealth Individuals Date of publication: 17 December 2004 Date reviewed: 2 April 2015 ISSN: 1445-2782

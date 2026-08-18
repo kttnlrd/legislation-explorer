@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/151
-==================================================
-
-Income Tax
- Superannuation Product: one or two superannuation income streams
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Superannuation Product: one or two superannuation income streams FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a superannuation product offered by the trustee of a superannuation fund provide a fund member a single superannuation income stream as defined in subsection 307-70(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where the product provides for an agreed level of payments (supported by an investment in a life insurance policy) in the event the assets (other than the life insurance policy) supporting the member's pension are exhausted?
 Decision
 No. The trustee of a superannuation fund is taken to be paying two distinct superannuation income streams as defined in subsection 307-70(1) of the ITAA 1997.
@@ -21,9 +10,7 @@ The trustee of a superannuation fund offered its members the option to receive p
 The trustee offered its members a further option to ensure that a minimum level of payments would continue to be made for the member's lifetime in the event the investments, held for the purpose of supporting the member's pension benefits as determined in the manner set out in sub-subregulation 1.06(9A)(a) of the SISR, were exhausted.
 The trustee entered into an insurance policy with a life insurance company to cover the trustee's additional obligations to members under this further option.
 A member chose to receive benefits under both options.
-The trustee created and maintained an account in respect of the member. The account recorded the trustee's obligation to the member based upon the value of the investments held by the trustee to support its obligation. The account did not include any amount in relation to the option, supported by the life insurance policy, to provide a minimum level of payments for the member's life. However, the trustee reduced the value of the account by the amount of premiums payable on the insurance policy.
-
-Reasons for Decision
+The trustee created and maintained an account in respect of the member. The account recorded the trustee's obligation to the member based upon the value of the investments held by the trustee to support its obligation. The account did not include any amount in relation to the option, supported by the life insurance policy, to provide a minimum level of payments for the member's life. However, the trustee reduced the value of the account by the amount of premiums payable on the insurance policy. Reasons for Decision
 Under subsection 307-70(1) of the ITAA 1997 a superannuation income stream benefit is a superannuation benefit specified in the Income Tax Assessment Regulations 1997 (ITAR 1997) that is paid from a superannuation income stream.
 Under subsection 307-70(2) of the ITAA 1997 a superannuation income stream has the meaning given by the ITAR 1997.
 Regulation 995-1.01 of the ITAR 1997 provides that a 'superannuation income stream' means (among other things) a pension for the purposes of the Superannuation Industry (Supervision) Act 1993 (SISA), in accordance with subregulation 1.06(1) of the SISR.
@@ -31,52 +18,11 @@ Pensions that satisfy the criteria under sub-subregulations 1.06(9A)(a) or 1.06(
 Sub-subregulation 1.06(9A)(a) of the SISR applies to "a pension in relation to which there is an account balance attributable to the beneficiary". Such a pension is defined to be an account-based pension if it satisfies the requirements of sub-subregulation 1.06(9A)(a) of the SISR.
 Sub-subregulation 1.06(9A)(a) of the SISR requires the total payments in any year to at least equal the minimum amount calculated under clause 1 of Schedule 7 to the SISR. Clause 1 of Schedule 7 requires a minimum percentage (determined by reference to the member's age) of the member's account balance to be paid each year.
 Sub-subregulation 1.06(9A)(b) of the SISR applies to a pension for which there is no account balance attributable to the beneficiary. Sub-subregulation 1.06(9A)(b) covers several pension types, one of which is a pension that satisfies the standards of subregulation 1.06(2) of the SISR. That subregulation applies to so-called lifetime pensions. The rules for a lifetime pension must ensure, amongst other things, that the pension is paid at least annually throughout the life of the primary beneficiary (or the life of the primary beneficiary and a reversionary beneficiary) and the size of the payments is fixed (or fixed allowing for some limited variation such as indexation).
-Sub-subregulations 1.06(9A)(a) and 1.06(9A)(b) of the SISR establish two broad categories of pensions. The Explanatory Statement to the amending regulations that introduced new subregulation 1.06(9A) of the SISR stated:
-
-Under the new [pension] standards, income streams effectively fall into two classes - those where there is an account balance attributable to the recipient and those where there is not.
-
-The structure of subregulation 1.06(9A) of the SISR makes it clear that a particular pension is meant to be capable of satisfying only one pension type - a pension attributable to an account balance or one of the several pension types that are not attributable to an account balance.
+Sub-subregulations 1.06(9A)(a) and 1.06(9A)(b) of the SISR establish two broad categories of pensions. The Explanatory Statement to the amending regulations that introduced new subregulation 1.06(9A) of the SISR stated: Under the new [pension] standards, income streams effectively fall into two classes - those where there is an account balance attributable to the recipient and those where there is not. The structure of subregulation 1.06(9A) of the SISR makes it clear that a particular pension is meant to be capable of satisfying only one pension type - a pension attributable to an account balance or one of the several pension types that are not attributable to an account balance.
 A pension must satisfy the requirements of either sub-subregulation 1.06(9A)(a) or 1.06(9A)(b) of the SISR throughout its life. A single pension cannot satisfy one or the other, or purport to satisfy the requirements of both, at different points in time.
 If a pension is to satisfy sub-subregulation 1.06(9A)(a) of the SISR, it must be attributable to an account balance throughout its life. A hallmark of such a pension is that the account balance accurately measures the fund's liability to a member. Consequently, it would be usual that once an account balance is reduced to nil, the fund's liability to the member ceases. A further hallmark is that the amounts payable to the member are not fixed.
 The arrangement results in two separate pensions payable to the member. The terms and conditions under which each are payable differ. Prior to the guaranteed pension phase, there is a pension for which there is an account balance. In the guaranteed pension phase, as long as the pension is payable for the member's life it satisfies the requirements of a lifetime pension in relation to which there is no account balance. Under the arrangement, a member initially has a pension in relation to which there is an account balance. When the balance is reduced to nil, and only then, a separate pension becomes payable. That separate pension is one in relation to which there is no account balance. It is also a pension which is not payable until the contingent event triggers payment of the annuity from the life company to the superannuation fund.
-As these benefits are identified as separate pensions respectively in sub-subregulations 1.06(9A)(a) and 1.06(9A)(b) of the SISR they are separate superannuation income streams as defined in subsection 307-70(1) of the ITAA 1997.
-
-Date of decision:
-  18 November 2009
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 320-246   section 320-247   paragraph 320-246(1)(a)   paragraph 320-247(1)(a)   subsection 307-70(1)   subsection 307-200(1)
-Income Tax Assessment Regulations 1997   regulation 995-1.01   regulation 307-200.05
-Superannuation Industry (Supervision) Act 1993   The Act
-Superannuation Industry (Supervision) Regulations 1994   sub-subregulation 1.06(9A)(a)   sub-subregulation 1.06(9A)(b)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2003/14
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/962
-
-Keywords
-
-Superannuation interest
-
-Siebel/TDMS Reference Number:
-  1-1R7RMVS; 1-65YN8S3
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  11 December 2009
-
-Date reviewed:
-  23 January 2015
-
-ISSN:
- 1445-2782
+As these benefits are identified as separate pensions respectively in sub-subregulations 1.06(9A)(a) and 1.06(9A)(b) of the SISR they are separate superannuation income streams as defined in subsection 307-70(1) of the ITAA 1997. Date of decision: 18 November 2009 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 section 320-246 section 320-247 paragraph 320-246(1)(a) paragraph 320-247(1)(a) subsection 307-70(1) subsection 307-200(1)
+Income Tax Assessment Regulations 1997 regulation 995-1.01 regulation 307-200.05
+Superannuation Industry (Supervision) Act 1993 The Act
+Superannuation Industry (Supervision) Regulations 1994 sub-subregulation 1.06(9A)(a) sub-subregulation 1.06(9A)(b) Related Public Rulings (including Determinations) Taxation Ruling TR 2003/14 Related ATO Interpretative Decisions ATO ID 2003/962 Keywords Superannuation interest Siebel/TDMS Reference Number: 1-1R7RMVS; 1-65YN8S3 Business Line: Superannuation Date of publication: 11 December 2009 Date reviewed: 23 January 2015 ISSN: 1445-2782

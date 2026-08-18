@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/989
-==================================================
-
-Income Tax
- Research and Development Tax Offset: eligibility where a group member company has a substituted accounting period
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development Tax Offset: eligibility where a group member company has a substituted accounting period FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 If an eligible company is grouped with another company that has a different accounting period, is it the eligible company's 'tax offset year' that is used when determining the group 'aggregate research and development amount' and the 'R&D group turnover' amount, and not the 'year of income' of the group member?
 Decision
 Yes. The eligible company's tax offset year is used when calculating the group aggregate research and development amount for the purposes of paragraph 73J(1)(c) of the Income Tax Assessment Act 1936 (ITAA 1936) and the R&D group turnover for the purposes of paragraph 73J(1)(d) of the ITAA 1936.
@@ -24,57 +13,13 @@ The company which is grouped with the eligible company has a substituted account
 Reasons for Decision
 Sections 73I, 73J and 73K of the ITAA 1936 govern eligibility for, and claiming of, the R&D tax offset. Subsection 73I(1) of the ITAA 1936, allows an eligible company to choose this tax offset instead of a deduction for a 'year of income' (also referred to in this subsection as the 'tax offset year').
 The meaning of 'year of income' was considered in Norwich Superannuation Services Pty Ltd v. FC of T (1998) 41 ATR 1091; 99 ATC 2015 where the Administrative Appeals Tribunal held that the term referred to a period of 12 months.
-Subsection 73J(1) of the ITAA 1936 outlines the eligibility criteria for entitlement to choose the tax offset, some of which are applied on a group basis. It says:
-
-An eligible company is eligible to choose the tax offset for the tax offset year if:
-
-(a) ........... and
+Subsection 73J(1) of the ITAA 1936 outlines the eligibility criteria for entitlement to choose the tax offset, some of which are applied on a group basis. It says: An eligible company is eligible to choose the tax offset for the tax offset year if: (a) ........... and
 (b) its aggregate research and development amount for the tax offset year exceeds $20,000; and
 (c) the aggregate research and development amount for the tax offset year of the company and of taxpayers with which it is grouped (while they are grouped in that year) is not more than $1,000,000; and
-(d) the R&D group turnover of the company for that year is less than $5,000,000.
-
-The 'R&D group turnover' is calculated under section 73K of the ITAA 1936 in accordance with paragraph 73J(1)(d) of the ITAA 1936 for the 'tax offset year'. As the name suggests, for the eligible company, for the relevant year, it is calculated by taking the situation of group members into account.
+(d) the R&D group turnover of the company for that year is less than $5,000,000. The 'R&D group turnover' is calculated under section 73K of the ITAA 1936 in accordance with paragraph 73J(1)(d) of the ITAA 1936 for the 'tax offset year'. As the name suggests, for the eligible company, for the relevant year, it is calculated by taking the situation of group members into account.
 The 'tax offset year' referred to in paragraph 73J(1)(c) of the ITAA 1936 is the year of income for which the eligible company wants to determine whether it can choose the R&D tax offset, instead of certain deductions (see subsection 73I(1) of the ITAA 1936). It follows that the reference to 'that year' in paragraph 73J(1)(d) of the ITAA 1936 is to the same year.
 The company which is grouped with the eligible company however, has a substituted accounting period. This means that its year of income ends on a date other than 30 June (refer to section 18 of the ITAA 1936 and the subsection 6(1) definition, ITAA 1936 of 'year of income').
-Nevertheless, when calculating the amounts referred to in:
-
-• paragraph 73J(1)(c), ITAA 1936, concerning the aggregate research and development amount of both the eligible company and the company with which its grouped; and
-• paragraph 73J(1)(d), ITAA 1936, concerning the R&D group turnover,
-
-the calculations are performed using only the one 12 month period, being the tax offset year of the eligible company.
+Nevertheless, when calculating the amounts referred to in: • paragraph 73J(1)(c), ITAA 1936, concerning the aggregate research and development amount of both the eligible company and the company with which its grouped; and
+• paragraph 73J(1)(d), ITAA 1936, concerning the R&D group turnover, the calculations are performed using only the one 12 month period, being the tax offset year of the eligible company.
 Note: The same result would also arise if the eligible company lodged a return of income for the year of income equating to the tax offset year, for a period greater or lesser than 12 months. That is, if the eligible company, following it being granted a substituted accounting period, lodged a return of income for the transitional period not equalling 12 months, the calculations required for the purposes of paragraphs 73J(1)(c) and (d) of the ITAA 1936 would still be performed using the 12 month period that is the tax offset year of the eligible company.
-Date of decision:
-  10 October 2003
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   section 18   section 73B   subsection 73B(1)   section 73L   section 73J   subsection 73J(1)   paragraph 73J(1)(c)   paragraph 73J(1)(d)   section 73K
-
-Case References:
-
-Norwich Superannuation Services Pty Ltd v. FC of T   (1998) 41 ATR 1091   99 ATC 2015
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/990
- ATO ID 2003/991
-
-Keywords
-
-Research & development segment
- Substituted accounting period
-
-Siebel/TDMS Reference Number:
-  3662174
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 November 2003
-
-ISSN:
- 1445-2782
+Date of decision: 10 October 2003 Year of income: Year ended 30 June 2003 Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) section 18 section 73B subsection 73B(1) section 73L section 73J subsection 73J(1) paragraph 73J(1)(c) paragraph 73J(1)(d) section 73K Case References: Norwich Superannuation Services Pty Ltd v. FC of T (1998) 41 ATR 1091 99 ATC 2015 Related ATO Interpretative Decisions ATO ID 2003/990 ATO ID 2003/991 Keywords Research & development segment Substituted accounting period Siebel/TDMS Reference Number: 3662174 Business Line: Public Groups and International Date of publication: 7 November 2003 ISSN: 1445-2782

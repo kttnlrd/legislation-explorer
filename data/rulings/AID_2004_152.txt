@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/152
-==================================================
-
-Income Tax
- Consolidation - modified market value
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in Consolidation Reference Manual examples C3-4-110 and C3-4-250.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation - modified market value FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in Consolidation Reference Manual examples C3-4-110 and C3-4-250. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For a corporate limited partnership, is the modified market value determined under section 707-325 of the Income Tax Assessment Act 1997 (ITAA 1997) by deducting the assets or attributes from the market value?
 Decision
 No. Section 707-325 of the ITAA 1997 refers to the market value of the entity after certain attributes are ignored.
@@ -28,66 +13,14 @@ In addition to the above, CLP borrows $1000 from a bank to purchase Subsidiary.
 CLP owns 100% of the membership interests in Subsidiary, which also joins the consolidated group on 1 July 2003.
 CLP's franking account balance is nil on 1 July 2003.
 Reasons for Decision
-The formula for determining the modified market value of an entity is found in section 707-325 of the ITAA 1997. The basic rule is found in subsection 707-325(1) of the ITAA 1997.
-
-The modified market value of an entity that becomes a *member of a *consolidated group at a particular time is the amount that would be the market value of the entity at that time if:...
-
-* denotes a term defined in section 995-1 of the ITAA 1997.
-
-Paragraphs (a) to (d) require you to ignore certain attributes, assets and relationships, including:
-
-- losses of any sort
+The formula for determining the modified market value of an entity is found in section 707-325 of the ITAA 1997. The basic rule is found in subsection 707-325(1) of the ITAA 1997. The modified market value of an entity that becomes a *member of a *consolidated group at a particular time is the amount that would be the market value of the entity at that time if:... * denotes a term defined in section 995-1 of the ITAA 1997. Paragraphs (a) to (d) require you to ignore certain attributes, assets and relationships, including: - losses of any sort
 - the balance of its franking account
-- membership interests in other members of group
-
-The market value is determined once those listed assets, liabilities and relationships are ignored. The resultant market valuation is the modified market value.
-To determine the modified market value for CLP, we ignore the following attributes or assets:
-
-- membership interests held in subsidiary
-- losses generated by loan
-
-As a result of this process, a balance sheet prepared for CLP (after the items listed above have been ignored) shows liabilities exceeding assets. Subsection 707-325(1) of the ITAA 1997 specifies that market value must be determined on this result. The market value so determined is the modified market value.
+- membership interests in other members of group The market value is determined once those listed assets, liabilities and relationships are ignored. The resultant market valuation is the modified market value.
+To determine the modified market value for CLP, we ignore the following attributes or assets: - membership interests held in subsidiary
+- losses generated by loan As a result of this process, a balance sheet prepared for CLP (after the items listed above have been ignored) shows liabilities exceeding assets. Subsection 707-325(1) of the ITAA 1997 specifies that market value must be determined on this result. The market value so determined is the modified market value.
 Subsection 707-325(1) of the ITAA 1997 does not specify that the amount by which the liabilities exceed the assets is the modified market value.
 Note: the market value attributed to a company with these modifications is to be determined by an independent valuer and is a question of fact that cannot be ruled upon by the Taxation Office.
-Date of decision:
-  30 January 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 707-325   subsection 707-325(1)   paragraph 707-325(1)(a)   paragraph 707-325(1)(b)   paragraph 707-325(1)(c)   paragraph 707-325(1)(d)
-
-Keywords
-
-Available fraction
- Consolidation
- Consolidation - losses
- Consolidation - market value
- Modified market value
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  20 February 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-30 January 2004
-Original statement
-
-You are here
+Date of decision: 30 January 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 707-325 subsection 707-325(1) paragraph 707-325(1)(a) paragraph 707-325(1)(b) paragraph 707-325(1)(c) paragraph 707-325(1)(d) Keywords Available fraction Consolidation Consolidation - losses Consolidation - market value Modified market value Business Line: Consolidation Centre of Expertise Date of publication: 20 February 2004 ISSN: 1445-2782 history Date: Version: 30 January 2004
+Original statement You are here
 16 April 2010
 Archived

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/67
-==================================================
-
-Income Tax
- Capital Allowances: depreciating asset - decline in value calculation - use of a mining, quarrying or prospecting right - mining property
- FOI status: may be released
-
-This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in Taxation Ruling TR 2017/1 Income tax: deductions for mining and petroleum exploration expenditure.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: depreciating asset - decline in value calculation - use of a mining, quarrying or prospecting right - mining property FOI status: may be released This ATO ID is withdrawn as the position stated in this ATO ID is no longer current. The current ATO position on this issue is contained in Taxation Ruling TR 2017/1 Income tax: deductions for mining and petroleum exploration expenditure. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Did the taxpayer holding only an exploration right have a 'mining property' in the context of understanding the meaning of the expression 'operations in the course of working a mining property' in subparagraph 40-80(1)(b)(ii) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The taxpayer holding only an exploration right did have a 'mining property' in the context of understanding the meaning of the expression 'operations in the course of working a mining property' in subparagraph 40-80(1)(b)(ii) of the ITAA 1997 because the taxpayer had undertaken work in preparation for mining the property and had made a decision to mine before that work was done.
@@ -28,88 +13,20 @@ The mineral deposits to which the exploration right relate are 'minerals' and ar
 The taxpayer made a decision to mine the subject land.
 Subsequent to the decision to mine, the taxpayer first used the exploration right to conduct drilling. The drilling ascertained the quality and distribution of the minerals within an area known to contain the minerals. The drilling falls within the definition of 'exploration or prospecting' in subsection 40-730(4) and in particular subparagraph 40-730(4)(a)(i) of that definition.
 The drilling was directed toward defining the limits of suitable mineral resources in order to determine the positioning of the mine pit wall and the construction of other mining infrastructure.
-The drilling conducted by the taxpayer was the first use of the exploration right for the purposes of paragraph 40-80(1)(a).
-
-Reasons
-
-Subsection 40-80(1) provides that the decline in value of a depreciating asset you hold is the asset's cost if the conditions in paragraphs (a), (b) and (c) of that subsection are met.
+The drilling conducted by the taxpayer was the first use of the exploration right for the purposes of paragraph 40-80(1)(a). Reasons Subsection 40-80(1) provides that the decline in value of a depreciating asset you hold is the asset's cost if the conditions in paragraphs (a), (b) and (c) of that subsection are met.
 The taxpayer's first use of the exploration right meets the qualifying condition in paragraph 40-80(1)(a). However, the disqualifying condition in paragraph 40-80(1)(b) is that the taxpayer's first use cannot also be, or include another use of the relevant depreciating asset which is either development drilling for petroleum or operations in the course of working a mining property, quarrying property or petroleum field.
 Comparably, the immediate deduction for expenditure on exploration or prospecting that is not the cost of a depreciating asset such as this exploration right excludes such expenditure where it is expenditure on 'operations in the course of working a mining property, quarrying property or petroleum field' (paragraph 40-730(2)(b)).
 In this case, the exploration right pertains to minerals obtainable by mining operations. Accordingly, whether the taxpayer has used the exploration right for 'operations in the course of working a mining property, quarrying property or petroleum field' under subparagraph 40-80(1)(b)(ii) needs to be considered.
 In order to understand the meaning of the expression, 'operations in the course of working a mining property, quarrying property or petroleum field', it is necessary to determine whether the taxpayer had a 'mining property'.
 The term 'mining property' is not defined for the purposes of the ITAA 1997. Further, there are no explicit statements in Division 40 or in the Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001, which introduced Division 40, which might provide assistance in establishing the meaning of the term.
 The meaning of the term 'mining property' was considered by the Full High Court in Federal Commissioner of Taxation v. Broken Hill Pty Co Ltd (1969) 120 CLR 240; (1969) 69 ATC 4028; (1969) 1 ATR 40 (Broken Hill Case) in the context of interpreting former subsection 122(1) of Division 10 of Part III of the Income Tax Assessment Act 1936 (ITAA 1936). Former subsection 122(1) of the ITAA 1936 allowed a deduction where a person, in connection with the carrying on by that person of mining operations upon a mining property in Australia or the Territory of New Guinea for the purpose of gaining or producing assessable income, incurred certain capital expenditure.
-In the Broken Hill Case, the majority of the court said at CLR 271; ATC 4030; ATR 43:
-
-... as a prerequisite of the operation of the sub-section, the taxpayer must have what is described as a mining property. It is not sufficient that the taxpayer has rights over mineral bearing land. There can be no mining property without some activity to attract the description of 'mining' to the property. To have 10,000 acres of bushland to be developed into a grazing property is not, of itself, enough to make a 'grazing property', and similarly to have mining rights, either by way of ownership or otherwise, over an area containing thousands of tons of ironstone is not, without something more, to have a mining property.
- Actual mining may not be necessary but steps for mining, at least, must have been taken
- . (Emphasis added)
-
-Following the decision of the High Court in the Broken Hill Case a new Division 10 of Part III of the ITAA 1936 was inserted by the Income Tax Assessment Act (No. 2) 1968. The new Division 10 of Part III of the ITAA 1936 contained a definition of 'prescribed mining operations' in subsection 122(1) of the ITAA 1936.
+In the Broken Hill Case, the majority of the court said at CLR 271; ATC 4030; ATR 43: ... as a prerequisite of the operation of the sub-section, the taxpayer must have what is described as a mining property. It is not sufficient that the taxpayer has rights over mineral bearing land. There can be no mining property without some activity to attract the description of 'mining' to the property. To have 10,000 acres of bushland to be developed into a grazing property is not, of itself, enough to make a 'grazing property', and similarly to have mining rights, either by way of ownership or otherwise, over an area containing thousands of tons of ironstone is not, without something more, to have a mining property. Actual mining may not be necessary but steps for mining, at least, must have been taken . (Emphasis added) Following the decision of the High Court in the Broken Hill Case a new Division 10 of Part III of the ITAA 1936 was inserted by the Income Tax Assessment Act (No. 2) 1968. The new Division 10 of Part III of the ITAA 1936 contained a definition of 'prescribed mining operations' in subsection 122(1) of the ITAA 1936.
 Whilst the concept of mining operations changed with the introduction of the defined term 'prescribed mining operations', the meaning of the term 'mining property' has not changed. This view is supported by the majority of the full Federal Court in Federal Commissioner of Taxation v. Pine Creek Goldfields Ltd [1999] FCA 1267; (1999) FCR 263; (1999) 42 ATR 758; (1999) 99 ATC 4904 which affirmed the judicial interpretation of the meaning of the term 'mining property' in the Broken Hill Case.
 Given the history of the legislative scheme, it is the Commissioner's view that for the purposes of subparagraph 40-80(1)(b)(ii) and Division 40 of the ITAA 1997 generally, the meaning of the term 'mining property' has not changed since it was judicially considered in the Broken Hill Case.
 In these circumstances, it is the Commissioner's view that a mining property does not require extraction of minerals to be actually taking place on the land the subject of the exploration right. A mining property may exist if steps for mining, that is, activities directed toward preparing a site for those operations are taking place on the subject land. A taxpayer may have a mining property for the purposes of the law though the taxpayer is acting only under an exploration right.
 In this case, it is the Commissioner's view that the taxpayer had a mining property because the taxpayer had made a decision to mine and had subsequently done drilling on the land the subject of the exploration right which was an activity directed towards preparation for mining on that land.
-Date of decision:
-  24 June 2009
-
-Year of income:
-  Year ended 31 December 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 40   subsection 40-30(2)   section 40-40   paragraph 40-80(1)(a)   paragraph 40-80(1)(b)   subparagraph 40-80(1)(b)(ii)   paragraph 40-80(1)(c)   section 40-730   subsection 40-730(4)   subparagraph 40-730(4)(a)(i)
-Income Tax Assessment Act 1936   former Division 10 of Part III   former subsection 122(1)
-
-Case References:
-
-Federal Commissioner of Taxation v Broken Hill Pty Co Ltd   120 CLR 240   69 ATC 4028   1 ATR 40
-
-Federal Commissioner of Taxation v Pine Creek Goldfields Ltd   [1999] FCA 1267   42 ATR 758   99 ATC 4904
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/23
-
-Related ATO Interpretative Decisions
-
- ATO ID 2007/116
- ATO ID 2010/64
- ATO ID 2010/65
- ATO ID 2010/65
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001
-
-Keywords
-
-Deduction for depreciating assets
- Depreciating assets
- Intangible depreciating assets
- Uniform capital allowances system
-
-Business Line:
-  Administration, Business and Personal Taxes Centre of Expertise
-
-Date of publication:
-  19 March 2010
-
-ISSN:
- 1445 - 2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-24 June 2009
-Original statement
-
-You are here
+Date of decision: 24 June 2009 Year of income: Year ended 31 December 2007 Legislative References: Income Tax Assessment Act 1997 Division 40 subsection 40-30(2) section 40-40 paragraph 40-80(1)(a) paragraph 40-80(1)(b) subparagraph 40-80(1)(b)(ii) paragraph 40-80(1)(c) section 40-730 subsection 40-730(4) subparagraph 40-730(4)(a)(i)
+Income Tax Assessment Act 1936 former Division 10 of Part III former subsection 122(1) Case References: Federal Commissioner of Taxation v Broken Hill Pty Co Ltd 120 CLR 240 69 ATC 4028 1 ATR 40 Federal Commissioner of Taxation v Pine Creek Goldfields Ltd [1999] FCA 1267 42 ATR 758 99 ATC 4904 Related Public Rulings (including Determinations) Taxation Ruling TR 98/23 Related ATO Interpretative Decisions ATO ID 2007/116 ATO ID 2010/64 ATO ID 2010/65 ATO ID 2010/65 Other References: Explanatory Memorandum to the New Business Tax System (Capital Allowances) Bill 2001 Keywords Deduction for depreciating assets Depreciating assets Intangible depreciating assets Uniform capital allowances system Business Line: Administration, Business and Personal Taxes Centre of Expertise Date of publication: 19 March 2010 ISSN: 1445 - 2782 history Date: Version: 24 June 2009
+Original statement You are here
 13 June 2018
 Archived

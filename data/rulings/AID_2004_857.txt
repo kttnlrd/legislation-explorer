@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/857
-==================================================
-
-Income Tax
- Application of the foreign exchange (forex) provisions to a loan entered into before 1 July 2003
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Application of the foreign exchange (forex) provisions to a loan entered into before 1 July 2003 FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a forex realisation gain or loss made under forex realisation event 4 upon repayment of the principal under a foreign currency denominated loan that was entered into before 1 July 2003 taken into account for the purposes of Division 775 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. A forex realisation gain or loss made under forex realisation event 4 upon the repayment of a foreign currency denominated loan entered into before 1 July 2003 will be disregarded for the purposes of Division 775 pursuant to subsection 775-165(4) of the ITAA 1997. A gain or loss may however be taken into account under other provisions of the Income Tax Assessment Act 1936 (ITAA 1936) or the ITAA 1997.
@@ -26,78 +13,18 @@ Reasons for Decision
 Forex realisation event 4 happens when a taxpayer ceases to have an obligation, or part of an obligation, to pay foreign currency.
 For forex realisation event 4 to happen the relevant obligation must cease and the obligation must fall within one of the categories listed in paragraph 775-55(1)(b) of the ITAA 1997. In this particular case, the obligation falls within subparagraph 775-55(1)(b)(ix) - an obligation incurred in return for receiving an amount of foreign currency (that is, the principal amount of the loan).
 When the taxpayer redeemed the loan, that obligation ceased by way of payment. On redemption the taxpayer made a forex realisation loss as a result of forex realisation event 4 happening.
-Subsection 775-165(4) of the ITAA 1997 operates to disregard forex losses (or gains) made as a result of forex realisation event 3 or 4 happening to an obligation or part of an obligation if:
-
-•the obligation was incurred before the taxpayer's applicable commencement date; or the obligation arose under an eligible contract (within the meaning of the former Division 3B of Part III of the ITAA 1936) that was entered into before the applicable commencement date; and
-•the taxpayer had not made an election under section 775-150 to have Division 775 apply to such transactions.
-
-In this case the taxpayer's applicable commencement date was 1 July 2003. The obligation to repay the principal was incurred in January 1997, by way of entering into the loan agreement. Therefore, the obligation to pay foreign currency was incurred prior to the taxpayer's applicable commencement date of 1 July 2003.
+Subsection 775-165(4) of the ITAA 1997 operates to disregard forex losses (or gains) made as a result of forex realisation event 3 or 4 happening to an obligation or part of an obligation if: •the obligation was incurred before the taxpayer's applicable commencement date; or the obligation arose under an eligible contract (within the meaning of the former Division 3B of Part III of the ITAA 1936) that was entered into before the applicable commencement date; and
+•the taxpayer had not made an election under section 775-150 to have Division 775 apply to such transactions. In this case the taxpayer's applicable commencement date was 1 July 2003. The obligation to repay the principal was incurred in January 1997, by way of entering into the loan agreement. Therefore, the obligation to pay foreign currency was incurred prior to the taxpayer's applicable commencement date of 1 July 2003.
 Additionally, the taxpayer had not made an election under section 775-150 of the ITAA 1997 to have Division 775 apply to their foreign currency denominated transactions that were in existence at 1 July 2003.
 As such, the forex realisation loss made by the taxpayer under forex realisation event 4 will be disregarded for the purposes of Division 775 under subsection 775-165(4) of the ITAA 1997. Note however that a loss may be deductible under other provisions of the ITAA 1936 or the ITAA 1997.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-27 March 2015
+Comment 27 March 2015
 Facts
-Grammatical corrections.
-
-Reason for Decision
-Remove previous amendment history reference - now incorporated into History Table.
-
-Legislative References
-Include reference to section 775-155 of the ITAA 1997.
-
-1 March 2006
-
-Additional wording added to improve clarity.
-
-Date of decision:
-  15 September 2004
-
-Year of income:
-  Year ending 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 775-55   subparagraph 775-55(1)(b)(ix)   section 775-150   section 775-155   subsection 775-165(4)
-Income Tax Assessment Act 1936   Division 3B of Part III
-
-Keywords
-
-Foreign exchange gains and losses
- Applicable commencement date
- Foreign currency obligations
-
-Siebel/TDMS Reference Number:
-  4116633; 1-5TXB6EU; 1-CW0D1V9
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  29 October 2004
-
-Date reviewed:
-  18 April 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-15 September 2004
-Original statement
-
-You are here
+Grammatical corrections. Reason for Decision
+Remove previous amendment history reference - now incorporated into History Table. Legislative References
+Include reference to section 775-155 of the ITAA 1997. 1 March 2006 Additional wording added to improve clarity. Date of decision: 15 September 2004 Year of income: Year ending 30 June 2005 Legislative References: Income Tax Assessment Act 1997 section 775-55 subparagraph 775-55(1)(b)(ix) section 775-150 section 775-155 subsection 775-165(4)
+Income Tax Assessment Act 1936 Division 3B of Part III Keywords Foreign exchange gains and losses Applicable commencement date Foreign currency obligations Siebel/TDMS Reference Number: 4116633; 1-5TXB6EU; 1-CW0D1V9 Business Line: Private Groups and High Wealth Individuals Date of publication: 29 October 2004 Date reviewed: 18 April 2018 ISSN: 1445-2782 history Date: Version: 15 September 2004
+Original statement You are here
 27 March 2015
 Updated statement

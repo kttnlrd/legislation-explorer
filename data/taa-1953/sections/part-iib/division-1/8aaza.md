@@ -32,10 +32,10 @@ In this Part, unless the contrary intention appears: company includes any body o
 > <a id="s8AAZA-b"></a>
 > **(b)**  an amount received by the Commissioner in respect of a taxpayer as a result of the Commissioner having made a claim that is similar in nature to a foreign revenue claim (as defined in section 263-10 in Schedule 1). entity means any of the following:
 
-> <a id="s8AAZA-a"></a>
+> <a id="s8AAZA-a-2"></a>
 > **(a)**  a company;
 
-> <a id="s8AAZA-b"></a>
+> <a id="s8AAZA-b-2"></a>
 > **(b)**  a partnership;
 
 > <a id="s8AAZA-c"></a>
@@ -50,10 +50,10 @@ In this Part, unless the contrary intention appears: company includes any body o
 > <a id="s8AAZA-f"></a>
 > **(f)**  any other person. excess non-RBA credit means a credit that arises under section 8AAZLA or 8AAZLB. FS assessment debt means an FS assessment debt under:
 
-> <a id="s8AAZA-a"></a>
+> <a id="s8AAZA-a-3"></a>
 > **(a)**  subsection 19AB(2) of the Social Security Act 1991; or
 
-> <a id="s8AAZA-b"></a>
+> <a id="s8AAZA-b-3"></a>
 > **(b)**  the Student Assistance Act 1973 as in force at a time on or after 1 July 1998. non-entity joint venture has the meaning given by subsection 995-1(1) of the Income Tax Assessment Act 1997. non-RBA tax debt means a tax debt other than an RBA deficit debt. primary tax debt means any amount due to the Commonwealth directly under a taxation law (other than, except in Division 4, the Product Grants and Benefits Administration Act 2000), including any such amount that is not yet payable. matters
 
 ---

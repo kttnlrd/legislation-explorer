@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/22
-==================================================
-
-Income Tax
- Commercial debt forgiveness: whether the notional value of a debt can be less than its face value if the debtor is solvent
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Commercial debt forgiveness: whether the notional value of a debt can be less than its face value if the debtor is solvent FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the notional value of a fixed term debt for the purposes of the debt forgiveness rules in subsection 245-55(1) of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936) be less than its face value if the debtor is solvent at all times?
 Decision
 Yes. In determining the notional value of the debt under subsection 245-55(1) of Schedule 2C to the ITAA 1936, the first applicable amount as calculated under subsection 245-55(2) can be less than the face value of the debt where, because of the debt's fixed term and fixed interest rate, the value of the debt has become less than the prevailing market rate of interest.
@@ -27,28 +16,4 @@ The first applicable amount is to be determined on the assumption (as per the fa
 Although Debtor had the capacity to fully repay its debts, the value of Creditor's note had become less than its face value because the fixed interest rate it carried was less than the relevant prevailing interest rate and Creditor had no power to demand either its early repayment or an increase in its interest rate. In view of the fact that Creditor was unable to sell the note for a greater amount to a third party it is considered that the value of the note as an asset of Creditor at the time of forgiveness upon redemption is the amount paid by Debtor.
 The second applicable amount is to be determined on the assumption that there has been no change in the market variables prior to the forgiveness of the debt. If the market variable of interest rates had not changed due to the Global Financial Crisis, the value of the notes would have remained the same, being their face value. The second applicable amount is therefore the face value of the debt.
 As the first applicable amount being the amount paid by Debtor to redeem the note is less than the second applicable amount (face value of the debt) the notional value of the debt is the discounted amount paid by the Debtor upon redemption.
-Date of decision:
-  24 February 2011
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2C subsection 245-55(1)   Schedule 2C subsection 245-55(2)   Schedule 2C subsection 245-55(3)   Schedule 2C paragraph 245-55(3)(b)   Schedule 2C section 245-60   Schedule 2C section 245-61
-
-Keywords
-
-Debt forgiveness
-
-Siebel/TDMS Reference Number:
-  1-2LNHJJH
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 March 2011
-
-ISSN:
- 1445-2782
+Date of decision: 24 February 2011 Year of income: Year ended 30 June 2009 Legislative References: Income Tax Assessment Act 1936 Schedule 2C subsection 245-55(1) Schedule 2C subsection 245-55(2) Schedule 2C subsection 245-55(3) Schedule 2C paragraph 245-55(3)(b) Schedule 2C section 245-60 Schedule 2C section 245-61 Keywords Debt forgiveness Siebel/TDMS Reference Number: 1-2LNHJJH Business Line: Public Groups and International Date of publication: 4 March 2011 ISSN: 1445-2782

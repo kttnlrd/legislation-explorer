@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/403
-==================================================
-
-Income Tax
- Deductions: meaning of 'incurred' - estimate of future warranty costs
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deductions: meaning of 'incurred' - estimate of future warranty costs FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, a manufacturer of goods, entitled to a deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for an amount representing an estimate of its liability for future warranty costs, in respect of goods sold during the income year?
 Decision
 No. The taxpayer is not entitled to a deduction under section 8-1 of the ITAA 1997 because the amount representing an estimate of its liability for future warranty costs is not a loss or outgoing that the taxpayer has incurred during the income year.
@@ -22,73 +11,16 @@ The taxpayer contends that, due to the nature of its goods, all faults arising u
 The taxpayer has used its records of prior year warranty claims to estimate its liability for future warranty costs in respect of goods sold during the year of income. The future warranty costs include the taxpayer's estimated salary and wages, parts and travel and freight costs to be paid in rectifying the defects.
 Reasons for Decision
 To qualify for deduction under section 8-1 of the ITAA 1997, a loss or outgoing must have been 'incurred'.
-Taxation Rulings dealing with warranty and repair costs clearly explain that manufacturers, distributors or dealers can not deduct amounts for estimated future warranty repair costs, as the costs in repairing items under warranty, are not incurred until such time as the repairs are made (Taxation Ruling TR 93/20, par 109). This is because even though a legal liability to make the repairs may have arisen, there will be no loss or outgoing until a liability to
- make payments
- relating to the repair is incurred.
-Taxation Ruling IT 2648 paragraph 38 states that:
-
-... Warranty repair costs will be incurred and are deductible in the course of effecting the repairs, e.g. when the dealer purchases spare parts and assumes a liability to pay repairers' wages.
-
-In contrast, it has been held that claims by a manufacturer who made provision for the costs of indemnifying its dealers against warranty claims, were allowable in the year the warranty commenced. In Inland Revenue, Commissioner of (NZ) v. Mitsubishi Motors New Zealand Ltd [1995] 3 NZLR 513; (1995) 31 ATR 350; 95 ATC 4711 (Mitsubishi Motors), the taxpayer motor vehicle manufacturer sold its vehicles through dealers. The dealers provided a warranty to purchasers that they would repair or replace qualifying defects arising in the vehicles during the warranty period and the taxpayer agreed to indemnify its dealers against the cost of warranty claims.
-The taxpayer claimed a deduction for an amount representing an estimate of its liability
- to indemnify dealers against future warranty claims
- in respect of vehicles sold during the income year. The Privy Council accepted the taxpayer's estimate and inferred, as the warranty period was limited to 12 months, that any qualifying defects arising in the vehicles must have been inherent at the time of sale. Hence, the Privy Council held that the taxpayer was definitively committed to, and could deduct its estimated indemnity expenditure in the income year of sale of the vehicles, because the taxpayer's liability to indemnify the dealers arose at the time of sale.
-It does not follow from Mitsubishi Motors that an amount can be deducted for an estimate of future warranty costs inrespect of
- which no loss or outgoing
- has arisen (or been 'incurred').
-Taxation Ruling TR 97/7 explains the meaning of 'incurred'. Paragraph 5 states, as a broad guide, that 'you incur an outgoing at the time you owe a present money debt that you cannot escape'. Paragraph 6 provides, in accordance with case law, that:
-
-• a loss or outgoing may be incurred, even though it remains unpaid, provided the taxpayer is definitively committed in the income year
+Taxation Rulings dealing with warranty and repair costs clearly explain that manufacturers, distributors or dealers can not deduct amounts for estimated future warranty repair costs, as the costs in repairing items under warranty, are not incurred until such time as the repairs are made (Taxation Ruling TR 93/20, par 109). This is because even though a legal liability to make the repairs may have arisen, there will be no loss or outgoing until a liability to make payments relating to the repair is incurred.
+Taxation Ruling IT 2648 paragraph 38 states that: ... Warranty repair costs will be incurred and are deductible in the course of effecting the repairs, e.g. when the dealer purchases spare parts and assumes a liability to pay repairers' wages. In contrast, it has been held that claims by a manufacturer who made provision for the costs of indemnifying its dealers against warranty claims, were allowable in the year the warranty commenced. In Inland Revenue, Commissioner of (NZ) v. Mitsubishi Motors New Zealand Ltd [1995] 3 NZLR 513; (1995) 31 ATR 350; 95 ATC 4711 (Mitsubishi Motors), the taxpayer motor vehicle manufacturer sold its vehicles through dealers. The dealers provided a warranty to purchasers that they would repair or replace qualifying defects arising in the vehicles during the warranty period and the taxpayer agreed to indemnify its dealers against the cost of warranty claims.
+The taxpayer claimed a deduction for an amount representing an estimate of its liability to indemnify dealers against future warranty claims in respect of vehicles sold during the income year. The Privy Council accepted the taxpayer's estimate and inferred, as the warranty period was limited to 12 months, that any qualifying defects arising in the vehicles must have been inherent at the time of sale. Hence, the Privy Council held that the taxpayer was definitively committed to, and could deduct its estimated indemnity expenditure in the income year of sale of the vehicles, because the taxpayer's liability to indemnify the dealers arose at the time of sale.
+It does not follow from Mitsubishi Motors that an amount can be deducted for an estimate of future warranty costs inrespect of which no loss or outgoing has arisen (or been 'incurred').
+Taxation Ruling TR 97/7 explains the meaning of 'incurred'. Paragraph 5 states, as a broad guide, that 'you incur an outgoing at the time you owe a present money debt that you cannot escape'. Paragraph 6 provides, in accordance with case law, that: • a loss or outgoing may be incurred, even though it remains unpaid, provided the taxpayer is definitively committed in the income year
 • it is not sufficient if the liability is merely contingent or no more than pending, threatened or expected, no matter how certain it is in the income year that the loss or outgoing will be incurred in the future; and
-• a taxpayer may have a presently existing liability, even though the amount of the liability cannot be precisely ascertained, provided it is capable of reasonable estimation.
-
-Taxation Ruling TR 97/15 paragraph 54 states that the decision in Mitsubishi Motors was based on the important fact that the event giving rise to the taxpayer's liability had occurred before the end of the income year, and the liability was capable of reasonable estimation. The event giving rise to the taxpayer's liability was found by the Privy Council to be the sale of a motor vehicle with an inherent defect which would manifest itself within the warranty period. It was at this time, in the income year of sale of the vehicles, that the taxpayer owed a
- present money debt
- to indemnify its dealers which it could not escape.
-In comparison, the event giving rise to the taxpayer's liability in the present case has not occurred before the end of the income year. The taxpayer is liable to repair or replace any qualifying defects in the goods that arise during the warranty period (rather than to pay an indemnity amount as in Mitsubishi Motors) and its liability arises
- in the course of effecting the repairs
- . It is only at this time, in the income year that the repairs are effected, that the taxpayer owes a present money debt which it cannot escape. Until then, the liability is no more than pending, threatened or expected, even in respect of goods which may have an inherent defect.
+• a taxpayer may have a presently existing liability, even though the amount of the liability cannot be precisely ascertained, provided it is capable of reasonable estimation. Taxation Ruling TR 97/15 paragraph 54 states that the decision in Mitsubishi Motors was based on the important fact that the event giving rise to the taxpayer's liability had occurred before the end of the income year, and the liability was capable of reasonable estimation. The event giving rise to the taxpayer's liability was found by the Privy Council to be the sale of a motor vehicle with an inherent defect which would manifest itself within the warranty period. It was at this time, in the income year of sale of the vehicles, that the taxpayer owed a present money debt to indemnify its dealers which it could not escape.
+In comparison, the event giving rise to the taxpayer's liability in the present case has not occurred before the end of the income year. The taxpayer is liable to repair or replace any qualifying defects in the goods that arise during the warranty period (rather than to pay an indemnity amount as in Mitsubishi Motors) and its liability arises in the course of effecting the repairs . It is only at this time, in the income year that the repairs are effected, that the taxpayer owes a present money debt which it cannot escape. Until then, the liability is no more than pending, threatened or expected, even in respect of goods which may have an inherent defect.
 Therefore, the taxpayer is not entitled to a deduction under section 8-1 of the ITAA 1997 because the amount representing the estimate of its liability for future warranty costs, is not incurred in the income year of sale of the goods.
-Date of decision:
-  1 September 2003
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1
-
-Case References:
-
-Inland Revenue, Commissioner of (NZ) v. Mitsubishi Motors New Zealand Ltd   [1995] 3 NZLR 513   31 ATR 350   95 ATC 4711
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 97/7
+Date of decision: 1 September 2003 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 8-1 Case References: Inland Revenue, Commissioner of (NZ) v. Mitsubishi Motors New Zealand Ltd [1995] 3 NZLR 513 31 ATR 350 95 ATC 4711 Related Public Rulings (including Determinations) Taxation Ruling TR 97/7
 Taxation Ruling IT 2648
 Taxation Ruling TR 93/20
-Taxation Ruling TR 97/15
-
-Keywords
-
-Accounting liabilities
- Accrued expenses
- Contingent liabilities
- Deductions & expenses
- Warranty charges
-
-Siebel/TDMS Reference Number:
-  3478546; 1-7U323WN, 1-E0L5UYU
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  14 May 2004
-
-Date reviewed:
-  22 March 2018
-
-ISSN:
- 1445-2782
+Taxation Ruling TR 97/15 Keywords Accounting liabilities Accrued expenses Contingent liabilities Deductions & expenses Warranty charges Siebel/TDMS Reference Number: 3478546; 1-7U323WN, 1-E0L5UYU Business Line: Private Groups and High Wealth Individuals Date of publication: 14 May 2004 Date reviewed: 22 March 2018 ISSN: 1445-2782

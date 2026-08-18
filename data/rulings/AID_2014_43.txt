@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2014/43
-==================================================
-
-Income Tax
- Consolidation: Right to Future Income: whether fees for services provided by a Responsible Entity, under a contract or agreement, in respect of a managed investment scheme is a non-deductible right to future income?
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: Right to Future Income: whether fees for services provided by a Responsible Entity, under a contract or agreement, in respect of a managed investment scheme is a non-deductible right to future income? CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a right to future income under a contract or agreement for the provision of management and investment services entered into in the course of the entity's fund management business, a non-deductible right to future income under subsection 701-63(4) of the Income Tax Assessment Act 1997 (ITAA 1997), under the Interim Rules in Part 2 of Schedule 3 to the Tax Laws Amendment (2012 Measures No 2) Act 2012?
 Decision
 Yes.
@@ -19,90 +9,26 @@ Facts
 ABC Returns (the Fund) is a managed investment scheme which is registered under Part 5C.1 of the Corporations Act 2001 (Cth). The constitution of this registered scheme (the Fund Constitution) is binding on the Responsible Entity and the members of the Fund.
 The Fund is a listed Fund on the Australian Securities Exchange.[1]
 The Fund Constitution sets out the entitlement of the Responsible Entity to receive management and investment performance fees (the management services fees), payable from the Fund's assets. The management services fees may be deducted from the unit holders' returns on their investment or from the assets of the Fund directly.
-The unit holders (the Fund members) have the following rights in accordance with Chapter 5C of the Corporations Act 2001:
-
-i)The right to remove the responsible entity under section 601FM of the Corporations Act 2001 by taking action under Division 1 of Part 2G.4 for the calling of a members' meeting to consider and vote on a resolution that the current responsible entity should be removed and a resolution choosing a new responsible entity. For a listed fund an ordinary resolution needs to be passed to remove the responsible entity (MTM Funds Management Ltd v. Cavalane Holdings Pty Ltd [2000] NSWSC 922; (2000) 158 FLR 121). Where the scheme is not listed the resolutions must be extraordinary resolutions.[2]
-ii)The right to wind up the fund in accordance with section 601NB of the Corporations Act 2001 by taking action under Division 1 of Part 2G.4 for the calling of a members' meeting to consider and vote on an extraordinary resolution directing the responsible entity to wind up the scheme.
-
-ZCo is a public company that holds a licence to act as a Responsible Entity under section 601FA of the Corporations Act 2001.
+The unit holders (the Fund members) have the following rights in accordance with Chapter 5C of the Corporations Act 2001: i)The right to remove the responsible entity under section 601FM of the Corporations Act 2001 by taking action under Division 1 of Part 2G.4 for the calling of a members' meeting to consider and vote on a resolution that the current responsible entity should be removed and a resolution choosing a new responsible entity. For a listed fund an ordinary resolution needs to be passed to remove the responsible entity (MTM Funds Management Ltd v. Cavalane Holdings Pty Ltd [2000] NSWSC 922; (2000) 158 FLR 121). Where the scheme is not listed the resolutions must be extraordinary resolutions.[2]
+ii)The right to wind up the fund in accordance with section 601NB of the Corporations Act 2001 by taking action under Division 1 of Part 2G.4 for the calling of a members' meeting to consider and vote on an extraordinary resolution directing the responsible entity to wind up the scheme. ZCo is a public company that holds a licence to act as a Responsible Entity under section 601FA of the Corporations Act 2001.
 ZCo, as the Responsible Entity of the Fund, is the Trustee of the Fund and the Fund Manager.
 On 1 July 2010 ZCo joins HCo's tax consolidated group. The Interim Rules apply to this joining.
 ZCo's right to management services fees is recognised by ZCo as an asset for consolidation tax cost setting purposes, and has a positive value at the joining time (taking into account all the related obligations). The asset receives a tax cost reflective of its market value at the joining time.
 Reasons for Decision
 All legislative references are to the Income Tax Assessment Act 1997, as they applied under the Interim Rules, unless otherwise indicated.
 The right to future income (RTFI) provisions provide recognition for the tax cost of an asset that is a right where the conditions in subsection 701-55(5C) are satisfied.
-The broad effect of the RTFI provisions in the Interim Rules, is to enable a deduction under section 716-405 for the tax cost of an asset that is a valuable right to receive an amount, under a contract or agreement, for the performance of work or services or the provision of goods (other than trading stock) where that right:
-
-•satisfies the requirements in section 716-410; and
-•is not a 'non-deductible right to future income' within the meaning of subsection 701-63(4).
-
-ZCo's right to management services fees satisfies the requirements of being a right to future income under subsection 701-63(5). That is, the right is under a contract or agreement (between ZCo as the Responsible Entity and each unit holder of the Fund (that is, the unit holders, collectively), where the right to fees is in respect of the performance of work or services. The management services fees, which are payable from the unit holders' returns on their investment or from the assets of the Fund directly, have a value of greater than nil taking into account all the obligations and conditions relating to the right.
-This right to future income is a non-deductible right to future income, pursuant to subsection 701-63(4), if:
-
-A *right to future income that is a right of an entity under a contract or agreement with another entity (the customer) is a non-deductible right to future income in relation to the entity to the extent that the value of the right to future income:
-
-(a)...
+The broad effect of the RTFI provisions in the Interim Rules, is to enable a deduction under section 716-405 for the tax cost of an asset that is a valuable right to receive an amount, under a contract or agreement, for the performance of work or services or the provision of goods (other than trading stock) where that right: •satisfies the requirements in section 716-410; and
+•is not a 'non-deductible right to future income' within the meaning of subsection 701-63(4). ZCo's right to management services fees satisfies the requirements of being a right to future income under subsection 701-63(5). That is, the right is under a contract or agreement (between ZCo as the Responsible Entity and each unit holder of the Fund (that is, the unit holders, collectively), where the right to fees is in respect of the performance of work or services. The management services fees, which are payable from the unit holders' returns on their investment or from the assets of the Fund directly, have a value of greater than nil taking into account all the obligations and conditions relating to the right.
+This right to future income is a non-deductible right to future income, pursuant to subsection 701-63(4), if: A *right to future income that is a right of an entity under a contract or agreement with another entity (the customer) is a non-deductible right to future income in relation to the entity to the extent that the value of the right to future income: (a)...
 (b)is attributable to a period (if any) during which the customer can unilaterally cancel the contract or agreement without paying compensation or a penalty; or
-(c)if there is a period during which the customer can unilaterally cancel the contract or agreement, but must pay compensation or a penalty - is attributable to that period, but not to that compensation or penalty.
-
-At the broadest level, the purpose of subsection 701-63(4) is to treat as non-deductible RTFI any value under a contract or agreement that is referrable to the future expectancy as to the rights under the contract continuing, where that value is dependent on the customer deciding to remain a customer of the business. Only the value referable to the non-cancellable component (or the payment of damages or compensation by the customer for the cancellation of the contract, if any) will fall for consideration as a deductible right to future income.
-The policy intent of paragraph 701-63(4)(b), as expressed at paragraph 3.77 of the Explanatory Memorandum to the Tax Laws Amendment (2012 Measures No 2) Bill 2012, is:
-
-3.77 A right to future income under a contract or agreement entered into by a joining entity with the customer is uncertain if the customer can unilaterally cancel the contract or agreement at any time without paying compensation or a penalty. In this regard, the right is not an existing right to future income but is a mere expectation that cannot be attributed to those existing rights. Therefore, the right is a non-deductible right to future income that is treated as goodwill.
-
-The deductibility of a right to future income is dependent on whether the right satisfies the requirements of subsection 701-63(4). In particular, where the right to future income is attributable to a period (if any) where the customer can unilaterally cancel the contract, paragraphs 701-63(4)(b) or (c) may apply resulting in the right being a non-deductible right to future income.
+(c)if there is a period during which the customer can unilaterally cancel the contract or agreement, but must pay compensation or a penalty - is attributable to that period, but not to that compensation or penalty. At the broadest level, the purpose of subsection 701-63(4) is to treat as non-deductible RTFI any value under a contract or agreement that is referrable to the future expectancy as to the rights under the contract continuing, where that value is dependent on the customer deciding to remain a customer of the business. Only the value referable to the non-cancellable component (or the payment of damages or compensation by the customer for the cancellation of the contract, if any) will fall for consideration as a deductible right to future income.
+The policy intent of paragraph 701-63(4)(b), as expressed at paragraph 3.77 of the Explanatory Memorandum to the Tax Laws Amendment (2012 Measures No 2) Bill 2012, is: 3.77 A right to future income under a contract or agreement entered into by a joining entity with the customer is uncertain if the customer can unilaterally cancel the contract or agreement at any time without paying compensation or a penalty. In this regard, the right is not an existing right to future income but is a mere expectation that cannot be attributed to those existing rights. Therefore, the right is a non-deductible right to future income that is treated as goodwill. The deductibility of a right to future income is dependent on whether the right satisfies the requirements of subsection 701-63(4). In particular, where the right to future income is attributable to a period (if any) where the customer can unilaterally cancel the contract, paragraphs 701-63(4)(b) or (c) may apply resulting in the right being a non-deductible right to future income.
 In the present case ZCo's dealings satisfy the requirement of a right to income arising from the fund management services provided under a contract or agreement with another entity (the customer). Although the management and investment services are specifically in respect of the assets under management, the ultimate recipients of the services are the Fund members. Accordingly it is each Fund member (or alternatively the Fund members acting in concert) that is the relevant 'entity', within the meaning of subsection 960-100(1), for the purposes of determining whether ZCo's right to management services fees is a non-deductible RTFI.
 The members of the Fund collectively, that is the unit holders acting together, can unilaterally cancel the contract, without ZCo's agreement. Specifically, sections 601FM and 601NB of the Corporations Act 2001 provide for the removal of the Responsible Entity or for the winding up of the Fund, respectively. The member (or members) of the Fund can participate in the necessary resolutions to either remove the Responsible Entity under section 601FM or wind up the scheme under section 601NB. Whether the member (or members) are successful under section 601FM or section 601NB, and the potential difficulty or likelihood of success in actually bringing about the change, are not relevant to the legislative test of whether the member (or members) - the customer- 'can unilaterally cancel' the contract or agreement.
 Instead the legislative test is focused on whether the customer (the member or members) 'can' bring to an end the current Responsible Entity's right to future income without the agreement of ZCo. The removal of ZCo as the Responsible Entity or the winding up of the Fund, at the direction of members, can both bring about the termination of ZCo as the Responsible Entity and end its right to receive future income. Thus, collectively the Fund members are able to unilaterally cancel the contract or agreement by removing or replacing the Responsible Entity or winding up the Fund. The ability of the members to collectively give effect to the necessary resolution means that there is a mere expectancy with respect to ZCo's right to management services fees.
-Accordingly, the right to management services fees is a non-deductible RTFI and as such would not satisfy the necessary conditions in subsection 701-55(5C) for HCo to be eligible to claim a deduction for the tax cost of that right. This non-deductible RTFI is instead treated as an asset forming part of goodwill.
-
-[1]
-For the purposes of this ATOID the Fund is a listed fund. However the principles articulated in this ATOID as to whether the customer (the Fund member or members) can unilaterally cancel the contract or agreements is equally applicable to a Fund that is not a listed Fund.
-
-[2]
-An extraordinary resolution in relation to a registered scheme means a resolution:
-
-a)of which notice as set out in paragraph 252J(c) has been given; and
-b)that has been passed by at least 50% of the total votes that may be cast by members entitled to vote on the resolution (including members who are not present in person or by proxy): Part 1.2, Division 1, Section 9 Dictionary, Corporations Act 2001.
-
-Date of decision:
-  16 December 2014
-
-Year of income:
-  2002 onwards where the interim rule applies
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 701-63(4)   subsection 701-63(5)   section 716-410   subsection 701-55(5C)   subsection 960-100(1)   Division 230
-Corporations Act 2001   section 601GA   section 601FA   section 601FM   section 601NB
-Tax Laws Amendment (2012 Measures No 2) Act 2012   The Act
-
-Case References:
-
-MTM Funds Management Ltd v. Cavalane Holdings Pty Ltd   [2000] NSWSC 922   (2000) 158 FLR 121
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (2012 Measures No 2) Bill 2012
-
-Keywords
-
-right to future income
- Fund management
- Managed investment scheme
- non deductible right to future income
- fund management contract
- unilaterally cancel
- tax cost setting amount
-
-Siebel/TDMS Reference Number:
-  1-678FUHK
-
-Business Line:
-  Tax Counsel Network
-
-Date of publication:
-  19 December 2014
-
-ISSN:
- 1445-2782
+Accordingly, the right to management services fees is a non-deductible RTFI and as such would not satisfy the necessary conditions in subsection 701-55(5C) for HCo to be eligible to claim a deduction for the tax cost of that right. This non-deductible RTFI is instead treated as an asset forming part of goodwill. [1]
+For the purposes of this ATOID the Fund is a listed fund. However the principles articulated in this ATOID as to whether the customer (the Fund member or members) can unilaterally cancel the contract or agreements is equally applicable to a Fund that is not a listed Fund. [2]
+An extraordinary resolution in relation to a registered scheme means a resolution: a)of which notice as set out in paragraph 252J(c) has been given; and
+b)that has been passed by at least 50% of the total votes that may be cast by members entitled to vote on the resolution (including members who are not present in person or by proxy): Part 1.2, Division 1, Section 9 Dictionary, Corporations Act 2001. Date of decision: 16 December 2014 Year of income: 2002 onwards where the interim rule applies Legislative References: Income Tax Assessment Act 1997 subsection 701-63(4) subsection 701-63(5) section 716-410 subsection 701-55(5C) subsection 960-100(1) Division 230
+Corporations Act 2001 section 601GA section 601FA section 601FM section 601NB
+Tax Laws Amendment (2012 Measures No 2) Act 2012 The Act Case References: MTM Funds Management Ltd v. Cavalane Holdings Pty Ltd [2000] NSWSC 922 (2000) 158 FLR 121 Other References: Explanatory Memorandum to the Tax Laws Amendment (2012 Measures No 2) Bill 2012 Keywords right to future income Fund management Managed investment scheme non deductible right to future income fund management contract unilaterally cancel tax cost setting amount Siebel/TDMS Reference Number: 1-678FUHK Business Line: Tax Counsel Network Date of publication: 19 December 2014 ISSN: 1445-2782

@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2005/191
-==================================================
-
-Income tax
- Right to tax dividends paid to non-resident company: application of Article 10(7) of the Australia-United States Double Tax Convention
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Right to tax dividends paid to non-resident company: application of Article 10(7) of the Australia-United States Double Tax Convention FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are dividends received by the taxpayer, a holding company resident in the United States of America (US), from a US resident subsidiary conducting business in Australia through a permanent establishment (PE) in Australia, included in assessable income under paragraph 44(1)(b) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. Under Article 10(7) of the Australia-United States Double Taxation Convention (US Convention), the dividends received by the taxpayer, a US resident holding company, from a US resident subsidiary which conducts business in Australia through a PE, are not subject to tax in Australia.
@@ -28,54 +15,13 @@ Reasons for Decision
 Paragraph 44(1)(b) of the ITAA 1936 provides that the assessable income of a non-resident shareholder in a company, whether the company is a resident or a non-resident, includes dividends paid to that shareholder by the company, to the extent to which they are paid out of profits derived by it from sources in Australia. In this respect, paragraph 44(1)(b) operates to include in a shareholder's assessable income the dividends that the taxpayer receives from the company within its group that carries on business in Australia.
 In determining liability to Australian tax on income derived by the taxpayer, the US Convention contained in Schedules 2 and 2A of the International Tax Agreements Act 1953 (Agreements Act) must also be considered.
 Subsection 4(1) of the Agreements Act incorporates ITAA 1936 and the Income Tax Assessment Act 1997 (ITAA 1997) into the Agreements Act such that these Acts are read as one. Subsection 4(2) of the Agreements Act provides that the Agreements Act prevails over the ITAA 1936 and the ITAA 1997 where there are inconsistent provisions, except in some limited circumstances that do not apply for present purposes.
-Article 10(7) of the US Convention provides that, subject to certain exceptions, Australia may not impose any tax on dividends, even if the dividends paid consist wholly or partly of profits or income arising in Australia, where:
-
-•the company paying the dividends is a US resident and derives profits or income from Australia; and
-•the person who is beneficially entitled to the dividends is not a resident of Australia.
-
-One of the exceptions contained in Article 10(7) of the US Convention is where the holding in respect of which the dividends are paid, is effectively connected with a PE in Australia.
+Article 10(7) of the US Convention provides that, subject to certain exceptions, Australia may not impose any tax on dividends, even if the dividends paid consist wholly or partly of profits or income arising in Australia, where: •the company paying the dividends is a US resident and derives profits or income from Australia; and
+•the person who is beneficially entitled to the dividends is not a resident of Australia. One of the exceptions contained in Article 10(7) of the US Convention is where the holding in respect of which the dividends are paid, is effectively connected with a PE in Australia.
 In this case, the taxpayer is not an Australian resident. In addition, the taxpayer is beneficially entitled to the dividends paid to it by a US resident deriving income from a PE in Australia. Accordingly, the dividends that the taxpayer receives are not subject to tax in Australia unless the exception stated above applies.
 While the profits from which the dividends are paid were derived by the subsidiary through its PE in Australia, the US resident subsidiary paid the dividends to the taxpayer, its US resident parent, not to a PE in Australia. Hence, the taxpayer's holding, in respect of which the dividends were paid, was not effectively connected with a PE in Australia. The exception stated above contained in Article 10(7) does not apply in this case.
 Article 10(7) of the US Convention is based upon Article 10(5) of the OECD Model. Consequently, the OECD Model and its associated Commentary are important factors in setting the context for Article 10(7) of the US Convention.
-Paragraph 34 of the Commentary on Article 10 of the OECD Model states:
-
-Paragraph 5 rules out the extra-territorial taxation of dividends i.e. the practice by which States tax dividends distributed by a non-resident company solely because the corporate profits from which the distributions are made originated in their territory (for example, realised through a permanent establishment situated therein). There is, of course, no question of extra-territorial taxation when the country of source of the corporate profits taxes the dividends because they are paid to a shareholder who is a resident of that State or to a permanent establishment situated in that State. [emphasis added]
-
-Paragraph 34 of the Commentary on Article 10 of the OECD Model is consistent with the position reached above regarding the application of Article 10(7) of the US Convention.
+Paragraph 34 of the Commentary on Article 10 of the OECD Model states: Paragraph 5 rules out the extra-territorial taxation of dividends i.e. the practice by which States tax dividends distributed by a non-resident company solely because the corporate profits from which the distributions are made originated in their territory (for example, realised through a permanent establishment situated therein). There is, of course, no question of extra-territorial taxation when the country of source of the corporate profits taxes the dividends because they are paid to a shareholder who is a resident of that State or to a permanent establishment situated in that State. [emphasis added] Paragraph 34 of the Commentary on Article 10 of the OECD Model is consistent with the position reached above regarding the application of Article 10(7) of the US Convention.
 Where the exception stated above in Article 10(7) of the US Convention does not apply, Article 10(7) is inconsistent with paragraph 44(1)(b) of the ITAA 1936. By operation of section 4(2) of the Agreements Act, Article 10(7) of the US Convention prevails over paragraph 44(1)(b) of the ITAA 1936.
 Under Article 10(7) of the US Convention, the dividends received by the taxpayer are not included in its assessable income, notwithstanding paragraph 44(1)(b) of the ITAA 1936. Thus, Australia is prohibited from imposing tax on the dividends that the taxpayer receives from its US resident subsidiary that has a PE in Australia.
-Date of decision:
-  21 June 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-International Tax Agreements Act 1953   section 4   subsection 4(1)   subsection 4(2)   section 6   section 6AA   Schedule 2, Article 10(7)   Schedule 2A, Article 6
-Income Tax Assessment Act 1936   paragraph 44(1)(b)
-
-Other References:
-
-OECD Model Tax Convention on Income and on Capital Article 10(5)
-
-Keywords
-
-Double tax agreements
- International tax
- Non resident dividend withholding tax
- Permanent establishment
- Treaties
- Dividends
-
-Siebel/TDMS Reference Number:
-  4546080
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 July 2005
-
-ISSN:
- 1445-2782
+Date of decision: 21 June 2005 Year of income: Year ended 30 June 2005 Legislative References: International Tax Agreements Act 1953 section 4 subsection 4(1) subsection 4(2) section 6 section 6AA Schedule 2, Article 10(7) Schedule 2A, Article 6
+Income Tax Assessment Act 1936 paragraph 44(1)(b) Other References: OECD Model Tax Convention on Income and on Capital Article 10(5) Keywords Double tax agreements International tax Non resident dividend withholding tax Permanent establishment Treaties Dividends Siebel/TDMS Reference Number: 4546080 Business Line: Public Groups and International Date of publication: 8 July 2005 ISSN: 1445-2782

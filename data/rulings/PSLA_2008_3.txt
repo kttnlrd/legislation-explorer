@@ -1423,31 +1423,31 @@ Protection from false or misleading statement penalty?
 Protection from interest charges?
 Related practice statement paragraph numbers
 Legally binding advice
-•  Public Ruling - Division 358
+• Public Ruling - Division 358
 YES
 YES
 YES
 2
 29 - 45
-•  Product Ruling
+• Product Ruling
 YES
 YES
 YES
 2
 51 - 59
-•  Class Ruling
+• Class Ruling
 YES
 YES
 YES
 2
 60 - 65
-•  Private Ruling - Division 359
+• Private Ruling - Division 359
 YES
 YES
 YES
 2
 80 - 123
-•  Oral Ruling - Division 360
+• Oral Ruling - Division 360
 YES
 YES
 YES
@@ -1455,7 +1455,7 @@ YES
 145 - 182
 Administratively binding advice
 ^ Level of protection is subject to conditions set out in paragraph 199 of this practice statement
-•  Administratively binding advice
+• Administratively binding advice
 YES^
 YES
 YES
@@ -1463,70 +1463,70 @@ YES
 190 - 204
 Guidance
 * Statement penalty and interest charges may be remitted in individual cases for reasons unrelated to the guidance relied on
-•  Published speeches and minutes of consultative forums
+• Published speeches and minutes of consultative forums
 NO
 YES
 YES
 2
 218 - 220
-•  Decision impact statements
+• Decision impact statements
 NO
 YES
 YES
 2
 224 - 225
-•  Media releases
+• Media releases
 NO
 YES
 YES
 2
 221 - 223
-•  Internal publications:
--  ATO interpretative decisions
+• Internal publications:
+- ATO interpretative decisions
 NO
 YES
 YES
 2
 226 - 230
--  Law administration practice statements
+- Law administration practice statements
 NO
 YES
 YES
 2
 231 - 236
--  Technical skilling material
+- Technical skilling material
 NO
 YES
 YES
 2
 237 - 240
-•  ATO communications not intended to be relied on
+• ATO communications not intended to be relied on
 NO
 NO*
 NO*
 241 - 244
-•  Edited versions
+• Edited versions
 NO
 NO*
 NO*
 245 - 246
-•  Technical discussion papers
+• Technical discussion papers
 NO
 NO*
 NO*
 247 - 248
-•  Oral guidance
+• Oral guidance
 NO
 YES
 3
 YES
 3
 249 - 262
-1  Notwithstanding that a publication is labelled non-binding; protection against false or misleading statement penalty will be available if it is a publication that has been approved in writing by the Commissioner.
-2  Protection against interest on the shortfall is available where the taxpayer acted reasonably and in good faith. It does not cover the general interest charge for late payment of the tax shortfall; that is after 21 days of the Commissioner notifying the taxpayer the correct position. For superannuation guarantee charge matters, the protection does not extend to the nominal interest component of a superannuation guarantee shortfall under section 31 of the
+1 Notwithstanding that a publication is labelled non-binding; protection against false or misleading statement penalty will be available if it is a publication that has been approved in writing by the Commissioner.
+2 Protection against interest on the shortfall is available where the taxpayer acted reasonably and in good faith. It does not cover the general interest charge for late payment of the tax shortfall; that is after 21 days of the Commissioner notifying the taxpayer the correct position. For superannuation guarantee charge matters, the protection does not extend to the nominal interest component of a superannuation guarantee shortfall under section 31 of the
 Superannuation Guarantee (Administration) Act 1992
 .
-3  Only if taxpayer has made a full and true disclosure of the material facts relevant to their enquiry.
+3 Only if taxpayer has made a full and true disclosure of the material facts relevant to their enquiry.
 Misleading statement
 Sometimes a statement in an ATO publication might be correct, but a particular taxpayer may have been misled by it on reasonable grounds. Taxpayers who rely on ATO publications (except those labelled as non-binding) that are relevant to their circumstances but are misleading to their intended audience, and who make a mistake by relying on that publication, will be protected from false or misleading statement penalty and interest charges.
 Genuine effort to follow ATO assistance
@@ -2440,4 +2440,3 @@ Updated statement
 This Pratice Statement was originally published on 28 February 2008. Versions published from 22 December 2011 are available electronically - refer to the online version of the practice statement. Versions published prior to this date are not available electronically. If needed, these can be requested by emailing
 TCNLawPublishingandPolicy@ato.gov.au
 .
-Back to top

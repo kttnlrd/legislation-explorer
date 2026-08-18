@@ -1,70 +1,19 @@
 ATO Interpretative Decision
 ATO ID 2003/128
-==================================================
-
-income tax
- Capital Gains Tax: Date of acquisition of shares - exercise of options acquired under employee share schemes
- FOI status: may be released
-
-This ATO ID has been amended to note the repeal of Division 13A of ITAA 1936 by the Tax law Amendment (2009 Budget Measures No.2) Act 2009.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== income tax Capital Gains Tax: Date of acquisition of shares - exercise of options acquired under employee share schemes FOI status: may be released This ATO ID has been amended to note the repeal of Division 13A of ITAA 1936 by the Tax law Amendment (2009 Budget Measures No.2) Act 2009. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When is a share, acquired as the result of the exercise of an option issued under an employee share scheme taken to be acquired under Division 109 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Under section 109-10 of the ITAA 1997, shares acquired upon the exercise of an option granted under an employee share scheme, are acquired when the contract resulting from the exercise of the option is entered into and not when the contract for the acquisition of the option was entered into.
 Facts
-The taxpayer acquired options to purchase shares under an employee share scheme in August 1996. The terms and conditions of the options provided that:
-
-•the options could be exercised wholly or in part by giving written notice at anytime during the option period;
+The taxpayer acquired options to purchase shares under an employee share scheme in August 1996. The terms and conditions of the options provided that: •the options could be exercised wholly or in part by giving written notice at anytime during the option period;
 •the exercise price was payable immediately upon exercise; and
-•on receipt by the company of a notice of exercise and payment of the relevant exercise price, the company was required to allot to the option holder within 14 days the number of shares in respect of which the option was exercised.
-
-Some years later, the taxpayer exercised the option to acquire some shares. The taxpayer sold the shares less than 12 months after they exercised the option, and made a capital gain.
+•on receipt by the company of a notice of exercise and payment of the relevant exercise price, the company was required to allot to the option holder within 14 days the number of shares in respect of which the option was exercised. Some years later, the taxpayer exercised the option to acquire some shares. The taxpayer sold the shares less than 12 months after they exercised the option, and made a capital gain.
 The taxpayer sought to apply the CGT discount to the capital gain from the sale of the shares. The taxpayer argued that the shares were acquired when the taxpayer entered into the contract for the acquisition of the options.
 Reasons for Decision
 Division 13A of Part III of the Income Tax Assessment Act 1936 (ITAA 1936) deals with the assessability of discounts relating to shares and rights under employee share schemes. It does not operate to determine the date at which shares are acquired when an option is exercised.
 The time of acquisition of the shares is determined in accordance with Division 109 of the ITAA 1997.
 When a company issues or allots shares, the time of acquisition of the shares is when the contract is entered into or, where there is no contract, when the shares are issued or allotted (item 2 of the table in section 109-10 of the ITAA 1997).
 In this case the shares were acquired pursuant to a contract. The shares were acquired at the time the contract that directly effected their acquisition was entered into and not at the time when the contract for the acquisition of the options was made. Prior to that time, the taxpayer had not contracted to acquire the shares but was simply in possession of an irrevocable offer to allot a share at a pre-determined price if the taxpayer chose to request the allotment within the period of the offer.
-The shares were therefore acquired when the taxpayer gave notice of the exercise of the option to request allotment of the shares and not at the time the options were acquired. As a result, the shares sold were not acquired at least 12 months prior to the date of their sale and the taxpayer is not entitled to the CGT discount.
-
-Note: Division 13A of Part III of the ITAA 1936 was repealed by the Tax Law Amendment (2009 Budget Measures No. 2) Act 2009 (133 of 2009). Division 83A of the ITAA 1997 applies to shares, rights and stapled securities acquired under an employee share scheme on or after 1 July 2009.
-
-Date of decision:
-  14 January 2003
-
-Year of income:
-  30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 109   section 109-10
-Income Tax Assessment Act 1936   Division 13A of Part III
-
-Related Public Rulings (including Determinations)
-
-Capital Gains Tax Determination TD 16
-
-Keywords
-
-Capital gains tax
- Employee share schemes & options
- Acquisition of CGT assets
-
-Siebel/TDMS Reference Number:
-  CW3220394
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 March 2003
-
-ISSN:
- 1445-2782
+The shares were therefore acquired when the taxpayer gave notice of the exercise of the option to request allotment of the shares and not at the time the options were acquired. As a result, the shares sold were not acquired at least 12 months prior to the date of their sale and the taxpayer is not entitled to the CGT discount. Note: Division 13A of Part III of the ITAA 1936 was repealed by the Tax Law Amendment (2009 Budget Measures No. 2) Act 2009 (133 of 2009). Division 83A of the ITAA 1997 applies to shares, rights and stapled securities acquired under an employee share scheme on or after 1 July 2009. Date of decision: 14 January 2003 Year of income: 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Division 109 section 109-10
+Income Tax Assessment Act 1936 Division 13A of Part III Related Public Rulings (including Determinations) Capital Gains Tax Determination TD 16 Keywords Capital gains tax Employee share schemes & options Acquisition of CGT assets Siebel/TDMS Reference Number: CW3220394 Business Line: Public Groups and International Date of publication: 15 March 2003 ISSN: 1445-2782

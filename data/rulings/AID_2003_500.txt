@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/500
-==================================================
-
-Income Tax
- Deducting tax loss: saving rule - indirect equity interest subject to two CGT events in the ownership test period
- FOI status: may be released
-
-This ATO ID has been amended to clarify legislative changes repealed by the Tax Laws Amendment (2007 Measures No 4) Act of 2007 with effect from 24 September 2007.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deducting tax loss: saving rule - indirect equity interest subject to two CGT events in the ownership test period FOI status: may be released This ATO ID has been amended to clarify legislative changes repealed by the Tax Laws Amendment (2007 Measures No 4) Act of 2007 with effect from 24 September 2007. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where two separate CGT events happen in relation to an indirect equity interest in a loss company during the relevant ownership test period (but after the loss year) is a capital loss from the second CGT event taken into account in determining the extent to which the loss company's tax loss has been 'reflected' for the purposes of applying subsection 165-12(7) of the Income Tax Assessment Act 1997 (ITAA 1997) if no roll-over occurred in relation to the first CGT event?
 Decision
 No. As the first CGT event in relation to the indirect equity interest in the loss company happened after the end of the loss year, and was not subject to a roll-over, the amount of capital loss resulting from the happening of the second CGT event to that interest, is unaffected by the tax loss and therefore cannot have reflected it.
@@ -27,39 +14,7 @@ The second CGT event happened when Company R disposed of the same interest to In
 Neither capital loss was subject to a roll-over or disregarded under Subdivision 170-D of the ITAA 1997 or any other provision.
 As a result of Loss Company having incurred the relevant tax loss, Company K made a greater capital loss than it otherwise would have.
 Reasons for Decision
-Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied because of the operation of section 165-165 of the ITAA 1997 that the condition can be taken as being satisfied where:
-
-"the company has information from which it would be reasonable to assume that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct equity interests or *indirect equity interests in the company during the *ownership test period."
-
-*denotes a term defined in subsection 995-1(1) of the ITAA 1997
-
-As the first CGT event in relation to the indirect equity interest was not subject to a roll-over or otherwise disregarded, the capital loss made by Company K will reflect Loss Company's tax loss as the capital loss is more than it otherwise would have been because of the tax loss.
+Subsection 165-12(7) of the ITAA 1997 provides that where a condition in subsection 165-12(2), 165-12(3) or 165-12(4) is not satisfied because of the operation of section 165-165 of the ITAA 1997 that the condition can be taken as being satisfied where: "the company has information from which it would be reasonable to assume that less than 50% of the *tax loss has been reflected in deductions, capital losses or reduced assessable income, that occurred, or could occur in future, because of the happening of any *CGT event in relation to any *direct equity interests or *indirect equity interests in the company during the *ownership test period." *denotes a term defined in subsection 995-1(1) of the ITAA 1997 As the first CGT event in relation to the indirect equity interest was not subject to a roll-over or otherwise disregarded, the capital loss made by Company K will reflect Loss Company's tax loss as the capital loss is more than it otherwise would have been because of the tax loss.
 The calculation of the capital loss made by Company R from the happening of the second CGT event is unaffected by the relevant tax loss.
 [HISTORY: This ATO ID has been amended to include the (*) asterisk when reference is made in subsection 165-12(7) to direct equity interests and indirect equity interests having been made defined terms under subsection 995-1(1) of ITAA 1997. The amendment also removes from the ATO ID any reference to subsection 165-12(9) of the ITAA 1997 repealed by the Tax Laws Amendment (2007 Measures No 4) Act 2007 with effect from 24 September 2007.]
-Date of decision:
-  8 May 2003
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 104-10(4)   subsection 165-12(1)   subsection 165-12(2)   subsection 165-12(3)   subsection 165-12(4)   subsection 165-12(7)   section 165-165   section 995-1   Subdivision 170-D
-
-Keywords
-
-Capital losses
- Losses and Capital Gains Tax CoE
- Net capital losses
-
-Siebel/TDMS Reference Number:
-  3561390
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  27 June 2003
-
-ISSN:
- 1445-2782
+Date of decision: 8 May 2003 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 subsection 104-10(4) subsection 165-12(1) subsection 165-12(2) subsection 165-12(3) subsection 165-12(4) subsection 165-12(7) section 165-165 section 995-1 Subdivision 170-D Keywords Capital losses Losses and Capital Gains Tax CoE Net capital losses Siebel/TDMS Reference Number: 3561390 Business Line: Public Groups and International Date of publication: 27 June 2003 ISSN: 1445-2782

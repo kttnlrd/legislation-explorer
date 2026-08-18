@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/18
-==================================================
-
-Company tax
- Group company loss transfers - loss company inactive during deduction year
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Company tax Group company loss transfers - loss company inactive during deduction year FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a prior year tax loss be transferred between two companies in the same wholly-owned group, pursuant to Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997), if the loss company was inactive during the income year of the transfer (the 'deduction year')?
 Decision
 Yes. A prior year tax loss can be transferred if the loss company was inactive during the income year of the transfer (the 'deduction year') because the loss company meets the requirement of being in existence during the deduction year in accordance with subsections 170-30(1) and former subsection 975-100(1) of the ITAA 1997.
@@ -22,49 +11,5 @@ On the first day of the income year ended 30 June 2002, the holding company comb
 Reasons for Decision
 Subdivision 170-A of the ITAA 1997 allows for the transfer of tax losses within wholly-owned company groups if certain conditions are met.
 One of the conditions for the transfer of losses is that both the loss company and the income company must be in existence during at least part of each of the loss year, the deduction year and any intervening year (subsection 170-30(1) of the ITAA 1997). The phrase 'in existence' is defined in former subsection 975-100(1) of the ITAA 1997 as follows:
-A company is in existence if:
-
-(a)it has been incorporated; and
-(b)it has not been dissolved.
-
-Note: The repeal of section 975-100 of the ITAA 1997 was effective from 1 April 2005. It therefore applies in the income years with which this ATO ID is concerned.
-
-Thus, the subsidiary company in this case is considered to be in existence during the deduction year since it has not been dissolved. Accordingly, the subsidiary company is able to transfer surplus tax losses to the holding company (provided the other conditions for transferring a tax loss in Subdivision 170-A are met).
-
-Note: For most companies, Division 170 of the ITAA 1997 ceased to apply in income years starting after 30 June 2003.
-
-Date of decision:
-  11 November 2002
-
-Year of income:
-  Year ending 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 170-A   subsection 170-30(1)   Section 975-100   subsection 975-100(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/19
- ATO ID 2003/21
- ATO ID 2003/22
- ATO ID 2003/23
-
-Keywords
-
-Group company loss transfers
- Carry forward losses
- Losses
- Losses CoE
-
-Siebel/TDMS Reference Number:
-  CRS78678
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  14 February 2003
-
-ISSN:
- 1445-2782
+A company is in existence if: (a)it has been incorporated; and
+(b)it has not been dissolved. Note: The repeal of section 975-100 of the ITAA 1997 was effective from 1 April 2005. It therefore applies in the income years with which this ATO ID is concerned. Thus, the subsidiary company in this case is considered to be in existence during the deduction year since it has not been dissolved. Accordingly, the subsidiary company is able to transfer surplus tax losses to the holding company (provided the other conditions for transferring a tax loss in Subdivision 170-A are met). Note: For most companies, Division 170 of the ITAA 1997 ceased to apply in income years starting after 30 June 2003. Date of decision: 11 November 2002 Year of income: Year ending 30 June 2002 Legislative References: Income Tax Assessment Act 1997 Subdivision 170-A subsection 170-30(1) Section 975-100 subsection 975-100(1) Related ATO Interpretative Decisions ATO ID 2003/19 ATO ID 2003/21 ATO ID 2003/22 ATO ID 2003/23 Keywords Group company loss transfers Carry forward losses Losses Losses CoE Siebel/TDMS Reference Number: CRS78678 Business Line: Public Groups and International Date of publication: 14 February 2003 ISSN: 1445-2782

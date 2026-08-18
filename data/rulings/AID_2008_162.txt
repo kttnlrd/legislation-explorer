@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/162
-==================================================
-
-Superannuation
- Excess Contributions Tax: notional taxed contributions - PSS Defined Benefit Interest
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Excess Contributions Tax: notional taxed contributions - PSS Defined Benefit Interest FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In determining a person's concessional contributions under section 291-165 of the Income Tax Assessment Act 1997 (ITAA 1997) for a financial year, is the person's notional taxed contributions in respect of their interest in the Public Sector Superannuation Scheme (PSS) equal to the employer productivity contributions made for them to the fund in the financial year?
 Decision
 Yes. A person's notional taxed contributions in respect of their interest in the PSS is equal to the employer's productivity contributions made for them to the fund for the financial year.
@@ -23,94 +10,24 @@ The taxpayer is a member of the PSS.
 The PSS is a defined benefit scheme.
 The taxpayer has employer contributions made to an accumulation interest in another superannuation fund under a salary sacrifice arrangement.
 Reasons for Decision
-Section 291-25 of the ITAA 1997 sets out the amount of concessional contributions for a person for a financial year. Generally, a contribution will be a concessional contribution if:
-
-•it is made in the financial year to a complying superannuation plan; and
+Section 291-25 of the ITAA 1997 sets out the amount of concessional contributions for a person for a financial year. Generally, a contribution will be a concessional contribution if: •it is made in the financial year to a complying superannuation plan; and
 •it is included in the assessable income of the superannuation provider in relation to the plan; and
-•it is not specifically excluded from being a concessional contribution under paragraph 291-25(2)(c) of the ITAA 1997.
-
-Subsection 291-25(3) of the ITAA 1997 also includes an amount as a concessional contribution where it is allocated to a member by the superannuation provider for the year in accordance with conditions specified in the regulations.
-Subdivision 291-C of the ITAA 1997 modifies the meaning of concessional contributions as it relates to defined benefit interests. According to section 291-165 of the ITAA 1997, the amount of an individual's concessional contributions for a financial year is the sum of:
-
-(a)the contributions covered by subsection 291-25(2), and the amounts covered by subsection 291-25(3), to the extent to which they do not relate to the *defined benefit interest or interests; and
-(b)your *notional taxed contributions for the financial year in respect of the defined benefit interest or interests.
-
-Members of the PSS are entitled to a defined benefit from the fund. The defined benefit is partially met by contributions made into the fund in respect of the member and earnings on those contributions. The member's own contributions and employer productivity contributions are made to the fund in respect of the member. The PSS allocates earnings on these contributions. The PSS refers to the member's own contributions and earnings on those contributions as the member component. The PSS refers to the employer productivity contributions and the earnings on those contributions as the productivity component. The balance of a member's benefit, determined at the time of leaving the fund or commencement of an income stream is met by payments directly from the consolidated revenue. This is known as the unfunded portion of the benefit. The PSS refers to it as the employer-financed component.
+•it is not specifically excluded from being a concessional contribution under paragraph 291-25(2)(c) of the ITAA 1997. Subsection 291-25(3) of the ITAA 1997 also includes an amount as a concessional contribution where it is allocated to a member by the superannuation provider for the year in accordance with conditions specified in the regulations.
+Subdivision 291-C of the ITAA 1997 modifies the meaning of concessional contributions as it relates to defined benefit interests. According to section 291-165 of the ITAA 1997, the amount of an individual's concessional contributions for a financial year is the sum of: (a)the contributions covered by subsection 291-25(2), and the amounts covered by subsection 291-25(3), to the extent to which they do not relate to the *defined benefit interest or interests; and
+(b)your *notional taxed contributions for the financial year in respect of the defined benefit interest or interests. Members of the PSS are entitled to a defined benefit from the fund. The defined benefit is partially met by contributions made into the fund in respect of the member and earnings on those contributions. The member's own contributions and employer productivity contributions are made to the fund in respect of the member. The PSS allocates earnings on these contributions. The PSS refers to the member's own contributions and earnings on those contributions as the member component. The PSS refers to the employer productivity contributions and the earnings on those contributions as the productivity component. The balance of a member's benefit, determined at the time of leaving the fund or commencement of an income stream is met by payments directly from the consolidated revenue. This is known as the unfunded portion of the benefit. The PSS refers to it as the employer-financed component.
 A member's interest in the PSS is a defined benefit interest, therefore under paragraph 291-165(b) of the ITAA 1997, the amount of a person's concessional contributions for the financial year will include their notional taxed contributions in respect of their defined benefit interest in the PSS for the financial year.
 Notional taxed contributions are amounts specified under section 291-170 of the ITAA 1997. Subsection 291-170(1) of the ITAA 1997 provides that a person's 'notional taxed contributions' for a financial year in respect of a defined benefit interest has the meaning given in the regulations. Subsection 291-170(2) of the ITAA 1997 indicates that the regulations made for determining a person's notional taxed contributions may also provide the method for calculating the amount of notional taxed contributions.
 For superannuation funds with five or more defined benefit members, such as the PSS, subregulation 292-170.02(2) of the Income Tax Assessment Regulations 1997 (ITAR 1997) specifies that the notional taxed contributions are contributions determined by the trustee to be notional taxed contributions, using the method set out in Schedule 1A to the ITAR 1997.
-The relevant method for the PSS is contained in section 1.6 of Schedule 1A to the ITAR 1997. It provides:
-
-1.6
- Standard method for working out amount of notional taxed contributions in respect of a benefit category for an accruing member of the benefit category if the fund benefit is wholly sourced from an accumulation of contributions made in respect of the member
-
-If the fund benefit is wholly sourced from an accumulation of concessional contributions made to a superannuation fund in respect of a member or earnings on such contributions, or an accumulation of member contributions or earnings on such contributions, the amount of notional taxed contributions for an accruing member for a financial year is the amount of concessional contributions made to the superannuation fund in respect of the member during the financial year.
-
-Section 1.5 of Schedule 1A to the ITAR 1997 explains that a 'fund benefit' as referred to in section 1.6 of Schedule 1A to the ITAR 1997 is that part of a defined benefit interest which is sourced from contributions made into a superannuation fund or earnings on such contributions.
+The relevant method for the PSS is contained in section 1.6 of Schedule 1A to the ITAR 1997. It provides: 1.6 Standard method for working out amount of notional taxed contributions in respect of a benefit category for an accruing member of the benefit category if the fund benefit is wholly sourced from an accumulation of contributions made in respect of the member If the fund benefit is wholly sourced from an accumulation of concessional contributions made to a superannuation fund in respect of a member or earnings on such contributions, or an accumulation of member contributions or earnings on such contributions, the amount of notional taxed contributions for an accruing member for a financial year is the amount of concessional contributions made to the superannuation fund in respect of the member during the financial year. Section 1.5 of Schedule 1A to the ITAR 1997 explains that a 'fund benefit' as referred to in section 1.6 of Schedule 1A to the ITAR 1997 is that part of a defined benefit interest which is sourced from contributions made into a superannuation fund or earnings on such contributions.
 In the case of the PSS, the fund benefit consists of the member's own contributions, the employer productivity contributions and the earnings on those contributions (that is, the member component and the productivity component). As the amount paid from consolidated revenue - the employer-financed component - is not sourced from an accumulation of contributions made in respect of the member, it is not part of the fund benefit.
 Section 1.6 of Schedule 1A to the ITAR 1997 applies because the fund benefit is wholly sourced from an accumulation of contributions made in respect of the member. Therefore, in accordance with section 1.6, the amount of notional taxed contributions is the amount of concessional contributions made to the PSS in respect of the member during the financial year.
 The concessional contributions are the contributions made in respect of the member and included in the assessable income of the superannuation provider but not specifically excluded under paragraph 291-25(2)(c) of the ITAA 1997. In the PSS this is the employer productivity contributions (member contributions are non-concessional contributions). Consequently, the notional taxed contributions in respect of a person's interest in the PSS is equal to the amount of the employer productivity contributions made in a financial year.
-In this case, the taxpayer's total concessional contributions for the financial year are the sum of the employer contributions made under the salary sacrifice arrangement to the accumulation interest for the financial year and the employer productivity contributions made to the PSS for the financial year.
-
-Note 1: that these contributions are subject to income tax in the hands of the receiving fund. The amount that is a concessional contribution is the entire amount of the contribution - not just the amount remaining in the member's account after the fund has taken the 15% tax out. For example, the employer will make a contribution of $1,000 but the fund will deduct 15% for income tax and the amount remaining in the member's account is $850. The amount of $1,000 is the concessional contribution.
-
-Note 2: From 1 July 2013, the rules for determining concessional contributions for defined benefit interests in section 292-170 have been repealed as part of the repeal of the excess contributions tax. These rules are now contained in section 291-170 of the ITAA 1997. However, the regulations made for the purposes of former section 292-170 of the ITAA 1997 continue to apply to determine notional taxed contributions for the purposes of section 291-170. Saving provisions in Subdivision 291-C of the ITAA 1997 ensure the continuing application of the excess concessional contributions tax system for the 2012-13 and prior financial years, despite the repeal of former section 292-170 of the ITAA 1997.
-
-Amendment History
-
-Date of amendment
+In this case, the taxpayer's total concessional contributions for the financial year are the sum of the employer contributions made under the salary sacrifice arrangement to the accumulation interest for the financial year and the employer productivity contributions made to the PSS for the financial year. Note 1: that these contributions are subject to income tax in the hands of the receiving fund. The amount that is a concessional contribution is the entire amount of the contribution - not just the amount remaining in the member's account after the fund has taken the 15% tax out. For example, the employer will make a contribution of $1,000 but the fund will deduct 15% for income tax and the amount remaining in the member's account is $850. The amount of $1,000 is the concessional contribution. Note 2: From 1 July 2013, the rules for determining concessional contributions for defined benefit interests in section 292-170 have been repealed as part of the repeal of the excess contributions tax. These rules are now contained in section 291-170 of the ITAA 1997. However, the regulations made for the purposes of former section 292-170 of the ITAA 1997 continue to apply to determine notional taxed contributions for the purposes of section 291-170. Saving provisions in Subdivision 291-C of the ITAA 1997 ensure the continuing application of the excess concessional contributions tax system for the 2012-13 and prior financial years, despite the repeal of former section 292-170 of the ITAA 1997. Amendment History Date of amendment
 Part
-Comment
-
-14 February 2014
+Comment 14 February 2014
 Reasons for Decision
-Section 292-170 of the ITAA 1997 has been repealed with effect from 1 July 2013 as part of the repeal of the excess contributions tax. Saving provisions contained in Subdivision 291-C of the ITAA 1997 ensure the continuing application of the excess concessional contributions tax system for the 2012-13 and prior financial years, despite the repeal of former section 292-170 of the ITAA 1997.
-
-Date of decision:
-  2 September 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subdivision 291-C   section 291-25   subsection 291-25(2)   paragraph 291-25(2)(c)   subsection 291-25(3)   section 291-165   paragraph 291-165(a)   paragraph 291-165(b)   section 291-170
-Income Tax Assessment Regulations 1997   subregulation 292-170.02(2)   Schedule 1A   clause 1.5 of Schedule 1A   clause 1.6 of Schedule 1A
-
-Keywords
-
-Concessional contributions
- Defined Benefit interests - non-concessional contributions
- Excess non-concessional contributions
- Superannuation excess contributions tax
-
-Siebel/TDMS Reference Number:
-  5943524; 1-7N94GYS
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  12 December 2008
-
-Date reviewed:
-  30 March 2016
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 2 September 2008
-Original statement
-
-You are here
+Section 292-170 of the ITAA 1997 has been repealed with effect from 1 July 2013 as part of the repeal of the excess contributions tax. Saving provisions contained in Subdivision 291-C of the ITAA 1997 ensure the continuing application of the excess concessional contributions tax system for the 2012-13 and prior financial years, despite the repeal of former section 292-170 of the ITAA 1997. Date of decision: 2 September 2008 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 subdivision 291-C section 291-25 subsection 291-25(2) paragraph 291-25(2)(c) subsection 291-25(3) section 291-165 paragraph 291-165(a) paragraph 291-165(b) section 291-170
+Income Tax Assessment Regulations 1997 subregulation 292-170.02(2) Schedule 1A clause 1.5 of Schedule 1A clause 1.6 of Schedule 1A Keywords Concessional contributions Defined Benefit interests - non-concessional contributions Excess non-concessional contributions Superannuation excess contributions tax Siebel/TDMS Reference Number: 5943524; 1-7N94GYS Business Line: Superannuation Date of publication: 12 December 2008 Date reviewed: 30 March 2016 ISSN: 1445-2782 history Date: Version: 2 September 2008
+Original statement You are here
 14 February 2014
 Updated statement

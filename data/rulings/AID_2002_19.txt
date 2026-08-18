@@ -1,23 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2002/19
-==================================================
-
-Goods and Services Tax
- GST and remuneration of administrator
- FOI status: may be released
-
-This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of the operation of a legislative provision that has been repealed. Division 147 of the A New Tax System (Goods and Services Tax) Act 1999 was repealed with effect from 4 December 2009.
-See ATO Interpretative Decision 2012/6 for a view in respect of the operation of Division 58 (which replaced Division 147).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and remuneration of administrator FOI status: may be released This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of the operation of a legislative provision that has been repealed. Division 147 of the A New Tax System (Goods and Services Tax) Act 1999 was repealed with effect from 4 December 2009.
+See ATO Interpretative Decision 2012/6 for a view in respect of the operation of Division 58 (which replaced Division 147). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is entity A, an administrator acting in its capacity as the representative for an incapacitated entity, entitled to input tax credits under section 11-20 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), for administration fees imposed by entity B, the administrator in its capacity as an insolvency practitioner, where entity A and entity B are the same legal person?
 Decision
 Yes, entity A is entitled to input tax credits under section 11-20 of the GST Act for administration fees imposed by entity B, where entity A and entity B are the same legal person.
@@ -27,67 +12,17 @@ The legal person is registered twice for goods and services tax (GST). Once as e
 The supply by entity B to entity A is a taxable supply under section 9-5 of the GST Act. Entity A is liable to pay entity B's fees.
 Reasons for Decision
 An entity is entitled to input tax credits under section 11-20 of the GST Act for creditable acquisitions that it makes.
-Under section 11-5 of the GST Act, an entity makes a creditable acquisition if:
-
-(a)it acquires anything solely or partly for a creditable purpose;
+Under section 11-5 of the GST Act, an entity makes a creditable acquisition if: (a)it acquires anything solely or partly for a creditable purpose;
 (b)the supply to it is a taxable supply;
 (c)it provides, or is liable to provide, consideration for the supply; and
-(d)the entity is registered or required to be registered for GST.
-
-History:
-
-This paragraph was amended on 4 February 2004. The reference to section 11-20 in the original ATO ID has been replaced with reference to section 11-5.
-
-The first requirement in section 11-5 of the GST Act is that an entity must make the acquisition for a creditable purpose. Therefore, the first issue in this case is whether a single legal person can make an acquisition from itself.
+(d)the entity is registered or required to be registered for GST. History: This paragraph was amended on 4 February 2004. The reference to section 11-20 in the original ATO ID has been replaced with reference to section 11-5. The first requirement in section 11-5 of the GST Act is that an entity must make the acquisition for a creditable purpose. Therefore, the first issue in this case is whether a single legal person can make an acquisition from itself.
 In accordance with subsection 184-1(3) of the GST Act, a legal person can have a number of different capacities. In each of these capacities, the legal person is taken to be a different entity for GST purposes.
 In this case, the legal person, has two different capacities, as an insolvency practitioner and as the representative of the incapacitated entity. Therefore, the legal person is two separate entities for the purposes of the GST Act. As such, entity A, the administrator in its capacity as the representative of the incapacitated entity can make an acquisition from entity B, the administrator in its capacity as an insolvency practitioner.
 Under section 11-15 of the GST Act, an entity acquires something for a creditable purpose to the extent that it is acquired in carrying on the entity's enterprise. During a period of administration, the representative in its representative capacity, can make supplies and acquisitions. Acquisitions made in the course of managing a company's business or of selling a company's assets will be acquisitions made in the course or furtherance of an enterprise carried on by the representative. Therefore, the acquisition of entity B's services is made by entity A for a creditable purpose.
 The second requirement in section 11-5 of the GST Act is that the supply of the thing is a taxable supply. In this case, the supply of services by entity B is a taxable supply under section 9-5 of the GST Act.
 The third requirement of section 11-5 of the GST Act is that the entity must provide, or be liable to provide the consideration for the supply. Entity A is liable to pay entity B's fees and therefore the third requirement is satisfied.
 The last requirement in section 11-5 of the GST Act is that the entity must be registered, or required to be registered, for GST. In this case, the incapacitated entity is registered for GST and as such, entity A, the representative of the incapacitated entity, registered for GST pursuant to Division 147 of the GST Act.
-Therefore, the acquisition meets the requirements in section 11-5 of the GST Act and entity A is making a creditable acquisition. As entity A is making a creditable acquisition, it is entitled to input tax credits under section 11-20 of the GST Act for administration fees imposed by entity B.
-
-Note: The acquisition may be only partly for a creditable purpose if the incapacitated entity makes both taxable and input taxed supplies. Where the acquisition relates directly to the making of input taxed supplies, the acquisition is not for a creditable purpose. However, where the acquisition does not relate to making specific supplies but relates to carrying on the enterprise as a whole, the extent of creditable purpose must be determined and the input tax credits relating to the acquisition must be apportioned accordingly.
-
-[HISTORY: This ATO ID was amended on 2 July 2007 to clarify the issue (note added).]
-
-Date of decision:
-  7 November 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 11-5   section 11-15   section 11-20   Division 23   Division 147   subsection 184-1(3)
-
-Keywords
-
-Goods & services tax
- GST special rules
- Representative of incapacitated entities
- GST supplies & acquisitions
- Creditable acquisition
- Creditable purpose
-
-Business Line:
-  GST
-
-Date of publication:
-  9 January 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 7 November 2001
-Original statement
-
-You are here
+Therefore, the acquisition meets the requirements in section 11-5 of the GST Act and entity A is making a creditable acquisition. As entity A is making a creditable acquisition, it is entitled to input tax credits under section 11-20 of the GST Act for administration fees imposed by entity B. Note: The acquisition may be only partly for a creditable purpose if the incapacitated entity makes both taxable and input taxed supplies. Where the acquisition relates directly to the making of input taxed supplies, the acquisition is not for a creditable purpose. However, where the acquisition does not relate to making specific supplies but relates to carrying on the enterprise as a whole, the extent of creditable purpose must be determined and the input tax credits relating to the acquisition must be apportioned accordingly. [HISTORY: This ATO ID was amended on 2 July 2007 to clarify the issue (note added).] Date of decision: 7 November 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 11-5 section 11-15 section 11-20 Division 23 Division 147 subsection 184-1(3) Keywords Goods & services tax GST special rules Representative of incapacitated entities GST supplies & acquisitions Creditable acquisition Creditable purpose Business Line: GST Date of publication: 9 January 2002 ISSN: 1445-2782 history Date: Version: 7 November 2001
+Original statement You are here
 27 January 2012
 Archived

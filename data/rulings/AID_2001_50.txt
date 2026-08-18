@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/50
-==================================================
-
-Income Tax
- Exemption from income tax: Whether a Resident Unit Trust is a Trading Trust
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Exemption from income tax: Whether a Resident Unit Trust is a Trading Trust FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Whether a resident unit trust entering into securities lending transactions is a trading trust for the purposes of section 102N of Division 6C of the Income Tax Assessment Act 1936.
 Decision
 The resident unit trust is not a trading trust for the purposes of section 102N of the Income Tax Assessment Act 1936.
@@ -21,27 +10,4 @@ The resident unit trust enters into securities lending transactions of a type to
 Reasons For Decision
 Division 6C of the Income Tax Assessment Act 1936 is concerned with income of certain public trading trusts. Paragraph 102N(a) of the Income Tax Assessment Act 1936 defines what is meant by a 'trading trust' for the purposes of Division 6C of the Income Tax Assessment Act 1936. A 'trading trust' is defined to include a unit trust that carries on a 'trading business' at any time during the year of income. Section 102M of the Income Tax Assessment Act 1936 defines 'trading business' to mean a business which does not consist wholly of eligible investment business. The term 'eligible investment business' is itself defined in section 102M of the Income Tax Assessment Act 1936 to include investing or trading in: bonds, debentures, stock or other securities (subparagraph (ii)), shares in a company (subparagraph (iii)), a right or option in respect of such a security or share (subparagraph (xii)), and/or any similar financial instruments (subparagraph (xiii)).
 Entering into securities lending arrangements constitutes 'eligible investment business' under subparagraph (ii), (iii) or (xiii) of the definition of eligible investment business contained in section 102M of the Income Tax Assessment Act 1936, the term trading having a broader meaning than merely buying and selling. As the resident unit trust is not in any other business except 'eligible investment business' it is not carrying on a 'trading business' for the purposes of Division 6C of the Income Tax Assessment Act 1936.
-Date of decision:
-  23 July 1998
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 102M   paragraph 102N(a)   Division 6C
-
-Keywords
-
-Public trading trusts
- Securities lending arrangements
- Securities transactions
-
-Siebel/TDMS Reference Number:
-  CHM70328
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  4 June 2001
-
-ISSN:
- 1445-2782
+Date of decision: 23 July 1998 Legislative References: Income Tax Assessment Act 1936 section 102M paragraph 102N(a) Division 6C Keywords Public trading trusts Securities lending arrangements Securities transactions Siebel/TDMS Reference Number: CHM70328 Business Line: Public Groups and International Date of publication: 4 June 2001 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2009/33
-==================================================
-
-Income Tax
- CGT Small Business Concessions: maximum net asset value test - assets used solely for personal use and enjoyment - personal bank account
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT Small Business Concessions: maximum net asset value test - assets used solely for personal use and enjoyment - personal bank account FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an interest earning personal bank account of an individual disregarded in working out the net value of the CGT assets of the individual under subparagraph 152-20(2)(b)(i) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. An interest earning personal bank account is not being used solely for personal use and enjoyment, and accordingly is not disregarded in working out the net value of the CGT assets of the individual under subparagraph 152-20(2)(b)(i) of the ITAA 1997.
@@ -28,34 +17,4 @@ The amount standing to the credit of a bank account is a chose in action (a debt
 In working out the net value of the CGT assets of an individual, assets being used solely for the personal use and enjoyment of the individual, or the individual's affiliate, are disregarded (subparagraph 152-20(2)(b)(i) of the ITAA 1997).
 As the bank account is interest earning, it cannot be described as being used solely for personal use and enjoyment. It is used to produce income. The fact that the funds in the bank account are used only for personal living expenses does not affect this outcome.
 Accordingly, the individual's interest earning personal bank account is not disregarded in working out the net value of the CGT assets of the individual under subparagraph 152-20(2)(b)(i) of the ITAA 1997. It is included in determining whether the company satisfies the maximum net asset value test.
-Date of decision:
-  29 April 2009
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 108-5   section 152-15   subparagraph 152-20(2)(b)(i)   paragraph 328-125(1)(a)   paragraph 328-125(2)(b)
-
-Keywords
-
-Bank accounts
- CGT small business relief
- Connected entity
- Interest income
-
-Siebel/TDMS Reference Number:
-  5698972; 1-5P3AVBC; 1-B2PBO2Y
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  15 May 2009
-
-Date reviewed:
-  26 June 2017
-
-ISSN:
- 1445-2782
+Date of decision: 29 April 2009 Year of income: Year ended 30 June 2008 Legislative References: Income Tax Assessment Act 1997 section 108-5 section 152-15 subparagraph 152-20(2)(b)(i) paragraph 328-125(1)(a) paragraph 328-125(2)(b) Keywords Bank accounts CGT small business relief Connected entity Interest income Siebel/TDMS Reference Number: 5698972; 1-5P3AVBC; 1-B2PBO2Y Business Line: Private Groups and High Wealth Individuals Date of publication: 15 May 2009 Date reviewed: 26 June 2017 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/295
-==================================================
-
-Income Tax
- Consolidation - GST input tax credits
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation - GST input tax credits FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a subsidiary member of a consolidated group is entitled to an input tax credit, is section 27-5 of the Income Tax Assessment Act 1997 (ITAA 1997) taken into consideration by the head company in working out the amount of the income tax liability or loss of the head company?
 Decision
 Yes. Section 27-5 of the ITAA 1997 provides in these circumstances that the head company of a consolidated group cannot claim as an income tax deduction the subsidiary's input tax credits in working out the amount of the head company's income tax liability or loss. The operation of the 'single entity rule' in section 701-1 of the ITAA 1997 treats the subsidiary as part of the head company for the head company core purposes.
@@ -25,34 +14,4 @@ The 'single entity rule' in section 701-1 of the ITAA 1997 operates to treat the
 Subsidiary members of the group are consequently treated as parts of the head company rather than as separate income tax entities. In this case, Company B is treated as part of Company A for the purpose of working out Company A's income tax liability or loss.
 Section 27-5 of the ITAA 1997 provides that a taxpayer cannot deduct as an outgoing or loss any amount relating to an input tax credits to which that taxpayer is entitled.
 Accordingly, amounts relating to input tax credit entitlements of a subsidiary company are not deductible to a head company of the group for the core purposes of working out the amount of the head company's income tax liability or loss. Thus, the outgoings giving rise to Company B's input tax credits are not an allowable income tax deduction for Company A.
-Date of decision:
-  25 March 2004
-
-Year of income:
-  30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Section 27-5   Section 701-1   Subsection 701-1(2)
-
-Keywords
-
-Consolidation
- Consolidation - tax liabilities
- Head company
- Single entity rule
- Goods and services tax
- Input tax credits
- Deductions
-
-Siebel/TDMS Reference Number:
-  3620405
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  2 April 2004
-
-ISSN:
- 1445-2782
+Date of decision: 25 March 2004 Year of income: 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Section 27-5 Section 701-1 Subsection 701-1(2) Keywords Consolidation Consolidation - tax liabilities Head company Single entity rule Goods and services tax Input tax credits Deductions Siebel/TDMS Reference Number: 3620405 Business Line: Consolidation Centre of Expertise Date of publication: 2 April 2004 ISSN: 1445-2782

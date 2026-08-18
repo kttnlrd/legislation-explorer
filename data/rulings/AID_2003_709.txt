@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/709
-==================================================
-
-Income Tax
- Research and Development: Deduction for core technology expenditure where expenditure paid by allotment of shares
- FOI status: may be released
-
-Withdrawn pending a review of this area of the law.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Research and Development: Deduction for core technology expenditure where expenditure paid by allotment of shares FOI status: may be released Withdrawn pending a review of this area of the law. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an eligible company entitled to a deduction under subsection 73B(12A) of the Income Tax Assessment Act 1936 (ITAA 1936) for core technology expenditure where the purchase consideration for the core technology was by way of an allotment of shares in the company?
 Decision
 Yes. The eligible company will be entitled to a deduction under subsection 73B(12A) of the ITAA 1936 as the company has 'incurred' core technology expenditure, the liability for which has been discharged by way of allotment of shares in the company. It does not matter whether the consideration provided for the acquisition was in money or money's worth.
@@ -33,70 +18,13 @@ The company is registered by the Industry Research and Development Board in resp
 Reasons for Decision
 Subsection 73B(12A) of the ITAA 1936 provides that if an eligible company incurred expenditure on core technology before or during the current year of income and during the year of income incurred research and development expenditure that is related to that core technology, the company will be allowed a deduction of an amount calculated in accordance with the formula in subsection 73B(12B) of the ITAA 1936 as does not exceed one-third of the amount of the research and development expenditure. The core technology expenditure must be incurred under a contract at or after 5pm by legal time in the Australian Capital Territory on 23 July 1996.
 The amount worked out using the formula in subsection 73B(12B) of the ITAA 1936 is effectively so much of the core technology expenditure incurred by the company during the current year or previous years of income in relation to the relevant core technology as has not been allowed as a deduction from the company's assessable income in any of those previous years (the 'undeducted expenditure') less, where the eligible company has disposed of part of the core technology, any amount of undeducted core technology expenditure in relation to the part of the core technology subject to the disposal.
-'Core technology expenditure' is defined in subsection 73B(1) of the ITAA 1936 to mean
- expenditure incurred
- by an eligible company in acquiring, or in acquiring the right to use, core technology for the purposes of research and development activities carried on by or on behalf of the company.
+'Core technology expenditure' is defined in subsection 73B(1) of the ITAA 1936 to mean expenditure incurred by an eligible company in acquiring, or in acquiring the right to use, core technology for the purposes of research and development activities carried on by or on behalf of the company.
 The company has acquired core technology from the vendor. However, it is necessary to consider whether the acquisition of that technology by way of a liability discharged by the allotment of shares, constitutes 'expenditure incurred'.
-In Lowry v. Consolidated African Selection Trust Ltd [1940] AC 648; (1940) 2 All ER 545; (1940) 23 TC 259 (Lowry's Case) the House of Lords considered whether the company could claim a deduction for the difference between the par value and market value of shares issued to employees. The court rejected this claim. Viscount Maughan considered that the bare issue of shares was not a 'trading transaction'. However, he went on to say that:
-
-There is one other fact of importance which should be borne in mind. It is the fact that the company is not discharging a debt or liability to the employees when it issues the 6000 shares to them at par. The word remuneration has been more than once mentioned in this case as if it described the advantage which the employees were obtaining by the issue, and I think has led to some confusion.
- If money or money's worth in any form, whether from capital or income, is given to an employee in discharge of an ordinary trading obligation or debt due to him incurred in the course of trade and is accepted as such, I am quite ready to accept the view that the amount of the debt or liability so discharged will find its way into the profit and loss account on ordinary commercial principles
- [emphasis added].
-
-Lowry's Case is therefore distinguishable if there is a liability of the company for the acquisition of core technology where that liability is discharged by the allotment of shares.
-Taxation Ruling TR 97/7 discusses the meaning of 'incurred' and states at paragraph 6(a) that:
-
-... a taxpayer need not actually have paid any money to have incurred an outgoing provided the taxpayer is definitively committed in the year of income. Accordingly, a loss or outgoing may be incurred ... even though it remains unpaid, provided the taxpayer is 'completely subjected' to the loss or outgoing. That is, subject to the principles set out below, it is not sufficient if the liability is merely contingent or no more than pending, threatened or expected, no matter how certain it is in the year of income that the loss or outgoing will be incurred in the future. It must be a presently existing liability to pay a pecuniary sum.
-
-Under the agreement, the company has submitted itself to a liability to purchase the assets of the vendor for the purchase consideration. The purchase consideration is defined in the agreement to be the allotment of a number of shares in the company.
+In Lowry v. Consolidated African Selection Trust Ltd [1940] AC 648; (1940) 2 All ER 545; (1940) 23 TC 259 (Lowry's Case) the House of Lords considered whether the company could claim a deduction for the difference between the par value and market value of shares issued to employees. The court rejected this claim. Viscount Maughan considered that the bare issue of shares was not a 'trading transaction'. However, he went on to say that: There is one other fact of importance which should be borne in mind. It is the fact that the company is not discharging a debt or liability to the employees when it issues the 6000 shares to them at par. The word remuneration has been more than once mentioned in this case as if it described the advantage which the employees were obtaining by the issue, and I think has led to some confusion. If money or money's worth in any form, whether from capital or income, is given to an employee in discharge of an ordinary trading obligation or debt due to him incurred in the course of trade and is accepted as such, I am quite ready to accept the view that the amount of the debt or liability so discharged will find its way into the profit and loss account on ordinary commercial principles [emphasis added]. Lowry's Case is therefore distinguishable if there is a liability of the company for the acquisition of core technology where that liability is discharged by the allotment of shares.
+Taxation Ruling TR 97/7 discusses the meaning of 'incurred' and states at paragraph 6(a) that: ... a taxpayer need not actually have paid any money to have incurred an outgoing provided the taxpayer is definitively committed in the year of income. Accordingly, a loss or outgoing may be incurred ... even though it remains unpaid, provided the taxpayer is 'completely subjected' to the loss or outgoing. That is, subject to the principles set out below, it is not sufficient if the liability is merely contingent or no more than pending, threatened or expected, no matter how certain it is in the year of income that the loss or outgoing will be incurred in the future. It must be a presently existing liability to pay a pecuniary sum. Under the agreement, the company has submitted itself to a liability to purchase the assets of the vendor for the purchase consideration. The purchase consideration is defined in the agreement to be the allotment of a number of shares in the company.
 Therefore, for the purposes of subsection 73B(12A) of the ITAA 1936, it can be said that the company has incurred core technology expenditure, in that it has subjected itself to a liability for the purchase of the assets of the vendor (including the core technology), which is to be discharged by the allotment of shares in the company.
 Note: The fact that no separate value was placed on the core technology in the sale agreement is not fatal to being able to determine that there is an amount of 'core technology expenditure'. In appropriate circumstances, apportionment as 'a matter of practical common sense', can be applied to determine a specific amount called for by statute (see e.g. Roadshow Distributors v. Commnr of State Revenue (Vic) [1998] 1 VR 523 at 529).
-Date of decision:
-  4 July 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 73B(1)   subsection 73B(12A)   subsection 73B(12B)
-
-Case References:
-
-Lowry v. Consolidated African Selection Trust Ltd   [1940] AC 648   (1940) 2 All ER 545   (1940) 23 TC 259
-
-Roadshow Distributors v. Commnr of State Revenue (Vic)   [1998] 1 VR 523   97 ATC 4271    35 ATR 376
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 97/7
-
-Keywords
-
-Research & development expenses
- Core technology expenses
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 August 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 4 July 2003
-Original statement
-
-You are here
+Date of decision: 4 July 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1936 subsection 73B(1) subsection 73B(12A) subsection 73B(12B) Case References: Lowry v. Consolidated African Selection Trust Ltd [1940] AC 648 (1940) 2 All ER 545 (1940) 23 TC 259 Roadshow Distributors v. Commnr of State Revenue (Vic) [1998] 1 VR 523 97 ATC 4271 35 ATR 376 Related Public Rulings (including Determinations) Taxation Ruling TR 97/7 Keywords Research & development expenses Core technology expenses Business Line: Public Groups and International Date of publication: 8 August 2003 ISSN: 1445-2782 history Date: Version: 4 July 2003
+Original statement You are here
 10 November 2003
 Archived

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/134
-==================================================
-
-Income Tax
- Capital Gains Tax: demerger - cost bases of ownership interests
- FOI status: may be released
-
-This ATO ID is withdrawn as it does not accurately reflect the ATO view on this issue. Please refer to Taxation Determination 2006/D19 for the ATO view on this matter.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: demerger - cost bases of ownership interests FOI status: may be released This ATO ID is withdrawn as it does not accurately reflect the ATO view on this issue. Please refer to Taxation Determination 2006/D19 for the ATO view on this matter. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 125-80(2) of the Income Tax Assessment Act 1997 (ITAA 1997) allow the calculation of cost base for each parcel of a taxpayer's shares in the head company?
 Decision
 No. Subsection 125-80(2) of the ITAA 1997 does not allow the calculation of cost base for each parcel of a taxpayer's shares in the head company. Subsection 125-80(2) requires that an averaging method be used in the calculation of cost base for all the taxpayer's parcels of shares in the head company and the demerged company.
@@ -26,19 +11,9 @@ The taxpayer received one Sub Coy share under the demerger for each Head Coy sha
 Before the demerger it was anticipated that, just after the demerger, the ratio of the total market value of all Head Coy shares to the total market value of all the Sub Coy shares demerged under the demerger would be 3:1. The Commissioner accepted that this anticipated approximation was reasonable, and also accepted the 3:1 ratio as a measure of relative market values for the purposes of subsection 125-80(3) of the ITAA 1997.
 The taxpayer acquired, after 20 September 1985, a parcel of 1,000 shares in Head Coy which, just before the demerger, had a cost base of $4 each. The taxpayer later acquired a further parcel of 100 shares in Head Coy which, just before the demerger, had a cost base of $15 each.
 The taxpayer received 1,000 Sub Coy shares as a result of owning the parcel of 1,000 Head Coy shares, and received 100 Sub Coy shares as a result of owning the parcel of 100 Head Coy shares.
-The taxpayer re-calculated the first element of the cost base of each of their Head Coy shares, and calculated the first element of the cost base of each of their new Sub Coy shares, on a parcel by parcel basis as follows:
-
-Head Coy shares
-
-•Parcel 1 - 1,000 shares75% of the cost base of this parcel just before the demerger was apportioned across the 1,000 shares in parcel 175% of $4,000 ÷ 1,000 shares = $3.00 per parcel 1 share (total of $3,000)
-•Parcel 2 - 100 shares75% of the cost base of this parcel just before the demerger was apportioned across the 100 shares in parcel 275% of $1,500 ÷ 100 shares = $11.25 per parcel 2 share (total of $1,125)
-
-Sub Coy shares
-
-•Parcel 1 - 1,000 shares25% of the cost base of this parcel just before the demerger was apportioned across the 1,000 shares in parcel 125% of $4,000 ÷ 1,000 shares = $1.00 per parcel 1 share (total of $1,000)
-•Parcel 2 - 100 shares25% of the cost base of this parcel just before the demerger was apportioned across the 100 shares in parcel 225% of $1,500 ÷ 100 shares = $3.75 per parcel 2 share (total of $375)
-
-Reasons for Decision
+The taxpayer re-calculated the first element of the cost base of each of their Head Coy shares, and calculated the first element of the cost base of each of their new Sub Coy shares, on a parcel by parcel basis as follows: Head Coy shares •Parcel 1 - 1,000 shares75% of the cost base of this parcel just before the demerger was apportioned across the 1,000 shares in parcel 175% of $4,000 ÷ 1,000 shares = $3.00 per parcel 1 share (total of $3,000)
+•Parcel 2 - 100 shares75% of the cost base of this parcel just before the demerger was apportioned across the 100 shares in parcel 275% of $1,500 ÷ 100 shares = $11.25 per parcel 2 share (total of $1,125) Sub Coy shares •Parcel 1 - 1,000 shares25% of the cost base of this parcel just before the demerger was apportioned across the 1,000 shares in parcel 125% of $4,000 ÷ 1,000 shares = $1.00 per parcel 1 share (total of $1,000)
+•Parcel 2 - 100 shares25% of the cost base of this parcel just before the demerger was apportioned across the 100 shares in parcel 225% of $1,500 ÷ 100 shares = $3.75 per parcel 2 share (total of $375) Reasons for Decision
 Division 125 of the ITAA 1997 allows a shareholder to choose CGT rollover when a CGT event happens to original interests in a company under a 'demerger' and new or replacement interests are received in the demerged company.
 Irrespective of whether CGT rollover relief is (or can be) chosen a shareholder is required to make adjustments to the first element of the cost bases of their post-CGT shares in the head company and the demerged company.
 Section 125-80 of the ITAA 1997 sets out what the rollover is and the cost base rules. It specifies the cost base adjustments that have to be made to a shareholder's head company and demerged company shares if rollover relief is chosen. Sections 125-85 and 125-90 of the ITAA 1997 provide that even if rollover is not chosen, or cannot be chosen, the cost base adjustment rules in section 125-80 still apply.
@@ -47,52 +22,7 @@ Subsection 125-80(2) of the ITAA 1997 states that the sum of the cost bases of t
 This must be done on a basis that 'is reasonable having regard to the matters specified in subsection (3)'. This means that the choice between using either 'the market values of your remaining original interests just after the demerger'; and 'an anticipated reasonable approximation of those market values' in paragraph 125-80(3)(a) of the ITAA 1997 must be reasonable. This does not mean that there is a choice as to the method by which the sum of the original cost bases is apportioned.
 It follows that the law does not allow the apportionment of the sum of the original cost bases to be based on anything other than the market values, or an anticipated reasonable approximation of the market values, of the ownership interests.
 Where all of a taxpayer's ownership interests in the head company are of the same class (and therefore have the same market value), this means each of those shares will have the same first element of cost base just after the demerger. The same averaging method will apply to the demerged entity shares where they are also all of the same class.
-In this taxpayer's circumstances, the adjusted first element of the cost base, just after the demerger, must be calculated as follows:
-
-•Adjusted first element of cost base of each Head Coy share = $3.75($5,500 * 75% / 1,100 shares)
-•Adjusted first element of cost base of each Sub Coy share = $1.25($5,500 * 25% / 1,100 shares)
-
-Note: for the purposes of this decision, a parcel of shares owned by a taxpayer represents those shares in a company that are of the same class, acquired on the same date, and for the same amount.
-
-Date of decision:
-  9 May 2005
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 125   section 125-70   section 125-80   subsection 125-80(2)   subsection 125-80(3)   paragraph 125-80(3)(a)   section 125-85   section 125-90
-
-Keywords
-
-Capital gains tax
- CGT cost base
- CGT roll-over relief
- Demerger
- Shares
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  13 May 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 9 May 2005
-Original statement
-
-You are here
- 7 June 2006
+In this taxpayer's circumstances, the adjusted first element of the cost base, just after the demerger, must be calculated as follows: •Adjusted first element of cost base of each Head Coy share = $3.75($5,500 * 75% / 1,100 shares)
+•Adjusted first element of cost base of each Sub Coy share = $1.25($5,500 * 25% / 1,100 shares) Note: for the purposes of this decision, a parcel of shares owned by a taxpayer represents those shares in a company that are of the same class, acquired on the same date, and for the same amount. Date of decision: 9 May 2005 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 Division 125 section 125-70 section 125-80 subsection 125-80(2) subsection 125-80(3) paragraph 125-80(3)(a) section 125-85 section 125-90 Keywords Capital gains tax CGT cost base CGT roll-over relief Demerger Shares Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 13 May 2005 ISSN: 1445-2782 history Date: Version: 9 May 2005
+Original statement You are here 7 June 2006
 Archived

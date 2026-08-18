@@ -1,24 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/297
-==================================================
-
-Income Tax
- Assessability of distribution of interest income received by resident beneficiary of deceased estate from Canada
- FOI status: may be released
-
-This ATO ID is withdrawn due to the repeal of sections 96B and 96C of the Income Tax Assessment Act 1936. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2009-10 income year.
-
- This ATO ID has been amended to remove references in the Reasons for Decision to repealed legislation dealing with foreign tax credit rules. With effect from 1 July 2008 the foreign tax credit system will be replaced by the foreign tax offset system.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessability of distribution of interest income received by resident beneficiary of deceased estate from Canada FOI status: may be released This ATO ID is withdrawn due to the repeal of sections 96B and 96C of the Income Tax Assessment Act 1936. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for income years up to, and including, the 2009-10 income year. This ATO ID has been amended to remove references in the Reasons for Decision to repealed legislation dealing with foreign tax credit rules. With effect from 1 July 2008 the foreign tax credit system will be replaced by the foreign tax offset system. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a distribution of interest income received by a resident taxpayer as a beneficiary of a deceased estate from Canada, assessable under subsection 6-10(4) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. A distribution of interest income received by a resident taxpayer as a beneficiary of a deceased estate from Canada is assessable under subsection 6-10(4) of the ITAA 1997.
@@ -31,12 +14,8 @@ Canadian tax at the rate of 15% has been deducted from the distribution made to 
 Reasons for Decision
 Subsection 6-10(4) of the ITAA 1997 provides that the assessable income of a resident taxpayer includes statutory income derived directly or indirectly from all sources, whether in or out of Australia, during the income year.
 Section 10-5 of the ITAA 1997 lists those provisions about statutory income. Included in this list is section 97 of the Income Tax Assessment Act 1936 (ITAA 1936) which deals with present entitlement to the net income of a trust estate.
-Subsection 97(1) of the ITAA 1936 provides that where a beneficiary of a trust estate who is not under any legal disability and is presently entitled to a share of the net income of the trust estate, the assessable income of the beneficiary shall include:
-
-(a) so much of that share of the net income of the trust estate as is attributable to a period when the beneficiary was a resident, and
-(b) so much of that share of the net income of the trust estate as is attributable to a period when the beneficiary was not a resident and is also attributable to sources in Australia.
-
-Section 96B of the ITAA 1936 provides special rules for calculating the share of the net income where a taxpayer had an interest (including an interest that is to arise at a future time or is contingent on the happening of an event) in a non-resident trust in relation to the 1992-93 or later year of income.
+Subsection 97(1) of the ITAA 1936 provides that where a beneficiary of a trust estate who is not under any legal disability and is presently entitled to a share of the net income of the trust estate, the assessable income of the beneficiary shall include: (a) so much of that share of the net income of the trust estate as is attributable to a period when the beneficiary was a resident, and
+(b) so much of that share of the net income of the trust estate as is attributable to a period when the beneficiary was not a resident and is also attributable to sources in Australia. Section 96B of the ITAA 1936 provides special rules for calculating the share of the net income where a taxpayer had an interest (including an interest that is to arise at a future time or is contingent on the happening of an event) in a non-resident trust in relation to the 1992-93 or later year of income.
 Subsection 96B(2) of the ITAA 1936 deems the taxpayer to be a beneficiary who is presently entitled to a share of the income of the trust estate and who is not under a legal disability.
 Subsection 96B(3) of the ITAA 1936 further provides that the taxpayer's share of the net income of the trust estate is calculated in accordance with section 96C of the ITAA 1936. The amount calculated under section 96C is then included in the beneficiary's assessable income under section 97 of the ITAA 1936.
 For Australian tax purposes, an amount of trust income distributed by a trustee to a beneficiary retains the character it had when it was derived by the trustee, unless a provision of the trust deed or of any relevant statute provides otherwise (see Syme v. Commissioner of Taxation (Vic ) (1914) 18 CLR 519 and FC of T v. Tadcaster Pty. Ltd. 82 ATC 4316; (1982) 13 ATR 245).
@@ -59,62 +38,8 @@ Accordingly, subject to the laws of Australia, a tax credit for Canadian tax pai
 As the taxpayer is a resident of Australia, the taxpayer's share of the net income of the deceased estate, calculated in accordance with section 96C of the ITAA 1936, is included in their assessable income under subsection 6-10(4) of the ITAA 1997. As Canadian tax has been paid in relation to the distribution, a foreign tax credit will be allowed.
 Where the Canadian tax paid on the interest is less than the Australian tax payable, the taxpayer will be entitled to a full credit for the Canadian tax paid. Where the Canadian tax paid is greater than the Australian tax payable, the taxpayer is only entitled to a credit equal to the value of the Australian tax payable and cannot recover any excess Canadian tax paid.
 Note: the Foreign Investment Fund measures do not apply to an Australian resident beneficiary of a foreign trust arising in relation to the estate of deceased persons (paragraph 481(3)(b) of the ITAA 1936).
-Date of decision:
-  18 March 2004
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 96B   subsection 96B(2)   subsection 96B(3)   section 96C   section 97   subsection 97(1)   paragraph 481(3)(b)
- Income Tax Assessment Act 1997   subsection 6-10(4)   section 10-5
-International Tax Agreements Act 1953   section 4   Schedule 3   Schedule 3, Article 11(1)   Schedule 3, Article 11(2)   Schedule 3, Article 21   Schedule 3, Article 21(1)   Schedule 3, Article 21(2)   Schedule 3, Article 21(3)   Schedule 3, Article 23(1)   Schedule 3A   Schedule 3A, Article 9   Schedule 3A, Article 14
-
-Case References:
-
-Syme v. Commissioner of Taxation (Vic)   (1914) 18 CLR 519
-
-FC of T v. Tadcaster Pty. Ltd.   82 ATC 4316   (1982) 13 ATR 245 at 249
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/13
-
-Other References:
-
-OECD Model Tax Convention and Commentary
-
-Keywords
-
-Double tax agreements
- Foreign pension income
- Foreign tax credits
- Interest income
- Trust distributions
- OECD Model Tax Convention and Commentary
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 April 2004
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-18 March 2004
-Original statement
-
-You are here
+Date of decision: 18 March 2004 Year of income: Year ended 30 June 2003 Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 96B subsection 96B(2) subsection 96B(3) section 96C section 97 subsection 97(1) paragraph 481(3)(b) Income Tax Assessment Act 1997 subsection 6-10(4) section 10-5
+International Tax Agreements Act 1953 section 4 Schedule 3 Schedule 3, Article 11(1) Schedule 3, Article 11(2) Schedule 3, Article 21 Schedule 3, Article 21(1) Schedule 3, Article 21(2) Schedule 3, Article 21(3) Schedule 3, Article 23(1) Schedule 3A Schedule 3A, Article 9 Schedule 3A, Article 14 Case References: Syme v. Commissioner of Taxation (Vic) (1914) 18 CLR 519 FC of T v. Tadcaster Pty. Ltd. 82 ATC 4316 (1982) 13 ATR 245 at 249 Related Public Rulings (including Determinations) Taxation Ruling TR 2001/13 Other References: OECD Model Tax Convention and Commentary Keywords Double tax agreements Foreign pension income Foreign tax credits Interest income Trust distributions OECD Model Tax Convention and Commentary Business Line: Public Groups and International Date of publication: 2 April 2004 ISSN: 1445-2782 history Date: Version: 18 March 2004
+Original statement You are here
 15 July 2011
 Archived

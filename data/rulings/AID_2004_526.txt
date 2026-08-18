@@ -1,32 +1,15 @@
 ATO Interpretative Decision
 ATO ID 2004/526
-==================================================
-
-Income Tax
- Options trading
- FOI status: may be released
-
-This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Options trading FOI status: may be released This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are exchange traded options (ETOs) trading stock as defined in section 70-10 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. ETOs are not 'trading stock' as defined in section 70-10 of the ITAA 1997.
 Facts
 The taxpayer carries on the business of transacting in ETOs on the Australian Securities Exchange (ASX) options market by routinely and systematically taking (buying) and writing (selling) ETOs in the expectation of profit.
-The taxpayer takes or writes an ETO to establish a position in the options market. This is referred to in the market as having an 'open position'. The taxpayer then determines how best to realise that position by:
-
-•'closing out' the position, that is, where the taxpayer had originally bought an ETO they will offset it by selling an identical one, or where they had originally sold an ETO, they will offset it by buying an identical one
+The taxpayer takes or writes an ETO to establish a position in the options market. This is referred to in the market as having an 'open position'. The taxpayer then determines how best to realise that position by: •'closing out' the position, that is, where the taxpayer had originally bought an ETO they will offset it by selling an identical one, or where they had originally sold an ETO, they will offset it by buying an identical one
 •exercising the ETO they had originally bought, or
-•doing neither of the above and allowing the ETO they had originally bought to expire.
-
-At 30 June 2003, the end of the taxpayer's income year, the taxpayer holds ETOs that have been bought in the open position and have not been closed out, exercised or expired.
+•doing neither of the above and allowing the ETO they had originally bought to expire. At 30 June 2003, the end of the taxpayer's income year, the taxpayer holds ETOs that have been bought in the open position and have not been closed out, exercised or expired.
 Reasons for Decision
 The process of transacting in the options market differs from trading on securities markets as participants do not buy or sell a physical instrument. Rather, a subsidiary of ASX, ASX Clear Pty Limited sets the option contracts (contract series) that a participant can transact in. When a transaction occurs in the options market, a buyer takes a 'bought position' and the seller takes a 'sold position'.
 The ASX's standard terms and conditions governing ETOs provide that the rights and obligations under the ETO contracts cannot be transferred between parties. Therefore, if the taxpayer has a bought position in an ETO contract series, they cannot transfer or assign the particular ETO to another party.
@@ -34,35 +17,4 @@ Section 70-10 of the ITAA 1997 defines trading stock to include anything produce
 While the taxpayer buys options in the ordinary course of the taxpayer's business, they are not bought for the purpose of sale or exchange. The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW, defines sale as, 'transfer of property for money or credit'. Exchange is defined as, 'to part with for some equivalent; give up (something) for something else; to replace by another or something else;...transfer for a recompense'.
 By closing out its position, allowing a particular option to lapse or exercising it, the taxpayer has not been involved in a transaction where there is either a sale or exchange. Closing out extinguishes a right or contingent obligation consequent upon entering into a separate transaction opposite to the position previously taken. There has been no sale or exchange. Similarly, allowing an option to lapse does not involve any element of sale or exchange. The exercise of an option results in the taxpayer buying or selling the underlying security at a pre-agreed price but does not involve any sale or exchange of an ETO.
 Consequently ETOs do not fall within the definition of trading stock in section 70-10 of the ITAA 1997.
-Date of decision:
-  16 June 2004
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 70-10
-
-Other References:
-
-The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW
-
-Keywords
-
-Call options
- Put options
- Trading stock
- Trading stock valuation
-
-Siebel/TDMS Reference Number:
-  3197595
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  25 June 2004
-
-ISSN:
- 1445-2782
+Date of decision: 16 June 2004 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 section 70-10 Other References: The Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW Keywords Call options Put options Trading stock Trading stock valuation Siebel/TDMS Reference Number: 3197595 Business Line: Public Groups and International Date of publication: 25 June 2004 ISSN: 1445-2782

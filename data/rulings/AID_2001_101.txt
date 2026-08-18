@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/101
-==================================================
-
-Goods and Services Tax
- GST: Stolen Takings
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST: Stolen Takings FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the entity's 'net amount' be decreased under subsection 17-5(2) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when all of its takings are stolen?
 Decision
 No, the entity's 'net amount' cannot be decreased under subsection 17-5(2) of the GST Act when all of its takings are stolen. The 'net amount' remains unaltered.
@@ -33,65 +20,10 @@ where:
 Under section 9-40 of the GST Act, the entity must pay the GST payable on any taxable supply that it makes. The amount of GST on a taxable supply is 10% of the value of the supply (section 9-70 of the GST Act). The value of a taxable supply is defined in subsection 9-75(1) of the GST Act and is equal to 10/11th of the price of the supply (or, as the consideration for the supply is expressed as an amount of money, 10/11th of the consideration for the supply).
 As all the supplies that the entity makes are taxable supplies under section 9-5 of the GST Act, the sum of all the GST for which the entity is liable in the tax period is 10% of 10/11th of the consideration or proceeds it receives from the social event (or expressed another way, 1/11th of the total consideration received). This amount will form part of the net amount under section 17-5 of the GST Act.
 Subsection 17-5(2) of the GST Act provides that the net amount for the tax period may be increased or decreased by any adjustments for the period. Under section 17-10 of the GST Act, the entity may decrease its net amount by subtracting the sum of any decreasing adjustments (if any) that are attributable to the tax period from the net amount.
-A decreasing adjustment is defined under section 195-1 of the GST Act to mean an amount arising under one of the provisions listed in that definition. Stolen takings do not give rise to a decreasing adjustment under any of these provisions. Therefore, the entity's net amount under Division 17 of the GST Act remains unaltered despite the fact that all of the takings are stolen.
-
-[NOTE: Under section 78-50 of the GST Act, any insurance settlement regarding the stolen takings is not subject to GST, provided the entity notifies the insurer of its entitlement to claim input tax credits of the insurance premium paid. This notification must be made either at the time of the claim or before the claim is made.]
-
-NOTE: From 1 July 2012 Section 7-15 of the GST Act was amended in line with the self assessment regime. Section 7-15 of the GST Act now reads "The amount assessed as being the net amount for a tax period is the amount that the entity must pay to the Commonwealth, or the Commonwealth must refund to the entity, in respect of the period."
-
-Amendment History
-
-Date of amendment
+A decreasing adjustment is defined under section 195-1 of the GST Act to mean an amount arising under one of the provisions listed in that definition. Stolen takings do not give rise to a decreasing adjustment under any of these provisions. Therefore, the entity's net amount under Division 17 of the GST Act remains unaltered despite the fact that all of the takings are stolen. [NOTE: Under section 78-50 of the GST Act, any insurance settlement regarding the stolen takings is not subject to GST, provided the entity notifies the insurer of its entitlement to claim input tax credits of the insurance premium paid. This notification must be made either at the time of the claim or before the claim is made.] NOTE: From 1 July 2012 Section 7-15 of the GST Act was amended in line with the self assessment regime. Section 7-15 of the GST Act now reads "The amount assessed as being the net amount for a tax period is the amount that the entity must pay to the Commonwealth, or the Commonwealth must refund to the entity, in respect of the period." Amendment History Date of amendment
 Part
-Comment
-
-02/04/2013
+Comment 02/04/2013
 Note Added
-Amended for self assessment legislation effective from 1 July 2012.
-
-Date of decision:
-  6 April 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 7-15   section 9-5   section 9-40   section 9-70   subsection 9-75(1)   Division 17   section 17-5   subsection 17-5(2)   section 17-10   section 78-50   section 195-1
-
-Other References:
-
-Transport and Taxi - Industry Partnership - Taxi Industry Partnership Issues Register- Issue Resolved 23/05/00
-
-Keywords
-
-Goods and Services Tax
- GST net amounts & adjustments
- Adjustment events
- Adjustments
- Net amounts
-
-Siebel/TDMS Reference Number:
-  CW203162
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  12 July 2001
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 6 April 2001
-Original statement
-
-You are here
- 5 April 2013
+Amended for self assessment legislation effective from 1 July 2012. Date of decision: 6 April 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 7-15 section 9-5 section 9-40 section 9-70 subsection 9-75(1) Division 17 section 17-5 subsection 17-5(2) section 17-10 section 78-50 section 195-1 Other References: Transport and Taxi - Industry Partnership - Taxi Industry Partnership Issues Register- Issue Resolved 23/05/00 Keywords Goods and Services Tax GST net amounts & adjustments Adjustment events Adjustments Net amounts Siebel/TDMS Reference Number: CW203162 Business Line: Indirect Tax Date of publication: 12 July 2001 ISSN: 1445-2782 history Date: Version: 6 April 2001
+Original statement You are here 5 April 2013
 Updated statement

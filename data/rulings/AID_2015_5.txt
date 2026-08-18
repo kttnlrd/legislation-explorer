@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2015/5
-==================================================
-
-Income tax
- Income tax: Research and Development: Disposal of research & development results and future payments
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Income tax: Research and Development: Disposal of research & development results and future payments CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the disposal of research and development (R&D) results provision in section 355-410 of the Income Tax Assessment Act 1997 (ITAA 1997) include amounts from the licensing of intellectual property (IP) payable in the future, subject to achieving future development and sales milestones?
 Decision
 Yes. The disposal of R&D results provision in section 355-410 of the ITAA 1997 includes amounts from the licensing of IP payable in the future. These include payments that are referrable to future development of the IP and upon achieving specified sales targets once the IP is fully developed.
@@ -19,91 +9,22 @@ Facts
 The taxpayer is an R&D entity within the meaning of section 355-35 of the ITAA 1997. The taxpayer undertakes a new R&D project to develop a particular product, incurs R&D expenditure and claims the tax offset under section 355-100 of the ITAA 1997. The taxpayer is the legal and economic owner of the IP related to the product.
 In order to manufacture and commercialise the product, further R&D and testing is required. To facilitate this, and in accordance with the taxpayer's business model, the taxpayer licenses the IP relating to the product to an overseas related entity. The overseas related entity is specifically formed to advance the development of the product and ultimately its sale.
 Under the terms of the licence agreement, the overseas related entity is granted an exclusive right to the product IP and any information, knowledge, patents, techniques, inventions, improvements and/or discoveries related to the product. The agreement also provides the overseas related entity with the exclusive right to develop, manufacture, make, use, import, sell, market, distribute or otherwise commercialise the product globally, for the term of the agreement.
-The licence agreement stipulates, among other things, the following fees payable to the taxpayer by the overseas related entity:
-
-• Development Milestone Payments - payable upon the first achievement of each of the relevant Development Milestones listed in the licence agreement
+The licence agreement stipulates, among other things, the following fees payable to the taxpayer by the overseas related entity: • Development Milestone Payments - payable upon the first achievement of each of the relevant Development Milestones listed in the licence agreement
 • Sales Milestone Payments - payable upon the first achievement of each of the relevant Sales Milestones listed in the licence agreement, and
-• Royalties - payable upon the achievement of the net sales targets specified in the licence agreement.
-
-Each of the above payments is conditional on meeting certain specified milestones or targets at a future point in time (which may or may not eventuate).
-
-Reasons for Decision
+• Royalties - payable upon the achievement of the net sales targets specified in the licence agreement. Each of the above payments is conditional on meeting certain specified milestones or targets at a future point in time (which may or may not eventuate). Reasons for Decision
 Section 355-410 of the ITAA 1997 is an integrity provision which corresponds to the former integrity rules in subsections 73B(27A), 73B(27B) and 73B(27C) of the Income Tax Assessment Act 1936. The role of these provisions is to ensure statutory revenue treatment for amounts received, or entitled to be received, by an R&D entity relating to the results of R&D activities, including amounts from the granting of rights to the results by way of licensing.
-Section 355-410 of the ITAA 1997 operates to include certain amounts (referred to as 'results amounts') an R&D entity receives or is entitled to receive in an income year in the R&D entity's assessable income for that year. The results amounts are set out in paragraph 355-410(1)(b) of the ITAA 1997, and comprise of:
-
-• an amount for the results of any of the R&D activities
+Section 355-410 of the ITAA 1997 operates to include certain amounts (referred to as 'results amounts') an R&D entity receives or is entitled to receive in an income year in the R&D entity's assessable income for that year. The results amounts are set out in paragraph 355-410(1)(b) of the ITAA 1997, and comprise of: • an amount for the results of any of the R&D activities
 • an amount from granting access to, or the right to use, any of those results
 • an amount attributable to the expenditure incurred, or having used an asset for R&D activities, including amounts entitled to receive irrespective of the results of the R&D activities, and
-• an amount from disposing a CGT asset, or from granting a right to occupy or use a CGT asset such that another entity acquires a right to access or use any of those results.
-
-The Development Milestone Payments
-
-The Development Milestone Payments are payments the taxpayer is entitled to receive upon the achievement of each milestone and are consideration for the grant of the right to use the R&D results (namely, the IP and any related information, know-how etc. associated with the product) conveyed under the licence agreement. The taxpayer is therefore required to include these payments in its assessable income under section 355-410 of the ITAA 1997 in the income year in which the milestones are achieved by the overseas related entity and the taxpayer becomes entitled to the payments.
-This view is supported by ATO ID 2004/568 which considers, among other things, when a taxpayer becomes entitled to receive a Government grant or recoupment in the R&D context. The ATO ID relevantly states:
-
-The ordinary meaning of 'becoming entitled to receive an amount' is that there is an absolute or unconditional entitlement to receive the amount...
-
-ATO ID 2004/568 goes on to consider the ordinary dictionary meaning of 'entitle', noting that it means 'to qualify for, to furnish with proper grounds for seeking or claiming'.
-Consistent with the above interpretation of the term 'entitled to receive', the taxpayer, as licensor, becomes entitled to the Development Milestone Payments upon the licensee (overseas related entity) achieving each Development Milestone as specified in the licence agreement.
-
-The Sales Milestone Payments
-
-Unlike the Development Milestone Payments, the Sales Milestone Payments do not directly relate to the granting of the licence to access the R&D results (namely, the product IP and any related know-how).
-They are however payments required to be made by the licensee (overseas related entity) to the licensor (taxpayer) for the
- continued use
- of the R&D results, subject to the successful development of these R&D results by the licensee. Accordingly these amounts fall within the scope of section 355-410 of the ITAA 1997 as a 'results amount' because they are amounts from the granting of the right to use the R&D results.
-It is clear from the words in section 355-410 of the ITAA 1997 that for its operation, what is required is for the R&D entity to be entitled to the notional deduction and tax offset in respect of the expenditure incurred in developing the R&D results. Once this condition is met, the provision operates to assess the
- entire
- amount received (or entitled to be received) by the R&D entity, on disposal or licensing of those results, as an R&D 'results amount.'
-Section 355-410 of the ITAA 1997 does not put a time limit on how long, or the manner in which, the R&D results should be used. All that is required is that the amount is received (or entitled to be received):
-
+• an amount from disposing a CGT asset, or from granting a right to occupy or use a CGT asset such that another entity acquires a right to access or use any of those results. The Development Milestone Payments The Development Milestone Payments are payments the taxpayer is entitled to receive upon the achievement of each milestone and are consideration for the grant of the right to use the R&D results (namely, the IP and any related information, know-how etc. associated with the product) conveyed under the licence agreement. The taxpayer is therefore required to include these payments in its assessable income under section 355-410 of the ITAA 1997 in the income year in which the milestones are achieved by the overseas related entity and the taxpayer becomes entitled to the payments.
+This view is supported by ATO ID 2004/568 which considers, among other things, when a taxpayer becomes entitled to receive a Government grant or recoupment in the R&D context. The ATO ID relevantly states: The ordinary meaning of 'becoming entitled to receive an amount' is that there is an absolute or unconditional entitlement to receive the amount... ATO ID 2004/568 goes on to consider the ordinary dictionary meaning of 'entitle', noting that it means 'to qualify for, to furnish with proper grounds for seeking or claiming'.
+Consistent with the above interpretation of the term 'entitled to receive', the taxpayer, as licensor, becomes entitled to the Development Milestone Payments upon the licensee (overseas related entity) achieving each Development Milestone as specified in the licence agreement. The Sales Milestone Payments Unlike the Development Milestone Payments, the Sales Milestone Payments do not directly relate to the granting of the licence to access the R&D results (namely, the product IP and any related know-how).
+They are however payments required to be made by the licensee (overseas related entity) to the licensor (taxpayer) for the continued use of the R&D results, subject to the successful development of these R&D results by the licensee. Accordingly these amounts fall within the scope of section 355-410 of the ITAA 1997 as a 'results amount' because they are amounts from the granting of the right to use the R&D results.
+It is clear from the words in section 355-410 of the ITAA 1997 that for its operation, what is required is for the R&D entity to be entitled to the notional deduction and tax offset in respect of the expenditure incurred in developing the R&D results. Once this condition is met, the provision operates to assess the entire amount received (or entitled to be received) by the R&D entity, on disposal or licensing of those results, as an R&D 'results amount.'
+Section 355-410 of the ITAA 1997 does not put a time limit on how long, or the manner in which, the R&D results should be used. All that is required is that the amount is received (or entitled to be received): •
+for the results of any of the R&D activities, or
 •
-for
- the results of any of the R&D activities, or
-•
-from
- the grant of access to, or the right to use, any of those results.
-
-The terms 'for' and 'from' in section 355-410 of the ITAA 1997 are sufficiently broad to encompass payments the licensor is entitled to receive from the
- continued
- use of the R&D results by the licensee, consistent with the licensing agreement terms and conditions.
-The taxpayer is entitled to receive the Sales Milestone Payments upon the achievement of each Sales Milestone by the overseas related entity. Therefore, the taxpayer is required to include in its assessable income, under section 355-410 of the ITAA 1997, the Sales Milestone Payments in the income year in which the overseas related entity achieves each Sales Milestone, consistent with the view in ATO ID 2004/568 discussed earlier.
-
-Royalties
-
-The royalties payable are assessable as R&D 'results amounts' under section 355-410 of the ITAA 1997 for the same reasons as the Sales Milestone Payments discussed above. They are payments by the licensee to the licensor for the
- continued use
- of the R&D results, irrespective of the capacity in which those results are being used.
-The royalties will be assessable to the taxpayer under section 355-410 of the ITAA 1997 in the income year in which the taxpayer becomes entitled to receive those payments, in accordance with the view in ATO ID 2004/568 discussed earlier.
-
-Date of decision:
-  31 January 2015
-
-Year of income:
-  For income years commencing on or after 1 July 2011
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 355-35   section 355-100   section 355-410
-Income Tax Assessment Act 1936   subsection 73B(27A)   subsection 73B(27B)   subsection 73B(27C)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/568
-
-Keywords
-
-Research & development tax incentive
- Research & development tax offset
-
-Siebel/TDMS Reference Number:
-  1-69UWQT
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  13 February 2015
-
-ISSN:
- 1445-2782
+from the grant of access to, or the right to use, any of those results. The terms 'for' and 'from' in section 355-410 of the ITAA 1997 are sufficiently broad to encompass payments the licensor is entitled to receive from the continued use of the R&D results by the licensee, consistent with the licensing agreement terms and conditions.
+The taxpayer is entitled to receive the Sales Milestone Payments upon the achievement of each Sales Milestone by the overseas related entity. Therefore, the taxpayer is required to include in its assessable income, under section 355-410 of the ITAA 1997, the Sales Milestone Payments in the income year in which the overseas related entity achieves each Sales Milestone, consistent with the view in ATO ID 2004/568 discussed earlier. Royalties The royalties payable are assessable as R&D 'results amounts' under section 355-410 of the ITAA 1997 for the same reasons as the Sales Milestone Payments discussed above. They are payments by the licensee to the licensor for the continued use of the R&D results, irrespective of the capacity in which those results are being used.
+The royalties will be assessable to the taxpayer under section 355-410 of the ITAA 1997 in the income year in which the taxpayer becomes entitled to receive those payments, in accordance with the view in ATO ID 2004/568 discussed earlier. Date of decision: 31 January 2015 Year of income: For income years commencing on or after 1 July 2011 Legislative References: Income Tax Assessment Act 1997 section 355-35 section 355-100 section 355-410
+Income Tax Assessment Act 1936 subsection 73B(27A) subsection 73B(27B) subsection 73B(27C) Related ATO Interpretative Decisions ATO ID 2004/568 Keywords Research & development tax incentive Research & development tax offset Siebel/TDMS Reference Number: 1-69UWQT Business Line: Public Groups and International Date of publication: 13 February 2015 ISSN: 1445-2782

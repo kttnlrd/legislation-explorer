@@ -1,25 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2008/25
-==================================================
-
-Superannuation
- Superannuation Guarantee: liability of company in liquidation for superannuation guarantee charge in respect of a GEERS advance paid by a third party
- FOI status: may be released
-
-This ATO ID is withdrawn because it contains a view in respect of General Employee Entitlements and Redundancy Scheme (GEERS) that does not apply after 5 December 2012. The Fair Entitlements Guarantee Act 2012 commenced operation on 5 December 2012. The Fair Entitlements Guarantee replaces the General Employee Entitlements and Redundancy Scheme (GEERS).
-
- Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, 5 December 2012.
-See ATO ID 2015/13, which reflects the same view in respect of the replacement or rewritten provision, for decisions for income years after 5 December 2012.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Superannuation Guarantee: liability of company in liquidation for superannuation guarantee charge in respect of a GEERS advance paid by a third party FOI status: may be released This ATO ID is withdrawn because it contains a view in respect of General Employee Entitlements and Redundancy Scheme (GEERS) that does not apply after 5 December 2012. The Fair Entitlements Guarantee Act 2012 commenced operation on 5 December 2012. The Fair Entitlements Guarantee replaces the General Employee Entitlements and Redundancy Scheme (GEERS). Despite its withdrawal, this ATO ID continues to be a precedential ATO view in respect of decisions for income years up to, and including, 5 December 2012.
+See ATO ID 2015/13, which reflects the same view in respect of the replacement or rewritten provision, for decisions for income years after 5 December 2012. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where the Department of Employment and Workplace Relations (DEWR) makes a General Employee Entitlements and Redundancy Scheme (GEERS) advance to a former employee of a company in liquidation through a third party provider rather than via the insolvency practitioner, is the taxpayer, a company in liquidation, liable to the superannuation guarantee charge (SGC) under the Superannuation Guarantee (Administration) Act 1992 (SGAA) where the third party provider does not make superannuation contributions in respect of the GEERS advance by the relevant quarterly cut-off date?
 Decision
 Yes. Where DEWR makes a GEERS advance to a former employee of the company in liquidation through a third party provider rather than via the insolvency practitioner, the company in liquidation is liable to the SGC under the SGAA where the third party provider does not make superannuation contributions in respect of the GEERS advance by the relevant quarterly cut-off date.
@@ -38,12 +21,8 @@ The debt for salary or wages owed by the company to the employee is not extingui
 Reasons for Decision
 An employer will have a liability to the SGC for a quarter under the SGAA if they do not make sufficient superannuation contributions for the benefit of their eligible employees to a complying superannuation fund or retirement savings account by the relevant quarterly cut-off date in the SGAA. The SGC is imposed on an employer's superannuation guarantee shortfall (SG shortfall) for a quarter. Subsection 19(1) of the SGAA sets out the formula for the calculation of an employer's individual SG shortfall for an employee for a quarter. The shortfall is calculated by reference to the total salary or wages paid by the employer to the employee for the quarter.
 If an employer makes a payment to an employee which does not constitute salary or wages or if a payment does constitute salary or wages but it is not paid by the employer (or is not paid 'on behalf of' the employer within the meaning of subsection 6(3) of the SGAA) to the employee, subsection 19(1) of the SGAA will have no application and the employer will not have a liability to the SGC.
-Also, an employer can have an individual SG shortfall in respect of salary or wages paid to a
- former
- employee if the employer does not make sufficient superannuation contributions in respect of the payment (section 15B of the SGAA).
-Does the GEERS advance constitute 'salary or wages' within the meaning of the SGAA?
-
-The definition of salary or wages for the purposes of the SGAA is contained in section 11. A payment that falls within the ordinary meaning of salary or wages will constitute 'salary or wages' under section 11. If the payment does not fall within the ordinary meaning of the term, it will constitute 'salary or wages' for the purposes of the SGAA if the payment falls within the extended definition of 'salary or wages' in paragraphs 11(1)(a) to (e) of the SGAA.
+Also, an employer can have an individual SG shortfall in respect of salary or wages paid to a former employee if the employer does not make sufficient superannuation contributions in respect of the payment (section 15B of the SGAA).
+Does the GEERS advance constitute 'salary or wages' within the meaning of the SGAA? The definition of salary or wages for the purposes of the SGAA is contained in section 11. A payment that falls within the ordinary meaning of salary or wages will constitute 'salary or wages' under section 11. If the payment does not fall within the ordinary meaning of the term, it will constitute 'salary or wages' for the purposes of the SGAA if the payment falls within the extended definition of 'salary or wages' in paragraphs 11(1)(a) to (e) of the SGAA.
 When paid by the employer, the types of employee entitlements covered by the GEERS, with the exception of redundancy payments, are salary or wages for the purposes of the SGAA (Superannuation Guarantee Ruling SGR 2009/2). However it is unclear whether the payments retain their nature as salary or wages when advanced by a third party provider in the form of a GEERS advance.
 In Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq) [2002] FCA 205; (2002) 2002 ATC 4193; (2002) 49 ATR 196 (Applied Design), the Federal Court held that a priority payment, made under paragraph 556(1)(e) of the Corporations Act 2001 (Corporations Act) to a former employee who had proved a debt for wages, retained its character as salary or wages within the ordinary meaning of that term and was therefore salary or wages for the purposes of section 12-35 of Schedule 1 to the Taxation Administration Act 1953. The Court looked to the fact that the consideration for the payment (of the dividend) was the services rendered by the former employee to the company prior to its liquidation. It was held that the nature of the payment remained unaltered by the liquidation process.
 Similarly, the definition of salary or wages in the SGAA relies in part on its common law meaning, and therefore the payment of a dividend would also constitute salary or wages for the purposes of the SGAA.
@@ -60,85 +39,12 @@ Subsection 6(3) of the SGAA states that, for the purposes of the SGAA, a referen
 According to the Supplementary Explanatory Memorandum (EM) to the Superannuation Guarantee (Administration) Bill 1992, the purpose or object of inserting subsection 6(3) into the SGAA was to ensure that salary or wages paid by another person on behalf of the employer falls within the formula in subsection 19(1) of the SGAA. The Supplementary EM states that prior to the insertion of subsection 6(3), subsection 19(1) only took into account salary or wages paid 'by' the employer and may not have captured salary or wages paid by another person 'on behalf of' the employer.
 The phrase 'on behalf of' in subsection 6(3) is not defined in the SGAA. Therefore, it should be given its ordinary and natural meaning taking into account its context in the SGAA.
 The Macquarie Dictionary, 1997, 3rd edn, defines 'on behalf of' as 'as a representative of; in the interest of; in aid of'.
-The phrase 'on behalf of' was judicially considered in R v. Portus; Ex parte Federated Clerks Union of Australia (1949) 79 CLR 428 where a question arose before the High Court as to whether, within the union's rules, a corporation which employed certain persons did so 'on behalf of' the Government of the Commonwealth. The High Court held that the employees in question were so employed. Thus Latham CJ remarked (at CLR 435):
-
-...The expression "on behalf of the Crown" is not an expression which has a strict legal meaning. An agent who acts on behalf of a principal can, within the limits of his authority, bind the principal by employing a person on his behalf so that that person becomes the employee of the principal. But the words "on behalf of the Crown" in the rules of the organisation evidently mean something less than "as agent for the Crown" in the legal sense.
-
-To similar effect was the opinion of Dixon J (at CLR 438):
-
-...plainly the rule of the Federation when it uses the words "on behalf of" is not contemplating the legal relation of principal and agent. The language as well as the context and subject matter shows that. For the rule speaks of the employees of the person or corporation who employs persons on behalf of the Commonwealth. The person or corporation is the employer, the principal in the contract of service. The employer is not the Crown or Government. The expression "on behalf of" is used in a wider sense. It means for the purposes of, as an instrument of, or for the benefit and in the interest of, the Commonwealth.
-
-The decision was approved and applied by the High Court in R v. Toohey; Ex parte Attorney-General for the Northern Territory (1980) 145 CLR 374. The question there was the meaning of paragraph 50(1)(a) of the Aboriginal Land Rights (Northern Territory) Act 1976 (Cth) which provided that the Aboriginal Land Commissioner was to hear applications made 'by or on behalf of Aboriginals claiming to have a traditional land claim to an area of land...in which all estates and interests not held by the Crown are held by, or on behalf of, Aboriginals'. By majority, the High Court held that the land in question in the case was held 'on behalf of' Aboriginals within the meaning of the Act. In the majority opinion of Stephen, Mason, Murphy and Aickin JJ, after reference to R v. Portus; Ex parte Federated Clerks Union of Australia, their Honours stated (at CLR 386):
-
-The phrase "on behalf of"...bears no single and constant significance. Instead it may be used in conjunction with a wide range or relationships, all however in some way concerned with the standing of one person as auxiliary to or representative of another person or thing....It may be used when speaking of an agency relationship, but also of some quite ephemeral relationships, such as that which exists between a party to litigation and the witness he calls, a witness "on behalf of" the defence. ... Context will always determine to which of the many possible relationships the phrase "on behalf of" is in a particular case being applied; "the context and subject matter" (per Dixon J in the Federated Clerks' Case (1949) 79 CLR, at 438) will be determinative.
-
-Thus, when interpreted in the context of the SGAA, the phrase 'on behalf of' in subsection 6(3) of the SGAA has a wide meaning. It may be used in conjunction with a wide range of relationships (including, but not limited to, the legal relationship of principal and agent), all however in some way concerned with the standing of the person paying the salary or wages for the benefit and in the interest of, or as representative of, the employer.
+The phrase 'on behalf of' was judicially considered in R v. Portus; Ex parte Federated Clerks Union of Australia (1949) 79 CLR 428 where a question arose before the High Court as to whether, within the union's rules, a corporation which employed certain persons did so 'on behalf of' the Government of the Commonwealth. The High Court held that the employees in question were so employed. Thus Latham CJ remarked (at CLR 435): ...The expression "on behalf of the Crown" is not an expression which has a strict legal meaning. An agent who acts on behalf of a principal can, within the limits of his authority, bind the principal by employing a person on his behalf so that that person becomes the employee of the principal. But the words "on behalf of the Crown" in the rules of the organisation evidently mean something less than "as agent for the Crown" in the legal sense. To similar effect was the opinion of Dixon J (at CLR 438): ...plainly the rule of the Federation when it uses the words "on behalf of" is not contemplating the legal relation of principal and agent. The language as well as the context and subject matter shows that. For the rule speaks of the employees of the person or corporation who employs persons on behalf of the Commonwealth. The person or corporation is the employer, the principal in the contract of service. The employer is not the Crown or Government. The expression "on behalf of" is used in a wider sense. It means for the purposes of, as an instrument of, or for the benefit and in the interest of, the Commonwealth. The decision was approved and applied by the High Court in R v. Toohey; Ex parte Attorney-General for the Northern Territory (1980) 145 CLR 374. The question there was the meaning of paragraph 50(1)(a) of the Aboriginal Land Rights (Northern Territory) Act 1976 (Cth) which provided that the Aboriginal Land Commissioner was to hear applications made 'by or on behalf of Aboriginals claiming to have a traditional land claim to an area of land...in which all estates and interests not held by the Crown are held by, or on behalf of, Aboriginals'. By majority, the High Court held that the land in question in the case was held 'on behalf of' Aboriginals within the meaning of the Act. In the majority opinion of Stephen, Mason, Murphy and Aickin JJ, after reference to R v. Portus; Ex parte Federated Clerks Union of Australia, their Honours stated (at CLR 386): The phrase "on behalf of"...bears no single and constant significance. Instead it may be used in conjunction with a wide range or relationships, all however in some way concerned with the standing of one person as auxiliary to or representative of another person or thing....It may be used when speaking of an agency relationship, but also of some quite ephemeral relationships, such as that which exists between a party to litigation and the witness he calls, a witness "on behalf of" the defence. ... Context will always determine to which of the many possible relationships the phrase "on behalf of" is in a particular case being applied; "the context and subject matter" (per Dixon J in the Federated Clerks' Case (1949) 79 CLR, at 438) will be determinative. Thus, when interpreted in the context of the SGAA, the phrase 'on behalf of' in subsection 6(3) of the SGAA has a wide meaning. It may be used in conjunction with a wide range of relationships (including, but not limited to, the legal relationship of principal and agent), all however in some way concerned with the standing of the person paying the salary or wages for the benefit and in the interest of, or as representative of, the employer.
 In terms of the GEERS, it is intended to provide a basic payment scheme for certain unpaid employee entitlements when the employee's employer has been subject to an insolvency event such as liquidation and there are insufficient funds or assets available to the employer to pay those entitlements or no other source of funds is available to pay those entitlements. By paying those entitlements via a GEERS advance, it is considered that DEWR is making the payment for the benefit or in the interest of the company in liquidation. The fact that the company does not authorise DEWR to make the advance, (that is, there is no agency relationship between DEWR and the company) and the fact that it is paid through a third party such as an accounting firm, does not affect this conclusion. Therefore, the payment in this scenario would fall within the scope of subsection 6(3) of the SGAA as being a payment made 'on behalf of' the employer.
 Since the GEERS advance constitutes salary or wages for the purposes of the SGAA and is being paid to the employee on behalf of the company (taking into account the operation of section 15B of the SGAA), the company can have a liability for the individual SG shortfall in respect of the former employee under subsection 19(1) of the SGAA and consequently, the SGC. In the circumstances of this case, as sufficient superannuation contributions were not made by the third party provider in respect of the GEERS advance by the relevant quarterly cut-off date, the company does have a liability for the SGC.
-Date of decision:
-  23 January 2008
-
-Year of income:
-  Year ended 30 June 2008
-
-Legislative References:
-
-Superannuation Guarantee (Administration) Act 1992   subsection 6(3)   section 11   paragraph 11(1)(a)   paragraph 11(1)(b)   paragraph 11(1)(ba)   paragraph 11(1)(c)   paragraph 11(1)(d)   paragraph 11(1)(e)   section 15B   subsection 19(1)
-Corporations Act 2001   paragraph 556(1)(e)
-Taxation Administration Act 1953   section 12-35 of Schedule 1
-
-Case References:
-
-Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq)    [2002] FCA 205   (2002) 2002 ATC 4193   (2002) 49 ATR 196
-
-R v. Portus ; Ex parte Federated Clerks Union of Australia   (1949) 79 CLR 428
-
-R v. Toohey ; Ex parte Attorney-General for the Northern Territory   (1980) 145 CLR 374
-
-Related Public Rulings (including Determinations)
-
-Superannuation Guarantee Ruling SGR 2009/2
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/26
- ATO ID 2008/27
- ATO ID 2008/28
-
-Other References:
-
-Aboriginal Land Rights (Northern Territory) Act 1976 (Cth)
- Supplementary Explanatory Memorandum to the Superannuation Guarantee (Administration) Bill 1992
-Macquarie Dictionary, 1997, 3rd edn
-
-Keywords
-
-Employees
- Liquidation
- Superannuation guarantee charge
- Superannuation guarantee shortfalls
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  8 February 2008
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-23 January 2008
-Original statement
-
-You are here
- 5 June 2015
+Date of decision: 23 January 2008 Year of income: Year ended 30 June 2008 Legislative References: Superannuation Guarantee (Administration) Act 1992 subsection 6(3) section 11 paragraph 11(1)(a) paragraph 11(1)(b) paragraph 11(1)(ba) paragraph 11(1)(c) paragraph 11(1)(d) paragraph 11(1)(e) section 15B subsection 19(1)
+Corporations Act 2001 paragraph 556(1)(e)
+Taxation Administration Act 1953 section 12-35 of Schedule 1 Case References: Deputy Commissioner of Taxation v. Applied Design Development Pty Ltd (In Liq) [2002] FCA 205 (2002) 2002 ATC 4193 (2002) 49 ATR 196 R v. Portus ; Ex parte Federated Clerks Union of Australia (1949) 79 CLR 428 R v. Toohey ; Ex parte Attorney-General for the Northern Territory (1980) 145 CLR 374 Related Public Rulings (including Determinations) Superannuation Guarantee Ruling SGR 2009/2 Related ATO Interpretative Decisions ATO ID 2008/26 ATO ID 2008/27 ATO ID 2008/28 Other References: Aboriginal Land Rights (Northern Territory) Act 1976 (Cth) Supplementary Explanatory Memorandum to the Superannuation Guarantee (Administration) Bill 1992
+Macquarie Dictionary, 1997, 3rd edn Keywords Employees Liquidation Superannuation guarantee charge Superannuation guarantee shortfalls Business Line: Superannuation Date of publication: 8 February 2008 ISSN: 1445-2782 history Date: Version: 23 January 2008
+Original statement You are here 5 June 2015
 Archived

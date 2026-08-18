@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/170
-==================================================
-
-Superannuation
- Self managed superannuation fund: limited recourse borrowing arrangement - third party guarantee
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Self managed superannuation fund: limited recourse borrowing arrangement - third party guarantee FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a borrowing by the self managed superannuation fund (SMSF) trustee satisfy the requirements of former subsection 67(4A) of the Superannuation Industry (Supervision) Act 1993 (SISA) where a related party of the SMSF has given the lender a personal guarantee as part of the arrangement?
 Decision
 Yes, a borrowing arrangement that includes a guarantee to the lender by a related party of the SMSF can satisfy the requirements of former subsection 67(4A) of the SISA.
@@ -26,69 +13,17 @@ In the event of a default on the borrowing the rights of the lender against the 
 The arrangement otherwise satisfies the requirements of former paragraphs 67(4A)(a) to (e) of the SISA.
 Reasons for Decision
 Regulated superannuation funds are generally prohibited from borrowing money or maintaining a borrowing of money, by subsection 67(1) of the SISA, unless the borrowing satisfies one of the exceptions provided for by section 67 of the SISA. One such exception is provided for by former subsection 67(4A) of the SISA (applying to limited recourse borrowing arrangements entered into before 7 July 2010).
-In order to satisfy former subsection 67(4A) of the SISA, the limited recourse borrowing arrangement must meet the following requirements set out in former paragraphs 67(4A)(a) to (e) of the SISA:
-
-•the borrowed monies are applied to acquire an asset which the SMSF is not otherwise prohibited from acquiring (paragraph 67(4A)(a)).
+In order to satisfy former subsection 67(4A) of the SISA, the limited recourse borrowing arrangement must meet the following requirements set out in former paragraphs 67(4A)(a) to (e) of the SISA: •the borrowed monies are applied to acquire an asset which the SMSF is not otherwise prohibited from acquiring (paragraph 67(4A)(a)).
 •the asset is held on trust (the holding trust) so that the SMSF receives a beneficial interest in the asset (paragraph 67(4A)(b)).
 •the SMSF has the right to acquire legal ownership of the asset by making one or more payments after acquiring the beneficial interest (paragraph 67(4A)(c)).
-•any recourse that the lender has under the arrangement against the SMSF trustee is limited to rights relating to the asset held in the holding trust (paragraphs 67(4A)(d) and (e)).
-
-Unless varied by the express terms of the guarantee, then in the event of a call on the guarantee resulting in a payment by the guarantor to the lender, a guarantor will generally have rights at common law and in equity against the principal debtor (the SMSF trustee) to recover amounts paid in satisfaction of the obligations under the guarantee. This may include interest and costs and in some circumstances, damages. The recourse of the guarantor is therefore not necessarily restricted to the asset which is the subject of the arrangement.
-The rights of the guarantor are not rights of the lender against the SMSF trustee for the purposes of former paragraphs 67(4A)(d) and (e) of the SISA. The rights of the guarantor do not cause the arrangement to fail to meet the requirements of former subsection 67(4A).
-
-Guarantor's rights now must be limited
-
-However, limited recourse borrowing arrangements entered into by SMSF trustees on or after 7 July 2010 must meet the requirements of section 67A of the SISA. Arrangements involving guarantees will not meet these requirements unless the rights of the guarantor against the SMSF trustee are limited to rights relating to the asset which is the subject of the arrangement. One way in which the rights of a guarantor may be excluded or limited is by the express terms of the guarantee.
-Amendment History
-
-Date of Amendment
+•any recourse that the lender has under the arrangement against the SMSF trustee is limited to rights relating to the asset held in the holding trust (paragraphs 67(4A)(d) and (e)). Unless varied by the express terms of the guarantee, then in the event of a call on the guarantee resulting in a payment by the guarantor to the lender, a guarantor will generally have rights at common law and in equity against the principal debtor (the SMSF trustee) to recover amounts paid in satisfaction of the obligations under the guarantee. This may include interest and costs and in some circumstances, damages. The recourse of the guarantor is therefore not necessarily restricted to the asset which is the subject of the arrangement.
+The rights of the guarantor are not rights of the lender against the SMSF trustee for the purposes of former paragraphs 67(4A)(d) and (e) of the SISA. The rights of the guarantor do not cause the arrangement to fail to meet the requirements of former subsection 67(4A). Guarantor's rights now must be limited However, limited recourse borrowing arrangements entered into by SMSF trustees on or after 7 July 2010 must meet the requirements of section 67A of the SISA. Arrangements involving guarantees will not meet these requirements unless the rights of the guarantor against the SMSF trustee are limited to rights relating to the asset which is the subject of the arrangement. One way in which the rights of a guarantor may be excluded or limited is by the express terms of the guarantee.
+Amendment History Date of Amendment
 Part
-Comment
-
-20 March 2015
+Comment 20 March 2015
 Reason for Decision
 Correct typographical error and subheading.
-Improve flow of reasoning in final paragraph.
-
-Date of decision:
-  30 June 2010
-
-Year of income:
-  Year ended 30 June 2009
-
-Legislative References:
-
-Superannuation Industry (Supervision) Act 1993   subsection 67(1)   former subsection 67(4A)   section 67A
-
-Keywords
-
-Self managed superannuation funds
- SMSF borrowings
-
-Siebel/TDMS Reference Number:
-  1-1WIVZY1; 1-6BJC60Y
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  24 September 2010
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-30 June 2010
-Original statement
-
-You are here
+Improve flow of reasoning in final paragraph. Date of decision: 30 June 2010 Year of income: Year ended 30 June 2009 Legislative References: Superannuation Industry (Supervision) Act 1993 subsection 67(1) former subsection 67(4A) section 67A Keywords Self managed superannuation funds SMSF borrowings Siebel/TDMS Reference Number: 1-1WIVZY1; 1-6BJC60Y Business Line: Superannuation Date of publication: 24 September 2010 ISSN: 1445-2782 history Date: Version: 30 June 2010
+Original statement You are here
 20 March 2015
 Updated statement

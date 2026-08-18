@@ -1,75 +1,19 @@
 ATO Interpretative Decision
 ATO ID 2003/1192
-==================================================
-
-Income Tax
- Income Tax: gains on conversion of convertible notes
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Income Tax: gains on conversion of convertible notes FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a gain on the conversion of a convertible note into an ordinary share assessable income pursuant to section 26BB of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. Section 26BB operates so that a gain on the conversion of a convertible note into an ordinary share is not included in assessable income if the note is a traditional security issued after 14 May 2002.
 Facts
-The taxpayer purchased a number of convertible notes (the notes) with the following features:
-
-• at any time up until the maturity of the notes, the holder has the option to:
-
-(a) redeem the notes at face value, or
-(b) convert each note into one ordinary share in the issuer company,
-
-• the notes were not issued at a discount, and
-• the notes were issued after 14 May 2002.
-
-There is no suggestion that the parties have not dealt at arm's length. The notes are not trading stock of the taxpayer. When the notes were issued, it was not reasonably likely that a share in the issuer company would be worth more than the issue price of a note prior to the maturity date.
+The taxpayer purchased a number of convertible notes (the notes) with the following features: • at any time up until the maturity of the notes, the holder has the option to: (a) redeem the notes at face value, or
+(b) convert each note into one ordinary share in the issuer company, • the notes were not issued at a discount, and
+• the notes were issued after 14 May 2002. There is no suggestion that the parties have not dealt at arm's length. The notes are not trading stock of the taxpayer. When the notes were issued, it was not reasonably likely that a share in the issuer company would be worth more than the issue price of a note prior to the maturity date.
 Reasons for Decision
 Subsection 26BB(2) of the ITAA 1936 treats gains on the disposal or redemption of 'traditional securities' as assessable income in that income year. A 'security' that does not have an 'eligible return' will be a 'traditional security' (subsection 26BB(1) of the ITAA 1936).
 The definition of 'security' in subsection 159GP(1) of the ITAA 1936 includes a 'debenture'. 'Debenture' is defined in subsection 6(1) of the ITAA 1936 as including 'notes and any other securities of the company'. Since the convertible notes are debentures, they are a 'security'.
 An 'eligible return' exists where, 'at the time the security is issued it is reasonably likely' that the sum of all payments on the security (not including periodic interest) is greater than the issue price (subsection 159GP(3) of the ITAA 1936). In this instance, if the shares are redeemed for cash there is no eligible return. This is because the notes would be redeemed for their face value.
 If the notes are converted into shares, the shares must be given a monetary value (section 21 of the ITAA 1936). This value should be the market value of the shares (Taxation Ruling TR 96/14 paragraph 101; Case 88 13 CTBR (NS) 571 per Member Thompson at 586). There is an eligible return if at the time the notes are issued it is reasonably likely that the value of the shares will exceed the face value of the notes when converted. In this instance there is no such likelihood. As a result, the notes do not have an 'eligible return'.
-Because the notes do not have an eligible return and are not trading stock, they are a traditional security. Ordinarily this would mean that the amount of any gain on their redemption or conversion would be assessable income to the taxpayer (subsection 26BB(2) of the ITAA 1936). However, subsection 26BB(4) of the ITAA 1936 overrides this rule in this instance because:
-
-(a) the notes are converted into ordinary shares of the company that issued the notes (or of a connected entity); and
-(b) the notes were issued on the basis that they may convert into ordinary shares of the issuer company (or of a connected entity).
-
-Subsection 26BB(4) was inserted into the ITAA 1936 by item 17 of Schedule 1 of the New Business Tax System (Taxation of Financial Arrangements) Act (No 1) 2003 and applies to traditional securities issued after 7:30pm legal time in the Australian Capital Territory on 14 May 2002. Since the notes were issued after this date, the effect of subsection 26BB(4) of the ITAA 1936 is that any gain on the conversion of the notes into shares will not be included in assessable income by subsection 26BB(2) of the ITAA 1936.
-Date of decision:
-  18 December 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 26BB   subsection 159GP(1)   subsection 159GP(3)   subsection 6(1)   section 21
-
-Case References:
-
-Case 88    13 CTBR (NS) 571
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 96/14
-
-Keywords
-
-Convertible notes
- Traditional securities
-
-Siebel/TDMS Reference Number:
-  3872626
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 December 2003
-
-ISSN:
- 1445-2782
+Because the notes do not have an eligible return and are not trading stock, they are a traditional security. Ordinarily this would mean that the amount of any gain on their redemption or conversion would be assessable income to the taxpayer (subsection 26BB(2) of the ITAA 1936). However, subsection 26BB(4) of the ITAA 1936 overrides this rule in this instance because: (a) the notes are converted into ordinary shares of the company that issued the notes (or of a connected entity); and
+(b) the notes were issued on the basis that they may convert into ordinary shares of the issuer company (or of a connected entity). Subsection 26BB(4) was inserted into the ITAA 1936 by item 17 of Schedule 1 of the New Business Tax System (Taxation of Financial Arrangements) Act (No 1) 2003 and applies to traditional securities issued after 7:30pm legal time in the Australian Capital Territory on 14 May 2002. Since the notes were issued after this date, the effect of subsection 26BB(4) of the ITAA 1936 is that any gain on the conversion of the notes into shares will not be included in assessable income by subsection 26BB(2) of the ITAA 1936.
+Date of decision: 18 December 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 26BB subsection 159GP(1) subsection 159GP(3) subsection 6(1) section 21 Case References: Case 88 13 CTBR (NS) 571 Related Public Rulings (including Determinations) Taxation Ruling TR 96/14 Keywords Convertible notes Traditional securities Siebel/TDMS Reference Number: 3872626 Business Line: Public Groups and International Date of publication: 24 December 2003 ISSN: 1445-2782

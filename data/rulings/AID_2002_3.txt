@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/3
-==================================================
-
-Goods and Services Tax
- GST and a cushion with an overlay
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and a cushion with an overlay FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a supplier of seating accessories, making a GST-free supply under subsection 38-45(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies a cushion with an overlay that is designed for use on the seats of heavy earthmoving equipment?
 Decision
 No, the entity is not making a GST-free supply under subsection 38-45(1) of the GST Act when it supplies a cushion with an overlay that is designed to be used on the seats of heavy earthmoving equipment. The entity is making a taxable supply under section 9-5 of the GST Act.
@@ -21,50 +10,16 @@ The entity is a supplier of seating accessories. The entity supplies a cushion w
 The cushion with an overlay is designed to act as a shock absorber to help prevent back injury for people using heavy earthmoving equipment. The cushion with an overlay is customised to fit the seat dimensions of the heavy earthmoving equipment.
 The entity is registered for goods and services tax (GST). The supply meets the other positive limbs of section 9-5 of the GST Act.
 Reasons for Decision
-Under subsection 38-45(1) of the GST Act, the supply of certain medical aids and appliances is GST-free where the medical aid or appliance:
-
-•is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
+Under subsection 38-45(1) of the GST Act, the supply of certain medical aids and appliances is GST-free where the medical aid or appliance: •is covered by Schedule 3 to the GST Act (Schedule 3), or specified in the A New Tax System (Goods and Services Tax) Regulations 2019(GST Regulations); and
 •is specifically designed for people with an illness or disability; and
-•is not widely used by people without an illness or disability.
-
-Item 87 in the table of Schedule 3 (Item 87) lists 'cushions specifically designed for people with disabilities'.
+•is not widely used by people without an illness or disability. Item 87 in the table of Schedule 3 (Item 87) lists 'cushions specifically designed for people with disabilities'.
 It is considered that for an item to fall within this category, the item must be a cushion with a specifically designed character or function, that has been made or adapted for the purpose of assisting with the support or positioning of an individual with a disability or to prevent or alleviate conditions associated with that disability.
 In this case, the cushion with an overlay is designed to help prevent back injury for people using heavy earthmoving equipment. It is being used as a preventative measure and to provide comfort during work activities rather than to assist with the support or positioning of a person with a disability. As such, the cushion with an overlay is not a cushion specifically designed for people with disabilities for the purpose of Item 87. In addition, this cushion with an overlay is not specifically designed for people with an illness or disability and is widely used by people without an illness or disability.
 Therefore, the supply of a cushion with an overlay is not GST-free under subsection 38-45(1) of the GST Act.
 The entity is registered for GST and the supply satisfies the other positive limbs of section 9-5 of the GST Act. Furthermore, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act. Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies a cushion with an overlay that is designed for use on the seats of heavy earthmoving equipment.
-Amendment History
-
-Date of Amendment
+Amendment History Date of Amendment
 Part
-Comment
-
-9 April 2019
+Comment 9 April 2019
 Throughout
-Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019.
-
-Date of decision:
-  8 June 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   Division 38   subsection 38-45(1)   Division 40   Schedule 3   Schedule 3 table item 87
-A New Tax System (Goods and Services Tax) Regulations 2019   Regulation
-
-Keywords
-
-Goods and services tax
- GST free
- GST health
- Section 38-45 - medical aids & appliances
-
-Siebel/TDMS Reference Number:
-  CW213609
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  9 January 2002
-
-ISSN:
- 1445-2782
+Updated A New Tax System (Goods and Services Tax) Regulations 1999 to A New Tax System (Goods and Services Tax) Regulations 2019. Date of decision: 8 June 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 Division 38 subsection 38-45(1) Division 40 Schedule 3 Schedule 3 table item 87
+A New Tax System (Goods and Services Tax) Regulations 2019 Regulation Keywords Goods and services tax GST free GST health Section 38-45 - medical aids & appliances Siebel/TDMS Reference Number: CW213609 Business Line: Indirect Tax Date of publication: 9 January 2002 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/72
-==================================================
-
-Goods and Services Tax
- GST and attribution of an increasing adjustment for a recipient of a GST-free supply of a going concern
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and attribution of an increasing adjustment for a recipient of a GST-free supply of a going concern FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 In which tax period does an entity attribute an increasing adjustment arising under section 135-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), where the entity is the recipient of a GST-free supply of a going concern and it only becomes aware in a subsequent tax period that the supplies which, at the time of its acquisition, it intended to make and subsequently made through the enterprise, are neither taxable supplies nor GST-free supplies?
 Decision
 The increasing adjustment arising under section 135-5 of the GST Act is attributable to the tax period in which the entity acquired the GST-free supply of the going concern.
@@ -33,27 +22,4 @@ As both of these conditions relate to the point in time at which the acquisition
 It follows then that the adjustment which arises under section 135-5 of the GST Act is attributable to the tax period in which the entity acquired the enterprise. This is when the entity forms the intention to make the particular input taxed supplies, even though at the time, it incorrectly characterised those intended supplies as being taxable supplies.
 The correct GST treatment of the intended supplies is not dependent on the entity's understanding of the GST law, but is determined by the law itself. At the time the entity made the acquisition of the supply of a going concern it was aware that it was the recipient of the supply and was aware of the supplies which it intended to make. Under the GST law, those intended supplies were supplies that, when made, will be input taxed.
 Accordingly, the entity attributes the increasing adjustment it has under section 135-5 of the GST Act to the tax period in which its acquisition of the supply of the going concern occurred.
-Date of decision:
-  13 April 2007
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 29-20   subsection 29-20(1)   Division 135   section 135-5   section 195-1
-
-Keywords
-
-Adjustments
- GST supply of going concern
- GST Property & Construction Stream
-
-Siebel/TDMS Reference Number:
-  5565725
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  20 April 2007
-
-ISSN:
- 1445-2782
+Date of decision: 13 April 2007 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 29-20 subsection 29-20(1) Division 135 section 135-5 section 195-1 Keywords Adjustments GST supply of going concern GST Property & Construction Stream Siebel/TDMS Reference Number: 5565725 Business Line: Indirect Tax Date of publication: 20 April 2007 ISSN: 1445-2782

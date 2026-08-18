@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/344
-==================================================
-
-Goods and Services Tax
- GST and Grouping of partnership and trust
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and Grouping of partnership and trust FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do the entities, a partnership, Trust A and Trust B satisfy the membership requirements to form a goods and services tax (GST) group under section 48-10 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
 Decision
 No, the entities do not satisfy the membership requirements to form a GST group under section 48-10 of the GST Act.
@@ -27,56 +16,16 @@ Section 48-5 of the GST Act sets out the requirements that must be satisfied for
 The general membership requirements of a GST group are set out in section 48-10 of the GST Act.
 Paragraph 48-10(1)(c) of the GST Act applies to all entities that wish to form a GST group and requires that they be registered for GST. As Trust A and Trust B are not registered for GST, they cannot be members of a GST group.
 Furthermore, in this case, there are other reasons why the entities cannot form a GST group.
-For a partnership or trust, subparagraph 48-10(1)(a)(ii) of the GST Act provides that to satisfy the membership requirements of a GST group, the specifications in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) must be met.
-
-Partnerships and the regulatory requirements
-
-Firstly, it must be determined whether the partnership, meets the requirements in the GST Regulations. Regulation 48-10.02 of the GST Regulations sets out the requirements that must be satisfied for a partnership to be a member of a GST group.
-Subregulation 48-10.02(4) of the GST Regulations is of particular relevance, in this case. It is satisfied if, for at least one trust that is a member of the GST group, the beneficiaries include partners in the partnership, or family members of the partners, in a way that ensures that at least two partners are represented:
-
-• either personally or by a family member; and
-• either directly, or indirectly through one or more interposed trusts.
-
-This means that individual B or a family member of individual B need to be a beneficiary of Trust A or, alternatively, individual A or a family member of individual A need to be a beneficiary of Trust B. In this case, neither Trust A nor Trust B has both partners represented (either personally or by a family member) as beneficiaries. Accordingly, the requirements set out in subregulation 48-10.02(4) of the GST Regulations are not met.
-Therefore, the partnership cannot form a GST group with either Trust A or Trust B as the requirements set out in subparagraph 48-10(1)(a)(ii) of the GST Act are not satisfied.
-
-Trusts and the regulatory requirements
-
-Next, it must be determined whether either trust can form a GST group with the partnership. This is because there is no regulatory ability for a trust to form a GST group solely with another trust. For the three entities to form a GST group, each trust must be able to form a GST group with the partnership.
+For a partnership or trust, subparagraph 48-10(1)(a)(ii) of the GST Act provides that to satisfy the membership requirements of a GST group, the specifications in the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) must be met. Partnerships and the regulatory requirements Firstly, it must be determined whether the partnership, meets the requirements in the GST Regulations. Regulation 48-10.02 of the GST Regulations sets out the requirements that must be satisfied for a partnership to be a member of a GST group.
+Subregulation 48-10.02(4) of the GST Regulations is of particular relevance, in this case. It is satisfied if, for at least one trust that is a member of the GST group, the beneficiaries include partners in the partnership, or family members of the partners, in a way that ensures that at least two partners are represented: • either personally or by a family member; and
+• either directly, or indirectly through one or more interposed trusts. This means that individual B or a family member of individual B need to be a beneficiary of Trust A or, alternatively, individual A or a family member of individual A need to be a beneficiary of Trust B. In this case, neither Trust A nor Trust B has both partners represented (either personally or by a family member) as beneficiaries. Accordingly, the requirements set out in subregulation 48-10.02(4) of the GST Regulations are not met.
+Therefore, the partnership cannot form a GST group with either Trust A or Trust B as the requirements set out in subparagraph 48-10(1)(a)(ii) of the GST Act are not satisfied. Trusts and the regulatory requirements Next, it must be determined whether either trust can form a GST group with the partnership. This is because there is no regulatory ability for a trust to form a GST group solely with another trust. For the three entities to form a GST group, each trust must be able to form a GST group with the partnership.
 For Trust A to be part of a GST group, regulation 48-10.03 of the GST Regulations must be satisfied.
 In this case as there is no company in the proposed group, neither of the trustees has at least a 90% stake in a company group member (paragraph 48-10.03(2)(a) of the GST Regulations). Therefore, it must be determined whether the trustee of Trust A is distributing income or capital only to 'permitted beneficiaries' (paragraph 48-10.03(2)(b) of the GST Regulations).
-Subregulation 48-10.03(5) of the GST Regulations allows the partners in a partnership that is a member of a GST group and their family members to be 'permitted beneficiaries' if the beneficiaries of the trust include partners and their family members of the partner, in a way that ensures that at least two partners are represented:
-
-• either personally or by a family; and
-• either directly or indirectly through one or more interposed trusts.
-
-In this case, Trust A's only beneficiaries are individual A, their spouse and children. Neither individual B nor a family member of individual B is a beneficiary of Trust A. Therefore, both partners of the partnership are not represented in Trust A. Thus, anytime the trustee of Trust A distributes income or capital of the trust, it is distributing to beneficiaries that are not 'permitted beneficiaries'. Accordingly, regulation 48-10.03 of the GST Regulations is not satisfied.
+Subregulation 48-10.03(5) of the GST Regulations allows the partners in a partnership that is a member of a GST group and their family members to be 'permitted beneficiaries' if the beneficiaries of the trust include partners and their family members of the partner, in a way that ensures that at least two partners are represented: • either personally or by a family; and
+• either directly or indirectly through one or more interposed trusts. In this case, Trust A's only beneficiaries are individual A, their spouse and children. Neither individual B nor a family member of individual B is a beneficiary of Trust A. Therefore, both partners of the partnership are not represented in Trust A. Thus, anytime the trustee of Trust A distributes income or capital of the trust, it is distributing to beneficiaries that are not 'permitted beneficiaries'. Accordingly, regulation 48-10.03 of the GST Regulations is not satisfied.
 Therefore, Trust A cannot form a GST group with the partnership as the requirements set out in subparagraph 48-10(1)(a)(ii) of the GST Act are not satisfied.
 Similarly, Trust B also cannot form a GST group with the partnership. This is because the beneficiaries of Trust B are individual B, their spouse and children. Neither individual A nor a family member of individual A is a beneficiary of Trust B. Therefore, both partners of the partnership are not represented in Trust B. Thus, anytime the trustee of Trust B distributes income or capital of the trust, it is distributing to beneficiaries that are not 'permitted beneficiaries'.
 Therefore, Trust B cannot form a GST group with the partnership, as the requirements set out in subparagraph 48-10(1)(a)(ii) of the GST Act are not satisfied.
-Thus, the entities do not satisfy the membership requirements of a GST group under section 48-10 of the GST Act.
-
-[HISTORY: This ATO ID was amended on 16 March 2007 to reflect the decision is current to 31 March 2003. The reason for this is The A New Tax System (Goods and Services Tax) Regulations 1997 (amended by the A New Tax System (Goods and Services Tax) Amendment Regulations 2003 (No. 1) (2003 No. 37) affect certain group membership requirements from 1 April 2003.]
-
-Date of decision:
-  10 April 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 48-5   paragraph 48-5(1)(b)   section 48-10   subparagraph 48-10(1)(a)(ii)   paragraph 48-10(1)(c)
-A New Tax System (Goods and Services Tax) Regulations 1999   regulation 48-10.02   subregulation 48-10.02(4)   regulation 48-10.03   subregulation 48-10.03(1)   paragraph 48-10.03(2)(a)   paragraph 48-10.03(2)(b)   subregulation 48-10.03(5)
-
-Keywords
-
-Goods and services tax
- GST special rules
- GST groups
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  20 September 2001
-
-ISSN:
- 1445-2782
+Thus, the entities do not satisfy the membership requirements of a GST group under section 48-10 of the GST Act. [HISTORY: This ATO ID was amended on 16 March 2007 to reflect the decision is current to 31 March 2003. The reason for this is The A New Tax System (Goods and Services Tax) Regulations 1997 (amended by the A New Tax System (Goods and Services Tax) Amendment Regulations 2003 (No. 1) (2003 No. 37) affect certain group membership requirements from 1 April 2003.] Date of decision: 10 April 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 48-5 paragraph 48-5(1)(b) section 48-10 subparagraph 48-10(1)(a)(ii) paragraph 48-10(1)(c)
+A New Tax System (Goods and Services Tax) Regulations 1999 regulation 48-10.02 subregulation 48-10.02(4) regulation 48-10.03 subregulation 48-10.03(1) paragraph 48-10.03(2)(a) paragraph 48-10.03(2)(b) subregulation 48-10.03(5) Keywords Goods and services tax GST special rules GST groups Business Line: Indirect Tax Date of publication: 20 September 2001 ISSN: 1445-2782

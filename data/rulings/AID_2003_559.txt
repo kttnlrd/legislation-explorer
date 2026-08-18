@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/559
-==================================================
-
-Income Tax
- Disposal of a CGT asset to a trust: application of CGT event A1 or CGT event E2
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Disposal of a CGT asset to a trust: application of CGT event A1 or CGT event E2 FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 For the purposes of subsection 102-25(1) of the Income Tax Assessment Act 1997 (ITAA 1997) is CGT event A1 in section 104-10 of the ITAA 1997 the most specific CGT event that happens, rather than CGT event E2 in section 104-60 of the ITAA 1997, as a result of a taxpayer disposing of an asset to a trust that is not connected with the taxpayer in any way?
 Decision
 Yes. CGT event A1 in section 104-10 of the ITAA 1997 is the most specific event that happens (and not CGT event E2) in these circumstances.
@@ -33,73 +20,17 @@ In this case, the vendor knew that the purchaser was acting in a trustee capacit
 Consistent with that outcome, CGT event A1 is considered the most specific event whenever the parties are unconnected. It would be inappropriate for a different CGT event to apply depending on whether the vendor knew the capacity in which the purchaser was acquiring the asset.
 On the other hand, CGT event E2 will be the most specific event if, for example, an asset is transferred to a trust of which the transferor or an associate is a beneficiary or object.
 The exception to CGT event E2 suggests that event is applicable when the parties are connected. That exception applies if the transferor is the sole beneficiary of the trust and is absolutely entitled to the transferred asset as against the trustee and the trust is not a unit trust (section 104-60(5) of the ITAA 1997).Accordingly, CGT event A1 is the most specific event that happens where an asset is sold to the trustee of a trust that has no connection with the vendor or the vendor's associates.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-24 April 2014
+Comment 24 April 2014
 Reasons for Decision
-Removed reference to section 104-10(7) of the ITAA 1997
-
-Reasons for Decision
-Removed reference to section 104-60(5)(b)
-
-Note
-Removed note regarding announced law changes
-
-Legislative References
+Removed reference to section 104-10(7) of the ITAA 1997 Reasons for Decision
+Removed reference to section 104-60(5)(b) Note
+Removed note regarding announced law changes Legislative References
 Removed references to:
 section 104-70(7)of the ITAA 1997
 paragraph 104-60(5)(a) of the ITAA 1997
-paragraph 104-60(5)(b) of the ITAA 1997
-
-Date of decision:
-  25 June 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 102-25(1)   section 104-10   section 104-60   subsection 104-60(5)
-
-Keywords
-
-CGT event A1-disposal of a CGT asset
- CGT events E1-E9 - trusts
- Connected entity
- Disposal of assets
- Trusts
-
-Siebel/TDMS Reference Number:
-  3557068; 1-ACOJF7A
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  11 July 2003
-
-Date reviewed:
-  29 November 2016
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-25 June 2003
-Original statement
-
-You are here
+paragraph 104-60(5)(b) of the ITAA 1997 Date of decision: 25 June 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 102-25(1) section 104-10 section 104-60 subsection 104-60(5) Keywords CGT event A1-disposal of a CGT asset CGT events E1-E9 - trusts Connected entity Disposal of assets Trusts Siebel/TDMS Reference Number: 3557068; 1-ACOJF7A Business Line: Private Groups and High Wealth Individuals Date of publication: 11 July 2003 Date reviewed: 29 November 2016 ISSN: 1445-2782 history Date: Version: 25 June 2003
+Original statement You are here
 24 April 2014
 Updated statement

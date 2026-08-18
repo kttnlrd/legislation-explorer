@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/63
-==================================================
-
-Superannuation
- Notional Earnings Base: predecessor fund
- FOI status: may be released
-
-This ATO ID is withdrawn as amendments of the Superannuation Guarantee (Administration) Act 1992 from 1 July 2008 have standardised the amount against which an employer calculates the minimum contribution necessary to meet their superannuation guarantee obligations. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for years prior to 1 July 2003 and quarters prior to 1 July 2008.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Superannuation Notional Earnings Base: predecessor fund FOI status: may be released This ATO ID is withdrawn as amendments of the Superannuation Guarantee (Administration) Act 1992 from 1 July 2008 have standardised the amount against which an employer calculates the minimum contribution necessary to meet their superannuation guarantee obligations. Despite its withdrawal, this ATO ID continues to be a precedential view in respect of decisions for years prior to 1 July 2003 and quarters prior to 1 July 2008. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can an employer who was making contributions for the benefit of an employee to a superannuation fund (fund X) in accordance with an earnings base established prior to 21 August 1991 continue to use that earnings base in respect of that employee after 21 August 1991 if the employer contributes to another fund (fund Y)?
 Decision
 Yes, the employer can continue to use the earnings base established prior to 21 August 1991 when making contributions for the employee to fund Y. This is because fund X is a predecessor fund of fund Y under subsection 13(4D) of the Superannuation Guarantee (Administration) Act 1992 (SGAA).
@@ -26,59 +11,14 @@ Fund X was closed on 30 June 2000 and the employee's benefits in the fund were t
 Before the transfer of the benefits, a written arrangement was made between the trustees of fund X and fund Y that fund Y would provide substantially the same or improved rights to benefits than provided by fund X for all employees whose benefits were transferred.
 Reasons for Decision
 An employer who was contributing to a superannuation fund for the benefit of an employee or employees in accordance with an earnings base established before 21 August 1991 can continue to use that earnings base after 21 August 1991 in respect of another fund, provided that the original fund is a 'predecessor fund' of the new fund as specified in subsection 13(4D) of the SGAA.
-For the purposes of subsection 13(4D) of the SGAA, a fund (the test fund) is a predecessor fund, of another fund (the primary fund) in relation to an employer if the requirements of either subsection 13(4E) or 13(4F) of the SGAA are satisfied. Subsection 13(4E) of the SGAA applies if, some time on or after 3.55pm legal time in the ACT on 28 June 1994:
-
-(a)the test fund transferred to the primary fund some or all of the benefits of one or more of the employees of the employer, in the test fund; and
+For the purposes of subsection 13(4D) of the SGAA, a fund (the test fund) is a predecessor fund, of another fund (the primary fund) in relation to an employer if the requirements of either subsection 13(4E) or 13(4F) of the SGAA are satisfied. Subsection 13(4E) of the SGAA applies if, some time on or after 3.55pm legal time in the ACT on 28 June 1994: (a)the test fund transferred to the primary fund some or all of the benefits of one or more of the employees of the employer, in the test fund; and
 (b)the primary fund conferred on all of the employees whose benefits were transferred during the period, rights, in respect of the transferred benefits, that were substantially the same as, or better than, those conferred on the employees by the test fund; and
-(c)before the transfer of each of the benefits, a written agreement was in force between the trustee of the primary fund and the trustee of the test fund that the primary fund would confer those rights on the transferring employees.
-
-In the current circumstances, the employer was originally contributing to fund X (the test fund) before 21 August 1991 based on the definition of salary in the fund's trust deed. This definition excluded any bonuses.
+(c)before the transfer of each of the benefits, a written agreement was in force between the trustee of the primary fund and the trustee of the test fund that the primary fund would confer those rights on the transferring employees. In the current circumstances, the employer was originally contributing to fund X (the test fund) before 21 August 1991 based on the definition of salary in the fund's trust deed. This definition excluded any bonuses.
 The benefits of members of fund X were subsequently transferred to fund Y (the primary fund) in July 2000. The employer continued to use the definition of 'salary' in fund X's trust deed in respect of contributions made to fund Y on the basis that fund X is a predecessor fund of fund Y.
 As fund X transferred to fund Y all the benefits of the employees of the employer in fund X in July 2000, paragraph 13(4E)(a) of the SGAA is satisfied.
 It is argued that fund Y does not confer, on all the employees whose benefits were transferred, substantially the same or improved rights to benefits as those conferred on the employees by fund X because administration fees are debited to the member's account and insurance premiums charged by the fund are greater than those charged by fund X. However, when determining if a fund provides similar or greater rights to benefits for members, it is the nature or overall value of the rights to the benefits provided by the fund that is to be considered, not the costs incurred by the fund in providing those benefits. Therefore, paragraph 13(4E)(b) of the SGAA is satisfied.
 Before the transfer of benefits occurred in July 2000, a written agreement was made in May 2000 between the trustee of fund X and fund Y that fund Y would provide substantially the same or improved rights to benefits to fund X for all employees whose benefits were transferred. Paragraph 13(4E)(c) of the SGAA has therefore been satisfied.
 As each of the conditions in subsection 13(4E) of the SGAA have been satisfied, a predecessor fund relationship between fund X and fund Y has been established for the purposes of subsection 13(4D) of the SGAA. Accordingly, the employer can continue to contribute in accordance with the earnings base established prior to 21 August 1991 for the employee.
-Date of decision:
-  18 October 2005
-
-Year of income:
-  Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005
-
-Legislative References:
-
-Superannuation Guarantee (Administration) Act 1992   subsection 13(1)   subsection 13(4D)   subsection 13(4E)   subsection 13(4F)
-
-Related Public Rulings (including Determinations)
-
-Superannuation Guarantee Ruling SGR 94/1
-
-Keywords
-
-Superannuation funds
- Superannuation guarantee charge
- Superannuation guarantee scheme
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  24 February 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-18 October 2005
-Original statement
-
-You are here
- 5 February 2010
+Date of decision: 18 October 2005 Year of income: Year ended 30 June 2001 Year ended 30 June 2002 Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Legislative References: Superannuation Guarantee (Administration) Act 1992 subsection 13(1) subsection 13(4D) subsection 13(4E) subsection 13(4F) Related Public Rulings (including Determinations) Superannuation Guarantee Ruling SGR 94/1 Keywords Superannuation funds Superannuation guarantee charge Superannuation guarantee scheme Business Line: Superannuation Date of publication: 24 February 2006 ISSN: 1445-2782 history Date: Version: 18 October 2005
+Original statement You are here 5 February 2010
 Archived

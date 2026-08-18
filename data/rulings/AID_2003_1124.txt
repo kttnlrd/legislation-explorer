@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1124
-==================================================
-
-Income Tax
- Withholding tax exemption: interest on global bearer notes issued by an undisclosed Australian principal through an offshore agent
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Withholding tax exemption: interest on global bearer notes issued by an undisclosed Australian principal through an offshore agent FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an Australian resident company (Aust Co) that issues global bearer notes (Notes) as an undisclosed principal through an offshore agent, regarded as having 'issued the debenture' for the purposes of paragraph 128F(1)(a) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. Aust Co will be regarded as having issued the debenture for the purposes of paragraph 128F(1)(a) of the ITAA 1936 provided there is evidence that the non-resident is acting as an agent and within the scope of its authority.
@@ -23,88 +12,18 @@ The Notes are to be bearer notes and are to be issued as global bearer notes by 
 The global bearer notes are required to be deposited with a common depository for an overseas clearing system.
 Aust Co indemnifies OSL in respect of any expenses incurred in its capacity as agent for Aust Co and in respect of any Notes issued as agent of Aust Co.
 Reasons for Decision
-Section 128F of the ITAA 1936 exempts from withholding tax, interest on certain publicly offered debentures. Subsection 128F(1) of the ITAA 1936 states that withholding tax is not payable on interest paid by a company 'in respect of a debenture' if:
-
-• the company was a resident of Australia when it issued the debenture
+Section 128F of the ITAA 1936 exempts from withholding tax, interest on certain publicly offered debentures. Subsection 128F(1) of the ITAA 1936 states that withholding tax is not payable on interest paid by a company 'in respect of a debenture' if: • the company was a resident of Australia when it issued the debenture
 • the company is a resident of Australia when the interest is paid, and
-• the issue of the debenture satisfies one of the public offer tests set out in subsections 128F(3) or 128F(4) of the ITAA 1936.
-
-Paragraph 128F(1)(a) of the ITAA 1936 requires the resident company to have 'issued' the debenture.
-The term 'issued' is not defined for the purposes of the withholding tax provisions in Division 11A of the ITAA 1936 and therefore its ordinary meaning must be adopted. In Levy v. Abercorris Slate and Slab Company (1887) 37 Ch D 260, Chitty J of the Chancery Division stated at p 264 that:
-
-"Issued" is not a technical term, it is a mercantile term well understood; "issued" here means the delivery over by the company to the person who has the charge ...
-
-Taxation Determination TD 1999/9 refers to this definition and states at paragraph 4:
-
-The ordinary meaning of the word 'issue' according to The Macquarie Dictionary is 'to put out: deliver for use, sale, etc.; put into circulation'. To put out or deliver debentures to subscribers in an offshore market, is to 'issue' the debentures for the purposes of paragraph 128F(1)(c) irrespective of where supporting documentation may have been signed.
-
-Whilst OSL issues the Notes by physically putting them into circulation, it does so as undisclosed agent for Aust Co. The agency law doctrine of undisclosed principal states that generally in these circumstances the principal can sue and be sued in its own name on a contract entered into on its behalf by an agent so long as the agent was acting within the scope of its actual authority or (perhaps) within the authority usually confided to an agent of that character (International Harvester Co of Australia Pty Ltd v. Carrigans Hazeldene Pastoral Co [1958] 100 CLR 644; Siu Yin Kwan v. Eastern Insurance Co. Ltd. [1994] 2 AC 199; CC NSW Pty Ltd (in liq) v. FC of T 35 ATR 316; 97 ATC 4123; Reynolds, FMB 2001, Bowstead and Reynolds on agency, 17th edn, Sweet & Maxwell, London, paragraph 8072 and Chitty J 2003, Chitty on contracts, 28th edn, Sweet & Maxwell, London, paragraph 32-062). In other words, provided the agent has actual or (perhaps) usual authority and the principal's rights to sue and be sued are not inconsistent with the terms of the contract, the actions of the agent are considered to be those of the principal.
+• the issue of the debenture satisfies one of the public offer tests set out in subsections 128F(3) or 128F(4) of the ITAA 1936. Paragraph 128F(1)(a) of the ITAA 1936 requires the resident company to have 'issued' the debenture.
+The term 'issued' is not defined for the purposes of the withholding tax provisions in Division 11A of the ITAA 1936 and therefore its ordinary meaning must be adopted. In Levy v. Abercorris Slate and Slab Company (1887) 37 Ch D 260, Chitty J of the Chancery Division stated at p 264 that: "Issued" is not a technical term, it is a mercantile term well understood; "issued" here means the delivery over by the company to the person who has the charge ... Taxation Determination TD 1999/9 refers to this definition and states at paragraph 4: The ordinary meaning of the word 'issue' according to The Macquarie Dictionary is 'to put out: deliver for use, sale, etc.; put into circulation'. To put out or deliver debentures to subscribers in an offshore market, is to 'issue' the debentures for the purposes of paragraph 128F(1)(c) irrespective of where supporting documentation may have been signed. Whilst OSL issues the Notes by physically putting them into circulation, it does so as undisclosed agent for Aust Co. The agency law doctrine of undisclosed principal states that generally in these circumstances the principal can sue and be sued in its own name on a contract entered into on its behalf by an agent so long as the agent was acting within the scope of its actual authority or (perhaps) within the authority usually confided to an agent of that character (International Harvester Co of Australia Pty Ltd v. Carrigans Hazeldene Pastoral Co [1958] 100 CLR 644; Siu Yin Kwan v. Eastern Insurance Co. Ltd. [1994] 2 AC 199; CC NSW Pty Ltd (in liq) v. FC of T 35 ATR 316; 97 ATC 4123; Reynolds, FMB 2001, Bowstead and Reynolds on agency, 17th edn, Sweet & Maxwell, London, paragraph 8072 and Chitty J 2003, Chitty on contracts, 28th edn, Sweet & Maxwell, London, paragraph 32-062). In other words, provided the agent has actual or (perhaps) usual authority and the principal's rights to sue and be sued are not inconsistent with the terms of the contract, the actions of the agent are considered to be those of the principal.
 Is this sufficient to make Aust Co the issuer?
-Debentures may be issued in either of two forms:
-
-(a) debentures issued by way of bills of exchange or promissory notes,
-(b) other debentures, as exemplified by those cited within the definition of debenture in subsection 6(1) of the ITAA 1936.
-
-Debentures issued by way of bills of exchange or promissory notes
+Debentures may be issued in either of two forms: (a) debentures issued by way of bills of exchange or promissory notes,
+(b) other debentures, as exemplified by those cited within the definition of debenture in subsection 6(1) of the ITAA 1936. Debentures issued by way of bills of exchange or promissory notes
 In this situation, the non-resident agent would be considered to be acting on its own behalf unless the agent disclosed on the face of the note or bill that it was issuing the note or bill on behalf of the Australian company (the principal). Unless such disclosure is made, the Australian company would not be considered to have issued the debentures in terms of paragraph 128F(1)(a) of the ITAA 1936.
 Debentures other than bills of exchange or promissory notes
-Provided that:
-
-(a) the non-resident agent has actual or (perhaps) usual authority to put out or deliver the debentures to investors
+Provided that: (a) the non-resident agent has actual or (perhaps) usual authority to put out or deliver the debentures to investors
 (b) the principal's rights to sue and be sued are not inconsistent with the terms of the contract issuing the debentures, and
-(c) there is evidence available that the non-resident is acting as an agent and within the scope of its authority,
-
-the actions of the agent would be considered to be those of the Australian company (the undisclosed principal). The Australian company would be considered in these circumstances to have issued the debenture in terms of paragraph 128F(1)(a) of the ITAA 1936.
+(c) there is evidence available that the non-resident is acting as an agent and within the scope of its authority, the actions of the agent would be considered to be those of the Australian company (the undisclosed principal). The Australian company would be considered in these circumstances to have issued the debenture in terms of paragraph 128F(1)(a) of the ITAA 1936.
 The facts in this case stipulate that the Notes are global bearer notes subject to the rules of the overseas clearing house and are thus neither bills of exchange nor promissory notes. There is evidence of the required agency relationship between Aust Co and OSL in the agency agreement and board minutes of Aust Co.
 Aust Co will therefore be regarded as having issued the debenture for the purposes of paragraph 128F(1)(a) of the ITAA 1936.
-Date of decision:
-  20 November 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 11A   section 128F   subsection 128F(1)   paragraph 128F(1)(a)   subsection 128F(3)   subsection 128F(4)
-
-Case References:
-
-Levy v. Abercorris Slate and Slab Company   (1887) 37 Ch D 260
-
-International Harvester Co of Australia Pty Ltd v. Carrigans Hazeldene Pastoral Co   [1958] 100 CLR 644
-
-Siu Yin Kwan v. Eastern Insurance Co. Ltd.   [1994] 2 AC 199
-
-CC NSW Pty Ltd (in liq) v. FC of T   35 ATR 316   97 ATC 4123
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 1999/9
-
-Other References:
-
-Reynolds, FMB 2001, Bowstead and Reynolds on agency, 17th edn, Sweet & Maxwell, London
- Chitty J 2003, Chitty on contracts , 28th edn, Sweet & Maxwell, London
-
-Keywords
-
-Banking, finance & securities
- Bills of exchange
- Debentures
- Financial instruments
- Non resident interest withholding tax
- Promissory notes
- Securities
- Withholding taxes
-
-Siebel/TDMS Reference Number:
-  3769945
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  12 December 2003
-
-ISSN:
- 1445-2782
+Date of decision: 20 November 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Division 11A section 128F subsection 128F(1) paragraph 128F(1)(a) subsection 128F(3) subsection 128F(4) Case References: Levy v. Abercorris Slate and Slab Company (1887) 37 Ch D 260 International Harvester Co of Australia Pty Ltd v. Carrigans Hazeldene Pastoral Co [1958] 100 CLR 644 Siu Yin Kwan v. Eastern Insurance Co. Ltd. [1994] 2 AC 199 CC NSW Pty Ltd (in liq) v. FC of T 35 ATR 316 97 ATC 4123 Related Public Rulings (including Determinations) Taxation Determination TD 1999/9 Other References: Reynolds, FMB 2001, Bowstead and Reynolds on agency, 17th edn, Sweet & Maxwell, London Chitty J 2003, Chitty on contracts , 28th edn, Sweet & Maxwell, London Keywords Banking, finance & securities Bills of exchange Debentures Financial instruments Non resident interest withholding tax Promissory notes Securities Withholding taxes Siebel/TDMS Reference Number: 3769945 Business Line: Public Groups and International Date of publication: 12 December 2003 ISSN: 1445-2782

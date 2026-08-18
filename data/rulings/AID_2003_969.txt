@@ -1,90 +1,25 @@
 ATO Interpretative Decision
 ATO ID 2003/969
-==================================================
-
-Income Tax
- Capital gains tax: transfer of Australian asset between foreign resident companies
- FOI status: may be released
-
-This ATO ID is withdrawn from the database as it is a straight application of the law and does not contain an interpretative decision.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: transfer of Australian asset between foreign resident companies FOI status: may be released This ATO ID is withdrawn from the database as it is a straight application of the law and does not contain an interpretative decision. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can rollover relief under Subdivision 126-B of the Income Tax Assessment Act 1997 (ITAA 1997) be chosen if a foreign resident company (the originating company) transfers shares it holds in an Australian resident company to another foreign resident company (the recipient company) who is a member of the same wholly-owned group of companies?
 Decision
 Yes. Rollover relief under Subdivision 126-B of the ITAA 1997 can be chosen in the circumstances outlined.
 Facts
-Prior to a group restructure, the corporate structure of the group was represented as:
-
-All companies in the group structure are foreign resident companies except for A Company who is an Australian resident company.
+Prior to a group restructure, the corporate structure of the group was represented as: All companies in the group structure are foreign resident companies except for A Company who is an Australian resident company.
 Under the group restructure, Originating Company transferred its shares in A Company to Recipient Company. Originating Company had earlier acquired its shares in A Company from Z Company under a transfer for which rollover relief under Subdivision 126-B of the ITAA 1997 was chosen.
 After the restructure, the shares in A Company are not held by Recipient Company as trading stock.
 Recipient Company does not qualify as an 'exempt entity', within the definition of that term in subsection 995-1(1) of the ITAA 1997, for the income year in which the share transfer happens.
 Originating Company would make a capital gain as a result of the transfer as the market value of the shares at the time of the transfer exceeded their cost base.
 Reasons for Decision
 CGT event A1 in section 104-10 of the ITAA 1997 will happen upon Originating Company transferring its shares in A Company to Recipient Company. Because Originating Company is a foreign resident company, it will only make a capital gain as a result of the event if the shares have the necessary connection with Australia (section 136-10 of the ITAA 1997). The shares in A Company have the necessary connection with Australia under category number 3 in the table in section 136-25 of the ITAA 1997.
-However, rollover relief under Subdivision 126-B of the ITAA 1997 may be available in relation to the transfer of shares. For rollover relief to be available for a transfer between two foreign resident companies, the following conditions in section 126-50 of the ITAA 1997 must be satisfied:
-
-(a)the originating company and the recipient company are members of the same 'wholly-owned group' at the time of the transfer: subsection 126-50(1) of the ITAA 1997
+However, rollover relief under Subdivision 126-B of the ITAA 1997 may be available in relation to the transfer of shares. For rollover relief to be available for a transfer between two foreign resident companies, the following conditions in section 126-50 of the ITAA 1997 must be satisfied: (a)the originating company and the recipient company are members of the same 'wholly-owned group' at the time of the transfer: subsection 126-50(1) of the ITAA 1997
 (b)the rollover asset is not trading stock of the recipient company just after the time of the transfer: subsection 126-50(2) of the ITAA 1997
 (c)the ordinary income and statutory income of the recipient company is not exempt from income tax because it is an exempt entity (as defined in subsection 995-1(1) of the ITAA 1997) for the income year in which the transfer occurs: subsection 126-50(4) of the ITAA 1997, and
-(d)the rollover asset has the necessary connection with Australia just before and just after the time of the transfer: item 1 in the table in subsection 126-50(5) of the ITAA 1997.
-
-All of these conditions are satisfied in relation to Originating Company transferring its shares in A Company to Recipient Company.
+(d)the rollover asset has the necessary connection with Australia just before and just after the time of the transfer: item 1 in the table in subsection 126-50(5) of the ITAA 1997. All of these conditions are satisfied in relation to Originating Company transferring its shares in A Company to Recipient Company.
 Accordingly, because Originating Company would make a capital gain under CGT event A1 as a result of the transfer, both Originating Company and Recipient Company may choose to obtain rollover relief in relation to the transfer (section 126-55 of the ITAA 1997). If both companies choose rollover, the Originating Company can disregard under subsection 126-60(1) of the ITAA 1997 any capital gain that arises from the transfer of shares to Recipient Company.
 Note: The availability of rollover under Subdivision 126-B of the ITAA 1997 after 30 June 2002 is affected by amendments made by the New Business Tax System (Consolidation) Act (No. 1) 2002. Those amendments do not affect the availability of rollover for transfers between two foreign resident companies.
-Date of decision:
-  15 September 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 126-B   section 104-10   section 126-50   subsection 126-50(1)   subsection 126-50(2)   subsection 126-50(4)   subsection 126-50(5)   section 126-55   subsection 126-60(1)   section 136-10   section 136-25   subsection 995-1(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2001/747
-
-Other References:
-
- New Business Tax System (Consolidation) Act (No. 1) 2002
-
-Keywords
-
-CGT rollover relief
- Company restructuring
- Non resident entities
-
-Business Line:
-  Losses and Capital Gains Tax Centre of Expertise
-
-Date of publication:
-  31 October 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-15 September 2003
-Original statement
-
-You are here
+Date of decision: 15 September 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 Subdivision 126-B section 104-10 section 126-50 subsection 126-50(1) subsection 126-50(2) subsection 126-50(4) subsection 126-50(5) section 126-55 subsection 126-60(1) section 136-10 section 136-25 subsection 995-1(1) Related ATO Interpretative Decisions ATO ID 2001/747 Other References: New Business Tax System (Consolidation) Act (No. 1) 2002 Keywords CGT rollover relief Company restructuring Non resident entities Business Line: Losses and Capital Gains Tax Centre of Expertise Date of publication: 31 October 2003 ISSN: 1445-2782 history Date: Version: 15 September 2003
+Original statement You are here
 26 March 2010
 Archived

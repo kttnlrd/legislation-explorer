@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/1109
-==================================================
-
-Income Tax
- Deduction for Reinsurance Premiums
- FOI status: may be released
-
-This ATO ID has been amended to insert further explanatory paragraphs at the conclusion of the Reasons for Decision.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Deduction for Reinsurance Premiums FOI status: may be released This ATO ID has been amended to insert further explanatory paragraphs at the conclusion of the Reasons for Decision. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a general insurance company entitled to a deduction under section 321-25 of Schedule 2J to the Income Tax Assessment Act 1936 (ITAA 1936) for a reinsurance premium paid during a year of income?
 Decision
 No. A general insurance company is not entitled to a deduction under section 321-25 of Schedule 2J to the ITAA 1936 for a reinsurance premium paid during a year of income.
@@ -23,15 +10,7 @@ A general insurance company paid a reinsurance premium under a reinsurance polic
 The reinsurance policy provides that the reinsurer will indemnify the general insurance company for claims paid up to an agreed amount.
 Reasons for Decision
 Section 321-25 of the ITAA 1936 provides that a general insurance company can deduct amounts paid during the year of income in respect of claims under general insurance policies.
-The phrase 'in respect of' denotes a relationship or connection between two things or subject matters. In Technical Products Pty. Ltd. v. State Government Insurance (Qld) (1989) 167 CLR 45 at 47, Brennan, Deane and Gaudron JJ stated:
-
-The words "in respect of" have a very wide meaning. Indeed, they have a chameleon-like quality in that they commonly reflect the context in which they appear ... That nexus will not, however, exist unless there be some discernible and rational link...
-
-In a separate judgment, Dawson J at CLR 51 stated:
-
-The words "in respect of" require some material connection between the two matters referred to ... a merely coincidental or extraneous connection between those two things can hardly be sufficient...
-
-Accordingly, an amount is paid 'in respect of claims' under general insurance policies where, in the context in which section 321-25 of the ITAA 1936 appears, there is a discernible and rational link, or a sufficient nexus or material connection between the expense and claims under general insurance policies.
+The phrase 'in respect of' denotes a relationship or connection between two things or subject matters. In Technical Products Pty. Ltd. v. State Government Insurance (Qld) (1989) 167 CLR 45 at 47, Brennan, Deane and Gaudron JJ stated: The words "in respect of" have a very wide meaning. Indeed, they have a chameleon-like quality in that they commonly reflect the context in which they appear ... That nexus will not, however, exist unless there be some discernible and rational link... In a separate judgment, Dawson J at CLR 51 stated: The words "in respect of" require some material connection between the two matters referred to ... a merely coincidental or extraneous connection between those two things can hardly be sufficient... Accordingly, an amount is paid 'in respect of claims' under general insurance policies where, in the context in which section 321-25 of the ITAA 1936 appears, there is a discernible and rational link, or a sufficient nexus or material connection between the expense and claims under general insurance policies.
 Interpreting a phrase in the context in which it appears was discussed in Cooper Brookes (Wollongong) Pty. Ltd. v. Federal Commissioner of Taxation (1981) 147 CLR 297; 81 ATC 4292; (1981) 11 ATR 949. Gibbs CJ stated, 'Of course, no part of a statute can be considered in isolation from its context - the whole must be considered.'
 Applying this principle, section 321-25 of the ITAA 1936 must be read in the context of Subdivision 321-A of the ITAA 1936. Accordingly, section 321-25 of the ITAA 1936 must be read in conjunction with sections 321-10, 321-15 and 321-20 of the ITAA 1936.
 Section 321-15 of the ITAA 1936 allows a deduction to a general insurance company for the value of the excess of the outstanding claims liability for the current income year over the value of the previous year's outstanding claims liability. Where the current year's value of outstanding claims liability is less than the value of the previous year's liability, section 321-10 of the ITAA 1936 includes that difference in the general insurance company's assessable income.
@@ -40,49 +19,7 @@ When some part of the outstanding claims liability ceases to be outstanding beca
 The interaction of sections 321-10, 321-15 and 321-25 of the ITAA 1936 requires that the same expense items be used in arriving at the outstanding claims liability value and the amount paid in respect of claims under general insurance policies.
 Guided by section 321-20 of the ITAA 1936, costs directly associated with the settlement and payment of claims are considered to be amounts paid in respect of claims under general insurance policies for the purpose of section 321-25 of the ITAA 1936. These expense items have a material, discernible and rational connection to claims under general insurance policies.
 Although the ultimate benefit to the general insurance company from the reinsurance premium is the receipt of recoveries to be used to meet the payment of claims, it cannot be said that the reinsurance premium was paid in respect of the settlement and discharge of those claims. The link between the reinsurance premium and the claim is too tenuous and distant to be regarded as being a material, discernible and rational connection. Accordingly, the reinsurance premium is not deductible under section 321-25 of the ITAA 1936.
-Note: Although the reinsurance premium is not deductible under section 321-25 of the ITAA 1936, it may, subject to satisfying the tests in section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997), be deductible under that provision.
-
-Application of this ATO ID from 1 July 2010
-
-From 1 July 2010, the Tax Laws Amendment (Transfer of Provisions) Act 2010 repealed Schedule 2J of the ITAA 1936 and rewrote those provisions into Division 321 of the ITAA 1997. The wording and format was altered to adhere to the drafting approach taken in the ITAA 1997, but as outlined in Chapter 6 of the Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010, there has been no change in meaning of the rewritten provisions.
+Note: Although the reinsurance premium is not deductible under section 321-25 of the ITAA 1936, it may, subject to satisfying the tests in section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997), be deductible under that provision. Application of this ATO ID from 1 July 2010 From 1 July 2010, the Tax Laws Amendment (Transfer of Provisions) Act 2010 repealed Schedule 2J of the ITAA 1936 and rewrote those provisions into Division 321 of the ITAA 1997. The wording and format was altered to adhere to the drafting approach taken in the ITAA 1997, but as outlined in Chapter 6 of the Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010, there has been no change in meaning of the rewritten provisions.
 Section 321-20 of the ITAA 1997 has, however, been clarified to include reference to section 148(1) of the ITAA 1936, which relates to reinsurance with non-residents. Therefore, from 1 July 2010, all references to sections 321-10 to 321-25 of the ITAA 1936 should be read as referring to Sections 321-10 to 321-25 of the ITAA 1997.
-Date of decision:
-  3 December 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 148(1)   section 321-10   section 321-15   section 321-20   subparagraph 321-20(a)(i)   subparagraph 321-20(a)(ii)   section 321-25
-Income Tax Assessment Act 1997   section 8-1   section 321-10   section 321-15   section 321-20   section 321-25
-
-Case References:
-
-Technical Products Pty. Ltd. v. State Government Insurance Office (Qld)   (1989) 167 CLR 45
-
-Cooper Brookes (Wollongong) Pty. Ltd. v. Federal Commissioner of Taxation   (1981) 147 CLR 297   81 ATC 4292   (1981) 11 ATR 949
-
-Other References:
-
- Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010
-
-Keywords
-
-General insurance
- Reinsurance & reinsurers
-
-Siebel/TDMS Reference Number:
-  3830006; 1-7U323WZ
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  12 December 2003
-
-Date reviewed:
-  7 April 2016
-
-ISSN:
- 1445-2782
+Date of decision: 3 December 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 section 148(1) section 321-10 section 321-15 section 321-20 subparagraph 321-20(a)(i) subparagraph 321-20(a)(ii) section 321-25
+Income Tax Assessment Act 1997 section 8-1 section 321-10 section 321-15 section 321-20 section 321-25 Case References: Technical Products Pty. Ltd. v. State Government Insurance Office (Qld) (1989) 167 CLR 45 Cooper Brookes (Wollongong) Pty. Ltd. v. Federal Commissioner of Taxation (1981) 147 CLR 297 81 ATC 4292 (1981) 11 ATR 949 Other References: Explanatory Memorandum to the Tax Laws Amendment (Transfer of Provisions) Bill 2010 Keywords General insurance Reinsurance & reinsurers Siebel/TDMS Reference Number: 3830006; 1-7U323WZ Business Line: Private Groups and High Wealth Individuals Date of publication: 12 December 2003 Date reviewed: 7 April 2016 ISSN: 1445-2782

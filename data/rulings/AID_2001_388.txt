@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2001/388
-==================================================
-
-Goods and Services Tax
- GST and non-payment of GST component on an invoice
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax GST and non-payment of GST component on an invoice FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the entity, a supplier of goods, have a goods and services tax (GST) liability under section 9-40 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it supplies goods to a company that refuses to pay the GST component included in the price of the goods?
 Decision
 Yes, the entity does have a GST liability under section 9-40 of the GST Act, when it supplies material to a company that refuses to pay the GST component included in the price of the goods.
@@ -24,39 +11,9 @@ The entity is registered for GST. The supply of goods is for consideration. The 
 The entity accounts for GST on a non-cash basis. The entity issued the invoice for the goods prior to receiving any consideration for the supply.
 Reasons for Decision
 Section 9-40 of the GST Act provides that it is the supplier who must pay the GST payable on any taxable supplies it makes.
-An entity makes a taxable supply under section 9-5 of the GST Act if:
-
-• it makes the supply for consideration;
+An entity makes a taxable supply under section 9-5 of the GST Act if: • it makes the supply for consideration;
 • the supply is made in the course or furtherance of the entity's enterprise;
 • the supply is connected with Australia; and
-• the entity is registered or required to be registered.
-
-In this case, the entity is registered for GST. The supply of goods is for consideration and is made in the course of the enterprise carried on by the entity in Australia. Accordingly, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies goods to the company.
+• the entity is registered or required to be registered. In this case, the entity is registered for GST. The supply of goods is for consideration and is made in the course of the enterprise carried on by the entity in Australia. Accordingly, the entity is making a taxable supply under section 9-5 of the GST Act when it supplies goods to the company.
 Therefore, the entity has a GST liability under section 9-40 of the GST Act, when it supplies goods to a company that refuses to pay the GST component included in the price of the goods.
-The entity's GST liability is 1/11th of the price of the goods invoiced.
-
-[Note: Where an entity, who accounts for GST on a non-cash basis, does not receive the full price for the goods supplied, it may choose to write off the amount not received as a bad debt. The entity may then be entitled to make a decreasing adjustment under Division 21 of the GST Act].
-
-Date of decision:
-  26 July 2001
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   section 9-40   Division 21
-
-Keywords
-
-Goods and services tax
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  CW225853
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  29 September 2001
-
-ISSN:
- 1445-2782
+The entity's GST liability is 1/11th of the price of the goods invoiced. [Note: Where an entity, who accounts for GST on a non-cash basis, does not receive the full price for the goods supplied, it may choose to write off the amount not received as a bad debt. The entity may then be entitled to make a decreasing adjustment under Division 21 of the GST Act]. Date of decision: 26 July 2001 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 section 9-40 Division 21 Keywords Goods and services tax Taxable supply Siebel/TDMS Reference Number: CW225853 Business Line: Indirect Tax Date of publication: 29 September 2001 ISSN: 1445-2782

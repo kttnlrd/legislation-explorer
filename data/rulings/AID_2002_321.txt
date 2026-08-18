@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2002/321
-==================================================
-
-Income Tax
- CGT Roll-Over Relief
- FOI status: may be released
-
-This ATOID has been amended by including a note to reference the change made to the requirements for rollover, by Act No 168 of 2006, for CGT events happening on or after 12 December 2006.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax CGT Roll-Over Relief FOI status: may be released This ATOID has been amended by including a note to reference the change made to the requirements for rollover, by Act No 168 of 2006, for CGT events happening on or after 12 December 2006. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a 'legal merger' of two companies carried out under the law of a foreign country prevent those companies from choosing roll-over under paragraph 126-55(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) on the basis that the companies are not members of the same wholly-owned group at the time required by subsection 126-50(1) of the ITAA 1997?
 Decision
 No. Both companies are considered to be members of the same wholly-owned group at the time that the CGT event happened to the company transferring the asset (the originating company). Therefore, the originating company and the company to which the asset was transferred (the recipient company) can choose under paragraph 126-55(1)(b) of the ITAA 1997 to obtain roll-over under Subdivision 126-B of the ITAA 1997.
@@ -24,57 +9,13 @@ Facts
 Holding Company is a listed foreign public company which owns 100 per cent of the share capital in the originating company and the recipient company.
 Both the originating and recipient companies are non-resident companies.
 The originating company owns 100 per cent of the share capital in two companies incorporated and resident in Australia.
-A 'legal merger' is to be carried out between the originating and recipient companies in accordance with a foreign country's Civil Code. The legal effect of the merger is as follows:
-
-•All of the assets and liabilities of the originating company (ie including its shareholding in the Australian companies) will be transferred to the recipient company by operation of law.
+A 'legal merger' is to be carried out between the originating and recipient companies in accordance with a foreign country's Civil Code. The legal effect of the merger is as follows: •All of the assets and liabilities of the originating company (ie including its shareholding in the Australian companies) will be transferred to the recipient company by operation of law.
 •The recipient company will assume the same shareholders and creditors as the originating company but it will not issue new shares to the Holding Company.
-•The originating company will immediately cease to exist following and consequent upon the legal merger process.
-
-Reasons for Decision
+•The originating company will immediately cease to exist following and consequent upon the legal merger process. Reasons for Decision
 Subdivision 126-B of the ITAA 1997 provides for roll-over for asset transfers between two companies that are members of the same wholly-owned group of companies. Where the originating or recipient company is a non-resident, the asset for which roll-over is sought must have the necessary connection with Australia just before and after the CGT event happens to the asset (subsection 126-50(5) of the ITAA 1997). This requirement is satisfied because the assets to be transferred (shares in a company that is an Australian resident for the income year the CGT event happens) will have that necessary connection: category number 3 in the table in section 136-25 of the ITAA 1997.
 Subsection 126-50(1) of the ITAA 1997 requires that both the originating and recipient companies must be members of the same wholly-owned group at the time that the CGT event happens to the originating company.
 It is considered that only after the shares have been transferred does the recipient company 'step into the shoes of the originating company'. Accordingly, it is considered that the originating company and the recipient company are members of the same wholly-owned group of companies at the time of the disposal of the shares in the Australian companies.
-It is considered that the 'legal merger' carried out between the originating company and the recipient company does not prevent them from both choosing roll-over under paragraph 126-55(1)(b) of the ITAA 1997.
-
-Note: For CGT events occurring on or after 12 December 2006 the asset for which rollover is sought must be taxable Australian property. Section 855-15 explains the categories of CGT assets that are taxable Australian property.
-
-Date of decision:
-  28 March 2012
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Subdivision 126-B   section 126-45   subsection 126-50(1)   subsection 126-50(5)   paragraph 126-55(1)(b)   section 855-15
-
-Keywords
-
-Capital gains tax
- CGT roll-over relief
- Capital Gains Tax CoE
-
-Business Line:
-  Losses & CGT Centre of Expertise
-
-Date of publication:
-  28 March 2002
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-21 December 2001
-Original statement
-
-You are here
+It is considered that the 'legal merger' carried out between the originating company and the recipient company does not prevent them from both choosing roll-over under paragraph 126-55(1)(b) of the ITAA 1997. Note: For CGT events occurring on or after 12 December 2006 the asset for which rollover is sought must be taxable Australian property. Section 855-15 explains the categories of CGT assets that are taxable Australian property. Date of decision: 28 March 2012 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1997 Subdivision 126-B section 126-45 subsection 126-50(1) subsection 126-50(5) paragraph 126-55(1)(b) section 855-15 Keywords Capital gains tax CGT roll-over relief Capital Gains Tax CoE Business Line: Losses & CGT Centre of Expertise Date of publication: 28 March 2002 ISSN: 1445-2782 history Date: Version: 21 December 2001
+Original statement You are here
 22 June 2012
 Archived

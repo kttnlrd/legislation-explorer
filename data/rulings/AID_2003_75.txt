@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/75
-==================================================
-
-Income Tax
- Offshore Banking Unit: Investment advice on behalf of a foreign permanent establishment of an Australian resident
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Offshore Banking Unit: Investment advice on behalf of a foreign permanent establishment of an Australian resident FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can the management of a portfolio investment provided for the benefit of a foreign permanent establishment of an Australian resident, constitute an 'advisory activity' in terms of subsection 121D(7) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No. The portfolio investment management for a permanent establishment of an Australian resident is not an 'advisory activity' for the purposes of subsection 121D(7) of the ITAA 1936 as the advice is not made to an 'offshore person' but rather on behalf of, an 'offshore person'.
@@ -28,90 +15,20 @@ Reasons for Decision
 Subsection 121D(7) of the ITAA 1936 provides the meaning of 'advisory activity' for the purposes of qualifying as an offshore banking (OB) activity under paragraph 121D(1)(f) of the ITAA 1936. In addition, to qualify as an OB activity, it must be done by the OBU[1] (subsection 121D(1) of the ITAA 1936).
 An 'advisory activity' is defined under subsection 121D(7) of the ITAA 1936 to be the giving of investment or other financial advice to an offshore person. However, where the advice relates to the making of a particular investment, the investment must be of a kind that is referred to in subsection 121D(6) of the ITAA 1936.
 Subsection 121D(6) of the ITAA 1936 provides that an 'investment activity' is the making (but not managing), as a broker or agent for, or trustee for the benefit of, an offshore person to whom paragraph 121E(a) of the ITAA 1936 applies. In addition, the investment is not made in Australian currency; and if it involves the purchase of any thing, that it is either a share of a non-resident company, a unit in a non-resident trust or a thing not located in Australia.
-'Offshore person' is defined in section 121E of the ITAA 1936 to include:
-
-(a)a non-resident whose involvement in the doing of the thing does not occur in carrying on business in Australia at or through a permanent establishment of that person; or
-(b)a resident whose involvement in the doing of the thing occurs in carrying on business in a country outside Australia at or through a permanent establishment of the person...
-
-The foreign branch of the Australian resident company is a permanent establishment of the company and is a 'resident of Australia' for the purposes of the definition of that term in subsection 6(1) of the ITAA 1936.
+'Offshore person' is defined in section 121E of the ITAA 1936 to include: (a)a non-resident whose involvement in the doing of the thing does not occur in carrying on business in Australia at or through a permanent establishment of that person; or
+(b)a resident whose involvement in the doing of the thing occurs in carrying on business in a country outside Australia at or through a permanent establishment of the person... The foreign branch of the Australian resident company is a permanent establishment of the company and is a 'resident of Australia' for the purposes of the definition of that term in subsection 6(1) of the ITAA 1936.
 The foreign branch would therefore qualify as an 'offshore person' under paragraph 121E(b) but not paragraph 121E(a) of the ITAA 1936.
-Subsection 121D(7) of the ITAA 1936 states the type of advice to be provided is 'investment or other financial advice'. The advice must be provided
- to
- an offshore person.
-The taxpayer's role and responsibilities as fund manager for non-resident investors consists of (amongst other things) providing investment advice in accordance with the approved mandate which includes analysis and stock selection through to the activity of buying and selling equities
- on behalf of
- the investors. This is providing investment advice
- on behalf of
- an offshore person and not
- to
- an offshore person as required by subsection 121D(7) of the ITAA 1936.
+Subsection 121D(7) of the ITAA 1936 states the type of advice to be provided is 'investment or other financial advice'. The advice must be provided to an offshore person.
+The taxpayer's role and responsibilities as fund manager for non-resident investors consists of (amongst other things) providing investment advice in accordance with the approved mandate which includes analysis and stock selection through to the activity of buying and selling equities on behalf of the investors. This is providing investment advice on behalf of an offshore person and not to an offshore person as required by subsection 121D(7) of the ITAA 1936.
 Accordingly, as the advice is made on behalf of, and not to the foreign branch, it does not qualify as an OB 'advisory activity' for the purposes of subsection 121D(7) of the ITAA 1936.
 Note: Portfolio investment management as an OB activity is provided for under subsection 121D(6A) of the ITAA 1936. However, this activity is restricted to non-residents and therefore does not apply to the taxpayer.
-Amendment History
-
-Date of amendment
+Amendment History Date of amendment
 Part
-Comment
-
-12 October 2021
+Comment 12 October 2021
 Reasons for Decision
-Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs.
-
- Date of effect 13 September 2021
-
-[1]
-The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year.
-
-Date of decision:
-  26 November 2002
-
-Year of income:
-  Other/Substituted Accounting Period 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 6(1)   subsection 121D(1)   paragraph 121D(1)(f)   subsection 121D(6)   subsection 121D(6A)   subsection 121D(7)   section 121E   paragraph 121E(a)   paragraph 121E(b)
-
-Related Public Rulings (including Determinations)
-
-Taxation Determination TD 93/133
-Taxation Determination TD 93/207
-
-Keywords
-
-Offshore banking
- Offshore banking units
- Offshore banking activities
- Unit trusts
- Investment trusts
-
-Siebel/TDMS Reference Number:
-  CW3141124
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  15 March 2003
-
-Date reviewed:
-  12 October 2021
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-26 November 2002
-Original statement
-
-You are here
+Insertion of footnote 1, to provide details regarding closure of the OBU regime to new entrants, outstanding applications for the OBU regime, and concessional tax treatment of OBUs. Date of effect 13 September 2021 [1]
+The OBU regime is closed to new entrants from 14 September 2021. Any outstanding applications made before this date will, from this date, lapse. The government will remove the concessional tax treatment for OBUs in respect of offshore activities effective from the 2023-24 income year. Date of decision: 26 November 2002 Year of income: Other/Substituted Accounting Period 2002 Legislative References: Income Tax Assessment Act 1936 subsection 6(1) subsection 121D(1) paragraph 121D(1)(f) subsection 121D(6) subsection 121D(6A) subsection 121D(7) section 121E paragraph 121E(a) paragraph 121E(b) Related Public Rulings (including Determinations) Taxation Determination TD 93/133
+Taxation Determination TD 93/207 Keywords Offshore banking Offshore banking units Offshore banking activities Unit trusts Investment trusts Siebel/TDMS Reference Number: CW3141124 Business Line: Public Groups and International Date of publication: 15 March 2003 Date reviewed: 12 October 2021 ISSN: 1445-2782 history Date: Version: 26 November 2002
+Original statement You are here
 12 October 2021
 Updated statement

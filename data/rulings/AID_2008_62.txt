@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2008/62
-==================================================
-
-Income Tax
- Assessable Income: application of the business profits article to a Dutch Stichting that is a unitholder in an Irish Common Contractual Fund
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Assessable Income: application of the business profits article to a Dutch Stichting that is a unitholder in an Irish Common Contractual Fund FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does Australia have the right to tax Australian sourced business profits that a Dutch Stichting (Stichting) receives as a unitholder in an Irish Common Contractual Fund (CCF), under Article 7 of Schedule 10 of the International Tax Agreements Act 1953 (the Netherlands Agreement)?
 Decision
 No. Australia does not have the right to tax the Australian source business profits the Stichting receives as a unitholder in a CCF under Article 7 of the Netherlands Agreement.
@@ -33,50 +20,15 @@ The CCF receives Australian source business profits from investing the funds of 
 The CCF does not carry on business through a permanent establishment in Australia.
 The relationship between the manager and custodian of the CCF and the Stichting is considered a trust relationship for Australian tax purposes. The manager and custodian are the trustees, and the Stichting is the beneficiary.
 Reasons for Decision
-Article 7(1) of the Netherlands Agreement states:
-
-The profits of
- an enterprise of one of the States
- shall be taxable only in that State unless the
- enterprise
- carries on business in the other State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State, but only so much of them as is attributable to that permanent establishment.
- (emphasis added)
-
-An 'enterprise of one of the States' is defined in Article 3(1)(j) of the Netherlands Agreement, which states:
-
-the terms ''enterprise of one of the States'' and ''enterprise of the other State'' mean an enterprise carried on by a
- resident of Australia
- or an enterprise carried on by a
- resident of the Netherlands
- , as the context requires;
- (emphasis added)
-
-The concept of residency is defined in Article 4 of the Netherlands Agreement. In particular, Article 4(1) of the Netherlands Agreement states:
-
-For the purposes of this Agreement, a
- person
- is a resident of one of the States-
-
-(a)in the case of Australia, subject to paragraph (2), if the person is a resident of Australia for the purposes of Australian tax; and
-(b)in the case of the Netherlands, if the person is a resident of the Netherlands for the purposes of Netherlands tax but not if he is liable to tax in the Netherlands in respect only of income from sources therein.
- (emphasis added)
-
-Accordingly, for Article 7(1) of the Netherlands Agreement to apply to the Australian sourced business profits derived by the Stichting, the Stichting must be:
-
-•a person
+Article 7(1) of the Netherlands Agreement states: The profits of an enterprise of one of the States shall be taxable only in that State unless the enterprise carries on business in the other State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State, but only so much of them as is attributable to that permanent establishment. (emphasis added) An 'enterprise of one of the States' is defined in Article 3(1)(j) of the Netherlands Agreement, which states: the terms ''enterprise of one of the States'' and ''enterprise of the other State'' mean an enterprise carried on by a resident of Australia or an enterprise carried on by a resident of the Netherlands , as the context requires; (emphasis added) The concept of residency is defined in Article 4 of the Netherlands Agreement. In particular, Article 4(1) of the Netherlands Agreement states: For the purposes of this Agreement, a person is a resident of one of the States- (a)in the case of Australia, subject to paragraph (2), if the person is a resident of Australia for the purposes of Australian tax; and
+(b)in the case of the Netherlands, if the person is a resident of the Netherlands for the purposes of Netherlands tax but not if he is liable to tax in the Netherlands in respect only of income from sources therein. (emphasis added) Accordingly, for Article 7(1) of the Netherlands Agreement to apply to the Australian sourced business profits derived by the Stichting, the Stichting must be: •a person
 •a resident of the Netherlands, and
-•an enterprise.
-
-for the purposes of the Netherlands Agreement.
+•an enterprise. for the purposes of the Netherlands Agreement.
 Is the Stichting a 'person' for the purposes of the Netherlands Agreement?
 Article 3(1)(d) of the Netherlands Agreement defines the term 'person' to mean 'an individual, a company and any other body of persons'. The term 'company' is defined in Article 3(1)(e) of the Netherlands Agreement to mean 'any body corporate or any entity which is assimilated to a body corporate for tax purposes'. The term 'body corporate' is not defined for the purposes of the Netherlands Agreement, and in accordance with Article 3(3) of the Netherlands Agreement, the term takes its meaning from the tax laws of Australia unless the context otherwise requires.
 As there is no definition of the term 'body corporate' under Australia's domestic tax law provisions, the ordinary meaning of the term applies as per tax treaty interpretation principles contained in Taxation Ruling TR 2001/13 Income tax: Interpreting Australia's Double Tax Agreements.
 The Butterworths Concise Australian Legal Dictionary Second edition defines a body corporate as 'an artificial legal entity having separate legal personality'.
-According to Article 285 of Book 2 of the Netherlands Civil Law Code:
-
-A Stichting is a legal personality created by a legal Act. It has no members and is created to achieve the objectives as defined in its Articles.
-
-As the Stichting is created under Netherlands law and has a legal personality under Netherlands law, it should be recognised as a legal entity in Australia in accordance with the principle in Chaff and Hay Acquisition Committee v. Hemphill (1947) 74 CLR 375 (Chaff's Case).
+According to Article 285 of Book 2 of the Netherlands Civil Law Code: A Stichting is a legal personality created by a legal Act. It has no members and is created to achieve the objectives as defined in its Articles. As the Stichting is created under Netherlands law and has a legal personality under Netherlands law, it should be recognised as a legal entity in Australia in accordance with the principle in Chaff and Hay Acquisition Committee v. Hemphill (1947) 74 CLR 375 (Chaff's Case).
 In Chaff's Case, it was found by the High Court that a committee constituted in South Australia under the Chaff and Hay (Acquisition) Act 1944 (SA) was a legal entity despite not being incorporated under South Australian law. Chief Justice Latham found that as the committee was a legal entity in South Australia as distinct from the legal personalities of the natural persons who constitute it, then it is by comity recognised as a legal entity elsewhere. His Honour went on to state (at 384-5) that the same principle applied to the recognition of bodies created by foreign law which have the rights and liabilities distinct from those of the natural persons who constitute them. Justice Starke J further stated (at 388) that 'recognition is given in the case of companies or artificial persons which have come into existence in countries whose law of incorporation is based on principles different from those of England and Australia'.
 This principle is also recognised in the Foreign Corporations (Application of Laws) Act 1989. This Act applies in determining a question arising under Australian law where it is necessary to determine the question by reference to a system of law other than Australian law. Section 7(2) provides that any question relating to whether a body or person has been validly incorporated in a place outside Australia is to be determined by reference to the law applied by the people in that place.
 As the Stichting is a legal entity created by legal authority in the Netherlands to achieve certain purposes, the Stichting has the features of a body corporate under the ordinary meaning of the term. As such, the Stichting is a 'person' for the purposes of the Netherlands Agreement.
@@ -85,67 +37,8 @@ Article 4(1)(b) of the Netherlands Agreement requires that the person must be a 
 The Stichting here has received a declaration from the Netherlands Inspector of Tax Administration to the effect that it is a resident of Netherlands for tax treaty purposes. The Stichting therefore satisfies this requirement.
 Is the Stichting an enterprise for the purposes of the Netherlands Agreement?
 The High Court in Thiel v. Federal Commissioner of Taxation (1990) 171 CLR 338; (1990) 21 ATR 531; 90 ATC 4717 considered the meaning of the expression 'the profits of an enterprise of one of the contracting states' in the Business Profits Article of the tax treaty between Australia and Switzerland.
-Chief Justice Mason and Justices Brennan and Gaudron stated:
-
-this statement recognises that an activity, as well as a framework within which activities are engaged in, may constitute an "enterprise" for the purposes of the Agreement.
-
-Moreover, we agree with Sheppard J. in thinking that an enterprise "may consist of an activity or activities and be comprised of one or more transactions provided they were entered into for business or commercial purposes": (1988) 21 F.C.R. 122 at p. 146."
-
-In carrying out the activities of a pension fund, the Stichting is considered to constitute an enterprise as the activities it conducts are entered into for business or commercial purposes.
+Chief Justice Mason and Justices Brennan and Gaudron stated: this statement recognises that an activity, as well as a framework within which activities are engaged in, may constitute an "enterprise" for the purposes of the Agreement. Moreover, we agree with Sheppard J. in thinking that an enterprise "may consist of an activity or activities and be comprised of one or more transactions provided they were entered into for business or commercial purposes": (1988) 21 F.C.R. 122 at p. 146." In carrying out the activities of a pension fund, the Stichting is considered to constitute an enterprise as the activities it conducts are entered into for business or commercial purposes.
 Conclusion
 Accordingly all the necessary elements of Article 7(1) of the Netherlands Agreement are satisfied by the Stichting in order for the taxing rights of the Netherlands and Australia to be determined under Article 7(1) of the Netherlands Agreement.
 The Stichting does not have a permanent establishment in Australia and Article 7(1) of the Netherlands Agreement provides a residence-only taxing right to the Netherlands over the business profits of the Stichting. Accordingly, Australia, as the country of source of the business profits, does not have a right to tax the business profits under the Netherlands Agreement.
-Date of decision:
-  21 April 2008
-
-Year of income:
-  Years ended 30 June 2007 Years ended 30 June 2008 Years ended 30 June 2009 Years ended 30 June 2010 Years ended 30 June 2011
-
-Legislative References:
-
-International Tax Agreements Act 1953   Article 7 of Schedule 10   Article 3 of Schedule 10   Article 4(1) of Schedule 10
-
-Case References:
-
-Chaff and Hay Acquisition Committee v Hemphill   (1947) 74 CLR 375
-
-Thiel v Federal Commissioner of Taxation    (1990) 171 CLR 338   (1990) 21 ATR 531   90 ATC 4717
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 2001/13
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/61
- ATO ID 2008/63
-
-Other References:
-
-European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2003
- Dutch State Secretary of Finance - Resolution IFZ93/874 dated 1 September 1993
- Butterworths Concise Australian Legal Dictionary, Second edition
- Model Tax Convention on Income and Capital (Condensed Version 2005)
- Article 285 of Book 2 of the Netherlands Civil Law Code
- Foreign Corporations (Application of Laws) Act 1989 Section 7(2)
-
-Keywords
-
-Entities & taxpayer groups
- International tax
- Non resident entities
- Trust distributions
- Trustees
- Trusts
-
-Siebel/TDMS Reference Number:
-  5733825
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 May 2008
-
-ISSN:
- 1445-2782
+Date of decision: 21 April 2008 Year of income: Years ended 30 June 2007 Years ended 30 June 2008 Years ended 30 June 2009 Years ended 30 June 2010 Years ended 30 June 2011 Legislative References: International Tax Agreements Act 1953 Article 7 of Schedule 10 Article 3 of Schedule 10 Article 4(1) of Schedule 10 Case References: Chaff and Hay Acquisition Committee v Hemphill (1947) 74 CLR 375 Thiel v Federal Commissioner of Taxation (1990) 171 CLR 338 (1990) 21 ATR 531 90 ATC 4717 Related Public Rulings (including Determinations) Taxation Ruling TR 2001/13 Related ATO Interpretative Decisions ATO ID 2008/61 ATO ID 2008/63 Other References: European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2003 Dutch State Secretary of Finance - Resolution IFZ93/874 dated 1 September 1993 Butterworths Concise Australian Legal Dictionary, Second edition Model Tax Convention on Income and Capital (Condensed Version 2005) Article 285 of Book 2 of the Netherlands Civil Law Code Foreign Corporations (Application of Laws) Act 1989 Section 7(2) Keywords Entities & taxpayer groups International tax Non resident entities Trust distributions Trustees Trusts Siebel/TDMS Reference Number: 5733825 Business Line: Public Groups and International Date of publication: 2 May 2008 ISSN: 1445-2782

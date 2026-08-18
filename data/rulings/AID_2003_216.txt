@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/216
-==================================================
-
-Income Tax
- Trading stock: valuation at cost - GST and second-hand goods acquired from an unregistered entity
- FOI status: may be released
-
-ATO ID 2003/216 is withdrawn as it is based on a straightforward application of the law.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Trading stock: valuation at cost - GST and second-hand goods acquired from an unregistered entity FOI status: may be released ATO ID 2003/216 is withdrawn as it is based on a straightforward application of the law. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Where a taxpayer, a second hand goods dealer, purchases second-hand goods as trading stock from an unregistered entity, should they disregard an amount equal to their GST input tax credit entitlement (if any), when valuing their closing trading stock at cost at the end of an income year under subsection 70-45(1A) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes, where a taxpayer, a second hand goods dealer, purchases second-hand goods as trading stock from an unregistered entity, they should disregard an amount of 1/11 of the consideration paid, representing their entitlement to a GST input tax credit, when valuing their closing trading stock at cost at the end of an income year under subsection 70-45(1A) of the ITAA 1997.
@@ -31,57 +16,10 @@ In determining the closing value of trading stock, an amount equal to the GST in
 Subsection 70-45(1A) of the ITAA 1997 ensures that the cost, market selling value or replacement value of an item of trading stock at the end of an income year does not include any GST input tax credit to which the taxpayer would be entitled if the taxpayer had acquired the item at that time solely for a creditable purpose. Something is acquired solely for a creditable purpose if it is acquired solely in carrying on the taxpayer's business, but not for making supplies that are input taxed within the meaning of the GST Act. This reduction in value does not apply to items of trading stock that cannot be the subject of a taxable supply, such as shares.
 Division 66 of the GST Act allows an entity, in some circumstances, to claim an input tax credit for acquisitions of second-hand goods, even though GST was not payable on the supply of the goods. Section 66-5 of the GST Act operates to effectively override the general rule in paragraph 11-5(b) of the GST Act, and provides that an entity makes a creditable acquisition even if the supply of the good to the entity is not a taxable supply. Thus, the acquisition of second-hand goods by a second-hand dealer registered for GST gives rise to an input tax credit even though the acquisition was not a taxable supply because the supplier was not registered for GST.
 Section 66-10 of the GST Act contains the rules for working out the amount of the input tax credit. If the consideration is more than $300, the credit allowed is the lesser of 1/11 of the consideration provided, and the GST payable on the subsequent supply of the goods (subsection 66-10(1) of the GST Act).
-Section 66-15 of the GST Act provides that an entity can attribute an input tax credit to which it is entitled under Division 66 of the GST Act to:
-
-the tax period in which any consideration is received for a subsequent taxable supply of the goods; or
-
-if, before any of the consideration is received, an invoice is issued relating to the supply - the tax period in which the invoice is issued.
-
-For acquisitions over $300 that are not divided for re-supply, and for which the entity is entitled to an input tax credit, the amount of the input tax credit is not determined until the goods are sold. Subsection 70-45(1A) of the ITAA 1997 refers to 'an amount equal to the amount of the input tax credit... to which you would be entitled' that must be excluded from the value of stock on hand as 'at the end of an income year'. This is not however a reference to the amount that may eventually be claimed as an input tax credit as calculated under section 66-10 of the GST Act and attributed in accordance with section 66-15 of the GST Act.
+Section 66-15 of the GST Act provides that an entity can attribute an input tax credit to which it is entitled under Division 66 of the GST Act to: the tax period in which any consideration is received for a subsequent taxable supply of the goods; or if, before any of the consideration is received, an invoice is issued relating to the supply - the tax period in which the invoice is issued. For acquisitions over $300 that are not divided for re-supply, and for which the entity is entitled to an input tax credit, the amount of the input tax credit is not determined until the goods are sold. Subsection 70-45(1A) of the ITAA 1997 refers to 'an amount equal to the amount of the input tax credit... to which you would be entitled' that must be excluded from the value of stock on hand as 'at the end of an income year'. This is not however a reference to the amount that may eventually be claimed as an input tax credit as calculated under section 66-10 of the GST Act and attributed in accordance with section 66-15 of the GST Act.
 The second-hand good is an item of trading stock and remains unsold at the end of the year. The taxpayer at the end of year elects to value the item at cost. Therefore, 1/11 of the cost of the item represents an entitlement to an input tax credit, and is excluded from the trading stock calculation under subsection 70-45(1A) of the ITAA 1997.
-Date of decision:
-  26 February 2003
-
-Year of income:
-  Year ending 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 70-45(1A)   section 70-35
-A New Tax System (Goods and Services Tax) Act 1999   Division 66   section 66-5   section 66-10   subsection 66-10(1)   section 66-15   paragraph 11-5(b)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/217
-
-Keywords
-
-Goods and Services Tax
- GST second hand goods
- Trading stock
- Trading stock on hand
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  4 April 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-26 February 2003
-Original statement
-
-You are here
+Date of decision: 26 February 2003 Year of income: Year ending 30 June 2003 Legislative References: Income Tax Assessment Act 1997 subsection 70-45(1A) section 70-35
+A New Tax System (Goods and Services Tax) Act 1999 Division 66 section 66-5 section 66-10 subsection 66-10(1) section 66-15 paragraph 11-5(b) Related ATO Interpretative Decisions ATO ID 2003/217 Keywords Goods and Services Tax GST second hand goods Trading stock Trading stock on hand Business Line: Private Groups and High Wealth Individuals Date of publication: 4 April 2003 ISSN: 1445-2782 history Date: Version: 26 February 2003
+Original statement You are here
 17 October 2014
 Archived

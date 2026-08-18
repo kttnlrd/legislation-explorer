@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/47
-==================================================
-
-Income tax
- Complying Superannuation Fund: roll-over superannuation benefit treated as assessable income when applying deduction provisions - meaning of contribution
- FOI status: may be released
-
-This ATO ID is withdrawn as it is no longer necessary. The issue addressed in this ATO ID is covered by the new paragraphs 9 and 9A in TR 93/17 Income tax: income tax deductions available to superannuation funds that was updated 17 May 2017.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Complying Superannuation Fund: roll-over superannuation benefit treated as assessable income when applying deduction provisions - meaning of contribution FOI status: may be released This ATO ID is withdrawn as it is no longer necessary. The issue addressed in this ATO ID is covered by the new paragraphs 9 and 9A in TR 93/17 Income tax: income tax deductions available to superannuation funds that was updated 17 May 2017. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a roll-over superannuation benefit a 'contribution' for the purposes of subsection 295-95(1) of the Income Tax Assessment Act 1997 (ITAA 1997), the full amount of which is treated as if it were included in the 'assessable income' of a complying superannuation fund when applying the provisions of 'this Act about deducting amounts'?
 Decision
 Yes. A roll-over superannuation benefit (other than an amount transferred from one superannuation interest in a superannuation plan to another superannuation interest in the same plan) is a 'contribution' for the purposes of subsection 295-95(1) of the ITAA 1997.
@@ -31,9 +16,7 @@ The complying superannuation fund did not directly incur any expenses in obtaini
 During the income year, the complying superannuation fund also earned exempt income (but no non-assessable non-exempt income). The fund was therefore not entitled to a deduction for the full amount of the administrative fee.
 The administrative fee could not be divided into two distinct and severable parts, one attributed to gaining or producing the fund's assessable income, and one to gaining or producing the fund's exempt income.
 The complying superannuation fund uses the method in paragraph 8(b) of Taxation Ruling TR 93/17 Income tax: income tax deductions available to superannuation funds to work out the proportion of the administrative fee that can be deducted from the fund's assessable income.
-The trustee of the complying superannuation fund has asked whether a roll-over superannuation benefit is a 'contribution' that is treated as if it were included in the fund's assessable income under subsection 295-95(1) of the ITAA 1997 for the purposes of working out the deductible portion of the administrative fee under section 8-1 of the ITAA 1997.
-
-Reasons for decision
+The trustee of the complying superannuation fund has asked whether a roll-over superannuation benefit is a 'contribution' that is treated as if it were included in the fund's assessable income under subsection 295-95(1) of the ITAA 1997 for the purposes of working out the deductible portion of the administrative fee under section 8-1 of the ITAA 1997. Reasons for decision
 Division 295 of the ITAA 1997, which applies for the 2007-08 and later income years, sets out the special rules for the taxation of superannuation entities, including complying superannuation funds. Amongst other things, these rules specifically include certain 'contributions' in the assessable income of a complying superannuation fund. They also modify the application of certain provisions of the ITAA 1997 about income and deductions.
 Subdivision 295-C of the ITAA 1997 explains which 'contributions' are included in the assessable income of a complying superannuation fund (that is, which contributions are included in, and in some cases excluded from, a fund's assessable income).
 The rules in Subdivision 295-C of the ITAA 1997 are subject to Subdivision 295-D of the ITAA 1997, which gives a complying superannuation fund the option of reducing the amount of certain contributions that would otherwise be included in its assessable income.
@@ -42,17 +25,7 @@ A 'roll-over superannuation benefit' that an individual is taken to receive unde
 In accordance with section 8-1 of the ITAA 1997, a complying superannuation fund can generally only deduct from its assessable income a loss or outgoing to the extent that it is incurred in gaining or producing its assessable income.
 Subsection 295-95(1) of the ITAA 1997 modifies the application of the deduction provisions in 'this Act' for 'contributions' made to a complying superannuation fund. The phrase 'this Act' is defined to include the ITAA 1997 and the Income Tax Assessment Act 1936 (ITAA 1936).
 Under subsection 295-95(1) of the ITAA 1997 'all contributions' made to a complying superannuation fund are treated as if they were included in the fund's assessable income for the purposes of working out the amount of any deductions (whether or not the contributions are actually included in the assessable income of the fund under the income tax law).
-Subsection 295-95(1) of the ITAA 1997 relevantly states:
-
-Provisions of this Act about deducting amounts apply to these entities as if
- all contributions
- made to them were included in their assessable income:
-
-(a)complying superannuation funds...
-
-(emphasis added)
-
-As explained in the notes to subsection 295-95(1) of the ITAA 1997, this means that a complying superannuation fund can deduct amounts incurred in obtaining all 'contributions', including non-assessable contributions (for example, contributions which the contributor cannot deduct, and contributions excluded from assessable income under Subdivision 295-D of the ITAA 1997). That is, the provision ensures it is not necessary for a fund to consider whether a particular contribution is assessable income, or is assessable income only in part.
+Subsection 295-95(1) of the ITAA 1997 relevantly states: Provisions of this Act about deducting amounts apply to these entities as if all contributions made to them were included in their assessable income: (a)complying superannuation funds... (emphasis added) As explained in the notes to subsection 295-95(1) of the ITAA 1997, this means that a complying superannuation fund can deduct amounts incurred in obtaining all 'contributions', including non-assessable contributions (for example, contributions which the contributor cannot deduct, and contributions excluded from assessable income under Subdivision 295-D of the ITAA 1997). That is, the provision ensures it is not necessary for a fund to consider whether a particular contribution is assessable income, or is assessable income only in part.
 It also follows that any losses or outgoings directly incurred by a fund in obtaining 'contributions' do not need to be apportioned for the purposes of section 8-1 of the ITAA 1997 where they are incurred in obtaining both assessable and non-assessable contributions (including a single contribution that has both an assessable and non-assessable portion).
 Further, to the extent to which it is necessary for a fund to apportion losses or outgoings incurred in gaining or producing both assessable income and exempt income under section 8-1 of the ITAA 1997, such as the administrative fee in this case, all contributions are taken to be included in the fund's assessable income when working out the deductible portion.
 Subsection 295-95(1) of the ITAA 1997 is a re-write of section 277 of Part IX of the ITAA 1936, which treated certain contributions as assessable income of a resident superannuation fund for the 1988-89 income year and all subsequent income years prior to the 2007-08 income year.
@@ -62,97 +35,25 @@ Subsection 295-95(1) of the ITAA 1997 was re-written to clarify how the law oper
 Paragraph 3.85 of the EM to the Tax Laws Amendment (Simplified Superannuation) Bill 2006, which introduced subsection 295-95(1) of the ITAA 1997, clearly states that 'superannuation entities can deduct amounts incurred in obtaining contributions even if the contributions are not assessable'. Paragraph 3.86 of the EM goes on to state the 'rewritten section ... clarifies that the provision applies to all contributions that are not assessable'.
 As subsection 295-95(1) of the ITAA 1997 clearly operates in respect of 'all contributions' made to a complying superannuation fund, it therefore falls for consideration whether or not a 'roll-over superannuation benefit' is a 'contribution' for the purposes of the provision.
 The term 'contribution' is not defined in the ITAA 1997 and is therefore given its ordinary meaning, having regard to the context and purpose of the provision in which it appears.
-Taxation Ruling TR 2010/1 Income tax: superannuation contributions sets out the Commissioner's view on the ordinary meaning of the word 'contribution' in so far as it is used in relation to a superannuation fund, approved deposit fund or retirement savings account in the ITAA 1997. Paragraph 4 of the Ruling relevantly provides:
-
-In the superannuation context, a 'contribution' is anything of value that increases the capital of the superannuation fund provided by a person whose purpose is to benefit one or more particular members of the fund or all of the members in general.
-
-The Ruling goes on to state at paragraph 17 that a roll-over superannuation benefit (other than an amount transferred from one superannuation interest in a superannuation plan to another superannuation interest in the same plan) is a 'contribution' as 'it increases the capital of the fund in the same way as any other transfer of funds or assets and is made to obtain superannuation benefits for a particular individual'.
+Taxation Ruling TR 2010/1 Income tax: superannuation contributions sets out the Commissioner's view on the ordinary meaning of the word 'contribution' in so far as it is used in relation to a superannuation fund, approved deposit fund or retirement savings account in the ITAA 1997. Paragraph 4 of the Ruling relevantly provides: In the superannuation context, a 'contribution' is anything of value that increases the capital of the superannuation fund provided by a person whose purpose is to benefit one or more particular members of the fund or all of the members in general. The Ruling goes on to state at paragraph 17 that a roll-over superannuation benefit (other than an amount transferred from one superannuation interest in a superannuation plan to another superannuation interest in the same plan) is a 'contribution' as 'it increases the capital of the fund in the same way as any other transfer of funds or assets and is made to obtain superannuation benefits for a particular individual'.
 There is nothing in subsection 295-95(1) of the ITAA 1997, or the EM to the Tax Laws Amendment (Simplified Superannuation) Bill 2006 which introduced the provision, that suggests the word 'contribution' is intended to be given a contrary or a more limited meaning in this context, or that it is meant to exclude a roll-over superannuation benefit.
 The broader legislative scheme of Part 3-30 of the ITAA 1997, which contains the superannuation provisions of the Act including subsection 295-95(1) of the ITAA 1997, clearly contemplates that a roll-over superannuation benefit is a 'contribution'.
-For example, provisions of this Part include rules which:
-
-•ensure a deduction cannot be claimed for a contribution that is a roll-over superannuation benefit (see paragraph 290-5(a) of the ITAA 1997)
+For example, provisions of this Part include rules which: •ensure a deduction cannot be claimed for a contribution that is a roll-over superannuation benefit (see paragraph 290-5(a) of the ITAA 1997)
 •exclude a contribution that is a roll-over superannuation benefit from the definition of non-concessional contributions for the purposes of the excess contributions tax (see subparagraph 292-90(2)(c)(vi) of the ITAA 1997)
 •exclude a contribution that is a roll-over superannuation benefit from being assessable income under items 1 and 2 of the table in section 295-160 of the ITAA 1997, and
-•disregard the taxable component of a roll-over superannuation benefit paid into a superannuation interest when determining the contributions that are included in the 'contributions segment' of an interest under subsection 307-220(1) of the ITAA 1997 (see subparagraph 307-220(2)(a)(i) of the ITAA 1997).
-
-These examples lend support for the view that the word 'contribution' as it is used in subsection 295-95(1) of the ITAA 1997 is intended to be given its ordinary meaning, and therefore includes a roll-over superannuation benefit to the extent specified in Taxation Ruling 2010/1. Furthermore, if a contrary legislative intention did exist, it is reasonable to expect that it would be expressly stated.
+•disregard the taxable component of a roll-over superannuation benefit paid into a superannuation interest when determining the contributions that are included in the 'contributions segment' of an interest under subsection 307-220(1) of the ITAA 1997 (see subparagraph 307-220(2)(a)(i) of the ITAA 1997). These examples lend support for the view that the word 'contribution' as it is used in subsection 295-95(1) of the ITAA 1997 is intended to be given its ordinary meaning, and therefore includes a roll-over superannuation benefit to the extent specified in Taxation Ruling 2010/1. Furthermore, if a contrary legislative intention did exist, it is reasonable to expect that it would be expressly stated.
 As established above, subsection 295-95(1) of the ITAA 1997 clearly extends the operation of the deduction provisions so that superannuation entities, including complying superannuation funds, can deduct amounts incurred in obtaining 'all contributions'. That is, its purpose is to ensure that the receipt of non-assessable contributions does not reduce the extent to which a fund can deduct expenditure incurred in obtaining contributions.
 In the Commissioner's view, it is consistent with the policy intention underpinning subsection 295-95(1) of the ITAA 1997 that a complying superannuation fund can deduct losses and outgoings incurred in obtaining a roll-over superannuation benefit in its entirety (not just the assessable part).
 In the absence of a contrary legislative intention, and consistent with the view expressed in Taxation Ruling TR 2010/1, a roll-over superannuation benefit (other than an amount transferred from one superannuation interest in a superannuation plan to another superannuation interest in the same plan) is a 'contribution' for the purposes of subsection 295-95(1) of the ITAA 1997.
-In this case, it follows that the full amount of all roll-over superannuation benefits received by the complying superannuation fund are treated as if they were included in the 'assessable income' of the fund under subsection 295-95(1) of the ITAA 1997 when applying the provisions of 'this Act about deducting amounts', including section 8-1 of the ITAA 1997.
-
-Amendment History
-
-Date of Amendment
+In this case, it follows that the full amount of all roll-over superannuation benefits received by the complying superannuation fund are treated as if they were included in the 'assessable income' of the fund under subsection 295-95(1) of the ITAA 1997 when applying the provisions of 'this Act about deducting amounts', including section 8-1 of the ITAA 1997. Amendment History Date of Amendment
 Part
-Comment
-
-6 March 2015
+Comment 6 March 2015
 Reasons for Decision
-Updated due to repeal of legislation.
-
-Legislative References
-Updated.
-
-Date of decision:
-  24 May 2012
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Part 3-30   Division 295   Subdivision 295-C   Subdivision 295-D   section 8-1   paragraph 290-5(a)   subparagraph 292-90(2)(c)   subsection 295-95(1)   section 295-155   section 295-160   subsection 295-190   subsection 295-190(1)   section 306-10   section 307-15   subsection 307-220(1)   subparagraph 307-220(2)(a)
-Income Tax Assessment Act 1936   section 277 (repealed)   subsection 274(1) (repealed)   subsection 82AAT(1) (repealed)
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 93/17
-Taxation Ruling TR 2010/1
-
-Other References:
-
- EM to the Taxation Laws Amendment Bill (No. 6) 1988
- EM to the Tax Laws Amendment Bill (No. 4) 1994
- EM to the Tax Laws Amendment (Simplified Superannuation) Bill 2006
-
-Keywords
-
-Taxation of superannuation entities
- Superannuation fund income
- Assessable contributions - superannuation funds
- Roll-over superannuation benefits - superannuation fund assessable income
- Superannuation fund expenses
-
-Siebel/TDMS Reference Number:
-  1-3XVN25P; 1-IPX0ZA2
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  25 May 2012
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-24 May 2012
-Original statement
-
- 
- 6 March 2015
-Updated statement
-
-You are here
+Updated due to repeal of legislation. Legislative References
+Updated. Date of decision: 24 May 2012 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 Part 3-30 Division 295 Subdivision 295-C Subdivision 295-D section 8-1 paragraph 290-5(a) subparagraph 292-90(2)(c) subsection 295-95(1) section 295-155 section 295-160 subsection 295-190 subsection 295-190(1) section 306-10 section 307-15 subsection 307-220(1) subparagraph 307-220(2)(a)
+Income Tax Assessment Act 1936 section 277 (repealed) subsection 274(1) (repealed) subsection 82AAT(1) (repealed) Related Public Rulings (including Determinations) Taxation Ruling TR 93/17
+Taxation Ruling TR 2010/1 Other References: EM to the Taxation Laws Amendment Bill (No. 6) 1988 EM to the Tax Laws Amendment Bill (No. 4) 1994 EM to the Tax Laws Amendment (Simplified Superannuation) Bill 2006 Keywords Taxation of superannuation entities Superannuation fund income Assessable contributions - superannuation funds Roll-over superannuation benefits - superannuation fund assessable income Superannuation fund expenses Siebel/TDMS Reference Number: 1-3XVN25P; 1-IPX0ZA2 Business Line: Superannuation Date of publication: 25 May 2012 ISSN: 1445-2782 history Date: Version: 24 May 2012
+Original statement 6 March 2015
+Updated statement You are here
 22 November 2019
 Archived

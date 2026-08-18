@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/870
-==================================================
-
-Income Tax
- Debt/Equity Borderline: characterisation of related schemes
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Debt/Equity Borderline: characterisation of related schemes FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will the issue of loan notes and shares that are related schemes under section 974-155 of the Income Tax Assessment Act 1997 (ITAA 1997) give rise to a debt or an equity interest pursuant to the operation of Division 974 of the ITAA 1997?
 Decision
 The related schemes will give rise to a debt interest as they will satisfy the requirements of a debt interest as defined in subsection 974-15(1) of the ITAA 1997.
@@ -25,41 +14,10 @@ Interest will be payable on the loan notes at 10% per annum compounding. The iss
 Reasons for Decision
 The constituent schemes (namely, the shares and the loan notes) give rise to a debt interest because they satisfy the criteria under which related schemes give rise to a debt interest (paragraphs 974-15(2)(a) to 974-15(2)(c) of the ITAA 1997). The constituent schemes do not satisfy all of the criteria under which related schemes give rise to an equity interest (paragraphs 974-70(2)(a) to 974-70(2)(c) of the ITAA 1997).
 Paragraph 974-15(2)(a) of the ITAA 1997 requires that 'the entity enters into, participates in or causes another entity to enter into or participate in the constituent schemes...' This requirement is met, because the company will require any investor who wishes to invest, to subscribe to both the loan notes and the shares.
-Paragraph 974-15(2)(b) of the ITAA 1997 requires that the operation of the constituent schemes (the loan notes and the shares) in combination (the 'notional scheme'), would satisfy the debt test in subsection 974-20(1) of the ITAA 1997. To satisfy the debt test, paragraphs 974-20(1)(a) to 974-20(1)(e) of the ITAA 1997 must be satisfied. These paragraphs are satisfied because:
-
-•the scheme is a financing arrangement (paragraph 974-20(1)(a) of the ITAA 1997). Paragraph 974-130(1)(a) of the ITAA 1997 provides that a scheme is a financing arrangement if it is entered into to raise finance for the entity. In the present case, the loan notes and the shares are to be issued to raise finance.
+Paragraph 974-15(2)(b) of the ITAA 1997 requires that the operation of the constituent schemes (the loan notes and the shares) in combination (the 'notional scheme'), would satisfy the debt test in subsection 974-20(1) of the ITAA 1997. To satisfy the debt test, paragraphs 974-20(1)(a) to 974-20(1)(e) of the ITAA 1997 must be satisfied. These paragraphs are satisfied because: •the scheme is a financing arrangement (paragraph 974-20(1)(a) of the ITAA 1997). Paragraph 974-130(1)(a) of the ITAA 1997 provides that a scheme is a financing arrangement if it is entered into to raise finance for the entity. In the present case, the loan notes and the shares are to be issued to raise finance.
 •the entity receives a financial benefit under the scheme (paragraph 974-20(1)(b) of the ITAA 1997). The financial benefit (subsection 974-160(1) of the ITAA 1997) received is represented by funds raised from the issue of the loan notes and the shares.
 •the entity has an effectively non-contingent obligation to provide a financial benefit or benefits in the future (paragraph 974-20(1)(c) of the ITAA 1997). The financial benefit is the face value of the loan note plus any capitalised interest. An 'effectively non-contingent obligation' (subsection 974-135(1) of the ITAA 1997) exists because, when regard is given to the pricing, terms and conditions of the related schemes, the issuer has an obligation, both in substance and effect, to repay monies to the holders of the loan notes.
-•it is substantially more likely than not that the value of the financial benefits provided under the scheme will equal or exceed the value of the financial benefits received (paragraph 974-20(1)(d) of the ITAA 1997). Subsections 974-20(2) and 974-20(3) of the ITAA 1997 define the value of the financial benefits provided and received as representing the sum of those financial benefits to be provided or received respectively. Only the value of those financial benefits that the issuing company has an effectively non-contingent obligation to provide are required to be taken into account in the application of the test under paragraph 974-20(1)(d) of the ITAA 1997 (paragraph 974-20(4)(a) of the ITAA 1997). In calculating the value of those financial benefits, subparagraph 974-35(1)(a)(i) of the ITAA 1997 provides that if the period during which the effectively non-contingent obligations have to be met (the 'performance period') ends no later than 10 years after the interest is issued, the financial benefits are to be valued in nominal terms. The period during which the effectively non-contingent obligations have to be met in the present case is ten years, and accordingly, the financial benefits are to be valued in nominal terms. The total nominal value of the financial benefits to be provided by the issuer (ie, the effectively non-contingent obligations that the issuer is required to provide) will exceed the value of the financial benefits received under the loan notes and the shares (amounts invested by the investors).
-
-The value of the financial benefits provided and the value of the financial benefits received are both not nil (paragraph 974-20(1)(e) of the ITAA 1997).
+•it is substantially more likely than not that the value of the financial benefits provided under the scheme will equal or exceed the value of the financial benefits received (paragraph 974-20(1)(d) of the ITAA 1997). Subsections 974-20(2) and 974-20(3) of the ITAA 1997 define the value of the financial benefits provided and received as representing the sum of those financial benefits to be provided or received respectively. Only the value of those financial benefits that the issuing company has an effectively non-contingent obligation to provide are required to be taken into account in the application of the test under paragraph 974-20(1)(d) of the ITAA 1997 (paragraph 974-20(4)(a) of the ITAA 1997). In calculating the value of those financial benefits, subparagraph 974-35(1)(a)(i) of the ITAA 1997 provides that if the period during which the effectively non-contingent obligations have to be met (the 'performance period') ends no later than 10 years after the interest is issued, the financial benefits are to be valued in nominal terms. The period during which the effectively non-contingent obligations have to be met in the present case is ten years, and accordingly, the financial benefits are to be valued in nominal terms. The total nominal value of the financial benefits to be provided by the issuer (ie, the effectively non-contingent obligations that the issuer is required to provide) will exceed the value of the financial benefits received under the loan notes and the shares (amounts invested by the investors). The value of the financial benefits provided and the value of the financial benefits received are both not nil (paragraph 974-20(1)(e) of the ITAA 1997).
 Paragraph 974-15(2)(c) of the ITAA 1997 requires that it be reasonable to conclude that the entity intended that the combined economic effects of the constituent schemes to be the same as, or similar to, the economic effects of a debt interest. The constituent schemes, in combination, do have an economic effect that is equivalent to a debt interest. The issuer has in substance and effect an obligation to repay the total investment amount on the loan notes and interest whether capitalised or not. Having regard to the investment amounts attributable to the loan notes and shares, and that each individual share is to be subscribed to with a loan note, the obligations of the issuer to repay the amounts arising under the loan notes will exceed the entire investment amount. Accordingly, it would be reasonable to conclude that the company intended the combined economic effects of the constituent schemes to be similar to the economic effects of a debt interest.
-The constituent schemes
- would not
- satisfy the criteria necessary for the related schemes to be characterised as an equity interest (paragraphs 974-70(2)(a) to 974-70(2)(c) of the ITAA 1997). The constituent schemes would not to give rise to an equity interest as required under paragraph 974-70(2)(b) of the ITAA 1997 because those constituent schemes would not give rise to an equity interest under subsection 974-70(1) of the ITAA 1997 given that the interest would be characterised as a debt interest. In addition, it could not be said that it is reasonable to conclude that the entity intended the combined economic effects of the constituent schemes to be the same as, or similar to, the economic effects of an equity interest (paragraph 974-70(2)(c) of the ITAA 1997).
-Date of decision:
-  16 September 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 974-15(1)   subsection 974-15(2)   subsection 974-20(1)   subsection 974-20(2)   subsection 974-20(3)   subsection 974-20(4)   subsection 974-35(1)   subsection 974-70(1)   subsection 974-70(2)   subsection 974-130(1)   subsection 974-160(1)
-
-Keywords
-
-Financing arrangement
- Debt equity borderline
-
-Siebel/TDMS Reference Number:
-  3545567
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  26 September 2003
-
-ISSN:
- 1445-2782
+The constituent schemes would not satisfy the criteria necessary for the related schemes to be characterised as an equity interest (paragraphs 974-70(2)(a) to 974-70(2)(c) of the ITAA 1997). The constituent schemes would not to give rise to an equity interest as required under paragraph 974-70(2)(b) of the ITAA 1997 because those constituent schemes would not give rise to an equity interest under subsection 974-70(1) of the ITAA 1997 given that the interest would be characterised as a debt interest. In addition, it could not be said that it is reasonable to conclude that the entity intended the combined economic effects of the constituent schemes to be the same as, or similar to, the economic effects of an equity interest (paragraph 974-70(2)(c) of the ITAA 1997).
+Date of decision: 16 September 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 subsection 974-15(1) subsection 974-15(2) subsection 974-20(1) subsection 974-20(2) subsection 974-20(3) subsection 974-20(4) subsection 974-35(1) subsection 974-70(1) subsection 974-70(2) subsection 974-130(1) subsection 974-160(1) Keywords Financing arrangement Debt equity borderline Siebel/TDMS Reference Number: 3545567 Business Line: Finance and Investment Centre of Expertise Date of publication: 26 September 2003 ISSN: 1445-2782

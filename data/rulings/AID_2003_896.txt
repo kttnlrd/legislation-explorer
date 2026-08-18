@@ -1,75 +1,23 @@
 ATO Interpretative Decision
 ATO ID 2003/896
-==================================================
-
-Income Tax
- Bank branching legislation: the application of section 160ZZZI
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Bank branching legislation: the application of section 160ZZZI FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the taxpayer, a foreign bank (Foreign Parent) entitled to a deduction under section 160ZZZI of Part IIIB of the Income Tax Assessment Act 1936 (ITAA 1936) for a payment made by an Australian branch of the foreign bank (Bank Branch) if the derivative contract or agreement under which the payment is made was first entered into by the bank through its head office or a branch outside Australia?
 Decision
 Yes. Section 160ZZZI of the ITAA 1936 would not operate to deny the taxpayer, a foreign bank, a deduction for what would be an otherwise deductible payment made by its Australian branch under a derivative contract, simply because the derivative contract itself was entered into offshore.
 Facts
 Foreign Parent proposes to move its derivatives book from off-shore to Bank Branch in Australia.
 The reasons for such a transfer must be accepted as commercially sound by the Tax Office.
-Whilst Foreign Parent and Bank Branch are both part of the same legal entity, it would be expected that:
-
-(a)The 'transfer' of the derivative portfolio would be evidenced by a written agreement between the management of Foreign Parent and Bank Branch.
+Whilst Foreign Parent and Bank Branch are both part of the same legal entity, it would be expected that: (a)The 'transfer' of the derivative portfolio would be evidenced by a written agreement between the management of Foreign Parent and Bank Branch.
 (b)Each external counterparty would be notified that Bank Branch is now the counterparty to their relevant derivative contract.
 (c)The derivative portfolio would be removed from the Foreign Parent accounting system and recorded in the accounting system of Bank Branch.
-(d)Once 'transferred' the derivative contracts would be managed, funded and hedged by Bank Branch.
-
-Reasons for Decision
-Part IIIB of the ITAA 1936 may apply to derivative transactions. 'Derivative transaction' is defined in section 160ZZV of the ITAA 1936 as:
-
-...a transaction entered into for the purpose of eliminating, reducing or altering the risk of adverse financial consequences that might result from changes in rates of interest or changes in rates of exchange between currencies, or for the purpose of making a profit from such changes, but does not include a transaction for the provision of finance or a foreign exchange transaction.
-
-Section 160ZZZE of the ITAA 1936 recognises inter-branch derivative transactions for Australian tax purposes where the transactions are reflected in the accounting records of an Australian branch.
-While section 160ZZZE of the ITAA 1936 recognises inter-branch derivative transactions, section 160ZZZI of the ITAA 1936 provides that:
-
-any transaction entered into by a foreign bank otherwise than through its Australian branch:....that is a derivative transaction....is to be disregarded for the purpose of determining whether a deduction is allowable to the bank under this Act.
-
-Whether a payment or payments made by an Australian branch of a foreign bank can be recognised for tax purposes if the derivative contract or agreement under which they are made was first entered into by the bank through its head office or a branch outside Australia depends on whether the expression 'transaction entered into' as used in section 160ZZV and 160ZZZI of the ITAA 1936, comprehends only the initial entering into of a contract or agreement for the purpose of alleviating or profiting from changes in interest or foreign exchange rates, or whether it comprehends each and every step by which a contract or agreement entered into for that purpose is carried into effect. If the expression has the latter meaning, then it does not follow from the mere fact that a derivative contract is entered into offshore that any subsequent steps transacted through the Australian branch must be disregarded.
-The word 'transaction' is not defined for the purposes of Part IIIB of the ITAA 1936. Nor is it more generally defined for the purposes of the ITAA 1936 or the Income Tax Assessment Act 1997. 'Transaction' should therefore take its ordinary meaning. According to the Collins English Dictionary the ordinary meaning of 'transaction' is:
-
-something that is transacted, esp. a business deal or negotiation; the act of transacting'. The verb 'to transact' is defined as 'to do, conduct, or negotiate (business, a deal etc).
-
-Section 15AA of the Acts Interpretation Act 1901 requires the purpose or object underlying an Act to be preferred to a construction that would not promote that purpose or object. Since the legislative purpose of section 160ZZZI of the ITAA 1936 is not readily apparent from its position within Part IIIB of the ITAA 1936 it is appropriate to have regard to the Explanatory Memorandum accompanying the Bill that inserted Part IIIB of the ITAA 1936.
+(d)Once 'transferred' the derivative contracts would be managed, funded and hedged by Bank Branch. Reasons for Decision
+Part IIIB of the ITAA 1936 may apply to derivative transactions. 'Derivative transaction' is defined in section 160ZZV of the ITAA 1936 as: ...a transaction entered into for the purpose of eliminating, reducing or altering the risk of adverse financial consequences that might result from changes in rates of interest or changes in rates of exchange between currencies, or for the purpose of making a profit from such changes, but does not include a transaction for the provision of finance or a foreign exchange transaction. Section 160ZZZE of the ITAA 1936 recognises inter-branch derivative transactions for Australian tax purposes where the transactions are reflected in the accounting records of an Australian branch.
+While section 160ZZZE of the ITAA 1936 recognises inter-branch derivative transactions, section 160ZZZI of the ITAA 1936 provides that: any transaction entered into by a foreign bank otherwise than through its Australian branch:....that is a derivative transaction....is to be disregarded for the purpose of determining whether a deduction is allowable to the bank under this Act. Whether a payment or payments made by an Australian branch of a foreign bank can be recognised for tax purposes if the derivative contract or agreement under which they are made was first entered into by the bank through its head office or a branch outside Australia depends on whether the expression 'transaction entered into' as used in section 160ZZV and 160ZZZI of the ITAA 1936, comprehends only the initial entering into of a contract or agreement for the purpose of alleviating or profiting from changes in interest or foreign exchange rates, or whether it comprehends each and every step by which a contract or agreement entered into for that purpose is carried into effect. If the expression has the latter meaning, then it does not follow from the mere fact that a derivative contract is entered into offshore that any subsequent steps transacted through the Australian branch must be disregarded.
+The word 'transaction' is not defined for the purposes of Part IIIB of the ITAA 1936. Nor is it more generally defined for the purposes of the ITAA 1936 or the Income Tax Assessment Act 1997. 'Transaction' should therefore take its ordinary meaning. According to the Collins English Dictionary the ordinary meaning of 'transaction' is: something that is transacted, esp. a business deal or negotiation; the act of transacting'. The verb 'to transact' is defined as 'to do, conduct, or negotiate (business, a deal etc). Section 15AA of the Acts Interpretation Act 1901 requires the purpose or object underlying an Act to be preferred to a construction that would not promote that purpose or object. Since the legislative purpose of section 160ZZZI of the ITAA 1936 is not readily apparent from its position within Part IIIB of the ITAA 1936 it is appropriate to have regard to the Explanatory Memorandum accompanying the Bill that inserted Part IIIB of the ITAA 1936.
 The Memorandum indicates that if a bank does in fact 'incur a cost through its Australian branch' then that cost should not be disregarded because it is a direct cost of the branch rather than an indirect cost requiring attribution to the branch.
 It follows that section 160ZZZI of the ITAA 1936 should be not be interpreted in such a way that a foreign bank could be denied a deduction for a payment actually made by the Australian branch to a third party. Indeed, to interpret the section that way would be patently unreasonable since; short of opting out of Part IIIB of the ITAA 1936 altogether, there would be no mechanism whereby the bank could avail itself of a deduction for the funds expended.
 Consistent with this the expression 'transaction entered into ... that is a derivative transaction' in section 160ZZZI of the ITAA 1936 is to be interpreted as referring to each and every payment or receipt made under a derivative contract. On this interpretation, each and every payment made by an Australian branch will be excluded from the operation of section 160ZZZI of the ITAA 1936 on the basis that it is a '[derivative] transaction entered into by [the] foreign bank ... through its Australian branch'.
 This interpretation of the provision accords with the purposes underlying Part IIIB of the ITAA 1936.
-Date of decision:
-  24 September 2003
-
-Year of income:
-  Year ended 30 June 2003
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160ZZZI   section 160ZZV   section 160ZZZE
-Acts Interpretation Act 1901   section 15AA
-
-Keywords
-
-Foreign banks
- Financial derivatives
-
-Siebel/TDMS Reference Number:
-  3016137
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  3 October 2003
-
-ISSN:
- 1445-2782
+Date of decision: 24 September 2003 Year of income: Year ended 30 June 2003 Legislative References: Income Tax Assessment Act 1936 section 160ZZZI section 160ZZV section 160ZZZE
+Acts Interpretation Act 1901 section 15AA Keywords Foreign banks Financial derivatives Siebel/TDMS Reference Number: 3016137 Business Line: Public Groups and International Date of publication: 3 October 2003 ISSN: 1445-2782

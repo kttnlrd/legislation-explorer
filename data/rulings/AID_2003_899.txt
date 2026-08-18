@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/899
-==================================================
-
-Income Tax
- Debt/Equity: whether perpetual convertible notes are an equity interest or a debt interest
- FOI status: may be released
-
-This decision has been withdrawn as it does not accurately reflect the ATO view.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Debt/Equity: whether perpetual convertible notes are an equity interest or a debt interest FOI status: may be released This decision has been withdrawn as it does not accurately reflect the ATO view. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Are the perpetual convertible notes issued by an entity a debt interest pursuant to Division 974 of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 Yes. The perpetual convertible notes issued by Issuer to Holder are a debt interest since they satisfy the debt test in section 974-20 of Subdivision 974-B of Division 974 of the ITAA 1997.
@@ -33,62 +18,14 @@ For instruments issued on or after 1 July 2001 Division 974 of the ITAA 1997 pro
 Since the perpetual convertible notes may convert into an equity interest in the company they give rise to an equity interest pursuant to item 4 of the table in subsection 974-75(1) of Subdivision 974-C of the ITAA 1997, provided that the notes are issued as part of a 'scheme' that is a 'financing arrangement' of Issuer (subsection 974-75(2)).
 The arrangement between Issuer and Holder in relation to the notes falls within the ambit of a scheme which is defined very broadly in subsection 995-1(1) of the ITAA 1997 to include 'any arrangement'. Since Issuer issued the notes to raise finance, the scheme is a financing arrangement. Therefore the notes give rise to an equity interest in Issuer.
 However, should the notes also satisfy the debt test they will be a debt interest, rather than an equity interest, by virtue of the application of the tie-breaker rule in subsection 974-5(4) of the ITAA 1997.
-The debt test is contained in subsection 974-20(1) of Subdivision 974-B of the ITAA 1997. For the perpetual convertible notes the debt test will be satisfied if under the scheme that has already been established to be a financing arrangement:
-
-(i)Issuer receives a 'financial benefit'
+The debt test is contained in subsection 974-20(1) of Subdivision 974-B of the ITAA 1997. For the perpetual convertible notes the debt test will be satisfied if under the scheme that has already been established to be a financing arrangement: (i)Issuer receives a 'financial benefit'
 (ii)Issuer has an 'effectively non-contingent obligation' to provide a financial benefit to the holder of the perpetual convertible note, and
-(iii)it is substantially more likely than not that the value of the benefit provided to Holder will at least equal the value of the benefit received by Issuer.
-
-Issuer receives a financial benefit under the scheme to the extent of the $9.00 paid for each perpetual convertible note.
+(iii)it is substantially more likely than not that the value of the benefit provided to Holder will at least equal the value of the benefit received by Issuer. Issuer receives a financial benefit under the scheme to the extent of the $9.00 paid for each perpetual convertible note.
 In return, Issuer has an obligation to pay annual coupon amounts of 9% of $9.00 on 30 June each year. These payments are not subject to any contingency and cannot be deferred or waived in any circumstance. Therefore, Issuer has an effectively non-contingent obligation to provide Holder with a financial benefit to the extent of $0.81 per note on 30 June each year.
 Under subsection 974-35(1) of the ITAA 1997 the financial benefit is calculated in present value terms if the performance period must or may end more than 10 years after the interest arising from the scheme is issued; otherwise the financial benefit is calculated in nominal terms. Further, the value of the financial benefit provided is calculated assuming that the interest arising from the scheme will continue to be held for the rest of its life (subsection 974-35(2) of the ITAA 1997).
-Although Issuer does have an option to redeem the notes or convert them into ordinary shares at any time after six years from the date of issue, it has no effectively non-contingent obligation to do so. In the absence of any such obligation, the existence of the option to terminate early is to be disregarded in determining the length of the life of the interest (subsection 974-40(2) of the ITAA 1997). Therefore the note is taken to have a performance period in perpetuity and the value of the benefit provided by Issuer is calculated in present value terms in accordance with the formula set out in subsection 974-50(4) of the ITAA 1997. In the case of an instrument where Issuer provides a constant amount annually in perpetuity the financial benefit is as follows:
-
-Financial benefit in nominal terms / Adjusted benchmark rate of return
-
-where the adjusted benchmark rate of return is 75% of Issuer's ordinary debt rate i.e. 75% of 8% = 6%
-
-and the benefit provided by Issuer = (($9.00 x 9%) / 6%) = ($0.81 / 6%) = $13.50
-
-As this is more than the value of the financial benefit received of $9.00 received by Issuer, it can be said that it is substantially more likely than not that the value of the benefit provided to Holder is at least equal to the value of the benefit received by Issuer. Therefore, the perpetual convertible notes give rise to a debt interest.
+Although Issuer does have an option to redeem the notes or convert them into ordinary shares at any time after six years from the date of issue, it has no effectively non-contingent obligation to do so. In the absence of any such obligation, the existence of the option to terminate early is to be disregarded in determining the length of the life of the interest (subsection 974-40(2) of the ITAA 1997). Therefore the note is taken to have a performance period in perpetuity and the value of the benefit provided by Issuer is calculated in present value terms in accordance with the formula set out in subsection 974-50(4) of the ITAA 1997. In the case of an instrument where Issuer provides a constant amount annually in perpetuity the financial benefit is as follows: Financial benefit in nominal terms / Adjusted benchmark rate of return where the adjusted benchmark rate of return is 75% of Issuer's ordinary debt rate i.e. 75% of 8% = 6% and the benefit provided by Issuer = (($9.00 x 9%) / 6%) = ($0.81 / 6%) = $13.50 As this is more than the value of the financial benefit received of $9.00 received by Issuer, it can be said that it is substantially more likely than not that the value of the benefit provided to Holder is at least equal to the value of the benefit received by Issuer. Therefore, the perpetual convertible notes give rise to a debt interest.
 Since the debt test prevails over the equity test, the interest is a debt interest under Division 974 of the ITAA 1997.
-Date of decision:
-  26 September 2003
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 974-20   section 974-5   subsection 974-5(4)   subsection 974-75(1)   subsection 974-75(2)   subsection 974-75(4)   subsection 974-20(1)   subsection 974-35(1)   subsection 974-40(2)   subsection 974-35(2)   subsection 995-1(1)
-
-Keywords
-
-Convertible Notes
- Financial Instruments
- Debt equity borderline
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  3 October 2003
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-26 September 2003
-Original statement
-
-You are here
+Date of decision: 26 September 2003 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 974-20 section 974-5 subsection 974-5(4) subsection 974-75(1) subsection 974-75(2) subsection 974-75(4) subsection 974-20(1) subsection 974-35(1) subsection 974-40(2) subsection 974-35(2) subsection 995-1(1) Keywords Convertible Notes Financial Instruments Debt equity borderline Business Line: Finance and Investment Centre of Expertise Date of publication: 3 October 2003 ISSN: 1445-2782 history Date: Version: 26 September 2003
+Original statement You are here
 29 October 2003
 Archived

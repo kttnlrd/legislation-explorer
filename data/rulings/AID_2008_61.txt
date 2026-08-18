@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/61
-==================================================
-
-Income Tax
- Withholding Tax Exemption: interest and dividends paid by an Australian resident and received by a Dutch Stichting as unitholder in an Irish Common Contractual Fund
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Withholding Tax Exemption: interest and dividends paid by an Australian resident and received by a Dutch Stichting as unitholder in an Irish Common Contractual Fund FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a Dutch Stichting (Stichting) 'derive' interest and dividend income paid by Australian residents and received by the Stichting as a unitholder in an Irish Common Contractual Fund (CCF) for the purposes of the withholding tax exemption in paragraph 128B(3)(jb) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. The interest and dividend income is derived by the Stichting for the purposes of paragraph 128B(3)(jb) of the ITAA 1936.
@@ -29,75 +18,17 @@ The manager appoints the custodian as the fiduciary of the CCF under a custody a
 The CCF receives interest and dividends from companies resident in Australia as a result of investing the assets of the CCF.
 The Stichting, as a unitholder in the CCF, is entitled to receive the income of the CCF as it arises. Under the deed, the Stichting is beneficially entitled to a proportion of the underlying assets of the CCF in accordance with its unit holding.
 Reasons for Decision
-Section 128B of Division 11A of the ITAA 1936 imposes withholding tax on payment of dividends, interest and royalties made by Australian residents to non-residents. Subsection 128B(3) of the ITAA 1936 lists certain types of income to which withholding tax under section 128B of the ITAA 1936 does not apply. In particular, paragraph 128B(3)(jb) of the ITAA 1936 provides an exclusion from withholding tax for certain superannuation funds for foreign residents.
-
-(jb)income that:
+Section 128B of Division 11A of the ITAA 1936 imposes withholding tax on payment of dividends, interest and royalties made by Australian residents to non-residents. Subsection 128B(3) of the ITAA 1936 lists certain types of income to which withholding tax under section 128B of the ITAA 1936 does not apply. In particular, paragraph 128B(3)(jb) of the ITAA 1936 provides an exclusion from withholding tax for certain superannuation funds for foreign residents. (jb)income that:
 (i)is derived by a non-resident that is a superannuation fund for foreign residents (or a foreign superannuation fund for the period prior to 14 September 2006); and
 (ii)consists of interest, or consists of dividends or non-share dividends paid by a company that is a resident; and
-(iii)is exempt from income tax in the country in which the non-resident resides;
-
-Although, the interest and dividend income is initially received by the manager and/or custodian of the CCF before it is paid to the Stichting, under subsection 128A(3) of the ITAA 1936, the Stichting will be deemed to derive the income for the purposes of Division 11A of the ITAA 1936 where the relationship between the CCF and the Stichting is a trust relationship.
-Subsection 128A(3) of the ITAA 1936 states:
-
-For the purposes of this Division, a beneficiary who is presently entitled to a dividend, to interest or to a royalty included in the income of a trust estate shall be deemed to have derived income consisting of that dividend, interest or royalty at the time when he became so entitled.
-
-Is the relationship between the CCF and the Stichting a trust for the purposes of subsection 128A(3) of the ITAA 1936?
-The term 'trust estate' is not defined in the ITAA 1936 or Income Tax Assessment Act 1997 (ITAA 1997). Whether the interest and dividend income forms part of a trust estate, therefore, depends on whether a trust exists in accordance with guidance provided by the Courts. Justice French in Harmer & Ors v. FC of T 89 ATC 5180; (1989) 20 ATR 1461 stated that a trust 'is notably a definition of a relationship by reference to obligations'. His Honour went on to state that the four essential elements of a trust are:
-
-1.the trustee who holds a legal or equitable interest in the trust property
+(iii)is exempt from income tax in the country in which the non-resident resides; Although, the interest and dividend income is initially received by the manager and/or custodian of the CCF before it is paid to the Stichting, under subsection 128A(3) of the ITAA 1936, the Stichting will be deemed to derive the income for the purposes of Division 11A of the ITAA 1936 where the relationship between the CCF and the Stichting is a trust relationship.
+Subsection 128A(3) of the ITAA 1936 states: For the purposes of this Division, a beneficiary who is presently entitled to a dividend, to interest or to a royalty included in the income of a trust estate shall be deemed to have derived income consisting of that dividend, interest or royalty at the time when he became so entitled. Is the relationship between the CCF and the Stichting a trust for the purposes of subsection 128A(3) of the ITAA 1936?
+The term 'trust estate' is not defined in the ITAA 1936 or Income Tax Assessment Act 1997 (ITAA 1997). Whether the interest and dividend income forms part of a trust estate, therefore, depends on whether a trust exists in accordance with guidance provided by the Courts. Justice French in Harmer & Ors v. FC of T 89 ATC 5180; (1989) 20 ATR 1461 stated that a trust 'is notably a definition of a relationship by reference to obligations'. His Honour went on to state that the four essential elements of a trust are: 1.the trustee who holds a legal or equitable interest in the trust property
 2.the trust property which must be property capable of being held on trust and which includes a chose in action
 3.one or more beneficiaries other than the trustee, and
-4.a personal obligation on the trustee to deal with the trust property for the benefit of the beneficiaries, which obligation is also annexed to the property.
-
-All four elements of a trust are present in the relationship between the manager, custodian and the unitholder of the CCF. The manager of the CCF, and in some cases the custodian, holds legal title to the assets of the CCF. The assets are not held by the manager and the custodian for their own benefit, but rather the deed obliges the manager and custodian to deal with the assets of the CCF on behalf of and in the best interests of the unitholder in the CCF. Accordingly, both the manager and the custodian are acting in a trustee capacity with respect to the assets of the CCF, being the trust property which initially arose from the unitholder's contributions to the CCF. A unitholder is beneficially entitled to a proportion of the underlying assets of the CCF in accordance with their unit holding and receives income from the investment of the CCF assets by the manager and/or custodian as it arises.
+4.a personal obligation on the trustee to deal with the trust property for the benefit of the beneficiaries, which obligation is also annexed to the property. All four elements of a trust are present in the relationship between the manager, custodian and the unitholder of the CCF. The manager of the CCF, and in some cases the custodian, holds legal title to the assets of the CCF. The assets are not held by the manager and the custodian for their own benefit, but rather the deed obliges the manager and custodian to deal with the assets of the CCF on behalf of and in the best interests of the unitholder in the CCF. Accordingly, both the manager and the custodian are acting in a trustee capacity with respect to the assets of the CCF, being the trust property which initially arose from the unitholder's contributions to the CCF. A unitholder is beneficially entitled to a proportion of the underlying assets of the CCF in accordance with their unit holding and receives income from the investment of the CCF assets by the manager and/or custodian as it arises.
 Therefore, the relationship between the manager, custodian and the unitholder constitutes a trust relationship. Accordingly, the income received by the manager and/or custodian of the CCF is income of a trust estate for the purposes of subsection 128A(3) of the ITAA 1936.
 Under the terms of the deed, income of the CCF accrues to the unitholder as it arises. Accordingly, the Stichting would have a present legal right to demand and receive payment of the income and therefore, would be presently entitled to the interest and dividend income received by the CCF.
 The requirements of subsection 128A(3) of the ITAA 1936 are therefore satisfied, and the Stichting is deemed to have derived the interest and dividend income at the time when it became presently entitled to the income.
 As all elements of paragraph 128B(3)(jb) of the ITAA 1936 are satisfied by the Stichting, the interest and dividend income derived by the Stichting is exempt from withholding tax under s128B of the ITAA 1936. As a result, the income is also considered not assessable income and not exempt income of the Stichting under section 128D of the ITAA 1936.
-Date of decision:
-  21 April 2008
-
-Year of income:
-  Years ended 30 June 2007 Years ended 30 June 2008 Years ended 30 June 2009 Years ended 30 June 2010 Years ended 30 June 2011 
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 128B   subsection 128A(3)   Paragraph 128B(3)(jb)   section 128D
-
-Case References:
-
-Harmer & Ors v. FC of T   89 ATC 5180   (1989) 20 ATR 1461
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/62
- ATO ID 2008/63
-
-Other References:
-
-European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2003
-
-Keywords
-
-Entities & taxpayer groups
- International tax
- Non resident dividend withholding tax
- Non resident entities
- Non resident interest withholding tax
- Trust distributions
- Trustees
- Trusts
- Withholding tax exemptions
- Withholding taxes
-
-Siebel/TDMS Reference Number:
-  5733825
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  2 May 2008
-
-ISSN:
- 1445-2782
+Date of decision: 21 April 2008 Year of income: Years ended 30 June 2007 Years ended 30 June 2008 Years ended 30 June 2009 Years ended 30 June 2010 Years ended 30 June 2011 Legislative References: Income Tax Assessment Act 1936 section 128B subsection 128A(3) Paragraph 128B(3)(jb) section 128D Case References: Harmer & Ors v. FC of T 89 ATC 5180 (1989) 20 ATR 1461 Related ATO Interpretative Decisions ATO ID 2008/62 ATO ID 2008/63 Other References: European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2003 Keywords Entities & taxpayer groups International tax Non resident dividend withholding tax Non resident entities Non resident interest withholding tax Trust distributions Trustees Trusts Withholding tax exemptions Withholding taxes Siebel/TDMS Reference Number: 5733825 Business Line: Public Groups and International Date of publication: 2 May 2008 ISSN: 1445-2782

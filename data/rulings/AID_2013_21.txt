@@ -1,17 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2013/21
-==================================================
-
-Income Tax
- Interposed Entity Elections: trust in respect of which the relevant Family Trust Election was made ceases to exist
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interposed Entity Elections: trust in respect of which the relevant Family Trust Election was made ceases to exist CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is an interposed entity election (IEE) still in force under subsection 272-85(6A) of Schedule 2F to the Income Tax Assessment Act 1936 (ITAA 1936) if the trust in respect of which the relevant family trust election (FTE) was made ceases to exist?
 Decision
 Yes, an IEE for a company is still in force under subsection 272-85(6A) of Schedule 2F to the ITAA 1936 despite the trust in respect of which the relevant FTE was made, ceasing to exist.
@@ -26,45 +16,8 @@ Subsection 272-85(1) of Schedule 2F to the ITAA 1936 allows a company to make an
 An IEE is generally irrevocable.
 An IEE can only be revoked in the limited situation where the entity was, or becomes, a member of the family group of the individual specified in the FTE (otherwise than by reason of the IEE) and subject to the four year rule in subsection 272-85(5C) of Schedule 2F to the ITAA 1936 (subsection 272-85(5A) of Schedule 2F to the ITAA 1936).
 This does not apply in the facts disclosed above.
-Furthermore, it is taken to be revoked where the FTE of the trust (to which the IEE of the company relates) is revoked pursuant to subsection 272-85(5B) of Schedule 2F to the ITAA 1936.
-
-(A trustee of a discretionary trust can only revoke an FTE where:
-
-(1)the FTE has not been utilised to recoup tax losses, claim deductions or access franking credits that would not have been claimable without the FTE in place (paragraphs 272-80(6A)(a), 272-80(6A)(b) and 272-80(6A)(c) of Schedule 2F to the ITAA 1936); and
-(2)the four year rule in subsection 272-80(6B) of Schedule 2F to the ITAA 1936 is met.)
-
-The trustee of the trust with the FTE did not revoke the FTE therefore the requirements of subsection 272-85(5B) of Schedule 2F to the ITAA 1936 are not met.
+Furthermore, it is taken to be revoked where the FTE of the trust (to which the IEE of the company relates) is revoked pursuant to subsection 272-85(5B) of Schedule 2F to the ITAA 1936. (A trustee of a discretionary trust can only revoke an FTE where: (1)the FTE has not been utilised to recoup tax losses, claim deductions or access franking credits that would not have been claimable without the FTE in place (paragraphs 272-80(6A)(a), 272-80(6A)(b) and 272-80(6A)(c) of Schedule 2F to the ITAA 1936); and
+(2)the four year rule in subsection 272-80(6B) of Schedule 2F to the ITAA 1936 is met.) The trustee of the trust with the FTE did not revoke the FTE therefore the requirements of subsection 272-85(5B) of Schedule 2F to the ITAA 1936 are not met.
 As the requirements for revocation have not been satisfied, the IEE for the company remains in force at all times after its commencement time and will continue to remain in force after the trust with the FTE has vested.
 A family trust distribution tax liability will arise where the company makes a distribution outside the family group (see section 271-30 of Schedule 2F to the ITAA 1936).
-Date of decision:
-  11 December 2012
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2F   section 271-30   section 272-80   subsection 272-80(6B)   paragraph 272-80(6A)(a)   paragraph 272-80(6A)(b)   paragraph 272-80(6A)(c)   subsection 272-85(1)   subsection 272-85(5B)   subsection 272-85(5C)   paragraph 272-85(6A)(a)
-
-Keywords
-
-Family trust distribution tax
- Family trust election
- Family trusts
- Interposed entity election
- Trust loss tests
-
-Siebel/TDMS Reference Number:
-  1-4E8ZT9I; 1-7VMHAYG, 1-E6EQX2W
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  11 December 2013
-
-Date reviewed:
-  17 April 2018
-
-ISSN:
- 1445-2782
+Date of decision: 11 December 2012 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1936 Schedule 2F section 271-30 section 272-80 subsection 272-80(6B) paragraph 272-80(6A)(a) paragraph 272-80(6A)(b) paragraph 272-80(6A)(c) subsection 272-85(1) subsection 272-85(5B) subsection 272-85(5C) paragraph 272-85(6A)(a) Keywords Family trust distribution tax Family trust election Family trusts Interposed entity election Trust loss tests Siebel/TDMS Reference Number: 1-4E8ZT9I; 1-7VMHAYG, 1-E6EQX2W Business Line: Private Groups and High Wealth Individuals Date of publication: 11 December 2013 Date reviewed: 17 April 2018 ISSN: 1445-2782

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/553
-==================================================
-
-Income Tax
- Capital Works: effect of input tax credits on construction expenditure
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Works: effect of input tax credits on construction expenditure FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the construction expenditure that is used to calculate a capital works deduction under Division 43 of the Income Tax Assessment Act 1997 (ITAA 1997) reduced, pursuant to section 27-20 of the ITAA 1997, by the amount of any input tax credit entitlement related to that expenditure?
 Decision
 Yes. In calculating a deduction under Division 43 of the ITAA 1997, the construction expenditure is reduced, pursuant to section 27-20 of the ITAA 1997, by the amount of any input tax credit entitlement related to that expenditure.
@@ -23,36 +12,4 @@ The deduction allowed under Division 43 of the ITAA 1997 for capital works is ca
 In calculating the amount a taxpayer may be able to deduct, section 27-20 of the ITAA 1997 requires that an element in the calculation that is an amount paid or payable be treated as not including any amount of input tax credit related to that amount.
 In terms of section 27-20 of the ITAA 1997, the calculation of a deduction under Division 43 of the ITAA 1997 is an amount the taxpayer may be able to deduct. The construction expenditure incurred by the builder is an amount paid or payable and, in turn, is an element in the calculation. There is an input tax credit related to the payment because the section only requires that 'any' input tax credit be related to the payment.
 It follows that the construction expenditure used in calculating the deduction under Division 43 of the ITAA 1997 is reduced, under section 27-20 of the ITAA 1997, by the amount of any input tax credit entitlement of the builder in relation to their construction expenditure on the building.
-Date of decision:
-  21 May 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 27-20   subsection 43-75(3)   subsection 43-85(2)   Division 43
-
-Keywords
-
-Building depreciation
- Capital Allowances CoE
- Capital expenditure
- Construction costs
- Input tax credit entitlement
- Input tax credits
-
-Siebel/TDMS Reference Number:
-  3476415; 1-7TQ4CSO, 1-DXJ3X15
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  11 July 2003
-
-Date reviewed:
-  12 March 2018
-
-ISSN:
- 1445-2782
+Date of decision: 21 May 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 27-20 subsection 43-75(3) subsection 43-85(2) Division 43 Keywords Building depreciation Capital Allowances CoE Capital expenditure Construction costs Input tax credit entitlement Input tax credits Siebel/TDMS Reference Number: 3476415; 1-7TQ4CSO, 1-DXJ3X15 Business Line: Private Groups and High Wealth Individuals Date of publication: 11 July 2003 Date reviewed: 12 March 2018 ISSN: 1445-2782

@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/931
-==================================================
-
-Income Tax
- Capital Allowances: Cost - enhancement and support fees for in-house software
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: Cost - enhancement and support fees for in-house software FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Do separate monthly fees, paid specifically for the provision of any enhancements or support necessary for in-house software to remain current, form part of the second element of cost of the in-house software as worked out under Subdivision 40-C of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. Monthly fees, paid for the supply of any enhancements necessary for in-house software to remain current and any technical support required, that are not capital in nature do not form part of the second element of cost of in-house software.
@@ -24,67 +11,11 @@ Reasons for Decision
 In-house software is defined in subsection 995-1(1) of the ITAA 1997 as computer software, or a right to use computer software (ie a licence) that you acquire or develop (or have another entity develop), that is mainly for your use in performing the functions for which the software was developed, and for which no amount is deductible outside Divisions 40 and 328 of the ITAA 1997.
 Paragraph 40-30(2)(d) of the ITAA 1997 provides that in-house software, that is not trading stock, is a depreciating asset. The taxpayer's software licence is within the definition of in-house software and is therefore a depreciating asset.
 The second element of a depreciating asset's cost is the amount the taxpayer is taken to have paid for each economic benefit that has contributed to bringing the asset to its present condition and location from time to time since the taxpayer started to hold the asset (section 40-190 of the ITAA 1997). In some circumstances, the enhancement and support fees may provide an economic benefit and would be included in the second element of cost.
-However, section 40-220 of the ITAA 1997 reduces the cost of a depreciating asset by any portion of it that is not of a capital nature. The regular payment of the fees and particularly the temporary advantage obtained from the payment of the fees, led to the determination that these expenses are not of a capital nature. As such, section 40-220 of the ITAA 1997 excludes these expenses from the second element of cost of a depreciating asset. Generally, these types of expenses are deductible under section 8-1 of the ITAA 1997.
-
-Note: The second element of cost of a depreciating asset also includes expenses incurred after 30 June 2005 of a balancing adjustment event occurring for the asset.
-
-[HISTORY: This ATO ID was amended on 21 April 2006 by adding the above note.]
-
-Amendment History
-
-Date of Amendment
+However, section 40-220 of the ITAA 1997 reduces the cost of a depreciating asset by any portion of it that is not of a capital nature. The regular payment of the fees and particularly the temporary advantage obtained from the payment of the fees, led to the determination that these expenses are not of a capital nature. As such, section 40-220 of the ITAA 1997 excludes these expenses from the second element of cost of a depreciating asset. Generally, these types of expenses are deductible under section 8-1 of the ITAA 1997. Note: The second element of cost of a depreciating asset also includes expenses incurred after 30 June 2005 of a balancing adjustment event occurring for the asset. [HISTORY: This ATO ID was amended on 21 April 2006 by adding the above note.] Amendment History Date of Amendment
 Part
-Comment
-
-28 July 2017
+Comment 28 July 2017
 All
-Updated.
-
-Date of decision:
-  31 January 2003
-
-Year of income:
-  Year ended 30 June 2002
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 8-1   paragraph 40-30(2)(d)   section 40-190   section 40-220   Subdivision 40-C   subsection 995-1(1)
-
-Keywords
-
-Cost of a depreciating asset
- Depreciating assets
- In-house software
- Intangible depreciating assets
- Second element of cost
-
-Siebel/TDMS Reference Number:
-  3190743; 1-5VRX69G, 1-BTRLXV6
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  17 October 2003
-
-Date reviewed:
-  3 July 2017
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-31 January 2003
-Original statement
-
-You are here
+Updated. Date of decision: 31 January 2003 Year of income: Year ended 30 June 2002 Legislative References: Income Tax Assessment Act 1997 section 8-1 paragraph 40-30(2)(d) section 40-190 section 40-220 Subdivision 40-C subsection 995-1(1) Keywords Cost of a depreciating asset Depreciating assets In-house software Intangible depreciating assets Second element of cost Siebel/TDMS Reference Number: 3190743; 1-5VRX69G, 1-BTRLXV6 Business Line: Private Groups and High Wealth Individuals Date of publication: 17 October 2003 Date reviewed: 3 July 2017 ISSN: 1445-2782 history Date: Version: 31 January 2003
+Original statement You are here
 28 July 2017
 Updated statement

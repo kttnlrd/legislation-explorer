@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/462
-==================================================
-
-Income Tax
- Div 7A: section 109J and court orders under the Family Law Act 1975
- FOI status: may be released
-
-This ATO ID is withdrawn as the issue is now covered by Taxation Ruling TR 2014/5, which issued on 30 July 2014.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Div 7A: section 109J and court orders under the Family Law Act 1975 FOI status: may be released This ATO ID is withdrawn as the issue is now covered by Taxation Ruling TR 2014/5, which issued on 30 July 2014. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a court order made under section 79 of Part VIII of the Family Law Act 1975 (FLA 1975) in relation to the parties to a marriage and which results in a private company making a payment (for the purposes of section 109C of the Income Tax Assessment Act 1936 (ITAA 1936)) to a party to that marriage an obligation of the private company to pay money to an entity for the purposes of section 109J of the ITAA 1936?
 Decision
 No. A court order made under section 79 of Part VIII of the FLA 1975 in relation to the parties to a marriage and which results in a private company making a payment (for the purposes of section 109C of the ITAA 1936) to a party to that marriage is not an obligation of the private company to pay money to an entity for the purposes of section 109J of the ITAA 1936.
@@ -30,83 +15,16 @@ Reasons for Decision
 Subdivision B of Part III of Division 7A of the ITAA 1936 deals with the circumstances under which certain private company payments will be treated as dividends.
 In the circumstances here the transfer of property is a payment for the purposes of section 109C of the ITAA 1936 and would meet the requirements to be treated as a dividend for the purposes of subsection 109C(1) of the ITAA 1936.
 However Subdivision D of Division 7A of Part III of the ITAA 1936 sets out rules about some payments which are not treated as dividends under subsection 109C(1) of the ITAA 1936. Section 109J of the ITAA 1936 in Subdivision D may be relevant to the circumstances here.
-Section 109J of the ITAA 1936 provides that
-
-A private company is not taken under section 109C to pay a dividend because of the payment of an amount to the extent that the payment:
-
-(a)discharges an obligation of the private company to pay money to the entity; and
-(b)is not more than would have been required to discharge the obligation had the private company and entity been dealing with each other at arm's length.
-
-The term 'obligation' is not expressly defined for the purposes of section 109J of the ITAA 1936 and therefore adopts its ordinary meaning. The Macquarie Dictionary 2003 rev. 3rd edn, The Macquarie Library Pty Ltd, NSW defines 'obligation' as follows:
-
-a binding requirement as to action; the binding power or force of a promise, law, duty, agreement, etc. ; a binding promise or the like.
-
-Where there is a court order in relation to a party to a marriage with respect to the property of the party, for example under section 79 or section 74 of Part VIII (Property, Spousal Maintenance and Maintenance Agreements) of the FLA 1975, the property of the party is treated by the Family Court as including any property the party has an ability to unilaterally invest in or divest as controlling shareholder, trustee or otherwise (In the Marriage of Harris (1991) F.L.C. 92-254).
+Section 109J of the ITAA 1936 provides that A private company is not taken under section 109C to pay a dividend because of the payment of an amount to the extent that the payment: (a)discharges an obligation of the private company to pay money to the entity; and
+(b)is not more than would have been required to discharge the obligation had the private company and entity been dealing with each other at arm's length. The term 'obligation' is not expressly defined for the purposes of section 109J of the ITAA 1936 and therefore adopts its ordinary meaning. The Macquarie Dictionary 2003 rev. 3rd edn, The Macquarie Library Pty Ltd, NSW defines 'obligation' as follows: a binding requirement as to action; the binding power or force of a promise, law, duty, agreement, etc. ; a binding promise or the like. Where there is a court order in relation to a party to a marriage with respect to the property of the party, for example under section 79 or section 74 of Part VIII (Property, Spousal Maintenance and Maintenance Agreements) of the FLA 1975, the property of the party is treated by the Family Court as including any property the party has an ability to unilaterally invest in or divest as controlling shareholder, trustee or otherwise (In the Marriage of Harris (1991) F.L.C. 92-254).
 An order under the FLA 1975 as a result of proceedings in the Family Court may therefore result in an entity who is not a party to the Court proceedings (for example, a company or trust) making a transfer of property under the terms of that court order.
 However it is necessary to consider whether the court order under section 79 of the FLA 1975 creates an obligation on the private company, who was not a party to the proceedings, to pay money to the taxpayer.
-There are two elements to paragraph 109J(a) of the ITAA 1936, both of which need to be met for section 109J of the ITAA 1936 to exclude a payment from the operation of section 109C of the ITAA 1936. These elements are:
-
-•the payment must discharge an obligation of the private company, and
-•that obligation must be to pay money to the entity.
-
-Addressing first element, there is no obligation on the part of the private company to the taxpayer. This is because an order under section 79 of the FLA 1975, although it may seek action on the part of a third party, only 'binds' a party to the proceedings who is subject to the order: In the Marriage of Prince (1984) F.L.C. 91-501. In the circumstances here the private company was not a party to the proceedings and not subject to the order. Hence, there is no, 'binding requirement as to action ..etc' on the part of the private company that would constitute an obligation within the Macquarie Dictionary ordinary meaning of that word.
+There are two elements to paragraph 109J(a) of the ITAA 1936, both of which need to be met for section 109J of the ITAA 1936 to exclude a payment from the operation of section 109C of the ITAA 1936. These elements are: •the payment must discharge an obligation of the private company, and
+•that obligation must be to pay money to the entity. Addressing first element, there is no obligation on the part of the private company to the taxpayer. This is because an order under section 79 of the FLA 1975, although it may seek action on the part of a third party, only 'binds' a party to the proceedings who is subject to the order: In the Marriage of Prince (1984) F.L.C. 91-501. In the circumstances here the private company was not a party to the proceedings and not subject to the order. Hence, there is no, 'binding requirement as to action ..etc' on the part of the private company that would constitute an obligation within the Macquarie Dictionary ordinary meaning of that word.
 In terms of the second element, it is clear that the section 79 order made by the Family Court, if it were an 'obligation' on the private company, was not an obligation to 'pay money'. Rather, the order requires a transfer of property.
 Therefore, the two elements required in paragraph 109J(a) of the ITAA 1936 are not satisfied. Accordingly section 109J of the ITAA 1936 does not prevent the operation of subsection 109C(1) of the ITAA 1936 to deem a dividend in respect of the transfer of property by the private company to the taxpayer.
-Date of decision:
-  14 May 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Division 7A   Subdivision B   Subdivision D   section 109C   subsection 109C(1)   section 109J   section 109Y   section 109Z
-Family Law Act 1975   Part VIII   section 74   section 79
-
-Case References:
-
-In the Marriage of Harris   (1991) F.L.C. 92-254
-
-In the Marriage of Prince   (1984) FLC 91-501
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/461
-
-Other References:
-
-Macquarie Dictionary, 2003 rev. 3rd edn, The Macquarie Library Pty Ltd, NSW
-
-Keywords
-
-Deemed dividends
- Private companies
- Shareholder payments
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  4 June 2004
-
-Date reviewed:
-  16 May 2014
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-14 May 2004
-Original statement
-
-You are here
+Date of decision: 14 May 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Division 7A Subdivision B Subdivision D section 109C subsection 109C(1) section 109J section 109Y section 109Z
+Family Law Act 1975 Part VIII section 74 section 79 Case References: In the Marriage of Harris (1991) F.L.C. 92-254 In the Marriage of Prince (1984) FLC 91-501 Related ATO Interpretative Decisions ATO ID 2004/461 Other References: Macquarie Dictionary, 2003 rev. 3rd edn, The Macquarie Library Pty Ltd, NSW Keywords Deemed dividends Private companies Shareholder payments Business Line: Private Groups and High Wealth Individuals Date of publication: 4 June 2004 Date reviewed: 16 May 2014 ISSN: 1445-2782 history Date: Version: 14 May 2004
+Original statement You are here
 11 April 2017
 Archived

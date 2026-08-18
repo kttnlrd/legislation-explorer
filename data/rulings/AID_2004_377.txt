@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/377
-==================================================
-
-Income Tax
- Commercial debt forgiveness: commercial debt - non-share equity interest
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Commercial debt forgiveness: commercial debt - non-share equity interest FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can an instrument which satisfies the definition of a 'non-share equity interest in a company' in Subdivision 974-C of the Income Tax Assessment Act 1997 (ITAA 1997), constitute a commercial debt for the purposes of section 245-25 of Schedule 2C to the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 Yes. A non-share equity interest can be a commercial debt for the purposes of section 245-25 of Schedule 2C to the ITAA 1936.
@@ -25,42 +14,11 @@ Section 245-10 of Schedule 2C to the ITAA 1936 provides that Division 245 of the
 The amount owed by Debtor to Creditor satisfies the definition of 'debt' in subsection 245-15(1) of Schedule 2C to the ITAA 1936, which provides:
 Subject to this section, a debt is an enforceable obligation imposed by law on a person to pay an amount to another person.
 Division 974 of the ITAA 1997 does not operate to modify that definition so as to preclude a non-share equity interest constituting such a debt.
-Subsection 995-1(1) of the ITAA 1997 defines a 'non-share equity interest in a company' as meaning:
-
-an *equity interest in the company that is not solely a *share.
-
-* denotes a term defined in subsection 995-1(1) of the ITAA 1997
-
-Subsection 995-1(1) of the ITAA 1997 defines 'equity interest in a company' as having the meaning given by Subdivision 974-C of the ITAA 1997.
+Subsection 995-1(1) of the ITAA 1997 defines a 'non-share equity interest in a company' as meaning: an *equity interest in the company that is not solely a *share. * denotes a term defined in subsection 995-1(1) of the ITAA 1997 Subsection 995-1(1) of the ITAA 1997 defines 'equity interest in a company' as having the meaning given by Subdivision 974-C of the ITAA 1997.
 In the present instance, it is a fact that the relevant debt constitutes an equity interest by Creditor in Debtor for the purposes of Subdivision 974-C of the ITAA 1997.
 Subsection 974-10(1) of the ITAA 1997 provides that an object of Division 974 is to establish a test for determining whether a scheme gives rise to a debt or an equity interest for particular taxation purposes. Division 974 does not have application for the purposes of all taxation law.
 The definition of commercial debt in section 245-25 of Schedule 2C to the ITAA 1936 is not expressly made subject to the defined terms 'debt interest' or 'equity interest' used in Division 974 of the ITAA 1997. Therefore, a debt in legal form would nonetheless constitute 'debt' for the purposes of section 245-15 of Schedule 2C to the ITAA 1936, even if such debts were classified as 'non-share equity interests in a company' pursuant to Division 974 of the ITAA 1997.
 Subsection 245-25(2) of Schedule 2C to the ITAA 1936 provides that a debt is a commercial debt if the whole or any part of the interest paid or payable in respect of the debt is or would be allowable as a deduction to the debtor apart from the operation of an exception provision. Section 26-26 of the ITAA 1997 is an exception provision within the meaning of subsection 245-25(5) of Schedule 2C to the ITAA 1936.
 Accordingly, the debt owed by Debtor to Creditor constitutes a commercial debt as defined in section 245-25 of Schedule 2C to the ITAA 1936.
-Date of decision:
-  13 April 2004
-
-Year of income:
-  Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Schedule 2C   Division 245   section 245-10   section 245-15   section 245-25   subsection 245-25(2)   subsection 245-25(4)   subsection 245-25(5)
-Income Tax Assessment Act 1997   Section 26-26   Division 974   Subdivision 974-C   subsection 974-10(1)   paragraph 974-105(2)(b)
-
-Keywords
-
-Debt forgiveness
- Debt waivers
-
-Siebel/TDMS Reference Number:
-  3985589
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 May 2004
-
-ISSN:
- 1445-2782
+Date of decision: 13 April 2004 Year of income: Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1936 Schedule 2C Division 245 section 245-10 section 245-15 section 245-25 subsection 245-25(2) subsection 245-25(4) subsection 245-25(5)
+Income Tax Assessment Act 1997 Section 26-26 Division 974 Subdivision 974-C subsection 974-10(1) paragraph 974-105(2)(b) Keywords Debt forgiveness Debt waivers Siebel/TDMS Reference Number: 3985589 Business Line: Public Groups and International Date of publication: 7 May 2004 ISSN: 1445-2782

@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/2
-==================================================
-
-Income Tax
- Consolidation: Subsidiary member - Issue of non-debt interest preference shares to retirement village residents
- FOI status: may be released
-
-The ATO ID is a simple restatement of the law and does not contain an interpretative decision and is withdrawn.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: Subsidiary member - Issue of non-debt interest preference shares to retirement village residents FOI status: may be released The ATO ID is a simple restatement of the law and does not contain an interpretative decision and is withdrawn. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a company which issues non-debt interest preference shares to residents of its retirement village, be a subsidiary member of a consolidatable group in terms of paragraph 703-15(2)(b) of the Income Tax Assessment Act 1997 (ITAA 1997)?
 Decision
 No. The preference shares acquired by the retirement village residents in the company result in those residents having membership interests in that company. This being the case, the company is not a wholly-owned subsidiary in terms of section 703-30 of the ITAA 1997. As the company is not a wholly-owned subsidiary it does not satisfy the subsidiary member ownership requirements set out in column 4 of item 2 of the table to paragraph 703-15(2)(b) of the ITAA 1997.
@@ -30,90 +15,23 @@ A village resident who acquires one of the preference shares becomes a member of
 Subsection 960-130(3) of the ITAA 1997, which excludes from being a member an entity whose only interests or rights in the other entity are debt interests, does not apply to the company's situation. This is on the basis that it has been determined that the interests or rights in question are not debt interests in terms of Subdivision 974-B of the ITAA 1997 but are equity interests.
 Subdivision 974-B of the ITAA 1997 explains what a debt interest is. It has operation from 1 July 2002 for the purposes of determining whether, in applying subsection 960-130(3) of the ITAA 1997, an interest is a debt interest. The special debt/equity transitional rules do not apply in determining whether an interest is a debt interest for consolidation purposes. This result is brought about by Division 703 of the Income Tax (Transitional Provisions) Act 1997.
 Having determined that a village resident who acquires one of the company's preference shares is a member of that company, section 960-135 of the ITAA 1997 operates to specify what the membership interests of the village resident in the company are.
-In this regard, section 960-135 of the ITAA 1997 states:
-
-960-135 Membership interest in an entity
-
-If you are a •member of an entity:
+In this regard, section 960-135 of the ITAA 1997 states: 960-135 Membership interest in an entity If you are a •member of an entity:
 (a) each interest, or set of interests in the entity; or
-(b) each right, or set of rights, in relation to an entity;by virtue of which you are a member of the entity is a membership interest of yours in the entity.
-
-• denotes a term defined in section 995-1 of the ITAA 1997.
-
-As a member of the company a preference shareholder has various rights or interests or sets of rights or interests that result from holding such shares. These are the membership interests that a retirement village resident who acquires a preference share in the company has in that company.
+(b) each right, or set of rights, in relation to an entity;by virtue of which you are a member of the entity is a membership interest of yours in the entity. • denotes a term defined in section 995-1 of the ITAA 1997. As a member of the company a preference shareholder has various rights or interests or sets of rights or interests that result from holding such shares. These are the membership interests that a retirement village resident who acquires a preference share in the company has in that company.
 In view of the above, the preference shares acquired by the retirement village residents in the company result in those residents having membership interests in that company.
 Is the company a wholly-owned subsidiary?
-Section 703-30 of the ITAA 1997 sets out when one entity is a wholly-owned subsidiary of another. Subsection 703-30(1) states:
-
-One entity (the
- subsidiary entity
-) is a wholly-owned subsidiary of another entity (the
- holding entity
-) if all the •membership interests in the subsidiary entity are beneficially owned by:
-
-(a)the holding entity; or
+Section 703-30 of the ITAA 1997 sets out when one entity is a wholly-owned subsidiary of another. Subsection 703-30(1) states: One entity (the subsidiary entity
+) is a wholly-owned subsidiary of another entity (the holding entity
+) if all the •membership interests in the subsidiary entity are beneficially owned by: (a)the holding entity; or
 (b)one or more wholly-owned subsidiaries of the holding entity; or
-(c)the holding entity and one or more wholly-owned subsidiaries of the holding entity.
-
-• denotes a term defined in section 995-1 of the ITAA 1997.
-
-By way of subsection 703-30(2) of the ITAA 1997 this rule is capable of multiple applications. This means that an entity can only be a wholly-owned subsidiary of the head company (the holding entity) if it is either a wholly-owned subsidiary of the holding entity or a wholly-owned subsidiary of a wholly-owned subsidiary of the holding entity.
+(c)the holding entity and one or more wholly-owned subsidiaries of the holding entity. • denotes a term defined in section 995-1 of the ITAA 1997. By way of subsection 703-30(2) of the ITAA 1997 this rule is capable of multiple applications. This means that an entity can only be a wholly-owned subsidiary of the head company (the holding entity) if it is either a wholly-owned subsidiary of the holding entity or a wholly-owned subsidiary of a wholly-owned subsidiary of the holding entity.
 It has to be determined whether the company, which owns the retirement village, is a wholly-owned subsidiary of the head company of the consolidatable group. For this to occur under section 703-30 of the ITAA 1997 all of the membership interests in the company must be beneficially owned by the head company and/or its wholly-owned subsidiaries.
 While all of the ordinary shares in the company may be beneficially owned by other group members, these are not the only membership interests in the company. As indicated above, membership interests result from the holding of preference shares in the company. While group members hold many of these preference shares, the occupancy arrangement used by the company involves the issue of preference shares to retirement village residents.
 This being the case, not all membership interests are beneficially owned within the group. Accordingly, the company does not meet the requirements necessary to be a wholly-owned subsidiary of the head company.
 Is the company a subsidiary member of a consolidatable group?
-By way of paragraph 703-15(2)(b) of the ITAA 1997, an entity is a subsidiary member of a consolidated or consolidatable group if all of the requirements set out in item 2 of the table included in that paragraph are met. Column 4 of that table sets out the 'Ownership requirements'. The column 4 ownership requirements set out for subsidiary members are as follows:
-
-The entity must be a •wholly-owned subsidiary of the head company of the group and, if there are interposed between them any entities, the requirement in subsection 703-45(1) must be met.
-
-The company is not a wholly-owned subsidiary of the consolidatable group. Accordingly, the ownership requirements set out in Column 4 of item 2 in the table to paragraph 703-15(2)(b) of the ITAA 1997 are not satisfied and the company is not a subsidiary member of the consolidatable group.
-Date of decision:
-  30 January 2004
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 960-130   section 960-135   section 703-30   section 703-15   Division 974   section 974-15   section 974-20
-Income Tax (Transitional Provisions) Act 1997   Division 703
-New Business Tax System (Debt and Equity) Act 2001   Item 118 of Schedule 1
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/176
-
-Keywords
-
-Consolidation CoE
- Debt interest in an entity
- Member of a group
- Member of an entity
- Membership interest in an entity
- Subsidiary member
- Wholly-owned subsidiary
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  14 January 2005
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-30 January 2004
-Original statement
-
-You are here
- 9 November 2012
+By way of paragraph 703-15(2)(b) of the ITAA 1997, an entity is a subsidiary member of a consolidated or consolidatable group if all of the requirements set out in item 2 of the table included in that paragraph are met. Column 4 of that table sets out the 'Ownership requirements'. The column 4 ownership requirements set out for subsidiary members are as follows: The entity must be a •wholly-owned subsidiary of the head company of the group and, if there are interposed between them any entities, the requirement in subsection 703-45(1) must be met. The company is not a wholly-owned subsidiary of the consolidatable group. Accordingly, the ownership requirements set out in Column 4 of item 2 in the table to paragraph 703-15(2)(b) of the ITAA 1997 are not satisfied and the company is not a subsidiary member of the consolidatable group.
+Date of decision: 30 January 2004 Year of income: Year ended 30 June 2003 Year ended 30 June 2004 Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1997 section 960-130 section 960-135 section 703-30 section 703-15 Division 974 section 974-15 section 974-20
+Income Tax (Transitional Provisions) Act 1997 Division 703
+New Business Tax System (Debt and Equity) Act 2001 Item 118 of Schedule 1 Related ATO Interpretative Decisions ATO ID 2004/176 Keywords Consolidation CoE Debt interest in an entity Member of a group Member of an entity Membership interest in an entity Subsidiary member Wholly-owned subsidiary Business Line: Consolidation Centre of Expertise Date of publication: 14 January 2005 ISSN: 1445-2782 history Date: Version: 30 January 2004
+Original statement You are here 9 November 2012
 Archived

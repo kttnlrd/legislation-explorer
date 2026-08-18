@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/22
-==================================================
-
-Company tax
- Group company loss transfers: - income company unable to utilise whole of transferred amount
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Company tax Group company loss transfers: - income company unable to utilise whole of transferred amount FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can an 'income' company that is unable to fully utilise a tax loss transferred to it under Subdivision 170-A of the Income Tax Assessment Act 1997 (ITAA 1997), as a result of a subsequent adjustment to its assessable income, retain the excess amount of the loss for later use?
 Decision
 No. Under Subdivision 170-A of the ITAA 1997, the amount transferred under a loss transfer agreement cannot exceed the maximum amount of loss that the income company can utilise in the deduction year. If the written agreement specifies a greater amount, only the maximum amount that can be utilised by the income company in the deduction year is taken to have been transferred.
@@ -27,41 +16,4 @@ In particular, to transfer a tax loss in a particular year, two group companies 
 With the subsequent reduction in assessable income of the income company for the 2002 income year, the amount specified in the written transfer agreement will exceed the amount which the income company can claim as a deduction.
 In these circumstances, section 170-65 of the ITAA 1997 operates as an adjusting mechanism whereby the amount specified in the agreement is taken to be the revised amount which the income company can use. This becomes the maximum amount which the loss company can transfer.
 Accordingly, where the income of the income company is reduced after an effective loss transfer agreement is made, there can be no excess tax loss available to the income company. The excess tax loss will effectively revert to the loss company.
-Date of decision:
-  18 November 2002
-
-Year of income:
-  Year ended 30 June 2001
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 170-1   section 170-45   paragraph 170-50(2)(d)   section 170-65
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 98/12
-
-Related ATO Interpretative Decisions
-
- ATO ID 2003/18
- ATO ID 2003/19
- ATO ID 2003/21
- ATO ID 2003/23
-
-Keywords
-
-Group company transfers
- Group company loss transfers
- Extension of time
-
-Siebel/TDMS Reference Number:
-  CRS79325
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  14 February 2003
-
-ISSN:
- 1445-2782
+Date of decision: 18 November 2002 Year of income: Year ended 30 June 2001 Legislative References: Income Tax Assessment Act 1997 section 170-1 section 170-45 paragraph 170-50(2)(d) section 170-65 Related Public Rulings (including Determinations) Taxation Ruling TR 98/12 Related ATO Interpretative Decisions ATO ID 2003/18 ATO ID 2003/19 ATO ID 2003/21 ATO ID 2003/23 Keywords Group company transfers Group company loss transfers Extension of time Siebel/TDMS Reference Number: CRS79325 Business Line: Public Groups and International Date of publication: 14 February 2003 ISSN: 1445-2782

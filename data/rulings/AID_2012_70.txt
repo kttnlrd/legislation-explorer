@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2012/70
-==================================================
-
-Income Tax
- Interest withholding tax on interest received by a US Limited Liability Company
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest withholding tax on interest received by a US Limited Liability Company FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a United States Limited Liability Company (US LLC) with Australian resident members liable to pay interest withholding tax pursuant to subsection 128B(5) of the Income Tax Assessment Act 1936 (ITAA 1936) on interest received from an Australian resident company?
 Decision
 No. A US LLC with Australian resident members is not liable to pay interest withholding tax pursuant to subsection 128B(5) of the ITAA 1936 on interest received from an Australian resident company.
@@ -26,120 +13,27 @@ US LLC has elected to be treated as a partnership for the purposes of US tax law
 US LLC is a foreign hybrid company under section 830-15 of the Income Tax Assessment Act 1997 (ITAA 1997).
 US LLC receives interest income from an Australian resident company. The interest has an Australian source, for the purposes of both Australian and US tax law.
 Subsection 128B(2A) of the ITAA 1936 does not apply in this case as the US LLC carries on its business itself; that is its members do not carry on the business as partners.
-Reasons for Decision
-
-Interest paid to non-residents and to certain other persons (withholding tax)
-
-A 'non-resident' is liable to pay withholding tax under subsection 128B(5) of the ITAA 1936 if the 'non-resident' derives income that consists of interest and the requirements of subsection 128B(2) of the ITAA 1936 are satisfied in relation to that income.
-Subsection 128B(2) of the ITAA 1936 provides that:
-
-Subject to subsection (3), this section ... applies to income that:
-
-(a)is derived ... by a non-resident; and
-(b)consists of interest that:
-
-(i)is paid to the non-resident ... .
-
-'Non-resident' is defined in subsection 6(1) of the ITAA 1936 to mean 'a person who is not a resident of Australia'. Thus, subsections 128B(2) and 128B(5) of the ITAA 1936, in conjunction with the definition of 'non-resident' in subsection 6(1) of the ITAA 1936, provide that interest that is both derived by and paid to 'a person who is not a resident of Australia', will be subject to interest withholding tax if the other requirements of subsection 128B(2) of the ITAA 1936 are satisfied. 'Person' is defined in subsection 6(1) of the ITAA 1936 to have the same meaning as in the ITAA 1997, that is to include a company.
-US LLC is 'a person who is not a resident of Australia'. As a company it is clearly a 'person' - and it is also not an Australian resident. At first instance, then (that is disregarding Division 830 of the ITAA 1997 - Foreign hybrids), it seems that US LLC may have a liability to pay interest withholding tax under subsection 128B(5) of the ITAA 1936, on the interest received.
-
-Subdivision 830-B of the ITAA 1997 - Extension of normal partnership provisions to foreign hybrid companies
-
-However, US LLC is a foreign hybrid company as defined in section 830-15 of the ITAA 1997. Section 830-20 of the ITAA 1997 provides that:
-
-830-20 Treatment of company as a partnership
-
-830-20 If a company is a *foreign hybrid company in relation to an income year, the *foreign hybrid tax provisions apply as if the company were a partnership, and for that purpose the following provisions of this Subdivision have effect.
-
-Section 830-20 of the ITAA 1997 treats a foreign hybrid company 'as if the company were a partnership' for most Australian income tax purposes. Additionally, section 830-25 of the ITAA 1997 provides that the shareholders (members) in the foreign hybrid company are the partners in the partnership.
+Reasons for Decision Interest paid to non-residents and to certain other persons (withholding tax) A 'non-resident' is liable to pay withholding tax under subsection 128B(5) of the ITAA 1936 if the 'non-resident' derives income that consists of interest and the requirements of subsection 128B(2) of the ITAA 1936 are satisfied in relation to that income.
+Subsection 128B(2) of the ITAA 1936 provides that: Subject to subsection (3), this section ... applies to income that: (a)is derived ... by a non-resident; and
+(b)consists of interest that: (i)is paid to the non-resident ... . 'Non-resident' is defined in subsection 6(1) of the ITAA 1936 to mean 'a person who is not a resident of Australia'. Thus, subsections 128B(2) and 128B(5) of the ITAA 1936, in conjunction with the definition of 'non-resident' in subsection 6(1) of the ITAA 1936, provide that interest that is both derived by and paid to 'a person who is not a resident of Australia', will be subject to interest withholding tax if the other requirements of subsection 128B(2) of the ITAA 1936 are satisfied. 'Person' is defined in subsection 6(1) of the ITAA 1936 to have the same meaning as in the ITAA 1997, that is to include a company.
+US LLC is 'a person who is not a resident of Australia'. As a company it is clearly a 'person' - and it is also not an Australian resident. At first instance, then (that is disregarding Division 830 of the ITAA 1997 - Foreign hybrids), it seems that US LLC may have a liability to pay interest withholding tax under subsection 128B(5) of the ITAA 1936, on the interest received. Subdivision 830-B of the ITAA 1997 - Extension of normal partnership provisions to foreign hybrid companies However, US LLC is a foreign hybrid company as defined in section 830-15 of the ITAA 1997. Section 830-20 of the ITAA 1997 provides that: 830-20 Treatment of company as a partnership 830-20 If a company is a *foreign hybrid company in relation to an income year, the *foreign hybrid tax provisions apply as if the company were a partnership, and for that purpose the following provisions of this Subdivision have effect. Section 830-20 of the ITAA 1997 treats a foreign hybrid company 'as if the company were a partnership' for most Australian income tax purposes. Additionally, section 830-25 of the ITAA 1997 provides that the shareholders (members) in the foreign hybrid company are the partners in the partnership.
 Subdivision 830-B of the ITAA 1997 thereby extends the list of arrangements that fall within the definition of 'partnership' in subsection 995-1(1) of the ITAA 1997 (and therefore subsection 6(1) of the ITAA 1936) - for the purpose of securing for foreign hybrid companies the method of taxation that applies to other partnerships.
 Note that Subdivision 830-B of the ITAA 1997 does not deem a foreign hybrid company (like US LLC) to satisfy any or all of the requirements of the definition of 'partnership' in subsection 995-1(1) of the ITAA 1997 - such as 'an association of persons ... carrying on business as partners or in receipt of ... income jointly' - where the first limb of the definition refers to a partnership under general law, and the second limb is a statutory extension of the term. (Partnerships which satisfy the second limb of this definition, that is partnerships for tax purposes only, are referred to as 'tax law partnerships' in this ATO ID.)
-Fisher J in FCT v. Comber 86 ATC 4171 at 4177; (1986) 10 FCR 88 at 96; 64 ALR 451 at 458, explained the limited effect of deeming provisions as follows:
-
-In my opinion deeming provisions are required by their nature to be construed strictly and only for the purpose for which they are resorted to (Ex parte Walton (1881) 17 Ch D 746 per James LJ at 756). It is improper in my view to extend by implication the express application of such a statutory fiction.
-
-Furthermore, Subdivision 830-B of the ITAA 1997 does not deem a foreign hybrid company to have any of the attributes of a general law partnership (for example mutual agency relationship), other than those that are specifically provided by Division 830 of the ITAA 1997. See, for example, sections 830-30 and 830-35 of the ITAA 1997.
-In AAT Case 12/95; AAT Case 10,079; (1995) 95 ATC 175 at 181; (1995) 30 ATR 1169 at 1175, the Tribunal Members considered the purpose and effect of the second limb of the definition of 'partnership'. Their joint judgement stated that:
-
-21. The Tribunal is of the view that the purpose of the definition of "partnership" as it appears in section 6(1) of the Act is the application to arrangements answering that description of Division 5 of Part III of the Act and, in the circumstances of this reference, particularly sections 90, 91 and 92. Against that background, and here the words of Fisher J are repeated, the deeming provisions are required by their nature to be construed strictly and only for the purpose for which they are resorted to and it is improper to extend by implication the express application of such a statutory fiction. This fiction does not, in our opinion, cloak an arrangement of the kind now being contemplated with the additional refinements of partnership assets and liabilities and partners capital accounts. ...
-
-Similarly, the purpose and effect of Subdivision 830-B of the ITAA 1997 is only that the foreign hybrid tax provisions referred to in section 830-20 of the ITAA 1997 apply as if US LLC were a tax law partnership and its members partners in this partnership. Importantly, subsection 995-1(1) of the ITAA 1997 defines foreign hybrid tax provisions to include the partnership provisions in Division 5 of Part III of the ITAA 1936.
-
-Division 5 of Part III of the ITAA 1936 - Partnerships
-
-Division 5 of Part III of the ITAA 1936 will therefore apply to US LLC (as a tax law partnership) and to its members (as the partners in the partnership), subject to the special rules in Division 830 of the ITAA 1997. As noted above, by virtue of sections 830-20 and 830-25 of the ITAA 1997, US LLC is a partnership for the purposes of sections 90 to 92 of the ITAA 1936 - while each of the Australian resident members of US LLC are partners in the US LLC partnership for the purpose of section 92 of the ITAA 1936.
+Fisher J in FCT v. Comber 86 ATC 4171 at 4177; (1986) 10 FCR 88 at 96; 64 ALR 451 at 458, explained the limited effect of deeming provisions as follows: In my opinion deeming provisions are required by their nature to be construed strictly and only for the purpose for which they are resorted to (Ex parte Walton (1881) 17 Ch D 746 per James LJ at 756). It is improper in my view to extend by implication the express application of such a statutory fiction. Furthermore, Subdivision 830-B of the ITAA 1997 does not deem a foreign hybrid company to have any of the attributes of a general law partnership (for example mutual agency relationship), other than those that are specifically provided by Division 830 of the ITAA 1997. See, for example, sections 830-30 and 830-35 of the ITAA 1997.
+In AAT Case 12/95; AAT Case 10,079; (1995) 95 ATC 175 at 181; (1995) 30 ATR 1169 at 1175, the Tribunal Members considered the purpose and effect of the second limb of the definition of 'partnership'. Their joint judgement stated that: 21. The Tribunal is of the view that the purpose of the definition of "partnership" as it appears in section 6(1) of the Act is the application to arrangements answering that description of Division 5 of Part III of the Act and, in the circumstances of this reference, particularly sections 90, 91 and 92. Against that background, and here the words of Fisher J are repeated, the deeming provisions are required by their nature to be construed strictly and only for the purpose for which they are resorted to and it is improper to extend by implication the express application of such a statutory fiction. This fiction does not, in our opinion, cloak an arrangement of the kind now being contemplated with the additional refinements of partnership assets and liabilities and partners capital accounts. ... Similarly, the purpose and effect of Subdivision 830-B of the ITAA 1997 is only that the foreign hybrid tax provisions referred to in section 830-20 of the ITAA 1997 apply as if US LLC were a tax law partnership and its members partners in this partnership. Importantly, subsection 995-1(1) of the ITAA 1997 defines foreign hybrid tax provisions to include the partnership provisions in Division 5 of Part III of the ITAA 1936. Division 5 of Part III of the ITAA 1936 - Partnerships Division 5 of Part III of the ITAA 1936 will therefore apply to US LLC (as a tax law partnership) and to its members (as the partners in the partnership), subject to the special rules in Division 830 of the ITAA 1997. As noted above, by virtue of sections 830-20 and 830-25 of the ITAA 1997, US LLC is a partnership for the purposes of sections 90 to 92 of the ITAA 1936 - while each of the Australian resident members of US LLC are partners in the US LLC partnership for the purpose of section 92 of the ITAA 1936.
 The provisions of Division 5 of Part III of the ITAA 1936 establish the rules for income tax purposes by which a partner's individual interest in the 'net income' or 'partnership loss' of a partnership is determined. The general structure of Division 5 of Part III of the ITAA 1936 is that the 'net income' of (or 'partnership loss' incurred by) a partnership is firstly determined (under section 90 of the ITAA 1936) - with the calculation being similar to that for an individual in calculating its taxable income or tax loss. Accordingly, US LLC will have to calculate its 'net income' under section 90 of the ITAA 1936.
 Section 90 of the ITAA 1936 provides that the 'net income' or 'partnership loss' of a partnership is calculated by subtracting certain allowable deductions from the assessable income of the partnership 'as if the partnership were a taxpayer' - thereby treating the partnership as if it was a separate entity or distinct commercial operation (in effect, a hypothetical taxpayer), for some taxation purposes. See Goods and Services Tax Ruling GSTR 2003/13 at paragraphs 22-24; Rowe v. Federal Commissioner of Taxation (1982) ATC 4243; (1982) 60 FLR 475; 13 ATR 110 (at 111) and the decision by Beaumont J in Federal Commissioner of Taxation v. McDonald 87 ATC 4541 (at 4550); (1987) 15 FCR 172; 18 ATR 957.
-Thus, Division 5 of Part III of the ITAA 1936, for taxation accounting purposes, but not so as to impose any liability upon the partnership to tax, treats a partnership as an entity separate from its members; see Federal Commissioner of Taxation v. Galland 86 ATC 4885 per Mason and Wilson JJ at 4887; (1986) 61 ALJR 69; (1986) 162 CLR 408; (1986) 68 ALR 403; (1986) 18 ATR 33. Division 5 of Part III of the ITAA 1936 does not override the general law principle that an ordinary or general law partnership is not a separate entity - that is that such a partnership has no legal personality and is not distinguishable from the persons composing it. In this regard, Taxation Ruling TR 2005/7 notes that:
-
-15. A partnership is not a legal entity with its own personality and existence separate and distinct from the partners (Rose v. FC of T (1951) 84 CLR 118) and the ITAA 1936 does not modify this principle for the purposes of the income tax law.
-
-Hence, Division 5 of Part III of the ITAA 1936 does not cause either a general law partnership, a foreign hybrid company such as US LLC or any other tax law partnership to be subject to tax in its own right, either by way of assessment or withholding. Nor does the fact that US LLC is a separate legal entity from its members, affect the manner in which Division 5 of Part III of the ITAA 1936 operates in relation to income received by US LLC.
-
-Section 92 of the ITAA 1936 - Income and deductions of partner
-
-Whether a partnership (including a foreign hybrid) is a general law partnership or a tax law partnership, section 92 of the ITAA 1936 provides the same result for all partners. That is, each partner's individual share or interest in the 'net income' or 'partnership loss' of the partnership, as determined in accordance with section 90 of the ITAA 1936, is included in the assessable income or allowable deductions of the partner.
-As the full High Court observed in Rose v. F.C. of T (1951) 84 C.L.R. 118 (at page 124); 25 ALJ 625; 9 ATD 334:
-
-Division 5 of Part III, which deals with partnerships, is based upon the view that the collective income earned by the partnership belongs according to their shares to the partners regardless of its liberation from the funds of the partnership, that is, its actual distribution.
-
-While in Federal Commissioner of Taxation v. Everett 78 ATC 4595; (1978) 9 ATR 211; (1978) 38 FLR 26; Fisher J noted that:
-
-Division 5 of Pt. III of the Act has particular reference to partnerships and its consequence is to place a taxpayer who is in partnership in an exceptional situation qua his partnership income. Whereas under sec. 25 of the Act it is provided that his assessable income includes his gross income derived directly or indirectly from all sources, yet by virtue of Div. 5 his assessable income is directed to include his individual interest not in the gross income but in the net income of the partnership.
-
-Specifically, under subsection 92(1) of the ITAA 1936, the individual interest of a partner in the 'net income' of a partnership is included in the assessable income of the partner. Likewise, subsection 92(2) of the ITAA 1936 provides that, subject to section 830-45 of the ITAA 1997, a partner's individual interest in the 'partnership loss' from a partnership will be an allowable deduction.
-With the members of US LLC being treated under Division 830 of the ITAA 1997 as if they are 'partners' in the US LLC 'partnership', sections 90 and 92 of the ITAA 1936 ensure that only the individual interest (per section 830-30 of the ITAA 1997) of these partners in the 'net income' of US LLC is liable to taxation.
-
-Conclusion
-
-Division 5 of the ITAA 1936 reflects the basic legal principle that the profits or net income of a general law partnership are the profits or net income of those who constitute it. Section 92 of the ITAA 1936 ensures that this is also effectively the result for all tax law partnerships. This includes where a non-resident company (such as US LLC) that qualifies as a foreign hybrid company under section 830-15 of the ITAA 1997, is thereby treated for income tax purposes as if it were a partnership - with each shareholder in the company being treated as a partner - by sections 830-20 and 830-25 of the ITAA 1997 respectively.
-The interest that US LLC receives from the Australian resident company is assessable income of the US LLC 'partnership' and is accordingly included in the partnership's 'net income' as defined in section 90 of the ITAA 1936. A partner's assessable income includes its interest in the 'net income' of the partnership by reason of sections 90 and 92 of the ITAA 1936. As Fisher J stated in Federal Commissioner of Taxation v. Everett 78 ATC 4595 at 4618; (1978) 9 ATR 211; (1978) 38 FLR 26:
-
-a taxpayer partner ... derives assessable income upon the ascertainment of the net income of the partnership for the year of income.
-
-Hence, the partners of US LLC derive assessable income under section 92 of the ITAA 1936, upon the ascertainment of both the 'net income' of the partnership for the year of income and the partner's individual interest therein. At this time, the Australian resident 'partners' of US LLC will clearly have derived 'income that ... consists of interest' - which is to be considered for the purposes of subsection 128B(2) of the ITAA 1936. As these 'partners' are not non-residents, subsection 128B(2) of the ITAA 1936 has no application and no interest withholding tax will be imposed under subsection 128B(5) of the ITAA 1936.
-Section 128D of the ITAA 1936 will thus have no operation and the interest income will be included in the assessable income of the Australian resident 'partners', as part of the individual interest of these partners in the 'net income' of the US LLC 'partnership', under section 92 of the ITAA 1936.
-
-The effect of the US convention
-
-In determining the liability of an Australian resident to Australian tax on international transactions, it is necessary to also consider the applicable tax treaty or other agreement defined in section 3AAA or 3AAB of the International Tax Agreements Act 1953. The relevant agreement in this case is the Convention between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income [1983] ATS 16 (the US convention).
+Thus, Division 5 of Part III of the ITAA 1936, for taxation accounting purposes, but not so as to impose any liability upon the partnership to tax, treats a partnership as an entity separate from its members; see Federal Commissioner of Taxation v. Galland 86 ATC 4885 per Mason and Wilson JJ at 4887; (1986) 61 ALJR 69; (1986) 162 CLR 408; (1986) 68 ALR 403; (1986) 18 ATR 33. Division 5 of Part III of the ITAA 1936 does not override the general law principle that an ordinary or general law partnership is not a separate entity - that is that such a partnership has no legal personality and is not distinguishable from the persons composing it. In this regard, Taxation Ruling TR 2005/7 notes that: 15. A partnership is not a legal entity with its own personality and existence separate and distinct from the partners (Rose v. FC of T (1951) 84 CLR 118) and the ITAA 1936 does not modify this principle for the purposes of the income tax law. Hence, Division 5 of Part III of the ITAA 1936 does not cause either a general law partnership, a foreign hybrid company such as US LLC or any other tax law partnership to be subject to tax in its own right, either by way of assessment or withholding. Nor does the fact that US LLC is a separate legal entity from its members, affect the manner in which Division 5 of Part III of the ITAA 1936 operates in relation to income received by US LLC. Section 92 of the ITAA 1936 - Income and deductions of partner Whether a partnership (including a foreign hybrid) is a general law partnership or a tax law partnership, section 92 of the ITAA 1936 provides the same result for all partners. That is, each partner's individual share or interest in the 'net income' or 'partnership loss' of the partnership, as determined in accordance with section 90 of the ITAA 1936, is included in the assessable income or allowable deductions of the partner.
+As the full High Court observed in Rose v. F.C. of T (1951) 84 C.L.R. 118 (at page 124); 25 ALJ 625; 9 ATD 334: Division 5 of Part III, which deals with partnerships, is based upon the view that the collective income earned by the partnership belongs according to their shares to the partners regardless of its liberation from the funds of the partnership, that is, its actual distribution. While in Federal Commissioner of Taxation v. Everett 78 ATC 4595; (1978) 9 ATR 211; (1978) 38 FLR 26; Fisher J noted that: Division 5 of Pt. III of the Act has particular reference to partnerships and its consequence is to place a taxpayer who is in partnership in an exceptional situation qua his partnership income. Whereas under sec. 25 of the Act it is provided that his assessable income includes his gross income derived directly or indirectly from all sources, yet by virtue of Div. 5 his assessable income is directed to include his individual interest not in the gross income but in the net income of the partnership. Specifically, under subsection 92(1) of the ITAA 1936, the individual interest of a partner in the 'net income' of a partnership is included in the assessable income of the partner. Likewise, subsection 92(2) of the ITAA 1936 provides that, subject to section 830-45 of the ITAA 1997, a partner's individual interest in the 'partnership loss' from a partnership will be an allowable deduction.
+With the members of US LLC being treated under Division 830 of the ITAA 1997 as if they are 'partners' in the US LLC 'partnership', sections 90 and 92 of the ITAA 1936 ensure that only the individual interest (per section 830-30 of the ITAA 1997) of these partners in the 'net income' of US LLC is liable to taxation. Conclusion Division 5 of the ITAA 1936 reflects the basic legal principle that the profits or net income of a general law partnership are the profits or net income of those who constitute it. Section 92 of the ITAA 1936 ensures that this is also effectively the result for all tax law partnerships. This includes where a non-resident company (such as US LLC) that qualifies as a foreign hybrid company under section 830-15 of the ITAA 1997, is thereby treated for income tax purposes as if it were a partnership - with each shareholder in the company being treated as a partner - by sections 830-20 and 830-25 of the ITAA 1997 respectively.
+The interest that US LLC receives from the Australian resident company is assessable income of the US LLC 'partnership' and is accordingly included in the partnership's 'net income' as defined in section 90 of the ITAA 1936. A partner's assessable income includes its interest in the 'net income' of the partnership by reason of sections 90 and 92 of the ITAA 1936. As Fisher J stated in Federal Commissioner of Taxation v. Everett 78 ATC 4595 at 4618; (1978) 9 ATR 211; (1978) 38 FLR 26: a taxpayer partner ... derives assessable income upon the ascertainment of the net income of the partnership for the year of income. Hence, the partners of US LLC derive assessable income under section 92 of the ITAA 1936, upon the ascertainment of both the 'net income' of the partnership for the year of income and the partner's individual interest therein. At this time, the Australian resident 'partners' of US LLC will clearly have derived 'income that ... consists of interest' - which is to be considered for the purposes of subsection 128B(2) of the ITAA 1936. As these 'partners' are not non-residents, subsection 128B(2) of the ITAA 1936 has no application and no interest withholding tax will be imposed under subsection 128B(5) of the ITAA 1936.
+Section 128D of the ITAA 1936 will thus have no operation and the interest income will be included in the assessable income of the Australian resident 'partners', as part of the individual interest of these partners in the 'net income' of the US LLC 'partnership', under section 92 of the ITAA 1936. The effect of the US convention In determining the liability of an Australian resident to Australian tax on international transactions, it is necessary to also consider the applicable tax treaty or other agreement defined in section 3AAA or 3AAB of the International Tax Agreements Act 1953. The relevant agreement in this case is the Convention between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income [1983] ATS 16 (the US convention).
 The US convention will not affect the outcomes in this case. As US LLC is a fiscally transparent in the US, any US income tax is imposed at the level of the members of US LLC. A fiscally transparent entity is an entity that is taxed on a look-through basis, such that the participants in the entity are liable to tax on the income or profit derived by the entity, rather than the entity itself.
 Since US LLC qualifies as a foreign hybrid company under Division 830 of the ITAA 1997, the Australian resident members of US LLC are treated as partners in a partnership under Australian income tax law, thereby ensuring alignment of tax treatment of the interest income under the laws of both countries. See paragraph 5 and paragraphs 73-79 of Taxation Ruling TR 2009/6.
 The interest income received by US LLC is treated for Australian (and US) tax law purposes as Australian sourced income of Australian residents (being the members of US LLC), and the US convention does not disturb Australia's taxing right.
-Date of decision:
-  20 August 2012
-
-Year of income:
-  Year ended 30 June 2012
-
-Legislative References:
-
-Income Tax Assessment Act 1936   Subsection 6(1)   Section 90   Section 92   Subsection 92(1)   Subsection 92(2)   Subsection 128B(1A)   Subsection 128B(2)   Subsection 128B(2A)   Subsection 128B(5)   Section 128D
-Income Tax Assessment Act 1997   Section 830-15   Section 830-20   Section 830-25   Section 830-30   Section 830-35   Section 830-45   Subsection 995-1(1)
-Limited Liability Company Act (Del.)   
- International Tax Agreements Act 1953   Section 3AAA   Section 3AAB
-
-Case References:
-
-AAT Case 12/95 AAT Case 10,079   (1995) 95 ATC 175   (1995) 30 ATR 1169
-
-FCT v Comber   86 ATC 4171   (1986) 10 FCR 88   64 ALR 451
-
-Federal Commissioner of Taxation v Everett   78 ATC 4595   (1978) 9 ATR 211   (1978) 38 FLR 26
-
-Federal Commissioner of Taxation v Galland   86 ATC 4885   (1986) 61 ALJR 69   (1986) 162 CLR 408   (1986) 68 ALR 403   (1986) 18 ATR 33
-
-Federal Commissioner of Taxation v McDonald   87 ATC 4541   (1987) 15 FCR 172   18 ATR 957
-
-Re Commissioner of Taxation v Peter Joseph Walsh and Beatrice Joan Walsh As Trustees of Lisa Marie Walsh Trust   [1983] FCA 132   (1983) 83 ATC 4415   (1983) 14 ATR 399
-
-Rose v FC of T   (1951) 84 CLR 118   25 ALJ 625   9 ATD 334
-
-Rowe v Federal Commissioner of Taxation   (1982) ATC 4243   (1982) 60 FLR 475   13 ATR 110
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling IT 2235
+Date of decision: 20 August 2012 Year of income: Year ended 30 June 2012 Legislative References: Income Tax Assessment Act 1936 Subsection 6(1) Section 90 Section 92 Subsection 92(1) Subsection 92(2) Subsection 128B(1A) Subsection 128B(2) Subsection 128B(2A) Subsection 128B(5) Section 128D
+Income Tax Assessment Act 1997 Section 830-15 Section 830-20 Section 830-25 Section 830-30 Section 830-35 Section 830-45 Subsection 995-1(1)
+Limited Liability Company Act (Del.) International Tax Agreements Act 1953 Section 3AAA Section 3AAB Case References: AAT Case 12/95 AAT Case 10,079 (1995) 95 ATC 175 (1995) 30 ATR 1169 FCT v Comber 86 ATC 4171 (1986) 10 FCR 88 64 ALR 451 Federal Commissioner of Taxation v Everett 78 ATC 4595 (1978) 9 ATR 211 (1978) 38 FLR 26 Federal Commissioner of Taxation v Galland 86 ATC 4885 (1986) 61 ALJR 69 (1986) 162 CLR 408 (1986) 68 ALR 403 (1986) 18 ATR 33 Federal Commissioner of Taxation v McDonald 87 ATC 4541 (1987) 15 FCR 172 18 ATR 957 Re Commissioner of Taxation v Peter Joseph Walsh and Beatrice Joan Walsh As Trustees of Lisa Marie Walsh Trust [1983] FCA 132 (1983) 83 ATC 4415 (1983) 14 ATR 399 Rose v FC of T (1951) 84 CLR 118 25 ALJ 625 9 ATD 334 Rowe v Federal Commissioner of Taxation (1982) ATC 4243 (1982) 60 FLR 475 13 ATR 110 Related Public Rulings (including Determinations) Taxation Ruling IT 2235
 Taxation Ruling IT 2501
 Taxation Ruling IT 2540
 Taxation Ruling IT 2608
@@ -151,55 +45,6 @@ Taxation Ruling TR 2009/6
 Goods and Services Tax Ruling GSTR 2004/6
 Goods and Services Tax Ruling GSTR 2003/13
 Taxation Determination TD 2002/24
-Taxation Determination TD 2009/20
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/18
- ATO ID 2009/135
- ATO ID 2011/35
- ATO ID 2010/93
- ATO ID 2010/94
-
-Other References:
-
- US convention [1983] ATS 16
-
-Keywords
-
-International tax
- Foreign hybrid company
- Withholding taxes
- Non resident interest withholding tax
- Partnerships
- Partnership income
- Other references
- United States convention [1983] ATC 16
-
-Siebel/TDMS Reference Number:
-  1-43WC2Z6
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  24 August 2012
-
-ISSN:
- Disclaimer Type: general
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-20 August 2012
-Original statement
-
-You are here
- 4 January 2013
+Taxation Determination TD 2009/20 Related ATO Interpretative Decisions ATO ID 2006/18 ATO ID 2009/135 ATO ID 2011/35 ATO ID 2010/93 ATO ID 2010/94 Other References: US convention [1983] ATS 16 Keywords International tax Foreign hybrid company Withholding taxes Non resident interest withholding tax Partnerships Partnership income Other references United States convention [1983] ATC 16 Siebel/TDMS Reference Number: 1-43WC2Z6 Business Line: Public Groups and International Date of publication: 24 August 2012 ISSN: Disclaimer Type: general history Date: Version: 20 August 2012
+Original statement You are here 4 January 2013
 Updated statement

@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/133
-==================================================
-
-Income Tax
- Interest withholding tax: Commitment Fee payable on the undrawn balance of funds available under a credit facility
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Interest withholding tax: Commitment Fee payable on the undrawn balance of funds available under a credit facility FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is a Commitment Fee, payable on the undrawn balance of funds available under a credit facility, 'interest' or 'an amount in the nature of interest' for the purpose of subsection 128A(1AB) of the Income Tax Assessment Act 1936 (ITAA 1936)?
 Decision
 No, the Commitment Fee is not interest, or an amount in the nature of interest, for the purpose of subsection 128A(1AB) of the ITAA 1936 because it is not, in substance or in form, compensation or consideration payable in respect of keeping a person out of the use and enjoyment of a principal sum.
@@ -29,76 +18,15 @@ Broadly, a non-resident person is liable under Division 11A to pay withholding t
 The question therefore arises as to whether the Commitment Fee, paid by the resident borrower and derived by the non-resident lender, constitutes interest.
 Subsection 128A(1AB) provides an expanded definition of 'interest' for the purposes of Division 11A. It relevantly provides that interest includes an amount that is in the nature of interest, or an amount to the extent that it could reasonably be regarded as having being converted into a form that is in substitution for interest.
 However the word 'interest' is not otherwise defined by the Act and it is therefore necessary to have regard to common law to determine whether an amount is, in the first instance, 'interest'.
-There are numerous cases which consider the meaning of 'interest'. In Federal Commissioner of Taxation v. The Myer Emporium Ltd (1987) 163 CLR 199; 87 ATC 4363; 18 ATR 693 (Myer Emporium), the High Court stated (at CLR 218):
-
-...Interest is regarded as flowing from the principal sum (Federal Wharf Co. Ltd v. DFCT (1930) 44 CLR 24 at 28) and to be compensation to the lender for being kept out of the use and enjoyment of the principal sum: Riches v. Westminster Bank Limited (1947) AC 390 at 400...
-
-In the context of interest withholding tax, the Full Federal Court in Federal Commissioner of Taxation v. Century Yuasa Batteries Pty Ltd (1998) 82 FCR 288; 38 ATR 442; 98 ATC 4380, referred to Myer Emporium and stated (at FCR 291) that the ordinary meaning of 'interest':
-
-...is the return, consideration or compensation for the use or retention by one person of a sum of money belonging to, or owed to, another, and that interest must be referable to a principal.
-
-A common feature of these definitions is that in order for a payment to be interest, it must be paid in respect of keeping a person out of the use and enjoyment of a principal sum. It must be paid in respect of an amount of money which the person can require to be repaid either upon demand or at a fixed date.
+There are numerous cases which consider the meaning of 'interest'. In Federal Commissioner of Taxation v. The Myer Emporium Ltd (1987) 163 CLR 199; 87 ATC 4363; 18 ATR 693 (Myer Emporium), the High Court stated (at CLR 218): ...Interest is regarded as flowing from the principal sum (Federal Wharf Co. Ltd v. DFCT (1930) 44 CLR 24 at 28) and to be compensation to the lender for being kept out of the use and enjoyment of the principal sum: Riches v. Westminster Bank Limited (1947) AC 390 at 400... In the context of interest withholding tax, the Full Federal Court in Federal Commissioner of Taxation v. Century Yuasa Batteries Pty Ltd (1998) 82 FCR 288; 38 ATR 442; 98 ATC 4380, referred to Myer Emporium and stated (at FCR 291) that the ordinary meaning of 'interest': ...is the return, consideration or compensation for the use or retention by one person of a sum of money belonging to, or owed to, another, and that interest must be referable to a principal. A common feature of these definitions is that in order for a payment to be interest, it must be paid in respect of keeping a person out of the use and enjoyment of a principal sum. It must be paid in respect of an amount of money which the person can require to be repaid either upon demand or at a fixed date.
 Although the Commitment Fee payable by the borrower is a percentage per unit of time calculated by reference to a principal sum (namely the undrawn balance of the Commitment), it is not payable as consideration or compensation for (or calculated by reference to) amounts actually advanced and in relation to which a liability to repay exists. Rather, the Commitment Fee is a separate charge payable to keep a line of credit open. Importantly it is payable even though that credit is not being used at that particular time (and it is only payable on that part of the credit which is not being used). Furthermore the lender is not put out of the use and enjoyment of a sum of money.
 Accordingly, the Commitment Fee is not payable for the actual use of any sum of money or conversely for keeping another person out of the use of any sum of money. Therefore it is not 'interest' within the ordinary meaning of that word.
 As mentioned above, subsection 128A(1AB) contains an expanded definition of interest. Paragraphs 128A(1AB)(a) and (b) are potentially relevant to the Commitment Fee.
-Paragraph 128A(1AB)(a) provides that interest includes an amount that is in the nature of interest. 'In the nature of' is a phrase used extensively in statute and case law. In the context of Division 11A its purpose is to give an appropriate extension to the concept of 'interest' which is critical to one of the heads of withholding tax liability. In Century Yuasa Batteries Pty Ltd v. Federal Commissioner of Taxation (1997) 73 FCR 528; 35 ATR 394; 97 ATC 4299 (at FCR 548), Cooper J said in relation to the precursor to paragraph 128A(1AB)(a):
-
-In my view, for a payment to fall within the extended definition under s 128A(1) in the context of the withholding tax provisions of ITAA it must have the character of a return or profit to the lender for the use of money advanced to the borrower howsoever calculated or ascertained. For example, the difference between the "extended credit price" and the cash price under consideration in Re Rouse; South Australian Gas Co v Official Receiver, in my opinion would fall within the extended definition in s 128A(1) of the ITAA.
-
-The Full Court expressly agreed with this view on appeal.
-The meaning of 'in the nature of' was also considered in Federal Commissioner of Taxation v. Consolidated Press Holdings Limited (No 1) (1999) 91 FCR 524; 99 ATC 4945; 42 ATR 575. In that case the Court had to decide whether there was a scheme that was 'by way of or in the nature of dividend stripping' for the purposes of subparagraph 177E(1)(a)(i). In a joint judgment, French, Sackville and Sundberg JJ stated (at FCR 566):
-
-The use of the words "by way of or in the nature of" suggests that variations from the paradigm will not necessarily result in the scheme being excluded from the first limb, provided it retains the central characteristics of a dividend stripping scheme.
-
-It is considered therefore that paragraph 128A(1AB)(a) is aimed at amounts that are in substance interest but which may not otherwise fall within the ordinary meaning of interest. To be in the nature of interest an amount must have the character of compensation or consideration payable in respect of keeping a person out of the use and enjoyment of a principal sum.
+Paragraph 128A(1AB)(a) provides that interest includes an amount that is in the nature of interest. 'In the nature of' is a phrase used extensively in statute and case law. In the context of Division 11A its purpose is to give an appropriate extension to the concept of 'interest' which is critical to one of the heads of withholding tax liability. In Century Yuasa Batteries Pty Ltd v. Federal Commissioner of Taxation (1997) 73 FCR 528; 35 ATR 394; 97 ATC 4299 (at FCR 548), Cooper J said in relation to the precursor to paragraph 128A(1AB)(a): In my view, for a payment to fall within the extended definition under s 128A(1) in the context of the withholding tax provisions of ITAA it must have the character of a return or profit to the lender for the use of money advanced to the borrower howsoever calculated or ascertained. For example, the difference between the "extended credit price" and the cash price under consideration in Re Rouse; South Australian Gas Co v Official Receiver, in my opinion would fall within the extended definition in s 128A(1) of the ITAA. The Full Court expressly agreed with this view on appeal.
+The meaning of 'in the nature of' was also considered in Federal Commissioner of Taxation v. Consolidated Press Holdings Limited (No 1) (1999) 91 FCR 524; 99 ATC 4945; 42 ATR 575. In that case the Court had to decide whether there was a scheme that was 'by way of or in the nature of dividend stripping' for the purposes of subparagraph 177E(1)(a)(i). In a joint judgment, French, Sackville and Sundberg JJ stated (at FCR 566): The use of the words "by way of or in the nature of" suggests that variations from the paradigm will not necessarily result in the scheme being excluded from the first limb, provided it retains the central characteristics of a dividend stripping scheme. It is considered therefore that paragraph 128A(1AB)(a) is aimed at amounts that are in substance interest but which may not otherwise fall within the ordinary meaning of interest. To be in the nature of interest an amount must have the character of compensation or consideration payable in respect of keeping a person out of the use and enjoyment of a principal sum.
 The Commitment Fee is not considered to be 'in the nature of' interest because it does not possess one of the essential qualities which gives interest its character. As explained above it is not, in substance or form, compensation or consideration payable in respect of keeping a person out of the use and enjoyment of a principal sum.
 Furthermore the payment cannot be reasonably regarded as having being 'converted into a form that is in substitution for interest' for the purposes of paragraph 128A(1AB)(b). There is no suggestion that the Commitment Fee is payable in substitution for an amount payable to compensate the lender for being kept out of the use and enjoyment of money. This is covered by a separate charge payable at an arm's length rate and described as 'interest' in the Credit Agreement.
 Accordingly the Commitment Fee will not be interest, an amount in the nature of interest or regarded as having been converted into a form that is in substitution for interest, for the purpose of subsection 128A(1AB) of the ITAA 1936.
-Date of decision:
-  28 June 2010
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1936   subsection 128A(1AB)   paragraph 128A(1AB)(a)   paragraph 128A(1AB)(b)   subsection 128B(5)
-
-Case References:
-
-Federal Commissioner of Taxation v The Myer Emporium Ltd   (1987) 163 CLR 199   87 ATC 4363   18 ATR 693
-
-Century Yuasa Batteries Pty Ltd v Federal Commissioner of Taxation   (1997) 73 FCR 528   35 ATR 394   97 ATC 4299
-
-Federal Commissioner of Taxation v Century Yuasa Batteries Pty Ltd   (1998) 82 FCR 288   38 ATR 442   98 ATC 4380
-
-Federal Commissioner of Taxation v Consolidated Press Holdings Limited (No 1)   (1999) 91 FCR 524   99 ATC 4945   42 ATR 575
-
-Related Public Rulings (including Determinations)
-
-Taxation Ruling TR 93/27
+Date of decision: 28 June 2010 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1936 subsection 128A(1AB) paragraph 128A(1AB)(a) paragraph 128A(1AB)(b) subsection 128B(5) Case References: Federal Commissioner of Taxation v The Myer Emporium Ltd (1987) 163 CLR 199 87 ATC 4363 18 ATR 693 Century Yuasa Batteries Pty Ltd v Federal Commissioner of Taxation (1997) 73 FCR 528 35 ATR 394 97 ATC 4299 Federal Commissioner of Taxation v Century Yuasa Batteries Pty Ltd (1998) 82 FCR 288 38 ATR 442 98 ATC 4380 Federal Commissioner of Taxation v Consolidated Press Holdings Limited (No 1) (1999) 91 FCR 524 99 ATC 4945 42 ATR 575 Related Public Rulings (including Determinations) Taxation Ruling TR 93/27
 Taxation Ruling TR 2002/15
-Taxation Ruling TR 2002/16
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/153
-
-Keywords
-
-Withholding taxes
- Interest income
- Non resident entities
- Non resident interest withholding tax
-
-Siebel/TDMS Reference Number:
-  1-1YIGYUY
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  9 July 2010
-
-ISSN:
- 1445-2782
+Taxation Ruling TR 2002/16 Related ATO Interpretative Decisions ATO ID 2008/153 Keywords Withholding taxes Interest income Non resident entities Non resident interest withholding tax Siebel/TDMS Reference Number: 1-1YIGYUY Business Line: Public Groups and International Date of publication: 9 July 2010 ISSN: 1445-2782

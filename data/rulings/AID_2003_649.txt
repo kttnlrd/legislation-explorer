@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/649
-==================================================
-
-Income Tax
- Consolidation: chosen transitional entity - with owned losses - adjustment to allocation of allocable cost amount
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Consolidation: chosen transitional entity - with owned losses - adjustment to allocation of allocable cost amount FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does section 705-160 of the Income Tax Assessment Act 1997 (ITAA 1997) increase the market value of a joining entity's membership interests in a chosen transitional entity with owned losses, when determining the tax cost setting amount of the joining entity's assets?
 Decision
 No. The requirements of section 705-160 of the ITAA 1997 will not be satisfied. Thus, the section will not operate to increase the market value of a joining entity's membership interests in a chosen transitional entity when determining the tax cost setting amount of the joining entity's assets.
@@ -20,67 +9,16 @@ Facts
 Holding company, Company G and Company L are residents of Australia.
 Company G is wholly-owned by Holding company and Company G wholly owns Company L. There are no other members in the consolidatable group.
 Holding company successfully chooses to form a consolidated group before 1 July 2004. Company G and Company L were wholly owned by the Holding company before 1 July 2003 and have remained wholly-owned subsidiaries.
-On the date of consolidation, Holding company (which has become the head company of the consolidated group) decides that:
-
-Company G is
- not
- a chosen transitional entity, and
-Company L
- is
- a chosen transitional entity.
+On the date of consolidation, Holding company (which has become the head company of the consolidated group) decides that: Company G is not a chosen transitional entity, and
+Company L is a chosen transitional entity.
 Reasons for Decision
 Subsection 705-160(1) of the ITAA 1997 states that the object of section 705-160 is to prevent a distortion under section 705-35 of the ITAA 1997 in the allocation of the allocable cost amount (ACA) to a joining entity where the joining entity has direct or indirect membership interests in a second subsidiary member that has undistributed owned profits or accrued losses.
-The Explanatory Memorandum to New Business Tax System (Consolidation, Value shifting, Demergers and Other Measures) Bill 2002 (which inserted section 705-160 into the ITAA 1997) describes the distortion prevented by section 705-160 of the ITAA 1997 at paragraph 1.71:
-
-...In the absence of section 705-160, the losses of a subsidiary member would reduce both:
-
-•The amount of the allocable cost amount that is allocated to membership interests, which represent direct or indirect interests in the subsidiary member with the losses (the unintended effect); and
-•The allocable cost amount for the subsidiary member with the losses (the intended effect of step 5 in working out the allocable cost amount).
-
-Section 701-15 of the Income tax (Transitional Provisions) Act 1997 states that section 701-10 and subsection 701-35(4) of the ITAA 1997 do not apply to the assets of a chosen transitional entity. This means that no ACA is worked out for the chosen transitional entity and no tax cost is set for its assets (see Explanatory Memorandum to New Business Tax System (Consolidation, Value shifting, Demergers and Other Measures) Bill 2002, paragraph 1.88).
+The Explanatory Memorandum to New Business Tax System (Consolidation, Value shifting, Demergers and Other Measures) Bill 2002 (which inserted section 705-160 into the ITAA 1997) describes the distortion prevented by section 705-160 of the ITAA 1997 at paragraph 1.71: ...In the absence of section 705-160, the losses of a subsidiary member would reduce both: •The amount of the allocable cost amount that is allocated to membership interests, which represent direct or indirect interests in the subsidiary member with the losses (the unintended effect); and
+•The allocable cost amount for the subsidiary member with the losses (the intended effect of step 5 in working out the allocable cost amount). Section 701-15 of the Income tax (Transitional Provisions) Act 1997 states that section 701-10 and subsection 701-35(4) of the ITAA 1997 do not apply to the assets of a chosen transitional entity. This means that no ACA is worked out for the chosen transitional entity and no tax cost is set for its assets (see Explanatory Memorandum to New Business Tax System (Consolidation, Value shifting, Demergers and Other Measures) Bill 2002, paragraph 1.88).
 In this case, Company L is a chosen transitional entity, and no allocable cost amount (ACA) calculation is performed in respect of it. Consequently, no step 5 adjustment arises in respect of its losses.
-Subsection 705-160(2) of the ITAA 1997 provides that if:
-
-(a)an entity becomes a subsidiary member of the group at formation time, and
+Subsection 705-160(2) of the ITAA 1997 provides that if: (a)an entity becomes a subsidiary member of the group at formation time, and
 (b)the entity has membership interests in a second entity that becomes a subsidiary member of the group at that time, and
-(c)in working out the group's allocable cost amount for the second entity, an adjustment is required to be made under step 5 in the table in section 705-60:then, for the purposes of working out the tax cost setting amount for the assets of the first entity, the market value of the first entity's membership interests in the second entity is increased by the first entity's interest in the second entity's loss adjustment amount.
-
-As an ACA calculation is not required for Company L (the second entity in the consolidated group), no adjustment is required to be made under step 5. Therefore condition (c) in subsection 705-160(2) of the ITAA 1997 is not met. Consequently, the modifications to the ACA calculation specified in subsection 705-160(2) of the ITAA 1997 will not apply.
+(c)in working out the group's allocable cost amount for the second entity, an adjustment is required to be made under step 5 in the table in section 705-60:then, for the purposes of working out the tax cost setting amount for the assets of the first entity, the market value of the first entity's membership interests in the second entity is increased by the first entity's interest in the second entity's loss adjustment amount. As an ACA calculation is not required for Company L (the second entity in the consolidated group), no adjustment is required to be made under step 5. Therefore condition (c) in subsection 705-160(2) of the ITAA 1997 is not met. Consequently, the modifications to the ACA calculation specified in subsection 705-160(2) of the ITAA 1997 will not apply.
 In other words, section 705-160 of the ITAA 1997 has no application to the allocation of ACA to the higher tier membership interests in the chosen transitional entity. Accordingly, for the purposes of determining the tax cost setting amount of the joining entity's assets, the market value of the joining entity's membership interests in the chosen transitional entity will not be increased.
-Date of decision:
-  2 July 2003
-
-Year of income:
-  Year ended 30 June 2003 Year ended 30 June 2004
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 701-10   section 701-35(4)   section 705-35   section 705-160   subsection 705-160(1)   subsection 705-160(2)
-Income tax (Transitional Provisions) Act 1997   section 701-15
-
-Other References:
-
- Explanatory Memorandum to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Bill 2002
-
-Keywords
-
-Allocation of the allocable cost amount
- Chosen transitional entity
- Consolidation
- Consolidation - assets
- Consolidation - formation
- Tax cost setting rules
- Tax cost setting amount
- Profit/loss adjustment amount
-
-Siebel/TDMS Reference Number:
-  394357
-
-Business Line:
-  Consolidation Centre of Expertise
-
-Date of publication:
-  25 July 2003
-
-ISSN:
- 1445-2782
+Date of decision: 2 July 2003 Year of income: Year ended 30 June 2003 Year ended 30 June 2004 Legislative References: Income Tax Assessment Act 1997 section 701-10 section 701-35(4) section 705-35 section 705-160 subsection 705-160(1) subsection 705-160(2)
+Income tax (Transitional Provisions) Act 1997 section 701-15 Other References: Explanatory Memorandum to the New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Bill 2002 Keywords Allocation of the allocable cost amount Chosen transitional entity Consolidation Consolidation - assets Consolidation - formation Tax cost setting rules Tax cost setting amount Profit/loss adjustment amount Siebel/TDMS Reference Number: 394357 Business Line: Consolidation Centre of Expertise Date of publication: 25 July 2003 ISSN: 1445-2782

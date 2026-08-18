@@ -1,23 +1,9 @@
 ATO Interpretative Decision
 ATO ID 2015/7
-==================================================
-
-Income tax / Superannuation
- Foreign currency translation rules in working out 'applicable fund earnings' under section 305-75 of the ITAA 1997
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
-What is the correct rule for translating foreign currency into Australian dollars (AUD) for the purposes of working out an individual's 'applicable fund earnings' in relation to a superannuation lump sum under section 305-75 of the Income Tax Assessment Act 1997 (ITAA 1997) when an individual receives a superannuation lump sum from a foreign superannuation fund to which section 305-70 of the ITAA 1997 applies?
-
-Decision
-For the purposes of working out your 'applicable fund earnings' in relation to a superannuation lump sum under section 305-75 of the ITAA 1997, the correct rule for translating foreign currency into AUD is the rule described in Item 11A of the table in subsection 960-50(6) of the ITAA 1997. In the circumstances of this case, each amount in a foreign currency that is an element in the calculation of your 'applicable fund earnings' is to be translated to AUD at the exchange rate applicable at the time of receipt of the relevant superannuation lump sum.
-
-Facts
+================================================== Income tax / Superannuation Foreign currency translation rules in working out 'applicable fund earnings' under section 305-75 of the ITAA 1997 CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
+What is the correct rule for translating foreign currency into Australian dollars (AUD) for the purposes of working out an individual's 'applicable fund earnings' in relation to a superannuation lump sum under section 305-75 of the Income Tax Assessment Act 1997 (ITAA 1997) when an individual receives a superannuation lump sum from a foreign superannuation fund to which section 305-70 of the ITAA 1997 applies? Decision
+For the purposes of working out your 'applicable fund earnings' in relation to a superannuation lump sum under section 305-75 of the ITAA 1997, the correct rule for translating foreign currency into AUD is the rule described in Item 11A of the table in subsection 960-50(6) of the ITAA 1997. In the circumstances of this case, each amount in a foreign currency that is an element in the calculation of your 'applicable fund earnings' is to be translated to AUD at the exchange rate applicable at the time of receipt of the relevant superannuation lump sum. Facts
 An individual, who was a resident of the United Kingdom (UK), held an interest in a UK superannuation fund (the UK fund).
 The UK fund is a foreign superannuation fund, as defined in subsection 995-1(1) of the ITAA 1997, to which paragraph 305-55(1)(b) of the ITAA 1997 refers.
 The individual became an Australian resident, as defined in subsection 995-1(1) of the ITAA 1997, on 13 May 2008.
@@ -27,79 +13,17 @@ No amount has ever been transferred to the UK fund from another foreign superann
 Just before 13 May 2008 the amount in the UK fund that was vested in the individual was 58,880 British Pounds (GBP).
 The UK fund paid a superannuation lump sum ('the relevant superannuation lump sum') to the individual's Australian superannuation fund on 1 April 2014. That was the only lump sum ever to be paid from the UK fund in respect of the individual. The individual had no superannuation interest in the UK fund after the relevant superannuation lump sum was paid. The payment was received by the individual's Australian superannuation fund on 1 April 2014.
 On 1 April 2014 when the UK fund paid that lump sum the amount in that fund vested in the individual was GBP 73,450. The exchange rate on 1 April 2014 when the lump sum was received was AUD/GBP 0.5766.
-The individual has not made a choice under section 305-80 of the ITAA 1997 for any part of their 'applicable fund earnings' in relation to the relevant superannuation lump sum to be included in the assessable income of the Australian superannuation fund which received that lump sum rather than in the individual's assessable income.
-
-Reasons for Decision
-
-Applicable fund earnings
-
-Section 305-70 of the ITAA 1997 applies to a superannuation lump sum you receive from a foreign superannuation fund if you are an Australian resident when you receive the lump sum and sections 305-60 and 305-65 of the ITAA 1997 do not apply to the lump sum: subsection 305-70(1) of the ITAA 1997. The section applies to a superannuation lump sum you are treated as receiving by section 307-15 of the ITAA 1997 because it is made (a) for your benefit, or (b) to another person or to an entity at your direction or request.
+The individual has not made a choice under section 305-80 of the ITAA 1997 for any part of their 'applicable fund earnings' in relation to the relevant superannuation lump sum to be included in the assessable income of the Australian superannuation fund which received that lump sum rather than in the individual's assessable income. Reasons for Decision Applicable fund earnings Section 305-70 of the ITAA 1997 applies to a superannuation lump sum you receive from a foreign superannuation fund if you are an Australian resident when you receive the lump sum and sections 305-60 and 305-65 of the ITAA 1997 do not apply to the lump sum: subsection 305-70(1) of the ITAA 1997. The section applies to a superannuation lump sum you are treated as receiving by section 307-15 of the ITAA 1997 because it is made (a) for your benefit, or (b) to another person or to an entity at your direction or request.
 Where section 305-70 of the ITAA 1997 applies, you include in your assessable income so much of the lump sum (excluding any part of the lump sum that is paid into another foreign superannuation fund) as equals your 'applicable fund earnings' (less any part of your applicable fund earnings covered by a choice under section 305-80 of the ITAA 1997): subsections 305-70(2) and (4) of the ITAA 1997.
 The amount of a person's 'applicable fund earnings' in relation to a superannuation lump sum to which section 305-70 of the ITAA 1997 applies is worked out under section 305-75 of the ITAA 1997. In essence, the amount of applicable fund earnings in relation to a superannuation lump sum to which section 305-70 applies is the part of the lump sum that is attributable to earnings that have accrued to the individual in the foreign superannuation fund during the period the individual is an Australian resident.
 The reference to so much of the lump sum in subsection 305-70(2) of the ITAA 1997 means that, to determine the amount included in the assessable income of the individual in this case under that subsection, a comparison must be made between the amount of the relevant superannuation lump sum and the amount of the individual's applicable fund earnings in relation to that lump sum.
-The amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum is worked out under subsection 305-75(3) of the ITAA 1997, rather than subsection 305-75(2) of the ITAA 1997, in this case. This is because the individual became an Australian resident after the start of the period to which the relevant superannuation lump sum relates. The application of that subsection in this case results in the amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum being the amount in the UK fund that was vested in the individual at the time of the lump sum payment minus the amount in the UK fund that was vested in the individual just before the day they became an Australia resident. (There are additional steps in the method statement set out in subsection 305-75(3) of the ITAA 1997, but they are either not applicable or of no consequence in this case.)
-
-Translation rules
-
-For the purposes of the ITAA 1997, subsection 960-50(1) of the ITAA 1997 provides that an amount in a foreign currency is to be translated into Australian currency.
+The amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum is worked out under subsection 305-75(3) of the ITAA 1997, rather than subsection 305-75(2) of the ITAA 1997, in this case. This is because the individual became an Australian resident after the start of the period to which the relevant superannuation lump sum relates. The application of that subsection in this case results in the amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum being the amount in the UK fund that was vested in the individual at the time of the lump sum payment minus the amount in the UK fund that was vested in the individual just before the day they became an Australia resident. (There are additional steps in the method statement set out in subsection 305-75(3) of the ITAA 1997, but they are either not applicable or of no consequence in this case.) Translation rules For the purposes of the ITAA 1997, subsection 960-50(1) of the ITAA 1997 provides that an amount in a foreign currency is to be translated into Australian currency.
 Subsection 960-50(4) of the ITAA 1997 provides that in applying section 960-50 of the ITAA 1997: (a) first, translate any amounts that are elements in the calculation of other amounts (except 'special accrual amounts'); and (b) then, calculate the other amounts. (The exception for 'special accrual amounts', as defined in subsection 995-1(1) of the ITAA 1997, is not relevant in the present context.)
 The table in subsection 960-50(6) of the ITAA 1997 sets out the translation rules.
 Item 11 in that table applies to the translation of the amount of the relevant superannuation lump sum received. Item 11 applies to an amount of a receipt or payment, where none of the earlier items of the table apply. The only earlier item in that table of potential application - item 7 - deals with the translation of an amount of statutory income (other than an amount included in assessable income under Division 102 of the ITAA 1997). That item is not relevant here because the amount of the superannuation lump sum is not itself statutory income.
 Pursuant to item 11, the amount of the relevant superannuation lump sum is to be translated to Australia currency at the exchange rate applicable at the time of its receipt.
 Item 11A in that table, which is inserted into the table by subregulation 960-50.01(1) of the Income Tax Assessment Regulations 1997, applies to amounts used in the method statements set out in to subsections 305-75(2) and (3) of the ITAA 1997 to work out an individual's applicable fund earnings in relation to a superannuation lump sum.
 Item 11A applies to an amount (other than an amount of a receipt or a payment) to which none of the earlier items of the table apply. Again, item 7 of the table is not relevant here because the relevant amounts to be translated are elements in the calculation of another amount (applicable fund earnings), which itself is an element in the calculation of a statutory income amount, as opposed to being statutory income themselves. Amounts used in the method statements set out in subsections 305-75(2) and 305-75(3) of the ITAA 1997 are not receipts or payments.
-Item 11A requires that an amount to which it applies is to be translated into Australian currency at an exchange rate that is reasonable having regard to the circumstances. The Commissioner considers that, in the circumstances of this case, the exchange rate at which it is reasonable to translate amounts used in the method statements set out in subsections 305-75(2) and (3) of the ITAA 1997 into Australian currency is the exchange rate applicable at the time of receipt of the relevant superannuation lump sum given that, as mentioned above:
-
-• in essence, the amount of applicable fund earnings in relation to a superannuation lump sum to which section 305-70 of the ITAA 1997 applies is the part of the lump sum that is attributable to earnings that have accrued to the individual in the foreign superannuation fund during the period the individual is an Australian resident;• a comparison must be made between the amount of a superannuation lump sum to which section 305-70 applies and the amount of the individual's applicable fund earnings in relation to that lump sum to determine the amount included in the assessable income of the individual under subsection 305-70(2) of the ITAA 1997; and• the amount of a superannuation lump sum to which section 305-70 applies is to be translated to Australian currency at the exchange rate applicable at the time of its receipt.
-
-Conclusion
-
-As mentioned above, the application of subsection 305-75(3) of the ITAA 1997 in this case results in the amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum being the amount in the UK fund that was vested in the individual at the time of the lump sum payment minus the amount in the UK fund that was vested in the individual just before the day they became an Australia resident.
-The amount in the UK fund that was vested in the individual when the relevant superannuation lump sum was paid (before any deduction for foreign income tax - see paragraph 305-75(3)(b) of the ITAA 1997) as translated into AUD on the day of receipt of that lump sum is:
-
-GBP 73,450 ÷ 0.5766 = AUD 127,384
-
-The amount in the UK fund that was vested in the individual just before the day they became an Australian resident (see subparagraph 305-75(3)(a)(i) of the ITAA 1997) as translated into AUD on the day of receipt of the relevant superannuation lump sum is:
-
-GBP 58,880 ÷ 0.5766 = AUD 102,115
-
-Therefore, the amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum is:
-
-AUD 127,384 - AUD 102,115 = AUD 25,269
-
-Date of decision:
-  11 December 2014
-
-Year of income:
-  2014-15
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 102   paragraph 305-55(1)(b)   section 305-60   section 305-65   section 305-70   subsection 305-70(1)   subsection 305-70(2)   subsection 305-70(4)   section 305-75   subsection 305-75(2)   subsection 305-75(3)   subparagraph 305-75(3)(a)(i)   paragraph 305-75(3)(b)   section 305-80   section 307-15   section 960-50   subsection 960-50(1)   subsection 960-50(4)   subsection 960-50(6)   subsection 995-1(1)
-Income Tax Assessment Regulations 1997   subregulation 960-50.01(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2009/124
- ATO ID 2012/48
- ATO ID 2012/49
-
-Keywords
-
-Superannuation
- Superannuation benefits
- Superannuation benefits from foreign superannuation funds
- Applicable fund earnings
- Foreign currency exchange
-
-Siebel/TDMS Reference Number:
-  1-66NO610
-
-Business Line:
-  Superannuation
-
-Date of publication:
-  13 February 2015
-
-ISSN:
- 1445-2782
+Item 11A requires that an amount to which it applies is to be translated into Australian currency at an exchange rate that is reasonable having regard to the circumstances. The Commissioner considers that, in the circumstances of this case, the exchange rate at which it is reasonable to translate amounts used in the method statements set out in subsections 305-75(2) and (3) of the ITAA 1997 into Australian currency is the exchange rate applicable at the time of receipt of the relevant superannuation lump sum given that, as mentioned above: • in essence, the amount of applicable fund earnings in relation to a superannuation lump sum to which section 305-70 of the ITAA 1997 applies is the part of the lump sum that is attributable to earnings that have accrued to the individual in the foreign superannuation fund during the period the individual is an Australian resident;• a comparison must be made between the amount of a superannuation lump sum to which section 305-70 applies and the amount of the individual's applicable fund earnings in relation to that lump sum to determine the amount included in the assessable income of the individual under subsection 305-70(2) of the ITAA 1997; and• the amount of a superannuation lump sum to which section 305-70 applies is to be translated to Australian currency at the exchange rate applicable at the time of its receipt. Conclusion As mentioned above, the application of subsection 305-75(3) of the ITAA 1997 in this case results in the amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum being the amount in the UK fund that was vested in the individual at the time of the lump sum payment minus the amount in the UK fund that was vested in the individual just before the day they became an Australia resident.
+The amount in the UK fund that was vested in the individual when the relevant superannuation lump sum was paid (before any deduction for foreign income tax - see paragraph 305-75(3)(b) of the ITAA 1997) as translated into AUD on the day of receipt of that lump sum is: GBP 73,450 ÷ 0.5766 = AUD 127,384 The amount in the UK fund that was vested in the individual just before the day they became an Australian resident (see subparagraph 305-75(3)(a)(i) of the ITAA 1997) as translated into AUD on the day of receipt of the relevant superannuation lump sum is: GBP 58,880 ÷ 0.5766 = AUD 102,115 Therefore, the amount of the individual's applicable fund earnings in relation to the relevant superannuation lump sum is: AUD 127,384 - AUD 102,115 = AUD 25,269 Date of decision: 11 December 2014 Year of income: 2014-15 Legislative References: Income Tax Assessment Act 1997 Division 102 paragraph 305-55(1)(b) section 305-60 section 305-65 section 305-70 subsection 305-70(1) subsection 305-70(2) subsection 305-70(4) section 305-75 subsection 305-75(2) subsection 305-75(3) subparagraph 305-75(3)(a)(i) paragraph 305-75(3)(b) section 305-80 section 307-15 section 960-50 subsection 960-50(1) subsection 960-50(4) subsection 960-50(6) subsection 995-1(1)
+Income Tax Assessment Regulations 1997 subregulation 960-50.01(1) Related ATO Interpretative Decisions ATO ID 2009/124 ATO ID 2012/48 ATO ID 2012/49 Keywords Superannuation Superannuation benefits Superannuation benefits from foreign superannuation funds Applicable fund earnings Foreign currency exchange Siebel/TDMS Reference Number: 1-66NO610 Business Line: Superannuation Date of publication: 13 February 2015 ISSN: 1445-2782

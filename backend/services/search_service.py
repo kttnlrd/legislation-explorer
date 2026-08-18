@@ -144,6 +144,65 @@ def init_search_index() -> None:
                 )
 
             conn.commit()
+
+            # --- Private rulings FTS (57k rulings, term search over body) ---
+            conn.execute("DROP TABLE IF EXISTS private_rulings_fts")
+            conn.execute(
+                "CREATE VIRTUAL TABLE private_rulings_fts USING fts5("
+                "authnum, name, content, tokenize='porter')"
+            )
+            conn.execute("DROP TABLE IF EXISTS private_rulings_meta")
+            conn.execute(
+                "CREATE TABLE private_rulings_meta ("
+                "authnum TEXT UNIQUE, name TEXT, year INTEGER, date_of_advice TEXT)"
+            )
+
+            pr_index_path = DATA_DIR / "private_rulings_index.json"
+            pr_json_dir = Path.home() / ".hermes" / "private_rulings" / "data" / "json"
+            pr_count = 0
+            try:
+                pr_index = json.loads(pr_index_path.read_text(encoding="utf-8"))
+            except Exception:
+                logger.exception("Private rulings index load failed")
+                pr_index = {}
+            for authnum, meta in pr_index.items():
+                name = meta.get("name") or authnum
+                year = meta.get("year")
+                content_parts = [name]
+                # Body text from the per-ruling JSON when available
+                if pr_json_dir.exists():
+                    jp = pr_json_dir / f"{authnum}.json"
+                    if jp.exists():
+                        try:
+                            jd = json.loads(jp.read_text(encoding="utf-8"))
+                            ft = jd.get("formatted_text") or ""
+                            if ft:
+                                content_parts.append(ft)
+                            else:
+                                for k in ("subject", "facts", "reasons_for_decision", "relevant_legislation", "qa_pairs"):
+                                    v = jd.get(k)
+                                    if isinstance(v, list):
+                                        content_parts.extend(str(x) for x in v if x)
+                                    elif v:
+                                        content_parts.append(str(v))
+                        except Exception:
+                            pass
+                content = re.sub(r'[#*`_\[\]\(\)]', ' ', " ".join(content_parts))
+                content = re.sub(r'\s+', ' ', content).strip()[:50000]
+                if not content.strip():
+                    continue
+                conn.execute(
+                    "INSERT INTO private_rulings_fts (authnum, name, content) VALUES (?, ?, ?)",
+                    (authnum, name, content)
+                )
+                conn.execute(
+                    "INSERT INTO private_rulings_meta (authnum, name, year, date_of_advice) VALUES (?, ?, ?, ?)",
+                    (authnum, name, year, meta.get("date_of_advice"))
+                )
+                pr_count += 1
+            logger.info(f"Private rulings FTS indexed: {pr_count}")
+
+            conn.commit()
         except Exception:
             conn.rollback()
             logger.exception("FTS index build failed, rolled back")
@@ -640,6 +699,78 @@ def _ruling_type_from_citation(citation: str) -> str:
     if m:
         return _PREFIX_TYPE_MAP.get(m.group(1).upper(), "")
     return ""
+
+
+def search_private_rulings_fts(q: str, limit: int = 20, operator: str = "AND") -> list[dict]:
+    """FTS5 term search over private ruling bodies (CDN-0117: term search).
+
+    Matches body content (formatted_text, reasons_for_decision, qa_pairs,
+    relevant_legislation) as well as name/authnum. Falls back to LIKE for
+    section-style queries FTS5 porter tokenization misses (e.g. "106-60").
+    """
+    q = (q or "").strip()
+    if not q:
+        return []
+    tokens = q.split()
+    quoted = []
+    for tok in tokens:
+        if tok.endswith("*") and len(tok) > 1:
+            quoted.append('"' + tok[:-1].replace('"', '""') + '"*')
+        else:
+            quoted.append('"' + tok.replace('"', '""') + '"')
+    q_clean = (' OR ' if operator == "OR" else ' ').join(quoted)
+
+    results = []
+    try:
+        with search_conn() as conn:
+            rows = conn.execute(
+                "SELECT private_rulings_fts.authnum, private_rulings_fts.name, "
+                "m.year, m.date_of_advice, rank, "
+                "snippet(private_rulings_fts, 2, '<mark>', '</mark>', '...', 40) as snippet "
+                "FROM private_rulings_fts "
+                "JOIN private_rulings_meta m ON private_rulings_fts.authnum = m.authnum "
+                "WHERE private_rulings_fts MATCH ? "
+                "ORDER BY rank LIMIT ?",
+                (q_clean, limit),
+            ).fetchall()
+            for row in rows:
+                results.append({
+                    "act": "private-rulings",
+                    "section": row["authnum"],
+                    "title": row["name"] or row["authnum"],
+                    "year": row["year"],
+                    "date": row["date_of_advice"],
+                    "snippet": row["snippet"] or f"Private ruling {row['authnum']}",
+                    "source_type": "private_ruling",
+                    "type": "private_ruling",
+                })
+            # LIKE fallback for punctuation-heavy queries FTS5 misses
+            if not results:
+                like_pat = f"%{q}%"
+                like_rows = conn.execute(
+                    "SELECT private_rulings_fts.authnum, private_rulings_fts.name, "
+                    "m.year, m.date_of_advice, 0.0 as rank, '' as snippet "
+                    "FROM private_rulings_fts "
+                    "JOIN private_rulings_meta m ON private_rulings_fts.authnum = m.authnum "
+                    "WHERE private_rulings_fts.content LIKE ? OR private_rulings_fts.name LIKE ? "
+                    "OR private_rulings_fts.authnum LIKE ? "
+                    "LIMIT ?",
+                    (like_pat, like_pat, like_pat, limit),
+                ).fetchall()
+                for row in like_rows:
+                    results.append({
+                        "act": "private-rulings",
+                        "section": row["authnum"],
+                        "title": row["name"] or row["authnum"],
+                        "year": row["year"],
+                        "date": row["date_of_advice"],
+                        "snippet": f"Private ruling {row['authnum']} — {row['name']}",
+                        "source_type": "private_ruling",
+                        "type": "private_ruling",
+                    })
+    except Exception:
+        logger.exception("Private rulings FTS search failed")
+    return results
 
 
 def search_rulings(q: str, limit: int = 20, operator: str = "AND") -> list[dict]:

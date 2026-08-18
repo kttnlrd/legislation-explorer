@@ -1,24 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2006/106
-==================================================
-
-Income Tax
- Foreign exchange (forex) gains and losses made by an ADI
- FOI status: may be released
-
-This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of Section 775-170 of the Income Tax Assessment Act 1997 that doesn't apply after 26 March 2009. Despite its withdrawal from the database, this ATO Interpretative Decision continues to be a precedential view in respect of decisions for income years up until that time.
-
- This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4).
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Foreign exchange (forex) gains and losses made by an ADI FOI status: may be released This ATO Interpretative Decision is withdrawn from the database because it contains a view in respect of Section 775-170 of the Income Tax Assessment Act 1997 that doesn't apply after 26 March 2009. Despite its withdrawal from the database, this ATO Interpretative Decision continues to be a precedential view in respect of decisions for income years up until that time. This ATO ID does not take account of the effect of Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009 that implements Stages 3 and 4 of the reforms to the taxation of financial arrangements (TOFA 3 and 4). This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Will an ADI (authorised deposit-taking institution) make a forex gain or loss if the Australian dollar equivalent (ADE) of an amount of foreign currency actually received or paid in one income year differs from the amount it derived or incurred under sections 6-5 and 8-1 respectively of the Income Tax Assessment Act 1997 (ITAA 1997) in an earlier income year?
 Decision
 Yes. An ADI will make a forex gain or loss if the ADE of an amount of foreign currency actually received or paid in one income year differs from the amount it derived or incurred under sections 6-5 and 8-1 respectively of the ITAA 1997 in an earlier income year.
@@ -31,62 +14,9 @@ There is a fluctuation in the relevant exchange rates between the time each amou
 Reasons for Decision
 Section 775-170 of the ITAA 1997 specifically exempts an ADI from the operation of Division 775 of the ITAA 1997. Therefore, any forex gains or losses arising under these transactions will be assessable under section 6-5 or deductible under section 8-1 of the ITAA 1997.
 The taxpayer will make a forex gain or loss if there is a variation in exchange rates resulting in the ADE of the amount paid in foreign currency differing from the amount which it incurred in an earlier income year under section 8-1 of the ITAA 1997 (International Nickel Australia Ltd v. Federal Commissioner of Taxation (1977) 137 CLR 347; 77 ATC 4383; (1977) 7 ATR 739 (International Nickel).
-The taxpayer will make a forex gain or loss if there is a variation in the exchange rates resulting in the ADE of the amount received in foreign currency differing from the amount which it derived in an earlier income year under section 6-5 of the ITAA 1997. In International Nickel at 137 CLR 371; 77 ATC 4397; 7 ATR 755 Murphy J said:
-
-The correct approach is this. Where assessable income or allowable expenditure is subject to an exchange variation occurring in the same year in which the income or expenditure is taken into account, the income or expenditure is adjusted to reflect the actual income or expenditure. If variation occurs in a later year then if the sum already taken into account is assessable income, any increase caused by exchange variation is assessable income and any decrease is allowable expenditure.
-
-If the ADE of the amount paid is more than the ADE of the amount deducted in the earlier income year, the difference is deductible under section 8-1 of the ITAA 1997. If the ADE of the amount paid is less than the ADE of the amount deducted in the earlier income year, the difference is included in assessable income under section 6-5 of the ITAA 1997.
+The taxpayer will make a forex gain or loss if there is a variation in the exchange rates resulting in the ADE of the amount received in foreign currency differing from the amount which it derived in an earlier income year under section 6-5 of the ITAA 1997. In International Nickel at 137 CLR 371; 77 ATC 4397; 7 ATR 755 Murphy J said: The correct approach is this. Where assessable income or allowable expenditure is subject to an exchange variation occurring in the same year in which the income or expenditure is taken into account, the income or expenditure is adjusted to reflect the actual income or expenditure. If variation occurs in a later year then if the sum already taken into account is assessable income, any increase caused by exchange variation is assessable income and any decrease is allowable expenditure. If the ADE of the amount paid is more than the ADE of the amount deducted in the earlier income year, the difference is deductible under section 8-1 of the ITAA 1997. If the ADE of the amount paid is less than the ADE of the amount deducted in the earlier income year, the difference is included in assessable income under section 6-5 of the ITAA 1997.
 Conversely, if the ADE of the amount received is more than the ADE of the amount derived in the earlier income year, the difference will be included in assessable income under section 6-5 of the ITAA 1997. If the ADE of the amount received is less than the ADE of the amount derived in the earlier income year, the difference will be deductible under section 8-1 of the ITAA 1997.
 If the foreign currency amount is derived and received or incurred and paid by the taxpayer in the same income year, it is the ADE of the amount actually received or paid which is assessable under section 6-5 or deductible under section 8-1 respectively of the ITAA 1997 (International Nickel). Therefore, no foreign exchange gain or loss will arise in these circumstances.
-Date of decision:
-  29 March 2006
-
-Year of income:
-  Year ended 30 September 2006 Year ending 30 September 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 6-5   section 8-1   Division 775   section 775-170   subsection 995-1(1)
-
-Case References:
-
-International Nickel Australia Ltd. v. Federal Commissioner of Taxation   (1977) 137 CLR 347   77 ATC 4383   (1977) 7 ATR 739
-
-Related ATO Interpretative Decisions
-
- ATO ID 2006/104
-
-Keywords
-
-Accruals basis accounting
- Currency exchange rate
- Deductions & expenses
- Financial institutions
- Foreign currency
- Foreign exchange gains and losses
- Income
-
-Business Line:
-  Finance and Investment Centre of Expertise
-
-Date of publication:
-  13 April 2006
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-29 March 2006
-Original statement
-
-You are here
- 7 September 2012
+Date of decision: 29 March 2006 Year of income: Year ended 30 September 2006 Year ending 30 September 2007 Legislative References: Income Tax Assessment Act 1997 section 6-5 section 8-1 Division 775 section 775-170 subsection 995-1(1) Case References: International Nickel Australia Ltd. v. Federal Commissioner of Taxation (1977) 137 CLR 347 77 ATC 4383 (1977) 7 ATR 739 Related ATO Interpretative Decisions ATO ID 2006/104 Keywords Accruals basis accounting Currency exchange rate Deductions & expenses Financial institutions Foreign currency Foreign exchange gains and losses Income Business Line: Finance and Investment Centre of Expertise Date of publication: 13 April 2006 ISSN: 1445-2782 history Date: Version: 29 March 2006
+Original statement You are here 7 September 2012
 Archived

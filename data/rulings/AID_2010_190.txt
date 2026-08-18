@@ -1,21 +1,8 @@
 ATO Interpretative Decision
 ATO ID 2010/190
-==================================================
-
-Income Tax
- Permanent establishment: supervisory activity as part of an installation project - UK resident
- FOI status: may be released
-
-This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
-Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Permanent establishment: supervisory activity as part of an installation project - UK resident FOI status: may be released This ATO ID contains references to repealed provisions, some of which may have been re-enacted or remade. The ATO ID is current in relation to the re-enacted or remade provisions.
+Australia's tax treaties and other agreements except for the Taipei Agreement are set out in the Australian Treaty Series. The citation for each is in a note to the applicable defined term in sections 3AAA or 3AAB of the International Tax Agreements Act 1953. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the enterprise of the taxpayer, a United Kingdom (UK) resident company and subsidiary of a corporate group, deemed to have a permanent establishment (PE) and to carry on business through that PE under Article 5.3(a) of Schedule 1 to the International Tax Agreements Act 1953 (the 2003 UK Convention), where it supplies a component of major equipment and supervises its installation over two months as part of a 3 year installation project undertaken by an Australian resident company which is also a subsidiary in the same corporate group?
 Decision
 Yes. In these circumstances, the enterprise of the taxpayer is deemed to have a PE and to carry on business through that PE under Article 5.3(a) of the 2003 UK Convention.
@@ -28,66 +15,10 @@ Under a subcontract with ACo, the taxpayer supplies a component part of the majo
 The activity conducted by the taxpayer under the subcontract is 'supervisory activity' for the purposes of Article 5.3(a) of the 2003 UK Convention.
 The supervisory activity undertaken by the taxpayer's enterprise is one stage of ACo's installation project. The activity of the taxpayer's enterprise is conducted concurrently with the activities of ACo.
 Reasons for Decision
-Article 5.3(a) of the 2003 UK Convention provides that an enterprise is deemed to have a PE in Australia and to carry on business through that PE if it:
-
-•has a building site or construction or installation project in Australia; or
-•undertakes a supervisory or consultancy activity in Australia connected with such a site or project,
-
-but only if that site, project or activity lasts for more than 12 months.
-
-Duration of Activity
-
-To determine the duration of an enterprise's activity under Article 5.3(a), Article 5.4(a) of the 2003 UK Convention requires that the time period during which the enterprise conducts those activities in Australia is aggregated with the time period(s) during which activities connected with those activities are carried on in Australia by its associate. Article 5.4(b) provides that the period during which two associated enterprises are carrying on concurrent activities is only counted once.
-
-'associated'
-
-Article 5.4(c)(ii) of the 2003 UK Convention provides that an enterprise shall be deemed to be 'associated' with another enterprise if both are controlled directly or indirectly by a third person or persons.
-As ACo and the taxpayer have the same parent company, Article 5.4(c)(ii) deems the taxpayer's enterprise to be 'associated with' ACo's enterprise for the purposes of Article 5 of the 2003 UK Convention.
-
-'connected'
-
-The term 'connected' is not defined in the 2003 UK Convention, nor in Australia's domestic taxation legislation. The ordinary meaning of the term 'connect', based on the Macquarie Dictionary definition, is 'to bind or fasten together, join, unite, link; to associate or attach'.
+Article 5.3(a) of the 2003 UK Convention provides that an enterprise is deemed to have a PE in Australia and to carry on business through that PE if it: •has a building site or construction or installation project in Australia; or
+•undertakes a supervisory or consultancy activity in Australia connected with such a site or project, but only if that site, project or activity lasts for more than 12 months. Duration of Activity To determine the duration of an enterprise's activity under Article 5.3(a), Article 5.4(a) of the 2003 UK Convention requires that the time period during which the enterprise conducts those activities in Australia is aggregated with the time period(s) during which activities connected with those activities are carried on in Australia by its associate. Article 5.4(b) provides that the period during which two associated enterprises are carrying on concurrent activities is only counted once. 'associated' Article 5.4(c)(ii) of the 2003 UK Convention provides that an enterprise shall be deemed to be 'associated' with another enterprise if both are controlled directly or indirectly by a third person or persons.
+As ACo and the taxpayer have the same parent company, Article 5.4(c)(ii) deems the taxpayer's enterprise to be 'associated with' ACo's enterprise for the purposes of Article 5 of the 2003 UK Convention. 'connected' The term 'connected' is not defined in the 2003 UK Convention, nor in Australia's domestic taxation legislation. The ordinary meaning of the term 'connect', based on the Macquarie Dictionary definition, is 'to bind or fasten together, join, unite, link; to associate or attach'.
 As the supervisory activity in Australia of the taxpayer' enterprise is one part of the project undertaken by ACo in Australia, the supervisory activity falls within the ordinary meaning of the term in that it is joined, united, linked or attached to ACo's installation project.
 Paragraph 1.58 of the Explanatory Memorandum to the International Tax Agreements Amendment Bill 2003 states that 'activities will be regarded as being connected where, for example, different stages of a single project are carried out by different subsidiaries within a group of companies'.
-In the present case, the taxpayer's enterprise completes one stage of ACo's installation project; one that is different to the stages completed by ACo. Accordingly, the activities of the taxpayer's enterprise in Australia are 'connected with the activities carried on in that State by its associate' for the purposes of Article 5.4(a) of the 2003 UK Convention.
-
-Determining the duration of activities
-
-Applying Article 5.4(a) of the 2003 UK Convention, the three year period during which ACo undertakes the installation project is aggregated with the two month period during which the taxpayer conducts its supervisory activity. However, under Article 5.4(b), the period during which the taxpayer's and ACo's enterprise carry on activities concurrently means that the duration of the taxpayer's activity for the purposes of Article 5.3(a) is determined as being 3 years; a period that 'lasts more than 12 months' for Article 5.3(a) purposes.
-As the taxpayer's enterprise has conducted 'supervisory activity' in Australia that is connected with ACo's installation project, and that activity lasts longer than 12 months, the conditions for the operation Article 5.3(a) of the 2003 UK Convention have been satisfied. Accordingly, Article 5.3(a) deems the taxpayer's enterprise to have a PE in Australia and to carry on business through that PE.
-
-Note
- : Article 7 of the 2003 UK Convention ensures that only the profits that are attributable to the UK enterprise's (that is, the taxpayer's) PE in Australia may be taxed by Australia.
-
-Date of decision:
-  21 September 2010
-
-Year of income:
-  Year ended 30 June 2011
-
-Legislative References:
-
-International Tax Agreements Act 1953   Schedule 1   Article 4.1(a)   Article 5.1   Article 5.3(a)   Article 5.4   Article 5.4(a)   Article 5.4(b)   Article 5.4(c)(ii)   Article 7
-
-Other References:
-
-Macquarie Dictionary, 2009, 5th edition, The Macquarie Dictionary Publishers Pty Ltd
- Explanatory Memorandum to the International Tax Agreements Amendment Bill 2003
-
-Keywords
-
-Double tax agreements
- Permanent establishment
- United Kingdom
-
-Siebel/TDMS Reference Number:
-  1-2AWWPQ9
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  22 October 2010
-
-ISSN:
- 1445-2782
+In the present case, the taxpayer's enterprise completes one stage of ACo's installation project; one that is different to the stages completed by ACo. Accordingly, the activities of the taxpayer's enterprise in Australia are 'connected with the activities carried on in that State by its associate' for the purposes of Article 5.4(a) of the 2003 UK Convention. Determining the duration of activities Applying Article 5.4(a) of the 2003 UK Convention, the three year period during which ACo undertakes the installation project is aggregated with the two month period during which the taxpayer conducts its supervisory activity. However, under Article 5.4(b), the period during which the taxpayer's and ACo's enterprise carry on activities concurrently means that the duration of the taxpayer's activity for the purposes of Article 5.3(a) is determined as being 3 years; a period that 'lasts more than 12 months' for Article 5.3(a) purposes.
+As the taxpayer's enterprise has conducted 'supervisory activity' in Australia that is connected with ACo's installation project, and that activity lasts longer than 12 months, the conditions for the operation Article 5.3(a) of the 2003 UK Convention have been satisfied. Accordingly, Article 5.3(a) deems the taxpayer's enterprise to have a PE in Australia and to carry on business through that PE. Note : Article 7 of the 2003 UK Convention ensures that only the profits that are attributable to the UK enterprise's (that is, the taxpayer's) PE in Australia may be taxed by Australia. Date of decision: 21 September 2010 Year of income: Year ended 30 June 2011 Legislative References: International Tax Agreements Act 1953 Schedule 1 Article 4.1(a) Article 5.1 Article 5.3(a) Article 5.4 Article 5.4(a) Article 5.4(b) Article 5.4(c)(ii) Article 7 Other References: Macquarie Dictionary, 2009, 5th edition, The Macquarie Dictionary Publishers Pty Ltd Explanatory Memorandum to the International Tax Agreements Amendment Bill 2003 Keywords Double tax agreements Permanent establishment United Kingdom Siebel/TDMS Reference Number: 1-2AWWPQ9 Business Line: Public Groups and International Date of publication: 22 October 2010 ISSN: 1445-2782

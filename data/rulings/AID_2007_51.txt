@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/51
-==================================================
-
-Excise
- Fuel Tax Credits: rate applicable in determining the amount of an increasing or decreasing fuel tax adjustment
- FOI status: may be released
-
-This ATO ID is withdrawn due to a legislative amendment contained in the Tax and Superannuation Laws Amendment (2014 Measures No.6) Act 2014. The legislative amendment applies in relation to Division 44 that took effect on 10 November 2014.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Excise Fuel Tax Credits: rate applicable in determining the amount of an increasing or decreasing fuel tax adjustment FOI status: may be released This ATO ID is withdrawn due to a legislative amendment contained in the Tax and Superannuation Laws Amendment (2014 Measures No.6) Act 2014. The legislative amendment applies in relation to Division 44 that took effect on 10 November 2014. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 What rate of fuel tax is used for fuel tax adjustments under Division 44 of the Fuel Tax Act 2006 (FTA)?
 Decision
 Fuel tax adjustments are calculated on the rate of fuel tax that was in force at the beginning of the tax period in which the fuel tax credit was attributed.
@@ -24,61 +9,12 @@ Facts
 An entity claimed a fuel tax credit.
 In a subsequent tax period, the entity used some of the fuel to which the fuel tax credit related for an ineligible use.
 Reasons for Decision
-Subsections 44-5(1) and 44-5(2) of the FTA provide that:
-
-1) You have a fuel tax adjustment if you use fuel, or make a taxable supply of fuel, in circumstances where, if you had originally acquired, manufactured or imported the fuel to use or make a taxable supply in those circumstances, the amount of the fuel tax credit to which you would have been entitled would have been different from the amount to which you are or were entitled.
-2) The amount of the adjustment is the difference between the 2 amounts.
-
-This means an entity has a fuel tax adjustment if it has claimed a fuel tax credit and subsequently uses the relevant fuel in a manner that would have given rise to a different entitlement. The quantum of the adjustment is to be determined based on the difference between the amount that was claimed and the amount to which the entity would have been entitled had they known they were going to use the fuel for the purpose for which it was ultimately used.
-Therefore the key factors to be determined in working out whether a fuel tax adjustment is applicable are:
-
-1. What was the entity's original entitlement at the time it acquired the fuel?
-2. What would the entity's entitlement have been if they had known at that time what the fuel would ultimately be used for?
-
-It is clear that both of these questions must be answered with reference to the amount of fuel tax credit (and therefore, where relevant, any grant or subsidy amount) that applied at the time of the original calculation of the fuel tax credit.
+Subsections 44-5(1) and 44-5(2) of the FTA provide that: 1) You have a fuel tax adjustment if you use fuel, or make a taxable supply of fuel, in circumstances where, if you had originally acquired, manufactured or imported the fuel to use or make a taxable supply in those circumstances, the amount of the fuel tax credit to which you would have been entitled would have been different from the amount to which you are or were entitled.
+2) The amount of the adjustment is the difference between the 2 amounts. This means an entity has a fuel tax adjustment if it has claimed a fuel tax credit and subsequently uses the relevant fuel in a manner that would have given rise to a different entitlement. The quantum of the adjustment is to be determined based on the difference between the amount that was claimed and the amount to which the entity would have been entitled had they known they were going to use the fuel for the purpose for which it was ultimately used.
+Therefore the key factors to be determined in working out whether a fuel tax adjustment is applicable are: 1. What was the entity's original entitlement at the time it acquired the fuel?
+2. What would the entity's entitlement have been if they had known at that time what the fuel would ultimately be used for? It is clear that both of these questions must be answered with reference to the amount of fuel tax credit (and therefore, where relevant, any grant or subsidy amount) that applied at the time of the original calculation of the fuel tax credit.
 Accordingly, fuel tax credit adjustments are calculated on the rate of fuel tax (and where relevant, any grant or subsidy amount) applicable to the period to which the fuel tax credit that gave rise to the adjustment was attributable.
-Date of decision:
-  8 March 2007
-
-Legislative References:
-
-Fuel Tax Act 2006   section 44-5
-
-Keywords
-
-Excise
- Excise offsets
- FTC effective fuel tax
- FTC fuel tax
- FTC fuel tax adjustment
- FTC fuel tax return period
- FTC general
- Fuel tax credits
-
-Siebel/TDMS Reference Number:
-  5602736
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  16 March 2007
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 8 March 2007
-Original statement
-
-You are here
+Date of decision: 8 March 2007 Legislative References: Fuel Tax Act 2006 section 44-5 Keywords Excise Excise offsets FTC effective fuel tax FTC fuel tax FTC fuel tax adjustment FTC fuel tax return period FTC general Fuel tax credits Siebel/TDMS Reference Number: 5602736 Business Line: Indirect Tax Date of publication: 16 March 2007 ISSN: 1445-2782 history Date: Version: 8 March 2007
+Original statement You are here
 17 January 2019
 Archived

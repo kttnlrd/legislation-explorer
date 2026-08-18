@@ -1,22 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2011/76
-==================================================
-
-Goods and Services Tax
- Goods and Services tax: Alternative attribution rule of subsection 29-10(4) of the GST Act
- FOI status: may be released
-
-This ATO ID is withdrawn following the decision of the Full Federal Court in FC of T v Travelex Ltd 2020 FCAFC 10 (Travelex). In Travelex, the court determined that there is no power, express or implied, to revise a GST return. This decision is contrary to the reasoning outlined in the ATO ID and it is therefore withdrawn.
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Goods and Services Tax Goods and Services tax: Alternative attribution rule of subsection 29-10(4) of the GST Act FOI status: may be released This ATO ID is withdrawn following the decision of the Full Federal Court in FC of T v Travelex Ltd 2020 FCAFC 10 (Travelex). In Travelex, the court determined that there is no power, express or implied, to revise a GST return. This decision is contrary to the reasoning outlined in the ATO ID and it is therefore withdrawn. This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does subsection 29-10(4) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act) prevent an entity revising a GST return for an earlier tax period as determined under subsection 29-10(1) or subsection 29-10(2) or subsection 29-10(3) of the GST Act so as to take into account an input tax credit in the net amount for that earlier tax period?
 Decision
 No, subsection 29-10(4) of the GST Act does not prevent an entity revising a GST return for an earlier tax period determined under subsection 29-10(1) or subsection 29-10(2) or subsection 29-10(3) of the GST Act so as to take into account an input tax credit in the net amount for that tax period. If a GST return for an earlier tax period is revised to take account of an input tax credit in the net amount, subsection 29-10(4) of the GST Act does not apply.
@@ -26,90 +11,20 @@ The entity lodged its GST return for the tax period ended 31 March 2011 without 
 Reasons for Decision
 The rules for the attribution of an input tax credit are set out in section 29-10 of the GST Act.
 Subsection 29-10(2) of the GST Act explains the tax period to which an input tax credit is attributable for an entity that accounts for GST on a cash basis. Subsection 29-10(3) of the GST Act can affect this period if the entity does not hold a tax invoice but this is not relevant in this case.
-Subsection 29-10(4) of the GST Act states:
-
-If the *GST return for a tax period states a *net amount that does not take into account an input tax credit attributable to that tax period:
-
-(a)the input tax credit is not attributable to that tax period; and
-(b)the input tax credit is attributable to the first tax period for which you give the Commissioner a GST return that does take it into account.
-
-A literal reading of paragraph 29-10(4)(a) of the GST Act might lead to the conclusion that as soon as an entity provides a GST return for a tax period that has not taken an input tax credit into account, then the input tax credit must be attributable to some other period.
+Subsection 29-10(4) of the GST Act states: If the *GST return for a tax period states a *net amount that does not take into account an input tax credit attributable to that tax period: (a)the input tax credit is not attributable to that tax period; and
+(b)the input tax credit is attributable to the first tax period for which you give the Commissioner a GST return that does take it into account. A literal reading of paragraph 29-10(4)(a) of the GST Act might lead to the conclusion that as soon as an entity provides a GST return for a tax period that has not taken an input tax credit into account, then the input tax credit must be attributable to some other period.
 However, subsection 29-10(4) of the GST Act does not prevent an entity revising an earlier GST return to claim an input tax credit that the entity is otherwise entitled to claim in an earlier tax period. If an entity revises that earlier GST return to take account of the input tax credit then subsection 29-10(4) no longer applies. That is, following the revision of the GST return for an earlier tax period, the requirement in subsection 29-10(4) that a '...GST return for a tax period states a net amount that does not take into account an input tax credit attributable to that tax period...', is no longer satisfied.
-This view is consistent with paragraph 6.11 of the Explanatory Memorandum to Taxation Laws Amendment Bill (No. 8) 2000, which clearly states that subsection 29-10(4) of the GST Act does not deny the choice to revise a GST return so as to take the input tax credit into account in the earlier tax period. Paragraph 6.11 states:
-
-6.11 New subsection 29-10(4) does not affect the operation of subsection 29-10(3). An entity can still claim input tax credits in the first tax period in which it holds a tax invoice. Where an entity attributes its input tax credits to the first tax period in which it held a tax invoice, the entity is still only required to keep records that record and explain the creditable acquisition for 5 years after the completion of the transaction or act relating to the acquisition. New subsection 70(1AAB) of the TAA 1953 does not in any way vary or amend this requirement.
-
-Subsection 29-10(4) of the GST Act was further amended under the Tax Laws Amendment (2010 GST Administration Measures No. 1) Act 2010. Prior to the amendment subsection 29-10(4) referred to a tax period determined under paragraph 29-10(3)(b) of the GST Act. Under the amendment, subsection 29-10(4) no longer refers to paragraph 29-10(3)(b) thus ensuring that subsection 29-10(4) may be applied in all situations where an input tax credit was not taken into account in the net amount.
+This view is consistent with paragraph 6.11 of the Explanatory Memorandum to Taxation Laws Amendment Bill (No. 8) 2000, which clearly states that subsection 29-10(4) of the GST Act does not deny the choice to revise a GST return so as to take the input tax credit into account in the earlier tax period. Paragraph 6.11 states: 6.11 New subsection 29-10(4) does not affect the operation of subsection 29-10(3). An entity can still claim input tax credits in the first tax period in which it holds a tax invoice. Where an entity attributes its input tax credits to the first tax period in which it held a tax invoice, the entity is still only required to keep records that record and explain the creditable acquisition for 5 years after the completion of the transaction or act relating to the acquisition. New subsection 70(1AAB) of the TAA 1953 does not in any way vary or amend this requirement. Subsection 29-10(4) of the GST Act was further amended under the Tax Laws Amendment (2010 GST Administration Measures No. 1) Act 2010. Prior to the amendment subsection 29-10(4) referred to a tax period determined under paragraph 29-10(3)(b) of the GST Act. Under the amendment, subsection 29-10(4) no longer refers to paragraph 29-10(3)(b) thus ensuring that subsection 29-10(4) may be applied in all situations where an input tax credit was not taken into account in the net amount.
 At paragraph 3.8 of the Explanation Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 1) Bill 2010 it is explained that subsection 29-10(4) of the GST Act was introduced to 'permit taxpayers to claim input tax credits in the current business activity statement'. The amendment to subsection 29-10(4) did not change the underlying premise that an entity could revise the earlier GST return.
 Therefore, even though the entity has not taken the input tax credit into account in the March 2011 tax period to which it is attributable under subsection 29-10(2) of the GST Act, it can revise its GST return for that period to take account of the relevant input tax credit.
-However, the input tax credit can only be taken into account in the one tax period. If the entity takes the input tax credit into account in a later period in accordance with subsection 29-10(4), then it can no longer amend the earlier GST return to take the input tax credit into account in that earlier tax period.
-
-Note 1: For tax periods starting on or after 1 July 2012, if an entity's input tax credit is not included in an assessment of a net amount within four years after the due date for lodgement of the activity statement to which the input tax credit is attributable under subsection 29-10(1) or (2) of the GST Act, entitlement to the credit ceases. (See section 93-5 of the GST Act.)
-
-Note 2: For tax periods starting on or after 1 July 2012 the Commissioner is taken to have made an assessment of the net amount on the day an entity lodges its activity statement for a tax period. Generally, an activity statement can be amended only within a period of four years after the day after the activity statement was lodged. (See sections 155-15 and 155-35 of Schedule 1 to the Taxation Administration Act 1953.)
-
-Note 3: For tax periods starting before 1 July 2012, an entity's entitlement to a refund ceases unless, within 4 years after the end of the tax period to which the refund relates, the entity has notified the Commissioner of its entitlement to the refund. (See section 105-55 of Schedule 1 to the Taxation Administration Act 1953.)
-
-Amendment History
-
-Date of Amendment
+However, the input tax credit can only be taken into account in the one tax period. If the entity takes the input tax credit into account in a later period in accordance with subsection 29-10(4), then it can no longer amend the earlier GST return to take the input tax credit into account in that earlier tax period. Note 1: For tax periods starting on or after 1 July 2012, if an entity's input tax credit is not included in an assessment of a net amount within four years after the due date for lodgement of the activity statement to which the input tax credit is attributable under subsection 29-10(1) or (2) of the GST Act, entitlement to the credit ceases. (See section 93-5 of the GST Act.) Note 2: For tax periods starting on or after 1 July 2012 the Commissioner is taken to have made an assessment of the net amount on the day an entity lodges its activity statement for a tax period. Generally, an activity statement can be amended only within a period of four years after the day after the activity statement was lodged. (See sections 155-15 and 155-35 of Schedule 1 to the Taxation Administration Act 1953.) Note 3: For tax periods starting before 1 July 2012, an entity's entitlement to a refund ceases unless, within 4 years after the end of the tax period to which the refund relates, the entity has notified the Commissioner of its entitlement to the refund. (See section 105-55 of Schedule 1 to the Taxation Administration Act 1953.) Amendment History Date of Amendment
 Part
-Comment
-
-21 December 2018
+Comment 21 December 2018
 Notes
-Note updated to specify the date from which the 4-year period starts; Notes 2 and 3 added.
-
-Date of decision:
-  6 September 2010
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   subsection 29-10(1)   subsection 29-10(2)   subsection 29-10(3)   subsection 29-10(4)
-Taxation Laws Amendment Act (No 8) 2000.   The Act
-Tax Laws Amendment (2010 GST Administration Measures No. 1) Act 2010   The Act
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 8) 2000
- Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 1) Bill 2010
-
-Keywords
-
-Goods and services tax
- Attribution
-
-Siebel/TDMS Reference Number:
-  1-3FU27J7;GQDJHJ6
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  7 October 2011
-
-Date reviewed:
-  3 December 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
- 6 September 2010
-Original statement
-
- 
-21 December 2018
-Updated statement
-
-You are here
+Note updated to specify the date from which the 4-year period starts; Notes 2 and 3 added. Date of decision: 6 September 2010 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 subsection 29-10(1) subsection 29-10(2) subsection 29-10(3) subsection 29-10(4)
+Taxation Laws Amendment Act (No 8) 2000. The Act
+Tax Laws Amendment (2010 GST Administration Measures No. 1) Act 2010 The Act Other References: Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 8) 2000 Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 1) Bill 2010 Keywords Goods and services tax Attribution Siebel/TDMS Reference Number: 1-3FU27J7;GQDJHJ6 Business Line: Indirect Tax Date of publication: 7 October 2011 Date reviewed: 3 December 2018 ISSN: 1445-2782 history Date: Version: 6 September 2010
+Original statement 21 December 2018
+Updated statement You are here
 15 May 2020
 Archived

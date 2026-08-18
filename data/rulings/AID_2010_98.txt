@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2010/98
-==================================================
-
-Income Tax
- Capital gains tax: majority underlying interests - ultimate owners
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital gains tax: majority underlying interests - ultimate owners FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Can a company be an ultimate owner as described in paragraph 149-15(3)(b) of the Income Tax Assessment Act 1997 (ITAA 1997) at a particular time if its constitution provides that rights to surplus assets on a subsequent winding-up are to be determined under legislation and that legislation does not prevent a distribution to members?
 Decision
 No. A company is not an ultimate owner as described in paragraph 149-15(3)(b) of the ITAA 1997 at a particular time if at that time its constitution provides that rights to surplus assets on a subsequent winding-up are to be determined under legislation that does not prevent a distribution to members.
@@ -27,31 +16,4 @@ The Macquarie Dictionary, 2005, 4th edition, The Macquarie Library Pty Ltd, NSW,
 In its ordinary meaning, an action is prevented where it is not possible that it will happen.
 Taking into account the ordinary meaning of the word 'prevent' and the context in which it appears, for the purposes of paragraph 149-15(3)(b) of the ITAA 1997 a constituent document of a company will prevent the making of a distribution to members where it is reasonable to conclude that the effect of that document, taken with the surrounding legal context, is that it is not possible for the company to make distributions to members.
 In this case, the company's constitution refers the distribution of surplus assets on winding-up to the governing legislation. The legislation governing the distribution of surplus assets by the company on winding-up does not expressly provide that the surplus is to be divided amongst members of the company. This, however is not the test required by paragraph 149-15(3)(b) of the ITAA 1997. The terms of the legislation and the constituent document do not prevent a distribution of surplus assets to members on winding-up, as it is possible for such distributions to be made.
-Date of decision:
-  25 November 2009
-
-Year of income:
-  Year ended 30 June 2010
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 149   paragraph 149-15(3)(b)   subsection 149-30(1)
-
-Keywords
-
-Capital gains tax
- CGT assets
- Majority underlying interests
- Pre-CGT assets
-
-Siebel/TDMS Reference Number:
-  5989816
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  30 April 2010
-
-ISSN:
- 1445 - 2782
+Date of decision: 25 November 2009 Year of income: Year ended 30 June 2010 Legislative References: Income Tax Assessment Act 1997 Division 149 paragraph 149-15(3)(b) subsection 149-30(1) Keywords Capital gains tax CGT assets Majority underlying interests Pre-CGT assets Siebel/TDMS Reference Number: 5989816 Business Line: Public Groups and International Date of publication: 30 April 2010 ISSN: 1445 - 2782

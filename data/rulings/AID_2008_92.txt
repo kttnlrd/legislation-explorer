@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2008/92
-==================================================
-
-Income Tax
- Capital Allowances: balancing adjustment event where a service provider gives up cable and cable support equipment to another entity
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Allowances: balancing adjustment event where a service provider gives up cable and cable support equipment to another entity FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does a balancing adjustment event occur for a depreciating asset under subsection 40-295(1) of the Income Tax Assessment Act 1997 (ITAA 1997) where a taxpayer gives up cable and cable support equipment they provided in the course of constructing and installing an interconnection facility?
 Decision
 No. A balancing adjustment event does not occur under subsection 40-295(1) of the ITAA 1997 because the cable and cable support infrastructure given up in the course of constructing and installing an interconnection facility was not, before being given up, a depreciating asset held by a taxpayer.
@@ -20,51 +9,11 @@ Facts
 The taxpayer carries on the business of a service provider. In order to establish and expand its business it entered into an agreement with another entity to create a service capability. To create this capability, the taxpayer was required to connect its network to the other entity's network. The taxpayer incurs expenditure on labour and materials, including cables and cable support equipment, in order to design, build and install an interconnection facility to connect its network with the other entity's network. The interconnection facility is a depreciating asset.
 Under the agreement, both the taxpayer and the other entity have access to the interconnection facility which is established on the other entity's premises. Property in and title to the material installed in the other entity's premises is retained by the taxpayer with the exception of certain cables and cable support equipment which becomes the property of the other entity upon installation.
 Reasons for Decision
-Subsection 40-295(1) of the ITAA 1997 states that a balancing adjustment event occurs for a depreciating asset if:
-
-(a)you stop holding the asset; or
+Subsection 40-295(1) of the ITAA 1997 states that a balancing adjustment event occurs for a depreciating asset if: (a)you stop holding the asset; or
 (b)you stop using it, or having it installed ready for use, for any purpose and you expect never to use it, or have it installed ready for use, again; or
-(c)you have not used it and:
-
-(i)if you have had it installed ready for use - you stop having it so installed; and
-(ii)you decide never to use it.
-
-For a balancing adjustment event to occur for a depreciating asset under subsection 40-295(1) of the ITAA 1997, the taxpayer must have first held a depreciating asset.
+(c)you have not used it and: (i)if you have had it installed ready for use - you stop having it so installed; and
+(ii)you decide never to use it. For a balancing adjustment event to occur for a depreciating asset under subsection 40-295(1) of the ITAA 1997, the taxpayer must have first held a depreciating asset.
 A depreciating asset is broadly defined in subsection 40-30(1) of the ITAA 1997 as an asset that has a limited effective life and can reasonably be expected to decline in value over the time it is used. At any relevant time before the cable and cable support equipment was installed ready for use, the uncompleted work was not in a condition that enabled it to function or to be used as a depreciating asset. It therefore would not be considered to be a depreciating asset. At the time the taxpayer acquired the completed interconnection facility, it did not contain the cable and cable support equipment.
 The subsequent completion of cable and cable support equipment enabled it to be recognised as a depreciating asset. However, upon completion it was held by the other entity and not the taxpayer. At the time the other entity acquired the completed cable and cable support equipment, it was a different asset from that held by the taxpayer.
 Consequently, a balancing adjustment event does not occur under subsection 40-295(1) of the ITAA 1997 where the taxpayer gives up cable and cable support equipment they provided in the course of constructing and installing an interconnection facility.
-Date of decision:
-  27 July 2007
-
-Year of income:
-  Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   subsection 40-30(1)   subsection 40-295(1)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2008/91
- ATO ID 2008/93
-
-Keywords
-
-Balancing adjustment event
- Hold a depreciating asset
- Uniform capital allowances system
-
-Siebel/TDMS Reference Number:
-  5667798;1-5VXW1RK; 1-BRINQIE
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  20 June 2008
-
-Date reviewed:
-  22 August 2017
-
-ISSN:
- 1445-2782
+Date of decision: 27 July 2007 Year of income: Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 subsection 40-30(1) subsection 40-295(1) Related ATO Interpretative Decisions ATO ID 2008/91 ATO ID 2008/93 Keywords Balancing adjustment event Hold a depreciating asset Uniform capital allowances system Siebel/TDMS Reference Number: 5667798;1-5VXW1RK; 1-BRINQIE Business Line: Private Groups and High Wealth Individuals Date of publication: 20 June 2008 Date reviewed: 22 August 2017 ISSN: 1445-2782

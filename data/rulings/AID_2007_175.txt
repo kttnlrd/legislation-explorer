@@ -1,18 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2007/175
-==================================================
-
-Income Tax
- Capital Gains Tax: granting a long-term lease - whether the original lease term includes the term of any renewal of the lease
- FOI status: may be released
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income Tax Capital Gains Tax: granting a long-term lease - whether the original lease term includes the term of any renewal of the lease FOI status: may be released CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 When determining whether a lease is for at least 50 years under paragraph 104-115(1)(b) of the Income Tax Assessment Act 1997 (ITAA 1997), does the original lease term include the period of any renewal of the lease?
 Decision
 No. Under paragraph 104-115(1)(b) of the ITAA 1997, the period of any renewal of the lease must be considered separately from the term of the original lease.
@@ -26,52 +15,6 @@ Under paragraph 104-115(1)(b) of the ITAA 1997, the original lease term must be 
 In this case the original lease term will not cause CGT event F2 to happen, but the option to renew may cause CGT event F2 to happen.
 This interpretation of paragraph 104-115(1)(b) of the ITAA 1997 also accords with the position under the general law.
 In Gerraty v. McGavin & Anor (1914) 18 CLR 152; (1914) 20 ALR 182, Isaacs J stated of a 'lease obtained by the exercise of an option to renew' that 'clearly it is a new lease, a new demise'. His Honour reiterated this view in The Minister v. New South Wales Aerated Water and Confectionery Company Ltd (1916) 22 CLR 56; (1916) 23 ALR 10, concluding that 'a renewal is a new lease'.
-In Rider v. Ford [1923] 1 Ch 541 at 547, Russell J stated that
-
-the right to renew is a right to call for a fresh lease. The new lease is the result of a fresh demise. Even if all the provisions in the fresh lease were the same as in the old lease it would none the less be a fresh demise, and a fresh term with fresh covenants.
-
-In 195 Crown Street Pty Ltd v. Hoare [1969] 1 NSWR 193 at 199, Asprey JA (with whose conclusion on this point Walsh JA, at 198, and Hardie A-JA, at 207, agreed) stated that 'the exercise of an option for the renewal of a lease is a grant of a fresh lease for a new term'.
-In Sina Holdings Ltd v. Westpac Banking Corporation [1996] 1 NZLR 1 at 13, the New Zealand Court of Appeal stated that a renewed lease
-
-clearly was the grant of a new lease which followed expiry of the original lease... It cannot properly be described as simply an extension of the original term.
-
-Although none of these cases involved taxation issues, they provide a consistent line of authority under the general law that a lease granted under an option to renew gives rise to a new lease. The lease term granted under an option to renew can not be added to, or regarded as an extension of, the original lease term. Nothing in section 104-115 of the ITAA 1997 changes the position under the general law.
-Date of decision:
-  28 August 2007
-
-Year of income:
-  Year ended 30 June 2007
-
-Legislative References:
-
-Income Tax Assessment Act 1997   section 104-115   paragraph 104-115(1)(b)
-
-Case References:
-
-195 Crown Street Pty Ltd v. Hoare   [1969] 1 NSWR 193
-
-Gerraty v. McGavin & Anor   (1914) 18 CLR 152   (1914) 20 ALR 182
-
-Rider v. Ford   [1923] 1 Ch 541
-
-Sina Holdings Ltd v. Westpac Banking Corporation   [1996] 1 NZLR 1
-
-The Minister v. New South Wales Aerated Water and Confectionery Company Ltd   (1916) 22 CLR 56   (1916) 23 ALR 10
-
-Keywords
-
-CGT events F1-F5 - leases
- Land
- Leasehold
-
-Siebel/TDMS Reference Number:
-  5487839
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  7 September 2007
-
-ISSN:
- 1445-2782
+In Rider v. Ford [1923] 1 Ch 541 at 547, Russell J stated that the right to renew is a right to call for a fresh lease. The new lease is the result of a fresh demise. Even if all the provisions in the fresh lease were the same as in the old lease it would none the less be a fresh demise, and a fresh term with fresh covenants. In 195 Crown Street Pty Ltd v. Hoare [1969] 1 NSWR 193 at 199, Asprey JA (with whose conclusion on this point Walsh JA, at 198, and Hardie A-JA, at 207, agreed) stated that 'the exercise of an option for the renewal of a lease is a grant of a fresh lease for a new term'.
+In Sina Holdings Ltd v. Westpac Banking Corporation [1996] 1 NZLR 1 at 13, the New Zealand Court of Appeal stated that a renewed lease clearly was the grant of a new lease which followed expiry of the original lease... It cannot properly be described as simply an extension of the original term. Although none of these cases involved taxation issues, they provide a consistent line of authority under the general law that a lease granted under an option to renew gives rise to a new lease. The lease term granted under an option to renew can not be added to, or regarded as an extension of, the original lease term. Nothing in section 104-115 of the ITAA 1997 changes the position under the general law.
+Date of decision: 28 August 2007 Year of income: Year ended 30 June 2007 Legislative References: Income Tax Assessment Act 1997 section 104-115 paragraph 104-115(1)(b) Case References: 195 Crown Street Pty Ltd v. Hoare [1969] 1 NSWR 193 Gerraty v. McGavin & Anor (1914) 18 CLR 152 (1914) 20 ALR 182 Rider v. Ford [1923] 1 Ch 541 Sina Holdings Ltd v. Westpac Banking Corporation [1996] 1 NZLR 1 The Minister v. New South Wales Aerated Water and Confectionery Company Ltd (1916) 22 CLR 56 (1916) 23 ALR 10 Keywords CGT events F1-F5 - leases Land Leasehold Siebel/TDMS Reference Number: 5487839 Business Line: Public Groups and International Date of publication: 7 September 2007 ISSN: 1445-2782

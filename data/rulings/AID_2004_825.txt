@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2004/825
-==================================================
-
-Income tax
- Capital works: construction expenditure area -your area - earlier lessee's expenditure
- FOI status: may be released
-
-This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Capital works: construction expenditure area -your area - earlier lessee's expenditure FOI status: may be released This document incorporates revisions made since original publication. View its history and amending notices, if applicable. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the taxpayer have an area defined by subsection 43-120(2) of the Income Tax Assessment Act 1997 (ITAA 1997) as 'your area' where the taxpayer purchases the interest in a sublease from a company incurring the construction expenditure on the capital works?
 Decision
 No. That part of the construction expenditure area that the taxpayer leases has not been continuously leased since the construction was completed by either the lessee who incurred the expenditure or an assignee of the constructing lessee's lease.
@@ -22,73 +9,17 @@ Facts
 Company A owned land that it wished to develop. Company A granted Company B a 199 year lease over the land ('the head lease'), whereupon Company B constructed a unit complex on the land.
 When the construction was completed Company B leased, with a term less than that of the head lease, the whole complex to Company C ('the sublease'), which leased back to Company B separately each of the completed units in the complex ('the sub-subleases'). The sub-subleases terminated one day before the sublease.
 Company B then sold its interest in the sub-subleases to other parties. The taxpayer purchased the interest in one of the sub-subleases to rent the unit for the purpose of producing assessable income.
-After Company B had sold all of its interest in the sub-subleases to the other parties it assigned its interest in the head lease to Company C.
-
-Reasons for Decision
+After Company B had sold all of its interest in the sub-subleases to the other parties it assigned its interest in the head lease to Company C. Reasons for Decision
 Broadly speaking, Division 43 of the ITAA 1997 allows you to deduct an amount for construction expenditure on certain income producing capital works for an income year. A deduction is dependent, among other things, on whether you have a construction expenditure area that is 'your area', as defined in Subdivision 43-C of the ITAA 1997, for the capital work.
 'Your area' has the meaning given in sections 43-115 and 43-120 of the ITAA 1997. How 'your area' is determined under those sections depends on whether you are an owner or a lessee (or holder of a quasi-ownership right) of the part of the capital work on which the construction expenditure is incurred.
 Subsection 43-120(2) of the ITAA 1997 applies where you are a lessee and the construction expenditure was incurred by an earlier lessee. The provision provides that 'your area' is that part of the construction expenditure area that has been continuously leased from the time of completion by the lessee who incurred the expenditure or an assignee of that lessee's lease. It is only the original lessee who incurred the construction expenditure or an assignee of that lessee's lease that can have 'your area'.
 In this case, 'that lessee's lease' is the head lease of which Company B is the lessee because the construction expenditure was incurred by Company B under the head lease and before the sublease was entered into. The taxpayer is the assignee of one of the sub-subleases by way of purchasing the interest in the sub-sublease from Company B. However, the taxpayer is not an assignee of the head lease because the head lease between Company A and Company B is a different lease to any of the sub-subleases between Company C and Company B even though Company B is the lessee of the head lease and the sub-subleases.
 The part of construction expenditure area the taxpayer leases has not been continuously leased by the taxpayer since construction was completed by the lessee who incurred the expenditure (that is, Company B) or an assignee of Company B's lease (that is, the head lease).
-The taxpayer does not have 'your area' as defined in subsection 43-120(2) of the ITAA 1997.
-
-Amendment History
-
-Date of Amendment
+The taxpayer does not have 'your area' as defined in subsection 43-120(2) of the ITAA 1997. Amendment History Date of Amendment
 Part
-Comment
-
-13 February 2015
+Comment 13 February 2015
 Reasons for Decision
-minor changes to add clarity to a paragraph
-
-Date of decision:
-  31 August 2004
-
-Year of income:
-  Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006
-
-Legislative References:
-
-Income Tax Assessment Act 1997   Division 43   Subdivision 43-C   section 43-115   section 43-120   subsection 43-120(2)
-
-Related ATO Interpretative Decisions
-
- ATO ID 2004/410
-
-Keywords
-
-Assignment of lease
- Building depreciation
- Construction expenditure area
-
-Siebel/TDMS Reference Number:
-  4015429; 1-5VZ950Z; 1-CUGD8YY
-
-Business Line:
-  Private Groups and High Wealth Individuals
-
-Date of publication:
-  15 October 2004
-
-Date reviewed:
-  6 February 2018
-
-ISSN:
- 1445-2782
-
- history
-
- 
-
-Date:
-
-Version:
-
- 
-31 August 2004
-Original statement
-
-You are here
+minor changes to add clarity to a paragraph Date of decision: 31 August 2004 Year of income: Year ended 30 June 2004 Year ended 30 June 2005 Year ended 30 June 2006 Legislative References: Income Tax Assessment Act 1997 Division 43 Subdivision 43-C section 43-115 section 43-120 subsection 43-120(2) Related ATO Interpretative Decisions ATO ID 2004/410 Keywords Assignment of lease Building depreciation Construction expenditure area Siebel/TDMS Reference Number: 4015429; 1-5VZ950Z; 1-CUGD8YY Business Line: Private Groups and High Wealth Individuals Date of publication: 15 October 2004 Date reviewed: 6 February 2018 ISSN: 1445-2782 history Date: Version: 31 August 2004
+Original statement You are here
 13 February 2015
 Updated statement

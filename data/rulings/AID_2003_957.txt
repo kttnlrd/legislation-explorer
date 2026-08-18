@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2003/957
-==================================================
-
-Good and Services Tax
- GST and supply connected with direct selling enterprise
- FOI status: may be released
-
-With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Good and Services Tax GST and supply connected with direct selling enterprise FOI status: may be released With effect from 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the Treasury Legislation Amendment (Repeal Day) Act 2015. The scope of the new term, however, remains the same as the repealed definition of 'Australia' used in those Acts. For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Is the entity, a distributor for a direct selling organisation, making a taxable supply under section 9-5 of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act), when it introduces a new member to the direct selling organisation, and receives a voucher from the direct selling organisation which it can redeem for products for its personal use?
 Decision
 Yes, the entity is making a taxable supply under section 9-5 of the GST Act when it introduces a new member to the direct selling organisation, and receives a voucher from the direct selling enterprise which it can redeem for products for its personal use.
@@ -22,14 +9,10 @@ Facts
 The entity is a distributor for a direct selling organisation. The entity introduces a prospective member to the direct selling organisation and, in return for this, the direct selling organisation provides the entity with a voucher. The entity can redeem the voucher for products from the direct selling organisation. The products are supplied only for the entity's personal use.
 The entity is registered for goods and services tax (GST). The entity introduces the new member to the organisation in the course of its own enterprise that is carried on in Australia.
 Reasons for Decision
-Under section 9-5 of the GST Act, an entity makes a taxable supply if:
-
-•it makes a supply for consideration; and
+Under section 9-5 of the GST Act, an entity makes a taxable supply if: •it makes a supply for consideration; and
 •the supply is made in the course or furtherance of an enterprise that it carries on; and
 •the supply is connected with Australia; and
-•the entity is registered or required to be registered for GST.
-
-However, a supply is not taxable to the extent that it is input taxed or GST-free.
+•the entity is registered or required to be registered for GST. However, a supply is not taxable to the extent that it is input taxed or GST-free.
 To satisfy the first requirement in section 9-5 of the GST Act, an entity must make a 'supply' for 'consideration'. Paragraph 9-10(2)(b) of the GST Act provides that for GST purposes, the term 'supply' includes a supply of services. In introducing a prospective member to the direct selling organisation, the entity is providing a service to the direct selling organisation. Therefore, the entity is making a supply as per paragraph 9-10(2)(b) of the GST Act.
 Subsection 9-15(1) of the GST Act provides that for GST purposes, the term 'consideration' includes any payment, act or forbearance, in connection with, in response to, or for the inducement of a supply of anything.
 The voucher is provided in recognition of the entity introducing a prospective member to the direct selling enterprise. If the introduction had not occurred, a voucher would not have been provided to the entity. Therefore, the voucher amounts to consideration as defined in subsection 9-15(1) of the GST Act.
@@ -37,29 +20,4 @@ Accordingly, the entity is making a supply for consideration as per the first re
 Furthermore, the entity is registered for GST, the supply is made in the course of the entity's enterprise, and is connected with Australia.
 In addition, the supply is neither GST-free under Division 38 of the GST Act nor input taxed under Division 40 of the GST Act.
 Therefore, the entity is making a taxable supply under section 9-5 of the GST Act when it introduces a new member to the direct selling organisation, and receives a voucher from the direct selling organisation which it can redeem for products for its personal use.
-Date of decision:
-  18 April 2002
-
-Legislative References:
-
-A New Tax System (Goods and Services Tax) Act 1999   section 9-5   paragraph 9-10(2)(b)   subsection 9-15(1)   Division 38   Division 40
-
-Keywords
-
-Goods and services tax
- GST supplies & acquisitions
- GST consideration
- GST supply
- Taxable supply
-
-Siebel/TDMS Reference Number:
-  243442
-
-Business Line:
-  Indirect Tax
-
-Date of publication:
-  24 October 2003
-
-ISSN:
- 1445-2782
+Date of decision: 18 April 2002 Legislative References: A New Tax System (Goods and Services Tax) Act 1999 section 9-5 paragraph 9-10(2)(b) subsection 9-15(1) Division 38 Division 40 Keywords Goods and services tax GST supplies & acquisitions GST consideration GST supply Taxable supply Siebel/TDMS Reference Number: 243442 Business Line: Indirect Tax Date of publication: 24 October 2003 ISSN: 1445-2782

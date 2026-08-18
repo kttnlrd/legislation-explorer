@@ -1,20 +1,7 @@
 ATO Interpretative Decision
 ATO ID 2005/93
-==================================================
-
-Income tax
- Related payments rule: SPI Futures contracts
- FOI status: may be released
-
-Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002.
-
-CAUTION:
- This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
-This ATOID provides you with the following level of protection:
-
- If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
-
-Issue
+================================================== Income tax Related payments rule: SPI Futures contracts FOI status: may be released Though Part IIIAA of the Income Tax Assessment Act 1936 ceased to have application from 1 July 2002, it is necessary to have regard to the rules in Division 1A of the former Part IIIAA in determining whether an entity is a qualified person for the purpose of the new rules contained in the Simplified Imputation System in respect of a franked distribution made directly or indirectly to the entity on or after 1 July 2002. CAUTION: This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection: If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser. Issue
 Does the notional payment under a written SPI Futures contract in respect of a portfolio of Australian shares held by a taxpayer, give rise to a related payment under section 160APHN of the Income Tax Assessment Act 1936 (ITAA 1936) if the risk exposure of the physical investment portfolio (or any part) is greater than 0.3 at all times?
 Decision
 No. A notional payment made in connection with a SPI Futures contract will not be a related payment under section 160APHN of the ITAA 1936, where there is not a sufficiently close correlation between the physical shares in the portfolio (or any part) and the shares reflected in the SPI.
@@ -24,50 +11,11 @@ The investment portfolio is outsourced to investment managers, who seek to outpe
 The delta of the taxpayer's total investment portfolio, as well as the investment portfolios managed by each manager, will at all times be 0.3 or greater.
 There is no part of the taxpayer's physical investment portfolio (even across investment managers) that can be said to closely correspond to the shares reflected in the SPI Futures contract.
 Reasons for Decision
-Part 3-6 of the Income Tax Assessment Act 1997 (ITAA 1997) contains the imputation provisions. To be eligible for franking benefits under the imputation system, paragraph 207-145(1)(a) of the ITAA 1997 states that the entity receiving the franked distribution must be a 'qualified person' for the purposes of Division 1A of Part IIIAA of the ITAA 1936. Generally, a taxpayer is a qualified person if they have held their ordinary shares at risk for 45 days in a particular period. There is a more stringent test that must be satisfied where a taxpayer makes a related payment.
-
-Related payments
-
-A related payment is any arrangement whereby the taxpayer or an associate of the taxpayer passes on the benefit of a dividend or distribution to another party. Under subsections 160APHN(2) and (3) of the ITAA 1936, a related payment will be taken to have been made where an amount is calculated by reference to, is equal to or approximates the amount of the dividend or distribution credited or notionally credited (explained below) to a party to the arrangement.
-The effect of subsection 160APHN(6) of the ITAA 1936 is that a notional crediting is taken to have occurred where the extent of a person's obligation under an arrangement, such as a futures contract, is determined by a formula which is calculated by reference to the amount of the dividend.
-
-SPI Futures contracts
-
-The taxpayer's investment strategy will include the use of SPI Futures contracts to balance the risk profile of its total investment portfolio. Purchasing an SPI Futures contract provides an investor with an exposure to Australia's top 200 companies (a long position). Conversely, the writing of a futures contract has the effect of hedging the taxpayer's long position attributable to the holding of the physical stocks, resulting in an offsetting short position.
+Part 3-6 of the Income Tax Assessment Act 1997 (ITAA 1997) contains the imputation provisions. To be eligible for franking benefits under the imputation system, paragraph 207-145(1)(a) of the ITAA 1997 states that the entity receiving the franked distribution must be a 'qualified person' for the purposes of Division 1A of Part IIIAA of the ITAA 1936. Generally, a taxpayer is a qualified person if they have held their ordinary shares at risk for 45 days in a particular period. There is a more stringent test that must be satisfied where a taxpayer makes a related payment. Related payments A related payment is any arrangement whereby the taxpayer or an associate of the taxpayer passes on the benefit of a dividend or distribution to another party. Under subsections 160APHN(2) and (3) of the ITAA 1936, a related payment will be taken to have been made where an amount is calculated by reference to, is equal to or approximates the amount of the dividend or distribution credited or notionally credited (explained below) to a party to the arrangement.
+The effect of subsection 160APHN(6) of the ITAA 1936 is that a notional crediting is taken to have occurred where the extent of a person's obligation under an arrangement, such as a futures contract, is determined by a formula which is calculated by reference to the amount of the dividend. SPI Futures contracts The taxpayer's investment strategy will include the use of SPI Futures contracts to balance the risk profile of its total investment portfolio. Purchasing an SPI Futures contract provides an investor with an exposure to Australia's top 200 companies (a long position). Conversely, the writing of a futures contract has the effect of hedging the taxpayer's long position attributable to the holding of the physical stocks, resulting in an offsetting short position.
 The pricing of an SPI Futures contract is based upon the value of the index at a particular time, adjusted downward to reflect a reduction in the index as a result of shares going ex-dividend over the course of the contract. As the consideration received in respect of the sale of the futures contract is influenced by dividends that may be received in respect of the physical portfolio of shares represented on the index, a related payment under paragraph 160APHN(3)(b) of the ITAA 1936 will be taken to have been made if it can be demonstrated that a close correlation exists between the shares comprising the index, and the physical holding. This is supported by paragraph 4.105 of the Explanatory Memorandum to Taxation Laws Amendment Act (No. 2) 1999.
 Therefore, the larger the absolute value of a derivative's delta in relation to a share, the greater will be its sensitivity or correlation to any movement in the price of the underlying share. Accordingly, the larger the absolute value of the delta, the closer will be the correlation between the underlying physical shares and the shares represented in the SPI Futures contract.
 Having regard to the net delta of the taxpayer's total investment portfolio (as well as the investment portfolios managed by each manager), the extent of the divergence between the shares represented by the index and the physical holding (or any part of it), and all the surrounding circumstances, there is no related payment in respect of the SPI Futures contract. This conclusion is consistent with the Explanatory Memorandum to Taxation Laws Amendment Act (No. 2) 1999, at paragraph 4.104, which suggests that a material diminution in risk amounts to a sufficiently close correlation and when accompanied by the passing of the benefit (as defined in subsection 160APHN(3) of the ITAA 1936) associated with a dividend, would constitute a related payment.
 This conclusion is reliant on the exposure being constantly measured.
-Date of decision:
-  24 February 2005
-
-Year of income:
-  Year ended 30 June 2005
-
-Legislative References:
-
-Income Tax Assessment Act 1936   section 160APHN   subsection 160APHN(2)   subsection 160APHN(3)   subsection 160APHN(6)   section 160APHO
-Income Tax Assessment Act 1997   paragraph 207-145(1)(a)
-
-Other References:
-
- Explanatory Memorandum to the Taxation Laws Amendment Act (No.2) 1999
-
-Keywords
-
-Financial derivatives
- Franking credits
- Futures
- Imputation system
-
-Siebel/TDMS Reference Number:
-  4428960
-
-Business Line:
-  Public Groups and International
-
-Date of publication:
-  8 April 2005
-
-ISSN:
- 1445-2782
+Date of decision: 24 February 2005 Year of income: Year ended 30 June 2005 Legislative References: Income Tax Assessment Act 1936 section 160APHN subsection 160APHN(2) subsection 160APHN(3) subsection 160APHN(6) section 160APHO
+Income Tax Assessment Act 1997 paragraph 207-145(1)(a) Other References: Explanatory Memorandum to the Taxation Laws Amendment Act (No.2) 1999 Keywords Financial derivatives Franking credits Futures Imputation system Siebel/TDMS Reference Number: 4428960 Business Line: Public Groups and International Date of publication: 8 April 2005 ISSN: 1445-2782
