@@ -444,12 +444,15 @@ def main() -> int:
         rep = run_domain(d, args.sample_size, seed, args.verbose, baseline)
         all_reports.append(rep)
         new_vs_base = rep.get("new_critical_vs_baseline", 0)
-        status = "FAIL" if rep["critical_rate"] > args.threshold else "PASS"
+        # Cosmetic defects count as errors: total error rate = critical + cosmetic.
+        total_rate = rep["critical_rate"] + rep["cosmetic_rate"]
+        status = "FAIL" if total_rate > args.threshold else "PASS"
         if status == "FAIL":
             fail = True
         print(f"\n[{d}] {status}  pop={rep['population']} sample={rep['sample_size']} "
               f"critical_files={rep['critical_files']} ({rep['critical_rate']:.1%}) "
-              f"cosmetic_files={rep['cosmetic_files']} ({rep['cosmetic_rate']:.1%})"
+              f"cosmetic_files={rep['cosmetic_files']} ({rep['cosmetic_rate']:.1%}) "
+              f"TOTAL_ERROR_RATE={total_rate:.1%}"
               + (f"  NEW_CRITICAL_VS_BASELINE={new_vs_base}" if baseline else ""))
         if rep["by_check"]:
             for k, v in sorted(rep["by_check"].items(), key=lambda x: -x[1]):
