@@ -77,6 +77,33 @@ def ruling_label(rid):
     return rid.replace("_", " ")
 
 
+# Public-ruling citation forms found inline in private ruling text
+# (spec §3 `consistent_with`): TR/TD/PCG/LCG/PS LA/CR/IT/GSTR/ATOID/PR/SGR/TA/MT
+# + year/number. IT is the odd one out (no year — "IT 2621").
+_PUBLIC_RULING_RE = re.compile(
+    r"\b((?:PS LA)|TR|TD|PCG|LCG|CR|GSTR|ATOID|PR|SGR|TA|MT)\s+(\d{4})/(\d+)\b"
+    r"|\bIT\s+(\d{3,4})\b"
+)
+
+
+def extract_public_ruling_refs(text: str) -> list[str]:
+    """Normalise inline public-ruling citations to node labels.
+
+    'TR 2025/1', 'td 2024/2' -> 'TR 2025/1', 'TD 2024/2'
+    'PS LA 2005/24'         -> 'PS LA 2005/24'
+    'IT 2621'               -> 'IT 2621'
+    """
+    if not text:
+        return []
+    out: list[str] = []
+    for m in _PUBLIC_RULING_RE.finditer(text):
+        if m.group(1):
+            out.append(f"{m.group(1).upper()} {m.group(2)}/{m.group(3)}")
+        else:
+            out.append(f"IT {m.group(4)}")
+    return out
+
+
 class Graph:
     """Accumulates nodes/edges by canonical key, then bulk-loads."""
 
@@ -386,6 +413,7 @@ def _load_private_rulings():
             continue
         applies = []
         cites = []
+        consistent_with: list[str] = []
         if is_ok:
             for ref in d.get("legislation_refs_llm", []) or []:
                 r = _parse_leg_ref(ref)
@@ -404,6 +432,12 @@ def _load_private_rulings():
                     stats["case"] += 1
                 else:
                     stats["case_dropped"] += 1
+            # inline public-ruling citations → consistent_with (spec §3):
+            # private ruling text references a public ruling it aligns with.
+            for field in ("formatted_text", "reasons_for_decision", "facts"):
+                for label in extract_public_ruling_refs(str(d.get(field) or "")):
+                    if label not in consistent_with:
+                        consistent_with.append(label)
         # regex refs are deterministic — use them even when the LLM pass failed
         for ref in d.get("relevant_legislation", []) or []:
             r = _parse_leg_ref(ref)
@@ -422,7 +456,8 @@ def _load_private_rulings():
                 stats["case"] += 1
             else:
                 stats["case_dropped"] += 1
-        yield {"authnum": authnum, "applies": applies, "cites": cites}
+        yield {"authnum": authnum, "applies": applies, "cites": cites,
+               "consistent_with": consistent_with}
     print(f"  private rulings: {stats['ok']}/{stats['files']} ok, {stats['err']} err "
           f"| leg edges {stats['leg']} (skip div {stats['leg_skip_div']}, unparsed {stats['leg_unparsed']}) "
           f"| case edges {stats['case']} (dropped {stats['case_dropped']})")
@@ -430,6 +465,7 @@ def _load_private_rulings():
 
 def load_private_rulings(g):
     n = 0
+    cw_edges = 0
     for r in _load_private_rulings():
         authnum = r["authnum"]
         pk = g.node(f"private_ruling:EV/{authnum}", "private_ruling", f"EV/{authnum}",
@@ -438,8 +474,15 @@ def load_private_rulings(g):
             g.edge(pk, g.section(act, sec), "applies", authnum, method)
         for ck, method in r["cites"]:
             g.edge(pk, g.case(ck), "cites", authnum, method)
+        # consistent_with targets must already exist as public ruling nodes
+        # (g.ruling() would create phantoms for out-of-corpus citations)
+        for label in r["consistent_with"]:
+            rk = f"public_ruling:{label}"
+            if rk in g.nodes:
+                g.edge(pk, rk, "consistent_with", authnum, "regex")
+                cw_edges += 1
         n += 1
-    print(f"  private ruling nodes: {n}")
+    print(f"  private ruling nodes: {n}, consistent_with edges: {cw_edges}")
 
 
 # ---------------------------------------------------------------------- load

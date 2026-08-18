@@ -210,9 +210,13 @@ The critical quality gate. Without it the graph fragments: "s 118-20",
 - Rulings: `TR|TD|PCG|LCG|PS LA|CR|IT|GSTR|ATOID|EV` series patterns +
   year/number; private rulings already carry authnum.
 - LLM mop-up pass on ambiguous strings (cheap DeepSeek batch) BACKSTOPS
-  the regex pipeline (`resolve_act()` in build_citation_index.py): only
-  strings regex leaves unresolved or ambiguous (multi-act matches). Output
-  is a key mapping table, stored in data/, reviewed once, cached.
+  the regex pipeline (`_parse_leg_ref` / `_case_key` in
+  `pipeline/graph_etl.py`): only strings regex leaves unresolved or
+  ambiguous (multi-act matches). Output is a key mapping table
+  (`data/entity_alias_map.json`, built by `pipeline/entity_backstop.py`
+  collect/local/map/validate stages), reviewed once, cached, and served at
+  runtime by `backend/services/graph_alias.py` (search `aliases` field +
+  `/api/graph/data?ref=`).
 
 ## 8. Community detection + centrality (DEFERRED to v2)
 
@@ -232,12 +236,11 @@ The critical quality gate. Without it the graph fragments: "s 118-20",
    legislation refs + case refs + inline public-ruling refs (mop_up
    enrichment output)
 2. Public rulings (11,932 in rulings_list.json): nodes + edges from
-   **ruling_section_index.json** (10,410 rulings → act/section pairs) —
-   NOTE: `citation_index.json` is currently EMPTY (2 bytes) and its build
-   script (`pipeline/build_citation_index.py`) points at three deleted
-   directories (asic-scraper/cases_filtered_v2, cadena-knowledge-MCP/
-   data/rulings, ato_rulings). Re-point the script before this step can
-   run; `ruling_section_index.json` is the real source today.
+   **ruling_section_index.json** (10,410 rulings → act/section pairs).
+   `citation_index.json` is now populated (7.8 MB, built 2026-08) and
+   consumed by `load_citation_index()` in `pipeline/graph_etl.py`
+   (applies/interpreted_by/considered_in edges) alongside
+   `ruling_section_index.json`.
 3. Cases (~8.5k): nodes + edges from case_section_refs.json,
    section_case_index.json; follows/distinguishes via LLM pass (v2)
 4. Commentary: nodes per chapter; edges via smartlink_index.json +

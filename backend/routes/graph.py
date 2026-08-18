@@ -50,6 +50,7 @@ _EDGE_LABELS = {
     "considered_in": "considered in",
     "explained_in": "explained in",
     "defines": "defines",
+    "consistent_with": "consistent with",
 }
 
 # Node types we never expand through — private rulings are anonymous leaves.
