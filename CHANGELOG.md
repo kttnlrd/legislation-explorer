@@ -6,6 +6,7 @@
 - **Path queries** — `GET /api/graph/path?from=&to=` bidirectional BFS with typed hops, hop cap 10, frontier cap 25k (recursive-CTE approach rejected: hub blow-up).
 - **Entity resolution backstop** — deterministic local resolution + DeepSeek batch mapping for 26,990 unparsed legislation refs across 57,608 private rulings; resumable checkpoints; 21,548 refs mapped, 3,295 flagged ambiguous, 13,041 unresolved (honest statuses, no phantom edges).
 - **Case citation crosswalk** — `data/case_crosswalk.json` maps 34 neutral HCA citations to reporter-format graph keys (court-type + year-verified from corpus); old cases now resolve.
+- **Alias map wired into runtime** — `backend/services/graph_alias.py` bridges `entity_alias_map.json` into the live service: `/api/search` probes the query + result fields and surfaces resolved keys under an `aliases` field (e.g. "FBTAA section 49" → `section:fbt-1986:49` with its graph block); `/api/graph/data` accepts `ref=` as an alternative to type+params. Keys verified against graph.db before returning — no phantoms. G6: 11 tests.
 
 **Bugs fixed**
 - **G4 phantom keys** — `_map_case_ref` marked party-name case refs as `mapped` without checking the key existed in graph.db (75 keys, 107 refs affected). Now every mapped key is verified against the graph, with neutral→reporter crosswalk fallback.

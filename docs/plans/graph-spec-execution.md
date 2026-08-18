@@ -107,6 +107,15 @@
 
 ✅ **G5 PASSED 2026-08-18** — verifier extended with Graph API section (orphan edges, index-vs-SQL sample, BFS caps on hub, hub-to-hub <2s, alias-map resolution): 38/38. `validate_graph.py` 6/6. Full suite 300 passed (2 pre-existing collection errors excluded). CHANGELOG 2.8.2 written.
 
+## Phase 6 — Alias map wired into runtime (follow-up, 0.5 day)
+
+**Build**
+1. `backend/services/graph_alias.py` — lazy alias-map lookup (exact + case/whitespace-normalised), graph.db key verification (no phantoms), crosswalk translation for neutral case citations
+2. `/api/search` — probe raw query + result citation/title/name fields; merged keys get neighbourhood blocks; unresolved keys surface under top-level `aliases` (omitted when empty)
+3. `/api/graph/data` — new `ref=` param resolves raw refs to canonical keys (alternative to type+params); 404 on unresolvable; existing callers untouched
+
+**Gate G6** — ✅ PASSED: 11 new tests (150-ref sample resolves, FBTAA + crosswalk case, search + graph-data end-to-end, missing-map tolerance). Full suite 311 passed. Live smoke: `?q=FBTAA section 49` → aliases `section:fbt-1986:49` (65 applies); `?ref=Glenn v FC of Land Tax` → case `(1915) 20 CLR 490`, 34 nodes; garbage ref → 404. Committed `c600d9228` (DeepSeek v4-pro driven).
+
 ---
 
 ## Sequencing rationale
