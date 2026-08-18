@@ -18,7 +18,7 @@
 | Search graph field (§6.1) | ✅ done 2026-08-17 (2a62d6d4f) — materialised `neighborhood_index` (133k rows) pulled forward from §9.8 when on-the-fly counts blew the 50ms gate (145ms → <50ms); G1 5/5 |
 | LLM serialization (§6.2) | ✅ done 2026-08-18 — `backend/services/graph_serialize.py`; budgets 80/400 verified (hub 66/265); `\|` separator (commas/semicolons appear in real labels); neighborhood_index gained `target_type` for phrase accuracy; `GET /api/graph/serialize` endpoint; G2 11/11 |
 | Path queries (§6.3) | ✅ done 2026-08-18 — `backend/services/graph_path.py` bidirectional BFS (recursive CTE replaced: hub blow-up, spec §4 guard); batched level expansion, frontier cap 25k, hop cap 10; `GET /api/graph/path`; G3 8/8 — hub-to-hub 74ms |
-| Entity resolution LLM backstop (§7) | ❌ |
+| Entity resolution LLM backstop (§7) | ✅ done 2026-08-18 — collect/local/map/validate stages (`pipeline/entity_backstop.py`); deterministic local + DeepSeek batch (stdlib urllib client, resumable checkpoints, `max_tokens=8000`); G4 2845/2845 mapped keys resolve; `data/case_crosswalk.json` (34 neutral→reporter, court+year verified) fixes phantom keys; committed `70d2785ea` + `df03399ac` |
 | Exemplar computation (§9.8) | ❌ (folded into §6.1 unless perf fails) |
 
 ## Working-tree hazard
@@ -104,6 +104,8 @@
 3. Changelog entry ("New features" / "Bugs fixed" sections)
 
 **Final gate G5** — everything green, no regressions, all committed.
+
+✅ **G5 PASSED 2026-08-18** — verifier extended with Graph API section (orphan edges, index-vs-SQL sample, BFS caps on hub, hub-to-hub <2s, alias-map resolution): 38/38. `validate_graph.py` 6/6. Full suite 300 passed (2 pre-existing collection errors excluded). CHANGELOG 2.8.2 written.
 
 ---
 

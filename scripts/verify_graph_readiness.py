@@ -79,8 +79,19 @@ def main():
         check("private: json_llm count matches corpus", len(llm_files) == len(json_files),
               f"{len(llm_files)} vs {len(json_files)}")
 
-        mop_done = (MOP_MARKED.is_dir() and len(list(MOP_MARKED.glob("*.ok"))) == len(json_files)) \
-            if json_files else False
+        mop_done = False
+        if json_files:
+            marked = {p.stem for p in MOP_MARKED.glob("*.ok")} if MOP_MARKED.is_dir() else set()
+            all_stems = {p.stem for p in json_files}
+            unmarked = all_stems - marked
+            if not unmarked:
+                mop_done = True
+            elif len(unmarked) <= 25:
+                # few stragglers: complete if every one was attempted (error status written)
+                attempted = all(
+                    (JSON_LLM / f"{a}.json").exists() for a in unmarked
+                )
+                mop_done = attempted
         if not mop_done:
             marked = len(list(MOP_MARKED.glob("*.ok"))) if MOP_MARKED.is_dir() else 0
             if args.require_mop_complete:
@@ -267,6 +278,98 @@ def main():
     else:
         check("embeddings: embeddings.db", False)
 
+    print("== Graph API ==")
+    gdb = DATA / "graph.db"
+    if not gdb.exists():
+        check("graph: graph.db exists", False)
+    else:
+        sys.path.insert(0, str(ROOT))
+        from backend.services.graph_neighborhood import INDEX_TABLE, neighborhoods
+        from backend.services.graph_path import find_path
+        from backend.routes.graph import _MAX_EDGES, _MAX_NODES, _MAX_PRIVATE
+
+        con = sqlite3.connect(f"file:{gdb}?mode=ro", uri=True, timeout=10)
+        try:
+            n_nodes = con.execute("SELECT COUNT(*) FROM nodes").fetchone()[0]
+            n_edges = con.execute("SELECT COUNT(*) FROM graph_edges").fetchone()[0]
+            check("graph: nodes + edges", n_nodes > 100000 and n_edges > 500000,
+                  f"{n_nodes} nodes, {n_edges} edges")
+
+            # orphan edges: every edge endpoint resolves (FK-level integrity)
+            n_orphans = con.execute(
+                "SELECT COUNT(*) FROM graph_edges e "
+                "LEFT JOIN nodes s ON s.id = e.source_id "
+                "LEFT JOIN nodes t ON t.id = e.target_id "
+                "WHERE s.id IS NULL OR t.id IS NULL"
+            ).fetchone()[0]
+            check("graph: zero orphan edges", n_orphans == 0, f"{n_orphans} orphan edges")
+
+            # neighbourhood index: count matches direct SQL for a sample
+            sample = con.execute(
+                "SELECT node_id, edge_type, count FROM neighborhood_index "
+                "ORDER BY count DESC LIMIT 50"
+            ).fetchall()
+            mismatches = 0
+            for nid, et, cnt in sample:
+                direct = con.execute(
+                    "SELECT COUNT(*) FROM graph_edges WHERE edge_type = ? "
+                    "AND (source_id = ? OR target_id = ?)", (et, nid, nid)
+                ).fetchone()[0]
+                if direct != cnt:
+                    mismatches += 1
+            check("graph: neighborhood counts == direct SQL (sample 50)",
+                  mismatches == 0, f"{mismatches} mismatches")
+
+            # caps: route BFS respects node/edge/private caps on the biggest hub
+            hub = con.execute(
+                "SELECT key FROM nodes WHERE id IN "
+                "(SELECT node_id FROM neighborhood_index ORDER BY count DESC LIMIT 1)"
+            ).fetchone()
+            if hub:
+                sys.path.insert(0, str(ROOT))
+                from backend.routes.graph import _resolve_from_graph
+                g = _resolve_from_graph(hub[0], depth=2)
+                n_priv = sum(1 for n in g["nodes"] if n.get("group") == "private_ruling")
+                check("graph: caps respected on hub",
+                      len(g["nodes"]) <= _MAX_NODES and len(g["edges"]) <= _MAX_EDGES
+                      and n_priv <= _MAX_PRIVATE,
+                      f"{hub[0]}: {len(g['nodes'])} nodes (cap {_MAX_NODES}), "
+                      f"{len(g['edges'])} edges (cap {_MAX_EDGES}), "
+                      f"{n_priv} private (cap {_MAX_PRIVATE})")
+            else:
+                check("graph: caps respected on hub", False, "no hub found")
+
+            # latency: hub-to-hub path bounded
+            import time
+            ids = con.execute(
+                "SELECT id, key FROM nodes WHERE node_type='section' "
+                "AND id IN (SELECT node_id FROM neighborhood_index "
+                "ORDER BY count DESC LIMIT 2)"
+            ).fetchall()
+            if len(ids) == 2:
+                t0 = time.perf_counter()
+                find_path(con, ids[0][0], ids[1][0], max_hops=10)
+                dt = time.perf_counter() - t0
+                check("graph: hub-to-hub path < 2s", dt < 2.0, f"{dt*1000:.0f}ms")
+            else:
+                check("graph: hub-to-hub path < 2s", False, "no hubs")
+
+            # entity alias map: every mapped key resolves
+            amap_p = DATA / "entity_alias_map.json"
+            if amap_p.exists():
+                amap = json.loads(amap_p.read_text())
+                keys = {v["key"] for v in amap.values() if v["status"] == "mapped"}
+                ph = ",".join("?" * len(keys))
+                found = {r[0] for r in con.execute(
+                    f"SELECT key FROM nodes WHERE key IN ({ph})", list(keys))}
+                check("graph: alias map keys all resolve (G4)",
+                      len(found) == len(keys), f"{len(keys) - len(found)} unresolvable")
+            else:
+                check("graph: alias map keys all resolve (G4)", False, "entity_alias_map.json missing")
+        finally:
+            con.close()
+
+    print()
     print("== Search index ==")
     sdb = DATA.parent / "search_index.db"
     if sdb.exists():

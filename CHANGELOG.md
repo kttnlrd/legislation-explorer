@@ -1,3 +1,19 @@
+## 2.8.2 — 18 Aug 2026
+
+**New features**
+- **Graph search field** — search results now carry a `graph` neighbourhood block (per-edge-type counts + top-3 related nodes) via a materialised `neighborhood_index` (133k rows, <50ms).
+- **LLM serialization endpoint** — `GET /api/graph/serialize?key=&depth=` returns token-lean blocks (80/400 budgets) for feeding graph context to LLMs; `|` separators round-trip labels containing commas.
+- **Path queries** — `GET /api/graph/path?from=&to=` bidirectional BFS with typed hops, hop cap 10, frontier cap 25k (recursive-CTE approach rejected: hub blow-up).
+- **Entity resolution backstop** — deterministic local resolution + DeepSeek batch mapping for 26,990 unparsed legislation refs across 57,608 private rulings; resumable checkpoints; 21,548 refs mapped, 3,295 flagged ambiguous, 13,041 unresolved (honest statuses, no phantom edges).
+- **Case citation crosswalk** — `data/case_crosswalk.json` maps 34 neutral HCA citations to reporter-format graph keys (court-type + year-verified from corpus); old cases now resolve.
+
+**Bugs fixed**
+- **G4 phantom keys** — `_map_case_ref` marked party-name case refs as `mapped` without checking the key existed in graph.db (75 keys, 107 refs affected). Now every mapped key is verified against the graph, with neutral→reporter crosswalk fallback.
+- **DeepSeek batch truncation** — 400-ref batches with `max_tokens=2000` silently truncated JSON mid-object and dropped entire batches; raised to 8000 + failure-tail logging.
+- **Background interpreter mismatch** — background processes resolved `/usr/bin/python3.12` without the `openai` SDK; batch client rewritten on stdlib `urllib` (no SDK dependency).
+- **tiktoken optional** — serializer no longer hard-requires tiktoken in service envs (conservative chars/3 fallback; caps never exceeded).
+- **GraphModal private ruling colour** — `#e84393` for private rulings.
+
 ## 2.8.1 — 15 Aug 2026
 
 - **Legislation table rendering** — pipe-table detection + GFM rendering added to all tax act parsers (`parse_itaa97.py`, `parse_itaa36.py`, `parse_taa53.py`, `parse_gst1999.py`). Tables now render instead of collapsing to run-on text. Threshold: 3+ columns, 2+ wide gaps.
