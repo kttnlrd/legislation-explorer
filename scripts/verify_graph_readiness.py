@@ -134,7 +134,10 @@ def main():
             if an in authnums:
                 dup_authnums += 1
             authnums.add(an)
-            if not re.fullmatch(r"\d{13}", an):
+            # 12-digit values are source-faithful: the ATO scrape itself
+            # carries 5 rulings with 12-digit EV numbers (e.g. 300017950374),
+            # confirmed in manifest.jsonlines. 13-digit is the norm, not a law.
+            if not re.fullmatch(r"\d{12,13}", an):
                 bad_authnums += 1
             if d.get("mop_status") == "ok":
                 for ref in d.get("legislation_refs_llm", []) or []:
@@ -162,7 +165,7 @@ def main():
               f"{ok_files} ok, {err_files} err in {n}")
         check("private: err rate < 1%", err_rate < 0.01,
               f"{err_rate * 100:.2f}% ({err_files}/{n}) — err rulings get regex-ref nodes only")
-        check("private: authnums unique + 13-digit", dup_authnums == 0 and bad_authnums == 0,
+        check("private: authnums unique + 12-13 digit", dup_authnums == 0 and bad_authnums == 0,
               f"{dup_authnums} dup, {bad_authnums} bad format")
         total_leg = leg_parsed + leg_skip + leg_unparsed
         check("private: legislation refs parse rate", total_leg > 0 and leg_unparsed / total_leg < 0.25,
