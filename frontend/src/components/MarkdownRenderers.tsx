@@ -5,6 +5,30 @@ type NavigateFn = (act: string, section: string, anchor?: string) => void
 type NavigateRulingFn = (citation: string) => void
 export type RenderLinkFn = (href?: string, children?: React.ReactNode) => React.ReactNode | null
 
+// Subparagraph hierarchy from the leading **(n)** marker in a paragraph:
+//   **(1)** digits -> level 0 (flush)
+//   **(a)** single lowercase letter -> level 1
+//   **(i)** roman numeral -> level 2
+//   **(A)** single uppercase letter -> level 3
+const _ROMAN = /^(i|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii|xiii|xiv|xv|xvi|xvii|xviii|xix|xx)$/i
+
+export function subparagraphLevel(children: React.ReactNode): number {
+  const text = React.Children.toArray(children)
+    .map((c) => (typeof c === 'string' ? c : (c as React.ReactElement).props?.children))
+    .flat()
+    .join('')
+    .replace(/<[^>]*>/g, ' ') // drop raw anchor tags like <a id="s333-1"></a>
+    .trim()
+  const m = text.match(/^\(([^)]{1,6})\)/)
+  if (!m) return 0
+  const tok = m[1]
+  if (/^\d+$/.test(tok)) return 0
+  if (_ROMAN.test(tok)) return 2
+  if (/^[a-z]$/.test(tok)) return 1
+  if (/^[A-Z]$/.test(tok)) return 3
+  return 0
+}
+
 export function createMarkdownComponents(
   isMobile: boolean,
   act: string,
@@ -33,9 +57,15 @@ export function createMarkdownComponents(
         {children}
       </h3>
     ),
-    p: ({ children }: { children?: React.ReactNode }) => (
-      <p style={{ marginBottom: 12, color: COLORS.text }}>{children}</p>
-    ),
+    p: ({ children }: { children?: React.ReactNode }) => {
+      const level = subparagraphLevel(children)
+      const indent = level * (isMobile ? 16 : 20)
+      return (
+        <p style={{ marginBottom: 12, color: COLORS.text, marginLeft: indent }}>
+          {children}
+        </p>
+      )
+    },
     a: ({ children, href }: { children?: React.ReactNode; href?: string }) => {
       if (renderLink) {
         const popover = renderLink(href, children)
