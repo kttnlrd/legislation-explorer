@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import logging
 import re
+import functools
 
 from fastapi import HTTPException, APIRouter
 
@@ -174,17 +175,7 @@ def get_section(act: str, section: str):
     if section.startswith('s') and len(section) > 1 and section[1].isdigit():
         section = section[1:]
 
-    fm, body = get_act_section_content(act, section)
-
-    # Strip scraped markup FIRST (CDN-0094) — clean artifacts before processors inject anchors
-    body = strip_scraped_markup(body)
-
-    # Then run definition/formatters — these inject <a id> anchors that survive cleanup
-    body = format_definition_terms(body, section, act)
-    body = link_definitions(body, act)
-    body = link_section_references(body, act)
-    body = link_cross_act_references(body, act)
-    body = auto_link_definitions(body, act, section)
+    fm, body = _render_section(act, section)
 
     result = {"frontmatter": fm, "body": body}
 
@@ -199,6 +190,25 @@ def get_section(act: str, section: str):
             pass
 
     return result
+
+
+@functools.lru_cache(maxsize=None)
+def _render_section(act: str, section: str) -> tuple[dict, str]:
+    """Render a section's body (definition/formatter passes) — pure function of
+    (act, section), so cache it. Frontmatter and body are read-only downstream;
+    callers never mutate them."""
+    fm, body = get_act_section_content(act, section)
+
+    # Strip scraped markup FIRST (CDN-0094) — clean artifacts before processors inject anchors
+    body = strip_scraped_markup(body)
+
+    # Then run definition/formatters — these inject <a id> anchors that survive cleanup
+    body = format_definition_terms(body, section, act)
+    body = link_definitions(body, act)
+    body = link_section_references(body, act)
+    body = link_cross_act_references(body, act)
+    body = auto_link_definitions(body, act, section)
+    return fm, body
 
 
 def _get_insolvency_chapter_section(section: str):

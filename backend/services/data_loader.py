@@ -885,6 +885,7 @@ def find_section_path(act: str, section: str) -> str | None:
     return None
 
 
+@functools.lru_cache(maxsize=None)
 def get_act_section_content(act: str, section: str) -> tuple[dict, str]:
     section_path = find_section_path(act, section)
     # If no exact match in tree, try case-insensitive glob for markdown file
