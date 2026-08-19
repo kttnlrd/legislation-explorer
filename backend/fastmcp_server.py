@@ -1033,16 +1033,24 @@ async def list_acts() -> str:
 
 
 @mcp.tool(structured_output=False)
-async def get_act_tree(act: str, depth: str = "sections", part: str | None = None) -> str:
+async def get_act_tree(act: str, depth: str = "sections", part: str | None = None,
+                       offset: int = 0) -> str:
     """Get the structure of an act (parts, divisions, sections).
 
     depth: 'parts' returns only parts (fast), 'divisions' includes divisions,
            'sections' (default) includes all sections.
 
-    part: Optional part ID to scope the result to one part (e.g. 'part-1-1').
+    part: Optional part ID to scope the result to one part (e.g. '1-1').
           Required for large acts at depth='sections' — the full ITAA 1997
           tree is ~1MB and burns tokens. When part is given, only that part's
           sections are returned.
+
+    offset: Section offset within the current scope (whole act, or the part
+            when part= is set). Pages at 400 sections; pass the previous
+            response's offset + sections_returned (or the next_offset hint)
+            to read further. Largest parts exceed 400 sections (ITAA 1997
+            Part 4-5 = 489, ITAA 1936 Part III = 471) — offset is the only
+            way to reach their tail sections.
     """
     try:
         tree = load_tree(act)
@@ -1054,35 +1062,76 @@ async def get_act_tree(act: str, depth: str = "sections", part: str | None = Non
             "format_hint": "Valid act ids via list_acts (e.g. itaa-1997, itaa-1936, gst-1999, taa-1953).",
         }, indent=2)
 
-    def _prune_sections(secs: list[dict]) -> list[dict]:
-        return [{"id": s.get("id"), "title": s.get("title")} for s in secs]
+    def _section_rows(parts: list[dict]) -> list[tuple]:
+        """Flatten (part, division, subdivision, section) rows in tree order."""
+        rows = []
+        for p in parts:
+            pid, ptitle = p.get("id"), p.get("title")
+            for s in p.get("sections", []):
+                rows.append((pid, ptitle, None, None, None, None, s.get("id"), s.get("title")))
+            for d in p.get("divisions", []):
+                did, dtitle = d.get("id"), d.get("title")
+                for s in d.get("sections", []):
+                    rows.append((pid, ptitle, did, dtitle, None, None, s.get("id"), s.get("title")))
+                for sub in d.get("subdivisions", []):
+                    sid, stitle = sub.get("id"), sub.get("title")
+                    for s in sub.get("sections", []):
+                        rows.append((pid, ptitle, did, dtitle, sid, stitle, s.get("id"), s.get("title")))
+        return rows
+
+    def _rebuild(rows: list[tuple]) -> list[dict]:
+        """Reconstruct pruned part/division/subdivision hierarchy from a row slice."""
+        parts: dict = {}
+        order: list[str] = []
+        for pid, ptitle, did, dtitle, sid, stitle, secid, sectitle in rows:
+            if pid not in parts:
+                parts[pid] = {"id": pid, "title": ptitle, "sections": [], "divisions": {}}
+                order.append(pid)
+            p = parts[pid]
+            if did is None:
+                p["sections"].append({"id": secid, "title": sectitle})
+                continue
+            if did not in p["divisions"]:
+                p["divisions"][did] = {"id": did, "title": dtitle, "sections": [], "subdivisions": {}}
+            d = p["divisions"][did]
+            if sid is None:
+                d["sections"].append({"id": secid, "title": sectitle})
+                continue
+            if sid not in d["subdivisions"]:
+                d["subdivisions"][sid] = {"id": sid, "title": stitle, "sections": []}
+            d["subdivisions"][sid]["sections"].append({"id": secid, "title": sectitle})
+        out = []
+        for pid in order:
+            p = parts[pid]
+            for d in p["divisions"].values():
+                d["subdivisions"] = list(d["subdivisions"].values())
+            p["divisions"] = list(p["divisions"].values())
+            out.append(p)
+        return out
+
+    PAGE = 400
+    offset = max(0, offset)
 
     if part:
-        for p in tree.get("parts", []):
-            if p.get("id") == part:
-                pruned = {
-                    "act": tree.get("act", act),
-                    "depth": f"sections (part: {part})",
-                    "parts": [{
-                        "id": p.get("id"),
-                        "title": p.get("title"),
-                        "sections": _prune_sections(p.get("sections", [])),
-                        "divisions": [{
-                            "id": d.get("id"),
-                            "title": d.get("title"),
-                            "sections": _prune_sections(d.get("sections", [])),
-                            "subdivisions": [{
-                                "id": s.get("id"),
-                                "title": s.get("title"),
-                                "sections": _prune_sections(s.get("sections", [])),
-                            } for s in d.get("subdivisions", [])],
-                        } for d in p.get("divisions", [])],
-                    }],
-                }
-                return json.dumps(pruned, indent=2)
-        return json.dumps({"error": f"Part '{part}' not found in {act}.",
-                           "hint": _GET_INFO_HINT,
-                           "available_parts": [p.get("id") for p in tree.get("parts", [])]}, indent=2)
+        p = next((x for x in tree.get("parts", []) if x.get("id") == part), None)
+        if p is None:
+            return json.dumps({"error": f"Part '{part}' not found in {act}.",
+                               "hint": _GET_INFO_HINT,
+                               "available_parts": [x.get("id") for x in tree.get("parts", [])]}, indent=2)
+        rows = _section_rows([p])
+        page = rows[offset:offset + PAGE]
+        truncated = offset + PAGE < len(rows)
+        return json.dumps({
+            "act": tree.get("act", act),
+            "depth": f"sections (part: {part})",
+            "sections_total": len(rows),
+            "sections_returned": len(page),
+            "offset": offset,
+            "truncated": truncated,
+            "next_offset": offset + len(page) if truncated else None,
+            "truncation_note": ("Use offset=<n> to page further.") if truncated else None,
+            "parts": _rebuild(page),
+        }, indent=2)
 
     if depth == "parts":
         pruned = {
@@ -1112,59 +1161,24 @@ async def get_act_tree(act: str, depth: str = "sections", part: str | None = Non
             pruned["parts"].append(part_obj)
         return json.dumps(pruned, indent=2)
 
-    # depth == "sections" — prune paths (not needed by LLM) and cap output.
-    # Full ITAA 1997 tree is ~1.1MB; cap at 400 sections with a truncation flag.
-    total_sections = 0
-    pruned_parts = []
-    truncated = False
-    for p in tree.get("parts", []):
-        pp = {"id": p.get("id"), "title": p.get("title"), "sections": [], "divisions": []}
-        for s in p.get("sections", []):
-            if total_sections >= 400:
-                truncated = True
-                break
-            pp["sections"].append({"id": s.get("id"), "title": s.get("title")})
-            total_sections += 1
-        if truncated:
-            break
-        for d in p.get("divisions", []):
-            pd = {"id": d.get("id"), "title": d.get("title"), "sections": [], "subdivisions": []}
-            for s in d.get("sections", []):
-                if total_sections >= 400:
-                    truncated = True
-                    break
-                pd["sections"].append({"id": s.get("id"), "title": s.get("title")})
-                total_sections += 1
-            if truncated:
-                break
-            for sub in d.get("subdivisions", []):
-                ps = {"id": sub.get("id"), "title": sub.get("title"), "sections": []}
-                for s in sub.get("sections", []):
-                    if total_sections >= 400:
-                        truncated = True
-                        break
-                    ps["sections"].append({"id": s.get("id"), "title": s.get("title")})
-                    total_sections += 1
-                if truncated:
-                    break
-                pd["subdivisions"].append(ps)
-            if truncated:
-                break
-            pp["divisions"].append(pd)
-        if truncated:
-            break
-        pruned_parts.append(pp)
-
+    # depth == "sections" — prune paths (not needed by LLM) and page at 400.
+    # Full ITAA 1997 tree is ~1.1MB; offset walks the rest.
+    rows = _section_rows(tree.get("parts", []))
+    page = rows[offset:offset + PAGE]
+    truncated = offset + PAGE < len(rows)
     return json.dumps({
         "act": tree.get("act", act),
         "compilation_no": tree.get("compilation_no"),
         "compilation_date": tree.get("compilation_date"),
         "depth": "sections",
-        "sections_returned": total_sections,
+        "sections_total": len(rows),
+        "sections_returned": len(page),
+        "offset": offset,
         "truncated": truncated,
-        "truncation_note": ("Use part=<part-id> to scope to one part, or depth='divisions' "
-                            "for structure without sections.") if truncated else None,
-        "parts": pruned_parts,
+        "next_offset": offset + len(page) if truncated else None,
+        "truncation_note": ("Use offset=<n> to page further, or part=<part-id> to scope "
+                            "to one part.") if truncated else None,
+        "parts": _rebuild(page),
     }, indent=2)
 
 
@@ -1540,8 +1554,20 @@ async def insolvency_get_chapter(chapter: int, offset: int = 0,
     selected_text = "\n".join(selected)
     char_capped = False
     if len(selected_text) > max_chars:
+        # Cap at a line boundary so pagination never loses a partial line:
+        # trim back to the last newline inside the budget.
         selected_text = selected_text[:max_chars]
+        nl = selected_text.rfind("\n")
+        if nl != -1:
+            selected_text = selected_text[:nl]
         char_capped = True
+    returned_lines = selected_text.count("\n") + (1 if selected_text else 0)
+    next_offset = None
+    if char_capped and returned_lines > 0:
+        next_offset = offset + returned_lines
+    elif not char_capped and offset + len(selected) < total_lines:
+        # limit (not max_chars) truncated the page — keep paginating
+        next_offset = offset + len(selected)
     return json.dumps({
         "chapter": chapter,
         "title": result.get("title", ""),
@@ -1550,9 +1576,10 @@ async def insolvency_get_chapter(chapter: int, offset: int = 0,
         "offset": offset,
         "limit": limit,
         "total_lines": total_lines,
-        "returned_lines": len(selected),
+        "returned_lines": returned_lines,
         "char_capped": char_capped,
         "max_chars": max_chars,
+        "next_offset": next_offset,
     }, indent=2)
 
 
