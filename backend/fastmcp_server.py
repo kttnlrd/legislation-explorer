@@ -1033,11 +1033,16 @@ async def list_acts() -> str:
 
 
 @mcp.tool(structured_output=False)
-async def get_act_tree(act: str, depth: str = "sections") -> str:
-    """Get the full structure of an act (parts, divisions, sections).
+async def get_act_tree(act: str, depth: str = "sections", part: str | None = None) -> str:
+    """Get the structure of an act (parts, divisions, sections).
 
     depth: 'parts' returns only parts (fast), 'divisions' includes divisions,
            'sections' (default) includes all sections.
+
+    part: Optional part ID to scope the result to one part (e.g. 'part-1-1').
+          Required for large acts at depth='sections' — the full ITAA 1997
+          tree is ~1MB and burns tokens. When part is given, only that part's
+          sections are returned.
     """
     try:
         tree = load_tree(act)
@@ -1048,6 +1053,37 @@ async def get_act_tree(act: str, depth: str = "sections") -> str:
             "hint": _GET_INFO_HINT,
             "format_hint": "Valid act ids via list_acts (e.g. itaa-1997, itaa-1936, gst-1999, taa-1953).",
         }, indent=2)
+
+    def _prune_sections(secs: list[dict]) -> list[dict]:
+        return [{"id": s.get("id"), "title": s.get("title")} for s in secs]
+
+    if part:
+        for p in tree.get("parts", []):
+            if p.get("id") == part:
+                pruned = {
+                    "act": tree.get("act", act),
+                    "depth": f"sections (part: {part})",
+                    "parts": [{
+                        "id": p.get("id"),
+                        "title": p.get("title"),
+                        "sections": _prune_sections(p.get("sections", [])),
+                        "divisions": [{
+                            "id": d.get("id"),
+                            "title": d.get("title"),
+                            "sections": _prune_sections(d.get("sections", [])),
+                            "subdivisions": [{
+                                "id": s.get("id"),
+                                "title": s.get("title"),
+                                "sections": _prune_sections(s.get("sections", [])),
+                            } for s in d.get("subdivisions", [])],
+                        } for d in p.get("divisions", [])],
+                    }],
+                }
+                return json.dumps(pruned, indent=2)
+        return json.dumps({"error": f"Part '{part}' not found in {act}.",
+                           "hint": _GET_INFO_HINT,
+                           "available_parts": [p.get("id") for p in tree.get("parts", [])]}, indent=2)
+
     if depth == "parts":
         pruned = {
             "act": tree.get("act", act),
@@ -1070,12 +1106,66 @@ async def get_act_tree(act: str, depth: str = "sections") -> str:
         for p in tree.get("parts", []):
             if not p.get("id") and not p.get("title"):
                 continue  # skip empty parts
-            part = {"id": p.get("id"), "title": p.get("title"), "divisions": []}
+            part_obj = {"id": p.get("id"), "title": p.get("title"), "divisions": []}
             for d in p.get("divisions", []):
-                part["divisions"].append({"id": d.get("id"), "title": d.get("title")})
-            pruned["parts"].append(part)
+                part_obj["divisions"].append({"id": d.get("id"), "title": d.get("title")})
+            pruned["parts"].append(part_obj)
         return json.dumps(pruned, indent=2)
-    return json.dumps(tree, indent=2)
+
+    # depth == "sections" — prune paths (not needed by LLM) and cap output.
+    # Full ITAA 1997 tree is ~1.1MB; cap at 400 sections with a truncation flag.
+    total_sections = 0
+    pruned_parts = []
+    truncated = False
+    for p in tree.get("parts", []):
+        pp = {"id": p.get("id"), "title": p.get("title"), "sections": [], "divisions": []}
+        for s in p.get("sections", []):
+            if total_sections >= 400:
+                truncated = True
+                break
+            pp["sections"].append({"id": s.get("id"), "title": s.get("title")})
+            total_sections += 1
+        if truncated:
+            break
+        for d in p.get("divisions", []):
+            pd = {"id": d.get("id"), "title": d.get("title"), "sections": [], "subdivisions": []}
+            for s in d.get("sections", []):
+                if total_sections >= 400:
+                    truncated = True
+                    break
+                pd["sections"].append({"id": s.get("id"), "title": s.get("title")})
+                total_sections += 1
+            if truncated:
+                break
+            for sub in d.get("subdivisions", []):
+                ps = {"id": sub.get("id"), "title": sub.get("title"), "sections": []}
+                for s in sub.get("sections", []):
+                    if total_sections >= 400:
+                        truncated = True
+                        break
+                    ps["sections"].append({"id": s.get("id"), "title": s.get("title")})
+                    total_sections += 1
+                if truncated:
+                    break
+                pd["subdivisions"].append(ps)
+            if truncated:
+                break
+            pp["divisions"].append(pd)
+        if truncated:
+            break
+        pruned_parts.append(pp)
+
+    return json.dumps({
+        "act": tree.get("act", act),
+        "compilation_no": tree.get("compilation_no"),
+        "compilation_date": tree.get("compilation_date"),
+        "depth": "sections",
+        "sections_returned": total_sections,
+        "truncated": truncated,
+        "truncation_note": ("Use part=<part-id> to scope to one part, or depth='divisions' "
+                            "for structure without sections.") if truncated else None,
+        "parts": pruned_parts,
+    }, indent=2)
 
 
 @mcp.tool(structured_output=False)
@@ -1420,13 +1510,17 @@ async def insolvency_search(query: str, limit: int = 20) -> str:
 
 @mcp.tool(structured_output=False)
 async def insolvency_get_chapter(chapter: int, offset: int = 0,
-                                  limit: int = 5000) -> str:
+                                  limit: int = 5000,
+                                  max_chars: int = 12000) -> str:
     """Retrieve the full text of a chapter from the Keays Insolvency textbook.
 
     Parameters:
     - chapter: Chapter number (1–21)
     - offset: Line offset to start from (default 0)
     - limit: Maximum number of lines to return (default 5000, max 50000)
+    - max_chars: Hard cap on returned content characters (default 12000).
+      Chapters run ~130K chars — cap keeps token burn down; paginate with
+      offset to read further.
 
     Returns paginated chapter text including section markers like [1.05].
     Use offset and limit to paginate through long chapters; check
@@ -1443,32 +1537,48 @@ async def insolvency_get_chapter(chapter: int, offset: int = 0,
     limit = min(50000, max(1, limit))
     end = offset + limit
     selected = lines[offset:end]
+    selected_text = "\n".join(selected)
+    char_capped = False
+    if len(selected_text) > max_chars:
+        selected_text = selected_text[:max_chars]
+        char_capped = True
     return json.dumps({
         "chapter": chapter,
         "title": result.get("title", ""),
         "slug": result.get("slug", ""),
-        "content": "\n".join(selected),
+        "content": selected_text,
         "offset": offset,
         "limit": limit,
         "total_lines": total_lines,
         "returned_lines": len(selected),
+        "char_capped": char_capped,
+        "max_chars": max_chars,
     }, indent=2)
 
 
 @mcp.tool(structured_output=False)
-async def get_regulatory_guide(rg_number: int) -> str:
+async def get_regulatory_guide(rg_number: int, max_body_length: int = 8000) -> str:
     """Retrieve an ASIC Regulatory Guide with structured summary.
 
     Parameters:
     - rg_number: The RG number (e.g. 1, 104, 140)
+    - max_body_length: Maximum characters for the body text (default 8000).
+      Structured fields (subject, background, ruling, legislation refs) are
+      always returned in full.
 
     Returns the guide's subject, background, ruling, legislation references,
-    cases cited, related RGs, and full body text.
+    cases cited, related RGs, and body text (capped).
     """
     from backend.routes.regulatory_guides import get_regulatory_guide as _get_rg
     import json as _json
     try:
         result = _get_rg(rg_number)
+        body = result.get("body", "")
+        if len(body) > max_body_length:
+            result["body"] = body[:max_body_length] + \
+                f"\n\n... [truncated at {max_body_length} characters]"
+            result["body_truncated"] = True
+            result["body_total_length"] = len(body)
         return _json.dumps(result, indent=2, default=str)
     except Exception as e:
         return _json.dumps({"error": str(e), "hint": _GET_INFO_HINT})
