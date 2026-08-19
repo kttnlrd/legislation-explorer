@@ -17,7 +17,7 @@ source_pdf: "vol03.pdf"
 
 
 <a id="s160ZZZA-1"></a>
-**(1)** If, under section 160ZZZ, an amount is taken, for the purposes of this Act, to have been borrowed (the notional borrowing) in a Australian branches of foreign banks Part IIIB Provisions relating to income tax Division 2 Section 160ZZZA particular currency from a foreign bank by an Australian branch of the bank, the following provisions have effect:
+**(1)** If, under section 160ZZZ, an amount is taken, for the purposes of this  particular currency from a foreign bank by an Australian branch of the bank, the following provisions have effect:
 
 <a id="s160ZZZA-1-a"></a>
 **(a)** at any time (the relevant time) when, in respect of the notional borrowing, an amount (the notional amount of interest) is entered in the branch's accounting records as interest for a period fixed by the bank, interest is taken, for the purposes of this Act, to be incurred by the branch, paid by the branch to the bank, and derived by the bank, in respect of the notional borrowing;

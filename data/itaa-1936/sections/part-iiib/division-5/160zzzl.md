@@ -74,7 +74,7 @@ source_pdf: "vol03.pdf"
 **(b)** it is reasonable to conclude that the foreign bank has hedged or managed all or part of its risk in relation to the notional derivative transaction by entering into actual transactions; then the expenses in respect of the actual transactions are covered by this subsection to the extent (if any) that those expenses do not give rise to foreign income tax deductions. Safe harbour
 
 <a id="s160ZZZL-6"></a>
-**(6)** The deduction is taken for the purposes of paragraph (1)(c) not to exceed the amount worked out under subsection (3) if the foreign bank adopts a recognised transfer pricing methodology in Australian branches of foreign banks Part IIIB Modifications relating to hybrid mismatch rules Division 5 Section 160ZZZN allocating expenditure and income between itself and all its branches.
+**(6)** The deduction is taken for the purposes of paragraph (1)(c) not to exceed the amount worked out under subsection (3) if the foreign bank adopts a recognised transfer pricing methodology in  allocating expenditure and income between itself and all its branches.
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

@@ -21,7 +21,7 @@ Commissioner may retain an amount
 **(1)** The Commissioner may retain an amount that he or she otherwise would have to refund to an entity under section 8AAZLF, if:
 
 <a id="s8AAZLGB-1-a"></a>
-**(a)** the Commissioner reasonably believes that the entity has made a payment as a result of which the entity is, or will be, Running balance accounts, application of payments and credits, and related matters Part IIB Refunds of RBA surpluses and credits Division 3A Section 8AAZLGB required to notify the Commissioner under section 389-5 in Schedule 1; and
+**(a)** the Commissioner reasonably believes that the entity has made a payment as a result of which the entity is, or will be,  required to notify the Commissioner under section 389-5 in Schedule 1; and
 
 <a id="s8AAZLGB-1-b"></a>
 **(b)** the entity has not notified the Commissioner of the amount under that section; and

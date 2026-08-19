@@ -33,7 +33,6 @@ Objects
 **(3)** This Part (except this Division) applies to a permanent establishment in Australia of a foreign entity that is a financial entity in the same way as this Part applies to an Australian branch of a foreign bank. Definitions
 
 <a id="s160ZZZK-4"></a>
-**(4)** In this section: financial entity has the meaning given by section 995-1 of the Income Tax Assessment Act 1997. foreign entity has the meaning given by section 995-1 of the Income Tax Assessment Act 1997. Australian branches of foreign banks Part IIIB Modifications relating to hybrid mismatch rules Division 5 Section 160ZZZL
-
+**(4)** In this section: financial entity has the meaning given by section 995-1 of the Income Tax Assessment Act 1997. foreign entity has the meaning given by section 995-1 of the Income Tax Assessment Act 1997. 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

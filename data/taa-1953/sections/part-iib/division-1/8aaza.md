@@ -24,8 +24,7 @@ In this Part, unless the contrary intention appears: company includes any body o
 **(i)** an amount paid under the Product Grants and Benefits Administration Act 2000;
 
 <a id="s8AAZA-ii"></a>
-**(ii)** an amount paid under Division 18 (refunds) of the A New Tax System (Luxury Car Tax) Act 1999; Running balance accounts, application of payments and credits, and related matters Part IIB Preliminary Division 1 Section 8AAZA
-
+**(ii)** an amount paid under Division 18 (refunds) of the A New Tax System (Luxury Car Tax) Act 1999; 
 <a id="s8AAZA-iii"></a>
 **(iii)** an amount paid under the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 to an entity, unless a determination of the Commissioner under section 8AAZAA specifies that the amount is a credit for the purposes of this subparagraph; and
 

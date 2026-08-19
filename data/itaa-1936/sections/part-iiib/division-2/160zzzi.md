@@ -21,7 +21,6 @@ Any transaction entered into by a foreign bank otherwise than through its Austra
 **(a)** under which finance is provided to the bank; or
 
 <a id="s160ZZZI-b"></a>
-**(b)** that is a derivative transaction or a foreign exchange transaction; is to be disregarded for the purpose of determining whether a deduction is allowable to the bank under this Act. Australian branches of foreign banks Part IIIB Provisions relating to withholding tax Division 3 Section 160ZZZJ
-
+**(b)** that is a derivative transaction or a foreign exchange transaction; is to be disregarded for the purpose of determining whether a deduction is allowable to the bank under this Act. 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

@@ -90,6 +90,17 @@ LINKS_TREE_RE = re.compile(r"\$\(['\"]\.links-tree['\"]\)\.linksTree")
 # Bare `">` is NOT flagged — section files legitimately use `<a id="...">` anchors.
 # The real chrome fragment is `?">` (e.g. `...'?"> //` from the legal-db pages).
 HTML_FRAG_RE = re.compile(r'</?hp1>|</?div>|</?span>|</?p>|\?">', re.I)
+# ATO PDF running headers spliced inline onto section text, e.g.
+#   "...market value; or International aspects of income tax Chapter 4
+#    General Part 4-5 Capital gains and foreign residents Division 855
+#    Section 855-35"
+# Variable titles + inline position defeated the line-start PAGE_HEADER_RE;
+# the invariant signature is a capitalised "Division <id> Section <id>"
+# phrase (legit cross-references use lowercase "section" or "Division N" alone).
+RUNNING_HEADER_RE = re.compile(
+    r"(?:[A-Z][^.;:]{3,150}?\s+Part\s+[IVX\d-]+\s+)?"
+    r"[A-Z][^.;:]{2,150}?\s+Division\s+[\w-]+\s+Section\s+[\w-]+"
+)
 
 ARTIFACT_CHECKS = [
     ("html_entity", HTML_ENTITY_RE, "critical"),
@@ -103,6 +114,7 @@ ARTIFACT_CHECKS = [
     ("nav_bar", NAV_BAR_RE, "critical"),
     ("links_tree_js", LINKS_TREE_RE, "critical"),
     ("html_fragment", HTML_FRAG_RE, "critical"),
+    ("running_header", RUNNING_HEADER_RE, "critical"),
 ]
 
 # Acts whose frontmatter intentionally omits "act:" (inferable from path)
@@ -137,10 +149,19 @@ def stratify(items: list, key_fn, sample_size: int, seed: int) -> list:
     return out
 
 
-def scan_artifacts(text: str, path: str) -> list[dict]:
-    """Run artifact checks; return list of {check, severity, line, detail}."""
+def scan_artifacts(text: str, path: str, domain: str = "") -> list[dict]:
+    """Run artifact checks; return list of {check, severity, line, detail}.
+
+    domain: 'sections' | 'rulings' | 'private-rulings' | 'cases'. The
+    running_header check is sections-only — ruling files legitimately list
+    capitalised "Division <id> Section <id>" in their Legislative references
+    block (e.g. CR 2019/24), whereas in section .md files that phrase is
+    always PDF running-header noise.
+    """
     found = []
     for name, pat, sev in ARTIFACT_CHECKS:
+        if name == "running_header" and domain != "sections":
+            continue
         for m in pat.finditer(text):
             line_no = text.count("\n", 0, m.start()) + 1
             detail = re.sub(r"\s+", " ", m.group(0))[:80]
@@ -201,7 +222,7 @@ def check_section(item: dict, graph_conn) -> list[dict]:
 
     # artifacts: scan_artifacts for non-trailing_junk checks; trailing_junk is
     # span-aware below so we can tell legit headings from genuine dangling tails.
-    for a in scan_artifacts(text, str(p)):
+    for a in scan_artifacts(text, str(p), domain="sections"):
         if a["check"] != "trailing_junk":
             issues.append(a)
 
@@ -269,7 +290,7 @@ def check_ruling(item: dict) -> list[dict]:
         return [{"check": "structure", "severity": "critical", "line": 0, "detail": f"unreadable: {e}"}]
     if not text.strip():
         issues.append({"check": "structure", "severity": "critical", "line": 1, "detail": "empty file"})
-    for a in scan_artifacts(text, str(p)):
+    for a in scan_artifacts(text, str(p), domain="rulings"):
         issues.append(a)
     # accuracy: title extraction sanity vs summaries JSON
     stem = item["stem"]
@@ -312,7 +333,7 @@ def check_private_ruling(item: dict, index: dict) -> list[dict]:
         issues.append({"check": "accuracy", "severity": "critical", "line": 0, "detail": "index name != json name"})
     ft = d.get("formatted_text") or ""
     if ft:
-        for a in scan_artifacts(ft, str(p)):
+        for a in scan_artifacts(ft, str(p), domain="private-rulings"):
             issues.append(a)
     return issues
 

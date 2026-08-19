@@ -20,8 +20,7 @@ source_pdf: "vol03.pdf"
 **(1)** It is the intention that, in so far as this Part is to be applied to identify amounts of income and expenditure that are taken into account in calculating that part of a foreign bank's taxable income of a year of income that is referable to certain activities of its Australian branch, the provisions of this Part are to be applied in their entirety.
 
 <a id="s160ZZVB-2"></a>
-**(2)** If, as a result of the application of this Part: Australian branches of foreign banks Part IIIB Preliminary Division 1 Section 160ZZV
-
+**(2)** If, as a result of the application of this Part: 
 <a id="s160ZZVB-2-a"></a>
 **(a)** the taxable income of a year of income of a foreign bank that is attributable to activities carried on by the bank through its Australian branch is greater than the amount that would be that taxable income if this Part did not apply; or
 

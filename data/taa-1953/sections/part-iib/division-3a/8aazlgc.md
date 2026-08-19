@@ -44,7 +44,7 @@ Commissioner may retain an amount
 <a id="s8AAZLGC-2-b"></a>
 **(b)** any of the petroleum resource rent tax provisions (as defined in that subsection); have been allocated to that RBA.
 
-**Note:** For refunds covered by this subsection, see instead section 8AAZLH. Running balance accounts, application of payments and credits, and related matters Part IIB Refunds of RBA surpluses and credits Division 3A Section 8AAZLH Informing the entity of the retention of the amount
+**Note:** For refunds covered by this subsection, see instead section 8AAZLH.  Informing the entity of the retention of the amount
 
 <a id="s8AAZLGC-3"></a>
 **(3)** The Commissioner must inform the entity (by serving a document on the entity or by other means) that the Commissioner has retained the amount under this section.
