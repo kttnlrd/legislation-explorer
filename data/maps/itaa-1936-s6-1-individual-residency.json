@@ -102,8 +102,8 @@
   {
    "id": "dec-domicile",
    "type": "decision",
-   "label": "DOMICILE TEST — Is the person's domicile in Australia, and do they lack a permanent place of abode outside Australia?",
-   "body": "A person whose domicile is in Australia is a resident unless their permanent place of abode is outside Australia (s 6(1)(a)(ii) ITAA 1936). 'Permanent place of abode' is the enduring home — not necessarily the only home, but the fixed, habitual home. Temporary absence does not break it.",
+   "label": "DOMICILE TEST — Is the person's domicile in Australia and, if so, does the Commissioner accept a permanent place of abode outside Australia? (s 6(1)(a)(i))",
+   "body": "A person whose domicile is in Australia is a resident UNLESS the Commissioner is satisfied that the person's permanent place of abode is outside Australia (s 6(1)(a)(i) ITAA 1936). 'Permanent place of abode' is the enduring home — not necessarily the only home, but the fixed, habitual home. Temporary absence does not break it. The Commissioner's satisfaction is the operative condition, not an objective fact alone.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -139,8 +139,8 @@
   {
    "id": "dec-183day",
    "type": "decision",
-   "label": "183-DAY TEST — Has the person been physically present in Australia for more than half the income year?",
-   "body": "A person actually present in Australia, continuously or intermittently, during more than one-half of the year of income is a resident unless their usual place of abode is outside Australia and they do not intend to take up residence in Australia (s 6(1)(a)(iii) ITAA 1936). The exception requires BOTH elements. Applegate v FCT (1979) is the leading authority on the boundary.",
+   "label": "183-DAY TEST — Has the person been physically present in Australia for more than half the income year? (s 6(1)(a)(ii))",
+   "body": "A person actually present in Australia, continuously or intermittently, during more than one-half of the year of income is a resident UNLESS the Commissioner is satisfied that (i) the person's usual place of abode is outside Australia AND (ii) the person does not intend to take up residence in Australia (s 6(1)(a)(ii) ITAA 1936). BOTH limbs of the exception must be made out; otherwise the 183-day test makes the person a resident even if they have left permanently.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -155,9 +155,10 @@
    ],
    "cases": [
     {
-     "citation": "1979_ATA_20",
+     "citation": "[1979] FCA 37",
      "title": "Federal Commissioner of Taxation v Applegate",
-     "court": "AATA"
+     "court": "FCA",
+     "note": "FCT v Applegate [1979] FCA 37; (1979) 38 FLR 1 — Federal Court (Brennan J): ordinary concepts test — physical presence is not decisive; quality of presence (usual place of abode) governs"
     },
     {
      "citation": "1946_HCA_17",
@@ -186,8 +187,8 @@
   {
    "id": "dec-super",
    "type": "decision",
-   "label": "SUPERANNUATION TEST — Is the person a member of CSS, PSS or a related scheme?",
-   "body": "A person who is a member of the CSS (Commonwealth Superannuation Scheme), PSS (Public Sector Superannuation Scheme) or a scheme for the benefit of employees of a Commonwealth authority is a resident (s 6(1)(a)(iv) ITAA 1936).",
+   "label": "SUPERANNUATION TEST — Is the person a member of the CSS/PSS scheme, or the spouse or child under 16 of such a member? (s 6(1)(a)(iii))",
+   "body": "A person is a resident if they are: (A) a member of the superannuation scheme established by deed under the Superannuation Act 1990 (the CSS); or (B) an eligible employee for the purposes of the Superannuation Act 1976 (the PSS); or (C) the spouse, or a child under 16, of a person covered by (A) or (B) (s 6(1)(a)(iii) ITAA 1936). Note: this is paragraph (a)(iii), not (a)(iv).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -378,11 +379,6 @@
   },
   {
    "from": "outcome-resident",
-   "to": "dec-dta",
-   "label": "Dual resident? Apply tie-breaker"
-  },
-  {
-   "from": "outcome-foreign",
    "to": "dec-dta",
    "label": "Dual resident? Apply tie-breaker"
   },

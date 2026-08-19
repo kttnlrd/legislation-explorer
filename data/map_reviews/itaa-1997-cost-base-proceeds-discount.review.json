@@ -1,0 +1,72 @@
+{
+ "map_id": "itaa-1997-cost-base-proceeds-discount",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "action-reduced",
+   "severity": "critical",
+   "finding": "The body states 'Same 5 elements as the cost base (s 110-55(2)) but WITHOUT indexation.' Section 110-55(2) says all elements except the third are the same; s 110-55(3) makes the third element balancing adjustment/inclusion amounts, not ownership costs. This misstates the RCB and will include excluded ownership costs in losses.",
+   "suggested_fix": "Correct the body: elements 1, 2, 4 and 5 are the same as the cost base; the third element is amounts included in assessable income due to balancing adjustments etc. under s 110-55(3)."
+  },
+  {
+   "node_id": "action-reduced",
+   "severity": "critical",
+   "finding": "The loss path from action-reduced goes directly to dec-proceeds and bypasses Div 112 modifications and market value substitution. Since s 110-55(2) adopts cost-base elements (other than third), modifications such as s 112-20 non-arm's length MV substitution also affect the first element of the reduced cost base. The current flow understates losses on non-arm's length acquisitions.",
+   "suggested_fix": "Add Div 112 modification/market value substitution checks to the reduced cost base path, or restructure to work out base elements and modifications before branching into gain/loss."
+  },
+  {
+   "node_id": "action-reduced",
+   "severity": "major",
+   "finding": "Reduced cost base exclusions in s 110-55(4)-(9K) (deducted amounts, recoupment, share distribution reductions, non-deductible categories) and the assumption rule in s 110-55(10) are omitted. These operative subsections can exclude or reduce RCB amounts.",
+   "suggested_fix": "Add decision nodes/facets for each RCB exclusion condition and the s 110-55(10) assumption rule."
+  },
+  {
+   "node_id": "action-costbase",
+   "severity": "major",
+   "finding": "Element 1 says 'money paid or property given to acquire the asset', but s 110-25(2)(b) requires the market value of property given, not its historical cost. Element 4 says 'to increase the asset's value', omitting 'preserve' and 'relates to installing or moving the asset' from s 110-25(5); Element 5 says 'preserve or defend', omitting 'establish' from s 110-25(6).",
+   "suggested_fix": "Correct all three element descriptions to exactly follow s 110-25(2), (5) and (6), including market value for property and the full statutory purposes."
+  },
+  {
+   "node_id": "action-costbase",
+   "severity": "major",
+   "finding": "Element 3 body omits the precondition in s 110-25(4) that ownership costs are included only if the asset was acquired after 20 August 1991. This condition changes cost base for pre-20 August 1991 assets.",
+   "suggested_fix": "Add explicit decision node/facet 'Was the asset acquired after 20 August 1991?' before including third-element ownership costs."
+  },
+  {
+   "node_id": "action-costbase",
+   "severity": "major",
+   "finding": "s 110-25(5A) (excludes capital expenditure in relation to goodwill from the fourth element) and s 110-25(12) (assume a CGT event when working out cost base at a particular time) are not represented. These are operative subsections in the supplied text.",
+   "suggested_fix": "Add a facet for goodwill-related capital expenditure under s 110-25(5A) and a note/facet for s 110-25(12) where no CGT event happens."
+  },
+  {
+   "node_id": "dec-not-in-costbase",
+   "severity": "major",
+   "finding": "The node and label rely on s 110-25(7)-(8) for cost base exclusions, but the supplied s 110-25 text does not contain subsections (7) or (8); it jumps from (6) to (12). The exclusion law cited is not verifiable from the supplied text.",
+   "suggested_fix": "Provide the full s 110-25 text including subsections (7)-(11), or amend the node to cite the actual operative exclusion provisions in the supplied text."
+  },
+  {
+   "node_id": "dec-gain-or-loss",
+   "severity": "major",
+   "finding": "The flow branches on gain vs loss at the outset, before capital proceeds are worked out. This is circular and causes the loss path to skip Div 112 modifications/market value substitution. The Act's method statement requires working out cost base and reduced cost base, then comparing to proceeds.",
+   "suggested_fix": "Restructure the flow to work out cost base/reduced cost base and capital proceeds first, then determine gain or loss at the comparison step."
+  },
+  {
+   "node_id": "dec-discount-eligible",
+   "severity": "major",
+   "finding": "The node buries multiple discount eligibility conditions in body text: entity type (company excluded), 12-month holding, event after 21/9/1999, and excluded gains (ss 115-40, 115-45, 775-70). Each is outcome-changing and must be an explicit decision node or facet.",
+   "suggested_fix": "Separate into explicit decisions/facets: company status, 12-month holding period, CGT event date, and excluded gain categories."
+  },
+  {
+   "node_id": "dec-proceeds",
+   "severity": "major",
+   "finding": "Capital proceeds modifications, particularly s 116-110 reduction for liabilities, are listed only in body text. s 116-110 can change capital proceeds and therefore gain/loss and must be an explicit decision node/facet.",
+   "suggested_fix": "Add a decision node for s 116-110 (and other common modifications such as s 116-35 non-receipt, s 116-40 repayment) with facets where the modification applies."
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "The start label is a statement rather than a question or imperative, contrary to signposting requirements.",
+   "suggested_fix": "Change to a question/imperative, e.g. 'Has a CGT event happened and you need to work out the capital gain or loss?'"
+  }
+ ]
+}

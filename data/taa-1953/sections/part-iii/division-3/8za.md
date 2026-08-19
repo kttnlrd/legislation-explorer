@@ -31,11 +31,11 @@ source_pdf: "vol01.pdf"
 <a id="s8ZA-5"></a>
 **(5)** In spite of anything in the preceding provisions of this section, if:
 
-> <a id="s8ZA-5-a"></a>
-> **(a)** a person is convicted of 2 or more offences against section 8T or 8U, or both, before the same court at the same sitting; and
+<a id="s8ZA-5-a"></a>
+**(a)** a person is convicted of 2 or more offences against section 8T or 8U, or both, before the same court at the same sitting; and
 
-> <a id="s8ZA-5-b"></a>
-> **(b)** assuming that the person had only been convicted of one of those offences, that offence would have been punishable on summary conviction; all those offences are punishable on summary conviction.
+<a id="s8ZA-5-b"></a>
+**(b)** assuming that the person had only been convicted of one of those offences, that offence would have been punishable on summary conviction; all those offences are punishable on summary conviction.
 
 <a id="s8ZA-6"></a>
 **(6)** A reference in subsection (5) to a conviction of a person for an offence includes a reference to the making of an order under section 19B of the Crimes Act 1914 in relation to the person in respect of the offence.

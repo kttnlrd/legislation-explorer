@@ -1,0 +1,42 @@
+{
+ "map_id": "itaa-1936-s6-1-individual-residency",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-super",
+   "severity": "critical",
+   "finding": "The statutory superannuation limb is s 6(1)(a)(iii), not s 6(1)(a)(iv), and it covers: (A) members of the superannuation scheme established by deed under the Superannuation Act 1990; (B) eligible employees for the purposes of the Superannuation Act 1976; and (C) the spouse, or a child under 16, of a person covered by (A) or (B). The node label and body omit the spouse and child under-16 category, and add a non-statutory 'scheme for the benefit of employees of a Commonwealth authority'. A spouse or child under 16 of a PSS/CSS member is a resident under this limb; the map would incorrectly send them to later tests or classify them as foreign resident.",
+   "suggested_fix": "Correct the citation to s 6(1)(a)(iii). Reframe the decision as 'Is the person a member/eligible employee under the relevant Commonwealth super scheme, or the spouse or child under 16 of such a person?' and restate paragraphs (A)-(C) accurately."
+  },
+  {
+   "node_id": "dec-183day",
+   "severity": "major",
+   "finding": "The 183-day exception—usual place of abode outside Australia AND no intention to take up residence—is a condition that changes the outcome, but it is buried in the body and edge labels rather than being an explicit decision node on the spine. The body also cites s 6(1)(a)(iii) for the 183-day limb; the actual provision is s 6(1)(a)(ii).",
+   "suggested_fix": "Split the node into: first decision 'Has the person actually been in Australia, continuously or intermittently, during more than one-half of the year of income?'; if yes, add a separate spine decision 'Is the Commissioner satisfied that the person's usual place of abode is outside Australia and that the person does not intend to take up residence?' Correct the citation to s 6(1)(a)(ii)."
+  },
+  {
+   "node_id": "outcome-foreign",
+   "severity": "major",
+   "finding": "The edge from outcome-foreign to dec-dta suggests a person who is foreign resident under Australian domestic law should be assessed under the DTA dual-residence tie-breaker. A dual-residence tie-breaker applies only where the person is resident under the domestic law of both contracting states; a person already classified as non-resident under s 6(1) cannot be Australia's dual resident. This edge would mislead a practitioner.",
+   "suggested_fix": "Remove the edge from outcome-foreign to dec-dta, or replace it with a distinct DTA-limitation path that does not suggest a domestic-law dual-resident tie-breaker applies."
+  },
+  {
+   "node_id": "dec-domicile",
+   "severity": "minor",
+   "finding": "The domicile limb is s 6(1)(a)(i), not s 6(1)(a)(ii) as stated. The body also omits the statutory standard that the person is resident unless 'the Commissioner is satisfied' that the permanent place of abode is outside Australia.",
+   "suggested_fix": "Correct the citation to s 6(1)(a)(i) and include the 'Commissioner is satisfied' language in the node body."
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "Signposting issue: the start node label is a statement, and the start-to-dec-resides edge label 'individual' is not a question or imperative.",
+   "suggested_fix": "Reword the start label as an imperative or question, e.g. 'Determine whether an individual is a resident under s 6(1) ITAA 1936', and change the edge label to a clearer imperative such as 'Proceed to ordinary concepts test'."
+  },
+  {
+   "node_id": "dec-183day",
+   "severity": "minor",
+   "finding": "Applegate v FCT is cited as '1979_ATA_20' with court 'AATA'; that authority appears to be a Federal Court decision, not an AATA decision.",
+   "suggested_fix": "Correct the case citation and court to Federal Commissioner of Taxation v Applegate, Federal Court of Australia."
+  }
+ ]
+}

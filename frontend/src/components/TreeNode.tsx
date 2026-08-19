@@ -92,7 +92,8 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
         }}
         onClick={() => {
           if (isSection) onSelect((node as Section).id);
-          else if (act === 'private-rulings' && isDivision) onSelect((node as Division).id);
+          // Private rulings: years expand into months; clicking a month loads its ruling list
+          else if (act === 'private-rulings' && isSubdivision) onSelect((node as Subdivision).id);
           else setExpanded(!expanded);
         }}
       >

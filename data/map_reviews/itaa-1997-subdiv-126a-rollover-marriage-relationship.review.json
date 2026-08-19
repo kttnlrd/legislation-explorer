@@ -1,0 +1,48 @@
+{
+ "map_id": "itaa-1997-subdiv-126a-rollover-marriage-relationship",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-spouse-type",
+   "severity": "critical",
+   "finding": "The node creates a false 'current spouse' exemption path. It states that for a current spouse the transferor may choose to disregard the gain under ss 118-178/118-180 and routes current-spouse transfers directly to note-main-residence, bypassing all Subdivision 126-A conditions and consequences. Section 126-5(1) applies to both a spouse and a former spouse, and ss 118-178/118-180 are not spouse transfer exemptions: they apply only if there has been a Subdivision 126-A roll-over and they modify the transferee's main residence exemption on a later CGT event.",
+   "suggested_fix": "Replace with a decision confirming that the transferee is the transferor's spouse or former spouse under s 126-5(1) (or the spouse/former spouse of another individual under s 126-15(1)). Send both current and former spouse transfers through the same Subdivision 126-A analysis. Treat ss 118-178/118-180 as an end/facet that only applies after a 126-A roll-over."
+  },
+  {
+   "node_id": "end",
+   "severity": "critical",
+   "finding": "The end node repeats the false current-spouse main residence statement: 'For transfers to a current spouse involving a main residence dwelling, ss 118-178 and 118-180 carry the transferor's ownership and use history over to the transferee.' Those sections require a prior Subdivision 126-A roll-over (s 118-178(1)(c)); they are not enlivened simply because the transferee is a current spouse.",
+   "suggested_fix": "Remove the current-spouse sentence. State that ss 118-178/118-180 can affect the transferee's main residence exemption only if a Subdivision 126-A roll-over applied to the earlier event."
+  },
+  {
+   "node_id": "no-rollover",
+   "severity": "critical",
+   "finding": "The node states that the 'spouse transfer exemption in ss 118-178/118-180 may still apply to current spouse transfers of a main residence dwelling, even if the 126-A roll-over is not available.' This is legally wrong: ss 118-178/118-180 are not stand-alone spouse transfer exemptions and are only available where there was a roll-over under Subdivision 126-A.",
+   "suggested_fix": "Delete the note, or replace it with a correct statement that ss 118-178/118-180 depend on a prior Subdivision 126-A roll-over and are not available if the roll-over does not apply."
+  },
+  {
+   "node_id": "note-main-residence",
+   "severity": "major",
+   "finding": "The body omits the s 118-178(1)(b) condition that the former partner acquired the ownership interest on or after 20 September 1985. It also presents the main-residence carry-forward as an outcome without a decision gate for the conditions in s 118-178(1) (acquisition from former partner, former partner acquired post-CGT, prior 126-A roll-over, later CGT event). If the former partner's interest was pre-CGT, s 118-178 does not apply.",
+   "suggested_fix": "Add an explicit decision or facet before applying s 118-178: 'Was the former partner's ownership interest acquired on or after 20 September 1985 and was there a Subdivision 126-A roll-over for the earlier event?' Include the condition in the body."
+  },
+  {
+   "node_id": "outcome-company",
+   "severity": "major",
+   "finding": "The body describes the s 126-15(2)-(4) cost base adjustments but omits the s 126-15(2) conditions: the other CGT asset must be owned just before the trigger event, must have been acquired on or after 20 September 1985, and a CGT event must happen in relation to it. Without these conditions the adjustment may be misapplied.",
+   "suggested_fix": "Add the conditions from s 126-15(2)(a)-(c) to the body, or insert a separate decision node before the outcome to gate the adjustment."
+  },
+  {
+   "node_id": "trigger-event",
+   "severity": "major",
+   "finding": "The qualifying-instrument requirement is not expressed as an explicit decision node with a 'no' branch: the node is an event, not a decision, and there is no edge from a 'not because of a qualifying instrument' scenario to no-rollover. The body also cites only s 126-5(1), omits s 126-15(1) for company/trustee transferors, and shortens paragraphs (d), (da), (e) and (f) by omitting 'something done under' and corresponding State/Territory/foreign law awards.",
+   "suggested_fix": "Insert a decision immediately after start: 'Was the CGT event because of a court order, approved maintenance agreement, financial agreement, arbitration award or binding written agreement under s 126-5(1) or s 126-15(1)?' with a no edge to no-rollover. Clarify 'something done under' and cite both sections."
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "The start label is a statement rather than a question or imperative, contrary to the signposting requirement.",
+   "suggested_fix": "Change the start label to an imperative or question, for example: 'Determine whether a CGT event involves you and your spouse/former spouse because of a relationship breakdown.'"
+  }
+ ]
+}

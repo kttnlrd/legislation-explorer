@@ -1,0 +1,72 @@
+{
+ "map_id": "itaa-1997-div-130-134-investments-leases-options",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "options-div134",
+   "severity": "critical",
+   "finding": "The node states that the gain/loss from exercise is disregarded under s 134-1(4), but omits the statutory exception: the disregard does not apply if the grantee acquired the option under a trust restructure (Subdivision 124-N) and held the resulting asset as trading stock. This affirmatively misstates the law and would mislead a practitioner in that scenario.",
+   "suggested_fix": "Add an explicit facet/decision for the s 134-1(4) carve-out: 'Was the option acquired under Subdivision 124-N and the resulting asset held as trading stock? If yes, the grantee's gain/loss is not disregarded.'"
+  },
+  {
+   "node_id": "dec-rights-paid",
+   "severity": "major",
+   "finding": "The condition in s 130-40(3)(a) includes already owning shares or convertible interests in the company or in a company that is a member of the same wholly-owned group. Section 130-40(5) also treats a company that would cease to be a group member on exercise as within that group. The node omits the same wholly-owned group limb and uses 'equity-holder' without clearly covering convertible-interest holders under s 130-40(4). A rights holder in a fellow group company or from a convertible-interest holder could be wrongly routed to Div 134.",
+   "suggested_fix": "Rewrite the node body to mirror s 130-40(3)-(5): subdiv 130-B applies if you did not pay and already owned shares or convertible interests in the company or a same wholly-owned group member (including one that would cease to be a member on exercise), or units or convertible interests in the unit trust; alternatively, you acquired the rights from an entity that already owned shares, units or convertible interests of that kind."
+  },
+  {
+   "node_id": "rights",
+   "severity": "major",
+   "finding": "The opening condition in s 130-40(6) is missing: rights to acquire units, or options to acquire units, in a unit trust must have been issued by the trustee after 28 January 1988. The map never checks this, so pre-28 January 1988 unit rights could incorrectly proceed under Subdiv 130-B.",
+   "suggested_fix": "Add an explicit decision/facet after the s 130-40(2) gate asking whether unit rights were issued after 28 January 1988. A 'no' branch should end the Subdiv 130-B path."
+  },
+  {
+   "node_id": "rights-exercise-issued",
+   "severity": "major",
+   "finding": "Item 3 of the s 130-40(6) table is a distinct cost-base rule for original shares, convertible interests or units acquired before 20 September 1985: first element uses market value of the rights when exercised plus exercise amount plus s 130-40(6A) additions. It is buried in this action node rather than being a decision or facet, so the spine only shows issued vs acquired and can miss the pre-CGT variation.",
+   "suggested_fix": "Add a decision node after 'dec-rights-issued-vs-acquired' asking whether the original equities were acquired before 20 September 1985, and route to a distinct Item 3 action/facet."
+  },
+  {
+   "node_id": "dec-option-type",
+   "severity": "major",
+   "finding": "Section 134-1(1) Item 1 applies to an option binding the grantor to 'dispose of a CGT asset' or 'create (including grant or issue) a CGT asset'. The decision label and body only say 'grantor disposes', omitting the create/grant/issue branch and potentially mischaracterising grantor consequences.",
+   "suggested_fix": "Revise the label and body to: 'Is the option a call option (grantor disposes or creates/grant/issue a CGT asset) or a put option (grantor acquires)?' and reflect the same in 'option-call'."
+  },
+  {
+   "node_id": "options-div134",
+   "severity": "major",
+   "finding": "The Div 134 exception gate is not sequenced correctly. 'options-div134' has parallel edges to both 'dec-option-type' and 'option-exceptions', so a user can proceed to call/put analysis and apply Div 134 without first determining whether s 134-1(5)-(6) excludes the option.",
+   "suggested_fix": "Restructure the flow: 'options-div134' -> 'option-exceptions'; if no exception applies -> 'dec-option-type'; if an exception applies -> separate outcome rather than the Div 134 cost-base modification path."
+  },
+  {
+   "node_id": "option-exceptions",
+   "severity": "major",
+   "finding": "For foreign currency options, s 134-1(6) only says Division 134 does not apply to the extent the option binds the grantor to dispose of or acquire foreign currency. It does not say there is 'no CGT event'. That wording overstates the consequence and could mislead.",
+   "suggested_fix": "Replace 'no CGT event for foreign currency options' with 'Div 134 does not apply to that extent; apply the ordinary CGT rules and any applicable foreign currency provisions'."
+  },
+  {
+   "node_id": "bonus-public-trading-trust",
+   "severity": "major",
+   "finding": "The node body says the s 130-20 modifications do not apply if the unit trust is a public trading trust, but the outgoing edge to 'outcome-cost-base-modified' is labelled 'Cost base modified' and the outcome also says cost base modified. The graph therefore traces a path that contradicts the carve-out.",
+   "suggested_fix": "Route this facet to a distinct outcome such as 's 130-20 does not apply — no apportionment under Subdiv 130-A; apply ordinary CGT rules', or at least relabel the edge 'Modification unavailable' and do not flow to the generic modified-cost-base outcome."
+  },
+  {
+   "node_id": "rights-exercise-issued",
+   "severity": "minor",
+   "finding": "Section 130-40(7) generally disregards capital gains and losses from exercising rights. The 'rights-exercise-acquired' node states this, but this node omits it.",
+   "suggested_fix": "Add to the node body: 'A capital gain or capital loss you make from exercising the rights is disregarded (s 130-40(7)).'"
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "Section 130-1 lists 'exploration investments' as a covered kind, and the map includes an 'exploration-investments' node, but the start body and 'dec-asset-type' body omit it.",
+   "suggested_fix": "Add 'exploration investments (Subdiv 130-F)' to the start and asset-type summaries."
+  },
+  {
+   "node_id": "option-put",
+   "severity": "minor",
+   "finding": "Section 134-1(1) Item 2 provides that the grantee's second element includes payments made to acquire the option 'or to renew or extend it'. The node says only 'acquire the option'.",
+   "suggested_fix": "Add '(or to renew or extend it)' to the put-option grantee description."
+  }
+ ]
+}

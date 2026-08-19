@@ -1,0 +1,60 @@
+{
+ "map_id": "itaa-1936-pe-domestic-treaty",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "map",
+   "severity": "critical",
+   "finding": "Treaty priority is cited to ITAA 1936 s 6CA and ITAA 1997 s 3-5 in multiple nodes (treaty, treaty-pe, treaty-inclusions, treaty-exclusions, treaty-agency, treaty-independent, treaty-pe-yes, treaty-pe-no, facet-treaty-priority, facet-variations). The supplied s 6CA is 'Source of natural resource income derived by a non-resident' and supplied s 3-5 is 'Annual income tax'. Neither gives DTA priority over domestic law.",
+   "suggested_fix": "Replace citations with the actual DTA priority provision (e.g. International Tax Agreements Act 1953 s 4(2)) and remove or correctly qualify s 6CA and s 3-5 throughout."
+  },
+  {
+   "node_id": "inclusions",
+   "severity": "critical",
+   "finding": "The domestic track has a direct edge `inclusions` → `domestic-pe` labelled 'Inclusion applies (no exclusion)', allowing a PE conclusion before the s 6(1) exclusions in paras (e)-(g) are considered. There is also no end node for the situation where an exclusion applies, so the map cannot show a no-PE result on the main path.",
+   "suggested_fix": "Remove the direct `inclusions` → `domestic-pe` edge. Add a `domestic-no-pe` outcome node and an edge `exclusions` → `domestic-no-pe` for 'Exclusion applies (and no other place of business)'."
+  },
+  {
+   "node_id": "no-place",
+   "severity": "major",
+   "finding": "The domestic flow treats a 'no fixed place' answer as a terminal outcome before the inclusion/deeming limbs in paras (a)-(d) and exclusions (e)-(f) can be considered. The node itself says 'check agency/deeming limbs first' but there is no edge to do so. For example, a substantial equipment, construction project or goods place under s 6(1)(b)-(d) can be a PE even if the core place test is not met.",
+   "suggested_fix": "Restructure the domestic segment so no-PE is reached only after both the core place test and paras (a)-(g) are considered; connect the no-place route to the inclusion/deeming node, or merge the 'place' and 'inclusions' decisions."
+  },
+  {
+   "node_id": "exclusions",
+   "severity": "major",
+   "finding": "The exclusions node body says 'Each subject to /unless the person otherwise carries on business there/' but s 6(1)(g) has no such carve-out — only a place maintained solely for purchasing is excluded. It also omits the s 6(1)(f)(ii) requirement that the agent's authority extends to filling orders from stock 'situated in the country where the place is located'.",
+   "suggested_fix": "Clarify the carve-out applies to paras (e) and (f) only; restate para (f)(ii) with the geographic stock-location element."
+  },
+  {
+   "node_id": "inclusions",
+   "severity": "major",
+   "finding": "The body of `inclusions` says s 6(1)(d) requires 'mutual participation in management/control/capital'. The actual test is broader: either of the two persons participates in the management, control or capital of the other, or another person participates in both. 'Mutual participation' misstates the statutory test.",
+   "suggested_fix": "Rewrite the s 6(1)(d) description to match the statute: 'either of those persons participates in the management, control or capital of the other person or another person participates in the management, control or capital of both'."
+  },
+  {
+   "node_id": "treaty-inclusions",
+   "severity": "major",
+   "finding": "The treaty track has direct shortcut edges: `treaty-inclusions` → `treaty-pe-yes` labelled 'Inclusion applies (no exclusion)' and `treaty-place` → `treaty-pe-no` labelled 'No place and no deeming limb'. These allow a PE/no-PE conclusion without explicitly considering Art 5(3) exclusions or the Art 5(4) agency/deeming limbs. `treaty-no-place` similarly mentions deeming limbs but has no edge to consider them.",
+   "suggested_fix": "Remove shortcut edges; route all inclusion/site conclusions through `treaty-exclusions` and `treaty-agency`, and make `treaty-no-place`/`treaty-pe-no` reachable only after those limbs are exhausted."
+  },
+  {
+   "node_id": "treaty-agency",
+   "severity": "major",
+   "finding": "The Art 5(6) subsidiary carve-out is buried in the body of `treaty-agency` ('subsidiary alone is NOT a PE of the parent') and is not an explicit decision or facet node, despite being an outcome-changing condition.",
+   "suggested_fix": "Add a separate decision or facet node, e.g. 'Is the PE asserted only because of control/being controlled by a resident company?', with an edge to a no-PE outcome if yes."
+  },
+  {
+   "node_id": "facet-attribution",
+   "severity": "major",
+   "finding": "The facet body cites 's 128B(2E) TAA 1953' for attribution of interest/royalty income to a PE. s 128B is in the Income Tax Assessment Act 1936, not the Taxation Administration Act 1953.",
+   "suggested_fix": "Correct the citation to 's 128B(2E) ITAA 1936'."
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "Several outcome/facet labels are statements rather than questions or imperatives (e.g. 'No place of business — no domestic PE', 'Domestic PE exists', 'No treaty PE', 'FACET — Treaty priority...'). This does not comply with the signposting rule.",
+   "suggested_fix": "Convert outcome/facet labels to imperative or question form where possible, e.g. 'Confirm: no domestic PE — no place of business' or keep clear outcome labels but ensure the signposting style is consistent."
+  }
+ ]
+}

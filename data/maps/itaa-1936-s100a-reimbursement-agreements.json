@@ -1,0 +1,568 @@
+{
+ "id": "itaa-1936-s100a-reimbursement-agreements",
+ "title": "Reimbursement agreements & present entitlement (s 100A ITAA 1936)",
+ "act": "itaa-1936",
+ "part": "III",
+ "division": "6",
+ "subdivision": "",
+ "compilation_no": 191,
+ "compilation_date": "2026-04-01",
+ "summary": "Deep map: does s 100A unwind a beneficiary's present entitlement? Spine: present entitlement (s 100A(1)(a)) → reimbursement agreement exists (s 100A(7)/(13)) → tax-avoidance purpose (s 100A(8)/(9)) → causation (s 100A(1)(b); Raftland) → s 100A(2) payment limb → carve-outs: ordinary family or commercial dealing (Guardian), temporal exclusions, interposed-trust flow-through → consequences: s 99A with exceptions stripped, deemed resident, top marginal rate. Facets: partial unwind (s 100A(5)/(6)), deduction denial (s 100A(6A)/(6B)), Part IVA alternative, PCG 2022/2 / TR 2022/4, s 99B, legal disability, Div 6E/streaming.",
+ "nodes": [
+  {
+   "id": "start",
+   "type": "start",
+   "label": "A trust distributes income to a beneficiary — is the present entitlement real? (s 100A)",
+   "body": "Section 100A ITAA 1936 unwinds a present entitlement where it arose out of a reimbursement agreement — an arrangement under which money, property or benefits flow to a person other than the beneficiary, or to the beneficiary AND another person (s 100A(7)). If it applies, the beneficiary is deemed never to have been presently entitled and the trustee is taxed under s 99A with the escape hatches removed. The ATO runs s 100A and Part IVA in the alternative, and its compliance approach is set out in PCG 2022/2 and TR 2022/4.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": [
+    "reimbursement-agreements",
+    "taxation-of-trusts"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2022_4",
+     "title": "Income tax: section 100A reimbursement agreements"
+    },
+    {
+     "id": "PCG_2022_2",
+     "title": "Section 100A reimbursement agreements - ATO compliance approach"
+    }
+   ]
+  },
+  {
+   "id": "dec-baseline",
+   "type": "decision",
+   "label": "Apart from s 100A, is a beneficiary who is NOT under a legal disability presently entitled to a share of the trust's income? (s 100A(1)(a))",
+   "body": "The section only operates on a present entitlement that exists apart from it. If no beneficiary is presently entitled, the trustee is assessed under s 99A (default) or s 99 (fallback) — s 100A is not needed. Beneficiaries under legal disability are outside s 100A(1) entirely: those assessments run through s 98.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "97",
+     "title": "Beneficiary not under any legal disability"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "98",
+     "title": "Liability of trustee"
+    }
+   ],
+   "commentary": [
+    "meaning-of-presently-entitled"
+   ]
+  },
+  {
+   "id": "dec-agreement",
+   "type": "decision",
+   "label": "Is there a reimbursement agreement? (s 100A(7), (13))",
+   "body": "A reimbursement agreement is an agreement providing for the payment of money, transfer of property, or provision of services or other benefits for a person or persons OTHER THAN the beneficiary — or for the beneficiary AND another person or persons (s 100A(7)). The definition is broad: a loan counts as payment (s 100A(10)); releasing, abandoning, failing to demand or postponing a debt counts (s 100A(12)); 'person' includes a trustee (s 100A(11)); 'agreement' means any agreement, arrangement or understanding — formal or informal, express or implied, enforceable or not (s 100A(13)); 'property' includes a chose in action and also an estate, interest, right or power, whether at law or in equity, in or over property (s 100A(13)). The word 'reimbursement' does NOT limit the definition — no element of reimbursement is required (BBlood Enterprises v FCT [2022] FCA 1112).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": [
+    "reimbursement-agreements"
+   ],
+   "cases": [
+    {
+     "citation": "[2022] FCA 1112",
+     "note": "BBlood Enterprises v FCT — 'reimbursement' does not limit or control the s 100A(7) definition; the agreed steps as a whole constituted an agreement"
+    }
+   ]
+  },
+  {
+   "id": "dec-purpose",
+   "type": "decision",
+   "label": "Was the agreement entered into for a purpose that included securing that a person would pay no (or less) income tax? (s 100A(8), (9))",
+   "body": "The exclusion in s 100A(8) requires the agreement NOT to have been entered into for a purpose (or purposes including a purpose) of securing that a person who would otherwise be liable to income tax is not liable, or pays less. The purpose of ANY party suffices (s 100A(9)). This is an inclusive, not dominant, purpose test — easier to satisfy than Part IVA's dominant purpose. The Full Court has warned against construing s 100A(8) by analogy with Part IVA's alternative postulate (B&F Investments Pty Ltd v FCT [2023] FCAFC 89).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "cases": [
+    {
+     "citation": "[2023] FCAFC 89",
+     "note": "B&F Investments v FCT — construction of s 100A(8); danger in construing s 100A by reference to Part IVA"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "dec-causation",
+   "type": "decision",
+   "label": "Did the present entitlement arise OUT OF the reimbursement agreement — or by reason of an act, transaction or circumstance connected with, or as a result of, it? (s 100A(1)(b))",
+   "body": "Limb (b) requires a causal link between the agreement and the entitlement. Where the entitlement pre-dates the agreement or arises independently under the trust deed, s 100A(1) does not apply to it (Raftland Pty Ltd v FCT [2008] HCA 21 — entitlement must be traced to the agreement; the High Court examined whether the distributions arose out of the alleged agreement).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "cases": [
+    {
+     "citation": "[2008] HCA 21",
+     "note": "Raftland v FCT — whether present entitlement arose out of a reimbursement agreement; sham analysis; s 100A did not apply on the facts"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "dec-limb2",
+   "type": "decision",
+   "label": "Alternative limb: was income PAID to, or APPLIED for the benefit of, the beneficiary as a result of a reimbursement agreement? (s 100A(2))",
+   "body": "Where the entitlement itself did not arise out of the agreement, check s 100A(2): if income was paid to or applied for the benefit of the beneficiary as a result of an RA (or of any act, transaction or circumstance in connection with it), the income is deemed NOT to have been paid or applied. This kills a deemed present entitlement arising from the payment itself (e.g. under s 95A), with the same consequence: no beneficiary assessment — trustee taxed under s 99A.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": [
+    "meaning-of-presently-entitled"
+   ]
+  },
+  {
+   "id": "dec-family",
+   "type": "decision",
+   "label": "Was the agreement entered into in the course of ORDINARY FAMILY OR COMMERCIAL DEALING? (s 100A(13))",
+   "body": "The definition of 'agreement' excludes arrangements entered into in the course of ordinary family or commercial dealing — the primary escape route and the battleground of the modern cases. In Guardian AIT the Full Court held the exclusion is a real one: an agreement formed as part of a longstanding retirement plan (corporate beneficiary created for that purpose) was NOT a reimbursement agreement. The exclusion is lost where the substance is a tax-motivated circular flow — the benefit must move outside the family/commercial dealing.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": [
+    "reimbursement-agreements"
+   ],
+   "cases": [
+    {
+     "citation": "[2023] FCAFC 3",
+     "note": "FCT v Guardian AIT — ordinary family or commercial dealing exclusion; present entitlement did not arise out of a reimbursement agreement"
+    },
+    {
+     "citation": "[2021] FCA 1619",
+     "note": "Guardian AIT v FCT (first instance) — whether an RA can postdate present entitlement; corporate beneficiary part of retirement plan, no RA"
+    },
+    {
+     "citation": "[1989] FCA 481",
+     "note": "Re East Finchley Pty Ltd v FCT — ordinary family or commercial dealing analysis under s 100A(13)"
+    }
+   ]
+  },
+  {
+   "id": "dec-temporal",
+   "type": "decision",
+   "label": "Does the income fall within the temporal exclusions? (s 100A(3))",
+   "body": "s 100A does not touch: (a) income to which the beneficiary was presently entitled in the capacity of trustee of another trust, paid or applied before 6 March 1980 (s 100A(3)(a)(i)); (b) income paid to or applied for the benefit of the beneficiary before 12 June 1978 (s 100A(3)(a)(ii), (3)(b)(ii)); (c) on the payment limb, income paid or applied for the beneficiary in the capacity of trustee of another trust before 6 March 1980 (s 100A(3)(b)(i)). These are transitional — irrelevant for current years.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "dec-interposed",
+   "type": "decision",
+   "label": "Is the beneficiary a trustee of ANOTHER trust whose own beneficiaries are presently entitled to the income? (s 100A(3A), (3B))",
+   "body": "The interposed-trust exception: where a trustee beneficiary of Trust A holds the entitlement as trustee of Trust B, and a beneficiary of Trust B is or was presently entitled (or deemed to be presently entitled) to distributable income attributable to the relevant trust income (s 100A(3A)(c), (3B)(c)), s 100A does not apply to that part. The flow-through protects the chain — the income is taxed to the ultimate beneficiaries instead. Carve-out: s 100A(3C) — a beneficiary of the interposed trust who is under a legal disability is DISREGARDED for the flow-through condition. So the exception survives only if non-disabled beneficiaries of the interposed trust are entitled to the attributable income; if the only entitled beneficiaries are under a disability, the flow-through fails and s 100A proceeds.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "action-interposed-clear",
+   "type": "action",
+   "label": "Flow-through applies: s 100A is disapplied for the attributable part",
+   "body": "The relevant trust income is treated as reaching the beneficiaries of the interposed trust, who are assessed under the normal Div 6 rules (s 97/98). The trustee beneficiary is not unwound by s 100A for that part. If any beneficiary of the interposed trust is under a legal disability, that beneficiary is disregarded for the flow-through condition (s 100A(3C)) — the exception applies only to the extent non-disabled beneficiaries are entitled to the attributable income; any residue falls back to s 100A.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "97",
+     "title": "Beneficiary not under any legal disability"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "action-consequence",
+   "type": "action",
+   "label": "s 100A applies — unwind the entitlement and assess the trustee",
+   "body": "Consequences: (1) the beneficiary is deemed not to be, and never to have been, presently entitled to the relevant trust income (s 100A(1)); or, on the (2) limb, the income is deemed never to have been paid or applied for the beneficiary's benefit; (2) the amount is taxed in the trust: s 99A applies to the trustee with s 99A(2), (3) and (3A) OMITTED — the will/estate, bankruptcy and Commissioner's-discretion exceptions are unavailable; (3) the trust is deemed to be a resident trust estate, so the full net income is caught (s 100A(4)(b)); (4) the trustee pays tax at the top marginal rate on that income (s 99A(4)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "99A",
+     "title": "Certain trust income to be taxed at special rate"
+    }
+   ],
+   "commentary": [
+    "rates-of-tax-payable-by-trustees"
+   ]
+  },
+  {
+   "id": "outcome-99a",
+   "type": "outcome",
+   "label": "Trustee taxed at the top marginal rate on the relevant trust income (s 99A(4))",
+   "body": "This is the punitive limb: with s 99A(2)/(3)/(3A) omitted there is no estate or insolvency escape, and the deeming of residence means s 99A(4) catches the whole net income (no foreign-source carve-out). The beneficiary is not assessed on the unwound amount. Whether a later distribution of the same wealth is taxable in the beneficiary's hands depends on the ordinary Div 6 / s 99B rules at the time — it is not an automatic double tax.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "99A",
+     "title": "Certain trust income to be taxed at special rate"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "no-100a",
+   "type": "outcome",
+   "label": "No s 100A — Division 6 applies in the ordinary way",
+   "body": "The beneficiary is assessed on their share of the net income (s 97), or the trustee on their behalf for minors/non-residents (s 98). If no beneficiary is presently entitled, the trustee is assessed under s 99A/99 with the normal exceptions available. Where the income is that of a non-resident trust and was accumulated, s 99B may still assess the beneficiary on a later distribution.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "97",
+     "title": "Beneficiary not under any legal disability"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "98",
+     "title": "Liability of trustee"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "99B",
+     "title": "Receipt of trust income not previously subject to tax"
+    }
+   ],
+   "commentary": [
+    "taxation-of-trusts",
+    "distributions-of-trust-income"
+   ]
+  },
+  {
+   "id": "end",
+   "type": "end",
+   "label": "Resolution — s 100A applied or cleared",
+   "body": "If s 100A applies: trustee taxed at top marginal rate (s 99A(4)) and the beneficiary's entitlement is unwound. If cleared: Div 6 taxes the beneficiary or trustee in the ordinary way — but check the Part IVA facet and PCG 2022/2 before concluding, because the ATO frequently raises s 100A and Part IVA in the alternative.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "facet-partial",
+   "type": "outcome",
+   "label": "FACET — Partial unwind: only the 'increased amount' is attacked (s 100A(5), (6))",
+   "body": "Where the RA was entered into at or after the time the person became a beneficiary, and the entitlement (or the amount paid/applied) EXCEEDS what it would have been absent the agreement, only the excess ('increased amount' over 'original amount') is deemed to arise out of the RA (s 100A(5) for the entitlement limb, (6) for the payment limb). The original amount remains assessable to the beneficiary in the normal way. This matters when the RA merely tops up an otherwise genuine entitlement.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "facet-deduction-denial",
+   "type": "outcome",
+   "label": "FACET — Deduction denial for losses/outgoings under the RA (s 100A(6A), (6B))",
+   "body": "Where s 100A(1) or (2) applies (or would but for the interposed-trust exception) and the beneficiary incurred a loss or outgoing after 5 March 1980 as part of, under or in connection with the RA, no deduction is allowable — notwithstanding any other provision (s 100A(6A)). If the property is trading stock, its cost is taken to be nil for Div 70/385 purposes (s 100A(6B)). This strips the funding side of the circular arrangement, not just the receipt side.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "facet-part-iva",
+   "type": "outcome",
+   "label": "FACET — Part IVA is raised in the alternative (ss 177D, 177C)",
+   "body": "The ATO runs s 100A and Part IVA side by side, with alternative assessments (Guardian first instance; BBlood). Even where s 100A fails — e.g. on the ordinary family or commercial dealing exclusion — Part IVA may still apply if the scheme's dominant purpose was a tax benefit (s 177D). The two provisions interact: s 100A has an inclusive purpose test (any party), Part IVA a dominant purpose test; a s 100A failure does NOT immunise the arrangement.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": [
+    "application-of-general-anti-avoidance-rules",
+    "countering-tax-avoidance"
+   ],
+   "cases": [
+    {
+     "citation": "[2023] FCAFC 3",
+     "note": "FCT v Guardian AIT — s 100A and Part IVA run in the alternative"
+    }
+   ]
+  },
+  {
+   "id": "facet-pcg",
+   "type": "outcome",
+   "label": "FACET — ATO compliance approach: PCG 2022/2 and TR 2022/4",
+   "body": "PCG 2022/2 sets out the ATO's compliance approach to s 100A reimbursement agreements, including the risk assessment framework for distributions to corporate beneficiaries (unpaid present entitlements, Div 7A interaction) — the higher the risk zone, the more likely review. TR 2022/4 is the Commissioner's final view on s 100A: the elements, the ordinary family or commercial dealing exclusion, and the 'payment of money or transfer of property' concepts. Read both before advising on any distribution to a corporate beneficiary.",
+   "rulings": [
+    {
+     "id": "TR_2022_4",
+     "title": "Income tax: section 100A reimbursement agreements"
+    },
+    {
+     "id": "PCG_2022_2",
+     "title": "Section 100A reimbursement agreements - ATO compliance approach"
+    }
+   ],
+   "commentary": []
+  },
+  {
+   "id": "facet-99b",
+   "type": "outcome",
+   "label": "FACET — If s 100A does not apply, s 99B may catch the accumulation (s 99B)",
+   "body": "For non-resident trust estates: where income is accumulated (or property is received from the trust in respect of accumulated income), s 99B assesses the beneficiary on the amount that has not otherwise been taxed. A structure that sidesteps s 100A by leaving the income in the trust may simply hit the s 99B wall on the way out.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "99B",
+     "title": "Receipt of trust income not previously subject to tax"
+    }
+   ],
+   "commentary": [
+    "accumulating-income-of-non-resident-trusts"
+   ]
+  },
+  {
+   "id": "facet-legal-disability",
+   "type": "outcome",
+   "label": "FACET — Legal disability boundary: s 98 assessments are outside s 100A(1)",
+   "body": "s 100A(1)(a) applies only to a beneficiary 'not under any legal disability' — so trustee assessments for minors and other disabled beneficiaries under s 98 are not unwound by s 100A(1). But note the flip side: s 100A(3C) also denies the interposed-trust exception where the beneficiaries of the interposed trust are under a legal disability. Disability cuts both ways in the section.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "98",
+     "title": "Liability of trustee"
+    }
+   ],
+   "commentary": [
+    "meaning-of-presently-entitled"
+   ]
+  },
+  {
+   "id": "facet-streaming",
+   "type": "outcome",
+   "label": "FACET — Capital gains and franked distributions: Div 6E / Subdiv 115-C interplay",
+   "body": "s 100A operates on 'income of the trust estate', which since Div 6E is not the whole picture: capital gains and franked distributions are excluded from Div 6 amounts (s 95AAA) and streamed under Subdiv 115-C (CGT) and Div 207 (franking). A reimbursement-agreement structure targeting a capital gain or franking credit stream engages those regimes too — TR 2022/4 confirms the ATO applies s 100A to capital gains and franked distributions as well as ordinary income. Check the anti-streaming rules (Div 6E) and the CGT/franking integrity provisions before concluding.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "100A",
+     "title": "Present entitlement arising from reimbursement agreement"
+    }
+   ],
+   "commentary": [
+    "anti-streaming-rules"
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "dec-baseline",
+   "label": "Trust income derived — check who is presently entitled"
+  },
+  {
+   "from": "dec-baseline",
+   "to": "no-100a",
+   "label": "No beneficiary (not under disability) presently entitled — Div 6/99A in ordinary course"
+  },
+  {
+   "from": "dec-baseline",
+   "to": "dec-agreement",
+   "label": "Beneficiary presently entitled (s 100A(1)(a)) — look for a reimbursement agreement"
+  },
+  {
+   "from": "dec-agreement",
+   "to": "no-100a",
+   "label": "No reimbursement agreement (s 100A(7)/(13))"
+  },
+  {
+   "from": "dec-purpose",
+   "to": "no-100a",
+   "label": "No tax-avoidance purpose (s 100A(8))"
+  },
+  {
+   "from": "dec-purpose",
+   "to": "dec-causation",
+   "label": "Purpose includes securing less tax — any party suffices (s 100A(9))"
+  },
+  {
+   "from": "dec-causation",
+   "to": "dec-limb2",
+   "label": "Entitlement did not arise out of the RA — check the payment/applied limb (s 100A(2))"
+  },
+  {
+   "from": "dec-limb2",
+   "to": "no-100a",
+   "label": "Neither limb — income not paid/applied as a result of an RA"
+  },
+  {
+   "from": "dec-family",
+   "to": "no-100a",
+   "label": "Ordinary family or commercial dealing (s 100A(13))"
+  },
+  {
+   "from": "dec-family",
+   "to": "dec-temporal",
+   "label": "Not ordinary dealing — check temporal exclusions"
+  },
+  {
+   "from": "dec-temporal",
+   "to": "no-100a",
+   "label": "Income within transitional exclusions (pre-12/6/1978; pre-6/3/1980 trustee capacity)"
+  },
+  {
+   "from": "dec-temporal",
+   "to": "dec-interposed",
+   "label": "No temporal exclusion — check interposed trust flow-through"
+  },
+  {
+   "from": "dec-interposed",
+   "to": "action-interposed-clear",
+   "label": "Interposed trust beneficiaries entitled — flow-through (s 100A(3A)/(3B))"
+  },
+  {
+   "from": "dec-interposed",
+   "to": "action-consequence",
+   "label": "No interposed trust (or disabled beneficiaries — s 100A(3C)) — s 100A applies"
+  },
+  {
+   "from": "action-interposed-clear",
+   "to": "end",
+   "label": "Income taxed to interposed trust's beneficiaries (s 97/98)"
+  },
+  {
+   "from": "action-consequence",
+   "to": "outcome-99a",
+   "label": "Trustee assessed under s 99A — exceptions stripped, deemed resident"
+  },
+  {
+   "from": "outcome-99a",
+   "to": "end",
+   "label": "Trustee taxed at top marginal rate"
+  },
+  {
+   "from": "no-100a",
+   "to": "end",
+   "label": "Div 6 ordinary assessment"
+  },
+  {
+   "from": "dec-causation",
+   "to": "facet-partial",
+   "label": "RA postdates becoming a beneficiary — only the excess is attacked (s 100A(5))"
+  },
+  {
+   "from": "action-consequence",
+   "to": "facet-deduction-denial",
+   "label": "Beneficiary incurred loss/outgoing under the RA (s 100A(6A))"
+  },
+  {
+   "from": "end",
+   "to": "facet-part-iva",
+   "label": "ATO raises Part IVA in the alternative"
+  },
+  {
+   "from": "start",
+   "to": "facet-pcg",
+   "label": "Advising on a distribution to a corporate beneficiary"
+  },
+  {
+   "from": "no-100a",
+   "to": "facet-99b",
+   "label": "Non-resident trust income accumulated — s 99B on distribution"
+  },
+  {
+   "from": "dec-baseline",
+   "to": "facet-legal-disability",
+   "label": "Beneficiary under legal disability — s 98 path"
+  },
+  {
+   "from": "start",
+   "to": "facet-streaming",
+   "label": "Distribution includes capital gains or franked distributions"
+  },
+  {
+   "from": "dec-agreement",
+   "to": "dec-family",
+   "label": "Agreement provides benefit to a person other than the beneficiary (or beneficiary + another) — is it ordinary family or commercial dealing? (s 100A(13))"
+  },
+  {
+   "from": "dec-family",
+   "to": "dec-purpose",
+   "label": "Not ordinary dealing — check the tax-avoidance purpose (s 100A(8))"
+  },
+  {
+   "from": "dec-causation",
+   "to": "dec-temporal",
+   "label": "Entitlement arose out of the RA (s 100A(1)(b)) — check carve-outs"
+  },
+  {
+   "from": "dec-limb2",
+   "to": "dec-temporal",
+   "label": "Income paid/applied as a result of RA — deemed not paid (s 100A(2)) — check carve-outs"
+  }
+ ],
+ "short": "s 100A reimbursement agreements",
+ "refs": "s 100A · s 99A · Guardian · Raftland",
+ "sort": 37
+}

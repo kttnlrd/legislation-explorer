@@ -22,20 +22,20 @@ source_pdf: "vol01.pdf"
 <a id="s8AAZLA-2"></a>
 **(2)** The Commissioner must then also apply the amount against the following kinds of debts (if there are any):
 
-> <a id="s8AAZLA-2-a"></a>
-> **(a)** tax debts that have been allocated to that RBA;
+<a id="s8AAZLA-2-a"></a>
+**(a)** tax debts that have been allocated to that RBA;
 
-> <a id="s8AAZLA-2-b"></a>
-> **(b)** general interest charge on such tax debts.
+<a id="s8AAZLA-2-b"></a>
+**(b)** general interest charge on such tax debts.
 
 <a id="s8AAZLA-3"></a>
 **(3)** To the extent that the amount is not applied under subsection (2), it gives rise to an excess non-RBA credit in favour of the entity that:
 
-> <a id="s8AAZLA-3-a"></a>
-> **(a)** is equal to the part of the amount that is not applied; and
+<a id="s8AAZLA-3-a"></a>
+**(a)** is equal to the part of the amount that is not applied; and
 
-> <a id="s8AAZLA-3-b"></a>
-> **(b)** relates to the RBA to which the amount was allocated.
+<a id="s8AAZLA-3-b"></a>
+**(b)** relates to the RBA to which the amount was allocated.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

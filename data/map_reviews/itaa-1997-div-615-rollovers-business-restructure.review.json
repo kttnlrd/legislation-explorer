@@ -1,0 +1,84 @@
+{
+ "map_id": "itaa-1997-div-615-rollovers-business-restructure",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "start",
+   "severity": "critical",
+   "finding": "The start node states that a member and at least one other exchanging member must own all the shares or units in the original entity. That is true for the s 615-5 disposal path, but false for the s 615-10 redemption/cancellation path, where the interposed company first acquires one or more but not all shares/units and the exchanging members own all remaining shares/units. A practitioner entering the s 615-10 path is misled at the first node.",
+   "suggested_fix": "Re-write the start body to distinguish the two paths: for s 615-5 the exchanging members own all interests before disposal; for s 615-10 the interposed company makes a first acquisition and the exchanging members own all remaining interests before redemption/cancellation."
+  },
+  {
+   "node_id": "dec-disposal-or-redemption",
+   "severity": "major",
+   "finding": "The s 615-10(1)(b) condition that the shares/units acquired by the interposed company are the first shares/units it acquires in the original entity is buried in the body and has no explicit decision node or No edge to no-rollover. This condition can change the outcome.",
+   "suggested_fix": "Add a decision node or facet: 'Is this the interposed company's first acquisition of shares/units in the original entity?' with a No edge to no-rollover."
+  },
+  {
+   "node_id": "dec-disposal-or-redemption",
+   "severity": "major",
+   "finding": "The s 615-10(1)(d) condition that the remaining shares/units are redeemed or cancelled is also buried in the body and has no explicit branch. If that condition fails, the map currently still proceeds as if a redemption/cancellation case exists.",
+   "suggested_fix": "Add an explicit decision or facet: 'Are the remaining shares/units redeemed or cancelled?' with a No edge to no-rollover."
+  },
+  {
+   "node_id": "dec-disposal-or-redemption",
+   "severity": "major",
+   "finding": "The decision node has only one outgoing edge. There is no negative branch for a scenario that does not fit either a s 615-5 disposal case or a s 615-10 redemption/cancellation case, so the first decision cannot represent failure.",
+   "suggested_fix": "Add a No/neither edge to no-rollover, and where helpful separate edges for the s 615-5 and s 615-10 paths."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "Section 615-10(3) is an operative subsection and is not represented anywhere in the map. It permits the original entity, or its trustee if it is a unit trust, to issue other shares or units to the interposed company as part of the scheme.",
+   "suggested_fix": "Add a node or facet on the s 615-10 path noting that the original entity or trustee can issue other shares/units to the interposed company as part of the scheme."
+  },
+  {
+   "node_id": "start",
+   "severity": "major",
+   "finding": "The 'scheme for reorganising its affairs' condition appears only in the start body and is not an explicit decision node. Both s 615-5(1)(c) and s 615-10 require the disposal/acquisition to be under such a scheme; if that condition fails, the roll-over is not available.",
+   "suggested_fix": "Add a decision node: 'Is the disposal/redemption under a scheme for reorganising the original entity's affairs?' with a No edge to no-rollover."
+  },
+  {
+   "node_id": "dec-adi-restructure",
+   "severity": "major",
+   "finding": "Section 615-35 modifies whether certain preference shares are counted when testing ownership under s 615-5(1)(b) or s 615-10(1)(c). The map places the ADI consideration after the interposed company choice, and after dec-exchanging-members has already sent a 'No' to no-rollover. A practitioner in an ADI restructure could be diverted before s 615-35 is applied.",
+   "suggested_fix": "Move the s 615-35 check upstream so it is applied before or as part of the ownership test, or add a bypass edge from dec-exchanging-members where s 615-35 applies."
+  },
+  {
+   "node_id": "dec-interposed-choice",
+   "severity": "critical",
+   "finding": "The node states the choice deadline is 'within 2 months (s 615-30(1)) or 28 days (s 615-30(2))'. Section 615-30 does not impose a 28-day deadline. The choice must be made by the later of 2 months after completion time and the day the interposed company lodges its income tax return for the income year, or within further time allowed by the Commissioner. The 28-day assertion is wrong law and would mislead practitioners.",
+   "suggested_fix": "Correct the deadline to the later of 2 months after completion time and the interposed company's lodgment day for the relevant income year, or further time allowed by the Commissioner. Delete the 28-day deadline."
+  },
+  {
+   "node_id": "dec-proportionality",
+   "severity": "critical",
+   "finding": "The body imposes a requirement that each exchanging member's percentage of interposed company shares equals their percentage of original entity shares/units disposed of, redeemed or cancelled. Section 615-20 does not impose an equal share-count percentage test. The statutory condition is a market-value proportional test plus the whole-number share requirement. The additional share-percentage test is an inaccurate extra hurdle.",
+   "suggested_fix": "Replace the share-percentage test with the statutory market-value proportion test: at completion time each exchanging member owns a whole number of shares in the interposed company, and the market value of those shares as a proportion of total interposed company share MV equals the market value of their original interests as a proportion of total original interest MV."
+  },
+  {
+   "node_id": "interaction-share-sale-facility",
+   "severity": "major",
+   "finding": "Node type is 'interaction', which is not an allowed node type under the map schema. Allowed types are start, event, decision, action, outcome, and end.",
+   "suggested_fix": "Change the node type to an allowed type such as 'outcome' or 'event', and adjust edges if needed."
+  },
+  {
+   "node_id": "no-rollover",
+   "severity": "major",
+   "finding": "The no-rollover node is typed as 'end' but has an outgoing edge to the final 'end' node. End nodes must be terminal; the current graph violates terminal-node semantics.",
+   "suggested_fix": "Either type no-rollover as an outcome node leading to the terminal end, or remove the outgoing edge and make no-rollover a terminal end."
+  },
+  {
+   "node_id": "dec-exchanging-members",
+   "severity": "minor",
+   "finding": "The label asks whether exchanging members own ALL shares/units in the original entity. This is accurate only for s 615-5. For s 615-10, the test should refer to all remaining shares/units after the interposed company's first acquisition. The body clarifies this, but the signposting label could mislead.",
+   "suggested_fix": "Relabel to something like: 'Do you and at least one other exchanging member own all relevant shares/units (all for s 615-5; all remaining for s 615-10)?'"
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "Several outcome and end labels use descriptive statements rather than questions or imperatives, for example outcome-cgt-consequences, outcome-trading-stock, outcome-revenue-assets, and no-rollover. The signposting rule requires labels to be questions or imperatives.",
+   "suggested_fix": "Recast outcome/end labels as imperative action labels, e.g. 'Apply CGT consequences under Subdivision 124-A', 'Defer trading stock profit or loss', 'Apply ordinary CGT rules'."
+  }
+ ]
+}

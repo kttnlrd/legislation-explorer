@@ -1,0 +1,72 @@
+{
+ "map_id": "itaa-1936-s23ah-foreign-branch",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "map",
+   "severity": "critical",
+   "finding": "The map uses a single spine for both foreign income and capital gains/losses. It sends both through the active income test at node 'ait' and only reaches the tainted-asset exceptions at node 'fails' after an AIT failure. But the capital gain/loss disregard in s 23AH(3)-(4) is not conditioned on the AIT, and the tainted-asset exceptions in s 23AH(6) and (8) apply whether or not the PE passes the AIT. A user with a tainted-asset gain and a PE that passes the AIT would be directed to 'passes' (exemption applies) without checking s 23AH(6)/(8).",
+   "suggested_fix": "Separate the map into (i) foreign income under s 23AH(2), (5), (7) and (ii) capital gains/losses under s 23AH(3)-(4), (6), (8). Route only foreign income through the AIT and tainted-income exceptions. For CGT assets, create explicit decisions for resident, asset used wholly/mainly for foreign income, taxable Australian property, and tainted asset, with end outcomes for non-disregard."
+  },
+  {
+   "node_id": "fails",
+   "severity": "critical",
+   "finding": "Node 'fails' is only reached if the PE fails the AIT, and its body includes s 23AH(6)/(8) tainted-asset exceptions. Those subsections do not require AIT failure; they deny the capital gain/loss disregard for tainted assets (plus EDCI for listed countries) regardless of AIT. The flow therefore misstates the law for capital gains/losses on tainted assets.",
+   "suggested_fix": "Remove s 23AH(6)/(8) from the AIT-failure path. Add a separate capital-gains decision after the PE node: 'Is the CGT asset a tainted asset?', with listed/unlisted and EDCI considerations under s 23AH(6)/(8), leading to a non-disregarded outcome if applicable."
+  },
+  {
+   "node_id": "fails",
+   "severity": "major",
+   "finding": "The listed vs unlisted country distinction is buried in the body of 'fails' and is not an explicit decision node. That distinction changes the test: listed-country income requires both adjusted tainted income and eligible designated concession income under s 23AH(5), while unlisted-country income requires only adjusted tainted income under s 23AH(7); the tainted-asset rules in s 23AH(6)/(8) also differ.",
+   "suggested_fix": "Add a decision after AIT failure: 'Is the PE in a listed country or an unlisted country?' with separate branches for s 23AH(5) (listed: adjusted tainted income + EDCI) and s 23AH(7) (unlisted: adjusted tainted income only)."
+  },
+  {
+   "node_id": "pe",
+   "severity": "major",
+   "finding": "The taxable Australian property exclusion in s 23AH(3)(c)/(4)(c) and the asset-use condition in s 23AH(3)(b)/(4)(b) are only mentioned in the body of 'pe'. They are not explicit decision nodes or end-of-line outcomes. A capital gain on taxable Australian property, or on an asset not used wholly/mainly for foreign income through the PE, would not be disregarded, but the map gives no path to that result.",
+   "suggested_fix": "Add capital-gains decisions after 'pe': 'Is the CGT asset taxable Australian property?' and 'Was the asset used wholly or mainly for producing foreign income at or through the PE?'. Add an outcome node for when the disregard is unavailable."
+  },
+  {
+   "node_id": "pe",
+   "severity": "minor",
+   "finding": "The decision label asks only about 'income' but the node body also covers capital gains/losses and disposal income. This could mislead a practitioner analysing a capital gain or business disposal.",
+   "suggested_fix": "Rephrase the label to 'Is the foreign income, capital gain or capital loss derived in carrying on a business at or through a PE in a listed or unlisted country?' or split income and capital gains/losses into separate nodes."
+  },
+  {
+   "node_id": "ait",
+   "severity": "major",
+   "finding": "The body states that a PE passes the AIT if 'adjusted tainted income (s 23AH(13)) is less than 5% of gross income'. Section 23AH(12) directs to the s 432 active income test; s 23AH(13) defines adjusted tainted income for the exceptions in s 23AH(5)/(7), not for the AIT threshold. This conflates the AIT ratio test with adjusted tainted income.",
+   "suggested_fix": "Describe the AIT as the s 432 test as modified by s 23AH(12) and the s 23AH(14) assumptions. Keep s 23AH(13) adjusted tainted income for the s 23AH(5)/(7) tainted-income analysis, not as the AIT pass measure."
+  },
+  {
+   "node_id": "facet-countries",
+   "severity": "critical",
+   "finding": "The facet says s 320 listed countries are 'comprehensive DTA + suitable tax system'. The supplied s 320(1) defines listed country simply as a foreign country or part declared by the regulations; it does not impose a comprehensive DTA or suitable tax system test. The facet also attributes unlisted country to s 321, but the supplied s 320(1) defines unlisted country.",
+   "suggested_fix": "Correct the facet to state: 'listed country' means a foreign country or part declared by the regulations; 'unlisted country' is defined in s 320(1) as a foreign country that does not (wholly or partly) consist of a listed country or countries, with the deeming rules in s 320(2)-(4)."
+  },
+  {
+   "node_id": "ships",
+   "severity": "major",
+   "finding": "The decision label asks only about 'income' from ships/aircraft, but s 23AH(14A) excludes foreign income, capital gains and capital losses from the operation of ships/aircraft in international traffic. A capital gain or loss from a ship or aircraft asset may not be caught by the decision as labelled.",
+   "suggested_fix": "Change the label to 'Is the foreign income, capital gain or capital loss from operating ships or aircraft in international traffic, or things ancillary to that operation?'"
+  },
+  {
+   "node_id": "interposed",
+   "severity": "major",
+   "finding": "Sections 23AH(9)-(11) are placed after the exemption-outcome nodes 'passes' and 'not-tainted'. Those subsections are deeming/extension rules that determine whether the section applies to disposal income and to indirect interests through interposed partnerships/trusts at the outset. The current placement suggests they only matter after an exemption is reached.",
+   "suggested_fix": "Move s 23AH(9)-(11) to the start or PE stage as separate decision/facet nodes: 'Is the income derived from disposing of the business?' and 'Is there an interposed partnership/trust?', then feed into the existing analysis."
+  },
+  {
+   "node_id": "facet-definitions",
+   "severity": "minor",
+   "finding": "The foreign income definition in s 23AH(15) has two limbs: the amount must (a) otherwise be included in assessable income under non-CGT provisions and (b) be derived from sources in a listed or unlisted country. The facet omits limb (b). It also describes PE as 'Part X/DTA meaning', but s 23AH(15) defines PE in relation to a country as either the DTA meaning or the s 6(1) meaning.",
+   "suggested_fix": "Add the source requirement for foreign income and correct PE to: if a DTA applies, the DTA meaning; otherwise the s 6(1) meaning."
+  },
+  {
+   "node_id": "not-company",
+   "severity": "minor",
+   "finding": "The body says non-residents use Div 770 FITO. Non-residents are generally not assessed on foreign income; FITO is a resident taxpayer relief. This could mislead.",
+   "suggested_fix": "Limit the FITO reference to resident taxpayers and state that non-residents are generally outside the Australian taxing base for foreign income unless specific source or avoidance rules apply."
+  }
+ ]
+}

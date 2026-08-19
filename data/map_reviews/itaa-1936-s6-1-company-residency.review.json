@@ -1,0 +1,54 @@
+{
+ "map_id": "itaa-1936-s6-1-company-residency",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "start",
+   "severity": "critical",
+   "finding": "The start body states that a company is resident if it passes ANY one of three tests and frames voting-power control as a free-standing limb. Under s 6(1) ITAA 1936, the voting-power limb only applies to a company that is not incorporated in Australia and carries on business in Australia. A company whose voting power is controlled by Australian-resident shareholders but which does not carry on business in Australia is not resident.",
+   "suggested_fix": "Restate the rule as: resident if incorporated in Australia; or if not incorporated in Australia, carries on business in Australia and has either central management and control in Australia or voting power controlled by Australian-resident shareholders. Remove 'passing ANY one test makes the company a resident'."
+  },
+  {
+   "node_id": "dec-voting",
+   "severity": "critical",
+   "finding": "The dec-voting node presents voting-power control as an independent third limb: 'even if incorporated and managed offshore'. That omits the statutory preconditions that the company must not be incorporated in Australia and must carry on business in Australia before voting-power control can make it resident.",
+   "suggested_fix": "Relabel and rewrite the body to include the carries-on-business precondition, e.g. 'Is the voting power of the company controlled by shareholders who are Australian residents, where the company carries on business in Australia?'"
+  },
+  {
+   "node_id": "dec-cmc",
+   "severity": "critical",
+   "finding": "The decision conflates two statutory conditions: (i) carrying on business in Australia and (ii) having central management and control in Australia. Its 'No' edge is labelled 'either limb fails' and flows to dec-voting. If the company fails limb (i), there is no basis to test voting power; under s 6(1) the company is non-resident regardless of voting control.",
+   "suggested_fix": "Split into separate decision nodes: first ask 'Does the company carry on business in Australia?' with No going directly to outcome-foreign; then ask 'Is its central management and control in Australia?' with Yes to outcome-resident and No to the voting-power test."
+  },
+  {
+   "node_id": "dec-cmc",
+   "severity": "critical",
+   "finding": "The node cites Harding v FCT [2019] FCAFC 29 as authority for company central management and control and says 'a single director who operated from Australia could make the company a resident'. Harding is an individual residency decision about permanent place of abode; it is not authority on company residency or CM&C.",
+   "suggested_fix": "Remove the Harding citation and replace it with a genuine company CM&C authority, or explain CM&C without that citation."
+  },
+  {
+   "node_id": "dec-dta",
+   "severity": "major",
+   "finding": "The DTA tie-breaker is reached from both outcome-resident and outcome-foreign via interaction-995. A company that is not an Australian resident under s 6(1) cannot be a dual resident for treaty purposes. The dec-dta node also has only a single unlabelled edge to end, so the decision produces no Yes/No consequence.",
+   "suggested_fix": "Restrict the DTA tie-breaker path to the outcome-resident branch. Provide two labelled exits from dec-dta, such as 'Yes — tie-breaker applies: treaty-country resident' and 'No — not a dual resident: remain Australian resident', each reaching end."
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "The start label is a vague statement, not a question or imperative.",
+   "suggested_fix": "Use a directive label, e.g. 'Determine whether the company is a resident under s 6(1) ITAA 1936'."
+  },
+  {
+   "node_id": "boundary-partx",
+   "severity": "minor",
+   "finding": "The statute citation describes s 340 as 'Interpretation', but the supplied s 340 text is titled 'Controlled foreign company (CFC)'. The body also cites ss 332(2)(a) and 333(2)(a), which are not in the supplied text and cannot be verified against it.",
+   "suggested_fix": "Correct the s 340 title and either supply the additional statutory text supporting ss 332(2)(a) and 333(2)(a) or remove the unverified cross-references."
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "Several nodes carry rulings that are unrelated to company residency and appear to be placeholders, including start, dec-incorporated, dec-cmc, dec-voting and interaction-995 (e.g. TR 1993/13, TR 1993/20, TR 1993/26).",
+   "suggested_fix": "Replace unrelated ruling references with rulings actually relevant to company residency, or remove them."
+  }
+ ]
+}

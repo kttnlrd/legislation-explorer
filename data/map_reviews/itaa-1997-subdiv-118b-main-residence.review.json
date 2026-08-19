@@ -1,0 +1,42 @@
+{
+ "map_id": "itaa-1997-subdiv-118b-main-residence",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-individual",
+   "severity": "critical",
+   "finding": "The 'Are you an individual?' gate sends every non-individual to no-exemption-general before the map can reach the trustee-of-deceased-estate rules (ss 118-195, 118-200, 118-210) or the special disability trust rules (ss 118-215 to 118-230). The s 118-105 map itself shows a separate deceased-estates case and lists ss 118-215 to 118-230 among the extending rules, so a trustee or special disability trust trustee would be wrongly told there is no main residence exemption.",
+   "suggested_fix": "Move the deceased-estate and special-disability-trust branches before, or in parallel with, the individual check; alternatively, change the 'Not an individual' edge to route non-individuals to a trustee/deceased-estate/special-disability-trust decision rather than directly to no-exemption-general."
+  },
+  {
+   "node_id": "dec-foreign-resident-boundary",
+   "severity": "critical",
+   "finding": "The foreign-resident boundary under s 118-110(3)-(5) is applied before the deceased-estate source check. Under s 118-110(1)(c), the basic case does not apply to an interest that passed from a deceased estate; the foreign-resident restrictions for deceased-estate dwellings are in ss 118-195/118-200 and are different. The current edge sends an excluded foreign resident beneficiary or trustee straight to 'No exemption — foreign resident blocked', potentially denying an exemption that may actually be available under the deceased-estate rules.",
+   "suggested_fix": "Reorder so dec-deceased-estate-source is checked before dec-foreign-resident-boundary, or add a guard on the foreign-resident edge so it only applies to the non-deceased branch of the map."
+  },
+  {
+   "node_id": "dec-foreign-resident-boundary",
+   "severity": "major",
+   "finding": "The body states that foreign residents cannot claim the exemption 'for a dwelling acquired after the relevant transitional date (9 May 2017)'. The supplied s 118-110 text contains no acquisition-date test; the exclusion depends on status at the time of the CGT event, not when the dwelling was acquired. This gloss is unsupported and risks misleading practitioners about pre-2017 acquisitions.",
+   "suggested_fix": "Remove the acquisition-date gloss unless supported by an applicable transitional provision; state only the statutory test in s 118-110(3)-(5)."
+  },
+  {
+   "node_id": "dec-foreign-resident-boundary",
+   "severity": "major",
+   "finding": "The life-events summary in the body says '(iii) your spouse or child died', but s 118-110(5)(b)(iii) requires the child to have been under 18 at death. As written, the map would incorrectly treat the death of an adult child as satisfying the life events test.",
+   "suggested_fix": "Revise subparagraph (iii) to: 'your spouse, or your child who was under 18 at death, died during that period of foreign residency.'"
+  },
+  {
+   "node_id": "branch-special-disability-trust",
+   "severity": "major",
+   "finding": "The special disability trust rules (ss 118-215 to 118-230) are only reachable as a sub-branch of the deceased-estate branch. Section 118-105 shows them as rules extending the exemption, and they can apply outside a deceased-estate context. There is no path from start or the extending-rules hub for a standalone special disability trust situation.",
+   "suggested_fix": "Add an edge from the extending-rules hub or from an early non-deceased branch to branch-special-disability-trust, so the special disability trust regime is reachable independently of deceased estates."
+  },
+  {
+   "node_id": "dec-income-producing-use",
+   "severity": "minor",
+   "finding": "The edge from dec-income-producing-use to dec-first-income-use is the only 'no income use' path, but s 118-192 (first income use after 20 August 1996) only applies if there has been an income-producing use. A dwelling never used for income is sent through a meaningless first-use timing check before reaching the partial exemption outcome.",
+   "suggested_fix": "Add a separate 'No — never used for income' edge from dec-income-producing-use directly to outcome-partial-exemption, and reserve dec-first-income-use for cases where a first income use actually occurred."
+  }
+ ]
+}

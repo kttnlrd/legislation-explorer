@@ -22,11 +22,11 @@ source_pdf: "vol01.pdf"
 <a id="s8AAZLB-2"></a>
 **(2)** If the non-RBA tax debt is:
 
-> <a id="s8AAZLB-2-a"></a>
-> **(a)** a tax debt that has been allocated to an RBA; or
+<a id="s8AAZLB-2-a"></a>
+**(a)** a tax debt that has been allocated to an RBA; or
 
-> <a id="s8AAZLB-2-b"></a>
-> **(b)** general interest charge on such a tax debt; the Commissioner must then also allocate the amount to that RBA.
+<a id="s8AAZLB-2-b"></a>
+**(b)** general interest charge on such a tax debt; the Commissioner must then also allocate the amount to that RBA.
 
 <a id="s8AAZLB-3"></a>
 **(3)** To the extent that the amount is not applied under subsection (1), it gives rise to an excess non-RBA credit in favour of the entity that is equal to the part of the amount that is not applied.

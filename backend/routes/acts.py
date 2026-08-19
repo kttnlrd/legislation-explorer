@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 
 from fastapi import HTTPException, APIRouter
 
@@ -68,38 +69,59 @@ def _build_insolvency_tree():
     return {"act": "Keays Insolvency Textbook", "parts": parts}
 
 
-def _build_private_rulings_tree() -> dict:
-    """Years → rulings as a Tree for the sidebar.
+_MONTH_NAMES = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
-    Divisions are years (with counts); sections are empty — the per-year
-    ruling list loads on demand via /api/private-rulings?year=. 57,608
+
+def _build_private_rulings_tree() -> dict:
+    """Years → months → rulings as a Tree for the sidebar.
+
+    Divisions are years; subdivisions are months (with counts). Sections are
+    empty — the per-month ruling list loads on demand via
+    /api/private-rulings?year=&month= when a month is expanded. 57,608
     sections inline would make the tree ~15MB.
     """
     from .private_rulings import _load_index
 
     idx = _load_index()
-    by_year: dict[int, int] = {}
+    by_ym: dict[tuple[int, int], int] = {}
     undated = 0
     for meta in idx.values():
-        y = meta.get("year")
-        if y:
-            by_year[y] = by_year.get(y, 0) + 1
+        m = re.match(r"(\d{4})-(\d{2})", meta.get("date_of_advice") or "")
+        if m:
+            key = (int(m.group(1)), int(m.group(2)))
+            by_ym[key] = by_ym.get(key, 0) + 1
         else:
             undated += 1
-    divisions = [
-        {
+    years: dict[int, list[tuple[int, int]]] = {}
+    for (y, m), c in by_ym.items():
+        years.setdefault(y, []).append((m, c))
+    divisions = []
+    for y in sorted(years, reverse=True):
+        months = sorted(years[y], reverse=True)
+        subdivisions = [
+            {
+                "id": f"{y}-{m}",
+                "title": f"{_MONTH_NAMES[m - 1]} ({c})",
+                "sections": [],
+            }
+            for m, c in months
+        ]
+        divisions.append({
             "id": str(y),
-            "title": f"{y} ({c})",
-            "subdivisions": [],
+            "title": f"{y} ({sum(c for _, c in months)})",
+            "subdivisions": subdivisions,
             "sections": [],
-        }
-        for y, c in sorted(by_year.items(), reverse=True)
-    ]
+        })
     if undated:
         divisions.append({
             "id": "undated",
             "title": f"Undated ({undated})",
-            "subdivisions": [],
+            "subdivisions": [{
+                "id": "undated-all",
+                "title": f"Undated ({undated})",
+                "sections": [],
+            }],
             "sections": [],
         })
     return {

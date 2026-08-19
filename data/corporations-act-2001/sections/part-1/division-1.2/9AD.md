@@ -16,57 +16,57 @@ source_pdf: "corps-act"
 
 **(1)** An officer of a corporation (other than a CCIV) is:
 
-> **(a)** a director or secretary of the corporation; or
+**(a)** a director or secretary of the corporation; or
 
-> **(b)** a person:
+**(b)** a person:
 
-> > **(i)** who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the corporation; or
+**(i)** who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the corporation; or
 
-> > **(ii)** who has the capacity to affect significantly the corporation's financial standing; or
+**(ii)** who has the capacity to affect significantly the corporation's financial standing; or
 
-> > **(iii)** in accordance with whose instructions or wishes the directors of the corporation are accustomed to act (excluding advice given by the person in the proper performance of functions attaching to the person's professional capacity or their business relationship with the directors or the corporation); or
+**(iii)** in accordance with whose instructions or wishes the directors of the corporation are accustomed to act (excluding advice given by the person in the proper performance of functions attaching to the person's professional capacity or their business relationship with the directors or the corporation); or
 
-> **(c)** a receiver, or receiver and manager, of the property of the corporation; or
+**(c)** a receiver, or receiver and manager, of the property of the corporation; or
 
-> **(d)** an administrator of the corporation; or
+**(d)** an administrator of the corporation; or
 
-> **(e)** an administrator of a deed of company arrangement executed by the corporation; or
+**(e)** an administrator of a deed of company arrangement executed by the corporation; or
 
-> **(f)** a restructuring practitioner for the corporation; or
+**(f)** a restructuring practitioner for the corporation; or
 
-> **(g)** a restructuring practitioner for a restructuring plan made by the corporation; or
+**(g)** a restructuring practitioner for a restructuring plan made by the corporation; or
 
-> **(h)** a liquidator of the corporation; or
+**(h)** a liquidator of the corporation; or
 
-> > **(i)** a trustee or other person administering a compromise or arrangement made between the corporation and someone else.
+**(i)** a trustee or other person administering a compromise or arrangement made between the corporation and someone else.
 
-> **Note:** Section 201B contains rules about who can be a director of a corporation.
+**Note:** Section 201B contains rules about who can be a director of a corporation.
 
 **(2)** An officer of a corporation that is a CCIV has the meaning given by section 1224B.
 
 **(3)** Subject to subsection (4), an officer of an entity that is neither an individual nor a corporation is:
 
-> **(a)** if the entity is a partnership—a partner in the partnership; or
+**(a)** if the entity is a partnership—a partner in the partnership; or
 
-> **(b)** if the entity is an unincorporated association—an office holder of the unincorporated association; or
+**(b)** if the entity is an unincorporated association—an office holder of the unincorporated association; or
 
-> **(c)** in any case—a person:
+**(c)** in any case—a person:
 
-> > **(i)** who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the entity; or
+**(i)** who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the entity; or
 
-> > **(ii)** who has the capacity to affect significantly the entity's financial standing.
+**(ii)** who has the capacity to affect significantly the entity's financial standing.
 
 **(4)** For the purposes of Chapter 2M, an officer of a registrable superannuation entity is:
 
-> **(a)** if the RSE licensee for the entity is a constitutional corporation (within the meaning of the Superannuation Industry (Supervision) Act 1993) or a body corporate—an officer of the constitutional corporation or body corporate; or
+**(a)** if the RSE licensee for the entity is a constitutional corporation (within the meaning of the Superannuation Industry (Supervision) Act 1993) or a body corporate—an officer of the constitutional corporation or body corporate; or
 
-> **(b)** if the RSE licensee for the entity is a group of individual trustees:
+**(b)** if the RSE licensee for the entity is a group of individual trustees:
 
-> > **(i)** each of those trustees; or
+**(i)** each of those trustees; or
 
-> > **(ii)** a person who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the entity; or
+**(ii)** a person who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the entity; or
 
-> > **(iii)** a person who has the capacity to affect significantly the entity's financial standing.
+**(iii)** a person who has the capacity to affect significantly the entity's financial standing.
 
 ---
 *Corporations Act 2001*

@@ -1,0 +1,36 @@
+{
+ "map_id": "itaa-1997-subdiv-328g-small-business-restructure",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-active-asset",
+   "severity": "major",
+   "finding": "s 328-430(1)(d)(ii) is not fully stated. The node body says 'an active asset satisfying s 152-10(1A)' but omits the statutory alternative 'or would be satisfied in that income year if paragraph 152-10(1AA)(b) were disregarded'. This alternative can be outcome-determinative for parties relying on s 328-430(1)(b)(ii) or (iii).",
+   "suggested_fix": "Add the full s 328-430(1)(d)(ii) alternative to the body and, if it creates a distinct path, model it as a facet/decision node."
+  },
+  {
+   "node_id": "interaction-cgt-event-a1",
+   "severity": "minor",
+   "finding": "The body says 'any CGT event A1 ... is disregarded' under the roll-over. The statute does not disregard CGT event A1; it applies but s 328-455/450 results in no capital gain or loss.",
+   "suggested_fix": "Change 'is disregarded' to 'produces no capital gain or loss because the transfer is taken to be at roll-over cost'."
+  },
+  {
+   "node_id": "choice",
+   "severity": "minor",
+   "finding": "The s 103-25 choice deadline is stated only for entities that lodge an income tax return. The branch for entities not required to lodge is omitted.",
+   "suggested_fix": "Add the non-lodgment branch: if not required to lodge, choice must be made by the day the return would have been due."
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "The node 'no-rollover' is typed as 'end' but has outgoing edges to 'interaction-cgt-event-a1', 'interaction-alternative-rollovers', and 'interaction-depreciating-assets'. An end node should terminate a path; outgoing edges from an end node are structurally inconsistent.",
+   "suggested_fix": "Re-type 'no-rollover' as a decision or outcome node, or route the failure edge to a new end node and place interaction nodes before termination."
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "The no-rollover path uses a single generic no-rollover node rather than distinct facet nodes for each failure condition (e.g., genuine restructure, UEO change, non-active asset, residency, choice). This weakens edge-case visibility required by the facet gate.",
+   "suggested_fix": "Create separate end-of-line facet outcome nodes for each major failure scenario, or label edges with the specific failed condition and use a single facet with condition-specific text."
+  }
+ ]
+}

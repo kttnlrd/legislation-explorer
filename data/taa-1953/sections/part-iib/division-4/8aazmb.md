@@ -22,20 +22,20 @@ source_pdf: "vol01.pdf"
 <a id="s8AAZMB-2"></a>
 **(2)** In this section: business day means a day other than:
 
-> <a id="s8AAZMB-2-a"></a>
-> **(a)** a Saturday or a Sunday; or
+<a id="s8AAZMB-2-a"></a>
+**(a)** a Saturday or a Sunday; or
 
-> <a id="s8AAZMB-2-b"></a>
-> **(b)** a day which is a public holiday for the whole of:
+<a id="s8AAZMB-2-b"></a>
+**(b)** a day which is a public holiday for the whole of:
 
-> > <a id="s8AAZMB-2-b-i"></a>
-> > **(i)** any State; or
+<a id="s8AAZMB-2-b-i"></a>
+**(i)** any State; or
 
-> > <a id="s8AAZMB-2-b-ii"></a>
-> > **(ii)** the Australian Capital Territory; or
+<a id="s8AAZMB-2-b-ii"></a>
+**(ii)** the Australian Capital Territory; or
 
-> > <a id="s8AAZMB-2-b-iii"></a>
-> > **(iii)** the Northern Territory. matters
+<a id="s8AAZMB-2-b-iii"></a>
+**(iii)** the Northern Territory. matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

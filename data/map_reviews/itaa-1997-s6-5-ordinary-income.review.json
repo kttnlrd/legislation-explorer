@@ -1,0 +1,42 @@
+{
+ "map_id": "itaa-1997-s6-5-ordinary-income",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "character",
+   "severity": "critical",
+   "finding": "Body cites 's 6-5(2)(a) employment, (b) business, (c) property', but the supplied s 6-5(2) contains no such paragraphs. s 6-5(2) is the Australian-resident worldwide ordinary income rule. The cited sub-paragraphs do not exist.",
+   "suggested_fix": "Rewrite to describe employment, business, and property as common law income-source categories without fabricated statutory paragraph numbers. Reserve s 6-5(2) for the resident rule."
+  },
+  {
+   "node_id": "facet-sources",
+   "severity": "critical",
+   "finding": "Body repeats the non-existent citations 's 6-5(2)(a) employment, (b) business, (c) property'. This contradicts the supplied statute text.",
+   "suggested_fix": "Replace with accurate references. Discuss source categories under ordinary concepts and cite s 6-5(1), (2), or (3) only where actually relevant."
+  },
+  {
+   "node_id": "facet-statutory",
+   "severity": "major",
+   "finding": "Body states s 6-10(2) contains examples such as dividends s 44 ITAA 1936 and profit-making plans s 15-15. The supplied s 6-10(2) only defines statutory income; it contains no examples.",
+   "suggested_fix": "Remove the examples attributed to s 6-10(2). If examples are needed, point to the s 10-5 summary list or the specific inclusion provisions themselves."
+  },
+  {
+   "node_id": "assessable",
+   "severity": "major",
+   "finding": "The spine proceeds from derivation directly to the assessable end without an explicit decision node for exempt income under s 6-15. Exempt income changes the outcome and is only a body note/facet.",
+   "suggested_fix": "Insert a decision node after derivation: 'Is the amount exempt income under s 6-15?' with Yes -> facet-exempt/not assessable, No -> assessable end."
+  },
+  {
+   "node_id": "gain",
+   "severity": "major",
+   "finding": "Mutuality is a condition that can exclude a receipt from ordinary income. It is buried in the gain node body and only appears as a side facet, not as an explicit decision on the spine.",
+   "suggested_fix": "Add an explicit decision node after gain: 'Is the receipt a mutual receipt from members for services supplied to members?' with Yes -> facet-mutuality, No -> continue to cash."
+  },
+  {
+   "node_id": "not-cash",
+   "severity": "minor",
+   "finding": "Body says non-cash benefits 'may be caught by a specific regime — e.g. fringe benefits tax under the FBTAA'. FBT is not an assessable income regime for the employee; non-cash benefits may be non-assessable/non-exempt.",
+   "suggested_fix": "Reword to: 'Non-cash employment benefits may be subject to FBT in the employer's hands and are generally not assessable as ordinary income to the employee; check specific inclusions.'"
+  }
+ ]
+}

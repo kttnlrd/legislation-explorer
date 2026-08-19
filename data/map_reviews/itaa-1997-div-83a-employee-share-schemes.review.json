@@ -1,0 +1,30 @@
+{
+ "map_id": "itaa-1997-div-83a-employee-share-schemes",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec_startup",
+   "severity": "critical",
+   "finding": "The node misstates s83A-33(1). It says the concession 'reduces the s83A-25 amount to nil' and lists only s83A-33(2),(3),(4),(6) as conditions. Section 83A-33(1) reduces the total s83A-25(1) inclusion for the income year by the total for ESS interests meeting s83A-33(2)-(6), s83A-45 and, for shares, s83A-105(2); it is nil only if all relevant interests qualify. The node also omits s83A-33(5) from the 'ALL' list and says 'Australian resident company' when s83A-33(6) requires 'an Australian resident'.",
+   "suggested_fix": "State the reduction as a partial set-off by qualifying ESS interests; expressly require s83A-33(5) (share discount no more than 15% of market value, or right exercise price at least market value of an ordinary share); and quote s83A-33(6) as 'your employer is an Australian resident'."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "The start-up condition sequence is inverted: dec_startup asks whether the s83A-33 reduction applies, but the 'Yes' branch goes to action_83a45 and action_startup_market_value to check the remaining conditions. Outcome-changing conditions such as s83A-45 and s83A-33(5) sit in action nodes with yes/no edges rather than explicit decision nodes.",
+   "suggested_fix": "Re-label dec_startup to ask whether all s83A-33, s83A-45 and (for shares) s83A-105(2) conditions are met; route 'Yes' to apply the reduction and 'No' to dec_other_reduction. Convert action_83a45 and action_startup_market_value into decision nodes or precede them with explicit decision nodes for the conditions they test."
+  },
+  {
+   "node_id": "action_startup_market_value",
+   "severity": "major",
+   "finding": "This is an action node with a declarative label, but it branches on whether the s83A-33(5) market value conditions are met. That is an outcome-changing condition and must be an explicit decision node labelled as a question or imperative.",
+   "suggested_fix": "Change type to decision and label to e.g. 'Do the s83A-33(5) market value conditions apply?' with 'Yes' leading to the start-up reduction and 'No' to the s83A-35 reduction check."
+  },
+  {
+   "node_id": "action_associate",
+   "severity": "minor",
+   "finding": "The label is a statement rather than an imperative, contrary to signposting requirements.",
+   "suggested_fix": "Rename to an imperative such as 'Apply the associate acquisition rule under s83A-305'."
+  }
+ ]
+}

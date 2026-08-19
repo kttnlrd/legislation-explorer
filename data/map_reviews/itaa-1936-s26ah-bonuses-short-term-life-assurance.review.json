@@ -1,0 +1,48 @@
+{
+ "map_id": "itaa-1936-s26ah-bonuses-short-term-life-assurance",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-bonus",
+   "severity": "critical",
+   "finding": "Node misstates s 26AH(9) as a unit-linked/unit-value increase rule. Section 26AH(9) actually applies where an amount is received otherwise than as or by way of a bonus and the Commissioner forms the opinion that it represents the whole or part of an accrued/declared or expected bonus. The 'No' branch sends 'not a bonus (e.g. partial surrender proceeds)' straight to not assessable, ignoring s 26AH(9), s 26AH(11) and s 26AH(12) deeming.",
+   "suggested_fix": "Relabel to 'Is the amount received as or by way of a bonus?' and add a separate s 26AH(9) decision/facet for non-bonus amounts deemed to be bonuses. Remove the unit-linked language unless sourced from another operative provision."
+  },
+  {
+   "node_id": "dec-loan",
+   "severity": "critical",
+   "finding": "Body states a below-market loan is 'treated as a bonus received under a unit-linked policy (s 26AH(11))'. Section 26AH(11) deems the amount to be an amount to which s 26AH(9)(a) applies. It contains no unit-linked concept.",
+   "suggested_fix": "Amend to: 'the amount is deemed to be an amount to which paragraph 26AH(9)(a) applies (s 26AH(11))' and delete the unit-linked reference."
+  },
+  {
+   "node_id": "dec-in-period",
+   "severity": "critical",
+   "finding": "The 10-year eligible period is applied before the s 26AH(13) premium-increase restart. A bonus received outside the original 10 years but within a restarted period is wrongly sent to 'not assessable'. The node also fails s 26AH(14) transitional treatment: for eligible policies with date of commencement of risk on or before 7 December 1983, the eligible period is 4 years and the fractions are 100%/two-thirds/one-third over years 2-4.",
+   "suggested_fix": "Model the eligible-period determination as a single decision that asks whether the receipt is within the eligible period as modified by s 26AH(13) and s 26AH(14). Alternatively move dec-premium-25 before dec-in-period and add a s 26AH(14) transition facet."
+  },
+  {
+   "node_id": "dec-death-illness",
+   "severity": "major",
+   "finding": "Only s 26AH(7)(a) death/illness is captured. Omitted exclusions that can change the outcome: s 26AH(7)(aa) RSA, (b) trustees of complying superannuation funds/ADFs/PSTs, (ba) life company liabilities discharged out of complying superannuation assets or segregated exempt assets, and (c) serious financial difficulties with its carve-out. Also omitted is s 26AH(8) Commissioner discretion for forfeiture/surrender/termination.",
+   "suggested_fix": "Add facet/decision nodes for each s 26AH(7) exclusion and for s 26AH(8), including the s 26AH(7)(c) carve-out as a decision."
+  },
+  {
+   "node_id": "dec-premium-25",
+   "severity": "major",
+   "finding": "Body says 'a new 10-year clock begins'. Section 26AH(13) does not create a general new 10-year eligible period. It re-reckons the eligible period from the premium increase year only for receipts after that year and before the first subsequent eligible reckoning date.",
+   "suggested_fix": "Reword to track s 26AH(13)(a)-(b) precisely, including the 'before the first subsequent eligible reckoning date' limit."
+  },
+  {
+   "node_id": "action-calc",
+   "severity": "major",
+   "finding": "States unconditionally that a 30% rebate applies and CGT is disregarded 'to the extent s 26AH applies'. Section 160AAB depends on the amount being an 'eligible 26AH amount' and contains issuer, year and taxpayer-capacity conditions. The supplied s 118-300 text does not tie the CGT disregard to the extent s 26AH applies; it applies in specified table situations.",
+   "suggested_fix": "Qualify the rebate statement with s 160AAB definitional conditions and correct the s 118-300 statement to the actual table conditions."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "Several operative subsections are not represented as spine or facet nodes: s 26AH(2) paid-up policy continuation, s 26AH(6A) non-complying superannuation fund, s 26AH(10) actual bonus after s 26AH(9) opinion, s 26AH(12) sale/assignment during the eligible period, and s 26AH(14) transitional periods. These can change the outcome or prevent double taxation.",
+   "suggested_fix": "Add facet/decision nodes for these subsections or explicitly flag them only if genuinely outside the profile. For a professional tool, they should be present to satisfy the completeness gate."
+  }
+ ]
+}

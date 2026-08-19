@@ -1,0 +1,36 @@
+{
+ "map_id": "itaa-1936-s995-1-trust-residency",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-resident-trust",
+   "severity": "critical",
+   "finding": "The node misstates the s 995-1 test. It says for a non-unit trust the trustee must be an Australian resident and the trust created in Australia or the settlor an Australian resident at creation, and for a unit trust the trustee must be an Australian resident and central management and control in Australia. The supplied s 995-1 definition actually provides: for a trust that is not a unit trust, a trustee is an Australian resident or the central management and control of the trust is in Australia; and for a unit trust, one of the column 2 requirements (any property of the trust is situated in Australia, or the trust carries on a business in Australia) and one of the column 3 requirements (central management and control is in Australia, or Australian residents held more than 50% of the beneficial interests in the income or property of the trust) are satisfied. There is no created-in-Australia or settlor-residence test in the supplied provision.",
+   "suggested_fix": "Replace the body with the actual statutory limbs. Split the test into explicit spine decisions for trust type and each alternative condition."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "The map collapses all outcome-changing conditions into a single decision node. It does not explicitly decide whether the trust is a unit trust, and it does not separately test the alternative limbs for non-unit trusts (trustee Australian resident / CM&C in Australia) or unit trusts (column 2 and column 3 alternatives). There are no facet nodes for each failing combination.",
+   "suggested_fix": "Add explicit nodes such as dec-trust-type, dec-non-unit-cmc, dec-unit-col2 and dec-unit-col3, and add end-of-line facet nodes showing the precise failure path where the main residency branch does not apply."
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "The label is a statement, not a question or imperative, and it repeats the non-statutory created/settlor or administration-and-control concept: 'A trust is created, or its administration and control are situated, in connection with Australia'.",
+   "suggested_fix": "Revise to an imperative or question, e.g. 'Determine whether the trust is a resident trust for CGT purposes under s 995-1.'"
+  },
+  {
+   "node_id": "outcome-resident",
+   "severity": "major",
+   "finding": "The blanket statement 'The trustee of a resident trust is liable to tax on the net income of the trust estate' overstates the Division 6 ITAA 1936 outcome. Where beneficiaries are presently entitled, they are generally assessed on their shares, and the trustee is assessed only on amounts to which no beneficiary is presently entitled or in specific trustee-assessment cases.",
+   "suggested_fix": "Revise to describe the Division 6 mechanics accurately: presently entitled beneficiaries are assessed on their shares of trust net income, and the trustee is assessed under s 98, s 99 or s 99A on amounts not covered by beneficiary entitlements."
+  },
+  {
+   "node_id": "outcome-foreign",
+   "severity": "minor",
+   "finding": "The body cites 'Part X Division 6AAA ITAA 1936' for the foreign trust rules, but Division 6AAA is in Part III of the Income Tax Assessment Act 1936.",
+   "suggested_fix": "Correct the reference to Division 6AAA of Part III of the Income Tax Assessment Act 1936."
+  }
+ ]
+}

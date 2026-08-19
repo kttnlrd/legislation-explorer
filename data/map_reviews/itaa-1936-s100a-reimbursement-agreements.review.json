@@ -1,0 +1,42 @@
+{
+ "map_id": "itaa-1936-s100a-reimbursement-agreements",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-agreement",
+   "severity": "critical",
+   "finding": "The body misstates the scope of s 100A(7). It says the agreement must provide for payment/transfer/provision to a person OTHER than the beneficiary, but s 100A(7) also covers an agreement providing for benefits to 'the beneficiary and another person or other persons'. The start summary has the same omission. A practitioner could wrongly conclude an arrangement that benefits both the beneficiary and another person is outside s 100A.",
+   "suggested_fix": "Amend dec-agreement body and the start summary to say 'a person or persons other than the beneficiary, or the beneficiary and another person or other persons', citing s 100A(7). Update the edge label 'Agreement provides benefit to someone other than the beneficiary' accordingly."
+  },
+  {
+   "node_id": "dec-agreement",
+   "severity": "minor",
+   "finding": "The s 100A(13) definition of 'property' is incomplete. The body says only 'property includes choses in action', but s 100A(13) also includes 'an estate, interest, right or power, whether at law or in equity, in or over property'.",
+   "suggested_fix": "Include the full s 100A(13) property definition in dec-agreement."
+  },
+  {
+   "node_id": "dec-family",
+   "severity": "major",
+   "finding": "Logic flow order is wrong. The ordinary family or commercial dealing exclusion in s 100A(13) is part of the definition of 'agreement', so it qualifies the dec-agreement element. It should be checked immediately after dec-agreement, before the s 100A(8) purpose and causation limbs. Currently dec-family sits after dec-causation and dec-limb2, so users may apply the purpose and causation tests to an arrangement that is not an agreement at all.",
+   "suggested_fix": "Re-route the spine so dec-agreement leads directly to dec-family (or merge the ordinary dealing exclusion into dec-agreement). Route dec-family 'yes' to no-100a and dec-family 'no' to dec-purpose."
+  },
+  {
+   "node_id": "dec-interposed",
+   "severity": "major",
+   "finding": "The interposed-trust exception is not fully or safely expressed. s 100A(3C) is a condition that can change the outcome, but it appears only in dec-interposed body and edge labels—not as an explicit decision node. Also, the body says beneficiaries of the interposed trust 'are presently entitled', whereas s 100A(3A)(c) and (3B)(c) require beneficiaries who 'is or was, or beneficiaries ... are or were, presently entitled, or deemed to be presently entitled'. The map also overstates the s 100A(3C) consequence: it suggests any disabled beneficiary removes the exception for the whole part, when s 100A(3C) only excludes that disabled beneficiary from the condition.",
+   "suggested_fix": "Add a separate decision node for s 100A(3C), or amend dec-interposed so the legal-disability carve-out is an explicit question. Amend the body to reflect 'is or was, are or were, or deemed to be presently entitled'. Correct action-interposed-clear and the edge to action-consequence to avoid implying one disabled beneficiary taints the entire attributable part."
+  },
+  {
+   "node_id": "dec-temporal",
+   "severity": "minor",
+   "finding": "s 100A(3)(b)(i) is not captured. The body mentions (3)(a)(i), (3)(a)(ii) and (3)(b)(ii), but omits the payment-limb exclusion for income paid or applied for the beneficiary before 6 March 1980 in the capacity of trustee of another trust estate.",
+   "suggested_fix": "Add s 100A(3)(b)(i) to the dec-temporal body/label so all transitional exclusions are complete."
+  },
+  {
+   "node_id": "outcome-99a",
+   "severity": "major",
+   "finding": "The statement 'the distribution, if later made, is taxed again in the beneficiary's hands' is not supported by s 100A and is potentially misleading. Section 100A deems the beneficiary not presently entitled; the trustee is taxed under s 99A. Whether a later distribution is assessable depends on the ordinary Div 6 / s 99B rules and the character of the later distribution. It is not an automatic consequence that the same amount is taxed again.",
+   "suggested_fix": "Remove or heavily qualify the double-taxation claim. State only that the beneficiary is not assessed on the unwound amount and the trustee is taxed under s 99A with the relevant exceptions omitted."
+  }
+ ]
+}

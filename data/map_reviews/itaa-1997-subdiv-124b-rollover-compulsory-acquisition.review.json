@@ -1,0 +1,66 @@
+{
+ "map_id": "itaa-1997-subdiv-124b-rollover-compulsory-acquisition",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "branch-money-asset",
+   "severity": "critical",
+   "finding": "The 'both' branch goes directly to outcome-both, bypassing the s 124-75 money requirements, the s 124-80 asset requirements, the s 124-95(2) proportional market-value requirement, and the s 103-25 choice. This would tell a practitioner that a both-money-and-asset roll-over applies with no eligibility checks.",
+   "suggested_fix": "Route the 'both' branch through combined or parallel decision nodes for the money and asset requirements, then through the choice node, then to outcome-both; add failure edges to no-rollover."
+  },
+  {
+   "node_id": "trigger-event",
+   "severity": "major",
+   "finding": "The trigger-event node buries several operative conditions from s 124-70(1) and omits some. For s 124-70(1)(c) it omits the requirement in subparagraph (c)(iv) that the compulsory acquisition would have been under a law covered by s 124-70(1A). For s 124-70(1)(ca) it omits the conditions in subparagraphs (ca)(ii) and (iii) that the mining lease significantly affected your use of the land and was in force just before disposal. For s 124-70(1)(cb) it omits subparagraph (cb)(ii) that the proposed lease would have significantly affected your use. Section 124-70(1A)'s covered-law definition is also not stated.",
+   "suggested_fix": "Either expand the node accurately with all statutory conditions or create explicit decision nodes/facets for the s 124-70(1)(c), (ca) and (cb) conditions, including the covered-law requirement and the significant-effect conditions."
+  },
+  {
+   "node_id": "dec-money-reqs",
+   "severity": "major",
+   "finding": "The description of s 124-75(4) is legally inaccurate. The actual test applies if, just before the event, the original asset was used in your business, installed ready for use in your business, or in the process of being installed ready for use. In that case the replacement must be used in the business or installed ready for use for a reasonable time. The 'same or similar purpose' alternative applies only if the original asset was not in one of those business-use categories. The map wrongly says only 'used in a business' and gives the same/similar-purpose alternative as if it applied to the business limb.",
+   "suggested_fix": "Rewrite the s 124-75(4) limb to track the statutory alternatives: business use / installed ready for use / being installed, with the same-or-similar-purpose test applying only outside those cases."
+  },
+  {
+   "node_id": "dec-money-reqs",
+   "severity": "major",
+   "finding": "Multiple outcome-changing requirements in s 124-75 are collapsed into one decision node and buried in body text: the timing requirement in s 124-75(3), the use/replacement condition in s 124-75(4), and the prohibited-asset conditions in s 124-75(5)-(6). The node label asks only about incurring expenditure within time limits, so a practitioner could proceed on a 'yes' while failing another condition.",
+   "suggested_fix": "Split s 124-75 into explicit decision nodes or facets for timing, replacement-use, trading stock/depreciating asset, and registered emissions unit, each with a failure edge to no-rollover."
+  },
+  {
+   "node_id": "dec-asset-reqs",
+   "severity": "major",
+   "finding": "The s 124-80 conditions are buried in body text under a label that asks only whether market value exceeds cost base. The node also requires that the replacement asset not become trading stock, a Division 40/328 depreciating asset, or a registered emissions unit, but those conditions are not explicit decision points or facets.",
+   "suggested_fix": "Create explicit decision nodes or facets for each s 124-80 condition: market value above cost base, not trading stock, not a Division 40/328 depreciating asset, and not a registered emissions unit, each with failure paths to no-rollover."
+  },
+  {
+   "node_id": "dec-residency",
+   "severity": "major",
+   "finding": "The body states that 'the other asset must be taxable Australian property just after you acquire it' as if it applies in all cases, including where the person receives only money. Section 124-70(4) imposes the other-asset TAP requirement only where another CGT asset is received as compensation. The label also treats the foreign-trust-trustee test as a 'just before the event' test, but s 124-70(3)(b) uses the income year in which the event happens.",
+   "suggested_fix": "Apply the original-asset TAP condition generally, but apply the other-asset TAP condition only on the asset or both branches. Correct the foreign trust timing to the income year, and make the edge labels specify which asset fails."
+  },
+  {
+   "node_id": "choice",
+   "severity": "major",
+   "finding": "The choice node is an action node with outgoing edges only to the roll-over outcomes. There is no edge for a taxpayer who does not make the s 103-25 choice, even though the no-rollover node says not choosing results in full taxation.",
+   "suggested_fix": "Add a decision point before the action, or add a 'does not choose' edge from choice to no-rollover, so the map captures the not-choosing outcome."
+  },
+  {
+   "node_id": "outcome-both",
+   "severity": "major",
+   "finding": "Section 124-95(2) is a statutory requirement: the market value of the other asset must exceed the attributable part of the original asset's cost base. The map places this only in an outcome node's body and has no failure path to no-rollover.",
+   "suggested_fix": "Make the s 124-95(2) attributable market-value test an explicit decision node before outcome-both, with a failure edge to no-rollover."
+  },
+  {
+   "node_id": "recapture-events",
+   "severity": "major",
+   "finding": "The recapture-events node misstates the law. CGT event J2 (s 104-130) is 'share becomes redeemable', not a general later-disposal recapture event. CGT event J5 (s 104-175) is not accurately described as 'failure to execute agreement' in this context. The body's statement that these events 'may bring the deferred gain to account' when replacement shares or interests are later disposed of is misleading.",
+   "suggested_fix": "Remove or rewrite this node. The ordinary later disposal of the replacement asset is generally CGT event A1 through the reduced cost base. If specific recapture events are relevant, cite and describe them accurately."
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "The nodes array contains two identical objects with id 'recapture-events'. Node identifiers must be unique; the duplicated node and duplicate outgoing edges create an ambiguous graph.",
+   "suggested_fix": "Remove the duplicate recapture-events node and the duplicated outgoing edge."
+  }
+ ]
+}

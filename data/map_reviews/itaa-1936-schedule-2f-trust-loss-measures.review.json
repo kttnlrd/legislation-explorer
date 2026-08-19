@@ -1,0 +1,42 @@
+{
+ "map_id": "itaa-1936-schedule-2f-trust-loss-measures",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-50pct-fixed",
+   "severity": "critical",
+   "finding": "The single node 'Does the trust pass the 50% stake test for the test period (s 266-40)?' is reused for widely held unit trust abnormal trading paths. Its 'No' branch sends the user to the s 266-45 non-fixed trust stake test, but s 266-45 is an alternative only for ordinary fixed trusts under s 266-25; s 266-25(1)(c) expressly excludes widely held unit trusts. A listed, unlisted, very widely held or wholesale widely held trust that fails its relevant 50% stake test could be routed to a test that is not available to it.",
+   "suggested_fix": "Create separate 50% stake decision nodes for each regime: ordinary fixed trust (s 266-40 with s 266-45 alternative); unlisted widely held trust (s 266-90); listed widely held trust (s 266-125 with business continuity only); very widely held/wholesale widely held trust (s 266-165). Remove the shared 'No -> s 266-45' edge for widely held paths."
+  },
+  {
+   "node_id": "action-268-net-income",
+   "severity": "critical",
+   "finding": "The Div 268 computation path reaches outcome-deductible directly. Computing net income and tax loss under ss 268-45 and 268-60 is not a substantive Schedule 2F deduction condition; it only determines the amount. The current edge means both fixed and non-fixed trust branches can bypass s 266-40/266-45 or s 267-20(2) and still reach 'Tax loss deductible — conditions met'.",
+   "suggested_fix": "Remove or relabel the edge action-268-net-income -> outcome-deductible. Route Div 268 back to the applicable deduction-condition decision or to a neutral computation-complete/end node, not to a success outcome."
+  },
+  {
+   "node_id": "action-pattern-distributions",
+   "severity": "major",
+   "finding": "The pattern of distributions test under s 267-30(2)/s 269-60 is modelled as an action node with no pass/fail branch. If the trust fails the current-year pattern of distributions test, the graph still proceeds to dec-267-prev-fail and can eventually reach deductible; the failure outcome is absent.",
+   "suggested_fix": "Convert this to a decision node, or add a following decision, with explicit pass/fail edges. Route failure to outcome-denied or, where applicable, to the s 267-50 partial deduction path. Route pass only to s 267-35."
+  },
+  {
+   "node_id": "dec-267-individuals",
+   "severity": "major",
+   "finding": "The node asks whether individuals have more than a 50% stake in the trust, but lacks the branch where there is no threshold group and s 267-40(2) is not applicable. That scenario should proceed to s 267-45, not be treated as a failure of the s 267-40(2) condition.",
+   "suggested_fix": "Add a labelled edge for 'No individuals >50% stake — s 267-40(2) not applicable' to action-267-group-control. Reserve the denial edge for an actual failure of the s 267-40(2) maintenance requirement."
+  },
+  {
+   "node_id": "action-266-55",
+   "severity": "major",
+   "finding": "The s 266-55 notice node omits most operative requirements in the supplied text. It does not specify the s 266-55(2) triggers (returned a tax loss, did not work out net income/tax loss under Div 268, or deducted a debt, in each case only where the fixed trust would not be allowed that outcome unless it met s 266-45); omits s 266-55(3), that the Commissioner must need information about a non-fixed trust mentioned in s 266-45(5); and omits the s 266-55(5) timing limitation. It only mentions s 266-55(4).",
+   "suggested_fix": "Expand the node body or add decision/facet nodes for all s 266-55(2)-(5) requirements, and provide a clear positive path back to the s 266-45 outcome where no notice is given or the notice requirements are met."
+  },
+  {
+   "node_id": "start",
+   "severity": "major",
+   "finding": "The start node says the analysis covers a tax loss or debt deduction, but the ordinary fixed trust path immediately uses s 266-25, which applies only to a tax loss from a loss year. Ordinary fixed trust debt deductions are dealt with in s 266-35 and should not be tested under s 266-25/s 266-40/s 266-45. There is no debt-loss branch before action-266-25.",
+   "suggested_fix": "Add an explicit decision after start or after fixed trust classification distinguishing tax losses from debt deductions. Route ordinary fixed trust debt deductions to a dedicated s 266-35 node or facet, and keep action-266-25 for tax losses only."
+  }
+ ]
+}

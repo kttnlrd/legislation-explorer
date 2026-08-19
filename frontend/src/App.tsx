@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from 'react'
+import React, { useEffect, useState, useRef, useMemo } from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
@@ -117,6 +117,9 @@ export default function App() {
   const [activePrivateRuling, setActivePrivateRuling] = useState<string | null>(null)
   const [privateRulingData, setPrivateRulingData] = useState<any>(null)
   const [privateRulingsYear, setPrivateRulingsYear] = useState<number | 'undated' | null>(null)
+  // Lazy month → ruling sections injected into the sidebar tree for private rulings
+  const [prMonthSections, setPrMonthSections] = useState<Record<string, { id: string; title: string; path: string }[]>>({})
+  const [prExpanded, setPrExpanded] = useState<Set<string>>(new Set())
   const [commentaryData, setCommentaryData] = useState<any>(null)
   const [casesData, setCasesData] = useState<any>(null)
   const [rulingsForSectionData, setRulingsForSectionData] = useState<any>(null)
@@ -344,6 +347,96 @@ export default function App() {
     })
     setDrawerOpen(false)
   }, [act])
+
+  // -------------------------------------------------------------------------
+  // Private rulings tree: year → month → lazy ruling list
+  // -------------------------------------------------------------------------
+  const PR_MONTH_RE = /^(\d{4})-(\d{1,2})$/
+  const PR_MORE_RE = /^__more__:(.+):(\d+)$/
+  const PR_PAGE = 200
+
+  const loadPrivateRulingsMonth = (monthId: string, offset = 0) => {
+    let req: Promise<any>
+    if (monthId === 'undated-all') {
+      req = api.privateRulingsUndated(PR_PAGE, offset)
+    } else {
+      const m = PR_MONTH_RE.exec(monthId)
+      if (!m) return
+      req = api.privateRulingsByMonth(Number(m[1]), Number(m[2]), PR_PAGE, offset)
+    }
+    req.then(d => {
+      const rulings = d.rulings || []
+      const sections = rulings.map((r: any) => ({
+        id: r.authnum,
+        title: `${r.name || 'Untitled ruling'} — EV/${String(r.authnum).slice(-6)}`,
+        path: r.authnum,
+      }))
+      const total = d.total || 0
+      const next = offset + rulings.length
+      if (next < total) {
+        const moreId = `__more__:${monthId}:${next}`
+        sections.push({ id: moreId, title: `Load more (${(total - next).toLocaleString()} remaining)`, path: moreId })
+      }
+      setPrMonthSections(prev => {
+        const existing = (prev[monthId] || []).filter(s => !s.id.startsWith('__more__:'))
+        return { ...prev, [monthId]: [...existing, ...sections] }
+      })
+      setPrExpanded(prev => new Set(prev).add(monthId))
+      setError('')
+    }).catch(e => setError(e.message))
+  }
+
+  // Inject loaded month sections into the tree for rendering
+  const treeForRender = useMemo(() => {
+    if (act !== 'private-rulings' || !tree || Object.keys(prMonthSections).length === 0) return tree
+    const clone: Tree = JSON.parse(JSON.stringify(tree))
+    for (const part of clone.parts) {
+      for (const div of (part as any).divisions || []) {
+        for (const sub of (div as any).subdivisions || []) {
+          if (prMonthSections[sub.id]) {
+            (sub as any).sections = prMonthSections[sub.id]
+          }
+        }
+      }
+    }
+    return clone
+  }, [tree, prMonthSections, act])
+
+  // Merge auto-expanded ancestors with manually expanded private-ruling months
+  const expandedIds = useMemo(() => {
+    const s = activeSection ? findExpandedIds(treeForRender, activeSection) : new Set<string>()
+    prExpanded.forEach(x => s.add(x))
+    return s
+  }, [treeForRender, activeSection, prExpanded])
+
+  const handleTreeSelect = (e: string) => {
+    setSearchPage(false)
+    if (act === 'maps') {
+      setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e)
+      window.history.pushState(null, '', `/maps/${e}`)
+    } else if (act === 'treaties') {
+      const s = e.indexOf('/')
+      if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)) } else { setAct(e); setActiveSection('') }
+    } else if (act === 'rulings') {
+      setActiveRuling(e)
+    } else if (act === 'private-rulings') {
+      if (e.startsWith('__more__:')) {
+        const mm = PR_MORE_RE.exec(e)
+        if (mm) loadPrivateRulingsMonth(mm[1], Number(mm[2]))
+      } else if (PR_MONTH_RE.test(e) || e === 'undated-all') {
+        loadPrivateRulingsMonth(e)
+      } else if (e === 'undated' || /^\d{4}$/.test(e)) {
+        setPrivateRulingsYear(e === 'undated' ? 'undated' : Number(e))
+        setActivePrivateRuling(null)
+      } else {
+        setActivePrivateRuling(e)
+      }
+      setActiveSection('')
+    } else {
+      setActiveSection(e)
+    }
+    if (isMobile) setDrawerOpen(false)
+  }
 
   // Maps hub tree: act-grouped map list, same navigation pattern as any act
   useEffect(() => {
@@ -660,8 +753,8 @@ export default function App() {
 
         {/* Tree */}
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
-          {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={e => { setSearchPage(false); if (act === 'maps') { setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e); window.history.pushState(null, '', `/maps/${e}`) } else if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else if (act === 'private-rulings') { if (e === 'undated' || /^\d{4}$/.test(e)) { setPrivateRulingsYear(e === 'undated' ? 'undated' : Number(e)); setActivePrivateRuling(null); } else { setActivePrivateRuling(e); } setActiveSection(''); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
+          {(treeForRender?.parts || []).map(p => (
+            <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={handleTreeSelect} isMobile={isMobile} expandedIds={expandedIds} act={act} />
           ))}
         </div>
 

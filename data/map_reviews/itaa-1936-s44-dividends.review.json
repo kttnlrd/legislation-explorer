@@ -1,0 +1,54 @@
+{
+ "map_id": "itaa-1936-s44-dividends",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dividend",
+   "severity": "critical",
+   "finding": "The s 6(1) 'dividend' definition is misstated. The map says it includes distributions out of profits, bonus shares from profits, liquidator distributions, and share capital account amounts on cancellation/liquidation. The statute instead includes any distribution made by a company to any of its shareholders (para (a)) and any amount credited to shareholders as shareholders (para (b)), while excluding certain share capital account debits (para (d)) and certain redeemable preference share redemptions except excess (para (e)), and including reversionary bonuses (para (f)). It does not itself require profits.",
+   "suggested_fix": "Revise the node to restate the actual s 6(1) definition, leaving the 'paid out of profits' condition to s 44(1)/(1A)/(1B). Separately note the share-capital-account exclusion and redeemable preference share exception."
+  },
+  {
+   "node_id": "dividend",
+   "severity": "critical",
+   "finding": "Non-share dividends are not tested on the spine. Section 44(1)(a)(ii), (b)(ii) and (c)(ii) include non-share dividends, which are not within the s 6(1) 'dividend' definition. As structured, a non-share dividend would answer 'No' at the s 6(1) decision and be sent to 'not-dividend', incorrectly excluding it from s 44.",
+   "suggested_fix": "Add an explicit spine decision before or parallel to the s 6(1) dividend check: 'Is the amount a non-share dividend under s 974-115 ITAA 1997?' Route resident non-share dividends to assessable, non-resident non-share dividends to an Australian-source test, and PE-attributable non-share dividends to the s 44(1)(c)(ii) path."
+  },
+  {
+   "node_id": "demerger",
+   "severity": "critical",
+   "finding": "The demerger branch does not give effect to s 44(2) and s 44(5)-(6). The edge 'Yes — demerger dividend' sends every demerger dividend to 'demerger-exempt', even where the head entity has elected out under s 44(2) or the 50% business-assets test in s 44(5) is not met. In those cases the dividend remains assessable under s 44(1).",
+   "suggested_fix": "Insert explicit decision nodes for the s 44(2) election and the s 44(5)/(6) 50% CGT business-assets test. Route 'election out' or 'test not met' back to the ordinary s 44 residency/source analysis, and only send to demerger-exempt where s 44(2) does not apply and s 44(5) is satisfied."
+  },
+  {
+   "node_id": "nonresident",
+   "severity": "critical",
+   "finding": "The non-resident branch has no explicit Australian-source decision. Section 44(1)(b)(i) includes only ordinary dividends paid out of Australian-source profits; s 44(1)(b)(ii) includes only non-share dividends derived from Australian sources. A non-resident receiving a foreign-source dividend with no Australian PE should not be assessable under s 44, but the map's path sends all non-resident dividends to 'other' and then 'final'.",
+   "suggested_fix": "Add a spine decision: 'Is the dividend paid out of Australian-source profits (or, for non-share dividends, derived from Australian sources)?' Route 'No' to an outcome 'Not assessable under s 44(1)(b)' unless the s 44(1)(c) PE path applies."
+  },
+  {
+   "node_id": "pe",
+   "severity": "major",
+   "finding": "The s 44(1)(c) branch omits the company-residence condition and non-share dividends. Section 44(1)(c) applies only if the company is a resident, and it covers both ordinary dividends (para (c)(i)) and non-share dividends (para (c)(ii)) attributable to the shareholder's Australian PE, from foreign sources. The map's 'pe' node does not test company residence and refers only to 'dividends'.",
+   "suggested_fix": "Add a decision for 'Is the company a resident?' before the s 44(1)(c) outcome, and expressly cover non-share dividends attributable to the PE from foreign sources. If the company is non-resident, do not apply s 44(1)(c)."
+  },
+  {
+   "node_id": "facet-wht",
+   "severity": "major",
+   "finding": "The WHT facet and nonresident body cite s 128B as 'TAA 1953'. Section 128B and s 128D are provisions of the ITAA 1936; the s 44 note describes s 128D as 'of this Act'.",
+   "suggested_fix": "Correct the references to 'ITAA 1936' throughout the nonresident, other, and facet-wht nodes."
+  },
+  {
+   "node_id": "profits",
+   "severity": "major",
+   "finding": "s 44(1A) and (1B) are only mentioned in body text, not mapped as spine or facet nodes, and the 'Was the dividend paid out of profits?' decision is misleading because s 44(1A) deems a dividend paid out of an amount other than profits to be paid out of profits. Section 44(1B) separately deems share-capital debits and repayments of paid-up capital to be paid out of profits, with complex interaction with the s 6(1)(d) exclusion and s 6(4).",
+   "suggested_fix": "Reframe this part of the flow around the actual definitional and deeming rules. Explicitly add a node/facet for s 44(1A) and s 44(1B), and use the 'paid out of profits' language only as qualified by those deeming provisions, or replace with source/definitional questions."
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "Some edge labels are vague statements rather than questions or imperatives, e.g. 'Ordinary dividend', 'Carrying on business through Australian PE', and 'Before final inclusion'.",
+   "suggested_fix": "Rewrite edge labels as explicit yes/no or imperative conditions (e.g. 'No — not paid out of profits', 'No — no Australian PE', 'No — no other provision')."
+  }
+ ]
+}

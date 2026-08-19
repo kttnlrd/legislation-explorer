@@ -1,0 +1,54 @@
+{
+ "map_id": "itaa-1936-s25a-myer-profit-making-schemes",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "modern",
+   "severity": "critical",
+   "finding": "States that for post-20/9/1985 property with 1997-98+ profits the framework includes s 15-15. This contradicts s 15-15(2)(b) ITAA 1997, which provides that s 15-15 does not apply to a profit arising in respect of the sale of property acquired on or after 20 September 1985. For post-CGT property sales, only s 6-5 ordinary income (Myer) and CGT can apply.",
+   "suggested_fix": "Remove s 15-15 from the post-CGT property path. State that s 15-15 applies only where s 15-15(2)(a)-(b) does not exclude it (not assessable as s 6-5 ordinary income, and not from post-CGT property sale)."
+  },
+  {
+   "node_id": "facet-2515",
+   "severity": "critical",
+   "finding": "Mischaracterises s 15-15(2) as a timing rule and invents a s 15-15(3). The supplied ITAA 1997 text has only s 15-15(1) inclusion and s 15-15(2) exclusions (ordinary income under s 6-5; profit arising from sale of post-CGT property). There is no s 15-15(3).",
+   "suggested_fix": "Rewrite this facet to state s 15-15(1) includes profit from a profit-making undertaking/plan, and s 15-15(2) excludes profits already ordinary income or from post-CGT property sales. Remove references to s 15-15(3)."
+  },
+  {
+   "node_id": "income",
+   "severity": "critical",
+   "finding": "Body asserts 's 15-15(3): included in the year derived', but the supplied s 15-15 has no subsection (3). It also omits that s 15-15 is residual and does not apply if the profit is assessable as s 6-5 ordinary income or arises from sale of post-CGT property.",
+   "suggested_fix": "Remove the s 15-15(3) statement. Clarify that s 15-15 applies only where s 15-15(2) exclusions are not met; otherwise the amount is s 6-5 ordinary income or capital/CGT."
+  },
+  {
+   "node_id": "facet-timing",
+   "severity": "critical",
+   "finding": "Relies on a non-existent s 15-15(3) and misstates s 15-15(2) as a timing rule. The supplied text has s 15-15(2) as exclusionary (ordinary income; post-CGT sale) and no subsection (3). Also says s 25A(9) implicitly determines the year, but s 25A(9) only deems the profit amount.",
+   "suggested_fix": "Revise the timing facet to cite s 6-5 derivation principles for ordinary income, CGT event timing, and any relevant statutory timing rules. Do not cite s 15-15(3), and do not attribute year-of-derivation functions to s 25A(9)."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "Subsection-completeness gate fails: the supplied s 25A contains operative subsections (11) (prescribed manner) and (12) (definitions of excepted property, private company, private trust estate, and property including interests). The summary claims only s 25A(1), (1A), (1B), (2)-(10) are mapped, and the deeming cascade facet omits (11)-(12). These provisions can change whether deeming applies.",
+   "suggested_fix": "Add a facet or spine coverage for s 25A(11) prescribed-manner transfers and s 25A(12) definitions; update the map summary to state all s 25A subsections are mapped."
+  },
+  {
+   "node_id": "deeming",
+   "severity": "major",
+   "finding": "Omits the temporal condition 'after 23 August 1983' found in s 25A(2) (and repeated in later deeming subsections) and the 'not excepted property' condition in s 25A(2)(b)(i)(B) and (b)(ii)(B). Both conditions can change whether s 25A(2) deeming applies.",
+   "suggested_fix": "Add explicit decision criteria for the s 25A(2) deeming limb: sale after 23 August 1983; relevant property is shares in a private company, partnership interest, or private trust interest; underlying property acquired for profit-making by sale and not excepted property. Link to s 25A(12) definitions."
+  },
+  {
+   "node_id": "purpose",
+   "severity": "major",
+   "finding": "The decision node has no negative branch: if there is no profit-making purpose, the map does not route to a capital/not-assessable outcome. It also incorrectly makes s 15-15 dependent on property acquired for profit-making by sale, when s 15-15(1) contains no acquisition-purpose requirement and s 15-15(2)(b) excludes post-CGT property sales.",
+   "suggested_fix": "Add a negative edge from 'purpose' to a capital/not-assessable outcome (e.g., 'No profit-making purpose — capital/not assessable'). Revise the body to distinguish s 25A(1)(a) purpose at acquisition from s 15-15's undertaking/plan test and s 15-15(2) exclusions."
+  },
+  {
+   "node_id": "date",
+   "severity": "major",
+   "finding": "The edge labelled 'Pre-CGT property or pre-1997-98 profit' routes all pre-CGT property to the legacy s 25A path. This misroutes pre-CGT property where the profit arises in 1997-98 or later from a profit-making undertaking or scheme: s 25A(1B) excludes such a profit, and s 15-15 (not s 25A) is the statutory limb, subject to s 15-15(2). The body also repeats the incorrect statement that post-CGT post-1997 analysis includes s 15-15.",
+   "suggested_fix": "Split the date decision into two explicit carve-outs: s 25A(1A) acquisition-date test and s 25A(1B) profit-year/undertaking-scheme test. Route post-1997 profit-making undertaking/scheme profits to s 15-15 only where s 15-15(2) does not exclude them, and route post-CGT property sales to s 6-5/CGT only."
+  }
+ ]
+}

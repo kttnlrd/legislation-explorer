@@ -17,13 +17,13 @@ source_pdf: "vol02.pdf"
 
 To avoid doubt, this Subdivision does not apply to:
 
-> <a id="s82KZLA-a"></a>
-> **(a)** a Division 230 financial arrangement (within the meaning of the Income Tax Assessment Act 1997); or
+<a id="s82KZLA-a"></a>
+**(a)** a Division 230 financial arrangement (within the meaning of the Income Tax Assessment Act 1997); or
 
-> <a id="s82KZLA-b"></a>
-> **(b)** a financial benefit (within the meaning of that Act) that is provided or received in relation to such an arrangement.
+<a id="s82KZLA-b"></a>
+**(b)** a financial benefit (within the meaning of that Act) that is provided or received in relation to such an arrangement.
 
-> **Note:** See section 250-210 of the Income Tax Assessment Act 1997.
+**Note:** See section 250-210 of the Income Tax Assessment Act 1997.
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

@@ -22,21 +22,21 @@ source_pdf: "vol01.pdf"
 <a id="s8WAC-2"></a>
 **(2)** A person commits an offence if the person:
 
-> <a id="s8WAC-2-a"></a>
-> **(a)** makes a supply of, or makes available for use, an electronic sales suppression tool or a right to use an electronic sales suppression tool; or
+<a id="s8WAC-2-a"></a>
+**(a)** makes a supply of, or makes available for use, an electronic sales suppression tool or a right to use an electronic sales suppression tool; or
 
-> <a id="s8WAC-2-b"></a>
-> **(b)** provides a service to an entity that involves the use of an electronic sales suppression tool. Penalty: 5,000 penalty units.
+<a id="s8WAC-2-b"></a>
+**(b)** provides a service to an entity that involves the use of an electronic sales suppression tool. Penalty: 5,000 penalty units.
 
 <a id="s8WAC-3"></a>
 **(3)** Subsections (1) and (2) do not apply to conduct undertaken by the person for the purpose of preventing or deterring tax evasion or enforcing a taxation law.
 
-> **Note:** A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the Criminal Code).
+**Note:** A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the Criminal Code).
 
 <a id="s8WAC-4"></a>
 **(4)** An offence against subsection (1) or (2) is an offence of strict liability.
 
-> **Note:** For strict liability, see section 6.1 of the Criminal Code.
+**Note:** For strict liability, see section 6.1 of the Criminal Code.
 
 <a id="s8WAC-5"></a>
 **(5)** Section 15.4 (extended geographical jurisdiction—category D) of the Criminal Code applies to an offence against subsection (1) if the electronic sales suppression tool is, at any time, used to modify records that a taxation law requires an entity to keep or make.

@@ -1,0 +1,48 @@
+{
+ "map_id": "taa-1953-gic-remission",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-seek-remission",
+   "severity": "major",
+   "finding": "Section 8AAG(2) is the gateway that limits the s 8AAG(1) discretion to the (3), (4) and (5) grounds where the GIC is payable because of late payment. In the map this is only stated in body text; there is no explicit decision branch for the alternative path where s 8AAG(2) does not apply and s 8AAG(1) is an unfettered discretion.",
+   "suggested_fix": "Add a decision node 'Is the GIC payable because an amount remains unpaid after its due date?' with a yes branch to the s 8AAG(3)-(5) sequence and a no branch to an outcome/facet for the broad s 8AAG(1) discretion."
+  },
+  {
+   "node_id": "dec-s8aag5",
+   "severity": "major",
+   "finding": "Section 8AAG(5) contains two independent grounds: (a) special circumstances making it fair and reasonable, or (b) it is otherwise appropriate to do so. The node label and outgoing edge only reference special circumstances, so the independent (b) ground is not signposted and is effectively dropped from the decision path.",
+   "suggested_fix": "Relabel the node to 'Are there special circumstances OR is it otherwise appropriate to remit?' and provide separate outgoing edges for s 8AAG(5)(a) and s 8AAG(5)(b)."
+  },
+  {
+   "node_id": "start",
+   "severity": "major",
+   "finding": "The map's coverage includes s 8AAB but does not capture the s 8AAB(3) carve-out that the GIC does not apply to the Commonwealth or an authority of the Commonwealth. The start node assumes GIC applies without this condition.",
+   "suggested_fix": "Add a facet/decision node at the GIC-applicability stage: 'Is the taxpayer the Commonwealth or an authority of the Commonwealth?' with a no-GIC outcome if yes."
+  },
+  {
+   "node_id": "dec-s8aag3",
+   "severity": "minor",
+   "finding": "The paraphrase of s 8AAG(3)(b) says the person took reasonable action to mitigate 'those circumstances', but the statute allows reasonable action to mitigate the circumstances OR to mitigate the effects of those circumstances. The same issue appears in dec-s8aag4 for s 8AAG(4)(b).",
+   "suggested_fix": "Use the statutory phrase 'reasonable action to mitigate, or mitigate the effects of, those circumstances' in both nodes."
+  },
+  {
+   "node_id": "dec-s8aag4",
+   "severity": "minor",
+   "finding": "The label 'Are you partly responsible...' is narrower than s 8AAG(4), which applies where the circumstances were due to, or caused directly or indirectly by, an act or omission of the person. The person could be wholly responsible and still satisfy the fair and reasonable test.",
+   "suggested_fix": "Change the label to 'Was the delay caused by your act or omission, but is remission fair and reasonable?'"
+  },
+  {
+   "node_id": "outcome-full",
+   "severity": "minor",
+   "finding": "The edge from 'outcome-full' to 'act-review' implies review options after full remission, which is usually unnecessary and may confuse the flow. Partial or refusal outcomes are the natural points where review should be considered.",
+   "suggested_fix": "Remove or re-label the edge from outcome-full to act-review, and reserve review for adverse or partially adverse outcomes."
+  },
+  {
+   "node_id": "act-review",
+   "severity": "minor",
+   "finding": "The node asserts a Part IVC objection/ART review path for s 8AAG decisions but provides no statutory references. For a professional tool, the review mechanism should be tied to the Part IVC provision or table under which such a decision is reviewable.",
+   "suggested_fix": "Add the relevant Part IVC TAA 1953 provision(s) or reviewable-decision table reference to this node."
+  }
+ ]
+}

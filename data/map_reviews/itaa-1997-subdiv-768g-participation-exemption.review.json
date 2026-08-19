@@ -1,0 +1,42 @@
+{
+ "map_id": "itaa-1997-subdiv-768g-participation-exemption",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "interaction-cgt-a1",
+   "severity": "major",
+   "finding": "s 768-505(1) contains three threshold conditions before the reduction: the holding company must be an Australian resident, the foreign disposal company must be a foreign resident, and the CGT event must be one of A1, B1, C2, E1, E2, G3, J1, K4, K6, K10 or K11. These are buried in body text/start scope and are not explicit decision nodes. There is no false branch to outcome-no-exemption if a CGT event is not listed or a party is non-resident, so a user can proceed down the exemption path when s 768-505(1) is not satisfied.",
+   "suggested_fix": "Insert a decision node immediately after start, for example 'Is the holding company an Australian resident, the foreign disposal company a foreign resident, and the CGT event one of A1, B1, C2, E1, E2, G3, J1, K4, K6, K10 or K11?' with a false edge to outcome-no-exemption and a true edge to dec-share-type. Alternatively create separate facets for each failed condition."
+  },
+  {
+   "node_id": "dec-voting-threshold",
+   "severity": "major",
+   "finding": "s 768-505(1)(a) is a single compound condition: direct voting percentage of 10% or more throughout a 12-month period that began no earlier than 24 months before and ended no later than the CGT event. The map splits this into dec-voting-threshold and dec-holding-period, with the first node also referencing the qualifying 12-month period. The false edge from dec-voting-threshold is labelled 'less than 10% direct voting percentage', which misstates the actual failure mode because the condition can fail on period timing as well as percentage.",
+   "suggested_fix": "Merge dec-voting-threshold and dec-holding-period into one decision node: 'Did the holding company hold a direct voting percentage of 10% or more in the foreign disposal company throughout a 12-month period that began no earlier than 24 months before and ended no later than the CGT event?' with a single false edge to outcome-no-exemption."
+  },
+  {
+   "node_id": "outcome-exemption",
+   "severity": "major",
+   "finding": "The node is labelled 'Participation exemption applies' and sits on the success path even when AFBAP is 0%. For a capital gain where the default method applies, s 768-510(4)(b) gives an AFBAP of 0%, meaning no reduction. The map routes method-default -> outcome-exemption -> end-exemption-applied with edge labels 'AFBAP = 100% (loss) or 0% (gain)' and 'gain/loss reduced by AFBAP'. This places a no-reduction outcome on the exemption-applied path, which may mislead practitioners.",
+   "suggested_fix": "Add a decision after the AFBAP calculation nodes: 'Is the active foreign business asset percentage greater than zero?' with a false edge to outcome-no-exemption/end-no-exemption and a true edge to end-exemption-applied. Alternatively re-label outcome-exemption as 'AFBAP determined' and create a separate outcome for 'no reduction because AFBAP is zero'."
+  },
+  {
+   "node_id": "end-no-exemption",
+   "severity": "minor",
+   "finding": "end-no-exemption states that the holding company may still be eligible for the CGT discount under Division 115 (for individuals/trusts, not companies). The holding company is by definition a company under s 768-505(1), so it cannot be eligible for the CGT discount. end-exemption-applied also refers to the CGT discount if applicable.",
+   "suggested_fix": "Remove the references to the CGT discount under Division 115 in the no-exemption and exemption-applied end nodes, or clarify explicitly that a company cannot access the CGT discount."
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "The start node label uses 'AU corporate tax entity', but s 768-505(1) applies only to a company. A corporate tax entity may include entities other than companies, which could overstate the scope of the subdivision.",
+   "suggested_fix": "Replace 'AU corporate tax entity' with 'Australian resident company' in the start node label and any corresponding summary scope statements."
+  },
+  {
+   "node_id": "dec-active-company",
+   "severity": "minor",
+   "finding": "This node is typed as a decision but has no false branch, and its label asks whether the foreign company is an 'active foreign company'. That is not a statutory test in s 768-505 or s 768-510; the statutory concept is the active foreign business asset percentage, which every company has (possibly zero).",
+   "suggested_fix": "Re-type this node as an action/process node and re-label it 'Work out the active foreign business asset percentage under ss 768-510 to 768-535' so it does not imply a yes/no condition needing a false branch."
+  }
+ ]
+}

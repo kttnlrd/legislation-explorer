@@ -16,11 +16,11 @@ source_pdf: "corps-act"
 
 **(1)** Subsection 588G(2) does not apply in relation to a person and a debt incurred by a company if:
 
-> **(a)** the company is eligible for temporary restructuring relief when the debt is incurred; and
+**(a)** the company is eligible for temporary restructuring relief when the debt is incurred; and
 
-> **(b)** the debt is incurred in the ordinary course of the company's business; and
+**(b)** the debt is incurred in the ordinary course of the company's business; and
 
-> **(c)** the company has taken all reasonable steps to appoint a restructuring practitioner before the debt was incurred.
+**(c)** the company has taken all reasonable steps to appoint a restructuring practitioner before the debt was incurred.
 
 **(2)** A person who wishes to rely on subsection (1) in a proceeding for, or relating to, a contravention of subsection 588G(2) bears an evidential burden in relation to that matter.
 

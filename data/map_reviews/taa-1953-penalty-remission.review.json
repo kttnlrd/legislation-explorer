@@ -1,0 +1,54 @@
+{
+ "map_id": "taa-1953-penalty-remission",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "start",
+   "severity": "critical",
+   "finding": "The start node states liability under s 284-75(1) arises from a false or misleading statement 'resulting in a shortfall amount'. Section 284-75(1) does not require any shortfall; it imposes liability for making a false/misleading statement to the Commissioner or an entity exercising powers under a taxation law, regardless of whether a shortfall amount exists. This misstates the law and narrows the liability trigger.",
+   "suggested_fix": "Remove 'resulting in a shortfall amount' from the s 284-75(1) description. State simply that a false or misleading statement to the Commissioner or entity exercising powers under a taxation law can give rise to penalty, noting shortfall is generally relevant to base penalty calculation under s 284-90."
+  },
+  {
+   "node_id": "event-statement-shortfall",
+   "severity": "critical",
+   "finding": "The statement liability event omits operative subsections and exceptions in s 284-75: (i) s 284-75(4) liability for statements made to entities other than the Commissioner or entities exercising powers under a taxation law; (ii) s 284-75(5) reasonable care exception; (iii) s 284-75(6)-(7) registered tax/BAS agent safe harbour and evidential burden; (iv) s 284-75(8) correction of s 389-5 statements; and (v) s 284-75(9) correction of s 390-5 statements. These subsections can prevent liability and must appear as facets or decisions.",
+   "suggested_fix": "Add facet nodes for s 284-75(4) as a separate liability trigger under the penalty-type decision, and add decision/facet nodes for the exceptions in s 284-75(5)-(9) immediately after the s 284-75(1)/(4) liability assertion, each diverting to a no-penalty outcome where satisfied."
+  },
+  {
+   "node_id": "event-statement-shortfall",
+   "severity": "major",
+   "finding": "For s 284-75(2), the body says 'you treat an income tax law as applying...' but the statute also covers Minimum Tax law and petroleum resource rent tax law, and requires that item 4, 5, 6 or 6A of the table in s 284-90(1) applies. For s 284-75(3), the body omits statutory conditions that the document is necessary for the Commissioner to determine a tax-related liability accurately and that the Commissioner determined the tax-related liability without that document.",
+   "suggested_fix": "Update the s 284-75(2) description to include Minimum Tax law and PRRT law and the relevant s 284-90(1) item requirement. Update the s 284-75(3) description to include the necessity and Commissioner-determination-without-document conditions."
+  },
+  {
+   "node_id": "event-scheme-penalty",
+   "severity": "major",
+   "finding": "The scheme penalty event describes only s 284-145(1) with sole or dominant purpose. It omits the alternative liability bases: s 284-145(1)(b)(ia) (principal purpose for Part IVA 177DA schemes), s 284-145(1)(b)(ii) (principal effect for GST Division 165/Fuel Tax Division 75), and s 284-145(2A)-(2C) (transfer pricing, cross-border transfer pricing, and MIT non-arm's length income liabilities). This means practitioners will not be routed to these penalties.",
+   "suggested_fix": "Add decision branches or facet nodes for each of s 284-145(1)(b)(ia)/(ii), (2A), (2B) and (2C), and connect them to the correct s 284-160 base penalty action."
+  },
+  {
+   "node_id": "base-penalty-statement",
+   "severity": "major",
+   "finding": "The base penalty action for unarguable position lists items 4, 5 and 6 but omits item 6A of the s 284-90(1) table, even though s 284-75(2)(d) expressly includes item 6A. The category is incomplete and could cause a practitioner to misclassify a liability under that item.",
+   "suggested_fix": "Add item 6A to the unarguable position base penalty calculation node with the correct rate and description."
+  },
+  {
+   "node_id": "dec-voluntary-disclosure",
+   "severity": "major",
+   "finding": "The voluntary disclosure decision does not make explicit the two conditions that change the reduction outcome: (i) pre-examination disclosure only reduces to nil (rather than 80%) if the shortfall amount is less than $1,000 under s 284-225(3); and (ii) post-examination disclosure only attracts the 20% reduction if it can reasonably be estimated to have saved the Commissioner significant time or resources under s 284-225(1). These conditions are currently buried in action node bodies and are not explicit decision points.",
+   "suggested_fix": "Add decision nodes after the timing choice: one for whether the pre-exam shortfall is below $1,000, and one for whether the post-exam disclosure saved significant time/resources, with branches to the correct reduction action or no reduction."
+  },
+  {
+   "node_id": "dec-remission-s298-20",
+   "severity": "minor",
+   "finding": "The edge labelled 'do not seek remission' routes to 'Remission refused — full penalty payable' as if the Commissioner has made a refusal decision. Section 298-20(1) permits the Commissioner to remit on his own initiative, and if no application is made there may simply be no remission decision; the s 298-20(2) notice requirement is only triggered by a decision not to remit or to remit only part.",
+   "suggested_fix": "Relabel the edge to 'no remission application made' and add an outcome indicating the penalty stands unless the Commissioner independently remits; separate the refusal decision path from non-application."
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "Several edges have empty labels (e.g. event-statement-shortfall to base-penalty-statement, event-scheme-penalty to base-penalty-scheme, base-penalty-statement/scheme to dec-base-penalty-increase), and the start and event node labels are statements rather than questions or imperatives, contrary to signposting requirements.",
+   "suggested_fix": "Label all edges with short questions or imperatives (e.g. 'Calculate base penalty') and rephrase statement/event labels as questions or imperatives where feasible."
+  }
+ ]
+}

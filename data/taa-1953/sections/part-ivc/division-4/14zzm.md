@@ -22,7 +22,7 @@ source_pdf: "vol01.pdf"
 <a id="s14ZZM-2"></a>
 **(2)** However, the application of subsection (1) in relation to a small business taxation assessment decision is subject to any order made under subsection 32(2) of the ART Act.
 
-> **Note:** An order made under subsection 32(2) of the ART Act is subject to section 14ZZH (limitation on orders staying or affecting reviewable objection decisions relating to small business taxation assessment decisions) of this Act.
+**Note:** An order made under subsection 32(2) of the ART Act is subject to section 14ZZH (limitation on orders staying or affecting reviewable objection decisions relating to small business taxation assessment decisions) of this Act.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

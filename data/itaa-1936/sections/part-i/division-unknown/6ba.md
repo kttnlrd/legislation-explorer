@@ -22,72 +22,72 @@ source_pdf: "vol01.pdf"
 <a id="s6BA-2"></a>
 **(2)** If the bonus shares are a dividend, or taken to be a dividend (including as a result of section 45C), the consideration for the acquisition of the shares for the purposes of this Act is so much of the dividend as is:
 
-> <a id="s6BA-2-a"></a>
-> **(a)** included in the taxpayer's assessable income; and
+<a id="s6BA-2-a"></a>
+**(a)** included in the taxpayer's assessable income; and
 
-> <a id="s6BA-2-b"></a>
-> **(b)** is not rebatable under section 46A.
+<a id="s6BA-2-b"></a>
+**(b)** is not rebatable under section 46A.
 
 <a id="s6BA-3"></a>
 **(3)** If the bonus shares are issued for no consideration and are not a dividend or taken to be a dividend, then for the purposes of this Act, in determining:
 
-> <a id="s6BA-3-a"></a>
-> **(a)** the value of such of the original shares and bonus shares as the taxpayer elects under section 70-45 of the Income Tax Assessment Act 1997 to value at cost; and
+<a id="s6BA-3-a"></a>
+**(a)** the value of such of the original shares and bonus shares as the taxpayer elects under section 70-45 of the Income Tax Assessment Act 1997 to value at cost; and
 
-> <a id="s6BA-3-b"></a>
-> **(b)** where any of the original shares or any of the bonus shares are not articles of trading stock of the taxpayer:
+<a id="s6BA-3-b"></a>
+**(b)** where any of the original shares or any of the bonus shares are not articles of trading stock of the taxpayer:
 
-> > <a id="s6BA-3-b-i"></a>
-> > **(i)** the amount or value of the consideration paid in respect of the acquisition of any of those shares for the purposes of Part 3-1 or 3-3 of the Income Tax Assessment Act 1997; or
+<a id="s6BA-3-b-i"></a>
+**(i)** the amount or value of the consideration paid in respect of the acquisition of any of those shares for the purposes of Part 3-1 or 3-3 of the Income Tax Assessment Act 1997; or
 
-> > <a id="s6BA-3-b-ii"></a>
-> > **(ii)** the amount of any profit or loss arising on the sale or disposal of any of those shares; any amounts paid or payable by the taxpayer in respect of the original shares (whether on purchase of the shares, on application for or allotment of the shares, to meet calls or otherwise) shall be deemed to have been paid or to be payable by the taxpayer in respect of the original shares and the bonus shares in such proportions as the Commissioner considers appropriate in the circumstances.
+<a id="s6BA-3-b-ii"></a>
+**(ii)** the amount of any profit or loss arising on the sale or disposal of any of those shares; any amounts paid or payable by the taxpayer in respect of the original shares (whether on purchase of the shares, on application for or allotment of the shares, to meet calls or otherwise) shall be deemed to have been paid or to be payable by the taxpayer in respect of the original shares and the bonus shares in such proportions as the Commissioner considers appropriate in the circumstances.
 
 <a id="s6BA-4"></a>
 **(4)** A company issues shares for no consideration if:
 
-> <a id="s6BA-4-a"></a>
-> **(a)** it credits its capital account with profits in connection with the issue of the shares; or
+<a id="s6BA-4-a"></a>
+**(a)** it credits its capital account with profits in connection with the issue of the shares; or
 
-> <a id="s6BA-4-b"></a>
-> **(b)** it credits its capital account with the amount of any dividend to a shareholder and the shareholder does not have a choice whether to be paid the dividend or to be issued with the shares. This subsection does not limit the generality of subsection (3).
+<a id="s6BA-4-b"></a>
+**(b)** it credits its capital account with the amount of any dividend to a shareholder and the shareholder does not have a choice whether to be paid the dividend or to be issued with the shares. This subsection does not limit the generality of subsection (3).
 
-> **Note:** A company that makes a credit covered by paragraph (a) or (b) will have a tainted share capital account.
+**Note:** A company that makes a credit covered by paragraph (a) or (b) will have a tainted share capital account.
 
 <a id="s6BA-5"></a>
 **(5)** Subject to subsection (6), if a shareholder has a choice whether to be paid a dividend or to be issued shares and the shareholder chooses to be issued with shares:
 
-> <a id="s6BA-5-a"></a>
-> **(a)** the dividend is taken to be credited to the shareholder; and
+<a id="s6BA-5-a"></a>
+**(a)** the dividend is taken to be credited to the shareholder; and
 
-> <a id="s6BA-5-b"></a>
-> **(b)** the dividend is taken to have been paid out of profits; and
+<a id="s6BA-5-b"></a>
+**(b)** the dividend is taken to have been paid out of profits; and
 
-> <a id="s6BA-5-c"></a>
-> **(c)** subsections (2) and (3) apply in working out the consideration for the acquisition of the shares for the purposes of this Act. However, the share capital account of the company does not become a tainted share capital account as a result of the crediting of the dividend to the share capital account.
+<a id="s6BA-5-c"></a>
+**(c)** subsections (2) and (3) apply in working out the consideration for the acquisition of the shares for the purposes of this Act. However, the share capital account of the company does not become a tainted share capital account as a result of the crediting of the dividend to the share capital account.
 
 <a id="s6BA-6"></a>
 **(6)** Subsection (5) does not apply if:
 
-> <a id="s6BA-6-a"></a>
-> **(a)** a shareholder in a listed public company has a choice whether to be paid a dividend (other than a minimally franked dividend within the meaning of subsection 45(3)) or to be issued shares and the shareholder chooses to be issued with shares; and
+<a id="s6BA-6-a"></a>
+**(a)** a shareholder in a listed public company has a choice whether to be paid a dividend (other than a minimally franked dividend within the meaning of subsection 45(3)) or to be issued shares and the shareholder chooses to be issued with shares; and
 
-> <a id="s6BA-6-b"></a>
-> **(b)** the company does not credit the share capital account in connection with the issue of those shares.
+<a id="s6BA-6-b"></a>
+**(b)** the company does not credit the share capital account in connection with the issue of those shares.
 
-> **Note:** If subsection (5) does not apply because of this subsection, subsection (3) will apply.
+**Note:** If subsection (5) does not apply because of this subsection, subsection (3) will apply.
 
 <a id="s6BA-7"></a>
 **(7)** This section (other than subsection (6)):
 
-> <a id="s6BA-7-a"></a>
-> **(a)** applies to a non-share equity interest in the same way as it applies to a share; and
+<a id="s6BA-7-a"></a>
+**(a)** applies to a non-share equity interest in the same way as it applies to a share; and
 
-> <a id="s6BA-7-b"></a>
-> **(b)** applies to an equity holder in the same way as it applies to a shareholder; and
+<a id="s6BA-7-b"></a>
+**(b)** applies to an equity holder in the same way as it applies to a shareholder; and
 
-> <a id="s6BA-7-c"></a>
-> **(c)** applies to a non-share dividend in the same way as it applies to a dividend.
+<a id="s6BA-7-c"></a>
+**(c)** applies to a non-share dividend in the same way as it applies to a dividend.
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

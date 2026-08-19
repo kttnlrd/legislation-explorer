@@ -1,0 +1,78 @@
+{
+ "map_id": "itaa-1936-div-7a-payments-loans-forgiven-debts",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "event-forgiven-debt",
+   "severity": "critical",
+   "finding": "The forgiven-debt path is incomplete against s 109F. Operative subsections 109F(3)-(8) are not represented: s 109F(3) defines forgiveness by reference to ITAA 1997 ss 245-35/245-37; s 109F(4) excludes discharge of a debt by transfer of property; s 109F(5) treats certain debt-parking assignments as forgiveness; s 109F(6) treats failure to insist on payment as forgiveness; s 109F(7) reassigns forgiveness of amalgamated loans; s 109F(8) applies only the earliest forgiveness. Also, the note in the body points to s 109G, but there is no s 109G decision node and the edge from dec-shareholder-associate to deemed-dividend-amount bypasses it. A debt discharged by property transfer or covered by s 109G would be incorrectly treated as a deemed dividend.",
+   "suggested_fix": "Add a decision node for 'Is the amount forgiven under s 109F(3)-(8)?' and a decision node for 'Does s 109G prevent a dividend?' between dec-shareholder-associate and deemed-dividend-amount. Branch yes paths to end-no-dividend. Add facet nodes for ss 109F(4), (5), (6), (7) and (8)."
+  },
+  {
+   "node_id": "event-payment",
+   "severity": "major",
+   "finding": "The s 109C payment trigger is incomplete. Missing s 109C(3) definition of 'payment' (amounts paid on behalf or for benefit, credits, transfers of property), s 109C(3A) rule that a loan is not a payment, s 109C(4) valuation of a transfer of property at arm's length amount less consideration, and the carve-out noted in s 109C(1) for amounts paid to a CGT concession stakeholder under s 152-325 of ITAA 1997. These affect whether a dealing is a payment and the amount of the dividend.",
+   "suggested_fix": "Add facet/decision nodes for: 'Is the dealing a payment under s 109C(3)?', 'Loan is not a payment (s 109C(3A))', 'Property transfer valuation under s 109C(4)', and 'Is the amount paid to a CGT concession stakeholder (s 152-325(11))?' with appropriate branches to end-no-dividend or deemed-dividend-amount."
+  },
+  {
+   "node_id": "event-loan",
+   "severity": "major",
+   "finding": "The loan path is missing several operative subsections of s 109D: s 109D(1A) liquidator's loan made in a winding-up not repaid by the end of the following year, s 109D(2) amount for such loans, s 109D(4) timing of when a loan is made, s 109D(4A) payment converted to a loan before lodgment day is treated as a loan, s 109D(5) variation of pre-4 December 1997 loans, and s 109D(6) definition of lodgment day. The payment-conversion rule is a common reclassification that changes the trigger outcome.",
+   "suggested_fix": "Add a decision node for 'Was a payment converted to a loan before lodgment day? (s 109D(4A))'. Add a facet node for s 109D(1A) liquidator's loan in the following year and an amount note for s 109D(2). Include lodgment day definition at dec-loan-repaid."
+  },
+  {
+   "node_id": "dec-loan-repaid",
+   "severity": "minor",
+   "finding": "The 'lodgment day' concept is used to decide the loan-repayment carve-out but is not defined. Section 109D(6) says lodgment day is the earlier of the due date for lodgment and the date of lodgment of the company's return, with a note for non-residents in s 109BC. Without this definition a practitioner cannot correctly apply the deadline.",
+   "suggested_fix": "Add the s 109D(6) definition to the body of dec-loan-repaid or as a linked definition facet."
+  },
+  {
+   "node_id": "dec-exceptions-subdiv-d",
+   "severity": "major",
+   "finding": "All Subdivision D exceptions are buried in the body of a single decision node rather than being explicit decision or facet nodes. The independent exceptions in ss 109J, 109K, 109L, 109M, 109N and 109NA each can change the outcome, but the map has no separate pathways or facets for them. This violates the requirement that each outcome-changing condition be an explicit spine or facet node.",
+   "suggested_fix": "Split into separate decision nodes for each Subdivision D exception, or at minimum create individual facet nodes with yes branches to exception-applies or end-no-dividend and a no branch to deemed-dividend-amount."
+  },
+  {
+   "node_id": "interposed-entities",
+   "severity": "major",
+   "finding": "The interposed entity/guarantee decision is placed after the deemed dividend amount and franking consequences, and has no yes/no branch. Subdivision E (ss 109T-109U) affects whether a payment or loan is treated as made to a shareholder or associate and should be assessed at the trigger/nexus stage, not after calculating the dividend. As drawn, the node is a dead-end 'checked' box that cannot divert flow.",
+   "suggested_fix": "Move interposed-entities to immediately after dec-shareholder-associate for payment and loan paths, add yes/no branches, and if yes treat the dealing as made directly to the target entity before applying Subdivision D exceptions."
+  },
+  {
+   "node_id": "trust-upe-limb",
+   "severity": "major",
+   "finding": "The trust UPE limb (s 109XA/109XB) is a self-contained basis for a deemed dividend, but it is placed after franking consequences and has only one outgoing edge labelled 'checked'. It does not branch to a deemed dividend calculation or to a no-dividend outcome, so the map cannot accurately depict whether the trust UPE limb applies.",
+   "suggested_fix": "Reposition trust-upe-limb as a parallel trigger before the deemed-dividend-amount calculation, add yes/no edges, and integrate any resulting s 109XB dividend into the distributable surplus cap."
+  },
+  {
+   "node_id": "commissioner-discretion",
+   "severity": "critical",
+   "finding": "Section 109RB permits the Commissioner to disregard the Division's operation or allow franking, but the map has a single outgoing edge to family-law-franking and then to end-deemed-dividend. If the Commissioner disregards the operation, the correct outcome is end-no-dividend, but no branch exists. A practitioner could be misled into treating a disregarded amount as assessable.",
+   "suggested_fix": "Convert commissioner-discretion into a decision node with branches: 'Commissioner disregards operation' to end-no-dividend, 'Commissioner allows franking' to end-deemed-dividend with franking, and 'no decision' to end-deemed-dividend."
+  },
+  {
+   "node_id": "family-law-franking",
+   "severity": "major",
+   "finding": "Franking under s 109RC is conditional on the dividend being taken to be paid because of a family law obligation. The map makes this an unconditional action, so every practitioner is directed through it regardless of the facts. There is no decision or bypass, and the subsequent end node still says 'unfranked dividend'.",
+   "suggested_fix": "Convert family-law-franking to a decision node: 'Is the deemed dividend because of a family law obligation?' with yes to franking allowed and no to end-deemed-dividend. Revise the end node to reflect possible franking."
+  },
+  {
+   "node_id": "end-deemed-dividend",
+   "severity": "minor",
+   "finding": "The label and body state 'unfranked dividend', but the map has just passed through family-law-franking and may also have a s 109RB decision allowing franking. This is internally inconsistent and may misstate the final character of the dividend.",
+   "suggested_fix": "Change label to 'Deemed dividend applies — assessable as a dividend' and body to say unfrankable unless s 109RB or s 109RC permits franking."
+  },
+  {
+   "node_id": "dec-amalgamated-loan",
+   "severity": "minor",
+   "finding": "The decision node does not branch. Both yes and no proceed to the same next node with no indication of how the s 109E shortfall is aggregated into the total deemed dividends. This is a signposting and completeness issue.",
+   "suggested_fix": "Add yes/no branches to distributable-surplus-cap, with labels indicating whether an s 109E shortfall is included, and clarify aggregation in the body."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "The overall logic flow places interposed entities and the trust UPE limb after the deemed dividend amount and franking consequences. These provisions determine whether a deemed dividend arises at all and should be analysed before or alongside the trigger and shareholder/associate nexus, not as post-consequence checks. This flow order would mislead a practitioner into calculating a dividend before establishing whether the operative deeming provision applies.",
+   "suggested_fix": "Restructure the flow so that Subdivision E interposed entities and Subdivision EA trust UPE provisions are considered at the trigger/nexus stage, with their own true/false branches leading to either the deemed-dividend calculation or end-no-dividend."
+  }
+ ]
+}

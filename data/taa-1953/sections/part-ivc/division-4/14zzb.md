@@ -22,11 +22,11 @@ source_pdf: "vol01.pdf"
 <a id="s14ZZB-2"></a>
 **(2)** Sections 17 (who can apply) and 18 (when to apply—general rule) of the ART Act do not apply in relation to:
 
-> <a id="s14ZZB-2-a"></a>
-> **(a)** a reviewable objection decision; or
+<a id="s14ZZB-2-a"></a>
+**(a)** a reviewable objection decision; or
 
-> <a id="s14ZZB-2-b"></a>
-> **(b)** an extension of time refusal decision.
+<a id="s14ZZB-2-b"></a>
+**(b)** an extension of time refusal decision.
 
 <a id="s14ZZB-3"></a>
 **(3)** The President of the ART may allow a longer period to make an application to refer a decision of the ART on the review of a reviewable objection decision or an extension of time refusal decision to the guidance and appeals panel under section 125 (when to apply to refer Tribunal decision) of the ART Act only if the request for a longer period is made before the period for making the application has expired.
@@ -37,11 +37,11 @@ source_pdf: "vol01.pdf"
 <a id="s14ZZB-5"></a>
 **(5)** Section 32 (reviewable decision continues to operate unless Tribunal orders otherwise) of the ART Act does not apply in relation to:
 
-> <a id="s14ZZB-5-a"></a>
-> **(a)** a reviewable objection decision; or
+<a id="s14ZZB-5-a"></a>
+**(a)** a reviewable objection decision; or
 
-> <a id="s14ZZB-5-b"></a>
-> **(b)** an extension of time refusal decision.
+<a id="s14ZZB-5-b"></a>
+**(b)** an extension of time refusal decision.
 
 <a id="s14ZZB-6"></a>
 **(6)** However, despite subsection (5), section 32 (reviewable decision continues to operate unless Tribunal orders otherwise) of the ART Act applies in relation to a reviewable objection decision that relates to a small business taxation assessment decision, subject to the modifications set out in section 14ZZH of this Act.

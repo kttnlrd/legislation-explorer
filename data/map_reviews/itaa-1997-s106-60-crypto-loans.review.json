@@ -1,0 +1,42 @@
+{
+ "map_id": "itaa-1997-s106-60-crypto-loans",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "security-cessation",
+   "severity": "critical",
+   "finding": "The node misstates s 106-60(1)(b). The provision does not apply to a return of collateral to the borrower; it applies only where the entity (usually the lender) holds the asset after the security ceases because the asset vested in that entity at an earlier time and that earlier vesting was ignored under paragraph (a). The return of collateral to the borrower is not the event described by s 106-60(1)(b).",
+   "suggested_fix": "Recast the node to describe the actual s 106-60(1)(b) scenario (lender retains the asset after the security ceases). If mapping the borrower's return, do not cite s 106-60(1)(b); instead explain that the borrower remained beneficial owner and no A1 occurs under s 104-10(2)."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "s 106-60(1)(a) has two cumulative conditions, but only the purpose condition is surfaced. The condition 'the security, charge or encumbrance remains over the asset just after the vesting' is buried in the security-vesting body and has no decision node or facet for failure. If it fails, the vesting is not ignored and CGT event A1 may arise on transfer to the lender.",
+   "suggested_fix": "Add an explicit decision node on the security branch: 'Does the security remain over the asset just after the vesting?' with a 'No' path to a facet stating s 106-60(1)(a) does not apply and CGT event A1 must be considered."
+  },
+  {
+   "node_id": "bailment-end",
+   "severity": "major",
+   "finding": "The node label states 'no CGT consequences — ownership unchanged throughout', but it is the target of the edge 'asset lost or not returned' and the body says CGT event A1/C2 may occur. The label misleads on the loss/non-return branch.",
+   "suggested_fix": "Split the loss/non-return branch into a separate outcome facet labelled, e.g., 'Bailment: loss or failure to return may trigger CGT event A1/C2'; keep 'no CGT consequences' only for the return path."
+  },
+  {
+   "node_id": "security-lender-own-account",
+   "severity": "major",
+   "finding": "The body states 'the lender acquired the asset by the ignored vesting'. Since s 106-60(1)(a) requires the vesting to be ignored for Parts 3-1 and 3-3, the lender cannot simply be said to have acquired the asset by that ignored vesting. This statement is internally inconsistent and could mislead as to the lender's own CGT position.",
+   "suggested_fix": "Rephrase to state that the borrower remains the owner for CGT purposes and the lender's own-account dealings are not attributed to the borrower; if mentioning the lender's position, analyse it separately and avoid claiming an acquisition by an ignored vesting."
+  },
+  {
+   "node_id": "title-transfer-out",
+   "severity": "major",
+   "finding": "The node repeatedly states CGT event A1 happens on delivery to the borrower. Under supplied s 104-10(3), the time of CGT event A1 is when the contract for disposal is entered into (if there is a contract), not when delivery occurs. For a title-transfer loan, the loan agreement will normally be made before delivery, so the map could cause the wrong income-year reporting.",
+   "suggested_fix": "Incorporate s 104-10(3) into the title-transfer branch: state that where there is a contract, the event time is the contract date, with delivery being relevant only where there is no contract."
+  },
+  {
+   "node_id": "no-rollover",
+   "severity": "minor",
+   "finding": "The end label 'No CGT consequences under this analysis' contradicts its body, which says ordinary CGT principles apply based on actual change of ownership. An arrangement outside the three mapped categories may well have CGT consequences.",
+   "suggested_fix": "Rename the node to, e.g., 'Not a mapped structure — apply ordinary CGT principles' and remove the 'No CGT consequences' wording."
+  }
+ ]
+}

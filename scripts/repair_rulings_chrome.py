@@ -34,6 +34,53 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent.parent
 RULINGS = BASE / "data" / "rulings"
 
+# ── Legal-database web chrome (second wave) ─────────────────────────────────
+# Class A: "^CITE | Legal database <html junk> // <real content>" (4-digit, 2-digit
+#          and sequential citations). Keep the bare citation, drop the chrome.
+LD_PREFIX = re.compile(
+    r"^([A-Z]+ \d+/\d+[A-Za-z]*|[A-Z]+ \d+)( \(Withdrawn\))? \| Legal database[^|]*?//\s*",
+    re.S,
+)
+# Class B/C/D: nav run of "| Legal database | Legal database | Contents |
+# Download | Email | Print | Back to browse | N related documents |" — appears
+# at file start, after a HEAD NOTE block, or after a "(Withdrawn)" citation.
+# Count is optional (some runs omit it) but at least one nav word is required
+# after the Legal database token(s), so the benign "Refer to the Legal Database
+# (ato.gov.au/law)" note can never match.
+NAV_RUN = re.compile(
+    r"(?:\|\s*)?(?:Legal database\s*\|?\s*)+"
+    r"(?:Contents|Download|Email|Print|Back to browse)"
+    r"(?:\s*\|?\s*(?:Contents|Download|Email|Print|Back to browse))*"
+    r"(?:\s*\|?\s*\d+\s+related doc\w*\s*\|?\s*)?",
+    re.I,
+)
+# Residual single "| Legal database |" token anywhere in the top chrome zone.
+LD_TOKEN = re.compile(r"\s*\|\s*Legal database\s*\|?\s*", re.I)
+LD_STANDALONE = re.compile(r"^Legal database\s*\|?\s*", re.I)
+# Nav run without the Legal database lead-in (starts "Contents | Download | ...").
+# Requires two+ nav words so a document's own "Contents" TOC heading is safe.
+NAV_TAIL = re.compile(
+    r"^(?:Contents|Download|Email|Print|Back to browse)"
+    r"(?:\s*\|?\s*(?:Contents|Download|Email|Print|Back to browse))+"
+    r"(?:\s*\|?\s*\d+\s+related doc\w*\s*\|?\s*)?",
+    re.I,
+)
+# Mid-document nav bar with no Legal database lead-in, e.g. the TOC block
+# "… A B C D … Download Email Print Back to browse 63 related documents …".
+# Count is mandatory here so bare "Print"/"Email" content words never match.
+NAV_BAR = re.compile(
+    r"(?:\s*\|\s*)?(?:Download|Email|Print|Back to browse)"
+    r"(?:(?:\s*\|\s*|\s+)(?:Download|Email|Print|Back to browse))*"
+    r"(?:\s*\|\s*|\s+)\d+\s+related doc\w*",
+    re.I,
+)
+# Trailing JS/HTML fragments from the legal database page template.
+LINKS_TREE = re.compile(r"\s*\$\(['\"]\.links-tree['\"]\)\.linksTree\([^)]*\);\s*$")
+COPYRIGHT_NOTICE = re.compile(
+    r"Copyright notice\s*© Australian Taxation Office for the Commonwealth of Australia\s*$"
+)
+HTML_FRAG = re.compile(r"</?hp1>|</?div>|</?span>|</?p>|\">", re.I)
+
 # First citation at start of file, optionally followed by page chrome
 CITE_AT_START = re.compile(
     r"^([A-Z]+ \d{4}/\d+[A-Za-z]*)\s*\|\s*Legal database\s*//\s*.*?(?=\s(?:Class Ruling|Product Ruling|Public Ruling|Determination|Addendum|Income Tax|GST|FBT|Superannuation|A New Tax System|Taxation Ruling|Miscellaneous|Self Managed|Deceased|Capital Gains|Goods and Services|Fringe Benefits|Fringe benefits))",
@@ -68,25 +115,47 @@ DOUBLE_SPACE = re.compile(r" {2,}")
 
 def strip_chrome(text: str) -> str:
     orig = text
-    # 1. If file starts with "CITE | Legal database // ...", keep bare citation
-    m = CITE_AT_START.match(text)
+    # 0. Trailing page-template JS/copyright first
+    text = LINKS_TREE.sub("", text)
+    text = COPYRIGHT_NOTICE.sub("", text)
+    # 1. Class A: file starts with "CITE | Legal database <junk> // ..." — keep bare citation
+    m = LD_PREFIX.match(text)
     if m:
-        text = m.group(1) + " " + text[m.end():]
-    # 2. Remove JS analytics block(s)
+        text = m.group(1) + (m.group(2) or "") + " " + text[m.end():]
+    else:
+        m = CITE_AT_START.match(text)
+        if m:
+            text = m.group(1) + " " + text[m.end():]
+    # 2. Nav run(s): "Legal database ... Contents ... N related documents" chrome.
+    #    Multi-page extractions repeat the nav bar per page — loop until stable.
+    for _ in range(10):
+        new = NAV_RUN.sub("", text, count=1)
+        new = NAV_TAIL.sub("", new, count=1)
+        new = NAV_BAR.sub("", new, count=1)
+        if new == text:
+            break
+        text = new
+    # 3. Residual "| Legal database |" tokens (global — pipe-delimited tokens only
+    #    ever appear in nav chrome, never in content) and standalone lead-ins
+    text = LD_TOKEN.sub("", text)
+    text = LD_STANDALONE.sub("", text, count=1)
+    # 4. HTML fragments from the page template
+    text = HTML_FRAG.sub("", text)
+    # 5. Remove JS analytics block(s)
     text = JS_BLOCK.sub(" ", text)
-    # 3. Decode HTML entities
+    # 6. Decode HTML entities
     def dec(m: re.Match) -> str:
         try:
             return html.unescape(m.group(0))
         except Exception:
             return " "
     text = HTML_ENTITY.sub(dec, text)
-    # 4. Remove known chrome phrases
+    # 7. Remove known chrome phrases
     for ph in CHROME_PHRASES:
         text = re.sub(ph, " ", text, flags=re.S)
-    # 5. Remove trailing nav junk
+    # 8. Remove trailing nav junk
     text = NAV_JUNK_TAIL.sub("", text)
-    # 6. Collapse multiple spaces
+    # 9. Collapse multiple spaces
     text = DOUBLE_SPACE.sub(" ", text)
     text = re.sub(r"\s{2,}", " ", text).strip()
     return text

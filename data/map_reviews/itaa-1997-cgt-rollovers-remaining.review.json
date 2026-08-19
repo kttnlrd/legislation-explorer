@@ -1,0 +1,48 @@
+{
+ "map_id": "itaa-1997-cgt-rollovers-remaining",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "map",
+   "severity": "critical",
+   "finding": "The supplied core provisions s 112-115 and s 112-150 are exhaustive tables, but the map omits many listed roll-overs without any facet or pointer: s 112-115 item 1 (individual/trustee to wholly-owned company, ss 122-40-122-65), items 14D/14E (Div 615 interposed company exchanges), item 15 (s 26BC securities lending); s 112-150 items 1-4, 8 and 11 (Subdiv 126-A marriage breakdown, ss 122-70/75 and 122-200/205 transfers, Subdiv 126-E after 124-M, Div 620 after 124-I).",
+   "suggested_fix": "Add a facet/outcome node for every omitted table item, either as a branch in the relevant category or as an explicit 'covered elsewhere/separate map' pointer, so users are not led to conclude no roll-over exists."
+  },
+  {
+   "node_id": "rollover-124s",
+   "severity": "critical",
+   "finding": "Node presents Subdivision 124-S interest realignment arrangements as an available replacement-asset roll-over, but the supplied s 112-115 table does not list Subdivision 124-S. Start node's list also includes 124-S.",
+   "suggested_fix": "Remove or quarantine the 124-S path unless the governing table is corrected; if it is a current roll-over, the core table and map must be updated consistently."
+  },
+  {
+   "node_id": "rollover-124e",
+   "severity": "major",
+   "finding": "Subdivision 124-E also covers exchange of units in the same unit trust, not just shares. The label and body refer only to s 124-240 and shares, omitting the unit-trust exchange that s 112-115 item 7 makes part of this roll-over.",
+   "suggested_fix": "Add a decision branch or facet for units in the same unit trust (s 124-245) and rename the node/label to cover both shares and units."
+  },
+  {
+   "node_id": "rollover-124f",
+   "severity": "major",
+   "finding": "Subdivision 124-F also covers rights or options to acquire units in a unit trust, not only shares. The body and label refer only to shares/options to acquire shares, omitting unit trust rights/options under s 112-115 item 8.",
+   "suggested_fix": "Add or explicitly branch to rights/options to acquire units in a unit trust and adjust the label/body."
+  },
+  {
+   "node_id": "cat-deceased",
+   "severity": "major",
+   "finding": "The deceased-estate decision has no negative or 'not applicable' facet. If no CGT asset devolved to an LPR or passed to a beneficiary, the path terminates without guidance, violating the requirement that every condition that can end or divert the reasoning have an explicit facet.",
+   "suggested_fix": "Add an end/facet node for 'no asset devolves or passes' routing to ordinary CGT rules or outside Div 128."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "Eligibility conditions that determine whether a roll-over is available are generally embedded in action-node body text rather than represented as decision nodes with non-availability facets. Examples include the residency/TAP and paid-up capital condition in rollover-124e, the foreign-resident/TAP condition in rollover-125b, and the non-discretionary entitlement and exceptions in rollover-126g.",
+   "suggested_fix": "Promote key outcome-changing conditions to explicit decision nodes on the spine and add end-of-line facets for non-satisfaction."
+  },
+  {
+   "node_id": "rollover-122b",
+   "severity": "major",
+   "finding": "Subdivision 122-B includes both replacement-asset and same-asset roll-over components under s 112-150 item 4 (ss 122-200-122-205), but the node cites only ss 122-120, 122-125 and 122-150 and sits solely in the replacement-asset branch. Users with a partnership-to-company asset transfer may miss the same-asset consequences.",
+   "suggested_fix": "Add a same-asset branch or expand the 122-B node to expressly cover the same-asset transfer (ss 122-200-122-205) and its conditions."
+  }
+ ]
+}

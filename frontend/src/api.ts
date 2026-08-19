@@ -103,6 +103,8 @@ export const api = {
   privateRulingsTree: () => fetchJson('/private-rulings/tree'),
   privateRulingsByYear: (year: number, limit: number = 50, offset: number = 0) =>
     fetchJson(`/private-rulings?year=${year}&limit=${limit}&offset=${offset}`),
+  privateRulingsByMonth: (year: number, month: number, limit: number = 200, offset: number = 0) =>
+    fetchJson(`/private-rulings?year=${year}&month=${month}&limit=${limit}&offset=${offset}`),
   privateRulingsUndated: (limit: number = 50, offset: number = 0) =>
     fetchJson(`/private-rulings?undated=true&limit=${limit}&offset=${offset}`),
   privateRuling: (authnum: string) => fetchJson(`/private-ruling/${authnum}`),

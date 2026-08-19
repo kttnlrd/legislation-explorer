@@ -1,0 +1,48 @@
+{
+ "map_id": "itaa-1997-div-85-psi",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "map",
+   "severity": "critical",
+   "finding": "The map uses s 86-15 as the source of the PSB tests. The supplied s 86-15 is 'Effect of obtaining personal services income through a personal services entity', not the four tests. The facet citations are systematically wrong: s 86-15(2) defines a PSE, s 86-15(3) is the entity-conducting-a-PSB exception, s 86-15(4) is the prompt-salary exception, and s 86-15(5) is the assessable-income extent rule.",
+   "suggested_fix": "Retitle s 86-15 correctly; move the results, unrelated clients, employment and business premises tests to the correct Division 87 PSB test provisions and update all affected nodes, including facet-results, facet-clients, facet-employment and facet-premises."
+  },
+  {
+   "node_id": "entity",
+   "severity": "critical",
+   "finding": "Node says attribution is under s 86-20 and the salary exception is under s 86-20(2). The supplied s 86-15(1) includes the entity's PSI in the individual's assessable income, s 86-15(4) contains the prompt-salary exception with the 14-day PAYG payment period rule, and s 86-15(3) contains the entity-conducting-a-PSB exception. The node also omits s 86-15(5)'s extent limitation.",
+   "suggested_fix": "Rewrite entity node around s 86-15(1)-(5): inclusion, PSE definition, entity PSB exception, prompt-pay exception, and extent limitation. Treat s 86-20 and s 86-60 as downstream deduction provisions."
+  },
+  {
+   "node_id": "attributed",
+   "severity": "critical",
+   "finding": "Repeats the incorrect attribution rule: 'attributed to you under s 86-20 unless promptly paid as salary'. Inclusion is in s 86-15(1); the prompt-pay exception is s 86-15(4).",
+   "suggested_fix": "Correct references to s 86-15(1) and s 86-15(4); incorporate s 86-15(3) and s 86-15(5) conditions."
+  },
+  {
+   "node_id": "psb",
+   "severity": "major",
+   "finding": "States that a PSB means 'Div 85 does not apply at all (s 85-30)'. The supplied s 85-30 is apportionable: it disapplies Div 85 only 'to the extent' the amount relates to income from conducting a PSB.",
+   "suggested_fix": "Reword to: 'Div 85 does not apply to the amount/payment/contribution to the extent it relates to income from a PSB.'"
+  },
+  {
+   "node_id": "psb-yes",
+   "severity": "major",
+   "finding": "States 'Div 85/86 do not apply'. s 85-30 only concerns Div 85, and only to the extent described. Div 86's entity exclusion for an entity-conducted PSB is in s 86-15(3), not a blanket exclusion.",
+   "suggested_fix": "Narrow the outcome to the Div 85 exception under s 85-30 and separately apply s 86-15(3) where an entity is involved."
+  },
+  {
+   "node_id": "facet-80",
+   "severity": "major",
+   "finding": "The '80% rule' and the statement that an entity with less than 80% from one source 'may itself be a PSB' are not supported by the supplied text. s 86-60 is a deduction entitlement rule, not a source-percentage test.",
+   "suggested_fix": "Remove or correct the 80% concept; if it exists, cite the correct provision and reshape the facet around s 86-60's actual deduction rule."
+  },
+  {
+   "node_id": "not-psb",
+   "severity": "minor",
+   "finding": "The node cites s 85-30 as the basis for 'Div 85 deduction limits apply', but s 85-30 is the PSB exception, not the deduction-limiting provision.",
+   "suggested_fix": "Cite s 85-10 (and related ss 85-15, 85-20, 85-25) as the operative deduction-limiting provisions."
+  }
+ ]
+}

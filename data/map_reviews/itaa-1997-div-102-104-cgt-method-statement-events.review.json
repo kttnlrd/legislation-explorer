@@ -1,0 +1,186 @@
+{
+ "map_id": "itaa-1997-div-102-104-cgt-method-statement-events",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "map",
+   "severity": "critical",
+   "finding": "The s 102-5 method statement is mis-ordered and incomplete. The map presents Step 1 as 'work out gains/losses', Step 2 as discount, Step 3 as losses, and labels net capital gain as Step 4. The actual s 102-5 steps are: Step 1 reduce capital gains by current-year capital losses; Step 2 apply prior-year net capital losses; Step 3 apply discount percentage; Step 4 apply small business concessions; Step 5 add remaining gains.",
+   "suggested_fix": "Restructure the spine to mirror s 102-5 exactly: (1) current-year loss offset, (2) prior-year net capital loss offset, (3) CGT discount, (4) small business concessions, (5) sum to net capital gain. Do not label net capital gain as Step 4."
+  },
+  {
+   "node_id": "map",
+   "severity": "critical",
+   "finding": "s 102-5 Step 4 (small business concessions under Subdivisions 152-C, 152-D and 152-E) is omitted entirely. A practitioner following the map would understate tax where small business concessions apply.",
+   "suggested_fix": "Add a decision/action node after discount and prior losses: 'Do any small business concessions apply?' with facets for the basic conditions in Subdivision 152-A and the specific concessions, before the final sum."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "s 102-5(2) and (3) (bankruptcy or release from debts causing earlier-year net capital losses to be disregarded) is not captured as a facet. This changes outcomes for bankrupt taxpayers.",
+   "suggested_fix": "Add a decision node or facet after loss offset: 'Has the taxpayer become bankrupt or been released from debts under bankruptcy law?' If yes, disregard prior-year net capital losses and proceed."
+  },
+  {
+   "node_id": "step-losses",
+   "severity": "critical",
+   "finding": "The node instructs reducing gains by current-year then prior-year losses as 'STEP 3' and cites s 102-5 step 3. Actual s 102-5 makes current-year loss offset Step 1 and prior-year net capital losses Step 2; discount is Step 3. It also cites s 102-10 as 'Losses cannot be deducted from exempt income', which is not the correct title.",
+   "suggested_fix": "Correct the step numbering and order; use s 102-10 for net capital loss computation and s 102-15 for application of net capital losses. Refer to s 102-1 for the prohibition on deducting a net capital loss."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "The flow from event nodes to 'dec-eligible-discount' uses only 'Gain arises' edges, with capital loss handled as an afterthought edge from the discount decision. Loss-only CGT events (e.g. G3, K11, K12) and mixed events are misrepresented, and losses are not routed into Step 1 loss offset.",
+   "suggested_fix": "Each event node should branch on gain or loss: gains go to the gain aggregation path; losses go directly to the capital loss offset/outcome path. Do not decide loss vs gain at the discount eligibility decision."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "CGT event K8 (Direct value shifts affecting your equity or loan interests in a company or trust, s 104-250) is missing from the s 104-5 table coverage, despite the map claiming all events.",
+   "suggested_fix": "Add an event-k8 node and edge from dec-which-event labelled 'Event K8 applies'."
+  },
+  {
+   "node_id": "event-k1",
+   "severity": "critical",
+   "finding": "K1 is misdescribed. The current s 104-5 table K1 is 'Incoming international transfer of a Kyoto unit or an Australian carbon credit unit from your foreign account...' with time when you start to hold the unit as a registered emissions unit. The node says 'CGT asset starts being taxable Australian property' and gives the wrong time.",
+   "suggested_fix": "Replace the K1 node body/label with the current statutory description, time and gain/loss formula."
+  },
+  {
+   "node_id": "event-k3",
+   "severity": "critical",
+   "finding": "K3 is misdescribed as 'Asset passing to a beneficiary of a deceased estate', with time when the asset passes. Current K3 is 'Asset passing to tax-advantaged entity', time when the individual dies.",
+   "suggested_fix": "Correct the node to K3: asset passing to tax-advantaged entity, time on death, and use the table's market value less cost base formula."
+  },
+  {
+   "node_id": "event-k4",
+   "severity": "critical",
+   "finding": "K4 is misdescribed as 'CGT asset starts being held on trust'. Current K4 is 'CGT asset starts being trading stock', time when asset starts being trading stock.",
+   "suggested_fix": "Correct the node to K4: CGT asset starts being trading stock, time when it starts, with market value less cost base / reduced cost base less market value."
+  },
+  {
+   "node_id": "event-k5",
+   "severity": "critical",
+   "finding": "K5 is misdescribed as a collectable/personal use asset being lost or destroyed. Current K5 is a special capital loss from a collectable that has fallen in market value, triggered when CGT event A1, C2 or E8 happens to shares/interest in the entity owning the collectable.",
+   "suggested_fix": "Correct the K5 node to the current s 104-225/104-5 description and formula."
+  },
+  {
+   "node_id": "event-k6",
+   "severity": "critical",
+   "finding": "K6 is misdescribed as an interposed entity starting to own shares in an entity with pre-CGT shares. Current K6 is triggered when another CGT event involving the shares/interest happens, with gain referable to post-CGT assets.",
+   "suggested_fix": "Correct the K6 node to the current s 104-230/s 104-5 formula: capital proceeds attributable to post-CGT assets less cost bases."
+  },
+  {
+   "node_id": "event-k7",
+   "severity": "critical",
+   "finding": "K7 body says 'Gain = balancing adjustment amount'. Current K7 applies to depreciating assets used for non-taxable purposes and computes gain/loss as termination value less cost times fraction, or cost less termination value times fraction.",
+   "suggested_fix": "Correct the K7 gain/loss formula to the s 104-5 fraction method."
+  },
+  {
+   "node_id": "event-k9",
+   "severity": "critical",
+   "finding": "K9 is misdescribed as an entitlement to receive a payment such as insurance/indemnity. Current K9 is 'Entitlement to receive payment of a carried interest', with gain equal to capital proceeds from the entitlement and no capital loss.",
+   "suggested_fix": "Correct the K9 node to the carried interest description and formula."
+  },
+  {
+   "node_id": "event-k12",
+   "severity": "major",
+   "finding": "K12 body says 'time is when the loss is made'. Current K12 (Foreign hybrid loss exposure adjustment) occurs just before the end of the income year, with the loss amount stated in subsection 104-270(3).",
+   "suggested_fix": "Correct the K12 time and formula."
+  },
+  {
+   "node_id": "event-e6",
+   "severity": "critical",
+   "finding": "E6 is misdescribed as 'Disposal to a non-resident trust'. Current E6 is 'Disposal to beneficiary to end income right' (s 104-80), with trustee/beneficiary gain and loss formulas.",
+   "suggested_fix": "Correct the E6 node to the current statutory description and formula."
+  },
+  {
+   "node_id": "event-e7",
+   "severity": "critical",
+   "finding": "E7 is misdescribed as 'Disposal to a non-resident company'. Current E7 is 'Disposal to beneficiary to end capital interest' (s 104-85).",
+   "suggested_fix": "Correct the E7 node to the current statutory description and formula."
+  },
+  {
+   "node_id": "event-e8",
+   "severity": "critical",
+   "finding": "E8 is misdescribed as 'Disposal by a trust to a non-resident entity'. Current E8 is 'Disposal by beneficiary of capital interest' (s 104-90).",
+   "suggested_fix": "Correct the E8 node to the current statutory description and formula."
+  },
+  {
+   "node_id": "event-e9",
+   "severity": "critical",
+   "finding": "E9 body gives time as 'when the trust is created'. Current E9 occurs when the entity makes the agreement, with market value of the future property as if it existed less incidental costs.",
+   "suggested_fix": "Correct E9 time and formula."
+  },
+  {
+   "node_id": "event-e10",
+   "severity": "major",
+   "finding": "E10 is described as a general annual cost base reduction for a trust interest, with time at end of income year. Current E10 applies when the reduction happens and is the annual cost base reduction exceeding the cost base of an interest in an AMIT.",
+   "suggested_fix": "Correct E10 to the AMIT-specific event, time, and gain formula."
+  },
+  {
+   "node_id": "event-f2",
+   "severity": "critical",
+   "finding": "F2 body states that a long-term lease is 'treated as a disposal' and that 'CGT event A1 applies instead'. Current F2 has its own gain/loss formula: capital proceeds from grant, renewal or extension less cost base of leased property / reduced cost base less proceeds.",
+   "suggested_fix": "Remove the A1 statement and give the F2 statutory formula."
+  },
+  {
+   "node_id": "event-f3",
+   "severity": "major",
+   "finding": "F3 is misdescribed as lease surrender with time when lease term ends. Current F3 is 'Lessor pays lessee to get lease changed', time when lease term is varied or waived, and produces no capital gain, only expenditure loss.",
+   "suggested_fix": "Correct the F3 description, time, and no-gain/loss formula."
+  },
+  {
+   "node_id": "event-f4",
+   "severity": "major",
+   "finding": "F4 body gives time as 'when the lease term ends'. Current F4 ('Lessee receives payment for changing lease') occurs when the lease term is varied or waived.",
+   "suggested_fix": "Correct the F4 time and formula."
+  },
+  {
+   "node_id": "event-h1",
+   "severity": "critical",
+   "finding": "H1 body says 'You make a capital loss'. Current H1 can produce a capital gain if the forfeited deposit exceeds expenditure in connection with the prospective sale: gain = deposit less expenditure; loss = expenditure less deposit.",
+   "suggested_fix": "Correct H1 to show both gain and loss possibilities."
+  },
+  {
+   "node_id": "event-h2",
+   "severity": "critical",
+   "finding": "H2 is labelled 'Receipt for granting an option' and described as an option grant. Current H2 is 'Receipt for event relating to a CGT asset', with gain = capital proceeds less incidental costs, loss = incidental costs less capital proceeds.",
+   "suggested_fix": "Correct the H2 label and body to the current s 104-155 event."
+  },
+  {
+   "node_id": "event-l2",
+   "severity": "critical",
+   "finding": "L2 is described as 'Amount remaining after an entity leaves a group' with time just after leaving. Current L2 is 'Amount remaining after step 3A etc of joining allocable cost amount is negative', time just after entity becomes subsidiary member.",
+   "suggested_fix": "Correct the L2 node to the joining allocable cost amount negative description and time."
+  },
+  {
+   "node_id": "event-l3",
+   "severity": "major",
+   "finding": "L3 is described as a general tax cost setting amount for a joining entity. Current L3 is specifically where tax cost setting amounts for retained cost base assets exceed the joining allocable cost amount, producing a capital gain of the excess.",
+   "suggested_fix": "Correct L3 to the excess amount formula and timing."
+  },
+  {
+   "node_id": "event-l6",
+   "severity": "major",
+   "finding": "L6 body gives time as 'when the error is discovered'. Current L6 occurs at the start of the income year when the Commissioner becomes aware of the errors, with gain/loss as net overstated/understated amount.",
+   "suggested_fix": "Correct the L6 time and formula."
+  },
+  {
+   "node_id": "event-j6",
+   "severity": "major",
+   "finding": "J6 body gives time as 'when the further reduction would be made'. Current J6 occurs at the end of the replacement asset period, with the amount in subsection 104-198(3).",
+   "suggested_fix": "Correct the J6 time and statutory reference."
+  },
+  {
+   "node_id": "event-d3",
+   "severity": "minor",
+   "finding": "D3 body omits the statutory alternative time 'if no contract, when right is granted'.",
+   "suggested_fix": "Add the alternative time to the D3 node."
+  },
+  {
+   "node_id": "event-g3",
+   "severity": "minor",
+   "finding": "G3 body refers only to shares; the current event covers shares or financial instruments declared worthless.",
+   "suggested_fix": "Add 'or financial instruments' and the full loss formula."
+  }
+ ]
+}

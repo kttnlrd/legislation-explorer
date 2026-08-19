@@ -14,7 +14,7 @@ source_pdf: "corps-act"
 
 # 588FGAC Compliance with orders generally
 
-> **Note:** Failure to comply with this section is an offence: see subsection 1311(1).
+**Note:** Failure to comply with this section is an offence: see subsection 1311(1).
 
 ---
 *Corporations Act 2001*

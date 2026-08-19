@@ -22,11 +22,11 @@ source_pdf: "vol01.pdf"
 <a id="s14ZZQ-2"></a>
 **(2)** For the purposes of subsection (1):
 
-> <a id="s14ZZQ-2-a"></a>
-> **(a)** if the order is made by the court constituted by a single Judge and no appeal is lodged against the order within the period for lodging an appeal—the order becomes final at the end of the period; and
+<a id="s14ZZQ-2-a"></a>
+**(a)** if the order is made by the court constituted by a single Judge and no appeal is lodged against the order within the period for lodging an appeal—the order becomes final at the end of the period; and
 
-> <a id="s14ZZQ-2-b"></a>
-> **(b)** if the order is made by the court constituted other than as mentioned in paragraph (a) and no application for special leave to appeal to the High Court against the order is made within the period of 30 days after the order is made—the order becomes final at the end of the period.
+<a id="s14ZZQ-2-b"></a>
+**(b)** if the order is made by the court constituted other than as mentioned in paragraph (a) and no application for special leave to appeal to the High Court against the order is made within the period of 30 days after the order is made—the order becomes final at the end of the period.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

@@ -16,15 +16,15 @@ source_pdf: "corps-act"
 
 **(1)** Subsection 588G(2) does not apply in relation to a person and a debt incurred by a company if the debt is incurred:
 
-> **(a)** in the ordinary course of the company's business; and
+**(a)** in the ordinary course of the company's business; and
 
-> **(b)** during:
+**(b)** during:
 
-> > **(i)** the 6‑month period starting on the day this section commences; or
+**(i)** the 6‑month period starting on the day this section commences; or
 
-> > **(ii)** any longer period that starts on the day this section commences and that is prescribed by the regulations for the purposes of this subparagraph; and
+**(ii)** any longer period that starts on the day this section commences and that is prescribed by the regulations for the purposes of this subparagraph; and
 
-> **(c)** before any appointment during that period of an administrator, restructuring practitioner or liquidator of the company.
+**(c)** before any appointment during that period of an administrator, restructuring practitioner or liquidator of the company.
 
 **(2)** A person who wishes to rely on subsection (1) in a proceeding for, or relating to, a contravention of subsection 588G(2) bears an evidential burden in relation to that matter.
 

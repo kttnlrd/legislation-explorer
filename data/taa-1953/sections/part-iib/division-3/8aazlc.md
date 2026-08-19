@@ -23,11 +23,11 @@ RBA surpluses
 <a id="s8AAZLC-2"></a>
 **(2)** If, under this Division, an excess non-RBA credit that relates to an RBA (the related RBA) is:
 
-> <a id="s8AAZLC-2-a"></a>
-> **(a)** allocated to an RBA; or
+<a id="s8AAZLC-2-a"></a>
+**(a)** allocated to an RBA; or
 
-> <a id="s8AAZLC-2-b"></a>
-> **(b)** applied against a non-RBA tax debt; the related RBA is adjusted in the Commissioner's favour by the same amount.
+<a id="s8AAZLC-2-b"></a>
+**(b)** applied against a non-RBA tax debt; the related RBA is adjusted in the Commissioner's favour by the same amount.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

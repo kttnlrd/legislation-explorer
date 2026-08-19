@@ -13,7 +13,7 @@
    "id": "start",
    "type": "start",
    "label": "A trust is created, or its administration and control are situated, in connection with Australia",
-   "body": "Trust residency matters for CGT (resident trust for CGT purposes), for attribution of trust income to beneficiaries, and for the foreign trust rules. The 'resident trust for CGT purposes' definition sits in s 995-1 ITAA 1997, cross-referenced from s 6(1) ITAA 1936.",
+   "body": "Trust residency matters for CGT (resident trust for CGT purposes), for attribution of trust income to beneficiaries, and for the foreign trust rules. The 'resident trust for CGT purposes' definition sits in s 995-1 ITAA 1997, cross-referenced from s 6(1) ITAA 1936. This map tests that definition — it is NOT the Div 6 income-attribution code (see the separate Div 6 map).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -49,7 +49,7 @@
    "id": "dec-resident-trust",
    "type": "decision",
    "label": "Is the trust a resident trust for CGT purposes under s 995-1 ITAA 1997?",
-   "body": "A trust is a resident trust for CGT purposes for an income year if, at any time during the year: (a) for a trust that is not a unit trust — the trustee is an Australian resident and the trust was created in Australia or the settlor was an Australian resident at creation; or (b) for a unit trust — the trustee is an Australian resident and the central management and control of the trust is in Australia. A public trading trust and certain superannuation funds have their own rules.",
+   "body": "A trust is a resident trust for CGT purposes for an income year if, at any time during the income year: (a) for a trust that is NOT a unit trust — a trustee is an Australian resident OR the central management and control of the trust is in Australia (s 995-1(1) ITAA 1997, 'resident trust for CGT purposes'); or (b) for a UNIT trust — one requirement from each column of the s 995-1 table: column 2 (any property of the trust is situated in Australia, OR the trust carries on a business in Australia) AND column 3 (the central management and control of the trust is in Australia, OR Australian residents held more than 50% of the beneficial interests in the income or property of the trust). The s 995-1 definition is cross-referenced from s 6(1) ITAA 1936.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -82,7 +82,7 @@
    "id": "outcome-resident",
    "type": "outcome",
    "label": "RESIDENT TRUST — trustee taxed on net income, beneficiaries assessed on entitlements",
-   "body": "The trustee of a resident trust is liable to tax on the net income of the trust estate. Beneficiaries presently entitled to income are assessed on their shares. CGT events in relation to trust assets fall within the Australian CGT net.",
+   "body": "Consequences of being a resident trust for CGT purposes: CGT events on trust assets fall within the Australian CGT net (with the s 855-50/855-55 rules on becoming/ceasing to be a resident trust), and trust income is attributed under Div 6 ITAA 1936 to resident and non-resident beneficiaries on the usual rules. The trustee's liability is NOT a blanket tax on the whole net income — it depends on whether any beneficiary is presently entitled (ss 97-99A ITAA 1936): see the Div 6 map.",
    "statute": [],
    "commentary": [],
    "cases": [],
@@ -93,7 +93,7 @@
    "id": "outcome-foreign",
    "type": "outcome",
    "label": "FOREIGN TRUST — only Australian-source income taxed; foreign trust rules may apply",
-   "body": "The trustee of a foreign trust is taxed only on Australian-source income. Capital gains on assets that are not taxable Australian property may be disregarded (Div 855 ITAA 1997). The foreign trust rules (Part X Division 6AAA ITAA 1936) may apply to attributed income.",
+   "body": "For a foreign trust, only Australian-source income is taxed in Australia and capital gains on assets that are not taxable Australian property are disregarded (Div 855 ITAA 1997). The foreign trust attribution rules (Division 6AAA of Part III ITAA 1936, ss 102AAA-102AAY) may apply to attributed income of Australian beneficiaries.",
    "statute": [],
    "commentary": [],
    "cases": [],

@@ -17,6 +17,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 from functools import lru_cache
 from pathlib import Path
 
@@ -70,6 +71,7 @@ def private_rulings_tree():
 @router.get("/api/private-rulings")
 def private_rulings_list(
     year: int | None = Query(default=None),
+    month: int | None = Query(default=None, ge=1, le=12),
     undated: bool = Query(default=False),
     limit: int = Query(default=50, ge=1, le=200),
     offset: int = Query(default=0, ge=0),
@@ -86,6 +88,10 @@ def private_rulings_list(
                 continue
         elif year is not None and meta.get("year") != year:
             continue
+        if month is not None:
+            m = re.match(r"(\d{4})-(\d{2})", meta.get("date_of_advice") or "")
+            if not m or int(m.group(2)) != month:
+                continue
         items.append({
             "authnum": auth,
             "name": meta.get("name", ""),

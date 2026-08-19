@@ -16,13 +16,13 @@ source_pdf: "corps-act"
 
 **(1)** An asset (except in relation to a sub‑fund of a CCIV) is property, or a right, of any kind, and includes:
 
-> **(a)** any legal or equitable estate or interest (whether present or future, vested or contingent, tangible or intangible, in real or personal property) of any kind; and
+**(a)** any legal or equitable estate or interest (whether present or future, vested or contingent, tangible or intangible, in real or personal property) of any kind; and
 
-> **(b)** any chose in action; and
+**(b)** any chose in action; and
 
-> **(c)** any right, interest or claim of any kind including rights, interests or claims in or in relation to property (whether arising under an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing); and
+**(c)** any right, interest or claim of any kind including rights, interests or claims in or in relation to property (whether arising under an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing); and
 
-> **(d)** any CGT asset within the meaning of the Income Tax Assessment Act 1997.
+**(d)** any CGT asset within the meaning of the Income Tax Assessment Act 1997.
 
 **(2)** The assets of a financial services licensee are all the licensee's assets (as defined in subsection (1)), whether or not the assets are used in connection with the licensee's Australian financial services licence.
 

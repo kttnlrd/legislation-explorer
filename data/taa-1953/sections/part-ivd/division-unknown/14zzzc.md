@@ -25,11 +25,11 @@ source_pdf: "vol01.pdf"
 <a id="s14ZZZC-3"></a>
 **(3)** The claimant may be ordered to pay the costs only if:
 
-> <a id="s14ZZZC-3-a"></a>
-> **(a)** the court is satisfied that the claimant instituted the proceedings vexatiously or without reasonable cause; or
+<a id="s14ZZZC-3-a"></a>
+**(a)** the court is satisfied that the claimant instituted the proceedings vexatiously or without reasonable cause; or
 
-> <a id="s14ZZZC-3-b"></a>
-> **(b)** the court is satisfied that the claimant's unreasonable act or omission caused the other party to incur the costs.
+<a id="s14ZZZC-3-b"></a>
+**(b)** the court is satisfied that the claimant's unreasonable act or omission caused the other party to incur the costs.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

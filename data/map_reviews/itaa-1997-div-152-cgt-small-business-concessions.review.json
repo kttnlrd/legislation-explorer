@@ -1,0 +1,36 @@
+{
+ "map_id": "itaa-1997-div-152-cgt-small-business-concessions",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "map",
+   "severity": "critical",
+   "finding": "The map does not implement s 152-10(4). It permits CGT events J2, J5 and J6 to proceed through the 15-year exemption (Subdiv 152-B) and 50% reduction (Subdiv 152-C), and permits J5/J6 to proceed through the roll-over (Subdiv 152-E), even though the statute provides that Subdivs 152-B and 152-C do not apply to CGT events J2, J5 and J6, and Subdiv 152-E does not apply to CGT events J5 and J6. The start node also states that all four concessions require the basic conditions in Subdivision 152-A, which is not correct for the retirement exemption in relation to J5/J6 (s 152-10(4) note; s 152-305(4)).",
+   "suggested_fix": "Add a decision/facet immediately after trigger-event to detect CGT events J2/J5/J6 and route them away from the 15-year exemption, 50% reduction and (for J5/J6) roll-over; only the retirement exemption may be available for J5/J6 without the basic conditions. Correct the start node body accordingly."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "s 152-10(2C) is missing entirely. It imposes an additional basic condition for CGT events involving the creation, transfer, variation or cessation of a right or interest entitling an entity to partnership income/capital or an amount calculated by reference to a partner's entitlement: the right or interest must be a membership interest of the entity in the partnership immediately after the event (or immediately before, on cessation). This is an operative condition flagged by s 152-5 and can end or divert the line of reasoning.",
+   "suggested_fix": "Add an explicit decision node (e.g. after dec-gain or alongside dec-shares) for s 152-10(2C) with a No branch to no-rollover."
+  },
+  {
+   "node_id": "dec-passive",
+   "severity": "major",
+   "finding": "The node does not fully state the s 152-10(1A)/(1B) passively-held asset conditions. For (1A) it omits that if you carry on a business in partnership, the CGT asset must not be an interest in an asset of the partnership, and that the CGT small business entity must be the entity carrying on the business in relation to the CGT asset. For (1B), the body's 'similar rule' gloss omits that the partnership must be a CGT small business entity, the asset must not be an interest in partnership assets, and the partnership business must be the business carried on in relation to the CGT asset. The label also only mentions affiliate/connected entity, not the partnership passive path.",
+   "suggested_fix": "Expand dec-passive (or split into separate (1A) and (1B) decision nodes) to enumerate each statutory condition and route any failure to no-rollover; update the label to cover both passive-asset paths."
+  },
+  {
+   "node_id": "dec-shares-extra",
+   "severity": "major",
+   "finding": "The additional share/trust interest conditions in s 152-10(2)(a)-(d) are compressed into one node, with several outcome-changing conditions buried in the body text: the extended active asset assumptions under s 152-10(2A) (including the later entity rules in s 152-10(2B)), the requirement to carry on a business just before the event if the maximum net asset value test is not met, the object entity CGT small business entity/MNAV 20% threshold, and the CGT concession stakeholder/SBPP test. Each can independently fail and deny all concessions, so the statute's operative conditions are not explicit spine/facet nodes.",
+   "suggested_fix": "Split dec-shares-extra into separate decision nodes for s 152-10(2)(a)/(2A)/(2B), (2)(b), (2)(c) and (2)(d), each with a No branch to no-rollover, or at minimum present each as an explicit checklist facet."
+  },
+  {
+   "node_id": "no-rollover",
+   "severity": "minor",
+   "finding": "The label 'Concessions not available — the full capital gain is taxed' is overbroad. If the small business concessions are unavailable, the gain may still be reduced by the general CGT discount, other roll-overs or other provisions; the body itself lists alternatives.",
+   "suggested_fix": "Change the label to 'Small business concessions not available — include the gain in assessable income subject to other relief' or similar."
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+[
+ {
+  "map_id": "itaa-1936-part-x-cfc-attribution",
+  "verdict": "needs_fix",
+  "issues": 7,
+  "critical": 1,
+  "major": 5
+ },
+ {
+  "map_id": "itaa-1936-s100a-reimbursement-agreements",
+  "verdict": "needs_fix",
+  "issues": 6,
+  "critical": 1,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1936-s44-dividends",
+  "verdict": "needs_fix",
+  "issues": 8,
+  "critical": 4,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1936-s47a-cfc-distribution-benefits",
+  "verdict": "needs_fix",
+  "issues": 12,
+  "critical": 3,
+  "major": 9
+ },
+ {
+  "map_id": "itaa-1936-s6-1-individual-residency",
+  "verdict": "needs_fix",
+  "issues": 6,
+  "critical": 1,
+  "major": 2
+ },
+ {
+  "map_id": "itaa-1936-schedule-2f-trust-loss-measures",
+  "verdict": "needs_fix",
+  "issues": 6,
+  "critical": 2,
+  "major": 4
+ },
+ {
+  "map_id": "itaa-1997-cgt-rollovers-remaining",
+  "verdict": "needs_fix",
+  "issues": 7,
+  "critical": 2,
+  "major": 5
+ },
+ {
+  "map_id": "itaa-1997-cost-base-proceeds-discount",
+  "verdict": "needs_fix",
+  "issues": 11,
+  "critical": 2,
+  "major": 8
+ },
+ {
+  "map_id": "itaa-1997-div-102-104-cgt-method-statement-events",
+  "verdict": "needs_fix",
+  "issues": 30,
+  "critical": 18,
+  "major": 10
+ },
+ {
+  "map_id": "itaa-1997-div-130-134-investments-leases-options",
+  "verdict": "needs_fix",
+  "issues": 11,
+  "critical": 1,
+  "major": 7
+ },
+ {
+  "map_id": "itaa-1997-div-152-cgt-small-business-concessions",
+  "verdict": "needs_fix",
+  "issues": 5,
+  "critical": 1,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1997-div-615-rollovers-business-restructure",
+  "verdict": "needs_fix",
+  "issues": 13,
+  "critical": 3,
+  "major": 8
+ },
+ {
+  "map_id": "itaa-1997-div-83a-employee-share-schemes",
+  "verdict": "needs_fix",
+  "issues": 4,
+  "critical": 1,
+  "major": 2
+ },
+ {
+  "map_id": "itaa-1997-div-85-psi",
+  "verdict": "needs_fix",
+  "issues": 7,
+  "critical": 3,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1997-div-855-cgt-foreign-residents",
+  "verdict": "needs_fix",
+  "issues": 8,
+  "critical": 1,
+  "major": 6
+ },
+ {
+  "map_id": "itaa-1997-gambling-hobby-v-pro",
+  "verdict": "needs_fix",
+  "issues": 5,
+  "critical": 0,
+  "major": 2
+ },
+ {
+  "map_id": "itaa-1997-s106-60-crypto-loans",
+  "verdict": "needs_fix",
+  "issues": 6,
+  "critical": 1,
+  "major": 4
+ },
+ {
+  "map_id": "itaa-1997-s6-5-ordinary-income",
+  "verdict": "needs_fix",
+  "issues": 6,
+  "critical": 2,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1997-s8-1-general-deductions",
+  "verdict": "needs_fix",
+  "issues": 10,
+  "critical": 2,
+  "major": 5
+ },
+ {
+  "map_id": "itaa-1997-subdiv-118b-main-residence",
+  "verdict": "needs_fix",
+  "issues": 6,
+  "critical": 2,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1997-subdiv-122a-rollover-disposal-creation",
+  "verdict": "needs_fix",
+  "issues": 5,
+  "critical": 0,
+  "major": 4
+ },
+ {
+  "map_id": "itaa-1997-subdiv-124b-rollover-compulsory-acquisition",
+  "verdict": "needs_fix",
+  "issues": 10,
+  "critical": 1,
+  "major": 8
+ },
+ {
+  "map_id": "itaa-1997-subdiv-124m-rollover-scrip-scrip",
+  "verdict": "needs_fix",
+  "issues": 7,
+  "critical": 2,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1997-subdiv-126a-rollover-marriage-relationship",
+  "verdict": "needs_fix",
+  "issues": 7,
+  "critical": 3,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1997-subdiv-328g-small-business-restructure",
+  "verdict": "needs_fix",
+  "issues": 5,
+  "critical": 0,
+  "major": 1
+ },
+ {
+  "map_id": "itaa-1997-subdiv-768a-returns-on-foreign-investment",
+  "verdict": "needs_fix",
+  "issues": 9,
+  "critical": 2,
+  "major": 3
+ },
+ {
+  "map_id": "itaa-1997-subdiv-768g-participation-exemption",
+  "verdict": "needs_fix",
+  "issues": 6,
+  "critical": 0,
+  "major": 3
+ },
+ {
+  "map_id": "taa-1953-gic-remission",
+  "verdict": "needs_fix",
+  "issues": 7,
+  "critical": 0,
+  "major": 3
+ },
+ {
+  "map_id": "taa-1953-penalty-remission",
+  "verdict": "needs_fix",
+  "issues": 8,
+  "critical": 2,
+  "major": 4
+ }
+]

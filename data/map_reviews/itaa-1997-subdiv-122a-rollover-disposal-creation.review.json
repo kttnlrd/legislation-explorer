@@ -1,0 +1,36 @@
+{
+ "map_id": "itaa-1997-subdiv-122a-rollover-disposal-creation",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-asset-type",
+   "severity": "major",
+   "finding": "The asset exclusion logic does not branch on whether the trigger event is a single asset/creation or disposal of all the assets of a business. Under s 122-25(2) the excluded asset rules differ: precluded assets are excluded for single/creation but may be included in a business disposal, and trading stock/registered emissions units have an 'unless it was your trading stock/unit' exception only for a business disposal. The current edge 'Asset excluded/precluded -> no-rollover' would send a precluded asset in a business disposal to the wrong result.",
+   "suggested_fix": "Insert a disposal-type branch before applying s 122-25(2) exclusions. Route precluded assets and qualifying trading stock/emissions units in a business disposal to eligible; route excluded single/creation assets to no-rollover."
+  },
+  {
+   "node_id": "dec-asset-type",
+   "severity": "major",
+   "finding": "Subsection 122-25(4) is not represented. If the relevant CGT asset is a right, option, convertible interest or exchangeable interest and the company acquires another CGT asset by exercising the right/option or by conversion/exchange, the other asset must not become trading stock of the company just after acquisition. This is an additional condition that can disallow the roll-over.",
+   "suggested_fix": "Add a decision or facet after the primary asset exclusions: 'Is the asset a right/option/convertible interest/exchangeable interest and does the acquired asset become trading stock of the company just after acquisition? If yes, no roll-over.'"
+  },
+  {
+   "node_id": "dec-entity-type",
+   "severity": "major",
+   "finding": "The node states that companies, partnerships and superannuation funds cannot use the roll-over. Section 122-15 says 'If you are an individual or a trustee', which does not exclude a corporate trustee from being a trustee, and the supplied text contains no superannuation fund exclusion. This parenthetical is broader than the statutory text and could send a corporate trustee, or trustee of a superannuation fund, to no-rollover incorrectly.",
+   "suggested_fix": "Align with s 122-15: ask only whether the entity is an individual or a trustee acting in that capacity. If a separate prohibition exists for super funds, identify and cite the provision."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "Duplicate node IDs exist: 'dec-entity-type', 'recapture-events' and 'subdiv-328g-interplay' each appear more than once; some edges are also duplicated. This makes the graph ambiguous and may cause traversal to select the wrong node.",
+   "suggested_fix": "Deduplicate nodes and edges so each ID is unique and each relation appears once."
+  },
+  {
+   "node_id": "dec-consideration",
+   "severity": "minor",
+   "finding": "The outgoing edge label 'Yes — shares (non-redeemable), ± liability assumption' could imply that liability assumption is available for creation cases. Under s 122-20(1)(b), the undertaking to discharge liabilities is available only for a disposal case; creation cases must be shares only.",
+   "suggested_fix": "Change the edge label to make the disposal/creation distinction explicit, e.g. 'Yes — shares only, or shares plus liability undertaking (disposal case only)'."
+  }
+ ]
+}

@@ -17,11 +17,11 @@ source_pdf: "vol01.pdf"
 
 For the purposes of taxation laws, a payment in respect of a tax debt is taken not to have been made until it is received by:
 
-> <a id="s8AAZM-a"></a>
-> **(a)** the Commissioner; or
+<a id="s8AAZM-a"></a>
+**(a)** the Commissioner; or
 
-> <a id="s8AAZM-b"></a>
-> **(b)** a person acting on behalf of the Commissioner.
+<a id="s8AAZM-b"></a>
+**(b)** a person acting on behalf of the Commissioner.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

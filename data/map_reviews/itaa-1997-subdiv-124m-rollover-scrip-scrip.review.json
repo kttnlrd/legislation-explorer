@@ -1,0 +1,48 @@
+{
+ "map_id": "itaa-1997-subdiv-124m-rollover-scrip-scrip",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-arrangement",
+   "severity": "critical",
+   "finding": "The node misstates s 124-780(2A). The body presents a takeover bid or Part 5.1 compromise as an alternative to the 80% ownership requirement. In the statute, s 124-780(2A)(a) requires the arrangement to satisfy paragraph (2)(a) (the 80%+ voting share test) in all cases; a takeover bid must also not be carried out in contravention of the provisions mentioned in s 612(a)-(g) Corporations Act 2001, and a compromise must be approved by court order for the purposes of paragraph 411(4)(b). A practitioner could treat a non-80% or non-compliant takeover bid as qualifying.",
+   "suggested_fix": "Amend the label to require satisfaction of the 80%+ test (including by a compliant takeover bid or court-approved Part 5.1 arrangement), and amend the body to state the s 124-780(2A)(a) requirement and the bid/compromise qualifiers."
+  },
+  {
+   "node_id": "outcome-precgt",
+   "severity": "critical",
+   "finding": "The pre-CGT branch is connected only from dec-partial with the label 'pre-CGT interest exchanged'. But dec-conditions already requires the original interest to be post-CGT under s 124-780(3)(a) and sends pre-CGT interests to no-rollover. The branch is logically unreachable and implies pre-CGT interests can get through the roll-over choice.",
+   "suggested_fix": "Move the pre-CGT treatment to a separate facet before the s 124-780 post-CGT condition: query whether the original interest is pre-CGT at or before dec-conditions, and route to s 124-800 / K6 analysis, not through dec-partial."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "s 124-780(6) (Chess Unit of Foreign Security deeming) is not represented in any node or edge. The subsection makes the roll-over section apply to a CUFS holder as if the holder held the underlying interests. Without it, a CUFS holder may be incorrectly advised that the exchange is outside the subdivision.",
+   "suggested_fix": "Add a facet node after trigger-event or start: 'Is the interest a Chess Unit of Foreign Security? If so, s 124-780(6) treats you as holding the underlying shares/interests.'"
+  },
+  {
+   "node_id": "dec-conditions",
+   "severity": "major",
+   "finding": "s 124-780(3) contains six conditions, but the node label lists only post-CGT acquisition, gain, replacement entity and choice. Paragraph (3)(e) (written notification of cost base where s 124-782 applies) and paragraph (3)(f) (no member of the group issues additional equity or owes new debt to non-members in relation to the replacement interest) are buried in the body and easy to miss when scanning the spine.",
+   "suggested_fix": "Split s 124-780(3)(e)-(f) into a separate decision node or include them explicitly in the label of dec-conditions as conditions that can fail the roll-over."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "Trust unit exchanges are included at start and trigger-event, but there is no explicit trust-specific decision node for the s 124-781 requirements (fixed entitlements to all income/capital; equivalent arrangement and participation conditions). dec-arrangement is drafted only in terms of voting shares in an original entity, so the trust path is not actually tested on the spine.",
+   "suggested_fix": "Add a parallel s 124-781 trust branch with its own arrangement and conditions decisions, or remove trust units from the map if it is intended to cover s 124-780 shares only."
+  },
+  {
+   "node_id": "dec-arm-length",
+   "severity": "minor",
+   "finding": "The body says 'you were all in the same linked group', but s 124-780(4)(b) requires the original interest holder, the original entity and an acquiring entity were all members of the same linked group. The shorthand is imprecise.",
+   "suggested_fix": "State the three entities explicitly: original interest holder, original entity and an acquiring entity."
+  },
+  {
+   "node_id": "choice",
+   "severity": "minor",
+   "finding": "The flow treats the roll-over choice as a condition already met in dec-conditions, then separately performs the choice later as an action. This can confuse order-of-analysis.",
+   "suggested_fix": "Reframe dec-conditions to test the pre-choice eligibility conditions only, and keep the choice as the explicit action after exceptions."
+  }
+ ]
+}

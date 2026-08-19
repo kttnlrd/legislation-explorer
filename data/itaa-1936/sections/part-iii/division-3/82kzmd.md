@@ -19,7 +19,7 @@ source_pdf: "vol02.pdf"
 <a id="s82KZMD-2"></a>
 **(2)** For each year of income containing all or part of the eligible service period for the expenditure, the taxpayer may deduct the amount worked out using the formula: Number of days of eligible service period in the year of income Expenditure × Total number of days of eligible service period
 
-> **Note:** This section does not apply to expenditure incurred by a small or medium business entity unless the entity chooses to apply this section to the expenditure: see paragraph 82KZMA(2)(b).
+**Note:** This section does not apply to expenditure incurred by a small or medium business entity unless the entity chooses to apply this section to the expenditure: see paragraph 82KZMA(2)(b).
 
 ---
 *Last updated: 2026-04-01 (Compilation 191)*

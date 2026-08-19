@@ -1,0 +1,66 @@
+{
+ "map_id": "itaa-1997-s8-1-general-deductions",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "positive",
+   "severity": "major",
+   "finding": "The 'positive' decision has two competing 'No' edges: one to 'business' and one to 'no-nexus'. A failure of limb (a) does not mean no nexus; limb (b) must still be examined. The direct path to 'no-nexus' can cause a practitioner to conclude 'not deductible' without testing s 8-1(1)(b).",
+   "suggested_fix": "Remove the positive → no-nexus edge. The only 'No' path from positive should go to the business limb decision; no-nexus should be reachable only after the business limb also fails."
+  },
+  {
+   "node_id": "specific",
+   "severity": "major",
+   "finding": "The 'specific' decision has only a 'No' edge to 'deductible'. There is no 'Yes' edge or terminal outcome for an amount that is deductible under a specific provision (s 8-5) or affected by s 8-10. This leaves the map incomplete for a common outcome.",
+   "suggested_fix": "Add a 'Yes' edge to an outcome node such as 'Deductible as a specific deduction under s 8-5 (not under s 8-1)' and clarify the s 8-10 no-double-deduction path."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "Apportionment is central to s 8-1 ('to the extent that') but is not a spine decision; it appears only as a facet. Negative-limb terminal nodes such as 'private-denied' and 'exempt-denied' are labelled 'Not deductible' even though the provision denies only the private/exempt portion. A mixed private/income outgoing should partially survive s 8-1(2)(b), but the map's spine sends it to a 'Not deductible' outcome.",
+   "suggested_fix": "Insert an apportionment decision on the spine after the positive limb and before/within each negative limb, or reframe the denial outcomes to 'Denied only to the extent of the private/exempt portion — apportion before concluding' and link to the apportionment facet."
+  },
+  {
+   "node_id": "statute-bar",
+   "severity": "critical",
+   "finding": "The body states that bribes are denied by s 26-20. The supplied s 12-5 text shows s 26-20 relates to Australian apprenticeship support loan repayments, not bribes; bribes are in s 26-52 (foreign public officials) and the related public-official bribe provision. This incorrect cross-reference is repeated in facet-denials.",
+   "suggested_fix": "Replace 'bribes (s 26-20)' with the correct provisions, e.g. s 26-52 (bribes to foreign public officials) and the corresponding public-official bribe provision, in both statute-bar and facet-denials bodies."
+  },
+  {
+   "node_id": "capital-denied",
+   "severity": "critical",
+   "finding": "The body directs users to 's 25-110 blackhole expenses'. The supplied s 12-5 text identifies business related costs (the blackhole provision) as s 40-880, not s 25-110. The reference is likely wrong and would mislead a practitioner checking capital allowance fallbacks.",
+   "suggested_fix": "Change 's 25-110 blackhole expenses' to 's 40-880 business related costs (blackhole expenditure)'."
+  },
+  {
+   "node_id": "statute-bar",
+   "severity": "major",
+   "finding": "The s 8-1(1) Note about Division 35 (non-commercial business losses) is not captured anywhere in the map. Division 35 can prevent losses from non-commercial business activities being deducted or offset, so it is an outcome-changing condition signposted by the core section.",
+   "suggested_fix": "Add a Division 35 signpost as a facet or include it in the s 8-1(2)(d) denial list: 'Div 35 — non-commercial business losses'."
+  },
+  {
+   "node_id": "business",
+   "severity": "minor",
+   "finding": "The 'facet-employee' employee work expenses node is attached to the business limb (b) node, but employees earning salary or wages generally are not carrying on a business and rely on s 8-1(1)(a). This edge can mislead users about which limb applies.",
+   "suggested_fix": "Move the facet-employee edge from 'business' to 'positive' (limb (a)), or attach it to the start node as a general facet."
+  },
+  {
+   "node_id": "private",
+   "severity": "major",
+   "finding": "The body cites FCT v Day (2008) for the private/domestic negative limb. Day concerned the meaning of 'necessarily incurred' in s 8-1(1)(b); it is not authority for s 8-1(2)(b) private/domestic outgoings.",
+   "suggested_fix": "Remove the Day citation from the private node or replace it with a case actually concerned with private or domestic outgoings."
+  },
+  {
+   "node_id": "specific",
+   "severity": "minor",
+   "finding": "The body says specific deductions are 'not claimed under s 8-1 unless the provision says so'. That overstates the position: s 8-5 says an amount can also be deducted under an outside provision, and s 8-10 selects the most appropriate provision if two allow a deduction. The statement could discourage a valid s 8-1 claim.",
+   "suggested_fix": "Rephrase to: 'If the amount is within a specific deduction provision, it is deductible as a specific deduction; s 8-10 prevents double deduction if s 8-1 would also apply.'"
+  },
+  {
+   "node_id": "deductible",
+   "severity": "minor",
+   "finding": "s 8-1(3) is not represented as an explicit node. The definition of 'general deduction' and the Division 27 / Subdivision 20-A cross-references appear only in the body of the 'deductible' end node.",
+   "suggested_fix": "Add a facet or note node for s 8-1(3): 'General deduction defined; GST adjustment (Div 27); recoupment (Subdiv 20-A)'."
+  }
+ ]
+}

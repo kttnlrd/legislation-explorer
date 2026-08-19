@@ -1,0 +1,60 @@
+{
+ "map_id": "itaa-1997-subdiv-768a-returns-on-foreign-investment",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "condition-not-met",
+   "severity": "critical",
+   "finding": "condition-not-met is already an end node, but it has an outgoing edge to the NANE end node 'end'. This means a non-qualifying path can terminate at the node labelled 'Foreign equity distribution is NANE — participation exemption applies', contradicting the edge label 'ordinary assessment applies' and misleading practitioners about the result.",
+   "suggested_fix": "Remove the condition-not-met → end edge and make condition-not-met the terminal node for the non-qualifying path, or retarget the edge to a separate assessable-income end node."
+  },
+  {
+   "node_id": "dec-cfc-attribution",
+   "severity": "critical",
+   "finding": "This spine decision node asks whether the distribution is from a CFC's attributable income and implies there is a CFC carve-out in s 768-5 / Subdiv 768-A. The supplied s 768-5 has no such carve-out or condition. This would mislead a practitioner into thinking CFC attribution must be assessed before the s 768-5 NANE outcome.",
+   "suggested_fix": "Remove from the spine. If CFC attribution is useful context, make it a non-blocking interaction node after the relevant NANE outcome and state clearly that it is not a condition of s 768-5."
+  },
+  {
+   "node_id": "dec-entity-type",
+   "severity": "major",
+   "finding": "The trustee-capacity condition in s 768-5(1)(c)/(2)(e) is buried in the body and edge label of the corporate-tax-entity decision, not an explicit decision node. The negative edge label 'not a corporate tax entity or is a trustee' also incorrectly sweeps in a trustee of a public trading trust, even though s 768-5(1)(c)(ii)/(2)(e)(ii) allows that.",
+   "suggested_fix": "Split into a separate decision node: 'Does the entity receive the distribution in the capacity of a trustee?' with branches for 'No, or yes as trustee of a public trading trust' → continue; 'Yes, as trustee not of a public trading trust' → condition-not-met."
+  },
+  {
+   "node_id": "dec-direct-or-indirect",
+   "severity": "major",
+   "finding": "The node labels a direct/indirect route but does not explicitly test the s 768-5(2)(b)–(c) conditions: the amount must be included under Division 276 or Division 5/6 of Part III of the ITAA 1936, and the amount must be attributable to a foreign equity distribution. There is no negative branch to condition-not-met if those conditions fail.",
+   "suggested_fix": "Add a decision node for indirect receipts: 'Is the amount all or part of net income included under Div 276 or Div 5/6 of Part III of the ITAA 1936, and attributable to a foreign equity distribution?' with No → condition-not-met."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "Four nodes use type 'interaction', which is not within the required node type set {start, event, decision, action, outcome, end}. This is a structural compliance issue for the explorer.",
+   "suggested_fix": "Change interaction-* nodes to allowed node types, such as event or outcome, or update the schema to support 'interaction' if intended."
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "The start node cites s 768-1 but adds 'not corporate tax entities' to the description of interposed trusts/partnerships, which is not in s 768-1, and omits the 10% participation condition in s 768-1(b).",
+   "suggested_fix": "Align with s 768-1: refer to 'one or more interposed trusts or partnerships' and state the 10% participation condition, or defer to the participation-test decision node without adding unsupported qualifiers."
+  },
+  {
+   "node_id": "interaction-23aj",
+   "severity": "minor",
+   "finding": "Date inconsistency: the node says Subdivision 768-A replaced the former s 23AJ regime for distributions after 17 October 2014, while the map summary says after 16 October 2014.",
+   "suggested_fix": "Confirm the correct application date and apply it consistently throughout the map."
+  },
+  {
+   "node_id": "dec-participation-test",
+   "severity": "minor",
+   "finding": "The node does not state that the participation test must be satisfied 'at the time the distribution is made', as required by s 768-5(1)(b)/(2)(d).",
+   "suggested_fix": "Add the timing element to the label or body of the participation-test node."
+  },
+  {
+   "node_id": "dec-foreign-tax-deduction",
+   "severity": "minor",
+   "finding": "The body cites only s 768-5(1)(d), but the same s 768-7 condition applies to indirect receipts under s 768-5(2)(f).",
+   "suggested_fix": "Reference both s 768-5(1)(d) and s 768-5(2)(f), or make the node clearly applicable to both direct and indirect paths."
+  }
+ ]
+}

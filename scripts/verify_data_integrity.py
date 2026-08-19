@@ -76,6 +76,20 @@ TRAILING_JUNK_RE = re.compile(
     r"(?:\s{2,}(?:International aspects of income tax|Taxation etc\.? of\s|"
     r"Meaning of \w+ \w+|Types of assets of|Exception\s*$))"
 )
+# ── Legal-database web chrome (nav bars, page-template JS/HTML) ───────────────
+# Deliberately NOT plain "Legal database" — the ATO's own consolidated-version
+# note ("Refer to the Legal Database (ato.gov.au/law)") legitimately contains it.
+LD_NAV_RE = re.compile(r"\|\s*Legal database\s*\|", re.I)          # "| Legal database |" nav token
+LD_LEAD_RE = re.compile(r"^Legal database\b", re.I)                 # standalone leading token
+NAV_BAR_RE = re.compile(
+    r"(?:Download|Email|Print|Back to browse)(?:\s*\|\s*|\s+)"
+    r"(?:\d+\s+related doc\w*|(?:Download|Email|Print|Back to browse))",
+    re.I,
+)
+LINKS_TREE_RE = re.compile(r"\$\(['\"]\.links-tree['\"]\)\.linksTree")
+# Bare `">` is NOT flagged — section files legitimately use `<a id="...">` anchors.
+# The real chrome fragment is `?">` (e.g. `...'?"> //` from the legal-db pages).
+HTML_FRAG_RE = re.compile(r'</?hp1>|</?div>|</?span>|</?p>|\?">', re.I)
 
 ARTIFACT_CHECKS = [
     ("html_entity", HTML_ENTITY_RE, "critical"),
@@ -84,6 +98,11 @@ ARTIFACT_CHECKS = [
     ("double_space_marker", DOUBLE_SPACE_MARKER_RE, "cosmetic"),
     ("smart_quote", SMART_QUOTE_RE, "cosmetic"),
     ("trailing_junk", TRAILING_JUNK_RE, "critical"),
+    ("legal_db_nav", LD_NAV_RE, "critical"),
+    ("legal_db_lead", LD_LEAD_RE, "critical"),
+    ("nav_bar", NAV_BAR_RE, "critical"),
+    ("links_tree_js", LINKS_TREE_RE, "critical"),
+    ("html_fragment", HTML_FRAG_RE, "critical"),
 ]
 
 # Acts whose frontmatter intentionally omits "act:" (inferable from path)

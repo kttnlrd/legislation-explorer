@@ -20,11 +20,11 @@ Objects
 <a id="s160ZZZK-1"></a>
 **(1)** The main objects of this section are:
 
-> <a id="s160ZZZK-1-a"></a>
-> **(a)** to treat foreign entities that are financial entities like foreign banks for the purposes of this Part; and
+<a id="s160ZZZK-1-a"></a>
+**(a)** to treat foreign entities that are financial entities like foreign banks for the purposes of this Part; and
 
-> <a id="s160ZZZK-1-b"></a>
-> **(b)** to treat Australian permanent establishments of foreign entities that are financial entities like Australian branches of foreign banks for the purposes of this Part. Foreign financial entities treated like foreign banks
+<a id="s160ZZZK-1-b"></a>
+**(b)** to treat Australian permanent establishments of foreign entities that are financial entities like Australian branches of foreign banks for the purposes of this Part. Foreign financial entities treated like foreign banks
 
 <a id="s160ZZZK-2"></a>
 **(2)** This Part (except this Division) applies to a foreign entity that is a financial entity in the same way as this Part applies to a foreign bank. Australian permanent establishments treated like Australian branches

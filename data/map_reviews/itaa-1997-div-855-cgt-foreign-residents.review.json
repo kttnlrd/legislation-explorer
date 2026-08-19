@@ -1,0 +1,54 @@
+{
+ "map_id": "itaa-1997-div-855-cgt-foreign-residents",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "dec-tap",
+   "severity": "major",
+   "finding": "Section 855-10(2) is not represented: for CGT events D1, D2, F1 and J1 the relevant CGT asset is the underlying asset (e.g. the land subject to an easement, option or lease, or the roll-over asset), not the right/option/lease created. The map simply asks whether 'the CGT asset' is TAP, so these events can be tested against the wrong asset.",
+   "suggested_fix": "Add a facet or decision node for D1/D2/F1/J1 that identifies the underlying asset as the CGT asset before applying the TAP test."
+  },
+  {
+   "node_id": "dec-pe",
+   "severity": "critical",
+   "finding": "The 'No — no PE use' branch leads to dec-main-residence and then to outcome-assessable labelled 'TAP still assessable'. After 'No' to TARP, indirect and PE categories, an asset not otherwise within s 855-15 item 4/5 is not TAP and s 855-10(1) requires the gain/loss to be disregarded. This branch would assess non-TAP assets.",
+   "suggested_fix": "Route dec-pe 'No' to outcome-disregard or to an explicit item 4/5 decision; remove main residence from the TAP-classification path."
+  },
+  {
+   "node_id": "dec-main-residence",
+   "severity": "major",
+   "finding": "This node is misplaced in the TAP classification flow and its body cites 'Special choice rules in s 855-35 area' for main-residence matters. Section 855-35 concerns reduction of PE business asset gains/losses, not main residence. The relevant rules are in Subdivision 118-B, including s 118-110.",
+   "suggested_fix": "Move main-residence interaction to a separate branch after TAP status is established, and correct the reference to Subdivision 118-B/s 118-110."
+  },
+  {
+   "node_id": "dec-tap",
+   "severity": "major",
+   "finding": "The body lists s 855-15 item 4 (option or right to acquire a TAP asset) and item 5, but no decision/facet node tests them. The flow from dec-tap Yes only checks TARP, indirect and PE categories, so an option/right over Australian real property is not explicitly classified and can take the wrong branch.",
+   "suggested_fix": "Insert an explicit decision for options/rights to acquire assets within s 855-15 items 1-3 and item 5 interests before the main-residence/fixed-trust analysis."
+  },
+  {
+   "node_id": "dec-becoming-excl",
+   "severity": "major",
+   "finding": "Section 855-45(3) is missing from the residency-change branch: Parts 3-1 and 3-3 apply as if the asset were acquired at the time the individual/company became an Australian resident. The map only resets cost base/reduced cost base under s 855-45(2).",
+   "suggested_fix": "Add the s 855-45(3) acquisition fiction to the reset action/outcome for all non-excepted assets."
+  },
+  {
+   "node_id": "dec-becoming-excl",
+   "severity": "major",
+   "finding": "Section 855-45(4) is not represented. ESS interests covered by Subdivision 83A-C with a deferred taxing point not yet occurred, and start-up ESS interests within paragraphs 83A-33(1)(a)-(c), are excluded from the s 855-45 reset.",
+   "suggested_fix": "Add a decision facet for the s 855-45(4) ESS-interest exception before applying the reset."
+  },
+  {
+   "node_id": "dec-becoming-excl",
+   "severity": "major",
+   "finding": "The s 855-45(1) note makes the section subject to s 768-950 (temporary residents). The map only mentions this in the action-reset body, not as an outcome-changing condition. For an individual who becomes a temporary resident immediately after becoming an Australian resident, the reset may be affected.",
+   "suggested_fix": "Add an explicit decision/facet for the s 768-950 temporary-resident limitation."
+  },
+  {
+   "node_id": "start",
+   "severity": "minor",
+   "finding": "The start label omits the s 855-10(1)(a) timing condition 'just before the CGT event happens' and is phrased as a statement rather than a question/imperative.",
+   "suggested_fix": "Rephrase as: 'Is the entity a foreign resident or trustee of a foreign trust for CGT purposes just before the CGT event happens?'"
+  }
+ ]
+}

@@ -19,11 +19,11 @@ source_pdf: "vol03.pdf"
 <a id="s160ZZZJ-1"></a>
 **(1)** If:
 
-> <a id="s160ZZZJ-1-a"></a>
-> **(a)** an amount of interest is taken under section 160ZZZA to be paid to, and derived by, a foreign bank by an Australian branch of the bank; and
+<a id="s160ZZZJ-1-a"></a>
+**(a)** an amount of interest is taken under section 160ZZZA to be paid to, and derived by, a foreign bank by an Australian branch of the bank; and
 
-> <a id="s160ZZZJ-1-b"></a>
-> **(b)** apart from this section, section 128B of this Act, and Subdivision 12-F in Schedule 1 to the Taxation Administration Act 1953, would apply to an amount (the taxable amount) that comprises the whole or a part of the amount so taken to be paid; the following subsections have effect.
+<a id="s160ZZZJ-1-b"></a>
+**(b)** apart from this section, section 128B of this Act, and Subdivision 12-F in Schedule 1 to the Taxation Administration Act 1953, would apply to an amount (the taxable amount) that comprises the whole or a part of the amount so taken to be paid; the following subsections have effect.
 
 <a id="s160ZZZJ-2"></a>
 **(2)** Section 128B of this Act, and Subdivision 12-F in Schedule 1 to the Taxation Administration Act 1953, apply only to the amount worked out using the formula: Taxable amount

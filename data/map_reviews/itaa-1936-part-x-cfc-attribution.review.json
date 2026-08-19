@@ -1,0 +1,48 @@
+{
+ "map_id": "itaa-1936-part-x-cfc-attribution",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "end",
+   "severity": "critical",
+   "finding": "The end node labelled 'No attribution' states that where the CFC passes the active income test with only limited amounts attributed, the company's income is not attributed. This is legally wrong: passing the active income test does not mean no attribution; FIF, trust and regulation amounts may still be included. The pass-AIT outcomes route to this same end node, directing practitioners to an incorrect conclusion.",
+   "suggested_fix": "Do not route pass-AIT outcomes directly to an end node labelled 'No attribution'. Add a decision node for whether limited amounts (FIF, trust, regulation) exist; only end if none exist, otherwise route to the attributable income calculation."
+  },
+  {
+   "node_id": "outcome-unlisted-pass",
+   "severity": "major",
+   "finding": "The body says FIF and trust amounts are attributed, but the edge leads to the end node labelled 'No attribution', losing the limited-attribution path. This conflicts with the body and misstates the outcome.",
+   "suggested_fix": "Connect outcome-unlisted-pass to a decision/calc path: if FIF or Division 6 trust amounts exist, proceed to the attributable income calculation; otherwise end."
+  },
+  {
+   "node_id": "outcome-listed-pass",
+   "severity": "major",
+   "finding": "The body says regulation, FIF and trust amounts are attributed, but the edge leads to the end node labelled 'No attribution', incorrectly implying no attribution.",
+   "suggested_fix": "Connect outcome-listed-pass to a decision/calc path for the limited listed-country amounts; only end when none are present."
+  },
+  {
+   "node_id": "outcome-assessment",
+   "severity": "major",
+   "finding": "Section 456(2) is not explicitly captured as a decision/facet. The body only says s457 limits attribution, but the operative limiting subsection s456(2) is buried. A change of residence during the statutory accounting period can change the amount attributed and should be an explicit condition on the spine.",
+   "suggested_fix": "Add a decision node 'Did the CFC change residence during the statutory accounting period?' with the s456(2)(a)/(b) carve-outs, or make it an explicit facet on outcome-assessment."
+  },
+  {
+   "node_id": "outcome-assessment",
+   "severity": "major",
+   "finding": "The summary of the residence-change limitation is legally inaccurate: it says 'parts of the period in which it was resident in the relevant country', but s456(2)(a) for an unlisted-country CFC at period end includes listed-country parts plus the unlisted-country part since the last change, and s456(2)(b) for a listed-country CFC includes only listed-country parts.",
+   "suggested_fix": "State the s456(2)(a) and (b) alternatives precisely rather than using 'relevant country'."
+  },
+  {
+   "node_id": "outcome-distribution",
+   "severity": "major",
+   "finding": "The s372 attribution debit rules are incomplete. The map omits the condition in s372(1)(b) that an attribution surplus must exist immediately before the payment, the amount rule in s372(2) (lesser of surplus and payment or attribution account percentage), and the special trust rule in s372(4). These affect whether and how much debit arises.",
+   "suggested_fix": "Add explicit s372(1)-(2) mechanics to the distribution outcome, and add a facet for s372(4) trust payments."
+  },
+  {
+   "node_id": "no-attribution",
+   "severity": "minor",
+   "finding": "The node id is 'no-attribution' but the label is 'Attribution applies — income taxed now, distributions tax-free later'. This contradictory signposting will confuse practitioners navigating the map.",
+   "suggested_fix": "Rename the node id to 'attribution-applies' or change the label to match the id."
+  }
+ ]
+}

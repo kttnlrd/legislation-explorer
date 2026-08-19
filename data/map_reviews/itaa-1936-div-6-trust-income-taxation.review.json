@@ -1,0 +1,36 @@
+{
+ "map_id": "itaa-1936-div-6-trust-income-taxation",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "action-s97-resident-beneficiary",
+   "severity": "critical",
+   "finding": "The body states that s 97(3) 'exempts certain charitable/foreign organisations from s 97 assessment'. Under the supplied s 97(3), that subsection does not exempt; it identifies certain non-resident beneficiaries (bodies exempt under Subdivision 50-A, ss 51-5, 51-10 or 51-30 ITAA 1997, or international organisation regulations) for whom the s 97(2)(b) exclusion is displaced. Describing it as an exemption from s 97 reverses its operation and would mislead a practitioner.",
+   "suggested_fix": "Rewrite to state: 'Section 97(3) identifies non-resident beneficiaries that are exempt entities. For those beneficiaries the s 97(2)(b) exclusion is displaced, but their income remains exempt under the relevant exempt-entity provisions.'"
+  },
+  {
+   "node_id": "dec-beneficiary-type",
+   "severity": "major",
+   "finding": "There is no explicit decision node capturing the s 97(2) exclusions. Under the supplied s 97(2), a reference to present entitlement in s 97 is read as not including: (a) s 95A(2) deemed present entitlement for certain resident natural persons/trustee-beneficiaries not within s 97A, and (b) non-residents not within s 97(3) or s 97A. The map routes all resident non-legal-disability beneficiaries to s 97 and all non-residents to s 98 without checking these exclusions, so it misses the s 95A(2)-deemed-entitlement carve-out and the s 97(3) exception.",
+   "suggested_fix": "Insert a decision node after present entitlement (or expand dec-beneficiary-type) labelled: 'Is the present entitlement excluded from s 97 by s 97(2)?' with yes/no branches. Yes for s 95A(2) deemed cases and non-residents not in s 97(3)/97A goes to trustee assessment; no proceeds to s 97."
+  },
+  {
+   "node_id": "action-net-income",
+   "severity": "major",
+   "finding": "The s 95(1) net income exclusion is misstated. The body says 'certain tax loss deductions for life tenants', but s 95(1) excludes Division 36 losses for any beneficiary who has no beneficial interest in the corpus of the trust estate, or for any life tenant. Omitting non-corpus beneficiaries changes the net income calculation.",
+   "suggested_fix": "Replace with: '... except deductions under Division 393 (farm management deposits) and, for any beneficiary with no beneficial interest in corpus or any life tenant, Division 36 tax losses required to be met out of corpus.'"
+  },
+  {
+   "node_id": "action-net-income",
+   "severity": "minor",
+   "finding": "The body says 'The Division 6 percentage splits net income' and 'trustee's D6% = the residue'. Under s 95(1), Division 6 percentage is measured against the income of the trust estate, not net income. If trust income is nil, beneficiary D6% is 0% and trustee D6% is 100%. Misstating the base could confuse the apportionment.",
+   "suggested_fix": "State: 'Division 6 percentage is measured against the income of the trust estate: beneficiary D6% = share of income to which presently entitled; trustee D6% = share of income to which no beneficiary presently entitled (0%/100% if income nil). Apply that percentage to net income.'"
+  },
+  {
+   "node_id": "action-s97-resident-beneficiary",
+   "severity": "minor",
+   "finding": "The body calls the s 100(2) credit a 'tax offset'. Section 100(2) provides a credit/deduction from the beneficiary's tax for tax paid by the trustee, not a tax offset in the current statutory sense.",
+   "suggested_fix": "Replace 'tax offset' with 'credit/deduction from beneficiary's tax' or quote the s 100(2) mechanism accurately."
+  }
+ ]
+}

@@ -31,14 +31,14 @@ source_pdf: "vol02.pdf"
 <a id="s95AAC-5"></a>
 **(5)** The provisions are as follows:
 
-> <a id="s95AAC-5-a"></a>
-> **(a)** sections 97, 98A (other than subsection 98A(2)) and 100 (other than subsections 100(2) and (3));
+<a id="s95AAC-5-a"></a>
+**(a)** sections 97, 98A (other than subsection 98A(2)) and 100 (other than subsections 100(2) and (3));
 
-> <a id="s95AAC-5-b"></a>
-> **(b)** sections 98, 99 and 99A;
+<a id="s95AAC-5-b"></a>
+**(b)** sections 98, 99 and 99A;
 
-> <a id="s95AAC-5-c"></a>
-> **(c)** Subdivisions 115-C and 207-B of the Income Tax Assessment Act 1997.
+<a id="s95AAC-5-c"></a>
+**(c)** Subdivisions 115-C and 207-B of the Income Tax Assessment Act 1997.
 
 <a id="s95AAC-6"></a>
 **(6)** To avoid doubt, subsections (2) and (4) apply despite subsection 6(1AA).

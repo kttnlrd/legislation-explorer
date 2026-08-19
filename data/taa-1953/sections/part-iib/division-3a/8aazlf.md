@@ -19,11 +19,11 @@ source_pdf: "vol01.pdf"
 <a id="s8AAZLF-1"></a>
 **(1)** The Commissioner must refund to an entity so much of:
 
-> <a id="s8AAZLF-1-a"></a>
-> **(a)** an RBA surplus of the entity; or
+<a id="s8AAZLF-1-a"></a>
+**(a)** an RBA surplus of the entity; or
 
-> <a id="s8AAZLF-1-b"></a>
-> **(b)** a credit (including an excess non-RBA credit) in the entity's favour; as the Commissioner does not allocate or apply under Division 3. Voluntary payments only to be refunded on request
+<a id="s8AAZLF-1-b"></a>
+**(b)** a credit (including an excess non-RBA credit) in the entity's favour; as the Commissioner does not allocate or apply under Division 3. Voluntary payments only to be refunded on request
 
 <a id="s8AAZLF-2"></a>
 **(2)** However, the Commissioner is not required to refund an RBA surplus or excess non-RBA credit that arises because a payment is made in respect of an anticipated tax debt of an entity unless the entity later requests, in the approved manner, that the Commissioner do so.

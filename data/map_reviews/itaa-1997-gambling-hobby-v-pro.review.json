@@ -1,0 +1,36 @@
+{
+ "map_id": "itaa-1997-gambling-hobby-v-pro",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "No node or facet applies s 6-5(2) (Australian resident: all sources) and s 6-5(3) (foreign resident: Australian source only). The map assumes all professional gambling winnings are assessable, which is wrong for a foreign resident with non-Australian source gambling income.",
+   "suggested_fix": "Insert a decision node on the professional path after the 'business found' branch: 'Are you an Australian resident or is the income from an Australian source?' with a 'No' edge to an end/facet 'Not assessable under s 6-5'."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "The professional loss node (act-deductible-losses) categorically states losses are deductible under s 8-1(1) but does not account for s 8-1(2)(d) and the Note to s 8-1(1) about Division 35. Non-commercial gambling business losses can be quarantined or deferred, so the statement is incomplete and could mislead.",
+   "suggested_fix": "Add a facet after act-deductible-losses: 'Does Division 35 prevent you from deducting the loss this year?' with a 'Yes' path to an end node 'Losses quarantined/non-commercial loss — cannot offset other assessable income'."
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "Section 6-5(4) (constructive receipt/derivation) is absent. The map assumes derivation on receipt, but the operative rule deems amounts applied or dealt with on the taxpayer's behalf to be derived.",
+   "suggested_fix": "Add a facet or note on the assessable-wins path: 'Amounts applied or dealt with on your behalf are taken to be derived under s 6-5(4).'"
+  },
+  {
+   "node_id": "map",
+   "severity": "minor",
+   "finding": "Several labels are statements rather than the required questions or imperatives: start ('You engage in gambling activities...'), branch-pro ('Professional gambler — gambling is a business or profession'), branch-hobby ('Hobby gambler — not a business'), act-assessable-wins ('Professional: winnings are assessable...'), act-non-assessable-wins ('Hobby: winnings are not assessable...').",
+   "suggested_fix": "Reword labels as imperatives or questions, e.g. 'Determine if gambling is a business', 'Treat as professional gambler', 'Treat as hobby gambler'."
+  },
+  {
+   "node_id": "end-pro",
+   "severity": "minor",
+   "finding": "The end-pro body says 'net result ... is included in your assessable income'. Under s 6-5, gross ordinary income is included, and under s 8-1 deductions are allowed separately; the net profit is not itself an assessable income item.",
+   "suggested_fix": "Reword to 'Gross winnings are included as ordinary income under s 6-5; deductible gambling losses reduce your taxable income, resulting in tax on the net profit.'"
+  }
+ ]
+}

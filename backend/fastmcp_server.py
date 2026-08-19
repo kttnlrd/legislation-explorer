@@ -529,6 +529,25 @@ async def resolve_alias(reference: str) -> str:
     }, indent=2)
 
 
+def _display_case_citation(c: str) -> str:
+    """'1940_HCA_33' -> '[1940] HCA 33' (medium-neutral, tool-usable by get_case)."""
+    if not c:
+        return c
+    if "[" in c:  # already medium-neutral
+        return c
+    return _normalise_case_citation(c.replace("_", " ")) or c
+
+
+def _display_ruling_citation(c: str) -> str:
+    """'AID_2002_46' -> 'AID 2002/46'; 'TR_2024_1' -> 'TR 2024/1' (get_ruling accepts)."""
+    if not c:
+        return c
+    m = _re.match(r'^([A-Z]+(?:_[A-Z]+)*)_(\d{4})_(\d+)$', c)
+    if m:
+        return f"{m.group(1)} {m.group(2)}/{m.group(3)}"
+    return c
+
+
 @mcp.tool()
 async def get_section(act: str, section: str, max_body_length: int = 50000,
                       include_commentary: bool = False) -> str:
@@ -753,12 +772,20 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
         "truncated": truncated or body_truncated_flag,
         "body_truncated_to": max_body_length,
         "related": {
-            "cases": related_cases,
-            "rulings": related_rulings,
-            "commentary": related_commentary,
+            "cases": [
+                {**c, "citation": _display_case_citation(c.get("citation", ""))}
+                for c in related_cases
+            ],
+            "rulings": [
+                {k: v for k, v in {**r, "citation": _display_ruling_citation(r.get("citation", ""))}.items()
+                 if not (k == "year" and v in (0, None)) and not (k == "ato_url" and not v)}
+                for r in related_rulings
+            ],
             "sections": related_sections,
         },
     }
+    if related_commentary:
+        payload["related"]["commentary"] = related_commentary
     if related_rgs:
         payload["related"]["regulatory_guides"] = related_rgs
     if section_def_note:

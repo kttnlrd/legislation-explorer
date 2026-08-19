@@ -1,0 +1,78 @@
+{
+ "map_id": "itaa-1936-s47a-cfc-distribution-benefits",
+ "verdict": "needs_fix",
+ "issues": [
+  {
+   "node_id": "profits",
+   "severity": "critical",
+   "finding": "The body states s 47A(15) computes profits 'assuming Part X (except s 47A) had applied' and that previously attributed income reduces distributable profits. The supplied statute says s 47A(15) only requires an assumption that the company's accounts were drawn up immediately before the relevant time. The Part X assumption is not in s 47A(15).",
+   "suggested_fix": "Correct the body to state that s 47A(15) deems accounts to be drawn up immediately before the time. If reductions for previously assessed amounts are intended, follow ss 47A(16)-(18) separately and do not describe them as a Part X computation assumption."
+  },
+  {
+   "node_id": "loan",
+   "severity": "critical",
+   "finding": "The body says a purpose limb in s 47A(7) covers enabling the recipient to acquire property or services from the provider or an associate. That is not in the statute: s 47A(7)(b) is a purpose to facilitate a dividend that is or would be NANE under s 768-5, and s 47A(7)(c) is a purpose to facilitate the provision of an eligible benefit that is a distribution benefit.",
+   "suggested_fix": "Replace the property/services purpose language with the two actual statutory purposes in s 47A(7)(b) and (c), and keep the non-arm's length limb under s 47A(7)(a)."
+  },
+  {
+   "node_id": "assessable",
+   "severity": "critical",
+   "finding": "The node mischaracterises s 47A(2). The statute's s 47A(2) is not the source of the s 44 inclusion or NANE choice; it only applies where the amount is or would be included under s 44 (s 47A(2)(a)) AND the taxpayer did not return or notify the distribution consequence (s 47A(2)(b)), and its effect is to limit the deeming for s 365 and Div 770. The assessability/NANE result is determined by s 44 via s 47A(1), then s 23AI/s 768-5.",
+   "suggested_fix": "Split this node: first decide whether the deemed dividend is included under s 44 and whether s 23AI or s 768-5 applies. Then create a separate node or facet for the s 47A(2) notification limitation, expressly covering s 47A(2)(b) and the consequence for s 365 and Division 770."
+  },
+  {
+   "node_id": "waiver",
+   "severity": "major",
+   "finding": "The body says s 47A(6) provides that an obligation 'includes unenforceable or conditional obligations'. The statute instead says an entity is taken to be under an obligation even if the amount is not due for payment or repayment.",
+   "suggested_fix": "Correct the s 47A(6) statement to reflect that the obligation is covered even if not yet due, and remove the unsupported 'unenforceable or conditional' wording."
+  },
+  {
+   "node_id": "benefit",
+   "severity": "major",
+   "finding": "The s 47A(3) conditions are incomplete. The body says only that an eligible benefit must be provided to an associated entity, subject to ss (9)/(12). It omits s 47A(3)(b)-(c): the benefit must be provided by the first company, or by an arranger under an arrangement with the first company, with arrangement transfers where the arranger provides it.",
+   "suggested_fix": "Add an explicit decision node or expand the body to require all of s 47A(3)(a)-(c), including the provider and arrangement-transfer limbs."
+  },
+  {
+   "node_id": "shares",
+   "severity": "major",
+   "finding": "The body covers only acquisitions from a company under s 47A(8)(a). It omits s 47A(8)(b), which covers acquisitions from the trustee of a unit trust of a unit, a right to acquire a unit, or an option to acquire a unit.",
+   "suggested_fix": "Include the unit-trust acquisitions in the node, or add a parallel decision node for s 47A(8)(b)."
+  },
+  {
+   "node_id": "property",
+   "severity": "major",
+   "finding": "The body states a property/services transfer for no or inadequate consideration is an eligible benefit, but it omits the s 47A(10)(c)-(f) carve-outs: transfers of services consisting of a loan, transfers as consideration for share or unit acquisitions, and payments on calls are not within s 47A(10). These determine whether the transfer is instead tested under s 47A(7), (8) or (11).",
+   "suggested_fix": "Add the s 47A(10)(c)-(f) exclusions as explicit negative conditions, ideally routing those cases to the loan, shares or call nodes."
+  },
+  {
+   "node_id": "exclusion",
+   "severity": "major",
+   "finding": "The body omits s 47A(9)(b) and (12)(b): the other entity must also be the holder of an eligible equity interest in the recipient. The map describes only the first-company interest limb. Also, the graph routes waiver, loan and property benefits into this exclusion even though s 47A(9) and (12) apply only to eligible benefits covered by s 47A(8) or (11).",
+   "suggested_fix": "Add limb (b) to the exclusion body. Restructure edges so only the 'shares' and 'call' nodes enter the exclusion; waiver, loan and property should proceed directly to deemed."
+  },
+  {
+   "node_id": "facet-recapture",
+   "severity": "major",
+   "finding": "The facet omits s 47A(13)(ba), which requires that at the later time the share or unit has not been redeemed or bought back for consideration equal to or greater than arm's length value. It also mischaracterises s 47A(14) as 'referable to the recipient's interest' rather than the second eligible benefit facilitation rule, and omits its additional conditions.",
+   "suggested_fix": "Rewrite the facet to include s 47A(13)(ba) and accurately describe s 47A(14), including its facilitation and timing conditions."
+  },
+  {
+   "node_id": "facet-assoc",
+   "severity": "major",
+   "finding": "The body misstates s 47A(3)(b)-(c) as 'referable to a benefit by an associate'. The actual provision is that the benefit is provided by the first company or by an arranger under an arrangement between the first company and another entity, with arrangement transfers by the first company.",
+   "suggested_fix": "Correct the facet to describe the s 47A(3)(b)-(c) provider and arrangement transfer conditions accurately."
+  },
+  {
+   "node_id": "facet-profits",
+   "severity": "major",
+   "finding": "The body repeats the incorrect Part X assumption for s 47A(15), and describes s 47A(16)-(17) as 'timing and eligibility mechanics for benefits across years'. In fact s 47A(16)-(17) are rules reducing later profits by amounts already included under s 44 to prevent double counting.",
+   "suggested_fix": "Correct s 47A(15) to the accounts-drawn-up assumption, and describe s 47A(16)-(17) as later-profit reduction rules."
+  },
+  {
+   "node_id": "map",
+   "severity": "major",
+   "finding": "The map's summary claims all of s 47A(1)-(21) are mapped, but s 47A(18) (later-profit reduction through partnerships/trusts), s 47A(18B) (amendment where s 47A(2) is later found applicable) and s 47A(21) (definitions including associated entity, eligible equity interest, loan, arrangement and arm's length value) are not represented. These affect outcomes and amendment practice.",
+   "suggested_fix": "Add a facet for s 47A(18) and s 47A(18B), and include the key s 47A(21) definitions in the start node or definitions metadata so the map's coverage claim is accurate."
+  }
+ ]
+}

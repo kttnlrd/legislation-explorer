@@ -25,32 +25,32 @@ source_pdf: "vol01.pdf"
 <a id="s8AAG-3"></a>
 **(3)** The Commissioner may remit all or a part of the charge referred to in subsection (2) if the Commissioner is satisfied that:
 
-> <a id="s8AAG-3-a"></a>
-> **(a)** the circumstances that contributed to the delay in payment were not due to, or caused directly or indirectly by, an act or omission of the person; and
+<a id="s8AAG-3-a"></a>
+**(a)** the circumstances that contributed to the delay in payment were not due to, or caused directly or indirectly by, an act or omission of the person; and
 
-> <a id="s8AAG-3-b"></a>
-> **(b)** the person has taken reasonable action to mitigate, or mitigate the effects of, those circumstances.
+<a id="s8AAG-3-b"></a>
+**(b)** the person has taken reasonable action to mitigate, or mitigate the effects of, those circumstances.
 
 <a id="s8AAG-4"></a>
 **(4)** The Commissioner may remit all or a part of the charge referred to in subsection (2) if the Commissioner is satisfied that:
 
-> <a id="s8AAG-4-a"></a>
-> **(a)** the circumstances that contributed to the delay in payment were due to, or caused directly or indirectly by, an act or omission of the person; and
+<a id="s8AAG-4-a"></a>
+**(a)** the circumstances that contributed to the delay in payment were due to, or caused directly or indirectly by, an act or omission of the person; and
 
-> <a id="s8AAG-4-b"></a>
-> **(b)** the person has taken reasonable action to mitigate, or mitigate the effects of, those circumstances; and
+<a id="s8AAG-4-b"></a>
+**(b)** the person has taken reasonable action to mitigate, or mitigate the effects of, those circumstances; and
 
-> <a id="s8AAG-4-c"></a>
-> **(c)** having regard to the nature of those circumstances, it would be fair and reasonable to remit all or a part of the charge.
+<a id="s8AAG-4-c"></a>
+**(c)** having regard to the nature of those circumstances, it would be fair and reasonable to remit all or a part of the charge.
 
 <a id="s8AAG-5"></a>
 **(5)** The Commissioner may remit all or a part of the charge referred to in subsection (2) if the Commissioner is satisfied that:
 
-> <a id="s8AAG-5-a"></a>
-> **(a)** there are special circumstances because of which it would be fair and reasonable to remit all or a part of the charge; or
+<a id="s8AAG-5-a"></a>
+**(a)** there are special circumstances because of which it would be fair and reasonable to remit all or a part of the charge; or
 
-> <a id="s8AAG-5-b"></a>
-> **(b)** it is otherwise appropriate to do so.
+<a id="s8AAG-5-b"></a>
+**(b)** it is otherwise appropriate to do so.
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*
