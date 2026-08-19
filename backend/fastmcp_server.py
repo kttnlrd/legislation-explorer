@@ -10,6 +10,7 @@ import json
 import logging
 import os
 import re as _re
+import sqlite3
 from pathlib import Path
 from typing import Literal
 
@@ -25,17 +26,12 @@ from backend.services.data_loader import (
     load_rulings,
     get_definition_text,
     get_definition_across_acts,
-    get_cases_for_section,
-    get_rulings_for_section as get_rulings_for_section_dl,
-    get_commentary_for_section,
-    get_smartlinks_for_item,
 )
 from backend.services.text_cleaner import strip_scraped_markup
 from backend.services.search_service import search_sections as fts_search, search_rulings, search_conn
 
 from backend.routes.regulatory_guides import (
     _load_rg_section_index,
-    _load_reverse_section_index,
 )
 from backend.services.case_db_service import (
     build_download_urls,
@@ -209,7 +205,7 @@ class MCPAuthMiddleware(BaseHTTPMiddleware):
 # Tools
 # ---------------------------------------------------------------------------
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def search_legislation(
     query: str,
     act: str | None = None,
@@ -352,7 +348,7 @@ def _section_exists_in_act(act: str, section_id: str) -> bool:
     return False
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def resolve_alias(reference: str) -> str:
     """Resolve a section alias or short-hand reference to its act and section number.
 
@@ -548,7 +544,259 @@ def _display_ruling_citation(c: str) -> str:
     return c
 
 
-@mcp.tool()
+_GRAPH_DB = DATA_DIR / "graph.db"
+
+_PUB_DISPLAY = {
+    "master-tax-guide": "Master Tax Guide",
+    "master-gst-guide": "Master GST Guide",
+    "master-tax-examples": "Master Tax Examples",
+}
+
+
+def _graph_commentary_for_section(act: str, section: str, limit: int = 10) -> list[dict]:
+    """Commentary linked to a section via graph `explained_in` edges.
+
+    Replaces the archived commentary_index path (get_commentary_for_section):
+    that index is stale relative to graph.db — e.g. s109C had zero archive
+    entries while the graph carries 2 explained_in commentary nodes.
+
+    Returns entries shaped for get_section's related.commentary block:
+    publication, chapter_number, chapter_title, heading_title, url, snippet
+    (+ content when include_commentary=True is handled by the caller).
+    """
+    if not _GRAPH_DB.exists():
+        return []
+    try:
+        conn = sqlite3.connect(f"file:{_GRAPH_DB}?mode=ro", uri=True, timeout=10)
+        try:
+            row = conn.execute(
+                "SELECT id FROM nodes WHERE key=?", (f"section:{act}:{section}",)
+            ).fetchone()
+            if row is None:
+                return []
+            cid = row[0]
+            rows = conn.execute(
+                """
+                SELECT n.key AS nkey, n.label AS nlabel, n.content_ref
+                FROM graph_edges e
+                JOIN nodes n ON n.id = CASE WHEN e.source_id=? THEN e.target_id ELSE e.source_id END
+                WHERE (e.source_id=? OR e.target_id=?)
+                  AND e.edge_type='explained_in' AND n.node_type='commentary'
+                GROUP BY n.id
+                ORDER BY e.weight DESC
+                LIMIT ?
+                """,
+                (cid, cid, cid, limit),
+            ).fetchall()
+            out = []
+            for nkey, nlabel, content_ref in rows:
+                entry = _graph_commentary_entry(nkey, nlabel, content_ref)
+                if entry:
+                    out.append(entry)
+            return out
+        finally:
+            conn.close()
+    except Exception:
+        return []
+
+
+def _graph_commentary_entry(nkey: str, nlabel: str, content_ref: str | None) -> dict | None:
+    """Build a related.commentary entry from a commentary graph node.
+
+    key format: commentary:<publication>:ch-<n>/<section-slug>
+    e.g. commentary:master-tax-examples:ch-10/10-240-division-7a-...
+    """
+    try:
+        _, pub, path = nkey.split(":", 2)
+    except ValueError:
+        return None
+    if "/" not in path:
+        return None  # chapter-level node has no single section target
+    ch_part, slug = path.split("/", 1)
+    if not slug:
+        return None
+    snippet = ""
+    if content_ref:
+        md_path = DATA_DIR / content_ref.removeprefix("data/")
+        try:
+            body = md_path.read_text(encoding="utf-8")
+            if body.startswith("---"):
+                fm_end = _re.search(r"\n---\s*\n", body)
+                if fm_end:
+                    body = body[fm_end.end():]
+            body = _re.sub(r"\n---\s*\*Last updated:.*?\*", "", body, flags=_re.DOTALL)
+            body = _re.sub(r"\n---\s*$", "", body)
+            body = strip_scraped_markup(body).strip()
+            body = _re.sub(r"^#\s+.*\n+", "", body)  # drop H1 (already in heading_title)
+            snippet = body[:500]
+        except Exception:
+            snippet = ""
+    return {
+        "publication": _PUB_DISPLAY.get(pub, pub),
+        "chapter_number": ch_part.removeprefix("ch-"),
+        "chapter_title": "",
+        "heading_title": nlabel,
+        "url": f"/{pub}/{slug}",
+        "snippet": snippet,
+        "content_ref": content_ref,
+    }
+
+
+def _graph_edges_to(act: str, section: str, edge_type: str, node_type: str, limit: int = 10) -> list[tuple[str, str, str]]:
+    """Graph neighbours of a section node: (key, label, meta_json).
+
+    Shared by cases/rulings/commentary lookups — single read-only connection,
+    exact key match only (graph keys are canonical).
+    """
+    if not _GRAPH_DB.exists():
+        return []
+    try:
+        conn = sqlite3.connect(f"file:{_GRAPH_DB}?mode=ro", uri=True, timeout=10)
+        try:
+            row = conn.execute(
+                "SELECT id FROM nodes WHERE key=?", (f"section:{act}:{section}",)
+            ).fetchone()
+            if row is None:
+                return []
+            cid = row[0]
+            rows = conn.execute(
+                """
+                SELECT n.key AS nkey, n.label AS nlabel, n.meta AS nmeta
+                FROM graph_edges e
+                JOIN nodes n ON n.id = CASE WHEN e.source_id=? THEN e.target_id ELSE e.source_id END
+                WHERE (e.source_id=? OR e.target_id=?)
+                  AND e.edge_type=? AND n.node_type=?
+                GROUP BY n.id
+                ORDER BY e.weight DESC
+                LIMIT ?
+                """,
+                (cid, cid, cid, edge_type, node_type, limit),
+            ).fetchall()
+            return [(r[0], r[1], r[2]) for r in rows]
+        finally:
+            conn.close()
+    except Exception:
+        return []
+
+
+def _graph_cases_for_section(act: str, section: str, limit: int = 10) -> list[dict]:
+    """Cases linked to a section via graph `considered_in` edges."""
+    cases = _load_cases_map()
+    out = []
+    for key, label, meta_json in _graph_edges_to(act, section, "considered_in", "case", limit):
+        citation = key.split(":", 1)[1] if ":" in key else key
+        meta = {}
+        try:
+            meta = json.loads(meta_json or "{}")
+        except Exception:
+            pass
+        out.append({
+            "type": "case",
+            "citation": citation,
+            "title": cases.get(citation, {}).get("title") or label,
+            "court": meta.get("court") or "",
+        })
+    return out
+
+
+def _graph_rulings_for_section(act: str, section: str, limit: int = 10) -> list[dict]:
+    """Public rulings linked to a section via graph `interpreted_by` edges.
+
+    `applies` edges to public rulings are parallel duplicates of
+    `interpreted_by` (provenance-verified), so they're not double-counted.
+    Private rulings are returned separately via `applies` → private_ruling.
+    """
+    rulings = _load_rulings_map()
+    out = []
+    for key, label, _meta in _graph_edges_to(act, section, "interpreted_by", "public_ruling", limit):
+        citation = key.split(":", 1)[1] if ":" in key else key
+        title = ""
+        # Ruling file stems use several conventions: TR_2014_5 (space→_), PSLA_2007_20 (space dropped), ATOID_2012_3.
+        candidates = {
+            citation,
+            citation.replace("ATOID ", "AID "),
+            citation.replace("ATOID_", "AID_", 1),
+            citation.replace(" ", "_").replace("/", "_").replace("-", "_"),
+            citation.replace(" ", "").replace("/", "_").replace("-", "_"),
+        }
+        for cand in candidates:
+            r = rulings.get(cand)
+            if r:
+                title = r.get("full_title") or r.get("title") or ""
+                break
+        out.append({
+            "type": "ruling",
+            "citation": citation,
+            "title": title or label,
+        })
+    return out
+
+
+def _graph_private_rulings_for_section(act: str, section: str, limit: int = 10) -> list[dict]:
+    """Private rulings linked to a section via graph `applies` edges."""
+    out = []
+    for key, label, _meta in _graph_edges_to(act, section, "applies", "private_ruling", limit):
+        auth = key.rsplit("/", 1)[-1]
+        out.append({
+            "type": "private_ruling",
+            "auth_number": auth,
+            "label": label if label.startswith("EV/") else f"EV/{auth}",
+            "url": f"/private-rulings/{auth}",
+        })
+    return out
+
+
+@functools.lru_cache(maxsize=1)
+def _load_cases_map() -> dict[str, dict]:
+    from backend.services.data_loader import load_cases
+    return {c.get("citation", ""): c for c in load_cases()}
+
+
+@functools.lru_cache(maxsize=1)
+def _load_rulings_map() -> dict[str, dict]:
+    from backend.services.data_loader import load_rulings
+    out: dict[str, dict] = {}
+    for r in load_rulings():
+        out[r.get("citation", "")] = r
+        out[r.get("citation", "").replace("ATOID_", "AID_", 1)] = r
+    return out
+
+
+def _tree_same_division(tree: dict, section: str) -> list[dict]:
+    """Sections in the same part/division/subdivision of an act tree.
+
+    The graph deliberately has no section→section edges, so related sections
+    come from the act tree (the graph's own structural source). Returns the
+    same shape as the retired smartlink index: {id, type, score, reason}.
+    """
+    target = section.split("(")[0].strip().upper()
+
+    def _ids(secs: list[dict]) -> list[str]:
+        return [str(s.get("id", "")).split("(")[0].strip().upper()
+                for s in secs if s.get("id")]
+
+    def _shape(sids: list[str]) -> list[dict]:
+        seen: list[str] = []
+        for sid in sids:
+            if sid and sid != target and sid not in seen:
+                seen.append(sid)
+        return [{"id": sid, "type": "section", "score": 0.4,
+                 "reason": "same part/division"} for sid in seen]
+
+    for part in tree.get("parts", []):
+        part_ids = _ids(part.get("sections", []))
+        if target in part_ids:
+            return _shape(part_ids)
+        for div in part.get("divisions", []):
+            div_ids = _ids(div.get("sections", []))
+            for sub in div.get("subdivisions", []):
+                div_ids += _ids(sub.get("sections", []))
+            if target in div_ids:
+                return _shape(div_ids)
+    return []
+
+
+@mcp.tool(structured_output=False)
 async def get_section(act: str, section: str, max_body_length: int = 50000,
                       include_commentary: bool = False) -> str:
     """Retrieve full text of a legislation section with related cases, rulings, and commentary.
@@ -691,79 +939,60 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
         # Truncate to a concise preview
         body_out = body_out[:10000]
 
-    # Fetch related content (top 10 each)
+    # Fetch related content (top 10 each) — graph-first: graph.db is the
+    # canonical link source (considered_in / interpreted_by / applies /
+    # explained_in). The archived citation/commentary/smartlink indexes are
+    # retired. Related sections come from the act tree (same part/division) —
+    # the graph has no section→section edges.
     try:
-        related_cases = get_cases_for_section(act, section, limit=10)
+        related_cases = _graph_cases_for_section(act, section, limit=10)
     except Exception:
         related_cases = []
     try:
-        related_rulings = get_rulings_for_section_dl(act, section, limit=10)
+        related_rulings = _graph_rulings_for_section(act, section, limit=10)
     except Exception:
         related_rulings = []
     try:
-        related_commentary_raw = get_commentary_for_section(act, section, limit=10)
+        related_private_rulings = _graph_private_rulings_for_section(act, section, limit=10)
+    except Exception:
+        related_private_rulings = []
+    try:
+        related_commentary_raw = _graph_commentary_for_section(act, section, limit=10)
     except Exception:
         related_commentary_raw = []
 
-    # When include_commentary is False, return a 500-char snippet + locator
-    # instead of the full text-heavy entries
+    # Graph-driven commentary entries already carry a 500-char snippet + URL.
+    # include_commentary=True adds the full body text from the commentary file.
     related_commentary = []
     for entry in related_commentary_raw:
-        if entry.get("content_blocks"):
-            snippet_parts = []
-            for cb in entry["content_blocks"]:
-                text = cb.get("content", cb.get("text", ""))
-                if text:
-                    snippet_parts.append(text[:500])
-                    if sum(len(s) for s in snippet_parts) > 500:
-                        break
-            snippet = " ".join(snippet_parts)[:500]
-        else:
-            snippet = ""
         commentary_entry = {
             "publication": entry.get("publication", ""),
             "chapter_number": entry.get("chapter_number"),
             "chapter_title": entry.get("chapter_title", ""),
             "heading_title": entry.get("heading_title", ""),
-            "paragraph_number": entry.get("paragraph_number"),
-            "snippet": snippet,
+            "url": entry.get("url"),
+            "snippet": entry.get("snippet", ""),
         }
-        if include_commentary:
-            commentary_entry["content_blocks"] = entry.get("content_blocks", [])
-            commentary_entry["sub_headings"] = entry.get("sub_headings", [])
+        if include_commentary and entry.get("content_ref"):
+            md_path = DATA_DIR / entry["content_ref"].removeprefix("data/")
+            try:
+                body = md_path.read_text(encoding="utf-8")
+                if body.startswith("---"):
+                    fm_end = _re.search(r"\n---\s*\n", body)
+                    if fm_end:
+                        body = body[fm_end.end():]
+                body = _re.sub(r"\n---\s*\*Last updated:.*?\*", "", body, flags=_re.DOTALL)
+                body = _re.sub(r"\n---\s*$", "", body)
+                commentary_entry["content"] = strip_scraped_markup(body).strip()
+            except Exception:
+                commentary_entry["content"] = ""
         related_commentary.append(commentary_entry)
 
     try:
-        smartlinks = get_smartlinks_for_item("section", f"{act}#{section}")
-        related_sections = [s for s in smartlinks if s.get("type") == "section"][:10]
+        tree = load_tree(act)
+        related_sections = _tree_same_division(tree, section)[:10]
     except Exception:
         related_sections = []
-
-    # Fetch related RGs for corps act sections
-    related_rgs = []
-    if act == "corporations-act-2001":
-        try:
-            rev = _load_reverse_section_index()
-            key = f"corporations-act-2001#{section}"
-            rg_keys = rev.get(key, [])
-            # Try without subsections
-            if not rg_keys:
-                base = section.split("(")[0].strip()
-                if base != section:
-                    key2 = f"corporations-act-2001#{base}"
-                    rg_keys = rev.get(key2, [])
-            from backend.routes.regulatory_guides import _load_manifest as _load_rg_manifest
-            manifest = _load_rg_manifest()
-            manifest_map = {rg["rg_number"]: rg for rg in manifest}
-            for k in rg_keys:
-                rg_num = int(k.split("_")[1])
-                rg = manifest_map.get(rg_num, {})
-                related_rgs.append({
-                    "rg_number": rg_num,
-                    "title": rg.get("title", ""),
-                })
-        except Exception:
-            pass
 
     payload = {
         "act": act,
@@ -772,28 +1001,21 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
         "truncated": truncated or body_truncated_flag,
         "body_truncated_to": max_body_length,
         "related": {
-            "cases": [
-                {**c, "citation": _display_case_citation(c.get("citation", ""))}
-                for c in related_cases
-            ],
-            "rulings": [
-                {k: v for k, v in {**r, "citation": _display_ruling_citation(r.get("citation", ""))}.items()
-                 if not (k == "year" and v in (0, None)) and not (k == "ato_url" and not v)}
-                for r in related_rulings
-            ],
+            "cases": related_cases,
+            "rulings": related_rulings,
             "sections": related_sections,
         },
     }
+    if related_private_rulings:
+        payload["related"]["private_rulings"] = related_private_rulings
     if related_commentary:
         payload["related"]["commentary"] = related_commentary
-    if related_rgs:
-        payload["related"]["regulatory_guides"] = related_rgs
     if section_def_note:
         payload["note"] = section_def_note
     return json.dumps(payload, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def list_acts() -> str:
     """List all available acts and ATO rulings."""
     acts = []
@@ -810,7 +1032,7 @@ async def list_acts() -> str:
     return json.dumps({"acts": acts}, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def get_act_tree(act: str, depth: str = "sections") -> str:
     """Get the full structure of an act (parts, divisions, sections).
 
@@ -856,7 +1078,7 @@ async def get_act_tree(act: str, depth: str = "sections") -> str:
     return json.dumps(tree, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def list_treaty_articles(country: str) -> str:
     """List all articles for a given Double Tax Agreement country.
 
@@ -893,7 +1115,7 @@ async def list_treaty_articles(country: str) -> str:
         return json.dumps({"error": f"Failed to read treaty: {e}", "hint": _GET_INFO_HINT}, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def get_treaty_article(country: str, article: int,
                              max_body_length: int = 50000) -> str:
     """Retrieve the full text of a specific treaty article.
@@ -950,7 +1172,7 @@ async def get_treaty_article(country: str, article: int,
     }, indent=2, ensure_ascii=False)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def get_definition(act: str, term: str) -> str:
     """Look up the definition of a term, searched across all acts.
 
@@ -964,7 +1186,7 @@ async def get_definition(act: str, term: str) -> str:
     return json.dumps({"error": f"Definition for '{term}' not found in any act", "hint": _GET_INFO_HINT})
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def search_all(
     query: str,
     type_filter: str | None = None,
@@ -1089,7 +1311,7 @@ async def search_all(
     }, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def search_cases(query: str, limit: int = 20) -> str:
     """Search case AI summaries and metadata by topic, case name, or citation.
 
@@ -1176,7 +1398,7 @@ async def search_cases(query: str, limit: int = 20) -> str:
     }, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def insolvency_search(query: str, limit: int = 20) -> str:
     """Search the Keays Insolvency textbook across all chapters.
 
@@ -1196,7 +1418,7 @@ async def insolvency_search(query: str, limit: int = 20) -> str:
     return json.dumps(result, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def insolvency_get_chapter(chapter: int, offset: int = 0,
                                   limit: int = 5000) -> str:
     """Retrieve the full text of a chapter from the Keays Insolvency textbook.
@@ -1233,7 +1455,7 @@ async def insolvency_get_chapter(chapter: int, offset: int = 0,
     }, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def get_regulatory_guide(rg_number: int) -> str:
     """Retrieve an ASIC Regulatory Guide with structured summary.
 
@@ -1252,7 +1474,7 @@ async def get_regulatory_guide(rg_number: int) -> str:
         return _json.dumps({"error": str(e), "hint": _GET_INFO_HINT})
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def get_rg_sections(rg_number: int) -> str:
     """Retrieve the Corps Act sections cited by an ASIC Regulatory Guide.
 
@@ -1287,7 +1509,7 @@ async def get_rg_sections(rg_number: int) -> str:
     return _json.dumps({"rg_number": rg_number, "count": len(sections), "sections": sections}, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def get_info() -> str:
     """Return server version, usage conventions, tool descriptions, and coverage counts.
 
@@ -1392,7 +1614,7 @@ async def get_info() -> str:
     }, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def standards(topic: str | None = None) -> str:
     """Return Cadena Legal standards for a topic, or list of topics."""
     STANDARDS_DIR = Path(__file__).parent.parent / "standards"
@@ -1505,7 +1727,7 @@ def _ruling_type_from_citation(citation: str) -> str:
         return _PREFIX_TYPE_MAP.get(m.group(1).upper(), "")
     return ""
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def get_ruling(citation: str) -> str:
     """Retrieve an ATO ruling preview by citation, with related legislation sections.
 
@@ -1628,7 +1850,7 @@ async def get_ruling(citation: str) -> str:
     return json.dumps({"error": f"Ruling {citation} not found", "hint": _GET_INFO_HINT})
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def get_case(
     citation: str,
     search: str = "",
@@ -1817,7 +2039,7 @@ async def get_case(
     return json.dumps(result, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def case_legislation_refs(citation: str) -> str:
     """Get legislation references and case citations for a case.
 
@@ -1837,7 +2059,7 @@ async def case_legislation_refs(citation: str) -> str:
     }, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def list_rulings(
     type: str | None = None,
     year: int | None = None,
@@ -1930,7 +2152,7 @@ async def list_rulings(
     return json.dumps(payload, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def report_issue(
     category: Literal["bad_data", "missing_content", "stale_compilation", "wrong_result", "tool_error", "suggestion", "bug"],
     tool: str | None = None,
@@ -2044,7 +2266,7 @@ async def report_issue(
     })
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def list_issues(
     status: str | None = None,
     tool: str | None = None,
@@ -2086,7 +2308,7 @@ async def list_issues(
     }, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def graph_neighbourhood(key: str, depth: int = 1) -> str:
     """Return the graph context block for a node (graph spec §6.2).
 
@@ -2120,7 +2342,7 @@ async def graph_neighbourhood(key: str, depth: int = 1) -> str:
     return json.dumps(out, indent=2)
 
 
-@mcp.tool()
+@mcp.tool(structured_output=False)
 async def graph_path(from_key: str, to_key: str, max_hops: int = 10) -> str:
     """Find the shortest path between two graph nodes (graph spec §6.3).
 
