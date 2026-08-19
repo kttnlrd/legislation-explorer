@@ -15,7 +15,7 @@ RERANK_CANDIDATES = int(os.getenv("RERANK_CANDIDATES", "50"))
 
 # ponytail: urllib, not requests — requests isn't a backend dependency and this is one POST.
 # Single timeout covers connect+read; urllib has no separate connect timeout.
-_TIMEOUT = 5
+_TIMEOUT = 1.5
 # After a failure (gamingpc asleep etc), skip rerank attempts for this long so a
 # dead host doesn't add _TIMEOUT to every query. Re-engages automatically.
 _FAILURE_COOLDOWN_S = 120

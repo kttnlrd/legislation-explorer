@@ -392,6 +392,52 @@ def search_suggest(q: str, limit: int = 12):
     return {"query": q, "suggestions": deduped[:limit]}
 
 
+def _pg_case_search(q: str) -> list[dict]:
+    """Query the PostgreSQL case database for citation/name matches."""
+    import subprocess
+    results: list[dict] = []
+    safe_q = q.replace("'", "''").replace('"', '""')
+    sql = (
+        "SELECT citation, case_name, court, decision_date::text FROM cases "
+        f"WHERE citation ILIKE '%{safe_q}%' OR case_name ILIKE '%{safe_q}%' "
+        "ORDER BY decision_date DESC LIMIT 20"
+    )
+    result = subprocess.run(
+        ["docker", "exec", "-i", "cadena-postgres", "psql",
+         "-U", "postgres", "-d", "cadena_knowledge",
+         "-t", "-A", "-F", chr(1), "-c", sql],
+        capture_output=True, text=True, timeout=10,
+    )
+    if result.returncode == 0 and result.stdout.strip():
+        for line in result.stdout.strip().splitlines():
+            parts = line.split(chr(1))
+            if len(parts) >= 4:
+                results.append({
+                    "act": "tax-cases",
+                    "section": parts[0],
+                    "title": parts[1],
+                    "court": parts[2],
+                    "date": parts[3] if len(parts) > 3 else "",
+                    "snippet": f"{parts[1]} — Decided {parts[3]}" if parts[3] else parts[1],
+                })
+    return results
+
+
+def _fts_case_search(q: str, operator: str = "AND") -> list[dict]:
+    """Search via FTS5 case index for better text matching on case names/summaries."""
+    from backend.services.search_service import search_cases_fts
+    results: list[dict] = []
+    for cr in search_cases_fts(q, limit=20, operator=operator):
+        results.append({
+            "act": "tax-cases",
+            "section": cr["citation"],
+            "title": cr["case_name"],
+            "court": cr.get("court", ""),
+            "snippet": cr.get("case_name", ""),
+        })
+    return results
+
+
 @router.get("/api/search/hybrid")
 def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | None = None,
                   offset: int = 0, operator: str = "AND",
@@ -413,28 +459,46 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
     if type:
         type_filter = set(type.lower().split(","))
 
-    try:
-        fts_results = fts_search(q, act, limit=50, operator=operator).get("results", [])
-    except Exception:
-        logger.exception("FTS search failed")
-        fts_results = []
+    # The six searches below are independent — run them concurrently so wall
+    # time tracks the slowest source (~400ms), not the sum (~850ms).
+    from concurrent.futures import ThreadPoolExecutor
+
+    def _run(label: str, fn, default):
+        try:
+            return fn()
+        except Exception:
+            logger.exception("%s failed", label)
+            return default
+
+    with ThreadPoolExecutor(max_workers=6) as _ex:
+        _f_fts = _ex.submit(
+            _run, "FTS search",
+            lambda: fts_search(q, act, limit=50, operator=operator).get("results", []), [])
+        _f_rulings = _ex.submit(
+            _run, "Ruling FTS search",
+            lambda: search_rulings(q, limit=50, operator=operator)
+            if not act or act == "rulings" else [], [])
+        _f_private = _ex.submit(
+            _run, "Private ruling search",
+            lambda: search_private_rulings(q, limit=50, operator=operator), [])
+        _f_vector = _ex.submit(
+            _run, "Vector search",
+            lambda: vector_search_service.search(q, limit=50), [])
+        _f_pg = _ex.submit(_run, "PostgreSQL case search (non-fatal)", lambda: _pg_case_search(q), [])
+        _f_fts_case = _ex.submit(_run, "FTS5 case search (non-fatal)", lambda: _fts_case_search(q, operator), [])
+
+        fts_results = _f_fts.result()
+        ruling_results = _f_rulings.result()
+        private_results = _f_private.result()
+        vector_results = _f_vector.result()
+        pg_case_results = _f_pg.result()
+        fts_case_results = _f_fts_case.result()
+
     # FTS results are always legislation sections — filter by type when active
     if type_filter and "section" not in type_filter:
         fts_results = []
-
-    try:
-        ruling_results = search_rulings(q, limit=50, operator=operator) if not act or act == "rulings" else []
-    except Exception:
-        logger.exception("Ruling FTS search failed")
-        ruling_results = []
     if type_filter and "ruling" not in type_filter:
         ruling_results = []
-
-    try:
-        private_results = search_private_rulings(q, limit=50, operator=operator)
-    except Exception:
-        logger.exception("Private ruling search failed")
-        private_results = []
     if type_filter and not (type_filter & {"ruling", "private_ruling"}):
         private_results = []
     # CDN-0117: body term search — merge FTS hits over private ruling content
@@ -450,61 +514,10 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         except Exception:
             logger.exception("Private ruling FTS search failed")
 
-    try:
-        vector_results = vector_search_service.search(q, limit=50)
-    except Exception:
-        logger.exception("Vector search failed")
-        vector_results = []
     if act:
         vector_results = [r for r in vector_results if r["act"] == act]
     if type_filter:
         vector_results = [r for r in vector_results if r.get("source_type", "section") in type_filter]
-
-    # Query the PostgreSQL case database for citation/name matches
-    pg_case_results: list[dict] = []
-    try:
-        import subprocess
-        safe_q = q.replace("'", "''").replace('"', '""')
-        sql = (
-            "SELECT citation, case_name, court, decision_date::text FROM cases "
-            f"WHERE citation ILIKE '%{safe_q}%' OR case_name ILIKE '%{safe_q}%' "
-            "ORDER BY decision_date DESC LIMIT 20"
-        )
-        result = subprocess.run(
-            ["docker", "exec", "-i", "cadena-postgres", "psql",
-             "-U", "postgres", "-d", "cadena_knowledge",
-             "-t", "-A", "-F", chr(1), "-c", sql],
-            capture_output=True, text=True, timeout=10,
-        )
-        if result.returncode == 0 and result.stdout.strip():
-            for line in result.stdout.strip().splitlines():
-                parts = line.split(chr(1))
-                if len(parts) >= 4:
-                    pg_case_results.append({
-                        "act": "tax-cases",
-                        "section": parts[0],
-                        "title": parts[1],
-                        "court": parts[2],
-                        "date": parts[3] if len(parts) > 3 else "",
-                        "snippet": f"{parts[1]} — Decided {parts[3]}" if parts[3] else parts[1],
-                    })
-    except Exception:
-        logger.exception("PostgreSQL case search failed (non-fatal)")
-
-    # Also search via FTS5 case index for better text matching on case names/summaries
-    fts_case_results: list[dict] = []
-    try:
-        from backend.services.search_service import search_cases_fts
-        for cr in search_cases_fts(q, limit=20, operator=operator):
-            fts_case_results.append({
-                "act": "tax-cases",
-                "section": cr["citation"],
-                "title": cr["case_name"],
-                "court": cr.get("court", ""),
-                "snippet": cr.get("case_name", ""),
-            })
-    except Exception:
-        logger.exception("FTS5 case search failed (non-fatal)")
 
     if type_filter and 'case' not in type_filter:
         pg_case_results = []

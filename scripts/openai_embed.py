@@ -271,6 +271,18 @@ def process_section_file(conn, act, path, source_type):
                 (source_type, act, section, section_title, idx,
                  file_path, h, etext, array('f', vec).tobytes(), MODEL),
             )
+
+    # Prune stale chunk indexes for this file (corpus cleanup can shrink a
+    # file's chunk count; orphaned rows would linger with old noise/text).
+    current_idxs = set(range(len(chunks)))
+    if existing:
+        stale = sorted(set(existing) - current_idxs)
+        if stale:
+            marks = ",".join("?" * len(stale))
+            conn.execute(
+                f"DELETE FROM embeddings WHERE file_path = ? AND chunk_index IN ({marks})",
+                [file_path] + stale,
+            )
     conn.commit()
     return len(to_embed)
 

@@ -81,6 +81,7 @@ def build_chunks(d: dict) -> list[str]:
     refs_str = f"\n[References] {', '.join(refs)}" if refs else ""
 
     chunks: list[str] = []
+    seen: set[str] = set()
     for i, pair in enumerate(d.get("qa_pairs") or [], start=1):
         q = norm_text(pair.get("question"))
         a = norm_text(pair.get("answer"))
@@ -88,12 +89,19 @@ def build_chunks(d: dict) -> list[str]:
             continue
         body = f"[Question {i}] {q}\n[Answer {i}] {a}"
         for piece in chunk_text(body, MAX_CHARS):
-            chunks.append(f"{header}{piece}{refs_str}")
-
+            ctext = f"{header}{piece}{refs_str}"
+            if ctext in seen:
+                continue  # ruling quotes the same passage twice — embed once
+            seen.add(ctext)
+            chunks.append(ctext)
     reasons = norm_text(d.get("reasons_for_decision"))
     if reasons:
         for piece in chunk_text(f"[Reasons] {reasons}", MAX_CHARS):
-            chunks.append(f"{header}{piece}{refs_str}")
+            ctext = f"{header}{piece}{refs_str}"
+            if ctext in seen:
+                continue
+            seen.add(ctext)
+            chunks.append(ctext)
     return chunks
 
 
