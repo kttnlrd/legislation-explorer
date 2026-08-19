@@ -1325,7 +1325,7 @@ async def get_info() -> str:
                 "treaty": "country slug: usa, china, argentina (list_treaty_articles for valid slugs)",
                 "regulatory guide": "RG int: 1, 104, 140",
                 "insolvency": "chapter int 1-21",
-                "graph": "canonical keys: 'section:itaa-1997:118-110', 'public_ruling:TR 2025/1', 'case:[2015] HCA 48', 'private_ruling:EV/1052514149928'; resolve_alias output accepted",
+                "graph": "canonical keys: 'section:itaa-1997:118-110', 'public_ruling:TR 2025/1', 'case:[2015] HCA 48', 'private_ruling:EV/1011261243735'; resolve_alias output accepted",
             },
             "section_aliases": ["116-30", "s 116-30", "sec 116-30", "section 116-30", "s116-30"],
             "on_failure": "Fail/null/empty → re-call get_info, reformat per the formats above, retry once via resolve_alias / search_legislation / search_all. Never guess a section number or invent a citation.",
@@ -1635,6 +1635,16 @@ async def get_case(
     # Fetch case metadata (always includes legislation refs)
     result = get_case_metadata(citation_norm, include_legislation_refs=True)
     if result is None:
+        # Summary exists on disk but case is not in the DB — still return it.
+        if summary:
+            return json.dumps({
+                "citation": citation_norm,
+                "case_name": summary.get("case_name", ""),
+                "summary": summary,
+                "note": "Case full text not in database — summary returned from disk. "
+                        "Use search_cases to verify the citation format.",
+                "hint": _GET_INFO_HINT,
+            }, indent=2)
         # Fallback: search for similar cases
         try:
             suggestions = fts_search(citation, limit=3)
@@ -2054,7 +2064,7 @@ async def graph_neighbourhood(key: str, depth: int = 1) -> str:
     Args:
         key:    canonical graph key, e.g. "section:itaa-1997:118-110",
                 "public_ruling:TR 2025/1", "case:[2015] HCA 48",
-                "private_ruling:EV/1052514149928", "commentary:MTG:ch12".
+                "private_ruling:EV/1011261243735", "commentary:MTG:ch12".
                 Accepts the resolved_by graph_key from resolve_alias.
         depth:  1 = node neighbourhood (~80 tokens); 2 = + aggregated
                 neighbourhood-of-neighbourhood (<=400 tokens). Default 1.
@@ -2086,7 +2096,7 @@ async def graph_path(from_key: str, to_key: str, max_hops: int = 10) -> str:
     rulings/cases/commentary linking a private ruling to a High Court case.
 
     Args:
-        from_key: canonical graph key, e.g. "private_ruling:EV/1052514149928".
+        from_key: canonical graph key, e.g. "private_ruling:EV/1011261243735".
         to_key:   canonical graph key, e.g. "case:[1986] HCA 45".
         max_hops: hop cap (1-20, default 10).
 
