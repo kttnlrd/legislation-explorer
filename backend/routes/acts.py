@@ -7,8 +7,8 @@ import functools
 
 from fastapi import HTTPException, APIRouter
 
-from backend.config import DATA_DIR, INSOLVENCY_DIR
-from backend.services.data_loader import load_tree, get_act_section_content
+from backend.config import INSOLVENCY_DIR
+from backend.services.data_loader import load_tree, load_acts_meta, get_act_section_content
 from backend.services.search_service import get_insolvency_chapter
 from backend.processors.markdown import (
     link_definitions, format_definition_terms,
@@ -26,16 +26,9 @@ router = APIRouter()
 
 @router.get("/api/acts")
 def list_acts():
-    acts = []
-    for act_dir in sorted(DATA_DIR.iterdir()):
-        if act_dir.is_dir() and (act_dir / "tree.json").exists():
-            tree = load_tree(act_dir.name)
-            acts.append({
-                "id": act_dir.name,
-                "name": tree.get("act", act_dir.name),
-                "compilation_no": tree.get("compilation_no"),
-                "compilation_date": tree.get("compilation_date"),
-            })
+    # Copy — load_acts_meta() is lru_cached; appending pseudo-acts to the
+    # cached list would grow it on every call.
+    acts = list(load_acts_meta())
     acts.append({"id": "rulings", "name": "ATO Rulings", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "tax-cases", "name": "Tax Cases", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "private-rulings", "name": "Private Rulings", "compilation_no": None, "compilation_date": None})

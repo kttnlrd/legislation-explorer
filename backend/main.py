@@ -42,12 +42,31 @@ logger = logging.getLogger(__name__)
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Build search index in background on startup if missing or stale."""
+    loop = asyncio.get_running_loop()
     if not SEARCH_DB.exists():
         logger.info("Search index missing, building in background...")
-        loop = asyncio.get_running_loop()
         await loop.run_in_executor(None, init_search_index)
-    loop = asyncio.get_running_loop()
     await loop.run_in_executor(None, vector_search_service.load)
+
+    # Preload lazy caches so the first request doesn't pay cold-start cost.
+    from backend.routes.search import _load_private_rulings_index
+    from backend.services.graph_alias import _load_alias_map, _graph_key_set
+    from backend.services.data_loader import load_tree, load_acts_meta
+
+    def _preload_trees():
+        for a in load_acts_meta():
+            load_tree(a["id"])
+
+    for _name, _fn in (
+        ("private_rulings_index", _load_private_rulings_index),
+        ("alias_map", _load_alias_map),
+        ("graph_keys", _graph_key_set),
+        ("act_trees", _preload_trees),
+    ):
+        try:
+            await loop.run_in_executor(None, _fn)
+        except Exception:
+            logger.exception("Startup preload failed: %s", _name)
 
     # Run FastMCP session manager (handles Streamable HTTP connections)
     async with fastmcp._session_manager.run():
@@ -64,6 +83,10 @@ app.add_middleware(
     allow_methods=["GET", "POST"],
     allow_headers=["Authorization", "Content-Type"],
 )
+
+# GZip compression for large JSON payloads
+from starlette.middleware.gzip import GZipMiddleware
+app.add_middleware(GZipMiddleware, minimum_size=1024)
 
 # Metrics
 app.add_middleware(MetricsMiddleware)

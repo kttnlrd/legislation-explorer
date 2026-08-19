@@ -167,8 +167,11 @@ def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50, dep
                     "exact_match": True,
                 })
 
+    fts_total = 0
     try:
-        fts_results = fts_search(q, act, limit=500).get("results", [])
+        _fts = fts_search(q, act, limit=min(offset + limit, 100))
+        fts_results = _fts.get("results", [])
+        fts_total = _fts.get("total_count", 0)
         for r in fts_results:
             if exact_row and r["act"] == exact_row["act"] and r["section"] == exact_row["section"]:
                 continue
@@ -198,15 +201,20 @@ def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50, dep
                                 all_results.append({"act": a, "section": sec["id"], "title": sec.get("title", "")})
 
     # Private rulings by authnum / year / name — searchable by bare number
+    private_count = 0
     if act is None or act == "private-rulings":
         try:
             for pr in search_private_rulings(q, limit=50):
                 if not any(r.get("act") == "private-rulings" and r.get("section") == pr["section"] for r in all_results):
                     all_results.append(pr)
+                    private_count += 1
         except Exception:
             logger.exception("Private ruling search failed")
 
-    total = len(all_results)
+    # FTS rows are fetched only up to the requested page, so the true total
+    # comes from FTS's own count; fall back to len() when the tree-scan
+    # fallback populated all_results (fts_total == 0).
+    total = (fts_total + (1 if exact_row else 0) + private_count) if fts_total else len(all_results)
     page = all_results[offset:offset + limit]
     engine = "fallback" if not SEARCH_DB.exists() else "fts5"
 

@@ -27,7 +27,7 @@ DIMS = 1536
 
 _ids: np.ndarray | None = None
 _matrix: np.ndarray | None = None
-_meta: dict[int, dict] | None = None
+_meta: dict[int, tuple] | None = None
 
 # Load API key from .hermes/.env
 _env_path = Path("/home/harrison/.hermes/.env")
@@ -125,15 +125,16 @@ def search(query: str, limit: int = 50) -> list[dict]:
     results = []
     for idx in top_idx:
         emb_id = int(_ids[idx])
-        m = _meta[emb_id]
-        source_type = m.get("source_type", "section")
+        # embeddings_meta.pkl stores tuples (see scripts/build_vector_matrix.py)
+        source_type, m_act, m_section, m_title, m_text = _meta[emb_id]
+        source_type = source_type or "section"
         results.append({
             "embedding_id": emb_id,
             "source_type": source_type,
-            "act": "tax-cases" if source_type == "case" else ("rulings" if source_type == "ruling" else m["act"]),
-            "section": m["section"],
-            "title": m["section_title"],
+            "act": "tax-cases" if source_type == "case" else ("rulings" if source_type == "ruling" else m_act),
+            "section": m_section,
+            "title": m_title,
             "score": float(scores[idx]),
-            "snippet": m["embedding_text"][:300],
+            "snippet": (m_text or "")[:300],
         })
     return results

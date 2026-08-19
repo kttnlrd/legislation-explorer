@@ -89,6 +89,24 @@ def _strip_ato_chrome(text: str) -> str:
 # Acts / sections
 # ---------------------------------------------------------------------------
 
+@functools.lru_cache(maxsize=1)
+def load_acts_meta() -> list[dict]:
+    """Lightweight act metadata for /api/acts — top-level scalars from each
+    tree.json, no title normalisation and no cached full-tree copies."""
+    acts = []
+    for act_dir in sorted(DATA_DIR.iterdir()):
+        tree_path = act_dir / "tree.json"
+        if act_dir.is_dir() and tree_path.exists():
+            tree = json.loads(tree_path.read_text(encoding="utf-8"))
+            acts.append({
+                "id": act_dir.name,
+                "name": tree.get("act", act_dir.name),
+                "compilation_no": tree.get("compilation_no"),
+                "compilation_date": tree.get("compilation_date"),
+            })
+    return acts
+
+
 @functools.lru_cache(maxsize=None)
 def load_tree(act: str) -> dict:
     path = DATA_DIR / act / "tree.json"
