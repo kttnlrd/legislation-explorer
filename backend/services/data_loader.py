@@ -546,6 +546,7 @@ def _summary_title(stem: str) -> str | None:
     return None
 
 
+@functools.lru_cache(maxsize=None)
 def load_rulings() -> list[dict]:
     rulings = []
     for f in sorted(RULING_DIR.glob("*.txt")):

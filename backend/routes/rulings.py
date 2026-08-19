@@ -227,6 +227,7 @@ def get_ruling(citation: str):
     # First check for a structured summary
     SUMMARY_DIR = DATA_DIR / "rulings" / "summaries"
     from ..services.data_loader import load_rulings as _load_rulings
+    rulings_index = _load_rulings()
     for ref in candidates:
         summary_path = SUMMARY_DIR / f"{ref}.json"
         if summary_path.exists():
@@ -235,7 +236,7 @@ def get_ruling(citation: str):
 
                 # Build ATO URL
                 ato_url = ""
-                for r in _load_rulings():
+                for r in rulings_index:
                     if r["citation"] in candidates:
                         ato_url = r.get("ato_url", "")
                         break
@@ -295,7 +296,7 @@ def get_ruling(citation: str):
                 pass  # Fall through to raw text
 
     # Fall back to raw text from flat files — metadata only, no full body
-    for r in _load_rulings():
+    for r in rulings_index:
         if r["citation"] in candidates:
             path = Path(r["source"])
             if path.exists():
