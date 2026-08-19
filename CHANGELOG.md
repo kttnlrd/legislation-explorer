@@ -1,6 +1,31 @@
 # Changelog
 
+## 3.0.2 — 19 Aug 2026
+
+**New features** (highlights since 2.7.2 — see individual releases below for detail)
+
+- **Search v2** — dedicated `/search` page with advanced filters (match all/any terms, date range, sort by best match / section / act, per-source checkboxes) and **shareable search URLs** (`?q=` restores and re-runs on load).
+- **Private rulings browser** — year-driven sidebar with counts; 57,608 private rulings searchable by number with a dedicated browser view.
+- **Graph-powered research** — search results carry a graph neighbourhood block; **path queries** (`A → B` with typed hops); **LLM serialization** endpoint for feeding graph context to AI tools; **entity resolution backstop** mapped 21,548 unparsed legislation refs across private rulings; **case citation crosswalk** for neutral citations; alias map wired into search and graph APIs (e.g. "FBTAA section 49" resolves directly).
+- **Legislation rendering** — pipe-table detection + GFM table rendering across all tax act parsers; **treaty tree** expandable to article level; ITAA 1936 (993 sections incl. schedules), TAA 1953 (1,243) and GST 1999 (827) fully re-parsed, stale duplicates purged, tree ↔ disk 1:1.
+- **MCP / AI-assistant tools** — `resolve_alias` ("Div 7A", "s 100A", "Part IVA" → act + section), `list_issues`/`report_issue` with dedup, `get_section` now **graph-first**: related cases, public rulings with titles, **private rulings** (new), Master Tax Examples commentary and same-division sections; `get_act_tree` part scoping + pagination.
+- **Data quality gates** — automated integrity verification across all 97,183 records (sections, rulings, private rulings, cases) with randomised statistical sampling (Cochran 95/5, fresh seed every run); corpus cleaned of PDF noise, HTML entities, JS chrome and inline running headers (646 lines / 450+ files).
+
+**Performance**
+- MCP responses ~36% smaller (structured output duplication removed); token caps with full-data retrieval on every capped tool (paginated `next_offset` chains, raiseable body limits).
+
+**Bugs fixed** (notable)
+- MTG commentary links dead in Related panel → now navigate to the act view.
+- Dead `get_act_tree` for unknown acts → clean error + hint.
+- Ruling title lookups fixed for PS LA / ATOID filename conventions.
+- Version drift corrected (API now reports 3.0.2).
+
+**Verified**
+- Integrity gate: 4/4 domains pass, 0 critical (fresh seed).
+- 24/24 MCP tools live-swept, all reachable; pytest suite green.
+
 ## 3.0.1 — 18 Aug 2026
+
 
 **Bugs fixed**
 - **CDN-0118** — s 83A-45 ITAA 1997 truncated mid-(3)(c)(iii), subsections (4)–(6) missing. Recovered full subsections (1)–(7) via TOC-dump truncation repair (190 files affected corpus-wide; 14 sections restored).

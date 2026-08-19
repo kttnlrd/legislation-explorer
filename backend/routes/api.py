@@ -46,9 +46,32 @@ router.include_router(treaties_router)
 router.include_router(workflows_router)
 
 
-VERSION = "3.0.1"
+VERSION = "3.0.2"
 
 CHANGELOG = [
+    {
+        "version": "3.0.2",
+        "date": "2026-08-19",
+        "title": "Graph-first MCP, data integrity gate, token caps",
+        "changes": [
+            "New features:",
+            "|– Search v2: dedicated /search page with advanced filters (AND/OR, date range, sort, per-source), shareable ?q= URLs",
+            "|– Private rulings browser: year-driven sidebar, 57,608 rulings searchable by number",
+            "|– Graph-powered research: neighbourhood blocks in search, path queries, LLM serialization, entity resolution backstop, alias map",
+            "|– Legislation rendering: GFM tables across all parsers, treaty tree to article level, ITAA36/TAA/GST re-parsed",
+            "|– MCP: resolve_alias, list_issues, graph-first get_section (private rulings + commentary), act tree part scoping + pagination",
+            "|– Data quality gate: randomised Cochran 95/5 integrity verification across all 97,183 records, fresh seed per run",
+            "",
+            "Performance:",
+            "|– MCP responses ~36% smaller (structured output removed); every cap paired with full-data retrieval (next_offset pagination, raiseable limits)",
+            "",
+            "Bugs fixed:",
+            "|– MTG commentary links dead in Related panel → navigate to act view",
+            "|– get_act_tree crash on unknown acts → clean error + hint",
+            "|– PS LA / ATOID ruling title lookups",
+            "|– PDF running-header noise stripped from section corpus (646 lines / 450+ files); verifier now catches the class",
+        ],
+    },
     {
         "version": "3.0",
         "date": "2026-08-18",
