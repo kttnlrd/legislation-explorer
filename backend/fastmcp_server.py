@@ -785,7 +785,15 @@ async def get_act_tree(act: str, depth: str = "sections") -> str:
     depth: 'parts' returns only parts (fast), 'divisions' includes divisions,
            'sections' (default) includes all sections.
     """
-    tree = load_tree(act)
+    try:
+        tree = load_tree(act)
+    except Exception:
+        # load_tree raises for unknown acts — return a clean error with hint
+        return json.dumps({
+            "error": f"Act '{act}' not found.",
+            "hint": _GET_INFO_HINT,
+            "format_hint": "Valid act ids via list_acts (e.g. itaa-1997, itaa-1936, gst-1999, taa-1953).",
+        }, indent=2)
     if depth == "parts":
         pruned = {
             "act": tree.get("act", act),
