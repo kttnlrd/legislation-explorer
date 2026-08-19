@@ -559,19 +559,24 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
     has_hyphen = '-' in section
     is_1936 = act == 'itaa-1936'
     if has_hyphen and is_1936:
-        # Try auto-routing to itaa-1997 and also search for suggestions
-        suggestions = fts_search(section, None, limit=3)
-        hits = suggestions.get("results", [])
-        payload = {
-            "error": f"Section {section} not found in itaa-1936; ITAA 1936 sections are unhyphenated (e.g. 23AH). Did you mean itaa-1997 s {section}?",
-            "hint": _GET_INFO_HINT
-        }
-        if hits:
-            payload["did_you_mean"] = [
-                {"act": h["act"], "section": h["section"], "title": h.get("title", "")}
-                for h in hits
-            ]
-        return json.dumps(payload)
+        # Schedule 2D sections (e.g. 57-1, 326-160) ARE hyphenated in ITAA 1936.
+        # Only auto-route to itaa-1997 if the section is genuinely absent here.
+        if section in _get_act_section_ids('itaa-1936'):
+            pass  # legit Schedule 2D section — fall through to normal tree lookup
+        else:
+            # Try auto-routing to itaa-1997 and also search for suggestions
+            suggestions = fts_search(section, None, limit=3)
+            hits = suggestions.get("results", [])
+            payload = {
+                "error": f"Section {section} not found in itaa-1936; ITAA 1936 sections are unhyphenated (e.g. 23AH). Did you mean itaa-1997 s {section}?",
+                "hint": _GET_INFO_HINT
+            }
+            if hits:
+                payload["did_you_mean"] = [
+                    {"act": h["act"], "section": h["section"], "title": h.get("title", "")}
+                    for h in hits
+                ]
+            return json.dumps(payload)
 
     tree = load_tree(act)
     section_path = None
@@ -1318,7 +1323,7 @@ async def get_info() -> str:
                 "search_all": "keywords; type_filter=section|case|ruling|commentary",
                 "search_cases": "topic, case name, or citation",
                 "search_case_paragraphs": "exact phrase; omit stopwords",
-                "get_definition": "single plain term (e.g. 'dividend')",
+                "get_definition": "single plain term (e.g. 'dividend'); plural forms auto-stripped ('capital gains' works)",
                 "resolve_alias": "'s 100A', 'Div 7A', 'Part IVA', 'Subdiv 115-C', '109Y', '8-1'",
             },
             "other_lookups": {

@@ -121,6 +121,25 @@ def _normalize_term_key(key: str) -> str:
     return key.lower().replace("\u2018", "'").replace("\u2019", "'")
 
 
+def _singularise_term(term: str) -> str:
+    """Best-effort singularisation for definition lookups.
+
+    Index keys are singular ('capital gain', 'fringe benefit'), but LLMs
+    naturally ask with plurals ('capital gains'). Strip a trailing 's'
+    unless it looks like an -ss/-us/-is word ('business', 'bonus', 'basis').
+    """
+    t = term.strip()
+    if len(t) <= 3:
+        return t
+    if t.endswith("ies") and len(t) > 4:
+        return t[:-3] + "y"
+    if t.endswith(("ss", "us", "is", "sses")):
+        return t
+    if t.endswith("s"):
+        return t[:-1]
+    return t
+
+
 def load_definitions(act: str) -> dict[str, dict]:
     # Prefer the combined definitions_all.json; fall back to the act-keyed
     # definitions.json when the combined file is absent (both share the
@@ -1077,6 +1096,14 @@ def get_definition_across_acts(term: str, preferred_act: str | None = None) -> d
             r = get_definition_text(a, term)
         except Exception:
             r = None
+        if not r:
+            # Plural fallback: index keys are singular (e.g. 'capital gain')
+            singular = _singularise_term(term)
+            if singular != term.strip():
+                try:
+                    r = get_definition_text(a, singular)
+                except Exception:
+                    r = None
         if r:
             matches.append(r)
 
