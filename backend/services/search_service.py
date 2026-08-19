@@ -188,7 +188,7 @@ def init_search_index() -> None:
                         except Exception:
                             pass
                 content = re.sub(r'[#*`_\[\]\(\)]', ' ', " ".join(content_parts))
-                content = re.sub(r'\s+', ' ', content).strip()[:50000]
+                content = re.sub(r'\s+', ' ', content).strip()[:16000]
                 if not content.strip():
                     continue
                 conn.execute(
