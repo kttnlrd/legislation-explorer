@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1997-subdiv-122a-rollover-disposal-creation",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 5,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "Deduped 3 duplicate nodes + 2 edges; fixed s 122-15 entity scope (corporate trustees); 122-25(2) disposal-vs-creation exclusion split + (4) right/option rule; consideration edge label corrected."
+}

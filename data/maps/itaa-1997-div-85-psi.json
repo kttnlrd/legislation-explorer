@@ -7,7 +7,7 @@
  "subdivision": "",
  "compilation_no": 263,
  "compilation_date": "2026-04-01",
- "summary": "Facet map: do the PSI rules apply? Spine: is it PSI (s 84-5 — mainly a reward for personal exertion) → employee/office holder/religious practitioner exception (s 85-35) → PSB gateway (any of the four s 86-15 tests or a determination — exit via s 85-30) → Div 86 attribution for entity-derived PSI (ss 86-20/86-25/86-30) → employee-equivalence deduction limits (s 85-10 with the s 85-10(2) preserved categories). FACETS: results test 75% threshold (s 86-15(2)), unrelated clients 2+ test (s 86-15(3)), employment test (s 86-15(4)), business premises test (s 86-15(5)), 80% rule / s 86-60 entity deductions, associate super SG cap (s 85-25(3)). Subsection coverage: ss 84-5, 85-5, 85-10(1)-(2), 85-15, 85-20(1)-(3), 85-25(1)-(4), 85-30, 85-35(1)-(2), 86-15(1)-(5), 86-20, 86-25, 86-30, 86-60 mapped; ss 86-75/86-80 determinations noted. Key ruling: TR 2022/3.",
+ "summary": "Facet map: do the PSI rules apply? Spine: is it PSI (s 84-5 — mainly a reward for personal exertion) → employee/office holder/religious practitioner exception (s 85-35) → PSB gateway (any of the four Div 87 tests or a determination — exit via s 85-30 to the extent income is from a PSB) → Div 86 attribution for entity-derived PSI (s 86-15(1)-(5), with prompt-pay exception in s 86-15(4) and entity-PSB exception in s 86-15(3)) → employee-equivalence deduction limits (s 85-10 with the s 85-10(2) preserved categories). FACETS: results test 75% threshold (s 87-18), unrelated clients 2+ test (s 87-20), employment test (s 87-25), business premises test (s 87-30), entity deduction entitlements (s 86-60), associate super SG cap (s 85-25(3)). Subsection coverage: ss 84-5, 85-5, 85-10(1)-(2), 85-15, 85-20(1)-(3), 85-25(1)-(4), 85-30, 85-35(1)-(2), 86-15(1)-(5), 86-20, 86-25, 86-30, 86-60, 87-15, 87-18, 87-20, 87-25, 87-30 mapped; ss 86-75/86-80 determinations noted. Key ruling: TR 2022/3.",
  "nodes": [
   {
    "id": "start",
@@ -93,12 +93,12 @@
    "id": "psb",
    "type": "decision",
    "label": "Do you conduct a personal services business (Div 86)?",
-   "body": "If you pass any one of the four s 86-15 tests — results, unrelated clients, employment, business premises — or obtain a PSB determination (ss 86-75/86-80), you are a PSB and Div 85 does not apply at all (s 85-30). TR 2022/3 is the key ruling.",
+   "body": "If you pass any one of the four PSB tests — results (s 87-18), unrelated clients (s 87-20), employment (s 87-25), business premises (s 87-30) — or obtain a PSB determination (ss 86-75/86-80), you are a PSB. Under s 85-30, Div 85 does not apply to the amount/payment/contribution to the extent that it relates to income from you conducting a PSB. TR 2022/3 is the key ruling. Note: if 80% or more of PSI is from one source, only the results test applies (s 87-15(3)).",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "86-15",
-     "title": "Tests for personal services businesses"
+     "section": "87-15",
+     "title": "What is a personal services business"
     },
     {
      "act": "itaa-1997",
@@ -121,8 +121,8 @@
   {
    "id": "psb-yes",
    "type": "end",
-   "label": "PSB — Div 85/86 do not apply",
-   "body": "Income is business income; normal deduction rules apply. s 85-30 exempts the amount from Div 85.",
+   "label": "PSB — Div 85 does not apply (to the extent it relates to PSB income)",
+   "body": "Income from conducting a PSB is treated as business income. s 85-30 disapplies Div 85 to the extent the amount relates to income from conducting a PSB. If the PSI is derived through an entity that conducts a PSB, s 86-15(3) also disapplies the attribution rules. Normal deduction rules apply.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -133,12 +133,27 @@
    "id": "not-psb",
    "type": "action",
    "label": "Not a PSB — Div 85 deduction limits apply",
-   "body": "You have PSI and are not a PSB. Div 85 now limits deductions to employee-equivalent amounts (subject to the s 85-10(2) exceptions). If the PSI is earned through an entity, Div 86 attribution and the s 86-60 entity deduction rule also apply.",
+   "body": "You have PSI and are not a PSB. Div 85 limits deductions to employee-equivalent amounts: s 85-10(1) denies deductions for expenses an employee could not deduct, with preserved categories in s 85-10(2); s 85-15 limits home-office/room occupancy; s 85-20 limits associate payments; s 85-25 caps associate super deductions at the SG rate. If the PSI is earned through an entity, Div 86 attribution (s 86-15) and the entity deduction rule (s 86-60) also apply.",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "85-30",
-     "title": "Exception: personal services businesses"
+     "section": "85-10",
+     "title": "Deductions for non-employees relating to personal services income"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "85-15",
+     "title": "Deductions for amounts relating to a home office or room"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "85-20",
+     "title": "Deductions for payments to associates"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "85-25",
+     "title": "Deductions for superannuation for associates"
     }
    ],
    "commentary": [],
@@ -150,12 +165,12 @@
    "id": "entity",
    "type": "decision",
    "label": "Is the PSI derived through a personal services entity (company/trust/partnership)?",
-   "body": "Div 86 attribution: the entity's PSI is attributed to you (s 86-20) unless paid to you promptly as salary (s 86-20(2)). The entity withholds under s 86-30 and its deductions are limited by s 86-60/86-25.",
+   "body": "Div 86 attribution structure. s 86-15(1): the PSE's PSI is included in your assessable income. s 86-15(2): a PSE is a company/partnership/trust whose income includes your PSI. s 86-15(3): exception — this section does not apply if the amount is income from the entity conducting a PSB. s 86-15(4): exception — the amount is not attributed to you if the entity pays it to you as salary/wages within 14 days after the PAYG payment period. s 86-15(5): extent limitation — attribution only applies to amounts that would be assessable income of the entity. If attributed, your deduction entitlements follow Div 85 limits; the entity's deductions are limited under s 86-60.",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "86-20",
-     "title": "When personal services income is taken to be that of an individual"
+     "section": "86-15",
+     "title": "Effect of obtaining personal services income through a personal services entity"
     },
     {
      "act": "itaa-1997",
@@ -185,12 +200,12 @@
    "id": "attributed",
    "type": "action",
    "label": "Entity's PSI attributed to you (Div 86)",
-   "body": "The PSE's PSI is attributed to you under s 86-20 unless promptly paid as salary. The entity deducts only what it could have deducted as an individual (s 86-25, aligned with s 85-10) and must withhold (s 86-30).",
+   "body": "The PSE's PSI is included in your assessable income under s 86-15(1), unless: (a) the entity conducts a PSB (s 86-15(3)), or (b) the entity pays the amount to you as salary/wages within 14 days (s 86-15(4)). Attribution is limited by s 86-15(5) to amounts that would be assessable income of the entity. If attributed, the entity deducts only what it could deduct as an individual per s 86-25 and must withhold per s 86-30.",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "86-20",
-     "title": "When personal services income is taken to be that of an individual"
+     "section": "86-15",
+     "title": "Effect of obtaining personal services income through a personal services entity"
     },
     {
      "act": "itaa-1997",
@@ -252,13 +267,13 @@
   {
    "id": "facet-results",
    "type": "outcome",
-   "label": "FACET — Results test (s 86-15(2)): 75% threshold",
-   "body": "Where to look: s 86-15(2); TR 2022/3. Pass if (a) at least 75% of the PSI is for producing a result, AND (b) you are required to supply plant/equipment/tools of trade (unless the work involves mainly intellectual effort AND the income is not PSI of another). The 75% is of the PSI received during the year. The ATO applies the test strictly — a retainer that pays for time rather than a result fails.",
+   "label": "FACET — Results test (s 87-18): 75% threshold",
+   "body": "Where to look: s 87-18; TR 2022/3. Pass if, for at least 75% of your PSI: (a) income is for producing a result, (b) you supply plant/equipment/tools of trade, (c) you are liable for rectifying defects. The 75% is of PSI received during the year. See s 87-18(1)-(4) for details and exceptions.",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "86-15",
-     "title": "Tests for personal services businesses"
+     "section": "87-18",
+     "title": "The results test for a personal services business"
     }
    ],
    "commentary": [],
@@ -274,13 +289,13 @@
   {
    "id": "facet-clients",
    "type": "outcome",
-   "label": "FACET — Unrelated clients test (s 86-15(3)): 2+ clients, no direction",
-   "body": "Where to look: s 86-15(3); TR 2022/3. Pass if you obtained PSI from 2 or more entities that are not associates of each other or of you, AND the PSI was not produced as a result of you being told what to do and how. Marketing to the public is the practical evidence. A single dominant client (80%+ of income) usually fails this test.",
+   "label": "FACET — Unrelated clients test (s 87-20): 2+ clients",
+   "body": "Where to look: s 87-20; TR 2022/3. Pass if you obtained PSI from 2+ entities that are not associates of each other or of you, AND the PSI was not produced as a result of you being told what to do and how. Note: if 80% or more of PSI is from one source, the unrelated clients test (and employment/business premises tests) do not apply — only results test counts (s 87-15(3)).",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "86-15",
-     "title": "Tests for personal services businesses"
+     "section": "87-20",
+     "title": "The unrelated clients test for a personal services business"
     }
    ],
    "commentary": [],
@@ -296,13 +311,13 @@
   {
    "id": "facet-employment",
    "type": "outcome",
-   "label": "FACET — Employment test (s 86-15(4))",
-   "body": "Where to look: s 86-15(4); TR 2022/3. Pass if during the year you (or your PSE) engaged an entity to perform work that is not PSI of the engaging entity, AND at all times the work was performed by individuals who were not employees of the engaging entity and not paid PSI by it. Practical effect: you genuinely engage others to do the work.",
+   "label": "FACET — Employment test (s 87-25)",
+   "body": "Where to look: s 87-25; TR 2022/3. Pass if you engage entities (not associates who are individuals) to perform work, and the work is not PSI of the engaging entity, and the individuals performing the work are not employees of yours and do not receive PSI from you. Note: s 87-15(3) may restrict this test if 80%+ from one source.",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "86-15",
-     "title": "Tests for personal services businesses"
+     "section": "87-25",
+     "title": "The employment test for a personal services business"
     }
    ],
    "commentary": [],
@@ -318,13 +333,13 @@
   {
    "id": "facet-premises",
    "type": "outcome",
-   "label": "FACET — Business premises test (s 86-15(5))",
-   "body": "Where to look: s 86-15(5); TR 2022/3. Pass if you (or your PSE) maintain business premises (NOT your or an associate's residence) at which you mainly perform the work, the premises are used mainly to produce the PSI, and they are physically separate from the acquirer's premises. Premises used by a DIFFERENT PSE of yours do not count.",
+   "label": "FACET — Business premises test (s 87-30)",
+   "body": "Where to look: s 87-30; TR 2022/3. Pass if you maintain business premises (NOT your or an associate's residence) at which you mainly perform the work, the premises are used mainly to produce the PSI, and they are physically separate from the acquirer's premises. Note: s 87-15(3) may restrict this test if 80%+ from one source.",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "86-15",
-     "title": "Tests for personal services businesses"
+     "section": "87-30",
+     "title": "The business premises test for a personal services business"
     }
    ],
    "commentary": [],
@@ -340,8 +355,8 @@
   {
    "id": "facet-80",
    "type": "outcome",
-   "label": "FACET — The 80% rule and entity PSI (s 86-60)",
-   "body": "Where to look: s 86-60; TR 2022/3. s 86-60: a personal services entity cannot deduct an amount relating to an individual's PSI unless (a) the individual could have deducted it in the same circumstances (employee-equivalence), or (b) the entity receives the PSI in conducting a PSB. The related 80% concept: where an entity derives PSI and less than 80% comes from one source, the entity may itself be a PSB (see the PSB determination rules).",
+   "label": "FACET — Entity deduction entitlements (s 86-60)",
+   "body": "Where to look: s 86-60. A PSE cannot deduct an amount relating to an individual's PSI unless (a) the individual could have deducted it in the same circumstances (employee-equivalence, per Div 85 limits), or (b) the entity receives the PSI in conducting a PSB. Note: the 80% source-concentration rule (affecting which PSB tests can be used) is in s 87-15(3), not s 86-60.",
    "statute": [
     {
      "act": "itaa-1997",

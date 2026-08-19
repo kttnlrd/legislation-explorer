@@ -48,7 +48,7 @@
    "id": "dec-entity-type",
    "type": "decision",
    "label": "Are you an individual or a trustee? (Not a company, partnership or super fund)",
-   "body": "The roll-over is only available to an individual or a trustee. Companies, partnerships and superannuation funds cannot use this roll-over (s 122-15).",
+   "body": "s 122-15: the roll-over applies if you are an individual or a trustee (acting in that capacity). A corporate trustee CAN use the roll-over as a trustee. Separate prohibitions (if any) for super funds must be cited specifically.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -73,30 +73,6 @@
     {
      "id": "AID_2004_95",
      "title": "Capital gains tax: Subdivision 122-A rollover: shares transferred from current…"
-    }
-   ]
-  },
-  {
-   "id": "dec-entity-type",
-   "type": "decision",
-   "label": "Are you an individual or a trustee? (Not a company, partnership or super fund)",
-   "body": "The roll-over is only available to an individual or a trustee. Companies, partnerships and superannuation funds cannot use this roll-over (s 122-15).",
-   "statute": [
-    {
-     "act": "itaa-1997",
-     "section": "122-15",
-     "title": "Disposal or creation of assets—wholly-owned company"
-    }
-   ],
-   "commentary": [
-    "when-cgt-roll-over-is-available"
-   ],
-   "cases": [],
-   "definitions": [],
-   "rulings": [
-    {
-     "id": "AID_2005_218",
-     "title": "Capital gains tax: roll-over to wholly owned company - business asset - part use"
     }
    ]
   },
@@ -126,7 +102,7 @@
    "id": "dec-consideration",
    "type": "decision",
    "label": "Is the only consideration shares in the company (non-redeemable), optionally plus the company undertaking to discharge liabilities?",
-   "body": "For a disposal case: shares only, or shares + company undertakes to discharge one or more liabilities in respect of the asset(s). For a creation case: shares only. The shares cannot be redeemable shares.",
+   "body": "Consideration: you must receive shares (non-redeemable) in the company; in a DISPOSAL case you may also receive an undertaking by the company to discharge liabilities (s 122-20(1)(b)). In a CREATION case, only shares (or shares plus the liability undertaking where applicable under the creation limb).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -201,7 +177,7 @@
    "id": "dec-asset-type",
    "type": "decision",
    "label": "Is the asset a precluded asset, or in the excluded list?",
-   "body": "Roll-over is NOT available for: collectables, personal use assets, a decoration awarded for valour or brave conduct (unless you paid for it), precluded assets, or an asset that becomes trading stock or a registered emissions unit of the company just after the trigger event. Precluded assets: depreciating assets, trading stock, an interest in the copyright in a CGT-exempt film (s 118-30), registered emissions units. Exception for business disposals: trading stock/emissions units can be rolled over if they were your trading stock/units when disposed of; precluded assets can be included in a disposal of all the assets of a business.",
+   "body": "s 122-25(2) excluded assets differ by trigger type. SINGLE asset disposal/creation (table item 1): (c) a precluded asset; (d) an asset that becomes trading stock of the company just after; (e) an asset that becomes a registered emissions unit held by the company just after. BUSINESS disposal of all assets (table item 2): (a) a collectable or personal use asset; (b) a decoration awarded for valour or bravery (unless paid for); (c) an asset that becomes trading stock (unless it was your trading stock when disposed of); (d) an asset that becomes a registered emissions unit (unless it was one held by you). s 122-25(4): if the asset is a right, option, convertible interest or exchangeable interest and the company acquires another CGT asset by exercising the right/option or by conversion/exchange, and the acquired asset becomes trading stock of the company just after acquisition — special rules apply.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -338,7 +314,7 @@
    "id": "branch-disposal-creation",
    "type": "decision",
    "label": "Disposal case or creation case?",
-   "body": "Disposal case: you disposed of a CGT asset, or all the assets of a business, to the company (trigger event A1). Creation case: you created a CGT asset in the company (events D1, D2, D3, F1). Consequences differ.",
+   "body": "Two trigger types: (1) disposal — you dispose of a CGT asset (single asset) or all the assets of a business to the company; (2) creation — you create a CGT asset in the company. The s 122-25(2) excluded-asset table and consideration rules differ between disposal and creation.",
    "statute": [],
    "commentary": [],
    "cases": [],
@@ -613,62 +589,6 @@
      "title": "What is a 'genuine restructure of an ongoing business' 17 Example 1: Asset protection 17…"
     }
    ]
-  },
-  {
-   "id": "recapture-events",
-   "type": "outcome",
-   "label": "Recapture events: CGT events J2, J5, J6 may later bring deferred gain to account",
-   "body": "CGT event J2 (s 104-130): if a non-redeemable share received under the roll-over is converted into a redeemable share, a capital gain arises equal to the deferred amount. CGT event J5 (s 104-175): failure to execute a roll-over agreement. CGT event J6 (s 104-180): reversal of a roll-over. These events ensure the deferred gain is ultimately brought to account.",
-   "statute": [
-    {
-     "act": "itaa-1997",
-     "section": "104-130",
-     "title": "CGT event J2"
-    },
-    {
-     "act": "itaa-1997",
-     "section": "104-175",
-     "title": "CGT event J5"
-    },
-    {
-     "act": "itaa-1997",
-     "section": "104-180",
-     "title": "CGT event J6"
-    }
-   ],
-   "commentary": [],
-   "cases": [],
-   "definitions": [
-    "capital gain",
-    "redeemable shares"
-   ],
-   "rulings": [
-    {
-     "id": "TD_2001_13",
-     "title": "because majority underlying interests in it were no longer maintained - the share would…"
-    }
-   ]
-  },
-  {
-   "id": "subdiv-328g-interplay",
-   "type": "outcome",
-   "label": "Alternative: Subdivision 328-G small business restructure roll-over",
-   "body": "If the Subdivision 122-A roll-over is not available (e.g. entity not eligible, assets excluded), consider Subdivision 328-G (Restructures of small businesses). It provides a broader roll-over for CGT assets, trading stock, revenue assets and depreciating assets when a small business restructures, without the 100% ownership requirement. The choice under s 103-25 applies separately.",
-   "statute": [
-    {
-     "act": "itaa-1997",
-     "section": "328-430",
-     "title": "When a roll-over is available"
-    }
-   ],
-   "commentary": [
-    "cgt-roll-over-for-business-restructures"
-   ],
-   "cases": [],
-   "definitions": [
-    "small business entity"
-   ],
-   "rulings": []
   }
  ],
  "edges": [
@@ -700,7 +620,7 @@
   {
    "from": "dec-consideration",
    "to": "dec-market-value",
-   "label": "Yes — shares (non-redeemable), ± liability assumption"
+   "label": "Yes — shares only (creation), or shares plus liability undertaking (disposal case only)"
   },
   {
    "from": "dec-market-value",
@@ -826,16 +746,6 @@
    "from": "outcome-company-creation",
    "to": "recapture-events",
    "label": "company consequences complete"
-  },
-  {
-   "from": "recapture-events",
-   "to": "end",
-   "label": ""
-  },
-  {
-   "from": "no-rollover",
-   "to": "subdiv-328g-interplay",
-   "label": "consider small business restructure"
   },
   {
    "from": "recapture-events",

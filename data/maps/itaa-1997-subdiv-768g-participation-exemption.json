@@ -12,8 +12,8 @@
   {
    "id": "start",
    "type": "start",
-   "label": "AU corporate tax entity disposes of shares in a foreign company — CGT event arises",
-   "body": "An Australian resident company (the holding company) makes a capital gain or capital loss from a CGT event that happens at a particular time to a share in a foreign company (the foreign disposal company). Section 768-505(1) applies only if the CGT event is A1, B1, C2, E1, E2, G3, J1, K4, K6, K10 or K11. Section 768-500 provides the guide: the gain or loss is reduced by a percentage that reflects the degree to which the foreign company's assets are used in an active business.",
+   "label": "A company disposes of shares in a foreign company — CGT event arises",
+   "body": "An Australian resident COMPANY (the holding company) makes a capital gain or capital loss from a CGT event that happens at a particular time to a share in a foreign company (the foreign disposal company). s 768-505 applies only to a company (a corporate tax entity wider than a company is not sufficient).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -48,8 +48,8 @@
   {
    "id": "interaction-cgt-a1",
    "type": "event",
-   "label": "CGT event A1 (s 104-10) — disposal of shares — triggers potential gain/loss",
-   "body": "The most common CGT event triggering Subdivision 768-G is CGT event A1 (s 104-10): disposal of a CGT asset. The holding company must be an Australian resident. The foreign disposal company must be a foreign resident. Other listed CGT events include B1 (brownfield assets), C2 (cancellation/redemption), E1/E2 (trust creation/transfers), G3 (liquidator distribution), J1 (company ceases to be a member of a wholly-owned group), K4 (bad debt write-off), K6 (pre-CGT shares), K10 (gift to foreign trust), K11 (gift to foreign company).",
+   "label": "CGT event on shares in a foreign disposal company — threshold conditions",
+   "body": "s 768-505(1) requires three conditions before the gain/loss is reduced: (i) the holding company is an Australian resident; (ii) the foreign disposal company is a foreign resident; and (iii) the CGT event is one of the listed events — CGT event A1, B1, C2, E1, E2, G3, J1, K4, K6, K10 or K11 (s 768-505(1)(c)). CGT event A1 (s 104-10, disposal of shares) is the most common.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -110,7 +110,7 @@
    "id": "dec-voting-threshold",
    "type": "decision",
    "label": "Did the holding company hold a direct voting percentage of 10% or more throughout a qualifying 12-month period?",
-   "body": "Section 768-505(1)(a): the holding company must have held a direct voting percentage of 10% or more in the foreign disposal company throughout a 12-month period that: (i) began no earlier than 24 months before the time of the CGT event; and (ii) ended no later than that time. Direct voting percentage is measured under s 768-550 by reference to the voting interest concept in s 334A of ITAA 1936. A trust or partnership interposed between the entity and the company breaks the direct link (s 768-550(2)(b)).",
+   "body": "s 768-505(1)(a) is a single compound condition: the holding company must have held a DIRECT voting percentage of 10% or more in the foreign disposal company throughout a 12-month period that (i) began no earlier than 24 months before the time of the CGT event, and (ii) ended no later than that time. Both temporal boundaries must be satisfied.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -143,7 +143,7 @@
    "id": "dec-holding-period",
    "type": "decision",
    "label": "Was the 10%+ voting interest held throughout a 12-month period ending no later than the CGT event?",
-   "body": "The 12-month holding period under s 768-505(1)(a) must satisfy two temporal boundaries: (i) it began no earlier than 24 months before the CGT event; and (ii) it ended no later than the time of the CGT event. This creates a 12-month window that can end at any point up to the CGT event, but must have started within the preceding 24 months. The holding must be continuous throughout that 12-month period.",
+   "body": "The 10%+ direct voting interest must be held throughout a 12-month period with two temporal boundaries: (i) it began no earlier than 24 months before the CGT event; and (ii) it ended no later than the time of the CGT event (s 768-505(1)(a)). This creates the qualifying-period window.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -166,9 +166,9 @@
   },
   {
    "id": "dec-active-company",
-   "type": "decision",
-   "label": "Is the foreign company an 'active foreign company'? — Active foreign business asset percentage assessment",
-   "body": "The core of the participation exemption: the gain/loss is reduced by the active foreign business asset percentage (AFBAP) of the foreign disposal company in relation to the holding company at the time of the CGT event (s 768-505(2)). The AFBAP is the proportion of the foreign company's total assets that are 'active foreign business assets' — broadly, assets used in carrying on a business (excluding passive financial instruments, cash, interests in trusts/partnerships, life insurance policies, and assets whose main use is to derive passive income like interest, rent or royalties), subject to special rules for AFI subsidiaries doing financial intermediary business (s 768-540). The AFBAP is worked out under ss 768-510 to 768-535.",
+   "type": "action",
+   "label": "Work out the active foreign business asset percentage (AFBAP)",
+   "body": "The gain/loss is reduced by the active foreign business asset percentage (AFBAP) of the foreign disposal company in relation to the holding company at the time of the CGT event (s 768-505(2); ss 768-510, 768-530, 768-535). \"Active foreign company\" is not itself a statutory test — the statutory concept is the AFBAP.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -491,8 +491,8 @@
   {
    "id": "outcome-exemption",
    "type": "outcome",
-   "label": "Participation exemption applies: capital gain/loss reduced by active foreign business asset percentage",
-   "body": "Where all conditions are satisfied — the holding company held 10%+ direct voting interest through a qualifying 12-month period, the share is not an excluded finance share, and the CGT event is a listed event — the capital gain or capital loss is reduced by the active foreign business asset percentage of the foreign disposal company (s 768-505(2)). If the AFBAP is 100%, the gain or loss is reduced to nil (full participation exemption). If the AFBAP is between 10% and 90%, the gain/loss is reduced proportionally. If the AFBAP is less than 10%, the reduction is zero (no exemption).",
+   "label": "Participation exemption: capital gain/loss reduced by AFBAP (possibly to zero)",
+   "body": "Where all s 768-505(1) conditions are satisfied, the capital gain or loss is reduced by the AFBAP (s 768-505(2)). Under the default method the AFBAP is 100% for a capital loss, but ZERO in any other case (s 768-510(4)) — so where no method choice is made and the gain exceeds the loss case, the reduction is nil and the gain is taxed in full. The label \"exemption\" must not be read as automatic: AFBAP of 0% means no relief.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -565,7 +565,7 @@
    "id": "end-exemption-applied",
    "type": "end",
    "label": "Participation exemption (Subdivision 768-G) applied — gain/loss reduced or eliminated",
-   "body": "The disposal of voting interests in an active foreign company by an Australian resident company is subject to the participation exemption under Subdivision 768-G. The capital gain or loss from the CGT event is reduced by the active foreign business asset percentage. The result is that: (a) where AFBAP = 100%, the gain or loss is fully disregarded; (b) where AFBAP is between 10% and 90%, a proportional reduction applies; (c) where AFBAP = 0%, the full gain or loss is recognised. The reduced gain/loss is then subject to the ordinary CGT provisions (Division 100 onward) including the CGT discount (Div 115) if applicable.",
+   "body": "The disposal of voting interests in an active foreign company by an Australian resident company is subject to the participation exemption under Subdivision 768-G. The capital gain or loss from the CGT event is reduced by the AFBAP (s 768-505(2)) — including the default 100% (loss) or 0% (other) outcomes under s 768-510(4).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -584,7 +584,7 @@
    "id": "end-no-exemption",
    "type": "end",
    "label": "No participation exemption — normal CGT rules on disposal of foreign shares",
-   "body": "The disposal is taxed under the ordinary CGT rules. The full capital gain (or loss) is recognised and subject to assessment under s 102-5 (inclusion of net capital gain in assessable income). The holding company may still be eligible for the CGT discount under Division 115 (for individuals/trusts, not companies) or other relief provisions.",
+   "body": "The disposal is taxed under the ordinary CGT rules. The full capital gain (or loss) is recognised and subject to assessment under s 102-5 (inclusion of net capital gain in assessable income). The holding company, being a company, is NOT eligible for the CGT discount under Division 115 (which applies to individuals and trusts).",
    "statute": [
     {
      "act": "itaa-1997",

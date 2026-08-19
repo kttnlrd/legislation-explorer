@@ -37,7 +37,7 @@
    "id": "dividend",
    "type": "decision",
    "label": "Is the amount a dividend within the s 6(1) definition?",
-   "body": "s 6(1) 'dividend' includes: (a) distributions out of profits; (b) amounts credited as paid-up share capital (bonus shares from profits); (c) liquidator distributions; (d) share capital account amounts on cancellation/liquidation. Excluded: genuine returns of capital not out of profits.",
+   "body": "s 6(1) 'dividend' includes: (a) any distribution made by a company to any of its shareholders, whether in money or other property; and (b) any amount credited by a company to any of its shareholders as shareholders. BUT does NOT include: (d) moneys/property debited against the share capital account (subject to s 6(4)); (e) moneys/property for redemption/cancellation of a redeemable preference share (except any excess over the amount paid-up); PLUS includes: (f) a reversionary bonus on a life assurance policy. The 'paid out of profits' condition is a separate s 44(1) requirement, not part of the s 6(1) definition. Non-share dividends are not within this definition but are caught by s 44(1)(a)(ii)/(b)(ii)/(c)(ii) and s 974-115 ITAA 1997.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -66,8 +66,8 @@
   {
    "id": "profits",
    "type": "decision",
-   "label": "Was the dividend paid out of profits?",
-   "body": "s 44(1)(a)(i) requires dividends paid out of profits. s 44(1A): a dividend paid out of an amount other than profits is taken to be paid out of profits. s 44(1B): debits against the share capital account, or repayments of paid-up capital, are deemed paid out of profits — subject to the s 6(1) share capital account exclusion and CGT return-of-capital rules.",
+   "label": "Was the dividend paid out of profits (considering s 44(1A)/(1B) deemings)?",
+   "body": "s 44(1)(a)(i) requires dividends to be paid out of profits. s 44(1A): A dividend paid out of an amount OTHER than profits is taken to be a dividend paid out of profits (deeming rule). s 44(1B): Where (a) the dividend is debited against the share capital account, or (b) the dividend is a repayment of an amount paid-up on a share, the dividend is deemed to have been paid out of profits. Note: The s 6(1)(d) exclusion for share capital account debits and the s 6(4) modification interact with the s 44(1B) deeming.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -78,36 +78,6 @@
    "commentary": [
     "when-is-a-dividend-paid"
    ],
-   "rulings": [],
-   "cases": [],
-   "definitions": []
-  },
-  {
-   "id": "demerger",
-   "type": "decision",
-   "label": "Is it a demerger dividend (s 44(2)-(6))?",
-   "body": "Demerger dividends (Subdiv 125-B ITAA 1997) are treated as not paid out of profits (s 44(3)) and are neither assessable nor exempt (s 44(4)) — unless the head entity elects out (s 44(2)) or the 50% business-assets test (s 44(5)-(6)) is not met.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "44",
-     "title": "Dividends"
-    }
-   ],
-   "commentary": [
-    "demerger-dividends"
-   ],
-   "rulings": [],
-   "cases": [],
-   "definitions": []
-  },
-  {
-   "id": "demerger-exempt",
-   "type": "outcome",
-   "label": "Demerger dividend — not assessable (s 44(4))",
-   "body": "Not assessable or exempt where the s 44(5) 50% business-assets test is met. Cost base adjusted under Subdiv 125-B ITAA 1997.",
-   "statute": [],
-   "commentary": [],
    "rulings": [],
    "cases": [],
    "definitions": []
@@ -157,14 +127,24 @@
   },
   {
    "id": "nonresident",
-   "type": "action",
-   "label": "Non-resident — Australian-source profits assessable + WHT",
-   "body": "s 44(1)(b): dividends paid out of Australian-source profits are assessable. Dividend WHT applies under s 128B TAA 1953 (30%, treaty-reduced) unless the dividend is franked (s 128B(3)(ga) — franked dividends to non-residents are exempt from WHT; the franking credit is not refundable to non-residents).",
+   "type": "decision",
+   "label": "Non-resident — does the shareholder carry on business through an Australian PE? (s 44(1)(c))",
+   "body": "s 44(1)(b): For non-resident shareholders, dividends are assessable only to the extent paid out of Australian-source profits. s 44(1)(c): If the non-resident carries on business through an Australian PE of a RESIDENT company, dividends attributable to the PE from foreign-source profits are also assessable. Note: s 128B and s 128D ITAA 1936 deal with dividend withholding tax.",
    "statute": [
     {
      "act": "itaa-1936",
      "section": "44",
      "title": "Dividends"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "128B",
+     "title": "Liability to withholding tax"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "128D",
+     "title": "Certain income not assessable"
     }
    ],
    "commentary": [],
@@ -180,8 +160,8 @@
   {
    "id": "pe",
    "type": "decision",
-   "label": "Non-resident with an Australian PE of a resident company (s 44(1)(c))?",
-   "body": "Dividends attributable to the PE are assessable to the extent paid out of profits derived from sources OUTSIDE Australia (the mirror of s 44(1)(b)). PE meaning follows the DTA (s 44(7)(a)) or s 6(1) (s 44(7)(b)).",
+   "label": "Is the company a resident and does the shareholder have an Australian PE? (s 44(1)(c))",
+   "body": "s 44(1)(c): Applies only if (1) the shareholder is a non-resident carrying on business through an Australian PE, AND (2) the company is a RESIDENT. Dividends (other than non-share dividends) attributable to the PE are assessable to the extent paid out of profits derived from sources OUTSIDE Australia (s 44(1)(c)(i)). Non-share dividends attributable to the PE are assessable to the extent derived from sources outside Australia (s 44(1)(c)(ii)). PE meaning follows the DTA (s 44(7)(a)) or s 6(1) (s 44(7)(b)). If the company is non-resident, s 44(1)(c) does not apply.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -198,7 +178,7 @@
    "id": "pe-assessable",
    "type": "outcome",
    "label": "Assessable to the extent attributable to the PE (s 44(1)(c))",
-   "body": "Foreign-source dividends attributable to the Australian PE of a resident company are assessable.",
+   "body": "s 44(1)(c)(i): Foreign-source dividends (other than non-share dividends) attributable to the Australian PE of a resident company are assessable. s 44(1)(c)(ii): Non-share dividends attributable to the PE from foreign sources are also assessable.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -209,12 +189,17 @@
    "id": "other",
    "type": "decision",
    "label": "Does another provision expressly deal with the dividend?",
-   "body": "s 44(1) yields to provisions that expressly include/exclude dividends: s 23AI (foreign company dividends), s 23AK, s 128D TAA 1953 (WHT-exempt), s 768-5 ITAA 1997 (NANE participation exemption), Div 802 conduit foreign income.",
+   "body": "s 44(1) yields to provisions that expressly include/exclude dividends: s 23AI (foreign company dividends), s 23AK, s 128D ITAA 1936 (WHT-exempt — s 128D: income subject to WHT is not assessable), s 768-5 ITAA 1997 (NANE participation exemption), Div 802 conduit foreign income.",
    "statute": [
     {
      "act": "itaa-1936",
      "section": "44",
      "title": "Dividends"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "128D",
+     "title": "Certain income not assessable"
     },
     {
      "act": "itaa-1997",
@@ -304,13 +289,18 @@
   {
    "id": "facet-wht",
    "type": "outcome",
-   "label": "FACET — Dividend withholding tax (s 128B TAA 1953)",
-   "body": "Where to look: s 128B TAA 1953; TD 1995/50. Rate 30% (s 128B(1)); treaty-reduced to 15% (portfolio) or 5% (related company with ≥10% holding). Franked dividends to non-residents: exempt from WHT (s 128B(3)(ga)) and the franking credit is not refundable. s 128D: amounts subject to WHT are not otherwise assessable.",
+   "label": "FACET — Dividend withholding tax (s 128B ITAA 1936)",
+   "body": "Where to look: s 128B ITAA 1936; TD 1995/50. Rate 30% (s 128B(1)); treaty-reduced to 15% (portfolio) or 5% (related company with >=10% holding). Franked dividends to non-residents: exempt from WHT (s 128B(3)(ga)) and the franking credit is not refundable. s 128D ITAA 1936: amounts subject to WHT are not otherwise assessable.",
    "statute": [
     {
      "act": "itaa-1936",
      "section": "128B",
-     "title": "Dividend withholding tax"
+     "title": "Liability to withholding tax"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "128D",
+     "title": "Certain income not assessable"
     }
    ],
    "commentary": [],
@@ -366,58 +356,246 @@
    "rulings": [],
    "cases": [],
    "definitions": []
+  },
+  {
+   "id": "nonshare-decision",
+   "type": "decision",
+   "label": "Is the amount a non-share dividend under s 974-115 ITAA 1997?",
+   "body": "Non-share dividends are returns on non-share equity interests (s 974-115 ITAA 1997). They are NOT within the s 6(1) 'dividend' definition but are nonetheless assessable under s 44(1)(a)(ii) (resident — all non-share dividends), s 44(1)(b)(ii) (non-resident — Australian-source non-share dividends), and s 44(1)(c)(ii) (non-resident with Australian PE of a resident company — foreign-source non-share dividends attributable to the PE).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "974-115",
+     "title": "Non-share dividends"
+    }
+   ],
+   "commentary": [
+    "what-is-a-dividend"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "nonshare-resident",
+   "type": "decision",
+   "label": "Is the shareholder a resident?",
+   "body": "Non-share dividends: s 44(1)(a)(ii) — resident shareholders: ALL non-share dividends are assessable. s 44(1)(b)(ii) — non-resident: only to extent derived from Australian sources. s 44(1)(c)(ii) — non-resident with Australian PE of a resident company: foreign-source non-share dividends attributable to the PE.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "nonshare-source",
+   "type": "decision",
+   "label": "Is the non-share dividend derived from Australian sources?",
+   "body": "s 44(1)(b)(ii): non-share dividends paid to a non-resident are assessable only to the extent derived from sources in Australia. If derived from foreign sources, go to the PE test (s 44(1)(c)(ii)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "nonshare-not-assessable",
+   "type": "outcome",
+   "label": "Non-share dividend — not assessable under s 44(1)(b)",
+   "body": "Non-share dividend paid to a non-resident, derived from foreign sources, and no Australian PE of a resident company. Not assessable under s 44(1)(b)(ii). Consider PE path (s 44(1)(c)(ii)) or other provisions (Div 7A, etc.).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "demerger",
+   "type": "decision",
+   "label": "Is it a demerger dividend (s 44(2)-(6))?",
+   "body": "A demerger dividend is a dividend that satisfies the demerger requirements under Subdiv 125-B ITAA 1997. If yes, go to the s 44(2) election check and s 44(5) 50% business-assets test.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [
+    "demerger-dividends"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "demerger-election",
+   "type": "decision",
+   "label": "Has the head entity elected out under s 44(2)?",
+   "body": "s 44(2): Subsections (3) and (4) apply to a demerger dividend UNLESS the head entity elects in writing, within one month after it decides which shareholders will receive ownership interests, that those subsections do not apply. If elected out, the demerger dividend is treated as a normal dividend (assessable under s 44(1)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "demerger-50pct",
+   "type": "decision",
+   "label": "Does the demerged entity meet the 50% business-assets test (s 44(5)-(6))?",
+   "body": "s 44(5): Subsections (3) and (4) do not apply to a demerger dividend unless, just after the demerger, CGT assets owned by the demerged entity or a demerger subsidiary representing at least 50% by market value of all CGT assets owned by the demerged entity and its demerger subsidiaries are used directly or indirectly in one or more businesses carried on by one or more of those entities. s 44(6): Disregard ownership interests in a demerger subsidiary unless they are used in a business referred to in s 44(5).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "demerger-exempt",
+   "type": "outcome",
+   "label": "Demerger dividend — not assessable (s 44(4))",
+   "body": "s 44(3): This section applies to the demerger dividend as if it had not been paid out of profits. s 44(4): A demerger dividend is not assessable income or exempt income. Cost base adjusted under Subdiv 125-B ITAA 1997.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "source-test",
+   "type": "decision",
+   "label": "Is the dividend paid out of Australian-source profits?",
+   "body": "s 44(1)(b)(i): For a non-resident shareholder, dividends (other than non-share dividends) are assessable only to the extent paid out of profits derived by the company from sources in Australia. If paid out of foreign-source profits, the dividend is not assessable under s 44(1)(b) — but may be assessable under s 44(1)(c) if the shareholder has an Australian PE of a resident company.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "nonresident-not-assessable",
+   "type": "outcome",
+   "label": "Not assessable under s 44(1)(b) — foreign-source profits",
+   "body": "Dividend paid to a non-resident out of foreign-source profits. Not assessable under s 44(1)(b)(i). Consider: (a) if the shareholder carries on business through an Australian PE of a resident company, the dividend may be assessable under s 44(1)(c)(i) to the extent attributable to the PE; (b) conduit foreign income (Div 802); (c) dividend WHT (s 128B ITAA 1936) may apply to dividends paid by a resident company.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "company-residence",
+   "type": "decision",
+   "label": "Is the company a resident?",
+   "body": "s 44(1)(c): This paragraph applies only if the company is a resident. If the company is non-resident, s 44(1)(c) does not apply and the foreign-source dividend paid to a non-resident shareholder with an Australian PE is not assessable under s 44.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "pe-not-applicable",
+   "type": "outcome",
+   "label": "s 44(1)(c) does not apply — company is non-resident",
+   "body": "s 44(1)(c) requires the company to be a resident. A non-resident company paying dividends to a non-resident shareholder through an Australian PE is not caught by s 44(1)(c). Consider other provisions (s 128B, Div 7A, etc.).",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-44-1A",
+   "type": "outcome",
+   "label": "FACET — s 44(1A): Dividend paid out of non-profits deemed from profits",
+   "body": "s 44(1A): 'For the purposes of this Act, a dividend paid out of an amount other than profits is taken to be a dividend paid out of profits.' This means that even if the source of the dividend is not technically 'profits', it is nonetheless treated as paid out of profits for the purposes of s 44 assessment.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-44-1B",
+   "type": "outcome",
+   "label": "FACET — s 44(1B): Share capital account debits deemed from profits",
+   "body": "s 44(1B): Where (a) the dividend is debited against the share capital account, or (b) the dividend is a repayment of an amount paid-up on a share, the dividend is deemed to have been paid out of profits derived by the company. This interacts with the s 6(1)(d) exclusion (share capital account debits not dividends) and s 6(4) (when s 6(1)(d) does not apply).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "44",
+     "title": "Dividends"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
   }
  ],
  "edges": [
   {
-   "from": "start",
-   "to": "dividend",
-   "label": "Company payment"
-  },
-  {
    "from": "dividend",
    "to": "not-dividend",
-   "label": "No — outside definition"
+   "label": "No — outside s 6(1) definition (see s 6(1)(d)/(e) exclusions)"
   },
   {
    "from": "dividend",
    "to": "profits",
-   "label": "Yes — it is a dividend"
-  },
-  {
-   "from": "profits",
-   "to": "demerger",
-   "label": "Paid out of profits"
-  },
-  {
-   "from": "demerger",
-   "to": "demerger-exempt",
-   "label": "Yes — demerger dividend"
-  },
-  {
-   "from": "demerger",
-   "to": "resident",
-   "label": "Not a demerger dividend"
+   "label": "Yes — within s 6(1) definition; check profits"
   },
   {
    "from": "profits",
    "to": "resident",
-   "label": "Ordinary dividend"
+   "label": "Yes — paid/deemed out of profits (s 44(1A)/(1B))"
   },
   {
    "from": "resident",
    "to": "resident-assessable",
    "label": "Yes — resident"
-  },
-  {
-   "from": "resident",
-   "to": "nonresident",
-   "label": "No — non-resident"
-  },
-  {
-   "from": "nonresident",
-   "to": "pe",
-   "label": "Carrying on business through Australian PE"
   },
   {
    "from": "pe",
@@ -427,17 +605,17 @@
   {
    "from": "resident-assessable",
    "to": "other",
-   "label": "Before final inclusion"
+   "label": "No — no other provision displaces s 44"
   },
   {
    "from": "nonresident",
    "to": "other",
-   "label": "Before final inclusion"
+   "label": "No — no other provision displaces s 44"
   },
   {
    "from": "pe-assessable",
    "to": "other",
-   "label": "Before final inclusion"
+   "label": "No — no other provision displaces s 44"
   },
   {
    "from": "other",
@@ -447,7 +625,7 @@
   {
    "from": "dividend",
    "to": "facet-nonshare",
-   "label": "Facet: non-share dividends"
+   "label": "Facet: non-share dividends (s 974-115)"
   },
   {
    "from": "dividend",
@@ -473,6 +651,131 @@
    "from": "dividend",
    "to": "facet-deemed",
    "label": "Facet: deemed dividends"
+  },
+  {
+   "from": "start",
+   "to": "nonshare-decision",
+   "label": "Company payment"
+  },
+  {
+   "from": "nonshare-decision",
+   "to": "dividend",
+   "label": "No — ordinary dividend (s 6(1))"
+  },
+  {
+   "from": "nonshare-decision",
+   "to": "nonshare-resident",
+   "label": "Yes — non-share dividend (s 974-115)"
+  },
+  {
+   "from": "nonshare-resident",
+   "to": "resident-assessable",
+   "label": "Yes — resident: all non-share dividends assessable (s 44(1)(a)(ii))"
+  },
+  {
+   "from": "nonshare-resident",
+   "to": "nonshare-source",
+   "label": "No — non-resident"
+  },
+  {
+   "from": "nonshare-source",
+   "to": "nonresident",
+   "label": "Yes — derived from Australian sources (s 44(1)(b)(ii))"
+  },
+  {
+   "from": "nonshare-source",
+   "to": "nonshare-not-assessable",
+   "label": "No — foreign source, no PE"
+  },
+  {
+   "from": "nonshare-not-assessable",
+   "to": "other",
+   "label": "Consider other provisions"
+  },
+  {
+   "from": "profits",
+   "to": "demerger",
+   "label": "Paid out of profits / deemed out of profits"
+  },
+  {
+   "from": "demerger",
+   "to": "demerger-election",
+   "label": "Yes — demerger dividend"
+  },
+  {
+   "from": "demerger",
+   "to": "resident",
+   "label": "No — not a demerger dividend"
+  },
+  {
+   "from": "demerger-election",
+   "to": "demerger-50pct",
+   "label": "No — no election out (s 44(2) not exercised)"
+  },
+  {
+   "from": "demerger-election",
+   "to": "resident",
+   "label": "Yes — elected out (s 44(2)); treat as ordinary dividend"
+  },
+  {
+   "from": "demerger-50pct",
+   "to": "demerger-exempt",
+   "label": "Yes — 50% business-assets test satisfied (s 44(5))"
+  },
+  {
+   "from": "demerger-50pct",
+   "to": "resident",
+   "label": "No — 50% test not met; treat as ordinary dividend (s 44(1))"
+  },
+  {
+   "from": "resident",
+   "to": "source-test",
+   "label": "No — non-resident"
+  },
+  {
+   "from": "source-test",
+   "to": "nonresident",
+   "label": "Yes — paid out of Australian-source profits"
+  },
+  {
+   "from": "source-test",
+   "to": "nonresident-not-assessable",
+   "label": "No — foreign-source profits"
+  },
+  {
+   "from": "nonresident-not-assessable",
+   "to": "other",
+   "label": "Consider other provisions"
+  },
+  {
+   "from": "nonresident",
+   "to": "company-residence",
+   "label": "Yes — carrying on business through Australian PE"
+  },
+  {
+   "from": "company-residence",
+   "to": "pe",
+   "label": "Yes — company is a resident"
+  },
+  {
+   "from": "company-residence",
+   "to": "pe-not-applicable",
+   "label": "No — company is non-resident"
+  },
+  {
+   "from": "pe-not-applicable",
+   "to": "other",
+   "label": "Consider other provisions"
+  },
+  {
+   "from": "profits",
+   "to": "facet-44-1A",
+   "label": "Facet: s 44(1A) deeming"
+  },
+  {
+   "from": "profits",
+   "to": "facet-44-1B",
+   "label": "Facet: s 44(1B) deeming"
   }
  ],
  "short": "Dividends",

@@ -7,13 +7,13 @@
  "subdivision": "",
  "compilation_no": 191,
  "compilation_date": "2026-04-01",
- "summary": "Facet map: does a PE exist? Dual-track spine. DOMESTIC (s 6(1), no DTA): place at/through which business is carried on → inclusions (a) agent place, (b) substantial equipment, (c) construction project, (d) associated-entity goods with s 6(6) deeming → exclusions (e) bona fide commission agent, (f) no general authority agent, (g) purchasing-only place. TREATY (Art 5 via s 6CA): fixed place of business (Art 5(1)) → inclusions (Art 5(2)) → preparatory/auxiliary exclusions (Art 5(3)) → dependent agent (Art 5(4)) → independent agent (Art 5(5)), subsidiary carve-out (Art 5(6)). FACETS: treaty priority and residual domestic role (s 6CA, s 3-5, s 23AH(15), s 44(7)), agency limbs comparison, attributable profits (TR 2001/11, Div 815), treaty variations (9 vs 12-month building sites). Subsection coverage: s 6(1) paras (a)-(g) + s 6(6) mapped; Art 5(1)-(7) mapped (US text as template). Rulings: TR 2002/5, LCG 2016/1, TR 2014/3, TR 2001/11.",
+ "summary": "Facet map: does a PE exist? Dual-track spine. DOMESTIC (s 6(1), no DTA): place at/through which business is carried on → inclusions (a) agent place, (b) substantial equipment, (c) construction project, (d) associated-entity goods with s 6(6) deeming → exclusions (e) bona fide commission agent, (f) no general authority agent, (g) purchasing-only place. TREATY (Art 5 via International Tax Agreements Act 1953 s 4(2)): fixed place of business (Art 5(1)) → inclusions (Art 5(2)) → preparatory/auxiliary exclusions (Art 5(3)) → dependent agent (Art 5(4)) → independent agent (Art 5(5)), subsidiary carve-out (Art 5(6)). FACETS: treaty priority and residual domestic role (International Tax Agreements Act 1953 s 4(2), s 23AH(15), s 44(7)), agency limbs comparison, attributable profits (TR 2001/11, Div 815), treaty variations (9 vs 12-month building sites). Subsection coverage: s 6(1) paras (a)-(g) + s 6(6) mapped; Art 5(1)-(7) mapped (US text as template). Rulings: TR 2002/5, LCG 2016/1, TR 2014/3, TR 2001/11.",
  "nodes": [
   {
    "id": "start",
    "type": "start",
    "label": "A person (including a non-resident) carries on business activity in a jurisdiction — does a permanent establishment (PE) exist?",
-   "body": "Single question with two definitional tracks: domestic (s 6(1) ITAA 1936) and treaty (Art 5 of the applicable DTA). The treaty track generally overrides for treaty residents (s 6CA ITAA 1936 / s 3-5 ITAA 1997). Facets carry each limb.",
+   "body": "Single question with two definitional tracks: domestic (s 6(1) ITAA 1936) and treaty (Art 5 of the applicable DTA). The treaty track generally overrides for treaty residents (International Tax Agreements Act 1953 s 4(2)). Facets carry each limb.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -35,11 +35,11 @@
    "id": "treaty",
    "type": "decision",
    "label": "Is the person a resident of a DTA country (relying on the treaty)?",
-   "body": "If yes, Art 5 of the DTA applies (s 6CA ITAA 1936 gives treaties priority). If no DTA applies (non-treaty country, or non-treaty purposes), the domestic s 6(1) definition applies.",
+   "body": "If yes, Art 5 of the DTA applies (International Tax Agreements Act 1953 s 4(2) gives treaties priority over domestic law). If no DTA applies (non-treaty country, or non-treaty purposes), the domestic s 6(1) definition applies.",
    "statute": [
     {
-     "act": "itaa-1936",
-     "section": "6CA",
+     "act": "international-tax-agreements-act-1953",
+     "section": "4",
      "title": "Double tax agreements"
     }
    ],
@@ -98,9 +98,9 @@
   },
   {
    "id": "no-place",
-   "type": "outcome",
-   "label": "No place of business — no domestic PE (check agency/deeming limbs)",
-   "body": "Without a fixed place, no PE — but check the agency limbs (paras (a),(e),(f)) and deeming limbs ((b)-(d)) first.",
+   "type": "decision",
+   "label": "No fixed place — check inclusion/deeming limbs (s 6(1)(a)-(d))?",
+   "body": "Without a fixed place, there is no PE under the core s 6(1) test. However, paras (a)-(d) may still deem a PE: (a) agent place, (b) substantial equipment/machinery, (c) construction project, (d) associated-entity goods. Also check s 6(6) deeming. The exclusions in paras (e)-(g) must then be considered.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -117,7 +117,7 @@
    "id": "inclusions",
    "type": "decision",
    "label": "Does an inclusion apply — agent place (a), substantial equipment (b), construction project (c), associated-entity goods (d)?",
-   "body": "s 6(1) includes: (a) place where business is carried on through an agent; (b) place where the person has/is using/is installing substantial equipment or machinery; (c) construction project place; (d) place where goods are manufactured/assembled/processed/packed/distributed by another person for the taxpayer with mutual participation in management/control/capital. s 6(6) deems the selling business to be carried on at the (d) place.",
+   "body": "s 6(1) includes: (a) place where business is carried on through an agent; (b) place where the person has/is using/is installing substantial equipment or machinery; (c) construction project place; (d) where the person sells goods manufactured/assembled/processed/packed/distributed by another person for, or at or to the order of, the person — and either of those persons participates in the management, control or capital of the other person, or another person participates in the management, control or capital of both — the place where the goods are manufactured/assembled/processed/packed/distributed. s 6(6) deems the selling business to be carried on at the (d) place.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -134,7 +134,7 @@
    "id": "exclusions",
    "type": "decision",
    "label": "Does an exclusion apply — bona fide commission agent (e), no general authority agent (f), purchasing place (g)?",
-   "body": "s 6(1) excludes: (e) bona fide commission agent/broker at customary rates; (f) agent without (or not habitually exercising) general authority to negotiate and conclude contracts, or whose stock-filling authority is not regularly exercised; (g) premises solely for purchasing goods. Each subject to 'unless the person otherwise carries on business there'.",
+   "body": "s 6(1) excludes: (e) bona fide commission agent/broker at customary rates (subject to 'unless the person otherwise carries on business there'); (f) agent without (or not habitually exercising) general authority to negotiate and conclude contracts, or whose stock-filling authority extends to filling orders from stock situated in the country where the place is located but is not regularly exercised (also subject to 'unless the person otherwise carries on business there'); (g) premises maintained solely for purchasing goods or merchandise (no 'otherwise carries on business' carve-out applies).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -150,7 +150,7 @@
   {
    "id": "domestic-pe",
    "type": "end",
-   "label": "Domestic PE exists",
+   "label": "Confirm: Domestic PE exists",
    "body": "Consequences: business profits attributable to the Australian PE assessable; PE gates s 23AH, s 44(1)(c), Div 855, WHT attribution.",
    "statute": [
     {
@@ -174,13 +174,7 @@
    "type": "action",
    "label": "Apply the DTA Article 5 PE definition",
    "body": "Art 5(1): a fixed place of business through which the business is wholly or partly carried on. Art 5(2): specific inclusions (place of management, branch, office, factory, workshop, extraction, agricultural property, building site >9 months, dredging ≥6 months). Each DTA varies — check the specific treaty.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    }
-   ],
+   "statute": [],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -191,13 +185,7 @@
    "type": "decision",
    "label": "Is there a fixed place of business through which business is carried on (Art 5(1))?",
    "body": "Requires a distinct geographic location with some degree of permanence. Rented or controlled space suffices; temporary or purely preparatory locations may not.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    }
-   ],
+   "statute": [],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -205,9 +193,9 @@
   },
   {
    "id": "treaty-no-place",
-   "type": "outcome",
-   "label": "No fixed place — no treaty PE under Art 5(1)",
-   "body": "Check the Art 5(4) deeming limbs (dependent agent, substantial equipment, supervisory, processing) before concluding.",
+   "type": "decision",
+   "label": "No fixed place — check Art 5(4) deeming limbs (dependent agent, substantial equipment, supervisory)?",
+   "body": "Without a fixed place under Art 5(1), there is no PE unless one of the Art 5(4) deeming limbs applies: (a) dependent agent with contract authority, (b) substantial equipment rental >12 months, (c) supervisory >9 months, (d) substantial processing. Art 5(5) independent agent exception then applies.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -219,13 +207,7 @@
    "type": "decision",
    "label": "Does an Art 5(2) inclusion apply (building site >9 months, dredging ≥6 months)?",
    "body": "e.g. US DTA: building site/construction/assembly/installation project >9 months (Art 5(2)(h)); installation/drilling rig or ship for dredging or seabed exploration ≥6 months in any 24-month period (Art 5(2)(i)). Other DTAs differ (some 12 months) — always check the specific treaty.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    }
-   ],
+   "statute": [],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -236,13 +218,7 @@
    "type": "decision",
    "label": "Do the Art 5(3) preparatory/auxiliary exclusions apply?",
    "body": "Art 5(3): storage/display/delivery facilities, stock maintenance for storage/display/delivery/processing, purchasing or information collection, preparatory/auxiliary activities (advertising, research), short building sites, short dredging use.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    }
-   ],
+   "statute": [],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -252,14 +228,8 @@
    "id": "treaty-agency",
    "type": "decision",
    "label": "Is there a dependent agent with authority to conclude contracts (Art 5(4))?",
-   "body": "Art 5(4)(a): deemed PE where a person (other than independent agent) has and habitually exercises authority to conclude contracts. Art 5(4)(b)-(d): substantial equipment rental >12 months, supervisory >9 months, substantial processing. Art 5(6): subsidiary alone is NOT a PE of the parent.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    }
-   ],
+   "body": "Art 5(4)(a): deemed PE where a person (other than independent agent) has and habitually exercises authority to conclude contracts. Art 5(4)(b)-(d): substantial equipment rental >12 months, supervisory >9 months, substantial processing. Also check Art 5(6) subsidiary carve-out separately.",
+   "statute": [],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -270,13 +240,7 @@
    "type": "decision",
    "label": "Is the agent of independent status (Art 5(5))?",
    "body": "Art 5(5): broker, general commission agent or independent agent acting in the ordinary course is not a PE. Factual test — independence, arm's length, ordinary-course activity.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    }
-   ],
+   "statute": [],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -287,13 +251,7 @@
    "type": "end",
    "label": "Treaty PE exists",
    "body": "Australia may tax profits attributable to the PE (Art 7). Attribution per TR 2001/11 and Div 815 transfer pricing.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    }
-   ],
+   "statute": [],
    "commentary": [],
    "rulings": [
     {
@@ -311,15 +269,9 @@
   {
    "id": "treaty-pe-no",
    "type": "end",
-   "label": "No treaty PE",
+   "label": "Confirm: No treaty PE",
    "body": "Art 7 does not apply, but other articles (royalties, dividends, independent personal services) may still tax specific income.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    }
-   ],
+   "statute": [],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -328,17 +280,12 @@
   {
    "id": "facet-treaty-priority",
    "type": "outcome",
-   "label": "FACET — Treaty priority and the domestic definition's residual role",
-   "body": "Where to look: s 6CA ITAA 1936 (treaties prevail over the ITAA 1936/1997 where inconsistent); s 3-5 ITAA 1997; s 23AH(15) (PE in s 23AH follows the DTA where one affects the person); s 44(7) (PE meaning for s 44 follows the DTA, else s 6(1)). The domestic definition still applies for non-treaty purposes — e.g. non-treaty residents, and provisions that do not adopt the DTA meaning.",
+   "label": "Facet — Treaty priority: which definition applies?",
+   "body": "Where to look: International Tax Agreements Act 1953 s 4(2) (treaties prevail over the ITAA 1936/1997 where inconsistent); s 23AH(15) (PE in s 23AH follows the DTA where one affects the person); s 44(7) (PE meaning for s 44 follows the DTA, else s 6(1)). The domestic definition still applies for non-treaty purposes — e.g. non-treaty residents, and provisions that do not adopt the DTA meaning.",
    "statute": [
     {
-     "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
-    },
-    {
-     "act": "itaa-1997",
-     "section": "3-5",
+     "act": "international-tax-agreements-act-1953",
+     "section": "4",
      "title": "Double tax agreements"
     }
    ],
@@ -350,7 +297,7 @@
   {
    "id": "facet-agency",
    "type": "outcome",
-   "label": "FACET — Agency PE limbs: the domestic paras (a)/(e)/(f) vs treaty Art 5(4)/(5)",
+   "label": "Facet — Agency PE limbs: domestic (a)/(e)/(f) vs treaty Art 5(4)/(5)",
    "body": "Where to look: s 6(1)(a),(e),(f) (domestic — agent place, bona fide commission agent exclusion, no-general-authority exclusion); Art 5(4)-(5) (treaty — dependent agent with contract authority, independent agent exception). Note the differences: the domestic definition's para (f) exclusion turns on the agent's authority to negotiate and conclude contracts; the treaty's Art 5(4) turns on authority to conclude contracts habitually exercised. TR 2002/5 analyses both.",
    "statute": [
     {
@@ -372,8 +319,8 @@
   {
    "id": "facet-attribution",
    "type": "outcome",
-   "label": "FACET — Attributable profits once a PE exists",
-   "body": "Where to look: TR 2001/11 (attribution rules), TR 2014/3 (carrying on business at/through PE), Div 815 ITAA 1997 (transfer pricing). The OECD authorised OECD approach (AOA) and the 'functionally separate entity' principle govern how much profit is attributable to the PE. s 128B(2E) TAA 1953 attributes interest/royalty income to a PE.",
+   "label": "Facet — Attributable profits once a PE is confirmed",
+   "body": "Where to look: TR 2001/11 (attribution rules), TR 2014/3 (carrying on business at/through PE), Div 815 ITAA 1997 (transfer pricing). The OECD authorised OECD approach (AOA) and the 'functionally separate entity' principle govern how much profit is attributable to the PE. s 128B ITAA 1936 attributes interest/royalty income to a PE.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -398,15 +345,37 @@
   {
    "id": "facet-variations",
    "type": "outcome",
-   "label": "FACET — Treaty variations: building site thresholds differ per DTA",
+   "label": "Facet — Treaty variations: does the DTA use different thresholds?",
    "body": "Where to look: the specific DTA. US DTA Art 5(2)(h): building site >9 months. Many older DTAs (e.g. UK, Japan, Singapore) use 12 months; some use 6 months. Dredging/exploration thresholds vary (6 months in US; others differ). Always verify the specific treaty's Art 5 — the explorer's treaties collection holds the full text per country.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "domestic-no-pe",
+   "type": "end",
+   "label": "No domestic PE",
+   "body": "The domestic s 6(1) definition does not treat any place as a permanent establishment of the person. Note: this does not preclude treaty-based PE conclusions under a DTA.",
    "statute": [
     {
      "act": "itaa-1936",
-     "section": "6CA",
-     "title": "Double tax agreements"
+     "section": "6",
+     "title": "Definitions"
     }
    ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "treaty-subsidiary",
+   "type": "decision",
+   "label": "Is the PE asserted only because of control by / being controlled by a resident company?",
+   "body": "Art 5(6): The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.",
+   "statute": [],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -445,14 +414,9 @@
    "label": "Check exclusions"
   },
   {
-   "from": "inclusions",
-   "to": "domestic-pe",
-   "label": "Inclusion applies (no exclusion)"
-  },
-  {
    "from": "exclusions",
    "to": "domestic-pe",
-   "label": "No exclusion applies"
+   "label": "No exclusion applies — PE found"
   },
   {
    "from": "treaty",
@@ -477,17 +441,12 @@
   {
    "from": "treaty-inclusions",
    "to": "treaty-exclusions",
-   "label": "Check exclusions"
+   "label": "Check exclusions (if no Art 5(2) inclusion applies)"
   },
   {
    "from": "treaty-exclusions",
    "to": "treaty-agency",
    "label": "Check agency limb"
-  },
-  {
-   "from": "treaty-agency",
-   "to": "treaty-independent",
-   "label": "Agent with contract authority"
   },
   {
    "from": "treaty-agency",
@@ -498,16 +457,6 @@
    "from": "treaty-independent",
    "to": "treaty-pe-yes",
    "label": "Not independent status"
-  },
-  {
-   "from": "treaty-inclusions",
-   "to": "treaty-pe-yes",
-   "label": "Inclusion applies (no exclusion)"
-  },
-  {
-   "from": "treaty-place",
-   "to": "treaty-pe-no",
-   "label": "No place and no deeming limb"
   },
   {
    "from": "treaty-exclusions",
@@ -543,6 +492,41 @@
    "from": "treaty-inclusions",
    "to": "facet-variations",
    "label": "Facet: treaty variations"
+  },
+  {
+   "from": "exclusions",
+   "to": "domestic-no-pe",
+   "label": "Exclusion applies"
+  },
+  {
+   "from": "no-place",
+   "to": "inclusions",
+   "label": "Check inclusion limbs"
+  },
+  {
+   "from": "treaty-no-place",
+   "to": "treaty-agency",
+   "label": "Check deeming limbs"
+  },
+  {
+   "from": "treaty-agency",
+   "to": "treaty-subsidiary",
+   "label": "Check Art 5(6) subsidiary carve-out"
+  },
+  {
+   "from": "treaty-subsidiary",
+   "to": "treaty-independent",
+   "label": "Yes — subsidiary relationship alone is not a PE"
+  },
+  {
+   "from": "treaty-subsidiary",
+   "to": "treaty-pe-no",
+   "label": "Yes — subsidiary alone is not a PE (but check other bases)"
+  },
+  {
+   "from": "treaty-subsidiary",
+   "to": "treaty-independent",
+   "label": "No — PE asserted on other grounds"
   }
  ],
  "short": "Permanent establishment",

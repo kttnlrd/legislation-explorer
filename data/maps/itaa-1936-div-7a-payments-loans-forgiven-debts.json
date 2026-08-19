@@ -9,7 +9,7 @@
  "subdivision": "",
  "compilation_no": 191,
  "compilation_date": "2026-04-01",
- "summary": "Division 7A treats certain payments, loans and forgiven debts by a private company to a shareholder or associate as unfrankable dividends unless an exception applies. The flowchart covers the trigger provisions (ss 109C, 109D, 109F), the shareholder/associate nexus, the Subdivision D exceptions (ss 109J-109NA), the loan-repaid-before-lodgment day carve-out (s 109D(1)(b)), amalgamated loans (s 109E), the distributable surplus cap (s 109Y), franking and character consequences (ss 109Z-109ZB), interposed entities (ss 109T-109U), the trust UPE limb (s 109XA), and Commissioner discretion (s 109RB). Subsection coverage: ss 109C-109ZE mapped to nodes.",
+ "summary": "Division 7A treats certain payments, loans and forgiven debts by a private company to a shareholder or associate as unfrankable dividends unless an exception applies. The flowchart covers the trigger provisions (ss 109C, 109D, 109F), interposed entity tracing (ss 109T-109U), the shareholder/associate nexus, the s 109C(3) payment definition and carve-outs, the payment-converted-to-loan reclassification (s 109D(4A)), the loan-repaid-before-lodgment day carve-out (s 109D(1)(b)), the s 109F(3)-(8) forgiveness rules, the s 109G debt-forgiveness exceptions, the Subdivision D exceptions (ss 109J-109NA) as individual decision nodes, amalgamated loans (s 109E), the distributable surplus cap (s 109Y), franking and character consequences (ss 109Z-109ZB), trust UPE limb (s 109XA), Commissioner discretion (s 109RB), and family law franking (s 109RC). Subsection coverage: ss 109C-109ZE mapped to nodes.",
  "nodes": [
   {
    "id": "start",
@@ -103,7 +103,7 @@
    "id": "event-payment",
    "type": "event",
    "label": "Payment made to an entity during the income year (s 109C)",
-   "body": "A private company is taken to pay a dividend to an entity at the end of the income year if the company pays an amount to the entity during the year and the entity is a shareholder or associate at the time of payment, or a reasonable person would conclude the payment is made because the entity has been such a shareholder or associate (s 109C(1)(a)-(b)). Payment includes provision of an asset for use (s 109CA). Some payments are excluded by Subdivision D (ss 109J-109NA).",
+   "body": "A private company is taken to pay a dividend to an entity at the end of the income year if the company pays an amount to the entity during the year and the entity is a shareholder or associate at the time of payment, or a reasonable person would conclude the payment is made because the entity has been such a shareholder or associate (s 109C(1)(a)-(b)). 'Payment' includes amounts paid on behalf or for the benefit of the entity, credits, and transfers of property (s 109C(3)). A loan is not a payment (s 109C(3A)). Payment includes provision of an asset for use (s 109CA). Some payments are excluded by Subdivision D (ss 109J-109NA).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -135,7 +135,7 @@
    "id": "event-loan",
    "type": "event",
    "label": "Loan made to an entity during the income year (s 109D)",
-   "body": "A private company is taken to pay a dividend to an entity at the end of the income year if: (a) the company makes a loan to the entity during the current year; (b) the loan is not fully repaid before the lodgment day for the current year; (c) Subdivision D does not prevent the deemed dividend; and (d) the entity is a shareholder or associate (s 109D(1)(a)-(d)). 'Loan' includes an advance of money, provision of credit or financial accommodation, a payment with an obligation to repay, and any transaction that in substance effects a loan (s 109D(3)).",
+   "body": "A private company is taken to pay a dividend to an entity at the end of the income year if: (a) the company makes a loan to the entity during the current year; (b) the loan is not fully repaid before the lodgment day for the current year; (c) Subdivision D does not prevent the deemed dividend; and (d) the entity is a shareholder or associate (s 109D(1)(a)-(d)). 'Loan' includes an advance of money, provision of credit or financial accommodation, a payment with an obligation to repay, and any transaction that in substance effects a loan (s 109D(3)). A payment converted to a loan before the lodgment day is treated as a loan (s 109D(4A)). Liquidator's loans made in winding-up are covered by s 109D(1A)-(2).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -166,7 +166,7 @@
    "id": "event-forgiven-debt",
    "type": "event",
    "label": "Debt owed to the private company is forgiven (s 109F)",
-   "body": "A private company is taken to pay a dividend to an entity at the end of the income year if all or part of a debt the entity owed the company is forgiven in that year and either: (a) the amount is forgiven when the entity is a shareholder or associate; or (b) a reasonable person would conclude the amount is forgiven because the entity has been such a shareholder or associate (s 109F(1)(a)-(b)). In some cases forgiving a debt does not give rise to a dividend — see s 109G.",
+   "body": "A private company is taken to pay a dividend to an entity at the end of the income year if all or part of a debt the entity owed the company is forgiven in that year and either: (a) the amount is forgiven when the entity is a shareholder or associate; or (b) a reasonable person would conclude the amount is forgiven because the entity has been such a shareholder or associate (s 109F(1)(a)-(b)). The amount of the dividend equals the amount forgiven, subject to s 109Y (s 109F(2)).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -186,6 +186,68 @@
     {
      "id": "TD_2011_16",
      "title": "Income tax: Division 7A - payments and loans through interposed entities - factors the Commissioner will take "
+    }
+   ]
+  },
+  {
+   "id": "interposed-entities",
+   "type": "decision",
+   "label": "Is the dealing through an interposed entity or guarantee arrangement? (Subdiv E)",
+   "body": "Division 7A extends to arrangements involving interposed entities. If a private company makes a payment or loan to an interposed entity as part of an arrangement involving a payment or loan to a target shareholder/associate, the Division operates as if the company made the payment or loan directly to the target (s 109T). Similarly, if the company guarantees a loan made by another entity as part of such an arrangement (s 109U). If yes, treat the dealing as made directly to the target entity before applying Subdivision D exceptions.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "109T",
+     "title": "Payments and loans by a private company to an entity through one or more interposed entities"
+    },
+    {
+     "act": "itaa-1936",
+     "section": "109U",
+     "title": "Payments and loans through interposed entities relying on guarantees"
+    }
+   ],
+   "commentary": [
+    "div-7a-tracing-rules"
+   ],
+   "cases": [],
+   "definitions": [
+    "shareholder"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2011_16",
+     "title": "Income tax: Division 7A - payments and loans through interposed entities - factors the Commissioner will take "
+    }
+   ]
+  },
+  {
+   "id": "trust-upe-limb",
+   "type": "decision",
+   "label": "Trust UPE limb: Has the trustee made a payment, loan or forgiven a debt to a shareholder of a private company with an unpaid present entitlement?",
+   "body": "Subdivision EA (s 109XA) applies where a trustee makes a payment (or loan or debt forgiveness) to a shareholder or associate of a private company, and the payment discharges or reduces a present entitlement of the shareholder that is wholly or partly attributable to an unrealised gain. If triggered, s 109XB deems a dividend paid by the private company. This is the 'trust UPE' limb of Division 7A — a parallel trigger that should be assessed alongside the main triggers.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "109XA",
+     "title": "Payments, loans and debt forgiveness by a trustee in favour of a shareholder etc. of a private company with an unpaid present entitlement"
+    }
+   ],
+   "commentary": [
+    "unpaid-present-entitlements"
+   ],
+   "cases": [],
+   "definitions": [
+    "shareholder",
+    "dividend"
+   ],
+   "rulings": [
+    {
+     "id": "TD_2011_15",
+     "title": "Income tax: Division 7A - unpaid present entitlements - factors the Commissioner will take into account in det"
+    },
+    {
+     "id": "TD_2022_11",
+     "title": "Income tax: Division 7A: when will an unpaid present entitlement or amount held on sub-trust become the provis"
     }
    ]
   },
@@ -227,10 +289,44 @@
    ]
   },
   {
+   "id": "dec-payment-s109c3",
+   "type": "decision",
+   "label": "Is the dealing a payment under s 109C(3) and does a carve-out apply?",
+   "body": "Section 109C(3) defines 'payment' broadly: (a) a payment to, on behalf of, or for the benefit of the entity; (b) a credit to, on behalf of, or for the benefit of the entity; (c) a transfer of property to the entity. However, a loan is not a payment (s 109C(3A)). A payment converted to a loan before lodgment day is treated as a loan under s 109D(4A). The value of a payment by transfer of property is the arm's length amount less consideration given (s 109C(4)). Additionally, no dividend arises if the amount is paid to a CGT concession stakeholder under s 152-325(1) of ITAA 1997 (s 109C(1) note).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "109C",
+     "title": "Payments treated as dividends"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-payment-cgt-concession",
+   "type": "decision",
+   "label": "Is the amount paid to a CGT concession stakeholder (s 152-325(11) ITAA 1997)?",
+   "body": "Section 109C(1) does not give rise to a dividend if the amount is paid to a CGT concession stakeholder under subsection 152-325(1) of ITAA 1997 (see subsection 152-325(11)). If this exception applies, no deemed dividend arises under the payment trigger.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "152-325",
+     "title": "CGT concession stakeholder"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
    "id": "dec-loan-repaid",
    "type": "decision",
    "label": "Loan path: Is the loan fully repaid before the lodgment day?",
-   "body": "A loan is only treated as a dividend under s 109D(1) if it is not fully repaid before the lodgment day for the current year (s 109D(1)(b)). If fully repaid by that date, no deemed dividend arises under s 109D(1). Note that some payments relating to loans are not taken into account for working out how much has been repaid — see s 109R.",
+   "body": "A loan is only treated as a dividend under s 109D(1) if it is not fully repaid before the lodgment day for the current year (s 109D(1)(b)). 'Lodgment day' is defined in s 109D(6) as the earlier of: (a) the due date for lodgment of the company's return of income; and (b) the date of lodgment of the company's return of income. For non-resident companies, see s 109BC. If fully repaid by that date, no deemed dividend arises under s 109D(1). Certain payments relating to loans are not taken into account for working out how much has been repaid (s 109R).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -289,58 +385,123 @@
    ]
   },
   {
-   "id": "dec-exceptions-subdiv-d",
+   "id": "dec-payment-converted-loan",
    "type": "decision",
-   "label": "Does a Subdivision D exception apply?",
-   "body": "Subdivision D (ss 109J-109NA) contains exceptions that prevent payments or loans from being treated as dividends. The exceptions are: discharging a pecuniary obligation at arm's length (s 109J); inter-company payments and loans (s 109K); amounts already assessable or excluded by another provision (s 109L); loans in the ordinary course of business on arm's length terms (s 109M); loans meeting minimum interest rate and maximum term criteria with a written agreement (s 109N); and certain liquidator's distributions and loans (s 109NA). For forgiven debts, see also s 109G (not within Subdiv D).",
+   "label": "Was the payment converted to a loan before the lodgment day? (s 109D(4A))",
+   "body": "If a private company makes a payment to an entity and the payment is converted to a loan before the end of the private company's lodgment day for the year of income, the events are treated as a loan made to the entity at the time of the original payment (s 109D(4A)). This reclassification changes the trigger outcome from the payment path to the loan path.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "109D",
+     "title": "Loans treated as dividends"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-exception-s109j",
+   "type": "decision",
+   "label": "Does s 109J apply? — Payment discharging a pecuniary obligation at arm's length",
+   "body": "Section 109J: A payment that discharges a genuine pecuniary obligation of the private company to the entity at arm's length is not treated as a dividend. This is the first Subdivision D exception.",
    "statute": [
     {
      "act": "itaa-1936",
      "section": "109J",
      "title": "Payments discharging pecuniary obligations not treated as dividends"
-    },
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-exception-s109k",
+   "type": "decision",
+   "label": "Does s 109K apply? — Inter-company payment or loan",
+   "body": "Section 109K: A payment or loan made by a private company to another company is not treated as a dividend, subject to certain conditions. This exception covers payments and loans between related companies.",
+   "statute": [
     {
      "act": "itaa-1936",
      "section": "109K",
      "title": "Inter-company payments and loans not treated as dividends"
-    },
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-exception-s109l",
+   "type": "decision",
+   "label": "Does s 109L apply? — Amount already assessable or excluded",
+   "body": "Section 109L: Certain payments and loans are not treated as dividends if the amount is already assessable income of the entity or is otherwise excluded from the operation of Division 7A.",
+   "statute": [
     {
      "act": "itaa-1936",
      "section": "109L",
      "title": "Certain payments and loans not treated as dividends"
-    },
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-exception-s109m",
+   "type": "decision",
+   "label": "Does s 109M apply? — Loan in ordinary course of business on arm's length terms",
+   "body": "Section 109M: A loan made in the ordinary course of business on arm's length terms is not treated as a dividend. This requires the loan to be on terms that would be agreed between independent parties dealing at arm's length.",
+   "statute": [
     {
      "act": "itaa-1936",
      "section": "109M",
-     "title": "Loans made in the ordinary course of business on arm’s length terms not treated as dividends"
-    },
+     "title": "Loans made in the ordinary course of business on arm's length terms not treated as dividends"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-exception-s109n",
+   "type": "decision",
+   "label": "Does s 109N apply? — Loan meeting minimum interest rate and maximum term criteria with written agreement",
+   "body": "Section 109N: A loan is not treated as a dividend if it meets the minimum interest rate and maximum term criteria set out in s 109N(2)-(3), and there is a written loan agreement complying with s 109N(4). The minimum yearly repayment is worked out under s 109N(5)-(6).",
+   "statute": [
     {
      "act": "itaa-1936",
      "section": "109N",
      "title": "Loans meeting criteria for minimum interest rate and maximum term not treated as dividends"
-    },
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-exception-s109na",
+   "type": "decision",
+   "label": "Does s 109NA apply? — Certain liquidator's distributions and loans",
+   "body": "Section 109NA: Certain distributions and loans made by a liquidator are not treated as dividends. This exception applies to loans made in the course of winding-up, but if the loan is not fully repaid by the end of the following year, s 109D(1A) may apply.",
+   "statute": [
     {
      "act": "itaa-1936",
      "section": "109NA",
-     "title": "Certain liquidator’s distributions and loans not treated as dividends"
+     "title": "Certain liquidator's distributions and loans not treated as dividends"
     }
    ],
-   "commentary": [
-    "division-7a-payments",
-    "division-7a-loans"
-   ],
+   "commentary": [],
    "cases": [],
    "definitions": [],
-   "rulings": [
-    {
-     "id": "TD_2011_15",
-     "title": "Income tax: Division 7A - unpaid present entitlements - factors the Commissioner will take into account in det"
-    },
-    {
-     "id": "TD_2022_11",
-     "title": "Income tax: Division 7A: when will an unpaid present entitlement or amount held on sub-trust become the provis"
-    }
-   ]
+   "rulings": []
   },
   {
    "id": "exception-applies",
@@ -351,7 +512,7 @@
     {
      "act": "itaa-1936",
      "section": "109NA",
-     "title": "Certain liquidator’s distributions and loans not treated as dividends"
+     "title": "Certain liquidator's distributions and loans not treated as dividends"
     }
    ],
    "commentary": [
@@ -367,10 +528,44 @@
    ]
   },
   {
+   "id": "dec-forgiven-debt-rules",
+   "type": "decision",
+   "label": "Is the debt forgiven under the s 109F(3)-(8) rules?",
+   "body": "Section 109F defines when a debt is forgiven for Div 7A purposes. Rules: (3) Debt is forgiven if it would be forgiven under ITAA 1997 ss 245-35/245-37; (4) Discharge of a debt by transfer of property is NOT forgiveness; (5) Debt-parking assignments to associates may be forgiveness; (6) Failure to insist on payment may be forgiveness; (7) Forgiveness of constituent loan debt is taken as forgiveness of amalgamated loan debt; (8) If same debt is forgiven at different times under different provisions, only the earliest forgiveness applies.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "109F",
+     "title": "Forgiven debts treated as dividends"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-forgiven-debt-s109g",
+   "type": "decision",
+   "label": "Does s 109G prevent a dividend from arising?",
+   "body": "Section 109G provides that no dividend arises for: (1) forgiveness of a debt owed by another company (but not as trustee); (2) forgiveness because the debtor becomes bankrupt or Part X of the Bankruptcy Act applies; (3) forgiveness of a loan debt if the loan already gives rise to a dividend under s 109D or s 109E. If any of these apply, the forgiven debt does not give rise to a deemed dividend.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "109G",
+     "title": "Debt forgiveness that does not give rise to a dividend"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
    "id": "deemed-dividend-amount",
    "type": "action",
    "label": "Calculate the deemed dividend amount",
-   "body": "For payments (s 109C): the amount paid is the dividend, subject to s 109Y. For loans (s 109D(1AA)): the amount of the dividend is the amount of the loan that has not been repaid before the lodgment day, subject to s 109Y. For forgiven debts (s 109F): the amount forgiven is the dividend, subject to s 109Y. If the loan was made in a previous year and the minimum yearly repayment is not met, an amalgamated loan shortfall is treated as a dividend under s 109E.",
+   "body": "For payments (s 109C): the amount paid is the dividend, subject to s 109Y. For loans (s 109D(1AA)): the amount of the dividend is the amount of the loan that has not been repaid before the lodgment day, subject to s 109Y. For liquidator's loans (s 109D(2)): the amount not repaid at the end of the current year. For forgiven debts (s 109F): the amount forgiven is the dividend, subject to s 109Y. If the loan was made in a previous year and the minimum yearly repayment is not met, an amalgamated loan shortfall is treated as a dividend under s 109E.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -518,72 +713,10 @@
    ]
   },
   {
-   "id": "interposed-entities",
-   "type": "decision",
-   "label": "Is the dealing through an interposed entity or guarantee arrangement?",
-   "body": "Division 7A extends to arrangements involving interposed entities. If a private company makes a payment or loan to an interposed entity as part of an arrangement involving a payment or loan to a target shareholder/associate, the Division operates as if the company made the payment or loan directly to the target (s 109T). Similarly, if the company guarantees a loan made by another entity as part of such an arrangement (s 109U).",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "109T",
-     "title": "Payments and loans by a private company to an entity through one or more interposed entities"
-    },
-    {
-     "act": "itaa-1936",
-     "section": "109U",
-     "title": "Payments and loans through interposed entities relying on guarantees"
-    }
-   ],
-   "commentary": [
-    "div-7a-tracing-rules"
-   ],
-   "cases": [],
-   "definitions": [
-    "shareholder"
-   ],
-   "rulings": [
-    {
-     "id": "TD_2011_16",
-     "title": "Income tax: Division 7A - payments and loans through interposed entities - factors the Commissioner will take "
-    }
-   ]
-  },
-  {
-   "id": "trust-upe-limb",
-   "type": "decision",
-   "label": "Trust UPE limb: Has the trustee made a payment, loan or forgiven a debt to a shareholder of a private company with an unpaid present entitlement?",
-   "body": "Subdivision EA (s 109XA) applies where a trustee makes a payment (or loan or debt forgiveness) to a shareholder or associate of a private company, and the payment discharges or reduces a present entitlement of the shareholder that is wholly or partly attributable to an unrealised gain. If triggered, s 109XB deems a dividend paid by the private company. This is the 'trust UPE' limb of Division 7A.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "109XA",
-     "title": "Payments, loans and debt forgiveness by a trustee in favour of a shareholder etc. of a private company with an unpaid present entitlement"
-    }
-   ],
-   "commentary": [
-    "unpaid-present-entitlements"
-   ],
-   "cases": [],
-   "definitions": [
-    "shareholder",
-    "dividend"
-   ],
-   "rulings": [
-    {
-     "id": "TD_2011_15",
-     "title": "Income tax: Division 7A - unpaid present entitlements - factors the Commissioner will take into account in det"
-    },
-    {
-     "id": "TD_2022_11",
-     "title": "Income tax: Division 7A: when will an unpaid present entitlement or amount held on sub-trust become the provis"
-    }
-   ]
-  },
-  {
    "id": "commissioner-discretion",
-   "type": "action",
-   "label": "Commissioner may disregard the operation of the Division or allow franking (s 109RB)",
-   "body": "If Division 7A would operate to treat an amount as a dividend, the Commissioner may make a decision under s 109RB(2) to disregard the operation of the Division (in whole or part) or allow the dividend to be franked. This discretion applies where the Commissioner considers it fair and reasonable having regard to: the extent of the shareholder's interest, the quantum of the deemed dividend, any distributions made, and other relevant circumstances (s 109RB(1)-(4)).",
+   "type": "decision",
+   "label": "Commissioner's decision: disregard the Division, allow franking, or no decision? (s 109RB)",
+   "body": "If Division 7A would operate to treat an amount as a dividend, the Commissioner may make a decision under s 109RB(2) to: (a) disregard the operation of the Division (in whole or part) — resulting in no deemed dividend; or (b) allow the dividend to be franked. This discretion applies where the Commissioner considers it fair and reasonable having regard to: the extent of the shareholder's interest, the quantum of the deemed dividend, any distributions made, and other relevant circumstances, and where the result arises because of an honest mistake or inadvertent omission (s 109RB(1)-(4)).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -607,9 +740,9 @@
   },
   {
    "id": "family-law-franking",
-   "type": "action",
-   "label": "Franking allowed for family law obligations (s 109RC)",
-   "body": "If a dividend is taken to be paid under Division 7A because of a family law obligation, the unfrankability rule in s 202-45(g)(i) of ITAA 1997 does not apply. The dividend can be franked at the company's benchmark franking percentage for the franking period (s 109RC(1)-(3)).",
+   "type": "decision",
+   "label": "Is the deemed dividend because of a family law obligation? (s 109RC)",
+   "body": "Section 109RC: If a dividend is taken to be paid under Division 7A because of a family law obligation, the unfrankability rule in s 202-45(g)(i) of ITAA 1997 does not apply. The dividend can be franked at the company's benchmark franking percentage for the franking period (s 109RC(1)-(3)). If not because of a family law obligation, the deemed dividend remains unfrankable.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -633,8 +766,8 @@
   {
    "id": "end-deemed-dividend",
    "type": "end",
-   "label": "Deemed dividend applies — assessable to shareholder as unfranked dividend",
-   "body": "The amount is included in the shareholder's assessable income as an unfranked dividend under s 44(1) of ITAA 1936, capped at the distributable surplus. The private company must account for franking debits. Review options: the Commissioner may exercise discretion under s 109RB or the taxpayer may object under Part IVC.",
+   "label": "Deemed dividend applies — assessable as a dividend",
+   "body": "The amount is included in the shareholder's assessable income as a dividend under s 44(1) of ITAA 1936, capped at the distributable surplus. The dividend is unfrankable unless s 109RB (Commissioner discretion) or s 109RC (family law obligation) permits franking. The private company must account for franking debits. Review options: the Commissioner may exercise discretion under s 109RB or the taxpayer may object under Part IVC.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -666,7 +799,7 @@
    "id": "end-no-dividend",
    "type": "end",
    "label": "No deemed dividend under Division 7A",
-   "body": "The dealing does not give rise to a deemed dividend under Division 7A. This may be because: the entity was not a shareholder or associate, the loan was fully repaid before lodgment day, a Subdivision D exception applied, the distributable surplus was nil, or the Commissioner exercised discretion under s 109RB. The dealing is assessed under ordinary principles if applicable.",
+   "body": "The dealing does not give rise to a deemed dividend under Division 7A. This may be because: the entity was not a shareholder or associate, the loan was fully repaid before lodgment day, a Subdivision D exception applied, the distributable surplus was nil, the Commissioner exercised discretion under s 109RB to disregard the operation, or the s 109G debt forgiveness exception applied. The dealing is assessed under ordinary principles if applicable.",
    "statute": [],
    "commentary": [],
    "cases": [],
@@ -708,18 +841,28 @@
   },
   {
    "from": "event-payment",
-   "to": "dec-shareholder-associate",
+   "to": "interposed-entities",
    "label": ""
   },
   {
    "from": "event-loan",
-   "to": "dec-shareholder-associate",
+   "to": "interposed-entities",
    "label": ""
   },
   {
    "from": "event-forgiven-debt",
-   "to": "dec-shareholder-associate",
+   "to": "interposed-entities",
    "label": ""
+  },
+  {
+   "from": "interposed-entities",
+   "to": "dec-shareholder-associate",
+   "label": "yes — treat as made directly to target"
+  },
+  {
+   "from": "interposed-entities",
+   "to": "dec-shareholder-associate",
+   "label": "no — proceed to nexus check"
   },
   {
    "from": "dec-shareholder-associate",
@@ -728,18 +871,43 @@
   },
   {
    "from": "dec-shareholder-associate",
-   "to": "dec-loan-repaid",
-   "label": "yes — loan path"
-  },
-  {
-   "from": "dec-shareholder-associate",
-   "to": "dec-exceptions-subdiv-d",
+   "to": "dec-payment-s109c3",
    "label": "yes — payment path"
   },
   {
+   "from": "dec-payment-s109c3",
+   "to": "dec-payment-converted-loan",
+   "label": "is a payment under s 109C(3)..."
+  },
+  {
+   "from": "dec-payment-s109c3",
+   "to": "dec-payment-cgt-concession",
+   "label": "loan — follow loan path (s 109C(3A))"
+  },
+  {
+   "from": "dec-payment-converted-loan",
+   "to": "dec-loan-repaid",
+   "label": "yes — treated as loan"
+  },
+  {
+   "from": "dec-payment-converted-loan",
+   "to": "dec-payment-cgt-concession",
+   "label": "no — remains a payment"
+  },
+  {
+   "from": "dec-payment-cgt-concession",
+   "to": "end-no-dividend",
+   "label": "yes — CGT concession stakeholder exception applies"
+  },
+  {
+   "from": "dec-payment-cgt-concession",
+   "to": "dec-exception-s109j",
+   "label": "no — proceed to Subdiv D exceptions"
+  },
+  {
    "from": "dec-shareholder-associate",
-   "to": "deemed-dividend-amount",
-   "label": "yes — forgiven debt path"
+   "to": "dec-loan-repaid",
+   "label": "yes — loan path"
   },
   {
    "from": "dec-loan-repaid",
@@ -748,18 +916,93 @@
   },
   {
    "from": "dec-loan-repaid",
-   "to": "dec-exceptions-subdiv-d",
+   "to": "dec-exception-s109j",
    "label": "not fully repaid"
   },
   {
-   "from": "dec-exceptions-subdiv-d",
-   "to": "exception-applies",
-   "label": "yes — exception applies"
+   "from": "dec-shareholder-associate",
+   "to": "dec-forgiven-debt-rules",
+   "label": "yes — forgiven debt path"
   },
   {
-   "from": "dec-exceptions-subdiv-d",
+   "from": "dec-forgiven-debt-rules",
+   "to": "end-no-dividend",
+   "label": "debt not forgiven under s 109F(3)-(8) rules"
+  },
+  {
+   "from": "dec-forgiven-debt-rules",
+   "to": "dec-forgiven-debt-s109g",
+   "label": "debt forgiven under s 109F"
+  },
+  {
+   "from": "dec-forgiven-debt-s109g",
+   "to": "end-no-dividend",
+   "label": "yes — s 109G exception applies"
+  },
+  {
+   "from": "dec-forgiven-debt-s109g",
    "to": "deemed-dividend-amount",
-   "label": "no exception"
+   "label": "no s 109G exception — calculate dividend"
+  },
+  {
+   "from": "dec-exception-s109j",
+   "to": "dec-exception-s109k",
+   "label": "no — check next exception"
+  },
+  {
+   "from": "dec-exception-s109j",
+   "to": "exception-applies",
+   "label": "yes — s 109J applies"
+  },
+  {
+   "from": "dec-exception-s109k",
+   "to": "dec-exception-s109l",
+   "label": "no — check next exception"
+  },
+  {
+   "from": "dec-exception-s109k",
+   "to": "exception-applies",
+   "label": "yes — s 109K applies"
+  },
+  {
+   "from": "dec-exception-s109l",
+   "to": "dec-exception-s109m",
+   "label": "no — check next exception"
+  },
+  {
+   "from": "dec-exception-s109l",
+   "to": "exception-applies",
+   "label": "yes — s 109L applies"
+  },
+  {
+   "from": "dec-exception-s109m",
+   "to": "dec-exception-s109n",
+   "label": "no — check next exception"
+  },
+  {
+   "from": "dec-exception-s109m",
+   "to": "exception-applies",
+   "label": "yes — s 109M applies"
+  },
+  {
+   "from": "dec-exception-s109n",
+   "to": "dec-exception-s109na",
+   "label": "no — check next exception"
+  },
+  {
+   "from": "dec-exception-s109n",
+   "to": "exception-applies",
+   "label": "yes — s 109N applies"
+  },
+  {
+   "from": "dec-exception-s109na",
+   "to": "deemed-dividend-amount",
+   "label": "no exception applies"
+  },
+  {
+   "from": "dec-exception-s109na",
+   "to": "exception-applies",
+   "label": "yes — s 109NA applies"
   },
   {
    "from": "deemed-dividend-amount",
@@ -769,7 +1012,12 @@
   {
    "from": "dec-amalgamated-loan",
    "to": "distributable-surplus-cap",
-   "label": "checked"
+   "label": "yes — include s 109E shortfall in total"
+  },
+  {
+   "from": "dec-amalgamated-loan",
+   "to": "distributable-surplus-cap",
+   "label": "no — no amalgamated loan shortfall"
   },
   {
    "from": "distributable-surplus-cap",
@@ -778,28 +1026,43 @@
   },
   {
    "from": "franking-consequences",
-   "to": "interposed-entities",
-   "label": ""
-  },
-  {
-   "from": "interposed-entities",
    "to": "trust-upe-limb",
-   "label": "checked"
+   "label": ""
   },
   {
    "from": "trust-upe-limb",
    "to": "commissioner-discretion",
-   "label": "checked"
+   "label": "checked — no trust UPE trigger"
+  },
+  {
+   "from": "trust-upe-limb",
+   "to": "deemed-dividend-amount",
+   "label": "yes — s 109XA triggered, calculate s 109XB dividend"
+  },
+  {
+   "from": "commissioner-discretion",
+   "to": "end-no-dividend",
+   "label": "Commissioner disregards operation (s 109RB(2)(a))"
   },
   {
    "from": "commissioner-discretion",
    "to": "family-law-franking",
-   "label": ""
+   "label": "Commissioner allows franking (s 109RB(2)(b))"
+  },
+  {
+   "from": "commissioner-discretion",
+   "to": "end-deemed-dividend",
+   "label": "no decision — deemed dividend stands"
   },
   {
    "from": "family-law-franking",
    "to": "end-deemed-dividend",
-   "label": ""
+   "label": "yes — franking allowed"
+  },
+  {
+   "from": "family-law-franking",
+   "to": "end-deemed-dividend",
+   "label": "no — unfrankable dividend"
   },
   {
    "from": "exception-repaid",

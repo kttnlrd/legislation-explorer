@@ -15,7 +15,7 @@
    "id": "start",
    "type": "start",
    "label": "You have an unpaid tax debt and the general interest charge applies",
-   "body": "Under Part IIA of the TAA 1953, the general interest charge (GIC) applies to amounts payable to the Commissioner that remain unpaid after the due date. Section 8AAB identifies when GIC applies and s 8AAA provides an overview of the regime.",
+   "body": "You have an unpaid tax debt and the general interest charge (GIC) applies under one of the provisions listed in s 8AAB(4). s 8AAB(2): you are only liable where a provision specifies the charge applies. Carve-out: the GIC does NOT apply to the Commonwealth or an authority of the Commonwealth (s 8AAB(3)).",
    "statute": [
     {
      "act": "taa-1953",
@@ -95,7 +95,7 @@
    "id": "dec-seek-remission",
    "type": "decision",
    "label": "Do you seek remission of the GIC?",
-   "body": "The Commissioner has discretion under s 8AAG(1) to remit all or part of the GIC payable by a person. If GIC applies because an amount remained unpaid after the due date, the Commissioner may only remit in the circumstances set out in s 8AAG(3), (4) or (5).",
+   "body": "s 8AAG(1): the Commissioner may remit all or part of the charge. GATEWAY (s 8AAG(2)): if the charge is payable because an amount remains unpaid after the due time, remission is LIMITED to the grounds in s 8AAG(3), (4) or (5) — the s 8AAG(1) general discretion is constrained by subsection (2). The (3)/(4)/(5) grounds apply only to late-payment GIC.",
    "statute": [
     {
      "act": "taa-1953",
@@ -142,8 +142,8 @@
   {
    "id": "dec-s8aag3",
    "type": "decision",
-   "label": "Were the circumstances contributing to the delay outside your control? (s 8AAG(3))",
-   "body": "Under s 8AAG(3), the Commissioner may remit GIC if satisfied that (a) the circumstances that contributed to the delay in payment were not due to, or caused directly or indirectly by, an act or omission of the person; and (b) the person has taken reasonable action to mitigate those circumstances. Examples include serious illness, natural disaster, or systemic ATO error.",
+   "label": "Were the delay circumstances outside your control, and did you take reasonable mitigation action? (s 8AAG(3))",
+   "body": "s 8AAG(3): remit if satisfied that (a) the circumstances that contributed to the delay were NOT due to, or caused directly or indirectly by, an act or omission of the person; AND (b) the person has taken reasonable action to mitigate, OR MITIGATE THE EFFECTS OF, those circumstances.",
    "statute": [
     {
      "act": "taa-1953",
@@ -174,8 +174,8 @@
   {
    "id": "dec-s8aag4",
    "type": "decision",
-   "label": "Are you partly responsible but is remission fair and reasonable? (s 8AAG(4))",
-   "body": "Under s 8AAG(4), the Commissioner may remit GIC where (a) the circumstances contributing to the delay were caused by an act or omission of the person; (b) the person has taken reasonable action to mitigate those circumstances; and (c) having regard to the nature of those circumstances, it would be fair and reasonable to remit all or part of the charge. This is a balancing test acknowledging partial taxpayer responsibility.",
+   "label": "Were the circumstances partly your responsibility, with mitigation, and is remission fair and reasonable? (s 8AAG(4))",
+   "body": "s 8AAG(4): remit if (a) the circumstances were DUE TO, or caused directly or indirectly by, an act or omission of the person; AND (b) the person took reasonable action to mitigate, or mitigate the effects of, those circumstances; AND (c) having regard to the nature of those circumstances, it would be fair and reasonable to remit.",
    "statute": [
     {
      "act": "taa-1953",
@@ -198,8 +198,8 @@
   {
    "id": "dec-s8aag5",
    "type": "decision",
-   "label": "Are there special circumstances making remission appropriate? (s 8AAG(5))",
-   "body": "Under s 8AAG(5), the Commissioner may remit GIC if satisfied that (a) there are special circumstances because of which it would be fair and reasonable to remit all or part of the charge; or (b) it is otherwise appropriate to do so. This is a broad residual discretion that may capture exceptional or unusual situations not covered by subsections (3) or (4).",
+   "label": "Are there special circumstances making remission fair and reasonable, or is it otherwise appropriate? (s 8AAG(5))",
+   "body": "s 8AAG(5): two independent grounds — (a) there are special circumstances because of which it would be fair and reasonable to remit all or part of the charge; OR (b) it is otherwise appropriate to do so.",
    "statute": [
     {
      "act": "taa-1953",
@@ -247,7 +247,7 @@
    "id": "outcome-full",
    "type": "outcome",
    "label": "Full remission — GIC remitted entirely",
-   "body": "Where the s 8AAG(3), (4) or (5) criteria are satisfied, the Commissioner may remit the GIC in full. Full remission is more likely where the delay was caused entirely by circumstances outside the taxpayer's control and the taxpayer took reasonable mitigating action.",
+   "body": "Full remission under s 8AAG — the GIC is remitted entirely. Review of the remission decision, if needed, is via objection under Part IVC TAA 1953 (s 14ZY onwards) and then the AAT/ART.",
    "statute": [
     {
      "act": "taa-1953",
@@ -319,7 +319,7 @@
    "id": "act-review",
    "type": "action",
    "label": "Review options: objection under Part IVC then ART review",
-   "body": "A decision by the Commissioner under s 8AAG is a reviewable objection decision under Part IVC of the TAA 1953. You may lodge an objection against the decision, and if the objection is disallowed, seek review by the Administrative Review Tribunal (ART) or appeal to the Federal Court. The commentary slug review-of-penalty-remission-decisions provides further guidance.",
+   "body": "Review of a GIC remission decision: objection under Part IVC TAA 1953 (s 14ZY onwards: 4-year objection period, s 14ZW), then review by the Administrative Review Tribunal. Statutory basis: Part IVC TAA 1953; the AAT Act 1975 has been replaced by the ART Act 2025 for new applications.",
    "statute": [],
    "commentary": [
     "review-of-penalty-remission-decisions"
@@ -332,7 +332,7 @@
    "id": "end",
    "type": "end",
    "label": "GIC remission process concluded",
-   "body": "The GIC position is finalised. You may either pay the GIC as assessed, benefit from full or partial remission, or pursue review avenues if remission was refused.",
+   "body": "GIC remission process concluded. Outcome: full remission, partial remission, or refusal. If refused or partially remitted, the balance remains payable and review rights exist under Part IVC TAA 1953.",
    "statute": [],
    "commentary": [
     "general-interest-charge"
@@ -420,8 +420,8 @@
   },
   {
    "from": "outcome-full",
-   "to": "act-review",
-   "label": ""
+   "to": "end",
+   "label": "Complete"
   },
   {
    "from": "outcome-partial",

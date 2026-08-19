@@ -12,8 +12,8 @@
   {
    "id": "start",
    "type": "start",
-   "label": "A company is incorporated, or carries on business and is managed, in connection with Australia",
-   "body": "Corporate tax residency is determined by the s 6(1) ITAA 1936 definition of 'resident' for companies: a company is a resident if (a) it is incorporated in Australia, or (b) it carries on business in Australia and has its central management and control (CM&C) in Australia, or (c) its voting power is controlled by shareholders who are Australian residents. Passing ANY one test makes the company a resident taxed on worldwide income.",
+   "label": "Determine whether the company is a resident under s 6(1) ITAA 1936",
+   "body": "Corporate tax residency is determined by the s 6(1) ITAA 1936 definition of 'resident' for companies: a company is a resident if it is incorporated in Australia; or if it is not incorporated in Australia, it carries on business in Australia and has either its central management and control (CM&C) in Australia or its voting power controlled by shareholders who are Australian residents.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -31,20 +31,7 @@
     "company",
     "central management and control"
    ],
-   "rulings": [
-    {
-     "id": "TR_1992_12",
-     "title": "18 Preamble This Ruling, to the extent that it is capable of being a 'public ruling' in…"
-    },
-    {
-     "id": "TR_1993_13",
-     "title": "all contributions by the pensioner (or, where relevant, the pensioner's spouse) which…"
-    },
-    {
-     "id": "TR_1993_20",
-     "title": "Are the parts trading stock? 3 B - Multiple purpose acquisitions 5 C - Taxation treatment…"
-    }
-   ]
+   "rulings": []
   },
   {
    "id": "dec-incorporated",
@@ -63,26 +50,13 @@
    "definitions": [
     "incorporated in Australia"
    ],
-   "rulings": [
-    {
-     "id": "TR_1993_26",
-     "title": "provided we are not prevented from doing so by a time limit imposed by the law). You will…"
-    },
-    {
-     "id": "TR_1993_27",
-     "title": "overdrafts, term loans, personal and other loans; - interest bearing deposits; - and…"
-    },
-    {
-     "id": "TR_1993_28",
-     "title": "BO NOR J5/190/1-3 NOR J5/186/3-1 ISSN 1039 - 0731"
-    }
-   ]
+   "rulings": []
   },
   {
    "id": "dec-cmc",
    "type": "decision",
-   "label": "Does the company carry on business in Australia AND have its central management and control in Australia?",
-   "body": "Both limbs must be satisfied. CM&C is the highest level of control — where the company's strategic decisions are made and where the directors actually exercise their powers, not where the day-to-day operations occur. Koitaki Para Rubber Estates Ltd v FCT (1941) 64 CLR 241: company incorporated in Papua held a resident because its directors met and controlled the company from Sydney. Harding v FCT [2019] FCAFC 29: a single director who operated from Australia could make the company a resident — substance over form, looking at where the real decision-making occurs.",
+   "label": "Is the company's central management and control in Australia?",
+   "body": "Central management and control (CM&C) is the highest level of control — where the company's strategic decisions are made and where the directors actually exercise their powers, not where day-to-day operations occur. Koitaki Para Rubber Estates Ltd v FCT (1941) 64 CLR 241: company incorporated in Papua was held a resident because its directors met and controlled the company from Sydney.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -99,37 +73,18 @@
      "citation": "1941_HCA_13",
      "title": "Koitaki Para Rubber Estates Ltd v Federal Commissioner of Taxation",
      "court": "HCA"
-    },
-    {
-     "citation": "2019_FCAFC_29",
-     "title": "Harding v Commissioner of Taxation",
-     "court": "FCAFC"
     }
    ],
    "definitions": [
-    "central management and control",
-    "carries on business in Australia"
+    "central management and control"
    ],
-   "rulings": [
-    {
-     "id": "TR_1993_32",
-     "title": "division of net income or loss between co-owners Please note that the PDF version is the…"
-    },
-    {
-     "id": "TR_1993_35",
-     "title": "0731 Related Rulings/Determinations: TD 92/168 TD 93/103 IT 2365 TR 2006/10"
-    },
-    {
-     "id": "TR_1993_36",
-     "title": "See IT 2536. Previously released in draft form as TR 92/D32 References ATO references: NO…"
-    }
-   ]
+   "rulings": []
   },
   {
    "id": "dec-voting",
    "type": "decision",
-   "label": "Is the company's voting power controlled by shareholders who are Australian residents?",
-   "body": "The third limb: a company whose voting power is controlled by shareholders who are residents of Australia is itself a resident — even if incorporated and managed offshore.",
+   "label": "Is the voting power of the company controlled by shareholders who are Australian residents (applicable only where the company carries on business in Australia)?",
+   "body": "The third limb under s 6(1)(b): a company that is not incorporated in Australia but carries on business in Australia is a resident if its voting power is controlled by shareholders who are Australian residents. This limb only applies after the carries-on-business precondition is satisfied. If the company does not carry on business in Australia, the voting-power test is not reached and the company is non-resident regardless of who controls its voting power.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -142,20 +97,7 @@
    "definitions": [
     "voting power"
    ],
-   "rulings": [
-    {
-     "id": "TR_1993_37",
-     "title": "Defence Force personnel on overseas postings Please note that the PDF version is the…"
-    },
-    {
-     "id": "TR_1993_38",
-     "title": "an 'insurer' is an insurance company that enters into contracts of insurance; - an…"
-    },
-    {
-     "id": "TR_1993_40",
-     "title": "a class A and class B franked amount. Broadly, the two classes reflect tax paid at…"
-    }
-   ]
+   "rulings": []
   },
   {
    "id": "outcome-resident",
@@ -188,7 +130,7 @@
     {
      "act": "itaa-1936",
      "section": "340",
-     "title": "Interpretation"
+     "title": "Controlled foreign company (CFC)"
     }
    ],
    "commentary": [],
@@ -225,26 +167,13 @@
    "definitions": [
     "Australian resident"
    ],
-   "rulings": [
-    {
-     "id": "TR_1995_25",
-     "title": "for example, where a business makes a large borrowing to fund an offshore acquisition.…"
-    },
-    {
-     "id": "TR_1997_11",
-     "title": "artificial breeding services; * Income Tax Ruling IT 2006 - kelp harvesting; * Taxation…"
-    },
-    {
-     "id": "TR_1998_1",
-     "title": "0731 Related Rulings/Determinations: TR 93/27 TR 93/28 TR 94/32"
-    }
-   ]
+   "rulings": []
   },
   {
    "id": "dec-dta",
    "type": "decision",
    "label": "DTA TIE-BREAKER — Is the company a dual resident under the applicable DTA?",
-   "body": "If the company is a resident under Australian domestic law and a treaty partner's domestic law, the DTA tie-breaker (e.g., AU-UK Article 4, AU-US Article 4) resolves it: the company is treated as a resident only of the country where its place of effective management (POEM) is situated.",
+   "body": "If the company is a resident under Australian domestic law AND also a resident of a treaty partner country under that country's domestic law, the applicable double tax agreement (DTA) tie-breaker resolves the dual residency. The tie-breaker typically looks to the company's place of effective management (POEM). This only applies to companies that are Australian residents under the domestic s 6(1) test.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -258,20 +187,7 @@
     "place of effective management",
     "dual resident"
    ],
-   "rulings": [
-    {
-     "id": "TR_1994_11",
-     "title": "what is a unit of property? Please note that the PDF version is the authorised…"
-    },
-    {
-     "id": "TR_1994_14",
-     "title": "some basic concepts underlying the operation of Division 13 and some circumstances in…"
-    },
-    {
-     "id": "TR_1994_25",
-     "title": "0731 Related Rulings/Determinations: TR 94/26"
-    }
-   ]
+   "rulings": []
   },
   {
    "id": "end",
@@ -282,6 +198,25 @@
    "commentary": [],
    "cases": [],
    "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-carries-business",
+   "type": "decision",
+   "label": "Does the company carry on business in Australia?",
+   "body": "Under s 6(1)(b) ITAA 1936, a company that is not incorporated in Australia must carry on business in Australia before either the CM&C test or the voting-power test can make it a resident. If the company does not carry on business in Australia, it is a foreign resident regardless of where its management or shareholders are located.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "6",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "carries on business in Australia"
+   ],
    "rulings": []
   }
  ],
@@ -295,21 +230,6 @@
    "from": "dec-incorporated",
    "to": "outcome-resident",
    "label": "Yes — incorporated in Australia"
-  },
-  {
-   "from": "dec-incorporated",
-   "to": "dec-cmc",
-   "label": "No — not incorporated in Australia"
-  },
-  {
-   "from": "dec-cmc",
-   "to": "outcome-resident",
-   "label": "Yes — carries on business AND CM&C in Australia (Koitaki, Harding)"
-  },
-  {
-   "from": "dec-cmc",
-   "to": "dec-voting",
-   "label": "No — either limb fails"
   },
   {
    "from": "dec-voting",
@@ -342,19 +262,49 @@
    "label": "s 995-1 cross-reference"
   },
   {
-   "from": "outcome-foreign",
-   "to": "interaction-995",
-   "label": "s 995-1 cross-reference"
-  },
-  {
    "from": "interaction-995",
    "to": "dec-dta",
    "label": "Dual resident? Apply tie-breaker"
   },
   {
+   "from": "dec-incorporated",
+   "to": "dec-carries-business",
+   "label": "No — not incorporated in Australia"
+  },
+  {
+   "from": "dec-carries-business",
+   "to": "outcome-foreign",
+   "label": "No — does not carry on business in Australia"
+  },
+  {
+   "from": "dec-carries-business",
+   "to": "dec-cmc",
+   "label": "Yes — carries on business in Australia"
+  },
+  {
+   "from": "dec-cmc",
+   "to": "outcome-resident",
+   "label": "Yes — central management and control in Australia (Koitaki)"
+  },
+  {
+   "from": "dec-cmc",
+   "to": "dec-voting",
+   "label": "No — central management and control not in Australia"
+  },
+  {
    "from": "dec-dta",
    "to": "end",
-   "label": "Residency resolved"
+   "label": "Yes — tie-breaker applies: treat as treaty-country resident"
+  },
+  {
+   "from": "dec-dta",
+   "to": "end",
+   "label": "No — not a dual resident: remain Australian resident"
+  },
+  {
+   "from": "outcome-foreign",
+   "to": "end",
+   "label": "Foreign resident determination complete"
   }
  ],
  "short": "Company tax residency",

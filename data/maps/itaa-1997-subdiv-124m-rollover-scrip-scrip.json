@@ -116,18 +116,13 @@
   {
    "id": "dec-arrangement",
    "type": "decision",
-   "label": "Is the exchange in consequence of a single arrangement that results in 80%+ ownership (or is a takeover bid / scheme of arrangement)?",
-   "body": "The arrangement must result in an acquiring entity that is not a member of a wholly-owned group becoming the owner of 80% or more of the voting shares in the original entity, or a member of such a group increasing its percentage (s 124-780(2)(a)); all owners of voting shares (except the acquiring company) must be able to participate (2)(b); and participation must be on substantially the same terms for all owners of interests of a particular type (2)(c). Alternatively the arrangement can be a takeover bid under the Corporations Act or a compromise/arrangement approved by a court under Part 5.1 (s 124-780(2A)).",
+   "label": "Is the exchange in consequence of a single arrangement that results in 80%+ ownership of voting shares (s 124-780(2)(a))? (A compliant takeover bid or court-approved Part 5.1 arrangement under s 124-780(2A) must also satisfy the 80% test)",
+   "body": "The arrangement must satisfy s 124-780(2)(a): an acquiring entity (not a member of a wholly-owned group) becomes the owner of 80% or more of the voting shares in the original entity, or a member of such a group increases its percentage. All owners of voting shares (except the acquiring company) must be able to participate (s 124-780(2)(b)), and participation must be on substantially the same terms for all owners of interests of a particular type (s 124-780(2)(c)).\n\nAlternatively, under s 124-780(2A), the arrangement must satisfy paragraph (2)(a) (the 80%+ test) AND be one or more of:\n• a takeover bid under the Corporations Act 2001 not carried out in contravention of the provisions mentioned in s 612(a)-(g) of that Act; or\n• a compromise or arrangement under Part 5.1 of the Corporations Act 2001 approved by court order for the purposes of paragraph 411(4)(b) of that Act.\n\nIMPORTANT: The 80%+ ownership test in s 124-780(2)(a) is always required — the takeover bid or scheme of arrangement is an additional qualifier, not a substitute.",
    "statute": [
     {
      "act": "itaa-1997",
      "section": "124-780",
-     "title": ""
-    },
-    {
-     "act": "itaa-1997",
-     "section": "124-780",
-     "title": ""
+     "title": "Replacement of shares"
     }
    ],
    "commentary": [
@@ -152,8 +147,8 @@
   {
    "id": "dec-conditions",
    "type": "decision",
-   "label": "Are the roll-over conditions met (post-CGT acquisition, gain would arise, replacement entity, choice made)?",
-   "body": "The conditions (s 124-780(3)): you acquired the original interest on or after 20 September 1985; apart from the roll-over you would make a capital gain from a CGT event in relation to it; the replacement interest is in the acquiring entity or the ultimate holding company of the wholly-owned group; you choose the roll-over (jointly with the replacement entity, with written notice of your cost base, where s 124-782 applies); and no member of the group issues equity or owes new debt to non-members in relation to the replacement interest.",
+   "label": "Are the roll-over conditions (a)-(d) met? (post-CGT acquisition, gain would arise, replacement entity, choice)",
+   "body": "The conditions (s 124-780(3)(a)-(d)): (a) You acquired the original interest on or after 20 September 1985; (b) Apart from the roll-over, you would make a capital gain from a CGT event in relation to it; (c) The replacement interest is in the acquiring entity or the ultimate holding company of the wholly-owned group; (d) You choose the roll-over (jointly with the replacement entity where s 124-782 applies).\n\nConditions (e) and (f) are checked separately in the next step.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -187,7 +182,7 @@
    "id": "dec-arm-length",
    "type": "decision",
    "label": "If you and the acquiring entity did not deal at arm's length: are the additional conditions met?",
-   "body": "Where the parties did not deal at arm's length and neither the original nor replacement entity had at least 300 members, or you were all in the same linked group, the additional conditions apply (s 124-780(4)-(5)): the market value of your capital proceeds must be at least substantially the same as the market value of your original interest, and the replacement interest must carry the same kind of rights and obligations as the original. Section 124-810 deals with when a company is not regarded as having 300 members.",
+   "body": "Where the parties did not deal at arm's length and either:\n(a) Neither the original entity nor the replacement entity had at least 300 members (or beneficiaries for trusts) just before the arrangement started; or\n(b) The original interest holder, the original entity AND an acquiring entity were all members of the same linked group just before that time (s 124-780(4)(b)).\n\nThe additional conditions (s 124-780(5)) are:\n• The market value of your capital proceeds for the exchange is at least substantially the same as the market value of your original interest; and\n• Your replacement interest carries the same kind of rights and obligations as those attached to your original interest.\n\nNote: The three entities in s 124-780(4)(b) are: the original interest holder, the original entity, and an acquiring entity. Section 124-810 deals with when a company or trust is not regarded as having 300 members/beneficiaries.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -258,8 +253,8 @@
   {
    "id": "choice",
    "type": "action",
-   "label": "Choose the roll-over (jointly with the replacement entity where s 124-782 applies)",
-   "body": "The choice is made under s 103-25. Where s 124-782 applies, you and the replacement entity jointly choose, and you must inform the replacement entity in writing of the cost base of your original interest just before the CGT event. The acquiring entity then takes over the cost base (s 124-782(1)) or, for cancelled interests, the cost base is reasonably allocated to the new interests (s 124-782(2)-(4)).",
+   "label": "Make the roll-over choice (election under s 103-25; jointly with replacement entity where s 124-782 applies)",
+   "body": "The choice is the election to obtain the roll-over, made under s 103-25. This is a separate step from the eligibility conditions tested above.\n\nWhere s 124-782 applies (you are a significant stakeholder or common stakeholder for the arrangement), you and the replacement entity must jointly choose, and you must inform the replacement entity in writing of the cost base of your original interest just before the CGT event. The acquiring entity then takes over the cost base (s 124-782(1)) or, for cancelled interests, the cost base is reasonably allocated to the new interests (s 124-782(2)-(4)).\n\nIf you do not choose the roll-over, the exchange is taxed as a normal CGT event A1.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -456,6 +451,179 @@
      "title": "spending money in order to generate business in a market segment that the bank considered…"
     }
    ]
+  },
+  {
+   "id": "dec-precgt",
+   "type": "decision",
+   "label": "Was the original interest acquired before 20 September 1985 (pre-CGT)?",
+   "body": "Section 124-780(3)(a) requires the original interest to be acquired on or after 20 September 1985. If the interest was acquired before that date (pre-CGT), the roll-over under s 124-780 does not apply to that interest. Instead, the cost base of the replacement interest is its market value just after acquisition, reduced by any K6 gain disregarded under s 124-800(2). CGT event K6 (s 104-230) may apply to pre-CGT shares in a company exchanged for replacement shares.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-780",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-800",
+     "title": "Interest received for pre-CGT interest"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-230",
+     "title": "CGT event K6"
+    }
+   ],
+   "commentary": [
+    "scrip-for-scrip-cgt-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "pre-cgt asset",
+    "cost base",
+    "market value"
+   ],
+   "rulings": [
+    {
+     "id": "TR_2004_18",
+     "title": ""
+    },
+    {
+     "id": "TR_2006_14",
+     "title": ""
+    },
+    {
+     "id": "TD_2001_14",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "id": "dec-cufs",
+   "type": "decision",
+   "label": "Is the interest a Chess Unit of Foreign Security (CUFS)?",
+   "body": "Under s 124-780(6), this section applies to the holder of a Chess Unit of Foreign Security as if the holder held the underlying interests that the unit represents. A CUFS is an interest, traded on the stock market operated by ASX Limited, in a foreign share, unit or interest. If the interest is a CUFS, the roll-over analysis proceeds by treating the holder as holding the underlying shares/interests directly.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-780",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "scrip-for-scrip-cgt-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt asset",
+    "share",
+    "unit"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-conditions-ef",
+   "type": "decision",
+   "label": "Are the additional conditions in s 124-780(3)(e)-(f) satisfied? (written notification of cost base; no additional equity/debt to non-members)",
+   "body": "Section 124-780(3) contains six conditions. In addition to the conditions checked previously (post-CGT acquisition, gain, replacement entity, choice), paragraphs (e) and (f) also must be satisfied:\n\n(e) If s 124-782 applies (the holder is a significant stakeholder or common stakeholder), the original interest holder must inform the replacement entity in writing of the cost base of its original interest worked out just before the CGT event happened in relation to it.\n\n(f) If an acquiring entity is a member of a wholly-owned group, no member of the group may issue equity (other than a replacement interest), or owe new debt, under the arrangement to an entity that is not a member of the group in relation to the issuing of the replacement interest.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-780",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-782",
+     "title": "Transfer or allocation of cost base"
+    }
+   ],
+   "commentary": [
+    "scrip-for-scrip-cgt-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "wholly-owned group"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-trust-arrangement",
+   "type": "decision",
+   "label": "For trust unit exchanges: does the arrangement satisfy s 124-781(2) conditions? (80%+ trust voting interests, participation, same terms)",
+   "body": "Where the exchange involves trust interests (units or options/rights in a trust), s 124-781 applies instead of s 124-780 for the arrangement conditions. Under s 124-781(1)(b), entities must have fixed entitlements to all of the income and capital of both the original trust and the acquiring trust.\n\nSection 124-781(2) requires the arrangement to:\n(a) Result in the acquiring entity owning 80% or more of the trust voting interests in the original entity, or if none, 80% or more of the units or other interests; (b) Allow at least all owners of trust voting interests (or units/other interests) in the original entity (except the acquiring entity) to participate; (c) Make participation available on substantially the same terms for all owners of interests of a particular type.\n\nSection 124-781(2A) provides an alternative for takeover bids (without the Part 5.1 compromise option available for shares under s 124-780(2A)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-781",
+     "title": "Replacement of trust interests"
+    }
+   ],
+   "commentary": [
+    "scrip-for-scrip-cgt-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "trust voting interest",
+    "unit",
+    "fixed entitlement"
+   ],
+   "rulings": [
+    {
+     "id": "PCG_2016_16",
+     "title": "Compliance approach 23 Discretion to treat interest as a fixed entitlement"
+    }
+   ]
+  },
+  {
+   "id": "dec-trust-conditions",
+   "type": "decision",
+   "label": "For trust unit exchanges: are the s 124-781(3) conditions met? (post-CGT, gain, choice, written notification)",
+   "body": "Section 124-781(3) conditions for trust interest exchanges:\n(a) You acquired the original interest on or after 20 September 1985;\n(b) Apart from the roll-over, you would make a capital gain from a CGT event;\n(c) You choose the roll-over (jointly with the trustee of the acquiring entity where s 124-782 applies);\n(d) If s 124-782 applies, you inform the trustee in writing of the cost base of your original interest.\n\nSection 124-781(4) applies additional arm's length conditions (market value test, same rights and obligations) where the original interest holder and the trustee of the acquiring entity did not deal at arm's length and neither trust had at least 300 beneficiaries.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-781",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "scrip-for-scrip-cgt-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "cost base",
+    "capital gain"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-trust-or-share",
+   "type": "decision",
+   "label": "Does the exchange involve trust interests or shares?",
+   "body": "The scrip for scrip roll-over covers both company shares (s 124-780) and trust interests (s 124-781). Different conditions apply to each. If the exchange involves trust interests, the s 124-781 requirements must be satisfied. If the exchange involves shares, the s 124-780 requirements apply.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "124-780",
+     "title": ""
+    },
+    {
+     "act": "itaa-1997",
+     "section": "124-781",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "scrip-for-scrip-cgt-roll-over"
+   ],
+   "cases": [],
+   "definitions": [
+    "share",
+    "unit"
+   ],
+   "rulings": []
   }
  ],
  "edges": [
@@ -463,11 +631,6 @@
    "from": "start",
    "to": "interaction-cgt-events",
    "label": "CGT event arises"
-  },
-  {
-   "from": "trigger-event",
-   "to": "dec-arrangement",
-   "label": "shares→shares or units→units"
   },
   {
    "from": "dec-arrangement",
@@ -478,11 +641,6 @@
    "from": "dec-arrangement",
    "to": "no-rollover",
    "label": "arrangement fails"
-  },
-  {
-   "from": "dec-conditions",
-   "to": "dec-arm-length",
-   "label": "conditions met"
   },
   {
    "from": "dec-conditions",
@@ -540,19 +698,79 @@
    "label": ""
   },
   {
-   "from": "dec-partial",
-   "to": "outcome-precgt",
-   "label": "pre-CGT interest exchanged"
-  },
-  {
-   "from": "interaction-cgt-events",
-   "to": "trigger-event",
-   "label": "CGT event A1/E1/E2 triggered"
-  },
-  {
    "from": "interaction-cgt-events",
    "to": "no-rollover",
    "label": "no CGT event arises"
+  },
+  {
+   "from": "trigger-event",
+   "to": "dec-precgt",
+   "label": "exchange occurs"
+  },
+  {
+   "from": "dec-precgt",
+   "to": "outcome-precgt",
+   "label": "pre-CGT interest (acquired before 20 Sep 1985)"
+  },
+  {
+   "from": "interaction-cgt-events",
+   "to": "dec-cufs",
+   "label": "CGT event A1/E1/E2 triggered"
+  },
+  {
+   "from": "dec-cufs",
+   "to": "trigger-event",
+   "label": "CUFS (treated as underlying) / not a CUFS"
+  },
+  {
+   "from": "dec-conditions",
+   "to": "dec-conditions-ef",
+   "label": "conditions (a)-(d) met"
+  },
+  {
+   "from": "dec-conditions-ef",
+   "to": "dec-arm-length",
+   "label": "conditions (e)-(f) satisfied"
+  },
+  {
+   "from": "dec-conditions-ef",
+   "to": "no-rollover",
+   "label": "conditions (e)-(f) failed"
+  },
+  {
+   "from": "dec-precgt",
+   "to": "dec-trust-or-share",
+   "label": "post-CGT interest"
+  },
+  {
+   "from": "dec-trust-or-share",
+   "to": "dec-arrangement",
+   "label": "shares / options in a company"
+  },
+  {
+   "from": "dec-trust-or-share",
+   "to": "dec-trust-arrangement",
+   "label": "units / options in a trust"
+  },
+  {
+   "from": "dec-trust-arrangement",
+   "to": "dec-trust-conditions",
+   "label": "trust arrangement conditions met"
+  },
+  {
+   "from": "dec-trust-arrangement",
+   "to": "no-rollover",
+   "label": "trust arrangement fails"
+  },
+  {
+   "from": "dec-trust-conditions",
+   "to": "dec-arm-length",
+   "label": "trust conditions met"
+  },
+  {
+   "from": "dec-trust-conditions",
+   "to": "no-rollover",
+   "label": "trust conditions failed"
   }
  ],
  "short": "Scrip for scrip roll-over",

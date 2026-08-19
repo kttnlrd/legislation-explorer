@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1997-s8-1-general-deductions",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 10,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 10 review issues applied. Fixes: (1) removed positive→no-nexus edge; (2) added specific-deductible node + Yes edge; (3) reframed private-denied/exempt-denied to highlight apportionment; (4) corrected bribes ref s26-20→s26-52 in statute-bar & facet-denials (CRITICAL); (5) corrected blackhole ref s25-110→s40-880 in capital-denied (CRITICAL); (6) added Div 35 signpost to statute-bar; (7) moved facet-employee edge from business→positive; (8) removed FCT v Day citation from private node; (9) rephrased specific node body per s8-5/s8-10; (10) added s8-1(3) note to deductible. Validation (a-e): all pass. Map: 20n/22e."
+}

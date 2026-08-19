@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1936-part-x-cfc-attribution",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 7,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "AIT-pass no longer routes to 'no attribution' — added dec-limited-amounts (FIF/trust/regulation) with only-none path to end; added dec-residence-change (s 456(2)/457) with precise (a)/(b) alternatives; s 372(1)(b) surplus condition + (2) lesser-of rule + (4) trust payments in outcome-distribution; contradictory no-attribution node renamed attribution-applies."
+}

@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1936-div-7a-payments-loans-forgiven-debts",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 12,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "All 12 review issues applied. Critical fixes: (1) Added dec-forgiven-debt-rules node for s 109F(3)-(8) forgiveness pathways and dec-forgiven-debt-s109g for s 109G exception with proper branches to end-no-dividend. (2) Converted commissioner-discretion from action to decision with three branches (disregard→end-no-dividend, allow franking→family-law-franking, no decision→end-deemed-dividend). Major fixes: (3) Added dec-payment-s109c3 for s 109C(3) payment definition/(3A)/(4) and dec-payment-cgt-concession for s 152-325(11) carve-out. (4) Split Subdivision D exceptions into 6 individual decision nodes (s109j through s109na) in chain. (5) Moved interposed-entities to trigger/nexus stage. (6) Moved trust-upe-limb to parallel trigger before deemed-dividend-amount with yes/no branches. (7) Converted family-law-franking to decision with yes/no. (8) Restructured overall flow: trigger→interposed entities→shareholder/associate→(payment/loan/forgiven branches)→exceptions→amount→amalgamated→surplus→franking→trust UPE→comm discretion→family law→end. Minor fixes: (9) Added lodgment day definition (s 109D(6)) to dec-loan-repaid body. (10) Updated end-deemed-dividend label/body to reflect possible franking. (11) Added yes/no branches to dec-amalgamated-loan. (12) Added dec-payment-converted-loan for s 109D(4A). Map: 31 nodes, 51 edges. All validations (a)-(e) pass."
+}

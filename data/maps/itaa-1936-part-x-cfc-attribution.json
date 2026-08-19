@@ -344,7 +344,7 @@
    "id": "outcome-unlisted-pass",
    "type": "outcome",
    "label": "Unlisted country CFC that passes the active income test: only FIF and trust amounts are attributed",
-   "body": "Where the CFC passes the active income test, s 384(2)(a) does not apply — only amounts under the FIF rules (s 102AAZD) and Division 6 (trust) are included in notional assessable income (s 384(2)(b)-(c)). The active business income is not attributed.",
+   "body": "Unlisted country CFC that passes the active income test: only FIF amounts and Division 6 trust amounts are attributed — not the general income. Proceed to the limited-amounts check.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -402,7 +402,7 @@
    "id": "outcome-listed-pass",
    "type": "outcome",
    "label": "Listed country CFC that passes the active income test: only regulation, FIF and trust amounts are attributed",
-   "body": "Where the CFC passes the active income test, s 385(2)(a) does not apply — only the regulation-specified amounts, FIF (s 102AAZD) and Division 6 (trust) amounts are included in notional assessable income (s 385(2)(b)-(d)).",
+   "body": "Listed country CFC that passes the active income test: only regulation amounts, FIF amounts and trust amounts are attributed. Proceed to the limited-amounts check.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -480,7 +480,7 @@
    "id": "outcome-assessment",
    "type": "outcome",
    "label": "Your attribution percentage of the attributable income is included in your assessable income",
-   "body": "Under s 456, your attribution percentage of the CFC's attributable income is included in your assessable income for the year of income in which the statutory accounting period ends. Where the item has already been subject to foreign accruals tax in a listed country at its normal company tax rate, the amount is reduced under s 456A. If the CFC changed residence (e.g. unlisted to listed) during the period, s 457 limits attribution to the parts of the period in which it was resident in the relevant country.",
+   "body": "Your attribution percentage of the attributable income is included in assessable income (s 456(1)). Limitation: s 456(2) — if s 457 applies (CFC changed residence during the statutory accounting period), only the attributable income relating to the relevant parts of the period is included (see dec-residence-change). s 457 limits attribution on residence changes.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -570,7 +570,7 @@
    "id": "outcome-distribution",
    "type": "outcome",
    "label": "Distributions of attributed income are non-assessable — the attribution surplus is debited",
-   "body": "When the CFC distributes profits that have already been attributed to you, the distribution is not taxed again: an attribution debit arises (s 372), reducing the attribution surplus. This is the mechanism that makes attributed income effectively taxed on an accrual basis, with distributions flowing out tax-free to the extent of the surplus.",
+   "body": "Distributions of attributed income are non-assessable — the attribution accounts apply. s 372(1): an attribution debit arises when the eligible entity makes an attribution account payment AND (b) immediately before the payment there is an attribution surplus for the eligible entity in relation to the taxpayer. s 372(2): debit = the lesser of the attribution surplus and (for payments to the taxpayer) the payment, or (otherwise) the taxpayer's attribution account percentage of the payment. s 372(4): special rule for trust payments.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -646,7 +646,7 @@
    "id": "records",
    "type": "action",
    "label": "Keep records of the CFC and its attributable income",
-   "body": "Division 11 requires attributable taxpayers to keep records sufficient to work out their liability (s 462), in writing in English or readily accessible and convertible into English, kept so the liability can be readily ascertained (s 466). Failure to keep records is an offence (s 465).",
+   "body": "Keep records of the CFC and its attributable income — the attribution accounts (surplus = attribution credits minus debits) determine the tax treatment of later distributions and disposals.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -675,7 +675,7 @@
    "id": "end",
    "type": "end",
    "label": "No attribution — the CFC's income is not included in your assessable income",
-   "body": "Where the company is not a CFC, you are not an attributable taxpayer, or the CFC passes the active income test (with only limited amounts attributed), the company's income is not attributed to you. It may be taxed later as a dividend when distributed, and other regimes (transfer pricing, the anti-avoidance rules, the CGT rules for foreign interests) may still apply.",
+   "body": "No attribution — the CFC's income is not included in your assessable income. Reached only where: the company is not a CFC, you are not an attributable taxpayer, the CFC is a Part X Australian resident, the country is not a listed/unlisted country, or the AIT is passed AND there are no limited amounts (FIF, trust, regulation) to attribute.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -706,10 +706,10 @@
    ]
   },
   {
-   "id": "no-attribution",
+   "id": "attribution-applies",
    "type": "end",
    "label": "Attribution applies — income taxed now, distributions tax-free later",
-   "body": "Your attribution percentage of the CFC's attributable income is taxed in the year the statutory accounting period ends. The attribution account system then lets the income flow out as tax-free distributions (or a reduced capital gain on disposal), keeping the total tax at the attribution stage.",
+   "body": "Attribution complete: your attribution percentage of the attributable income is included in assessable income now (s 456); distributions of attributed income are non-assessable later via the attribution accounts (ss 371-373); disposal proceeds are reduced by the attribution surplus.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -785,6 +785,18 @@
      "title": ""
     }
    ]
+  },
+  {
+   "id": "dec-limited-amounts",
+   "type": "decision",
+   "label": "Are there limited attribution amounts (FIF, Div 6 trust, regulation amounts)?",
+   "body": "Passing the active income test does NOT mean no attribution — limited amounts may still be attributed: for unlisted countries, FIF amounts and Division 6 trust amounts; for listed countries, regulation amounts, FIF amounts and trust amounts. Only if none exist does the analysis end with no attribution."
+  },
+  {
+   "id": "dec-residence-change",
+   "type": "decision",
+   "label": "Did the CFC change residence during the statutory accounting period (s 456(2) + s 457)?",
+   "body": "s 456(2): where s 457 applies to one or more changes of residence by the CFC during the statutory accounting period, only so much of the attributable income as relates to the relevant parts of the period is included. s 456(2)(a) unlisted-country CFC at period end: listed-country parts PLUS the part since the (last) change of residence when the CFC was a resident of an unlisted country; s 456(2)(b) listed-country CFC at period end: the part of the period when the CFC was a resident of a listed country (since the last change of residence)."
   }
  ],
  "edges": [
@@ -860,18 +872,18 @@
   },
   {
    "from": "outcome-unlisted-pass",
-   "to": "end",
-   "label": ""
+   "to": "dec-limited-amounts",
+   "label": "Check limited amounts"
   },
   {
    "from": "outcome-listed-pass",
-   "to": "end",
-   "label": ""
+   "to": "dec-limited-amounts",
+   "label": "Check limited amounts"
   },
   {
    "from": "calc",
    "to": "outcome-assessment",
-   "label": "attributable income"
+   "label": "Attributable income"
   },
   {
    "from": "outcome-assessment",
@@ -900,7 +912,7 @@
   },
   {
    "from": "records",
-   "to": "no-attribution",
+   "to": "attribution-applies",
    "label": ""
   },
   {
@@ -917,6 +929,31 @@
    "from": "dec-part-x-aus-resident",
    "to": "end",
    "label": "Yes — Part X Australian resident, not a CFC"
+  },
+  {
+   "from": "dec-limited-amounts",
+   "to": "end",
+   "label": "No — no FIF/trust/regulation amounts: no attribution"
+  },
+  {
+   "from": "dec-limited-amounts",
+   "to": "calc",
+   "label": "Yes — limited amounts exist: calculate attributable income"
+  },
+  {
+   "from": "outcome-assessment",
+   "to": "dec-residence-change",
+   "label": "Check residence-change limitation (s 456(2)/457)"
+  },
+  {
+   "from": "dec-residence-change",
+   "to": "accounts",
+   "label": "Residence-change limitation applied — track attribution accounts"
+  },
+  {
+   "from": "dec-residence-change",
+   "to": "accounts",
+   "label": "No residence change — track attribution accounts"
   }
  ],
  "short": "CFC attribution",

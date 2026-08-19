@@ -102,7 +102,7 @@
    "id": "capital-denied",
    "type": "outcome",
    "label": "Not deductible — capital (s 8-1(2)(a))",
-   "body": "Capital outgoings are excluded. Look to specific capital allowances: Div 40 depreciation, Div 43 capital works, s 25-110 blackhole expenses.",
+   "body": "Capital outgoings are excluded. Look to specific capital allowances: Div 40 depreciation, Div 43 capital works, s 40-880 business related costs (blackhole expenditure).",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -113,7 +113,7 @@
    "id": "private",
    "type": "decision",
    "label": "Negative limb (b): private or domestic nature?",
-   "body": "Excludes private/domestic outgoings (FCT v Day (2008)). Apportionment: the private portion of a mixed outgoing is not deductible. 'Inherently private' expenses (ordinary clothing, food, home-to-work travel) are excluded; the income-producing portion of e.g. a home office may be deductible if separately identifiable.",
+   "body": "Excludes private/domestic outgoings . Apportionment: the private portion of a mixed outgoing is not deductible. 'Inherently private' expenses (ordinary clothing, food, home-to-work travel) are excluded; the income-producing portion of e.g. a home office may be deductible if separately identifiable.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -132,7 +132,7 @@
    "id": "private-denied",
    "type": "outcome",
    "label": "Not deductible — private/domestic (s 8-1(2)(b))",
-   "body": "Private outgoings excluded (ordinary living costs, home-to-work travel). Apportion: separately identifiable income-producing portions remain deductible.",
+   "body": "Denied only to the extent of the private/domestic portion — apportion before concluding. Separately identifiable income-producing portions remain deductible.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -162,7 +162,7 @@
    "id": "exempt-denied",
    "type": "outcome",
    "label": "Not deductible — exempt/NANE related (s 8-1(2)(c))",
-   "body": "Denied to the extent the outgoing relates to exempt or NANE income. Apportion where the outgoing relates partly to assessable income.",
+   "body": "Denied only to the extent the outgoing relates to exempt or NANE income — apportion before concluding. Apportion where the outgoing relates partly to assessable income.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -173,7 +173,7 @@
    "id": "statute-bar",
    "type": "decision",
    "label": "Negative limb (d): does a provision prevent the deduction?",
-   "body": "Specific denial/limitation provisions. See s 12-5 for the summary list: entertainment (Div 32), penalties (s 26-5), bribes (s 26-20), non-compulsory uniforms (s 26-30), and others.",
+   "body": "Specific denial/limitation provisions. See s 12-5 for the summary list: entertainment (Div 32), penalties (s 26-5), bribes to foreign public officials (s 26-52), non-compulsory uniforms (s 26-30), and others. Note: Div 35 — non-commercial business losses (see s 8-1(1) Note) may prevent losses from non-commercial business activities being offset.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -206,7 +206,7 @@
    "id": "specific",
    "type": "decision",
    "label": "Is it a specific deduction under s 8-5 (or denied by s 8-10 no-double-deduction)?",
-   "body": "s 8-5: amounts deductible under provisions outside Div 8 are 'specific deductions' — not claimed under s 8-1 unless the provision says so. s 8-10: if two or more provisions allow a deduction for the same amount, deduct only under the most appropriate provision.",
+   "body": "s 8-5: amounts deductible under provisions outside Div 8 are 'specific deductions'. If the amount is within a specific deduction provision, it is deductible as a specific deduction; s 8-10 prevents double deduction if s 8-1 would also apply.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -230,7 +230,7 @@
    "id": "deductible",
    "type": "end",
    "label": "Deductible as a general deduction (s 8-1)",
-   "body": "Deductible to the extent it satisfies s 8-1(1) and is not excluded by s 8-1(2). Recoupment watch: insurance/indemnity recoupment may be assessable (Subdiv 20-A). GST: Div 27 adjusts deductions for input tax credits.",
+   "body": "Deductible to the extent it satisfies s 8-1(1) and is not excluded by s 8-1(2). Recoupment watch: insurance/indemnity recoupment may be assessable (Subdiv 20-A). GST: Div 27 adjusts deductions for input tax credits. s 8-1(3): General deduction defined; GST adjustment (Div 27); recoupment (Subdiv 20-A).",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -328,7 +328,7 @@
    "id": "facet-denials",
    "type": "outcome",
    "label": "FACET — Specific denial provisions (s 12-5 list)",
-   "body": "Where to look: s 12-5 summary; Div 32 entertainment (limited deduction), s 26-5 penalties, s 26-20 bribes/secret commissions, s 26-30 non-compulsory uniforms, s 26-35 leisure facility expenses, s 26-45 expenses of a strike, s 26-50(1) travel expenses where accompanied by spouse, s 26-54 political donations, s 26-55 recreational club expenses, s 26-60 (no deduction for certain legal expenses of a capital nature).",
+   "body": "Where to look: s 12-5 summary; Div 32 entertainment (limited deduction), s 26-5 penalties, s 26-52 bribes to foreign public officials, s 26-30 non-compulsory uniforms, s 26-35 leisure facility expenses, s 26-45 expenses of a strike, s 26-50(1) travel expenses where accompanied by spouse, s 26-54 political donations, s 26-55 recreational club expenses, s 26-60 (no deduction for certain legal expenses of a capital nature).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -338,6 +338,30 @@
    ],
    "commentary": [
     "limited-deduction-for-entertainment-expenses"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "specific-deductible",
+   "type": "end",
+   "label": "Deductible as a specific deduction under s 8-5 (not under s 8-1)",
+   "body": "The amount is deductible under a provision outside Division 8 (s 8-5). s 8-10 prevents double deduction if s 8-1 would also apply.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "8-5",
+     "title": "Specific deductions"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "8-10",
+     "title": "No double deductions"
+    }
+   ],
+   "commentary": [
+    "double-deductions"
    ],
    "rulings": [],
    "cases": [],
@@ -354,11 +378,6 @@
    "from": "positive",
    "to": "business",
    "label": "No — not limb (a)"
-  },
-  {
-   "from": "positive",
-   "to": "no-nexus",
-   "label": "No — no nexus"
   },
   {
    "from": "business",
@@ -431,11 +450,6 @@
    "label": "Facet: incurred"
   },
   {
-   "from": "business",
-   "to": "facet-employee",
-   "label": "Facet: employee expenses"
-  },
-  {
    "from": "capital",
    "to": "facet-repair",
    "label": "Facet: repairs"
@@ -444,6 +458,26 @@
    "from": "statute-bar",
    "to": "facet-denials",
    "label": "Facet: denial provisions"
+  },
+  {
+   "from": "specific",
+   "to": "specific-deductible",
+   "label": "Yes — deductible under a specific provision"
+  },
+  {
+   "from": "private-denied",
+   "to": "facet-apportionment",
+   "label": "Facet: apportionment"
+  },
+  {
+   "from": "exempt-denied",
+   "to": "facet-apportionment",
+   "label": "Facet: apportionment"
+  },
+  {
+   "from": "positive",
+   "to": "facet-employee",
+   "label": "Facet: employee expenses"
   }
  ],
  "short": "General deductions",

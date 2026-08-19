@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1936-s44-dividends",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 8,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 8 issues from review applied. Validation checks a-e all pass. Key changes: (1) s 6(1) dividend definition corrected to match actual statute text; (2) non-share dividend spine decision added before s 6(1) check; (3) demerger branch restructured with s 44(2) election and s 44(5) 50% business-assets test decision nodes; (4) Australian-source decision node added for non-resident path; (5) company-residence condition added for s 44(1)(c) PE path; (6) TAA 1953 act references corrected to ITAA 1936 in nonresident, other, and facet-wht nodes; (7) explicit facet nodes added for s 44(1A) and s 44(1B) deemings; (8) vague edge labels replaced with explicit yes/no conditions. Final: 31 nodes, 40 edges."
+}

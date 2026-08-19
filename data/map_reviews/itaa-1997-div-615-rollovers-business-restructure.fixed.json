@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1997-div-615-rollovers-business-restructure",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 11,
+  "issues_rejected": 2,
+  "validation": "pass",
+  "notes": "Applied 11 issues, rejected 2. Rejected reasons: Issue 8 (dec-interposed-choice): REJECTED. s 615-30(3)(b) explicitly imposes a 28-day deadline for choices under s 615-30(2) (consolidated group continuation). The review incorrectly claimed no 28-day deadline exists. The map's current wording is accurate.; Issue 9 (dec-proportionality): REJECTED suggested_fix (replacing share-count test with only MV test). s 615-20(1)(b) explicitly requires a share-count percentage test. Both s 615-20(1)(b) and s 615-20(2) are in the statute. Wording refined for precision about the denominator."
+}

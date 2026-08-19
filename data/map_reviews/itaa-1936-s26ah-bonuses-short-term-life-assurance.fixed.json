@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1936-s26ah-bonuses-short-term-life-assurance",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 7,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 7 issues applied. Fixes: (1) dec-bonus relabelled to remove unit-linked language, added dec-deemed-bonus-9 for s26AH(9) non-bonus deeming. (2) dec-loan body corrected to refer to s26AH(9)(a) not unit-linked. (3) dec-in-period updated for s26AH(13) restart and s26AH(14) transitional period (4-year). (4) dec-death-illness expanded to cover all s26AH(7)(a)-(c) exclusions plus s26AH(8) Commissioner discretion. (5) dec-premium-25 body corrected to track s26AH(13)(a)-(b) precisely. (6) action-calc qualified with s160AAB conditions and corrected s118-300 to table conditions. (7) Added nodes for s26AH(2) paid-up, s26AH(6A) non-complying super, s26AH(10) actual bonus, s26AH(12) sale/assignment. Validation: (a) all edges valid, (b) all nodes reachable, no dead ends, (c) all statute refs 200, (d) all commentary slugs valid, (e) all ruling files exist. Map grew from 15 nodes/23 edges to 20 nodes/33 edges."
+}

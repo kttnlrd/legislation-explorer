@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1997-subdiv-126a-rollover-marriage-relationship",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 7,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 7 issues applied (3 critical, 3 major, 1 minor). Key changes: (1) Added dec-qualifying-instrument decision node for qualifying instrument check with no-rollover branch. (2) Fixed dec-spouse-type to route both spouse/former spouse through same 126-A analysis, removing false current-spouse exemption. (3) Added dec-118-178-conditions decision gate for s 118-178(1)(b) post-20 Sep 1985 condition. (4) Updated outcome-company body with s 126-15(2)(a)-(c) conditions. (5) Corrected end and no-rollover bodies to remove false statements about ss 118-178/118-180 applying without prior 126-A roll-over. (6) Updated start label to imperative. Validation (a-e) passed: edges resolve, all nodes reachable, no dead ends, statute refs HTTP 200, commentary slugs exist, ruling files found."
+}

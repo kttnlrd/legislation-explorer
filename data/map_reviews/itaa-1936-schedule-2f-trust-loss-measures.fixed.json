@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1936-schedule-2f-trust-loss-measures",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 6,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "Widely held abnormal trading now uses dec-wh-50pct (failure denies, no routing to s 266-45 non-fixed alternative); Div 268 computation no longer routes to outcome-deductible (machinery only); pattern of distributions test now a pass/fail decision; s 267-40 no-threshold-group branch added; s 266-55(2) triggers enumerated; start clarifies s 266-25 applies to tax loss only."
+}

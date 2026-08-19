@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1997-cost-base-proceeds-discount",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 11,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 11 review issues applied (2 critical, 8 major, 1 minor). Critical: (1) action-reduced body corrected per s 110-55(2)-(3) - elements 1,2,4,5 same as cost base, 3rd element is balancing adjustments not ownership costs; (2) loss path rerouted through Div 112 modifications (dec-modifications). Major: action-costbase elements corrected per s 110-25(2),(5),(6),(5A),(12) with 20 Aug 1991 precondition; dec-not-in-costbase statute refs fixed from non-existent s 110-25(7)-(8) to actual s 110-38/110-40/110-45; action-reduced exclusions ss 110-55(4)-(9K) and assumption rule s 110-55(10) added; dec-gain-or-loss restructured; dec-discount-eligible split into 4 explicit conditions; dec-proceeds modifications (s 116-110, 116-35, 116-40) added. Minor: start label changed to question format. Validation: JSON parses, all edge refs valid, all nodes reachable from start, no non-terminal dead ends, 25 statute refs HTTP 200, 4 commentary slugs exist, 31 ruling file refs exist. Total nodes: 17, total edges: 23."
+}

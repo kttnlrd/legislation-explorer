@@ -14,8 +14,8 @@
   {
    "id": "start",
    "type": "start",
-   "label": "You engage in gambling activities and receive winnings",
-   "body": "Whether your gambling winnings are assessable income and your losses deductible turns on whether you are carrying on a business of gambling or gambling as a mere hobby. This is a question of fact and degree.",
+   "label": "Do you engage in gambling activities and receive winnings?",
+   "body": "Whether your gambling winnings are assessable income and your losses deductible turns on whether you are carrying on a business of gambling or gambling as a mere hobby. This is a question of fact and degree. Residency matters: s 6-5(2) includes ordinary income from ALL sources for Australian residents; s 6-5(3) limits non-residents to Australian-sourced income.",
    "statute": [],
    "commentary": [
     "betting-and-gambling-wins"
@@ -96,7 +96,7 @@
    "id": "act-assessable-wins",
    "type": "action",
    "label": "Professional: winnings are assessable as ordinary income under s 6-5",
-   "body": "Winnings derived from a gambling business are ordinary income according to ordinary concepts and included in assessable income under s 6-5(1). The winnings are of the same character as receipts from any other income-producing business activity.",
+   "body": "Winnings derived from a gambling business are ordinary income according to ordinary concepts and included in assessable income under s 6-5(1). Australian residents include income from all sources (s 6-5(2)); non-residents only from Australian sources (s 6-5(3)). Derivation: amounts applied or dealt with on your behalf are derived when applied/dealt with (s 6-5(4)). Gross winnings are the income — not the net profit.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -136,7 +136,7 @@
    "id": "act-deductible-losses",
    "type": "action",
    "label": "Professional: gambling losses are deductible under s 8-1(1)",
-   "body": "Losses and outgoings incurred in the course of carrying on a gambling business are deductible under s 8-1(1) as losses incurred in gaining or producing assessable income, or necessarily incurred in carrying on a business for that purpose. The private/domestic exclusion in s 8-1(2)(b) does not apply because the losses are business expenditure.",
+   "body": "Losses and outgoings incurred in the course of carrying on a gambling business are deductible under s 8-1(1) as losses incurred in gaining or producing assessable income, or necessarily incurred in carrying on a business. Watch the negative limbs: s 8-1(2)(d) denies deductions for amounts of a non-Australian source (subject to apportionment), and the Note to s 8-1(1) points to Div 35 (non-commercial business losses) which may defer otherwise-deductible losses where the business fails the commerciality tests.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -169,8 +169,8 @@
   {
    "id": "end-pro",
    "type": "end",
-   "label": "Professional gambler — net profit included in assessable income",
-   "body": "The net result of your gambling business (winnings minus deductible losses) is included in your assessable income. You pay income tax on the net profit from gambling as part of your ordinary income.",
+   "label": "Professional gambler — gross winnings assessable, losses deductible separately",
+   "body": "Under s 6-5, gross ordinary income (winnings) is included in assessable income; under s 8-1, deductible losses are allowed separately. The net profit is NOT itself the assessable amount — the tax result is gross winnings less deductions. Non-commercial loss rules (Div 35) may defer the losses.",
    "statute": [],
    "commentary": [
     "betting-and-gambling-wins"
@@ -277,7 +277,7 @@
    "id": "end-hobby",
    "type": "end",
    "label": "Hobby gambler — no income tax consequences from gambling",
-   "body": "As a hobby gambler, your winnings are not assessable income and your losses are not deductible. There are no net income tax implications from your gambling activities, although you must still declare any other assessable income.",
+   "body": "As a hobby gambler, your winnings are not assessable income and your losses are not deductible. There are no net income tax implications from your gambling activities, although you must still declare any other assessable income. Note: this assumes your gambling is genuinely recreational — where winnings become systematic and business-like, re-characterisation as a business is possible.",
    "statute": [],
    "commentary": [
     "prizes-and-awards"

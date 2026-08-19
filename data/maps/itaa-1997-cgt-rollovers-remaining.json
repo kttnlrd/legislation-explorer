@@ -81,7 +81,7 @@
    "id": "cat-replacement",
    "type": "decision",
    "label": "Replacement asset: what kind of original asset is being replaced?",
-   "body": "Replacement-asset roll-overs (Div 124) defer the gain when your ownership of one CGT asset ends and you acquire another (s 112-105). Common categories: statutory licences, strata title conversion, Crown leases, prospecting and mining entitlements, depreciating assets on land, water entitlements, interest realignment arrangements, or assets transferred to a company by partners.",
+   "body": "Replacement asset roll-overs (s 112-115 table): individual/trustee to wholly-owned company (item 1, ss 122-40 to 122-65); partners to wholly-owned company (item 2, ss 122-150 to 122-195); compulsory acquisition (item 4, Subdiv 124-B); statutory licences (item 5); strata title (item 6); same-company share/unit exchange (item 7); rights/options exchange (item 8); change of incorporation (item 11); Crown leases (item 12); depreciating assets (item 13); prospecting/mining (item 14); scrip-for-scrip (item 14A); trust restructure (item 14B); MDO (item 14BB); stapled interests (item 14BC); water entitlements (item 14BD); demergers (item 14C, Div 125); Div 615 interposed company / units-for-shares (items 14D/14E); securities lending (item 15, s 26BC). Eligibility conditions for each roll-over are in the cited provisions — check before applying.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -154,7 +154,7 @@
    "id": "cat-deceased",
    "type": "decision",
    "label": "Deceased estate: has a CGT asset devolved to a legal personal representative or beneficiary?",
-   "body": "Division 128 (ss 128-A, 128-B) provides roll-over treatment for CGT assets of a deceased person. Under s 128-15, when a CGT asset devolves to the legal personal representative or passes to a beneficiary, the recipient is taken to have acquired the asset on the day the person died. Any gain or loss the legal personal representative makes when the asset passes to a beneficiary is disregarded.",
+   "body": "Deceased estate: has a CGT asset devolved to a legal personal representative (LPR) or passed to a beneficiary? If no CGT asset devolved or passed, the deceased-estate roll-over analysis does not apply — normal CGT rules govern the estate.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -331,9 +331,9 @@
   },
   {
    "id": "rollover-124s",
-   "type": "action",
-   "label": "124-S: Interest realignment arrangements (s 124-1220)",
-   "body": "A roll-over is available if an interest in a mining, quarrying or prospecting right is disposed of under an interest realignment arrangement (s 124-1220 — What this Subdivision is about). Operative provisions: ss 124-1225 to 124-1250. Consequence: partial roll-over with cost base adjustments per Subdiv 124-A.",
+   "type": "outcome",
+   "label": "FACET — Subdiv 124-S is NOT in the s 112-115 replacement-asset table",
+   "body": "s 112-115 does not list Subdivision 124-S (interest realignment arrangements). Check the specific 124-S provisions directly if an interest realignment is proposed — it is not one of the table roll-overs.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -353,8 +353,8 @@
   {
    "id": "rollover-122b",
    "type": "action",
-   "label": "122-B: Partners disposing of assets to a company (s 122-120)",
-   "body": "A roll-over is available when partners in a partnership transfer a CGT asset (or all assets of a business) to a wholly-owned company, or create a CGT asset in the company (s 122-120 — What this Subdivision is about). Conditions: s 122-125 (disposal to wholly-owned company) and s 122-150 (consequences). The gain or loss is disregarded; new shares replace the partnership interest.",
+   "label": "122-B: Partners disposing of assets to a wholly-owned company (ss 122-150 to 122-195)",
+   "body": "s 112-115 item 2 (replacement asset): disposal or creation of assets by partners to a wholly-owned company — ss 122-150 to 122-195. Same-asset component: s 112-150 item 4 — transfer of a partnership CGT asset to a wholly-owned company, ss 122-200 and 122-205. Individual/trustee to wholly-owned company: s 112-115 item 1, ss 122-40 to 122-65.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -399,8 +399,8 @@
   {
    "id": "rollover-124e",
    "type": "action",
-   "label": "124-E: Exchange of shares in the same company (s 124-240)",
-   "body": "A roll-over is available if you own shares of a certain class, the company redeems or cancels all shares of that class and issues new shares in substitution (s 124-240(1)). Conditions: market value of new shares ≥ original shares just before cancellation; paid-up capital unchanged; residency or TAP requirements. Consequence: gain disregarded; new shares take the original shares' cost base.",
+   "label": "124-E: Exchange of shares in the same company OR units in the same unit trust (s 124-240)",
+   "body": "s 112-115 item 7: Subdivision 124-E covers exchange of shares in the same company OR units in the same unit trust (s 124-240).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -427,8 +427,8 @@
   {
    "id": "rollover-124f",
    "type": "action",
-   "label": "124-F: Exchange of rights or options to acquire shares (s 124-295)",
-   "body": "A roll-over is available if you own rights to acquire shares (or an option to acquire shares) and the shares are consolidated or subdivided, the company cancels the original rights/options, and issues new rights/options in substitution (s 124-295). You must receive nothing else. Consequence: gain disregarded; new rights/options inherit original cost base.",
+   "label": "124-F: Exchange of rights/options to acquire shares OR units (s 124-480)",
+   "body": "s 112-115 item 8: Subdivision 124-F covers rights or options to acquire shares in a company OR units in a unit trust.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -821,6 +821,30 @@
    "cases": [],
    "definitions": [],
    "rulings": []
+  },
+  {
+   "id": "rollover-122a-individual",
+   "type": "action",
+   "label": "122-A: Individual/trustee disposing assets to wholly-owned company (ss 122-40 to 122-65)",
+   "body": "s 112-115 item 1: disposal or creation of assets by an individual or trustee to a wholly-owned company — ss 122-40 to 122-65 (see also the separate 122-A map for disposal/creation detail)."
+  },
+  {
+   "id": "rollover-615",
+   "type": "action",
+   "label": "Div 615: Interposed company exchange / units for shares (items 14D/14E)",
+   "body": "s 112-115 item 14D: exchange of shares in one company for shares in an interposed company; item 14E: exchange of units in a unit trust for shares in a company — both under Division 615."
+  },
+  {
+   "id": "rollover-26bc",
+   "type": "action",
+   "label": "s 26BC: Securities lending arrangement disposal (item 15)",
+   "body": "s 112-115 item 15: disposal of a security under a securities lending arrangement — s 26BC (ITAA 1936)."
+  },
+  {
+   "id": "cat-deceased-no",
+   "type": "outcome",
+   "label": "No deceased-estate roll-over — normal CGT rules",
+   "body": "If no CGT asset devolved to an LPR or passed to a beneficiary, the deceased-estate roll-over path does not apply; the estate is taxed under normal CGT rules."
   }
  ],
  "edges": [
@@ -887,12 +911,12 @@
   {
    "from": "cat-replacement",
    "to": "rollover-124s",
-   "label": "mining interest realignment"
+   "label": "Interest realignment — NOTE: not in s 112-115 table"
   },
   {
    "from": "cat-replacement",
    "to": "rollover-122b",
-   "label": "partners — assets to company"
+   "label": "Partners — assets to company (ss 122-150 to 122-195)"
   },
   {
    "from": "cat-shares",
@@ -962,7 +986,7 @@
   {
    "from": "cat-deceased",
    "to": "rollover-128ab",
-   "label": "asset devolves/passes"
+   "label": "Yes — asset devolves/passes"
   },
   {
    "from": "rollover-124c",
@@ -1073,6 +1097,41 @@
    "from": "see-124m-separate",
    "to": "end-shared",
    "label": "see separate map"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-122a-individual",
+   "label": "Individual/trustee — assets to wholly-owned company (ss 122-40 to 122-65)"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-615",
+   "label": "Interposed company / units-for-shares (Div 615)"
+  },
+  {
+   "from": "cat-replacement",
+   "to": "rollover-26bc",
+   "label": "Securities lending arrangement (s 26BC)"
+  },
+  {
+   "from": "cat-deceased",
+   "to": "cat-deceased-no",
+   "label": "No — no asset devolved/passed"
+  },
+  {
+   "from": "rollover-122a-individual",
+   "to": "end-shared",
+   "label": "Roll-over applied"
+  },
+  {
+   "from": "rollover-615",
+   "to": "end-shared",
+   "label": "Roll-over applied"
+  },
+  {
+   "from": "rollover-26bc",
+   "to": "end-shared",
+   "label": "Roll-over applied"
   }
  ],
  "sort": 32

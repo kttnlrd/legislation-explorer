@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1936-s6-1-company-residency",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 8,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "Applied all 8 issues (4 critical, 1 major, 3 minor). Corrected the statutory structure from 'three standalone limbs' to the proper s 6(1)(b) cascading test: incorporated → resident; else if carries on business AND (CM&C OR voting power). Split dec-cmc into dec-carries-business + dec-cmc. Removed Harding [2019] FCAFC 29 (individual residency case). Restricted DTA tie-breaker to resident branch with two labelled exits. Fixed s 340 title to 'Controlled foreign company (CFC)'. Removed unrelated placeholder rulings from 6 nodes. Fixed start label. Added new node dec-carries-business. 11n/17e (was 10n/14e). Validation: pass (a-e)."
+}

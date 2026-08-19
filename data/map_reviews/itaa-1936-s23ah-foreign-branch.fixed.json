@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1936-s23ah-foreign-branch",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 11,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "Split income (ss 2,5,7) vs CGT (ss 3-4,6,8) spines; AIT only on income path; tainted-asset decisions explicit; listed/unlisted country decisions added for both paths; s 320 facet corrected (regulations, not DTA test); ss 9-11 extension moved to PE stage; AIT body fixed (s 432 test, not s 23AH(13))."
+}

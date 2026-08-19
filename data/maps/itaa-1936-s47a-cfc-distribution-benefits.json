@@ -7,7 +7,7 @@
  "subdivision": "",
  "compilation_no": 191,
  "compilation_date": "2026-04-01",
- "summary": "Facet map: is a CFC distribution benefit deemed a dividend under s 47A? Spine: unlisted-country CFC threshold (s 47A(1)(b)-(d), after 3 June 1990) → profits immediately before distribution (s 47A(1)(a), s 47A(15)) → eligible benefit categories — waiver (s 47A(5)-(6)), non-arm's length loan (s 47A(7)), share/right/option acquisition (s 47A(8)), property/services transfer (s 47A(10), s 47A(10A) roll-over carve-out), payment on call (s 47A(11)) → s 47A(9)/(12) exclusions (no other eligible-interest holder) with s 47A(13)-(14) recapture → deemed dividend (s 47A(1)(d)-(g)) → s 44 assessability subject to s 23AI / s 768-5 NANE (s 47A(2)). FACETS: associate definition and benefit timing (s 47A(3)-(4)), recapture (s 47A(13)-(14)), assessment machinery (s 47A(18A), (19), (20)), profits computation (s 47A(15)-(17)). Subsection coverage: s 47A(1)-(21) all mapped.",
+ "summary": "Facet map: is a CFC distribution benefit deemed a dividend under s 47A? Spine: unlisted-country CFC threshold (s 47A(1)(b)-(d), after 3 June 1990) → profits immediately before distribution (s 47A(1)(a), s 47A(15)) → eligible benefit categories — waiver (s 47A(5)-(6)), non-arm's length loan (s 47A(7)), share/unit/right/option acquisition (s 47A(8)), property/services transfer (s 47A(10), (10A) roll-over, (10)(c)-(f) carve-outs), payment on call (s 47A(11)) → s 47A(9)/(12) exclusions (no other eligible-interest holder in first company AND recipient) with s 47A(13)-(14) recapture (including (13)(ba)) → deemed dividend (s 47A(1)(d)-(g)) → s 44 assessability subject to s 23AI / s 768-5 NANE. s 47A(2) notification limitation affects s 365 and Div 770. FACETS: associate definition and benefit provider/arranger (s 47A(3)-(4)), recapture (s 47A(13)-(14)), assessment machinery (s 47A(18A), (19), (20)), profits computation (s 47A(15)-(17)), partnership/trust reduction (s 47A(18)), amendment (s 47A(18B)). Subsection coverage: s 47A(1)-(21) mapped (incl ss (18), (18B), (21) definitions).",
  "nodes": [
   {
    "id": "start",
@@ -28,9 +28,14 @@
    "rulings": [],
    "cases": [],
    "definitions": [
+    "arm's length value",
+    "eligible benefit",
+    "eligible equity interest",
+    "associated entity",
     "cfc",
-    "distribution benefit",
-    "eligible benefit"
+    "arrangement",
+    "loan",
+    "distribution benefit"
    ]
   },
   {
@@ -70,7 +75,7 @@
    "id": "profits",
    "type": "decision",
    "label": "Does the company have profits immediately before the distribution time (s 47A(1)(a))?",
-   "body": "s 47A(15): profits are computed assuming Part X (except s 47A) had applied — previously attributed income reduces distributable profits.",
+   "body": "s 47A(15): profits are determined assuming the company's accounts had been drawn up immediately before the distribution time. s 47A(16)-(17): amounts already included under s 44 reduce later profits to prevent double counting.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -98,7 +103,7 @@
    "id": "benefit",
    "type": "decision",
    "label": "Is the benefit a distribution benefit within s 47A(3)-(14)?",
-   "body": "s 47A(3): an eligible benefit provided to an associated entity (or to an entity that becomes an associate), subject to ss (9)/(12). The eligible benefit categories are ss (5), (7), (8), (10), (11).",
+   "body": "s 47A(3): a distribution benefit requires an eligible benefit where ALL of: (a) provided to an associated entity (or entity that becomes associated); (b) provided by the first company OR by an arranger under an arrangement with the first company; (c) if (b)(ii) applies — the first company made or undertook arrangement transfers attributable to the benefit. Eligible benefit categories: ss (5) waiver, (7) loan, (8) share/unit acquisition, (10) property/services transfer, (11) payment on call. Subject to ss (9)/(12) exclusions.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -115,7 +120,7 @@
    "id": "waiver",
    "type": "decision",
    "label": "Is it a waiver/release of an obligation (s 47A(5))?",
-   "body": "s 47A(5): waiving or releasing an obligation to pay/repay is an eligible benefit. s 47A(6): obligation includes unenforceable or conditional obligations.",
+   "body": "s 47A(5): waiving or releasing an obligation to pay or repay an amount is an eligible benefit. s 47A(6): an entity is taken to be under an obligation even if the amount is not due for payment or repayment.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -132,7 +137,7 @@
    "id": "loan",
    "type": "decision",
    "label": "Or a non-arm's length loan (s 47A(7))?",
-   "body": "s 47A(7): a loan is an eligible benefit where the parties are not at arm's length, or a purpose is to enable the recipient to acquire property/services from the provider or an associate.",
+   "body": "s 47A(7): a loan is an eligible benefit where (a) the parties are not at arm's length in relation to the loan, or (b) a purpose was to facilitate a dividend that would be non-assessable non-exempt income under s 768-5, or (c) a purpose was to facilitate the provision of an eligible benefit that is a distribution benefit in relation to any company.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -149,7 +154,7 @@
    "id": "shares",
    "type": "decision",
    "label": "Or a share/right/option acquisition (s 47A(8))?",
-   "body": "s 47A(8): acquiring a share, right or option from the company is an eligible benefit — subject to the s 47A(9) exclusion (no other eligible-interest holder).",
+   "body": "s 47A(8): (a) acquiring a share, right or option from a COMPANY is an eligible benefit; (b) acquiring a unit, right or option from the TRUSTEE of a UNIT TRUST is also an eligible benefit. Subject to the s 47A(9) exclusion (no other eligible-interest holder).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -166,7 +171,7 @@
    "id": "property",
    "type": "decision",
    "label": "Or a property/services transfer for inadequate consideration (s 47A(10))?",
-   "body": "s 47A(10): transferring property/services for no or inadequate consideration is an eligible benefit to the extent of the shortfall. s 47A(10A): certain CGT roll-over transfers (ss 70-30/70-110 ITAA 1997) are not within s 47A(10).",
+   "body": "s 47A(10): transferring property/services for no or inadequate consideration is an eligible benefit to the extent of the shortfall — BUT ONLY IF: (c) services do not consist of making a loan (→ test under s 47A(7)); (d) property/services not consideration for share/right/option acquisition (→ test under s 47A(8)); (e) property/services not for unit/right/option acquisition (→ s 47A(8)(b)); (f) property not a payment on a call (→ test under s 47A(11)). s 47A(10A): certain CGT roll-over transfers (ss 70-30/70-110 ITAA 1997) are excluded.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -211,7 +216,7 @@
    "id": "exclusion",
    "type": "decision",
    "label": "Do the s 47A(9)/(12) exclusions apply?",
-   "body": "s 47A(9) (shares) and (12) (calls): NOT a distribution benefit if there is no entity (other than the provider) holding an eligible equity interest in the first company, or who is an associate of such a holder. s 47A(13)-(14): recapture where the exclusion later ceases to apply.",
+   "body": "s 47A(9) (shares/units) and (12) (calls): NOT a distribution benefit if there is no entity (other than the provider) who is: (a) either the holder of an eligible equity interest in the FIRST COMPANY or an associate of such a holder; AND (b) the holder of an eligible equity interest in the RECIPIENT. s 47A(13)-(14): recapture where the exclusion later ceases to apply. NOTE: the exclusion only applies to s 47A(8) and (11) benefits.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -261,7 +266,7 @@
    "id": "assessable",
    "type": "decision",
    "label": "Assessable under s 44, or NANE under s 23AI / s 768-5?",
-   "body": "s 47A(2): included under s 44 (s 47A(2)(a)(i)) or would be apart from s 23AI / s 768-5 (s 47A(2)(a)(ii)).",
+   "body": "By virtue of s 47A(1), the deemed dividend is included under s 44 (if assessable) or would be but for s 23AI (attributed income) or s 768-5 (participation exemption) — see s 47A(2)(a). If s 23AI or s 768-5 applies, the amount is non-assessable non-exempt income (NANE).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -300,7 +305,7 @@
    "id": "facet-assoc",
    "type": "outcome",
    "label": "FACET — Distribution benefit definition and associates (s 47A(3)-(4))",
-   "body": "Where to look: s 47A(3) (benefit to an associated entity, or to an entity that becomes associated, or referable to a benefit by an associate); s 47A(4) (undertaking to make arrangement transfers — the distribution time is when the undertaking was entered into). The associate concept follows s 318 Part X.",
+   "body": "Where to look: s 47A(3)(a) — benefit to an associated entity (or entity that becomes associated); s 47A(3)(b)(i) — benefit provided by the first company OR (ii) by an arranger under an arrangement; s 47A(3)(c) — where (b)(ii) applies, the first company must have made or undertaken arrangement transfers attributable to the benefit. s 47A(4) — undertaking to make arrangement transfers: distribution time is when the undertaking was entered into. The associate concept follows s 318 Part X.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -317,7 +322,7 @@
    "id": "facet-recapture",
    "type": "outcome",
    "label": "FACET — Recapture (s 47A(13)-(14))",
-   "body": "Where to look: s 47A(13) (benefit excluded only because of ss (9)/(12) later becomes a distribution benefit when another eligible-interest holder appears); s 47A(14) (similar for benefits referable to the recipient's interest). The recapture time determines the distribution time.",
+   "body": "Where to look: s 47A(13) — benefit excluded under s 47A(9)/(12) becomes a distribution benefit at a later time when another entity holds an eligible equity interest in both the first company AND the recipient, AND if the benefit was a share/unit acquisition — the share/unit has NOT been redeemed or bought back for arm's length value (s 47A(13)(ba)). s 47A(14) — RECIPIENT provides a SECOND eligible benefit to the first company/provider/associate, and the first benefit facilitated the second benefit; with timing conditions for post-13 Sept 1990 benefits or Commissioner anti-avoidance opinion.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -351,7 +356,58 @@
    "id": "facet-profits",
    "type": "outcome",
    "label": "FACET — Profits computation (s 47A(15))",
-   "body": "Where to look: s 47A(15) — profits determined assuming Part X (except s 47A) applied; s 47A(16)-(17) — timing and eligibility mechanics for benefits across years. The deemed dividend is capped at profits (s 47A(1)(d)).",
+   "body": "Where to look: s 47A(15) — profits determined by assuming the company's accounts were drawn up immediately before the distribution time (not a Part X assumption). s 47A(16)-(17) — rules reducing later profits by amounts already included under s 44, preventing double counting across distribution times. s 47A(18) — partnership/trust later-profit reduction. The deemed dividend is capped at profits (s 47A(1)(d)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-s47a2-limitation",
+   "type": "outcome",
+   "label": "FACET — s 47A(2) notification limitation on deeming",
+   "body": "Where the deemed dividend is (or would be) included under s 44 AND the taxpayer's return was not prepared on that basis AND the taxpayer did not notify the Commissioner in writing within 12 months after year-end (s 47A(2)(b)), the deemed dividend has effect for all purposes of the Act EXCEPT s 365 and Division 770 of ITAA 1997. This limits foreign tax credit and loss carry-back consequences.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-reduction-pt",
+   "type": "outcome",
+   "label": "FACET — Partnership/trust later-profit reduction (s 47A(18))",
+   "body": "Where to look: s 47A(18) extends the s 47A(16)-(17) later-profit reduction to amounts included under s 44 through partnerships and trusts, preventing double counting when the distribution benefit flows through interposed entities.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "47A",
+     "title": "Distribution benefits — CFCs"
+    }
+   ],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
+  },
+  {
+   "id": "facet-amendment",
+   "type": "outcome",
+   "label": "FACET — Later amendment where s 47A(2) applicable (s 47A(18B))",
+   "body": "Where to look: s 47A(18A) allows assessment on the assumption s 47A(2) will not apply. s 47A(18B) — if the Commissioner later becomes aware that s 47A(2) WAS applicable, the assessment may be amended at any time despite s 170.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -422,29 +478,14 @@
    "label": "None of the categories"
   },
   {
-   "from": "waiver",
-   "to": "exclusion",
-   "label": "Eligible benefit"
-  },
-  {
-   "from": "loan",
-   "to": "exclusion",
-   "label": "Eligible benefit"
-  },
-  {
    "from": "shares",
    "to": "exclusion",
-   "label": "Eligible benefit"
-  },
-  {
-   "from": "property",
-   "to": "exclusion",
-   "label": "Eligible benefit"
+   "label": "Eligible benefit → check exclusion"
   },
   {
    "from": "call",
    "to": "exclusion",
-   "label": "Eligible benefit"
+   "label": "Eligible benefit → check exclusion"
   },
   {
    "from": "exclusion",
@@ -490,6 +531,36 @@
    "from": "profits",
    "to": "facet-profits",
    "label": "Facet: profits computation"
+  },
+  {
+   "from": "assessable",
+   "to": "facet-s47a2-limitation",
+   "label": "Facet: s 47A(2) limitation"
+  },
+  {
+   "from": "waiver",
+   "to": "deemed",
+   "label": "Eligible benefit → deemed dividend"
+  },
+  {
+   "from": "loan",
+   "to": "deemed",
+   "label": "Eligible benefit → deemed dividend"
+  },
+  {
+   "from": "property",
+   "to": "deemed",
+   "label": "Eligible benefit → deemed dividend"
+  },
+  {
+   "from": "profits",
+   "to": "facet-reduction-pt",
+   "label": "Facet: partnership/trust reduction"
+  },
+  {
+   "from": "assessable",
+   "to": "facet-amendment",
+   "label": "Facet: amendment machinery"
   }
  ],
  "short": "CFC distribution benefits",

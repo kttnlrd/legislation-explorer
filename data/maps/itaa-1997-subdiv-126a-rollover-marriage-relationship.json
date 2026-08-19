@@ -12,7 +12,7 @@
   {
    "id": "start",
    "type": "start",
-   "label": "A marriage or relationship breaks down and a CGT event happens involving you and your spouse or former spouse",
+   "label": "Determine whether a CGT event has happened involving you and your spouse/former spouse because of a relationship breakdown",
    "body": "Subdivision 126-A gives an automatic roll-over (no choice needed) where a CGT asset is transferred between spouses or former spouses because of the breakdown. It applies to individuals (s 126-5) and to companies or trustees (s 126-15) that transfer assets to a spouse or former spouse of another individual.",
    "statute": [
     {
@@ -86,10 +86,50 @@
    ]
   },
   {
+   "id": "dec-qualifying-instrument",
+   "type": "decision",
+   "label": "Was the CGT event because of a court order, approved maintenance agreement, financial agreement (including something done under one), arbitration award or binding written agreement under s 126-5(1) or s 126-15(1)?",
+   "body": "The trigger event must happen because of: (a) a court order under the Family Law Act 1975 or a State/Territory/foreign law relating to relationship breakdowns; (b) a maintenance agreement approved by a court under s 87 of the FLA or a corresponding foreign agreement; (d) something done under a financial agreement under Part VIIIA (s 90G) or corresponding foreign law; (da) something done under a Part VIIIAB financial agreement (s 90UJ) or corresponding foreign law; (e) something done under an arbitration award under s 13H of the FLA or corresponding State/Territory/foreign award; or (f) something done under a written agreement binding under State/Territory/foreign law that prevents court orders. See ss 126-5(1) (individual transferor) and 126-15(1) (company/trustee transferor). If the trigger event is not because of a qualifying instrument, there is no roll-over.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "126-5",
+     "title": "CGT event involving spouses"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "126-15",
+     "title": "CGT event involving company or trustee"
+    }
+   ],
+   "commentary": [
+    "marriage-breakdown-tax-checklist"
+   ],
+   "cases": [],
+   "definitions": [
+    "spouse",
+    "former spouse"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_47",
+     "title": "8982 Subject References: CGT event consent order court order roll-over"
+    },
+    {
+     "id": "TD_1999_48",
+     "title": "8982 Subject References: CGT asset CGT event CGT event A1 constructive trust contract…"
+    },
+    {
+     "id": "TD_1999_49",
+     "title": "8982 Subject References: de facto marriage breakdown marriage breakdown roll-over spouses…"
+    }
+   ]
+  },
+  {
    "id": "dec-spouse-type",
    "type": "decision",
-   "label": "Is the transferee a current spouse or a former spouse?",
-   "body": "The applicable relief depends on whether the transferee is a current spouse or a former spouse:\n- *Current spouse (not separated or reconciled)*: The transferor may be able to choose to disregard the gain under the *spouse transfer exemption* in ss 118-178 and 118-180 (main residence context — gain/loss disregarded entirely for a dwelling). These provisions apply to transfers to a spouse (not just former spouse) and are not limited to relationship breakdown situations.\n- *Former spouse (separated/divorced)*: The automatic roll-over under Subdivision 126-A applies to transfers to a former spouse because of a relationship breakdown (ss 126-5(1), 126-15(1)). The transferee inherits the transferor's cost base.\nThe key distinction: ss 118-178/118-180 provide an *exemption* (gain/loss disregarded entirely) but only for main residence dwellings transferred between spouses. Subdivision 126-A provides a *roll-over* (cost-base carry-over) for any CGT asset transferred to a former spouse because of a breakdown.",
+   "label": "Is the transferee the transferor's spouse or former spouse (or the spouse/former spouse of another individual for company/trustee transfers)?",
+   "body": "Section 126-5(1) requires the transferee to be the transferor's spouse or former spouse for an individual transferor. Section 126-15(1) requires the transferee to be the spouse or former spouse of another individual for company/trustee transfers. Both current spouses and former spouses qualify. If the transferee is not a spouse or former spouse, the roll-over does not apply.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -457,7 +497,7 @@
    "id": "outcome-company",
    "type": "outcome",
    "label": "Company or trustee transferor: same roll-over, plus cost base adjustments to other assets",
-   "body": "The s 126-5 consequences apply (s 126-15(1)). Where an entity (including the transferee) owned another CGT asset — shares in the company, a loan to it, or an indirect interest; or an interest/unit in the trust, a loan to the trustee, or an indirect interest — the cost base and reduced cost base of that other asset are reduced by an amount reflecting the fall in its market value because of the trigger event (s 126-15(2)-(3)). If the owner is also the transferee, the cost base is then increased by amounts included in assessable income because of the trigger event (s 126-15(4)).",
+   "body": "The s 126-5 consequences apply (s 126-15(1)). Additional cost base adjustments apply under s 126-15(2)-(4) if: (a) just before the trigger event, an entity (including the transferee) owned another CGT asset of a kind covered by the table in s 126-15(2) (shares in the company, a loan to it, or an indirect interest; or an interest/unit in the trust, a loan to the trustee, or an indirect interest); (b) the entity acquired it on or after 20 September 1985; and (c) a CGT event happens in relation to it. The cost base and reduced cost base of that other asset are reduced by an amount reflecting the fall in its market value because of the trigger event (s 126-15(3)). If the owner is also the transferee, the cost base is then increased by amounts included in assessable income because of the trigger event (s 126-15(4)).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -521,6 +561,39 @@
    "rulings": []
   },
   {
+   "id": "dec-118-178-conditions",
+   "type": "decision",
+   "label": "Did the former partner acquire the ownership interest on or after 20 September 1985, and was there a Subdivision 126-A roll-over for the earlier event?",
+   "body": "Section 118-178 applies only if all of these conditions are met: (a) you acquired an ownership interest in a dwelling from your former partner; (b) your former partner acquired the ownership interest on or after 20 September 1985; (c) there was a roll-over under Subdivision 126-A for the earlier event; (d) a later CGT event happens in relation to the ownership interest. Similarly, s 118-180 requires the company or trustee to have acquired the interest on or after 20 September 1985 and a roll-over to have been available under Subdivision 126-A. If the former partner/company acquired pre-20 September 1985, s 118-178/118-180 does not apply.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "118-178",
+     "title": "Previous roll-over under Subdivision 126-A"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "118-180",
+     "title": "Acquisition from company or trust on breakdown"
+    }
+   ],
+   "commentary": [
+    "marriage-breakdown-tax-checklist"
+   ],
+   "cases": [],
+   "definitions": [
+    "ownership interest",
+    "main residence",
+    "dwelling"
+   ],
+   "rulings": [
+    {
+     "id": "AID_2003_378",
+     "title": "Capital gains tax: main residence exemption - marriage breakdown"
+    }
+   ]
+  },
+  {
    "id": "note-main-residence",
    "type": "outcome",
    "label": "Main residence exemption: ss 118-178/118-180 apply — transferor's period of ownership and use carried over to transferee",
@@ -555,7 +628,7 @@
    "id": "end",
    "type": "end",
    "label": "Roll-over applies — the transferor's gain or loss is disregarded and cost bases re-base into the transferee",
-   "body": "The transferor's capital gain or capital loss from the trigger event is disregarded (s 126-5(4) for individuals, s 126-15(1) for companies/trustees). The transferee inherits the transferor's cost base (or pre-CGT status) and, for creation cases, the transferor's expenditure. For transfers to a current spouse involving a main residence dwelling, ss 118-178 and 118-180 carry the transferor's ownership and use history over to the transferee.",
+   "body": "The transferor's capital gain or capital loss from the trigger event is disregarded (s 126-5(4) for individuals, s 126-15(1) for companies/trustees). The transferee inherits the transferor's cost base (or pre-CGT status) and, for creation cases, the transferor's expenditure. Sections 118-178 and 118-180 can affect the transferee's main residence exemption on a later CGT event only if a Subdivision 126-A roll-over applied to the earlier event, the former partner/company acquired the interest on or after 20 September 1985, and other conditions are met.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -590,7 +663,7 @@
    "id": "no-rollover",
    "type": "end",
    "label": "No roll-over — the CGT event runs normally",
-   "body": "If the transfer is not under a qualifying instrument, the s 126-25 conditions are not met, the asset is trading stock, or title does not pass, the transferor is taxed on any capital gain from the CGT event under the usual rules (CGT event A1, s 104-10). Note: the spouse transfer exemption in ss 118-178/118-180 may still apply to current spouse transfers of a main residence dwelling, even if the 126-A roll-over is not available.",
+   "body": "If the transfer is not under a qualifying instrument, the s 126-25 conditions are not met, the asset is trading stock, title does not pass, or the transferee is not a spouse/former spouse, the transferor is taxed on any capital gain from the CGT event under the usual rules (CGT event A1, s 104-10).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -629,7 +702,7 @@
   },
   {
    "from": "trigger-event",
-   "to": "dec-spouse-type",
+   "to": "dec-qualifying-instrument",
    "label": "qualifying instrument"
   },
   {
@@ -674,7 +747,7 @@
   },
   {
    "from": "dec-cfc",
-   "to": "note-main-residence",
+   "to": "dec-118-178-conditions",
    "label": "consequences applied"
   },
   {
@@ -704,22 +777,22 @@
   },
   {
    "from": "outcome-disposal-post",
-   "to": "note-main-residence",
+   "to": "dec-118-178-conditions",
    "label": ""
   },
   {
    "from": "outcome-disposal-pre",
-   "to": "note-main-residence",
+   "to": "dec-118-178-conditions",
    "label": ""
   },
   {
    "from": "outcome-disposal-collectable",
-   "to": "note-main-residence",
+   "to": "dec-118-178-conditions",
    "label": ""
   },
   {
    "from": "outcome-creation",
-   "to": "note-main-residence",
+   "to": "dec-118-178-conditions",
    "label": ""
   },
   {
@@ -735,12 +808,32 @@
   {
    "from": "dec-spouse-type",
    "to": "dec-event-type",
-   "label": "former spouse — Subdiv 126-A roll-over path"
+   "label": "transferee is a spouse or former spouse"
+  },
+  {
+   "from": "dec-qualifying-instrument",
+   "to": "dec-spouse-type",
+   "label": "qualifying instrument"
+  },
+  {
+   "from": "dec-qualifying-instrument",
+   "to": "no-rollover",
+   "label": "not a qualifying instrument"
   },
   {
    "from": "dec-spouse-type",
+   "to": "no-rollover",
+   "label": "not a spouse or former spouse"
+  },
+  {
+   "from": "dec-118-178-conditions",
    "to": "note-main-residence",
-   "label": "current spouse — ss 118-178/118-180 exemption"
+   "label": "conditions met (post-CGT acquisition + prior 126-A roll-over)"
+  },
+  {
+   "from": "dec-118-178-conditions",
+   "to": "end",
+   "label": "pre-CGT acquisition or no 126-A roll-over"
   }
  ],
  "short": "Relationship breakdown roll-over",

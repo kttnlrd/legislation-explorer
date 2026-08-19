@@ -306,7 +306,7 @@
    "id": "dec-active-asset",
    "type": "decision",
    "label": "Is the asset a CGT asset (other than a depreciating asset) that is an active asset? (s 328-430(1)(d))",
-   "body": "The asset must be a CGT asset (not a depreciating asset) that, at the time the transfer takes effect, is: (i) if s 328-430(1)(b)(i) applies — an active asset of the small business entity; (ii) if (b)(ii) or (iii) applies — an active asset satisfying s 152-10(1A); or (iii) if (b)(iv) applies — an active asset and an interest in a partnership asset. Depreciating assets are covered separately under s 40-340(1) item 8. Active assets are defined in s 995-1 and Division 152 (excluding financial assets, and subject to the 80% threshold in the 12 months before the CGT event).",
+   "body": "s 328-430(1)(d): the asset must be a CGT asset (other than a depreciating asset) that is, at the time the transfer takes effect: (i) if the transferor is a small business entity — an active asset; (ii) if the transferor relies on an affiliate/connected entity — an active asset in relation to which s 152-10(1A) is satisfied in that income year, OR WOULD BE SATISFIED IF s 152-10(1AA)(b) WERE DISREGARDED (the statutory alternative); (iii) if the transferor is a partner — an active asset and an interest in an asset of the partnership.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -425,7 +425,7 @@
    "id": "choice",
    "type": "action",
    "label": "The transferor and each transferee choose to apply the roll-over (s 328-430(1)(f))",
-   "body": "The transferor and each transferee must choose to apply the roll-over under this Subdivision in relation to the assets transferred under the transaction. The choice must be made in the approved form by the day the entity lodges its income tax return for the income year in which the transfer occurred, or within further time allowed by the Commissioner (s 103-25). All parties must make the choice — the roll-over does not apply if any party fails to do so.",
+   "body": "The transferor and each transferee choose to apply the roll-over (s 103-25). Entities required to lodge an income tax return: by the day the return is due. Entities NOT required to lodge: by the day the return would have been due if they were required to lodge.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -670,7 +670,7 @@
    "id": "interaction-cgt-event-a1",
    "type": "outcome",
    "label": "Interaction: CGT event A1 (s 104-10) — disposal of asset",
-   "body": "Under the roll-over, any CGT event A1 that would otherwise arise on the transfer is disregarded (the transfer is treated as taking place at roll-over cost, so no capital gain or loss arises). However, if the roll-over conditions are not met, CGT event A1 applies in the usual way: the transferor makes a capital gain = capital proceeds (market value) less cost base.",
+   "body": "Interaction: CGT event A1 (s 104-10) applies to the disposal — but under the roll-over the transfer is taken to be at roll-over cost, so it PRODUCES NO CAPITAL GAIN OR LOSS (ss 328-450/328-455). The event is not disregarded; it applies with a nil result.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -801,9 +801,9 @@
   },
   {
    "id": "no-rollover",
-   "type": "end",
-   "label": "No roll-over — CGT event A1 applies normally (or alternative roll-over may be available)",
-   "body": "If any condition is not met, the Subdivision 328-G roll-over is not available. The transfer is treated as a disposal at market value under ordinary CGT rules. CGT event A1 (s 104-10) applies: the transferor makes a capital gain = capital proceeds (market value) less cost base. Consider alternative roll-overs: Division 122-A (wholly-owned company), Subdivision 124-M (scrip for scrip), Division 615 (interposed company). Depreciating assets may still qualify under s 40-340(1) item 8.",
+   "type": "outcome",
+   "label": "No roll-over — CGT event A1 applies normally (or alternative roll-overs)",
+   "body": "Roll-over not available: the failure conditions include not a genuine restructure, safe harbour not met, no party a small business entity, material change in ultimate economic ownership, non-active asset, residency requirement not met, or a disqualifying exempt entity. CGT event A1 applies normally; alternative roll-over paths may still be available.",
    "statute": [
     {
      "act": "itaa-1997",

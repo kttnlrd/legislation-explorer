@@ -134,8 +134,8 @@
   {
    "id": "dec-bonus",
    "type": "decision",
-   "label": "Is the amount received as or by way of a bonus (or a unit-value increase on a unit-linked policy)?",
-   "body": "The charging provision (s 26AH(6)) catches amounts received during the eligible period as or by way of a bonus that would otherwise not be assessable. For unit-linked policies, an increase in unit value is deemed to be a bonus (s 26AH(9)).",
+   "label": "Is the amount received as or by way of a bonus?",
+   "body": "The charging provision (s 26AH(6)) catches amounts received during the eligible period as or by way of a bonus that would otherwise not be assessable. An amount received otherwise than as or by way of a bonus may be deemed a bonus under s 26AH(9) if the Commissioner opines it represents an accrued/declared/expected bonus.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -171,8 +171,8 @@
   {
    "id": "dec-in-period",
    "type": "decision",
-   "label": "Was the amount received during the 10-year eligible period?",
-   "body": "The eligible period is the period of 10 years commencing on the date of commencement of risk (s 26AH(1)). If received after the eligible period, the bonus is not assessable under s 26AH. Note the 25% premium rule (s 26AH(13)) can restart the eligible period.",
+   "label": "Was the amount received during the eligible period (as modified by s 26AH(13) and s 26AH(14))?",
+   "body": "The eligible period is generally 10 years from the date of commencement of risk (s 26AH(1)), but: (a) if premiums increase >25%, the period re-reckons from the premium increase year for receipts after that year and before the first subsequent eligible reckoning date (s 26AH(13)); (b) for policies with date of commencement of risk on or before 7 December 1983, the eligible period is 4 years with fractions of 100%/two-thirds/one-third in years 2-4 (s 26AH(14)).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -258,9 +258,14 @@
   {
    "id": "dec-death-illness",
    "type": "decision",
-   "label": "Was the amount received in consequence of the death or illness of the insured person?",
-   "body": "Subsection (6) does not apply to amounts received in consequence of the death or illness of the insured person (s 26AH(7)(a)).",
+   "label": "Does an exclusion under s 26AH(7) or a Commissioner determination under s 26AH(8) apply?",
+   "body": "Subsection (6) does not apply if: (a) the amount is in consequence of death/illness/disability of the insured; (aa) the policy is an RSA; (b) held by trustee of complying super fund/ADF/PST; (ba) life company liabilities discharged out of complying superannuation assets or segregated exempt assets; (c) (with carve-out) the amount is from forfeiture/surrender/termination due to serious financial difficulties. Also, the Commissioner may determine it unreasonable for s 26AH(6) to apply under s 26AH(8) having regard to premiums paid, amounts received, surrender value and other matters.",
    "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "26AH",
+     "title": ""
+    },
     {
      "act": "itaa-1936",
      "section": "26AH",
@@ -276,7 +281,7 @@
    "id": "action-calc",
    "type": "action",
    "label": "Calculate the assessable portion of the bonus",
-   "body": "Full amount assessable if received in the first 8 years; two-thirds if received in the 9th year; one-third if received in the 10th year (s 26AH(6)). A 30% tax rebate applies under s 160AAB. Capital gains on surrender/maturity are disregarded to the extent s 26AH applies (s 118-300 ITAA 1997).",
+   "body": "Full amount assessable if received in the first 8 years; two-thirds if received in the 9th year; one-third if received in the 10th year (s 26AH(6)). For pre-7 Dec 1983 policies (s 26AH(14)): full in first 2 years, two-thirds in 3rd year, one-third in 4th year. A 30% rebate may apply under s 160AAB if the policy was issued by a life assurance company (or specified state insurer/friendly society with varying statutory percentages) and the amount is an 'eligible 26AH amount'. Capital gains on a policy of insurance on a life may be disregarded under s 118-300 ITAA 1997 in the table-specified situations (items 3-7) — the disregard is not tied to the extent s 26AH applies.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -310,8 +315,8 @@
   {
    "id": "dec-premium-25",
    "type": "decision",
-   "label": "Did premiums increase by more than 25% in any assurance year?",
-   "body": "If the premiums payable in an assurance year exceed those of the immediately preceding year by more than 25%, the eligible period restarts from that year for certain purposes (s 26AH(13)) — a new 10-year clock begins and the bonus may again be assessable.",
+   "label": "Did premiums increase by more than 25% in any assurance year (s 26AH(13))?",
+   "body": "If the premiums payable in an assurance year (the 'premium increase year') exceed those of the immediately preceding year by more than 25%, the eligible period is reckoned from the date of commencement of that premium increase year for: (a) amounts received after that date and before the first subsequent eligible reckoning date (if any); and (b) sales/assignments after that date and before the first subsequent eligible reckoning date (s 26AH(13)(a)-(b)). This re-reckons the eligible period for those specific receipts only — it is not a general restart of a new 10-year clock.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -385,7 +390,7 @@
    "id": "dec-loan",
    "type": "decision",
    "label": "Did you receive an advance or loan from the assurer at nil or below-arm's-length interest?",
-   "body": "An advance or loan from the assurer (or another person at the assurer's request/agreement) on which interest is not payable, or is payable below the arm's length rate, is deemed to be an amount to which s 26AH(9)(a) applies — i.e. treated as a bonus received under a unit-linked policy (s 26AH(11)).",
+   "body": "An advance or loan from the assurer (or another person at the assurer's request/agreement) on which interest is not payable, or is payable below the arm's length rate, is deemed to be an amount to which paragraph 26AH(9)(a) applies (s 26AH(11)) — i.e. it is treated as a non-bonus amount that may then be deemed a bonus under s 26AH(9).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -399,12 +404,99 @@
    "cases": [],
    "definitions": [],
    "rulings": []
+  },
+  {
+   "id": "dec-deemed-bonus-9",
+   "type": "decision",
+   "label": "Did you receive a non-bonus amount that may represent an accrued/expected bonus?",
+   "body": "Where, otherwise than as or by way of a bonus, a taxpayer receives an amount under an eligible policy and the Commissioner is of the opinion that it represents the whole or part of a bonus that has accrued/has been declared/can reasonably be expected to accrue, the amount is deemed to have been received as or by way of a bonus (s 26AH(9)). Section 26AH(10) prevents double taxation if the actual bonus is later received.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "26AH",
+     "title": ""
+    }
+   ],
+   "commentary": [
+    "bonuses-on-insurance-policies"
+   ],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-paidup-2",
+   "type": "decision",
+   "label": "Was a paid-up life assurance policy issued in lieu of this eligible policy?",
+   "body": "Where a paid-up life assurance policy is issued to a taxpayer in lieu of an eligible policy: (a) the paid-up policy is deemed to be a continuation of the eligible policy; and (b) no amount is taken under s 26AH(4) to have been reinvested in connection with the issue of the paid-up policy (s 26AH(2)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "26AH",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-noncomplying-super-6A",
+   "type": "decision",
+   "label": "Is the eligible policy held by the trustee of a non-complying superannuation fund?",
+   "body": "If the amount is received during the eligible period in relation to an eligible policy held by the trustee of a non-complying superannuation fund: (a) s 26AH(6) does not apply; and (b) the amount is included in the fund's assessable income (s 26AH(6A)).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "26AH",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-actual-bonus-10",
+   "type": "decision",
+   "label": "Was an actual bonus subsequently received after a s 26AH(9) opinion?",
+   "body": "Where s 26AH(9) applied because the Commissioner formed an opinion that part of an amount represents a bonus, and the taxpayer later receives the actual bonus: (c) the operation of s 26AH(9) is unaffected; and (d) no part of the actual bonus is included in assessable income (s 26AH(10)). This prevents double taxation.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "26AH",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "dec-sale-assignment-12",
+   "type": "decision",
+   "label": "Did you sell or assign the policy (or rights under it) during the eligible period?",
+   "body": "Where an eligible policy, or any right to receive benefits under it, is sold or assigned during the eligible period: (a) the consideration is deemed to be an amount to which s 26AH(9)(a) applies; and (b) s 26AH(9) and (10) apply as if 'is attributable to' replaced 'represents' (s 26AH(12)). The consideration is then assessed under the s 26AH(9) deemed-bonus mechanism.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "26AH",
+     "title": ""
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
   }
  ],
  "edges": [
   {
    "from": "start",
-   "to": "dec-eligible",
+   "to": "dec-paidup-2",
    "label": "hold a life assurance policy"
   },
   {
@@ -425,17 +517,7 @@
   {
    "from": "dec-received-after",
    "to": "dec-bonus",
-   "label": "Yes — received after 27 Aug 1982"
-  },
-  {
-   "from": "dec-bonus",
-   "to": "outcome-not-assessable",
-   "label": "No — not a bonus (e.g. partial surrender proceeds)"
-  },
-  {
-   "from": "dec-loan",
-   "to": "dec-in-period",
-   "label": "Yes — bonus or deemed bonus"
+   "label": "Yes — received after 27 Aug 1982 (not sale/assignment)"
   },
   {
    "from": "dec-in-period",
@@ -474,7 +556,7 @@
   },
   {
    "from": "dec-death-illness",
-   "to": "action-calc",
+   "to": "dec-noncomplying-super-6A",
    "label": "No — ordinary bonus"
   },
   {
@@ -503,19 +585,79 @@
    "label": "No s 26AH amount"
   },
   {
+   "from": "dec-paidup-2",
+   "to": "dec-eligible",
+   "label": "No — no paid-up policy issued"
+  },
+  {
+   "from": "dec-paidup-2",
+   "to": "dec-eligible",
+   "label": "Yes — paid-up policy deemed continuation of eligible policy"
+  },
+  {
+   "from": "dec-noncomplying-super-6A",
+   "to": "action-calc",
+   "label": "No — not held by non-complying super fund trustee"
+  },
+  {
+   "from": "dec-noncomplying-super-6A",
+   "to": "outcome-assessable",
+   "label": "Yes — s 26AH(6A) applies (assessable under (6A)(b))"
+  },
+  {
+   "from": "dec-received-after",
+   "to": "dec-sale-assignment-12",
+   "label": "Sale/assignment of policy or rights"
+  },
+  {
+   "from": "dec-sale-assignment-12",
+   "to": "dec-in-period",
+   "label": "During eligible period — consideration deemed s 26AH(9)(a) amount"
+  },
+  {
+   "from": "dec-sale-assignment-12",
+   "to": "outcome-not-assessable",
+   "label": "Outside eligible period — no s 26AH effect"
+  },
+  {
+   "from": "dec-bonus",
+   "to": "dec-in-period",
+   "label": "Yes — bonus"
+  },
+  {
    "from": "dec-bonus",
    "to": "dec-loan",
-   "label": "Yes — bonus or deemed bonus"
+   "label": "No — not a bonus (check if loan/advance)"
   },
   {
    "from": "dec-loan",
-   "to": "dec-in-period",
-   "label": "No — no loan/advance, or arm's length"
+   "to": "dec-deemed-bonus-9",
+   "label": "Yes — below-market loan deemed s 26AH(9)(a) amount"
   },
   {
    "from": "dec-loan",
+   "to": "dec-deemed-bonus-9",
+   "label": "No — no loan or arm's length (check s 26AH(9) general deeming)"
+  },
+  {
+   "from": "dec-deemed-bonus-9",
+   "to": "dec-actual-bonus-10",
+   "label": "Yes — deemed a bonus under s 26AH(9)"
+  },
+  {
+   "from": "dec-deemed-bonus-9",
+   "to": "outcome-not-assessable",
+   "label": "No — not a bonus or deemed bonus"
+  },
+  {
+   "from": "dec-actual-bonus-10",
    "to": "dec-in-period",
-   "label": "Yes — below-market loan deemed a bonus"
+   "label": "No — actual bonus not yet received"
+  },
+  {
+   "from": "dec-actual-bonus-10",
+   "to": "outcome-not-assessable",
+   "label": "Yes — actual bonus not assessable (s 26AH(10)(d))"
   }
  ],
  "short": "Life assurance bonuses",

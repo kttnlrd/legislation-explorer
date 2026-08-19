@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1936-pe-domestic-treaty",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 9,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 9 review issues applied. (1) Replaced s 6CA/s 3-5 erroneous DTA priority refs with International Tax Agreements Act 1953 s 4(2). (2) Removed direct inclusions→domestic-pe shortcut, added domestic-no-pe end node, exclusions→domestic-no-pe edge for exclusion-applies path. (3) Changed no-place from terminal to decision node routing to inclusions for deeming limbs. (4) Fixed exclusions body: clarified 'otherwise carries on business' carve-out applies only to (e)/(f), added (f)(ii) stock-located-in-country element, removed erroneous (g) carve-out. (5) Fixed s 6(1)(d) inclusion from 'mutual participation' to statutory 'either participates...or another participates in both'. (6) Removed shortcut edges treaty-inclusions→pe-yes and treaty-place→pe-no; treaty-no-place now routes through agency. (7) Added separate treaty-subsidiary decision node for Art 5(6) carve-out. (8) Corrected facet-attribution citation from TAA 1953 to ITAA 1936 (s 128B(2E) not found; uses general s 128B). (9) Standardized labels to imperative/question form. Validation (a)-(e): JSON parses, 23 nodes all reachable from start, no dead ends, statute refs HTTP 200, commentary slugs in index, ruling files exist."
+}

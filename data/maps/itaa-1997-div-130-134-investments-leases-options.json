@@ -13,7 +13,7 @@
    "id": "start",
    "type": "start",
    "label": "CGT asset includes shares, units, rights, options, convertible interests, or a lease — you need the special rules of Div 130, 132 or 134",
-   "body": "Part 3-3 (Divisions 130-134) contains special CGT rules for various investment assets and leases. Division 130 covers bonus shares/units, rights, convertible interests, employee share scheme interests, and exchangeable interests — mostly modifying cost base and reduced cost base. Division 132 covers lease-related cost base adjustments. Division 134 covers the CGT treatment of options on exercise.",
+   "body": "CGT asset includes shares, units, rights, options, convertible interests, exchangeable interests, exploration investments (s 130-1), ESS interests and lease-related assets. The Division modifies cost bases for these investment asset categories.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -37,7 +37,7 @@
    "id": "dec-asset-type",
    "type": "decision",
    "label": "What type of investment asset do you hold?",
-   "body": "The rules differ depending on the asset type: bonus shares/units (Subdiv 130-A), rights (Subdiv 130-B), convertible interests (Subdiv 130-C), employee share scheme interests (Subdiv 130-D), exchangeable interests (Subdiv 130-E), a lease (Div 132), or an option (Div 134). Each has its own cost base modification rules and CGT event consequences.",
+   "body": "What type of investment asset do you hold? The covered kinds under Div 130 (s 130-1) include bonus equities, rights, convertible interests, ESS interests, exchangeable interests, and exploration investments; Div 132 covers leases; Div 134 covers options.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -166,7 +166,7 @@
    "id": "bonus-public-trading-trust",
    "type": "outcome",
    "label": "Carve-out: Modifications do not apply if the unit trust is a public trading trust (s 130-20(4))",
-   "body": "The cost base modifications in s 130-20 do not apply if, for the income year in which the bonus equities are issued, the unit trust is a public trading trust within s 102R ITAA 1936.",
+   "body": "Carve-out: the s 130-20 modifications do NOT apply where the unit trust is a public trading trust — the general CGT rules apply instead.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -185,7 +185,7 @@
    "id": "rights",
    "type": "event",
    "label": "You hold or exercise rights to acquire shares, units, or options (Subdiv 130-B)",
-   "body": "Subdivision 130-B modifies the cost base rules when rights to acquire shares/units/options are exercised. It applies to both rights issued to you by the company/trust and rights acquired from another entity. Key condition: you did not pay for the rights (s 130-40(2)(a)), or you acquired them from someone who already owned the underlying equities (s 130-40(2)(b)).",
+   "body": "You hold or exercise rights to acquire shares, units, or options to acquire them (Subdiv 130-B, s 130-40). For unit trust rights: the rights must have been issued by the trustee after 28 January 1988 (s 130-40(6) opening condition). Note: rights acquired under employee share schemes go to Div 83A/Subdiv 130-D/Div 134.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -224,7 +224,7 @@
    "id": "dec-rights-paid",
    "type": "decision",
    "label": "Did you pay for the rights, or acquire them from an entity that already owned the underlying equities?",
-   "body": "Section 130-40(2): The Subdivision modifications apply only if (a) you did not pay for the rights AND when issued you already owned shares/convertible interests in the company or units/convertible interests in the unit trust (s 130-40(3)); OR (b) you acquired the rights from an entity that already owned those original equities (s 130-40(4)). If you paid for the rights and didn't acquire them from an equity-holder, Div 134 (options) applies instead.",
+   "body": "s 130-40(2): the Subdiv 130-B modifications apply only if (a) you did not pay for the rights AND the s 130-40(3) condition is satisfied, or (b) the s 130-40(4) condition is satisfied (you acquired the rights from an entity that already owned shares/units/convertible interests of the relevant kind). s 130-40(3)(a): when issued the rights you must already own shares in, or convertible interests issued by, the company OR a company that is a member of the same wholly-owned group (including a company that would cease to be a member by the exercise of the rights, s 130-40(5)); (3)(b): already own units in, or convertible interests issued by the trustee of, the unit trust.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -262,7 +262,7 @@
    "id": "rights-exercise-issued",
    "type": "action",
    "label": "Exercise rights issued to you (Item 1) — cost base = cost base of rights + exercise amount + s 130-40(6A) additions",
-   "body": "First element of cost base and reduced cost base for the shares, units or options is: (a) the cost base of the rights at time of exercise; plus (b) the amount paid to exercise (not already in (a)); plus (c) any amounts added under s 130-40(6A) (where a capital gain from the right has been reduced under s 118-20). If you acquired original equities before 20 Sept 1985 (Item 3), use market value of rights at exercise instead of cost base.",
+   "body": "Exercise rights issued to you (s 130-40 Item 1): cost base of the acquired shares/units = cost base of the original shares/units/convertible interests + any amount paid to exercise. Item 3: for original shares, convertible interests or units acquired before 20 September 1985, the first element uses market value at exercise. s 130-40(7): gains and losses from exercising rights are generally DISREGARDED. Timing: s 130-45.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -281,7 +281,7 @@
    "id": "rights-exercise-acquired",
    "type": "action",
    "label": "Exercise rights acquired from another entity (Item 2) — cost base = cost base of rights + exercise amount + additions",
-   "body": "First element of cost base and reduced cost base for the shares, units or options is: (a) the cost base of the rights at time of exercise; plus (b) any amount paid to exercise; plus (c) amounts added under s 130-40(6A). The capital gain from the rights is disregarded (s 130-40(7)).",
+   "body": "Exercise rights acquired from another entity (s 130-40 Item 2): cost base of the acquired shares/units = cost base of the original shares/units + the amount paid to acquire the rights + the exercise amount. s 130-40(7): gains and losses from exercising rights are generally disregarded. Timing: s 130-45.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -812,7 +812,7 @@
    "id": "options-div134",
    "type": "event",
    "label": "You grant or exercise an option (Div 134)",
-   "body": "Division 134 sets out the CGT consequences of exercising an option (s 134-1). It does NOT apply to: rights/options covered by Subdiv 130-B (s 134-1(5)); options over foreign currency (s 134-1(6)). The exercise of an option triggers CGT event C2 for the grantee (the option ends), but the gain/loss from exercise is disregarded (s 134-1(4)).",
+   "body": "You grant or exercise an option (Div 134). s 134-1(1) table: Item 1 (call) — option binds grantor to dispose of a CGT asset or to create (including grant or issue) a CGT asset; Item 2 (put) — option binds grantor to acquire a CGT asset. s 134-1(4): a gain/loss the grantee makes from exercising the option is DISREGARDED — EXCEPT where the grantee acquired the option under a trust restructure (Subdiv 124-N) and on exercise held the resulting asset as trading stock.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -846,8 +846,8 @@
   {
    "id": "dec-option-type",
    "type": "decision",
-   "label": "Is the option a call option (grantor disposes) or a put option (grantor acquires)?",
-   "body": "The CGT consequences differ based on whether the option binds the grantor to dispose of a CGT asset (call option — Item 1 of the table in s 134-1(1)) or to acquire a CGT asset (put option — Item 2). For call options: the grantee's cost base includes payment for the option plus exercise amount. For put options: the grantor's cost base is reduced by the option payment received.",
+   "label": "Does the option bind the grantor to dispose of/create a CGT asset (call, Item 1) or acquire one (put, Item 2)?",
+   "body": "s 134-1(1) Item 1 applies to an option binding the grantor to dispose of a CGT asset OR create (including grant or issue) a CGT asset — the grantee's first element of cost base/reduced cost base is what the grantee paid for the option (or to renew or extend it) plus any amount paid to exercise it. Item 2 (put): the grantor's first element for the asset acquired is the exercise amount reduced by any payment received for the option (or to renew or extend it); the grantee's second element includes any payment made to acquire the option (or to renew or extend it).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -910,7 +910,7 @@
    "id": "option-put",
    "type": "action",
    "label": "Put option exercised — grantor's cost base reduced by option payment received (Item 2)",
-   "body": "For the grantor: the first element of cost base and reduced cost base for the asset acquired is any amount paid to exercise the option, reduced by any payment received for the option (or to renew/extend it). For the grantee: the second element of cost base and reduced cost base for the asset includes any payment the grantee made to acquire the option.",
+   "body": "Put option exercised (Item 2): the grantor's cost base/reduced cost base first element for the asset acquired is the exercise amount reduced by any payment received for the option — including payments to renew or extend it; the grantee's second element includes any payment made to acquire the option, or to renew or extend it (s 134-1(1) Item 2).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -942,7 +942,7 @@
    "id": "option-exceptions",
    "type": "decision",
    "label": "Does the option fall within an exception to Div 134?",
-   "body": "Division 134 does NOT apply (s 134-1(5)-(6)): (a) to rights or options to which Subdiv 130-B applies (rights acquired without payment from a company/trust); (b) to options over foreign currency (disposal or acquisition of foreign currency). In these cases, the relevant special rules apply instead: Subdiv 130-B for rights, or no CGT event for foreign currency options.",
+   "body": "Exceptions to Div 134: s 134-1(6) — this Division does NOT apply to an option TO THE EXTENT it binds the grantor to dispose of or acquire foreign currency (the division is displaced only to that extent, not wholesale). Also note the pre-20 September 1985 option modification (s 134-1 transitional).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1054,7 +1054,7 @@
   {
    "from": "bonus-public-trading-trust",
    "to": "outcome-cost-base-modified",
-   "label": "Cost base modified"
+   "label": "Public trading trust — general CGT rules apply; otherwise cost base modified"
   },
   {
    "from": "rights",
@@ -1214,12 +1214,12 @@
   {
    "from": "options-div134",
    "to": "dec-option-type",
-   "label": "Call or put option?"
+   "label": "Not excepted — call or put option?"
   },
   {
    "from": "options-div134",
    "to": "option-exceptions",
-   "label": "Check if Div 134 exceptions apply"
+   "label": "First check Div 134 exceptions (s 134-1(6), pre-1985)"
   },
   {
    "from": "dec-option-type",
@@ -1250,6 +1250,11 @@
    "from": "outcome-cost-base-modified",
    "to": "end",
    "label": ""
+  },
+  {
+   "from": "option-exceptions",
+   "to": "dec-option-type",
+   "label": "No exception — apply the table"
   }
  ],
  "short": "CGT special rules",

@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1997-subdiv-124m-rollover-scrip-scrip",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 7,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 7 review issues applied. (1) dec-arrangement: label/body corrected to reflect s 124-780(2A) — 80% test always required, takeover bid/Part 5.1 are additional qualifiers. (2) outcome-precgt: moved pre-CGT check to dec-precgt node before dec-conditions, routing pre-CGT interests directly to s 124-800/K6 analysis instead of through dec-partial. (3) dec-cufs node added after interaction-cgt-events for s 124-780(6) CUFS deeming. (4) dec-conditions-ef node added splitting s 124-780(3)(e)-(f) from (a)-(d). (5) Trust branch added: dec-trust-or-share, dec-trust-arrangement, dec-trust-conditions for s 124-781 requirements. (6) dec-arm-length body updated to state three entities explicitly (holder, original entity, acquiring entity). (7) choice node reframed as election action separate from eligibility conditions. Validation: 20 nodes, 29 edges, all reachable from start, no dead ends, all statute refs HTTP 200, commentary slugs exist, ruling files exist."
+}

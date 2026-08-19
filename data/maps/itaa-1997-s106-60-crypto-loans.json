@@ -121,8 +121,8 @@
   {
    "id": "bailment-end",
    "type": "end",
-   "label": "Bailment: no CGT consequences — ownership unchanged throughout",
-   "body": "Because the lender never loses beneficial ownership, no CGT event occurs at delivery or return. If the borrower fails to return the asset, CGT event A1 may occur at the time of breach (change of ownership) or CGT event C2 (the lender's right to the asset ends).",
+   "label": "Bailment: return of identical asset — no CGT event; asset lost or not returned — CGT event may occur",
+   "body": "If the borrower returns the identical asset, no CGT event occurs — the lender's ownership is merely restored. If the borrower fails to return the asset (lost or not returned), there IS a change of ownership: CGT event A1 (s 104-10) may occur at the time of the breach, or CGT event C2 (s 104-25) may occur on the lender's right to the asset ending. The label \"no CGT consequences\" applies only to the return path.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -155,7 +155,7 @@
    "id": "title-transfer-out",
    "type": "action",
    "label": "Title-transfer loan: CGT event A1 on delivery to borrower",
-   "body": "When the lender transfers legal title to the borrower (who must return equivalent, not identical, crypto), this is a disposal — CGT event A1 happens (s 104-10(1)). The lender makes a capital gain if the capital proceeds exceed the cost base, or a capital loss if proceeds are less than the reduced cost base (s 104-10(4)).",
+   "body": "When the lender transfers legal title to the borrower (who must return equivalent, not identical, crypto), this is a disposal — CGT event A1 happens (s 104-10(1)). Time of the event: when the contract for the disposal is entered into (s 104-10(3)), not necessarily at delivery. The lender makes a capital gain if the capital proceeds exceed the cost base, or a capital loss if the reduced cost base exceeds the proceeds.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -327,7 +327,7 @@
    "id": "security-vesting",
    "type": "action",
    "label": "Security/collateral: vesting of CGT asset for security is ignored",
-   "body": "Under s 106-60(1)(a), the vesting of a CGT asset in an entity is ignored if the vesting is for the purpose of enforcing, giving effect to or maintaining a security, charge or encumbrance over the asset, and the security remains over the asset just after the vesting. This means no CGT event arises when the crypto is transferred to the lender as collateral.",
+   "body": "s 106-60(1)(a): the vesting of a CGT asset in an entity is ignored for Parts 3-1/3-3 and Subdiv 328-C if BOTH: (i) the vesting is for the purpose of enforcing, giving effect to or maintaining a security, charge or encumbrance over the asset; AND (ii) the security, charge or encumbrance remains over the asset just after the vesting. Both conditions are cumulative — if the security is discharged at or before the vesting, paragraph (a) does not apply.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -350,8 +350,8 @@
   {
    "id": "security-cessation",
    "type": "action",
-   "label": "Return of collateral when security ceases: CGT asset treated as vesting back",
-   "body": "Under s 106-60(1)(b), when the security ceases and the asset returns to the borrower (the entity that provided the security), the asset is treated as vesting in that entity at that time. This mirrors the initial ignored vesting and ensures no CGT event arises on return of the collateral either.",
+   "label": "Security ceases: asset treated as vesting in the entity that holds it (s 106-60(1)(b))",
+   "body": "s 106-60(1)(b): a CGT asset is treated as vesting in an entity at the time a security, charge or encumbrance ceases to be over the asset, if (i) the entity holds the asset just after that time because the asset vested in the entity at an earlier time, and (ii) that earlier vesting was ignored under paragraph (a). The deemed vesting is IN the entity that holds the asset (typically the lender) — NOT a return to the borrower. CGT consequences follow from that deemed vesting at the time the security ceases.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -425,8 +425,8 @@
   {
    "id": "no-rollover",
    "type": "end",
-   "label": "No CGT consequences under this analysis",
-   "body": "If the crypto asset is not a CGT asset (unlikely for Bitcoin under current law) or the arrangement does not fall within any of the three categories, ordinary CGT principles apply based on actual change of ownership.",
+   "label": "Outside the three categories — ordinary CGT principles apply",
+   "body": "If the crypto asset is not a CGT asset (unlikely for Bitcoin under current law) or the arrangement does not fall within any of the three categories, ordinary CGT principles apply based on the actual change of ownership. CGT events A1/C2 occur on each actual transfer of title; there is no roll-over relief specific to crypto lending.",
    "statute": [],
    "commentary": [],
    "cases": [],
@@ -459,7 +459,7 @@
    "id": "security-lender-own-account",
    "type": "outcome",
    "label": "Lender deals for own account — NOT attributed to borrower; no CGT event for borrower",
-   "body": "Where the lender deals with the collateral for its own purposes (e.g. selling and reacquiring the secured asset to derive a profit), s 106-60(2) does not apply because the act is not done for the purpose of enforcing, giving effect to or maintaining the security (PR 2014/6 paras 43-45). No CGT event arises for the borrower. The lender's own dealings are taxed to the lender under ordinary CGT principles (the lender acquired the asset by the ignored vesting, which does not change the borrower's ownership for CGT purposes).",
+   "body": "Where the lender deals with the collateral for its own purposes (e.g. selling and reacquiring the secured asset to derive a profit), s 106-60(2) does not apply because the act is not done for the purpose of enforcing, giving effect to or maintaining the security. The vesting remains ignored under s 106-60(1)(a) only while the security continues to exist over the asset; for the lender's own-account dealing, ordinary CGT principles apply to the actual change of ownership. The lender is not treated as having \"acquired\" the asset by the ignored vesting — the vesting is ignored for CGT purposes.",
    "statute": [
     {
      "act": "itaa-1997",

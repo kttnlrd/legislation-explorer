@@ -81,7 +81,7 @@
    "id": "dec-individual",
    "type": "decision",
    "label": "Are you an individual?",
-   "body": "The main residence exemption only applies to individuals (s 118-110(1)(a)). Companies, trusts (outside the trustee-of-deceased-estate context) and superannuation funds cannot claim it. Trustees of deceased estates have separate rules (ss 118-195, 118-200, 118-210).",
+   "body": "s 118-110(1)(a): the BASIC case requires you to be an individual. But the deceased-estate rules (ss 118-195, 118-200, 118-210) and special disability trust rules (ss 118-215 to 118-230) extend the exemption to trustees and beneficiaries — a non-individual can still claim through those regimes. Non-individuals are routed to the deceased-estate/special-disability-trust checks, not straight to no-exemption.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -195,8 +195,8 @@
   {
    "id": "dec-foreign-resident-boundary",
    "type": "decision",
-   "label": "Are you a foreign resident at the time of the CGT event?",
-   "body": "The main residence exemption (basic case under s 118-110) does NOT apply if at the time of the CGT event you are an 'excluded foreign resident' (s 118-110(3)(a)) or a foreign resident who does not satisfy the 'life events test' (s 118-110(3)(b)). An 'excluded foreign resident' means you have been a foreign resident for a continuous period of more than 6 years (s 118-110(4)). The life events test is satisfied if you have been a foreign resident for 6 years or less AND: (i) you or your spouse had a terminal medical condition; (ii) your child under 18 had a terminal medical condition; (iii) your spouse or child died; or (iv) the CGT event arises from a marriage breakdown roll-over (s 126-5(1)) — s 118-110(5). This is the KEY BOUNDARY: foreign residents with >6 years abroad, or <6 years without a life event, cannot claim the exemption for a dwelling acquired after the relevant transitional date (9 May 2017). The partial exemption rules (s 118-185(3)) also bar excluded foreign residents and those failing the life events test.",
+   "label": "Are you a foreign resident blocked by s 118-110(3)-(5)?",
+   "body": "s 118-110(3): the basic case does NOT apply if at the time of the CGT event you are (a) an EXCLUDED foreign resident — foreign resident for a continuous period of more than 6 years ending at that time (s 118-110(4)); or (b) a foreign resident who does not satisfy the LIFE EVENTS TEST (s 118-110(5)): foreign resident for 6 years or less AND (i) you or your spouse had a terminal medical condition during that period; (ii) your child (under 18 at the time) had a terminal medical condition during the period; (iii) your spouse, or your child who was under 18 at death, died during that period; or (iv) the CGT event happens because of a s 126-5(1) matter involving you and your spouse/former spouse. There is NO acquisition-date test in the section itself.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -346,8 +346,8 @@
   {
    "id": "dec-deceased-estate-source",
    "type": "decision",
-   "label": "Did your interest pass to you as a beneficiary (or trustee) of a deceased estate?",
-   "body": "If you acquired the dwelling as a beneficiary of a deceased estate (or as trustee), the deceased estate rules apply (ss 118-195 to 118-210) instead of the basic case. Special rules for the surviving joint tenant (s 118-197) treat the interest as having passed from a deceased estate. The deceased estate rules may apply even if the dwelling was not your main residence.",
+   "label": "Did the interest pass to you as a beneficiary, or did you acquire it as trustee, of a deceased estate?",
+   "body": "s 118-110(1)(c): the basic case does not apply where the interest passed to you as a beneficiary in, or you acquired it as trustee of, the estate of a deceased person — those cases go to ss 118-195 to 118-210 (deceased estate rules). Checked BEFORE the foreign-resident boundary: the deceased-estate source is a threshold condition of the basic case.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -680,7 +680,7 @@
    "id": "dec-income-producing-use",
    "type": "decision",
    "label": "Was the dwelling used for income-producing purposes?",
-   "body": "Even if the dwelling was your main residence (or someone else's) for a period, if it was used for the purpose of producing assessable income during that period and you could have deducted interest on money borrowed to acquire it, your exemption is reduced (s 118-190). The capital gain is increased by an amount reasonable having regard to the extent to which interest would have been deductible (s 118-190(2)). However, income-producing use during an absence period covered by a s 118-145 choice is ignored if no part of the dwelling was used for income just before it last ceased to be your main residence (s 118-190(3)). For deceased estate dwellings, pre-death income use is ignored if the dwelling was the deceased's main residence just before death and was not then used for income (s 118-190(4)).",
+   "body": "s 118-190: the exemption is reduced where the dwelling was used for producing assessable income. If the dwelling was NEVER used for income-producing purposes, no adjustment applies — s 118-192 (first income use after 20 August 1996) only applies where there HAS been an income-producing use.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -715,8 +715,8 @@
   {
    "id": "dec-first-income-use",
    "type": "decision",
-   "label": "Was the dwelling first used to produce income after 7:30 pm on 20 August 1996?",
-   "body": "If the dwelling's first income-producing use occurred after 7:30 pm (ACT legal time) on 20 August 1996, and you would have got a full exemption just before that first income use, you are taken to have acquired the dwelling at market value at the income time (s 118-192(1)-(2)). This effectively resets the cost base, splitting the gain: pre-income-use gain is exempt, post-income-use gain is taxable. For deceased estate dwellings where the CGT event happens more than 2 years after death, special rules apply under s 118-192(3).",
+   "label": "Was the dwelling first used to produce income after 7:30 pm on 20 August 1996? (s 118-192)",
+   "body": "s 118-192: where the dwelling has been used for income-producing purposes, the first income use timing matters — a first income use after 7:30 pm on 20 August 1996 can trigger the market-value cost-base substitution. Applies ONLY after an income-producing use has occurred.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1099,7 +1099,7 @@
    "id": "branch-special-disability-trust",
    "type": "event",
    "label": "Special disability trust rules (ss 118-215 to 118-230)",
-   "body": "The trustee of a special disability trust may be eligible for an exemption to the extent a dwelling is the main residence of the principal beneficiary (s 118-215). After the principal beneficiary's death (s 118-220): (a) full exemption for transfers to the implied trust or a beneficiary (s 118-225(1)); (b) partial exemption if the asset is sold (s 118-225(2)-(5)); (c) cost base rules under s 118-227; (d) another beneficiary acquiring the asset (s 118-222). CGT events E5 and E7 are added to the covered events for special disability trusts (s 118-230). Does not apply if the principal beneficiary is a foreign resident (s 118-215 note) or the deceased was an excluded foreign resident (s 118-225(5)).",
+   "body": "Special disability trust rules (ss 118-215 to 118-230) extend the main residence exemption to dwellings owned by a special disability trust (or its trustee) used as the main residence of the principal beneficiary. These rules apply independently of the deceased-estate regime — they are an extension of the exemption under s 118-105, not a sub-branch of ss 118-195 to 118-210.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1309,8 +1309,8 @@
   },
   {
    "from": "dec-individual",
-   "to": "no-exemption-general",
-   "label": "Not an individual"
+   "to": "dec-deceased-estate-source",
+   "label": "Not an individual — check deceased-estate/trustee rules"
   },
   {
    "from": "dec-individual",
@@ -1334,28 +1334,18 @@
   },
   {
    "from": "dec-ownership-period",
-   "to": "dec-foreign-resident-boundary",
-   "label": "Has ownership interest"
-  },
-  {
-   "from": "dec-foreign-resident-boundary",
-   "to": "action-fr-no-exemption",
-   "label": "Yes — excluded FR (>6yrs) or FR fails life events test"
-  },
-  {
-   "from": "dec-foreign-resident-boundary",
    "to": "dec-deceased-estate-source",
-   "label": "No — Australian resident or FR satisfying life events test"
+   "label": "Has ownership interest — check deceased-estate source first"
   },
   {
    "from": "dec-deceased-estate-source",
    "to": "branch-deceased-estate",
-   "label": "Yes — acquired from deceased estate or surviving joint tenant"
+   "label": "Yes — acquired from deceased estate"
   },
   {
    "from": "dec-deceased-estate-source",
-   "to": "dec-main-residence-throughout",
-   "label": "No — individual, not from deceased estate"
+   "to": "dec-foreign-resident-boundary",
+   "label": "No — not from deceased estate: check foreign-resident boundary"
   },
   {
    "from": "dec-main-residence-throughout",
@@ -1460,7 +1450,7 @@
   {
    "from": "dec-income-producing-use",
    "to": "dec-first-income-use",
-   "label": "Check first income use timing (s 118-192)"
+   "label": "Yes — used for income: check first income use timing (s 118-192)"
   },
   {
    "from": "dec-first-income-use",
@@ -1571,6 +1561,26 @@
    "from": "no-exemption-general",
    "to": "end",
    "label": "Normal CGT rules apply"
+  },
+  {
+   "from": "dec-foreign-resident-boundary",
+   "to": "action-fr-no-exemption",
+   "label": "Yes — excluded FR (>6 yrs) or FR failing life events test"
+  },
+  {
+   "from": "dec-foreign-resident-boundary",
+   "to": "dec-main-residence-throughout",
+   "label": "No — Australian resident, or FR satisfying life events test"
+  },
+  {
+   "from": "branch-extending-rules",
+   "to": "branch-special-disability-trust",
+   "label": "Special disability trust rules (ss 118-215 to 118-230)"
+  },
+  {
+   "from": "dec-income-producing-use",
+   "to": "outcome-partial-exemption",
+   "label": "No — never used for income: no adjustment"
   }
  ],
  "short": "Main residence exemption",

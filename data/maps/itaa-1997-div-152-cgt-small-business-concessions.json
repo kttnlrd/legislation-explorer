@@ -37,7 +37,7 @@
    "id": "trigger-event",
    "type": "event",
    "label": "A CGT event happens in relation to a CGT asset of yours in an income year",
-   "body": "The event must be one that would (apart from this Division) result in a capital gain. CGT event K7 is excluded. Special conditions apply to CGT event D1 (see s 152-12). Typical events: A1 disposal (selling a business asset or shares), D1 (creating contractual rights), and the roll-over recapture events J2, J5 and J6.",
+   "body": "A CGT event happens in relation to a CGT asset of yours in an income year (s 152-10(1)(a) — not applicable to event D1, see s 152-12). Check the special rule at s 152-10(4): events J2/J5/J6 are excluded from some concessions.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -181,8 +181,8 @@
   {
    "id": "dec-passive",
    "type": "decision",
-   "label": "Do the passively-held asset conditions apply (an affiliate or connected entity that is a CGT small business entity carries on the business)?",
-   "body": "If you do not carry on a business yourself in the income year (other than in partnership), the basic conditions can still be satisfied where your affiliate or a connected entity is a CGT small business entity that carries on the business in relation to the asset (s 152-10(1A)). A similar rule applies to partners holding passively-held assets (s 152-10(1B)). Businesses that are winding up are dealt with in s 152-49.",
+   "label": "Do the passively-held asset conditions apply (s 152-10(1A) or (1B))?",
+   "body": "s 152-10(1A): (a) your affiliate, or an entity connected with you, is a CGT SBE; (b) you do not carry on a business in the year (other than in partnership); (c) if you carry on a business in partnership — the CGT asset is NOT an interest in an asset of the partnership; (d) the CGT SBE is the entity that carries on the business in relation to the asset. s 152-10(1B): (a) you are a partner in a partnership; (b) the partnership is a CGT SBE; (c) you carry on no business other than in partnership; (d) the asset is not an interest in a partnership asset; (e) the partnership business is the business carried on in relation to the asset. Either path satisfies the entity-size condition.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -336,8 +336,8 @@
   {
    "id": "dec-shares-extra",
    "type": "decision",
-   "label": "Do the additional basic conditions for shares/trust interests apply?",
-   "body": "The asset must still satisfy the active asset test on the extended assumptions in s 152-10(2A). If you do not pass the net asset value test, you must carry on a business just before the CGT event. The object entity must be a CGT small business entity or pass the net asset value test with control thresholds reduced to 20% (s 152-10(2)(c)). And just before the event you must be a CGT concession stakeholder in the object entity, or CGT concession stakeholders in it must have a small business participation percentage in you of at least 90% (s 152-10(2)(d)).",
+   "label": "Do the additional basic conditions for shares/trust interests apply (s 152-10(2))?",
+   "body": "s 152-10(2) additional conditions where the asset is a share in a company or interest in a trust (the object entity): (a) the asset satisfies the active asset test under the s 152-10(2A) extended assumptions; (b) if you do not satisfy the NAVA test — you carry on a business just before the CGT event; (c) the object entity would be a CGT SBE or satisfy the NAVA test on the s 152-10(2C) assumptions (only its own + affiliates' + controlled entities' assets/turnover, 20% control threshold, no s 328-125(6) determination); (d) just before the event you are a CGT concession stakeholder in the object entity, or CGT concession stakeholders together hold at least 90% of the object entity's market value. Any failure → concessions unavailable.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -834,8 +834,8 @@
   {
    "id": "no-rollover",
    "type": "end",
-   "label": "Concessions not available — the full capital gain is taxed",
-   "body": "If any basic condition fails (no gain, entity too large, asset not active, stakeholder test failed), none of the four small business concessions can apply. Consider alternatives: the small business restructure roll-over (Div 328, ss 328-450 to 328-465), the general replacement-asset roll-overs (Div 124) and the CGT discount (Div 115).",
+   "label": "Small business concessions not available — include the gain subject to other relief",
+   "body": "If the small business concessions are unavailable, the gain may still be reduced by the general CGT discount, other roll-overs or other provisions — the full capital gain is not necessarily taxed.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -856,6 +856,18 @@
      "title": "Restructure from company to discretionary trust 6 Facts 6 No direct income tax…"
     }
    ]
+  },
+  {
+   "id": "dec-j2j5j6",
+   "type": "decision",
+   "label": "Is the CGT event J2, J5 or J6? (s 152-10(4))",
+   "body": "s 152-10(4): Subdivisions 152-B (15-year exemption) and 152-C (50% reduction) do NOT apply to CGT events J2, J5 and J6; Subdivision 152-E (roll-over) does not apply to J5 and J6. These events concern previous applications of the 152-E roll-over. If the event is J2/J5/J6, the small business concessions are unavailable for this gain (subject to the Subdiv 152-B retirement exemption note at s 152-305(4) for J5/J6)."
+  },
+  {
+   "id": "dec-152-10-2c",
+   "type": "decision",
+   "label": "Does s 152-10(2C) apply — CGT event involving a partnership right/interest? (s 152-10(2C))",
+   "body": "s 152-10(2C): if the CGT event involves the creation, transfer, variation or cessation of a right or interest entitling an entity to (a) an amount of the income or capital of a partnership, or (b) an amount calculated by reference to a partner's entitlement to income/capital of a partnership, it is an additional basic condition that the right or interest is a membership interest of the entity in the partnership immediately after the event (or, for cessation, immediately before). If it is not a membership interest, the concessions do not apply."
   }
  ],
  "edges": [
@@ -866,8 +878,8 @@
   },
   {
    "from": "trigger-event",
-   "to": "dec-gain",
-   "label": "event in an income year"
+   "to": "dec-j2j5j6",
+   "label": "Event in an income year"
   },
   {
    "from": "dec-gain",
@@ -931,8 +943,8 @@
   },
   {
    "from": "dec-shares",
-   "to": "dec-shares-extra",
-   "label": "Yes — shares/units"
+   "to": "dec-152-10-2c",
+   "label": "Yes — shares/units: check s 152-10(2C) then (2)"
   },
   {
    "from": "dec-shares",
@@ -1038,6 +1050,26 @@
    "from": "outcome-15yr",
    "to": "end",
    "label": ""
+  },
+  {
+   "from": "dec-j2j5j6",
+   "to": "dec-gain",
+   "label": "No — not J2/J5/J6"
+  },
+  {
+   "from": "dec-j2j5j6",
+   "to": "no-rollover",
+   "label": "Yes — J2/J5/J6: concessions excluded (s 152-10(4))"
+  },
+  {
+   "from": "dec-152-10-2c",
+   "to": "dec-shares-extra",
+   "label": "No — not a partnership-rights event (or membership interest satisfied)"
+  },
+  {
+   "from": "dec-152-10-2c",
+   "to": "no-rollover",
+   "label": "Yes — right/interest not a partnership membership interest"
   }
  ],
  "short": "CGT small business",

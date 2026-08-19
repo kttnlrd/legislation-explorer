@@ -35,7 +35,7 @@
    "id": "gain",
    "type": "decision",
    "label": "Is the amount a gain to you?",
-   "body": "A receipt that merely reimburses an expense or returns your own capital is not a gain. The mutuality principle: receipts from members of a mutual association for services supplied to members are not income — there is no gain derived from outside the group.",
+   "body": "A receipt that merely reimburses an expense or returns your own capital is not a gain.",
    "statute": [],
    "commentary": [
     "receipts-from-members-mutuality-principle"
@@ -78,7 +78,7 @@
    "id": "not-cash",
    "type": "outcome",
    "label": "Not convertible — not ordinary income",
-   "body": "If the benefit cannot be converted to cash, it is not ordinary income (Cooke & Sherden). It may be caught by a specific regime — e.g. fringe benefits tax under the FBTAA for non-cash employment benefits.",
+   "body": "If the benefit cannot be converted to cash, it is not ordinary income (Cooke & Sherden). Non-cash employment benefits may be subject to FBT in the employer's hands and are generally not assessable as ordinary income to the employee; check specific inclusions.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -113,7 +113,7 @@
    "id": "character",
    "type": "decision",
    "label": "Does the amount have the character of income?",
-   "body": "Income character comes from its source and regularity: employment (s 6-5(2)(a)), business (s 6-5(2)(b)), property (s 6-5(2)(c)). Isolated windfalls and gifts lack income character. Compensation receipts can be income where they replace income. See the facet branches for each.",
+   "body": "Income character comes from its source and regularity: employment, business, and property are the classic common law source categories. Isolated windfalls and gifts lack income character. Compensation receipts can be income where they replace income. See the facet branches for each.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -203,7 +203,7 @@
    "id": "assessable",
    "type": "end",
    "label": "Ordinary income — included in assessable income",
-   "body": "The amount is assessable as ordinary income — unless it is exempt income under s 6-15 (not assessable), or a more specific provision prevails under s 6-25.",
+   "body": "The amount is assessable as ordinary income.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -310,7 +310,7 @@
    "id": "facet-sources",
    "type": "outcome",
    "label": "FACET — Source of income: employment, business, property",
-   "body": "Where to look: s 6-5(2)(a) employment, (b) business, (c) property; CCH 'income-according-to-ordinary-concepts'. Employment: salary, wages, bonuses, commissions — assessable when derived. Business: income from carrying on a business. Property: rent, interest, dividends, royalties. Each source has its own derivation and deduction consequences. Distinguish employment (s 6-5) from PSI through entities (Div 85/86 — see the PSI map).",
+   "body": "Where to look: s 6-5(1) (ordinary concepts), s 6-5(2) (resident — worldwide ordinary income from all sources), s 6-5(3) (foreign resident — Australian source); CCH 'income-according-to-ordinary-concepts'. Employment: salary, wages, bonuses, commissions — assessable when derived. Business: income from carrying on a business. Property: rent, interest, dividends, royalties. Each source has its own derivation and deduction consequences. Distinguish employment (s 6-5) from PSI through entities (Div 85/86 — see the PSI map).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -329,7 +329,7 @@
    "id": "facet-statutory",
    "type": "outcome",
    "label": "FACET — Statutory income overlay: s 6-10 and s 6-25",
-   "body": "Where to look: s 6-10 (statutory income — amounts included by other provisions), s 6-10(2) (examples: dividends s 44 ITAA 1936, profit-making plans s 15-15), s 6-10(4)-(5) (resident/foreign resident source rules for statutory income), s 6-25 (relationships: if more than one provision includes the same amount, the most specific prevails; s 6-25(2) prevents double counting). NOTE: s 6-10(3) is the constructive-receipt rule for statutory income — the 'most specific provision' rule is s 6-25, not s 6-10(3).",
+   "body": "Where to look: s 6-10 (statutory income — amounts included by other provisions), s 6-10(2) (definition of statutory income), s 6-10(4)-(5) (resident/foreign resident source rules for statutory income), s 6-25 (relationships: if more than one provision includes the same amount, the most specific prevails; s 6-25(2) prevents double counting). NOTE: s 6-10(3) is the constructive-receipt rule for statutory income — the 'most specific provision' rule is s 6-25, not s 6-10(3). For specific inclusion provisions see the summary list in s 10-5.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -406,6 +406,38 @@
    "rulings": [],
    "cases": [],
    "definitions": []
+  },
+  {
+   "id": "exempt-check",
+   "type": "decision",
+   "label": "Is the amount exempt income under s 6-15?",
+   "body": "s 6-15(1): exempt income is ordinary or statutory income made exempt by a provision. s 6-15(3): if a provision states that an amount is exempt income, it is not assessable — and expenses of deriving it are not deductible (s 8-1(2)(c)). Common exemptions include certain government payments and scholarships.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "6-15",
+     "title": "Exempt income"
+    }
+   ],
+   "commentary": [
+    "classes-of-exempt-income"
+   ],
+   "rulings": [],
+   "cases": [],
+   "definitions": [
+    "exempt income"
+   ]
+  },
+  {
+   "id": "mutuality-check",
+   "type": "decision",
+   "label": "Is the receipt a mutual receipt from members for services supplied to members?",
+   "body": "Under the mutuality principle, receipts from members of a mutual association for services supplied to members are not income — there is no gain derived from outside the group. If mutual, see the facet-mutuality outcome for where to look. If not mutual, continue to the convertibility analysis.",
+   "statute": [],
+   "commentary": [],
+   "rulings": [],
+   "cases": [],
+   "definitions": []
   }
  ],
  "edges": [
@@ -418,11 +450,6 @@
    "from": "gain",
    "to": "not-gain",
    "label": "No — not a gain"
-  },
-  {
-   "from": "gain",
-   "to": "cash",
-   "label": "Yes — a gain"
   },
   {
    "from": "cash",
@@ -480,16 +507,6 @@
    "label": "No — not derived"
   },
   {
-   "from": "derivation",
-   "to": "assessable",
-   "label": "Yes — derived"
-  },
-  {
-   "from": "gain",
-   "to": "facet-mutuality",
-   "label": "Facet: mutuality"
-  },
-  {
    "from": "cash",
    "to": "facet-convertibility",
    "label": "Facet: convertibility"
@@ -525,11 +542,6 @@
    "label": "Facet: statutory overlay"
   },
   {
-   "from": "assessable",
-   "to": "facet-exempt",
-   "label": "Facet: exempt income"
-  },
-  {
    "from": "derivation",
    "to": "facet-derivation",
    "label": "Facet: derivation"
@@ -538,6 +550,36 @@
    "from": "residency",
    "to": "facet-source",
    "label": "Facet: source"
+  },
+  {
+   "from": "derivation",
+   "to": "exempt-check",
+   "label": "Yes — derived"
+  },
+  {
+   "from": "exempt-check",
+   "to": "assessable",
+   "label": "No — not exempt"
+  },
+  {
+   "from": "exempt-check",
+   "to": "facet-exempt",
+   "label": "Yes — exempt income"
+  },
+  {
+   "from": "gain",
+   "to": "mutuality-check",
+   "label": "Yes — a gain"
+  },
+  {
+   "from": "mutuality-check",
+   "to": "cash",
+   "label": "No — not mutual"
+  },
+  {
+   "from": "mutuality-check",
+   "to": "facet-mutuality",
+   "label": "Yes — mutual receipt"
   }
  ],
  "short": "Ordinary income",

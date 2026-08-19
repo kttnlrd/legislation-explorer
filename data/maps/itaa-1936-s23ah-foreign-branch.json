@@ -13,7 +13,7 @@
    "id": "start",
    "type": "start",
    "label": "An Australian resident company derives foreign income (or a capital gain/loss) through a foreign branch — is it exempt under s 23AH?",
-   "body": "Single question with facets. Spine: resident company → foreign PE → ships/hybrid carve-outs → active income test → tainted exceptions. Facets carry the machinery and definitions.",
+   "body": "Two paths under s 23AH: (1) foreign income derived through a foreign PE of a resident company is NANE (s 23AH(2)), subject to AIT/tainted-income exceptions (ss 23AH(5),(7)); (2) capital gains/losses on CGT assets used wholly/mainly for foreign income through the PE are disregarded (ss 23AH(3)-(4)) — that disregard is NOT conditioned on the AIT, but is denied for tainted assets (ss 23AH(6),(8)) and taxable Australian property (ss 23AH(3)(c),(4)(c)).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -52,7 +52,7 @@
    "id": "not-company",
    "type": "outcome",
    "label": "Not a resident company — s 23AH does not apply",
-   "body": "Individuals, trusts and non-residents use the FITO rules (Div 770 ITAA 1997) instead.",
+   "body": "s 23AH applies only to resident companies (s 23AH(15): company excludes trustee companies). Individuals, trusts and non-residents are outside this section. Resident individuals/trusts may rely on FITO (Div 770 ITAA 1997); non-residents are generally outside the Australian taxing base for foreign income unless specific source or anti-avoidance rules apply.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -62,8 +62,8 @@
   {
    "id": "pe",
    "type": "decision",
-   "label": "Is the income derived in carrying on a business at or through a PE in a listed or unlisted country?",
-   "body": "s 23AH(2): foreign income through a PE in a listed/unlisted country is NANE. s 23AH(3)-(4): capital gains/losses on assets used wholly/mainly for foreign income through the PE are disregarded (unless taxable Australian property — s 23AH(3)(c)). s 23AH(9): income from disposing of the business itself is covered.",
+   "label": "Is the foreign income, capital gain or capital loss derived in carrying on a business at or through a PE in a listed or unlisted country?",
+   "body": "s 23AH(2): foreign income through a PE in a listed/unlisted country is NANE. ss 23AH(3)-(4): capital gains/losses on assets used wholly/mainly for foreign income through the PE are disregarded, unless the asset is taxable Australian property (ss 23AH(3)(c),(4)(c)) or tainted (ss 23AH(6),(8)). PE: DTA meaning if a DTA applies, otherwise the s 6(1) ITAA 1936 meaning (s 23AH(15)).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -104,8 +104,8 @@
   {
    "id": "ships",
    "type": "decision",
-   "label": "Is the income from operating ships or aircraft in international traffic?",
-   "body": "s 23AH(14A): the section does NOT apply to ships/aircraft international traffic income (or ancillary things). s 23AH(14B): operates a ship/aircraft in international traffic = transporting passengers/goods between places in different countries.",
+   "label": "Is the foreign income, capital gain or capital loss from operating ships or aircraft in international traffic (or ancillary things)?",
+   "body": "s 23AH(14A): the section does NOT apply to foreign income, capital gains or capital losses from operating ships/aircraft in international traffic (or things ancillary to that operation). s 23AH(14B): operates a ship/aircraft in international traffic = transporting passengers/goods by sea/air in the course of a business of operating ships/aircraft.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -161,7 +161,7 @@
    "id": "ait",
    "type": "decision",
    "label": "Does the PE pass the active income test (s 23AH(12))?",
-   "body": "Mirrors the CFC test in s 432, modified by s 23AH(12): apply the s 23AH(14) assumptions and ignore ss 432(3), 446(2), 432(1)(b), (e), 447(1)(b), (d), (f). A PE passes if adjusted tainted income (s 23AH(13)) is less than 5% of gross income.",
+   "body": "Mirrors the CFC active income test in s 432, as modified by s 23AH(12): the PE passes if the entity would have passed s 432 on the s 23AH(14) assumptions and with ss 432(3), 446(2), 432(1)(b),(e) and 447(1)(b),(d),(f) treated as not enacted. Note: s 23AH(13) adjusted tainted income is used for the ss (5)/(7) tainted-income exceptions — NOT as the AIT pass measure.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -179,8 +179,8 @@
   {
    "id": "passes",
    "type": "action",
-   "label": "PE passes the AIT — exemption applies",
-   "body": "Foreign income is NANE (s 23AH(2)); capital gains/losses on non-tainted assets disregarded (ss 23AH(3)-(4)).",
+   "label": "PE passes the AIT — income exemption applies",
+   "body": "Foreign income is NANE (s 23AH(2)) — the AIT only matters for the tainted-income exceptions in ss (5)/(7). Capital gains/losses on the CGT path do NOT go through the AIT (see the CGT branch).",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -190,8 +190,8 @@
   {
    "id": "fails",
    "type": "decision",
-   "label": "PE fails the AIT — is the income adjusted tainted income (or EDCI for listed)?",
-   "body": "s 23AH(5) listed: AIT failure + adjusted tainted income + eligible designated concession income → no exemption. s 23AH(7) unlisted: AIT failure + adjusted tainted income → no exemption. s 23AH(6)/(8): tainted assets remove the capital gain/loss disregard.",
+   "label": "PE fails the AIT — check the country and tainted-income exceptions",
+   "body": "AIT failure alone does not deny the exemption. For foreign INCOME: s 23AH(5) listed country — assessable only if the income is BOTH adjusted tainted income (s 23AH(13)) AND eligible designated concession income; s 23AH(7) unlisted country — assessable if the income is adjusted tainted income. For CGT assets, the tainted-asset rules are in ss 23AH(6)/(8) and apply regardless of the AIT (see the CGT branch).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -208,7 +208,7 @@
    "id": "not-tainted",
    "type": "action",
    "label": "Not adjusted tainted income — exemption applies despite AIT failure",
-   "body": "AIT failure only bites on tainted amounts; other income remains NANE.",
+   "body": "The income is not adjusted tainted income (or not EDCI for listed countries) — the s 23AH(5)/(7) exceptions do not bite and the income remains NANE.",
    "statute": [],
    "commentary": [],
    "rulings": [],
@@ -219,25 +219,8 @@
    "id": "assessable",
    "type": "end",
    "label": "Income/gain assessable (exemption denied)",
-   "body": "s 23AH(5)/(7) deny the income exemption; s 23AH(6)/(8) deny the gain disregard. FITO may apply (Div 770).",
+   "body": "Exemption denied: ss 23AH(5)/(7) for foreign income (AIT failure + tainted amounts), ss 23AH(6)/(8) for capital gains/losses on tainted assets, or ss 23AH(3)(c)/(4)(c) for taxable Australian property. FITO (Div 770 ITAA 1997) may apply to residents.",
    "statute": [],
-   "commentary": [],
-   "rulings": [],
-   "cases": [],
-   "definitions": []
-  },
-  {
-   "id": "interposed",
-   "type": "action",
-   "label": "Interposed partnerships/trusts and business disposal are also covered (ss 23AH(9)-(11))",
-   "body": "s 23AH(9): disposal income treated as business income. s 23AH(10)-(11): indirect interests through partnerships/trusts treated as derived through the company's own PE.",
-   "statute": [
-    {
-     "act": "itaa-1936",
-     "section": "23AH",
-     "title": "Foreign branch income of Australian companies not assessable"
-    }
-   ],
    "commentary": [],
    "rulings": [],
    "cases": [],
@@ -258,7 +241,7 @@
    "id": "facet-ait-machinery",
    "type": "outcome",
    "label": "FACET — AIT machinery: the s 23AH(14) assumptions",
-   "body": "Where to look: s 23AH(12)-(14). The AIT is computed on assumptions isolating the PE: (a) only PE income counted (except for the 447(1)(a)/(c)/(e) and 450(6)(c)/(7)(d)/(8)(b) tainted-income paragraphs); (b) statutory accounting periods = years of income; (c) the PE is treated as a separate 'PE company' dealing wholly independently with the 'HQ company', with HQ income disregarded; (d) AFI entity assumptions; (e) HQ company treated as an associate of the PE company for 447(1)(a)/(c)/(e).",
+   "body": "Where to look: s 23AH(12)-(14). The AIT is computed on assumptions isolating the PE: (a) only PE income counted (except for the 447(1)(a),(c),(e) and 450(6)(c),(7)(d),(8)(b) tainted-income paragraphs); (b) statutory accounting periods = years of income. s 23AH(13) adjusted tainted income feeds the ss (5)/(7) exceptions, not the AIT pass test.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -275,7 +258,7 @@
    "id": "facet-tainted",
    "type": "outcome",
    "label": "FACET — Adjusted tainted income and tainted assets",
-   "body": "Where to look: s 23AH(13) (adjusted tainted income = Part X adjusted tainted income on the s 23AH(14) assumptions, ignoring s 446(2) and 447(1)(b),(d),(f)); s 23AH(15) definitions (tainted asset, eligible designated concession income). Passive income — interest, royalties, certain dividends, rents — is typically tainted. The EDCI overlay (s 23AH(5)(c)(ii)) only bites for listed countries.",
+   "body": "Where to look: s 23AH(13) (adjusted tainted income = Part X adjusted tainted income on the s 23AH(14) assumptions, ignoring s 446(2) and 447(1)(b),(d),(f)); s 23AH(15) definitions (tainted asset, eligible designated concession income — Part X meanings). Listed-country CGT: gain/loss from a tainted asset is not disregarded only if it is also EDCI (s 23AH(6)); unlisted-country CGT: tainted asset alone denies the disregard (s 23AH(8)).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -291,8 +274,8 @@
   {
    "id": "facet-countries",
    "type": "outcome",
-   "label": "FACET — Listed vs unlisted countries (s 320-321 Part X)",
-   "body": "Where to look: s 320 (listed countries — comprehensive DTA + suitable tax system), s 321 (unlisted countries), Part X generally. The distinction drives which tainted-income exception applies (EDCI overlay for listed; adjusted tainted income for both). A country's status changes — check the current regulations.",
+   "label": "FACET — Listed vs unlisted countries (s 320 Part X)",
+   "body": "s 320(1): listed country = a foreign country, or part of a foreign country, declared by the regulations; unlisted country = (a) a foreign country that does not (wholly or partly) consist of a listed country or countries, or (b) the remainder of a foreign country after its listed parts. Deeming rules for colonies/territories/protectorates in s 320(2)-(4). The listed/unlisted distinction drives which tainted-income exception applies (EDCI overlay for listed countries: ss 23AH(5)(c)(ii), (6)(b)).",
    "statute": [
     {
      "act": "itaa-1936",
@@ -328,7 +311,7 @@
    "id": "facet-definitions",
    "type": "outcome",
    "label": "FACET — Definitions (s 23AH(15))",
-   "body": "Where to look: s 23AH(15). 'company' excludes trustee companies; 'double tax agreement' has the Part X meaning; 'foreign income' includes amounts that would otherwise be assessable under non-CGT provisions; 'PE' is the Part X/DTA meaning; 'tainted asset' and 'eligible designated concession income' adopt the Part X definitions.",
+   "body": "s 23AH(15): company excludes trustee companies; double tax agreement has the Part X meaning; foreign income = an amount that (a) apart from this section would be included in assessable income under a non-CGT provision, AND (b) is derived from sources in a listed or unlisted country; PE in relation to a country = the DTA meaning if a DTA applies, otherwise the s 6(1) meaning; tainted asset and eligible designated concession income have the Part X meanings.",
    "statute": [
     {
      "act": "itaa-1936",
@@ -340,13 +323,142 @@
    "rulings": [],
    "cases": [],
    "definitions": []
+  },
+  {
+   "id": "dec-extension",
+   "type": "decision",
+   "label": "Is the amount derived from disposing of the business (s 23AH(9)) or through an interposed partnership/trust (ss 23AH(10)-(11))?",
+   "body": "ss 23AH(9)-(11) are extension rules: s 23AH(9) treats income from disposing (in whole or part) of a business carried on at/through the PE as if derived in carrying on that business; ss (10)-(11) treat indirect interests through partnerships/trusts as derived through the company's own PE. They determine whether s 23AH applies at the outset — the same income/CGT analysis follows.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "dec-type",
+   "type": "decision",
+   "label": "Is this foreign income, or a capital gain/loss?",
+   "body": "Foreign income follows ss 23AH(2),(5),(7) (AIT + tainted-income exceptions). Capital gains/losses follow ss 23AH(3)-(4) (asset-use, taxable Australian property, tainted asset) — the AIT is NOT applied to the CGT path.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "cgt-asset-use",
+   "type": "decision",
+   "label": "Was the CGT asset used wholly or mainly for producing foreign income in carrying on a business at or through the PE?",
+   "body": "s 23AH(3)(b)/(4)(b): required for the gain/loss disregard. If the asset was not used wholly/mainly for foreign income through the PE, the disregard is unavailable.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "cgt-tap",
+   "type": "decision",
+   "label": "Is the CGT asset taxable Australian property?",
+   "body": "s 23AH(3)(c)/(4)(c): the disregard does not apply to gains/losses on taxable Australian property (Div 855 ITAA 1997 concept).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "cgt-tainted",
+   "type": "decision",
+   "label": "Is the CGT asset a tainted asset (s 23AH(15), Part X meaning)?",
+   "body": "Tainted assets deny the disregard: s 23AH(6) listed country (only if also EDCI), s 23AH(8) unlisted country (tainted asset alone suffices).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "dec-cgt-listed",
+   "type": "decision",
+   "label": "Is the PE in a listed or unlisted country?",
+   "body": "Determines which tainted-asset rule applies: s 23AH(6) (listed: tainted AND EDCI) vs s 23AH(8) (unlisted: tainted alone).",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "dec-cgt-edci",
+   "type": "decision",
+   "label": "Is the gain/loss eligible designated concession income in relation to the listed country (s 23AH(6)(b))?",
+   "body": "Listed-country tainted asset only denies the disregard if the gain/loss is also EDCI (Part X meaning). If not EDCI, the disregard still applies.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "dec-ati-edci",
+   "type": "decision",
+   "label": "Listed country: is the foreign income BOTH adjusted tainted income AND eligible designated concession income?",
+   "body": "s 23AH(5): listed-country income is assessable on AIT failure only if it is both adjusted tainted income (s 23AH(13)) and EDCI.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "dec-ati",
+   "type": "decision",
+   "label": "Unlisted country: is the foreign income adjusted tainted income?",
+   "body": "s 23AH(7): unlisted-country income is assessable on AIT failure if it is adjusted tainted income (s 23AH(13)). No EDCI overlay for unlisted countries.",
+   "statute": [
+    {
+     "act": "itaa-1936",
+     "section": "23AH",
+     "title": "Foreign branch income of Australian companies not assessable"
+    }
+   ]
+  },
+  {
+   "id": "cgt-disregarded",
+   "type": "outcome",
+   "label": "Capital gain/loss disregarded (ss 23AH(3)-(4) apply)",
+   "body": "The gain/loss is disregarded for Part 3-1 purposes: asset used wholly/mainly for foreign income through the PE, not taxable Australian property, and not a tainted asset (or tainted but not EDCI in a listed country)."
+  },
+  {
+   "id": "cgt-not-disregarded",
+   "type": "outcome",
+   "label": "Capital gain/loss NOT disregarded — assessable",
+   "body": "Disregard unavailable: asset not used wholly/mainly for foreign income through the PE (s 23AH(3)(b)/(4)(b)), or taxable Australian property (s 23AH(3)(c)/(4)(c)), or tainted asset (ss 23AH(6)/(8))."
   }
  ],
  "edges": [
   {
    "from": "start",
    "to": "company",
-   "label": "Foreign income derived"
+   "label": "Foreign income / capital gain or loss derived"
   },
   {
    "from": "company",
@@ -365,13 +477,28 @@
   },
   {
    "from": "pe",
+   "to": "dec-extension",
+   "label": "Yes — PE in listed/unlisted country"
+  },
+  {
+   "from": "dec-extension",
+   "to": "dec-type",
+   "label": "Continues — same analysis applies"
+  },
+  {
+   "from": "dec-type",
    "to": "ships",
-   "label": "PE in listed/unlisted country"
+   "label": "Foreign income"
+  },
+  {
+   "from": "dec-type",
+   "to": "cgt-asset-use",
+   "label": "Capital gain or loss"
   },
   {
    "from": "ships",
    "to": "ships-excluded",
-   "label": "Yes — ships/aircraft"
+   "label": "Yes — ships/aircraft in international traffic"
   },
   {
    "from": "ships",
@@ -400,31 +527,106 @@
   },
   {
    "from": "fails",
-   "to": "not-tainted",
-   "label": "No — not adjusted tainted income/EDCI"
+   "to": "dec-ati-edci",
+   "label": "Listed country"
   },
   {
    "from": "fails",
+   "to": "dec-ati",
+   "label": "Unlisted country"
+  },
+  {
+   "from": "dec-ati-edci",
    "to": "assessable",
-   "label": "Yes — adjusted tainted income / tainted asset + EDCI"
+   "label": "Yes — ATI and EDCI"
+  },
+  {
+   "from": "dec-ati-edci",
+   "to": "not-tainted",
+   "label": "No — not both"
+  },
+  {
+   "from": "dec-ati",
+   "to": "assessable",
+   "label": "Yes — adjusted tainted income"
+  },
+  {
+   "from": "dec-ati",
+   "to": "not-tainted",
+   "label": "No — not adjusted tainted income"
   },
   {
    "from": "passes",
-   "to": "interposed",
+   "to": "final",
    "label": "Exemption applies"
   },
   {
    "from": "not-tainted",
-   "to": "interposed",
+   "to": "final",
    "label": "Exemption applies"
   },
   {
-   "from": "interposed",
+   "from": "assessable",
    "to": "final",
    "label": "Complete"
   },
   {
-   "from": "assessable",
+   "from": "cgt-asset-use",
+   "to": "cgt-not-disregarded",
+   "label": "No — not used wholly/mainly for foreign income"
+  },
+  {
+   "from": "cgt-asset-use",
+   "to": "cgt-tap",
+   "label": "Yes — used wholly/mainly for foreign income"
+  },
+  {
+   "from": "cgt-tap",
+   "to": "cgt-not-disregarded",
+   "label": "Yes — taxable Australian property"
+  },
+  {
+   "from": "cgt-tap",
+   "to": "cgt-tainted",
+   "label": "No — not taxable Australian property"
+  },
+  {
+   "from": "cgt-tainted",
+   "to": "cgt-disregarded",
+   "label": "No — not a tainted asset"
+  },
+  {
+   "from": "cgt-tainted",
+   "to": "dec-cgt-listed",
+   "label": "Yes — tainted asset"
+  },
+  {
+   "from": "dec-cgt-listed",
+   "to": "dec-cgt-edci",
+   "label": "Listed country"
+  },
+  {
+   "from": "dec-cgt-listed",
+   "to": "cgt-not-disregarded",
+   "label": "Unlisted country — tainted asset denies disregard"
+  },
+  {
+   "from": "dec-cgt-edci",
+   "to": "cgt-not-disregarded",
+   "label": "Yes — tainted AND EDCI"
+  },
+  {
+   "from": "dec-cgt-edci",
+   "to": "cgt-disregarded",
+   "label": "No — tainted but not EDCI"
+  },
+  {
+   "from": "cgt-disregarded",
+   "to": "final",
+   "label": "Disregard applies"
+  },
+  {
+   "from": "cgt-not-disregarded",
    "to": "final",
    "label": "Complete"
   },

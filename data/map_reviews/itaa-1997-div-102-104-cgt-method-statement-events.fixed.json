@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1997-div-102-104-cgt-method-statement-events",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 28,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "30 review issues: 28 applied in-turn after subagent timeout; 2 review items (map summary rewrite) folded into node edits. Step order corrected to statutory 102-5 (Step 1 curr losses, Step 2 prior losses, Step 3 discount, Step 4 SBC); K8 added; loss path re-routed into method statement. Ruling IDs checked against data/rulings/summaries (API endpoint hangs)."
+}

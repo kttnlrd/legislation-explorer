@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1997-gambling-hobby-v-pro",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 5,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "Fixed in-turn after subagent timeout."
+}

@@ -7,12 +7,12 @@
  "subdivision": "",
  "compilation_no": 263,
  "compilation_date": "2026-04-01",
- "summary": "Working out a capital gain or loss requires the cost base (Div 110: 5 elements — acquisition cost, incidental costs, non-deductible ownership costs, value-adding capital expenditure, title-preservation expenditure, with the s 110-25(7)-(8) exclusions as the boundary), the reduced cost base for losses (s 110-55), Div 112 modifications (market value substitution for non-arm's length dealings as the key boundary), indexation for pre-21/9/1999 assets (Div 114, frozen), and the capital proceeds (Div 116, with market value substitution for non-arm's length). The CGT discount (Subdivs 115-A/B): individuals/trusts 50%, complying super funds 33.33%, companies none — after 21 September 1999 and 12-month holding. Subsection coverage: operative 110-25(1)-(8), 110-35, 110-55, 112-5, 112-20, 112-25, 112-30, 112-35, 114-1, 116-20, 116-30, 116-110, 115-5, 115-10, 115-15, 115-20, 115-25 mapped; remaining Div 112/116 modification sections (112-40 to 112-120, 116-25 to 116-120) listed as situational machinery in node bodies; Subdiv 115-C (trusts' net capital gains) EXCLUDED — belongs to the Div 6 trusts map.",
+ "summary": "Working out a capital gain or loss requires the cost base (Div 110: 5 elements - acquisition cost including market value of property given, incidental costs, non-deductible ownership costs with post-20-Aug-1991 precondition, value-adding/preserving/installing capital expenditure with goodwill exclusion, title-establishing/preserving/defending expenditure), the reduced cost base for losses (s 110-55: elements 1,2,4,5 same as cost base; 3rd element is balancing adjustment amounts; exclusions ss 110-55(4)-(9K); assumption rule s 110-55(10)), Div 112 modifications (market value substitution for non-arm's length dealings as the key boundary), indexation for pre-21/9/1999 assets (Div 114, frozen), and the capital proceeds (Div 116, with market value substitution for non-arm's length, non-receipt, repayment, liability reduction, and other modifications). The CGT discount (Subdivs 115-A/B): individuals/trusts 50%, complying super funds 33.33%, companies none - after 21 September 1999 and 12-month holding, with exclusions for roll-over revocation, certain foreign entities, and forex gains. Subsection coverage: operative 110-25(1)-(6),(12), 110-35, 110-38, 110-55, 112-5, 112-20, 112-25, 112-30, 112-35, 114-1, 116-20, 116-30, 116-110, 115-5, 115-10, 115-15, 115-25 mapped; remaining Div 112/116 modification sections listed as situational machinery in node bodies; Subdiv 115-C (trusts' net capital gains) EXCLUDED - belongs to the Div 6 trusts map. Cost base exclusions per s 110-38 (not s 110-25(7)-(8)).",
  "nodes": [
   {
    "id": "start",
    "type": "start",
-   "label": "A CGT event happens and you need to work out whether you made a capital gain or loss",
+   "label": "Has a CGT event happened and you need to work out the capital gain or loss?",
    "body": "To work out a capital gain you need the cost base (Div 110) and the capital proceeds (Div 116): gain = capital proceeds less cost base; loss = reduced cost base less capital proceeds. The cost base has 5 elements (s 110-25); the reduced cost base has 5 elements without indexation (s 110-55). Div 112 lists modifications; Div 114 indexation; Div 115 the discount.",
    "statute": [
     {
@@ -37,7 +37,7 @@
    "id": "dec-gain-or-loss",
    "type": "decision",
    "label": "Are you working out a capital gain or a capital loss?",
-   "body": "A capital gain uses the cost base (5 elements, including indexation for pre-21/9/1999 assets); a capital loss uses the reduced cost base (5 elements, never indexed). The choice matters because some expenditure is in the cost base but NOT the reduced cost base (e.g. indexation, and some non-deductible amounts).",
+   "body": "A capital gain uses the cost base (5 elements, with possible indexation for pre-21/9/1999 assets); a capital loss uses the reduced cost base (5 elements, never indexed). Work out the relevant base first, then work out capital proceeds, then compare: gain = capital proceeds - cost base; loss = reduced cost base - capital proceeds. Note: the reduced cost base also flows through Div 112 modifications (e.g. market value substitution for non-arm's length acquisitions per s 112-20) because s 110-55(2) adopts elements 1,2,4,5 from the cost base.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -75,7 +75,7 @@
    "id": "action-costbase",
    "type": "action",
    "label": "Work out the 5 elements of the cost base",
-   "body": "Element 1: money paid or property given to acquire the asset (s 110-25(2)). Element 2: incidental costs of acquisition and of the CGT event (s 110-35 — stamp duty, legal fees, valuation fees, advertising, etc.). Element 3: non-deductible costs of owning the asset (rates, insurance, interest if not deductible — s 110-25(4)). Element 4: capital expenditure to increase the asset's value (s 110-25(5)). Element 5: capital expenditure to preserve or defend title or rights (s 110-25(6)). Note s 110-25(7)-(8): amounts deductible or otherwise excluded are NOT in the cost base.",
+   "body": "Element 1 (s 110-25(2)): the total of (a) money you paid or are required to pay in respect of acquiring the asset; and (b) the market value of any other property you gave or are required to give in respect of acquiring it (worked out as at the time of acquisition). Element 2 (s 110-35): incidental costs of acquisition and of the CGT event (stamp duty, legal fees, valuation fees, advertising, etc.). Element 3 (s 110-25(4)): non-deductible costs of owning the asset - but only if you acquired the asset AFTER 20 August 1991 (interest, maintenance, repairs, insurance, rates, land tax). Element 4 (s 110-25(5)): capital expenditure the purpose or expected effect of which is to increase or preserve the asset's value; or that relates to installing or moving the asset. NOTE: s 110-25(5A) excludes capital expenditure in relation to goodwill from this element. Element 5 (s 110-25(6)): capital expenditure to establish, preserve or defend your title to the asset, or a right over the asset. Assumption rule (s 110-25(12)): if no CGT event happens at the time you need to work out cost base, assume one does for cost base computation purposes only. Exclusions from cost base: see s 110-38 (bribes, entertainment, penalties, political contributions, boat exp., NDIS, water infrastructure, hybrid mismatch, travel related to residential premises) and s 110-40/110-45 (pre/post 13 May 1997 transitional rules).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -121,13 +121,23 @@
   {
    "id": "dec-not-in-costbase",
    "type": "decision",
-   "label": "Is any amount excluded from the cost base (s 110-25(7)-(8))?",
-   "body": "Amounts that are deductible (or would be), private or domestic expenditure, amounts of a capital nature already counted, and some GST input tax credits are NOT in the cost base. If an amount is excluded, it does not increase the cost base — this is the key carve-out boundary.",
+   "label": "Is any amount excluded from the cost base per s 110-38 (cost base exclusions) or ss 110-40/110-45 (transitional)?",
+   "body": "Section 110-38 excludes from the cost base: expenditure related to certain offences (s 26-54), bribes to foreign/public officials, entertainment, penalties (s 26-5), travel related to residential premises (s 26-31), boat expenditure (s 26-47), political contributions (s 26-22), NDIS expenditure (s 26-97), water infrastructure (s 26-100), and hybrid mismatch amounts (Div 832). Sections 110-40 and 110-45 provide transitional exclusion rules for assets acquired before/after 7:30 pm on 13 May 1997. If an amount is excluded, it does not increase the cost base.",
    "statute": [
     {
      "act": "itaa-1997",
-     "section": "110-25",
-     "title": ""
+     "section": "110-38",
+     "title": "Exclusions"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "110-40",
+     "title": "Assets acquired before 7.30 pm on 13 May 1997"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "110-45",
+     "title": "Assets acquired after 7.30 pm on 13 May 1997"
     }
    ],
    "commentary": [],
@@ -152,7 +162,7 @@
    "id": "action-reduced",
    "type": "action",
    "label": "Work out the 5 elements of the reduced cost base",
-   "body": "Same 5 elements as the cost base (s 110-55(2)) but WITHOUT indexation. The reduced cost base is used to work out capital losses. Note the reduced cost base is reduced by net input tax credits (s 103-30).",
+   "body": "Elements 1, 2, 4 and 5 of the reduced cost base are the SAME as those for the cost base (s 110-55(2)). The THIRD element is DIFFERENT: it is amounts included in your assessable income because of a balancing adjustment for the asset, or amounts that would have been so included but for certain relief provisions (s 110-55(3); see ss 40-365, 42-285, 42-290, 42-293, former s 59(2A)/(2D) of ITAA 1936). The reduced cost base does NOT include indexation (s 110-55(1)). EXCLUSIONS from the reduced cost base (ss 110-55(4)-(9K)): deducted or deductible amounts (s 110-55(4)); amounts that could have been deducted if used wholly for producing assessable income (s 110-55(5)); recoupment amounts (s 110-55(6)); landcare/water facility tax offset choice (s 110-55(6A)); share distribution reduction for corporate tax entities (ss 110-55(7)-(8)); deducted amounts from a CGT event (s 110-55(9)); and various nondeductible categories under ss 26-54, 26-5 (penalties), 26-47 (boats), 26-22 (political), 26-100 (water), 26-97 (NDIS), 26-31 (travel), and Div 832 (hybrid mismatch) - per ss 110-55(9A)-(9K). Assumption rule (s 110-55(10)): if no CGT event happens at the time you need to work out reduced cost base, assume one does for computation purposes only.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -305,13 +315,8 @@
    "id": "dec-proceeds",
    "type": "action",
    "label": "Work out the capital proceeds from the CGT event (Div 116)",
-   "body": "Capital proceeds are the total money and the market value of any other property received or entitled to be received (s 116-20). The general rule: money received (s 116-20(1)) plus market value of property (s 116-20(2)). Modifications in ss 116-25 to 116-120 apply to specific situations: market value substitution for non-arm's length (s 116-30), non-receipt (s 116-35), repayment (s 116-40), misappropriation (s 116-45), compensation (s 116-50), instalments (s 116-55), rights (s 116-60), debts (s 116-65), foreign currency (s 116-70), depreciating assets (s 116-80), shares/units (s 116-85), trusts (s 116-90), annuities (s 116-95), life insurance (s 116-100), options (s 116-105), reduction for liabilities (s 116-110), mortgage (s 116-115), increased cost base (s 116-120).",
+   "body": "Capital proceeds are the total of money you have received or are entitled to receive, plus the market value of any other property received or entitled to be received, in respect of the CGT event (s 116-20(1)).\n\nCOMMON MODIFICATIONS that can change capital proceeds:\n- Market value substitution (s 116-30) - if no proceeds, or proceeds can't be valued, or non-arm's length dealing producing more/less than market value.\n- Non-receipt (s 116-35) - if you never receive the proceeds and the debtor is insolvent etc.\n- Repayment (s 116-40) - if you repay part of the proceeds.\n- Misappropriation (s 116-45) - if proceeds are misappropriated by certain entities.\n- Compensation (s 116-50) - loss or destruction of asset.\n- Instalments (s 116-55) - proceeds received in instalments.\n- Reduction for liabilities (s 116-110) - capital proceeds are reduced by the amount of liabilities to which the asset was subject.\n- Mortgage (s 116-115) - special rule for mortgaged assets.\n- Increased cost base (s 116-120) - if the cost base increased after the event.\n- Other modifications: ss 116-60 (rights), 116-65 (debts), 116-70 (foreign currency), 116-80 (depreciating assets), 116-85 (shares/units), 116-90 (trusts), 116-95 (annuities), 116-100 (life insurance), 116-105 (options).",
    "statute": [
-    {
-     "act": "itaa-1997",
-     "section": "116-1",
-     "title": "What this Division is about"
-    },
     {
      "act": "itaa-1997",
      "section": "116-20",
@@ -320,12 +325,27 @@
     {
      "act": "itaa-1997",
      "section": "116-30",
-     "title": "Market value substitution"
+     "title": "Market value substitution rule"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "116-35",
+     "title": "Non-receipt"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "116-40",
+     "title": "Repayment"
     },
     {
      "act": "itaa-1997",
      "section": "116-110",
      "title": "Capital proceeds reduced by liabilities"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "116-115",
+     "title": "Mortgage"
     }
    ],
    "commentary": [],
@@ -411,8 +431,8 @@
   {
    "id": "dec-discount-eligible",
    "type": "decision",
-   "label": "Is the gain a discount capital gain (Div 115)?",
-   "body": "A capital gain is a discount capital gain if: the asset was held for at least 12 months (s 115-25, with exceptions), the gain is made by an individual, trust or complying super fund (NOT a company — s 115-15(1)), and the CGT event happened after 21 September 1999 (s 115-15(2)). Also certain gains are excluded (s 115-40 — e.g. from the revocation of a roll-over; s 115-45; s 775-70).",
+   "label": "Is the gain a discount capital gain? (Check: entity type, 12-month holding, event date, excluded gains)",
+   "body": "A capital gain is a DISCOUNT CAPITAL GAIN if ALL of the following are true:\n1. ENTITY TYPE: The gain is made by an individual, a trust, or a complying superannuation entity (NOT a company - s 115-15(1); for foreign/temporary residents see ss 115-105, 115-110, 115-120).\n2. 12-MONTH HOLDING: The CGT asset was acquired at least 12 months before the CGT event (s 115-25(1); modified by ss 115-30 and 115-34 for certain acquisitions).\n3. CGT EVENT DATE: The CGT event happened AFTER 21 September 1999 (s 115-15(2)). (Pre-21/9/1999 assets may qualify if acquired at least 12 months before the event - s 115-25.)\n4. NOT EXCLUDED: Certain gains are EXCLUDED from being discount capital gains - e.g. gains from revocation of a roll-over (s 115-40), gains from certain shares/units in non-resident companies/trusts (s 115-45), and gains affected by foreign exchange rates (s 775-70).\n\nIf ALL conditions are met, apply the discount percentage (see action-discount). If ANY condition fails, the gain is not a discount capital gain.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -554,8 +574,8 @@
   },
   {
    "from": "action-reduced",
-   "to": "dec-proceeds",
-   "label": "Reduced cost base done"
+   "to": "dec-modifications",
+   "label": "Reduced cost base done - check Div 112 modifications"
   },
   {
    "from": "dec-indexation",

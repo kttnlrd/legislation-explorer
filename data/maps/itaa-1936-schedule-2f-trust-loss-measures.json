@@ -13,7 +13,7 @@
    "id": "start",
    "type": "start",
    "label": "A trust has a tax loss (or debt) deduction it wants to claim",
-   "body": "A trust can deduct in the income year a tax loss from a loss year, or claim a debt deduction. Schedule 2F may deny or restrict that deduction where there has been a change in ownership, abnormal trading or a change in control over the test period — the period from the beginning of the loss year until the end of the income year (ss 266-25(1)(b), 267-20(1)(b)). Schedule 2F's own roadmap is in Div 265 (ss 265-5, 265-10).",
+   "body": "A trust has a tax loss or debt deduction it wants to claim. Schedule 2F restricts deductions where there has been a change in ownership/control of the trust. NOTE: the ordinary fixed trust path (s 266-25) applies to a TAX LOSS; debt deductions and cases where the trust did not work out its net income/tax loss under Div 268 are handled by the notice backstops (s 266-55) and the special computation rules.",
    "rulings": []
   },
   {
@@ -237,8 +237,8 @@
   {
    "id": "action-pattern-distributions",
    "type": "action",
-   "label": "Pattern of distributions test (s 269-60)",
-   "body": "The trust passes the pattern of distributions test for an income year if, before the end of 2 months after the end of the income year, it distributed directly or indirectly to the same individuals, for their own benefit: (a) a greater than 50% share of all test year distributions of income, and (b) a greater than 50% share of all test year distributions of capital (s 269-60). Test year distributions: s 269-65. Incomplete distributions: s 269-75. Death / breakdown of marriage: s 269-80. Anti-avoidance: s 269-85.",
+   "label": "Apply the pattern of distributions test (s 267-30(2)/s 269-60)",
+   "body": "The pattern of distributions test compares distributions over the test period. It is a pass/fail condition — failing it denies the deduction (subject to the s 267-35 prior-failure rules).",
    "rulings": []
   },
   {
@@ -251,8 +251,8 @@
   {
    "id": "dec-267-individuals",
    "type": "decision",
-   "label": "Are there individuals with more than a 50% stake in the trust (s 267-40)?",
-   "body": "If at any time (the test time) in the test period individuals (the threshold group) have more than a 50% stake in the income or capital of the trust, the trust must ensure that during the period from the test time to the end of the test period, the same individuals (some or all of the threshold group) maintain more than a 50% stake in the income or capital respectively (s 267-40(2)). Commissioner discretion to preserve the stake: s 267-40(3).",
+   "label": "Do individuals have more than a 50% stake in the trust (s 267-40)?",
+   "body": "s 267-40(1): if at any time in the test period individuals (the threshold group) have more than a 50% stake in the income or capital of the trust, the trust must maintain that stake (s 267-40(2)) for the rest of the test period, with a Commissioner discretion (s 267-40(3)). If NO threshold group exists, s 267-40 is NOT engaged — the condition is satisfied by default and the analysis continues.",
    "rulings": []
   },
   {
@@ -293,8 +293,8 @@
   {
    "id": "action-268-net-income",
    "type": "action",
-   "label": "Calculate net income for the year and the s 36-10 tax loss",
-   "body": "The trust's net income for the income year is the sum of the notional amounts (s 268-45); the s 36-10 ITAA 1997 tax loss for the year is worked out under s 268-60.",
+   "label": "Calculate net income for the year and the s 36-10 tax loss (machinery)",
+   "body": "ss 268-45 and 268-60: compute the net income and tax loss on modified assumptions — machinery only. The result feeds the substantive Schedule 2F tests but does not by itself make the loss deductible.",
    "rulings": []
   },
   {
@@ -356,8 +356,8 @@
   {
    "id": "action-266-55",
    "type": "action",
-   "label": "Notice backstop — non-fixed trusts with interests in fixed trusts (ss 266-55, 266-60)",
-   "body": "Where a non-fixed trust has an interest in a fixed trust and the fixed trust relies on the s 266-45 conditions, the Commissioner may give a notice (s 266-55) if, when the notice is given, a trustee of the non-fixed trust is a non-resident or its central management and control is outside Australia (s 266-55(4)). If the requirements of the notice are not met, s 266-60 deems the fixed trust never to have met the condition in s 266-45 — collapsing the s 266-45 pathway even where the test would otherwise be passed.",
+   "label": "Notice backstop — non-fixed trusts with interests in fixed trusts (s 266-55)",
+   "body": "s 266-55(1): the Commissioner may give the trustee of a fixed trust a notice (s 266-60) if the s 266-55(2)-(5) requirements are met. s 266-55(2) triggers: the fixed trust (a) deducted a tax loss from an earlier year; or (b) did not work out its net income and tax loss under Div 268; or (c) deducted an amount in relation to a debt — where the deduction would not be allowed unless it met the s 266-45 conditions. s 266-55(3): the Commissioner must need information about a non-fixed trust mentioned in s 266-45(5). Non-compliance with the notice denies the deduction.",
    "rulings": [],
    "statute": [
     {
@@ -394,6 +394,24 @@
    "label": "FTDT does not apply",
    "body": "No effective family trust election is in force (or the family control test is not passed), so family trust distribution tax is not attracted. The trust may still be an excepted trust under s 272-100(a) only if a valid election is in force — otherwise the Div 266/267 loss rules apply.",
    "rulings": []
+  },
+  {
+   "id": "dec-wh-50pct",
+   "type": "decision",
+   "label": "Widely held trust abnormal trading: does the trust pass the 50% stake test (s 266-40, Subdiv 269-B)?",
+   "body": "For widely held unit trusts where abnormal trading occurred, the 50% stake test under s 266-40 applies within the Subdiv 269-B abnormal trading analysis. FAILING the test for a widely held trust does NOT route to the non-fixed trust alternative (s 266-45) — that alternative belongs to the fixed-trust path only. Failure here means the loss is denied (subject to the business continuity test where applicable)."
+  },
+  {
+   "id": "dec-pattern-pass",
+   "type": "decision",
+   "label": "Does the trust satisfy the current-year pattern of distributions test (s 267-30(2)/s 269-60)?",
+   "body": "The pattern of distributions test (s 267-30(2), worked out under s 269-60) is a pass/fail condition. If the trust fails the current-year pattern of distributions test, the deduction is denied (subject to prior-failure rules)."
+  },
+  {
+   "id": "outcome-computation-complete",
+   "type": "outcome",
+   "label": "Div 268 computation complete — substantive conditions govern deductibility",
+   "body": "Computing net income and tax loss under ss 268-45 and 268-60 is MACHINERY, not a substantive Schedule 2F deduction test. Reaching this node does not by itself allow the deduction — the substantive conditions (stake test, pattern test, etc.) determine deductibility."
   }
  ],
  "edges": [
@@ -504,8 +522,8 @@
   },
   {
    "from": "action-abnormal-trading",
-   "to": "dec-50pct-fixed",
-   "label": "Abnormal trading found — does a 50% stake exception apply?"
+   "to": "dec-wh-50pct",
+   "label": "Abnormal trading found — 50% stake test for widely held trust"
   },
   {
    "from": "action-abnormal-trading",
@@ -594,8 +612,8 @@
   },
   {
    "from": "action-pattern-distributions",
-   "to": "dec-267-prev-fail",
-   "label": "Test applied (s 269-60)"
+   "to": "dec-pattern-pass",
+   "label": "Pattern test applied"
   },
   {
    "from": "dec-267-prev-fail",
@@ -610,12 +628,12 @@
   {
    "from": "dec-267-individuals",
    "to": "action-267-group-control",
-   "label": "Individuals >50% stake — condition in s 267-40(2) checked"
+   "label": "Yes — threshold group exists: check s 267-40(2) maintenance"
   },
   {
    "from": "dec-267-individuals",
    "to": "outcome-denied",
-   "label": "s 267-40(2) condition not met"
+   "label": "Threshold group exists but 50%+ stake not maintained"
   },
   {
    "from": "action-267-group-control",
@@ -649,8 +667,8 @@
   },
   {
    "from": "action-268-net-income",
-   "to": "outcome-deductible",
-   "label": "Net income and tax loss computed (ss 268-45, 268-60)"
+   "to": "outcome-computation-complete",
+   "label": "Computation complete"
   },
   {
    "from": "action-270-scheme",
@@ -771,6 +789,36 @@
    "from": "dec-vwh",
    "to": "action-unlisted-wh",
    "label": "No — ordinary unlisted widely held trust (s 272-110)"
+  },
+  {
+   "from": "dec-wh-50pct",
+   "to": "outcome-deductible",
+   "label": "Yes — passes 50% stake test"
+  },
+  {
+   "from": "dec-wh-50pct",
+   "to": "outcome-denied",
+   "label": "No — fails: loss denied"
+  },
+  {
+   "from": "dec-pattern-pass",
+   "to": "dec-267-prev-fail",
+   "label": "Yes — pattern satisfied: check prior failures"
+  },
+  {
+   "from": "dec-pattern-pass",
+   "to": "outcome-denied",
+   "label": "No — pattern test failed: deduction denied"
+  },
+  {
+   "from": "dec-267-individuals",
+   "to": "action-267-group-control",
+   "label": "No threshold group — s 267-40 not engaged: continue"
+  },
+  {
+   "from": "outcome-computation-complete",
+   "to": "end",
+   "label": "Complete"
   }
  ],
  "short": "Trust loss measures",

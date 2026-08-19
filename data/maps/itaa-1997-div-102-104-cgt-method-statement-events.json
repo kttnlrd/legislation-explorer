@@ -7,7 +7,7 @@
  "subdivision": "",
  "compilation_no": 263,
  "compilation_date": "2026-04-01",
- "summary": "The Div 102 method statement (s 102-5) computes the net capital gain: gains and losses per CGT event, CGT discount for eligible gains (Div 115), loss offset (current then prior years, ss 102-10/102-15), and inclusion in assessable income. Div 104 defines all 53 CGT events A1-L8 (the s 104-5 table is the authoritative completeness list): disposals (A1), use and enjoyment (B1), loss/destruction and endings (C1-C3), rights creation (D1-D4), trusts (E1-E10), leases (F1-F5), shares (G1/G3), special receipts (H1-H2), residency ends (I1-I2), roll-over recapture (J1-J6), special events (K1-K12) and consolidation (L1-L8). Subsection coverage: Div 102 steps 1-4 of s 102-5 mapped; all 53 events from the s 104-5 table mapped; s 104-5 subsection detail per event (time, gain formula) carried in node bodies; Div 115 discount percentage and Div 112 modifications are separate maps.",
+ "summary": "The Div 102 method statement (s 102-5) computes the net capital gain: Step 1 reduce capital gains by current-year capital losses, Step 2 apply prior-year net capital losses (or disregard if bankrupt per s 102-5(2)-(3)), Step 3 apply CGT discount percentage (Div 115), Step 4 apply small business concessions (Subdiv 152-C/D/E), Step 5 sum remaining = net capital gain. Div 104 defines all CGT events A1-L8 including K8 (the s 104-5 table is the authoritative completeness list): disposals (A1), use and enjoyment (B1), loss/destruction and endings (C1-C3), rights creation (D1-D4), trusts (E1-E10), leases (F1-F5), shares (G1/G3), special receipts (H1-H2), residency ends (I1-I2), roll-over recapture (J1-J6), special events (K1-K12) and consolidation (L1-L8). Subsection coverage: s 102-5 steps 1-5 mapped; all events from the s 104-5 table mapped; s 102-5(2)-(3) bankruptcy disregard captured as decision node; s 104-5 subsection detail per event (time, gain formula) carried in node bodies; Div 115 discount percentage and Div 112 modifications are separate maps.",
  "nodes": [
   {
    "id": "start",
@@ -54,7 +54,7 @@
   {
    "id": "step-gains",
    "type": "action",
-   "label": "STEP 1 — Work out your capital gains and capital losses for the income year",
+   "label": "Work out your capital gains and losses for each CGT event",
    "body": "For each CGT event, work out the capital gain (capital proceeds less cost base) or capital loss (reduced cost base less capital proceeds). The event table in s 104-5 specifies the gain/loss formula for each event (A1-L8).",
    "statute": [
     {
@@ -91,13 +91,13 @@
   {
    "id": "step-discount",
    "type": "action",
-   "label": "STEP 2 — Apply the CGT discount to eligible capital gains",
-   "body": "If the gain is a discount capital gain (asset held 12+ months, made by an individual/trust/super fund — see Div 115), apply the discount percentage (50% individuals/trusts, 33.33% complying super funds). Companies do not get the discount.",
+   "label": "Apply CGT discount percentage to discount capital gains",
+   "body": "Apply the discount percentage to each amount of a discount capital gain remaining after step 2. Discount percentage: 50% for individuals and trusts, 33.33% for complying super funds. Companies do not get the discount. See Division 115.",
    "statute": [
     {
      "act": "itaa-1997",
      "section": "102-5",
-     "title": ""
+     "title": "Method statement — Step 3"
     },
     {
      "act": "itaa-1997",
@@ -124,55 +124,10 @@
    ]
   },
   {
-   "id": "step-losses",
-   "type": "action",
-   "label": "STEP 3 — Reduce your capital gains by capital losses",
-   "body": "Reduce capital gains by current-year capital losses, then by unapplied prior-year net capital losses (s 102-5 step 3, s 102-15). Losses cannot be deducted against ordinary income (s 102-10).",
-   "statute": [
-    {
-     "act": "itaa-1997",
-     "section": "102-10",
-     "title": "Losses cannot be deducted from exempt income"
-    },
-    {
-     "act": "itaa-1997",
-     "section": "102-15",
-     "title": "Net capital losses"
-    },
-    {
-     "act": "itaa-1997",
-     "section": "102-20",
-     "title": "Companies: capital gains"
-    },
-    {
-     "act": "itaa-1997",
-     "section": "102-22",
-     "title": "Trusts: capital gains"
-    }
-   ],
-   "commentary": [],
-   "cases": [],
-   "definitions": [],
-   "rulings": [
-    {
-     "id": "TD_1999_75",
-     "title": ""
-    },
-    {
-     "id": "TD_2024_5",
-     "title": "Income tax: how the non-arm's length income and capital gains tax provisions interact to…"
-    },
-    {
-     "id": "TD_2024_9",
-     "title": "see subsection 995-1(1) of the ITAA 1997. [4] The cost base for the purposes of the…"
-    }
-   ]
-  },
-  {
    "id": "outcome-net",
    "type": "outcome",
-   "label": "NET CAPITAL GAIN — included in assessable income",
-   "body": "The net capital gain (STEP 4 of the method statement) is included in your assessable income. If capital losses exceed gains, there is no net capital gain — the excess is carried forward as a net capital loss.",
+   "label": "NET CAPITAL GAIN — sum of remaining gains (Step 5)",
+   "body": "Add up the amounts of capital gains (if any) remaining after step 4. The sum is your net capital gain for the income year. If capital losses exceed gains, there is no net capital gain — the excess is carried forward as a net capital loss.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -428,7 +383,7 @@
    "id": "event-d3",
    "type": "event",
    "label": "CGT event D3 — Granting a right to income from mining",
-   "body": "You grant a right to receive income from mining on your land. Time is when the contract is entered into. [s 104-45]. Time of event and gain/loss formula per the s 104-5 table.",
+   "body": "You grant a right to receive income from mining on your land. Time is when the contract is entered into, or if there is no contract, when the right is granted. [s 104-45].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -605,8 +560,8 @@
   {
    "id": "event-e6",
    "type": "event",
-   "label": "CGT event E6 — Disposal to a non-resident trust",
-   "body": "You dispose of an asset to a non-resident trust. Time is when the disposal happens. Gain = market value at that time less cost base. [s 104-80]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event E6 — Disposal to beneficiary to end income right",
+   "body": "The trustee of a trust (except a unit trust or estate) disposes of a CGT asset to a beneficiary in satisfaction of the beneficiary's right to income (or part of it). Time is when the disposal occurs. Gain = capital proceeds less cost base; loss = reduced cost base less capital proceeds. [s 104-80].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -629,8 +584,8 @@
   {
    "id": "event-e7",
    "type": "event",
-   "label": "CGT event E7 — Disposal to a non-resident company",
-   "body": "You dispose of an asset to a non-resident company. Time is when the disposal happens. Gain = market value at that time less cost base. [s 104-85]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event E7 — Disposal to beneficiary to end capital interest",
+   "body": "The trustee of a trust (except a unit trust or estate) disposes of a CGT asset to a beneficiary in satisfaction of the beneficiary's capital interest (or part of it). Time is when the disposal occurs. Gain/loss as per s 104-5 formula. [s 104-85].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -653,8 +608,8 @@
   {
    "id": "event-e8",
    "type": "event",
-   "label": "CGT event E8 — Disposal by a trust to a non-resident entity",
-   "body": "A trust disposes of an asset to a non-resident entity. Time is when the disposal happens. The trust is treated as having made a gain. [s 104-90]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event E8 — Disposal by beneficiary of capital interest",
+   "body": "You are a beneficiary under a trust (except a unit trust or estate) and you dispose of your capital interest in the trust. Time is when the disposal occurs. Gain/loss as per s 104-5 formula. [s 104-90].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -678,7 +633,7 @@
    "id": "event-e9",
    "type": "event",
    "label": "CGT event E9 — Creating a trust over future property",
-   "body": "You create a trust over future property. Time is when the trust is created. [s 104-105]. Time of event and gain/loss formula per the s 104-5 table.",
+   "body": "You agree for consideration that when property comes into existence you will hold it on trust. Time is when the agreement is made. Gain = market value of the future property as if it existed less incidental costs. [s 104-105].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -701,8 +656,8 @@
   {
    "id": "event-e10",
    "type": "event",
-   "label": "CGT event E10 — Annual cost base reduction for a trust interest",
-   "body": "The cost base of your interest in a trust is reduced by an amount each year. Time is the end of the income year. [s 104-107A]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event E10 — AMIT cost base reduction exceeds cost base",
+   "body": "You are a member of an AMIT and the annual cost base reduction exceeds the cost base of your interest. Time is when the reduction happens. Gain = the amount of the excess. [s 104-107A].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -745,7 +700,7 @@
    "id": "event-f2",
    "type": "event",
    "label": "CGT event F2 — Granting a long-term lease",
-   "body": "You grant a lease for at least 99 years. Treated as a disposal of the land (CGT event A1 applies instead). [s 104-115]. Time of event and gain/loss formula per the s 104-5 table.",
+   "body": "You grant, renew or extend a lease over land for at least 99 years. Time is when the grant, renewal or extension occurs. Gain = capital proceeds from the grant/renewal/extension less cost base of the leased property; loss = reduced cost base less capital proceeds. [s 104-115].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -772,8 +727,8 @@
   {
    "id": "event-f3",
    "type": "event",
-   "label": "CGT event F3 — Lessor pays lessee to obtain lease surrender",
-   "body": "A lessor pays the lessee to obtain surrender of the lease. Time is when the lease term ends. [s 104-120]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event F3 — Lessor pays lessee to get lease changed",
+   "body": "A lessor incurs expenditure in getting the lessee's agreement to vary or waive a term of the lease. Time is when the lease term is varied or waived. No capital gain can arise; the lessor makes a capital loss equal to the expenditure amount. [s 104-120].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -791,8 +746,8 @@
   {
    "id": "event-f4",
    "type": "event",
-   "label": "CGT event F4 — Lessee receives payment for lease variation",
-   "body": "A lessee receives a payment for agreeing to a lease variation. Time is when the lease term ends. [s 104-125]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event F4 — Lessee receives payment for changing lease",
+   "body": "A lessee receives a payment from the lessor for agreeing to vary or waive a term of the lease. Time is when the lease term is varied or waived. [s 104-125].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -866,8 +821,8 @@
   {
    "id": "event-g3",
    "type": "event",
-   "label": "CGT event G3 — Liquidator or administrator declares shares worthless",
-   "body": "A liquidator or administrator declares your shares worthless. Time is when the declaration is made. You can choose to make a capital loss. [s 104-145]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event G3 — Liquidator or administrator declares shares or financial instruments worthless",
+   "body": "A liquidator or administrator declares your shares or financial instruments worthless. Time is when the declaration is made. You can choose to make a capital loss equal to the cost base or reduced cost base of the shares/instruments. [s 104-145].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -899,7 +854,7 @@
    "id": "event-h1",
    "type": "event",
    "label": "CGT event H1 — Forfeiture of a deposit",
-   "body": "A deposit you paid for the purchase of property is forfeited. Time is when the deposit is forfeited. You make a capital loss. [s 104-150]. Time of event and gain/loss formula per the s 104-5 table.",
+   "body": "A deposit paid to you is forfeited because a prospective sale or other transaction does not proceed. Time is when the deposit is forfeited. Gain = deposit less expenditure in connection with the prospective sale; loss = expenditure less deposit. [s 104-150].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -922,8 +877,8 @@
   {
    "id": "event-h2",
    "type": "event",
-   "label": "CGT event H2 — Receipt for granting an option",
-   "body": "You receive an amount for granting an option (but D2 may apply). Time is when the act, transaction or event happens. [s 104-155]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event H2 — Receipt for event relating to a CGT asset",
+   "body": "An act, transaction or event occurs in relation to a CGT asset you own and you receive an amount not otherwise assessable. Time is when the act, transaction or event happens. Gain = capital proceeds less incidental costs; loss = incidental costs less capital proceeds. [s 104-155].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1106,8 +1061,8 @@
   {
    "id": "event-j6",
    "type": "event",
-   "label": "CGT event J6 — Cost of acquisition of a replacement asset is reduced to nil",
-   "body": "The cost base of a replacement asset is reduced to nil by a roll-over, then a further reduction would be required. Time is when the further reduction would be made. [s 104-198]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event J6 — Cost of acquisition of replacement asset not sufficient",
+   "body": "The cost base of a replacement asset or fourth element expenditure is reduced to nil but is still not sufficient to cover a disregarded capital gain. Time is at the end of the replacement asset period. Gain = the amount calculated under s 104-198(3). [s 104-198].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1130,8 +1085,8 @@
   {
    "id": "event-k1",
    "type": "event",
-   "label": "CGT event K1 — As the result of an act, transaction or event",
-   "body": "A CGT asset starts being a taxable Australian property. Time is when the act, transaction or event happens. Special rule for assets that become TAP. [s 104-205]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event K1 — Incoming international transfer of an emissions unit",
+   "body": "A Kyoto unit or an Australian carbon credit unit is transferred from your foreign account to your registered emissions unit account. Time is when you start to hold the unit as a registered emissions unit. [s 104-205].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1168,8 +1123,8 @@
   {
    "id": "event-k3",
    "type": "event",
-   "label": "CGT event K3 — Asset passing to a beneficiary of a deceased estate",
-   "body": "A CGT asset passes to a beneficiary of a deceased estate (other than a trustee). Time is when the asset passes. Special rules apply. [s 104-215]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event K3 — Asset passing to tax-advantaged entity",
+   "body": "You die and a CGT asset passes to a tax-advantaged entity (deductible gift recipient, charity, government body, etc.). Time is when you die. Gain = market value of the asset less its cost base. [s 104-215].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1192,8 +1147,8 @@
   {
    "id": "event-k4",
    "type": "event",
-   "label": "CGT event K4 — CGT asset starts being held on trust",
-   "body": "A CGT asset starts being held on trust for a beneficiary absolutely entitled (or a trustee under a will). Time is when it starts being held. [s 104-220]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event K4 — CGT asset starts being trading stock",
+   "body": "You start holding as trading stock a CGT asset you already owned. Time is when the asset starts being trading stock. Gain = market value of the asset at that time less its cost base; loss = reduced cost base less market value. [s 104-220].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1211,8 +1166,8 @@
   {
    "id": "event-k5",
    "type": "event",
-   "label": "CGT event K5 — Special capital loss from a collectable or personal use asset",
-   "body": "A collectable or personal use asset is lost or destroyed and you receive an amount. Time is when the loss/destruction happens. [s 104-225]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event K5 — Special collectable losses",
+   "body": "The market value of a collectable falls and CGT event A1, C2 or E8 happens to shares/interest in the entity that owns the collectable. You make a capital loss equal to the fall in market value. [s 104-225].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1230,8 +1185,8 @@
   {
    "id": "event-k6",
    "type": "event",
-   "label": "CGT event K6 — Pre-CGT shares or trust interests",
-   "body": "Another entity (the interposed entity) starts owning shares/units in an entity whose assets include pre-CGT shares. Time is when the interposed entity starts owning them. Gain = market value of the pre-CGT shares at that time. [s 104-230]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event K6 — Pre-CGT shares or trust interest",
+   "body": "You own pre-CGT shares in a company or pre-CGT interest in a trust, and another CGT event (A1, C2, E8, etc.) happens involving those shares/interest. Time is the time of that other event. Gain = capital proceeds attributable to post-CGT assets less cost bases. [s 104-230].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1262,8 +1217,8 @@
   {
    "id": "event-k7",
    "type": "event",
-   "label": "CGT event K7 — Balancing adjustment on a depreciating asset",
-   "body": "A balancing adjustment event occurs for a depreciating asset and you receive an amount. Time is when the balancing adjustment event occurs. Gain = balancing adjustment amount. [s 104-235]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event K7 — Balancing adjustment event for depreciating asset used for non-taxable purpose",
+   "body": "A balancing adjustment event occurs for a depreciating asset that was used for a non-taxable purpose (not used for an income-producing purpose or an R&D activity). Time is when the balancing adjustment event occurs. Gain = termination value less cost, multiplied by the non-taxable use fraction; loss = cost less termination value, multiplied by the fraction. [s 104-235].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1294,8 +1249,8 @@
   {
    "id": "event-k9",
    "type": "event",
-   "label": "CGT event K9 — Entitlement to receive a payment",
-   "body": "You become entitled to receive a payment (e.g. under an insurance policy or indemnity). Time is when you become entitled. [s 104-255]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event K9 — Carried interests",
+   "body": "You become entitled to receive a payment of a carried interest of a general partner in a VCLP, ESVCLP, AFOF or VCX. Time is when you become entitled. Gain = capital proceeds from the entitlement. No capital loss can arise. [s 104-255].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1357,7 +1312,7 @@
    "id": "event-k12",
    "type": "event",
    "label": "CGT event K12 — Foreign hybrid loss",
-   "body": "A loss from a foreign hybrid (within the meaning of the foreign hybrid rules). Time is when the loss is made. [s 104-270]. Time of event and gain/loss formula per the s 104-5 table.",
+   "body": "You make a capital loss under section 830-50(2)(b) or (3)(b) for a foreign hybrid. Time is just before the end of the income year. Loss amount is as stated in s 104-270(3). [s 104-270].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1403,8 +1358,8 @@
   {
    "id": "event-l2",
    "type": "event",
-   "label": "CGT event L2 — Amount remaining after an entity leaves a group",
-   "body": "An amount remains after the exit rules apply to an entity leaving a consolidated group. Time is just after the entity leaves. [s 104-505]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event L2 — Negative allocable cost amount from pre-formation intra-group roll-over reduction",
+   "body": "A pre-formation intra-group roll-over reduction results in a negative allocable cost amount for a joining entity. Time is just after the entity becomes a subsidiary member of the consolidated group. [s 104-505].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1422,8 +1377,8 @@
   {
    "id": "event-l3",
    "type": "event",
-   "label": "CGT event L3 — Tax cost setting amount for a joining entity",
-   "body": "A tax cost setting amount is set for a joining entity's assets. Time is just after the joining time. [s 104-510]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event L3 — Tax cost setting amounts exceed joining allocable cost amount",
+   "body": "Tax cost setting amounts for retained cost base assets exceed the joining allocable cost amount. Time is just after the joining time. Capital gain = the amount of the excess. [s 104-510].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1502,8 +1457,8 @@
   {
    "id": "event-l6",
    "type": "event",
-   "label": "CGT event L6 — Error in calculation of a tax cost setting amount",
-   "body": "An error is made in calculating a tax cost setting amount. Time is when the error is discovered. [s 104-525]. Time of event and gain/loss formula per the s 104-5 table.",
+   "label": "CGT event L6 — Error in calculation of tax cost setting amount",
+   "body": "An error is made in calculating a tax cost setting amount for a joining entity's assets. Time is at the start of the income year when the Commissioner becomes aware of the error. Gain/loss = the net overstated or understated amount. [s 104-525].",
    "statute": [
     {
      "act": "itaa-1997",
@@ -1594,7 +1549,7 @@
    "id": "outcome-gain",
    "type": "outcome",
    "label": "Capital gain worked out — assessable after discount and loss offset",
-   "body": "The gain feeds into the Div 102 method statement: apply the discount (if eligible), reduce by losses, and include the net capital gain in assessable income.",
+   "body": "The gain enters the s 102-5 method statement: first reduce by current-year losses, then prior-year losses, then apply discount (if eligible), then small business concessions, and the net capital gain is included in assessable income.",
    "statute": [],
    "commentary": [],
    "cases": [],
@@ -1622,9 +1577,142 @@
    "cases": [],
    "definitions": [],
    "rulings": []
+  },
+  {
+   "id": "step-loss-offset-curr",
+   "type": "action",
+   "label": "STEP 1 — Reduce capital gains by current-year capital losses",
+   "body": "Reduce the capital gains you made during the income year by the capital losses (if any) you made during the same income year. You choose the order in which you reduce your capital gains. If capital losses exceed capital gains, you have a net capital loss for the year (see s 102-10).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Method statement — Step 1"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "102-10",
+     "title": "How to work out your net capital loss"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "current-year capital loss"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-bankruptcy",
+   "type": "decision",
+   "label": "Has the taxpayer become bankrupt or been released from debts under a law relating to bankruptcy?",
+   "body": "Under s 102-5(2), if during the income year you became bankrupt or were released from debts under a law relating to bankruptcy, prior-year net capital losses must be disregarded in working out your net capital gain. This applies even if the bankruptcy is annulled under s 74 of the Bankruptcy Act 1966 (s 102-5(3)).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Method statement — s 102-5(2)-(3)"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
+  },
+  {
+   "id": "step-loss-offset-prior",
+   "type": "action",
+   "label": "STEP 2 — Apply prior-year net capital losses",
+   "body": "Apply any previously unapplied net capital losses from earlier income years to reduce the amounts remaining after step 1. Net capital losses are applied in the order in which they were made (oldest first). See s 102-15 for how to apply net capital losses.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Method statement — Step 2"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "102-15",
+     "title": "How to apply net capital losses"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "net capital loss",
+    "prior-year net capital loss"
+   ],
+   "rulings": [
+    {
+     "id": "TD_1999_75",
+     "title": ""
+    },
+    {
+     "id": "TD_2024_5",
+     "title": "Income tax: how the non-arm's length income and capital gains tax provisions interact to..."
+    },
+    {
+     "id": "TD_2024_9",
+     "title": "see subsection 995-1(1) of the ITAA 1997."
+    }
+   ]
+  },
+  {
+   "id": "step-small-biz",
+   "type": "action",
+   "label": "STEP 4 — Apply small business concessions (Subdivisions 152-C, 152-D, 152-E)",
+   "body": "If any capital gains qualify for the small business concessions, apply them as provided for in Subdivisions 152-C (small business 50% reduction), 152-D (small business retirement exemption) and 152-E (small business roll-over). The basic conditions are in Subdivision 152-A. Note: Subdivision 152-C does not apply to CGT events J2, J5 and J6. Subdivision 152-E does not apply to CGT events J5 and J6.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Method statement — Step 4"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "152-1",
+     "title": "What this Division is about"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "small business concession",
+    "active asset"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "event-k8",
+   "type": "event",
+   "label": "CGT event K8 — Direct value shifts",
+   "body": "A direct value shift occurs affecting your equity or loan interests in a company or trust. Time is when the taxing event generating a gain occurs under s 725-245. Gain = amount of the down interest. [s 104-250].",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-250",
+     "title": "Direct value shifts: CGT event K8"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [
+    "CGT event"
+   ],
+   "rulings": []
   }
  ],
  "edges": [
+  {
+   "from": "start",
+   "to": "step-gains",
+   "label": "CGT event happens"
+  },
+  {
+   "from": "step-gains",
+   "to": "dec-which-event",
+   "label": "Identify the event"
+  },
   {
    "from": "dec-which-event",
    "to": "event-a1",
@@ -1891,279 +1979,549 @@
    "label": "Event L8 applies"
   },
   {
-   "from": "start",
-   "to": "step-gains",
-   "label": "CGT event happens"
-  },
-  {
-   "from": "step-gains",
-   "to": "dec-which-event",
-   "label": "Identify the event"
+   "from": "dec-which-event",
+   "to": "event-k8",
+   "label": "Event K8 applies"
   },
   {
    "from": "event-a1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-gain",
+   "label": "Gain arises"
+  },
+  {
+   "from": "event-a1",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-b1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-b1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-c1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-c1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-c2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-c2",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-c3",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-c3",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-d1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-d1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-d2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-d2",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-d3",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-d3",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-d4",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-d4",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e2",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e3",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e3",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e4",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e4",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e5",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e5",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e6",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e6",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e7",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e7",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e8",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e8",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e9",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e9",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-e10",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-e10",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-f1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-f1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-f2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-f2",
-   "to": "dec-eligible-discount",
-   "label": "Gain arises"
+   "to": "outcome-loss",
+   "label": "Loss arises"
   },
   {
    "from": "event-f3",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises (expenditure)"
+  },
+  {
+   "from": "event-f4",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-f4",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-f5",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-f5",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-g1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-g1",
-   "to": "dec-eligible-discount",
-   "label": "Gain arises"
+   "to": "outcome-loss",
+   "label": "Loss arises"
   },
   {
    "from": "event-g3",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-h1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-h1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-h2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-h2",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-i1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-i1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-i2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-i2",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-j1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-j1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-j2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-j2",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-j4",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-j4",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-j5",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-j5",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-j6",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-j6",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-k1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-k1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-k2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-k2",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-k3",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-k3",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-k4",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-k4",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-k5",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-k5",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-k6",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-k6",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-k7",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-k7",
-   "to": "dec-eligible-discount",
-   "label": "Gain arises"
+   "to": "outcome-loss",
+   "label": "Loss arises"
   },
   {
    "from": "event-k9",
-   "to": "dec-eligible-discount",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-k10",
-   "to": "dec-eligible-discount",
+   "to": "outcome-gain",
    "label": "Gain arises"
+  },
+  {
+   "from": "event-k10",
+   "to": "outcome-loss",
+   "label": "Loss arises"
   },
   {
    "from": "event-k11",
-   "to": "dec-eligible-discount",
-   "label": "Gain arises"
+   "to": "outcome-loss",
+   "label": "Loss arises"
   },
   {
    "from": "event-k12",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-l1",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-l1",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-l2",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-l2",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-l3",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-l3",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-l4",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-l4",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-l5",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-l5",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-l6",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-l6",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-l8",
+   "to": "outcome-gain",
    "label": "Gain arises"
   },
   {
    "from": "event-l8",
-   "to": "dec-eligible-discount",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "event-k8",
+   "to": "outcome-gain",
    "label": "Gain arises"
+  },
+  {
+   "from": "event-k8",
+   "to": "outcome-loss",
+   "label": "Loss arises"
+  },
+  {
+   "from": "outcome-gain",
+   "to": "step-loss-offset-curr",
+   "label": "Gain enters method statement"
+  },
+  {
+   "from": "step-loss-offset-curr",
+   "to": "dec-bankruptcy",
+   "label": "Losses offset"
+  },
+  {
+   "from": "dec-bankruptcy",
+   "to": "step-loss-offset-prior",
+   "label": "No — apply prior-year losses"
+  },
+  {
+   "from": "dec-bankruptcy",
+   "to": "step-discount",
+   "label": "Yes — disregard prior-year losses (s 102-5(2))"
+  },
+  {
+   "from": "step-loss-offset-prior",
+   "to": "dec-eligible-discount",
+   "label": "Prior losses applied"
   },
   {
    "from": "dec-eligible-discount",
@@ -2172,23 +2530,18 @@
   },
   {
    "from": "dec-eligible-discount",
-   "to": "step-losses",
-   "label": "No — no discount (company, or <12 months)"
-  },
-  {
-   "from": "dec-eligible-discount",
-   "to": "outcome-loss",
-   "label": "Loss arises instead of gain"
+   "to": "step-small-biz",
+   "label": "No — not a discount capital gain"
   },
   {
    "from": "step-discount",
-   "to": "step-losses",
-   "label": "Discounted gain"
+   "to": "step-small-biz",
+   "label": "Discounted gains"
   },
   {
-   "from": "step-losses",
+   "from": "step-small-biz",
    "to": "outcome-net",
-   "label": "Net capital gain after losses"
+   "label": "Concessions applied"
   },
   {
    "from": "outcome-net",
@@ -2197,18 +2550,8 @@
   },
   {
    "from": "outcome-loss",
-   "to": "end",
-   "label": ""
-  },
-  {
-   "from": "outcome-gain",
-   "to": "step-losses",
-   "label": "Gain enters method statement"
-  },
-  {
-   "from": "dec-eligible-discount",
-   "to": "outcome-gain",
-   "label": "No — not a discount gain (company, <12 months)"
+   "to": "step-loss-offset-curr",
+   "label": "Loss enters method statement — reduces gains under Step 1"
   }
  ],
  "short": "CGT method & events",

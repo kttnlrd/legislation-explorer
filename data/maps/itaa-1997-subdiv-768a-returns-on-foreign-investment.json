@@ -13,7 +13,7 @@
    "id": "start",
    "type": "start",
    "label": "Australian corporate tax entity receives a distribution from a foreign company",
-   "body": "Subdivision 768-A applies when an Australian corporate tax entity receives a foreign equity distribution from a foreign company, either directly or indirectly through one or more interposed trusts or partnerships that are not corporate tax entities.",
+   "body": "Subdivision 768-A applies when an Australian corporate tax entity receives a foreign equity distribution from a foreign company, either directly or indirectly through one or more interposed trusts or partnerships. The entity must satisfy a minimum 10% participation interest in the foreign company (the participation test).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -46,7 +46,7 @@
    "id": "dec-entity-type",
    "type": "decision",
    "label": "Is the recipient entity an Australian resident corporate tax entity? (s 768-5(1)(a))",
-   "body": "The entity must be an Australian resident and a corporate tax entity. 'Corporate tax entity' includes companies, corporate limited partnerships, and public trading trusts. The entity must also not receive the distribution in the capacity of a trustee, unless it is a trustee of a public trading trust (s 768-5(1)(c)).",
+   "body": "The entity must be an Australian resident and a corporate tax entity. 'Corporate tax entity' includes companies, corporate limited partnerships, and public trading trusts. See s 768-5(1)(a).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -116,7 +116,7 @@
    "id": "dec-foreign-tax-deduction",
    "type": "decision",
    "label": "Does the distribution give rise to a foreign income tax deduction? (s 768-7)",
-   "body": "Section 768-5(1)(d) excludes distributions to which s 768-7 applies. Section 768-7 applies if all or part of the distribution gives rise to a foreign income tax deduction (i.e. the foreign company gets a deduction for the distribution), unless the exception in s 768-7(2) applies. The exception applies if: (a) the foreign income tax deduction arises because the company is recognised as being used for collective investment; and (b) foreign income tax or withholding-type tax was payable in respect of the distribution (e.g. foreign corporate collective investment vehicles).",
+   "body": "Section 768-5(1)(d) (direct receipts) and s 768-5(2)(f) (indirect receipts) exclude distributions to which s 768-7 applies. Section 768-7 applies if all or part of the distribution gives rise to a foreign income tax deduction (i.e. the foreign company gets a deduction for the distribution), unless the exception in s 768-7(2) applies. The exception applies if: (a) the foreign income tax deduction arises because the company is recognised as being used for collective investment; and (b) foreign income tax or withholding-type tax was payable in respect of the distribution (e.g. foreign corporate collective investment vehicles).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -138,8 +138,8 @@
   {
    "id": "dec-participation-test",
    "type": "decision",
-   "label": "Does the entity satisfy the 10% participation test? (s 768-15)",
-   "body": "An entity satisfies the participation test in relation to another entity if the sum of the following is at least 10%: (a) the direct participation interest the entity would have in the other entity if rights on winding-up were disregarded; (b) the indirect participation interest the entity would have in the other entity if rights on winding-up were disregarded and s 960-185 only applied to intermediate entities that are not corporate tax entities. The test looks at direct and indirect participation interests through interposed trusts, partnerships, or non-corporate tax entities.",
+   "label": "Does the entity satisfy the 10% participation test at the time the distribution is made? (s 768-5(1)(b)/(2)(d), s 768-15)",
+   "body": "An entity satisfies the participation test in relation to another entity at a time if, at that time, the sum of the following is at least 10%: (a) the direct participation interest the entity would have in the other entity if rights on winding-up were disregarded; (b) the indirect participation interest the entity would have in the other entity if rights on winding-up were disregarded and s 960-185 only applied to intermediate entities that are not corporate tax entities. The test looks at direct and indirect participation interests through interposed trusts, partnerships, or non-corporate tax entities. The test must be satisfied at the time the distribution is made (s 768-5(1)(b)/(2)(d)).",
    "statute": [
     {
      "act": "itaa-1997",
@@ -165,9 +165,9 @@
   },
   {
    "id": "dec-cfc-attribution",
-   "type": "decision",
-   "label": "Is the distribution from a CFC's attributable income? (s 768-5(2) carve-out context)",
-   "body": "While Subdivision 768-A applies broadly to foreign equity distributions, if the distribution comes from a CFC (controlled foreign company) and is attributable income under the CFC rules (Part X ITAA 1936), a different treatment path may apply. The NANE treatment under s 768-5 operates alongside the CFC attribution rules — if the dividend is paid out of attributed income that has already been taxed in Australia under the accruals system, special rules prevent double taxation. The CFC attribution carve-out is a boundary condition: if the distribution reflects income already attributed under the CFC rules, Subdiv 768-A NANE treatment still applies but the CFC attribution must be reconciled.",
+   "type": "event",
+   "label": "Context: CFC attribution rules (not a condition of s 768-5)",
+   "body": "Section 768-5 does not contain any CFC (controlled foreign company) carve-out or condition. The NANE treatment under s 768-5 operates independently of the CFC attribution rules. If the distribution reflects income already attributed under the CFC rules (Part X ITAA 1936), the CFC attribution rules address double taxation separately. This node is for context only and does not represent a step in the s 768-5 analysis.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -209,7 +209,7 @@
    "id": "dec-direct-or-indirect",
    "type": "decision",
    "label": "Direct receipt (s 768-5(1)) or indirect through trust/partnership (s 768-5(2))?",
-   "body": "Direct receipt: the entity receives the foreign equity distribution directly from the foreign company. Indirect receipt: an amount is all or part of the net income of a trust or partnership that would otherwise be included in the entity's assessable income (under Div 5 or 6 of Part III ITAA 1936 or Div 276 ITAA 1997), and the amount can be attributed (directly or indirectly) to a foreign equity distribution. For indirect receipts, the NANE treatment applies at the beneficiary/partner level.",
+   "body": "Direct receipt: the entity receives the foreign equity distribution directly from the foreign company. Indirect receipt: an amount flows through a trust or partnership to the entity.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -310,7 +310,7 @@
   },
   {
    "id": "interaction-768g",
-   "type": "interaction",
+   "type": "event",
    "label": "Interaction: Subdivision 768-G — Participation exemption for gains (s 768-520)",
    "body": "Subdivision 768-G provides a participation exemption for capital gains on interests in foreign entities, similar to the Subdiv 768-A participation exemption for foreign dividends. The two subdivisions form a coordinated participation exemption regime for foreign investment returns. s 768-520 is the operative provision for the gains exemption. Together they ensure that both dividends (revenue) and capital gains on the disposal of participation interests are treated as NANE where the 10% participation threshold is met.",
    "statute": [
@@ -337,9 +337,9 @@
   },
   {
    "id": "interaction-23aj",
-   "type": "interaction",
+   "type": "event",
    "label": "Interaction: Former s 23AJ ITAA 1936 — non-portfolio dividend exemption (pre-17 Oct 2014)",
-   "body": "Before 17 October 2014, the non-portfolio dividend exemption under s 23AJ ITAA 1936 applied. Subdivision 768-A replaced this regime for distributions and non-share dividends made after that date. Key differences: (1) s 23AJ was limited to companies; Subdiv 768-A extends to all corporate tax entities (including corporate limited partnerships and public trading trusts). (2) s 23AJ used 'voting interests'; Subdiv 768-A uses 'participation interests' (wider, includes non-share equity interests). (3) Subdiv 768-A covers indirect receipts through interposed trusts/partnerships. For the old regime, refer to earlier editions of the Master Tax Guide.",
+   "body": "Before 17 October 2014, the non-portfolio dividend exemption under s 23AJ ITAA 1936 applied. Subdivision 768-A replaced this regime for distributions and non-share dividends made after 16 October 2014. Key differences: (1) s 23AJ was limited to companies; Subdiv 768-A extends to all corporate tax entities (including corporate limited partnerships and public trading trusts). (2) s 23AJ used 'voting interests'; Subdiv 768-A uses 'participation interests' (wider, includes non-share equity interests). (3) Subdiv 768-A covers indirect receipts through interposed trusts/partnerships. For the old regime, refer to earlier editions of the Master Tax Guide.",
    "statute": [],
    "commentary": [
     "exemption-for-non-portfolio-dividends"
@@ -353,7 +353,7 @@
   },
   {
    "id": "interaction-nane-glossary",
-   "type": "interaction",
+   "type": "event",
    "label": "Interaction: NANE income concept (s 6-23, s 96-1)",
    "body": "Non-assessable non-exempt (NANE) income is income that is neither assessable income nor exempt income. Per s 6-23, NANE income is not subject to income tax. The NANE label is used throughout the ITAA 1997 for a variety of provisions where the policy is that the amount is outside the tax base entirely (not merely exempt with potential loss consequences). NANE income under Subdiv 768-A does not form part of the entity's exempt income and therefore does not affect the application of loss recoupment rules or other provisions that depend on exempt income.",
    "statute": [
@@ -389,7 +389,7 @@
   },
   {
    "id": "interaction-section-25-90",
-   "type": "interaction",
+   "type": "event",
    "label": "Interaction: Deduction for outgoings relating to NANE foreign income (s 25-90)",
    "body": "Section 25-90 provides a specific deduction for losses or outgoings incurred in deriving NANE foreign income (including Subdiv 768-A NANE dividends) where the amount is a cost in relation to certain debt interests under the thin capitalisation rules. The NANE amount is taken, for s 25-90 purposes, to be derived from the same source as the foreign equity distribution (s 768-5(3)). The ATO considers it is not necessary for the taxpayer to actually derive the relevant dividend in the same income year as the cost is incurred, provided there is a sufficiently clear nexus (TD 2009/21).",
    "statute": [
@@ -493,6 +493,50 @@
     "foreign income tax offset"
    ],
    "rulings": []
+  },
+  {
+   "id": "dec-trustee-capacity",
+   "type": "decision",
+   "label": "Does the entity receive the distribution in the capacity of a trustee? (s 768-5(1)(c))",
+   "body": "Section 768-5(1)(c) requires that the entity either: (i) does not receive the distribution in the capacity of a trustee; or (ii) receives the distribution in the capacity of a trustee of a public trading trust. If the entity receives the distribution as a trustee of any other trust, the condition is not met.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-5",
+     "title": "Foreign equity distributions on participation interests"
+    }
+   ],
+   "commentary": [
+    "exemption-for-non-portfolio-dividends"
+   ],
+   "cases": [],
+   "definitions": [
+    "trustee",
+    "public trading trust"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-indirect-conditions",
+   "type": "decision",
+   "label": "Is the amount included under Div 276 or Div 5/6 Part III ITAA 1936, and attributable to a foreign equity distribution? (s 768-5(2)(b)-(c))",
+   "body": "For indirect receipts through trusts or partnerships, the amount must be all or part of the net income of the trust or partnership that would (apart from s 768-5(2)) be included in the entity's assessable income because of Division 276 (ITAA 1997) or Division 5 or 6 of Part III (ITAA 1936), and the amount must be attributable (directly or indirectly) to a foreign equity distribution.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "768-5",
+     "title": "Foreign equity distributions on participation interests"
+    }
+   ],
+   "commentary": [
+    "exemption-for-non-portfolio-dividends"
+   ],
+   "cases": [],
+   "definitions": [
+    "net income of the trust",
+    "net income of the partnership"
+   ],
+   "rulings": []
   }
  ],
  "edges": [
@@ -500,16 +544,6 @@
    "from": "start",
    "to": "dec-entity-type",
    "label": "distribution received"
-  },
-  {
-   "from": "dec-entity-type",
-   "to": "condition-not-met",
-   "label": "No — not a corporate tax entity or is a trustee"
-  },
-  {
-   "from": "dec-entity-type",
-   "to": "dec-foreign-equity-distribution",
-   "label": "Yes — AU corporate tax entity"
   },
   {
    "from": "dec-foreign-equity-distribution",
@@ -537,31 +571,6 @@
    "label": "No — participation < 10%"
   },
   {
-   "from": "dec-participation-test",
-   "to": "dec-cfc-attribution",
-   "label": "Yes — 10%+ participation"
-  },
-  {
-   "from": "dec-cfc-attribution",
-   "to": "dec-direct-or-indirect",
-   "label": "CFC boundary assessed"
-  },
-  {
-   "from": "dec-direct-or-indirect",
-   "to": "outcome-nane-direct",
-   "label": "Direct receipt (s 768-5(1))"
-  },
-  {
-   "from": "dec-direct-or-indirect",
-   "to": "outcome-nane-indirect",
-   "label": "Indirect through trust/partnership (s 768-5(2))"
-  },
-  {
-   "from": "outcome-nane-direct",
-   "to": "interaction-768g",
-   "label": "NANE direct — participation exemption applies"
-  },
-  {
    "from": "outcome-nane-indirect",
    "to": "interaction-768g",
    "label": "NANE indirect — participation exemption applies"
@@ -587,9 +596,59 @@
    "label": ""
   },
   {
-   "from": "condition-not-met",
-   "to": "end",
-   "label": "ordinary assessment applies"
+   "from": "dec-participation-test",
+   "to": "dec-direct-or-indirect",
+   "label": "Yes — 10%+ participation"
+  },
+  {
+   "from": "outcome-nane-direct",
+   "to": "dec-cfc-attribution",
+   "label": "NANE direct — CFC context"
+  },
+  {
+   "from": "dec-cfc-attribution",
+   "to": "interaction-768g",
+   "label": "CFC context noted"
+  },
+  {
+   "from": "dec-entity-type",
+   "to": "dec-trustee-capacity",
+   "label": "Yes — AU corporate tax entity"
+  },
+  {
+   "from": "dec-entity-type",
+   "to": "condition-not-met",
+   "label": "No — not a corporate tax entity"
+  },
+  {
+   "from": "dec-trustee-capacity",
+   "to": "dec-foreign-equity-distribution",
+   "label": "No, or yes — as trustee of a public trading trust"
+  },
+  {
+   "from": "dec-trustee-capacity",
+   "to": "condition-not-met",
+   "label": "Yes — as trustee of another trust"
+  },
+  {
+   "from": "dec-direct-or-indirect",
+   "to": "outcome-nane-direct",
+   "label": "Direct receipt (s 768-5(1))"
+  },
+  {
+   "from": "dec-direct-or-indirect",
+   "to": "dec-indirect-conditions",
+   "label": "Indirect through trust/partnership (s 768-5(2))"
+  },
+  {
+   "from": "dec-indirect-conditions",
+   "to": "outcome-nane-indirect",
+   "label": "Yes — all conditions met"
+  },
+  {
+   "from": "dec-indirect-conditions",
+   "to": "condition-not-met",
+   "label": "No — not included under Div 276/Div 5/6 or not attributable to foreign equity distribution"
   }
  ],
  "short": "NANE foreign dividends",

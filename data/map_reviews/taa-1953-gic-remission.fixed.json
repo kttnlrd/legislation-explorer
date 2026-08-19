@@ -1,0 +1,8 @@
+{
+  "map_id": "taa-1953-gic-remission",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 7,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "Fixed in-turn after subagent timeout."
+}

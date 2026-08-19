@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1997-subdiv-124b-rollover-compulsory-acquisition",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 10,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "Fixed in-turn after subagent timeout."
+}

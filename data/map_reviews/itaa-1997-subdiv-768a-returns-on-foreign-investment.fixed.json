@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1997-subdiv-768a-returns-on-foreign-investment",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 12,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 9 review issues (2 critical, 3 major, 4 minor) applied. Critical: removed condition-not-met→end edge so non-qualifying path terminates at condition-not-met; removed dec-cfc-attribution from spine (no CFC carve-out in s 768-5 verified from statute text), moved to non-blocking event node after NANE outcome. Major: split trustee condition into new dec-trustee-capacity node; added dec-indirect-conditions node for s 768-5(2)(b)-(c); changed 4 interaction nodes to type event. Minor: aligned start node with s 768-1 (10% participation, no 'not corporate tax entities' qualifier on interposed entities); made date consistent (16 October 2014); added timing element to participation-test node; added s 768-5(2)(f) ref to foreign-tax-deduction node. Validation: (a) 17 nodes, 22 edges, all endpoints valid; (b) all nodes reachable from start, no non-terminal dead ends; (c) 11 unique statute refs all HTTP 200; (d) 4 commentary slugs all in section_index; (e) 28 ruling IDs all resolve to files."
+}

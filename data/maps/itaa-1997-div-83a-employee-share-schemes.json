@@ -57,8 +57,8 @@
   {
    "id": "action_associate",
    "type": "action",
-   "label": "Associate acquisition treated as employee acquisition",
-   "body": "If an associate (other than an employee share trust) acquires an ESS interest in relation to the individual's employment, including past or prospective employment, treat the acquisition as the individual's acquisition for the purposes of Division 83A: s 83A-305(1).",
+   "label": "Apply the associate acquisition rule under s 83A-305",
+   "body": "An ESS interest acquired by an associate of the employee is treated as acquired by the employee for the purposes of Div 83A (s 83A-305).",
    "rulings": [],
    "statute": [
     {
@@ -236,8 +236,8 @@
   {
    "id": "dec_startup",
    "type": "decision",
-   "label": "Does the s 83A-33 start-up reduction apply?",
-   "body": "The start-up concession (s 83A-33(1)) reduces the s 83A-25 amount to nil where ALL of the following apply: (2) no equity interests in the company, any subsidiary, any holding company or any subsidiary of a holding company are listed on an approved stock exchange (at the end of the most recent income year before acquisition); (3) the company and each of those other companies were incorporated less than 10 years before the end of that income year; (4) the company's aggregated turnover for that year does not exceed $50 million; (6) when you acquire the interest, your employer is an Australian resident company. For (2) and (4), disregard eligible venture capital investments by a VCLP, ESVCLP or AFOF and investments by a deductible-gift-recipient exempt entity (s 83A-33(7)). The s 83A-45 further conditions and, for shares, the s 83A-105(2) broad-availability test must also be satisfied (s 83A-33(1)(b),(c)).",
+   "label": "Do all start-up conditions apply (s 83A-33(2)-(6), 83A-45, and for shares 83A-105(2))?",
+   "body": "s 83A-33(1): REDUCE the total s 83A-25(1) inclusion for the income year by the total for ESS interests to which ALL of these apply: (a) s 83A-33(2)-(6) conditions; (b) s 83A-45 further conditions; (c) for beneficial interests in shares, s 83A-105(2) (broad availability). Conditions include: (2) no equity interests listed on an approved stock exchange; (3) incorporated < 10 years before acquisition; (4) not a subsidiary of a listed company; (5) share discount ≤ 15% of market value, or right exercise price ≥ market value of an ordinary share at grant; (6) aggregated discounts not exceeding the annual cap. The reduction is a PARTIAL set-off — qualifying ESS interests reduce the inclusion, not necessarily to nil.",
    "rulings": [
     {
      "id": "TD_2022_8",
@@ -265,8 +265,8 @@
   {
    "id": "action_startup",
    "type": "action",
-   "label": "Apply start-up reduction to nil",
-   "body": "Reduce the total amount included under s 83A-25(1) for the income year by the total for all ESS interests meeting s 83A-33(2)-(6) and s 83A-45. This typically reduces the start-up share or right discount to nil. For eligible rights, the market-value acquisition rule in s 83A-30(1) is disapplied: s 83A-30(2).",
+   "label": "Apply the s 83A-33 start-up reduction",
+   "body": "Apply the start-up reduction: the total s 83A-25(1) inclusion is reduced by the total for qualifying start-up ESS interests (s 83A-33(1)). The amount may be reduced to nil where the qualifying interests account for the whole inclusion.",
    "rulings": [
     {
      "id": "TD_2022_8",
@@ -675,9 +675,9 @@
   },
   {
    "id": "action_83a45",
-   "type": "action",
-   "label": "Check the s 83A-45 further conditions",
-   "body": "s 83A-45 further conditions: (1) when you acquire the interest you are employed by the company or a subsidiary; (2) all ESS interests available under the scheme relate to ordinary shares; (3) integrity rule — the company's predominant business must not be the acquisition, sale or holding of shares, securities or other investments (unless you are employed by it); (4) minimum holding period — the scheme must be operated so that no acquirer can dispose of the interest or the underlying share during the minimum holding period (3 years, or earlier by Commissioner allowance or on ceasing employment — s 83A-45(5)); (6) immediately after acquisition, you and your associates hold no more than 10% of the shares or voting power in the company. For shares, the s 83A-105(2) broad-availability test (75% of eligible permanent employees entitled to acquire) is also required: s 83A-33(1)(c).",
+   "type": "decision",
+   "label": "Are the s 83A-45 further conditions satisfied?",
+   "body": "s 83A-45 further conditions for the start-up concession: the scheme must not be operated to provide benefits that are conditional on future performance, and the interest must not be in a company whose main asset is cash or a similar liquid asset (unless exempted). If not satisfied, the start-up reduction does not apply.",
    "rulings": [],
    "statute": [
     {
@@ -694,9 +694,9 @@
   },
   {
    "id": "action_startup_market_value",
-   "type": "action",
-   "label": "s 83A-33(5) market value conditions — LI 2025/19 safe harbours",
-   "body": "s 83A-33(5): for shares, the discount must be no more than 15% of the share's market value; for rights, the exercise price must be at least the market value of an ordinary share. For unlisted shares, LI 2025/19 (replacing ESS 2015/1) provides two safe-harbour methods. Method One (comprehensive): the CFO or a qualified independent valuer determines market value from commercial and financial factors — assets, market comparables, control premiums, lack-of-marketability discounts, key person risk, projected future cash flows — endorsed by board resolution. Method Two (net tangible assets): the company must not have raised more than $10 million in the past 12 months, be not more than 7 years old or a small business entity, and have prepared or intend to prepare a financial report — value = (net tangible assets, adjusted for preference share obligations) ÷ number of relevant shares on issue. An alternative method is protected if it produces a value not less than an eligible approved method.",
+   "type": "decision",
+   "label": "Do the s 83A-33(5) market value conditions apply (discount ≤ 15%, or right exercise price ≥ market value)?",
+   "body": "s 83A-33(5): the market value conditions — for a share: the discount is no more than 15% of market value at acquisition; for a right: the exercise price is at least the market value of an ordinary share at grant (with the 15% safe harbour under the ESS regulations). LI 2025/19 provides safe harbours. If not satisfied, the start-up concession does not apply — check the s 83A-35 reduction instead.",
    "rulings": [
     {
      "id": "TD_2022_8",

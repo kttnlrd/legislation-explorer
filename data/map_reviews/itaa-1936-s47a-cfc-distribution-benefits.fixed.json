@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1936-s47a-cfc-distribution-benefits",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 12,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "All 12 review issues applied (3 critical, 9 major). Critical fixes: profits node (s 47A(15) Part X assumption→accounts assumption), loan node (s 47A(7) purpose limbs corrected), assessable node (split into s44/NANE + s 47A(2) limitation facet). Edges restructured: only shares/call→exclusion; waiver/loan/property→deemed. Added facet nodes for s 47A(2) limitation, s 47A(18) partnership/trust reduction, s 47A(18B) amendment. s 47A(21) definitions added to start node. Validation: JSON parses, all 28 edges valid, all 25 nodes reachable, no dead ends, all 9 statute refs return 200, all commentary slugs valid."
+}

@@ -1,0 +1,8 @@
+{
+ "map_id": "itaa-1997-s6-5-ordinary-income",
+ "fixed_at": "2026-08-19",
+ "issues_applied": 6,
+ "issues_rejected": 0,
+ "validation": "pass",
+ "notes": "Applied all 6 suggested fixes: (1) character node - removed fabricated s 6-5(2)(a)/(b)/(c) paragraph citations; (2) facet-sources - replaced fabricated paragraph citations with accurate s 6-5(1)/(2)/(3) references; (3) facet-statutory - removed s 6-10(2) examples (dividends s 44, s 15-15) that don't appear in the actual statute text; (4) assessable - inserted exempt-check decision node between derivation and assessable end, branching to facet-exempt on Yes; (5) gain - inserted mutuality-check decision node between gain and cash, branching to facet-mutuality on Yes; (6) not-cash - reworded FBT reference to indicate employer liability, not employee assessable income. Validation: (a) all edge refs valid, (b) all nodes reachable from start, no dead ends, (c) all statute refs HTTP 200, (d) all commentary slugs exist in section_index.json, (e) all ruling files exist."
+}

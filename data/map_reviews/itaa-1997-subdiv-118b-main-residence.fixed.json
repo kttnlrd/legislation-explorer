@@ -1,0 +1,8 @@
+{
+  "map_id": "itaa-1997-subdiv-118b-main-residence",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 6,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "Non-individuals now routed to deceased-estate/SDT checks instead of no-exemption; deceased-estate source checked before foreign-resident boundary; removed acquisition-date gloss (statute has none); life events (iii) requires child under 18 at death; SDT reachable independently from extending-rules hub; never-used-for-income path bypasses s 118-192."
+}

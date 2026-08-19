@@ -1,0 +1,8 @@
+{
+  "map_id": "taa-1953-penalty-remission",
+  "fixed_at": "2026-08-19",
+  "issues_applied": 8,
+  "issues_rejected": 0,
+  "validation": "pass",
+  "notes": "Removed shortfall requirement from s 284-75(1); added 284-75(4) trigger + (5)-(9) exceptions node; 284-75(2) now covers Minimum Tax/PRRT + items 4/5/6/6A; scheme penalty bases (1)(b)(ia)/(ii), (2A)-(2C) added; item 6A added to base penalty; voluntary disclosure split into pre/post exam with $1,000 threshold + significant-time tests; no-application path separated from refusal."
+}

@@ -13,7 +13,7 @@
    "id": "start",
    "type": "start",
    "label": "Member holds shares/units in a company or unit trust (the original entity)",
-   "body": "Division 615 applies to a member of a company or a unit trust. The member, together with at least one other entity (exchanging members), must own all the shares or units in the original entity. Under a scheme for reorganising its affairs, the exchanging members exchange their interests in the original entity for shares in an interposed company.",
+   "body": "Two paths exist under Division 615:\n(1) s 615-5 disposal path: the exchanging members (you and at least one other entity) must own all the shares or units in the original entity, and dispose of them to the interposed company in exchange for shares (and nothing else).\n(2) s 615-10 redemption/cancellation path: the interposed company first acquires one or more (but not all) shares/units, and the exchanging members own all the remaining shares/units, which are then redeemed or cancelled. Each exchanging member receives shares (and nothing else) in the interposed company.\nBoth paths require a scheme for reorganising the original entity's affairs.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -32,6 +32,32 @@
     "unit trust",
     "shares",
     "units"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-scheme-reorganising",
+   "type": "decision",
+   "label": "Is the disposal/acquisition under a scheme for reorganising the original entity's affairs?",
+   "body": "Both s 615-5(1)(c) and s 615-10 require the disposal or acquisition to be under a scheme for reorganising the original entity's affairs. If there is no such scheme, the roll-over is not available.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-5",
+     "title": "Disposing of interests in one entity for shares in a company"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "615-10",
+     "title": "Redeeming or cancelling interests in one entity for shares in a company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "scheme"
    ],
    "rulings": []
   },
@@ -71,7 +97,7 @@
   {
    "id": "dec-exchanging-members",
    "type": "decision",
-   "label": "Do you and at least one other exchanging member own ALL the shares/units in the original entity?",
+   "label": "Do you and at least one other exchanging member own all relevant shares/units (all for s 615-5; all remaining for s 615-10)?",
    "body": "For s 615-5: you and at least one other entity (the exchanging members) must own all the shares or units in the original entity. For s 615-10: you and at least one other entity must own all the remaining shares or units (after the interposed company acquires some). ADI restructures may disregard certain preference shares under s 615-35.",
    "statute": [
     {
@@ -103,6 +129,70 @@
      "title": "Income tax: what is a 'restructuring' for the purposes of subsection 125-70(1) of the"
     }
    ]
+  },
+  {
+   "id": "dec-first-acquisition",
+   "type": "decision",
+   "label": "Is this the interposed company's first acquisition of shares/units in the original entity? (s 615-10(1)(b))",
+   "body": "For the s 615-10 redemption/cancellation path, the shares or units acquired by the interposed company must be the first shares or units it acquires in the original entity.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-10",
+     "title": "Redeeming or cancelling interests in one entity for shares in a company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "first shares"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "dec-remaining-redeemed",
+   "type": "decision",
+   "label": "Are the remaining shares/units redeemed or cancelled? (s 615-10(1)(d))",
+   "body": "For the s 615-10 path, after the interposed company acquires some (but not all) shares/units, the remaining shares or units in the original entity must be redeemed or cancelled.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-10",
+     "title": "Redeeming or cancelling interests in one entity for shares in a company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "redeem",
+    "cancel"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "outcome-s615-10-3",
+   "type": "outcome",
+   "label": "Note: original entity may issue other shares/units to interposed company (s 615-10(3))",
+   "body": "Under s 615-10(3), the original entity (or its trustee if it is a unit trust) can issue other shares or units to the interposed company as part of the scheme. This does not affect the roll-over.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "615-10",
+     "title": "Redeeming or cancelling interests in one entity for shares in a company"
+    }
+   ],
+   "commentary": [
+    "cgt-roll-over-for-business-restructures"
+   ],
+   "cases": [],
+   "definitions": [
+    "issue"
+   ],
+   "rulings": []
   },
   {
    "id": "dec-consideration",
@@ -156,7 +246,7 @@
    "id": "dec-proportionality",
    "type": "decision",
    "label": "Do exchanging members receive proportional shareholdings? (s 615-20)",
-   "body": "Each exchanging member must own: (a) a whole number of shares in the interposed company; and (b) a percentage of interposed company shares equal to their percentage of original entity shares/units disposed of, redeemed or cancelled. Additionally, the ratio of MV of each member's interposed shares to total interposed shares must equal the ratio of MV of their original entity interests to total original entity interests disposed of, redeemed or cancelled.",
+   "body": "Immediately after the completion time, each exchanging member must satisfy BOTH of the following:\n(1) Own a whole number of shares in the interposed company; and the percentage of interposed company shares (issued to all exchanging members) that they own equals the percentage of original entity shares/units that they owned and that were disposed of, redeemed or cancelled (s 615-20(1)).\n(2) The market-value ratios must be equal (s 615-20(2)): MV of each exchanging member's interposed shares / MV of all interposed shares issued to exchanging members = MV of that member's original interests disposed of / MV of all original interests disposed of.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -246,7 +336,7 @@
    "id": "dec-adi-restructure",
    "type": "decision",
    "label": "Is this an ADI restructure with preference shares to disregard? (s 615-35)",
-   "body": "Section 615-35 applies if: (a) the interposed company is a non-operating holding company under the Financial Sector (Transfer and Restructure) Act 1999; (b) a restructure instrument under Part 4A of that Act is in force; (c) an ADI becomes a subsidiary of the interposed company; and (d) the original entity is the ADI or part of an extended licensed entity. If so, certain preference shares in the original entity are disregarded for Div 615 purposes.",
+   "body": "If the ownership test failed, check whether s 615-35 applies. Section 615-35 applies if: (a) the interposed company is a non-operating holding company under the Financial Sector (Transfer and Restructure) Act 1999; (b) a restructure instrument under Part 4A of that Act is in force; (c) an ADI becomes a subsidiary of the interposed company; and (d) the original entity is the ADI or part of an extended licensed entity. If so, certain preference shares in the original entity are disregarded for Div 615 purposes, which may allow the ownership condition to be satisfied.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -305,7 +395,7 @@
   {
    "id": "outcome-cgt-consequences",
    "type": "outcome",
-   "label": "CGT consequences: gain/loss disregarded; cost base moves to new shares (s 615-40 via Subdiv 124-A)",
+   "label": "Apply CGT consequences — gain/loss disregarded, cost base moved to new shares (s 615-40 via Subdiv 124-A)",
    "body": "The CGT consequences set out in Subdivision 124-A (replacement-asset roll-overs) apply to a roll-over under this Division as if it were a roll-over covered by Division 124. Those consequences generally involve: (a) disregarding a capital gain or capital loss you make from the disposal, redemption or cancellation of your shares or units in the original entity; and (b) working out the first element of the cost base of each of your new shares in the interposed company by reference to the cost bases of your shares or units in the original entity.",
    "statute": [
     {
@@ -356,7 +446,7 @@
   {
    "id": "outcome-trading-stock",
    "type": "outcome",
-   "label": "Trading stock consequences: assessable income at cost/value; new shares treated as acquired at same amount (s 615-50)",
+   "label": "Defer trading stock profit or loss — assessable income at cost/value (s 615-50)",
    "body": "The amount included in your assessable income for each share/unit that was your trading stock is: if it had been trading stock since the start of the income year — its value at the start of the year plus any cost increase since then; otherwise — its cost at that time. For each new share that is your trading stock, you are taken to have paid: total included in assessable income ÷ number of new trading stock shares. For Div 70 purposes, you, the original entity and the interposed company are taken to have dealt at arm's length in the ordinary course of business.",
    "statute": [
     {
@@ -379,7 +469,7 @@
   {
    "id": "outcome-revenue-assets",
    "type": "outcome",
-   "label": "Revenue assets consequences: gross proceeds taken to produce nil profit/loss; new shares cost base reflects this (s 615-55)",
+   "label": "Defer revenue asset profit or loss — nil proceeds taken (s 615-55)",
    "body": "For each share/unit that was a revenue asset: your gross proceeds for that disposal/redemption/cancellation are taken to be the amount you would have needed to receive to produce a nil profit and nil loss. For calculating future profit/loss on new shares that are revenue assets: you are taken to have paid the total worked out under s 615-55(1) for your corresponding original shares ÷ number of new revenue asset shares.",
    "statute": [
     {
@@ -461,8 +551,8 @@
   },
   {
    "id": "no-rollover",
-   "type": "end",
-   "label": "No roll-over — CGT event A1 (s 104-10) or other CGT events run normally",
+   "type": "outcome",
+   "label": "No roll-over — apply ordinary CGT rules",
    "body": "If any condition is not met, the roll-over is not available and the disposal/redemption/cancellation of shares/units proceeds under ordinary CGT rules: you may make a capital gain or loss calculated in the usual way. Consider alternative restructure options such as the small business restructure roll-over under Subdivision 328-G or other roll-over provisions.",
    "statute": [
     {
@@ -503,7 +593,7 @@
   {
    "id": "end",
    "type": "end",
-   "label": "Roll-over applies — CGT deferred, cost bases re-based into new shares and interposed company holdings",
+   "label": "Roll-over applies — CGT deferred, cost bases re-based into new shares",
    "body": "The gain/loss on the disposal, redemption or cancellation of original shares/units is disregarded (deferred, not exempt). The CGT cost base is transferred into the new shares you receive. Trading stock and revenue asset profits/losses are similarly deferred. The interposed company acquires its shares/units in the original entity with appropriate pre-CGT and post-CGT treatment. Note: after completion, later dealings between the interposed company and the original entity may be subject to consolidated group rules (Part 3-90).",
    "statute": [],
    "commentary": [
@@ -542,8 +632,8 @@
   },
   {
    "id": "interaction-share-sale-facility",
-   "type": "interaction",
-   "label": "Interaction: share sale facility (s 124-20) for exchanging members",
+   "type": "outcome",
+   "label": "Apply share sale facility rules (s 124-20) for exchanging members",
    "body": "For both s 615-5 and s 615-10, if an exchanging member uses a share sale facility, see section 124-20 for how the roll-over applies.",
    "statute": [
     {
@@ -561,21 +651,6 @@
   }
  ],
  "edges": [
-  {
-   "from": "start",
-   "to": "dec-disposal-or-redemption",
-   "label": "restructure proposed"
-  },
-  {
-   "from": "dec-disposal-or-redemption",
-   "to": "dec-exchanging-members",
-   "label": "disposal or redemption/cancellation case"
-  },
-  {
-   "from": "dec-exchanging-members",
-   "to": "no-rollover",
-   "label": "No — all interests not held by exchanging members"
-  },
   {
    "from": "dec-exchanging-members",
    "to": "dec-consideration",
@@ -637,16 +712,6 @@
    "label": "No — choice not made in time"
   },
   {
-   "from": "dec-interposed-choice",
-   "to": "dec-adi-restructure",
-   "label": "Yes — choice made"
-  },
-  {
-   "from": "dec-adi-restructure",
-   "to": "choice-rollover",
-   "label": "ADI rules considered"
-  },
-  {
    "from": "choice-rollover",
    "to": "outcome-cgt-consequences",
    "label": "roll-over chosen or deemed"
@@ -705,6 +770,81 @@
    "from": "no-rollover",
    "to": "end",
    "label": "no rollover — ordinary CGT applies"
+  },
+  {
+   "from": "start",
+   "to": "dec-scheme-reorganising",
+   "label": "member holds interests"
+  },
+  {
+   "from": "dec-scheme-reorganising",
+   "to": "dec-disposal-or-redemption",
+   "label": "Yes — scheme exists"
+  },
+  {
+   "from": "dec-scheme-reorganising",
+   "to": "no-rollover",
+   "label": "No — no scheme"
+  },
+  {
+   "from": "dec-disposal-or-redemption",
+   "to": "no-rollover",
+   "label": "Neither — not a disposal or redemption/cancellation case"
+  },
+  {
+   "from": "dec-disposal-or-redemption",
+   "to": "dec-first-acquisition",
+   "label": "s 615-10 redemption/cancellation case"
+  },
+  {
+   "from": "dec-first-acquisition",
+   "to": "no-rollover",
+   "label": "No — not first acquisition"
+  },
+  {
+   "from": "dec-disposal-or-redemption",
+   "to": "dec-exchanging-members",
+   "label": "s 615-5 disposal case"
+  },
+  {
+   "from": "dec-first-acquisition",
+   "to": "dec-remaining-redeemed",
+   "label": "Yes — first acquisition"
+  },
+  {
+   "from": "dec-remaining-redeemed",
+   "to": "no-rollover",
+   "label": "No — not redeemed or cancelled"
+  },
+  {
+   "from": "dec-remaining-redeemed",
+   "to": "outcome-s615-10-3",
+   "label": "Yes — remaining redeemed or cancelled"
+  },
+  {
+   "from": "outcome-s615-10-3",
+   "to": "dec-exchanging-members",
+   "label": "other shares/units may be issued"
+  },
+  {
+   "from": "dec-exchanging-members",
+   "to": "dec-adi-restructure",
+   "label": "No — but check ADI restructure (s 615-35)"
+  },
+  {
+   "from": "dec-interposed-choice",
+   "to": "choice-rollover",
+   "label": "Yes — choice made"
+  },
+  {
+   "from": "dec-adi-restructure",
+   "to": "dec-consideration",
+   "label": "Yes — ADI applies; preference shares disregarded"
+  },
+  {
+   "from": "dec-adi-restructure",
+   "to": "no-rollover",
+   "label": "No — not an ADI restructure"
   }
  ],
  "short": "Business restructure roll-over",
