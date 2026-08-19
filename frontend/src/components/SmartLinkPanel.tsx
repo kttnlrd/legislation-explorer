@@ -152,7 +152,7 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
   }
 
   const handleGraphItemClick = (item: GraphItem) => {
-    if (item.node_type === 'section' && item.url) {
+    if ((item.node_type === 'section' || item.node_type === 'commentary') && item.url) {
       const parts = item.url.split('/').filter(Boolean)
       if (parts.length >= 2 && onNavigate) onNavigate(parts[0], parts[1])
     } else if (item.node_type === 'public_ruling' && onNavigateRuling) {

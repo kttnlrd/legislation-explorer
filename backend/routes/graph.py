@@ -395,7 +395,17 @@ def _related_item_url(node_type: str, key: str) -> str | None:
         return f"/private-rulings/{key.rsplit('/', 1)[-1]}"
     if node_type == "case":
         return f"/tax-cases/{key.split(':', 1)[1]}"
-    return None  # commentary / definition have no standalone view yet
+    if node_type == "commentary":
+        # commentary:master-tax-guide:ch-10/exempt-entities-listing -> /master-tax-guide/exempt-entities-listing
+        try:
+            _, pub, path = key.split(":", 2)
+            slug = path.split("/", 1)[1] if "/" in path else ""
+            if slug:
+                return f"/{pub}/{slug}"
+        except Exception:
+            pass
+        return None  # chapter-level commentary has no single-section target
+    return None  # definition has no standalone view yet
 
 
 @router.get("/api/graph/related")
