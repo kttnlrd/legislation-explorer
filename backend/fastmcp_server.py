@@ -46,6 +46,13 @@ from backend.services.tax_case_sql import _sql, _sql_dict, _sql_write_params
 
 logger = logging.getLogger(__name__)
 
+# Appended to error/null returns of data tools: tells the LLM to re-check
+# get_info (query formats, citation conventions, routing) before giving up.
+_GET_INFO_HINT = (
+    "If this result is unexpected, call get_info to review query formats, "
+    "citation conventions, and tool routing, then retry."
+)
+
 # Public hostnames that hit this server via Cloudflare Tunnel / Caddy.
 # FastMCP auto-enables DNS-rebinding protection for localhost host defaults and
 # only allows 127.0.0.1:*/localhost:* — public Host headers then get 421.
@@ -365,7 +372,7 @@ async def resolve_alias(reference: str) -> str:
     """
     ref = reference.strip()
     if not ref:
-        return json.dumps({"error": "Empty reference provided."})
+        return json.dumps({"error": "Empty reference provided.", "hint": _GET_INFO_HINT})
 
     # -- Step 1: Check well-known patterns --
     for pattern, act, resolved_ref, display_act, description, url_suffix in _ALIAS_PATTERNS:
@@ -518,6 +525,7 @@ async def resolve_alias(reference: str) -> str:
     return json.dumps({
         "reference": ref,
         "error": f"Could not resolve reference '{ref}'. Try search_legislation or a more specific format.",
+        "hint": _GET_INFO_HINT,
     }, indent=2)
 
 
@@ -544,7 +552,8 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
 
     if _re.match(r'^\d+(\.\d)', section):
         return json.dumps({
-            "error": f"Section '{section}' not found. Use hyphenated format (e.g. 8-1) not dotted (8.1)."
+            "error": f"Section '{section}' not found. Use hyphenated format (e.g. 8-1) not dotted (8.1).",
+            "hint": _GET_INFO_HINT
         })
 
     has_hyphen = '-' in section
@@ -554,7 +563,8 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
         suggestions = fts_search(section, None, limit=3)
         hits = suggestions.get("results", [])
         payload = {
-            "error": f"Section {section} not found in itaa-1936; ITAA 1936 sections are unhyphenated (e.g. 23AH). Did you mean itaa-1997 s {section}?"
+            "error": f"Section {section} not found in itaa-1936; ITAA 1936 sections are unhyphenated (e.g. 23AH). Did you mean itaa-1997 s {section}?",
+            "hint": _GET_INFO_HINT
         }
         if hits:
             payload["did_you_mean"] = [
@@ -603,16 +613,17 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
         if hits:
             return json.dumps({
                 "error": f"Section '{section}' not found in {act}.",
+                "hint": _GET_INFO_HINT,
                 "did_you_mean": [
                     {"act": h["act"], "section": h["section"], "title": h.get("title", "")}
                     for h in hits
                 ],
             }, indent=2)
-        return json.dumps({"error": f"Section '{section}' not found in {act}."})
+        return json.dumps({"error": f"Section '{section}' not found in {act}.", "hint": _GET_INFO_HINT})
 
     md_path = DATA_DIR / act / "sections" / section_path
     if not md_path.exists():
-        return json.dumps({"error": "Section file not found"})
+        return json.dumps({"error": "Section file not found", "hint": _GET_INFO_HINT})
 
     content = md_path.read_text(encoding="utf-8")
     body = content
@@ -823,6 +834,7 @@ async def list_treaty_articles(country: str) -> str:
         )
         return json.dumps({
             "error": f"Treaty for '{country}' not found",
+            "hint": _GET_INFO_HINT,
             "available_countries": available,
         }, indent=2)
     try:
@@ -838,7 +850,7 @@ async def list_treaty_articles(country: str) -> str:
             ],
         }, indent=2)
     except Exception as e:
-        return json.dumps({"error": f"Failed to read treaty: {e}"}, indent=2)
+        return json.dumps({"error": f"Failed to read treaty: {e}", "hint": _GET_INFO_HINT}, indent=2)
 
 
 @mcp.tool()
@@ -856,12 +868,13 @@ async def get_treaty_article(country: str, article: int,
     tree_path = TREATIES_DIR / country / "tree.json"
     if not tree_path.exists():
         return json.dumps({
-            "error": f"Treaty for '{country}' not found"
+            "error": f"Treaty for '{country}' not found",
+            "hint": _GET_INFO_HINT
         }, indent=2)
     try:
         tree = json.loads(tree_path.read_text(encoding="utf-8"))
     except Exception as e:
-        return json.dumps({"error": f"Failed to read treaty: {e}"}, indent=2)
+        return json.dumps({"error": f"Failed to read treaty: {e}", "hint": _GET_INFO_HINT}, indent=2)
 
     # Find the article entry
     art_info = None
@@ -873,13 +886,15 @@ async def get_treaty_article(country: str, article: int,
         available = [a["article"] for a in tree.get("articles", [])]
         return json.dumps({
             "error": f"Article {article} not found for {country}",
+            "hint": _GET_INFO_HINT,
             "available_articles": available,
         }, indent=2)
 
     art_path = TREATIES_DIR / country / art_info["file"]
     if not art_path.exists():
         return json.dumps({
-            "error": f"Article file not found for article {article}"
+            "error": f"Article file not found for article {article}",
+            "hint": _GET_INFO_HINT
         }, indent=2)
 
     content = art_path.read_text(encoding="utf-8", errors="replace")
@@ -906,7 +921,7 @@ async def get_definition(act: str, term: str) -> str:
     result = get_definition_across_acts(term, preferred_act=act)
     if result:
         return json.dumps(result, indent=2)
-    return json.dumps({"error": f"Definition for '{term}' not found in any act"})
+    return json.dumps({"error": f"Definition for '{term}' not found in any act", "hint": _GET_INFO_HINT})
 
 
 @mcp.tool()
@@ -930,7 +945,7 @@ async def search_all(
     limit = min(50, max(1, limit))
     query = query.strip()
     if not query:
-        return json.dumps({"error": "Query required", "results": {}})
+        return json.dumps({"error": "Query required", "results": {}, "hint": _GET_INFO_HINT})
 
     results = {}
 
@@ -1158,7 +1173,7 @@ async def insolvency_get_chapter(chapter: int, offset: int = 0,
     from backend.services.search_service import get_insolvency_chapter as _get
     result = _get(chapter)
     if result is None:
-        return json.dumps({"error": f"Chapter {chapter} not found"})
+        return json.dumps({"error": f"Chapter {chapter} not found", "hint": _GET_INFO_HINT})
     content = result["content"]
     lines = content.splitlines()
     total_lines = len(lines)
@@ -1194,7 +1209,7 @@ async def get_regulatory_guide(rg_number: int) -> str:
         result = _get_rg(rg_number)
         return _json.dumps(result, indent=2, default=str)
     except Exception as e:
-        return _json.dumps({"error": str(e)})
+        return _json.dumps({"error": str(e), "hint": _GET_INFO_HINT})
 
 
 @mcp.tool()
@@ -1236,7 +1251,9 @@ async def get_rg_sections(rg_number: int) -> str:
 async def get_info() -> str:
     """Return server version, usage conventions, tool descriptions, and coverage counts.
 
-    Call this first to understand how to use each MCP tool.
+    Call this FIRST before using any other tool, and call it AGAIN whenever a
+    tool fails, returns null, or returns an unexpected empty result — the
+    failure is usually a query-format or citation-format problem documented here.
     """
     rulings_count = len(load_rulings())
     try:
@@ -1294,11 +1311,25 @@ async def get_info() -> str:
                 "taa-1953": "Schedule 1: 284-15",
             },
             "citation_format": {
-                "rulings": {"accepted": ["TR 2024/1", "PCG 2017/13"], "types": ["TR", "TD", "PCG", "PS LA", "LCG", "AID", "IT"]},
-                "cases": {"required": "Bracketed medium-neutral form: [2024] HCA 1", "courts": ["HCA", "FCAFC", "FCA", "ARTA"]},
+                "rulings": {"accepted": ["TR 2024/1", "PCG 2017/13"], "types": ["TR", "TD", "PCG", "PS LA", "LCG", "AID", "IT", "CR", "GSTR", "MT", "PR", "SGR", "TA"], "note": "4-digit year preferred; 2-digit years auto-expanded (TR 23/1 -> TR 2023/1); underscores accepted (TR_2024_1); LCR alias maps to LCG."},
+                "cases": {"required": "Bracketed medium-neutral form: [2024] HCA 1", "courts": ["HCA", "FCAFC", "FCA", "ARTA"], "note": "Party-name aliases accepted, e.g. 'Bywater Investments Ltd v Commissioner of Taxation [2016] HCA 45' resolves to [2016] HCA 45."},
+            },
+            "query_format": {
+                "search_legislation": "Plain keywords, AND matching — ALL terms must appear in the section text. Section-number-shaped queries (e.g. '8-1') are exact-matched first. Omit stopwords. Optional act= restricts to one act.",
+                "search_all": "Free-text keywords; type_filter ∈ section | case | ruling | commentary; act= optional. Returns grouped results.",
+                "search_cases": "Topic, case name, or citation. Searches facts/issues/held/reasoning/outcome + cited refs. Use get_case for full details.",
+                "search_case_paragraphs": "Exact-phrase matching (not keyword AND) — omit stopwords.",
+                "get_definition": "Single term, plain form (e.g. 'dividend', not quotes or 'the meaning of').",
+                "resolve_alias": "Shorthand like 's 100A', 'Div 7A', 'Part IVA', 'Subdiv 115-C', '109Y', '8-1' — resolves to act + section.",
+            },
+            "other_lookups": {
+                "get_treaty_article / list_treaty_articles": "country is a slug: 'usa', 'china', 'argentina' (list_treaty_articles shows valid slugs).",
+                "get_regulatory_guide / get_rg_sections": "rg_number is an integer (e.g. 1, 104, 140).",
+                "insolvency_get_chapter": "chapter is an integer 1-21.",
+                "graph_neighbourhood / graph_path": "keys are canonical: 'section:itaa-1997:118-110', 'public_ruling:TR 2025/1', 'case:[2015] HCA 48', 'private_ruling:EV/1052514149928'. Accepts the resolved_by graph_key from resolve_alias.",
             },
             "section_aliases": ["116-30", "s 116-30", "sec 116-30", "section 116-30", "s116-30"],
-            "on_failure": "Reformat per section_format for that act (hyphenated for ITAA 1997 / GST / TAA, unhyphenated for ITAA 1936), then try search_legislation. Do not guess a neighbouring section number.",
+            "on_failure": "If a tool fails or returns null/empty: (1) call get_info again and re-check the formats above; (2) reformat the query per section_format/citation_format/query_format for the relevant act or corpus; (3) retry once — use resolve_alias for shorthand, search_legislation for unknown section numbers, search_all(type_filter=...) for unknown citations. Do not guess a neighbouring section number or invent a citation.",
             "routing": {
                 "text of a known provision with related cases/rulings/commentary": "get_section",
                 "find a provision by its words": "search_legislation",
@@ -1314,6 +1345,7 @@ async def get_info() -> str:
             },
             "rules": [
                 "Answer only from tool results. If a tool returns nothing, say so. Never fill a gap from recall.",
+                "If a tool fails or returns null, call get_info again and re-check query formats, then retry before concluding data is missing.",
                 "Filing report_issue does not change a citation's status. It stays unverifiable and the draft keeps its [verify] tag.",
                 "Firm-wide standards come from standards(). House style and matter-specific instructions come from CLAUDE.md, which wins on any conflict.",
             ],
@@ -1347,11 +1379,11 @@ async def standards(topic: str | None = None) -> str:
 
     fname = TOPIC_MAP.get(topic)
     if not fname:
-        return json.dumps({"error": f"Unknown topic: {topic}"})
+        return json.dumps({"error": f"Unknown topic: {topic}", "hint": _GET_INFO_HINT})
 
     path = STANDARDS_DIR / fname
     if not path.exists():
-        return json.dumps({"error": f"Standard file not found: {fname}"})
+        return json.dumps({"error": f"Standard file not found: {fname}", "hint": _GET_INFO_HINT})
 
     content = path.read_text(encoding="utf-8")
 
@@ -1554,6 +1586,7 @@ async def get_ruling(citation: str) -> str:
         if suggestions:
             return json.dumps({
                 "error": f"Ruling '{citation}' not found.",
+                "hint": _GET_INFO_HINT,
                 "did_you_mean": [
                     {"citation": r["citation"], "title": r.get("title", "")}
                     for r in suggestions
@@ -1562,7 +1595,7 @@ async def get_ruling(citation: str) -> str:
     except Exception:
         pass
 
-    return json.dumps({"error": f"Ruling {citation} not found"})
+    return json.dumps({"error": f"Ruling {citation} not found", "hint": _GET_INFO_HINT})
 
 
 @mcp.tool()
@@ -1616,14 +1649,16 @@ async def get_case(
             if case_suggestions:
                 return json.dumps({
                     "error": f"Case not found in database: {citation_norm}",
+                    "hint": _GET_INFO_HINT,
                     "did_you_mean": case_suggestions[:3],
-                    "hint": "Use format [2024] HCA 1 (bracketed medium-neutral citation).",
+                    "format_hint": "Use format [2024] HCA 1 (bracketed medium-neutral citation).",
                 })
         except Exception:
             pass
         return json.dumps({
             "error": f"Case not found in database: {citation_norm}",
-            "hint": "Try search_cases to verify the citation format, "
+            "hint": _GET_INFO_HINT,
+            "format_hint": "Try search_cases to verify the citation format, "
                     "or check format — required: [2024] HCA 1",
         })
 
@@ -1735,6 +1770,7 @@ async def get_case(
                 result["text_search"] = {
                     "query": search.strip(),
                     "error": f"Full text file not found: {filename}",
+                    "hint": _GET_INFO_HINT,
                     "hits": 0,
                 }
 
@@ -2031,14 +2067,15 @@ async def graph_neighbourhood(key: str, depth: int = 1) -> str:
         (TR 2025/1 | TD 2024/2)"). Unknown keys return an error object.
     """
     if depth not in (1, 2):
-        return json.dumps({"error": "depth must be 1 or 2"}, indent=2)
+        return json.dumps({"error": "depth must be 1 or 2", "hint": _GET_INFO_HINT}, indent=2)
     from backend.services.graph_serialize import serialize as _serialize
 
     out = _serialize(key, depth=depth)
     if out is None:
         return json.dumps({
             "error": f"unknown graph key: {key}",
-            "hint": "Try resolve_alias first, or /api/graph/data on the REST API.",
+            "hint": _GET_INFO_HINT,
+            "format_hint": "Try resolve_alias first, or /api/graph/data on the REST API.",
         }, indent=2)
     return json.dumps(out, indent=2)
 
@@ -2086,7 +2123,8 @@ async def graph_path(from_key: str, to_key: str, max_hops: int = 10) -> str:
             missing = from_key if f_id is None else to_key
             return json.dumps({
                 "error": f"unknown graph key: {missing}",
-                "hint": "Try resolve_alias first, or /api/graph/data on the REST API.",
+                "hint": _GET_INFO_HINT,
+                "format_hint": "Try resolve_alias first, or /api/graph/data on the REST API.",
             }, indent=2)
 
         try:
