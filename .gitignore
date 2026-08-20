@@ -36,6 +36,8 @@ test_nb2_bg.png
 # Runtime sqlite artifacts
 *.db-shm
 *.db-wal
+*.db.bak-*-shm
+*.db.bak-*-wal
 
 # Large generated data — kept local only (not uploaded to git)
 data/embeddings_matrix.npy
