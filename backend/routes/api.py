@@ -58,6 +58,7 @@ CHANGELOG = [
             "|– Search v2: dedicated /search page with advanced filters (AND/OR, date range, sort, per-source), shareable ?q= URLs",
             "|– Private rulings browser: year-driven sidebar, 57,608 rulings searchable by number",
             "|– Graph-powered research: neighbourhood blocks in search, path queries, LLM serialization, entity resolution backstop, alias map",
+            "|– Procedural maps: 37 interactive decision-tree maps (/maps) — CGT roll-overs, Div 7A, residency, Div 6, Part X CFC, s 100A, gambling v hobby/pro, crypto loans, GIC/penalty remission, small business concessions; dagre flowcharts, pan/zoom, mobile bottom sheet, statute-verified",
             "|– Legislation rendering: GFM tables across all parsers, treaty tree to article level, ITAA36/TAA/GST re-parsed",
             "|– MCP: resolve_alias, list_issues, graph-first get_section (private rulings + commentary), act tree part scoping + pagination",
             "|– Data quality gate: randomised Cochran 95/5 integrity verification across all 97,183 records, fresh seed per run",
