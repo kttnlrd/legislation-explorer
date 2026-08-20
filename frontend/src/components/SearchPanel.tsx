@@ -24,6 +24,17 @@ interface SearchPanelProps {
   onResultsChange?: (count: number) => void
 }
 
+const SOURCE_GROUPS: { label: string; ids: string[] }[] = [
+  { label: 'Australian Tax', ids: ['itaa-1997','itaa-1936','gst-1999','taa-1953','fbt-1986','sis-1993','master-tax-guide','master-tax-examples','master-gst-guide','rulings','tax-cases'] },
+  { label: 'Private Rulings', ids: ['private-rulings'] },
+  { label: 'International Tax', ids: ['treaties'] },
+  { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
+  { label: 'Corporate Law', ids: ['corporations-act-2001','regulatory-guides'] },
+  { label: 'Corporate Insolvency', ids: ['insolvency-keays'] },
+  { label: 'AML/CTF', ids: ['aml-ctf-2006','aml-ctf-rules-2007'] },
+  { label: 'System', ids: ['spec'] },
+]
+
 export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChange }: SearchPanelProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<FlatResult[]>([])
@@ -37,6 +48,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const [operator, setOperator] = useState<'AND' | 'OR'>('AND')
   const [dateFrom, setDateFrom] = useState('')
   const [dateTo, setDateTo] = useState('')
+  const [rtype, setRtype] = useState<string>('')
   const inputRef = useRef<HTMLInputElement>(null)
   const [suggestions, setSuggestions] = useState<{ act: string; section: string; title: string; type: string }[]>([])
   const [showSuggestions, setShowSuggestions] = useState(false)
@@ -100,11 +112,13 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
       // Keep the query in the URL so direct loads / back-nav restore it
       window.history.replaceState(null, '', '/search?q=' + encodeURIComponent(term))
       const activeFilter = filterOverride !== undefined ? filterOverride : typeFilter
+      const activeRtype = activeFilter === 'ruling' ? (rtype || undefined) : undefined
       if (sortMode === 'bestmatch') {
         const data = await api.searchHybrid(term, activeFilter || undefined, 200, {
           operator,
           dateFrom: dateFrom || undefined,
           dateTo: dateTo || undefined,
+          rtype: activeRtype,
         })
         const allResults: FlatResult[] = (data.results || data || []).map((r: any) => ({
           act: r.act || '',
@@ -411,28 +425,47 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
             ))}
           </div>
           <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Sources:</div>
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4 }}>
-            {acts.map(a => (
-              <label
-                key={a.id}
-                style={{
-                  fontSize: 11, color: COLORS.text, cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', gap: 4,
-                  padding: '3px 6px', borderRadius: 4,
-                  background: selectedActs.has(a.id) ? COLORS.accent + '22' : 'transparent',
-                  fontFamily: "'Montserrat', sans-serif",
-                }}
-              >
-                <input
-                  type="checkbox"
-                  checked={selectedActs.has(a.id)}
-                  onChange={() => toggleAct(a.id)}
-                  style={{ margin: 0 }}
-                />
-                {shortActName(a.id)}
-              </label>
-            ))}
-          </div>
+          {(() => {
+            const groupedActs = new Set(SOURCE_GROUPS.flatMap(g => g.ids))
+            const otherActs = acts.filter(a => !groupedActs.has(a.id))
+            const allGroups = [
+              ...SOURCE_GROUPS,
+              ...(otherActs.length > 0 ? [{ label: 'Other', ids: otherActs.map(a => a.id) }] : []),
+            ]
+            return allGroups.map(g => {
+              const groupActs = g.label === 'Other'
+                ? otherActs
+                : acts.filter(a => g.ids.includes(a.id))
+              if (groupActs.length === 0) return null
+              return (
+                <div key={g.label}>
+                  <div style={{ fontSize: 10, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif", marginBottom: 3 }}>{g.label}</div>
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginBottom: 6 }}>
+                    {groupActs.map(a => (
+                      <label
+                        key={a.id}
+                        style={{
+                          fontSize: 11, color: COLORS.text, cursor: 'pointer',
+                          display: 'flex', alignItems: 'center', gap: 4,
+                          padding: '3px 6px', borderRadius: 4,
+                          background: selectedActs.has(a.id) ? COLORS.accent + '22' : 'transparent',
+                          fontFamily: "'Montserrat', sans-serif",
+                        }}
+                      >
+                        <input
+                          type="checkbox"
+                          checked={selectedActs.has(a.id)}
+                          onChange={() => toggleAct(a.id)}
+                          style={{ margin: 0 }}
+                        />
+                        {shortActName(a.id)}
+                      </label>
+                    ))}
+                  </div>
+                </div>
+              )
+            })
+          })()}
         </div>
       )}
 
@@ -463,6 +496,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
               { key: '', label: 'All' },
               { key: 'section', label: 'Sections' },
               { key: 'ruling', label: 'Rulings' },
+              { key: 'private_ruling', label: 'Private rulings' },
               { key: 'case', label: 'Cases' },
               { key: 'commentary', label: 'Commentary' },
             ].map(t => (
@@ -482,6 +516,41 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
               </button>
             ))}
           </div>
+          {/* Ruling-series chips */}
+          {typeFilter === 'ruling' && (
+            <div style={{
+              display: 'flex', gap: 4, padding: '4px 0',
+              flexWrap: 'wrap',
+            }}>
+              {[
+                { key: '', label: 'All' },
+                { key: 'TR', label: 'TR' },
+                { key: 'TD', label: 'TD' },
+                { key: 'ATOID', label: 'ATOID' },
+                { key: 'PS LA', label: 'PS LA' },
+                { key: 'GSTR', label: 'GSTR' },
+                { key: 'PCG', label: 'PCG' },
+                { key: 'CR', label: 'CR' },
+                { key: 'IT', label: 'IT' },
+                { key: 'TA', label: 'TA' },
+              ].map(c => (
+                <button
+                  key={c.key}
+                  onClick={() => { setRtype(c.key); setCurrentPage(0); doSearch(undefined, 'ruling') }}
+                  style={{
+                    fontSize: 10, padding: '2px 6px', borderRadius: 4,
+                    background: rtype === c.key ? COLORS.accent : COLORS.surface,
+                    color: rtype === c.key ? '#fff' : COLORS.textMuted,
+                    border: `1px solid ${rtype === c.key ? COLORS.accent : COLORS.border}`,
+                    cursor: 'pointer', fontFamily: "'Montserrat', sans-serif",
+                    fontWeight: rtype === c.key ? 600 : 400,
+                  }}
+                >
+                  {c.label}
+                </button>
+              ))}
+            </div>
+          )}
           {/* Results header */}
           <div style={{
             fontSize: 10, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif",

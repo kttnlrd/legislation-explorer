@@ -128,10 +128,19 @@ def search(query: str, limit: int = 50) -> list[dict]:
         # embeddings_meta.pkl stores tuples (see scripts/build_vector_matrix.py)
         source_type, m_act, m_section, m_title, m_text = _meta[emb_id]
         source_type = source_type or "section"
+        if source_type == "case":
+            act = "tax-cases"
+        elif source_type == "ruling" and m_act == "private":
+            source_type = "private_ruling"
+            act = "private-rulings"
+        elif source_type == "ruling":
+            act = "rulings"
+        else:
+            act = m_act
         results.append({
             "embedding_id": emb_id,
             "source_type": source_type,
-            "act": "tax-cases" if source_type == "case" else ("rulings" if source_type == "ruling" else m_act),
+            "act": act,
             "section": m_section,
             "title": m_title,
             "score": float(scores[idx]),

@@ -441,7 +441,8 @@ def _fts_case_search(q: str, operator: str = "AND") -> list[dict]:
 @router.get("/api/search/hybrid")
 def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | None = None,
                   offset: int = 0, operator: str = "AND",
-                  date_from: str | None = None, date_to: str | None = None):
+                  date_from: str | None = None, date_to: str | None = None,
+                  rtype: str | None = None):
     if limit > 50:
         limit = 50
     if offset < 0:
@@ -458,6 +459,11 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
     type_filter: set[str] | None = None
     if type:
         type_filter = set(type.lower().split(","))
+
+    # Parse ruling series filter
+    rtype_set: set[str] | None = None
+    if rtype:
+        rtype_set = set(rtype.upper().split(","))
 
     # The six searches below are independent — run them concurrently so wall
     # time tracks the slowest source (~400ms), not the sum (~850ms).
@@ -499,25 +505,34 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         fts_results = []
     if type_filter and "ruling" not in type_filter:
         ruling_results = []
-    if type_filter and not (type_filter & {"ruling", "private_ruling"}):
+    if type_filter and "private_ruling" not in type_filter:
         private_results = []
+    if rtype_set:
+        ruling_results = [r for r in ruling_results
+                          if any(r.get("section", "").upper().startswith(p) for p in rtype_set)]
     # CDN-0117: body term search — merge FTS hits over private ruling content
     # with the metadata matcher results, deduping by authnum.
     if not act or act == "private-rulings":
-        try:
-            fts_private = search_private_rulings_fts(q, limit=50, operator=operator)
-            seen_auth = {r["section"] for r in private_results}
-            for pr in fts_private:
-                if pr["section"] not in seen_auth:
-                    private_results.append(pr)
-                    seen_auth.add(pr["section"])
-        except Exception:
-            logger.exception("Private ruling FTS search failed")
+        if not type_filter or "private_ruling" in type_filter:
+            try:
+                fts_private = search_private_rulings_fts(q, limit=50, operator=operator)
+                seen_auth = {r["section"] for r in private_results}
+                for pr in fts_private:
+                    if pr["section"] not in seen_auth:
+                        private_results.append(pr)
+                        seen_auth.add(pr["section"])
+            except Exception:
+                logger.exception("Private ruling FTS search failed")
 
     if act:
         vector_results = [r for r in vector_results if r["act"] == act]
     if type_filter:
         vector_results = [r for r in vector_results if r.get("source_type", "section") in type_filter]
+
+    if rtype_set:
+        vector_results = [r for r in vector_results
+                          if not (r.get("source_type") == "ruling") or
+                          any(r.get("section", "").upper().startswith(p) for p in rtype_set)]
 
     if type_filter and 'case' not in type_filter:
         pg_case_results = []
