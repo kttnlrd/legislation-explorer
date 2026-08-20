@@ -526,7 +526,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
                 { key: '', label: 'All' },
                 { key: 'TR', label: 'TR' },
                 { key: 'TD', label: 'TD' },
-                { key: 'ATOID', label: 'ATOID' },
+                { key: 'AID', label: 'ATOID' },
                 { key: 'PS LA', label: 'PS LA' },
                 { key: 'GSTR', label: 'GSTR' },
                 { key: 'PCG', label: 'PCG' },
