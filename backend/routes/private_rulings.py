@@ -39,8 +39,10 @@ _HTML_DIR = _CORPUS_DIR.parent / "html"
 
 
 def _ato_url(authnum: str) -> str:
-    # EVR is the ATO legal database DocID code for private (edited version) rulings.
-    return f"https://www.ato.gov.au/law/view/document?DocID=EVR/{authnum}/NAT/ATO/00001"
+    # Public format for private rulings: EV DocID on the print view (no NAT
+    # suffix). Verified live 2026-08-22 — the EVR/document?DocID=.../NAT/ATO/00001
+    # variant 404s. The print page body is byte-identical to the scraped HTML.
+    return f"https://www.ato.gov.au/law/view/print?DocID=EV/{authnum}&PiT=99991231235958"
 
 
 @lru_cache(maxsize=1)
