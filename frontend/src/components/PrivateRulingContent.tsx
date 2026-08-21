@@ -47,6 +47,8 @@ export default function PrivateRulingContent({
   const caseRefs: unknown[] = data.case_references || []
   const formatted = textBlock(data.formatted_text)
   const graphKey: string = data.graph_key || ''
+  const atoUrl: string = data.ato_url || ''
+  const downloadUrl: string = data.download_url || ''
   const baseComponents = createMarkdownComponents(isMobile, 'private-rulings', onNavigate, onNavigateRuling, renderLink)
 
   const md = (src: string) => (
@@ -85,9 +87,34 @@ export default function PrivateRulingContent({
         margin: '0 0 6px', fontFamily: "'Montserrat', sans-serif",
       }}>
         {name}
+        {downloadUrl && (
+          <a
+            href={downloadUrl}
+            download
+            style={{
+              fontSize: 12, fontWeight: 500, marginLeft: 12,
+              color: '#fff', background: COLORS.accent,
+              textDecoration: 'none', padding: '4px 12px',
+              borderRadius: 4, display: 'inline-block',
+              verticalAlign: 'middle',
+            }}
+            title="Download original ATO page"
+          >
+            Download
+          </a>
+        )}
       </h1>
       <div style={{ fontSize: 12, color: COLORS.textMuted, marginBottom: 20, fontFamily: "'Montserrat', sans-serif" }}>
         {date ? `Date of advice: ${date}` : 'Undated'} · ATO reference EV/{auth}
+        {atoUrl && (
+          <>
+            {' · '}
+            <a href={atoUrl} target="_blank" rel="noopener noreferrer"
+               style={{ color: COLORS.accent, textDecoration: 'none' }}>
+              View on ATO website ↗
+            </a>
+          </>
+        )}
       </div>
 
       {formatted && (

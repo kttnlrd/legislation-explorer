@@ -135,6 +135,21 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
             )}
           </>
         )}
+        {isSection && (node as Section).ato_url && (
+          <a
+            href={(node as Section).ato_url}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={(e) => e.stopPropagation()}
+            aria-label="View on ATO website"
+            title="View on ATO website"
+            style={{ marginLeft: 6, flexShrink: 0, color: COLORS.textMuted, textDecoration: 'none', fontSize: 11 }}
+            onMouseEnter={(e) => { e.currentTarget.style.color = COLORS.accent }}
+            onMouseLeave={(e) => { e.currentTarget.style.color = COLORS.textMuted }}
+          >
+            ↗
+          </a>
+        )}
       </div>
       {expanded && hasChildren && (
         <div>

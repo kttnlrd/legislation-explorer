@@ -26,7 +26,11 @@ def rulings_for_section(act: str, section: str, limit: int = 50, offset: int = 0
     for r in rulings:
         found = next((item for item in ruling_list if item["citation"] == r["citation"]), None)
         if found:
-            richer_rulings.append(found)
+            # copy — load_rulings() is cached, don't mutate the shared manifest
+            richer_rulings.append({
+                **found,
+                "download_url": f"/api/ruling/{found['citation']}/download",
+            })
         else:
             # Include basic info even without full manifest entry
             # Extract year from citation when possible (e.g. "TR_2024_1" → 2024)
@@ -42,6 +46,7 @@ def rulings_for_section(act: str, section: str, limit: int = 50, offset: int = 0
                 "type": "ruling",
                 "year": fallback_year,
                 "ato_url": "",
+                "download_url": f"/api/ruling/{r['citation']}/download",
             })
     return {
         "act": act,
@@ -126,6 +131,7 @@ def list_rulings(group: str = "year"):
                             "path": r["citation"],
                             "ato_url": r.get("ato_url", ""),
                             "austlii_url": r.get("austlii_url", ""),
+                            "download_url": f"/api/ruling/{r['citation']}/download",
                         }
                         for r in sections
                     ],
@@ -154,6 +160,7 @@ def list_rulings(group: str = "year"):
                             "path": r["citation"],
                             "ato_url": r.get("ato_url", ""),
                             "austlii_url": r.get("austlii_url", ""),
+                            "download_url": f"/api/ruling/{r['citation']}/download",
                         }
                         for r in sections
                     ],

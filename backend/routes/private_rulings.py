@@ -22,7 +22,7 @@ from functools import lru_cache
 from pathlib import Path
 
 from fastapi import APIRouter, HTTPException, Query
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, Response
 
 logger = logging.getLogger(__name__)
 
@@ -34,6 +34,13 @@ INDEX_PATH = _BASE / "data" / "private_rulings_index.json"
 # Env override for the corpus location (matches the pipeline's HERMES_RULINGS_DIR).
 _CORPUS_DIR = Path(os.environ.get(
     "HERMES_RULINGS_DIR", "/home/harrison/.hermes/private_rulings")) / "data" / "json"
+# Original ATO legal-database HTML pages, downloaded alongside the JSON corpus.
+_HTML_DIR = _CORPUS_DIR.parent / "html"
+
+
+def _ato_url(authnum: str) -> str:
+    # EVR is the ATO legal database DocID code for private (edited version) rulings.
+    return f"https://www.ato.gov.au/law/view/document?DocID=EVR/{authnum}/NAT/ATO/00001"
 
 
 @lru_cache(maxsize=1)
@@ -97,6 +104,8 @@ def private_rulings_list(
             "name": meta.get("name", ""),
             "date_of_advice": meta.get("date_of_advice", ""),
             "year": meta.get("year"),
+            "ato_url": _ato_url(auth),
+            "download_url": f"/api/private-ruling/{auth}/download",
         })
     items.sort(key=lambda x: (x["date_of_advice"] or "", x["authnum"]), reverse=True)
     return {"total": len(items), "year": year, "rulings": items[offset:offset + limit]}
@@ -117,4 +126,37 @@ def private_ruling_detail(authnum: str):
         raise HTTPException(status_code=500, detail="ruling file unreadable")
     # attach the canonical graph key so the frontend can show its neighbourhood
     data["graph_key"] = f"private_ruling:EV/{authnum}"
+    data["ato_url"] = _ato_url(authnum)
+    data["download_url"] = f"/api/private-ruling/{authnum}/download"
     return data
+
+
+@router.get("/api/private-ruling/{authnum}/download")
+def private_ruling_download(authnum: str):
+    """Serve the original downloaded ATO HTML page; fall back to the JSON."""
+    authnum = authnum.strip()
+    if not authnum.isdigit():
+        raise HTTPException(status_code=400, detail="authnum must be numeric")
+    html_path = _HTML_DIR / f"{authnum}.html"
+    if html_path.exists():
+        try:
+            return Response(
+                content=html_path.read_bytes(),
+                media_type="text/html",
+                headers={"Content-Disposition": f'attachment; filename="{authnum}.html"'},
+            )
+        except OSError as exc:
+            logger.error("[private-rulings] cannot read %s: %s", html_path, exc)
+            raise HTTPException(status_code=500, detail="ruling file unreadable")
+    json_path = _CORPUS_DIR / f"{authnum}.json"
+    if json_path.exists():
+        try:
+            return Response(
+                content=json_path.read_bytes(),
+                media_type="application/json",
+                headers={"Content-Disposition": f'attachment; filename="{authnum}.json"'},
+            )
+        except OSError as exc:
+            logger.error("[private-rulings] cannot read %s: %s", json_path, exc)
+            raise HTTPException(status_code=500, detail="ruling file unreadable")
+    raise HTTPException(status_code=404, detail=f"no private ruling {authnum}")

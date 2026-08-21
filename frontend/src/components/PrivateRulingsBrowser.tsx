@@ -9,7 +9,7 @@ import { COLORS } from './common/types'
 // ---------------------------------------------------------------------------
 
 type YearEntry = { year: number; count: number }
-type RulingItem = { authnum: string; name: string; date_of_advice: string }
+type RulingItem = { authnum: string; name: string; date_of_advice: string; ato_url?: string }
 export type PrivateRulingsYear = number | 'undated' | null
 
 const PAGE = 50
@@ -158,24 +158,50 @@ export default function PrivateRulingsBrowser({
           ) : (
             <div style={{ display: 'flex', flexDirection: 'column' }}>
               {rulings.map(r => (
-                <button
+                <div
                   key={r.authnum}
-                  onClick={() => onOpen(r.authnum)}
                   style={{
-                    textAlign: 'left', cursor: 'pointer',
-                    padding: '8px 4px', border: 'none', borderBottom: `1px solid ${COLORS.border}`,
-                    background: 'transparent', color: COLORS.text,
-                    fontFamily: "'Montserrat', sans-serif", fontSize: 13,
-                    display: 'flex', justifyContent: 'space-between', gap: 12,
+                    display: 'flex', alignItems: 'center', gap: 8,
+                    borderBottom: `1px solid ${COLORS.border}`,
                   }}
                 >
-                  <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
-                    {r.name || 'Untitled ruling'}
-                  </span>
-                  <span style={{ color: COLORS.textMuted, fontSize: 12, whiteSpace: 'nowrap', flexShrink: 0 }}>
-                    {r.date_of_advice || '—'} · EV/{r.authnum.slice(-6)}
-                  </span>
-                </button>
+                  <button
+                    onClick={() => onOpen(r.authnum)}
+                    style={{
+                      textAlign: 'left', cursor: 'pointer', flex: 1, minWidth: 0,
+                      padding: '8px 4px', border: 'none',
+                      background: 'transparent', color: COLORS.text,
+                      fontFamily: "'Montserrat', sans-serif", fontSize: 13,
+                      display: 'flex', justifyContent: 'space-between', gap: 12,
+                    }}
+                  >
+                    <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                      {r.name || 'Untitled ruling'}
+                    </span>
+                    <span style={{ color: COLORS.textMuted, fontSize: 12, whiteSpace: 'nowrap', flexShrink: 0 }}>
+                      {r.date_of_advice || '—'} · EV/{r.authnum.slice(-6)}
+                    </span>
+                  </button>
+                  {r.ato_url && (
+                    <a
+                      href={r.ato_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      onClick={e => e.stopPropagation()}
+                      aria-label="View on ATO website"
+                      title="View on ATO website"
+                      style={{
+                        color: COLORS.textMuted, textDecoration: 'none',
+                        fontSize: 11, flexShrink: 0, padding: '4px 4px',
+                        fontFamily: "'Montserrat', sans-serif",
+                      }}
+                      onMouseEnter={e => { e.currentTarget.style.color = COLORS.accent }}
+                      onMouseLeave={e => { e.currentTarget.style.color = COLORS.textMuted }}
+                    >
+                      ATO ↗
+                    </a>
+                  )}
+                </div>
               ))}
               {rulings.length < listTotal && (
                 <button
