@@ -47,3 +47,4 @@ data/embeddings.db
 data/cadena_db_backup_*.sql.gz
 data/smartlink_index.json
 data/definitions_comprehensive.json
+data/private_rulings_outcomes.json

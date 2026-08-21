@@ -18,6 +18,7 @@ from backend.services.search_service import (
     search_private_rulings_fts,
 )
 from backend.services import vector_search_service, reranker
+from backend.services import private_ruling_outcomes
 from backend.services.graph_neighborhood import neighborhoods as graph_neighborhoods
 from backend.services.graph_alias import lookup as alias_lookup
 
@@ -66,6 +67,10 @@ SECTION_NUMBER_RE = re.compile(r'^[0-9]+(-[0-9]+)?$')
 _PRIVATE_RULINGS_INDEX: dict | None = None
 _PRIVATE_RULINGS_INDEX_MTIME: float = 0.0
 _PRIVATE_RULINGS_PATH = DATA_DIR / "private_rulings_index.json"
+
+
+def _is_private_ruling(item: dict) -> bool:
+    return item.get("source_type") == "private_ruling" or item.get("act") == "private-rulings"
 
 
 def _load_private_rulings_index() -> dict:
@@ -442,7 +447,7 @@ def _fts_case_search(q: str, operator: str = "AND") -> list[dict]:
 def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | None = None,
                   offset: int = 0, operator: str = "AND",
                   date_from: str | None = None, date_to: str | None = None,
-                  rtype: str | None = None):
+                  rtype: str | None = None, outcome: str | None = None):
     if limit > 50:
         limit = 50
     if offset < 0:
@@ -637,6 +642,19 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         ranked_keys = kept
         total = len(ranked_keys)
 
+    # Outcome filter — private ruling results only. The label is how the ATO
+    # answered the taxpayer's question (yes = favourable, no = unfavourable,
+    # mixed = a mix of answers). Non-ruling items pass through untouched.
+    if outcome:
+        want = outcome.strip().lower()
+        if want in private_ruling_outcomes.VALID_OUTCOMES:
+            ranked_keys = [k for k in ranked_keys
+                           if not _is_private_ruling(merged[k])
+                           or private_ruling_outcomes.outcome_matches(
+                               (private_ruling_outcomes.get(merged[k].get("section") or "")
+                                or {}).get("outcome") or "", want)]
+            total = len(ranked_keys)
+
     # Rerank the top candidates, then slice — pagination semantics (total) unchanged.
     # `score`/`fusion_score` stay the RRF score; rerank only affects ordering.
     reranked = False
@@ -658,6 +676,8 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         r["fusion_score"] = scores[key]
         emb_id = r.get("embedding_id")
         r["cross_references"] = vector_search_service.get_cross_references(emb_id) if emb_id else []
+        if _is_private_ruling(r):
+            private_ruling_outcomes.enrich(r)
         results.append(r)
 
     return {"results": results, "total": total, "offset": offset, "limit": limit,

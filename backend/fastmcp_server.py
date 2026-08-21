@@ -1503,6 +1503,95 @@ async def search_cases(query: str, limit: int = 20) -> str:
 
 
 @mcp.tool(structured_output=False)
+async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
+                               source: str = "all") -> str:
+    """Semantic search over 57,608 ATO private rulings plus 12k+ public rulings.
+
+    Embeds the query and returns the most similar rulings by meaning (not
+    keyword match). For private rulings the response includes the QA pairs —
+    the actual question the taxpayer asked and how the ATO answered (the
+    'outcome' label: yes = favourable, no = unfavourable, mixed).
+
+    Parameters:
+    - query: a fact pattern, e.g. "contractor vs employee software developer
+      home office" or "CGT main residence exemption deceased estate"
+    - limit: max results (default 10, max 20)
+    - outcome: filter private rulings by outcome label — yes | no | mixed
+      (empty = no filter). 'no' answers = likely adverse ATO positions on the
+      fact pattern (useful for objections); 'yes' = favourable positions.
+    - source: private | public | all (default all)
+
+    Returns each match's citation, title, date, score, snippet, and for
+    private rulings the QA pairs and outcome label.
+    """
+    limit = min(20, max(1, limit))
+    query = query.strip()
+    if not query:
+        return json.dumps({"total": 0, "results": [], "note": "Query required"})
+    source = (source or "all").strip().lower()
+    if source not in ("private", "public", "all"):
+        source = "all"
+    want_outcome = (outcome or "").strip().lower()
+    if want_outcome not in ("", "yes", "no", "mixed"):
+        want_outcome = ""
+
+    from backend.services import vector_search_service as _vss
+    from backend.services import private_ruling_outcomes as _outcomes
+
+    try:
+        top = _vss.search(query, limit=50)
+    except Exception as exc:  # pragma: no cover - network/API failure path
+        return json.dumps({"error": f"vector search failed: {exc}"})
+
+    # Keep rulings only; dedupe by (act, section) keeping best score per ruling
+    best: dict[tuple[str, str], dict] = {}
+    for r in top:
+        st = r.get("source_type")
+        if st not in ("ruling", "private_ruling"):
+            continue
+        if source == "private" and st != "private_ruling":
+            continue
+        if source == "public" and st != "ruling":
+            continue
+        key = (r["act"], r["section"])
+        if key not in best or r["score"] > best[key]["score"]:
+            best[key] = r
+
+    ranked = sorted(best.values(), key=lambda r: -r["score"])[:limit]
+    results = []
+    for r in ranked:
+        item = {
+            "source": r.get("source_type"),  # private_ruling | ruling
+            "citation": r.get("section"),
+            "title": r.get("title"),
+            "score": round(r["score"], 4),
+            "snippet": r.get("snippet", ""),
+        }
+        if r.get("source_type") == "private_ruling":
+            rec = _outcomes.get(r.get("section") or "")
+            if rec:
+                item["date"] = rec.get("date_of_advice") or ""
+                item["outcome"] = rec.get("outcome") or "unknown"
+                item["qa"] = rec.get("qa") or []
+                if not item["title"]:
+                    item["title"] = rec.get("name") or ""
+            else:
+                item["outcome"] = "unknown"
+            if want_outcome and item.get("outcome") != want_outcome:
+                continue
+        results.append(item)
+
+    return json.dumps({
+        "total": len(results),
+        "results": results,
+        "note": "Semantic similarity over ATO private rulings (57,608) and public rulings. "
+                "outcome reflects how the ATO answered the taxpayer's own question — "
+                "a search aid, not a legal characterisation. Verify against the full "
+                "ruling before reliance (use get_ruling / /api/private-ruling/{authnum}).",
+    }, indent=2)
+
+
+@mcp.tool(structured_output=False)
 async def insolvency_search(query: str, limit: int = 20) -> str:
     """Search the Keays Insolvency textbook across all chapters.
 

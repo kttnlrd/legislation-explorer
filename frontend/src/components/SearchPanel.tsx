@@ -15,6 +15,8 @@ interface FlatResult {
   score: number
   snippet?: string
   type?: string
+  outcome?: string
+  qa?: { q: string; a: string }[]
 }
 
 interface SearchPanelProps {
@@ -49,6 +51,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const [dateFrom, setDateFrom] = useState('')
   const [dateTo, setDateTo] = useState('')
   const [rtype, setRtype] = useState<string>('')
+  const [outcome, setOutcome] = useState<string>('')
   const inputRef = useRef<HTMLInputElement>(null)
   const [suggestions, setSuggestions] = useState<{ act: string; section: string; title: string; type: string }[]>([])
   const [showSuggestions, setShowSuggestions] = useState(false)
@@ -113,12 +116,14 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
       window.history.replaceState(null, '', '/search?q=' + encodeURIComponent(term))
       const activeFilter = filterOverride !== undefined ? filterOverride : typeFilter
       const activeRtype = activeFilter === 'ruling' ? (rtype || undefined) : undefined
+      const activeOutcome = activeFilter === 'private_ruling' ? (outcome || undefined) : undefined
       if (sortMode === 'bestmatch') {
         const data = await api.searchHybrid(term, activeFilter || undefined, 200, {
           operator,
           dateFrom: dateFrom || undefined,
           dateTo: dateTo || undefined,
           rtype: activeRtype,
+          outcome: activeOutcome,
         })
         const allResults: FlatResult[] = (data.results || data || []).map((r: any) => ({
           act: r.act || '',
@@ -130,6 +135,8 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
           score: r.fusion_score || r.score || 0,
           snippet: r.snippet || '',
           type: r.source_type || r.type || 'section',
+          outcome: r.outcome || '',
+          qa: r.qa || undefined,
         }))
         setUnfilteredResults(allResults)
         if (selectedActs.size > 0) {
@@ -551,6 +558,35 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
               ))}
             </div>
           )}
+          {/* Private-ruling outcome chips */}
+          {typeFilter === 'private_ruling' && (
+            <div style={{
+              display: 'flex', gap: 4, padding: '4px 0',
+              flexWrap: 'wrap',
+            }}>
+              {[
+                { key: '', label: 'Any outcome' },
+                { key: 'yes', label: '✓ ATO said Yes' },
+                { key: 'no', label: '✗ ATO said No' },
+                { key: 'mixed', label: 'Mixed' },
+              ].map(c => (
+                <button
+                  key={c.key}
+                  onClick={() => { setOutcome(c.key); setCurrentPage(0); doSearch(undefined, 'private_ruling') }}
+                  style={{
+                    fontSize: 10, padding: '2px 6px', borderRadius: 4,
+                    background: outcome === c.key ? COLORS.accent : COLORS.surface,
+                    color: outcome === c.key ? '#fff' : COLORS.textMuted,
+                    border: `1px solid ${outcome === c.key ? COLORS.accent : COLORS.border}`,
+                    cursor: 'pointer', fontFamily: "'Montserrat', sans-serif",
+                    fontWeight: outcome === c.key ? 600 : 400,
+                  }}
+                >
+                  {c.label}
+                </button>
+              ))}
+            </div>
+          )}
           {/* Results header */}
           <div style={{
             fontSize: 10, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif",
@@ -631,7 +667,30 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
                     fontFamily: "'Montserrat', sans-serif",
                   }}>{badgeLabel}</span>
                   <span>{sectionDisplay}</span>
+                  {r.type === 'private_ruling' && r.outcome && (
+                    <span style={{
+                      background: r.outcome === 'yes' ? '#10B981' :
+                        r.outcome === 'no' ? '#EF4444' : '#F59E0B',
+                      color: '#fff', borderRadius: 3,
+                      padding: '1px 5px', fontSize: 8, fontWeight: 600,
+                      fontFamily: "'Montserrat', sans-serif",
+                    }}>{r.outcome === 'yes' ? 'YES' : r.outcome === 'no' ? 'NO' : 'MIXED'}</span>
+                  )}
                 </div>
+                {r.type === 'private_ruling' && r.qa && r.qa.length > 0 && (
+                  <div style={{ marginTop: 3, paddingLeft: 2 }}>
+                    {r.qa.slice(0, 2).map((qa, qi) => (
+                      <div key={qi} style={{ fontSize: 10, lineHeight: 1.35, marginTop: 2, fontFamily: "'Lora', serif" }}>
+                        <span style={{ color: COLORS.textMuted, opacity: 0.75 }}>Q: {qa.q}</span>
+                        <div style={{
+                          color: qa.a.trim().toLowerCase().startsWith('yes') ? '#10B981' :
+                            qa.a.trim().toLowerCase().startsWith('no') ? '#EF4444' : COLORS.textMuted,
+                          fontWeight: 500,
+                        }}>A: {qa.a}</div>
+                      </div>
+                    ))}
+                  </div>
+                )}
               </div>
             )})}
           </div>

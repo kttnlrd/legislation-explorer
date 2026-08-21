@@ -80,7 +80,7 @@ export const api = {
     if (limit !== undefined) url += `&limit=${limit}`
     return fetchJson(url)
   },
-  searchHybrid: (q: string, type?: string, limit?: number, opts?: { operator?: string; dateFrom?: string; dateTo?: string; rtype?: string }) => {
+  searchHybrid: (q: string, type?: string, limit?: number, opts?: { operator?: string; dateFrom?: string; dateTo?: string; rtype?: string; outcome?: string }) => {
     let url = `/search/hybrid?q=${encodeURIComponent(q)}`
     if (type) url += `&type=${type}`
     if (limit !== undefined) url += `&limit=${limit}`
@@ -88,6 +88,7 @@ export const api = {
     if (opts?.dateFrom) url += `&date_from=${encodeURIComponent(opts.dateFrom)}`
     if (opts?.dateTo) url += `&date_to=${encodeURIComponent(opts.dateTo)}`
     if (opts?.rtype) url += `&rtype=${encodeURIComponent(opts.rtype)}`
+    if (opts?.outcome) url += `&outcome=${encodeURIComponent(opts.outcome)}`
     return fetchJson(url)
   },
   suggest: (q: string, limit?: number) => {
