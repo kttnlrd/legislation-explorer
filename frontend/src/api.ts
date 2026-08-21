@@ -58,6 +58,8 @@ export const api = {
   cases: (act: string, section: string) => fetchJson(`/cases/${act}/${section}`),
   rulings: (act: string, section: string) => fetchJson(`/rulings/${act}/${section}`),
   definitions: (act: string) => fetchJson(`/definitions/${act}`),
+  definitionsAll: () => fetchJson('/definitions'),
+  definitionsSearch: (act: string, q: string) => fetchJson(`/definitions/${act}/search?q=${encodeURIComponent(q)}`),
   definition: (act: string, term: string) => fetchJson(`/definition/${act}/${term}`),
   definitionText: (act: string, term: string) => fetchJson(`/definition-text/${act}/${term}`),
   search: (q: string, act?: string, offset?: number, limit?: number) => {

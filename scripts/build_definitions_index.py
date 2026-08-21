@@ -72,6 +72,131 @@ COLON_DEF_RE = re.compile(
 
 SECTION_HEADING_RE = re.compile(r"^#{1,4}\s", re.MULTILINE)
 
+# ── Dictionary-section scanner (curated phase for acts with no pointers) ──
+# These acts have a single Interpretation/Definitions section whose terms are
+# listed alphabetically in run-on paragraphs (the itaa-1936 s 6 pattern).
+DICTIONARY_SECTIONS = {
+    "fbt-1986": ("136", "sections/part-xid/division-unknown/136.md"),
+    "taa-1953": ("2", "sections/part-i/division-unknown/2.md"),
+    "sis-1993": ("10", "sections/part-1/division-2/10.md"),
+    "aml-ctf-2006": ("5", "sections/part-1/division-1/5.md"),
+    "nz-it-2007": ("YA-1", "sections/part-Y/division-YA/YA-1.md"),
+}
+
+DEFS_ALL_PATH = DATA_DIR / "definitions_all.json"
+
+# "term means / includes / has the meaning ...", with an optional
+# ", in relation to X," qualifier and the NZ "term— (a) means" dash style.
+DICT_VERB_RE = re.compile(
+    r"(?:^|\.\s+|;\s+|:\s+|\n|\)\s+|\]\s+)\s*"
+    r"([A-Za-z0-9][^.;:\n—()\[\]]{0,80}?(?:\([^)]{1,60}\))?[^.;:\n—()\[\]]{0,40}?)"
+    r"(,\s(?:in relation to|in respect of|when used|in connection with|for|of|to)\s[^.;\n]{0,200}?,)?"
+    r"\s*(?:—\s*)?(?:\((?:[a-z]|[ivx]+|\d+)\)\s*)?"
+    r"(?:has\s+(?:the|a)\s+(?:same\s+)?meanings?\b|is defined in\b|means\b|includes\b)",
+    re.MULTILINE,
+)
+
+# Colon-style: "term: definition text" (AML/CTF s 5 uses this heavily)
+DICT_COLON_RE = re.compile(
+    r"(?:^|\.\s+|\n)\s*([A-Za-z0-9][^.;:\n—]{1,60}?):\s",
+    re.MULTILINE,
+)
+
+
+def _loose_alpha_key(term: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", term.lower())
+
+
+def clean_dict_body(content: str) -> str:
+    body = get_body(content)
+    body = re.sub(r'<a id="[^"]*"></a>\s*', "", body)
+    body = re.sub(r"^#+\s.*$", "", body, flags=re.MULTILINE)
+    body = re.sub(r"^>\s?", "", body, flags=re.MULTILINE)
+    body = body.replace("‘", "'").replace("’", "'")
+    body = body.replace("“", '"').replace("”", '"')
+    return body.replace("*", "")
+
+
+def scan_dictionary_section(act: str) -> list[str]:
+    """Extract term names from an act's dictionary section, in file order."""
+    section, rel_path = DICTIONARY_SECTIONS[act]
+    md_path = DATA_DIR / act / rel_path
+    body = clean_dict_body(md_path.read_text(encoding="utf-8", errors="replace"))
+
+    candidates = []  # (position, term)
+    verb_spans = []
+    for m in DICT_VERB_RE.finditer(body):
+        term = m.group(1).strip().rstrip(",")
+        candidates.append((m.start(1), term))
+        verb_spans.append((m.start(1), m.end()))
+    for m in DICT_COLON_RE.finditer(body):
+        # Skip colon matches inside a verb-style match ("term means:")
+        if any(s <= m.start(1) < e for s, e in verb_spans):
+            continue
+        candidates.append((m.start(1), m.group(1).strip()))
+    candidates.sort()
+
+    # Terms appear alphabetically in dictionary sections, so the real terms
+    # form the longest non-decreasing chain of sort keys through the file;
+    # mid-definition false positives ("the recipient means...") fall off it.
+    valid = [t for _, t in candidates if is_valid_def_term(t) and _loose_alpha_key(t)]
+    keys = [_loose_alpha_key(t) for t in valid]
+    n = len(keys)
+    # ponytail: O(n^2) LIS, n is at most a few thousand in a one-off script
+    best = [1] * n
+    prev = [-1] * n
+    for i in range(n):
+        for j in range(i):
+            if keys[j] <= keys[i] and best[j] + 1 > best[i]:
+                best[i] = best[j] + 1
+                prev[i] = j
+    if not n:
+        return []
+    i = max(range(n), key=lambda k: best[k])
+    chain = []
+    while i != -1:
+        chain.append(valid[i])
+        i = prev[i]
+    chain.reverse()
+
+    kept, seen = [], set()
+    for term in chain:
+        key = _loose_alpha_key(term)
+        if key not in seen:
+            seen.add(key)
+            kept.append(term)
+    return kept
+
+
+def run_dictionary_phase() -> int:
+    import datetime
+    import shutil
+
+    data = json.loads(DEFS_ALL_PATH.read_text(encoding="utf-8"))
+    backup = DEFS_ALL_PATH.with_name(
+        f"definitions_all.json.bak-{datetime.date.today().isoformat()}")
+    if not backup.exists():
+        shutil.copy2(DEFS_ALL_PATH, backup)
+        print(f"Backup: {backup}")
+
+    for act, (section, rel_path) in DICTIONARY_SECTIONS.items():
+        raw = (DATA_DIR / act / rel_path).read_text(encoding="utf-8", errors="replace")
+        anchor_m = re.search(r'<a id="(s[^"]+)"', raw)
+        anchor = anchor_m.group(1) if anchor_m else ""
+
+        terms = scan_dictionary_section(act)
+        existing = data.get(act, {}).get("terms", {})
+        merged = {**existing}
+        for term in terms:
+            if term not in merged:
+                merged[term] = {"anchor": anchor, "section": section}
+        data[act] = {"section": section, "terms": merged}
+        print(f"{act}: {len(existing)} -> {len(merged)} terms (s {section})")
+
+    DEFS_ALL_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"Saved {DEFS_ALL_PATH}")
+    return 0
+
 
 def get_body(content: str) -> str:
     if content.startswith("---"):
@@ -257,4 +382,6 @@ def main() -> int:
 
 
 if __name__ == "__main__":
+    if "--dictionaries" in sys.argv:
+        sys.exit(run_dictionary_phase())
     sys.exit(main())

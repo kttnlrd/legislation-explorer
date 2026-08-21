@@ -5,22 +5,56 @@ import re
 
 from fastapi import HTTPException, APIRouter
 
-from backend.services.data_loader import load_definitions, get_definition_text, get_act_section_content, get_definition_across_acts
+from backend.services.data_loader import (
+    load_definitions,
+    load_definitions_with_text,
+    get_definition_text,
+    get_act_section_content,
+    get_definition_across_acts,
+    resolve_act_id,
+    _all_definition_acts,
+)
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
 
 
+@router.get("/api/definitions")
+def list_definition_acts():
+    acts = [
+        {"act": act, "count": len(load_definitions(act))}
+        for act in sorted(_all_definition_acts())
+    ]
+    return {"acts": acts}
+
+
+@router.get("/api/definitions/{act}/search")
+def search_definitions(act: str, q: str = ""):
+    act = resolve_act_id(act)
+    query = q.strip().lower()
+    if not query:
+        return {"act": act, "query": q, "count": 0, "terms": []}
+    matches = [
+        item for item in load_definitions_with_text(act)
+        if query in item["term"].lower() or query in item["text"].lower()
+    ]
+    # Term matches first, then text-only matches
+    matches.sort(key=lambda item: query not in item["term"].lower())
+    matches = matches[:50]
+    return {"act": act, "query": q, "count": len(matches), "terms": matches}
+
+
 @router.get("/api/definitions/{act}")
 def get_definitions(act: str):
-    defs = load_definitions(act)
-    return {"act": act, "count": len(defs), "terms": defs}
+    act = resolve_act_id(act)
+    terms = load_definitions_with_text(act)
+    return {"act": act, "count": len(terms), "terms": terms}
 
 
 @router.get("/api/definition/{act}/{term}")
 def get_definition(act: str, term: str):
     # Return the term wherever it is defined, preferring the requested act.
-    result = get_definition_across_acts(term, preferred_act=act)
+    result = get_definition_across_acts(term, preferred_act=resolve_act_id(act))
     if not result:
         raise HTTPException(status_code=404, detail=f"Definition for '{term}' not found")
     return result
@@ -43,13 +77,18 @@ def section_defined_terms(act: str, section: str):
     patterns (not wrapped in *asterisks*), which the formatting pipeline
     only wraps at serve time.
     """
+    act = resolve_act_id(act)
     defs = load_definitions(act)
     if not defs:
         return {"act": act, "section": section, "count": 0, "terms": []}
 
     # Dictionary sections: return all terms from the index for this section
-    DICT_SECTIONS = frozenset({"6", "195-1", "995-1"})
-    if section in DICT_SECTIONS:
+    DICT_SECTIONS = frozenset({
+        ("itaa-1936", "6"), ("itaa-1997", "995-1"), ("gst-1999", "195-1"),
+        ("fbt-1986", "136"), ("taa-1953", "2"), ("sis-1993", "10"),
+        ("aml-ctf-2006", "5"), ("nz-it-2007", "YA-1"),
+    })
+    if (act, section) in DICT_SECTIONS:
         found = [
             {"term": term, "section": info.get("section", ""), "anchor": info.get("anchor", "")}
             for term, info in defs.items()

@@ -158,30 +158,62 @@ def _singularise_term(term: str) -> str:
     return t
 
 
-def load_definitions(act: str) -> dict[str, dict]:
+# Shorthand act ids accepted by the definitions API. Unknown ids pass through.
+ACT_ALIASES = {
+    "1936": "itaa-1936", "itaa36": "itaa-1936",
+    "1997": "itaa-1997", "itaa97": "itaa-1997",
+    "gst": "gst-1999", "gst1999": "gst-1999",
+    "fbt": "fbt-1986", "fbtaa": "fbt-1986",
+    "taa": "taa-1953",
+    "sis": "sis-1993",
+    "corps": "corporations-act-2001",
+    "aml": "aml-ctf-2006", "amlctf": "aml-ctf-2006",
+    "nz": "nz-it-2007", "nzit": "nz-it-2007",
+}
+
+
+def resolve_act_id(act: str) -> str:
+    return ACT_ALIASES.get(act.strip().lower(), act)
+
+
+def _definitions_store_path() -> Path | None:
     # Prefer the combined definitions_all.json; fall back to the act-keyed
     # definitions.json when the combined file is absent (both share the
     # {act: {section, terms}} shape).
-    path = DATA_DIR / "definitions_all.json"
-    if not path.exists():
-        path = DATA_DIR / "definitions.json"
-    if not path.exists():
+    for name in ("definitions_all.json", "definitions.json"):
+        path = DATA_DIR / name
+        if path.exists():
+            return path
+    return None
+
+
+@functools.lru_cache(maxsize=4)
+def _definitions_store(path_str: str, mtime: float) -> dict:
+    return json.loads(Path(path_str).read_text(encoding="utf-8"))
+
+
+def _load_definitions_store() -> dict:
+    path = _definitions_store_path()
+    if not path:
         return {}
-    data = json.loads(path.read_text(encoding="utf-8"))
-    act_data = data.get(act, {})
+    return _definitions_store(str(path), path.stat().st_mtime)
+
+
+def load_definitions(act: str) -> dict[str, dict]:
+    act = resolve_act_id(act)
+    act_data = _load_definitions_store().get(act, {})
     terms = act_data.get("terms", {})
     return {_normalize_term_key(term): {**info} for term, info in terms.items()}
 
 
 def _all_definition_acts() -> list[str]:
     """Acts that carry a definitions index, derived from the definitions store."""
-    for name in ("definitions_all.json", "definitions.json"):
-        path = DATA_DIR / name
-        if path.exists():
-            try:
-                return list(json.loads(path.read_text(encoding="utf-8")).keys())
-            except Exception:
-                break
+    try:
+        store = _load_definitions_store()
+        if store:
+            return list(store.keys())
+    except Exception:
+        pass
     return ["itaa-1997", "itaa-1936", "gst-1999"]
 
 
@@ -944,7 +976,16 @@ def get_act_section_content(act: str, section: str) -> tuple[dict, str]:
     return fm, body
 
 
+@functools.lru_cache(maxsize=None)
+def _definition_section_file(act: str, section: str) -> str | None:
+    sections_dir = DATA_DIR / act / "sections"
+    for f in sections_dir.rglob(f"{section}.md"):
+        return str(f)
+    return None
+
+
 def get_definition_text(act: str, term: str) -> dict | None:
+    act = resolve_act_id(act)
     defs = load_definitions(act)
     if not defs:
         return None
@@ -955,13 +996,10 @@ def get_definition_text(act: str, term: str) -> dict | None:
     if not section:
         return None
 
-    sections_dir = DATA_DIR / act / "sections"
-    md_path = None
-    for f in sections_dir.rglob(f"{section}.md"):
-        md_path = f
-        break
-    if not md_path:
+    md_file = _definition_section_file(act, section)
+    if not md_file:
         return None
+    md_path = Path(md_file)
 
     content = md_path.read_text(encoding="utf-8")
     if content.startswith("---"):
@@ -980,8 +1018,10 @@ def get_definition_text(act: str, term: str) -> dict | None:
     escaped = re.escape(term_lower)
     # Patterns for definition anchors
     patterns = [
-        rf'(?<!\w){escaped}\s+(?:has\s+(?:(?:the|a)\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$)',
+        rf'(?<!\w){escaped}(?:,\s[^.;\n]{{0,200}}?,)?\s+(?:has\s+(?:(?:the|a)\s+)?(?:same\s+)?meaning|is\s+defined\s+in|means|includes)(?:\s|:|$)',
         rf'(?<!\w){escaped}\s*:',
+        # NZ IT Act 2007 style: "term— (a) means ..."
+        rf'(?<!\w){escaped}\s*—',
     ]
 
     # Collect ALL matches so we can prefer the primary definition
@@ -1045,6 +1085,12 @@ def get_definition_text(act: str, term: str) -> dict | None:
                 rest,
                 re.IGNORECASE,
             )
+        if not term_match:
+            term_match = re.search(
+                rf'(?:\n(?:[-•*]\s+)?|\.\s+|:\s+)({escaped_t}\s*—)',
+                rest,
+                re.IGNORECASE,
+            )
         if term_match:
             end_pos = idx + len(m.group()) + term_match.start()
 
@@ -1088,6 +1134,118 @@ def get_definition_text(act: str, term: str) -> dict | None:
         "is_cross_reference": is_cross_ref,
         "text_length": len(text),
     }
+
+
+# What must follow a term for the occurrence to be a definition anchor.
+# Allows an optional ", in relation to X," style qualifier before the verb.
+_DEF_ANCHOR_SUFFIX = re.compile(
+    r'(?:,\s[^.;\n]{0,200}?,)?'
+    r'\s+(?:has\s+(?:(?:the|a)\s+)?(?:same\s+)?meaning|is\s+defined\s+in|means|includes)(?:\s|:|$)'
+    r'|\s*:'
+    r'|\s*—'
+)
+
+
+def _find_definition_start(key: str, body: str, pos: int) -> int | None:
+    """First definition anchor for key at/after pos, preferring anchors at a
+    sentence/line boundary; falls back to a full-body retry.
+
+    Uses str.find for the term literal (re's scan is ~100x slower here) and
+    validates each occurrence with a word-boundary check plus suffix regex.
+    """
+    for from_pos in (pos, 0) if pos else (0,):
+        first_raw = None
+        s = body.find(key, from_pos)
+        checked = 0
+        while s != -1 and checked < 200:
+            checked += 1
+            end = s + len(key)
+            if (s == 0 or not (body[s - 1].isalnum() or body[s - 1] == "_")) \
+                    and _DEF_ANCHOR_SUFFIX.match(body, end):
+                if first_raw is None:
+                    first_raw = s
+                before = body[max(0, s - 60):s].rstrip()
+                if not before or before[-1] in '.:;>"\n':
+                    return s
+            s = body.find(key, s + 1)
+        if first_raw is not None:
+            return first_raw
+    return None
+
+
+def _clean_definition_snippet(text: str) -> str:
+    text = re.sub(r'<a id="[^"]+"></a>\s*\n?', "", text)
+    text = re.sub(r">\s*", "", text)
+    text = re.sub(r"\*\*\((\d+)\)\*\*\s*", r"(\1) ", text)
+    text = re.sub(r"\*\*", "", text)
+    text = re.sub(r"\n{2,}", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+@functools.lru_cache(maxsize=32)
+def _definitions_with_text_cached(act: str, mtime: float) -> tuple:
+    raw_terms = _load_definitions_store().get(act, {}).get("terms", {})
+    if not raw_terms:
+        return ()
+
+    # Group terms by defining section so each section body is scanned once,
+    # in alphabetical (= document) order, instead of per-term full scans.
+    by_section: dict[str, list[str]] = {}
+    for term in raw_terms:
+        by_section.setdefault(raw_terms[term].get("section", ""), []).append(term)
+
+    MAX_DEF_LENGTH = 5000
+    results = []
+    for section, terms in by_section.items():
+        texts: dict[str, str] = {}
+        md_file = _definition_section_file(act, section) if section else None
+        if md_file:
+            body = Path(md_file).read_text(encoding="utf-8")
+            if body.startswith("---"):
+                fm_end = re.search(r"\n---\s*\n", body)
+                if fm_end:
+                    body = body[fm_end.end():]
+            body = body.replace("‘", "'").replace("’", "'")
+            body = body.replace("“", '"').replace("”", '"')
+            body = body.replace("*", "")
+            search_body = body.lower()
+            if len(search_body) != len(body):  # pathological unicode lowering
+                search_body = body
+
+            # Dictionary sections list terms alphabetically, so scan forward
+            # from the previous hit; fall back to a full search on a miss.
+            ordered = sorted(terms, key=lambda t: _normalize_term_key(t))
+            pos = 0
+            starts: list[tuple[int, str]] = []
+            for term in ordered:
+                start = _find_definition_start(_normalize_term_key(term), search_body, pos)
+                if start is not None:
+                    starts.append((start, term))
+                    pos = max(pos, start)
+            starts.sort()
+            for i, (start, term) in enumerate(starts):
+                end = starts[i + 1][0] if i + 1 < len(starts) else len(body)
+                texts[term] = _clean_definition_snippet(body[start:end])[:MAX_DEF_LENGTH]
+
+        for term in terms:
+            info = raw_terms[term]
+            results.append({
+                "term": info.get("term", term),
+                "section": section,
+                "anchor": info.get("anchor", ""),
+                "text": texts.get(term) or info.get("definition", ""),
+            })
+
+    results.sort(key=lambda r: r["term"].lower())
+    return tuple(results)
+
+
+def load_definitions_with_text(act: str) -> list[dict]:
+    """Every definition in an act with its resolved text, alphabetically."""
+    act = resolve_act_id(act)
+    path = _definitions_store_path()
+    mtime = path.stat().st_mtime if path else 0.0
+    return [dict(item) for item in _definitions_with_text_cached(act, mtime)]
 
 
 def get_definition_across_acts(term: str, preferred_act: str | None = None) -> dict | None:

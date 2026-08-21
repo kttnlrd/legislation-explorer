@@ -392,17 +392,18 @@ class TestDefinitions:
         finally:
             _restore_token(token)
 
-    def test_definitions_terms_are_dicts(self):
+    def test_definitions_terms_are_list_with_text(self):
         token = _unset_token()
         try:
             resp = client.get(f"/api/definitions/{SAMPLE_ACT}")
             terms = resp.json()["terms"]
-            # terms may be a dict (term -> info) or list of items
-            assert isinstance(terms, dict)
+            # terms is an alphabetical list of {term, section, anchor, text}
+            assert isinstance(terms, list)
             if terms:
-                sample_key = next(iter(terms))
-                sample_val = terms[sample_key]
-                assert isinstance(sample_val, dict)
+                sample = terms[0]
+                assert isinstance(sample, dict)
+                for key in ("term", "section", "anchor", "text"):
+                    assert key in sample
         finally:
             _restore_token(token)
 

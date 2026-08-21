@@ -10,6 +10,7 @@ import KeyboardShortcuts from './components/KeyboardShortcuts'
 import PinnedTabs from './components/PinnedTabs'
 import SmartLinkPanel from './components/SmartLinkPanel'
 import DefinitionPopover from './components/DefinitionPopover'
+import DefinitionsBrowser from './components/DefinitionsBrowser'
 import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
 import PrivateRulingsBrowser from './components/PrivateRulingsBrowser'
@@ -161,6 +162,8 @@ export default function App() {
     label: string
   } | null>(null)
   const [activeMap, setActiveMap] = useState<string | null>(null)
+  // Definitions browser: null = off, '' = act picker, 'itaa-1936' = act view
+  const [activeDefinitions, setActiveDefinitions] = useState<string | null>(null)
   const [mapsList, setMapsList] = useState<any[] | null>(null)
   const settingsRef = useRef<HTMLDivElement>(null)
   const [selectedRulingSection, setSelectedRulingSection] = useState<string | null>(null)
@@ -534,10 +537,15 @@ export default function App() {
       const mapMatch = window.location.pathname.match(/^\/maps\/(.+)$/)
       const mapsIndex = window.location.pathname === '/maps'
       const isSearch = window.location.pathname === '/search'
+      // Definitions routes must match before sectionMatch/actOnlyMatch so
+      // /definitions/itaa-1936 isn't swallowed by the generic matchers.
+      const defsMatch = window.location.pathname.match(/^\/definitions(?:\/([a-z0-9-]+))?$/)
       const privateRulingMatch = window.location.pathname.match(/^\/private-rulings\/(.+)$/)
       const sectionMatch = window.location.pathname.match(/\/([a-z0-9-]+)\/(.+)/)
       const rulingMatch = window.location.pathname.match(/\/rulings\/(.+)/)
       const actOnlyMatch = window.location.pathname.match(/^\/([a-z0-9-]+)$/)
+
+      if (!defsMatch) setActiveDefinitions(null)
 
       if (isSearch) {
         setActiveMap(null)
@@ -545,6 +553,13 @@ export default function App() {
         setActiveRuling(null)
         setActivePrivateRuling(null)
         setSearchPage(true)
+      } else if (defsMatch) {
+        setActiveDefinitions(defsMatch[1] || '')
+        setActiveMap(null)
+        setActiveSection('')
+        setActiveRuling(null)
+        setActivePrivateRuling(null)
+        setSearchPage(false)
       } else if (mapMatch) {
         setActiveMap(decodeURIComponent(mapMatch[1]))
         setActiveSection('')
@@ -597,6 +612,14 @@ export default function App() {
     return () => window.removeEventListener('popstate', handler)
   }, [])
 
+  // Leaving the definitions browser: any in-app navigation to a section,
+  // ruling or map closes it (URL changes are handled by the popstate sync).
+  useEffect(() => {
+    if (activeDefinitions !== null && (activeSection || activeRuling || activePrivateRuling || activeMap)) {
+      setActiveDefinitions(null)
+    }
+  }, [activeDefinitions, activeSection, activeRuling, activePrivateRuling, activeMap])
+
   // Resize handlers
   useEffect(() => {
     const onMouseMove = (e: MouseEvent) => {
@@ -624,7 +647,7 @@ export default function App() {
   if (!tree) return <div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div>
 
   const mobileSidebarWidth = isMobile ? Math.min(window.innerWidth * 0.85, 380) : sidebarWidth
-  const hasContent = !!(activeSection || activeRuling || activePrivateRuling || browsingAct || activeMap)
+  const hasContent = !!(activeSection || activeRuling || activePrivateRuling || browsingAct || activeMap || activeDefinitions !== null)
 
   return (
     <ErrorBoundary>
@@ -1026,6 +1049,18 @@ export default function App() {
               onResultsChange={setSearchResultsCount}
             />
           </div>
+        ) : activeDefinitions !== null ? (
+          <DefinitionsBrowser
+            act={activeDefinitions}
+            onSelectAct={(a) => {
+              setActiveDefinitions(a)
+              window.history.pushState(null, '', a ? `/definitions/${a}` : '/definitions')
+            }}
+            onNavigate={(a, s, anchor) => {
+              setActiveDefinitions(null)
+              onNavigate(a, s, anchor)
+            }}
+          />
         ) : activeMap ? (
           <MapView
             mapId={activeMap}
@@ -1107,6 +1142,20 @@ export default function App() {
               <span style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading }}>
                 {shortActName(act)}
               </span>
+              {act !== 'maps' && act !== 'treaties' && (
+                <button
+                  onClick={() => {
+                    setActiveDefinitions(act)
+                    window.history.pushState(null, '', `/definitions/${act}`)
+                  }}
+                  style={{
+                    background: 'none', border: `1px solid ${COLORS.border}`, borderRadius: 6,
+                    padding: '3px 10px', cursor: 'pointer', color: COLORS.accent, fontSize: 12,
+                  }}
+                >
+                  Definitions
+                </button>
+              )}
             </div>
             <div style={{ borderTop: `1px solid ${COLORS.border}`, paddingTop: 8 }}>
               {(() => {
