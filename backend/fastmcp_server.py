@@ -1982,7 +1982,7 @@ def _ruling_type_from_citation(citation: str) -> str:
     return ""
 
 @mcp.tool(structured_output=False)
-async def get_ruling(citation: str, full_text: bool = False) -> str:
+async def get_ruling(citation: str) -> str:
     """Retrieve an ATO ruling preview by citation, with related legislation sections.
 
     Returns structured summary data when available (cases_referenced,
@@ -1990,8 +1990,8 @@ async def get_ruling(citation: str, full_text: bool = False) -> str:
     raw text preview. Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.
     ATO IDs return full_text inline.
 
-    Set full_text=True to inline the complete ruling document (same as the
-    /api/ruling/{citation}/download endpoint) instead of a preview.
+    Each result carries an absolute download_url — fetch it to retrieve the
+    complete ruling document.
 
     When a direct match fails, falls back to search and returns
     "did you mean?" suggestions with the top 3 matching rulings.
@@ -2050,7 +2050,7 @@ async def get_ruling(citation: str, full_text: bool = False) -> str:
                         "source": "summary",
                     }, indent=2)
                 # For full rulings, return structured fields
-                result = {
+                return json.dumps({
                     "citation": summary.get("citation", ref),
                     "title": summary.get("title", ""),
                     "type": _ruling_type_from_citation(ref) or summary.get("type", ""),
@@ -2065,27 +2065,7 @@ async def get_ruling(citation: str, full_text: bool = False) -> str:
                     "ato_url": ato_url,
                     "download_url": download_url,
                     "source": "summary",
-                }
-                if full_text:
-                    # Inline the complete ruling document (same content as the
-                    # /api/ruling/{citation}/download endpoint) so agents don't
-                    # need to fetch the absolute URL themselves.
-                    for r in load_rulings():
-                        if r["citation"] in candidates:
-                            fpath = Path(r["source"])
-                            ftext = ""
-                            if fpath.exists():
-                                ftext = fpath.read_text(encoding="utf-8")
-                                from backend.services.data_loader import _strip_ato_chrome
-                                ftext = _strip_ato_chrome(ftext)
-                                ftext = strip_scraped_markup(ftext)
-                            result["full_text"] = ftext
-                            result["full_text_truncated"] = False
-                            break
-                    else:
-                        result["full_text"] = ""
-                        result["full_text_truncated"] = True
-                return json.dumps(result, indent=2)
+                }, indent=2)
             except Exception:
                 pass  # Fall through to raw text
 
@@ -2101,7 +2081,7 @@ async def get_ruling(citation: str, full_text: bool = False) -> str:
             MAX_PREVIEW = 5000
             preview = stripped[:MAX_PREVIEW]
             truncated = len(stripped) > MAX_PREVIEW
-            payload = {
+            return json.dumps({
                 "citation": r["citation"],
                 "citation_display": r.get("citation_display", ""),
                 "title": r["title"],
@@ -2116,11 +2096,7 @@ async def get_ruling(citation: str, full_text: bool = False) -> str:
                 "content_truncated": truncated,
                 "total_content_length": len(stripped),
                 "source": "raw_text",
-            }
-            if full_text:
-                payload["full_text"] = stripped
-                payload["full_text_truncated"] = False
-            return json.dumps(payload, indent=2)
+            }, indent=2)
 
     # Fallback: search for similar
     from backend.services.search_service import search_rulings
