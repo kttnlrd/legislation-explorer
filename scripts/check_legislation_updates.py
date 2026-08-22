@@ -91,7 +91,9 @@ def _parse_remote_comp(html_or_json: str) -> dict | None:
         return None
     comp_no = m.group(1)
     reg = re.search(r'"registerId"\s*:\s*"(C20\d{2}C\d{5})"', html_or_json)
-    date_m = re.search(r'"effectiveDate"\s*:\s*"([^"]{10})"', html_or_json)
+    date_m = re.search(r'"start"\s*:\s*"([^"]{10})', html_or_json)
+    if not date_m:
+        date_m = re.search(r'"effectiveDate"\s*:\s*"([^"]{10})"', html_or_json)
     # Also try the visible date-effective-start span
     if not date_m:
         date_m = re.search(r'date-effective-start">\s*([0-9]{1,2} [A-Z][a-z]+ \d{4})', html_or_json)
@@ -133,7 +135,7 @@ def check_act_via_odata(act_slug: str, config: dict) -> dict:
             f"&$top=1"
             f"&$expand=Amendments($expand=AmendingAct)"
         )
-        resp = curl.get(query_url, impersonate="chrome120", headers=HEADERS, timeout=30, verify=False)
+        resp = curl.get(query_url, impersonate="chrome120", headers=HEADERS, timeout=30)
         if resp.status_code != 200 or not resp.text.strip():
             result["error"] = f"OData HTTP {resp.status_code} or empty body"
             return result
@@ -185,7 +187,7 @@ def check_act_via_series_page(act_slug: str, config: dict) -> dict:
         # /latest is the canonical "current compilation" URL (redirects to the
         # most recent compilation's Details page)
         url = f"https://www.legislation.gov.au/{series_id}/latest"
-        resp = curl.get(url, impersonate="chrome120", headers=HEADERS, timeout=30, verify=False)
+        resp = curl.get(url, impersonate="chrome120", headers=HEADERS, timeout=30)
         if resp.status_code != 200:
             result["error"] = f"Series page HTTP {resp.status_code}"
             return result
@@ -193,7 +195,7 @@ def check_act_via_series_page(act_slug: str, config: dict) -> dict:
         if remote is None:
             # Try the Details page (sometimes /latest serves a thin shell)
             url2 = f"https://www.legislation.gov.au/Details/{series_id}"
-            resp2 = curl.get(url2, impersonate="chrome120", headers=HEADERS, timeout=30, verify=False)
+            resp2 = curl.get(url2, impersonate="chrome120", headers=HEADERS, timeout=30)
             if resp2.status_code == 200:
                 remote = _parse_remote_comp(resp2.text)
         if remote is None:

@@ -61,19 +61,28 @@ def run_script(script_name: str, timeout: int = 600) -> dict:
     script_path = SCRIPTS / script_name
     if not script_path.exists():
         return {"exit": -1, "output": {}, "stderr": f"Script not found: {script_path}"}
-    p = subprocess.run(
-        [str(VENV_PYTHON), str(script_path)],
-        capture_output=True, text=True, timeout=timeout,
-    )
+    try:
+        p = subprocess.run(
+            [str(VENV_PYTHON), str(script_path)],
+            capture_output=True, text=True, timeout=timeout,
+        )
+    except subprocess.TimeoutExpired as e:
+        return {
+            "exit": -1,
+            "output": {"_timeout": True, "script": script_name, "timeout_s": timeout},
+            "stdout_preview": (e.stdout or "")[:500],
+            "stderr": f"Timeout after {timeout}s: {script_name}",
+        }
+    # Both checkers emit json.dumps(..., indent=2). The old line-scan broke on
+    # the first bare "{" line, so every checker run appeared to return {}.
     out = {}
-    for line in p.stdout.split("\n"):
-        line = line.strip()
-        if line.startswith("{"):
-            try:
-                out = json.loads(line)
-                break
-            except json.JSONDecodeError:
-                continue
+    stdout = p.stdout or ""
+    start = stdout.find("{")
+    if start != -1:
+        try:
+            out = json.loads(stdout[start:])
+        except json.JSONDecodeError as e:
+            out = {"_parse_error": str(e), "_stdout_tail": stdout[-300:]}
     return {
         "exit": p.returncode,
         "output": out,
