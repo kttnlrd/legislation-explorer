@@ -72,7 +72,7 @@ check("MCP initialize", "result" in resp)
 
 _, tools = mcp("tools/list", {}, sid)
 names = [t["name"] for t in tools["result"]["tools"]]
-core = {"get_section", "search_all", "get_ruling", "get_case", "get_definition",
+core = {"get_section", "search_all", "get_private_ruling", "get_case", "get_definition",
         "get_act_tree", "list_acts", "list_rulings", "search_legislation",
         "search_cases", "get_info", "standards", "report_issue", "case_legislation_refs"}
 check(f"MCP tools/list ({len(names)} tools)", core.issubset(set(names)))
@@ -107,11 +107,18 @@ all_r = data.get("results",{})
 total = sum(len(v) for v in all_r.values() if isinstance(v,list))
 check("search_all(unfiltered, deductions)", total > 0, f"{total} total across types")
 
-# get_ruling
-for cit in ["TR 2024/1", "TD 2024/1", "PCG 2017/13"]:
-    _, resp = mcp("tools/call", {"name":"get_ruling","arguments":{"citation":cit}}, sid)
-    data = json.loads(resp["result"]["content"][0]["text"])
-    check(f"get_ruling {cit}", len(data.get("body","")) > 50 or "error" not in str(data).lower())
+# get_section related rulings carry absolute download_url + ato_url
+# (get_ruling tool was removed — links now ride on summary payloads)
+_, resp = mcp("tools/call", {"name":"get_section","arguments":{"act":"itaa-1997","section":"8-1"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+rel_rulings = data.get("related",{}).get("rulings",[])
+if rel_rulings:
+    r0 = rel_rulings[0]
+    check("related ruling has download_url",
+          str(r0.get("download_url","")).startswith("http"),
+          f"{r0.get('citation')} → {r0.get('download_url')}")
+else:
+    check("related ruling has download_url", False, "no related rulings returned")
 
 # get_case
 _, resp = mcp("tools/call", {"name": "get_case", "arguments": {"citation": "[2019] FCAFC 29"}}, sid)

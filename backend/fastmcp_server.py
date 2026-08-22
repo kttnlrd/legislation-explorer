@@ -547,7 +547,7 @@ def _display_case_citation(c: str) -> str:
 
 
 def _display_ruling_citation(c: str) -> str:
-    """'AID_2002_46' -> 'AID 2002/46'; 'TR_2024_1' -> 'TR 2024/1' (get_ruling accepts)."""
+    """'AID_2002_46' -> 'AID 2002/46'; 'TR_2024_1' -> 'TR 2024/1'."""
     if not c:
         return c
     m = _re.match(r'^([A-Z]+(?:_[A-Z]+)*)_(\d{4})_(\d+)$', c)
@@ -731,15 +731,21 @@ def _graph_rulings_for_section(act: str, section: str, limit: int = 10) -> list[
             citation.replace(" ", "_").replace("/", "_").replace("-", "_"),
             citation.replace(" ", "").replace("/", "_").replace("-", "_"),
         }
+        r = None
+        title = ""
         for cand in candidates:
             r = rulings.get(cand)
             if r:
                 title = r.get("full_title") or r.get("title") or ""
                 break
+        dl_citation = _re.sub(r"[\s/]+", "_", citation).strip("_")
         out.append({
             "type": "ruling",
             "citation": citation,
             "title": title or label,
+            "ato_url": r.get("ato_url", "") if r else "",
+            "austlii_url": r.get("austlii_url", "") if r else "",
+            "download_url": _abs(f"/api/ruling/{dl_citation}/download"),
         })
     return out
 
@@ -754,6 +760,9 @@ def _graph_private_rulings_for_section(act: str, section: str, limit: int = 10) 
             "auth_number": auth,
             "label": label if label.startswith("EV/") else f"EV/{auth}",
             "url": f"/private-rulings/{auth}",
+            "ato_url": (f"https://www.ato.gov.au/law/view/print"
+                        f"?DocID=EV/{auth}&PiT=99991231235958"),
+            "download_url": _abs(f"/api/private-ruling/{auth}/download"),
         })
     return out
 
@@ -1615,7 +1624,7 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
                 "outcome reflects how the ATO answered the taxpayer's own question — "
                 "a search aid, not a legal characterisation. Each result carries ato_url "
                 "and download_url links. Verify against the full ruling before reliance "
-                "(use get_ruling / get_private_ruling).",
+                "(use get_private_ruling).",
     }, indent=2)
 
 
@@ -1845,8 +1854,8 @@ async def get_info() -> str:
                 "act structure": "get_act_tree",
                 "case by name/topic": "search_all(type_filter=case) → get_case",
                 "full judgment text": "get_case().sources.text.url",
-                "rulings for a section": "search_all(type_filter=ruling) → get_ruling",
-                "ruling by citation": "get_ruling",
+                "rulings for a section": "search_all(type_filter=ruling)",
+                "ruling by citation": "search_all(type_filter=ruling) — download_url/ato_url included",
                 "standards / verification": "standards",
                 "bug or data gap": "report_issue",
             },
@@ -1980,142 +1989,6 @@ def _ruling_type_from_citation(citation: str) -> str:
     if m:
         return _PREFIX_TYPE_MAP.get(m.group(1).upper(), "")
     return ""
-
-@mcp.tool(structured_output=False)
-async def get_ruling(citation: str) -> str:
-    """Retrieve an ATO ruling preview by citation, with related legislation sections.
-
-    Returns structured summary data when available (cases_referenced,
-    legislation_referenced, question/subject/ruling text). Falls back to
-    raw text preview. Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.
-    ATO IDs return full_text inline.
-
-    Each result carries an absolute download_url — fetch it to retrieve the
-    complete ruling document.
-
-    When a direct match fails, falls back to search and returns
-    "did you mean?" suggestions with the top 3 matching rulings.
-    """
-    # Expand 2-digit years in citations (e.g. TR 23/1 -> TR 2023/1)
-    _yr2_m = _re.match(r'^([A-Z]+) (\d{2})/(\d+)', citation.strip())
-    if _yr2_m:
-        yr2 = int(_yr2_m.group(2))
-        if 92 <= yr2 <= 99:
-            citation = f"{_yr2_m.group(1)} 19{yr2}/{_yr2_m.group(3)}"
-            citation = _re.sub(r'\s+', ' ', citation)
-        elif 0 <= yr2 <= 25:
-            citation = f"{_yr2_m.group(1)} 20{yr2:02d}/{_yr2_m.group(3)}"
-            citation = _re.sub(r'\s+', ' ', citation)
-
-    CITATION_ALIASES = {"LCR": "LCG"}
-    normalized = _re.sub(r'[\s/]+', '_', citation).strip('_')
-    candidates = {normalized}
-    prefix_m = _re.match(r'^([A-Za-z]+)_(.*)$', normalized)
-    if prefix_m and prefix_m.group(1).upper() in CITATION_ALIASES:
-        candidates.add(f"{CITATION_ALIASES[prefix_m.group(1).upper()]}_{prefix_m.group(2)}")
-
-    # First check for a structured summary
-    summary_dir = DATA_DIR / "rulings" / "summaries"
-    for ref in candidates:
-        summary_path = summary_dir / f"{ref}.json"
-        if summary_path.exists():
-            try:
-                summary = json.loads(summary_path.read_text(encoding="utf-8"))
-                # Links — same derivation as the REST route: ato_url from the
-                # rulings index; download served by /api/ruling/{citation}/download
-                ato_url = next((r.get("ato_url", "") for r in load_rulings()
-                                if r["citation"] in candidates), "")
-                download_url = _abs(f"/api/ruling/{ref}/download")
-                # Clean legislation_referenced: filter sentence fragments, dedup by (act, section)
-                leg_raw = summary.get("legislation_referenced", [])
-                leg_clean = _clean_legislation_referenced(leg_raw)
-                # For ATO IDs, return full structured data with full_text
-                if summary.get("type") == "ATO Interpretative Decision" or summary.get("full_text"):
-                    body_raw = summary.get("body", "")
-                    full_text_raw = summary.get("full_text", "")
-                    return json.dumps({
-                        "citation": summary.get("citation", ref),
-                        "title": summary.get("title", ""),
-                        "type": "ATO ID",
-                        "status": summary.get("status", "Final"),
-                        "subject": summary.get("subject", ""),
-                        "question": summary.get("question", ""),
-                        "notice": summary.get("notice", ""),
-                        "body": strip_scraped_markup(body_raw),
-                        "cases_referenced": summary.get("cases_referenced", []),
-                        "legislation_referenced": leg_clean,
-                        "full_text": strip_scraped_markup(full_text_raw),
-                        "ato_url": ato_url,
-                        "download_url": download_url,
-                        "source": "summary",
-                    }, indent=2)
-                # For full rulings, return structured fields
-                return json.dumps({
-                    "citation": summary.get("citation", ref),
-                    "title": summary.get("title", ""),
-                    "type": _ruling_type_from_citation(ref) or summary.get("type", ""),
-                    "status": summary.get("status", ""),
-                    "subject": summary.get("subject", ""),
-                    "background": summary.get("background", ""),
-                    "ruling": summary.get("ruling", ""),
-                    "date_of_effect": summary.get("date_of_effect", ""),
-                    "cases_referenced": summary.get("cases_referenced", []),
-                    "legislation_referenced": leg_clean,
-                    "related_rulings": summary.get("related_rulings", []),
-                    "ato_url": ato_url,
-                    "download_url": download_url,
-                    "source": "summary",
-                }, indent=2)
-            except Exception:
-                pass  # Fall through to raw text
-
-    # Fall back to raw text preview from flat files
-    for r in load_rulings():
-        if r["citation"] in candidates:
-            path = Path(r["source"])
-            content = path.read_text(encoding="utf-8") if path.exists() else ""
-            from backend.services.data_loader import _strip_ato_chrome
-            stripped = _strip_ato_chrome(content)
-            # Also strip scraped markup (CDN-0095)
-            stripped = strip_scraped_markup(stripped)
-            MAX_PREVIEW = 5000
-            preview = stripped[:MAX_PREVIEW]
-            truncated = len(stripped) > MAX_PREVIEW
-            return json.dumps({
-                "citation": r["citation"],
-                "citation_display": r.get("citation_display", ""),
-                "title": r["title"],
-                "full_title": r.get("full_title", ""),
-                "type": r["type"],
-                "year": r["year"],
-                "withdrawn": r.get("withdrawn", False),
-                "ato_url": r.get("ato_url", ""),
-                "austlii_url": r.get("austlii_url", ""),
-                "download_url": _abs(f"/api/ruling/{r['citation']}/download"),
-                "content_preview": preview,
-                "content_truncated": truncated,
-                "total_content_length": len(stripped),
-                "source": "raw_text",
-            }, indent=2)
-
-    # Fallback: search for similar
-    from backend.services.search_service import search_rulings
-    try:
-        suggestions = search_rulings(citation, limit=3)
-        if suggestions:
-            return json.dumps({
-                "error": f"Ruling '{citation}' not found.",
-                "hint": _GET_INFO_HINT,
-                "did_you_mean": [
-                    {"citation": r["citation"], "title": r.get("title", "")}
-                    for r in suggestions
-                ],
-            }, indent=2)
-    except Exception:
-        pass
-
-    return json.dumps({"error": f"Ruling {citation} not found", "hint": _GET_INFO_HINT})
-
 
 @mcp.tool(structured_output=False)
 async def get_private_ruling(authnum: str) -> str:
