@@ -148,7 +148,9 @@ def check_act_via_odata(act_slug: str, config: dict) -> dict:
         if isinstance(remote_date, str):
             remote_date = remote_date[:10]
         result["remote"] = {"compilation_no": str(remote_comp), "compilation_date": remote_date}
-        amendments = latest.get("Amendments", []) or latest.get("Amendments", {}).get("results", [])
+        amendments = latest.get("Amendments") or []
+        if isinstance(amendments, dict):
+            amendments = amendments.get("results", [])
         for am in amendments:
             amending = am.get("AmendingAct", {})
             if isinstance(amending, dict) and amending:

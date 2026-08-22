@@ -67,16 +67,16 @@ rm -rf "$DATA/itaa-1997/sections"
 python3 pipeline/parse_itaa97.py \
     --raw-dir "$DATA/itaa-1997/raw" \
     --out-dir "$DATA/itaa-1997/sections" \
-    --compilation-no 263 \
-    --compilation-date 2026-04-01
+    --compilation-no 266 \
+    --compilation-date 2026-07-01
 
 echo "=== 3. Parse ITAA 1936 (vols 1-4) ==="
 rm -rf "$DATA/itaa-1936/sections"
 python3 pipeline/parse_itaa36.py \
     --raw-dir "$DATA/itaa-1936/raw" \
     --out-dir "$DATA/itaa-1936/sections" \
-    --compilation-no 191 \
-    --compilation-date 2026-04-01
+    --compilation-no 192 \
+    --compilation-date 2026-07-01
 
 echo "=== 4. Parse ITAA 1936 schedules (vol 5) ==="
 python3 pipeline/parse_itaa36_schedules.py \
@@ -89,16 +89,16 @@ rm -rf "$DATA/gst-1999/sections"
 python3 pipeline/parse_gst1999.py \
     --raw-dir "$DATA/gst-1999/raw" \
     --out-dir "$DATA/gst-1999/sections" \
-    --compilation-no 228 \
-    --compilation-date 2026-04-01
+    --compilation-no 96 \
+    --compilation-date 2026-01-01
 
 echo "=== 6. Parse TAA 1953 ==="
 rm -rf "$DATA/taa-1953/sections"
 python3 pipeline/parse_taa53.py \
     --raw-dir "$DATA/taa-1953/raw" \
     --out-dir "$DATA/taa-1953/sections" \
-    --compilation-no 1 \
-    --compilation-date 2026-04-01
+    --compilation-no 225 \
+    --compilation-date 2026-07-01
 
 # ---------------------------------------------------------------------------
 # 3. Build navigation trees
@@ -108,29 +108,29 @@ python3 pipeline/build_tree.py \
     --sections-dir "$DATA/itaa-1997/sections" \
     --out-file "$DATA/itaa-1997/tree.json" \
     --act "ITAA 1997" \
-    --compilation-no 263 \
-    --compilation-date 2026-04-01
+    --compilation-no 266 \
+    --compilation-date 2026-07-01
 
 python3 pipeline/build_tree.py \
     --sections-dir "$DATA/itaa-1936/sections" \
     --out-file "$DATA/itaa-1936/tree.json" \
     --act "ITAA 1936" \
-    --compilation-no 191 \
-    --compilation-date 2026-04-01
+    --compilation-no 192 \
+    --compilation-date 2026-07-01
 
 python3 pipeline/build_tree.py \
     --sections-dir "$DATA/gst-1999/sections" \
     --out-file "$DATA/gst-1999/tree.json" \
     --act "GST Act 1999" \
-    --compilation-no 228 \
-    --compilation-date 2026-04-01
+    --compilation-no 96 \
+    --compilation-date 2026-01-01
 
 python3 pipeline/build_tree.py \
     --sections-dir "$DATA/taa-1953/sections" \
     --out-file "$DATA/taa-1953/tree.json" \
     --act "TAA 1953" \
-    --compilation-no 1 \
-    --compilation-date 2026-04-01 \
+    --compilation-no 225 \
+    --compilation-date 2026-07-01 \
     --flat-divisions
 
 # ---------------------------------------------------------------------------

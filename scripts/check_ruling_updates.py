@@ -38,7 +38,7 @@ MAX_MISSES = 5  # consecutive 404s before giving up on a year
 # Ruling types to check (only current + last year)
 # Same DocID format as bulk_scrape_rulings.py
 TYPES = {
-    "TR":   {"code": "TXR/TR",  "year": "pre2000"},
+    "TR":   {"code": "TXR/TR",  "year": "pre2000"},  # pre2000 mode is vestigial: main() only checks current/prior year, and extract_title requires 4-digit years. Do not reuse for historical backfill without adding a year-mode-aware title parser.
     "TD":   {"code": "TXD/TD",  "year": "4digit"},
     "PCG":  {"code": "COG/PCG", "year": "4digit"},
     "LCG":  {"code": "COG/LCG", "year": "4digit"},
@@ -110,10 +110,13 @@ def extract_title(page_html: str) -> str:
 def normalize_ruling_text(text: str) -> str:
     """Normalise raw HTML/text to a canonical body for title checks and hashing.
 
-    Anchors the body at 'What this Ruling is about' (present in every ruling)
-    so page chrome, the logo, and navigation never enter the comparison.
-    html.unescape handles the &bull; &ndash; &mdash; entities the 2026 ATO
-    template introduced.
+    Ruling types use different body anchors: CR/PR/GSTR/TR/SGR/MT have
+    "What this Ruling is about"; PCG/LCG have "What this Guideline is about";
+    TD and TA short-forms have no such heading at all and fall back to the
+    citation line. html.unescape handles the &bull; &ndash; &mdash; entities
+    the 2026 ATO template introduced. Both local (artifact-cleaned) and remote
+    (raw HTML) pass through the same pipeline, so formatting noise never
+    produces phantom amendments.
     """
     t = re.sub(r"<script.*?</script>", " ", text, flags=re.S | re.I)
     t = re.sub(r"<style.*?</style>", " ", t, flags=re.S | re.I)
@@ -121,10 +124,29 @@ def normalize_ruling_text(text: str) -> str:
     t = re.sub(r"<[^>]+>", " ", t)
     t = html.unescape(t)
     t = re.sub(r"\s+", " ", t)
-    # Anchor: only the substantive ruling body matters for change detection
-    i = t.find("What this Ruling is about")
-    if i != -1:
-        t = t[i:]
+    # Strip the 2026-template <title> chrome: "TR 2026/1 | Legal database"
+    t = re.sub(r"^\s*(?:TR|TD|PCG|LCG|GSTR|PS\s+LA|TA|MT|SGR|CR|PR)\s+\d{4}/\d+\s*\|\s*Legal database\s*", "", t, flags=re.I)
+    # Strip the PDF-authorised-version boilerplate (new template sentence)
+    t = re.sub(r"Please note that the PDF version is the authorised version of this (?:ruling|guideline|determination|alert)\.?\s*", "", t, flags=re.I)
+    # Strip local-only ingestion artifacts (HEAD NOTE blocks have no remote equivalent)
+    t = re.sub(r"HEAD NOTE\s*", " ", t)
+    # Anchor: prefer the substantive-body heading for the ruling type, else
+    # fall back to the citation line (works for TD/TA which lack headings).
+    for anchor in (
+        "What this Ruling is about",
+        "What this Guideline is about",
+        "What this Determination is about",
+        "What this Alert is about",
+        "Ruling",
+    ):
+        i = t.find(anchor)
+        if i != -1:
+            t = t[i:]
+            break
+    else:
+        m = re.search(r"\b(?:TR|TD|PCG|LCG|GSTR|PS\s+LA|TA|MT|SGR|CR|PR)\s+\d{4}/\d+\b", t)
+        if m:
+            t = t[m.start():]
     # Cut trailing boilerplate
     for marker in ("Copyright notice", "Our commitment to your privacy", "Feedback about this page"):
         j = t.find(marker)
@@ -134,13 +156,13 @@ def normalize_ruling_text(text: str) -> str:
 
 
 def content_hash(text: str) -> str:
-    """SHA-256 of the first 2000 chars of the canonical body.
+    """SHA-256 of the full canonical body.
 
-    Both local (already artifact-cleaned) and remote (raw HTML) pass through
-    normalize_ruling_text before hashing, so formatting noise (HTML entities,
-    whitespace, nav chrome) never produces phantom amendments.
+    The body is already anchored and chrome-stripped by normalize_ruling_text,
+    so hashing the whole thing is cheap and catches substantive changes
+    anywhere in a ruling, not just the first 2000 chars.
     """
-    return hashlib.sha256(text[:2000].encode()).hexdigest()[:16]
+    return hashlib.sha256(text.encode()).hexdigest()[:16]
 
 
 def rtype_filename(rtype: str, year: int, num: int) -> str:
