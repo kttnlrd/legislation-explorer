@@ -65,6 +65,18 @@ _MCP_ALLOWED_HOSTS = [
     "dev.scriptkitty.yachts",
     "dev.scriptkitty.yachts:*",
 ]
+
+# Public base for absolute download links in tool output. Override via env for
+# non-prod hosts (e.g. LEGISLATION_PUBLIC_BASE=https://dev.scriptkitty.yachts).
+_PUBLIC_BASE = os.environ.get("LEGISLATION_PUBLIC_BASE", "https://legislation.scriptkitty.yachts").rstrip("/")
+
+def _abs(path: str) -> str:
+    """Turn a relative API path into an absolute public URL."""
+    if not path:
+        return ""
+    if path.startswith(("http://", "https://")):
+        return path
+    return f"{_PUBLIC_BASE}{path if path.startswith('/') else '/' + path}"
 _MCP_ALLOWED_ORIGINS = [
     "http://127.0.0.1:*",
     "http://localhost:*",
@@ -1330,6 +1342,14 @@ async def search_all(
         except Exception:
             results["rulings"] = []
 
+    # Private rulings (PBRs) — FTS5 index, 57k+ rulings with body text
+    if type_filter is None or type_filter in ("ruling", "private_ruling"):
+        try:
+            from backend.services.search_service import search_private_rulings_fts
+            results["private_rulings"] = search_private_rulings_fts(query, limit=limit)
+        except Exception:
+            results["private_rulings"] = []
+
     # Cases — search via PostgreSQL + summaries
     if type_filter is None or type_filter == "case":
         try:
@@ -1571,7 +1591,7 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
             authnum = r.get("section") or ""
             item["ato_url"] = (f"https://www.ato.gov.au/law/view/print"
                                f"?DocID=EV/{authnum}&PiT=99991231235958")
-            item["download_url"] = f"/api/private-ruling/{authnum}/download"
+            item["download_url"] = _abs(f"/api/private-ruling/{authnum}/download")
             rec = _outcomes.get(r.get("section") or "")
             if rec:
                 item["date"] = rec.get("date_of_advice") or ""
@@ -1585,7 +1605,7 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
                 continue
         else:
             item["ato_url"] = r.get("ato_url", "") or ""
-            item["download_url"] = f"/api/ruling/{r.get('section')}/download"
+            item["download_url"] = _abs(f"/api/ruling/{r.get('section')}/download")
         results.append(item)
 
     return json.dumps({
@@ -1962,13 +1982,16 @@ def _ruling_type_from_citation(citation: str) -> str:
     return ""
 
 @mcp.tool(structured_output=False)
-async def get_ruling(citation: str) -> str:
+async def get_ruling(citation: str, full_text: bool = False) -> str:
     """Retrieve an ATO ruling preview by citation, with related legislation sections.
 
     Returns structured summary data when available (cases_referenced,
     legislation_referenced, question/subject/ruling text). Falls back to
     raw text preview. Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.
     ATO IDs return full_text inline.
+
+    Set full_text=True to inline the complete ruling document (same as the
+    /api/ruling/{citation}/download endpoint) instead of a preview.
 
     When a direct match fails, falls back to search and returns
     "did you mean?" suggestions with the top 3 matching rulings.
@@ -2002,7 +2025,7 @@ async def get_ruling(citation: str) -> str:
                 # rulings index; download served by /api/ruling/{citation}/download
                 ato_url = next((r.get("ato_url", "") for r in load_rulings()
                                 if r["citation"] in candidates), "")
-                download_url = f"/api/ruling/{ref}/download"
+                download_url = _abs(f"/api/ruling/{ref}/download")
                 # Clean legislation_referenced: filter sentence fragments, dedup by (act, section)
                 leg_raw = summary.get("legislation_referenced", [])
                 leg_clean = _clean_legislation_referenced(leg_raw)
@@ -2027,7 +2050,7 @@ async def get_ruling(citation: str) -> str:
                         "source": "summary",
                     }, indent=2)
                 # For full rulings, return structured fields
-                return json.dumps({
+                result = {
                     "citation": summary.get("citation", ref),
                     "title": summary.get("title", ""),
                     "type": _ruling_type_from_citation(ref) or summary.get("type", ""),
@@ -2042,7 +2065,27 @@ async def get_ruling(citation: str) -> str:
                     "ato_url": ato_url,
                     "download_url": download_url,
                     "source": "summary",
-                }, indent=2)
+                }
+                if full_text:
+                    # Inline the complete ruling document (same content as the
+                    # /api/ruling/{citation}/download endpoint) so agents don't
+                    # need to fetch the absolute URL themselves.
+                    for r in load_rulings():
+                        if r["citation"] in candidates:
+                            fpath = Path(r["source"])
+                            ftext = ""
+                            if fpath.exists():
+                                ftext = fpath.read_text(encoding="utf-8")
+                                from backend.services.data_loader import _strip_ato_chrome
+                                ftext = _strip_ato_chrome(ftext)
+                                ftext = strip_scraped_markup(ftext)
+                            result["full_text"] = ftext
+                            result["full_text_truncated"] = False
+                            break
+                    else:
+                        result["full_text"] = ""
+                        result["full_text_truncated"] = True
+                return json.dumps(result, indent=2)
             except Exception:
                 pass  # Fall through to raw text
 
@@ -2058,7 +2101,7 @@ async def get_ruling(citation: str) -> str:
             MAX_PREVIEW = 5000
             preview = stripped[:MAX_PREVIEW]
             truncated = len(stripped) > MAX_PREVIEW
-            return json.dumps({
+            payload = {
                 "citation": r["citation"],
                 "citation_display": r.get("citation_display", ""),
                 "title": r["title"],
@@ -2068,12 +2111,16 @@ async def get_ruling(citation: str) -> str:
                 "withdrawn": r.get("withdrawn", False),
                 "ato_url": r.get("ato_url", ""),
                 "austlii_url": r.get("austlii_url", ""),
-                "download_url": f"/api/ruling/{r['citation']}/download",
+                "download_url": _abs(f"/api/ruling/{r['citation']}/download"),
                 "content_preview": preview,
                 "content_truncated": truncated,
                 "total_content_length": len(stripped),
                 "source": "raw_text",
-            }, indent=2)
+            }
+            if full_text:
+                payload["full_text"] = stripped
+                payload["full_text_truncated"] = False
+            return json.dumps(payload, indent=2)
 
     # Fallback: search for similar
     from backend.services.search_service import search_rulings
@@ -2132,7 +2179,7 @@ async def get_private_ruling(authnum: str) -> str:
         # EV print format — the EVR/document variant 404s
         "ato_url": (f"https://www.ato.gov.au/law/view/print"
                     f"?DocID=EV/{authnum}&PiT=99991231235958"),
-        "download_url": f"/api/private-ruling/{authnum}/download",
+        "download_url": _abs(f"/api/private-ruling/{authnum}/download"),
         "formatted_text": text[:MAX_TEXT],
         "truncated": len(text) > MAX_TEXT,
     }
@@ -2421,7 +2468,7 @@ async def list_rulings(
             "withdrawn": r.get("withdrawn", False),
             "ato_url": r.get("ato_url", ""),
             "austlii_url": r.get("austlii_url", ""),
-            "download_url": f"/api/ruling/{r['citation']}/download",
+            "download_url": _abs(f"/api/ruling/{r['citation']}/download"),
         })
 
     payload = {
@@ -2435,7 +2482,7 @@ async def list_rulings(
             {"citation": r["citation"], "title": r.get("full_title", r.get("title", "")),
              "withdrawn": r.get("withdrawn", False), "ato_url": r.get("ato_url", ""),
              "austlii_url": r.get("austlii_url", ""),
-             "download_url": f"/api/ruling/{r['citation']}/download"}
+             "download_url": _abs(f"/api/ruling/{r['citation']}/download")}
             for r in no_year_items
         ]
         payload["no_year_total"] = len(no_year_items)
