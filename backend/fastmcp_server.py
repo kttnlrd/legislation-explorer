@@ -1521,8 +1521,8 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
       fact pattern (useful for objections); 'yes' = favourable positions.
     - source: private | public | all (default all)
 
-    Returns each match's citation, title, date, score, snippet, and for
-    private rulings the QA pairs and outcome label.
+    Returns each match's citation, title, date, score, snippet, ato_url and
+    download_url links, and for private rulings the QA pairs and outcome label.
     """
     limit = min(20, max(1, limit))
     query = query.strip()
@@ -1568,6 +1568,10 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
             "snippet": r.get("snippet", ""),
         }
         if r.get("source_type") == "private_ruling":
+            authnum = r.get("section") or ""
+            item["ato_url"] = (f"https://www.ato.gov.au/law/view/print"
+                               f"?DocID=EV/{authnum}&PiT=99991231235958")
+            item["download_url"] = f"/api/private-ruling/{authnum}/download"
             rec = _outcomes.get(r.get("section") or "")
             if rec:
                 item["date"] = rec.get("date_of_advice") or ""
@@ -1579,6 +1583,9 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
                 item["outcome"] = "unknown"
             if want_outcome and item.get("outcome") != want_outcome:
                 continue
+        else:
+            item["ato_url"] = r.get("ato_url", "") or ""
+            item["download_url"] = f"/api/ruling/{r.get('section')}/download"
         results.append(item)
 
     return json.dumps({
@@ -1586,8 +1593,9 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
         "results": results,
         "note": "Semantic similarity over ATO private rulings (57,608) and public rulings. "
                 "outcome reflects how the ATO answered the taxpayer's own question — "
-                "a search aid, not a legal characterisation. Verify against the full "
-                "ruling before reliance (use get_ruling / /api/private-ruling/{authnum}).",
+                "a search aid, not a legal characterisation. Each result carries ato_url "
+                "and download_url links. Verify against the full ruling before reliance "
+                "(use get_ruling / get_private_ruling).",
     }, indent=2)
 
 
@@ -1990,6 +1998,11 @@ async def get_ruling(citation: str) -> str:
         if summary_path.exists():
             try:
                 summary = json.loads(summary_path.read_text(encoding="utf-8"))
+                # Links — same derivation as the REST route: ato_url from the
+                # rulings index; download served by /api/ruling/{citation}/download
+                ato_url = next((r.get("ato_url", "") for r in load_rulings()
+                                if r["citation"] in candidates), "")
+                download_url = f"/api/ruling/{ref}/download"
                 # Clean legislation_referenced: filter sentence fragments, dedup by (act, section)
                 leg_raw = summary.get("legislation_referenced", [])
                 leg_clean = _clean_legislation_referenced(leg_raw)
@@ -2009,6 +2022,8 @@ async def get_ruling(citation: str) -> str:
                         "cases_referenced": summary.get("cases_referenced", []),
                         "legislation_referenced": leg_clean,
                         "full_text": strip_scraped_markup(full_text_raw),
+                        "ato_url": ato_url,
+                        "download_url": download_url,
                         "source": "summary",
                     }, indent=2)
                 # For full rulings, return structured fields
@@ -2024,6 +2039,8 @@ async def get_ruling(citation: str) -> str:
                     "cases_referenced": summary.get("cases_referenced", []),
                     "legislation_referenced": leg_clean,
                     "related_rulings": summary.get("related_rulings", []),
+                    "ato_url": ato_url,
+                    "download_url": download_url,
                     "source": "summary",
                 }, indent=2)
             except Exception:
@@ -2051,6 +2068,7 @@ async def get_ruling(citation: str) -> str:
                 "withdrawn": r.get("withdrawn", False),
                 "ato_url": r.get("ato_url", ""),
                 "austlii_url": r.get("austlii_url", ""),
+                "download_url": f"/api/ruling/{r['citation']}/download",
                 "content_preview": preview,
                 "content_truncated": truncated,
                 "total_content_length": len(stripped),
@@ -2074,6 +2092,54 @@ async def get_ruling(citation: str) -> str:
         pass
 
     return json.dumps({"error": f"Ruling {citation} not found", "hint": _GET_INFO_HINT})
+
+
+@mcp.tool(structured_output=False)
+async def get_private_ruling(authnum: str) -> str:
+    """Retrieve a single ATO private ruling by authorisation number
+    (e.g. 1011261243735 or EV/1011261243735). Returns structured fields plus
+    ATO and download links. Private rulings are sensitive — verify context
+    before reliance.
+    """
+    authnum = authnum.strip()
+    if authnum.upper().startswith("EV/"):
+        authnum = authnum[3:]
+    if not authnum.isdigit():
+        return json.dumps({
+            "error": f"Invalid authorisation number '{authnum}' — expected digits "
+                     "only (optionally prefixed EV/)",
+            "hint": _GET_INFO_HINT,
+        })
+    # Same corpus location as backend/routes/private_rulings.py
+    corpus = Path(os.environ.get(
+        "HERMES_RULINGS_DIR", "/home/harrison/.hermes/private_rulings"))
+    path = corpus / "data" / "json" / f"{authnum}.json"
+    if not path.exists():
+        return json.dumps({"error": f"Private ruling {authnum} not found",
+                           "hint": _GET_INFO_HINT})
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        return json.dumps({"error": f"Private ruling {authnum} unreadable: {exc}",
+                           "hint": _GET_INFO_HINT})
+    MAX_TEXT = 30000
+    text = data.get("formatted_text", "") or ""
+    payload = {
+        "authnum": authnum,
+        "name": data.get("name", ""),
+        "date_of_advice": data.get("date_of_advice", ""),
+        "subject": data.get("subject", ""),
+        # EV print format — the EVR/document variant 404s
+        "ato_url": (f"https://www.ato.gov.au/law/view/print"
+                    f"?DocID=EV/{authnum}&PiT=99991231235958"),
+        "download_url": f"/api/private-ruling/{authnum}/download",
+        "formatted_text": text[:MAX_TEXT],
+        "truncated": len(text) > MAX_TEXT,
+    }
+    for key in ("qa_pairs", "relevant_legislation", "case_references"):
+        if data.get(key):
+            payload[key] = data[key]
+    return json.dumps(payload, indent=2)
 
 
 @mcp.tool(structured_output=False)
@@ -2355,6 +2421,7 @@ async def list_rulings(
             "withdrawn": r.get("withdrawn", False),
             "ato_url": r.get("ato_url", ""),
             "austlii_url": r.get("austlii_url", ""),
+            "download_url": f"/api/ruling/{r['citation']}/download",
         })
 
     payload = {
@@ -2367,7 +2434,8 @@ async def list_rulings(
         payload["no_year"] = [
             {"citation": r["citation"], "title": r.get("full_title", r.get("title", "")),
              "withdrawn": r.get("withdrawn", False), "ato_url": r.get("ato_url", ""),
-             "austlii_url": r.get("austlii_url", "")}
+             "austlii_url": r.get("austlii_url", ""),
+             "download_url": f"/api/ruling/{r['citation']}/download"}
             for r in no_year_items
         ]
         payload["no_year_total"] = len(no_year_items)
