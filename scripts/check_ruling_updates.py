@@ -13,6 +13,7 @@ Usage:
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import logging
 import re
@@ -64,25 +65,81 @@ def build_url(rtype: str, cfg: dict, year: int, num: int) -> str:
 
 
 def fetch_ruling(url: str) -> tuple[str, str] | None:
-    """Fetch a ruling. Returns (text, title) or None if not found."""
+    """Fetch a ruling. Returns (normalised text, title) or None if not found."""
     try:
         r = curl.get(url, impersonate="chrome120", headers=HEADERS, timeout=20, verify=False)
     except Exception as e:
         log.warning("Request error %s: %s", url, e)
         return None
-    title_m = re.search(r'<title>(.*?)</title>', r.text, re.IGNORECASE)
-    title = title_m.group(1) if title_m else ""
-    if r.status_code != 200 or ("Error" in title and "Legal" in title):
+    if r.status_code != 200:
         return None
-    text = re.sub(r'<[^>]+>', ' ', r.text)
-    text = re.sub(r'\\s+', ' ', text).strip()
+    # Title: the ATO print view renders the ruling title in an <h3> directly
+    # after the <h2> citation. Fallbacks: og:title / DC.Title meta, then <title>
+    # minus the "| Legal database" suffix (added 2026 page template change).
+    title = extract_title(r.text)
+    if not title:
+        return None
+    text = normalize_ruling_text(r.text)
     if len(text) < 100:
         return None
     return (text, title)
 
 
+def extract_title(page_html: str) -> str:
+    """Extract the ruling title from the ATO print view HTML.
+
+    New template (2026): <h2>TR 2026/1</h2> immediately followed by
+    <h3>The actual ruling title</h3>. The <title> tag now just says
+    "TR 2026/1 | Legal database", which is useless.
+    """
+    m = re.search(r"<h2[^>]*>\s*(TR|TD|PCG|LCG|GSTR|PS\s+LA|TA|MT|SGR|CR|PR)\s+\d{4}/\d+\s*</h2>\s*<h3[^>]*>(.*?)</h3>", page_html, re.I | re.S)
+    if m:
+        return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", m.group(2)))).strip()
+    # Fallback 1: og:title / DC.Title meta
+    m = re.search(r'<meta[^>]+(?:property|name)=["\'](?:og:title|DC\.Title)["\'][^>]*content=["\']([^"\']+)', page_html, re.I)
+    if m:
+        return re.sub(r"\s+", " ", html.unescape(m.group(1))).strip()
+    # Fallback 2: <title> tag minus "| Legal database"
+    m = re.search(r"<title>(.*?)</title>", page_html, re.I | re.S)
+    if m:
+        t = re.sub(r"\s+", " ", html.unescape(m.group(1))).strip()
+        return re.sub(r"\s*\|\s*Legal database\s*$", "", t)
+    return ""
+
+
+def normalize_ruling_text(text: str) -> str:
+    """Normalise raw HTML/text to a canonical body for title checks and hashing.
+
+    Anchors the body at 'What this Ruling is about' (present in every ruling)
+    so page chrome, the logo, and navigation never enter the comparison.
+    html.unescape handles the &bull; &ndash; &mdash; entities the 2026 ATO
+    template introduced.
+    """
+    t = re.sub(r"<script.*?</script>", " ", text, flags=re.S | re.I)
+    t = re.sub(r"<style.*?</style>", " ", t, flags=re.S | re.I)
+    t = re.sub(r"<!--.*?-->", " ", t, flags=re.S)
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = html.unescape(t)
+    t = re.sub(r"\s+", " ", t)
+    # Anchor: only the substantive ruling body matters for change detection
+    i = t.find("What this Ruling is about")
+    if i != -1:
+        t = t[i:]
+    # Cut trailing boilerplate
+    for marker in ("Copyright notice", "Our commitment to your privacy", "Feedback about this page"):
+        j = t.find(marker)
+        if j != -1:
+            t = t[:j]
+    return t.strip()
+
+
 def content_hash(text: str) -> str:
-    """SHA-256 of the first 2000 chars (catch title/header changes)."""
+    """SHA-256 of the first 2000 chars of the canonical body.
+
+    Both local (already artifact-cleaned) and remote (raw HTML) pass through
+    normalize_ruling_text before hashing, so formatting noise (HTML entities,
+    whitespace, nav chrome) never produces phantom amendments.
+    """
     return hashlib.sha256(text[:2000].encode()).hexdigest()[:16]
 
 
@@ -119,7 +176,7 @@ def get_existing_rulings() -> dict[str, dict]:
                 "type": rtype,
                 "year": year,
                 "num": num,
-                "hash": content_hash(content),
+                "hash": content_hash(normalize_ruling_text(content)),
                 "path": str(f),
             }
     return existing
