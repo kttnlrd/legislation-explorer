@@ -199,11 +199,27 @@ def _load_definitions_store() -> dict:
     return _definitions_store(str(path), path.stat().st_mtime)
 
 
+def _canon_section_id(section: str) -> str:
+    """Canonicalise letter-suffixed section ids ('6f' -> '6F', '6ab' -> '6AB').
+
+    Section files on disk use lowercase stems, but tree/meta and the graph
+    use uppercase suffixes; normalise so lookups and graph edges resolve to
+    the canonical node (CDN-0164).
+    """
+    return re.sub(r"[a-z]+$", lambda m: m.group(0).upper(), section)
+
+
 def load_definitions(act: str) -> dict[str, dict]:
     act = resolve_act_id(act)
     act_data = _load_definitions_store().get(act, {})
     terms = act_data.get("terms", {})
-    return {_normalize_term_key(term): {**info} for term, info in terms.items()}
+    out = {}
+    for term, info in terms.items():
+        norm = {**info}
+        if norm.get("section"):
+            norm["section"] = _canon_section_id(norm["section"])
+        out[_normalize_term_key(term)] = norm
+    return out
 
 
 def _all_definition_acts() -> list[str]:
@@ -223,7 +239,7 @@ def _all_definition_acts() -> list[str]:
 
 def _normalize_section_ref(ref: str, pub_name: str) -> tuple[str, str] | None:
     ref = ref.strip().replace("\n", " ")
-    m = re.search(r's\s+(\d+[A-Z]?-[\d\(\) ]+(?:\(\d+\))?)', ref, re.IGNORECASE)
+    m = re.search(r's\s+(\d+[A-Za-z]*-[\d\(\) ]+(?:\(\d+\))?)', ref, re.IGNORECASE)
     if not m:
         return None
     section = m.group(1)
@@ -1231,7 +1247,7 @@ def _definitions_with_text_cached(act: str, mtime: float) -> tuple:
             info = raw_terms[term]
             results.append({
                 "term": info.get("term", term),
-                "section": section,
+                "section": _canon_section_id(section) if section else section,
                 "anchor": info.get("anchor", ""),
                 "text": texts.get(term) or info.get("definition", ""),
             })

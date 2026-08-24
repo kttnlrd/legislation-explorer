@@ -1,39 +1,49 @@
-# Bugs to Fix Next Time (v2.1.1)
+# Bugs to Fix Next Time (v2.1.1) — status as of 2026-08-24
 
-## 1. `get_rulings_for_section` returns `"year": 0` on every ruling
+## RESOLVED
 
-The v2.1.0 changelog says the year field was fixed "for all ruling types", but the fix only reached `get_ruling` (which correctly returns 2019, 2024, 2021). The list endpoint was missed.
+### 1. `get_rulings_for_section` returns `"year": 0` on every ruling — RESOLVED
+The tool was **removed** (`7b36f01bc`); ruling downloads + ATO links now ride on
+summary payloads. The list endpoint (`list_rulings`) no longer emits a `year`
+field per ruling — the year lives in `citation_display` ("TR 2024/1").
 
-**Server:** `backend/routes/rulings.py` — the `list_rulings_for_section` endpoint (or equivalent).
+### 2. `get_ruling` doesn't normalise LCR → LCG — RESOLVED
+`data_loader.py` maps both `LCG` and `LCR` → `COG` for ATO links and lookup;
+MCP tool hint documents "LCR=LCG".
 
-## 2. `get_ruling` doesn't normalise LCR → LCG
+### 3. `get_definition` only resolves ITAA 1997 s 995-1 — RESOLVED
+`get_definition_across_acts()` (data_loader.py) searches every act with a
+definitions index, returns `also_defined_in` for cross-act matches.
 
-`LCR 2021/3` returns not-found, but the identical document resolves under `LCG_2021_3`. "LCR 2021/3" is both the ATO public citation and the exact title that `get_rulings_for_section` displays, so anyone copy-pasting a surfaced citation hits a dead end. Likely affects all Law Companion Rulings.
+### 4. Compilation metadata mismatch (GST 96 vs 228) — RESOLVED
+Compilation literals were fixed in the Aug 2026 checker rebuild
+(`2ce1deaa0`); `rebuild.sh` literals + `tree.json` are fixed together per the
+updates skill. Section footers and `list_acts` agree.
 
-**Root cause:** The ATO publishes as "LCR" but files are stored with "LCG" prefix. The citation normalisation (`re.sub(r'[\s/]+', '_', citation)`) in `get_ruling` needs a mapping/alias table: `LCR → LCG`.
+## OPEN / KNOWN
 
-## 3. `get_definition` only resolves ITAA 1997 s 995-1
+### 5. `list_rulings` default `limit=100` makes `by_year` show one year
+Calling `list_rulings()` with no params returns only the first 100 rulings
+(ordered oldest-first, all 2001), so `by_year` has a single key. Docstring says
+"List all ATO rulings". Not a regression — pagination design; use
+`limit=0`/`counts_only`/`year=` for full views. Decide whether default should be
+larger or docs should say "first 100".
 
-The tool accepts an `act` parameter but cannot resolve definitions in other acts:
-- ITAA 1936 "dividend" (defined in s 6(1)) → not-found
-- GST Act "enterprise" (s 195-1) → not-found
+### 6. Corps Act chapeau drop (CDN-0124) — BLOCKED, needs source PDF
+313 corps sections (7.5% of corpus) lost their chapeau line at ingestion
+(s 259A verified: heading jumps straight to "(a)"). Only corps act affected
+(all other acts 0). No raw PDF stored in `source/` — faithful repair requires
+re-downloading the Corporations Act 2001 compilation from FRL and a
+chapeau-preserving re-ingest. LARGE job; deferred until source acquired.
 
-GST 195-1 is a known pre-existing data format limitation (definitions run together on blockquote lines, not clean col-0 entries like ITAA 1997 995-1).
-
-The ITAA 1936 dictionary gap is newly surfaced — needs investigation.
-
-## 4. Compilation metadata mismatch (GST)
-
-`get_section gst-1999 9-5` footer reads:
-> **Compilation 96** (2026-01-01)
-
-But `list_acts` reports GST at:
-> **Compilation 228** (2026-04-01)
-
-The section footer and the act index disagree. Which one is stale?
+### 7. Definitions index quality (itaa-1936)
+532 terms have sentence-length keys ("1c) a reference in this act to foreign
+income") from the extractor — cosmetic/quality class C, not blocking lookups
+(term → 6AB resolves correctly after the canonical-id fix).
 
 ---
 
 ### See also: pre-existing GST 195-1 limitation
-
-The GST definitions file (`195-1.md`) has definitions that run together on blockquote lines instead of clean col-0 entries. This is a data extraction issue, not a tool logic bug, but it blocks `get_definition` for GST terms.
+The GST definitions file (`195-1.md`) has definitions that run together on
+blockquote lines instead of clean col-0 entries. Data extraction issue, not
+tool logic; blocks clean `get_definition` snippets for some GST terms.

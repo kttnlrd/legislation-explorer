@@ -68,6 +68,22 @@ def section_key(act, section):
     return f"section:{act}:{section}"
 
 
+_KNOWN_SECTIONS: dict[str, set[str]] = {}
+
+
+def _register_section(act: str, section: str) -> None:
+    """Record a canonical section id from the act tree (validates ref-loaders)."""
+    _KNOWN_SECTIONS.setdefault(act, set()).add(_canon_section_id(section))
+
+
+def _is_known_section(act: str, section: str) -> bool:
+    """True if the section is tree-backed (or the act has no tree loaded)."""
+    known = _KNOWN_SECTIONS.get(act)
+    if known is None:
+        return True  # act not in ACTS/corpus — allow the node rather than drop edges
+    return section in known
+
+
 def ruling_label(rid):
     """ATOID_2001_120 -> 'ATOID 2001/120'; PSLA_2005_24 -> 'PS LA 2005/24'."""
     parts = rid.split("_")
@@ -118,6 +134,9 @@ class Graph:
         return key
 
     def section(self, act, section):
+        section = _canon_section_id(str(section).strip())
+        if not _is_known_section(act, section):
+            return None  # garbage ref (parser artifact) — never create a node
         key = section_key(act, section)
         self.node(key, "section", f"s {section} {act}", {"act": act, "section": section})
         return key
@@ -146,26 +165,34 @@ def load_acts(g):
     n = 0
     for act in ACTS:
         tree = load(f"{act}/tree.json")
-        if not tree:
-            continue
-        stack = [tree]
-        while stack:
-            item = stack.pop()
-            if isinstance(item, list):
-                stack.extend(item)
-            elif isinstance(item, dict):
-                if "path" in item and "id" in item:  # section leaf
-                    key = section_key(act, item["id"])
-                    g.nodes[key] = (
-                        "section",
-                        f"s {item['id']} {act} — {item.get('title', '')}".strip(" —"),
-                        json.dumps({"act": act, "section": item["id"],
-                                    "title": item.get("title")}),
-                        f"data/{act}/sections/{item['path']}",
-                    )
-                    n += 1
-                else:
-                    stack.extend(v for v in item.values() if isinstance(v, (list, dict)))
+        if tree:
+            stack = [tree]
+            while stack:
+                item = stack.pop()
+                if isinstance(item, list):
+                    stack.extend(item)
+                elif isinstance(item, dict):
+                    if "path" in item and "id" in item:  # section leaf
+                        key = section_key(act, item["id"])
+                        _register_section(act, item["id"])
+                        g.nodes[key] = (
+                            "section",
+                            f"s {item['id']} {act} — {item.get('title', '')}".strip(" —"),
+                            json.dumps({"act": act, "section": item["id"],
+                                        "title": item.get("title")}),
+                            f"data/{act}/sections/{item['path']}",
+                        )
+                        n += 1
+                    else:
+                        stack.extend(v for v in item.values() if isinstance(v, (list, dict)))
+        # tree.json may lag the .md corpus (compilation updates add/remove files);
+        # register file stems too so refs to corpus-backed sections stay valid.
+        sec_dir = os.path.join(DATA, act, "sections")
+        if os.path.isdir(sec_dir):
+            for dp, _, fns in os.walk(sec_dir):
+                for fn in sorted(fns):
+                    if fn.endswith(".md"):
+                        _register_section(act, fn[:-3])
     print(f"  act trees: {n} section nodes")
 
 
@@ -218,13 +245,23 @@ def load_citation_index(g):
     print(f"  citation_index: {n} references")
 
 
+def _canon_section_id(section: str) -> str:
+    """Canonicalise letter-suffixed section ids ('6f' -> '6F', '6ab' -> '6AB').
+
+    Section files on disk use lowercase stems, but tree/meta and graph node
+    keys use uppercase suffixes. Without this, loaders that read raw section
+    strings create duplicate lowercase graph nodes (CDN-0164).
+    """
+    return re.sub(r"[a-z]+$", lambda m: m.group(0).upper(), section)
+
+
 def load_definitions(g):
     """definitions_all.json: {act: {section, terms: {term: {anchor, section}}}}."""
     idx = load("definitions_all.json") or {}
     n = 0
     for act, block in idx.items():
         for term, info in (block.get("terms") or {}).items():
-            section = info.get("section") or block.get("section")
+            section = _canon_section_id(info.get("section") or block.get("section"))
             if not section:
                 continue
             slug = re.sub(r"[^a-z0-9]+", "-", term.lower()).strip("-")

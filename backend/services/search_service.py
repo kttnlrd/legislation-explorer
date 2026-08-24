@@ -624,7 +624,7 @@ def search_sections(q: str, act: str | None = None, limit: int = 50,
         })
 
     # If query looks like a section number, exact-match it to rank 1
-    section_re = re.match(r'^(\d+[A-Z]?-\d+(?:[A-Za-z]*(?:\(\d+(?:\)[a-z])?\))?)?)$', q.strip())
+    section_re = re.match(r'^(\d+[A-Za-z]*-\d+(?:[A-Za-z]*(?:\(\d+(?:\)[a-z])?\))?)?)$', q.strip())
     if section_re:
         section_id = section_re.group(1)
         with search_conn() as conn:

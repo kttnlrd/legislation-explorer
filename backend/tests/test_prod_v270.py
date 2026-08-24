@@ -107,6 +107,35 @@ all_r = data.get("results",{})
 total = sum(len(v) for v in all_r.values() if isinstance(v,list))
 check("search_all(unfiltered, deductions)", total > 0, f"{total} total across types")
 
+# ── search_all type_filter routing (CDN-0166) ──
+# private_ruling must route to the PBR FTS index only — no sections/rulings/cases/commentary
+_, resp = mcp("tools/call", {"name":"search_all","arguments":{"query":"CGT","type_filter":"private_ruling","limit":3}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+pr = data.get("results",{})
+pr_ok = len(pr.get("private_rulings",[])) >= 1
+pr_only = not any(k in pr for k in ("sections","rulings","cases","commentary"))
+check("search_all(private_ruling) routes to private_rulings", pr_ok, f"{len(pr.get('private_rulings',[]))} results")
+check("  private_ruling excludes other types", pr_only, f"keys={sorted(pr.keys())}")
+
+# ruling must return rulings + private_rulings, never sections/cases/commentary
+_, resp = mcp("tools/call", {"name":"search_all","arguments":{"query":"CGT","type_filter":"ruling","limit":3}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+rg = data.get("results",{})
+rg_ok = len(rg.get("rulings",[])) >= 1
+pr2_ok = "private_rulings" in rg
+rg_only = not any(k in rg for k in ("sections","cases","commentary"))
+check("search_all(ruling) returns rulings", rg_ok, f"{len(rg.get('rulings',[]))} results")
+check("  ruling also returns private_rulings", pr2_ok, f"{len(rg.get('private_rulings',[]))} results")
+check("  ruling excludes sections/cases/commentary", rg_only, f"keys={sorted(rg.keys())}")
+
+# section must return sections only
+_, resp = mcp("tools/call", {"name":"search_all","arguments":{"query":"CGT","type_filter":"section","limit":3}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+sg = data.get("results",{})
+sg_ok = len(sg.get("sections",[])) >= 1
+sg_only = not any(k in sg for k in ("rulings","cases","commentary"))
+check("search_all(section) returns sections only", sg_ok and sg_only, f"keys={sorted(sg.keys())}")
+
 # get_section related rulings carry absolute download_url + ato_url
 # (get_ruling tool was removed — links now ride on summary payloads)
 _, resp = mcp("tools/call", {"name":"get_section","arguments":{"act":"itaa-1997","section":"8-1"}}, sid)

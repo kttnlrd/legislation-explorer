@@ -15,7 +15,7 @@ from backend.services.data_loader import load_rulings, DATA_DIR
 #   ITAA 1997 s 8-1, ITAA 1936 s 160ZZV
 #   (with optional subsections: s 6-5(1)(a))
 SECTION_RE = re.compile(
-    r'(?:s\.?|ss\.?|section|sections)\s+(\d+[A-Z]?(?:-\d+)?(?:\(\d+[A-Z]?\))*(?:\([a-z]\))*)',
+    r'(?:s\.?|ss\.?|section|sections)\s+(\d+[A-Za-z]*(?:-\d+)?(?:\(\d+[A-Za-z]*\))*(?:\([a-z]\))*)',
     re.IGNORECASE
 )
 
