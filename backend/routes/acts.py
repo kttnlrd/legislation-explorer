@@ -172,6 +172,30 @@ def get_section(act: str, section: str):
 
     result = {"frontmatter": fm, "body": body}
 
+    # Definition-library hint for dictionary sections (mirror of the MCP
+    # get_section note). Every act's dictionary section gets a hint directing
+    # callers to the per-term definition library instead of the raw run-on text.
+    _DICT_SECTIONS = {
+        "itaa-1997": {"995-1": ("the ITAA 1997", "s995-1")},
+        "itaa-1936": {"317": ("Part X (CFC measures) of the ITAA 1936", "s317"), "6": ("the ITAA 1936", "s6")},
+        "gst-1999": {"195-1": ("the GST Act", "s195-1")},
+        "fbt-1986": {"136": ("the FBT Act", "s136")},
+        "taa-1953": {"2": ("the TAA 1953", "s2")},
+        "sis-1993": {"10": ("the SIS Act", "s10")},
+        "aml-ctf-2006": {"5": ("the AML/CTF Act", "s5")},
+        "nz-it-2007": {"YA-1": ("the NZ IT Act 2007", "YA 1")},
+        "corporations-act-2001": {"9": ("the Corporations Act 2001", "s9")},
+    }
+    dict_info = _DICT_SECTIONS.get(act, {}).get(section)
+    if dict_info:
+        label, ref = dict_info
+        result["hint"] = (
+            f"This is an interpretation/definitions section for {label} ({ref}). "
+            f"Use the definition library: /api/definitions/{act} (all terms) or "
+            f"/api/definition/{act}/TERM (single term) instead of reading the "
+            f"full section text."
+        )
+
     # Include ASIC Regulatory Guides for corps act sections
     if act == "corporations-act-2001":
         try:

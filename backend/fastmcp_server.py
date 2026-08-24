@@ -943,19 +943,31 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
 
     # Special handling for large definition/interpretation sections
     # These contain hundreds of defined terms — truncate and guide user to get_definition
+    # (the definition library). Registry = dictionary sections per act:
+    # itaa-1936 s 6 / s 317, itaa-1997 s 995-1, gst-1999 s 195-1, fbt-1986 s 136,
+    # taa-1953 s 2, sis-1993 s 10, aml-ctf-2006 s 5, nz-it-2007 YA 1, corps s 9.
     big_def_sections = {
-        "itaa-1997": {"995-1": "the ITAA 1997"},
-        "itaa-1936": {"317": "Part X (CFC measures) of the ITAA 1936", "6": "the ITAA 1936"},
-        "gst-1999": {"195-1": "the GST Act"},
+        "itaa-1997": {"995-1": ("the ITAA 1997", "s995-1")},
+        "itaa-1936": {"317": ("Part X (CFC measures) of the ITAA 1936", "s317"), "6": ("the ITAA 1936", "s6")},
+        "gst-1999": {"195-1": ("the GST Act", "s195-1")},
+        "fbt-1986": {"136": ("the FBT Act", "s136")},
+        "taa-1953": {"2": ("the TAA 1953", "s2")},
+        "sis-1993": {"10": ("the SIS Act", "s10")},
+        "aml-ctf-2006": {"5": ("the AML/CTF Act", "s5")},
+        "nz-it-2007": {"YA-1": ("the NZ IT Act 2007", "YA 1")},
+        "corporations-act-2001": {"9": ("the Corporations Act 2001", "s9")},
     }
     def_section_act = big_def_sections.get(act, {})
-    def_section_label = def_section_act.get(section)
+    def_section_info = def_section_act.get(section)
     section_def_note = ""
-    if def_section_label:
+    if def_section_info:
+        def_section_label, def_section_ref = def_section_info
         section_def_note = (
-            f"This is an interpretation/definitions section for {def_section_label}. "
-            "The full text may be very large. Use the get_definition tool "
-            f"(act='{act}', term='TERM') to look up a specific definition."
+            f"This is an interpretation/definitions section for {def_section_label} "
+            f"({def_section_ref}). The full text is very large. "
+            f"HINT: use the definition library — call get_definition(act='{act}', "
+            f"term='TERM') or /api/definitions/{act} for any term instead of "
+            f"reading this section in full."
         )
         # Truncate to a concise preview
         body_out = body_out[:10000]
@@ -1322,7 +1334,7 @@ async def search_all(
 
     Parameters:
     - query: Free-text search terms
-    - type_filter: Optional — 'section', 'case', 'ruling', or 'commentary'
+    - type_filter: Optional — 'section', 'case', 'ruling', 'private_ruling', or 'commentary'
                    to restrict results to one content type
     - act: Optional — restrict to a specific act (e.g. 'itaa-1997')
     - limit: Max results per content type (default 20, max 50)
