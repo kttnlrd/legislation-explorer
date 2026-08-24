@@ -55,11 +55,11 @@ _STATE_RE = re.compile(r"\((?:SA|NSW|VIC|QLD|WA|TAS|NT|ACT|UK|NZ|US)\)", re.IGNO
 _REG_RE = re.compile(r"\bregulations?\b", re.IGNORECASE)
 # richer section keywords than the ETL's (paragraph/subparagraph/item too)
 _SECTION_KW_RE = re.compile(
-    r"(?:sub)?(?:paragraph|section|subsection|item)\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)"
+    r"(?:sub)?(?:paragraph|section|subsection|item)\s+([0-9]+(?:-[0-9]+)?[A-Za-z]*)"
     r"(?:\([^)]*\))?", re.IGNORECASE)
 # post-positioned: "section 35-35 of the ITAA 1997"
 _POST_RE = re.compile(
-    r"(?:sub)?(?:paragraph|section|subsection|item)\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)"
+    r"(?:sub)?(?:paragraph|section|subsection|item)\s+([0-9]+(?:-[0-9]+)?[A-Za-z]*)"
     r"\s+of\s+(?:the\s+)?(.+?)\s*$", re.IGNORECASE)
 _NON_SECTION_RE = re.compile(r"^\s*(?:division|subdivision|part|schedule|chapter)\b", re.IGNORECASE)
 # non-section keyword post-positioned: "Division 900 of the ITAA 1997"

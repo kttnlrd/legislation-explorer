@@ -235,11 +235,12 @@ export default function App() {
   }
   const onNavigateCase = (citation: string) => {
     window.history.pushState(null, '', `/tax-cases/${encodeURIComponent(citation)}`)
-    setActiveSection('')
+    setAct('tax-cases')
+    setActiveSection(citation)
     setActiveRuling(null)
     setActivePrivateRuling(null)
     setSearchPage(false)
-    // setActiveTaxCase(citation)
+    setActiveMap(null)
   }
 
   // Close picker on click outside
@@ -590,7 +591,7 @@ export default function App() {
         // Backend also strips this, but frontend-only entry points benefit too.
         const rawSection = sectionMatch[2]
         const cleanedSection = rawSection.replace(/^s(?=\d)/, '')
-        setActiveSection(cleanedSection)
+        setActiveSection(decodeURIComponent(cleanedSection))
         setActiveRuling(null)
         setActivePrivateRuling(null)
       } else if (actOnlyMatch) {

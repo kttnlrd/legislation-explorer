@@ -324,9 +324,9 @@ _ACT_ALIASES = [
 ]
 _ACT_ALIASES.sort(key=lambda a: len(a[0]), reverse=True)
 
-_SECTION_RE = re.compile(r"(?:sub)?sec(?:tion)?\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)(?:\([^)]*\))?", re.IGNORECASE)
-_RANGE_RE = re.compile(r"sections\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)\s+to\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)", re.IGNORECASE)
-_SCHED_SECTION_RE = re.compile(r"schedule\s+\d+\s+(?:sub)?section\s+([0-9]+(?:-[0-9]+)?[A-Za-z]?)", re.IGNORECASE)
+_SECTION_RE = re.compile(r"(?:sub)?sec(?:tion)?\s+([0-9]+(?:-[0-9]+)?[A-Za-z]*)(?:\([^)]*\))?", re.IGNORECASE)
+_RANGE_RE = re.compile(r"sections\s+([0-9]+(?:-[0-9]+)?[A-Za-z]*)\s+to\s+([0-9]+(?:-[0-9]+)?[A-Za-z]*)", re.IGNORECASE)
+_SCHED_SECTION_RE = re.compile(r"schedule\s+\d+\s+(?:sub)?section\s+([0-9]+(?:-[0-9]+)?[A-Za-z]*)", re.IGNORECASE)
 _NON_SECTION_RE = re.compile(r"^\s*(?:division|subdivision|part|schedule|chapter)\b", re.IGNORECASE)
 _NEUTRAL_CASE_RE = re.compile(r"\[\d{4}\]\s*[A-Z]+\s+\d+")
 _REPORTER_CASE_RE = re.compile(r"\(\d{4}\)\s+\d+\s+[A-Z]+(?:\s+[A-Z]+)?\s+\d+")
@@ -500,6 +500,15 @@ def main():
         assert REF_RE.findall("under ITAA97 s 8-1 and ITAA 1936 sec 25") == \
             [("ITAA97", "8-1"), ("ITAA 1936", "25")]
         assert not REF_RE.findall("deductible under s 8-1")  # bare ref: skipped
+        # _parse_leg_ref coverage (CDN-0162): multi-letter suffix + plain numeric
+        _plr = lambda ref: _parse_leg_ref(ref)
+        assert _plr("ITAA 1997 section 8-1") == [("itaa-1997", "8-1")]
+        assert _plr("ITAA 1997 section 995-1") == [("itaa-1997", "995-1")]
+        assert _plr("ITAA 1997 subsection 204-30(1)") == [("itaa-1997", "204-30")]
+        assert _plr("GST Act 1999 section 142") == [("gst-1999", "142")]
+        assert _plr("TAA 1953 schedule 1 section 12-35") == [("taa-1953", "12-35")]
+        assert _plr("ITAA 1936 section 26AH") == [("itaa-1936", "26AH")]
+        assert _plr("ITAA 1936 section 102AAA") == [("itaa-1936", "102AAA")]
         print("selftest ok")
         return 0
 
