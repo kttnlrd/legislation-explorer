@@ -1,0 +1,2348 @@
+{
+  "itaa-1997": {
+    "files_scanned": 4648,
+    "files_with_issues": 186,
+    "issue_count": 231,
+    "issues": {
+      "T3": [
+        {
+          "file": "itaa-1997/sections/part-4-5/division-802/802-20.md",
+          "line": 42,
+          "text": "> **(b)** the amount worked out using this formula: Total declared Total received                CFI amounts CFI amounts        Total received Related"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-832/832-235.md",
+          "line": 30,
+          "text": "**(3)** However, for the purposes of working out the amount of a *deduction/non-inclusion mismatch that is affected by this section, the amount of a p"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-832/832-630.md",
+          "line": 24,
+          "text": "> **(b)** the amount worked out using the following formula: Importing deduction                         Remaining offshore Total importing deductions"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-820/820-115.md",
+          "line": 38,
+          "text": "> **(b)** the average value, for that year, of the entity's *cost-free debt capital that is covered by step 5 of that method statement; (disregarding "
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-820/820-220.md",
+          "line": 38,
+          "text": "> **(b)** the average value, for that year, of the entity's *cost-free debt capital that is covered by step 4 of that method statement. debt deduction"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-820/820-435.md",
+          "line": 42,
+          "text": "Total assets     UL on derivatives where: on-lent amount means the average value, for that income year, of the entity's *on-lent amount. total assets "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-10/division-245/245-65.md",
+          "line": 93,
+          "text": "**(3)** The formula for the purposes of item 6 of the table in subsection (1) is: Amount applied \u00b4 Market value of shares subscribed for Amount subscr"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-95/division-723/723-105.md",
+          "line": 45,
+          "text": "**(3)** For the purposes of the formula in subsection (2): RCB of interest means the interest's *reduced cost base when the transferor *acquired it. t"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-355/355-447.md",
+          "line": 38,
+          "text": "**(2)** The amount is worked out as follows: Total R&D deductions Adjusted section 40-285 amount Total decline in value where: adjusted section 40-285"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-355/355-468.md",
+          "line": 41,
+          "text": "**(2)** The amount is the partner's proportion of the amount worked out as follows: Total R&D deductions Section 40-285 amount Total decline in value "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-355/355-449.md",
+          "line": 39,
+          "text": "**(2)** The amount is the partner's proportion of the amount worked out as follows: Total R&D deductions Adjusted section 40-285 amount Total decline "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-355/355-440.md",
+          "line": 58,
+          "text": "**(4)** Despite subsection (2), if the *recoupment is covered by subparagraph (1)(c)(ii), the amount mentioned in subsection (2) for the present year "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-376/376-20.md",
+          "line": 123,
+          "text": "**(6)** For the purposes of paragraph (3)(c), the amount for a *film is worked out by using the formula: Total QAPE Duration of film in hours where: d"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-376/376-65.md",
+          "line": 219,
+          "text": "**(7)** The amount worked out for a *film under this subsection is the amount worked out using the formula: Total QAPE Duration of film in hours where"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-392/392-90.md",
+          "line": 54,
+          "text": "**(4)** In this section: Assessable PP income means your *assessable primary production income for the *current year. PP deductions means your *primar"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-115/115-115.md",
+          "line": 68,
+          "text": "**(5)** For the purposes of table item 2 in subsection (4), the following (expressed as a percentage) is the percentage resulting from this section: S"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-30/division-307/307-231.md",
+          "line": 53,
+          "text": "**(3)** The amount under this subsection, in respect of a *borrowing, is worked out using the following formula: Value of your supported super interes"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-40/division-83/83-95.md",
+          "line": 27,
+          "text": "**(2)** For the *pre-18/8/93 period or the *post-17/8/93 period, the formula is: Unused long service leave days in the relevant period Amount of payme"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-705/705-115.md",
+          "line": 18,
+          "text": "**(1)** For the purposes of step 7 in the table in section 705-60, the step 7 amount is worked out using the following formula: Owned deductions + Acq"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-15/division-54/54-5.md",
+          "line": 29,
+          "text": "> **(b)** for a *structured order, means the date on which the order was made. personal injury annuity means an *annuity:"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-197/197-60.md",
+          "line": 43,
+          "text": "where: applicable tax amount has the meaning given by subsection (3). section 197-45 franking debits means the total *franking debits arising under se"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-5/division-995/995-1.md",
+          "line": 372,
+          "text": "approved form has the meaning given by section 388-50 in Schedule 1 to the Taxation Administration Act 1953. approved investment plan, of an *ESVCLP, "
+        },
+        {
+          "file": "itaa-1997/sections/part-6-5/division-995/995-1.md",
+          "line": 425,
+          "text": "assessable amount has the meaning given by subsection 155-5(2) in Schedule 1 to the Taxation Administration Act 1953. assessable FHSS released amount,"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-5/division-995/995-1.md",
+          "line": 475,
+          "text": "assessment day for an income year of a *life insurance company has the meaning given by section 219-45. asset, of a *sub-fund of a *CCIV, means any of"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-5/division-995/995-1.md",
+          "line": 656,
+          "text": "> **(d)** the Legislative Assembly of the Northern Territory of Australia. Australian/overseas fund has the meaning given by section 74 of the Life In"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-5/division-995/995-1.md",
+          "line": 721,
+          "text": "base value, of a *depreciating asset, has the meaning given by subsection 40-70(1). base year, in relation to an income year, has the meaning given by"
+        }
+      ],
+      "T4": [
+        {
+          "file": "itaa-1997/sections/part-2-25/division-70/70-15.md",
+          "line": 30,
+          "text": "> **(b)** for which an amount is included in your assessable income in connection with the disposal of that item. Note       You can deduct your capit"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-820/820-605.md",
+          "line": 23,
+          "text": "> **(b)** this Division (as applying because of this Subdivision) disallows all or part of the deduction (treated as a deduction of the *head company "
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-820/820-423A.md",
+          "line": 40,
+          "text": "> **Note:** This Subdivision does not apply if the total debt deductions of that entity and all its associate entities for that year are $2 million or"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-820/820-423E.md",
+          "line": 30,
+          "text": "> **(b)** another entity is an associate of the trust; treat the trust as if it were a company. Application of sufficient influence test"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-820/820-962.md",
+          "line": 22,
+          "text": "> **Note:** The Commissioner's power under this subsection does not extend to the overseas or international accounting standards. Application for spec"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-10/division-250/250-190.md",
+          "line": 17,
+          "text": "This Subdivision is about the tax treatment of gains and losses from the financial arrangement that you are taken to have under section 250-155. You r"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-95/division-725/725-145.md",
+          "line": 27,
+          "text": "> **(c)** either or both of subsections (2) and (3) are satisfied. Examples of something done under a scheme are issuing new shares at a *discount, bu"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-95/division-725/725-150.md",
+          "line": 42,
+          "text": "**(5)** If both of subsections (3) and (4) apply to the issue of the same *primary equity interest, subsection (1) of this section applies to the inte"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-28/28-185.md",
+          "line": 29,
+          "text": "> **(c)** as if any other individual who receives, or is entitled to receive, such payments from a notional employer were also an employee of the noti"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-393/393-10.md",
+          "line": 48,
+          "text": "> **Note:** If the deposit was originally an income equalisation deposit, see section 393-10 of the Income Tax (Transitional Provisions) Act 1997. Not"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-393/393-10.md",
+          "line": 50,
+          "text": "> **Note:** Section 393-55 affects the unrecouped FMD deduction of a new deposit linked to an old deposit affected by Division 2AA (Financial claims s"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-415/415-70.md",
+          "line": 50,
+          "text": "**(3)** The instrument of designation must contain any details prescribed by the *infrastructure project designation rules. Amendment of instruments o"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-415/415-65.md",
+          "line": 44,
+          "text": "**(2)** The instrument of provisional designation must contain any details prescribed by the *infrastructure project designation rules. Amendment of i"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-376/376-230.md",
+          "line": 18,
+          "text": "**(1)** A company may apply to the *Arts Minister for the issue of a certificate to the company for a *film under section 376-20 (certificate for the "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-376/376-230.md",
+          "line": 21,
+          "text": "**(2)** Once all of a company's *qualifying Australian production expenditure on a *film, to the extent that it relates to *post, digital and visual e"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-376/376-27.md",
+          "line": 81,
+          "text": "**(8)** If the regulations prescribe a monetary amount or a percentage, the regulations must prescribe both a monetary amount and a percentage. Defini"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-392/392-5.md",
+          "line": 32,
+          "text": "**(3)** You may be liable to extra income tax on some or all of your basic taxable income for the current year if the income tax you would pay on your"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-118/118-427.md",
+          "line": 211,
+          "text": "> > **(ii)** the entity is not required under subsection (6) of this section to have an auditor at that time. Application to groups"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-118/118-425.md",
+          "line": 200,
+          "text": "> **(c)** the entity is not required under subsection (5) of this section to have an auditor at that time. Application to consolidated or consolidatab"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-116/116-45.md",
+          "line": 29,
+          "text": "> **Note:** This rule exists because the general rules treat you as having received an amount when you are entitled to receive it. Example    You sell"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-115/115-32.md",
+          "line": 44,
+          "text": "> **Note:** This section does not affect the time when you are treated as having acquired the replacement asset. That time is worked out under item 2 "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-115/115-34.md",
+          "line": 36,
+          "text": "> > **(iii)** a replacement-asset roll-over under Subdivision 124-N (disposal of assets by trusts to a company) for which a trust of which you were a "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-115/115-34.md",
+          "line": 39,
+          "text": "**(2)** Sections 115-25 and 115-40 apply as if you had *acquired the *share at least 12 months before the *CGT event. Application of tests about the c"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-30/division-295/295-200.md",
+          "line": 36,
+          "text": "> **(c)** is not centrally managed or controlled in Australia. Application of tables to RSA providers"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-30/division-290/290-170.md",
+          "line": 74,
+          "text": "**(4)** The trustee or provider may refuse to give you an acknowledgment of receipt of a valid notice if the *value of the *superannuation interest to"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-30/division-290/290-180.md",
+          "line": 51,
+          "text": "> **(c)** the variation reduces the amount stated in relation to the contribution by the amount not allowable as a deduction. Application to successor"
+        },
+        {
+          "file": "itaa-1997/sections/part-5-30/division-900/900-12.md",
+          "line": 29,
+          "text": "> **(c)** as if the withholding payments covered by subsection (3) that he or she receives (or is entitled to receive) were salary or wages. Applicati"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-6/division-204/204-30.md",
+          "line": 29,
+          "text": "> **(c)** the other member of the entity will receive lesser imputation benefits, or will not receive any imputation benefits, whether or not the othe"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-960/960-80.md",
+          "line": 124,
+          "text": "> **Note:** The attributable income of a controlled foreign company is calculated separately for each attributable taxpayer\u2014see section 381 of the Inc"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-960/960-255.md",
+          "line": 27,
+          "text": "> **Example:** Clare's stepfather Frank has a sister Angela. This Act applies as if Angela were Clare's aunt because Clare is defined to be Frank's ch"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-960/960-50.md",
+          "line": 18,
+          "text": "**(1)** For the purposes of this Act, an amount in a *foreign currency is to be translated into Australian currency. Examples of an amount"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-960/960-50.md",
+          "line": 257,
+          "text": "> **(b)** as in force or existing from time to time. (9A) Regulations made for the purposes of subsection (8) do not apply to translating an amount in"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-974/974-112.md",
+          "line": 44,
+          "text": "> **(b)** on an application made under subsection (3). Application for determination"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-707/707-110.md",
+          "line": 23,
+          "text": "> **(b)** to prevent the utilisation by any entity of a loss made by the joining entity, if the joining entity could not have utilised the loss if it "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-707/707-320.md",
+          "line": 71,
+          "text": "> **(b)** if the available fraction worked out under paragraph (a) is 0.000 and, if it were worked out to more decimal places, it would include one or"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-705/705-170.md",
+          "line": 17,
+          "text": "When a consolidated group is acquired by another consolidated group, modifications are made to the operation of Division 701 (the core rules) and Subd"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-705/705-75.md",
+          "line": 43,
+          "text": "**(3)** Subsections 705-65(2), (3), (3AA) and (3A) apply in relation to references in subsection (2) of this section to an asset's *cost base or *redu"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-705/705-35.md",
+          "line": 29,
+          "text": "> **Note:** For an asset consisting of an entitlement to receive an amount that will be included in assessable income, the market value of the asset w"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-705/705-210.md",
+          "line": 17,
+          "text": "When entities that are linked by membership interests join a consolidated group, the tax cost setting amount for the assets of each entity that become"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-705/705-130.md",
+          "line": 17,
+          "text": "When a consolidated group comes into existence, the tax cost setting amount for the assets of each entity that becomes a subsidiary member is worked o"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-711/711-1.md",
+          "line": 17,
+          "text": "If an entity ceases to be a subsidiary member of a consolidated group, the tax cost setting amount for the group's membership interests in the entity "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-719/719-150.md",
+          "line": 17,
+          "text": "When an entity (other than an eligible tier-1 company) becomes a subsidiary member of a MEC group, the tax cost of its assets is set at a tax cost set"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-717/717-220.md",
+          "line": 33,
+          "text": "**(3)** A post FIF abolition debit arises at the joining time for the FIF attribution account entity in relation to the joining company. The debit is "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-709/709-200.md",
+          "line": 23,
+          "text": "> **(b)** has for another period been owed to an entity that was not a member of that group; only if each entity that has been owed the debt for such "
+        },
+        {
+          "file": "itaa-1997/sections/part-2-10/division-40/40-520.md",
+          "line": 26,
+          "text": "> **Example:** Examples of a water facility include a dam, tank, tank stand, bore, well, irrigation channel, pipe, pump, water tower and windmill. Exa"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-10/division-40/40-185.md",
+          "line": 41,
+          "text": "> **Note:** Item 1 includes not only amounts actually paid but also amounts taken to have been paid. Examples include the price of the notional purcha"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-10/division-40/40-305.md",
+          "line": 37,
+          "text": "> **Note:** Item 1 includes not only amounts actually received but also amounts taken to have been received. Examples include the price of the notiona"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-10/division-40/40-730.md",
+          "line": 47,
+          "text": "**(3)** Also, you cannot deduct expenditure under subsection (1) to the extent that it forms part of the *cost of a *depreciating asset. Definitions"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-15/division-58/58-75.md",
+          "line": 24,
+          "text": "> **(b)** the *tax exempt vendor just before the *acquisition time; worked out using the assumptions in this section. Application of Division 40"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-15/division-58/58-80.md",
+          "line": 24,
+          "text": "> **(b)** the *tax exempt vendor just before the *acquisition time; worked out using the assumptions in this section. Application of Division 40"
+        }
+      ],
+      "T5": [
+        {
+          "file": "itaa-1997/sections/part-4-5/division-775/775-75.md",
+          "line": 99,
+          "text": "> **(b)** the foreign currency became due amount equal to the forex for payment within 12 months realisation loss. after the time when you incurred th"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-32/32-30.md",
+          "line": 46,
+          "text": "> **(b)** dining or drinking (unless it is a employees to use. food or drink vending machine). 1.6      providing food or drink which would be a *frin"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-415/415-15.md",
+          "line": 59,
+          "text": "> **Note:** The increase under this section can occur at the end of an income year even if, at the end of the year, the entity does not know the entit"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-100/100-30.md",
+          "line": 21,
+          "text": "**(2)** There are 4 categories of exemptions: 1. exempt assets: for example, cars; 2. exempt or loss-denying transactions: for example, compensation f"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-960/960-60.md",
+          "line": 28,
+          "text": "> **(b)** a foreign resident                                  the one in which you carrying on an                                      make the choice"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-960/960-50.md",
+          "line": 99,
+          "text": "> **(b)** is relevant for the purposes of Part 3-1 or 3-3;                       transaction or event. to the extent to which the amount or"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-705/705-80.md",
+          "line": 34,
+          "text": "> **Note:** The difference would arise because subsection 705-70(1) includes income tax liabilities and steps 3 and 5 of the table in section 705-60 a"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-711/711-25.md",
+          "line": 23,
+          "text": "> **Note:** If the asset arose because the head company acquired control and ownership of a joining entity, subsection 705-35(3) would have applied in"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-711/711-20.md",
+          "line": 35,
+          "text": "> **(a)** the leaving entity's liabilities just      membership interests. before the leaving time; and"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-701/701-40.md",
+          "line": 33,
+          "text": "**(3)** Everything that happened in relation to any eligible asset etc. while it was that of the *head company, including because of any application o"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-701/701-40.md",
+          "line": 35,
+          "text": "> **Note:** If the eligible asset etc. was brought into the group when an entity became a subsidiary member, section 701-5 (the entry history rule) wo"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-701/701-85.md",
+          "line": 10,
+          "text": "section_title: \"Other exceptions etc. to the rules\""
+        },
+        {
+          "file": "itaa-1997/sections/part-3-90/division-701/701-85.md",
+          "line": 15,
+          "text": "# 701-85  Other exceptions etc. to the rules"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-165/165-255.md",
+          "line": 33,
+          "text": "> **(b)** the company ceases to be in existence before the end of the period; then the period is taken to end on the day the company ceases to be in e"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-215.md",
+          "line": 17,
+          "text": "This Subdivision has rules which make it easier for a widely held or eligible Division 166 company to satisfy the ownership tests in Subdivision 166-D"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-265.md",
+          "line": 29,
+          "text": "> > **(ii)** any distributions of capital of the tested company in respect of each *capital stake in the tested company mentioned in that section; had"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-260.md",
+          "line": 48,
+          "text": "> **(g)** the beneficial owners of some or all of the shares held by the depository entities have not been disclosed to the foreign listed company. he"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-245.md",
+          "line": 94,
+          "text": "> **(d)** in any case\u2014each member were a person (other than a company or a trustee). held or eligible Division 166 company Section 166-245"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-15.md",
+          "line": 21,
+          "text": "**(2)** The company must choose on or before the day it lodges its *income tax return for the income year, or before a later day if the Commissioner a"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-145.md",
+          "line": 58,
+          "text": "> **(c)** a *mutual insurance company; during the whole of the *test period, the conditions in subsections (3) and (4) are taken to have been satisfie"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-255.md",
+          "line": 45,
+          "text": "> **(f)** the beneficial owners of some or all of those bearer shares have not been disclosed to the foreign listed company. held or eligible Division"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-230.md",
+          "line": 45,
+          "text": "> **Note:** For paragraph (a), Division 167 has special rules for working out rights to voting power, dividends and capital distributions in a company"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-40.md",
+          "line": 48,
+          "text": "> **(b)** that ends at the end of the *second continuity period; and includes any intervening period. held or eligible Division 166 company Section 16"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-280.md",
+          "line": 47,
+          "text": "> > **(ii)** is more than 50% of the total voting power in the tested company and is controlled (whether directly, or indirectly through one or more i"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-80.md",
+          "line": 33,
+          "text": "> **(e)** a widely held company for a part of the income year and an eligible Division 166 company for the rest of the income year. held or eligible D"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-166/166-20.md",
+          "line": 63,
+          "text": "**(5)** Apply the *business continuity test to the *business that the company carried on immediately before the *test time. held or eligible Division "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-167/167-25.md",
+          "line": 29,
+          "text": "> **(b)** that each of those valuing times is a test time. distributions or voting power Section 167-30"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-167/167-85.md",
+          "line": 33,
+          "text": "**(2)** The way the entity prepares its *income tax return is sufficient evidence of it making a choice under subsection (1). distributions or voting "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-5/division-167/167-10.md",
+          "line": 101,
+          "text": "> **Note:** If a condition cannot be worked out for several of the times to which the provision relates, apply this Subdivision separately for each of"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-42/division-86/86-30.md",
+          "line": 10,
+          "text": "section_title: \"Assessable income etc. of the personal services entity\""
+        },
+        {
+          "file": "itaa-1997/sections/part-2-42/division-86/86-30.md",
+          "line": 15,
+          "text": "# 86-30  Assessable income etc. of the personal services entity"
+        }
+      ],
+      "T6": [
+        {
+          "file": "itaa-1997/sections/part-2-25/division-70/70-30.md",
+          "line": 54,
+          "text": "> **(b)** *passing to you as a beneficiary his or her 1997-98 income year\u2014 in someone's estate; the dead person's indexed cost and, if a *CGT event ha"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-855/855-15.md",
+          "line": 35,
+          "text": "> **(b)** is not covered by item 1, 2 or 5 of this table 4               An option or right to *acquire a *CGT asset covered by item 1, 2 or 3 of this"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-855/855-30.md",
+          "line": 45,
+          "text": "> **(a)** the sum of the           (a) the sum of the *market values of            market values of all the assets of the        all the assets of the"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-802/802-20.md",
+          "line": 42,
+          "text": "> **(b)** the amount worked out using this formula: Total declared Total received                CFI amounts CFI amounts        Total received Related"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-802/802-20.md",
+          "line": 44,
+          "text": "> **Example:** AusCo 1 and AusCo 2 are both Australian corporate tax entities. AusCo 1 pays an unfranked dividend of $80 to AusCo 2. AusCo 1 declares "
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-832/832-630.md",
+          "line": 24,
+          "text": "> **(b)** the amount worked out using the following formula: Importing deduction                         Remaining offshore Total importing deductions"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-775/775-70.md",
+          "line": 85,
+          "text": "> **(b)** if subparagraph (a)(i)                  below zero) by an amount equal to applies\u2014the foreign currency            the forex realisation gain"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-775/775-70.md",
+          "line": 91,
+          "text": "> **(c)** if subparagraph (a)(ii)                          pool under Subdivision 40-E applies\u2014the foreign currency                     or 328-D; beca"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-775/775-75.md",
+          "line": 85,
+          "text": "> **(c)** if subparagraph (a)(ii) applies\u2014                     one in which the asset's the foreign currency became due                      *start ti"
+        },
+        {
+          "file": "itaa-1997/sections/part-4-5/division-830/830-95.md",
+          "line": 27,
+          "text": "**(2)** Work out whether the partner paid a premium or received a discount for its interest in the asset using the following method statement: Method "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-10/division-230/230-305.md",
+          "line": 46,
+          "text": "> **(b)** you cease to expect that one or            items\u2014to the income year in more (but not all) of the hedged           which the event occurs; an"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-95/division-727/727-5.md",
+          "line": 30,
+          "text": "> **Example:** Assume that company E owns all the shares in company C and company D. The net shift of value from company A to company B will also redu"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-95/division-725/725-380.md",
+          "line": 32,
+          "text": "> **(c)** sustained the same decrease in market value as the down interest because of the *direct value shift. Step 2.   Work out the value shifted fr"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-95/division-725/725-375.md",
+          "line": 23,
+          "text": "> **(b)** item 2, 3, 6 or 9 of the table in subsection 725-335(3). Step 1.   If the *market value of the *up interest increases because of the direct "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-95/division-725/725-365.md",
+          "line": 47,
+          "text": "> **(d)** sustained the same decrease in market value as the down interest because of the *direct value shift. Step 2.    Work out the value shifted f"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-28/28-5.md",
+          "line": 26,
+          "text": "Subdivisions 28-G, 28-H and 28-I Log book and odometer records Subdivision 28-J The exceptions cover unusual cases which                              "
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-28/28-170.md",
+          "line": 40,
+          "text": "> **(b)** any other road                income; vehicle designed to       (b) to go between your residence and a place carry a load of less          w"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-30/30-55.md",
+          "line": 35,
+          "text": "> **(b)** the provision of              (b) meet the information or                    requirements of education, or the                 section 30-13"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-30/30-15.md",
+          "line": 67,
+          "text": "> **(e)** *shares that you have acquired in        (d) if the gift is property valued by the a *listed public company if:                 Commissioner"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-30/30-15.md",
+          "line": 142,
+          "text": "> **(c)** the situations when the amount you           in section 30-200, unless can deduct is reduced.                       section 30-205 (about If"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-30/30-15.md",
+          "line": 189,
+          "text": "> **(g)** The National Trust of                                                       If the place is jointly owned, see Australia (Northern          "
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-30/30-15.md",
+          "line": 207,
+          "text": "> **(b)** property that you purchased                                                               contribution, of the right contribution, of the ri"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-30/30-15.md",
+          "line": 210,
+          "text": "> **(c)** property valued by the                                property; Commissioner at more than reduced by the GST inclusive $5,000, if you did no"
+        },
+        {
+          "file": "itaa-1997/sections/part-2-5/division-30/30-70.md",
+          "line": 36,
+          "text": "> **(a)** by a *non-profit company which         (a) a *registered receives funding from the                  charity; or Commonwealth to provide fami"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-393/393-55.md",
+          "line": 71,
+          "text": "**(6)** Despite subsection (2) and subsection 393-15(3), if the new deposit is less than the old deposit at the time (the declaration time) the old AD"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-418/418-120.md",
+          "line": 17,
+          "text": "The total amount of all *exploration credits issued by an entity (the minerals explorer) to another entity (the investor) in relation to *exploration "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-392/392-5.md",
+          "line": 35,
+          "text": "**(4)** The graph shows an example of the effect of averaging, using the same income figures as the graph in the example in subsection (1). Tax offset"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-380/380-17.md",
+          "line": 44,
+          "text": "**(3)** The *tax offset to which the indirect entity would otherwise be entitled under section 380-15 for the income year because of the *NRAS certifi"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-380/380-15.md",
+          "line": 53,
+          "text": "**(2)** The amount of the *tax offset is the sum of the amounts worked out using the following formula for each *NRAS dwelling from which there is *NR"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-328/328-360.md",
+          "line": 18,
+          "text": "**(1)** The amount of your *tax offset is equal to 16% of the following: Your total net small business income for the income year                     "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-45/division-328/328-225.md",
+          "line": 56,
+          "text": "> **(a)** for a *depreciating asset you started to use, or have *installed ready for use, for a *taxable purpose during an income year for which you w"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-118/118-105.md",
+          "line": 17,
+          "text": "happens to your dwelling Basic case                                       Deceased estates case The 2 different                     You are an individ"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-118/118-105.md",
+          "line": 30,
+          "text": "Adjust if dwelling used to produce assessable income section 118-190 Other rules                                                                      "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-118/118-185.md",
+          "line": 34,
+          "text": "> **Example:** You bought a house in July 2020 and moved in immediately. In July 2023, you moved out and began to rent it. You sold it in July 2030, m"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-116/116-30.md",
+          "line": 74,
+          "text": "**(4)** To avoid doubt, the *CGT asset that is the subject of a *CGT event specified in this table is the asset so specified. *CGT assets the subject "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-112/112-30.md",
+          "line": 33,
+          "text": "> **Example:** You acquire a truck for $24,000 and sell its motor for $9,000. Suppose the market value of the remainder of the truck is $16,000. Under"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-1/division-115/115-125.md",
+          "line": 83,
+          "text": "**(5)** Work out the following: *Discount percentage that would apply to the *discount capital gain apart from this section   Affordable housing days "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-30/division-303/303-4.md",
+          "line": 27,
+          "text": "> **(b)** would apart from this Subdivision apply to you in respect of an amount of defined benefit income; your defined benefit income cap for the fi"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-30/division-307/307-290.md",
+          "line": 34,
+          "text": "**(3)** For the purposes of paragraph (2)(a), the formula is: Amount of                              Service days *superannuation lump sum         \u00b4 S"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-30/division-307/307-5.md",
+          "line": 31,
+          "text": "**(2)** or (2AB),               (2AA), (2A) or (3), 20F(1) or 20H(2),           20QF(2), (5) or (6), 21E(2), (2AA) or (2A),              (5) or (6), 2"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-30/division-296/296-60.md",
+          "line": 64,
+          "text": "> **(b)** that, of the trust's income years, covers the most of the entity's income year: \u00e6                         \u00f6 *Division 296 fund earnings for "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-6/division-210/210-175.md",
+          "line": 23,
+          "text": "**(2)** If the entity receiving the *distribution is a *life insurance company, the *tax offset is worked out using the formula: *Complying superannua"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-6/division-203/203-50.md",
+          "line": 47,
+          "text": "> **Example:** An entity makes 3 successive frankable distributions in a franking period. Each of those distributions is represented in the following "
+        },
+        {
+          "file": "itaa-1997/sections/part-3-6/division-207/207-150.md",
+          "line": 80,
+          "text": "> **(b)** the Commissioner has made a determination under paragraph 177EA(5)(b) of the Income Tax Assessment Act 1936 that no imputation benefit (with"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-6/division-207/207-150.md",
+          "line": 89,
+          "text": "> **(b)** if the entity would otherwise be entitled to a *tax offset under this Division because of the distribution\u2014the amount of the tax offset is t"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-6/division-207/207-95.md",
+          "line": 69,
+          "text": "> **(b)** a part of the entity's *share of the distribution (the relevant part) would, in its hands, be *exempt income or *non-assessable non-exempt i"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-6/division-207/207-95.md",
+          "line": 78,
+          "text": "> **(b)** if the entity would otherwise be entitled to a *tax offset under this Division because of the distribution\u2014the amount of the tax offset is t"
+        },
+        {
+          "file": "itaa-1997/sections/part-3-6/division-219/219-30.md",
+          "line": 32,
+          "text": "> > **(ii)** the period during the company's *franking                             which the company account is in *surplus on the                    "
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-960/960-80.md",
+          "line": 27,
+          "text": "> **(b)** you have made a choice under             of that table: item 1 of the table in                       (i) an amount that is not in the *appli"
+        },
+        {
+          "file": "itaa-1997/sections/part-6-1/division-960/960-80.md",
+          "line": 46,
+          "text": "> > **(i)** an Australian resident            out, for the income year, the carrying on an activity          taxable income or tax loss derived or bus"
+        }
+      ]
+    }
+  },
+  "itaa-1936": {
+    "files_scanned": 993,
+    "files_with_issues": 121,
+    "issue_count": 218,
+    "issues": {
+      "T1": [
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170a.md",
+          "line": 60,
+          "text": "**(b)** the Commissioner has not completed the examination before the end of the later amendment period or that period as extended; the later amendmen"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 149,
+          "text": "**(b)** the Commissioner has not completed the examination before the end of the limited amendment period or that period as extended; the limited amen"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 155,
+          "text": "**(b)** any failure of the taxpayer to take action that would have been reasonable for the taxpayer to take. Extensions of limited amendment period In"
+        }
+      ],
+      "T3": [
+        {
+          "file": "itaa-1936/sections/part-iiib/division-4/160zzzk.md",
+          "line": 36,
+          "text": "**(4)** In this section: financial entity has the meaning given by section 995-1 of the Income Tax Assessment Act 1997. foreign entity has the meaning"
+        },
+        {
+          "file": "itaa-1936/sections/part-iiib/division-1/160zzv.md",
+          "line": 24,
+          "text": "**(b)** any working papers and other documents that are necessary to explain the methods and calculations by which accounts are made up. Australian br"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-4/371.md",
+          "line": 41,
+          "text": "**(b)** the eligible entity is or will be liable to pay an amount of foreign tax on the attribution account payment or on amounts that include the att"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-10/461.md",
+          "line": 68,
+          "text": "**(ii)** if subparagraph (i) does not apply\u2014only a proportion of each surplus (after any application of paragraph (a)) is to be taken into account und"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-7/405.md",
+          "line": 20,
+          "text": "**(1)** In this Subdivision: commencing day has the meaning given by section 406. commencing day asset has the meaning given by section 406."
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-7/401.md",
+          "line": 65,
+          "text": "**(ii)** if subparagraph (i) does not apply\u2014only a proportion of each surplus (after any application of paragraph (b)) is to be taken into account und"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-7/399a.md",
+          "line": 44,
+          "text": "**(ii)** that would have been reasonably likely to have been derived by the eligible CFC in respect of the debt if it had not become bad; were instead"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-9/456a.md",
+          "line": 38,
+          "text": "**(d)** the item constitutes the whole or part (which whole or part is in this section called the foreign accruals-taxed attributable income) of the a"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-9/457.md",
+          "line": 36,
+          "text": "**(2)** The amount is calculated using the formula: Attribution percent \u00b4 Adjusted distributable profits where: Attribution percent means the attribut"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-9/459a.md",
+          "line": 38,
+          "text": "**(v)** where the amount is included under this section\u2014at the time referred to in whichever subparagraph of this paragraph applied for the purposes o"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/317.md",
+          "line": 20,
+          "text": "**(1)** In this Part, unless the contrary intention appears: accounting period, in relation to company, means an accounting period used by the company"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/317.md",
+          "line": 32,
+          "text": "**(d)** a life assurance company. AFI subsidiary or Australian financial institution subsidiary has the meaning given by section 326. aircraft means a"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/317.md",
+          "line": 41,
+          "text": "**(c)** in relation to a CFT\u2014has the meaning given by section 360. Australian 1% entity, in relation to a company or trust, means an Australian entity"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/317.md",
+          "line": 62,
+          "text": "**(c)** in relation to a CFT\u2014has the meaning given by section 355. currency exchange gain, in relation to a company, in relation to a statutory accoun"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/317.md",
+          "line": 93,
+          "text": "**Note:** Basically, the effect of those assumptions is that the company concerned is taken to be a taxpayer and a resident and CGT event J1 may there"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/327a.md",
+          "line": 114,
+          "text": "**(b)** the first level company holds an eligible share interest in another company (in this subsection called the second level company); the person i"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/327a.md",
+          "line": 117,
+          "text": "**(6)** In this section: eligible listed company has the meaning given by subsection (2). eligible share interest has the meaning given by subsections"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/327b.md",
+          "line": 108,
+          "text": "**(b)** the first level company holds an eligible share interest in another company (in this subsection called the second level company); the person i"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/327b.md",
+          "line": 111,
+          "text": "**(7)** In this section: eligible share interest has the meaning given by subsections (5) and (6). finance share has the meaning given by subsection ("
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-8/446.md",
+          "line": 59,
+          "text": "**(2)** Despite anything in subsection (1), the passive income of a life assurance company of a statutory accounting period is calculated using the fo"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-8/437.md",
+          "line": 47,
+          "text": "**(d)** the gross tainted turnover of the company of the statutory accounting period is to be increased by the amount calculated using the formula: No"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-8/437.md",
+          "line": 50,
+          "text": "**(e)** the gross turnover of the company of the statutory accounting period is to be increased by the amount calculated using the formula: Notional g"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-8/433.md",
+          "line": 20,
+          "text": "**(1)** For the purposes of this Part, if a company is a resident of a particular listed country or a particular unlisted country at the end of a stat"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 288,
+          "text": "**(14)** In this section, unless the contrary intention appears: DPT assessment has the meaning given by the Income Tax Assessment Act 1997. limited a"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 306,
+          "text": "**(ii)** the reference in paragraph 328-110(5)(b) of that Act to a small business entity were instead a reference to an entity (within the meaning of "
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170b.md",
+          "line": 219,
+          "text": "**(9)** In this section: anticipated amendments, in relation to a taxpayer, has the meaning given by subsection (3). on foot, in relation to an announ"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-15/141.md",
+          "line": 18,
+          "text": "In this Division: insurance contract means a contract or guarantee whereby liability is undertaken, contingent upon the happening of any specified eve"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gp.md",
+          "line": 20,
+          "text": "**(1)** In this Division, unless the contrary intention appears: accrual amount has the meaning given by subsection 159GQB(1). accrual period has the "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gp.md",
+          "line": 29,
+          "text": "**(c)** any combination of amounts referred to in paragraph (a) or (b). holder, in relation to a security at a particular time, means the person who, "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gp.md",
+          "line": 56,
+          "text": "**(iii)** the terms on which the annuity and the one or more deferred superannuation income streams are payable are the same or substantially the same"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gp.md",
+          "line": 71,
+          "text": "**(e)** where the precise amount of the eligible return is able to be ascertained at the time of issue of the security\u2014in relation to which the amount"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gp.md",
+          "line": 89,
+          "text": "**(b)** if the security was transferred to the taxpayer\u2014the part of the term remaining after the transfer. term, in relation to a security, means the "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-3a/82l.md",
+          "line": 20,
+          "text": "**(1)** In this Division, unless the contrary intention appears: attributable income has the meaning given by Division 7 of Part X. CFC or controlled "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-3a/82l.md",
+          "line": 56,
+          "text": "**(c)** any other form of debt or liability of the company; whether secured or unsecured and whenever redeemable, repayable or to be satisfied. note m"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-3a/82l.md",
+          "line": 71,
+          "text": "**(b)** in the case of an approved replacement loan\u2014by converting, in whole or in part, an earlier loan, or by converting, in whole or in part, an ear"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-11c/128u.md",
+          "line": 35,
+          "text": "**(ii)** is empowered or required (whether under that law or otherwise) to pay moneys received by the body to Indigenous persons or to apply such mone"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-10e/124zw.md",
+          "line": 27,
+          "text": "**(c)** the total of the overall capital gains for all classes of assessable income for the loss year (before section 116GB is applied). class, in rel"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-10e/124zw.md",
+          "line": 33,
+          "text": "**(b)** if an amount has been applied under subsection 124ZZB(2) to reduce an overall capital gain previously worked out under this definition\u2014that ga"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-10e/124zm.md",
+          "line": 105,
+          "text": "**(13)** In this section: flows indirectly has the meaning given by subsection 995-1(1) of the Income Tax Assessment Act 1997. part of a distribution "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-17/159zr.md",
+          "line": 20,
+          "text": "**(1)** In this Subdivision, unless the contrary intention appears: accrual year, in relation to the total arrears amount, means a year of income in w"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-17/159zr.md",
+          "line": 47,
+          "text": "**(c)** no amount were included in assessable income under section 102-5 of the Income Tax Assessment Act 1997 (about including net capital gains in a"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16j/159gzzzc.md",
+          "line": 20,
+          "text": "**(1)** In this Division: associate has the same meaning as in section 318. cancellation includes redemption. disposal includes cancellation. entity m"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9c/121f.md",
+          "line": 20,
+          "text": "**(1)** In this Division, unless the contrary intention appears: agreement means any agreement, arrangement or understanding, whether formal or inform"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9c/121f.md",
+          "line": 29,
+          "text": "**(c)** any right to receive income. public company rate means the rate of tax payable in respect of the taxable income of a company that is not a pri"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6c/102t.md",
+          "line": 106,
+          "text": "**(27)** In this section: equity holder in a prescribed trust estate means the holder of an equity interest in the prescribed trust estate. equity int"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6c/102t.md",
+          "line": 112,
+          "text": "**(b)** any other interest that would be an equity interest in the prescribed trust estate if references in Division 974 of the Income Tax Assessment "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6c/102m.md",
+          "line": 66,
+          "text": "**(c)** investing or trading in financial instruments (not covered by paragraph (b)) that arise under financial arrangements, other than arrangements "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-3/79b.md",
+          "line": 104,
+          "text": "**(c)** any notional tax offset to which the taxpayer is entitled under Subdivision 961-B of the Income Tax Assessment Act 1997. locality means an are"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-3/70b.md",
+          "line": 146,
+          "text": "**(7)** In this section: issuer, in relation to a security at a particular time, means the person who, if the amount or amounts payable under the secu"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-3/51af.md",
+          "line": 35,
+          "text": "**(2)** In this section: car has the meaning given by section 995-1 of the Income Tax Assessment Act 1997, but does not include a car covered by secti"
+        }
+      ],
+      "T4": [
+        {
+          "file": "itaa-1936/sections/part-iiib/division-4/160zzzk.md",
+          "line": 33,
+          "text": "**(3)** This Part (except this Division) applies to a permanent establishment in Australia of a foreign entity that is a financial entity in the same "
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/327a.md",
+          "line": 114,
+          "text": "**(b)** the first level company holds an eligible share interest in another company (in this subsection called the second level company); the person i"
+        },
+        {
+          "file": "itaa-1936/sections/part-x/division-1/327b.md",
+          "line": 108,
+          "text": "**(b)** the first level company holds an eligible share interest in another company (in this subsection called the second level company); the person i"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/172a.md",
+          "line": 23,
+          "text": "**Note:** Interest on the amount of the increase may be payable under the Taxation (Interest on Overpayments and Early Payments) Act 1983. Amendment r"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170a.md",
+          "line": 27,
+          "text": "**(b)** within a particular period (the later amendment period). Extensions\u2014applications by taxpayer"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170a.md",
+          "line": 36,
+          "text": "**(b)** in the approved form mentioned in subsection 170(5); for an amendment for the purpose mentioned in paragraph (1)(a) of this section. The Commi"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170a.md",
+          "line": 51,
+          "text": "**(b)** the Commissioner makes a private ruling under that Division because of the application. The Commissioner may amend the assessment to give effe"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170a.md",
+          "line": 60,
+          "text": "**(b)** the Commissioner has not completed the examination before the end of the later amendment period or that period as extended; the later amendmen"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 36,
+          "text": "**(f)** in any other circumstance prescribed by the regulations. This item is subject to items 5 and 6. Amendment of assessments Time of amendment    "
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 128,
+          "text": "**(4)** The Commissioner cannot amend an assessment under item 2 of the table in subsection (3) about a particular if he or she has previously amended"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 131,
+          "text": "**(5)** The Commissioner may amend an assessment even though the limited amendment period has ended if, before the end of that period, the taxpayer ap"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 140,
+          "text": "**(b)** the Commissioner makes a private ruling under that Division because of the application. The Commissioner may amend the assessment to give effe"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 155,
+          "text": "**(b)** any failure of the taxpayer to take action that would have been reasonable for the taxpayer to take. Extensions of limited amendment period In"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170b.md",
+          "line": 108,
+          "text": "**(e)** any other relevant matter. Operation of section"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-15/148.md",
+          "line": 89,
+          "text": "**(b)** if that person pays or credits the premium before arrangements have been made to the satisfaction of the Commissioner for the payment of any t"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gqa.md",
+          "line": 42,
+          "text": "**(b)** in any other case\u2014the first 6 months of the year of income is an accrual period and the period from the middle of the year of income until the"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gqd.md",
+          "line": 39,
+          "text": "**(5)** Subject to subsection (7), if an amount payable is worked out to any extent by reference to the amount or level, at a particular time, of a ra"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gqd.md",
+          "line": 57,
+          "text": "**(b)** in any other case\u2014during the period of 12 months in respect of which the index or other thing was last available in the year of income. Exampl"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gqd.md",
+          "line": 75,
+          "text": "**(ii)** another amount that, while not expressed to be the amount or level of the index or other thing at a different time, may reasonably be regarde"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-10e/124zm.md",
+          "line": 102,
+          "text": "**(12)** An election must be made in the trustee's return of income of the trust estate for the year of income concerned. Interpretation"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6c/102t.md",
+          "line": 103,
+          "text": "**(b)** applies to an equity holder in a company who is not a shareholder in the same way as it applies to a shareholder; that provision also applies "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-3/51aga.md",
+          "line": 45,
+          "text": "**(f)** the day is on or after 1 July 1993. Definitions"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-2/46fa.md",
+          "line": 101,
+          "text": "**(10)** It does not matter whether the person has the right, power or option because of the constitution of one or other of those companies, any agre"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-2/46fb.md",
+          "line": 42,
+          "text": "**(5)** An unfranked non-portfolio dividend debit arises for a company if the company makes a declaration under paragraph 46FA(1)(f) in relation to a "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-2/45b.md",
+          "line": 27,
+          "text": "**(b)** certain payments, allocations and distributions are made in substitution for dividends. Application of section"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121as.md",
+          "line": 233,
+          "text": "**(b)** a roll-over provision (see note 5 to this table)         purposes of applying the roll-over provision to that disposal, the modifications in t"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6d/102uc.md",
+          "line": 47,
+          "text": "**(c)** in relation to any fixed entitlements in respect of which other individuals are nominees of the individual or of the individual's relatives\u2014th"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6d/102ur.md",
+          "line": 29,
+          "text": "**(2)** The amount of the liability of a person or persons to trustee beneficiary non-disclosure tax, and the due date for payment of the tax, are not"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6d/102uk.md",
+          "line": 73,
+          "text": "**Note:** Provisions dealing with the payment etc. of the tax under paragraph (a) (known as trustee beneficiary non-disclosure tax) are set out in Sub"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6d/102uo.md",
+          "line": 33,
+          "text": "**(3)** Any unpaid trustee beneficiary non-disclosure tax may be sued for and recovered in a court of competent jurisdiction by the Commissioner suing"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-1ab/24ao.md",
+          "line": 26,
+          "text": "**Note:** For the definition of government entity see section 24AT. Note that an excluded STB is not a government entity."
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-1ab/24an.md",
+          "line": 18,
+          "text": "Income derived by an STB is not exempt from income tax under this Division if, at the time that it is derived, the STB is an excluded STB. Notes:     "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-11a/128f.md",
+          "line": 260,
+          "text": "**(d)** when the debenture or debt interest is issued, the subsidiary is treated as a resident of that country for the purposes of the tax law (see su"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-11a/128nb.md",
+          "line": 37,
+          "text": "**(b)** such further period as the Commissioner, in special circumstances, allows. Application"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-1/23ah.md",
+          "line": 198,
+          "text": "**(14D)**  For the purposes of this section, PE, when it is used in Division 832 of the Income Tax Assessment Act 1997, does not have the meaning it h"
+        },
+        {
+          "file": "itaa-1936/sections/part-iva/division-unknown/177ea.md",
+          "line": 23,
+          "text": "**(2)** An expression used in this section that is defined in the Income Tax Assessment Act 1997 has the same meaning as in that Act, except to the ex"
+        },
+        {
+          "file": "itaa-1936/sections/part-iva/division-unknown/177ea.md",
+          "line": 92,
+          "text": "**(11)** If the Commissioner makes a determination under paragraph (5)(b), the determination has effect according to its terms. Application of section"
+        },
+        {
+          "file": "itaa-1936/sections/part-iva/division-unknown/177eb.md",
+          "line": 30,
+          "text": "**(2)** This section does not limit the operation of section 177EA, and section 177EA does not limit the operation of this section. Application of sec"
+        },
+        {
+          "file": "itaa-1936/sections/part-i/division-unknown/6h.md",
+          "line": 84,
+          "text": "**(b)** Division 9 of Part III had not been enacted. Definitions"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-271/271-90.md",
+          "line": 35,
+          "text": "**(3)** The liability of a person or persons to family trust distribution tax on the amount or value of a distribution, and (except in the case of a n"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-271/271-75.md",
+          "line": 38,
+          "text": "**(4)** Family trust distribution tax, when it becomes due and payable, is a debt due to the Commonwealth and payable to the Commissioner. Application"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-266/266-60.md",
+          "line": 32,
+          "text": "**(4)** If the trustee does not give the information within the period or within such further period as the Commissioner allows, the fixed trust is ta"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-267/267-90.md",
+          "line": 32,
+          "text": "**(4)** If the trustee does not give the information within the period or within such further period as the Commissioner allows, the primary trust is "
+        }
+      ],
+      "T5": [
+        {
+          "file": "itaa-1936/sections/part-iii/division-16e/159gqb.md",
+          "line": 36,
+          "text": "**(4)** In the formula in subsection (1), Periodic interest etc. means the sum of:"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-17/159zr.md",
+          "line": 53,
+          "text": "**(b)** in any other case\u2014the accrual year, or each of the accrual years, for the total arrears amount. salary or wages means payments covered by sect"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121at.md",
+          "line": 50,
+          "text": "**(b)** any deduction allowable from the disposer's assessable income in respect mentioned in section 6BA. of the acquisition of the share or interest"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121at.md",
+          "line": 83,
+          "text": "**(b)** any deduction allowable from the disposer's assessable income in respect mentioned in section 6BA. of the acquisition of the share or interest"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6d/102um.md",
+          "line": 46,
+          "text": "**Note:** Provisions dealing with the payment etc. of the tax under paragraph (a) (known as trustee beneficiary non-disclosure tax) are set out in Sub"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-6d/102uk.md",
+          "line": 73,
+          "text": "**Note:** Provisions dealing with the payment etc. of the tax under paragraph (a) (known as trustee beneficiary non-disclosure tax) are set out in Sub"
+        },
+        {
+          "file": "itaa-1936/sections/part-i/division-unknown/6.md",
+          "line": 869,
+          "text": "withholding tax has the same meaning as in the Income Tax Assessment Act 1997. work and income support related withholding payments and"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-272/272-140.md",
+          "line": 22,
+          "text": "**(1)** In this Schedule: abnormal trading has the meaning given by Subdivision 269-B. arrangement means any arrangement, agreement, understanding, pr"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-272/272-140.md",
+          "line": 31,
+          "text": "**(c)** a foreign state. group has the meaning given by subsection 269-95(5). income year includes a year of income. indirectly has a meaning affected"
+        }
+      ],
+      "T6": [
+        {
+          "file": "itaa-1936/sections/part-x/division-7/422.md",
+          "line": 63,
+          "text": "**(7)** The capital proceeds are increased by: Distributable profit           CFC asset profit \u00b4 reduction amount               Total asset profits wh"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170a.md",
+          "line": 60,
+          "text": "**(b)** the Commissioner has not completed the examination before the end of the later amendment period or that period as extended; the later amendmen"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 50,
+          "text": "Amendment of assessments Time of amendment                  Qualification on which he or she gives               other trust (in that capacity) is a f"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 149,
+          "text": "**(b)** the Commissioner has not completed the examination before the end of the limited amendment period or that period as extended; the limited amen"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170.md",
+          "line": 155,
+          "text": "**(b)** any failure of the taxpayer to take action that would have been reasonable for the taxpayer to take. Extensions of limited amendment period In"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/171a.md",
+          "line": 48,
+          "text": "**(b)** the taxpayer had no taxable               income or, if the taxpayer is a income because the taxpayer's             member of a consolidated g"
+        },
+        {
+          "file": "itaa-1936/sections/part-iv/division-unknown/170b.md",
+          "line": 84,
+          "text": "**(c)** just before the statement is made,         before 14 December 2013; or no return has been given, and no       (b) to the happening or existenc"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-3/63f.md",
+          "line": 45,
+          "text": "**(2)** The limit is worked out as follows: Step 1:      Take the amount of the previous debt in respect of the earliest or only writing off or debt/e"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-7a/109w.md",
+          "line": 35,
+          "text": "**(3)** When working out whether the private company is taken under section 109D to pay a dividend as a result of the notional loan, and the amount of"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-5/94.md",
+          "line": 189,
+          "text": "**(ii)** in a case where the aggregate of the relevant primary production deductions allowable in calculating the net income of the trust estate of th"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121ar.md",
+          "line": 18,
+          "text": "The following table lists the expressions defined in this Division and shows the provisions in which they are defined: Definition                     "
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121as.md",
+          "line": 22,
+          "text": "1 Any demutualisation method: Extinguishment of membership rights as                 A capital gain or capital loss arising from a CGT event constitut"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121as.md",
+          "line": 33,
+          "text": "**(b)** to have paid the amount in paragraph (a), and to have acquired the right disposed of, on the demutualisation resolution day. 4 Demutualisation"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121as.md",
+          "line": 43,
+          "text": "**(b)** to have paid the amount in paragraph (a), and to have acquired the interest disposed of, on the demutualisation resolution day. 5 Demutualisat"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121as.md",
+          "line": 61,
+          "text": "**(ii)** any consideration actually paid or given for the acquisition; and (For the purposes of the modifications relating            (b) to have paid"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121as.md",
+          "line": 77,
+          "text": "**(i)** if the disposal and all previous disposals of the demutualisation original shares and the non-demutualisation bonus shares, or interests in th"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121ag.md",
+          "line": 52,
+          "text": "**(2)** The following diagram shows the main events, where this demutualisation method is used involving an election covered by subparagraph (1)(c)(ii"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121al.md",
+          "line": 52,
+          "text": "**(2)** The following diagram shows the main events, where this demutualisation method is used involving an election covered by subparagraph (1)(c)(iv"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121ai.md",
+          "line": 58,
+          "text": "**(2)** The following diagram shows the main events, where this demutualisation method is used involving 2 trustees and an election covered by subpara"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-9aa/121ak.md",
+          "line": 46,
+          "text": "**(2)** The following diagram shows the main events, where this demutualisation method is used. Demutualisation method 6 Life insurance com pany Trans"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-1ab/24al.md",
+          "line": 18,
+          "text": "The following diagram is a guide to help work out whether a body is exempt from income tax under this Division: Is the body an STB? (See sections 24AO"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-1ab/24al.md",
+          "line": 20,
+          "text": "**Note:** The body may still be Is the body an excluded STB?                             exempt from tax under another (Does it satisfy at least one o"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-1ab/24aya.md",
+          "line": 47,
+          "text": "**(6)** If the sum is greater than that limit, so much of the deduction as is worked out using the following formula is not allowable: Amount of deduc"
+        },
+        {
+          "file": "itaa-1936/sections/part-iii/division-11a/128ac.md",
+          "line": 20,
+          "text": "**(1)** In this section: agreement means any agreement, arrangement or understanding, whether formal or informal, whether express or implied and wheth"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2h/division-326/326-155.md",
+          "line": 41,
+          "text": "**(d)** for the purpose of applying Subdivision 130-A of the Income Tax Assessment Act 1997, the amount paid for the acquisition of all the demutualis"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2d/division-57/57-110.md",
+          "line": 31,
+          "text": "**(2)** Each balancing adjustment provision and its related deduction rule are shown in an item of the table. Provisions of the Income Tax Assessment "
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-265/265-10.md",
+          "line": 20,
+          "text": "Trust Depending on the type of trust, the following                                       The trust is events occur:                                  "
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-266/266-20.md",
+          "line": 20,
+          "text": "Subdivision 266-B Fixed trust Change in ownership of the trust during a particular period Certain amounts in The trust must Earlier year loss of      "
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-266/266-10.md",
+          "line": 30,
+          "text": "Certain amounts in The trust has to calculate Earlier year loss of the                                              respect of debts its net income an"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-266/266-70.md",
+          "line": 20,
+          "text": "Subdivision 266-C Unlisted widely held trust Abnormal trading, or in some cases end of income year, together with change in ownership of the trust The"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-266/266-105.md",
+          "line": 20,
+          "text": "Subdivision 266-D Listed widely held trust Abnormal trading together with change in ownership and business The trust must Certain amounts in Earlier y"
+        },
+        {
+          "file": "itaa-1936/sections/schedule-2f/division-267/267-10.md",
+          "line": 20,
+          "text": "Division 267 Non-fixed trust Change in ownership or control of the trust The trust must calculate           Certain amounts in Earlier year loss of th"
+        }
+      ]
+    }
+  },
+  "gst-1999": {
+    "files_scanned": 831,
+    "files_with_issues": 11,
+    "issue_count": 22,
+    "issues": {
+      "T3": [
+        {
+          "file": "gst-1999/sections/part-5-1/division-177/177-20.md",
+          "line": 54,
+          "text": "**(5)** In this section: amending Act means the Treasury Laws Amendment (GST Low Value Goods) Act 2017. Productivity Minister means the Minister admin"
+        },
+        {
+          "file": "gst-1999/sections/part-4-2/division-100/100-5.md",
+          "line": 31,
+          "text": "**(2)** If the *consideration for supply of the voucher exceeds the *stated monetary value of the voucher, the consideration is treated (except for th"
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 95,
+          "text": "annual apportionment turnover threshold has the meaning given by subsection 131-5(2). annual GST liability, for an *instalment tax period, has the mea"
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 99,
+          "text": "annual tax period election means an election made under section 151-10. apply, in relation to a thing acquired or imported, has the meaning given by s"
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 117,
+          "text": "**(b)** a *taxable importation; means the GST *assessed on the taxable supply or taxable importation. assessed net amount, for a *tax period, means th"
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 236,
+          "text": "corrected input tax credit amount has the meaning given by paragraph 19-70(c). course materials, in relation to an *education course, means materials "
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 269,
+          "text": "CTP hybrid payment or supply has the meaning given by section 79-25. CTP premium, in relation to a *compulsory third party scheme, means:"
+        }
+      ],
+      "T4": [
+        {
+          "file": "gst-1999/sections/part-2-7/division-33/33-1.md",
+          "line": 20,
+          "text": "This Division is about your obligation to pay to the Commonwealth amounts of GST that remain after off-setting your entitlements to input tax credits."
+        },
+        {
+          "file": "gst-1999/sections/part-4-2/division-93/93-10.md",
+          "line": 34,
+          "text": "**(2)** Paragraph (1)(b) has effect despite section 11-20 (which is about entitlement to input tax credits). Amendment of assessments in relation to s"
+        }
+      ],
+      "T5": [
+        {
+          "file": "gst-1999/sections/part-4-2/division-79/79-95.md",
+          "line": 44,
+          "text": "**(c)** if the payment or supply is a payment or supply to which section 79-15 applies\u2014the accident or other incident to which the claim relates happe"
+        },
+        {
+          "file": "gst-1999/sections/part-4-2/division-84/84-77.md",
+          "line": 20,
+          "text": "Supplies of low value goods delivered etc. into the indirect tax zone by suppliers"
+        },
+        {
+          "file": "gst-1999/sections/part-4-2/division-84/84-77.md",
+          "line": 41,
+          "text": "**(c)** the operator of the platform delivers the goods into the indirect tax zone, or procures, arranges or facilitates the delivery of the goods int"
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 1371,
+          "text": "reviewable GST decision has the meaning given by Subdivision 110-F in Schedule 1 to the Taxation Administration Act 1953. satisfies the membership req"
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 1377,
+          "text": "**(b)** in relation to a *GST religious group\u2014has the meaning given by section 49-10. satisfies the participation requirements for a *GST joint ventur"
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 2485,
+          "text": "Endnotes Endnote 4\u2014Amendment history Endnote 4\u2014Amendment history Provision affected                                       How affected Chapter 1 Part "
+        }
+      ],
+      "T6": [
+        {
+          "file": "gst-1999/sections/part-2-5/division-23/23-1.md",
+          "line": 20,
+          "text": "This diagram shows when you are required to be, and when you may, be registered. Are you carrying on an enterprise? No                You can't be reg"
+        },
+        {
+          "file": "gst-1999/sections/part-2-4/division-19/19-5.md",
+          "line": 20,
+          "text": "The following diagram shows how an *adjustment event for a supply or acquisition can give rise to an *increasing adjustment or a *decreasing adjustmen"
+        },
+        {
+          "file": "gst-1999/sections/part-4-4/division-135/135-5.md",
+          "line": 31,
+          "text": "**(2)** The amount of the increasing adjustment is as follows: \u00b4 Supply price \u00b4 Proportion of 10                 non-creditable use where: proportion "
+        },
+        {
+          "file": "gst-1999/sections/part-unknown/division-5/5-5.md",
+          "line": 20,
+          "text": "The diagram on the next page shows how the basic rules in this Chapter relate to each other. It also shows their relationship with: \u2022 the exemptions ("
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 1925,
+          "text": "about any provision of the compiled law that has been repealed in accordance with a provision of the law. Editorial changes The Legislation Act 2003 a"
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 1928,
+          "text": "**(md)** = misdescribed amendment can be given                  SR = Statutory Rules effect                                                    sub ch "
+        },
+        {
+          "file": "gst-1999/sections/part-6-3/division-195/195-1.md",
+          "line": 2485,
+          "text": "Endnotes Endnote 4\u2014Amendment history Endnote 4\u2014Amendment history Provision affected                                       How affected Chapter 1 Part "
+        }
+      ]
+    }
+  },
+  "taa-1953": {
+    "files_scanned": 1243,
+    "files_with_issues": 33,
+    "issue_count": 47,
+    "issues": {
+      "T3": [
+        {
+          "file": "taa-1953/sections/part-schedule1/division-45/45-232.md",
+          "line": 30,
+          "text": "**(2)** You are liable to pay the *general interest charge on the amount worked out as follows (if it is a positive amount): *Acceptable amount of the"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-45/45-485.md",
+          "line": 23,
+          "text": "**(2)** For the purposes of the formula in subsection (1): net withholding income of the trust means: \u2022 the total of the amounts included in the trust"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-12/12-450.md",
+          "line": 71,
+          "text": "**(6)** This subsection applies to the part of a *capital gain mentioned in paragraph (5)(c) worked out as follows: Amount of the *capital gain \u00b4 Valu"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-97/97-30.md",
+          "line": 26,
+          "text": "**(b)** ending on the day the Commissioner makes the first *excess non-concessional contributions determination you receive for the contributions year"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-18/18-25.md",
+          "line": 35,
+          "text": "**(3)** The amount of the credit is worked out using the formula: Share of net income Amounts withheld \u00b4 Net income where: net income means so much of"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-18/18-25.md",
+          "line": 50,
+          "text": "**(5)** The amount of the credit is worked out using the formula: Share of net income Amounts withheld \u00b4 Net income where: net income means so much of"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-18/18-25.md",
+          "line": 65,
+          "text": "**(7)** The amount of the credit is worked out using the formula: Part of net income Amounts withheld \u00b4 Net income where: net income means so much of "
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-18/18-20.md",
+          "line": 32,
+          "text": "**(2)** The amount of the credit is worked out using the formula: Collection and recovery of income tax and other liabilities Schedule 1 Collection, r"
+        },
+        {
+          "file": "taa-1953/sections/part-ia/division-unknown/3e.md",
+          "line": 50,
+          "text": "**(7)** In this section: PRRT return means a return under section 59 or 60 of the Petroleum Resource Rent Tax Assessment Act 1987. year of tax has the"
+        },
+        {
+          "file": "taa-1953/sections/part-iii/division-2/8wc.md",
+          "line": 41,
+          "text": "**(2)** In this section: investment means an investment of a kind mentioned in section 202D of the Income Tax Assessment Act 1936. investor means an i"
+        },
+        {
+          "file": "taa-1953/sections/part-ivc/division-2/14zq.md",
+          "line": 18,
+          "text": "In this Part: ART means the Administrative Review Tribunal. ART Act means the Administrative Review Tribunal Act 2024. ART extension application means"
+        },
+        {
+          "file": "taa-1953/sections/part-ivc/division-2/14zq.md",
+          "line": 30,
+          "text": "**(b)** subsection 260-145(5) in Schedule 1 (because of paragraph (b) of that subsection). extension of time refusal decision means a decision of the "
+        },
+        {
+          "file": "taa-1953/sections/part-ivc/division-2/14zq.md",
+          "line": 36,
+          "text": "**(b)** made in relation to a small business entity (within the meaning of the Income Tax Assessment Act 1997). taxation decision means the assessment"
+        },
+        {
+          "file": "taa-1953/sections/part-iva/division-1/14q.md",
+          "line": 26,
+          "text": "**(b)** a member of the Australian Federal Police. departure authorization certificate means a certificate under subsection 14U(1). departure prohibit"
+        },
+        {
+          "file": "taa-1953/sections/part-i/division-unknown/2.md",
+          "line": 20,
+          "text": "**(1)** In this Act (except Schedule 1), unless the contrary intention appears: approved form has the meaning given by Schedule 1. ASIO means the Aust"
+        },
+        {
+          "file": "taa-1953/sections/part-i/division-unknown/2.md",
+          "line": 26,
+          "text": "**(b)** omit to perform an act. excess concessional contributions determination has the same meaning as in subsection 995-1(1) of the Income Tax Asses"
+        },
+        {
+          "file": "taa-1953/sections/part-i/division-unknown/2.md",
+          "line": 32,
+          "text": "**(b)** an employee of the Immigration Department. objection decision has the meaning given by subsection 14ZY(2). officer means a person appointed or"
+        },
+        {
+          "file": "taa-1953/sections/part-i/division-unknown/2.md",
+          "line": 34,
+          "text": "**Note:** See also subsection (2). tax liability means a liability to the Commonwealth arising under, or by virtue of, a taxation law. Tax Practitione"
+        },
+        {
+          "file": "taa-1953/sections/part-iiia/division-1/13d.md",
+          "line": 38,
+          "text": "**(b)** a person, not being a State Minister, authorised by writing signed by a person or authority referred to in paragraph (a) to act under this Par"
+        },
+        {
+          "file": "taa-1953/sections/part-iib/division-1/8aaza.md",
+          "line": 50,
+          "text": "**(f)** any other person. excess non-RBA credit means a credit that arises under section 8AAZLA or 8AAZLB. FS assessment debt means an FS assessment d"
+        },
+        {
+          "file": "taa-1953/sections/part-iib/division-1/8aaza.md",
+          "line": 56,
+          "text": "**(b)** the Student Assistance Act 1973 as in force at a time on or after 1 July 1998. non-entity joint venture has the meaning given by subsection 99"
+        },
+        {
+          "file": "taa-1953/sections/part-v/division-unknown/17.md",
+          "line": 20,
+          "text": "**(1)** In this section: decimal currency means the currency provided for by the Currency Act 1965. law of the Commonwealth has the same meaning as in"
+        }
+      ],
+      "T4": [
+        {
+          "file": "taa-1953/sections/part-schedule1/division-15/15-15.md",
+          "line": 26,
+          "text": "**Note:** Section 12-145 is about an investor becoming presently entitled to income of a unit trust. Note 3A:      Subdivision 12-FC is about certain "
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-342/342-5.md",
+          "line": 20,
+          "text": "**Note:** The Commissioner may also exercise other powers so as to facilitate the starting, conduct and ending of proceedings under the Proceeds of Cr"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-45/45-120.md",
+          "line": 23,
+          "text": "**Note:** No other amount is instalment income unless it is covered by another provision of this section or by Subdivision 45-H or 45-I. Note 1A:     "
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-12/12-175.md",
+          "line": 70,
+          "text": "**Note:** The trustee commits an offence if the trustee fails to withhold an amount as required by this section: see section 16-25. Application of res"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-12/12-180.md",
+          "line": 49,
+          "text": "**Note:** The trustee commits an offence if the trustee fails to withhold an amount as required by this section: see section 16-25. Application of res"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-155/155-35.md",
+          "line": 40,
+          "text": "**(b)** if the period of review is extended under subsection (3) or (4) of this section\u2014the period as so extended. Extensions"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-426/426-50.md",
+          "line": 21,
+          "text": "**(1)** If, apart from this subsection, section 426-40 or 426-45 would impose an obligation on a partnership, the obligation is imposed on each partne"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-16/16-5.md",
+          "line": 20,
+          "text": "**Note:** An entity is required to withhold an amount under section 12-145 when an investor becomes presently entitled to income of a unit trust. Note"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-16/16-195.md",
+          "line": 36,
+          "text": "**(c)** Subdivision 12-H (about distributions of withholding MIT income); may recover an amount equal to the amount of penalty from the person liable "
+        },
+        {
+          "file": "taa-1953/sections/part-ia/division-unknown/3d.md",
+          "line": 104,
+          "text": "**(6)** For the purposes of paragraph (5)(b), the Commissioner may give notice in writing to a government related entity (within the meaning of the A "
+        },
+        {
+          "file": "taa-1953/sections/part-ia/division-unknown/3da.md",
+          "line": 134,
+          "text": "**(b)** if audited consolidated financial statements for the entity for the reporting period have not been prepared\u2014amounts that would be, on the assu"
+        },
+        {
+          "file": "taa-1953/sections/part-i/division-unknown/3aa.md",
+          "line": 20,
+          "text": "**(1)** Schedule 1 has effect. Definitions in Schedule 1 do not apply to rest of Act"
+        },
+        {
+          "file": "taa-1953/sections/part-i/division-unknown/3aa.md",
+          "line": 23,
+          "text": "**(1A)**  So far as a provision in Schedule 1 gives an expression a particular meaning, the provision does not also have effect for the purposes of th"
+        }
+      ],
+      "T5": [
+        {
+          "file": "taa-1953/sections/part-ivc/division-2/14zq.md",
+          "line": 30,
+          "text": "**(b)** subsection 260-145(5) in Schedule 1 (because of paragraph (b) of that subsection). extension of time refusal decision means a decision of the "
+        }
+      ],
+      "T6": [
+        {
+          "file": "taa-1953/sections/part-schedule1/division-134/134-15.md",
+          "line": 20,
+          "text": "**(1)** For the purposes of section 134-10, the amount of your *assessed Division 296 tax for an income year attributable to a *superannuation interes"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-268/268-40.md",
+          "line": 38,
+          "text": "**(b)** serve a copy on the Commissioner                   (b) a longer period allowed by the court. Collection and recovery of income tax and other l"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-389/389-5.md",
+          "line": 30,
+          "text": "**(a)** an amount the entity must withhold                 is required to be withheld under Subdivision 12-B (other than                 (regardless o"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-389/389-5.md",
+          "line": 40,
+          "text": "**(a)** an amount (other than an amount                    mentioned in column 1. covered by item 1) paid, on a particular day, by the entity that con"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-389/389-5.md",
+          "line": 53,
+          "text": "**(a)** an amount (other than an amount                  mentioned in column 1. covered by item 1) paid, on a particular day, by the entity that const"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-288/288-80.md",
+          "line": 45,
+          "text": "**(4)** The amount is: Foreign membership Applicable                                              interests \u00b4 Excess referred to \u00b4 withholding tax rat"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-355/355-65.md",
+          "line": 176,
+          "text": "**(b)** a public sector                               (i) a beneficiary (within the superannuation scheme                              meaning of the "
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-284/284-160.md",
+          "line": 48,
+          "text": "**(b)** 25% of your scheme shortfall amount, to carried out the *scheme, or              the extent (if any) that it is attributable to part of it, di"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-97/97-30.md",
+          "line": 26,
+          "text": "**(b)** ending on the day the Commissioner makes the first *excess non-concessional contributions determination you receive for the contributions year"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-396/396-55.md",
+          "line": 36,
+          "text": "**(ii)** such other time after the end of that period as the Commissioner specifies by legislative instrument for that item; unless section 396-65, or"
+        },
+        {
+          "file": "taa-1953/sections/part-schedule1/division-396/396-55.md",
+          "line": 92,
+          "text": "**(ii)** is for the purposes of a *business carried on by the entity Collection and recovery of income tax and other liabilities Schedule 1 Administra"
+        }
+      ]
+    }
+  },
+  "fbt-1986": {
+    "files_scanned": 289,
+    "files_with_issues": 12,
+    "issue_count": 22,
+    "issues": {
+      "T3": [
+        {
+          "file": "fbt-1986/sections/part-iii/division-13/53.md",
+          "line": 41,
+          "text": "**(3)** In this section: car expense payment benefit means an expense payment benefit where the recipients expenditure is a car expense. car property "
+        },
+        {
+          "file": "fbt-1986/sections/part-xia/division-2/135c.md",
+          "line": 53,
+          "text": "**(5)** In subsection (4): earlier December year means the period of 12 months immediately before the most recent December year. index number, for a q"
+        },
+        {
+          "file": "fbt-1986/sections/part-xii/division-unknown/140.md",
+          "line": 114,
+          "text": "**(3)** In this section: census population, in relation to an urban centre, means the census count on an actual location basis of the population of th"
+        },
+        {
+          "file": "fbt-1986/sections/part-xii/division-unknown/152a.md",
+          "line": 75,
+          "text": "**(9)** The deductible proportion of a benefit is the percentage worked out using the formula: Gross deduction \u00b4 100% Gross expenditure where: gross d"
+        },
+        {
+          "file": "fbt-1986/sections/part-xid/division-unknown/136.md",
+          "line": 21,
+          "text": "**(1)** In this Act, unless the contrary intention appears: ABN has the meaning given by the A New Tax System (Australian Business Number) Act 1999. a"
+        },
+        {
+          "file": "fbt-1986/sections/part-xid/division-unknown/136.md",
+          "line": 36,
+          "text": "**(b)** a person declared by the Commissioner, by notice in writing served on the person, to be an agent or the sole agent of a person for the purpose"
+        },
+        {
+          "file": "fbt-1986/sections/part-xid/division-unknown/136.md",
+          "line": 42,
+          "text": "**(b)** is provided subject to the stand-by restrictions that customarily apply in relation to the provision of airline transport to employees in the "
+        },
+        {
+          "file": "fbt-1986/sections/part-xid/division-unknown/136.md",
+          "line": 48,
+          "text": "**(b)** any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise. assessable income has the meaning "
+        },
+        {
+          "file": "fbt-1986/sections/part-xid/division-unknown/136.md",
+          "line": 65,
+          "text": "**(e)** premises, or a part of premises, used as a place of residence of an employee of the person or an employee of an associate of the person. Austr"
+        },
+        {
+          "file": "fbt-1986/sections/part-iia/division-1/5b.md",
+          "line": 122,
+          "text": "**(3)** In this section: FBT rate means the rate of fringe benefits tax for the year of tax. GST rate means the rate of goods and services tax payable"
+        },
+        {
+          "file": "fbt-1986/sections/part-vii/division-2/111.md",
+          "line": 35,
+          "text": "**(1A)**  For the purposes of the formula in subsection (1): notional tax amount means the employer's notional tax amount for the year of tax, as at t"
+        },
+        {
+          "file": "fbt-1986/sections/part-iiia/division-unknown/65j.md",
+          "line": 305,
+          "text": "**(6)** In this section: FBT rate means the rate of fringe benefits tax for the year of tax. GST rate means the rate of goods and services tax payable"
+        }
+      ],
+      "T4": [
+        {
+          "file": "fbt-1986/sections/part-iii/division-13/58ga.md",
+          "line": 75,
+          "text": "**(f)** the benefit is an exempt benefit only if that estimate is less than $10 million. Definitions"
+        },
+        {
+          "file": "fbt-1986/sections/part-iia/division-1/5b.md",
+          "line": 119,
+          "text": "**Note:** Section 135G allows the fringe benefits taxable amount to be worked out using the employer's aggregate fringe benefits amount from an earlie"
+        },
+        {
+          "file": "fbt-1986/sections/part-iiia/division-unknown/65j.md",
+          "line": 302,
+          "text": "**(ii)** an authority or institution of the Commonwealth, a State or a Territory. Definitions"
+        }
+      ],
+      "T5": [
+        {
+          "file": "fbt-1986/sections/part-xid/division-unknown/136.md",
+          "line": 1180,
+          "text": "**(iii)** the eligibility of other employees of the employer to be awarded benefits in recognition of their special achievements in occupational healt"
+        },
+        {
+          "file": "fbt-1986/sections/part-xid/division-unknown/136.md",
+          "line": 1501,
+          "text": "**(b)** travel by the employee that is incidental to travel in the course of performing the duties of his or her employment. year of income means an i"
+        }
+      ],
+      "T6": [
+        {
+          "file": "fbt-1986/sections/part-xib/division-unknown/135p.md",
+          "line": 28,
+          "text": "**(2)** The reportable fringe benefits amount is the amount worked out using the formula: Individual fringe \u00b4                 1 benefits amount     1 "
+        },
+        {
+          "file": "fbt-1986/sections/part-iii/division-10a/39fa.md",
+          "line": 41,
+          "text": "**(4)** The spaces method is: Step 1:       Work out an amount using the following formula, for each space for which there is, in the FBT year, at lea"
+        },
+        {
+          "file": "fbt-1986/sections/part-xii/division-unknown/167.md",
+          "line": 45,
+          "text": "Endnotes Endnote 1\u2014About the endnotes Endnotes Endnote 1\u2014About the endnotes The endnotes provide information about this compilation and the compiled l"
+        },
+        {
+          "file": "fbt-1986/sections/part-xii/division-unknown/167.md",
+          "line": 48,
+          "text": "**(md)** = misdescribed amendment can be given                  SLI = Select Legislative Instrument effect                                            "
+        },
+        {
+          "file": "fbt-1986/sections/part-xii/division-unknown/167.md",
+          "line": 809,
+          "text": "**(1)** Subject to this section, this Act commences on the day on which it receives the Royal Assent. Endnotes Endnote 4\u2014Amendment history Endnote 4\u2014A"
+        }
+      ]
+    }
+  },
+  "sis-1993": {
+    "files_scanned": 632,
+    "files_with_issues": 18,
+    "issue_count": 31,
+    "issues": {
+      "T3": [
+        {
+          "file": "sis-1993/sections/part-8/division-1/71a.md",
+          "line": 59,
+          "text": "**(3)** For the purposes of working out the formula component Number of whole dollars in value of in-house assets of the fund under section 75 at the "
+        },
+        {
+          "file": "sis-1993/sections/part-8/division-1/71e.md",
+          "line": 76,
+          "text": "**(4)** For the purposes of working out the formula component Number of whole dollars in value of in-house assets of the fund under section 75 at the "
+        },
+        {
+          "file": "sis-1993/sections/part-8/division-1/71f.md",
+          "line": 18,
+          "text": "In this Subdivision: test time means the end of 11 August 1999. transition period means the period:"
+        },
+        {
+          "file": "sis-1993/sections/part-1/division-2/10.md",
+          "line": 20,
+          "text": "**(1)** In this Act, unless the contrary intention appears: ABN has the meaning given by section 41 of the A New Tax System (Australian Business Numbe"
+        },
+        {
+          "file": "sis-1993/sections/part-1/division-2/10.md",
+          "line": 26,
+          "text": "> **(b)** a State bank. administration fee has the meaning given by subsection 29V(2). adopted child, in relation to a person, means a person adopted "
+        },
+        {
+          "file": "sis-1993/sections/part-1/division-2/10.md",
+          "line": 41,
+          "text": "> **(c)** is maintained solely for approved purposes. approved form has the meaning given by section 11A. approved guarantee has the meaning given by "
+        },
+        {
+          "file": "sis-1993/sections/part-1/division-2/10.md",
+          "line": 71,
+          "text": "> **(b)** a person who is disqualified from being or acting as an auditor of all superannuation entities under section 130D. APRA means the Australian"
+        },
+        {
+          "file": "sis-1993/sections/part-1/division-2/10.md",
+          "line": 80,
+          "text": "> **(c)** a court of a State or Territory. Australian resident means a person who is a resident of Australia for the purposes of the Income Tax Assess"
+        },
+        {
+          "file": "sis-1993/sections/part-11a/division-unknown/99g.md",
+          "line": 36,
+          "text": "**(2)** If the member holds the product for the whole year, the trustee or trustees of the fund must not charge capped fees and costs to the member in"
+        },
+        {
+          "file": "sis-1993/sections/part-24a/division-unknown/250.md",
+          "line": 18,
+          "text": "In this Part: eligible transitional fund means a fund that was, at any time before 1 July 1995, an eligible rollover fund within the meaning of old Pa"
+        },
+        {
+          "file": "sis-1993/sections/part-27/division-unknown/310.md",
+          "line": 66,
+          "text": "> **(e)** a trustee or other person administering a compromise or arrangement made between the corporate trustee and another person or other persons. "
+        },
+        {
+          "file": "sis-1993/sections/part-24b/division-3/252g.md",
+          "line": 106,
+          "text": "**(6)** In this section: amount means an amount of levy or an amount of late payment penalty. designated year of income means the 1999-2000 year of in"
+        }
+      ],
+      "T4": [
+        {
+          "file": "sis-1993/sections/part-24/division-3/243.md",
+          "line": 30,
+          "text": "> **(c)** the conditions specified in the regulations are satisfied. Application to eligible rollover fund"
+        },
+        {
+          "file": "sis-1993/sections/part-8/division-1/71e.md",
+          "line": 87,
+          "text": "> **Note:** This means that if a fund makes an election, this section would apply to all investments in the entity after the test time and before 1 Ju"
+        },
+        {
+          "file": "sis-1993/sections/part-8/division-1/70e.md",
+          "line": 54,
+          "text": "> **(d)** 2 or more Part 8 associates of the entity acting together. Definitions"
+        },
+        {
+          "file": "sis-1993/sections/part-1/division-2/20a.md",
+          "line": 42,
+          "text": "> > **(ii)** income or accretions arising from those deposits. Total assets of fund means the value of the assets of the fund at that time. Definition"
+        },
+        {
+          "file": "sis-1993/sections/part-7/division-unknown/66.md",
+          "line": 114,
+          "text": "**(4)** A person who contravenes subsection (1) or (3) commits an offence punishable on conviction by imprisonment for a term not exceeding 1 year. De"
+        },
+        {
+          "file": "sis-1993/sections/part-14/division-unknown/117.md",
+          "line": 111,
+          "text": "**(8)** A reference in this section to the payment of an amount out of a standard employer-sponsored fund to a standard employer-sponsor does not incl"
+        },
+        {
+          "file": "sis-1993/sections/part-24a/division-unknown/251.md",
+          "line": 26,
+          "text": "> **(b)** has the corresponding rights against the eligible transitional fund in respect of those benefits. Transitional provisions relating to pre-1 "
+        },
+        {
+          "file": "sis-1993/sections/part-27/division-unknown/310.md",
+          "line": 48,
+          "text": "> **(b)** the Court has the same power to grant relief as it would have under subsection (1) if it had been a court before which proceedings against t"
+        },
+        {
+          "file": "sis-1993/sections/part-24b/division-3/252g.md",
+          "line": 103,
+          "text": "> **(b)** prescribing that, in specified circumstances, an amount is taken to be payable by a trustee of a superannuation fund to APRA rather than to "
+        },
+        {
+          "file": "sis-1993/sections/part-9/division-unknown/92.md",
+          "line": 108,
+          "text": "> **(d)** the trustee is not an associate of a standard employer-sponsor of the fund. Transitional"
+        },
+        {
+          "file": "sis-1993/sections/part-9/division-unknown/91.md",
+          "line": 54,
+          "text": "**(4)** If the fund is not a public offer superannuation fund, the fund must comply with the basic equal representation rules. Transitional"
+        },
+        {
+          "file": "sis-1993/sections/part-9/division-unknown/93.md",
+          "line": 45,
+          "text": "**(4)** If the fund is not a public offer superannuation fund, the fund must comply with the basic equal representation rules. Transitional"
+        }
+      ],
+      "T5": [
+        {
+          "file": "sis-1993/sections/part-1/division-2/10.md",
+          "line": 119,
+          "text": "> **(b)** a financial corporation formed within the limits of the Commonwealth (within the meaning of paragraph 51(xx) of the Constitution). contribut"
+        },
+        {
+          "file": "sis-1993/sections/part-1/division-2/10.md",
+          "line": 704,
+          "text": "> **(e)** any other provisions of any other law of the Commonwealth specified in regulations made for the purposes of this paragraph. salary or wages "
+        }
+      ],
+      "T6": [
+        {
+          "file": "sis-1993/sections/part-8/division-1/71e.md",
+          "line": 76,
+          "text": "**(4)** For the purposes of working out the formula component Number of whole dollars in value of in-house assets of the fund under section 75 at the "
+        },
+        {
+          "file": "sis-1993/sections/part-11a/division-unknown/99g.md",
+          "line": 63,
+          "text": "**(5)** If the member holds the product for only part of the year, the trustee or trustees of the fund must not charge capped fees and costs to the me"
+        },
+        {
+          "file": "sis-1993/sections/part-32/division-unknown/381.md",
+          "line": 26,
+          "text": "**(2)** This Act has effect, after 30 June 1994, as if the beneficiary or member had quoted that tax file number to the trustee under subsections 225("
+        },
+        {
+          "file": "sis-1993/sections/part-32/division-unknown/381.md",
+          "line": 29,
+          "text": "> **(md)** = misdescribed amendment can be given                   SLI = Select Legislative Instrument effect                                         "
+        },
+        {
+          "file": "sis-1993/sections/part-32/division-unknown/381.md",
+          "line": 772,
+          "text": "Endnotes Endnote 4\u2014Amendment history Endnote 4\u2014Amendment history Provision affected                                        How affected Part 1 Divisio"
+        }
+      ]
+    }
+  },
+  "corporations-act-2001": {
+    "files_scanned": 4163,
+    "files_with_issues": 18,
+    "issue_count": 19,
+    "issues": {
+      "T3": [
+        {
+          "file": "corporations-act-2001/sections/part-7/division-7.11/1073F.md",
+          "line": 49,
+          "text": "**(7)** A transfer of a security by or to a trustee or legal representative may be effected by means of a transfer in accordance with regulations made"
+        }
+      ],
+      "T5": [
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1400.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1403.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1407.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1397.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1405.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1398.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1404.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1408.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1401.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1402.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1399.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-10/division-10.1/1406.md",
+          "line": 7,
+          "text": "division_title: \"Division 6\u2014General transitional provisions relating to other things done etc. under the old corporations legislation\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-2C/division-2C/169.md",
+          "line": 47,
+          "text": "**Note 1:** Transfers of shares are entered in the register under section 1071D. Section 1072E deals with the registration of trustees etc. on the dea"
+        },
+        {
+          "file": "corporations-act-2001/sections/part-7/division-7.8/985G.md",
+          "line": 9,
+          "text": "section_title: \"Reasonable inquiries etc. about the retail client\""
+        },
+        {
+          "file": "corporations-act-2001/sections/part-7/division-7.8/985G.md",
+          "line": 15,
+          "text": "# 985G Reasonable inquiries etc. about the retail client"
+        },
+        {
+          "file": "corporations-act-2001/sections/part-7/division-7.1/761E.md",
+          "line": 58,
+          "text": "**Note 2:** Although each party to the derivative is an issuer, whether any particular party has disclosure or other obligations under this Chapter wi"
+        },
+        {
+          "file": "corporations-act-2001/sections/part-7/division-7.10A/1055.md",
+          "line": 41,
+          "text": "Varying etc. decisions or conduct"
+        },
+        {
+          "file": "corporations-act-2001/sections/part-9/division-9.4AA/1317DAF.md",
+          "line": 39,
+          "text": "No contravention etc. by the disclosing entity"
+        }
+      ]
+    }
+  },
+  "aml-ctf-2006": {
+    "files_scanned": 321,
+    "files_with_issues": 1,
+    "issue_count": 5,
+    "issues": {
+      "T3": [
+        {
+          "file": "aml-ctf-2006/sections/part-1/division-1/5.md",
+          "line": 41,
+          "text": "**(c)** a Department of a Territory is taken to be an agency of the Territory for the purposes of this Act. **AGO means that part of the Defence Depar"
+        },
+        {
+          "file": "aml-ctf-2006/sections/part-1/division-1/5.md",
+          "line": 61,
+          "text": "**(b)** any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise. **ASD means the Australian Signals"
+        },
+        {
+          "file": "aml-ctf-2006/sections/part-1/division-1/5.md",
+          "line": 127,
+          "text": "**(b)** a law of a foreign country or a part of a foreign country. **bullion includes anything that, under the regulations, is taken to be bullion for"
+        },
+        {
+          "file": "aml-ctf-2006/sections/part-1/division-1/5.md",
+          "line": 131,
+          "text": "**(b)** if the designated service is provided over a period of time\u2014begin to provide the service. **commercial goods carrier means a person who, in th"
+        },
+        {
+          "file": "aml-ctf-2006/sections/part-1/division-1/5.md",
+          "line": 135,
+          "text": "**(b)** a place in a Territory, where the place is owned by the Commonwealth. **Commonwealth Royal Commission means a Royal Commission within the mean"
+        }
+      ]
+    }
+  },
+  "nz-it-2007": {
+    "files_scanned": 3295,
+    "files_with_issues": 4,
+    "issue_count": 5,
+    "issues": {
+      "T4": [
+        {
+          "file": "nz-it-2007/sections/part-G/division-GC/GC-21.md",
+          "line": 89,
+          "text": "**(10)** If subsections (1)\ufeff(a) and (5) apply to person B and if allocation notification occurs in an income year after the purchase year, then pre-al"
+        },
+        {
+          "file": "nz-it-2007/sections/part-G/division-GC/GC-21.md",
+          "line": 129,
+          "text": "- (c) tax book value, for a class of property, means the total amount that person A uses or would use, for purchased property in the class of property"
+        },
+        {
+          "file": "nz-it-2007/sections/part-C/division-CW/CW-16C.md",
+          "line": 55,
+          "text": "**(5)** A time limit does not apply if exceptional circumstances arise beyond the control of the employer and employee that require the employee to re"
+        },
+        {
+          "file": "nz-it-2007/sections/part-H/division-HC/HC-31.md",
+          "line": 15,
+          "text": "**(1)** This section applies if, through a change in circumstances, an amount derived by a trustee of a trust on a day in an income year is assessable"
+        },
+        {
+          "file": "nz-it-2007/sections/part-H/division-HC/HC-36.md",
+          "line": 41,
+          "text": "**(4)** Subsection (3) does not apply if services are provided to the trust by a relative, guardian, or associated person, unless those services are i"
+        }
+      ]
+    }
+  }
+}
