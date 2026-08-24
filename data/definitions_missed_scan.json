@@ -1,0 +1,822 @@
+{
+  "itaa-1936": {
+    "section": "6",
+    "candidates_extracted": 203,
+    "high_confidence_misses": [
+      "shareholders' funds",
+      "Veterans' Affairs Secretary",
+      "exertion",
+      "life assurance company",
+      "life assurance policy",
+      "life assurance premium",
+      "benefits"
+    ],
+    "possible_misses": [
+      "adjusted fringe benefits total",
+      "constituent document",
+      "full self-assessment taxpayer",
+      "insurance funds",
+      "interest income",
+      "passive commodity gain",
+      "PDF component",
+      "way as it applies to agents"
+    ],
+    "recovered_fragments": [
+      {
+        "full": "threshold",
+        "as_captured": "hold"
+      },
+      {
+        "full": "passive commodity gain",
+        "as_captured": "ssive commodity gain"
+      },
+      {
+        "full": "Medicare",
+        "as_captured": "care"
+      }
+    ],
+    "missed_count": 10,
+    "possible_count": 8
+  },
+  "itaa-1936-s317": {
+    "section": "317",
+    "candidates_extracted": 118,
+    "high_confidence_misses": [
+      "accounting period"
+    ],
+    "possible_misses": [
+      "accruals tax law",
+      "Australian 1% entity",
+      "company title interest",
+      "distributable profits",
+      "grossed-up amount",
+      "residency assumption",
+      "sale",
+      "tainted commodity investment",
+      "tainted interest income",
+      "tainted royalty income",
+      "currency exchange gain",
+      "currency exchange loss",
+      "non-attributable income period",
+      "special excluded rental income",
+      "tainted commodity gain",
+      "tainted commodity loss",
+      "tainted currency exchange gain",
+      "tainted currency exchange loss"
+    ],
+    "recovered_fragments": [
+      {
+        "full": "exchange gain",
+        "as_captured": "nge gain"
+      },
+      {
+        "full": "exchange loss",
+        "as_captured": "nge loss"
+      },
+      {
+        "full": "rental income",
+        "as_captured": "l income"
+      },
+      {
+        "full": "commodity gain",
+        "as_captured": "ity gain"
+      },
+      {
+        "full": "commodity loss",
+        "as_captured": "ity loss"
+      }
+    ],
+    "missed_count": 6,
+    "possible_count": 18
+  },
+  "itaa-1997": {
+    "section": "995-1",
+    "candidates_extracted": 1667,
+    "high_confidence_misses": [
+      "alteration time for a company",
+      "down interests",
+      "up interests",
+      "for a company",
+      "for a trust",
+      "arm's length conditions",
+      "arm's length profits",
+      "assessable labour income",
+      "Australian IIR/UTPR tax",
+      "Australian IIR/UTPR tax amount",
+      "Australian IIR/UTPR tax return",
+      "Australian/overseas fund",
+      "Commissioner's instalment rate",
+      "trading stock changing hands",
+      "Applicable MNE Group",
+      "debt capital",
+      "deduction/deduction mismatch",
+      "deduction/non-inclusion mismatch",
+      "deferred non-residential capital gain",
+      "deferred residential capital gain",
+      "ESS interest",
+      "financial entity, at a particular time",
+      "forgiven",
+      "indexation factor",
+      "index number",
+      "individual base superannuation guarantee shortfall",
+      "individual final superannuation guarantee shortfall",
+      "Part VA investment",
+      "at a particular time",
+      "minimum tax capital gain",
+      "minimum tax gap amount",
+      "mining, quarrying or prospecting information",
+      "net forgiven amount",
+      "non-residential capital gain",
+      "NRAS consortium",
+      "on-lent amount",
+      "franking returns",
+      "In Subdivision 52-E, pension age",
+      "life insurance policies",
+      "post-17/8/93 period",
+      "pre-16/8/78 period",
+      "pre-18/8/93 period",
+      "fringe benefit or economic benefit",
+      "QE day",
+      "D entity",
+      "D partnership",
+      "changeover time",
+      "in a company",
+      "NRAS rent",
+      "specified child abuse offence",
+      "trust component",
+      "you",
+      "averaging adjustment",
+      "averaging component",
+      "core R&D activities",
+      "distribution, by a *corporate tax entity",
+      "price",
+      "R&D activities",
+      "R&D entity",
+      "R&D partnership",
+      "applies",
+      "subject to foreign tax",
+      "supporting R&D activities",
+      "untaxed plan cap amount",
+      "Security official)"
+    ],
+    "possible_misses": [
+      "assessable FHSS released amount",
+      "Australian permanent establishment",
+      "carry-forward trust component deficit",
+      "corporate tax gross-up rate",
+      "corporate tax rate for imputation purposes",
+      "cross-character allocation amount",
+      "FITO allocation amount",
+      "of working out whether a company",
+      "income for surcharge purposes",
+      "issue pool",
+      "long term bond rate",
+      "maximum exempt",
+      "overseas permanent establishment",
+      "partnership cost setting interest",
+      "Petroleum Exploration Permit WA-523-P permit",
+      "prudential capital deduction",
+      "put to a tax preferred use",
+      "registered auditor",
+      "risk-weighted assets",
+      "tier 1 prudential capital deduction",
+      "trust component deficit",
+      "your",
+      "approved investment plan",
+      "base value",
+      "cessation event",
+      "common",
+      "Constituent Entity",
+      "correction notice",
+      "crystallised pre-July 83 amount",
+      "date of the settlement or order",
+      "debit value",
+      "deferral reversal",
+      "deferred to a debt account",
+      "ESS deferred taxing point",
+      "expand",
+      "foreign tax period",
+      "forgiveness income year",
+      "GloBE Main Entity",
+      "GloBE Ultimate Parent Entity",
+      "goes for at least 4 hours",
+      "Group Entity",
+      "guarantee period",
+      "importing payment",
+      "initial reconciliation period",
+      "invalidity segment",
+      "JPDA (short for Joint Petroleum Development",
+      "luxury car lease payment",
+      "make",
+      "maximum available release amount",
+      "MBL reporting day",
+      "minimum holding period",
+      "net small business income",
+      "non-compulsory",
+      "ongoing development",
+      "party",
+      "personal services business",
+      "policy termination value",
+      "pre-July 83 segment",
+      "scheme for a disposition",
+      "special conversion event",
+      "special value",
+      "spread entity",
+      "sub-fund",
+      "subject to deemed loan treatment",
+      "superannuation provider",
+      "taxable dealing",
+      "total release amount",
+      "valuation days",
+      "worldwide capital amount",
+      "new residential dwelling",
+      "residential dwelling"
+    ],
+    "recovered_fragments": [
+      {
+        "full": "an entity",
+        "as_captured": "n entity"
+      },
+      {
+        "full": "working out whether a company",
+        "as_captured": "rking out whether a company"
+      },
+      {
+        "full": "non-residential capital gain",
+        "as_captured": "residential capital gain"
+      },
+      {
+        "full": "dividends",
+        "as_captured": "ends"
+      },
+      {
+        "full": "stakeholder",
+        "as_captured": "holder"
+      },
+      {
+        "full": "imported",
+        "as_captured": "ported"
+      }
+    ],
+    "missed_count": 71,
+    "possible_count": 71
+  },
+  "gst-1999": {
+    "section": "195-1",
+    "candidates_extracted": 347,
+    "high_confidence_misses": [
+      "annual apportionment election",
+      "annual apportionment turnover threshold",
+      "cars",
+      "compulsory third party scheme",
+      "derived",
+      "exceed the financial acquisitions threshold",
+      "explanatory section",
+      "if the entity",
+      "insurance policy",
+      "insurance policy settlement sharing arrangement",
+      "minerals, and",
+      "nominal defendant settlement sharing arrangement",
+      "passed on",
+      "predominantly for long-term accommodation",
+      "previously attributed input tax credit amount",
+      "price",
+      "subsections 29-70(1) and 48-57(1), and",
+      "It also",
+      "If the compilation",
+      "formation",
+      "and 48-57(1), and"
+    ],
+    "possible_misses": [
+      "customs clearance",
+      "customs value",
+      "gift-deductible purpose",
+      "GST branch registration number",
+      "premium selection test",
+      "amalgamated company",
+      "annual GST liability",
+      "appropriate percentage",
+      "car parts",
+      "course materials",
+      "CTP premium",
+      "GST instalment shortfall",
+      "margin",
+      "participant",
+      "redeliverer",
+      "stated monetary value",
+      "taxable dealing",
+      "chapter",
+      "overdue"
+    ],
+    "recovered_fragments": [],
+    "missed_count": 21,
+    "possible_count": 19
+  },
+  "fbt-1986": {
+    "section": "136",
+    "candidates_extracted": 271,
+    "high_confidence_misses": [
+      "recreational facility",
+      "goods and"
+    ],
+    "possible_misses": [
+      "remote"
+    ],
+    "recovered_fragments": [
+      {
+        "full": "relation to a motor vehicle",
+        "as_captured": "on to a motor vehicle"
+      }
+    ],
+    "missed_count": 3,
+    "possible_count": 1
+  },
+  "taa-1953": {
+    "section": "2",
+    "candidates_extracted": 33,
+    "high_confidence_misses": [],
+    "possible_misses": [],
+    "recovered_fragments": [],
+    "missed_count": 0,
+    "possible_count": 0
+  },
+  "sis-1993": {
+    "section": "10",
+    "candidates_extracted": 173,
+    "high_confidence_misses": [
+      "market value, and"
+    ],
+    "possible_misses": [],
+    "recovered_fragments": [],
+    "missed_count": 1,
+    "possible_count": 0
+  },
+  "aml-ctf-2006": {
+    "section": "5",
+    "candidates_extracted": 195,
+    "high_confidence_misses": [
+      "when used in a geographical sense",
+      "passing the control test",
+      "Director-General of National Intelligence"
+    ],
+    "possible_misses": [
+      "in determining whether something",
+      "embarkation",
+      "exempt financial market operator"
+    ],
+    "recovered_fragments": [],
+    "missed_count": 3,
+    "possible_count": 3
+  },
+  "nz-it-2007": {
+    "section": "YA-1",
+    "candidates_extracted": 722,
+    "high_confidence_misses": [
+      "and (b",
+      "a) for any person",
+      "b) for a company",
+      "b) for a helicopter",
+      "available subscribed capital ASC account",
+      "bright-line test for residential land) broodmare",
+      "and (ii",
+      "ii",
+      "and (ab",
+      "a) for petroleum mining",
+      "b) for mineral mining",
+      "aa",
+      "h and development activity",
+      "life risk) credit of tax",
+      "tax credit credit transfer notice",
+      "debenture stock debenture holder",
+      "method",
+      "f) for depreciable property",
+      "and (c",
+      "e) for an employer",
+      "e) for an employee",
+      "b) for high-priced livestock",
+      "c) for a listed horticultural plant",
+      "d) for a type of pasture",
+      "extra pay",
+      "fringe benefit tax FBT rules",
+      "a) in the financial arrangements rules",
+      "life risk) grant-related suspensory loan",
+      "and (iii",
+      "grey list countries) grey list company",
+      "ratio",
+      "a) for a forestry company",
+      "imputation credit account ICA company",
+      "a) (Memorandum accounts) imputation debit",
+      "or (c) both instalment date",
+      "a) for a financial arrangement",
+      "Homes and Communities",
+      "and (iv",
+      "and (v",
+      "f) in the financial arrangements rules",
+      "section legal life",
+      "c) for a hire purchase agreement",
+      "insurance",
+      "how sections relate) Life Insurance Fund",
+      "how sections relate) life risk",
+      "Maori authority credit account main benefit",
+      "programme main deposit",
+      "b) also",
+      "c) also",
+      "d) also",
+      "e) also",
+      "g) also",
+      "ac",
+      "e) in the Maori authority rules",
+      "miner) mineral mining asset",
+      "iii) person B",
+      "a) for a consolidated group",
+      "b) for an imputation group",
+      "rate of interest",
+      "b) applies non-integral fee",
+      "off-market share cancellations) non-refundable tax credit",
+      "ii) NRWT",
+      "and (d) it",
+      "a) for land",
+      "d) a limited partnership partnership share",
+      "non-resident general insurers)",
+      "provisional rate",
+      "and (bb",
+      "and (bc",
+      "transition into sole traderships) QROPS",
+      "D expenditure",
+      "D group",
+      "D loss tax credit",
+      "D material",
+      "D repayment tax",
+      "restoration and enhancement redemption payment",
+      "a) for a petroleum permit",
+      "return of income return of income",
+      "and EA 3 (Prepayments",
+      "bb",
+      "recording",
+      "me",
+      "ition",
+      "iv) time bar",
+      "iii",
+      "and (cb",
+      "relationship property)",
+      "for any person",
+      "for a company",
+      "for a helicopter",
+      "to (vi) airport",
+      "ASCA",
+      "Act 1993 (Aust) Australian financial year",
+      "Act 2009 branch equivalent method",
+      "Act 2012 branch equivalent tax account",
+      "for petroleum mining",
+      "for mineral mining",
+      "to (d) deductible foreign equity distribution",
+      "for depreciable property",
+      "for an employer",
+      "for an employee",
+      "for an item of depreciable property",
+      "for high-priced livestock",
+      "for a listed horticultural plant",
+      "for a type of pasture",
+      "financially independent",
+      "and (iii) flat-owning company",
+      "in the financial arrangements rules",
+      "in the old financial arrangements rules",
+      "and FBT rules",
+      "for a forestry company",
+      "applies IFRSE",
+      "for a foreign company",
+      "for a portfolio investment entity",
+      "for a financial arrangement",
+      "established by legal judgment legal expenses",
+      "for a hire purchase agreement",
+      "and in the FBT rules",
+      "Act 2009 logbook term",
+      "in the Maori authority rules",
+      "person B",
+      "for a consolidated group",
+      "for an imputation group",
+      "applies non-integral fee",
+      "NZ IFRS 16",
+      "for land",
+      "for the ownership of depreciable property",
+      "owner's associate",
+      "poolable property",
+      "refers portfolio investment entity",
+      "applies prescribed",
+      "for a motor vehicle",
+      "R&D loss tax credit",
+      "R&D material",
+      "instructions",
+      "Act 1989 registered person",
+      "section RF 12H(1), otherwise related person",
+      "in the definition of look-through company",
+      "for a petroleum permit",
+      "share supplier",
+      "in the provisional tax rules",
+      "taxable Maori authority distribution",
+      "taxable period",
+      "transfer scheme"
+    ],
+    "possible_misses": [
+      "a) in section CX 28 (Accommodation",
+      "section accrued entitlement",
+      "affected",
+      "shared living facilities available, as appropriate",
+      "b) the",
+      "2009 branch equivalent loss",
+      "remaining in the period creditor workout",
+      "FC, or elective attributing FIF",
+      "and nature,",
+      "NZIAS 32 financial assistance",
+      "pension equivalent assistance first business day",
+      "numbered NZ IFRS 17",
+      "building business",
+      "d) in section DA 2(4",
+      "b) and (c",
+      "livestock on the Chatham",
+      "equalisation deposit",
+      "equalisation refund",
+      "Maori authority) Maori authority credit",
+      "and produce transactions",
+      "net attributable CFC income",
+      "income method) net attributable FIF loss",
+      "New Zealand business",
+      "eholder-employees or directors) non-filing taxpayer",
+      "lessor acquiring asset",
+      "a) in subpart EE (Depreciation",
+      "b) (Revenue account method",
+      "c) interest residual income tax",
+      "in the property",
+      "b) if the term",
+      "8(2) (Transitional residents) transitional year",
+      "and trustee",
+      "in section CX 28 (Accommodation",
+      "active service",
+      "actuarially determined",
+      "Act 2009 branch equivalent loss",
+      "in section HA 6 (Corporate requirements",
+      "as it",
+      "despite paragraph (a",
+      "Act 2009",
+      "exiting partner",
+      "because of its",
+      "and EF 6 (Different tax years",
+      "main income equalisation deposit",
+      "main income equalisation refund",
+      "in subpart DE (Motor vehicle expenditure",
+      "for the purposes of subpart",
+      "non-taxable bonus",
+      "offshore permit",
+      "pro rata cancellation",
+      "in subpart EE (Depreciation",
+      "R&D expenditure",
+      "resident in Australia",
+      "interest residual income tax",
+      "scheduled overhaul period",
+      "if the transfer of value",
+      "share reorganisation",
+      "if the term",
+      "transfers value"
+    ],
+    "recovered_fragments": [
+      {
+        "full": "if the approval",
+        "as_captured": "f the approval"
+      },
+      {
+        "full": "person's income calculation method",
+        "as_captured": "erson's income calculation method"
+      },
+      {
+        "full": "exit period arises,",
+        "as_captured": "it period arises,"
+      },
+      {
+        "full": "rules for life insurers,",
+        "as_captured": "s for life insurers,"
+      },
+      {
+        "full": "tho",
+        "as_captured": "ho"
+      },
+      {
+        "full": "consolidated group) as it",
+        "as_captured": "nsolidated group) as it"
+      },
+      {
+        "full": "shares",
+        "as_captured": "ares"
+      },
+      {
+        "full": "absolute",
+        "as_captured": "ute"
+      },
+      {
+        "full": "relationship de minimis trust",
+        "as_captured": "ionship de minimis trust"
+      },
+      {
+        "full": "resident in New Zealand",
+        "as_captured": "sident in New Zealand"
+      },
+      {
+        "full": "to use of certain assets) decommissioning",
+        "as_captured": "o use of certain assets) decommissioning"
+      },
+      {
+        "full": "deducting branch",
+        "as_captured": "ting branch"
+      },
+      {
+        "full": "section elective attributing CFC",
+        "as_captured": "ection elective attributing CFC"
+      },
+      {
+        "full": "compilation",
+        "as_captured": "ation"
+      },
+      {
+        "full": "rules ESCT rate threshold amount",
+        "as_captured": "s ESCT rate threshold amount"
+      },
+      {
+        "full": "income limitation",
+        "as_captured": "me limitation"
+      },
+      {
+        "full": "permit",
+        "as_captured": "ermit"
+      },
+      {
+        "full": "agree",
+        "as_captured": "ee"
+      },
+      {
+        "full": "arrangements rules",
+        "as_captured": "ents rules"
+      },
+      {
+        "full": "derived income from employment",
+        "as_captured": "ed income from employment"
+      },
+      {
+        "full": "investment fund",
+        "as_captured": "vestment fund"
+      },
+      {
+        "full": "financial arrangements rules,",
+        "as_captured": "al arrangements rules,"
+      },
+      {
+        "full": "Definitions) hybrid mismatch report",
+        "as_captured": "initions) hybrid mismatch report"
+      },
+      {
+        "full": "occupancy indirect attributing interest",
+        "as_captured": "ncy indirect attributing interest"
+      },
+      {
+        "full": "initial treatment",
+        "as_captured": "al treatment"
+      },
+      {
+        "full": "payab",
+        "as_captured": "ab"
+      },
+      {
+        "full": "accounts) maximum permitted ratio",
+        "as_captured": "s) maximum permitted ratio"
+      },
+      {
+        "full": "maximum pooling value) measurement period",
+        "as_captured": "aximum pooling value) measurement period"
+      },
+      {
+        "full": "financial arrangements rules,",
+        "as_captured": "inancial arrangements rules,"
+      },
+      {
+        "full": "members national average market value",
+        "as_captured": "s national average market value"
+      },
+      {
+        "full": "loss) net attributable CFC loss",
+        "as_captured": "s) net attributable CFC loss"
+      },
+      {
+        "full": "consecutive months, ending on 31 March",
+        "as_captured": "ecutive months, ending on 31 March"
+      },
+      {
+        "full": "costs",
+        "as_captured": "sts"
+      },
+      {
+        "full": "ownership of the property sold",
+        "as_captured": "hip of the property sold"
+      },
+      {
+        "full": "outstanding claims reserve",
+        "as_captured": "utstanding claims reserve"
+      },
+      {
+        "full": "that Act permit",
+        "as_captured": "hat Act permit"
+      },
+      {
+        "full": "prospecting permit",
+        "as_captured": "ng permit"
+      },
+      {
+        "full": "credit, WFF tax credit",
+        "as_captured": "it, WFF tax credit"
+      },
+      {
+        "full": "replacement plant",
+        "as_captured": "nt plant"
+      },
+      {
+        "full": "overhaul period",
+        "as_captured": "l period"
+      },
+      {
+        "full": "organisation",
+        "as_captured": "nisation"
+      },
+      {
+        "full": "otherwise,",
+        "as_captured": "e,"
+      },
+      {
+        "full": "of property) tax charity",
+        "as_captured": "f property) tax charity"
+      },
+      {
+        "full": "2004 taxed CFC connection",
+        "as_captured": "04 taxed CFC connection"
+      },
+      {
+        "full": "tax taxed FIF connection",
+        "as_captured": "ax taxed FIF connection"
+      },
+      {
+        "full": "div",
+        "as_captured": "iv"
+      },
+      {
+        "full": "divi",
+        "as_captured": "vi"
+      },
+      {
+        "full": "Meaning of exempt ESS) trustee income",
+        "as_captured": "ng of exempt ESS) trustee income"
+      },
+      {
+        "full": "the old financial arrangements rules,",
+        "as_captured": "e old financial arrangements rules,"
+      },
+      {
+        "full": "abc",
+        "as_captured": "bc"
+      },
+      {
+        "full": "subd",
+        "as_captured": "bd"
+      },
+      {
+        "full": "transfer falls zero-rated investor",
+        "as_captured": "ransfer falls zero-rated investor"
+      }
+    ],
+    "missed_count": 196,
+    "possible_count": 59
+  },
+  "corporations-act-2001": {
+    "section": "9",
+    "candidates_extracted": 35,
+    "high_confidence_misses": [
+      "part simple corporate bonds prospectus",
+      "accounting standard",
+      "on insurance product",
+      "month period"
+    ],
+    "possible_misses": [
+      "Aboriginal and Torres Strait",
+      "acquire",
+      "administration",
+      "AFCA's unpaid fees",
+      "application facility",
+      "appropriate",
+      "8 (offences",
+      "adequate",
+      "chapter",
+      "administrator",
+      "admit to quotation",
+      "affairs",
+      "APFRN"
+    ],
+    "recovered_fragments": [],
+    "missed_count": 4,
+    "possible_count": 13
+  }
+}
