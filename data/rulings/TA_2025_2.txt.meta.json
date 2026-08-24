@@ -1,17 +1,19 @@
 {
-  "doc_type": "ruling",
-  "ruling_type": "TA",
-  "ruling_number": "TA 2025/2",
-  "title": "Arrangements designed to improperly obtain goods and services tax refunds",
-  "status": "current",
-  "issue_date": null,
-  "related_provisions": [
-    "Div 165",
-    "Div 290",
-    "Div 48",
-    "Division 165",
-    "Division 290",
-    "Division 48"
-  ],
-  "related_rulings": []
+ "doc_type": "ruling",
+ "ruling_type": "TA",
+ "ruling_number": "TA 2025/2",
+ "title": "Arrangements designed to improperly obtain goods and services tax refunds",
+ "status": "current",
+ "issue_date": null,
+ "related_provisions": [
+  "Div 165",
+  "Div 290",
+  "Div 48",
+  "Division 165",
+  "Division 290",
+  "Division 48"
+ ],
+ "related_rulings": [],
+ "remote_hash": "118fe7c66544b6a7",
+ "last_checked": "2026-08-23T08:50:53.000146"
 }

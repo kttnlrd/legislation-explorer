@@ -1,22 +1,24 @@
 {
-  "doc_type": "ruling",
-  "ruling_type": "GSTR",
-  "ruling_number": "GSTR 2025/2",
-  "title": "Goods and services tax: supplies of things (other than goods or real property) where effective use or enjoyment of the supply takes place outside Australia",
-  "status": "withdrawn",
-  "issue_date": null,
-  "related_provisions": [
-    "Div 38",
-    "Div 84",
-    "Division 38",
-    "Division 84",
-    "Subdivision 38-E",
-    "Subdivision 40-B",
-    "Subdivision 40-C",
-    "div 38",
-    "div 40",
-    "division 38",
-    "division 40"
-  ],
-  "related_rulings": []
+ "doc_type": "ruling",
+ "ruling_type": "GSTR",
+ "ruling_number": "GSTR 2025/2",
+ "title": "Goods and services tax: supplies of things (other than goods or real property) where effective use or enjoyment of the supply takes place outside Australia",
+ "status": "withdrawn",
+ "issue_date": null,
+ "related_provisions": [
+  "Div 38",
+  "Div 84",
+  "Division 38",
+  "Division 84",
+  "Subdivision 38-E",
+  "Subdivision 40-B",
+  "Subdivision 40-C",
+  "div 38",
+  "div 40",
+  "division 38",
+  "division 40"
+ ],
+ "related_rulings": [],
+ "remote_hash": "be2d382f95799e9c",
+ "last_checked": "2026-08-23T08:50:09.450429"
 }

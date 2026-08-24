@@ -9,13 +9,13 @@
  "subdivision": "",
  "compilation_no": 263,
  "compilation_date": "2026-04-01",
- "summary": "Decision-tree navigator covering all Subdivision 124 roll-overs (except 124-B compulsory acquisition and 124-M scrip for scrip, which have separate maps), plus Subdivisions 122-B (partners to company), 125-B (demerger), 126-B/C/D/G (same-asset roll-overs) and 128-A/B (deceased estates). Guides from transaction type to the applicable roll-over with key conditions and consequences per branch.",
+ "summary": "Decision-tree navigator following the CGT method statement: step 1 identifies the CGT event (grouped by event type A–D basic, E trusts, F–L other), then routes to the applicable roll-over among Subdivs 122-B, 124-C/D/E/F/I/J/K/L/N/P/Q/R/S, 125-B, 126-B/C/D/G, 128-A/B, Div 615 items 14D/14E and s 26BC item 15, with facets for events outside scope.",
  "nodes": [
   {
    "id": "start",
    "type": "start",
    "label": "CGT event has happened — you want to defer (roll-over) the capital gain",
-   "body": "A roll-over defers a capital gain (or loss) until a later CGT event. Replacement-asset roll-overs (Div 112 Subdiv C) involve the original asset being replaced; same-asset roll-overs (Div 112 Subdiv D) involve the same asset being transferred. This navigator covers roll-overs under Subdivs 122-B, 124-C/D/E/F/I/J/K/L/N/P/Q/R/S, 125-B, 126-B/C/D/G and 128-A/B.",
+   "body": "A roll-over defers a capital gain (or loss) until a later CGT event. Following the CGT method statement (s 102-5), first identify the CGT event (s 104-5 table), then find the applicable roll-over. Replacement-asset roll-overs (Div 112 Subdiv C) involve the original asset being replaced; same-asset roll-overs (Div 112 Subdiv D) involve the same asset being transferred. This navigator covers roll-overs under Subdivs 122-B, 124-C/D/E/F/I/J/K/L/N/P/Q/R/S, 125-B, 126-B/C/D/G and 128-A/B.",
    "statute": [
     {
      "act": "itaa-1997",
@@ -845,14 +845,115 @@
    "type": "outcome",
    "label": "No deceased-estate roll-over — normal CGT rules",
    "body": "If no CGT asset devolved to an LPR or passed to a beneficiary, the deceased-estate roll-over path does not apply; the estate is taxed under normal CGT rules."
+  },
+  {
+   "id": "dec-which-event",
+   "type": "decision",
+   "label": "Which CGT event applies? (Step 1 — identify the event)",
+   "body": "The CGT method statement (s 102-5) starts by working out a capital gain or loss for each CGT event (s 104-5 table). Identify the event first — the applicable roll-over depends on it. Events are grouped: basic events A–D (disposals, endings, creations), trust events E1–E10, and other events F–L. If the event is not in the groups below, no roll-over in this navigator applies.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Assessable income includes net capital gain"
+    },
+    {
+     "act": "itaa-1997",
+     "section": "104-5",
+     "title": "Summary of the CGT events"
+    }
+   ],
+   "commentary": [
+    "cgt-method-statement"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "evt-basic-ad",
+   "type": "event",
+   "label": "Basic events A–D (disposals, endings, creations)",
+   "body": "CGT events A1 (disposal of a CGT asset), B1 (use and enjoyment before title passes), C1–C3 (loss/destruction, cancellation/surrender, end of option), D1–D4 (creating rights, granting options, mining income rights, conservation covenants). Most roll-overs in this navigator are triggered by a basic event — especially A1 disposal, C2 ending or D1–D3 creation. Verified triggers: 122-A/B (A1, D1, D2, D3, F1 per s 122-15), 124-C (C2 per s 124-140), 126-B (A1, B1, D1, D2, D3, F1 per s 126-45).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-5",
+     "title": "Summary of the CGT events"
+    }
+   ],
+   "commentary": [
+    "cgt-method-statement"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "evt-trusts-e",
+   "type": "event",
+   "label": "Trust events E1–E10 (trusts)",
+   "body": "CGT events E1–E10: creating a trust over a CGT asset, transferring assets to a trust, converting a trust to a unit trust, capital payments for trust interests, beneficiaries becoming entitled, AMIT cost-base reductions. Roll-overs that respond to trust events: 124-N (trust restructure — units/interests replaced by shares, s 124-850), 126-C (trust deed changes), 126-D (small superannuation fund transfers — CGT event E2, s 126-140), 126-G (transfers between certain trusts), and Div 128 (assets passing via deceased estates).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-5",
+     "title": "Summary of the CGT events"
+    }
+   ],
+   "commentary": [
+    "cgt-method-statement"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "evt-other-fl",
+   "type": "event",
+   "label": "Other events F–L",
+   "body": "CGT events F1–F5 (leases), G1/G3 (capital payments for shares), H1/H2 (forfeiture, receipts), I1/I2 (residency), J1–J6 (company groups, replacement assets), K1–K12 and L1–L8 (miscellaneous). Roll-overs that respond to these events: 124-J (Crown leases — lease grant/renewal/extension), 124-K (depreciating assets), 124-L (prospecting/mining entitlement expiry), 124-R (water entitlements — any CGT event relating to water entitlements, s 124-1100), 126-B (F1 creation case), and Div 128 (death).",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "104-5",
+     "title": "Summary of the CGT events"
+    }
+   ],
+   "commentary": [
+    "cgt-method-statement"
+   ],
+   "cases": [],
+   "definitions": [
+    "cgt event"
+   ],
+   "rulings": []
+  },
+  {
+   "id": "evt-no-rollover",
+   "type": "outcome",
+   "label": "No roll-over in this navigator for this event",
+   "body": "The remaining-roll-overs navigator only covers the roll-overs in its scope (Subdivs 122-B, 124-C/D/E/F/I/J/K/L/N/P/Q/R/S, 125-B, 126-B/C/D/G, 128-A/B, Div 615 items 14D/14E, s 26BC item 15). If your CGT event is not captured by any branch, no roll-over here applies — check the method statement map (Div 102-104) or the specific subdivision.",
+   "statute": [
+    {
+     "act": "itaa-1997",
+     "section": "102-5",
+     "title": "Assessable income includes net capital gain"
+    }
+   ],
+   "commentary": [],
+   "cases": [],
+   "definitions": [],
+   "rulings": []
   }
  ],
  "edges": [
-  {
-   "from": "start",
-   "to": "dec-transaction-cat",
-   "label": "choose roll-over"
-  },
   {
    "from": "dec-transaction-cat",
    "to": "cat-replacement",
@@ -1132,6 +1233,66 @@
    "from": "rollover-26bc",
    "to": "end-shared",
    "label": "Roll-over applied"
+  },
+  {
+   "from": "start",
+   "to": "dec-which-event",
+   "label": "method statement step 1"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "evt-basic-ad",
+   "label": "A1–D4 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "evt-trusts-e",
+   "label": "E1–E10 applies"
+  },
+  {
+   "from": "dec-which-event",
+   "to": "evt-other-fl",
+   "label": "F1–L8 applies"
+  },
+  {
+   "from": "evt-basic-ad",
+   "to": "dec-transaction-cat",
+   "label": "find roll-over by transaction type"
+  },
+  {
+   "from": "evt-trusts-e",
+   "to": "cat-shares",
+   "label": "trust restructure — 124-N"
+  },
+  {
+   "from": "evt-trusts-e",
+   "to": "cat-entity-restructure",
+   "label": "trust deed / super fund / trust-to-trust — 126-C/D/G"
+  },
+  {
+   "from": "evt-trusts-e",
+   "to": "cat-deceased",
+   "label": "assets passing via estate — Div 128"
+  },
+  {
+   "from": "evt-other-fl",
+   "to": "cat-replacement",
+   "label": "lease / water / mining — 124-J/K/L/R"
+  },
+  {
+   "from": "evt-other-fl",
+   "to": "cat-entity-restructure",
+   "label": "F1 creation case — 126-B"
+  },
+  {
+   "from": "evt-other-fl",
+   "to": "cat-deceased",
+   "label": "death — Div 128"
+  },
+  {
+   "from": "evt-other-fl",
+   "to": "evt-no-rollover",
+   "label": "no roll-over here"
   }
  ],
  "sort": 32

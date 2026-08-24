@@ -1,13 +1,15 @@
 {
-  "doc_type": "ruling",
-  "ruling_type": "TA",
-  "ruling_number": "TA 2025/3",
-  "title": "Arrangements to improperly access deductions for donations of 'barter credits'",
-  "status": "current",
-  "issue_date": null,
-  "related_provisions": [
-    "Div 290",
-    "Division 290"
-  ],
-  "related_rulings": []
+ "doc_type": "ruling",
+ "ruling_type": "TA",
+ "ruling_number": "TA 2025/3",
+ "title": "Arrangements to improperly access deductions for donations of 'barter credits'",
+ "status": "current",
+ "issue_date": null,
+ "related_provisions": [
+  "Div 290",
+  "Division 290"
+ ],
+ "related_rulings": [],
+ "remote_hash": "8d0675ac667bcfe8",
+ "last_checked": "2026-08-23T08:50:53.673455"
 }

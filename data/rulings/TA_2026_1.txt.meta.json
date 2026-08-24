@@ -1,15 +1,17 @@
 {
-  "doc_type": "ruling",
-  "ruling_type": "TA",
-  "ruling_number": "TA 2026/1",
-  "title": "Contrived property development arrangements between related parties that defer recognition of income and exploit tax losses",
-  "status": "current",
-  "issue_date": null,
-  "related_provisions": [
-    "Div 290",
-    "Div 70",
-    "Division 290",
-    "Division 70"
-  ],
-  "related_rulings": []
+ "doc_type": "ruling",
+ "ruling_type": "TA",
+ "ruling_number": "TA 2026/1",
+ "title": "Contrived property development arrangements between related parties that defer recognition of income and exploit tax losses",
+ "status": "current",
+ "issue_date": null,
+ "related_provisions": [
+  "Div 290",
+  "Div 70",
+  "Division 290",
+  "Division 70"
+ ],
+ "related_rulings": [],
+ "remote_hash": "fd3711fc124daa94",
+ "last_checked": "2026-08-23T08:50:55.347102"
 }
