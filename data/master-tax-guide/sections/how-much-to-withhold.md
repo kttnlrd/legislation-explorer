@@ -9,7 +9,7 @@ paragraph: "¶26-130"
 
 The amount required to be withheld from a withholding payment is worked out either under the withholding schedules or under the regulations (TAA sch 1 s 15-10). There is an exception in relation to a natural resource payment where the amount to be withheld is calculated under the Commissioner's notice or certiﬁcate (¶26-270).
 
-Regulations Regulations may specify the amounts, formulae and procedures to be used for working out the amount required to be withheld by an entity from a withholding payment (TAA sch 1 s 15-35). Regulations apply to withholding payments where a TFN or an ABN is not quoted or where dividends, interest, royalty or mining payments are made.
+Regulations may specify the amounts, formulae and procedures to be used for working out the amount required to be withheld by an entity from a withholding payment (TAA sch 1 s 15-35). Regulations apply to withholding payments where a TFN or an ABN is not quoted or where dividends, interest, royalty or mining payments are made.
 
 Withholding schedules The Commissioner may make withholding schedules specifying the amounts, formulae and procedures to be used for working out the amount required to be withheld from a withholding payment (TAA sch 1 ss 15-25; 15-30). Withholding schedules cover payments for work and services (including payments under voluntary agreements and labour hire arrangements), retirement and superannuation payments, annuities, beneﬁts and compensation payments, certain payments made to or for foreign residents, non-cash beneﬁts, alienated personal services payments and additional withholding amounts under an upwards variation declaration.
 

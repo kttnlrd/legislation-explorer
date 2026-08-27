@@ -381,7 +381,7 @@ def main() -> None:
         fm_lines.append(f'section: "{section_id}"')
         fm_lines.append(f'section_title: "{section_title}"')
         fm_lines.append("compilation_no: 0")
-        fm_lines.append('compilation_date: ""')
+        fm_lines.append('compilation_date: "2025-07-01"')
         fm_lines.append('source_pdf: "corps-act"')
         fm_lines.append("---")
         fm_lines.append("")
@@ -412,7 +412,7 @@ def main() -> None:
     tree = {
         "act": "Corporations Act 2001",
         "compilation_no": 0,
-        "compilation_date": "",
+        "compilation_date": "2025-07-01",
         "parts": [tree_parts[cid] for cid in sorted(tree_parts.keys(), key=_natural_key)],
     }
 

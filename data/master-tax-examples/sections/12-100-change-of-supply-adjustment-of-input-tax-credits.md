@@ -23,6 +23,6 @@ Adjustments to previously declared input tax credits are required where input ta
 
 Adjustments can be either increasing adjustments or decreasing. An increasing adjustment increases the net amount of GST for a tax period by reducing the input tax credit on acquisitions (GST Act ss 19-50, 19-75, 19-80).
 
-The amount of the increasing adjustment that Leia must remit is calculated as follows: Increasing adjustment = full input tax credit (intended use − actual application) = $300,000 (100% − 70%) = $90,000 (GST Act s 129-70) The timing of the adjustment to the BAS is set out in GST Act s 129-20 and explained by the Commissioner in GST Ruling GSTR 2009/4. Given that the creditable acquisition amount to which the input tax credits credits pertain is greater than $500,000, the increasing adjustment is made over 10 adjustment periods commencing for the BAS relating to the period ended 30 June 2025.
+The amount of the increasing adjustment that Leia must remit is calculated as follows: Increasing adjustment = full input tax credit (intended use − actual application) = $300,000 (100% − 70%) = $90,000 (GST Act s 129-70) The timing of the adjustment to the BAS is set out in GST Act s 129-20 and explained by the Commissioner in GST Ruling GSTR 2009/4. Given that the creditable acquisition amount to which the input tax  credits pertain is greater than $500,000, the increasing adjustment is made over 10 adjustment periods commencing for the BAS relating to the period ended 30 June 2025.
 
 *Refs: s 9-5, GST Act s 40-35), s 19-50, GST Act s 129-70), GST Act s 129-20*

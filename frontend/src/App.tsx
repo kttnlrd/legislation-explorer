@@ -752,6 +752,19 @@ export default function App() {
                         >Maps ({mapsList.length})</button>
                       </div>
                     )}
+                    <div>
+                      <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>References</div>
+                      <button onClick={() => { setPickerOpen(false); setActiveDefinitions(''); setSearchPage(false); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setActiveMap(null); setBrowsingAct(false); window.history.pushState(null, '', '/definitions'); if (isMobile) setDrawerOpen(false) }} style={{
+                        display: 'block', width: '100%', padding: '6px 12px',
+                        background: 'transparent', border: 'none',
+                        color: activeDefinitions !== null ? COLORS.accent : COLORS.text,
+                        fontSize: 12, cursor: 'pointer',
+                        fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
+                      }}
+                        onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
+                        onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                      >Definitions</button>
+                    </div>
                     </div>
                   )}
                 </div>
@@ -1017,6 +1030,35 @@ export default function App() {
                 <line x1="15" y1="6" x2="15" y2="21"/>
               </svg>
               <span style={{ fontSize: 11 }}>Maps</span>
+            </button>
+            <button
+              onClick={() => {
+                setActiveDefinitions(act && ['itaa-1997','itaa-1936','gst-1999','corporations-act-2001','fbt-1986','taa-1953','sis-1993','aml-ctf-2006','nz-it-2007'].includes(act) ? act : '')
+                setSearchPage(false)
+                setActiveSection('')
+                setActiveRuling(null)
+                setActivePrivateRuling(null)
+                setActiveMap(null)
+                window.history.pushState(null, '', '/definitions')
+                if (isMobile) setDrawerOpen(false)
+              }}
+              aria-label="Definitions"
+              title="Browse defined terms"
+              style={{
+                padding: '6px 8px', borderRadius: 6,
+                background: activeDefinitions !== null ? COLORS.accent : COLORS.surface,
+                color: activeDefinitions !== null ? '#fff' : COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
+              }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <line x1="4" y1="9" x2="20" y2="9"/>
+                <line x1="4" y1="15" x2="20" y2="15"/>
+                <line x1="10" y1="3" x2="8" y2="21"/>
+                <line x1="16" y1="3" x2="14" y2="21"/>
+              </svg>
+              <span style={{ fontSize: 11 }}>Definitions</span>
             </button>
           </div>
         )}

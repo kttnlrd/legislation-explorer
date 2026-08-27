@@ -107,6 +107,12 @@
     "anchor": "s195-1-aged-care-system-governor",
     "act": "GST Act 1999"
   },
+  "aircraft's stores": {
+    "term": "aircraft's stores",
+    "section": "195-1",
+    "anchor": "s195-1-aircrafts-stores",
+    "act": "GST Act 1999"
+  },
   "airport shop goods": {
     "term": "airport shop goods",
     "section": "195-1",
@@ -389,6 +395,12 @@
     "anchor": "s195-1-contributing-operator",
     "act": "GST Act 1999"
   },
+  "contributing operator's payment": {
+    "term": "contributing operator's payment",
+    "section": "195-1",
+    "anchor": "s195-1-contributing-operators-payment",
+    "act": "GST Act 1999"
+  },
   "contribution amount": {
     "term": "contribution amount",
     "section": "195-1",
@@ -495,6 +507,12 @@
     "term": "deposit account",
     "section": "195-1",
     "anchor": "s195-1-deposit-account",
+    "act": "GST Act 1999"
+  },
+  "derived": {
+    "term": "derived",
+    "section": "195-1",
+    "anchor": "s195-1-derived",
     "act": "GST Act 1999"
   },
   "digital currency": {
@@ -1157,6 +1175,12 @@
     "anchor": "s195-1-managing-operator",
     "act": "GST Act 1999"
   },
+  "managing operator's payment or supply": {
+    "term": "managing operator's payment or supply",
+    "section": "195-1",
+    "anchor": "s195-1-managing-operators-payment-or-supply",
+    "act": "GST Act 1999"
+  },
   "margin scheme": {
     "term": "margin scheme",
     "section": "195-1",
@@ -1331,6 +1355,12 @@
     "anchor": "s195-1-partnership",
     "act": "GST Act 1999"
   },
+  "passed on": {
+    "term": "passed on",
+    "section": "195-1",
+    "anchor": "s195-1-passed-on",
+    "act": "GST Act 1999"
+  },
   "person": {
     "term": "person",
     "section": "195-1",
@@ -1475,6 +1505,12 @@
     "anchor": "s195-1-recipients-contribution",
     "act": "GST Act 1999"
   },
+  "recipient's payment": {
+    "term": "recipient's payment",
+    "section": "195-1",
+    "anchor": "s195-1-recipients-payment",
+    "act": "GST Act 1999"
+  },
   "recognised professional": {
     "term": "recognised professional",
     "section": "195-1",
@@ -1565,6 +1601,12 @@
     "anchor": "s195-1-reviewable-gst-decision",
     "act": "GST Act 1999"
   },
+  "satisfies the participation requirements for a gst joint venture": {
+    "term": "satisfies the participation requirements for a GST joint venture",
+    "section": "195-1",
+    "anchor": "s195-1-satisfies-the-participation-requirements-for-a-gst-joint-venture",
+    "act": "GST Act 1999"
+  },
   "scheme": {
     "term": "scheme",
     "section": "195-1",
@@ -1605,6 +1647,12 @@
     "term": "ship",
     "section": "195-1",
     "anchor": "s195-1-ship",
+    "act": "GST Act 1999"
+  },
+  "ship's stores": {
+    "term": "ship's stores",
+    "section": "195-1",
+    "anchor": "s195-1-ships-stores",
     "act": "GST Act 1999"
   },
   "simplified accounting method": {

@@ -83,6 +83,12 @@
     "anchor": "s6-assessment",
     "act": "ITAA 1936"
   },
+  "deductions equal or exceed the taxpayer's assessable income": {
+    "term": "deductions equal or exceed the taxpayer's assessable income",
+    "section": "6",
+    "anchor": "s6-deductions-equal-or-exceed-the-taxpayers-assessable-income",
+    "act": "ITAA 1936"
+  },
   "attribution managed investment trust": {
     "term": "attribution managed investment trust",
     "section": "6",
@@ -1007,6 +1013,12 @@
     "anchor": "s6-shareholder",
     "act": "ITAA 1936"
   },
+  "shareholders' funds": {
+    "term": "shareholders' funds",
+    "section": "6",
+    "anchor": "s6-shareholders-funds",
+    "act": "ITAA 1936"
+  },
   "shortfall interest charge": {
     "term": "shortfall interest charge",
     "section": "6",
@@ -1179,6 +1191,12 @@
     "term": "venture capital management partnership",
     "section": "6",
     "anchor": "s6-venture-capital-management-partnership",
+    "act": "ITAA 1936"
+  },
+  "veterans' affairs secretary": {
+    "term": "Veterans' Affairs Secretary",
+    "section": "6",
+    "anchor": "s6-veterans-affairs-secretary",
     "act": "ITAA 1936"
   },
   "withholding tax": {

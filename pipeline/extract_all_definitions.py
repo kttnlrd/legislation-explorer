@@ -58,6 +58,10 @@ def is_junk_term(term: str) -> bool:
         return True
     if t.startswith("("):
         return True
+    # List-style continuation fragments ("film and", "... of") are not terms
+    # (CDN-0172 class) — drop them from the served catalog as well.
+    if re.search(r"\b(?:and|of|the|or)$", t, re.IGNORECASE):
+        return True
     return False
 
 

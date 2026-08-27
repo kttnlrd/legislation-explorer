@@ -65,7 +65,7 @@ Distribution received through interposed trust or partnership The general tax co
 
 98, 99 or 99A or where the trustee is the trustee of a complying or non-complying superannuation fund, a complying or non-complying ADF or a PST.
 
-Working out the entity's share of the franking credit An entity's share of a franking credit on a franked distribution is an amount notionally allocated to the entity as its share of that credit, whether or not the entity actually receives any of that credit or distribution (s 207-57). The amount of the credit is worked out using the following formula: entity's share of the amount of the franking franked distribution credit on the franked                           × amount of the franked distribution distribution The entity's share of the franked distribution is determined by reference to the table in s 207-55.
+Working out the entity's share of the franking credit An entity's share of a franking credit on a franked distribution is an amount notionally allocated to the entity as its share of that credit, whether or not the entity actually receives any of that credit or distribution (s 207-57). The amount of the credit is worked out using the following formula: entity's share of the amount of the franking franked distribution credit on the franked                           × amount of the franked  distribution The entity's share of the franked distribution is determined by reference to the table in s 207-55.
 
 Distribution flowing indirectly to an entity The only circumstances in which a franked distribution is taken to "ﬂow indirectly to" an entity (see below) or "ﬂow indirectly through" an entity (¶4-800) are described in s 207-50.
 

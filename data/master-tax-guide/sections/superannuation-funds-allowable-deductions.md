@@ -27,7 +27,7 @@ Capital expenditure incurred in establishing a structure for a regulated superan
 
 A deduction was not available under ITAA97 s 25-45 (loss by theft) for misappropriation by the trustee of an SMSF as the loss was not caused by the misappropriation of an employee or agent (Shail 2011 ATC ¶10-228; [2011] AATA 940).
 
-Apportionment of expenditure Expenditure that is only incurred in gaining or producing non-assessable income is not deductible under s 8-1. However, expenditure (eg a fund's general administrative and management expenses) which is incurred partly in producing assessable income and partly in gaining non-assessable income must be apportioned to determine the amount that is deductible under s 8-1.
+Apportionment of expenditure. Expenditure that is only incurred in gaining or producing non-assessable income is not deductible under s 8-1. However, expenditure (eg a fund's general administrative and management expenses) which is incurred partly in producing assessable income and partly in gaining non-assessable income must be apportioned to determine the amount that is deductible under s 8-1.
 
 Apportionment ensures that expenditure is deductible only to the extent to which it is incurred in producing assessable income (the ﬁrst limb in s 8-1(1)(a)), or it has the character of an operating or working expense of a business or is an essential part of the cost of the fund's business operations (the second limb in s 8-1(1) (b)).
 

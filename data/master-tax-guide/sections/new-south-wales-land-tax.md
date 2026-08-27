@@ -25,7 +25,7 @@ Companies are related where one company holds a controlling interest in another,
 
 The grouping mechanism is designed to prevent avoidance of land tax by using company structures to disperse ownership of interests in land. It ensures that the total taxable value of group land holdings is assessed with the beneﬁt of only one tax-free threshold and one premium rate threshold. The Chief Commissioner can designate one or more companies in the group as a single "concessional" company and assess that company with the beneﬁt of the tax-free and premium thresholds. Other related companies are designated "non-concessional". If the aggregate taxable value of all land within the company group exceeds the tax-free or premium thresholds, land owned by non-concessional companies is taxed at the applicable rate on the full taxable value of land they own.
 
-Trusts Trusts are either ﬁxed trusts or special trusts. Trustees of ﬁxed trusts, as the legal owners of land in the trust, are assessed in a primary assessment at general rates with the land tax and premium rate thresholds.
+Trusts are either ﬁxed trusts or special trusts. Trustees of ﬁxed trusts, as the legal owners of land in the trust, are assessed in a primary assessment at general rates with the land tax and premium rate thresholds.
 
 Similar to the case of joint owners, beneﬁciaries of ﬁxed trusts are subject to a secondary assessment on their proportionate interest in the trust along with any other land they own with a deduction to prevent double taxation.
 

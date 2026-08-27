@@ -2,10 +2,10 @@
 act: "Australian Master Tax Examples"
 part: "2"
 section: "2-140-granting-a-lease-lease-variation"
-title: "2-140 - Granting a lease lease variation"
+title: "2-140 - Granting a  lease variation"
 paragraph: "None"
 ---
-# 2-140 - Granting a lease lease variation
+# 2-140 - Granting a  lease variation
 
 Worked example: Granting a lease; lease variation Issue Metro Service Station is an independent petrol retailer. On 1 April 2021, the proprietor of Metro Service Station granted a 5-year lease to United Petroleum Ltd to use the Metro Service Station as an outlet for the exclusive supply of its petrol. The annual rent was set at an initial $2,000 with a 5% annual rent escalation clause. In addition, United Petroleum Ltd paid Metro Service Station a lease premium of $50,000. Metro Service Station incurred legal and stamp duty costs of $3,500 in executing the lease.
 

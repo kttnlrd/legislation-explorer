@@ -18,9 +18,9 @@ INPUT_DIR = Path("/home/harrison/projects/ARCHIVE_cadena-knowledge-MCP/pipeline/
 OUTPUT_BASE = Path.home() / "legislation-explorer" / "data"
 
 PUBS = {
-    "master_tax_guide.json":    {"id": "master-tax-guide",   "name": "Australian Master Tax Guide", "ch_label": "Ch", "compilation_no": "1", "compilation_date": "2026-04-01"},
-    "master_gst_guide.json":    {"id": "master-gst-guide",   "name": "Australian Master GST Guide", "ch_label": "Ch", "compilation_no": "1", "compilation_date": "2026-04-01"},
-    "master_tax_examples.json": {"id": "master-tax-examples","name": "Australian Master Tax Examples", "ch_label": "Topic", "compilation_no": "2", "compilation_date": "2026-04-01"},
+    "master_tax_guide.json":    {"id": "master-tax-guide",   "name": "Australian Master Tax Guide", "ch_label": "Ch", "compilation_no": 1, "compilation_date": "2026-04-01"},
+    "master_gst_guide.json":    {"id": "master-gst-guide",   "name": "Australian Master GST Guide", "ch_label": "Ch", "compilation_no": 1, "compilation_date": "2026-04-01"},
+    "master_tax_examples.json": {"id": "master-tax-examples","name": "Australian Master Tax Examples", "ch_label": "Topic", "compilation_no": 2, "compilation_date": "2026-04-01"},
 }
 
 

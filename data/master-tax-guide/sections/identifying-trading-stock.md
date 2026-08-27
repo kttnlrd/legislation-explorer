@@ -57,7 +57,7 @@ Cars subject to a ﬂoor plan arrangement were held to be trading stock of a who
 
 Goods on consignment Where goods on consignment are delivered to an agent for sale by the agent on behalf of the consignor as principal, the goods remain trading stock of the consignor. However, if the goods are delivered to the consignee on approval, or on sale or return, and the consignment involves a sale of the goods to the consignee, the goods are included in trading stock on hand of the consignee and deductions are allowed to the consignee for the cost of the goods as at the date of delivery (IT 2472).
 
-Land Land is capable of being trading stock in the hands of a land dealer, notwithstanding that it may not be in the condition in which it is intended to be sold (St Hubert's Island 78 ATC 4104; [1978] HCA 10, R & D Holdings 2006 ATC 4472; [2006] FCA 981).
+Land is capable of being trading stock in the hands of a land dealer, notwithstanding that it may not be in the condition in which it is intended to be sold (St Hubert's Island 78 ATC 4104; [1978] HCA 10, R & D Holdings 2006 ATC 4472; [2006] FCA 981).
 
 To be trading stock, the land must be held for resale and a business activity that involves dealing in land must have commenced. The acquisition of land does not have to be repetitive. Land from a single acquisition of land for the purpose of development, subdivision and sale by a business commenced for that purpose can be trading stock (TD 92/124).
 

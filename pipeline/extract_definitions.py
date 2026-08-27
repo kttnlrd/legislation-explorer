@@ -199,15 +199,24 @@ def make_anchor(section: str, key: str) -> str:
 
 def capture_term(text: str) -> str | None:
     """Capture the raw defined term from the start of a definition block."""
+    term = None
     m = PREDICATE_RE.match(text)
     if m:
-        return m.group(1).strip()
-    m = COLON_RE.match(text)
-    if m:
         term = m.group(1).strip()
-        term = TRAILING_PREDICATE_RE.sub("", term).strip()
-        return term or None
-    return None
+    else:
+        m = COLON_RE.match(text)
+        if m:
+            term = m.group(1).strip()
+            term = TRAILING_PREDICATE_RE.sub("", term).strip()
+    if not term:
+        return None
+    # Reject list-style continuation fragments (CDN-0172): dictionary items
+    # are enumerated ("(a) X means ...; (b) Y ...") and a captured line ending
+    # in "and"/"of"/"the"/"or" is the tail of a list item, not a term —
+    # e.g. "film and", "arrangement in relation to property ends and".
+    if re.search(r"\b(?:and|of|the|or)$", term, re.IGNORECASE):
+        return None
+    return term
 
 
 def iter_definition_starts(block_text: str):

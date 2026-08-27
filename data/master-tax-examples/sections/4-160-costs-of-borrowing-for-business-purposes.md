@@ -15,7 +15,7 @@ Is Ben entitled to a tax deduction for the outgoings he incurs in relation to th
 
 Solution Ben has incurred 2 types of expenditure: (i) the interest, and (ii) the borrowing costs.
 
-Interest Interest is deductible to the extent that it is expenditure incurred in gaining or producing assessable income or necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income (ITAA97 s 8-1).
+Interest is deductible to the extent that it is expenditure incurred in gaining or producing assessable income or necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income (ITAA97 s 8-1).
 
 In determining the deductibility of interest, significance is placed on the use to which the borrowed money is put. Under this "use test", interest may be deductible if the money is used to acquire income-producing assets such as business premises or shares or to meet current business expenses.
 

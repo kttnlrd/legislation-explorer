@@ -66,8 +66,9 @@ def link_cch_paragraph_refs(markdown: str, context_act: str) -> str:
 # Predicates that introduce definitions
 DEF_PREDICATE_RE = re.compile(
     r"^(\*\*\(\d+\)\*\*\s+)?"  # optional subsection marker at line start
-    r"([A-Za-z0-9\-'%*][A-Za-z0-9\-'%* ]{0,80}?)\s+"
-    r"(has the meaning given by|means|has the same meaning as in|includes|has the meaning affected by)",
+    r"([A-Za-z0-9\-'%*()][A-Za-z0-9\-'%*() ]{0,80}?)\s+"
+    r"(has the meaning given by|means|has the same meaning as(?: in)?|"
+    r"has (?:a|the) meaning affected by|includes)",
     re.IGNORECASE | re.MULTILINE,
 )
 
@@ -193,7 +194,8 @@ def format_definition_terms(markdown: str, section: str, act: str = "") -> str:
     if section in ("6", "195-1") and "***" not in result:
         GENERAL_PREDICATE_RE = re.compile(
             r"([A-Za-z0-9\-'%*][A-Za-z0-9\-'%* ]{0,80}?)\s+"
-            r"(has the meaning given by|means|has the same meaning as in|includes|has the meaning affected by)",
+            r"(has the meaning given by|means|has the same meaning as(?: in)?|"
+            r"has (?:a|the) meaning affected by|includes)",
             re.IGNORECASE,
         )
 

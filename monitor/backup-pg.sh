@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
-# Daily PostgreSQL backup for Legislation Explorer (11.5GB DB).
+# Monthly PostgreSQL backup for Legislation Explorer — the corpus only
+# changes on the monthly update (1st), so a daily dump is N copies of the
+# same data. Runs after monthly_update.sh; 4 dumps kept as rolling history.
 set -euo pipefail
 
 BACKUP_DIR="/home/harrison/backups/legislation-explorer"
 CONTAINER="cadena-postgres"
 DB_NAME="cadena_knowledge"
-RETENTION_DAYS=30
 
 mkdir -p "$BACKUP_DIR"
 
@@ -15,7 +16,7 @@ BACKUP_FILE="${BACKUP_DIR}/pg_$(date +%F_%H%M%S).dump"
 # SQL pipe through gzip and seekable for selective restore.
 docker exec "$CONTAINER" pg_dump -U postgres -Fc --compress=9 "$DB_NAME" > "$BACKUP_FILE"
 
-# Trim backups older than retention
-find "$BACKUP_DIR" -name "pg_*.dump" -mtime +"$RETENTION_DAYS" -delete 2>/dev/null
+# Trim to the 4 most recent (one per version-bump since the dump is monthly)
+ls -1t "$BACKUP_DIR"/pg_*.dump 2>/dev/null | tail -n +5 | xargs -r rm -- 2>/dev/null
 
 echo "Backup: $(du -h "$BACKUP_FILE" | cut -f1) — $(ls "$BACKUP_DIR"/*.dump 2>/dev/null | wc -l) backups retained"
