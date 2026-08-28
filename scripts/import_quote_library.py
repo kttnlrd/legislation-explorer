@@ -68,6 +68,7 @@ for target in ("xl/worksheets/sheet1.xml", "xl/worksheets/sheet2.xml"):
             currency=(cells.get("D") or "").strip() or None,
             terms=(cells.get("E") or "").strip() or None,
             alt=alt or None,
+            anonymise=False,  # firm's own library: store verbatim, no heuristics
         )
         existing.add((quote["title"], quote["text"]))
         counts["imported"] += 1

@@ -120,6 +120,23 @@ def anonymise_text(text: str, extra_names: list[str] | None = None) -> str:
     return out
 
 
+# ────────────────────────── style rules ──────────────────────────
+
+# Formatting conventions observed across the BD-Quote Library corpus plus
+# the controlled vocabularies from the spreadsheet's Variables sheet.
+STYLE_RULES = {
+    "heading": "First line is a bold heading: **Title (marker)** where marker is fixed / estimate / Fixed Fee / Fixed in USD.",
+    "markers": ["(fixed)", "(estimate)", "(estimated)", "(Fixed Fee)", "(Fixed in USD)"],
+    "placeholder": "Use XXX for client/entity names (e.g. 'Shareholders agreement for XXX entity'); COMPANY Pty Ltd also appears.",
+    "currency": "Amounts in USD or AUD, styled like $3,600 - $4,000 or $3,000.00 - $3,500.00; '(in USD)' / 'fixed in USD' markers.",
+    "terms": ["One-off", "Annual", "Quarterly", "Monthly"],
+    "tags": ["Cadena International", "Cadena Legal (Tax)", "Cadena Legal (Commercial)"],
+    "structure": "Heading line, blank line, body; numbered lists as (a)/(b)/(c) or 1./2.; optional trailing notes.",
+    "alt": "The alt field holds an alternate wording variant where the spreadsheet's Alt Quote Text column was populated.",
+    "anonymisation": "Quotes added via POST are one-way anonymised (PII -> [KIND_n]); library imports are stored verbatim.",
+}
+
+
 # ────────────────────────── storage ──────────────────────────
 
 def _load() -> list[dict]:
@@ -140,17 +157,25 @@ def _save(quotes: list[dict]) -> None:
 
 def add_quote(title: str, date: str, text: str, names: list[str] | None = None,
               tag: str | None = None, cost: str | None = None, currency: str | None = None,
-              terms: str | None = None, alt: str | None = None) -> dict:
+              terms: str | None = None, alt: str | None = None,
+              anonymise: bool = True) -> dict:
+    """Add a quote. anonymise=True (default, POST path) runs one-way PII
+    masking. Bulk imports of the firm's own library pass anonymise=False —
+    the label/name heuristics are tuned for client letters and corrupt
+    business prose ("Employee Share Scheme", "Nominee Director fees")."""
+    def _t(s):
+        return anonymise_text(s, names) if anonymise else s.strip()
+
     quote = {
         "id": uuid.uuid4().hex[:12],
-        "title": anonymise_text(title, names),
+        "title": _t(title),
         "date": date.strip(),
-        "text": anonymise_text(text, names),
+        "text": _t(text),
         "added_at": datetime.now(timezone.utc).isoformat(),
     }
     for key, val in (("tag", tag), ("cost", cost), ("currency", currency), ("terms", terms), ("alt", alt)):
         if val is not None and str(val).strip() != "":
-            quote[key] = anonymise_text(str(val).strip(), names) if key == "alt" else str(val).strip()
+            quote[key] = _t(str(val)) if key == "alt" else str(val).strip()
     with _lock:
         quotes = _load()
         quotes.append(quote)
@@ -158,16 +183,20 @@ def add_quote(title: str, date: str, text: str, names: list[str] | None = None,
     return quote
 
 
-def quote_info() -> list[dict]:
+def quote_info() -> dict:
+    """Return style rules + all quotes (title, date, text, metadata)."""
     quotes = _load()
-    return sorted(
-        (
-            {"id": q.get("id"), "title": q.get("title"), "date": q.get("date"), "text": q.get("text"),
-             **{k: q.get(k) for k in ("tag", "cost", "currency", "terms", "alt") if q.get(k) is not None}}
-            for q in quotes
+    return {
+        "style_rules": STYLE_RULES,
+        "quotes": sorted(
+            (
+                {"id": q.get("id"), "title": q.get("title"), "date": q.get("date"), "text": q.get("text"),
+                 **{k: q.get(k) for k in ("tag", "cost", "currency", "terms", "alt") if q.get(k) is not None}}
+                for q in quotes
+            ),
+            key=lambda q: (q.get("date") or ""),
         ),
-        key=lambda q: (q.get("date") or ""),
-    )
+    }
 
 
 def quote_fetch(keyword: str, limit: int = 20) -> list[dict]:
@@ -175,7 +204,7 @@ def quote_fetch(keyword: str, limit: int = 20) -> list[dict]:
     if not kw:
         return []
     scored = []
-    for q in quote_info():
+    for q in quote_info()["quotes"]:
         title = (q.get("title") or "").lower()
         text = (q.get("text") or "").lower()
         score = title.count(kw) * 2 + text.count(kw)
@@ -204,4 +233,4 @@ def create_quote(body: QuoteIn):
 
 @router.get("")
 def list_quotes():
-    return {"quotes": quote_info()}
+    return quote_info()

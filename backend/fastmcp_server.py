@@ -2637,12 +2637,13 @@ async def graph_path(from_key: str, to_key: str, max_hops: int = 10) -> str:
 
 @mcp.tool(structured_output=False)
 async def quote_info() -> str:
-    """List all quotes in the quote list (title, date, text), sorted by date.
+    """List all quotes (title, date, text) plus the library's style rules.
 
-    Quotes are stored anonymised (PII replaced with [KIND_n] placeholders).
+    Quotes are stored anonymised (PII replaced with [KIND_n] placeholders)
+    when added via POST; library imports are stored verbatim.
     """
     from backend.routes.quotes import quote_info as _quote_info
-    return json.dumps({"quotes": _quote_info()}, indent=2)
+    return json.dumps(_quote_info(), indent=2)
 
 
 @mcp.tool(structured_output=False)
