@@ -285,4 +285,57 @@ fails_mcp = [r for r in results if r[0] == "mcp" and r[2] == "FAIL"]
 finds_mcp = [r for r in results if r[0] == "mcp" and r[2] == "FIND"]
 print(f"\n── MCP PHASE: {sum(1 for r in results if r[0]=='mcp')} checks | FAIL {len(fails_mcp)} | FIND {len(finds_mcp)}")
 print(f"\n═══ TOTAL: {len(results)} checks | FAIL {len(fails_api + fails_mcp)} | FIND {len(finds_api + finds_mcp)} ═══")
+
+# ── sync findings into the issues list (CDN tickets) ─────────────────────────
+# Every run (manual or cron) upserts FAIL/FIND results into the issues portal:
+# one open ticket per finding CLASS, no duplicates on repeat runs.
+def _stable_key(phase, check, detail):
+    m = re.match(r"section (\S+)/", check)
+    if m and "COMP-MISMATCH" in detail:
+        return f"section {m.group(1)} COMP-MISMATCH"
+    return check
+
+def sync_issues():
+    problems = [r for r in results if r[2] in ("FAIL", "FIND")]
+    if not problems:
+        print("[issues] clean run — nothing to sync")
+        return
+    try:
+        r = httpx.get(f"{BASE}/api/issues", headers=H, timeout=60)
+        rows = r.json().get("issues", []) if r.status_code == 200 else []
+    except Exception as e:
+        print(f"[issues] list failed ({e}) — skipping sync")
+        return
+    # param_hash is not returned by the API; dedupe on (tool, params) of open/known rows
+    tracked = {
+        (x.get("tool"), x.get("params"))
+        for x in rows if x.get("status") in ("open", "known") and str(x.get("tool", "")).startswith("audit")
+    }
+    created = skipped = 0
+    for phase, check, status, detail in problems:
+        params = _stable_key(phase, check, detail)
+        tool = f"audit/{phase}"
+        if (tool, params) in tracked:
+            skipped += 1
+            continue
+        resp = httpx.post(
+            f"{BASE}/api/issues", headers=H,
+            json={
+                "category": "bug",
+                "tool": tool,
+                "params": params,
+                "expected": f"{status} not present (audit seed {SEED})",
+                "actual": detail,
+                "note": f"randomised audit seed {SEED}; {status} — {check}",
+            },
+            timeout=60,
+        )
+        if resp.status_code == 200:
+            created += 1
+            tracked.add((tool, params))
+        else:
+            print(f"[issues] create failed for '{params}': {resp.status_code} {resp.text[:150]}")
+    print(f"[issues] synced: {created} new ticket(s), {skipped} already tracked")
+
+sync_issues()
 sys.exit(0 if not (fails_api or fails_mcp) else 2)
