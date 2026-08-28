@@ -199,19 +199,28 @@ def quote_info() -> dict:
     }
 
 
-def quote_fetch(keyword: str, limit: int = 20) -> list[dict]:
+def quote_fetch(keyword: str = "", limit: int = 10, offset: int = 0) -> dict:
+    """Browse/search quotes. Empty keyword = browse all (paginated).
+    Non-empty = relevance search (title hits weigh double)."""
     kw = (keyword or "").strip().lower()
-    if not kw:
-        return []
-    scored = []
-    for q in quote_info()["quotes"]:
-        title = (q.get("title") or "").lower()
-        text = (q.get("text") or "").lower()
-        score = title.count(kw) * 2 + text.count(kw)
-        if score:
-            scored.append((score, q))
-    scored.sort(key=lambda t: -t[0])
-    return [q for _, q in scored[:limit]]
+    allq = quote_info()["quotes"]  # sorted by date
+    if kw:
+        scored = []
+        for q in allq:
+            title = (q.get("title") or "").lower()
+            text = (q.get("text") or "").lower()
+            s = title.count(kw) * 2 + text.count(kw)
+            if s:
+                scored.append((s, q))
+        scored.sort(key=lambda t: -t[0])
+        ordered = [q for _, q in scored]
+    else:
+        ordered = allq
+    total = len(ordered)
+    limit = max(1, min(int(limit or 10), 100))
+    offset = max(0, int(offset or 0))
+    return {"query": kw, "total": total, "limit": limit, "offset": offset,
+            "quotes": ordered[offset:offset + limit]}
 
 
 # ────────────────────────── REST endpoints ──────────────────────────
@@ -232,5 +241,6 @@ def create_quote(body: QuoteIn):
 
 
 @router.get("")
-def list_quotes():
-    return quote_info()
+def list_quotes(q: str = "", limit: int = 10, offset: int = 0):
+    """Browse (no q) or search (q) quotes; paginated, max 10 per page default."""
+    return quote_fetch(q, limit=limit, offset=offset)

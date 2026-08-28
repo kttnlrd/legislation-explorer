@@ -2647,11 +2647,13 @@ async def quote_info() -> str:
 
 
 @mcp.tool(structured_output=False)
-async def quote_fetch(keyword: str, limit: int = 20) -> str:
-    """Basic keyword search over the quote list (title + text).
+async def quote_fetch(keyword: str = "", limit: int = 10, offset: int = 0) -> str:
+    """Browse or search the quote list (title + text).
 
-    Returns quotes whose title or text contains the keyword, best matches
-    first (title hits weigh double). Empty keyword returns no quotes.
+    Empty keyword = browse all quotes, paginated (default 10 per page).
+    Non-empty keyword = simple text search, best matches first (title hits
+    weigh double). Response includes total/limit/offset so callers can page
+    through with offset=limit.
     """
     from backend.routes.quotes import quote_fetch as _quote_fetch
-    return json.dumps({"query": keyword, "quotes": _quote_fetch(keyword, limit=limit)}, indent=2)
+    return json.dumps(_quote_fetch(keyword, limit=limit, offset=offset), indent=2)
