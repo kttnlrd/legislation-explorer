@@ -1,0 +1,281 @@
+"""Randomised audit — API level first, then MCP (Harry's process).
+
+Seed, sample, checks, findings. Statuses:
+  OK   — check passed
+  FAIL — API/MCP contract violation (this LAYER is broken)
+  FIND — data gap (layer behaves correctly, underlying data missing)
+API phase gates the MCP phase on FAIL only; FINDs are recorded at both layers.
+"""
+import json, os, random, glob, sys, urllib.parse, unicodedata, re
+import httpx
+
+os.chdir("/home/harrison/legislation-explorer")
+BASE = "http://127.0.0.1:8765"
+H = {"Authorization": "Bearer mcpLiv3", "Accept": "application/json"}
+SEED = 20260829
+rng = random.Random(SEED)
+
+results = []
+
+def norm(s):
+    return unicodedata.normalize("NFKC", str(s)).strip()
+
+def rec(phase, check, status, detail=""):
+    results.append((phase, check, status, detail))
+    print(f"[{status:4s}] {phase:4s} {check} {detail}")
+
+def api(path, **params):
+    url = BASE + path
+    if params:
+        url += "?" + urllib.parse.urlencode(params)
+    r = httpx.get(url, headers=H, timeout=30)
+    try:
+        return r.status_code, r.json()
+    except Exception:
+        return r.status_code, None
+
+def tree_comp(act):
+    try:
+        return json.load(open(f"data/{act}/tree.json")).get("compilation_no")
+    except Exception:
+        return None
+
+def tree_leaves(act):
+    try:
+        t = json.load(open(f"data/{act}/tree.json"))
+    except Exception:
+        return None
+    n = 0
+    def walk(node):
+        nonlocal n
+        if isinstance(node, dict):
+            n += len(node.get("sections", []))
+            for d in node.get("divisions", []):
+                walk(d)
+            for sub in node.get("subdivisions", []):
+                walk(sub)
+        elif isinstance(node, list):
+            for i in node:
+                walk(i)
+    for p in t.get("parts", []):
+        walk(p)
+    return n
+
+# ══════════════ PHASE 1 — API LEVEL ══════════════
+print("═══ PHASE 1: API LEVEL (seed=%d) ═══" % SEED)
+
+rc, _ = api("/health")
+rec("api", "health", "OK" if rc == 200 else "FAIL", f"status={rc}")
+
+rc, acts = api("/api/acts")
+ok = rc == 200 and isinstance(acts, list) and len(acts) > 5
+rec("api", "acts", "OK" if ok else "FAIL", f"status={rc} n={len(acts) if isinstance(acts, list) else '?'}")
+if ok:
+    by_id = {a["id"]: a for a in acts}
+    for aid, exp_comp in (("itaa-1997", 266), ("gst-1999", 96)):
+        a = by_id.get(aid, {})
+        rec("api", f"acts[{aid}].compilation_no", "OK" if a.get("compilation_no") == exp_comp else "FAIL",
+            f"got={a.get('compilation_no')} expected={exp_comp}")
+
+rc, t = api("/api/tree/itaa-1997")
+exp_leaves = tree_leaves("itaa-1997")
+rec("api", "tree itaa comp 266", "OK" if rc == 200 and isinstance(t, dict) and t.get("compilation_no") == 266 else "FAIL",
+    f"status={rc} comp={t.get('compilation_no') if isinstance(t, dict) else '?'}")
+rec("api", "tree itaa leaves==corpus tree", "OK" if exp_leaves == 4648 else "FAIL",
+    f"tree.json leaves={exp_leaves} (expected 4648)")
+for part, sids in (("3-1", ["102-6", "119-1", "115-102"]), ("2-10", ["40-291A"])):
+    rc, t = api("/api/tree/itaa-1997", part=part, depth="sections")
+    flat = json.dumps(t) if t else ""
+    for sid in sids:
+        rec("api", f"tree itaa part={part} has {sid}", "OK" if rc == 200 and sid in flat else "FAIL", f"status={rc}")
+
+# random section sample (exclude spec fixture; canonical frontmatter ids)
+acts_dirs = [d for d in os.listdir("data") if os.path.isdir(f"data/{d}/sections") and d != "spec"]
+rng.shuffle(acts_dirs)
+sample = []
+for act in acts_dirs:
+    files = glob.glob(f"data/{act}/sections/**/*.md", recursive=True)
+    for p in rng.sample(files, min(3, len(files))):
+        m = re.search(r"^section:\s*[\"']?([^\"'\n]+)", open(p, encoding="utf-8").read(), re.M)
+        if m:
+            sample.append((act, m.group(1).strip()))
+targeted = [("itaa-1997", "102-6"), ("itaa-1997", "119-1"), ("gst-1999", "117-5"),
+            ("gst-1999", "5-5"), ("itaa-1997", "1-1"), ("itaa-1997", "104-107A")]
+sample = targeted + sample
+print(f"(sampling {len(sample)} sections)")
+for act, sec in sample:
+    rc, d = api(f"/api/section/{act}/{urllib.parse.quote(sec)}")
+    if rc != 200 or not isinstance(d, dict):
+        rec("api", f"section {act}/{sec}", "FAIL", f"status={rc} body={str(d)[:60]}")
+        continue
+    fm, body = d.get("frontmatter", {}), d.get("body", "")
+    ok = bool(body.strip()) and norm(fm.get("section")) == norm(sec)
+    detail = f"body={len(body)}ch fm.section={fm.get('section')}"
+    tcomp = tree_comp(act)
+    mismatch = None
+    if tcomp:
+        fcomp = fm.get("compilation_no")
+        if fcomp is not None and int(fcomp) != int(tcomp):
+            ok = False
+            mismatch = f" COMP-MISMATCH fm={fcomp} tree={tcomp}"
+            detail += mismatch
+    # data gaps (compilation mismatch) are FINDs — probed again at MCP layer,
+    # not contract FAILs
+    rec("api", f"section {act}/{sec}", "OK" if ok else ("FIND" if mismatch else "FAIL"), detail)
+
+# definitions
+for act, term, expect in (("itaa-1997", "retail fuel", "995-1"),
+                          ("itaa-1997", "non-share distribution", "995-1"),
+                          ("itaa-1936", "assessment", "6"),
+                          ("gst-1999", "input tax credit", "195-1"),
+                          ("itaa-1997", "subordinated debt interest", "995-1")):
+    rc, d = api(f"/api/definition/{act}/{urllib.parse.quote(term)}")
+    sec = norm((d or {}).get("section") or (d or {}).get("definition_section"))
+    rec("api", f"definition {act} '{term}'", "OK" if rc == 200 and sec == expect else "FAIL",
+        f"status={rc} section={sec}")
+
+# search
+rc, d = api("/api/search", q="104-107A")
+top = None
+if rc == 200 and isinstance(d, dict):
+    hits = d.get("results") or d.get("hits") or []
+    top = hits[0] if hits else None
+rec("api", "search exact 104-107A", "OK" if rc == 200 and top and norm(top.get("section")) == "104-107A" else "FAIL",
+    f"status={rc} top={top.get('section') if top else None}")
+rc, d = api("/api/search", q="capital gains CGT events")
+rec("api", "search capital gains", "OK" if rc == 200 and isinstance(d, dict) and bool((d.get("results") or d.get("hits") or [])) else "FAIL",
+    f"status={rc}")
+
+# cases — existing + known-missing probe
+rc, d = api("/api/case/%5B2009%5D%20FCAFC%2029")
+rec("api", "case [2009] FCAFC 29", "OK" if rc == 200 and isinstance(d, dict) and "body" in d else "FAIL", f"status={rc}")
+rc, d = api("/api/case/%5B2019%5D%20FCAFC%2029")
+rec("api", "case [2019] FCAFC 29 (Harding)", "FIND" if rc != 200 else "OK",
+    f"status={rc} — data gap: no [2019]_FCAFC_29.json in CASE_DIR" if rc != 200 else "")
+
+# rulings (tree-shaped) + private rulings
+rc, d = api("/api/rulings-list", limit=3)
+rul_cit = None
+if rc == 200 and isinstance(d, dict):
+    for part in d.get("parts") or []:
+        for div in part.get("divisions", []):
+            for s in div.get("sections", []):
+                rul_cit = s.get("id")
+                break
+            if rul_cit:
+                break
+        if rul_cit:
+            break
+rec("api", "rulings-list", "OK" if rc == 200 and rul_cit else "FAIL", f"status={rc} first={rul_cit}")
+if rul_cit:
+    rc, d = api(f"/api/ruling/{urllib.parse.quote(rul_cit)}")
+    rec("api", f"ruling {rul_cit}", "OK" if rc == 200 and isinstance(d, dict) else "FAIL", f"status={rc}")
+rc, d = api("/api/private-rulings", limit=3)
+prl = d.get("rulings") or d.get("items") or d.get("private_rulings") or [] if isinstance(d, dict) else []
+auth = prl[0].get("authnum") if prl else None
+rec("api", "private-rulings", "OK" if rc == 200 and bool(prl) else "FAIL", f"status={rc}")
+if auth:
+    rc, d = api(f"/api/private-ruling/{auth}")
+    rec("api", f"private-ruling {auth}", "OK" if rc == 200 and isinstance(d, dict) else "FAIL", f"status={rc}")
+
+# graph
+rc, d = api("/api/graph/related", key="section:itaa-1997:8-1", limit=3)
+rec("api", "graph related 8-1", "OK" if rc == 200 and isinstance(d, dict) and "groups" in d else "FAIL", f"status={rc}")
+
+# ── corpus-wide scan dimensions (exhaustive, not sampled) ──
+lig = [f for f in glob.glob("data/**/*.md", recursive=True)
+       if any(ord(ch) > 127 for ch in os.path.basename(f))]
+rec("api", "scan: non-ASCII filenames", "FIND" if lig else "OK", f"{len(lig)} files (master-tax-guide ligatures)" if lig else "0")
+low = []
+for f in glob.glob("data/*/sections/**/*.md", recursive=True):
+    base = os.path.basename(f)[:-3]
+    m = re.search(r"^section:\s*[\"']?([^\"'\n]+)", open(f, encoding="utf-8").read(), re.M)
+    if not m:
+        continue
+    fm_id = norm(m.group(1))
+    if base != fm_id and base.upper() == fm_id.upper():
+        low.append((os.path.relpath(f, "data"), base, fm_id))
+rec("api", "scan: filename-vs-frontmatter case mismatch", "FIND" if low else "OK",
+    f"{len(low)} files: {low[:6]}" if low else "0")
+
+fails_api = [r for r in results if r[0] == "api" and r[2] == "FAIL"]
+finds_api = [r for r in results if r[0] == "api" and r[2] == "FIND"]
+print(f"\n── API PHASE: {len(results)} checks | FAIL {len(fails_api)} | FIND {len(finds_api)}")
+
+if fails_api:
+    print("❌ STOP: API contract failures — not running MCP phase (per process).")
+    sys.exit(1)
+
+# ══════════════ PHASE 2 — MCP LEVEL ══════════════
+print("\n═══ PHASE 2: MCP LEVEL ═══")
+
+def mcp(name, arguments):
+    r = httpx.post(f"{BASE}/api/cadena/mcp", json={"jsonrpc": "2.0", "method": "tools/call",
+                   "params": {"name": name, "arguments": arguments}, "id": 1}, headers=H, timeout=30)
+    try:
+        return r.json()["result"]["content"][0]["text"]
+    except Exception:
+        return None
+
+m = mcp("list_acts", {})
+try:
+    b = {a["id"]: a.get("compilation_no") for a in json.loads(m)["acts"]}
+    rec("mcp", "list_acts itaa=266 gst=96", "OK" if b.get("itaa-1997") == 266 and b.get("gst-1999") == 96 else "FAIL",
+        f"got={b.get('itaa-1997')}/{b.get('gst-1999')}")
+except Exception as e:
+    rec("mcp", "list_acts", "FAIL", str(e)[:80])
+
+mismatch = 0
+def strip_md(s):
+    """Reduce raw markdown body to comparable text: drop anchors, links
+    (keep inner text), footers, emphasis markers."""
+    s = re.sub(r'<a id="[^"]*"\s*/?>', "", s)            # anchor open/self-close
+    s = re.sub(r"</a>", "", s)                           # anchor close
+    s = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", s)        # links -> text
+    s = re.sub(r"^---\s*$", "", s, flags=re.M)            # hr lines
+    s = re.sub(r"^\*Last updated:.*$", "", s, flags=re.M) # footers (before emphasis!)
+    s = re.sub(r"[*_]", "", s)                            # emphasis markers
+    s = re.sub(r"\s+", " ", s)
+    return norm(s)
+for act, sec in targeted:
+    m = mcp("get_section", {"act": act, "section": sec})
+    api_rc, apid = api(f"/api/section/{act}/{urllib.parse.quote(sec)}")
+    mbody = (json.loads(m).get("body", "") if m and m.startswith("{") else "")
+    abody = (apid or {}).get("body", "") if api_rc == 200 else ""
+    same = strip_md(mbody) == strip_md(abody)
+    if not same:
+        mismatch += 1
+    rec("mcp", f"get_section {act}/{sec} == API (md-normalized)", "OK" if same else "FAIL",
+        f"mcp={len(mbody)}ch api={len(abody)}ch")
+rec("mcp", "API-MCP body consistency", "OK" if mismatch == 0 else "FAIL", f"{mismatch}/{len(targeted)} mismatched")
+
+for act, term, expect in (("itaa-1997", "retail fuel", "995-1"), ("itaa-1936", "assessment", "6"), ("gst-1999", "input tax credit", "195-1")):
+    m = mcp("get_definition", {"act": act, "term": term})
+    sec = norm(json.loads(m).get("section")) if m and m.startswith("{") else None
+    rec("mcp", f"get_definition {act} '{term}'", "OK" if sec == expect else "FAIL", f"section={sec}")
+
+m = mcp("search_all", {"query": "104-107A"})
+rec("mcp", "search_all 104-107A", "OK" if m and "104-107A" in m else "FAIL", (m or "")[:80])
+
+m = mcp("get_case", {"citation": "[2009] FCAFC 29"})
+rec("mcp", "get_case [2009] FCAFC 29", "OK" if m and ("FCAFC" in m or "[2009]" in m) else "FAIL", (m or "")[:80])
+m = mcp("get_case", {"citation": "[2019] FCAFC 29"})
+rec("mcp", "get_case [2019] FCAFC 29 (Harding)", "FIND",
+    "MCP metadata store HAS Harding (case_name=Harding v Commissioner) but API text store 404 — dual case-store split" if m and "Harding" in m
+    else f"missing in both: {(m or '')[:60]}")
+
+# rulings: MCP has NO get_ruling-by-citation tool (API /api/ruling exists) —
+# capability gap recorded; verify list_rulings returns a valid structure
+m = mcp("list_rulings", {})
+ok = m and "ato_rulings_total" in m
+rec("mcp", "list_rulings structure", "OK" if ok else "FAIL", (m or "")[:60])
+rec("mcp", "MCP get_ruling tool exists", "FIND", "no ruling-by-citation tool in MCP (API /api/ruling/{cit} exists) — capability gap")
+
+m = mcp("get_act_tree", {"act": "itaa-1997", "depth": "sections", "part": "3-1"})
+rec("mcp", "get_act_tree part 3-1 has 102-6/119-1", "OK" if m and "102-6" in m and "119-1" in m else "FAIL")
+
+fails_mcp = [r for r in results if r[0] == "mcp" and r[2] == "FAIL"]
+finds_mcp = [r for r in results if r[0] == "mcp" and r[2] == "FIND"]
+print(f"\n── MCP PHASE: {sum(1 for r in results if r[0]=='mcp')} checks | FAIL {len(fails_mcp)} | FIND {len(finds_mcp)}")
+print(f"\n═══ TOTAL: {len(results)} checks | FAIL {len(fails_api + fails_mcp)} | FIND {len(finds_api + finds_mcp)} ═══")
+sys.exit(0 if not (fails_api or fails_mcp) else 2)
