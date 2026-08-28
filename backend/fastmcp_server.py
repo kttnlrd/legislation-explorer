@@ -2632,3 +2632,25 @@ async def graph_path(from_key: str, to_key: str, max_hops: int = 10) -> str:
 
 
 
+
+# ────────────────────────── quoting tool (standalone) ──────────────────────────
+
+@mcp.tool(structured_output=False)
+async def quote_info() -> str:
+    """List all quotes in the quote list (title, date, text), sorted by date.
+
+    Quotes are stored anonymised (PII replaced with [KIND_n] placeholders).
+    """
+    from backend.routes.quotes import quote_info as _quote_info
+    return json.dumps({"quotes": _quote_info()}, indent=2)
+
+
+@mcp.tool(structured_output=False)
+async def quote_fetch(keyword: str, limit: int = 20) -> str:
+    """Basic keyword search over the quote list (title + text).
+
+    Returns quotes whose title or text contains the keyword, best matches
+    first (title hits weigh double). Empty keyword returns no quotes.
+    """
+    from backend.routes.quotes import quote_fetch as _quote_fetch
+    return json.dumps({"query": keyword, "quotes": _quote_fetch(keyword, limit=limit)}, indent=2)
