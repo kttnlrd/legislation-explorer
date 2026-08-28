@@ -6,13 +6,20 @@ Seed, sample, checks, findings. Statuses:
   FIND — data gap (layer behaves correctly, underlying data missing)
 API phase gates the MCP phase on FAIL only; FINDs are recorded at both layers.
 """
-import json, os, random, glob, sys, urllib.parse, unicodedata, re
+import argparse, json, os, random, glob, sys, urllib.parse, unicodedata, re
 import httpx
+from datetime import date
 
 os.chdir("/home/harrison/legislation-explorer")
 BASE = "http://127.0.0.1:8765"
 H = {"Authorization": "Bearer mcpLiv3", "Accept": "application/json"}
-SEED = 20260829
+
+# Seed: explicit --seed for reproducibility; default = today (new seed per run,
+# per the randomised-audit methodology — "100% pass is suspicious").
+_ap = argparse.ArgumentParser(description="Randomised data audit (API first, then MCP).")
+_ap.add_argument("--seed", type=int, default=int(date.today().strftime("%Y%m%d")))
+_args = _ap.parse_args()
+SEED = _args.seed
 rng = random.Random(SEED)
 
 results = []
