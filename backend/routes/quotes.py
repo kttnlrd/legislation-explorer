@@ -138,7 +138,9 @@ def _save(quotes: list[dict]) -> None:
     tmp.replace(QUOTES_FILE)
 
 
-def add_quote(title: str, date: str, text: str, names: list[str] | None = None) -> dict:
+def add_quote(title: str, date: str, text: str, names: list[str] | None = None,
+              tag: str | None = None, cost: str | None = None, currency: str | None = None,
+              terms: str | None = None, alt: str | None = None) -> dict:
     quote = {
         "id": uuid.uuid4().hex[:12],
         "title": anonymise_text(title, names),
@@ -146,6 +148,9 @@ def add_quote(title: str, date: str, text: str, names: list[str] | None = None) 
         "text": anonymise_text(text, names),
         "added_at": datetime.now(timezone.utc).isoformat(),
     }
+    for key, val in (("tag", tag), ("cost", cost), ("currency", currency), ("terms", terms), ("alt", alt)):
+        if val is not None and str(val).strip() != "":
+            quote[key] = anonymise_text(str(val).strip(), names) if key == "alt" else str(val).strip()
     with _lock:
         quotes = _load()
         quotes.append(quote)
@@ -156,7 +161,11 @@ def add_quote(title: str, date: str, text: str, names: list[str] | None = None) 
 def quote_info() -> list[dict]:
     quotes = _load()
     return sorted(
-        ({"id": q.get("id"), "title": q.get("title"), "date": q.get("date"), "text": q.get("text")} for q in quotes),
+        (
+            {"id": q.get("id"), "title": q.get("title"), "date": q.get("date"), "text": q.get("text"),
+             **{k: q.get(k) for k in ("tag", "cost", "currency", "terms", "alt") if q.get(k) is not None}}
+            for q in quotes
+        ),
         key=lambda q: (q.get("date") or ""),
     )
 
