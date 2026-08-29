@@ -224,6 +224,15 @@ def mcp(name, arguments):
     except Exception:
         return None
 
+def tools_list():
+    r = httpx.post(f"{BASE}/api/cadena/mcp", json={"jsonrpc": "2.0", "method": "tools/list",
+                   "params": {}, "id": 1}, headers=H, timeout=30)
+    try:
+        names = [t.get("name") for t in r.json()["result"]["tools"]]
+        return names
+    except Exception:
+        return []
+
 m = mcp("list_acts", {})
 try:
     b = {a["id"]: a.get("compilation_no") for a in json.loads(m)["acts"]}
@@ -267,16 +276,26 @@ rec("mcp", "search_all 104-107A", "OK" if m and "104-107A" in m else "FAIL", (m 
 m = mcp("get_case", {"citation": "[2009] FCAFC 29"})
 rec("mcp", "get_case [2009] FCAFC 29", "OK" if m and ("FCAFC" in m or "[2009]" in m) else "FAIL", (m or "")[:80])
 m = mcp("get_case", {"citation": "[2019] FCAFC 29"})
-rec("mcp", "get_case [2019] FCAFC 29 (Harding)", "FIND",
-    "MCP metadata store HAS Harding (case_name=Harding v Commissioner) but API text store 404 — dual case-store split" if m and "Harding" in m
-    else f"missing in both: {(m or '')[:60]}")
+api_has = False
+try:
+    r = httpx.get(f"{BASE}/api/case/[2019] FCAFC 29", headers=H, timeout=60)
+    api_has = r.status_code == 200 and len(r.json().get("body", "")) > 100
+except Exception:
+    pass
+rec("mcp", "get_case [2019] FCAFC 29 (Harding)", "OK" if (m and "Harding" in m and api_has) else "FIND",
+    "dual case-store split resolved" if (m and "Harding" in m and api_has) else
+    f"MCP={'yes' if m and 'Harding' in m else 'no'} API_text={'yes' if api_has else 'no'}")
 
-# rulings: MCP has NO get_ruling-by-citation tool (API /api/ruling exists) —
-# capability gap recorded; verify list_rulings returns a valid structure
+# rulings: F4 added the get_ruling-by-citation tool — verify it exists and works
+tools = tools_list()
+has_tool = "get_ruling" in tools
+g = mcp("get_ruling", {"citation": "CR 2017/74"})
+g_ok = bool(g) and "CR 2017/74" in g and "Public Rulings" in g
+rec("mcp", "MCP get_ruling tool exists", "OK" if (has_tool and g_ok) else "FAIL",
+    f"tools_list_has={'yes' if has_tool else 'no'} exercise={'ok' if g_ok else (g or '')[:60]}")
 m = mcp("list_rulings", {})
 ok = m and "ato_rulings_total" in m
 rec("mcp", "list_rulings structure", "OK" if ok else "FAIL", (m or "")[:60])
-rec("mcp", "MCP get_ruling tool exists", "FIND", "no ruling-by-citation tool in MCP (API /api/ruling/{cit} exists) — capability gap")
 
 m = mcp("get_act_tree", {"act": "itaa-1997", "depth": "sections", "part": "3-1"})
 rec("mcp", "get_act_tree part 3-1 has 102-6/119-1", "OK" if m and "102-6" in m and "119-1" in m else "FAIL")
