@@ -5,6 +5,17 @@ Source: `scripts/randomised_api_mcp_test.py` run (seed 20260825) — 88 checks,
 fix, verification gates, risk, rollback. Execution order: F1 → F2 → F3 → F4
 → F5 (no code) → F6 drafts → F7/F8 UI → re-audit.
 
+**F9 — compilation metadata mismatch (6 itaa-1997 files) — NEW (seed 20260829).**
+
+Audit seed 20260829 sampled `itaa-1997/44-35` — frontmatter `compilation_no: 263`
+(and footer "Compilation 263") vs tree.json comp 266. Full class: **6 files**
+(17-1, 20-1, 44-35, 322-1, 419-15, 200-1 — division outline sections; none
+touched by the comp-266 upgrade commit). Repo raw volumes are C2026C00122
+(comp 263); FRL latest = C2026C00324 (comp 266) — content currency for these 6
+UNVERIFIED. Fix: verify each section against FRL 266 text before touching
+metadata (metadata-only update if unchanged; re-ingest if changed). MEDIUM →
+review chain. Note: raw/ holds 263-era volumes act-wide (provenance artifact).
+
 Pre-flight (MANDATORY before F2/F3 renames): `git status --short` must be
 clean of uncommitted corpus WIP (rule: never rename over WIP). Backups:
 `cp data/<act>/tree.json backups/tree_<act>_pre_fix.json` for every touched act.

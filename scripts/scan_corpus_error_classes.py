@@ -58,10 +58,12 @@ def scan_empty_tree_nodes():
 
 
 # ── C3 (CDN-0054): title truncation heuristics ──────────────────────────────
-# A truncated title typically: ends mid-word with a hyphen, or is suspiciously
-# short for the section count, or ends with '…'/'..'
+# A truncated title typically: ends mid-word with a hyphen, or ends '…'/'..',
+# or ends with a standalone trailing word that indicates a cut (and/the/of/to
+# as the LAST word, e.g. 'Rules applying to particular gifts of'). Words that
+# merely CONTAIN those letters as suffixes ('demand', 'land') are NOT cuts.
 def scan_tree_titles():
-    suspicious_end = re.compile(r"[\w]-$|\.\.$|…$|and$|the$|of$|to$")
+    suspicious_end = re.compile(r"[\w]-\s*$|\.\.\s*$|…\s*$|\b(?:and|the|of|to)\s*$")
     for act in sorted(p.name for p in DATA.iterdir() if (p / "tree.json").exists()):
         try:
             t = json.loads((DATA / act / "tree.json").read_text())
@@ -203,6 +205,12 @@ def scan_definitions():
 
 # ── C10 (CDN-0051/0073/0120): case citations year-collision / name issues ───
 def scan_case_citations():
+    # NOTE: FCAFC case numbers restart every year, so "[2018] FCAFC 122" and
+    # "[2024] FCAFC 122" are DIFFERENT cases — normalizing the year away and
+    # counting repeats is a false-positive factory. Only flag:
+    #   (a) the exact same citation appearing more than once (true duplicate),
+    #   (b) the same court+number with NO year at all (year-less citation —
+    #       the CDN-0120 class that year-blind enrichment produced).
     for f in ["fcafc_tax_cases.json", "case_section_refs.json"]:
         p = DATA / f
         if not p.exists():
@@ -212,17 +220,27 @@ def scan_case_citations():
         except Exception:
             continue
         items = data if isinstance(data, list) else list(data.values())
-        cit_years = Counter()
+        seen_exact = Counter()
+        seen_courtnum = Counter()
         for it in items:
             if isinstance(it, dict):
                 c = it.get("citation", "")
-                m = re.match(r"\[(\d{4})\]", c)
-                if m:
-                    cit_years[(c.replace(m.group(1), "YYYY"))] += 1
-        for norm, cnt in cit_years.items():
+                if not c:
+                    continue
+                # (a) exact duplicates
+                seen_exact[c] += 1
+                # (b) year-less court+number (only when the citation has a
+                # court prefix like 'FCAFC 122' but no [year])
+                if re.match(r"^FCAFC\s+\d+", c):
+                    seen_courtnum[c] += 1
+        for cit, cnt in seen_exact.items():
             if cnt > 1:
                 add("C10_citation_collision", f"data/{f}",
-                    f"{norm} appears {cnt} times — year-collision risk (CDN-0120 class)")
+                    f"{cit!r} appears {cnt} times — exact duplicate")
+        for cit, cnt in seen_courtnum.items():
+            if cnt > 1:
+                add("C10_citation_collision", f"data/{f}",
+                    f"{cit!r} appears {cnt} times — year-less citation (CDN-0120 class)")
 
 
 def main():
