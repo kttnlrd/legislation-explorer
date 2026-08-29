@@ -11,7 +11,7 @@ from pathlib import Path
 from typing import Any
 
 from backend.config import DATA_DIR, RULING_DIR, SEARCH_DB, INSOLVENCY_DIR, TREATIES_DIR
-from backend.services.data_loader import load_tree, get_act_section_content
+from backend.services.data_loader import load_tree, get_act_section_content, validate_ruling_meta
 
 logger = logging.getLogger(__name__)
 
@@ -106,6 +106,9 @@ def init_search_index() -> None:
                 year = 0
                 ruling_type = ""
                 m = re.match(r'^([A-Za-z]+)_(\d{2,4})_(\d+)', f.stem)
+                if not m:
+                    # Draft citations: TD_2026_D1 → type TD, year 2026
+                    m = re.match(r'^([A-Za-z]+)_(\d{2,4})_D(\d+)', f.stem)
                 if m:
                     ruling_type = m.group(1).upper()
                     year = int(m.group(2))
@@ -117,6 +120,9 @@ def init_search_index() -> None:
                     meta_path = f.parent / (f.stem + ".txt.meta.json")
                 if meta_path.exists():
                     meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                    # Completeness gate: fail the index build if a fetched
+                    # ruling's citation/status/type/year disagrees with its file.
+                    validate_ruling_meta(f.stem, meta)
                     title = meta.get("title", citation)
 
                 # Fallback: if title is still the citation (no meta), try summary file
@@ -683,6 +689,10 @@ def _citation_to_display(citation: str) -> str:
     """Convert internal citation format to display format.
     e.g. 'TR_2012_1' → 'TR 2012/1', 'IT_342' → 'IT 342'
     """
+    # Draft citations: TD_2026_D1 → TD 2026/D1
+    m = re.match(r'^([A-Za-z]+)_(\d{4})_D(\d+)$', citation)
+    if m:
+        return f"{m.group(1)} {m.group(2)}/D{m.group(3)}"
     # Year-based citations: TR_2012_1 → TR 2012/1
     m = re.match(r'^([A-Za-z]+)_(\d{4})_(\d+)$', citation)
     if m:
@@ -870,8 +880,10 @@ def search_rulings(q: str, limit: int = 20, operator: str = "AND") -> list[dict]
     # Pin exact match to rank 1 if found
     if exact_row:
         exact_citation = exact_row["citation"]
-        # Remove any existing entry for the exact match
-        results = [r for r in results if r["section"] != exact_citation]
+        # Remove any existing entry for the exact match. Compare RAW citations:
+        # r["section"] is the display form ("TD 2026/D1") which never equals the
+        # stored form ("TD_2026_D1"), so comparing against it left duplicates.
+        results = [r for r in results if r.get("citation") != exact_citation]
         title = exact_row["title"]
         if title == exact_citation:
             summary_dir = Path(DATA_DIR) / "rulings" / "summaries"

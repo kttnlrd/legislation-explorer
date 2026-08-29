@@ -605,11 +605,57 @@ def _summary_title(stem: str) -> str | None:
             if t and len(t) < 800:
                 # Strip leading citation prefix if the summary title embeds it
                 # e.g. "AID 2001/302 — Superannuation..." -> "Superannuation..."
-                t = _re.sub(r"^[A-Z]{2,6} \d{4}/\d+\s*[—\-–]?\s*", "", t).strip()
+                t = _re.sub(r"^[A-Z]{2,6} \d{4}/D?\d+\s*[—\-–]?\s*", "", t).strip()
                 return t or None
         except Exception:
             pass
     return None
+
+
+def _norm_citation(s: str) -> str:
+    return re.sub(r"\s+", "", s).upper()
+
+
+def validate_ruling_meta(stem: str, meta: dict | None) -> None:
+    """Fail-fast gate: a ruling's sidecar meta must agree with its filename.
+
+    Draft files (TD_2026_D1.txt) carry sidecar meta with citation "TD 2026/D1",
+    type "TD", draft true, status "exposure". Any disagreement (citation,
+    status, type, year, draft flag) raises ValueError so a badly-fetched ruling
+    is never silently ingested. Raises only when meta actually disagrees with
+    the filename — files without sidecar meta are skipped.
+    """
+    if not meta:
+        return
+    m = re.match(r"^([A-Za-z]+)_(\d{2,4})_(D?\d+)$", stem)
+    if not m:
+        return
+    file_type = m.group(1).upper()
+    file_year = m.group(2)
+    num = m.group(3)
+    file_is_draft = num.startswith("D")
+    meta_citation = str(meta.get("citation") or "").strip()
+    meta_type = str(meta.get("type") or meta.get("ruling_type") or "").strip()
+    meta_draft = bool(meta.get("draft")) or "/D" in meta_citation.upper()
+    meta_status = str(meta.get("status") or "").lower()
+    meta_year = meta.get("year")
+    expect_citation = f"{file_type} {file_year}/{'D' if file_is_draft else ''}{num.lstrip('D')}"
+    problems = []
+    if meta_citation and _norm_citation(meta_citation) != _norm_citation(expect_citation):
+        problems.append(f"citation {meta_citation!r} != {expect_citation!r}")
+    if meta_type:
+        mt, ft = _norm_citation(meta_type), _norm_citation(file_type)
+        # AID/ATOID are equivalent display spellings of the same series
+        if mt != ft and not (mt in {"AID", "ATOID"} and ft in {"AID", "ATOID"}):
+            problems.append(f"type {meta_type!r} != {file_type!r}")
+    if meta_draft != file_is_draft:
+        problems.append(f"draft={meta_draft} but filename {'is' if file_is_draft else 'is NOT'} a draft")
+    if file_is_draft and meta_status and meta_status not in ("exposure", "draft", "withdrawn"):
+        problems.append(f"draft status {meta_status!r} not exposure/draft")
+    if meta_year not in (None, "") and str(meta_year) != file_year:
+        problems.append(f"year {meta_year!r} != {file_year!r}")
+    if problems:
+        raise ValueError(f"Ruling meta/filename mismatch for {stem}: " + "; ".join(problems))
 
 
 @functools.lru_cache(maxsize=None)
@@ -626,6 +672,9 @@ def load_rulings() -> list[dict]:
             year = 0
             ruling_type = "LCG"
             m = re.match(r'^([A-Za-z]+)_(\d{2,4})_(\d+)', f.stem)
+            if not m:
+                # Draft citations: TD_2026_D1 → type TD, year 2026
+                m = re.match(r'^([A-Za-z]+)_(\d{2,4})_D(\d+)', f.stem)
             if m:
                 ruling_type = m.group(1).upper()
                 # Normalize PSLA → PS LA for display consistency
@@ -645,6 +694,7 @@ def load_rulings() -> list[dict]:
                     ruling_type = m2.group(1).upper()
             if meta_path.exists():
                 meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                validate_ruling_meta(f.stem, meta)
                 title = meta.get("title", title)
                 ruling_type = meta.get("ruling_type") or meta.get("type") or ruling_type
                 if meta.get("year"):
