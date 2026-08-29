@@ -29,7 +29,7 @@ def list_acts():
     # Copy — load_acts_meta() is lru_cached; appending pseudo-acts to the
     # cached list would grow it on every call.
     acts = list(load_acts_meta())
-    acts.append({"id": "rulings", "name": "ATO Rulings", "compilation_no": None, "compilation_date": None})
+    acts.append({"id": "rulings", "name": "Public Rulings", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "tax-cases", "name": "Tax Cases", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "private-rulings", "name": "Private Rulings", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "regulatory-guides", "name": "ASIC Regulatory Guides", "compilation_no": None, "compilation_date": None})

@@ -57,11 +57,13 @@ def rulings_for_section(act: str, section: str, limit: int = 50, offset: int = 0
 
 TYPE_DISPLAY: dict[str, str] = {
     "ATOID": "ATO ID – ATO Interpretative Decision",
+    "CR": "CR – Class Ruling",
     "GSTR": "GSTR – GST Ruling",
     "IT": "IT – Income Tax Ruling",
     "LCG": "LCG – Law Companion Guideline",
     "MT": "MT – Miscellaneous Tax Ruling",
     "PCG": "PCG – Practical Compliance Guideline",
+    "PR": "PR – Product Ruling",
     "PS LA": "PS LA – Practice Statement (Law Administration)",
     "SGR": "SGR – Superannuation Guarantee Ruling",
     "TA": "TA – Taxpayer Alert",
@@ -171,7 +173,7 @@ def list_rulings(group: str = "year"):
                 "divisions": divisions,
                 "sections": [],
             })
-    return {"act": "ATO Rulings", "parts": parts}
+    return {"act": "Public Rulings", "parts": parts}
 
 CITATION_ALIASES = {"LCR": "LCG", "AID": "ATOID"}
 
@@ -255,7 +257,7 @@ def get_ruling(citation: str):
                     decision = _extract_decision(body_raw)
                     return {
                         "frontmatter": {
-                            "act": "ATO Rulings",
+                            "act": "Public Rulings",
                             "title": summary.get("title", ref),
                             "part": "ATO ID",
                             "division": summary.get("subject", ""),
@@ -278,7 +280,7 @@ def get_ruling(citation: str):
                 notice = _strip_foi(summary.get("notice", ""))
                 return {
                     "frontmatter": {
-                        "act": "ATO Rulings",
+                        "act": "Public Rulings",
                         "title": summary.get("title", ref),
                         "part": summary.get("type", ""),
                         "division": "",
@@ -310,7 +312,7 @@ def get_ruling(citation: str):
                 referenced_sections = load_ruling_section_refs(citation)
                 return {
                     "frontmatter": {
-                        "act": "ATO Rulings",
+                        "act": "Public Rulings",
                         "title": r["title"],
                         "part": r["type"],
                         "division": str(r["year"]),

@@ -27,8 +27,7 @@ interface SearchPanelProps {
 }
 
 const SOURCE_GROUPS: { label: string; ids: string[] }[] = [
-  { label: 'Australian Tax', ids: ['itaa-1997','itaa-1936','gst-1999','taa-1953','fbt-1986','sis-1993','master-tax-guide','master-tax-examples','master-gst-guide','rulings','tax-cases'] },
-  { label: 'Private Rulings', ids: ['private-rulings'] },
+  { label: 'Australian Tax', ids: ['itaa-1997','itaa-1936','gst-1999','taa-1953','fbt-1986','sis-1993','master-tax-guide','master-tax-examples','master-gst-guide','rulings','tax-cases','private-rulings'] },
   { label: 'International Tax', ids: ['treaties'] },
   { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
   { label: 'Corporate Law', ids: ['corporations-act-2001','regulatory-guides'] },
@@ -502,7 +501,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
             {[
               { key: '', label: 'All' },
               { key: 'section', label: 'Sections' },
-              { key: 'ruling', label: 'Rulings' },
+              { key: 'ruling', label: 'Public Rulings' },
               { key: 'private_ruling', label: 'Private rulings' },
               { key: 'case', label: 'Cases' },
               { key: 'commentary', label: 'Commentary' },

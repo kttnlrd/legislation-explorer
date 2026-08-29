@@ -375,7 +375,7 @@ def graph_data(
 _EDGE_DISPLAY = {
     "applies": "Applies To",  # ruling/case node → sections
     "applies_private": "Private Rulings",
-    "interpreted_by": "Rulings",
+    "interpreted_by": "Public Rulings",
     "considered_in": "Cases",
     "explained_in": "Commentary",
     "cites": "Citations",

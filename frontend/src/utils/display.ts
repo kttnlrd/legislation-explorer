@@ -12,6 +12,7 @@ const ACT_SHORT: Record<string, string> = {
   'master-gst-guide': 'CCH GST Guide',
   'nz-it-2007': 'NZ IT07',
   'tax-cases': 'Tax Cases',
+  'rulings': 'Public Rulings',
   'corporations-act-2001': 'Corps Act',
   'regulatory-guides': 'ASIC RGs',
   'aml-ctf-2006': 'AML/CTF Act',

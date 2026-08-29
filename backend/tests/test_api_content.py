@@ -172,7 +172,7 @@ class TestRulingsList:
         assert resp.status_code == 200
         data = resp.json()
         assert "act" in data
-        assert data["act"] == "ATO Rulings"
+        assert data["act"] == "Public Rulings"
         assert "parts" in data
         assert isinstance(data["parts"], list)
         assert len(data["parts"]) > 0

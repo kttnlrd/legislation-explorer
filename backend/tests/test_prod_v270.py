@@ -137,7 +137,7 @@ sg_only = not any(k in sg for k in ("rulings","cases","commentary"))
 check("search_all(section) returns sections only", sg_ok and sg_only, f"keys={sorted(sg.keys())}")
 
 # get_section related rulings carry absolute download_url + ato_url
-# (get_ruling tool was removed — links now ride on summary payloads)
+# (get_ruling MCP tool exists — related-ruling links also ride on summary payloads)
 _, resp = mcp("tools/call", {"name":"get_section","arguments":{"act":"itaa-1997","section":"8-1"}}, sid)
 data = json.loads(resp["result"]["content"][0]["text"])
 rel_rulings = data.get("related",{}).get("rulings",[])

@@ -20,6 +20,7 @@ from mcp.server.transport_security import TransportSecuritySettings
 from backend.config import DATA_DIR, TREATIES_DIR
 from backend.mcp_token_manager import token_manager
 from backend.routes.api import VERSION, CHANGELOG
+from backend.routes.rulings import get_ruling as _get_ruling
 from backend.services.graph_alias import lookup as alias_lookup
 from backend.services.data_loader import (
     load_tree,
@@ -1061,7 +1062,7 @@ async def list_acts() -> str:
                 "compilation_no": int(tree["compilation_no"]) if tree.get("compilation_no") is not None else None,
                 "compilation_date": tree.get("compilation_date"),
             })
-    acts.append({"id": "rulings", "name": "ATO Rulings"})
+    acts.append({"id": "rulings", "name": "Public Rulings"})
     return json.dumps({"acts": acts}, indent=2)
 
 
@@ -2352,6 +2353,28 @@ async def list_rulings(
         )
 
     return json.dumps(payload, indent=2)
+
+
+@mcp.tool(structured_output=False)
+async def get_ruling(citation: str) -> str:
+    """Get a public ATO ruling by citation (e.g. 'TR 2024/1', 'CR 2017/74', 'PR 2008/70').
+
+    Returns structured summary data (frontmatter, body, metadata) when a
+    summary exists, otherwise raw metadata. Unknown citations return
+    {"ok": false, "error": "not found"}.
+    """
+    from fastapi import HTTPException
+    try:
+        data = _get_ruling(citation)
+    except HTTPException as exc:
+        return json.dumps({
+            "ok": False,
+            "error": "not found",
+            "detail": exc.detail,
+        }, indent=2)
+    except Exception as exc:  # pragma: no cover - unexpected failure path
+        return json.dumps({"ok": False, "error": str(exc)}, indent=2)
+    return json.dumps(data, indent=2)
 
 
 @mcp.tool(structured_output=False)
