@@ -303,7 +303,34 @@ rec("mcp", "get_act_tree part 3-1 has 102-6/119-1", "OK" if m and "102-6" in m a
 fails_mcp = [r for r in results if r[0] == "mcp" and r[2] == "FAIL"]
 finds_mcp = [r for r in results if r[0] == "mcp" and r[2] == "FIND"]
 print(f"\n── MCP PHASE: {sum(1 for r in results if r[0]=='mcp')} checks | FAIL {len(fails_mcp)} | FIND {len(finds_mcp)}")
-print(f"\n═══ TOTAL: {len(results)} checks | FAIL {len(fails_api + fails_mcp)} | FIND {len(finds_api + finds_mcp)} ═══")
+
+# ── CONTENT PHASE: deep corpus correctness/formatting analysis ──
+# Full-corpus scans for corruption classes (glued files, fragments, stray cut
+# tokens, chapeau drops, formatting artifacts, broken definitions, case
+# citations). Every class found is a FIND (data gap) -> synced as a ticket.
+import importlib.util
+_spec = importlib.util.spec_from_file_location(
+    "scan_corpus_error_classes",
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "scan_corpus_error_classes.py"))
+sc = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(sc)
+for _fn in ["scan_compilation_no", "scan_empty_tree_nodes", "scan_tree_titles",
+            "scan_asterisk_noise", "scan_section_fragments", "scan_stray_cut_tokens",
+            "scan_chapeau", "scan_formatting_artifacts", "scan_definitions",
+            "scan_case_citations"]:
+    getattr(sc, _fn)()
+_by_class = {}
+for _f in sc.findings:
+    _by_class.setdefault(_f["class"], []).append(_f)
+for _cls, _items in sorted(_by_class.items()):
+    _first = _items[0]
+    rec("content", f"corpus {_cls}", "FIND",
+        f"{len(_items)} file(s) e.g. {_first['path']}: {_first['detail'][:70]}")
+print(f"\n── CONTENT PHASE: {len(_by_class)} finding classes | FAIL 0 | FIND {len(_by_class)}")
+
+fails_content = [r for r in results if r[0] == "content" and r[2] == "FAIL"]
+finds_content = [r for r in results if r[0] == "content" and r[2] == "FIND"]
+print(f"\n═══ TOTAL: {len(results)} checks | FAIL {len(fails_api + fails_mcp + fails_content)} | FIND {len(finds_api + finds_mcp + finds_content)} ═══")
 
 # ── sync findings into the issues list (CDN tickets) ─────────────────────────
 # Every run (manual or cron) upserts FAIL/FIND results into the issues portal:
