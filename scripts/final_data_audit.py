@@ -9,7 +9,7 @@ Phases:
 
 Exit 0 only if ALL three pass. Findings sync to CDN tickets via phase 2.
 """
-import re, subprocess, sys
+import random, re, subprocess, sys
 from datetime import date
 
 ROOT = "/home/harrison/legislation-explorer"
@@ -29,15 +29,16 @@ r1 = "PASS" if "RESULT: PASS" in p1.stdout else "FAIL"
 ok = ok and r1 == "PASS"
 results.append(f"[1/3] INTEGRITY     : {r1}")
 
-# ── Phase 2: layer + content (new seed = today) ──
-p2 = run([PY, "scripts/randomised_api_mcp_test.py", "--seed", date.today().strftime("%Y%m%d")])
+# ── Phase 2: layer + content (random seed each run; reproducible via --seed N) ──
+seed = random.SystemRandom().randrange(10_000_000, 99_999_999)
+p2 = run([PY, "scripts/randomised_api_mcp_test.py", "--seed", str(seed)])
 m2 = re.search(r"TOTAL: (\d+) checks \| FAIL (\d+) \| FIND (\d+)", p2.stdout)
 if m2 and p2.returncode == 0:
     checks, fails, finds = int(m2.group(1)), int(m2.group(2)), int(m2.group(3))
-    phase2 = f"{checks} checks | FAIL {fails} | FIND {finds}"
+    phase2 = f"(seed={seed}) {checks} checks | FAIL {fails} | FIND {finds}"
     ok = ok and fails == 0
 else:
-    phase2 = "RUN FAILED (no summary)"
+    phase2 = f"(seed={seed}) RUN FAILED (no summary)"
     ok = False
 results.append(f"[2/3] LAYER+CONTENT : {phase2}")
 
