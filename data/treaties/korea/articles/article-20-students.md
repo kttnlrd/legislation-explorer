@@ -5,7 +5,4 @@ treaty_schedule: 22
 article: 20
 title: "Article 20 — Students"
 ---
--
- TAXATION OF INCOME
-Professors and Teachers
-An individual who is a resident of a Contracting State and who, at the invitation of any university, college, school or other recognised educational institution, visits the other Contracting State for a period not exceeding two years solely for the purpose of teaching or research or both at such educational institution shall be taxable only in the first-mentioned State on his remuneration for such teaching or research.
+Professors and Teachers An individual who is a resident of a Contracting State and who, at the invitation of any university, college, school or other recognised educational institution, visits the other Contracting State for a period not exceeding two years solely for the purpose of teaching or research or both at such educational institution shall be taxable only in the first-mentioned State on his remuneration for such teaching or research.

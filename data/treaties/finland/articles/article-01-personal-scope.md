@@ -5,7 +5,4 @@ treaty_schedule: 25
 article: 1
 title: "Article 1 — Personal Scope"
 ---
--
- SCOPE OF THE AGREEMENT
-Persons Covered
-This Agreement shall apply to persons who are residents of one or both of the Contracting States.
+Persons Covered This Agreement shall apply to persons who are residents of one or both of the Contracting States.

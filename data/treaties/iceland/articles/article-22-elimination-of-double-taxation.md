@@ -5,34 +5,4 @@ treaty_schedule: 63
 article: 22
 title: "Article 22 — Elimination of Double Taxation"
 ---
--
- SPECIAL PROVISIONS
-Non-Discrimination
-1.
-Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 
-1
-, also apply to persons who are not residents of one or both of the Contracting States.
-2.
-The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
-3.
-Except where the provisions of paragraph 
-1
- of Article 
-9
-, paragraph 
-8
- of Article 
-11
-, or paragraph 
-6
- of Article 
-12
-, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
-4.
-Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
-5.
-This Article shall not apply to a law of Australia relating to a rate of taxation in respect of an individual who is a working holiday maker under Australian law.
-6.
-The provisions of this Article shall apply to the taxes covered by Article 
-2
-.
+Non-Discrimination 1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article , also apply to persons who are not residents of one or both of the Contracting States. 2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents. 3. Except where the provisions of paragraph of Article , paragraph of Article , or paragraph of Article , apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. 4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected. 5. This Article shall not apply to a law of Australia relating to a rate of taxation in respect of an individual who is a working holiday maker under Australian law. 6. The provisions of this Article shall apply to the taxes covered by Article .

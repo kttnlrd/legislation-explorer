@@ -5,114 +5,34 @@ treaty_schedule: 10
 article: 3
 title: "Article 3 — General Definitions"
 ---
--
- DEFINITIONS
-General Definitions
-(1)
-In this Agreement, unless the context otherwise requires
--
-(a)
-the term 
-"
-Australia
-"
- means the Commonwealth of Australia and, when used in a geographical sense, includes
--
-(i)
-the Territory of Norfolk Island;
-(ii)
-the Territory of Christmas Island;
-(iii)
-the Territory of Cocos (Keeling) Islands;
-(iv)
-the Territory of Ashmore and Cartier Islands;
-(v)
-the Coral Sea Islands Territory; and
-(vi)
-any area adjacent to the territorial limits of Australia and the said Territories in respect of which there is for the time being in force, consistently with international law, a law of Australia or of a State or part of Australia or of a Territory aforesaid dealing with the exploitation of any of the natural resources of the sea-bed and sub-soil of the continental shelf;
-(b)
-the term 
-"
-the Netherlands
-"
- means that part of the Kingdom of the Netherlands that is situated in Europe and the part of the seabed and its sub-soil under the North Sea over which the Kingdom of the Netherlands has sovereign rights in accordance with international law;
-(c)
-the terms 
-"
-State
-"
-, 
-"
-one of the States
-"
- and 
-"
-other State
-"
- mean Australia or the Netherlands, as the context requires;
-(d)
-the term 
-"
-person
-"
- means an individual, a company and any other body of persons;
-(e)
-the term 
-"
-company
-"
- means any body corporate or any entity which is assimilated to a body corporate for tax purposes;
-(f)
-the term 
-"
-tax
-"
- means Australian tax or Netherlands tax, as the context requires;
-(g)
-the term 
-"
-Australian tax
-"
- means tax imposed by Australia, being tax to which this Agreement applies by virtue of Article 
-2
-;
-(h)
-the term 
-"
-Netherlands tax
-"
- means tax imposed by the Netherlands, being tax to which this Agreement applies by virtue of Article 
-2
-;
-(i)
-the term 
-"
-competent authority
-"
- means, in the case of Australia, the Commissioner of Taxation or his authorised representative, and in the case of the Netherlands, the Minister of Finance or his authorised representative;
-(j)
-the terms 
-"
-enterprise of one of the States
-"
- and 
-"
-enterprise of the other State
-"
- mean an enterprise carried on by a resident of Australia or an enterprise carried on by a resident of the Netherlands, as the context requires;
-(k)
-words in the singular include the plural and words in the plural include the singular.
-(2)
-In this Agreement, the terms 
-"
-Australian tax
-"
- and 
-"
-Netherlands tax
-"
- do not include any penalty or interest imposed under the law of either State relating to the taxes to which this Agreement applies by virtue of Article 
-2
-.
-(3)
-As regards the application of this Agreement by either of the States, any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the laws of that State relating to the taxes to which this Agreement applies.
+**(1)** In this Agreement, unless the context otherwise requires  —
+
+- **(a)** the term "Australia" means the Commonwealth of Australia and, when used in a geographical sense, includes  —
+
+- **(i)** the Territory of Norfolk Island; (ii) the Territory of Christmas Island; (iii) the Territory of Cocos (Keeling) Islands; (iv) the Territory of Ashmore and Cartier Islands;
+
+- **(v)** the Coral Sea Islands Territory; and (vi) any area adjacent to the territorial limits of Australia and the said Territories in respect of which there is for the time being in force, consistently with international law, a law of Australia or of a State or part of Australia or of a Territory aforesaid dealing with the exploitation of any of the natural resources of the sea-bed and sub-soil of the continental shelf;
+
+- **(b)** the term "the Netherlands" means that part of the Kingdom of the Netherlands that is situated in Europe and the part of the seabed and its sub-soil under the North Sea over which the Kingdom of the Netherlands has sovereign rights in accordance with international law;
+
+- **(c)** the terms "State", "one of the States" and "other State" mean Australia or the Netherlands, as the context requires;
+
+- **(d)** the term "person" means an individual, a company and any other body of persons;
+
+- **(e)** the term "company" means any body corporate or any entity which is assimilated to a body corporate for tax purposes;
+
+- **(f)** the term "tax" means Australian tax or Netherlands tax, as the context requires;
+
+- **(g)** the term "Australian tax" means tax imposed by Australia, being tax to which this Agreement applies by virtue of Article ;
+
+- **(h)** the term "Netherlands tax" means tax imposed by the Netherlands, being tax to which this Agreement applies by virtue of Article ;
+
+- **(i)** the term "competent authority" means, in the case of Australia, the Commissioner of Taxation or his authorised representative, and in the case of the Netherlands, the Minister of Finance or his authorised representative;
+
+- **(j)** the terms "enterprise of one of the States" and "enterprise of the other State" mean an enterprise carried on by a resident of Australia or an enterprise carried on by a resident of the Netherlands, as the context requires;
+
+- **(k)** words in the singular include the plural and words in the plural include the singular.
+
+**(2)** In this Agreement, the terms "Australian tax" and "Netherlands tax" do not include any penalty or interest imposed under the law of either State relating to the taxes to which this Agreement applies by virtue of Article .
+
+**(3)** As regards the application of this Agreement by either of the States, any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the laws of that State relating to the taxes to which this Agreement applies.

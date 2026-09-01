@@ -5,7 +5,4 @@ treaty_schedule: 53
 article: 1
 title: "Article 1 — Personal Scope"
 ---
--
- SCOPE OF THE CONVENTION
-Persons Covered
-This Convention shall apply to persons who are residents of one or both of the Contracting States.
+Persons Covered This Convention shall apply to persons who are residents of one or both of the Contracting States.

@@ -106,9 +106,20 @@ def scan_body_fragments():
                 except Exception:
                     continue
                 frags = [ln.strip() for ln in body.splitlines() if frag_re.match(ln.strip())]
-                if len(frags) > 5:
+                kinds = set()
+                for f in frags:
+                    if f == '"':
+                        kinds.add("quote")
+                    elif re.match(r"^[-—]$", f):
+                        kinds.add("dash")
+                    else:
+                        kinds.add("mark")
+                # Mono-pattern fragments are legitimate table cells (grid tables
+                # use bare dashes; ATO guides use bare table-category codes).
+                # Real fragmentation mixes quote/dash/marker kinds per file.
+                if len(frags) > 5 and len(kinds) >= 2:
                     findings.append({"class": "C5_body_fragments", "path": str(p),
-                                     "detail": f"{len(frags)} fragment lines e.g. {frags[0]!r} {frags[1]!r}"})
+                                     "detail": f"{len(frags)} fragment lines ({', '.join(sorted(kinds))}) e.g. {frags[0]!r} {frags[1]!r}"})
 
 
 # ── C4 (CDN-0006/0049): asterisk footnote lines in section bodies ───────────

@@ -5,43 +5,6 @@ treaty_schedule: 53
 article: 12
 title: "Article 12 — Royalties"
 ---
--
- TAXATION OF INCOME
-Royalties
-1.
-Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
-2.
-However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed:
-a)
-5 per cent of the gross amount of the royalties for the use of, or the right to use, any industrial, commercial or scientific equipment; and
-b)
-10 per cent of the gross amount of the royalties in all other cases.
-3.
-The term 
-"
-royalties
-"
- in this Article means payments or credits, whether periodical or not, and however described or computed, to the extent to which they are made as consideration for:
-a)
-(i)
-the use of, or the right to use, any copyright, including motion picture films; and
-(ii)
-the use of, or the right to use, in connection with television, radio or other broadcasting, films or audio or video tapes or disks, or any other means of image or sound reproduction or transmission;
-b)
-the use of, or the right to use any patent, trade mark, design or model, plan, secret formula or process or other like property or right;
-c)
-the use of, or the right to use, industrial, commercial or scientific equipment;
-d)
-the supply of information concerning technical, industrial, commercial or scientific experience;
-e)
-the supply of any assistance that is ancillary and subsidiary to, and is furnished as a means of enabling the application or enjoyment of, any such property or right as is mentioned in subparagraph a), b) or c) or any such information as is mentioned in subparagraph d);
-f)
-the use of, or the right to use, some or all of the part of the spectrum specified in a spectrum licence, being spectrum of a Contracting State where the payment or credit arises; or
-g)
-total or partial forbearance in respect of the use or supply of any property or right referred to in this paragraph.
-4.
-The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid or credited is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
-5.
-Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether a resident of a Contracting State or not, has in a Contracting State or outside both Contracting States a permanent establishment or a fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
-6.
-Where, by reason of a special relationship between the payer and the beneficial owner of the royalties or between both of them and some other person, the amount of the royalties paid or credited having regard to what they are paid or credited for, exceeds the amount which might have been expected to have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments or credits shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State. 2. However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed: a) 5 per cent of the gross amount of the royalties for the use of, or the right to use, any industrial, commercial or scientific equipment; and b) 10 per cent of the gross amount of the royalties in all other cases. 3. The term "royalties" in this Article means payments or credits, whether periodical or not, and however described or computed, to the extent to which they are made as consideration for: a)
+
+- **(i)** the use of, or the right to use, any copyright, including motion picture films; and (ii) the use of, or the right to use, in connection with television, radio or other broadcasting, films or audio or video tapes or disks, or any other means of image or sound reproduction or transmission; b) the use of, or the right to use any patent, trade mark, design or model, plan, secret formula or process or other like property or right; c) the use of, or the right to use, industrial, commercial or scientific equipment; d) the supply of information concerning technical, industrial, commercial or scientific experience; e) the supply of any assistance that is ancillary and subsidiary to, and is furnished as a means of enabling the application or enjoyment of, any such property or right as is mentioned in subparagraph a), b) or c) or any such information as is mentioned in subparagraph d); f) the use of, or the right to use, some or all of the part of the spectrum specified in a spectrum licence, being spectrum of a Contracting State where the payment or credit arises; or g) total or partial forbearance in respect of the use or supply of any property or right referred to in this paragraph. 4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid or credited is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply. 5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether a resident of a Contracting State or not, has in a Contracting State or outside both Contracting States a permanent establishment or a fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated. 6. Where, by reason of a special relationship between the payer and the beneficial owner of the royalties or between both of them and some other person, the amount of the royalties paid or credited having regard to what they are paid or credited for, exceeds the amount which might have been expected to have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments or credits shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
