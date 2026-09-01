@@ -317,7 +317,7 @@ _spec.loader.exec_module(sc)
 for _fn in ["scan_compilation_no", "scan_empty_tree_nodes", "scan_tree_titles",
             "scan_asterisk_noise", "scan_section_fragments", "scan_stray_cut_tokens",
             "scan_chapeau", "scan_formatting_artifacts", "scan_definitions",
-            "scan_case_citations"]:
+            "scan_case_citations", "scan_body_fragments"]:
     getattr(sc, _fn)()
 _by_class = {}
 for _f in sc.findings:

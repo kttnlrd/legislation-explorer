@@ -87,6 +87,31 @@ def scan_tree_titles():
 
 # ── C4 (CDN-0006/0049): asterisk footnote lines in section bodies ───────────
 ASTERISK_LINE = re.compile(r"^\s*\*{2,}\s*$|^\s*\*[^*].*footnote|^\s*\*+ *[A-Za-z]+\s*\*+", re.M)
+def scan_body_fragments():
+    """Body text split into one-line fragments (treaties & any markdown).
+    Fragment lines: bare (N), (a), a quote char, or a lone dash/em-dash.
+    A file with more than 5 such lines is corrupted display-level text."""
+    frag_re = re.compile(r"^\((?:\d+|[a-z])\)$|^\"$|^[-—]$")
+    for base in [DATA / "treaties", DATA]:
+        if base == DATA:
+            dirs = [d for d in DATA.iterdir() if (d / "sections").is_dir()]
+        else:
+            dirs = [base]
+        for d in dirs:
+            for p in sorted((d / "sections").rglob("*.md")) if base == DATA else sorted(d.rglob("*.md")):
+                if p.name.startswith("."):
+                    continue
+                try:
+                    body = open(p, encoding="utf-8").read().split("---", 2)[-1]
+                except Exception:
+                    continue
+                frags = [ln.strip() for ln in body.splitlines() if frag_re.match(ln.strip())]
+                if len(frags) > 5:
+                    findings.append({"class": "C5_body_fragments", "path": str(p),
+                                     "detail": f"{len(frags)} fragment lines e.g. {frags[0]!r} {frags[1]!r}"})
+
+
+# ── C4 (CDN-0006/0049): asterisk footnote lines in section bodies ───────────
 def scan_asterisk_noise():
     for p in sorted((DATA / "itaa-1997" / "sections").rglob("*.md")):
         text = p.read_text(errors="replace")

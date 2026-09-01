@@ -13,6 +13,9 @@ import tempfile
 from datetime import datetime
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from backend.services.data_loader import validate_ruling_meta  # noqa: E402
+
 DB = "cadena_knowledge"
 RULINGS_DIR = Path("/home/harrison/legislation-explorer/data/rulings")
 
@@ -96,6 +99,22 @@ def main():
     inserts = []
     for path in NEW_FILES:
         stem = path.stem  # e.g. CR_2026_46
+        # Completeness gate: sidecar meta (citation/status/type/year) must agree
+        # with the filename — fail the ingest rather than insert a bad draft.
+        sidecar = None
+        for cand in (Path(str(path) + ".meta.json"), Path(str(path) + ".txt.meta.json")):
+            if cand.exists():
+                try:
+                    sidecar = json.loads(cand.read_text(encoding="utf-8"))
+                except Exception:
+                    pass
+                break
+        if sidecar:
+            try:
+                validate_ruling_meta(stem, sidecar)
+            except ValueError as e:
+                print(f"  GATE FAIL {stem}: {e}")
+                sys.exit(1)
         ref = filename_to_ref(stem)
         if ref in existing:
             print(f"  skip (exists): {ref}")

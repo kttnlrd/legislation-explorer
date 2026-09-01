@@ -46,9 +46,24 @@ router.include_router(treaties_router)
 router.include_router(workflows_router)
 
 
-VERSION = "3.0.2"
+VERSION = "3.1"
 
 CHANGELOG = [
+    {
+        "version": "3.1",
+        "date": "2026-08-30",
+        "title": "OECD Model Tax Convention 2017 + audit per-content-type coverage",
+        "changes": [
+            "New features:",
+            "|– OECD Model Tax Convention 2017 (full version): all 32 articles + commentary per article (incl. joint 23 A/B and 31/32), browsable in the web UI under International Tax and served through the MCP",
+            "|– Audit content phase now covers every content type: C5 body-fragment detector catches treaties-style one-line-per-fragment corruption (previously invisible to all audit phases)",
+            "|– Random seed per audit run (crypto RNG), shown in output, reproducible via --seed",
+            "Bugs fixed:",
+            "|– Treaty article files: body text fragmented into one-line pieces (heading-like display) — reconstruction in progress",
+            "|– Tree title truncations (45 itaa-1997 division titles cut mid-sentence)",
+            "|– Stray bold artifacts in 6 section files (C4)",
+        ],
+    },
     {
         "version": "3.0.2",
         "date": "2026-08-19",

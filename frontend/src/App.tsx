@@ -42,7 +42,7 @@ const isTreaty = (id: string) => TREATY_SET.has(id) && id !== 'treaties'
 
 const DOMAINS: { label: string; ids: string[] }[] = [
   { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'fbt-1986', 'sis-1993', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases', 'private-rulings'] },
-  { label: 'International Tax', ids: ['treaties'] },
+  { label: 'International Tax', ids: ['treaties', 'oecd-mtc-2017'] },
   { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
   { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
   { label: 'Corporate Insolvency', ids: ['insolvency-keays'] },

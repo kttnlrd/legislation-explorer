@@ -1,0 +1,426 @@
+{
+  "act": "OECD Model Tax Convention 2017",
+  "compilation_no": 2017,
+  "compilation_date": "2017-11-21",
+  "parts": [
+    {
+      "id": "I",
+      "title": "Chapter I \u2014 Scope of the Convention",
+      "divisions": [
+        {
+          "id": "I",
+          "title": "Chapter I \u2014 Scope of the Convention",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "1",
+              "title": "Article 1 \u2014 Persons Covered",
+              "path": "1.md"
+            },
+            {
+              "id": "2",
+              "title": "Article 2 \u2014 Taxes Covered",
+              "path": "2.md"
+            },
+            {
+              "id": "3",
+              "title": "Article 3 \u2014 General Definitions",
+              "path": "3.md"
+            },
+            {
+              "id": "4",
+              "title": "Article 4 \u2014 Resident",
+              "path": "4.md"
+            },
+            {
+              "id": "5",
+              "title": "Article 5 \u2014 Permanent Establishment",
+              "path": "5.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "title": "Chapter II \u2014 Definitions",
+      "divisions": [
+        {
+          "id": "II",
+          "title": "Chapter II \u2014 Definitions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "6",
+              "title": "Article 6 \u2014 Income from Immovable Property",
+              "path": "6.md"
+            },
+            {
+              "id": "7",
+              "title": "Article 7 \u2014 Business Profits",
+              "path": "7.md"
+            },
+            {
+              "id": "8",
+              "title": "Article 8 \u2014 International Shipping and Air Transport",
+              "path": "8.md"
+            },
+            {
+              "id": "9",
+              "title": "Article 9 \u2014 Associated Enterprises",
+              "path": "9.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "title": "Chapter III \u2014 Taxation of Income",
+      "divisions": [
+        {
+          "id": "III",
+          "title": "Chapter III \u2014 Taxation of Income",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "10",
+              "title": "Article 10 \u2014 Dividends",
+              "path": "10.md"
+            },
+            {
+              "id": "11",
+              "title": "Article 11 \u2014 Interest",
+              "path": "11.md"
+            },
+            {
+              "id": "12",
+              "title": "Article 12 \u2014 Royalties",
+              "path": "12.md"
+            },
+            {
+              "id": "13",
+              "title": "Article 13 \u2014 Capital Gains",
+              "path": "13.md"
+            },
+            {
+              "id": "15",
+              "title": "Article 15 \u2014 Income from Employment",
+              "path": "15.md"
+            },
+            {
+              "id": "16",
+              "title": "Article 16 \u2014 Directors\u2019 Fees",
+              "path": "16.md"
+            },
+            {
+              "id": "17",
+              "title": "Article 17 \u2014 Entertainers and Sportspersons",
+              "path": "17.md"
+            },
+            {
+              "id": "18",
+              "title": "Article 18 \u2014 Pensions",
+              "path": "18.md"
+            },
+            {
+              "id": "19",
+              "title": "Article 19 \u2014 Government Service",
+              "path": "19.md"
+            },
+            {
+              "id": "20",
+              "title": "Article 20 \u2014 Students",
+              "path": "20.md"
+            },
+            {
+              "id": "21",
+              "title": "Article 21 \u2014 Other Income",
+              "path": "21.md"
+            },
+            {
+              "id": "22",
+              "title": "Article 22 \u2014 Capital",
+              "path": "22.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IV",
+      "title": "Chapter IV \u2014 Taxation of Capital",
+      "divisions": [
+        {
+          "id": "IV",
+          "title": "Chapter IV \u2014 Taxation of Capital",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "23a",
+              "title": "Article 23 A \u2014 Exemption Method",
+              "path": "23a.md"
+            },
+            {
+              "id": "23b",
+              "title": "Article 23 B \u2014 Credit Method",
+              "path": "23b.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "V",
+      "title": "Chapter V \u2014 Methods for Elimination of Double Taxation",
+      "divisions": [
+        {
+          "id": "V",
+          "title": "Chapter V \u2014 Methods for Elimination of Double Taxation",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "24",
+              "title": "Article 24 \u2014 Non-Discrimination",
+              "path": "24.md"
+            },
+            {
+              "id": "25",
+              "title": "Article 25 \u2014 Mutual Agreement Procedure",
+              "path": "25.md"
+            },
+            {
+              "id": "26",
+              "title": "Article 26 \u2014 Exchange of Information",
+              "path": "26.md"
+            },
+            {
+              "id": "27",
+              "title": "Article 27 \u2014 Assistance in the Collection of Taxes",
+              "path": "27.md"
+            },
+            {
+              "id": "28",
+              "title": "Article 28 \u2014 Members of Diplomatic Missions and Consular Posts",
+              "path": "28.md"
+            },
+            {
+              "id": "29",
+              "title": "Article 29 \u2014 Entitlement to Benefits",
+              "path": "29.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "VI",
+      "title": "Chapter VI \u2014 Special Provisions",
+      "divisions": [
+        {
+          "id": "VI",
+          "title": "Chapter VI \u2014 Special Provisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "30",
+              "title": "Article 30 \u2014 Territorial Extension",
+              "path": "30.md"
+            },
+            {
+              "id": "31",
+              "title": "Article 31 \u2014 Entry into Force",
+              "path": "31.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "VII",
+      "title": "Chapter VII \u2014 Final Provisions",
+      "divisions": [
+        {
+          "id": "VII",
+          "title": "Chapter VII \u2014 Final Provisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "32",
+              "title": "Article 32 \u2014 Termination",
+              "path": "32.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Commentary on the Articles",
+      "divisions": [
+        {
+          "id": "C",
+          "title": "Commentary on the Articles",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "c1",
+              "title": "Commentary on Article 1",
+              "path": "c1.md"
+            },
+            {
+              "id": "c2",
+              "title": "Commentary on Article 2",
+              "path": "c2.md"
+            },
+            {
+              "id": "c3",
+              "title": "Commentary on Article 3",
+              "path": "c3.md"
+            },
+            {
+              "id": "c4",
+              "title": "Commentary on Article 4",
+              "path": "c4.md"
+            },
+            {
+              "id": "c5",
+              "title": "Commentary on Article 5",
+              "path": "c5.md"
+            },
+            {
+              "id": "c6",
+              "title": "Commentary on Article 6",
+              "path": "c6.md"
+            },
+            {
+              "id": "c7",
+              "title": "Commentary on Article 7",
+              "path": "c7.md"
+            },
+            {
+              "id": "c8",
+              "title": "Commentary on Article 8",
+              "path": "c8.md"
+            },
+            {
+              "id": "c9",
+              "title": "Commentary on Article 9",
+              "path": "c9.md"
+            },
+            {
+              "id": "c10",
+              "title": "Commentary on Article 10",
+              "path": "c10.md"
+            },
+            {
+              "id": "c11",
+              "title": "Commentary on Article 11",
+              "path": "c11.md"
+            },
+            {
+              "id": "c12",
+              "title": "Commentary on Article 12",
+              "path": "c12.md"
+            },
+            {
+              "id": "c13",
+              "title": "Commentary on Article 13",
+              "path": "c13.md"
+            },
+            {
+              "id": "c14",
+              "title": "Commentary on Article 14 (Deleted)",
+              "path": "c14.md"
+            },
+            {
+              "id": "c15",
+              "title": "Commentary on Article 15",
+              "path": "c15.md"
+            },
+            {
+              "id": "c16",
+              "title": "Commentary on Article 16",
+              "path": "c16.md"
+            },
+            {
+              "id": "c17",
+              "title": "Commentary on Article 17",
+              "path": "c17.md"
+            },
+            {
+              "id": "c18",
+              "title": "Commentary on Article 18",
+              "path": "c18.md"
+            },
+            {
+              "id": "c19",
+              "title": "Commentary on Article 19",
+              "path": "c19.md"
+            },
+            {
+              "id": "c20",
+              "title": "Commentary on Article 20",
+              "path": "c20.md"
+            },
+            {
+              "id": "c21",
+              "title": "Commentary on Article 21",
+              "path": "c21.md"
+            },
+            {
+              "id": "c22",
+              "title": "Commentary on Article 22",
+              "path": "c22.md"
+            },
+            {
+              "id": "c23",
+              "title": "Commentary on Articles 23 A and 23 B",
+              "path": "c23.md"
+            },
+            {
+              "id": "c24",
+              "title": "Commentary on Article 24",
+              "path": "c24.md"
+            },
+            {
+              "id": "c25",
+              "title": "Commentary on Article 25",
+              "path": "c25.md"
+            },
+            {
+              "id": "c26",
+              "title": "Commentary on Article 26",
+              "path": "c26.md"
+            },
+            {
+              "id": "c27",
+              "title": "Commentary on Article 27",
+              "path": "c27.md"
+            },
+            {
+              "id": "c28",
+              "title": "Commentary on Article 28",
+              "path": "c28.md"
+            },
+            {
+              "id": "c29",
+              "title": "Commentary on Article 29",
+              "path": "c29.md"
+            },
+            {
+              "id": "c30",
+              "title": "Commentary on Article 30",
+              "path": "c30.md"
+            },
+            {
+              "id": "c31-32",
+              "title": "Commentary on Articles 31 and 32",
+              "path": "c31-32.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
