@@ -2680,3 +2680,21 @@ async def quote_fetch(keyword: str = "", limit: int = 10, offset: int = 0) -> st
     """
     from backend.routes.quotes import quote_fetch as _quote_fetch
     return json.dumps(_quote_fetch(keyword, limit=limit, offset=offset), indent=2)
+
+
+@mcp.tool(structured_output=False)
+async def quote_save(title: str, date: str, text: str, names: list[str] | None = None,
+                     tag: str | None = None, cost: str | None = None,
+                     currency: str | None = None, terms: str | None = None,
+                     alt: str | None = None, anonymise: bool = True) -> str:
+    """Save a quote to the quote library. Stored anonymised by default — PII
+    (names, ABN/ACN, TFN) replaced with [KIND_n] placeholders via the firm's
+    one-way masking. Pass names=[...] for exact known names (zero false
+    positives). Pass anonymise=False ONLY for verbatim library imports of the
+    firm's own texts (label heuristics corrupt business prose)."""
+    from backend.routes.quotes import add_quote
+    if not title.strip() or not text.strip():
+        return json.dumps({"ok": False, "error": "title and text are required"})
+    quote = add_quote(title, date, text, names, tag=tag, cost=cost,
+                      currency=currency, terms=terms, alt=alt, anonymise=anonymise)
+    return json.dumps({"ok": True, "anonymised": anonymise, "quote": quote}, indent=2)
