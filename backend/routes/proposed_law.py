@@ -1,15 +1,20 @@
-"""Proposed-law tracker: items Harry adds as measures are announced/developing.
+"""Proposed-law tracker v2 — tree model.
 
-Store: data/proposed-law/items.json (plain array, newest first).
+Each item (a measure) carries:
+  commentary : one big markdown section (Harry's notes on the proposal)
+  acts       : acts proposed to be amended or introduced, each with the
+               proposed sections as {title, content} markdown
+
+Store: data/proposed-law/items.json
 Statuses: announced | exposure_draft | before_parliament | passed | enacted | withdrawn
-Measure types: bill | exposure_draft | announcement | ato_draft | other
+Relation: amended | introduced
 """
 import json
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Request
 from pydantic import BaseModel
 
 DATA = Path(__file__).resolve().parents[2] / "data" / "proposed-law"
@@ -17,102 +22,193 @@ ITEMS_FILE = DATA / "items.json"
 
 router = APIRouter(prefix="/api/proposed-law", tags=["proposed-law"])
 
-STATUSES = {"announced", "exposure_draft", "before_parliament", "passed", "enacted", "withdrawn"}
 MEASURE_TYPES = {"bill", "exposure_draft", "announcement", "ato_draft", "other"}
+STATUSES = {"announced", "exposure_draft", "before_parliament", "passed", "enacted", "withdrawn"}
+RELATIONS = {"amended", "introduced"}
 
 
-class ProposedLawIn(BaseModel):
-    title: str
-    measure_type: str = "other"
-    status: str = "announced"
-    summary: str = ""
-    announced_date: Optional[str] = None
-    source_url: Optional[str] = None
-    notes: str = ""
-
-
-class ProposedLawPatch(BaseModel):
-    status: Optional[str] = None
-    measure_type: Optional[str] = None
-    summary: Optional[str] = None
-    notes: Optional[str] = None
-    source_url: Optional[str] = None
-
-
-def load_items() -> list[dict]:
+def load_items():
     if not ITEMS_FILE.exists():
         return []
-    try:
-        return json.loads(ITEMS_FILE.read_text(encoding="utf-8"))
-    except json.JSONDecodeError:
-        return []
+    return json.loads(ITEMS_FILE.read_text(encoding="utf-8"))
 
 
-def save_items(items: list[dict]) -> None:
+def save_items(items):
     ITEMS_FILE.parent.mkdir(parents=True, exist_ok=True)
     ITEMS_FILE.write_text(json.dumps(items, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-def _validate(item: ProposedLawIn | ProposedLawPatch) -> None:
-    if item.status is not None and item.status not in STATUSES:
-        raise HTTPException(400, f"status must be one of {sorted(STATUSES)}")
-    if item.measure_type is not None and item.measure_type not in MEASURE_TYPES:
-        raise HTTPException(400, f"measure_type must be one of {sorted(MEASURE_TYPES)}")
+def _find(items, item_id):
+    for idx, it in enumerate(items):
+        if it.get("id") == item_id:
+            return idx, it
+    raise HTTPException(404, "item not found")
+
+
+class ItemIn(BaseModel):
+    title: str = ""
+    measure_type: Optional[str] = None
+    status: Optional[str] = None
+    summary: Optional[str] = None
+    announced_date: Optional[str] = None
+    source_url: Optional[str] = None
+    notes: Optional[str] = None
 
 
 @router.get("")
 def list_items():
-    """All proposed-law items, newest first."""
-    return {"items": list(reversed(load_items()))}
+    return {"items": load_items()}
 
 
 @router.post("")
-def add_item(body: ProposedLawIn):
-    """Add a proposed-law item (kept newest-first in the store)."""
-    if not body.title.strip():
-        raise HTTPException(status_code=400, detail="title is required")
-    _validate(body)
+def add_item(body: ItemIn):
+    title = body.title.strip() if body.title else ""
+    if not title:
+        raise HTTPException(400, "title is required")
+    if body.measure_type and body.measure_type not in MEASURE_TYPES:
+        raise HTTPException(400, f"measure_type must be one of {sorted(MEASURE_TYPES)}")
+    if body.status and body.status not in STATUSES:
+        raise HTTPException(400, f"status must be one of {sorted(STATUSES)}")
     items = load_items()
     item = {
         "id": datetime.now().strftime("%Y%m%d%H%M%S"),
-        "title": body.title.strip(),
-        "measure_type": body.measure_type,
-        "status": body.status,
-        "summary": body.summary.strip(),
+        "title": title,
+        "measure_type": body.measure_type or "other",
+        "status": body.status or "announced",
+        "summary": (body.summary or "").strip(),
         "announced_date": body.announced_date,
         "source_url": body.source_url,
-        "notes": body.notes.strip(),
+        "notes": (body.notes or "").strip(),
+        "commentary": "",
+        "acts": [],
         "added_at": datetime.now(timezone.utc).isoformat(),
     }
-    # ensure id uniqueness
-    while any(x["id"] == item["id"] for x in items):
-        item["id"] += "x"
-    items.append(item)
+    items.insert(0, item)
     save_items(items)
     return {"ok": True, "item": item}
 
 
 @router.patch("/{item_id}")
-def update_item(item_id: str, body: ProposedLawPatch):
-    """Update status / measure_type / summary / notes / source_url."""
-    _validate(body)
+def patch_item(item_id: str, body: ItemIn):
     items = load_items()
-    for it in items:
-        if it["id"] == item_id:
-            for field in ("status", "measure_type", "summary", "notes", "source_url"):
-                value = getattr(body, field)
-                if value is not None:
-                    it[field] = value
-            save_items(items)
-            return {"ok": True, "item": it}
-    raise HTTPException(404, "item not found")
+    idx, it = _find(items, item_id)
+    if body.title and body.title.strip():
+        it["title"] = body.title.strip()
+    if body.status is not None:
+        if body.status not in STATUSES:
+            raise HTTPException(400, f"status must be one of {sorted(STATUSES)}")
+        it["status"] = body.status
+    if body.measure_type is not None:
+        if body.measure_type not in MEASURE_TYPES:
+            raise HTTPException(400, f"measure_type must be one of {sorted(MEASURE_TYPES)}")
+        it["measure_type"] = body.measure_type
+    if body.summary is not None:
+        it["summary"] = body.summary
+    if body.notes is not None:
+        it["notes"] = body.notes
+    if body.announced_date is not None:
+        it["announced_date"] = body.announced_date
+    if body.source_url is not None:
+        it["source_url"] = body.source_url
+    save_items(items)
+    return {"ok": True, "item": it}
 
 
 @router.delete("/{item_id}")
 def delete_item(item_id: str):
     items = load_items()
-    remaining = [it for it in items if it["id"] != item_id]
-    if len(remaining) == len(items):
-        raise HTTPException(404, "item not found")
-    save_items(remaining)
+    idx, _ = _find(items, item_id)
+    items.pop(idx)
+    save_items(items)
     return {"ok": True}
+
+
+# ---- tree content endpoints ----
+
+def _act(it, act_idx):
+    acts = it.get("acts") or []
+    if not (0 <= act_idx < len(acts)):
+        raise HTTPException(404, "act not found")
+    return acts[act_idx]
+
+
+@router.put("/{item_id}/commentary")
+async def set_commentary(item_id: str, request: Request):
+    body = await request.json()
+    items = load_items()
+    _, it = _find(items, item_id)
+    it["commentary"] = (body.get("content") or "").strip()
+    save_items(items)
+    return {"ok": True, "item": it}
+
+
+class ActIn(BaseModel):
+    name: str
+    relation: str = "amended"
+
+
+@router.post("/{item_id}/acts")
+def add_act(item_id: str, body: ActIn):
+    name = body.name.strip()
+    if not name:
+        raise HTTPException(400, "act name is required")
+    if body.relation not in RELATIONS:
+        raise HTTPException(400, f"relation must be one of {sorted(RELATIONS)}")
+    items = load_items()
+    _, it = _find(items, item_id)
+    it.setdefault("acts", []).append({"name": name, "relation": body.relation, "sections": []})
+    save_items(items)
+    return {"ok": True, "item": it}
+
+
+@router.delete("/{item_id}/acts/{act_idx}")
+def delete_act(item_id: str, act_idx: int):
+    items = load_items()
+    _, it = _find(items, item_id)
+    _act(it, act_idx)
+    it["acts"].pop(act_idx)
+    save_items(items)
+    return {"ok": True, "item": it}
+
+
+class SectionIn(BaseModel):
+    title: str
+    content: str = ""
+
+
+@router.post("/{item_id}/acts/{act_idx}/sections")
+def add_section(item_id: str, act_idx: int, body: SectionIn):
+    title = body.title.strip()
+    if not title:
+        raise HTTPException(400, "section title is required")
+    items = load_items()
+    _, it = _find(items, item_id)
+    act = _act(it, act_idx)
+    act.setdefault("sections", []).append({"title": title, "content": body.content})
+    save_items(items)
+    return {"ok": True, "item": it}
+
+
+@router.put("/{item_id}/acts/{act_idx}/sections/{sec_idx}")
+def update_section(item_id: str, act_idx: int, sec_idx: int, body: SectionIn):
+    items = load_items()
+    _, it = _find(items, item_id)
+    act = _act(it, act_idx)
+    if not (0 <= sec_idx < len(act.get("sections", []))):
+        raise HTTPException(404, "section not found")
+    act["sections"][sec_idx] = {"title": body.title.strip() or act["sections"][sec_idx]["title"],
+                                "content": body.content}
+    save_items(items)
+    return {"ok": True, "item": it}
+
+
+@router.delete("/{item_id}/acts/{act_idx}/sections/{sec_idx}")
+def delete_section(item_id: str, act_idx: int, sec_idx: int):
+    items = load_items()
+    _, it = _find(items, item_id)
+    act = _act(it, act_idx)
+    if not (0 <= sec_idx < len(act.get("sections", []))):
+        raise HTTPException(404, "section not found")
+    act["sections"].pop(sec_idx)
+    save_items(items)
+    return {"ok": True, "item": it}

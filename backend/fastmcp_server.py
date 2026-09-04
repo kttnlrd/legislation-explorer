@@ -2700,6 +2700,31 @@ async def quote_save(title: str, date: str, text: str, names: list[str] | None =
     return json.dumps({"ok": True, "anonymised": anonymise, "quote": quote}, indent=2)
 
 
+def _parse_acts(acts_json):
+    """Parse + validate an acts JSON string for the proposed-law tree."""
+    import json as _json
+    try:
+        acts = _json.loads(acts_json)
+    except Exception:
+        raise ValueError("acts must be a JSON string")
+    if not isinstance(acts, list):
+        raise ValueError("acts must be a JSON list")
+    clean = []
+    for a in acts:
+        if not isinstance(a, dict) or not str(a.get("name", "")).strip():
+            continue
+        rel = a.get("relation", "amended")
+        if rel not in ("amended", "introduced"):
+            rel = "amended"
+        secs = []
+        for sec in (a.get("sections") or []):
+            if isinstance(sec, dict) and str(sec.get("title", "")).strip():
+                secs.append({"title": str(sec["title"]).strip(),
+                             "content": str(sec.get("content", ""))})
+        clean.append({"name": str(a["name"]).strip(), "relation": rel, "sections": secs})
+    return clean
+
+
 @mcp.tool(structured_output=False)
 async def proposed_law_list() -> str:
     """List all proposed-law items (tracked legislative proposals), newest first."""
@@ -2710,11 +2735,16 @@ async def proposed_law_list() -> str:
 @mcp.tool(structured_output=False)
 async def proposed_law_add(title: str, summary: str = "", status: str = "announced",
                            measure_type: str = "other", announced_date: str | None = None,
-                           source_url: str | None = None, notes: str = "") -> str:
+                           source_url: str | None = None, notes: str = "",
+                           commentary: str = "", acts: str = "[]") -> str:
     """Add an item to the Proposed Law tracker (a measure announced/developing but
     not yet enacted — Treasury Laws Amendment bills, exposure drafts, ATO drafts).
     status: announced | exposure_draft | before_parliament | passed | enacted | withdrawn.
-    measure_type: bill | exposure_draft | announcement | ato_draft | other."""
+    measure_type: bill | exposure_draft | announcement | ato_draft | other.
+    acts: JSON string of [{"name": "<Act name>", "relation": "amended|introduced",
+          "sections": [{"title": "...", "content": "markdown"}]}] — the acts proposed
+          to be amended or introduced and their proposed sections. commentary: one big
+          markdown section for your notes on the proposal."""
     from backend.routes.proposed_law import STATUSES, MEASURE_TYPES, load_items, save_items
     import datetime as _dt
     if not title.strip():
@@ -2733,6 +2763,8 @@ async def proposed_law_add(title: str, summary: str = "", status: str = "announc
         "announced_date": announced_date,
         "source_url": source_url,
         "notes": notes.strip(),
+        "commentary": commentary,
+        "acts": _parse_acts(acts),
         "added_at": _dt.datetime.now(_dt.timezone.utc).isoformat(),
     }
     while any(x["id"] == item["id"] for x in items):
@@ -2745,8 +2777,13 @@ async def proposed_law_add(title: str, summary: str = "", status: str = "announc
 @mcp.tool(structured_output=False)
 async def proposed_law_update(item_id: str, status: str | None = None,
                               measure_type: str | None = None, summary: str | None = None,
-                              notes: str | None = None, source_url: str | None = None) -> str:
-    """Update a proposed-law item (status/measure_type/summary/notes/source_url) by id."""
+                              notes: str | None = None, source_url: str | None = None,
+                              commentary: str | None = None, acts: str | None = None) -> str:
+    """Update a proposed-law item by id. Status/measure_type/summary/notes/source_url
+    are scalar. To update the tree content: pass commentary (full markdown string,
+    replaces the whole commentary) and/or acts (full JSON string of the acts array —
+    {"name":..., "relation":..., "sections":[...]}; replaces the whole acts list).
+    Omit a field to leave it unchanged."""
     from backend.routes.proposed_law import STATUSES, MEASURE_TYPES, load_items, save_items
     items = load_items()
     for it in items:
@@ -2765,6 +2802,10 @@ async def proposed_law_update(item_id: str, status: str | None = None,
                 it["notes"] = notes.strip()
             if source_url is not None:
                 it["source_url"] = source_url
+            if commentary is not None:
+                it["commentary"] = commentary
+            if acts is not None:
+                it["acts"] = _parse_acts(acts)
             save_items(items)
             return json.dumps({"ok": True, "item": it}, indent=2)
     return json.dumps({"ok": False, "error": "item not found"})
