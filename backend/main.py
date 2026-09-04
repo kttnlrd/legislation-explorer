@@ -32,6 +32,7 @@ from backend.routes.social import router as social_router
 from backend.routes.mcp import router as mcp_router
 from backend.routes.ato import router as ato_router
 from backend.routes.quotes import router as quotes_router
+from backend.routes.proposed_law import router as proposed_law_router
 from backend.fastmcp_server import mcp as fastmcp, MCPAuthMiddleware
 from backend.services.search_service import init_search_index
 from backend.services import vector_search_service
@@ -235,6 +236,7 @@ app.include_router(api_router)
 app.include_router(mcp_router)
 app.include_router(ato_router)
 app.include_router(quotes_router)
+app.include_router(proposed_law_router)
 
 
 # MCP Streamable HTTP via FastMCP

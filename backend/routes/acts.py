@@ -35,6 +35,7 @@ def list_acts():
     acts.append({"id": "regulatory-guides", "name": "ASIC Regulatory Guides", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "insolvency-keays", "name": "Keays Insolvency", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "treaties", "name": "Tax Treaties", "compilation_no": None, "compilation_date": None})
+    acts.append({"id": "proposed-law", "name": "Proposed Law", "compilation_no": None, "compilation_date": None})
     return acts
 
 
@@ -141,6 +142,8 @@ def get_tree(act: str):
         return list_regulatory_guides()
     if act == "insolvency-keays":
         return _build_insolvency_tree()
+    if act == "proposed-law":
+        return {"act": "Proposed Law", "parts": []}
     return load_tree(act)
 
 

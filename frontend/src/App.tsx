@@ -14,6 +14,7 @@ import DefinitionsBrowser from './components/DefinitionsBrowser'
 import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
 import PrivateRulingsBrowser from './components/PrivateRulingsBrowser'
+import ProposedLawBrowser from './components/ProposedLawBrowser'
 import PrivateRulingContent from './components/PrivateRulingContent'
 import RegulatoryGuideContent from './components/RegulatoryGuideContent'
 import TaxCaseContent from './components/TaxCaseContent'
@@ -42,6 +43,7 @@ const isTreaty = (id: string) => TREATY_SET.has(id) && id !== 'treaties'
 
 const DOMAINS: { label: string; ids: string[] }[] = [
   { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'fbt-1986', 'sis-1993', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases', 'private-rulings'] },
+  { label: 'Proposed Law', ids: ['proposed-law'] },
   { label: 'International Tax', ids: ['treaties', 'oecd-mtc-2017'] },
   { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
   { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
@@ -1171,6 +1173,8 @@ export default function App() {
             onNavigateRuling={onNavigateRuling}
             onNavigateCase={onNavigateCase}
           />
+        ) : act === 'proposed-law' ? (
+          <ProposedLawBrowser isMobile={isMobile} />
         ) : act === 'private-rulings' && browsingAct ? (
           <PrivateRulingsBrowser
             year={privateRulingsYear}

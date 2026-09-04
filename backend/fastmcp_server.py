@@ -2698,3 +2698,73 @@ async def quote_save(title: str, date: str, text: str, names: list[str] | None =
     quote = add_quote(title, date, text, names, tag=tag, cost=cost,
                       currency=currency, terms=terms, alt=alt, anonymise=anonymise)
     return json.dumps({"ok": True, "anonymised": anonymise, "quote": quote}, indent=2)
+
+
+@mcp.tool(structured_output=False)
+async def proposed_law_list() -> str:
+    """List all proposed-law items (tracked legislative proposals), newest first."""
+    from backend.routes.proposed_law import load_items
+    return json.dumps({"items": list(reversed(load_items()))}, indent=2)
+
+
+@mcp.tool(structured_output=False)
+async def proposed_law_add(title: str, summary: str = "", status: str = "announced",
+                           measure_type: str = "other", announced_date: str | None = None,
+                           source_url: str | None = None, notes: str = "") -> str:
+    """Add an item to the Proposed Law tracker (a measure announced/developing but
+    not yet enacted — Treasury Laws Amendment bills, exposure drafts, ATO drafts).
+    status: announced | exposure_draft | before_parliament | passed | enacted | withdrawn.
+    measure_type: bill | exposure_draft | announcement | ato_draft | other."""
+    from backend.routes.proposed_law import STATUSES, MEASURE_TYPES, load_items, save_items
+    import datetime as _dt
+    if not title.strip():
+        return json.dumps({"ok": False, "error": "title is required"})
+    if status not in STATUSES:
+        return json.dumps({"ok": False, "error": f"status must be one of {sorted(STATUSES)}"})
+    if measure_type not in MEASURE_TYPES:
+        return json.dumps({"ok": False, "error": f"measure_type must be one of {sorted(MEASURE_TYPES)}"})
+    items = load_items()
+    item = {
+        "id": _dt.datetime.now().strftime("%Y%m%d%H%M%S"),
+        "title": title.strip(),
+        "measure_type": measure_type,
+        "status": status,
+        "summary": summary.strip(),
+        "announced_date": announced_date,
+        "source_url": source_url,
+        "notes": notes.strip(),
+        "added_at": _dt.datetime.now(_dt.timezone.utc).isoformat(),
+    }
+    while any(x["id"] == item["id"] for x in items):
+        item["id"] += "x"
+    items.append(item)
+    save_items(items)
+    return json.dumps({"ok": True, "item": item}, indent=2)
+
+
+@mcp.tool(structured_output=False)
+async def proposed_law_update(item_id: str, status: str | None = None,
+                              measure_type: str | None = None, summary: str | None = None,
+                              notes: str | None = None, source_url: str | None = None) -> str:
+    """Update a proposed-law item (status/measure_type/summary/notes/source_url) by id."""
+    from backend.routes.proposed_law import STATUSES, MEASURE_TYPES, load_items, save_items
+    items = load_items()
+    for it in items:
+        if it["id"] == item_id:
+            if status is not None:
+                if status not in STATUSES:
+                    return json.dumps({"ok": False, "error": f"status must be one of {sorted(STATUSES)}"})
+                it["status"] = status
+            if measure_type is not None:
+                if measure_type not in MEASURE_TYPES:
+                    return json.dumps({"ok": False, "error": f"measure_type must be one of {sorted(MEASURE_TYPES)}"})
+                it["measure_type"] = measure_type
+            if summary is not None:
+                it["summary"] = summary.strip()
+            if notes is not None:
+                it["notes"] = notes.strip()
+            if source_url is not None:
+                it["source_url"] = source_url
+            save_items(items)
+            return json.dumps({"ok": True, "item": it}, indent=2)
+    return json.dumps({"ok": False, "error": "item not found"})
