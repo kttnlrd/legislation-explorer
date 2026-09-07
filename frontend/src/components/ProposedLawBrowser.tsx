@@ -6,6 +6,7 @@ import { COLORS } from './common/types'
 
 type SectionNode = { id: string; title: string; content: string }
 type ActNode = { name: string; relation: string; sections: SectionNode[] }
+type DocNode = { title: string; url: string; note?: string }
 type Item = {
   id: string
   title: string
@@ -17,6 +18,7 @@ type Item = {
   notes?: string
   commentary?: string
   acts?: ActNode[]
+  documents?: DocNode[]
 }
 
 const STATUS_COLORS: Record<string, string> = {
@@ -142,11 +144,26 @@ export default function ProposedLawBrowser({ isMobile }: { isMobile: boolean }) 
                             {it.announced_date && <span style={{ marginRight: 8 }}>📅 {it.announced_date}</span>}
                             {it.source_url && (
                               <a href={it.source_url} target="_blank" rel="noreferrer" style={{ color: COLORS.accent, marginRight: 8 }}>
-                                Source / EM ↗
+                                Consultation ↗
                               </a>
                             )}
                             <span style={{ color: COLORS.textMuted }}>{TYPE_LABELS[it.measure_type ?? 'other'] ?? it.measure_type}</span>
                           </div>
+                        </div>
+                      )}
+
+                      {/* Documents — plain external links, no breakdown */}
+                      {(it.documents ?? []).length > 0 && (
+                        <div style={{ marginLeft: 34, marginBottom: 6 }}>
+                          {(it.documents ?? []).map((doc, di) => (
+                            <div key={di} style={{ padding: '2px 8px' }}>
+                              <a href={doc.url || '#'} target="_blank" rel="noreferrer"
+                                 style={{ color: COLORS.accent, fontSize: 12.5, textDecoration: 'none' }}>
+                                📄 {doc.title}
+                              </a>
+                              {doc.note ? <span style={{ color: COLORS.textMuted, fontSize: 11, marginLeft: 6 }}>{doc.note}</span> : null}
+                            </div>
+                          ))}
                         </div>
                       )}
 
@@ -274,6 +291,22 @@ export default function ProposedLawBrowser({ isMobile }: { isMobile: boolean }) 
                     {shown.item.notes?.trim() && (
                       <p style={{ color: COLORS.textMuted, fontSize: 12, whiteSpace: 'pre-wrap' }}>{shown.item.notes}</p>
                     )}
+
+                    {/* Documents — plain external links */}
+                    {(shown.item.documents ?? []).length > 0 && (
+                      <div style={{ marginTop: 12 }}>
+                        <div style={{ fontWeight: 600, fontSize: 13, color: COLORS.text, marginBottom: 6 }}>Documents</div>
+                        {(shown.item.documents ?? []).map((doc, di) => (
+                          <div key={di} style={{ padding: '3px 0' }}>
+                            <a href={doc.url || '#'} target="_blank" rel="noreferrer" style={{ color: COLORS.accent, fontSize: 13 }}>
+                              📄 {doc.title}
+                            </a>
+                            {doc.note ? <span style={{ color: COLORS.textMuted, fontSize: 12, marginLeft: 6 }}>{doc.note}</span> : null}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+
                     {shown.item.source_url && !shown.section && (
                       <p style={{ margin: '4px 0 0' }}>
                         <a href={shown.item.source_url} target="_blank" rel="noreferrer" style={{ color: COLORS.accent, fontSize: 13 }}>

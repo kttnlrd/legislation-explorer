@@ -53,6 +53,46 @@ class ItemIn(BaseModel):
     announced_date: Optional[str] = None
     source_url: Optional[str] = None
     notes: Optional[str] = None
+    commentary: Optional[str] = None
+    acts: Optional[list] = None
+    documents: Optional[list] = None
+
+
+def _validate_acts(acts):
+    """Normalise acts payload (list of {name, relation, sections[]}) for storage."""
+    REL = {"amended", "introduced", "new"}
+    clean = []
+    for a in acts or []:
+        if not isinstance(a, dict) or not str(a.get("name", "")).strip():
+            continue
+        rel = str(a.get("relation", "amended")).strip()
+        if rel not in REL:
+            rel = "amended"
+        if rel == "introduced":
+            rel = "new"
+        secs = []
+        for sec in (a.get("sections") or []):
+            if isinstance(sec, dict) and str(sec.get("title", "")).strip():
+                secs.append({
+                    "title": str(sec["title"]).strip(),
+                    "content": str(sec.get("content", "")),
+                })
+        clean.append({"name": str(a["name"]).strip(), "relation": rel, "sections": secs})
+    return clean
+
+
+def _validate_documents(documents):
+    """Normalise documents payload (list of {title, url, note?})."""
+    clean = []
+    for d in documents or []:
+        if not isinstance(d, dict) or not str(d.get("title", "")).strip():
+            continue
+        clean.append({
+            "title": str(d["title"]).strip(),
+            "url": str(d.get("url", "")).strip(),
+            "note": str(d.get("note", "")).strip(),
+        })
+    return clean
 
 
 @router.get("")
@@ -79,8 +119,9 @@ def add_item(body: ItemIn):
         "announced_date": body.announced_date,
         "source_url": body.source_url,
         "notes": (body.notes or "").strip(),
-        "commentary": "",
-        "acts": [],
+        "commentary": body.commentary or "",
+        "acts": _validate_acts(body.acts),
+        "documents": _validate_documents(body.documents),
         "added_at": datetime.now(timezone.utc).isoformat(),
     }
     items.insert(0, item)
@@ -110,6 +151,12 @@ def patch_item(item_id: str, body: ItemIn):
         it["announced_date"] = body.announced_date
     if body.source_url is not None:
         it["source_url"] = body.source_url
+    if body.commentary is not None:
+        it["commentary"] = body.commentary
+    if body.acts is not None:
+        it["acts"] = _validate_acts(body.acts)
+    if body.documents is not None:
+        it["documents"] = _validate_documents(body.documents)
     save_items(items)
     return {"ok": True, "item": it}
 
