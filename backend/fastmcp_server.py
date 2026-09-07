@@ -105,9 +105,27 @@ mcp = FastMCP(
 # Shared helpers
 # ---------------------------------------------------------------------------
 
-_CASE_CITATION_RE = _re.compile(r'\[(\d{4})\]\s*([A-Z]+(?:\s*[A-Z]+)*)\s*(\d+)')
+_CASE_CITATION_RE = _re.compile(r'\[(\d{4})\]\s*([A-Z]+(?:\s*[A-Z]+)*)\s*(\d+(?:[-–]\d+)*)')
 
-_CASE_CITATION_BRACKETLESS_RE = _re.compile(r'(\d{4})\s+([A-Z]+(?:\s*[A-Z]+)*)\s+(\d+)')
+_CASE_CITATION_BRACKETLESS_RE = _re.compile(r'(\d{4})\s+([A-Z]+(?:\s*[A-Z]+)*)\s+(\d+(?:[-–]\d+)*)')
+
+# Report-series -> medium-neutral alias map (data/atc_alias_map.json).
+# Populated only with individually verified case pairs — never mass-generated.
+@functools.lru_cache(maxsize=1)
+def _load_case_citation_aliases() -> dict:
+    p = DATA_DIR / "atc_alias_map.json"
+    try:
+        return json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+def _resolve_case_citation_alias(citation_norm: str) -> str:
+    """Map a normalised report-series citation to its canonical medium-neutral
+    citation when a verified alias exists (e.g. '[2009] ATC 1-016' ->
+    '[2009] AATA 805'). Returns the input unchanged when no alias is known."""
+    if not citation_norm:
+        return citation_norm
+    return _load_case_citation_aliases().get(citation_norm, citation_norm)
 
 def _normalise_case_citation(raw: str) -> str | None:
     m = _CASE_CITATION_RE.search(raw)
@@ -2074,6 +2092,7 @@ async def get_case(
     from urllib.parse import quote
     import html as html_mod
     citation_norm = _normalise_case_citation(citation) or citation
+    citation_norm = _resolve_case_citation_alias(citation_norm)
     dev_site_url = f"https://dev.scriptkitty.yachts/tax-cases/{quote(citation_norm)}"
     dl_result = build_download_urls(citation_norm)
 
@@ -2250,6 +2269,7 @@ async def case_legislation_refs(citation: str) -> str:
     """
     from urllib.parse import quote
     citation_norm = _normalise_case_citation(citation) or citation
+    citation_norm = _resolve_case_citation_alias(citation_norm)
     refs = get_case_references(citation_norm)
 
     return json.dumps({
@@ -2701,12 +2721,15 @@ async def quote_save(title: str, date: str, text: str, names: list[str] | None =
 
 
 def _parse_acts(acts_json):
-    """Parse + validate an acts JSON string for the proposed-law tree."""
+    """Parse + validate acts for the proposed-law tree (accepts JSON string OR native list)."""
     import json as _json
-    try:
-        acts = _json.loads(acts_json)
-    except Exception:
-        raise ValueError("acts must be a JSON string")
+    if isinstance(acts_json, str):
+        try:
+            acts = _json.loads(acts_json)
+        except Exception:
+            raise ValueError("acts must be a JSON string")
+    else:
+        acts = acts_json
     if not isinstance(acts, list):
         raise ValueError("acts must be a JSON list")
     clean = []
@@ -2714,8 +2737,10 @@ def _parse_acts(acts_json):
         if not isinstance(a, dict) or not str(a.get("name", "")).strip():
             continue
         rel = a.get("relation", "amended")
-        if rel not in ("amended", "introduced"):
+        if rel not in ("amended", "new", "introduced"):
             rel = "amended"
+        if rel == "introduced":
+            rel = "new"
         secs = []
         for sec in (a.get("sections") or []):
             if isinstance(sec, dict) and str(sec.get("title", "")).strip():
@@ -2736,12 +2761,12 @@ async def proposed_law_list() -> str:
 async def proposed_law_add(title: str, summary: str = "", status: str = "announced",
                            measure_type: str = "other", announced_date: str | None = None,
                            source_url: str | None = None, notes: str = "",
-                           commentary: str = "", acts: str = "[]") -> str:
+                           commentary: str = "", acts: str | list | None = None) -> str:
     """Add an item to the Proposed Law tracker (a measure announced/developing but
     not yet enacted — Treasury Laws Amendment bills, exposure drafts, ATO drafts).
     status: announced | exposure_draft | before_parliament | passed | enacted | withdrawn.
     measure_type: bill | exposure_draft | announcement | ato_draft | other.
-    acts: JSON string of [{"name": "<Act name>", "relation": "amended|introduced",
+    acts: JSON string OR array of [{"name": "<Act name>", "relation": "amended|new",
           "sections": [{"title": "...", "content": "markdown"}]}] — the acts proposed
           to be amended or introduced and their proposed sections. commentary: one big
           markdown section for your notes on the proposal."""
@@ -2753,6 +2778,8 @@ async def proposed_law_add(title: str, summary: str = "", status: str = "announc
         return json.dumps({"ok": False, "error": f"status must be one of {sorted(STATUSES)}"})
     if measure_type not in MEASURE_TYPES:
         return json.dumps({"ok": False, "error": f"measure_type must be one of {sorted(MEASURE_TYPES)}"})
+    if acts is None:
+        acts = "[]"
     items = load_items()
     item = {
         "id": _dt.datetime.now().strftime("%Y%m%d%H%M%S"),
@@ -2778,7 +2805,7 @@ async def proposed_law_add(title: str, summary: str = "", status: str = "announc
 async def proposed_law_update(item_id: str, status: str | None = None,
                               measure_type: str | None = None, summary: str | None = None,
                               notes: str | None = None, source_url: str | None = None,
-                              commentary: str | None = None, acts: str | None = None) -> str:
+                              commentary: str | None = None, acts: str | list | None = None) -> str:
     """Update a proposed-law item by id. Status/measure_type/summary/notes/source_url
     are scalar. To update the tree content: pass commentary (full markdown string,
     replaces the whole commentary) and/or acts (full JSON string of the acts array —
