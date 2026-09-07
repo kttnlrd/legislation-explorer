@@ -606,5 +606,27 @@
     "cost": "10000",
     "currency": "AUD",
     "terms": "One-off"
+  },
+  {
+    "id": "12ab118e5222",
+    "title": "Discussion with Accountants",
+    "date": "2026-09-03",
+    "text": "Discussion with Accountants (estimated)\n\nWe will meet and correspond with your accountants, [NAME_1], to confirm the scope of tax assurance required in respect of the arrangements between [NAME_2] and [NAME_3].\n\nThis item is charged on an hourly basis. We estimate $2,300 plus GST for 2 hours, including meeting time and any necessary follow-ups.",
+    "added_at": "2026-09-03T00:12:01.152412+00:00",
+    "tag": "Cadena Legal (Tax)",
+    "cost": "2300",
+    "currency": "AUD",
+    "terms": "One-off"
+  },
+  {
+    "id": "f5bda41c6b68",
+    "title": "Withholding Tax and Permanent Establishment Opinion",
+    "date": "2026-09-03",
+    "text": "Withholding Tax and Permanent Establishment Opinion (estimated)\n\nWe will prepare an opinion addressing:\n\n(a) the characterisation of the payments made by [NAME_1] to [NAME_3] for withholding tax purposes under section 128B of the Income Tax Assessment Act 1936, being whether any component is a dividend, interest or royalty;\n\n(b) whether any permanent establishment of [NAME_4] in Australia, under the definition in section 6(1) of the Income Tax Assessment Act 1936 and the permanent establishment article of any applicable double tax agreement, has any impact on [NAME_2]; and\n\n(c) a review of the tax indemnity agreement from an Australian tax perspective.\n\nThe deliverable is a letter of advice. We estimate $10,000.",
+    "added_at": "2026-09-03T00:12:08.718569+00:00",
+    "tag": "Cadena Legal (Tax)",
+    "cost": "10000",
+    "currency": "AUD",
+    "terms": "One-off"
   }
 ]
