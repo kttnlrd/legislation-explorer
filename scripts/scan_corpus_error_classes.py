@@ -155,6 +155,85 @@ def scan_section_fragments():
                 add("C5_fragment_inline", str(p.relative_to(DATA)), f"line {ln}: {m.group(0)}")
 
 
+# ── C11 (CDN-0186/0187): table cell coherence — mid-word splits, glyph junk ─
+# Tables are the audit's blind spot: C5 skips anything inside '|' pipe rows,
+# so words cut across cells, PDF formula glyphs, and truncated rows all pass.
+# This class parses pipe-table cells:
+#   (a) mid-word split: a cell ends with a short lowercase fragment (<=4 chars,
+#       not itself a whole word preceded by a space) and the next cell starts
+#       lowercase — e.g. '| ... ast | erisked terms ... |' (whole word cut)
+#   (b) extraction glyphs: ç ÷ ´ ê ú æ û etc. inside any cell (formula junk)
+#   (c) dangling end: a table row's final cell ends with a bare connector
+#       ('the |', 'and |') — content truncated at the old page boundary
+EXTRACT_GLYPH = re.compile(r"[ç÷´êëûüàáâãäåæôöòóõøèéíìîïñšžÿýñ]")
+DANGLE_CELL_END = re.compile(r"\s(the|and|a|an|or|of|to|for|in|on|was|is|you|if|that|which|with|by|as|at|when)\s*\|\s*$", re.I)
+
+# /usr/share/dict/words (lowercase, ~104k) for the mid-word split test:
+# flag cell boundary only if NEITHER side is a word but their concatenation is
+# ('ast | erisked' -> 'asterisked'). Whole words on either side ('asset | when')
+# are legitimate cell boundaries and are skipped.
+try:
+    _WORDS = set(open("/usr/share/dict/words", encoding="utf-8").read().split())
+except Exception:
+    _WORDS = None
+
+
+def _tail_word(cell: str):
+    """Last whitespace-separated token of a cell, stripped of leading markers."""
+    t = cell.strip().split()[-1] if cell.strip().split() else ""
+    return t.strip(",*'\"()") if t else ""
+
+
+def _head_word(cell: str):
+    """First whitespace token of a cell, stripped of leading markers."""
+    parts = cell.strip().split()
+    if not parts:
+        return ""
+    t = parts[0]
+    return t.strip(",*'\"()") if t else ""
+
+
+def scan_table_coherence():
+    for act_dir in DATA.iterdir():
+        sec_dir = act_dir / "sections"
+        if not sec_dir.is_dir():
+            continue
+        for p in sorted(sec_dir.rglob("*.md")):
+            try:
+                lines = p.read_text(encoding="utf-8", errors="replace").splitlines()
+            except Exception:
+                continue
+            for ln_no, ln in enumerate(lines, 1):
+                if not ln.startswith("|") or re.match(r"^\|\s*---", ln):
+                    continue
+                # (b) glyph junk
+                gm = EXTRACT_GLYPH.search(ln)
+                if gm:
+                    add("C11_table_glyph", str(p.relative_to(DATA)),
+                        f"line {ln_no}: extraction glyph {gm.group(0)!r}: {ln.strip()[:90]}")
+                    continue
+                # (c) dangling connector end
+                if DANGLE_CELL_END.search(ln):
+                    add("C11_table_truncated", str(p.relative_to(DATA)),
+                        f"line {ln_no}: row ends on bare connector: {ln.strip()[:90]}")
+                    continue
+                # (a) mid-word split across adjacent cells — wordlist test
+                if _WORDS is None:
+                    continue
+                cells = [c.strip() for c in ln.strip().strip("|").split("|")]
+                for ci in range(len(cells) - 1):
+                    left, right = cells[ci], cells[ci + 1]
+                    tw = _tail_word(left).lower()
+                    hw = _head_word(right).lower()
+                    if len(tw) < 1 or len(hw) < 1:
+                        continue
+                    joined = tw + hw
+                    if joined in _WORDS and tw not in _WORDS and hw not in _WORDS:
+                        add("C11_table_midword", str(p.relative_to(DATA)),
+                            f"line {ln_no}: '{tw}|{hw}' = '{joined}' cut across cells {ci+1}|{ci+2}: {ln.strip()[:100]}")
+                        break
+
+
 # ── C6 (CDN-0081): stray trailing token at cut point (e.g. "payments") ──────
 # In tree titles or section H1: title that is a single fragment word repeated.
 def scan_stray_cut_tokens():
@@ -290,6 +369,7 @@ def main():
     scan_formatting_artifacts()
     scan_definitions()
     scan_case_citations()
+    scan_table_coherence()
 
     # summarize
     by_class = Counter(f["class"] for f in findings)
