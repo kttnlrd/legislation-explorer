@@ -42,14 +42,14 @@ const TREATY_SET = new Set(TREATY_SLUGS)
 const isTreaty = (id: string) => TREATY_SET.has(id) && id !== 'treaties'
 
 const DOMAINS: { label: string; ids: string[] }[] = [
-  { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'fbt-1986', 'sis-1993', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases', 'private-rulings'] },
-  { label: 'Proposed Law', ids: ['proposed-law'] },
-  { label: 'International Tax', ids: ['treaties', 'oecd-mtc-2017'] },
-  { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
-  { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
-  { label: 'Corporate Insolvency', ids: ['insolvency-keays'] },
-  { label: 'AML/CTF', ids: ['aml-ctf-2006', 'aml-ctf-rules-2007'] },
-  { label: 'System', ids: ['spec'] },
+  // Every category holds >=3 items (CDN-0190): singleton categories fold into
+  // the closest section rather than cluttering the picker. The final 'Other'
+  // is the designated catch-all for anything sub-3.
+  { label: 'Australian Legislation', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'fbt-1986', 'sis-1993', 'corporations-act-2001', 'aml-ctf-2006', 'aml-ctf-rules-2007'] },
+  { label: 'Australian Tax Rulings & Cases', ids: ['rulings', 'tax-cases', 'private-rulings'] },
+  { label: 'Australian Other Resources', ids: ['master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'regulatory-guides', 'insolvency-keays'] },
+  { label: 'NZ & International Tax', ids: ['nz-it-2007', 'treaties', 'oecd-mtc-2017'] },
+  { label: 'Other', ids: ['spec'] },
 ]
 
 // ---------------------------------------------------------------------------
@@ -737,6 +737,20 @@ export default function App() {
                         )
                       })
                     })() : null}
+                    {/* Proposed Law — dedicated row (it is a tracker, not a domain category) */}
+                    <div>
+                      <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>Proposed Law</div>
+                      <button onClick={() => { setPickerOpen(false); setAct('proposed-law'); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setSearchPage(false); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/proposed-law'); if (isMobile) setDrawerOpen(false) }} style={{
+                        display: 'block', width: '100%', padding: '6px 12px',
+                        background: 'transparent', border: 'none',
+                        color: act === 'proposed-law' ? COLORS.accent : COLORS.text,
+                        fontSize: 12, cursor: 'pointer',
+                        fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
+                      }}
+                        onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
+                        onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                      >Proposed Law</button>
+                    </div>
                     {/* Procedural Maps — same navigation as any act: tree in the sidebar */}
                     {mapsList && mapsList.length > 0 && (
                       <div>
