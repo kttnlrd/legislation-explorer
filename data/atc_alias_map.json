@@ -1,0 +1,4 @@
+{
+  "_comment": "ATC report-series -> medium-neutral case citation alias map (CDN-0183). Only add individually VERIFIED pairs — a key maps [YYYY] ATC n-nnn (the ATC's anonymous Case N/YYYY report citation) to the same case's medium-neutral citation as stored in this corpus. NEVER mass-generate from ATC series numbers. Verified 2026-09-05 (Master Tax Guide cross-check): Case 12/2009 is YXFP and Commissioner of Taxation, reported at 2009 ATC para 1-016; the corpus holds it as [2009] AATA 805.",
+  "[2009] ATC 1-016": "[2009] AATA 805"
+}
