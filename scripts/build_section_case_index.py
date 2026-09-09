@@ -64,13 +64,13 @@ TAA_GENERIC_BLOCK = {str(i) for i in range(1, 100)}
 # ---------------------------------------------------------------------------
 
 ACT_PATTERNS = [
-    (r'Income Tax Assessment Act\s+1997|ITAA\s*1997|Assessment Act\s+1997', 'itaa-1997'),
-    (r'Income Tax Assessment Act\s+1936|ITAA\s*1936|Assessment Act\s+1936', 'itaa-1936'),
-    (r'Goods and Services Tax Act\s+1999|A New Tax System \(Goods and Services Tax\) Act\s+1999|GST Act', 'gst-1999'),
+    (r'Income Tax Assessment Act\s+1997|ITAA\s*1997', 'itaa-1997'),
+    (r'Income Tax Assessment Act\s+1936|ITAA\s*1936', 'itaa-1936'),
+    (r'A New Tax System \(Goods and Services Tax\) Act\s+1999|GST Act', 'gst-1999'),
     (r'Taxation Administration Act\s+1953|TAA\s*1953', 'taa-1953'),
-    (r'Fringe Benefits Tax Assessment Act|FBT\s*Act|FBTAA', 'fbt-1986'),
-    (r'Superannuation Industry \(Supervision\) Act|SIS\s*Act', 'sis-1993'),
-    (r'Luxury Car Tax Act\s+1999|LCT Act', 'gst-1999'),
+    (r'Fringe Benefits Tax Assessment Act\s+1986|FBTAA|FBT Act', 'fbt-1986'),
+    (r'Superannuation Industry \(Supervision\) Act\s+1993|SIS Act', 'sis-1993'),
+    (r'Bankruptcy Act\s+1966', 'bankruptcy-1966'),
 ]
 
 
@@ -82,85 +82,103 @@ def detect_act(text: str) -> str | None:
     return None
 
 
+def act_mentions(text: str) -> list[tuple[int, int, str]]:
+    """Sorted (start, end, act_id) of every act-name mention in text."""
+    out = []
+    for pattern, act_id in ACT_PATTERNS:
+        for mm in re.finditer(pattern, text, re.IGNORECASE):
+            out.append((mm.start(), mm.end(), act_id))
+    out.sort()
+    return out
+
+
 # ---------------------------------------------------------------------------
 # Section reference extraction
 # ---------------------------------------------------------------------------
 
-TOKEN_RE = re.compile(
-    BASE_RE +
-    r'(?:\(\d+[A-Z]?\))?'   # (1), (1A)
-    r'(?:\(\d+\))?'         # (2)
-    r'(?:\([a-z]\))?'       # (a)
-    r'(?:\([ivx]+\))?',     # (i)
-    re.IGNORECASE
-)
+# Section numbers: one optional letter per number part, optional dashed parts,
+# optional (sub) paragraph suffixes. Hyphenated numbers (105-50, 284-75) are
+# matched whole — never truncated to the leading integer (CDN-0185). Final
+# no-lowercase lookahead stops glued act names ('s 9-5Tax Laws...') from
+# being eaten as letter suffixes.
+SEC_NUM = r'\d+[A-Z]?(?:-\d+[A-Z]?)*(?:\(\d+[A-Z]?\))*(?:\([a-z]\))*(?![a-z])'
 
 REF_START_RE = re.compile(
-    r'\b(?:[sS][sS]\.?|[sS]\.?|section|sections)\s*',
-    re.IGNORECASE
+    r'\b(?:s{1,2}\.?\s+|sections?\s+)(' + SEC_NUM + r')',
+    re.IGNORECASE,
 )
+
+FOLLOW_ACT_WINDOW = 120  # prose: 's 105-50 of Schedule 1 to the TAA' — act after ref
+PRECEDE_ACT_WINDOW = 200  # list/prose: 'the GST Act ... s 38-325' — act before ref
 
 
 def extract_refs(text: str) -> list[tuple[str, str, str]]:
-    found = []
+    """Extract (base, section_id, act) triples with act-scoped binding.
+
+    CDN-0184/CDN-0185 fix: a section ref is bound to the act that governs it,
+    NOT to every act named anywhere in a wide context window. Resolution:
+      1. nearest PRECEDING act mention (within 200 chars) — the 'Legislation'
+         list format (ActName, ss X, Y, Z ActName2, ss W) and prose where the
+         act is named before the ref;
+      2. else nearest FOLLOWING act mention (within 120 chars) — prose where
+         the ref precedes the act ('s 105-50 of Schedule 1 to the TAA');
+      3. else no act: refs with no act context are skipped (never defaulted
+         wholesale to ITAA 1997 — that misattribution is the old bug).
+    Comma-continuation lists ('ss 105-5(1), 284-75, 284-90') bind to the same
+    act as their parent ref.
+    """
+    mentions = act_mentions(text)
+    refs = []
+
+    def act_for_ref(pos: int) -> str | None:
+        preceding = [mn for mn in mentions if mn[1] <= pos and pos - mn[1] <= PRECEDE_ACT_WINDOW]
+        following = [mn for mn in mentions if mn[0] >= pos and mn[0] - pos <= FOLLOW_ACT_WINDOW]
+        if following:
+            # Prose binding: 'ss X ... of [Schedule N of] the <Act>' — an act
+            # named shortly AFTER the ref with 'of'-connective governs it
+            # ('s 105-50 of Schedule 1 to the TAA'). In list mode
+            # ('GST Act, ss 31-5, 31-8 TAA, ss 105-5') the following act is the
+            # NEXT list item — the 'of' connective is absent, so preceding wins.
+            gap = text[pos:following[0][0]]
+            if len(gap) <= 90 and re.search(r'\bof\b', gap, re.IGNORECASE) and not re.search(r'[.;–]|consideration|whether|where|if\b', gap, re.IGNORECASE):
+                return following[0][2]
+        if preceding:
+            return preceding[-1][2]
+        return None
+
     for m in REF_START_RE.finditer(text):
-        start = m.end()
-        ctx_start = max(0, m.start() - 200)
-        ctx_end = min(len(text), m.end() + 100)
-        context = text[ctx_start:ctx_end]
-        act = detect_act(context)
+        sec = m.group(1)
+        act = act_for_ref(m.start())
+        if not act:
+            continue
+        refs.append((sec, act, m.start()))
 
-        pos = start
-        while pos < len(text) and text[pos] in ' \t\n,;':
-            pos += 1
+    # Comma continuations: after each captured ref, scan forward until the
+    # next act mention for ', SEC_NUM' list items (same governing act).
+    more = []
+    for sec, act, start in refs:
+        end_ctx = next((mn[0] for mn in mentions if mn[0] >= start), len(text))
+        ctx = text[start:end_ctx]
+        for cm in re.finditer(r',\s*(' + SEC_NUM + r')', ctx):
+            more.append((cm.group(1), act))
 
-        tokens = []
-        while pos < len(text):
-            tm = TOKEN_RE.match(text[pos:])
-            if not tm:
-                break
-            token = tm.group(0)
-            tokens.append(token)
-            pos += tm.end()
-            while pos < len(text) and text[pos] in ' \t\n':
-                pos += 1
-            if pos < len(text) and text[pos] == ',':
-                pos += 1
-                while pos < len(text) and text[pos] in ' \t\n':
-                    pos += 1
-                continue
-            if pos < len(text) and text[pos:pos+3].lower() == 'and':
-                pos += 3
-                while pos < len(text) and text[pos] in ' \t\n':
-                    pos += 1
-                continue
-            if pos < len(text) and text[pos:pos+2].lower() == 'or':
-                pos += 2
-                while pos < len(text) and text[pos] in ' \t\n':
-                    pos += 1
-                continue
-            break
-
-        for token in tokens:
-            base_m = re.match(BASE_RE, token)
-            if not base_m:
-                continue
-            base = base_m.group(1).replace(' ', '')
-            resolved_act = act if act else infer_act(base)
-            if resolved_act and base in BASE_LOOKUP:
-                candidates = BASE_LOOKUP[base]
-                for a, sid in candidates:
-                    if a == resolved_act:
-                        found.append((base, sid, resolved_act))
-                        break
-
+    all_refs = [(s, a) for s, a, _ in refs] + more
     seen = set()
     deduped = []
-    for base, sid, act in found:
-        key = (act, sid)
-        if key not in seen:
-            seen.add(key)
-            deduped.append((base, sid, act))
+    for base, act in all_refs:
+        # false positives: 4-digit years captured as 'sections'
+        if re.fullmatch(r'\d{4}', base):
+            continue
+        # resolve to a corpus section id under that act
+        if act and base in BASE_LOOKUP:
+            candidates = BASE_LOOKUP[base]
+            for a, sid in candidates:
+                if a == act:
+                    key = (base, sid, act)
+                    if key not in seen:
+                        seen.add(key)
+                        deduped.append((base, sid, act))
+                    break
     return deduped
 
 

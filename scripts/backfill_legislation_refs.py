@@ -73,7 +73,14 @@ def is_chrome(line: str) -> bool:
 
 
 def extract_refs(content: str, citation: str) -> list[dict]:
-    """Extract legislation references from case HTML/text."""
+    """Extract legislation references from case HTML/text.
+
+    CDN-0184/CDN-0185 fix: each section ref is bound to the SINGLE act that
+    governs it (nearest preceding act mention, or following 'of ... the Act'
+    prose within a short window) — NOT multiplied across every act named in
+    the paragraph, and never defaulted wholesale to ITAA 1997 when no act is
+    named. Refs with no act context are skipped.
+    """
     refs = []
     # Split into lines and group into rough paragraphs
     lines = content.split("\n")
@@ -89,53 +96,62 @@ def extract_refs(content: str, citation: str) -> list[dict]:
     if current:
         paragraphs.append(" ".join(current))
 
+    # Section number pattern: hyphen-aware (105-50 never truncates to 105).
+    # One optional letter per number part ('82A', '105-5A') and a final
+    # no-lowercase lookahead so a glued act name ('s 9-5Tax Laws...',
+    # 's 44(1)A New Tax System...') never gets eaten as a letter suffix.
+    SEC_NUM = r"\d+[A-Z]?(?:[-–]\d+[A-Z]?)*(?:\(\d+[A-Z]?\))*(?:\([a-z]\))*(?![a-z])"
+    sec_re = re.compile(r"\b(?:s{1,2}\.?\s+|sections?\s+)(" + SEC_NUM + r")", re.IGNORECASE)
+
+    def act_positions(para_text: str):
+        out = []
+        for act_name, pattern in ACTS:
+            for mm in pattern.finditer(para_text):
+                out.append((mm.start(), mm.end(), act_name))
+        out.sort()
+        return out
+
     for para_num, para_text in enumerate(paragraphs, 1):
         if len(para_text) < 30:
             continue
 
-        # Find which acts are mentioned in this paragraph
-        acts_found = set()
-        for act_name, pattern in ACTS:
-            if pattern.search(para_text):
-                acts_found.add(act_name)
+        mentions = act_positions(para_text)
 
-        # If no act found, default to ITAA 1997
-        target_acts = acts_found if acts_found else {"Income Tax Assessment Act 1997"}
+        def act_for_ref(pos: int) -> str | None:
+            preceding = [mn for mn in mentions if mn[1] <= pos and pos - mn[1] <= 200]
+            following = [mn for mn in mentions if mn[0] >= pos and mn[0] - pos <= 120]
+            if following:
+                gap = para_text[pos:following[0][0]]
+                # prose binding: 'ss X ... of [Schedule N of] the <Act>'
+                if len(gap) <= 90 and re.search(r"\bof\b", gap, re.IGNORECASE) \
+                        and not re.search(r"[.;–]|consideration|whether|where|if\b", gap, re.IGNORECASE):
+                    return following[0][2]
+            if preceding:
+                return preceding[-1][2]
+            return None
 
-        # Scan for section references
-        for m in SECTION_RE.finditer(para_text):
-            raw = m.group(0).strip()
-
+        for m in sec_re.finditer(para_text):
+            sec = m.group(1)
             context_start = max(0, m.start() - 80)
             context_end = min(len(para_text), m.end() + 80)
             ctx = para_text[context_start:context_end]
-
-            # Handle ss multi-ref: "ss 23, 37AB, 37AE" → split into individual refs
-            if raw.lower().startswith("ss"):
-                secs = re.split(r'[,–\s]+', raw[2:].strip().lstrip('. '))
-                for sec in secs:
-                    if sec.strip():
-                        for act_title in target_acts:
-                            refs.append({
-                                "act_title": act_title,
-                                "section_reference": f"s.{sec.strip()}",
-                                "context": ctx,
-                                "paragraph_number": para_num,
-                            })
-                continue
-
-            section_ref = raw
-            # Normalise: s.116 → s.116, section 116 → s.116, s 116 → s.116
-            if section_ref.lower().startswith("section "):
-                section_ref = "s." + section_ref[8:]
-            elif section_ref.lower().startswith("s"):
-                num = re.sub(r'^s\s*\.?\s*', '', section_ref, flags=re.IGNORECASE)
-                section_ref = "s." + num
-
-            for act_title in target_acts:
+            act_title = act_for_ref(m.start())
+            if not act_title:
+                continue  # no act context — don't guess ITAA 1997
+            refs.append({
+                "act_title": act_title,
+                "section_reference": f"s.{sec}",
+                "context": ctx,
+                "paragraph_number": para_num,
+            })
+            # comma/and continuations: 'ss 105-50(1) and 105-50(3)(a)' or
+            # 'ss 105-5(1), 284-75' — same governing act, up to next act mention
+            end_ctx = next((mn[0] for mn in mentions if mn[0] >= m.start()), len(para_text))
+            tail = para_text[m.end():end_ctx]
+            for cm in re.finditer(r"(?:,|\band\b)\s*(" + SEC_NUM + r")", tail):
                 refs.append({
                     "act_title": act_title,
-                    "section_reference": section_ref,
+                    "section_reference": f"s.{cm.group(1)}",
                     "context": ctx,
                     "paragraph_number": para_num,
                 })
