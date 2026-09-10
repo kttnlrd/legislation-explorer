@@ -324,8 +324,9 @@ for _f in sc.findings:
     _by_class.setdefault(_f["class"], []).append(_f)
 for _cls, _items in sorted(_by_class.items()):
     _first = _items[0]
+    _nfiles = len({_i["path"] for _i in _items})
     rec("content", f"corpus {_cls}", "FIND",
-        f"{len(_items)} file(s) e.g. {_first['path']}: {_first['detail'][:70]}")
+        f"{len(_items)} finding(s) across {_nfiles} file(s) e.g. {_first['path']}: {_first['detail'][:70]}")
 print(f"\n── CONTENT PHASE: {len(_by_class)} finding classes | FAIL 0 | FIND {len(_by_class)}")
 
 fails_content = [r for r in results if r[0] == "content" and r[2] == "FAIL"]

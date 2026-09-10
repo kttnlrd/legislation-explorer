@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from collections import Counter
 from pathlib import Path
 
@@ -165,7 +166,35 @@ def scan_section_fragments():
 #   (b) extraction glyphs: ç ÷ ´ ê ú æ û etc. inside any cell (formula junk)
 #   (c) dangling end: a table row's final cell ends with a bare connector
 #       ('the |', 'and |') — content truncated at the old page boundary
-EXTRACT_GLYPH = re.compile(r"[ç÷´êëûüàáâãäåæôöòóõøèéíìîïñšžÿýñ]")
+EXTRACT_GLYPH = re.compile(r"[ç÷´êëûüàáâãäåæôöòóõøèéíìîïñšžÿý]")
+
+# A flagged char is NOT corruption when it is a normal diacritic inside an
+# alphabetic word in natural-language text (e.g. "Fédération Internationale").
+# Formula-font junk always shows up as a lone symbol, or as a prefix glued to
+# the following word ("êTotal", "ç1", "´ fringe benefits") — never with letters
+# on BOTH sides whose accent-folded form is a real word.
+_ASCII_FOLD = lambda w: "".join(
+    c for c in unicodedata.normalize("NFKD", w) if not unicodedata.combining(c)
+)
+
+
+def _is_natural_word_accent(line: str, m: re.Match) -> bool:
+    i = m.start()
+    if i == 0 or not line[i - 1].isalpha() or i + 1 >= len(line) or not line[i + 1].isalpha():
+        return False
+    s = i
+    while s > 0 and (line[s - 1].isalpha() or line[s - 1] in "'’"):
+        s -= 1
+    e = i + 1
+    while e < len(line) and line[e].isalpha():
+        e += 1
+    word = line[s:e]
+    if len(word) < 4:
+        return False
+    if _WORDS is None:
+        return False
+    return _ASCII_FOLD(word).lower() in _WORDS
+
 DANGLE_CELL_END = re.compile(r"\s(the|and|a|an|or|of|to|for|in|on|was|is|you|if|that|which|with|by|as|at|when)\s*\|\s*$", re.I)
 
 # /usr/share/dict/words (lowercase, ~104k) for the mid-word split test:
@@ -206,8 +235,9 @@ def scan_table_coherence():
             for ln_no, ln in enumerate(lines, 1):
                 if not ln.startswith("|") or re.match(r"^\|\s*---", ln):
                     continue
-                # (b) glyph junk
-                gm = EXTRACT_GLYPH.search(ln)
+                # (b) glyph junk (ignore natural-language accents, e.g. "Fédération")
+                gm = next((m for m in EXTRACT_GLYPH.finditer(ln)
+                           if not _is_natural_word_accent(ln, m)), None)
                 if gm:
                     add("C11_table_glyph", str(p.relative_to(DATA)),
                         f"line {ln_no}: extraction glyph {gm.group(0)!r}: {ln.strip()[:90]}")
@@ -228,7 +258,11 @@ def scan_table_coherence():
                     if len(tw) < 1 or len(hw) < 1:
                         continue
                     joined = tw + hw
-                    if joined in _WORDS and tw not in _WORDS and hw not in _WORDS:
+                    # A boundary is only legitimate when BOTH sides are whole
+                    # words ('asset | when'). If either half is a fragment, the
+                    # word was cut across cells ('d | efinitions' too — a
+                    # single-letter half is still a fragment, not a cell).
+                    if joined in _WORDS and not (tw in _WORDS and hw in _WORDS):
                         add("C11_table_midword", str(p.relative_to(DATA)),
                             f"line {ln_no}: '{tw}|{hw}' = '{joined}' cut across cells {ci+1}|{ci+2}: {ln.strip()[:100]}")
                         break
