@@ -56,6 +56,70 @@ SECTIONS = {
 
 EXTRACTOR = REPO / "scripts" / "extract_itaa_tables_pdf.py"
 
+# ── Source-compilation guard (2026-09-12) ────────────────────────────────────
+# The map above names C2026C00122VOL*.pdf, which are compilation **263**, while the
+# corpus frontmatter/body is compilation **266**. Extracting tables from the stale
+# volumes would silently revert law text (266 -> 263) on the largest act, so every
+# run must resolve a volume whose own footer compilation matches the corpus, and
+# abort otherwise. The matching comp-266 sources live under staging as
+# data/itaa-1997/raw/comp266/volNN.pdf (verified footer "Compilation No. 266",
+# authorised version C2026C00324).
+COMP266_DIR = Path("/home/harrison/legislation-explorer-staging/data/itaa-1997/raw/comp266")
+
+
+def _pdf_compilation(pdf: Path) -> str | None:
+    import re
+    try:
+        import fitz
+        doc = fitz.open(pdf)
+        text = "".join(doc[i].get_text() for i in range(min(40, doc.page_count)))
+    except Exception:
+        return None
+    m = re.search(r"Compilation No\.?\s*(\d+)", text)
+    return m.group(1) if m else None
+
+
+def _corpus_compilation() -> str | None:
+    import re
+    for f in sorted(DATA.rglob("*.md"))[:50]:
+        m = re.search(r'compilation_no:\s*"?(\d+)', f.read_text(errors="ignore")[:400])
+        if m:
+            return m.group(1)
+    return None
+
+
+def resolve_source_pdf(section: str) -> Path:
+    """Source volume for `section` whose compilation matches the corpus; abort if none.
+
+    Prefers the corpus-matching comp-266 volumes; falls through to the legacy map
+    only when that volume's own footer agrees with the corpus compilation.
+    """
+    import re
+    wanted = _corpus_compilation()
+    mapped = SECTIONS[section]
+    candidates: list[Path] = []
+    vol = re.search(r"VOL(\d{2})\.pdf$", mapped)
+    if vol:
+        candidates.append(COMP266_DIR / f"vol{vol.group(1)}.pdf")
+    candidates.append(PDFDIR / mapped)
+    for pdf in candidates:
+        if not pdf.exists():
+            continue
+        got = _pdf_compilation(pdf)
+        if got and wanted and got != wanted:
+            print(
+                f"  REFUSING {pdf.name}: compilation {got} != corpus {wanted} "
+                f"(would revert law text)",
+                file=sys.stderr,
+            )
+            continue
+        return pdf
+    raise SystemExit(
+        f"no source volume for section {section} matching corpus compilation "
+        f"{wanted} — checked: {', '.join(str(c) for c in candidates)}"
+    )
+
+
 # Sections whose tables are too corrupted for auto-rebuild (multi-page
 # 4-column tables with interleaved headers) — handled manually.
 SKIP_AUTO = {"30-25", "118-300", "832-615"}
@@ -68,9 +132,24 @@ HEADER_FILTER = {
 }
 
 
+_DOCS: dict[str, object] = {}
+
+
 def extract_tables(section: str) -> list[dict]:
-    """Run the extractor in --json mode and parse."""
-    pdf = PDFDIR / SECTIONS[section]
+    """Extract in-process when fitz is importable, subprocess otherwise (R10).
+
+    One subprocess (and one PDF parse) per section costs seconds each over
+    240+ rebuilds; in-process also keeps each volume open across sections.
+    """
+    pdf = resolve_source_pdf(section)
+    try:
+        import fitz
+        sys.path.insert(0, str(EXTRACTOR.parent))
+        import extract_itaa_tables_pdf as ex
+        doc = _DOCS.get(str(pdf)) or _DOCS.setdefault(str(pdf), fitz.open(pdf))
+        return ex.collect_tables(doc, section)
+    except ImportError:
+        pass
     py = _find_python_with_fitz()
     r = subprocess.run(
         py + [str(EXTRACTOR), str(pdf), section, "--json"],
