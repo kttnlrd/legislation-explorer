@@ -59,7 +59,11 @@ passes. Any rebuild MUST gate on content fidelity, not just structure.
 
 1. For each act, inventory flagged files + locate source PDF volume mapping
    (frontmatter `compilation_no` → staging source).
-2. **Source-version audit (CRITICAL — discovered 2026-09-07):**
+2. **Source-version audit (CRITICAL — discovered 2026-09-07):** ⚠️ **SUPERSEDED
+   2026-09-13 — the table below is factually wrong (it conflated
+   `staging/source/` with `staging/data/<act>/raw/*.txt`). Use the verified
+   manifest in the addendum "Source manifest verified 2026-09-13" at the end of
+   this file.**
    | act       | corpus fm | repo raw (data/<act>/raw)      | staging raw has              | rebuild source |
    |-----------|-----------|--------------------------------|------------------------------|----------------|
    | itaa-1997 | 266       | comp **263** (STALE)           | comp266 vol01-12.pdf + .txt  | **comp266 PDFs** (word-pos extractor) |
@@ -218,13 +222,84 @@ Read this table as *text availability*, not as a licence to patch from raw:
   sampled finding is genuinely cut mid-clause. No detector-tightening fix is
   available for this class (unlike CDN-0191's accent-fold exemption).
 
-Execution gate status as of 2026-09-12: **not satisfied** — no opus/codex review
-artefacts for this plan exist in the repo, and the repo's own history shows an
-earlier cron attempt at this class was lossy and had to be reverted
-(§Evidence, 2026-09-07). Held for Harry's sign-off; do not execute piecemeal.
+Execution gate status as of 2026-09-13: **reviewed, tooling gate now MET;
+execution still held for Harry's sign-off.** The 2026-09-12 reviews landed in
+`.hermes/reviews/` (opus REJECT, codex REJECT, gemini APPROVE-WITH-CHANGES) and
+every blocker they raised was either fixed in commit `948647004` "Phase 0
+rebuild gates + geometry extractor rewrite" or shown to be factually wrong
+(see the 2026-09-13 addendum). Gate self-check is live-green as of 2026-09-13
+(`python3.12 scripts/table_rebuild_gate.py --selfcheck` → 8/8 PASS). The one
+thing still missing is Harry's go for Phase 1 — do not execute piecemeal.
 
 ## Out of scope (this pass)
 
 - NZ IT 2007 (0 flags), OECD/treaties/proposed-law (not flagged).
 - `spec` fixture tables (clean; detector has 0 hits there).
 - Non-table truncation classes (CDN-0182 30-212 etc) — separate tickets.
+
+## Source manifest verified 2026-09-13 (nightly bug-squash run)
+
+Method (read-only, reproducible): `pdftotext <pdf> - | grep -m1 -oE
+'Compilation No\. [0-9]+'` on **every** staging PDF volume; `grep -m1
+'^compilation_no:'` over `data/<act>/sections/**` frontmatter; the same grep over
+`data/<act>/raw/*.txt` (repo) and `staging/data/<act>/raw/*.txt` (staging).
+Compilation identity taken from document-internal footers, never filenames.
+
+| act | corpus fm | repo `raw/*.txt` | `staging/source/` PDFs | `staging/data/<act>/raw/*.txt` | rebuild source (verified) |
+|-----|-----------|------------------|------------------------|-------------------------------|---------------------------|
+| itaa-1997 | 266 | **263 STALE** | `C2026C00122VOL01-12.pdf` = **263 STALE — never use** | `vol01-12.txt` = **266 ✓** | `staging/data/itaa-1997/raw/comp266/vol01-12.pdf` (footer **266 ✓**, verified per volume) or the matching comp-266 txt |
+| taa-1953 | 222 | 222 ✓ | `vol01-04.pdf` = **222 ✓** | `vol01-04.txt` = 225 (newer) | repo txt 222 **or** staging PDF 222 — both match; the 225 txt is off-limits |
+| fbt-1986 | 96 | 96 ✓ | `part1,2.pdf` = **96 ✓** | `part1,2.txt` = 97 (newer) | either matching source |
+| itaa-1936 | 191 | 191 ✓ | `C2026C00165VOL01-07.pdf` = **191 ✓** | `vol01-07.txt` = 192 (newer) | either matching source |
+| sis-1993 | 126 | 126 ✓ | `part1,2.pdf` = **126 ✓** | `part1,2.txt` = 126 ✓ | either (this is the Phase 0 calibration act) |
+| gst-1999 | 96 | 96 ✓ | `gst-1999-vol1,2.pdf` = **96 ✓** | `vol01-02.txt` = 96 ✓ | PDF path **is** available (plan §Phase0.2 wrongly said "no PDFs") |
+
+**Correction to §Phase0.2.** Its "staging raw has one compilation newer" column
+describes `staging/data/<act>/raw/*.txt` (225/97/192 for taa/fbt/itaa36) — *not*
+the `staging/source/` PDFs, which match the corpus compilation for 5 of 6 acts.
+Consequences: (a) the "diff section prose before trusting the newer PDF"
+procedure is unnecessary work built on a false premise — delete it; (b)
+gst-1999 has exact-compilation PDF sources after all; (c) itaa-1997 is the one
+act with a stale `staging/source/` set, and the comp-266 volumes that do exist
+live under `staging/data/itaa-1997/raw/comp266/`.
+
+**Correction to the reviewers.** Opus blocker 1 and codex blockers 1-2 state that
+no comp-266 ITAA source exists. That is **false** — it is a path artefact of both
+reviews checking only `staging/source/itaa-1997/`. Verified tonight:
+`staging/data/itaa-1997/raw/comp266/vol01.pdf` … `vol12.pdf` each report
+`Compilation No. 266` in-document, and the sibling `vol01-12.txt` are comp 266.
+`scripts/apply_itaa_table_fixes.py:59-118` already enforces the correct rule
+(resolve a volume whose own footer compilation equals the corpus, else
+`SystemExit`) — confirmed by reading the code, and the phase-0 calibration used
+it. Codex blocker 2 ("ITAA must not run first") is therefore weakened on its
+stated ground; its calibration advice was already adopted regardless (Phase 0
+calibrated on sis-1993, where corpus 126 = source 126: `6.md` ACCEPTED with
+1748 PDF tokens == 1748 markdown tokens and 3 rows restored/0 lost, `82.md`
+REJECTED on formula glyphs, `381.md` ABORTED as an endnote/segmentation defect).
+
+### Review blocker disposition after commit `948647004`
+
+| blocker | raised by | status |
+|---|---|---|
+| ≥98% coverage gate permits silent loss | opus B4, codex B3, gemini | **FIXED** — G1 = 100% bidirectional token-multiset equality, no threshold, never relaxed |
+| nothing proves non-table text survives | opus B5, codex B4/B5, gemini | **FIXED** — G2 = every non-`\|` line byte-identical (frontmatter included) |
+| row count / header agreement ungated | opus B6, codex B5 | **FIXED** — G3 = row count not reduced + header and identifier agreement |
+| asterisked-terms note swallowed into a cell | opus B4, gemini (e) | **FIXED** — G4 = note emitted below the table, never inside a cell |
+| formula-glyph tables | gemini (e), opus B4 | **GATED, still human** — G5 glyph ban; formula tables remain manual reconstruction (the gate correctly rejected `sis-1993/82.md`) |
+| extractor defects R3/R4/R5/R6/R10 | plan, all confirmed by codex | **FIXED** — geometry rewrite: column-gutter header detection (no literal `Item`), geometric block extent +3pt row tolerance (SIS row 59), `FOOTER_Y_MIN` deleted, cross-page lead-cell rejoin, in-process extraction |
+| C11 counts are a floor, not a measurement | opus B6, codex B5 | **OPEN** — detector unchanged: classes are mutually exclusive per line and `DANGLE_CELL_END` only matches a connector before the *final* `\|`, so 504 truncated is a lower bound |
+| truncation triage buckets are heuristics | codex B6 | **OPEN** — `cdn-0193-scope.json` buckets still come from a last-matching 4-word suffix over concatenated volumes and a next-3-nonempty-lines page-split guess; relabel before using them to choose repair methods |
+| clean worktree + rollback manifest | codex R6 | **OPEN** — repo carries untracked WIP; Phase 1 must not run in this worktree |
+| outputs staged outside the live corpus + per-file diff reports | codex R4 | **PARTIAL** — the gate exists; the offline-staging convention does not |
+
+### Live state at 2026-09-13 00:xx AEST
+
+- C11 rescan unchanged: **152 glyph / 115 midword / 504 truncated = 771** — no
+  regression from `b397eb655` / `ace38fb4c`.
+- `python3.12 scripts/table_rebuild_gate.py --selfcheck` → **8/8 PASS**
+  (baseline accepted; dropped row, dropped cell words, edited prose, in-cell
+  note, formula glyph, truncated cell, midword split all rejected).
+- Zero corpus files modified by this run.
+
+**Gate to start Phase 1:** Harry's sign-off, worktree clean with a recorded
+rollback commit, and the triage buckets relabelled as heuristics.
