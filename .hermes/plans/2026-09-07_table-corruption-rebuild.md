@@ -180,6 +180,49 @@ act-gated; stop and review after every act).
 - **Renderer-side**: verify at least one table per act in a real browser
   (markdown table renders with correct columns), not just file-level checks.
 
+## Scope measured 2026-09-12 (nightly bug-squash run) — CDN-0193
+
+The randomised corpus audit (seed 39878977) opened **CDN-0193 = this plan's
+`C11_table_truncated` signature**. Live C11 rescan on 2026-09-12:
+**152 glyph / 115 midword / 504 truncated = 771 findings**, i.e. the truncated
+class is the largest single remaining data-loss class in the corpus.
+
+`scripts/scan_truncation_scope.py` (new, committed with this addendum) probes
+each truncated finding's offending cell tail in the act's repo raw text and
+splits it by *where the lost text can be recovered from*:
+
+| act       | truncated findings | tail continues in repo raw | split at PDF page boundary | tail not located | repo raw comp | corpus comp | staging source present |
+|-----------|--------------------|----------------------------|----------------------------|------------------|---------------|-------------|------------------------|
+| itaa-1997 | 340                | 238                        | 71                         | 31               | **263 (STALE)** | 266       | comp266 vol01-12 PDFs ✓ |
+| taa-1953  | 68                 | 39                         | 19                         | 10               | 222 ✓         | 222         | comp225 vol01-04 PDFs  |
+| sis-1993  | 29                 | 14                         | 12                         | 3                | 126 ✓         | 126         | part1-2 PDFs ✓         |
+| itaa-1936 | 25                 | 13                         | 8                          | 4                | 191 ✓         | 191         | comp192 vol01-07 PDFs  |
+| gst-1999  | 21                 | 16                         | 5                          | 0                | 96 ✓          | 96          | (repo raw txt only)    |
+| fbt-1986  | 21                 | 18                         | 2                          | 1                | 96 ✓          | 96          | part1-2 PDFs ✓         |
+| **total** | **504**            | **338**                    | **117**                    | **49**           |               |             |                        |
+
+Read this table as *text availability*, not as a licence to patch from raw:
+
+- "tail continues in repo raw" (338) means the lost cell text exists in the
+  repo's own extraction text — no new download needed for those *acts whose raw
+  matches the corpus compilation*. For itaa-1997 the repo raw is the STALE
+  comp 263 while the corpus is comp 266 (the 238-column above), so itaa-1997
+  must still be rebuilt from the staging comp266 PDFs as this plan requires.
+- "split at PDF page boundary" (117) needs the source PDF / next page join —
+  exactly the extractor defect R4/§Phase0.4 (row continuation across page
+  breaks), plus R5 (row cap). This is the single biggest truncation cause, as
+  this plan predicted.
+- "tail not located" (49) is a probe artefact or in-file scramble (the
+  multi-column band interleave, e.g. `itaa-1936/schedule-2f/266-10`,
+  `itaa-1997/30-15`, `sis-1993/part-1/6`), not a detector false positive: every
+  sampled finding is genuinely cut mid-clause. No detector-tightening fix is
+  available for this class (unlike CDN-0191's accent-fold exemption).
+
+Execution gate status as of 2026-09-12: **not satisfied** — no opus/codex review
+artefacts for this plan exist in the repo, and the repo's own history shows an
+earlier cron attempt at this class was lossy and had to be reverted
+(§Evidence, 2026-09-07). Held for Harry's sign-off; do not execute piecemeal.
+
 ## Out of scope (this pass)
 
 - NZ IT 2007 (0 flags), OECD/treaties/proposed-law (not flagged).

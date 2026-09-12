@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "parser_side_recoverable": 338,
+    "page_split": 117,
+    "probe_not_found": 49
+  },
+  "per_act": {
+    "itaa-1997": {
+      "total": 340,
+      "parser_side_recoverable": 238,
+      "page_split": 71,
+      "probe_not_found": 31
+    },
+    "gst-1999": {
+      "total": 21,
+      "parser_side_recoverable": 16,
+      "page_split": 5,
+      "probe_not_found": 0
+    },
+    "fbt-1986": {
+      "total": 21,
+      "parser_side_recoverable": 18,
+      "page_split": 2,
+      "probe_not_found": 1
+    },
+    "taa-1953": {
+      "total": 68,
+      "parser_side_recoverable": 39,
+      "page_split": 19,
+      "probe_not_found": 10
+    },
+    "itaa-1936": {
+      "total": 25,
+      "parser_side_recoverable": 13,
+      "page_split": 8,
+      "probe_not_found": 4
+    },
+    "sis-1993": {
+      "total": 29,
+      "parser_side_recoverable": 14,
+      "page_split": 12,
+      "probe_not_found": 3
+    }
+  }
+}
