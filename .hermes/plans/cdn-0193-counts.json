@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-09-15T00:02:50+10:00",
+  "ticket": "CDN-0193",
+  "purpose": "measure the published C11 floor: line-level incidence vs the detector's mutually-exclusive, first-match-wins attribution",
+  "detector": "scripts/scan_corpus_error_classes.py (imported, helpers used verbatim)",
+  "files_scanned": 19244,
+  "pipe_table_lines": 7531,
+  "published_counts": {
+    "C11_table_glyph": 152,
+    "C11_table_midword": 115,
+    "C11_table_truncated": 504
+  },
+  "line_incidence": {
+    "has_glyph": 152,
+    "has_midword": 159,
+    "midword_boundaries": 205,
+    "has_trunc_final": 515,
+    "has_trunc_core_anycell": 1216,
+    "has_trunc_ext_anycell": 1413,
+    "has_midword_multi": 39,
+    "trunc_ext_only": 898
+  },
+  "combo_matrix": {
+    "glyph/-/-": 129,
+    "glyph/-/mid": 12,
+    "-/-/mid": 115,
+    "-/trunc/mid": 31,
+    "-/trunc/-": 473,
+    "glyph/trunc/mid": 1,
+    "-/-/-": 6760,
+    "glyph/trunc/-": 10
+  },
+  "undercount": {
+    "truncated_hidden_by_glyph_shadowing": 11,
+    "midword_hidden_by_glyph_shadowing": 12,
+    "midword_hidden_by_trunc_shadowing": 31,
+    "truncated_true_minus_published": 11,
+    "midword_true_minus_published": 44
+  },
+  "wider_shape_probe": {
+    "connector_ends_any_cell_core": 1216,
+    "connector_ends_any_cell_extended": 1413,
+    "not_caught_by_final_pipe_regex": 898
+  },
+  "per_act": {
+    "aml-ctf-2006": {},
+    "aml-ctf-rules-2007": {},
+    "corporations-act-2001": {},
+    "fbt-1986": {
+      "has_glyph": 45,
+      "has_midword": 20,
+      "has_trunc_final": 23,
+      "has_trunc_core_anycell": 65,
+      "has_trunc_ext_anycell": 82
+    },
+    "gst-1999": {
+      "has_trunc_final": 23,
+      "has_trunc_core_anycell": 72,
+      "has_trunc_ext_anycell": 81,
+      "has_midword": 16,
+      "has_glyph": 29
+    },
+    "itaa-1936": {
+      "has_glyph": 18,
+      "has_trunc_final": 28,
+      "has_trunc_core_anycell": 47,
+      "has_trunc_ext_anycell": 55,
+      "has_midword": 43
+    },
+    "itaa-1997": {
+      "has_trunc_core_anycell": 777,
+      "has_trunc_ext_anycell": 915,
+      "has_trunc_final": 343,
+      "has_midword": 53,
+      "has_glyph": 41
+    },
+    "master-gst-guide": {},
+    "master-tax-examples": {},
+    "master-tax-guide": {},
+    "nz-it-2007": {},
+    "oecd-mtc-2017": {},
+    "sis-1993": {
+      "has_trunc_final": 30,
+      "has_trunc_core_anycell": 106,
+      "has_trunc_ext_anycell": 119,
+      "has_glyph": 3
+    },
+    "spec": {
+      "has_trunc_ext_anycell": 2
+    },
+    "taa-1953": {
+      "has_trunc_core_anycell": 149,
+      "has_trunc_ext_anycell": 159,
+      "has_glyph": 16,
+      "has_midword": 27,
+      "has_trunc_final": 68
+    }
+  },
+  "examples": {
+    "trunc_ext_only": [
+      "fbt-1986/sections/part-iii/division-2/9.md: | on which | the car fringe benefits | ÷   Amount |",
+      "fbt-1986/sections/part-iii/division-2/9.md: | ç |  | (if any) |",
+      "fbt-1986/sections/part-iiia/division-unknown/65J.md: | 6 | an employer association or an | None. |",
+      "fbt-1986/sections/part-vii/division-2/109.md: | Item | For this | GIC period is this period | GIC period is this period |",
+      "fbt-1986/sections/part-xib/division-unknown/135Q.md: | ê                   be | nefits amount ú 1 – Ra | te of tax |",
+      "fbt-1986/sections/part-xib/division-unknown/135Q.md: | respect of the employe | e's employment by the | employer. |"
+    ]
+  },
+  "interpretation": "line incidence is a measurement of the same detector over the same corpus; it is NOT a new finding class and does not change any ticket's remediation. Published counts are per-class-first-match, so they undercount every class except the first-checked one (glyph)."
+}

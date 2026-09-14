@@ -287,9 +287,9 @@ REJECTED on formula glyphs, `381.md` ABORTED as an endnote/segmentation defect).
 | asterisked-terms note swallowed into a cell | opus B4, gemini (e) | **FIXED** — G4 = note emitted below the table, never inside a cell |
 | formula-glyph tables | gemini (e), opus B4 | **GATED, still human** — G5 glyph ban; formula tables remain manual reconstruction (the gate correctly rejected `sis-1993/82.md`) |
 | extractor defects R3/R4/R5/R6/R10 | plan, all confirmed by codex | **FIXED** — geometry rewrite: column-gutter header detection (no literal `Item`), geometric block extent +3pt row tolerance (SIS row 59), `FOOTER_Y_MIN` deleted, cross-page lead-cell rejoin, in-process extraction |
-| C11 counts are a floor, not a measurement | opus B6, codex B5 | **OPEN** — detector unchanged: classes are mutually exclusive per line and `DANGLE_CELL_END` only matches a connector before the *final* `\|`, so 504 truncated is a lower bound |
-| truncation triage buckets are heuristics | codex B6 | **OPEN** — `cdn-0193-scope.json` buckets still come from a last-matching 4-word suffix over concatenated volumes and a next-3-nonempty-lines page-split guess; relabel before using them to choose repair methods |
-| clean worktree + rollback manifest | codex R6 | **OPEN** — repo carries untracked WIP; Phase 1 must not run in this worktree |
+| C11 counts are a floor, not a measurement | opus B6, codex B5 | **MEASURED 2026-09-15** — see "C11 floor measured" below: published 152 glyph / 115 midword / 504 truncated reproduce exactly; line incidence is 152 / 159 / 515, i.e. the truncated and midword counts are floors by **+11** and **+44 lines (+46 split boundaries)** respectively. Cause is the detector's first-match-wins per-line rule, quantified rather than assumed. Numbers stay a floor for a second, unquantified reason: connectors ending a *non-final* cell, and connectors outside the 25-word whitelist, are not tested at all (1,216 core / 1,413 extended shape hits, 898 of them invisible to the published regex — an upper bound on suspicious shape, not a corruption count) |
+| truncation triage buckets are heuristics | codex B6 | **CLOSED 2026-09-15** — v1 (`cdn-0193-scope.json`) reproduced exactly (338/117/49, `scripts/verify_v1_buckets.py`), then superseded by `cdn-0193-scope-v2.json`, whose buckets are page-measured (pdftotext `\f` form-feeds) and anchored by the row's own identifier cell. Every bucket carries `kind: heuristic-measured` + a confidence note; the v1 page-split guess is shown wrong (97 of its 117 "page_split" are same-page). The v1 artifact's numbers must **not** be used to pick repair methods — see the 2026-09-15 addendum |
+| clean worktree + rollback manifest | codex R6 | **ROLLBACK RECORDED 2026-09-15** — no tracked file is modified (`git status` shows 29 untracked, 0 modified); rollback point recorded as `2b10adad9` / tag `cdn-0193-rollback-20260915`. Untracked contents inventoried with a disposition each (2026-09-15 addendum); pure cron scratch now gitignored. Remaining untracked corpus-adjacent derivatives are listed for Harry, not silently ignored |
 | outputs staged outside the live corpus + per-file diff reports | codex R4 | **PARTIAL** — the gate exists; the offline-staging convention does not |
 
 ### Live state at 2026-09-13 00:xx AEST
@@ -301,5 +301,120 @@ REJECTED on formula glyphs, `381.md` ABORTED as an endnote/segmentation defect).
   note, formula glyph, truncated cell, midword split all rejected).
 - Zero corpus files modified by this run.
 
-**Gate to start Phase 1:** Harry's sign-off, worktree clean with a recorded
-rollback commit, and the triage buckets relabelled as heuristics.
+**Gate to start Phase 1:** Harry's sign-off, and the offline-staging convention
+(codex R4, the last PARTIAL). Worktree rollback point is recorded and the
+triage buckets are now measured — both discharged 2026-09-15.
+
+## Addendum 2026-09-15 (nightly bug-squash run) — C11 floor measured, triage buckets corrected
+
+Read-only run: **zero corpus files modified**. Three of the four Phase-0
+blockers the reviewers left open are now discharged with measurements.
+
+### 1. The C11 floor is now measured, not assumed
+
+`scripts/c11_incidence_measurement.py` (new) imports the detector's own helpers
+from `scripts/scan_corpus_error_classes.py` — no reimplementation, so the
+reproduction check is exact — and walks all 19,244 corpus section files
+(7,531 pipe-table lines) computing every C11 property per line *without* the
+detector's short-circuit.
+
+Published counts reproduce exactly: **152 glyph / 115 midword / 504 truncated**.
+
+Line incidence under the identical tests:
+
+| property | published (first-match-wins) | true line incidence | floor gap |
+|---|---|---|---|
+| glyph in row | 152 | 152 | 0 |
+| connector ends final cell (truncated) | 504 | **515** | +11 |
+| ≥1 mid-word split | 115 | **159** | +44 |
+| mid-word split *boundaries* | 115 | **205** | +90 |
+
+Measured cause, from the co-occurrence matrix (glyph/trunc/mid):
+
+| combination | lines |
+|---|---|
+| none | 6,760 |
+| mid only | 115 |
+| trunc only | 473 |
+| trunc + mid | 31 |
+| glyph only | 129 |
+| glyph + mid | 12 |
+| glyph + trunc | 10 |
+| glyph + trunc + mid | 1 |
+
+So the floor decomposes exactly: truncated is undercounted by 11 (10 rows that
+are glyph+trunc, 1 that is all three — glyph is checked first and `continue`s);
+midword by 44 (12 glyph-shadowed, 31 trunc-shadowed, 1 all three), plus a
+granularity loss of 46 splits because the detector `break`s after the first
+flagged boundary in a row.
+
+Second, unquantified floor: `DANGLE_CELL_END` requires the connector before the
+row's **final** pipe and only accepts a 25-word whitelist. A wider shape probe
+finds **1,216** lines with a whitelisted connector ending *any* cell and
+**1,413** with the extended connector set — **898** of which the published regex
+cannot see at all. This is an **upper bound on suspicious shape, not a
+corruption count** (a legitimate cell can end in "of"), so it is recorded as
+triage input only. It does not change any ticket's remediation.
+
+Numbers are in `.hermes/plans/cdn-0193-counts.json` per act and per combination.
+
+### 2. Triage buckets: v1 reproduced, v2's first artifact was invalid, v2 corrected
+
+- **v1 validated.** `scripts/verify_v1_buckets.py` reimplements v1 verbatim and
+  reproduces its published buckets exactly: **338 parser_side_recoverable /
+  117 page_split / 49 probe_not_found MATCH**. Probing itaa-1997 against the
+  stale comp-263 repo raw instead of comp-266 moves exactly **1 finding**
+  (238 → 239), so the stale-source defect is real but numerically minor.
+- **v2's first artifact is invalid.** `cdn-0193-scope-v2.json` (2026-09-14
+  00:08) declared 15/229/204/56, but the script that produced it ships **two
+  undefined names** (`probe_len_used` at line 235, `pr_prev` at line 224) — it
+  raised `NameError` on the first located probe. The artifact cannot be
+  reproduced by any committed code path and was never cited in a ticket, so its
+  numbers are withdrawn. Both defects are fixed tonight (`probe_len_used`
+  initialised and emitted; `pr_prev` defined as the tail predecessor for
+  fallback probes of any length).
+- **v2 corrected and regenerated** — 504 findings, all classified:
+
+  | bucket | count | meaning |
+  |---|---|---|
+  | parser_side_same_page | 334 | lost text continues on the same source page → recoverable from the raw text |
+  | probe_not_found | 93 | clause tail not located in the declared compilation at any probe length |
+  | tail_too_short | 56 | row tail < 3 tokens — no probe available |
+  | page_boundary_split | 21 | measured against real `\f` page markers |
+
+  Per act: itaa-1997 212/74/12, taa-1953 53/8/6, sis-1993 27/1/1,
+  itaa-1936 14/5/1, gst-1999 15/0/1, fbt-1986 13/5/0
+  (parser_side_same_page / probe_not_found / page_boundary_split); 56
+  tail_too_short are not tracked per act. 94 classifications matched a token
+  probe **without** the row-identifier anchor, and 208 of the 448 located
+  findings needed a shorter fallback probe — both recorded in the JSON as
+  confidence limits.
+- **Consequence for Phase 1 planning.** v1's headline "338 recoverable from
+  repo raw" survives as "334 demonstrably same-page", but v1 was wrong in both
+  directions: 97 of its 117 page splits are actually same-page, while 70
+  "recoverable" and 49 "not found" findings swap buckets. Use v2's numbers, not
+  v1's, to choose repair methods.
+- Source pinning re-verified tonight by document-internal footers: itaa-1997
+  vol01-12 = comp **266** ✓ (staging `raw/*.txt`, the comp266 path), taa-1953
+  222 ✓, fbt-1986 96 ✓, itaa-1936 191 ✓, sis-1993 126 ✓, gst-1999 96 ✓ — every
+  source matches the compilation its corpus frontmatter declares.
+
+### 3. Worktree inventory + rollback point
+
+Rollback commit: **`2b10adad9`** (master, 2026-09-13), tagged
+`cdn-0193-rollback-20260915`. No tracked file is modified. Untracked contents,
+with disposition:
+
+| path(s) | disposition |
+|---|---|
+| `scripts/_cron_probe*.py` (12), `scripts/_probe_*.py` (5), `scripts/_tmp_ingest_oecd.py` | cron scratch → gitignored, files preserved |
+| `scan_output.txt`, `test_script.py` | cron scratch → gitignored, files preserved |
+| `data/definitions_all.json.bak-2026-08-22` | stale backup → gitignored (`*.bak-*`) |
+| `data/table_sections_inventory.json`, `data/table_sections_list.md` | derived table inventory (2026-09-05) — **kept, awaiting Harry**: commit as evidence or delete |
+| `.hermes/plans/opus-audit-prompt-20260825.txt`, `codex-review-prompt-20260826.txt` | historical review prompts — forwarded evidence, kept |
+| `scripts/scan_truncation_scope_v2.py`, `scripts/verify_v1_buckets.py`, `scripts/c11_incidence_measurement.py`, `.hermes/plans/cdn-0193-scope-v2.json`, `.hermes/plans/cdn-0193-counts.json` | new tooling + measured artifacts → committed tonight |
+
+Live state 2026-09-15: C11 rescan **152 / 115 / 504 = 771 — unchanged** (no
+regression); source footers verified; `scripts/table_rebuild_gate.py
+--selfcheck` **re-run tonight → 8/8 PASS** (script untouched since `948647004`).
+
