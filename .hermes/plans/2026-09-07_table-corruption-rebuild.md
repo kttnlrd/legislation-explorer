@@ -290,7 +290,7 @@ REJECTED on formula glyphs, `381.md` ABORTED as an endnote/segmentation defect).
 | C11 counts are a floor, not a measurement | opus B6, codex B5 | **MEASURED 2026-09-15** — see "C11 floor measured" below: published 152 glyph / 115 midword / 504 truncated reproduce exactly; line incidence is 152 / 159 / 515, i.e. the truncated and midword counts are floors by **+11** and **+44 lines (+46 split boundaries)** respectively. Cause is the detector's first-match-wins per-line rule, quantified rather than assumed. Numbers stay a floor for a second, unquantified reason: connectors ending a *non-final* cell, and connectors outside the 25-word whitelist, are not tested at all (1,216 core / 1,413 extended shape hits, 898 of them invisible to the published regex — an upper bound on suspicious shape, not a corruption count) |
 | truncation triage buckets are heuristics | codex B6 | **CLOSED 2026-09-15** — v1 (`cdn-0193-scope.json`) reproduced exactly (338/117/49, `scripts/verify_v1_buckets.py`), then superseded by `cdn-0193-scope-v2.json`, whose buckets are page-measured (pdftotext `\f` form-feeds) and anchored by the row's own identifier cell. Every bucket carries `kind: heuristic-measured` + a confidence note; the v1 page-split guess is shown wrong (97 of its 117 "page_split" are same-page). The v1 artifact's numbers must **not** be used to pick repair methods — see the 2026-09-15 addendum |
 | clean worktree + rollback manifest | codex R6 | **ROLLBACK RECORDED 2026-09-15** — no tracked file is modified (`git status` shows 29 untracked, 0 modified); rollback point recorded as `2b10adad9` / tag `cdn-0193-rollback-20260915`. Untracked contents inventoried with a disposition each (2026-09-15 addendum); pure cron scratch now gitignored. Remaining untracked corpus-adjacent derivatives are listed for Harry, not silently ignored |
-| outputs staged outside the live corpus + per-file diff reports | codex R4 | **PARTIAL** — the gate exists; the offline-staging convention does not |
+| outputs staged outside the live corpus + per-file diff reports | codex R4 | **FIXED 2026-09-16** — `scripts/table_rebuild_staging.py` implements offline-staging v1: candidates staged *outside the worktree* with source/output/diff + hash-pinned report and the gate verdict; flagged-risk files need a review pinned to the output hash (re-staging drops it); the apply driver refuses unstaged sections **and** refuses bytes that differ from the reviewed output |
 
 ### Live state at 2026-09-13 00:xx AEST
 
@@ -301,9 +301,10 @@ REJECTED on formula glyphs, `381.md` ABORTED as an endnote/segmentation defect).
   note, formula glyph, truncated cell, midword split all rejected).
 - Zero corpus files modified by this run.
 
-**Gate to start Phase 1:** Harry's sign-off, and the offline-staging convention
-(codex R4, the last PARTIAL). Worktree rollback point is recorded and the
-triage buckets are now measured — both discharged 2026-09-15.
+**Gate to start Phase 1:** Harry's sign-off. Every other Phase-0 blocker is
+discharged — worktree rollback point recorded and triage buckets measured
+(2026-09-15); the offline-staging convention (codex R4) is implemented and
+enforced (2026-09-16).
 
 ## Addendum 2026-09-15 (nightly bug-squash run) — C11 floor measured, triage buckets corrected
 

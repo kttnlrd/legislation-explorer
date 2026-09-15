@@ -4,6 +4,10 @@ replace the mangled table regions in the section markdown files.
 
 Usage:
   python3 scripts/apply_itaa_table_fixes.py [--dry-run] [--only SECT,SECT]
+
+Writing the live corpus requires the section to be staged under the
+offline-staging convention (codex R4) — see scripts/table_rebuild_staging.py.
+`--allow-unstaged` bypasses that and is forbidden during Phases 1-3.
 """
 
 import argparse
@@ -17,6 +21,9 @@ from pathlib import Path
 REPO = Path("/home/harrison/legislation-explorer")
 DATA = REPO / "data" / "itaa-1997" / "sections"
 PDFDIR = Path("/home/harrison/legislation-explorer-staging/source/itaa-1997")
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import table_rebuild_staging as STAGING  # noqa: E402  (codex R4 gate)
 
 # PyMuPDF lives in python3.12 (/usr/bin/python3); python3 (3.11) lacks fitz.
 # The extractor subprocess must use an interpreter that can import fitz.
@@ -349,7 +356,8 @@ def find_table_region_end(txt: str, start: int) -> int:
     return end
 
 
-def apply_fix(section: str, dry_run: bool = False) -> bool:
+def apply_fix(section: str, dry_run: bool = False, allow_unstaged: bool = False,
+              emit_candidate: Path | None = None) -> bool:
     p = find_section_file(section)
     if p is None:
         print(f"{section}: NO FILE")
@@ -395,6 +403,35 @@ def apply_fix(section: str, dry_run: bool = False) -> bool:
             print(f"  !! {prob}")
         return False
 
+    # Produce the candidate outside the worktree for the gate/staging step.
+    # Nothing is applied on this path (step 1 of the codex-R4 flow).
+    if emit_candidate is not None:
+        cand = Path(emit_candidate).expanduser().resolve()
+        if cand == REPO or REPO in cand.parents:
+            print(f"{section}: REFUSED — candidate {cand} is inside the worktree (codex R4)")
+            return False
+        cand.parent.mkdir(parents=True, exist_ok=True)
+        cand.write_text(new_txt)
+        print(f"{section}: candidate written to {cand} — nothing applied")
+        return True
+
+    # Codex R4 — offline-staging convention (2026-09-16).  A corpus write is
+    # only allowed for a section staged OUTSIDE the worktree, gate-ACCEPTED, and
+    # (where the staging report flags risk) explicitly reviewed against the
+    # exact output hash.  Nothing below may run before this check passes.
+    if not allow_unstaged:
+        try:
+            staged = STAGING.assert_ready("itaa-1997", section)
+        except STAGING.StagingError as exc:
+            print(f"{section}: REFUSED TO WRITE — {exc}")
+            return False
+        staged_text = (Path(staged["dir"]) / "output.md").read_text()
+        if staged_text != new_txt:
+            print(f"{section}: REFUSED TO WRITE — this run's output differs from the "
+                  f"reviewed staging/{section}/output.md; re-run --emit-candidate, re-gate "
+                  f"and re-stage before applying")
+            return False
+
     p.write_text(new_txt)
     print(f"{section}: replaced {n_replaced} table(s) in {p.name}")
     return True
@@ -404,6 +441,10 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--only", help="comma-separated sections")
+    ap.add_argument("--allow-unstaged", action="store_true",
+                    help="bypass the codex-R4 staging gate (forbidden in Phases 1-3)")
+    ap.add_argument("--emit-candidate", metavar="DIR",
+                    help="write each section's proposed file to DIR/<section>.md and apply nothing")
     args = ap.parse_args()
 
     sections = [s for s in SECTIONS.keys() if s not in SKIP_AUTO]
@@ -412,7 +453,9 @@ def main() -> int:
 
     ok = 0
     for sec in sections:
-        if apply_fix(sec, dry_run=args.dry_run):
+        cand = Path(args.emit_candidate) / f"{sec}.md" if args.emit_candidate else None
+        if apply_fix(sec, dry_run=args.dry_run, allow_unstaged=args.allow_unstaged,
+                     emit_candidate=cand):
             ok += 1
     print(f"\n{ok}/{len(sections)} sections handled")
     return 0
