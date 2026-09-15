@@ -52,9 +52,12 @@ SOURCES: dict[str, dict] = {
                                       STAGING / "source/fbt-1986/part2.pdf"]},
     "taa-1953": {"comp": 222, "pdfs": sorted((STAGING / "source/taa-1953").glob("vol*.pdf"))},
     "itaa-1936": {"comp": 191, "pdfs": sorted((STAGING / "source/itaa-1936").glob("C2026C00165VOL*.pdf"))},
-    # gst-1999 has no PDFs at any compilation — repo raw text only, out of
-    # scope for this PDF-driven path.
-    "gst-1999": {"comp": 96, "pdfs": []},
+    # gst-1999: the plan (and codex/opus) said "no PDFs" — WRONG.  Two
+    # exact-compilation volumes exist one level up from the act dir
+    # (verified footer: "Compilation No. 96", pages 430 + 306), so the
+    # PDF path IS available for this act.
+    "gst-1999": {"comp": 96, "pdfs": [STAGING / "source/gst-1999-vol1.pdf",
+                                      STAGING / "source/gst-1999-vol2.pdf"]},
 }
 
 COMP_RE = re.compile(r"Compilation No\.\s*(\d+)")
