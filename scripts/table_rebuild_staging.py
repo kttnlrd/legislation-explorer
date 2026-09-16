@@ -18,6 +18,13 @@ what codex R4 (and the plan's Phase-0 disposition table) asked for:
     formula glyphs, changed row count, merged cells, ambiguous page mapping)
     is BLOCKED until an explicit review record is written against that exact
     output hash — re-staging invalidates the approval;
+  * a WHOLE-SECTION re-ingest is certified against the SOURCE PDF, not against
+    the corpus file it replaces, so for a reingest report the corpus-diff
+    heuristics below (row counts, blockquote joins, stray glyphs) are NOT
+    risk signals — a replaced body is the point of a re-ingest, and R1/R2/R3
+    already prove nothing was lost, nothing invented, and no glyph sits in a
+    pipe.  The one thing the gate cannot prove is what a preserved region
+    MEANT, so needs_review -> the 'preserved_regions' risk -> BLOCKED;
   * the apply driver refuses to write a corpus file unless the section is
     READY here (scripts/apply_itaa_table_fixes.py).
 
@@ -31,6 +38,9 @@ Usage
       --section 115-30 --source <corpus .md> --output <candidate .md> \\
       [--gate-report gate.json] [--gate-kind table|reingest] \\
       [--flag ambiguous_page_mapping]
+  python3.12 scripts/table_rebuild_staging.py stage-run --act itaa-1997 \\
+      --gate-json BATCH.json|DIR [--corpus-root data/itaa-1997] \\
+      [--summary summary.json]        # whole-run, one candidate per section
   python3.12 scripts/table_rebuild_staging.py verify [--root DIR]
   python3.12 scripts/table_rebuild_staging.py list   [--root DIR]
   python3.12 scripts/table_rebuild_staging.py review --act A --section S --by WHO [--note TEXT]
@@ -140,6 +150,13 @@ def _is_formula_glyph(c: str) -> bool:
     return ord(c) > 127 and (unicodedata.category(c) in {"Sm", "So", "Sk"} or c in "´`ˆ˜¨")
 
 
+def _check_flags(extra) -> list[str]:
+    for f in extra:
+        if f not in RISK_FLAGS:
+            raise StagingError(f"unknown --flag {f!r}; known: {', '.join(sorted(RISK_FLAGS))}")
+    return sorted(set(extra))
+
+
 def _risks(src_text: str, out_text: str, extra=()) -> tuple[list[str], dict]:
     risks: set[str] = set()
     detail: dict = {}
@@ -157,11 +174,19 @@ def _risks(src_text: str, out_text: str, extra=()) -> tuple[list[str], dict]:
     if glyphs:
         risks.add("formula_glyphs")
         detail["formula_glyphs"] = glyphs
-    for f in extra:
-        if f not in RISK_FLAGS:
-            raise StagingError(f"unknown --flag {f!r}; known: {', '.join(sorted(RISK_FLAGS))}")
-        risks.add(f)
+    risks.update(_check_flags(extra))
     return sorted(risks), detail
+
+
+def read_gate(rep: dict, where: str) -> str:
+    """The gate family that wrote this report, from its gate names."""
+    names = list((rep.get("gates") or {}).keys())
+    kinds = {GATE_KINDS.get(n[:1]) for n in names} - {None}
+    if len(kinds) != 1:
+        raise StagingError(
+            f"{where}: cannot tell which gate wrote this report from its gate "
+            f"names {names} — expected G* (table rebuild) or R* (re-ingest)")
+    return kinds.pop()
 
 
 # ── stage ───────────────────────────────────────────────────────────────────
@@ -174,10 +199,11 @@ def stage(act: str, section: str, source: str | Path, output: str | Path,
     out = Path(output).expanduser().resolve()
     if out == REPO or REPO in out.parents:
         raise StagingError(f"candidate {out} is inside the worktree — stage it outside")
-    src = Path(source).expanduser()
-    if not src.is_file():
-        raise StagingError(f"source not found: {src}")
-    src = src.resolve()
+    src = Path(source).expanduser() if source is not None else None
+    if src is not None:
+        if not src.is_file():
+            raise StagingError(f"source not found: {src}")
+        src = src.resolve()
     if not out.is_file():
         raise StagingError(f"candidate not found: {out}")
 
@@ -186,7 +212,7 @@ def stage(act: str, section: str, source: str | Path, output: str | Path,
         raise StagingError(f"{act}/{section} already staged at {d} — pass --force to restage "
                            f"(re-staging discards any review)")
 
-    src_text = src.read_text(errors="replace")
+    src_text = src.read_text(errors="replace") if src is not None else ""
     out_text = out.read_text(errors="replace")
     diff = "".join(difflib.unified_diff(
         src_text.splitlines(keepends=True), out_text.splitlines(keepends=True),
@@ -199,13 +225,7 @@ def stage(act: str, section: str, source: str | Path, output: str | Path,
         if not gp.is_file():
             raise StagingError(f"gate report not found: {gp}")
         rep = json.loads(gp.read_text())
-        names = list((rep.get("gates") or {}).keys())
-        kinds = {GATE_KINDS.get(n[:1]) for n in names} - {None}
-        if len(kinds) != 1:
-            raise StagingError(
-                f"{gp}: cannot tell which gate wrote this report from its gate "
-                f"names {names} — expected G* (table rebuild) or R* (re-ingest)")
-        kind = kinds.pop()
+        kind = read_gate(rep, str(gp))
         if gate_kind and gate_kind != kind:
             raise StagingError(f"{gp} is a {kind} gate report, but --gate-kind "
                                f"{gate_kind} was asserted")
@@ -217,11 +237,19 @@ def stage(act: str, section: str, source: str | Path, output: str | Path,
                 "preserved_regions" not in flags:
             flags.append("preserved_regions")
         gate = {"verdict": rep.get("verdict"), "kind": kind,
-                "path": str(gp.resolve()),
+                "path": str(gp.resolve()), "sha256": _sha(gp),
+                "needs_review": rep.get("needs_review"),
                 "gates_failed": [k for k, v in (rep.get("gates") or {}).items()
                                  if not v.get("pass")]}
 
-    risks, detail = _risks(src_text, out_text, extra=flags)
+    if gate["kind"] == "reingest":
+        # The certificate compared the candidate against the SOURCE PDF, so the
+        # corpus file is not the reference and differing from it is the point.
+        # Only what the gate itself could not prove (a preserved region) and
+        # what the operator explicitly asserted are risks here.
+        risks, detail = _check_flags(flags), {}
+    else:
+        risks, detail = _risks(src_text, out_text, extra=flags)
 
     d.mkdir(parents=True, exist_ok=True)
     (d / "source.md").write_text(src_text)
@@ -232,8 +260,8 @@ def stage(act: str, section: str, source: str | Path, output: str | Path,
         "act": act,
         "section": section,
         "staged_at": _now(),
-        "source_path": str(src),
-        "source_sha256": _sha(src),
+        "source_path": str(src) if src else None,
+        "source_sha256": _sha(src) if src else None,
         "artifacts": {name: {"sha256": _sha(d / name), "bytes": (d / name).stat().st_size}
                       for name in ARTIFACTS},
         "gate": gate,
@@ -258,6 +286,93 @@ def review(act: str, section: str, by: str, note: str = "",
            "output_sha256": _sha(d / "output.md")}
     (d / "review.json").write_text(json.dumps(rec, indent=2, ensure_ascii=False) + "\n")
     return rec
+
+
+# ── whole-run staging (one command for a whole compilation) ─────────────────
+def load_gate_reports(path: str | Path) -> list[tuple[dict, Path]]:
+    """Every gate report under a file or directory, as (report, file) pairs.
+
+    ingest_reingest_gate writes one dict for a single section and a list for a
+    batch; both forms, and a directory of either, are accepted.
+    """
+    p = Path(path).expanduser()
+    files = sorted(p.rglob("*.json")) if p.is_dir() else [p]
+    if not files:
+        raise StagingError(f"no gate reports under {p}")
+    out: list[tuple[dict, Path]] = []
+    for f in files:
+        data = json.loads(f.read_text())
+        for rep in (data if isinstance(data, list) else [data]):
+            out.append((rep, f))
+    return out
+
+
+def corpus_index(corpus_root: Path) -> dict[str, Path]:
+    """section id -> live corpus file, so a run need not be told 4,649 paths."""
+    idx: dict[str, Path] = {}
+    for md in corpus_root.rglob("*.md"):
+        idx.setdefault(md.stem, md)
+    return idx
+
+
+def stage_run(act: str, gate_json: str | Path, corpus_root: str | Path | None = None,
+              root: str | Path | None = None, summary: str | Path | None = None) -> dict:
+    """Stage a whole re-ingest run: one candidate per gated section.
+
+    Each section's certificate is its own ingest_reingest_gate report, copied
+    into the candidate directory (so the candidate is self-contained) and
+    hash-pinned by the staging report exactly as the per-table path does.
+    """
+    act = _safe(act, "act")
+    root = stage_root(root)
+    croot = Path(corpus_root).expanduser() if corpus_root else CORPUS / act
+    index = corpus_index(croot) if croot.is_dir() else {}
+    rows: list[dict] = []
+    for rep, f in load_gate_reports(gate_json):
+        section = rep.get("section")
+        if not section:
+            raise StagingError(f"{f}: gate report has no 'section'")
+        kind = read_gate(rep, f"{f} [{section}]")
+        if kind != "reingest":
+            raise StagingError(
+                f"{f} [{section}] is a {kind} gate report — stage-run stages "
+                f"whole-section re-ingests; use 'stage' for a table rebuild")
+        out = Path(rep.get("ingested") or "")
+        if not out.is_file():
+            raise StagingError(f"{f} [{section}]: gated file {out} is gone — "
+                               f"the certificate no longer describes anything")
+        d = root / act / _safe(section, "section")
+        d.mkdir(parents=True, exist_ok=True)
+        gp = d / "gate.json"
+        gp.write_text(json.dumps(rep, indent=2, ensure_ascii=False) + "\n")
+        src = index.get(section)
+        staged = stage(act, section, src, out, gate_report=gp, root=root, force=True)
+        res = _inspect(d)
+        rows.append({"section": section, "status": res["status"],
+                     "gate_verdict": rep.get("verdict"),
+                     "needs_review": rep.get("needs_review"),
+                     "risks": staged["risks"],
+                     "new_section": src is None,
+                     "reasons": res.get("reasons", []),
+                     "dir": str(d)})
+
+    hist = Counter(r["status"] for r in rows)
+    reasons: Counter = Counter()
+    for r in rows:
+        if r["status"] == "BLOCKED":
+            reasons[",".join(r["risks"]) or "unknown"] += 1
+        elif r["status"] == "FAIL":
+            reasons[r["reasons"][0] if r["reasons"] else "unknown"] += 1
+    out = {"convention": CONVENTION, "act": act, "staged_at": _now(),
+           "root": str(root), "corpus_root": str(croot),
+           "gate_json": str(Path(gate_json).expanduser()),
+           "sections": len(rows), "histogram": dict(hist),
+           "reasons": dict(reasons),
+           "new_sections": sum(r["new_section"] for r in rows),
+           "results": sorted(rows, key=lambda r: r["section"])}
+    if summary:
+        Path(summary).expanduser().write_text(json.dumps(out, indent=2, ensure_ascii=False) + "\n")
+    return out
 
 
 # ── verify ──────────────────────────────────────────────────────────────────
@@ -499,6 +614,13 @@ def main(argv=None) -> int:
     st.add_argument("--flag", action="append", default=[])
     st.add_argument("--force", action="store_true")
 
+    sr = sub.add_parser("stage-run", help="stage a whole re-ingest run from its gate reports")
+    sr.add_argument("--act", required=True)
+    sr.add_argument("--gate-json", required=True,
+                    help="an ingest_reingest_gate --json report, or a directory of them")
+    sr.add_argument("--corpus-root", help="live corpus for the diff (default data/<act>)")
+    sr.add_argument("--summary", help="write the machine-readable run summary here")
+
     sub.add_parser("verify")
     sub.add_parser("list")
 
@@ -516,6 +638,18 @@ def main(argv=None) -> int:
             print(f"staged {a.act}/{a.section}  risks={rep['risks'] or 'none'}  "
                   f"gate={rep['gate']['verdict']} ({rep['gate']['kind'] or 'absent'})")
             return 0
+        if a.cmd == "stage-run":
+            res = stage_run(a.act, a.gate_json, corpus_root=a.corpus_root,
+                            root=a.root, summary=a.summary)
+            print(f"staged {res['sections']} section(s) into {res['root']}"
+                  f"  ({res['new_sections']} with no live corpus counterpart)")
+            for st in ("READY", "BLOCKED", "FAIL"):
+                print(f"  {st:7s} {res['histogram'].get(st, 0)}")
+            for why, n in Counter(res["reasons"]).most_common():
+                print(f"     {n:6d}  {why}")
+            if a.summary:
+                print(f"summary: {a.summary}")
+            return 1 if res["histogram"].get("FAIL") else (2 if res["histogram"].get("BLOCKED") else 0)
         if a.cmd == "review":
             rec = review(a.act, a.section, by=a.by, note=a.note, root=a.root)
             print(f"reviewed {a.act}/{a.section} by {rec['approved_by']} @ {rec['output_sha256'][:12]}")

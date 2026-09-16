@@ -736,10 +736,13 @@ def stage_all(report: dict, out_root: Path, corpus: Path, act: str) -> list[str]
     output = the ingested file.  A section with any preserved region is staged
     with an explicit risk flag so the convention BLOCKs it pending review.
     Sections with no live corpus counterpart are skipped (nothing to diff).
-    NOTE: table_rebuild_staging FAILs any candidate without an ACCEPTED
-    table_rebuild_gate report, and the gate needs a PDF table band, so
-    table-less sections land as FAIL by design.  That is the convention's
-    call, not something this script relaxes.
+    NOTE: this is the per-TABLE handoff — it can only produce a
+    table_rebuild_gate report, and that gate needs a PDF table band, so
+    table-less sections land here as FAIL.  For a whole-section re-ingest run
+    (the ~4,100 sections with no table at all), gate with
+    scripts/ingest_reingest_gate.py --json and stage with
+    `table_rebuild_staging.py stage-run --gate-json DIR`, which takes the
+    re-ingest certificate instead.
     """
     import table_rebuild_staging as ST
     gate_dir = out_root / "_gate"
