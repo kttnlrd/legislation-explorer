@@ -76,6 +76,38 @@ class IngestAbort(RuntimeError):
 BODY_Y_MIN = 118.0
 BODY_Y_MAX = 600.0
 
+
+def body_band(page) -> tuple[float, float]:
+    """The body band for THIS page.
+
+    The constants above were measured on the 841.9pt portrait page.  A
+    landscape page is 841.9 x 595.3, so BODY_Y_MAX is off the bottom of it and
+    the whole page — footer included — lands inside the "body" band.  The band
+    therefore stops at the page edge, and on such a page the footer is peeled
+    off by CONTENT (peel_footer), not by a y-coordinate: the rule sits at
+    y=474.7 in vol01 and y=418.1 in vol02 while body text on vol01 runs to
+    y=435.3, so no single landscape cut-off can do the job without dropping
+    real text.  Portrait pages are untouched: min(600, 841.9) == 600.
+    """
+    return BODY_Y_MIN, min(BODY_Y_MAX, page.rect.height)
+
+
+def is_footer(text: str) -> bool:
+    return any(p.search(text) for p in FOOTER_PATS)
+
+
+def peel_footer(body: list[dict]) -> list[dict]:
+    """Move trailing furniture lines off the end of a short page's body.
+
+    Bottom-up and only while each line matches a furniture pattern, so the
+    first line that is not provably furniture stops the peel and stays in the
+    body.  Text is never dropped on a guess.
+    """
+    peeled: list[dict] = []
+    while body and is_footer(line_text(body[-1]).strip()):
+        peeled.insert(0, body.pop())
+    return peeled
+
 HEADER_PATS = [
     re.compile(r"^Section\s+\S+$"),
     re.compile(r"^(Chapter|Part|Division|Subdivision)\s+[\w-]+\b"),
@@ -114,12 +146,15 @@ def classify_lines(page) -> tuple[list[dict], list[dict], list[dict]]:
     'Part 2-40 Rules affecting ...') are then furniture by band, which is what
     they are — no per-line pattern can recognise them.
     """
+    lo_y, hi_y = body_band(page)
     body, head, foot = [], [], []
     for ln in EX.page_lines(page):
         if not line_text(ln).strip():
             continue
-        (body if BODY_Y_MIN <= ln["y"] <= BODY_Y_MAX
-         else head if ln["y"] < BODY_Y_MIN else foot).append(ln)
+        (body if lo_y <= ln["y"] <= hi_y
+         else head if ln["y"] < lo_y else foot).append(ln)
+    if hi_y < BODY_Y_MAX:           # landscape: the band cannot see the footer
+        foot = peel_footer(body) + foot
     suspect = []
     if head and not any(p.search(line_text(l).strip()) for l in head for p in HEADER_PATS):
         suspect += head
@@ -178,11 +213,20 @@ def index_volume(doc) -> dict:
                         spans.append({"y": round(s["bbox"][3], 1), "size": round(s["size"], 1),
                                       "bold": "Bold" in s["font"], "x": s["bbox"][0],
                                       "t": s["text"]})
+        band_lo, band_hi = body_band(page)
         spans.sort(key=lambda s: (s["y"], s["x"]))
         # group spans into visual lines
         vlines: list[dict] = []
         for s in spans:
             if vlines and abs(s["y"] - vlines[-1]["y"]) <= 1.0:
+                # Two spans on one baseline are a bold/roman split, not a word
+                # break — except when welding them would invent a word that is
+                # not in the PDF ("pre-July 83" + "segment" -> "83segment" in
+                # 82-155's title).  A space goes in only for alnum|alnum; every
+                # other boundary (emphasis "*business", hyphen "pre-" + "July",
+                # punctuation) carries its own spacing already.
+                if vlines[-1]["t"][-1:].isalnum() and s["t"][:1].isalnum():
+                    vlines[-1]["t"] += " "
                 vlines[-1]["t"] += s["t"]
                 vlines[-1]["size"] = max(vlines[-1]["size"], s["size"])
                 vlines[-1]["bold"] |= s["bold"]
@@ -192,7 +236,7 @@ def index_volume(doc) -> dict:
         while i < len(vlines):
             v = vlines[i]
             txt = v["t"].strip()
-            if v["y"] < BODY_Y_MIN or v["y"] > BODY_Y_MAX:
+            if v["y"] < band_lo or v["y"] > band_hi:
                 i += 1
                 continue
             m = STRUCT_RE.match(txt)
@@ -261,9 +305,10 @@ def table_regions(page, lo_y: float, hi_y: float) -> list[dict]:
     is a *candidate* table here, never a conclusion.
     """
     out = []
+    band_lo, band_hi = body_band(page)
     for b in EX.detect_blocks(page):
         ys = [l["y"] for l in b["lines"]]
-        if min(ys) < max(lo_y, BODY_Y_MIN) or max(ys) > min(hi_y, BODY_Y_MAX):
+        if min(ys) < max(lo_y, band_lo) or max(ys) > min(hi_y, band_hi):
             continue
         out.append({"lo": min(ys), "hi": max(ys), "block": b})
     return sorted(out, key=lambda r: r["lo"])
@@ -582,7 +627,19 @@ def ingest_section(doc, meta: dict, act_name: str, comp: dict, pdf_name: str) ->
     # I1: every PDF token back out of the markdown
     checked = re.sub(r"\A---\n.*?\n---\n", "", text, flags=re.S)
     checked = re.sub(r'<a id="[^"]*"></a>', " ", checked)
-    checked = checked.replace("|", " ").replace(">", " ").replace("#", " ")
+    # Blank markup-role characters only. '|' is always a cell delimiter, but '>' and
+    # '#' are markers only when line-leading: blanking every '>' erased real
+    # inequalities ("> 0.25% of total core shipping income") from the comparison, so a
+    # present one read as lost and a dropped one was undetectable.
+    def _blank_markup(text: str) -> str:
+        out = []
+        for ln in text.splitlines():
+            ln = re.sub(r"^(?:\s*>)+\s?", " ", ln)
+            ln = re.sub(r"^\s*#+\s?", " ", ln)
+            out.append(ln.replace("|", " "))
+        return "\n".join(out)
+
+    checked = _blank_markup(checked)
     checked = re.sub(r"^```.*$", " ", checked, flags=re.M)
     # Per LINE, exactly like the PDF side.  norm_tokens de-hyphenates across a
     # newline, and a '| --- |' separator whose pipes have just been blanked
