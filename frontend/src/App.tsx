@@ -48,7 +48,7 @@ const DOMAINS: { label: string; ids: string[] }[] = [
   { label: 'Australian Legislation', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'fbt-1986', 'sis-1993', 'corporations-act-2001', 'aml-ctf-2006', 'aml-ctf-rules-2007'] },
   { label: 'Australian Tax Rulings & Cases', ids: ['rulings', 'tax-cases', 'private-rulings'] },
   { label: 'Australian Other Resources', ids: ['master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'regulatory-guides', 'insolvency-keays'] },
-  { label: 'NZ & International Tax', ids: ['nz-it-2007', 'treaties', 'oecd-mtc-2017'] },
+  { label: 'NZ & International Tax', ids: ['nz-it-2007', 'nz-master-tax-guide', 'treaties', 'oecd-mtc-2017'] },
   { label: 'Other', ids: ['spec'] },
 ]
 
