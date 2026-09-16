@@ -9,8 +9,11 @@ what codex R4 (and the plan's Phase-0 disposition table) asked for:
     ../legislation-explorer-staging/table-rebuild/), so a bad candidate cannot
     be served by the API, the site build, or a corpus scan;
   * every candidate carries four artifacts — the original section, the
-    proposed replacement, a unified diff, and a hash-pinned report — plus the
-    fidelity gate's verdict (scripts/table_rebuild_gate.py --json);
+    proposed replacement, a unified diff, and a hash-pinned report — plus a
+    fidelity gate's verdict, either an in-place TABLE rebuild
+    (scripts/table_rebuild_gate.py --json, gates G0-G6) or a whole-section
+    RE-INGEST (scripts/ingest_reingest_gate.py --json, gates R1-R6).  The kind
+    is auto-detected from the report's gate names; --gate-kind asserts it;
   * a candidate carrying anything a machine cannot prove safe (row joins,
     formula glyphs, changed row count, merged cells, ambiguous page mapping)
     is BLOCKED until an explicit review record is written against that exact
@@ -26,7 +29,8 @@ Statuses
 Usage
   python3.12 scripts/table_rebuild_staging.py stage --act itaa-1997 \\
       --section 115-30 --source <corpus .md> --output <candidate .md> \\
-      [--gate-report gate.json] [--flag ambiguous_page_mapping]
+      [--gate-report gate.json] [--gate-kind table|reingest] \\
+      [--flag ambiguous_page_mapping]
   python3.12 scripts/table_rebuild_staging.py verify [--root DIR]
   python3.12 scripts/table_rebuild_staging.py list   [--root DIR]
   python3.12 scripts/table_rebuild_staging.py review --act A --section S --by WHO [--note TEXT]
@@ -63,7 +67,10 @@ RISK_FLAGS = {
     "merged_cells",           # multi-line cell rejoin
     "ambiguous_page_mapping", # section pages not unambiguously located
     "multi_page",             # table spans a page break
+    "preserved_regions",      # re-ingest kept a region verbatim (needs_review)
 }
+
+GATE_KINDS = {"G": "table", "R": "reingest"}   # by the report's gate-name prefix
 
 _NAME_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 
@@ -160,7 +167,7 @@ def _risks(src_text: str, out_text: str, extra=()) -> tuple[list[str], dict]:
 # ── stage ───────────────────────────────────────────────────────────────────
 def stage(act: str, section: str, source: str | Path, output: str | Path,
           gate_report: str | Path | None = None, flags=(), root: str | Path | None = None,
-          force: bool = False) -> dict:
+          force: bool = False, gate_kind: str | None = None) -> dict:
     """Stage a candidate: write source/output/diff/report outside the worktree."""
     act, section = _safe(act, "act"), _safe(section, "section")
     root = stage_root(root)
@@ -185,15 +192,34 @@ def stage(act: str, section: str, source: str | Path, output: str | Path,
         src_text.splitlines(keepends=True), out_text.splitlines(keepends=True),
         fromfile=f"corpus/{act}/{section}", tofile=f"staged/{act}/{section}"))
 
-    gate = {"verdict": None, "path": None, "gates_failed": []}
+    gate = {"verdict": None, "kind": None, "path": None, "gates_failed": []}
+    flags = list(flags)
     if gate_report:
         gp = Path(gate_report).expanduser()
         if not gp.is_file():
             raise StagingError(f"gate report not found: {gp}")
         rep = json.loads(gp.read_text())
-        gate = {"verdict": rep.get("verdict"),
+        names = list((rep.get("gates") or {}).keys())
+        kinds = {GATE_KINDS.get(n[:1]) for n in names} - {None}
+        if len(kinds) != 1:
+            raise StagingError(
+                f"{gp}: cannot tell which gate wrote this report from its gate "
+                f"names {names} — expected G* (table rebuild) or R* (re-ingest)")
+        kind = kinds.pop()
+        if gate_kind and gate_kind != kind:
+            raise StagingError(f"{gp} is a {kind} gate report, but --gate-kind "
+                               f"{gate_kind} was asserted")
+        # A re-ingest that is lossless and invention-free but kept a preserved
+        # region is ACCEPTED-with-needs_review: the text is proven safe, its
+        # STRUCTURE is not.  That is exactly this convention's definition of a
+        # risky file, so it becomes a risk flag and BLOCKs pending review.
+        if kind == "reingest" and rep.get("needs_review") and \
+                "preserved_regions" not in flags:
+            flags.append("preserved_regions")
+        gate = {"verdict": rep.get("verdict"), "kind": kind,
                 "path": str(gp.resolve()),
-                "gates_failed": [k for k, v in (rep.get("gates") or {}).items() if not v.get("pass")]}
+                "gates_failed": [k for k, v in (rep.get("gates") or {}).items()
+                                 if not v.get("pass")]}
 
     risks, detail = _risks(src_text, out_text, extra=flags)
 
@@ -411,6 +437,32 @@ def selfcheck() -> int:
         check("re-stage drops review", not review_path.exists() and
               _inspect(d)["status"] == "BLOCKED")
 
+        # 7b. a RE-INGEST gate report (R* gates) is accepted, auto-detected,
+        #     and its needs_review becomes a risk flag that BLOCKs.
+        gate_ri = tmp / "gate-reingest.json"
+        gate_ri.write_text(json.dumps({"verdict": "ACCEPTED", "needs_review": True,
+                                       "gates": {"R1_pdf_token_recall": {"pass": True}}}))
+        rep = stage("itaa-1997", "6", src, out, gate_report=gate_ri, root=root, force=True)
+        check("reingest kind detected", rep["gate"]["kind"] == "reingest", str(rep["gate"]))
+        check("needs_review -> risk", "preserved_regions" in rep["risks"], str(rep["risks"]))
+        check("needs_review -> BLOCKED", _inspect(d)["status"] == "BLOCKED")
+        review("itaa-1997", "6", by="selfcheck", note="read the region", root=root)
+        check("reviewed reingest READY", _inspect(d)["status"] == "READY")
+        (d / "output.md").write_text(good_out + " tampered")
+        check("reingest tamper -> FAIL", _inspect(d)["status"] == "FAIL")
+        try:
+            stage("itaa-1997", "6", src, out, gate_report=gate_ri, root=root,
+                  force=True, gate_kind="table")
+            check("wrong --gate-kind refused", False)
+        except StagingError as exc:
+            check("wrong --gate-kind refused", "--gate-kind" in str(exc))
+        gate_ri2 = tmp / "gate-reingest-clean.json"
+        gate_ri2.write_text(json.dumps({"verdict": "ACCEPTED", "needs_review": False,
+                                        "gates": {"R1_pdf_token_recall": {"pass": True}}}))
+        stage("itaa-1997", "6", src, out, gate_report=gate_ri2, root=root,
+              force=True, gate_kind="reingest")
+        check("clean reingest READY", _inspect(d)["status"] == "READY", str(_inspect(d)))
+
         # 8. unstaged section is refused
         try:
             assert_ready("itaa-1997", "999-99", root)
@@ -441,6 +493,9 @@ def main(argv=None) -> int:
     st.add_argument("--source", required=True)
     st.add_argument("--output", required=True)
     st.add_argument("--gate-report")
+    st.add_argument("--gate-kind", choices=sorted(set(GATE_KINDS.values())),
+                    help="assert which gate wrote --gate-report (auto-detected "
+                         "from its G*/R* gate names when omitted)")
     st.add_argument("--flag", action="append", default=[])
     st.add_argument("--force", action="store_true")
 
@@ -457,9 +512,9 @@ def main(argv=None) -> int:
     try:
         if a.cmd == "stage":
             rep = stage(a.act, a.section, a.source, a.output, gate_report=a.gate_report,
-                        flags=a.flag, root=a.root, force=a.force)
+                        flags=a.flag, root=a.root, force=a.force, gate_kind=a.gate_kind)
             print(f"staged {a.act}/{a.section}  risks={rep['risks'] or 'none'}  "
-                  f"gate={rep['gate']['verdict']}")
+                  f"gate={rep['gate']['verdict']} ({rep['gate']['kind'] or 'absent'})")
             return 0
         if a.cmd == "review":
             rec = review(a.act, a.section, by=a.by, note=a.note, root=a.root)
