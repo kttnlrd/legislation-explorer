@@ -102,15 +102,27 @@ NOTE_LINE_RE = re.compile(
 IDENT_RE = re.compile(r"^\(?(?:\d+(?:[A-Za-z]{1,2}|\.\d+)*|[ivxlcdm]{1,6}|[A-Za-z])\)?$")
 
 
+Y_JITTER = 0.5   # pt: baselines this close are the same visual line
+
+
 def page_lines(page) -> list[dict]:
-    """Words grouped into baseline lines: [{y, words}] sorted top→bottom."""
-    buckets: dict[float, list[dict]] = {}
+    """Words grouped into baseline lines: [{y, words}] sorted top→bottom.
+
+    Baselines are clustered, not rounded: fonts on one visual line can differ
+    by a fraction of a point (gst-1999 38-355 item 6 has 'tax zone' at 293.1
+    and its own continuation at 292.9).  Exact-key bucketing made those two
+    separate lines and emitted the right-hand fragment FIRST, scrambling the
+    sentence — a reordering no gate can see, because every token is present.
+    Line spacing is ~10pt, so Y_JITTER cannot merge different lines.
+    """
+    out: list[dict] = []
     for w in words_for_page(page):
-        buckets.setdefault(round(w["y1"], 2), []).append(w)
-    out = []
-    for y, ws in sorted(buckets.items()):
-        ws.sort(key=lambda w: w["x0"])
-        out.append({"y": y, "words": ws})
+        if out and w["y1"] - out[-1]["y"] <= Y_JITTER:
+            out[-1]["words"].append(w)
+        else:
+            out.append({"y": w["y1"], "words": [w]})
+    for ln in out:
+        ln["words"].sort(key=lambda w: w["x0"])
     return out
 
 
@@ -138,11 +150,18 @@ def _cluster_xs(xs: list[float], tol: float) -> list[float]:
     return [min(c) for c in out]
 
 
-def line_fits_columns(runs: list[dict], cols: list[float]) -> bool:
+def line_fits_columns(runs: list[dict], cols: list[float], strict: bool = False) -> bool:
     """True if every run starts in a column band and stays inside it.
 
     This is the prose/table discriminator: a prose line's single run starts
     somewhere in column i and runs on past column i+1's x, so it fails.
+
+    The last column has no right-hand neighbour, so the loose test accepts any
+    run indented past it.  With 3+ columns the earlier columns still pin the
+    block down; with 2 columns almost every indented prose line "fits" and a
+    block swallows whole neighbouring sections (fbt-1986 s58Q, gst-1999 s79-95).
+    strict=True therefore demands the run START on a column, not merely after
+    one.  Used only by the 2-run seeding pass.
     """
     for r in runs:
         idx = None
@@ -151,9 +170,14 @@ def line_fits_columns(runs: list[dict], cols: list[float]) -> bool:
                 idx = i
         if idx is None:
             return False
+        if strict and abs(r["x0"] - cols[idx]) > COL_TOL:
+            return False
         if idx + 1 < len(cols) and r["x1"] > cols[idx + 1] + COL_TOL:
             return False
     return True
+
+
+MIN_2COL_LINES = 4   # a 2-run seed only makes a block if this many lines agree
 
 
 def detect_blocks(page) -> list[dict]:
@@ -162,6 +186,12 @@ def detect_blocks(page) -> list[dict]:
     Seed on the line with the most runs (>=3 — prose tops out at 2 runs:
     a marker plus its indented text), take its run starts as the column set,
     then grow up and down while lines respect those columns.
+
+    CDN-0193 Phase 1: a second pass seeds on 2-run lines, so two-column tables
+    (`| Item | This term: |`, gst-1999 s3-5) are detected at all.  A 2-run seed
+    is ambiguous with an indented marker+text prose line, so a block grown from
+    one must be at least MIN_2COL_LINES lines long — (a)/(b)/Note: markers do
+    not sustain two agreeing column starts for that many consecutive lines.
     """
     lines = page_lines(page)
     for ln in lines:
@@ -169,24 +199,15 @@ def detect_blocks(page) -> list[dict]:
     used = [False] * len(lines)
     blocks = []
 
-    while True:
-        seed = None
-        for i, ln in enumerate(lines):
-            if used[i] or len(ln["runs"]) < 3:
-                continue
-            if seed is None or len(ln["runs"]) > len(lines[seed]["runs"]):
-                seed = i
-        if seed is None:
-            break
-
+    def grow(seed, strict=False):
         cols = [r["x0"] for r in lines[seed]["runs"]]
         lo = hi = seed
         # two passes: grow, refine columns from all fitting multi-run lines, regrow
         for _ in range(2):
             lo = hi = seed
-            while lo - 1 >= 0 and not used[lo - 1] and line_fits_columns(lines[lo - 1]["runs"], cols):
+            while lo - 1 >= 0 and not used[lo - 1] and line_fits_columns(lines[lo - 1]["runs"], cols, strict):
                 lo -= 1
-            while hi + 1 < len(lines) and not used[hi + 1] and line_fits_columns(lines[hi + 1]["runs"], cols):
+            while hi + 1 < len(lines) and not used[hi + 1] and line_fits_columns(lines[hi + 1]["runs"], cols, strict):
                 hi += 1
             starts = [r["x0"] for i in range(lo, hi + 1) for r in lines[i]["runs"]
                       if len(lines[i]["runs"]) >= 2]
@@ -203,17 +224,33 @@ def detect_blocks(page) -> list[dict]:
             if len(newcols) < 2 or newcols == cols:
                 break
             cols = newcols
+        return lo, hi, cols
 
-        for i in range(lo, hi + 1):
-            used[i] = True
-        if hi - lo + 1 < 3 or len(cols) < 2:
-            continue
-        blocks.append({
-            "page": page.number,
-            "cols": cols,
-            "lines": lines[lo:hi + 1],
-            "tail": lines[hi + 1] if hi + 1 < len(lines) else None,
-        })
+    for min_runs in (3, 2):
+        while True:
+            seed = None
+            for i, ln in enumerate(lines):
+                if used[i] or len(ln["runs"]) < min_runs:
+                    continue
+                if seed is None or len(ln["runs"]) > len(lines[seed]["runs"]):
+                    seed = i
+            if seed is None:
+                break
+
+            lo, hi, cols = grow(seed, strict=min_runs == 2)
+            for i in range(lo, hi + 1):
+                used[i] = True
+            nlines = hi - lo + 1
+            if nlines < 3 or len(cols) < 2:
+                continue
+            if len(cols) == 2 and nlines < MIN_2COL_LINES:
+                continue
+            blocks.append({
+                "page": page.number,
+                "cols": cols,
+                "lines": lines[lo:hi + 1],
+                "tail": lines[hi + 1] if hi + 1 < len(lines) else None,
+            })
 
     blocks.sort(key=lambda b: b["lines"][0]["y"])
     return blocks
@@ -369,7 +406,7 @@ def collect_tables(doc, section: str, detail: bool = False) -> list[dict]:
     for block in raw:
             pno = block["page"]
             b = block_rows(block, wraps)
-            if not b["rows"] or b["ncols"] < 3:
+            if not b["rows"] or b["ncols"] < 2:
                 continue
             b["page"] = pno + 1
             b["block_headers"] = [b["header"]]

@@ -195,7 +195,10 @@ def _is_natural_word_accent(line: str, m: re.Match) -> bool:
         return False
     return _ASCII_FOLD(word).lower() in _WORDS
 
-DANGLE_CELL_END = re.compile(r"\s(the|and|a|an|or|of|to|for|in|on|was|is|you|if|that|which|with|by|as|at|when)\s*\|\s*$", re.I)
+# CDN-0193 Phase 1: the connector must TRAIL other text in the same cell.
+# A cell whose entire content is one of these words is a complete value
+# (gst-1999 s3-5 item 14 is the defined term "you"), not a truncation.
+DANGLE_CELL_END = re.compile(r"[^|\s]\s+(the|and|a|an|or|of|to|for|in|on|was|is|you|if|that|which|with|by|as|at|when)\s*\|\s*$", re.I)
 
 # /usr/share/dict/words (lowercase, ~104k) for the mid-word split test:
 # flag cell boundary only if NEITHER side is a word but their concatenation is

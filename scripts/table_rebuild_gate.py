@@ -123,17 +123,92 @@ def g2_prose_preservation(orig_lines: list[str], cand_lines: list[str]) -> dict:
             f"first difference at non-table line {diff[0]}: {diff[1]!r} -> {diff[2]!r}"}
 
 
+# Rows the corrupt files captured inside the table that are PDF *page
+# furniture*, not table content: the rule above the asterisk footnote, and the
+# footnote itself (split mid-word by the column boundaries, so it cannot be
+# reassembled from the cells).  A rebuild drops them deliberately.  Notes that
+# the extractor found INSIDE the table band are a different thing — those are
+# re-emitted below the table and G1/G4 account for them.
+FURNITURE_ROW_RE = re.compile(r"^[\s_\-—–]*$")
+
+
+def _is_furniture_row(line: str) -> bool:
+    text = line.strip().strip("|").replace("|", " ").strip()
+    if FURNITURE_ROW_RE.match(text):
+        return True
+    # the footnote is split mid-word by the cell boundaries
+    # ('*To find definitions of aste | risked terms,'), so match on the text
+    # with all whitespace removed rather than on the words.
+    return re.sub(r"\s+", "", text).lower().startswith("*tofinddefinitionsof")
+
+
+# Australian drafting inserts items between 4 and 4A as 4AA, so the real order
+# is 4, 4AAA, 4AA, 4AB, 4A, 4B — a suffix that is a PREFIX of another sorts
+# after it.  Plain string order gets this backwards and flagged legitimate
+# tables (gst-1999 132-5, 19-5) as scrambled.
+_LAST = chr(0x10FFFF)
+
+
+def _ident_sort_key(m: re.Match) -> tuple:
+    num, suffix = int(m.group(1)), m.group(2)
+    return (num, 0, ()) if not suffix else (num, 1, tuple(suffix) + (_LAST,))
+
+
+def _row_tokens(rows: list[str]) -> set[str]:
+    out = set()
+    for l in rows:
+        out |= {t.lower() for t in norm_tokens(l.strip().strip("|").replace("|", " "))}
+    return out
+
+
 def g3_structural(orig_lines, cand_lines, table: dict) -> dict:
     problems = []
     # DATA rows only: in markdown the line before a '---' separator is a header
     # row, and the corrupt files repeat that header once per source page.
     # Collapsing 12 repeats into 1 must not be read as losing 11 rows.
-    def data_rows(lines):
+    def data_rows(lines, drop_furniture=False):
         return [l for i, l in enumerate(lines) if is_row(l)
-                and not (i + 1 < len(lines) and SEP_RE.match(lines[i + 1]))]
-    o_rows, c_rows = len(data_rows(orig_lines)), len(data_rows(cand_lines))
-    if c_rows < o_rows:
-        problems.append(f"row count fell: {o_rows} original -> {c_rows} candidate")
+                and not (i + 1 < len(lines) and SEP_RE.match(lines[i + 1]))
+                and not (drop_furniture and _is_furniture_row(l))]
+    o_rows = len(data_rows(orig_lines, drop_furniture=True))
+    c_rows = len(data_rows(cand_lines))
+
+    # CONTENT CONTAINMENT, not a row count.  The old rule compared markdown
+    # row counts corpus-vs-candidate and was wrong in both directions: the
+    # corrupt files put a '| --- |' separator after data rows (so those rows
+    # were miscounted as headers and the count ran LOW), and they capture page
+    # furniture as rows (so it also ran HIGH).  It passed fbt-1986 65J, whose
+    # candidate silently deleted three formula blocks from later subsections,
+    # and it could never see the candidate being built from the WRONG table.
+    # Both are token-level facts, so check tokens.
+    # ALL '|' rows, not just data_rows: a corrupt file puts a '| --- |'
+    # separator after real data rows, so data_rows misreads them as headers.
+    # For a token SET the repeated headers are harmless — their tokens are in
+    # the candidate's own header row.
+    def all_rows(lines, drop_furniture=False):
+        return [l for l in lines if is_row(l)
+                and not (drop_furniture and _is_furniture_row(l))]
+    o_tok = _row_tokens(all_rows(orig_lines, drop_furniture=True))
+    c_tok = _row_tokens(all_rows(cand_lines))
+    if not o_tok:
+        problems.append("original table region has no content tokens — "
+                        "nothing to prove the rebuilt table is the right table")
+    else:
+        gone = o_tok - c_tok
+        if gone:
+            problems.append(
+                f"{len(gone)} of {len(o_tok)} distinct token(s) in the original "
+                f"table region are absent from the candidate's table "
+                f"(a different table, or '|' content outside it was deleted): "
+                f"{sorted(gone)[:20]}")
+
+    # every identifier-shaped row id in the original must still be a row id
+    o_ids = {c for l in all_rows(orig_lines, drop_furniture=True)
+             if EX.IDENT_RE.match(c := l.strip().strip("|").split("|")[0].strip())}
+    c_ids = {l.strip().strip("|").split("|")[0].strip()
+             for l in all_rows(cand_lines)}
+    if o_ids - c_ids:
+        problems.append(f"row identifiers dropped: {sorted(o_ids - c_ids)}")
 
     pdf_header = [table.get("id_label", "Item")] + list(table["header"])
     cand_header = next((l for l in cand_lines if is_row(l)), "")
@@ -155,7 +230,7 @@ def g3_structural(orig_lines, cand_lines, table: dict) -> dict:
     bad = [i for i in ids if not EX.IDENT_RE.match(i)]
     if bad:
         problems.append(f"malformed row identifiers: {bad}")
-    nums = [(int(m.group(1)), m.group(2)) for i in ids
+    nums = [_ident_sort_key(m) for i in ids
             if (m := re.match(r"^(\d+)([A-Za-z]*)$", i))]
     if nums != sorted(nums):
         problems.append(f"row identifiers out of order: {ids}")
@@ -229,7 +304,16 @@ def g0_boundary(table: dict) -> dict:
     tail = (table.get("tail_text") or "").strip()
     prose = (not tail
              or re.match(r"^(Note|Notes?:|Example|Subsection|Division|Part|Section)\b", tail)
-             or re.match(r"^\(\d+\)|^\(\w\)\s", tail)
+             # subsection/paragraph markers: (3), (3A), (a), (ca), (iv)
+             or re.match(r"^\(\d+[A-Za-z]*\)|^\([A-Za-z]{1,4}\)", tail)
+             # the rule above the asterisk footnote ends every GST page
+             or re.match(r"^[_\-—–]{6,}$", tail)
+             # the next section's heading ends the table region (gst-1999 s3-5
+             # ends on '3-10 Identifying the defined term in a definition')
+             or re.match(r"^\d+[A-Za-z]*(?:-\d+[A-Za-z]*)?\s+[A-Z]", tail)
+             # the next section's heading ends the table region (gst-1999 s3-5
+             # ends on '3-10 Identifying the defined term in a definition')
+             or re.match(r"^\d+[A-Za-z]*(?:-\d+[A-Za-z]*)?\s+[A-Z]", tail)
              or "Compilation No" in tail or "Authorised Version" in tail
              or re.match(r"^\d*\s*[A-Z][\w’'—-]+( [\w’'(),.—-]+)* \d+$", tail)
              or NOTE_RE.match(tail))
@@ -303,6 +387,12 @@ def selfcheck() -> int:
         "truncated cell":     (good.replace("| 2 | Section 29JCA | ASIC |", "| 2 | Section 29JCA | ASIC and |"), "REJECTED", "G6_coherence"),
         "midword split":      (good.replace("| 1 | Part 2A | APRA |", "| 1 | Part 2A ast | erisked APRA |"), "REJECTED", "G6_coherence"),
     }
+    # the two losses the old row-count rule could not see (CDN-0193 Phase 1):
+    # the original carries a second '|' block outside the rebuilt table, and
+    # the candidate keeps only the table.
+    orig_extra = good.replace("| 2 | Section 29JCA | ASIC |\n",
+                              "| 2 | Section 29JCA | ASIC |\n| Formula | x + y |\n")
+    cases["deleted block outside the table"] = (good, "REJECTED", "G3_structural")
     bad = 0
     with tempfile.TemporaryDirectory() as td:
         orig = Path(td) / "orig.md"
@@ -310,7 +400,11 @@ def selfcheck() -> int:
         for name, (text, want, gate) in cases.items():
             cand = Path(td) / "cand.md"
             cand.write_text(text)
-            rep = gate_file("selfcheck", orig, cand, table)
+            src = orig
+            if name == "deleted block outside the table":
+                src = Path(td) / "orig_extra.md"
+                src.write_text(orig_extra)
+            rep = gate_file("selfcheck", src, cand, table)
             ok = rep["verdict"] == want and (gate is None or not rep["gates"][gate]["pass"])
             bad += not ok
             print(f"  {'ok  ' if ok else 'FAIL'} {name:20s} -> {rep['verdict']}"
