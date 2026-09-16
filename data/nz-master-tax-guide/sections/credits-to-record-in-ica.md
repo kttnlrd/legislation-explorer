@@ -1,0 +1,50 @@
+---
+act: "New Zealand Master Tax Guide"
+part: "17"
+section: "credits-to-record-in-ica"
+title: "Credits to record in ICA"
+paragraph: "¶17-040"
+---
+# Credits to record in ICA ¶17-040
+
+An ICA company has an imputation credit for an amount of income tax or provisional tax paid. Credits that arise are set out in Table O1 and must be read in conjunction with the relevant section when identifying ICA credits. Only one credit entry is allowed for each tax payment type made (s OB 4(5)).
+
+These credits increase the amount available for allocation to dividends paid to shareholders, while credits allocated to those dividends are debited to the ICA.
+
+For ease of reference the transactions that give rise to imputation credits in an ICA are discussed below and numbered in accordance with the numbering used in Table O1 of the IT07.
+
+*Refs: s OB 4(5)*
+
+## Timing of credits
+
+The timing of when the credit arises is set out in Table O1: imputation credits (see below) and in each relevant section. Generally an imputation credit arises on the day the amount of tax is paid, transferred or withheld.
+
+## Note: Table O1 is located immediately after s OB 84.
+
+Table O1: imputation credits Row Imputation credit Credit date Further defined 1 [Repealed] 2 Provisional tax and income tax paid. day of payment s OB 4(4)(a) 2B Transfer to an ICA within a taxpayer's accounts, or day of request for transfer s OB4(4)(c)(i) from another ICA company: transfer of a GST refund, withholding tax, R&D tax credit or transfer of paid provisional tax 2C Transfer to an ICA within a taxpayer's accounts or to day of request for transfer s OB4(4)(c)(ii) another taxpayer, or transfer of paid provisional tax: despite 2B above, requested date if the date is in a following tax year and at the end of the year in which the transfer is made, the ICA credit from the ICA account the amount is transferred from equals or exceeds the amount of all transfers requested in the transfer year 2D Transfer to ICA under s 173L or 173M of the TAA or s RC date of transfer under s s OB 4(4)(c)(iii) 32(5)(b) 173L, 173M or RC 32(5)(b) 3 Deposit into tax pooling account: any tax payment made day of payment s OB 5 by an intermediary into a tax pooling account (¶22-365). 4 Transfer from tax pooling account: any transfer of tax by day of credit s OB 6 an intermediary to company of an entitlement to funds that are held in a tax pooling account. 5 Payment of further income tax: an ICA company has an day of payment s OB 7 imputation credit for an amount of further income tax paid under s OB 65 or s OB 66. 5B Payment of qualifying company election tax: any qualifying day of payment s OB 7B company election tax paid by the company. 5BB Payment of multinational top-up tax (from 1 January 2026) day of payment s OB 7BB
+
+## 5C       [Repealed]
+
+6 Amount of tax withheld for resident passive income: the day on which amount is s OB 8 amount of any RWT deduction treated as having been withheld derived by the company in terms of s RA 9(1)(b). 7 Imputation credit attached to dividend derived: imputation day on which dividend is s OB 9 credits attached to dividends received by a company paid during the tax year. 7B Attributed PIE income with imputation credit: an ICA day of attribution s OB 9B company that is an investor in a multi-rate PIE has an imputation credit for the amount of an imputation credit allocated to it under s HM 54. 7C Research and development tax credits: an ICA company day on which return of s OB 9C has an imputation credit for the amount of R&D tax credits income for income year is the company is entitled to. filed 8 [Repealed] 9 [Repealed] 10 [Repealed] 11 Transfer of debit balance when company leaves wholly- day on which company s OB 13 owned group: the credit arising in the ICA of a company leaves group that ceases to be a member of a wholly-owned group. 12 Additional income tax payable when company leaves day of payment s OB 14 wholly-owned group: the additional income tax paid by a company that ceases to be a member of a wholly-owned group under s OB 71. 13 Additional income tax when company joins wholly-owned day of payment s OB 15 group: the additional income paid by a company that joins a wholly-owned group under s OB 72. 14 Attribution for personal services if company is not 31 March s OB 16 qualifying company: under the personal attribution rules (38.89% from 1 April 2011) of an amount attributed under s GB 29 (s OB 16(1) and ¶33-325). 15 [Repealed] 16 Transfer from ASC account: the amount of a credit day of transfer s OB 18 balance transferred from an available subscribed capital account (ASCA) calculated under s OF 5(4) (¶24-070 and ¶24-192). 17 Transfer to master fund by company: an amount equal day of transfer s OB 19 to the tax percentage of the amount of expenditure transferred to a master fund (a public unit trust or group investment fund that derives category A income) under ss DV 5–DV 7. 17B Transfer of credit to loss-using group company: amount of day of transfer s OB 19B an imputation credit transferred by an ICA company under an election under s OB 83 relating to the tax loss. 18 M#ori authority credit attached to distribution: M#ori day of distribution s OB 20 authority credits attached to a distribution made to the company during the tax year. 19 Transfer of balance of MACA: in the case of a company day of transfer s OB 21 that stops maintaining a M#ori authority credit, the amount
+
+## of the credit balance in the MACA on the date the account
+
+is closed (¶24-327). 20 Replacement payment paid under share-lending day of payment s OB 22 arrangement: imputation credits being attached, or treated as being attached, to a replacement payment paid to the company under a share-lending arrangement during the tax year under s OB 64 or RE 25. 21 Imputation credit shown in credit transfer notice: day on which notice is given s OB 23 imputation credits shown in a credit transfer notice issued by the company during the tax year. 21B Unused imputation credit payment by member before day of credit to ICA of s OB 23B departure: imputation credit transferred to member consolidated imputation departing consolidated group for payments made but not group for unused imputation yet used. credit payment 22 Imputation credit on resident's restricted amalgamation: credit date in account of s OB 24 an ICA company has an imputation credit for the amount amalgamating company of credit that arises on or after a resident's restricted amalgamation. The credit arises in the amalgamated company's ICA when ss OA 10–OA 17 apply. 23 Reversal of debit for tax advantage arrangement: an debit date of debit s OB 25 amount to offset a debit for imputation credits determined to have been the subject of an arrangement to obtain a tax advantage to the extent that it is subsequently established that the imputation credits were not the subject of any such arrangement. 24 Eliminating debit for loss of shareholder continuity day of refund or credit s OB 26 cancelling tax pooling account deposit that is refunded or credited: credit arises to eliminate what would otherwise be a double debit when there is a shareholder continuity debit under s OB 41 and after the shareholder continuity debit, a further debit arises under s OB 34 for a refund of an amount by an intermediary from a tax pooling account. 25 Amount of tax withheld by Australian ICA company for day on which amount is s OB 27 non-resident passive income: an Australian ICA company withheld has an imputation credit for an amount of tax withheld by the payer of non-resident passive income. 26 Amount of tax withheld from schedular payment to day on which amount is s OB 28 Australian ICA company: an Australian ICA company has withheld an imputation credit for an amount equal to the amount of tax for a schedular payment paid to the company as a non-resident contractor. 27 Schedular income tax paid by Australian ICA company: day of payment s OB 29 an Australian ICA company has an imputation credit for a payment of income tax relating to the company's schedular income tax liability for income derived under ss CR 3, CV 16 and CV 17 (non-resident insurers, shippers and film renters, respectively).
+
+Transfers between tax types and taxpayers were not, in practice, aligning with legislation. Therefore, amendments made in 2022 to s OB 4 set out the credit dates for transfer of debts and credits to a company's ICA (rows 2, 2B, 2C and 2D above).
+
+From 30 March 2022, s OB 4(4)(c)(i) provides that the credit date of the transferred amount is the day on which the taxpayer requests the transfer, as long as the ICA credit equals or exceeds the amount of all transfers from that account requested in the tax year, and that the ICA to which the transfer is made is also
+
+in credit. If these requirements are not met, subparagraph (ii) clarifies that the credit date is instead the date of transfer as defined in ss 173L and 173M of the TAA or s RC 32(5)(b) of the IT07.
+
+The amendments do not alter the timing of the effective date of the underlying tax credit, just the entry in the ICA or MACA (for debits and credits in MACAs – ss OK 2, OK 3, OK 11, OK 12 and tables O17 and O18).
+
+## Provisional tax
+
+Any reference to income tax paid by a taxpayer in the imputation legislation is deemed to include a reference to provisional tax paid by the taxpayer. This means that a credit to the ICA arises for payments of instalments of provisional tax. An imputation credit also arises for a company on the transfer of overpaid provisional tax by one company within a wholly-owned group of companies to another company in the same group on the date the transfer is notified to the Commissioner.
+
+For additional credits arising in an ICA for an Australian ICA company, see ¶17-215.
+
+Law: IT07 ss OA 5, OA 7, OB 4–OB 29, Table O1, YA 2(7)
+
+Last reviewed on 31 December 2025

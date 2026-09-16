@@ -1,0 +1,439 @@
+{
+ "downloaded": [
+  {
+   "name": "Accident Compensation.pdf",
+   "id": "01DTBFVRHUQ6WNBKOSWBF25VLYKZZV6Y22",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Accident Compensation.pdf",
+   "size": 105670,
+   "sha256_16": "7c074af918967aac"
+  },
+  {
+   "name": "Apportionment of input tax [\u00b632-022].pdf",
+   "id": "01DTBFVRA6QGOPMMIDXBC3QV663THFA5DM",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Apportionment of input tax [\u00b632-022].pdf",
+   "size": 35147,
+   "sha256_16": "7599668974807c59"
+  },
+  {
+   "name": "Assessments and Disputes Resolution.pdf",
+   "id": "01DTBFVRDXYJLLNUNI6VEIL5OHQ73DNAU7",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Assessments and Disputes Resolution.pdf",
+   "size": 550682,
+   "sha256_16": "893f91e1b5941a4b"
+  },
+  {
+   "name": "Attribution rules for personal services income [\u00b633-325].pdf",
+   "id": "01DTBFVRGLCMIMTEMAV5AZ64LOPIVQN6SM",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Attribution rules for personal services income [\u00b633-325].pdf",
+   "size": 150348,
+   "sha256_16": "68a552b81b4c8f2c"
+  },
+  {
+   "name": "Charging GST output tax [\u00b632-020].pdf",
+   "id": "01DTBFVRBQQRSBRJLZZZEZRM22VFBZ2ZCY",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Charging GST output tax [\u00b632-020].pdf",
+   "size": 19938,
+   "sha256_16": "c562dce4db919760"
+  },
+  {
+   "name": "Child Support and Family Scheme.pdf",
+   "id": "01DTBFVRA2KR3FQKO2TVCKROEUFTEAO4SU",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Child Support and Family Scheme.pdf",
+   "size": 283886,
+   "sha256_16": "b2345e04b80efba6"
+  },
+  {
+   "name": "Claiming GST input tax [\u00b632-021].pdf",
+   "id": "01DTBFVRG3DIMRBD43RZE2PXBLQGB24Q52",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Claiming GST input tax [\u00b632-021].pdf",
+   "size": 17644,
+   "sha256_16": "83be4489b31ea580"
+  },
+  {
+   "name": "Companies.pdf",
+   "id": "01DTBFVRDFQB36EG26R5GI42V5UP5MGHWX",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Companies.pdf",
+   "size": 591601,
+   "sha256_16": "6f5fc3c1d63cb1d1"
+  },
+  {
+   "name": "Company Tax Losses.pdf",
+   "id": "01DTBFVREOHOQZCIRLKFCKLO6FZM7ULNTV",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Company Tax Losses.pdf",
+   "size": 113551,
+   "sha256_16": "0065ed10720e49cb"
+  },
+  {
+   "name": "Consolidated Companies and Amalgamation of Companies.pdf",
+   "id": "01DTBFVRA4PG25OVNZHJH2RVY74UDX46PB",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Consolidated Companies and Amalgamation of Companies.pdf",
+   "size": 235328,
+   "sha256_16": "ad35588f237c645b"
+  },
+  {
+   "name": "Dates - Rates.pdf",
+   "id": "01DTBFVRHDZYW3SJBZJFFIGKV6YN5LTAS6",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Dates - Rates.pdf",
+   "size": 1024335,
+   "sha256_16": "635f74cc795f3ae0"
+  },
+  {
+   "name": "Deductions pt 1.pdf",
+   "id": "01DTBFVRCGNADS5RPVW5AZNET4G7Z7N5H2",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Deductions pt 1.pdf",
+   "size": 175602,
+   "sha256_16": "92f6ddf61bde211f"
+  },
+  {
+   "name": "Deductions pt 2.pdf",
+   "id": "01DTBFVRCT3B4NBKGMFJFKFGZE3ILARAXA",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Deductions pt 2.pdf",
+   "size": 816044,
+   "sha256_16": "9debaefcc6cae16c"
+  },
+  {
+   "name": "Deemed supplies for GST [\u00b632-023].pdf",
+   "id": "01DTBFVRD35AR7IPI7I5BLA2A4VHLZYRXK",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Deemed supplies for GST [\u00b632-023].pdf",
+   "size": 41661,
+   "sha256_16": "e9e2fe7703688ca6"
+  },
+  {
+   "name": "Deprecitation.pdf",
+   "id": "01DTBFVRGUFIPQWX5ANJCIOOSGK5LEDKUW",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Deprecitation.pdf",
+   "size": 682900,
+   "sha256_16": "0ee7a212d4394e04"
+  },
+  {
+   "name": "Duty.pdf",
+   "id": "01DTBFVRCHGD3YV253T5FKRPDWTP3XVC52",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Duty.pdf",
+   "size": 110061,
+   "sha256_16": "c99707acd36cf766"
+  },
+  {
+   "name": "Employers' Responsibilities.pdf",
+   "id": "01DTBFVRHPL7UHCI6GPFF2PSRS5BQEHYGL",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Employers_ Responsibilities.pdf",
+   "size": 930366,
+   "sha256_16": "b1a57cc8f6988abc"
+  },
+  {
+   "name": "Farming, Fishing and Aquaculture.pdf",
+   "id": "01DTBFVRBCTWB5LQHSAND2U5FZDJLWLWL4",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Farming_ Fishing and Aquaculture.pdf",
+   "size": 376614,
+   "sha256_16": "623eb9e537aee206"
+  },
+  {
+   "name": "Financial Arrangements.pdf",
+   "id": "01DTBFVRC4UZCE6PAQGZCI2UJOJLI7BVQK",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Financial Arrangements.pdf",
+   "size": 601700,
+   "sha256_16": "018edc0dba7e3ad0"
+  },
+  {
+   "name": "Forestry.pdf",
+   "id": "01DTBFVRA4VFHMRHUNEBBKSVVCVOPFSJCL",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Forestry.pdf",
+   "size": 103484,
+   "sha256_16": "46fd2b65d2a29026"
+  },
+  {
+   "name": "Fringe Benefit Tax.pdf",
+   "id": "01DTBFVRHPFE7VEUIZUJCZ3EGCUC4RGIID",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Fringe Benefit Tax.pdf",
+   "size": 418636,
+   "sha256_16": "55a1aaa77728e97c"
+  },
+  {
+   "name": "GST on late payment fees [\u00b632-028].pdf",
+   "id": "01DTBFVRHXQHKBBGV5BBAYBFH5LN2WIKHX",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST on late payment fees [\u00b632-028].pdf",
+   "size": 9708,
+   "sha256_16": "bbb70132f7fcb006"
+  },
+  {
+   "name": "GST pt 1.pdf",
+   "id": "01DTBFVRFERWL4TYW7UBGYH3EHAL2EMMBA",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 1.pdf",
+   "size": 7452,
+   "sha256_16": "ad34cc19d09d53aa"
+  },
+  {
+   "name": "GST pt 10.pdf",
+   "id": "01DTBFVRFOFHBALQ2YTZEZ6MFO4SL5IYXC",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 10.pdf",
+   "size": 634909,
+   "sha256_16": "8ffe7d7d82946ce2"
+  },
+  {
+   "name": "GST pt 2.pdf",
+   "id": "01DTBFVREG76WMALDLVFH3TLKXADEUDUB6",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 2.pdf",
+   "size": 91595,
+   "sha256_16": "d325baef7f9007ee"
+  },
+  {
+   "name": "GST pt 3.pdf",
+   "id": "01DTBFVRGJZ6ILKJFC3NDZPTRNLLCIVC42",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 3.pdf",
+   "size": 63973,
+   "sha256_16": "720adf781bb02902"
+  },
+  {
+   "name": "GST pt 4.pdf",
+   "id": "01DTBFVRDRSED5E7FJJVFJXDYU3EW4ISVF",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 4.pdf",
+   "size": 118846,
+   "sha256_16": "d54372654f6fe0d9"
+  },
+  {
+   "name": "GST pt 5.pdf",
+   "id": "01DTBFVRFKTOOFJYE6IFDZBM2OPV2EKPS2",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 5.pdf",
+   "size": 35170,
+   "sha256_16": "eb6fc6a3527e399d"
+  },
+  {
+   "name": "GST pt 6.pdf",
+   "id": "01DTBFVRCAQCMTV5UKRRE3DCMOBOWFTEWG",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 6.pdf",
+   "size": 186399,
+   "sha256_16": "a76098ebbf380537"
+  },
+  {
+   "name": "GST pt 7.pdf",
+   "id": "01DTBFVRGJFPL2FRP2Q5AL54UXYFXXNOJ5",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 7.pdf",
+   "size": 22610,
+   "sha256_16": "d67a6c00d8dbb3fe"
+  },
+  {
+   "name": "GST pt 8.pdf",
+   "id": "01DTBFVRBME3KXBCCGYRE2BGQBNMLW3MGA",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 8.pdf",
+   "size": 41509,
+   "sha256_16": "598ac41d76c4f48b"
+  },
+  {
+   "name": "GST pt 9.pdf",
+   "id": "01DTBFVRBKDIELGAGUXVAJA6BHXNG6Z5EV",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/GST pt 9.pdf",
+   "size": 239779,
+   "sha256_16": "da9506703a16da5d"
+  },
+  {
+   "name": "Imputation.pdf",
+   "id": "01DTBFVRBBNVJ25OBQDFGKOL2NOLY25SEX",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Imputation.pdf",
+   "size": 372719,
+   "sha256_16": "fe46ccee01485edc"
+  },
+  {
+   "name": "Income pt 1.pdf",
+   "id": "01DTBFVRHE7P2JQKKOUFFKMDVX3UAUXHXV",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Income pt 1.pdf",
+   "size": 190841,
+   "sha256_16": "8d276dd5f1b400b8"
+  },
+  {
+   "name": "Income pt 2.pdf",
+   "id": "01DTBFVRAB6QCRO2E2QNCZDGNZKY4MYNMW",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Income pt 2.pdf",
+   "size": 782831,
+   "sha256_16": "67891c58f37803bd"
+  },
+  {
+   "name": "Indexes and Highlights.pdf",
+   "id": "01DTBFVRDEV3AHUCUNNFCJB6IIYCO6U3JS",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Indexes and Highlights.pdf",
+   "size": 4438340,
+   "sha256_16": "16c93afd40e307cf"
+  },
+  {
+   "name": "International Tax.pdf",
+   "id": "01DTBFVREIVORGWEGVYFFIIZMMR4OZEXWK",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/International Tax.pdf",
+   "size": 584368,
+   "sha256_16": "6d60b6f94090897b"
+  },
+  {
+   "name": "Land Transactions pt 1.pdf",
+   "id": "01DTBFVRBDJMR6SOTPSVBZQ4AWHDZGJ5AE",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Land Transactions pt 1.pdf",
+   "size": 80899,
+   "sha256_16": "a274612675577cc3"
+  },
+  {
+   "name": "Land Transactions pt 2.pdf",
+   "id": "01DTBFVRC7EXDS7GGJ3VFLXCWPTLLLE52N",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Land Transactions pt 2.pdf",
+   "size": 1374818,
+   "sha256_16": "14eb3417e120c729"
+  },
+  {
+   "name": "Looking Ahead.pdf",
+   "id": "01DTBFVRFLJTF33IDN3RHL4J53ZOCCYHWZ",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Looking Ahead.pdf",
+   "size": 33970,
+   "sha256_16": "f38c0e768ce93da4"
+  },
+  {
+   "name": "Mining.pdf",
+   "id": "01DTBFVREAZQ4BZUX3IZGIROWCNTJTNAX2",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Mining.pdf",
+   "size": 101094,
+   "sha256_16": "a96028dee779369c"
+  },
+  {
+   "name": "Modified time of supply for GST [\u00b632-026].pdf",
+   "id": "01DTBFVREFLOKHIREHFFC34PGXYGOVWN4S",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Modified time of supply for GST [\u00b632-026].pdf",
+   "size": 30372,
+   "sha256_16": "780d4ba580ce0712"
+  },
+  {
+   "name": "Partnerships.pdf",
+   "id": "01DTBFVRB27ELY7T4EOFGKLZJYNGOSWPAG",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Partnerships.pdf",
+   "size": 198483,
+   "sha256_16": "9b1d3505a5858d59"
+  },
+  {
+   "name": "Penalties, Interest and Offences.pdf",
+   "id": "01DTBFVRF6P2ZSKZCKSRGL37CEN7FRREWR",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Penalties_ Interest and Offences.pdf",
+   "size": 388683,
+   "sha256_16": "207788c841ea5b02"
+  },
+  {
+   "name": "Precedents.pdf",
+   "id": "01DTBFVRC4AYB4HGFXTRBKDQVOESOE5H4O",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Precedents.pdf",
+   "size": 46108,
+   "sha256_16": "d9eb7785fb27cc13"
+  },
+  {
+   "name": "Provisional Tax.pdf",
+   "id": "01DTBFVRB7ZM5PLUFH4ZCZTZXDCUVAJRQR",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Provisional Tax.pdf",
+   "size": 311716,
+   "sha256_16": "6b12d386227a6de1"
+  },
+  {
+   "name": "Qualifying Companies and Look Through Companies.pdf",
+   "id": "01DTBFVRE7Y4KKIH3GTNH2CFT3Z3R5WAMM",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Qualifying Companies and Look Through Companies.pdf",
+   "size": 244856,
+   "sha256_16": "2caa44dcf40d212d"
+  },
+  {
+   "name": "Resident Withholding Tax.pdf",
+   "id": "01DTBFVRDLQUK7Z3DJ45E3N56UVCW35Q53",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Resident Withholding Tax.pdf",
+   "size": 288729,
+   "sha256_16": "0843c1473b8079f1"
+  },
+  {
+   "name": "Savings Investment, Kiwisaver and Superannuation.pdf",
+   "id": "01DTBFVRGWBOMDZMLMDBDYL2PCB3NAVJCD",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Savings Investment_ Kiwisaver and Superannuation.pdf",
+   "size": 308706,
+   "sha256_16": "02b961b5d4a7d913"
+  },
+  {
+   "name": "Special Companies and Associations.pdf",
+   "id": "01DTBFVRCEIOMT6ZOU5FHKOSTUHDRT2PKW",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Special Companies and Associations.pdf",
+   "size": 401079,
+   "sha256_16": "27dbe349715148e1"
+  },
+  {
+   "name": "Student Loans.pdf",
+   "id": "01DTBFVRF5DYBPGRKTEJCK5WG3JD2GHO5D",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Student Loans.pdf",
+   "size": 166337,
+   "sha256_16": "f26d292bde6a1937"
+  },
+  {
+   "name": "Tax Avoidance pt 1.pdf",
+   "id": "01DTBFVRFLDERK3DUDRREK7LJIHWAZQS4U",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Tax Avoidance pt 1.pdf",
+   "size": 440960,
+   "sha256_16": "11b54b4314af5507"
+  },
+  {
+   "name": "Tax Avoidance pt 2.pdf",
+   "id": "01DTBFVRFIZPS6CZSJZVBJKMN4ITULVLZO",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Tax Avoidance pt 2.pdf",
+   "size": 116262,
+   "sha256_16": "b66e2beffb60ac8a"
+  },
+  {
+   "name": "Tax Credits.pdf",
+   "id": "01DTBFVRB6QUL7HRCNS5HI3TDEK2DZ4B3W",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Tax Credits.pdf",
+   "size": 228636,
+   "sha256_16": "647d30e9eb582176"
+  },
+  {
+   "name": "Tax Returns.pdf",
+   "id": "01DTBFVRACS6Q2PPLQHVBYIAI54ANEAPM3",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Tax Returns.pdf",
+   "size": 473721,
+   "sha256_16": "a98a89fb9a1e2e10"
+  },
+  {
+   "name": "Tax System.pdf",
+   "id": "01DTBFVRGTKUEVQ7PVKBB2MLVWV2CRPGI5",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Tax System.pdf",
+   "size": 632809,
+   "sha256_16": "b290a820d1c12f18"
+  },
+  {
+   "name": "Taxable activity defined [\u00b632-024].pdf",
+   "id": "01DTBFVREX2D4MXKUIMVFKU4JRY743H3H4",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Taxable activity defined [\u00b632-024].pdf",
+   "size": 17281,
+   "sha256_16": "128f79278c2fada7"
+  },
+  {
+   "name": "Time of supply for GST [\u00b632-025].pdf",
+   "id": "01DTBFVRGO32OW3MUZFBCJWFBAQBJ7OOGX",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Time of supply for GST [\u00b632-025].pdf",
+   "size": 18973,
+   "sha256_16": "9c8f03f6f153484c"
+  },
+  {
+   "name": "Trading Stock.pdf",
+   "id": "01DTBFVRD6ZXTQXEBLTZF2MMYTOFIUOXJG",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Trading Stock.pdf",
+   "size": 181965,
+   "sha256_16": "58c8d8096531d1bc"
+  },
+  {
+   "name": "Trusts.pdf",
+   "id": "01DTBFVRHHBFUJKJZO6RCL5XWTXJASR3ZN",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Trusts.pdf",
+   "size": 759405,
+   "sha256_16": "bda7c22e9d32f5ea"
+  },
+  {
+   "name": "Value of supply for GST [\u00b632-027].pdf",
+   "id": "01DTBFVRCEDR6GYFOUORHY5CVS7KQ743NW",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/Value of supply for GST [\u00b632-027].pdf",
+   "size": 34548,
+   "sha256_16": "63f95a72ef941d92"
+  },
+  {
+   "name": "What\u2019s New in NZ Updating Master Tax Guide.pdf",
+   "id": "01DTBFVRBCNNYWR42HE5EKOHPHCX2FJQEM",
+   "path": "/home/harrison/legislation-explorer/data/nz-master-tax-guide/source/What_s New in NZ Updating Master Tax Guide.pdf",
+   "size": 78970,
+   "sha256_16": "1947d31fb0da414f"
+  }
+ ],
+ "failures": []
+}
