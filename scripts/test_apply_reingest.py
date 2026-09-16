@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import hashlib
 import importlib.util
+import io
 import json
 import os
 import tempfile
@@ -29,6 +30,7 @@ def _load(name: str):
 
 AR = _load("apply_reingest")
 STAGING = _load("table_rebuild_staging")
+GUARD = _load("corpus_change_guard")
 
 SRC_MD = """---
 section: "82-150"
@@ -53,7 +55,8 @@ def sha(p: Path) -> str:
 class Fixture:
     """A temp corpus + temp staging root with one staged section."""
 
-    def __init__(self, tmp: Path, section="82-150", needs_review=False, out_text=OUT_MD):
+    def __init__(self, tmp: Path, section="82-150", needs_review=False, out_text=OUT_MD,
+                 src_text=SRC_MD):
         self.tmp = tmp
         self.act = "itaa-1997"
         self.section = section
@@ -61,7 +64,7 @@ class Fixture:
         self.corpus = tmp / "data" / self.act / "sections" / "division-82"
         self.corpus.mkdir(parents=True, exist_ok=True)
         self.corpus_file = self.corpus / f"{section}.md"
-        self.corpus_file.write_text(SRC_MD)
+        self.corpus_file.write_text(src_text)
         cand = tmp / "cand" / f"{section}.md"
         cand.parent.mkdir(parents=True, exist_ok=True)
         cand.write_text(out_text)
@@ -200,6 +203,166 @@ class ApplyReingestTest(unittest.TestCase):
 
     def corpus_snapshot(self, f) -> dict:
         return {str(p): sha(p) for p in sorted(f.corpus.rglob("*")) if p.is_file()}
+
+
+# ── the G-B prose-collapse adjudication ─────────────────────────────────────
+# The corpus stored this finding table as one run of prose; the re-ingest
+# rebuilt it from the PDF.  The guard's G-B rule calls that "prose converted to
+# rows" and BLOCKs — correct for a per-table rebuild, wrong as a pass/fail for a
+# whole-section re-ingest.  These fixtures are real: the BLOCK under test comes
+# from corpus_change_guard.check_file itself, never from a hand-written string.
+GB_FM = '''---
+section: "112-77"
+source_pdf: "vol03.pdf"
+---
+'''
+GB_SRC = GB_FM + """# 112-77  Exchangeable interests
+
+Exchangeable interests
+
+Item In this situation Element affected See section 1 You acquire shares in a company in exchange for the disposal of an exchangeable interest and the disposal of the exchangeable interest was to the issuer of the exchangeable interest First element of cost base and reduced cost base 130-105 2 You acquire shares in a company in exchange for the redemption of an exchangeable interest First element of cost base and reduced cost base 130-105
+"""
+GB_OUT = GB_FM + """# 112-77  Exchangeable interests
+
+Exchangeable interests
+
+| Item | In this situation | Element affected | See section |
+| --- | --- | --- | --- |
+| 1 | You acquire shares in a company in exchange for the disposal of an exchangeable interest and the disposal of the exchangeable interest was to the issuer of the exchangeable interest | First element of cost base and reduced cost base | 130-105 |
+| 2 | You acquire shares in a company in exchange for the redemption of an exchangeable interest | First element of cost base and reduced cost base | 130-105 |
+"""
+# The source PDF says everything the prose said (this is what the re-ingest read).
+GB_PDF = ("112-77  Exchangeable interests\n"
+          "Item In this situation: Element affected: See section:\n"
+          "1 You acquire shares in a company in exchange for the disposal of an "
+          "exchangeable interest and the disposal of the exchangeable interest was to "
+          "the issuer of the exchangeable interest First element of cost base and "
+          "reduced cost base 130-105\n"
+          "2 You acquire shares in a company in exchange for the redemption of an "
+          "exchangeable interest First element of cost base and reduced cost base 130-105\n")
+
+
+class AdjudicationTest(unittest.TestCase):
+    """Deliverable 1: a G-B block is adjudicated per file, never relaxed."""
+
+    def setUp(self):
+        self._td = tempfile.TemporaryDirectory()
+        self.tmp = Path(self._td.name)
+        self.addCleanup(self._td.cleanup)
+        self._real_guard, self._real_pdf = AR.run_guard, AR.section_pdf_text
+        self.addCleanup(self._restore)
+        self.pdf_text = GB_PDF
+
+    def _restore(self):
+        AR.run_guard, AR.section_pdf_text = self._real_guard, self._real_pdf
+
+    def fixture(self, src=GB_SRC, out=GB_OUT):
+        f = Fixture(self.tmp, section="112-77", src_text=src, out_text=out)
+        self.old = src
+        # The guard runs for real — only its git plumbing (HEAD side, repo-relative
+        # paths) is replaced, because the fixture corpus is a temp dir, not the repo.
+        def fake_run_guard(paths):
+            res = [GUARD.check_file(self.old, Path(p).read_text(), str(p)) for p in paths]
+            rc = 1 if any(r["status"] == "BLOCK" for r in res) else 0
+            return rc, "\n".join(f"{r['status']} {r['path']}" for r in res), res
+        AR.run_guard = fake_run_guard
+        AR.section_pdf_text = lambda *a, **k: (self.pdf_text, "vol03.pdf pp.361-362")
+        return f
+
+    def run_batch(self, f, **kw):
+        buf = io.StringIO()
+        return f.run(guard=True, out=buf, **kw), buf.getvalue()
+
+    def only_block(self, s):
+        self.assertEqual(s["guard"]["output"].count("BLOCK"), 1, s["guard"]["output"])
+
+    # 11 — the real case: tokens are in the PDF and now sit in table rows
+    def test_gb_collapse_with_tokens_in_pdf_and_in_rows_is_adjudicated(self):
+        f = self.fixture()
+        s, text = self.run_batch(f)
+        adj = s["adjudication"]
+        self.assertEqual((adj["adjudicated"], adj["fatal"]), (1, 0), text)
+        ev = adj["files"][0]
+        self.assertEqual(ev["verdict"], "ADJUDICATED")
+        self.assertTrue(ev["tokens"], "no token evidence recorded")
+        self.assertTrue(all(t["in_pdf"] for t in ev["tokens"]))
+        self.assertTrue(all("row" in t["now_in"] for t in ev["tokens"]))
+        self.assertTrue(all(t["at"] for t in ev["tokens"]))
+        self.assertEqual(s["guard"]["returncode"], 0)
+        self.assertEqual(s["guard"]["verdict"], "ADJUDICATED")
+        self.assertIn("WARN ADJUDICATED", text)
+        self.assertIn("G-B prose collapsed", "\n".join(ev["reasons"]))
+
+    # 12 — a token the PDF does not have is a real loss: stays fatal
+    def test_token_absent_from_pdf_stays_fatal(self):
+        f = self.fixture()
+        self.pdf_text = GB_PDF.replace("redemption", "")
+        s, text = self.run_batch(f)
+        ev = s["adjudication"]["files"][0]
+        self.assertEqual(ev["verdict"], "FATAL")
+        self.assertIn("not in the source PDF", ev["why"])
+        self.assertIn("redemption", ev["why"])
+        self.assertEqual(s["guard"]["returncode"], 1)
+        self.assertIn("NOT safe to keep", text)
+
+    # 13 — in the PDF but nowhere in the output: still a loss, stays fatal
+    def test_token_in_pdf_but_missing_from_output_stays_fatal(self):
+        src = GB_SRC.replace("See section 1 You acquire",
+                             "See section Zeugma 1 You acquire")
+        f = self.fixture(src=src)
+        self.pdf_text = GB_PDF + "\nZeugma\n"
+        s, _ = self.run_batch(f)
+        ev = s["adjudication"]["files"][0]
+        self.assertEqual(ev["verdict"], "FATAL")
+        self.assertIn("appear nowhere in a table row", ev["why"])
+        tok = next(t for t in ev["tokens"] if t["token"] == "Zeugma")
+        self.assertTrue(tok["in_pdf"])
+        self.assertEqual(tok["now_in"], [])
+        self.assertEqual(s["guard"]["returncode"], 1)
+
+    # 14 — a block carrying any other rule is never adjudicated
+    def test_other_rule_in_block_never_adjudicated(self):
+        # a second pipe block with no separator row: G-A fires as well as G-B
+        out = GB_OUT + "\n| stray | block |\n| with | no separator |\n"
+        f = self.fixture(out=out)
+        s, _ = self.run_batch(f)
+        ev = s["adjudication"]["files"][0]
+        self.assertTrue(any("G-A" in r for r in ev["reasons"]), ev["reasons"])
+        self.assertEqual(ev["verdict"], "FATAL")
+        self.assertIn("other than G-B prose-collapse", ev["why"])
+        self.assertEqual(ev["tokens"], [])
+        self.assertEqual(s["guard"]["returncode"], 1)
+
+    # 15b — an anchor id is markup and exempt; the same word outside a tag is not
+    def test_markup_only_tokens_exempt_but_real_words_still_proven(self):
+        src = GB_SRC.replace("Exchangeable interests\n\nItem",
+                             'Exchangeable interests\n\n<a id="s112-77-a"></a>\n\nItem')
+        f = self.fixture(src=src)
+        s, _ = self.run_batch(f)
+        ev = s["adjudication"]["files"][0]
+        self.assertEqual(ev["verdict"], "ADJUDICATED", ev["why"])
+        marked = {t["token"] for t in ev["tokens"] if t["markup"]}
+        # 'a' is the tag name, but 'a' also occurs in real prose -> NOT exempt
+        self.assertEqual(marked, {"id", "s112-77-a"})
+        self.assertTrue(all(not t["in_pdf"] for t in ev["tokens"] if t["markup"]))
+
+        # the same anchor, but 'interest' also lives inside the tag AND in real
+        # prose: it is NOT markup-only, so it still has to be in the PDF
+        self.pdf_text = GB_PDF.replace("interest", "x")
+        f2 = self.fixture(src=src)
+        s2, _ = self.run_batch(f2)
+        ev2 = s2["adjudication"]["files"][0]
+        self.assertEqual(ev2["verdict"], "FATAL")
+        self.assertIn("interest", ev2["why"])
+
+    # 15 — --no-adjudicate is the raw guard: a block is always fatal
+    def test_no_adjudicate_keeps_the_block_fatal(self):
+        f = self.fixture()
+        s, text = self.run_batch(f, adjudicate=False)
+        self.assertNotIn("adjudication", s)
+        self.assertEqual(s["guard"]["returncode"], 1)
+        self.assertEqual(s["guard"]["verdict"], "BLOCK")
+        self.assertIn("NOT safe to keep", text)
 
 
 if __name__ == "__main__":
